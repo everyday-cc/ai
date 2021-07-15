@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Chipsets Market Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2027"
+    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
+    publishedDateTime: 2021-07-15T03:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Retail Market – Industry Growth Analysis & Forecast By 2027"
     excerpt: "Managed services to drive artificial intelligence in retail market trends Artificial intelligence (AI) in retail market will be significantly bolstered with the surging need for digitization and the consistent development of new business models across the ..."
     publishedDateTime: 2021-07-12T08:50:00Z
@@ -42,15 +56,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chipsets Market Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2027"
-    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
-    publishedDateTime: 2021-07-15T03:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14"
+  - title: "Machine Learning Market Trends and Forecast 2028"
+    excerpt: "The Global Machine Learning Market is estimated to value over USD 16.3 billion by 2028 finish at a CAGR of over 44.1% throughout the forecast from 2021 to 2028. The report on Machine Learning provides the purchasers with a comprehensive analysis of crucial driving factors,"
+    publishedDateTime: 2021-07-13T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-trends-and-forecast-2028-2021-07-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Size predicts favorable growth and forecast 2020 - 2026"
+    excerpt: "Market Research Engine has published a new report titled as \"Artificial Intelligence Market Size By Offering ("
+    publishedDateTime: 2021-07-13T20:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-predicts-favorable-growth-and-forecast-2020---2026-2021-07-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -70,51 +98,29 @@ related:
         width: 504
         height: 336
         isCached: true
-  - title: "Artificial Intelligence In The Automotive Market Analysis & Forecast For Next 5 Years"
-    excerpt: "The latest independent research document on Artificial Intelligence In The Automotive examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Artificial Intelligence"
-    publishedDateTime: 2021-07-10T16:57:00Z
-    webUrl: "https://www.openpr.com/news/2325774/artificial-intelligence-in-the-automotive-market-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2325774/artificial-intelligence-in-the-automotive-market-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325774/artificial-intelligence-in-the-automotive-market-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 50
-    images:
-      - url: "https://cdn.openpr.com/U/7/U710733997_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Intel Stock – Artificial Intelligence (AI) Robots Market Size, Share 2021-2028"
-    excerpt: "Robots Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years."
-    publishedDateTime: 2021-07-11T10:52:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_intel/intel-stock-artificial-intelligence-ai-robots-market-size-share-2021-2028/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 45
-  - title: "Artificial Intelligence in Machine Learning Market 2021: Global Industry Analysis Report to 2027"
-    excerpt: "healthcare, retail, finance and manufacturing. However, while technology has always been a staple of these industries, artificial intelligence (AI) has brought technology to the center of organizations. (Get 15% Discount on Buying this Report) A full ..."
-    publishedDateTime: 2021-07-12T12:14:00Z
-    webUrl: "https://www.openpr.com/news/2326383/artificial-intelligence-in-machine-learning-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2326383/artificial-intelligence-in-machine-learning-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326383/artificial-intelligence-in-machine-learning-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 43
-  - title: "Machine Translation Market in APAC with COVID-19 Impact by Growth Potential, Manufacturers, Production, Revenue and Forecast 2026"
-    excerpt: "APAC machine translation market is set to witness significant growth during the forecast period of 2020-2026, thanks to the consistent increase in the adoption of various artificial intelligence (AI) technologies and smart devices."
-    publishedDateTime: 2021-07-14T14:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-in-apac-with-covid-19-impact-by-growth-potential-manufacturers-production-revenue-and-forecast-2026-2021-07-14"
+  - title: "Healthcare Natural Language Processing Market 2021 Analysis of Key Trends, Industry Dynamics and Future Growth 2025 with Top Countries Data"
+    excerpt: "Jul 15, 2021 (Market Insight Reports) -- Overview for \"Healthcare Natural Language Processing Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. The study of Healthcare Natural Language Processing market ..."
+    publishedDateTime: 2021-07-15T08:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2021-analysis-of-key-trends-industry-dynamics-and-future-growth-2025-with-top-countries-data-2021-07-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Software Market Size 2021-2027 | Brief Analysis by Type, Top Manufacturers, Trends and Future Prospects"
+    excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Deep Learning Software Market” report"
+    publishedDateTime: 2021-07-13T06:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-2021-2027-brief-analysis-by-type-top-manufacturers-trends-and-future-prospects-2021-07-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -134,35 +140,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in IoT Market Analysis By Technological Advancement, Regional Outlook And Forecast to 2027"
-    excerpt: "Latest released the research study on Global AI in IoT Market Report Forecast 2021 2027 offers a detailed overview of the factors influencing the global business scope AI in IoT Market research report shows the latest market insights current situation"
-    publishedDateTime: 2021-07-10T13:47:00Z
-    webUrl: "https://www.openpr.com/news/2325730/ai-in-iot-market-analysis-by-technological-advancement"
-    ampWebUrl: "https://www.openpr.com/amp/2325730/ai-in-iot-market-analysis-by-technological-advancement"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325730/ai-in-iot-market-analysis-by-technological-advancement"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 28
-  - title: "Global Artificial Intelligence (AI) in BFSI Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in BFSI Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence (AI) is fast evolving as the"
-    publishedDateTime: 2021-07-13T08:22:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4662109-global-artificial-intelligence-ai-in-bfsi-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 26
-  - title: "Global Artificial Intelligence in Retail Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Retail Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Retail"
-    publishedDateTime: 2021-07-13T08:23:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4662322-global-artificial-intelligence-in-retail-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 26
   - title: "2021 Artificial Intelligence (AI) In Drug Discovery Market Size, Revenue, Growth Development, Opportunities, Trends, Forecast To 2030"
     excerpt: "Artificial Intelligence for drug discovery is a technology that uses ... Located globally it has specialist consultants in a wide range of industries including manufacturing, healthcare, financial services, chemicals, and technology. The World’s Most ..."
     publishedDateTime: 2021-07-15T04:51:00Z
@@ -188,15 +165,20 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market SWOT Analysis by Size, Status and Forecast to 2021-2027"
-    excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Construction Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Construction space,"
-    publishedDateTime: 2021-07-11T01:39:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-swot-analysis-by-size-status-and-forecast-to-2021-2027/"
+  - title: "Deep Neural Networks Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
+    excerpt: "The report talks about the production capacity, demand and supply trends, market dynamics, and impact of these and other key factors on the global Deep Neural Networks market. It also offers an extensive analysis of the competitive landscape along with an industry-wide analysis of the market share of each player along with their business profiles."
+    publishedDateTime: 2021-07-12T17:13:00Z
+    webUrl: "https://manometcurrent.com/deep-neural-networks-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-by-2027/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 14
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/RD11-2-390x220.png"
+        width: 390
+        height: 220
+        isCached: true
   - title: "Artificial Intelligence in Agriculture Market Size - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
     excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
     publishedDateTime: 2021-07-13T10:44:00Z
@@ -206,14 +188,14 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 5
-  - title: "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027"
-    excerpt: "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,"
-    publishedDateTime: 2021-07-13T14:07:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/"
+  - title: "Global Educational Robot Market (2021 to 2026) – Industry Trends, Share, Size, Growth, Opportunity and Forecasts – ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global educational robot market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-07-12T14:08:00Z
+    webUrl: "https://www.financialbuzz.com/global-educational-robot-market-2021-to-2026-industry-trends-share-size-growth-opportunity-and-forecasts-researchandmarkets-com/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 0
 
 secured: "HC0uLnl6HO42PaEQPh0wHC+QGQa/TUHqJf3nRIhFDOKtD4lWySLCx9dMTonbvT9+vHze7SpXONC8tPQAlrcib7KgUOPxYJoRmf/ig9AJMKeKepoazmauI7ovZaVHe+A3ZYIDQkHvYl7yctHHBq2XP/R05iNoMIlGMXtiGCBww8No/fB1FQ+O7hzsE8Ih5sE9rBG+/Nc8r6SOh/Pzfh6DMTrwGGz5+fL71a0VXLUSyRTge6XtWwzkJJhmhhcgN95JI7zdd1ONQYEGSFVZ2LXzZmeehi0x3AyLSGsqGp+DHYIA732arGWCcaE4GsQ0eCDh3iM6otKsOjuccHbfXxrC3uQCP+SLttVTvLrr27m490U=;7LHID1GAkzc2RTHeUEM7xw=="

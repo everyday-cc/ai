@@ -39,22 +39,6 @@ related:
         width: 5570
         height: 3713
         isCached: true
-  - title: "How cybersecurity is getting AI wrong"
-    excerpt: "Organizations are introducing AI models into security practices across their business, but they're not properly managing the risk."
-    publishedDateTime: 2021-07-10T13:21:00Z
-    webUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/"
-    ampWebUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Ensure AI brings social good and not inequity: Experts at Asia Tech x Singapore"
     excerpt: "SINGAPORE - Artificial intelligence (AI) technologies can bring a wide range of opportunities and benefits, but they also come with the risk of perpetuating biases and inequitable distribution of those benefits."
     publishedDateTime: 2021-07-14T14:37:00Z

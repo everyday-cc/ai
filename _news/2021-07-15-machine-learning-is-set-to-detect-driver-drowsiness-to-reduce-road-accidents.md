@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-15T07:15:00Z
 originalUrl: "https://www.analyticsinsight.net/machine-learning-is-set-to-detect-driver-drowsiness-to-reduce-road-accidents/"
 webUrl: "https://www.analyticsinsight.net/machine-learning-is-set-to-detect-driver-drowsiness-to-reduce-road-accidents/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Analytics Insight

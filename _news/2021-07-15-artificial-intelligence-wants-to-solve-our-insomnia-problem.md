@@ -5,7 +5,12 @@ excerpt: "A new artificial intelligence could be the secret to a better night’
 publishedDateTime: 2021-07-15T06:56:00Z
 originalUrl: "https://metro.co.uk/2021/07/15/artificial-intelligence-wants-to-solve-our-insomnia-problem-14931873/"
 webUrl: "https://metro.co.uk/2021/07/15/artificial-intelligence-wants-to-solve-our-insomnia-problem-14931873/"
+ampWebUrl: "https://metro.co.uk/2021/07/15/artificial-intelligence-wants-to-solve-our-insomnia-problem-14931873/amp/"
+cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/07/15/artificial-intelligence-wants-to-solve-our-insomnia-problem-14931873/amp/"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Metro
@@ -13,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "e1Ut/A4juJgctQquPmZ8jEPQEv+4u/DO6lNo3gv+mxDiLJvJQPiDdBxPE0FslZq93V12bYEzXUo2bM2SSrn5SaNm7GVoNX1mvXAjJ9YjcaQ+pWZTX+8p7DLTe/52tJAHmWItzsdQoQ0DzNU5fKH++8KXG9bNVdlINxD1RM3J5aAnBt8SEU81U2EjJ6x9nDj0uFyI/PyW6E29ADW+WPmstXNf8rE75sahH7No7177WkMOwklx4a0+7oFfCJLLZMHcGVoraHq/UuayJXbLnR3sS/kob3L0N9WnKz92SPVQ+VFaFcLYVWett4Vu6FQH3woxyOUJu9ve900yzxUBUtXJS37ww1qL6yIUuJ/7aWMCkjfHsV/UcD49OkPF8ElTUhSKQp4N2ffCd/2UBkHKcsnfFypUYZrgZ7r4L0/HVS/+M1ai2Yih+ESien2azLmQJZ6cDo+9VIJPg//JCGPYDFljdUdXBKWwck2wlueUMu0AwoHcxy4/FXcunBaz8DisjCGY0oRhw6j5cLInwydgZ5R0Tw==;X3fzg8iNgHhKCvDTdWjm7Q=="
+images:
+  - url: "https://metro.co.uk/wp-content/uploads/2021/07/SEI_87560716.jpg?quality=90&strip=all&zoom=1&resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "yIkVYqEnEXVLYxe/R9GDTcklgvd8AY2hCTPFLWxGkoiPm+21GWzV/krOq419DzYgB/6fEKmL38a0/S53tqqAT2UB6tAdM//kFzvrdOwxf4zZFc2pD24xQkvFI7f102wuZHDLgMcMvrkBxPCemgtnub1VWPWlXmYbV+t2d3FoF9+jg3DqyrC4S3UsaFCNNbStz4y1ggmvJsAKGoN9Lzj0Igu1zAtH+BFfycJQgBFMVpqqoz7mp0BuiKSCZzPdUUq1ijZZUa54YfA82QFbErOj/tw+JY0AOokj6kGzCOpOoIpSLbMu067wuR6SscrU4NG0rXFdfD1AL1XJUOIkdcPn6I4h7x9VdclZLPYBMe+5rQY=;PIDjw1HeLhV7sn8rkPncng=="
 ---
 

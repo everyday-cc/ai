@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-14-the-rise-of-the-robot-expert.md",
+      "title": "The rise of the robot expert",
+      "excerpt": "But where do decision makers, who often see a need but don't have technical expertise in automation, start ... of the Robot Expert will change as AMRs become smarter through newer sensors, faster computer processing power and more sophisticated AI algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-rise-of-the-robot-expert/",
+      "originalUrl": "https://www.zdnet.com/article/the-rise-of-the-robot-expert/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/12/a4ea2755-e8e1-4611-b737-34395a6ec0c9/robot-expert.jpg",
+          "width": 1280,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-rise-of-the-robot-expert/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-rise-of-the-robot-expert/",
+      "publishedDateTime": "2021-07-14T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market.md",
       "title": "Compliance with Safety Regulations Becomes Key Proposition in Medical Robotics Market",
       "excerpt": "Robots have enormous potential in medical and healthcare applications, as is evident in the swift pace of penetration in the sector. Per a projection by the International Federation of Robots (IFR), the medical robotics spawn a multibillion dollars market.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -259,7 +311,7 @@
       "originalUrl": "https://www.cnbc.com/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -597,7 +649,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1174,57 +1226,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-getting-to-production-ai-faster-with-a-data-centric-approach.md",
-      "title": "Getting to production AI faster with a data-centric approach",
-      "excerpt": "Labelbox's Manu Sharma discusses how machine learning teams get to production AI faster by taking a data-centric approach at Transform 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/13/getting-to-production-ai-faster-with-a-data-centric-approach/",
-      "originalUrl": "https://venturebeat.com/2021/07/13/getting-to-production-ai-faster-with-a-data-centric-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/shutterstock_574000213-e1626179563955.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/13/getting-to-production-ai-faster-with-a-data-centric-approach/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/getting-to-production-ai-faster-with-a-data-centric-approach/amp/",
-      "publishedDateTime": "2021-07-13T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

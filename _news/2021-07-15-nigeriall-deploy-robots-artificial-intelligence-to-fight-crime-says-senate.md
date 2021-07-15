@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/nigeriall-deploy-robots-artificial-intelligence-
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate/?amp"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 740
         height: 416
         isCached: true
+  - title: "Robots, Artificial Intelligence Will Be Deployed To Fight Crime – Senate"
+    excerpt: "The Senate, on Wednesday, July 14, said that the Ministry of Communications and Digital Economy, has established a centre for artificial intelligence and robotics, to deploy the use of robots and artificial intelligence in combating crime and criminality in Nigeria."
+    publishedDateTime: 2021-07-15T07:03:00Z
+    webUrl: "https://olorisupergal.com/2021/07/15/robots-artificial-intelligence-will-be-deployed-to-fight-crime-senate/"
+    type: article
+    provider:
+      name: Olori Supergal
+      domain: olorisupergal.com
+    quality: 33
 
 secured: "9+B7fvg8pqWkCU8w0IdbtBT7jHRO7/UnVqlODgpEbwtQ5i/x4Xf4mZzhG4ym0RP38zrwlwSNi8zsauogVwYYJXrr+5KCKDkGXUm9HOKnJ3EwKJbzlvRdfV/iROtXwhj++YTUh1GGwkvl2VD1jfCTiErJ68/OUjzDVHrSDIB0MFd1oOxL0w5fGJSy3NPMfwSb7Pq7NScE3uCUfPao2JOXXudPDtnuRoBIBcGO6Zvl1wPkAAWXcx7KKbPTQh8cUV/46u4nq62SI/rTdG9/lVte893A6jGCKDum7NdWNTL/XFWkqrhC1WiGgIR0cbBJM4E71B5iepDmJdL1H/IjmEUVt+hW7Rlm2uM7q/ozyg9hsmMZjCQI22ZNJRSloYOm220VvDQVDhLXLvxXaZtAGPyCBA72hPqz34BzV18GJFojNofRLj9oAAdB+yyfxR8sQgPtb9NeYbfYjyGbIETHCuAO30d8prODFv4ttfnVZvcQzOEYGmKs0v0kZRPC78eP+z5izmB34HDA3/Fv+a2DB8XI/g==;FPhxUu9ToxOdXQ35+O7n9w=="
 ---

@@ -26,6 +26,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Fintech 2.0: a new era of Fintech is emerging post-pandemic"
+    excerpt: "Scarlett Sieber, chief strategy & growth officer, Money20/20, discusses the emergence of the new era of Fintech 2.0 post-pandemic"
+    publishedDateTime: 2021-07-15T09:25:00Z
+    webUrl: "https://www.information-age.com/fintech-2-0-new-era-of-fintech-emerging-post-pandemic-123496130/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 24
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/07/fintech-2-0-new-era-of-fintech-emerging-post-pandemic.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
+
 secured: "0JnIkyCbNletRWt2jYWJimz3dKY42v2vW3nprgggdf0G93gKaUD7REN2WZ/42rZQBOzPhI2lXRdwJILk4BhkG7kqkH1ilYIzA7pvHuOGJqATeXeOoXoACgn+tVMXLgi1+0AxO1vX+cQjEINdHT8GvG6DtovG0eNGYvsbU2brKEARc67kVUBnZSHQtyEyj2UGhxzKsFqkyZD1+dh5Ik/sW5xe0VFcPawKSykAxLWL/2mncARbJo9F2C9lOD72EwV6QTdlKD9zhsWLa8b0HF30X5ATksyzmiw/0KcGhqGSEsyf0cAp1p8TrPYbO7A+mcUhnFJXXEvV8mFsjpU5fzGamS5j5KUv4tZgIMYV6A9eVC4FtvocNExJpVYen852KsDS6tejkhZxSxfr9VKZBgOEcGhiD7x1uMM8F6oax03fFDJFX5RSdbqFuPZ9zJmF5eqGAKvonno7oQJ9aRw1GFa4ziDIKqA4QB4h7wanPEX4dKdFmSOIIQyUReiYzhFxRzgtCcTq720zzZoN3Ii5WTL7oQ==;VFIHUvIYfuRAQph5k8mwkg=="
 ---
 

@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-15-artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2027",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure.md",
       "title": "Lambda Labs raises $15M for AI-optimized hardware infrastructure",
       "excerpt": "Among these are the TensorBook, a laptop with a dedicated GPU, and a workstation product with up to four desktop-class GPUs for AI training. Lambda also offers servers including one designed to be ...",
@@ -10,7 +65,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -96,49 +151,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-qpiai-launches-a-global-ai-and-quantum-marketplace.md",
-      "title": "QpiAI launches a global AI and quantum marketplace",
-      "excerpt": "With the Marketplace, highly skilled students and professionals will be able to participate and benefit in the commercialization of AI and Quantum solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2021/07/14/1600x900/8-2_1626265340161_1626265367688.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314-amp.html",
-      "publishedDateTime": "2021-07-14T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -438,33 +450,24 @@
     {
       "path": "_news/2021-07-08-canaan-releases-self-developed-edge-ai-chip-the-kendryte-k510.md",
       "title": "Canaan Releases Self-developed Edge AI Chip, the Kendryte K510",
-      "excerpt": "Canaan Inc. (NASDAQ: CAN) (“Canaan” or the “Company”), a leading high-performance computing solutions provider, today announced the release of the Kendryte K510 (the “K510”), an independently designed and developed RISC-V based edge AI chip,",
+      "excerpt": "Canaan Inc. (NASDAQ: CAN) (\"Canaan\" or the \"Company\"), a leading high-performance computing solutions provider, today announced the release of the Kendryte K510 (the \"K510\"), an independently designed and developed RISC-V based edge AI chip,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/business-technology-deaa6cd696e93034a7f75cf76425385e",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/business-technology-deaa6cd696e93034a7f75cf76425385e",
+      "webUrl": "https://www.tmcnet.com/usubmit/-canaan-releases-self-developed-edge-ai-chip-kendryte-/2021/07/08/9405016.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-canaan-releases-self-developed-edge-ai-chip-kendryte-/2021/07/08/9405016.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T03:01:00-07:00",
+      "publishedDateTime": "2021-07-08T03:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

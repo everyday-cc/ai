@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-15-device-taps-brain-waves-to-help-paralyzed-man-communicate.md",
-      "title": "Device taps brain waves to help paralyzed man communicate",
-      "excerpt": "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak -- and turned what he intended to say into sentences on a",
-      "sourceUrl": null,
-      "webUrl": "https://ktar.com/story/4568684/device-taps-brain-waves-to-help-paralyzed-man-communicate/",
-      "originalUrl": "https://ktar.com/story/4568684/device-taps-brain-waves-to-help-paralyzed-man-communicate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktar.com/wp-content/uploads/2021/07/ap_84a09bd83f7b43328b92bb64b88bbc07.jpg",
-          "width": 1280,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ktar.com/story/4568684/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/",
-      "cdnAmpWebUrl": "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4568684/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/",
-      "publishedDateTime": "2021-07-14T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTAR News",
-        "domain": "ktar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-15-nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate.md",
       "title": "Nigeria’ll deploy robots, artificial intelligence to fight crime, says Senate",
       "excerpt": "The Senate on Wednesday said that the Ministry of Communications and Digital Economy had established a centre where artificial intelligence and robots.",
@@ -53,7 +10,7 @@
       "originalUrl": "https://punchng.com/nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -192,7 +149,7 @@
       "originalUrl": "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -502,7 +459,7 @@
       "originalUrl": "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 375,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1423,6 +1380,58 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-lidar-is-the-gold-standard-of-robot-vacuum-navigation-but-its-not-perfect.md",
+      "title": "Lidar is the gold standard of robot vacuum navigation, but it’s not perfect",
+      "excerpt": "Today's robot vacuums offer intelligent navigation courtesy of lidar tech. But despite being the gold standard of robot vacuum navigation, it's not perfect.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/lidar-gold-standard-robot-vacuum-navigation/",
+      "originalUrl": "https://www.digitaltrends.com/home/lidar-gold-standard-robot-vacuum-navigation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/360-robot-vacuum-cleaner-s10-4-of-8.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/lidar-gold-standard-robot-vacuum-navigation/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/lidar-gold-standard-robot-vacuum-navigation/?amp",
+      "publishedDateTime": "2021-07-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

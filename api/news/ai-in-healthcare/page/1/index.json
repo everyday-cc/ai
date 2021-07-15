@@ -2,6 +2,113 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-15-artificial-intelligence-in-healthcare-global-market-forecast-to-2027.md",
+      "title": "Artificial Intelligence in Healthcare Global Market - Forecast to 2027",
+      "excerpt": "The rapidly evolving vast and complex healthcare industry is slowly deploying AI solutions into its mainstream workflows to increase the productivity of various healthcare. Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter and enable them to simulate human intelligence and perform various higher-order value-based tasks like visual perception,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2027",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-iot-machine-learning-and-artificial-intelligence-services-to-reach-us36-billion-in-revenue-in-2026.md",
       "title": "IoT Machine Learning and Artificial Intelligence Services to Reach US$3.6 Billion in Revenue in 2026",
       "excerpt": "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective.",
@@ -1219,101 +1326,6 @@
         "AI in Healthcare",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare.md",
-      "title": "WHO guidance details the benefits and risks of adding AI to healthcare",
-      "excerpt": "The World Health Organization has published new guidance on the use of artificial intelligence in health, something that took experts across multiple fields 18 months to debate. WHO acknowledges",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/",
-      "originalUrl": "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/hospital_main_uns.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/",
-      "publishedDateTime": "2021-06-30T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021-ai-breakthrough-awards.md",
-      "title": "Medidata Acorn AI Synthetic Control Arm® Named “Best AI-based Solution for Healthcare” by 2021 AI Breakthrough Awards",
-      "excerpt": "However, an SCA can improve patient recruitment and retention by allowing for a study design where all or at least more patients can be treated with the experimental therapy ... to honoring excellence in Artificial Intelligence technologies, services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.register-herald.com/region/medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021/article_a495d921-24fb-5ab8-92a6-73240b430619.html",
-      "originalUrl": "https://www.register-herald.com/region/medidata-acorn-ai-synthetic-control-arm-named-best-ai-based-solution-for-healthcare-by-2021/article_a495d921-24fb-5ab8-92a6-73240b430619.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/1b/31ba3241-1f65-5860-9593-b4fa908b9fa5/60dc991277cd6.image.jpg?resize=645%2C630",
-          "width": 645,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -18,87 +18,66 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail Market – Industry Growth Analysis & Forecast By 2027"
-    excerpt: "Managed services to drive artificial intelligence in retail market trends Artificial intelligence (AI) in retail market will be significantly bolstered with the surging need for digitization and the consistent development of new business models across the ..."
-    publishedDateTime: 2021-07-12T08:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-industry-growth-analysis-forecast-by-2027-2021-07-12"
+  - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2027"
+    excerpt: "The rapidly evolving vast and complex healthcare industry is slowly deploying AI solutions into its mainstream workflows to increase the productivity of various healthcare. Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter and enable them to simulate human intelligence and perform various higher-order value-based tasks like visual perception,"
+    publishedDateTime: 2021-07-15T07:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market Pricing Strategy, Industry Latest Trends, Top Company Analysis by 2026"
-    excerpt: "Selbyville, Delaware, MarketStudyReport.com offers report on Global Artificial Intelligence (AI) in Automotive Market that evaluates industry growth trends through historical data and estimates prospects based on comprehensive research."
-    publishedDateTime: 2021-07-14T18:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-pricing-strategy-industry-latest-trends-top-company-analysis-by-2026-2021-07-14"
+  - title: "Automotive Artificial Intelligence Market Trends and Forecast 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 14, 2021 (Market Insight Reports) -- The Global Automotive Artificial Intelligence Market is estimated to value over USD 13.9 billion by 2028 finish at a CAGR of over 38 ..."
+    publishedDateTime: 2021-07-14T14:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-trends-and-forecast-2028-2021-07-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chipsets Market Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2027"
-    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
-    publishedDateTime: 2021-07-15T03:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14"
+  - title: "QpiAI launches a global AI and quantum marketplace"
+    excerpt: "With the Marketplace, highly skilled students and professionals will be able to participate and benefit in the commercialization of AI and Quantum solutions."
+    publishedDateTime: 2021-07-14T12:26:00Z
+    webUrl: "https://www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314.html"
+    ampWebUrl: "https://www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314-amp.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.hindustantimes.com/img/2021/07/14/1600x900/8-2_1626265340161_1626265367688.jpg"
+        width: 1600
+        height: 899
         isCached: true
-  - title: "Artificial Intelligence (AI) in BFSI Market Shaping A New Growth Cycle"
-    excerpt: "HTF MI Published Latest Global  Study by in-depth analysis about current scenario, the Market size, demand, growth pattern, trends, and forecast. Revenue for  has grown substantially over the six years to 2020 as a result of strengthening macroeconomic conditions and healthier demand,"
-    publishedDateTime: 2021-07-10T17:50:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-bfsi-market-shaping-a-new-growth-cycle/"
+  - title: "QpiAI launches a global AI and quantum marketplace"
+    excerpt: "With the Marketplace, highly skilled students and professionals will be able to participate and benefit in the commercialization of AI and Quantum solutions."
+    publishedDateTime: 2021-07-14T23:01:00Z
+    webUrl: "https://www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-11626258600264.html"
+    ampWebUrl: "https://www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace/amp-11626258600264.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace/amp-11626258600264.html"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 52
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Artificial-Intelligence-AI-in-BFSI-Market.jpeg"
-        width: 504
-        height: 336
+      - url: "https://images.livemint.com/img/2021/07/14/600x338/8-2_1626261901600_1626261907885.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Artificial Intelligence In The Automotive Market Analysis & Forecast For Next 5 Years"
-    excerpt: "The latest independent research document on Artificial Intelligence In The Automotive examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Artificial Intelligence"
-    publishedDateTime: 2021-07-10T16:57:00Z
-    webUrl: "https://www.openpr.com/news/2325774/artificial-intelligence-in-the-automotive-market-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2325774/artificial-intelligence-in-the-automotive-market-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325774/artificial-intelligence-in-the-automotive-market-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 50
-    images:
-      - url: "https://cdn.openpr.com/U/7/U710733997_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Intel Stock – Artificial Intelligence (AI) Robots Market Size, Share 2021-2028"
-    excerpt: "Robots Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years."
-    publishedDateTime: 2021-07-11T10:52:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_intel/intel-stock-artificial-intelligence-ai-robots-market-size-share-2021-2028/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 45
   - title: "Artificial Intelligence in Machine Learning Market 2021: Global Industry Analysis Report to 2027"
     excerpt: "healthcare, retail, finance and manufacturing. However, while technology has always been a staple of these industries, artificial intelligence (AI) has brought technology to the center of organizations. (Get 15% Discount on Buying this Report) A full ..."
     publishedDateTime: 2021-07-12T12:14:00Z
@@ -110,45 +89,40 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 43
-  - title: "Machine Translation Market in APAC with COVID-19 Impact by Growth Potential, Manufacturers, Production, Revenue and Forecast 2026"
-    excerpt: "APAC machine translation market is set to witness significant growth during the forecast period of 2020-2026, thanks to the consistent increase in the adoption of various artificial intelligence (AI) technologies and smart devices."
-    publishedDateTime: 2021-07-14T14:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-in-apac-with-covid-19-impact-by-growth-potential-manufacturers-production-revenue-and-forecast-2026-2021-07-14"
+  - title: "Global Artificial Intelligence (AI) in Education Market Size, Status and Forecast 2021-2027"
+    excerpt: "The global Artificial Intelligence (AI) in Education market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report ..."
+    publishedDateTime: 2021-07-15T08:56:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4669860-global-artificial-intelligence-ai-in-education-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 39
+  - title: "Artificial Intelligence in Drug Discovery Market Share, Opportunities, Future Trends, Top Key Players and Analysis by Forecast to 2027"
+    excerpt: "Global Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million"
+    publishedDateTime: 2021-07-14T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-opportunities-future-trends-top-key-players-and-analysis-by-forecast-to-2027-2021-07-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global CNC Machine Tools Market 2021 Growth Analysis, Industry Trends, Sales Revenue, Future Development Status and Forecast by 2026"
-    excerpt: "Global CNC Machine Tools Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 recently introduced by MarketsandResearch.biz offers a fundamental examination of the market covering the examination of subjective points that is prepared to display key market information of learning to the pursuers."
-    publishedDateTime: 2021-07-14T11:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cnc-machine-tools-market-2021-growth-analysis-industry-trends-sales-revenue-future-development-status-and-forecast-by-2026-2021-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in IoT Market Analysis By Technological Advancement, Regional Outlook And Forecast to 2027"
-    excerpt: "Latest released the research study on Global AI in IoT Market Report Forecast 2021 2027 offers a detailed overview of the factors influencing the global business scope AI in IoT Market research report shows the latest market insights current situation"
-    publishedDateTime: 2021-07-10T13:47:00Z
-    webUrl: "https://www.openpr.com/news/2325730/ai-in-iot-market-analysis-by-technological-advancement"
-    ampWebUrl: "https://www.openpr.com/amp/2325730/ai-in-iot-market-analysis-by-technological-advancement"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2325730/ai-in-iot-market-analysis-by-technological-advancement"
+  - title: "Digital Assistants in Healthcare Market Technology Progress Analysis 2021 to 2025"
+    excerpt: "Global “Digital Assistants in Healthcare Market” 2021 Research report produces ... preferences towards technologically advanced products, which makes use of Artificial Intelligence (AI)and the Internet of things (IoT) as they offer many benefits ..."
+    publishedDateTime: 2021-07-15T06:33:00Z
+    webUrl: "https://www.openpr.com/news/2328940/digital-assistants-in-healthcare-market-technology-progress"
+    ampWebUrl: "https://www.openpr.com/amp/2328940/digital-assistants-in-healthcare-market-technology-progress"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2328940/digital-assistants-in-healthcare-market-technology-progress"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 28
+    quality: 34
   - title: "Global Artificial Intelligence (AI) in BFSI Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in BFSI Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence (AI) is fast evolving as the"
     publishedDateTime: 2021-07-13T08:22:00Z
@@ -158,31 +132,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 26
-  - title: "2021 Artificial Intelligence (AI) In Drug Discovery Market Size, Revenue, Growth Development, Opportunities, Trends, Forecast To 2030"
-    excerpt: "Artificial Intelligence for drug discovery is a technology that uses ... Located globally it has specialist consultants in a wide range of industries including manufacturing, healthcare, financial services, chemicals, and technology. The World’s Most ..."
-    publishedDateTime: 2021-07-15T04:51:00Z
-    webUrl: "https://www.openpr.com/news/2328853/2021-artificial-intelligence-ai-in-drug-discovery-market"
-    ampWebUrl: "https://www.openpr.com/amp/2328853/2021-artificial-intelligence-ai-in-drug-discovery-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2328853/2021-artificial-intelligence-ai-in-drug-discovery-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
-  - title: "Global Natural Language Processing for Finance Market By Excellent Opportunities, Industry Growth, Size, And Statistics Forecasts Up To 2027"
-    excerpt: "Therefore, Researchmoz discusses all aspects of growth, including threats and barriers. As well as This report provides an deep analysis of the global Natural Language Processing for Finance market and serves as a guide to stakeholders searching for new investment opportunities."
-    publishedDateTime: 2021-07-14T17:17:00Z
-    webUrl: "https://manometcurrent.com/global-natural-language-processing-for-finance-market-by-excellent-opportunities-industry-growth-size-and-statistics-forecasts-up-to-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 21
-    images:
-      - url: "https://i.ibb.co/0s5CLpy/Rssearchmoz-us99.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market SWOT Analysis by Size, Status and Forecast to 2021-2027"
     excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Construction Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Construction space,"
     publishedDateTime: 2021-07-11T01:39:00Z
@@ -192,15 +141,42 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 14
-  - title: "Artificial Intelligence in Agriculture Market Size - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
-    excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
-    publishedDateTime: 2021-07-13T10:44:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/144374/artificial-intelligence-in-agriculture-market/"
+  - title: "Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence as a"
+    publishedDateTime: 2021-07-15T09:05:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4670494-global-artificial-intelligence-as-a-service-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 5
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 9
+  - title: "Global Artificial Intelligence in Construction Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Construction Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Construction"
+    publishedDateTime: 2021-07-13T08:25:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4662396-global-artificial-intelligence-in-construction-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 8
+  - title: "Global Voice Recognition Software Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Voice Recognition Software Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Voice Recognition Software Market"
+    publishedDateTime: 2021-07-13T08:24:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4662311-global-voice-recognition-software-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 1
+  - title: "Global Speech and Voice Recognition Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Speech and Voice Recognition Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Speech and Voice Recognition"
+    publishedDateTime: 2021-07-13T08:23:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4662277-global-speech-and-voice-recognition-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
   - title: "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027"
     excerpt: "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,"
     publishedDateTime: 2021-07-13T14:07:00Z
@@ -209,6 +185,24 @@ related:
     provider:
       name: ARN
       domain: arnnet.com.au
+    quality: 0
+  - title: "Global Speech and Voice Recognition Technology Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Speech and Voice Recognition Technology Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Speech and Voice Recognition"
+    publishedDateTime: 2021-07-15T09:04:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4670511-global-speech-and-voice-recognition-technology-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Global Voice Recognition for Automotive Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Voice Recognition for Automotive Market Size, Status and Forecast 2021-2027 report by QYResearch Group. The hybrid technology is estimated to be the largest"
+    publishedDateTime: 2021-07-15T08:57:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4669978-global-voice-recognition-for-automotive-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
     quality: 0
 
 secured: "zHbBlF7QqxjzSsyOg3Q+Yh3FZPwHGi7uzoxOCQbdK4llr7pLvwNbXmuFEjOzNHt1a7g5RLPjuZHUDEGPbHOub/zEKTHxxaudL6Z86TPawT8HnLbsTuo+Aj6Fbp4zSYCSYj3ixt8rgSg0eQAOH1kAvRW3tdkGIL6JDbezO3TKDlJ77veMv0sQ2tf3n8ZWaIWICXk5ot9VPh8NOI1PlsRAIONwlDdbKkQyB6EGv2gVTfEKtSjTTzz77rzhDmOnOnsl5wd/9Y4j93CpAkTVVTkrFLkWeaJ7gX8gGhUEGAy30IRcFEiuoMZ/f0gpquDGz8zkbsX0dkbW1Md6CkV2zDnSK3QoYzxgLQOBLhxDqcuIXhM=;7N76ULbxWjlaLpfRMsEs5Q=="

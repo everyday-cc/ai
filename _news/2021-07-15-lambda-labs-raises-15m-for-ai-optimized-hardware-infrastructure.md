@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-opt
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Lambda raises $24.5M for AI-optimized hardware infrastructure"
+    excerpt: "Join executive leaders at the Conversational AI & Intelligent AI Assistants Summit ... including Google’s TensorFlow and Facebook’s PyTorch. Developers can update the frameworks with a ..."
+    publishedDateTime: 2021-07-14T20:46:00Z
+    webUrl: "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
 
 secured: "qjVxXPddGFWYTW1R7QM+gUBxfGE0TdY6YWNdh2VFO4qXsKJU0AYzoXjEgcwE1XOfzxJG4kpuOwc4FLef6c8h0iNQOxxozNZVovTEpbLCEDjoa/NqqsPwK1U/7z4R3I3Xf5noNT2mRJgsuNZ2AV7Tkqd1TY35K7OL7uRrWYQji50auMl1bm8/0OnMYwgI2Nt0ohUXuJMFyIhJnhdOspW0tOW3KlPNMCD0eOmdHVjx9Fz4V/wFw1WfN88OXondDPoqWElaw36yyvGIsc/4JzB5/MZlPIdnjZFhNmKqDP4HhNVotw48LrGJrO5bHmQxIzzBpX4wE2iWVbZ8LXAHgtnnI4lthuv8MFdvBSab1pGG8Z+ukbM5gGz4TdJyLvzqUh/tMwliEMq/hk5ZrlaafSA/7HhXpx/v/FgvEoAoUrDsqz3+ORx6davOfvU5n6WoMMwVt0gA1GTOHPJMlrHqHbReIKg0kIMH4MisyRLjbOdTFWI/EXGQ+09ODNrs/6QFxE9kupuAEd5tXlLYNmbyYreGEg==;ntSyRqdTr2GsIGvzJB5Z/Q=="
 ---

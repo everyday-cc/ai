@@ -7,7 +7,7 @@ originalUrl: "https://hypebeast.com/2021/7/halo-driverless-vehicles-las-vegas"
 webUrl: "https://hypebeast.com/2021/7/halo-driverless-vehicles-las-vegas"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T‑Mobile 5G"
-    excerpt: "Driverless Halos solve transportation challenges with a people first approach to autonomous cars. Halo claims to have launched one of the first commercial driverless car services in the U.S. running on the T-Mobile 5G network in Las Vegas."
-    publishedDateTime: 2021-07-13T22:23:00Z
-    webUrl: "https://itwire.com/automotive/halo-and-las-vegas-launch-driverless-car-service-powered-by-t‑mobile-5g.html"
+  - title: "Toyota buys US startup for next-gen driverless navigation system"
+    excerpt: "Toyota Motor announced Thursday that it acquired America-based Carmera that provides the next-gen navigation system for driverless vehicles. The Japanese carmaker acquired the artificial intelligence and maps firm through the newly created subsidiary Woven Planet dedicated to automated mobility."
+    publishedDateTime: 2021-07-15T08:16:00Z
+    webUrl: "https://www.laprensalatina.com/toyota-buys-us-startup-for-next-gen-driverless-navigation-system/"
+    ampWebUrl: "https://www.laprensalatina.com/toyota-buys-us-startup-for-next-gen-driverless-navigation-system/amp/"
+    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/toyota-buys-us-startup-for-next-gen-driverless-navigation-system/amp/"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 19
+      name: La Prensa Latina
+      domain: laprensalatina.com
+    quality: 59
+    images:
+      - url: "https://mk0laprensalatice12d.kinstacdn.com/wp-content/uploads/2021/07/17726988w.jpg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "b6UC6pwGWEi4sKx3ZIlqeDaXhaPKpTabke5r+9mGPCyuqMdfR6p5anyXPNeC8AWZ3VpEWUJqg9on27CTF3wwuNr5kU1wZ4LO9DoMpMMqQn9/cfTHXMogANVEXDy4gzwcD2p8BSMSiFTszlRhPw5hpR+aV7zk9plR7QwVFkP1TRFp7jwTLlT+LJIvDcd8fQKqBms1zLxLbhPrcKBqw4E1YcbhFfagW0fHMEMcYovKmo7LBw0PxDEY3hnYznyaaym7/0y74A74brTcEj2K938popiRXOkB9h7u6U8FYoi7IwkBopTedNQ5R7cbvvGROXLrAEdN4nnjYAgQVtNdd9phyjRWIonluZe7OgFB32KPwbJ9w6mJGtN9S0y6s6dZvRw1y7ltETk9DQvXPNeCkHnNb0ecoCeGMEiRPONyiU3IrFzFuPuqqF76O5vNUYjykvn1aoTHA8TM2tYKDUy/eceUHvPq3doOkAuQeB6bMhOkYs1GbUdgf+aLOrzWZ/uDaiq/+zK3N48BPAXxHgVhNgVXcg==;ZUuKxwwgMGHKgeRmMVzBIA=="
 ---

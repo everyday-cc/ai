@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-15T07:22:00Z
 originalUrl: "https://www.openpr.com/news/2328994/delivery-robots-market-top-key-players-robby-technologies"
 webUrl: "https://www.openpr.com/news/2328994/delivery-robots-market-top-key-players-robby-technologies"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: openpr.com

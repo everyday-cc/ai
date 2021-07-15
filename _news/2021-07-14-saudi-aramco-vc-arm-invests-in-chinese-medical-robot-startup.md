@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-14T06:47:00Z
 originalUrl: "https://www.zawya.com/mena/en/wealth/story/Saudi_Aramco_VC_arm_invests_in_Chinese_medical_robot_startup-SNG_224670152/"
 webUrl: "https://www.zawya.com/mena/en/wealth/story/Saudi_Aramco_VC_arm_invests_in_Chinese_medical_robot_startup-SNG_224670152/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Zawya

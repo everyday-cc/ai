@@ -41,6 +41,15 @@ related:
         width: 750
         height: 410
         isCached: true
+  - title: "Robots, Artificial Intelligence Will Be Deployed To Fight Crime – Senate"
+    excerpt: "The Senate, on Wednesday, July 14, said that the Ministry of Communications and Digital Economy, has established a centre for artificial intelligence and robotics, to deploy the use of robots and artificial intelligence in combating crime and criminality in Nigeria."
+    publishedDateTime: 2021-07-15T07:03:00Z
+    webUrl: "https://olorisupergal.com/2021/07/15/robots-artificial-intelligence-will-be-deployed-to-fight-crime-senate/"
+    type: article
+    provider:
+      name: Olori Supergal
+      domain: olorisupergal.com
+    quality: 33
 
 secured: "Gl3jb5rZzL321/fmwksgAV95si5AihDaZSQ3Von7PCZhjHxrWgvJq+KKlIUV2kwQMqrnm3mJxoWVfWBgUU0LC34LaJRoSkpF8XtMZlebxgsj/ib8nVdocnpwr9INbxMDF8kqLTANBTkrvUT6Z2Ae0YF9Hd7l/YjqbSiCjF33muiuMkb5wCUihKnRMDvDGgV79oxAOI54jVunVKaldfIykzty5kDgCT9Z9yNitzvKzj1cCDSuEDvXrQv5gNQcE6pinrHlgI8bsMqd0qA09jkxLWR2EsfVTB8+DH0wmmyPkHQGCCkBq+pk5wGNclri1728G6wOXkA92esZSjNh5N6qsSChp9/i0HDEUaK3mCAKN87I8jH641lmzfjnHhCLOagPiJXwUqRqQhqvEht6oOqtw6wU7CgcGzZkK0rAOn2Y6GIy5rTLKCDEAB1uagT5WQI5F4GF9sVTponpzuw+XhEpZayJIaYUQ4Us+ymXxXiO0nA3sq68vJSXAPC2+llAT96hWJfl0dw+BJ3O71kiiRAB/g==;Ea858K/2brbrl48lXp7nCQ=="
 ---

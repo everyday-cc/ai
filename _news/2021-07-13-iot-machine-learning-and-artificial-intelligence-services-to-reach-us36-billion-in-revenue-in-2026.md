@@ -1,21 +1,48 @@
 ---
 category: news
 title: "IoT Machine Learning and Artificial Intelligence Services to Reach US$3.6 Billion in Revenue in 2026"
-excerpt: "The pandemic accelerated ML and AI in the IoT to manage and find insights into increasing volumes of data. LONDON, July 13, 2021 /PRNewswire/ -- The next wave of Internet of Thing"
-publishedDateTime: 2021-07-13T08:00:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/14146706-iot-machine-learning-and-artificial-intelligence-services-to-reach-us-3-6-billion-revenue-2026/all"
-webUrl: "https://www.wallstreet-online.de/nachricht/14146706-iot-machine-learning-and-artificial-intelligence-services-to-reach-us-3-6-billion-revenue-2026/all"
+excerpt: "The next wave of Internet of Things (IoT) analytics development will fully converge with the Big Data domain. Simultaneously, the value in the technology stack is shifting beyond the hardware and middleware to analytics and value-added services,"
+publishedDateTime: 2021-07-13T08:11:00Z
+originalUrl: "https://www.lelezard.com/en/news-19898222.html"
+webUrl: "https://www.lelezard.com/en/news-19898222.html"
 type: article
+quality: 41
+heat: -1
+published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AWS AI
+  - AI in Healthcare
   - AI
   - Machine Learning
 
-secured: "cEMqp7recLw1wV1KBsfyCKtpAUqWykcnM8CAXZMxnPxWY3BI8jYr52mJSRN+i3x4eM/GSp1nSiLXu/mrP0ob5EgzzP2zHM8XOdFEvnZ/DlhxTs48Gts1mu68185Y/efFl3MLWd0eW+9IoVs04SWfM5q2d+2ZCpaYGavTMc8UhsTTkjpji8gYrNzBbMrxi9MXKkKmxZtawVECSVOFYuC2w3exZLbzTpa/tyvM5/MM2LFpY6JaHQ1KerbtdampRJEOCz3cCtN4TKBXBvnPky9QLE9bvXNkbkrbjRIwQqnC3xB5cqVTQEX5oDJZzvhmlqmKh04StV7ZvsVxiNiaiEnFjkYxoE/jQzSZVW/oZizDw68=;sNwjcUGiFEc0YByNANUO9g=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+related:
+  - title: "IoT Machine Learning and Artificial Intelligence Services to Reach US$3.6 Billion in Revenue in 2026"
+    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+    publishedDateTime: 2021-07-14T16:56:00Z
+    webUrl: "https://iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/"
+    ampWebUrl: "https://iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/amp/"
+    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/amp/"
+    type: article
+    provider:
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 61
+    images:
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg"
+        width: 800
+        height: 360
+        isCached: true
+
+secured: "ATrsFI0T05KgXyLBn/HICotE9rlkymNhnfmlDmK8SYMOO9UO1W/uzLltF96IpZUHOJ5GADBXu/0PAHbXyO9UGegsVVEpoo7q2Su7KAntVnFndiGTU9/9iYyB/+LOlX2judgJ6dFwVh/VOz79Iu5eBv4TSBrGNSefHn3DrwaTO98IKA5IpgJw5BAq1mdsa2gfqSt5kzEipb4Zz4L2EkpOTuixM7g8CdAY89FSH4EA0Xua0xCujaqrKENWmBWl2+iH1QnKdIkviXQirYlrzDow0Awk5A7vgJuV2QGzpyd8AbhFaEvgp/tvOHf9hgyQJ3NKQCiYTVmn0V9c0FNATCJ7JrxngKK1XXaZzeWpEmtwvH8=;P/itYOsllsEHpuGmnB6IIw=="
 ---
 

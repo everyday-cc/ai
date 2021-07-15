@@ -46,6 +46,20 @@ related:
         width: 400
         height: 428
         isCached: true
+  - title: "AI Tool Measures Fat Around the Heart to Predict Diabetes Risk"
+    excerpt: "Researchers from Queen Mary University found that the more fat found around the heart, the greater the diabetes risk."
+    publishedDateTime: 2021-07-12T14:52:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/ai-tool-measures-fat-around-heart-predict-diabetes-risk"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jul122021at104715AM.jpg"
+        width: 770
+        height: 400
+        isCached: true
   - title: "Mumbai-Base MediCircle Health Launches AI-Powered Instant Covid Test In India"
     excerpt: "Mumbai-based diagnostic company MediCircle Health on Monday launched a portable Covid-19 testing platform that is powered by machine learning and artificial intelligence and delivers results in just one second."
     publishedDateTime: 2021-07-13T07:32:00Z

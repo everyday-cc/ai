@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-15T07:30:00Z
 originalUrl: "https://arcticstartup.com/swedens-logical-clocks-raises-e5-million-for-machine-learning-feature-store/"
 webUrl: "https://arcticstartup.com/swedens-logical-clocks-raises-e5-million-for-machine-learning-feature-store/"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: ArcticStartup

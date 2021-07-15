@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-15T03:48:00Z
 originalUrl: "https://pittsburgh.cbslocal.com/2021/07/15/cmu-real-time-learning-robot/"
 webUrl: "https://pittsburgh.cbslocal.com/2021/07/15/cmu-real-time-learning-robot/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: CBS Local

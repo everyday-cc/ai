@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-15-researchers-use-machine-learning-to-translate-brain-signals-from-a-paralyzed-patient-into-text.md",
+      "title": "Researchers use machine learning to translate brain signals from a paralyzed patient into text",
+      "excerpt": "In a study published Wednesday in the New England Journal of Medicine, researchers at the University of California, San Francisco, describe an approach that combines a brain-computer interface and machine learning models that allowed them to generate text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2021/07/14/machine-learning-translate-brain-signals-text/",
+      "originalUrl": "https://www.statnews.com/2021/07/14/machine-learning-translate-brain-signals-text/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2021/07/UCSF_ChangLab_239-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-capital-one-uses-nlp-to-discuss-potential-fraud-with-customers-over-sms.md",
       "title": "Capital One uses NLP to discuss potential fraud with customers over SMS",
       "excerpt": "Capital One discusses how it harnesses the power of personalization and automation to verify fraudulent transactions at Transform 2021.",
@@ -106,7 +150,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -350,33 +394,58 @@
     {
       "path": "_news/2021-07-10-ai-natural-language-processing-company-brain-ventures-selected-as-a-data-voucher-processing-company-by-the-korea-data-industry-promotion-agency.md",
       "title": "AI Natural Language Processing Company \"Brain Ventures\" Selected as a Data Voucher Processing Company by the Korea Data Industry Promotion Agency.",
-      "excerpt": "Brain Ventures (CEO Won-hoe Kim), a resident company of ICT-Culture Convergence Center operated by the Ministry of Science and ICT and the National IT",
+      "excerpt": "The selection as the data voucher processing company is a feat accomplished by Brain Ventures, an AI-based natural language processing company, after 9 months of its establishment. It was evaluated highly for tangible research achievements such as the publication of research papers on AI natural language processing and the application of 5 patents and trademarks in a short period of time.",
       "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing",
-      "originalUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing",
+      "webUrl": "https://www.tmcnet.com/usubmit/-ai-natural-language-processing-company-bra-ventures-selected-/2021/07/09/9406147.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ai-natural-language-processing-company-bra-ventures-selected-/2021/07/09/9406147.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_580.jpg?itok=YpqM4i8D",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp",
-      "publishedDateTime": "2021-07-09T21:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T11:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-ai-natural-language-processing-company-brain-ventures-selected-as-a-data-voucher-processing-company-by-the-korea-data-industry-promotion-agency.md",
+      "title": "AI Natural Language Processing Company \"Brain Ventures\" Selected as a Data Voucher Processing Company by the Korea Data Industry Promotion Agency.",
+      "excerpt": "The selection as the data voucher processing company is a feat accomplished by Brain Ventures, an AI-based natural language processing company, after 9 months of its establishment. It was evaluated highly for tangible research achievements such as the publication of research papers on AI natural language processing and the application of 5 patents and trademarks in a short period of time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-ai-natural-language-processing-company-bra-ventures-selected-/2021/07/09/9406147.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ai-natural-language-processing-company-bra-ventures-selected-/2021/07/09/9406147.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -507,6 +576,59 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-anything-and-everything.md",
+      "title": "Google’s Supermodel: DeepMind Perceiver is a step on the road to an AI machine that could process anything and everything",
+      "excerpt": "The Perceiver is kind-of a way-station on the way to what Google AI lead Jeff Dean has described as one model that could handle any task, and “learn” faster, with less data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
+      "originalUrl": "https://www.zdnet.com/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/08/48cd537f-701b-4c47-9c24-1e554472c85c/deepmind-2021-perceiver-on-imagenet.jpg",
+          "width": 743,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
+      "publishedDateTime": "2021-07-08T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI",
         "Natural Language Processing"
       ]
@@ -1312,154 +1434,6 @@
         "AI in Autos",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-16-smart-marketing-approaches-to-build-brand-recognition.md",
-      "title": "16 Smart Marketing Approaches To Build Brand Recognition",
-      "excerpt": "With so many channels available to reach potential customers these days, it can be challenging to figure out the best way to build brand recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60da2672c3cce41a8d021650%2F0x0.jpg",
-          "width": 1200,
-          "height": 978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/amp/",
-      "publishedDateTime": "2021-06-30T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-zoom-acquires-ai-translation-startup-kites.md",
-      "title": "Zoom acquires AI translation startup Kites",
-      "excerpt": "Zoom has announced the acquisition of Karlsruhe Information Technology Solutions (Kites) – a startup focused on the development of real-time AI-powered translation technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cloudpro.co.uk/collaboration/9142/zoom-acquires-ai-translation-startup-kites",
-      "originalUrl": "https://www.cloudpro.co.uk/collaboration/9142/zoom-acquires-ai-translation-startup-kites",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/01/zoomlogo_shutterstock.jpg",
-          "width": 3500,
-          "height": 2500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Pro",
-        "domain": "cloudpro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-voiceitt-app-for-atypical-speech-a-triumph-in-disability-co-design.md",
-      "title": "Voiceitt App For Atypical Speech — A Triumph In Disability Co-Design",
-      "excerpt": "Voiceitt, a new app that can interpret the atypical speech of individuals with communication difficulties, represents a true victory for user-centered co-design. Working alongside disability organizations across the world,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/",
-      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbdaee2b0833da1c7afcff%2F0x0.jpg",
-          "width": 1086,
-          "height": 1086,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/amp/",
-      "publishedDateTime": "2021-06-30T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

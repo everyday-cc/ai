@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night?amp=1"
 type: article
 quality: 89
-heat: 190
+heat: 200
 published: true
 
 provider:
@@ -168,6 +168,15 @@ related:
         width: 391
         height: 221
         isCached: true
+  - title: "Study: Facial recognition for e-voting not currently recommended"
+    excerpt: "Adding facial recognition technology to e-voting is feasible but there are additional risks that may not outweigh the benefits, a study by the State Information Systems Authority (RIA) and Cybernetica has found."
+    publishedDateTime: 2021-07-15T07:07:00Z
+    webUrl: "https://news.err.ee/1608278463/study-facial-recognition-for-e-voting-not-currently-recommended"
+    type: article
+    provider:
+      name: ERR News
+      domain: news.err.ee
+    quality: 19
 
 secured: "vN+mW9sWdiTjfs/3RX6Xwufdq347n+fTSm0+XHg0/5v9KAZULxrXPXQa/BfBmVsqCMy/dQ0TAT3EIxpR1Ah6TJVFJ8fhFg5WkAkALSKda4RqzHwg1onMxD4eUwBOBx2e7ym5HTF6sVvlX9sNM12EbrI+3exabzKOImqS7C6RjaMpLVjGrbtxiYrznHUV+RWcH/YFVAoNTGOcIKsSdBBljmX8LK0tvpQT9K1oeXQttfPNzFijQT9K8LJMXwHdsQixAuRSDstIkJmBC6ROk+JLEUVbIPdU3D9aZmzJ9rDoRgNAwOEoq/wohWgx81XPes1Zm7YiF65+LmNQidZBPZhuIepyWLoVOYTfsqVWPVpE9qh5zL/T3U6siNyIioh6PwGcvE2QcDdPhie3N0cAujI6qRkVztSEA0gRIiX9yAvWh5SZaWfH0KycKd0Wv7zkntNiHovMuipusIRGV57gHAwyYexUlBY83vKacY+r2dYmMG2OHqoIJwddZ5lA7V1tVz2eylma2D3GSzJdglSywsbAgw==;W68x8/Mgi5YVuuK2FHGZHA=="
 ---

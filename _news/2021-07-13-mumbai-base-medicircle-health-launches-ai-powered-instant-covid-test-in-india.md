@@ -61,6 +61,20 @@ related:
         width: 400
         height: 428
         isCached: true
+  - title: "AI Tool Measures Fat Around the Heart to Predict Diabetes Risk"
+    excerpt: "Researchers from Queen Mary University found that the more fat found around the heart, the greater the diabetes risk."
+    publishedDateTime: 2021-07-12T14:52:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/ai-tool-measures-fat-around-heart-predict-diabetes-risk"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jul122021at104715AM.jpg"
+        width: 770
+        height: 400
+        isCached: true
   - title: "UW researchers find COVID-19 diagnoses made by artificial intelligence unreliable"
     excerpt: "A UW Allen School team recently published an article in Nature Machine Intelligence finding models predicting COVID-19 diagnosis from X-rays are relying on shortcuts."
     publishedDateTime: 2021-07-12T07:00:00Z

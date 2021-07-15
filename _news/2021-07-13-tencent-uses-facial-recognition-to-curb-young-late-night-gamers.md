@@ -168,6 +168,15 @@ related:
         width: 391
         height: 221
         isCached: true
+  - title: "Study: Facial recognition for e-voting not currently recommended"
+    excerpt: "Adding facial recognition technology to e-voting is feasible but there are additional risks that may not outweigh the benefits, a study by the State Information Systems Authority (RIA) and Cybernetica has found."
+    publishedDateTime: 2021-07-15T07:07:00Z
+    webUrl: "https://news.err.ee/1608278463/study-facial-recognition-for-e-voting-not-currently-recommended"
+    type: article
+    provider:
+      name: ERR News
+      domain: news.err.ee
+    quality: 19
 
 secured: "M1xPR2ZNKRAY+wFm+Hwmc8NQko+JGn978rPs9KfPSteilQCbQ7rU0yEjQGKwlNmUv8zeDmYukHq5Bm9E8mF/WBl0LRsFEuKr7ERN4ApgwIdgasGgGPQ2Z9jN5tvDYPEz8pZXFfovSnCZJUpBLeqUOY5JQPvnzn0Yw/xEL7S27VM3mtYk/kW3i4ULtVSKCFQHp2f3W6EIPbWpAhaQDZxwj8Jj6dX93waYnEVbcTdu9kEzWwndTJdFwcuCq8s8t6Wr2Z+4YMw9q30SydaX2n90JOR62opO6ugk2UhJ5T7fEA1hGAr9fd9zYSTGjW/6d42TD1K1T6BnD5IhU3Kg6paWZWt8JFcNB/zt5NpgtXx7D0g=;H4zTwrt8BrivaEv+tbml1Q=="
 ---

@@ -343,20 +343,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla finally releases 'Full Self-Driving' Beta version"
-    excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited \"Full Self-Driving\" Beta"
-    publishedDateTime: 2021-07-10T15:36:00Z
-    webUrl: "https://www.glamsham.com/world/technology/tesla-finally-releases-full-self-driving-beta-version"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 39
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/07/93d79dc915d322b2d64bae9723e52e54-2.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "PUBG Mobile now lets players build a self-driving Tesla Model Y"
     excerpt: "The most recent PUBG Mobile update introduces a new collaboration with Tesla that will allow players on both Android and iOS devices to build their own self-driving vehicles."
     publishedDateTime: 2021-07-12T04:15:00Z

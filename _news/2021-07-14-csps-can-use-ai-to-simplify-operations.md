@@ -34,19 +34,14 @@ related:
         height: 660
         isCached: true
   - title: "AI giants can benefit other nations: China Daily contributor"
-    excerpt: "The openness to AI across the wider economy is indirectly fuelling Chinese innovation in high-tech computer chip manufacturing and software development. Other Asian countries can benefit from China’s recent experience in AI, in pursuing their own ..."
-    publishedDateTime: 2021-07-15T05:45:00Z
-    webUrl: "https://www.entornointeligente.com/15/07/2021/ai-giants-can-benefit-other-nations-china-daily-contributor/"
+    excerpt: "In the race to become the leader in artificial intelligence (AI), China and the United States are way ahead of the rest of the world. What does that mean for the other countries? Will these two global technology giants soak up the AI economic dividend all for"
+    publishedDateTime: 2021-07-15T07:15:00Z
+    webUrl: "https://www.entornointeligente.com/15/07/2021/ai-giants-can-benefit-other-nations-china-daily-contributor-7/"
     type: article
     provider:
       name: Entorno Inteligente
       domain: entornointeligente.com
-    quality: 39
-    images:
-      - url: "https://www.entornointeligente.com/wp-content/uploads/2021/07/ai_giants_can_benefit_other_nations_china_daily_contributor.jpg"
-        width: 763
-        height: 509
-        isCached: true
+    quality: 19
 
 secured: "whBwq9qpV5rqh4zQTAz2fJz67qgLNsI9A0lgwqy7fnqNLu7YgiIZUElpxl1Z7s3swbyCkk+4X+hw2ykw/tLjqe2fH2GdQ/0ZzkYr2TUjlztQ2/5aAykXMTCZFSbsggDBFYKU6yIykiIFZLju0temXrEMojqQ/GL9P/uhwAKVy2+CftIpQF/Guc6IY7DqnOAXOmDtH0hjuRYgnWYVqL2vxwF4MW2OQzP7THBJeoDiYgsh+id0yswhD8qTizzaR1AYxqk/C6nfI0Lu0D74zsh/8LRF89yFidHVXFmhTVrd6sDbvy5AHpFzFfnKav8r/3NVt+gyyFsdsbF06MA7dpMBlSE16iW1zR0MizoFRqMDHrI=;JUYjlr+k642VmcEw83sF/w=="
 ---

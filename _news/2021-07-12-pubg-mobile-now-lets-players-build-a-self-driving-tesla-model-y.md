@@ -353,20 +353,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Tesla finally releases 'Full Self-Driving' Beta version"
-    excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited \"Full Self-Driving\" Beta"
-    publishedDateTime: 2021-07-10T15:36:00Z
-    webUrl: "https://www.glamsham.com/world/technology/tesla-finally-releases-full-self-driving-beta-version"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 39
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/07/93d79dc915d322b2d64bae9723e52e54-2.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Tesla’s Full Self-Driving beta ticks up to version 9.0"
     excerpt: "Tesla has begun sending out an extremely limited amount of over-the-air updates to bring its Full Self-Driving (FSD) Beta up to version 9. The new update enables members of Teslas"
     publishedDateTime: 2021-07-12T18:32:00Z

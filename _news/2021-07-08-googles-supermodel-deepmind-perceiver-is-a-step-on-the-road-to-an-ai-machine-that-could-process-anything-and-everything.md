@@ -23,6 +23,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/07/08/48cd537f-701b-4c47-9c24-1e554472c85c/deepmind-2021-perceiver-on-imagenet.jpg"

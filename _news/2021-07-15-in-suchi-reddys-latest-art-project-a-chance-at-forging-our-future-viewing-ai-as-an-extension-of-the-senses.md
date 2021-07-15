@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-15T07:21:00Z
 originalUrl: "https://www.firstpost.com/art-and-culture/in-suchi-reddys-latest-art-project-a-chance-at-forging-our-future-viewing-ai-as-an-extension-of-the-senses-9801451.html"
 webUrl: "https://www.firstpost.com/art-and-culture/in-suchi-reddys-latest-art-project-a-chance-at-forging-our-future-viewing-ai-as-an-extension-of-the-senses-9801451.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Firstpost

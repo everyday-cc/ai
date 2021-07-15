@@ -39,13 +39,13 @@ related:
         height: 400
         isCached: true
   - title: "Bridgeweave launches AI-powered InvestorAi - Your Personal Investment Analyst"
-    excerpt: "Bridgeweave, a UK based fintech founded by Akshaya Bhargava, founding CEO of Progeon (now Infosys BPO) and erstwhile Global CEO of Barclays PLC Wealth and Investment Management, today announced the launch of its mobile app InvestorAi,"
-    publishedDateTime: 2021-07-15T03:48:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=293492"
+    excerpt: "Bridgeweave launches AI-powered InvestorAi - Your Personal Investment Analyst - Bridgeweave, a UK based fintech founded by Akshaya Bhargava, founding CEO of Progeon (now Infosys BPO)"
+    publishedDateTime: 2021-07-15T07:39:00Z
+    webUrl: "https://news.siliconindia.com/technology/bridgeweave-launches-aipowered-investorai--your-personal-investment-analyst-nid-216525-cid-2.html"
     type: article
     provider:
-      name: Equity Bulls
-      domain: equitybulls.com
+      name: SiliconIndia
+      domain: siliconindia.com
     quality: 16
 
 secured: "hmw/W+DX/oi54l8Wmezplu86rBHYcGesn9oAOrBuTEr/7PnxL4wQSx63NanRgRMw+UdfeJL5R2x3Gy1hHIg5/rVf2DGZYNHCUWydX7JMt9DphLSJ+XMRUYNKpWeBkuTGFp/xtGtCSh8rLcgIwrAnfAkESQ6KrmOYoHSKk3mrMobctSrx+gjci/4Hu6Da6e+JSg2f1fkgnvQzKQmfbGiIDgyoAdj7IxA+wz4Qdpv5D+eJOK+bpLYmiPMM0SsEvjP1s9amn4hVJjCRnOvMp4wPMdIDZ5PckbCLpzBGTiGzf03UYEwZmEiAEGYGK24Jb2vRr+F1v4lhw09FN5niVDB1yyJ3JKFRZ9Es/XHZmjDbM/mv3xu/gJeeSIURBc23al83g7WCxyjsVEZZEtcBtLlQ6qZk7oL2xJNU80jih17smHy4TzjN70K4Zv55sCRIngj/v8bKhKIStsV6GbtfzrXGeFakT/iVkWdIGAivRrhqtycB4SdhaTyKCRVEqYIceUTkq0LFiV02F1CAcm5MErDmdQ==;s67oNUyMnCe9mBG9vioxZQ=="

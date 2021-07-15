@@ -168,6 +168,15 @@ related:
       name: The Daily Dot
       domain: dailydot.com
     quality: 31
+  - title: "Study: Facial recognition for e-voting not currently recommended"
+    excerpt: "Adding facial recognition technology to e-voting is feasible but there are additional risks that may not outweigh the benefits, a study by the State Information Systems Authority (RIA) and Cybernetica has found."
+    publishedDateTime: 2021-07-15T07:07:00Z
+    webUrl: "https://news.err.ee/1608278463/study-facial-recognition-for-e-voting-not-currently-recommended"
+    type: article
+    provider:
+      name: ERR News
+      domain: news.err.ee
+    quality: 19
 
 secured: "uvfIK5VbshdIZlrA1CN3uD8rIZkUHpsY5qQ0PYzmvo9WyGGjoaGD1rbHkqpSDTtc+XPMuzyGb/n1mhomwj0zaXCXR3j/w5HumnnGW1swzGx5S+Bm5V4Vwc4/fYY3g0TXVyEMxqc6f+2H4IQ3Lztfb1oD/6tZBW2CwJ5W5kQQH0Z9ezMefB4Xw+t1bqQE2yA60K30EgHjrA9goqxNil6NqlJ/tl0kwn6IvITrySva40WKJ9aVEMzUr5F5cayftCWv0Aefle8gql6m5TEcNEuwM9I+f48KZOKi48uUTzZmgCXq3pSZP/U1Y4Y8SuV08msbFIn4EDyIsFNovwvlkZHyVjRD2tME+QC1vjVxWwULdFQ=;XvPMgy4gjLT+uT5p2/XPwA=="
 ---

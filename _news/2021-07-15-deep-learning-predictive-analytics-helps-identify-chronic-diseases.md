@@ -85,6 +85,15 @@ related:
         width: 940
         height: 430
         isCached: true
+  - title: "Startup Circle: How is Qandle using AI/ML and analytics to provide an All-In-On HR Tech solution?"
+    excerpt: "Qandle is an All-In-One HR Platform – established in 2016 and launched in 2018. The young startup focuses on re-engineering HR Technology from employees’ perspectives. It provides an array of tech-enabled solutions for HR tasks including – Hire and Onboard,"
+    publishedDateTime: 2021-07-15T09:19:00Z
+    webUrl: "https://www.ciol.com/qandle-using-ai-ml-analytics-hr-tech-solution/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 21
 
 secured: "6D24GRckq21G6b2HV8RHygKZl28AtDPQOLvUcfG6qC5fK6nI64ovH/+c7pNVfpNvIghiVBgyE2DctF6EM6rIeZEBuDhO35tC+Y1pBzzNUO3iMeMAYNXylu6EsAQ4coUZqeWCB/RGTAR3TMDzLJDl02x6TOXaCbbZfSSRVFWAc8UWrJxT3r7oKeF+MQTPB4QS4M29kaL3x+NUNqaTAIenrXsuqr7DW6emYW7fTMSFyoDDj9mB7Z7KIHMStrZ7nyJ/R7m/mrNu4kwdNiDFb3vm8oVubTd1qDDFOeoJZ4E4XFHSiLu2n/niVMFVmk9d/CjpC+gGrFTUlkW/XWtOw8B9W8Fb2xUiZmU2W+Fpmz7XrPxXt49Sfx8zuMM8OeAl3DMnHGWIFgBuxb3RkvOD3vBG76L/+VBwU7JEOy3RJC+MNVxLjFllFaj6CzFNEgsEbTotHHmP69eI00GF/DbHnRZWtwfBaxvdhPsGuQ8Q/vuMGoEKTLaLobmUMFAw1VzZFya02ZM7gc0S+k/r3PB/bPFH2A==;dlOGiNi8TgvjwtfgFi7Jog=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/13/singapore-to-launch-50-million-p
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html"
 type: article
 quality: 178
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How cybersecurity is getting AI wrong"
-    excerpt: "Organizations are introducing AI models into security practices across their business, but they're not properly managing the risk."
-    publishedDateTime: 2021-07-10T13:21:00Z
-    webUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/"
-    ampWebUrl: "https://venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/10/how-cybersecurity-is-getting-ai-wrong/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Singapore fintech start-up ADVANCE.AI named in global Fintech Power 50 list in 2021"
     excerpt: "In the past 12 months, ADVANCE.AI was also named in LinkedIn's Top 10 Start-ups in Singapore, awarded \"Best International Fintech\" at India's Fintech Awards and listed in the \"Next Global Tech 50 ..."
     publishedDateTime: 2021-07-15T02:09:00Z

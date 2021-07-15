@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-e
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
 type: article
 quality: 105
-heat: 375
+heat: 365
 published: true
 
 provider:
@@ -347,20 +347,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/Picture-Bloomberg-Tesla?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/7efa7f47-f09e-560a-a4dc-4819ee8e9931&operation=CROP&offset=0x44&resize=1400x788"
         width: 650
         height: 366
-        isCached: true
-  - title: "Tesla finally releases 'Full Self-Driving' Beta version"
-    excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited \"Full Self-Driving\" Beta"
-    publishedDateTime: 2021-07-10T15:36:00Z
-    webUrl: "https://www.glamsham.com/world/technology/tesla-finally-releases-full-self-driving-beta-version"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 39
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/07/93d79dc915d322b2d64bae9723e52e54-2.jpg"
-        width: 400
-        height: 300
         isCached: true
   - title: "PUBG Mobile now lets players build a self-driving Tesla Model Y"
     excerpt: "The most recent PUBG Mobile update introduces a new collaboration with Tesla that will allow players on both Android and iOS devices to build their own self-driving vehicles."
