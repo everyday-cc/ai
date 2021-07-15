@@ -4,44 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_events/2021-06-15-gdtech-san-jose-2021.md",
-      "title": "GDTECH San Jose 2021",
-      "excerpt": "GDTECH brings together business and technology leaders to explore the real world of AI in Digital Twin. A Digital Twin integrates artificial intelligence, machine learning and software analytics with data to create living digital simulation models that update and change alongside their real-life counterparts.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2021-06-15-gdtech-san-jose-2021/index.json",
-      "webUrl": "https://everyday.cc/ai/event/2021-06-15-gdtech-san-jose-2021/",
-      "originalUrl": "http://gdtechevent.com/",
-      "name": "GDTECH San Jose 2021",
-      "type": "conference",
-      "startDateTime": "2021-06-15T02:00:00-07:00",
-      "endDateTime": "2021-06-16T10:00:00-07:00",
-      "website": "http://gdtechevent.com/",
-      "provider": {
-        "name": "GDTECH",
-        "domain": "gdtechevent.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gdtechevent.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "images": [
-        {
-          "url": "http://gdtechevent.com/images/Banner-1.jpg",
-          "width": 768,
-          "height": 439,
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_events/2021-02-03-the-martech-summit-hong-kong-2021.md",
       "title": "The MarTech Summit Hong Kong 2021",
       "excerpt": "The digital revolution has urged brands and advertisers to reshape the way they connect and engage with customers regionally and globally. At the same time, MarTech innovation through the likes of Data Analytics, AI, Machine Learning, Automation and the use of chatbots to enhance customer experience is growing at an unprecedentedly speed.",
@@ -130,6 +92,44 @@
           "width": 1920,
           "height": 1080,
           "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_events/2021-06-15-gdtech-san-jose-2021.md",
+      "title": "GDTECH San Jose 2021",
+      "excerpt": "GDTECH brings together business and technology leaders to explore the real world of AI in Digital Twin. A Digital Twin integrates artificial intelligence, machine learning and software analytics with data to create living digital simulation models that update and change alongside their real-life counterparts.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2021-06-15-gdtech-san-jose-2021/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2021-06-15-gdtech-san-jose-2021/",
+      "originalUrl": "http://gdtechevent.com/",
+      "name": "GDTECH San Jose 2021",
+      "type": "conference",
+      "startDateTime": "2021-11-02T02:00:00-07:00",
+      "endDateTime": "2021-11-03T10:00:00-07:00",
+      "website": "http://gdtechevent.com/",
+      "provider": {
+        "name": "GDTECH",
+        "domain": "gdtechevent.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gdtechevent.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "images": [
+        {
+          "url": "http://gdtechevent.com/images/Banner-1.jpg",
+          "width": 768,
+          "height": 439,
+          "isCached": false
         }
       ],
       "content": "\r\n"

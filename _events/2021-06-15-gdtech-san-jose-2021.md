@@ -4,8 +4,8 @@ excerpt: "GDTECH brings together business and technology leaders to explore the 
 originalUrl: http://gdtechevent.com/
 website: http://gdtechevent.com/
 type: conference
-startDateTime: 2021-06-15T09:00:00Z
-endDateTime: 2021-06-16T17:00:00Z
+startDateTime: 2021-11-02T09:00:00Z
+endDateTime: 2021-11-03T17:00:00Z
 
 provider:
   name: GDTECH
