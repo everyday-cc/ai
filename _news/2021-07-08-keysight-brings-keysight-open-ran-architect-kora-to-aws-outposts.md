@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Keysight Brings Keysight Open RAN Architect (KORA) to AWS Outposts"
-excerpt: "AWS Outposts is a fully managed service that offers the ... RIC Test helps vendors and mobile operators validate RAN Intelligent Controllers (RIC) and RIC enabled artificial intelligence/machine learning xApps and rApps (intelligent applications hosted ..."
-publishedDateTime: 2021-07-08T15:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-keysight-brings-keysight-open-ran-architect-kora-aws-/2021/07/08/9405528.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-keysight-brings-keysight-open-ran-architect-kora-aws-/2021/07/08/9405528.htm"
+excerpt: "Delivers a flexible 5G test environment that simplifies interoperability challenges and validates performance Keysight Technologies, Inc. (NYSE:KEYS), a leading"
+publishedDateTime: 2021-07-08T15:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/b21898997/keysight-brings-keysight-open-ran-architect-kora-to-aws-outposts"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/b21898997/keysight-brings-keysight-open-ran-architect-kora-to-aws-outposts"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "dmm0H0dy7eUT+2I1G2J6VX35UTtHKFSz5eK3YQ7Eyawbdg5vz3sTp82s8R+6Ecnw6OvuI4PLpWrL6u+a9kXt2fmtSqhf90RKdpKLDBDlwK3Rza+SCMcyYdw1qP1HiXt03WJjiVX0QiBnmCE9N/YZlqj1UUuuny24ePI52YIbsfX6oTwA/cQxalaHtZuonuD47N2sig07tzAc0DJsjqws+VarhY3cKRSEGAC1xrT/JAPa0NMMdENSCaIabaVMo6KeapQ/dJl/q0BAIyOlGQf3XoBPP7pjH0Im7m7+pxkxU0pEe4XEQDNdI7b2SazRSKzKx5qgoLIWwzPodnNUpEgLKC21bx6raV5kfzIRa3vaH7U=;V+w6CF4K26rjtkOg6aQIKA=="
+images:
+  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "iPQf6ESliZZGYk0A3ABtY3+Y8pjuwHnqbL3ErbCoVhHNXb58nFLXhTdTtS7ZpAoWDXKs4NkGVsHsbTX4BWE5gc2Ziln5+3X4UgYV8lY64kohRdJV3bvfrT8uNoBNjqnwewOCoosir8/vWHSh6R6kAbCJfxUSUySrriVXsWZsKhIox9NjPXVbXYRXTpibqvgHM/kTWigbA5JFQ1GzS+Qok8DnBRRZMKkxeH4ozZQK4pMhqRqjfH4fTo+EGjIyJfmA8O4eG32x9g+edaU5ZKd2ufVxWsaGOuxWk35uxo6EbWlkdkinSRtJWh7s592Rrcv/MIXYf+HmEzyBIOMn4+O386VuKu0qGqKqg9HMzC62ooY=;lZ7oyPDcrADZXvm4ubc/fQ=="
 ---
 

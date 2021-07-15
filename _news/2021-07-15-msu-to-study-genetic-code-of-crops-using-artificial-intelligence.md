@@ -8,8 +8,8 @@ webUrl: "https://www.wlns.com/news/msu-to-study-genetic-code-of-crops-using-arti
 ampWebUrl: "https://www.wlns.com/news/msu-to-study-genetic-code-of-crops-using-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/news/msu-to-study-genetic-code-of-crops-using-artificial-intelligence/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.wlns.com/wp-content/uploads/sites/50/2021/06/crops.jpg?w=1280"

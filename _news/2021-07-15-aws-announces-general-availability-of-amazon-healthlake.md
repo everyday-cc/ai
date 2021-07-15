@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-15T14:57:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-health-coronavirus-pandemic-a6577a90cb304bcf90fa8b9af7a85b90"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-health-coronavirus-pandemic-a6577a90cb304bcf90fa8b9af7a85b90"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: apnews.com
 
 topics:
-  - AWS AI
+  - AI in Healthcare
   - AI
+  - AWS AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -68,6 +69,6 @@ related:
         height: 1158
         isCached: true
 
-secured: "5re3Obkr0Stpa+aj3JCjvvBxr3v/Q/LTOxXTl0tENzEgTFUSrG3skyn/Xbb/Gyw8j2Eh5WlE4NnBwprjG7RhLrId8UQjJ+pFBU1jOIgEEh4tHXVxoP2ZRF+uHI+POhQNNs8tnabKeUagAHNgYYrnLdeTMP/Q5eiHwNYD0RKE2LZYi20iV32Po0f8GIXSGLjqNIBFBfe7fK/UxsQHlhj2E/5yVeSki4JR73CwWg24yXaau1MWzsaIQVKtB2Uf4XKjkc3pb3W2uofAJPeNzSbx+hnKGhqOVv2EvV/kReVi5Q+UcFSbP8N3hw0GBiktM9zDm8//Sl1Ummkg0XmHfrcEulfRKf9OAwSxAdb4oDGzCQk=;OnKM1xlCBXjOH6rk2YHNJg=="
+secured: "OIHGEa8rWohX0mMs6KPYii8teMWcu8OFKhpLtkbusGUSWXAz6oWCIv640U3ncE3i9+TbyhkUzJnW1GEKmnaWeBr+xKRkWzkoUf2MrGHwIrvmAFTw6YbRELpyreLRNT8wa5m8SXTPrn5tB1hrMpMD7W9zyDgjtvc2aO2nH//dr/KYq9pXIkag2Cbyak+gmy7F3tUqAmdZM0tpkSIWpgB3oPRbsBo71Y7bhhM2zob6ATgch7Q+b1b9ceKsoaXiMwTqVMftuXhTPJd2iQQ+X9ALXmkvkAzbAub4P/Bhh6Jr3Zv86GNTMlhbunGGy4bBe9hmnYKmmPMyebMWYdAD7sagTiX7CFNlpiqRbH+Qj+vMI6c=;pPZycfDpxfCb+LwnpiBjsA=="
 ---
 

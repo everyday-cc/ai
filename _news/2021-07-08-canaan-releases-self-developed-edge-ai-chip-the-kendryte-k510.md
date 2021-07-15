@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Canaan Releases Self-developed Edge AI Chip, the Kendryte K510"
-excerpt: "Canaan Inc. (NASDAQ: CAN) (\"Canaan\" or the \"Company\"), a leading high-performance computing solutions provider, today announced the release of the Kendryte K510 (the \"K510\"), an independently designed and developed RISC-V based edge AI chip,"
-publishedDateTime: 2021-07-08T10:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-canaan-releases-self-developed-edge-ai-chip-kendryte-/2021/07/08/9405016.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-canaan-releases-self-developed-edge-ai-chip-kendryte-/2021/07/08/9405016.htm"
+excerpt: "Canaan Inc. (NASDAQ: CAN) (“Canaan” or the “Company”), a leading high-performance computing solutions provider, today announced the release of the Kendryte K510 (the “K510”), an independently designed and developed RISC-V based edge AI chip,"
+publishedDateTime: 2021-07-08T10:01:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-deaa6cd696e93034a7f75cf76425385e"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-deaa6cd696e93034a7f75cf76425385e"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "ddnIY+DOB05mHFICg++zekOfLJ2t+ErE/QPZaiJJJWNVMdKQ7CQS8OFF2rPjC4FEMVmbhMD3IBy2Pu1+1jbukkUAc+jSjFff3JCmdi6VBg4URMsA7skMKbMm4oZaPGatnrTxUnJHYxr97WDnFUIr7vul4+z4N65qw13KBeCbndkyOkq5tfHr1sQk4DyrqKMRX08hVcEs89UFCPuTCAR1110TCpp0ozSZr2LTMX/4gGnqDqdXebP81yN8rCibwQpjuAU9MyVE3guWNdqR20LbJUlrRsDfliZsFLJLR77ZtsfoCKSEFQCYJaC76CiAm2O8XfeQPJwDiJKsdCVQWod6OMFUx+zDv++i22x5FNPzoQc=;OXarYsH/hVT9jaSzLd1zog=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "Pn6FOjE4qazerABPz2FNX3UZ6slXqB9xhmS2Dv9nuVl78tQS6zFQjoaitj65dlqSOc7B+OW/YwP2xMP/rvDwNXzsok5vETIxRVX/Yx6AverNwkTgxn/JagzWY9GHejCoZm36x+zjPT1xozL+6OYh/ZxHNbzqS0M1KqTVTJcu3yrL3Ogw++wy2s9gQFEzJ3QlS5tlRSr9/Srp3P8p24JlGv2Xc75V9RQW7tRq7vwBOmbxZzJiFut5ECYOS4Uu6vQjr9PtRNgznHyra/FxfsJ1vy2oYp97p4zIcC08lslfk9MPalrI8XaQQr9nGXqT4i9UDN1VdIrgi41lwD929/bFY/Vc07zSSUEYtJpnsZu93eI=;Swvyyl8tTVtSdY+mZ+oCew=="
 ---
 

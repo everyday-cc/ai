@@ -2,21 +2,27 @@
 category: news
 title: "BUDDI AI Announces Expansion of Executive Team to Bolster Innovative AI-Powered Healthcare Product Suite"
 excerpt: "BUDDI AI, the leading provider of artificial intelligence (AI)-powered healthcare solutions, has announced that Vipul Kashyap has been appointed as Head of Clinical Informatics, Shankar Saibabu as Chief Operating Officer and Jeff Nussbaum as Chief Revenue Officer."
-publishedDateTime: 2021-07-15T15:39:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-buddi-ai-announces-expansion-executive-team-bolster-innovative-/2021/07/15/9410351.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-buddi-ai-announces-expansion-executive-team-bolster-innovative-/2021/07/15/9410351.htm"
+publishedDateTime: 2021-07-15T14:49:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-health-d3e198c5e6d053e9d8f85d325de530a9"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-health-d3e198c5e6d053e9d8f85d325de530a9"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Unleashing The Power Of A Diverse Team To Build More Ethical AI Technologies"
@@ -50,6 +56,6 @@ related:
         height: 500
         isCached: true
 
-secured: "zDfZUpMNMMmQfK5nrqO0EvwE0dswBN34nreEBnGefu6T5MUJDnz65lKHYjblq/moE4DDMGFiHeICXmxvrAs4c9LrVYaxOQLXi3dwmKZtyiIXPmLxWeA7WuaoS2Iq6Lz/1Bdl/VAqaGwtrDJ6V3EUO8as9TU7CZhkjF0trotawLlSchUTWBGzfkW5Pl2S0xPQIiWpbBPDVTXtjgulvfPmvLmyaJiXmpUVVbsPwijQovEbLyYky5ZT5j5IfQjnaOW4k2UUgtW1T4HIIbCpV3TpE5VPxkFU5kn6p8pCgYDrymEGbM7U4RqduA8a+Zzqvdz7LLYphWM0tGnD7u/1NOw1chjFh7gdbm0ku8tDdxmncU0=;LeLbvSadnnOUUXbTzQfESQ=="
+secured: "5pK0DgCgZa9YzkxDjpWyp3j7VhR9uA67jxhzTWS5Oo4Ozx+2maeYX9Hzp9pPUxVP3u1McP0pxk2e7SeHzd2vGOBrvYOYSPHzDFjNOJjbaZrY4mguwL21z0Vqy0qTObuanZ1yMX4gYYb2PdXEE9pjgliYbtLZ4sguMeKxb2x0u1H9JzIQ2CpRXNOPEb7vUkSS1Ergp/64XLeOtvylloo2yVXwb4sOJCPby4OnX65u6SjW2LH/FKZzsICSC6PWE3JTEPG8wew+OhtNqjFwj5n9l0X1HgGCEp8adQ+eZkkFEoZEdzuO/8IwsZyGc40cc/Mdc7whcx588Q/ktYh3YjCTy93X/Bh7jd0EZXqQP0IPCrI=;x12q7YmqXJsvnya68bebbg=="
 ---
 

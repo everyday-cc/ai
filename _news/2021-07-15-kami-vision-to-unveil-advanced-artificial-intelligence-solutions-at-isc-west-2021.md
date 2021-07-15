@@ -2,23 +2,20 @@
 category: news
 title: "Kami Vision to Unveil Advanced Artificial Intelligence Solutions at ISC West 2021"
 excerpt: "Kami Vision, the provider of an edge-based vision Artificial Intelligence (AI) platform, announced today that it will unveil its advanced vision AI solutions at ISC West 2021 in Las Vegas, N.V., July 19-21,"
-publishedDateTime: 2021-07-15T12:26:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/kami-vision-to-unveil-advanced-artificial-intelligence-solutions-at-isc-west-2021-1030610858"
-webUrl: "https://markets.businessinsider.com/news/stocks/kami-vision-to-unveil-advanced-artificial-intelligence-solutions-at-isc-west-2021-1030610858"
+publishedDateTime: 2021-07-15T12:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-kami-vision-unveil-advanced-artificial-intelligence-solutions-isc-/2021/07/15/9409857.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-kami-vision-unveil-advanced-artificial-intelligence-solutions-isc-/2021/07/15/9409857.htm"
 type: article
-quality: 62
-heat: 62
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - Computer Vision
   - AI
 
 images:
@@ -27,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "ghQtekW3wIDhg/4yPjUE+nxwXVVklBSGBgeoT4+SB0CU1l43y/SzI/eqaeoaIsPSQRHzzCsOI3EkoFMF8sIqUzG4tooxAMyeNGWSXKgZjBye9ij50bQDpjDFhY1PmWtdwZr3iN48qTqI4I/90qASNE20u2fpUmg4/XLSn5je+uh0Uq4U6DM7GD5LV/XqUdJqUtz7DoHFTGelDMVNubaCWwnrIUfoON/KotB9zTmVECbYgud5D3Q53g9i/NqGbKCi9qsBwy/7Yd+LnM7hnZLCGye4J7h3a+GhTpaXsm0Jf51oBc9bJrPRELPaWmrHITN8bgzSQ3RtxPlqtI8hQZNs91r82Yb1Nvc0XDp1YsjhEII=;mXu49WorhxGlkr3f3qp+wA=="
+secured: "w/gYM/QyKtZ5nCOgTtHjjJEuAabRz/VxNHM3FlFI2csyGrxvrKNYCUmtR3Cj+adLIRvSpkWyJkhj4OwwK4EBbNS7iTqbWKITHuj6m4bqCY45EuEtH7rdMlGogqYHAisOJ1RmpLSHLGgTD/9RjAZh4mPIx+DLKavAXls8d8FcSHpOz8RW+L6maGMJ8VF4N6e1kuUYk7vqxpv4EjzcwryHiHNwwF8RhFJ4AA3YR5pvNAtYcPjVsQzk72dHP/+QlT5EHpaEsLFCZ4uhZ/NbNh68cVdhfLTeK2K2mjZZjff/WpPjhzcP/SIof20MQnHpvddmkJ2IUsOvPiryDP0Y4ZgiXbBYi03IuyjTaG/da7RoRsY=;JPZJ/MGMd5aurfDA8DGeFA=="
 ---
 

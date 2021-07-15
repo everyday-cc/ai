@@ -1,20 +1,28 @@
 ---
 category: news
 title: "AI Natural Language Processing Company \"Brain Ventures\" Selected as a Data Voucher Processing Company by the Korea Data Industry Promotion Agency."
-excerpt: "The selection as the data voucher processing company is a feat accomplished by Brain Ventures, an AI-based natural language processing company, after 9 months of its establishment. It was evaluated highly for tangible research achievements such as the publication of research papers on AI natural language processing and the application of 5 patents and trademarks in a short period of time."
-publishedDateTime: 2021-07-09T18:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ai-natural-language-processing-company-bra-ventures-selected-/2021/07/09/9406147.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ai-natural-language-processing-company-bra-ventures-selected-/2021/07/09/9406147.htm"
+excerpt: "Brain Ventures (CEO Won-hoe Kim), a resident company of ICT-Culture Convergence Center operated by the Ministry of Science and ICT and the National IT"
+publishedDateTime: 2021-07-10T04:00:00Z
+originalUrl: "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing"
+webUrl: "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing"
+ampWebUrl: "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "hDmalm25ZU/vX66RL2AyvCHmr+qmhiC4/OrttUppWhAELxFgzO0maRpmiXMkTuXvIpz9nemCgcLrS0PHqkhu71Q/Weotg+l5grjdkm2VOqaWeG9MdhrDfvej3PAPiz3C7zMZdde9u4ISFnph/nQR+yfde4aFF/XtyzZuCwE4DpybD7xy7h2jFlezdOJ6LOpuvACqiWozjL2O1S90JKav3P9yYC00P/Yh8q+pYRyHNavy7bSrf7FAidIUWCbUVcQbOrp6vRp6n5DRIXAYQwXrNm90/ggigyhlE/XD2MH4jEmZpFW3D7lkA7AcWk669AhgpIB+teXrie4bjMQbpCxPuwdGERGCKeJmy1UId36BspQ=;HbRp6OPt0SBV0GpjMWBbKg=="
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_580.jpg?itok=YpqM4i8D"
+    width: 763
+    height: 509
+    isCached: true
+
+secured: "4FXGfkbFT+zNZ3VEgNWzTpBaAwTRocaJdIAZNQWomAznwW8DmNZtKFdFN0Jp//jHtbXhKX7AeOqCfueKYOlTEnzPpcqQdDLEqjh6Wr5z9iVC97AnpnTW9aeTBtgZCmftR4Ftl48LNBVswVIdYGUN5qfeuZ1N99i/lp3GT/Du7NeZQ1YkeBEQUFP2610s3D1/Z6JnGCDJQTdFFC3Ctqn36N9FGMQB0kV+wd2DrKgHVp++cgqbX1rhZgeIdNcxltYMletA8lYjLApbSfcZWIeRU8N12GagLkoE6qaLzY982KHpcJwZgiEWRSk2KwpwKPmNGx+y8lX9rJFFm0MfJRLW8pc+64clW0QJaYjBcn6oK5E=;/AuKbznUAbk444BicFFQMg=="
 ---
 

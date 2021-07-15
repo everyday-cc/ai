@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-07-14/self-driving-st
 webUrl: "https://www.bloomberg.com/news/articles/2021-07-14/self-driving-startup-aurora-said-in-agreement-with-reinvent-spac"
 type: article
 quality: 54
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Tech Developer Aurora Raising $2 Billion In SPAC Listing That Values It At $11 Billion"
+    excerpt: "Funds from the deal will help the company get its self-driving truck technology ready for commercialization by late 2023."
+    publishedDateTime: 2021-07-15T16:17:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f05e1233162bebb522ee31%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self-driving tech co. Aurora valued at $11 bln in merger deal with SPAC"
     excerpt: "A benchmark-beating robot thinks AMC will outperform Facebook and GameStop. It likes these other stocks, too. Barron's: 24 Stocks That Could Drop After Earnings This one signal says a stock market correction may be on the way ‘I worry about inflation,’ says BlackRock’s Larry Fink — warns it’s unlikely ‘to be transitory’ Go to the homepage"
     publishedDateTime: 2021-07-15T13:41:00Z
@@ -43,35 +59,37 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving startup Aurora to go public"
-    excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y, a blank-check firm led by executives including LinkedIn co-founder Reid Hoffman and Zynga Inc. founder Mark Pincus, people with ..."
-    publishedDateTime: 2021-07-15T13:57:00Z
-    webUrl: "https://www.autoblog.com/2021/07/15/aurora-self-driving-cars-stock-ipo-spac/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/07/15/aurora-self-driving-cars-stock-ipo-spac/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/07/15/aurora-self-driving-cars-stock-ipo-spac/"
+  - title: "'Self-driving Delivery Robot' Caught by Regulations... Concerns Falling Behind in Global Competition"
+    excerpt: "Self-driving delivery robots are developing one after another, but there is still a long way to go before full-scale commercialization due to various outdated regulations. Technology development is sl"
+    publishedDateTime: 2021-07-15T08:23:00Z
+    webUrl: "https://english.etnews.com/20210715200001"
+    ampWebUrl: "https://english.etnews.com/amp/20210715200001"
+    cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210715200001"
     type: article
     provider:
-      name: Autoblog
-      domain: autoblog.com
+      name: Etnews.com
+      domain: etnews.com
+    quality: 46
+    images:
+      - url: "https://img.etnews.com/news/article/2021/07/15/cms_temp_article_15171258715300.jpg"
+        width: 600
+        height: 399
+        isCached: true
+  - title: "AEV Summit: Embark focuses self-driving tech on big fleets"
+    excerpt: "DETAILS: Embark Trucks has the longest experience — five years — of running self-driving trucks on public highways. It is offering a bolt-on software that can go on any manufacturer’s truck. It envisions commercial fleets having the technology by 2024 — with no safety drivers."
+    publishedDateTime: 2021-07-14T18:00:00Z
+    webUrl: "https://www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets"
+    ampWebUrl: "https://www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
     quality: 44
     images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/979x551+200+231/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/07/15095713/Press-Aurora-Truck-Pacifica.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Self-driving startup Aurora reaches agreement to go public, report says"
-    excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y, a blank-check firm led by executives including LinkedIn co-founder Reid Hoffman and Zynga Inc."
-    publishedDateTime: 2021-07-15T10:34:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-aurora-reaches-agreement-go-public-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora-MAIN_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/07/AEV_FC_Alan-Adler_Alex-Rodrigues.png"
+        width: 750
+        height: 419
         isCached: true
   - title: "Self-driving startup Aurora plans to go public with valuation of $11 billion"
     excerpt: "The company anticipates a total valuation of $11 billion. In a statement, Aurora said it expects to have $2.5 billion in cash at closing, raising nearly $2 billion from the transaction. Aurora is led by CEO Chris Urmson,"

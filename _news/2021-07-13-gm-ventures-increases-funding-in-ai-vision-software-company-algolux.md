@@ -9,7 +9,7 @@ ampWebUrl: "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-i
 cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
         width: 670
         height: 446
         isCached: true
+  - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
+    excerpt: "Powered by AI and edge computing, Netradyne's Driveri® is an advanced vision-based driver recognition and fleet safety solution ... solution to capture the complete driving day with accurate object detection, event causality, and full visibility to ..."
+    publishedDateTime: 2021-07-15T17:48:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/netradyne-raises-150-million-in-series-c-funding-led-by-softbank-vision-fund-2/article_c208b668-4141-5411-8aed-8212f1f3ca56.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 15
   - title: "RVH Solutions Inc. Secures Series B Funding from Vizient Inc., the Nation's Largest Member-Driven Health Care Performance Improvement Company"
     excerpt: "RVH Solutions, Inc. (the \"Company\"), a leading healthcare technology solutions provider to hospitals, health systems, academic medical centers and skilled nursing facilities in the United States and the United Kingdom,"
     publishedDateTime: 2021-07-12T13:08:00Z

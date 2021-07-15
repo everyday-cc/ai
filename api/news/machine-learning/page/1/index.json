@@ -450,6 +450,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-13-new-approach-that-uses-machine-learning-could-transform-drug-development.md",
+      "title": "New approach that uses machine learning could transform drug development",
+      "excerpt": "Writing in the July 12, 2021 online issue of Nature Communications, researchers at University of California San Diego School of Medicine describe a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210712/New-approach-that-uses-machine-learning-could-transform-drug-development.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210712/New-approach-that-uses-machine-learning-could-transform-drug-development.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210712/New-approach-that-uses-machine-learning-could-transform-drug-development.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210712/New-approach-that-uses-machine-learning-could-transform-drug-development.aspx",
+      "publishedDateTime": "2021-07-12T19:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-aiml-cuts-into-traditional-hpc-plasma-physics.md",
       "title": "AI/ML Cuts into Traditional HPC, Plasma Physics",
       "excerpt": "When AI/ML came onto the scene in the supercomputing community, common wisdom was that it could do much to augment HPC applications but it would be not be",
@@ -1413,40 +1456,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-real-time-prediction-of-covid-19-patients-health-situations-using-artificial-neural-networks-and-fuzzy-interval-mathematical-modeling.md",
-      "title": "Real-time prediction of COVID-19 patients health situations using Artificial Neural Networks and Fuzzy Interval Mathematical modeling.",
-      "excerpt": "At the end of 2019, the SARS-CoV-2 virus caused an outbreak of COVID-19 disease. The spread of this once-in-a-century pathogen increases demand for appropriate medical care, which strains the capacity and resources of hospitals in a critical way.",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/MED/34188610",
-      "originalUrl": "https://europepmc.org/article/MED/34188610",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

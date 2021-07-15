@@ -66,6 +66,20 @@ related:
         width: 720
         height: 325
         isCached: true
+  - title: "ABB to Deliver Artificial Intelligence Modelling for Data Center Energy Optimization in Singapore"
+    excerpt: "Pilot project with ST Telemedia Global Data Centres to map the potential of artificial intelligence, machine learning and advanced analytics, with a target of at least 10 percent energy savings."
+    publishedDateTime: 2021-07-15T16:29:00Z
+    webUrl: "https://www.automation.com/en-us/articles/july-2021/abb-artificial-intelligence-modelling-data-center"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 24
+    images:
+      - url: "https://www.automation.com/getmedia/d7daa78f-cfc4-40c3-8adb-072278a69538/ABB-news-July-15-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "fC9VV6pKF1eCP6/A3R3NSjPFYmUSnPosuGg6cuNak3oipIiEgyk5VdV84xHgncWe1XW0WvEJBb1K7Owl2cnBWErbH7QnSGdbnT4ZysNKra/1y50tFTizIKraPjJgezjVjgadanSb3EqAlBBYiGA2lEGrceL2O7dAGaMVtqBmgrbbMLDdRjcLwBTcBMm+x+nukfo5i//HGvfXafBD5n4Qlj+zB9geJS2tzOdrA0W5ZlikpQIitNoHZKg/ByQfEQ8za97FYOvr5bsM6ZCx2lww1uQec1J+QsJov22M4yaUBUM2Wx9cR3nfLF+QEab1Qn8YfpFTGUkBNdvzf9cXgRsdx8sNx99aGMx9UePREPqfkQ6eJiqFm0DLEOkWuagLBBYHdD1XbpIMEZ/haoU94femqK/Um6g6LANL2iu3Ywb7d1fz+MT3Qzr6eBgCOLQ2ofGbEL6p3RnPQoCqXW0rKgWy8oyO3tOkJ0RRN1biPcfUEWO3mG0Ny6lfw55930dy443/7D3OEHh+Krd7ul5d+n24+g==;Vn3KJ3/FFKV2Rx5CQk7sLw=="
 ---

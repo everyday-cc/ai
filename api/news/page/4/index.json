@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-13-klarna-acquires-social-shopping-startup-hero-to-expand-merchant-solutions.md",
+      "title": "Klarna acquires social shopping startup HERO to expand merchant solutions",
+      "excerpt": "Klarna acquired HERO, a retail tech startup that connects online shoppers with in-store retail associates via text messages, videos, and chat rooms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/klarna-buys-retail-tech-startup-hero-expands-merchant-solutions-2021-7",
+      "originalUrl": "https://www.businessinsider.com/klarna-buys-retail-tech-startup-hero-expands-merchant-solutions-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/603e421687d37600190d0951?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/klarna-buys-retail-tech-startup-hero-expands-merchant-solutions-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/klarna-buys-retail-tech-startup-hero-expands-merchant-solutions-2021-7?amp",
+      "publishedDateTime": "2021-07-13T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-digital-health-equity-and-how-to-achieve-it-in-a-post-pandemic-world.md",
+      "title": "Digital Health Equity And How To Achieve It In A Post-Pandemic World",
+      "excerpt": "It’s imperative that everyone receives equal access to medical care, whether that’s via the telephone, in person or a telehealth appointment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/13/digital-health-equity-and-how-to-achieve-it-in-a-post-pandemic-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/13/digital-health-equity-and-how-to-achieve-it-in-a-post-pandemic-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ec47b6bbdecf0b4a11814f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/13/digital-health-equity-and-how-to-achieve-it-in-a-post-pandemic-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/13/digital-health-equity-and-how-to-achieve-it-in-a-post-pandemic-world/amp/",
+      "publishedDateTime": "2021-07-13T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-ai-to-have-biggest-impact-on-fintech-development-over-next-five-years.md",
       "title": "AI to have biggest impact on fintech development over next five years",
       "excerpt": "Artificial intelligence will become the most influential technology in the fintech sector over the next five years.",
@@ -283,6 +386,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-13-new-approach-that-uses-machine-learning-could-transform-drug-development.md",
+      "title": "New approach that uses machine learning could transform drug development",
+      "excerpt": "Writing in the July 12, 2021 online issue of Nature Communications, researchers at University of California San Diego School of Medicine describe a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210712/New-approach-that-uses-machine-learning-could-transform-drug-development.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210712/New-approach-that-uses-machine-learning-could-transform-drug-development.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210712/New-approach-that-uses-machine-learning-could-transform-drug-development.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210712/New-approach-that-uses-machine-learning-could-transform-drug-development.aspx",
+      "publishedDateTime": "2021-07-12T19:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-artificial-intelligence-in-automotive-market-shaping-from-growth-to-value.md",
       "title": "Artificial Intelligence in Automotive Market Shaping From Growth To Value",
       "excerpt": "Latest survey on COVID-19 Outbreak-Global Artificial Intelligence in Automotive Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of COVID-19 Outbreak- Artificial Intelligence in Automotive.",
@@ -481,7 +627,7 @@
       "originalUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1071,152 +1217,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here.md",
-      "title": "If you’ve ever had thoughts of becoming a real estate mogul, your training can start right here",
-      "excerpt": "Sponsored Deals The training in The Fundamentals of Real Estate Investment Bundle can help students become an informed, savvy market watcher and investor.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/",
-      "originalUrl": "https://venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/sale_31347_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/amp/",
-      "publishedDateTime": "2021-07-12T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-the-role-of-ar-vr-ai-and-robotics-in-future-conflicts.md",
-      "title": "The Role of AR, VR, AI and Robotics in Future Conflicts",
-      "excerpt": "The increasing importance of information in military and warfare is making digital technology and its applications, such as analytics, AI, and augmented reality, indispensable to the future of war.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/politics/the-role-of-ar-vr-ai-and-robotics-in-future-conflicts",
-      "originalUrl": "https://www.bbntimes.com/politics/the-role-of-ar-vr-ai-and-robotics-in-future-conflicts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Role_of_AR_VR_AI_and_Robotics_in_Future_Conflicts.jpg",
-          "width": 1625,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-artificial-intelligence-is-on-the-side-of-apes-tesla-fames-ai-based-etf-sells-facebook-walmart-and-buys-amc.md",
-      "title": "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC",
-      "excerpt": "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ: FB) and Walmart Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697",
-      "originalUrl": "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/3090841071_105297e728_o_6.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

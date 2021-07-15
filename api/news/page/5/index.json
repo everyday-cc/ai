@@ -2,6 +2,152 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-12-if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here.md",
+      "title": "If you’ve ever had thoughts of becoming a real estate mogul, your training can start right here",
+      "excerpt": "Sponsored Deals The training in The Fundamentals of Real Estate Investment Bundle can help students become an informed, savvy market watcher and investor.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/",
+      "originalUrl": "https://venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/sale_31347_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/amp/",
+      "publishedDateTime": "2021-07-12T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-the-role-of-ar-vr-ai-and-robotics-in-future-conflicts.md",
+      "title": "The Role of AR, VR, AI and Robotics in Future Conflicts",
+      "excerpt": "The increasing importance of information in military and warfare is making digital technology and its applications, such as analytics, AI, and augmented reality, indispensable to the future of war.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/politics/the-role-of-ar-vr-ai-and-robotics-in-future-conflicts",
+      "originalUrl": "https://www.bbntimes.com/politics/the-role-of-ar-vr-ai-and-robotics-in-future-conflicts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Role_of_AR_VR_AI_and_Robotics_in_Future_Conflicts.jpg",
+          "width": 1625,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-artificial-intelligence-is-on-the-side-of-apes-tesla-fames-ai-based-etf-sells-facebook-walmart-and-buys-amc.md",
+      "title": "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC",
+      "excerpt": "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ: FB) and Walmart Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/3090841071_105297e728_o_6.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale.md",
       "title": "This AI Asks Questions, Finds Answers And Suggests Actions, All At Scale",
       "excerpt": "SparkBeyond has developed an AI-driven dynamic research and strategic action engine that can help you create a better future",
@@ -753,6 +899,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-10-ai-natural-language-processing-company-brain-ventures-selected-as-a-data-voucher-processing-company-by-the-korea-data-industry-promotion-agency.md",
+      "title": "AI Natural Language Processing Company \"Brain Ventures\" Selected as a Data Voucher Processing Company by the Korea Data Industry Promotion Agency.",
+      "excerpt": "Brain Ventures (CEO Won-hoe Kim), a resident company of ICT-Culture Convergence Center operated by the Ministry of Science and ICT and the National IT",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing",
+      "originalUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_580.jpg?itok=YpqM4i8D",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp",
+      "publishedDateTime": "2021-07-09T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-micron-technology-puts-its-cash-to-work-using-artificial-intelligence.md",
       "title": "Micron technology puts its cash to work using artificial intelligence",
       "excerpt": "The Boise, Idaho-based memory-chip maker says it is earning millions of dollars in extra returns on its deposits thanks to an AI tool developed in house",
@@ -1051,160 +1240,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-ai-natural-language-processing-company-brain-ventures-selected-as-a-data-voucher-processing-company-by-the-korea-data-industry-promotion-agency.md",
-      "title": "AI Natural Language Processing Company \"Brain Ventures\" Selected as a Data Voucher Processing Company by the Korea Data Industry Promotion Agency.",
-      "excerpt": "The selection as the data voucher processing company is a feat accomplished by Brain Ventures, an AI-based natural language processing company, after 9 months of its establishment. It was evaluated highly for tangible research achievements such as the publication of research papers on AI natural language processing and the application of 5 patents and trademarks in a short period of time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-ai-natural-language-processing-company-bra-ventures-selected-/2021/07/09/9406147.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-ai-natural-language-processing-company-bra-ventures-selected-/2021/07/09/9406147.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine.md",
-      "title": "How AI Is Transforming the Healthcare Landscape & Accelerating the Development of Medicine",
-      "excerpt": "The world of big data in the healthcare sector is vast and growing exponentially. Tools that leverage artificial intelligence (AI) and machine learning (ML) are critical to organizing, correlating, making sense of and generating useful discoveries from this avalanche of healthcare and medical data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine",
-      "originalUrl": "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine?amp",
-      "publishedDateTime": "2021-07-09T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-us-sanctions-a-chinese-facial-recognition-company-with-silicon-valley-funding.md",
-      "title": "US sanctions a Chinese facial recognition company with Silicon Valley funding",
-      "excerpt": "DeepGlint, also known as Beijing Geling Shentong Information Technology Co., Ltd., is a facial recognition company with deep ties to Chinese police surveillance, and funding from US-based Sequoia Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding",
-      "originalUrl": "https://www.msn.com/en-us/finance/other/us-sanctions-a-chinese-facial-recognition-company-with-silicon-valley-funding/ar-AALYjHH",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 246,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/eGtjTnlDLWadmcCPthwq1RA4u_o=/0x0:640x355/1400x933/filters:focal(269x127:371x229):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69562258/Hitachi_Kokusai_Electric_surveillance_system_640.0.jpg",
-          "width": 640,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding",
-      "publishedDateTime": "2021-07-09T10:42:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding",
-        "domain": "theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-quotable-quotes-from-waic-2021.md",
-      "title": "Quotable quotes from WAIC 2021",
-      "excerpt": "Artificial intelligence has made life increasingly ... Baidu has just rolled out the latest driverless robotaxi service Apollo, which will be cheaper than the current ride-hailing services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202107/08/WS60e6db24a310efa1bd660a5c.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202107/08/WS60e6db24a310efa1bd660a5c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202107/08/60e6ddd1a310efa1e3ad381b.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

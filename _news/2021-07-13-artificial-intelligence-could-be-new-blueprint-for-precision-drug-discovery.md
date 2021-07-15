@@ -43,6 +43,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI-Driven Drug Discovery Blueprint Could Deliver Better Drugs for Chronic Diseases, Researchers Claim"
+    excerpt: "A new mathematical approach could transform drug development by searching for disease targets, then predicting if a drug will be successful."
+    publishedDateTime: 2021-07-14T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/ai-driven-drug-discovery-blueprint-could-deliver-better-drugs-for-chronic-diseases-researchers-claim/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 24
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/06/GEN_JULY_2021_Cover.jpg"
+        width: 655
+        height: 790
+        isCached: true
 
 secured: "hMhhoPXzq/thxnDVJy0VxEuVihWbTvCrKBbMg6H6cqr0uKFsxkum7NT1/YZTEyUUOt6GUKd8iz0i7n3mrBrg/DEsbyNa4LGtEbzhWvDzKUxCovUCijIEXG4ET81KbtIzUgQV0g35y9pgYsBPBMex03Uhr98isPo5ixEV+TcvhtXubZby14JeVp64SxPSwSmy4BpOUq/4oAUIV+ROKU2HeD3z2CCgqKO8OXljzLdRHsJavdfJY6tObh+uJzBTbXIVxgpCG9za35gder+CkxeftgiYnICJD4cG8vcxt9U4w3TycWGm4xzFYbzSZ/f2q4cqsTnb7win7JFSAL95lB1sOil4LVh7QF01PdTLlRdQiKc=;hFpcqHKSnUyz9tic5CY2FA=="
 ---

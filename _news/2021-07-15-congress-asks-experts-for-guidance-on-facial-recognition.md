@@ -1,20 +1,18 @@
 ---
 category: news
-title: "Congress Asks Experts for Guidance on Facial Recognition"
-excerpt: "Law enforcement uses facial recognition systems with little oversight and, at times, disastrous impact. During a congressional hearing this week, members and experts talked through how new laws could head off greater harm."
-publishedDateTime: 2021-07-14T23:15:00Z
-originalUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition"
-webUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition"
-ampWebUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true"
-cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true"
+title: "Congress asks experts for guidance on facial recognition"
+excerpt: "The officers' facial recognition algorithm had mistakenly matched a 6-year-old driver's ID photo of Williams with that of a suspect captured in a surveillance camera picture. Williams recalled his conversation with the detective: \"I held up the paper [with the suspect's image] to my face and said,"
+publishedDateTime: 2021-07-15T16:50:00Z
+originalUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21230551/congress-asks-experts-for-guidance-on-facial-recognition"
+webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21230551/congress-asks-experts-for-guidance-on-facial-recognition"
 type: article
-quality: 61
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Government Technology
-  domain: govtech.com
+  name: Security
+  domain: securityinfowatch.com
 
 topics:
   - Natural Language Processing
@@ -22,9 +20,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://erepublic.brightspotcdn.com/dims4/default/9451d55/2147483647/strip/true/crop/1095x571+18+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F67%2F8b%2Fbf2467764012829abc8b9b917271%2Frw-better.png"
-    width: 840
-    height: 438
+  - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Face_Recognition_And_Personal__379967281.60f066cc17c27.png?auto=format&fit=max&w=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -89,6 +87,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icrAaz7etyfo/v0/1200x793.jpg"
         width: 1200
         height: 793
+        isCached: true
+  - title: "These retail giants are monitoring you with facial recognition, say campaigners"
+    excerpt: "Campaigners created a list of retail giants they say are using facial recognition in their stores. The group has called for the practice to be banned."
+    publishedDateTime: 2021-07-15T16:58:00Z
+    webUrl: "https://thenextweb.com/news/retail-stores-monitoring-you-with-facial-recognition"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 80
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-1-2.jpg&signature=3261f0546d4c312e6f118f86303e73d5"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Republicans and Democrats concerned about facial recognition technology"
     excerpt: "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,"
@@ -264,6 +276,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Jr4YnYdMhmndzCvaUhOND3nP4dES9y0YzS05dxKgHl30QEpvcM5gfAzROrs3RsPzzOZr3s0/PpYx3dOdzaCIqW5jPP+KriUyQ3Yjkfr9l0I/aHl53gH/BE5Q3heBlJvfCm0aBVc1NyhxYE02vAZta0BeQH5H9vS1WkiCndsZk5tc8cd3Esk24GhyVvl0ovs/IyUiH6EKU/4YnPImsDo1uuXe9w+On8mhBhSKD/BCLnxr9I0+oO5VFcyb167T2JmdGucv4YZxx8wUGd6uXurPtKi17eX2Px/jDqoTth4wRFIAG+oWKo/YLdf//AU/05NutjuLjJtUS+J6+0Kdf1fhVWeQ4WeBKGPBrLcdlXMiuqur2c3I0fe/3SUez4RGTmRu+pOR0NPKxZtuFzYPbbbFlkzUboqKDHq1oglaVWfSdxvTyGjPCzigZcb2mwjDpMioz+JResPMwsXMEfV0M6YXozuOHWscEv308bIjatfX8xJgualMsgBLLQ1g2NtgfkoVWEisY84TOwNgGLgYA+MQ1A==;DfBh13kHwXuBRO5N9Rx51Q=="
+secured: "9vr7lSe3Qp6ORlODF6SWF4YJEy83xrh+IxQugTm9Jkf3yInvAvWI+QEMwQngFqPZcmuQNn32RVqJOsPu1rSgPzrQX/CU0rf3bYici4ufM7+EI8H8WbvECevXNZniGMvXMyeU1Fml7QmvKxc5jJlXTA7FkfeT6rb4wAnCu+o/SDCaA0diOwsp24RdkMpH0HjT2kVvYaNe8NQOSLTItlu7dqcjUhO2jqGC2yn7ZvKLz6rPpHujHhfAJ/tlgV0lxeBAMHY9n9wOJC1+ArYke0xpLokRz/chYQ99kh2GwVxJtX4rNflaEE/xk84HSVqwKgmKpxn6WduVUEPNq2pRUU9qtH5PZru6Yxv/+yj+lSvFJXw=;zhmzuHIHNza7jPatKkARpQ=="
 ---
 

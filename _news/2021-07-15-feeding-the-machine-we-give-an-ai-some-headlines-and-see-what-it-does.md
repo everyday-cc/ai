@@ -6,9 +6,9 @@ publishedDateTime: 2021-07-15T15:00:00Z
 originalUrl: "https://arstechnica.com/information-technology/2021/07/feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does/"
 webUrl: "https://arstechnica.com/information-technology/2021/07/feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Ars Technica
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AWS AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Machine-Learning-Feature-2-760x380.jpg"
@@ -28,6 +29,6 @@ images:
     height: 380
     isCached: true
 
-secured: "9t1ZdpoVrn3gmX454I68F60p10CqzrrqSaYKBSDUn6tZFBy59wB9UYiqLDkFEN15wOrGS/J2Z+8rBUzW8pZxleKHPwfI19t1WitjwtxnFyOVkTlfZGnllyJOUT5Tb1eu/CQiWPQH6YS/5+GVcgLw6t90q63LOV0Xk9G6jVVsux5uBFVekMM1jGS3nxbO4fhyiIjHq7KpvKTEjpcj7LEcxeyWLsKlgVndihu+UX/Nm89DL1HWSu6ZnNVptdAHg8K31SaYv2/v82YriolvDtv+QCX1fMq634UeS9hXggDGKQnhsdJ/ZcHmmPytKCL61aBwFdc9grOSK1X6jn9OHHqq2O1+Gf/H7EZXNGmK7QT5Kf4=;CTESUYsd8LsRFiL1a3TT8A=="
+secured: "qsnir4xCBP/4eg1AIzYRrMyXgax0dGksRJxXxp0LNEPUbLR1GTMTZzr0hCyy83wLriXDOAWRo32KnMEQjRe2soNM9aSztEVZR4xJJZpmYy+oBRvV5mJWCGM/3rwTnPE827deAMkWtOXUOXkt1X4KhjaC7jcNCxPOd2S1PrLOk3KElb7AI1NCRV/4Q2ZzMNDsWtc3u4MaIN4j3mtdvnYt+ghAw/o9V/IYIcD6cQJ1/tSrbelt95NMMVY/2//mS97Xst33uL+LZt6LTzXg3RfRrG5Iy/3steOaEzvlgZhN0k8oIDuBccKlzA4kckru8E1hDd4MbKEq2rFPolhdmJkbNVLSeuVebAE8q8YZaZd7942KoIzEx6WDOsJD/tDM3IJabJwY2L2Ea0PcS7BgnP+tHafTqM9veWEBhkUZBAPpFJ/ksgqB4+isx+/BZ9xGOBeYoqm4Y72C9t0EZ5xWcq++0Of8s8tTcsrsmkv86SecNGlWFhBs9qnuvuc6cxqqKwB7SopGCJ4KutKH+VzZ320Khw==;feTtZtik4qA9lGGFLgkhHg=="
 ---
 

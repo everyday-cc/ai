@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freightwaves.com/news/aev-summit-embark-focuses-self-dri
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets/amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,96 @@ images:
     width: 750
     height: 419
     isCached: true
+
+related:
+  - title: "Self-Driving Tech Developer Aurora Raising $2 Billion In SPAC Listing That Values It At $11 Billion"
+    excerpt: "Funds from the deal will help the company get its self-driving truck technology ready for commercialization by late 2023."
+    publishedDateTime: 2021-07-15T16:17:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f05e1233162bebb522ee31%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-Driving Startup Aurora in Agreement With Reinvent SPAC"
+    excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y, a blank-check firm led by executives including LinkedIn co-founder Reid Hoffman and Zynga Inc."
+    publishedDateTime: 2021-07-14T23:31:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-07-14/self-driving-startup-aurora-said-in-agreement-with-reinvent-spac"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iReMZ5eA9a1A/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Self-driving tech co. Aurora valued at $11 bln in merger deal with SPAC"
+    excerpt: "A benchmark-beating robot thinks AMC will outperform Facebook and GameStop. It likes these other stocks, too. Barron's: 24 Stocks That Could Drop After Earnings This one signal says a stock market correction may be on the way ‘I worry about inflation,’ says BlackRock’s Larry Fink — warns it’s unlikely ‘to be transitory’ Go to the homepage"
+    publishedDateTime: 2021-07-15T13:41:00Z
+    webUrl: "https://www.marketwatch.com/story/self-driving-tech-co-aurora-valued-at-11-bln-in-merger-deal-with-spac-01626356485"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "'Self-driving Delivery Robot' Caught by Regulations... Concerns Falling Behind in Global Competition"
+    excerpt: "Self-driving delivery robots are developing one after another, but there is still a long way to go before full-scale commercialization due to various outdated regulations. Technology development is sl"
+    publishedDateTime: 2021-07-15T08:23:00Z
+    webUrl: "https://english.etnews.com/20210715200001"
+    ampWebUrl: "https://english.etnews.com/amp/20210715200001"
+    cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210715200001"
+    type: article
+    provider:
+      name: Etnews.com
+      domain: etnews.com
+    quality: 46
+    images:
+      - url: "https://img.etnews.com/news/article/2021/07/15/cms_temp_article_15171258715300.jpg"
+        width: 600
+        height: 399
+        isCached: true
+  - title: "Self-driving startup Aurora plans to go public with valuation of $11 billion"
+    excerpt: "The company anticipates a total valuation of $11 billion. In a statement, Aurora said it expects to have $2.5 billion in cash at closing, raising nearly $2 billion from the transaction. Aurora is led by CEO Chris Urmson,"
+    publishedDateTime: 2021-07-15T14:34:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-aurora-plans-go-public-valuation-11-billion"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 21
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "In Major Step Toward Commercializing Self-Driving Technology, Aurora to Become a Public Company by Merging with Reinvent Technology Partners Y"
+    excerpt: "Aurora, the self-driving technology company, has entered into a definitive business combination agreement with Reinvent Technology Partners Y (“Reinvent”) (NASDAQ: RTPY), a special purpose acquisition company with the sponsor team that takes a “venture capital at scale” approach to investing."
+    publishedDateTime: 2021-07-15T13:36:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/in-major-step-toward-commercializing-self-driving-technology-aurora-to-become-a-public-company-by/article_f05b257c-9ec8-5b70-96a7-e66c04ecbb63.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 0
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/21/821a284b-ba23-5cb0-ac73-f905ce44b439/60f03c81db3a3.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "7gBR2cMg1lCGmHFZydRDnGW1MlNv1qbw5XG+lyVjz7vCSwXrPwnayoOjOljEwjK4cAlOMesTtIHuk0YGX0qJfGs9e60x4uH7ffCiET6MPBF/QQvJrs/8sSrhJ2nsKMF8Gxz2ro4hjdsLCWJPiqpUOdbSSpWzuFdSZbL/sRudU5w3eXg7Y4Gg8Sq2vx4UU1AL1oGygz6WjaeXjwmWwOwb55PUM4gSV0+nHlHxLCbT8UPjit49wYhTgUUZJlYga95zhx+vrWCZSM+Q4+albuPmUw10q4nkJ0Ef+GjUDR0Ap29O+Qzbm5VPU6naash4iM+Y63YPKIXrsol0eT8BEuoWCRZbzXATSYeUk7t+v86lhJim3YGAsY5C1c0j2zxceSXy4PLVXu5LO8XHlclYdSfMOwC8rj2mounP22mE+oKaxzCqAcKZjVOayuAs3aiwjBSiuzyuiFlyRmDaX3zhWUmVI40BX/U9LQITd72OEnUdqKBjPsJ2+KnX0LYGoJ7mu/3PX5uxSbAZYzTD33KupeV+6A==;eTmp/M9IRNLwX9JibW17Ww=="
 ---

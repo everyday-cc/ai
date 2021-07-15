@@ -77,6 +77,15 @@ related:
         width: 670
         height: 446
         isCached: true
+  - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
+    excerpt: "Powered by AI and edge computing, Netradyne's Driveri® is an advanced vision-based driver recognition and fleet safety solution ... solution to capture the complete driving day with accurate object detection, event causality, and full visibility to ..."
+    publishedDateTime: 2021-07-15T17:48:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/netradyne-raises-150-million-in-series-c-funding-led-by-softbank-vision-fund-2/article_c208b668-4141-5411-8aed-8212f1f3ca56.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 15
 
 secured: "+yI72k+QVPlyRPggjRCGy5GnZC8t6hS3FO+iK+4RXncMrsdgL8wS26gvSO113crwINmfJuhK9Qegi9Kcs6PmnKgm1VLF/+q66vsXbDTmTqoO0JnWxo7mV9WSb2d5pOnJz3KKVjD8THcOMiSaix3wZK47NtjTTYPSiqNqWgzTuIFosKPBJIWoC2HKTM6uIL1GeXidDw/JyF2Ej375a3Azm3SeC8oK9g9N/dp6u2h94h4BJsQRMjAUihL+ab8lNV+L/aZGAffepq9Mh75sSyd4SiMuMODtIa5J8Cy2Dyv48pMoLY1WGfBi2/q1ywZj0DoxKVNSc38wJGXmCP7Nf+dP0VScbxdkOLGxU3yrc0b8M0w=;30jZq5h0iT/h8lx5PrZo/Q=="
 ---

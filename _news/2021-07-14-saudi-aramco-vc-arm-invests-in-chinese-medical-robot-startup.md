@@ -3,11 +3,13 @@ category: news
 title: "Saudi Aramco VC arm invests in Chinese medical robot startup"
 excerpt: "RIYADH: Prosperity7 Ventures, the venture capital arm of Saudi Aramco, has invested in Chinese medical rehabilitation robot firm Fourier Intelligence as part of the startup’s Series C+ funding round."
 publishedDateTime: 2021-07-14T06:47:00Z
-originalUrl: "https://www.zawya.com/mena/en/wealth/story/Saudi_Aramco_VC_arm_invests_in_Chinese_medical_robot_startup-SNG_224670152/"
-webUrl: "https://www.zawya.com/mena/en/wealth/story/Saudi_Aramco_VC_arm_invests_in_Chinese_medical_robot_startup-SNG_224670152/"
+originalUrl: "https://www.zawya.com/saudi-arabia/en/wealth/story/Saudi_Aramco_VC_arm_invests_in_Chinese_medical_robot_startup-SNG_224670152/"
+webUrl: "https://www.zawya.com/saudi-arabia/en/wealth/story/Saudi_Aramco_VC_arm_invests_in_Chinese_medical_robot_startup-SNG_224670152/"
+ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/SNG_224670152/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/SNG_224670152/"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "bL60SFu834fGRgYXfu/PwJCDZ2UKkZqN5EImCiXhK2lNYY03JlW1qqOvZU1NJxuCvoofbdnHs+vZKsW5EBXeXI58fvnwAsfnUtS1j9ReIu7uv8DHRwhMQQl93ZO3JlkPCppCPtc9cMaW4VIiP8Iy0w7SLFK0i9wBuRp8LNRxR9amS3azp2IQ8vJSny7fNzl6buKi4DENfHZz2Y5ubl5qrT13kb/ObaPZ97d1Lke70PQJ2ZFdgKCaBscNYuWxMiv5lG9Gy9J7uWiXrh8xz3M0Tx45rZXjY1O6VKjooIvrgddA87TtFSq/ZpwaW8cRJpyA9ZWMhhfq4SUrzh91hxdzYY2hRvcX/K7nLChU8sub7k7xcuPh4EmSCLHQQVcSO/v6gd8x+0QuGJduyvZcT6Q0V3aHQjDqIeb3eDlzv3z4vkGbHM74DN23Olnyo92YPP4yReSbsFvIU6PG3cJvgD7yW2Ymxo/Aj76Vv0Nou2H/vnlVK0lQFDFJa3RFCNU/qGgMksxohs9DQPonMgD7R6PPYw==;SCu70uHs/yydUc4kd8Taog=="
+images:
+  - url: "https://images.zawya.com/images/cia/zAmp/191013041106SXGO.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "DHOiBxvK9g4PZakoeZkCySFuBTDYHRBtf9vjzTDZlwIAia51EJT4NbYWPdhMCgK+UBrAUUeAaDPqi9mgaseFg42IpraFZAiq88wWcOqGFBOXGzKTxM8KLmjUGwAL1Oh4Oxc291ynUfL1t5jTQIZpFisXeFxhoXVhrkpfo5XWPkZ0s2DT0yX69dciaio6bXC4jhjoi7+r0KIDl5WyXewmRYXo41qYsoZAvhqnv1UV18HaA+G5RUXNZzF1wtRdRLSwwABVd7DMzL+0PdY30zpxKx2dK2o1EDNVFmxWOLQoXHcM2ZIHGADzp5bWUNVUgElK7t0H3otTkSoJ+cnIwNa14iwYQMxhhz6mjYlz6LigiRg=;cp06sAcrVgvuj/bZyGbgRA=="
 ---
 

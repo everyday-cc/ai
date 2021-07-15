@@ -90,21 +90,19 @@ related:
         width: 1200
         height: 793
         isCached: true
-  - title: "Congress Asks Experts for Guidance on Facial Recognition"
-    excerpt: "Law enforcement uses facial recognition systems with little oversight and, at times, disastrous impact. During a congressional hearing this week, members and experts talked through how new laws could head off greater harm."
-    publishedDateTime: 2021-07-14T23:15:00Z
-    webUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true"
+  - title: "These retail giants are monitoring you with facial recognition, say campaigners"
+    excerpt: "Campaigners created a list of retail giants they say are using facial recognition in their stores. The group has called for the practice to be banned."
+    publishedDateTime: 2021-07-15T16:58:00Z
+    webUrl: "https://thenextweb.com/news/retail-stores-monitoring-you-with-facial-recognition"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 61
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 80
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/9451d55/2147483647/strip/true/crop/1095x571+18+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F67%2F8b%2Fbf2467764012829abc8b9b917271%2Frw-better.png"
-        width: 840
-        height: 438
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-1-2.jpg&signature=3261f0546d4c312e6f118f86303e73d5"
+        width: 1280
+        height: 640
         isCached: true
   - title: "A|I: The AI Times – Scrutinizing facial recognition tech"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
@@ -195,6 +193,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Sheila-Jackson-Lee-facial-recognition-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Congress asks experts for guidance on facial recognition"
+    excerpt: "The officers' facial recognition algorithm had mistakenly matched a 6-year-old driver's ID photo of Williams with that of a suspect captured in a surveillance camera picture. Williams recalled his conversation with the detective: \"I held up the paper [with the suspect's image] to my face and said,"
+    publishedDateTime: 2021-07-15T16:50:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21230551/congress-asks-experts-for-guidance-on-facial-recognition"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 41
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Face_Recognition_And_Personal__379967281.60f066cc17c27.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "NAB pilots facial recognition for identity verification"
     excerpt: "NAB has piloted the same facial recognition technology as Westpac to allow consumers to verify their identity via a smartphone. The bank revealed to iTnews that it tested the service supplied by Sydney-headquartered OCR Labs. iTnews revealed in April that ..."

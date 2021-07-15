@@ -34,7 +34,7 @@ related:
     provider:
       name: WLNS.com
       domain: wlns.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.wlns.com/wp-content/uploads/sites/50/2021/06/crops.jpg?w=1280"
         width: 784

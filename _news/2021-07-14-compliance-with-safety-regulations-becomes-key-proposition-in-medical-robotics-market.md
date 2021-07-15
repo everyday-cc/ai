@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/compliance-with-safety-regulations-becomes-k
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Self-driving Delivery Robot' Caught by Regulations... Concerns Falling Behind in Global Competition"
-    excerpt: "Self-driving delivery robots are developing one after another, but there is still a long way to go before full-scale commercialization due to various outdated regulations. Technology development is sl"
-    publishedDateTime: 2021-07-15T08:23:00Z
-    webUrl: "https://english.etnews.com/20210715200001"
-    ampWebUrl: "https://english.etnews.com/amp/20210715200001"
-    cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210715200001"
-    type: article
-    provider:
-      name: Etnews.com
-      domain: etnews.com
-    quality: 46
-    images:
-      - url: "https://img.etnews.com/news/article/2021/07/15/cms_temp_article_15171258715300.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Ai In Medication Management Market"
     excerpt: "The Global Ai In Medication Management Market Report is a study of prevailing drivers, trends, forecast, and restraints in the global landscape. The report is the latest addition to the vast data ..."
     publishedDateTime: 2021-07-12T10:48:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210712/New-approach-that-use
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210712/New-approach-that-uses-machine-learning-could-transform-drug-development.aspx"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: News Medical
@@ -42,6 +42,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-drug.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "AI-Driven Drug Discovery Blueprint Could Deliver Better Drugs for Chronic Diseases, Researchers Claim"
+    excerpt: "A new mathematical approach could transform drug development by searching for disease targets, then predicting if a drug will be successful."
+    publishedDateTime: 2021-07-14T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/ai-driven-drug-discovery-blueprint-could-deliver-better-drugs-for-chronic-diseases-researchers-claim/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 24
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/06/GEN_JULY_2021_Cover.jpg"
+        width: 655
+        height: 790
         isCached: true
 
 secured: "Yt6cK2NoblOFovFchEmPGZTMLEBX4k0LsaSJeu1P6CqL7QmgFMv95E9aXKJMDpzJwAFjXC1rEmf0/C3YHyVUADucHDYnR6YpUSntFxdyvgw2OfbYtUAJet5ugKf9pZjJ13gpzloGkBTfgRjD5ZjLShrDJWFAJGF2TzWWuISKlJyL2l+Qi7o3r7lMULbswx+Sf1XQ8QI3Es3bmIebTp2WDVqaUwxVPEvx0Hr/ODSzLPdWDAgVZFTAHPgZ6eSXMdXoel9dtBjnRqvMfNTJ8Xww5Z1MClM2WYXI79c69NK7Gw0gttBpfvwF5yq21Y0od4UVYTEypK/op8VP1z9z0Oo0XyRGLHD0n+kWdSSrua56uxc=;Qee7raK8k/ecFeGaI8YvyQ=="

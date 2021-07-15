@@ -96,15 +96,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
-    excerpt: "today announced it will make its Intelligent Data Management Cloud (IDMC), the industry's first end-to-end AI-powered data management platform, available on Microsoft Azure Germany in response to ..."
-    publishedDateTime: 2021-07-13T07:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/informatica-expands-cloud-footprint-on-microsoft-azure-germany-1030600116"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
     excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
     publishedDateTime: 2021-07-12T06:22:00Z
@@ -161,6 +152,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
+    excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
+    publishedDateTime: 2021-07-13T07:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "NEC signs new partnership with Microsoft, to migrate IT to Azure"
     excerpt: "NEC said it expanded its decades-long collaboration with Microsoft. Through a new multi-year strategic partnership, the companies will leverage Microsoft Azure, Microsoft 365, NEC's network and IT expertise,"
     publishedDateTime: 2021-07-13T08:29:00Z
