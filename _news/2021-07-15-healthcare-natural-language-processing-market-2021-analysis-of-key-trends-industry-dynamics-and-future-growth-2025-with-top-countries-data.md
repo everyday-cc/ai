@@ -100,6 +100,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market (2021 to 2026) – Industry Trends, Share, Size, Growth, Opportunity and Forecasts"
+    excerpt: "Jul 15, 2021 (Heraldkeepers) -- The scope of the report includes a detailed study of Deep Learning Marketwith the reasons given for variations in the growth of the industry in certain regions. Deep Learning is a subfield of machine learning concerned with ..."
+    publishedDateTime: 2021-07-15T20:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2021-to-2026-industry-trends-share-size-growth-opportunity-and-forecasts-2021-07-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Software Market Size 2021-2027 | Brief Analysis by Type, Top Manufacturers, Trends and Future Prospects"
     excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Deep Learning Software Market” report"
     publishedDateTime: 2021-07-13T06:21:00Z

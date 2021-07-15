@@ -56,6 +56,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Google CEO: AI is more influential than discovery of fire"
+    excerpt: "Google is already using AI to drive innovations in healthcare. Mr. Pichai said AI will continue to play a fundamental role in every aspect of humans' lives, such as healthcare. \"I view it as a very profound enabling technology,"
+    publishedDateTime: 2021-07-15T20:28:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/google-ceo-ai-is-more-influential-than-discovery-of-fire.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "BdvIVHQgB+1PXqtIo7yDoVlzIxz21OOi4yi1YcB/UHJuhEZmg/Psp6eHon2rhNXDvq11eJWtu7VWfGzdbJV7h6nBH8iK672U7rbsIHLgSTeq3dcKpMUEafJSGlB+h/wj9l2rHYzMFDf2DrEvGDTKFMjY6K1M+NwWslPWWmuQK84bj+1pQdmxICSSJ1LkDDDpOv6rN7mY/4amOnQq4WtjAH+wdWnmV5LE9s8Ua2RrvLA7l4TplaW7yB5DEEKZqleanI+etTNWb2JX5rA09iDg0zRY/cqaYI0KMpI4Pf3lfwGIswuRD1OkBqJVmPvJ8U3zSDaJTT54om25o0xyqK7DgRzOkL2/tiddq/9UnUX5UsU=;/I6B8g9GHpuvDWEmWxxstw=="
 ---

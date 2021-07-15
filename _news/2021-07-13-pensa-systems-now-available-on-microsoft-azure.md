@@ -123,6 +123,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Facebook’s AI researchers are teaching robots to walk like humans"
+    excerpt: "Researchers at University of California, Berkeley and Carnegie Mellon University’s School of Computer Science, along with social media giant Facebook’s AI research team, have developed a new way for robots to walk better."
+    publishedDateTime: 2021-07-11T14:16:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/07/12/facebooks-ai-researchers-are-teaching-robots-to-walk-like-humans"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/07/11/1216783.jpeg"
+        width: 1240
+        height: 587
+        isCached: true
   - title: "Facebook – Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing"
     excerpt: "Facebook - Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing -"
     publishedDateTime: 2021-07-11T12:30:00Z

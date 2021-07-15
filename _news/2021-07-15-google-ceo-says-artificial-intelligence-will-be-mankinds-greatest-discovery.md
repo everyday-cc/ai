@@ -46,6 +46,20 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Google CEO: AI is more influential than discovery of fire"
+    excerpt: "Google is already using AI to drive innovations in healthcare. Mr. Pichai said AI will continue to play a fundamental role in every aspect of humans' lives, such as healthcare. \"I view it as a very profound enabling technology,"
+    publishedDateTime: 2021-07-15T20:28:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/google-ceo-ai-is-more-influential-than-discovery-of-fire.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "AI will have a bigger impact than fire, says Google boss Sundar Pichai"
     excerpt: "Artificial intelligence will have a more profound impact on humanity than fire, electricity and the internet, the head of Google has declared.Sundar Pichai, chief executive of the tech company"
     publishedDateTime: 2021-07-12T23:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analy
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/07/ddd-e1626271091314.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trilogy of Data, analytics, AI is accelerating innovation across industries"
+    excerpt: "Oxford's Tom Davenport and C3 AI CEO Tom Siebel chats with ThoughtSpot's Cindi Howson on how data, analytics, and AI transformed industries."
+    publishedDateTime: 2021-07-15T20:50:00Z
+    webUrl: "https://venturebeat.com/2021/07/15/trilogy-of-data-analytics-ai-is-accelerating-innovation-across-industries/"
+    ampWebUrl: "https://venturebeat.com/2021/07/15/trilogy-of-data-analytics-ai-is-accelerating-innovation-across-industries/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/trilogy-of-data-analytics-ai-is-accelerating-innovation-across-industries/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/C3AI.png?w=1200&strip=all"
+        width: 1200
+        height: 601
         isCached: true
   - title: "Driving customer loyalty with analytics and AI"
     excerpt: "Winning and retaining customers has always been challenging for retailers. However, it has become increasingly difficult over the past few years with the explosion of online retail and multiple new brands entering the market,"

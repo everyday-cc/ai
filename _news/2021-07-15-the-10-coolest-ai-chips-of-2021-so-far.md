@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-cool
 webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chips-of-2021-so-far-"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1500
     height: 1124
     isCached: true
+
+related:
+  - title: "The 10 Coolest Machine Learning Tools Of 2021 (So Far)"
+    excerpt: "Developing and deploying machine learning models can be a complex chore. Here are 10 cool machine learning software tools that have caught our attention this year."
+    publishedDateTime: 2021-07-15T20:13:00Z
+    webUrl: "https://www.crn.com/slide-shows/applications-os/the-10-coolest-machine-learning-tools-of-2021-so-far-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0268-1224204df6fc-ce2ca93620d4-1000/ai-artificial-intelligence-mind.jpg"
+        width: 1500
+        height: 1126
+        isCached: true
 
 secured: "I13rpithKv9a+o+fQ5ouaCuwmwBKuvzwCjqUCLs3gO6IJrCiPrgIWbfwW4+OIDHwX7p4ruZpGvEIWmclFnxtc2Peiz1xOboaaw1ma6Gjstjdzr3bvkHh1bpLGNmZMEFYxEFHijoypruDQMo/RevjDtzWZeVXAEBIGi5iAh4p/32t+kvSYkqREZcMsXGuDdtCYu7JPgF6m2ZiCoODWDvbaTnvbBjzjNfDMAg/yMc5P/IOkJ8w4OXwJsoEieGSFn3Vn38eT3DZK5zaLWQpSuqWCs5zp8QX6PkQdH0l9zNl1iyLgZ7XDqbG9iHbHyNBD+D4njtya0ijh0eTSKlJnj1nAyNYv2EhqeZrH0iZCf6jmH2U6iNuAffFiLcOi/N1Th2eyPiA8jTue9PGkILDTPUqMuMmI7vQsu+Bxy8qldPm/NizR2Gm0z/uVYZdf4wPmD8D7DjFmekSNe++67Rxx3gvMagOE8fG8f2DjDefvu71FBONiYSFLhRA2AuVyo2rJAFoG8p6jbgHLw64ENYKt3Gweg==;q94T1C5/VPwudgGmqNei2w=="
 ---

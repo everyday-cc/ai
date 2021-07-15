@@ -27,19 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "German, Canadian researchers collaborating on AI for picking robots"
-    excerpt: "Festo announced that its partnering with researchers at the Karlsruhe Institute of Technology (KIT) and the University of Waterloo to make picking robots smarter using a distributed AI method called federated learning."
-    publishedDateTime: 2021-07-13T00:14:00Z
-    webUrl: "https://www.design-engineering.com/german-canadian-researchers-collaborating-on-ai-for-picking-robots-1004037129/"
+  - title: "Researchers develop deep-learning method for translating vocal signals from the brain to text"
+    excerpt: "Researchers at the University of Califonia San Francisco developed a way to allow people with speech loss to communicate with their brains. The technology uses neural"
+    publishedDateTime: 2021-07-15T20:19:00Z
+    webUrl: "https://www.techspot.com/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html"
     type: article
     provider:
-      name: design-engineering.com
-      domain: design-engineering.com
-    quality: 54
+      name: TechSpot
+      domain: techspot.com
+    quality: 78
     images:
-      - url: "https://www.design-engineering.com/wp-content/uploads/2021/07/21-july-Festo-FLAIROP-650.png"
-        width: 650
-        height: 285
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2019/02/2019-02-19-ts3_thumbs-9e6.jpg"
+        width: 800
+        height: 560
+        isCached: true
+  - title: "Implant Directly Translates Paralyzed Man's Brain Signals Into Speech"
+    excerpt: "Researchers at UC San Francisco have successfully developed a \"speech neuroprosthesis\" that has enabled a man with severe paralysis to communicate in sentences, translating signals from his brain to the vocal tract directly into words that appear as text on a screen."
+    publishedDateTime: 2021-07-15T09:46:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/implant-directly-translates-paralyzed-mans-brain-signals-into-speech-350896"
+    ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/implant-directly-translates-paralyzed-mans-brain-signals-into-speech-350896"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/implant-directly-translates-paralyzed-mans-brain-signals-into-speech-350896"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 74
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
+        width: 389
+        height: 389
+        isCached: true
+  - title: "Researchers use machine learning to translate brain signals from a paralyzed patient into text"
+    excerpt: "In a study published Wednesday in the New England Journal of Medicine, researchers at the University of California, San Francisco, describe an approach that combines a brain-computer interface and machine learning models that allowed them to generate text ..."
+    publishedDateTime: 2021-07-14T21:07:00Z
+    webUrl: "https://www.statnews.com/2021/07/14/machine-learning-translate-brain-signals-text/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 59
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2021/07/UCSF_ChangLab_239-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "OF7M8kGbwZtRlSAH6TwmpjtoOh5AdjKfZ2Zk+igv6C6EfJ/3bXGBsXLZMMQcsf1Uu1oeBq/eSrIIqpsIkAQopY+0GAZgesifT5HIc42hrFVjvHG+y+fkP/LiCxN/Y+uDxNFcw0QxHTM64p397o3HR5M6WXQsF7LF78sLagqy8i6qZ5jyQmB1wVnf/fnUTJeyUX8KFpmhRnyJNXO0x2iT/CJv4ku004DZHMVWqaaK46trZ3WwFse+OLFl+zsVSQAg5yRwn92DQqRblA8xvQMPfYVbDRk+p8Iuw/07q0TV6Tj5qGqYT+w2mAnDxliA/MMQGFt7SRvdzkfy8GvZeD6SXd7VYhKqspOR490sKAd1aZfAPVw58nIMhi+YT1ZUHvFycZFufefq14nJBe1mtv54pW4VmCZ/BhK5Mbl8EwnW+3d1YzVqYMsmgyslBBRZFPXXdUhq6b8h55Qr57h3T3BztSdG6+lpps86phxvw6J7hbmuMcRtA2E4a4Zs6koSsyU8JU4CSdvDTBMWPlpMw3zQiA==;qUn7PUImWCqb9se5ZSJ3eQ=="

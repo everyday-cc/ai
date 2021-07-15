@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trilogy of Data, analytics, AI is accelerating innovation across industries"
+    excerpt: "Oxford's Tom Davenport and C3 AI CEO Tom Siebel chats with ThoughtSpot's Cindi Howson on how data, analytics, and AI transformed industries."
+    publishedDateTime: 2021-07-15T20:50:00Z
+    webUrl: "https://venturebeat.com/2021/07/15/trilogy-of-data-analytics-ai-is-accelerating-innovation-across-industries/"
+    ampWebUrl: "https://venturebeat.com/2021/07/15/trilogy-of-data-analytics-ai-is-accelerating-innovation-across-industries/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/trilogy-of-data-analytics-ai-is-accelerating-innovation-across-industries/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/C3AI.png?w=1200&strip=all"
+        width: 1200
+        height: 601
+        isCached: true
   - title: "Deep Learning, Predictive Analytics Helps Identify Chronic Diseases"
     excerpt: "Through deep learning and predictive analytics, researchers have developed an artificial intelligence program that can determine the likelihood of someone developing a chronic disease due to aging."
     publishedDateTime: 2021-07-14T17:00:00Z

@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Self-Driving Startup Aurora to Go Public Through SPAC"
+    excerpt: "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc."
+    publishedDateTime: 2021-07-15T21:53:00Z
+    webUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629?mod=hp_lista_pos4"
+    ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-370052/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Self-Driving Startup Aurora in Agreement With Reinvent SPAC"
     excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y, a blank-check firm led by executives including LinkedIn co-founder Reid Hoffman and Zynga Inc."
     publishedDateTime: 2021-07-14T23:31:00Z
@@ -148,6 +164,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Yc+xhsn25EPZWOYF2lgoYZqdsGf7NyjyI0UgBmS5dlhr0LzGg7B80jUR9nFFbN4wxqe3aWZH8rEuY6oGI5kfAk+nUOZrHajYxs7qbZ5diJyATj4P4ayXRc8MVDedMLDVofKDahw02TXH1ZX1nrAnWoncmCIITVUaC20a2OKrxBagVypfmST6qlMIU6HfknFjOysgWBvu1Eqfe9FAeDCaCu9zy+296SJuhnr7o7NHvcc6t+0GAVTmlxvA0cO29mAh+/xepSADUaYx96WNUxJO99OKYpbm9w9ddh2U6k73xU+6N76xiJQUu33I9dVMsS/lIy/aZ2U7//UhYan05JWiXD4XfxpXRXQO2AHfp0HPWq4=;fKCCxZol2FYm1HR57uqysw=="
+secured: "MQWy2HZukP+HvROPNoc0BYaYDOwomxNEgGp+xeclbs2U+g6rnVHlQaOMB39FsJHPh3jDDXU1gNy5jHJwvwzRefsPL9eyQFcQnFdE9axWvzdOL12roRcOD55LiwI/hldOqXoBlqC0Z1Lgvg2N/Fw7tJ1MjbqLdpb7yh/cr2VtVllnKR4rZquDDLliqReIUJabWEKUAeZE+TzH3Iazy48P5I7khiMAdQlB5zg7Eh3pRzaPr/Kwofk4SokYem8XNld/OAtlVUqwro5iPfsXTPu4U/sqrqf5eCVVLM3FU0UL9/dh07aHVh0Gf7ILbpjXSaIzNNG7ZwZRGUt3c29l0DgYKReXi4uWolWqdrF4Wz3bbynUSwOOuXMsn4QN4UWLfmfFq6BIstfoR35IRUGZUN6pFjf2evqeSMkmGGnUYRATjgcW9E9puPgRzC55Y/HwFiBSgLjZumRJjzZmc1mzoO8j/I9F2pi4Y5uAJYHguSwTn/lUjeddlQeSWwIvGo7++WooJNe2I4df+NdLQ3BY5zBtDw==;Fxl/m9a/0u8q7TDdX0snEQ=="
 ---
 

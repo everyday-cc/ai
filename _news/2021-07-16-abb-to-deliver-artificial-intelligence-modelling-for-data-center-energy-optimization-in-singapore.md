@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-15T18:01:00Z
 originalUrl: "https://www.newswiretoday.com/news/175815/"
 webUrl: "https://www.newswiretoday.com/news/175815/"
 type: article
-quality: 4
+quality: 6
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "Singapore is launching a $50 million program to advance research on AI and cybersecurity"

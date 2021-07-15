@@ -87,8 +87,8 @@ related:
     provider:
       name: Newswire Today
       domain: newswiretoday.com
-    quality: 4
+    quality: 6
 
-secured: "ebeefMIVN68mEqSIpU3v9fgEziJHFDeaCuNfrYJmizzGQPH/Us/b61u2AIqpbZOB58W5RPGo4pXWTclL0al5UTd3ZZnQKrmv8tAqL3B/+HlMGqvuNOptpRYzXuoP7wGJE6qCPhHJvHnBVKyNWJrVtFlI4Pl+OA3p/rlfFDT3EJg7+6d3cYe9suJPeGXWjmi8LZcKBjmj0mvdHa760V8b24mvQbvTRk4+Xfse1dhayDfdzGybLLuNqTZ3bA+gEBqEBJEUCAd76btKS3GWLRh/XhUgpRWKH0q/TPrEbRlxazLK+MEfwEWehU7r9sCsCRqpKhq9ElksyJo9+gd5FAa5d6zHsp6+BIBl3COwvhSefok=;eIn0HMNjLOQAd4MTLMb43Q=="
+secured: "qVLcOdym8oXnoiQRAPIGNaodGjKwN0Z3s64nD4dwgeLeh4bqzqRg3FgJiQv5vTiLfimBt6uGxW6LRGSepVpwpFL/t1yJ4KLCxg67pYcIkwIbOzGAdpJnbt89quPSKVIuLsmJZQzESzlYQq/wjqBr3eZdq0lCBol2wMDqK4/ZRoFSf3yx/tUrwzdLo44WT+5kGOlgQAO6yEqFuY88UCrDG97x4FtAYJ3stq5Ju35uQpHYRYHoj9CILUqhGFDASn0WJicWPYwap7rGwI6R/C9IYdglrKySvDsoeRmlkxWTBGeEstF9lHbBvfmwuxr1U5I31mw9woDty0Pm/Vd0cFMnu6JAw1m12k7nPB+xD1UE8LhQ24Xn5At1OOMqBN8YxzByN0ejYDkCVmz2UDkTf/y8m3QiACO3EOAZ6CtPxlhIjL6KAk1c0uz84A0FdET7UAk+hwyotCvou8a1sycyk+ORiSiiWuV1iRssmyiooG+LISOMYdrF1CANkMdzfU1muMZgeHr6vDokSlBIL7ublJojmw==;YhDmLQPsz1eAzahm7jUCUQ=="
 ---
 

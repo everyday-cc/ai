@@ -91,7 +91,7 @@ related:
     provider:
       name: Newswire Today
       domain: newswiretoday.com
-    quality: 4
+    quality: 6
 
 secured: "3hr6K0YM1LroYjw7VdIPTCK/rBlIlDtz96oz7jqdg6kWSEM1I9sG/PYa1Pee5jbVT5kX3dLs+Dsnlmj841OL2rvSwi2WnHDCalIP1+eQ0kP3HvmylwX0BM5Iwa9o3UbeivaUrKRGqFu0D3lBa99qoLyhJMxfCjY4Ydpf9XrqE7tG06wJIpw8wEstqSmAR6R/buS4co15pRUTYADgG1ggf6/6jFl5st1sZwSuf5Dhe6pjPg1FRn0ETH72dlkSXq+PF90a6+9eQEV8gMSeNbKHbLKum7EEKWv80AV/GVSq/QI1XWBYQrD6XxO+h7ahCGyUPqsYdWDo6h76Govq5iTn/rbB5HkBVhmmZt2OTdS/xQg=;/SOpi5M3iYyt80A/sOY5KA=="
 ---

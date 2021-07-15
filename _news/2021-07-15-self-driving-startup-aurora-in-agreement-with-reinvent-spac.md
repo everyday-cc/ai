@@ -61,6 +61,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Self-Driving Startup Aurora to Go Public Through SPAC"
+    excerpt: "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc."
+    publishedDateTime: 2021-07-15T21:53:00Z
+    webUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629?mod=hp_lista_pos4"
+    ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-370052/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Self-driving tech co. Aurora valued at $11 bln in merger deal with SPAC"
     excerpt: "A benchmark-beating robot thinks AMC will outperform Facebook and GameStop. It likes these other stocks, too. Barron's: 24 Stocks That Could Drop After Earnings This one signal says a stock market correction may be on the way ‘I worry about inflation,’ says BlackRock’s Larry Fink — warns it’s unlikely ‘to be transitory’ Go to the homepage"
     publishedDateTime: 2021-07-15T13:41:00Z
