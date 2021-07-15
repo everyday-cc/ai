@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Pinpoint"
 
-secured: "vuJZaH5025rivLvrhWm0zwzWnTw30V+v3Yva6D4q+rWo/5N2rzOzjbfDf2E0dryzweVAyNakd1uX8FBSx9/z38UcdRHh0CYcM8wsSYuZlJ/1zToNIGtX/wVGn1REHxkMvmo+D4x6DtC69FCq44rz1Wz8Z3G/AVfriul7/3wBNeoOgyqc/3Z/7K3S2B3ev8bxHf1oHNOD9Z2+5qjZ73qaOWiEvd7VdbCLjfGesvEBq23QuCEZlcI+ywEWUpu41PS4S68b3ze5IGE1bkvCuInTkv/JHljxqKZ67R0QRsQE12l6fHBttu6eFA2wFH0yIaXzYdoQ5x6nxXrN5AKz+/CTcJ9CBg893EmAbn8tTU28W4IL6L3+V8qnJ/TPC3wcdPfBRW4k1ple++iOG1UfhP7mpA==;8ZCFTnTnBfSZnmQtah7ucg=="
+secured: "GcoLFmwjpu65phazvhoSG6x4BGIGdp8GlDuc+l8J3I69wBALgkvKPGzpLiVX9lGVrNk68kYtPK4yN3LQfk2sG05PsNKhEsijGMIzTYYRKqKa3PG7rpmdNJJiRlNrFB4r7r1IkAlSc7uPKGgs7vSGwg0hmguzqdzvg5dLDTiTX/ziVb9XxF4tFkf6VM/2oD/84PNomyV+kEkyUab2fkZWmGf1p94MjHyXxbWrUVaf97p2QxABRZymuLlfwen8+woPX1g4oXLr+z1MqVIjJyNmb/+hA+B/JBAG7GgwsZmSo5eoN98Og80I63TAbwljE8/Io9iDxz+4uo6G+6n6ynYbqU4DUkUMz/g5s23jz2/9wrAHzdhuzSc+h4bhMp2WLb+tvILgXVZ+lrnpegmR7Hsf2Q==;X7Ln7pXukybNtxsgjiV4+g=="
 ---
 

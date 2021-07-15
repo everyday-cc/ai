@@ -2,7 +2,7 @@
 name: "Verbit"
 overview: "We're using smart AI technology to disrupt transcription and captioning with automation and speed."
 type: "profile"
-heat: 58
+heat: 71
 
 website: https://verbit.ai/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=C8AG8eTC8D0"
 
-secured: "Flv/+8KQo3wKSHUiQxLMYwwOR4dI0ImeMKvaAb3Emu0qEGJ09Mi6aVl4d+ZET+7sXjQZT9nsJ+2CocV+MYQQJIH/ggyK2TzXKjvBfx4LiBt5ixEFTG/JZGohPMGeyvRv+8KHXu1QcSL32J0776eArm5DDJzhRB1DyNSb4M16xxa3/112Dyip0d4hRxy6QoaFJRH6Q9fhppcxiLDSjmw5hnglUTzhiS7iTXf0CW3wyIrcQ/XpSHyoq/nyX7vZ/bitGXBx3ZqtwssQPEtfzZ8h7jiLEIt1mDxj1hSh8mnuQ19WMjjVdDFBetRDlqHspSLgtswpM/LHZxeniyz6tvzQtz3j558A9mzjk5Wk50/asVbz1viD5lcYL9Ybd7a0GRX1XGvcSgERfd4rWsoXKZ9af8iHjAmyjfHd43KctUAUD3k=;EJzU7rOfEdPglOgG92K8UA=="
+secured: "jKNvWgN2PVAzQHR6YTH6w1jzEtqIeoTAWhn55dISlzpX/dcdlHmkWd8DUTd+2XNnUN27C31GGBSumJaCqYtRmA+pUs/38mzVhUHdW4NO5oucWNXuLTxWrjH3Yjsrsfcf9cni7RE0eStwEwVTDzpabJ+T0nHp2XJ+g3PSU8r4DY8agnVSlLU9fsFySbQByI1tL/IjdjY1NK2srx4fjF5iNpEcu3QLCfNbmHO5DxMYjyD0fUWDi6XINQLC1xb3CpG76EmtrjzScDpTkpJt6GM74L/rD1J3nVaOSdUvj7ai7RxPgYj96+tNfictOr2gTzZOuNOzXxlFM52yfFoKq0/bIZoNyvTdgJEDPcUYQgx8T8UgpjAIXtVpeeK4wHqLE9xI/kquB13yM9/dkieX0a5YVq1PrvR6qhqMDOZr+j0XNzU=;oS4jTZODCRjSvjoTKpcdQw=="
 ---
 
