@@ -38,6 +38,20 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "Artificial Intelligence in Automotive Market Research With NVIDIA Corporation, Ford Motor Company, Tesla, Inc"
+    excerpt: "Artificial Intelligence in Automotive Market is growing at a 38.45% of CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
+    publishedDateTime: 2021-07-14T17:06:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-automotive-market-research-with-nvidia-corporation-ford-motor-company-tesla-inc/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 37
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Artificial-Intelligence-in-Automotive-e1626282396822.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "PnGmHe27pPOos03y/Zsj3ZJz5cql278WaYiy6Ox42WtEJvcciz+xgpfUDQWgaXdbKcxpCPgvwIrmP+5Mok2VHFEXumx7AJH/bxIWoPxSxyoqZL2xD8qiWVmlByksmHWvgfitVGwRmOlizv+X1h21BzxOp9jT0yTiqKvYhoBeXmfCVncTR77yEHu3gbLZHEgWNiNglgLwZ2l9pEbelnOyJtsdNlPu2tF7zPKWkrCGr9Lc5vecBYwArRZ3vOYTmUHp9V1Ieq1gCvhM/RrxB69z22YoMhA7rOkkGneevHJeyUfdHFsOlATWHwIhgLkZNLd1FPCYGNMdvtruacRfT+Y/FjOL2KZS+t+7off+ACPoKSU=;Dui4yWUSp4Z6VxB0BkTkGA=="
 ---

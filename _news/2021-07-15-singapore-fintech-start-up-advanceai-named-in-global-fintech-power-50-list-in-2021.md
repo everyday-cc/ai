@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-15T02:09:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/singapore-fintech-start-up-advance-ai-named-in-global-fintech-power-50-list-in-2021-1030608664"
 webUrl: "https://markets.businessinsider.com/news/stocks/singapore-fintech-start-up-advance-ai-named-in-global-fintech-power-50-list-in-2021-1030608664"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 related:
   - title: "Singapore is launching a $50 million program to advance research on AI and cybersecurity"

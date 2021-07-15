@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/specials/tmu-moradabad
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/specials/tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research-121071400946_1.html"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Business Standard
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Automotive Market Research With NVIDIA Corporation, Ford Motor Company, Tesla, Inc"
+    excerpt: "Artificial Intelligence in Automotive Market is growing at a 38.45% of CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
+    publishedDateTime: 2021-07-14T17:06:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-automotive-market-research-with-nvidia-corporation-ford-motor-company-tesla-inc/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 37
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Artificial-Intelligence-in-Automotive-e1626282396822.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "ST Telemedia Global Data Centres collaborates with ABB for artificial intelligence energy optimisation pilot"
     excerpt: "ST Telemedia Global Data Centres (STT GDC), one of the fastest growing global data centre operators headquartered in Singapore, announced today that it is collaborating with ABB, a technology leader driving digital transformation across industries,"
     publishedDateTime: 2021-07-15T01:14:00Z

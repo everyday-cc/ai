@@ -65,7 +65,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 41
+    quality: 43
   - title: "Artificial Intelligence (AI) in Cybersecurity Market Worth Observing Massive Growth: Acalvio Technologies Inc., Check Point Software Technologies Ltd"
     excerpt: "The recent report titled Global Artificial Intelligence AI in Cybersecurity Market and forecast to 2028 published by QY Reports is a focused study encompassing the market segmentation primarily based on type and application The report investigates the key drivers leading"
     publishedDateTime: 2021-07-14T04:00:00Z

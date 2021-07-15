@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Market Trends and Forecast 2028"
+    excerpt: "The Global Machine Learning Market is estimated to value over USD 16.3 billion by 2028 finish at a CAGR of over 44.1% throughout the forecast from 2021 to 2028. The report on Machine Learning provides the purchasers with a comprehensive analysis of crucial driving factors,"
+    publishedDateTime: 2021-07-13T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-trends-and-forecast-2028-2021-07-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence Market Trends and Forecast 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 14, 2021 (Market Insight Reports) -- The Global Automotive Artificial Intelligence Market is estimated to value over USD 13.9 billion by 2028 finish at a CAGR of over 38 ..."
     publishedDateTime: 2021-07-14T14:38:00Z
@@ -38,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Automotive Market Shaping From Growth To Value"
-    excerpt: "Latest survey on COVID-19 Outbreak-Global Artificial Intelligence in Automotive Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of COVID-19 Outbreak- Artificial Intelligence in Automotive."
-    publishedDateTime: 2021-07-13T00:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-shaping-from-growth-to-value-2021-07-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,75 +71,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "QpiAI launches a global AI and quantum marketplace"
-    excerpt: "With the Marketplace, highly skilled students and professionals will be able to participate and benefit in the commercialization of AI and Quantum solutions."
-    publishedDateTime: 2021-07-14T12:26:00Z
-    webUrl: "https://www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314.html"
-    ampWebUrl: "https://www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314-amp.html"
+  - title: "Deep Learning Software Market Size 2021-2027 | Brief Analysis by Type, Top Manufacturers, Trends and Future Prospects"
+    excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Deep Learning Software Market” report"
+    publishedDateTime: 2021-07-13T06:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-2021-2027-brief-analysis-by-type-top-manufacturers-trends-and-future-prospects-2021-07-13"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
-      - url: "https://images.hindustantimes.com/img/2021/07/14/1600x900/8-2_1626265340161_1626265367688.jpg"
-        width: 1600
-        height: 899
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "QpiAI launches a global AI and quantum marketplace"
-    excerpt: "With the Marketplace, highly skilled students and professionals will be able to participate and benefit in the commercialization of AI and Quantum solutions."
-    publishedDateTime: 2021-07-14T23:01:00Z
-    webUrl: "https://www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-11626258600264.html"
-    ampWebUrl: "https://www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace/amp-11626258600264.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace/amp-11626258600264.html"
+  - title: "Artificial Intelligence Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-07-15T03:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-14"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
-      - url: "https://images.livemint.com/img/2021/07/14/600x338/8-2_1626261901600_1626261907885.jpg"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "5 Trends to Watch in Embedded Vision and Edge AI"
-    excerpt: "Presented as a virtual event in May, the Embedded Vision Summit examined the latest developments in practical computer vision and AI edge processing. In my role as the summit’s general chair, I reviewed more than 300 great session proposals for the conference."
-    publishedDateTime: 2021-07-12T01:39:00Z
-    webUrl: "https://www.eetindia.co.in/5-trends-to-watch-in-embedded-vision-and-edge-ai/"
-    type: article
-    provider:
-      name: eetindia.co.in
-      domain: eetindia.co.in
-    quality: 39
-    images:
-      - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/07/FiveTrends_main_EETimesEurope.jpg"
-        width: 600
-        height: 498
-        isCached: true
-  - title: "Artificial Intelligence in Automotive Market Research With NVIDIA Corporation, Ford Motor Company, Tesla, Inc"
-    excerpt: "Artificial Intelligence in Automotive Market is growing at a 38.45% of CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
-    publishedDateTime: 2021-07-14T17:06:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-automotive-market-research-with-nvidia-corporation-ford-motor-company-tesla-inc/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 37
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Artificial-Intelligence-in-Automotive-e1626282396822.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Ai In Medication Management Market"
-    excerpt: "The Global Ai In Medication Management Market Report is a study of prevailing drivers, trends, forecast, and restraints in the global landscape. The report is the latest addition to the vast data ..."
-    publishedDateTime: 2021-07-12T10:48:00Z
-    webUrl: "https://www.openpr.com/news/2326242/ai-in-medication-management-market-latest-industry-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
   - title: "Deep Neural Networks Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
     excerpt: "The report talks about the production capacity, demand and supply trends, market dynamics, and impact of these and other key factors on the global Deep Neural Networks market. It also offers an extensive analysis of the competitive landscape along with an industry-wide analysis of the market share of each player along with their business profiles."
     publishedDateTime: 2021-07-12T17:13:00Z

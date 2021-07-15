@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bidu-stock-baidu-i
 webUrl: "https://markets.businessinsider.com/news/stocks/bidu-stock-baidu-is-a-bargain-now-but-not-for-long-1030602907"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Insider
@@ -27,6 +27,17 @@ images:
     width: 1940
     height: 891
     isCached: true
+
+related:
+  - title: "Baidu Shares Are a Bargain Now, But Not for Long"
+    excerpt: "They even have their hand in self-driving technologies. Clearly the company is firing ... There could be light at the end of the tunnel because of technical reasons. Baidu is falling into a potential support zone dating back to 2011. The turnaround will ..."
+    publishedDateTime: 2021-07-13T13:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-shares-are-a-bargain-now-but-not-for-long-2021-07-13"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "nxq4BB9Ld9ZIKFlygV55Z1gxtgP+lc0rqxa5Vr0CJoaadSAR31WycHRAr1RUEHVK/W/AocU8PFejsYslwxlzJm7AqR7lCnNqQwaw1k6wLcA29l+DGZfFrV/WWQvt4W5E43oL8TKj+p45p6hquEUhqhWtMFW5iBHrFc5+TP8Mugb0/hd+OYRCiRgQR3k0ITbl3g+mlf8Hog6/bgff4BT7FRIUGFjkBvwv2Obub+/BQkahifKH7LwKhShvRuCLc8uv578vjd+yy3pBASg8YXP9qSRm/CWNc1hUlMKKBoG2h9WXsaHB0ojRGFSg6l9NH/Vif9xQgKjFw48L64smcePVzxh9LS2xNhVcE1IDI+R81yRcoVqoE2AXInpDLjDh2Hlky/B+yyUstJeJWumFYt6jqt7j85Ik7qOjvMsIOScNWQlksAD6H5Ycsb5OR++YvovYF0o6DVBdmm9Ozv8HULF8Je1V9gKnxcITDvSzMxnY7P7VWUlfjlJYsEnOt4O1lgLJTdBSBWrEeXG0EXgRQezqkg==;WLfbXLafa3i8dYP7AgpK8w=="
 ---

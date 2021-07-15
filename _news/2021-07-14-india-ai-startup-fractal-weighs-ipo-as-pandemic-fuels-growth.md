@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-07-14/india-ai-startu
 webUrl: "https://www.bloomberg.com/news/articles/2021-07-14/india-ai-startup-fractal-weighs-ipo-as-pandemic-fuels-growth"
 type: article
 quality: 67
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/11/full/1626023772-9613.jpg&width=1200"
         width: 1200
         height: 900
+        isCached: true
+  - title: "AI Startup Fractal considers IPO as Pandemic Fuels Growth"
+    excerpt: "AI Startup Fractal considers IPO as Pandemic Fuels Growth - Fractal Analytics Inc., a provider of artificial intelligence and analytics solutions to global"
+    publishedDateTime: 2021-07-15T04:49:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/ai-startup-fractal-considers-ipo-as-pandemic-fuels-growth-nid-216522-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 37
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/Afn8ZdNY.jpg"
+        width: 570
+        height: 367
         isCached: true
 
 secured: "BhDqSsjuEOIu8NeIQH0aMglC5yLq48dO7ugVaigkIVXAFGAoijn+xLmTfjvcqRAmhWfSnqMO88M+3OQXmYn7JN9IJMSE/xtdd6nyKwL1t/nD6ASnyJr3jwOhtg1D5avJ3binPZLsmr0uSLk1f0ic28SYYlbsljfFxv8AItskXv63F/GcMTM+j6Nf96qmoSp6bgi+Kg2ZVJA7t6/1Ml7BQevmL7NBsNIV4LEHvPgbiWku99+k55e/P151MDk/FscpKsYlXSlhiHH4B8f1WzY69eprhcwradTwHXXZoh6P5q6KymDpyZmQOJTsvLba8p1HXw+6LUKK3ndCShY+jaInCn8z8eAAAbEAgb1egcVloCAptw96khWvNe49Rx7NAf6QdSbRDU5D0vmUe0lHlvEftP/Dda7sVrZ/ZENUenvrT+jzswd4NWkuelfzQYhr2b4y0vZhQBal9LSia7OUKfhZsSWs7nyZ947xMW41MMrM5qawfmgdHQX9fGeiXsSOf9lVP4mzvWKBCcjBKiRFbEbIig==;45LXfbEqQvPUrhJaeW03Pw=="

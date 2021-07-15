@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ai In Medication Management Market"
+    excerpt: "The Global Ai In Medication Management Market Report is a study of prevailing drivers, trends, forecast, and restraints in the global landscape. The report is the latest addition to the vast data ..."
+    publishedDateTime: 2021-07-12T10:48:00Z
+    webUrl: "https://www.openpr.com/news/2326242/ai-in-medication-management-market-latest-industry-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "rdY2LQZhouL22tk/+WhM10FbV1BrJlX+y/zQmpDCFdbSrLxcJ2JQ5SMCDtdBXiuIs8OmOrTyxjrtN+8kouFMCiv9nzgwXKgbvn/S+/A/MXl4HjHRvrVWCkuJqMvwUtI0T8+2A+ohrbNHITbfOIPa9tjYD8V7qBZXspj9ojfmLNgT7JvbcOXW5/rGsy7NUcxUrvxdfItgSy2YiEOOMwF7+isPHAwuy44//XCBdB6QPPj7uveHrWV2SheSrZ9xMAn7zuvMQkw9toa9I79GUKQMMLay6YQ9yVsbQoOGLbwbvq2Rc0UNaCQMbyzkGWuyKo9oXzvw2mb30a0z2wypXvvZGVFD7zc99xiAHR0pYTpdMK5jomfMvsaoR4Ty3mRrfqB61UgzwE3S+NpxxPndwzgp0c8QOVS3UDQ8hIvIo1k+TiJwLcsuvihe7HaO7u3dxCkBE0Nixs5FbA943GiRn80wWNjzk/P+bJ9laDSyH6ev5un4/RSZLFTEC6kHddwwzW9iFA5+SnuZbUlFEOr0JUWgfw==;odJGg5vAdPeG5GW3dKJJAQ=="
 ---

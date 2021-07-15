@@ -98,7 +98,21 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Toyota's self-driving car unit buys US map startup Carmera"
+    excerpt: "Toyota Motor's research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker's latest investment in autonomous technology."
+    publishedDateTime: 2021-07-15T04:26:00Z
+    webUrl: "https://asia.nikkei.com/Business/Business-deals/Toyota-s-self-driving-car-unit-buys-US-map-startup-Carmera"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F5%252F0%252F4%252F35314057-20-eng-GB%252FCropped-1626324878-03-02T224153Z_2066480384_RC2A3M9K9711_RTRMADP_3_HEALTH-CORONAVIRUS-USA-TEXAS.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
-secured: "xsCBd5LQ1aYxEzH4XjGktD3qbAhthuzdFs/BDyggO1NSTPuJxDaF09Wd/27Hiq/4OZvizXQ1ICnbszf8sILfc4buXfS3l8WobcGKiS8sytQmz2yyjxPpl2yvGJWuIDPKy45UOds1+DhrzKtIVLo3UDj9CeDTN6/7QmXg3okxcDPaAtKr3IceR025ZClJctQl0+dh6oWzrBQ6xenub28gleA2W8LoW633BAs+9uZS6okUl7gHdaPOLnrQ+U8UOdg72BMzu3ezM7sQNTTO8jMb+55BI7r+eIYcoDCebgMf0J+moQEsE87QalULyV5Dl+c5vc7VOK/nqqPwbrKeaZkySEXQxBSjyAAYS/aqUkY/PB4=;+Gvw+AVMQk3F+mtHmnAVWw=="
+secured: "3PMvi0Xk4LEvpIbRwg2DYWY17OzkeBgzOXfgDQHtakHC8wOIEXLzNnhUupohneMMP9dxsyzTzXFUgMpyylgQChqxiNbeayE3jRL+mdgmRn03bij+LFfRovr6BxJQRVGEqSfAzbfLovUS0bZdXLPCRJYj+AIfJ2DMY5U8jPOoLTvPjQ47ukN0Xq2nMkOTFaWPOzxfivOHza9m3PFxsRsxL2qXM0LJAcnPY4nnXmOf4CyEFMXVihNju2nzeNHJ14FqjIowpVv4lGaU19kUC7ZcVcP9TbUOU/+1eg975VqwBgvhra07Vvl9iKAAsoEnOe66+8oLDaukOdQSntnUq+UU12tWONOeSJVkOeLq30RwvSsCJo/gRJJ9w/rbwvhF/InkghXaahjOEk8/7AkcyPFqwhmHLwzYoYwJMRq9w/bWIeWMxYV1MxgGOGhZ/lMARhFTh3vjHPVjvwvE+oWubH46/VWqzBNTYIYWIikgGpCuWemSl1MW9cPawJnLjw2RNeLuenKOp/C7OLPGW30YdffmvQ==;WH276C3ymcSV5E/k3s/A6Q=="
 ---
 

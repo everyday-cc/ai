@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Device taps brain waves to help paralyzed man communicate"
-excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a"
-publishedDateTime: 2021-07-14T23:13:00Z
-originalUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
-webUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1424"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424"
+excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak -- and turned what he intended to say into sentences on a"
+publishedDateTime: 2021-07-15T05:56:00Z
+originalUrl: "https://ktar.com/story/4568684/device-taps-brain-waves-to-help-paralyzed-man-communicate/"
+webUrl: "https://ktar.com/story/4568684/device-taps-brain-waves-to-help-paralyzed-man-communicate/"
+ampWebUrl: "https://ktar.com/story/4568684/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/"
+cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4568684/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/"
 type: article
-quality: 89
-heat: 109
+quality: 59
+heat: 89
 published: true
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: KTAR News
+  domain: ktar.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg"
-    width: 2500
-    height: 1669
+  - url: "https://ktar.com/wp-content/uploads/2021/07/ap_84a09bd83f7b43328b92bb64b88bbc07.jpg"
+    width: 1280
+    height: 854
     isCached: true
 
 related:
@@ -57,7 +57,21 @@ related:
         width: 897
         height: 537
         isCached: true
+  - title: "Brain waves used to help paralyzed speak"
+    excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak – and turned what he intended to say into sentences"
+    publishedDateTime: 2021-07-15T04:00:00Z
+    webUrl: "https://www.journalgazette.net/news/health/20210715/brain-waves-used-to-help-paralyzed-speak"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 39
+    images:
+      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210715/ARTICLE/307159958/AR/0/AR-307159958.jpg"
+        width: 800
+        height: 536
+        isCached: true
 
-secured: "9JS6Pz7VD6jqlzPAko6xtFHO9ugtldO9nR1pfsMOcYBauCN7UG2kIuxaes7vtgyMiNBDh+TkzqsGSnusmCqo2inUo9OhTWfmmdWiYIAawsi5QR4YTtY++QcO6Wbw0+U00PYq5hvAevgG/LjYzuBD6ntWZaZ7mbSdsZQ9p8OT9WFeBSuNXs8Z7hBxMxxEMQDWeoVlhzs4QiSkhzakbOj6xC/Yd2ujixwFQCP+SwtNAYeMB4RkED88C5CzX5HxDFwrjz+9Rw7ls0JX0r8AronnRE5xSzHc+ZPUQDNsWO5a/bpR6SFI+5xlw5tux6v46Xag+o0bxOI9CwoG/jrIcUlqXKOVKbN38xFrWck/ZLga9ypdAh3yeiTV8Cx/9KFq4ekBAS+rhZW6EAa21twkO93M7N+qJAYzIBo+KqwA2vBOXZIzHbg6jHjj9l8uZROA8YdhQLaRiYg4D+FZZ9wdYgx7piLolfSPuYMAXFFzyhAGnYMhnmVpAZh8b/ZiYMT2tUp3UO3x+/MNphnHcHGOm0pPdA==;JKICaUbXgYvcLhJHShTwVQ=="
+secured: "Yn5ScwNxKw5RZ3tu75S0DTADhKCcceX0C+WDvjtd03O4Jkrw5ArZvgNKeOLDccBpePyBhM0BcOmkQR48K2Yvzp58ymZuYw/pSfAZXUJFRlHZpz/p5IaxKL5bEznBAcs8oE5Je9pJbxMYybWkAcB5dLmuaXvhwdynmgKjP7T9rxJnbv27vwy+ASk6JAxLH2qs4kHtQWWmzT8bOJTcwtADJCxW0fY/cY4vf8ZZj4qffgMZ6TwAJOSdIdCKRMPGULNmcQX9THOjWyDtne42g8zrlgF5TFvuHPtf2XITBQ0jhE1/h2vjYEvAzBIbUbBUoapWvU5HdB1Kpmk03crNfitTwuTEhct9RXlymQsi9M1kPNc=;NsJNyNh94E3FpWK3mUboBQ=="
 ---
 

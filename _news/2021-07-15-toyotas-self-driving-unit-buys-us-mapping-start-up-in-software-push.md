@@ -98,6 +98,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Toyota's self-driving car unit buys US map startup Carmera"
+    excerpt: "Toyota Motor's research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker's latest investment in autonomous technology."
+    publishedDateTime: 2021-07-15T04:26:00Z
+    webUrl: "https://asia.nikkei.com/Business/Business-deals/Toyota-s-self-driving-car-unit-buys-US-map-startup-Carmera"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F5%252F0%252F4%252F35314057-20-eng-GB%252FCropped-1626324878-03-02T224153Z_2066480384_RC2A3M9K9711_RTRMADP_3_HEALTH-CORONAVIRUS-USA-TEXAS.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "e8BO8sG8wtjAnh9p4h1GOIb2RMZoh5GwmzhyhLTndCxE6kJ2NQSp8qGPYS2k7IWxkUUbK7oAOdPGAxxw/ewFcZYxFd1FQvR9UiD9xY+kpJrdqS8DflbzU2XBuYqI/b9+qPbNMeqwAPd53glyqg7418VWFbYyjfBhgBCdChvBsa0y65RTYUyyFJwJZ/5tGXrhlg7SPp1b1rEzvLn1O7PyQc1aOLHL7dL2AQOuTlGKck/OpTjJqlZMtie93HQxN8SMYqhkRUHKHZUoy075whU4nFOkLvgAgsuhZhu7m9k3k/6xNx7o6dRatC37PZMNlXxzz8T/+slOmnFPTslTLScOuU6aNrbTrWvQPm2/S5h8229r7irFYXZtwGcyKaPr8qrV032qE81F+SS16MYuUYZgbcAYNKqeqxs/2v/NQMnBVedtrlKyOpUo6442WJLmQt2yUwfUFdqQUJLynH3T7O0c19rYzTfOEC0IkXV0AFksPYNRhIIKmsWohiLMKoMyNW2/+Gaz7uJo6mFTrz12LJXKfg==;isLxkP7YoyU6fRFs4Z+aDA=="
 ---

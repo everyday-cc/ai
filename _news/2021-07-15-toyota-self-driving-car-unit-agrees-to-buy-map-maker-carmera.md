@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/toyota-self-driving-car-unit-a
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera-271626296406"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/toyota-shuttles1200.jpg?itok=49OnvMZW"
         width: 470
         height: 246
+        isCached: true
+  - title: "Toyota's self-driving car unit buys US map startup Carmera"
+    excerpt: "Toyota Motor's research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker's latest investment in autonomous technology."
+    publishedDateTime: 2021-07-15T04:26:00Z
+    webUrl: "https://asia.nikkei.com/Business/Business-deals/Toyota-s-self-driving-car-unit-buys-US-map-startup-Carmera"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F5%252F0%252F4%252F35314057-20-eng-GB%252FCropped-1626324878-03-02T224153Z_2066480384_RC2A3M9K9711_RTRMADP_3_HEALTH-CORONAVIRUS-USA-TEXAS.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "Rbh1Tg1HCbcF/WhRil080FtWKp81ceL8LhzBnkYW84glagfR1Cb0N3aR6d1cz0ZLKIPTUyMJUSXeqiDzj98+0uaBYxqhGUpjQQdFLNe9ho++tOVo0vLEWHRXocSnd3vAI4m0MmTHgsE9NAKMZpSMBjDbl6Pvs/M69WysNw/FXKW3J8BH+YCfCTz/qoX+JdNGmWfp7Am8+5NVe5Hfjss9EcU22sHwB5ztDzzQR2h0fagXi6JeA5hqjT1Gus0MjLTrrPtFwNXJhsM6REV5PX0mQmCdKAjl2mTKxQ8jb2uCDyq/SmTQbIrU36aUdjJCYVidGeyyUySS9zphpN9cG/qJJIlrNg+NoP2ow4kNK4lvzMI=;jMbReTrwd/czajHXHNfYdw=="

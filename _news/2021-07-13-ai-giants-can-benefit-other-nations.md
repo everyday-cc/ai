@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI giants can benefit other nations: China Daily contributor"
+    excerpt: "The openness to AI across the wider economy is indirectly fuelling Chinese innovation in high-tech computer chip manufacturing and software development. Other Asian countries can benefit from China’s recent experience in AI, in pursuing their own ..."
+    publishedDateTime: 2021-07-15T05:45:00Z
+    webUrl: "https://www.entornointeligente.com/15/07/2021/ai-giants-can-benefit-other-nations-china-daily-contributor/"
+    type: article
+    provider:
+      name: Entorno Inteligente
+      domain: entornointeligente.com
+    quality: 39
+    images:
+      - url: "https://www.entornointeligente.com/wp-content/uploads/2021/07/ai_giants_can_benefit_other_nations_china_daily_contributor.jpg"
+        width: 763
+        height: 509
+        isCached: true
   - title: "CSPs Can Use AI to Simplify Operations"
     excerpt: "Automated operations are table stakes for communications service providers (CSPs) looking to enhance operations, grow revenue and improve customer experience."
     publishedDateTime: 2021-07-13T21:39:00Z

@@ -54,7 +54,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 41
+    quality: 43
   - title: "Ensure AI brings social good and not inequity: Experts at Asia Tech x Singapore"
     excerpt: "SINGAPORE - Artificial intelligence (AI) technologies can bring a wide range of opportunities and benefits, but they also come with the risk of perpetuating biases and inequitable distribution of those benefits."
     publishedDateTime: 2021-07-14T14:37:00Z

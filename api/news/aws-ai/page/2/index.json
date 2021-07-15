@@ -165,6 +165,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-23-over-20-civil-rights-groups-demand-amazon-divest-surveillance-technology-end-relationships-with-police.md",
+      "title": "Over 20 civil rights groups demand Amazon divest surveillance technology, end relationships with police",
+      "excerpt": "Amazon's Rekognition tool has received scrutiny from activists for several years for misidentifying minority individuals as police suspects. Amazon Web Services – the company's cloud-computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/politics/20-civil-rights-groups-amazon-surveillance-police",
+      "originalUrl": "https://www.foxbusiness.com/politics/20-civil-rights-groups-amazon-surveillance-police",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.spot.im/loader.png",
+          "width": 375,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/politics/20-civil-rights-groups-amazon-surveillance-police.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/20-civil-rights-groups-amazon-surveillance-police.amp",
+      "publishedDateTime": "2021-06-22T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-salesforce-expands-partnership-with-aws.md",
       "title": "Salesforce Expands Partnership with AWS",
       "excerpt": "AWS and Salesforce are helping developers build customer apps connecting data and workflows across their platforms.",
@@ -1306,59 +1349,7 @@
         "Machine Learning",
         "Google AI"
       ]
-    },
-    {
-      "path": "_news/2021-06-10-build-patient-outcome-prediction-applications-using-amazon-healthlake-and-amazon-sagemaker.md",
-      "title": "Build patient outcome prediction applications using Amazon HealthLake and Amazon SageMaker",
-      "excerpt": "Healthcare data can be challenging to work with and AWS customers have been looking for solutions to solve certain business challenges with the help of data and machine learning (ML) techniques. Some of the data is structured, such as birthday, gender, and marital status, but most of the data is unstructured,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-patient-outcome-prediction-applications-using-amazon-healthlake-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-patient-outcome-prediction-applications-using-amazon-healthlake-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/02/1-2422-Architecture.jpg",
-          "width": 800,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T13:58:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
     }
   ],
-  "nextPage": 3
+  "nextPage": null
 }

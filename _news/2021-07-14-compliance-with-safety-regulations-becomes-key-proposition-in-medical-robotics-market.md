@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/compliance-with-safety-regulations-becomes-k
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Ai In Medication Management Market"
+    excerpt: "The Global Ai In Medication Management Market Report is a study of prevailing drivers, trends, forecast, and restraints in the global landscape. The report is the latest addition to the vast data ..."
+    publishedDateTime: 2021-07-12T10:48:00Z
+    webUrl: "https://www.openpr.com/news/2326242/ai-in-medication-management-market-latest-industry-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "2PeBxXm2PKNKn/FCGMBJZaIZn8UVC3a5SnNqVer1gj0BBeWRSap+vZsU4ad91+DhevE6yuz8Wa1Solunz/6RbqgTD4HMU4KSBwuYbT8RAsZ2JvCm9c9he3/7Zy3W5oq5fY/FRuWygDlUAgwHY6NfSFBzfHSOv10EziKcwVD3RfLMHj3iazZdhaIhOEwDu+TV5+aVEYBtZhKCr3dk5+7Lsl2nb7pCErzY+mo4nYtEFcUdlZrUmdUWAyiap8OOxlb2po1UU3OJa8JFxIufRlRNw09ncdLE4QIR+5j/5epY1DGbBS/53eS46ZcE2b9llP3Jr4sfjYWFWQl/HK3CXTrf3f7RdcH3ytkyEgkUaCYFCKnGcALiQmQTH5qLbA9bt9u663eOyHQAUVjgl9jiHjoXrUNFhtaWicvkBzkFpM+L3DmMeg+d7V1x4eFbIcTbpx469FkIsZCxcsinWer30Gy9C9zfPqCZnvxKRz1m2pVvsp8Yce8PCcp9jjJDUtd1v0YBJjWz6WzfjKYooA+0f2AGCQ==;YUjeVO5J3/5miVgUVuJ2ag=="
 ---

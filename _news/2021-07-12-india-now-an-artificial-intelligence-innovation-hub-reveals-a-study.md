@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "AI Startup Fractal considers IPO as Pandemic Fuels Growth"
+    excerpt: "AI Startup Fractal considers IPO as Pandemic Fuels Growth - Fractal Analytics Inc., a provider of artificial intelligence and analytics solutions to global"
+    publishedDateTime: 2021-07-15T04:49:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/ai-startup-fractal-considers-ipo-as-pandemic-fuels-growth-nid-216522-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 37
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/Afn8ZdNY.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "yHFTnxLmGT226/XL8IzBMlm3hZtTg5jFXKCaqDBxp5g8eKV0tfrU9bmB9N5AFlObzWdZbtUgqd9oGz2CGngIwVRz3z0tzzSzBqsisZekuNyAS5gUsvT3lUwDorIJ4wGsjainscZiOnpLkS9pBX6R10+kg940OUVy0SD8dQ9RyYGG9pqLLRRhvIXMqU56sLJBHx8uRWS8K9jW7gFLFNDvYuBTGGfjlYUZ0WYyp76lts8i7CjQZv9QJLeZtPiutqCtesffydREKv2G3+QtVts/j644gPNuytJ6haILutE9HdClMHzalMAzGRzcboIe+3XQVtjtx0O8pLvHauK0U7E2gCFDrHSLTShDIcJ7reC5nLg=;UIVu6SBN0FQ9UROL3XQNFg=="
 ---
