@@ -9,7 +9,7 @@ ampWebUrl: "https://sociable.co/technology/founder-institute-joins-forces-with-n
 cdnAmpWebUrl: "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/amp/"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Japan's robotics market sees boom amid pandemic"
-    excerpt: "Hitachi Ltd. in April acquired Kyoto Robotics, an intelligent robotics startup. It plans to utilize the startup’s artificial intelligence and 3-D recognition technologies to automate warehouse work. “Logistics have great room to grow,” a Hitachi ..."
-    publishedDateTime: 2021-07-10T07:44:00Z
-    webUrl: "https://www.japantimes.co.jp/news/2021/07/10/business/tech/japan-robot-industry/"
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 54
-    images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/07/np_file_98359-870x489.jpeg"
-        width: 870
-        height: 489
-        isCached: true
   - title: "Founder Institute, NASA Ames and MassRobotics Partner to Launch AI and Robotics Accelerator in Boston"
     excerpt: "The Founder Institute, the world’s largest pre-seed startup accelerator, announces partnerships with NASA Ames Research Center and MassRobotics for the upcoming Founder Institute AI & Robotics Accelerator program in Boston."
     publishedDateTime: 2021-07-13T13:00:00Z

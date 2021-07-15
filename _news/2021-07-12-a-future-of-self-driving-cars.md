@@ -44,14 +44,21 @@ related:
         height: 630
         isCached: true
   - title: "Toyota buys U.S. mapping, road data firm to bulk up driverless tech"
-    excerpt: "Toyota Motor Corp's research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker's latest investment in autonomous technology."
-    publishedDateTime: 2021-07-14T23:38:00Z
-    webUrl: "https://www.nasdaq.com/articles/toyota-buys-u.s.-mapping-road-data-firm-to-bulk-up-driverless-tech-2021-07-14"
+    excerpt: "Toyota Motor Corp’s research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker’s latest investment in autonomous technology."
+    publishedDateTime: 2021-07-14T23:43:00Z
+    webUrl: "https://www.metro.us/toyota-buys-u-s-mapping/"
+    ampWebUrl: "https://www.metro.us/toyota-buys-u-s-mapping/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/toyota-buys-u-s-mapping/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
+      name: Metro US
+      domain: metro.us
+    quality: 59
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH6D1AY-BASEIMAGE.jpg"
+        width: 800
+        height: 544
+        isCached: true
   - title: "Toyota’s self-driving unit buys US mapping start-up in software push"
     excerpt: "Toyota’s self-driving unit has acquired US mapping start-up Carmera as the Japanese group embarks on a software buying spree in an attempt to quadruple its global engineering headcount over the next few years."
     publishedDateTime: 2021-07-14T21:01:00Z

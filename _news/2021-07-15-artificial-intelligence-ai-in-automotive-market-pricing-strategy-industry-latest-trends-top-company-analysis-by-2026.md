@@ -188,20 +188,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 14
-  - title: "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027"
-    excerpt: "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,"
-    publishedDateTime: 2021-07-13T14:07:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 10
-    images:
-      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "Artificial Intelligence in Agriculture Market Size - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
     excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
     publishedDateTime: 2021-07-13T10:44:00Z
@@ -211,6 +197,15 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 5
+  - title: "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027"
+    excerpt: "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,"
+    publishedDateTime: 2021-07-13T14:07:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/144447/global-speech-recognition-market-2021-industry/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 0
 
 secured: "HC0uLnl6HO42PaEQPh0wHC+QGQa/TUHqJf3nRIhFDOKtD4lWySLCx9dMTonbvT9+vHze7SpXONC8tPQAlrcib7KgUOPxYJoRmf/ig9AJMKeKepoazmauI7ovZaVHe+A3ZYIDQkHvYl7yctHHBq2XP/R05iNoMIlGMXtiGCBww8No/fB1FQ+O7hzsE8Ih5sE9rBG+/Nc8r6SOh/Pzfh6DMTrwGGz5+fL71a0VXLUSyRTge6XtWwzkJJhmhhcgN95JI7zdd1ONQYEGSFVZ2LXzZmeehi0x3AyLSGsqGp+DHYIA732arGWCcaE4GsQ0eCDh3iM6otKsOjuccHbfXxrC3uQCP+SLttVTvLrr27m490U=;7LHID1GAkzc2RTHeUEM7xw=="
 ---

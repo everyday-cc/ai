@@ -42,7 +42,7 @@ related:
   - title: "5 Best Machine Learning Stocks to Invest In"
     excerpt: "In this article, we will be looking at the 5 best machine learning stocks to invest in. If you want to see our detailed analysis of these companies,"
     publishedDateTime: 2021-07-14T16:48:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-machine-learning-stocks-to-invest-in-960822/"
+    webUrl: "https://www.insidermonkey.com/blog/5-best-machine-learning-stocks-to-invest-in-960822/3/"
     type: article
     provider:
       name: Insider Monkey

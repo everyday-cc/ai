@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-13T12:34:00Z
 originalUrl: "https://www.businessinsider.com/jpmorgan-manuela-veloso-top-artificial-intelligence-research-executive-priorities-ai-2021-7"
 webUrl: "https://www.businessinsider.com/jpmorgan-manuela-veloso-top-artificial-intelligence-research-executive-priorities-ai-2021-7"
 type: article
-quality: 62
-heat: 62
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Finance
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/5fdcc45ac910a400192e8485?width=1200&format=jpeg"
@@ -28,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "llWm+jgO79+JkwW03IuJ0Ylxf6Tn5hZ5YB0qB/v21SCXOj7mWoYKhKOZrQsdqTZ7Kz+p54y6zhCSbhzBZnDsJDLQIMnyMcZwEWhVRn1a6UOczSAwRJdZOSLOhpBXRFt+FemynXVN61AZ46uoqcV4CTx820GnG1psgJNG9OIEcsGIrROD/NrbkKb9WQFUOpklb6QhyUsgvxbILOtgdhdEjy5xbA0VYoOrN5D9xczeFF/RiqUeJPuMY90Lx6BCqgP/zPa73u0MvuD9JOXBXWRTfUFt0b2dEgNb+DLRcjla2fuFqijOXiyNKl4Aoo4rJ4HmOOdYXqVUrSwfAH58Wz7Bf+mNco4BWy/NiWOwiuh9ia8=;9Brj/mgEpJYtndhN3LuhrA=="
+secured: "Bm2UQSk4vV4AnqPIpaPrim8yE0QA1oLIsycR/Dd/12jofhe9QhiAMk7Tg5GAUx0P7NpklxrZR2pYbuu1JIUiLJ8v4FMSpGlpSvPR79ual/efXdU1puuyS1o5zybbSK17pcRLvS2ZMMkOLma3mCgu+Q1/GbZZlMEb6JH1DrcyNwc4Xb5Qzon6bi9OLzgr5nRBuYmqVgV6pfEc3P+rvYkmRJR8wAeKLYFggzeWYod7DxePnB2HgDp+jkvp+u1YaAYJeDCO2wSVYa+X4EvLe1QyL+s0+7zO7gAXiJVe4DVQS/y2zMBRTYZYy16vW8XIN1NtvSQ2aFVSe4suXEDoimw+WZpBzBq+9iRgBuDr4rpm02zNb/shRChsVzruLEud/6yLz5NZfM6GUjLpeOlXQRAoGKob8BCZh5h5JoClgyYzsQw/OA14rP9awymUoisYv58yvVM5hzz8NwvirC1DcJklrimCVqVbqRMiy+vCr/lpX7Eke1C8A58ySt4KGDQZv3H68BtE1D2C69d/l1n/hUtpHg==;th6Qlp4GnEZFr2WPByxC0Q=="
 ---
 

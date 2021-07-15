@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/specials/tmu-moradabad
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/specials/tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research-121071400946_1.html"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 640
     height: 426
     isCached: true
+
+related:
+  - title: "ST Telemedia Global Data Centres collaborates with ABB for artificial intelligence energy optimisation pilot"
+    excerpt: "ST Telemedia Global Data Centres (STT GDC), one of the fastest growing global data centre operators headquartered in Singapore, announced today that it is collaborating with ABB, a technology leader driving digital transformation across industries,"
+    publishedDateTime: 2021-07-15T01:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/st-telemedia-global-data-centres-collaborates-with-abb-for-artificial-intelligence-energy-optimisation-pilot-1030608643"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "zqqpKpolAibrKOTuE4sQq/Vi7ReTzKpAzZxGuzX4oVwZPiJnhm0xP/llHBpXPGTHgf1PyyeSnWBIjm5451Ud5USuRQf22rAlghLSY79bGut9MW72K7BeWypOX+amPDewlIpIq7jqnLZaDxd/aR06uwfxx2PdBMYncMYGidb6tr43hvdsoKFZ5HJPYVCrcGi30Z+3m7tC2wsZADicvVN6TK6HVIEVyxc8SE+AiyK/Z+xhIeSg+0j+jIV8QP+t81FzlCrgQKbeebJDBbIvGCdgm1iiXgoNnA4cE8DVK5JwW7/BiCuringGGLeIh+CHwHiphc1HIoNZCQin5Vkus3f4aKMo+226wOgssywZFUJiRf2fY4/gJurfSvMv3Zia5vStpLLnRFWtTn4zpxSBvXzQCWQ3GGbPQ/nYFb4lVq5Yn9ZChLyxH4tb1xX3ERPtXNSc+rGlRrCAIdXZZw0jZKefzJbrY5xrrYvG+gIuJxgh8GajbDUyDMHBFk7EDt6vj8GzB5uq/xDR6pWGSUjD/TeWFw==;AcLBod8+f8szndMB28Bt5g=="
 ---
