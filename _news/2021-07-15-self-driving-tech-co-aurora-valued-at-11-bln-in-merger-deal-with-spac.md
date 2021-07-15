@@ -73,19 +73,33 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Self-driving startup Aurora plans to go public with valuation of $11 billion"
+    excerpt: "The company anticipates a total valuation of $11 billion. In a statement, Aurora said it expects to have $2.5 billion in cash at closing, raising nearly $2 billion from the transaction. Aurora is led by CEO Chris Urmson,"
+    publishedDateTime: 2021-07-15T14:34:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-aurora-plans-go-public-valuation-11-billion"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 21
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "In Major Step Toward Commercializing Self-Driving Technology, Aurora to Become a Public Company by Merging with Reinvent Technology Partners Y"
     excerpt: "Aurora, the self-driving technology company, has entered into a definitive business combination agreement with Reinvent Technology Partners Y (“Reinvent”) (NASDAQ: RTPY), a special purpose acquisition company with the sponsor team that takes a “venture capital at scale” approach to investing."
     publishedDateTime: 2021-07-15T13:36:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-377c40cbf96544d2936dcc3c7d09d3b7"
+    webUrl: "https://www.joplinglobe.com/region/national_business/in-major-step-toward-commercializing-self-driving-technology-aurora-to-become-a-public-company-by/article_f05b257c-9ec8-5b70-96a7-e66c04ecbb63.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Joplin Globe
+      domain: joplinglobe.com
     quality: 0
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/21/821a284b-ba23-5cb0-ac73-f905ce44b439/60f03c81db3a3.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "+owmoH6+dj2w0L/5LeUhtgxmbD3wFwkoDlAgHkDQKIlGeKFhRHEFqKez5JO3tLnqhLfvOXtQbb5G8tvQViooFiS6icup9uTgofc+j6cmfSBsWecBeqnpB3BVlrcegf1CL/EVRwEFyDYRkVX8Wk/due+VP75umrAFDI8QSVifwvrXHGrEsrx7y0Nw6ACjzMF0SvV+yiuaAGiQdE+wWgebAILei+X2262BEHXjs5KypBbXY+3j8n4AxY4E/VK6gVAXZ+SKuJK0aLFynio+Fa2L4m4CSFHwIOm52XA5yxtI7i6PTo5rNvR6S8lwsQIqBKuLYci4YYThLE3Yn8BuHFMm/jVJciJGX8FsR+SVsQ5g85A=;uDAWkoFQMDrIB9/vxIvW4w=="

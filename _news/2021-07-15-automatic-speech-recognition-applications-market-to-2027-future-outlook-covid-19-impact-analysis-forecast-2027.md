@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Insights on the $31 Billion Robotics Global Market to 2025 - Impact Analysis of COVID-19"
+    excerpt: "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double digit CAGR over the forecast period of 2021 - 2025. The adoption of robots across a wide range of industries including manufacturing,"
+    publishedDateTime: 2021-07-15T10:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Translation Market in APAC with COVID-19 Impact by Growth Potential, Manufacturers, Production, Revenue and Forecast 2026"
     excerpt: "APAC machine translation market is set to witness significant growth during the forecast period of 2020-2026, thanks to the consistent increase in the adoption of various artificial intelligence (AI) technologies and smart devices."
     publishedDateTime: 2021-07-14T14:28:00Z
@@ -35,15 +49,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Product Transformation Market Outlook: World Approaching Demand & Growth Prospect 2021-2026"
-    excerpt: "The latest study released on the Global Product Transformation Market by AMA Research evaluates market size, trend,"
-    publishedDateTime: 2021-07-13T21:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/product-transformation-market-outlook-world-approaching-demand-growth-prospect-2021-2026-2021-07-13"
+  - title: "Detection of COVID-19 via Automatic Artificial Intelligence Cough Analysis"
+    excerpt: "A team of researchers has submitted the system to the Cough Sound Track of the Diagnosing COVID-19 using Acoustics (DiCOVA) Challenge. The covid-19 crisis has tested healthcare systems throughout the world."
+    publishedDateTime: 2021-07-12T17:56:00Z
+    webUrl: "https://scitechdaily.com/detection-of-covid-19-via-automatic-artificial-intelligence-cough-analysis/"
+    ampWebUrl: "https://scitechdaily.com/detection-of-covid-19-via-automatic-artificial-intelligence-cough-analysis/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/detection-of-covid-19-via-automatic-artificial-intelligence-cough-analysis/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
 
 secured: "D9bL/emXeu5OPTfzxGL0hT5mogZH+vC90iGFkblF0lTXCqFRNOzYU+W1FWaL8L5/hj+Adn1HA7VSDtS5s0hNyJaAafcXpMDuW9ce21eSJLtTygCrAQ8ROrZGuJJl42dANW0Z//t2QtqNb0IH2sAmaPH434c0/TIgJTQac6c+lFVmCuvIoUY7mRT7/Jk66kDlFcP515/zRgDYGexv3XVVxHsugPgJMVw0aYGfI0SqXSQQ434TplKRV3g4+UJhuuaYfDQQWcILr7Jhtqog+mYgMN2ndxFnsWLgDtwpzok2LeARf/g08S/577VPXhcNK/YpgoRHRhfpcCGl81YU/DP3DkxOOIEwSbM53a/uEkpTDes=;K3mwR9bKeSgRrbRRRXDXYg=="
 ---

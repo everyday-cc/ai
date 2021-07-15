@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
-excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
-publishedDateTime: 2021-07-13T07:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
+excerpt: "today announced it will make its Intelligent Data Management Cloud (IDMC), the industry's first end-to-end AI-powered data management platform, available on Microsoft Azure Germany in response to ..."
+publishedDateTime: 2021-07-13T07:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/informatica-expands-cloud-footprint-on-microsoft-azure-germany-1030600116"
+webUrl: "https://markets.businessinsider.com/news/stocks/informatica-expands-cloud-footprint-on-microsoft-azure-germany-1030600116"
 type: article
-quality: 34
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
@@ -207,6 +211,6 @@ related:
       domain: thepacker.com
     quality: 19
 
-secured: "qfVP57qHjdlT2Q7CPOOC0Fw19nE/Z9AmHRogM+c8nKf31O0ZEWDYQo3SkvBlwZgU6quoitU+kxs7P/m98zlrtid4SWKtfaFx292XRdr5qKN1K1QoewBfeJalYZZxVr/HrHvXYOGPTqYbVV5HjtnHVJf7jkSCD2+KzodyrhpLQcBG2TbTbWk0eDQS8/5XFv5BzyhyfBS8vPCcqQZ53Z2O7pCczerEISIYJleTTTFYo5gIS4ptidTT1kYEqQyiDT3HA5fhxUzCW4YsFrPZaikhMCwLJWSDe/OJ4CrQVK+YKdcdFegS8OOMKB+XdM45uZZPLkvQNvDl7E/9kIzL09du85jU3YzlPAO+FHVLsMT+DN52Zq177sBOp4T0AgQtXnb7a40NaJ5Kp3KCcDLHJkcvEC6I2gbz4t09ioU7PmCLTIsVPTDqPxJLvy/oTr8L3g7Zr7S4xi0g+J2ehYGuqF/uQUKNfGvSoEj415XXR0HMBt0CepySHbNuqh31vvwHrB/J6gjw50XEIC6FwzNd6Jqp+g==;0uIBNdp5S3DamRhvi44vRA=="
+secured: "pppz/lX+0A0QHEF51ZCXVDLLwpqZNHH7jH7dKToajI1YrMgDVTBNqGiPm6YZLwaZH+6j5UirPi+CF2I8RGPszHdaKLOypt+hiFvAd2ydk2ZnkWH0WdjSMc55bwqeTRqLwnanOT8+Wgobx6vPLdYXDW74G3GkGeyLyNy8ayw5ENpmnhPBiSmKTKagReJOQ9ol+2h2UdleD8yQi/CWpBirKOGSm7mrFJIx4hA46qz2zjDvsU6XU3x/lh1FHJkgFknatIMDU40Zke2swo+7jqxJ8wUJ39LMh+DGVKZZohRrbWqLCThv7JhxppmuhevexqAm+XigHGsArqzws5/3NpooPj+nqP3UPxmXXnGBuTcmOlHgVwje3bk8crJqmQRRn9lF99OfHgZIvw0REl7967Ybt+8Ju/2lNQYKYlSSbQu7sO24eUEkl4gnxO6uZIZSzHZOqq1UzbN6VkkLMlHZ48Veos1ESyyZaeIDAGjKbwCcD5s+386I2AUCSW1cH+ceJJmzLhr1ROR7TJ23fN//DH4oPQ==;jPnyFRQJ/vD24gON086pwg=="
 ---
 

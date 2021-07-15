@@ -83,6 +83,20 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Use of Artificial Intelligence That has Potential Business Value"
+    excerpt: "The use of artificial intelligence in the business market is growing gradually. It has a great potential business value and it is important to implement ethical and responsible AI to bring success in the long run."
+    publishedDateTime: 2021-07-15T15:30:00Z
+    webUrl: "https://www.analyticsinsight.net/use-of-artificial-intelligence-that-has-potential-business-value/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-2.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "OtiwUezRWERAUHPaeRdRIl6qMYY696uhmw/KKST8LXpDS+X2r8SMsLeHUeWp1RGnP+/7HvlzKR4Z3hnbmzTbHHGyrnKO0o0fQY3JTff0g4LSSNGShTq8hTbOYwyxpjfrqrnVPBiqLKj4hoYIaMitAW0UZllQOgFxF+jOJPZgaxQ3NbimCRkm/V9vTbtZx3OUPM4eNYvoi/SvkvihILNbOgmyswqN7MQo7FGYiEjKjgilP7t1UAszEKVnAQ+xQRxW7JHJ+e4b3x8jpXS5f3HenX7NTLFafEyZE2SDeumdyUHemeXNYhLAZ9ffd01b8ssc7LY50JDSqRAJpXtwko/SCLO1p9JHLWWTSwyGQUxva1Hx5vAgXoFyLB4g4IJZt8zVDjFmPo0IWaK6BII6Y9nswCmZddW83M0KK/1DOlNHZfVFBJlR7lGpR7Ge6swJmPAGtHx0d/8L781DrsDmTvOe3EC+3ayQtaTiS/vAvnoPeUOJmznjkWYdqHNLzhO17z9ohjIDuGSaDfO/tS2FIgHrBQ==;pC83h8Q0kruaVwV7JSn3og=="
 ---

@@ -42,18 +42,20 @@ related:
         height: 480
         isCached: true
   - title: "Tantech Subsidiary Starts Accepting Orders for Innovative Driverless and Manned Street Sweepers; Inventory Built to Fulfill Initial Customer Orders"
-    excerpt: "Tantech Holdings Ltd (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary, Lishui Smart New Energy Automobile Co., Ltd., started accepting customer orders on July 15,"
-    publishedDateTime: 2021-07-15T13:20:00Z
-    webUrl: "https://www.lelezard.com/en/news-19904364.html"
+    excerpt: "Tantech Holdings Ltd (NASDAQ: TANH) (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary,"
+    publishedDateTime: 2021-07-15T13:00:00Z
+    webUrl: "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street"
+    ampWebUrl: "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street?amp"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 1
+      name: Asia One
+      domain: asiaone.com
+    quality: 21
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_966.jpg?itok=nvzH1Dk8"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "Vi590fpTA4PwvgshjoOOnnKgHeHhimHaKG4X4ovlQZBlX/4m++GczYARBvM7UBMDAEuK1m3ttBMZVkpGDTzgczBAQeBxlmFxaJS4f0rLxdmfMXWHY2QyYCDZHVz2bFuS3VPTerWnaoJq9RRH55cYXLE3Rw5hBAulSzO1i5F/TtoHfgceZmx6uCGUfSSHTc6jHoLmupV3SkOfZ3QRzaEqoXxQZTYZzJrIFeaZ2PE3hRxgZmjPPDTvJADSbGah1lkYDgbH6MqzR+RP21dYWPoQDvD2WmpQS3SnVKt1B4sR4tbViQpmh9z2dj3IdPJSkUomE4PugO72fiU+4FU/7aeGqhJdcdo11vICQlvuKH8Yhc6D2ErpzAI4GCBHEbDfTPSjVMVHvSDqamzLRSWP4LXtJf8EWi0uFS0XTcmahbx1xGg4c2e/7oeOxvU9LEs9TNV9DrskVYTuxzToerBcHKJaE5UsJ9EtexVkXZarI0W80ppT5G6GKOk1WlqcVS9G1Tf+qfU3z/AsDi7VjtUHgfugxQ==;LcbhE1iAALJl9Y7n5YwTwQ=="

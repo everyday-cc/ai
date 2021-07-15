@@ -36,14 +36,14 @@ related:
         height: 400
         isCached: true
   - title: "Venturous Group leads Series A investment round in AI-collaborated fashion platform, WeStyle.ai"
-    excerpt: "Venturous Group, China's first Citytech™ Group, is establishing a foothold in China's fast-growing US$220 billion online apparel, footwear, bags and accessories market by investing an undisclosed amount as the lead investor in the Series A funding round of AI start-up,"
-    publishedDateTime: 2021-07-15T02:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/venturous-group-leads-series-a-investment-round-in-ai-collaborated-fashion-platform-westyle-ai-1030608662"
+    excerpt: "Venturous Group, China's first Citytech™ Group, is establishing a foothold in China's fast-growing US$220 billion online apparel, footwear, bags and accessories market by investing"
+    publishedDateTime: 2021-07-15T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/venturous-group-leads-series-a-investment-round-in-ai-collaborated-fashion-platform-westyle-ai/article_8a55d2c8-736c-5fba-9e7e-0dbceb24f2ef.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 5
 
 secured: "7ahXYnU/qey3m5tLHrRemT3smXF/KJ8fiFCvfouyzzWL49i/hUBP3xWKN090K9RCfamiCnGB11C0E7DnlJjBFEkEr7aeOQOSZ2tiAseXYuCJUDsYlTuLQDelt/nmDuJEW5etjuGajeTDfAbFvvCTcz/tH/scw6yfHkbUd13hR9hrNUc1noWV0ZhQoSsd6GvvZpjJjfu5Y5OwntVI/fFxk0HMQxLGOeUZMjKV5qx9iFJmtQ08fOlo24FL9Iz57j+u0R5l+zEDgUWY6e8T7kJRzjb4Chk5q6ziSknT1xSMocuFj/+jUVgSN3ZRzdpbEZkb9ln6i4fRqpv4cFuISsYUYACC5ZHD8t2zpItSp8fvipY=;nz0pLZQNKh+gv1r3cbykog=="
 ---

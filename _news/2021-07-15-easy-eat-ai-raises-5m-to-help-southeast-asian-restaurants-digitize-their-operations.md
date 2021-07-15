@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/14/easy-eat-ai-raises-5m-to-help-sout
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/14/easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 82
 published: true
 
 provider:

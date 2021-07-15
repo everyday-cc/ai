@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "BUDDI AI Announces Expansion of Executive Team to Bolster Innovative AI-Powered Healthcare Product Suite"
+    excerpt: "BUDDI AI, the leading provider of artificial intelligence (AI)-powered healthcare solutions, has announced that Vipul Kashyap has been appointed as Head of Clinical Informatics, Shankar Saibabu as Chief Operating Officer and Jeff Nussbaum as Chief Revenue Officer."
+    publishedDateTime: 2021-07-15T15:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-buddi-ai-announces-expansion-executive-team-bolster-innovative-/2021/07/15/9410351.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "SAoGRshnSSAvKdj1iio5Roxr2SFDlUgP8fATVdliL0RFuxDsVuj/nh8JJxdZ0fcEhJdXOM5rRWEvjyU28bPXWXJjT5yBGSxdryRcCHAtsmLvjFFk/quhOJywjpyi7v/p4E06U0KixjFR7cqu+/qq4sp1pH7auZh0q+4/fB1Q39to9DKeHLDTtqpeRm3LlH4aew3950h/WtMJwFAkogquwq4+4IHhf0+nVX9fN5EY7VQxeh/E4FtLzOjvP9Rbi3M3ENVPO0yer7L4y6YLCaCNlt8IrfuL1PE7iVOVRzXS3TdtFG0qR4tZS63/c/oSTDnV8QfkDDuczvibCF8wBYyVNH+EC6qMKSe8/Kf2jlRKxz93uBVBZPvgN+1umHnBUlJT2f8h4rwoEPPJRSnGXXYHsMz/j33nyWGn2uUS6eUWqZbU4n7ov57qHwP0aQSMl2C4IRE/1/vT7WXT/YpNvaF8Zq67kwqBLUGENzPcA8QxyPJZkWnZ1eVU6DClV7WpVyvC2Fz24lbblj+J8XFOGIPbTw==;Q5qPqKZWjmUvvf45ZCeRNQ=="
 ---

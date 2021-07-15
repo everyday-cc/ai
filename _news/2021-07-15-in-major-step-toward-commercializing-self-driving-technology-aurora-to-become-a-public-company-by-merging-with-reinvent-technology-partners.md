@@ -3,25 +3,25 @@ category: news
 title: "In Major Step Toward Commercializing Self-Driving Technology, Aurora to Become a Public Company by Merging with Reinvent Technology Partners Y"
 excerpt: "Aurora, the self-driving technology company, has entered into a definitive business combination agreement with Reinvent Technology Partners Y (“Reinvent”) (NASDAQ: RTPY), a special purpose acquisition company with the sponsor team that takes a “venture capital at scale” approach to investing."
 publishedDateTime: 2021-07-15T13:36:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-377c40cbf96544d2936dcc3c7d09d3b7"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-377c40cbf96544d2936dcc3c7d09d3b7"
+originalUrl: "https://www.joplinglobe.com/region/national_business/in-major-step-toward-commercializing-self-driving-technology-aurora-to-become-a-public-company-by/article_f05b257c-9ec8-5b70-96a7-e66c04ecbb63.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/in-major-step-toward-commercializing-self-driving-technology-aurora-to-become-a-public-company-by/article_f05b257c-9ec8-5b70-96a7-e66c04ecbb63.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/21/821a284b-ba23-5cb0-ac73-f905ce44b439/60f03c81db3a3.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -83,7 +83,21 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Self-driving startup Aurora plans to go public with valuation of $11 billion"
+    excerpt: "The company anticipates a total valuation of $11 billion. In a statement, Aurora said it expects to have $2.5 billion in cash at closing, raising nearly $2 billion from the transaction. Aurora is led by CEO Chris Urmson,"
+    publishedDateTime: 2021-07-15T14:34:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-aurora-plans-go-public-valuation-11-billion"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 21
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
-secured: "Nty/VoxjHQOJ0tEqfS8ag0Pv/kN8+MMjvK1wOnpOgKJSMLmCO/5ARoiUArKgZpH8Cqvh6Vk4PDr5a9AhzX6a5s2pJIa8LaD+5nZTcDIaOHyQ0EToETxrv6sHFxrxADwnCrIt2mzyFZJhzfnjKC0fIMWs3IeNhxKrgcYer/u2bh2vjUSZ1j9Cklxv0d2agqrDHLxTKn2kOQrz2NKnTkLrh6FCLOzi1/lNI7xY+yK6r7X0WLeYOL0Phkk4tsRIGANyLYwO2bMvbS7uq1bNgJ71mZvAXDgKvwLCtbH06HFhxLiVeoXBEQguz3IF7DhGNTymwn8ZTf0jr19GWnFPHPw93S8SSl5E9b+3e710Xct6yWU=;aUeRHoOWUAQZ+Q3aZdQGsA=="
+secured: "giFrlCjbRR4wmj+MbNRiuEfCcYjbxES3n1sLQkZ9bF0MV6Vrr3OoNMsqcEYPfQpOF8Lh1Ox0rWrHe+P2l2lrQ4XH6kLym/qm7LBlgXYU2aeR4kr8H0bduegfbp/ZXhC7Yc2haIe2vhd774erm9lQtNvaE7K9SS6zAfvYAAkMUjB2biA01ffApbVrlN1TLutUEskK6mWag80Gu1U+Y6xATV2OIfQnvJT95i6iYQwvhZrdCkaRmV8EeSDNcs8zE/z/39pOn5fbMk8GXL1sg3gM2ccVpeZzgJr0ZvM0nM2FuhaXDoG58EfEN3zRSIl99wR/DmNwbXXb3XSw9sT5VEGCwwAZrlsuN4bDgUygZYLL+aY=;7MUezqSC5qiW5+c0FhjeRQ=="
 ---
 

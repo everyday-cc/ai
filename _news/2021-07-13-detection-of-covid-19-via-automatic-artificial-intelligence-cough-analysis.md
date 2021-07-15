@@ -22,59 +22,45 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI Tool Help Predict COVID-related Death Risk"
-    excerpt: "Artificial intelligence is being extremely helpful in health care settings. Researchers have designed a new AI tool that can predict death risk from COVID-19 among patients in both inpatient and outpatient settings."
-    publishedDateTime: 2021-07-12T09:22:00Z
-    webUrl: "https://www.medindia.net/news/ai-tool-help-predict-covid-related-death-risk-202216-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/ai-tool-help-predict-covid-related-death-risk-202216-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-tool-help-predict-covid-related-death-risk-202216-1.htm"
+  - title: "Insights on the $31 Billion Robotics Global Market to 2025 - Impact Analysis of COVID-19"
+    excerpt: "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double digit CAGR over the forecast period of 2021 - 2025. The adoption of robots across a wide range of industries including manufacturing,"
+    publishedDateTime: 2021-07-15T10:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
-  - title: "AI Tool Measures Fat Around the Heart to Predict Diabetes Risk"
-    excerpt: "Researchers from Queen Mary University found that the more fat found around the heart, the greater the diabetes risk."
-    publishedDateTime: 2021-07-12T14:52:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/ai-tool-measures-fat-around-heart-predict-diabetes-risk"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 37
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
     images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jul122021at104715AM.jpg"
-        width: 770
-        height: 400
-        isCached: true
-  - title: "Mumbai-Base MediCircle Health Launches AI-Powered Instant Covid Test In India"
-    excerpt: "Mumbai-based diagnostic company MediCircle Health on Monday launched a portable Covid-19 testing platform that is powered by machine learning and artificial intelligence and delivers results in just one second."
-    publishedDateTime: 2021-07-13T07:32:00Z
-    webUrl: "https://swarajyamag.com/insta/mumbai-base-medicircle-health-launches-ai-powered-instant-covid-test-in-india"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 36
-    images:
-      - url: "https://gumlet.assettype.com/swarajya%2F2021-07%2F83ec17cf-e336-4456-903b-d0a07f30e802%2Fbfca27349600af51e02170919c618ef0.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 599
-        height: 401
-        isCached: true
-  - title: "UW researchers find COVID-19 diagnoses made by artificial intelligence unreliable"
-    excerpt: "A UW Allen School team recently published an article in Nature Machine Intelligence finding models predicting COVID-19 diagnosis from X-rays are relying on shortcuts."
-    publishedDateTime: 2021-07-12T07:00:00Z
-    webUrl: "https://www.dailyuw.com/news/article_a9de3cbc-e2b3-11eb-89b2-8317006b58bc.html"
-    type: article
-    provider:
-      name: dailyUW.com
-      domain: dailyuw.com
-    quality: 32
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyuw.com/content/tncms/assets/v3/editorial/7/e6/7e66696c-e2d9-11eb-a343-0f1aab0d44e0/60ebdfaa0da7d.image.jpg?resize=1120%2C630"
-        width: 1120
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
         height: 630
         isCached: true
+  - title: "Machine Translation Market in APAC with COVID-19 Impact by Growth Potential, Manufacturers, Production, Revenue and Forecast 2026"
+    excerpt: "APAC machine translation market is set to witness significant growth during the forecast period of 2020-2026, thanks to the consistent increase in the adoption of various artificial intelligence (AI) technologies and smart devices."
+    publishedDateTime: 2021-07-14T14:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-in-apac-with-covid-19-impact-by-growth-potential-manufacturers-production-revenue-and-forecast-2026-2021-07-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition Applications Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast - 2027"
+    excerpt: "The Global Automatic Speech Recognition Applications Market is valued at USD million in 2019 The market size will reach USD million by the end of 2027 growing at a CAGR of 1 during 2021 2027 Automatic Speech Recognition Application is"
+    publishedDateTime: 2021-07-15T10:08:00Z
+    webUrl: "https://www.openpr.com/news/2329195/automatic-speech-recognition-applications-market-to-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2329195/automatic-speech-recognition-applications-market-to-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2329195/automatic-speech-recognition-applications-market-to-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "/MfTzmJ111Lu0BjzoFtSOwB2W4heZzCTR+OSLd4j+KIOR6T7lgRKmxFFakp0Efw3ELOBOJzk9RQoEOwJBumYPZaU9wbEr4omA7gOTVENfbtPj54N9eXGTZ/6R8zUp3I4xAJrOqnGMHCIqy9kB05ZVAeMTz0JmIdlsDYJIU/a55U7c1qPj/xoqAx2DDhO6PeUfQKwyusn20qhhaZ4g3wjuvjFnBieeO/ScwDAdv0cT+T9faRYME6y/kxcTSOgX6HswwQsL7+9U6kTS4vZZzewWwQsOBmF86nLIyuL2lwP3jwPeIkKexpzu7ywgG9sA7HU8Iq6N/4jsoTLJAk+bWLEVULUp2yWeifevOIjSdQRxUk=;FL6r1nkP8hsivj1gZv2Nyw=="
 ---

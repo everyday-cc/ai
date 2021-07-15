@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Tantech Subsidiary Starts Accepting Orders for Innovative Driverless and Manned Street Sweepers; Inventory Built to Fulfill Initial Customer Orders"
-excerpt: "Tantech Holdings Ltd (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary, Lishui Smart New Energy Automobile Co., Ltd., started accepting customer orders on July 15,"
-publishedDateTime: 2021-07-15T13:20:00Z
-originalUrl: "https://www.lelezard.com/en/news-19904364.html"
-webUrl: "https://www.lelezard.com/en/news-19904364.html"
+excerpt: "Tantech Holdings Ltd (NASDAQ: TANH) (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary,"
+publishedDateTime: 2021-07-15T13:00:00Z
+originalUrl: "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street"
+webUrl: "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street"
+ampWebUrl: "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street?amp"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
-    width: 640
-    height: 480
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_966.jpg?itok=nvzH1Dk8"
+    width: 763
+    height: 509
     isCached: true
 
 related:
@@ -56,6 +58,6 @@ related:
         height: 480
         isCached: true
 
-secured: "DVHL1tQrNz0VBLikty6d2e+BClEprAbIWMplVVhGcinsVkXP1s9WU+iB/GUC/B84CHgIJoPNqSmIAI2ZQVQVaO8IJYTCajtpCevEA4/CBlBwmmhSEFFpoCXNnJc8aZEO1XQVZCKwoFC76ctXGOHdD7FzcmMh4mAFW3D2SNxyFs+Nm/Xrl+cQpVIpyw/P2MdiizPQvD6U/7lbfpPwnSB7/bJSMRfdHTlw1GBCidh/rf//wI12ZYprc14KWfZ3Ot29/PEDuIpIdArm0b9YSUjyUedtIFURjaWQwuSNdURfXddW5pfD01AR+LKmDribSC0PQjvUEEL4NJUMUyLZsZziyPCWaF+1soZNpTdXrwzXHG8=;LG0x8aDaiMzvAe3/49QVIw=="
+secured: "ntALSSLdTvI44QTNzvEe0VlC/LgY7ilGNSnO79rPfNuVIxaVLxcPz79sD0BeRlJCepAgmTY/oOVnNWDLjMLvWB5v7/v9m3W2hKWBGdeChhSChSHLEdfIO/ylarPpwlAFSZEgawJ3520y9xHoBl0VHLKRwNOFP+g6hocXJxuerS5Fo49NvPmYAJRthkwHX/VDRNgGrfNgvvCMgGc38h6wjnG7Dk3VxViThKMqDNwlYv+zBBKo0faQabO3vm0zRHoOhWpiB0pLbm81ah/KnqP9JXd8Y/e1gCK4ykA88Xdx0ldNbgcdWs1O/BY7Y/4aWz3NY+dU5Blxw1OgIOrMRNfUSTk7PR5O8T9xCdFjXsKzJ8Y=;0VDcG3SCm7yy66SgLKoW4g=="
 ---
 

@@ -45,21 +45,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A Future of Self-Driving Cars"
-    excerpt: "When it comes to self-driving cars, the future is now! Recently, Halo launched one of the first commercial driverless car services in the United States, and it will begin to serve customers later this year."
-    publishedDateTime: 2021-07-12T14:36:00Z
-    webUrl: "https://www.tmj4.com/shows/the-morning-blend/a-future-of-self-driving-cars"
-    ampWebUrl: "https://www.tmj4.com/shows/the-morning-blend/a-future-of-self-driving-cars?_amp=true"
-    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/shows/the-morning-blend/a-future-of-self-driving-cars?_amp=true"
+  - title: "Toyota strengthens autonomous vehicle play with Carmera acquisition"
+    excerpt: "Less than 3 months after acquiring Lyft's self-driving unit, Toyota subsidiary Woven Planet Holdings is acquiring HD mapping startup Carmera."
+    publishedDateTime: 2021-07-15T14:42:00Z
+    webUrl: "https://www.therobotreport.com/toyota-strengthens-autonomous-vehicle-play-carmera-acquisition/"
     type: article
     provider:
-      name: TMJ4
-      domain: tmj4.com
-    quality: 44
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 54
     images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/cb2/44c3f81cadf84cf5a6f4e6d100388208/cb23917623f44a1e8c1101f6efc1dcf8/poster_76c72a0c85f8471185bad8074f629a85.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/07/woven-planet-carmera-detroit.jpg"
+        width: 1000
+        height: 562
         isCached: true
   - title: "Toyota's Self-Driving Unit Acquires US Mapping Firm Carmera"
     excerpt: "Toyota’s self-driving unit, Woven Planet, will now have the benefit of more software mapping through its acquisition of U.S. mapping startup Carmera."

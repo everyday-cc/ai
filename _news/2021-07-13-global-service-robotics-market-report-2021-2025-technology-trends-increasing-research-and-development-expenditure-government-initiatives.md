@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-global-service-robotics-market-rep
 webUrl: "https://www.tmcnet.com/usubmit/-global-service-robotics-market-report-2021-2025-technology-/2021/07/13/9408226.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,36 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Global Self Driving Wheelchair Market 2021 Emerging Technologies, Opportunity Assessment, Projections and Future Opportunities by 2026"
+    excerpt: "MarketQuest.biz has published another latest research report on Global Self Driving Wheelchair Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 that encapsulates vital details about the market current as well as future status during the mentioned forecast period of 2026."
+    publishedDateTime: 2021-07-14T22:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2021-emerging-technologies-opportunity-assessment-projections-and-future-opportunities-by-2026-2021-07-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Conversational Artificial Intelligence Market Size 2021 Report Includes Raw Materials Sources, Major Players, Export and Import by Regions"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Conversational Artificial Intelligence Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-07-12T13:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-size-2021-report-includes-raw-materials-sources-major-players-export-and-import-by-regions-2021-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Gjd/9Hp6aYalkRIIuT5SVfGObyfnkisJebIzXxAQ0e+QyIXKzH6b5sbeySAhLWIcr3bazpoc7KHNHJOrmJjvZJlXZoaKc/oeyeg6Y2LyqwK58QdMUlZi7g713kl9aN7HqMkb2lLeLy8ttkkVOwEXiL9I5nkANR9Ar1ZQq8L6DVg4XJQHRmq/QaGZvGK0vUgLEQC8ayeISeoZspf51hyaNbRYPWIbOmJYj0EkYWTK1TzPrYVelLWvc1eqKmqrPBF3DC66q/VJA+/RTE9A3unQUevC73dvm+RM6oeSXCzsHDAj04LPL5d8GvHO0MAAVLaqY8z+0242DCOhj5JJBUzVQCQXuselcx/M+auNtpz+SUs=;WKS+YNph6kOa5M0nYHbanQ=="
 ---

@@ -24,6 +24,22 @@ images:
     height: 409
     isCached: true
 
+related:
+  - title: "Tencent makes foray into semiconductor chip business"
+    excerpt: "New postings for semiconductor chips development jobs on the official website of Tencent have sparked speculation that the Chinese tech giant is ready to venture into the core technology, joining the club of domestic and foreign internet giants that are developing own chips."
+    publishedDateTime: 2021-07-15T14:18:00Z
+    webUrl: "https://www.globaltimes.cn/page/202107/1228798.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 39
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-07-08/e99f7dc9-2b5e-45e3-945d-eccd7ec41275.jpeg"
+        width: 800
+        height: 480
+        isCached: true
+
 secured: "VccLAzuctJW3NQ8elNUJENQzNUjd5K/vRRD8chgmXJwMVFymFYTGMvDSQkvG3MYnTJMzH4RW5CliHS/WZebaV1vqNi95QCoFgPoH3Auvcf+qJXbKFz098FLuszpcv8HSs31K2RpgaPaHax758hPt0IIkjS+4GDt53FpqgaFJjDOvnBdzpjlJdhCKMx2r+YlPZGYvV0Pg9s5fC0h1lmPLZojbgie1SAVV8R6olBqn+iX9nB06HVUU6DYkfSMNHecXLD9iZbjWBKfvQQp2BdS7w2ftw8NYhZQ7u/2/fQsYs6AZ4o0MupvJreLjeKr8THSJH6l+XDvG5ugcEBd0kdb1JNbvTieowu9RiD7OZO+4mAzypsuGKac88mGptMMTCPMno3dztwoHmhSkFZmvSENy5mcPsBC7WIhEzqUgaTvoaHZmcSI5PfRFMSeMFPzRsTeATDmilPKnsUSvmB1ho1OHcOdsPRD05mDp9RRGRPppnxQ0alwpjKNJyjmAlN9USWeG2Ys3G569QbRc9Ubsf2oYJQ==;lx7MjHABWjLvomysuBSbUQ=="
 ---
 

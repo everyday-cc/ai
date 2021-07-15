@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-seoul-robotics-raises-12m-bridge-r
 webUrl: "https://www.tmcnet.com/usubmit/-seoul-robotics-raises-12m-bridge-round-investment-from-/2021/07/15/9410064.htm"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Wearable robotics startup Verve Motion snags $15M Series A"
+    excerpt: "Wearable robotics startup Verve Motion today announced it has raised $15 million in Series A funding, led by Construct Capital as well as follow-on investments from existing investors, Founder Collective,"
+    publishedDateTime: 2021-07-15T14:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wearable-robotics-startup-verve-motion-snags-15m-series-a-1030611784"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://mma.prnewswire.com/media/1574447/Verve01.jpg"
+        width: 291
+        height: 400
+        isCached: true
 
 secured: "mwYxPYa5htdZxFsRTxJ9Oi6Z+C7H69Z4nthtZeeX4x+jsjMouO6++vuIvtn/0ePVLEDA3j7Kz2vj+KSd3YG91tO9gUuzKyCFzhzgfZ6IDV5xd66oZjjMh2LtwEhuPACbqHVrrZDGfx9C8cS7O2pRdtaQYTJXVThodhsjjguwypkeUOp5fXg6lhO/eer+SDMv0THRLsvdoEPVblMLaWSO5yQ26b7sKGpkF6oCSI5HmeiQRgdyPEstr1P3q8gKQ66SsIX3WJusA3vq6qTu9aLqT68tzkonfBQ/s4ZWBzUbyrYJ8wlHHIhnwrAFQiQSQsfZtlbSAv0n1GWl14H5BbpJ6z0zGgjsXujHcqWojROVFbM=;vCiZlehr1tB2kVewXNF4mA=="
 ---

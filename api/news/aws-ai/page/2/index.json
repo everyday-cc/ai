@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-24-salesforce-crm-expands-aws-partnership-to-enhance-app-development.md",
+      "title": "Salesforce (CRM) Expands AWS Partnership to Enhance App Development",
+      "excerpt": "Salesforce CRM recently announced that it is expanding its partnership with Amazon’s AMZN cloud arm, Amazon Web Services (AWS), to make their combined offerings more accessible to customers. This extended partnership will help customers rapidly develop compelling applications to accelerate the digital migration of their businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/salesforce-crm-expands-aws-partnership-to-enhance-app-development-2021-06-24",
+      "originalUrl": "https://www.nasdaq.com/articles/salesforce-crm-expands-aws-partnership-to-enhance-app-development-2021-06-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/salesforce-crm-expands-aws-partnership-to-enhance-app-development-2021-06-24?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/salesforce-crm-expands-aws-partnership-to-enhance-app-development-2021-06-24?amp",
+      "publishedDateTime": "2021-06-24T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-amazon-launches-aws-bugbust-to-spur-adoption-of-ai-powered-coding-tools.md",
       "title": "Amazon launches AWS BugBust to spur adoption of AI-powered coding tools",
       "excerpt": "Amazon's new global competition, AWS BugBust, aims to realize $100 million in cost savings from 1 million busted bugs.",
@@ -1312,49 +1347,6 @@
         "Computer Vision",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-aws-announces-the-general-availability-of-amazon-ecs-anywhere.md",
-      "title": "AWS Announces the General Availability of Amazon ECS Anywhere",
-      "excerpt": "Susie Xia discusses the video encoding system used by Netflix, and the tools and techniques used to analyze performance and to improve the system efficiency. Ann Lewis discusses how MoveOn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/06/amazon-ecs-anywhere-ga/?topicPageSponsorship=f8e43c6b-66c9-48f9-a4c6-0f0e1dc93f13",
-      "originalUrl": "https://www.infoq.com/news/2021/06/amazon-ecs-anywhere-ga/?topicPageSponsorship=f8e43c6b-66c9-48f9-a4c6-0f0e1dc93f13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/06/amazon-ecs-anywhere-ga/en/headerimage/header+%285%29-1623417711081.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-13T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

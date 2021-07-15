@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Widen and Clarifai Enhance Partnership With Computer Vision for DAM"
-excerpt: "A Widen partner since 2017, Clarifai builds upon its AI metadata tagging service for DAM with a visual similarity search that finds related assets. MADISON, Wis., July (G"
-publishedDateTime: 2021-07-13T08:01:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8279625/widen-and-clarifai-enhance-partnership-with-computer-vision-for-dam"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8279625/widen-and-clarifai-enhance-partnership-with-computer-vision-for-dam"
+excerpt: "A Widen partner since 2017, Clarifai builds upon its AI metadata tagging service for DAM with a visual similarity search that finds related assets. MADISON, Wis.,  (G"
+publishedDateTime: 2021-07-13T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407811.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407811.htm"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "p7NYhte5IGuzfR4TNn4+GM3bi6/kpv6EHK3qxTiRF4Tt/btveIzaNqPc8eiqBtBRq2FKJS1LNV1AU30aCmGzSNTqOxBEVOtBKM202iNgCTOsFO+wNZ9Aj+iYa3Hpz8Zi4phaD8YaVGpXJZkdIRqwAAHF/9tdHVhbHUBF/lw2yB1jxj4EZeWdPiCzAOFMHCJrmnaY182ZH0IvTCy5w1gMKRxIRD228+J8H9imzf/X4jsMT0IERH/VHuMHTrz+NVUPbxIoseUc843Cut4GMD2AqlRmS+dTgMN1vxYbPqfIg0a4NO2W/q3NxWRWnWkZ8AIwFxc1zQmZ+yw2gIJAgjBDtEyhCGt2qWbGCkafNpekb2I=;4fY3KFgZ+ZVsCcp2C7sbFA=="
+secured: "tjpfU45JEEAxr4x21qza/Ox5u0jGUcb7Hbm6rNUGBXjQsMNiMehtGGTR64iyz7fBozybqEWdauh0dbrsPTvY+QJcrVFIi07s2+D1Ew3Om986ycpfQkLT0l8Cm41q0y+1gxe4BZAJUDM9jQavlhRsDclXNmqlS0cFB+4em1VFb2ClKtSqFy+c/BBLGngxBWvBxy8MS3rXWE/DDTuAm7qAgVz8a5NnfrfQ/VyhEHUDO61ZnfvpVIXzU+l+y3O95rXDCm/VL7KIRV9tk/wSKkj8BEWR12hP3A4gYbtjFmSdIRnVYRusOcsMQF7orzKj4LU50Iqv+gTKBw1ujmHDG+EjD8TPbhe/1B0JaWdtT/Nzbcg=;ZhbWQUbMERkZ8ZPHzEZ8Lw=="
 ---
 

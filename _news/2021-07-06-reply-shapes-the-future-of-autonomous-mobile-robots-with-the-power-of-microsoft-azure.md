@@ -2,7 +2,7 @@
 category: news
 title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
 excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new"
-publishedDateTime: 2021-07-06T11:30:00Z
+publishedDateTime: 2021-07-06T07:30:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
 webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
 type: article
@@ -15,6 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "G2kXfoNYpRLVl/p0c+tJlHHY+J0Fme6yOEA3d2DYyr/6WY9jwNBVjO2SdMcQ/8AGQqQ9Kh9x8Ap4dLvcPOCRjV0kDHSGjITliPuxV4E+bytghwStNyndehsRtUitMZLBy0lkBhgEF75sUH5KTcQhY8C+8UcrbdK8dySGwk8kH1JWyCaNJDqCXMzc9QUJJNRUzbW7dPQ4AlX0hkkjx1iQbN2ish+Ihjk40q+rDHWrKENUxBYRDhTKpreHafKY/53BQtHxr4MPiWks+1E3UKq3e6Gxp97+UptfOiyJuQELV9cEgxDNYgFDJ2Lti8bjaaaSbkSe0PXB8KhjRHe4SbHMiZDY/BWVpuGTN2JcY73ePdzvEllE17swIJ1qM98zmG2+E33o+D3ZGMljHxdBtRcs4mOF996Mzf1IRkaDG/NXsS8qI9RdUDdWG3AlTTTvOcHdSMzpg8ECMxGOce2WlQ9TOurRGSeoxBio4P56ETO3JZjFU+8MZrwtPkGdVwx/AvYb8pQ7rINRaZLKUcExN4laxA==;KI6Nr01lUzZx4B9W5HzoaA=="
+secured: "qM3HH9XSywIwgSbTo6FksvJqcaoslf6UzL+QEtUCuNAGasyCnp5FsH9EwebDn20gpLfcpvmlB+HS3Im8gsLpudDkPW7QnIwKkD2g8hw3+VxbWNsEQGdPaVazujffUZFVQrCgQsBtJ4Beq/3j7FuNeZdT7c8Wc1BKDZSOlk0vMH43RFljTEin5wVOX13pynPtvgZx+/MgL2NG9HQuycVaULnD5qsEI8stD7RzKRC5Z6FD73hsTrVZ5hROuGL4yyrlo0hjZMnlPgC71ef1BUet6a+e8YPPWbL/KC3csmbcE5y6MCEHVIkEW404e6M77aP/AC/K3qtKiuWpmls4QqckzVovJKuHjv1VrLtjT46EJD4Fdvyq+b8kHFPbmBKXHtJ/Fsr19cxDdIbrN2/Zznj5y33FJ7nVvmbi/37gkHWz+ptvs826evLQ4/PxPs00oUAz1xnZMsXAAigvrg1GDbXxljcqleW6Qbc40h1BRGVkmtllTLuXsE+VGnsLY76uVmo8kVH1uzNM2Vqe33XkIcAvsw==;0c5gnHRCZhzHOUL8+a4FjQ=="
 ---
 

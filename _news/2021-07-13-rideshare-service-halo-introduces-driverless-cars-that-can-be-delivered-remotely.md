@@ -42,18 +42,20 @@ related:
         height: 534
         isCached: true
   - title: "Tantech Subsidiary Starts Accepting Orders for Innovative Driverless and Manned Street Sweepers; Inventory Built to Fulfill Initial Customer Orders"
-    excerpt: "Tantech Holdings Ltd (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary, Lishui Smart New Energy Automobile Co., Ltd., started accepting customer orders on July 15,"
-    publishedDateTime: 2021-07-15T13:20:00Z
-    webUrl: "https://www.lelezard.com/en/news-19904364.html"
+    excerpt: "Tantech Holdings Ltd (NASDAQ: TANH) (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary,"
+    publishedDateTime: 2021-07-15T13:00:00Z
+    webUrl: "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street"
+    ampWebUrl: "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street?amp"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 1
+      name: Asia One
+      domain: asiaone.com
+    quality: 21
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_966.jpg?itok=nvzH1Dk8"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "b6UC6pwGWEi4sKx3ZIlqeDaXhaPKpTabke5r+9mGPCyuqMdfR6p5anyXPNeC8AWZ3VpEWUJqg9on27CTF3wwuNr5kU1wZ4LO9DoMpMMqQn9/cfTHXMogANVEXDy4gzwcD2p8BSMSiFTszlRhPw5hpR+aV7zk9plR7QwVFkP1TRFp7jwTLlT+LJIvDcd8fQKqBms1zLxLbhPrcKBqw4E1YcbhFfagW0fHMEMcYovKmo7LBw0PxDEY3hnYznyaaym7/0y74A74brTcEj2K938popiRXOkB9h7u6U8FYoi7IwkBopTedNQ5R7cbvvGROXLrAEdN4nnjYAgQVtNdd9phyjRWIonluZe7OgFB32KPwbJ9w6mJGtN9S0y6s6dZvRw1y7ltETk9DQvXPNeCkHnNb0ecoCeGMEiRPONyiU3IrFzFuPuqqF76O5vNUYjykvn1aoTHA8TM2tYKDUy/eceUHvPq3doOkAuQeB6bMhOkYs1GbUdgf+aLOrzWZ/uDaiq/+zK3N48BPAXxHgVhNgVXcg==;ZUuKxwwgMGHKgeRmMVzBIA=="

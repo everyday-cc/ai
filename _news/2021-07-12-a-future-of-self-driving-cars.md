@@ -27,96 +27,93 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota Self-Driving Car Unit Agrees to Buy Map-Maker Carmera"
-    excerpt: "Toyota Motor Corporation is strengthening its foothold in the autonomous car driving industry, agreeing to acquire an artificial intelligence map-making startup just months after buying Lyft Inc.'s self-driving division for $550 million. (www.wsj.com ..."
-    publishedDateTime: 2021-07-14T21:29:00Z
-    webUrl: "https://www.marketwatch.com/story/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera-271626296406"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera-271626296406"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera-271626296406"
+  - title: "Culture Eats AI Self-Driving Cars For Lunch"
+    excerpt: "There is a famous saying that culture eats strategy, which can be reformulated to postulate that culture eats AI self-driving cars. Here's why that might ring true."
+    publishedDateTime: 2021-07-15T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F468340908%2F0x0.jpg%3FcropX1%3D121%26cropX2%3D3349%26cropY1%3D191%26cropY2%3D2007"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Toyota buys U.S. mapping, road data firm to bulk up driverless tech"
-    excerpt: "Toyota Motor Corp's (7203.T) research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker's latest investment in autonomous technology."
-    publishedDateTime: 2021-07-14T23:45:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/toyota-buys-us-mapping-road-data-firm-bulk-up-driverless-tech-2021-07-14/"
+  - title: "The Bathroom Break ‘Gotta Go’ Conundrum For Riders Inside AI Self-Driving Cars"
+    excerpt: "Seeking a restroom while on a road trip is a common matter, so the question arises how self-driving cars will provide needed accommodations for human riders."
+    publishedDateTime: 2021-07-11T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/11/the-bathroom-break-gotta-go-conundrum-for-riders-inside-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/11/the-bathroom-break-gotta-go-conundrum-for-riders-inside-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/11/the-bathroom-break-gotta-go-conundrum-for-riders-inside-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 85
     images:
-      - url: "https://www.reuters.com/resizer/xPGUCumVUqQYv5QVMbKEmMU-4Ss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HPQGDJ4HBZOIBIW32UPIKHAYZI.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604fe41fae09b91acf877631%2F0x0.jpg%3FcropX1%3D144%26cropX2%3D1195%26cropY1%3D310%26cropY2%3D803"
+        width: 1051
+        height: 493
+        isCached: true
+  - title: "Whether Those Endless Edge Or Corner Cases Are The Long-Tail Doom For AI Self-Driving Cars"
+    excerpt: "Taking a close look at the presumed endless list of edge or corner cases that might stymy AI self-driving cars and leave them in the long-tail dust."
+    publishedDateTime: 2021-07-13T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/13/whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/13/whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/13/whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b4686a72e32cc981af2973%2F0x0.jpg%3FcropX1%3D330%26cropX2%3D2911%26cropY1%3D310%26cropY2%3D2088"
         width: 1200
-        height: 628
+        height: 827
         isCached: true
-  - title: "Toyota's Self-Driving Unit Acquires US Mapping Firm Carmera"
-    excerpt: "Toyota’s self-driving unit, Woven Planet, will now have the benefit of more software mapping through its acquisition of U.S. mapping startup Carmera."
-    publishedDateTime: 2021-07-15T02:42:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
+  - title: "Hyundai to pilot its AI-powered, self-driving RoboShuttle service"
+    excerpt: "The Hyundai RoboShuttle can perceive its surroundings, make decisions, and also control itself whilst on the road..The shuttle's self-driving technology has a range of Level 4-comparable core technologies and has been developed in-house."
+    publishedDateTime: 2021-07-14T09:33:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/hyundai-to-pilot-its-ai-powered-self-driving-roboshuttle-service-41626241874566.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/hyundai-to-pilot-its-ai-powered-self-driving-roboshuttle-service/amp-41626241874566.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/hyundai-to-pilot-its-ai-powered-self-driving-roboshuttle-service/amp-41626241874566.html"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Toyota-Woven-Planet-Carmera-acquisition-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://images.hindustantimes.com/auto/img/2021/07/14/600x338/Large-46909-HyundaiMotortoPilotAutonomousDemand-ResponsiveRoboShuttleService_1626242090813_1626242098639.jpg"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Toyota’s self-driving unit buys US mapping start-up in software push"
-    excerpt: "Toyota’s self-driving unit has acquired US mapping start-up Carmera as the Japanese group embarks on a software buying spree in an attempt to quadruple its global engineering headcount over the next few years."
-    publishedDateTime: 2021-07-14T21:01:00Z
-    webUrl: "https://www.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
-    ampWebUrl: "https://amp.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdb76abab-edd2-4a11-abb9-fd67b076d31c.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Toyota Tech Arm Plans Self-Driving Acquisition Spree"
-    excerpt: "Toyota Motor Corp.’s software and technology arm plans to embark on an ambitious hiring and acquisition spree as automakers globally jostle for pole position in the race to develop smart cars that will one day drive themselves."
-    publishedDateTime: 2021-07-14T22:00:00Z
-    webUrl: "https://www.ttnews.com/articles/toyota-tech-arm-plans-self-driving-acquisition-spree"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/toyota-shuttles1200.jpg?itok=49OnvMZW"
-        width: 470
-        height: 246
-        isCached: true
-  - title: "Toyota's self-driving car unit buys US map startup Carmera"
-    excerpt: "Toyota Motor's research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker's latest investment in autonomous technology."
-    publishedDateTime: 2021-07-15T04:26:00Z
-    webUrl: "https://asia.nikkei.com/Business/Business-deals/Toyota-s-self-driving-car-unit-buys-US-map-startup-Carmera"
+  - title: "Self-driving specialist Pony.ai sets course for mass production"
+    excerpt: "Pony.ai plans to mass-produce its Level 4 self-driving system by 2023 as the industry works toward commercializing the technology. That was the message Pony.ai gave during the World Artificial Intelligence Conference held from Wednesday to Saturday in Shanghai,"
+    publishedDateTime: 2021-07-12T03:04:00Z
+    webUrl: "https://asia.nikkei.com/Spotlight/Caixin/Self-driving-specialist-Pony.ai-sets-course-for-mass-production"
     type: article
     provider:
       name: NIKKEI
       domain: nikkei.com
-    quality: 24
+    quality: 39
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F5%252F0%252F4%252F35314057-20-eng-GB%252FCropped-1626324878-03-02T224153Z_2066480384_RC2A3M9K9711_RTRMADP_3_HEALTH-CORONAVIRUS-USA-TEXAS.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F5%252F2%252F4%252F9%252F35249425-3-eng-GB%252FCropped-16260542492021-05-13T124732Z_427248270_RC2WEN9E9CYF_RTRMADP_3_PONY-AI-AUTONOMOUS.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
         isCached: true
+  - title: "Self-driving specialist Pony.ai sets course for mass production"
+    excerpt: "Pony.ai plans to mass-produce its Level 4 self-driving system by 2023 as the industry works toward commercialising the technology. That was the message Pony.ai gave during the World Artificial Intelligence Conference held from Wednesday to Saturday in Shanghai,"
+    publishedDateTime: 2021-07-13T15:20:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/07/13/self-driving-specialist-pony-ai-sets-course-for-mass-production/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "2f7oOqAswZ05wi3Zd0JWuXlQjUOOkBjnDntwmhhEzoruJkS4c+D1ryxeow2kZVRET/Nh4bCJhK44JWsZGOnV3PofwDbE6cgqFE6Jjw8lqKSQ9A7iDiBCfWowDRcEh4EUQ06YfnVBe140HTGThJwTengbzEMpDp6osQ2kyyhb1vjrN+OBDdYVSATscxzKY5/inlAdOyG4nGETXq+MA2rTm3HN33lk/x3khwcuFqBbW1/Rwq63CNdo0pKdEfQCg/Nd33meQe/OK5BJsG6q2qtZC62z7QaSixPbdWyylBt5aLY8iXsc4a+P6BKQZv2WtHmnl4DV28fb9ftuER7Ev3cuItRmUYX1/JZkdCAdqsr7BK8aQ2UrZuq3Gz+1x4A2fGbC8Hdy0/RU47xTg+ns4iftBYpDX4WFxqW7NsGKk7pTywpnpoJ91Xj8miGwfCmJBrnqsW5vHJA76gxWskeJJ/02QsgthZj6tPR8xdDorHRcFDaQ6+UV9xNskI8Pe4TDTWF3sWcvNlyTsezZA2kZ5bOeHQ==;IJ6GnEH+4K+/xNj4QycRwQ=="
 ---
