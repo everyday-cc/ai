@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/politics/the-role-of-ar-vr-ai-and-robotic
 webUrl: "https://www.bbntimes.com/politics/the-role-of-ar-vr-ai-and-robotics-in-future-conflicts"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -34,6 +34,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
+  - title: "When Artificial Intelligence Comes to Control"
+    excerpt: "Applications of machine learning and other forms of artificial intelligence have been recognized in robotics and analytics. Now the technology is adding some spice to basic control applications."
+    publishedDateTime: 2021-07-15T13:00:00Z
+    webUrl: "https://www.automationworld.com/factory/iiot/article/21545091/artificial-intelligence-benefits-in-control-applications"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 19
 
 secured: "xzix5hIuab5AFcvXj0HK4MBZAtnR5MFRt355cOlVNKU4wbeUp2cpUG896d433Z9Gae52sIJJKlkFvzWpkHqsv/EVQIvgUshMchdhPB8mWnHN2b9Wb6e36qxyxmqYt0+0AJWbucdIW74WQBfh3aF7i/0MQ8qaWLR5YpPhG6yVuPkd5+qDpj8fXZ8LUMM/B5JCEwaqF7GsSqYmOEBjGooUgWdtjZYP4RZB7A/wEpWOmawvC359wUPd5MQMnUluky6IKryda7ibwUdZNBvJavnYjpeaI8j5uzhUrY8swGEt6Ff8FaPL73CeQ3WxC9mJQqXN0aXjKEHXk4Bp6nKi5y/w6mS2aWm5CTT8r79vZj0++fA=;3dh6WWTJyo8bolqn/NhWwA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.detroitnews.com/amp/7948908002"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7948908002"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 88
+published: true
 
 provider:
   name: Detroit News
@@ -43,6 +43,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/06/24/PDTN/2561defe-e5fd-491e-9364-6dc1104ec2f2-Robert_Williams_1.jpg?auto=webp&crop=5159,2902,x0,y538&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Farmington Hills man misidentified by facial recognition technology testifies at Congressional hearing"
+    excerpt: "The Farmington Hills man who has sued Detroit police after being wrongfully identified by the department's facial recognition technology in a shoplifting investigation is testifying in front of a congressional subcommittee Tuesday."
+    publishedDateTime: 2021-07-13T14:59:00Z
+    webUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress"
+    ampWebUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 43
+    images:
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Michigan man misidentified by facial recognition technology warns Congress of risks posed by police surveillance"
+    excerpt: "A Michigan man who was wrongly arrested after being misidentified by facial recognition technology joined expert witnesses who warned a congressional subcommittee about the pitfalls of police surveillance software used to find suspects."
+    publishedDateTime: 2021-07-13T17:44:00Z
+    webUrl: "https://www.mlive.com/public-interest/2021/07/michigan-man-misidentified-by-facial-recognition-technology-warns-congress-of-risks-posed-by-police-surveillance.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2021/07/michigan-man-misidentified-by-facial-recognition-technology-warns-congress-of-risks-posed-by-police-surveillance.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/michigan-man-misidentified-by-facial-recognition-technology-warns-congress-of-risks-posed-by-police-surveillance.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 38
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IWXH4NYTVRCQBC4MUGFDTP37GU.jpg"
+        width: 4904
+        height: 3678
         isCached: true
 
 secured: "/8jTJ5lDs3NnkQhqbm0qqfy86nE0n6Cztw3IZABOyDRtyBokkWNtsDy9UH+mrJIXQzymqD8yOm32eL4udP0J5TMthz2ihI/YdT3G8JRx+zJLMSLVg7FGBVbPTGgBYxx2MjnKtrsnZ++VdJWciGxtO00uE8dzquY5A/bgmxXlP2GAuiAbwdnXj5muERhY2wB++MMD6A0G6NMH6vI+IVILax33A+/V+3u9tiY3DYItNj9+RrV32KsRZruWLAT6vPCmrlBFfULferee+5qE/kBcavYdyF4Ushe99R/g2euknKo5X6iDNkrYaLqu3IyENtyXLQZWPA70vHbIfFAilVTSYhxNouIrAIJFBLa8+srXZbxfI2ptkxMSTeqICe2U2NChYIvQOzlaPpNd0QOwRk53Dre0f3Af5TjbV5GiLoo+wSM+XuNqab/0UHzDmrb+/gc9bAz2YOcgjbX8Rv+ckyPrtTcVQ9hLxOuLbfgwUV3BwPvhhXhPSO5TpQOb08HgMVoy4b8BvdfbaPLj4XTlwlBV8g==;JpMX7gBSBoBEr/Lndk/oaQ=="

@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Is AI a friend or foe to marketers?"
+    excerpt: "Clearly, there is no dearth of examples of AI in action with it being infused across the 4Ps of marketing, however, it is far from competing with marketers or replacing them. Instead, it is boosting our effectiveness and efficiency as it takes care of the mundane leaving more time for thinking and creativity."
+    publishedDateTime: 2021-07-15T12:03:00Z
+    webUrl: "https://www.cnbctv18.com/information-technology/is-ai-a-friend-or-foe-to-marketers-9998511.htm"
+    ampWebUrl: "https://www.cnbctv18.com/information-technology/is-ai-a-friend-or-foe-to-marketers-9998511.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/information-technology/is-ai-a-friend-or-foe-to-marketers-9998511.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 59
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2019/08/artificial-intelligence-3382507_960_720-960x573.jpg"
+        width: 960
+        height: 573
+        isCached: true
 
 secured: "D4XhbxEf01BGdq/Jnigjg+OxkeqmgP/PeRcznU+hxA1gFTRG43/vHKGhYrhYVq3JTxfMzmRMraQY74mPa1XRSiM/dVuKF3bs2+ncbD0UV7qr/CfqnYYHyCAUUm8rMGrhmI25sQWUFANYNhTIixf1JZ22x8aAfcT36WWkwtrdbRGUXja3JmXBUTxoK09bSEDqI2970hk/PRdtT0l6GVeQYm5Q1R6VaemGyIms77SeD7eMbQKybsFU2Izsp7vAfe/YD645iX6nXLAafAK1qC0hEsd67ei3cR0mcLyY3mhFtsUseQ7ta6xwdooRjSR46GtqRrEa7yvEKxnRJ454m3S9UhDNMJbqs8wn41KlWYYKeKCi3++6OAEUpcA9pMqrzcX95KuWVHmFJvtWIWDaKo2ZQI+RUOcCHvsJKt7/2GcRIgYUeZF+dV4XNoIFMt/QgXljvbcmPjGTHbYGRr1qjXyT3jjJsKab/UM2/WTsRi5Lw1SXBRNWXDYQue4R83WWyCC/m1y78YLjoP0p0+e+xwJH8Q==;OjbcHRzrleLHhwxyZzB8YA=="
 ---

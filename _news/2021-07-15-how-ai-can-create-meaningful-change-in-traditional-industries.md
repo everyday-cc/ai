@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 800
     isCached: true
 
-secured: "3Yu8fhCSZZXxdfZDIuI4J0yNG0Dy2XXOg8eDNLOZBHCmukDTrJtER0FPNIw2s3P+F4SYgnzu+r1g0Hf6PcuP3Ztl1DE+ml0lXxyAYgBHkxCLu01HKzf/7Xz0UKp91zqT+XsIrMyS+E+hfmZ2RndGUZRsVQ0v9iEkzXYuo/ge2+9zpUcfWZJ8iDzPbtQdCN4BUYpBsJJTpuPoFZb4GWJItMPzhj/XCwraSW1G1Rk9zg+xr+Gdb9YBVCvEjCti6JHvaYK3NH8t+poxJ6X3HtXVaK4zu7ahwWGzevF8wO/BZYbXxoPXIPUb9OhdCiSDr7ADIpUiWG70Rw4sA4z3s/KnQ6Crg5xYs4gz9M4KI/8OywA=;9Ym9qm+Hu1KSFkpwSiKqEQ=="
+secured: "JFuMDHpbYGmC/XptI8dSu0GZ7uLpJpepvUH+MHTUY7bmu9dC5jLimBDtt4ewawaxOL1LyS4/Sq5njT2iu8B7ejXqdJVR9lHf3OT+xAOao3H1WUkfHPn5qeep7Ge7e7/MzozxuzgMMImYArlWMOF+UNlMpFfaQhk3eKcH/Pa4zH86bU6Egucu+iIMDy15t4uPggdcdAR7Eo9tm4IXmVVVgcbD5mX9wtLQLhuiMvSSXDnSx+dmetTb6g9es0oUN1Ct+vZuKqHQKn9p3fdmwmLNRVPjOiBIwa5VGwRW+Kh3vOIElL3SktpoWRilHfbv1lv7cH81MnkWjTwz7+qure/GC45uc12X0SMYRK5aXSb12rCFPdv6awBsTjlC1fmFCSxj5poWBfKXWbDSQ9oN35s5/h8C/L6L9HIe2HzDNpz3axORJLrOeTrhJoIJPK6l4sR+MfRex5XfeWTJsgAxXBzcdZGSJQnuEXlXguySO2bRedaHgNOOsA3R+72ikyLeXMvhO8ds2QS4Dqbw67cx020omw==;SYyijoAQnpdI1Z4KiIN9qg=="
 ---
 

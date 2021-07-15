@@ -26,6 +26,22 @@ images:
     height: 209
     isCached: true
 
+related:
+  - title: "Tencent uses facial recognition to curb young late-night gamers"
+    excerpt: "SHENZHEN • For almost every video game restriction, children and teenagers will find a way around it.. Read more at straitstimes.com."
+    publishedDateTime: 2021-07-12T21:00:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/tencent-uses-facial-recognition-to-curb-young-late-night-gamers-0"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/13/ST_20210713_TECH13_6682990.jpg?itok=5Y6ps2He"
+        width: 763
+        height: 509
+        isCached: true
+
 secured: "jBfpZNI7ux5T6MNUsctfU6OcOXR2lDKAfQl2tRngXpQeZaCwALnEnWaUz9wLPys4gRfsYtIuGXOD9tnCFzwPZBSYo/BOprRbY4dEZfnxGVs+YUbeU5Ll77x1vyYq3bErX0I4A4mgcg9BuzZz9YJEuHtMex0hh1MreUsp6LswmVYBLB7USBEeSf58pHx1cHN+DcYPRD1gRFn1CVXxIwqS31g6sxL8we5fxxpQwrPgOQBAFxbXTK6jsYAPMJ6DL6Lob3LEz2MTzxyjvf1Y84ldJT9Xos0meBkHZ+za1a9MMuZqLdXxx20Sz2vpiga88++/1tZG4QN+xUGgiYMGFZ0BqSvnf5LU0h5oTrNY2MNgBd/v792HPC9o/0/kw7zHzExpY9dKwXJfGrpN4ugX3O6UBn2J1Tm3Ql2pwrVpMHi/Y+w+MVclDEtmmAUcQmKWOAr1LQoJ9yihWkRT7FF6HAJ4rHPNMbmC0khg4P4O7VUsJQzKOKv5ekaDyabvzrPpz0JPWZDJSWcZGz91xkuksBRbhw==;yXPDFEh6aykjm79OTw5DzQ=="
 ---
 

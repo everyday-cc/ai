@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/07/13/1600x900/AFP_9ED8HX_1626188131154_1626188149702.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Facial recognition tech fights COVID-19 in China's Yunnan"
-    excerpt: "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a"
-    publishedDateTime: 2021-07-13T12:45:00Z
-    webUrl: "https://www.channelnewsasia.com/news/asia/facial-recognition-tech-fights-covid-19-china-yunnan-myanmar-15211714"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15211712/16x9/991/557/efd60e103f612f36f1164ff636fceff9/pE/china-was-the-first-country-to-adopt-a-qr-code-system-to-log-covid-test-results-and-track-contacts-1626169216543-2.jpg"
-        width: 991
-        height: 557
         isCached: true
 
 secured: "4+FplWEA5j5ZL6ChIT6sAOIozR74JPo4Iz14zyp5JeTRi7ugovOk7h+8AtX2cqpecpbr/m5MzDfQ19jvvrVhYWKwxhyCNorm/yZfRCpUHM44FjxY+K7T8s9g4cyN8xdcTQxc8gwWF9HgHDznAIgr/I9JVE/S5w9IAhLvFPpbCsh1j+jHz2WhSFJ9kcd/DGMPNcXgtOCYt88jgdVfTeetMa+8IKeW/ZFp4abcRafEnBfpMH5WkvkTP5coBz/2rJnGFvzjSy8hw5P2Hg6BxR619dT0PpMQhkpPbFPqtJYSkmJ31dSw6BkTaeQm/32C2eUM2QmCz9FHzknwnWCyeFFyfELnSsLzhwFBvaCSh2MF0cqhJGJDudtjL0G/SBSeu73AlrmlIcD1LZpxJe4EjUySDfAUXuaGWTVl4Shz1ekxhRqbpiLtVwYCBaZowCawfgmLOp852bZNFMzf/U2x7bQ4dfPoy8SCFq//YRW/nAfrwMVz0zcz4pq5ApsgZJyz+szzH87Fc4EhU/ZW93pD8wbDCA==;CM56QaFqoda5WteeiYv8mg=="

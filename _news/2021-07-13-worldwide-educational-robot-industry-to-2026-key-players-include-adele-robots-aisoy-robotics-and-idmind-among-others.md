@@ -37,6 +37,15 @@ related:
         width: 1625
         height: 1080
         isCached: true
+  - title: "When Artificial Intelligence Comes to Control"
+    excerpt: "Applications of machine learning and other forms of artificial intelligence have been recognized in robotics and analytics. Now the technology is adding some spice to basic control applications."
+    publishedDateTime: 2021-07-15T13:00:00Z
+    webUrl: "https://www.automationworld.com/factory/iiot/article/21545091/artificial-intelligence-benefits-in-control-applications"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 19
 
 secured: "itobA6SRkoAENXEPvST5k7gP9bwBgIYWPHtuEg1VO5N79jOSaukjfwCO6nOPAaM+5HT6SCu+WPgxgtC8LVg1z4gD3GsJmIJCsECECqMHFD0DwqB6mDnzvwon70eZHePgpZJZnhdqwVdKG5K9Sg7UHYbQQV7SGzMxhctk1nLP2mSavsNPaVV1TvvfP+VF6cZvax4hS9PJvYgS6/md0BuXNalQ9kJhyXIumzJLcoVwOo0hTAEYO3reNN9H/OgNBdwrYx0GirZ4wXFDK4TMEZgHaLjy5HMnOYBauHlmgqrNkCm/bEe8000vJ4fpJTFhr62QWa5kx4GFWg5xjtX1O2G6vUIWZHjDoxqvG1txVRA+/H8=;tH7OGCeU3+VBDATAsAv5vg=="
 ---

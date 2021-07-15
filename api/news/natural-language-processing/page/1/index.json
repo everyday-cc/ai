@@ -10,7 +10,7 @@
       "originalUrl": "https://www.statnews.com/2021/07/14/machine-learning-translate-brain-signals-text/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -98,21 +98,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-14-republicans-and-democrats-concerned-about-facial-recognition-technology.md",
-      "title": "Republicans and Democrats concerned about facial recognition technology",
-      "excerpt": "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,",
+      "path": "_news/2021-07-14-michigan-man-wrongfully-accused-with-facial-recognition-urges-congress-to-act.md",
+      "title": "Michigan man wrongfully accused with facial recognition urges Congress to act",
+      "excerpt": "A House Judiciary panel heard testimony from Robert Williams, who was mistakenly arrested by the Detroit Police Department based on flawed use of facial recognition software.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/",
-      "originalUrl": "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/",
+      "webUrl": "https://www.detroitnews.com/story/news/politics/2021/07/13/house-panel-hear-michigan-man-wrongfully-accused-facial-recognition/7948908002/",
+      "originalUrl": "https://www.detroitnews.com/story/news/politics/2021/07/13/house-panel-hear-michigan-man-wrongfully-accused-facial-recognition/7948908002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.gannett-cdn.com/presto/2020/06/24/PDTN/2561defe-e5fd-491e-9364-6dc1104ec2f2-Robert_Williams_1.jpg?auto=webp&crop=5159,2902,x0,y538&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,13 +120,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/",
-      "publishedDateTime": "2021-07-13T14:24:00-07:00",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/7948908002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7948908002",
+      "publishedDateTime": "2021-07-13T17:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WSAV-TV",
-        "domain": "wsav.com",
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -296,7 +296,7 @@
       "originalUrl": "https://www.techradar.com/news/voice-biometrics-the-new-defense-against-deepfakes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {

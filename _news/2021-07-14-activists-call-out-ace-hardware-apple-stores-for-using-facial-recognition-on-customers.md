@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Civil Rights Groups Take Aim at Facial Recognition Tech in Stores"
+    excerpt: "Three dozen civil rights organizations have called on retailers to stop using the tech, saying “prioritizing profit over privacy is wrong.”"
+    publishedDateTime: 2021-07-14T22:46:00Z
+    webUrl: "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/"
+    ampWebUrl: "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/"
+    type: article
+    provider:
+      name: Women's Wear Daily
+      domain: wwd.com
+    quality: 174
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=800%2C400&strip=all"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Tencent uses facial recognition to stop kids from gaming at night"
     excerpt: "Chinese technology and media company Tencent has revealed that it is now using facial recognition technology to stop kids in China from spending their late night hours on mobile games. In a social media post on the Chinese platform QQ,"
     publishedDateTime: 2021-07-12T08:55:00Z
@@ -67,6 +83,66 @@ related:
         width: 1200
         height: 793
         isCached: true
+  - title: "Republicans and Democrats concerned about facial recognition technology"
+    excerpt: "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,"
+    publishedDateTime: 2021-07-13T21:24:00Z
+    webUrl: "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
+    ampWebUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: WSAV-TV
+      domain: wsav.com
+    quality: 61
+    images:
+      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Congress Asks Experts for Guidance on Facial Recognition"
+    excerpt: "Law enforcement uses facial recognition systems with little oversight and, at times, disastrous impact. During a congressional hearing this week, members and experts talked through how new laws could head off greater harm."
+    publishedDateTime: 2021-07-14T23:15:00Z
+    webUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition"
+    ampWebUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 61
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/9451d55/2147483647/strip/true/crop/1095x571+18+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F67%2F8b%2Fbf2467764012829abc8b9b917271%2Frw-better.png"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "A|I: The AI Times – Scrutinizing facial recognition tech"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2021-07-14T09:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-scrutinizing-facial-recognition-tech/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 58
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/09/artificial-intelligence-4389372_12801.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Facial-Recognition Tech Gets Bipartisan Call for More Regulation"
+    excerpt: "The use of facial-recognition software by law enforcement should be regulated, a bipartisan group of lawmakers said, amid concerns of misidentification and violations of constitutional rights and due process."
+    publishedDateTime: 2021-07-13T17:35:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i35tDSsiJq1c/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Rights Coalition Demands US Retailers Reject Use of Facial Recognition"
     excerpt: "On the heels of a congressional hearing that highlighted concerns about facial recognition, more than 35 civil rights groups on Wednesday collectively called for retailers to reject the technology in their stores \"to protect the privacy and rights of shoppers and staff."
     publishedDateTime: 2021-07-14T18:47:00Z
@@ -80,6 +156,22 @@ related:
       - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-07/FacialRecognition-Russia-Store-2600x1361.jpg?h=d3fce584&itok=4suLjali"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The Technology 202: House hearing highlights the lack of oversight of facial recognition technology"
+    excerpt: "Williams later found out he was wrongfully arrested after he was falsely identified as a shoplifting suspect in January 2020 by Detroit police after they used facial recognition t"
+    publishedDateTime: 2021-07-14T08:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/14/technology-202-house-hearing-highlights-lack-oversight-facial-recognition-technology/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/07/14/technology-202-house-hearing-highlights-lack-oversight-facial-recognition-technology/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/07/14/technology-202-house-hearing-highlights-lack-oversight-facial-recognition-technology/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 45
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALRJF5VLQEI6VJB3X2PWJFFIPU.jpg&w=1440"
+        width: 1440
+        height: 1080
         isCached: true
   - title: "SoftBank backs facial-recognition startup"
     excerpt: "SoftBank Group is leading an investment in AnyVision Interactive Technologies that values the facial-recognition company at over $1bn"
@@ -97,6 +189,22 @@ related:
         width: 749
         height: 499
         isCached: true
+  - title: "US Lawmakers Urge Regulation Of Facial-Recognition Use"
+    excerpt: "Some lawmakers came out against the use of facial recognition, citing concerns about misidentification and violations of due process and constitutional rights."
+    publishedDateTime: 2021-07-14T01:47:00Z
+    webUrl: "https://www.pymnts.com/news/regulation/2021/united-states-lawmakers-urge-regulation-facial-recognition-use/"
+    ampWebUrl: "https://www.pymnts.com/news/regulation/2021/united-states-lawmakers-urge-regulation-facial-recognition-use/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/united-states-lawmakers-urge-regulation-facial-recognition-use/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Sheila-Jackson-Lee-facial-recognition-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "NAB pilots facial recognition for identity verification"
     excerpt: "NAB has piloted the same facial recognition technology as Westpac to allow consumers to verify their identity via a smartphone. The bank revealed to iTnews that it tested the service supplied by Sydney-headquartered OCR Labs. iTnews revealed in April that ..."
     publishedDateTime: 2021-07-12T02:08:00Z
@@ -111,71 +219,48 @@ related:
         width: 670
         height: 447
         isCached: true
-  - title: "Tencent To Use Facial Recognition So Kids Don’t Play Past Curfew"
-    excerpt: "For adults, playing games when they want, wherever they want isn’t an issue. But in China, to help curb addiction, the country has a law that puts a"
-    publishedDateTime: 2021-07-12T06:14:00Z
-    webUrl: "https://www.geeky-gadgets.com/tencent-to-use-facial-recognition-so-kids-dont-play-past-curfew-12-7-21/"
+  - title: "Facial recognition tech fights COVID-19 in China's Yunnan"
+    excerpt: "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a"
+    publishedDateTime: 2021-07-13T12:45:00Z
+    webUrl: "https://www.channelnewsasia.com/news/asia/facial-recognition-tech-fights-covid-19-china-yunnan-myanmar-15211714"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
     quality: 39
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/07/tencentf.jpg"
-        width: 700
-        height: 409
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15211712/16x9/991/557/efd60e103f612f36f1164ff636fceff9/pE/china-was-the-first-country-to-adopt-a-qr-code-system-to-log-covid-test-results-and-track-contacts-1626169216543-2.jpg"
+        width: 991
+        height: 557
         isCached: true
-  - title: "Tencent uses facial recognition to curb young late-night gamers"
-    excerpt: "SHENZHEN • For almost every video game restriction, children and teenagers will find a way around it.. Read more at straitstimes.com."
-    publishedDateTime: 2021-07-12T21:00:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/tencent-uses-facial-recognition-to-curb-young-late-night-gamers-0"
+  - title: "Bipartisan Calls to Regulate Facial Recognition Tech Grow Louder"
+    excerpt: "Lawmakers on both sides of the political aisle have concerns about the government’s increased use of biometric technology."
+    publishedDateTime: 2021-07-14T17:47:00Z
+    webUrl: "https://www.nextgov.com/cio-briefing/2021/07/bipartisan-calls-regulate-facial-recognition-tech-grow-louder/183761/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
+      name: Nextgov
+      domain: nextgov.com
     quality: 39
     images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/13/ST_20210713_TECH13_6682990.jpg?itok=5Y6ps2He"
-        width: 763
-        height: 509
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/07/14/AP19347785904458/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Facial Recognition Technology: Examining Its Use by Law Enforcement"
-    excerpt: "Brett L. Tolman is the founder of the Tolman Group and the executive director for Right on Crime. If one considers this technology as creating the ability to find a needle in a haystack, it seems entirely reasonable to demand the police to first know which needle they are looking for,"
-    publishedDateTime: 2021-07-13T19:41:00Z
-    webUrl: "https://www.texaspolicy.com/facial-recognition-technology-examining-its-use-by-law-enforcement/"
+  - title: "Most State Legislatures have rejected bans and severe restrictions on facial recognition"
+    excerpt: "Facial recognition technology and related legislation have been a hot topic in the media and in policy discussions around the country. The Security Industry Association (SIA) is advocating nationwide for policies ensuring responsible use and sensible ..."
+    publishedDateTime: 2021-07-12T22:00:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21230121/security-industry-association-sia-most-state-legislatures-have-rejected-bans-and-severe-restrictions-on-facial-recognition"
     type: article
     provider:
-      name: Texas Public Policy Foundation
-      domain: texaspolicy.com
-    quality: 39
+      name: Security
+      domain: securityinfowatch.com
+    quality: 30
     images:
-      - url: "https://files.texaspolicy.com/uploads/2021/06/23154309/Police-1350x759.jpg"
-        width: 1350
-        height: 759
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Facial_Recognition_System_Iden_387020311.60ecba89a36b9.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Facial Recognition Is Doing Harm Right Now. It’s Unacceptable for Lawmakers To Do Anything Other Than Ban It."
-    excerpt: "The House Judiciary Committee is holding a hearing today on facial recognition technology. They’re expected to discuss a wide range of issues including the recent GAO report on federal government use of facial recognition and the Facial Recognition and Biometric Technology Moratorium Act."
-    publishedDateTime: 2021-07-13T15:27:00Z
-    webUrl: "https://www.commondreams.org/newswire/2021/07/13/facial-recognition-doing-harm-right-now-its-unacceptable-lawmakers-do-anything"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 20
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/media_image_1x_xl/public/2021-07/merkel-white-house-3600x2367.jpg?h=5526124e&itok=T129sNw1"
-        width: 391
-        height: 221
-        isCached: true
-  - title: "Study: Facial recognition for e-voting not currently recommended"
-    excerpt: "Adding facial recognition technology to e-voting is feasible but there are additional risks that may not outweigh the benefits, a study by the State Information Systems Authority (RIA) and Cybernetica has found."
-    publishedDateTime: 2021-07-15T07:07:00Z
-    webUrl: "https://news.err.ee/1608278463/study-facial-recognition-for-e-voting-not-currently-recommended"
-    type: article
-    provider:
-      name: ERR News
-      domain: news.err.ee
-    quality: 19
 
 secured: "/dAUn/zHonRs0lutr2eewbYWB9odJ7SZP6aEw4S5ZD422PNZJyem7PVcsRJyJogvuVuqdN+Ji8fsWBv7Pu/YMi/9CumeqffGvCoCZPjWMVuYtsZOEudlhj9tFjuRVeftugm0bv6FGwrKPm8gmSuO5ZUNQODEkeT73jENVfi7LjnO4uGAEpg9wCeQBAg0SnoKbH9S7zfgDlUf6vjyv3XL8qg9LKAF34NtCa4GCX7d9xEc1lYfpSsLpBi6sijZsIEy2t4vqX5ZlOnpo/iUD/z3xkutnQXcVQgY/xTVbIMm5yX92sRbE1s/isGtOJLynDEK5ruup0zqu1zWe4CpGZOWjGXufqUPp/i2gOfc5VXGJ4DZZYovACRBfpfCzYcew2t9+Qg6hYHYHGXmXqvhLAX6IQ7PHUdtkg3Q37ojfxo3fY2mhJoDPhe1zJheC4M28GUe4NItBS+RcEisq9hIrg4LgRofpV0vj7ifO+bGqYReeOyVH6IH66pIdO9Zk96dwEwHrS4jisQ8hFFPa4JDYbFYlA==;Y+/Kp2OCZHTwIbpSfT9HDw=="
 ---

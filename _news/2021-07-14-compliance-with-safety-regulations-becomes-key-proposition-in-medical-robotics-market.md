@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/compliance-with-safety-regulations-becomes-k
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial-Recognition Tech Gets Bipartisan Call for More Regulation"
-    excerpt: "The use of facial-recognition software by law enforcement should be regulated, a bipartisan group of lawmakers said, amid concerns of misidentification and violations of constitutional rights and due process."
-    publishedDateTime: 2021-07-13T17:35:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i35tDSsiJq1c/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "'Self-driving Delivery Robot' Caught by Regulations... Concerns Falling Behind in Global Competition"
     excerpt: "Self-driving delivery robots are developing one after another, but there is still a long way to go before full-scale commercialization due to various outdated regulations. Technology development is sl"
     publishedDateTime: 2021-07-15T08:23:00Z
@@ -57,22 +43,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "US Lawmakers Urge Regulation Of Facial-Recognition Use"
-    excerpt: "Some lawmakers came out against the use of facial recognition, citing concerns about misidentification and violations of due process and constitutional rights."
-    publishedDateTime: 2021-07-14T01:47:00Z
-    webUrl: "https://www.pymnts.com/news/regulation/2021/united-states-lawmakers-urge-regulation-facial-recognition-use/"
-    ampWebUrl: "https://www.pymnts.com/news/regulation/2021/united-states-lawmakers-urge-regulation-facial-recognition-use/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/united-states-lawmakers-urge-regulation-facial-recognition-use/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Sheila-Jackson-Lee-facial-recognition-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Ai In Medication Management Market"
     excerpt: "The Global Ai In Medication Management Market Report is a study of prevailing drivers, trends, forecast, and restraints in the global landscape. The report is the latest addition to the vast data ..."
     publishedDateTime: 2021-07-12T10:48:00Z
@@ -82,6 +52,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
+  - title: "SanLucar receives the Economía 3 Award in recognition of its international projection"
+    excerpt: "The multinational firm SanLucar, devoted to the production and distribution of premium quality fruit and vegetables, has received the Economía 3 Award for Internationalization."
+    publishedDateTime: 2021-07-15T13:27:00Z
+    webUrl: "https://www.freshplaza.com/article/9339442/sanlucar-receives-the-economia-3-award-in-recognition-of-its-international-projection/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 17
+    images:
+      - url: "https://agfstorage.blob.core.windows.net/misc/FP_es/2021/07/14/sanlucar.JPG"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "2PeBxXm2PKNKn/FCGMBJZaIZn8UVC3a5SnNqVer1gj0BBeWRSap+vZsU4ad91+DhevE6yuz8Wa1Solunz/6RbqgTD4HMU4KSBwuYbT8RAsZ2JvCm9c9he3/7Zy3W5oq5fY/FRuWygDlUAgwHY6NfSFBzfHSOv10EziKcwVD3RfLMHj3iazZdhaIhOEwDu+TV5+aVEYBtZhKCr3dk5+7Lsl2nb7pCErzY+mo4nYtEFcUdlZrUmdUWAyiap8OOxlb2po1UU3OJa8JFxIufRlRNw09ncdLE4QIR+5j/5epY1DGbBS/53eS46ZcE2b9llP3Jr4sfjYWFWQl/HK3CXTrf3f7RdcH3ytkyEgkUaCYFCKnGcALiQmQTH5qLbA9bt9u663eOyHQAUVjgl9jiHjoXrUNFhtaWicvkBzkFpM+L3DmMeg+d7V1x4eFbIcTbpx469FkIsZCxcsinWer30Gy9C9zfPqCZnvxKRz1m2pVvsp8Yce8PCcp9jjJDUtd1v0YBJjWz6WzfjKYooA+0f2AGCQ==;YUjeVO5J3/5miVgUVuJ2ag=="
 ---

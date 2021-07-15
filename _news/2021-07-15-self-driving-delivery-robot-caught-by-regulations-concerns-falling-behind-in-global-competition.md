@@ -44,36 +44,6 @@ related:
         width: 1267
         height: 912
         isCached: true
-  - title: "Facial-Recognition Tech Gets Bipartisan Call for More Regulation"
-    excerpt: "The use of facial-recognition software by law enforcement should be regulated, a bipartisan group of lawmakers said, amid concerns of misidentification and violations of constitutional rights and due process."
-    publishedDateTime: 2021-07-13T17:35:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i35tDSsiJq1c/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "US Lawmakers Urge Regulation Of Facial-Recognition Use"
-    excerpt: "Some lawmakers came out against the use of facial recognition, citing concerns about misidentification and violations of due process and constitutional rights."
-    publishedDateTime: 2021-07-14T01:47:00Z
-    webUrl: "https://www.pymnts.com/news/regulation/2021/united-states-lawmakers-urge-regulation-facial-recognition-use/"
-    ampWebUrl: "https://www.pymnts.com/news/regulation/2021/united-states-lawmakers-urge-regulation-facial-recognition-use/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/united-states-lawmakers-urge-regulation-facial-recognition-use/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Sheila-Jackson-Lee-facial-recognition-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Ai In Medication Management Market"
     excerpt: "The Global Ai In Medication Management Market Report is a study of prevailing drivers, trends, forecast, and restraints in the global landscape. The report is the latest addition to the vast data ..."
     publishedDateTime: 2021-07-12T10:48:00Z
@@ -83,6 +53,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
+  - title: "SanLucar receives the Economía 3 Award in recognition of its international projection"
+    excerpt: "The multinational firm SanLucar, devoted to the production and distribution of premium quality fruit and vegetables, has received the Economía 3 Award for Internationalization."
+    publishedDateTime: 2021-07-15T13:27:00Z
+    webUrl: "https://www.freshplaza.com/article/9339442/sanlucar-receives-the-economia-3-award-in-recognition-of-its-international-projection/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 17
+    images:
+      - url: "https://agfstorage.blob.core.windows.net/misc/FP_es/2021/07/14/sanlucar.JPG"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "qbBBqrbMuIYbVtcSz/TZ3yPb/CY0VBTTfL50VVnoX/IkTn7fM+0YUAVrRCus2V59uugqTIgkrmEUm9Tt8zyf1qqnYANs/6qXwQiF/oUqryG179CIOWeHhCexwXgSj4w/0qpDN2Km3QZ5MPMrsXFM+ikB159Z5JlJdYAoL6n32kT9dFuEmBzt9xUGy4dyXz+wxVcwSi1Gbzqe4+qrcfLdAUzlLOuty4G+hNm8XUY140h3JuufZpkZ80FRcefpv2RgQBTULZ+wClIF20gz/NyizRghX+OeyTshC57TPuzRMdLyaXpL1vjHFytvSPkAUC0GgTj2o3C2ohZ8kmFcbBXpb8TzJUrmKeXRxqFalm6KthQ=;/Wz9Y4rjaRr9yQLK+bU2ag=="
 ---

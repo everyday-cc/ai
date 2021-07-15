@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-14T08:47:00Z
 originalUrl: "https://www.bloomberg.com/news/articles/2021-07-14/india-ai-startup-fractal-weighs-ipo-as-pandemic-fuels-growth"
 webUrl: "https://www.bloomberg.com/news/articles/2021-07-14/india-ai-startup-fractal-weighs-ipo-as-pandemic-fuels-growth"
 type: article
-quality: 67
-heat: 88
+quality: 167
+heat: 188
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
         height: 367
         isCached: true
 
-secured: "BhDqSsjuEOIu8NeIQH0aMglC5yLq48dO7ugVaigkIVXAFGAoijn+xLmTfjvcqRAmhWfSnqMO88M+3OQXmYn7JN9IJMSE/xtdd6nyKwL1t/nD6ASnyJr3jwOhtg1D5avJ3binPZLsmr0uSLk1f0ic28SYYlbsljfFxv8AItskXv63F/GcMTM+j6Nf96qmoSp6bgi+Kg2ZVJA7t6/1Ml7BQevmL7NBsNIV4LEHvPgbiWku99+k55e/P151MDk/FscpKsYlXSlhiHH4B8f1WzY69eprhcwradTwHXXZoh6P5q6KymDpyZmQOJTsvLba8p1HXw+6LUKK3ndCShY+jaInCn8z8eAAAbEAgb1egcVloCAptw96khWvNe49Rx7NAf6QdSbRDU5D0vmUe0lHlvEftP/Dda7sVrZ/ZENUenvrT+jzswd4NWkuelfzQYhr2b4y0vZhQBal9LSia7OUKfhZsSWs7nyZ947xMW41MMrM5qawfmgdHQX9fGeiXsSOf9lVP4mzvWKBCcjBKiRFbEbIig==;45LXfbEqQvPUrhJaeW03Pw=="
+secured: "T24+GfrTZGPDRizoHxz14MaBlSeSaQO+L273fJwMYuf9Cd5oMbljOOgIwa32RUBWHMP4IKPUtBTleUP8vuoB7TMoERN86VHcDiLtIWn0qGKOqUM/eTBpsAQj0nn8DHuFVKmjCSKvN9VmCkN912WuXkNlp0n7LfMgYvnTvWmB8Tx3XF01EOk4Q6CjdvGhsJ7/4sDQ8xLvfjBt5+QUvfPU9AbqgCH+ISxvo3xVPe+BJwdGIFabDGBIl6kIwd1iBEM2E0C1RpY23SYpaiEdAcplc8Q1YQCz55Z/KdNQwkRsyLUpKsOZJdnOsnYdqVn5VhKn3CZJbQPRioQOUfsAFNQpT5iyCM/Ck5fKulScKTog7iJvgOuOplaGijYax3eU+ydUluOKsRxmtLjyezNUVAtamqPEoo9spdZ/DlLuk48KoYC53EZjISder0GA2RpskTXe4eKuqbF1A4QpAMHyvFHTGNTBfDhDqYGnk5/fO7S/KMpUNxcZK3IycGpBSMeC0V4/8GmSgGojfWv/9XE4SK2Go7agPASTbX2SycOQ+FCLOtA=;CK2Q4z7XilfX8JTxBvv1Ww=="
 ---
 

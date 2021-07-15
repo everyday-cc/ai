@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Avocor announces edge-to-edge interactive displays"
+    excerpt: "Avocor has announced the G series, a new product family of sleek, bezel-less, edge-to-edge interactive displays for workplace collaboration. Available in 65-in, 75-in, and 85-in edge-to-edge diagonals,"
+    publishedDateTime: 2021-07-15T13:06:00Z
+    webUrl: "https://www.inavateonthenet.net/products/article/avocor-announces-edgetoedge-interactive-displays"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 24
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1626354228/widgetdocs/Hero2.713_iuzzfp.png"
+        width: 750
+        height: 469
+        isCached: true
 
 secured: "O3STLa7owCabXUL1JSaVWpUhl4ysypyoEX+afDsuN0raGtYHmk3z7GqDRJVo2tWpE65OYDBJQr91FBhZWCVuZcmqwvfsOXVHAOykLyOp4eE20kcUJ1lLora4rabELmk6GL8hoaXbPzrgLv9h9bXYHGj/ypW0zFHg6SYiyL9WAN3nDElgF76iHbgyb/J32TVY0UkTze2WWbgAhnjVVFBvgScnej48JqcJP0V0supFg4I4zq1Q4huaZjFWRil7G22FkBFYEntyLGpZOmSG8wSsWhWZRNf7TQv16LDE+f6Nvbq+UXAELAdwVeIJkV1f834W35Z84+rHnlEqaUsUIK+SA9t7aQLMoCXzhIYDtUcaJW9fpbL/5I2r1o+ibzah7XVfHEtRaEtoZz4bzmgtYPBoBhloGzK7gp1ymoPSCeLC7CdaaHfgywo3b9vUAWrHdn43keTY6CNsP13kgc1iJXAXskqAkCwiYwvUOcsJZFs1lTdGsZ/9d1K8CUG9JE8Jx82Sq3w1n69qHbd14SlW2sXOZQ==;f3UbMIWtm5mQ1/AXJBtFsw=="
 ---

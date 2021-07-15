@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-e
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
 type: article
 quality: 105
-heat: 355
+heat: 325
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/1c28c35/2147483647/strip/true/crop/2160x1440+200+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6b%2F41%2Feaa0d9a542708d5fd3d7bb6c8a5d%2Fscreen-shot-2021-07-12-at-5.07.48%20pm%20%282%29.png"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Tesla finally launches Full Self-Driving beta 9"
-    excerpt: "Tesla's Full Self-Driving (FSD) beta 9 – or update 2021.4.18.12 – started rolling out at midnight on Friday, allowing users to activate some of Autopilot's advanced"
-    publishedDateTime: 2021-07-10T20:08:00Z
-    webUrl: "https://www.techspot.com/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90377-tesla-finally-launches-full-self-driving-beta-9.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/07/2021-07-10-image-8.jpg"
-        width: 2032
-        height: 1299
         isCached: true
   - title: "Tesla Full Self-Driving Beta 9.0 enters early access"
     excerpt: "While having a computer crash or a smartphone not make calls isn’t catastrophic, beta testing software for fully self-driving vehicles by the public is somewhat concerning. Tesla is reportedly rolling out an early access program for the Full Self-Driving ..."
@@ -190,20 +174,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Tesla Releases Ninth 'Full Self-Driving' Beta Two Years After It Was Promised"
-    excerpt: "Tesla has released the ninth beta of its Full Self-Driving (FSD) software to vehicle owners who have purchased the not-quite-autonomous driving feature. The Verge reported that the update was supposed to debut in August 2018,"
-    publishedDateTime: 2021-07-10T19:09:00Z
-    webUrl: "https://in.pcmag.com/cars-auto/143664/tesla-releases-ninth-full-self-driving-beta-two-years-after-it-was-promised"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 66
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/t/tesla-rele/tesla-releases-ninth-full-self-driving-beta-two-years-after_9fhh.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Elon Musk says Tesla Vision will soon detect turn signals, hand gestures"
     excerpt: "Tesla's latest full self-driving Beta v9 software update is currently being tested on 2,000 vehicles via the early access program..CEO Elon Musk says the Tesla Vision system being used in the latest software update will also be able to listen to sirens and alarms."
     publishedDateTime: 2021-07-12T12:39:00Z
@@ -219,22 +189,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/07/12/600x338/2021-06-02T110005Z_1133997531_RC2BSN92RQ28_RTRMADP_3_TESLA-AUTOPILOT-EXPLAINER_1622688642691_1626093263831.JPG"
         width: 600
         height: 338
-        isCached: true
-  - title: "Tesla finally releases 'Full Self-Driving' Beta version"
-    excerpt: "Elon Musk-run Tesla on Saturday started releasing over-the-air software updates for its much-awaited \"Full Self-Driving\" Beta version 9."
-    publishedDateTime: 2021-07-10T19:31:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/tesla-finally-releases-full-self-driving-beta-version/84305403"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/tesla-finally-releases-full-self-driving-beta-version/84305403"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/tesla-finally-releases-full-self-driving-beta-version/84305403"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-84305403,imgsize-714624,width-800,height-434,overlay-etauto/tesla-finally-releases-full-self-driving-beta-version.jpg"
-        width: 800
-        height: 434
         isCached: true
   - title: "Musk Claims Full Self-Driving With Tesla Vision Will Detect Turn Signals, Listen For Emergency Sirens"
     excerpt: "Tesla finally released its FSD Beta v9 software to a limited number of owners. The software leverages Tesla Vision to analyze what's going on around the vehicle at all times and take necessary action for adjusting speed,"

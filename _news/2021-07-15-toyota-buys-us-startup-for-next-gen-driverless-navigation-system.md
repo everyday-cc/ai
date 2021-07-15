@@ -9,8 +9,8 @@ ampWebUrl: "https://www.laprensalatina.com/toyota-buys-us-startup-for-next-gen-d
 cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/toyota-buys-us-startup-for-next-gen-driverless-navigation-system/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: La Prensa Latina
@@ -39,6 +39,20 @@ related:
     images:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FThis-Car-Rental-App-Uses-5G-To-Power-Driverless-Vehicles-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
+        height: 480
+        isCached: true
+  - title: "Tantech Subsidiary Starts Accepting Orders for Innovative Driverless and Manned Street Sweepers; Inventory Built to Fulfill Initial Customer Orders"
+    excerpt: "Tantech Holdings Ltd (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary, Lishui Smart New Energy Automobile Co., Ltd., started accepting customer orders on July 15,"
+    publishedDateTime: 2021-07-15T13:20:00Z
+    webUrl: "https://www.lelezard.com/en/news-19904364.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 1
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/mining-industry.jpg"
+        width: 640
         height: 480
         isCached: true
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-07-customers-react-chatbots.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-customers-react-chatbots.amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1440
     height: 1377
     isCached: true
+
+related:
+  - title: "AI-Based Chatbots Speed Up Intelligent Talent Recruitment"
+    excerpt: "Intelligent chatbots are proving that there’s no talent shortage when you know how to personalize employee recruitment."
+    publishedDateTime: 2021-07-15T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/"
+    ampWebUrl: "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d9c7f4d73f511129de383c%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "GHdlhgshh9giSKXeUYvy0NIUTSGlEaepF7ueOUQ5EkevDAKMtOuoDB4UNDzMbyxq5us2ZFh3XR7Td6/Ugw2zK0TZE5g4TPkLEz+czptJtmFnlPFEXXeRRZsZ7pYFQo0DaQJwQnTcO3+EBAEVb67iep1DwocMCUpN3kqaGQSgi/dyIUsXvnqmTkAgIkyNemO/PLfWjQNigyVxnNZGDDSQ/pSdRbyb0GqLNZT8htX47AvIBz8opesIeJMRmW9Pg8xjusC3LQm9/sZ4RucfA2h1ZVPhgD3NykREdJpZuTFqthLvfJjZ7/7d37t3HO34yIsJsPRd5m2O0yxfvSUdS6eEd0t3rUfAIU18tPwCSXCZkDi/R97fsXR2QTSGMt2w0sai2p9TaTYM5sY77I6yA2MOPq4w+tJ6ZpMBuIxZ8hiyNXSOVg+b/EsooBkyNST4svkbCQCq0zaAYFhlmtBi2FtuxvbcZl/7Gkcqe846xD36FvrKTdSdcOz9+INwNKtMoKhEJqqcpa9HwyPsfWqLTxI73w==;VhoIyw7EeETeexTOlwPiRQ=="
 ---

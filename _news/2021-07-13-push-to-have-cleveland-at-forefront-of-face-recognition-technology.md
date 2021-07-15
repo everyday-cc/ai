@@ -55,6 +55,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Is It Time to Regulate Facial Recognition and Other ‘Frontier’ Police Technology?"
+    excerpt: "As developments in law enforcement technology regarding DNA evidence matching and facial recognition software have begun \"pushing the frontiers of forensics,\" advocates warn that without oversight and proper understanding of the technology,"
+    publishedDateTime: 2021-07-14T15:06:00Z
+    webUrl: "https://thecrimereport.org/2021/07/14/is-it-time-to-regulate-facial-recognition-and-other-frontier-police-technology/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 34
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/01/24198752177_b4a3ef561d_k-1170x878.jpg"
+        width: 1170
+        height: 878
+        isCached: true
 
 secured: "6pAYBh680UzvCY4sMn9xXyBYFan4i2UpgRqbbJZiocAPeSAQ+OATg6D0kz4ZbmdZ2Ow9udRZGNY4I5t/X2hweNRaM1lKZKTUcZdQIM2rFQaNY5g7OmazsBd4PYNnDtYQP/NrjfXg6LX1BlmUa8MytWYf2mpu0viZZKy93KRS/aVnzr6CnQvlUAqViXz55w7eJJ5ZDAVqSO8bRGieTHHz9khmHutfU4Tv8UnT6xX3AwH2ubJdao4pa4jCZftIs4SnMKJ70fW3sYvYMKL/4EVrJpboFnwXXkPFJiwrCTmucDz/a8gqa8VPVELgieuOs1OIB5PhWDbl/MN5A1IGORtuPgYHW7RfwjrvA4wbRoXBnl8=;3deRzpEtIeiqDpOFx9arWw=="
 ---

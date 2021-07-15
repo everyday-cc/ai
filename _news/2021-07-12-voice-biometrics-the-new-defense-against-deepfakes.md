@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/voice-biometrics-the-new-defense-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/voice-biometrics-the-new-defense-against-deepfakes"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Using face biometrics and age estimation to create a safer internet for children"
+    excerpt: "The use of facial analysis and age estimation technologies powered by machine-learning algorithms is already capable of creating a safer internet for children."
+    publishedDateTime: 2021-07-15T13:36:00Z
+    webUrl: "https://www.biometricupdate.com/202107/using-face-biometrics-and-age-estimation-to-create-a-safer-internet-for-children"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/15130915/online-age-verification-scaled.jpeg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "ZjuUzrmd8W6K0AP4O7Qs+27sMLxv9teUjm2KYAzUse3AFEucmTEmulW5EYVZKKKAt6zVVZWgQVBlXAeNzKwuXwEh514djiEGYGoY1YGBswpeoPsix2+JYeW4meZcCNiA2V1dhB85SdHRhuBJviWZpY0qoYyHe0uatf1dRwUgiLrinhq7Djd6yAd3NJtczOpjB+oKuRIUZxptBw0pGqMJrbmivFihddV5A/Z+lDOH5TnhIKLxTWMUVRa8NqbC08Hll8EqGN1G4io3S6+FK9EIngfGwp6cwn5NmXRTgv5IAH9UotGwWigs2KY1b2VoDFTsmku4dd0IDsWmunqy0TrRpW+TTbLLl4Px4hvLMRZYKi0=;K5HoNP8jmogwqcyDKD+HNg=="
