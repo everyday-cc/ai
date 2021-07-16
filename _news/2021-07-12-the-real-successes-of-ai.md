@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60edae973c02fcc76f59d7ab%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1271%26cropY1%3D1%26cropY2%3D716"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI in the courts"
-    excerpt: "Artificial Intelligence can help reduce pendency of cases, increase efficiency of judiciary. But before its adoption in the legal system, challenges related to privacy, data protection and other ethical issues must be addressed."
-    publishedDateTime: 2021-07-11T11:51:00Z
-    webUrl: "https://indianexpress.com/article/opinion/artificial-intelligence-in-the-courts-7399436/"
-    ampWebUrl: "https://indianexpress.com/article/opinion/artificial-intelligence-in-the-courts-7399436/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/artificial-intelligence-in-the-courts-7399436/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 61
-    images:
-      - url: "https://images.indianexpress.com/2021/07/Gavel-4.jpg"
-        width: 1200
-        height: 667
         isCached: true
   - title: "Panasonic launches i-PRO multi-AI system to enhance the power of their AI cameras and applications"
     excerpt: "Panasonic announces the i-PRO multi-AI system designed to harness the power of its latest AI cameras and applications by integrating them seamlessly into existing CCTV"

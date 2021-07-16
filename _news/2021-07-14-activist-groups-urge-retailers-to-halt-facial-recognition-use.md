@@ -61,22 +61,6 @@ related:
         width: 620
         height: 310
         isCached: true
-  - title: "Tencent taps facial recognition to stop kids in China from gaming past curfew"
-    excerpt: "Tencent has announced that it is now using facial recognition to enforce China’s gaming curfew for minors, one that forces them to play games only during allotted hours during the day and to turn off their games by 10 PM. The law, which has proven ..."
-    publishedDateTime: 2021-07-11T13:00:00Z
-    webUrl: "https://www.slashgear.com/tencent-taps-facial-recognition-to-stop-kids-in-china-from-gaming-past-curfew-11682003/"
-    ampWebUrl: "https://www.slashgear.com/tencent-taps-facial-recognition-to-stop-kids-in-china-from-gaming-past-curfew-11682003/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tencent-taps-facial-recognition-to-stop-kids-in-china-from-gaming-past-curfew-11682003/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 86
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/tencent-facial-recognition-enforce-curfew.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "These retail giants are monitoring you with facial recognition, say campaigners"
     excerpt: "Campaigners created a list of retail giants they say are using facial recognition in their stores. The group has called for the practice to be banned."
     publishedDateTime: 2021-07-15T16:58:00Z

@@ -2,25 +2,27 @@
 category: news
 title: "Accurate protein structure prediction now accessible to all"
 excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
-publishedDateTime: 2021-07-16T01:38:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/07/210715142340.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/07/210715142340.htm"
+publishedDateTime: 2021-07-15T18:03:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-07/uows-aps070921.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uows-aps070921.php"
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/270310_web.jpg"
+    width: 720
+    height: 480
+    isCached: true
 
 related:
   - title: "New, neural network offers accurate prediction of protein folding"
@@ -52,6 +54,6 @@ related:
         height: 720
         isCached: true
 
-secured: "jD+aUn/g+w38MwobnhN2kQ7Fs22Ewu3uNGxjiNYY4NBKmfNJgmiDh+ulevcxALJBq4oBpYINkYhGTaXOFrJc/Bb70abBv1LQQx6bpZ+wnwwVfAsrpdjqaE00LWWLU30BSndTxLXZ56Kohp2/Z45MczhqTsPCivNpZ8jBwTTwtFSeH73v/R6sA4A8/IgogK6QWfz1sglM6TGt4bvc1o0FA7p2P6ZwtUQymPfuC2vRR7ozt2nPGiUusPB+kpRnkxcGHitx7u3w46TDG7AcTTCdtu3fRQYxzU3svWYI2HPVVsTvZ7E6okFuFpBH0OA/4/6xbiKHoVfXMvuwjyh65updyLoZeUrOFvn54KTywfMerqU=;Z5yUMgXRVcSQy8iahfc7/A=="
+secured: "n8RV85lzCe5p1OUoK8aX9i+Y4ydTGeN+GkWugUZ+2hAPF9yOwNmxy4Mo7GgfKhgOzMg/Bi2gaIE9EzRNJwDiKHE/Zjbi4Qmz53PMeoaddUE+mEJlPCCkeh0Js6ubRCjeriBXcxrVo9W4Ltv/b7cOGWR54+MvXTM2wzrrrZpugyCybRFkhwHc1r1zfjp6vf4iKhj1vtZVEVrGNGaeot4NpbRXn+oWfg5n0TcjRsAKHKQ1tcLJZksAbkoLUDxwZ4H5t6gpMgDaBycGFFiMMVLmAuV1iggkF/iOHOvMhWK7bAcwPt85qmTylmGeByi6gs8kEkCp/x4GKzKt02FzKnzLWcvzs5bBYFGt/5p8Bbbcgpw=;2YxIGLhmEliTkQx4sWjnHg=="
 ---
 

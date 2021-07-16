@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-07-new-cheat-software-claims-to-work-on-any-console-via-machine-learning.md",
+      "title": "New cheat software claims to work on ‘any console’ via machine learning",
+      "excerpt": "A new piece of cheat software claims to utilise machine learning to allow players to use auto aim on “any console”. The software, which was highlighted by anti-cheat group ACPD, reportedly utilises PC passthrough via network streaming or a capture card to bypass console platform security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/",
+      "originalUrl": "https://www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogameschronicle.com/files/2020/12/Black-Ops-Cold-War-Warzone-Season-1-wwe.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-videogameschronicle-com.cdn.ampproject.org/c/s/www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/amp/",
+      "publishedDateTime": "2021-07-07T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Video Games Chronicle",
+        "domain": "videogameschronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-transforming-the-insurance-industry-with-big-data-machine-learning-and-ai.md",
+      "title": "Transforming The Insurance Industry With Big Data, Machine Learning, And AI",
+      "excerpt": "An emerging wave of “Insurtech” solutions companies are seeking to transform the business of insurance through the introduction of Big Data, Machine Learning, and AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e4d5d325abdbff999bebbe%2F0x0.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/07/06/transforming-the-insurance-industry-with-big-data-machine-learning-and-ai/amp/",
+      "publishedDateTime": "2021-07-06T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-real-time-prediction-of-covid-19-patients-health-situations-using-artificial-neural-networks-and-fuzzy-interval-mathematical-modeling.md",
       "title": "Real-time prediction of COVID-19 patients health situations using Artificial Neural Networks and Fuzzy Interval Mathematical modeling.",
       "excerpt": "At the end of 2019, the SARS-CoV-2 virus caused an outbreak of COVID-19 disease. The spread of this once-in-a-century pathogen increases demand for appropriate medical care, which strains the capacity and resources of hospitals in a critical way.",
@@ -1250,92 +1345,6 @@
       "provider": {
         "name": "La Vanguardia",
         "domain": "lavanguardia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-machine-learning-identifies-new-brain-network-signature-of-major-depression.md",
-      "title": "Machine learning identifies new brain network signature of major depression",
-      "excerpt": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
-      "originalUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/06/26/brain-network-signature.jpg?itok=FT-QWUJF",
-          "width": 560,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
-      "publishedDateTime": "2021-06-26T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-deep-neural-networks-market-top-manufacturers-size-business-scenario-share-growth-insights-industry-analysis-trends-and-forecasts-report.md",
-      "title": "Deep Neural Networks Market Top Manufacturers, Size, Business Scenario, Share, Growth, Insights, Industry Analysis, Trends and Forecasts Report 2027",
-      "excerpt": "The market intelligence report further offers hard to find data derived from attractiveness analysis that narrates a lot about the products, regions and applications expected to generate more revenue.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/06/26/deep-neural-networks-market-top-manufacturers-size-business-scenario-share-growth-insights-industry-analysis-trends-and-forecasts-report-2027/",
-      "originalUrl": "https://ksusentinel.com/2021/06/26/deep-neural-networks-market-top-manufacturers-size-business-scenario-share-growth-insights-industry-analysis-trends-and-forecasts-report-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/4-57-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
         "images": null,
         "publishers": null,
         "authors": null

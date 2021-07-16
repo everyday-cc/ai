@@ -73,15 +73,6 @@ related:
         width: 1240
         height: 587
         isCached: true
-  - title: "Facebook – Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing"
-    excerpt: "Facebook - Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing -"
-    publishedDateTime: 2021-07-11T12:30:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 36
 
 secured: "LvGZ9R5oV1iW0tb1CjxQvi7a2v7l71/cmAY6honSf9UrLajMbfq1F5qXRSnyxHGHz2+Wk2v7voNmEFqrHYOqvTcLkerWI30f7BOguvA/UeFDo6F3Urv6ERS+C0Lvx9kDIN9UBcfGFyzfxxelisYOft3vim9BBZ90w/3k1CEWWSmvbVmVqK/qRgxQDoWIPaIsP8EBm9he/YxX11yW5rpSmzetbs5s0KiolCi9PvJ3y0Q59uxwDot8x9jaYe99Pv019kRhx9vWdhEfk5fvgYcp+7WZiMkiwKyQw1N+CcqL/wcsNl234/KblwlKU3RkvsYtXPs93QIPSTU0NSsoDtasj0nfBUqXFabpZJX+9zlCg3OUj0gc8yBovQ+WIGLSY5267bLDJ88xGe0P14XBWybeMcDwo42vpUwSvrM29QsAn7CPxiv0kCiuqjRODJazBxeBpiYKnEEFdxouNrTXWg8em5asjh51EHOb6TU1yb3DEpmmPJvJXFnnNEX4dkQ+JpaHqn2gOcQlwfQ1xsZQyTZ03w==;g6PdRamUflkFHDAqI+L0Bg=="
 ---

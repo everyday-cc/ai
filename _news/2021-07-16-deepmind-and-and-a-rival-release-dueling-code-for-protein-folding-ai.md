@@ -7,7 +7,7 @@ originalUrl: "https://www.statnews.com/2021/07/15/deepmind-alphafold-rosettattaf
 webUrl: "https://www.statnews.com/2021/07/15/deepmind-alphafold-rosettattafold-protein/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind and a rival release dueling code for protein-folding AI"
+    excerpt: "The race to release both teams’ code reflects not just an advance for computational biology, but for a culture of transparency in the field."
+    publishedDateTime: 2021-07-15T18:00:00Z
+    webUrl: "https://www.statnews.com/2021/07/15/deepmind-alphafold-rosettattafold-protein/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 54
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2018/03/AdobeStock_153240764-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "DeepMind’s AI for protein structure is coming to the masses"
     excerpt: "Machine-learning systems from the company and from a rival academic group are now open-source and freely accessible."
     publishedDateTime: 2021-07-15T18:05:00Z

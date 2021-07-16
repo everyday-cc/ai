@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-15-tecno-camon-17-17-pro-launched-in-india-with-90hz-displays-and-mediatek-chips.md",
+      "title": "TECNO CAMON 17, 17 Pro launched in India with 90Hz displays and MediaTek chips",
+      "excerpt": "TECNO has officially debuted the TECNO CAMON 17 series in India. The brand has introduced two models for the country, namely TECNO CAMON 17 and TECNO CAMON 17 Pro. These phones offer high refresh rate displays,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/07/15/tecno-camon-17-pro-india-launch-price-specs-features/",
+      "originalUrl": "https://www.gizmochina.com/2021/07/15/tecno-camon-17-pro-india-launch-price-specs-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/06/Tecno-Camon-17-Pro-Review-05.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-insights-on-the-31-billion-robotics-global-market-to-2025-impact-analysis-of-covid-19.md",
+      "title": "Insights on the $31 Billion Robotics Global Market to 2025 - Impact Analysis of COVID-19",
+      "excerpt": "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double digit CAGR over the forecast period of 2021 - 2025. The adoption of robots across a wide range of industries including manufacturing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-toyota-buys-us-startup-for-next-gen-driverless-navigation-system.md",
       "title": "Toyota buys US startup for next-gen driverless navigation system",
       "excerpt": "Toyota Motor announced Thursday that it acquired America-based Carmera that provides the next-gen navigation system for driverless vehicles. The Japanese carmaker acquired the artificial intelligence and maps firm through the newly created subsidiary Woven Planet dedicated to automated mobility.",
@@ -93,6 +197,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit.md",
+      "title": "IBM unveils first machine-learning end-to-end pipeline starter kit",
+      "excerpt": "IBM is announcing a new addition to its open source Cloud-Native Toolkit that will allow developers to integrate their AI and ML applications \"to cloud-native environments and optimize scalable, reliable deployments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
+      "publishedDateTime": "2021-07-14T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -253,7 +400,7 @@
       "originalUrl": "https://wwd.com/business-news/technology/civil-rights-groups-protest-facial-recognition-tech-stores-1234882271/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 354,
+      "heat": 344,
       "tags": null,
       "images": [
         {
@@ -1070,163 +1217,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-announcing-nominees-for-the-2021-women-in-ai-awards.md",
-      "title": "Announcing nominees for the 2021 Women in AI Awards",
-      "excerpt": "As part of Transform 2021, we’re excited to announce the full list of nominees for the third annual Women in AI Awards.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/announcing-nominees-for-the-2021-women-in-ai-awards/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/announcing-nominees-for-the-2021-women-in-ai-awards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/WIAI-Awards.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/announcing-nominees-for-the-2021-women-in-ai-awards/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/announcing-nominees-for-the-2021-women-in-ai-awards/amp/",
-      "publishedDateTime": "2021-07-14T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions.md",
-      "title": "Facebook AI researchers create a robot able to adapt to rapidly changing conditions",
-      "excerpt": "Work is being performed all around the world to give robots more human-like abilities. One of the key human-like abilities that researchers want robots to have is the ability to react in real-time",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/",
-      "originalUrl": "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/ai-robot.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/",
-      "publishedDateTime": "2021-07-14T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-microsoft-azure-receives-new-features-and-enhanced-migration-services.md",
-      "title": "Microsoft Azure receives new features and enhanced migration services",
-      "excerpt": "Microsoft announced a host of enhanced products across Azure, including the Azure Migration and Modernization Program.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/",
-      "publishedDateTime": "2021-07-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

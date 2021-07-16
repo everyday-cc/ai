@@ -2,28 +2,19 @@
 category: news
 title: "Anivive Announces Publication Highlighting the First Successful Use of Artificial Intelligence in Diagnosing Valley Fever in Dogs"
 excerpt: "Anivive, a pet health technology company transforming the therapeutic discovery and development process, announced the publication of \"Detecting Pulmonary Coccidioidomycosis (Valley fever) with Deep Convolutional Neural Networks,"
-publishedDateTime: 2021-07-07T17:20:00Z
-originalUrl: "https://www.lelezard.com/en/news-19891775.html"
-webUrl: "https://www.lelezard.com/en/news-19891775.html"
+publishedDateTime: 2021-07-07T17:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-anivive-announces-publication-highlighting-first-successful-use-artificial-/2021/07/07/9404679.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-anivive-announces-publication-highlighting-first-successful-use-artificial-/2021/07/07/9404679.htm"
 type: article
-quality: 10
-heat: 10
-published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
+  - Machine Learning
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "1NQw5aHZSpvHBfer0/D0/ds3W3TYDFxWJX6guVp0ks+QIv9PgJjk6SjATs5lAFLA9iWzMmEAuXK9549J+5VWxxAQ9gW5JjfhCvYmFBiem32NyGl9NplKnxPNxNHp9VxKU33stXbI/x5UiADgjm3bcvsR2LR0xQ72UxyeKA0Hr2J3j/cUUWo4yqzWnw9TTioZJaYtff3TLjyYW0q1MfLfFzVu8ou/FGO1rmmFXYtFsEBzU9b1acOmhTDNMTypaR9wXC5NX48q9cNJrl1nkTNmux93Cc6IlPn+TjMDn033niENR3yZCj3/uENvIPqRtXLHVVf/qCQ87eZUH1mfNSH2kLWgnfCSVG15iPY9ENLCrVU=;PF1OrpsEdX7C/MUCrMKI+g=="
+secured: "9WkW5yr1Vv9h4ni7PET//jVuqo42KLX9rnR8mldFkoqfqbt742n4n1Eyzq4E65+eKD0vkeI6MM1csYDxbWYkiL7BMhk6F30r/yPDuiC5ZdVT/bz3nsWeS+Vc9Uhh5BnG8q+uvM0nXvGU+xE03ZgOYF9BCKpkEou8rwWXtYm9alJI4Buv2xwGrvG9lxm09ReY+NABjHWWi2Rd9/9J6kOS2z694d4CLxKNbMWl6mmJoj4NU0ivcH4XXCxjAg3DFPmGhWM2LQBcmPWCZEbgitAOszqXGDQzttUiYXhjmnmpV/8JFkun0s07d+v+rTgWVzADSsjGbjUiniW4vvo+eV/8W7IAu8k6nCKT16xim31r6CA=;K7aneC6E1dBV1be0nfTiEQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-cam
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/"
 type: article
 quality: 174
-heat: 354
+heat: 344
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://sm.mashable.com/t/mashable_sea/photo/default/tencent-china-kids-facial-recognition-gaming-header_9zph.620.png"
         width: 620
         height: 310
-        isCached: true
-  - title: "Tencent taps facial recognition to stop kids in China from gaming past curfew"
-    excerpt: "Tencent has announced that it is now using facial recognition to enforce China’s gaming curfew for minors, one that forces them to play games only during allotted hours during the day and to turn off their games by 10 PM. The law, which has proven ..."
-    publishedDateTime: 2021-07-11T13:00:00Z
-    webUrl: "https://www.slashgear.com/tencent-taps-facial-recognition-to-stop-kids-in-china-from-gaming-past-curfew-11682003/"
-    ampWebUrl: "https://www.slashgear.com/tencent-taps-facial-recognition-to-stop-kids-in-china-from-gaming-past-curfew-11682003/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tencent-taps-facial-recognition-to-stop-kids-in-china-from-gaming-past-curfew-11682003/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 86
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/tencent-facial-recognition-enforce-curfew.jpg"
-        width: 1440
-        height: 810
         isCached: true
   - title: "Activist Groups Urge Retailers to Halt Facial Recognition Use"
     excerpt: "A new coalition of civil rights organizations is calling on retailers to stop using facial recognition tools to screen shoppers, saying the technology can lead to abuses."

@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI in the courts"
-    excerpt: "Artificial Intelligence can help reduce pendency of cases, increase efficiency of judiciary. But before its adoption in the legal system, challenges related to privacy, data protection and other ethical issues must be addressed."
-    publishedDateTime: 2021-07-11T11:51:00Z
-    webUrl: "https://indianexpress.com/article/opinion/artificial-intelligence-in-the-courts-7399436/"
-    ampWebUrl: "https://indianexpress.com/article/opinion/artificial-intelligence-in-the-courts-7399436/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/artificial-intelligence-in-the-courts-7399436/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 61
-    images:
-      - url: "https://images.indianexpress.com/2021/07/Gavel-4.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Panasonic launches i-PRO multi-AI system to enhance the power of their AI cameras and applications"
     excerpt: "Panasonic announces the i-PRO multi-AI system designed to harness the power of its latest AI cameras and applications by integrating them seamlessly into existing CCTV"
     publishedDateTime: 2021-07-14T12:15:00Z

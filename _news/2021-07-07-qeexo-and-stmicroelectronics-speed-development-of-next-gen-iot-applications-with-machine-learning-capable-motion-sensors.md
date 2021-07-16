@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Qeexo and STMicroelectronics Speed Development of Next-Gen IoT Applications with Machine-Learning Capable Motion Sensors"
-excerpt: "Our one-click, fully-automated Qeexo AutoML platform allows customers to leverage sensor data to rapidly build machine learning solutions for highly constrained environments with applications in industrial, IoT, wearables, automotive, mobile, and more."
-publishedDateTime: 2021-07-07T09:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors-2021-07-07"
-webUrl: "https://www.marketwatch.com/press-release/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors-2021-07-07"
+excerpt: "Our one-click, fully-automated Qeexo AutoML platform allows customers to leverage sensor data to rapidly build machine learning solutions for highly constrained environments with applications in ..."
+publishedDateTime: 2021-07-07T15:00:00Z
+originalUrl: "https://www.wallstreet-online.de/nachricht/14127293-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors"
+webUrl: "https://www.wallstreet-online.de/nachricht/14127293-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors"
+ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/14127293-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors"
+cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14127293-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: wallstreet online
+  domain: wallstreet-online.de
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "bsaExkIJnHxeSG1S0kY5CD/c5nqPH+RLoL1Ypc9quEovWVg3ifGEK4Xj6WU3Xzz2yRKCSiHfzasKj1Go2DfbAaTsnBODW8aV0THQ9o81ApvzjTpvcCtITDkB0NXrbg9ECZx0//5YE+1d+EXinHk82MUkesmJxhG6vvkk4vbIUwtfswxurptz1tiDIqVgRaXMYs3xgfH2v9CydnK/ogfg82xujcWg/kA+T6ufymD83wU+LqLxh6VZnHLAyaC+5qKEtaJEWaishYHirH3XcW3rmr58AuiAwnmb5rrQa2Nim5KOxH93Lv1pJVo/+Lh5NrzZcjVJWhihNXghk6lXMOhoVRLVoaXpyGKduDXWp/8mXL4=;XLVT28CRPDpiEtoBd72bhw=="
+secured: "LnVaKVzyUS++2DL/0owgljiS8PK4egSSHRjy+Zw+X7QwyzmUz31IK7FNreibZyETaEOvA+3KA7J91Eo4JhVfsdrzYWJByV+Oi+FGzJ5qnoNIkYlclMIYEm6nLo+YCgWvCIzhOlMGay/OPN8hpX0DfW44xy2pKvOmVj/qwv3ti7fc5/j6zOWBlin4yct99x/od5dQ+ifp1rMgleJ/O2HUO6/xfXuyyRfUJP+qemPJwLm74d8xADdHJUhy9u3M3wVNEj5+IzqR71CTy59UVHvAsxDN74gnLurYdj9MWGpr4mqa5gfgvkK+ZuMcnKdk57qFTm8kP42wAPaPKIdspZKsQ/8yA/G5EbzsAxJwastfy1c=;uCZgAG/enRVY8solr/1GCw=="
 ---
 

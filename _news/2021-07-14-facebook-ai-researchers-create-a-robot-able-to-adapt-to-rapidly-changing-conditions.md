@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-abl
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/"
 type: article
 quality: 100
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
         width: 1240
         height: 587
         isCached: true
-  - title: "Facebook – Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing"
-    excerpt: "Facebook - Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing -"
-    publishedDateTime: 2021-07-11T12:30:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 36
 
 secured: "U5OkgEaUiEWzthG5Yr8bPN4BpkEjJ/NxjFSTgtJTATeRxrp47u/eA80vh/dCrG354QwAdfearhuUhpCjKvQ0+SVGiUdRXgjWRvZzKxLtOvTWVM0cleiSx4KZJoq5MfSvgSTwDl3n6/NGtqhc85DlqO1M8TkJ8N8kpSJ6U4QNjrqA2GfMkqsn9xmcM8vYVNruiS/QbvPjUof1QtQIEvvg5c+lVpQavH23hVEQFT0QdhiUA+4oRG3wyK6CI5SIY9tv6hdI1SbYbAl2cSQoFIJu/dGw4gffNv6viUZIdH86dU6wXrRsyH6lmnadYb2v1Y+/xnrkt51hTj7zynJRPBDx1muGHoRVTo52TMqDjHNxOI1pwaP3AE7jfAOsFWFGZftW+g35A57QWG8oOHK8ZLhRHvGhF9dWKdFnq9/R/Xnb/+Y208PVdZWJsgYM9MlsmhQhcaweywqTroj7gCSwqDKlpX79KjRq1hws0R6WbKFrTeW6zOH8Lpjf390aFeo4LvK6aZayJ+pbb5V36x0gcKihcw==;lVk4KF74qy5bRd7Rz7i6fg=="
 ---

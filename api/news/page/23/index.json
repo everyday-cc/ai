@@ -2,6 +2,135 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-06-28-nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc.md",
+      "title": "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC",
+      "excerpt": "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g.md",
+      "title": "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G",
+      "excerpt": "Using IBM Cloud Pak for Network Automation, CSPs can use AI-powered automation to stand ... With the integration of IBM Cloud Pak for Watson AIOps and edge solutions including IBM Edge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-301320703.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-301320703.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-27T23:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028.md",
+      "title": "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2028",
+      "excerpt": "Selbyville, Delaware According to the research report titled 'GLOBAL Facial Recognition Market 2019-2028', available with Market Study Report LLC, global facial recognition market is projected to expand at 14.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028-2021-06-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028-2021-06-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 327,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-27T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-artificial-intelligence-can-now-taste-transforming-winemaking-with-tastry.md",
       "title": "Artificial Intelligence Can Now Taste - Transforming Winemaking With Tastry",
       "excerpt": "Tastry, a sensory science company, has merged AI and advanced chemistry to teach computers to “taste.” Now their technology is helping consumers find great wines, and providing insight to wineries and retailers about the wines people love to drink.",
@@ -1030,144 +1159,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019.md",
-      "title": "Which new trends are likely to be seen in AI in IoT market in 2019?",
-      "excerpt": "COVID 19 Impact Analysis on AI in IoT Market The global AI in IoT market is expected to grow at a CAGR of 24 59 during the forecast period 2019 2026 Technologies such as Artificial Intelligence AI and Internet of",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019",
-      "originalUrl": "https://www.openpr.com/news/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U626874997_g.jpg",
-          "width": 660,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019",
-      "publishedDateTime": "2021-06-25T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-i-learnt-how-cool-it-is-to-train-a-robot-with-ai.md",
-      "title": "I learnt how cool it is to train a robot with AI",
-      "excerpt": "It’s one thing to hear about the advances in AI on the news, such as China’s creation of an artificial intelligence (AI) news anchor, robots making food deliveries, and serving you coffee. It’s another matter however,",
-      "sourceUrl": null,
-      "webUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot/",
-      "originalUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.mothership.sg/1/2021/06/dog.jpeg",
-          "width": 478,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot//amp",
-      "cdnAmpWebUrl": "https://mothership-sg.cdn.ampproject.org/c/s/mothership.sg/2021/06/dsta-brainhack-robot//amp",
-      "publishedDateTime": "2021-06-25T20:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mothership.sg",
-        "domain": "mothership.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-natural-language-processing-market-granular-view-of-the-industry-from-various-end-use-segments.md",
-      "title": "Natural Language Processing Market : Granular View of The Industry from Various End-Use Segments",
-      "excerpt": "Jun 25, 2021 (AB Digital via COMTEX) -- Natural language processing (NLP) is a computer application under artificial intelligence that can understand human language. This computerized technique ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-granular-view-of-the-industry-from-various-end-use-segments-2021-06-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-granular-view-of-the-industry-from-various-end-use-segments-2021-06-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

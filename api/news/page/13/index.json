@@ -2,6 +2,143 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-07-05-the-role-of-enterprises-is-artificial-intelligence-ai-taking-away-jobs.md",
+      "title": "The Role of Enterprises: Is Artificial Intelligence (AI) Taking Away Jobs?",
+      "excerpt": "It has been the rule of nature and society that when the application of technologies like Artificial Intelligence in the workforce or daily lifestyle",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/",
+      "originalUrl": "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2021/07/ai-taking-over-more-jobs-in-us-2019.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/",
+      "publishedDateTime": "2021-07-05T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-facial-recognition-used-to-verify-vaccine-beneficiaries-govt.md",
+      "title": "Facial recognition used to verify vaccine beneficiaries: govt.",
+      "excerpt": "Even though the Ministry of Health and Family Welfare (MoHFW) has admitted in a recent RTI query response to the use of facial recognition technology (FRT) for online verification of beneficiaries at vaccination centres,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/news/national/gl2d2b/article35152785.ece/ALTERNATES/LANDSCAPE_615/Facialrecognition",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece/amp/",
+      "publishedDateTime": "2021-07-05T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-ai-legislation-must-address-bias-in-algorithmic-decision-making-systems.md",
+      "title": "AI legislation must address bias in algorithmic decision-making systems",
+      "excerpt": "One promising bill proposes a cross-government investigation into discriminatory algorithmic processes throughout the economy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/",
+      "originalUrl": "https://venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/venturebeat_1200px_law_feature-e1625102436458.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/amp/",
+      "publishedDateTime": "2021-07-05T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-sometimes-interacting-with-robots-is-easier-than-with-humans.md",
       "title": "Sometimes interacting with robots is easier than with humans",
       "excerpt": "A new study shows higher performance in idea generation when humans believe they're interacting with a bot. Is working with robots in our future?",
@@ -1025,162 +1162,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-a-global-smart-city-competition-highlights-chinas-rise-in-ai.md",
-      "title": "A Global Smart-City Competition Highlights China’s Rise in AI",
-      "excerpt": "Chinese entrants swept all five categories, featuring technologies to improve civic life. But the advances could also be tools for surveillance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/",
-      "originalUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60df60a8fd0513edb15af4a3/master/pass/Business-Smart-City-Competition-1032667470.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp",
-      "publishedDateTime": "2021-07-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-how-on-device-machine-learning-has-changed-the-way-we-use-our-phones.md",
-      "title": "How on-device machine learning has changed the way we use our phones",
-      "excerpt": "Whether you realize it or not, you probably benefit from machine learning on your phone every day. Where could the technology go next?",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/machine-learning-phones-1238287",
-      "originalUrl": "https://www.androidauthority.com/machine-learning-phones-1238287",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/07/Google-Pixel-4a-taking-a-photo-of-a-person.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/machine-learning-phones-1238287/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/machine-learning-phones-1238287/",
-      "publishedDateTime": "2021-07-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-4-ways-ai-is-unlocking-the-mysteries-of-the-universe.md",
-      "title": "4 ways AI is unlocking the mysteries of the universe",
-      "excerpt": "Astronomers are turning to artificial intelligence and machine learning to build new tools to rapidly search for the next big breakthrough.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysteries-universe-syndication",
-      "originalUrl": "https://thenextweb.com/news/4-ways-ai-unlocking-astronomy-mysteries-universe-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FTriangulum-Galaxy-hed-guillermo-ferla-kEEl9csCutg-unsplash-copy.jpg&signature=1e81bded5339458e45332f6121f52366",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-03T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

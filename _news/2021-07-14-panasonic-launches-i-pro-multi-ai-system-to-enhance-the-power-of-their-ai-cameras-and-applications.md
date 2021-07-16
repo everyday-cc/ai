@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI in the courts"
-    excerpt: "Artificial Intelligence can help reduce pendency of cases, increase efficiency of judiciary. But before its adoption in the legal system, challenges related to privacy, data protection and other ethical issues must be addressed."
-    publishedDateTime: 2021-07-11T11:51:00Z
-    webUrl: "https://indianexpress.com/article/opinion/artificial-intelligence-in-the-courts-7399436/"
-    ampWebUrl: "https://indianexpress.com/article/opinion/artificial-intelligence-in-the-courts-7399436/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/artificial-intelligence-in-the-courts-7399436/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 61
-    images:
-      - url: "https://images.indianexpress.com/2021/07/Gavel-4.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Use of Artificial Intelligence That has Potential Business Value"
     excerpt: "The use of artificial intelligence in the business market is growing gradually. It has a great potential business value and it is important to implement ethical and responsible AI to bring success in the long run."
     publishedDateTime: 2021-07-15T15:30:00Z
