@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/why-ai-harder-we-think?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-ai-harder-we-think?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Diginomica
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Kind of Sea Ice is That? Thanks to AI, There's an App for That"
-    excerpt: "That area is the Arctic, an area where she has specialized in studying sea ice, among other topics. “It’s used a lot in marketing, in medicine, but not so much in Arctic (research) communities,” she said."
-    publishedDateTime: 2021-07-11T21:17:00Z
-    webUrl: "https://maritime-executive.com/editorials/what-kind-of-sea-ice-is-that-thanks-to-ai-there-s-an-app-for-that"
-    type: article
-    provider:
-      name: Maritime Executive
-      domain: maritime-executive.com
-    quality: 37
-    images:
-      - url: "https://maritime-executive.com/media/images/article/Photos/Navy_Govt_CoastGuard/antarctica-icebreaker-coast-guard-cimsec.e403a2.jpg"
-        width: 643
-        height: 361
-        isCached: true
   - title: "What Kind of Sea Ice is That? Thanks to AI, There's an App for That"
     excerpt: "If you’ve watched Netflix, shopped online, or run your robot vacuum cleaner, you’ve interacted with artificial intelligence, AI. AI is what allows computers to comb through an enormous amount ..."
     publishedDateTime: 2021-07-12T17:05:00Z

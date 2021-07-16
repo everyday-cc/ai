@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/liquid-senso
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/liquid-sensors-and-ai-could-bring-feeling-to-prosthetic-hands-350894"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 640
     height: 360
     isCached: true
+
+related:
+  - title: "Machine Learning in Healthcare Helps Prosthetic Hands Feel"
+    excerpt: "By using machine learning algorithms, researchers are developing a way for prosthetic hands to have the ability to touch and feel objects."
+    publishedDateTime: 2021-07-16T14:25:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-in-healthcare-helps-prosthetic-hands-feel"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1127125431.jpeg"
+        width: 700
+        height: 431
+        isCached: true
 
 secured: "lATCotqT6jGQ4+crq2CxZf2NTY2NcHYieGqI/hm8T2yf9186X+h5ca0OH/W0hti9qRAFUfhZcebPetjptuPiNUSt1zdLa8mtylXe+hiAA6hv5mlzniwnQJDJVncDwxZwsGSSCsIPWQ1YgCRqYsnMluCs4RED0x+ON3Tu+lWhtzfxonN3DugLzNyDhL7We0hC+DLcbkyyWwmNG/4KXgUtj5VrJdZCCZWJBIsV5w41FcTqCpb50JSH1XH6XuGgBmhLp/hFzB7SEDg3BcFT0b0XKUHWtJieiBOTIDSqLT/ruEqQAGMbGDhhHBqYzNZyT9O69/lUg2uRhQ58HQIEya3bK7uVpS7NMhuvJNsssGZboILS9dckyPG3SYYHyLHoYxJTBhxLMnahn+3Zebf0tiTfQqEuZZwk6jFQBq8w3c1OZkhrqJqs1izODPHTQueWalqr4sen3auPkldr/2gsAcULqw7CpG8gtmQqIalSW3ovC8sTTz0N8oSnfrqdXw67AFBNDfJ26uWwCXobAkBmMCqRhA==;mJ1Yu2zEPwca1q1O7Mf4BQ=="
 ---

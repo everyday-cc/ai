@@ -37,7 +37,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-facebookJumbo.jpg"
         width: 1050

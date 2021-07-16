@@ -8,8 +8,8 @@ webUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.
 ampWebUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-facebookJumbo.jpg"
@@ -48,6 +49,6 @@ related:
         height: 420
         isCached: true
 
-secured: "ufgonF6XxrOBdu9EvToZSnMVGscsirazLiDFaQaGfEXl8gYO1PTZkMRids+C1yBFKSgN+vzZJ0hBhp0NT5AQnqIKcgHDAGRPeC81yyM9+EB/ITduqJ6vXPbLq+tnD8ukcG0EjCCviwVOk9LURd/PCXktRMKyNqtNIte5HlX0UgMBpg2EFHYyqZsVHkT6VLfyVz+TiGtVJnxHbC/MCssJIm8vA+7ST/rvl/OLHM2jxrO8ajP2rMPZWlPu27V65S8UalTWFHQVYbn1hSk6cJi2kQzRYONRbJVsCaqZ2Y6YlAHzBdZJPT3mF95Bi03aKgXmoae5ImYaDwsnd3GD5BKQKRO+9DqxL3IzqKxTh9lxAcg=;xddf8YJfDT8IElx2cJ092Q=="
+secured: "nYsyC+hOdiRdw8sNq9su2JByl8CzuEGsRIr3cHHtCw0uENqBJyUrAn9fthtTZLR5sUm/UK63UINltlAl2T2HjoliHrHm8G+tLyD7BWxHC4nC2JqMbckM9th8PjssmJVozL0IExvwefXpZfk0oh1BgYTgeOM/L6OVOQJYO2mSyH8s4bJ1tw/WcljhBa5FjL8zdn7zKUr3Zyj4qU09s3tKxSyx+iHI/FV3UgbO28Al74jeaMhOm022gEyGGuAaxfurF/l442nVKwrNw15M6ctdiQXBiGNCgHlUZ+al6JHQ+l5sjmIRLo5R0u7S1uBSkJjQYUuzkIGT33Icw44m1NmLoi6dExOwu47rz3s3/NMYJrnR9yjmAQUc8lwTU+6ohkddNI3VmMaLSE5djgskR4YTfu45ByrzjyTfWwC8mEHBDdQPg645UL6X+CdK1PEpXtl5gbPDThOWAtNt75pMDdYUDXXCLSUhyIfyqVcm8hsv5+cjjCWn94MzyrKab40mvsRnpf+fKnA4doy/Z/2JMrpNPw==;LOIIC67Gn6/9/kyUKvQwtA=="
 ---
 
