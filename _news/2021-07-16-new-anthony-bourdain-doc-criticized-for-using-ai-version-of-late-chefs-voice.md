@@ -89,6 +89,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Anthony Bourdain documentary attracts backlash for deepfaking late chef’s voice using AI technology"
+    excerpt: "A new documentary about the late chef and writer Anthony Bourdain has sparked backlash after it emerged that the filmmaker recreated his voice using artificial intelligence. Roadr"
+    publishedDateTime: 2021-07-16T10:17:00Z
+    webUrl: "https://metro.co.uk/2021/07/16/anthony-bourdain-documentary-deepfakes-late-chefs-voice-using-ai-14939586/"
+    ampWebUrl: "https://metro.co.uk/2021/07/16/anthony-bourdain-documentary-deepfakes-late-chefs-voice-using-ai-14939586/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/07/16/anthony-bourdain-documentary-deepfakes-late-chefs-voice-using-ai-14939586/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 45
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2021/07/Screen-Shot-2021-07-16-at-10.30.07-2652.png?quality=90&strip=all&zoom=1&resize=600%2C343"
+        width: 600
+        height: 343
+        isCached: true
 
 secured: "XiRO0+ccC9+BOb9w59phmAz03ipTb3UzftO1oLR3DW5DQHwRrDr/61M1cm+yFkLO+WaTuKwGQ5bwlz2LzAxkzS9F9PQbk0HKW1lJVZV1cUvbHCyg1USMqP8lUNsn34vfhCfVOhO2YfyQC+KlgWuTWgLLWCp6O+nS3D5tBPuaIjHkWemXDwlZojQYJLg9tQqafON2APoE/skN8sn1W7f5hRbWzq5ost/lQ/mrFfDgViIf6ZViff3zoBCm+P19UJcBs8K3BULzngmO7W1C9EG5X9pnra982TZAT1Br9WWjbVsUgh9loiOJrw/kTF9gHbTJWp1PcRYZVeyvr6yVXX8Vrrhj2yX/Avose62ZMpaSChYEh64dOCaylDSYyO8xpesRzs+mLrOM7jWFR0zFUN7pb+SzLSkQUWbg96cbHirOePmhIewQ5lAuKE14LU1uodOuKbgt2xG10rpUR3OCCAlmF1v8oiFbkZv5TIk5EZqdc5M8cSBAncxt7a4TD4SNIpicdzfDDgBagDwaDClwIdHlSg==;K7VQUFPxRywMk+k4zMuCGQ=="
 ---

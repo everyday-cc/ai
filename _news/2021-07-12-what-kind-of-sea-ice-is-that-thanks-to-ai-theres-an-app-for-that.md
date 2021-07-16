@@ -7,7 +7,7 @@ originalUrl: "https://maritime-executive.com/editorials/what-kind-of-sea-ice-is-
 webUrl: "https://maritime-executive.com/editorials/what-kind-of-sea-ice-is-that-thanks-to-ai-there-s-an-app-for-that"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why is AI harder than we think?"
+    excerpt: "A new paper explains why AI is harder than we think - and predicts another AI Winter on the horizon. How well does the argument hold up? Let's delve in. \"Why AI is harder than we think\" - that's the title of a recent paper by Melanie Mitchell at the ..."
+    publishedDateTime: 2021-07-16T11:19:00Z
+    webUrl: "https://diginomica.com/why-ai-harder-we-think"
+    ampWebUrl: "https://diginomica.com/why-ai-harder-we-think?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-ai-harder-we-think?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2016-12/man-facing-gap.jpg"
+        width: 1277
+        height: 843
+        isCached: true
   - title: "What Kind of Sea Ice is That? Thanks to AI, There's an App for That"
     excerpt: "If you’ve watched Netflix, shopped online, or run your robot vacuum cleaner, you’ve interacted with artificial intelligence, AI. AI is what allows computers to comb through an enormous amount ..."
     publishedDateTime: 2021-07-12T17:05:00Z

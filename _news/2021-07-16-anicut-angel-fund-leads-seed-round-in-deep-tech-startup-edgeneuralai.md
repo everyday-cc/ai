@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/anicut-angel-fund-leads-seed-round-deep-tech
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/anicut-angel-fund-leads-seed-round-deep-tech-startup-edgeneural-ai/amp/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,40 @@ images:
     width: 850
     height: 400
     isCached: true
+
+related:
+  - title: "Deeptech Startup EDGENeural.AI Raises Seed Round From Anicut Angel Fund"
+    excerpt: "Pune-based deeptech startup EDGENeural.AI has raised an undisclosed amount in seed funding from Anicut Angel Fund, the equity arm of Anicut Capital. The funding round saw participation from other investors including Venkat Raju, 9Unicorns, Samir Inamdar ..."
+    publishedDateTime: 2021-07-16T10:17:00Z
+    webUrl: "https://www.entrepreneur.com/article/377515"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/377515"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377515"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1626430253-IMG-27751.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Agritech Startup Aqgromalin Secures Seed Funding Led By Zephyr Peacock"
+    excerpt: "The round also includes participation from IndigramLabs Foundation and other noted angels from the agri startup ecosystem ... solutions for animal husbandry and aquaculture with AI deep learning inference. It is also building a blockchain-based ..."
+    publishedDateTime: 2021-07-15T11:50:00Z
+    webUrl: "https://www.entrepreneur.com/article/377388"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/377388"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377388"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 72
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1626349517-MrPrasannaandMrBharani.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "eHv70sWmmsKTQOdcvxBL3k0H7oRXCcpCib20YXBxHtbJ1OoYKFGBsbHzYd+NpGPiLnBbVL7dZ1ha/aAjQ9JynFIKnw8pkPQRtPTztuE4zBjn+Su+8TvfUrwv3/KgHOOlfwjkh3SuUEFaq2oQ9XMizGmRXj9yX4hUZTcyA/wtVjM2rVnNANoko2B4uP/+ytCygMb7oE4fiMGGLb9SYfwrOo0qIaqQl10iZKbp/4DpeyrQK9tGQQEtvZh8m3QkFqO2hx/dnCcMPb9D780DUxbxi5/lzHcCpoFffewdvn5JmflydM5Pv2jKd7NWFgLwRk8FEaZ3Y+bntV6g47MLoRkGT9/BaduTLei9WaXRpxboMGQ=;3kf5hA32vxD9/t27UsNFww=="
 ---

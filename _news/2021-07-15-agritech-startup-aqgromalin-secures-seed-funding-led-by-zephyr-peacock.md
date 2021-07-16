@@ -9,8 +9,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/377388"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377388"
 type: article
 quality: 72
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -28,6 +28,40 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Deeptech Startup EDGENeural.AI Raises Seed Round From Anicut Angel Fund"
+    excerpt: "Pune-based deeptech startup EDGENeural.AI has raised an undisclosed amount in seed funding from Anicut Angel Fund, the equity arm of Anicut Capital. The funding round saw participation from other investors including Venkat Raju, 9Unicorns, Samir Inamdar ..."
+    publishedDateTime: 2021-07-16T10:17:00Z
+    webUrl: "https://www.entrepreneur.com/article/377515"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/377515"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377515"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1626430253-IMG-27751.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Anicut Angel Fund leads seed round in deep-tech startup, EDGENeural.AI"
+    excerpt: "The investment will be used to make investments in engineering, product development, and team expansion. Pune-based deep-tech startup, EDGENeural.AI has raised an undisclosed amount in seed funding from Anicut Angel Fund, the equity arm of Anicut Capital."
+    publishedDateTime: 2021-07-16T07:57:00Z
+    webUrl: "https://www.dqindia.com/anicut-angel-fund-leads-seed-round-deep-tech-startup-edgeneural-ai/"
+    ampWebUrl: "https://www.dqindia.com/anicut-angel-fund-leads-seed-round-deep-tech-startup-edgeneural-ai/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/anicut-angel-fund-leads-seed-round-deep-tech-startup-edgeneural-ai/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 57
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/03/funding-1.jpg"
+        width: 850
+        height: 400
+        isCached: true
 
 secured: "KfLn1nXyXWqtXn/J6wEPWT+ZVh/ZjRHl8NDP4oh0KKCLY+wTg4z9JThukSgCZeHl6I0ivMFtyiLufNCYs+NrEBbIGeppVKcAmIaQ4SReDywuSNHOrIPyMCNOFAKnYONZ5p03Jk51pZLKsgUJN8HARK5UlcP38m3r8P7H80pZC2KmDT1UapBmFsSmOVvlP+jnyjG7tKnGlgRlucrs2xiyqlAsfjL70rECBaBjRY40WcqhSSH+xhdDoLINanBEKbQqN4Xt0LxPKqSKDwMYYM2nFTcNuWmaZS0zLcXhBV8NSLXqFt3ZYLpc9GSK5NqVSZ6FCZs6WgiiBVvm12CdTTbdydHKdiYW0J7b4YkfDL4G5yQ=;S2sVt6XFK+Q5eJ06/MgkFw=="
 ---

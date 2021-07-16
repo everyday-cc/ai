@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Global Robotics Market (2021 to 2025) - Featuring Intuitive Surgical, iRobot and KUKA Among Others - ResearchAndMarkets.com"
-excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering. The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double digit CAGR over the forecast period of 2021 - 2025."
-publishedDateTime: 2021-07-16T08:52:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_508c8daf-6ecd-5618-a01b-f3478c9ea30f.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_508c8daf-6ecd-5618-a01b-f3478c9ea30f.html"
+excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to 2025\" report has been added"
+publishedDateTime: 2021-07-16T08:51:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/b22013635/global-robotics-market-2021-to-2025-featuring-intuitive-surgical-irobot-and-kuka-among-others-rese"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/b22013635/global-robotics-market-2021-to-2025-featuring-intuitive-surgical-irobot-and-kuka-among-others-rese"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png"
-    width: 1920
-    height: 1080
+  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -38,6 +38,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Worldwide Robotics Industry to 2025 - Co-Bots Drives Robotics Market"
+    excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering. The Global Robotics Market was valued at around US$"
+    publishedDateTime: 2021-07-16T11:45:00Z
+    webUrl: "https://www.lelezard.com/en/news-19906273.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 54
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
         isCached: true
   - title: "Machine Translation Market in APAC with COVID-19 Impact by Growth Potential, Manufacturers, Production, Revenue and Forecast 2026"
     excerpt: "APAC machine translation market is set to witness significant growth during the forecast period of 2020-2026, thanks to the consistent increase in the adoption of various artificial intelligence (AI) technologies and smart devices."
@@ -76,6 +90,6 @@ related:
       domain: openpr.com
     quality: 17
 
-secured: "ly5CNalAIFqYLTprqJLhfZ9Abj86P3htZ3PYWT9q6K3gL39sw4a0snuI8NxBw5P6cAQUiO7HUVpE4NPHZlLlHTOmymMT1Huz0GEHeuAfHx4AWhlhYFu7+dRuSTqlFq1XIjiSryqjw806v2INtEb0rs5jIb2Ii2hTQy2TsbPpsbly2swvijynz6A8sq08sWiJz0Q6FlzjB42A0yq4rR2EZU621WgQRNg1foE/peAw8Zw8tP4oB3WUws5gl2V6hnEl5XULV0IwfQoTCsE5ArrNeiFzmouJ6vr6cEbx/xMCIt36OzD/PWvWGc3AkNeDqWLgANONZvp+SNzhsKH2sBYnqo6AcjSPf5fuD5EZ8tfhIwI=;yJ9Y0YaamGLZw1VLU5JYHg=="
+secured: "eLVPoIiFenGvoKpoW3VUlSNKppksQEqYhTEANe9BQZOjR4BdDC+OJFxiuu4okF0PFc+O9Lt7kigSZsnGQg9WlRnQAhLWVJ7LbBdzRuF0/CCtaDKWQzbqTI7q+mHsopeaEOOfbYTdpQfa7sn/G/E8CwKnrTkuO3dNKzDMEwowGOCkqEOOiuQgCuC6tpqiT1jqyUWVnDfeRVlTvjW0lfUq/73AFnE5um1vTUsnh08JvoQOjBlVLoMV/5OefSbMoKhKH0FaiA/ogMVqsyKxd7K5h3yqdtATojft5O5PhNViEi6ODNfK08vs6lXbyIvQcVpt4zPf7QiStN3ggjNMMz3CY63FlpwCfZ7EE08jMNL/9Yg=;yi0MPojTEgrwjroJLOSZWQ=="
 ---
 

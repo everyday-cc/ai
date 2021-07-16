@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19905290.html"
 webUrl: "https://www.lelezard.com/en/news-19905290.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dotmatics Announces Support for AWS for Health Initiative"
+    excerpt: "Dotmatics announced support for the AWS to improve laboratory efficiency and accelerate the pace of scientific innovation by facilitating faster data access."
+    publishedDateTime: 2021-07-16T11:07:00Z
+    webUrl: "https://www.news-medical.net/news/20210716/Dotmatics-Announces-Support-for-AWS-for-Health-Initiative.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210716/Dotmatics-Announces-Support-for-AWS-for-Health-Initiative.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210716/Dotmatics-Announces-Support-for-AWS-for-Health-Initiative.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/4/By_Phonlamai_Photo_034cc2a48c3c4bd2a57e29e397b7210a-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Pariveda Solutions Announces Support for AWS for Health Initiative"
     excerpt: "Pariveda has an offering that uses Amazon Comprehend Medical and Transcribe Medical to develop Natural Language Processing (NLP) solutions for healthcare systems, to support a seamless and compliant experience for the patient and the doctor during a ..."
     publishedDateTime: 2021-07-15T23:58:00Z

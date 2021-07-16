@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/anthony-bourdain-documentary-us
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died/"
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://assets-prd.ignimgs.com/2021/07/15/anthony-ign-1528465548487-160w-1626384290988.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Anthony Bourdain documentary attracts backlash for deepfaking late chef’s voice using AI technology"
+    excerpt: "A new documentary about the late chef and writer Anthony Bourdain has sparked backlash after it emerged that the filmmaker recreated his voice using artificial intelligence. Roadr"
+    publishedDateTime: 2021-07-16T10:17:00Z
+    webUrl: "https://metro.co.uk/2021/07/16/anthony-bourdain-documentary-deepfakes-late-chefs-voice-using-ai-14939586/"
+    ampWebUrl: "https://metro.co.uk/2021/07/16/anthony-bourdain-documentary-deepfakes-late-chefs-voice-using-ai-14939586/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/07/16/anthony-bourdain-documentary-deepfakes-late-chefs-voice-using-ai-14939586/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 45
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2021/07/Screen-Shot-2021-07-16-at-10.30.07-2652.png?quality=90&strip=all&zoom=1&resize=600%2C343"
+        width: 600
+        height: 343
         isCached: true
 
 secured: "ifFt3wtKieo/hCPaoSDx07vKGKs0h+csCj7OGLOYJU6Iv6MtzaXAE4y/BHndcfOW7Ajxsa2LZKrkW4ClfzoppTHnxO1UXKG6oV+8HWmoGqGFPQs5qVB4Bs/ZyNyL+c/Dt6PCI4gyraFCxyWwcRvG7OzlPSgYWRG9D2zWpqD4nMtHNcNngNJYdfMJdiRVaRKDqK9UsDlYAHA2oWfkYxXNM9QokdqGrbQYEBFRWh6JON2uLb6t198B+sC8TRgxjF/2GdeP/+PBA91N7IWKS+znDNlzMRk+XZl7kqm4bmtbLlVnTV8fwsMBLLcjbFhHas7xEmZihHSn8+KjD9SLikoUZQZ1JoWTCIIXa9hyp1MZ1amGawIpCGBe24SGgKZT9Z/MN7UsDfS8hziDlOVqw6Gf9tAcvVNj60hRybgBaj4Mkb0B8EMzoSkGxwYq93EwB9OQmEftckVzNEV/EHcr+Qc81rEnYkGw3DjOQedCd7E66W/xCYbSpBrATBFkwe806mbJDjZiYpw8MrR5dJecbk31Pg==;3Jhdycefbu7sGJrUVWB6DQ=="

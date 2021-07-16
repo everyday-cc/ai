@@ -263,22 +263,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tesla self-driving software update begins roll out though company says to use with caution"
-    excerpt: "Tesla owners with access to self driving technology have more options following a software update released on Saturday, reports say"
-    publishedDateTime: 2021-07-11T18:03:00Z
-    webUrl: "https://www.freep.com/story/money/2021/07/11/tesla-self-driving-gets-boost-software-update-reports-say/7930730002/"
-    ampWebUrl: "https://amp.freep.com/amp/7930730002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7930730002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 49
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/48ca114c5a45a5268a80a24e4b23bd36f43a4651/c=0-0-1650-928/local/-/media/2021/07/10/USATODAY/usatsports/MotleyFool-TMOT-effc75eb-tsla-model-s.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Elon Musk says developing self-driving cars is proving difficult"
     excerpt: "The billionaire businessman - who is the CEO of Tesla Motors - has taken to Twitter to provide an update on the manufacturer's latest efforts, and confessed that self-driving cars are \"hard\" to make a success of."
     publishedDateTime: 2021-07-12T06:36:00Z

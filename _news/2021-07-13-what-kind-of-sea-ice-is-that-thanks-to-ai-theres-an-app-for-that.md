@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why is AI harder than we think?"
+    excerpt: "A new paper explains why AI is harder than we think - and predicts another AI Winter on the horizon. How well does the argument hold up? Let's delve in. \"Why AI is harder than we think\" - that's the title of a recent paper by Melanie Mitchell at the ..."
+    publishedDateTime: 2021-07-16T11:19:00Z
+    webUrl: "https://diginomica.com/why-ai-harder-we-think"
+    ampWebUrl: "https://diginomica.com/why-ai-harder-we-think?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-ai-harder-we-think?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2016-12/man-facing-gap.jpg"
+        width: 1277
+        height: 843
+        isCached: true
   - title: "What Kind of Sea Ice is That? Thanks to AI, There's an App for That"
     excerpt: "That area is the Arctic, an area where she has specialized in studying sea ice, among other topics. “It’s used a lot in marketing, in medicine, but not so much in Arctic (research) communities,” she said."
     publishedDateTime: 2021-07-11T21:17:00Z

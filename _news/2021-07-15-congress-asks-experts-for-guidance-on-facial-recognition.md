@@ -264,6 +264,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Federal Agencies Can't Resist Using and Abusing Facial Recognition"
+    excerpt: "Already used to identify international travelers as they enter and exit the United States, facial recognition technology is becoming increasingly reliable and may soon become a regular feature of the travel process,"
+    publishedDateTime: 2021-07-16T11:07:00Z
+    webUrl: "https://reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/"
+    ampWebUrl: "https://reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 39
   - title: "Activists call out Ace Hardware, Apple stores for using facial recognition on customers"
     excerpt: "A coalition of civil rights groups are urging retail stores to stop their use of facial recognition technology with a new campaign."
     publishedDateTime: 2021-07-14T15:53:00Z
