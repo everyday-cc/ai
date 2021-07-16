@@ -8,7 +8,7 @@ webUrl: "https://gizmodo.com/black-teen-kicked-out-of-roller-rink-because-its-fa
 ampWebUrl: "https://gizmodo.com/black-teen-kicked-out-of-roller-rink-because-its-face-r-1847306558/amp"
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/black-teen-kicked-out-of-roller-rink-because-its-face-r-1847306558/amp"
 type: article
-quality: 77
+quality: 79
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d95f903dd492f87f4eddd3d4697d481f.png"
@@ -140,6 +141,6 @@ related:
         height: 630
         isCached: true
 
-secured: "F6FFOhR/6bjAFiYP3ogV9iO/9aBHzjdCe0cN2eKaJHy9CkGjY7d7uiSxKa3FXYK7sr71dyBRyOnuOSw6sZuPAbpEi7Im8RwcCkofzmKVY5lmZ0r8Q47KA1HjedSS9mzYjSPP3e8NMxwtv8HiD7yETArBdFuerYhg2asYEX3HnHAj55oUXFsjUOewHwk73o9nY6ttNflECWBRO2q5Y3V+dzaJ9K9KqcJAEFuo7KROzeFAcMKf+/iNglkVjPCm1jOIKE3mTPs5j9LJ6O5XPxxeWJ2fVv+fD45U7bwNytqcYvuI2NvSSuWw3CNXejMjQQHYHUVjbc+t30aBSeEZXr6XCqa/aXRelQZRnulET6/tKg4=;tuEKL2wNnN7KlBr5Q81UYg=="
+secured: "SLmpGcIZau9/xJTrzqRpoZN4mSSgBYpA3p+tHQsJwhdhXomQCzICP6wXXGZPdnMrQc82bDodtnhEwmfAEo1YTFwQ5u1q+BJIB9ZI9plP6DDN0Bt7qzdiBSwLVVusX3b/u4OletlzlS8ZoGzzKnlNoUrqVGgHFq5FqYaS+MaVXLpsaj84i1dF2IdRvSQ+XUBqSrH5bjRVjLuda0laya3cw688wXQSZ+eY9rV6IGVucEk+6RaDLCdmw4ui1e9EtDX9yD3lV6SaovB3PYPeWXxHBf6bqHuFEnF76ZtyBNqQCy8dwVQo9ZSLH1CD6qkGLxuZq2g7+jUQNuCsBDrbZyz4+vwsxAsMRmp2js1rGI7tRkA0sYaHPrtQYRdqHGWNcSbntm03jmMSqEIhxbMlp7bH+D3+4pNQHa9EF9LmAjoZ8eaOwDlLqEtXpYsZxV/n33O+QQfDkB2KilPqFpMDc2RQt3XQuGFs/lng0aQC30lKE+T8Hmwi7LsYk2us3ut1cP37OvFmSiB/XbGlSSR0SmrJSw==;HPvjuuaqrNEQxjtWDL9unA=="
 ---
 

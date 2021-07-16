@@ -1,30 +1,46 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon HealthLake"
-excerpt: "Amazon HealthLake enables healthcare organizations to store, transform, and query health data in the cloud using machine learning for a complete picture of patient and population healthThe new service is part of AWS for Health,"
-publishedDateTime: 2021-07-15T16:00:00Z
-originalUrl: "https://www.pharmiweb.com/press-release/2021-07-15/aws-announces-general-availability-of-amazon-healthlake"
-webUrl: "https://www.pharmiweb.com/press-release/2021-07-15/aws-announces-general-availability-of-amazon-healthlake"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon HealthLake, a HIPAA-eligible service for healthcare and life sciences organizations to ingest,"
+publishedDateTime: 2021-07-15T14:57:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-health-coronavirus-pandemic-a6577a90cb304bcf90fa8b9af7a85b90"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-health-coronavirus-pandemic-a6577a90cb304bcf90fa8b9af7a85b90"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: PharmiWeb
-  domain: pharmiweb.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-    width: 1200
-    height: 448
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
+  - title: "AWS launches HealthLake to help health care organizations query medical data"
+    excerpt: "AWS has made its cloud -based health care data lake solution, Amazon HealthLake, generally available to customers. With this solution, health care organizations can pull medical information from different sources into a single environment and use it to improve patient care."
+    publishedDateTime: 2021-07-16T18:14:00Z
+    webUrl: "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query"
+    ampWebUrl: "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 86
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1578930668/itpro/2020/01/Doctor_using_AI_to_support_diagnosis.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Get started with the Redox Amazon HealthLake Connector"
     excerpt: "Amazon HealthLake is a new, HIPAA-eligible service designed to store, transform, query, and analyze health data at scale. You can bring your healthcare data into Amazon HealthLake using Fast Healthcare Interoperability Resources (FHIR) R4 APIs. If you don’t have your data in FHIR R4, Amazon has collaborated"
     publishedDateTime: 2021-07-15T15:35:02Z
@@ -53,6 +69,20 @@ related:
         width: 800
         height: 294
         isCached: true
+  - title: "Here’s How Dallas-Based HealthTech Company VivoDoc Plans to Simplify Healthcare With AI and ML"
+    excerpt: "VivoDoc is striving to reestablish the patient-physician relationship by offering tools that manage the business side of healthcare and aid patients—all in one platform. In cutting out the middle man,"
+    publishedDateTime: 2021-07-14T20:51:00Z
+    webUrl: "https://dallasinnovates.com/heres-how-dallas-based-healthtech-company-vivodoc-plans-to-simplify-healthcare-with-ai-and-ml/"
+    type: article
+    provider:
+      name: dallasinnovates.com
+      domain: dallasinnovates.com
+    quality: 59
+    images:
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2021/07/VivoDoc-feature-970.jpg"
+        width: 1196
+        height: 572
+        isCached: true
   - title: "AWS launches Amazon HealthLake into general availability"
     excerpt: "“In their daily practice, doctors need a complete chronological view of patient history to identify the best course of action,“ AWS artificial intelligence and machine learning evangelist Juli ..."
     publishedDateTime: 2021-07-15T19:20:00Z
@@ -76,6 +106,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "Health startups vs. the giants, healthcare's digitization, and AI medical assistants"
+    excerpt: "On today's episode, we discuss whether startups like Oscar Health can take on the major health insurers, how the consumerization of healthcare is changing expectations, and what digital tools are leading to healthcare's digitization."
+    publishedDateTime: 2021-07-13T04:45:00Z
+    webUrl: "https://www.emarketer.com/content/podcast-health-startups-vs-giants-healthcare-digitization-ai-medical-assistants"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 47
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/897d1e8fd4c289430459b2cec2781b89/default-image-share.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Amazon HealthLake Is GA Under New ‘AWS for Health’ Banner"
     excerpt: "Amazon Web Services continues cloud providers' industry-specific push with the release of Amazon HealthLake under its new 'AWS for Health' banner"
     publishedDateTime: 2021-07-15T22:19:00Z
@@ -133,6 +177,6 @@ related:
         height: 600
         isCached: true
 
-secured: "4hwgmKwG7MaxLJ0p8XoC2ys51nfcuAY4XVl4drq4QWjYnpaRr/FqQmfoIoeAFCMs3sdyvPQ2CYi/15mXUS8SNXkJ+5Y3JJn/Du2SqGiNVzTvW2RT5UBGN76J5t1cVaNaGy8wYgF7V9V5cJPl2LuQuFStPBVFO3M/QIWK2q4tLQGO4Qo8N79X7BjoQ+KMMWB+B9WASTK3SzvVnRy1fGWLgtrQ38PzhSmW26MWOuyWWn5EC9VKnSRBaD64v9cOkgtRBBeu/HVA1SfVwv5sZgF7gbxVPowBeiwdEl2kRaqPDdyyIQzS5v2PbZEyeD+q4a3SvvYMuX2lZRK8eD8HJYbzqIjTPfylZSIbIllwIsVttKM=;xY8cTXDga8eaYfr8S+U+tQ=="
+secured: "hK6UGTlLLYQZeWMbb407FWETGH1fzTdgWG0yv/qp8IuZj0/xCT9ekgRuAyI7xxFctZWDxjbKX5lHtJ/n1vruneDLons6PWJ/NVs65zJFfrlfg3BjkwassMVdYwFjq5Hk+zAvca0bTVjSd/mNVzFDR1tVHQYdGgy9aCmH5OeXFCJ5uOSrpVmvKEbdaiScoDRfQ11/PS6ZYwxUon1P+2wUPJIcBRhESUt4BsOcONuOJswF/w5n4VHls9fDksln596Hqg/0q9zKzVWMmtOFvSoWUnyr/x41K6HkQ05Gv1mqR++25MFvS1iCQ8EagpW4LW7wGW9omiQ9zuaAV9+XbI1zQzkJNbXaVvEYRAe9f3ztXGM=;AdhT/ywKTzMTGOqYqptKog=="
 ---
 

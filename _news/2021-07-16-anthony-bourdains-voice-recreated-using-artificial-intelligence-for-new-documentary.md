@@ -217,6 +217,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "'Roadrunner' director defends use of AI technology in Anthony Bourdain documentary"
+    excerpt: "Morgan Neville came under scrutiny, despite having permission, for recreating Anthony Bourdain's voice using artifical intelligence in the film, \"Roadrunner.\""
+    publishedDateTime: 2021-07-16T19:31:00Z
+    webUrl: "https://www.goodmorningamerica.com/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
+    ampWebUrl: "https://www.goodmorningamerica.com/amp/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
+    cdnAmpWebUrl: "https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
+    type: article
+    provider:
+      name: GMA
+      domain: goodmorningamerica.com
+    quality: 53
+    images:
+      - url: "https://s.abcnews.com/images/GMA/morganneville-leshalles_1626436645036_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Anthony Bourdain’s Widow Says She Did Not OK Use of AI to Fake Husband’s Voice in ‘Roadrunner’"
     excerpt: "Shortly after Neville’s interview, the use of AI to approximate Bourdain’s voice was criticized and set off a spirited discussion on social media about the ethics in dealing with documentaries of deceased people. TheWrap has reached out to Neville ..."
     publishedDateTime: 2021-07-16T16:15:00Z

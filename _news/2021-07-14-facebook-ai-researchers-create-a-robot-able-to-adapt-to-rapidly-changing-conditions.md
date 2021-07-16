@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-abl
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/"
 type: article
 quality: 100
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/07/FRLR-head-mounted-BCI-research-prototype.jpg?w=3000"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "Facebook – Facebook’s BlenderBot 2.0 bot surfs the web for knowledge"
+    excerpt: "Facebook detailed its work on an AI chatbot called BlenderBot 1.0, which the company claims is the largest-ever project of its kind. In an extension of that work, Facebook today took the wraps off of BlenderBot 2."
+    publishedDateTime: 2021-07-16T15:40:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/BlenderBot_Graphic_V1.png?w=800&is-pending-load=1#038;resize=800%2C450&strip=all"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "U5OkgEaUiEWzthG5Yr8bPN4BpkEjJ/NxjFSTgtJTATeRxrp47u/eA80vh/dCrG354QwAdfearhuUhpCjKvQ0+SVGiUdRXgjWRvZzKxLtOvTWVM0cleiSx4KZJoq5MfSvgSTwDl3n6/NGtqhc85DlqO1M8TkJ8N8kpSJ6U4QNjrqA2GfMkqsn9xmcM8vYVNruiS/QbvPjUof1QtQIEvvg5c+lVpQavH23hVEQFT0QdhiUA+4oRG3wyK6CI5SIY9tv6hdI1SbYbAl2cSQoFIJu/dGw4gffNv6viUZIdH86dU6wXrRsyH6lmnadYb2v1Y+/xnrkt51hTj7zynJRPBDx1muGHoRVTo52TMqDjHNxOI1pwaP3AE7jfAOsFWFGZftW+g35A57QWG8oOHK8ZLhRHvGhF9dWKdFnq9/R/Xnb/+Y208PVdZWJsgYM9MlsmhQhcaweywqTroj7gCSwqDKlpX79KjRq1hws0R6WbKFrTeW6zOH8Lpjf390aFeo4LvK6aZayJ+pbb5V36x0gcKihcw==;lVk4KF74qy5bRd7Rz7i6fg=="

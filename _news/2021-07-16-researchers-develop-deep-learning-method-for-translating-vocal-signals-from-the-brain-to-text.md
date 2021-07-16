@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90437-researchers-develop-deep-lea
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-flood.jpg"
         width: 1920
         height: 1371
+        isCached: true
+  - title: "Intelligent real-time sign language translator designed by teens wins £20,000 national tech-for-good prize"
+    excerpt: "winning £20,000 thanks to their two-way AI-enabled British Sign Language (BSL) translator - BSL: Educate-2-Translate. The prize challenges young, innovative minds to design and develop technological solutions to the big issues of our time that deliver ..."
+    publishedDateTime: 2021-07-16T05:25:00Z
+    webUrl: "https://www.fenews.co.uk/press-releases/79-sp-821/72801-intelligent-real-time-sign-language-translator-designed-by-teens-wins-20-000-national-tech-for-good-prize"
+    type: article
+    provider:
+      name: fenews.co.uk
+      domain: fenews.co.uk
+    quality: 6
+    images:
+      - url: "https://www.fenews.co.uk/images/ILLUSTRATION_-_BSL_Educate-2-Translate_Winner.jpg"
+        width: 750
+        height: 570
         isCached: true
 
 secured: "s3yApoW6QHaeQnAv/T0z9YtylrPASBgBXSTerjNX1QtdtmGNNMVks2X2wXjH0VHKmW3X+RJgGVdQXyVNPsrrJtwJ5TBC5i+31OVtsSpaKpR/kGA17BQvUi8PDQjEf1O3k4WcYDJp4Nw/pk5ojDWtkcLP8MRfWFvuYRwQUdYWL3oCxgZ44k7efVdpNfgAGXB43Auy8VoTSS2XS94fYG8LC6JpvbiTyWxSzRq5FnqbMwUlkG3ySfQYSG9w3OLTe3SxqhUzSBO3+vE9BbzlYBDFJLaz8dFD4CJY+gT7zCT+CUcQxUgyLblGi1BzhNNgtiF35Wj9BNhW2CJMITPfjc23UX94s7K8ZiLviK01wDu737rYPYswiunhMkU+SXVn31wM+J6SuZ+JbXCM+RF3LoHQglum9fhhNmT8mJuJAyCu4xioN/DZgBcpaXtRfAanC628WXEL+8ElE9Q4mEgElSK/JdUkzAAkosrJnARa8FfnyUkWiYLcVPMCbYz8+Bl39mac6op9695PSpJlUWAUPRKW1A==;Xu5F93ECX5ZLBiLPMKDk1w=="

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "In Pursuit of a Career in Healthcare, She Became an Engineer"
-excerpt: "which provides artificial intelligence-enabled analysis. The Wall Street Journal recently spoke with Ms. Lanouette about how her pursuit of a career in healthcare led her to engineering. Here’s her story, edited and condensed."
-publishedDateTime: 2021-07-16T13:33:00Z
-originalUrl: "https://www.wsj.com/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200"
-webUrl: "https://www.wsj.com/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200"
+excerpt: "From Connecticut, Gabriella Lanouette builds algorithms used by ophthalmologists in developing countries around the world"
+publishedDateTime: 2021-07-16T12:30:00Z
+originalUrl: "https://www.wsj.com/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200?mod=business_minor_pos1"
+webUrl: "https://www.wsj.com/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200?mod=business_minor_pos1"
 ampWebUrl: "https://www.wsj.com/amp/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 640
     isCached: true
 
-secured: "mmqqO3RL7oGmUySBpCML9Z+Sl9Wgfv7nQ7YO922MFPEN3ErCUJvxvKDYgE1nze3GGmqzeets/RdOhWshPjIyWs8iVxpPdBspM4NxQPJPOfkcDAv3N7hcIK9kJwHrTGADsNHPnbeYGOlyHFsP+dwN/qMEg0i1zUie1BHUq32H5YKDBGJcSqne0G3FmO4Kl6QOrCGHcqYo+gxMShWiltMps4Gi3kczgXEgQlrUIgNsF8+Ul0nkjNKE3JRWYI8aMH8fO3dvpFyWYMVz4QT95pF+zPqly0zdW5Od/sMWTk78PuVfQUtfpITo+5De0un8dTHptRAPqv+NHoDvFkeJvHWpdoYF89LIV/mR3GkaTyAeXjugDZtbftK39yyMCc4QKlfVJkk73Z/cMDpF85+Smfv/tvmQlgOAyUgIsIYgSI+h/eYuIDzHDvppjTS2SOn2WADNuEqN8uvw25V/bUq5pSioR5AQyWyxJ9jEA0lw7FNFoS+2hbJ8iiD3AdulI2GIw/sJ+pDPcD9xIbV4KzaYZompig==;zXT71wpTfYMSbdBW8Hirjw=="
+secured: "vW6jUkMkRtXYmzIQXvt5Y1iFa9LlSIMB9klIU65dj/38YGvoZD2/RIDdqktWijUImnVxSboDKUqXSJSIex4xaJOdt6uBR63XKEq8HRC4WIZ4h86Eb3geYadu2s3JWJ/p/W+SRApZWUJBdVOPdkjqHJ280NKiDsg9avdICo7PUbIISHzkQCJWRPfOcnJs4cxTwU8W0zQTnsKnsAP8TMSeLvrRu/9r9Rx20siHxHDdujyhhs5aPWv4jCexFGSzOwYPduO729X9vP6z6XEdv/MGto5WWnoL/woAltRFy5aORk878YHNJrGKMnq2swMpaVDWTLtz0DLYxzEQzklZ8LoxsHMsurJPOWxTlDir+Sa1PAI=;hdm7EzCYjk8QgrdWmwWVJQ=="
 ---
 

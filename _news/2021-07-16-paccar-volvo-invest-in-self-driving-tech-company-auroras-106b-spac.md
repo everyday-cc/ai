@@ -147,6 +147,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Company That Absorbed Uber Self-Driving Is Going Public in $11 Billion SPAC Deal"
+    excerpt: "The latest to join the SPAC boom is Aurora Innovation, the Silicon Valley startup that absorbed Uber’s self-driving unit last year. Aurora announced Thursday that it will go public later this year through a reverse merger with Reinvent Technology Partners,"
+    publishedDateTime: 2021-07-16T19:32:00Z
+    webUrl: "https://observer.com/2021/07/aurora-autonomous-driving-uber-go-public-spac-reinvent/"
+    ampWebUrl: "https://observer.com/2021/07/aurora-autonomous-driving-uber-go-public-spac-reinvent/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/aurora-autonomous-driving-uber-go-public-spac-reinvent/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 39
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2021/07/Aurora_Semi-Profile.jpeg?quality=80&#038;strip"
+        width: 6646
+        height: 4430
+        isCached: true
   - title: "Self-Driving Startup Aurora to Go Public in $13 Billion SPAC Deal"
     excerpt: "By Sohini Podder, Noor Zainab Hussain and Paul Lienert (Reuters) -Self-driving technology startup Aurora will go public through a deal with a blank-check firm backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus,"
     publishedDateTime: 2021-07-15T13:55:00Z

@@ -106,6 +106,20 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 19
+  - title: "Every city's drivers have quirks. Studying them could make self-driving cars work anywhere"
+    excerpt: "To understand why it's so hard to make a car that drives itself, pay attention to how people cross the street next time you travel. In Los Angeles, pedestrians wait"
+    publishedDateTime: 2021-07-16T08:15:00Z
+    webUrl: "https://www.fltimes.com/news/nation/every-citys-drivers-have-quirks-studying-them-could-make-self-driving-cars-work-anywhere/article_8a43202a-ded3-5574-a3e6-06c44f1ff5d9.html"
+    type: article
+    provider:
+      name: Finger Lakes Times
+      domain: fltimes.com
+    quality: 14
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/d/78/d788e464-fed4-51ee-a341-1bab6f35538c/60f14ae3ae8fc.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
+        width: 840
+        height: 630
+        isCached: true
 
 secured: "D5THb+VNXPpx3KD1XIj0cTzFq44u8DfnpaVqm/CNnJ7mBX5P0dzt3iBlGkoH4PQaZ55ItIbF39Hw23WuauYA2T4DB/zZecQKX+C+y0j10ZDkbJDBVLZXl0W9y2hgETlomiHETFP61CD2qUqHJ28CsfwCw/Shs58X+tSS38xubKu0pum4i1eyOP1z1hpZ18W6DTKStDxZFfw2Vp8gGGMM9com+ux8P3oH1CmMzxqA4NrrkAg3JTQ7w4Yo+ru3ifxFOEcVZanGdEoqmMOJiGjtxWHG1BVzRnZ7snrU9YcTssYLA0prmuQS1XnIW+yLM8CEJNnH4yec5BaImZcZ4RSLr1WEiMAq0bGhqq6IFzm4WuDqID3kKf65gZs6i0lqQa3evFDX1Jpz2+GovzicwUJxH1HrEvz4bYqs417/gSzk//GaTZI3yv3k6Q3wsEdDYZ5tjjXWIOiiqtFVP/029KlKM9C7zpXCHD5eO91dNBqDAbJ0pRnN3tvzD/j6h1lKfR9l4pr/t+LViUxciwTUG0p77g==;iMV5HzQ4PeXDTBq0VO33ng=="
 ---

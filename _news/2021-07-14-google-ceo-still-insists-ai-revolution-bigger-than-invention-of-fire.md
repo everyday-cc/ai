@@ -16,7 +16,7 @@ provider:
   name: Gizmodo
   domain: gizmodo.com
   images:
-    - url: "/assets/images/organizations/gizmodo.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -75,6 +75,6 @@ related:
         height: 385
         isCached: true
 
-secured: "bBpb/C6rB1g2n6s34mC+hyNkd0ep8iHvTDiwNdrujD+mjLhfUUWrqst7Pj9/2eBDVVvhcHE8lSjZNhPHzRFNDypPLEqb4psEvZIBgO7ouwIgs6Vm7MUDq4LM+WwcteuTuQ9ybG6izOBmKQuv/jlimDysG9s6M9/AgYUJw0VJA8at5gQBdLfvgb57PZIro6AgynE/PnyOWqHJktHGXenIl2iU39rt3/Li0b1XYIqlETJVVUK3XYaU8BoPqgK3+6Mv/L72mZcjMxhpQ4mSKlCV1rX86MvPx+5KIQJkqEci/yFCanisGsn+iKdlq6r4b4jzV4b7920kSCpz9AEACexDDArDC13E7fgicjdHeTuGOak=;UVOuEuooJnIgxEoraozo7g=="
+secured: "kximzxd/Y+2qWipXLz7ZBpsZPJUlkoCSU9Q2i3xlIo4dzl8Jo8G8IPG+1Z2IG7br1xTRSo3PVp2v17/zzYuMwGOXAoDcCvjLaRXBEfKhuqO0mjggWVUEMf5l7lOCqu+sMsY27CDcgBUE2rZwFnx19VRZ9+ov4YwSMTFJYEzSLJhRL8eaoYDm8A2argzGDoaojGY80lRe7sVAFq6N6BOKgRv7y3OMfwVSq76uMKdMY/DNJwk2H3maQAzMldtTI8fVZlUq6Fu//3Utg7SdLTBpNu+vWkejSNiX4lV6e3BhoAGzLD36lamSXk8vaO1z+qLZBW7oKiYP14o82mncIKdqbtXiAcldmN/Ruh4zNb06yXcrPZG1U9CYDvlcD0CfnI8GSKL5RYNXENw4Xf2bsIg75WUvRCdNGKaRrLSufOF93+n3wUF1gHardTWNbB37lNZzthVIDY9Pcnj8roYL95Uejcj2YFc/Cu5GDHt5rulPyCdjjVT/L8NNXuvrwj4M2GaAmJlVs0gDsP0cCw41yfOXRJFdywWbfV5Nks1KHoHYpEc=;GxljGgYMq3qOqCC8/5Dw0w=="
 ---
 

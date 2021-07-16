@@ -45,18 +45,20 @@ related:
         height: 630
         isCached: true
   - title: "Worldwide Robotics Industry to 2025 - Co-Bots Drives Robotics Market"
-    excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to 2025\""
+    excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to"
     publishedDateTime: 2021-07-16T11:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-robotics-industry-to-2025---co-bots-drives-robotics-market-301335516.html"
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n22015462/worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22015462"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22015462"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Detection of COVID-19 via Automatic Artificial Intelligence Cough Analysis"
     excerpt: "A team of researchers has submitted the system to the Cough Sound Track of the Diagnosing COVID-19 using Acoustics (DiCOVA) Challenge. The covid-19 crisis has tested healthcare systems throughout the world."

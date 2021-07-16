@@ -219,6 +219,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "'Roadrunner' director defends use of AI technology in Anthony Bourdain documentary"
+    excerpt: "Morgan Neville came under scrutiny, despite having permission, for recreating Anthony Bourdain's voice using artifical intelligence in the film, \"Roadrunner.\""
+    publishedDateTime: 2021-07-16T19:31:00Z
+    webUrl: "https://www.goodmorningamerica.com/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
+    ampWebUrl: "https://www.goodmorningamerica.com/amp/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
+    cdnAmpWebUrl: "https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
+    type: article
+    provider:
+      name: GMA
+      domain: goodmorningamerica.com
+    quality: 53
+    images:
+      - url: "https://s.abcnews.com/images/GMA/morganneville-leshalles_1626436645036_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Anthony Bourdain's Voice Recreated Using Artificial Intelligence For New Documentary"
     excerpt: "Anthony Bourdain's voice was recreated by artificial intelligence for use in a new documentary about his life."
     publishedDateTime: 2021-07-15T21:56:00Z
@@ -275,6 +291,6 @@ related:
         height: 710
         isCached: true
 
-secured: "P661gDTr3bBYi9h7tuXHAo4c2pxe8H/wYOAr0LNgolp1XqDYoy4+hJ1qO/Z+K1XFlkaTtsY6AIrFMvVfsXwiNowi1sdPlFeYejJR6ijQxpoq+G9MLKvahTGPjuI/6Byqazyh8XNmnZvFASkYZtE3VPJ5P/cEjfQxJEBR0oJD7/0vrTwhaSzLW0fH0nwr7vAWw19QBfCBG9lqhkhaGxKGgUU6qX1q94nYwjePXROx78GUwozYG0LWkQxEa1LksOaBvYTKnstoSzZKcn8gc7NiDNQR1JgQ1wTAo1x5tehM3j9wJ74ofSAtze9YdMoxAIw1TOwLOPGaSnDKZdBI4BF9spKxs4OpAfTE72tVQAm9GMQ=;2Dz+J8saBYRQG6i5k05lbg=="
+secured: "pIhOiUFTfovyRm3h9bFxUFNXEwAiPdKdvrksweXttrAEQ8tfA8M9HDtdUBW5ONZA2c+zc0hPEfaekAGaA2YzrAtLNxzX/L1SFJI5UP6fBgLTKDp7yiFX9tGYqLiXJ29oxu7020H2DJkMPFe2DgaRJvPu8pWE7OwwX4F/oLJlw2SbYhkMOd6agMyR1SWUsxY3Snf2AqG4oah6M9IbG6JX7aM0rWusEU2PuKoDtbNkamptjO1aX5t0qnswodiB4iAS2W/p77cWdUZ80uc8X2LVmFt/mH35xMU+TcNvSFHxDovHCjCJQtUMXeShCxnmnFYoKGO5Pj+GQkaxutIsGzr74CexFFWIQ+IE9hG7uasE3WseCUe5X+CF7bTYQ0WDSk2nw6/JcgFTg5WNTzwWwlHEs/pNBV4k/ta8pRibmH+OKLyOyTDE/2TfVVeRWwRWSL8JECWMVlMUSNzOvp9QY93v7aZlkZXkgMHdpgOE2ZcMiYESRLJRhbZL4QLQdf6o1tunvEoEp2V4Y6EfJtXbU1RM+A==;mIWDjV5KFLXKpDbDnAQryg=="
 ---
 

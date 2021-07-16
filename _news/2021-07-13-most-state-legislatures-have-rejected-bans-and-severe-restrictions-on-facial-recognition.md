@@ -235,20 +235,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NAB pilots facial recognition for identity verification"
-    excerpt: "NAB has piloted the same facial recognition technology as Westpac to allow consumers to verify their identity via a smartphone. The bank revealed to iTnews that it tested the service supplied by Sydney-headquartered OCR Labs. iTnews revealed in April that ..."
-    publishedDateTime: 2021-07-12T02:08:00Z
-    webUrl: "https://www.itnews.com.au/news/nab-pilots-facial-recognition-for-identity-verification-567155"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/NAB_Media_image.jpg"
-        width: 670
-        height: 447
-        isCached: true
   - title: "Facial recognition tech fights COVID-19 in China's Yunnan"
     excerpt: "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a"
     publishedDateTime: 2021-07-13T12:45:00Z

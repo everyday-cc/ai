@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Intelligent real-time sign language translator designed by teens wins £20,000 national tech-for-good prize"
+    excerpt: "winning £20,000 thanks to their two-way AI-enabled British Sign Language (BSL) translator - BSL: Educate-2-Translate. The prize challenges young, innovative minds to design and develop technological solutions to the big issues of our time that deliver ..."
+    publishedDateTime: 2021-07-16T05:25:00Z
+    webUrl: "https://www.fenews.co.uk/press-releases/79-sp-821/72801-intelligent-real-time-sign-language-translator-designed-by-teens-wins-20-000-national-tech-for-good-prize"
+    type: article
+    provider:
+      name: fenews.co.uk
+      domain: fenews.co.uk
+    quality: 6
+    images:
+      - url: "https://www.fenews.co.uk/images/ILLUSTRATION_-_BSL_Educate-2-Translate_Winner.jpg"
+        width: 750
+        height: 570
+        isCached: true
 
 secured: "OF7M8kGbwZtRlSAH6TwmpjtoOh5AdjKfZ2Zk+igv6C6EfJ/3bXGBsXLZMMQcsf1Uu1oeBq/eSrIIqpsIkAQopY+0GAZgesifT5HIc42hrFVjvHG+y+fkP/LiCxN/Y+uDxNFcw0QxHTM64p397o3HR5M6WXQsF7LF78sLagqy8i6qZ5jyQmB1wVnf/fnUTJeyUX8KFpmhRnyJNXO0x2iT/CJv4ku004DZHMVWqaaK46trZ3WwFse+OLFl+zsVSQAg5yRwn92DQqRblA8xvQMPfYVbDRk+p8Iuw/07q0TV6Tj5qGqYT+w2mAnDxliA/MMQGFt7SRvdzkfy8GvZeD6SXd7VYhKqspOR490sKAd1aZfAPVw58nIMhi+YT1ZUHvFycZFufefq14nJBe1mtv54pW4VmCZ/BhK5Mbl8EwnW+3d1YzVqYMsmgyslBBRZFPXXdUhq6b8h55Qr57h3T3BztSdG6+lpps86phxvw6J7hbmuMcRtA2E4a4Zs6koSsyU8JU4CSdvDTBMWPlpMw3zQiA==;qUn7PUImWCqb9se5ZSJ3eQ=="
 ---

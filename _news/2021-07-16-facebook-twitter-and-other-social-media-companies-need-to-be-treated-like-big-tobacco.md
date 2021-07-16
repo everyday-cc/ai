@@ -89,6 +89,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Facebook – Facebook’s BlenderBot 2.0 bot surfs the web for knowledge"
+    excerpt: "Facebook detailed its work on an AI chatbot called BlenderBot 1.0, which the company claims is the largest-ever project of its kind. In an extension of that work, Facebook today took the wraps off of BlenderBot 2."
+    publishedDateTime: 2021-07-16T15:40:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/BlenderBot_Graphic_V1.png?w=800&is-pending-load=1#038;resize=800%2C450&strip=all"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "LRrV6VMNQkfO3mUS9WtETkZbXBz+IHNIv66+bFxNQIw+bgaCrm+0WHIPnzjKafbJ2JNjBm8TXxhXsKLNduyij07K2X5Vx0fBbqEGyQgndilesAc4QBFebLBmuKViG01Tc35OQMiu9ZKblw6anQHWSsVP+qJbUkhnIv1DLdumFFVvojYaZ08VgIn2cQlGl3tSDKXoNOvUdl31RCBn+ZLtVJJQhzJyh4VKMsNyD/iUc+nccRm9MI0B65ooP0IDrL17Cren3FeqsKvHPlzl9HnifhGQ9J/DHGT3HHIwuIqUF9QjLZmiaTc8AXIRCvncSphx6+K8aTwJivpPp66Xtk8rcvXcFo3VjEeZ6gyQnBasU78=;WMOv6zHj89Jo74SBRwGBcw=="
 ---

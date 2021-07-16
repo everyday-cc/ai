@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourda
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/"
 type: article
 quality: 103
-heat: 263
+heat: 273
 published: true
 
 provider:
@@ -201,6 +201,22 @@ related:
     provider:
       name: ABCNews
       domain: abcnews.go.com
+    quality: 53
+    images:
+      - url: "https://s.abcnews.com/images/GMA/morganneville-leshalles_1626436645036_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "'Roadrunner' director defends use of AI technology in Anthony Bourdain documentary"
+    excerpt: "Morgan Neville came under scrutiny, despite having permission, for recreating Anthony Bourdain's voice using artifical intelligence in the film, \"Roadrunner.\""
+    publishedDateTime: 2021-07-16T19:31:00Z
+    webUrl: "https://www.goodmorningamerica.com/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
+    ampWebUrl: "https://www.goodmorningamerica.com/amp/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
+    cdnAmpWebUrl: "https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
+    type: article
+    provider:
+      name: GMA
+      domain: goodmorningamerica.com
     quality: 53
     images:
       - url: "https://s.abcnews.com/images/GMA/morganneville-leshalles_1626436645036_hpMain_16x9_992.jpg"

@@ -98,6 +98,20 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 19
+  - title: "Every city's drivers have quirks. Studying them could make self-driving cars work anywhere"
+    excerpt: "To understand why it's so hard to make a car that drives itself, pay attention to how people cross the street next time you travel. In Los Angeles, pedestrians wait"
+    publishedDateTime: 2021-07-16T08:15:00Z
+    webUrl: "https://www.fltimes.com/news/nation/every-citys-drivers-have-quirks-studying-them-could-make-self-driving-cars-work-anywhere/article_8a43202a-ded3-5574-a3e6-06c44f1ff5d9.html"
+    type: article
+    provider:
+      name: Finger Lakes Times
+      domain: fltimes.com
+    quality: 14
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/d/78/d788e464-fed4-51ee-a341-1bab6f35538c/60f14ae3ae8fc.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
+        width: 840
+        height: 630
+        isCached: true
   - title: "Studying local traffic quirks could pave the way for self-driving cars"
     excerpt: "Driverless tech company Argo AI is testing and training its sensors and software in seven different cities at once, including Detroit, to learn more."
     publishedDateTime: 2021-07-16T12:30:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-16T17:42:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2021-07/uosc-et071621.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uosc-et071621.php"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/270853_web.jpg"
@@ -41,6 +42,6 @@ related:
         height: 1343
         isCached: true
 
-secured: "fLYZAItUg2+lFIoKU8Uz/vg5pzPyQUJwX8CTkzXpbhLP5iCzG5NB8kfz6sy/UbvKVjM5/a5kn6R0Uyer0TjlMMOPxO5I+daJm2G18peiUaLFq/vdtdvmxOFuOEP7MbkbjGHRcgREkTSG5BZNXKxc5QJJakRBfYIu2v+vKSetnEydZfhbKjIbs5r9jOrQrZVkNGyJKK56jZQXBqahvCk2NKX09b3Te19iZ5dckqyOeABbWwfqNW49AkBnuPdSmu1mZavEhYRJ2jz8WS1dokIb06lEIBRXhEX2XK9gEPbuaBUn90gg5feu5Ic2saT+f/uZBMkKinWk6sHhG5+jVxQankOkcrvTHYbsjUNYXs4knKU=;eLBLXqhUsub+fRN5Gn3eNw=="
+secured: "1XAVdDoM570WYMg6FusExBqWYehQLgm0k2uFpPVQdgeYhsB6T29BO+sXF/ixqa/Gz1F/EdSE4KN2cOY9py7/VA+BZVIOTdPlKnYG0okYt28eE+Pxi2p9dWSlkWbDF9+nYTUGEIPiKCKx28tCY3OgOsE6zQyJ7YCKZUgwLw4M7/CU4mBh1FMrFx2wnV0vF9FlZTRh2zB5E465Ub1vUCxyqo7WVYllGnybh7PKO0VLHDVDjdqoBFA24vTbh1q/iL+WjIOLSmby8cE1X2U+nZ2CHTwrfl9vGUOgeClrDMOkeIwfN7dznQay7jwy8yaQJisZO6r7j7JvChGv12E/sZ8BJG2BeTXfiSMzcel9u3edwVNyIO3/Xn6Iqb98BdUlThO+Vnuu6CNAYnlz8o8etxigDHLpiDSIPGogdfmzQi6YV5JHVbLCHHP+ulCi9OAZlDfQlNWKAIjsz5FkOXzOQVJBxvYOROls/XVoXH3ssX1yOfYzCK7zkbo4rbgBeA10GFns82u5yfMw+dL5Ylck1JrrxQ==;zI03FOqsBaXI2RU6azgRFw=="
 ---
 
