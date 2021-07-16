@@ -1,27 +1,27 @@
 ---
 category: news
 title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
-publishedDateTime: 2021-07-12T13:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
-webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
+publishedDateTime: 2021-07-12T13:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
-    width: 2161
-    height: 1130
+  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -219,15 +219,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "CIBC inks Microsoft Azure deal"
-    excerpt: "Azure will support the migration of hundreds of applications to the cloud, as well as offer scalable computing power for CIBC's enterprise data lake and AI platform. The bank will also get access to a suite of Microsoft training programmes and ..."
-    publishedDateTime: 2021-07-11T23:23:00Z
-    webUrl: "https://www.finextra.com/newsarticle/38434/cibc-inks-microsoft-azure-deal"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 34
   - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
     excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
     publishedDateTime: 2021-07-13T07:13:00Z
@@ -298,6 +289,6 @@ related:
       domain: thepacker.com
     quality: 19
 
-secured: "R1Or3y1J0GZWlCA9nB7hlk7p8XjS8tuk8PkAfhr/EQ/MCYy9ntuFlvQhXgX2ujqjHdLj780h8xjOvj0s0D+0Ix9VvKY0uY3WLVjFVcwZobBilkfYCzk6SKhpHYIcan5hkh3Wr/dC33ooYXGRPICZpeI/mjf9bJdjdIxbr066dPa1HGVwS0CBTVQRZosVGvZXWyCxMg1yjtFuXtSLz+hECzDdb2XrsSFDRqc79wrDdEHmkTGfyTxVH6FOrY+qi4XBxZdJDSXAN8iWf5KAPP1urHYOQ1wDS32EmPgwl3Nwr0F1Nb392cDvB+ZT8utvtFJ0MMgCgGRx3YfVwjE3wVKyEZCXqCsyYkKEt4FJA6I9v/Y=;QiVMzkMDFOLln8Bebmm5wQ=="
+secured: "Xe2zuA4lBRQh9+xuntbEtm76CjbHMUnjYlWoS0rRUzp2VvQP8tp/xJ0wERp9TJlSWWsBSaOqypJk7X3ZgD/wkxEf4YJW8TKfQsxk8W8ytO+MDuSF3WcJ+ZKJZJ0fnrQ8OAxAoEiSNIJ+SU+X3lFHfbhxqOCfSG3vjQQvpyaIWT6eqqKjWaeauBZ6A6YcDYuPbwBiteNfQOrfWIvEtWGtP5qP8Ix4QBVCARA/KWZwo08QbcCu+z/5fH31edpFKnPsK6kjVIjUG6eZOyyMFSdgNU1ccZNxNx8nDzH9mhx/7F7j7kEoIF+6O2Hy8l/e9CeSk+U4DLz+j2EK9evnqlJnurRiZQIno8JSPqM/AlKzrEM=;F8nxWJXfjpMAvX4R0n5DIg=="
 ---
 

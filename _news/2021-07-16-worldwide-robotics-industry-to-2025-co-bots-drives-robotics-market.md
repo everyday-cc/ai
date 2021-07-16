@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Worldwide Robotics Industry to 2025 - Co-Bots Drives Robotics Market"
-excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to"
+excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to 2025\""
 publishedDateTime: 2021-07-16T11:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/07/n22015462/worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market"
-webUrl: "https://www.benzinga.com/pressreleases/21/07/n22015462/worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market"
-ampWebUrl: "https://www.benzinga.com/amp/content/22015462"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22015462"
+originalUrl: "https://www.prnewswire.com/news-releases/worldwide-robotics-industry-to-2025---co-bots-drives-robotics-market-301335516.html"
+webUrl: "https://www.prnewswire.com/news-releases/worldwide-robotics-industry-to-2025---co-bots-drives-robotics-market-301335516.html"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png"
-    width: 1200
-    height: 600
+  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
     isCached: true
 
 related:
@@ -92,6 +90,6 @@ related:
       domain: openpr.com
     quality: 17
 
-secured: "G+3DB2/CKCVDk0iiGczk6h38h0yQ7nJoSChpVU5clJF3sIafW2zVW9SRAHu/TKbcxd95E6PdnZFkbSNHxmEiGwhe8qu2PET4lJnyWyRkz2uA32zKHpcy9f9XffABNqvQ7N5FDiTiv2vtlplbjW06YciLqm1nQvg0kgyTev1cjZ3w05IuipPzPAUYq+xAbUTjLeQEZWKDaLk8sSTu3YIYgLiOYb628ODL4/uVZwwlfqoFF0QE936I98H/+otAKTJjkELK3oTDuA4IoVmWfnFaQFMhXKIGdsM+6M/+Pf4ssF0kGb3a0RGwRV834nDy6/HR4artqmGObVktEv+/5iOyQRUZ+GHwkJBFTr9FsFdu+jA=;DOPLmFp3gJmExV86DWSZig=="
+secured: "mvW299aR3XfT6DGwvOtbsrBOWUhBl1TYOauQmln5on+RgAXyyjpthlSeqJ3CdqzRM+k/t5bOcKbtX5YaiSCKPK8sLoG/nItD51liRJZPdtoG8WvhiMQ+UqIAZhRbFig3jqV6SDAnAOlCALY7NMy66nWsfj3u9N1WnuCIPNQUXHCuOqlmm1hswM0+2CkWM3HGL/eeWVS31qBXeEotGkaZs1BaoqEOyiSzLkVucTfhwH81/X+IRfC+vgVjeBbIAVmUXHrryQYELUjEywaY6b+ZAYzGPpARmuND1Zt37pXsNOPLJvgs6B/jKpjMYQvmCXRVS3YwFIBQ99d7N4Wb5f1dD5MF0VDLqp3jnjw5hXUceYk=;FdQgd6cPkBqM7fYHXliqVw=="
 ---
 

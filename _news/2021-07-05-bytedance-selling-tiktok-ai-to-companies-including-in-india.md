@@ -1,26 +1,28 @@
 ---
 category: news
 title: "ByteDance selling TikTok AI to companies including in India"
-excerpt: "New Delhi: China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of ... automated speech and text translation and real-time video effects ..."
-publishedDateTime: 2021-07-05T13:35:00Z
-originalUrl: "https://www.sify.com/news/bytedance-selling-tiktok-ai-to-companies-including-in-india-news-education-vhfePFdcbaijg.html"
-webUrl: "https://www.sify.com/news/bytedance-selling-tiktok-ai-to-companies-including-in-india-news-education-vhfePFdcbaijg.html"
+excerpt: "iBeat Analytics Ibeat 1 Year HTTPS To track article's statistics New Delhi: China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the ..."
+publishedDateTime: 2021-07-05T06:13:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593"
 type: article
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: telecom.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.sify.com/uploads/vaazhl600x300_vhoir7iehgbib.jpg"
-    width: 600
-    height: 300
+  - url: "https://etimg.etb2bimg.com/thumb/msid-84134593,imgsize-488272,width-800,height-434,overlay-ettelecom/bytedance-selling-tiktok-ai-to-companies-including-in-india.jpg"
+    width: 800
+    height: 434
     isCached: true
 
-secured: "q/bGkNl+uxyKPM8LBW+hpYTkiWe6zluANndtjprS1WpfYBffW5L+P6CKxxceIi8f4CqI57ZxmRrs+dobKVovbcoLBzBgAATcGtZxjzEFzN7K1or1+2dnToY+F5a6nn3DN61IAReEhvVf3bjAPnVulZ4BH5+V/EU9oU1NprZMQD6D0SJNmPl4IEcff8FiSjsyz7GrnPHuFnBZR35pQBAVclM4LeUfgjZIz6KlONa+ptU0OMGJe5eWimearwy8UjmjDZykRe4twiHEWdOT8v4JZNVdcCMQgMmMExoDLDrhCgAxsvmDnWaWOM0uuih367ok6SQQBOFcx/DBt6c7QdqWevcYyZx4evctnTrGDogvDGc=;pCYKG5xPpEIliB3IxLEasQ=="
+secured: "nxphSVtsErfoet8WgUSXT+LXMZ3IJ6nyPqIJJq/5z9l+r10e9SHTmmsWS7wZmt0aLkGjNLGTltLEcTIY4dG4DJJPsm1AW2v9SnFIuYCf2Qs6mkfXp8PCzyIrmtBnCBNC/U1JiwWE6SnBOI0Dfpcu50tLJ4jtGnmHdfT6YtsN7GdFHe/z85Ir2C7KLMmUzERgu6QCZnVi+a20og53RKY7jr/V2XKNSlFmj/17o4r/RT+NL2m2bqhf5PgGTSWAOSnmnt2DmF8NZ3zGSp1GI1RUp+YIOexqTPKE66EJcEDwHJr610n9UJydDf1znytWlBERy9lvhLubjuwWeM3HkK76gsi7DMAHzRj6uue5HpWDPEU=;8NUwZKE26MfmCHZUTzkEcg=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Black Teen Kicked Out of Roller Rink Because Its Face Recognition Tech Screwed Up, Predictably"
+    excerpt: "A small but face recognition-equipped Detroit roller rink kicked out a Black teen last Saturday after misidentifying her as a person who’d allegedly gotten into a fight there in March. The girl, Lamya Robinson,"
+    publishedDateTime: 2021-07-16T16:13:00Z
+    webUrl: "https://gizmodo.com/black-teen-kicked-out-of-roller-rink-because-its-face-r-1847306558"
+    ampWebUrl: "https://gizmodo.com/black-teen-kicked-out-of-roller-rink-because-its-face-r-1847306558/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/black-teen-kicked-out-of-roller-rink-because-its-face-r-1847306558/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 77
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d95f903dd492f87f4eddd3d4697d481f.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Black teen misidentified by facial recognition sparks fears of machine-driven segregation"
     excerpt: "Likes Werner Herzog films and Arsenal FC. A 14-year-old Black girl has become another victim of a facial recognition failure. Lamya Robinson was kicked out of a skating rink in Michigan after a ..."
     publishedDateTime: 2021-07-16T13:40:00Z

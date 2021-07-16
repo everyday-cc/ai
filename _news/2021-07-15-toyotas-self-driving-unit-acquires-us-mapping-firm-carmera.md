@@ -59,17 +59,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Toyota buys U.S. mapping, road data firm to bulk up driverless tech"
-    excerpt: "Woven Planet was established in January to invest in and develop mobility with artificial intelligence. It is building a prototype ... read more Moving into new and non-traditional car making such as driverless and electric technology, Toyota has ..."
-    publishedDateTime: 2021-07-14T21:34:00Z
-    webUrl: "https://www.reuters.com/article/toyota-autonomous-acquisition-idUSL4N2OP2HQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2OP2HQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2OP2HQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
   - title: "Toyota strengthens autonomous vehicle play with Carmera acquisition"
     excerpt: "Less than 3 months after acquiring Lyft's self-driving unit, Toyota subsidiary Woven Planet Holdings is acquiring HD mapping startup Carmera."
     publishedDateTime: 2021-07-15T14:42:00Z
@@ -84,6 +73,15 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Toyota buys U.S. mapping, road data firm to bulk up driverless tech"
+    excerpt: "Toyota Motor Corp's research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker's latest investment in autonomous technology."
+    publishedDateTime: 2021-07-14T23:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/toyota-buys-u.s.-mapping-road-data-firm-to-bulk-up-driverless-tech-2021-07-14"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Toyota’s self-driving unit buys US mapping start-up in software push"
     excerpt: "Toyota’s self-driving unit has acquired US mapping start-up Carmera as the Japanese group embarks on a software buying spree in an attempt to quadruple its global engineering headcount over the next few years."
     publishedDateTime: 2021-07-14T21:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/07/13/unleashing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/07/13/unleashing-the-power-of-a-diverse-team-to-build-more-ethical-ai-technologies/amp/"
 type: article
 quality: 103
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Using AI to Build More Personal Customer Connections"
+    excerpt: "As more brands rely on digital channels like chatbots, messaging apps and email campaigns to build relationships, AI and machine learning are critical in being able to use the big sets of data amassed to create more personalized experiences that demonstrate empathy and authenticity."
+    publishedDateTime: 2021-07-16T16:21:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/using-ai-to-build-more-personal-customer-connections/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/using-ai-to-build-more-personal-customer-connections/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/using-ai-to-build-more-personal-customer-connections/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 57
+    images:
+      - url: "https://www.cmswire.com/-/media/85b2cc853bd94b889ae52ba14e2f84a0.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "BUDDI AI Announces Expansion of Executive Team to Bolster Innovative AI-Powered Healthcare Product Suite"
     excerpt: "BUDDI AI, the leading provider of artificial intelligence (AI)-powered healthcare solutions, has announced that Vipul Kashyap has been appointed as Head of Clinical Informatics, Shankar Saibabu as Chief Operating Officer and Jeff Nussbaum as Chief Revenue Officer."
     publishedDateTime: 2021-07-15T14:49:00Z

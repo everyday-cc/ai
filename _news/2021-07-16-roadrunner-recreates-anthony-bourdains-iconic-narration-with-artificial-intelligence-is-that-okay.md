@@ -8,7 +8,7 @@ webUrl: "https://www.esquire.com/entertainment/tv/a36953906/anthony-bourdain-roa
 ampWebUrl: "https://www.esquire.com/entertainment/tv/amp36953906/anthony-bourdain-roadrunner-artificial-intelligence-ethics-debate/"
 cdnAmpWebUrl: "https://www-esquire-com.cdn.ampproject.org/c/s/www.esquire.com/entertainment/tv/amp36953906/anthony-bourdain-roadrunner-artificial-intelligence-ethics-debate/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/anthony-bourdain-visits-the-build-series-to-discuss-raw-news-photo-1626445038.jpg?crop=1xw:0.72745xh;center,top&resize=1200:*"
@@ -48,6 +49,22 @@ related:
     webUrl: "https://www.cnet.com/news/anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died/"
     ampWebUrl: "https://www.cnet.com/google-amp/news/anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died/"
     cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 88
+    images:
+      - url: "https://www.cnet.com/a/img/ygG9OnwVAXclz9rN4SrLRmZZIR4=/2021/07/15/01a10222-21c1-4dc7-9e83-0e2f0947439a/anthony2.jpg"
+        width: 1194
+        height: 672
+        isCached: true
+  - title: "Anthony Bourdain documentary uses AI to re-create his voice after he died"
+    excerpt: "A documentary on the late Anthony Bourdain is drawing attention for its use of artificial intelligence. Focus Features . A New Yorker review of Roadrunner, the new documentary on"
+    publishedDateTime: 2021-07-16T16:39:00Z
+    webUrl: "https://www.cnet.com/news/anthony-bourdain-documentary-uses-ai-to-re-create-his-voice-after-he-died/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/anthony-bourdain-documentary-uses-ai-to-re-create-his-voice-after-he-died/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/anthony-bourdain-documentary-uses-ai-to-re-create-his-voice-after-he-died/"
     type: article
     provider:
       name: CNET
@@ -200,6 +217,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Anthony Bourdain’s Widow Says She Did Not OK Use of AI to Fake Husband’s Voice in ‘Roadrunner’"
+    excerpt: "Shortly after Neville’s interview, the use of AI to approximate Bourdain’s voice was criticized and set off a spirited discussion on social media about the ethics in dealing with documentaries of deceased people. TheWrap has reached out to Neville ..."
+    publishedDateTime: 2021-07-16T16:15:00Z
+    webUrl: "https://www.thewrap.com/anthony-bourdain-widow-responds-ai-fake-voice-roadrunner-ottavia-bourdain/"
+    ampWebUrl: "https://www.thewrap.com/anthony-bourdain-widow-responds-ai-fake-voice-roadrunner-ottavia-bourdain/amp/"
+    cdnAmpWebUrl: "https://www-thewrap-com.cdn.ampproject.org/c/s/www.thewrap.com/anthony-bourdain-widow-responds-ai-fake-voice-roadrunner-ottavia-bourdain/amp/"
+    type: article
+    provider:
+      name: TheWrap
+      domain: thewrap.com
+    quality: 47
+    images:
+      - url: "https://www.thewrap.com/wp-content/uploads/2021/06/anthon-2.jpg"
+        width: 936
+        height: 527
+        isCached: true
   - title: "Anthony Bourdain documentary attracts backlash for deepfaking late chef’s voice using AI technology"
     excerpt: "A new documentary about the late chef and writer Anthony Bourdain has sparked backlash after it emerged that the filmmaker recreated his voice using artificial intelligence. Roadr"
     publishedDateTime: 2021-07-16T10:17:00Z
@@ -216,7 +249,32 @@ related:
         width: 600
         height: 343
         isCached: true
+  - title: "Director uses artificial intelligence to generate Anthony Bourdain's voice in documentary"
+    excerpt: "The director of a documentary about Anthony Bourdain used artificial intelligence to recreate the late food critic and world traveler's voice."
+    publishedDateTime: 2021-07-16T16:13:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/anthony-bourdain-documentary-ai"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/anthony-bourdain-documentary-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/anthony-bourdain-documentary-ai?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 45
+  - title: "AI Brought Anthony Bourdain's Voice Back To Life. Should It Have?"
+    excerpt: "The director of the new Anthony Bourdain documentary Roadrunner says he used AI to generate Bourdain reading from letters he'd never spoken aloud,... \"We can have a documentary-ethics panel about it later,\" joked Morgan Neville, director of the new Anthony ..."
+    publishedDateTime: 2021-07-16T17:19:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1016838440/ai-brought-anthony-bourdain-s-voice-back-to-life-should-it-have"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 39
+    images:
+      - url: "https://media.npr.org/assets/img/2021/07/16/rr_fp_00785-185acee304921a2d4c11b2d27021379d1338a0e1.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
 
-secured: "oF/yTH1En3FrvJV3O7XIM5e523ntlXonuD1kVjc55wi+gELpG5MlEOtFzyA13yGd3FKSSyDrNjeS8RhiTO2zl+h9q372S7rmUKC66EZ1AAmD3Q24nFFvGDoFAw6PWA1Jw7Kf5K4MLVVyfiS4QzvlLADt27jXIVs4bd8im/+hdwhU89KhWq0k3leOWt5cS2NKkaAx5QCQ02TncqyKsONW2TDVGUv/yEl6TJgKcUkODaF4IF5RgCebtJhSKNbsZrGLfLd2l0juUSM/Uc+wh00rqv12/fvmt8qEXcxzh+ymCa9Ih2YkrLNZTVxGSUx7O6/RKAhJtXO16O+V6TBqeTc8bsFzjii+8jZXnAlhTfu7Z/s=;o8cOGXq+PMkBPQa07DX3hQ=="
+secured: "il0ZKO3ZOUT5BsuasmtSf1a+mdKQPyxhuU0wGwFKlPpUAHXNvI3smOIgwJhB/t6jV/yBn4/ZbELuUDZQy1MjaOWbyMuSE09f5rzWYsAdCvFoC3T6FFwYUipHxgaFHCJhV1uqFjJj6mFknoHEmAZH0lq3emUVN4ft9+6WhuBWiKSMrPqr4oiP9yY/8sPGMqwi7GbjpFp2c4ZEW4ihTGKlmNmqDg8oj0Cex+SG7YSUzvoWe6bl++Z6bolhpycpfHpih2d1ATJpeO0hGHA6rv4kaEzYcpzlSbo4vEBzMa5fWsGWujeJw71qtvdvWQDIXyEZUtt/apGh4HEO5DTHdr0EzBgjTu0ktJx/recD/9RON+UPyyEyarV8UCRjcayiAhWB94ISJ4rhsym57Wl2JB0ZUI+jWDZt18vi59U0k9Ldve4mvcnmh8Op7VPNVneVZLuWzFiNYNeN/lhpiyfNaPjEsmjhhBeH9SR+44Yg7vDMN94oxejJKl89zf+8//F7far3OS535LeLy2NuAcAY+cNQxw==;WEtk6NogrYEzGCd15zhjWg=="
 ---
 

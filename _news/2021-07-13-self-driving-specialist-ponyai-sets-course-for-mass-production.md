@@ -97,6 +97,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Studying local traffic quirks could pave the way for self-driving cars"
+    excerpt: "Driverless tech company Argo AI is testing and training its sensors and software in seven different cities at once, including Detroit, to learn more."
+    publishedDateTime: 2021-07-16T12:30:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/07/16/studying-local-traffic-quirks-could-pave-way-self-driving-cars/7990232002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 4
 
 secured: "C/V1SLaBbByqvk7fia6quUS+hmATNX9gYEe2z1fuOAO6vK8+pPnli5OMXDNbrXqcsk1ZnJ7O9qNArf5V3vqWn/oE5ujTHsmFmIdUhPwZSvD2/w8iSP/W7C28kUpqjsjGDF58rY/Y5J8gcTb5UDUf9/LqDBIzN3M6emT7OnpGJTPQxPyJa1hct7FC8m/4J4JKSByfU1RboeXidVWk5rM7NUKr0YGhnc1QTlG4aquBwr033CtHxukt4tyT6y5ACLe+J2kx8XPz5/SznoLf/vA8RvWEuALbgPTo0F76U9h4gVBbESmojfBNUkCoSLelq15/gOx+1iKy2/vSLFrR7a6eo4h/yhZzv8jT46sHZfVrG7YwXqE60NT7mCgaeW3qcCGpBvmLOa38qhsnVACCL5nPf+El8MyIKkrOQ+rQ6s88IY1uD3V2su31u0PEpKgh0t+LAysYOou7CRdCyh6IOlRuDXPSqwHH0+FHWKMtf4sAoG5xMbasR5Ct1of9k9XIvBBCm0yVo6reQwXvduyL1dNltg==;Gn3Fc7ERZfdk9kI3TsM+/g=="
 ---

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/06/robot-hands-typing.jpeg"

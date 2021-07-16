@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 19
+  - title: "Studying local traffic quirks could pave the way for self-driving cars"
+    excerpt: "Driverless tech company Argo AI is testing and training its sensors and software in seven different cities at once, including Detroit, to learn more."
+    publishedDateTime: 2021-07-16T12:30:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/07/16/studying-local-traffic-quirks-could-pave-way-self-driving-cars/7990232002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 4
 
 secured: "yLnqsdGumfRLHaqBsgiQP2QlnHStLwRlQe1xpqJqaXc3hlKMaNLzmxdnwGLlGz+1RpbEW6qFCs807j/MNrWeHKlL5LvC4joxLB791GWWvq0roa6x2tzNVuAWyHh2cJe7vbulj5ahfnbPCIVnhFuqEcnkI7gSJlYPh6K+m5xYJs2oF17eb238K9TxZQIGd5nK/4mY+o7CJ0VJgtLLPm56MMubNwVLGxK3F0rZCSZPkYbZMGI1snVttIn4aQBDcBKLedUdpU4X3XTDHaXKqvUEpxOlaLFK85evVzwbzretOlzXvnsZ3OXoeV48V0dbzaiP8Bn0GSWYm9mrV2Ic3/4tJ/s1P53peMC7/TwexvrJeESzY6KIbBnje9wZT5uquzBmEypA1ICTOqbX/YNZYCpRvfVB+SDIRSGk2cLkmXwJZhmHXi48A2qxOe+qpWJzK6rXWMxz5bII0c4UMmA8aked76iOm507doYlXK0sUmf5wU3c17vXatPBv4ERBrTpOWiReRc0C4uVbYAO/ifly6/WyA==;dhT5l4yYLu2uHHnxk1X7Kg=="
 ---

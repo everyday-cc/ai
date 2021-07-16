@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-07-enabling-artificial-intelligence
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-enabling-artificial-intelligence.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1920
     height: 1343
     isCached: true
+
+related:
+  - title: "Enabling the 'imagination' of artificial intelligence"
+    excerpt: "Despite advances in deep neural networks, computers still struggle with the very human skill of ''imagination.'' Now, a USC research team has developed an AI that uses human-like capabilities to imagine a never-before-seen object with different attributes."
+    publishedDateTime: 2021-07-16T17:42:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uosc-et071621.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/270853_web.jpg"
+        width: 720
+        height: 360
+        isCached: true
 
 secured: "YPYl7h2TW2buL1AShDxkB5yMq8HAyJ05mTaM6JHtcxOXX+oIqecbh2WgFAn3H/beVj0ejybRgA/POQqgDJxUVZqQ2NYMdAi+Ln62yjQmro6YtklKOaMcMPQ3yeTjsBgwzuZV3HlW3Lk4u6C0rb5k85QKdW1pmHk6ue1x+9DK8FsavWpRu/VRXDl3pp7+pU30j7P8Etq+LjZucOzVgQHrkqpXgcrD2okgrUe4f4FsKUas8LBIsEcSmQGaCVEHDC304Zsij4tiYcigFOSnQIdrkQEbPsRmd6e6+1uaoI0rYLXdRG5PQHvc63chd9lp1JPq7nLMERwggmxWKpkGF1xal1sLzr3ivXIyrIigYKXONmSpxpXb5c2VVV5ng47B304pdGXInjPItbSRFfQQ/1PGhwX2NsIdhl4ckZ5+Yma0VvOTPm9agqRC5iuND273PGmQUGl/qY57d4sUjRYVyuwcV1427er4U6/REM/levM2cR9AtZfr1JZHof/k+u7B5bx9OvUf/64uOji5P5K7mG4hFw==;Z9HgWxxk1hrXOlvXmREF/Q=="
 ---

@@ -59,6 +59,22 @@ related:
         width: 1194
         height: 672
         isCached: true
+  - title: "Anthony Bourdain documentary uses AI to re-create his voice after he died"
+    excerpt: "A documentary on the late Anthony Bourdain is drawing attention for its use of artificial intelligence. Focus Features . A New Yorker review of Roadrunner, the new documentary on"
+    publishedDateTime: 2021-07-16T16:39:00Z
+    webUrl: "https://www.cnet.com/news/anthony-bourdain-documentary-uses-ai-to-re-create-his-voice-after-he-died/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/anthony-bourdain-documentary-uses-ai-to-re-create-his-voice-after-he-died/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/anthony-bourdain-documentary-uses-ai-to-re-create-his-voice-after-he-died/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 88
+    images:
+      - url: "https://www.cnet.com/a/img/ygG9OnwVAXclz9rN4SrLRmZZIR4=/2021/07/15/01a10222-21c1-4dc7-9e83-0e2f0947439a/anthony2.jpg"
+        width: 1194
+        height: 672
+        isCached: true
   - title: "Anthony Bourdain Doc Recreates His Voice Using Artificial Intelligence and 10-Plus Hours of Audio"
     excerpt: "Roadrunner ,” the Anthony Bourdain documentary from “20 Feet from Stardom” Oscar winner Morgan Neville, takes a page from documentaries like Alex Gibney’s “Sinatra: All or Nothing at All” in allowing the late chef and television personality to narrate his own story through the use of archival audio."
     publishedDateTime: 2021-07-15T19:31:00Z
@@ -106,6 +122,22 @@ related:
       - url: "https://wp-assets.futurism.com/2021/07/anthony-bourdain-documentary-ai-voice-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "‘Roadrunner’ Recreates Anthony Bourdain’s Iconic Narration With Artificial Intelligence. Is That Okay?"
+    excerpt: "How could that be? As Neville revealed to the New Yorker, he and his team employed artificial intelligence technology to recreate Bourdain's voice to add in a few missing pieces that the director thought filled in holes in the story. (For instance ..."
+    publishedDateTime: 2021-07-16T15:26:00Z
+    webUrl: "https://www.esquire.com/entertainment/tv/a36953906/anthony-bourdain-roadrunner-artificial-intelligence-ethics-debate/"
+    ampWebUrl: "https://www.esquire.com/entertainment/tv/amp36953906/anthony-bourdain-roadrunner-artificial-intelligence-ethics-debate/"
+    cdnAmpWebUrl: "https://www-esquire-com.cdn.ampproject.org/c/s/www.esquire.com/entertainment/tv/amp36953906/anthony-bourdain-roadrunner-artificial-intelligence-ethics-debate/"
+    type: article
+    provider:
+      name: Esquire
+      domain: esquire.com
+    quality: 58
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/anthony-bourdain-visits-the-build-series-to-discuss-raw-news-photo-1626445038.jpg?crop=1xw:0.72745xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
         isCached: true
   - title: "AI narration of chef Anthony Bourdain's voice sparks row"
     excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
@@ -155,22 +187,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "‘Roadrunner’ Recreates Anthony Bourdain’s Iconic Narration With Artificial Intelligence. Is That Okay?"
-    excerpt: "How could that be? As Neville revealed to the New Yorker, he and his team employed artificial intelligence technology to recreate Bourdain's voice to add in a few missing pieces that the director thought filled in holes in the story. (For instance ..."
-    publishedDateTime: 2021-07-16T15:26:00Z
-    webUrl: "https://www.esquire.com/entertainment/tv/a36953906/anthony-bourdain-roadrunner-artificial-intelligence-ethics-debate/"
-    ampWebUrl: "https://www.esquire.com/entertainment/tv/amp36953906/anthony-bourdain-roadrunner-artificial-intelligence-ethics-debate/"
-    cdnAmpWebUrl: "https://www-esquire-com.cdn.ampproject.org/c/s/www.esquire.com/entertainment/tv/amp36953906/anthony-bourdain-roadrunner-artificial-intelligence-ethics-debate/"
-    type: article
-    provider:
-      name: Esquire
-      domain: esquire.com
-    quality: 56
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/anthony-bourdain-visits-the-build-series-to-discuss-raw-news-photo-1626445038.jpg?crop=1xw:0.72745xh;center,top&resize=1200:*"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "'Roadrunner' director defends use of AI technology in Anthony Bourdain documentary"
     excerpt: "\"We can have a documentary-ethics panel about it later.\" While the words in question were written by Bourdain, Neville revealed that an AI software model was used to record several lines for the ..."
     publishedDateTime: 2021-07-16T13:24:00Z
@@ -201,6 +217,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Anthony Bourdain’s Widow Says She Did Not OK Use of AI to Fake Husband’s Voice in ‘Roadrunner’"
+    excerpt: "Shortly after Neville’s interview, the use of AI to approximate Bourdain’s voice was criticized and set off a spirited discussion on social media about the ethics in dealing with documentaries of deceased people. TheWrap has reached out to Neville ..."
+    publishedDateTime: 2021-07-16T16:15:00Z
+    webUrl: "https://www.thewrap.com/anthony-bourdain-widow-responds-ai-fake-voice-roadrunner-ottavia-bourdain/"
+    ampWebUrl: "https://www.thewrap.com/anthony-bourdain-widow-responds-ai-fake-voice-roadrunner-ottavia-bourdain/amp/"
+    cdnAmpWebUrl: "https://www-thewrap-com.cdn.ampproject.org/c/s/www.thewrap.com/anthony-bourdain-widow-responds-ai-fake-voice-roadrunner-ottavia-bourdain/amp/"
+    type: article
+    provider:
+      name: TheWrap
+      domain: thewrap.com
+    quality: 47
+    images:
+      - url: "https://www.thewrap.com/wp-content/uploads/2021/06/anthon-2.jpg"
+        width: 936
+        height: 527
+        isCached: true
   - title: "Anthony Bourdain documentary attracts backlash for deepfaking late chef’s voice using AI technology"
     excerpt: "A new documentary about the late chef and writer Anthony Bourdain has sparked backlash after it emerged that the filmmaker recreated his voice using artificial intelligence. Roadr"
     publishedDateTime: 2021-07-16T10:17:00Z
@@ -216,6 +248,31 @@ related:
       - url: "https://metro.co.uk/wp-content/uploads/2021/07/Screen-Shot-2021-07-16-at-10.30.07-2652.png?quality=90&strip=all&zoom=1&resize=600%2C343"
         width: 600
         height: 343
+        isCached: true
+  - title: "Director uses artificial intelligence to generate Anthony Bourdain's voice in documentary"
+    excerpt: "The director of a documentary about Anthony Bourdain used artificial intelligence to recreate the late food critic and world traveler's voice."
+    publishedDateTime: 2021-07-16T16:13:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/anthony-bourdain-documentary-ai"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/anthony-bourdain-documentary-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/anthony-bourdain-documentary-ai?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 45
+  - title: "AI Brought Anthony Bourdain's Voice Back To Life. Should It Have?"
+    excerpt: "The director of the new Anthony Bourdain documentary Roadrunner says he used AI to generate Bourdain reading from letters he'd never spoken aloud,... \"We can have a documentary-ethics panel about it later,\" joked Morgan Neville, director of the new Anthony ..."
+    publishedDateTime: 2021-07-16T17:19:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1016838440/ai-brought-anthony-bourdain-s-voice-back-to-life-should-it-have"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 39
+    images:
+      - url: "https://media.npr.org/assets/img/2021/07/16/rr_fp_00785-185acee304921a2d4c11b2d27021379d1338a0e1.jpg?s=6"
+        width: 948
+        height: 710
         isCached: true
 
 secured: "2g6T4zTWBHZ75JPa8Wzv4dAXnZiJYEDmFo8dHhLTrYG6Uks5qocvGHnC4gLENfgaDqYWdFqAb1eHJFatmsEMTVY3TEDhMrDxABNaoU2VHENqWR58yIHqFhrhGaYWDSwoX1Fm9SWCuVtY+wvwPvwskjksXtmMTL4JIwtAF18DyVIsTQu/w9aq1P4w/FsDWb/fP9/UW4aDqMU5BqmXzoecvlfygPnHN8o4GjBEXTKz/CvqIanxMTbu/RY06zhowlkWDZEwK8BQtPEUJkUqhp3BKrncuCOdC4JL5+T1M4kBH5sD6t1+vQJlTMI/vLkLNdqKa7JxZSZPwGZnxgoPhWzelHNbzIts/c3rpELr9xXDU3MCpTEKceVZF1k/ICLNG/hOJ4hgDKHoQPpUJusHUiV8ZTgAnF5uXJAeo4jB5l9FzOMmCOP4q0D/uHQNJxKrWRfBjeQWfOXC9DwqB3l/2TDwmiuiAbevzJP7qT48FuJD2BprbtmFmgq4Oi5macq1Qdr4ktFl1h2lFYHYomO53weCOQ==;gOj08fTqnAoF/ZOSXpoNqQ=="

@@ -102,6 +102,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 19
+  - title: "Studying local traffic quirks could pave the way for self-driving cars"
+    excerpt: "Driverless tech company Argo AI is testing and training its sensors and software in seven different cities at once, including Detroit, to learn more."
+    publishedDateTime: 2021-07-16T12:30:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/07/16/studying-local-traffic-quirks-could-pave-way-self-driving-cars/7990232002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 4
 
 secured: "7Bhm4cO4KF1NRJ9nPwjD8KI0QFezfCkvHziL58ZzbgGt2PozowIMOy2tP6rwJfCp7Wt3Hxo3lUqZ+uYl1CpgC0OYdZvWhfSXmbPd0K2sFYQ7oY3DZbADmCWoPwEmohpwkow64w1d0/C63IdA9eT5LN8AxH14ojyS09rDH6xcnYJwMSWZAqNU4xPPKu3CFDIMJq96MJ2HH6juGs3/Yg/HRrXPoPYvjRahc9ksgxsDyF6t4UGOfmcCzeOb3KfBa3+Rn6sJCarLrRDsW2In1k7InhPvLpRvF1pdcySfm1VAwHFK3CrnULPJ33EoS49aa5fUntK6hkdV7D9mCIzD9i15m6iGk2ovqKp27XeBsXPdPPhgF5HawK0/PMR1mHZYgFYh/2lGNLSW+U4zHvhPG3x8lvUuDjKKJetnLdaZQZjYlyllhkMR59fFRTwJO6pntUUVETOSqhc3baswm6s/e0zN9dQaxjZdSKBIzYDw0tVRgelXxYM9VJ5rbgr5alIRiBql8BTtwES75ZKiUuoCJjsi2g==;c7HNiJlhlJD7Z8gu+SiFiA=="
 ---
