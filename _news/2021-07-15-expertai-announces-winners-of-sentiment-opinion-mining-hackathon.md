@@ -2,22 +2,26 @@
 category: news
 title: "Expert.ai Announces Winners of Sentiment & Opinion Mining Hackathon"
 excerpt: "Expert.ai announced today the winners of the \"Sentiment & Opinion Mining Natural Language API\" Hackathon. From May 6 to June 22, hundreds of developers across the globe unleashed their creativity to develop or enhance existing apps by using the expert."
-publishedDateTime: 2021-07-15T13:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/15/9410106.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/15/9410106.htm"
+publishedDateTime: 2021-07-15T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/expert-ai-announces-winners-of-sentiment-opinion-mining-hackathon-1030611470"
+webUrl: "https://markets.businessinsider.com/news/stocks/expert-ai-announces-winners-of-sentiment-opinion-mining-hackathon-1030611470"
 type: article
-quality: 19
-heat: 19
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "i92iAHQA9gktOe7R2VmWYCTlfTdAMqHgeT/PXQfja3NZ2R7cXA4rIvB38qAer33Tci+jxj8j9VOc6fUg3RU8bcDHT6oSzSBxYBzQqilV04c3rTnjS/31f4Vt8/KwhhVJ86OcvTj2PhoJE0hicjelzQMIlUyNFE3763fZIpP9GAV3pAUnHAU1ux+cyEDBz+GAon2qPkwLuwoBRR/2gOllYdxPkt3w9sBoFFSDalMpS65DBD6/yjwGOLNoYxpgFjzqQD1sg/ogd5K/s4h79MYzugRwiPf+ll4JVLT6VpEBj1umdF+/D3I/ba059BJpBKO+301h+QdM5d/KSAp2CWfHlQSvkhkigeftu+SR3TIhVyvqfiCDagfWRn8yNbSGkVqnG21WBTbTxGhVXikTWHWcHVlz76FXf2R6AyIfECobETVdHqTgf91GZqnZ2jsIy/khuXhL5Ga3/WI1gqbUa4T0WagAc246Yt9Gtsb1ClRRBvkMIfPI1J9Y0BS8UMCEnV04SQIn5I3ZnbSiN6UH471+3g==;ICKAvoL9scpoKxeUgWhxvw=="
+secured: "vt95KyeFtdB9CXnAd43yasDP89egx2y1uRF9wl4UoxcXILkaZhRCYBOXSmcKcLHskMtfVC7g8Fv/PJv9gV/3K7ud0Y6yxt+kyQCjXtqH/FnN3L8zOdDPz9IdMLI0lXrcG5b3BCbKwFDbacqsExcx3vvkYVAiXIMA6fGovpS5TJFZvdbicy91MFYSG5h52Zy8U+bmzSHWmMoP0mCoHOTpMOWZLqr34pw6NghbvsKjBTC6Z4JycsjwUZ/Ak9LFrnpj+wBx00IhvDuFBLEzXENO+Bty0kFzhdpGv0Bt69UARx1GP8YKlxLU8KBI9Sqi2VR0C31ZRCEyzT1wZZmMJvekuz8sVFQDxa3zrxBXTASJL43AfxepITx8DdnqS/qDQivtkkTTgnHhMdPN4dBiqAIl6mugQ8POntSUDxXQHVnqcllTriW7gPGdM2VNbV3MdLp2eunBw6vbiP16wsL7hZpzCp3qcR38/hIGUKWJnFhAH8kaI8T30vXyxzr6AwvNbQBYMeozH6EV4QKNTZEu6R7gwQ==;YpME4naMg1O3sRgd+/KjLg=="
 ---
 

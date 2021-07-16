@@ -20,6 +20,20 @@ topics:
 
 related:
   - title: "A benchmark-beating robot thinks AMC will outperform Facebook and GameStop. It likes these other stocks, too."
+    excerpt: "Find the latest GameStop & AMC stocks quote, history, news and other vital information to help you with your stock trading"
+    publishedDateTime: 2021-07-16T01:30:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amc-gamestop/a-benchmark-beating-robot-thinks-amc-will-outperform-facebook-and-gamestop-it-likes-these-other-stocks-too/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 20
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626399066_social.jpeg"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "A benchmark-beating robot thinks AMC will outperform Facebook and GameStop. It likes these other stocks, too."
     excerpt: "An exchange-traded fund run by artificial intelligence bought AMC stock at the beginning of July, preferring shares in the cinema chain and retail investor favorite over the likes of Facebook or ... exacting analysis of our research processes."
     publishedDateTime: 2021-07-15T11:25:00Z
     webUrl: "https://www.morningstar.com/news/marketwatch/20210715263/a-benchmark-beating-robot-thinks-amc-will-outperform-facebook-and-gamestop-it-likes-these-other-stocks-too"

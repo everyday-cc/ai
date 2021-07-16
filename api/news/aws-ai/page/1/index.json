@@ -167,7 +167,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -637,24 +637,33 @@
     {
       "path": "_news/2021-07-08-keysight-brings-keysight-open-ran-architect-kora-to-aws-outposts.md",
       "title": "Keysight Brings Keysight Open RAN Architect (KORA) to AWS Outposts",
-      "excerpt": "AWS Outposts is a fully managed service that offers the ... RIC Test helps vendors and mobile operators validate RAN Intelligent Controllers (RIC) and RIC enabled artificial intelligence/machine learning xApps and rApps (intelligent applications hosted ...",
+      "excerpt": "Delivers a flexible 5G test environment that simplifies interoperability challenges and validates performance Keysight Technologies, Inc. (NYSE:KEYS), a leading",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-keysight-brings-keysight-open-ran-architect-kora-aws-/2021/07/08/9405528.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-keysight-brings-keysight-open-ran-architect-kora-aws-/2021/07/08/9405528.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/07/b21898997/keysight-brings-keysight-open-ran-architect-kora-to-aws-outposts",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/b21898997/keysight-brings-keysight-open-ran-architect-kora-to-aws-outposts",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T08:06:00-07:00",
+      "publishedDateTime": "2021-07-08T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -818,6 +827,40 @@
         "AI",
         "AI Hardware",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-artificial-intelligence-and-data-acceleration-ada.md",
+      "title": "Artificial Intelligence and Data Acceleration ADA",
+      "excerpt": "Acting DoD CIO John Sherman said Microsoft and AWS will likely be invited to bid on JWCC, and DoD will also look at the capabilities of other US-based cloud service providers, such as Google, IBM, and Oracle.",
+      "sourceUrl": null,
+      "webUrl": "https://breakingdefense.com/tag/artificial-intelligence-and-data-acceleration-ada/",
+      "originalUrl": "https://breakingdefense.com/tag/artificial-intelligence-and-data-acceleration-ada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Breaking Defense",
+        "domain": "breakingdefense.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1368,59 +1411,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels.md",
-      "title": "Automate car insurance claims processing with Autonet and Amazon Rekognition Custom Labels",
-      "excerpt": "There is nothing more exhilarating than getting the keys to your first car or driving off the lot with the car of your dreams. Sadly, that exhilaration can quickly fade to frustration when your car is damaged. Working through the phone calls, emails, and damage reports with your insurance provider can",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/25/3942-Diagram.jpg",
-          "width": 801,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T15:37:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

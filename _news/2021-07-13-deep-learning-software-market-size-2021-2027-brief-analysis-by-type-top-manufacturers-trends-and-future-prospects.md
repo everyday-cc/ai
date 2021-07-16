@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Supply Chain Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027"
+    excerpt: "Market Expertz latest study, titled ‘Global Artificial Intelligence in Supply Chain Market,’ sheds light on the crucial aspects of the global Artificial Intelligence in Supply Chain market. The Artificial Intelligence in Supply Chain report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027)."
+    publishedDateTime: 2021-07-15T06:17:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-supply-chain-market-size-share-growth-sales-revenue-and-key-drivers-analysis-research-report-by-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 39
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Artificial-Intelligence-in-Supply-Chain-Market.jpg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "2021 Artificial Intelligence (AI) In Drug Discovery Market Size, Revenue, Growth Development, Opportunities, Trends, Forecast To 2030"
     excerpt: "Artificial Intelligence for drug discovery is a technology that uses ... Located globally it has specialist consultants in a wide range of industries including manufacturing, healthcare, financial services, chemicals, and technology. The World’s Most ..."
     publishedDateTime: 2021-07-15T04:51:00Z

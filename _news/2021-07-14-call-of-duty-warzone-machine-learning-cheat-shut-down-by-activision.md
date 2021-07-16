@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gamesradar.com/amp/call-of-duty-warzone-machine-learning
 cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/call-of-duty-warzone-machine-learning-cheat-shut-down-by-activision/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: GamesRadar
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Activision is taking action against AI-powered ‘Call of Duty: Warzone’ cheats"
-    excerpt: "Activision has started taking action against people promoting the use of AI-powered auto-aim software in games like  READ MORE: Bored of modern multiplayer?"
-    publishedDateTime: 2021-07-11T14:59:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/activision-is-taking-action-against-ai-powered-call-of-duty-warzone-cheats-2990497"
-    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/activision-is-taking-action-against-ai-powered-call-of-duty-warzone-cheats-2990497?amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/activision-is-taking-action-against-ai-powered-call-of-duty-warzone-cheats-2990497?amp"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 54
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2021/05/Call-of-Duty-Warzone-sniper-rifles.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
   - title: "Maker of machine learning cheat says \"my intent was never to do anything illegal\" after Activision clampdown"
     excerpt: "The maker of a machine learning cheat that hit the headlines last week has insisted \"my intent was never to do anything illegal\" after Activision stepped in to shut development down. The creator of the cheat,"
     publishedDateTime: 2021-07-14T09:23:00Z

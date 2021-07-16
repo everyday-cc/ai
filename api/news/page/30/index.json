@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-06-22-linux-foundation-initiative-advocates-open-standards-for-voice-assistants.md",
+      "title": "Linux Foundation initiative advocates open standards for voice assistants",
+      "excerpt": "The Linux Foundation's Open Voice Network aims to develop standards around voice assistant technologies, including speech recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/22/linux-foundation-initiative-advocates-open-standards-for-voice-assistants/",
+      "originalUrl": "https://venturebeat.com/2021/06/22/linux-foundation-initiative-advocates-open-standards-for-voice-assistants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/amazon-alexa-echo-studio-echo-flex-fire-tv-cube-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/22/linux-foundation-initiative-advocates-open-standards-for-voice-assistants/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/linux-foundation-initiative-advocates-open-standards-for-voice-assistants/amp/",
+      "publishedDateTime": "2021-06-22T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-artificial-intelligence-ai-verticals-market-see-huge-growth-for-new-normal-airbnb-salesforce-slack-dataminr-ross-intelligence.md",
       "title": "Artificial Intelligence (AI) Verticals Market See Huge Growth for New Normal| Airbnb, Salesforce, Slack, Dataminr, ROSS Intelligence",
       "excerpt": "Artificial intelligence (AI) has been one of the most advanced technologies in computing since its introduction in the 1950s. Advances in bringing robots closer to humans and their increasing use in developing regions have further transformed the entire market.",
@@ -1064,57 +1116,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-ai-drug-discovery-platform-insilico-medicine-announces-255-million-in-series-c-funding.md",
-      "title": "AI drug discovery platform Insilico Medicine announces $255 million in Series C funding",
-      "excerpt": "Insilico Medicine, an A.I-based platform for drug development and discovery announced $255 million in Series C financing on Tuesday. The massive round is reflective of a recent breakthrough for the company: proof that it’s A.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/22/a-i-drug-discovery-platform-insilico-medicine-announces-255-million-in-series-c-funding/",
-      "originalUrl": "https://techcrunch.com/2021/06/22/a-i-drug-discovery-platform-insilico-medicine-announces-255-million-in-series-c-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1294890276.jpg?w=1024",
-          "width": 1024,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/22/a-i-drug-discovery-platform-insilico-medicine-announces-255-million-in-series-c-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/22/a-i-drug-discovery-platform-insilico-medicine-announces-255-million-in-series-c-funding/amp/",
-      "publishedDateTime": "2021-06-22T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

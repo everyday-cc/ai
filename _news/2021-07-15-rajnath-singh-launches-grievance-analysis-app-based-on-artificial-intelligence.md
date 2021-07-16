@@ -42,6 +42,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Rajnath Singh Launches Artificial Intelligence-Based Grievance Analysis App"
+    excerpt: "With the launch of an artificial intelligence (AI) based grievance analysis application called CPGRAMS, Defence Minister Rajnath Singh on Thursday said the country is moving towards citizen-centric reforms with scientific knowledge and technology."
+    publishedDateTime: 2021-07-16T07:14:00Z
+    webUrl: "https://en.trend.az/world/other/3456200.html"
+    type: article
+    provider:
+      name: Trend News Agency
+      domain: trend.az
+    quality: 37
+    images:
+      - url: "https://cdn.trend.az/2021/02/05/rajnath_singh_050221.jpg"
+        width: 900
+        height: 450
+        isCached: true
 
 secured: "7S1ztvAEuxa/MKiJug3mF8PoZSsb3cgJcB0r2r40hP+zlf4L+p8lJsqM4WO2CliVrqSCYGr2hN3a0fAHYMp1xh5GY9CNO9zQAVY7C6iILTu8kw32M8SJ0FCTjq2CvJEjhOYbwGw0okcxui5zmnfmd8S5DkPaGX75ct70p+PtAALSLFF/zIlojnCrmnvyteEW1iN53gGyYcoTH2Dk3MM2idhvq7e1tnhpDiUm7kpV7y98lTgyFVtSEJhUivUPRnErT194U/X6N2ea/UZRcXS8VbPm/zASsPq2nk5070In9uuuQveHsZm+KqGeF+pbD1TTl1e0CoJ8R02lZ1ML11Gz9Ero+Wi2R4d6C1Fv7H9piv8=;lUn6Ghh5bILkokFsOmHlnw=="
 ---

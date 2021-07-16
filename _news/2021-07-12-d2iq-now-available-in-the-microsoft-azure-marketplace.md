@@ -1,27 +1,27 @@
 ---
 category: news
 title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
-publishedDateTime: 2021-07-12T13:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
-webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
+publishedDateTime: 2021-07-12T13:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
-    width: 2161
-    height: 1130
+  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -231,7 +231,7 @@ related:
   - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
     excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
     publishedDateTime: 2021-07-13T07:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
     type: article
     provider:
       name: TMCnet
@@ -298,6 +298,6 @@ related:
       domain: thepacker.com
     quality: 19
 
-secured: "FYIpMzS02sDljNpe8px+gG8IgfW+gsLu0xQF8Wh/jE2pwNISfv8/5SoIT8C1O+q8bm5OLcm7kFJqTDb5Wy6i3LJ9tkj+rLdRMGhRdL2JyiKrjuGTnBTkmrvjrP9Qk4ojFvtIsV/WIudVmURrUks53aFW/EsVOkPtvHPNJAMi1EDQ9qP0LIeltIduqU7mVNpherjgpsPB8xa1WSgXzkz/2MdBuIG9aKJlC4t91P+FTHDffOY9GH99l69Mx49fj0GgtW3vnDgvmr8MC4SNJ1dl3kv+MZyJS3b7JstFgIdet+wTkecpqFn3x2zaDbHvsSoPitFlqS+qKdYdwujnbPlG4yKUrD37e8PadAeRuFsbsQbuDpAFaOQwY6dSI6gxiKG/dET7UQ+MfED2bojX73ekgYdZYnQGMQ8dat+5k3K6Wy7lcILbwk1Xji5ZRRzf4aGxmhl3MAZGJwayYjfA12yjHQTVXEs4UPmaJHWDhSoOCvJ/wJGAvZllp5Oncf6Q0cJrJLKLvZpiJIsesQQjBD8ihA==;aCcf7NEO6dD97mOMjVHpyQ=="
+secured: "MWP8Q5i6efjjMU46fjD9YU2NN1Zx1rxwsHaf/idvZ4o2EiD5AppozkDelDtyLGfT39i9vHNGsKuHpPIjpB8N3DnRZLHPTqoM8SX2wvvsPthrqLjaDAWlGeLKPYb/NFTNNDx8MVpOFBb6axxMa5WdGqNOWLmyFoGOHGA6Hh2NF1poyI1dPJjKHjq8je/HRICxV8D3IuYsTBROJklgaIeU72TSyEnca5zOb3RMbQjD0+PqOqofchIQhfC8FjBcXNnx36qgftcj1PwScSb20mA6pfIouuU5TOIzmbK2jyKF1A9PO2q6tu6nEj1bjnjld85FIpKJUiyo7gvslaj/V9tQO3ANwIvuOG/8Cl5PkW0BwKY=;IP9oDH2kAtszMtJtyRoWTA=="
 ---
 

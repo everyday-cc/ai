@@ -8,8 +8,8 @@ webUrl: "https://rollingout.com/2021/07/14/5-ways-artificial-intelligence-may-hu
 ampWebUrl: "https://rollingout.com/2021/07/14/5-ways-artificial-intelligence-may-hurt-the-black-community/amp/"
 cdnAmpWebUrl: "https://rollingout-com.cdn.ampproject.org/c/s/rollingout.com/2021/07/14/5-ways-artificial-intelligence-may-hurt-the-black-community/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://rollingout.com/wp-content/uploads/2021/07/IMG_2707.jpg"

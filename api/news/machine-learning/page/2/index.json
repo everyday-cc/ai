@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-07-07-new-cheat-software-claims-to-work-on-any-console-via-machine-learning.md",
-      "title": "New cheat software claims to work on ‘any console’ via machine learning",
-      "excerpt": "A new piece of cheat software claims to utilise machine learning to allow players to use auto aim on “any console”. The software, which was highlighted by anti-cheat group ACPD, reportedly utilises PC passthrough via network streaming or a capture card to bypass console platform security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/",
-      "originalUrl": "https://www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogameschronicle.com/files/2020/12/Black-Ops-Cold-War-Warzone-Season-1-wwe.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-videogameschronicle-com.cdn.ampproject.org/c/s/www.videogameschronicle.com/news/new-cheat-software-claims-to-work-on-any-console-via-machine-learning/amp/",
-      "publishedDateTime": "2021-07-07T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Video Games Chronicle",
-        "domain": "videogameschronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-07-transforming-the-insurance-industry-with-big-data-machine-learning-and-ai.md",
       "title": "Transforming The Insurance Industry With Big Data, Machine Learning, And AI",
       "excerpt": "An emerging wave of “Insurtech” solutions companies are seeking to transform the business of insurance through the introduction of Big Data, Machine Learning, and AI capabilities.",
@@ -1345,6 +1302,49 @@
       "provider": {
         "name": "La Vanguardia",
         "domain": "lavanguardia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-27-machine-learning-identifies-new-brain-network-signature-of-major-depression.md",
+      "title": "Machine learning identifies new brain network signature of major depression",
+      "excerpt": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
+      "originalUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/06/26/brain-network-signature.jpg?itok=FT-QWUJF",
+          "width": 560,
+          "height": 292,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
+      "publishedDateTime": "2021-06-26T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
         "images": null,
         "publishers": null,
         "authors": null

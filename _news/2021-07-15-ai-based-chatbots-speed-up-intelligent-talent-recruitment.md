@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "This AI chatbot will provide mental health support on WeChat"
+    excerpt: "Later, he wondered whether AI technology might be put to good use in this field ... For emergency cases, it will start the corresponding crisis-intervention measures. Among the mental-health professionals who see the benefits of Xiaotan is Tang Luhan ..."
+    publishedDateTime: 2021-07-16T07:46:00Z
+    webUrl: "https://www.iol.co.za/technology/this-ai-chatbot-will-provide-mental-health-support-on-wechat-1031c706-140b-4144-ad89-608498175a93"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/this-ai-chatbot-will-provide-mental-health-support-on-wechat-1031c706-140b-4144-ad89-608498175a93"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/this-ai-chatbot-will-provide-mental-health-support-on-wechat-1031c706-140b-4144-ad89-608498175a93"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 57
+    images:
+      - url: "https://image-prod.iol.co.za/resize/650x366/Picture-Unsplash?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/554de75e-4b4f-5997-9ea0-6d0137a9eebc&operation=CROP&offset=0x39&resize=750x422"
+        width: 650
+        height: 366
+        isCached: true
   - title: "How customers react to chatbots"
     excerpt: "More and more companies are using chatbots in customer services. Due to advances in artificial intelligence and natural language processing, chatbots are often indistinguishable from humans when it comes to communication."
     publishedDateTime: 2021-07-14T16:26:00Z

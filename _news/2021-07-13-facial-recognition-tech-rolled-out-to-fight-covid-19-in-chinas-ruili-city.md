@@ -59,6 +59,20 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "Columbus Crew Using Facial Recognition Ticketing System"
+    excerpt: "The Crew have partnered with computer vision software Wicket to add facial recognition scanning kiosks at their venue."
+    publishedDateTime: 2021-07-16T07:04:00Z
+    webUrl: "https://sporttechie.com/columbus-crew-using-facial-recognition-ticketing-system"
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 39
+    images:
+      - url: "https://sporttechie-dev.s3.amazonaws.com/Important%20Data/sporttechie-image.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "t/a+/nRgCcE7blVP9IYv8PtF+/imJMbcfEGj32m11SJZQoOq7ulaZ0uxO3S2YwvAV89QqgYLb9vDWb/V5pNO7BQI4g9rz7GlA1vVvxvSoHWmpu4ZXuWBO0soDJtuOEyb2RYLm106sYY1oT413+UbLx5hUB8jcCAR2mDsoVn3mizsdYVfAXFnYKbqiy+/J0L58Dgq+4RvLIN0UovcaOmXAUCtBcd8gmf4jm3sAI/I8iMEwhw9KTjClzKuaeSKdyAb+9to3ln7OY0Y4abNn/aw3JDwRp6kXH5UiBP/TaOa3NKrhmpwMnCTsZEodGbDK+PhU51YsFE/M/1dRuKFbrWz0vetdLa+cOAWXpUOvpr7zSU=;zWKm+WtnLgBfaxCrf1Cf6Q=="
 ---

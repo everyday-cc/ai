@@ -2,6 +2,40 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-06-20-business-wire-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service.md",
+      "title": "BUSINESS WIRE: Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service",
+      "excerpt": "MITTEILUNG UEBERMITTELT VON BUSINESS WIRE. FUER DEN INHALT IST ALLEIN DAS BERICHTENDE UNTERNEHMEN VERANTWORTLICH.Microsoft Azure at the Edge: Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanztreff.de/news/business-wire-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-go/25195160",
+      "originalUrl": "https://www.finanztreff.de/news/business-wire-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-go/25195160",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-19T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanztreff",
+        "domain": "finanztreff.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-20-how-ai-is-disrupting-business-ecosystem.md",
       "title": "How AI is disrupting Business Ecosystem?",
       "excerpt": "Two dozen years and billions of savings later, AI is as inevitable as ever to businesses that are in pursuit of profits. BFSI (Banking, Financial Services and Insurance) and Retail have reaped the early harvest as they foresaw AI as the new engine of growth sooner than many other sectors.",
@@ -1136,41 +1170,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition.md",
-      "title": "IBM Focuses on AI & Cloud, Completes Turbonomic Acquisition",
-      "excerpt": "International Business Machines Corporation IBM recently announced the completion of its acquisition of Turbonomic to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18",
-      "originalUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp",
-      "publishedDateTime": "2021-06-18T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/marketwatch/20210715263/a-benchma
 webUrl: "https://www.morningstar.com/news/marketwatch/20210715263/a-benchmark-beating-robot-thinks-amc-will-outperform-facebook-and-gamestop-it-likes-these-other-stocks-too"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "A benchmark-beating robot thinks AMC will outperform Facebook and GameStop. It likes these other stocks, too."
+    excerpt: "Find the latest GameStop & AMC stocks quote, history, news and other vital information to help you with your stock trading"
+    publishedDateTime: 2021-07-16T01:30:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amc-gamestop/a-benchmark-beating-robot-thinks-amc-will-outperform-facebook-and-gamestop-it-likes-these-other-stocks-too/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 20
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626399066_social.jpeg"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Facebook – A benchmark-beating robot thinks AMC will outperform Facebook and GameStop. It likes these other stocks, too."
     excerpt: "Facebook - A benchmark-beating robot thinks AMC will outperform Facebook and GameStop. It likes these other stocks, too. -"
     publishedDateTime: 2021-07-15T14:05:00Z

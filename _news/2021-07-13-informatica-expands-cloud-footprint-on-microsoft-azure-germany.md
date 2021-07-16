@@ -3,8 +3,8 @@ category: news
 title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
 excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
 publishedDateTime: 2021-07-13T07:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
 type: article
 quality: 34
 heat: -1
@@ -96,18 +96,18 @@ related:
         height: 250
         isCached: true
   - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-    excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
-    publishedDateTime: 2021-07-12T13:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+    excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2021-07-12T13:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
-        width: 2161
-        height: 1130
+      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Microsoft (MSFT) Azure Cloud Leveraged by Canada-Based CIBC"
     excerpt: "Microsoft’s MSFT Azure cloud platform is being leveraged by Canadian Imperial Bank of Commerce (“CIBC”) to revamp its business operations, boost operational efficiency and enhance client experiences."
@@ -297,6 +297,6 @@ related:
       domain: thepacker.com
     quality: 19
 
-secured: "+18rmu69fpTXtf5Ies8bzk6t5FEvqpbAJ+S9F2FZ81D8m4G4GIkKy8An3kNaTbVWsYNCfZE8DdPm2v23CfFVLeICximzRLW59zUm49pB74sR5hEfoo2a+EYvFGh8YKjXrl9VLnKr2yY1Hl3Gf/IFnkrDUd7u3NYjh8clI3SFbxHpnicTUMHhgpzNIgBS+P9sRDyBHzkIS4FgRstlSX2KN2cJ4DI+/MuxInVxskk382G0RxbU/vhhlndwwc36W3JPGbK2d/fAZWXD9ncbagKHP0rqTAhjyucvxAcFa/SgFg7WDt7ur3oAkeoBW2uECjrzwBxQncuDQH44JldyPbTKt4XSxPrk16t2PujmiOdYera3xpul1PjVOgfYSLGQx+2u/8y8cKCiNDswLDU1y3D214f81jpIwCRF5y51XYP6Ot1YtB1lQQYoAKwhZkxHkAb+MwsfW5uutiKylRtlYIASrlUgcIs1u6FDf1xuaqldw37RoYOH3a6jgAEjCP2cc6hOHLg4znGOjUQCJKRr7ITjEg==;vwACAnXOo8TcuHNhYOgxbg=="
+secured: "4NdgjOemRVoLtb9RH3NpyNGXb+rlicV/qAMhoELLnUOHD9FX2+jHj+QUhUrqO18gai6p9JYyo2NI9iIRXO9ibi50GdLoNR+sOlOjji78BnzqDXlUQ7y0ddzUVHbSk0cvXU6LbX1HdCedKZ6bjOGUeQjKo3q2CgaIJ1MVyktAMaXlf74IMGh294PxileneCf2S9EwxIevoIygaRi2llRu18yJekzlcHOqoBrI+OnRwl9aoUT0uLwd0TYkq4G10Ba+W/m6VaBvNRNTNoAIJrGTd8JBuQJiwnyP2Ce8mQnrq4+IpAAYDEoHSW2gPrJ+VLHH7Cdj+Ibo1Wsx9s6VBZDyHH1vv66ZCmNrKZG0dnSqhmLS2vqlcmc6XecOsHvWiznMef9LKJOLNU+UWG1A7b6KPpKg5QNTRjW6uCxqieL0mdupdyTxqzkHwIQTx0h1uusfvF1slgB2fYqvWGNmeT+E8xNK2UvVPpVruDuWMHbBpxttbvuRCu94c0Tn8VfXv+POQ4D0YAdZAb1oaJeRHngk3Q==;cqKtyS4Ot1jx2tIEhLF7dg=="
 ---
 

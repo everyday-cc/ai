@@ -43,22 +43,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Activision is taking action against AI-powered ‘Call of Duty: Warzone’ cheats"
-    excerpt: "Activision has started taking action against people promoting the use of AI-powered auto-aim software in games like  READ MORE: Bored of modern multiplayer?"
-    publishedDateTime: 2021-07-11T14:59:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/activision-is-taking-action-against-ai-powered-call-of-duty-warzone-cheats-2990497"
-    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/activision-is-taking-action-against-ai-powered-call-of-duty-warzone-cheats-2990497?amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/activision-is-taking-action-against-ai-powered-call-of-duty-warzone-cheats-2990497?amp"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 54
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2021/05/Call-of-Duty-Warzone-sniper-rifles.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
 
 secured: "TpZiQ/0lkziKk7CNeFhybKKQHYsAVPfdta1/eXgtxDotMF7Wxm9iEcK/2ORyg6elcO4NzM/W25xUHPans56Ka5T9Bj72sTqvlilkpUsG49L8urF8aSPOIp3tSDrC3MHIUvNxbVlI13to9Y/itt3a5ZCWBm1h4JtG8AkAon55b1z0kbXksN8oN2BQ2KVY68gP0ivACZn/ADaBaqevOAwZQyLmlxUpu6YH1VM3oMtd7uu8QfDpiegkSADVlju4uqKHQcziemnWT67sBV3Fg5xqFZ9POqPrgF9ujyGrTSTni6vOk5YNZQnALG29wmCZwrFI00CzzXSmepRkG840WU2Xu0sn9hDHFjwZXhrJP4pbBdc=;A0Ke/uSCRPKhjTiCVz7W0g=="
 ---

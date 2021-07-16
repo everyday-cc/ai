@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Deep Bio Renews Software License Agreement with Stanford Medicine"
-excerpt: "Deep Bio, a leading company in digital pathology and cancer diagnostics, announced an extension of Software License Agreement with Stanford University School"
+excerpt: "Deep Bio, a leading company in digital pathology and cancer diagnostics, announced an extension of Software License Agreement with Stanford University School of Medicine. DeepDx® Prostate, Deep Bio's deep learning-based prostate cancer diagnosis software,"
 publishedDateTime: 2021-07-16T05:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/deep-bio-renews-software-license-agreement-with-stanford-medicine/article_49836166-571a-5992-8cfa-359079e64379.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/deep-bio-renews-software-license-agreement-with-stanford-medicine/article_49836166-571a-5992-8cfa-359079e64379.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/n22012459/deep-bio-renews-software-license-agreement-with-stanford-medicine"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/n22012459/deep-bio-renews-software-license-agreement-with-stanford-medicine"
+ampWebUrl: "https://www.benzinga.com/amp/content/22012459"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22012459"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png"
+    width: 1200
+    height: 600
     isCached: true
 
-secured: "Yz1GfhbTX9J7e34stsS8JfBFzXVeFd4WaUnVXDmOOHv9DsiYC4SRIK9QRK1xdENmPaNOetYS6SCZu29zfG1TWp0AdZCqfRvvwBQtMIZzg2J2o5SoPGBZbCoFVganuP5Y6gPeMiKQc82znUylqEunybWIEEeB5d6SyBytAdqeRM2GR0nMfXvGUMpUceV/5haya5e9qf2n4XCkoedMeTcH76NfyyBFJX5arOp2uHphRfdEI8nZYqAij2eXgbWMVwsbIAHzR3kT6541AuYS2QVRf5R0Ar2a8esS5FKd6h8sUFwm+gO6Z9thoHxGkQHTuLwSowB97HnFWB7YAUwpW3+zr6KyigEXRYihjHxbFnWT7Qk=;2FJOu/DnSiz+KwF3iCdPwA=="
+secured: "YRxqaabcSwlQrh31O6mz/wEKAf4aqxjzkS2E/fEzqXt6g7+HSWV27owH0Yj78KghDUga3XuaE3aJlWU3PZ8huERxXLeUpFVXLigm7o5Sm/FfUGDZrDuqonL2GnUfdjqM8vX4MZkpx4JB2WLi+HHq/vMYd+qLBeO3FfMjr6w50jBXV9h0hJZCMh4907sVLkgLnPIl4VgPzFhk2iIzgBg3FJ6sx1Q+T13HuBQvVXgpYHMS8/yJBOKiQa9dUjZWOugCKGljp6SJDFeboL+1mxQs4zhc5BfuvhvWApOnjMMwMsI3WoYvO6mK3Bf/bwJEGHk4IZP8nMSP4WdsWd21Tm/RMm+WaRCM1UgKnfrVzvlhZiY=;yLQU+7l3ivY8DCKy5OhJSw=="
 ---
 

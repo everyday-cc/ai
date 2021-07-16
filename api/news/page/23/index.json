@@ -2,6 +2,39 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-06-28-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use.md",
+      "title": "WHO issues first global report on AI in health and six guiding principles for its design and use",
+      "excerpt": "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights",
+      "sourceUrl": null,
+      "webUrl": "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use",
+      "originalUrl": "https://www.miragenews.com/who-issues-first-global-report-on-ai-in-health-586075/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 274,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Armed robbery in Revesby",
+        "domain": "miragenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc.md",
       "title": "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC",
       "excerpt": "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries.",
@@ -1116,49 +1149,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-deep-neural-networks-market-top-manufacturers-size-business-scenario-share-growth-insights-industry-analysis-trends-and-forecasts-report.md",
-      "title": "Deep Neural Networks Market Top Manufacturers, Size, Business Scenario, Share, Growth, Insights, Industry Analysis, Trends and Forecasts Report 2027",
-      "excerpt": "The market intelligence report further offers hard to find data derived from attractiveness analysis that narrates a lot about the products, regions and applications expected to generate more revenue.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/06/26/deep-neural-networks-market-top-manufacturers-size-business-scenario-share-growth-insights-industry-analysis-trends-and-forecasts-report-2027/",
-      "originalUrl": "https://ksusentinel.com/2021/06/26/deep-neural-networks-market-top-manufacturers-size-business-scenario-share-growth-insights-industry-analysis-trends-and-forecasts-report-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/4-57-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

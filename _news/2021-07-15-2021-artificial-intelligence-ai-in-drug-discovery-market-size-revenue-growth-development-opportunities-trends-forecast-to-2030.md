@@ -147,6 +147,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Supply Chain Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027"
+    excerpt: "Market Expertz latest study, titled ‘Global Artificial Intelligence in Supply Chain Market,’ sheds light on the crucial aspects of the global Artificial Intelligence in Supply Chain market. The Artificial Intelligence in Supply Chain report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027)."
+    publishedDateTime: 2021-07-15T06:17:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-supply-chain-market-size-share-growth-sales-revenue-and-key-drivers-analysis-research-report-by-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 39
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Artificial-Intelligence-in-Supply-Chain-Market.jpg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "Global Natural Language Processing for Finance Market By Excellent Opportunities, Industry Growth, Size, And Statistics Forecasts Up To 2027"
     excerpt: "Therefore, Researchmoz discusses all aspects of growth, including threats and barriers. As well as This report provides an deep analysis of the global Natural Language Processing for Finance market and serves as a guide to stakeholders searching for new investment opportunities."
     publishedDateTime: 2021-07-14T17:17:00Z

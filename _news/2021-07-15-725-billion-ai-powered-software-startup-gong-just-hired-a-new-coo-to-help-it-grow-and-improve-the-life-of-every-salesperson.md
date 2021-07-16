@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-15T16:45:00Z
 originalUrl: "https://www.businessinsider.com/gong-ai-sales-software-new-coo-kelly-breslin-wright-2021-7"
 webUrl: "https://www.businessinsider.com/gong-ai-sales-software-new-coo-kelly-breslin-wright-2021-7"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/60ef4c5161b8600019f17262?width=1200&format=jpeg"
