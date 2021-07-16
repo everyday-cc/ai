@@ -42,22 +42,6 @@ related:
         width: 800
         height: 560
         isCached: true
-  - title: "Implant Directly Translates Paralyzed Man's Brain Signals Into Speech"
-    excerpt: "Researchers at UC San Francisco have successfully developed a \"speech neuroprosthesis\" that has enabled a man with severe paralysis to communicate in sentences, translating signals from his brain to the vocal tract directly into words that appear as text on a screen."
-    publishedDateTime: 2021-07-15T09:46:00Z
-    webUrl: "https://www.technologynetworks.com/tn/news/implant-directly-translates-paralyzed-mans-brain-signals-into-speech-350896"
-    ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/implant-directly-translates-paralyzed-mans-brain-signals-into-speech-350896"
-    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/implant-directly-translates-paralyzed-mans-brain-signals-into-speech-350896"
-    type: article
-    provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 74
-    images:
-      - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
-        width: 389
-        height: 389
-        isCached: true
   - title: "Researchers design a system for detecting floods from space using artificial intelligence"
     excerpt: "Researchers at the Image Processing Laboratory (IPL) of the University of Valencia, in collaboration with the University of Oxford and the Phi-Lab of the European Space Agency (ESA), have developed a model for flood detection based on neural networks."
     publishedDateTime: 2021-07-12T14:10:00Z

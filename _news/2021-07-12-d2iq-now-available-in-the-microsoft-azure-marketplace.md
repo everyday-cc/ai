@@ -72,6 +72,20 @@ related:
         height: 450
         isCached: true
   - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
+    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced today that it has won the Artificial Intelligence (AI) 2021 Microsoft Partner of the Year Award and been named a Finalist of the Global ISV Microsoft Partner of the Year Award for the fourth year in a row."
+    publishedDateTime: 2021-07-13T15:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030601855"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
+        width: 400
+        height: 260
+        isCached: true
+  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
     excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
     publishedDateTime: 2021-07-14T04:00:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
@@ -182,20 +196,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
-    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced today that it has won the Artificial Intelligence (AI) 2021 Microsoft Partner of the Year Award and been named a Finalist of the Global ISV Microsoft Partner of the Year Award for the fourth year in a row."
-    publishedDateTime: 2021-07-13T13:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407857.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 53
-    images:
-      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
-        width: 400
-        height: 260
-        isCached: true
   - title: "Pensa Systems Now Available on Microsoft Azure"
     excerpt: "Pensa Systems, a leading innovator in the automated use of computer vision and artificial intelligence for retail in-store data and analytics, announced today that its advanced shelf intelligence data offering has become a Microsoft Preferred Solution and is now available on Microsoft Azure."
     publishedDateTime: 2021-07-13T11:38:00Z
@@ -298,6 +298,6 @@ related:
       domain: thepacker.com
     quality: 19
 
-secured: "MWP8Q5i6efjjMU46fjD9YU2NN1Zx1rxwsHaf/idvZ4o2EiD5AppozkDelDtyLGfT39i9vHNGsKuHpPIjpB8N3DnRZLHPTqoM8SX2wvvsPthrqLjaDAWlGeLKPYb/NFTNNDx8MVpOFBb6axxMa5WdGqNOWLmyFoGOHGA6Hh2NF1poyI1dPJjKHjq8je/HRICxV8D3IuYsTBROJklgaIeU72TSyEnca5zOb3RMbQjD0+PqOqofchIQhfC8FjBcXNnx36qgftcj1PwScSb20mA6pfIouuU5TOIzmbK2jyKF1A9PO2q6tu6nEj1bjnjld85FIpKJUiyo7gvslaj/V9tQO3ANwIvuOG/8Cl5PkW0BwKY=;IP9oDH2kAtszMtJtyRoWTA=="
+secured: "KxNmJvuxPfRrY6KbTjABfrwpS6CNXyss4lq7SvI3+Dz6vWBxi259VZ2bkok0GtXlPhY+DfbnRSUtiEZIeYVREwwdDrwMyGWHh7VRVBupMd+L1zhhetiB49QwYbpW28Aj3tCA3uyQt+NPSSkV6z9U0yRem63fk4iA3SySwNTPOOhRsRYFxIEoDTVLqyhtbsXMmU7QKFv0WgbFD0LJp6HUqcN3mMrKu13GaoX7NQA5zaLqAALP6KoapbQp5ow/Rj3foIPaKwNYZWOdW7qISWywamuQUWvXw3yyVgTiXTxvuSM6YvnFm3DCGR0JCulUVTHCKyL0luNP+Ic4+Hi1+w7yefVLL6Vx0GZhD9bvnOuufxigbaNQ2LwGUqqK8dPBvM/6Sl4OhsoMFY/StAkMRqURo5rt87+KoinjZlWOFL4TWTYZp5knx3D0ZsS4Jiaz1Mz5cyjuk+RRZZlKJWU9Pi1uX75owkHWop/eOGg4Ga3idZiyEjpGTOBcjuk/hI2Wbi4RM3MobGqJVBgJS/FuSMaNng==;fvNpv8OzkB4aK+7vfcQh1A=="
 ---
 

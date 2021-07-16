@@ -55,6 +55,20 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 39
+  - title: "Global Robotics Market (2021 to 2025) - Featuring Intuitive Surgical, iRobot and KUKA Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering. The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double digit CAGR over the forecast period of 2021 - 2025."
+    publishedDateTime: 2021-07-16T08:52:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_508c8daf-6ecd-5618-a01b-f3478c9ea30f.html"
+    type: article
+    provider:
+      name: Daily News
+      domain: galvnews.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Automatic Speech Recognition Applications Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast - 2027"
     excerpt: "The Global Automatic Speech Recognition Applications Market is valued at USD million in 2019 The market size will reach USD million by the end of 2027 growing at a CAGR of 1 during 2021 2027 Automatic Speech Recognition Application is"
     publishedDateTime: 2021-07-15T10:08:00Z

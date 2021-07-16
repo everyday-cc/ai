@@ -2,21 +2,25 @@
 category: news
 title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
 excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced today that it has won the Artificial Intelligence (AI) 2021 Microsoft Partner of the Year Award and been named a Finalist of the Global ISV Microsoft Partner of the Year Award for the fourth year in a row."
-publishedDateTime: 2021-07-13T13:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407857.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407857.htm"
+publishedDateTime: 2021-07-13T15:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030601855"
+webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030601855"
 type: article
-quality: 53
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
@@ -298,6 +302,6 @@ related:
       domain: thepacker.com
     quality: 19
 
-secured: "hKugWOGrCYwIGJDKKuHOOTyGcXSDTzH6/h0GUF8Y4bcKgOC+Qzn9glNn/U/GiMmPAlqCsbBO6wbas3oFMlH/nWXgRg05O8mTDfTT4YUBmxH2uqzT00Rpyy2FcXmfe2ZxNiC+2MV4va55kP7CBE8b0Boc9XcQzdSU7N8Wf9hSExhZReuA4to6ZLrXR8SNCV3kMUMi0UlQL1lK5ik2NPC3AOHEpUGI5jP9gbS3jkQUQ7bRk6frUnEn484jc7ZlieJ4Gm2lIKQvIDd3YJsDQmVpMR7oI2AKanoIhbvLRT17aHxh8l7wHyJqo5GjCSWZd4gOJYWHC9cErSa1w/Vhjmk1TdFCdt+LlHz/bPyM7q3j94+sar0XXJBQfKeOpgS5EewSJTEbWpz4+sjzUlHIDYmyzCpDS/TUCnHyGao2QSdaI4S0oYGa28gGhDLDLj5PoHlrx92GVtGXiogjWiMo1SU75FBNUrUIvbvu6k8k4JvjTVEZ4t1YVaHxDhQMqvxnWLAv1PssgVUO6+KGJYgkuNmFPw==;wmKD0Hu3kvbgwj8FFxny8g=="
+secured: "8++eR3dEZOwwQSUMiFZ1lR/I/Ci9PHUHwQOoWKpGaE32WB917kgej2fykQNHkZJXe+KQFhXOgdYmmPsRO2RNGyQ0iMzBpin6SNYtRYcNsxWY1AYSoo7nPmTNud71ZvBoi0b5BkUvFsj3WrRVyrl44BKF+dvSRXUv0ZEpQG4EXNHV/O2voTOQCTjMnmSkfhbcZL/KWHXvwe+A8Hr+rr0bum5tiQxp5wDKNUpVvs7qIho2r79jPNPO/WG9n0dHtB6fW92wDK/i/3qqfCITfvsHCazeFCGHtdA2p1ZyQ+jbEDoI/0R+cqvvwCOfab/8hilZm9jXg0KS1vzqqtuxHNu/8NVBNlDLDU7r0JcFWQHT+q4=;bL0KfYjqUi44N12UqhyR4A=="
 ---
 

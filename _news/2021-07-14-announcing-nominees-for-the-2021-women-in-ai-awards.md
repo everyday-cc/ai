@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/07/14/announcing-nominees-for-the-2021-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/announcing-nominees-for-the-2021-women-in-ai-awards/amp/"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,18 +31,20 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Week 2021"
-    excerpt: "CRN is the trusted technology news source for IT channel partners, solution providers, and value-added resellers (VARs). Get breaking news, IT vendor and product reviews, channel partner resources and more."
-    publishedDateTime: 2021-07-13T14:59:00Z
-    webUrl: "https://www.crn.com/flatpage/artificial-intelligence-week-2021"
+  - title: "VentureBeat presents AI Innovation Awards nominees at Transform 2021"
+    excerpt: "The AI Innovation Awards honors companies and individuals who stand out from their peers in solving challenges in creative ways."
+    publishedDateTime: 2021-07-16T09:02:00Z
+    webUrl: "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/"
+    ampWebUrl: "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/amp/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 93
     images:
-      - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
-        width: 1000
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/jason-leung-Xaanw0s0pMk-unsplash.jpg?w=1200&strip=all"
+        width: 1200
         height: 600
         isCached: true
 

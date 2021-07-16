@@ -25,33 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind and a rival release dueling code for protein-folding AI"
-    excerpt: "The race to release both teams’ code reflects not just an advance for computational biology, but for a culture of transparency in the field."
-    publishedDateTime: 2021-07-15T18:00:00Z
-    webUrl: "https://www.statnews.com/2021/07/15/deepmind-alphafold-rosettattafold-protein/"
+  - title: "AI Can Compute Protein Structures in 10 Minutes"
+    excerpt: "Scientists have waited months for access to high-accuracy protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
+    publishedDateTime: 2021-07-16T08:07:00Z
+    webUrl: "https://www.technologynetworks.com/proteomics/news/ai-can-compute-protein-structures-in-10-minutes-350927"
+    ampWebUrl: "https://www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927"
     type: article
     provider:
-      name: STAT
-      domain: statnews.com
-    quality: 54
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
     images:
-      - url: "https://www.statnews.com/wp-content/uploads/2018/03/AdobeStock_153240764-1024x576.jpeg"
-        width: 1024
-        height: 576
+      - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
+        width: 389
+        height: 389
         isCached: true
-  - title: "DeepMind and and a rival release dueling code for protein-folding AI"
-    excerpt: "The race to release both teams’ code reflects not just an advance for computational biology, but for a culture of transparency in the field."
-    publishedDateTime: 2021-07-15T18:00:00Z
-    webUrl: "https://www.statnews.com/2021/07/15/deepmind-alphafold-rosettattafold-protein/"
+  - title: "Researchers unveil ‘phenomenal’ new AI for predicting protein structures"
+    excerpt: "Scientists have dreamed of simply predicting a protein’s shape from its amino acid sequence—an ability that would open a world of insights into the workings of life. “This problem has been around for 50 years;"
+    publishedDateTime: 2021-07-15T18:30:00Z
+    webUrl: "https://www.sciencemag.org/news/2021/07/researchers-unveil-phenomenal-new-ai-predicting-protein-structures"
     type: article
     provider:
-      name: STAT
-      domain: statnews.com
-    quality: 54
+      name: Science | AAAS
+      domain: sciencemag.org
+    quality: 36
     images:
-      - url: "https://www.statnews.com/wp-content/uploads/2018/03/AdobeStock_153240764-1024x576.jpeg"
-        width: 1024
-        height: 576
+      - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/Protein_folding_1280x720.jpg?itok=KrDvqvRk"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Accurate protein structure prediction now accessible to all"
+    excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
+    publishedDateTime: 2021-07-15T18:03:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uows-aps070921.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/270310_web.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "RYY813BWgd4Srbn2AEUd9uA3rIfIr006wkP/4qSQ5fCe7wzdGv/a8soBLz+UiFVPjoS8OeStB78tcbg5Wr8P+c4Dw73b3Mx+4OlsjG6tvLYkl8tPIgrBGZsCiemDF5gu6gM81Y0BTIgbIBCRWmkymeyKijNs5oQiCUrjfaTgqOJxaYGiLshhSgqtVZUgfGsfwknXM4rbeId5aFAnpy4pG5W7ishuU5roNJ6+PAlYXCPyWPwW2cyZ7cMu/6LTkd7UEuDtoukR6E/5ag1L5fRi/8+gQCedsFLmaW2NRCmP+/x0qNU5+17Vjrp85MjYPzwzuDA1GUrTaMtSjZlny5vN5rZ2ygTvgGwSXMxPXEQgXlMCp1fe15ysxEuGvp+kEMyi9DuxpM8m6cDXMkamqLZSlE6XoYjFWwB+/d6+ptXIzs/8jOEPGxKq8X0UOc0rbhNkEYwh8R/SVZfVjZV1LtLBdrFU74IUPwR1rwodYOXpzcIXKeAQYzH/tg3T9cuazxohE+Ns4ZSWbrkHjHTUS89rVg==;Yhrkn2QpBWsCt8XkmcE6zg=="

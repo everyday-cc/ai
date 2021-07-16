@@ -144,6 +144,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Maine Enacts Toughest Facial Recognition Ban in U.S."
+    excerpt: "Augusta, Maine — The Maine State Legislature has passed a bill that will prohibit the use of facial recognition surveillance by certain government employees and officials. While these bans have been popping up more and more over the country, Maine took ..."
+    publishedDateTime: 2021-07-16T09:48:00Z
+    webUrl: "https://www.campussafetymagazine.com/news/maine-enacts-toughest-facial-recognition-ban-in-u-s/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 54
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/07/Facial-recogntion-Adobe-By-Goodpics-scaled.jpeg"
+        width: 2560
+        height: 1702
+        isCached: true
   - title: "Black teen forced to leave skating rink after facial recognition tech misidentifies her"
     excerpt: "A local roller skating rink in Michigan has come under fire using facial recognition software that misidentified a Black teenager."
     publishedDateTime: 2021-07-16T00:13:00Z

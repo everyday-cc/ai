@@ -25,31 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "New, neural network offers accurate prediction of protein folding"
-    excerpt: "Researchers present RoseTTAFold - a neural network approach for protein modeling with accuracies near those of what DeepMind's AlphaFold2 has achieved, according to a new study."
-    publishedDateTime: 2021-07-15T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/aaft-nnn071221.php"
+  - title: "AI Can Compute Protein Structures in 10 Minutes"
+    excerpt: "Scientists have waited months for access to high-accuracy protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
+    publishedDateTime: 2021-07-16T08:07:00Z
+    webUrl: "https://www.technologynetworks.com/proteomics/news/ai-can-compute-protein-structures-in-10-minutes-350927"
+    ampWebUrl: "https://www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 41
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
+        width: 389
+        height: 389
         isCached: true
-  - title: "The Protein Folding Break-Through"
-    excerpt: "Researchers at DeepMind have proudly announced a major break-through in predicting static folded protein structures with a new program known as AlphaFold 2. Protein folding has been an ongoing ..."
-    publishedDateTime: 2021-07-14T00:00:00Z
-    webUrl: "https://hackaday.com/2020/12/04/the-protein-folding-break-through/"
+  - title: "DeepMind’s AI for protein structure is coming to the masses"
+    excerpt: "Machine-learning systems from the company and from a rival academic group are now open-source and freely accessible."
+    publishedDateTime: 2021-07-15T18:05:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-01968-y"
     type: article
     provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
+      name: Nature
+      domain: nature.com
+    quality: 54
     images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/11/alphafold2_results.gif"
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01968-y/d41586-021-01968-y_19363650.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Researchers unveil ‘phenomenal’ new AI for predicting protein structures"
+    excerpt: "Scientists have dreamed of simply predicting a protein’s shape from its amino acid sequence—an ability that would open a world of insights into the workings of life. “This problem has been around for 50 years;"
+    publishedDateTime: 2021-07-15T18:30:00Z
+    webUrl: "https://www.sciencemag.org/news/2021/07/researchers-unveil-phenomenal-new-ai-predicting-protein-structures"
+    type: article
+    provider:
+      name: Science | AAAS
+      domain: sciencemag.org
+    quality: 36
+    images:
+      - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/Protein_folding_1280x720.jpg?itok=KrDvqvRk"
         width: 1280
         height: 720
         isCached: true
