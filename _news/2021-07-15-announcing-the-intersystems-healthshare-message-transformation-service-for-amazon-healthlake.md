@@ -59,6 +59,22 @@ related:
         width: 800
         height: 437
         isCached: true
+  - title: "Today In Healthcare: VC Sinks Big Bucks Into Startups; Telehealth Providers Turn To AI"
+    excerpt: "Today in healthcare, HC startups have raised almost $15 billion in VC, and telemedicine is turning to AI to solve its privacy problems."
+    publishedDateTime: 2021-07-16T20:19:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 66
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/telemedicine-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Here’s How Dallas-Based HealthTech Company VivoDoc Plans to Simplify Healthcare With AI and ML"
     excerpt: "VivoDoc is striving to reestablish the patient-physician relationship by offering tools that manage the business side of healthcare and aid patients—all in one platform. In cutting out the middle man,"
     publishedDateTime: 2021-07-14T20:51:00Z

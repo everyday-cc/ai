@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
-excerpt: "Netradyne, a leader in artificial intelligence (AI) and edge computing focusing on driver and fleet safety, today announced a $150 million, Series C funding led by SoftBank Vision Fund 2*, with participation from existing investors Point72 Ventures and M12."
-publishedDateTime: 2021-07-15T16:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-ecb234a136fadbe5025439bf6ee2b61e"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-ecb234a136fadbe5025439bf6ee2b61e"
+excerpt: "Netradyne, a leader in artificial intelligence (AI) and edge computing focusing on driver and fleet safety, today announced a $150 million, Series C funding led by SoftBank Vision Fund 2 *, with participation from existing investors Point72 Ventures and M12."
+publishedDateTime: 2021-07-15T16:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/netradyne-raises-150-million-in-series-c-funding-led-by-softbank-vision-fund-2-1030612357"
+webUrl: "https://markets.businessinsider.com/news/stocks/netradyne-raises-150-million-in-series-c-funding-led-by-softbank-vision-fund-2-1030612357"
 type: article
-quality: 35
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "GM Ventures Increases Funding In AI Vision Software Company Algolux"
@@ -40,22 +38,6 @@ related:
       - url: "https://gmauthority.com/blog/wp-content/uploads/2021/01/Cruise-Origin-Honda-Japan-autonomous-vehicle-mobility-service-MaaS-announcement-002-e1611168765981-1024x553.jpg"
         width: 1024
         height: 553
-        isCached: true
-  - title: "New artificial intelligence software can compute protein structures in 10 minutes"
-    excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction,"
-    publishedDateTime: 2021-07-15T18:00:00Z
-    webUrl: "https://phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.html"
-    ampWebUrl: "https://phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/accurate-protein-struc.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "Algolux Closes $18.4 Million Series B Round for Robust Computer Vision"
     excerpt: "New investment will serve to accelerate market adoption of Algolux's robust and scalable computer vision and image optimization solutions"
@@ -118,6 +100,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "r1/pGr26C09cRIHxffg5wgEAKHij5Zu6Co+A9QFdg68oQJ7Dx2v4PalFTNwJIQ2h6QjoWpUbLqJ24v4m6a7QGmdW+OxtqrFQO+wZ1IMdzVE5G0s8DSvxLaxlsMcqoVdQLakcEfVqMmANFt6O40Wn0IwhDEJB/5dqeXRXj16CKoMFZX6NYqmRDKEJN5IMmiBkIOQqI2P/b/13gPLPYAtYea95U+Rf6l3ol8/VMQBRwGb3iIIT+bU8YT0Qc8yEmhWlKdj9yoQlXuaQhlJx992r6hEKJl5/1NwW7PL2b7SXabQ8zFEDSIjCGRB7Sja4hs1YewGSfPdLnMVhclvCV3UEMMjev7QWHVMqwkH0fzSQpMI=;ztk0J7N6rvfFZYZ6HkyRnQ=="
+secured: "UQQd7YzgbViWS67lKfPP2GXmh57LoZb8zKYXvQixsuD+mkpf27chWbVWIZPIC9o+Tx9r5Fb7HUEHl7kL7nsa6p3bwxiuK4KZpukgcs1gie55AQF/NbUPPC4CMrUzL6J312QKHPQcSTRxtXvBVnXpN4C/Hcdqkgu3QDuTD+hcPAEvD0AYLpW4hASHH18ukrpCLkqgUBBjIBLje8mlhjPnQWNh7zD9FzyhgoZx5dIoxyEZhm0Kap1y/hu/kSinZsAPYAnDz8bQfZOjQjhyhhua4Q7CcQXSn7neG4sYF0ZjVMOZ2yvpHKQZuQaG/pake/2dUxRB+6hxS0J5AVPs9WwYymFiTPqJo0+Oz+4lsndod5w=;iiMzYyV4DguDlHBtZiISYw=="
 ---
 

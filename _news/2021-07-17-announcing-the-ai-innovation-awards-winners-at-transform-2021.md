@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-
 ampWebUrl: "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/07/jason-leung-Xaanw0s0pMk-unsplash.jpg?w=1200&strip=all"
@@ -79,6 +80,6 @@ related:
         height: 550
         isCached: true
 
-secured: "TX1YQ0Z40ztQRTDPTMj64Um8b7RHJcM6nbKDwPeAaSTH6SdgqGOt++0ADwvzdfcMkM6fw6ZCbiC1mfj1gjGsQZscHlK9QYtBVF2CXIVFckjifJWhmirB4SuHss0UY1gfWaceVITcC+pIpR5XreerDMxdxR2P85ZoVNns5fZ6q9dsmuVykSONIgTsl2J+9vv4jAXaGlnCirGzfr5tvclxY+rsLoewLWysayvEhM7sTatuGUGSZAM3pHMbrsYxMPqIroXrHq7KxHQZWbPdqtQcLnHcsnPxiphciAOgD+CwImAwMVlMmzTCsNgg8sbMoQlkBa6DyGQumB+zh56Va+rgVxf9P59rdAnrh1znMVlOznI=;PxCK0H5ogy14RDrL/jHSbQ=="
+secured: "dLgskeyA2ZGd+3aoEh/LtOv5IWnYWP8KdgO8c2wWEAMSww5sQtbj3575maNcySZq7Zo6dUQXB93cJIspkgt+S1UUdqZJQB0SxEhoBlvBzdu53eY/++w1utblJJ64YVzEZtGLSlDrYjmKL7bw3Y+1nURYNAAzApz6WCCDdvanyY1bUpHTGPQlkYOtOw+yIRJDX7+J3v5ll24ocBIv8jJrhVuksiIYvsE0DHbeaoI6P6YeWBdaciLcUfVLOIqV0WG+MRSitmXKGcR53jxBenXrl2Gj9eqpwL1GPFFc1pZydoIUR+ztKAW68OiDWYUmjQKvnbD1ktg2SBJF3bdA/VfpjChY5Ll8om/peqMI3o58roulG35OGGvngmBvd9aXCGDg/Ktf51+Eof9nYJ7f6XRreUDcZjv3PwX4CTqry1OwnfYfLXbOu68qDddwCv3s19Ea173rRTcEb7JxcdPpdSN0TUh/xxkL/1Cad2QyPTcRW2XXJiu2uEYSqiWuNTgrsMZHpG5ZRYKRS4OkOshxGXTrzw==;mOxE6JlLchxjxDvhnlU1/w=="
 ---
 

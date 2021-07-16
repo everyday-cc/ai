@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AI Brought Anthony Bourdain's Voice Back To Life. Should It Have?"
-excerpt: "The director of the new Anthony Bourdain documentary Roadrunner says he used AI to generate Bourdain reading from letters he'd never spoken aloud,... \"We can have a documentary-ethics panel about it later,\" joked Morgan Neville, director of the new Anthony ..."
-publishedDateTime: 2021-07-16T17:19:00Z
-originalUrl: "https://www.northcountrypublicradio.org/news/npr/1016838440/ai-brought-anthony-bourdain-s-voice-back-to-life-should-it-have"
-webUrl: "https://www.northcountrypublicradio.org/news/npr/1016838440/ai-brought-anthony-bourdain-s-voice-back-to-life-should-it-have"
+excerpt: "Burns, found the technique duplicitous, tweeting \"I feel like this tells you all you need to know about the ethics of the people behind this project.\" Writer and critic Jason Sheehan, who reviewed Roadrunner for NPR before its use of AI became public ..."
+publishedDateTime: 2021-07-16T20:52:00Z
+originalUrl: "https://www.capradio.org/news/npr/story?storyid=1016838440"
+webUrl: "https://www.capradio.org/news/npr/story?storyid=1016838440"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Northcountrypublicradio.org
-  domain: northcountrypublicradio.org
+  name: Capital Public Radio
+  domain: capradio.org
 
 topics:
   - AI Ethics
@@ -72,6 +72,22 @@ related:
       - url: "https://www.cnet.com/a/img/ygG9OnwVAXclz9rN4SrLRmZZIR4=/2021/07/15/01a10222-21c1-4dc7-9e83-0e2f0947439a/anthony2.jpg"
         width: 1194
         height: 672
+        isCached: true
+  - title: "AI narration of chef Anthony Bourdain's voice sparks row"
+    excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
+    publishedDateTime: 2021-07-16T13:39:00Z
+    webUrl: "https://www.bbc.com/news/technology-57842514"
+    ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7458/production/_119448792_gettyimages-187622944.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Anthony Bourdain Doc Recreates His Voice Using Artificial Intelligence and 10-Plus Hours of Audio"
     excerpt: "Roadrunner ,” the Anthony Bourdain documentary from “20 Feet from Stardom” Oscar winner Morgan Neville, takes a page from documentaries like Alex Gibney’s “Sinatra: All or Nothing at All” in allowing the late chef and television personality to narrate his own story through the use of archival audio."
@@ -153,22 +169,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI narration of chef Anthony Bourdain's voice sparks row"
-    excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-    publishedDateTime: 2021-07-16T14:22:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-57842514"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-57842514.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57842514.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7458/production/_119448792_gettyimages-187622944.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Anthony Bourdain Doc Under Fire for Using AI to Mimic the Late Chef’s Voice"
     excerpt: "Oscar-winning filmmaker Morgan Neville said Bourdain’s widow Ottavia consented to the deepfake’s use—a claim she disputed on Twitter."
     publishedDateTime: 2021-07-16T15:44:00Z
@@ -233,6 +233,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Filmmaker used AI to re-create Anthony Bourdain quotes in new Roadrunner documentary"
+    excerpt: "In an interview with The New Yorker, filmmaker Morgan Neville admitted he used AI and computer algorithms to re-create Anthony Bourdain's voice in several scenes in his new doc, Roadrunner."
+    publishedDateTime: 2021-07-16T21:41:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9796587/Filmmaker-used-AI-create-Anthony-Bourdain-quotes-new-Roadrunner-documentary.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9796587/amp/Filmmaker-used-AI-create-Anthony-Bourdain-quotes-new-Roadrunner-documentary.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9796587/amp/Filmmaker-used-AI-create-Anthony-Bourdain-quotes-new-Roadrunner-documentary.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 52
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/07/16/22/45539747-0-image-a-71_1626469708804.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Anthony Bourdain's Voice Recreated Using Artificial Intelligence For New Documentary"
     excerpt: "Anthony Bourdain's voice was recreated by artificial intelligence for use in a new documentary about his life."
     publishedDateTime: 2021-07-15T21:56:00Z
@@ -290,7 +306,23 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 45
+  - title: "Ottavia Bourdain denies giving permission to recreate Anthony Bourdain's voice with an AI for Roadrunner"
+    excerpt: "Roadrunner, Morgan Neville’s documentary about Anthony Bourdain, features narration by the chef and No Reservations host. While most of that audio was recorded by the actual Bourdain, Neville took on the ethically questionable approach of using stitched-together clips,"
+    publishedDateTime: 2021-07-16T20:40:00Z
+    webUrl: "https://www.avclub.com/ottavia-bourdain-denies-giving-permission-to-recreate-a-1847306355"
+    ampWebUrl: "https://www.avclub.com/ottavia-bourdain-denies-giving-permission-to-recreate-a-1847306355/amp"
+    cdnAmpWebUrl: "https://www-avclub-com.cdn.ampproject.org/c/s/www.avclub.com/ottavia-bourdain-denies-giving-permission-to-recreate-a-1847306355/amp"
+    type: article
+    provider:
+      name: AV Club
+      domain: avclub.com
+    quality: 42
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fada743049f9454b14692ef4bb2872e2.jpg"
+        width: 800
+        height: 452
+        isCached: true
 
-secured: "JFF71JQeXdHU+pkaRDtYtdejl4YI4vnweo0z9S3+voGEbdnijCaLQ5CBMh++CBpdcfpIsho+1fuTv/0mu0z/GHxOvTRliOmaqWwmePfrRtGHXRpWH51ZLNP/9Uv1swTSnw66hA2e0hFxt972HDwGHJ923ZgQY0gFK8r4h7Vq9fu9sgG6M25TqLQXIEoe8+Io1mNs/6rtgRgGNL1btH27rk/lrHhDbko77kIhNHXSrsB2nzZdjCrFSid3zPxHT9KBpINK+LeaR1aFYYHmRKLDXjCG8CFek1c5W2kfyMNIkOC6DdpNmYhIhlzoJ/VyC3L5kw9hXfdnyJ5CUZlBkU71GKlzGOCTKw4qY1EWXqTQeKfzOaVOnUPA/lkCvsnAw2C7+nlNWFCz7kdH3qLQi5zV1TBgUc5QFeo0n8067vrlPa8vq5mkz9Qcz4SJg6lyM5bCDIQMTTvSnw8XL28VsWPpd7J/rc1qlVXSg2Ry+KvPgjPf1CdpXYB+nmfgvZCFzCHz9WyL8z96R1f83KBu++5+xw==;xE2xV2CLYuG2fE6bbgEWSw=="
+secured: "Mv4TI2AQX9F9LSDVb21aRKmc81taTcmY6YQniZdbESJceqSqdgt51Y2mx9kwFSt+nmsMOYUeiU9b5ZVf6gMeZZ+EHl47oU/mN3ZlRmYqLhdV7LUY/IHFXj0dzwYsKEzH2//wEcf8bVLpj7+LzuqK+L7Kxq0Xvj+90/6uxrw3TJ7/bWb0O5EJnSBYlMHOqtnVwcwOi3opOWdI4HswScgB8SXOfOUDD4RNydgNz2Hv+JN0F821xFvg+8OHKr1eCF83wQ1MZHzVAjWNmRG/7I+xa1rvs2M8k0Na0MkN954bD/YL93W/vCJZB5CbX3oWnfL3rwZuhZGQBSlm0o6p3o3RTYi+JFwKad1aHqpaE5JXxBk=;QIEoIHO6lLVj6UguYSt8UQ=="
 ---
 

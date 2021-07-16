@@ -9,7 +9,7 @@ ampWebUrl: "https://www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-f
 cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -28,21 +28,16 @@ images:
 
 related:
   - title: "Elastic Named a Leader in Cognitive Search by Independent Research Firm"
-    excerpt: "Company Achieves the Highest Score in the Strategy Category Among All Vendors MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Elastic (NYSE: ESTC) (“Elastic”),"
-    publishedDateTime: 2021-07-12T23:28:00Z
-    webUrl: "https://www.01net.it/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/"
-    ampWebUrl: "https://www.01net.it/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/amp/"
+    excerpt: "Its sweet spot is for enterprises that want fast, friendly, and affordable cognitive search based on ... Goldman Sachs, Microsoft, The Mayo Clinic, NASA, The New York Times, Wikipedia, and Verizon ..."
+    publishedDateTime: 2021-07-12T18:26:00Z
+    webUrl: "https://www.wallstreet-online.de/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm"
+    ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm"
+    cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 44
-    images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
+      name: wallstreet online
+      domain: wallstreet-online.de
+    quality: 24
   - title: "Sinequa Named a Leader in 2021 Analyst Report for Cognitive Search"
     excerpt: "Intelligent search provider Sinequa announced today that it has been named a Leader in The Forrester Wave™: Cognitive Search, Q3 2021. Cognitive search employs AI technologies, such as natural language processing and machine learning to ingest,"
     publishedDateTime: 2021-07-12T16:03:00Z
@@ -61,20 +56,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 4
-  - title: "Grazitti Interactive's SearchUnify Cited as a Strong Performer Among Cognitive Search Platforms in Latest Evaluations by Independent Research Firm"
-    excerpt: "July 12, 2021 /PRNewswire/ -- SearchUnify, a recognized unified cognitive platform by Grazitti ... data from commonly used SaaS apps, including Microsoft Dynamics 365, Salesforce, Jira, WordPress ..."
-    publishedDateTime: 2021-07-12T18:37:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/grazitti-interactive-s-searchunify-cited-as-a-strong-performer-among-cognitive-search-platforms-in-latest-evaluations-by-independent-research-firm-827882187.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1535704/SearchUnify_Logo.jpg?p=facebook"
-        width: 852
-        height: 446
-        isCached: true
 
 secured: "1qUulBWldnU815Zq4d6GmJnoXvpvz7+rQHZ0AkuYhapiNY7zlz1/F4H41b21yXkufohX4eqa8D3Lvl55Xhq7q0f2+LewPkcKWcD7JjA0C0aKLiTCiMRrhUD+KOXbM8qEpkf3Y4Wtcszw6+FH4EhVR6N6o7k6CB/HtWgf5uINUqDl8Bou1kicjLzmriUbtMkzzkSsgMpNIEs6LZtj2mRZP9fAwhY1SPwEdzSkXYNzKyFAnxQEvke6N9bsD21FT69w9ktSuLPSwwWwBp4j5THlyeA+b7/eyH6xmm95FwS83i3DRKHnAAFZ1JnalLtKL5HETuo31YOyWFOMdshrAw9aSgGNVJG/N/hzCxbmEkm1gL8=;Mzd7OgDx4mci6HCLuy/Lcg=="
 ---

@@ -189,6 +189,20 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Artificial Organs Market Growth, Future Prospects, Opportunity Analysis, Industry Forecast 2027"
+    excerpt: "The global artificial organs market is expected to reach USD 32.62 Billion by 2027, according to a new report by Emergen Research. The specialist consulting approach adopted to study the Artificial Organs market by size,"
+    publishedDateTime: 2021-07-16T11:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-organs-market-growth-future-prospects-opportunity-analysis-industry-forecast-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 12
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/cybersecurity-hackers-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence in Agriculture Market Size - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
     excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
     publishedDateTime: 2021-07-13T10:44:00Z

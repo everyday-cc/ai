@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-17-deepmind-open-sources-alphafold-2-for-protein-structure-predictions.md",
+      "title": "DeepMind open-sources AlphaFold 2 for protein structure predictions",
+      "excerpt": "Alphabet's DeepMind has open-sourced AlphaFold 2, an AI system that can predict the 3D structure of proteins with high accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/",
+      "publishedDateTime": "2021-07-16T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-deep-learning-software-market-robotics-intelligence-evolving-to-make-the-new-era-nuance-clarifai-aws-ibm-keras-deeppy.md",
+      "title": "Deep Learning Software Market Robotics, Intelligence Evolving to Make the New Era| Nuance, Clarifai, AWS, IBM, Keras DeepPy",
+      "excerpt": "The recent report on “Global Deep Learning Software Market Report 2021 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2027 (Based on 2020 COVID-19 Worldwide Spread)” offered by ResearchMoz,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/deep-learning-software-market-robotics-intelligence-evolving-to-make-the-new-era-nuance-clarifai-aws-ibm-keras-deeppy/",
+      "originalUrl": "https://manometcurrent.com/deep-learning-software-market-robotics-intelligence-evolving-to-make-the-new-era-nuance-clarifai-aws-ibm-keras-deeppy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/07/MicrosoftTeams-image-2.jpg",
+          "width": 743,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-16T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-tips-for-building-a-successful-startup.md",
+      "title": "Tips For Building A Successful Startup",
+      "excerpt": "Starting a new business is exciting, but it can be fraught with difficulties if you don’t know what you are doing. Here are some tips to help",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/377603",
+      "originalUrl": "https://www.entrepreneur.com/article/377603",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-377603.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/377603",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377603",
+      "publishedDateTime": "2021-07-16T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-openai-disbands-its-robotics-research-team.md",
       "title": "OpenAI disbands its robotics research team",
       "excerpt": "OpenAI has disbanded its robotics team after years of research ... “But from perspective of what we want to achieve — [artificial general intelligence] — there was some component missing.”",
@@ -63,7 +211,7 @@
       "originalUrl": "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -167,7 +315,7 @@
       "originalUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 273,
+      "heat": 293,
       "tags": null,
       "images": [
         {
@@ -718,49 +866,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-ai-can-compute-protein-structures-in-10-minutes.md",
-      "title": "AI Can Compute Protein Structures in 10 Minutes",
-      "excerpt": "Scientists have waited months for access to high-accuracy protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/proteomics/news/ai-can-compute-protein-structures-in-10-minutes-350927",
-      "originalUrl": "https://www.technologynetworks.com/proteomics/news/ai-can-compute-protein-structures-in-10-minutes-350927",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG",
-          "width": 389,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927",
-      "publishedDateTime": "2021-07-16T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-16-edtech-platform-vedantu-invests-in-ai-enabled-learning-startup-pedagogy.md",
       "title": "Edtech platform Vedantu invests in AI-enabled learning startup Pedagogy",
       "excerpt": "Live online learning platform Vedantu on Thursday announced a strategic investment in Pedagogy, an AI-enabled learning startup that provides online courses and interactive digital books for students preparing for competitive examinations.",
@@ -1145,110 +1250,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds.md",
-      "title": "Attackers can elicit ‘toxic behavior’ from AI translation systems, study finds",
-      "excerpt": "Watch now! Neural machine translation (NMT), or AI techniques that can translate between languages, is in widespread use today owing to its robustness and versatility. But it’s been shown that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/amp/",
-      "publishedDateTime": "2021-07-15T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-ebay-taps-computer-vision-to-transform-online-shopping.md",
-      "title": "eBay taps computer vision to transform online shopping",
-      "excerpt": "Bay chief AI officer details how the shopping site's computer vision is driving customer satisfaction with image based search.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
-      "originalUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ebay.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
-      "publishedDateTime": "2021-07-15T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

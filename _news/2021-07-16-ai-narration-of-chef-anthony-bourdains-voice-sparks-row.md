@@ -2,19 +2,23 @@
 category: news
 title: "AI narration of chef Anthony Bourdain's voice sparks row"
 excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-publishedDateTime: 2021-07-16T14:22:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-57842514"
-webUrl: "https://www.bbc.co.uk/news/technology-57842514"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-57842514.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57842514.amp"
+publishedDateTime: 2021-07-16T13:39:00Z
+originalUrl: "https://www.bbc.com/news/technology-57842514"
+webUrl: "https://www.bbc.com/news/technology-57842514"
+ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
 type: article
-quality: 57
+quality: 87
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -218,6 +222,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Filmmaker used AI to re-create Anthony Bourdain quotes in new Roadrunner documentary"
+    excerpt: "In an interview with The New Yorker, filmmaker Morgan Neville admitted he used AI and computer algorithms to re-create Anthony Bourdain's voice in several scenes in his new doc, Roadrunner."
+    publishedDateTime: 2021-07-16T21:41:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9796587/Filmmaker-used-AI-create-Anthony-Bourdain-quotes-new-Roadrunner-documentary.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9796587/amp/Filmmaker-used-AI-create-Anthony-Bourdain-quotes-new-Roadrunner-documentary.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9796587/amp/Filmmaker-used-AI-create-Anthony-Bourdain-quotes-new-Roadrunner-documentary.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 52
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/07/16/22/45539747-0-image-a-71_1626469708804.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Anthony Bourdain's Voice Recreated Using Artificial Intelligence For New Documentary"
     excerpt: "Anthony Bourdain's voice was recreated by artificial intelligence for use in a new documentary about his life."
     publishedDateTime: 2021-07-15T21:56:00Z
@@ -275,14 +295,30 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 45
-  - title: "AI Brought Anthony Bourdain's Voice Back To Life. Should It Have?"
-    excerpt: "The director of the new Anthony Bourdain documentary Roadrunner says he used AI to generate Bourdain reading from letters he'd never spoken aloud,... \"We can have a documentary-ethics panel about it later,\" joked Morgan Neville, director of the new Anthony ..."
-    publishedDateTime: 2021-07-16T17:19:00Z
-    webUrl: "https://www.northcountrypublicradio.org/news/npr/1016838440/ai-brought-anthony-bourdain-s-voice-back-to-life-should-it-have"
+  - title: "Ottavia Bourdain denies giving permission to recreate Anthony Bourdain's voice with an AI for Roadrunner"
+    excerpt: "Roadrunner, Morgan Neville’s documentary about Anthony Bourdain, features narration by the chef and No Reservations host. While most of that audio was recorded by the actual Bourdain, Neville took on the ethically questionable approach of using stitched-together clips,"
+    publishedDateTime: 2021-07-16T20:40:00Z
+    webUrl: "https://www.avclub.com/ottavia-bourdain-denies-giving-permission-to-recreate-a-1847306355"
+    ampWebUrl: "https://www.avclub.com/ottavia-bourdain-denies-giving-permission-to-recreate-a-1847306355/amp"
+    cdnAmpWebUrl: "https://www-avclub-com.cdn.ampproject.org/c/s/www.avclub.com/ottavia-bourdain-denies-giving-permission-to-recreate-a-1847306355/amp"
     type: article
     provider:
-      name: Northcountrypublicradio.org
-      domain: northcountrypublicradio.org
+      name: AV Club
+      domain: avclub.com
+    quality: 42
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fada743049f9454b14692ef4bb2872e2.jpg"
+        width: 800
+        height: 452
+        isCached: true
+  - title: "AI Brought Anthony Bourdain's Voice Back To Life. Should It Have?"
+    excerpt: "Burns, found the technique duplicitous, tweeting \"I feel like this tells you all you need to know about the ethics of the people behind this project.\" Writer and critic Jason Sheehan, who reviewed Roadrunner for NPR before its use of AI became public ..."
+    publishedDateTime: 2021-07-16T20:52:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1016838440"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
     quality: 39
     images:
       - url: "https://media.npr.org/assets/img/2021/07/16/rr_fp_00785-185acee304921a2d4c11b2d27021379d1338a0e1.jpg?s=6"
@@ -290,6 +326,6 @@ related:
         height: 710
         isCached: true
 
-secured: "jga+ffVN/0ltqMtp3Nm3VcsCaNv1A6N//g5A+v5MyT0ilNHG7pfXnPw3N12kq5VotoL/3fQtnMjiHfdvNxczNAjF9UEd2BLMU2j34/VLbDIGJkjh3P9EvtGbj2ga+pB6a6a/i9qDuXEdQOOI/n7Adl8pAttgyo8XXOwrB2112QRArCZ8CdArDKGFA8t6cq2vXVJasgOBMql6SmExE4c0BN1AGh7x4fSzLDTS94fdZouXoiP5YslT9tb8iAoHqY4xtFOE9UIGyywzsZtZsy6t07x25ZpF9kPzIfj2avrmXmpHjGTr4lLsgMtElY5Lub0n/WrgcL85Kzht+TSs0/9txXfXwiKU+wiBEMjrvsblw+7d+6/vXDE/EEx6AkAvrNkCn3DtegIsENSH33idzhX/1nGw+FuxlGguBG0l2+ZClCEYvDjhRkIlAlDZ7QsU9x8FjIQcp+GzQ2wKgdVXYoAGOJoa8DSXkYh9v1ZCTsj1mu6QURnKA6COyQm/+FqBGCvyqaW4u1jZV1nq/+DFcsSYtA==;y1AMHOOxydzW2An6dyj6jg=="
+secured: "hR6s4ETuRmLW2650yYw28Y3P0CDiaZfjkyZQrMx1M5cDl+0EFRak9XoWYbrJMRUuHf8go8U2NYbNJYqNJo6p0tbonmhBlPmGwollgZxZoojScSwhlFWD+cqfxzKuHZReCzupEA8p1Yes5c76hc4cOerEP1yz5iO1LURWzs2Z9dQj+PdyfiGDvWT5o6JUUXcokk/4RJLVCv0PDiOStG37IXdMaUxGfNrcDCF8dFjE0bMJxVuO/EELxQ2kpms2zpfCwBY6oSt7aJE5WiKxx55FO7SypWnf7+a2emEkSZb/z9wtauOrvFQHiGyeEjVozVesFVmhlWaLfp2ZjH8iur0T76TjhNjlhBbjfz2K6V/XUx8=;6nc1GRh5rYWHBdBlhHszPw=="
 ---
 

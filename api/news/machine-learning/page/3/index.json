@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-29-machine-learning-market-to-see-major-growth-by-2026-bigml-h2oai-sap.md",
+      "title": "Machine Learning Market To See Major Growth By 2026 | BigML, H2O.ai, SAP",
+      "excerpt": "Global Machine Learning Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery is latest research study released by HTF MI evaluating the market risk side analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/28/machine-learning-market-to-see-major-growth-by-2026-bigml-h2o-ai-sap/",
+      "originalUrl": "https://ksusentinel.com/2021/06/28/machine-learning-market-to-see-major-growth-by-2026-bigml-h2o-ai-sap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/Machine-Learning-Market.jpeg",
+          "width": 672,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-iit-madras-offers-free-online-course-on-introduction-to-machine-learning-for-students.md",
+      "title": "IIT Madras Offers Free Online Course on Introduction to Machine Learning for Students",
+      "excerpt": "IIT Madras is offering a free online course on Introduction to Machine Learning for students pursuing their under graduation and post graduation",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/",
+      "originalUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/",
+      "publishedDateTime": "2021-06-28T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-artificial-intelligence-at-the-service-of-the-company.md",
       "title": "Artificial intelligence at the service of the company",
       "excerpt": "Two of the companies created in The Collider, the innovation programme of the Mobile World Capital of Barcelona, stand out for applying artificial intelligence in",
@@ -1285,103 +1371,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-deep-learning-chip-market-forecast-trend-analysis-competition-tracking-global-market-insights-2020-to-2028.md",
-      "title": "Deep Learning Chip Market Forecast, Trend Analysis & Competition Tracking – Global Market Insights 2020 to 2028",
-      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-forecast-trend-analysis-competition-tracking-global-market-insights-2020-to-2028-2021-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-forecast-trend-analysis-competition-tracking-global-market-insights-2020-to-2028-2021-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-max-kelsen-revs-up-ml-system-for-car-share-platform.md",
-      "title": "Max Kelsen revs up ML system for car share platform",
-      "excerpt": "Australian car share platform Car Next Door has tapped Max Kelsen to deploy a machine learning system geared at reducing inappropriate car borrower behaviour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/",
-      "originalUrl": "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/nicktherkelsen-terry.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "Machine Learning"
       ]

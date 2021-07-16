@@ -73,13 +73,13 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/07/jason-leung-Xaanw0s0pMk-unsplash.jpg?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true
 
-secured: "mq+DoHJnw26Z9DlsSDZvdjeoKTEew8sQqdhGmr2okic4+pQV2sISJIfeLdqxntlF4PMzzpnlxUAyuQQBvbXR9uyxubp6NwRL7JQpraY/XgS9KNIVXqqyAs6+GUpxHajH1UwY8yrIzpi1Hlg2ikl2CnOA3EAuDmLRYQQAZyOKxiR+KPNQ1mzYN/sSzCdEOuIgJku/v00dKwIXdfFOkduWuWG+r7J0f2wcnXlQTCI+2KiAMEaXEwhq6k5hAeWzfS4VETAyXnQpLgj1TiGShiTpRLI3phwhWoUHhzzQhubd4UGudZnat7YDyLB6NHerAN0uBom5d5y/1oHXg/guGFuCzhuDMEWMhizpNAOjj/mUVhw=;jqLYDprnwVkefvjvSEH+jw=="
+secured: "3F7sqRP4VHCE3a0C1YptFzr9HbPBjlJWXkftpbMh2tO7KkVZXrFzRpf8cdDOCPHlxuhb/DareBlOPmaO1AL1UAKcnILje46CknutjuBmpS3kWazpgkwbujKI4n4x9Ym6n2w1NbVouN6BMj4nv0dc6SNfnkK9zwUGs8imWi2WnjEO4iO0jjX1lYduMjDNSUHhJFnAAivGPFLSed4Zw3IfP5NTRK4MVjI/oPuU2S0DZAfQmDeSlCzzLlw5/mi1nlVzJ0dCHbnbjUxrG4/BlawLNok/Tp5K7rrf2OLc9luoORJw1REJ9kN/EX6hLRTv4yU7zmck8xgXhdfT2ZuGY7BFZHlE1pV/PPwBzf4AgebKggk9rYVkljTCD+E1JJCnkBJaYQHS3So9Zeq1WOhzqOYGaJu8WtYbfcBgv8ac9QmvLjWqMFV+jpD1Lfqkr7zGKiMAgW2k6M7GkIzDHZd5MOxUPdlnYStYwGR0UtiKuLE3/5feDZUDi6OMmPLdynVd9JUMaBCOHNVzFz2hQiiDtIHggQ==;nD4VS3GsiM9kUSEtTidpTw=="
 ---
 

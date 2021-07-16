@@ -41,6 +41,20 @@ related:
         width: 2000
         height: 1270
         isCached: true
+  - title: "Discord scoops up harassment-detection AI startup Sentropy"
+    excerpt: "While existing customers of Sentropy’s products are essentially being given a couple of months to migrate elsewhere, Discord users might welcome the move, as Sentropy’s founders say they’re “joining Discord to continue fighting against hate and abuse on the internet."
+    publishedDateTime: 2021-07-16T20:00:00Z
+    webUrl: "https://massivelyop.com/2021/07/16/discord-scoops-up-harassment-detection-ai-startup-sentropy/"
+    type: article
+    provider:
+      name: Massively Overpowered
+      domain: massivelyop.com
+    quality: 37
+    images:
+      - url: "https://pbs.twimg.com/profile_images/1279245637473587200/jf90oea5.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "JFOAEgAzmTZmBKjOh+Cm2f6vyfTsv4m3GBRZiVFBrrALnJBOxGuRRjKrOxjwqbtPXa/mbseyJ2OQ7116HQBy+ddJf6zGqaa9/yvF/Acim7xaa6fdf89/x5O2Md7eY1RP0iyvyOHrAwhpe/tF9yh3oqfnj52Po6V/c68ob9exD2yLVEjLjlMFx7+GNW3ntjW2uaiJrYeb0Tc8ClWiPAXgcGCpDrirKFSUEBEMTlcaGYxsTBKn6ae5sg2z8fqBtlrdZiZZzA0h875+DcMQ0o9J/vj4IyKVSzlQ8dZ9ombafTpO2aFv/Kf1djKJeuBw8ADsHhlDgdbwNB7qAcRpMhct8yfj0kOLos4ZgAMp4Zf6meumD272Qq1ZGBAdTQw1cDUIsWawGKpi9cePbLe8BFVYZDXnZxtvGTLvNcQ/hpleCPVIG/uV2bTR9b0OVUGCZkYZ39Q3P8ZYYcZKzNiO1uXl+QO1LK+U158EamFHeM2GbsIFW5cD3ab+z0AzhsqHN0YC2LhlGleJmMMtUiPOUVUXLA==;VGS7tCI85c+gWoPwrT7SUg=="
 ---

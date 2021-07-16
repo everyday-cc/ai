@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-16-attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds.md",
+      "title": "Attackers can elicit ‘toxic behavior’ from AI translation systems, study finds",
+      "excerpt": "Watch now! Neural machine translation (NMT), or AI techniques that can translate between languages, is in widespread use today owing to its robustness and versatility. But it’s been shown that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/",
+      "originalUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/amp/",
+      "publishedDateTime": "2021-07-15T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-ebay-taps-computer-vision-to-transform-online-shopping.md",
+      "title": "eBay taps computer vision to transform online shopping",
+      "excerpt": "Bay chief AI officer details how the shopping site's computer vision is driving customer satisfaction with image based search.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
+      "originalUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ebay.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
+      "publishedDateTime": "2021-07-15T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-self-driving-startup-aurora-to-go-public-in-13-bln-spac-deal.md",
       "title": "Self-driving startup Aurora to go public in $13 bln SPAC deal",
       "excerpt": "Self-driving technology startup Aurora will go public through a deal with a blank-check firm backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus, giving the combined company a pro-forma market capitalization of $13 billion.",
@@ -744,6 +848,59 @@
       ]
     },
     {
+      "path": "_news/2021-07-15-building-ethical-ai-products-can-put-businesses-at-a-competitive-advantage.md",
+      "title": "Building ethical A.I. products can put businesses at a competitive advantage",
+      "excerpt": "They are able to automate repetitive tasks, analyze large volumes of data, recommend content, translate languages and even play games. But the current scope of things that AI can do is relatively ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
+      "originalUrl": "https://www.cnbc.com/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106908631-1625805682269-gettyimages-1327731017-vcg111338081794.jpeg?v=1626330979",
+          "width": 6016,
+          "height": 4016,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
+      "publishedDateTime": "2021-07-15T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-artificial-intelligence-in-healthcare-global-market-forecast-to-2027.md",
       "title": "Artificial Intelligence in Healthcare Global Market - Forecast to 2027",
       "excerpt": "The rapidly evolving vast and complex healthcare industry is slowly deploying AI solutions into its mainstream workflows to increase the productivity of various healthcare. Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter and enable them to simulate human intelligence and perform various higher-order value-based tasks like visual perception,",
@@ -898,7 +1055,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -953,7 +1110,7 @@
       "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/discord-steps-up-anti-harrassment-efforts-with-new-ai-acquisition-2993660",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -1079,144 +1236,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-defense-secretary-austin-calls-for-ethical-ai-development.md",
-      "title": "Defense Secretary Austin calls for ethical AI development",
-      "excerpt": "The U.S. military will develop artificial intelligence ethically and responsibly, Defense Secretary Lloyd Austin said in remarks on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
-      "originalUrl": "https://www.upi.com/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/6571626285709/2021/1/16262864692568/v1.5/Defense-Secretary-Austin-calls-for-ethical-AI-development.jpg",
-          "width": 382,
-          "height": 255,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
-      "publishedDateTime": "2021-07-14T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-holly-herndon-releases-ai-deepfake-tool-that-lets-others-make-music-with-her-voice.md",
-      "title": "Holly Herndon Releases AI Deepfake Tool That Lets Others Make Music With Her Voice",
-      "excerpt": "W]e think we have found a way to allow people to perform through my voice, reduce confusion by establishing official approval, and invite everyone to benefit from the proceeds generated",
-      "sourceUrl": null,
-      "webUrl": "https://www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/",
-      "originalUrl": "https://www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rollingstone.com/wp-content/uploads/2021/07/602ce97df0ac5c08e9c98d5578bbe38e54167b86.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/amp/",
-      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/amp/",
-      "publishedDateTime": "2021-07-14T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rolling Stone",
-        "domain": "rollingstone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure.md",
-      "title": "Lambda Labs raises $15M for AI-optimized hardware infrastructure",
-      "excerpt": "Among these are the TensorBook, a laptop with a dedicated GPU, and a workstation product with up to four desktop-class GPUs for AI training. Lambda also offers servers including one designed to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/amp/",
-      "publishedDateTime": "2021-07-14T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-01-almalinux-now-available-on-arm-processors-through-community-collaboration-with-arm-aws-equinix-metal-and-oregon-state-university.md",
+      "title": "AlmaLinux Now Available on Arm Processors Through Community Collaboration with Arm, AWS, Equinix Metal, and Oregon State University",
+      "excerpt": "The AlmaLinux OS Foundation, a non-profit overseeing the only community-owned and community-driven open source enterprise-grade alternative to CentOS, today announced availability of AlmaLinux OS for Arm processors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210630005707/en/AlmaLinux-Now-Available-on-Arm-Processors-Through-Community-Collaboration-with-Arm-AWS-Equinix-Metal-and-Oregon-State-University",
+      "originalUrl": "https://www.businesswire.com/news/home/20210630005707/en/AlmaLinux-Now-Available-on-Arm-Processors-Through-Community-Collaboration-with-Arm-AWS-Equinix-Metal-and-Oregon-State-University",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-us-agencies-must-track-which-facial-recognition-systems-they-use-report-says.md",
       "title": "US agencies must track which facial recognition systems they use, report says",
       "excerpt": "Several federal agencies don't know which systems their employees use, according to the Government Accountability Office.",
@@ -1304,40 +1338,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track.md",
-      "title": "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track",
-      "excerpt": "Ferrari selects AWS as its official cloud provider to power innovation on the road and track, leveraging AWS machine learning, analytics and compute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track",
-      "originalUrl": "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

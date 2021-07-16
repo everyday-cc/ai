@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/informatica-introduces-ai-m
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/informatica-introduces-ai-model-governance/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "China introduces artificial intelligence into pulsar searching project"
-    excerpt: "China is exploring artificial intelligence application in astronomy by introducing AI technology into China's pulsar searching project. The project was announced at the World Artificial Intelligence Conference."
-    publishedDateTime: 2021-07-12T03:32:00Z
-    webUrl: "https://news.cgtn.com/news/2021-07-12/China-introduces-AI-into-pulsar-searching-project--11Pz2x033qw/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 37
-    images:
-      - url: "https://video.cgtn.com/news/2021-07-12/China-introduces-AI-into-pulsar-searching-project--11Pz2x033qw/video/051575ba32c64c38b9004c0bbaf98753/051575ba32c64c38b9004c0bbaf98753-1280.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Informatica Launches Intelligent Data Management Cloud on Azure for Asia Pacific, Bolstering Cloud Momentum in the Region"
     excerpt: "Informatica, the enterprise cloud data management leader, today announced it has launched its Intelligent Data Management Cloud (IDMC) the industry's first end-to-end AI-powered cloud platform service available on Microsoft Azure Southeast Asia region for Asia Pacific customers,"
     publishedDateTime: 2021-07-13T01:46:00Z

@@ -254,17 +254,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "PUBG Mobile now lets players build a self-driving Tesla Model Y"
-    excerpt: "The most recent PUBG Mobile update introduces a new collaboration with Tesla that will allow players on both Android and iOS devices to build their own self-driving vehicles."
-    publishedDateTime: 2021-07-12T04:15:00Z
-    webUrl: "https://www.phonearena.com/news/pubg-mobile-update-self-driving-tesla-car_id133519"
-    ampWebUrl: "https://www.phonearena.com/amp/news/pubg-mobile-update-self-driving-tesla-car_id133519"
-    cdnAmpWebUrl: "https://www-phonearena-com.cdn.ampproject.org/c/s/www.phonearena.com/amp/news/pubg-mobile-update-self-driving-tesla-car_id133519"
-    type: article
-    provider:
-      name: Phone Arena
-      domain: phonearena.com
-    quality: 39
   - title: "Tesla’s Full Self-Driving beta ticks up to version 9.0"
     excerpt: "Tesla has begun sending out an extremely limited amount of over-the-air updates to bring its Full Self-Driving (FSD) Beta up to version 9. The new update enables members of Teslas"
     publishedDateTime: 2021-07-12T18:32:00Z

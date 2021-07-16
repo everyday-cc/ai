@@ -39,20 +39,6 @@ related:
         width: 642
         height: 362
         isCached: true
-  - title: "China introduces artificial intelligence into pulsar searching project"
-    excerpt: "China is exploring artificial intelligence application in astronomy by introducing AI technology into China's pulsar searching project. The project was announced at the World Artificial Intelligence Conference."
-    publishedDateTime: 2021-07-12T03:32:00Z
-    webUrl: "https://news.cgtn.com/news/2021-07-12/China-introduces-AI-into-pulsar-searching-project--11Pz2x033qw/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 37
-    images:
-      - url: "https://video.cgtn.com/news/2021-07-12/China-introduces-AI-into-pulsar-searching-project--11Pz2x033qw/video/051575ba32c64c38b9004c0bbaf98753/051575ba32c64c38b9004c0bbaf98753-1280.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "T0tUb0rUZI0P6h7Y9vBHMLJNU0KvrtOW5FWVYgRTkivooumoQz5iSpW9sUkwW/gdb4qS/nfy0UhM2u4OJkB9ZmRlyCbmx9+WpayTJgsEHDx+ZFradxw0ql8jF/UmT3n43Z/RJmfCEC8wkfs71V5R1vHn1dXwqmeRB6KDkZWcMc3XFaX03OdW2k6YYN1wrmAf+dGL4IasmuB080/Hof/b+WxgrZ4iPsaAFZ8DYT/T/aa5fiB7Kbpwe5hOaL4r4F0d0mGE7v22LtDfKz+N1TJX4rEuVphE29rKsid0NoC/UBMEbLfwxUfLG3CTH5Lw2jzGuZngYc8ry0RGmWkd0N6LcABA+0Q+NGbNem4qQQUn3QzXvB39eolWG1FmIV6Gaw5FUD7QA3oDk3+v8Pq44daITGnYT/Ai62+ebf5gbLqYk/DQK/vrXCFOO+6zbtrPI1HuD0BfXAetio9ikFo6f5vPNZckKNQWdTk+SmDzVU7wiX3dl2t+ELOubry0bh2uXSCkXUntlw95lqQuBnWTrcMPhA==;jbG8zaSVLAwePVhQGriJ4A=="
 ---

@@ -2,6 +2,206 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-06-24-providence-backed-tegria-acquires-healthcare-ai-company.md",
+      "title": "Providence-backed Tegria acquires healthcare AI company",
+      "excerpt": "Providence's health tech investment portfolio Tegria on June 24 acquired KenSci, a company that provides artificial intelligence platforms and tools to healthcare providers, payers and medical device companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/providence-backed-tegria-acquires-healthcare-ai-company.html",
+      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/providence-backed-tegria-acquires-healthcare-ai-company.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition.md",
+      "title": "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition",
+      "excerpt": "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html",
+      "originalUrl": "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswireindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce.md",
+      "title": "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce",
+      "excerpt": "Partnership Brings Together People, Process and Trust for Successful AI Application Development AUSTIN, June 23, 2021 — CognitiveScale, the enterprise AI company that helps organizations win with intelligent,",
+      "sourceUrl": null,
+      "webUrl": "https://multichannelmerchant.com/press-releases/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce/",
+      "originalUrl": "https://multichannelmerchant.com/press-releases/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Multichannel Merchant",
+        "domain": "multichannelmerchant.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-modular-robotics-market-provides-detailed-insight-by-trends-challenges-opportunities-and-competitive-analysis.md",
+      "title": "Modular Robotics Market Provides Detailed Insight by Trends, Challenges, Opportunities, and Competitive Analysis",
+      "excerpt": "From 9 32 trillion in 2009 the manufacturing output value added rose sharply to 13 672 trillion in 2019 as per the World Bank This reflects both the burgeoning demand for every type of product on account of the booming",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2313241/modular-robotics-market-provides-detailed-insight-by-trends",
+      "originalUrl": "https://www.openpr.com/news/2313241/modular-robotics-market-provides-detailed-insight-by-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U624416484_g.jpg",
+          "width": 800,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2313241/modular-robotics-market-provides-detailed-insight-by-trends",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2313241/modular-robotics-market-provides-detailed-insight-by-trends",
+      "publishedDateTime": "2021-06-24T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-american-robotics-and-scientific-applications-research-associates-sara-partner-to-further-advance-fully-autonomous-drone-operations-in-us.md",
+      "title": "American Robotics and Scientific Applications & Research Associates (SARA) Partner to Further Advance Fully-Autonomous Drone Operations in U.S. Nation",
+      "excerpt": "SARA’s unique aircraft detection technology enables American Robotics’ Scout System drones to maintain a safe distance from other aircraft at all times. MARLBOROUGH, Mass. & CYPRESS, Calif.--(BUSINESS WIRE)--#AcousticSensor--American Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=490577",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=490577",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently.md",
       "title": "Carrot And Stick: How Deep Reinforcement Learning Trains AI Differently",
       "excerpt": "Rather than generating potential outcomes based on historical data, deep reinforcement learning teaches AI agents and machines with the time-tested \"carrot and stick\" method.",
@@ -936,242 +1136,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025.md",
-      "title": "At CAGR of 45.4% Artificial Intelligence Chip Market Size is Projected to Reach $91.19 Billion by 2025",
-      "excerpt": "Heavy inflow of investments in AI startups, rise in demand for smart cities & smart homes, and emergence of quantum computing would propel the growth of the global artificial intelligence chip market Allied Market Research published a report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T23:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-teslas-new-supercomputer-will-drive-autopilot-full-self-driving-features.md",
-      "title": "Tesla's new supercomputer will drive autopilot, full self-driving features",
-      "excerpt": "Tesla unveiled new images on Sunday of its in-house supercomputer, which will be used to help power the electric vehicle maker's autopilot and full self-driving (FSD) capabilities. ELON MUSK ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/tesla-new-supercomputer-will-drive-autopilot",
-      "originalUrl": "https://www.foxbusiness.com/technology/tesla-new-supercomputer-will-drive-autopilot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/babfdf7e-55df-4039-b7f4-4a07a462c802/f6e9e4ee-dcdb-4963-bad6-efd7503bd057/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/tesla-new-supercomputer-will-drive-autopilot.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/tesla-new-supercomputer-will-drive-autopilot.amp",
-      "publishedDateTime": "2021-06-23T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-artificial-intelligence-in-healthcare-market-report-2021-size-share-growth-analysis-trends-and-forecast-to-2026.md",
-      "title": "Artificial Intelligence in Healthcare Market Report 2021, Size, Share, Growth, Analysis, Trends and Forecast to 2026",
-      "excerpt": "According to IMARC Group’s latest report, the global artificial intelligence in healthcare market exhibited strong growth during 2015-2020. Looking forward, the market is expected to grow at a CAGR of 42.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/06/24/artificial-intelligence-in-healthcare-market-report-2021-size-share-growth-analysis-trends-and-forecast-to-2026/",
-      "originalUrl": "https://ksusentinel.com/2021/06/24/artificial-intelligence-in-healthcare-market-report-2021-size-share-growth-analysis-trends-and-forecast-to-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/Artificial-Intelligence-in-Healthcare-Market-Blog-Image-780x470.png",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-deep-learning-software-market-is-predicted-to-reach-usd-26808-billion-by-2030-with-a-cagr-of-413-.md",
-      "title": "Deep Learning Software Market is predicted to reach USD 268.08 billion by 2030 with a CAGR of 41.3 %",
-      "excerpt": "The Global Deep Learning Software Market size is estimated to be USD 5.98 billion in 2019 and is predicted to reach USD 268.08 billion by 2030 with a CAGR of 41.3 % from 2020-2030. The Deep Learning Software Market report covers a detailed study on key areas such as market size,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/06/24/deep-learning-software-market-is-predicted-to-reach-usd-268-08-billion-by-2030-with-a-cagr-of-41-3/",
-      "originalUrl": "https://ksusentinel.com/2021/06/24/deep-learning-software-market-is-predicted-to-reach-usd-268-08-billion-by-2030-with-a-cagr-of-41-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/Deep-Learning-Software.jpg",
-          "width": 1024,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-natural-language-processing-tech-startup-primer-raises-110m.md",
-      "title": "Natural language processing tech startup Primer raises $110M",
-      "excerpt": "With $110 million in funding, natural language processing platform Primer plans to add pharmaceutical and financial customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/23/natural-language-processing-tech-startup-primer-raises-110m/",
-      "originalUrl": "https://venturebeat.com/2021/06/23/natural-language-processing-tech-startup-primer-raises-110m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/chatbots-e1624470249681.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/23/natural-language-processing-tech-startup-primer-raises-110m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/23/natural-language-processing-tech-startup-primer-raises-110m/amp/",
-      "publishedDateTime": "2021-06-23T17:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

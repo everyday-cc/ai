@@ -239,14 +239,14 @@ related:
   - title: "In Major Step Toward Commercializing Self-Driving Technology, Aurora to Become a Public Company by Merging with Reinvent Technology Partners Y"
     excerpt: "Aurora, the self-driving technology company, has entered into a definitive business combination agreement with Reinvent Technology Partners Y (“Reinvent”) (NASDAQ: RTPY), a special purpose acquisition company with the sponsor team that takes a “venture capital at scale” approach to investing."
     publishedDateTime: 2021-07-15T13:36:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/in-major-step-toward-commercializing-self-driving-technology-aurora-to-become-a-public-company-by/article_f05b257c-9ec8-5b70-96a7-e66c04ecbb63.html"
+    webUrl: "https://www.wfmz.com/news/ap/ap-business/in-major-step-toward-commercializing-self-driving-technology-aurora-to-become-a-public-company-by/article_16f67af5-8c6c-5a0b-b275-4a8bd02c356f.html"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/21/821a284b-ba23-5cb0-ac73-f905ce44b439/60f03c81db3a3.image.jpg?resize=1120%2C630"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/a1/1a1294d7-e6c3-5ad0-a0ac-564affde415b/60f03c7e3e51b.image.jpg?resize=1120%2C630"
         width: 1120
         height: 630
         isCached: true

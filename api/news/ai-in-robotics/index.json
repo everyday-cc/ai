@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-17-deep-learning-software-market-robotics-intelligence-evolving-to-make-the-new-era-nuance-clarifai-aws-ibm-keras-deeppy.md",
+      "title": "Deep Learning Software Market Robotics, Intelligence Evolving to Make the New Era| Nuance, Clarifai, AWS, IBM, Keras DeepPy",
+      "excerpt": "The recent report on “Global Deep Learning Software Market Report 2021 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2027 (Based on 2020 COVID-19 Worldwide Spread)” offered by ResearchMoz,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/deep-learning-software-market-robotics-intelligence-evolving-to-make-the-new-era-nuance-clarifai-aws-ibm-keras-deeppy/",
+      "originalUrl": "https://manometcurrent.com/deep-learning-software-market-robotics-intelligence-evolving-to-make-the-new-era-nuance-clarifai-aws-ibm-keras-deeppy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/07/MicrosoftTeams-image-2.jpg",
+          "width": 743,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-16T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-openai-disbands-its-robotics-research-team.md",
       "title": "OpenAI disbands its robotics research team",
       "excerpt": "OpenAI has disbanded its robotics team after years of research ... “But from perspective of what we want to achieve — [artificial general intelligence] — there was some component missing.”",
@@ -809,7 +854,7 @@
       "originalUrl": "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1389,58 +1434,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-the-pizza-delivery-guy-will-be-a-robot-at-many-campuses-this-fall.md",
-      "title": "The Pizza Delivery Guy Will Be a Robot at Many Campuses This Fall",
-      "excerpt": "Russia’s Yandex will build the service’s rovers, as delivery companies turn to automation to cut costs in an industry boosted by the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/grubhub-to-use-food-delivering-robots-on-college-campuses-11625591000",
-      "originalUrl": "https://www.wsj.com/articles/grubhub-to-use-food-delivering-robots-on-college-campuses-11625591000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-364955/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/grubhub-to-use-food-delivering-robots-on-college-campuses-11625591000",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/grubhub-to-use-food-delivering-robots-on-college-campuses-11625591000",
-      "publishedDateTime": "2021-07-06T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

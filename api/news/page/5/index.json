@@ -2,6 +2,194 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-13-digital-health-equity-and-how-to-achieve-it-in-a-post-pandemic-world.md",
+      "title": "Digital Health Equity And How To Achieve It In A Post-Pandemic World",
+      "excerpt": "It’s imperative that everyone receives equal access to medical care, whether that’s via the telephone, in person or a telehealth appointment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/13/digital-health-equity-and-how-to-achieve-it-in-a-post-pandemic-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/13/digital-health-equity-and-how-to-achieve-it-in-a-post-pandemic-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ec47b6bbdecf0b4a11814f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/13/digital-health-equity-and-how-to-achieve-it-in-a-post-pandemic-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/13/digital-health-equity-and-how-to-achieve-it-in-a-post-pandemic-world/amp/",
+      "publishedDateTime": "2021-07-13T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-ai-to-have-biggest-impact-on-fintech-development-over-next-five-years.md",
+      "title": "AI to have biggest impact on fintech development over next five years",
+      "excerpt": "Artificial intelligence will become the most influential technology in the fintech sector over the next five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years",
+      "originalUrl": "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?amp=1",
+      "publishedDateTime": "2021-07-13T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-zoho-launches-business-intelligence-platform-infused-with-ai.md",
+      "title": "Zoho launches business intelligence platform infused with AI",
+      "excerpt": "Zoho launched the integrated Zoho Business Intelligence Platform as part of its effort to expand the total addressable market.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Zoho-DataPrep_Inside_Zoho_Analytics.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/amp/",
+      "publishedDateTime": "2021-07-13T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-warburg-pincus-leads-153-mln-fundraising-for-uk-fintech-quantexa.md",
+      "title": "Warburg Pincus leads $153 mln fundraising for UK fintech Quantexa",
+      "excerpt": "UK-based Quantexa has raised $153 million in a funding round led by Warburg Pincus, the financial technology start-up said on Tuesday, as it seeks to accelerate its regional expansion and develop new products in areas including banking and insurance.",
+      "sourceUrl": null,
+      "webUrl": "https://kfgo.com/2021/07/13/warburg-pincus-leads-153-million-fundraising-for-uk-fintech-quantexa/",
+      "originalUrl": "https://www.nasdaq.com/articles/warburg-pincus-leads-%24153-mln-fundraising-for-uk-fintech-quantexa-2021-07-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.socastsrm.com/uploads/station/2105/fbShare.png?r=57822",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-quantexa-raises-153m-to-build-out-ai-based-big-data-tools-to-track-risk-and-run-investigations.md",
       "title": "Quantexa raises $153M to build out AI-based big data tools to track risk and run investigations",
       "excerpt": "As financial crime has become significantly more sophisticated, so too have the tools that are used to combat it. Now, Quantexa — one of the more interesting startups that has been building AI-based solutions to help detect and stop money laundering,",
@@ -104,7 +292,7 @@
       "originalUrl": "https://www.zdnet.com/article/informatica-introduces-ai-model-governance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -388,7 +576,7 @@
       "originalUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -781,7 +969,7 @@
       "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/07/12/does-your-ai-governance-focus-on-the-right-questions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1029,205 +1217,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-the-role-of-ar-vr-ai-and-robotics-in-future-conflicts.md",
-      "title": "The Role of AR, VR, AI and Robotics in Future Conflicts",
-      "excerpt": "The increasing importance of information in military and warfare is making digital technology and its applications, such as analytics, AI, and augmented reality, indispensable to the future of war.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/politics/the-role-of-ar-vr-ai-and-robotics-in-future-conflicts",
-      "originalUrl": "https://www.bbntimes.com/politics/the-role-of-ar-vr-ai-and-robotics-in-future-conflicts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Role_of_AR_VR_AI_and_Robotics_in_Future_Conflicts.jpg",
-          "width": 1625,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-artificial-intelligence-is-on-the-side-of-apes-tesla-fames-ai-based-etf-sells-facebook-walmart-and-buys-amc.md",
-      "title": "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC",
-      "excerpt": "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ: FB) and Walmart Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697",
-      "originalUrl": "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/3090841071_105297e728_o_6.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale.md",
-      "title": "This AI Asks Questions, Finds Answers And Suggests Actions, All At Scale",
-      "excerpt": "SparkBeyond has developed an AI-driven dynamic research and strategic action engine that can help you create a better future",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e9ea58078e5ea785ac75f1%2F0x0.jpg",
-          "width": 1200,
-          "height": 1354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/amp/",
-      "publishedDateTime": "2021-07-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-the-self-driving-race-between-elon-musks-tesla-and-dominos-pizza-robots.md",
-      "title": "The self-driving race between Elon Musk's Tesla and Domino's pizza robots",
-      "excerpt": "Elon Musk has talked up full self-driving for years, but missed many deadlines. Some are betting the big progress in autonomous vehicles: delivering pizza.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
-      "originalUrl": "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106907169-1625602487443-rev1.jpg?v=1625667387",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
-      "publishedDateTime": "2021-07-12T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

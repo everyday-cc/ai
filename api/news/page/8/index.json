@@ -2,6 +2,231 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-07-09-heres-why-amazon-doesnt-sell-these-14-things.md",
+      "title": "Here’s Why Amazon Doesn’t Sell These 14 Things",
+      "excerpt": "In June 2020, in response to the outpouring of protest against racial injustice and systemic racism, Amazon announced that it would stop selling “Rekognition,” its facial recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rd.com/list/amazon-doesnt-sell-these-things/",
+      "originalUrl": "https://www.rd.com/list/amazon-doesnt-sell-these-things/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reader's Digest",
+        "domain": "rd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-pentagon-document-shows-hpc-key-to-dods-post-jedi-cloud-strategy-early-co-favorites-aws-and-azure.md",
+      "title": "Pentagon Document Shows HPC Key to DoD’s Post-JEDI Cloud Strategy; Early Co-favorites: AWS and Azure",
+      "excerpt": "In its July 6 announcement, DoD said that JEDI’s single supplier approach would be replaced by multiple providers, most likely AWS and Azure – though ... Command and Control (JADC2) and the Artificial Intelligence and Data Acceleration (ADA) initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/07/pentagon-document-shows-hpc-key-to-dods-post-jedi-cloud-strategy-early-co-favorites-aws-and-azure/",
+      "originalUrl": "https://insidehpc.com/2021/07/pentagon-document-shows-hpc-key-to-dods-post-jedi-cloud-strategy-early-co-favorites-aws-and-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/08/Department-of-Defense-DOD-seal.png",
+          "width": 600,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-cloudplexo-launches-aws-well-architected-alignment-tool-to-assess-cloud-environment.md",
+      "title": "CloudPlexo Launches AWS Well-Architected Alignment Tool to Assess Cloud Environment",
+      "excerpt": "CloudPlexo, cloud optimization and efficiency SaaS platform provider, announces the launch of its AWS Well-Architected Alignment Tool which enables cloud architects, customers and partners to evaluate or assess cloud environment architectures to determine their level of alignment with specific cloud solutions and industry best practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/cloudplexo-launches-aws-well-architected-alignment-tool-to-assess-cloud-environment",
+      "originalUrl": "https://www.digitaljournal.com/pr/cloudplexo-launches-aws-well-architected-alignment-tool-to-assess-cloud-environment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1625748567.png",
+          "width": 2000,
+          "height": 1889,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T16:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-worlds-most-advanced-autonomous-research-vehicle-completes-ocean-crossing-from-san-francisco-to-hawaii.md",
+      "title": "World's Most Advanced Autonomous Research Vehicle Completes Ocean Crossing from San Francisco to Hawaii",
+      "excerpt": "The uncrewed, autonomous, Saildrone Surveyor will arrive in Hawaii today after a groundbreaking maiden voyage from San Francisco to Honolulu. While ocean crossings are nothing new for Saildrone's autonomous surface vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/worlds-most-advanced-autonomous-research-vehicle-completes-ocean-crossing-from-san-francisco-to-hawaii-301328388.html",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/world-s-most-advanced-autonomous-research-vehicle-completes-ocean-crossing-from-san-francisco-to-hawaii-1030591572",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1560420/Saildrone_Surveyor.jpg?w=950",
+          "width": 950,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-generate-a-jazz-rock-track-using-aws-deepcomposer-with-machine-learning.md",
+      "title": "Generate a jazz rock track using AWS DeepComposer with machine learning",
+      "excerpt": "At AWS, we love sharing our passion for technology and innovation, and AWS DeepComposer is no exception. This service is designed to help everyone learn about generative artificial intelligence (AI) through the language of music. You can use a sample melody, upload your own melody, or play a tune using",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/generate-a-jazz-rock-track-using-aws-deepcomposer-with-machine-learning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/generate-a-jazz-rock-track-using-aws-deepcomposer-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T16:26:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g.md",
       "title": "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G",
       "excerpt": "A driverless Halo then arrives at the pick ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while humans ...",
@@ -950,240 +1175,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-sbh-health-system-selects-electrifais-machine-learning-technology-to-transform-operations.md",
-      "title": "SBH Health System Selects ElectrifAi's Machine Learning Technology to Transform Operations",
-      "excerpt": "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, announced today its collaboration with St. Barnabas Hospital, the flagship of the SBH Health System,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-sbh-health-system-selects-electrifais-machine-learning-technology-/2021/07/08/9405153.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-sbh-health-system-selects-electrifais-machine-learning-technology-/2021/07/08/9405153.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-aria-exchange-announces-exclusive-fan-engagement-nft-partnership-with-the-major-league-baseball-players-alumni-association.md",
-      "title": "ARIA Exchange Announces Exclusive Fan Engagement NFT Partnership with the Major League Baseball Players Alumni Association",
-      "excerpt": "The ARIA Exchange, part of The ARIA Network, which is an integrated media group bringing physical and digital assets to life through advanced recognition, augmented reality and 360° immersive experiences,",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/aria-exchange-announces-exclusive-fan-engagement-nft-partnership-with-the-major-league-baseball-players-alumni/article_a7d2b518-9c6a-555e-8e76-fb9a1be0f1da.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/aria-exchange-announces-exclusive-fan-engagement-nft-partnership-with-the-major-league-baseball-players-alumni/article_a7d2b518-9c6a-555e-8e76-fb9a1be0f1da.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg",
-          "width": 640,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-intellimize-raises-30m-to-optimize-websites-with-ai.md",
-      "title": "Intellimize raises $30M to optimize websites with AI",
-      "excerpt": "Intellimize, a startup leveraging AI to personalize websites for unique visitors, has raised $30 million in a venture capital round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimize-websites-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimize-websites-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimize-websites-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/intellimize-raises-30m-to-optimize-websites-with-ai/amp/",
-      "publishedDateTime": "2021-07-08T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-three-reasons-to-leverage-ai-and-ml-to-improve-the-employee-experience.md",
-      "title": "Three Reasons To Leverage AI And ML To Improve The Employee Experience",
-      "excerpt": "Here’s why I think the time is now to start leveraging AI to drive an employee experience that connects, empowers and unleashes the potential of your team: When you apply AI and ML exclusively to productivity, you miss an important piece of the puzzle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/08/three-reasons-to-leverage-ai-and-ml-to-improve-the-employee-experience/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/08/three-reasons-to-leverage-ai-and-ml-to-improve-the-employee-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e5a6d22ffabd8616629559%2F0x0.jpg",
-          "width": 1156,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-anything-and-everything.md",
-      "title": "Google’s Supermodel: DeepMind Perceiver is a step on the road to an AI machine that could process anything and everything",
-      "excerpt": "The Perceiver is kind-of a way-station on the way to what Google AI lead Jeff Dean has described as one model that could handle any task, and “learn” faster, with less data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
-      "originalUrl": "https://www.zdnet.com/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/07/08/48cd537f-701b-4c47-9c24-1e554472c85c/deepmind-2021-perceiver-on-imagenet.jpg",
-          "width": 743,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
-      "publishedDateTime": "2021-07-08T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

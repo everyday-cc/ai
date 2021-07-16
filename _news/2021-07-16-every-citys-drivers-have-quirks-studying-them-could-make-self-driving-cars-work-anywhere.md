@@ -89,19 +89,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Self-driving specialist Pony.ai sets course for mass production"
-    excerpt: "Pony.ai plans to mass-produce its Level 4 self-driving system by 2023 as the industry works toward commercializing the technology. That was the message Pony.ai gave during the World Artificial Intelligence Conference held from Wednesday to Saturday in Shanghai,"
-    publishedDateTime: 2021-07-12T03:04:00Z
-    webUrl: "https://asia.nikkei.com/Spotlight/Caixin/Self-driving-specialist-Pony.ai-sets-course-for-mass-production"
+  - title: "Every city’s drivers have quirks. Studying them could make self-driving cars work anywhere"
+    excerpt: "Yet the driverless technology company Argo AI ... and make sure its artificial intelligence systems deeply understand them — not just where the street signs, traffic lights and road markings ..."
+    publishedDateTime: 2021-07-15T12:03:00Z
+    webUrl: "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi"
+    ampWebUrl: "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_amp=true"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 34
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F5%252F2%252F4%252F9%252F35249425-3-eng-GB%252FCropped-16260542492021-05-13T124732Z_427248270_RC2WEN9E9CYF_RTRMADP_3_PONY-AI-AUTONOMOUS.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d529abf/2147483647/strip/true/crop/3675x2400+99+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fad%2F63%2Fd92aa29e48eabebaa8aaf2e1e399%2Fimage-16.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Self-driving specialist Pony.ai sets course for mass production"
     excerpt: "Pony.ai plans to mass-produce its Level 4 self-driving system by 2023 as the industry works toward commercialising the technology. That was the message Pony.ai gave during the World Artificial Intelligence Conference held from Wednesday to Saturday in Shanghai,"
@@ -122,6 +124,6 @@ related:
       domain: detroitnews.com
     quality: 4
 
-secured: "zA9LKQNAQj9eDBq/o2YSm3IhDdizBI0/y9tplcmI2pOV+h5rRkrzKvz4epVGITS8uqZREN4wuSM4Wd9FSx5Jc/kGC/oJ/KJNP7tb/OCdHON8kfUY53QIQ6S2lhxXv4G+4hrdG5SbrPwGUIuccMHH/guB0Mw8vKr7x2OFfIUH67xroJWnlTT47h7NraIM3qz/u8ZUmaS6n93E6Cc604i1Mt6hNcxKn8NZNJawc5sbuXWUedLdHENLide3PIEjurg3uDq1+doAldZS3qXB/0Lcoz88DV4BdQKcjAk96Ncu/1TEMlLVbsV/9wlDEspR9oSXHSluUfM+rwS5Bs6V2uYQ2MtNZwrdRl4tGjEZNt9egjI=;Sfv5sLObcqui77MwMTApSg=="
+secured: "8N3vpvct2zZJXfNykvJyfW9PakmlJQV5VstviWIP2hOwd9keyPUgNrvfC6eSCCmtZWmPWk0qYC3hAoM/uqMOfH5YUGEFND66yASy7uLkAuGH595t5FOv6l21X20tfGt9v8Wojq0WK2s3yTpAtogl++HLFr6BbpaSeoo4fGGZEl3Xum25vXnvEzuy9iLuWciyJBCJiQRkAkCkPW97GFj+4NK1UpdTSOocE2tdRMi3X5s12efTW93Ig6I86WATIJkSzcYMYJD0v4LgnR4svP8SNDVK5xQGemWtPNXWW/jAjAXQpRPJFIwvt1u7Kg7IAvnWl8tqrk19zNscjXl5ms3BGtn2btJoqBSuJGpJ9EvAAVuxrPjvw4jPPKLSC5D0XFjDpR+5IB/TF+MLKpk03gVniWJwcyh/UuhcfBZMNMa3haS3qBbsPMi2d25KfHpFHtBIY+z2ZxW4aXAq0uvk50okCWqg0EGpYTUOgm6Fy500iOtw+BXApAAhryz03ObPh1V3PJOQBbxGWxXGGUZgpuFkIQ==;dfg0nhij1Gc6ZhgTZFONbg=="
 ---
 

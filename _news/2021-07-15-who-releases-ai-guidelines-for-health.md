@@ -95,6 +95,34 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Highlighting the real successes of AI"
+    excerpt: "Despite the hype, especially around self-driving cars, AI is writing code, designing Google chip floor plans, and telling us how much to trust it."
+    publishedDateTime: 2021-07-16T20:16:00Z
+    webUrl: "https://www.reseller.co.nz/article/689725/highlighting-real-successes-ai/?fpid=1"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/ai_dreamstime_1.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "Importance of AI in Remote Learning"
+    excerpt: "Educators are using AI-enabled Learning Management System to track their student's progress (LMS). The primary purpose for creating LMS was to improve the learning experience with Artificial Intelligence (AI) support."
+    publishedDateTime: 2021-07-16T21:09:00Z
+    webUrl: "https://www.cioapplications.com/news/importance-of-ai-in-remote-learning-nid-8110.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/l2wfimg---6.gif"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "OtiwUezRWERAUHPaeRdRIl6qMYY696uhmw/KKST8LXpDS+X2r8SMsLeHUeWp1RGnP+/7HvlzKR4Z3hnbmzTbHHGyrnKO0o0fQY3JTff0g4LSSNGShTq8hTbOYwyxpjfrqrnVPBiqLKj4hoYIaMitAW0UZllQOgFxF+jOJPZgaxQ3NbimCRkm/V9vTbtZx3OUPM4eNYvoi/SvkvihILNbOgmyswqN7MQo7FGYiEjKjgilP7t1UAszEKVnAQ+xQRxW7JHJ+e4b3x8jpXS5f3HenX7NTLFafEyZE2SDeumdyUHemeXNYhLAZ9ffd01b8ssc7LY50JDSqRAJpXtwko/SCLO1p9JHLWWTSwyGQUxva1Hx5vAgXoFyLB4g4IJZt8zVDjFmPo0IWaK6BII6Y9nswCmZddW83M0KK/1DOlNHZfVFBJlR7lGpR7Ge6swJmPAGtHx0d/8L781DrsDmTvOe3EC+3ayQtaTiS/vAvnoPeUOJmznjkWYdqHNLzhO17z9ohjIDuGSaDfO/tS2FIgHrBQ==;pC83h8Q0kruaVwV7JSn3og=="
 ---

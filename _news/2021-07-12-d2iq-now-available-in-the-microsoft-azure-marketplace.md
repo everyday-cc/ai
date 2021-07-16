@@ -1,27 +1,27 @@
 ---
 category: news
 title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
-publishedDateTime: 2021-07-12T13:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
+excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
+publishedDateTime: 2021-07-12T13:03:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
+    width: 2161
+    height: 1130
     isCached: true
 
 related:
@@ -205,6 +205,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 49
+  - title: "Microsoft Partners With U.S. Army Engineers To Use Azure Cloud For Extreme Weather Modeling"
+    excerpt: "Microsoft announced on Wednesday that the company has signed a cooperative research and development agreement (CRADA) with U.S. Army engineers use the company’s Azure Government cloud for a system that models extreme weather around coasts."
+    publishedDateTime: 2021-07-16T19:30:00Z
+    webUrl: "https://www.executivegov.com/2021/07/microsoft-partners-with-u-s-army-engineers-to-use-azure-cloud/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 44
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2021/07/16/4c/da/ed/bd/2f/15/c5/04/microsoft_20210625.png"
+        width: 272
+        height: 270
+        isCached: true
   - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
     excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customersVANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX: SW),"
     publishedDateTime: 2021-07-13T13:00:00Z
@@ -289,6 +303,6 @@ related:
       domain: thepacker.com
     quality: 19
 
-secured: "FPyFInSf5zO/LlYdlnRiDMVoWERCCa6CKOXazmw80EIaiYvLg9rhhYZrwliGWj4FzdvtereBFX0GKvZkHAcYqG8/4ZTwMvTYM4ipJlCPI+LQGRfSsnYuYf8qXXuRncFsCzSudeVjjK8no+J7k2dpJuOkAlXGOyohEp3CYuKPUAXHrhKI1h7DEZ3HSckOwRcAbIuJG41R5fDG4IYi7REGJjTuQ/x/1lOuzhU7Co1b7jm/6hFABuThgN8WCFWCU0vB7oc3lsZjM65VKqudRJ9aq8JZTsGNL9QvX/9ZYb2H3J3Vmfrnp/VpG8e8RIZngtgQlaMXk8btW6p5kmth+k3xxjQyGM25j8Sh691Qot8TOKLR432B06BIBQ/pR7vnronHxtVtWJqiI/Z3GG2ipRTzbcIACjG2w0NE3TT/vc13PuesdK2EKXwDUCKpMfywP6TJMqTA5tkYeGizebA8DMKS/XzK0t3k+tzZTdQIlxxcHzLZlBhfGu/67sn67v1UUF54LQqg0+A6EN4MnleAjYLovA==;mphcRd1xX1Z6ZcHU1TBGkQ=="
+secured: "RRXTu5ietXmgpA3FIg7juWYA/vLvo3MCxvAR2reCHxKBeEd76fcV1zsm/1AzoamDMOI4kEh2mU8TAHODpnspP8hruS6SeTGLI8Qr8Rxr1vUxnMy1THD4CIva1scnMmNI/oWtaKN652e/A8lFFo5A64j4uOLj1dAWzKi6Oe++0nDcJ5lCJFIZrqn79b4RtLrWQppOfjaUX8+sNZibSZv7FB2bucbL25T1rEYd+7jNe0Frv7/Y424TodyNMHeLo2ZTDOaFqG1gGFVplKQYzkpfUvGtZ+cv0J3z1Ab2zosoNM9ZLQEao4jxnq4s870+baO39lacuT5fBuW6oAJNy2K/7IUd/+yOinO7/zSQ8kB8ESs=;sIV5uf2vFHr6Em3YO4dwcA=="
 ---
 

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Elastic Named a Leader in Cognitive Search by Independent Research Firm"
-    excerpt: "Company Achieves the Highest Score in the Strategy Category Among All Vendors MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Elastic (NYSE: ESTC) (“Elastic”),"
-    publishedDateTime: 2021-07-12T23:28:00Z
-    webUrl: "https://www.01net.it/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/"
-    ampWebUrl: "https://www.01net.it/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/amp/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 44
-    images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Sinequa Named a Leader in 2021 Analyst Report for Cognitive Search"
     excerpt: "According to report, “Sinequa makes search strategic” NEW YORK & PARIS--(BUSINESS WIRE)--#analyst--Intelligent search provider Sinequa announced today"
     publishedDateTime: 2021-07-13T02:38:00Z
@@ -51,6 +35,17 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Elastic Named a Leader in Cognitive Search by Independent Research Firm"
+    excerpt: "Its sweet spot is for enterprises that want fast, friendly, and affordable cognitive search based on ... Goldman Sachs, Microsoft, The Mayo Clinic, NASA, The New York Times, Wikipedia, and Verizon ..."
+    publishedDateTime: 2021-07-12T18:26:00Z
+    webUrl: "https://www.wallstreet-online.de/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm"
+    ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm"
+    cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm"
+    type: article
+    provider:
+      name: wallstreet online
+      domain: wallstreet-online.de
+    quality: 24
   - title: "Sinequa Named a Leader in 2021 Analyst Report for Cognitive Search"
     excerpt: "Intelligent search provider Sinequa announced today that it has been named a Leader in The Forrester Wave™: Cognitive Search, Q3 2021. Cognitive search employs AI technologies, such as natural language processing and machine learning to ingest,"
     publishedDateTime: 2021-07-12T16:03:00Z
@@ -60,20 +55,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 6
-  - title: "Grazitti Interactive's SearchUnify Cited as a Strong Performer Among Cognitive Search Platforms in Latest Evaluations by Independent Research Firm"
-    excerpt: "July 12, 2021 /PRNewswire/ -- SearchUnify, a recognized unified cognitive platform by Grazitti ... data from commonly used SaaS apps, including Microsoft Dynamics 365, Salesforce, Jira, WordPress ..."
-    publishedDateTime: 2021-07-12T18:37:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/grazitti-interactive-s-searchunify-cited-as-a-strong-performer-among-cognitive-search-platforms-in-latest-evaluations-by-independent-research-firm-827882187.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1535704/SearchUnify_Logo.jpg?p=facebook"
-        width: 852
-        height: 446
-        isCached: true
 
 secured: "GYTfJk5f0UfMMNbkY4iaguE/RwZ1DdlZNE7573zadRgbjBmmQYpK1A3dmEOzXSvvJmCrBC/u/9rKcEgdQBhILSfK5ae2t+v3h4q1XHQ+9PJ3nKKsy7AQnsJhyHACm62EKHZkK53ApHfiWbSrAYxmS4LEnkURHaqBAM0qlZTXYih3aKfr3vfb1PoFaHxDgU6W7B7sAG0ZNqtahmwaHhqPva4myq52h3MIXFY3ZpIg5Pxl2YD/f++eObyghcZCIjOrgJk9418Rkq7ISlAC9GO6f4dTJghEiHZeQcKT6fGUkmwYw2apb48N+ZXJ7APE8OZ81mrw4tuZ6gXoK3sSSJInEazCm0/m9iIQzDXmA3S7C/8=;y75WrzvrgwLhTKqLCySMPQ=="
 ---

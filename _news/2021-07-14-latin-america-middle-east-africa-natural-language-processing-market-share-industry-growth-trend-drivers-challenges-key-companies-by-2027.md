@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Women in Localization President Cecilia Maldonado on Translation in Latin America"
-    excerpt: "Latamways Director of Strategic Accounts, Cecilia Maldonado, joins SlatorPod to discuss the Latin American LSP landscape and Women in Localization."
-    publishedDateTime: 2021-07-12T17:05:00Z
-    webUrl: "https://slator.com/podcasts-videos/women-in-localization-president-cecilia-maldonado-on-translation-in-latin-america/"
+  - title: "Americas Computer Vision Market Share, Industry Growth, Trend, Drivers, Challenges, Key Companies by 2027"
+    excerpt: "Market Expertz latest study, titled ‘Global Americas Computer Vision Market,’ sheds light on the crucial aspects of the global Americas Computer Vision market. The Americas Computer Vision report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027)."
+    publishedDateTime: 2021-07-16T21:09:00Z
+    webUrl: "https://manometcurrent.com/americas-computer-vision-market-share-industry-growth-trend-drivers-challenges-key-companies-by-2027/"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 22
     images:
-      - url: "https://slator.com/assets/2021/07/SlatorPod-600x400-Newsletter-Guest-79.png"
-        width: 600
-        height: 400
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Americas-Computer-Vision-Market.jpg"
+        width: 750
+        height: 350
         isCached: true
 
 secured: "6MOtWGLsSgCL6wf+CEywiM/90fSC7/A8n68RXYDznV89OVaVG8Cul9kPiZ4EG4aH8FTc/oKvIe3kvgNO5lsTY7yYBsKwGDxFYOrfjAAy0yqghYJD7kjnZMUhTr77y7trTyBuGLCoP/hKGpwweoSN6EPewDx6HHUVFz+sQunyhw7u8VKU+t0rjuVVbQrfzbHC7TDYvYvIaqkq6huhY8Pm5N1IFixIhlByZhS8WbvDyLIrGaVZH6ueLA4SUmvR8qHs85S6uHlo6OgRjXI7y5JQzZtircmGYF6Op0+lNdVSfjsOKhqF2rxo6g/6sJq63X4TZMv31/JT/0/Lyx72QMurIYX8e/H/9jgl4jBxiWR2Ask=;CFqsRyz7eGdorDVz35AgoQ=="

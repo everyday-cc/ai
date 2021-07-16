@@ -3,23 +3,23 @@ category: news
 title: "In Major Step Toward Commercializing Self-Driving Technology, Aurora to Become a Public Company by Merging with Reinvent Technology Partners Y"
 excerpt: "Aurora, the self-driving technology company, has entered into a definitive business combination agreement with Reinvent Technology Partners Y (“Reinvent”) (NASDAQ: RTPY), a special purpose acquisition company with the sponsor team that takes a “venture capital at scale” approach to investing."
 publishedDateTime: 2021-07-15T13:36:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/in-major-step-toward-commercializing-self-driving-technology-aurora-to-become-a-public-company-by/article_f05b257c-9ec8-5b70-96a7-e66c04ecbb63.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/in-major-step-toward-commercializing-self-driving-technology-aurora-to-become-a-public-company-by/article_f05b257c-9ec8-5b70-96a7-e66c04ecbb63.html"
+originalUrl: "https://www.wfmz.com/news/ap/ap-business/in-major-step-toward-commercializing-self-driving-technology-aurora-to-become-a-public-company-by/article_16f67af5-8c6c-5a0b-b275-4a8bd02c356f.html"
+webUrl: "https://www.wfmz.com/news/ap/ap-business/in-major-step-toward-commercializing-self-driving-technology-aurora-to-become-a-public-company-by/article_16f67af5-8c6c-5a0b-b275-4a8bd02c356f.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/21/821a284b-ba23-5cb0-ac73-f905ce44b439/60f03c81db3a3.image.jpg?resize=1120%2C630"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/a1/1a1294d7-e6c3-5ad0-a0ac-564affde415b/60f03c7e3e51b.image.jpg?resize=1120%2C630"
     width: 1120
     height: 630
     isCached: true
@@ -252,6 +252,6 @@ related:
       domain: detroitnews.com
     quality: 4
 
-secured: "sU/LMboG2M2ikQ+fEIhtX307U8OCSfGwPk1zqLSPngcsnmY7pyMvs2wec8rz+n/Dd5u1dwxcui7cMYX1n8rfLm2V+TZiQQLhalPPq/BnvBLKPhwrjn17EkOHkzm5+FuJHE6y9xbQddQSrqlKXrMI2QcJ3WDfO7i2WrlEdtthwmUKju8gmwjxrhV5m5K3gpB0q89JiwIeiN1lkG9tuPoCfE7nsyCJI4fXW70fO18RBFMIvBiDjEwXBEmyZ1seQMth4YRFNumkvgjLstbMhmIQdYIHS2pmBEYzWMHhulSd4BD7FgcViKBgQdWBTYOykKZpCXWAY7I0OxKqaH9tEgqNjW1MbUSfQ6SI6UdpeoJXLOO/2xtMypiQTJNKKPO1STO6NVW4jTfWy427Z/xwnm+zVsxaGEPOL9GB063FpuVPI2wW6y3SANn4xCRoBHYkxr/ZT1KLhoBg6c3btyB20rWgxxkjUQ6yVKvtT7bSrNWrGetXPnvuJgTK92v0kikv5u3ROYT7s5MefM/YmZT5S770aQ==;otnXE3Dytsfmd/l2/NGQNA=="
+secured: "IwNt1JxHaE+MIWt1SPrL8V4hX4rDCYFqQP/pI8FBKVHU9Ey83anAHh/mOpTuuBRNaCTdK5WRC0CKy2UU7aDqK1J11K0N11wvouiAGixNZnObAhcUKGS+Byd5aDjcHNQEL2T8+awcleOcFVW2v3qG2qw+EtM72Z4mTIHdGolsbD9FyXbItub3sg8sJJhR1pxHN0z2Oz5dCCbqL3AU8D1YJF9KdFfSuvGDRWtxBaKPww53jqFlS0KVqDUcKqNpm2UZh44BqmBVkeYveUEJDn3PPy0/Cy5FtzquEuDf2i4mxvUmCmb8trlGUP3sxZmAGfXeaOOfS6nWSaKue7VHCksMKjUxo6l2NwaPIj9VqKg/G3M=;MHe6Fn95dQudwJHygnv/gg=="
 ---
 

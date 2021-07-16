@@ -76,14 +76,19 @@ related:
         height: 337
         isCached: true
   - title: "Toyota buys U.S. mapping, road data firm to bulk up driverless tech"
-    excerpt: "Toyota Motor Corp's research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker's latest investment in autonomous technology."
-    publishedDateTime: 2021-07-14T23:38:00Z
-    webUrl: "https://www.nasdaq.com/articles/toyota-buys-u.s.-mapping-road-data-firm-to-bulk-up-driverless-tech-2021-07-14"
+    excerpt: "Woven Planet was established in January to invest in and develop mobility with artificial intelligence ... and non-traditional car making such as driverless and electric technology, Toyota ..."
+    publishedDateTime: 2021-07-14T22:32:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/toyota-buys-us-mapping-road-data-firm-bulk-up-driverless-tech-2021-07-14/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/xPGUCumVUqQYv5QVMbKEmMU-4Ss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HPQGDJ4HBZOIBIW32UPIKHAYZI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Toyota's Self-Driving Unit Acquires US Mapping Firm Carmera"
     excerpt: "Toyota’s self-driving unit, Woven Planet, will now have the benefit of more software mapping through its acquisition of U.S. mapping startup Carmera."
     publishedDateTime: 2021-07-15T02:42:00Z

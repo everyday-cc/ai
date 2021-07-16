@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-h
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp"
 type: article
 quality: 86
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/14/3-4144-Sources.jpg"
         width: 800
         height: 437
+        isCached: true
+  - title: "Today In Healthcare: VC Sinks Big Bucks Into Startups; Telehealth Providers Turn To AI"
+    excerpt: "Today in healthcare, HC startups have raised almost $15 billion in VC, and telemedicine is turning to AI to solve its privacy problems."
+    publishedDateTime: 2021-07-16T20:19:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 66
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/telemedicine-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Announcing the InterSystems HealthShare Message Transformation Service for Amazon HealthLake"
     excerpt: "Amazon HealthLake is a new HIPAA-eligible service designed to store, transform, query, and analyze health data at scale. Amazon HealthLake removes the heavy lifting of organizing, indexing, and structuring patient information to provide a complete view of the health of individual patients and entire"
@@ -181,6 +197,6 @@ related:
         height: 600
         isCached: true
 
-secured: "83OJNmykw7D+UT5rfEoxkLJws0u7Nhv1Iv1L0PhWDRHSVfPuNV+RnJC2d2xsHKL28QM3dCElru9n3WSd2WnxZgzmEO5FFS3vAlxmYWvvKcbdywg+2hUZondpYmUtnqVMIgADJfszQV6GcKEBqg653L+phWHOzTcKx57d1QNY+xqSw3gz53/lie+RK+4w/3KdCl6iRyie5dKz9DpGjPETQsftMXP/7CylGPLB9wRCNVvybVsj1sPzfrSUJzWIMXhFw0dB1KL2Wh8C9pyGREvfTk9oJX5rlqMbii11fb4+vpwBoRgFVplp48LTXuRg5hqjMtu4c7ne+wAMSGMKc3VX4e2WPFIaSOtp6dqUGTpCZSQ=;fgY/JDShByevRXGBc73hcg=="
+secured: "Fe+sWbiBHrdxnjNqWn8b6TgmnrtoI5ai33tBQTVi1lSas+fz/9V5DH+aRDhQgp5KP1a8BXQlJ9tRErzQBXKG1f2Y6r+6lCMW+uLsfFYDe1hRxo1286kUf2UJjw51H0S3FVQO5uadiGRPU+oEus3/SlXUKg8DkQUyRgI2fH0pbdXh6zSN3f9VGbP0Wx8M1aoLuvkUGgd5roSxGmAUS8RuoJO4kOS9ShtKySqN2my12KGiS6brrjtN9sFBka+KFoLQ1TJ4yksDh7C5qYd0wWPnmCZWnjLd1JFPCL2gR9hUkeJZSrKOrOY8L/dvFRVHaU580L8Rwc7++dfhcNzetUdwhjawnxAaRZoVT2CS+4YXzz/nkVFJgUvAFDwl8KUu2mDQdAyHmeXeQtZ0iDwnRNztEkUiKyfSTdPCopnRRIQcrYh+MctvRunfrpLdy4sAs46COUU7AmG4A/bMztrgu3k23eqLk7uCzQNNVRvB/dn7p5fr8j74EJkXlEPLNYtZuIbm8yIhnJSh+HWnycKvYInrkg==;oojzNsoNmk7wzE+QoiXkgg=="
 ---
 

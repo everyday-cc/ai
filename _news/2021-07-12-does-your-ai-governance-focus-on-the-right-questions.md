@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/arunshastri/2021/07/12/does-your-ai-gov
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/07/12/does-your-ai-governance-focus-on-the-right-questions/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "What to do when AI brings more questions than answers"
+    excerpt: "Uncertainty is a tricky concept in the context of AI. But it's critical to understand it, particularly in enterprise applications."
+    publishedDateTime: 2021-07-16T21:20:00Z
+    webUrl: "https://venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/"
+    ampWebUrl: "https://venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=800%2C450&strip=all"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "EUHOTuGay9/xr7uuTEjDl10BFTKfp2YtATjXDNUHrCFb+n3EH1+SymBAu8PBy/pwMxvcG1XxhFkKzmhhayCeI/ppjte31GkLaI5yQBHXIAQHomEBkl7bGjDPnOblGYj/m/kaS1SyolQ+N3fI8oqQj0D0pECIwJNlGwVvCnkFaJ5Mi8TY2wcTMQQXSoGrviaRAK1OAGu53bdUavwJdtTevCZ+dZW+YqbHw7aRa/OeTvoIfbU9bNqzybTAsbWr22F6MUIVXG5swxrs8T1CJpbif+8WvuMMiTp5/rV1ByxJvag40tC6fmb4+6Ge7Jk+0aAeLNTLk3/bCFr2BlL84SLjyPir2Z3xux0tHfHVKQ/kYCMuCVmZH5qCN4yowrPD0WW55LnKOvUn04i+SOUBObbG+FNfMdRnX5Pr0aWPkhsF0GzIldn45d0TWoi9iTNsd49Yhy4xWQ/80Q9mj0OnG6qpkPqfK4FwUToSkzoxOVY3OhpJlyZQDgCFylpz3A58AykqxiYhnlQhBakLv09hmE/GFg==;wG8hIMpaba8HCQyhpNiSQg=="
 ---

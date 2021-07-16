@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Enabling the 'imagination' of artificial intelligence"
-excerpt: "Despite advances in deep neural networks, computers still struggle with the very human skill of ''imagination.'' Now, a USC research team has developed an AI that uses human-like capabilities to imagine a never-before-seen object with different attributes."
-publishedDateTime: 2021-07-16T17:42:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-07/uosc-et071621.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uosc-et071621.php"
+excerpt: "Despite advances in deep neural networks, computers still struggle with the very human skill of 'imagination.' Now, a research team has developed an AI that uses human-like capabilities to imagine a never-before-seen object with different attributes."
+publishedDateTime: 2021-07-16T20:09:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/07/210716150758.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/07/210716150758.htm"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - Machine Learning
-
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/270853_web.jpg"
-    width: 720
-    height: 360
-    isCached: true
+  - AI
 
 related:
   - title: "Enabling the 'imagination' of artificial intelligence"
@@ -41,7 +39,37 @@ related:
         width: 1920
         height: 1343
         isCached: true
+  - title: "Researchers create artificial intelligence to 'imagine' unseen objects"
+    excerpt: "A research team at the University of Southern California has developed a new artificial intelligence system that uses human-like abilities to imagine never-before-seen objects that can change characteristics."
+    publishedDateTime: 2021-07-16T21:49:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/researchers-create-artificial-intelligence-to-imagine-unseen-objects-1.5512454"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2021/7/16/1_5512454.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2021/7/16/1_5512454.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 59
+    images:
+      - url: "https://beta.ctvnews.ca/national/sci-tech/2021/7/16/1_5512454/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+        isCached: true
+  - title: "Enabling ‘imagination’ of artificial intelligence"
+    excerpt: "Imagine an orange cat. Now, imagine the same cat, but with coal-black fur. Now, imagine the cat strutting along the Great Wall of China. Doing this,"
+    publishedDateTime: 2021-07-16T16:46:00Z
+    webUrl: "https://www.miragenews.com/enabling-imagination-of-artificial-intelligence-597487/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2021/07/IMG_0381-Operation-Own-It-Waterford-768x576.jpg"
+        width: 768
+        height: 576
+        isCached: true
 
-secured: "1XAVdDoM570WYMg6FusExBqWYehQLgm0k2uFpPVQdgeYhsB6T29BO+sXF/ixqa/Gz1F/EdSE4KN2cOY9py7/VA+BZVIOTdPlKnYG0okYt28eE+Pxi2p9dWSlkWbDF9+nYTUGEIPiKCKx28tCY3OgOsE6zQyJ7YCKZUgwLw4M7/CU4mBh1FMrFx2wnV0vF9FlZTRh2zB5E465Ub1vUCxyqo7WVYllGnybh7PKO0VLHDVDjdqoBFA24vTbh1q/iL+WjIOLSmby8cE1X2U+nZ2CHTwrfl9vGUOgeClrDMOkeIwfN7dznQay7jwy8yaQJisZO6r7j7JvChGv12E/sZ8BJG2BeTXfiSMzcel9u3edwVNyIO3/Xn6Iqb98BdUlThO+Vnuu6CNAYnlz8o8etxigDHLpiDSIPGogdfmzQi6YV5JHVbLCHHP+ulCi9OAZlDfQlNWKAIjsz5FkOXzOQVJBxvYOROls/XVoXH3ssX1yOfYzCK7zkbo4rbgBeA10GFns82u5yfMw+dL5Ylck1JrrxQ==;zI03FOqsBaXI2RU6azgRFw=="
+secured: "8M2VvfLGDnqx//1X6iBp9ZKHKM8T0LKAga7BDkM7AzR2gYm+qzkEK/EEhlU0oqDHR9zKbpKH1mY7gnRbuVKoQNNaHVe67XthBX1SUmfDXK7Ss78wuBGL9tuEb3aGZJBPqnJMVMFQ36TPvtxpUow+PqdNkeEGGFL13ONnBP4xep0RuZ+UMG00L4C8LJ/V3ES1Gl0tz0cSttcyfLHg+aR6srdPSAi4zs0z81SaBTZXp4ocSF1W7vMyf+ZEMTHAw4lgjwBkbqFyDYMZg6DLDdthFuzAJudFXfITvulxjJocymn8r4TowgOmfeHICuZFiYPiIZprhefEpmnPJQA3XPGe1ZBo+Al5HR8ax4n2exuizdI=;r3XS2M+SSjqSKb1Z4PZzYw=="
 ---
 

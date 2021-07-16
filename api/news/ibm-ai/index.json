@@ -253,6 +253,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-12-wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player.md",
+      "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
+      "excerpt": "Whilst we patiently wait for the day that Womble-shaped robots replace human tennis players at Wimbledon, we can admire the IBM powered AI technology ... them into the huge Watson driven analytics ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
+      "originalUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/07/Wimbledon.jpg",
+          "width": 862,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-heifer-international-and-ibm-work-with-coffee-and-cocoa-farmers-in-honduras-to-increase-access-to-data-and-global-markets.md",
       "title": "Heifer International and IBM Work with Coffee and Cocoa Farmers in Honduras to Increase Access to Data and Global Markets",
       "excerpt": "Heifer International and IBM, together with CATIE ... The experts aim to use Watson's artificial intelligence and machine learning capabilities to provide smallholder cocoa farmers with access ...",
@@ -1295,49 +1338,6 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-ibm-completes-turbonomic-acquisition.md",
-      "title": "IBM Completes Turbonomic Acquisition",
-      "excerpt": "IBM (IBM) has completed the acquisition of Turbonomic, affirming its focus on building an ecosystem of business partners. The acquisition is expected to",
-      "sourceUrl": null,
-      "webUrl": "https://www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/",
-      "originalUrl": "https://www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smarteranalyst.com/wp-content/uploads/2021/02/shutterstock_779236312.jpg",
-          "width": 1000,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/amp/",
-      "cdnAmpWebUrl": "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/amp/",
-      "publishedDateTime": "2021-06-18T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smarter Analyst",
-        "domain": "smarteranalyst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

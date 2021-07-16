@@ -91,6 +91,34 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Highlighting the real successes of AI"
+    excerpt: "Despite the hype, especially around self-driving cars, AI is writing code, designing Google chip floor plans, and telling us how much to trust it."
+    publishedDateTime: 2021-07-16T20:16:00Z
+    webUrl: "https://www.reseller.co.nz/article/689725/highlighting-real-successes-ai/?fpid=1"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/ai_dreamstime_1.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "Importance of AI in Remote Learning"
+    excerpt: "Educators are using AI-enabled Learning Management System to track their student's progress (LMS). The primary purpose for creating LMS was to improve the learning experience with Artificial Intelligence (AI) support."
+    publishedDateTime: 2021-07-16T21:09:00Z
+    webUrl: "https://www.cioapplications.com/news/importance-of-ai-in-remote-learning-nid-8110.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/l2wfimg---6.gif"
+        width: 450
+        height: 308
+        isCached: true
   - title: "WHO Releases AI Guidelines for Health"
     excerpt: "A new report from the World Health Organization offers guidance for the ethical use of artificial intelligence in the health sector."
     publishedDateTime: 2021-07-14T18:34:00Z

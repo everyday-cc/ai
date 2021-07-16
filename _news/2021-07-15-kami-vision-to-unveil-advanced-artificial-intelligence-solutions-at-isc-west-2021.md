@@ -2,20 +2,23 @@
 category: news
 title: "Kami Vision to Unveil Advanced Artificial Intelligence Solutions at ISC West 2021"
 excerpt: "Kami Vision, the provider of an edge-based vision Artificial Intelligence (AI) platform, announced today that it will unveil its advanced vision AI solutions at ISC West 2021 in Las Vegas, N.V., July 19-21,"
-publishedDateTime: 2021-07-15T12:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kami-vision-unveil-advanced-artificial-intelligence-solutions-isc-/2021/07/15/9409857.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kami-vision-unveil-advanced-artificial-intelligence-solutions-isc-/2021/07/15/9409857.htm"
+publishedDateTime: 2021-07-15T14:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/kami-vision-to-unveil-advanced-artificial-intelligence-solutions-at-isc-west-2021-1030610858"
+webUrl: "https://markets.businessinsider.com/news/stocks/kami-vision-to-unveil-advanced-artificial-intelligence-solutions-at-isc-west-2021-1030610858"
 type: article
-quality: 34
-heat: 34
+quality: 62
+heat: 62
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
   - AI
 
 images:
@@ -24,6 +27,6 @@ images:
     height: 400
     isCached: true
 
-secured: "xeMe0hRwRq0ZzTz3iLJAzGrLRcPSoLo9cKpTfIu3caWgK/H/E5T3ohLce/OFfXKw5Rsjf8S9SrI8hp7E2u5CC55gv1pNfXQW4hXeBiboq2pk8q1u7kzXwJ3M6F18hkwBCXYAvTwNX5lM9YxRsJf/TAiSVJbcCxI00brTaMWGD+ZjzkNIM/tb3WwmX7hUiv1CEKKz2YbEG744eRMwE7hsd91cZN8dnG/8fPxW7lbPNh1cYjqER3YGKL9B6NLhQWqQ4lUHYgNSlpUwIrMDGdD0peN9kjtxOUkHrTT6MkqgzovRxjgQG2P3vsWv2iPCC7SJgJyLhXchQZvVLSiyb3PMLVNlxw97VD6cXndfINz1GmY=;elcanTwhWuEuvwFutQH6jw=="
+secured: "XkEVSx2di2nV5RmKgdLTwQOwIlSGILHyuDfPfNvjOsajtgSC3EcXGfRLMiGlWP0C2bQ79e92hadpxZRUTCnVEWaO+tm+5mzpO6dg5i2dqvEhWYwtZG5jmdXHn3imX69OHFINX6o/88Jut0e9Ca5M3ZJLu2LBq6lnr6ilfFn4PAFnEkryigc3AqnmGBH63hsuxjEJfXBPgGDaRRAUZa2HWHn6UICzRr5gbXTN0qGYk+v92zAwMQSIZidbEeQkZA9t3WUHpG3vXpH5+RMvz0uYBz7WzphjiJTIM2l4fk50ds2DetKOFFKlwy974X5YF3ZF0xB5RM6S1a6jBTEeEIWaqSUFjmd3kQLug5+wXmFCaK8=;VM4raKOm/Y05fsabxIJFeg=="
 ---
 

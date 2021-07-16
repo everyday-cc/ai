@@ -41,22 +41,15 @@ related:
         width: 1024
         height: 553
         isCached: true
-  - title: "New artificial intelligence software can compute protein structures in 10 minutes"
-    excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction,"
-    publishedDateTime: 2021-07-15T18:00:00Z
-    webUrl: "https://phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.html"
-    ampWebUrl: "https://phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.amp"
+  - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
+    excerpt: "Netradyne, a leader in artificial intelligence (AI) and edge computing focusing on driver and fleet safety, today announced a $150 million, Series C funding led by SoftBank Vision Fund 2 *, with participation from existing investors Point72 Ventures and M12."
+    publishedDateTime: 2021-07-15T16:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/netradyne-raises-150-million-in-series-c-funding-led-by-softbank-vision-fund-2-1030612357"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/accurate-protein-struc.jpg"
-        width: 1000
-        height: 667
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "Computer vision startup Algolux secures $23 million CAD Series B round"
     excerpt: "Montréal-based computer vision startup Algolux has raised $23 million CAD ($18.4 million USD) in a Series B funding round co-led by Forte Ventures and Drive Capital. Algolux is using the all-equity capital in an aim to increase the market adoption of its ..."
     publishedDateTime: 2021-07-12T12:59:00Z
@@ -84,20 +77,6 @@ related:
       - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/07/09/PG15_TECH_RETINA_0712-staff_t670.jpeg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
         width: 670
         height: 446
-        isCached: true
-  - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
-    excerpt: "Netradyne, a leader in artificial intelligence (AI) and edge computing focusing on driver and fleet safety, today announced a $150 million, Series C funding led by SoftBank Vision Fund 2*, with participation from existing investors Point72 Ventures and M12."
-    publishedDateTime: 2021-07-15T16:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-ecb234a136fadbe5025439bf6ee2b61e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
     excerpt: "Powered by AI and edge computing, Netradyne's Driveri® is an advanced vision-based driver recognition and fleet safety solution ... solution to capture the complete driving day with accurate object detection, event causality, and full visibility to ..."

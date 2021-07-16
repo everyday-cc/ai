@@ -55,6 +55,22 @@ related:
         width: 800
         height: 437
         isCached: true
+  - title: "Today In Healthcare: VC Sinks Big Bucks Into Startups; Telehealth Providers Turn To AI"
+    excerpt: "Today in healthcare, HC startups have raised almost $15 billion in VC, and telemedicine is turning to AI to solve its privacy problems."
+    publishedDateTime: 2021-07-16T20:19:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 66
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/telemedicine-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Announcing the InterSystems HealthShare Message Transformation Service for Amazon HealthLake"
     excerpt: "Amazon HealthLake is a new HIPAA-eligible service designed to store, transform, query, and analyze health data at scale. Amazon HealthLake removes the heavy lifting of organizing, indexing, and structuring patient information to provide a complete view of the health of individual patients and entire"
     publishedDateTime: 2021-07-15T15:42:40Z
