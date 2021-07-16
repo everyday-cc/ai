@@ -91,6 +91,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving startup Aurora to go public in $13 bln SPAC deal"
+    excerpt: "Self-driving technology startup Aurora will go public through a deal with a blank-check firm backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus, giving the combined company a pro-forma market capitalization of $13 billion."
+    publishedDateTime: 2021-07-15T17:39:00Z
+    webUrl: "https://www.reuters.com/technology/aurora-go-public-via-11-bln-merger-with-mark-pincus-reid-hoffman-spac-2021-07-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/Xu95E0JZiob2nn0sNFNMHd3_SrU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MA62E5JBJRLM3C7MQOMHMSKXFE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Law firm trio fuels self-driving tech startup Aurora's $13 bln SPAC deal"
+    excerpt: "Wilson Sonsini Goodrich & Rosati; Skadden, Arps, Slate, Meagher & Flom; and Sullivan & Cromwell are steering self-driving technology startup Aurora’s $13 billion merger with a blank check company backed by LinkedIn co-founder Reid Hoffman and fellow Silicon Valley veteran Mark Pincus."
+    publishedDateTime: 2021-07-15T21:02:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/law-firm-trio-fuels-self-driving-tech-startup-auroras-13-bln-spac-deal-2021-07-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 53
+    images:
+      - url: "https://www.reuters.com/resizer/tGcK61roRLSIaZlr2zR7_dVwzVI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DGCEYJY2RBPH7C43FK3G7NWEMY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "'Self-driving Delivery Robot' Caught by Regulations... Concerns Falling Behind in Global Competition"
     excerpt: "Self-driving delivery robots are developing one after another, but there is still a long way to go before full-scale commercialization due to various outdated regulations. Technology development is sl"
     publishedDateTime: 2021-07-15T08:23:00Z
@@ -139,6 +167,15 @@ related:
         width: 2449
         height: 1632
         isCached: true
+  - title: "Self-Driving Startup Aurora to Go Public in $13 Billion SPAC Deal"
+    excerpt: "By Sohini Podder, Noor Zainab Hussain and Paul Lienert (Reuters) -Self-driving technology startup Aurora will go public through a deal with a blank-check firm backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus,"
+    publishedDateTime: 2021-07-15T13:55:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-07-15/aurora-to-go-public-via-11-billion-merger-with-mark-pincus-reid-hoffman-spac"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
   - title: "Self-driving startup Aurora plans to go public with valuation of $11 billion"
     excerpt: "The company anticipates a total valuation of $11 billion. In a statement, Aurora said it expects to have $2.5 billion in cash at closing, raising nearly $2 billion from the transaction. Aurora is led by CEO Chris Urmson,"
     publishedDateTime: 2021-07-15T14:34:00Z

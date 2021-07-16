@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-15T14:57:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-health-coronavirus-pandemic-a6577a90cb304bcf90fa8b9af7a85b90"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-health-coronavirus-pandemic-a6577a90cb304bcf90fa8b9af7a85b90"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: apnews.com
 
 topics:
-  - AWS AI
+  - Natural Language Processing
   - AI
+  - AWS AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -61,11 +62,39 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/AWS.png"
         width: 1024
         height: 598
+        isCached: true
+  - title: "Amazon HealthLake Is GA Under New ‘AWS for Health’ Banner"
+    excerpt: "Amazon Web Services continues cloud providers' industry-specific push with the release of Amazon HealthLake under its new 'AWS for Health' banner"
+    publishedDateTime: 2021-07-15T22:19:00Z
+    webUrl: "https://www.crn.com/news/cloud/amazon-healthlake-is-ga-under-new-aws-for-health-banner"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 41
+    images:
+      - url: "https://www.crn.com/resources/026b-12b57f76c066-3aed31206e03-1000/aws-sign-v2.jpg"
+        width: 1500
+        height: 1126
+        isCached: true
+  - title: "Amazon announces availability of HealthLake"
+    excerpt: "Internet services giant Amazon Web Services has announced that its HealthLake cloud-based data repository is now available for use by healthcare and life sciences organizations."
+    publishedDateTime: 2021-07-15T23:01:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132950"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 39
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_15_22_13_0934_computer_data_wave_social.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
     excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by"
@@ -96,6 +125,6 @@ related:
         height: 600
         isCached: true
 
-secured: "EL8XPPsBFwmxlzf9IWpGpI6MkM7I5YCQnDbMGd53HjGwctYQfBfv9i5nNZhcpVMLz0j/eDHjTWgP0cA0gwMvjuljGce4X5zL6xftbUACqXEaHjQWnG2kwpGBBnTY8E5oY8i1rgs+8oGfTERpLqCi2DP7FmkpWEt6biVL/vqYeX7lu0hTAi/93+ZyfMvsk+m66pdU+wcCsmWTe/z0JyMhdTuLvz2YXJcemOCKkzASsjEGV3uGO0WhH0eFzAN2MotK4mBX3GxB+y38s1VbN5NasTH/lLQlp1nKf3KuV8V+30hN5EO3O2+iBHJJL6EDc4jHTCyycs6yiCsJbKQ5lL/y/wt/yIqlgLrSaqIgnhFyJUU=;6L8qcCXWvWTlG3z+iP1L1g=="
+secured: "V+RWXOJ/Q+wCTZztcDGeT/n40IPEj4Hg/dWoCxByiYQpkixLxLvgy2EpgX+R6efrhhhGQmTC4dna/Wijk+9W6Hj6f2tOj7vB1D6JV2IxQdzqhA/7nHl3RtFvO3YkeKdS1UH6hhWW7EYtb55hNzkcYCZKsxm+5nGH+SMh8aI5g0wTADs8Ng+z9fLuirB6Q42RsIoHLdLG2kp9lUI3qvbfZHxyVJEspcwIxlwp6yeP00GHlqd82IQwBhdquB4Rv+scnAtIkzwneh6bI4Bnws0S8Zu9pm25430hfCy4L5N5joAvvYX+SoZq4g6Sr3eKMZgbu4/60Zs3l4uYRKRzkmI4L/y+jqpOwH2iNwzaSDDyS9U=;Qdl95h8ie3bpoYiwoecofw=="
 ---
 

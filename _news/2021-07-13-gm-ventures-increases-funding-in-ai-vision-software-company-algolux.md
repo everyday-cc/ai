@@ -9,7 +9,7 @@ ampWebUrl: "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-i
 cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/07/09/PG15_TECH_RETINA_0712-staff_t670.jpeg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
         width: 670
         height: 446
+        isCached: true
+  - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
+    excerpt: "Netradyne, a leader in artificial intelligence (AI) and edge computing focusing on driver and fleet safety, today announced a $150 million, Series C funding led by SoftBank Vision Fund 2*, with participation from existing investors Point72 Ventures and M12."
+    publishedDateTime: 2021-07-15T16:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-ecb234a136fadbe5025439bf6ee2b61e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
     excerpt: "Powered by AI and edge computing, Netradyne's Driveri® is an advanced vision-based driver recognition and fleet safety solution ... solution to capture the complete driving day with accurate object detection, event causality, and full visibility to ..."

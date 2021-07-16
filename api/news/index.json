@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-16-anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died.md",
+      "title": "Anthony Bourdain documentary used AI to re-create his voice after he died",
+      "excerpt": "you probably don't know what the other lines are that were spoken by the AI, and you're not going to know.\" He added, \"We can have a documentary-ethics panel about it later.\" Writer Isaac Butler tweeted, \"This feels unethical to me maybe?\" Documentary ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died/",
+      "originalUrl": "https://www.cnet.com/news/anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/ygG9OnwVAXclz9rN4SrLRmZZIR4=/2021/07/15/01a10222-21c1-4dc7-9e83-0e2f0947439a/anthony2.jpg",
+          "width": 1194,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died/",
+      "publishedDateTime": "2021-07-15T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-simplify-secure-search-solutions-with-amazon-kendras-principal-store.md",
       "title": "Simplify secure search solutions with Amazon Kendra’s Principal Store",
       "excerpt": "For many enterprises, critical business information is often stored as unstructured data scattered across multiple content repositories. It is challenging for organizations to make this information available to users when they need it. It is also difficult to do so securely so that relevant information",
@@ -198,49 +250,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-anthony-bourdain-doc-recreates-his-voice-using-artificial-intelligence-and-10-plus-hours-of-audio.md",
-      "title": "Anthony Bourdain Doc Recreates His Voice Using Artificial Intelligence and 10-Plus Hours of Audio",
-      "excerpt": "Roadrunner ,” the Anthony Bourdain documentary from “20 Feet from Stardom” Oscar winner Morgan Neville, takes a page from documentaries like Alex Gibney’s “Sinatra: All or Nothing at All” in allowing the late chef and television personality to narrate his own story through the use of archival audio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-intelligence-recreate-voice-1234651491/#!",
-      "originalUrl": "https://www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-intelligence-recreate-voice-1234651491/#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.indiewire.com/wp-content/uploads/2021/07/anthony-bourdain.png?w=780",
-          "width": 780,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-intelligence-recreate-voice-1234651491/amp/",
-      "cdnAmpWebUrl": "https://www-indiewire-com.cdn.ampproject.org/c/s/www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-intelligence-recreate-voice-1234651491/amp/",
-      "publishedDateTime": "2021-07-15T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IndieWire",
-        "domain": "indiewire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     },
     {
@@ -452,7 +461,7 @@
       "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -504,7 +513,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-redox-amazon-healthlake-connector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -650,58 +659,6 @@
         "Natural Language Processing",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-wearable-robotics-startup-verve-motion-snags-15m-series-a.md",
-      "title": "Wearable robotics startup Verve Motion snags $15M Series A",
-      "excerpt": "Wearable robotics startup Verve Motion today announced it has raised $15 million in Series A funding, led by Construct Capital as well as follow-on investments from existing investors, Founder Collective,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wearable-robotics-startup-verve-motion-snags-15m-series-a-1030611784",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/wearable-robotics-startup-verve-motion-snags-15m-series-a-1030611784",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1574447/Verve01.jpg",
-          "width": 291,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1056,7 +1013,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1159,7 +1116,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/07/15/tecno-camon-17-pro-india-launch-price-specs-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1251,6 +1208,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-toyota-buys-us-startup-for-next-gen-driverless-navigation-system.md",
+      "title": "Toyota buys US startup for next-gen driverless navigation system",
+      "excerpt": "Toyota Motor announced Thursday that it acquired America-based Carmera that provides the next-gen navigation system for driverless vehicles. The Japanese carmaker acquired the artificial intelligence and maps firm through the newly created subsidiary Woven Planet dedicated to automated mobility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.laprensalatina.com/toyota-buys-us-startup-for-next-gen-driverless-navigation-system/",
+      "originalUrl": "https://www.laprensalatina.com/toyota-buys-us-startup-for-next-gen-driverless-navigation-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0laprensalatice12d.kinstacdn.com/wp-content/uploads/2021/07/17726988w.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.laprensalatina.com/toyota-buys-us-startup-for-next-gen-driverless-navigation-system/amp/",
+      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/toyota-buys-us-startup-for-next-gen-driverless-navigation-system/amp/",
+      "publishedDateTime": "2021-07-15T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "La Prensa Latina",
+        "domain": "laprensalatina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

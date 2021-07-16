@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-in
 cdnAmpWebUrl: "https://www-indiewire-com.cdn.ampproject.org/c/s/www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-intelligence-recreate-voice-1234651491/amp/"
 type: article
 quality: 61
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: IndieWire
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Anthony Bourdain documentary used AI to re-create his voice after he died"
+    excerpt: "you probably don't know what the other lines are that were spoken by the AI, and you're not going to know.\" He added, \"We can have a documentary-ethics panel about it later.\" Writer Isaac Butler tweeted, \"This feels unethical to me maybe?\" Documentary ..."
+    publishedDateTime: 2021-07-15T22:24:00Z
+    webUrl: "https://www.cnet.com/news/anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 88
+    images:
+      - url: "https://www.cnet.com/a/img/ygG9OnwVAXclz9rN4SrLRmZZIR4=/2021/07/15/01a10222-21c1-4dc7-9e83-0e2f0947439a/anthony2.jpg"
+        width: 1194
+        height: 672
+        isCached: true
   - title: "Anthony Bourdain’s AI-Faked Voice in New Documentary Sparks Backlash"
     excerpt: "I feel like this tells you all you need to know about the ethics of the people behind this project.” Documentary filmmaker Lindsay Beyerstein questioned whether the use of AI was disclosed to ..."
     publishedDateTime: 2021-07-15T19:11:00Z
@@ -59,7 +75,21 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Anthony Bourdain's Voice Recreated Using Artificial Intelligence For New Documentary"
+    excerpt: "Anthony Bourdain's voice was recreated by artificial intelligence for use in a new documentary about his life."
+    publishedDateTime: 2021-07-15T21:56:00Z
+    webUrl: "https://www.ign.com/articles/anthony-bourdains-voice-recreated-using-artificial-intelligence-for-new-documentary"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 47
+    images:
+      - url: "https://assets-prd.ignimgs.com/2021/07/15/anthony-ign-1528465548487-160w-1626384290988.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "bCilBuMHpQ0ZeCWr1lU3CuVDUXfPYVXRTQIy1l8UkDg9e4M4wMlTyKi3pOKpDHsFg+3RUIqAFzLKD4yeGBrpHyAVBC8MVRWaU6brJU7viPgsANT4Lk7OKhh8o0xwa4KZtDVaSynxf0j3JBWI2KEWAmB6Us+U6a7X5dvMmbSwSOyd7DooFPxTInQ0VjRTAhMkdHndU5YofOgUkhAniZe/3Fxwfl0W95M5F2wWzeMXdjWeJdAylz7rbkuV+y6YsdkKzNKZ89fV7d2rXYNt4ogag0Iyh4xzFvKmfBXiskGD3o3Xipyr+XyahhRidvciTKTYXrZGGG4D4/LrqLzL1AqdMMorrAPSq7515ViTsGhxYsM=;Da/x+/S1hcEmotbg7H/vpw=="
+secured: "/uUSwzbg+1xZF6SvGmpTdZ+loVR/ZlVA39dSqMe9XUYuXRyZ/9NLrTCiV1e6QXZ3VYRs74d4hY13Q7WXi9wKehpqPfFKMPSve6MsaoDNs1jSGbuUJ3IBm3dU9sLE4d0LyfwtwbGSFankl0x4odLBn5nIuOI9VOvSttouD71Tme+nt8k80L059xxcU3CBnO0jmLAEAvt8dVatXrHCem34ti1IDMWXvlLA4w1xqj8KS3EOI1YzefVnSxnUkQ6CaTu6E06TqEijbQbZ3EhpQXL9/h+qWg2HsqEPOpFMEH5H1FfAPJLNooXy9WeSeWu39Oild3DF3J8lrfa1FPXdVxXPMjK6ylQI4+CarE0S/9IA11zAF70/tfper3xO+oNsQWqCLLSkEYU8B58ZCvr8vHoXtrvjhDa7ycel8NZLOnWa1g6WIM0yM5eUPzxNS5RXrsUewVtQgtwR6AeKqVQGUsMMg5TeyhIsuTRaKAJpFhToqjYogpTrkx5EbC9z13D2rz9Dt9DaJu55/FtqDai6ClfzFg==;1waGTvTRNHtSnrHM14oobg=="
 ---
 

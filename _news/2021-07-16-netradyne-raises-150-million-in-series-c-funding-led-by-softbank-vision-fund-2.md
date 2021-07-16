@@ -93,6 +93,20 @@ related:
         width: 670
         height: 446
         isCached: true
+  - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
+    excerpt: "Netradyne, a leader in artificial intelligence (AI) and edge computing focusing on driver and fleet safety, today announced a $150 million, Series C funding led by SoftBank Vision Fund 2*, with participation from existing investors Point72 Ventures and M12."
+    publishedDateTime: 2021-07-15T16:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-ecb234a136fadbe5025439bf6ee2b61e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "RVH Solutions Inc. Secures Series B Funding from Vizient Inc., the Nation's Largest Member-Driven Health Care Performance Improvement Company"
     excerpt: "RVH Solutions, Inc. (the \"Company\"), a leading healthcare technology solutions provider to hospitals, health systems, academic medical centers and skilled nursing facilities in the United States and the United Kingdom,"
     publishedDateTime: 2021-07-12T13:08:00Z

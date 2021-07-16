@@ -61,7 +61,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -75,11 +75,39 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/AWS.png"
         width: 1024
         height: 598
+        isCached: true
+  - title: "Amazon HealthLake Is GA Under New ‘AWS for Health’ Banner"
+    excerpt: "Amazon Web Services continues cloud providers' industry-specific push with the release of Amazon HealthLake under its new 'AWS for Health' banner"
+    publishedDateTime: 2021-07-15T22:19:00Z
+    webUrl: "https://www.crn.com/news/cloud/amazon-healthlake-is-ga-under-new-aws-for-health-banner"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 41
+    images:
+      - url: "https://www.crn.com/resources/026b-12b57f76c066-3aed31206e03-1000/aws-sign-v2.jpg"
+        width: 1500
+        height: 1126
+        isCached: true
+  - title: "Amazon announces availability of HealthLake"
+    excerpt: "Internet services giant Amazon Web Services has announced that its HealthLake cloud-based data repository is now available for use by healthcare and life sciences organizations."
+    publishedDateTime: 2021-07-15T23:01:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132950"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 39
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_15_22_13_0934_computer_data_wave_social.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
     excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by Amazon Web Services, Inc. as a Connector Partner for Amazon HealthLake,"

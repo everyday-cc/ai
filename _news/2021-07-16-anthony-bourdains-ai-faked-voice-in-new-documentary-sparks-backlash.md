@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Anthony Bourdain documentary used AI to re-create his voice after he died"
+    excerpt: "you probably don't know what the other lines are that were spoken by the AI, and you're not going to know.\" He added, \"We can have a documentary-ethics panel about it later.\" Writer Isaac Butler tweeted, \"This feels unethical to me maybe?\" Documentary ..."
+    publishedDateTime: 2021-07-15T22:24:00Z
+    webUrl: "https://www.cnet.com/news/anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 88
+    images:
+      - url: "https://www.cnet.com/a/img/ygG9OnwVAXclz9rN4SrLRmZZIR4=/2021/07/15/01a10222-21c1-4dc7-9e83-0e2f0947439a/anthony2.jpg"
+        width: 1194
+        height: 672
+        isCached: true
   - title: "Anthony Bourdain Doc Recreates His Voice Using Artificial Intelligence and 10-Plus Hours of Audio"
     excerpt: "Roadrunner ,” the Anthony Bourdain documentary from “20 Feet from Stardom” Oscar winner Morgan Neville, takes a page from documentaries like Alex Gibney’s “Sinatra: All or Nothing at All” in allowing the late chef and television personality to narrate his own story through the use of archival audio."
     publishedDateTime: 2021-07-15T19:31:00Z
@@ -58,6 +74,20 @@ related:
       - url: "https://etcanada.com/wp-content/uploads/2021/04/RR_FP_00187.jpg?quality=80&strip=all&w=720&h=480&crop=1"
         width: 720
         height: 480
+        isCached: true
+  - title: "Anthony Bourdain's Voice Recreated Using Artificial Intelligence For New Documentary"
+    excerpt: "Anthony Bourdain's voice was recreated by artificial intelligence for use in a new documentary about his life."
+    publishedDateTime: 2021-07-15T21:56:00Z
+    webUrl: "https://www.ign.com/articles/anthony-bourdains-voice-recreated-using-artificial-intelligence-for-new-documentary"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 47
+    images:
+      - url: "https://assets-prd.ignimgs.com/2021/07/15/anthony-ign-1528465548487-160w-1626384290988.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "2g6T4zTWBHZ75JPa8Wzv4dAXnZiJYEDmFo8dHhLTrYG6Uks5qocvGHnC4gLENfgaDqYWdFqAb1eHJFatmsEMTVY3TEDhMrDxABNaoU2VHENqWR58yIHqFhrhGaYWDSwoX1Fm9SWCuVtY+wvwPvwskjksXtmMTL4JIwtAF18DyVIsTQu/w9aq1P4w/FsDWb/fP9/UW4aDqMU5BqmXzoecvlfygPnHN8o4GjBEXTKz/CvqIanxMTbu/RY06zhowlkWDZEwK8BQtPEUJkUqhp3BKrncuCOdC4JL5+T1M4kBH5sD6t1+vQJlTMI/vLkLNdqKa7JxZSZPwGZnxgoPhWzelHNbzIts/c3rpELr9xXDU3MCpTEKceVZF1k/ICLNG/hOJ4hgDKHoQPpUJusHUiV8ZTgAnF5uXJAeo4jB5l9FzOMmCOP4q0D/uHQNJxKrWRfBjeQWfOXC9DwqB3l/2TDwmiuiAbevzJP7qT48FuJD2BprbtmFmgq4Oi5macq1Qdr4ktFl1h2lFYHYomO53weCOQ==;gOj08fTqnAoF/ZOSXpoNqQ=="

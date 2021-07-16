@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Black Girl Banned From Michigan Skating Rink After Facial Recognition Software Misidentifies Her"
+    excerpt: "Recently, a Black teenager was removed and banned from a Livonia, Mich. skating rink. The teen and her parents say the business’ facial recognition software mistook her for another Black girl who had gotten into a brawl there prior to the incident."
+    publishedDateTime: 2021-07-15T23:30:00Z
+    webUrl: "https://www.theroot.com/black-girl-banned-from-michigan-skating-rink-after-faci-1847302114"
+    ampWebUrl: "https://www.theroot.com/black-girl-banned-from-michigan-skating-rink-after-faci-1847302114/amp"
+    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-girl-banned-from-michigan-skating-rink-after-faci-1847302114/amp"
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 46
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/b34fba5a658cdfb01b5a7bfb43c6cd9a.jpg"
+        width: 800
+        height: 452
+        isCached: true
   - title: "Farmington Hills man misidentified by facial recognition technology testifies at Congressional hearing"
     excerpt: "The Farmington Hills man who has sued Detroit police after being wrongfully identified by the department's facial recognition technology in a shoplifting investigation is testifying in front of a congressional subcommittee Tuesday."
     publishedDateTime: 2021-07-13T14:59:00Z

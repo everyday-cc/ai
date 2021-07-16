@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-th
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454/amp"
 type: article
 quality: 87
-heat: 118
+heat: 117
 published: true
 
 provider:

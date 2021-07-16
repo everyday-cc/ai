@@ -1,26 +1,28 @@
 ---
 category: news
 title: "AI Natural Language Processing Company \"Brain Ventures\" Selected as a Data Voucher Processing Company by the Korea Data Industry Promotion Agency."
-excerpt: "SEONGNAM, South Korea, July 9, 2021 /PRNewswire/ -- (CEO Won-hoe Kim), a resident company of ICT-Culture Convergence Center operated by the Ministry of Science and ICT and the"
-publishedDateTime: 2021-07-09T18:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-natural-language-processing-company-brain-ventures-selected-as-a-data-voucher-processing-company-by/article_e79593c6-73a9-5dad-869e-d3d20ff9d9c4.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-natural-language-processing-company-brain-ventures-selected-as-a-data-voucher-processing-company-by/article_e79593c6-73a9-5dad-869e-d3d20ff9d9c4.html"
+excerpt: "Meanwhile, Brain Ventures has developed an AI video content automatic translator and short answer ... and communicates with human languages.\""
+publishedDateTime: 2021-07-09T20:02:00Z
+originalUrl: "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing"
+webUrl: "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing"
+ampWebUrl: "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_580.jpg?itok=YpqM4i8D"
+    width: 763
+    height: 509
     isCached: true
 
-secured: "AdsqsIUrDQbJkQE665j4j2gU5Y7KDt4T35tktWSCH5Oa0Ut349OOmgkEW5WhFkvytpwKWTmFeJ2mDnR9BAf6YkqNXZgq7T6vEJ4+aF8jdoUxwDOasN5f7/ihQrZT8fM6DfRMa1XbUwJ0ihRmIU58NFeiL7UrFOaHXa1BE3sUMLq6fF8/r4pc2u3byfd/z73hak4fAUIA67yoGOhPO1ysh5oiwJUH6uturBAfLDXDCBpa5akMSr1NmdqSuBHWIDvsDMtoVsFQ3gFH4jpRjPkuZDT8TTnNKHUrGW9mC7pxwNw44GufKNrKl5nlK71jyvCwgH1H2UpbyJ2ph69iU2U6qeAHoAWX1ZcdJirloBBkiOE=;/SQALGqh8CONJAUAm76gTQ=="
+secured: "iG4gOwTg60xgtrXWZaKcdK8sR6BP7JqZrEM3JgSXSmphlGNFmQUAJ2nA3bmV9RFQ24WXKix0EekhB17Sg/X/QC+ftnuTc/f3ftZbDiceOtKwXGLZeq7BYSJ1b/KazVNR/L26ncXCxuf25+2NOUiFhJvWuPd29ZQVTMownZEIFIkIYX9fr/yFdvFmTM7pwhrhW3ljhIIZMIXjRr3YQWVlbUxdwoostjuQ/aTGI+7WKyan8wwxkfmj2E841QlzRqyaFAGqjeEEnL8XVIbTYNd/ya2JjfweFdGuM1Y4zeVIwmEwYPGIBW78bDh4kDtjywLrP49hCOyq3Pong9MVFFf4PauEUmjGpFYTzBe8syhrbWE=;VRUgS+QqVzKt33YFczLjIw=="
 ---
 

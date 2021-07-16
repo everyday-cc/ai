@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/07/15/tecno-camon-17-pro-india-lau
 webUrl: "https://www.gizmochina.com/2021/07/15/tecno-camon-17-pro-india-launch-price-specs-features/"
 type: article
 quality: 65
-heat: 75
+heat: 76
 published: true
 
 provider:

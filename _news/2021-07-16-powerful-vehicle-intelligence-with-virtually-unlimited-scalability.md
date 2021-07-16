@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Powerful Vehicle Intelligence with Virtually Unlimited Scalability"
-excerpt: "PlateSmart Technologies, the pioneers of software-only automatic license plate recognition (ALPR) technology, has introduced a new ALPR and vehicle intelligence platform with almost unprecedented scalability and analytics: PlateSmart ARES ® 3."
-publishedDateTime: 2021-07-15T20:48:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/powerful-vehicle-intelligence-with-virtually-unlimited-scalability-1030613188"
-webUrl: "https://markets.businessinsider.com/news/stocks/powerful-vehicle-intelligence-with-virtually-unlimited-scalability-1030613188"
+excerpt: "PlateSmart Technologies, the pioneers of software-only automatic license plate recognition (ALPR) technology, has introduced a new ALPR and vehicle intelligence platform with almost unprecedented scalability and analytics: PlateSmart ARES® 3."
+publishedDateTime: 2021-07-15T20:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-powerful-vehicle-intelligence-with-virtually-unlimited-scalability-/2021/07/15/9410652.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-powerful-vehicle-intelligence-with-virtually-unlimited-scalability-/2021/07/15/9410652.htm"
 type: article
-quality: 34
-heat: 34
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "jgVzh7i7NoSicwMISwVH4awKEDZjemkW1q1ItM/RK70/uItZy/QmDuyAi6X6d8W+7zAxRMN+pJsnyJYorMHXnts2fLceeWs1uKofToP6rrw9URTd89J75bM9ykHwxIQPFZDNrMbeQgGkeTbmbn9ynDe5W1MwsYcodw7PA7+Hk7yUb3o02KMEBeS2QMzvAfZG5JYvlb6XBq5NB5OyUpTPl3XDyMEY2KiCZFOojF16ffSY85PhFXto5txi3kCPo0Nc5D+m4WKYrNBbicPnAvAmjAfYrlA7snX3NLcX7D1nx8iiToSx5+Zlqlzgj8DLuRVZaXaaLn6iG8ssGWZKQdZzMjcKs79YfxdWTWuXPfB5Cfs=;96w8lw52vvCseL8PRReE1w=="
+secured: "qPS5iV26F2OniLJS+/INjj2+pbMMbFSVxKjbaw5FwWSPqKQQ6frtcNwkaEVom07ZsFZiKkkR6ZrbE2U0u1NQVswsJAU7UfvJe1p7hCkWJlAv7AJCdLUIRPqn2OFZYuLwjOi3Gc13KOs7MCU/oNobpnVWFvKiBxdOG3Em1YMjscDo4HJYgMMQhA96dwRnHdNMQLm2mu4wZe7lHLZuQOiqNxmyDBRMKEE+N8rALWsPoyoz9djQUTKzI+f1Vl7MTMQs1AOXvXOhX5jB8oxBzIye6bNNAEvQpu8ktnTjZ81P8DBNTChB6n63N0DyarrGIOTz5PDb4T3e+gvkILlbAi4Gl4BUFWO2W/lKhUXJ96By7P0=;/GMfVZEQaeUGzk/GFYjTaA=="
 ---
 
