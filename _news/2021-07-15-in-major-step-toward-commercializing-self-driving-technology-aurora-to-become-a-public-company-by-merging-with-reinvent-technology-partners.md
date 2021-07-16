@@ -200,6 +200,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Self-Driving startup Aurora in agreement with Reinvent SPAC"
+    excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y."
+    publishedDateTime: 2021-07-15T17:06:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/07/15/self-driving-startup-aurora-agreement-reinvent-spac/7979928002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 4
 
 secured: "sU/LMboG2M2ikQ+fEIhtX307U8OCSfGwPk1zqLSPngcsnmY7pyMvs2wec8rz+n/Dd5u1dwxcui7cMYX1n8rfLm2V+TZiQQLhalPPq/BnvBLKPhwrjn17EkOHkzm5+FuJHE6y9xbQddQSrqlKXrMI2QcJ3WDfO7i2WrlEdtthwmUKju8gmwjxrhV5m5K3gpB0q89JiwIeiN1lkG9tuPoCfE7nsyCJI4fXW70fO18RBFMIvBiDjEwXBEmyZ1seQMth4YRFNumkvgjLstbMhmIQdYIHS2pmBEYzWMHhulSd4BD7FgcViKBgQdWBTYOykKZpCXWAY7I0OxKqaH9tEgqNjW1MbUSfQ6SI6UdpeoJXLOO/2xtMypiQTJNKKPO1STO6NVW4jTfWy427Z/xwnm+zVsxaGEPOL9GB063FpuVPI2wW6y3SANn4xCRoBHYkxr/ZT1KLhoBg6c3btyB20rWgxxkjUQ6yVKvtT7bSrNWrGetXPnvuJgTK92v0kikv5u3ROYT7s5MefM/YmZT5S770aQ==;otnXE3Dytsfmd/l2/NGQNA=="
 ---

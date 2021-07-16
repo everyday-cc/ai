@@ -44,6 +44,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 43
+  - title: "Singapore based Fintech Lending Solution Provider CrediLinq.Ai Secures SGD 1.35M via New Funding Round"
+    excerpt: "As a Fintech firm, CrediLinq.Ai believes that all businesses should have seamless access to capital to allow them to reach their growth objectives. For investors, the company’s AI and machine learning tools/algorithms support a credit assessment approach ..."
+    publishedDateTime: 2021-07-16T03:22:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/07/177879-singapore-based-fintech-lending-solution-provider-credilinq-ai-secures-sgd-1-35m-via-new-funding-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/177879-singapore-based-fintech-lending-solution-provider-credilinq-ai-secures-sgd-1-35m-via-new-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/177879-singapore-based-fintech-lending-solution-provider-credilinq-ai-secures-sgd-1-35m-via-new-funding-round/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 43
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Singapore-Money-100-282x300.jpeg"
+        width: 282
+        height: 300
+        isCached: true
   - title: "Ensure AI brings social good and not inequity: Experts at Asia Tech x Singapore"
     excerpt: "SINGAPORE - Artificial intelligence (AI) technologies can bring a wide range of opportunities and benefits, but they also come with the risk of perpetuating biases and inequitable distribution of those benefits."
     publishedDateTime: 2021-07-14T14:37:00Z

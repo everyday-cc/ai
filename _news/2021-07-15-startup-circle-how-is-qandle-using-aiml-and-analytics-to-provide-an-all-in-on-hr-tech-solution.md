@@ -123,6 +123,15 @@ related:
         width: 1280
         height: 1280
         isCached: true
+  - title: "Five9 Extends its Practical AI Solutions for Low-Code Development, Voice Biometrics, Real-Time Analytics and Agent Coaching"
+    excerpt: "Our new capabilities make it easier for organizations to build and manage AI solutions that will enable human and digital teams to deliver next-generation customer care.” To ease the deployment of self-service channels,"
+    publishedDateTime: 2021-07-14T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/five9-extends-its-practical-ai-solutions-for-low-code-development-voice-biometrics-real-time-analytics-and-agent-coaching/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "wRIAScPx+nVYGbbaupICXhkEQ0waS/EQzVUrE6YBBSgYiRz2tbgK4whVvdtrjL4Q7x5RJBdMVubKekdslB+52+oZnbGSJTKOEw2SdhZ2dkAbiHRoDS9fFgla2v/I0OkMaMF9s6Vdlxi7gXh90s/yGtj4RfKzW/weE9Ut7jSk1NAfCAZiVuJT3cEhKwpduASdZ8odP/HOuGfh7NL1eXXdQamV5IakxrNC+slPQTAHh5yCSpo8VAN7nCpjawEH8W//WuzBGbOO9D64dOGDxDkR2i7x96jIsQEEvMdfTwsgkw2iL6asQVmvoX4M5zF4BttPJi33AfMGJBw/l0oTowd1l7mtmwd/mWFwJiXKZ+nS7HZzCXhrLTo7uUIYb+/YNsghEAEbJCqFE61eOInRnucVUWNfiAJbEgkxeEH2a1K6/5wjCLevA8z+IjcJa6j4EWnpsepxT1JJhVyYO+UUThmpFi8l5dDDaIwxgSvNuDF43DMwter9Tgh7tsAxVrhVABavrK8crvT9WHWZgWuE2n4IAg==;JlITem9/bWJ7HZbtK7kx9Q=="
 ---

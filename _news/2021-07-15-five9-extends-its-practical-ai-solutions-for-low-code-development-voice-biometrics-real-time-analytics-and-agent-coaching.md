@@ -124,6 +124,15 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 21
+  - title: "Five9 Extends its Practical AI Solutions for Low-Code Development, Voice Biometrics, Real-Time Analytics and Agent Coaching"
+    excerpt: "Our new capabilities make it easier for organizations to build and manage AI solutions that will enable human and digital teams to deliver next-generation customer care.” To ease the deployment of self-service channels,"
+    publishedDateTime: 2021-07-14T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/five9-extends-its-practical-ai-solutions-for-low-code-development-voice-biometrics-real-time-analytics-and-agent-coaching/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "cM+wMFQNptkCuTznkz9k60bdo888sTXlXfnJkQfaOjQlf7p3ZX5xOdvs8MhdTllicr1yRmwR0mUDCBupWQciVkbx7rFSdV5HSMlfSnggvXMsyq6MGTPkBuMbJaEwTRUMR/M5US/zO3gYb4wBlsZc1rqWB/NB4eWry1FsPaVVxvSAlYAE1oWtFxndOlTaWGVaEeD+2vSvC1jbBe/Xo14hNuvjk25sKjfz/uj7eM8l/NXk5Xz+WdgoGGbnD3qJtEvT49qneldHjrBNJQwRj19uHiTpuT5jlH3GIbLKO6EL+WscMX2zRp7oosPlmSZXm3tbSBZ1+8AjOIn6Qd1xseveYKYeNNs/QhcOznaozvhFO2w=;foqCa0pSeiOIkKG//pmmlg=="
 ---

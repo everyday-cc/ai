@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/ai-in-education-market-size-share-2021-
 webUrl: "https://manometcurrent.com/ai-in-education-market-size-share-2021-2028-top-key-vendors-bridge-u-dreambox-learning-fishtree-ibm-jellynote-jenzabar/"
 type: article
 quality: 5
-heat: -1
+heat: 5
 published: false
 
 provider:
@@ -19,24 +19,6 @@ topics:
   - AI in Education
 
 related:
-  - title: "Intel Stock – Artificial Intelligence (AI) Robots Market Size, Share 2021-2028"
-    excerpt: "Robots Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years."
-    publishedDateTime: 2021-07-11T10:52:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_intel/intel-stock-artificial-intelligence-ai-robots-market-size-share-2021-2028/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 45
-  - title: "Deep Learning Market Size, Share 2021-2028 | Top Key Vendors – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
-    excerpt: "The Deep Learning Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years."
-    publishedDateTime: 2021-07-11T14:25:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-market-size-share-2021-2028-top-key-vendors-amazon-web-services-aws-google-ibm-intel-micron-technology-microsoft/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
   - title: "Artificial Intelligence in Aviation Market Size, Share 2021-2028 | Top Key Vendors – Micron, Intel, Boeing, Lockheed Martin, Xilinx, IBM"
     excerpt: "The Artificial Intelligence in Aviation Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years."
     publishedDateTime: 2021-07-11T15:55:00Z

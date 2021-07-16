@@ -190,6 +190,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Self-Driving startup Aurora in agreement with Reinvent SPAC"
+    excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y."
+    publishedDateTime: 2021-07-15T17:06:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/07/15/self-driving-startup-aurora-agreement-reinvent-spac/7979928002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 4
   - title: "In Major Step Toward Commercializing Self-Driving Technology, Aurora to Become a Public Company by Merging with Reinvent Technology Partners Y"
     excerpt: "Aurora, the self-driving technology company, has entered into a definitive business combination agreement with Reinvent Technology Partners Y (“Reinvent”) (NASDAQ: RTPY), a special purpose acquisition company with the sponsor team that takes a “venture capital at scale” approach to investing."
     publishedDateTime: 2021-07-15T13:36:00Z
@@ -205,6 +214,6 @@ related:
         height: 630
         isCached: true
 
-secured: "j05PMSijEoL61RGHSTGfOEMKbKRCmzXZUK0jyGnI1xrGTW/4qO17/u9vYxwmDfiR5Bf1pPefCnUheNq3gyU32Lf6Cn8gdOZ420j1VaNTS9UlFUszTCObWRP8vGZyxyYsewRCDju9sZyu2bJY+g0keJkAXVMtMNzuaxBROAx+J9zFzQjWZoklq4pvls9xEZ8Q125Hy4z7Rhg7ESnwZZej9CY71MVNZ7LeG8s/Tp5Cbip2l4y0KxtTDePfV4BS7yofUWshp3IaB2WPwyZabqwnDN/6gzLiIcACc1Jhg8WVw0MpZzL7p0wqMU2/v2VC9ozGwmuV7f2Z7tIFUPx5xIMYoMLSALu3LvWEpTJ4mho5Gm8=;h0pEmPnExOfrE+/tVMWM+A=="
+secured: "c9LcliN1/MjWZXAFUB5bg7bGGVJTJd5fWR1KZ0WbJ7Fh+nS26Ws/u2cfor8tyTNCRaPtjVnqBJw087po4G+EIUqXmN7XEzZtRBj4ZXHRSdEatG201IHgLbV8ox2DyMOL+8126reueTG6wd9HT9FmsEIW6gKsA2tdNSOO2hA8AYdWHLd4HVpDGOY1I6P5o2KYSek51dhIGcfF/QXQAPenFMx6PUicIIvEmpvslRM8C6QrNdFp+zWd0VLfNfhboiZiKM+HBJ/IofUD3XecTV6wicro5Ain601iLO+6APK6UYbIKAdpN6dz8jDfZ5GHVgOi5R8SYrLaPStfvnALr18RqEUVPe3QkwZnVxlRlTXnZU9cNSQv9pVTi6ctj8S70Yyw1fbeP7s19budnupgEG0k7cClTJNA/nkx0iwsj8nOWMESX2Be3gobVHTt9GPSNHfjbawivm/PSkwRqqzxrsafufXYxRbj/7yg7jl5xhxUYjRfpCADfNf/Dah2zAjL5cLyL9fVINQB/eaG3wuBCKyiJg==;0O6Nzb/mYrBH9xZKmYBOfw=="
 ---
 

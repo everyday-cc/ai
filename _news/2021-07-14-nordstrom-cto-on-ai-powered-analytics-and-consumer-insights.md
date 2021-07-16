@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analy
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -128,6 +128,15 @@ related:
         width: 1280
         height: 1280
         isCached: true
+  - title: "Five9 Extends its Practical AI Solutions for Low-Code Development, Voice Biometrics, Real-Time Analytics and Agent Coaching"
+    excerpt: "Our new capabilities make it easier for organizations to build and manage AI solutions that will enable human and digital teams to deliver next-generation customer care.” To ease the deployment of self-service channels,"
+    publishedDateTime: 2021-07-14T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/five9-extends-its-practical-ai-solutions-for-low-code-development-voice-biometrics-real-time-analytics-and-agent-coaching/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "4FVFz6rw3u//62f8v2z0zSQT+6MVTKieXsLgIJRPrOkwrvI7xUhY8SfJbfwv4a8AgCd+7a0eqoKWHIgir5g2s0jd0CjYKLkIBplA0NPgqgyctm7IogFChDurZ3eCtHMqQcRx5ANnyZo4YU1EReZAECGjQ/DyO1twdKydgS9SMl6KzMgfnWMo8GDwM2cwxh42Ja/Z52UgaNd0YleMVJUl5up1DMkQ0U6I8/ys7X4bhTnvnZ899YZqzmYfczKH59mYKQ9bwdJbkvVeuoJmXBpX3BrxZwI0+3lnFL4KlnNgr1Ga9PR8GNYMJ7z1tbhdT3v8htPG7mr9wzHB0XyZP8i5eSTo9FNG5nyDRjlfZKkEHrnvPifaR7LuSaQwLUfNNOwnHHCNstFTYpFb6D0a3Rhv7TIcuIteKfGesV2mFUhpwakUjkEjY+R2DFaM8x8D9yj3pBEXVqzeT8gvLtmUlX+VeqINge7F4DnatxVmUltK/+AEbIdhpDUrSnWY9yNHpWntipP3sidBP33dMGl+KE4U9g==;4U67aPfLCiV5rZHw0PrKoA=="
 ---

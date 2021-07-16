@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tec
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/amp/"
 type: article
 quality: 75
-heat: 195
+heat: 205
 published: true
 
 provider:
@@ -190,6 +190,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Self-Driving startup Aurora in agreement with Reinvent SPAC"
+    excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y."
+    publishedDateTime: 2021-07-15T17:06:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/07/15/self-driving-startup-aurora-agreement-reinvent-spac/7979928002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 4
   - title: "In Major Step Toward Commercializing Self-Driving Technology, Aurora to Become a Public Company by Merging with Reinvent Technology Partners Y"
     excerpt: "Aurora, the self-driving technology company, has entered into a definitive business combination agreement with Reinvent Technology Partners Y (“Reinvent”) (NASDAQ: RTPY), a special purpose acquisition company with the sponsor team that takes a “venture capital at scale” approach to investing."
     publishedDateTime: 2021-07-15T13:36:00Z

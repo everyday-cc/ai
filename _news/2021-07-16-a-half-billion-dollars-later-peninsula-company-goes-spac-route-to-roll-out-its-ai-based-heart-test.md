@@ -1,0 +1,23 @@
+---
+category: news
+title: "A half-billion dollars later, Peninsula company goes SPAC route to roll out its AI-based heart test"
+excerpt: "How HeartFlow hopes a SPAC merger will help it expand uptake of its #heartdisease test, save money for health care providers and lead to better diagnosis and treatment for patients $HFLO $LGV"
+publishedDateTime: 2021-07-15T21:15:00Z
+originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/07/15/spac-heartflow-glenview-capital-heart-cad-test-ai.html"
+webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/07/15/spac-heartflow-glenview-capital-heart-cad-test-ai.html"
+type: article
+quality: 5
+heat: 5
+published: false
+
+provider:
+  name: The Business Journals
+  domain: bizjournals.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+secured: "OLaCkegFsgw8x1AG30LGIBQ6A6tfew/h8/u5lzicEAQVcv063zCFBhVXpj2TIC0hJg4EV9+bAQdtl6O515JMPbeBmIxFgp21wvsn8brg3Kk4z9CmAOxCwOx7tmu0OXj1WArxEtAkvgvbQfHkAfe+lRsJ6MTpJxK9DKBMD8+wj7oZhO+0LMnv75ijkcMOaZpjhVz+NRWBjHDjdeZkTn5jorQneERBEcTTPWGqoPiEJHSR58VuIsfRA0SsacFeAyb7oHI3ugHtDtyNMWTfR56zuO6x8PRhRPKZPR8+A8zq3tY8T3nETMBR0UWWnG5lNTxCCjpRLjaChTcnXNuULs+O4E2i9vxvGw0TgoyJl6nWVnzbkavxzM3by+3iCgNz5192qAGW4yoCfZJLQqSkMk0DaZy5EXzi/BrsJcYtcJEXOblhM9ebzVY4SWB25Ra7Ir9yHx+Qlb/SJEOpkvlLDS8Fc5j1J1miWfS1YUKH7Nw9WtCQk9nNm30JTUxmWWowJe4iGu4FR+uiciB578PX5VQIQQ==;QLMwZm5CF425GheOO0j+Iw=="
+---
+
