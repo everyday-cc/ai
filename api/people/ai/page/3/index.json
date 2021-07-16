@@ -4,41 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_people/jitendra-malik.md",
-      "title": "Jitendra Malik",
-      "excerpt": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jitendra-malik/index.json",
-      "webUrl": "https://everyday.cc/ai/people/jitendra-malik/",
-      "type": "profile",
-      "name": "Jitendra Malik",
-      "bio": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=oY9R5YQAAAAJ",
-        "citations": 211656
-      },
-      "affiliation": {
-        "path": "",
-        "name": "berkeley.edu",
-        "domain": "berkeley.edu"
-      },
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=view_photo&user=oY9R5YQAAAAJ&citpid=2",
-          "width": 85,
-          "height": 128,
-          "title": "Jitendra Malik",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/john-giannandrea.md",
       "title": "John Giannandrea",
       "excerpt": "John Giannandrea is Apple's senior vice president of Machine Learning and AI Strategy, reporting to CEO Tim Cook. John joined Apple in 2018 and oversees the strategy for artificial intelligence and machine learning across the company and development of Core ML and Siri technologies.",
@@ -489,7 +454,7 @@
       "twitter": {
         "username": "thinkmariya",
         "url": "https://twitter.com/thinkmariya",
-        "followers": 27964
+        "followers": 27963
       },
       "topics": [
         "AI"
@@ -776,6 +741,50 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/clement-farabet.md",
+      "title": "Clément Farabet",
+      "excerpt": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/clement-farabet/index.json",
+      "webUrl": "https://everyday.cc/ai/people/clement-farabet/",
+      "type": "profile",
+      "name": "Clément Farabet",
+      "bio": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
+      "location": "San Francisco, CA",
+      "website": "http://www.clement.farabet.net/",
+      "twitter": {
+        "username": "clmt",
+        "url": "https://twitter.com/clmt",
+        "followers": 10998
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/clementfarabet"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
+        "citations": 9003
+      },
+      "affiliation": {
+        "path": "",
+        "name": "nyu.edu - Homepage",
+        "domain": "nyu.edu - Homepage"
+      },
+      "topics": [
+        "AI",
+        "AI in Hardware"
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/953003983307550720/GhDHdn42_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Clément Farabet",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/alice-agogino.md",
       "title": "Alice M. Agogino",
       "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
@@ -950,7 +959,7 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1523283
+        "followers": 1523281
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
@@ -998,7 +1007,7 @@
       "twitter": {
         "username": "TarynSouthern",
         "url": "https://twitter.com/TarynSouthern",
-        "followers": 65595
+        "followers": 65596
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/tarynsouthern/"
