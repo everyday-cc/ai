@@ -1,28 +1,27 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon HealthLake"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon HealthLake, a HIPAA-eligible service for healthcare and life sciences organizations to ingest,"
-publishedDateTime: 2021-07-15T14:57:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-health-coronavirus-pandemic-a6577a90cb304bcf90fa8b9af7a85b90"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-health-coronavirus-pandemic-a6577a90cb304bcf90fa8b9af7a85b90"
+excerpt: "Amazon HealthLake enables healthcare organizations to store, transform, and query health data in the cloud using machine learning for a complete picture of patient and population healthThe new service is part of AWS for Health,"
+publishedDateTime: 2021-07-15T16:00:00Z
+originalUrl: "https://www.pharmiweb.com/press-release/2021-07-15/aws-announces-general-availability-of-amazon-healthlake"
+webUrl: "https://www.pharmiweb.com/press-release/2021-07-15/aws-announces-general-availability-of-amazon-healthlake"
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PharmiWeb
+  domain: pharmiweb.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - AWS AI
+  - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+    width: 1200
+    height: 448
     isCached: true
 
 related:
@@ -125,6 +124,6 @@ related:
         height: 600
         isCached: true
 
-secured: "V+RWXOJ/Q+wCTZztcDGeT/n40IPEj4Hg/dWoCxByiYQpkixLxLvgy2EpgX+R6efrhhhGQmTC4dna/Wijk+9W6Hj6f2tOj7vB1D6JV2IxQdzqhA/7nHl3RtFvO3YkeKdS1UH6hhWW7EYtb55hNzkcYCZKsxm+5nGH+SMh8aI5g0wTADs8Ng+z9fLuirB6Q42RsIoHLdLG2kp9lUI3qvbfZHxyVJEspcwIxlwp6yeP00GHlqd82IQwBhdquB4Rv+scnAtIkzwneh6bI4Bnws0S8Zu9pm25430hfCy4L5N5joAvvYX+SoZq4g6Sr3eKMZgbu4/60Zs3l4uYRKRzkmI4L/y+jqpOwH2iNwzaSDDyS9U=;Qdl95h8ie3bpoYiwoecofw=="
+secured: "+uwSE+pE3E/nxEbtPxNS4PIsPeKKL/M/4voPd0ytQr85MAY2tqshf/8bvTp4ZHSRqgNoMrdG2vRdXXAkQcXUmkbinvjK8Ge6IP9trc6K7ZBMSJ7U9+NtrlAGUdgORzMrKNJW1RPv3IjiQCUk0NOiVaCrhAsLYdUuMWR3LPjGgI/c1X+MG+H58NUbNfJXoA7rN5/NcvDsnb52mWB9GE+dQIKh3PGkRG0U1ALj+TBY8pwAeBZrkB4p25cbGruX9x8Afw4sXYX7Dr8mhkyzrUIT42pCkfEHu7Znxby2cpfTtQEBZVRR8xB+6TfZ57wy44u5oRZps9Hs60XHnNzCyGC2kkc7xYVE8mO6YttsayZQ2nA=;B8iCv2aa0PA3hkcDFer2yQ=="
 ---
 

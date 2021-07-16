@@ -41,18 +41,13 @@ related:
         isCached: true
   - title: "Accurate protein structure prediction now accessible to all"
     excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
-    publishedDateTime: 2021-07-15T18:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uows-aps070921.php"
+    publishedDateTime: 2021-07-16T01:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210715142340.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/270310_web.jpg"
-        width: 720
-        height: 480
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
 secured: "P/UC8hLlGFyBekA9Vudg43tPQQ37yIcpLwdMK1isULnh9VWzlfGIE+jmViKx9s0jR9xXOXIC/ltxhtAJ4u0CQGvGWzv9Akxy0H0AXM+Ia7jyY4ckPRU0QDlxempd5uRMNYSMNrKbK/k95zeXkzR5Onbh5wQ7Un1R4l4j/VcvKc3fhOuf6z2i9INvUowi7AZAP5HW0JbxIKhLl9Z3PVcsCaQ6J+ui4K/FE4WTt+ERAz7fOJkyCAN8ClaKKn2VI32dmV8lOzp5s7pyWvwyZnfgNsKW8Avkljy7DwZ1o3IViYKGgHJGRj7wsH58VKSghS9qfd8i1jxuyklZk2vuTp8kfW/6aLIilu8n3GAmfCBtdRY=;BHzqOxrW+xaWPSoAl017rA=="
 ---

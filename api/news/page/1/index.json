@@ -453,6 +453,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-15-a-black-teenager-was-kicked-out-of-a-skating-rink-after-a-false-facial-recognition-match.md",
+      "title": "A Black teenager was kicked out of a skating rink after a false facial recognition match",
+      "excerpt": "A Black girl was kicked out of a skating rink in Michigan after its facial recognition system misidentified her, according to a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/",
+      "originalUrl": "https://www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/2021/07/Black-Girl-Falsely-Identified-By-Facial-Recognition-At-Skating-Rink.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/?amp",
+      "publishedDateTime": "2021-07-15T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion.md",
       "title": "Self-Driving Tech Developer Aurora Raising $2 Billion In SPAC Listing That Values It At $11 Billion",
       "excerpt": "Funds from the deal will help the company get its self-driving truck technology ready for commercialization by late 2023.",
@@ -1208,49 +1251,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-toyota-buys-us-startup-for-next-gen-driverless-navigation-system.md",
-      "title": "Toyota buys US startup for next-gen driverless navigation system",
-      "excerpt": "Toyota Motor announced Thursday that it acquired America-based Carmera that provides the next-gen navigation system for driverless vehicles. The Japanese carmaker acquired the artificial intelligence and maps firm through the newly created subsidiary Woven Planet dedicated to automated mobility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.laprensalatina.com/toyota-buys-us-startup-for-next-gen-driverless-navigation-system/",
-      "originalUrl": "https://www.laprensalatina.com/toyota-buys-us-startup-for-next-gen-driverless-navigation-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0laprensalatice12d.kinstacdn.com/wp-content/uploads/2021/07/17726988w.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.laprensalatina.com/toyota-buys-us-startup-for-next-gen-driverless-navigation-system/amp/",
-      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/toyota-buys-us-startup-for-next-gen-driverless-navigation-system/amp/",
-      "publishedDateTime": "2021-07-15T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "La Prensa Latina",
-        "domain": "laprensalatina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

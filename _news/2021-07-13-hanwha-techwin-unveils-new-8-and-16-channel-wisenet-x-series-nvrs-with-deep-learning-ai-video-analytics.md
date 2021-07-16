@@ -8,8 +8,8 @@ webUrl: "https://www.sourcesecurity.com/news/hanwha-techwin-wisenet-x-series-nvr
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/hanwha-techwin-wisenet-x-series-nvrs-deep-learning-ai-video-analytics-co-1437-ga-co-13220-ga-npr.1626162967.html"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.sourcesecurity.com/img/news/612/wisenet-cameras-helps-protect-mfg-s-electric-vehicle-ev-charging-hubs-920x533.jpg"

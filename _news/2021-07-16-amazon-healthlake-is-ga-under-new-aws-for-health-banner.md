@@ -54,20 +54,6 @@ related:
         width: 800
         height: 294
         isCached: true
-  - title: "AWS Announces General Availability of Amazon HealthLake"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon HealthLake, a HIPAA-eligible service for healthcare and life sciences organizations to ingest,"
-    publishedDateTime: 2021-07-15T14:57:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-health-coronavirus-pandemic-a6577a90cb304bcf90fa8b9af7a85b90"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 56
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AWS launches Amazon HealthLake into general availability"
     excerpt: "“In their daily practice, doctors need a complete chronological view of patient history to identify the best course of action,“ AWS artificial intelligence and machine learning evangelist Juli ..."
     publishedDateTime: 2021-07-15T19:20:00Z
@@ -81,6 +67,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/AWS.png"
         width: 1024
         height: 598
+        isCached: true
+  - title: "AWS Announces General Availability of Amazon HealthLake"
+    excerpt: "Amazon HealthLake enables healthcare organizations to store, transform, and query health data in the cloud using machine learning for a complete picture of patient and population healthThe new service is part of AWS for Health,"
+    publishedDateTime: 2021-07-15T16:00:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-07-15/aws-announces-general-availability-of-amazon-healthlake"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 54
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
         isCached: true
   - title: "Amazon announces availability of HealthLake"
     excerpt: "Internet services giant Amazon Web Services has announced that its HealthLake cloud-based data repository is now available for use by healthcare and life sciences organizations."
@@ -125,6 +125,6 @@ related:
         height: 600
         isCached: true
 
-secured: "cTx5/qNfDaiCT0vNrv6mzXWfiyeGxI2tAtTJokVSddffNpW6O6dALl21AW0MDmu9USQIS0JyOWCMI/XlJZwgKm8BPLvREl5aGQuIPyOW5yokI7Dc6nUrVbb/chz3TWMFf+hycz9gRhyxd/R6ZxSvua94FtL6X/HPpec3omTqaaGF8C/5ry1wV3hbBju7dsbmwfQz0ZEYiY1B93D/rmBjv52HW+LoQ3ldghQIflPXjMgvlToMYMyTZ0Qqg3tLM3fFqu68uI+UDg7W5FmBQA/3/GVUcd0km8bOJXKFMN7h7lkFdiv2oUnSb6a39dQxJ4lb0t8T3UJSy/+4UdaxH6t1ig2fKfDq1oGHw99CtJ/FrbU=;XHpi9eismaycYWOXJsTz8g=="
+secured: "7f/hkULZiEOZjEJ72oDxEZeM7Pp0vUJNn07FX8qWcqG42uwua6jyyy/0m8nopMeRuYhOD0K+fLCCWSkitxxXi3GajD5iyclEmRy4gcwHGK0Wg92XXrGFzFovf4Y49C0cWHbvb+UMRQ/b3YOoni9Ma/W3h9NWRoh9ZzjkkVoUvSgeSkNSFitoWqMJvarqGCEf7CrQ0cc7m3lVWZM5gxSCLfLyttoL1pBoYuHzpxfqsvj+VaePE1dfMThSY9to7tQlXna13d2cKvTH1SmpY4HQOz+sbfHY6c/hbqMI1Jv7p5lovu4h7aQjki4+DsEhTQ7aNFLU5vhJ7YLDPZZgxJwzZ/4xmBt35B3bWQ5IuTfEvtw3FAczW6J7M1arZQUkSemPw/PWcaaWB3eqLdj+LIC5pFTovUQ0M2yKYJpRbn1pv4XgzLPjil/rY863Jae2iOTqkT46/+plwOrEn5qCR6kMomKNaXayFPogiVXZlrRZZVu3R+YZvS+pB12lQjgQYZadhCwPLF8fU0f9NprRj8bnHQ==;B0L7Erm6XwItgFZLZerPfA=="
 ---
 

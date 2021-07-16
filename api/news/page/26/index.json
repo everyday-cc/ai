@@ -2,6 +2,58 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-06-24-electric-volvo-xc90-will-boast-lidar-ai-driven-safety-technology.md",
+      "title": "Electric Volvo XC90 will boast lidar, AI-driven safety technology",
+      "excerpt": "Volvo's set to continue its electric march with a new XC90 SUV, ready for a reveal next year. However, on Thursday, Volvo said the electric SUV will boast advanced safety and autonomous driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/electric-volvo-xc90-lidar-ai-safety-technology/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/electric-volvo-xc90-lidar-ai-safety-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/zoE8z4QBx3Hvzw9avInBWszZ18M=/2021/06/24/4ab1c47f-b961-4ef3-b843-db490be81798/ogi-volvo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/electric-volvo-xc90-lidar-ai-safety-technology/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/electric-volvo-xc90-lidar-ai-safety-technology/",
+      "publishedDateTime": "2021-06-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-nanotech-and-ai-could-hold-key-to-unlocking-global-food-security-challenge.md",
       "title": "Nanotech and AI could hold key to unlocking global food security challenge",
       "excerpt": "Precision agriculture' where farmers respond in real time to changes in crop growth using nanotechnology and artificial intelligence (AI) could offer a practical solution to the challenges threatening global food security,",
@@ -1083,49 +1135,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-architectural-considerations-for-ai.md",
-      "title": "Architectural Considerations For AI",
-      "excerpt": "However, the architecture of the GPU has certainly evolved. The predominant GPU architecture in the data center today looks more like an AI chip, something designed from scratch, compared to a GPU from 2016.” The same is true for FPGAs that now contain ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/architectural-considerations-for-ai/",
-      "originalUrl": "https://semiengineering.com/architectural-considerations-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/cropped-multi-AdobeStock_183702819-1-2-21-original-copy-1024x551.jpg",
-          "width": 1024,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

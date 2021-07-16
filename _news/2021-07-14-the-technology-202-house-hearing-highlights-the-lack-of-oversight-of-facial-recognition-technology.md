@@ -161,6 +161,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Black teen forced to leave skating rink after facial recognition tech misidentifies her"
+    excerpt: "A local roller skating rink in Michigan has come under fire using facial recognition software that misidentified a Black teenager."
+    publishedDateTime: 2021-07-16T00:13:00Z
+    webUrl: "https://thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/"
+    ampWebUrl: "https://thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 51
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/07/LamyaRobinson.Screenshot-scaled.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "SoftBank backs facial-recognition startup"
     excerpt: "SoftBank Group is leading an investment in AnyVision Interactive Technologies that values the facial-recognition company at over $1bn"
     publishedDateTime: 2021-07-12T08:55:00Z

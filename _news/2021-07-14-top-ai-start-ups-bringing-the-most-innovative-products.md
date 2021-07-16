@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Robotics And AI Will Reshape The Life Sciences Buildings Of The Future"
+    excerpt: "Robotics and AI are changing life sciences workspaces, challenging life sciences developers to adapt to these emerging technologies."
+    publishedDateTime: 2021-07-16T00:06:00Z
+    webUrl: "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai-will-reshape-the-life-sciences-labs-of-the-future-109563"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 69
+    images:
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2021%2F07%2F60f0a5516ee89-thisisengineering-raeng-mf6gb6hv5ou-unsplash-2.jpeg&width=1200&sign=WKj1WTXyhuhiludNCGLnB5eA_19OTjhPg0lpXHPeci4"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The smart role of Artificial Intelligence in today’s world"
     excerpt: "Artificial Intelligence (AI) has been redefining society in ways we have never anticipated. Technology is clinging to us in every walk of our lives, right from unlocking our smartphones to our day-to-day activities,"
     publishedDateTime: 2021-07-12T05:38:00Z

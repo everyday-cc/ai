@@ -88,6 +88,15 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "Singapore fintech start-up ADVANCE.AI named in global Fintech Power 50 list in 2021"
+    excerpt: "ADVANCE.AI, a Singapore -based artificial intelligence (AI) and big data company in Asia, was named in The Fintech Power 50 list which was unveiled on the main stage of the ongoing Fintech Week London on Tuesday 13th July."
+    publishedDateTime: 2021-07-14T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-singapore-fintech-start-up-advanceai-named-global-fintech-/2021/07/14/9409583.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "WsaecF+bPdKfSZASfwpB+3SHxHQvuNetwRAgbBz/t0iidVlV0mSwxUiZrSQKqDJEMWF+Gn91DTFayuWIW/S8oI0W6O+mPO5GQ12cJkiawmigvShrQxa3PPFNvPxBfta+ZyTx51cwFePOXOVwj1291ZOxnIDmd3zaTfdhRRpaWrkDeDuHd/KsaGgLe2RdEZAfrnF0roJlp8FYdorhXxGjeimEVufboZa05Dn3R6pdudyTsPdAuQp1OOFsBDJOvHeN7rf1M3DIF+qCJg5VHvNuJWuG330rYFuMFha67u71RWIOKkmXqaghtJhS9m77T2W+mZbx3rmW3Ukrb2iOr5apGCnn4SRbGCeydWjmhkRnnlbO3J2lyBzF3Jslbzu48qJrf5NPd5ORGvehv1dxYW2EJbht+qRr+R7NAbaJZ1S7DDzSnBUOTA51pGcGkoBcudCHVEcT7yMmo+UaxdHsouvy8BjXcwVoDBpHnWhA1lXqsjvnS6g0RIPgOnWqST4fsYPWTAP4o0hIHU2rqRqxWTEZrg==;KhPV9KS3kVpztYjNJ/SFqw=="
 ---

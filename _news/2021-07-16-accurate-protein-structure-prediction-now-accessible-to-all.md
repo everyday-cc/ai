@@ -2,27 +2,25 @@
 category: news
 title: "Accurate protein structure prediction now accessible to all"
 excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
-publishedDateTime: 2021-07-15T18:03:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-07/uows-aps070921.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uows-aps070921.php"
+publishedDateTime: 2021-07-16T01:38:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/07/210715142340.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/07/210715142340.htm"
 type: article
-quality: 24
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/270310_web.jpg"
-    width: 720
-    height: 480
-    isCached: true
 
 related:
   - title: "New, neural network offers accurate prediction of protein folding"
@@ -54,6 +52,6 @@ related:
         height: 720
         isCached: true
 
-secured: "HkNi4V4l1Iy18uMov1petjswBTxwOaednDFO7tcC8oDudgI75zxXm8S5YslCDFQ5gorjSJf0Z1gFvtvSwG1jtwZ8Y7ZRiYlCgKKDRwwPoe7/MR9StBJ/Jhs8RIJiXdLVYlvHgz0AEmlYj2pck5LFI4+8bTVyLLXoEnXoLXzDUEbYTbGNriErevfSkV9WWU32xRswgEsXAB7+7Xy4LpcwZiH1RCRW0it/bOtPrwxzcEJ9GghS3HOWVTEWp0L+GRGRdBMXv7Mkd458Tcex1qp5aTGguGVFnj6Aff07SHHbl9yDLsiihwjejfEzi8GaepZCEBVFcNdU9O1K8lHXQVJcuZPclFbHoOAL6znCJ8i5W5jrS/P+bXPl8TC5wSKEgfYWMHyMKsdoThdFDhkfCU0QyQ1FnSmmywpc4Sf8uWs0OKBODt5rmcw6bX288159ao5waLHoRyKHTUhO2ezOMOrLff5fcekgjmJnV3hgNvvowIkOP3XG0BHl4BfJThYL6xKWOOVBW5tjlXRQwyiFYEsvzA==;/Ab4VLrXafj6LSpRlz1LPw=="
+secured: "jD+aUn/g+w38MwobnhN2kQ7Fs22Ewu3uNGxjiNYY4NBKmfNJgmiDh+ulevcxALJBq4oBpYINkYhGTaXOFrJc/Bb70abBv1LQQx6bpZ+wnwwVfAsrpdjqaE00LWWLU30BSndTxLXZ56Kohp2/Z45MczhqTsPCivNpZ8jBwTTwtFSeH73v/R6sA4A8/IgogK6QWfz1sglM6TGt4bvc1o0FA7p2P6ZwtUQymPfuC2vRR7ozt2nPGiUusPB+kpRnkxcGHitx7u3w46TDG7AcTTCdtu3fRQYxzU3svWYI2HPVVsTvZ7E6okFuFpBH0OA/4/6xbiKHoVfXMvuwjyh65updyLoZeUrOFvn54KTywfMerqU=;Z5yUMgXRVcSQy8iahfc7/A=="
 ---
 

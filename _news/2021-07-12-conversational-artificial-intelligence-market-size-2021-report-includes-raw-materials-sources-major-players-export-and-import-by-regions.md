@@ -53,6 +53,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Project Management Professionals Working in Financial Services Reveal Biggest Concerns and Opportunities for Working Post-lockdown - New APM Study Rev"
+    excerpt: "Over a quarter (28 per cent) of project managers working in financial services sector see new ways of working as the biggest opportunity67 per cent of project professionals say their organisation is planning on returning employees to the office post-lockdownThe majority (75 per cent) of those whose employer is planning a return to the office say they feel anxious about itLONDON--(BUSINESS WIRE)--Wi."
+    publishedDateTime: 2021-07-15T13:02:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=500455"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "0K3OwlO7LWCkuzOL4uBP8zDgJdwJVxUcaCkbY/7Lk4UFOQrKcf3NHzRmKnVKJTYodFmh3W6AlKYFjHYd5L57Z0JLUZC30WX5vDvxsmkbRDAORHEodjAnP9uk8HSkmvRfbIrp1ZFpP9WpcnGKWd45fclGxdrFw1Hrfl9sfkQLCPD/3pk68hHpgV7Mj7J4y9yzuBdcF0tTz1q2DiJVrkvnKWiqViraFmttPqPAMMPR1TjpCNSaj6zIjv82ew8jB9pqG3VKdkU9rNFmzvZZy0wGhJVRNKMMESNG+3gM3G7YT3tvtv57g05VNYAxYn8djO+wLtfqMElct6Tlop62UGVZxlxN0Bp3vuIUZ7dnTK6lOlQ=;rYZ2jtHP75mjQRmhuYF9tA=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Skating Rink Boots Black Teen Misidentified by Facial Recognition System"
+    excerpt: "In what civil rights advocates on Thursday framed as yet another example of the need for reforms by companies and governments alike, an ice skating rink in Michigan turned away a Black teenager after its facial recognition system misidentified her as ..."
+    publishedDateTime: 2021-07-16T00:18:00Z
+    webUrl: "https://www.commondreams.org/news/2021/07/15/skating-rink-boots-black-teen-misidentified-facial-recognition-system"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 38
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-07/lamya-facialrec-2600x1361.jpg?h=762e2cd3&itok=E1oamldt"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Av7n+2C+gCq2+VU+D81rQ9aO0kNGhEdxsYmp/irHfCGaKqKPjfI4j+t2Ms00rgGbZ+LLzC+NekYeJ/vbIm7t1NkOUph7UjbeE4vF0MoRtYYyPei2wqBSpdN6Um4zlnwzwor5yOXytPNucKDMzo0qFhulvhuHlzgQoPiqe39QYGrH2/kb8tH27xw4REYWzQQsA3LiKr1nFa9/Bqo67zIf+D+xw46rsJ4ZW1OR5b2Oqwo2gjrBXIRN9QPqj9KUSfzJf/Eel2mU/HPgP/07XvpWgv4kPJ9ZR61/po7J7teZYwngeGdQ9HTqorfwFX1JhQ4HgPOV9kWF7ehYBMpvMhVF8Oh6ftfSRWGrx50banjq6D478HgHHQM1fohRRCe7sjjUqImfxbnUhtvd8v02pI0lVpJwpEZG5bbSP7BnaFlokP8mQuUtxfQx/5um8sSVEOzNXF3zxv52LD8adTlOCPOo79jU6H9mTi1sCGQSUSOwiAucvnCnnvm71ngOehNFNFN4wHLzfvT9JLYc1zQuaeVWsQ==;nF4w8I2v/oyGgU0A2WPvbA=="
 ---

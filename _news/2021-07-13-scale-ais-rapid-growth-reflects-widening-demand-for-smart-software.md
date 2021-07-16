@@ -43,6 +43,20 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "Edge AI Market Size and Growth Prospects 2019 – 2027"
+    excerpt: "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry"
+    publishedDateTime: 2021-07-15T20:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-size-and-growth-prospects-2019-2027-2021-07-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Gaming Market Analysis By Industry Size, Share, Revenue Growth and Demand Forecast To 2027"
     excerpt: "The rise of artificial intelligence is an equally important stepping stone to developing smarter, more interactive, and as realistic as possible games. Whether it's racing car games, shooting games, or strategy games, most video games all have different ..."
     publishedDateTime: 2021-07-12T12:06:00Z

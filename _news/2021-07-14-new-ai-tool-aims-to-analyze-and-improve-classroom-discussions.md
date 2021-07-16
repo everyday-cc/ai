@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-13T17:51:00Z
 originalUrl: "https://www.datanami.com/2021/07/13/new-ai-tool-aims-to-analyze-and-improve-classroom-discussions/"
 webUrl: "https://www.datanami.com/2021/07/13/new-ai-tool-aims-to-analyze-and-improve-classroom-discussions/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/shutterstock_classroom_school.jpg"
