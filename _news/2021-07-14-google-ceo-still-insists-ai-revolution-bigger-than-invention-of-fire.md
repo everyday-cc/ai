@@ -2,21 +2,21 @@
 category: news
 title: "Google CEO Still Insists AI Revolution Bigger Than Invention of Fire"
 excerpt: "The artificial intelligence revolution is poised to be more “profound” than the invention of electricity, the internet, and even fire, according to Google CEO Sundar Pichai, who made the comments to BBC media editor Amol Rajan in a podcast interview that first went live on Sunday."
-publishedDateTime: 2021-07-14T10:00:00Z
+publishedDateTime: 2021-07-14T14:00:00Z
 originalUrl: "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454"
-webUrl: "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454"
-ampWebUrl: "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454/amp"
-cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454/amp"
+webUrl: "https://www.cnbc.com/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html"
+ampWebUrl: "https://www.cnbc.com/amp/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html"
 type: article
-quality: 87
-heat: 117
+quality: 187
+heat: 217
 published: true
 
 provider:
   name: Gizmodo
   domain: gizmodo.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
+    - url: "/assets/images/organizations/gizmodo.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +24,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/94963788f099515ddbb3ce8fcc35ad7b.jpg"
-    width: 800
-    height: 449
+  - url: "https://image.cnbcfm.com/api/v1/image/103991584-RTSQQJD.jpg?v=1529452147"
+    width: 3500
+    height: 2425
     isCached: true
 
 related:
@@ -75,6 +75,6 @@ related:
         height: 385
         isCached: true
 
-secured: "FWyubFf5pCkILEu6SYAtUdQ1XOl0Hjt8fozBCzbSIQimFdy5X3vDuCXd8ht4v4QzRj7PRMIrnl5zNkjh4Jc2uwb10TZuN3732NDdQc1KXGnZqWC+OBy7UdXiEEtxn3MV/O0uowgN4RaHlFVTHyTI+sHZX4nmx4E6JhFCpa7NfwC9DGPQgDJorDWa4Myhx/anNgZy0o5p0ZqTy5by1RPTjmYi94c1SBFQVa5daTgUrCvy/He17BgAH1m0X/nj1hcjdcASv5YxaSTZYALjSrDLAWGtNk2xw0Ku44Wh24VLPffLDeu6Nr/2CaxfGzEMNtO92zevazdGTUJGAjazyVdWm5zz1pAkmZ0UQJasFevuYP96ahftU4qXhMMIHJ1vrlbHu5MU3ytlCM/elhB8cR0843+nNeUUs2xFzV4rZsINWN1fI41bI9N1Diyw9F3i2vRn5X10YPPpD0/yKVnUvS1eW7EspYrfm8D2SNN9BjN9xxikPIBjLZKSCd60+vrKPEZSQoPtZuPMtpt2qqjlZn5AQw==;59PIvCfwRafD0e6EMzspSw=="
+secured: "bBpb/C6rB1g2n6s34mC+hyNkd0ep8iHvTDiwNdrujD+mjLhfUUWrqst7Pj9/2eBDVVvhcHE8lSjZNhPHzRFNDypPLEqb4psEvZIBgO7ouwIgs6Vm7MUDq4LM+WwcteuTuQ9ybG6izOBmKQuv/jlimDysG9s6M9/AgYUJw0VJA8at5gQBdLfvgb57PZIro6AgynE/PnyOWqHJktHGXenIl2iU39rt3/Li0b1XYIqlETJVVUK3XYaU8BoPqgK3+6Mv/L72mZcjMxhpQ4mSKlCV1rX86MvPx+5KIQJkqEci/yFCanisGsn+iKdlq6r4b4jzV4b7920kSCpz9AEACexDDArDC13E7fgicjdHeTuGOak=;UVOuEuooJnIgxEoraozo7g=="
 ---
 

@@ -30,18 +30,18 @@ images:
 
 related:
   - title: "Worldwide Robotics Industry to 2025 - Co-Bots Drives Robotics Market"
-    excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering. The Global Robotics Market was valued at around US$"
-    publishedDateTime: 2021-07-16T11:45:00Z
-    webUrl: "https://www.lelezard.com/en/news-19906273.html"
+    excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to 2025\""
+    publishedDateTime: 2021-07-16T11:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-robotics-industry-to-2025---co-bots-drives-robotics-market-301335516.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 54
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
   - title: "Machine Translation Market in APAC with COVID-19 Impact by Growth Potential, Manufacturers, Production, Revenue and Forecast 2026"
     excerpt: "APAC machine translation market is set to witness significant growth during the forecast period of 2020-2026, thanks to the consistent increase in the adoption of various artificial intelligence (AI) technologies and smart devices."

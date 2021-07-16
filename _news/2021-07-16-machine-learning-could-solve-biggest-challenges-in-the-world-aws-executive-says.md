@@ -8,8 +8,8 @@ webUrl: "https://www.thehindu.com/sci-tech/technology/machine-learning-could-sol
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says/article35358781.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says/article35358781.ece/amp/"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://www.thehindu.com/sci-tech/technology/qku2pe/article35358812.ece/ALTERNATES/LANDSCAPE_615/Kanishka-AWS"

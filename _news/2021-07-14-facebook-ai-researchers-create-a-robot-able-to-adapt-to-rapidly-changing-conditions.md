@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-abl
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/"
 type: article
 quality: 100
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_13/3346831/200512-twitter-office-shadow-ew-415p.jpg"
         width: 2500
         height: 1473
+        isCached: true
+  - title: "Facebook’s BlenderBot chat AI no longer has the mental capacity of a goldfish"
+    excerpt: "Last April, Facebook’s AI research lab (FAIR) announced and released as open source its BlenderBot social chat app. While the neophyte AI immediately proved far less prone to racist outbursts than previous attempts, BlenderBot was not without its ..."
+    publishedDateTime: 2021-07-16T13:31:00Z
+    webUrl: "https://www.engadget.com/facebooks-open-source-chatbot-no-longer-has-the-mental-fortitude-of-a-goldfish-133039125.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 66
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-07/9cfb8e90-e59d-11eb-abef-299d17b46332"
+        width: 5390
+        height: 3498
         isCached: true
   - title: "Facebook is ditching plans to make an interface that reads the brain"
     excerpt: "The reason for the craze around brain-computer interfaces is that companies see mind-controlled software as a huge breakthrough ... Paralyzed patients with such “implants” can deftly move robotic arms and play video games or type via mind control."

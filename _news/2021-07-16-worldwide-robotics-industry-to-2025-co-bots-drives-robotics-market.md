@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Worldwide Robotics Industry to 2025 - Co-Bots Drives Robotics Market"
-excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering. The Global Robotics Market was valued at around US$"
-publishedDateTime: 2021-07-16T11:45:00Z
-originalUrl: "https://www.lelezard.com/en/news-19906273.html"
-webUrl: "https://www.lelezard.com/en/news-19906273.html"
+excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to 2025\""
+publishedDateTime: 2021-07-16T11:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/worldwide-robotics-industry-to-2025---co-bots-drives-robotics-market-301335516.html"
+webUrl: "https://www.prnewswire.com/news-releases/worldwide-robotics-industry-to-2025---co-bots-drives-robotics-market-301335516.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-    width: 421
-    height: 421
+  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
     isCached: true
 
 related:
@@ -90,6 +90,6 @@ related:
       domain: openpr.com
     quality: 17
 
-secured: "vh4gGwhwg53FOog4ziHiAN3zHHH9SCvjSVIukly/aHAhgl2ml63HMnlf9OFbFvbXG/3zGLYSS+OM60DLDBWt+H8YgwlJpdzXhXDxQQRBhrCuez0sdj+gcPoBNIdylfV22zr+FIoRvE2wfIc9CNi8jb2ShXexK6l2MjosehrqIY4MmrGDd+ZdFp7OFAwLKiW6ytz5q9O3XNgZEwRc+brY4RG76R9b8UzqUb72XjThkg0gJ7FhbTMq4mfUB3sQOSzDaTXq9dlxKPvMW9ArK/YneDmeT7LS/X/7sH2oYvE4x7ffa2Kfz25yMeO3qT0Yol80rTCv/WeLqsX61itVCZTJiGKng3NQkMF80hetTV/BphM=;KLyHreasNoPdfuz14AAmKw=="
+secured: "50fqytX5fw4E2XiTHfPYCeq2mFywBEiwHd9kiiKyz6XU4Ja7LsYdOtVcem+k7A7IRBvRQv8Q6wP9LVUMdWApIB0eR6NK4C5lqTziQU3+wKXaWleeojnZfHZrd4Ay6ttJiqZCJ1Rf1RmuqCJpX7sx3UoXGXbyRIxMTCfabBirHTtSHm9kFwAwsqojWEFQJpLZrlVmWmCCFeCkmjiJ2pWcea+xkXiXvQEDkNf2GTvVp+IeVDYPKFdQJyFHqK0DsmE28TXvfmNvrTmsJx+VWb2ADGMpvikdTD/6dXq1FtpwRXv+c38rqQfbC1uulcR10IBybqGJqis2Ibi5YQ1Wk/vZjCb1F/Q0GzoQCciOGSz6BG4=;KAn72RsZF3bFtS88+ikIew=="
 ---
 

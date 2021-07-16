@@ -299,6 +299,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Japan Airlines Implements \"Face Express\" Facial Recognition Technology for International Flights"
+    excerpt: "JAL participated in a successful trial of a new boarding procedure called, “Face Express ” that utilizes facial recognition technology developed by Narita International Airport Corporation (NAA) and Tokyo International Airport Terminal Co."
+    publishedDateTime: 2021-07-16T13:24:00Z
+    webUrl: "https://www.aviationpros.com/airlines/press-release/21230680/japan-airlines-co-ltd-jal-japan-airlines-implements-face-express-facial-recognition-technology-for-international-flights"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 21
 
 secured: "b9vHE0Isr9+8SjpAbpyEJNawhv7KyCH2GL0Li36jIF2eayatJVAZZcj2xVbOnLrbaTfHgrv96p/9+rpmH8mDHOKkvvWxV+yDsL+Nv/yIpskmgada6h/QwIZNObPUO5Q7RM+7zvq2pTZJkraQoweQwLn72IIEgqjdgGK4hc64JqMZEQ2w/K3AtOE2pYrJfQTZYnZCKh8QAX0ExbjtCfKmNNRzJW6JFB8of0z3CgSKvO/fgSE3Bws/UIWCI4w33C4PCUg7aDz+cFSG9l5L1+fpxtCtzBCzkKBHrImvroYNpLcSpJ9AiIMaovVs/cKHs3ipFckHzVJpc0b05Fr1ujqf+YICyY+URABd8FIz9bA7mcCUETEF0EFBMLAYAmDGvgWyMUZtS3SKHfppAR1loCDPPlY5nrVd7MZ3RLpfB4Z2ug5jucFCz3EGmCUL597/yYNVT4qw1vpyFbOhTvfjpTEZfdN7SY+UgRAN1QQm2vg89Kb8/vWyopWL7xBCafivvh2G/TtdCbdQlRAPKhX+GEDanA==;rNTV7uMpOs2cpl83dyBtUA=="
 ---

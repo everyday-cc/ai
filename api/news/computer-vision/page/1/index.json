@@ -97,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-15-a-black-teenager-was-kicked-out-of-a-skating-rink-after-a-false-facial-recognition-match.md",
-      "title": "A Black teenager was kicked out of a skating rink after a false facial recognition match",
-      "excerpt": "A Black girl was kicked out of a skating rink in Michigan after its facial recognition system misidentified her, according to a new report.",
+      "path": "_news/2021-07-15-black-teen-barred-from-skating-rink-after-facial-recognition-camera-misidentified-her.md",
+      "title": "Black Teen Barred From Skating Rink After Facial Recognition Camera Misidentified Her",
+      "excerpt": "A Black teenager's parents are considering taking legal action after she was barred from a skating rink because the venue's facial recognition technology misidentified her. Juliea Robinson dropped off her daughter,",
       "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/",
-      "originalUrl": "https://www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/",
+      "webUrl": "https://www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023",
+      "originalUrl": "https://www.msn.com/en-us/news/crime/black-teen-barred-from-skating-rink-after-facial-recognition-camera-misidentified-her/ar-AAMc9qg",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 212,
       "tags": null,
       "images": [
         {
-          "url": "https://uploads.dailydot.com/2021/07/Black-Girl-Falsely-Identified-By-Facial-Recognition-At-Skating-Rink.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
+          "url": "https://d.newsweek.com/en/full/1846724/facial-recognition-camera.jpg",
+          "width": 3000,
+          "height": 2000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -119,13 +119,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/?amp",
-      "publishedDateTime": "2021-07-15T09:36:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023?amp=1",
+      "publishedDateTime": "2021-07-15T07:15:32-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
+        "name": "newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023",
+        "domain": "newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023",
         "images": null,
         "publishers": null,
         "authors": null
@@ -135,8 +135,8 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -200,7 +200,7 @@
       "originalUrl": "https://wwd.com/business-news/technology/civil-rights-groups-protest-facial-recognition-tech-stores-1234882271/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 364,
+      "heat": 374,
       "tags": null,
       "images": [
         {
@@ -295,7 +295,7 @@
       "originalUrl": "https://www.detroitnews.com/story/news/politics/2021/07/13/house-panel-hear-michigan-man-wrongfully-accused-facial-recognition/7948908002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 78,
       "tags": null,
       "images": [
         {

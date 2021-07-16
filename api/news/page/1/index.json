@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-16-in-pursuit-of-a-career-in-healthcare-she-became-an-engineer.md",
+      "title": "In Pursuit of a Career in Healthcare, She Became an Engineer",
+      "excerpt": "which provides artificial intelligence-enabled analysis. The Wall Street Journal recently spoke with Ms. Lanouette about how her pursuit of a career in healthcare led her to engineering. Here’s her story, edited and condensed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200",
+      "originalUrl": "https://www.wsj.com/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-368920/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200",
+      "publishedDateTime": "2021-07-16T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-facebooks-blenderbot-20-bot-surfs-the-web-for-knowledge.md",
+      "title": "Facebook’s BlenderBot 2.0 bot surfs the web for knowledge",
+      "excerpt": "Facebook's BlenderBot 2.0 chatbot draws on the internet to build on its knowledge of sports, movies, TV shows, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/amp/",
+      "publishedDateTime": "2021-07-16T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-what-ever-happened-to-ibms-watson.md",
+      "title": "What Ever Happened to IBM’s Watson?",
+      "excerpt": "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson. Credit...Video by Maria Chimishkyan Supported by By Steve Lohr A decade ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html",
+      "publishedDateTime": "2021-07-16T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-why-is-ai-harder-than-we-think.md",
       "title": "Why is AI harder than we think?",
       "excerpt": "A new paper explains why AI is harder than we think - and predicts another AI Winter on the horizon. How well does the argument hold up? Let's delve in. \"Why AI is harder than we think\" - that's the title of a recent paper by Melanie Mitchell at the ...",
@@ -148,7 +304,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/377515",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -251,7 +407,7 @@
       "originalUrl": "https://www.thehindu.com/sci-tech/technology/machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says/article35358781.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -283,7 +439,8 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {
@@ -338,59 +495,6 @@
         "AI",
         "Natural Language Processing",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-what-ever-happened-to-ibms-watson.md",
-      "title": "What Ever Happened to IBM’s Watson?",
-      "excerpt": "He thought building a computer to tackle a question-answer game could push science ahead in the A.I. field known as natural language processing, in which scientists program computers to recognize and analyze words. Another research goal was to advance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/16/business/16Watson-01/merlin_190903830_f0aa9789-8002-4443-889b-cf52a2291890-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html",
-      "publishedDateTime": "2021-07-16T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     },
     {
@@ -487,7 +591,7 @@
       "originalUrl": "https://www.cnet.com/news/anthony-bourdain-documentary-used-ai-to-re-create-his-voice-after-he-died/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -738,7 +842,7 @@
       "originalUrl": "https://theconversation.com/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -930,64 +1034,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-15-a-black-teenager-was-kicked-out-of-a-skating-rink-after-a-false-facial-recognition-match.md",
-      "title": "A Black teenager was kicked out of a skating rink after a false facial recognition match",
-      "excerpt": "A Black girl was kicked out of a skating rink in Michigan after its facial recognition system misidentified her, according to a new report.",
+      "path": "_news/2021-07-16-self-driving-startup-aurora-to-go-public-in-13-bln-spac-deal.md",
+      "title": "Self-driving startup Aurora to go public in $13 bln SPAC deal",
+      "excerpt": "Self-driving technology startup Aurora will go public through a deal with a blank-check firm backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus, giving the combined company a pro-forma market capitalization of $13 billion.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/",
-      "originalUrl": "https://www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/",
+      "webUrl": "https://www.reuters.com/technology/aurora-go-public-via-11-bln-merger-with-mark-pincus-reid-hoffman-spac-2021-07-15/",
+      "originalUrl": "https://www.reuters.com/technology/aurora-go-public-via-11-bln-merger-with-mark-pincus-reid-hoffman-spac-2021-07-15/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 304,
       "tags": null,
       "images": [
         {
-          "url": "https://uploads.dailydot.com/2021/07/Black-Girl-Falsely-Identified-By-Facial-Recognition-At-Skating-Rink.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/?amp",
-      "publishedDateTime": "2021-07-15T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion.md",
-      "title": "Self-Driving Tech Developer Aurora Raising $2 Billion In SPAC Listing That Values It At $11 Billion",
-      "excerpt": "Funds from the deal will help the company get its self-driving truck technology ready for commercialization by late 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f05e1233162bebb522ee31%2F0x0.jpg",
+          "url": "https://www.reuters.com/resizer/Xu95E0JZiob2nn0sNFNMHd3_SrU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MA62E5JBJRLM3C7MQOMHMSKXFE.jpg",
           "width": 1200,
-          "height": 675,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -995,16 +1056,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/amp/",
-      "publishedDateTime": "2021-07-15T09:17:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T10:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1179,49 +1240,6 @@
         "Natural Language Processing",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-researchers-harness-brain-waves-of-paralyzed-man-to-communicate-with-him.md",
-      "title": "Researchers Harness Brain Waves of Paralyzed Man to Communicate With Him",
-      "excerpt": "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a computer screen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/buzz/researchers-harness-brain-waves-of-paralyzed-man-to-communicate-with-him-3967463.html",
-      "originalUrl": "https://www.news18.com/news/buzz/researchers-harness-brain-waves-of-paralyzed-man-to-communicate-with-him-3967463.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/07/1626356316_untitled-design-8.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/buzz/researchers-harness-brain-waves-of-paralyzed-man-to-communicate-with-him-3967463.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/researchers-harness-brain-waves-of-paralyzed-man-to-communicate-with-him-3967463.html",
-      "publishedDateTime": "2021-07-15T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -27,37 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Michigan man wrongfully accused with facial recognition urges Congress to act"
-    excerpt: "A House Judiciary panel heard testimony from Robert Williams, who was mistakenly arrested by the Detroit Police Department based on flawed use of facial recognition software."
-    publishedDateTime: 2021-07-14T00:26:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/07/13/house-panel-hear-michigan-man-wrongfully-accused-facial-recognition/7948908002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7948908002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7948908002"
+  - title: "Black Teen Barred From Skating Rink After Facial Recognition Camera Misidentified Her"
+    excerpt: "A Black teenager's parents are considering taking legal action after she was barred from a skating rink because the venue's facial recognition technology misidentified her. Juliea Robinson dropped off her daughter,"
+    publishedDateTime: 2021-07-15T14:15:32Z
+    webUrl: "https://www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023"
+    ampWebUrl: "https://www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023?amp=1"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 58
+      name: newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023
+      domain: newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023
+    quality: 152
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/06/24/PDTN/2561defe-e5fd-491e-9364-6dc1104ec2f2-Robert_Williams_1.jpg?auto=webp&crop=5159,2902,x0,y538&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d.newsweek.com/en/full/1846724/facial-recognition-camera.jpg"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "House panel to hear from Michigan man wrongfully accused with facial recognition"
-    excerpt: "A House Judiciary panel is set to hear Tuesday from a Michigan man who was mistakenly arrested by the Detroit Police Department based on flawed use of facial recognition software."
-    publishedDateTime: 2021-07-13T14:04:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/07/13/house-panel-hear-michigan-man-wrongfully-accused-facial-recognition/7948908002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7948908002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7948908002"
+  - title: "Black teen misidentified by facial recognition sparks fears of machine-driven segregation"
+    excerpt: "Likes Werner Herzog films and Arsenal FC. A 14-year-old Black girl has become another victim of a facial recognition failure. Lamya Robinson was kicked out of a skating rink in Michigan after a ..."
+    publishedDateTime: 2021-07-16T13:40:00Z
+    webUrl: "https://thenextweb.com/news/facial-recognition-misidentifies-black-teen-kicked-out-skating-rink-segregation"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 54
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 60
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/06/24/PDTN/2561defe-e5fd-491e-9364-6dc1104ec2f2-Robert_Williams_1.jpg?auto=webp&crop=5159,2902,x0,y538&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-4-2.jpg&signature=17e2e46f79128b69d97db4ae280a63a8"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "A Black teenager was kicked out of a skating rink after a false facial recognition match"
+    excerpt: "A Black girl was kicked out of a skating rink in Michigan after its facial recognition system misidentified her, according to a new report."
+    publishedDateTime: 2021-07-15T16:36:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/"
+    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 50
+    images:
+      - url: "https://uploads.dailydot.com/2021/07/Black-Girl-Falsely-Identified-By-Facial-Recognition-At-Skating-Rink.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "Black Teen Barred From Skating Rink After Being Misidentified By Facial Recognition System"
+    excerpt: "Lamya Robinson was ready to enjoy a Saturday night with friends at the local skating rink, only to be rejected after facial recognition software misidentified her, Fox2 Detroit reported .  \"To me, it's basically racial profiling,"
+    publishedDateTime: 2021-07-15T18:38:00Z
+    webUrl: "https://blavity.com/black-teen-barred-from-skating-rink-after-being-misidentified-by-facial-recognition-system"
+    ampWebUrl: "https://blavity.com/amp/black-teen-barred-from-skating-rink-after-being-misidentified-by-facial-recognition-system"
+    cdnAmpWebUrl: "https://blavity-com.cdn.ampproject.org/c/s/blavity.com/amp/black-teen-barred-from-skating-rink-after-being-misidentified-by-facial-recognition-system"
+    type: article
+    provider:
+      name: Blavity
+      domain: blavity.com
+    quality: 49
+    images:
+      - url: "https://res.cloudinary.com/blavity/image/upload/g_center,w_auto,q_auto:best,g_south_east,x_0/v1626370147/ldeu3kcxsqghwxlynw1w"
+        width: 800
+        height: 450
         isCached: true
   - title: "Farmington Hills man misidentified by facial recognition technology testifies at Congressional hearing"
     excerpt: "The Farmington Hills man who has sued Detroit police after being wrongfully identified by the department's facial recognition technology in a shoplifting investigation is testifying in front of a congressional subcommittee Tuesday."
@@ -75,21 +105,19 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Michigan man misidentified by facial recognition technology warns Congress of risks posed by police surveillance"
-    excerpt: "A Michigan man who was wrongly arrested after being misidentified by facial recognition technology joined expert witnesses who warned a congressional subcommittee about the pitfalls of police surveillance software used to find suspects."
-    publishedDateTime: 2021-07-13T17:44:00Z
-    webUrl: "https://www.mlive.com/public-interest/2021/07/michigan-man-misidentified-by-facial-recognition-technology-warns-congress-of-risks-posed-by-police-surveillance.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2021/07/michigan-man-misidentified-by-facial-recognition-technology-warns-congress-of-risks-posed-by-police-surveillance.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/michigan-man-misidentified-by-facial-recognition-technology-warns-congress-of-risks-posed-by-police-surveillance.html?outputType=amp"
+  - title: "Skating Rink Boots Black Teen Misidentified by Facial Recognition System"
+    excerpt: "In what civil rights advocates on Thursday framed as yet another example of the need for reforms by companies and governments alike, an ice skating rink in Michigan turned away a Black teenager after its facial recognition system misidentified her as ..."
+    publishedDateTime: 2021-07-16T00:18:00Z
+    webUrl: "https://www.commondreams.org/news/2021/07/15/skating-rink-boots-black-teen-misidentified-facial-recognition-system"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
+      name: Common Dreams
+      domain: commondreams.org
     quality: 38
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IWXH4NYTVRCQBC4MUGFDTP37GU.jpg"
-        width: 4904
-        height: 3678
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-07/lamya-facialrec-2600x1361.jpg?h=762e2cd3&itok=E1oamldt"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "3JNa1m5KZXh436biVxgYWQcCjZTxzAC8W+TM+kvUng2V1fFe8XmOeaOHR7qIptL8FnFSwGCUnP+vZB8B/2c8XTiPF46QkXYqb5OkIEeuKObnmb1B1QN2vpeFwj4qNmHenmuGvFWUwNbsSxUWlcfayI5DSGxpHqzY732a63Exp5l0GjYI6BCPQWwvHX7bmXUnHDelFxIAqtNN2xEiV02W4hJwLTKutiUrnxzk0Tqxj1yqq7AX4onJ4pSrh1coWTY7BxfLB4F0yRsjyDwKE66pM3u5xqpVIgqkI7emRABBeBf+q5bqtevVtIyjo1zp0gB/EYmrQ7+/OKUl5lislrbf+CWYmkTjk+JuCYvSALLpRH1f++LOr+OOklGjJhZ66zZmnSdDXUFOY+ULVkHN9SLy1tGlKRjCq55uvi9us6jxBHWgyEg7ILNE+rKwPnQrOJMKmJpiqPc3XUEdd4UnjF1lcc1BWzVJoDrszX7479BLhzavobeVSb83L6ct6gGX7ow8aiUS9vm7VU0ErSVRviaQeQ==;4z+FZbrct6mqPlelF3LV/w=="

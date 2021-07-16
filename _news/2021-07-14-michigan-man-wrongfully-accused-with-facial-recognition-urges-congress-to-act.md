@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.detroitnews.com/amp/7948908002"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7948908002"
 type: article
 quality: 58
-heat: 98
+heat: 78
 published: true
 
 provider:
@@ -43,38 +43,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/06/24/PDTN/2561defe-e5fd-491e-9364-6dc1104ec2f2-Robert_Williams_1.jpg?auto=webp&crop=5159,2902,x0,y538&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Black Girl Banned From Michigan Skating Rink After Facial Recognition Software Misidentifies Her"
-    excerpt: "Recently, a Black teenager was removed and banned from a Livonia, Mich. skating rink. The teen and her parents say the business’ facial recognition software mistook her for another Black girl who had gotten into a brawl there prior to the incident."
-    publishedDateTime: 2021-07-15T23:30:00Z
-    webUrl: "https://www.theroot.com/black-girl-banned-from-michigan-skating-rink-after-faci-1847302114"
-    ampWebUrl: "https://www.theroot.com/black-girl-banned-from-michigan-skating-rink-after-faci-1847302114/amp"
-    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-girl-banned-from-michigan-skating-rink-after-faci-1847302114/amp"
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 46
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/b34fba5a658cdfb01b5a7bfb43c6cd9a.jpg"
-        width: 800
-        height: 452
-        isCached: true
-  - title: "Farmington Hills man misidentified by facial recognition technology testifies at Congressional hearing"
-    excerpt: "The Farmington Hills man who has sued Detroit police after being wrongfully identified by the department's facial recognition technology in a shoplifting investigation is testifying in front of a congressional subcommittee Tuesday."
-    publishedDateTime: 2021-07-13T14:59:00Z
-    webUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress"
-    ampWebUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 43
-    images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
         isCached: true
   - title: "Michigan man misidentified by facial recognition technology warns Congress of risks posed by police surveillance"
     excerpt: "A Michigan man who was wrongly arrested after being misidentified by facial recognition technology joined expert witnesses who warned a congressional subcommittee about the pitfalls of police surveillance software used to find suspects."

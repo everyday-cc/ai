@@ -6,9 +6,9 @@ publishedDateTime: 2021-07-15T17:39:00Z
 originalUrl: "https://www.reuters.com/technology/aurora-go-public-via-11-bln-merger-with-mark-pincus-reid-hoffman-spac-2021-07-15/"
 webUrl: "https://www.reuters.com/technology/aurora-go-public-via-11-bln-merger-with-mark-pincus-reid-hoffman-spac-2021-07-15/"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 154
+heat: 304
+published: true
 
 provider:
   name: Reuters
@@ -119,37 +119,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "'Self-driving Delivery Robot' Caught by Regulations... Concerns Falling Behind in Global Competition"
-    excerpt: "Self-driving delivery robots are developing one after another, but there is still a long way to go before full-scale commercialization due to various outdated regulations. Technology development is sl"
-    publishedDateTime: 2021-07-15T08:23:00Z
-    webUrl: "https://english.etnews.com/20210715200001"
-    ampWebUrl: "https://english.etnews.com/amp/20210715200001"
-    cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210715200001"
+  - title: "Self-driving startup Aurora to go public"
+    excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y, a blank-check firm led by executives including LinkedIn co-founder Reid Hoffman and Zynga Inc. founder Mark Pincus, people with ..."
+    publishedDateTime: 2021-07-15T13:57:00Z
+    webUrl: "https://www.autoblog.com/2021/07/15/aurora-self-driving-cars-stock-ipo-spac/"
+    ampWebUrl: "https://www.autoblog.com/amp/2021/07/15/aurora-self-driving-cars-stock-ipo-spac/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/07/15/aurora-self-driving-cars-stock-ipo-spac/"
     type: article
     provider:
-      name: Etnews.com
-      domain: etnews.com
-    quality: 46
-    images:
-      - url: "https://img.etnews.com/news/article/2021/07/15/cms_temp_article_15171258715300.jpg"
-        width: 600
-        height: 399
-        isCached: true
-  - title: "AEV Summit: Embark focuses self-driving tech on big fleets"
-    excerpt: "DETAILS: Embark Trucks has the longest experience — five years — of running self-driving trucks on public highways. It is offering a bolt-on software that can go on any manufacturer’s truck. It envisions commercial fleets having the technology by 2024 — with no safety drivers."
-    publishedDateTime: 2021-07-14T18:00:00Z
-    webUrl: "https://www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets"
-    ampWebUrl: "https://www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
+      name: Autoblog
+      domain: autoblog.com
     quality: 44
     images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/07/AEV_FC_Alan-Adler_Alex-Rodrigues.png"
-        width: 750
-        height: 419
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/979x551+200+231/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/07/15095713/Press-Aurora-Truck-Pacifica.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "PACCAR, Volvo invest in self-driving tech company Aurora’s $10.6B SPAC"
     excerpt: "Aurora Innovation gets a $10.6 billion enterprise value, the second highest of four autonomous driving software developers seeking to go public."
@@ -176,6 +160,48 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "HeartFlow to go public in $2.8B SPAC merger"
+    excerpt: "HeartFlow said that it will go public by merging with a SPAC called Longview Acquisition Corp. in a deal worth $2.8 billion."
+    publishedDateTime: 2021-07-15T15:03:00Z
+    webUrl: "https://www.massdevice.com/heartflow-to-go-public-in-2-8b-spac-merger/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 24
+    images:
+      - url: "https://www.massdevice.com/wp-content/uploads/2021/07/heartflow-logo-updated.png"
+        width: 770
+        height: 500
+        isCached: true
+  - title: "Self-driving startup Aurora reaches agreement to go public, report says"
+    excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y, a blank-check firm led by executives including LinkedIn co-founder Reid Hoffman and Zynga Inc."
+    publishedDateTime: 2021-07-15T10:34:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-aurora-reaches-agreement-go-public-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Self-Driving Startup Aurora Set to Go Public"
+    excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y, a blank-check firm led by executives including LinkedIn co-founder Reid Hoffman and Zynga Inc."
+    publishedDateTime: 2021-07-15T15:30:00Z
+    webUrl: "https://www.ttnews.com/articles/self-driving-startup-aurora-set-go-public"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/aurora-urmson.jpg?itok=KfxCRdsz"
+        width: 470
+        height: 246
+        isCached: true
   - title: "Self-driving startup Aurora plans to go public with valuation of $11 billion"
     excerpt: "The company anticipates a total valuation of $11 billion. In a statement, Aurora said it expects to have $2.5 billion in cash at closing, raising nearly $2 billion from the transaction. Aurora is led by CEO Chris Urmson,"
     publishedDateTime: 2021-07-15T14:34:00Z
@@ -214,6 +240,6 @@ related:
         height: 630
         isCached: true
 
-secured: "c9LcliN1/MjWZXAFUB5bg7bGGVJTJd5fWR1KZ0WbJ7Fh+nS26Ws/u2cfor8tyTNCRaPtjVnqBJw087po4G+EIUqXmN7XEzZtRBj4ZXHRSdEatG201IHgLbV8ox2DyMOL+8126reueTG6wd9HT9FmsEIW6gKsA2tdNSOO2hA8AYdWHLd4HVpDGOY1I6P5o2KYSek51dhIGcfF/QXQAPenFMx6PUicIIvEmpvslRM8C6QrNdFp+zWd0VLfNfhboiZiKM+HBJ/IofUD3XecTV6wicro5Ain601iLO+6APK6UYbIKAdpN6dz8jDfZ5GHVgOi5R8SYrLaPStfvnALr18RqEUVPe3QkwZnVxlRlTXnZU9cNSQv9pVTi6ctj8S70Yyw1fbeP7s19budnupgEG0k7cClTJNA/nkx0iwsj8nOWMESX2Be3gobVHTt9GPSNHfjbawivm/PSkwRqqzxrsafufXYxRbj/7yg7jl5xhxUYjRfpCADfNf/Dah2zAjL5cLyL9fVINQB/eaG3wuBCKyiJg==;0O6Nzb/mYrBH9xZKmYBOfw=="
+secured: "0YSPo6RXyASHdnQ/fQvpAVl1MULQlTqyAmwlnCGBvH5akO6AIc4CKq4J/suGG8vzVoZl6GICqItKhXTxpnhR5XlIF8BAEnzBhungySqIbFElVsm656LKbbHOdMUuFTnJNVwCy+wrw+nJ3inxwPCokxgJWC4maWCu9q4+zjFQgXSGQlLATwXh3go7A4PIEg5ccVfHDMt1sKks50dffjQd2Zoa2eR2P2lTF/uzjivyC2l97wg4WLJmVJcO/kusHWwMxO1bzHJvUOMUzQzSRIfgGWXYee3Ho/o/QC4i/9ZNFXAVursEZcu15cvyjja1OJr2GZomvxAYVpclq2f8ep4rw+Nqn7lySZ0zIhkGR1WC0Gv7+Wj76PKn8zU3lh69rRgdpS3BvlOwZdTwiydK2ErCd75x0XonqQtt5/HcGqIphPFsHHFmSGs93ODr6+kAFGPnj4btApDutQhOx1sxBMX8ByvfSMFwJdyXC12Ppior8/xLS7m4S2/NqzlMzBhXDro31yiZyUZk+RY3fgUnlOW5D9TOr+QK1gFVq7CMNSsP8uk=;9kvyLh10oJVmNgQEoq1VVA=="
 ---
 

@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "What Ever Happened to IBM’s Watson?"
-    excerpt: "He thought building a computer to tackle a question-answer game could push science ahead in the A.I. field known as natural language processing, in which scientists program computers to recognize and analyze words. Another research goal was to advance ..."
-    publishedDateTime: 2021-07-16T09:01:00Z
-    webUrl: "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html"
+    excerpt: "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson. Credit...Video by Maria Chimishkyan Supported by By Steve Lohr A decade ..."
+    publishedDateTime: 2021-07-16T12:57:00Z
+    webUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 91
+    quality: 89
     images:
-      - url: "https://static01.nyt.com/images/2021/07/16/business/16Watson-01/merlin_190903830_f0aa9789-8002-4443-889b-cf52a2291890-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

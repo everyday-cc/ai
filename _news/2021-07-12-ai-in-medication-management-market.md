@@ -35,6 +35,22 @@ related:
         width: 1267
         height: 912
         isCached: true
+  - title: "'Self-driving Delivery Robot' Caught by Regulations... Concerns Falling Behind in Global Competition"
+    excerpt: "Self-driving delivery robots are developing one after another, but there is still a long way to go before full-scale commercialization due to various outdated regulations. Technology development is sl"
+    publishedDateTime: 2021-07-15T08:23:00Z
+    webUrl: "https://english.etnews.com/20210715200001"
+    ampWebUrl: "https://english.etnews.com/amp/20210715200001"
+    cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210715200001"
+    type: article
+    provider:
+      name: Etnews.com
+      domain: etnews.com
+    quality: 46
+    images:
+      - url: "https://img.etnews.com/news/article/2021/07/15/cms_temp_article_15171258715300.jpg"
+        width: 600
+        height: 399
+        isCached: true
   - title: "SanLucar receives the Economía 3 Award in recognition of its international projection"
     excerpt: "The multinational firm SanLucar, devoted to the production and distribution of premium quality fruit and vegetables, has received the Economía 3 Award for Internationalization."
     publishedDateTime: 2021-07-15T13:27:00Z

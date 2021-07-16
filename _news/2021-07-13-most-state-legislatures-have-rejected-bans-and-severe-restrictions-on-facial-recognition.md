@@ -299,6 +299,15 @@ related:
       name: The Daily Dot
       domain: dailydot.com
     quality: 31
+  - title: "Japan Airlines Implements \"Face Express\" Facial Recognition Technology for International Flights"
+    excerpt: "JAL participated in a successful trial of a new boarding procedure called, “Face Express ” that utilizes facial recognition technology developed by Narita International Airport Corporation (NAA) and Tokyo International Airport Terminal Co."
+    publishedDateTime: 2021-07-16T13:24:00Z
+    webUrl: "https://www.aviationpros.com/airlines/press-release/21230680/japan-airlines-co-ltd-jal-japan-airlines-implements-face-express-facial-recognition-technology-for-international-flights"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 21
 
 secured: "nXarITmQgRnKaADGnsQxpft1kX3pyctHZDKhuESgsyUpxbePvOLJI9/JZDbFIC4vZfxsRmohSO79fz+WwFPpy39LxUMrkHbDsN1WGvcdN38ZzBf893qXy3ZEUzPWqTZYBXcRxb5K6NigGtlM3eTDhAMqi0P+QxYxH4i4xnas8ke41oSDCrbY1Ti3rrWJDs6T2pkob/eTWmauGqKL5HSEIM0ndHq/70N5dmxeHRyDaq3ak3GQnsCjdo3977oJkHpq8LbI9zmtgC0y2GoUU+MbNDQOFEbZl+AB8FHQRi8j9Vo5o5x+b5gaNsgH2PU9yWM5hVNCObIvq0MhZcixxLhs4RMewb5cPXbnRfa5aJWnzcyr6yfxFGlTFO4JSgBhhy6HWMSTNg3qpTENun5cRTl0VAjX47cz2JWD5R+5REzBv/9l+W79/kRUDuCLUaaitCEc/cV2a1rLuFUkNLQv7KrIxXf6mjuDaB6wUO7UxaFzKBili3AoEhdKmw+RIUdKwaoK0gynYj44z86bySnAye//kw==;ilSVqF1th0aWFhqEdokRlw=="
 ---

@@ -58,6 +58,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Anicut Angel Fund leads the Seed Round in deep-tech startup, EDGENeural.ai"
+    excerpt: "A Pune based deep-tech startup, EDGENeural.ai has raised an undisclosed amount in seed funding from Anicut Angel Fund, the equity arm of Anicut Capital."
+    publishedDateTime: 2021-07-16T13:00:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/anicut-angel-fund-leads-the-seed-round-in-deep-tech-startup-edgeneural-ai-121071601115_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/anicut-angel-fund-leads-the-seed-round-in-deep-tech-startup-edgeneural-ai-121071601115_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/anicut-angel-fund-leads-the-seed-round-in-deep-tech-startup-edgeneural-ai-121071601115_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 55
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/16/full/20210716175708.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "eHv70sWmmsKTQOdcvxBL3k0H7oRXCcpCib20YXBxHtbJ1OoYKFGBsbHzYd+NpGPiLnBbVL7dZ1ha/aAjQ9JynFIKnw8pkPQRtPTztuE4zBjn+Su+8TvfUrwv3/KgHOOlfwjkh3SuUEFaq2oQ9XMizGmRXj9yX4hUZTcyA/wtVjM2rVnNANoko2B4uP/+ytCygMb7oE4fiMGGLb9SYfwrOo0qIaqQl10iZKbp/4DpeyrQK9tGQQEtvZh8m3QkFqO2hx/dnCcMPb9D780DUxbxi5/lzHcCpoFffewdvn5JmflydM5Pv2jKd7NWFgLwRk8FEaZ3Y+bntV6g47MLoRkGT9/BaduTLei9WaXRpxboMGQ=;3kf5hA32vxD9/t27UsNFww=="
 ---

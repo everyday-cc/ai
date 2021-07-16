@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-15-ai-ethics-champion-margaret-mitchell-on-self-regulation-and-foresight.md",
+      "title": "AI ethics champion Margaret Mitchell on self-regulation and ‘foresight’",
+      "excerpt": "AI researcher and former Googler Margaret Mitchell spoke about ethics challenges at VentureBeat's Transform 2021 event today.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/14/ai-ethics-champion-margaret-mitchell-on-self-regulation-and-foresight/",
+      "originalUrl": "https://venturebeat.com/2021/07/14/ai-ethics-champion-margaret-mitchell-on-self-regulation-and-foresight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1204729497.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/14/ai-ethics-champion-margaret-mitchell-on-self-regulation-and-foresight/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/ai-ethics-champion-margaret-mitchell-on-self-regulation-and-foresight/amp/",
+      "publishedDateTime": "2021-07-14T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-ai-adoption-sees-massive-shift-accenture-exec-says.md",
+      "title": "AI adoption sees ‘massive shift,’ Accenture exec says",
+      "excerpt": "Sanjeev Vohra, the global lead of Accenture's applied intelligence division, says that enterprises are embracing technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/14/ai-adoption-sees-massive-shift-accenture-exec-says/",
+      "originalUrl": "https://venturebeat.com/2021/07/14/ai-adoption-sees-massive-shift-accenture-exec-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/4574aa4b-cfbd-4727-9c72-e0a65f4556c8.png?w=1200&strip=all",
+          "width": 1070,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/14/ai-adoption-sees-massive-shift-accenture-exec-says/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/ai-adoption-sees-massive-shift-accenture-exec-says/amp/",
+      "publishedDateTime": "2021-07-14T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-ai-based-speech-pattern-analysis-may-allow-alzheimers-diagnosis-by-phone.md",
       "title": "AI-based speech pattern analysis may allow Alzheimer's diagnosis by phone",
       "excerpt": "Patterns of speech in a phone conservation can be used to correctly identify adults in the early stages of Alzheimer's disease, a study published Wednesday by the journal PLOS found.",
@@ -399,7 +502,7 @@
       "originalUrl": "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -492,6 +595,57 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-google-ceo-still-insists-ai-revolution-bigger-than-invention-of-fire.md",
+      "title": "Google CEO Still Insists AI Revolution Bigger Than Invention of Fire",
+      "excerpt": "The artificial intelligence revolution is poised to be more “profound” than the invention of electricity, the internet, and even fire, according to Google CEO Sundar Pichai, who made the comments to BBC media editor Amol Rajan in a podcast interview that first went live on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html",
+      "originalUrl": "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103991584-RTSQQJD.jpg?v=1529452147",
+          "width": 3500,
+          "height": 2425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html",
+      "publishedDateTime": "2021-07-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -797,7 +951,7 @@
       "originalUrl": "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -828,57 +982,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-google-ceo-still-insists-ai-revolution-bigger-than-invention-of-fire.md",
-      "title": "Google CEO Still Insists AI Revolution Bigger Than Invention of Fire",
-      "excerpt": "The artificial intelligence revolution is poised to be more “profound” than the invention of electricity, the internet, and even fire, according to Google CEO Sundar Pichai, who made the comments to BBC media editor Amol Rajan in a podcast interview that first went live on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454",
-      "originalUrl": "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/94963788f099515ddbb3ce8fcc35ad7b.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454/amp",
-      "publishedDateTime": "2021-07-14T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1097,7 +1200,7 @@
       "originalUrl": "https://www.detroitnews.com/story/news/politics/2021/07/13/house-panel-hear-michigan-man-wrongfully-accused-facial-recognition/7948908002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1129,93 +1232,6 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-port-of-seattle-permanently-bans-use-of-facial-recognition-at-sea-tac-airport.md",
-      "title": "Port of Seattle permanently bans use of facial recognition at Sea-Tac Airport",
-      "excerpt": "The Port of Seattle is enacting a first-of-its-kind permanent ban on the use of facial recognition for law enforcement, security, and surveillance purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/3032670/port-of-seattle-bans-facial-recognition-sea-tac-airport/",
-      "originalUrl": "https://mynorthwest.com/3032670/port-of-seattle-bans-facial-recognition-sea-tac-airport/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2021/07/facial-recognition-620-port-of-seattle.jpg",
-          "width": 620,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/3032670/port-of-seattle-bans-facial-recognition-sea-tac-airport/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3032670/port-of-seattle-bans-facial-recognition-sea-tac-airport/amp/",
-      "publishedDateTime": "2021-07-13T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-festo-advances-robot-programming-with-ai.md",
-      "title": "Festo advances robot programming with AI",
-      "excerpt": "Festo partners with several international companies and universities to develop FLAIROP - Federated Learning for Robot Picking",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/festo-advances-robot-programming-with-ai/",
-      "originalUrl": "https://www.therobotreport.com/festo-advances-robot-programming-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/festo-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
         "Computer Vision"
       ]
     }

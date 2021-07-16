@@ -4,17 +4,17 @@
     {
       "path": "_news/2021-07-16-what-ever-happened-to-ibms-watson.md",
       "title": "What Ever Happened to IBM’s Watson?",
-      "excerpt": "He thought building a computer to tackle a question-answer game could push science ahead in the A.I. field known as natural language processing, in which scientists program computers to recognize and analyze words. Another research goal was to advance ...",
+      "excerpt": "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson. Credit...Video by Maria Chimishkyan Supported by By Steve Lohr A decade ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.html",
+      "webUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2021/07/16/business/16Watson-01/merlin_190903830_f0aa9789-8002-4443-889b-cf52a2291890-facebookJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-facebookJumbo.jpg",
           "width": 1050,
           "height": 550,
           "title": null,
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html",
-      "publishedDateTime": "2021-07-16T02:01:00-07:00",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html",
+      "publishedDateTime": "2021-07-16T05:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Times",
@@ -49,9 +49,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
+        "IBM AI",
+        "AI"
       ]
     },
     {

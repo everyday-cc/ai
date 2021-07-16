@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Why FinTech Struggles To Combat The $1.5 Trillion Trade Finance Gap"
+    excerpt: "GUUD discusses why trade finance FinTech has been unable to put a dent in the trade finance gap or ease friction for banks and nonbank financiers."
+    publishedDateTime: 2021-07-16T12:43:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/investments-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Revolut becomes UK’s biggest fintech firm with £24bn valuation"
     excerpt: "Surge comes after banking app raised $800m from new investors Tiger Global Management and SoftBank"
     publishedDateTime: 2021-07-15T17:57:00Z

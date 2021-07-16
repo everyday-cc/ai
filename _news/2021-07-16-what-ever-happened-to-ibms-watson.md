@@ -1,15 +1,15 @@
 ---
 category: news
 title: "What Ever Happened to IBM’s Watson?"
-excerpt: "He thought building a computer to tackle a question-answer game could push science ahead in the A.I. field known as natural language processing, in which scientists program computers to recognize and analyze words. Another research goal was to advance ..."
-publishedDateTime: 2021-07-16T09:01:00Z
-originalUrl: "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.html"
-webUrl: "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.html"
-ampWebUrl: "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html"
+excerpt: "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson. Credit...Video by Maria Chimishkyan Supported by By Steve Lohr A decade ..."
+publishedDateTime: 2021-07-16T12:57:00Z
+originalUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html"
+webUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html"
+ampWebUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html"
 type: article
-quality: 91
-heat: 101
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -21,12 +21,11 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - IBM AI
+  - AI
 
 images:
-  - url: "https://static01.nyt.com/images/2021/07/16/business/16Watson-01/merlin_190903830_f0aa9789-8002-4443-889b-cf52a2291890-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-facebookJumbo.jpg"
     width: 1050
     height: 550
     isCached: true
@@ -49,6 +48,6 @@ related:
         height: 420
         isCached: true
 
-secured: "qZqmV4cnZFp6rxej0iZmqfAL/NIxD3U9kwzuNLe2IPUNALbn7p/tUMpb3qt2kLCgdFMXyMTvoG4tX/IBg4wnynlUQfRvrDK4+7AHrBTwoGfDrMITuK2Hbhmkzte4J1uN556mtD/dWI718uCVdhV8q7zkogwfCUnBjomZWwKiLTeckf+SHI1MyscEMqVVtX/oPHkXJBMxEdJhOKIOisVz7fl+GGr/vAR8R3U5VFlYSAl2jvbZDz6RIiH4y5Lt8BVtk6UvWNkzbfcyUkdZ5q3haCxiSJNwxncFgmh9Xjnug1ofaV5oDfFqayTMYMmjTHmg9Dq5FWohZOMJk314DH7E649wUApCyKloh+HtI5yLNrE=;EZTbqwFU4/p7DA/dYHXQLg=="
+secured: "ufgonF6XxrOBdu9EvToZSnMVGscsirazLiDFaQaGfEXl8gYO1PTZkMRids+C1yBFKSgN+vzZJ0hBhp0NT5AQnqIKcgHDAGRPeC81yyM9+EB/ITduqJ6vXPbLq+tnD8ukcG0EjCCviwVOk9LURd/PCXktRMKyNqtNIte5HlX0UgMBpg2EFHYyqZsVHkT6VLfyVz+TiGtVJnxHbC/MCssJIm8vA+7ST/rvl/OLHM2jxrO8ajP2rMPZWlPu27V65S8UalTWFHQVYbn1hSk6cJi2kQzRYONRbJVsCaqZ2Y6YlAHzBdZJPT3mF95Bi03aKgXmoae5ImYaDwsnd3GD5BKQKRO+9DqxL3IzqKxTh9lxAcg=;xddf8YJfDT8IElx2cJ092Q=="
 ---
 

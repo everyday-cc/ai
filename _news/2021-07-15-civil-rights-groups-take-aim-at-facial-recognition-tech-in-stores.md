@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-cam
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/"
 type: article
 quality: 174
-heat: 364
+heat: 374
 published: true
 
 provider:
@@ -299,6 +299,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Japan Airlines Implements \"Face Express\" Facial Recognition Technology for International Flights"
+    excerpt: "JAL participated in a successful trial of a new boarding procedure called, “Face Express ” that utilizes facial recognition technology developed by Narita International Airport Corporation (NAA) and Tokyo International Airport Terminal Co."
+    publishedDateTime: 2021-07-16T13:24:00Z
+    webUrl: "https://www.aviationpros.com/airlines/press-release/21230680/japan-airlines-co-ltd-jal-japan-airlines-implements-face-express-facial-recognition-technology-for-international-flights"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 21
 
 secured: "CrB0Yz1m0peINkHTscOVjpK49vDVAmvpxHUpDZZP4Tv6zfPDmDyAVOB212ZPJk3mLZJDkhxC8Fvz8iP1TjK64ZtpBlsjOr+kYxbU4mgh0ym6vS+HSrArt49pg+g4lUr5F+za6/AgVQxDzER4sRsk1RcQmK+b45Hs9UJo5RYq1QK/FwZdF4n08UG/H/XdWKGHl3XAM2HePABQ32BKojFbRCI7lvNCrY0RLL9AZ6vjLyXdGSza54jQK0BDPsBUCK4n4dVU9e3uIdIARwsWcZ7kLZ8n3EMgLEOxMBIaF21Z1mFisHiYfdAqDfJ/4bjn2KXMEw/3Vr+3HhFfbhNVYL8s3HzktSVkS3dIaXOj0Z3ikyM7dHeDeDc66MHThSV4hHr840EZvsJMPKkeHQFlu2GvbS1a0+VJUn1iulhMYJMDYdMCsR8eSnIHxZVzIUAnQ/qkgjsuq1GzpjED0pC0ATledPJct1bzWRLn6b4IPmHedJLiQmN8fC43Ta0lp4Pt7A358zXo7u/q2ayJSjqso6o3Bn3hW8B8iauHcyZg0evyqUM=;tggBsqv5UZotBRi+WogxDg=="
 ---

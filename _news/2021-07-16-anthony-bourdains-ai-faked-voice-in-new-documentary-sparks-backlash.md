@@ -59,6 +59,22 @@ related:
         width: 780
         height: 507
         isCached: true
+  - title: "Anthony Bourdain Documentary Uses AI To Recreate His Voice"
+    excerpt: "A Film About Anthony Bourdain, releases today, July 16, and it features the voice the late chef, writer, and host. Director Morgan Neville said to The New Yorker that the production team compiled audio samplings of Bourdain's narration from across his appearances on TV,"
+    publishedDateTime: 2021-07-16T12:09:00Z
+    webUrl: "https://www.gamespot.com/articles/anthony-bourdain-documentary-uses-ai-to-recreate-his-voice/1100-6494031/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/anthony-bourdain-documentary-uses-ai-to-recreate-his-voice/1100-6494031/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/anthony-bourdain-documentary-uses-ai-to-recreate-his-voice/1100-6494031/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 59
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1179/11799911/3856621-screenshot2021-07-16at7.56.54am.png"
+        width: 2028
+        height: 1024
+        isCached: true
   - title: "New Anthony Bourdain Doc Criticized For Using AI Version Of Late Chef’s Voice"
     excerpt: "Neville continued, “If you watch the film… you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know. We can have a documentary-ethics panel ..."
     publishedDateTime: 2021-07-15T21:38:00Z
@@ -74,6 +90,22 @@ related:
       - url: "https://etcanada.com/wp-content/uploads/2021/04/RR_FP_00187.jpg?quality=80&strip=all&w=720&h=480&crop=1"
         width: 720
         height: 480
+        isCached: true
+  - title: "'Roadrunner' director defends use of AI technology in Anthony Bourdain documentary"
+    excerpt: "\"We can have a documentary-ethics panel about it later.\" While the words in question were written by Bourdain, Neville revealed that an AI software model was used to record several lines for the ..."
+    publishedDateTime: 2021-07-16T13:24:00Z
+    webUrl: "https://abcnews.go.com/GMA/Culture/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary/story?id=78880656"
+    ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 53
+    images:
+      - url: "https://s.abcnews.com/images/GMA/morganneville-leshalles_1626436645036_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Anthony Bourdain's Voice Recreated Using Artificial Intelligence For New Documentary"
     excerpt: "Anthony Bourdain's voice was recreated by artificial intelligence for use in a new documentary about his life."
