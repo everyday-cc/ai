@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tusimpleai"
   url: "https://twitter.com/tusimpleai"
-  followers: 3778
+  followers: 3779
 
 size: 201-500 employees
 yearFounded: 2015
