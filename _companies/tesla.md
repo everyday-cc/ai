@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 511
+heat: 573
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 10545691
+  followers: 10546027
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "9Jz8bCj9le2NpP7FMU8u3MjKs8A61poMZkIzmxOY7Z5kJnA6GDnR7rUaOerwlhlNGj7W3uV5hjhGvZno5Lz93YWq3Hzdwi04dIyVIq36eo/Hc5EwXcVHc+HH7IZZ4BOLTMPYktu2Rw0/9titS8cbDJgc7KRseWiGA2jHE0LHP6xutyAC5+f7RWT7K8GfebHWmRDA5QLBOgypGvGFBxSNWutSHaWS+K7vvZB+riYpZS0Ybpo1RF+VKuIg/l3YieitVOmeW02Om+cJDcXEpwCYnnEJgUbjs88CPTUHK/jbPwhu7V57HmLKKT63oIojKr5+DAZOViC8CCd0z30jK3jlYWuGlw5RDRFnMzfg0wUXt+7yfbrUDxJpmzw2JsTjWRUBxB/vfXPr3dSYmZtZpGknjgbUxfcuAYV5lbuc97JQ5A0=;fUHANP5EoR2jbjAlSmfB7A=="
+secured: "RzunTfY2BC+0a0y6aPd/9IJlWHoaVK79NtWPYeZwAs0zOYGgM7nhpx301V4u7rKSQ0is6eiZqWbiJbc5MDhh3clQYf7RXZoR0TcN4db3suU0Q+V0uujrRfFIcqA3w0SheoYAxf98e1x1WwT1YLMjWAdinBiOn06EJu7Yyi8cNnKxwPJFdRlucONsgkXpd3697bWiouAazPT3+vQ4r11KrRwFmpZRZ13HOWjXpF/gYP9jZpH80n0o7PoOvDe2YCeLWtbAK3mYgqQXmO/IVehRxHKVlQlPNTr6X7QE2CpaNL6R1gy+pRtdeeQjnfWsmcLJ24/iyU1Ad7i47uQ+DCgsaZArPb1a0GAGV2BBIdkdWvwyVCpdt3HusHb3St/3P6VJzZendqskfCX0pnyOl4bZrRjDdsPFW7bXNb+QB3LNmSE=;08mu1QGQtD9tkdW001Ghag=="
 ---
 
