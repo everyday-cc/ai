@@ -150,6 +150,17 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
+  - title: "Artificial Intelligence in Gaming Market Analysis By Industry Size, Share, Revenue Growth and Demand Forecast To 2027"
+    excerpt: "The rise of artificial intelligence is an equally important stepping stone to developing smarter, more interactive, and as realistic as possible games. Whether it's racing car games, shooting games, or strategy games, most video games all have different ..."
+    publishedDateTime: 2021-07-12T12:06:00Z
+    webUrl: "https://www.openpr.com/news/2326368/artificial-intelligence-in-gaming-market-analysis-by-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2326368/artificial-intelligence-in-gaming-market-analysis-by-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326368/artificial-intelligence-in-gaming-market-analysis-by-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
   - title: "Global Artificial Intelligence in Construction Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Construction Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Construction"
     publishedDateTime: 2021-07-13T08:25:00Z
@@ -199,6 +210,15 @@ related:
     excerpt: "Pages Report] Check for Discount on Global Voice Recognition for Automotive Market Size, Status and Forecast 2021-2027 report by QYResearch Group. The hybrid technology is estimated to be the largest"
     publishedDateTime: 2021-07-15T08:57:00Z
     webUrl: "https://www.reportsnreports.com/reports/4669978-global-voice-recognition-for-automotive-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Global Data Science and Machine-Learning Platforms Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Data Science and Machine-Learning Platforms Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Data Science and"
+    publishedDateTime: 2021-07-17T00:39:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4673908-global-data-science-and-machine-learning-platforms-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
       name: ReportsnReports

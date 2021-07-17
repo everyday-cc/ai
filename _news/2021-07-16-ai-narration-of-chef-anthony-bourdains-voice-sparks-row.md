@@ -206,6 +206,22 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Commentary: ‘Roadrunner’ uses AI to create an Anthony Bourdain soundalike. Here’s why that’s ethically squishy"
+    excerpt: "You should see “Roadrunner,” with this small but hugely controversial caveat: The voice you sometimes hear? He’s a deepfake."
+    publishedDateTime: 2021-07-17T00:10:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/movies/michael-phillips/ct-mov-anthony-bourdain-documentary-fakery-20210717-r22q73p26naexdni6sohgr6f4u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/entertainment/movies/michael-phillips/ct-mov-anthony-bourdain-documentary-fakery-20210717-r22q73p26naexdni6sohgr6f4u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/movies/michael-phillips/ct-mov-anthony-bourdain-documentary-fakery-20210717-r22q73p26naexdni6sohgr6f4u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 54
+    images:
+      - url: "https://www.chicagotribune.com/resizer/sBji7Mo3IGuTwSqkljEU9i5CdqY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BDECJG47LT2QYTA45BURPDYEKU.jpg"
+        width: 1200
+        height: 856
+        isCached: true
   - title: "'Roadrunner' director defends use of AI technology in Anthony Bourdain documentary"
     excerpt: "\"We can have a documentary-ethics panel about it later.\" While the words in question were written by Bourdain, Neville revealed that an AI software model was used to record several lines for the ..."
     publishedDateTime: 2021-07-16T13:24:00Z
@@ -342,6 +358,6 @@ related:
         height: 710
         isCached: true
 
-secured: "U6ydNFVaOndo8hs+l26LSGmplD0gCXKCWDXKrxeKoRixMYn4UKjKTSm40wSFmiHQNQiL/AmQacZBJqsc8H9Vh/DFNfcfu08ivJ/iq6K7N6qvNYwT8sGzBC9eih3trQ5rWPbMJcSbtMbsVTWhWNv3ax+cucElBIDbWZx2ArLWEcW5j47PQylFAVIAa5cD5vm5KDum946Gbm+RFE0P/FBD5fSb4Wk1ybhYPFNp7eo5eQhrr31lKOHr6qMT/QA0cewLBkHnwt696Yz2c0YpRwx6+xdANi9hpYxnlTIKV8prCWy2cR9l8lpf7jH/u86B1ZBIQQ/C7xPk3i91KaW9qHrLuRjzIV9H1hZvYNYm60caORU=;ZZWiS4/eXb++HQpilLlrgg=="
+secured: "v2GQ4kYBlMKB9gTvBuh5kiFyDSF/gB6ZZ3LUAU+qGMVOjktsvV+MYwh/KcxZkwfJBbQMjZPiFFeydud2ylt+praYMiORJvyLVk14L8BRl+zawgedtEqu9v2B4hr7nYoq0YhPXhqaQUebxuysCWVF8x1A67AazmWpFykSO1wdK1T9H99dkUR75B7UZmj3y50LyV2+eVO3zXIcw0zyawYgaFAKt5eGqcY2iS6Ue+i1MFnHuvcXdisAFCYWqnmybCv437IwVoYhQSMbcPvrAfWMf5aIFCI/kn7MH69cy6M7PfTtttLah7nt6q0UsTccI3ez7ruHASFhYrPX7XK6DG07A0aBbeS+17Zp2m7zVAHrDo+Y7RAp6SEINd6ZyjQcwwUaGv/h/loFtN/9nn9MS5YqK6qvFwSLzGBNivr/4T8Vlm8C+5O5vc8Go/AKABmekLMbhQDFcHMgKDtICD1f/Cw+CVUdLht6orOdFR8bepMoxwJOmSwm2mkHMjPl9pIqVOS8r6em/EavBSqJDa84HWTAFg==;DMl3K3EshahnmuO2/EsxVw=="
 ---
 

@@ -19,51 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Compliance with Safety Regulations Becomes Key Proposition in Medical Robotics Market"
-    excerpt: "Robots have enormous potential in medical and healthcare applications, as is evident in the swift pace of penetration in the sector. Per a projection by the International Federation of Robots (IFR), the medical robotics spawn a multibillion dollars market."
-    publishedDateTime: 2021-07-14T10:11:00Z
-    webUrl: "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/"
-    ampWebUrl: "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/"
+  - title: "Artificial Intelligence in Supply Chain Market is Set To Fly High in Years to Come"
+    excerpt: "Artificial Intelligence in Supply Chain Market Analysis, Artificial Intelligence in Supply Chain Market Forecast, Artificial Intelligence in Supply Chain Market Growth, Artificial Intelligence in Supply Chain Market Opportunity,"
+    publishedDateTime: 2021-07-16T20:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-is-set-to-fly-high-in-years-to-come-2021-07-16"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 67
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/07/ai-5899612_1920.jpg"
-        width: 1267
-        height: 912
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "'Self-driving Delivery Robot' Caught by Regulations... Concerns Falling Behind in Global Competition"
-    excerpt: "Self-driving delivery robots are developing one after another, but there is still a long way to go before full-scale commercialization due to various outdated regulations. Technology development is sl"
-    publishedDateTime: 2021-07-15T08:23:00Z
-    webUrl: "https://english.etnews.com/20210715200001"
-    ampWebUrl: "https://english.etnews.com/amp/20210715200001"
-    cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210715200001"
+  - title: "AI in Medication Management Market to Observe Strong Growth to Generate Massive Revenue in Coming Years"
+    excerpt: "Artificial intelligence (AI) in Medication Management is used to analyze complex medical data by approximating"
+    publishedDateTime: 2021-07-12T20:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-medication-management-market-to-observe-strong-growth-to-generate-massive-revenue-in-coming-years-2021-07-12"
     type: article
     provider:
-      name: Etnews.com
-      domain: etnews.com
-    quality: 46
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
-      - url: "https://img.etnews.com/news/article/2021/07/15/cms_temp_article_15171258715300.jpg"
-        width: 600
-        height: 399
-        isCached: true
-  - title: "SanLucar receives the Economía 3 Award in recognition of its international projection"
-    excerpt: "The multinational firm SanLucar, devoted to the production and distribution of premium quality fruit and vegetables, has received the Economía 3 Award for Internationalization."
-    publishedDateTime: 2021-07-15T13:27:00Z
-    webUrl: "https://www.freshplaza.com/article/9339442/sanlucar-receives-the-economia-3-award-in-recognition-of-its-international-projection/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 17
-    images:
-      - url: "https://agfstorage.blob.core.windows.net/misc/FP_es/2021/07/14/sanlucar.JPG"
-        width: 600
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "hTWj+ykqlMWUmdZ6LZGjyvIGq9PJRb6iHtuFfsYfPZUyG6gmiUFTQOiLrzNKNkVTs3iShIfE2B4UGw0zlICdGELp1vdN/M53FquYfsf1kAaNgjYoRRdSvQoKYKvU886EUv8yWDXnCBLCG0qP7nHyjOJVuTQlqY8azk4RrNzx6jJBhE+HHTbAo2Vay3eUkcWCLheIUQRcAv1MJEAS2+oOFPDiZD7V+YXXGj3ij/dW3qrswYh1qUe5bxadNl83gY4bHcFYMqfZ/Zuq/cnRYT9TlAwfaASuq+YPgZt6I3hhFJceJAOkuOCBU496S7OxvfO3jlvHHQ2R70KAWHLzYjfVZMzKq1PZu/Z/VEsbMLLNoTI=;BCtYNl/zzVQHFCtgmM5M5A=="

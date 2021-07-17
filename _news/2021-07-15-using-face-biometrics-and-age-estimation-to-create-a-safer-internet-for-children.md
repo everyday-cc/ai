@@ -41,22 +41,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Thales supports mobile operators with advanced voice biometric authentication"
-    excerpt: "Thales announces a new voice biometric solution which is part of Thales Trusted Digital Identity Service Platform for onboarding and authentication. It meets the growing demand from mobile operator call centres to fight identity fraud whilst providing a seamless customer experience."
-    publishedDateTime: 2021-07-12T08:42:00Z
-    webUrl: "https://www.telecomtv.com/content/security/thales-supports-mobile-operators-with-advanced-voice-biometric-authentication-41944/"
-    ampWebUrl: "https://www.telecomtv.com/content/security/thales-supports-mobile-operators-with-advanced-voice-biometric-authentication-41944/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/security/thales-supports-mobile-operators-with-advanced-voice-biometric-authentication-41944/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 41
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "uTpQzb+3SocH0Pt1VTGuuXVJADZEnSeLS/C5GHGYMlR35mc569BXPp6rdzQ65N00XamyCAXhjMroIIvHoHpR/TWGjwi6FVa9MyjK4pWuccxlO+x0HH3hPx/87CQJTgOfoAb0Lh/umAtBHAJjo9waU+JWNglH1be3KyOIEt3d8EW20Ax8iJN0uIpMVAf2xC6AbRa1hL25Ls6ik1XaB+sa8WLrEA0e2oPeOLOUL1gxPHH2GuMtqCjikkGdljHd9tpyEBWeshjVzOcygrfe5x4DXNLbnLiOysGHmlee+a/bCJVwJ9rwpmZBB7H4w4ANUJuN38AsN9fYeCJg6q71VFG4nMgEo39xesmDNSpNnrskdwc=;6Udmr4BALQRmE+zdZLp/mA=="
 ---

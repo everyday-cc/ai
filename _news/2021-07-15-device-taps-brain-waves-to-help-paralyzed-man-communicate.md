@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Device taps brain waves to help paralyzed man communicate"
-excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm — they imagine moving and those brain signals are ..."
-publishedDateTime: 2021-07-15T09:40:00Z
-originalUrl: "https://wtop.com/science/2021/07/device-taps-brain-waves-to-help-paralyzed-man-communicate/"
-webUrl: "https://wtop.com/science/2021/07/device-taps-brain-waves-to-help-paralyzed-man-communicate/"
-ampWebUrl: "https://wtop.com/science/2021/07/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/"
-cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/science/2021/07/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/"
+excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm – they imagine moving and those brain signals are ..."
+publishedDateTime: 2021-07-15T14:43:00Z
+originalUrl: "https://www.detroitnews.com/story/life/wellness/2021/07/14/device-taps-brain-waves-help-paralyzed-man-communicate/7972100002/"
+webUrl: "https://www.detroitnews.com/story/life/wellness/2021/07/14/device-taps-brain-waves-help-paralyzed-man-communicate/7972100002/"
+ampWebUrl: "https://amp.detroitnews.com/amp/7972100002"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7972100002"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 99
+published: true
 
 provider:
-  name: WTOP News
-  domain: wtop.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2021/07/14/PDTN/2f852cab-474d-48cd-a151-8206c46ffb92-AP21194673044247.jpg?auto=webp&crop=1023,575,x1,y64&format=pjpg&width=1200"
+    width: 1200
+    height: 674
+    isCached: true
 
 related:
   - title: "Researchers Harness Brain Waves of Paralyzed Man to Communicate With Him"
@@ -53,6 +59,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "His voice silenced for years, a man can now communicate using only the electrical impulses from his brain"
+    excerpt: "Voice recognition software that is ubiquitous on cellphones, computers and elsewhere was developed with many more hours of repetition and refinement than Chang’s group was able to put in with a severely disabled patient, other experts said. To expand ..."
+    publishedDateTime: 2021-07-14T21:03:00Z
+    webUrl: "https://www.washingtonpost.com/health/paralyzed-man-can-communicate/2021/07/14/3a9ce638-e4b5-11eb-8aa5-5662858b696e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/paralyzed-man-can-communicate/2021/07/14/3a9ce638-e4b5-11eb-8aa5-5662858b696e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/paralyzed-man-can-communicate/2021/07/14/3a9ce638-e4b5-11eb-8aa5-5662858b696e_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 42
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4EXR3XE4QI6XCGFJ7LDQLCHZM.jpg&w=1440"
+        width: 897
+        height: 537
+        isCached: true
   - title: "Brain waves used to help paralyzed speak"
     excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak – and turned what he intended to say into sentences"
     publishedDateTime: 2021-07-15T04:00:00Z
@@ -68,6 +90,6 @@ related:
         height: 536
         isCached: true
 
-secured: "b/+DLJ4x81unYpRfGEYWyHIUFCEnrFMDcVEWxMkmkyHH2n37uLPEG1NGBQ8feF9ZZpppWTJ7aiFAYe+oRqNTofy0OuN86lA7PdNsrByHlqs2bUcemgdAf9PiY35BWe7X/RQlFYDcaXSpDwHwugVLlbuNQdxHRL8ksQqlIUEjT+ARH+wIP8IngVqMrdse48DVmxWpFER03naB0eMWFcQHWyQ1vbU1dIU6Nx+7FFfzeJ1V5frrg4IFkr5lUNZEeSPAOKFHNUdaUMZv2XfNFN+vUQ3V5SnUGFkpMQ2KpxZb/PIvcRzJ0cgj9pMUANcrTeOAa9H0Lrq7TWy0WUTqI8MIygP1nyZAAmiVoY+cCJRfqGY=;4fG2o/joUPJpPXeB5ErVNQ=="
+secured: "E9SsFiiVTAHFBdQWbohNYxa/FPJPb3eFcjxVct/cTKmYLNVhPPmgURx9yG/AhPy8Tn0aY3Ls7gm8nePSdORA0yC9BiFeBaZGt0W5ap6tQxSdmXUFbBR16SB+Mrv7Upq0walbLOkvFT1u6kbh++5MbeEDR7PlMGRLZWUHlgmQwiCtG2iI94ub4H0eg1CBYHmhJuCEfyUozsiwuf6sMXWm4d7Z0ILrheLeA09g6BLLZBQA/WL9H8HtEgid65bdV7Voxah1gk4OLh/T0CSWPucYHXDEsfpzgMuGS/ZUwzNL7lgP7ufK7ZW+OU31xViK3hQYPtyGj/VX3B4drhvU7kkt+I0uJp7aSHra/bIQ2sUUHkE=;auzDEqy49aZk489a7VndUQ=="
 ---
 

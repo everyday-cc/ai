@@ -1,10 +1,10 @@
 ---
 category: news
 title: "DeepMind’s AI for protein structure is coming to the masses"
-excerpt: "Machine-learning systems from the company and from a rival academic group are now open-source and freely accessible."
+excerpt: "Machine-learning systems from the company and from a rival academic group are now open source and freely accessible."
 publishedDateTime: 2021-07-15T18:05:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-01968-y"
-webUrl: "https://www.nature.com/articles/d41586-021-01968-y"
+originalUrl: "https://www.nature.com/articles/d41586-021-01968-y?error=cookies_not_supported&code=489849a8-3eb7-4e38-bae1-41a2748c7d62"
+webUrl: "https://www.nature.com/articles/d41586-021-01968-y?error=cookies_not_supported&code=489849a8-3eb7-4e38-bae1-41a2748c7d62"
 type: article
 quality: 54
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: nature.com
 
 topics:
-  - Google AI
   - AI
+  - Google AI
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01968-y/d41586-021-01968-y_19363650.jpg"
@@ -125,6 +125,6 @@ related:
         height: 946
         isCached: true
 
-secured: "RYY813BWgd4Srbn2AEUd9uA3rIfIr006wkP/4qSQ5fCe7wzdGv/a8soBLz+UiFVPjoS8OeStB78tcbg5Wr8P+c4Dw73b3Mx+4OlsjG6tvLYkl8tPIgrBGZsCiemDF5gu6gM81Y0BTIgbIBCRWmkymeyKijNs5oQiCUrjfaTgqOJxaYGiLshhSgqtVZUgfGsfwknXM4rbeId5aFAnpy4pG5W7ishuU5roNJ6+PAlYXCPyWPwW2cyZ7cMu/6LTkd7UEuDtoukR6E/5ag1L5fRi/8+gQCedsFLmaW2NRCmP+/x0qNU5+17Vjrp85MjYPzwzuDA1GUrTaMtSjZlny5vN5rZ2ygTvgGwSXMxPXEQgXlMCp1fe15ysxEuGvp+kEMyi9DuxpM8m6cDXMkamqLZSlE6XoYjFWwB+/d6+ptXIzs/8jOEPGxKq8X0UOc0rbhNkEYwh8R/SVZfVjZV1LtLBdrFU74IUPwR1rwodYOXpzcIXKeAQYzH/tg3T9cuazxohE+Ns4ZSWbrkHjHTUS89rVg==;Yhrkn2QpBWsCt8XkmcE6zg=="
+secured: "C0S0MvcR2xoqBZbLsDcnc0liV2Xw5YOb1CUYntew9oBNFjF14yq75JmJjBAIh+IV/fdxH5IQ2K1KWyXMgSITqj6nTnVkaQnWbVzLMW/gzr117ySUeXsXl7GvCa4/ArIg535dy/vB2OeNmpg/jwoCNHmDl+WwdlG8wOBnUfBT4vfq5Su4WRZNYMJKbNmF+7X16REPee933AnCahfMywaiaGueeEd3I4iTJEupT0n0csd5LiNdwEg+0a/WoIMFRUgW8BvtBrKFgY76btfU5jMHceUsC4QNaHpij8OeC0tUkG/mwYpu4X/XYjxTagnIuHXTIMl0GaUz3WFWwYLOuE+SYpdCODMyI5KsgAAn66hQbTY=;4FYeqXSQAaOPqcgUqQPbuA=="
 ---
 

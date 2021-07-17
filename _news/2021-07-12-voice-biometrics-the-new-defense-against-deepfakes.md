@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/voice-biometrics-the-new-defense-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/voice-biometrics-the-new-defense-against-deepfakes"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Thales supports mobile operators with advanced voice biometric authentication"
-    excerpt: "Thales announces a new voice biometric solution which is part of Thales Trusted Digital Identity Service Platform for onboarding and authentication. It meets the growing demand from mobile operator call centres to fight identity fraud whilst providing a seamless customer experience."
-    publishedDateTime: 2021-07-12T08:42:00Z
-    webUrl: "https://www.telecomtv.com/content/security/thales-supports-mobile-operators-with-advanced-voice-biometric-authentication-41944/"
-    ampWebUrl: "https://www.telecomtv.com/content/security/thales-supports-mobile-operators-with-advanced-voice-biometric-authentication-41944/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/security/thales-supports-mobile-operators-with-advanced-voice-biometric-authentication-41944/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 41
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Using face biometrics and age estimation to create a safer internet for children"
     excerpt: "The use of facial analysis and age estimation technologies powered by machine-learning algorithms is already capable of creating a safer internet for children."
     publishedDateTime: 2021-07-15T13:36:00Z

@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Congress asks experts for guidance on facial recognition"
-excerpt: "The officers' facial recognition algorithm had mistakenly matched a 6-year-old driver's ID photo of Williams with that of a suspect captured in a surveillance camera picture. Williams recalled his conversation with the detective: \"I held up the paper [with the suspect's image] to my face and said,"
-publishedDateTime: 2021-07-15T16:50:00Z
-originalUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21230551/congress-asks-experts-for-guidance-on-facial-recognition"
-webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21230551/congress-asks-experts-for-guidance-on-facial-recognition"
+title: "Congress Asks Experts for Guidance on Facial Recognition"
+excerpt: "Law enforcement uses facial recognition systems with little oversight and, at times, disastrous impact. During a congressional hearing this week, members and experts talked through how new laws could head off greater harm."
+publishedDateTime: 2021-07-14T23:15:00Z
+originalUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition"
+webUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition"
+ampWebUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true"
+cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true"
 type: article
-quality: 41
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Security
-  domain: securityinfowatch.com
+  name: Government Technology
+  domain: govtech.com
 
 topics:
   - Natural Language Processing
@@ -20,9 +22,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Face_Recognition_And_Personal__379967281.60f066cc17c27.png?auto=format&fit=max&w=1200"
-    width: 1200
-    height: 675
+  - url: "https://erepublic.brightspotcdn.com/dims4/default/9451d55/2147483647/strip/true/crop/1095x571+18+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F67%2F8b%2Fbf2467764012829abc8b9b917271%2Frw-better.png"
+    width: 840
+    height: 438
     isCached: true
 
 related:
@@ -41,22 +43,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=800%2C400&strip=all"
         width: 800
         height: 400
-        isCached: true
-  - title: "Tencent uses facial recognition to stop kids from gaming at night"
-    excerpt: "Chinese technology and media company Tencent has revealed that it is now using facial recognition technology to stop kids in China from spending their late night hours on mobile games. In a social media post on the Chinese platform QQ,"
-    publishedDateTime: 2021-07-12T08:55:00Z
-    webUrl: "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night"
-    ampWebUrl: "https://sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night?amp=1"
-    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16612/tencent-uses-facial-recognition-to-stop-kids-from-gaming-at-night?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/tencent-china-kids-facial-recognition-gaming-header_9zph.620.png"
-        width: 620
-        height: 310
         isCached: true
   - title: "Activist Groups Urge Retailers to Halt Facial Recognition Use"
     excerpt: "A new coalition of civil rights organizations is calling on retailers to stop using facial recognition tools to screen shoppers, saying the technology can lead to abuses."
@@ -190,22 +176,6 @@ related:
         width: 1440
         height: 1080
         isCached: true
-  - title: "SoftBank backs facial-recognition startup"
-    excerpt: "SoftBank Group is leading an investment in AnyVision Interactive Technologies that values the facial-recognition company at over $1bn"
-    publishedDateTime: 2021-07-12T08:55:00Z
-    webUrl: "https://www.penews.com/articles/softbank-backs-facial-recognition-startup-20210712"
-    ampWebUrl: "https://www.penews.com/amp/articles/softbank-backs-facial-recognition-startup-20210712"
-    cdnAmpWebUrl: "https://www-penews-com.cdn.ampproject.org/c/s/www.penews.com/amp/articles/softbank-backs-facial-recognition-startup-20210712"
-    type: article
-    provider:
-      name: Private Equity News
-      domain: penews.com
-    quality: 44
-    images:
-      - url: "https://images.penews.com/im-367160/?width=749&height=499"
-        width: 749
-        height: 499
-        isCached: true
   - title: "US Lawmakers Urge Regulation Of Facial-Recognition Use"
     excerpt: "Some lawmakers came out against the use of facial recognition, citing concerns about misidentification and violations of due process and constitutional rights."
     publishedDateTime: 2021-07-14T01:47:00Z
@@ -296,6 +266,6 @@ related:
       domain: aviationpros.com
     quality: 21
 
-secured: "9vr7lSe3Qp6ORlODF6SWF4YJEy83xrh+IxQugTm9Jkf3yInvAvWI+QEMwQngFqPZcmuQNn32RVqJOsPu1rSgPzrQX/CU0rf3bYici4ufM7+EI8H8WbvECevXNZniGMvXMyeU1Fml7QmvKxc5jJlXTA7FkfeT6rb4wAnCu+o/SDCaA0diOwsp24RdkMpH0HjT2kVvYaNe8NQOSLTItlu7dqcjUhO2jqGC2yn7ZvKLz6rPpHujHhfAJ/tlgV0lxeBAMHY9n9wOJC1+ArYke0xpLokRz/chYQ99kh2GwVxJtX4rNflaEE/xk84HSVqwKgmKpxn6WduVUEPNq2pRUU9qtH5PZru6Yxv/+yj+lSvFJXw=;zhmzuHIHNza7jPatKkARpQ=="
+secured: "gRIAIkZqiW0/iWsoSi4OYmMHwE9wDYhtkK0uOy36KsGO7BM8nCU22O6ILAmDTuH3WUEGmHPNi+FW9Uc2a7Y+snjn0aB92jJmcLktp+pOxJDMEZzAEABvaDJndxDG/YA1kU8Exh0M7C6OTc2a0p4LKDp6Cb13o80MYoXnFs9bzj320GdgQh3WkAhl9UulQ9UFWCpkGbn+wnY4DMZLuMMeStV3qAUyN6E7jhJkJ3oDQHDvJ21tuBJOKY00sSJB8kcxqchInXDMKBV+rkpJCg+XueCFvqxJqruolkzr7wWaVRyYRgk0GszVeQCEjf8ynnzatP5ubEeiApZ4rzd73rWTOwNQsf3m+awftvwvR62wbJ4=;3vXejDMZ/MOrsAloGx5gdg=="
 ---
 

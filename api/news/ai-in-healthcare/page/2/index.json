@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-02-roswell-the-final-verdict-review-aliens-vs-artificial-intelligence.md",
+      "title": "‘Roswell: The Final Verdict’ Review: Aliens vs. Artificial Intelligence",
+      "excerpt": "UFO incident gets re-examined with new technology in this Discovery+ series.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/roswell-the-final-verdict-review-aliens-vs-artificial-intelligence-11625172034",
+      "originalUrl": "https://www.wsj.com/articles/roswell-the-final-verdict-review-aliens-vs-artificial-intelligence-11625172034",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-362392/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/roswell-the-final-verdict-review-aliens-vs-artificial-intelligence-11625172034",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/roswell-the-final-verdict-review-aliens-vs-artificial-intelligence-11625172034",
+      "publishedDateTime": "2021-07-01T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-how-can-healthcare-leverage-natural-language-processing-for-medical-records.md",
       "title": "How Can Healthcare Leverage Natural Language Processing for Medical Records?",
       "excerpt": "As automated solutions continue to gain traction in the industry, here’s how a specialized branch of artificial intelligence is showing promise in improving EHR usability.",
@@ -1232,40 +1284,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-visionquest-uses-artificial-intelligence-to-screen-40000-patients-for-diabetic-retinopathy.md",
-      "title": "VisionQuest Uses Artificial Intelligence to Screen 40,000 Patients for Diabetic Retinopathy",
-      "excerpt": "VisionQuest Biomedical Inc. announces that the company has used the EyeStar artificial intelligence (AI) software to screen over 40,000 patients for d",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210615005073/en/VisionQuest-Uses-Artificial-Intelligence-to-Screen-40000-Patients-for-Diabetic-Retinopathy",
-      "originalUrl": "https://www.businesswire.com/news/home/20210615005073/en/VisionQuest-Uses-Artificial-Intelligence-to-Screen-40000-Patients-for-Diabetic-Retinopathy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

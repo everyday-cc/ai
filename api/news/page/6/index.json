@@ -2,57 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-07-12-does-your-ai-governance-focus-on-the-right-questions.md",
-      "title": "Does Your AI Governance Focus On The Right Questions?",
-      "excerpt": "In business, governance is necessary. Does it always help? Not always. Among the reasons governance fails around IT data and systems, for example, is that the governing body doesn’t have enough authority.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/07/12/does-your-ai-governance-focus-on-the-right-questions/",
-      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/07/12/does-your-ai-governance-focus-on-the-right-questions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ec5764c5778bc031a2268b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/07/12/does-your-ai-governance-focus-on-the-right-questions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/07/12/does-your-ai-governance-focus-on-the-right-questions/amp/",
-      "publishedDateTime": "2021-07-12T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-12-how-google-used-machine-learning-to-dramatically-improve-chip-design.md",
       "title": "How Google used machine learning to dramatically improve chip design",
       "excerpt": "Commentary: To get the most out of machine learning, it pays to avoid overthinking AI. Find out how Google engineers' were able to make a ML process take less than six hours instead of weeks.",
@@ -166,7 +115,7 @@
       "originalUrl": "https://www.techradar.com/news/voice-biometrics-the-new-defense-against-deepfakes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -415,7 +364,7 @@
       "originalUrl": "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -560,6 +509,48 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops.md",
+      "title": "IIT Mandi develops AI-based model for disease detection in potato crops",
+      "excerpt": "Unsplash Researchers at the Indian Institute of Technology (IIT) Mandi, have developed a computational model based on Artificial Intelligence (AI) for automated disease detection in potato crops using photographs of its leaves. The research in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops",
+      "originalUrl": "https://www.freepressjournal.in/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2021-07/d00b7c82-7237-4819-a681-a87a33536ee9/potato_crops.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops/c8993f12-5fd3-453b-9928-25e5ae267e51",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops/c8993f12-5fd3-453b-9928-25e5ae267e51",
+      "publishedDateTime": "2021-07-12T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },

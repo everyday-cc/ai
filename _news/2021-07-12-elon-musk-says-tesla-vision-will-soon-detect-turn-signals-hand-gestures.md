@@ -44,22 +44,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Tesla's new Full Self Driving beta 9.0 still looks a bit too exciting"
-    excerpt: "Driving\" beta 9.0 software to selected early-access users, upgrading their Autopilot systems with new off-highway autonomous capabilities and better visualizations."
-    publishedDateTime: 2021-07-12T08:05:00Z
-    webUrl: "https://newatlas.com/automotive/tesla-full-self-driving-beta-9/"
-    ampWebUrl: "https://newatlas.com/automotive/tesla-full-self-driving-beta-9/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/tesla-full-self-driving-beta-9/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 104
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/1c28c35/2147483647/strip/true/crop/2160x1440+200+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6b%2F41%2Feaa0d9a542708d5fd3d7bb6c8a5d%2Fscreen-shot-2021-07-12-at-5.07.48%20pm%20%282%29.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Tesla Full Self-Driving Beta 9.0 enters early access"
     excerpt: "While having a computer crash or a smartphone not make calls isn’t catastrophic, beta testing software for fully self-driving vehicles by the public is somewhat concerning. Tesla is reportedly rolling out an early access program for the Full Self-Driving ..."
     publishedDateTime: 2021-07-12T11:35:00Z

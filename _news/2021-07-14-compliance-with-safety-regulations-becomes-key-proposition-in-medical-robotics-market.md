@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/compliance-with-safety-regulations-becomes-k
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "Ai In Medication Management Market"
-    excerpt: "The Global Ai In Medication Management Market Report is a study of prevailing drivers, trends, forecast, and restraints in the global landscape. The report is the latest addition to the vast data ..."
-    publishedDateTime: 2021-07-12T10:48:00Z
-    webUrl: "https://www.openpr.com/news/2326242/ai-in-medication-management-market-latest-industry-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
   - title: "SanLucar receives the Economía 3 Award in recognition of its international projection"
     excerpt: "The multinational firm SanLucar, devoted to the production and distribution of premium quality fruit and vegetables, has received the Economía 3 Award for Internationalization."
     publishedDateTime: 2021-07-15T13:27:00Z

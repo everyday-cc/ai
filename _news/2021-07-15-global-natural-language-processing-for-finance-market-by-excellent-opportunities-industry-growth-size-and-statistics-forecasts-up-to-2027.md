@@ -40,24 +40,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Retail Market – Industry Growth Analysis & Forecast By 2027"
-    excerpt: "Managed services to drive artificial intelligence in retail market trends Artificial intelligence (AI) in retail market will be significantly bolstered with the surging need for digitization and the consistent development of new business models across the ..."
-    publishedDateTime: 2021-07-12T08:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-industry-growth-analysis-forecast-by-2027-2021-07-12"
+  - title: "Machine Learning Market Trends and Forecast 2028"
+    excerpt: "The Global Machine Learning Market is estimated to value over USD 16.3 billion by 2028 finish at a CAGR of over 44.1% throughout the forecast from 2021 to 2028. The report on Machine Learning provides the purchasers with a comprehensive analysis of crucial driving factors,"
+    publishedDateTime: 2021-07-13T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-trends-and-forecast-2028-2021-07-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market Trends and Forecast 2028"
-    excerpt: "The Global Machine Learning Market is estimated to value over USD 16.3 billion by 2028 finish at a CAGR of over 44.1% throughout the forecast from 2021 to 2028. The report on Machine Learning provides the purchasers with a comprehensive analysis of crucial driving factors,"
-    publishedDateTime: 2021-07-13T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-trends-and-forecast-2028-2021-07-13"
+  - title: "Edge AI Market Size and Growth Prospects 2019 – 2027"
+    excerpt: "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry"
+    publishedDateTime: 2021-07-15T20:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-size-and-growth-prospects-2019-2027-2021-07-15"
     type: article
     provider:
       name: MarketWatch

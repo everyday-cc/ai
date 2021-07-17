@@ -207,6 +207,22 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Commentary: ‘Roadrunner’ uses AI to create an Anthony Bourdain soundalike. Here’s why that’s ethically squishy"
+    excerpt: "You should see “Roadrunner,” with this small but hugely controversial caveat: The voice you sometimes hear? He’s a deepfake."
+    publishedDateTime: 2021-07-17T00:10:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/movies/michael-phillips/ct-mov-anthony-bourdain-documentary-fakery-20210717-r22q73p26naexdni6sohgr6f4u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/entertainment/movies/michael-phillips/ct-mov-anthony-bourdain-documentary-fakery-20210717-r22q73p26naexdni6sohgr6f4u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/movies/michael-phillips/ct-mov-anthony-bourdain-documentary-fakery-20210717-r22q73p26naexdni6sohgr6f4u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 54
+    images:
+      - url: "https://www.chicagotribune.com/resizer/sBji7Mo3IGuTwSqkljEU9i5CdqY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BDECJG47LT2QYTA45BURPDYEKU.jpg"
+        width: 1200
+        height: 856
+        isCached: true
   - title: "'Roadrunner' director defends use of AI technology in Anthony Bourdain documentary"
     excerpt: "\"We can have a documentary-ethics panel about it later.\" While the words in question were written by Bourdain, Neville revealed that an AI software model was used to record several lines for the ..."
     publishedDateTime: 2021-07-16T13:24:00Z

@@ -622,7 +622,7 @@
       "originalUrl": "https://www.techradar.com/news/voice-biometrics-the-new-defense-against-deepfakes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1351,6 +1351,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-05-tiktok-is-now-selling-its-ai-to-other-companies-including-in-india.md",
+      "title": "TikTok is now selling its AI to other companies including in India",
+      "excerpt": "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the ... offers automated speech and text translation and real-time video effects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/articleshow/84133125.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/articleshow/84133125.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/84133139.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/amp_articleshow/84133125.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/amp_articleshow/84133125.cms",
+      "publishedDateTime": "2021-07-05T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-bytedance-selling-tiktok-ai-to-companies-including-in-india.md",
       "title": "ByteDance selling TikTok AI to companies including in India",
       "excerpt": "iBeat Analytics Ibeat 1 Year HTTPS To track article's statistics New Delhi: China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the ...",
@@ -1381,58 +1424,6 @@
         "name": "telecom.economictimes.indiatimes",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-voice-tech-makes-inroads-in-the-enterprise.md",
-      "title": "Voice tech makes inroads in the enterprise",
-      "excerpt": "Some good news, bad news for voice technology partisans in the workplace: The bad news is that the dream of a voice assistant in every conference room and on every desk hasn’t come to pass. The good news is that voice technology is still having an impact in business,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/voice.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 829,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/amp/",
-      "publishedDateTime": "2021-07-04T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

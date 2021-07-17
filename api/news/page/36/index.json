@@ -2,6 +2,41 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-06-18-ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition.md",
+      "title": "IBM Focuses on AI & Cloud, Completes Turbonomic Acquisition",
+      "excerpt": "International Business Machines Corporation IBM recently announced the completion of its acquisition of Turbonomic to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18",
+      "originalUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp",
+      "publishedDateTime": "2021-06-18T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-this-nifty-online-guide-compares-aiml-tools-and-platforms.md",
       "title": "This nifty online guide compares AI/ML tools and platforms",
       "excerpt": "This Week in Machine Learning isn't just a popular podcast, it's also a one-stop resource for figuring out what ML solutions your team needs.",
@@ -1152,49 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-indian-fintech-firm-razorpay-co-leads-1m-round-of-msme-edtech-startup.md",
-      "title": "Indian fintech firm Razorpay co-leads $1m round of MSME edtech startup",
-      "excerpt": "MSMEx, an India-based edtech startup for micro, small and medium-sized enterprises, has raised US$1 million in its pre-series A financing round led by fintech firm Razorpay and investment firm TNF Investments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/indian-fintech-firm-razorpay-coleads-1m-msme-edtech-startup?_escaped_fragment_=",
-      "originalUrl": "https://www.techinasia.com/indian-fintech-firm-razorpay-coleads-1m-msme-edtech-startup?_escaped_fragment_=",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

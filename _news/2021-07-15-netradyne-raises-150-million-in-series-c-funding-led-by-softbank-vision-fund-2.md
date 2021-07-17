@@ -67,20 +67,6 @@ related:
         width: 1050
         height: 787
         isCached: true
-  - title: "Retina AI Raises $8 Million in Series A"
-    excerpt: "Santa Monica-based analytics company Retina AI Inc. has raised $8 million in Series A funding for its artificial intelligence platform for consumer insights. The funding round, announced by the company on June 29,"
-    publishedDateTime: 2021-07-12T07:07:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/jul/12/retina-ai-raises-8m-series-a/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
-    images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/07/09/PG15_TECH_RETINA_0712-staff_t670.jpeg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
-        width: 670
-        height: 446
-        isCached: true
   - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
     excerpt: "Powered by AI and edge computing, Netradyne's Driveri® is an advanced vision-based driver recognition and fleet safety solution ... solution to capture the complete driving day with accurate object detection, event causality, and full visibility to ..."
     publishedDateTime: 2021-07-15T17:48:00Z

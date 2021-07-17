@@ -113,6 +113,20 @@ related:
         width: 1024
         height: 598
         isCached: true
+  - title: "AWS Announces General Availability of Amazon HealthLake"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon HealthLake, a HIPAA-eligible service for healthcare and life sciences organizations to ingest,"
+    publishedDateTime: 2021-07-15T14:57:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-health-coronavirus-pandemic-a6577a90cb304bcf90fa8b9af7a85b90"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Amazon (AMZN) HealthLake Boosts AWS for Health Offerings"
     excerpt: "Amazon’s AMZN cloud computing platform, Amazon Web Services (AWS) recently made Amazon HealthLake — a service eligible under the Health Insurance Portability and Accountability Act of 1996 — generally available for healthcare and life sciences organizations."
     publishedDateTime: 2021-07-16T14:58:00Z
@@ -164,24 +178,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS Announces General Availability of Amazon HealthLake"
-    excerpt: "For example, customers can apply analytics using Amazon QuickSight to understand patient and population-level trends, as well as build powerful machine learning models with Amazon SageMaker to ..."
-    publishedDateTime: 2021-07-15T15:25:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210715005761/aws-announces-general-availability-of-amazon-healthlake"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 34
   - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
-    excerpt: "Customers can then use additional services such as Amazon QuickSight and Amazon SageMaker to better understand patient and population-level trends and help make accurate predictions about the ..."
-    publishedDateTime: 2021-07-15T15:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/diameter-health-selected-as-amazon-healthlake-connector-partner-1030612136"
+    excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by"
+    publishedDateTime: 2021-07-15T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/diameter-health-selected-as-amazon-healthlake-connector-partner-301334828.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/1177382/dIAMETER_hEALTH_Logo.jpg?p=facebook"
+        width: 2207
+        height: 1158
+        isCached: true
   - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
     excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by Amazon Web Services, Inc. as a Connector Partner for Amazon HealthLake,"
     publishedDateTime: 2021-07-15T19:59:00Z
@@ -197,6 +207,6 @@ related:
         height: 600
         isCached: true
 
-secured: "cvKa/fPYIYEJVHvoGfMg/ZTQY/umqfbkUKt5TiBzXUF/jA6XQJAXeRWwzDEaXmRnctA8hXlETK8hlpbmJt9iot0Eu0QK5A7AhNM6UplLpiyokhTgC7cxuL7TsnN+Pwd9qMZL0gAo4Td3pGgGm90dSFnHygP2H9fjnU9RMFwmGtcm7dPGMKsZ79K8Pi7w1mJAELKsLBs4UHKoYigsoS+xFAiy5mXAV3R5um72g5NTrHcqKXJzex0hyEcTEPrjc+DiFupAWCvZHz5GMOsZ/jLol55MTBf4hPw0YdlkgE4Ga4HL8RANkHZZJFuAhyz+ypbgNvAUhO7EOOTveDi8RLcaX2IDtQuqy33EYTus+TqGxW0=;zMzKpBhNsXgJByBI6qJvUQ=="
+secured: "dZ0ZvPKyTM5q6h7dc1JF0lG0J+uWpvTGQk7rt+lLrVepPUgisc0ouwyB1WZ+60hVVuUN1zYnsnTcimwAypXgnr1SaAW7zMOYIW7B9JyKebZF7URFmPR68QVeE95c0h/jvHfP0LNjDz3RtSn5WSGfp4F0WIII7uMXhfD979UlPTvhSnc+7v60Ojc+5km985UzeJkijFMD4XdWS+AMgqaYX1NbQHzSzEnQZCqwR+mi6T4AlOnef8//V1vKIKe1NVQfcBm74Lv6nNm1vfRvs5UCPlazwzoRMX5EZs7cLXJCrSEpF4aE9VyxtBYypptpOoqPuYXkJbRGwPXsTcwPlaxQZrpfk3NKzyTIubMRPhwIUVqrhXuF/hq2A9tI4VV9y6iMuG6wL99JkL6Ia23GNS1HlG0gFyekfhPahHkwbxX6NI8OYrNsV7l0ggJ1ydumxXniWoCFwxFPi4BWI0N/HaRbzmChWfJT7EZkQaKAWXcm4s9OtiRerO6EGVlTzaD8Ec25lPUGxclEPnqZ7WyRgHnQWw==;AvUX07xPnEFW6JizbPeCJA=="
 ---
 
