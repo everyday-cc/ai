@@ -67,17 +67,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Machine Learning Market 2021: Global Industry Analysis Report to 2027"
-    excerpt: "healthcare, retail, finance and manufacturing. However, while technology has always been a staple of these industries, artificial intelligence (AI) has brought technology to the center of organizations. (Get 15% Discount on Buying this Report) A full ..."
-    publishedDateTime: 2021-07-12T12:14:00Z
-    webUrl: "https://www.openpr.com/news/2326383/artificial-intelligence-in-machine-learning-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2326383/artificial-intelligence-in-machine-learning-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326383/artificial-intelligence-in-machine-learning-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 43
   - title: "Global Artificial Intelligence (AI) in Education Market Size, Status and Forecast 2021-2027"
     excerpt: "The global Artificial Intelligence (AI) in Education market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report ..."
     publishedDateTime: 2021-07-15T08:56:00Z
@@ -142,17 +131,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
-  - title: "Artificial Intelligence in Gaming Market Analysis By Industry Size, Share, Revenue Growth and Demand Forecast To 2027"
-    excerpt: "The rise of artificial intelligence is an equally important stepping stone to developing smarter, more interactive, and as realistic as possible games. Whether it's racing car games, shooting games, or strategy games, most video games all have different ..."
-    publishedDateTime: 2021-07-12T12:06:00Z
-    webUrl: "https://www.openpr.com/news/2326368/artificial-intelligence-in-gaming-market-analysis-by-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2326368/artificial-intelligence-in-gaming-market-analysis-by-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326368/artificial-intelligence-in-gaming-market-analysis-by-industry"
+  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Edge Artificial Intelligence (AI) Chip market report provides"
+    publishedDateTime: 2021-07-17T04:32:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4674743-global-edge-artificial-intelligence-ai-chip-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 23
   - title: "Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence as a"
     publishedDateTime: 2021-07-15T09:05:00Z

@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-13-whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars.md",
+      "title": "Whether Those Endless Edge Or Corner Cases Are The Long-Tail Doom For AI Self-Driving Cars",
+      "excerpt": "Taking a close look at the presumed endless list of edge or corner cases that might stymy AI self-driving cars and leave them in the long-tail dust.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/13/whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/13/whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b4686a72e32cc981af2973%2F0x0.jpg%3FcropX1%3D330%26cropX2%3D2911%26cropY1%3D310%26cropY2%3D2088",
+          "width": 1200,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/13/whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/13/whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-07-13T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-how-healthcare-providers-are-embracing-a-digital-future.md",
+      "title": "How Healthcare Providers Are Embracing A Digital Future",
+      "excerpt": "Jump-started by the pandemic, healthcare providers’ digital agenda is finally falling into place, says Euan Davis, a futurist in Cognizant’s Center for the Future of Work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognizant/2021/07/13/how-providers-are-embracing-a-digital-future/",
+      "originalUrl": "https://www.forbes.com/sites/cognizant/2021/07/13/how-providers-are-embracing-a-digital-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db31dd838bb4064aab3bf7%2F0x0.png",
+          "width": 592,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognizant/2021/07/13/how-providers-are-embracing-a-digital-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognizant/2021/07/13/how-providers-are-embracing-a-digital-future/amp/",
+      "publishedDateTime": "2021-07-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-is-our-machine-learning-ars-takes-a-dip-into-artificial-intelligence.md",
       "title": "Is our machine learning? Ars takes a dip into artificial intelligence",
       "excerpt": "In my days as a staffer at Ars, I wrote no small amount about artificial intelligence and machine learning. I talked with data scientists who were building predictive analytic systems based on terabytes of telemetry from complex systems,",
@@ -774,6 +878,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-13-tesla-issues-stark-warning-to-drivers-using-its-full-self-driving-mode.md",
+      "title": "Tesla issues stark warning to drivers using its Full Self-Driving mode",
+      "excerpt": "Tesla is warning drivers with the latest beta of its Full Self-Driving mode to use it with caution as it “may do the wrong thing at the worst time.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/",
+      "originalUrl": "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 349,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/tesla-model-3-review-7563.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/?amp",
+      "publishedDateTime": "2021-07-12T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-new-approach-that-uses-machine-learning-could-transform-drug-development.md",
       "title": "New approach that uses machine learning could transform drug development",
       "excerpt": "Writing in the July 12, 2021 online issue of Nature Communications, researchers at University of California San Diego School of Medicine describe a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval.",
@@ -1015,7 +1171,7 @@
       "originalUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1046,159 +1202,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-how-mastercard-is-using-ai-to-address-cyber-risk.md",
-      "title": "How Mastercard is using AI to address cyber risk",
-      "excerpt": "Johan Gerber, executive VP for security and cyber innovation at Mastercard, discusses how it uses AI to understand and adapt to cyber risk.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/",
-      "originalUrl": "https://venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1232533853.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/amp/",
-      "publishedDateTime": "2021-07-12T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-how-levi-strauss-is-upskilling-its-workforce-to-embrace-data-and-ai.md",
-      "title": "How Levi Strauss is upskilling its workforce to embrace data and AI",
-      "excerpt": "Levi's established AI boot camps to upskill employees and teach them how to work with data science in the modern era .",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/12/how-levi-strauss-is-upskilling-its-workforce-to-embrace-data-and-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/12/how-levi-strauss-is-upskilling-its-workforce-to-embrace-data-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2013/11/wp_20131113_0021-e1626079140533.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/12/how-levi-strauss-is-upskilling-its-workforce-to-embrace-data-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-levi-strauss-is-upskilling-its-workforce-to-embrace-data-and-ai/amp/",
-      "publishedDateTime": "2021-07-12T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-how-verizon-delivers-a-phygital-customer-experience-with-data-ai.md",
-      "title": "How Verizon delivers a ‘phygital’ customer experience with data, AI",
-      "excerpt": "Verizon relied on AI to provide employees who worked in the store and those from home with customer analytics to improve customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/12/how-verizon-delivers-a-phygital-customer-experience-with-data-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/12/how-verizon-delivers-a-phygital-customer-experience-with-data-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/01/Verizon-sign-Mike-Mozart-Flickr-e1626076085458.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/12/how-verizon-delivers-a-phygital-customer-experience-with-data-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-verizon-delivers-a-phygital-customer-experience-with-data-ai/amp/",
-      "publishedDateTime": "2021-07-12T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

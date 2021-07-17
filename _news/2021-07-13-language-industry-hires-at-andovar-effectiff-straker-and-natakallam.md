@@ -3,8 +3,8 @@ category: news
 title: "Language Industry Hires at Andovar, Effectiff, Straker, and NaTakallam"
 excerpt: "Translation agency hires at Andovar, Effectiff, Straker, and NaTakallam, include a CTO, Managing Director, Business Development Director, etc."
 publishedDateTime: 2021-07-13T08:45:00Z
-originalUrl: "https://slator.com/people-moves/language-industry-hires-at-andovar-effectiff-straker-and-natakallam/"
-webUrl: "https://slator.com/people-moves/language-industry-hires-at-andovar-effectiff-straker-and-natakallam/"
+originalUrl: "https://slator.com/language-industry-hires-at-andovar-effectiff-straker-and-natakallam/"
+webUrl: "https://slator.com/language-industry-hires-at-andovar-effectiff-straker-and-natakallam/"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "q5+J678Qdh7G3vsK+T/7q/rjlQZNgqm7hSOVB/B05yXce5V2zwtzP0mJVdszwvgd6FCJJCL0/AuNz12J9Fknly5nxlEIainBfBEBPxEnnHLDERBIagJjlp6DeOZL38UQ86Mlz7yG1USYyt4EwhAV0whZ61U4vfBEJ6IG4Xc3lDvKsqYYNykX7sWGFzIl0Mg8sM4FLT81ZmjN7or357wKeLKQkN25L6vh4pYG9HktePLMWA9CCMrY19MlYxvVuEV1BvtAHVjx9yuSTTWQmIsRnYV/m8pl45opiliQ2SMrtzSIv8SL96Ydh6BOB77dlVS0vG0a4rdWNGkErKeiOHQYM78lFXrp5+7O1ibxbDRtG/HumGnHSOn/klXDB91Rgpjub++3xv6Ml12EN8FjuGKPjNeGLPHFgL2V8oL+9V8UA0Zy8mOjW7eJcKQ5Mv/1DCcr2HNldB1yQ5zOoQW3F0UBcoSu5w9D72WxY9rZkwu+p6sN3MeVrVdDIy/6/Q4lWpfyz30Bkf/4qIHe8FA33gyNUw==;eCuUOo/vXZE9C9Qy0APUzg=="
+secured: "TicY/l6Z/XfSDboDcTYg0h7wbayUsOjgcvZ5sUTK6ebne3uiSKLhzwOM7pzb5QkS8FYOhqWEopagRfAehHxqLVT5KHnzbcRcgo+5TsuhXKEFKWRoMxGCY+3qQ3w8/JpUi5DFDcyM8TGHS6kgv0u0BTsuhrHOhm33so9qyh3wr64f+gV89x8DWfi58BkAMCfBneeK6ByLm6oHVKrQDubn4IJMzP9B05T7tnTpg4Ng5smF0itXdeD2dCaOzlccVOmjK3TmzJ8Vrp1TgYG3yelvtuSU1EFlMlUyygbdDsIRG5PQtJEBf6bhzeGH4CrHAkVUlBWZNANiqLcUWXF9kTjdoGuYcgnRUJeqtoKZr9AX83g=;spRE4Kitofk15ZlkdfDedA=="
 ---
 

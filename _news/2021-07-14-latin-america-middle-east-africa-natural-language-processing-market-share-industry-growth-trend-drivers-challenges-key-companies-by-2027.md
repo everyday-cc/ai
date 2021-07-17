@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "South Africa Computer Vision Market Trend, Revenue, Key Players, Growth, Share and Forecast Till 2027"
+    excerpt: "Market Expertz latest study, titled ‘Global South Africa Computer Vision Market,’ sheds light on the crucial aspects of the global South Africa Computer Vision market. The South Africa Computer Vision report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027)."
+    publishedDateTime: 2021-07-15T06:24:00Z
+    webUrl: "https://manometcurrent.com/south-africa-computer-vision-market-trend-revenue-key-players-growth-share-and-forecast-till-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 24
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/South-Africa-Computer-Vision-Market.jpg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "Americas Computer Vision Market Share, Industry Growth, Trend, Drivers, Challenges, Key Companies by 2027"
     excerpt: "Market Expertz latest study, titled ‘Global Americas Computer Vision Market,’ sheds light on the crucial aspects of the global Americas Computer Vision market. The Americas Computer Vision report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027)."
     publishedDateTime: 2021-07-16T21:09:00Z

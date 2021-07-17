@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-15T14:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/kami-vision-to-unveil-advanced-artificial-intelligence-solutions-at-isc-west-2021-1030610858"
 webUrl: "https://markets.businessinsider.com/news/stocks/kami-vision-to-unveil-advanced-artificial-intelligence-solutions-at-isc-west-2021-1030610858"
 type: article
-quality: 62
-heat: 62
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://mma.prnewswire.com/media/1433573/IMG_1870_Logo.jpg"
@@ -27,6 +28,6 @@ images:
     height: 400
     isCached: true
 
-secured: "mPdR+HvUIF8tQPHUGmF5HmN6mDy9FACYaNKTqJ93TojHQodT5EeB2E8fhC0E083lKbuQeDrfyo48H93mL+O5aAkiH/MBmWVrumnmhJ8l2zlc1wLezMKI1NsVjKaFf0vjprudrmjzqxjSFkWiiDerGw3BXT4hRVsas+JLaqRbJZd1GaW98BiGYgckcXh/LLnYG6GNjY+PnJWBPSsXlt81c+/YoLRazis1NJxvkzsWjAtg+8hB1XScYz5EzmdrPPjmTlfsJutOmI61rEMHXtuDUdZyRO5sIQ+S6B5/m51DPFYtXkqmMxaExC1M36CnmFV30Nq7qG8IGWl27kcXyT1yPP0ThWSTpYdaa/xZiYD4u0U=;NFv6eNwU3eEuDGmh/bb1ZA=="
+secured: "aRhh0Fq2OJFUz843qlEJ909v+idt7GC6f3fp1YrZ47GqLRi3mnzKs2n3ycfi1g/OupJVAwNIUJ0iMs8kAiqxOgs/CSRzyzb0uyb0pFYSVt7rJVd7jBCYkyG4kuypI9uPTHzsFLBwwLBrtnf8aR30W98RXcZoA45WRyMSVJYv11AGCJUyz83hroCGuW2589kPvld0djO15IYCkoTm4FVyTnibvOPhKZSap/1SmsyMAkOHpNWrV+IreqdV3YMiQPSu0b9KLzdVUnIfgEzT/vZhRtZuysGYscRSc56IYVRz2g9kKnFaGR2coKH/4fEhwRKVgvkcPEVq2eQvX00iVVmJYQ1ynEYrgNWI1C1VQIja9qcCg28g2LIOmL/BRVuGPkHtu2yao4n7i6gpoCJc7zNiXf1J+7Xzqz33PHwfYLBTvFTEx67VuWvPnOXBR7CwctCV7olGF/XsBVM+TX0Qg4gMHUhTI+9WduhzjAho/dwDPODVxyA/dSEZjWJB63uoUi12FKFk8oAXhiKmC+0Z/75V+A==;DsSJMYxCs9vc9np+/gJ71g=="
 ---
 

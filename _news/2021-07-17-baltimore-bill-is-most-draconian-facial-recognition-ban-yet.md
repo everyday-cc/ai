@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Baltimore Bill Is Most Draconian Facial Recognition Ban Yet"
-excerpt: "On June 14, Baltimore passed Council Bill 21-0001 and will become the second U.S. jurisdiction to enact sweeping facial recognition regulation that bans the use of facial biometrics by any private entity or individual within city limits. While a number of ..."
-publishedDateTime: 2021-07-16T20:31:00Z
-originalUrl: "https://www.law360.com/articles/1403813/baltimore-bill-is-most-draconian-facial-recognition-ban-yet"
-webUrl: "https://www.law360.com/articles/1403813/baltimore-bill-is-most-draconian-facial-recognition-ban-yet"
-ampWebUrl: "https://www.law360.com/amp/articles/1403813"
-cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1403813"
+excerpt: "Because Baltimore's recently passed bill banning use of facial recognition by private entities goes even further than Portland's ban by imposing criminal penalties and may encourage lawmakers in other jurisdictions,"
+publishedDateTime: 2021-07-16T20:15:00Z
+originalUrl: "https://www.law360.com/employment-authority/articles/1403813/baltimore-bill-is-most-draconian-facial-recognition-ban-yet"
+webUrl: "https://www.law360.com/employment-authority/articles/1403813/baltimore-bill-is-most-draconian-facial-recognition-ban-yet"
+ampWebUrl: "https://www.law360.com/employment-authority/amp/articles/1403813"
+cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/employment-authority/amp/articles/1403813"
 type: article
 quality: 39
 heat: 39
@@ -20,6 +20,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "dBTkSELl+OX/vfZILqopJ2CfgARBJauSvuEIkuA7Vx53xODUQHpbSNMcRQgxD54mfDCZBHUDNjMkbbKIp1Lh9zGN0Z6627YNM5voKDxUGnKHajG1xacQNOnugc1BIm8o4TXjcONhXeEpC8beXZzMdpGJgKAg1EFicBGadxR3GXblImrNL+Mn72feCxNOcDoSIty7T+GGL59bt2DMKdiI4HZmcCZcUgW4GS3+ZPF6PbIVlpBK7GJW4MiYaH2xd2wPEWDpyT1dn6+J0Hx7T+zpmfszPXLkncmH+VejDq6uf9J+LAxbDDj0FIcr14yNBQ9kXYK9Sym4xFmYlNaIeiRhBXoQXvFwnSnOzC/C1QqZs2k=;SueyDvE5MmTfxZbLkU8BAg=="
+secured: "tgiHDwEhJJ4QPWtSpJyaV/i6HV2dXbGiFuqD2beqITLJ+U2iQpfoyz5b6XoijXeTTwejLRJo1l02X0OB+xrkWuG8LXubxxrJGiDz42D+DXYZRWshQW079XreOdMcgf19yql9fxp0U1QFIMjFdpnpHPCffs/Gcyy/0x6MTDLvGHS4VpsquN4soopPbNegvhN1iXc1wx/pJ415vq0Q0xf8uWporDo9rVG8+7xi3T/PCYml+hpy0HMcSFaGEVBkqGgxNaNBud2w4H9gqw5hWZVFAToDhW3ONAHMj0aqDTDcq74aXi+ZjFLc3NkkZTMkfDQa9Z6lhxlf9o4k59F7wxvdULO/50Unjo4J8aGwQUdV8II=;tOTEBIzG1TobGzfCgLxwzA=="
 ---
 

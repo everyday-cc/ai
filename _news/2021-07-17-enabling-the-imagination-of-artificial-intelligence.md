@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Enabling the 'imagination' of artificial intelligence"
-excerpt: "Despite advances in deep neural networks, computers still struggle with the very human skill of 'imagination.' Now, a research team has developed an AI that uses human-like capabilities to imagine a never-before-seen object with different attributes."
-publishedDateTime: 2021-07-16T20:09:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/07/210716150758.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/07/210716150758.htm"
+excerpt: "Despite advances in deep neural networks, computers still struggle with the very human skill of ''imagination.'' Now, a USC research team has developed an AI that uses human-like capabilities to imagine a never-before-seen object with different attributes."
+publishedDateTime: 2021-07-16T17:42:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-07/uosc-et071621.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uosc-et071621.php"
 type: article
-quality: 49
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - Machine Learning
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/270853_web.jpg"
+    width: 720
+    height: 360
+    isCached: true
 
 related:
   - title: "Researchers create artificial intelligence to 'imagine' unseen objects"
@@ -56,6 +57,6 @@ related:
         height: 1343
         isCached: true
 
-secured: "8M2VvfLGDnqx//1X6iBp9ZKHKM8T0LKAga7BDkM7AzR2gYm+qzkEK/EEhlU0oqDHR9zKbpKH1mY7gnRbuVKoQNNaHVe67XthBX1SUmfDXK7Ss78wuBGL9tuEb3aGZJBPqnJMVMFQ36TPvtxpUow+PqdNkeEGGFL13ONnBP4xep0RuZ+UMG00L4C8LJ/V3ES1Gl0tz0cSttcyfLHg+aR6srdPSAi4zs0z81SaBTZXp4ocSF1W7vMyf+ZEMTHAw4lgjwBkbqFyDYMZg6DLDdthFuzAJudFXfITvulxjJocymn8r4TowgOmfeHICuZFiYPiIZprhefEpmnPJQA3XPGe1ZBo+Al5HR8ax4n2exuizdI=;r3XS2M+SSjqSKb1Z4PZzYw=="
+secured: "9v68g2s0at7MhWbPIwaI/w0VAwwzmciCZMlwVOqx00oum4tZAxKc7uHnEJ7QASsPltp5y5JktzJOGF8w/qOZfLNm8QOoEBPTYatj7tn6cS5nHEX7QbIYKKnbFVqv03N392RP7MSKKfdVKnKC2GJoO7tzxgLGuuhlo7Q0DS9cBLGfPc9bJsuv3LivPqrY8cOk3mCUlUnPAJwuJkC4sh4F4gjblVsbsNMi0aDrNT1ZDFaNNRSP3NBqLqDPvCjGTMmUQW/Kn/zdo2tpYpkAWSQhOOewDyw0GrvIBjLHGQyxmufFIhFPPK4McwYpWkIbH2QXBHzGpMFxg/WQSvoHZ50AltzWOZ42Jq/ovv1UVRN7mmM=;xRHHIC2lUDDxjYcB7JRkDw=="
 ---
 

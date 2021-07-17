@@ -7,8 +7,8 @@ originalUrl: "https://www.design-reuse.com/news/50315/innatera-neuromorphic-ai-c
 webUrl: "https://www.design-reuse.com/news/50315/innatera-neuromorphic-ai-chip.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Design-Reuse
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "IIT Delhi Researchers Demonstrate a New Brain-inspired Artificial Neuron for Building Accurate and Efficient Neuromorphic AI Systems"
+    excerpt: "Human brain is one of the most powerful and intelligent natural computer known to mankind. Neuromorphic computing refers to the field of technology where engineers try to build intelligent machines in"
+    publishedDateTime: 2021-07-16T23:03:00Z
+    webUrl: "https://indiaeducationdiary.in/iit-delhi-researchers-demonstrate-a-new-brain-inspired-artificial-neuron-for-building-accurate-and-efficient-neuromorphic-ai-systems/"
+    ampWebUrl: "https://indiaeducationdiary.in/iit-delhi-researchers-demonstrate-a-new-brain-inspired-artificial-neuron-for-building-accurate-and-efficient-neuromorphic-ai-systems/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-delhi-researchers-demonstrate-a-new-brain-inspired-artificial-neuron-for-building-accurate-and-efficient-neuromorphic-ai-systems/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 28
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/07/iitdelhi-1024x581.png"
+        width: 1024
+        height: 581
+        isCached: true
   - title: "Neuromorphic AI developer Innatera boasts new chairman of the board"
     excerpt: "Less than a year after announcing the closing of a five-million-euro seed investment, neuromorphic processor developer Innatera Nanosystems is adding a big name to its board of directors. Looking to tap into his rich history within the semiconductor industry,"
     publishedDateTime: 2021-07-15T06:39:00Z

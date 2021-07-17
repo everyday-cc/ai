@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-17-tesla-launches-its-full-self-driving-subscription-package-for-199-per-month.md",
-      "title": "Tesla launches its Full Self-Driving subscription package for $199 per month",
-      "excerpt": "Tesla has officially launched its Full Self-Driving subscription package for $199 per month or $99 for those who have previously bought the now discontinued Enhanced Autopilot package. Tesla FSD Subscription Tesla currently sells the Full Self-Driving package for a one-time payment of $10,",
+      "path": "_news/2021-07-17-robot-training-on-famous-highland-estate-will-make-driverless-vehicles-more-reliable.md",
+      "title": "Robot ‘training’ on famous Highland estate will make driverless vehicles more reliable",
+      "excerpt": "The project will help make driverless vehicles of the future more reliable ... engineers and students dedicated to researching robotics, artificial intelligence, systems engineering, and other related fields. A crash scene for the new James Bond movie ...",
       "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/",
-      "originalUrl": "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/",
+      "webUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
+      "originalUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 93,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.pressandjournal.co.uk/wp-content/uploads/sites/2/2021/07/ORI_Scotland-3.jpg_39621277-scaled-e1625854534304.jpg",
+          "width": 2457,
+          "height": 1472,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/amp/",
-      "publishedDateTime": "2021-07-16T20:33:00-07:00",
+      "ampWebUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
+      "cdnAmpWebUrl": "https://www-pressandjournal-co-uk.cdn.ampproject.org/c/s/www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
+      "publishedDateTime": "2021-07-16T22:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Press and Journal",
+        "domain": "pressandjournal.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -50,7 +41,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -245,21 +237,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-17-deepmind-open-sources-alphafold-2-for-protein-structure-predictions.md",
-      "title": "DeepMind open-sources AlphaFold 2 for protein structure predictions",
-      "excerpt": "Alphabet's DeepMind has open-sourced AlphaFold 2, an AI system that can predict the 3D structure of proteins with high accuracy.",
+      "path": "_news/2021-07-17-cloud-natural-language-processing-market-analysis-reveals-explosive-growth-by-2026.md",
+      "title": "Cloud Natural Language Processing Market Analysis Reveals Explosive Growth by 2026",
+      "excerpt": "Get Free Sample Pages of Global Cloud Natural Language Processing Market Study Now @:  As Cloud Natural Language Processing research and application [Information Extraction, Machine Translation, Processing and Visualization & Question Answering] continues to expand in scope,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/",
-      "originalUrl": "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/",
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-analysis-reveals-explosive-growth-by-2026-2021-07-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-analysis-reveals-explosive-growth-by-2026-2021-07-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 600,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -267,16 +259,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/",
-      "publishedDateTime": "2021-07-16T13:50:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-16T13:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -292,7 +284,7 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -645,58 +637,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech.md",
-      "title": "Sense Photonics Sees Flash LiDAR As Best Path To Full Self-Driving Tech",
-      "excerpt": "Sense Photonics is on a mission to make LiDAR, the core of self-driving technology, more affordable and less obtrusive. And it is leveraging two elements of the iPhone 12 to get there. Today, most autonomous vehicles in test fleets have a cumbersome ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/",
-      "originalUrl": "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f196f7d4f6705300ca741c%2F0x0.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/amp/",
-      "publishedDateTime": "2021-07-16T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-16-update-1-toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech.md",
       "title": "UPDATE 1-Toyota buys U.S. mapping, road data firm to bulk up driverless tech",
       "excerpt": "Woven Planet was established in January to invest in and develop mobility with artificial intelligence. It is building a prototype ... Moving into new and non-traditional car making such as driverless and electric technology, Toyota has increasingly ...",
@@ -705,7 +645,7 @@
       "originalUrl": "https://cn.reuters.com/article/toyota-autonomous-acquisition-idCNL1N2OQ31A",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1204,6 +1144,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-16-ai-can-compute-protein-structures-in-10-minutes.md",
+      "title": "AI Can Compute Protein Structures in 10 Minutes",
+      "excerpt": "Scientists have waited months for access to high-accuracy protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/proteomics/news/ai-can-compute-protein-structures-in-10-minutes-350927",
+      "originalUrl": "https://www.technologynetworks.com/proteomics/news/ai-can-compute-protein-structures-in-10-minutes-350927",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG",
+          "width": 389,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927",
+      "publishedDateTime": "2021-07-16T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-edtech-platform-vedantu-invests-in-ai-enabled-learning-startup-pedagogy.md",
       "title": "Edtech platform Vedantu invests in AI-enabled learning startup Pedagogy",
       "excerpt": "Live online learning platform Vedantu on Thursday announced a strategic investment in Pedagogy, an AI-enabled learning startup that provides online courses and interactive digital books for students preparing for competitive examinations.",
@@ -1212,7 +1195,7 @@
       "originalUrl": "https://www.thenewsminute.com/article/edtech-platform-vedantu-invests-ai-enabled-learning-startup-pedagogy-152424",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {

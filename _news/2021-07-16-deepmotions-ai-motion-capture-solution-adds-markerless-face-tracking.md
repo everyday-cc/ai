@@ -28,20 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "BxVideo's New EZLive Caption Offers Self-Service Transcription, Translation and Captioning for Live-Streaming Video Events"
-    excerpt: "The service utilizes AI for machine transcription and translation from 30 different spoken languages and more than 50 text-based caption languages. For more information, please visit www.bxvideo.com."
-    publishedDateTime: 2021-07-14T13:20:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video/article_fa4d16a5-d9bf-5873-8016-d935109d13f4.html"
+  - title: "BxVideo’s New EZLive Caption Offers Self-service Transcription, Translation and Captioning for Live-Streaming Video Events"
+    excerpt: "The service utilizes AI for machine transcription and translation from 30 different spoken languages and more than 50 text-based caption languages. For more information, please visit www.bxvideo.com. “Having produced thousands of live-streaming events ..."
+    publishedDateTime: 2021-07-14T15:26:00Z
+    webUrl: "https://www.streamingmedia.com/Producer/Articles/News/Featured-News/BxVideos-New-EZLive-Caption-Offers-Self-service-Transcription-Translation-and-Captioning-for-Live-Streaming-Video-Events-147954.aspx"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Streaming Media Magazine
+      domain: streamingmedia.com
     quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "ATrCQAl3HjLAj7GWIaDaMwEYMivvrqvcUbN4mfOCWI2o9iocMpE4GQz78utfvYAyRJfLFVQA0nPf//LUcmHLpe+K9r/Aa9K4vKIDYfsNY5gRjwB3PB5RWs5t0ljmpNC+K0M9wi/0vg/6Uey+s3A6EMRHeWMJDgFDD7lWhNWJjx0GL4Ap7BvWQ3udWrlZMEOPbYHQUDvLRM1IKbPYaXD4Bo+agWOdq7KRece/4Us5eA5xBumdNPbCk4LyXtodxMvtqqazow7CFujqqZImoKnaeNSuNJxWnfvkgXNKZcl/vegry+u0AfeFTnfDGNQ5eKJmtFSPZmZP5KuCA+b9vwMniAPg05GmYzS/xK0ev/tbObbCEIY+BM6B3oHtEEJwQRx2GRU9WcrATOzi635SL7dwaSSB4mdiIJyoCJRSi4VN+ZMwaF4GQtfg80wP1eTinzkCebyIJBSW3ttSLUkjUCwzbe+BSCq5cR44wp0OsYzaAQbjGLEQdKxivcwsgnbZEnoey/Vx0zSYdujCm8pe1CvLEg==;p3k8yO+1iG+20pjuefmHig=="
 ---

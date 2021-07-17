@@ -27,108 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind open-sources AlphaFold 2 for protein structure predictions"
-    excerpt: "Alphabet's DeepMind has open-sourced AlphaFold 2, an AI system that can predict the 3D structure of proteins with high accuracy."
-    publishedDateTime: 2021-07-16T20:50:00Z
-    webUrl: "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/"
-    ampWebUrl: "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/"
+  - title: "GM Ventures Increases Funding In AI Vision Software Company Algolux"
+    excerpt: "Algolux, an AI software company based out of Quebec, has announced the closure of series B funding, raising $18.4 million to help accelerate market adoption of the company’s scalable computer vision and image optimization solutions."
+    publishedDateTime: 2021-07-12T21:05:00Z
+    webUrl: "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/"
+    ampWebUrl: "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/"
+    cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all"
-        width: 1198
-        height: 600
-        isCached: true
-  - title: "AI Can Compute Protein Structures in 10 Minutes"
-    excerpt: "Scientists have waited months for access to high-accuracy protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
-    publishedDateTime: 2021-07-16T08:07:00Z
-    webUrl: "https://www.technologynetworks.com/proteomics/news/ai-can-compute-protein-structures-in-10-minutes-350927"
-    ampWebUrl: "https://www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927"
-    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927"
-    type: article
-    provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
+      name: GM Authority
+      domain: gmauthority.com
     quality: 59
     images:
-      - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
-        width: 389
-        height: 389
-        isCached: true
-  - title: "DeepMind and a rival release dueling code for protein-folding AI"
-    excerpt: "The race to release both teams’ code reflects not just an advance for computational biology, but for a culture of transparency in the field."
-    publishedDateTime: 2021-07-15T18:00:00Z
-    webUrl: "https://www.statnews.com/2021/07/15/deepmind-alphafold-rosettattafold-protein/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 54
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2018/03/AdobeStock_153240764-1024x576.jpeg"
+      - url: "https://gmauthority.com/blog/wp-content/uploads/2021/01/Cruise-Origin-Honda-Japan-autonomous-vehicle-mobility-service-MaaS-announcement-002-e1611168765981-1024x553.jpg"
         width: 1024
-        height: 576
+        height: 553
         isCached: true
-  - title: "DeepMind and and a rival release dueling code for protein-folding AI"
-    excerpt: "The race to release both teams’ code reflects not just an advance for computational biology, but for a culture of transparency in the field."
-    publishedDateTime: 2021-07-15T18:00:00Z
-    webUrl: "https://www.statnews.com/2021/07/15/deepmind-alphafold-rosettattafold-protein/"
+  - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
+    excerpt: "Netradyne, a leader in artificial intelligence (AI) and edge computing focusing on driver and fleet safety, today announced a $150 million, Series C funding led by SoftBank Vision Fund 2 *, with participation from existing investors Point72 Ventures and M12."
+    publishedDateTime: 2021-07-15T16:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/netradyne-raises-150-million-in-series-c-funding-led-by-softbank-vision-fund-2-1030612357"
     type: article
     provider:
-      name: STAT
-      domain: statnews.com
-    quality: 54
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2018/03/AdobeStock_153240764-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "DeepMind’s AI for protein structure is coming to the masses"
-    excerpt: "Machine-learning systems from the company and from a rival academic group are now open-source and freely accessible."
-    publishedDateTime: 2021-07-15T18:05:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-01968-y"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
+    excerpt: "Powered by AI and edge computing, Netradyne's Driveri® is an advanced vision-based driver recognition and fleet safety solution ... solution to capture the complete driving day with accurate object detection, event causality, and full visibility to ..."
+    publishedDateTime: 2021-07-15T17:48:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/netradyne-raises-150-million-in-series-c-funding-led-by-softbank-vision-fund-2/article_c208b668-4141-5411-8aed-8212f1f3ca56.html"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 54
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01968-y/d41586-021-01968-y_19363650.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Accurate protein structure prediction now accessible to all"
-    excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
-    publishedDateTime: 2021-07-15T18:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uows-aps070921.php"
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 15
+  - title: "RVH Solutions Inc. Secures Series B Funding from Vizient Inc., the Nation's Largest Member-Driven Health Care Performance Improvement Company"
+    excerpt: "RVH Solutions, Inc. (the \"Company\"), a leading healthcare technology solutions provider to hospitals, health systems, academic medical centers and skilled nursing facilities in the United States and the United Kingdom,"
+    publishedDateTime: 2021-07-12T13:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-rvh-solutions-inc-secures-series-b-funding-from-/2021/07/12/9406724.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/270310_web.jpg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "AlphaFold 2 open up protein structure prediction software for all"
-    excerpt: "Source code for AlphaFold 2, an algorithm that predicts 3D protein structure with unprecedented accuracy, is now freely available."
-    publishedDateTime: 2021-07-16T14:26:00Z
-    webUrl: "https://frontlinegenomics.com/alphafold-2-protein-structure-prediction-software-for-all/"
-    type: article
-    provider:
-      name: Front Line Genomics
-      domain: frontlinegenomics.com
-    quality: 24
-    images:
-      - url: "https://frontlinegenomics.com/wp-content/uploads/2021/07/protein.png"
-        width: 1143
-        height: 946
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "B3uq+uiywiOC/6O4E7wUfrbeyfYFxAOlbNbEcCzCmZx1JEEnRvJJru0j9IcweVQ1Bll0Rs1+p+EZkwo+DvAx3Zd+y8MN2aJbzrTZSDEBdTI9YCrWKpzcYcqMBnZd8pEQCkgUGD1HW6ab4bxLxGXOL4+LVg+UebFZpGO5HM5rL/jkClvYuuQ+zUSxmCO6TKw4va8FPt3NeeF24Pjgo9acV0ZOvvpzaAUmEiPboTtH4mG9lXElM3L2OCEX0oek75DJ7CDVK18+9jidKvDgWO7BLGN+5xstEbYVPdswCfT8QZm2dJyFb0Pu9X+XRcuJVRFmhllSO9x6LHePhvW6FqqT68ljELKVp1qtan9ZWkPcNGfayKTtxpRqBEzSrES4ryVNlXJdFwAaTvdTYheqyD/zIVBvMYga4bkpGAbfqZ93NzGsiB9CbjV40EOETKkXttEu15dTkQIV+3YT7+roJ7TV1gVHQBHPf9ZkywQakebI2NNSlwjUmUUXtwuW6uhIpenbJu6iM7wpNvR33u7o5T4XkQ==;G4W/ewvFoOmqfM6+UyPv2A=="
 ---

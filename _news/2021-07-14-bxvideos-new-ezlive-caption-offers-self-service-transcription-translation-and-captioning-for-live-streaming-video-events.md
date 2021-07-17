@@ -1,28 +1,22 @@
 ---
 category: news
-title: "BxVideo's New EZLive Caption Offers Self-Service Transcription, Translation and Captioning for Live-Streaming Video Events"
-excerpt: "The service utilizes AI for machine transcription and translation from 30 different spoken languages and more than 50 text-based caption languages. For more information, please visit www.bxvideo.com."
-publishedDateTime: 2021-07-14T13:20:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video/article_fa4d16a5-d9bf-5873-8016-d935109d13f4.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video/article_fa4d16a5-d9bf-5873-8016-d935109d13f4.html"
+title: "BxVideo’s New EZLive Caption Offers Self-service Transcription, Translation and Captioning for Live-Streaming Video Events"
+excerpt: "The service utilizes AI for machine transcription and translation from 30 different spoken languages and more than 50 text-based caption languages. For more information, please visit www.bxvideo.com. “Having produced thousands of live-streaming events ..."
+publishedDateTime: 2021-07-14T15:26:00Z
+originalUrl: "https://www.streamingmedia.com/Producer/Articles/News/Featured-News/BxVideos-New-EZLive-Caption-Offers-Self-service-Transcription-Translation-and-Captioning-for-Live-Streaming-Video-Events-147954.aspx"
+webUrl: "https://www.streamingmedia.com/Producer/Articles/News/Featured-News/BxVideos-New-EZLive-Caption-Offers-Self-service-Transcription-Translation-and-Captioning-for-Live-Streaming-Video-Events-147954.aspx"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Streaming Media Magazine
+  domain: streamingmedia.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "DeepMotion's AI Motion Capture Solution Adds Markerless Face Tracking"
@@ -40,6 +34,6 @@ related:
         height: 225
         isCached: true
 
-secured: "23VJIJveA3bSgzJ25LL7s32nw7tGICrR7f/IR7cF1M6lY2Jq8KAT+L+4cFKZdg9iy4RuDVQGJaqkSL7zFtDKPB9V9ZGMg5QEfLJoMu1SG59tci33RYJKryT968zqdoSUFToqMPw1RtmioNDnVQvcKmXAdLKbuOHOy4Z4shVJivpsprV0Og/iSL2SlcW11Ip79NwwL55NQmCu1uwO2/HAyA+L85Of8KthzGnOnQJTG/c9zQvREo2DluP3ujIWbs/GoKH1BqjWdVJ1a4QrHfbfjas0AaOcRpNzv8TlLcAr92zXE02+qO28ZOgnzrDZY+y0KM/B2hpzxxAJJhyTpSjXED4YFQFoK6PW3TP0BXwfHbo=;MnwF0PzEVhkrWgZaISrt7w=="
+secured: "9qrFWg3NvevpjhnZms0P+4O4Mv58+n0VioH8lYxN2rSUBi868Voa7QDZtdxfhO1CRCxa3xA5jT2XiEjU5kJJzAFO8mMy+mTjXdi7qYtjl/VL2gIXEPjdgeqqYPglN5RceR5PLObfD6xY9sRcGRC6Um5CELqqL9eAkMIGUmywL+q+ppcH+2NBXK+GBRWFq6vSjMGOP+0fmGj+KLKuFUghw4WekNLQxAhd1P8GocdI5E9Lg+TUdBnj4b/j7pQCJ5a+Yq4ORW3VrRN7SrAdmUZZS/n6DqUz8CAorAEqWiYNf9awEPzNvNyo3uZxu101zxKZR3p9XW4qQ1HQ2ogolhd+VjISOh/YT10I0RIrpK2A70U=;jrqTUwLz6DV/Mzh38rbE4A=="
 ---
 

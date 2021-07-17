@@ -15,7 +15,7 @@ provider:
   domain: lelezard.com
 
 topics:
-  - AI in Finance
+  - AI in Healthcare
   - AI
   - Machine Learning
 
@@ -43,6 +43,6 @@ related:
         height: 360
         isCached: true
 
-secured: "zFnpTW8Zk6F1/VYM8WgXgeIXKR7A60z9nf2GFaIRZ3hiyd8FKDdrpwuxWc1Cg/2Z7HbESgKxKThkG4wzzSO+PqUDzjcg5ERsxJ1V+QlqsH/mUsCvYHJqWUwSC20DA6Mq6pdzCKrjDQHAgoqJYbXVObjwxoCNdhGRfXEOSP3dqR7MtsW82dOS6SvaFG7dBXQ6Hj6IBDIr5+Yf41QIIjoCUOJalBQB9s+2aXOHa9ycA94ceHJtqooh9pk3CSBq8nyDa5niO43HSAfP222YyrcLBlihOCBpy4QuFGUWjetZKZMqzyakqDBDsgUdaMj0n+aTG7VwDY1ebEu8Ob44o7YZRI4/dpGMpCePhS8CSl0rcvM=;YmeywH2mGcoXpao1A7DubA=="
+secured: "oPLyZ4z6NoM8pu2eFZvW4IuyHdBK0VN4Adb7OdmTL7ok/QRPjQEHSNLuaEgCsDLek+GnNphBZ/W6gazOQjphQzQpKbnf3STuNhWcUvFm5LeuL3pS6ooG3/wK7vcnSlJs+ygMsREWHGLJHcXo/LAMlGEA7pqhQmWHN050coht7Ms0IeGY+R84wk1dyPeR+Pmaxd9AHRcCd84bmYM5+WwMOiXSyKXvWAPXXu/Ad90xImJndHyucS6dBsWw2DirFrENg+rVWE0Xy+Nf/cjmecccF625+/u/gp06L1k7oZnMm4/36cy2SWxT4dS58z7aw/VXnw/kfNGugcyA+vFpE+65kfoqKBRk0FbhItd5Y//Czi4=;kgwSxwToFtXnX7AkMzb2sw=="
 ---
 

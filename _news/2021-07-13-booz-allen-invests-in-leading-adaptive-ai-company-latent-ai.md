@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Booz Allen Invests in Leading Adaptive AI Company Latent AI"
-    excerpt: "Booz Allen Hamilton (News - Alert) (NYSE: BAH) announced today that it has made a strategic investment in Latent AI, Inc., a rapidly growing company with an award-winning suite of software tools that enable adaptive artificial intelligence (AI) and machine learning (ML) at the edge."
-    publishedDateTime: 2021-07-12T12:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-booz-allen-invests-leading-adaptive-ai-company-latent-/2021/07/12/9406562.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Vedantu invests in AI learning startup Pedagogy"
     excerpt: "Live online learning platform Vedantu on Thursday announced a strategic investment in Pedagogy, an AI-enabled learning startup that provides online courses and interactive digital books for ..."
     publishedDateTime: 2021-07-15T16:25:00Z

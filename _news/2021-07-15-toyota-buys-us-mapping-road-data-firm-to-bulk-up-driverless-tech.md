@@ -93,38 +93,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Toyota's Self-Driving Unit Acquires US Mapping Firm Carmera"
-    excerpt: "Toyota’s self-driving unit, Woven Planet, will now have the benefit of more software mapping through its acquisition of U.S. mapping startup Carmera."
-    publishedDateTime: 2021-07-15T02:42:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Toyota-Woven-Planet-Carmera-acquisition-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Toyota’s self-driving unit buys US mapping start-up in software push"
-    excerpt: "Toyota’s self-driving unit has acquired US mapping start-up Carmera as the Japanese group embarks on a software buying spree in an attempt to quadruple its global engineering headcount over the next few years."
-    publishedDateTime: 2021-07-14T21:01:00Z
-    webUrl: "https://www.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
-    ampWebUrl: "https://amp.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdb76abab-edd2-4a11-abb9-fd67b076d31c.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Toyota Tech Arm Plans Self-Driving Acquisition Spree"
     excerpt: "Toyota Motor Corp.’s software and technology arm plans to embark on an ambitious hiring and acquisition spree as automakers globally jostle for pole position in the race to develop smart cars that will one day drive themselves."
     publishedDateTime: 2021-07-14T22:00:00Z
@@ -154,6 +122,6 @@ related:
         height: 512
         isCached: true
 
-secured: "9sm+niqw3CBw2H+YsMJi9ahHzInn1flhWnEpBKiqZQ7GLIYxu6RW9yXu/u2M6iP8qRaVUn3IbmZQiFI2B7sDgMj3icy5ADgjdYLMT/JLn91q9SmZSpIK3H6MCM/VjQ+jPMReTPfkZeVWRBq47wiQ3Oryw0R+cdW2X1GvViGkn0zXQvVdwBJy0l+nrKeHSwNS/ZnyoxaM7rXjqMHqR1xhZZH7/+anCBqxyyB2gegGE7MGF7/MBwldR6jIV8FPw0llXQTTmbH3N6r8YXyDFgAT8CPiDQI3gOMdFxnsuUgFjye9JnQFW4DjiLaT7GwxdPM5feqwaTeklQ98LxW3WJ8CjZWvY2QtMrSMuFc+ETvS+cs=;2kl9hjeQhc8dB0QVcRaseA=="
+secured: "zt8w+jib7Xo2GDD+0/BM1QaFomiEc/jIW5tt/8p+++V56DLlKmpLld4xeL8V7ONwFav0w6DwvneQWiqUCLBGWvaNvoZz+1FrakL9CIWW4okvq52Cex40XhfU+iva5lebeXjdxLwEOAolZBHLh34tgP9oc2/895ntWs6DQ8H9CkhQDD/qlKmzY2Hn9C5l/TZg24XD6d2/noHbngYH2dLc1+qsByMdMsOFQB3eFY1ZuR9MI6Tm+OWo/umOfcq0AyKnpsI1qaglOpPkAfMWq16awP1WeVF4rrwOMIvYu+pdPhDGBiiuqkEzB1kM+TpC6Wt076CKOB1rwbc5bziD9kepr6mPb8a3K/gAEDrAt6xY1hk=;sQf5sCYz8VQzzXqKteAC8Q=="
 ---
 

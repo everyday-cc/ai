@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/accesswire/europe-business-techno
 webUrl: "https://apnews.com/press-release/accesswire/europe-business-technology-health-498a14b1377db902fa2b61a3a2acabd3"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "AI/ML Innovations Inc. Announces DTC Eligibility"
-    excerpt: "TORONTO, ON /  / July 12, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF) ('AIML' or the 'Company'), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
-    publishedDateTime: 2021-07-12T11:50:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270265128/aiml-innovations-inc-announces-dtc-eligibility"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1625938792932.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "jyjccmr4895cOcz9EI1rX/RShb7MDAzMZIXjJBVkd6UN+aheRIr/LNUtaZeR1aQ2sMX2ZT56myW1oejP05Azl2lkGd5v+FA1C3+pJloxJGXZOTZUnAJF8Hg6Ud0e9SZDfYn+Lkm5aYokRKEwZlqEg1eMeLTlw6OygiVq/HbuI0nhFPzRZwvzm1Q6lLIPD2RIHK8cVinT1LhtpGypPKglYTbaqwBiHkGc1HuOEvlaH+61sh+u/YgeViOgWaIqxVhrLOL4lpg5N5yTBFHSOyA4XWGcZYNkSW6O69ghKEq2PtcWcx58hnoJ8eU/WdhC+U4Rb3MaHFm5JhSCjHLLWV8EDO3Qtd/i31eNZCH1ei3xaqY=;YV1WR9kOJN8yls/3R8Lyqg=="
 ---

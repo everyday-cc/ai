@@ -35,6 +35,22 @@ related:
         width: 1024
         height: 553
         isCached: true
+  - title: "New artificial intelligence software can compute protein structures in 10 minutes"
+    excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction,"
+    publishedDateTime: 2021-07-15T18:00:00Z
+    webUrl: "https://phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.html"
+    ampWebUrl: "https://phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/accurate-protein-struc.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
     excerpt: "Netradyne, a leader in artificial intelligence (AI) and edge computing focusing on driver and fleet safety, today announced a $150 million, Series C funding led by SoftBank Vision Fund 2 *, with participation from existing investors Point72 Ventures and M12."
     publishedDateTime: 2021-07-15T16:14:00Z
@@ -44,34 +60,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "Algolux Closes $18.4 Million Series B Round for Robust Computer Vision"
-    excerpt: "New investment will serve to accelerate market adoption of Algolux's robust and scalable computer vision and image optimization solutions"
-    publishedDateTime: 2021-07-12T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision/article_2463f289-37fe-5f16-bcd4-e9afc907ccde.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/4c/94c32bf1-ef68-536c-8c84-9af1c9d96a28/60ec3d841c887.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Computer vision startup Algolux secures $23 million CAD Series B round"
-    excerpt: "Montréal-based computer vision startup Algolux has raised $23 million CAD ($18.4 million USD) in a Series B funding round co-led by Forte Ventures and Drive Capital. Algolux is using the all-equity capital in an aim to increase the market adoption of its ..."
-    publishedDateTime: 2021-07-12T12:59:00Z
-    webUrl: "https://betakit.com/computer-vision-startup-algolux-secures-23-million-cad-series-b-round/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 39
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2021/07/Algolux_Test_Vehicle-1.jpeg"
-        width: 1050
-        height: 787
-        isCached: true
   - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
     excerpt: "Powered by AI and edge computing, Netradyne's Driveri® is an advanced vision-based driver recognition and fleet safety solution ... solution to capture the complete driving day with accurate object detection, event causality, and full visibility to ..."
     publishedDateTime: 2021-07-15T17:48:00Z

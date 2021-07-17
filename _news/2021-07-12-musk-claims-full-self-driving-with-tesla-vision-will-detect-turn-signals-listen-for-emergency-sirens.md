@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The self-driving race between Elon Musk's Tesla and Domino's pizza robots"
-    excerpt: "Elon Musk has talked up full self-driving for years, but missed many deadlines. Some are betting the big progress in autonomous vehicles: delivering pizza."
-    publishedDateTime: 2021-07-12T11:26:00Z
-    webUrl: "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 105
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106907169-1625602487443-rev1.jpg?v=1625667387"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Tesla Full Self-Driving Beta 9.0 enters early access"
-    excerpt: "While having a computer crash or a smartphone not make calls isn’t catastrophic, beta testing software for fully self-driving vehicles by the public is somewhat concerning. Tesla is reportedly rolling out an early access program for the Full Self-Driving ..."
-    publishedDateTime: 2021-07-12T11:35:00Z
-    webUrl: "https://www.slashgear.com/tesla-full-self-driving-beta-9-0-enters-early-access-12682080/"
-    ampWebUrl: "https://www.slashgear.com/tesla-full-self-driving-beta-9-0-enters-early-access-12682080/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-full-self-driving-beta-9-0-enters-early-access-12682080/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/tesla-model-s.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Tesla issues stark warning to drivers using its Full Self-Driving mode"
     excerpt: "Tesla is warning drivers with the latest beta of its Full Self-Driving mode to use it with caution as it “may do the wrong thing at the worst time.”"
     publishedDateTime: 2021-07-13T04:45:00Z
@@ -75,19 +43,37 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Why you shouldn’t trust Tesla’s latest Full Self Driving beta update"
-    excerpt: "Elon Musk had initially promised the fabled Full Self-Driving Beta version 9 back in August 2018. And then again in 2019. Well, if you’re a Tesla fan, you already know that none of these commitments were fulfilled."
-    publishedDateTime: 2021-07-12T11:40:00Z
-    webUrl: "https://thenextweb.com/news/why-you-shouldnt-trust-tesla-full-self-driving-beta-9-update-release"
+  - title: "Culture Eats AI Self-Driving Cars For Lunch"
+    excerpt: "There is a famous saying that culture eats strategy, which can be reformulated to postulate that culture eats AI self-driving cars. Here's why that might ring true."
+    publishedDateTime: 2021-07-15T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FBETA.jpg&signature=4ef20c5b9875014ecbd6cfae005b72d8"
-        width: 1280
-        height: 640
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F468340908%2F0x0.jpg%3FcropX1%3D121%26cropX2%3D3349%26cropY1%3D191%26cropY2%3D2007"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tesla launches its Full Self-Driving subscription package for $199 per month"
+    excerpt: "Tesla has officially launched its Full Self-Driving subscription package for $199 per month or $99 for those who have previously bought the now discontinued Enhanced Autopilot package. Tesla FSD Subscription Tesla currently sells the Full Self-Driving package for a one-time payment of $10,"
+    publishedDateTime: 2021-07-17T03:33:00Z
+    webUrl: "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/"
+    ampWebUrl: "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 86
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Videos of Tesla's latest Full Self-Driving software update don't inspire much confidence"
     excerpt: "Videos show some improvements, but lots of dangerous glitches for a software called \"full self-driving.\""
@@ -121,6 +107,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Sense Photonics Sees Flash LiDAR As Best Path To Full Self-Driving Tech"
+    excerpt: "Sense Photonics is on a mission to make LiDAR, the core of self-driving technology, more affordable and less obtrusive. And it is leveraging two elements of the iPhone 12 to get there. Today, most autonomous vehicles in test fleets have a cumbersome ..."
+    publishedDateTime: 2021-07-16T14:34:00Z
+    webUrl: "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/"
+    ampWebUrl: "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f196f7d4f6705300ca741c%2F0x0.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla autopilot marches on - FSD Beta 9 full self driving beta is released"
     excerpt: "Elon Musk confirms Tesla Vision autopilot system will be capable of capturing detailed features: tail lights, emergency lights, and even hand gestures."
     publishedDateTime: 2021-07-12T14:11:00Z
@@ -136,22 +138,6 @@ related:
       - url: "https://cdn.visordown.com/field/image/Tesla%20Dash.jpg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "Elon Musk says Tesla Vision will soon detect turn signals, hand gestures"
-    excerpt: "Tesla's latest full self-driving Beta v9 software update is currently being tested on 2,000 vehicles via the early access program..CEO Elon Musk says the Tesla Vision system being used in the latest software update will also be able to listen to sirens and alarms."
-    publishedDateTime: 2021-07-12T12:39:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/elon-musk-says-tesla-vision-will-soon-detect-turn-signals-hand-gestures-41626091993803.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/elon-musk-says-tesla-vision-will-soon-detect-turn-signals-hand-gestures/amp-41626091993803.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/elon-musk-says-tesla-vision-will-soon-detect-turn-signals-hand-gestures/amp-41626091993803.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 60
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/07/12/600x338/2021-06-02T110005Z_1133997531_RC2BSN92RQ28_RTRMADP_3_TESLA-AUTOPILOT-EXPLAINER_1622688642691_1626093263831.JPG"
-        width: 600
-        height: 338
         isCached: true
   - title: "Tesla’s newest ‘self-driving’ update comes with ominous warning"
     excerpt: "The latest update includes a warning that drivers must remain awake and alert at the wheel because the car “may do the wrong thing at the worst time,” according to images shared by"
@@ -201,6 +187,102 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Tesla self-driving software update begins rollout though company says to use with caution"
+    excerpt: "Tesla owners with access to self driving technology have more options following a software update released on Saturday, reports say"
+    publishedDateTime: 2021-07-12T18:29:00Z
+    webUrl: "https://www.indystar.com/story/money/2021/07/11/tesla-self-driving-gets-boost-software-update-reports-say/7930730002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7930730002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7930730002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 50
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/48ca114c5a45a5268a80a24e4b23bd36f43a4651/c=0-0-1650-928/local/-/media/2021/07/10/USATODAY/usatsports/MotleyFool-TMOT-effc75eb-tsla-model-s.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "A Future of Self-Driving Cars"
+    excerpt: "When it comes to self-driving cars, the future is now! Recently, Halo launched one of the first commercial driverless car services in the United States, and it will begin to serve customers later this year."
+    publishedDateTime: 2021-07-12T14:36:00Z
+    webUrl: "https://www.tmj4.com/shows/the-morning-blend/a-future-of-self-driving-cars"
+    ampWebUrl: "https://www.tmj4.com/shows/the-morning-blend/a-future-of-self-driving-cars?_amp=true"
+    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/shows/the-morning-blend/a-future-of-self-driving-cars?_amp=true"
+    type: article
+    provider:
+      name: TMJ4
+      domain: tmj4.com
+    quality: 44
+    images:
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/cb2/44c3f81cadf84cf5a6f4e6d100388208/cb23917623f44a1e8c1101f6efc1dcf8/poster_76c72a0c85f8471185bad8074f629a85.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AEV Summit: Embark focuses self-driving tech on big fleets"
+    excerpt: "DETAILS: Embark Trucks has the longest experience — five years — of running self-driving trucks on public highways. It is offering a bolt-on software that can go on any manufacturer’s truck. It envisions commercial fleets having the technology by 2024 — with no safety drivers."
+    publishedDateTime: 2021-07-14T18:00:00Z
+    webUrl: "https://www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets"
+    ampWebUrl: "https://www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 44
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/07/AEV_FC_Alan-Adler_Alex-Rodrigues.png"
+        width: 750
+        height: 419
+        isCached: true
+  - title: "Toyota's Self-Driving Unit Acquires US Mapping Firm Carmera"
+    excerpt: "Toyota’s self-driving unit, Woven Planet, will now have the benefit of more software mapping through its acquisition of U.S. mapping startup Carmera."
+    publishedDateTime: 2021-07-15T02:42:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Toyota-Woven-Planet-Carmera-acquisition-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Toyota’s self-driving unit buys US mapping start-up in software push"
+    excerpt: "Toyota’s self-driving unit has acquired US mapping start-up Carmera as the Japanese group embarks on a software buying spree in an attempt to quadruple its global engineering headcount over the next few years."
+    publishedDateTime: 2021-07-14T21:01:00Z
+    webUrl: "https://www.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
+    ampWebUrl: "https://amp.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdb76abab-edd2-4a11-abb9-fd67b076d31c.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Self-driving truck beats human drivers on multi-state trip by 10 hours"
+    excerpt: "A tech company called TuSimple successfully tested its semi truck to transport watermelons from one state to another."
+    publishedDateTime: 2021-07-15T23:00:00Z
+    webUrl: "https://thehill.com/changing-america/sustainability/infrastructure/563308-self-driving-truck-beats-human-drivers-on"
+    ampWebUrl: "https://thehill.com/changing-america/sustainability/infrastructure/563308-self-driving-truck-beats-human-drivers-on?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/sustainability/infrastructure/563308-self-driving-truck-beats-human-drivers-on?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 44
+    images:
+      - url: "https://thehill.com/sites/default/files/ca._traffic_gettyimages-81241768.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Tesla’s Full Self-Driving beta ticks up to version 9.0"
     excerpt: "Tesla has begun sending out an extremely limited amount of over-the-air updates to bring its Full Self-Driving (FSD) Beta up to version 9. The new update enables members of Teslas"
     publishedDateTime: 2021-07-12T18:32:00Z
@@ -229,6 +311,36 @@ related:
         width: 1200
         height: 621
         isCached: true
+  - title: "Tesla warning: self-driving feature may ‘do the wrong thing at the worst time’"
+    excerpt: "According to Digital Trends, as noticed by YouTuber Tesla Raj, the release notes of the Full Self-Driving limited access update states it may \"do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road."
+    publishedDateTime: 2021-07-14T09:00:00Z
+    webUrl: "https://www.tomsguide.com/uk/news/tesla-issues-self-driving-warning-may-do-wrong-thing-at-worst-time"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 35
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZTL2ADvEjvPGNkhHwFxv6D-1200-80.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Every city’s drivers have quirks. Studying them could make self-driving cars work anywhere"
+    excerpt: "Yet the driverless technology company Argo AI ... and make sure its artificial intelligence systems deeply understand them — not just where the street signs, traffic lights and road markings ..."
+    publishedDateTime: 2021-07-15T12:03:00Z
+    webUrl: "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi"
+    ampWebUrl: "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 34
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d529abf/2147483647/strip/true/crop/3675x2400+99+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fad%2F63%2Fd92aa29e48eabebaa8aaf2e1e399%2Fimage-16.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Elon Musk Warns Drivers Not To Trust New “Full Self-Driving” Update"
     excerpt: "Tesla has finally started to roll out the latest version of its “Full Self-Driving” beta, which is its long-awaited assisted driving update that gives Teslas the ability to automatically change lanes and obey traffic lights and stop signs."
     publishedDateTime: 2021-07-12T16:58:00Z
@@ -240,6 +352,20 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 24
+  - title: "WinTOR’s on its way: U of T partnership to train self-driving cars to handle tough winter conditions"
+    excerpt: "U of T Engineering's Steven Waslander is leading a project – one of six at the university to receive support from the Ontario Research Fund – that focuses on teaching self-driving cars to handle winte road conditions (photo by PinkBadger via Getty ..."
+    publishedDateTime: 2021-07-12T20:40:00Z
+    webUrl: "https://www.utoronto.ca/news/wintor-s-its-way-u-t-partnership-train-self-driving-cars-handle-tough-winter-conditions"
+    type: article
+    provider:
+      name: University of Toronto
+      domain: utoronto.ca
+    quality: 24
+    images:
+      - url: "https://www.utoronto.ca/sites/default/files/GettyImages-536114279-crop.jpg?169816"
+        width: 1140
+        height: 760
+        isCached: true
   - title: "Elon Musk warns Tesla drivers to 'be paranoid' about safety and not rely too much on the assisted driving tech when using new Full Self-Driving 9 beta software"
     excerpt: "Driving' 9 beta, which lets cars automatically obey lights and change lanes. But Elon Musk is telling owners to avoid becoming over-reliant on the assisted driving tech."
     publishedDateTime: 2021-07-12T21:02:00Z
@@ -256,6 +382,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Every city's drivers have quirks. Studying them could make self-driving cars work anywhere"
+    excerpt: "To understand why it's so hard to make a car that drives itself, pay attention to how people cross the street next time you travel. In Los Angeles, pedestrians wait"
+    publishedDateTime: 2021-07-16T08:15:00Z
+    webUrl: "https://www.fltimes.com/news/nation/every-citys-drivers-have-quirks-studying-them-could-make-self-driving-cars-work-anywhere/article_8a43202a-ded3-5574-a3e6-06c44f1ff5d9.html"
+    type: article
+    provider:
+      name: Finger Lakes Times
+      domain: fltimes.com
+    quality: 14
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/d/78/d788e464-fed4-51ee-a341-1bab6f35538c/60f14ae3ae8fc.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
+        width: 840
+        height: 630
+        isCached: true
   - title: "From swerving into a median to narrowly missing poles, videos of Tesla’s latest Full Self-Driving update don’t inspire much confidence"
     excerpt: "Tesla interior Reuters Tesla launched the latest version of its Full Self-Driving beta after a long delay this month. Beta testers immediately started"
     publishedDateTime: 2021-07-14T20:01:00Z
@@ -270,6 +410,15 @@ related:
         width: 2500
         height: 1751
         isCached: true
+  - title: "Studying local traffic quirks could pave the way for self-driving cars"
+    excerpt: "Driverless tech company Argo AI is testing and training its sensors and software in seven different cities at once, including Detroit, to learn more."
+    publishedDateTime: 2021-07-16T12:30:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/07/16/studying-local-traffic-quirks-could-pave-way-self-driving-cars/7990232002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 4
 
 secured: "Lf+d3DBoc+JrauR4aFayxHNLk1TkYTDkphrXGWnQraEHqwBdEO9C1i+iold3me06eKiipHcNwPgnqfnx651dY/nWTXxoH94dL48/rK6e+1cSH5n5XDdSbYx+ZIuumN1yBmPqz1mbrPZZ/MRSCixu/9Tl0Km27SogkZGF75dGCHccosB1AZPzIxFsqbdAj2B0osQByZ2eBA5WKyRxZHyEZh7JjL4MT9M7SspZJEQcDbfcT14dKjh/Ot6blds/3SRYGRsHNpNbZJlcUMZ0MjQmpN4I+qZNgUcLRkhImJLRA38jthXT8AP52zqx4L8UKQlGDp0pZ53+Oaiv+o8vE/nik4mhofCEILWIx/WAw7Y8+CdzpvDEW30PdmYxMDju7nIueuJQET6PyP4jRsvM2Hhd+jXobAGaqpuwRB78BLROT2vrIga3hMGIrVz/4QxN+swMRNKVt77iLFRZ684ZjzG50iOP7bVIPkUSAgiRGuN9EkBf87oEjxmZ84nhFXkQUPVqjPjQQ+6JYdjp1KRg2YqWRw==;d1mo41uWZPCe1yqFSsAFRg=="
 ---
