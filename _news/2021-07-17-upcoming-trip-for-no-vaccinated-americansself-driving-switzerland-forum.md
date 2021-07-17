@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Toyota's Self-Driving Unit Acquires US Mapping Firm Carmera"
-excerpt: "Toyota’s self-driving unit, Woven Planet, will now have the benefit of more software mapping through its acquisition of U.S. mapping startup Carmera."
-publishedDateTime: 2021-07-15T02:42:00Z
-originalUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/"
-webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/"
-ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
-cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
+title: "Upcoming trip for no vaccinated Americans(self driving) - Switzerland Forum"
+excerpt: "So me and 2 friends are planning a self driving trip for September 2-13th. Landing in Zurich and just visiting various mountains towns. Basically just sightseeing/eating and exploring etc. we aren’t vaccinated."
+publishedDateTime: 2021-07-17T09:26:00Z
+originalUrl: "https://www.tripadvisor.com.au/ShowTopic-g188045-i336-k13612099-Upcoming_trip_for_no_vaccinated_Americans_self_driving-Switzerland.html"
+webUrl: "https://www.tripadvisor.com.au/ShowTopic-g188045-i336-k13612099-Upcoming_trip_for_no_vaccinated_Americans_self_driving-Switzerland.html"
 type: article
-quality: 44
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: pymnts.com
-  domain: pymnts.com
+  name: TripAdvisor
+  domain: tripadvisor.com.au
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Toyota-Woven-Planet-Carmera-acquisition-457x274.jpg"
-    width: 457
-    height: 274
-    isCached: true
 
 related:
   - title: "Tesla issues stark warning to drivers using its Full Self-Driving mode"
@@ -171,6 +163,22 @@ related:
         width: 750
         height: 419
         isCached: true
+  - title: "Toyota's Self-Driving Unit Acquires US Mapping Firm Carmera"
+    excerpt: "Toyota’s self-driving unit, Woven Planet, will now have the benefit of more software mapping through its acquisition of U.S. mapping startup Carmera."
+    publishedDateTime: 2021-07-15T02:42:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Toyota-Woven-Planet-Carmera-acquisition-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Toyota’s self-driving unit buys US mapping start-up in software push"
     excerpt: "Toyota’s self-driving unit has acquired US mapping start-up Carmera as the Japanese group embarks on a software buying spree in an attempt to quadruple its global engineering headcount over the next few years."
     publishedDateTime: 2021-07-14T21:01:00Z
@@ -275,15 +283,6 @@ related:
         width: 1140
         height: 760
         isCached: true
-  - title: "Upcoming trip for no vaccinated Americans(self driving) - Switzerland Forum"
-    excerpt: "So me and 2 friends are planning a self driving trip for September 2-13th. Landing in Zurich and just visiting various mountains towns. Basically just sightseeing/eating and exploring etc. we aren’t vaccinated."
-    publishedDateTime: 2021-07-17T09:26:00Z
-    webUrl: "https://www.tripadvisor.com.au/ShowTopic-g188045-i336-k13612099-Upcoming_trip_for_no_vaccinated_Americans_self_driving-Switzerland.html"
-    type: article
-    provider:
-      name: TripAdvisor
-      domain: tripadvisor.com.au
-    quality: 17
   - title: "Elon Musk warns Tesla drivers to 'be paranoid' about safety and not rely too much on the assisted driving tech when using new Full Self-Driving 9 beta software"
     excerpt: "Driving' 9 beta, which lets cars automatically obey lights and change lanes. But Elon Musk is telling owners to avoid becoming over-reliant on the assisted driving tech."
     publishedDateTime: 2021-07-12T21:02:00Z
@@ -338,6 +337,6 @@ related:
       domain: detroitnews.com
     quality: 4
 
-secured: "3PMvi0Xk4LEvpIbRwg2DYWY17OzkeBgzOXfgDQHtakHC8wOIEXLzNnhUupohneMMP9dxsyzTzXFUgMpyylgQChqxiNbeayE3jRL+mdgmRn03bij+LFfRovr6BxJQRVGEqSfAzbfLovUS0bZdXLPCRJYj+AIfJ2DMY5U8jPOoLTvPjQ47ukN0Xq2nMkOTFaWPOzxfivOHza9m3PFxsRsxL2qXM0LJAcnPY4nnXmOf4CyEFMXVihNju2nzeNHJ14FqjIowpVv4lGaU19kUC7ZcVcP9TbUOU/+1eg975VqwBgvhra07Vvl9iKAAsoEnOe66+8oLDaukOdQSntnUq+UU12tWONOeSJVkOeLq30RwvSsCJo/gRJJ9w/rbwvhF/InkghXaahjOEk8/7AkcyPFqwhmHLwzYoYwJMRq9w/bWIeWMxYV1MxgGOGhZ/lMARhFTh3vjHPVjvwvE+oWubH46/VWqzBNTYIYWIikgGpCuWemSl1MW9cPawJnLjw2RNeLuenKOp/C7OLPGW30YdffmvQ==;WH276C3ymcSV5E/k3s/A6Q=="
+secured: "psZd6SQahvf973Jtl3x0ug+w1m0WmZXyl/4Xc+lbSYnbK6zIZO83SNseq+MXJK3hbziWkCxc5hGaQnzeIAv1uNKRsUBHCjaGbKLW0NK72niKouR559mu1VPGCENI0ujLIOLtCcAjdyXiQMsU9faLhCYJw1X4de+PJfoQQ0Vm44/YEmqnKSMQcWxqvb6G7cxrhuqURKNGlblY097Bz237S6STGHt8PF5kyNjW6lIpa2yUBXsQh6riFyZ14nzd832I3mLRyZ89qPq8ruCFQ+Saq77+HQH7f4ad5eXhT4HUo+xYPz4xe++B/J8l1i9NztXG1L29yzuemXE57iNkpDeoLFxdAxMJQwF9jik6yMTh3Vk=;udF11h1SL+2L5FetuxU2eA=="
 ---
 

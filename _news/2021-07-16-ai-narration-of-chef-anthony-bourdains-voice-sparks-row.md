@@ -2,9 +2,9 @@
 category: news
 title: "AI narration of chef Anthony Bourdain's voice sparks row"
 excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-publishedDateTime: 2021-07-16T13:33:00Z
-originalUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
-webUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
+publishedDateTime: 2021-07-16T13:39:00Z
+originalUrl: "https://www.bbc.com/news/technology-57842514"
+webUrl: "https://www.bbc.com/news/technology-57842514"
 ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
 type: article
@@ -406,6 +406,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "AByGGAwHsFYEzEMsSs/rdBi3DaL+hf2DQdmHu3Zhaqz02wZIq9kcEAoaKmqi4aTciElogKw1R9msUGZ9+lLy4yU8t8Jy5TahLCeVZU9YGB4y7NWqb+JoY2ysiZZTvME1jukZ8Rs6pOD8b2tjJMLXnVl87FMsp+4iHq11iy5j+jnjUk6o+5ySkPRAQbNHHHOXGIrnjQ24Q2/MqME1xp/HGA6Cy2XAnY6g0H36ObvCjHhozjReFar38A8RDkzViyB6UA9HCul4OHxx2zZHoLPfxLpBGGYikg5r6nyKEH/fGkS9iGI6OQSg6LzlMh04+DM11LvrZU45GxkAu0k1b31ZBfv7Sk5HkyrO6I00j39LBNE=;BFv8ppwGwy8e58wmnmc1jA=="
+secured: "c5hDsJKkBCcGbcgCyaYuQmmdoe1Q+4dOcWgKOd2IjrZMt9mGtX/LuMMY2pGnz2C03CZa6wKonIDS6iOhdQXPT2QfkO2E5APmxpeOHLJYcd9LOKDSc1rGypBNV407Kl+lFLxwPbVxFICx3UagXNVfCXtcxiHbw4LRxMw6vHwqZnsy/Tt7kDLPvOWYNKfxAYqh4j3NwIBNOJ8iTF7fBLKKR28v0aTXiP5ZFmiMDC6/YaGVUMJ9tMhVwUM5uAHreDuAsnXXi0xd7RAIs7oLg7Qdt1D9ODFmN3+G8c0ZG5/n9PiOkGMe35mYpj6EU3MIt0uohKBrb0PMiblx2hPbZ97KAGYY0EKrIctcVW+wUcP55cQ=;JXl6TAki/0xTpwwTMwtYAg=="
 ---
 

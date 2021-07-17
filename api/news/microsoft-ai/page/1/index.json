@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -247,33 +247,24 @@
     {
       "path": "_news/2021-07-09-insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments.md",
       "title": "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments",
-      "excerpt": "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year.",
+      "excerpt": "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c",
-      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T09:02:00-07:00",
+      "publishedDateTime": "2021-07-09T09:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-14-facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions.md",
+      "title": "Facebook AI researchers create a robot able to adapt to rapidly changing conditions",
+      "excerpt": "Work is being performed all around the world to give robots more human-like abilities. One of the key human-like abilities that researchers want robots to have is the ability to react in real-time",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/",
+      "originalUrl": "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/ai-robot.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/",
+      "publishedDateTime": "2021-07-14T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-microsoft-azure-receives-new-features-and-enhanced-migration-services.md",
+      "title": "Microsoft Azure receives new features and enhanced migration services",
+      "excerpt": "Microsoft announced a host of enhanced products across Azure, including the Azure Migration and Modernization Program.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/",
+      "originalUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/",
+      "publishedDateTime": "2021-07-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-google-ceo-still-insists-ai-revolution-bigger-than-invention-of-fire.md",
       "title": "Google CEO Still Insists AI Revolution Bigger Than Invention of Fire",
       "excerpt": "The artificial intelligence revolution is poised to be more “profound” than the invention of electricity, the internet, and even fire, according to Google CEO Sundar Pichai, who made the comments to BBC media editor Amol Rajan in a podcast interview that first went live on Sunday.",
@@ -105,7 +210,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2021/07/trustworthy-ai-workforce/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1131,101 +1236,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston.md",
-      "title": "Founder Institute joins forces with NASA Ames, MassRobotics to launch AI, robotics accelerator program in Boston",
-      "excerpt": "The Founder Institute, the world’s largest pre-seed startup accelerator, has announced the launch of a new program where early-stage entrepreneurs in Boston can leverage NASA technology to build artificial intelligence and robotics startups.",
-      "sourceUrl": null,
-      "webUrl": "https://sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/",
-      "originalUrl": "https://sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sociable.co/wp-content/uploads/2021/07/AI_Robotics._Partnership.Banners.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/amp/",
-      "cdnAmpWebUrl": "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/amp/",
-      "publishedDateTime": "2021-07-13T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sociable",
-        "domain": "sociable.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-ai-success-in-the-supply-chain-depends-on-human-augmentation.md",
-      "title": "AI Success In The Supply Chain Depends On Human Augmentation",
-      "excerpt": "It is only through human augmentation and understanding how everything works together that AI success in the supply chain will happen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/",
-      "originalUrl": "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60edae973c02fcc76f59d7ab%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1271%26cropY1%3D1%26cropY2%3D716",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/",
-      "publishedDateTime": "2021-07-13T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

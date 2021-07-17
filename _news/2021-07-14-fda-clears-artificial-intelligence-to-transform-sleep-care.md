@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fda-c
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fda-clears-artificial-intelligence-to-transform-sleep-care/article_09e7c333-7913-573e-8fd4-cf9ca67d0b65.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Finance teams are now using AI to outperform peers"
-    excerpt: "Unit4 finds practical issues are holding back finance teams, with 45% of those surveyed citing difficulties in integrating AI tools with existing systems"
-    publishedDateTime: 2021-07-12T16:08:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/finance-teams-are-now-using-ai-outperform-peers"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 54
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1255615171_0.jpg?itok=ebVnK-eP"
-        width: 2309
-        height: 1299
-        isCached: true
 
 secured: "ilY83TUZx90OywiaW7a+UIg6nJ1KZqiReMYE89oYjIR5kuc9k0gKmSK5jkWE4q6kDE7sl19XPo/e3GTU5BhxWA5vagvLHn6DRREq0Y92WA3LzFZ3ZutiqTtQTDlGY/tkTJtiCt9EAIDiNarHQNnkQ/7i+PSs1THgct41yVEsTPA9anOKBJ0YSHkBycoFSwa53m3DvzQljKwqx/X4hmPSEJPFmhbe1XlU1R8FiQlLKgU1OZit6+35alIVjg7QMKVsZWYl9tMVkt3unebZEDWb2ja38GklDkkbwSKw6dg0QNSwflGU6ZKIIdovNyz4b2h9Q491pQSiIxeL2kGBJx0/IGvrb1NoC0HCnZwNs7Cdg6Y=;gELYtWpLG0CY0lJqlhRsuQ=="
 ---

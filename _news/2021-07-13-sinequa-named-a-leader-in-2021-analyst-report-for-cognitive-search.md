@@ -43,15 +43,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Sinequa Named a Leader in 2021 Analyst Report for Cognitive Search"
-    excerpt: "Intelligent search provider Sinequa announced today that it has been named a Leader in The Forrester Wave™: Cognitive Search, Q3 2021. Cognitive search employs AI technologies, such as natural language processing and machine learning to ingest,"
-    publishedDateTime: 2021-07-12T16:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210712005394/en/Sinequa-Named-a-Leader-in-2021-Analyst-Report-for-Cognitive-Search"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 6
   - title: "Grazitti Interactive's SearchUnify Cited as a Strong Performer Among Cognitive Search Platforms in Latest Evaluations by Independent Research Firm"
     excerpt: "July 12, 2021 /PRNewswire/ -- SearchUnify, a recognized unified cognitive platform by Grazitti ... data from commonly used SaaS apps, including Microsoft Dynamics 365, Salesforce, Jira, WordPress ..."
     publishedDateTime: 2021-07-12T18:37:00Z

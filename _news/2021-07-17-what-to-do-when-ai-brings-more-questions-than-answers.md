@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-qu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: VentureBeat
@@ -30,22 +30,43 @@ images:
     isCached: true
 
 related:
-  - title: "Does Your AI Governance Focus On The Right Questions?"
-    excerpt: "In business, governance is necessary. Does it always help? Not always. Among the reasons governance fails around IT data and systems, for example, is that the governing body doesn’t have enough authority."
-    publishedDateTime: 2021-07-12T15:19:00Z
-    webUrl: "https://www.forbes.com/sites/arunshastri/2021/07/12/does-your-ai-governance-focus-on-the-right-questions/"
-    ampWebUrl: "https://www.forbes.com/sites/arunshastri/2021/07/12/does-your-ai-governance-focus-on-the-right-questions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/07/12/does-your-ai-governance-focus-on-the-right-questions/amp/"
+  - title: "CCC Brings Proven AI To Collision Repairers"
+    excerpt: "CCC Intelligent Solutions Inc. (CCC) announces its plan to further enhance CCC ONE®, the collision repair industry's leading estimating platform, incorporating advanced AI into its estimating application later this quarter."
+    publishedDateTime: 2021-07-15T12:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ccc-brings-proven-ai-to-collision-repairers-1030610745"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ec5764c5778bc031a2268b%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://mma.prnewswire.com/media/552049/CCC_Information_Services_Inc_Logo.jpg"
+        width: 388
+        height: 400
         isCached: true
+  - title: "What Kind of Sea Ice is That? Thanks to AI, There's an App for That"
+    excerpt: "If you’ve watched Netflix, shopped online, or run your robot vacuum cleaner, you’ve interacted with artificial intelligence, AI. AI is what allows computers to comb through an enormous amount ..."
+    publishedDateTime: 2021-07-12T17:05:00Z
+    webUrl: "https://maritime-executive.com/editorials/what-kind-of-sea-ice-is-that-thanks-to-ai-there-s-an-app-for-that?fb_ref=tFA8fzllQY-Twitter"
+    type: article
+    provider:
+      name: Maritime Executive
+      domain: maritime-executive.com
+    quality: 37
+    images:
+      - url: "https://maritime-executive.com/media/images/article/Photos/Navy_Govt_CoastGuard/antarctica-icebreaker-coast-guard-cimsec.e403a2.jpg"
+        width: 643
+        height: 361
+        isCached: true
+  - title: "When Artificial Intelligence Comes to Control"
+    excerpt: "Applications of machine learning and other forms of artificial intelligence have been recognized in robotics and analytics. Now the technology is adding some spice to basic control applications."
+    publishedDateTime: 2021-07-15T13:00:00Z
+    webUrl: "https://www.automationworld.com/factory/iiot/article/21545091/artificial-intelligence-benefits-in-control-applications"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 19
 
 secured: "drG5e4kP1vmD2Gc04/wCS70A0xowEEq3hbhbLLiqBvcVQdUwnD11Qgb1v5+RQMNY3PmP4t2OYnPQICbZ8w7QqGZtgsGWxRQcICUXuqlwus5k0lcg+NpUJAAXQanCtZ/+FDWUfmhZnjOrC3vm3GOk40z4r99SXWAb5hOwWD1ITDDDfJqy33ZQdb7z77s8YU69QwnuDlNFTAtLAe3VugKYix7T6llV6dWFLydc71FpOAUqNlMx8vm5VxVB6+li6i33BQycMTysRFUQP24IwV8hraHVOmuPq9JU4oFMzQGGEuhBOF7+6XJ2KMYrUo1vFDHtOgA520NLkRVAhOEr+xnt7B5nfQhLrPbgqi7VM1XmHyZmgAtp8/PTDeRy5leLagWxjp9uoWkqmqdd8k0x0YZ085juJgQlRKm58CCMB4FhNRcUALi9jnbLJVLCFME3iaIRuohep2beJ2QaeGXtI2N/J0HIjFdIg0dkf1ggjbEaxA/Aj6jE0dey3CRii7GCeHo8F+PXrJ6SHR+44dRej3Rjkw==;8p/6slUIcFx6ietjgbjJOg=="
 ---

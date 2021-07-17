@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-13-founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston.md",
+      "title": "Founder Institute joins forces with NASA Ames, MassRobotics to launch AI, robotics accelerator program in Boston",
+      "excerpt": "The Founder Institute, the world’s largest pre-seed startup accelerator, has announced the launch of a new program where early-stage entrepreneurs in Boston can leverage NASA technology to build artificial intelligence and robotics startups.",
+      "sourceUrl": null,
+      "webUrl": "https://sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/",
+      "originalUrl": "https://sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sociable.co/wp-content/uploads/2021/07/AI_Robotics._Partnership.Banners.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/amp/",
+      "cdnAmpWebUrl": "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/amp/",
+      "publishedDateTime": "2021-07-13T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sociable",
+        "domain": "sociable.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-ai-success-in-the-supply-chain-depends-on-human-augmentation.md",
+      "title": "AI Success In The Supply Chain Depends On Human Augmentation",
+      "excerpt": "It is only through human augmentation and understanding how everything works together that AI success in the supply chain will happen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/",
+      "originalUrl": "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60edae973c02fcc76f59d7ab%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1271%26cropY1%3D1%26cropY2%3D716",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/",
+      "publishedDateTime": "2021-07-13T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars.md",
       "title": "Whether Those Endless Edge Or Corner Cases Are The Long-Tail Doom For AI Self-Driving Cars",
       "excerpt": "Taking a close look at the presumed endless list of edge or corner cases that might stymy AI self-driving cars and leave them in the long-tail dust.",
@@ -886,7 +981,7 @@
       "originalUrl": "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 319,
+      "heat": 299,
       "tags": null,
       "images": [
         {
@@ -1116,92 +1211,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-aiml-cuts-into-traditional-hpc-plasma-physics.md",
-      "title": "AI/ML Cuts into Traditional HPC, Plasma Physics",
-      "excerpt": "When AI/ML came onto the scene in the supercomputing community, common wisdom was that it could do much to augment HPC applications but it would be not be",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/",
-      "originalUrl": "https://www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/ab_plasma_physics.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/amp/",
-      "publishedDateTime": "2021-07-12T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-gm-ventures-increases-funding-in-ai-vision-software-company-algolux.md",
-      "title": "GM Ventures Increases Funding In AI Vision Software Company Algolux",
-      "excerpt": "Algolux, an AI software company based out of Quebec, has announced the closure of series B funding, raising $18.4 million to help accelerate market adoption of the company’s scalable computer vision and image optimization solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/",
-      "originalUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gmauthority.com/blog/wp-content/uploads/2021/01/Cruise-Origin-Honda-Japan-autonomous-vehicle-mobility-service-MaaS-announcement-002-e1611168765981-1024x553.jpg",
-          "width": 1024,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/",
-      "cdnAmpWebUrl": "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/",
-      "publishedDateTime": "2021-07-12T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GM Authority",
-        "domain": "gmauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

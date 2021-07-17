@@ -99,22 +99,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "CIBC chooses Microsoft Azure as its primary cloud platform"
-    excerpt: "Microsoft Azure technology will also continue to offer scalable computing power for CIBC’s enterprise data lake and its artificial intelligence (AI)/machine learning (ML) platform to help it provide innovative client solutions. “Leveraging cutting-edge ..."
-    publishedDateTime: 2021-07-12T16:56:00Z
-    webUrl: "https://www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826"
-    ampWebUrl: "https://www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 74
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/07/GettyImages-1254895286-620x250.jpg"
-        width: 620
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence as a Service Market May Set Epic Growth Story | Google, IBM, Microsoft"
     excerpt: "Global Artificial Intelligence as a Service Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ..."
     publishedDateTime: 2021-07-13T00:00:00Z

@@ -2,6 +2,109 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-06-30-tableau-gets-new-ai-powered-business-intelligence-features.md",
+      "title": "Tableau gets new AI-powered business intelligence features",
+      "excerpt": "Tableau today unveiled new AI– and analytics-powered additions to its platform designed to, in the company’s words, “empower more people with the right technology to make smarter and faster decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/29/tableau-gets-new-ai-powered-business-intelligence-features/",
+      "originalUrl": "https://venturebeat.com/2021/06/29/tableau-gets-new-ai-powered-business-intelligence-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/01/tableau-logo-e1568409911668.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/29/tableau-gets-new-ai-powered-business-intelligence-features/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/tableau-gets-new-ai-powered-business-intelligence-features/amp/",
+      "publishedDateTime": "2021-06-29T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-roboticsai-industry-leaders-announce-commitment-to-make-pittsburgh-the-robotics-capital-of-the-world.md",
+      "title": "Robotics/AI Industry Leaders Announce Commitment to Make Pittsburgh the 'Robotics Capital of the World'",
+      "excerpt": "PITTSBURGH, June 29, 2021 /PRNewswire-PRWeb/ -- The Pittsburgh Robotics Network (PRN), a group dedicated to the growth of the region's robotics and artificial intelligence companies, today announced it has attracted over 100 members – making Pittsburgh home to one of the world's most dynamic robotics ecosystems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/roboticsai-industry-leaders-announce-commitment-to-make-pittsburgh-the-robotics-capital-of-the-world-2021-06-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/roboticsai-industry-leaders-announce-commitment-to-make-pittsburgh-the-robotics-capital-of-the-world-2021-06-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-ai-safety-tools-can-help-mitigate-bias-in-algorithms.md",
       "title": "AI safety tools can help mitigate bias in algorithms",
       "excerpt": "A range of tools are available from companies including Microsoft that are designed to address concerns arising from risky AI deployments.",
@@ -1073,110 +1176,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-nvidias-aerial-brings-gpus-to-ai-on-5g.md",
-      "title": "Nvidia’s Aerial Brings GPUs To AI On 5G",
-      "excerpt": "Nvidia's telco strategy continues to evolve as the combination of new chips and software will allow it to power software-defined O-RAN compatible 5G network infrastructure equipment that can also power AI-based edge computing applications in a wide variety of environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/",
-      "originalUrl": "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60da8a5815d212c0b6570f08%2F0x0.jpg",
-          "width": 1200,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/amp/",
-      "publishedDateTime": "2021-06-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-to-win-with-ai-focus-on-our-humanity.md",
-      "title": "To Win With AI, Focus On Our Humanity",
-      "excerpt": "Technology disruptions are not novel and have enabled humanity to evolve and progress. This one is different, though. For the first time in the history of our species, technology seems to take over the very domains where we thought humans excelled: innovation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/",
-      "originalUrl": "https://www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dacbfc46592b70301378cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1659%26cropY1%3D13%26cropY2%3D946",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/amp/",
-      "publishedDateTime": "2021-06-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

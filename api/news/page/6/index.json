@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-13-aiml-cuts-into-traditional-hpc-plasma-physics.md",
+      "title": "AI/ML Cuts into Traditional HPC, Plasma Physics",
+      "excerpt": "When AI/ML came onto the scene in the supercomputing community, common wisdom was that it could do much to augment HPC applications but it would be not be",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/",
+      "originalUrl": "https://www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/ab_plasma_physics.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/amp/",
+      "publishedDateTime": "2021-07-12T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-gm-ventures-increases-funding-in-ai-vision-software-company-algolux.md",
+      "title": "GM Ventures Increases Funding In AI Vision Software Company Algolux",
+      "excerpt": "Algolux, an AI software company based out of Quebec, has announced the closure of series B funding, raising $18.4 million to help accelerate market adoption of the company’s scalable computer vision and image optimization solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/",
+      "originalUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gmauthority.com/blog/wp-content/uploads/2021/01/Cruise-Origin-Honda-Japan-autonomous-vehicle-mobility-service-MaaS-announcement-002-e1611168765981-1024x553.jpg",
+          "width": 1024,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/",
+      "cdnAmpWebUrl": "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/",
+      "publishedDateTime": "2021-07-12T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GM Authority",
+        "domain": "gmauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-how-mastercard-is-using-ai-to-address-cyber-risk.md",
       "title": "How Mastercard is using AI to address cyber risk",
       "excerpt": "Johan Gerber, executive VP for security and cyber innovation at Mastercard, discusses how it uses AI to understand and adapt to cyber risk.",
@@ -1132,101 +1218,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player.md",
-      "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
-      "excerpt": "Whilst we patiently wait for the day that Womble-shaped robots replace human tennis players at Wimbledon, we can admire the IBM powered AI technology ... them into the huge Watson driven analytics ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
-      "originalUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/07/Wimbledon.jpg",
-          "width": 862,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-sonys-televisions-will-soon-be-100-robot-made-according-to-a-report.md",
-      "title": "Sony's televisions will soon be 100% robot-made, according to a report",
-      "excerpt": "He told the newspaper: \"I don't think automation alone using robots will bring enough merits. The key is to use digitalization to link both sales and manufacturing.\" Sales data would be studied using artificial intelligence to more effectively calculate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7",
-      "originalUrl": "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609eb383f27b4c00194448b5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7?amp",
-      "publishedDateTime": "2021-07-11T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

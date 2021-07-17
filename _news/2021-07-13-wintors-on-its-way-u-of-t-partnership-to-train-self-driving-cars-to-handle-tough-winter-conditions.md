@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Watch Tesla 'Full Self-Driving' beta 9 in action after Musk warns drivers to stay 'paranoid'"
-    excerpt: "Video of the software's latest update in action shows it's very much still in beta. This weekend, Tesla owners' long-awaited update to the \"Full Self-Driving\" system landed, referred to by the company as beta 9."
-    publishedDateTime: 2021-07-12T16:15:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-9-elon-musk-paranoid/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-9-elon-musk-paranoid/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-9-elon-musk-paranoid/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 78
-    images:
-      - url: "https://www.cnet.com/a/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Sense Photonics Sees Flash LiDAR As Best Path To Full Self-Driving Tech"
     excerpt: "Sense Photonics is on a mission to make LiDAR, the core of self-driving technology, more affordable and less obtrusive. And it is leveraging two elements of the iPhone 12 to get there. Today, most autonomous vehicles in test fleets have a cumbersome ..."
     publishedDateTime: 2021-07-16T14:34:00Z
@@ -152,22 +136,6 @@ related:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgyNDgzNDUxNjMzNDc2NzM5/section-hero-carnival2x.jpg"
         width: 620
         height: 301
-        isCached: true
-  - title: "Tesla full self-driving software 'may do the wrong thing at the worst time' company warns"
-    excerpt: "The company has been at pains to stress to drivers that they must remain attentive and behind the wheel even when in autopilot."
-    publishedDateTime: 2021-07-12T16:22:00Z
-    webUrl: "https://news.sky.com/story/tesla-full-self-driving-software-may-do-the-wrong-thing-at-the-worst-time-company-warns-12354412"
-    ampWebUrl: "https://news.sky.com/story/amp/tesla-full-self-driving-software-may-do-the-wrong-thing-at-the-worst-time-company-warns-12354412"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/tesla-full-self-driving-software-may-do-the-wrong-thing-at-the-worst-time-company-warns-12354412"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 50
-    images:
-      - url: "https://e3.365dm.com/21/07/1600x900/skynews-tesla-car-logo_5445140.jpg?20210712154934"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Tesla self-driving software update begins rollout though company says to use with caution"
     excerpt: "Tesla owners with access to self driving technology have more options following a software update released on Saturday, reports say"
@@ -307,17 +275,15 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Elon Musk Warns Drivers Not To Trust New “Full Self-Driving” Update"
-    excerpt: "Tesla has finally started to roll out the latest version of its “Full Self-Driving” beta, which is its long-awaited assisted driving update that gives Teslas the ability to automatically change lanes and obey traffic lights and stop signs."
-    publishedDateTime: 2021-07-12T16:58:00Z
-    webUrl: "https://futurism.com/the-byte/elon-musk-warns-drivers-full-self-driving"
-    ampWebUrl: "https://futurism.com/elon-musk-warns-drivers-full-self-driving/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-warns-drivers-full-self-driving/amp"
+  - title: "Upcoming trip for no vaccinated Americans(self driving) - Switzerland Forum"
+    excerpt: "So me and 2 friends are planning a self driving trip for September 2-13th. Landing in Zurich and just visiting various mountains towns. Basically just sightseeing/eating and exploring etc. we aren’t vaccinated."
+    publishedDateTime: 2021-07-17T09:26:00Z
+    webUrl: "https://www.tripadvisor.com.au/ShowTopic-g188045-i336-k13612099-Upcoming_trip_for_no_vaccinated_Americans_self_driving-Switzerland.html"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 24
+      name: TripAdvisor
+      domain: tripadvisor.com.au
+    quality: 17
   - title: "Elon Musk warns Tesla drivers to 'be paranoid' about safety and not rely too much on the assisted driving tech when using new Full Self-Driving 9 beta software"
     excerpt: "Driving' 9 beta, which lets cars automatically obey lights and change lanes. But Elon Musk is telling owners to avoid becoming over-reliant on the assisted driving tech."
     publishedDateTime: 2021-07-12T21:02:00Z
