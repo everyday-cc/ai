@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in the Education Sector Market Research, Growth Opportunities, Key Players, Outlook and Forecasts Report 2021-2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Artificial Intelligence in"
+    publishedDateTime: 2021-07-16T09:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-research-growth-opportunities-key-players-outlook-and-forecasts-report-2021-2027-2021-07-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global CNC Machine Tools Market 2021 Growth Analysis, Industry Trends, Sales Revenue, Future Development Status and Forecast by 2026"
     excerpt: "Global CNC Machine Tools Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 recently introduced by MarketsandResearch.biz offers a fundamental examination of the market covering the examination of subjective points that is prepared to display key market information of learning to the pursuers."
     publishedDateTime: 2021-07-14T11:35:00Z

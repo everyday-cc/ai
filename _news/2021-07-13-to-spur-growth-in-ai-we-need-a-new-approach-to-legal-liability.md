@@ -9,7 +9,7 @@ ampWebUrl: "https://hbr.org/amp/2021/07/to-spur-growth-in-ai-we-need-a-new-appro
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/07/to-spur-growth-in-ai-we-need-a-new-approach-to-legal-liability"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI-enabled cameras witness a growth in the pandemic"
-    excerpt: "The Threat Detection Cameras to help Businesses and markets reopen safely. With services in over 21 countries, a computer vision AI brands, Integration Wizards Solution, has left no stone unturned when it comes to AI-enabled innovation in the field ..."
-    publishedDateTime: 2021-07-12T05:43:00Z
-    webUrl: "https://www.dqindia.com/ai-enabled-cameras-witness-growth-pandemic/"
-    ampWebUrl: "https://www.dqindia.com/ai-enabled-cameras-witness-growth-pandemic/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-enabled-cameras-witness-growth-pandemic/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/12/security-5043368_640.jpg"
-        width: 640
-        height: 381
-        isCached: true
 
 secured: "5bUz2iZayYURypdBuFXrxKe+YyIkMZxKmVmHJUaaFozAeC5Xd+oDCP1kkhyb6kbepVAlLsLTlFE184+4ajO5rw27JqWSux2AmnsHCZXVPPqTJ2+lHqc8cnx5def1/rPFwZfGhacKKegxhLWgS2Sxs16XidF+8YOT51dNyUDERDBZJKWDIbqyQQDskQBNEBuubmrsdXrmw+davfvg6u8ZyFoc76UoFCr1/1BCw3AF+7ljUpSIEiAWwFrVTgnEavtcf+zCS/AtOUDzjFy8zB5X4dxqiRIfUJueOCSQakPiPkpYSp2Fl5rfDvqTU0Fd52/i5UndCo6mZTth8zPTRYhhyeLdcy0igHTAHExtkn4zBJ1fsLpOEoitl/5BPynLE/l6R6gMOFQdP/dmOp0z3umu+98mOH14v3UKa4FGtSbFpdw6KDj4l45jD0xGufSC84ghKyE8QtIHpevamZTv1lTN6J1RSK7jawv82fOyDa4Lzyu/CUcP6a8HrhNdt7B5DgWlwcUfYTq4MOuw9TyhNH1vzA==;tNfLeG+539Nn+9c9o6EGCQ=="
 ---

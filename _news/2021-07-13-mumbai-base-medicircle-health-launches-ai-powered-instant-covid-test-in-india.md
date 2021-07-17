@@ -50,20 +50,6 @@ related:
         width: 770
         height: 400
         isCached: true
-  - title: "UW researchers find COVID-19 diagnoses made by artificial intelligence unreliable"
-    excerpt: "A UW Allen School team recently published an article in Nature Machine Intelligence finding models predicting COVID-19 diagnosis from X-rays are relying on shortcuts."
-    publishedDateTime: 2021-07-12T07:00:00Z
-    webUrl: "https://www.dailyuw.com/news/article_a9de3cbc-e2b3-11eb-89b2-8317006b58bc.html"
-    type: article
-    provider:
-      name: dailyUW.com
-      domain: dailyuw.com
-    quality: 32
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyuw.com/content/tncms/assets/v3/editorial/7/e6/7e66696c-e2d9-11eb-a343-0f1aab0d44e0/60ebdfaa0da7d.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "618pBuKOqsxQ/gXkat12hXxfX2SDCXhpLmetIbo/2BFGHUjDF8GCIyVV2mEY7fIyhOwq2vTmhJdU+kfKbdTXHOEUwvdCfuYGqtb+QtoJ8Cf65scunW8lGA6wZQ2MPYi1UjQJmlsjZDSTr2VBgSdPhV5uzIueXZitbBgOv6gAcAjfc1QlbzXOPGCS0C5QRTljI3I++VeBeSMm0uvaEVDrY701UAYtidfkRSKPEdt+7YhDSL8+gwlYqkw91JATJSiiTCJ+gttQpb+JZ1YAl+Cg/HRO2fgpPLDPoxtPtPfKZ8tCztslGBDrhx1GyL/nSpZPtNjKyq2FCJIF+iMSKD/Bc1A/SPMA8g+WMGzcXrAB1ho=;2IltT7YsKtnIwUUngLjYgQ=="
 ---

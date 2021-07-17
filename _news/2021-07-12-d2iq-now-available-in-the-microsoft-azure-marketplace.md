@@ -1,27 +1,27 @@
 ---
 category: news
 title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
-publishedDateTime: 2021-07-12T13:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
-webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
+publishedDateTime: 2021-07-12T13:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
-    width: 2161
-    height: 1130
+  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -138,20 +138,6 @@ related:
     images:
       - url: "https://cdn.openpr.com/U/7/U713219379_g.jpg"
         width: 450
-        height: 300
-        isCached: true
-  - title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
-    excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
-    publishedDateTime: 2021-07-12T06:22:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/cibc-formalizes-microsoft-azure-as-its-primary-cloud-platform/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 54
-    images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/11/CIBC.jpg"
-        width: 300
         height: 300
         isCached: true
   - title: "NEC, Microsoft to Collaborate on Cloud, Edge, AI, IoT and Private 5G"
@@ -303,6 +289,6 @@ related:
       domain: thepacker.com
     quality: 19
 
-secured: "RRXTu5ietXmgpA3FIg7juWYA/vLvo3MCxvAR2reCHxKBeEd76fcV1zsm/1AzoamDMOI4kEh2mU8TAHODpnspP8hruS6SeTGLI8Qr8Rxr1vUxnMy1THD4CIva1scnMmNI/oWtaKN652e/A8lFFo5A64j4uOLj1dAWzKi6Oe++0nDcJ5lCJFIZrqn79b4RtLrWQppOfjaUX8+sNZibSZv7FB2bucbL25T1rEYd+7jNe0Frv7/Y424TodyNMHeLo2ZTDOaFqG1gGFVplKQYzkpfUvGtZ+cv0J3z1Ab2zosoNM9ZLQEao4jxnq4s870+baO39lacuT5fBuW6oAJNy2K/7IUd/+yOinO7/zSQ8kB8ESs=;sIV5uf2vFHr6Em3YO4dwcA=="
+secured: "5Ei7D5eNraIOdDtl5Rtecv/hcZA+lBHj81VSXtLDWrnWg6scaBNRXgmaWiWjnwvBjNvVicekU1Y2eNZVOw8HXge9ZoqBSm8MWGxhgLlmGvSz2p+Yz/W5DJRRhA5e92pmeefGR/ZNJqFDBLSY4Iiu6xJBkyFqCOhsSmFMftjtmuIOxKzfHHfGGn/V47B4U4Trav+O/3rBIPXa+3wYU39Mull0bgHSQGrfIbVxJeEHl420BzowdE2pKX/bFbkHwYRy5WL8fgWhUsZX/Xf0tkoQGxgdsu4Mx+zpd0xuRvAdXXFDWLrhmLnKWFHZZrUBzKtyQpjmhiaVoHK19AU7EPns0ppHIURdqk8uVt7Xnzknl/8=;yXijo2idbOeLsHJS+e9KWQ=="
 ---
 

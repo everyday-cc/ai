@@ -116,20 +116,15 @@ related:
         height: 667
         isCached: true
   - title: "Accurate protein structure prediction now accessible to all"
-    excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
-    publishedDateTime: 2021-07-15T18:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uows-aps070921.php"
+    excerpt: "Protein design researchers have created a freely available method, RoseTTAFold, to provide access to highly accurate protein structure prediction. Scientists around the world are using it to build protein models to accelerate their research."
+    publishedDateTime: 2021-07-16T01:40:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210715142340.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/270310_web.jpg"
-        width: 720
-        height: 480
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
-secured: "IJqAZLLZIe9fcNbrQE36zbPx68kS6y5kA2NTMORBSsIHuu1sHPgjzHeo0yQEbTctBK/viIaN0UsZKnZWYWK7nnQqmKF5G3EpOGxBiC8gtcp8bV9eXvJxd60dWVYS8norF0XyuIx9Sc3rsLWTXkgEpHGSv78PueOgUIl9wrtvcGCX2y1jmCDpa3MxO81HXv/Knx7i1U6EONV0NAkLT9/6zbB5cWoazS8JvRlV1h9tIxDQ1ZWeCzRBT5W6F2IE606nce1ZULMSIprFNNT/reVE6qp9JAtoFOKlipw8TiRUhE78ngRUZv3hyAVjVVn/liXeeVdng+ztyYfleNIPo88EeVC+e3nWfQYiKLjp8PNnTWk=;0DgrNnL8kNuG7BsGy4YBrA=="
+secured: "I0PBli9S96M3zl/IetQPk9jBt6f5HeiSlftrwNc59pKrcJwbGXd3l+zNT5TKdqP5Yr5ZmjTWGdMxkaFhKU7nXwP2c8ruiiUDiEz1BrA/u+FTdeCBEeoobEUJyIUcF0+od1nxbQP6psez2EE8/vfe4MBl5uj4EC8h3bjC10JBs8YGeBR6cYYqMK/CCNVsHWic42S1geyUwLNwQ5R3Cg0eY114ISRWemLglH7P/gFhj75iT4t9K7o0IJj/1qhVQy5avGxoKYZlhx5s+odO5/wTexn/0xFHVD9WrFRVcELD3RZBhyQDeeGu5uPpQf9RGE+s93kBq2rpQHeAO+A/EyS08C8um9V3InI93/VgEO7nyOUAdPf/hnu13Wo2fURXwNL+MMqdRp45jebIn7h3CvsAPg/jqodxHXAv36f/oOL64zSyrCGFSRBRSbzqEITbICvO+8u2HKCUPzVjIzmi4h6mDuXAjdgXSBI36mDi9scPfj7zHkOI/CuUferPImHQ8WgNgT1jzrFiTNWZpzfzKj1DNQ==;ObDlAsydpvGwbWtQpIrHOw=="
 ---
 

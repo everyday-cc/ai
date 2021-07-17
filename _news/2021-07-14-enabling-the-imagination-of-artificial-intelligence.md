@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-07-enabling-artificial-intelligence
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-enabling-artificial-intelligence.amp"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: techxplore.com
@@ -37,7 +37,7 @@ related:
     provider:
       name: CTV News
       domain: ctvnews.ca
-    quality: 59
+    quality: 61
     images:
       - url: "https://beta.ctvnews.ca/national/sci-tech/2021/7/16/1_5512454/_jcr_content/root/responsivegrid/image.coreimg.jpg"
         width: 1020
@@ -52,20 +52,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Enabling ‘imagination’ of artificial intelligence"
-    excerpt: "Imagine an orange cat. Now, imagine the same cat, but with coal-black fur. Now, imagine the cat strutting along the Great Wall of China. Doing this,"
-    publishedDateTime: 2021-07-16T16:46:00Z
-    webUrl: "https://www.miragenews.com/enabling-imagination-of-artificial-intelligence-597487/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2021/07/IMG_0381-Operation-Own-It-Waterford-768x576.jpg"
-        width: 768
-        height: 576
-        isCached: true
 
 secured: "YPYl7h2TW2buL1AShDxkB5yMq8HAyJ05mTaM6JHtcxOXX+oIqecbh2WgFAn3H/beVj0ejybRgA/POQqgDJxUVZqQ2NYMdAi+Ln62yjQmro6YtklKOaMcMPQ3yeTjsBgwzuZV3HlW3Lk4u6C0rb5k85QKdW1pmHk6ue1x+9DK8FsavWpRu/VRXDl3pp7+pU30j7P8Etq+LjZucOzVgQHrkqpXgcrD2okgrUe4f4FsKUas8LBIsEcSmQGaCVEHDC304Zsij4tiYcigFOSnQIdrkQEbPsRmd6e6+1uaoI0rYLXdRG5PQHvc63chd9lp1JPq7nLMERwggmxWKpkGF1xal1sLzr3ivXIyrIigYKXONmSpxpXb5c2VVV5ng47B304pdGXInjPItbSRFfQQ/1PGhwX2NsIdhl4ckZ5+Yma0VvOTPm9agqRC5iuND273PGmQUGl/qY57d4sUjRYVyuwcV1427er4U6/REM/levM2cR9AtZfr1JZHof/k+u7B5bx9OvUf/64uOji5P5K7mG4hFw==;Z9HgWxxk1hrXOlvXmREF/Q=="
 ---

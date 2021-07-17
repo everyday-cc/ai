@@ -41,6 +41,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Black teen kicked out of skating rink after facial recognition error"
+    excerpt: "Misidentified, accused of brawling and then kicked out of a roller-skating rink -- the case of a young Detroit girl is the latest facial recognition controversy."
+    publishedDateTime: 2021-07-16T22:15:00Z
+    webUrl: "https://www.cnet.com/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/qIZq1J7Enc-wxvQGg_DySF8SrQk=/1200x630/2020/06/23/bd9975d1-9066-4f4d-8556-e4458dfb957c/gettyimages-1239553143.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Black Teen Kicked Out of Roller Rink Because Its Face Recognition Tech Screwed Up, Predictably"
     excerpt: "A small but face recognition-equipped Detroit roller rink kicked out a Black teen last Saturday after misidentifying her as a person who’d allegedly gotten into a fight there in March. The girl, Lamya Robinson,"
     publishedDateTime: 2021-07-16T16:13:00Z
@@ -118,6 +134,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/b34fba5a658cdfb01b5a7bfb43c6cd9a.jpg"
         width: 800
         height: 452
+        isCached: true
+  - title: "Black Girl Banned From Michigan Skating Rink Because Facial Recognition Software Misidentified Her"
+    excerpt: "Lamya Robinson was asked to leave a Livonia, Mich. skating rink because the facial recognition software mistook her for a different Black girl."
+    publishedDateTime: 2021-07-16T22:35:00Z
+    webUrl: "https://www.blackenterprise.com/black-girl-banned-from-michigan-skating-rink-because-facial-recognition-software-misidentified-her/"
+    ampWebUrl: "https://www.blackenterprise.com/black-girl-banned-from-michigan-skating-rink-because-facial-recognition-software-misidentified-her/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/black-girl-banned-from-michigan-skating-rink-because-facial-recognition-software-misidentified-her/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 45
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/07/Lamya-Robinson-fox-2-detroit-black-enterprise.jpg"
+        width: 932
+        height: 524
         isCached: true
   - title: "Farmington Hills man misidentified by facial recognition technology testifies at Congressional hearing"
     excerpt: "The Farmington Hills man who has sued Detroit police after being wrongfully identified by the department's facial recognition technology in a shoplifting investigation is testifying in front of a congressional subcommittee Tuesday."

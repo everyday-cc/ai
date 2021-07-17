@@ -106,19 +106,14 @@ related:
         height: 667
         isCached: true
   - title: "Accurate protein structure prediction now accessible to all"
-    excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
-    publishedDateTime: 2021-07-15T18:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uows-aps070921.php"
+    excerpt: "Protein design researchers have created a freely available method, RoseTTAFold, to provide access to highly accurate protein structure prediction. Scientists around the world are using it to build protein models to accelerate their research."
+    publishedDateTime: 2021-07-16T01:40:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210715142340.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/270310_web.jpg"
-        width: 720
-        height: 480
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "AlphaFold 2 open up protein structure prediction software for all"
     excerpt: "Source code for AlphaFold 2, an algorithm that predicts 3D protein structure with unprecedented accuracy, is now freely available."
     publishedDateTime: 2021-07-16T14:26:00Z
@@ -134,6 +129,6 @@ related:
         height: 946
         isCached: true
 
-secured: "I96LpEvAay+xPa/wc7Vhk5wDWHz7y3+qVbfZuyVD0itu3mxGMydZmIQjnBT4RFBY0TeFA1MAeg9b1SyjR2f399EZmpg+8WUHQP7zUpndNmJjYY+PQyRT+sCOeYX/pvq+l6GicgJFqsZRicdUxgpeoTNo2V1glpeewCqO9Exh+jBFZEnbNIpPUJXWrIbEmw22XiyYjHUXS50xnXZ25EO/YZ2ILdv+YcxJ8G/l+qxXOET8sUDXumuxUbjOlL4OxuNf2Ye6rl7ae/TobtMTzP6tQES+DRz5oVksZB8uVFbh4QiIcvs2pprz5uXvdo3Rhgafn+fCJRUvNI02zJtT2VzviuP7YL+MZvXBWceIIY+qgCc=;B7jiJN+lu52Mc5IGZcxqDA=="
+secured: "HLtzfiGr9awKiNgilHgqB9rqvJaK+sFA1Qp4aQfy5M35Er0yPa4xhs4/mI8UJjrdvvHCdk2oavEDRD+Dp0blPlTW1D1mBb/tzcGDskH/sm7KcwBU2S8DZhHQIpWZF70h59TYi7eq4vriUNyi7Kg4DBwB2vgWIAaXC2XV9x5LEV5qMCf6HdmU0MBy04Ga76JHLtw5ph4F85xMkUn1n65VnBiuriWM4el39MVmHLoD+0hJA6koeGeANQwKj/oV02qYxsW4UEia9yWXNPBiJs53bxXJoga8pah42nAHYm5xozZq3+zWDeaTzGZqB4m4AhGgQiH9oDdL9gzR+HiL65C7aAEuVKZHMTT2rYuLgMRBU53GqD0QVYZjjTVrpI5Bya28Iwm9byvL/ldLQmMDCPgcCPiMc1aL4KIyUg22OjmCp8E3cjVnNcbctEjnxUUSS/h8Wp1AyRvplDYwQznLzgNRPVfWze30xe1GfjmK3slUzAN9t95t6h2DRTwjkv5/FilwpuFPD9eYhiC7eD/Q4xh3Yg==;Ukx8S4mVKIl5nqOnLeIbvw=="
 ---
 

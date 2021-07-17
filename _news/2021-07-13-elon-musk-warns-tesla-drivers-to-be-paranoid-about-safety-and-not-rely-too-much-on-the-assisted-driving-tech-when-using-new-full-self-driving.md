@@ -249,22 +249,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Elon Musk says developing self-driving cars is proving difficult"
-    excerpt: "The billionaire businessman - who is the CEO of Tesla Motors - has taken to Twitter to provide an update on the manufacturer's latest efforts, and confessed that self-driving cars are \"hard\" to make a success of."
-    publishedDateTime: 2021-07-12T06:36:00Z
-    webUrl: "https://www.iol.co.za/technology/elon-musk-says-developing-self-driving-cars-is-proving-difficult-d1a5dce9-31ed-44a6-b83c-783bc95b29c6"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/elon-musk-says-developing-self-driving-cars-is-proving-difficult-d1a5dce9-31ed-44a6-b83c-783bc95b29c6"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/elon-musk-says-developing-self-driving-cars-is-proving-difficult-d1a5dce9-31ed-44a6-b83c-783bc95b29c6"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 44
-    images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/Picture-Bloomberg-Tesla?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/7efa7f47-f09e-560a-a4dc-4819ee8e9931&operation=CROP&offset=0x44&resize=1400x788"
-        width: 650
-        height: 366
-        isCached: true
   - title: "Tesla’s Full Self-Driving beta ticks up to version 9.0"
     excerpt: "Tesla has begun sending out an extremely limited amount of over-the-air updates to bring its Full Self-Driving (FSD) Beta up to version 9. The new update enables members of Teslas"
     publishedDateTime: 2021-07-12T18:32:00Z

@@ -123,6 +123,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in the Education Sector Market Research, Growth Opportunities, Key Players, Outlook and Forecasts Report 2021-2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Artificial Intelligence in"
+    publishedDateTime: 2021-07-16T09:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-research-growth-opportunities-key-players-outlook-and-forecasts-report-2021-2027-2021-07-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Software Market Size 2021-2027 | Brief Analysis by Type, Top Manufacturers, Trends and Future Prospects"
     excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Deep Learning Software Market” report"
     publishedDateTime: 2021-07-13T06:21:00Z
@@ -237,6 +251,6 @@ related:
         height: 350
         isCached: true
 
-secured: "nl7iUtaYsyOjgf2j+xRAiWwhMbE975e4Mi65rMzNZkshV2MGmBek9qMVvFRBwa1sUVtHUzTkpGeqVmb58g4Zh47oaHOUGZUheKhzPo0ahBN4vJcP/53D/wgSELc2aam8Vqm4C08PAikQbSsI3IYzXrDIvH28FcnSyrIjt9e4KRddbyYTPGJd2Hfy1FQ+3RG47zPFQa++nkWfbZ8YfgLHPfbr6qjJQxiPFqh+OP7cdve1qKjFzU6bh7S0fmBUMJJAdzVfqrwNzcQlE4g2+KzauQIGIakyabS7Y9fo6oFSiUMVaHjRBJZQCCzk5xQJxoNr/HyTK/vrcBkfDqvnEXV8ReYxhdrChrq9PvvdHcYq+5M=;syZxDau9UUqjYmNWupThww=="
+secured: "IL9yrqRDW7FF+Hi0IO3IIra3jhes/Ty6cuX/E8a6+gaKj17Dz/PgWhwREd/+IFYsVdGGpJsqDPvc7YfSAYbcm21CCv4JKFl7USqHgPfJ4nGhgOeklbqZ0mS6QbnvCaFOFFeucH1mENhvoQ5M1iVwQAlYaNvyyTWKozmlzv3hcxF6KGdMPFJe7Iu3YYLqnvhDKX6t9phNLfFAUZKeMvZDwxK7C+ZA3iw0Uybk8/TrLF3r8exK1i7r4crY/B4mH5svqkkHaCABGhMUPPyLlKkdjfgjurS2yYGWw//4Z9GUnRZaqQHP10bGs0RgqWvqI+SqIZU9dEURIA7qPUQ0CN+fql4whKIMgkawDviDW6KQ05fUbEh6RBGYSKkhckBLxCQNVZ+TxOpq4qb20JccJlWLDMerd/OQxTTqz7VGwqzu3jIrjXDJIBFEdmndoXmKB4xuwyr9P5+sJLpuur2soCtv8AzfKoyvZPSaU2ZWniyBj4isNFGHbBBTY97ejz3fhJrn9il7UmpZa06BwH4u+zdeWQ==;MW5lqv2h65ioT8JeQ0zzYA=="
 ---
 

@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Device taps brain waves to help paralyzed man communicate"
-excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a"
-publishedDateTime: 2021-07-14T23:13:00Z
-originalUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
-webUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
+excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm — they imagine moving and those brain signals are ..."
+publishedDateTime: 2021-07-15T09:40:00Z
+originalUrl: "https://wtop.com/science/2021/07/device-taps-brain-waves-to-help-paralyzed-man-communicate/"
+webUrl: "https://wtop.com/science/2021/07/device-taps-brain-waves-to-help-paralyzed-man-communicate/"
+ampWebUrl: "https://wtop.com/science/2021/07/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/"
+cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/science/2021/07/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/"
 type: article
-quality: 49
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: WTOP News
+  domain: wtop.com
 
 topics:
   - AI in Robotics
@@ -35,6 +37,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Paralyzed man’s brain waves turned into sentences on computer in medical first"
+    excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm – they imagine moving and those brain signals are ..."
+    publishedDateTime: 2021-07-15T13:11:00Z
+    webUrl: "https://www.theguardian.com/science/2021/jul/15/paralyzed-man-brain-waves-sentences-computer-research"
+    ampWebUrl: "https://amp.theguardian.com/science/2021/jul/15/paralyzed-man-brain-waves-sentences-computer-research"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2021/jul/15/paralyzed-man-brain-waves-sentences-computer-research"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/5867be7b160e7a86d2820bee7dabf00448056851/0_0_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4c467fe90e256a5c08619dcf2bc39e54"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Brain waves used to help paralyzed speak"
     excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak – and turned what he intended to say into sentences"
     publishedDateTime: 2021-07-15T04:00:00Z
@@ -50,6 +68,6 @@ related:
         height: 536
         isCached: true
 
-secured: "2HWRq7/GVlyDUdGFSszIj0HlEzkiPaza9b0BU1V8WvIKI6It4DK+IFMRGHcG4QtzEmJZTtrsyV+5Ps1mapKG+qb7JSf8/ZpNnTpHoOw7aFQmywxsHTUi54xuQiOuQZhTcVvqMrnd+weH5L5DiAY3Plz68iQeeMd6UBCEr09If3SF9gNZ7m7SW787lBsWq2r7i4huj83Udh5E9AQAO3hQkGEzOsPTiRERA+dSgSgOj3ZUjFeWuY+Gzu5JTaSOUcz3OCvJ8EFWcNCgX+YDb9GC5R6O8XgVBLQdUx9qKxGlu/8R71D7QwR7W8WNVPGZuBsMEYRy+JBGQX833XVEeobzar+PgotL0RtzEOLxhqD0iT9kG+plwEwETJkEkMnQbyLQv8H4WOeSiUZXmFBIePkyv28qXZre5YKrNDZ9Pyot7ErUki3ss774UtCULtvMYosiY9ZgEOj7BC75pdHlNvrvDlWck/eVsbI57t2dxE8dNhZVoWBsT2Wfn5a0wEVV386VidQtLhf1Y2UbfWs5DIPuNA==;THmOMXXkKJgIWIWnkosJpQ=="
+secured: "b/+DLJ4x81unYpRfGEYWyHIUFCEnrFMDcVEWxMkmkyHH2n37uLPEG1NGBQ8feF9ZZpppWTJ7aiFAYe+oRqNTofy0OuN86lA7PdNsrByHlqs2bUcemgdAf9PiY35BWe7X/RQlFYDcaXSpDwHwugVLlbuNQdxHRL8ksQqlIUEjT+ARH+wIP8IngVqMrdse48DVmxWpFER03naB0eMWFcQHWyQ1vbU1dIU6Nx+7FFfzeJ1V5frrg4IFkr5lUNZEeSPAOKFHNUdaUMZv2XfNFN+vUQ3V5SnUGFkpMQ2KpxZb/PIvcRzJ0cgj9pMUANcrTeOAa9H0Lrq7TWy0WUTqI8MIygP1nyZAAmiVoY+cCJRfqGY=;4fG2o/joUPJpPXeB5ErVNQ=="
 ---
 

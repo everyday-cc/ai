@@ -2,9 +2,9 @@
 category: news
 title: "AI narration of chef Anthony Bourdain's voice sparks row"
 excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-publishedDateTime: 2021-07-16T13:39:00Z
-originalUrl: "https://www.bbc.com/news/technology-57842514"
-webUrl: "https://www.bbc.com/news/technology-57842514"
+publishedDateTime: 2021-07-16T13:33:00Z
+originalUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
+webUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
 ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
 type: article
@@ -77,6 +77,22 @@ related:
       - url: "https://www.cnet.com/a/img/ygG9OnwVAXclz9rN4SrLRmZZIR4=/2021/07/15/01a10222-21c1-4dc7-9e83-0e2f0947439a/anthony2.jpg"
         width: 1194
         height: 672
+        isCached: true
+  - title: "Anthony Bourdain documentary recreates chef’s voice with artificial intelligence"
+    excerpt: "There’s debate over whether the use of artificial intelligence in a film about the late celebrity chef Anthony Bourdain is ethical. The film makes it appear that Bourdain spoke something that he did not."
+    publishedDateTime: 2021-07-16T23:26:00Z
+    webUrl: "https://www.cbsnews.com/video/anthony-bourdain-documentary-recreates-chefs-voice-with-artificial-intelligence/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/anthony-bourdain-documentary-recreates-chefs-voice-with-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/anthony-bourdain-documentary-recreates-chefs-voice-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 67
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/16/82500be3-44ae-48aa-81d3-80d61ec320b8/thumbnail/1200x630/2f94e1160f9d986708aee70092ba7485/axelrod-755577-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Anthony Bourdain Doc Recreates His Voice Using Artificial Intelligence and 10-Plus Hours of Audio"
     excerpt: "Roadrunner ,” the Anthony Bourdain documentary from “20 Feet from Stardom” Oscar winner Morgan Neville, takes a page from documentaries like Alex Gibney’s “Sinatra: All or Nothing at All” in allowing the late chef and television personality to narrate his own story through the use of archival audio."
@@ -326,6 +342,6 @@ related:
         height: 710
         isCached: true
 
-secured: "hR6s4ETuRmLW2650yYw28Y3P0CDiaZfjkyZQrMx1M5cDl+0EFRak9XoWYbrJMRUuHf8go8U2NYbNJYqNJo6p0tbonmhBlPmGwollgZxZoojScSwhlFWD+cqfxzKuHZReCzupEA8p1Yes5c76hc4cOerEP1yz5iO1LURWzs2Z9dQj+PdyfiGDvWT5o6JUUXcokk/4RJLVCv0PDiOStG37IXdMaUxGfNrcDCF8dFjE0bMJxVuO/EELxQ2kpms2zpfCwBY6oSt7aJE5WiKxx55FO7SypWnf7+a2emEkSZb/z9wtauOrvFQHiGyeEjVozVesFVmhlWaLfp2ZjH8iur0T76TjhNjlhBbjfz2K6V/XUx8=;6nc1GRh5rYWHBdBlhHszPw=="
+secured: "U6ydNFVaOndo8hs+l26LSGmplD0gCXKCWDXKrxeKoRixMYn4UKjKTSm40wSFmiHQNQiL/AmQacZBJqsc8H9Vh/DFNfcfu08ivJ/iq6K7N6qvNYwT8sGzBC9eih3trQ5rWPbMJcSbtMbsVTWhWNv3ax+cucElBIDbWZx2ArLWEcW5j47PQylFAVIAa5cD5vm5KDum946Gbm+RFE0P/FBD5fSb4Wk1ybhYPFNp7eo5eQhrr31lKOHr6qMT/QA0cewLBkHnwt696Yz2c0YpRwx6+xdANi9hpYxnlTIKV8prCWy2cR9l8lpf7jH/u86B1ZBIQQ/C7xPk3i91KaW9qHrLuRjzIV9H1hZvYNYm60caORU=;ZZWiS4/eXb++HQpilLlrgg=="
 ---
 

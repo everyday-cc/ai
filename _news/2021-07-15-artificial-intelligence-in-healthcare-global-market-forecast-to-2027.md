@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15"
 type: article
 quality: 84
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Artificial Intelligence Market Trends and Forecast 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 14, 2021 (Market Insight Reports) -- The Global Automotive Artificial Intelligence Market is estimated to value over USD 13.9 billion by 2028 finish at a CAGR of over 38 ..."
-    publishedDateTime: 2021-07-14T14:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-trends-and-forecast-2028-2021-07-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "QpiAI launches a global AI and quantum marketplace"
     excerpt: "With the Marketplace, highly skilled students and professionals will be able to participate and benefit in the commercialization of AI and Quantum solutions."
     publishedDateTime: 2021-07-14T12:26:00Z

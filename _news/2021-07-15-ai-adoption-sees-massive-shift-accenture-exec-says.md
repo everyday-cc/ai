@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/14/ai-adoption-sees-massive-shift-ac
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/ai-adoption-sees-massive-shift-accenture-exec-says/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

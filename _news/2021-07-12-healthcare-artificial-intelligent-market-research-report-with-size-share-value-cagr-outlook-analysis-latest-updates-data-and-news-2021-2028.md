@@ -29,29 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing (NLP) Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2026."
-    excerpt: "Jul 14, 2021 (Heraldkeepers) -- According to this latest study, the 2021 growth of Natural Language Processing (NLP) will have significant change from previous year. Over the next five years the Natural Language Processing (NLP) market will register a 20.9 ..."
-    publishedDateTime: 2021-07-14T15:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2026-2021-07-14"
+  - title: "Neural Network Software Market Report 2021: Market Size and Growth Projections to 2028"
+    excerpt: "A neural network is a framework of hardware and software patterned after the operation of neurons in the human brain."
+    publishedDateTime: 2021-07-16T20:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-report-2021-market-size-and-growth-projections-to-2028-2021-07-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Driving Cars and Light Trucks Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "This report elaborates the market size, market characteristics, and market growth of the Self-Driving Cars and Light"
-    publishedDateTime: 2021-07-12T17:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-light-trucks-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

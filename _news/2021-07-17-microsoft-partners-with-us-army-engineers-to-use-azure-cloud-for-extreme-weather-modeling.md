@@ -116,18 +116,18 @@ related:
         height: 250
         isCached: true
   - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-    excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
-    publishedDateTime: 2021-07-12T13:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+    excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2021-07-12T13:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
-        width: 2161
-        height: 1130
+      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Microsoft (MSFT) Azure Cloud Leveraged by Canada-Based CIBC"
     excerpt: "Microsoft’s MSFT Azure cloud platform is being leveraged by Canadian Imperial Bank of Commerce (“CIBC”) to revamp its business operations, boost operational efficiency and enhance client experiences."
@@ -152,20 +152,6 @@ related:
     images:
       - url: "https://cdn.openpr.com/U/7/U713219379_g.jpg"
         width: 450
-        height: 300
-        isCached: true
-  - title: "CIBC formalizes Microsoft Azure as its primary cloud platform"
-    excerpt: "Canadian Imperial Bank of Commerce and Microsoft announced a strategic relationship formalizing Microsoft Azure as CIBC’s primary cloud platform"
-    publishedDateTime: 2021-07-12T06:22:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/cibc-formalizes-microsoft-azure-as-its-primary-cloud-platform/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 54
-    images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/11/CIBC.jpg"
-        width: 300
         height: 300
         isCached: true
   - title: "NEC, Microsoft to Collaborate on Cloud, Edge, AI, IoT and Private 5G"
@@ -303,6 +289,6 @@ related:
       domain: thepacker.com
     quality: 19
 
-secured: "+mWJaU3a4NEF2mZoQljMV89Es7O4TnB715eDlDma6q3kBRZcV0Egrxk4QpFGhtgcGF7a4vg6J3p0EPgem9bWKMzYNY4dg0RhGga45FNUowy4zstWCxBJvIHbyU9DQh4ZquWj7vbPnbU5Jmr6At/+pOFo6+3y4WkAti9yzMISFyC0EARp/gturK4VwYHehObgnLPYia7xyeoB7FfO+LRqpQrKbu+mcSi+KaBomrc7jP9Zx6QUWqbnBVnXaBv7YOuNcRqT8G3/9/rgHm6cCG9kED4qsjJDbJW7wtdwT4uvmniYQ1Nrd5lvcJejKeEZtEoRcyDQOLBOmwMoGkGdYdjloEVmuLh3Col3za7TQhNhHiE=;yBnFTLTjwwEkUfI7TrGaoQ=="
+secured: "N1S2ttM7J10IBzeioYfsvW73WETCbZR0jwGPowlasn9kLB5FvZycoRhQn5B/r7xKZVoPTmIAHKW267O4dNBu5M8LE1hys8wcjps2ghBd9isxMp5AGaK1TXzhsK6k73fwW78o8P0a6tAs6VvS3PUzT2TDbEFzlTkM1PLNmVRHMM4MW+u6NKIUKmtHK77UouSc0doQUsoOBTMbpLVTMx1fMdo9bBkWoQADoJi0IBIQuy3/9XdFvFvHXdtfDgxcmmx5wvfvoc89lZA0HcMpB81WHIYfU2nj0PDJKd3NP7kNvSaHU4z+JTMX+IB++GBkRtzdoxoB/VoskYz0AMOtfuQeTg65SvzxobJINbNNmJkm2ii5eo8u6J/rUjyfgrpKtC5QQrmd2c0cJghA6P7qEsvUc3v+WdtB7VLB+YxT5EBx8WbA6PkXU5BZFp0wrsH47aW/KX+iBDbaArtAej8vxpmdjvh6sKJ/xMeKSEmeFsV1PkP5PnvRuo+Ns5mINVE7XZsl6NWP8ta2w1OeHshqlW9GfA==;1D0q87muS5+YXGQXm4GCLg=="
 ---
 

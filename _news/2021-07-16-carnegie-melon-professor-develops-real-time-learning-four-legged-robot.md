@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-a
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: UPI.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Ranks Cancer Drugs by Efficacy"
+    excerpt: "A machine learning algorithm developed by researchers at the Queen Mary University of London in the UK can rank cancer drugs based on how effective they ar | Drug Discovery And Development"
+    publishedDateTime: 2021-07-16T22:50:00Z
+    webUrl: "https://www.labroots.com/trending/drug-discovery-and-development/20872/machine-learning-ranks-cancer-drugs-efficacy"
+    ampWebUrl: "https://www.labroots.com/trending/drug-discovery-and-development/20872/machine-learning-ranks-cancer-drugs-efficacy/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/drug-discovery-and-development/20872/machine-learning-ranks-cancer-drugs-efficacy/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 59
+    images:
+      - url: "https://assets.labroots.com/_public/_files/system/ck/trending/tech-5142625_1920_9e6623cd83f5c66b897a96095c43d4b6.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Team At Carnegie Mellon University Develop Four-Legged, Real-Time Learning Robot"
     excerpt: "That’s probably the best way to describe the new artificial intelligence robot from Professor Deepak Pathak that he developed with a research team at the school. The four-legged robot learns to adapt in real-time,"
     publishedDateTime: 2021-07-15T03:48:00Z

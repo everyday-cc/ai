@@ -8,9 +8,9 @@ webUrl: "https://www.ctvnews.ca/sci-tech/researchers-create-artificial-intellige
 ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2021/7/16/1_5512454.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2021/7/16/1_5512454.html"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 61
+heat: 81
+published: true
 
 provider:
   name: CTV News
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://beta.ctvnews.ca/national/sci-tech/2021/7/16/1_5512454/_jcr_content/root/responsivegrid/image.coreimg.jpg"
@@ -52,21 +53,7 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Enabling ‘imagination’ of artificial intelligence"
-    excerpt: "Imagine an orange cat. Now, imagine the same cat, but with coal-black fur. Now, imagine the cat strutting along the Great Wall of China. Doing this,"
-    publishedDateTime: 2021-07-16T16:46:00Z
-    webUrl: "https://www.miragenews.com/enabling-imagination-of-artificial-intelligence-597487/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2021/07/IMG_0381-Operation-Own-It-Waterford-768x576.jpg"
-        width: 768
-        height: 576
-        isCached: true
 
-secured: "yJUXXB564dK9PMuy8JTkrZZF/BdD4R3I+o9+mgx5o51hAAOIVcBHQTEI7Sh/ntafTiV/CbecGlDsEqNZsLgNkwqs9VhJx8xwO9rQZICLC+6uJD1FZXdf57K/1zEHCy5miYw21mEanPFuX5dLItmCs19mSZHsOj0voRQAPZ6fZaGHrHDplhSb9pIRBnCDjmx9fPg/20WMOmZM9G44RUvVRkhv5iLQ2vII0jnrAdkbtKeQBQEAzBvlWrhdzFtQr3ikPfRUKBFTVhgAs2LCMDovbdngIzaJbLXWCdqJ3T4/loUwYkjOO1vQhH5qBW9usHPjekvJfCV86+cbrylGwO2UtkJg4vicT+X3GPR/SJjzWKs=;JyWF0mmbUZWBzpN6PBIEXA=="
+secured: "66lTZwiIGb5giJbZ5xG3PDsCGa+/Qbsrvfx0cY8pFNdv8FJnWxg2RsxggKXi1gXjzf9ZUA//agZTQmS3616790J4sLzk404YAKuXZllXeCFTIJMc7NmegpWIj6uJvU1qQRTLa12dsAghYMpHeJlxkTLDfT5lLARMgo/cTRid7ERMwALERIJ6EG8HqyHPP/wgnt2hDwK+S4OCvVT14kV2NcFBqLp2JkdXBtW54LBcrKWibOtV+2djygEvTwpB2Tg2QBjriBgrOeWgwOBc31kr5GigvQnGjPguvDTVUEWAjJbfqNEYfms9raMweM0u0BK7fzy7TodYxZPMXGThkY7B+/xfvxQniFnfX0D3qjvQoqtHzAS4LTNxB0wchkD2lpJj/QYNEGhCysD5MgJs+xSdeMgTtth1hy0rtOOsfpNnRuxU9rdhlTSs1cLVaASk2bV+3hOJh2P6ZRbkfKh+Lpye4gw3ekmyWokAMAwu5fYJTdAcjnn7G4NxedYOygLQzbx39x6t3v1QyNdT3HfQrY6HBQ==;c+Za+2Oin9gEdmQTTJswdg=="
 ---
 
