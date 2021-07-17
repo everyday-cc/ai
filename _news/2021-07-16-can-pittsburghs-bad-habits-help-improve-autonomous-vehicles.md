@@ -9,7 +9,7 @@ ampWebUrl: "https://www.governing.com/community/can-pittsburghs-bad-habits-help-
 cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/community/can-pittsburghs-bad-habits-help-improve-autonomous-vehicles?_amp=true"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -21,20 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "Autonomous vehicles: AI must accelerate"
-    excerpt: "Large numbers of sensors, massive amounts of data, ever-increasing computing power, real-time operation and security concerns required for autonomous vehicles are driving the core of computation from the cloud to the edge of the network."
-    publishedDateTime: 2021-07-12T14:46:00Z
-    webUrl: "https://www.ept.ca/features/autonomous-vehicles-ai-must-accelerate/"
+  - title: "Crowe expected to start as Pittsburgh hosts New York"
+    excerpt: "(lat strain), Ka'ai Tom: (back), Gregory Polanco: (hip), Colin Moran: (wrist), Erik Gonzalez: (side). Mets: Jordan Yamamoto: (shoulder), Noah Syndergaard: (elbow), Sean Reid-Foley: (elbow), David Peterson: (side), Corey Oswalt: (knee), Joey Lucchesi ..."
+    publishedDateTime: 2021-07-17T07:54:00Z
+    webUrl: "https://www.idahopress.com/sports/national/crowe-expected-to-start-as-pittsburgh-hosts-new-york/article_d9dd40ad-2081-5fa7-bf15-258d60802231.html"
     type: article
     provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 41
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2021/07/Fig-5.jpg"
-        width: 731
-        height: 560
-        isCached: true
+      name: Idaho Press
+      domain: idahopress.com
+    quality: 2
 
 secured: "njcXkoB8sqvQXjlUY5MS2jYZihab7GAd4isj7QWKU+fpcS+RWl8NIEI0w23XhSUBaGZrFRSt/RpW2cM42IJch+u8lRviXUM1olcQaogPYqs9Xp9DCuhsRVyVA/7Lh5BY9aaNk40XOQYO8GThB+l4MxFypLA+uT8S9wOepwPIwCVE0M7tISKQkAWrDud/kE0dRaEzJ7d6Hj48I0GO2gIDsQzpDg4lpp9kb9d0zeSNUPSbsFzwz1I6nCCoKq8RKeEzYabYsXqe7l8wR3eZz0JABXRmdop1METwTVv16LAxme0YBkklqVbXfoO2qk2uUjx5Q/j/2eucZm6nQjlNobJw9fFi+MV7hGVb0wxgFrg7EYA=;rghUNI2yRbgOOdiSh9zPVA=="
 ---

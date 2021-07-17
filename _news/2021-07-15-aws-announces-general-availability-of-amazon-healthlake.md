@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon HealthLake"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon HealthLake, a HIPAA-eligible service for healthcare and life sciences organizations to ingest,"
-publishedDateTime: 2021-07-15T14:57:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-health-coronavirus-pandemic-a6577a90cb304bcf90fa8b9af7a85b90"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-health-coronavirus-pandemic-a6577a90cb304bcf90fa8b9af7a85b90"
+excerpt: "For example, customers can apply analytics using Amazon QuickSight to understand patient and population-level trends, as well as build powerful machine learning models with Amazon SageMaker to ..."
+publishedDateTime: 2021-07-15T15:25:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210715005761/aws-announces-general-availability-of-amazon-healthlake"
+webUrl: "https://www.morningstar.com/news/business-wire/20210715005761/aws-announces-general-availability-of-amazon-healthlake"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "AWS launches HealthLake to help health care organizations query medical data"
@@ -179,19 +173,14 @@ related:
         height: 630
         isCached: true
   - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
-    excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by"
-    publishedDateTime: 2021-07-15T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/diameter-health-selected-as-amazon-healthlake-connector-partner-301334828.html"
+    excerpt: "Customers can then use additional services such as Amazon QuickSight and Amazon SageMaker to better understand patient and population-level trends and help make accurate predictions about the ..."
+    publishedDateTime: 2021-07-15T15:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/diameter-health-selected-as-amazon-healthlake-connector-partner-1030612136"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1177382/dIAMETER_hEALTH_Logo.jpg?p=facebook"
-        width: 2207
-        height: 1158
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
     excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by Amazon Web Services, Inc. as a Connector Partner for Amazon HealthLake,"
     publishedDateTime: 2021-07-15T19:59:00Z
@@ -207,6 +196,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Grw1loncuD921iaB2M2rURcaRzdBytu1WZIHLx/sqX09zGP2nuVYiVxaRsBnuhxvgu/blp53YMB02A9hU1T8kS4M8bqxMKuailaXAyl81+HfiM0j+PVEUt5GMWEMoI81FJv6SgSrw5zKc2Gn5RXc7+WO/Ggf/sAMeQEqvqSlv1wD/Euz/tKLvXp4NsWKChXxDjHdC2+fdkr1VYCA1CILdTNDg9PsnQtOT1Dm/h7tQ4oFHVmwzURpp7EFdQrJPMNbtqZZ0NyFOIXl1dG0G8EzDMrQDBDH0u5Gy1KzBswsRXd0AffJWnkvSW3a3/hLCixHQM4Eyro9eBtvDvZxboV4knZgyN0lGdJfv/jwdugotF4=;lac9FfqrUhe1hPvRXLmYag=="
+secured: "m39tNSo9knKbIGPibMjWrI3OdukQpKY1ybRrxx68XvpH2Jh9XI1Zol2bhBE21tE7HDx/n75oIVLaujOzzUAuFXgKxTYjYPdaMcQsY0KQW/WFEKwBzzW4hKdANQEQAEe5Kqs90gmSOoFXxYleoyDPpk4RTgPwDoTtjxELq0InR3g3f4KJBDno2F3z/M3H66DtUPMm2NiOQoP0RjWEzO6wL894klyWZXVHcuXO7wXmcBzkPo5fRNNmq2t/J0HvkRhQiOgDSR5EACmDJKWKnW2+UCeVibwQHKNdACrofqkZUbthHtBH/Kr1HYT+g7bRFNVD8SEOvRnZQG3gvPDE67xsp5phlv5oQqzVvp0rcpLRNmY=;UXnz33E6JeDeqxdaWy0YLQ=="
 ---
 

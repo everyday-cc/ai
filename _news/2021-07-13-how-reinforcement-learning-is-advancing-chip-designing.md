@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/how-reinforcement-learning-is-advanc
 webUrl: "https://analyticsindiamag.com/how-reinforcement-learning-is-advancing-chip-designing/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Google used machine learning to dramatically improve chip design"
-    excerpt: "Commentary: To get the most out of machine learning, it pays to avoid overthinking AI. Find out how Google engineers' were able to make a ML process take less than six hours instead of weeks."
-    publishedDateTime: 2021-07-12T14:36:00Z
-    webUrl: "https://www.techrepublic.com/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/"
+  - title: "Machine learning is demonstrating its mettle across industries"
+    excerpt: "The use cases and applications for machine learning offer benefits for most organizations, according to experts."
+    publishedDateTime: 2021-07-14T18:02:00Z
+    webUrl: "https://www.cio.com/article/3625230/machine-learning-is-demonstrating-its-mettle-across-industries.html"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 106
+      name: CIO
+      domain: cio.com
+    quality: 39
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/05/04/1ad0d474-bc24-4ef6-9f53-f1cf74fc2ae5/resize/1200x/0cf885e0a0ea9596a3cec44394fc14f7/ai.jpg"
+      - url: "https://images.idgesg.net/images/article/2021/07/istock-1140691149-100895566-large.jpg"
         width: 1200
-        height: 900
+        height: 683
         isCached: true
 
 secured: "0puk59lzFc9ySh1AunxO0ubIo9vkbNSI2jFYjXnxPZOSHdjU3WSOlFKzmtUsGMarY5wbkjmsxGpwPgkvUJl30omQhTFrcEHrMetOBuc12Ms0MzytPlG3zQf1XSnnEDjwpDN4C6eQtf8hM96xZ4J7/mXibXXvNMBlHPylLg//qLUG0pENAfsoloGute5z/OsOGdUP90qMbgsf1mLnNKoI9dNyGvrlWVZx4dzneYeFPH1c2hC9DolZfPEUmjAvRUC/ArVwpBrP8pfovgfA2euVL8ZR/AedTr1uzzAnqRes2d+KtRohXI1afmkSi2jM29MZnkt3DNgzF6CdNtzeb2hB07xOCZdlFBInggVRQ9TRY3eqLxnOTqKu2xnMr9JMkMCg0I6n4bpugrDnR6iQBd82UJup/e93g3bIreIMyVEsgE+2vYa6lPf3A0QnqzwlTkupur1G1RJ6VobyyQYmaiNk8BbqG0P1zeEu9vIxUNaqMO7Kuy3QP/KdAEdkF073FsBGjSwMMFNzEdGtNacIEt03gA==;qN6QKIdfgcf0ETXBT2k5uA=="

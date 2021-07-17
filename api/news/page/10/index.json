@@ -2,26 +2,35 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-07-08-canaan-releases-self-developed-edge-ai-chip-the-kendryte-k510.md",
-      "title": "Canaan Releases Self-developed Edge AI Chip, the Kendryte K510",
-      "excerpt": "Canaan Inc. (NASDAQ: CAN) (\"Canaan\" or the \"Company\"), a leading high-performance computing solutions provider, today announced the release of the Kendryte K510 (the \"K510\"), an independently designed and developed RISC-V based edge AI chip,",
+      "path": "_news/2021-07-08-artificial-intelligence-helps-to-discover-new-drugs.md",
+      "title": "Artificial Intelligence Helps to Discover New Drugs",
+      "excerpt": "In any case, the pharmaceutical industry will have to adapt its research approach to a new rulebook. Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. Drug ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210708cn36290/canaan-releases-self-developed-edge-ai-chip-the-kendryte-k510",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210708cn36290/canaan-releases-self-developed-edge-ai-chip-the-kendryte-k510",
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/drug-6.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T22:00:00-07:00",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
+      "publishedDateTime": "2021-07-07T22:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
+        "name": "Medindia",
+        "domain": "medindia.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -31,7 +40,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Healthcare",
         "AI"
       ]
     },

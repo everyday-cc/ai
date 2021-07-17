@@ -45,19 +45,14 @@ related:
         height: 1343
         isCached: true
   - title: "Enabling the 'imagination' of artificial intelligence"
-    excerpt: "Despite advances in deep neural networks, computers still struggle with the very human skill of ''imagination.'' Now, a USC research team has developed an AI that uses human-like capabilities to imagine a never-before-seen object with different attributes."
-    publishedDateTime: 2021-07-16T17:42:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uosc-et071621.php"
+    excerpt: "Despite advances in deep neural networks, computers still struggle with the very human skill of 'imagination.' Now, a research team has developed an AI that uses human-like capabilities to imagine a never-before-seen object with different attributes."
+    publishedDateTime: 2021-07-16T20:09:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210716150758.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/270853_web.jpg"
-        width: 720
-        height: 360
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "66lTZwiIGb5giJbZ5xG3PDsCGa+/Qbsrvfx0cY8pFNdv8FJnWxg2RsxggKXi1gXjzf9ZUA//agZTQmS3616790J4sLzk404YAKuXZllXeCFTIJMc7NmegpWIj6uJvU1qQRTLa12dsAghYMpHeJlxkTLDfT5lLARMgo/cTRid7ERMwALERIJ6EG8HqyHPP/wgnt2hDwK+S4OCvVT14kV2NcFBqLp2JkdXBtW54LBcrKWibOtV+2djygEvTwpB2Tg2QBjriBgrOeWgwOBc31kr5GigvQnGjPguvDTVUEWAjJbfqNEYfms9raMweM0u0BK7fzy7TodYxZPMXGThkY7B+/xfvxQniFnfX0D3qjvQoqtHzAS4LTNxB0wchkD2lpJj/QYNEGhCysD5MgJs+xSdeMgTtth1hy0rtOOsfpNnRuxU9rdhlTSs1cLVaASk2bV+3hOJh2P6ZRbkfKh+Lpye4gw3ekmyWokAMAwu5fYJTdAcjnn7G4NxedYOygLQzbx39x6t3v1QyNdT3HfQrY6HBQ==;c+Za+2Oin9gEdmQTTJswdg=="
 ---

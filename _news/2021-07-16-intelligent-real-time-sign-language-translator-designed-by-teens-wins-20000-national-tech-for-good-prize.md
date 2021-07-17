@@ -55,22 +55,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Researchers design a system for detecting floods from space using artificial intelligence"
-    excerpt: "Researchers at the Image Processing Laboratory (IPL) of the University of Valencia, in collaboration with the University of Oxford and the Phi-Lab of the European Space Agency (ESA), have developed a model for flood detection based on neural networks."
-    publishedDateTime: 2021-07-12T14:10:00Z
-    webUrl: "https://techxplore.com/news/2021-07-space-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2021-07-space-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-space-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 50
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-flood.jpg"
-        width: 1920
-        height: 1371
-        isCached: true
 
 secured: "M2wF8tF1PA+Oe6Yv240+TSVmSMnoKMa7eCis4JpBBDRJGAK6Nh80Th0vbRfHa9rmJC9JkdZt3cI9CSL7pXAGCpVvH5sctEKU1X5JXIzxhbDfE1Pe8KMRhbcF0Mztz//C/7UQNbPqngpuxY1j+MCplHZSgaJcBa9qkew3qB+ohJuNr3Jg2p1Q1Di3G8m2CQOkLfc2XGif2oBS/AvKhNrLXcCm1prGFXnlezAMKPteFD8Ex1fUqklRNXw0I0J4Q/eNxkgeUXAS4Wlr0P6t45ocgwjC7BJ6SRIemuJ/v26f7hAqWGm7Xrbr78qoyoLue4nB24YNvY9BmQTsikM8myhG6/+b6mBo3FgmU2kiqHPHDmU=;ibzYHeNtc0sYzU6OPZX23g=="
 ---

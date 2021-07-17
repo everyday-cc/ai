@@ -109,29 +109,6 @@ related:
         width: 620
         height: 250
         isCached: true
-  - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-    excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
-    publishedDateTime: 2021-07-12T13:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
-        width: 2161
-        height: 1130
-        isCached: true
-  - title: "Microsoft (MSFT) Azure Cloud Leveraged by Canada-Based CIBC"
-    excerpt: "Microsoft’s MSFT Azure cloud platform is being leveraged by Canadian Imperial Bank of Commerce (“CIBC”) to revamp its business operations, boost operational efficiency and enhance client experiences."
-    publishedDateTime: 2021-07-12T14:40:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-cloud-leveraged-by-canada-based-cibc-2021-07-12"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "Artificial Intelligence as a Service Market May Set Epic Growth Story | Google, IBM, Microsoft"
     excerpt: "Global Artificial Intelligence as a Service Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ..."
     publishedDateTime: 2021-07-13T00:00:00Z

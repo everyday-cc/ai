@@ -25,6 +25,22 @@ images:
     height: 1366
     isCached: true
 
+related:
+  - title: "Using face biometrics and age estimation to create a safer internet for children"
+    excerpt: "The use of facial analysis and age estimation technologies powered by machine-learning algorithms is already capable of creating a safer internet for children."
+    publishedDateTime: 2021-07-15T13:36:00Z
+    webUrl: "https://www.biometricupdate.com/202107/using-face-biometrics-and-age-estimation-to-create-a-safer-internet-for-children"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/15130915/online-age-verification-scaled.jpeg"
+        width: 2048
+        height: 1365
+        isCached: true
+
 secured: "EO9uPlWW4nVZBRgSjACAr/WloxZCoWU2bCr/dUDeNZw820lugMXRQDolykb2bnvyPv1duOb+hX/qq0EO+b9gcVaw5Ecvj0Rg4ZE+yakef4PTxpUd5Ht2bYgUGjf/WCyD1Iq/ynD447gg4+5gCynlDfc8Wx79TVevMDI4fKGFD31jX1QerhCPJlBWN73AI/EAFX/Lqv2T5SAVCRBaFCZzjNZNQqaeOOEPsPO/giZjQuO/dXoXyk8FpnIyQ6dUQpu2a5gHN0sJaYjRJLfEuHQ8Nqg34wnPa1+TSWqWVP2GfRCJBPpeiMm49ngq8atefRvaOTftxzzu6o607lIvZZ+dfmzUNWNQd8ZDTVoffBtdpntPAzk8cB98ns2VNkLbl4Cd0Z94a88Gp5cq19iE2w3bxh+9t8jizz11sgTGz77g3TYS26bLu7mAx0IxyfUKL4jjEuSm6jDN9la9kY0I6Nqowb8PmUySQUeY7W5OOItFmtGTRody7CIfWgzJ0FBSaC+pBZpoM8l+EKKu5Ih2Gzp4Tg==;z2kRRmmLpH2l7cTUQIJwbg=="
 ---
 

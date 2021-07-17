@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-dri
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/?amp"
 type: article
 quality: 89
-heat: 349
+heat: 319
 published: true
 
 provider:
@@ -111,54 +111,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla autopilot marches on - FSD Beta 9 full self driving beta is released"
-    excerpt: "Elon Musk confirms Tesla Vision autopilot system will be capable of capturing detailed features: tail lights, emergency lights, and even hand gestures."
-    publishedDateTime: 2021-07-12T14:11:00Z
-    webUrl: "https://www.visordown.com/news/industry/tesla-autopilot-marches-fsd-beta-9-full-self-driving-beta-released"
-    ampWebUrl: "https://www.visordown.com/news/industry/tesla-autopilot-marches-fsd-beta-9-full-self-driving-beta-released?amp"
-    cdnAmpWebUrl: "https://www-visordown-com.cdn.ampproject.org/c/s/www.visordown.com/news/industry/tesla-autopilot-marches-fsd-beta-9-full-self-driving-beta-released?amp"
-    type: article
-    provider:
-      name: Visordown
-      domain: visordown.com
-    quality: 72
-    images:
-      - url: "https://cdn.visordown.com/field/image/Tesla%20Dash.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Musk Claims Full Self-Driving With Tesla Vision Will Detect Turn Signals, Listen For Emergency Sirens"
-    excerpt: "Tesla finally released its FSD Beta v9 software to a limited number of owners. The software leverages Tesla Vision to analyze what's going on around the vehicle at all times and take necessary action for adjusting speed,"
-    publishedDateTime: 2021-07-12T15:00:00Z
-    webUrl: "https://hothardware.com/news/musk-claims-full-self-driving-tesla-vision-will-detect-turn-signals-listen-for-sirens"
-    ampWebUrl: "https://amp.hothardware.com/news/musk-claims-full-self-driving-tesla-vision-will-detect-turn-signals-listen-for-sirens"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/musk-claims-full-self-driving-tesla-vision-will-detect-turn-signals-listen-for-sirens"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 59
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/55663/content/tesla_autopilot.jpeg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "Tesla’s newest ‘self-driving’ update comes with ominous warning"
-    excerpt: "The latest update includes a warning that drivers must remain awake and alert at the wheel because the car “may do the wrong thing at the worst time,” according to images shared by"
-    publishedDateTime: 2021-07-12T13:57:00Z
-    webUrl: "https://nypost.com/2021/07/12/teslas-newest-self-driving-update-comes-with-ominous-warning/"
-    ampWebUrl: "https://nypost.com/2021/07/12/teslas-newest-self-driving-update-comes-with-ominous-warning/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/12/teslas-newest-self-driving-update-comes-with-ominous-warning/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/tesla-self-driving-15.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Tesla issues critical warning alongside self-driving software update"
     excerpt: "Tesla is rolling out a new update that will make its cars even more autonomous than normal. But the electric car company has also issued a warning to go with it. It says the software ‘may do the wrong thing at the worst time’ and cautions drivers to ‘always keep your hands on the wheel and pay extra attention to the road."
     publishedDateTime: 2021-07-13T10:13:00Z
@@ -174,6 +126,22 @@ related:
       - url: "https://metro.co.uk/wp-content/uploads/2021/07/Tesla-model-3-df30-e1626169027179.jpg?quality=90&strip=all&zoom=1&resize=600%2C344"
         width: 600
         height: 344
+        isCached: true
+  - title: "Breaking: Tesla Releases Full Self-Driving Subscription"
+    excerpt: "Tesla has finally released the long-awaited subscription option for their Full Self-Driving feature. Here are the details."
+    publishedDateTime: 2021-07-17T06:40:00Z
+    webUrl: "https://www.thestreet.com/tesla/news/tesla-releases-full-self-driving-subscription"
+    ampWebUrl: "https://www.thestreet.com/tesla/.amp/news/tesla-releases-full-self-driving-subscription"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tesla/.amp/news/tesla-releases-full-self-driving-subscription"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgyNDgzNDUxNjMzNDc2NzM5/section-hero-carnival2x.jpg"
+        width: 620
+        height: 301
         isCached: true
   - title: "Tesla full self-driving software 'may do the wrong thing at the worst time' company warns"
     excerpt: "The company has been at pains to stress to drivers that they must remain attentive and behind the wheel even when in autopilot."
@@ -206,22 +174,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/48ca114c5a45a5268a80a24e4b23bd36f43a4651/c=0-0-1650-928/local/-/media/2021/07/10/USATODAY/usatsports/MotleyFool-TMOT-effc75eb-tsla-model-s.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "A Future of Self-Driving Cars"
-    excerpt: "When it comes to self-driving cars, the future is now! Recently, Halo launched one of the first commercial driverless car services in the United States, and it will begin to serve customers later this year."
-    publishedDateTime: 2021-07-12T14:36:00Z
-    webUrl: "https://www.tmj4.com/shows/the-morning-blend/a-future-of-self-driving-cars"
-    ampWebUrl: "https://www.tmj4.com/shows/the-morning-blend/a-future-of-self-driving-cars?_amp=true"
-    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/shows/the-morning-blend/a-future-of-self-driving-cars?_amp=true"
-    type: article
-    provider:
-      name: TMJ4
-      domain: tmj4.com
-    quality: 44
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/cb2/44c3f81cadf84cf5a6f4e6d100388208/cb23917623f44a1e8c1101f6efc1dcf8/poster_76c72a0c85f8471185bad8074f629a85.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "AEV Summit: Embark focuses self-driving tech on big fleets"
     excerpt: "DETAILS: Embark Trucks has the longest experience — five years — of running self-driving trucks on public highways. It is offering a bolt-on software that can go on any manufacturer’s truck. It envisions commercial fleets having the technology by 2024 — with no safety drivers."

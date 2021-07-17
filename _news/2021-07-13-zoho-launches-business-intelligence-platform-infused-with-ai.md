@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/13/zoho-launches-business-intelligen
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
         width: 1000
         height: 581
+        isCached: true
+  - title: "Logiq Leverages Sonasoft AI for Business Intelligence"
+    excerpt: "July 15, 2021 - Logiq, Inc., a global provider of award-winning e-commerce and fintech solutions, leverages SAIBRE, Sonasoft Corp.’s (OTCQB: SSFT) AI bot engine, to uncover new business insights and intelligence."
+    publishedDateTime: 2021-07-15T16:46:00Z
+    webUrl: "https://apnews.com/press-release/newmediawire/4ed8a4551569a3cf1877d5286b53eb16"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "New Research-Backed Clinical AI Platform Launches"
     excerpt: "Bayesian Health, an AI and machine learning platform, launched Monday with an accompanying study revealing faster recognition and treatment times for patients."

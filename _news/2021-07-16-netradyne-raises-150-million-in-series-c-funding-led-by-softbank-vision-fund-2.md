@@ -60,15 +60,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "RVH Solutions Inc. Secures Series B Funding from Vizient Inc., the Nation's Largest Member-Driven Health Care Performance Improvement Company"
-    excerpt: "RVH Solutions, Inc. (the \"Company\"), a leading healthcare technology solutions provider to hospitals, health systems, academic medical centers and skilled nursing facilities in the United States and the United Kingdom,"
-    publishedDateTime: 2021-07-12T13:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rvh-solutions-inc-secures-series-b-funding-from-/2021/07/12/9406724.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "ZEb9nlzTD8h3x//S4H3Eckk08fmQCrQWeBeJU4Zk6orCwMm/9Ol26fuR/AqpKo5xwcBly2ErdnAEGLH+2+yTNmF8WnaqoZf3OA6Bz7MViWi5yufWaralV00tXyGTnwqhIkqAX4Xz7uCYistSOYRHV4f3iJ48BDF2zedRr/M+/wyaxogCbaax124NNGKj51iVf0+F36CKvJvqAoAP9wXZPVo4lO2bpHLJPa7dyVIowapbxMjVMXiUIen36IGv7SzIich9rmvahtvWtXbbcCe2ObmaPL5qBLrPkfrz0ilStDDYYtUug1QgfIDxzvMoBBnqGhzJqosNuF+xYcJ/RIASQNka1S0YP/bD3+yftkI7zqk=;kOTDYsqx7yGqoTh8gdGkJQ=="
 ---

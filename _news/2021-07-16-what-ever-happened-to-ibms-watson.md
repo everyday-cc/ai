@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-wats
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/07/IBM-Watson-to-explore.jpg"
         width: 800
         height: 420
+        isCached: true
+  - title: "What happened to IBM's Watson healthcare push? And what the future holds"
+    excerpt: "IBM has 40,000 Watson customers across 20 industries worldwide, with some of its biggest clients being in health, such as health insurer Anthem, according to the report. 2. The company invested billions in healthcare,"
+    publishedDateTime: 2021-07-16T19:52:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/what-happened-to-ibm-s-watson-healthcare-push-and-what-the-future-holds.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 55
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "nYsyC+hOdiRdw8sNq9su2JByl8CzuEGsRIr3cHHtCw0uENqBJyUrAn9fthtTZLR5sUm/UK63UINltlAl2T2HjoliHrHm8G+tLyD7BWxHC4nC2JqMbckM9th8PjssmJVozL0IExvwefXpZfk0oh1BgYTgeOM/L6OVOQJYO2mSyH8s4bJ1tw/WcljhBa5FjL8zdn7zKUr3Zyj4qU09s3tKxSyx+iHI/FV3UgbO28Al74jeaMhOm022gEyGGuAaxfurF/l442nVKwrNw15M6ctdiQXBiGNCgHlUZ+al6JHQ+l5sjmIRLo5R0u7S1uBSkJjQYUuzkIGT33Icw44m1NmLoi6dExOwu47rz3s3/NMYJrnR9yjmAQUc8lwTU+6ohkddNI3VmMaLSE5djgskR4YTfu45ByrzjyTfWwC8mEHBDdQPg645UL6X+CdK1PEpXtl5gbPDThOWAtNt75pMDdYUDXXCLSUhyIfyqVcm8hsv5+cjjCWn94MzyrKab40mvsRnpf+fKnA4doy/Z/2JMrpNPw==;LOIIC67Gn6/9/kyUKvQwtA=="

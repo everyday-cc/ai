@@ -228,15 +228,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 5
-  - title: "Global Educational Robot Market (2021 to 2026) – Industry Trends, Share, Size, Growth, Opportunity and Forecasts – ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global educational robot market exhibited strong growth during 2015-2020."
-    publishedDateTime: 2021-07-12T14:08:00Z
-    webUrl: "https://www.financialbuzz.com/global-educational-robot-market-2021-to-2026-industry-trends-share-size-growth-opportunity-and-forecasts-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
   - title: "Cognitive Computing Materials Market Forecast Report | Global Analysis, Statistics, Revenue, Demand and Trend Analysis Research Report by 2027"
     excerpt: "Market Expertz latest study, titled ‘Global Cognitive Computing Materials Market,’ sheds light on the crucial aspects of the global Cognitive Computing Materials market. The Cognitive Computing Materials report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027)."
     publishedDateTime: 2021-07-15T00:00:00Z

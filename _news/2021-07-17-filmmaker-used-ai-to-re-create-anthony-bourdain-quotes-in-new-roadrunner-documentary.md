@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 824
         isCached: true
+  - title: "AI narration of chef Anthony Bourdain's voice sparks row"
+    excerpt: "ethics lead at the Alan Turing Institute, said the issue showed the importance of informing audiences that AI was being used, to prevent people possibly feeling deceived or manipulated. But he said that although it was a complex issue, the use of AI ..."
+    publishedDateTime: 2021-07-17T07:58:00Z
+    webUrl: "https://www.bbc.com/news/technology-57842514?at_campaign=64&at_medium=custom7&at_custom4=A74029AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter"
+    ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7458/production/_119448792_gettyimages-187622944.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Anthony Bourdain documentary used AI to re-create his voice after he died"
     excerpt: "you probably don't know what the other lines are that were spoken by the AI, and you're not going to know.\" He added, \"We can have a documentary-ethics panel about it later.\" Writer Isaac Butler tweeted, \"This feels unethical to me maybe?\" Documentary ..."
     publishedDateTime: 2021-07-15T22:24:00Z
@@ -77,8 +93,8 @@ related:
         isCached: true
   - title: "AI narration of chef Anthony Bourdain's voice sparks row"
     excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-    publishedDateTime: 2021-07-16T13:39:00Z
-    webUrl: "https://www.bbc.com/news/technology-57842514"
+    publishedDateTime: 2021-07-16T13:33:00Z
+    webUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
     ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
     type: article
@@ -266,6 +282,22 @@ related:
       - url: "https://s.abcnews.com/images/GMA/morganneville-leshalles_1626436645036_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Creepy or not? AI recreates Anthony Bourdain's voice in new documentary, raises questions"
+    excerpt: "The new documentary about Anthony Bourdain’s life, 'Roadrunner', is one hour and 58 minutes long — much of which is filled with footage of the star throughout the decades of his career as a celebrity chef,"
+    publishedDateTime: 2021-07-17T07:13:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/creepy-or-not-ai-recreates-anthony-bourdains-voice-in-new-documentary-raises-questions/articleshow/84495780.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/creepy-or-not-ai-recreates-anthony-bourdains-voice-in-new-documentary-raises-questions/amp_articleshow/84495780.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/creepy-or-not-ai-recreates-anthony-bourdains-voice-in-new-documentary-raises-questions/amp_articleshow/84495780.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-596058,msid-84496547/untitled-1.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Anthony Bourdain's Voice Recreated Using Artificial Intelligence For New Documentary"
     excerpt: "Anthony Bourdain's voice was recreated by artificial intelligence for use in a new documentary about his life."

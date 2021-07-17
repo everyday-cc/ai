@@ -64,15 +64,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 15
-  - title: "RVH Solutions Inc. Secures Series B Funding from Vizient Inc., the Nation's Largest Member-Driven Health Care Performance Improvement Company"
-    excerpt: "RVH Solutions, Inc. (the \"Company\"), a leading healthcare technology solutions provider to hospitals, health systems, academic medical centers and skilled nursing facilities in the United States and the United Kingdom,"
-    publishedDateTime: 2021-07-12T13:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rvh-solutions-inc-secures-series-b-funding-from-/2021/07/12/9406724.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "UQQd7YzgbViWS67lKfPP2GXmh57LoZb8zKYXvQixsuD+mkpf27chWbVWIZPIC9o+Tx9r5Fb7HUEHl7kL7nsa6p3bwxiuK4KZpukgcs1gie55AQF/NbUPPC4CMrUzL6J312QKHPQcSTRxtXvBVnXpN4C/Hcdqkgu3QDuTD+hcPAEvD0AYLpW4hASHH18ukrpCLkqgUBBjIBLje8mlhjPnQWNh7zD9FzyhgoZx5dIoxyEZhm0Kap1y/hu/kSinZsAPYAnDz8bQfZOjQjhyhhua4Q7CcQXSn7neG4sYF0ZjVMOZ2yvpHKQZuQaG/pake/2dUxRB+6hxS0J5AVPs9WwYymFiTPqJo0+Oz+4lsndod5w=;iiMzYyV4DguDlHBtZiISYw=="
 ---

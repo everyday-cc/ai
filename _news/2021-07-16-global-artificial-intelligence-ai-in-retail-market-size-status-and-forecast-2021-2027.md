@@ -139,6 +139,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
+  - title: "Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence has become a leading trend that affects"
+    publishedDateTime: 2021-07-17T07:38:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4657100-global-artificial-intelligence-in-fintech-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 12
   - title: "Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence as a"
     publishedDateTime: 2021-07-15T09:05:00Z
@@ -157,6 +166,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 8
+  - title: "Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence for Video"
+    publishedDateTime: 2021-07-17T07:39:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4630235-global-artificial-intelligence-for-video-surveillance-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 4
   - title: "Global Voice Recognition Software Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Voice Recognition Software Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Voice Recognition Software Market"
     publishedDateTime: 2021-07-13T08:24:00Z

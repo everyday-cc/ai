@@ -9,7 +9,7 @@ ampWebUrl: "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-i
 cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 15
-  - title: "RVH Solutions Inc. Secures Series B Funding from Vizient Inc., the Nation's Largest Member-Driven Health Care Performance Improvement Company"
-    excerpt: "RVH Solutions, Inc. (the \"Company\"), a leading healthcare technology solutions provider to hospitals, health systems, academic medical centers and skilled nursing facilities in the United States and the United Kingdom,"
-    publishedDateTime: 2021-07-12T13:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rvh-solutions-inc-secures-series-b-funding-from-/2021/07/12/9406724.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "ooFO4OtKJ3I2Ul72RqoO8WxgPm64hxL/IcLa42TpdjDpSP8qon7wlEnPHikSfmfnyAQoSCKfjKdh2bh73iYOfrTblyBchHa9I9mQiDK/U/toN1icO6hz08Fluflw/fpOt8Mk8LWq8ONBI4vAFTIq9nNUPIVsw1hcoRgH2LHXk9r8bV0TUum1kyXNaV+aw5cLOYR8b++sQw3FWn/xFhp4BAiWgllml9y6zMnC4BRY+0y7Q5Gi5Y8zQnlPayBSEXM2fM00Nn+6PN1ZjBhanLhOiRUJ0VeveASdgbtZpbgq4zmQil1+UZvTajVttgO1peGiZtMopeQ8vHAXUl+ZI1/REJIV0rS8Hgm9tExaG9YkQM91KAAs6XUF3e9vkpjiktu8MJpj91rFzGP7jVOqisxbXIPNqeAKzOujJ8Ml0nE85xVkOmxDEPavs5XxQUb7XQG5pr+6FcQ6Z8KMsc+NZ6GemE6H8kKC6ExDMKUCFvUNSX6ZiWnLat7/eZnhaNWf6+Cjeb3dMJm0RUpoCJNcILMaLg==;u9PqhsHiypc8S3nvuXND2w=="
 ---

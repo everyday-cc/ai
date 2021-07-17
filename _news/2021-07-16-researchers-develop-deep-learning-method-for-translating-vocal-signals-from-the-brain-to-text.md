@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90437-researchers-develop-deep-lea
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.statnews.com/wp-content/uploads/2021/07/UCSF_ChangLab_239-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Researchers design a system for detecting floods from space using artificial intelligence"
-    excerpt: "Researchers at the Image Processing Laboratory (IPL) of the University of Valencia, in collaboration with the University of Oxford and the Phi-Lab of the European Space Agency (ESA), have developed a model for flood detection based on neural networks."
-    publishedDateTime: 2021-07-12T14:10:00Z
-    webUrl: "https://techxplore.com/news/2021-07-space-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2021-07-space-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-space-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 50
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-flood.jpg"
-        width: 1920
-        height: 1371
         isCached: true
   - title: "Intelligent real-time sign language translator designed by teens wins £20,000 national tech-for-good prize"
     excerpt: "winning £20,000 thanks to their two-way AI-enabled British Sign Language (BSL) translator - BSL: Educate-2-Translate. The prize challenges young, innovative minds to design and develop technological solutions to the big issues of our time that deliver ..."

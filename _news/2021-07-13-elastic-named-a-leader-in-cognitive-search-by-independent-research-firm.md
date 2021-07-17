@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Elastic Named a Leader in Cognitive Search by Independent Research Firm"
-excerpt: "Its sweet spot is for enterprises that want fast, friendly, and affordable cognitive search based on ... Goldman Sachs, Microsoft, The Mayo Clinic, NASA, The New York Times, Wikipedia, and Verizon ..."
-publishedDateTime: 2021-07-12T18:26:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm"
-webUrl: "https://www.wallstreet-online.de/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm"
-ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm"
-cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm"
+excerpt: "Company Achieves the Highest Score in the Strategy Category Among All Vendors MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Elastic (NYSE: ESTC) (“Elastic”),"
+publishedDateTime: 2021-07-12T23:28:00Z
+originalUrl: "https://www.01net.it/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/"
+webUrl: "https://www.01net.it/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/"
+ampWebUrl: "https://www.01net.it/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/amp/"
+cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/amp/"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
+    isCached: true
 
 related:
   - title: "Sinequa Named a Leader in 2021 Analyst Report for Cognitive Search"
@@ -46,16 +52,21 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 6
-  - title: "Elastic Named a Leader in Cognitive Search by Independent Research Firm"
-    excerpt: "Elastic (NYSE: ESTC) (“Elastic”), the company behind Elasticsearch and the Elastic Stack, today announced that it has been named a Leader by Forrester Research in The Forrester Wave™: Cognitive ... Goldman Sachs, Microsoft, The Mayo Clinic, NASA ..."
-    publishedDateTime: 2021-07-12T13:23:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210712005732/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm"
+  - title: "Grazitti Interactive's SearchUnify Cited as a Strong Performer Among Cognitive Search Platforms in Latest Evaluations by Independent Research Firm"
+    excerpt: "July 12, 2021 /PRNewswire/ -- SearchUnify, a recognized unified cognitive platform by Grazitti ... data from commonly used SaaS apps, including Microsoft Dynamics 365, Salesforce, Jira, WordPress ..."
+    publishedDateTime: 2021-07-12T18:37:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/grazitti-interactive-s-searchunify-cited-as-a-strong-performer-among-cognitive-search-platforms-in-latest-evaluations-by-independent-research-firm-827882187.html"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 4
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1535704/SearchUnify_Logo.jpg?p=facebook"
+        width: 852
+        height: 446
+        isCached: true
 
-secured: "IhXzVF85tezh6GbTfv5AHUC8jb2k4OpbwzkHOnnOimBwoiDzOD16wSAulg7xSGRw5Hv3np/MmMPh8BOK6vg0BZ34dREAq/Gw0LnEpNFSq0kQR5Hm4XJ6RSiT694Sgvs1siC4QYusOOh1bbKrgXoLBgzpVqNbym/HPRAIngzTkL+HfKckA2t7omWFh1oouxeusJ5OoWwyqV6Ok4HLwaInObsUIv3l0JMuyeLVKw9q0fh12zO/PtPVj+TW8YJR1xIxZDk43WvaElZSe/xtqo2TlmzLvE3fCtiPvaPZvJs8kSQgddXyIxMG0IQBfpNXamNktYGzIN5vd60xiQLsTq6I22u2VNXfyfTaG48UIGzxJPs=;BbNnXesMKMeb4qzuDd1yOw=="
+secured: "w3/8YKz4uq4bYSzjfnqHdjTsln+AMIIiehYxV0/OM1CY1mbRVhCPYwecNDx/yer6CER45jLnrd3fqgGk1I38ON0V1yJEOgHyQDFzRQzkYBKrq2HPdWUMmV2ccC0NNTHCW2SgiDPI8DzZlQjVNdvRyf26xceM4ywK9lOBCSH+o+6SfkOwXX+h9oMXdBZGJUoqaXmFqIG38CYa45gUnVd80MAvKDAnG2FSK5NoSdV0O4IaCy8LNwdUAngVoBqiK3WcFjyRnV/ys0K8LxpnC+I1Ur+ieQxtTrIix1WahqjVB5H5IP8qiP6H9FIW1KlLk0cdRD7VAAKSOEEq7wbv4loFSfvk9N02az1d2mKVqVLDFKI=;wR618QvI4FK8mMJ66HUE9A=="
 ---
 

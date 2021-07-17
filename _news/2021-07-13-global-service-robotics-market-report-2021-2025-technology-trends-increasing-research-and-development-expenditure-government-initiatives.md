@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Conversational Artificial Intelligence Market Size 2021 Report Includes Raw Materials Sources, Major Players, Export and Import by Regions"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Conversational Artificial Intelligence Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-07-12T13:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-size-2021-report-includes-raw-materials-sources-major-players-export-and-import-by-regions-2021-07-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Project Management Professionals Working in Financial Services Reveal Biggest Concerns and Opportunities for Working Post-lockdown - New APM Study Rev"
     excerpt: "Over a quarter (28 per cent) of project managers working in financial services sector see new ways of working as the biggest opportunity67 per cent of project professionals say their organisation is planning on returning employees to the office post-lockdownThe majority (75 per cent) of those whose employer is planning a return to the office say they feel anxious about itLONDON--(BUSINESS WIRE)--Wi."
     publishedDateTime: 2021-07-15T13:02:00Z

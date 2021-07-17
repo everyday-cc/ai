@@ -43,6 +43,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "What happened to IBM's Watson healthcare push? And what the future holds"
+    excerpt: "IBM has 40,000 Watson customers across 20 industries worldwide, with some of its biggest clients being in health, such as health insurer Anthem, according to the report. 2. The company invested billions in healthcare,"
+    publishedDateTime: 2021-07-16T19:52:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/what-happened-to-ibm-s-watson-healthcare-push-and-what-the-future-holds.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 55
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "KifcJobgSwCVlPKMUOu+AdnscnKsasHPSdP5LJ9/sxugydmT62zipzS+KWzja5uD/mozEUd550uWIJLHP0qvqlbdL7VxYL5vco2Z4DqpSBOlnhuSliPTefQd6f7qN9IwMumcgFCEe1JbWQCNd+4cOsdN3Lzlt28RVGcl17zFRre759zyM5xRuGQtrX0VHYR4C/W3TeLu9LKeTm8IX94eRyUOz4cQ/GQSdi/iBb3Nt4l7FeCuGjSXAXKD6ZGSE/qRZAlOf3kXCIRlYdVN5D4QAnUemUY7VYOcBhxxpS0dtxk40ASVbXM1RrEfm2He890q2kI7ZJ3PqIa687SHgdzVTsh64OqDuO9aKvq+HyGzZpY=;Bbnsz4MeamC90v5yeHI6yQ=="
 ---

@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Voice biometrics: the new defense against deepfakes"
-    excerpt: "With a UCL study ranking deepfakes as one of the biggest threats we face today, it’s time to strengthen our defenses – and put fraudsters on the defensive. Touted as the 2020s’ answer to Photoshopping,"
-    publishedDateTime: 2021-07-12T14:09:00Z
-    webUrl: "https://www.techradar.com/news/voice-biometrics-the-new-defense-against-deepfakes"
-    ampWebUrl: "https://www.techradar.com/amp/news/voice-biometrics-the-new-defense-against-deepfakes"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/voice-biometrics-the-new-defense-against-deepfakes"
+  - title: "Veridas face biometrics, Sensory edge speech recognition combats video conferencing fraud"
+    excerpt: "Video conference fraud is on the rise, and the software companies providing the service are teaming up with biometrics providers to stop it."
+    publishedDateTime: 2021-07-14T15:36:00Z
+    webUrl: "https://www.biometricupdate.com/202107/veridas-face-biometrics-sensory-edge-speech-recognition-combats-video-conferencing-fraud"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/P6nR5BjdpHEUspxkCwTxdc-480-80.jpg"
-        width: 480
-        height: 270
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/07150533/remote-biometric-authentication-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
 
 secured: "uTpQzb+3SocH0Pt1VTGuuXVJADZEnSeLS/C5GHGYMlR35mc569BXPp6rdzQ65N00XamyCAXhjMroIIvHoHpR/TWGjwi6FVa9MyjK4pWuccxlO+x0HH3hPx/87CQJTgOfoAb0Lh/umAtBHAJjo9waU+JWNglH1be3KyOIEt3d8EW20Ax8iJN0uIpMVAf2xC6AbRa1hL25Ls6ik1XaB+sa8WLrEA0e2oPeOLOUL1gxPHH2GuMtqCjikkGdljHd9tpyEBWeshjVzOcygrfe5x4DXNLbnLiOysGHmlee+a/bCJVwJ9rwpmZBB7H4w4ANUJuN38AsN9fYeCJg6q71VFG4nMgEo39xesmDNSpNnrskdwc=;6Udmr4BALQRmE+zdZLp/mA=="

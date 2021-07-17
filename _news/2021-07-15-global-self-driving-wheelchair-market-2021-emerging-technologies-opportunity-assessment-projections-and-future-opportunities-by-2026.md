@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-self-driving-whee
 webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2021-emerging-technologies-opportunity-assessment-projections-and-future-opportunities-by-2026-2021-07-14"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational Artificial Intelligence Market Size 2021 Report Includes Raw Materials Sources, Major Players, Export and Import by Regions"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Conversational Artificial Intelligence Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-07-12T13:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-size-2021-report-includes-raw-materials-sources-major-players-export-and-import-by-regions-2021-07-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Service Robotics Market Report 2021-2025: Technology Trends, Increasing Research and Development Expenditure, Government Initiatives, Co-Bots"
     excerpt: "The \"Service Robotics Market (Impact of COVID-19) and Volume Analysis by Type (Professional Service Robots, Personal and Domestic Service Robots) and Key Players Analysis - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-07-13T16:06:00Z

@@ -241,15 +241,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 5
-  - title: "Global Educational Robot Market (2021 to 2026) – Industry Trends, Share, Size, Growth, Opportunity and Forecasts – ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global educational robot market exhibited strong growth during 2015-2020."
-    publishedDateTime: 2021-07-12T14:08:00Z
-    webUrl: "https://www.financialbuzz.com/global-educational-robot-market-2021-to-2026-industry-trends-share-size-growth-opportunity-and-forecasts-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "I/m6vaVGfPkgdKXlAqW+M+JSJh+H+LydmfOGuRsuiwFwqkwAn6+7DHe81S3OA+7VORzngYxbMhyB2vH0WIx+hm4aehTYnvLHezf7J3kqSY66h3LvkQE6w198bUgBpnP1Nke7iUXtFAN3TSh+IFtJmo1WkJq9HpTRl3D211nPZKM+F/5m5UGjwJJF4Vern69UqmYWPwDYrQ10mqavVKJlisE0me6DBDIFuXjZ4UjvxRB4jnqfXJgdNvtdJAWVtVSA36v4DFdQm2td6uWH3HuGUeHyMT0LkVAyUEO834XCu7rqERA+8+m1ftQLO1cwNU3ZRHr++zftniAYJPeYVoR1jOvxnKtCxChnKptJs9nV6sN34lvkz7Tby29VduwbrVf6VlUvq/Mi8OmHKijytYaAz68dCxV7l1T7P8wIOHYk0YNwbzRY1QgonSTzv7lh7ZBvX9qvLP4RRWfU6iZqIeeKQVIQtSMZHGucvxZcSGFmun9MpzOF5FJ/CTm06hU7VxujTL5ZQ3UjwbajkPyDTaAReA==;Efg12lCTO2HxOzQfw7dtQA=="
 ---

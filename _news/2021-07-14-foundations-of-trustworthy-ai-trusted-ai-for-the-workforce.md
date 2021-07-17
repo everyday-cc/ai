@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/07/trustworthy-ai-workforce/
 webUrl: "https://www.ibm.com/blogs/watson/2021/07/trustworthy-ai-workforce/"
 type: article
 quality: 119
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 7 Artificial Intelligence"
-    excerpt: "Top 7 Artificial Intelligence AI is now at the forefront of technological advancement in various industries and some industry leaders are le 18088292"
-    publishedDateTime: 2021-07-12T14:55:00Z
-    webUrl: "https://elclasificado.com/losangeles/telecom/venta-computadoras/top-7-artificial-intelligence-18088292"
-    ampWebUrl: "https://elclasificado.com/losangeles/telecom/venta-computadoras/top-7-artificial-intelligence-18088292-amp.html"
-    cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/losangeles/telecom/venta-computadoras/top-7-artificial-intelligence-18088292-amp.html"
-    type: article
-    provider:
-      name: El Clasificado
-      domain: elclasificado.com
-    quality: 59
-    images:
-      - url: "https://elclasificado.com/photos/bc/c8/bcc82cd84cd144799b16f6188362b5c9/l.jpg?image=0"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Preparing the world for artificial intelligence"
     excerpt: "Ultimately, the move toward AI also needs a cultural paradigm shift, behavior change and setting ethical standards on the boundaries of its uses and what recourse victims of AI use or abuse have to justice."
     publishedDateTime: 2021-07-12T16:46:00Z

@@ -39,22 +39,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Top 7 Artificial Intelligence"
-    excerpt: "Top 7 Artificial Intelligence AI is now at the forefront of technological advancement in various industries and some industry leaders are le 18088292"
-    publishedDateTime: 2021-07-12T14:55:00Z
-    webUrl: "https://elclasificado.com/losangeles/telecom/venta-computadoras/top-7-artificial-intelligence-18088292"
-    ampWebUrl: "https://elclasificado.com/losangeles/telecom/venta-computadoras/top-7-artificial-intelligence-18088292-amp.html"
-    cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/losangeles/telecom/venta-computadoras/top-7-artificial-intelligence-18088292-amp.html"
-    type: article
-    provider:
-      name: El Clasificado
-      domain: elclasificado.com
-    quality: 59
-    images:
-      - url: "https://elclasificado.com/photos/bc/c8/bcc82cd84cd144799b16f6188362b5c9/l.jpg?image=0"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "nMTKG+M3tp+eZ2a7W3gO1Kllb3zy3XRnvuRvHzE6kukCP1Qbyx3SOjAV5OW4chwCye/0xPHGbNT7vAStlRP6hIaAwLs2lsDZ3Pe0VwzL8fm9Mb3VowFjozpaFQ5RojF4Nog9DpNSgTUqYioCusfPTbRDSSxLjPOng3Euh7mjfMBu8mQ46kQYWhHGpy4SVqIAKW72Ii+udWsn5EAtV2ph9ISUyy9qvwmAKHH74fx0fbGCvjXcEaN5sx2oNpQ4ASMPG0ZXcBYowzc76Z0TYBfI30tvopEWrkt3r4kBwaQmgA/m8MNpjC2n/p4WpU4WOjKBnyWDPaCk3WRithDWXRAfJa4skmdHP2OEBp0swCLvd5k=;8xmK9tp1lCLxWWEubSPsdQ=="
 ---
