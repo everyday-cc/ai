@@ -32,20 +32,50 @@ images:
 
 related:
   - title: "Device taps brain waves to help paralyzed man communicate"
-    excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
-    publishedDateTime: 2021-07-14T21:21:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
+    excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a"
+    publishedDateTime: 2021-07-14T23:13:00Z
+    webUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1424"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg"
+        width: 2500
+        height: 1669
+        isCached: true
+  - title: "Implant Directly Translates Paralyzed Man's Brain Signals Into Speech"
+    excerpt: "Researchers at UC San Francisco have successfully developed a \"speech neuroprosthesis\" that has enabled a man with severe paralysis to communicate in sentences, translating signals from his brain to the vocal tract directly into words that appear as text on a screen."
+    publishedDateTime: 2021-07-15T09:46:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/implant-directly-translates-paralyzed-mans-brain-signals-into-speech-350896"
+    ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/implant-directly-translates-paralyzed-mans-brain-signals-into-speech-350896"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/implant-directly-translates-paralyzed-mans-brain-signals-into-speech-350896"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 74
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
+        width: 389
+        height: 389
+        isCached: true
+  - title: "Researchers use machine learning to translate brain signals from a paralyzed patient into text"
+    excerpt: "In a study published Wednesday in the New England Journal of Medicine, researchers at the University of California, San Francisco, describe an approach that combines a brain-computer interface and machine learning models that allowed them to generate text ..."
+    publishedDateTime: 2021-07-14T21:07:00Z
+    webUrl: "https://www.statnews.com/2021/07/14/machine-learning-translate-brain-signals-text/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
     quality: 59
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.statnews.com/wp-content/uploads/2021/07/UCSF_ChangLab_239-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Researchers Harness Brain Waves of Paralyzed Man to Communicate With Him"
     excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a computer screen."
@@ -92,6 +122,34 @@ related:
       - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210715/ARTICLE/307159958/AR/0/AR-307159958.jpg"
         width: 800
         height: 536
+        isCached: true
+  - title: "A new AI-powered brain implant allowed a paralyzed man to speak again"
+    excerpt: "Doctors at UC San Francisco helped a paralyzed man 'speak' again, after giving him a brain implant connected to sophisticated natural language AI."
+    publishedDateTime: 2021-07-15T21:21:00Z
+    webUrl: "https://www.popsci.com/health/man-regains-speech-brain-implant-ai/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 39
+    images:
+      - url: "https://www.popsci.com/uploads/2021/07/15/4x3-UCSF_Neurosurgery_Chang_215.jpg"
+        width: 1708
+        height: 1281
+        isCached: true
+  - title: "In medical breakthrough, scientists turn paralyzed man’s thoughts into sentences on computer screen"
+    excerpt: "A California team is developing a device to decode brain waves that normally control the vocal tract, the tiny muscle movements of the lips, jaw, tongue and larynx that form each consonant and vowel."
+    publishedDateTime: 2021-07-14T22:26:00Z
+    webUrl: "https://www.pressherald.com/2021/07/14/device-taps-brain-waves-to-help-paralyzed-man-communicate/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 10
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/07/Paralyzed_Speech_Device_90195.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "XUIvx5eavJeyko7M7sLitPGujyAdZU4oE0miT0ax+LwLW2oFcDqu0NJk6PeRMhBN6yOth5uxhIui7Mn6EACinBXXpLXplX0UwTfYLg6dTJyGA6yPKRIquXRNEVqQsj1fRHmF3QMxYSwWNfQ9fK8YuHt91lbRRI4lQQUaAEJ/z2M5UJaENtMhgSlpRnzpBrXPHvOQf66HL3FseDktiMJghZEw1FzlQ27LmgZ4mXEjuzym0hX9sCTEYM8Qr9/fhDVjgfOgMlAbzfsWPmIujYkpsY3hwARami3guTi6845d9rHf+OYM60dPNV9g+xThcu9x7yswFbtyGPFS57rXEcCVmzR5uD1v4qwK0O5wdVWJ/rQ=;JVJ5GVD30cMc7caXpp0Iug=="

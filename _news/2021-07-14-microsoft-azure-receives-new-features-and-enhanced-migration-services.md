@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-feat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
 type: article
 quality: 104
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -77,8 +77,8 @@ related:
         isCached: true
   - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
     excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
-    publishedDateTime: 2021-07-14T04:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
+    publishedDateTime: 2021-07-14T08:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
     type: article
     provider:
       name: Business Insider
@@ -88,20 +88,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "NEC, Microsoft to Collaborate on Cloud, Edge, AI, IoT and Private 5G"
-    excerpt: "Microsoft and NEC announced a new multi-year strategic partnership, where the companies will leverage Microsoft Azure"
-    publishedDateTime: 2021-07-13T01:04:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20223-nec-microsoft-to-collaborate-on-cloud-edge-ai-iot-and-private-5g"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 54
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/884fc3b4d19d523516b14de7bdd9c372.jpg?t=20210713_010237"
-        width: 752
-        height: 408
         isCached: true
   - title: "Microsoft Launches 'Inside Azure for IT' Learning Portal"
     excerpt: "Microsoft on Monday announced the launch of Inside Azure for IT, a new learning site \"for cloud professionals of all skill levels.\" Inside Azure for IT contains links to so-called \"fireside chats ..."

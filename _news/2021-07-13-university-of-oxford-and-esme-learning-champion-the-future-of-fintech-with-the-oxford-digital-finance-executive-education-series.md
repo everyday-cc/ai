@@ -1,29 +1,23 @@
 ---
 category: news
 title: "University of Oxford and Esme Learning Champion the Future of Fintech with the Oxford Digital Finance Executive Education Series"
-excerpt: "University of Oxford and Esme Learning, the AI-powered digital learning platform, have introduced the Oxford Digital Finance Executive Series: a dynamic set of six-week online executive education programmes."
-publishedDateTime: 2021-07-13T11:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-oxford-59e6dac76f484932996dd1e6a375b08a"
-webUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-oxford-59e6dac76f484932996dd1e6a375b08a"
+excerpt: "University of Oxford and Esme Learning introduce five online executive education short programmes to prepare professionals for the future of finance."
+publishedDateTime: 2021-07-13T15:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series"
+webUrl: "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series"
 type: article
-quality: 27
-heat: 27
+quality: 7
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
   - AI in Education
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "FinTech The Key Disruptor For Emerging Market Financial Services In 2021 And Beyond"
@@ -41,6 +35,6 @@ related:
         height: 1356
         isCached: true
 
-secured: "vAqX4L5YE+WY1sfJjh9wP6LmUmGxVoHvuSQUZC0Kan/Gc34BneviA4L+qn2MYMXHlND9s3CX1sYfzjjjE94hohp8Mo3M5sLf+il4DfpIC68fda/iG9fRf7npEx3ylcH8SvKQPuwb8NnZ/cu+xKL6lOJ3qwNwVodK1VlHenzGMgxFmlNJ/thFqn7Z+MxZjoxC+CUNa9gLnXnvpt74IEE+j4//upJhmiEN6SSwPxF5RrFDGHiJpJ0e1Z7qjWVRyRN2omhB8Xg4xZL0hXlhWTK7WxLqX4JDZ8/A6oQ1UPf1YwZO4KEC0e2adnkWa4eELQJAR8AKD4sDxFe5X+qzvsNeeoPpNtVNleywMrb3okG/oW8=;b05RnxGIeqgvb6cjuxb+gA=="
+secured: "PGIBXOGosRWneI/Rkm66dfv75yeHulQvdho9cVEEgWVo8HleQv9jLikTB4x78uqkZH3tAY+pox+agwjd9dl8vpI0oAdc7J+Jq4lIKjxOymsatLzWP2NCY0Q/IYqtKMS7wpDSi7yEC+iH3aIE4xXmqbKyI98JlqMS72Xe+J9I++1/8SqhBw7tA573PbF8uISepaNOrWUy/IT8BvrZX+oGh2A+aOj2S25q0hYkKSc6lX1YVYH0tEd81CtPeMIARH8c1vujZGYHLwk8TGjPzuNmh6Kln448oZdPhEzMNZy59ZrVZSSU4Spk25E2u72rmSGXk4EzYb5ixqx6Slb53hraRTk9gqN0gOhlH7WBfPDT2tk=;ive4VH7BjUAcCoZv1Arj8g=="
 ---
 

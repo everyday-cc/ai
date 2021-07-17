@@ -145,6 +145,22 @@ related:
         width: 620
         height: 301
         isCached: true
+  - title: "From swerving into a median to narrowly missing poles, videos of Tesla's latest Full Self-Driving update don't inspire much confidence"
+    excerpt: "Videos show some improvements, but lots of dangerous glitches for a software called \"full self-driving.\""
+    publishedDateTime: 2021-07-14T20:03:00Z
+    webUrl: "https://www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/60ef4a7d61b8600019f17259?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AEV Summit: Embark focuses self-driving tech on big fleets"
     excerpt: "DETAILS: Embark Trucks has the longest experience — five years — of running self-driving trucks on public highways. It is offering a bolt-on software that can go on any manufacturer’s truck. It envisions commercial fleets having the technology by 2024 — with no safety drivers."
     publishedDateTime: 2021-07-14T18:00:00Z
@@ -229,20 +245,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/d/78/d788e464-fed4-51ee-a341-1bab6f35538c/60f14ae3ae8fc.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
         width: 840
         height: 630
-        isCached: true
-  - title: "From swerving into a median to narrowly missing poles, videos of Tesla’s latest Full Self-Driving update don’t inspire much confidence"
-    excerpt: "Tesla interior Reuters Tesla launched the latest version of its Full Self-Driving beta after a long delay this month. Beta testers immediately started"
-    publishedDateTime: 2021-07-14T20:01:00Z
-    webUrl: "https://www.businessinsider.nl/from-swerving-into-a-median-to-narrowly-missing-poles-videos-of-teslas-latest-full-self-driving-update-dont-inspire-much-confidence/"
-    type: article
-    provider:
-      name: Businessinsider.nl
-      domain: businessinsider.nl
-    quality: 7
-    images:
-      - url: "https://cdn.businessinsider.nl/wp-content/uploads/2021/07/60ef4a6661b8600019f17258.jpg"
-        width: 2500
-        height: 1751
         isCached: true
 
 secured: "D5THb+VNXPpx3KD1XIj0cTzFq44u8DfnpaVqm/CNnJ7mBX5P0dzt3iBlGkoH4PQaZ55ItIbF39Hw23WuauYA2T4DB/zZecQKX+C+y0j10ZDkbJDBVLZXl0W9y2hgETlomiHETFP61CD2qUqHJ28CsfwCw/Shs58X+tSS38xubKu0pum4i1eyOP1z1hpZ18W6DTKStDxZFfw2Vp8gGGMM9com+ux8P3oH1CmMzxqA4NrrkAg3JTQ7w4Yo+ru3ifxFOEcVZanGdEoqmMOJiGjtxWHG1BVzRnZ7snrU9YcTssYLA0prmuQS1XnIW+yLM8CEJNnH4yec5BaImZcZ4RSLr1WEiMAq0bGhqq6IFzm4WuDqID3kKf65gZs6i0lqQa3evFDX1Jpz2+GovzicwUJxH1HrEvz4bYqs417/gSzk//GaTZI3yv3k6Q3wsEdDYZ5tjjXWIOiiqtFVP/029KlKM9C7zpXCHD5eO91dNBqDAbJ0pRnN3tvzD/j6h1lKfR9l4pr/t+LViUxciwTUG0p77g==;iMV5HzQ4PeXDTBq0VO33ng=="

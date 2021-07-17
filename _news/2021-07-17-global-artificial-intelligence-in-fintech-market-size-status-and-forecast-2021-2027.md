@@ -177,6 +177,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
+  - title: "Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027 report by QYResearch Group. North America is expected to be the largest and"
+    publishedDateTime: 2021-07-17T07:36:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4677370-global-artificial-intelligence-for-healthcare-applications-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 19
   - title: "Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence as a"
     publishedDateTime: 2021-07-15T09:05:00Z

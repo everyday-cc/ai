@@ -1,32 +1,62 @@
 ---
 category: news
 title: "Device taps brain waves to help paralyzed man communicate"
-excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
-publishedDateTime: 2021-07-14T21:21:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
-webUrl: "https://abcnews.go.com/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
+excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a"
+publishedDateTime: 2021-07-14T23:13:00Z
+originalUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
+webUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1424"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424"
 type: article
-quality: 59
-heat: 99
+quality: 89
+heat: 169
 published: true
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg"
+    width: 2500
+    height: 1669
     isCached: true
 
 related:
+  - title: "Implant Directly Translates Paralyzed Man's Brain Signals Into Speech"
+    excerpt: "Researchers at UC San Francisco have successfully developed a \"speech neuroprosthesis\" that has enabled a man with severe paralysis to communicate in sentences, translating signals from his brain to the vocal tract directly into words that appear as text on a screen."
+    publishedDateTime: 2021-07-15T09:46:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/implant-directly-translates-paralyzed-mans-brain-signals-into-speech-350896"
+    ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/implant-directly-translates-paralyzed-mans-brain-signals-into-speech-350896"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/implant-directly-translates-paralyzed-mans-brain-signals-into-speech-350896"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 74
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
+        width: 389
+        height: 389
+        isCached: true
+  - title: "Researchers use machine learning to translate brain signals from a paralyzed patient into text"
+    excerpt: "In a study published Wednesday in the New England Journal of Medicine, researchers at the University of California, San Francisco, describe an approach that combines a brain-computer interface and machine learning models that allowed them to generate text ..."
+    publishedDateTime: 2021-07-14T21:07:00Z
+    webUrl: "https://www.statnews.com/2021/07/14/machine-learning-translate-brain-signals-text/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 59
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2021/07/UCSF_ChangLab_239-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Researchers Harness Brain Waves of Paralyzed Man to Communicate With Him"
     excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a computer screen."
     publishedDateTime: 2021-07-15T13:53:00Z
@@ -89,7 +119,35 @@ related:
         width: 800
         height: 536
         isCached: true
+  - title: "A new AI-powered brain implant allowed a paralyzed man to speak again"
+    excerpt: "Doctors at UC San Francisco helped a paralyzed man 'speak' again, after giving him a brain implant connected to sophisticated natural language AI."
+    publishedDateTime: 2021-07-15T21:21:00Z
+    webUrl: "https://www.popsci.com/health/man-regains-speech-brain-implant-ai/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 39
+    images:
+      - url: "https://www.popsci.com/uploads/2021/07/15/4x3-UCSF_Neurosurgery_Chang_215.jpg"
+        width: 1708
+        height: 1281
+        isCached: true
+  - title: "In medical breakthrough, scientists turn paralyzed man’s thoughts into sentences on computer screen"
+    excerpt: "A California team is developing a device to decode brain waves that normally control the vocal tract, the tiny muscle movements of the lips, jaw, tongue and larynx that form each consonant and vowel."
+    publishedDateTime: 2021-07-14T22:26:00Z
+    webUrl: "https://www.pressherald.com/2021/07/14/device-taps-brain-waves-to-help-paralyzed-man-communicate/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 10
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/07/Paralyzed_Speech_Device_90195.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
-secured: "IWUaSTdrj3YuBK9Duwzg4Sq0R0ybsMy+UGu511xKVWEZD0UgswhEgvoDrZzZL5J6IlyTMosakBrPfzSpBaRk7Uoo+OBOGXMz+V9INxhMPo7MEs6r+F/hBosY4wI82tWtvjFeox4LafgiAJ10bP2jmab+OdGGJ6uuoXvSOIlNPX7v3ww2r9diOq5e5jLl30bxrtN678HBVSopvYukce5RHIUJM2qKaNWLS3EjwyDboOnDv/daWdu7YG9NzZewxmLXUbeSOG0Y4g8n67u/flzucW99FkAuYF0T4UYZhkWkDPtbPGcwwHAqX1KadbXm4UmhG7lvjbKVAEwqB/st8DyhCruGPadk/hCivtLtxG8gNMU=;f3txgaTK8IOOw8cTHY4aSg=="
+secured: "6fpggWL+cq9wzxGuD3L6cSdsUTP6q5jCFovfOA+agflim5tX67OzofwHlLBBpHLqUIn5ZC4xWW7Sm3KIRE0V0/rMnmsE3lH9L0R4UObFIKsJG/ykxr+/KWGdIEolTGnkyX+hHimX5XhMlGofxVsmgYk7ce6r22wMNHCMtSxUQ8HcyRi9sxAI0NwB0f4IfSFoXu1RSq1CyzP301wb9jSOxuQrQv1nTyOBAAnau1cWhgyrTZM+t7KnW4o6838MPDTjKs25oCIzgT9QSJESYGNwOdXgcBPrrWAlgH720xAGY/s8Lcu4N4xXfNkxt6W0KscR4V6xvZGSDW/VnB+W8cvebK9rJlfAFORXDlu6rXXKIhU=;tiuj+e4P4M1sTzjW081uhQ=="
 ---
 

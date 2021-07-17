@@ -1,32 +1,28 @@
 ---
 category: news
-title: "How AI Can Create Meaningful Change In Traditional Industries"
-excerpt: "Yet currently, multiple multitrillion-dollar industries such as retail, supply chain, food and energy have critical workflows and decision-making processes that rely on Excel spreadsheets or literal pen and paper."
-publishedDateTime: 2021-07-15T11:50:00Z
-originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/"
-webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/"
-ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/"
+title: "Advanced New Artificial Intelligence Software Can Compute Protein Structures in 10 Minutes"
+excerpt: "Accurate protein structure prediction now accessible to all. Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction,"
+publishedDateTime: 2021-07-17T14:50:00Z
+originalUrl: "https://scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/"
+webUrl: "https://scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/"
+ampWebUrl: "https://scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/amp/"
+cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/amp/"
 type: article
-quality: 87
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SciTech Daily
+  domain: scitechdaily.com
 
 topics:
   - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg"
-    width: 1200
-    height: 800
+  - url: "https://scitechdaily.com/images/Protein-Structure-Generated-With-Artificial-Intelligence-777x518.jpg"
+    width: 777
+    height: 518
     isCached: true
 
 related:
@@ -45,6 +41,22 @@ related:
       - url: "https://cms.qz.com/wp-content/uploads/2021/07/Robot.jpeg?quality=75&strip=all&w=1200&h=630&crop=1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How AI Can Create Meaningful Change In Traditional Industries"
+    excerpt: "Yet currently, multiple multitrillion-dollar industries such as retail, supply chain, food and energy have critical workflows and decision-making processes that rely on Excel spreadsheets or literal pen and paper."
+    publishedDateTime: 2021-07-15T11:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How Artificial Intelligence Is Fighting Wildfires"
     excerpt: "A lab at the University of California, San Diego, uses data to figure out how fires will burn, and how to help prevent them."
@@ -94,23 +106,7 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Advanced New Artificial Intelligence Software Can Compute Protein Structures in 10 Minutes"
-    excerpt: "Accurate protein structure prediction now accessible to all. Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction,"
-    publishedDateTime: 2021-07-17T14:50:00Z
-    webUrl: "https://scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/"
-    ampWebUrl: "https://scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 47
-    images:
-      - url: "https://scitechdaily.com/images/Protein-Structure-Generated-With-Artificial-Intelligence-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
 
-secured: "JFuMDHpbYGmC/XptI8dSu0GZ7uLpJpepvUH+MHTUY7bmu9dC5jLimBDtt4ewawaxOL1LyS4/Sq5njT2iu8B7ejXqdJVR9lHf3OT+xAOao3H1WUkfHPn5qeep7Ge7e7/MzozxuzgMMImYArlWMOF+UNlMpFfaQhk3eKcH/Pa4zH86bU6Egucu+iIMDy15t4uPggdcdAR7Eo9tm4IXmVVVgcbD5mX9wtLQLhuiMvSSXDnSx+dmetTb6g9es0oUN1Ct+vZuKqHQKn9p3fdmwmLNRVPjOiBIwa5VGwRW+Kh3vOIElL3SktpoWRilHfbv1lv7cH81MnkWjTwz7+qure/GC45uc12X0SMYRK5aXSb12rCFPdv6awBsTjlC1fmFCSxj5poWBfKXWbDSQ9oN35s5/h8C/L6L9HIe2HzDNpz3axORJLrOeTrhJoIJPK6l4sR+MfRex5XfeWTJsgAxXBzcdZGSJQnuEXlXguySO2bRedaHgNOOsA3R+72ikyLeXMvhO8ds2QS4Dqbw67cx020omw==;SYyijoAQnpdI1Z4KiIN9qg=="
+secured: "jeHNhoEciICFEFe/aAbtQ3dxZy9cEr8G9ErPo8LeDzOgnzlg4MnoBTOwFUeZ/7RFSCP0xcHO/owBv0GP41nq7YAdbyahV1VGgy7iMIp8e4UxESsKlY4GHl6jth+xJ/BqUrc1WpzpgYQtCgcjLwSkLod5hidcrt7a2pdbVTRd8xX3xr1iZdPOLfx/2NUepUr4ji+78baBqt4KmYLhI6eB9uuCKolWa2sihLCTE3l2aBeeqwreDrJIC0G0QvZLNNR3g8t542pZjvf6d0eemCqRiV917LQEIQYG/JGAT1A4utEGOgaPGdibC3xRqhXLJu3Rwhmyj5Ymqynv7ksc9eIdllDVMf4DcI2JD+riOMl6fsE=;4Z2Ymldg29dU0SK6Ou0DUw=="
 ---
 

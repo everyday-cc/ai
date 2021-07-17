@@ -2,9 +2,9 @@
 category: news
 title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
 excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
-publishedDateTime: 2021-07-14T04:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
-webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
+publishedDateTime: 2021-07-14T08:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
+webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
 type: article
 quality: 83
 heat: -1
@@ -88,20 +88,6 @@ related:
       - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
         width: 400
         height: 260
-        isCached: true
-  - title: "NEC, Microsoft to Collaborate on Cloud, Edge, AI, IoT and Private 5G"
-    excerpt: "Microsoft and NEC announced a new multi-year strategic partnership, where the companies will leverage Microsoft Azure"
-    publishedDateTime: 2021-07-13T01:04:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20223-nec-microsoft-to-collaborate-on-cloud-edge-ai-iot-and-private-5g"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 54
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/884fc3b4d19d523516b14de7bdd9c372.jpg?t=20210713_010237"
-        width: 752
-        height: 408
         isCached: true
   - title: "Microsoft Launches 'Inside Azure for IT' Learning Portal"
     excerpt: "Microsoft on Monday announced the launch of Inside Azure for IT, a new learning site \"for cloud professionals of all skill levels.\" Inside Azure for IT contains links to so-called \"fireside chats ..."
@@ -215,6 +201,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "xPqcFTj88u2JMTxNf4MgYWzU0IszUS+Q9dU/pQrQJOsHBJ0juhBcCCaOGDNYDCEIYjiAOOjkF3WEkQXb/IixaP1+efkxf0e5/jN8LLpQOx9X4V4w7ALJUmlZga+N6/DhVqVLe3J5jBOg0Sedmv7M8KPp5B5oCp8sqpmMafXO6i5j8jeaNmErmXtckDlI1ygrfqC2C/OpfjFA029Ic6uzUC52jbZh2rncVU4PXw4CBZdq9RhWY9Lsre5S0icAf2WJOjqHovHoy8g5ch56eQvu7vCzdaxrqqLeQRiIGasrtD9kOjrQ2DCPmWEQS1Y4tkcsoVxAzx0ciY6vz2o987jmmFQwZuUJVnUScYuAL61TLLk=;qu7OlzsvgFyk18E+BH16Nw=="
+secured: "UrmRJfpeRPSNKGCbVSsJPBAdSbZttRscFf3yuFK58xGsWdDzlum3wDm/TDSDc/aFH2YkY4y8G1/nKyrepd5HXTSaGR5eTQVSrLbgAuku36r2X2dVSakICK3343OUjNDGmwx39koD5Fpa3+0N3cqNSk7hTBXw3VNjFIyjNX4eQiH1EIk/Du3Xf6IbfWoomHqVbS4c82CAyB5eTk+bk/vdcMKq7N6Z1xrarFhixsyQc1egPV1wq+3z9NW2SoYBe0w3NXwm+y6s7Pu68yV/2yZI5SsoRDvUJN6smJ8S1DSZfvPwonCLzV66zbsJunxosFsovNaiDJZbm6sCpYJNpQ4tFrtmrJAnV8JZA3Z9Nd2TY4E=;VdW7mpBU/WbVVCFE+USHEg=="
 ---
 

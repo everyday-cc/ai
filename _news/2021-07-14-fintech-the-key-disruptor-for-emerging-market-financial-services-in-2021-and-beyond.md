@@ -7,7 +7,7 @@ originalUrl: "https://pressreleasenetwork.com/site/2021/07/14/fintech-the-key-di
 webUrl: "https://pressreleasenetwork.com/site/2021/07/14/fintech-the-key-disruptor-for-emerging-market-financial-services-in-2021-and-beyond/"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "University of Oxford and Esme Learning Champion the Future of Fintech with the Oxford Digital Finance Executive Education Series"
-    excerpt: "University of Oxford and Esme Learning, the AI-powered digital learning platform, have introduced the Oxford Digital Finance Executive Series: a dynamic set of six-week online executive education programmes."
-    publishedDateTime: 2021-07-13T11:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/europe-business-technology-oxford-59e6dac76f484932996dd1e6a375b08a"
+    excerpt: "University of Oxford and Esme Learning introduce five online executive education short programmes to prepare professionals for the future of finance."
+    publishedDateTime: 2021-07-13T15:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
 
 secured: "aYsEiNhro9+hm+RfKIsumWBC8mnFjGaKAzvUYZeS12W9sbGczcpEx6CSVOKV/9lGKyi0t7RliT8o6ZpfRor0BxxOVCeWZYQYu41j5aOQzjbPyKvKoM3ZQBLgJ4R/+6bIuuqT6qsuBz4418+JtuXNE45JQF+VNOl8kuxzqtJSiLiC2PvPIAuGJ8L/20yU2iHz1Bm01Pf4AmR2XicoUayS1SKt9HCQL1xG4u7xG/HL3C4nKJxyGAdRb6WqXuLoB/Ln4R3bTB6BIZ3ZmDZUc+Cz595Z6VSm3DTKOrKbDW2G35PyKXXr+6NfmzdyOFGnSz5Xdeb6hTYC8mXw8k+iFCooHGx5JjBrp3Z/S1+DYbRCV/bOEz09tud/HPVWgNsmVO2E/MRtFdiQPltm2nllzq6sjKl1kulow9TsycAiqyO/kUDbaIKDTOwMGBgByEPr3OgghyeyhsvHumsh4OUZb4c8aipm+qQJK7I4fY8MKcuqGjBUGKrfks3QOvz3fauzTwt5bliTWRTvTvEY1Kxr9m2X/g==;PQL61PFzRHUaYzDgMKsWRg=="
 ---

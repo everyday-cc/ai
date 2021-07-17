@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "AI-enabled sign language translator designed by teenagers wins £20,000 prize"
-    excerpt: "Pupils from St Paul’s Girls School in London came up with the idea after they were inspired by the experience of a friend who is deaf. | ITV National News"
-    publishedDateTime: 2021-07-15T22:01:00Z
-    webUrl: "https://www.itv.com/news/2021-07-15/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize"
+    excerpt: "A two-way AI-enabled sign language translator designed by teenagers has won a £20,000 technology prize. A team from St Paul’s Girls’ School in London came up with the idea for an intelligent ..."
+    publishedDateTime: 2021-07-15T23:23:00Z
+    webUrl: "https://www.oxfordmail.co.uk/news/national/19446632.ai-enabled-sign-language-translator-designed-teenagers-wins-20-000-prize/"
     type: article
     provider:
-      name: ITV
-      domain: itv.com
+      name: Oxford Mail
+      domain: oxfordmail.co.uk
     quality: 36
     images:
-      - url: "https://images.ctfassets.net/pjshm78m9jt4/headerImage-24f4d169-e421-46b2-9053-b28f3f5b3593/e63cb42f9e0a1b04c1b6bdd6da506cdb/headerImage-24f4d169-e421-46b2-9053-b28f3f5b3593"
+      - url: "https://www.oxfordmail.co.uk/resources/images/12802591/"
         width: 1071
-        height: 756
+        height: 714
         isCached: true
 
 secured: "TrVK1sYJvqqsavKEU48nRHW2EHk+nYRXE4g0rXpAaq1i57xFJ65U3TYTnGDW3jUfwy2sEqZb4ZaG4k0hZlfSJB4zZbN9fROFfkQlr92Be7S8Ln8GcPWkKz2ONqbHzJhdms4lmGMWWLkXQqUXcez143VxPiftPqXOh6rIwqM2a8+90KsMZ8Ekt1c7Pg1vAfiEhvO+U03qxYN2CwawFZk1xQlRisepIqsUwnuk2KUW1RI1FkkJENArg6+ZKDr2BgyGhBU0y+20gkyh2g3DqaFkLZhsqeCxE03QETNK8xJDDI94HqhR8Oos2NTmcnwxrpQmTyMrNFN0dPj0clDdZ87dBOUvkzdACEi46Wurn3AyD00Q8WGFr2d87ksE7LWMHW4MD8dH7hnnOSP/lQeoujPms2WIFW5UWswi0mdwZ5l7/BafRaUj8+b+dANbODB6bs/uZEOwIVd4/RXUwEkdHML6f+49makl0Y7YAse2sWthmQIQbO3SoafXko0WdWOeamlldayS0vzO9zdnuFL9fSMfeg==;MGorVx5BBFTFxlVl23ktqQ=="

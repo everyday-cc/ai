@@ -91,6 +91,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Advanced New Artificial Intelligence Software Can Compute Protein Structures in 10 Minutes"
+    excerpt: "Accurate protein structure prediction now accessible to all. Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction,"
+    publishedDateTime: 2021-07-17T14:50:00Z
+    webUrl: "https://scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/"
+    ampWebUrl: "https://scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 47
+    images:
+      - url: "https://scitechdaily.com/images/Protein-Structure-Generated-With-Artificial-Intelligence-777x518.jpg"
+        width: 777
+        height: 518
+        isCached: true
 
 secured: "cG2X7FF7zxi7CKmJQGPEYIMoztweFA5zpbQHhmNLqxXK0EkqNTGqtDCRs2sHrUxKy70GRcIsYi1CUjx/SKi+iHxnmj1duzWN79H+IWNZl35qick0bfoQl2B3lXQ7P3NE4YJXk28u4Max79nhSatqU6djtoOwi3rTMNjOObJSI+Z85f88LPMhsuWilz4H1r/CuwpCbqw6Z3RExdZx4Bvy+p6fP7ninAx4fYzeuEm9Vf+eaBHNvnmyDfK2DC3zN58rTAGEPcZRBlAZUtMJS4dz3lei+dYSC7LabNJ8saXlyoZGKZ1FEhnsK/K8DQ742V6CqwWQWJH0MabGOzDxuuQland6Uv8pTNc+SdliMjyz13oUS87SlxIxGcE7byjmW7SKwhZAeUy9WyLt6WZ3Pqv8LNN1HHCc9T+yROvAT7XFveIkBtGlZPKjcbc/pi7HanE9si1tqnmXVYmR2TZpQG22wINLOqYpdL1U2FTPAHhSskfyKTCItbX3C7uLRf7VTTPfUPzytO96sipjlk7cLiGubg==;tFRrMabIT7/wsxXwS8mPZA=="
 ---

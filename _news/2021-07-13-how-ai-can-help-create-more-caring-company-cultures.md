@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/work/2031109/how-ai-can-help-create-a-more-caring-com
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/work/2031109/how-ai-can-help-create-a-more-caring-company-culture/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/accurate-protein-struc.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Advanced New Artificial Intelligence Software Can Compute Protein Structures in 10 Minutes"
+    excerpt: "Accurate protein structure prediction now accessible to all. Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction,"
+    publishedDateTime: 2021-07-17T14:50:00Z
+    webUrl: "https://scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/"
+    ampWebUrl: "https://scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 47
+    images:
+      - url: "https://scitechdaily.com/images/Protein-Structure-Generated-With-Artificial-Intelligence-777x518.jpg"
+        width: 777
+        height: 518
         isCached: true
 
 secured: "tA8SgD8gRl1ACNn3MKe/msoGW37iI8jGdEq6ZDoFYARK3uUu9M7+F0aG+5ZndtfqIypmzo+KA4tovcnUsgZG/ecwFp9+T8YhO1s2Qp1Ez43uF6BVq/1c1H8J6ZWDUZqHazSDA+na7RGI+zuiejkoyOPx/mzvOF7daR7kQEPWGK1H/Yc7Zj2fELiGPc+NHsC+/VMTYxxM0pxlUvJuu45DIxTsAJoGiAa9ZLW1W3NIj5iwcPMp4s2O9CPZozi8E9R6ykr/re7qpIj3zLFfbXTxBSQaoGnHjxwNY3HQ3FnK8uFxgeB01X7xW9LEv4dcOWLWMGMuVHCptXMLt314mlL7Um+wMvF7U9K4pb/eHZY3Otob7RbuBdKuSCNX0g1Ywn4ZsRSoqUaUbqH+KBRGfOlhT2pKOrSlst5ICNuAm1OEnFojv2HubD7IytnNf3/oJLfegEyPKO1pYrqHKXMjVxb49vgtMWKcEIf/ijPJu2qJYYpvtlcDFSF6QkM2OV+nesssbDKgVd+0lGL83vQ9dRIq/g==;6Yh9SfAqLIGAY70f0Y6IcA=="

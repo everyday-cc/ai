@@ -1,27 +1,33 @@
 ---
 category: news
-title: "From swerving into a median to narrowly missing poles, videos of Tesla’s latest Full Self-Driving update don’t inspire much confidence"
-excerpt: "Tesla interior Reuters Tesla launched the latest version of its Full Self-Driving beta after a long delay this month. Beta testers immediately started"
-publishedDateTime: 2021-07-14T20:01:00Z
-originalUrl: "https://www.businessinsider.nl/from-swerving-into-a-median-to-narrowly-missing-poles-videos-of-teslas-latest-full-self-driving-update-dont-inspire-much-confidence/"
-webUrl: "https://www.businessinsider.nl/from-swerving-into-a-median-to-narrowly-missing-poles-videos-of-teslas-latest-full-self-driving-update-dont-inspire-much-confidence/"
+title: "From swerving into a median to narrowly missing poles, videos of Tesla's latest Full Self-Driving update don't inspire much confidence"
+excerpt: "Videos show some improvements, but lots of dangerous glitches for a software called \"full self-driving.\""
+publishedDateTime: 2021-07-14T20:03:00Z
+originalUrl: "https://www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7"
+webUrl: "https://www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7"
+ampWebUrl: "https://www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7?amp"
 type: article
-quality: 7
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Businessinsider.nl
-  domain: businessinsider.nl
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.businessinsider.nl/wp-content/uploads/2021/07/60ef4a6661b8600019f17258.jpg"
-    width: 2500
-    height: 1751
+  - url: "https://i.insider.com/60ef4a7d61b8600019f17259?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -246,6 +252,6 @@ related:
       domain: detroitnews.com
     quality: 4
 
-secured: "QmzfRmbIbiQ90gzSrj/0MizgUGUY6SDfy6cxwZjiAdbBqi2Too04rBaO9HDUIhP/woL33ALxdlB3ckx8BkUhqo9U8635mgOEZUCC9KGkrYZjdWEk7NNd2rXXIt0A6lT1P/F/c6Z51/0J1ihOJ1yUBguXQ1uZHGCb9ZwPqy+/8kN56oYmbZ8SPEU03Ahignw7SBoMsNYAChQD9uahW83mGfz/MlD57BAF7hxDUL/jhVrwXnNUwm31RFchaROnxlx6pZCLndywFq3JlXPisFA5+Sexrycp5unKW+evcueE4R6uAM2uouX1xXaYZpPDCBiEcPDJmFSn+KZ1KrEk2cxEYXnf4zEYWMgN2RXCYHDl0xc=;/NvZylp1lyAuQ7w/aK9D5g=="
+secured: "LMbROvCEIWOHbSAaqpGMorXPKB2jJTl9JUxhZbq2gDfNqHQQUEkWCC51v7Td64nZuIrl0IuYrQ3Z9Zi6E+xUV+uODc6YrA3RHNBufo6OqHQBiBnkSwqpxDz2JQq1OArtfaYZhGhmPHru29+eI0XGOIeyIk+HYYTxfxwWYutoDVlQllKCr/egQx+PDoPRj84jH+u3L9s8F3ZHH5RfLUjudevRZRhz+IQlCuxhQc2V40BxIGuhPFJDOlFrjrTw56mhZUg1BzyN4lOqX9SGXQVUPn0zrBCMttEIwZMKPF1k+NWT+Tpu1giBqY7Hx+sDmp5526dEc8qt16XjM6zMFi5oEhM/aW8aVIPDXGYVn3pgLX4=;d6LPhqQkuKsPIAaWS4sK2g=="
 ---
 

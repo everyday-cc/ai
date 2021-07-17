@@ -298,20 +298,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Anthony Bourdain's Voice Recreated Using Artificial Intelligence For New Documentary"
-    excerpt: "Anthony Bourdain's voice was recreated by artificial intelligence for use in a new documentary about his life."
-    publishedDateTime: 2021-07-15T21:56:00Z
-    webUrl: "https://www.ign.com/articles/anthony-bourdains-voice-recreated-using-artificial-intelligence-for-new-documentary"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 47
-    images:
-      - url: "https://assets-prd.ignimgs.com/2021/07/15/anthony-ign-1528465548487-160w-1626384290988.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Anthony Bourdain’s Widow Says She Did Not OK Use of AI to Fake Husband’s Voice in ‘Roadrunner’"
     excerpt: "Shortly after Neville’s interview, the use of AI to approximate Bourdain’s voice was criticized and set off a spirited discussion on social media about the ethics in dealing with documentaries of deceased people. TheWrap has reached out to Neville ..."
     publishedDateTime: 2021-07-16T16:15:00Z
@@ -343,6 +329,20 @@ related:
       - url: "https://metro.co.uk/wp-content/uploads/2021/07/Screen-Shot-2021-07-16-at-10.30.07-2652.png?quality=90&strip=all&zoom=1&resize=600%2C343"
         width: 600
         height: 343
+        isCached: true
+  - title: "Anthony Bourdain's Voice Recreated Using Artificial Intelligence For New Documentary"
+    excerpt: "Anthony Bourdain's voice was recreated by artificial intelligence for use in a new documentary about his life."
+    publishedDateTime: 2021-07-15T22:05:00Z
+    webUrl: "https://www.ign.com/articles/anthony-bourdains-voice-recreated-using-artificial-intelligence-for-new-documentary/"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 45
+    images:
+      - url: "https://assets-prd.ignimgs.com/2021/07/15/anthony-ign-1528465548487-160w-1626384290988.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Director uses artificial intelligence to generate Anthony Bourdain's voice in documentary"
     excerpt: "The director of a documentary about Anthony Bourdain used artificial intelligence to recreate the late food critic and world traveler's voice."
@@ -413,6 +413,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "IM8BsdnSYTDpCZihQwDcH2sqyJnPDe/FAA9ZsSuVEeGlCmFKT75bvsvN9pP8CGh2HPLcPsiDdJTqQYgJOjrad3BzCd99jAnTJx5vohugJIHPfw7SIienhgn82EyICh9L29jRvvfQsW+CBnfW2m8g3Er3WiAC8/qShJxogxuKi427GF4g0CeKX6lAAX9wXsWQthQ0PwxbxVW2r7yn7fKdRdwYVe3mPszYobrXrDWXEhMBpkwjbWluHp7xEuELG5El3dOP+3D+f2rdgInW93m51wzhPZJxHVvtNBaCBwOJgncUui6lJQh4fw23/zFNGAqG4ban0ninZLBVl6PiETkHkfNgEhuD2fX9MhqzQfuybnU=;JxJ6twJVCGkZCa0XVj4sPw=="
+secured: "aPbf+3maE1IKFpw9SOrdyA4PJREVDGHawZSWggmvXNq7UnrZMv5C5YqvlRYF7mbl5XRDURuKrOFYiipVXK7cCa1P6007izAASg6/+MjOjct6Ms/WR1wcodi7J89rMY+8NXevXCJ1enuV0pvpCrjfOVzhCoEd/Pr8a+i3KBb8GXrEcc8Ftl7jFi7i8VpMXDJFM8TDp0yYxR5l1B+rsFP7nJ+h65fJGuQO0OntR/C94WyHrIC/llLvIiDh7Nlwot+S+s+2ALASsexWo4FmscejY/h1wVnhxY5REe7GTrUet6tOOvCXYP/SmErd/0i1d56eBdGe2dPerkrRcyLHF43UaESVh5toKQU4vtuPm/a9s9SS9pTHbyHocsUHvWwUmWkBQsbBSPGIKbHn+Qs5HQPWLGF7CHEoFDNry4QL1vU/7BJnznyIo2M10xBgvYUNvTFa53i5JhZGddLnxMbg1aanW+Y5d/hN6xBB/YTE+yElof+Dcwfhor0JZkDeWTKAoNHaw3If8aV7KWP4M95Jc0PN+w==;XIV+5Akk5u2Sx62jfyQ7Ug=="
 ---
 

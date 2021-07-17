@@ -2,11 +2,11 @@
 category: news
 title: "Anthony Bourdain's Voice Recreated Using Artificial Intelligence For New Documentary"
 excerpt: "Anthony Bourdain's voice was recreated by artificial intelligence for use in a new documentary about his life."
-publishedDateTime: 2021-07-15T21:56:00Z
-originalUrl: "https://www.ign.com/articles/anthony-bourdains-voice-recreated-using-artificial-intelligence-for-new-documentary"
-webUrl: "https://www.ign.com/articles/anthony-bourdains-voice-recreated-using-artificial-intelligence-for-new-documentary"
+publishedDateTime: 2021-07-15T22:05:00Z
+originalUrl: "https://www.ign.com/articles/anthony-bourdains-voice-recreated-using-artificial-intelligence-for-new-documentary/"
+webUrl: "https://www.ign.com/articles/anthony-bourdains-voice-recreated-using-artificial-intelligence-for-new-documentary/"
 type: article
-quality: 47
+quality: 45
 heat: -1
 published: false
 
@@ -16,7 +16,6 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
 
 images:
   - url: "https://assets-prd.ignimgs.com/2021/07/15/anthony-ign-1528465548487-160w-1626384290988.jpg?width=1280"
@@ -414,6 +413,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "wfs2aKEOkrHizm7O0bc2tXBdhGSOE2NQYry3Q746jD6aEt+HSSZKyj2E0KUGwdjSl/tT/mAf2cjzWKi06EMjTWloPl/3r0D2Tdx55S/lSOXthlV/AOG4whm5u/A7WAMVe12QnOxzRemIGnQqfFenZ41YA+DLmuyt/rFeJBSMkjMLMmlAGgD2C6CWeomHUmnAo4xBl5rJhhGDgYx1IZ1llWTbVemTP9NvrLH81ebNaGZFjMFfNdtuHmkQDtOxn2gOvxksxGNtAlpyk5CfWA1F31XXksCQ0x2M0+MRV0UQglP4QuuTstSryH6Cpzcly02xnz/q/VGpHYQQEMGedk1RfE8c7HS8RXsZ5OdmOP4VQYCib1wm/gfw1EQDTt6gvnEGdEyCGmuhCp/ddr41FC657xuxf3qBNRr5PVWQrZJnAch0A0bNXYyZDcCRWLbXjUazRqKhAX6DEr7xN7IoLN46hTzRtVdbD2qvKEAzhixX2KsKUqwzguuaDt8X/VZlTOoeY5K0tW0ThexLqNxpxyh5iA==;DJdI7pGiHEZnHA3gp6tMyw=="
+secured: "Hg1pK1+h7ERgCuwNJrF27aYLUn3N1nnFZd3yVq3oSJ2imjTLNyE2KWAKGxnpAuYYrXU28ulVmYEzPK2zq/TSa8Jx4vejOOqz0O6X+ChCcSF0wJBwi61y4spTiqUcBigGulCyJgYavU7jsV0JzB4NbwFEsNyLcvfIR7DWxF76B4qXl2uBH/kTBXqZVmaVS+TuamOTjtW/TSJSmsVcjD77GDLWB2hw3g4bY/GqXyhhaHuk5EpJE8yBmslHFI0bn5Ax+oofWZD1bnJ5bc1PrjWF7qhBlhrqPZswHlOQas7heOqa0mq4AG8vr2iaNJ+Dbviw3E5gPnU7WGVxzbMJwAfMsB9mstD3iMSbpwprfwADnS0=;K+pkvM8S3CzqGKqSn2V0xA=="
 ---
 

@@ -1,32 +1,22 @@
 ---
 category: news
-title: "Artificial Intelligence in Accounting Market Report by Size, Share, Production, Revenue, Price and Gross Margin: Global Forecast Report 2021 to 2027"
-excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in"
-publishedDateTime: 2021-07-14T10:28:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-report-by-size-share-production-revenue-price-and-gross-margin-global-forecast-report-2021-to-2027-2021-07-14"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-report-by-size-share-production-revenue-price-and-gross-margin-global-forecast-report-2021-to-2027-2021-07-14"
+title: "Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027"
+excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027 report by QYResearch Group. North America is expected to be the largest and"
+publishedDateTime: 2021-07-17T07:36:00Z
+originalUrl: "https://www.reportsnreports.com/reports/4677370-global-artificial-intelligence-for-healthcare-applications-market-size-status-and-forecast-2021-2027.html"
+webUrl: "https://www.reportsnreports.com/reports/4677370-global-artificial-intelligence-for-healthcare-applications-market-size-status-and-forecast-2021-2027.html"
 type: article
-quality: 30
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ReportsnReports
+  domain: reportsnreports.com
 
 topics:
-  - AWS AI
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2027"
@@ -123,6 +113,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
+  - title: "Artificial Intelligence in Accounting Market Report by Size, Share, Production, Revenue, Price and Gross Margin: Global Forecast Report 2021 to 2027"
+    excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in"
+    publishedDateTime: 2021-07-14T10:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-report-by-size-share-production-revenue-price-and-gross-margin-global-forecast-report-2021-to-2027-2021-07-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Self-Driving Truck Technology Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2026"
     excerpt: "The global research report titled Global Self-Driving Truck Technology Market 2021 by Company, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz is prepared with a nice combination of industry insight,"
     publishedDateTime: 2021-07-14T02:45:00Z
@@ -173,15 +177,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
-  - title: "Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027 report by QYResearch Group. North America is expected to be the largest and"
-    publishedDateTime: 2021-07-17T07:36:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4677370-global-artificial-intelligence-for-healthcare-applications-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 19
   - title: "Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence has become a leading trend that affects"
     publishedDateTime: 2021-07-17T07:38:00Z
@@ -273,6 +268,6 @@ related:
       domain: reportsnreports.com
     quality: 0
 
-secured: "ew9ARYi9okDu4W/ZA+gaN/C17SsFpzPNHD3QJ9ARL3LNmHrfNb6EXkKtJeAjSkLNcfVuqmQQbNYSnqKh78I21i+KlJZaNkR1gVe673NRi0DV+05gzKCk8b0hb1yma0+5Q5GUsf4B2By2qPIHIYVswOAy9NeS5C0Ky/z4QdpkImWnWEtAqz/bPMfRGKMx/bIdF/UR8Y50QaM/9nGLyyDMS2gOsaJiMVXwOBFvmWpfwVGxn8I7cbfIurXKNuUMBkyjN6nsh3Au7CSYgBzDfepM8v5V1YpASQRgBwDgn+2YsH+9WtIACswh+tvx+8UCAmYUjhI5jETPjQo33XM30NrYI0WrnJJ5I3ongkdVP9AlBgk=;0w/mYyfiyxjJ9Dav4oKOjQ=="
+secured: "d14CUFyLCigQsvHwHebk5SR0pn2+mjKQKYwozd2RU0MZMtvwoKIUiTiIj7Ds+52MUdRdbaWJTq7gWaFd2uG98R95Xf0IufM2Gmyi2MejlMDvwLV2BtQZQC+ClymhJhn4QTnirHoLF7OEauEmA1V4EBm9HNzRdSnlZbBd9b/Q2pBAm/dq/4nr9MEOl29/geUbgmW2esHPyXOPOwK74LgmZJBvb+4CYo2tGI8XKJ3P5ygCRjcJHz3TGmwYHor9MK+aWimVEeOtESXXSHy2DEA/RNzsIuMYs2pafFK48gKcxzQDTLwmn28BPa84Sr04mb3tJXg0GgA1yB1/dSmKFNJRq4lAhYwtkAa2H62HKwa/wuE=;HlASK5dDLmG24fVrleuvXA=="
 ---
 
