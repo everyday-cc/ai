@@ -47,6 +47,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "DeepMind’s AI for protein structure is coming to the masses"
+    excerpt: "Machine-learning systems from the company and from a rival academic group are now open source and freely accessible."
+    publishedDateTime: 2021-07-15T00:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-01968-y?error=cookies_not_supported&code=489849a8-3eb7-4e38-bae1-41a2748c7d62"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 54
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01968-y/d41586-021-01968-y_19363650.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "DeepMind and a rival release dueling code for protein-folding AI"
     excerpt: "The race to release both teams’ code reflects not just an advance for computational biology, but for a culture of transparency in the field."
     publishedDateTime: 2021-07-15T18:00:00Z
@@ -78,7 +92,7 @@ related:
   - title: "DeepMind’s AI for protein structure is coming to the masses"
     excerpt: "Machine-learning systems from the company and from a rival academic group are now open source and freely accessible."
     publishedDateTime: 2021-07-15T18:05:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-01968-y?error=cookies_not_supported&code=489849a8-3eb7-4e38-bae1-41a2748c7d62"
+    webUrl: "https://www.nature.com/articles/d41586-021-01968-y"
     type: article
     provider:
       name: Nature

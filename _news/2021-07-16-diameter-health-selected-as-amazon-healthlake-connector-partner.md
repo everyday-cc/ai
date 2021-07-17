@@ -122,20 +122,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Health startups vs. the giants, healthcare's digitization, and AI medical assistants"
-    excerpt: "On today's episode, we discuss whether startups like Oscar Health can take on the major health insurers, how the consumerization of healthcare is changing expectations, and what digital tools are leading to healthcare's digitization."
-    publishedDateTime: 2021-07-13T04:45:00Z
-    webUrl: "https://www.emarketer.com/content/podcast-health-startups-vs-giants-healthcare-digitization-ai-medical-assistants"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 47
-    images:
-      - url: "https://contentstorage-nax1.emarketer.com/897d1e8fd4c289430459b2cec2781b89/default-image-share.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Amazon HealthLake Is GA Under New ‘AWS for Health’ Banner"
     excerpt: "Amazon Web Services continues cloud providers' industry-specific push with the release of Amazon HealthLake under its new 'AWS for Health' banner"
     publishedDateTime: 2021-07-15T22:19:00Z
@@ -188,19 +174,14 @@ related:
       domain: morningstar.com
     quality: 34
   - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
-    excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by"
-    publishedDateTime: 2021-07-15T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/diameter-health-selected-as-amazon-healthlake-connector-partner-301334828.html"
+    excerpt: "Customers can then use additional services such as Amazon QuickSight and Amazon SageMaker to better understand patient and population-level trends and help make accurate predictions about the ..."
+    publishedDateTime: 2021-07-15T15:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/diameter-health-selected-as-amazon-healthlake-connector-partner-1030612136"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1177382/dIAMETER_hEALTH_Logo.jpg?p=facebook"
-        width: 2207
-        height: 1158
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "Hib77oyIUeg/S62vZvTC0EUsk9S/EuwOcDrOpYcOEP+OgN1n8k0BioHQdz/iLrL67nU/jlDPIb2mYs274BHlbS4fZLw1n32bJHmkVAvW47+mbCRClRTlXXyl8fIGyonZ47Tg0Xcut0ES3+keGMgRoyK55riAV25EDYSKWCGFomPF10GnUsJsocNOm0z/6H2i7L5WVtfHZ9/Y/tr2bdYiefm0aRcDHDt+Do2o9ETsdtBbSnmt461nfilErOOgid7FUtGviHFBO50jchgs46D0n39HvD3XG4DYxAnCV/mDZUBvHNTBFeeyHraa4YTNkZn4sgVVByDC0O4eBzhzVFjp4rbj1dsrTjmoxN6KAXNG20Q=;UBLpEQ/T4Cb0BaR/iVAt+A=="
 ---

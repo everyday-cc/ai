@@ -1,16 +1,13 @@
 ---
 category: news
 title: "Sinequa Named a Leader in 2021 Analyst Report for Cognitive Search"
-excerpt: "According to report, “Sinequa makes search strategic” NEW YORK & PARIS--(BUSINESS WIRE)--#analyst--Intelligent search provider Sinequa announced today"
-publishedDateTime: 2021-07-13T02:38:00Z
+excerpt: "This Forrester Wave™ 2021 report is one of the industry’s most thorough analyses of the cognitive search market. It evaluates each provider against 26 criteria, including Data, Intelligence, Development, End User, Scope, Operations, and Architecture ..."
+publishedDateTime: 2021-07-13T04:37:00Z
 originalUrl: "https://www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/"
 webUrl: "https://www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/"
 ampWebUrl: "https://www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/amp/"
 cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/amp/"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
   name: 01Net
@@ -26,6 +23,6 @@ images:
     height: 552
     isCached: true
 
-secured: "1qUulBWldnU815Zq4d6GmJnoXvpvz7+rQHZ0AkuYhapiNY7zlz1/F4H41b21yXkufohX4eqa8D3Lvl55Xhq7q0f2+LewPkcKWcD7JjA0C0aKLiTCiMRrhUD+KOXbM8qEpkf3Y4Wtcszw6+FH4EhVR6N6o7k6CB/HtWgf5uINUqDl8Bou1kicjLzmriUbtMkzzkSsgMpNIEs6LZtj2mRZP9fAwhY1SPwEdzSkXYNzKyFAnxQEvke6N9bsD21FT69w9ktSuLPSwwWwBp4j5THlyeA+b7/eyH6xmm95FwS83i3DRKHnAAFZ1JnalLtKL5HETuo31YOyWFOMdshrAw9aSgGNVJG/N/hzCxbmEkm1gL8=;Mzd7OgDx4mci6HCLuy/Lcg=="
+secured: "sqYYdu04OjvcVtDuIILDvt+eNKiUdBVdC0aKdry1t3eY8ZCqF3bqR2iXQWpr7LnqP5KrOyP0rxNy1R9YdmCf5fdSIDKeiVOEBLTMPxb8U1L8j3yMwN6spJpzR2F8zSe1lAt43JtnHlPjIip/b6Xvb7RC4puZSDMq0k8JKqA9ng/axqDtR8NCQqmfiQolHe9+tpQ9KLQ/RrR0eWz2+jRxKSpkAda3x8MDMrY+vWZNjy/ldawxRNgd0pCtNBkRiCJ7QLGNtE2PwToyPm3ysnBqew21wMczrGbFThQqXNg8HRYf2a+mqWgnuh2DlXINUfqIGa7Ql79cN5Oebq0D0y9nyMkQJe3pJjiONHQcUPoRXYg=;lFurj3+wqP2qA5i1NBmuXA=="
 ---
 

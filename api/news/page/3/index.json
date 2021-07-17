@@ -2,21 +2,21 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-07-15-tecno-camon-17-17-pro-launched-in-india-with-90hz-displays-and-mediatek-chips.md",
-      "title": "TECNO CAMON 17, 17 Pro launched in India with 90Hz displays and MediaTek chips",
-      "excerpt": "TECNO has officially debuted the TECNO CAMON 17 series in India. The brand has introduced two models for the country, namely TECNO CAMON 17 and TECNO CAMON 17 Pro. These phones offer high refresh rate displays,",
+      "path": "_news/2021-07-15-how-artificial-intelligence-is-fighting-wildfires.md",
+      "title": "How Artificial Intelligence Is Fighting Wildfires",
+      "excerpt": "A lab at the University of California, San Diego, uses data to figure out how fires will burn, and how to help prevent them.",
       "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/07/15/tecno-camon-17-pro-india-launch-price-specs-features/",
-      "originalUrl": "https://www.gizmochina.com/2021/07/15/tecno-camon-17-pro-india-launch-price-specs-features/",
+      "webUrl": "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/06/Tecno-Camon-17-Pro-Review-05.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://static01.nyt.com/images/2021/07/15/multimedia/15californiatoday-fire-b/merlin_190627797_498e5dd5-d350-4676-9c87-862a283f469c-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T03:37:00-07:00",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.amp.html",
+      "publishedDateTime": "2021-07-15T05:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
+        "name": "New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,255 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-ai-based-chatbots-speed-up-intelligent-talent-recruitment.md",
+      "title": "AI-Based Chatbots Speed Up Intelligent Talent Recruitment",
+      "excerpt": "Intelligent chatbots are proving that there’s no talent shortage when you know how to personalize employee recruitment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d9c7f4d73f511129de383c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/amp/",
+      "publishedDateTime": "2021-07-15T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life.md",
+      "title": "Smart Cities: How Facial Recognition Can Facilitate The Safe Return To Urban Life",
+      "excerpt": "When deployed correctly and used to its highest potential, facial recognition technology can help facilitate safe interactions and support a flourishing economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ef458fb64fa807a6922555%2F0x0.jpg",
+          "width": 1200,
+          "height": 873,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/amp/",
+      "publishedDateTime": "2021-07-15T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-how-ai-can-create-meaningful-change-in-traditional-industries.md",
+      "title": "How AI Can Create Meaningful Change In Traditional Industries",
+      "excerpt": "Yet currently, multiple multitrillion-dollar industries such as retail, supply chain, food and energy have critical workflows and decision-making processes that rely on Excel spreadsheets or literal pen and paper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/",
+      "publishedDateTime": "2021-07-15T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform.md",
+      "title": "Kenya’s AIfluence closes $1M for its AI-powered influencer marketing platform",
+      "excerpt": "Influencer marketing is one of the fastest-growing and one of the most impactful media channels today. There’s a growing ad-blocking movement and key demographics are spending less time in front of TVs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/",
+      "originalUrl": "https://techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2014/12/influencer.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/amp/",
+      "publishedDateTime": "2021-07-15T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-rajnath-singh-launches-artificial-intelligence-based-grievance-analysis-app.md",
+      "title": "Rajnath Singh Launches Artificial Intelligence-Based Grievance Analysis App",
+      "excerpt": "With the launch of an artificial intelligence (AI) based grievance analysis application called CPGRAMS, Defence Minister Rajnath Singh on Thursday said the country is moving towards citizen-centric reforms with scientific knowledge and technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325",
+      "originalUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-12/al8qqheo_rajnath-singh-650_625x300_30_December_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-07-15T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -398,49 +646,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-device-taps-brain-waves-to-help-paralyzed-man-communicate.md",
-      "title": "Device taps brain waves to help paralyzed man communicate",
-      "excerpt": "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
-      "originalUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg",
-          "width": 2500,
-          "height": 1669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna1424",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424",
-      "publishedDateTime": "2021-07-14T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1027,199 +1232,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate.md",
-      "title": "Nigeria’ll deploy robots, artificial intelligence to fight crime, says Senate",
-      "excerpt": "The Senate on Wednesday said that the Ministry of Communications and Digital Economy had established a centre where artificial intelligence and robots.",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate/",
-      "originalUrl": "https://punchng.com/nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2020/10/07175315/Senator-Ahmad-Lawan.jpg",
-          "width": 750,
-          "height": 410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate/?amp",
-      "publishedDateTime": "2021-07-14T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-artificial-intelligence-will-soon-be-assisting-your-platform-migrations.md",
-      "title": "Artificial intelligence will soon be assisting your platform migrations",
-      "excerpt": "Along with creating new applications, AI for coding may also smooth the way for moving applications and systems to modern platforms. In a recent interview, Maja Vuković, an IBM Fellow at the company's Watson Research Center, explained how a client was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/07/14/102d659b-03cb-43f7-8488-0131d6cc9f1b/hands-typing-4.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/",
-      "publishedDateTime": "2021-07-14T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-deploy-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker.md",
-      "title": "Deploy variational autoencoders for anomaly detection with TensorFlow Serving on Amazon SageMaker",
-      "excerpt": "Anomaly detection is the process of identifying items, events, or occurrences that have different characteristics from the majority of the data. It has many applications in various fields, like fraud detection for credit cards, insurance, or healthcare; network intrusion detection for cybersecurity;",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/01/ML1533-image003.jpg",
-          "width": 1588,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T10:28:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-iot-machine-learning-and-artificial-intelligence-services-to-reach-us36-billion-in-revenue-in-2026.md",
-      "title": "IoT Machine Learning and Artificial Intelligence Services to Reach US$3.6 Billion in Revenue in 2026",
-      "excerpt": "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective.",
-      "sourceUrl": null,
-      "webUrl": "https://iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/",
-      "originalUrl": "https://iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg",
-          "width": 800,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/amp/",
-      "cdnAmpWebUrl": "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/amp/",
-      "publishedDateTime": "2021-07-14T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOT Business News",
-        "domain": "iotbusinessnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

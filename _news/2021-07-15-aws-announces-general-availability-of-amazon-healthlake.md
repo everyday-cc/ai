@@ -116,20 +116,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Health startups vs. the giants, healthcare's digitization, and AI medical assistants"
-    excerpt: "On today's episode, we discuss whether startups like Oscar Health can take on the major health insurers, how the consumerization of healthcare is changing expectations, and what digital tools are leading to healthcare's digitization."
-    publishedDateTime: 2021-07-13T04:45:00Z
-    webUrl: "https://www.emarketer.com/content/podcast-health-startups-vs-giants-healthcare-digitization-ai-medical-assistants"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 47
-    images:
-      - url: "https://contentstorage-nax1.emarketer.com/897d1e8fd4c289430459b2cec2781b89/default-image-share.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Amazon HealthLake Is GA Under New ‘AWS for Health’ Banner"
     excerpt: "Amazon Web Services continues cloud providers' industry-specific push with the release of Amazon HealthLake under its new 'AWS for Health' banner"
     publishedDateTime: 2021-07-15T22:19:00Z
@@ -173,19 +159,14 @@ related:
         height: 630
         isCached: true
   - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
-    excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by"
-    publishedDateTime: 2021-07-15T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/diameter-health-selected-as-amazon-healthlake-connector-partner-301334828.html"
+    excerpt: "Customers can then use additional services such as Amazon QuickSight and Amazon SageMaker to better understand patient and population-level trends and help make accurate predictions about the ..."
+    publishedDateTime: 2021-07-15T15:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/diameter-health-selected-as-amazon-healthlake-connector-partner-1030612136"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1177382/dIAMETER_hEALTH_Logo.jpg?p=facebook"
-        width: 2207
-        height: 1158
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
     excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by Amazon Web Services, Inc. as a Connector Partner for Amazon HealthLake,"
     publishedDateTime: 2021-07-15T19:59:00Z
@@ -201,6 +182,6 @@ related:
         height: 600
         isCached: true
 
-secured: "iluX7FE2ZijrxuheNw07L3ejTx6U/V2sDK7uN19c/Ui3sqhh29HysD61LOmcpeuBNy2PtAAuo02EMfQ5Siuho+9NokrnZe/HDvXWcHvNmeb3vq6e48BvHJTl2BXOAQ7xxG0+0UQ2bsNr/1LcYqRhBu95Vx97IKpLzEsgka95RX6eC2VmH3/4lANXVdOPs1Z2Y2ZreFDiEfNsG9ZjIOrhYBiWKmkPMJmfhqVk3iS7fIrewobSKX49sEKG0mePZ6hPR+QZqVw2/hdP4CnYK5Hi7PDERlFVPDSpR+2csYP9fMdwGKhDo+oGQwCQP0e3kQgu+boSIA6dx/ZjI70TJvsrscxrTTUqRNgnzQyWfHYpK14=;qySsdsOYtG8qVeUEOrapTQ=="
+secured: "uTK3Gjpb5trnH4V+T78iYtYi4WIKjJwqerMUKXxJqmMhRPeyYE4Ac7q2N69K6GTfNyQTE5fQotkKJbftii6Sw/MNB++qpKprzXxeyS5hVD+QyR+jv473wbp8NxQavxCSl1GtyOcPoclRLYG+8985QJOhYPrZZeFS/z6ZefBdtLOfjn5e8hWoEu+cZUFKQj4VvPyWS2oPJ8tc7XRquheiT77ykCWa/7d1Rm76Q1BPQpprvW5TZpJRdjZYVPz4g7n/bDOtR4fuLPksKP12DIL/INzEjmRcyeHnIzAHucnuosjg46Fm0C75vE0QttitLKAcUFgMvNmGhXLPTnvQ3XTOhMMm1+IjJT4S15LKmu4I9Dc=;6X+1UTOMCWGBgwxT6ZnFbA=="
 ---
 

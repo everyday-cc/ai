@@ -200,6 +200,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-17-tesla-launches-its-full-self-driving-subscription-package-for-199-per-month.md",
+      "title": "Tesla launches its Full Self-Driving subscription package for $199 per month",
+      "excerpt": "Tesla has officially launched its Full Self-Driving subscription package for $199 per month or $99 for those who have previously bought the now discontinued Enhanced Autopilot package. Tesla FSD Subscription Tesla currently sells the Full Self-Driving package for a one-time payment of $10,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/",
+      "originalUrl": "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/amp/",
+      "publishedDateTime": "2021-07-16T20:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-ai-and-financial-processes-balancing-risk-and-reward.md",
       "title": "AI and financial processes: Balancing risk and reward",
       "excerpt": "When merging AI and financial processes, the smart money lies in mitigating risk while focusing on that sweet monetary reward.",
@@ -304,7 +356,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/16/ai-weekly-can-ai-predict-labor-market-trends/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -355,7 +407,7 @@
       "originalUrl": "https://www.ctvnews.ca/sci-tech/researchers-create-artificial-intelligence-to-imagine-unseen-objects-1.5512454",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -598,7 +650,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -651,7 +703,7 @@
       "originalUrl": "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -755,7 +807,7 @@
       "originalUrl": "https://www.upi.com/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -798,7 +850,7 @@
       "originalUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 353,
+      "heat": 373,
       "tags": null,
       "images": [
         {
@@ -838,6 +890,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech.md",
+      "title": "Sense Photonics Sees Flash LiDAR As Best Path To Full Self-Driving Tech",
+      "excerpt": "Sense Photonics is on a mission to make LiDAR, the core of self-driving technology, more affordable and less obtrusive. And it is leveraging two elements of the iPhone 12 to get there. Today, most autonomous vehicles in test fleets have a cumbersome ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/",
+      "originalUrl": "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f196f7d4f6705300ca741c%2F0x0.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/amp/",
+      "publishedDateTime": "2021-07-16T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1143,103 +1247,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen.md",
-      "title": "Speech neuroprosthesis turns brain signals into words on a screen",
-      "excerpt": "Those findings are translated into speech recognition of words, and methods for real-time decoding of those patterns and statistical language models to improve accuracy were developed. The first patient in the trial was a man in his late 30s who suffered a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen-16682689/",
-      "originalUrl": "https://www.slashgear.com/speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen-16682689/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/neuroprosthesis.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen-16682689/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen-16682689/amp/",
-      "publishedDateTime": "2021-07-16T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says.md",
-      "title": "Machine Learning could solve biggest challenges in the world, AWS executive says",
-      "excerpt": "AWS executive Kanishka Agiwal, shared his thoughts on Machine Learning – its applications, growing adoption in different sectors, function in the future, as well as AWS’ role in building and supporting the ML ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says/article35358781.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says/article35358781.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/qku2pe/article35358812.ece/ALTERNATES/LANDSCAPE_615/Kanishka-AWS",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says/article35358781.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says/article35358781.ece/amp/",
-      "publishedDateTime": "2021-07-16T02:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

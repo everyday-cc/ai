@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2021/07/15/tecno-camon-17-pro-india-lau
 webUrl: "https://www.gizmochina.com/2021/07/15/tecno-camon-17-pro-india-launch-price-specs-features/"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Gizmochina
@@ -27,22 +27,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "MediCircle Health launches AI-powered instant Covid test in India"
-    excerpt: "Mumbai-based diagnostic company MediCircle Health on Monday launched a portable Covid-19 testing platform that is powered by machine learning and artificial intelligence and delivers results in just one second."
-    publishedDateTime: 2021-07-13T03:42:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=852677"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 39
-    images:
-      - url: "https://www.daijiworld.in/images3/asha_13712_medicircle.jpg"
-        width: 400
-        height: 428
-        isCached: true
 
 secured: "1/9EzLdb5YPrcwWf2EGHIsuOVL3FK4TsSiTg9+0ghPLp+Ja9gjbysKf8E0s0CU1Zc2bPppyoYQdatXgmUyKXvsnFs4nuKDvjVt5SO1A6tudo88zziyjoNw3AMsEakFU5KMIclvCLQq2gfJ3EKuj6RqjuGpcoJlBxuPqoCv87x+xgCpWc+vTsaANqEmdpFGIbqAjDbQ13xINoyYGPkf9B3Gf+WxNnNH8NX/+rWWoWPMMEeYoj41+Vm0O6OeasDfGWMmcjwmJyM9DoVM0tBvESFk8kWssG8l3So2o0WanDCUgXiyIssidkZdZG2Dv76veNfLK1QLdg6S34yk37MBlCgv3gIriK7YA/i5ylH/aooQ8odIYLf6QmSZxsSH0QrgP20YAoJjbZcGkgUg7Mi/Qc0VQx2mMHvz5/ofqoPSxYIO1/o4I29bZ218ReWx4AV4tSKYrveFKkYXtmIdEQJFTJIZxqkkiDLYPQp8dw9nIzdTM8yV+u3lEVmG2DFrm2mQP9nGdXdc9epJtNSz70uJsFgg==;Ep4MEMJ6ugIXdvaST0zV/Q=="
 ---

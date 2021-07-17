@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-rese
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/amp/"
 type: article
 quality: 121
-heat: 131
+heat: 132
 published: true
 
 provider:

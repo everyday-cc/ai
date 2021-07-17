@@ -3,8 +3,8 @@ category: news
 title: "DeepMind’s AI for protein structure is coming to the masses"
 excerpt: "Machine-learning systems from the company and from a rival academic group are now open source and freely accessible."
 publishedDateTime: 2021-07-15T18:05:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-01968-y?error=cookies_not_supported&code=489849a8-3eb7-4e38-bae1-41a2748c7d62"
-webUrl: "https://www.nature.com/articles/d41586-021-01968-y?error=cookies_not_supported&code=489849a8-3eb7-4e38-bae1-41a2748c7d62"
+originalUrl: "https://www.nature.com/articles/d41586-021-01968-y"
+webUrl: "https://www.nature.com/articles/d41586-021-01968-y"
 type: article
 quality: 54
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: nature.com
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01968-y/d41586-021-01968-y_19363650.jpg"
@@ -56,6 +56,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all"
         width: 1198
         height: 600
+        isCached: true
+  - title: "DeepMind’s AI for protein structure is coming to the masses"
+    excerpt: "Machine-learning systems from the company and from a rival academic group are now open source and freely accessible."
+    publishedDateTime: 2021-07-15T00:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-01968-y?error=cookies_not_supported&code=489849a8-3eb7-4e38-bae1-41a2748c7d62"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 54
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01968-y/d41586-021-01968-y_19363650.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "DeepMind and a rival release dueling code for protein-folding AI"
     excerpt: "The race to release both teams’ code reflects not just an advance for computational biology, but for a culture of transparency in the field."
@@ -114,6 +128,6 @@ related:
         height: 946
         isCached: true
 
-secured: "wJUoDnyNUfhdk47EpX4nHUqvwXpJKV5M8sAQFoCJDv9rxHQbQwtLcMDAezoasPUdCrYfWKKD1VtlDqQkt7pMW3JSORFherJJ73zP71uiAC97KtO6IeAvoLq8mGhgHhnDYKn5YHhtNLJSzhOOwfIRwaRQil4Hyw+RUbczvGh6RyGEcwg2yxnNowwgb19NCiLShAuYuuYmXWQ3RVOLuRwBeQ2WS6fGS6h9M2WmEK+omuJjFfJBZpBapYNfNRdFj+9MbhenvKos/rVcbqLfebYxzzqf+bfB+Dl2l8QRBGTTYxDpzXFVyEqGbAiNGAhJj2W3rpDdTD32YHUla6Zvx5l/czyvH0cNjVaa/GnrzifJjdM=;AgkZZZ4aWSiA+lHqA0Cl3Q=="
+secured: "KpUvZbD6whyaN5juJGH1E6vC+cftIkmsqAqd3oG/k26ShxivgcILutASVApxkaLHo4VgJ2O5MVVlH19yCm5VcQHLkRd40uUbJyzDn1M0qjpgMk1wgC3A99/AuvcbMWbdzPYm5kXv39ZU10lAw4jt3nZ59ro/YK+n2HQkuWu5NBlxs9mCkvhVay9oxqPI4BctcESk2c7EMEc/3rNPhjIKLxuHyHp+aPQqg47b+l+9Qg1d60/sKOIS3LI6+Jbg+naP2i0yOnT4WbFfaYzHVh069h0N8hWwB06XK2220KltVfcsOqR14cHBOwA6VFxU/0bnG2e2Gb2wLUvxgbzH3CZi9ockGETWHmYuXaYK/qeZt24=;s+vTTfGsMgbcqIRK70Af4w=="
 ---
 

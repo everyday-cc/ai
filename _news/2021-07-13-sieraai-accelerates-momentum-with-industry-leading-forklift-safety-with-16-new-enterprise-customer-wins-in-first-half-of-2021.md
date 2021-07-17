@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/send2press/business-ee6ee5ec0ace6
 webUrl: "https://apnews.com/press-release/send2press/business-ee6ee5ec0ace6d8e25c4ca93ff07ab4a"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Industrial AI and Robotics Controller System in Waste Recycle Industry"
-    excerpt: "A recycling center customer was looking for a high-performance, industrial-grade Artificial Intelligence (AI) solution that could successfully function in harsh environments. The customer needed an automated solution to help identify certain materials on the recycling line."
-    publishedDateTime: 2021-07-15T12:30:00Z
-    webUrl: "https://www.manufacturingtomorrow.com/article/2021/07/industrial-ai-and-robotics-controller-system-in-waste-recycle-industry/17201"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturingtomorrow.com
-    quality: 71
-    images:
-      - url: "https://www.manufacturingtomorrow.com/images/articles/17201.jpg"
-        width: 680
-        height: 340
-        isCached: true
 
 secured: "2SP404C5/2GokN/UuQUfiV7HanUsO1vmRd4qMGGwS8AzeFDQCioiaJyetbjVB+yyn5zpWhyRkgWGKYqjGslRaIIOHSoYk783on8jk/Z9q6fxoF2+KqkIEa/DpSXNMYNrxsRbtqKdnInHPB+j7+jU0MjscsYVpRBBxbVt5tsfFbE6DOVpJefmbmAd1XQuvPaFy1eanJiQwn8gHk+bW6GeoSmZoceZrD8zqUlH/aB4/SaCSXvYekTRAFBuo+7sdMX1pFkHrQeq/j5dTiBy9SAvsjE7j5iyRqPLgiOnEYu5wj5onPVRhDqQjBAUbz0TXZd/M8R7ceKYbTcJwfz0qkLXPBtx90mFikBnRMhYDlRACYM=;+PrZB+beu4rCyKHXmBtXYw=="
 ---

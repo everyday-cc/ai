@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face recognition, drones and the plan to use the latest technology to catch Teesside criminals"
-    excerpt: "The Cleveland Police and Crime Commissioner has held talks with the force about the software to catch criminals"
-    publishedDateTime: 2021-07-13T05:00:00Z
-    webUrl: "https://www.gazettelive.co.uk/news/teesside-news/face-recognition-drones-plan-use-21036484"
-    ampWebUrl: "https://www.gazettelive.co.uk/news/teesside-news/face-recognition-drones-plan-use-21036484.amp"
-    cdnAmpWebUrl: "https://www-gazettelive-co-uk.cdn.ampproject.org/c/s/www.gazettelive.co.uk/news/teesside-news/face-recognition-drones-plan-use-21036484.amp"
-    type: article
-    provider:
-      name: Teesside Gazette
-      domain: gazettelive.co.uk
-    quality: 47
-    images:
-      - url: "https://i2-prod.gazettelive.co.uk/incoming/article17655140.ece/ALTERNATES/s615/0_Cleveland-Police-are-trialing-the-use-of-drones-supporting-officers-on-operationsA-drone-on-a-test.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "Push to have Cleveland at 'forefront' of face recognition technology"
     excerpt: "MAKING Cleveland a leader in face recognition software is in the sights of a new police boss. South Wales Police and the Metropolitan Police have piloted the use of cameras to find suspects. But there have been some problems since their launch – with concerns from civil liberties campaigners and devices used in Wales ruled unlawful in 2020."
     publishedDateTime: 2021-07-13T13:45:00Z

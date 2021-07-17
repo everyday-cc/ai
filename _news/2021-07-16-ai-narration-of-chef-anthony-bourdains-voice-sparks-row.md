@@ -2,19 +2,23 @@
 category: news
 title: "AI narration of chef Anthony Bourdain's voice sparks row"
 excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-publishedDateTime: 2021-07-16T14:22:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-57842514"
-webUrl: "https://www.bbc.co.uk/news/technology-57842514"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-57842514.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57842514.amp"
+publishedDateTime: 2021-07-16T13:33:00Z
+originalUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
+webUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
+ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
 type: article
-quality: 57
+quality: 87
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -89,6 +93,38 @@ related:
       - url: "https://www.cnet.com/a/img/ygG9OnwVAXclz9rN4SrLRmZZIR4=/2021/07/15/01a10222-21c1-4dc7-9e83-0e2f0947439a/anthony2.jpg"
         width: 1194
         height: 672
+        isCached: true
+  - title: "Anthony Bourdain Documentary Used AI To Fake His Voice"
+    excerpt: "A new documentary about late celebrity chef Anthony Bourdain utilized artificial intelligence to recreate his voice, spurring a debate about the ethics of this practice. In an interview with The New Yorker,"
+    publishedDateTime: 2021-07-16T21:58:00Z
+    webUrl: "https://www.huffpost.com/entry/anthony-bourdain-documentary-artificial-intelligence-voice_n_60f1f79ee4b01f1189597cbc"
+    ampWebUrl: "https://m.huffpost.com/us/entry/us_60f1f79ee4b01f1189597cbc/amp"
+    cdnAmpWebUrl: "https://m-huffpost-com.cdn.ampproject.org/c/s/m.huffpost.com/us/entry/us_60f1f79ee4b01f1189597cbc/amp"
+    type: article
+    provider:
+      name: HuffPost
+      domain: huffpost.com
+    quality: 87
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
+  - title: "The Ethics of a Deepfake Anthony Bourdain Voice"
+    excerpt: "The new documentary “Roadrunner” uses A.I.-generated audio without disclosing it to viewers. How should we feel about that?"
+    publishedDateTime: 2021-07-17T21:54:00Z
+    webUrl: "https://www.newyorker.com/culture/annals-of-gastronomy/the-ethics-of-a-deepfake-anthony-bourdain-voice"
+    ampWebUrl: "https://www.newyorker.com/culture/annals-of-gastronomy/the-ethics-of-a-deepfake-anthony-bourdain-voice/amp"
+    cdnAmpWebUrl: "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/culture/annals-of-gastronomy/the-ethics-of-a-deepfake-anthony-bourdain-voice/amp"
+    type: article
+    provider:
+      name: The New Yorker
+      domain: newyorker.com
+    quality: 74
+    images:
+      - url: "https://media.newyorker.com/photos/60f1f5cf4b7e6806bf23a66b/master/pass/Rosner-BourdainDocAI.jpg"
+        width: 2560
+        height: 1759
         isCached: true
   - title: "Anthony Bourdain documentary recreates chef’s voice with artificial intelligence"
     excerpt: "There’s debate over whether the use of artificial intelligence in a film about the late celebrity chef Anthony Bourdain is ethical. The film makes it appear that Bourdain spoke something that he did not."
@@ -413,6 +449,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "aPbf+3maE1IKFpw9SOrdyA4PJREVDGHawZSWggmvXNq7UnrZMv5C5YqvlRYF7mbl5XRDURuKrOFYiipVXK7cCa1P6007izAASg6/+MjOjct6Ms/WR1wcodi7J89rMY+8NXevXCJ1enuV0pvpCrjfOVzhCoEd/Pr8a+i3KBb8GXrEcc8Ftl7jFi7i8VpMXDJFM8TDp0yYxR5l1B+rsFP7nJ+h65fJGuQO0OntR/C94WyHrIC/llLvIiDh7Nlwot+S+s+2ALASsexWo4FmscejY/h1wVnhxY5REe7GTrUet6tOOvCXYP/SmErd/0i1d56eBdGe2dPerkrRcyLHF43UaESVh5toKQU4vtuPm/a9s9SS9pTHbyHocsUHvWwUmWkBQsbBSPGIKbHn+Qs5HQPWLGF7CHEoFDNry4QL1vU/7BJnznyIo2M10xBgvYUNvTFa53i5JhZGddLnxMbg1aanW+Y5d/hN6xBB/YTE+yElof+Dcwfhor0JZkDeWTKAoNHaw3If8aV7KWP4M95Jc0PN+w==;XIV+5Akk5u2Sx62jfyQ7Ug=="
+secured: "zSDzG+j3oJm3oABr2V6nbQMXyeqGo3v4+Ofn7FNLUA2dFHcSspFkC2LP6C3Hk/5to2kB+JEruTi/n145ImU73KVKdfB4NebNh75q2sV70yrb3JMBhiYprP1JKUPwmKmr70bei+RVdcfud+OpQ8zveOb9RTD0B2Ab1qa89oF2I8pwEhcN8VpyywnIbdyCXLTFguX3M8+2NEjc7fcV9+zyj2YaSyT7HxhG184ktpp/HMxqRxoeqypQ18z+WdR+ixy5lVOKuf4SlB+WgII8fMQvFZ3mQonWVCGWUXcICFhnnKfqtnGrzaSm1gmEVNLAPzLxHNMth/CLaYbdSE6UjIKE5q9QDn9i1IvF9HJXGqn9MKs=;dCEyxJk0wr2PjjDcbvl+gg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-a
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://assets.labroots.com/_public/_files/system/ck/trending/tech-5142625_1920_9e6623cd83f5c66b897a96095c43d4b6.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Carnegie Mellon University Launches The Robotics Project"
+    excerpt: "In a grainy video shot in the early 1980s on Carnegie Mellon University's campus, Ivan Sutherland rides on top of the Trojan Cockroach, a six-legged machine considered the first controlled by a computer and capable of carrying a person."
+    publishedDateTime: 2021-07-15T21:07:00Z
+    webUrl: "https://www.cs.cmu.edu/news/carnegie-mellon-university-launches-robotics-project"
+    type: article
+    provider:
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 54
+    images:
+      - url: "https://www.cs.cmu.edu/sites/default/files/CMU_Libraries_RoboticsProject_KateBarbera_TrojanCockroach-Web.jpg"
+        width: 800
+        height: 1200
         isCached: true
   - title: "Team At Carnegie Mellon University Develop Four-Legged, Real-Time Learning Robot"
     excerpt: "That’s probably the best way to describe the new artificial intelligence robot from Professor Deepak Pathak that he developed with a research team at the school. The four-legged robot learns to adapt in real-time,"
