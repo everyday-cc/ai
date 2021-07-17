@@ -109,22 +109,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Elon Musk: Tesla Vision to soon detect turn signals, hazards, police lights & even hand gestures"
-    excerpt: "Elon Musk announced that Tesla Vision would soon detect turn signals on other vehicles, hazards lights, police and ambulance lights, and even hand gestures. The move comes as the automaker tries to cover every possible driving situation on the road to delivering a full self-driving system."
-    publishedDateTime: 2021-07-12T10:23:00Z
-    webUrl: "https://electrek.co/2021/07/12/elon-musk-tesla-vision-detect-turn-signals-hazards-police-lights-hand-gestures/"
-    ampWebUrl: "https://electrek.co/2021/07/12/elon-musk-tesla-vision-detect-turn-signals-hazards-police-lights-hand-gestures/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/12/elon-musk-tesla-vision-detect-turn-signals-hazards-police-lights-hand-gestures/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-FSD-Beta-v9-driving-visuzalization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla autopilot marches on - FSD Beta 9 full self driving beta is released"
     excerpt: "Elon Musk confirms Tesla Vision autopilot system will be capable of capturing detailed features: tail lights, emergency lights, and even hand gestures."
     publishedDateTime: 2021-07-12T14:11:00Z

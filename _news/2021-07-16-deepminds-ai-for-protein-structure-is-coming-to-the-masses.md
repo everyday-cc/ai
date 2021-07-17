@@ -1,10 +1,10 @@
 ---
 category: news
 title: "DeepMind’s AI for protein structure is coming to the masses"
-excerpt: "Machine-learning systems from the company and from a rival academic group are now open source and freely accessible."
+excerpt: "Machine-learning systems from the company and from a rival academic group are now open-source and freely accessible."
 publishedDateTime: 2021-07-15T18:05:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-01968-y?error=cookies_not_supported&code=489849a8-3eb7-4e38-bae1-41a2748c7d62"
-webUrl: "https://www.nature.com/articles/d41586-021-01968-y?error=cookies_not_supported&code=489849a8-3eb7-4e38-bae1-41a2748c7d62"
+originalUrl: "https://www.nature.com/articles/d41586-021-01968-y"
+webUrl: "https://www.nature.com/articles/d41586-021-01968-y"
 type: article
 quality: 54
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: nature.com
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01968-y/d41586-021-01968-y_19363650.jpg"
@@ -102,14 +102,19 @@ related:
         height: 667
         isCached: true
   - title: "Accurate protein structure prediction now accessible to all"
-    excerpt: "Protein design researchers have created a freely available method, RoseTTAFold, to provide access to highly accurate protein structure prediction. Scientists around the world are using it to build protein models to accelerate their research."
-    publishedDateTime: 2021-07-16T01:40:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/07/210715142340.htm"
+    excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
+    publishedDateTime: 2021-07-15T18:03:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uows-aps070921.php"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/270310_web.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "AlphaFold 2 open up protein structure prediction software for all"
     excerpt: "Source code for AlphaFold 2, an algorithm that predicts 3D protein structure with unprecedented accuracy, is now freely available."
     publishedDateTime: 2021-07-16T14:26:00Z
@@ -125,6 +130,6 @@ related:
         height: 946
         isCached: true
 
-secured: "C0S0MvcR2xoqBZbLsDcnc0liV2Xw5YOb1CUYntew9oBNFjF14yq75JmJjBAIh+IV/fdxH5IQ2K1KWyXMgSITqj6nTnVkaQnWbVzLMW/gzr117ySUeXsXl7GvCa4/ArIg535dy/vB2OeNmpg/jwoCNHmDl+WwdlG8wOBnUfBT4vfq5Su4WRZNYMJKbNmF+7X16REPee933AnCahfMywaiaGueeEd3I4iTJEupT0n0csd5LiNdwEg+0a/WoIMFRUgW8BvtBrKFgY76btfU5jMHceUsC4QNaHpij8OeC0tUkG/mwYpu4X/XYjxTagnIuHXTIMl0GaUz3WFWwYLOuE+SYpdCODMyI5KsgAAn66hQbTY=;4FYeqXSQAaOPqcgUqQPbuA=="
+secured: "3lFhiX8HhrTgKgFiduuZTUSfY2hWNSfZEw+IDOehN+tPnDNpy9RosgunSRYzrCv/xWjBl5KVD9xKAixgC9egipi0SUIk3vRTWiCT/YpMUyoeceHKSi7prSz90V+Yb6mQxKIcJiOBIWIIYtNkbSBlL+54WzvoTSptv4ygPq7NTL0Qwpcp98a/QW/OzuEuWtTHOVQKePrzlUEU7fBiPhtIKZVnJT8ZZg2tApNU5ZzwYaqU1KePVQdubpRosWXLhrQvaeJ1tBJ+V7C4GBiJhcvkqOmVJAi65AsUAwwJBuj+5t1MCLtH/5o+bApZuraDEXmWnZMdL9k01d4kEzjoi1ypYhwSLsoueOjjr6/EqEOMM6E=;UXrObov14FHLmzcnLxUqgw=="
 ---
 

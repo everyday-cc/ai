@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourda
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/"
 type: article
 quality: 103
-heat: 313
+heat: 323
 published: true
 
 provider:
@@ -357,6 +357,22 @@ related:
       - url: "https://media.npr.org/assets/img/2021/07/16/rr_fp_00785-185acee304921a2d4c11b2d27021379d1338a0e1.jpg?s=6"
         width: 948
         height: 710
+        isCached: true
+  - title: "“Dicey Territory”: Controversy Erupts Over AI-Generated Voiceover In Morgan Neville’s Anthony Bourdain Documentary ‘Roadrunner’"
+    excerpt: "Normally on the opening day of a Morgan Neville film, the talk would be about box office potential—after all, his 2018 Mr. Rogers documentary Won’t You Be My Neighbor? earned an astounding $23"
+    publishedDateTime: 2021-07-17T03:44:00Z
+    webUrl: "https://deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/#!"
+    ampWebUrl: "https://deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 31
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2018/01/rexfeatures_9326613io.jpg?w=1024"
+        width: 1024
+        height: 1024
         isCached: true
 
 secured: "zpC9fGfCKBqybArdwuamHiMiom9hiRmhfLgE3jdBz9+7b7cAyPNcGa5pDP5cVqvB01zqPTDQ7tmjjF0IzfD4hlH9nYoRu94lQnwF7IovKWGQVfUjlSdj2nqW2GjYwjKdLHEOInGjpuBD2YisDDlLsHhc2Zjm7/ejTaDVzj5VPNy13tMLjFmBWGrCoZis18HYwr8NlkVFX2Z0nZ3LtpLEgnyNdcVrk8R1aQoJnk68Z9qp5TVP+NmE3vWmLbXb44qsxqeedcTW0PfwAHK48xWrhbk8njIbskWT1krDElKYkiTNBSK4EUZ3G74hu0Ri92rzWzpL/vL0yAMgrOJ6uVCqKDlXRiC2q6tQ6sv/UUjsZ4Px1PauVzwVCl4vTBMBn0eHAVhZ/D8hFa9iFIcAhmIX7RrKANQp2peZEl4RbxCIIfkNedcgeEje52FeXiG+nj5nXToMXFA+0yg1azqHzV2yH8h3LUhY9GZpH1cRFfvXMTSlufojdSQPRZGj4NwtzFCptZ5NnvFlXffLkQdpJzRxqg==;aj/NIx0JhQ1xctU/SdwwUQ=="

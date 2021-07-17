@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news18.com/amp/news/buzz/researchers-harness-brain-waves
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/researchers-harness-brain-waves-of-paralyzed-man-to-communicate-with-him-3967463.html"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: CNN-News18
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Device taps brain waves to help paralyzed man communicate"
-    excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm – they imagine moving and those brain signals are ..."
-    publishedDateTime: 2021-07-15T14:43:00Z
-    webUrl: "https://www.detroitnews.com/story/life/wellness/2021/07/14/device-taps-brain-waves-help-paralyzed-man-communicate/7972100002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7972100002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7972100002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/14/PDTN/2f852cab-474d-48cd-a151-8206c46ffb92-AP21194673044247.jpg?auto=webp&crop=1023,575,x1,y64&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Paralyzed man’s brain waves turned into sentences on computer in medical first"
     excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm – they imagine moving and those brain signals are ..."
     publishedDateTime: 2021-07-15T13:11:00Z
@@ -59,22 +43,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "His voice silenced for years, a man can now communicate using only the electrical impulses from his brain"
-    excerpt: "Voice recognition software that is ubiquitous on cellphones, computers and elsewhere was developed with many more hours of repetition and refinement than Chang’s group was able to put in with a severely disabled patient, other experts said. To expand ..."
-    publishedDateTime: 2021-07-14T21:03:00Z
-    webUrl: "https://www.washingtonpost.com/health/paralyzed-man-can-communicate/2021/07/14/3a9ce638-e4b5-11eb-8aa5-5662858b696e_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/paralyzed-man-can-communicate/2021/07/14/3a9ce638-e4b5-11eb-8aa5-5662858b696e_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/paralyzed-man-can-communicate/2021/07/14/3a9ce638-e4b5-11eb-8aa5-5662858b696e_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 42
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4EXR3XE4QI6XCGFJ7LDQLCHZM.jpg&w=1440"
-        width: 897
-        height: 537
-        isCached: true
   - title: "Brain waves used to help paralyzed speak"
     excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak – and turned what he intended to say into sentences"
     publishedDateTime: 2021-07-15T04:00:00Z
@@ -89,6 +57,17 @@ related:
         width: 800
         height: 536
         isCached: true
+  - title: "Device taps brain waves to help paralyzed man communicate"
+    excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm — they imagine moving and those brain signals are ..."
+    publishedDateTime: 2021-07-15T09:40:00Z
+    webUrl: "https://wtop.com/science/2021/07/device-taps-brain-waves-to-help-paralyzed-man-communicate/"
+    ampWebUrl: "https://wtop.com/science/2021/07/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/"
+    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/science/2021/07/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/"
+    type: article
+    provider:
+      name: WTOP News
+      domain: wtop.com
+    quality: 39
 
 secured: "dTjF0KeKob8Rl1dtzdDwaAA+XlpB42MzDBkdYAAbPb9LbwMmjXtNXhvcvVv3r25xvKBP99QfgXN4JOePTGWGmAuU+Raxwh6Iu15ALd+9suOO2xZmIdawdsMtazsWMW6X5FRq29D03OwNvU1gwmQew2Kbg7JEdEVQK2hgg98OyxWDZeK0bkjtLDBw+YxfqjtO5tvE8kW7LvyX6I0h3AQUMikh0XiHbTjn/1r6zcr9XToPq27clM21LAQgVFPxktD5PYMghKlYqeI/vxcsNrFIwMYMf+BRdDwKZiFSaPBkEEyObVTVq4wO9bmQfpn+O3NkEd4GCy4T3iVv238sLXAIqHAA5VKrsAONkVDlgXDc9v4=;jB+SMLPYtd1vZty5+Xerig=="
 ---

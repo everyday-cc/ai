@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Anthony Bourdain Doc Recreates His Voice Using Artificial Intelligence and 10-Plus Hours of Audio"
-excerpt: "Roadrunner ,” the Anthony Bourdain documentary from “20 Feet from Stardom” Oscar winner Morgan Neville, takes a page from documentaries like Alex Gibney’s “Sinatra: All or Nothing at All” in allowing the late chef and television personality to narrate his own story through the use of archival audio."
-publishedDateTime: 2021-07-15T19:31:00Z
-originalUrl: "https://www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-intelligence-recreate-voice-1234651491/#!"
-webUrl: "https://www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-intelligence-recreate-voice-1234651491/#!"
-ampWebUrl: "https://www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-intelligence-recreate-voice-1234651491/amp/"
-cdnAmpWebUrl: "https://www-indiewire-com.cdn.ampproject.org/c/s/www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-intelligence-recreate-voice-1234651491/amp/"
+title: "“Dicey Territory”: Controversy Erupts Over AI-Generated Voiceover In Morgan Neville’s Anthony Bourdain Documentary ‘Roadrunner’"
+excerpt: "Normally on the opening day of a Morgan Neville film, the talk would be about box office potential—after all, his 2018 Mr. Rogers documentary Won’t You Be My Neighbor? earned an astounding $23"
+publishedDateTime: 2021-07-17T03:44:00Z
+originalUrl: "https://deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/#!"
+webUrl: "https://deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/#!"
+ampWebUrl: "https://deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/amp/"
+cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/amp/"
 type: article
-quality: 61
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: IndieWire
-  domain: indiewire.com
+  name: Deadline.com
+  domain: deadline.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
-  - url: "https://www.indiewire.com/wp-content/uploads/2021/07/anthony-bourdain.png?w=780"
-    width: 780
-    height: 507
+  - url: "https://deadline.com/wp-content/uploads/2018/01/rexfeatures_9326613io.jpg?w=1024"
+    width: 1024
+    height: 1024
     isCached: true
 
 related:
@@ -106,6 +106,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/16/82500be3-44ae-48aa-81d3-80d61ec320b8/thumbnail/1200x630/2f94e1160f9d986708aee70092ba7485/axelrod-755577-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Anthony Bourdain Doc Recreates His Voice Using Artificial Intelligence and 10-Plus Hours of Audio"
+    excerpt: "Roadrunner ,” the Anthony Bourdain documentary from “20 Feet from Stardom” Oscar winner Morgan Neville, takes a page from documentaries like Alex Gibney’s “Sinatra: All or Nothing at All” in allowing the late chef and television personality to narrate his own story through the use of archival audio."
+    publishedDateTime: 2021-07-15T19:31:00Z
+    webUrl: "https://www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-intelligence-recreate-voice-1234651491/#!"
+    ampWebUrl: "https://www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-intelligence-recreate-voice-1234651491/amp/"
+    cdnAmpWebUrl: "https://www-indiewire-com.cdn.ampproject.org/c/s/www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-intelligence-recreate-voice-1234651491/amp/"
+    type: article
+    provider:
+      name: IndieWire
+      domain: indiewire.com
+    quality: 61
+    images:
+      - url: "https://www.indiewire.com/wp-content/uploads/2021/07/anthony-bourdain.png?w=780"
+        width: 780
+        height: 507
         isCached: true
   - title: "Anthony Bourdain Documentary Uses AI To Recreate His Voice"
     excerpt: "A Film About Anthony Bourdain, releases today, July 16, and it features the voice the late chef, writer, and host. Director Morgan Neville said to The New Yorker that the production team compiled audio samplings of Bourdain's narration from across his appearances on TV,"
@@ -354,23 +370,7 @@ related:
         width: 948
         height: 710
         isCached: true
-  - title: "“Dicey Territory”: Controversy Erupts Over AI-Generated Voiceover In Morgan Neville’s Anthony Bourdain Documentary ‘Roadrunner’"
-    excerpt: "Normally on the opening day of a Morgan Neville film, the talk would be about box office potential—after all, his 2018 Mr. Rogers documentary Won’t You Be My Neighbor? earned an astounding $23"
-    publishedDateTime: 2021-07-17T03:44:00Z
-    webUrl: "https://deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/#!"
-    ampWebUrl: "https://deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 31
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2018/01/rexfeatures_9326613io.jpg?w=1024"
-        width: 1024
-        height: 1024
-        isCached: true
 
-secured: "/uUSwzbg+1xZF6SvGmpTdZ+loVR/ZlVA39dSqMe9XUYuXRyZ/9NLrTCiV1e6QXZ3VYRs74d4hY13Q7WXi9wKehpqPfFKMPSve6MsaoDNs1jSGbuUJ3IBm3dU9sLE4d0LyfwtwbGSFankl0x4odLBn5nIuOI9VOvSttouD71Tme+nt8k80L059xxcU3CBnO0jmLAEAvt8dVatXrHCem34ti1IDMWXvlLA4w1xqj8KS3EOI1YzefVnSxnUkQ6CaTu6E06TqEijbQbZ3EhpQXL9/h+qWg2HsqEPOpFMEH5H1FfAPJLNooXy9WeSeWu39Oild3DF3J8lrfa1FPXdVxXPMjK6ylQI4+CarE0S/9IA11zAF70/tfper3xO+oNsQWqCLLSkEYU8B58ZCvr8vHoXtrvjhDa7ycel8NZLOnWa1g6WIM0yM5eUPzxNS5RXrsUewVtQgtwR6AeKqVQGUsMMg5TeyhIsuTRaKAJpFhToqjYogpTrkx5EbC9z13D2rz9Dt9DaJu55/FtqDai6ClfzFg==;1waGTvTRNHtSnrHM14oobg=="
+secured: "j13Tqvhr4syAjIeL126VhfO/DyJEIDvpDl/N80UQbV/pz5iud2inxhsZnvJCPCiY5gxxeT5ryrOL2lPj1i7SRihwS0hkHcp0NYRvagcO6xZnXglxgGJX6tZ+3kIJ+miCmcZBrXmt4YQn1gd5qQkrQ/ceVBcFECo02N/gCLWK1DH8TjTwmHKp5iKkIc6ro7Rpz9mayPWWx/zQcwm9eHCtXLtEkLLX6B01297EzusAGYe71GjuinhLnLW7AuI2fuZ389R+mwnAM1baIagV/oefuCJmwaO82i7rNWqpzahpgK5yo1AEvEqSJEpsF3qLDcCevCv2Vbf9vWY+cIes0cvjSAL4+cyTcqHbf1kcd983V/I=;j2UYTXjj8Huj60gkVgqBgQ=="
 ---
 

@@ -354,6 +354,22 @@ related:
         width: 948
         height: 710
         isCached: true
+  - title: "“Dicey Territory”: Controversy Erupts Over AI-Generated Voiceover In Morgan Neville’s Anthony Bourdain Documentary ‘Roadrunner’"
+    excerpt: "Normally on the opening day of a Morgan Neville film, the talk would be about box office potential—after all, his 2018 Mr. Rogers documentary Won’t You Be My Neighbor? earned an astounding $23"
+    publishedDateTime: 2021-07-17T03:44:00Z
+    webUrl: "https://deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/#!"
+    ampWebUrl: "https://deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 31
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2018/01/rexfeatures_9326613io.jpg?w=1024"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "wfs2aKEOkrHizm7O0bc2tXBdhGSOE2NQYry3Q746jD6aEt+HSSZKyj2E0KUGwdjSl/tT/mAf2cjzWKi06EMjTWloPl/3r0D2Tdx55S/lSOXthlV/AOG4whm5u/A7WAMVe12QnOxzRemIGnQqfFenZ41YA+DLmuyt/rFeJBSMkjMLMmlAGgD2C6CWeomHUmnAo4xBl5rJhhGDgYx1IZ1llWTbVemTP9NvrLH81ebNaGZFjMFfNdtuHmkQDtOxn2gOvxksxGNtAlpyk5CfWA1F31XXksCQ0x2M0+MRV0UQglP4QuuTstSryH6Cpzcly02xnz/q/VGpHYQQEMGedk1RfE8c7HS8RXsZ5OdmOP4VQYCib1wm/gfw1EQDTt6gvnEGdEyCGmuhCp/ddr41FC657xuxf3qBNRr5PVWQrZJnAch0A0bNXYyZDcCRWLbXjUazRqKhAX6DEr7xN7IoLN46hTzRtVdbD2qvKEAzhixX2KsKUqwzguuaDt8X/VZlTOoeY5K0tW0ThexLqNxpxyh5iA==;DJdI7pGiHEZnHA3gp6tMyw=="
 ---

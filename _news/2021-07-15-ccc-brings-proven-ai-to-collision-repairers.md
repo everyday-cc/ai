@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ccc-brings-proven-
 webUrl: "https://markets.businessinsider.com/news/stocks/ccc-brings-proven-ai-to-collision-repairers-1030610745"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Insider
@@ -26,6 +26,17 @@ images:
     width: 388
     height: 400
     isCached: true
+
+related:
+  - title: "When Artificial Intelligence Comes to Control"
+    excerpt: "Applications of machine learning and other forms of artificial intelligence have been recognized in robotics and analytics. Now the technology is adding some spice to basic control applications."
+    publishedDateTime: 2021-07-15T13:00:00Z
+    webUrl: "https://www.automationworld.com/factory/iiot/article/21545091/artificial-intelligence-benefits-in-control-applications"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 19
 
 secured: "4Tj+wWO6rxT+cXwCFRYEDOxh52Z/jgMY0rW38JrNibEgmySZMzpVEQDwkJX/+oTqezQS38p9enOwTwlGAZaxvwZfm8yZTpzAKX5O3zvZdqVPRZhE21W70ZcVpMi4C9YVb6kVbqs3pJ405fOGQ+6JraNDGytRwdKsEUvL4kIZ2S9HXgHhJ+iL9vlW+djorW+gNyOxdFdgg909CGuSm2gnKIq9iSSH/9xeH11q+YxYx5+yUNp4kdqYEAa/Yiv6BtR3E8g9i/NTnPZhRAyYbIZ1kE/nSmF8Kl1gu35SafqSXu6nNEfrpQsIcMxYzohHpM7dNhA1zJnktPAWn3QjGhfxC7mZR7B/42tJi/N5smrpDmzpMnrj26arYAdA/bAWJv5hQTaKgaQ7qJ+5qDd+S9C06R2wAHGDCxe/3HxhUPWT61tqDda+1+BrZJ6Nv6x5aGdI/3B/V9wgjazClKbdgmChg6NktqyFh9JJdTptR+Tix27K6qRSGCowU9H2FlX9VxfCeTwjyv5b7EPk65lOCBYb9Q==;NuQrbkH8oKUpnqC4opO1jg=="
 ---

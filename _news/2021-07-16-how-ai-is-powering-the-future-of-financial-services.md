@@ -25,67 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The real successes of AI"
-    excerpt: "Despite the hype, especially around self-driving cars, AI is writing code, designing Google chip floor plans, and telling us how much to trust it."
-    publishedDateTime: 2021-07-12T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html"
+  - title: "How Artificial Intelligence Is Fighting Wildfires"
+    excerpt: "A lab at the University of California, San Diego, uses data to figure out how fires will burn, and how to help prevent them."
+    publishedDateTime: 2021-07-15T12:55:00Z
+    webUrl: "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.amp.html"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: New York Times
+      domain: nytimes.com
+    quality: 87
     images:
-      - url: "https://images.techhive.com/images/article/2017/03/robot-arm-using-laptop-100714626-large.jpg"
-        width: 1200
-        height: 960
-        isCached: true
-  - title: "AI Success In The Supply Chain Depends On Human Augmentation"
-    excerpt: "It is only through human augmentation and understanding how everything works together that AI success in the supply chain will happen."
-    publishedDateTime: 2021-07-13T15:41:00Z
-    webUrl: "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/"
-    ampWebUrl: "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60edae973c02fcc76f59d7ab%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1271%26cropY1%3D1%26cropY2%3D716"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Panasonic launches i-PRO multi-AI system to enhance the power of their AI cameras and applications"
-    excerpt: "Panasonic announces the i-PRO multi-AI system designed to harness the power of its latest AI cameras and applications by integrating them seamlessly into existing CCTV"
-    publishedDateTime: 2021-07-14T12:15:00Z
-    webUrl: "https://www.sourcesecurity.com/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 45
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/panasonic-updated-range-s-series-cameras-embedded-ai-capabilities-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
-  - title: "Use of Artificial Intelligence That has Potential Business Value"
-    excerpt: "The use of artificial intelligence in the business market is growing gradually. It has a great potential business value and it is important to implement ethical and responsible AI to bring success in the long run."
-    publishedDateTime: 2021-07-15T15:30:00Z
-    webUrl: "https://www.analyticsinsight.net/use-of-artificial-intelligence-that-has-potential-business-value/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-2.jpg"
-        width: 900
-        height: 500
+      - url: "https://static01.nyt.com/images/2021/07/15/multimedia/15californiatoday-fire-b/merlin_190627797_498e5dd5-d350-4676-9c87-862a283f469c-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Highlighting the real successes of AI"
     excerpt: "Despite the hype, especially around self-driving cars, AI is writing code, designing Google chip floor plans, and telling us how much to trust it."
@@ -101,29 +55,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Importance of AI in Remote Learning"
-    excerpt: "Educators are using AI-enabled Learning Management System to track their student's progress (LMS). The primary purpose for creating LMS was to improve the learning experience with Artificial Intelligence (AI) support."
-    publishedDateTime: 2021-07-16T21:09:00Z
-    webUrl: "https://www.cioapplications.com/news/importance-of-ai-in-remote-learning-nid-8110.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/l2wfimg---6.gif"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "WHO Releases AI Guidelines for Health"
-    excerpt: "A new report from the World Health Organization offers guidance for the ethical use of artificial intelligence in the health sector."
-    publishedDateTime: 2021-07-14T18:34:00Z
-    webUrl: "https://cacm.acm.org/news/253984-who-releases-ai-guidelines-for-health/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "qQkI3jPzPP1xZWRsvwTP4AKjGTxEjIECv1Y7zAUNtubODCRT55ZU2t4a6/n3rXNABikG6/tiTqFO3pF/73zUsFEwuUDhk2kZuOnGF27meT3gypvFDaxV9NlBhnBqZWaOY38aT9anEtH9tnNZcfLEQ8qQGpZcmzntSkloQVlr50zdk8IIJsGR1pqJYRZEzZnyHxmxin8k2dDn+TCP+/8kDhUdTfN6j1hfW98arMcoYKq1d/DJLmjG6GF86CEz1ap/HI3oCkv2iTBExkaq1yXHT08D7FGrnzZzbYoc+eZ1C80sW0BGVSP048nVyXEulyrNiSJoyxsQjSP9JsbbrD7dThlDBr/FWt7WixfEXT7unNyrB1n1YOz71afh5JZOYY8nh5CUOUOd3nzzaNHjM4O1VgAe38OR3dKqQTAvbX8CqNoAl506pwpPqk+O8dYUJ47P/JXasWQe+4E/E6oC/A8x2+lgeZMFXjPUe3fqJml3yPY23q6Om2q3H2OjbQiGSCJVma6+OyaZdTU4uo++QhJnTw==;8xh6OAgM7I6pNrL+BPABnw=="
 ---

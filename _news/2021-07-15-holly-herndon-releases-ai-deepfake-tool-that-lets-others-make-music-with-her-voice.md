@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rollingstone.com/music/music-news/holly-herndon-ai-deepf
 cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/amp/"
 type: article
 quality: 151
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 1800
     height: 1200
     isCached: true
-
-related:
-  - title: "The UAE National Program for AI raises awareness on deepfake technologies"
-    excerpt: "The Deepfake Guide examines the various challenges resulting from the harmful applications of such technologies"
-    publishedDateTime: 2021-07-12T10:04:00Z
-    webUrl: "https://www.itp.net/emergent-tech/98890-the-uae-national-program-for-ai-raises-awareness-on-deepfake-technologies"
-    ampWebUrl: "https://www.itp.net/emergent-tech/98890-the-uae-national-program-for-ai-raises-awareness-on-deepfake-technologies?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/98890-the-uae-national-program-for-ai-raises-awareness-on-deepfake-technologies?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 36
 
 secured: "r9MJiIaKLeXAthm8TF9drVDP42Lu9A1UBlnVWDEwzhGy5+uclZEse30JoQ6QwE6EwWb8PljXC/HqlMAcrZzwCTnaR8JSMfyoJLU3C3pMz3/gdC1ES3zhOb0emQTtHX3+VqhgacFWr40fHRjVOHgVX3k4isweDp7R0HNyGrTlYTxhPqwMfLi3x4jR41443iC1Z/0uoiAVp+ZexG3PyjRM+PHr/BF5ReWUv66SpNhxt88HXrR3VDPHGyuVbMpEURYnxOnDdCL+9kix66bx2xMoSZ2o1upF29zhy9bccO1+nNAmTymX/YB8w7TZfRxbR1ORgd/+MkD1YcG+MqjW4ot+cJWvHK+7zM/xY8oheKtPYnaB9SyLjGVckUhxS16E0SdFKNXmVND6F6u7P7VqbxAdlu/u98q5IW9SeOmrzRzNCxwReOJqHZgOpegrm07duc4SEFg2eZTipsmeD3wTVSV5XKpENTXqrTn0U/rdohHh5iAHUXohRI/O5VMZpngPbLzjRqMJCOYY8XTvggb6wq0kzD80dyVKyKhxzTGFMYdVs4Q=;vQo5H2lGYTwsqOFHM7DViA=="
 ---

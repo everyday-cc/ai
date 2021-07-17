@@ -354,7 +354,23 @@ related:
         width: 948
         height: 710
         isCached: true
+  - title: "“Dicey Territory”: Controversy Erupts Over AI-Generated Voiceover In Morgan Neville’s Anthony Bourdain Documentary ‘Roadrunner’"
+    excerpt: "Normally on the opening day of a Morgan Neville film, the talk would be about box office potential—after all, his 2018 Mr. Rogers documentary Won’t You Be My Neighbor? earned an astounding $23"
+    publishedDateTime: 2021-07-17T03:44:00Z
+    webUrl: "https://deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/#!"
+    ampWebUrl: "https://deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 31
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2018/01/rexfeatures_9326613io.jpg?w=1024"
+        width: 1024
+        height: 1024
+        isCached: true
 
-secured: "bYXEXF6mC2mjjlBs0tKEEGyJJCAwWmqeAxhA+bD7E/Jw7H62xIrRLWXxB1FVOVvbEUrCIG5sEp346GuWprrqwpMruUVtPYwNpoA98DIewBX4worg2O1wsc3hSBPWPD5a7FfqutevStTxJwemgGtd0kHKB/xECl3bpDQsNpPrQ7qoIXuKMNYbtCei0YiC3goW7LJ2uLDggAhXMHnxxEKYxgamx0+pD9pORdXt8xXAL99A2SLhWs1VN5mq8cEZXGanTySlHKHgvs1bz4ZbKsy/zLlJASSIf7Ok4/qmDnDKkoSPdE4lACzFHBPlWBYrZmhQNRyPzNhozVQkW6o0+R0DMNmo5OMp7A+B4edJiYr/lrA=;VGW/jZaBBOHKYUen4Pypvw=="
+secured: "LVY7Y3hSKwnUsXekbWlfiLIMsoaa9qOsSvyVPc8lZ0E4KOE8O4YarKKElCk99t8FWxuS0fTt/rgS4KQuMYbqM7PhuOn39Jau2zph4NRsJMYikFjQFNBXfeXHkfvzSU8quHwr7f03ACaFtyNNZjZwQeVuk60aEceHeXUB5iNpN1K9SBcAdgxuuq0Rj11QRpuVKT4AjTRZTCliOKX9Pg+XGlk8+tlSH7eLyxqq1HizNXfw8wyW2jaOuDY4C5Ev1MTBlMQeiFKw73HgBtcxPqVDqFsRBq7/4YXmWscsR95oqMSv5WyaGA8LZQUxNq0mzoTZvEdsMKAlsDn+FmhikdzVtGe5bay8k63r0XTw/tOkfazCMqwuk8zfvWgbQdkF7Kff+g2MlnM/ZGG4JYv69xhynkPfNRMcmLGoYw+ymVwBrxmvNldEsn7ZSqBztkUHos6ln9vWbpBwg9jlYVacXXnz04JnjcqQXM/BjzAnonlLZuknljsJrcbhaNY5Mjh/iea8BrnbLxSfA1ImqRNO7TOuKg==;9OCKnKXJBzktGI5pI4QNyg=="
 ---
 

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Accurate protein structure prediction now accessible to all"
-excerpt: "Protein design researchers have created a freely available method, RoseTTAFold, to provide access to highly accurate protein structure prediction. Scientists around the world are using it to build protein models to accelerate their research."
-publishedDateTime: 2021-07-16T01:40:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/07/210715142340.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/07/210715142340.htm"
+excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
+publishedDateTime: 2021-07-15T18:03:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-07/uows-aps070921.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uows-aps070921.php"
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/270310_web.jpg"
+    width: 720
+    height: 480
+    isCached: true
 
 related:
   - title: "DeepMind open-sources AlphaFold 2 for protein structure predictions"
@@ -84,9 +86,9 @@ related:
         height: 576
         isCached: true
   - title: "DeepMind’s AI for protein structure is coming to the masses"
-    excerpt: "Machine-learning systems from the company and from a rival academic group are now open source and freely accessible."
+    excerpt: "Machine-learning systems from the company and from a rival academic group are now open-source and freely accessible."
     publishedDateTime: 2021-07-15T18:05:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-01968-y?error=cookies_not_supported&code=489849a8-3eb7-4e38-bae1-41a2748c7d62"
+    webUrl: "https://www.nature.com/articles/d41586-021-01968-y"
     type: article
     provider:
       name: Nature
@@ -128,6 +130,6 @@ related:
         height: 946
         isCached: true
 
-secured: "ao7OvLp9M09Yqr9H0TQW3Gdig1MKlltGUlZtNRaFOTAY6d9qstIvvB1rNTDj1utWDWmgepfQOev/kH5aaobu5iBRuFOAe5MCauhXgjk72AuEZEGYKLu7+CDRmnWmcOFcievIWJ5zed53rcPCLIquR9qpPeO0c5/ElCE9H3M6tZdpkNeTLFOQ76RZCUYwrypSkNjaon68KRVHjozmOZ2cwGP1trq+HB3h+ADm7AgTJHin7HFynMDTLeGlTH4vgcWDwFU09Ek1UZ7P7iox5jbco6jYV8ca2p3KG2650pu3ydcUt5vrmRLgKnfnSTQ2Ab9mxmtKwxAlRDbWAiGTkUtU4aWR1YSdRdgrAncFW0TMil0=;5y42foviBnLc/U4V/+B7Ug=="
+secured: "7d1gzN/ppH1bBxX/g6L8l8DdRlfpjvH0KKCj3iMDFmdtQb/a+yAZR8fIgBMm4cEoCfR+aMz8REkpz1sN8ztUb4YQWLfdSUiZXCiZd7zBFVFOr9uH0ixQp+RgbuU6vudK+4xg5N3CD7KNQC25vGYf6dJ1WVuAK2b6Qj//BisNonXMOEjcmVpQAES+TcRDAEHrSFZp4X+Qhl1MN/lMk5dKiITBK1oA41L8BLRfzwRWwjoitcYgHFHq6BrkFqY3Z6FCzVsm09FfYXRasxKTirATBCGEYuN31DvpwrhA8/5SQwFlaQZY60hhrJ9BOU9UkUWAmrfp3tHZM6X7fJqIgi8idU+/r9LmFl3X9qd4pz7PhWE=;zN1aiFXiJ7DJn37oO/quOA=="
 ---
 

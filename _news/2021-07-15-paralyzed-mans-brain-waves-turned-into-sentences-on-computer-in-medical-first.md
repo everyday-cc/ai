@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Device taps brain waves to help paralyzed man communicate"
-    excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm – they imagine moving and those brain signals are ..."
-    publishedDateTime: 2021-07-15T14:43:00Z
-    webUrl: "https://www.detroitnews.com/story/life/wellness/2021/07/14/device-taps-brain-waves-help-paralyzed-man-communicate/7972100002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7972100002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7972100002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/14/PDTN/2f852cab-474d-48cd-a151-8206c46ffb92-AP21194673044247.jpg?auto=webp&crop=1023,575,x1,y64&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Researchers Harness Brain Waves of Paralyzed Man to Communicate With Him"
     excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a computer screen."
     publishedDateTime: 2021-07-15T13:53:00Z
@@ -63,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "His voice silenced for years, a man can now communicate using only the electrical impulses from his brain"
-    excerpt: "Voice recognition software that is ubiquitous on cellphones, computers and elsewhere was developed with many more hours of repetition and refinement than Chang’s group was able to put in with a severely disabled patient, other experts said. To expand ..."
-    publishedDateTime: 2021-07-14T21:03:00Z
-    webUrl: "https://www.washingtonpost.com/health/paralyzed-man-can-communicate/2021/07/14/3a9ce638-e4b5-11eb-8aa5-5662858b696e_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/paralyzed-man-can-communicate/2021/07/14/3a9ce638-e4b5-11eb-8aa5-5662858b696e_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/paralyzed-man-can-communicate/2021/07/14/3a9ce638-e4b5-11eb-8aa5-5662858b696e_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 42
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4EXR3XE4QI6XCGFJ7LDQLCHZM.jpg&w=1440"
-        width: 897
-        height: 537
-        isCached: true
   - title: "Brain waves used to help paralyzed speak"
     excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak – and turned what he intended to say into sentences"
     publishedDateTime: 2021-07-15T04:00:00Z
@@ -93,6 +61,17 @@ related:
         width: 800
         height: 536
         isCached: true
+  - title: "Device taps brain waves to help paralyzed man communicate"
+    excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm — they imagine moving and those brain signals are ..."
+    publishedDateTime: 2021-07-15T09:40:00Z
+    webUrl: "https://wtop.com/science/2021/07/device-taps-brain-waves-to-help-paralyzed-man-communicate/"
+    ampWebUrl: "https://wtop.com/science/2021/07/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/"
+    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/science/2021/07/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/"
+    type: article
+    provider:
+      name: WTOP News
+      domain: wtop.com
+    quality: 39
 
 secured: "XUIvx5eavJeyko7M7sLitPGujyAdZU4oE0miT0ax+LwLW2oFcDqu0NJk6PeRMhBN6yOth5uxhIui7Mn6EACinBXXpLXplX0UwTfYLg6dTJyGA6yPKRIquXRNEVqQsj1fRHmF3QMxYSwWNfQ9fK8YuHt91lbRRI4lQQUaAEJ/z2M5UJaENtMhgSlpRnzpBrXPHvOQf66HL3FseDktiMJghZEw1FzlQ27LmgZ4mXEjuzym0hX9sCTEYM8Qr9/fhDVjgfOgMlAbzfsWPmIujYkpsY3hwARami3guTi6845d9rHf+OYM60dPNV9g+xThcu9x7yswFbtyGPFS57rXEcCVmzR5uD1v4qwK0O5wdVWJ/rQ=;JVJ5GVD30cMc7caXpp0Iug=="
 ---

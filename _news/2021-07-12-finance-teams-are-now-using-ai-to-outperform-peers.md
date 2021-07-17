@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/technology-and-ai/finance-teams-are-no
 webUrl: "https://fintechmagazine.com/technology-and-ai/finance-teams-are-now-using-ai-outperform-peers"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,79 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "5 AI startups out to change the world"
-    excerpt: "Deep learning is solving challenging problems in industries as diverse as retail, manufacturing, and agriculture. These companies are leading the way."
-    publishedDateTime: 2021-07-12T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.html"
-    ampWebUrl: "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.amp.html"
+  - title: "FDA Clears Artificial Intelligence to Transform Sleep Care"
+    excerpt: "EnsoData, the company simplifying the process for analyzing the human body to help clinicians more precisely diagnose health conditions, today announces its FDA"
+    publishedDateTime: 2021-07-14T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fda-clears-artificial-intelligence-to-transform-sleep-care/article_09e7c333-7913-573e-8fd4-cf9ca67d0b65.html"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
     images:
-      - url: "https://images.idgesg.net/images/article/2020/04/abstract_network_connections_conceptually_layered_with_a_city_skyline_and_virtual_globe_by_cofotoisme_gettyimages-1155123985_2400x1600-100839690-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Robotics And AI Will Reshape The Life Sciences Buildings Of The Future"
-    excerpt: "Robotics and AI are changing life sciences workspaces, challenging life sciences developers to adapt to these emerging technologies."
-    publishedDateTime: 2021-07-16T00:06:00Z
-    webUrl: "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai-will-reshape-the-life-sciences-labs-of-the-future-109563"
-    type: article
-    provider:
-      name: Bisnow
-      domain: bisnow.com
-    quality: 71
-    images:
-      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2021%2F07%2F60f0a5516ee89-thisisengineering-raeng-mf6gb6hv5ou-unsplash-2.jpeg&width=1200&sign=WKj1WTXyhuhiludNCGLnB5eA_19OTjhPg0lpXHPeci4"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Booz Allen backs AI, machine learning software startup"
-    excerpt: "Booz Allen Hamilton puts its technology scouting function to work by investing in an emerging startup company focused on making software for artificial intelligence and machine learning functions."
-    publishedDateTime: 2021-07-12T10:21:00Z
-    webUrl: "https://washingtontechnology.com/articles/2021/07/12/booz-allen-latentai-backing.aspx"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 56
-    images:
-      - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Four ways artificial intelligence is helping us learn about the universe"
-    excerpt: "To take on these challenges, astronomers are turning to machine learning and artificial intelligence (AI) to build new tools to rapidly search for the next big breakthroughs. Here are four ways AI is helping astronomers."
-    publishedDateTime: 2021-07-12T15:00:00Z
-    webUrl: "https://www.space.com/artificial-intelligence-to-learn-about-the-universe"
-    ampWebUrl: "https://www.space.com/amp/artificial-intelligence-to-learn-about-the-universe"
-    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/artificial-intelligence-to-learn-about-the-universe"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 56
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/VKoGcvvnKZHGJZHKaB3X9F-480-80.jpeg"
-        width: 480
-        height: 480
-        isCached: true
-  - title: "Top AI Start-ups Bringing the Most Innovative Products"
-    excerpt: "Start-ups are coming up with the most innovative products in the market. Here are the top AI start-ups that can change the world."
-    publishedDateTime: 2021-07-14T07:15:00Z
-    webUrl: "https://www.analyticsinsight.net/top-ai-start-ups-bringing-the-most-innovative-products/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/AI-Startups.jpg"
-        width: 900
-        height: 500
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "xtPdgrFDur6Vs+tTVh5l61J9tCs241PD1ApExnEdnDu6g/ptsKP0zJOT7ZJrY6A22agPFAYDzxNZrNAYirjKwSUuUuetCh/T/F6CsO6PCD6tTZ65uzgfZElz6DCdcNmd5mSiNoept7LwaOUbhjLSbEdFuX3hUySjudcrnhkrYOuHkqQf/uUPW80FwyO3MZDtRwd9Oo+ujOqD2VI1jrpu1iyvuq8Svhvj8xRpO4t1ZVN7uDmC11FynputsE2/juYNV369GB3OiC8737x/ZFUDftbxDXxU2Wt9wFnvxM5CmA4BC4JmxquvG5DqwQKpp0QR0zgBjs2JtvkRSK9JkEHKabCI3yYY5J9cDhKy4M2IqolKG7cwnZDdoAm0euQ0xUSlWTEdgKS6RkggmbrfnVVHTYk/WdQN84aWHwoJ9e+rqPlicbT0U+nihY3kxxwCzSIoifXA14s9LzWkqIvKcDJwOHydo/gTefo0Lbsxx5mbNbjrsANxGXybNHBoc4ydLM29uScu32f2RZQOgI+RSL/Xrg==;or3cON9ecYoC6Wkgl/N5kQ=="

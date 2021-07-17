@@ -24,80 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "5 AI startups out to change the world"
-    excerpt: "Deep learning is solving challenging problems in industries as diverse as retail, manufacturing, and agriculture. These companies are leading the way."
-    publishedDateTime: 2021-07-12T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.html"
-    ampWebUrl: "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.amp.html"
+  - title: "Opening Up the Email Marketing Engine to Artificial Intelligence"
+    excerpt: "With an average open email rate of 18.0% in 2020, it’s not like marketing teams are crushing this email thing. Wait, isn't 18% pretty good? We get that standards are low here, for sure. Bottom-line? Email remains a priority."
+    publishedDateTime: 2021-07-15T13:14:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/"
+    ampWebUrl: "https://www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
+      name: CMS Wire
+      domain: cmswire.com
     quality: 89
     images:
-      - url: "https://images.idgesg.net/images/article/2020/04/abstract_network_connections_conceptually_layered_with_a_city_skyline_and_virtual_globe_by_cofotoisme_gettyimages-1155123985_2400x1600-100839690-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Robotics And AI Will Reshape The Life Sciences Buildings Of The Future"
-    excerpt: "Robotics and AI are changing life sciences workspaces, challenging life sciences developers to adapt to these emerging technologies."
-    publishedDateTime: 2021-07-16T00:06:00Z
-    webUrl: "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai-will-reshape-the-life-sciences-labs-of-the-future-109563"
-    type: article
-    provider:
-      name: Bisnow
-      domain: bisnow.com
-    quality: 71
-    images:
-      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2021%2F07%2F60f0a5516ee89-thisisengineering-raeng-mf6gb6hv5ou-unsplash-2.jpeg&width=1200&sign=WKj1WTXyhuhiludNCGLnB5eA_19OTjhPg0lpXHPeci4"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Booz Allen backs AI, machine learning software startup"
-    excerpt: "Booz Allen Hamilton puts its technology scouting function to work by investing in an emerging startup company focused on making software for artificial intelligence and machine learning functions."
-    publishedDateTime: 2021-07-12T10:21:00Z
-    webUrl: "https://washingtontechnology.com/articles/2021/07/12/booz-allen-latentai-backing.aspx"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 56
-    images:
-      - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Four ways artificial intelligence is helping us learn about the universe"
-    excerpt: "To take on these challenges, astronomers are turning to machine learning and artificial intelligence (AI) to build new tools to rapidly search for the next big breakthroughs. Here are four ways AI is helping astronomers."
-    publishedDateTime: 2021-07-12T15:00:00Z
-    webUrl: "https://www.space.com/artificial-intelligence-to-learn-about-the-universe"
-    ampWebUrl: "https://www.space.com/amp/artificial-intelligence-to-learn-about-the-universe"
-    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/artificial-intelligence-to-learn-about-the-universe"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 56
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/VKoGcvvnKZHGJZHKaB3X9F-480-80.jpeg"
-        width: 480
+      - url: "https://www.cmswire.com/-/media/2a91c10dbc3d4d22a7c8a94025410d28.ashx?mw=1024"
+        width: 640
         height: 480
         isCached: true
-  - title: "Finance teams are now using AI to outperform peers"
-    excerpt: "Unit4 finds practical issues are holding back finance teams, with 45% of those surveyed citing difficulties in integrating AI tools with existing systems"
-    publishedDateTime: 2021-07-12T16:08:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/finance-teams-are-now-using-ai-outperform-peers"
+  - title: "5 Things Business Leaders Must Know About Adopting AI at Scale"
+    excerpt: "Companies that adopt AI at scale should have an ethics committee that can gauge the ongoing usage of the AI system and make sure it’s \"doing good.\" AI should be used responsibly not because regulation demands it, but because it’s the right thing to do ..."
+    publishedDateTime: 2021-07-14T16:34:00Z
+    webUrl: "https://www.entrepreneur.com/article/376748"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/376748"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376748"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 54
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1255615171_0.jpg?itok=ebVnK-eP"
-        width: 2309
-        height: 1299
-        isCached: true
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
 
 secured: "BzkF7ZskNpS481pxI4L7f5kWyYsPyObUhxbPQA9iUJGDTwdCPnffVNt+34u/CVvMsZztG90pBJC+dviANgtKGHLwlfPJZGJzMBP885eMx30Fso59MFsrIr5sSSqquPwspqkBrOQS9yWwP+5pYYZuYyPTZ9WJ91qJUhiVwOrghCON91GVKWnXOO6bMqZfOlnCYYqc9NZFR6t+Z2uk0uRLX7Di86bYn+Q0W0rE8mJ9njjUtF7whzBy4ksjrfzHPETBTPRW9r9ewMeBk2UPkWY9U8Nl0iry8s3AsRUAf1nqtpMKpR7YrdbXXSdeNveNkpjioywtukUe0t7nAckwCUTqKvTrqsq8Ozv43zgrhXV6Z4xOvOTbYbqV4iWstSwqLbdiNC9mlnilttj+p28GSt4AunDbcjiNecavlN/WALnbDSdesF+jd2/dvPS7Aa6bg/aC5wcsnref0hfP8jGt+QTcmpPjbP3876wgyIwECloVp9IcHkLYd02xXUiyDP2qlBb50U6gbeHVWAcjf8qjWlXTBw==;FEDVwqFtDEiKtOVAgRkjJg=="
 ---

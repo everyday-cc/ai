@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Forbes
@@ -31,103 +31,20 @@ images:
     isCached: true
 
 related:
-  - title: "The real successes of AI"
-    excerpt: "Despite the hype, especially around self-driving cars, AI is writing code, designing Google chip floor plans, and telling us how much to trust it."
-    publishedDateTime: 2021-07-12T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html"
+  - title: "Artificial Intelligence in Supply Chain Market is Set To Fly High in Years to Come"
+    excerpt: "Artificial Intelligence in Supply Chain Market Analysis, Artificial Intelligence in Supply Chain Market Forecast, Artificial Intelligence in Supply Chain Market Growth, Artificial Intelligence in Supply Chain Market Opportunity,"
+    publishedDateTime: 2021-07-16T20:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-is-set-to-fly-high-in-years-to-come-2021-07-16"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
     images:
-      - url: "https://images.techhive.com/images/article/2017/03/robot-arm-using-laptop-100714626-large.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 960
+        height: 630
         isCached: true
-  - title: "Panasonic launches i-PRO multi-AI system to enhance the power of their AI cameras and applications"
-    excerpt: "Panasonic announces the i-PRO multi-AI system designed to harness the power of its latest AI cameras and applications by integrating them seamlessly into existing CCTV"
-    publishedDateTime: 2021-07-14T12:15:00Z
-    webUrl: "https://www.sourcesecurity.com/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 45
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/panasonic-updated-range-s-series-cameras-embedded-ai-capabilities-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
-  - title: "Use of Artificial Intelligence That has Potential Business Value"
-    excerpt: "The use of artificial intelligence in the business market is growing gradually. It has a great potential business value and it is important to implement ethical and responsible AI to bring success in the long run."
-    publishedDateTime: 2021-07-15T15:30:00Z
-    webUrl: "https://www.analyticsinsight.net/use-of-artificial-intelligence-that-has-potential-business-value/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-2.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "How AI is powering the future of financial services"
-    excerpt: "Financial institutions are using AI-powered solutions to unlock revenue growth opportunities, minimise operating expenses, and automate manually intensive processes. Many in the financial services industry believe strongly in the potential of AI."
-    publishedDateTime: 2021-07-16T16:07:00Z
-    webUrl: "https://www.finextra.com/the-long-read/231/how-ai-is-powering-the-future-of-financial-services"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/231.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Highlighting the real successes of AI"
-    excerpt: "Despite the hype, especially around self-driving cars, AI is writing code, designing Google chip floor plans, and telling us how much to trust it."
-    publishedDateTime: 2021-07-16T20:16:00Z
-    webUrl: "https://www.reseller.co.nz/article/689725/highlighting-real-successes-ai/?fpid=1"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/ai_dreamstime_1.jpg"
-        width: 800
-        height: 500
-        isCached: true
-  - title: "Importance of AI in Remote Learning"
-    excerpt: "Educators are using AI-enabled Learning Management System to track their student's progress (LMS). The primary purpose for creating LMS was to improve the learning experience with Artificial Intelligence (AI) support."
-    publishedDateTime: 2021-07-16T21:09:00Z
-    webUrl: "https://www.cioapplications.com/news/importance-of-ai-in-remote-learning-nid-8110.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/l2wfimg---6.gif"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "WHO Releases AI Guidelines for Health"
-    excerpt: "A new report from the World Health Organization offers guidance for the ethical use of artificial intelligence in the health sector."
-    publishedDateTime: 2021-07-14T18:34:00Z
-    webUrl: "https://cacm.acm.org/news/253984-who-releases-ai-guidelines-for-health/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "Di/6xECVGq9krpHxjQosthth7gdCWylahULJ5pUrCgiv6LHlFLedAHLMUOfIKt5alRgjKUx8e/1KvNwnY76VJEOVghcq84/I2xR3ArO/kl/yGuUOiD0oLaSpFnrK39rIS2uI57I2lmnyrqG4Is76FHBVESVS5s59AidRg8MbD7up4DQ1zr8+0iVxKRUxcCXyqA/m/PvF7Bb6loMyPSH+MaTW0OLEua8rGsmoU5nv2W76tgz2k56hWM57goK5c1Ki110yTIvOMxVRHtfa+HxZ1Z9Tu8TxWxPpDVIDsBGd9iLCaJwZgSQ2VXqfaFujo/F/2Hx9CsXAXIANRFPq7FzoCKL8QseYPiD61o6BlnS1CRivOD9dJ2AEEaHpy8epQD6CitYk0zjlSfEiKxcP3fVABJRv1fPGzuiZlmjJ3aTtmyTXFmMQGORyT480NoKnaLIWy2w6FbAMt9+0LKCLtmEoiIQebj4sZV+/4/R7U+sqD3KcPwypUfXI+mo4xSvd2VJl4+Dp4MUeUNUKpbWd6fU+ug==;cK6BGZIICLkK9lkIcAGZLQ=="
 ---

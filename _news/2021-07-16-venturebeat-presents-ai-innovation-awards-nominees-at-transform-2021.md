@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "Announcing the AI Innovation Awards winners at Transform 2021"
+    excerpt: "The AI Innovation Awards recognize work in natural language processing, business applications, edge computing, startups, and AI for Good."
+    publishedDateTime: 2021-07-16T19:20:00Z
+    webUrl: "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/"
+    ampWebUrl: "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/jason-leung-Xaanw0s0pMk-unsplash.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Announcing nominees for the 2021 Women in AI Awards"
     excerpt: "As part of Transform 2021, we’re excited to announce the full list of nominees for the third annual Women in AI Awards."
     publishedDateTime: 2021-07-14T15:15:00Z
@@ -48,22 +64,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/07/WIAI-Awards.png?w=1200&strip=all"
         width: 1200
         height: 550
-        isCached: true
-  - title: "Announcing the AI Innovation Awards winners at Transform 2021"
-    excerpt: "The AI Innovation Awards recognize work in natural language processing, business applications, edge computing, startups, and AI for Good."
-    publishedDateTime: 2021-07-16T19:20:00Z
-    webUrl: "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/"
-    ampWebUrl: "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/jason-leung-Xaanw0s0pMk-unsplash.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Announcing the winners of the Women in AI Awards at Transform 2021"
     excerpt: "founder of the AI Leadership Institute, both received the Responsibility & Ethics Award for 2021. Mahmoudian was an early adopter of bringing statistical bias measures into developmental processes."

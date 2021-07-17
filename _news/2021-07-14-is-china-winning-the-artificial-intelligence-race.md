@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/opinion/is-china-winning-the-artif
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/is-china-winning-the-artificial-intelligence-race-7168921.html/amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 770
     height: 433
     isCached: true
-
-related:
-  - title: "AI Race: Why India is Lagging Behind the US and China in 2021?"
-    excerpt: "The US and China are determined to be the world leaders in Artificial Intelligence in the upcoming years. This article shows why India is lagging behind these two countries in the AI race."
-    publishedDateTime: 2021-07-12T11:01:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-race-why-india-is-lagging-behind-the-us-and-china-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/AI-Race.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "BjdnOmHWyNS31IfGfw4HXdT+jCUkjUwAQxOlOxcHXxOXJKIwZHp2WfxkV2845kkoavDt2pQESfOplxzYi57CRg48m5KGaDKEsN9dkkTOvttUpQahA0Xq6LBfk2liT8C92qNjqZSxsgFnagvy5w+jRZfHkjeG9aUAq4gl0qsn1XV7ZoY8cAGjONox58EVGUaSJuSp0PvwqD3vrcAH6jUMX4KCcV8OTUcJmW17ZzYehYX9zKfvNG5XMUT2dJfwLYzt7sI1LnDDXKr+LBnv9scHP7Cvsx5VlgSXE5iTOKCQRMmtMjWrTnYGZU7QzYZKjXWubpulLDWISgAtIyR1T5fppVnXYENEwEKb4VkUgdbDHs4=;2zV7VUK1vGCP6yXER6ntJw=="
 ---
