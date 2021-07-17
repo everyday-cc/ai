@@ -60,20 +60,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "AI will have a bigger impact than fire, says Google boss Sundar Pichai"
-    excerpt: "Artificial intelligence will have a more profound impact on humanity than fire, electricity and the internet, the head of Google has declared.Sundar Pichai, chief executive of the tech company"
-    publishedDateTime: 2021-07-12T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/ai-will-have-a-bigger-impact-than-fire-says-google-boss-sundar-pichai-rk8bdst7r"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 37
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7313e248-e34b-11eb-afdb-c7b01afbcfc5.jpg?crop=5211%2C2931%2C141%2C0&resize=685"
-        width: 685
-        height: 385
-        isCached: true
 
 secured: "JrYSSxK1JRKOIy7Dc5yWmR6aksbq1EBOyxom3d6vqVecL8fPmFosTDzNiCn/+ao3EUqCcbzOvrGND5gnUm+aIdu/hRIp+d+LQZfXVs4ywOXrVWykx+ertwEc0CUdaQ53bH+NE0BAX7u3VF4galaFCfDqJcPj3LEhUWeAH7e5/z5wrbXB3tmSffxjA5KaIzdyK7Ie5C8aClqqlZ9hzZTBDDcg1XezAzS3MBYLIc0/RSeIWlOO+VPDrXvieRnfJV608CisXXbbpsY5FkI7JmsZMvt5QiX6tR6TLcr2LI9cSPC0ysCtJ1cBfWw8RMmNlHvm/yKTsUh5+tUB6lN0nsm665GBDiGJbmr5JjU0Msl77kY=;SfRMtvDO3vi1cXdu0YLNaQ=="
 ---

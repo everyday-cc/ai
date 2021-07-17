@@ -39,20 +39,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Credit Fintech Jasper Card Raises $34 Million in Round Led by Benslie International Fund, OurCrowd Participates"
-    excerpt: "Jasper Card has raised $34 million in a Series A funding round led by Benslie International Fund. Leading global investment crowdfunding platform OurCrowd joined in the funding round along with 500 Startups,"
-    publishedDateTime: 2021-07-12T21:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/07/177768-credit-fintech-jasper-card-raises-34-million-in-round-led-by-benslie-international-fund-ourcrowd-participates/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 19
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/Jasper-Card.jpg"
-        width: 462
-        height: 291
-        isCached: true
 
 secured: "+8m3aqmXbsh+SKiUxEZi4tww9cPM5as1RExecI974djViauzb845dQ/ObSNZoyp89gk3dOBvovI/6QoV5pHShCK9JshhjiyKvKyhrYoUzrnZNolpPykUYsGlcFVJqCVL1KpaOtxYhNgizeuvk8Ia0ftE9208MKa+yas4u2T6JqZRGH1Uh0aGYTeJ1FIrSSq8vMNUogoKwsGDI2HtVwGqC1MxkQPa1P31xXmGa7jnloSeUi2cZmmctpwZJtUvZtBpcPVK6nJQPZlJFVsaH0Vx6zlOnZyjxoi/xWtuAKFe1gNmJccpIqfW1Z5ZxM71RNcICZInisubW+yGaJy1s/b9NIRXMg3tGKjRAf99PNcFtek=;8B7ll7qrndFqgMRfWTfiZA=="
 ---

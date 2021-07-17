@@ -9,8 +9,8 @@ ampWebUrl: "https://mynorthwest.com/3032670/port-of-seattle-bans-facial-recognit
 cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3032670/port-of-seattle-bans-facial-recognition-sea-tac-airport/amp/"
 type: article
 quality: 71
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: MyNorthwest.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Port of Seattle bans facial recognition tech by law enforcement; some private use remains permitted"
+    excerpt: "The Port of Seattle Commission voted Tuesday to ban the use of biometric technology for surveillance and security purposes by government and law enforcement on all its"
+    publishedDateTime: 2021-07-14T01:09:00Z
+    webUrl: "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/"
+    ampWebUrl: "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 90
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/07/true-630x420.jpeg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Port of Seattle bans facial recognition technology for certain uses"
     excerpt: "The Port of Seattle Commission voted to permanently prohibit the use of biometric technology — including facial recognition — for law enforcement, security and mass surveillance purposes by the port and private-sector entities operating at its facilities."
     publishedDateTime: 2021-07-14T00:52:00Z
@@ -54,6 +70,20 @@ related:
       - url: "https://files.texaspolicy.com/uploads/2021/06/23154309/Police-1350x759.jpg"
         width: 1350
         height: 759
+        isCached: true
+  - title: "Facial Recognition Is Doing Harm Right Now. It’s Unacceptable for Lawmakers To Do Anything Other Than Ban It."
+    excerpt: "The House Judiciary Committee is holding a hearing today on facial recognition technology. They’re expected to discuss a wide range of issues including the recent GAO report on federal government use of facial recognition and the Facial Recognition and Biometric Technology Moratorium Act."
+    publishedDateTime: 2021-07-13T15:27:00Z
+    webUrl: "https://www.commondreams.org/newswire/2021/07/13/facial-recognition-doing-harm-right-now-its-unacceptable-lawmakers-do-anything"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 20
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/media_image_1x_xl/public/2021-07/merkel-white-house-3600x2367.jpg?h=5526124e&itok=T129sNw1"
+        width: 391
+        height: 221
         isCached: true
 
 secured: "HKYVEkcGCEVx88OhIHmm5bhq7EGWXRg9kuyWyPgaEu8EMUIHjNC/55BrZZ4lJWv/d6PH7bj/9hrIZYjTWZiL6BbkBxUliRx0uHbcIwcMIwg5+bhg5Ez8YQYS7c6ogsrM7JxEFN+Nnyqzq1ZC2coSimC9VA15ktJMse3NS6xWJcatDli66yK/oO1d4IbBJGgZKXCtZVpffAtI5BOx2K31cLGD5dYCOMavA5LQGIA6vbDjGEDUlXDn6aFAgiBUHnwXEqvUNpDQ2xBZvh1uftS4CzVIK1v082Lod84AbPAmqTTlXq0wPSqcKnFsv0t1lcV4aVoadAAZ7JPdiBqjqSAzekIjxIMp3r5owkrEK4Fct44=;mFZ5EideuAE38D7KryZsbA=="

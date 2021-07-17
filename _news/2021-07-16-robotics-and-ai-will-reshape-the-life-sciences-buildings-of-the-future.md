@@ -7,7 +7,7 @@ originalUrl: "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai
 webUrl: "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai-will-reshape-the-life-sciences-labs-of-the-future-109563"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How AI is powering the future of financial services"
+    excerpt: "Financial institutions are using AI-powered solutions to unlock revenue growth opportunities, minimise operating expenses, and automate manually intensive processes. Many in the financial services industry believe strongly in the potential of AI."
+    publishedDateTime: 2021-07-16T16:07:00Z
+    webUrl: "https://www.finextra.com/the-long-read/231/how-ai-is-powering-the-future-of-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/231.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "Guio23cNG+4uy1tMqsSEyYjMPIeUs1uRzOeI//BooWiHZWfKrkryFFS/di6yJg1N4TrzKuM6MJSNl0U4uQ9qLD/fYbr4M4e3T37H2sTKT6zpZp2C7D9Fuupx4Vd9/TTsD1DfuBV8Os1hkBmYvgT36yDg4AyAhyLD1Z3GuEpo/vhkN6n3Pcs/ROQMRI6ncmCIWGI1KkTOOEjfYs4JlT5kKVTihzcRuuFtD9uReRHPGfzpEmANMnpnjt4/jhTR8kClel6+FYVvCFGw78fakukIkrSEGZ02lUIMDvFstY9ZXAKJ/Ao1pMH1bX4QI2VbS4sdC7hqTjFgLqJFvkBWhuzYpmVnPG30mXLYceoaS295+7F6JVzryzIgVbIBKpRAxiu902ttZddq5wLl96HEWUlYtavdfW78E1Yc6wKWrZYsXji90QVmU3M+eiyw47/tVOKp06deDHvnGiUiVkjWUQSiJ2hlnNnSxv/nfxZ8km1gHEhqwnUsR3XgsWFlTR308yiJZSbTdHNUgD4rZgwevcZaPA==;UemSKKQ5nY+nTEZze4VgHw=="
 ---

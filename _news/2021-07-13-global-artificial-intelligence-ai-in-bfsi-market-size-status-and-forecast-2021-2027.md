@@ -65,6 +65,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI Governance Market Overview 2021: By Market Size, Industry Growth, Market Trends and Global Opportunities Forecast to 2026"
+    excerpt: "This report aims to estimate the “AI Governance Market” for 2021 and to project the expected demand by 2026. This"
+    publishedDateTime: 2021-07-16T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-overview-2021-by-market-size-industry-growth-market-trends-and-global-opportunities-forecast-to-2026-2021-07-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Education Market Size, Status and Forecast 2021-2027"
     excerpt: "The global Artificial Intelligence (AI) in Education market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report ..."
     publishedDateTime: 2021-07-15T08:56:00Z

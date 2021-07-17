@@ -243,20 +243,6 @@ related:
       name: The Daily Dot
       domain: dailydot.com
     quality: 31
-  - title: "Most State Legislatures have rejected bans and severe restrictions on facial recognition"
-    excerpt: "Facial recognition technology and related legislation have been a hot topic in the media and in policy discussions around the country. The Security Industry Association (SIA) is advocating nationwide for policies ensuring responsible use and sensible ..."
-    publishedDateTime: 2021-07-12T22:00:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21230121/security-industry-association-sia-most-state-legislatures-have-rejected-bans-and-severe-restrictions-on-facial-recognition"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 30
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Facial_Recognition_System_Iden_387020311.60ecba89a36b9.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Japan Airlines Implements \"Face Express\" Facial Recognition Technology for International Flights"
     excerpt: "JAL participated in a successful trial of a new boarding procedure called, “Face Express ” that utilizes facial recognition technology developed by Narita International Airport Corporation (NAA) and Tokyo International Airport Terminal Co."
     publishedDateTime: 2021-07-16T13:24:00Z

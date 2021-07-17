@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intellige
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.amp.html"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -30,33 +30,69 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is powering the future of financial services"
-    excerpt: "Financial institutions are using AI-powered solutions to unlock revenue growth opportunities, minimise operating expenses, and automate manually intensive processes. Many in the financial services industry believe strongly in the potential of AI."
-    publishedDateTime: 2021-07-16T16:07:00Z
-    webUrl: "https://www.finextra.com/the-long-read/231/how-ai-is-powering-the-future-of-financial-services"
+  - title: "How AI can help create more caring company cultures"
+    excerpt: "There are already at least three areas where artificial intelligence can easily support a more empathetic workplace environment."
+    publishedDateTime: 2021-07-13T12:01:00Z
+    webUrl: "https://qz.com/work/2031109/how-ai-can-help-create-a-more-caring-company-culture/"
+    ampWebUrl: "https://qz.com/work/2031109/how-ai-can-help-create-a-more-caring-company-culture/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/work/2031109/how-ai-can-help-create-a-more-caring-company-culture/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: Quartz
+      domain: qz.com
+    quality: 87
     images:
-      - url: "https://www.finextra.com/finextra-images/oped/231.jpg"
-        width: 800
-        height: 450
+      - url: "https://cms.qz.com/wp-content/uploads/2021/07/Robot.jpeg?quality=75&strip=all&w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Highlighting the real successes of AI"
-    excerpt: "Despite the hype, especially around self-driving cars, AI is writing code, designing Google chip floor plans, and telling us how much to trust it."
-    publishedDateTime: 2021-07-16T20:16:00Z
-    webUrl: "https://www.reseller.co.nz/article/689725/highlighting-real-successes-ai/?fpid=1"
+  - title: "How AI Can Create Meaningful Change In Traditional Industries"
+    excerpt: "Yet currently, multiple multitrillion-dollar industries such as retail, supply chain, food and energy have critical workflows and decision-making processes that rely on Excel spreadsheets or literal pen and paper."
+    publishedDateTime: 2021-07-15T11:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/ai_dreamstime_1.jpg"
-        width: 800
-        height: 500
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI Can Compute Protein Structures in 10 Minutes"
+    excerpt: "Scientists have waited months for access to high-accuracy protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
+    publishedDateTime: 2021-07-16T08:07:00Z
+    webUrl: "https://www.technologynetworks.com/proteomics/news/ai-can-compute-protein-structures-in-10-minutes-350927"
+    ampWebUrl: "https://www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
+        width: 389
+        height: 389
+        isCached: true
+  - title: "New artificial intelligence software can compute protein structures in 10 minutes"
+    excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction,"
+    publishedDateTime: 2021-07-15T18:00:00Z
+    webUrl: "https://phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.html"
+    ampWebUrl: "https://phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/accurate-protein-struc.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "WlGqOsO+fJs7rDNq/bo6gyi95UfZCSYJ7+cFKmK6DOc4slJWlh+MfWTDNdQPsnFzSaqXKCTe5FvPMn0ORJG5zd/eRpM1/HkCdzms4AW16Gl8IVPbDJx8scrjEc6fmOelBwXJJxhTD5ZkLfOS3w2eDP9ry9g3T5etEQO2mwF/luTJKuFMMshGrXB7XhMblLUpNZQQ2YLCpTyphNLHtjr6rmD68DDcFL0C8OjCCD/xNoeeumBgQiobiw6dYnEDrJ/c3u9M48puyTr55Qxnk2tXtmKkTCefqpEok4kh6a+Ul9p/PsohJdyaLr2K8lJXciKD3322YWn2mTCtf1wWcFKRBvt0rRYR+AVIO2i5ElnIoE+IrtUMMtLpHtyFaWKi/NjRoDgDkL0ijZccpnWob4l7exFkejXLiYr1sUqLN0TL2lB0mfMPCqqL3SjUNrVATkySYLL6uTfqPmt8UHguhni4xjZ/Ak8im+uPjBG8j1RmaY++AP0gP5SlFsyrJmj+Q0MshHir2dVOPCkHEKY8efJlGQ==;f/a9vhfjVS+MjOfUBPeFHw=="

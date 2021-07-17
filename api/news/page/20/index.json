@@ -2,6 +2,59 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-06-30-16-smart-marketing-approaches-to-build-brand-recognition.md",
+      "title": "16 Smart Marketing Approaches To Build Brand Recognition",
+      "excerpt": "With so many channels available to reach potential customers these days, it can be challenging to figure out the best way to build brand recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60da2672c3cce41a8d021650%2F0x0.jpg",
+          "width": 1200,
+          "height": 978,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/amp/",
+      "publishedDateTime": "2021-06-30T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards.md",
       "title": "CrowdStrike Wins 2021 Amazon Web Services Global Public Sector Partner and Canada AWS Partner Awards",
       "excerpt": "CrowdStrike, a leader in cloud-delivered endpoint and workload protection, today announced it has been named the winner of two key Amazon Web Services",
@@ -1131,49 +1184,6 @@
       "provider": {
         "name": "MD&M East",
         "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-tyson-co-leads-10m-investment-round-for-ai-powered-robotics-startup.md",
-      "title": "Tyson Co-Leads $10M Investment Round for AI-Powered Robotics Startup",
-      "excerpt": "Tyson's venture capital arm helped raise the funds for food robotics firm Soft Robotics, which makes soft-grasping robots with the hand-eye coordination of humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturing.net/home/news/21533410/tyson-coleads-10m-investment-round-for-aipowered-robotics-startup",
-      "originalUrl": "https://www.manufacturing.net/home/news/21533410/tyson-coleads-10m-investment-round-for-aipowered-robotics-startup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2021/06/16x9/dfgadsf.60dc88e43c875.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1146,
-          "height": 644,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturing.net",
         "images": null,
         "publishers": null,
         "authors": null

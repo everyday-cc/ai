@@ -1,10 +1,10 @@
 ---
 category: news
 title: "DeepMind’s AI for protein structure is coming to the masses"
-excerpt: "Machine-learning systems from the company and from a rival academic group are now open-source and freely accessible."
+excerpt: "Machine-learning systems from the company and from a rival academic group are now open source and freely accessible."
 publishedDateTime: 2021-07-15T18:05:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-01968-y"
-webUrl: "https://www.nature.com/articles/d41586-021-01968-y"
+originalUrl: "https://www.nature.com/articles/d41586-021-01968-y?mc_cid=efb1e46707&mc_eid=d9c3f4eff9"
+webUrl: "https://www.nature.com/articles/d41586-021-01968-y?mc_cid=efb1e46707&mc_eid=d9c3f4eff9"
 type: article
 quality: 54
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: nature.com
 
 topics:
-  - Google AI
   - AI
+  - Google AI
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01968-y/d41586-021-01968-y_19363650.jpg"
@@ -114,6 +114,6 @@ related:
         height: 946
         isCached: true
 
-secured: "fq6O8gFYjPAMjf+XJ/6F7CmTGQZ/gtoRSJi3oRld8ihOrU1bZbWLewBg1Fh7uqPFBCdGhBQrlBcKdQX1nM3pgUsfvbxiqlT0ra1MrAN9SpXOAFNYTJ/r6iCV4BdW7cl1AFgYQ+ePBngI91Rj3wubG3xnAbqOBUymB/rXqPciCw/jcekhnweGp4dUT7Eka9AHd5N2YZ2fSDlPe8Z0wbkrjUTZTCvTT5wpEx/0OOIoWnm8Y0s64lVALkx7hiYDVY4wDl8jAfYaqiMFMOKLpAfvpV+TA6MB+VEw8bEiP8a+v8CrDG2YLSAYXiy9ZbAxP4FDecdLDgNDvtyFOTkKJHb7G1U8Uq0iLh/6DBuJ++B9LRfbw1hKT7K0mSrXDAFyg4Q5lZXgdMUwYE0bHySD8/sZj2sN9wB25ZQaz072VK5duyXTVrAUbRqc80XFW1MtXdKVck7OgKDXn6i5x4agI9OVJ5QYiffORx1tJUEL/Ak39cjYcH+XL39gXcp7AAahUUfvBOAbUCxHEV0itdnMnKM9DQ==;vGqr59eaS1n1v1LGwxG80g=="
+secured: "zhbhdIHKm9DUklHM7u5CaZXJcTuiUuv+rt088bbAl72n+0tu46PniMb/PgSBzvjjNNCn2JiyluGdqFEqv8QSUNIvaESXMMRFHcUymqt3UIRtySqSAHUH+/9Ha5cTX8UELGe/UAEexayFoXJJORthkwuZja/Zlc+J7Mm2HUQTLwwnZHpzz9IgaGU18xHf0PnQflhj83fOKA9yp9blZ4HBOinIO2/QMR1PkNX/QaRM2XNxAnRHnSOGHBQ4U3XQMyaiNprTHgKz461VY51l+uJlpnA3dDQF4mhFs2TAnnAoIqWW7Ekib9W89y5MzBX/r6jpJhhgh2t8nCZ3i78/pARI3ldzyMy7fgstGxMXkL9efKw=;9phuYC0i6PJRIZGri96KBA=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-06-28-artificial-intelligence-in-education-market-opportunity-and-forecast-2021-2028.md",
+      "title": "Artificial Intelligence in Education Market Opportunity and Forecast, 2021-2028",
+      "excerpt": "The applications in solving the issues such as language processing, reasoning, planning, and cognitive modeling increases ... rise in trend of AI services through mobile devices, implementation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2315606/artificial-intelligence-in-education-market-opportunity",
+      "originalUrl": "https://www.openpr.com/news/2315606/artificial-intelligence-in-education-market-opportunity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U628677515_g.jpg",
+          "width": 800,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2315606/artificial-intelligence-in-education-market-opportunity",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315606/artificial-intelligence-in-education-market-opportunity",
+      "publishedDateTime": "2021-06-28T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-importance-of-artificial-intelligence-and-its-impact-on-humanity.md",
       "title": "Importance of Artificial Intelligence and its impact on humanity",
       "excerpt": "AI has led to the rise of Self-driving vehicles and drones and we’ve seen how they have fueled the chatbots to give customers a wholesome experience. Artificial intelligence is a central ...",
@@ -1038,58 +1082,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition.md",
-      "title": "A Company That Uses AI To Fight Malaria Just Won The IBM Watson AI XPrize Competition",
-      "excerpt": "Zzapp Malaria, a company that uses artificial intelligence (AI) to fight malaria just won the grand prize in one of the toughest technology competitions to date. The competition is a joint venture between XPrize,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d921bbc64aa2e4426c2abd%2F0x0.jpg",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/",
-      "publishedDateTime": "2021-06-27T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

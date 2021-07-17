@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-07-16-ai-can-compute-protein-structures-in-10-minutes.md",
-      "title": "AI Can Compute Protein Structures in 10 Minutes",
-      "excerpt": "Scientists have waited months for access to high-accuracy protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over.",
+      "path": "_news/2021-07-16-venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021.md",
+      "title": "VentureBeat presents AI Innovation Awards nominees at Transform 2021",
+      "excerpt": "The AI Innovation Awards honors companies and individuals who stand out from their peers in solving challenges in creative ways.",
       "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/proteomics/news/ai-can-compute-protein-structures-in-10-minutes-350927",
-      "originalUrl": "https://www.technologynetworks.com/proteomics/news/ai-can-compute-protein-structures-in-10-minutes-350927",
+      "webUrl": "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 123,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG",
-          "width": 389,
-          "height": 389,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/jason-leung-Xaanw0s0pMk-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927",
-      "publishedDateTime": "2021-07-16T01:07:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/amp/",
+      "publishedDateTime": "2021-07-16T02:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,10 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
       ]
     },
     {
@@ -95,7 +106,7 @@
       "originalUrl": "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai-will-reshape-the-life-sciences-labs-of-the-future-109563",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -780,49 +791,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-15-device-taps-brain-waves-to-help-paralyzed-man-communicate.md",
-      "title": "Device taps brain waves to help paralyzed man communicate",
-      "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm – they imagine moving and those brain signals are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/life/wellness/2021/07/14/device-taps-brain-waves-help-paralyzed-man-communicate/7972100002/",
-      "originalUrl": "https://www.detroitnews.com/story/life/wellness/2021/07/14/device-taps-brain-waves-help-paralyzed-man-communicate/7972100002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/14/PDTN/2f852cab-474d-48cd-a151-8206c46ffb92-AP21194673044247.jpg?auto=webp&crop=1023,575,x1,y64&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/7972100002",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7972100002",
-      "publishedDateTime": "2021-07-15T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-15-black-teen-barred-from-skating-rink-after-facial-recognition-camera-misidentified-her.md",
       "title": "Black Teen Barred From Skating Rink After Facial Recognition Camera Misidentified Her",
       "excerpt": "A Black teenager's parents are considering taking legal action after she was barred from a skating rink because the venue's facial recognition technology misidentified her. Juliea Robinson dropped off her daughter,",
@@ -863,6 +831,49 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-wearable-robotics-startup-verve-motion-snags-15m-series-a.md",
+      "title": "Wearable robotics startup Verve Motion snags $15M Series A",
+      "excerpt": "Wearable robotics startup Verve Motion today announced it has raised $15 million in Series A funding, led by Construct Capital as well as follow-on investments from existing investors, Founder Collective,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-wearable-robotics-startup-verve-motion-snags-15m-series-/2021/07/15/9410288.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-wearable-robotics-startup-verve-motion-snags-15m-series-/2021/07/15/9410288.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1574447/Verve01.jpg",
+          "width": 291,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -961,57 +972,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-15-how-artificial-intelligence-is-fighting-wildfires.md",
-      "title": "How Artificial Intelligence Is Fighting Wildfires",
-      "excerpt": "A lab at the University of California, San Diego, uses data to figure out how fires will burn, and how to help prevent them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/15/multimedia/15californiatoday-fire-b/merlin_190627797_498e5dd5-d350-4676-9c87-862a283f469c-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.amp.html",
-      "publishedDateTime": "2021-07-15T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-15-ai-based-chatbots-speed-up-intelligent-talent-recruitment.md",
       "title": "AI-Based Chatbots Speed Up Intelligent Talent Recruitment",
       "excerpt": "Intelligent chatbots are proving that there’s no talent shortage when you know how to personalize employee recruitment.",
@@ -1060,6 +1020,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-industrial-ai-and-robotics-controller-system-in-waste-recycle-industry.md",
+      "title": "Industrial AI and Robotics Controller System in Waste Recycle Industry",
+      "excerpt": "A recycling center customer was looking for a high-performance, industrial-grade Artificial Intelligence (AI) solution that could successfully function in harsh environments. The customer needed an automated solution to help identify certain materials on the recycling line.",
+      "sourceUrl": null,
+      "webUrl": "https://www.manufacturingtomorrow.com/article/2021/07/industrial-ai-and-robotics-controller-system-in-waste-recycle-industry/17201",
+      "originalUrl": "https://www.manufacturingtomorrow.com/article/2021/07/industrial-ai-and-robotics-controller-system-in-waste-recycle-industry/17201",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.manufacturingtomorrow.com/images/articles/17201.jpg",
+          "width": 680,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "manufacturingtomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1115,57 +1119,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-15-how-ai-can-create-meaningful-change-in-traditional-industries.md",
-      "title": "How AI Can Create Meaningful Change In Traditional Industries",
-      "excerpt": "Yet currently, multiple multitrillion-dollar industries such as retail, supply chain, food and energy have critical workflows and decision-making processes that rely on Excel spreadsheets or literal pen and paper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/",
-      "publishedDateTime": "2021-07-15T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-15-kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform.md",
       "title": "Kenya’s AIfluence closes $1M for its AI-powered influencer marketing platform",
       "excerpt": "Influencer marketing is one of the fastest-growing and one of the most impactful media channels today. There’s a growing ad-blocking movement and key demographics are spending less time in front of TVs.",
@@ -1215,6 +1168,49 @@
       "topics": [
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-rajnath-singh-launches-artificial-intelligence-based-grievance-analysis-app.md",
+      "title": "Rajnath Singh Launches Artificial Intelligence-Based Grievance Analysis App",
+      "excerpt": "With the launch of an artificial intelligence (AI) based grievance analysis application called CPGRAMS, Defence Minister Rajnath Singh on Thursday said the country is moving towards citizen-centric reforms with scientific knowledge and technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325",
+      "originalUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-12/al8qqheo_rajnath-singh-650_625x300_30_December_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-07-15T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

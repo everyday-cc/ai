@@ -27,40 +27,70 @@ images:
     isCached: true
 
 related:
-  - title: "GM Ventures Increases Funding In AI Vision Software Company Algolux"
-    excerpt: "Algolux, an AI software company based out of Quebec, has announced the closure of series B funding, raising $18.4 million to help accelerate market adoption of the company’s scalable computer vision and image optimization solutions."
-    publishedDateTime: 2021-07-12T21:05:00Z
-    webUrl: "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/"
-    ampWebUrl: "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/"
-    cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/"
+  - title: "How AI can help create more caring company cultures"
+    excerpt: "There are already at least three areas where artificial intelligence can easily support a more empathetic workplace environment."
+    publishedDateTime: 2021-07-13T12:01:00Z
+    webUrl: "https://qz.com/work/2031109/how-ai-can-help-create-a-more-caring-company-culture/"
+    ampWebUrl: "https://qz.com/work/2031109/how-ai-can-help-create-a-more-caring-company-culture/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/work/2031109/how-ai-can-help-create-a-more-caring-company-culture/amp/"
     type: article
     provider:
-      name: GM Authority
-      domain: gmauthority.com
+      name: Quartz
+      domain: qz.com
+    quality: 87
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2021/07/Robot.jpeg?quality=75&strip=all&w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How AI Can Create Meaningful Change In Traditional Industries"
+    excerpt: "Yet currently, multiple multitrillion-dollar industries such as retail, supply chain, food and energy have critical workflows and decision-making processes that rely on Excel spreadsheets or literal pen and paper."
+    publishedDateTime: 2021-07-15T11:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How Artificial Intelligence Is Fighting Wildfires"
+    excerpt: "A lab at the University of California, San Diego, uses data to figure out how fires will burn, and how to help prevent them."
+    publishedDateTime: 2021-07-15T12:55:00Z
+    webUrl: "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 87
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/15/multimedia/15californiatoday-fire-b/merlin_190627797_498e5dd5-d350-4676-9c87-862a283f469c-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "AI Can Compute Protein Structures in 10 Minutes"
+    excerpt: "Scientists have waited months for access to high-accuracy protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
+    publishedDateTime: 2021-07-16T08:07:00Z
+    webUrl: "https://www.technologynetworks.com/proteomics/news/ai-can-compute-protein-structures-in-10-minutes-350927"
+    ampWebUrl: "https://www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
     quality: 59
     images:
-      - url: "https://gmauthority.com/blog/wp-content/uploads/2021/01/Cruise-Origin-Honda-Japan-autonomous-vehicle-mobility-service-MaaS-announcement-002-e1611168765981-1024x553.jpg"
-        width: 1024
-        height: 553
+      - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
+        width: 389
+        height: 389
         isCached: true
-  - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
-    excerpt: "Netradyne, a leader in artificial intelligence (AI) and edge computing focusing on driver and fleet safety, today announced a $150 million, Series C funding led by SoftBank Vision Fund 2 *, with participation from existing investors Point72 Ventures and M12."
-    publishedDateTime: 2021-07-15T16:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/netradyne-raises-150-million-in-series-c-funding-led-by-softbank-vision-fund-2-1030612357"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
-    excerpt: "Powered by AI and edge computing, Netradyne's Driveri® is an advanced vision-based driver recognition and fleet safety solution ... solution to capture the complete driving day with accurate object detection, event causality, and full visibility to ..."
-    publishedDateTime: 2021-07-15T17:48:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/netradyne-raises-150-million-in-series-c-funding-led-by-softbank-vision-fund-2/article_c208b668-4141-5411-8aed-8212f1f3ca56.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 15
 
 secured: "B3uq+uiywiOC/6O4E7wUfrbeyfYFxAOlbNbEcCzCmZx1JEEnRvJJru0j9IcweVQ1Bll0Rs1+p+EZkwo+DvAx3Zd+y8MN2aJbzrTZSDEBdTI9YCrWKpzcYcqMBnZd8pEQCkgUGD1HW6ab4bxLxGXOL4+LVg+UebFZpGO5HM5rL/jkClvYuuQ+zUSxmCO6TKw4va8FPt3NeeF24Pjgo9acV0ZOvvpzaAUmEiPboTtH4mG9lXElM3L2OCEX0oek75DJ7CDVK18+9jidKvDgWO7BLGN+5xstEbYVPdswCfT8QZm2dJyFb0Pu9X+XRcuJVRFmhllSO9x6LHePhvW6FqqT68ljELKVp1qtan9ZWkPcNGfayKTtxpRqBEzSrES4ryVNlXJdFwAaTvdTYheqyD/zIVBvMYga4bkpGAbfqZ93NzGsiB9CbjV40EOETKkXttEu15dTkQIV+3YT7+roJ7TV1gVHQBHPf9ZkywQakebI2NNSlwjUmUUXtwuW6uhIpenbJu6iM7wpNvR33u7o5T4XkQ==;G4W/ewvFoOmqfM6+UyPv2A=="
 ---

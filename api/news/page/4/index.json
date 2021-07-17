@@ -320,7 +320,7 @@
       "originalUrl": "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -854,6 +854,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-14-port-of-seattle-bans-facial-recognition-tech-by-law-enforcement-some-private-use-remains-permitted.md",
+      "title": "Port of Seattle bans facial recognition tech by law enforcement; some private use remains permitted",
+      "excerpt": "The Port of Seattle Commission voted Tuesday to ban the use of biometric technology for surveillance and security purposes by government and law enforcement on all its",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/",
+      "originalUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/true-630x420.jpeg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/",
+      "publishedDateTime": "2021-07-13T18:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-singapore-is-launching-a-50-million-program-to-advance-research-on-ai-and-cybersecurity.md",
       "title": "Singapore is launching a $50 million program to advance research on AI and cybersecurity",
       "excerpt": "The city-state will set up new communications testbeds in 5G and beyond-5G, support technology development and training, and build up a talent pool.",
@@ -988,49 +1040,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-port-of-seattle-permanently-bans-use-of-facial-recognition-at-sea-tac-airport.md",
-      "title": "Port of Seattle permanently bans use of facial recognition at Sea-Tac Airport",
-      "excerpt": "The Port of Seattle is enacting a first-of-its-kind permanent ban on the use of facial recognition for law enforcement, security, and surveillance purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/3032670/port-of-seattle-bans-facial-recognition-sea-tac-airport/",
-      "originalUrl": "https://mynorthwest.com/3032670/port-of-seattle-bans-facial-recognition-sea-tac-airport/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2021/07/facial-recognition-620-port-of-seattle.jpg",
-          "width": 620,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/3032670/port-of-seattle-bans-facial-recognition-sea-tac-airport/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3032670/port-of-seattle-bans-facial-recognition-sea-tac-airport/amp/",
-      "publishedDateTime": "2021-07-13T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },

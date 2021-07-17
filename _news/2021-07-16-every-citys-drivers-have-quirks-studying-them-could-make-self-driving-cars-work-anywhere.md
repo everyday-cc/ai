@@ -208,22 +208,6 @@ related:
       name: TripAdvisor
       domain: tripadvisor.com.au
     quality: 17
-  - title: "Elon Musk warns Tesla drivers to 'be paranoid' about safety and not rely too much on the assisted driving tech when using new Full Self-Driving 9 beta software"
-    excerpt: "Driving' 9 beta, which lets cars automatically obey lights and change lanes. But Elon Musk is telling owners to avoid becoming over-reliant on the assisted driving tech."
-    publishedDateTime: 2021-07-12T21:02:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9781459/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9781459/amp/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9781459/amp/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 15
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/07/12/21/45364507-0-image-a-54_1626121782996.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "From swerving into a median to narrowly missing poles, videos of Tesla’s latest Full Self-Driving update don’t inspire much confidence"
     excerpt: "Tesla interior Reuters Tesla launched the latest version of its Full Self-Driving beta after a long delay this month. Beta testers immediately started"
     publishedDateTime: 2021-07-14T20:01:00Z

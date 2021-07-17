@@ -194,22 +194,6 @@ related:
       name: TripAdvisor
       domain: tripadvisor.com.au
     quality: 17
-  - title: "Elon Musk warns Tesla drivers to 'be paranoid' about safety and not rely too much on the assisted driving tech when using new Full Self-Driving 9 beta software"
-    excerpt: "Driving' 9 beta, which lets cars automatically obey lights and change lanes. But Elon Musk is telling owners to avoid becoming over-reliant on the assisted driving tech."
-    publishedDateTime: 2021-07-12T21:02:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9781459/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9781459/amp/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9781459/amp/Elon-Musk-warns-Tesla-drivers-paranoid-safety-using-new-Self-Driving-9-beta.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 15
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/07/12/21/45364507-0-image-a-54_1626121782996.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Every city's drivers have quirks. Studying them could make self-driving cars work anywhere"
     excerpt: "To understand why it's so hard to make a car that drives itself, pay attention to how people cross the street next time you travel. In Los Angeles, pedestrians wait"
     publishedDateTime: 2021-07-16T08:15:00Z

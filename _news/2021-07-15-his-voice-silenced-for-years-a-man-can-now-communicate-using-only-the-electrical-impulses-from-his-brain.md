@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "Device taps brain waves to help paralyzed man communicate"
-    excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm – they imagine moving and those brain signals are ..."
-    publishedDateTime: 2021-07-15T14:43:00Z
-    webUrl: "https://www.detroitnews.com/story/life/wellness/2021/07/14/device-taps-brain-waves-help-paralyzed-man-communicate/7972100002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7972100002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7972100002"
+    excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
+    publishedDateTime: 2021-07-14T21:21:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
+      name: ABCNews
+      domain: abcnews.go.com
     quality: 59
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/14/PDTN/2f852cab-474d-48cd-a151-8206c46ffb92-AP21194673044247.jpg?auto=webp&crop=1023,575,x1,y64&format=pjpg&width=1200"
-        width: 1200
-        height: 674
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Researchers Harness Brain Waves of Paralyzed Man to Communicate With Him"
     excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a computer screen."

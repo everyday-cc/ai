@@ -72,9 +72,9 @@ related:
         height: 576
         isCached: true
   - title: "DeepMind’s AI for protein structure is coming to the masses"
-    excerpt: "Machine-learning systems from the company and from a rival academic group are now open-source and freely accessible."
+    excerpt: "Machine-learning systems from the company and from a rival academic group are now open source and freely accessible."
     publishedDateTime: 2021-07-15T18:05:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-01968-y"
+    webUrl: "https://www.nature.com/articles/d41586-021-01968-y?mc_cid=efb1e46707&mc_eid=d9c3f4eff9"
     type: article
     provider:
       name: Nature

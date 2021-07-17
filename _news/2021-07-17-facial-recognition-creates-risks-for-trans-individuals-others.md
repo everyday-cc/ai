@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/products/facial-recognition-creates-risks-fo
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others?_amp=true"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Iveda updates mobile app for real-time facial recognition, LPR"
-    excerpt: "An IvedaMobile-enabled mobile device can also carry out functions such as real-time facial recognition checks for access control, VIP greetings."
-    publishedDateTime: 2021-07-12T22:13:00Z
-    webUrl: "https://www.biometricupdate.com/202107/iveda-updates-mobile-app-for-real-time-facial-recognition-lpr"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/03130436/smartphone-biometrics.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Study: Facial recognition for e-voting not currently recommended"
     excerpt: "Adding facial recognition technology to e-voting is feasible but there are additional risks that may not outweigh the benefits, a study by the State Information Systems Authority (RIA) and Cybernetica has found."
     publishedDateTime: 2021-07-15T07:07:00Z

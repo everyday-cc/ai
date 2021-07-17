@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2018/02/01/google-ceo-sundar-pichai-ai-is-m
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html"
 type: article
 quality: 187
-heat: 217
+heat: 207
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "AI will have a bigger impact than fire, says Google boss Sundar Pichai"
-    excerpt: "Artificial intelligence will have a more profound impact on humanity than fire, electricity and the internet, the head of Google has declared.Sundar Pichai, chief executive of the tech company"
-    publishedDateTime: 2021-07-12T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/ai-will-have-a-bigger-impact-than-fire-says-google-boss-sundar-pichai-rk8bdst7r"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 37
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7313e248-e34b-11eb-afdb-c7b01afbcfc5.jpg?crop=5211%2C2931%2C141%2C0&resize=685"
-        width: 685
-        height: 385
         isCached: true
 
 secured: "kximzxd/Y+2qWipXLz7ZBpsZPJUlkoCSU9Q2i3xlIo4dzl8Jo8G8IPG+1Z2IG7br1xTRSo3PVp2v17/zzYuMwGOXAoDcCvjLaRXBEfKhuqO0mjggWVUEMf5l7lOCqu+sMsY27CDcgBUE2rZwFnx19VRZ9+ov4YwSMTFJYEzSLJhRL8eaoYDm8A2argzGDoaojGY80lRe7sVAFq6N6BOKgRv7y3OMfwVSq76uMKdMY/DNJwk2H3maQAzMldtTI8fVZlUq6Fu//3Utg7SdLTBpNu+vWkejSNiX4lV6e3BhoAGzLD36lamSXk8vaO1z+qLZBW7oKiYP14o82mncIKdqbtXiAcldmN/Ruh4zNb06yXcrPZG1U9CYDvlcD0CfnI8GSKL5RYNXENw4Xf2bsIg75WUvRCdNGKaRrLSufOF93+n3wUF1gHardTWNbB37lNZzthVIDY9Pcnj8roYL95Uejcj2YFc/Cu5GDHt5rulPyCdjjVT/L8NNXuvrwj4M2GaAmJlVs0gDsP0cCw41yfOXRJFdywWbfV5Nks1KHoHYpEc=;GxljGgYMq3qOqCC8/5Dw0w=="

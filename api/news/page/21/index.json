@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-06-30-tyson-co-leads-10m-investment-round-for-ai-powered-robotics-startup.md",
+      "title": "Tyson Co-Leads $10M Investment Round for AI-Powered Robotics Startup",
+      "excerpt": "Tyson's venture capital arm helped raise the funds for food robotics firm Soft Robotics, which makes soft-grasping robots with the hand-eye coordination of humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.manufacturing.net/home/news/21533410/tyson-coleads-10m-investment-round-for-aipowered-robotics-startup",
+      "originalUrl": "https://www.manufacturing.net/home/news/21533410/tyson-coleads-10m-investment-round-for-aipowered-robotics-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2021/06/16x9/dfgadsf.60dc88e43c875.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1146,
+          "height": 644,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "manufacturing.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes.md",
       "title": "Lollipop AI launches online grocery marketplace where you can build your own recipes",
       "excerpt": "As I’ve taken to online grocery shopping over the pandemic, I’ve always wondered by supermarkets didn’t offer simple ‘recipe’ features would have automatically collected up items for a homemade meal,",
@@ -1137,58 +1180,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-augtera-networks-raises-13m-to-apply-ai-to-networking.md",
-      "title": "Augtera Networks raises $13M to apply AI to networking",
-      "excerpt": "Augtera, a startup developing an \"AI-augmented\" networking analytics platform, has raised $13 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/",
-      "originalUrl": "https://venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/12/broadband_speed_lights-e1624418067436.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/amp/",
-      "publishedDateTime": "2021-06-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

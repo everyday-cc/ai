@@ -65,6 +65,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI Governance Market Overview 2021: By Market Size, Industry Growth, Market Trends and Global Opportunities Forecast to 2026"
+    excerpt: "This report aims to estimate the “AI Governance Market” for 2021 and to project the expected demand by 2026. This"
+    publishedDateTime: 2021-07-16T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-overview-2021-by-market-size-industry-growth-market-trends-and-global-opportunities-forecast-to-2026-2021-07-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market Share, Opportunities, Future Trends, Top Key Players and Analysis by Forecast to 2027"
     excerpt: "Global Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million"
     publishedDateTime: 2021-07-14T07:42:00Z

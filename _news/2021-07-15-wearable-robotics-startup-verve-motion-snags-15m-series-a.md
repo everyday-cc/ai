@@ -7,8 +7,8 @@ originalUrl: "https://www.tmcnet.com/usubmit/-wearable-robotics-startup-verve-mo
 webUrl: "https://www.tmcnet.com/usubmit/-wearable-robotics-startup-verve-motion-snags-15m-series-/2021/07/15/9410288.htm"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: TMCnet
@@ -34,6 +34,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 46
+  - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
+    excerpt: "Netradyne, a leader in artificial intelligence (AI) and edge computing focusing on driver and fleet safety, today announced a $150 million, Series C funding led by SoftBank Vision Fund 2 *, with participation from existing investors Point72 Ventures and M12."
+    publishedDateTime: 2021-07-15T16:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/netradyne-raises-150-million-in-series-c-funding-led-by-softbank-vision-fund-2-1030612357"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
 
 secured: "0K818lDBiu9Y8b+VYBRizP7OjzJ4ZFaDTbBybh8LagkWAkJOueM54cIxkHvvkJA0zuTrxEDGJiTGSkHTb04fHK3lZhjzdK0X/083PNMlwN58MPf6Adx2B3HaIzyfBPbRh2cyocdAhya+rjQ/LlaRgaZu/XSx0+8GnJFn/GoUVQhogmZdpwTdRtmxi+HwoIInQtE3YXM00JeUKNQAw2YVIBB9jbXkZWfULItWyGM/Gtb/lKv4h4Xd27ARr2+Dll5CoCYOoCxvRGPckZSU8cZpq0yL29JbjREFOVEhR/jM4Enxe/FRNHeZxy/nIhD/wnaiJQHhSzN5Z1zOrrMg1kwoEZCeaxp6vJdmv64YkZsf7L4UGeEgCq1OORVr972zYFq8VMCSPH5NCiGye5hW9qtkqnHzbqZxbVNfvymyKhd5q3675gBKespRQlQFvyWE35aaee7TblVHsJf5m/Jrk7HETdrwwOo9REguIIB9lNGvxgkgDUnT2Y7XruA9B/CCK80M96v5x7kPiFDQ7jC2rNGFNQ==;4QLqJTFA43z/ALw6slYNPg=="
 ---
