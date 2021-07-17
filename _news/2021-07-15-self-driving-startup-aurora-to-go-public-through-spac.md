@@ -3,8 +3,8 @@ category: news
 title: "Self-Driving Startup Aurora to Go Public Through SPAC"
 excerpt: "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc."
 publishedDateTime: 2021-07-15T16:53:00Z
-originalUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629?mod=newsviewer_click"
+originalUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
+webUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
 ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
 type: article
@@ -256,6 +256,6 @@ related:
         height: 630
         isCached: true
 
-secured: "IX4BRX4G0oIs+I1SyVvf2SBcXAHDu3r6ePFFPcxR9EHjnp3Gh7UxvxOIprlC+GbErAO6TW1TfCH8G3xbas4kfiHNvspsb7Eby13/j0slYyYhSIMJd34ZXtW3A7JAu/4VByDmO+vtCP4epswfbjei0NytHo8gQwXhEIUdh0bg/X2AtAV0+O8tER0ylZV2YkMbd8LqUdz3x6qlUq5Wx4IjLHe6OEYe/yZM3FdcaisXmpFeUnpcnD1xIa9qC8u4Vf4hVeVT94jlLKyKWGAVgecqDBXlYzxrfjloosfzANz4gL3mrM7ypm1W8C2h1Fe0hf+dgNzJI+sQUcshNZ85Q3O4MwxKWGShieXScxUoCUn+Ccw=;HyfX0Rmgw0wu234OlE1uYQ=="
+secured: "DX1qgTlwviiOTmZf4ybJS8y37x9NvzbHcGBf51TkRsZoKc/jH2rMjOivsxrT2I/DYp2pv79HiX/nIxL/koIvy0ZQYLKOA0fVILjKEFN06guE+bmlUmBTknBVyFnL5BbfVVlROjGGiFXtaGrWWCe2S+SsaC2K8qYLuOZQ1g27mTWUW52wnG1KsMVQJdsy8L3J0WmjWgqB+PSV4Nt7b6Rk5UQQcJppJV9of4p2Xfe92s9o20jow5inQRe8lxxaP1VHkJz79C41VeBMmnXRV6qDXJIzCjNuYnYCyknWaSHVKHO1KANpOUuFkmGNVREzewVDd+ureLizkt1dNH2/30pwBtDNEVG7bAKINQov9DQaO+8=;Dy8r1JA4TbbF6w+25Okczg=="
 ---
 

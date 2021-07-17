@@ -87,8 +87,8 @@ related:
         isCached: true
   - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
     excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
-    publishedDateTime: 2021-07-14T08:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
+    publishedDateTime: 2021-07-14T04:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
     type: article
     provider:
       name: Business Insider
@@ -98,22 +98,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Artificial Intelligence as a Service Market May Set Epic Growth Story | Google, IBM, Microsoft"
-    excerpt: "Global Artificial Intelligence as a Service Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ..."
-    publishedDateTime: 2021-07-13T00:00:00Z
-    webUrl: "https://www.openpr.com/news/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 62
-    images:
-      - url: "https://cdn.openpr.com/U/7/U713219379_g.jpg"
-        width: 450
-        height: 300
         isCached: true
   - title: "NEC, Microsoft to Collaborate on Cloud, Edge, AI, IoT and Private 5G"
     excerpt: "Microsoft and NEC announced a new multi-year strategic partnership, where the companies will leverage Microsoft Azure"
@@ -226,15 +210,6 @@ related:
         width: 2699
         height: 1414
         isCached: true
-  - title: "Kwik Lok adds Microsoft executive to board"
-    excerpt: "Jeff’s addition to Kwik Lok’s board of directors brings many opportunities to expand our innovation, collaboration and technology initiatives,” Kimberly Paxton-Hagner, Kwik Lok board chairwoman, said in a news release."
-    publishedDateTime: 2021-07-12T23:08:00Z
-    webUrl: "https://www.thepacker.com/news/people/kwik-lok-adds-microsoft-executive-board"
-    type: article
-    provider:
-      name: The Packer
-      domain: thepacker.com
-    quality: 19
 
 secured: "e4rUuxpIg3H4nIK9e/RO6TK3ujtnGsKsAFWJMQUndcxCYTjaGMIuLW1feJ92D1mykYOeV/qBpvArWqX3bAuLyJ4TujU4wOUbhkfo3L6vlC7F+z253J4xelr3qUwUqaZx2K82Uqdygaax/41m2SBUqrX5z4hFAzEIGRtArT3a2fQzYp0gfLtcG39Nts/BNlSPmvdz4afjAOpD7PcPL61M+slWK9sS8cvUybtaGfruBQ1aaq2jnoz7PZ5DGISW992wjlUFgVFH7omGYSh+wR5hR1hFEqH3uVA0mp1XL/91Ctpi1MhR9wtChkebhNaDrhFzl1gGYfFmPxn0iVjzaplGQ75SPCdGT7xIhT6xb9ybNCXVxfv1G/VpTo41k40O/BR2Bkay+sDO2+4s6tRY2jI8r8JPWM4CORm6IiFJ6oGoR0ZFci+Qwg+14RSYNZdtpKWdOw1iu3xaWjDFktGXhGSBtj3nVhn/CE2lCZsAfp5uQ8ZbZnV1dh8fHC412KZglyAvr1tDtah3cXRVg6eYljRjmQ==;lROykllJXW0fO7d8xEt0QQ=="
 ---

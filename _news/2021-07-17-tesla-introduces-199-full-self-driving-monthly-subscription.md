@@ -1,22 +1,32 @@
 ---
 category: news
-title: "Upcoming trip for no vaccinated Americans(self driving) - Switzerland Forum"
-excerpt: "So me and 2 friends are planning a self driving trip for September 2-13th. Landing in Zurich and just visiting various mountains towns. Basically just sightseeing/eating and exploring etc. we aren’t vaccinated."
-publishedDateTime: 2021-07-17T09:26:00Z
-originalUrl: "https://www.tripadvisor.com.au/ShowTopic-g188045-i336-k13612099-Upcoming_trip_for_no_vaccinated_Americans_self_driving-Switzerland.html"
-webUrl: "https://www.tripadvisor.com.au/ShowTopic-g188045-i336-k13612099-Upcoming_trip_for_no_vaccinated_Americans_self_driving-Switzerland.html"
+title: "Tesla Introduces $199 Full Self-Driving Monthly Subscription"
+excerpt: "Tesla has introduced a subscription offering that allows its customers to use its Full Self-Driving (FSD) autonomous driving software in supported vehicles in exchange for $199 per month. Electrek reported that Tesla customers who purchased the Enhanced Autopilot package—which the company no longer offers—will be able to subscribe to FSD for $99 per month instead."
+publishedDateTime: 2021-07-17T16:40:00Z
+originalUrl: "https://in.pcmag.com/cars-auto/143779/tesla-introduces-199-full-self-driving-monthly-subscription"
+webUrl: "https://in.pcmag.com/cars-auto/143779/tesla-introduces-199-full-self-driving-monthly-subscription"
 type: article
-quality: 17
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: TripAdvisor
-  domain: tripadvisor.com.au
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://sm.pcmag.com/t/pcmag_in/news/t/tesla-intr/tesla-introduces-199-full-self-driving-monthly-subscription_ch5r.1200.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Tesla issues stark warning to drivers using its Full Self-Driving mode"
@@ -98,20 +108,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f196f7d4f6705300ca741c%2F0x0.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla Introduces $199 Full Self-Driving Monthly Subscription"
-    excerpt: "Tesla has introduced a subscription offering that allows its customers to use its Full Self-Driving (FSD) autonomous driving software in supported vehicles in exchange for $199 per month. Electrek reported that Tesla customers who purchased the Enhanced Autopilot package—which the company no longer offers—will be able to subscribe to FSD for $99 per month instead."
-    publishedDateTime: 2021-07-17T16:40:00Z
-    webUrl: "https://in.pcmag.com/cars-auto/143779/tesla-introduces-199-full-self-driving-monthly-subscription"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/t/tesla-intr/tesla-introduces-199-full-self-driving-monthly-subscription_ch5r.1200.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Tesla issues critical warning alongside self-driving software update"
     excerpt: "Tesla is rolling out a new update that will make its cars even more autonomous than normal. But the electric car company has also issued a warning to go with it. It says the software ‘may do the wrong thing at the worst time’ and cautions drivers to ‘always keep your hands on the wheel and pay extra attention to the road."
@@ -207,6 +203,15 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Upcoming trip for no vaccinated Americans(self driving) - Switzerland Forum"
+    excerpt: "So me and 2 friends are planning a self driving trip for September 2-13th. Landing in Zurich and just visiting various mountains towns. Basically just sightseeing/eating and exploring etc. we aren’t vaccinated."
+    publishedDateTime: 2021-07-17T09:26:00Z
+    webUrl: "https://www.tripadvisor.com.au/ShowTopic-g188045-i336-k13612099-Upcoming_trip_for_no_vaccinated_Americans_self_driving-Switzerland.html"
+    type: article
+    provider:
+      name: TripAdvisor
+      domain: tripadvisor.com.au
+    quality: 17
   - title: "Every city's drivers have quirks. Studying them could make self-driving cars work anywhere"
     excerpt: "To understand why it's so hard to make a car that drives itself, pay attention to how people cross the street next time you travel. In Los Angeles, pedestrians wait"
     publishedDateTime: 2021-07-16T08:15:00Z
@@ -245,6 +250,6 @@ related:
       domain: detroitnews.com
     quality: 4
 
-secured: "psZd6SQahvf973Jtl3x0ug+w1m0WmZXyl/4Xc+lbSYnbK6zIZO83SNseq+MXJK3hbziWkCxc5hGaQnzeIAv1uNKRsUBHCjaGbKLW0NK72niKouR559mu1VPGCENI0ujLIOLtCcAjdyXiQMsU9faLhCYJw1X4de+PJfoQQ0Vm44/YEmqnKSMQcWxqvb6G7cxrhuqURKNGlblY097Bz237S6STGHt8PF5kyNjW6lIpa2yUBXsQh6riFyZ14nzd832I3mLRyZ89qPq8ruCFQ+Saq77+HQH7f4ad5eXhT4HUo+xYPz4xe++B/J8l1i9NztXG1L29yzuemXE57iNkpDeoLFxdAxMJQwF9jik6yMTh3Vk=;udF11h1SL+2L5FetuxU2eA=="
+secured: "KXwm4wlOcl/++npiowCM8VFieQva+gxKqy2X4dJQigdLjb/8VtYytWE4YF2ma24LL6521Z4SPGG1kj7C47HLIEm6aD/BQ3x54/lD3QbdgVurbfXMUtBUiZqZLE9V/ZGkJoY2YuTjL/cpbn7m8d5iOa7zYDhKixg2pZAmlgTk4nub9NFRGDzsxhavuB4p97yzSD7UL7CcUh05pQLWkdaEdNCdtxeV/6na6DwxE3vU2x/ZXUoGHZVqMlg9KhRQmXUj9XWswyMHU0+Rg/hmhOBLSNGCffW19siQhalxCCVTLZQQXqhLrEVWkKXkhdGNZizP5OfJzXUaKUWo0WL7EiR7RTbc4DR0QjXgjAUMbRNWDZM=;/uGRM8RKO9c3t/tElgaLYQ=="
 ---
 

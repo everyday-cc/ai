@@ -3,8 +3,8 @@ category: news
 title: "DeepMind’s AI for protein structure is coming to the masses"
 excerpt: "Machine-learning systems from the company and from a rival academic group are now open source and freely accessible."
 publishedDateTime: 2021-07-15T18:05:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-01968-y?mc_cid=efb1e46707&mc_eid=d9c3f4eff9"
-webUrl: "https://www.nature.com/articles/d41586-021-01968-y?mc_cid=efb1e46707&mc_eid=d9c3f4eff9"
+originalUrl: "https://www.nature.com/articles/d41586-021-01968-y"
+webUrl: "https://www.nature.com/articles/d41586-021-01968-y"
 type: article
 quality: 54
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: nature.com
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01968-y/d41586-021-01968-y_19363650.jpg"
@@ -114,6 +114,6 @@ related:
         height: 946
         isCached: true
 
-secured: "zhbhdIHKm9DUklHM7u5CaZXJcTuiUuv+rt088bbAl72n+0tu46PniMb/PgSBzvjjNNCn2JiyluGdqFEqv8QSUNIvaESXMMRFHcUymqt3UIRtySqSAHUH+/9Ha5cTX8UELGe/UAEexayFoXJJORthkwuZja/Zlc+J7Mm2HUQTLwwnZHpzz9IgaGU18xHf0PnQflhj83fOKA9yp9blZ4HBOinIO2/QMR1PkNX/QaRM2XNxAnRHnSOGHBQ4U3XQMyaiNprTHgKz461VY51l+uJlpnA3dDQF4mhFs2TAnnAoIqWW7Ekib9W89y5MzBX/r6jpJhhgh2t8nCZ3i78/pARI3ldzyMy7fgstGxMXkL9efKw=;9phuYC0i6PJRIZGri96KBA=="
+secured: "yfaf3kQoGTQmZHbAhPWinIjr/eHR8dCzoOPyoGs870I1n3ByWYq6e9mhKWteJd20CIagOd0ULV2gkffN9ROvxzJhiDgdnLxOZNeLrWFscKjFAiFcY1Kl4zsqxvGtfxHgkoH/D7pWabcuxx8HCRzMsdFnqMgZqROBwy9ZfxR70za9CiZS1HIuP1z+7xysGtcoss3qa5QpS8WhTGXBejcQkOq6flOi+sPWXOCNr42httaEpQSJ8wJzJs084spjuAedDhLJkCUyu2uMKXEtTwilxCTjbg28RSM72uNEqbHjZ8fZYxkxV92zhUHMNfNrG0FlzkMfZRoIh5RRshHgsp6c1ElApCQL9Ayv5FjDJVKOkiI=;cRuwNwYKi+gA7O9QSysZ2Q=="
 ---
 

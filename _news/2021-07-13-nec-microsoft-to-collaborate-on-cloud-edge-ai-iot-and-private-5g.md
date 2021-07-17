@@ -87,8 +87,8 @@ related:
         isCached: true
   - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
     excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
-    publishedDateTime: 2021-07-14T08:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
+    publishedDateTime: 2021-07-14T04:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
     type: article
     provider:
       name: Business Insider
@@ -98,22 +98,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Artificial Intelligence as a Service Market May Set Epic Growth Story | Google, IBM, Microsoft"
-    excerpt: "Global Artificial Intelligence as a Service Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ..."
-    publishedDateTime: 2021-07-13T00:00:00Z
-    webUrl: "https://www.openpr.com/news/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2326738/artificial-intelligence-as-a-service-market-may-set-epic-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 62
-    images:
-      - url: "https://cdn.openpr.com/U/7/U713219379_g.jpg"
-        width: 450
-        height: 300
         isCached: true
   - title: "Microsoft Launches 'Inside Azure for IT' Learning Portal"
     excerpt: "Microsoft on Monday announced the launch of Inside Azure for IT, a new learning site \"for cloud professionals of all skill levels.\" Inside Azure for IT contains links to so-called \"fireside chats ..."
@@ -226,15 +210,6 @@ related:
         width: 2699
         height: 1414
         isCached: true
-  - title: "Kwik Lok adds Microsoft executive to board"
-    excerpt: "Jeff’s addition to Kwik Lok’s board of directors brings many opportunities to expand our innovation, collaboration and technology initiatives,” Kimberly Paxton-Hagner, Kwik Lok board chairwoman, said in a news release."
-    publishedDateTime: 2021-07-12T23:08:00Z
-    webUrl: "https://www.thepacker.com/news/people/kwik-lok-adds-microsoft-executive-board"
-    type: article
-    provider:
-      name: The Packer
-      domain: thepacker.com
-    quality: 19
 
 secured: "6F0F8O2PMOHxEak3mdylGVmiQOahIw7gTRyJgIhakhRshTapnx4lEBq2W+Z2NQFB6zCd9sU13fcnvNJAkmOh73ZoJKosNKF+6h+yfaFsl0A8fn/WWPiMXkexkHmjC0S7rj1yP3w+x6AsBlHq4W4R43kHkphb4yTjxxRMnwQeuZNzdDoO85Gxsdo0abv3tgAR8CMm+2Ck51iZ2HfzR+ZSHizDdG6VXUirevecq2sIuH7o/cvd6+2VR2h4yH1cWnHFa7unyksDfFRituePZnngmf46ZM4ZidWo8q5k5IvbcJfi2pd/Q2nVvn2jUTXDlLGzY8EFrM7QTrUdx03ChI0xNK06OeZPuhTbkIDK2bMGqDC0SMUtsHtat4K76mWy8dJN4n1gUKSp9K1oAAFvsJngnOB0EVVBQiFrKX0MWGM4dbP74ehJk3y1SH9Z3MjOiG4QD4OgDjUh6qVteMmvvOZpT35T3rnVgtWapBoqL7OKLa1QdwnzDFGFEJXFIrxuqH5E1Xl/jfHNEG5oxxVasBcxKQ==;dDhs1Xhpb5PYB+n06VAQcA=="
 ---

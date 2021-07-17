@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-dri
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/?amp"
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f196f7d4f6705300ca741c%2F0x0.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tesla Introduces $199 Full Self-Driving Monthly Subscription"
+    excerpt: "Tesla has introduced a subscription offering that allows its customers to use its Full Self-Driving (FSD) autonomous driving software in supported vehicles in exchange for $199 per month. Electrek reported that Tesla customers who purchased the Enhanced Autopilot package—which the company no longer offers—will be able to subscribe to FSD for $99 per month instead."
+    publishedDateTime: 2021-07-17T16:40:00Z
+    webUrl: "https://in.pcmag.com/cars-auto/143779/tesla-introduces-199-full-self-driving-monthly-subscription"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/t/tesla-intr/tesla-introduces-199-full-self-driving-monthly-subscription_ch5r.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Tesla issues critical warning alongside self-driving software update"
     excerpt: "Tesla is rolling out a new update that will make its cars even more autonomous than normal. But the electric car company has also issued a warning to go with it. It says the software ‘may do the wrong thing at the worst time’ and cautions drivers to ‘always keep your hands on the wheel and pay extra attention to the road."
