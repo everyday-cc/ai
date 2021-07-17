@@ -36,7 +36,7 @@ related:
     provider:
       name: Le Lézard
       domain: lelezard.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640

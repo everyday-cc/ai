@@ -283,6 +283,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-13-execs-from-mastercard-paypal-and-goldman-sachs-discuss-major-ai-trends-in-the-finance-industry-at-transform-2021.md",
+      "title": "Execs from MasterCard, PayPal, and Goldman Sachs discuss major AI trends in the finance industry at Transform 2021",
+      "excerpt": "At Transform, panelists discuss how AI is being used in security, fraud detection, identity, personalization, and internal efficiencies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/12/execs-from-mastercard-paypal-and-goldman-sachs-discuss-major-ai-trends-in-the-finance-industry-at-transform-2021/",
+      "originalUrl": "https://venturebeat.com/2021/07/12/execs-from-mastercard-paypal-and-goldman-sachs-discuss-major-ai-trends-in-the-finance-industry-at-transform-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-11-at-9.12.15-AM.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/12/execs-from-mastercard-paypal-and-goldman-sachs-discuss-major-ai-trends-in-the-finance-industry-at-transform-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/execs-from-mastercard-paypal-and-goldman-sachs-discuss-major-ai-trends-in-the-finance-industry-at-transform-2021/amp/",
+      "publishedDateTime": "2021-07-12T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-learn-about-machine-learning-through-the-lens-of-a-hedge-fund.md",
       "title": "Learn About Machine Learning Through The Lens Of A Hedge Fund",
       "excerpt": "Artificial intelligence is widely discussed in CIO conversations down to IT resourcing meetings in companies today. There is a range of topics that enterprises are involved in from research to novel applications and enterprise product usage.",
@@ -1319,40 +1371,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration.md",
-      "title": "\"AIZEN,\" Winner of MAS FinTech Awards, Offers Banking Services through AI-Based Data Integration",
-      "excerpt": "AIZEN, which ranked second in the Global Category of MAS FinTech Awards 2020 (Singapore FinTech Festival, MAS FinTech Awards) alongside Swiss Re (insurance) and BNY Mellon (banking), announced that it would provide banking-as-a-service to the Southeast Asian market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aizen-winner-mas-fintech-awards-offers-banking-services-/2021/06/24/9397813.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aizen-winner-mas-fintech-awards-offers-banking-services-/2021/06/24/9397813.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

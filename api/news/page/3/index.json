@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-15-rajnath-singh-launches-artificial-intelligence-based-grievance-analysis-app.md",
+      "title": "Rajnath Singh Launches Artificial Intelligence-Based Grievance Analysis App",
+      "excerpt": "With the launch of an artificial intelligence (AI) based grievance analysis application called CPGRAMS, Defence Minister Rajnath Singh on Thursday said the country is moving towards citizen-centric reforms with scientific knowledge and technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325",
+      "originalUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-12/al8qqheo_rajnath-singh-650_625x300_30_December_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-07-15T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-tecno-camon-17-17-pro-launched-in-india-with-90hz-displays-and-mediatek-chips.md",
       "title": "TECNO CAMON 17, 17 Pro launched in India with 90Hz displays and MediaTek chips",
       "excerpt": "TECNO has officially debuted the TECNO CAMON 17 series in India. The brand has introduced two models for the country, namely TECNO CAMON 17 and TECNO CAMON 17 Pro. These phones offer high refresh rate displays,",
@@ -445,6 +488,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-15-toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech.md",
+      "title": "Toyota buys U.S. mapping, road data firm to bulk up driverless tech",
+      "excerpt": "Woven Planet was established in January to invest in and develop mobility with artificial intelligence ... and non-traditional car making such as driverless and electric technology, Toyota ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/toyota-buys-us-mapping-road-data-firm-bulk-up-driverless-tech-2021-07-14/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/toyota-buys-us-mapping-road-data-firm-bulk-up-driverless-tech-2021-07-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/xPGUCumVUqQYv5QVMbKEmMU-4Ss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HPQGDJ4HBZOIBIW32UPIKHAYZI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-global-self-driving-wheelchair-market-2021-emerging-technologies-opportunity-assessment-projections-and-future-opportunities-by-2026.md",
       "title": "Global Self Driving Wheelchair Market 2021 Emerging Technologies, Opportunity Assessment, Projections and Future Opportunities by 2026",
       "excerpt": "MarketQuest.biz has published another latest research report on Global Self Driving Wheelchair Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 that encapsulates vital details about the market current as well as future status during the mentioned forecast period of 2026.",
@@ -536,6 +631,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-toyotas-woven-planet-acquires-hd-mapping-startup-carmera.md",
+      "title": "Toyota’s Woven Planet acquires HD mapping startup Carmera",
+      "excerpt": "Woven Planet Holdings — an entity created by Toyota to invest in, develop and eventually bring future of transportation technologies like automated driving to market — has acquired HD mapping startup Carmera for an undisclosed amount.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/",
+      "originalUrl": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/Cobra_Tokyo_PoC_animated.gif",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/amp/",
+      "publishedDateTime": "2021-07-14T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -926,6 +1073,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-15-artificial-intelligence-will-soon-be-assisting-your-platform-migrations.md",
+      "title": "Artificial intelligence will soon be assisting your platform migrations",
+      "excerpt": "Along with creating new applications, AI for coding may also smooth the way for moving applications and systems to modern platforms. In a recent interview, Maja Vuković, an IBM Fellow at the company's Watson Research Center, explained how a client was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/",
+      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/14/102d659b-03cb-43f7-8488-0131d6cc9f1b/hands-typing-4.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/",
+      "publishedDateTime": "2021-07-14T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-deploy-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker.md",
       "title": "Deploy variational autoencoders for anomaly detection with TensorFlow Serving on Amazon SageMaker",
       "excerpt": "Anomaly detection is the process of identifying items, events, or occurrences that have different characteristics from the majority of the data. It has many applications in various fields, like fraud detection for credit cards, insurance, or healthcare; network intrusion detection for cybersecurity;",
@@ -1021,211 +1220,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-car-insurance-and-more-could-get-cheaper-and-a-lot-fairer-thanks-to-artificial-intelligence.md",
-      "title": "Car insurance and more could get cheaper (and, a lot fairer) thanks to artificial intelligence",
-      "excerpt": "TomTom has partnered with AI insurance startup Loop to offer coverage that weighs driving habits over demographics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/car-insurance-and-more-could-get-cheaper-and-a-lot-fairer-thanks-to-artificial-intelligence/",
-      "originalUrl": "https://www.techrepublic.com/article/car-insurance-and-more-could-get-cheaper-and-a-lot-fairer-thanks-to-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/16/2dfc1eba-a99d-4fe3-9894-aba5f4c2ad06/resize/1200x/b2c0f59b9f7186d9c7f47b0b98f51e59/cyber-insurance.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/car-insurance-and-more-could-get-cheaper-and-a-lot-fairer-thanks-to-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/car-insurance-and-more-could-get-cheaper-and-a-lot-fairer-thanks-to-artificial-intelligence/",
-      "publishedDateTime": "2021-07-14T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-aidoc-raises-over-66m-for-ai-radiology-analysis-technology.md",
-      "title": "Aidoc raises over $66M for AI radiology analysis technology",
-      "excerpt": "The biggest question facing Aidoc, or any other startup in the field of artificial intelligence, though, is whether it can convince hospitals and clinics to adopt an AI strategy in the first place.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/14/aidoc-raises-over-66m-for-ai-radiology-analysis-technology/",
-      "originalUrl": "https://techcrunch.com/2021/07/14/aidoc-raises-over-66m-for-ai-radiology-analysis-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-493216371.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/14/aidoc-raises-over-66m-for-ai-radiology-analysis-technology/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/14/aidoc-raises-over-66m-for-ai-radiology-analysis-technology/amp/",
-      "publishedDateTime": "2021-07-14T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-3-top-artificial-intelligence-stocks-to-buy-in-july.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in July",
-      "excerpt": "Artificial intelligence software can automate these new processes, and help companies keep up with the fast-changing world we live in. As a result, tech researcher Gartner expects global spending on \"hyperautomation\" (read: AI software and systems) to reach nearly $600 billion in 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
-      "originalUrl": "https://www.fool.com/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F633460%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
-      "publishedDateTime": "2021-07-14T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future.md",
-      "title": "Report: Computer vision adoption expected to grow significantly in the near future",
-      "excerpt": "An overwhelming 96% of respondents believe that computer vision has the potential to boost revenue, while 97% said these technologies will save their organization time and money, according to a new IDG study commissioned by Insight. While only 10% of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
-      "originalUrl": "https://www.techrepublic.com/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/14/b386c617-f485-4ea6-a15a-15f8aa2df175/resize/1200x/2951e8519179825379ff08f6d3e1bc9f/metamorworks-2.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
-      "publishedDateTime": "2021-07-14T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -1,23 +1,33 @@
 ---
 category: news
 title: "Computer Vision Has Potential to Radically Transform Industries, Insight and IDG Study Shows"
-excerpt: "Insight commissioned IDG to conduct a survey of 200 business and IT leaders to better understand the awareness, adoption and perceptions of computer vision (CV), a type of Artificial Intelligence (AI) technology that allows computers to understand and label images."
-publishedDateTime: 2021-07-13T13:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-computer-vision-has-potential-radically-transform-industries-insight-/2021/07/13/9407830.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-computer-vision-has-potential-radically-transform-industries-insight-/2021/07/13/9407830.htm"
+excerpt: "Insight commissioned IDG to conduct a survey of 200 business and IT leaders to better understand the awareness, adoption and perceptions of computer"
+publishedDateTime: 2021-07-13T13:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows-2021-07-13-9159038"
+webUrl: "https://www.marketwatch.com/press-release/computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows-2021-07-13-9159038"
 type: article
-quality: 8
-heat: 8
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "wVCzJAgK7fb+rX5AeEicT1zej6XgzyDSHvk2Ec1vlnX7UkO4SmlDCVDrz7f1/A6N3dIaldFyOCMuhoYdSaB4c7DbHbmy6Q/wZ/+C41eeSLhEl42e0PSwwUm2ntEi2XE/zrJ+q2u1IzfGGRKsuVp74y7zjjNRNU2K7h4qLA8Sxc371HvD9bfRoYZWGDsUPO1gRW5kXUooUY+fgm+hFYvnLHcCEFJUw6PBf1itzXZw9g9qhYLoMUtDUgsDoiUJ8XoDawJfnAQ9x0y2fbswI49zdVqzMTyTuuUx0jCx31b3yttA1GeFbAccQ13+1SAoXswxdNIc9yEdEgZaWBBvh1+KC8UD1fbAOWL12rb+WaknLGI=;xuTZREGhDeUf7nE5WLpppg=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "rzheyzbx5oDKk9R8pTN/HogNkzc9iFA2cMaxFZrp6NfMdAV/goBesA6gwCIUPJYw0o6XOMCyOYASM3tmBH9PcymL+KFgveluXK3N4iB/G+2mJ46Z4BgYObn+umzCtCc6AheQ7VxEeHKAVQEflgn4ls7OpdJHheYC5b2EeJP1BZ3IAzAzzCtuQIf6S/x8CUVaUGXD5TJojD7SfHRAPug+YFuUxIpm65J3b52Uf4iyUTEBLd/6OKqm34UiaMSrZ8Rja+8Rkoz8UD97qQiEDGKx997xzLvmuvErsXHvYVxfdmO0y4M6Nx8tOKYTy2UAIM+yZ+mDPzWaRlYC1Y9tJNmcYKuCdP1GriHxch2TSulL55o=;LDF+9WRVjrF0zZVBO9xRLw=="
 ---
 

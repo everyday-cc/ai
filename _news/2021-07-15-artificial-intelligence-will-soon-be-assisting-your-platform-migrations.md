@@ -1,14 +1,16 @@
 ---
 category: news
 title: "Artificial intelligence will soon be assisting your platform migrations"
-excerpt: "We as humans were not built to go and look through 1.5 million lines of code and understand what business functions are buried in there.'"
-publishedDateTime: 2021-07-15T00:31:00Z
-originalUrl: "https://www.zdnet.com/index.php/recent/index.php/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/"
-webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/"
+excerpt: "Along with creating new applications, AI for coding may also smooth the way for moving applications and systems to modern platforms. In a recent interview, Maja Vuković, an IBM Fellow at the company's Watson Research Center, explained how a client was ..."
+publishedDateTime: 2021-07-14T17:34:00Z
+originalUrl: "https://www.zdnet.com/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/"
+webUrl: "https://www.zdnet.com/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: ZDNet
@@ -19,14 +21,15 @@ provider:
       height: 50
 
 topics:
+  - IBM AI
   - AI
 
 images:
-  - url: "https://www.zdnet.com/a/hub/i/r/2021/07/14/102d659b-03cb-43f7-8488-0131d6cc9f1b/thumbnail/770x578/b0f604ac889c0aa587a9ac9e3d993230/hands-typing-4.jpg"
-    width: 770
-    height: 578
+  - url: "https://www.zdnet.com/a/hub/i/2021/07/14/102d659b-03cb-43f7-8488-0131d6cc9f1b/hands-typing-4.jpg"
+    width: 1500
+    height: 1000
     isCached: true
 
-secured: "oOexq+CFdsAt0XPMpogKa+2o1a51iSxSjBEeg360YLynCiX0O4a7pfgPjTfK3ClTRN/c+3vro7pV18mDTIdD2HF65lU0wwK2xqDz03GIqrO1Ijo+y6f8o+yeDbOvR7uGOYQhZRdpTleX1MbotewUdKHhiAPjmJMtFqolDyVP7iZltMN33xt8cQg1NAAFt3+bxvIjU1K0Mmt7S/Q7K0bYgSxp5oBPCDp5/mvhOOWhVr2R9vYlGRXQMZtgvOzrvq0ngbqUYD/fCJhLCtVADLaNxHOqnP9XTI5P7GEf/Tue2D8hakZi7930YuAU2HFeo6ZmnnZTGFprQVYEjP3WLmLsc5THTvdwsSYqER13aC7EJOY=;n4DpZFUbv3X5eRMHi3BVBg=="
+secured: "VP8iErhRuUxfNH9IQlKEIeEktPGusUnzLKvlUmcqE5GndqznDTDkSic0ovm8vFE6pOJibt22WwaOdCRelkxrFDlFXDPWdUZ6a5OWuapKeWjr77dJdq01zdiqYs1VCUBKQ4VjdZXP3wmjHhR7UgNx4EntgjsTnRu8Ccj+6k+SzUVWJcWkc6mdPqWMGcdSSoBvKxaPLU7ord2D73l10R2jgwhJzTb4ulR7oD1W0RSE05ImCVkxptSqhJGy1rmS/hkZoZQ3OOm7QixqdGSvQC4AfmBSe5YSWkG15Jzhok/fR6i/9Sruf2SK6Oyd52lr7qKLmzIbJlBjAspmw1sFZEw9UTAl8EOR9UlokvPonHdSYS4=;j3d6MnM89zU1SxjxIxKXPg=="
 ---
 

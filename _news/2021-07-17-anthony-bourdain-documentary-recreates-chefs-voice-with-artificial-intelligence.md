@@ -90,22 +90,6 @@ related:
         width: 1194
         height: 672
         isCached: true
-  - title: "AI narration of chef Anthony Bourdain's voice sparks row"
-    excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-    publishedDateTime: 2021-07-16T13:39:00Z
-    webUrl: "https://www.bbc.com/news/technology-57842514"
-    ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7458/production/_119448792_gettyimages-187622944.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Anthony Bourdain Doc Recreates His Voice Using Artificial Intelligence and 10-Plus Hours of Audio"
     excerpt: "Roadrunner ,” the Anthony Bourdain documentary from “20 Feet from Stardom” Oscar winner Morgan Neville, takes a page from documentaries like Alex Gibney’s “Sinatra: All or Nothing at All” in allowing the late chef and television personality to narrate his own story through the use of archival audio."
     publishedDateTime: 2021-07-15T19:31:00Z
@@ -185,6 +169,22 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/anthony-bourdain-visits-the-build-series-to-discuss-raw-news-photo-1626445038.jpg?crop=1xw:0.72745xh;center,top&resize=1200:*"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AI narration of chef Anthony Bourdain's voice sparks row"
+    excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
+    publishedDateTime: 2021-07-16T14:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-57842514"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-57842514.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57842514.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7458/production/_119448792_gettyimages-187622944.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Anthony Bourdain Doc Under Fire for Using AI to Mimic the Late Chef’s Voice"
     excerpt: "Oscar-winning filmmaker Morgan Neville said Bourdain’s widow Ottavia consented to the deepfake’s use—a claim she disputed on Twitter."

@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-13T08:11:00Z
 originalUrl: "https://www.lelezard.com/en/news-19898222.html"
 webUrl: "https://www.lelezard.com/en/news-19898222.html"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"

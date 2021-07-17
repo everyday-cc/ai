@@ -2,9 +2,9 @@
 category: news
 title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
 excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
-publishedDateTime: 2021-07-14T04:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
-webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
+publishedDateTime: 2021-07-14T08:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
+webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
 type: article
 quality: 83
 heat: -1
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg"
@@ -240,6 +240,6 @@ related:
       domain: thepacker.com
     quality: 19
 
-secured: "nQxsQd2xnXgaTZm0nJM2JgEKmAEAsKSyhSjdEUM98woxObO/zmR4TrXyZRI3HWEdNF5ziMxaRSx0to2P5ZiHMqtMVC5YT0HQCnvmBz9sU9Zh57tAudI/aV3WJnST8jBdzH/ydQIHBDCR7vwpBfxhwd1e5786KhmlPeOy24Bv6Jrvp6t7YY7yyabEZOZU418ItulgAHwjf7Y4JJk9F7Y0iKOXTPLGMwVlpFk87ND3P3xXwUSoO+HhCaXZIqDzli+Nq8W4KwmA9gj4FQODY8twV0+3biEUqNmpnQcLlm2aBiRrYdqlbYhi0EMvp8LsmFi+ppidgXXchE+1XZar1pmSMDa0Q0XWLKEJcKZMMNGTzbBPpqdQCNRHUoMS5vTOeYOV7cDFmPFdDjFRaANZ0TlVr7jQK4/JeS33xgpJKWnSlySyuM9ruWD6uU97QtWGllPAZYkIOkZyxRby8JYmVCryCnxhXKNBCQ43Rf5jC4QvRYsckG/zxWzFgDDRmL2a4RONEmtMqwa+mHHvdp/3taIXeA==;beg1eyTjjoZe1KBRMox8sw=="
+secured: "8V9U5BSR20Au4ueuqw7yB3G8yu2lfRxkueDX9Kk2v1U3pZ7lIaZbFtOhzsGvuHMrHbdEjK8b1x+mIy9clUnQpsyEwGzMXB4Pl/8Qe4kIlVhG+Ou5BfBm9THsQuqaNuIITWhdfvxZQUIcF/fMePfAwKSxkrnGLMop3UGyu8n934jE5UbHjT7NHeNjPzOWNGSiFuVWgdAZK0aghOHSS/dbTko5XteTN/cf/KE1AounHD+mUJHR09g3UkyuWGDVQfgd7zpctLimpl1s/ukaGuuFVD8azPmIDOarPoqG/ARmptQzY8KMhKxO3nmRqj8gLnkoX3UgHT/XwEAoJEu4Uec0DTmH/TijsAZo+nZoJA3MS1I=;bTrblh7c9SWhOg+ahS4N6Q=="
 ---
 

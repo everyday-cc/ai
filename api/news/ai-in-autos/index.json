@@ -90,21 +90,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-update-1-toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech.md",
-      "title": "UPDATE 1-Toyota buys U.S. mapping, road data firm to bulk up driverless tech",
-      "excerpt": "Woven Planet was established in January to invest in and develop mobility with artificial intelligence. It is building a prototype ... Moving into new and non-traditional car making such as driverless and electric technology, Toyota has increasingly ...",
+      "path": "_news/2021-07-16-self-driving-startup-aurora-to-go-public-in-13-bln-spac-deal.md",
+      "title": "Self-driving startup Aurora to go public in $13 bln SPAC deal",
+      "excerpt": "Self-driving technology startup Aurora will go public through a deal with a blank-check firm backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus, giving the combined company a pro-forma market capitalization of $13 billion.",
       "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/toyota-autonomous-acquisition-idCNL1N2OQ31A",
-      "originalUrl": "https://cn.reuters.com/article/toyota-autonomous-acquisition-idCNL1N2OQ31A",
+      "webUrl": "https://www.reuters.com/technology/aurora-go-public-via-11-bln-merger-with-mark-pincus-reid-hoffman-spac-2021-07-15/",
+      "originalUrl": "https://www.reuters.com/technology/aurora-go-public-via-11-bln-merger-with-mark-pincus-reid-hoffman-spac-2021-07-15/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 314,
       "tags": null,
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210714&t=2&i=1568899541&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6D1AY",
-          "width": 800,
-          "height": 545,
+          "url": "https://www.reuters.com/resizer/Xu95E0JZiob2nn0sNFNMHd3_SrU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MA62E5JBJRLM3C7MQOMHMSKXFE.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -112,9 +112,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2OQ31A",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2OQ31A",
-      "publishedDateTime": "2021-07-16T07:11:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T10:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -142,19 +142,19 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-self-driving-startup-aurora-to-go-public-in-13-bln-spac-deal.md",
-      "title": "Self-driving startup Aurora to go public in $13 bln SPAC deal",
-      "excerpt": "Self-driving technology startup Aurora will go public through a deal with a blank-check firm backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus, giving the combined company a pro-forma market capitalization of $13 billion.",
+      "path": "_news/2021-07-15-toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech.md",
+      "title": "Toyota buys U.S. mapping, road data firm to bulk up driverless tech",
+      "excerpt": "Woven Planet was established in January to invest in and develop mobility with artificial intelligence ... and non-traditional car making such as driverless and electric technology, Toyota ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/aurora-go-public-via-11-bln-merger-with-mark-pincus-reid-hoffman-spac-2021-07-15/",
-      "originalUrl": "https://www.reuters.com/technology/aurora-go-public-via-11-bln-merger-with-mark-pincus-reid-hoffman-spac-2021-07-15/",
+      "webUrl": "https://www.reuters.com/business/autos-transportation/toyota-buys-us-mapping-road-data-firm-bulk-up-driverless-tech-2021-07-14/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/toyota-buys-us-mapping-road-data-firm-bulk-up-driverless-tech-2021-07-14/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/Xu95E0JZiob2nn0sNFNMHd3_SrU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MA62E5JBJRLM3C7MQOMHMSKXFE.jpg",
+          "url": "https://www.reuters.com/resizer/xPGUCumVUqQYv5QVMbKEmMU-4Ss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HPQGDJ4HBZOIBIW32UPIKHAYZI.jpg",
           "width": 1200,
           "height": 628,
           "title": null,
@@ -166,7 +166,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T10:39:00-07:00",
+      "publishedDateTime": "2021-07-14T15:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -246,6 +246,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-15-toyotas-woven-planet-acquires-hd-mapping-startup-carmera.md",
+      "title": "Toyota’s Woven Planet acquires HD mapping startup Carmera",
+      "excerpt": "Woven Planet Holdings — an entity created by Toyota to invest in, develop and eventually bring future of transportation technologies like automated driving to market — has acquired HD mapping startup Carmera for an undisclosed amount.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/",
+      "originalUrl": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/Cobra_Tokyo_PoC_animated.gif",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/amp/",
+      "publishedDateTime": "2021-07-14T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year.md",
       "title": "SAIC Motor says it will put Robotaxis capable of L4 self-driving on roads in China this year",
       "excerpt": "Chinese automotive design and manufacturing company SAIC Motor says it will launch 40 to 60 Robotaxis capable of Level 4 self-driving throughout Shanghai and Suzhou before the end of 2021. The bold statement was made by Zu Sijie,",
@@ -278,6 +330,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-baidu-shares-are-a-bargain-now-but-not-for-long.md",
+      "title": "Baidu Shares Are a Bargain Now, But Not for Long",
+      "excerpt": "Baidu (NASDAQ:BIDU) stock has it even worse ... They even have their hand in self-driving technologies. Clearly the company is firing on all cylinders. In contrast, there is no acknowledgement ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/bidu-stock-baidu-is-a-bargain-now-but-not-for-long-1030602907",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/bidu-stock-baidu-is-a-bargain-now-but-not-for-long-1030602907",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2021/07/bidu2.png",
+          "width": 1940,
+          "height": 891,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -358,7 +462,7 @@
       "originalUrl": "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -389,6 +493,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-could-your-next-rental-car-be-a-robotaxi-t-mobile-teams-with-startup-for-5g-driverless-electric-car-service.md",
+      "title": "Could your next rental car be a robotaxi? T-Mobile teams with startup for 5G driverless electric car service",
+      "excerpt": "Autonomous and driverless car technology company Halo ... Halo equips the vehicles with an artificial intelligence-driven \"Advanced Safe Stop mechanism\" that automatically brings the cars to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/2021/07/08/t-mobile-startup-plan-driverless-rental-car-service/7887811002/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2021/07/08/t-mobile-startup-plan-driverless-rental-car-service/7887811002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/07/USAT/edba4e94-13cc-4888-921c-7d88a12d4f5d-21CM0192-05_060221_1604m.jpg?auto=webp&crop=6719,3779,x0,y341&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7887811002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7887811002",
+      "publishedDateTime": "2021-07-12T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1337,146 +1484,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-cheers-to-the-heineken-bot-self-driving-beer-delivery-robot.md",
-      "title": "Cheers to the Heineken B.O.T. Self-Driving Beer Delivery Robot",
-      "excerpt": "You could train your dog to grab one for you, which would take effort, time, and commitment. Or you could turn to Heineken's new B.O.T., which is, yep, a beer-carrying robot that brings the beers to you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
-      "originalUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st.motortrend.com/uploads/sites/5/2021/06/Heineken-B.O.T.-1.jpg",
-          "width": 1360,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
-      "publishedDateTime": "2021-06-30T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious.md",
-      "title": "Lip-Reading By AI Self-Driving Cars Is Either Alarming Or Ingenious",
-      "excerpt": "Advances in AI have enabled new apps for doing lip-reading, which could be a feature included into self-driving cars, alarmingly so or perhaps ingeniously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605c07cb6c32656bba197566%2F0x0.jpg%3FcropX1%3D29%26cropX2%3D2454%26cropY1%3D168%26cropY2%3D1532",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/amp/",
-      "publishedDateTime": "2021-06-30T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-didi-shares-gain-1-after-early-jump-in-wall-street-debut.md",
-      "title": "Didi shares gain 1% after early jump in Wall Street debut",
-      "excerpt": "Early investors included Apple Inc., Japan’s Softbank, Alibaba and Chinese internet giants, Tencent Holding Ltd. and Baidu Inc. Didi ... into development of self-driving, electric vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news4jax.com/business/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/",
-      "originalUrl": "https://www.news4jax.com/business/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/YZAVD7XODREBFFMDIAGRSEUVZ4.jpg",
-          "width": 5349,
-          "height": 3487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news4jax.com/business/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/business/2021/06/30/chinas-didi-touts-tech-spending-ahead-of-wall-st-debut/?outputType=amp",
-      "publishedDateTime": "2021-06-30T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News4Jax",
-        "domain": "news4jax.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

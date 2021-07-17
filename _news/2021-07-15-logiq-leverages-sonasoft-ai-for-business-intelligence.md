@@ -57,20 +57,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "New Research-Backed Clinical AI Platform Launches"
-    excerpt: "Bayesian Health, an AI and machine learning platform, launched Monday with an accompanying study revealing faster recognition and treatment times for patients."
-    publishedDateTime: 2021-07-12T19:14:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/new-research-backed-clinical-ai-platform-launches"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 37
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1203309871%20%282%29%20%281%29.jpg"
-        width: 2732
-        height: 1200
-        isCached: true
   - title: "Fractal Announces Launch of Crux Intelligence, the Next-Generation Business Intelligence Company That Puts AI in the Hands of Every Business User"
     excerpt: "Fractal, ( fractal.ai ), a global provider of artificial intelligence and advanced analytics solutions to Fortune 500® companies, today announced the launch of Crux Intelligence, a new provider of comprehensive Augmented Analytics products."
     publishedDateTime: 2021-07-14T12:45:00Z

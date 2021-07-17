@@ -2,6 +2,271 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-12-iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops.md",
+      "title": "IIT Mandi develops AI-based model for disease detection in potato crops",
+      "excerpt": "Unsplash Researchers at the Indian Institute of Technology (IIT) Mandi, have developed a computational model based on Artificial Intelligence (AI) for automated disease detection in potato crops using photographs of its leaves. The research in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops",
+      "originalUrl": "https://www.freepressjournal.in/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2021-07/d00b7c82-7237-4819-a681-a87a33536ee9/potato_crops.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops/c8993f12-5fd3-453b-9928-25e5ae267e51",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops/c8993f12-5fd3-453b-9928-25e5ae267e51",
+      "publishedDateTime": "2021-07-12T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-10-things-in-tech-musk-visits-branson-ai-tiny-homes-gates-foundation-stress.md",
+      "title": "10 things in tech: Musk visits Branson — AI tiny homes — Gates Foundation stress",
+      "excerpt": "Musk visited Branson before his flight, AI powered tiny homes arrive in the UK, Gates Foundation staff stress out: 10 things in tech you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60e9a2b5ca74780018ae8bec?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7?amp",
+      "publishedDateTime": "2021-07-12T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-scale-ais-rapid-growth-reflects-widening-demand-for-smart-software.md",
+      "title": "Scale AI’s Rapid Growth Reflects Widening Demand for Smart Software",
+      "excerpt": "A surge in corporate demand for artificial intelligence is driving growth for startups that help companies prepare data for software tools designed to glean business insights like gauging demand or spotting supply chain inefficiencies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
+      "originalUrl": "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-366229/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
+      "publishedDateTime": "2021-07-12T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-iit-madras-develops-ai-based-algorithm-to-identify-cancer-causing-mutations.md",
+      "title": "IIT-Madras develops AI-based Algorithm to identify cancer-causing mutations",
+      "excerpt": "Chennai: The researchers in the Indian Institute of Technology-Madras have developed an Artificial Intelligence (AI)-based Mathematical Model to..|News Track",
+      "sourceUrl": null,
+      "webUrl": "https://english.newstracklive.com/news/iitmadras-develops-aibased-algorithm-to-identify-cancercausing-mutations-sc53-nu318-ta318-1170281-1.html",
+      "originalUrl": "https://english.newstracklive.com/news/iitmadras-develops-aibased-algorithm-to-identify-cancercausing-mutations-sc53-nu318-ta318-1170281-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.newstracklive.com/uploads/lifestyle-health/health-tips/Jul/12/big_thumb/IITMadras1_60ebf6f8200dc.jpg",
+          "width": 798,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.newstracklive.com/ampnews/iitmadras-develops-aibased-algorithm-to-identify-cancercausing-mutations-sc53-nu318-ta318-1170281-1.html",
+      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/iitmadras-develops-aibased-algorithm-to-identify-cancercausing-mutations-sc53-nu318-ta318-1170281-1.html",
+      "publishedDateTime": "2021-07-12T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Track",
+        "domain": "newstracklive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-gaming-platform-razer-tackles-ocean-waste-with-ai-robot-tech.md",
+      "title": "Gaming Platform Razer Tackles Ocean Waste With AI Robot Tech",
+      "excerpt": "Gaming lifestyle co Razer joined forces with upcoming startup Clearbot to use an AI robot to collect different kinds of ocean plastic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.greenqueen.com.hk/razer-ocean-plastic-robot/",
+      "originalUrl": "https://www.greenqueen.com.hk/razer-ocean-plastic-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.greenqueen.com.hk/wp-content/uploads/2021/07/New-Solar-Powered-AI-Robot-Can-Clean-250-Kgs-Of-Marine-Plastics-In-One-Cycle-1.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.greenqueen.com.hk/amp/razer-ocean-plastic-robot/",
+      "cdnAmpWebUrl": "https://www-greenqueen-com-hk.cdn.ampproject.org/c/s/www.greenqueen.com.hk/amp/razer-ocean-plastic-robot/",
+      "publishedDateTime": "2021-07-12T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "greenqueen.com.hk",
+        "domain": "greenqueen.com.hk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-scientists-develops-ai-model-to-detect-gravitational-waves.md",
+      "title": "Scientists develops AI model to detect gravitational waves",
+      "excerpt": "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for",
+      "sourceUrl": null,
+      "webUrl": "https://www.glamsham.com/world/technology/scientists-develops-ai-model-to-detect-gravitational-waves",
+      "originalUrl": "https://www.glamsham.com/world/technology/scientists-develops-ai-model-to-detect-gravitational-waves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-11T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player.md",
       "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
       "excerpt": "Whilst we patiently wait for the day that Womble-shaped robots replace human tennis players at Wimbledon, we can admire the IBM powered AI technology ... them into the huge Watson driven analytics ...",
@@ -904,301 +1169,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-quotable-quotes-from-waic-2021.md",
-      "title": "Quotable quotes from WAIC 2021",
-      "excerpt": "Artificial intelligence has made life increasingly ... Baidu has just rolled out the latest driverless robotaxi service Apollo, which will be cheaper than the current ride-hailing services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202107/08/WS60e6db24a310efa1bd660a5c.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202107/08/WS60e6db24a310efa1bd660a5c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202107/08/60e6ddd1a310efa1e3ad381b.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030.md",
-      "title": "Robot Operating System Market Size 2021 by Company, Product introduction, Products Sales Volume, Revenue, Price and Gross Margin to 2030",
-      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Robot Operating System Market for",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030-2021-07-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030-2021-07-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts.md",
-      "title": "AI is trying to prevent online shoppers from ditching their carts",
-      "excerpt": "Conversion to a sale is the ultimate goal for online retailers. Trying to learn shoppers' intent helps sellers see better returns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/07/09/b77f2cb5-a5e4-48d9-847c-ec6e763858aa/thumbnail/1200x675/8f627eb46351233a4b4de4667bad42b0/20210708-lucidworks-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/",
-      "publishedDateTime": "2021-07-09T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-basalt-minecraft-competition-aims-to-advance-reinforcement-learning.md",
-      "title": "BASALT Minecraft competition aims to advance reinforcement learning",
-      "excerpt": "Researchers at DeepMind and the University of California, Berkeley are launching a competition to spur reinforcement learning research.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/09/basalt-minecraft-competition-aims-to-advance-reinforcement-learning/",
-      "originalUrl": "https://venturebeat.com/2021/07/09/basalt-minecraft-competition-aims-to-advance-reinforcement-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/image3.png?w=800&resize=800%2C269&strip=all",
-          "width": 800,
-          "height": 269,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/09/basalt-minecraft-competition-aims-to-advance-reinforcement-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/09/basalt-minecraft-competition-aims-to-advance-reinforcement-learning/amp/",
-      "publishedDateTime": "2021-07-09T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-optimize-workforce-in-your-store-using-amazon-rekognition.md",
-      "title": "Optimize workforce in your store using Amazon Rekognition",
-      "excerpt": "In this post, we show you how to use Amazon Rekognition and AWS DeepLens to detect, and analyze occupancy in a retail business to optimize workforce utilization. Retailers often need to make decisions to improve the in-store customer experience through personnel management. Having too few or too many",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-workforce-in-your-store-using-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-workforce-in-your-store-using-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T09:17:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-fact-sheet-executive-order-on-promoting-competition-in-the-american-economy.md",
-      "title": "Fact sheet: Executive order on promoting competition in the American economy",
-      "excerpt": "News Release The White House The economy is booming under President Biden’s leadership. The economy has gained more than three million jobs since the",
-      "sourceUrl": null,
-      "webUrl": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/",
-      "originalUrl": "https://indiancountrytoday.com/the-press-pool/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share-1100x740.png",
-          "width": 1100,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indian Country Today",
-        "domain": "indiancountrytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

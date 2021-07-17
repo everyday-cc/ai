@@ -65,20 +65,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "New Research-Backed Clinical AI Platform Launches"
-    excerpt: "Bayesian Health, an AI and machine learning platform, launched Monday with an accompanying study revealing faster recognition and treatment times for patients."
-    publishedDateTime: 2021-07-12T19:14:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/new-research-backed-clinical-ai-platform-launches"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 37
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1203309871%20%282%29%20%281%29.jpg"
-        width: 2732
-        height: 1200
-        isCached: true
 
 secured: "MoYBAn/VUUlKnXVbhSSgIBbyJyqWLPhqtMYXCR45MMDzQ2MIm/ZA9DlQOAL1i/Kej5gUrkLOhMZ/VqYn2uW7BKYxM3rKUkFxuJQ86o2cY026VvoslWGxLpjMtO9/niBn/ahZdzaDCBIJSVtZSa6a978aETNBKFT9ge+HihCaHW7Ct3ftCBq/hgUGsUGBVnWx2tmVgDJEui2C38FN1RX9kLgG2j96Fu9+4qd0ulpAM82iUo6Fn62y6Dqb4I3ESJpAI9yEzmMz+5zcm47PuH2v/rk5OHiGdcCmn4XoFpbY/v4LspFezbDGLxs/2JiWybwW5Zu6dTxs+b6gi/JQRrb0g+dNQa1hnVYr70sg/UGGtqM=;4ShqtThRFAtMCfe3NxmSrQ=="
 ---

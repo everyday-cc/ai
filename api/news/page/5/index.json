@@ -2,6 +2,266 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-14-discord-buys-sentropy-which-makes-ai-software-that-fights-online-harassment.md",
+      "title": "Discord buys Sentropy, which makes AI software that fights online harassment",
+      "excerpt": "The online chat platform Discord is buying Sentropy, a company that makes AI-powered software to detect and remove online harassment and hate. Discord currently uses a “multilevel” approach to moderation,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/13/discord-buys-sentropy/",
+      "originalUrl": "https://techcrunch.com/2021/07/13/discord-buys-sentropy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Discord_IAP_KeyVisuals_Header_02.jpeg?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/13/discord-buys-sentropy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/13/discord-buys-sentropy/amp/",
+      "publishedDateTime": "2021-07-13T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-nordstrom-cto-on-ai-powered-analytics-and-consumer-insights.md",
+      "title": "Nordstrom CTO on AI-powered analytics and consumer insights",
+      "excerpt": "Reflecting on the start of this project ... is key to the platform architecture process. With more than 100 AI models leveraged daily at Nordstrom, an end user will indirectly see the benefit ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/",
+      "originalUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/09/nordstrom-mike-kalasnik-flickr.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/",
+      "publishedDateTime": "2021-07-13T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-how-octopuses-upend-what-we-know-about-ourselves.md",
+      "title": "How Octopuses Upend What We Know About Ourselves",
+      "excerpt": "Octopuses (it’s incorrect to say “octopi,” to my despair) are having a moment: There are award-winning books, documentaries and even science fiction about them. I suspect it’s the same hunger that leaves many of us yearning to know aliens: How do radically different minds work?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/13/opinion/13eks-promo/13eks-promo-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.amp.html",
+      "publishedDateTime": "2021-07-13T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-baidu-shares-are-a-bargain-now-but-not-for-long.md",
+      "title": "Baidu Shares Are a Bargain Now, But Not for Long",
+      "excerpt": "Baidu (NASDAQ:BIDU) stock has it even worse ... They even have their hand in self-driving technologies. Clearly the company is firing on all cylinders. In contrast, there is no acknowledgement ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/bidu-stock-baidu-is-a-bargain-now-but-not-for-long-1030602907",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/bidu-stock-baidu-is-a-bargain-now-but-not-for-long-1030602907",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2021/07/bidu2.png",
+          "width": 1940,
+          "height": 891,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-breaking-bad-data-with-machine-learning.md",
+      "title": "Breaking ‘bad data’ with machine learning",
+      "excerpt": "Every single large organization is heavily siloed, but there are huge business benefits to integrating data silos.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1088374242.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/amp/",
+      "publishedDateTime": "2021-07-13T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston.md",
       "title": "Founder Institute joins forces with NASA Ames, MassRobotics to launch AI, robotics accelerator program in Boston",
       "excerpt": "The Founder Institute, the world’s largest pre-seed startup accelerator, has announced the launch of a new program where early-stage entrepreneurs in Boston can leverage NASA technology to build artificial intelligence and robotics startups.",
@@ -743,7 +1003,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -970,248 +1230,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-tesla-issues-stark-warning-to-drivers-using-its-full-self-driving-mode.md",
-      "title": "Tesla issues stark warning to drivers using its Full Self-Driving mode",
-      "excerpt": "Tesla is warning drivers with the latest beta of its Full Self-Driving mode to use it with caution as it “may do the wrong thing at the worst time.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/",
-      "originalUrl": "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/tesla-model-3-review-7563.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/?amp",
-      "publishedDateTime": "2021-07-12T21:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-artificial-intelligence-in-automotive-market-shaping-from-growth-to-value.md",
-      "title": "Artificial Intelligence in Automotive Market Shaping From Growth To Value",
-      "excerpt": "Latest survey on COVID-19 Outbreak-Global Artificial Intelligence in Automotive Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of COVID-19 Outbreak- Artificial Intelligence in Automotive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-shaping-from-growth-to-value-2021-07-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-shaping-from-growth-to-value-2021-07-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce.md",
-      "title": "Digital Transformation: Microsoft Azure Cloud Platform to be Used by Canadian Imperial Bank of Commerce",
-      "excerpt": "The Canadian Imperial Bank of Commerce (CIBC) (TSE: CM), a multinational banking and financial services corporation headquartered in Toronto, Ontario, has entered a multi-year deal to use Microsoft Azure as its main Cloud platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/Christina-Kramer-284x300.jpg",
-          "width": 284,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/177735-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce/amp/",
-      "publishedDateTime": "2021-07-12T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-how-ai-can-enable-better-health-care-outcomes.md",
-      "title": "How AI can enable better health care outcomes",
-      "excerpt": "AI in health care can reduce medical waste and over-testing, cut costs, and improve diagnostics and patient care, a Transform panel agreed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/",
-      "originalUrl": "https://venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/haptics-e1626058454242.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/amp/",
-      "publishedDateTime": "2021-07-12T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-aiml-cuts-into-traditional-hpc-plasma-physics.md",
-      "title": "AI/ML Cuts into Traditional HPC, Plasma Physics",
-      "excerpt": "When AI/ML came onto the scene in the supercomputing community, common wisdom was that it could do much to augment HPC applications but it would be not be",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/",
-      "originalUrl": "https://www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/ab_plasma_physics.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/amp/",
-      "publishedDateTime": "2021-07-12T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

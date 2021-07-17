@@ -8,9 +8,9 @@ webUrl: "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapp
 ampWebUrl: "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/amp/"
 type: article
-quality: 74
-heat: -1
-published: false
+quality: 174
+heat: 254
+published: true
 
 provider:
   name: TechCrunch
@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Toyota buys U.S. mapping, road data firm to bulk up driverless tech"
-    excerpt: "Woven Planet was established in January to invest in and develop mobility with artificial intelligence ... and non-traditional car making such as driverless and electric technology, Toyota ..."
-    publishedDateTime: 2021-07-14T22:32:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/toyota-buys-us-mapping-road-data-firm-bulk-up-driverless-tech-2021-07-14/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/xPGUCumVUqQYv5QVMbKEmMU-4Ss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HPQGDJ4HBZOIBIW32UPIKHAYZI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Toyota buys US startup for next-gen driverless navigation system"
     excerpt: "Toyota Motor announced Thursday that it acquired America-based Carmera that provides the next-gen navigation system for driverless vehicles. The Japanese carmaker acquired the artificial intelligence and maps firm through the newly created subsidiary Woven Planet dedicated to automated mobility."
     publishedDateTime: 2021-07-15T08:16:00Z
@@ -92,6 +78,52 @@ related:
       - url: "https://mk0laprensalatice12d.kinstacdn.com/wp-content/uploads/2021/07/17726988w.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Toyota strengthens autonomous vehicle play with Carmera acquisition"
+    excerpt: "Less than 3 months after acquiring Lyft's self-driving unit, Toyota subsidiary Woven Planet Holdings is acquiring HD mapping startup Carmera."
+    publishedDateTime: 2021-07-15T14:42:00Z
+    webUrl: "https://www.therobotreport.com/toyota-strengthens-autonomous-vehicle-play-carmera-acquisition/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 54
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/07/woven-planet-carmera-detroit.jpg"
+        width: 1000
+        height: 562
+        isCached: true
+  - title: "Toyota's Self-Driving Unit Acquires US Mapping Firm Carmera"
+    excerpt: "Toyota’s self-driving unit, Woven Planet, will now have the benefit of more software mapping through its acquisition of U.S. mapping startup Carmera."
+    publishedDateTime: 2021-07-15T02:42:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Toyota-Woven-Planet-Carmera-acquisition-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Toyota’s self-driving unit buys US mapping start-up in software push"
+    excerpt: "Toyota’s self-driving unit has acquired US mapping start-up Carmera as the Japanese group embarks on a software buying spree in an attempt to quadruple its global engineering headcount over the next few years."
+    publishedDateTime: 2021-07-14T21:01:00Z
+    webUrl: "https://www.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
+    ampWebUrl: "https://amp.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdb76abab-edd2-4a11-abb9-fd67b076d31c.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "Toyota Tech Arm Plans Self-Driving Acquisition Spree"
     excerpt: "Toyota Motor Corp.’s software and technology arm plans to embark on an ambitious hiring and acquisition spree as automakers globally jostle for pole position in the race to develop smart cars that will one day drive themselves."
@@ -122,6 +154,6 @@ related:
         height: 512
         isCached: true
 
-secured: "R9trZd665tUCRl83FcbgJ2a2OwpJQB4Tt3MSjNb456CcE3jZCHdTDQAg+Qi53B9ZsEyZrg2IyoNuT/hW9DpwU+uqTegvg/OFcIE3LSIX8Ydl+N6c7iaWCAt9qXzLf0gqFHWwe9Qc418JQagaEO91sOzek1REL0jbpr97Kx+f181yEMQXYjKSW6gbKlmUo2Bg8J7OwdFLNJ2VqXOnjJVd1vgJfVnALiXwDO2QAaC6CGz1VtMmiEsICPMUuv7XCsXAoX7iOvgm4CtGoxzilgaXkdn/eheCc5rBl5kG7RXA4XtROcu9PhwXF2bUEsP8y5hIxQw2YfLQdlYHaE4pWkN5wiuSmWgS2dGvGiUn8oDdnjU8AHYS/XqVhv8FkO2FzBKzghfgKPNW+NEqCu57uh0YVt5sIuw67wVFcWnpVRY6CbYZEy0k01fIVNxfQqxIIhIs5RLGw1K5VLu9KpgUknpqkNId+7MkVdgSUffK+Mzm6liF7ljcVwQxunwPR59A5I1V7cIxieEtTYakbpIjQ9ek7Q==;MRM7rqWOF4b0yC37jeRxQg=="
+secured: "xHKDbnzlP9BRNaYUDSVOefuNH2VJHUIK3oXbmkxKS8Y+bMRJ++zflAJgZXS9swZkt91ff/SDEu0xNrA1BnjS2vwFINigL5fTWLPzVeAdFG0vh+2WOHqm0/saiaQItcFjhF3s4a9j+HflmCVdCOTY+6Si7c9VEB0eCckTFp6+YcRYeX2cVu082Q9ERDEM4AFetS1wPWJ15ZOBzbc75mTiP9mE7x38n5R135ejAVV8RjA6Y1C4RTtTa6EntXfwmn7N/mS09vutt+hPzUwE1O6gntDPixbRecC72WLJMkkQFnLmepTIbuH6RCoDcnSzoTjnyVQJ8t14rNCFwKM/Emgpw9aWJV1iR1Ni+HU/JesdKB4sATm4QwfD3PHaVQyNk/hTRqV4V/XUyFzmenzdhmiP8B8PlKgqznbqk7WJLMjjh2FB/xglFdfly6yMp0dSipkd53jyUiOHqdQPU80W8SKr+ndPKqGL5Pgm+UAKz5MGkR+wvl/PUjxlF2Qnz1BnecK0SvNyf/ZSYV2dSBbRbwvXL5hGYJaWtSJonds4tAeNRSQ=;ujeQ/4goFV99s9tpBxjRlg=="
 ---
 

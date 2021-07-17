@@ -2,23 +2,19 @@
 category: news
 title: "AI narration of chef Anthony Bourdain's voice sparks row"
 excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-publishedDateTime: 2021-07-16T13:39:00Z
-originalUrl: "https://www.bbc.com/news/technology-57842514"
-webUrl: "https://www.bbc.com/news/technology-57842514"
-ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
+publishedDateTime: 2021-07-16T14:22:00Z
+originalUrl: "https://www.bbc.co.uk/news/technology-57842514"
+webUrl: "https://www.bbc.co.uk/news/technology-57842514"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-57842514.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57842514.amp"
 type: article
-quality: 87
+quality: 57
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -406,6 +402,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "7R+Z8BA2xH9QYeIB7LS4F0pOy8Yd4AwTOugyBPSfrp3pfLb2vhf3jZn9srY2B85OLYTPweFCcDoSbs1DWrmGRPRBbstrPneF5gOnXMTXvT4FedpGMhg7AA6ZxqXAGF4XIDp8WSnbBMo+LvfXgMtxo8K9hMt8/mDFcrjYvzP8vq74sdkKQC/+wae2bIIZD08dcG9Rl85nfcsTDrXBIYCUMApZXsiF69lzbHFi2homuc3qtKUz7JrfIUdSHFzL+/tbQ2eyPxiQPBz+T4dhh25mlgw7H3czlzrstxLXsUSvKBblrzQHmTF48Iz+SebwgGTsoD0qywOUm0IuMRO0eaV9gWawMy1tdTYiw8y4pmdPrRqSY9AtOylOAkAs64KHd7clIi2lwIQrxyBmdAx9KbcxDWN/ebsJK+eb1hZmrXawzFH4RWr3Zl+41Ye3xsiBVb5h2nvdq7pPeqz/MgZyR3UJIzTN18U5andRTMY4zAXix1hL862gAmkitH3kO/k3hhy67OK6vIOzwt4Dg/5Snpx0yA==;mrxlyvisXgK+1ujgSBYpzg=="
+secured: "LLYUv72RE8JyttpqTj4Dk6rs7CxRy9MchhQbZxiiT4Ougyw1WbBLSj4eh9BISK/oq/YSOqGXQda6MN/eOJCid1Vl4oUZF8pEai2j3DTUKH2QVExw7HA1HKlAoW/MSUOIKTrPUKDakbejQHT4bg8p5g0gHJUEppp1Lc2sPKlM4DM08kFbMYeL4DO7vBBT2/AjEAJF32FDFHzKECbwz0ZFN91yCHPyD4jEukXtc6kf2QZQVUU1JSIxdomUJ3qZ9unHXgpzq9fL0R9S8LF6nd3EsltkWQzOtKvH6UZ0LVzOzeY0OB+/Blwj8wni1cS4n1ZSHVjW8w9vEmkD2I+41uVrq7D5PIQVMQYJULjuhLyS8ZU=;0GaCHogu33dl90FHdnrKtg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/07/12/execs-from-mastercard-paypal-and-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/execs-from-mastercard-paypal-and-goldman-sachs-discuss-major-ai-trends-in-the-finance-industry-at-transform-2021/amp/"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: VentureBeat
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 669
     isCached: true
-
-related:
-  - title: "How Mastercard is using AI to address cyber risk"
-    excerpt: "Johan Gerber, executive VP for security and cyber innovation at Mastercard, discusses how it uses AI to understand and adapt to cyber risk."
-    publishedDateTime: 2021-07-12T19:50:00Z
-    webUrl: "https://venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/"
-    ampWebUrl: "https://venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1232533853.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "xikcH3aj1ewQx4UdGol+jrtJ/+/zlRz1leZL3V6CaifC0GSnaRUgpe5ykNXSLKkqggxNc1qRsYk1yfAt+9ZRBkm6bfu3w1bIOzyRm1hbD85lWCmVXaw/V//CEdwlABL0TErfH2mTiE/ODMClbS4iGsBUqkVJ/UGIFBv2q6YIIcFAHdLlvs1E9Hr8cnKum3eRfUPk6+iwvuKS61NmouJuPG8tB+A2sHXKqODIungpkOrFN8/MUo2NeAhp6VNPo/ii+WAlokvJzUMmu0qrpnc1GCVXbfjbUOIYxXnUX/OIEvsxcxAkVdc0EpbHilDQTC6wuXYyRlJTG8zjtKnhHc9EePhPvxsKj9xc0o73T+0q2NM2Ps5rkFmS5Y14Iaj1rGQO15+NmaXehZuV6Jxorc0ls9Mf0ypNMOYMCHrgX/eDnJiEvlGQZr9w9AYfipnT+oK+LU0k3rMsFPB+EqYJ4oXuw/hBSjsDNTE03SW8XoWEq7DChnm4pB7PXpzYKtEEiKevgiUX6i8kARwrppmSkNcWCQ==;o16s+r5menNXCrDEhVm3/g=="
 ---

@@ -155,38 +155,6 @@ related:
         width: 750
         height: 419
         isCached: true
-  - title: "Toyota's Self-Driving Unit Acquires US Mapping Firm Carmera"
-    excerpt: "Toyota’s self-driving unit, Woven Planet, will now have the benefit of more software mapping through its acquisition of U.S. mapping startup Carmera."
-    publishedDateTime: 2021-07-15T02:42:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Toyota-Woven-Planet-Carmera-acquisition-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Toyota’s self-driving unit buys US mapping start-up in software push"
-    excerpt: "Toyota’s self-driving unit has acquired US mapping start-up Carmera as the Japanese group embarks on a software buying spree in an attempt to quadruple its global engineering headcount over the next few years."
-    publishedDateTime: 2021-07-14T21:01:00Z
-    webUrl: "https://www.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
-    ampWebUrl: "https://amp.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/814a11fe-de45-4ca5-be29-7f0993f43afe"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdb76abab-edd2-4a11-abb9-fd67b076d31c.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Self-driving truck beats human drivers on multi-state trip by 10 hours"
     excerpt: "A tech company called TuSimple successfully tested its semi truck to transport watermelons from one state to another."
     publishedDateTime: 2021-07-15T23:00:00Z
@@ -216,20 +184,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/ZTL2ADvEjvPGNkhHwFxv6D-1200-80.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "WinTOR’s on its way: U of T partnership to train self-driving cars to handle tough winter conditions"
-    excerpt: "U of T Engineering's Steven Waslander is leading a project – one of six at the university to receive support from the Ontario Research Fund – that focuses on teaching self-driving cars to handle winte road conditions (photo by PinkBadger via Getty ..."
-    publishedDateTime: 2021-07-12T20:40:00Z
-    webUrl: "https://www.utoronto.ca/news/wintor-s-its-way-u-t-partnership-train-self-driving-cars-handle-tough-winter-conditions"
-    type: article
-    provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 24
-    images:
-      - url: "https://www.utoronto.ca/sites/default/files/GettyImages-536114279-crop.jpg?169816"
-        width: 1140
-        height: 760
         isCached: true
   - title: "Upcoming trip for no vaccinated Americans(self driving) - Switzerland Forum"
     excerpt: "So me and 2 friends are planning a self driving trip for September 2-13th. Landing in Zurich and just visiting various mountains towns. Basically just sightseeing/eating and exploring etc. we aren’t vaccinated."
