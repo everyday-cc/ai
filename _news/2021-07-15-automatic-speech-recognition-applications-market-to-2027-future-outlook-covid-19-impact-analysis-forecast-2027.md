@@ -65,17 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Detection of COVID-19 via Automatic Artificial Intelligence Cough Analysis"
-    excerpt: "A team of researchers has submitted the system to the Cough Sound Track of the Diagnosing COVID-19 using Acoustics (DiCOVA) Challenge. The covid-19 crisis has tested healthcare systems throughout the world."
-    publishedDateTime: 2021-07-12T17:56:00Z
-    webUrl: "https://scitechdaily.com/detection-of-covid-19-via-automatic-artificial-intelligence-cough-analysis/"
-    ampWebUrl: "https://scitechdaily.com/detection-of-covid-19-via-automatic-artificial-intelligence-cough-analysis/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/detection-of-covid-19-via-automatic-artificial-intelligence-cough-analysis/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
   - title: "Global Robotics Market (2021 to 2025) - Featuring Intuitive Surgical, iRobot and KUKA Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to 2025\" report has been added"
     publishedDateTime: 2021-07-16T08:51:00Z

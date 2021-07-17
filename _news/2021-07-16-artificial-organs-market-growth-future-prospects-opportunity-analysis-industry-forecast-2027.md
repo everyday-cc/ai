@@ -204,20 +204,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Deep Neural Networks Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
-    excerpt: "The report talks about the production capacity, demand and supply trends, market dynamics, and impact of these and other key factors on the global Deep Neural Networks market. It also offers an extensive analysis of the competitive landscape along with an industry-wide analysis of the market share of each player along with their business profiles."
-    publishedDateTime: 2021-07-12T17:13:00Z
-    webUrl: "https://manometcurrent.com/deep-neural-networks-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-by-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 14
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/RD11-2-390x220.png"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Artificial Intelligence in Agriculture Market Size - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
     excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
     publishedDateTime: 2021-07-13T10:44:00Z

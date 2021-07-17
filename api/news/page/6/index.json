@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-07-13-aiml-cuts-into-traditional-hpc-plasma-physics.md",
-      "title": "AI/ML Cuts into Traditional HPC, Plasma Physics",
-      "excerpt": "When AI/ML came onto the scene in the supercomputing community, common wisdom was that it could do much to augment HPC applications but it would be not be",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/",
-      "originalUrl": "https://www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/ab_plasma_physics.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/amp/",
-      "publishedDateTime": "2021-07-12T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-gm-ventures-increases-funding-in-ai-vision-software-company-algolux.md",
       "title": "GM Ventures Increases Funding In AI Vision Software Company Algolux",
       "excerpt": "Algolux, an AI software company based out of Quebec, has announced the closure of series B funding, raising $18.4 million to help accelerate market adoption of the company’s scalable computer vision and image optimization solutions.",
@@ -186,6 +143,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-elastic-named-a-leader-in-cognitive-search-by-independent-research-firm.md",
+      "title": "Elastic Named a Leader in Cognitive Search by Independent Research Firm",
+      "excerpt": "Its sweet spot is for enterprises that want fast, friendly, and affordable cognitive search based on ... Goldman Sachs, Microsoft, The Mayo Clinic, NASA, The New York Times, Wikipedia, and Verizon ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wallstreet-online.de/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm",
+      "originalUrl": "https://www.wallstreet-online.de/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wallstreet-online.de/_amp/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm",
+      "cdnAmpWebUrl": "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm",
+      "publishedDateTime": "2021-07-12T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wallstreet online",
+        "domain": "wallstreet-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },

@@ -137,6 +137,20 @@ related:
         width: 800
         height: 392
         isCached: true
+  - title: "ZoomInfo buys Israel-US startup Chorus.ai for $575m"
+    excerpt: "US business intelligence company ZoomInfo announced today that it is acquiring Israeli-US startup Chorus.ai for $575 million cash. Chorus.ai has developed a system that analyzes and provides insights on sales conversations and competes with Israeli startup Gong."
+    publishedDateTime: 2021-07-17T10:13:00Z
+    webUrl: "https://en.trend.az/world/us/3456899.html"
+    type: article
+    provider:
+      name: Trend News Agency
+      domain: trend.az
+    quality: 37
+    images:
+      - url: "https://cdn.trend.az/2021/07/17/shekil_170721.jpg"
+        width: 800
+        height: 392
+        isCached: true
   - title: "ZoomInfo buys San Francisco AI company for $575M"
     excerpt: "The deal is a major milestone for ZoomInfo and will significantly broaden the company’s sales platform, said CEO Henry Schuck."
     publishedDateTime: 2021-07-13T17:33:00Z

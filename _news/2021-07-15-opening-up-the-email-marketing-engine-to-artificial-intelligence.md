@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-marketing/opening-up-the-email-marke
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -38,6 +38,22 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 69
+  - title: "Is AI a friend or foe to marketers?"
+    excerpt: "Every time artificial intelligence (AI) disrupts a new industry use case ... as that’s when they typically start shopping for the baby. It boomeranged when an angry parent of a high school girl complained about sending the girl baby apparel coupons ..."
+    publishedDateTime: 2021-07-17T10:51:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/features-2/is-ai-a-friend-or-foe-to-marketers-7186881.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/features-2/is-ai-a-friend-or-foe-to-marketers-7186881.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/features-2/is-ai-a-friend-or-foe-to-marketers-7186881.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/07/Artificial-intelligence-boon-or-foe-jem-sahagun-kqC3rZEMBI-unsplash-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
   - title: "Top AI Start-ups Bringing the Most Innovative Products"
     excerpt: "Start-ups are coming up with the most innovative products in the market. Here are the top AI start-ups that can change the world."
     publishedDateTime: 2021-07-14T07:15:00Z

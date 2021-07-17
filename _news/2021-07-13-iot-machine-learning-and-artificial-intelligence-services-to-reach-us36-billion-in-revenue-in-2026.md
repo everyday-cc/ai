@@ -1,23 +1,29 @@
 ---
 category: news
 title: "IoT Machine Learning and Artificial Intelligence Services to Reach US$3.6 Billion in Revenue in 2026"
-excerpt: "The pandemic accelerated ML and AI in the IoT to manage and find insights into increasing volumes of data. LONDON, July 13, 2021 /PRNewswire/ -- The next wave of Internet of Thing"
-publishedDateTime: 2021-07-13T08:00:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/14146706-iot-machine-learning-and-artificial-intelligence-services-to-reach-us-3-6-billion-revenue-2026/all"
-webUrl: "https://www.wallstreet-online.de/nachricht/14146706-iot-machine-learning-and-artificial-intelligence-services-to-reach-us-3-6-billion-revenue-2026/all"
+excerpt: "The next wave of Internet of Things (IoT) analytics development will fully converge with the Big Data domain. Simultaneously, the value in the technology stack is shifting beyond the hardware and middleware to analytics and value-added services,"
+publishedDateTime: 2021-07-13T08:11:00Z
+originalUrl: "https://www.lelezard.com/en/news-19898222.html"
+webUrl: "https://www.lelezard.com/en/news-19898222.html"
 type: article
-quality: 21
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "IoT Machine Learning and Artificial Intelligence Services to Reach US$3.6 Billion in Revenue in 2026"
@@ -37,6 +43,6 @@ related:
         height: 360
         isCached: true
 
-secured: "MyMQMd5+fb/B9Tyc8g4ajZ1/8KlyIjROKX31jhKmQFAoIKhtEk+Eq7fzEjBnnvPe/8vXTNt4+fmSd+uc8tmDgEdMZaNvEvKSB6phqy/2CZWLn21OvZttv3JI6WXMVj6/rd2ntT/qkr8boRNbWRY9U3JeQvQs2v9Kp4QVoJBDabILjJ/qCkzj9iTv8/mqZk1MIPgw5PY1cSw3xUbmzKKKSP1p95yZpX52Busp+My5dSBgwUnpX0XENmRsqXysvVzcZ4BsMMQ/cdFuS3jj/sJlB9/+4N4eRYWfxmKHB/2GHhwMIGESDxROaQ0kiyQLDl5kDRqWGWcUmH5/0VJzPdgqIRK/aCm6AT9tRQ3mdShyWW0=;zIkqbT1q9Xn219xHqTLVgw=="
+secured: "N8LS+cCLgH5FlSRHb4w+qLI6RIVxx5n5BVbf5tSL8XvNrkxszR+uUjrYhQeina0icmWMbD+dSTsTXec2twjBMbTHWLtamihyoHuLXOvoSNVgdexzczLSJv9UbSNqTNacCYn3HJ+N7kd+pG31oB2BvEsHwEKl8IiQHiav96pRloCqrA9E7fidTTU5CLiqggBUpuOmKbX0TLS+LJYhkIFftzochff2pLCH14iYXUEQMW2frS0OxkjYUPz7EpaVuxp+XEh80NVQWuyLiKS/Jegr/sY5UdgZR0TAX0SIdDEUCA1e8rPs9aeLXLL3daNgT8wRlhsmWFGUQ1z3JhzZbDWd7fijJFtwspFMNzcVmZXXlq0=;p5vtnDV9zvO8Kyiiwp/27A=="
 ---
 

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Self-supervised machine learning adds depth, breadth and speed to sky surveys"
-    excerpt: "Sky surveys are invaluable for exploring the universe, allowing celestial objects to be catalogued and analyzed without the need for lengthy observations. But in providing a general map or image of a region of the sky,"
-    publishedDateTime: 2021-07-12T18:05:00Z
-    webUrl: "https://techxplore.com/news/2021-07-self-supervised-machine-depth-breadth-sky.html"
-    ampWebUrl: "https://techxplore.com/news/2021-07-self-supervised-machine-depth-breadth-sky.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-self-supervised-machine-depth-breadth-sky.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/self-supervised-machin.jpg"
-        width: 600
-        height: 274
-        isCached: true
 
 secured: "QXt1wJACQEyA5nlJuXjkXb3hHz8c0W8V9ro4Nt2p2xEzyksmFUG7qQ0WX7otvaEJqAnZHtxNYFp+zM3CPCCJY54mZw2U7gp6LjVMIb8e9Nc7CooWDaTAQs4A9fL224NAfWgMvd4VC7C9PfhfE4skvj+YWaVE4w6an3o70gU0wGNWA6WBsaeJ9SFQnQyXQ/o5fx646SdWyMPAbFNQ+1ON4vnUOxH6ELaUtcWTxO7Td56dV5sP8elBfi2l8Sv/eGk9tR0DIgdPgN9EekrQncNWikDKWPFg/mkf/729rbhNGTf54oERlrqdYR8LecCYsmdsR4iURAVe351lNwLifS5aJNFB/DvKCn5lVvaNLHVuZoY8EHV+C/faVuSQ2naWjenKanh3eKyF8ndauQ+um/eA7ARpsV1RLcgiPM7rsWsNQzOT7Knh119sOuDoW7y1w0cHM9OJH4PsmVHKt+bDOTwD+KEk6Lz2C+D5VUciJ2VlJshJVM1copbGUWif75CHMWz12ZJNNcRkGVffI9+Wp0SIGQ==;9+n1JXqnfiKUJsnGCpdBig=="
 ---

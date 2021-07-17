@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/21/07/b21949201/contentsqua
 webUrl: "https://www.benzinga.com/pressreleases/21/07/b21949201/contentsquare-accelerates-machine-and-deep-learning-capabilities-with-acquisition-of-leading-ai-co"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,43 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "New Uniphore AI-Driven Capabilities Provide Enhanced Customer Experiences"
-    excerpt: "Uniphore, an early leader in Conversational Service Automation (CSA), today announced innovative new Artificial Intelligence (AI) enhancements to its portfolio of products. With these additions, the company continues to lead in providing new"
-    publishedDateTime: 2021-07-14T15:23:00Z
-    webUrl: "https://www.lelezard.com/en/news-19902481.html"
+  - title: "McLaren Strategic Ventures Acquires Doran Jones to Expand its Digital Transformation Capabilities in Financial Services"
+    excerpt: "McLaren Strategic Ventures, a global digital accelerator, today announced it has acquired Doran Jones, a leading technology consulting, data engineering and software development"
+    publishedDateTime: 2021-07-14T12:31:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/mclaren-strategic-ventures-acquires-doran-jones-to-expand-its-digital-transformation-capabilities-in-financial-services/article_8cedd873-0a75-50f5-980e-b8084686acf3.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 38
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Learning Science: Artificial Intelligence in Courseware Can Enhance Student Learning"
-    excerpt: "Researchers from VitalSource Technologies, a leading education technology solutions provider, recently presented new insights into the ways that artificial intelligence (AI) can be deployed to enhance student learning through quality,"
-    publishedDateTime: 2021-07-14T17:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-73f1b39d62604da1be5508e8867bbfa5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "PanAmerican Seed Leverages Tavant's Artificial Intelligence Expertise to Optimize its Seed Production Process"
-    excerpt: "Tavant, a digital products and solutions company, today announced it has partnered with PanAmerican Seed, which is a part of Ball Horticultural Company, a leader in all facets of horticulture. The partnership will help Ball Horticultural Company create its master data lake platform architecture and further allow them to reduce overall seed production costs."
-    publishedDateTime: 2021-07-14T15:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-panamerican-seed-leverages-tavants-artificial-intelligence-expertise-optimize-/2021/07/14/9409274.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/0a/70ac46ea-4a21-5318-8132-c8da849d46eb/60eed9757cbbe.image.jpg?resize=815%2C630"
+        width: 815
+        height: 630
+        isCached: true
 
 secured: "DJOWCr+cPJzkrijObMPCS5lkxpLLh+WgKydnYbBVgWAydcOBLQ3jj4OC0F5x2+U8TMQgC6FYgNxKYGw1S8xOzPt7rvLYv0fwbPKt54ss9Y9uVtrYWudxR7qco7MWrv7GGlWvbzbRqqiYvB9oegEkxhkvGGiWZIjTOlX7GOJpVatGOy/9APPqNoXebtu4s5sfDJ3OtW8KAJdX0pLkOSlKymmvkP+Cra6cTunbucidy8J68/9a3yS1sRyn8iGbqzARbYVsn3nM3rv9f+34IzRSaLvYltk6KRc9xQcvuTmBWWmkzTfWch4T/LIMfTupMcyeoTy6HejR6LJ6mohTth/Iarf6JkTkgf4Q2RrBw9plpsc=;dR0GxdGdKy6lifb/IdkY/Q=="
 ---

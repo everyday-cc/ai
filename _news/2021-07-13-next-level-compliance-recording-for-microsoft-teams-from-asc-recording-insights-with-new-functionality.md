@@ -226,20 +226,6 @@ related:
         width: 733
         height: 504
         isCached: true
-  - title: "Voice Recognition Systems Market Is Booming Worldwide | Nuance Communications, Microsoft, Agnitio"
-    excerpt: "Announced Voice Recognition Systems study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Voice Recognition Systems. Voice Recognition Systems industry Report allows you to get different methods for maximizing your profit."
-    publishedDateTime: 2021-07-12T18:40:00Z
-    webUrl: "https://manometcurrent.com/voice-recognition-systems-market-is-booming-worldwide-nuance-communications-microsoft-agnitio/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 28
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/chart-2021-07-13T001031.329-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Kwik Lok adds Microsoft executive to board"
     excerpt: "Jeff’s addition to Kwik Lok’s board of directors brings many opportunities to expand our innovation, collaboration and technology initiatives,” Kimberly Paxton-Hagner, Kwik Lok board chairwoman, said in a news release."
     publishedDateTime: 2021-07-12T23:08:00Z

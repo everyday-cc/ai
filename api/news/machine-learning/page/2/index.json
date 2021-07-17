@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-07-07-dont-trust-reported-tops-metrics-for-deep-learning.md",
-      "title": "Don’t trust reported TOPS metrics for deep learning",
-      "excerpt": "Reported tera operations per second (TOPS) is an exaggerated performance number that most neural networks will never see under real-world conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/dont-trust-reported-tops-metrics-for-deep-learning/",
-      "originalUrl": "https://www.embedded.com/dont-trust-reported-tops-metrics-for-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2021/07/Chip-abstract.jpg",
-          "width": 1388,
-          "height": 927,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-07-even-pro-golfers-have-turned-to-remote-learning.md",
       "title": "Even Pro Golfers Have Turned to Remote Learning",
       "excerpt": "With coaches and players forced to keep their distance because of the pandemic, perfecting the golf swing went virtual.",
@@ -1364,6 +1321,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-machine-learning-market-to-see-major-growth-by-2026-bigml-h2oai-sap.md",
+      "title": "Machine Learning Market To See Major Growth By 2026 | BigML, H2O.ai, SAP",
+      "excerpt": "Global Machine Learning Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery is latest research study released by HTF MI evaluating the market risk side analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/28/machine-learning-market-to-see-major-growth-by-2026-bigml-h2o-ai-sap/",
+      "originalUrl": "https://ksusentinel.com/2021/06/28/machine-learning-market-to-see-major-growth-by-2026-bigml-h2o-ai-sap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/Machine-Learning-Market.jpeg",
+          "width": 672,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

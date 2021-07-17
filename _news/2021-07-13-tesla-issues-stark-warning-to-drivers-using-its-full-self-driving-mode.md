@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-dri
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/?amp"
 type: article
 quality: 89
-heat: 299
+heat: 269
 published: true
 
 provider:
@@ -127,22 +127,6 @@ related:
         width: 620
         height: 301
         isCached: true
-  - title: "Tesla self-driving software update begins rollout though company says to use with caution"
-    excerpt: "Tesla owners with access to self driving technology have more options following a software update released on Saturday, reports say"
-    publishedDateTime: 2021-07-12T18:29:00Z
-    webUrl: "https://www.indystar.com/story/money/2021/07/11/tesla-self-driving-gets-boost-software-update-reports-say/7930730002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7930730002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7930730002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 50
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/48ca114c5a45a5268a80a24e4b23bd36f43a4651/c=0-0-1650-928/local/-/media/2021/07/10/USATODAY/usatsports/MotleyFool-TMOT-effc75eb-tsla-model-s.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AEV Summit: Embark focuses self-driving tech on big fleets"
     excerpt: "DETAILS: Embark Trucks has the longest experience — five years — of running self-driving trucks on public highways. It is offering a bolt-on software that can go on any manufacturer’s truck. It envisions commercial fleets having the technology by 2024 — with no safety drivers."
     publishedDateTime: 2021-07-14T18:00:00Z
@@ -206,34 +190,6 @@ related:
       - url: "https://thehill.com/sites/default/files/ca._traffic_gettyimages-81241768.jpg"
         width: 1440
         height: 880
-        isCached: true
-  - title: "Tesla’s Full Self-Driving beta ticks up to version 9.0"
-    excerpt: "Tesla has begun sending out an extremely limited amount of over-the-air updates to bring its Full Self-Driving (FSD) Beta up to version 9. The new update enables members of Teslas"
-    publishedDateTime: 2021-07-12T18:32:00Z
-    webUrl: "https://knowtechie.com/teslas-full-self-driving-beta-ticks-up-to-version-9-0/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/09/tesla-hw2-autopilot-promo-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Tesla’s Full Self-Driving Beta v9 Released, Here’s How It Looks"
-    excerpt: "Tesla's Full Self-Driving Beta v9 software has just been released for compatible vehicles. Here are all the details on this, including how it looks."
-    publishedDateTime: 2021-07-12T17:11:00Z
-    webUrl: "https://www.redmondpie.com/teslas-full-self-driving-beta-v9-released-heres-how-it-looks/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 39
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/01/model-s-plaid-interior.jpg"
-        width: 1200
-        height: 621
         isCached: true
   - title: "Tesla warning: self-driving feature may ‘do the wrong thing at the worst time’"
     excerpt: "According to Digital Trends, as noticed by YouTuber Tesla Raj, the release notes of the Full Self-Driving limited access update states it may \"do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road."

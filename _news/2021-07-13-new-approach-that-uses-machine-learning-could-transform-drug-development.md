@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210712/New-approach-that-use
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210712/New-approach-that-uses-machine-learning-could-transform-drug-development.aspx"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: News Medical
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence could be new blueprint for precision drug discovery"
-    excerpt: "Writing in the July 12, 2021 online issue of Nature Communications, researchers at University of California San Diego School of Medicine describe a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval."
-    publishedDateTime: 2021-07-12T18:28:00Z
-    webUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-drug.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "AI-Driven Drug Discovery Blueprint Could Deliver Better Drugs for Chronic Diseases, Researchers Claim"
     excerpt: "A new mathematical approach could transform drug development by searching for disease targets, then predicting if a drug will be successful."
     publishedDateTime: 2021-07-14T12:00:00Z

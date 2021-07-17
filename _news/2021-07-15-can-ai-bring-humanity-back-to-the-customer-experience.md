@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmexec.com/view/can-ai-bring-humanity-back-to-the-c
 webUrl: "https://www.pharmexec.com/view/can-ai-bring-humanity-back-to-the-customer-experience-"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Verizon delivers a ‘phygital’ customer experience with data, AI"
-    excerpt: "Verizon relied on AI to provide employees who worked in the store and those from home with customer analytics to improve customer service."
-    publishedDateTime: 2021-07-12T17:50:00Z
-    webUrl: "https://venturebeat.com/2021/07/12/how-verizon-delivers-a-phygital-customer-experience-with-data-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/07/12/how-verizon-delivers-a-phygital-customer-experience-with-data-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-verizon-delivers-a-phygital-customer-experience-with-data-ai/amp/"
+  - title: "New Uniphore AI-Driven Capabilities Provide Enhanced Customer Experiences"
+    excerpt: "Uniphore, an early leader in Conversational Service Automation (CSA), today announced innovative new Artificial Intelligence (AI) enhancements to its portfolio of products. With these additions, the company continues to lead in providing new"
+    publishedDateTime: 2021-07-14T15:23:00Z
+    webUrl: "https://www.lelezard.com/en/news-19902481.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 38
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/01/Verizon-sign-Mike-Mozart-Flickr-e1626076085458.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "+3GSXwkd94zgEtgYN/EIHHxJjorl4RqAtuq88dSth3NJrzVyBZ9XLmAjlrxsDX/ajeHPpwGbBehusFebBEb2VTeTr1ISIbVK5a3JkFLRASh1dZMjk/8LmTD1cLWrVq/5lnbybqdSKKbQT0jOnlTLEXQqtvBvs0CnRI5Q7l0dcHLbm/sx2K9GNQWv3CALE3X57yV0qC7p6Ex7oTNAsZz8X7jK5/PFECs9Sa5ptRLMEmfW7DdeIaAUKPR21za3q0SnEzsLxLKP4QzqVIKl8XvohI2CuRT5Cg7zc6BdPsW67TCW4t/FyWkYGaGdVGLwQhQuRrc1sGI5w/v3ce1aA351xNo1CwNlGyL4O6cnLWYj8l5ycGuGSwqTGHSgwjEDqY6h/gJMPmKbvsyy3zkQ92HCICVsdsBmvTIjJV1mOInz9cHP2+mlCBSUqkyFzMC4n6htI2g8ylJXzdp0iwoPDCOVVz92LLPkrJZ2GiC9u69MF4JF7eC1AMY82NxwySDq0gyVhQrzSPjsVUPQBU5Ew0yzCA==;XxZdY5zT79ZK0zV4Xm5Hhw=="

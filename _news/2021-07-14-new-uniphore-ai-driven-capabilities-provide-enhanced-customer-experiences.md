@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19902481.html"
 webUrl: "https://www.lelezard.com/en/news-19902481.html"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,43 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Contentsquare Accelerates Machine and Deep Learning Capabilities with Acquisition of Leading AI company Upstride"
-    excerpt: "Contentsquare, the global leader in digital experience analytics, announces its acquisition of Upstride today, a Paris-based deep-tech company specialized in improving machine learning performance."
-    publishedDateTime: 2021-07-13T07:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/b21949201/contentsquare-accelerates-machine-and-deep-learning-capabilities-with-acquisition-of-leading-ai-co"
+  - title: "Can AI Bring Humanity Back to the Customer Experience?"
+    excerpt: "Without AI, there’s no way to sift through that many data points ... One non-negotiable key to this brighter future is absolute clarity around digital ethics, GDPR respect, and transparency on what we do and why we do it. If we openly share with our ..."
+    publishedDateTime: 2021-07-15T13:15:00Z
+    webUrl: "https://www.pharmexec.com/view/can-ai-bring-humanity-back-to-the-customer-experience-"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
+      name: Pharm Exec
+      domain: pharmexec.com
+    quality: 39
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.sanity.io/images/0vv8moc6/pharmexec/d5f9c6b6aecc22acdb7c84ce2de2fcfb43bc80c6-460x283.jpg?fit=crop&auto=format"
+        width: 460
+        height: 283
         isCached: true
-  - title: "Learning Science: Artificial Intelligence in Courseware Can Enhance Student Learning"
-    excerpt: "Researchers from VitalSource Technologies, a leading education technology solutions provider, recently presented new insights into the ways that artificial intelligence (AI) can be deployed to enhance student learning through quality,"
-    publishedDateTime: 2021-07-14T17:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-73f1b39d62604da1be5508e8867bbfa5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "PanAmerican Seed Leverages Tavant's Artificial Intelligence Expertise to Optimize its Seed Production Process"
-    excerpt: "Tavant, a digital products and solutions company, today announced it has partnered with PanAmerican Seed, which is a part of Ball Horticultural Company, a leader in all facets of horticulture. The partnership will help Ball Horticultural Company create its master data lake platform architecture and further allow them to reduce overall seed production costs."
-    publishedDateTime: 2021-07-14T15:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-panamerican-seed-leverages-tavants-artificial-intelligence-expertise-optimize-/2021/07/14/9409274.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "eY//HBzacBdLfUXC1fR8ub158p3vl2iy6USWn9l04w283r97BPkk42tj1UjUbxYmKLWD1UDReYJNi8/D7sb6eLFMQdv8ik4JFUFRTDTEw8j1ECf6sFgqZR7SyevWiKfRn+oMmNNearGIbFn8ekAWcxBufPzfJ49UOwgqQT9viqPztXGYofNyjO72SxEO0ym7wv2/sGBPbZUTZRESKPT8yV2r7bGBaSRn3hWlSPp/GrlqO9XbtsubedWQecR6WOlMppxYGmMNt0Xs8mAjWN64jovk8G1VI6o3iaQCbRAFPkwTOnzITwRhXa8yda5mrsstp7C2ZTSXEbSKJL8ArXBomjf+LydIMnFrgLjNGHuTbJw=;k11YBd3OSl05FLtCe/hKNQ=="
 ---

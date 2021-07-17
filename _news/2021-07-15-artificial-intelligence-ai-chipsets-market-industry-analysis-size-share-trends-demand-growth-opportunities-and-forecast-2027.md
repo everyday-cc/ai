@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14"
 type: article
 quality: 74
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -196,20 +196,6 @@ related:
       - url: "https://i.ibb.co/0s5CLpy/Rssearchmoz-us99.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "Deep Neural Networks Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
-    excerpt: "The report talks about the production capacity, demand and supply trends, market dynamics, and impact of these and other key factors on the global Deep Neural Networks market. It also offers an extensive analysis of the competitive landscape along with an industry-wide analysis of the market share of each player along with their business profiles."
-    publishedDateTime: 2021-07-12T17:13:00Z
-    webUrl: "https://manometcurrent.com/deep-neural-networks-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-by-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 14
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/RD11-2-390x220.png"
-        width: 390
-        height: 220
         isCached: true
   - title: "Artificial Organs Market Growth, Future Prospects, Opportunity Analysis, Industry Forecast 2027"
     excerpt: "The global artificial organs market is expected to reach USD 32.62 Billion by 2027, according to a new report by Emergen Research. The specialist consulting approach adopted to study the Artificial Organs market by size,"

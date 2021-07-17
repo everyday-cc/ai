@@ -49,20 +49,6 @@ related:
         width: 388
         height: 400
         isCached: true
-  - title: "What Kind of Sea Ice is That? Thanks to AI, There's an App for That"
-    excerpt: "If you’ve watched Netflix, shopped online, or run your robot vacuum cleaner, you’ve interacted with artificial intelligence, AI. AI is what allows computers to comb through an enormous amount ..."
-    publishedDateTime: 2021-07-12T17:05:00Z
-    webUrl: "https://maritime-executive.com/editorials/what-kind-of-sea-ice-is-that-thanks-to-ai-there-s-an-app-for-that?fb_ref=tFA8fzllQY-Twitter"
-    type: article
-    provider:
-      name: Maritime Executive
-      domain: maritime-executive.com
-    quality: 37
-    images:
-      - url: "https://maritime-executive.com/media/images/article/Photos/Navy_Govt_CoastGuard/antarctica-icebreaker-coast-guard-cimsec.e403a2.jpg"
-        width: 643
-        height: 361
-        isCached: true
 
 secured: "UKA0firoZkhqnHtdm0vcvQvYQ//6IBFFmcSi7fGuwOH217PcCznYWBK5686hqFVJ9k96MRcb01Q7HKniUOCsiZj2qh8nW501N03lnXv7p0lcxDmkHJxhSBVhO8P80w47LDhkW1psjE8hMcoyZtsiXoYerZWtfwqc4LFrpAwseAWiXSGtbxUU+25EHrB08NqpjtCgJ1lAtOrKAyzAjaSJIUScewTOhExvi7TjbQHw1tvYpOeIBtxewJWJv2ERj9hjTyP2iyo0qYFd6QlMX6oxdxzFGKMEvBdcj+21XhvZ/0DCBQBzok3mVUmi0MUfwrOGV9jdmYZED0gaytEFuaNgU/wk932i0/NBrspG7Z4o2Wc=;N9CFJQ7K4/MrLwsRopeAXw=="
 ---

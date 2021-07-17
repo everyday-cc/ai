@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-supervised machine learning adds depth, breadth and speed to sky surveys"
-    excerpt: "Sky surveys are invaluable for exploring the universe, allowing celestial objects to be catalogued and analyzed without the need for lengthy observations. But in providing a general map or image of a region of the sky,"
-    publishedDateTime: 2021-07-12T18:05:00Z
-    webUrl: "https://techxplore.com/news/2021-07-self-supervised-machine-depth-breadth-sky.html"
-    ampWebUrl: "https://techxplore.com/news/2021-07-self-supervised-machine-depth-breadth-sky.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-self-supervised-machine-depth-breadth-sky.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/self-supervised-machin.jpg"
-        width: 600
-        height: 274
-        isCached: true
   - title: "Importance of AI in Remote Learning"
     excerpt: "Educators are using AI-enabled Learning Management System to track their student's progress (LMS). The primary purpose for creating LMS was to improve the learning experience with Artificial Intelligence (AI) support."
     publishedDateTime: 2021-07-16T21:09:00Z

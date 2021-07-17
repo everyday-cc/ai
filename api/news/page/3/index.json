@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-15-tecno-camon-17-17-pro-launched-in-india-with-90hz-displays-and-mediatek-chips.md",
+      "title": "TECNO CAMON 17, 17 Pro launched in India with 90Hz displays and MediaTek chips",
+      "excerpt": "TECNO has officially debuted the TECNO CAMON 17 series in India. The brand has introduced two models for the country, namely TECNO CAMON 17 and TECNO CAMON 17 Pro. These phones offer high refresh rate displays,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/07/15/tecno-camon-17-pro-india-launch-price-specs-features/",
+      "originalUrl": "https://www.gizmochina.com/2021/07/15/tecno-camon-17-pro-india-launch-price-specs-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/06/Tecno-Camon-17-Pro-Review-05.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-insights-on-the-31-billion-robotics-global-market-to-2025-impact-analysis-of-covid-19.md",
       "title": "Insights on the $31 Billion Robotics Global Market to 2025 - Impact Analysis of COVID-19",
       "excerpt": "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double digit CAGR over the forecast period of 2021 - 2025. The adoption of robots across a wide range of industries including manufacturing,",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -115,7 +167,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -261,7 +313,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -870,58 +922,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-artificial-intelligence-will-soon-be-assisting-your-platform-migrations.md",
-      "title": "Artificial intelligence will soon be assisting your platform migrations",
-      "excerpt": "Along with creating new applications, AI for coding may also smooth the way for moving applications and systems to modern platforms. In a recent interview, Maja Vuković, an IBM Fellow at the company's Watson Research Center, explained how a client was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/07/14/102d659b-03cb-43f7-8488-0131d6cc9f1b/hands-typing-4.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/",
-      "publishedDateTime": "2021-07-14T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     },

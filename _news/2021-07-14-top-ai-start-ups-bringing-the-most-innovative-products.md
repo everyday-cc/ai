@@ -51,6 +51,22 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 69
+  - title: "Is AI a friend or foe to marketers?"
+    excerpt: "Every time artificial intelligence (AI) disrupts a new industry use case ... as that’s when they typically start shopping for the baby. It boomeranged when an angry parent of a high school girl complained about sending the girl baby apparel coupons ..."
+    publishedDateTime: 2021-07-17T10:51:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/features-2/is-ai-a-friend-or-foe-to-marketers-7186881.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/features-2/is-ai-a-friend-or-foe-to-marketers-7186881.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/features-2/is-ai-a-friend-or-foe-to-marketers-7186881.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/07/Artificial-intelligence-boon-or-foe-jem-sahagun-kqC3rZEMBI-unsplash-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
 
 secured: "BzkF7ZskNpS481pxI4L7f5kWyYsPyObUhxbPQA9iUJGDTwdCPnffVNt+34u/CVvMsZztG90pBJC+dviANgtKGHLwlfPJZGJzMBP885eMx30Fso59MFsrIr5sSSqquPwspqkBrOQS9yWwP+5pYYZuYyPTZ9WJ91qJUhiVwOrghCON91GVKWnXOO6bMqZfOlnCYYqc9NZFR6t+Z2uk0uRLX7Di86bYn+Q0W0rE8mJ9njjUtF7whzBy4ksjrfzHPETBTPRW9r9ewMeBk2UPkWY9U8Nl0iry8s3AsRUAf1nqtpMKpR7YrdbXXSdeNveNkpjioywtukUe0t7nAckwCUTqKvTrqsq8Ozv43zgrhXV6Z4xOvOTbYbqV4iWstSwqLbdiNC9mlnilttj+p28GSt4AunDbcjiNecavlN/WALnbDSdesF+jd2/dvPS7Aa6bg/aC5wcsnref0hfP8jGt+QTcmpPjbP3876wgyIwECloVp9IcHkLYd02xXUiyDP2qlBb50U6gbeHVWAcjf8qjWlXTBw==;FEDVwqFtDEiKtOVAgRkjJg=="
 ---

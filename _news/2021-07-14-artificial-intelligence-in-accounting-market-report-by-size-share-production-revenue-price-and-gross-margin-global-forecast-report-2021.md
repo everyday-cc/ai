@@ -1,22 +1,32 @@
 ---
 category: news
-title: "Global Artificial Intelligence (AI) in Education Market Size, Status and Forecast 2021-2027"
-excerpt: "The global Artificial Intelligence (AI) in Education market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report ..."
-publishedDateTime: 2021-07-15T08:56:00Z
-originalUrl: "https://www.reportsnreports.com/reports/4669860-global-artificial-intelligence-ai-in-education-market-size-status-and-forecast-2021-2027.html"
-webUrl: "https://www.reportsnreports.com/reports/4669860-global-artificial-intelligence-ai-in-education-market-size-status-and-forecast-2021-2027.html"
+title: "Artificial Intelligence in Accounting Market Report by Size, Share, Production, Revenue, Price and Gross Margin: Global Forecast Report 2021 to 2027"
+excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in"
+publishedDateTime: 2021-07-14T10:28:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-report-by-size-share-production-revenue-price-and-gross-margin-global-forecast-report-2021-to-2027-2021-07-14"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-report-by-size-share-production-revenue-price-and-gross-margin-global-forecast-report-2021-to-2027-2021-07-14"
 type: article
-quality: 39
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: ReportsnReports
-  domain: reportsnreports.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AWS AI
   - AI
-  - AI in Education
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2027"
@@ -65,6 +75,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Education Market Size, Status and Forecast 2021-2027"
+    excerpt: "The global Artificial Intelligence (AI) in Education market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report ..."
+    publishedDateTime: 2021-07-15T08:56:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4669860-global-artificial-intelligence-ai-in-education-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 39
   - title: "Artificial Intelligence in Drug Discovery Market Share, Opportunities, Future Trends, Top Key Players and Analysis by Forecast to 2027"
     excerpt: "Global Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million"
     publishedDateTime: 2021-07-14T07:42:00Z
@@ -90,20 +109,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
-  - title: "Artificial Intelligence in Accounting Market Report by Size, Share, Production, Revenue, Price and Gross Margin: Global Forecast Report 2021 to 2027"
-    excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in"
-    publishedDateTime: 2021-07-14T10:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-report-by-size-share-production-revenue-price-and-gross-margin-global-forecast-report-2021-to-2027-2021-07-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Self-Driving Truck Technology Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2026"
     excerpt: "The global research report titled Global Self-Driving Truck Technology Market 2021 by Company, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz is prepared with a nice combination of industry insight,"
     publishedDateTime: 2021-07-14T02:45:00Z
@@ -245,6 +250,6 @@ related:
       domain: reportsnreports.com
     quality: 0
 
-secured: "CtDcdRXc0YcI3VHVNbjy1vIB5l9/3SmWaTmWYXLMQn92o/OG8mGTkR4rgqY8RE9/+7/onMwiToceT+7NtJCK+lSBaddbGzzm2OLFca66lx0It7NVC9+c1iKZfyruwqW9R6Rd6p6grnaElcYUQ7yA0YeTL/LEhF8HHaSNk5kyP1Z/T4IoJEOVmyjH756O32nKZVEBedIQQFbUeZ7HUqsDK9xGWH1zZfl+AJI4WaHIZ8BPD5SqwVLFW6+te/gVjg8Upwp6s3ymzcrkrB5yIQpsLkY+TeZvdpiQlMVlL1CDPMUw80bAJ3OywvX9ab5PuwEmgJD6T3N1Ix7AhPm6mSxDIF6U1nUfctRRoYPsKL2UgbM=;tcyIZEyGUawVMOKnIcUUFA=="
+secured: "ew9ARYi9okDu4W/ZA+gaN/C17SsFpzPNHD3QJ9ARL3LNmHrfNb6EXkKtJeAjSkLNcfVuqmQQbNYSnqKh78I21i+KlJZaNkR1gVe673NRi0DV+05gzKCk8b0hb1yma0+5Q5GUsf4B2By2qPIHIYVswOAy9NeS5C0Ky/z4QdpkImWnWEtAqz/bPMfRGKMx/bIdF/UR8Y50QaM/9nGLyyDMS2gOsaJiMVXwOBFvmWpfwVGxn8I7cbfIurXKNuUMBkyjN6nsh3Au7CSYgBzDfepM8v5V1YpASQRgBwDgn+2YsH+9WtIACswh+tvx+8UCAmYUjhI5jETPjQo33XM30NrYI0WrnJJ5I3ongkdVP9AlBgk=;0w/mYyfiyxjJ9Dav4oKOjQ=="
 ---
 

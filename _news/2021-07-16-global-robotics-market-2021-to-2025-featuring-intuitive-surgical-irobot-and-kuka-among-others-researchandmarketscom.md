@@ -69,17 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Detection of COVID-19 via Automatic Artificial Intelligence Cough Analysis"
-    excerpt: "A team of researchers has submitted the system to the Cough Sound Track of the Diagnosing COVID-19 using Acoustics (DiCOVA) Challenge. The covid-19 crisis has tested healthcare systems throughout the world."
-    publishedDateTime: 2021-07-12T17:56:00Z
-    webUrl: "https://scitechdaily.com/detection-of-covid-19-via-automatic-artificial-intelligence-cough-analysis/"
-    ampWebUrl: "https://scitechdaily.com/detection-of-covid-19-via-automatic-artificial-intelligence-cough-analysis/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/detection-of-covid-19-via-automatic-artificial-intelligence-cough-analysis/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
   - title: "Automatic Speech Recognition Applications Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast - 2027"
     excerpt: "The Global Automatic Speech Recognition Applications Market is valued at USD million in 2019 The market size will reach USD million by the end of 2027 growing at a CAGR of 1 during 2021 2027 Automatic Speech Recognition Application is"
     publishedDateTime: 2021-07-15T10:08:00Z

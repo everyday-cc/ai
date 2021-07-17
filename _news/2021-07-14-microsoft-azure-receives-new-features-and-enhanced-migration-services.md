@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-feat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
 type: article
 quality: 104
-heat: 274
+heat: 264
 published: true
 
 provider:
@@ -215,20 +215,6 @@ related:
       - url: "https://www.usf.edu/images/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft/microsoft-article.jpg"
         width: 733
         height: 504
-        isCached: true
-  - title: "Voice Recognition Systems Market Is Booming Worldwide | Nuance Communications, Microsoft, Agnitio"
-    excerpt: "Announced Voice Recognition Systems study with 200+ market data Tables and Figures spread through Pages and easy to understand detailed TOC on “Voice Recognition Systems. Voice Recognition Systems industry Report allows you to get different methods for maximizing your profit."
-    publishedDateTime: 2021-07-12T18:40:00Z
-    webUrl: "https://manometcurrent.com/voice-recognition-systems-market-is-booming-worldwide-nuance-communications-microsoft-agnitio/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 28
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/chart-2021-07-13T001031.329-780x470.jpg"
-        width: 780
-        height: 470
         isCached: true
   - title: "Next Level Compliance Recording for Microsoft Teams from ASC: Recording Insights with New Functionality"
     excerpt: "ASC Technologies AG, provider of one of the first certified compliance recording solutions for Microsoft Teams, has invested in the"
