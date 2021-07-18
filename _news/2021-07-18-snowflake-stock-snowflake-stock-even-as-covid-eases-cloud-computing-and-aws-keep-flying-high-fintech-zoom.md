@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Snowflake Stock – Even as COVID eases, cloud computing and AWS keep flying high"
+title: "Snowflake Stock – Snowflake Stock – Even as COVID eases, cloud computing and AWS keep flying high | Fintech Zoom"
 excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
-publishedDateTime: 2021-07-18T11:03:00Z
-originalUrl: "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/"
-webUrl: "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/"
+publishedDateTime: 2021-07-18T13:06:00Z
+originalUrl: "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high-fintech-zoom/"
+webUrl: "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high-fintech-zoom/"
 type: article
-quality: 35
+quality: 20
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: fintechzoom.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
+  - AWS AI
 
 images:
   - url: "https://fintechzoom.com/wp-content/uploads/2021/07/superman-cloud-1-1024x680-1.jpeg"
@@ -39,21 +40,21 @@ related:
         width: 1024
         height: 680
         isCached: true
-  - title: "Snowflake Stock – Snowflake Stock – Even as COVID eases, cloud computing and AWS keep flying high | Fintech Zoom"
+  - title: "Snowflake Stock – Even as COVID eases, cloud computing and AWS keep flying high"
     excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
-    publishedDateTime: 2021-07-18T13:06:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high-fintech-zoom/"
+    publishedDateTime: 2021-07-18T11:03:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/"
     type: article
     provider:
       name: fintechzoom
       domain: fintechzoom.com
-    quality: 20
+    quality: 35
     images:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/07/superman-cloud-1-1024x680-1.jpeg"
         width: 1019
         height: 581
         isCached: true
 
-secured: "xP/LJq+2euKpXtOy+qVwt8qYIGRYnzyJFg00HVFWdJ5CLiD69wp154uPVi0w76ZhUTGEA7PCcMGd9NtzNHHdO5h0WzjGNfngQoIYZAucknF7Hz4EdExjMCjPOg7MGIfGFiXfRdoxtuAqAYX4uVVvS18UjOmSoJdF5kCIZS8QJgskkBlf5I2TmUlbJ2aS1ldlMN6tAiSsaq73BDKKD/vz/YpQZ4PejmC6JJrqthZM+PxgKGFQEGhRU8TkiIRb4+b5zruE4e30QISHIdcdAGIoH1d9iv7PgbLzcjETGt4hxUr2FP+1nZcBfR5/0Pp6uXyMGvsG8mVKodwfKGPxyho0BBze1egHdLPbsKaAjWGgiq3X0brJDGqJ6OYMHWDTsmGVQ/0IVvxu8haN+ZHfNW361uHEz2K2eBtsdyJBu6d/BOLk4g/IKXSP63qZ4tm+CFnZldj7q2lHEZ8b1VjebYFI+ecufNHSAFwiNHGxkF6xHokcGEIY2PydHzT+8ocTG5X5shjQaV4/NOqnqMrzoW7MMg==;2lB7itOHhkiA8MGWj1cuzA=="
+secured: "rk4XRAQk1yBp/TAJy/1QLE6iIGsY8evNSqi+8Y7flG46gTdYEKmbHNaWPy2zm3qdxyG74kerW9JmlzKeyAGp/r3NvCRMSUpMAEPgVq0RxIa3soqS1n7pwREgM7SN3ph2cX16GsNgx7oo+HH5FfA8QShR9ZrL07N5UnR0E3Fp+SsHnNdV5RTelqdTahd7QS737c5PLP090McOLvzz96pVZ4XQNZl6/8zN5TwvP1xGjm+dlpAEVmb48b2c4ehqfrzw6S8wMVEbeEL4m/vxaLkdB/QArlwu8FHUtZfGMMj2BKO+irg1/I4wcsBkcSyeTSwBgIP2NmCE0njcgvPXH3LBMoh5niiKPckjdx/7TndbjqA=;YPOdsbycZNSgx7lDbTsPSg=="
 ---
 

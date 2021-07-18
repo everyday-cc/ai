@@ -72,22 +72,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Republicans and Democrats concerned about facial recognition technology"
-    excerpt: "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,"
-    publishedDateTime: 2021-07-13T21:24:00Z
-    webUrl: "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
-    ampWebUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: WSAV-TV
-      domain: wsav.com
-    quality: 61
-    images:
-      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "A|I: The AI Times – Scrutinizing facial recognition tech"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
     publishedDateTime: 2021-07-14T09:30:00Z

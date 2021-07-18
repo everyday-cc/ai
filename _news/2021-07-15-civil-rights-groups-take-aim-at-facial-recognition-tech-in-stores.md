@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-cam
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/"
 type: article
 quality: 174
-heat: 314
+heat: 304
 published: true
 
 provider:
@@ -54,22 +54,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-1-2.jpg&signature=3261f0546d4c312e6f118f86303e73d5"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Republicans and Democrats concerned about facial recognition technology"
-    excerpt: "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,"
-    publishedDateTime: 2021-07-13T21:24:00Z
-    webUrl: "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
-    ampWebUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: WSAV-TV
-      domain: wsav.com
-    quality: 61
-    images:
-      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Congress Asks Experts for Guidance on Facial Recognition"
     excerpt: "Law enforcement uses facial recognition systems with little oversight and, at times, disastrous impact. During a congressional hearing this week, members and experts talked through how new laws could head off greater harm."

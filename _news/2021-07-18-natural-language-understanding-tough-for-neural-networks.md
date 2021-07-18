@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/07/18/natural-language-understanding-tough
 ampWebUrl: "https://venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/01/nlp.jpg?w=1200&strip=all"

@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 793
         isCached: true
-  - title: "Republicans and Democrats concerned about facial recognition technology"
-    excerpt: "Law enforcement must be careful when using facial recognition technology. “We need to ensure that the adoption of this new technology that does not further erode trust between law enforcement and the communities they serve,"
-    publishedDateTime: 2021-07-13T21:24:00Z
-    webUrl: "https://www.wsav.com/news/national-news/republicans-and-democrats-concerned-about-facial-recognition-technology/"
-    ampWebUrl: "https://www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/republicans-and-democrats-concerned-about-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: WSAV-TV
-      domain: wsav.com
-    quality: 61
-    images:
-      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2021/07/CBD9E120D58140A1A6D82774464D865D_7.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Congress Asks Experts for Guidance on Facial Recognition"
     excerpt: "Law enforcement uses facial recognition systems with little oversight and, at times, disastrous impact. During a congressional hearing this week, members and experts talked through how new laws could head off greater harm."
     publishedDateTime: 2021-07-14T23:15:00Z

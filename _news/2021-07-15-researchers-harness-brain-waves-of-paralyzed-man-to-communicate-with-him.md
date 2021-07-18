@@ -29,19 +29,19 @@ images:
 related:
   - title: "Device taps brain waves to help paralyzed man communicate"
     excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
-    publishedDateTime: 2021-07-15T03:19:00Z
-    webUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1424"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424"
+    publishedDateTime: 2021-07-14T21:29:00Z
+    webUrl: "https://www.greenwichtime.com/news/article/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
+    ampWebUrl: "https://www.greenwichtime.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
+    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
+      name: Greenwich Time
+      domain: greenwichtime.com
+    quality: 59
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg"
-        width: 2500
-        height: 1669
+      - url: "https://s.hdnux.com/photos/01/21/00/61/21236820/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Paralyzed man’s brain waves turned into sentences on computer in medical first"
     excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm – they imagine moving and those brain signals are ..."

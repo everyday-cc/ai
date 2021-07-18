@@ -40,24 +40,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Daily Crunch: ZoomInfo announces plans to acquire sales intelligence tool Chorus.ai for $575M"
-    excerpt: "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package."
-    publishedDateTime: 2021-07-13T22:10:00Z
-    webUrl: "https://techcrunch.com/2021/07/13/daily-crunch-zoominfo-announces-plans-to-acquire-sales-intelligence-tool-chorus-ai-for-575m/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 53
-  - title: "ZoomInfo Technologies Using New Financing to Help Pay for AI Startup"
-    excerpt: "The business-intelligence platform, which is buying Chorus.ai for $575 million, on Tuesday raised about $500 million in debt."
-    publishedDateTime: 2021-07-13T22:19:00Z
-    webUrl: "https://www.wsj.com/articles/zoominfo-technologies-using-new-financing-to-help-pay-for-ai-startup-11626218341"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "ZoomInfo buys Israel-US startup Chorus.ai for $575m"
     excerpt: "US business intelligence company ZoomInfo announced today that it is acquiring Israeli-US startup Chorus.ai for $575 million cash. Chorus.ai has developed a system that analyzes and provides insights on sales conversations and competes with Israeli startup Gong."
     publishedDateTime: 2021-07-17T10:13:00Z
@@ -73,6 +55,6 @@ related:
         height: 392
         isCached: true
 
-secured: "gJOJuEFESYXH9Z4HbQBt/GZyoIUB39FCMtdhuZwh4QBnP+O0va1Rvy45rz2iMHnI/5ay3pnX0SHRcRcq7v1XYaDT2ov74i+382uTpVSUDsfhnl94q5uh2nHzh5cMIKpIQlDxm0yHqDNJf9XXilT4E7uk6ITEUim2fGl2EPjQTRFhzGTCFfchuEBBhGAx5ryAFBjA/t7eAwUTiCXy3rgjdZDTERV8/MczFTxt7gc0Nslw2AQZNMu0UhMOXUHfg0cEBm39hVUj9/uxfzpTAAa9xJFKXVSyDCdpIWKZatz3keFY8MNaDhP/Ee+nSxX/ktlgwvM05J0eLcxZSwtAO4a6ISYlCKu6hN5VibPoBaYba8Q=;KI6RsNsYM4/qtNn08vhicA=="
+secured: "OOepsLJM5cEYFZNRvEPoK6THvXdMDLPnmChFpKNl20ewJmPvmLH+pfn8mu2WFJmdue2DPA1lLADqmbFv5oOjfE81pBaFWOPI+7ZqFk6CjBCM+E4MKK6B2KungX+WYkbzRUMx0dgFLHMEqkbJ5uynQQmwvy9WWAj0J+A7/i3QlzRvuj4hGtZZdTB73CckqWI6Qbg3AWyNWz8OeNAPsrx0LhI4gJjY4dLjfcDfbN+ucOxSC/HR4KHtnx6AA7gsA7YCih5/OzfDPGTGVgJrMAW4j0ZPIktz4px+o++XNZUUVVrgAUa0XyJx4J3pRmg8L7JblRsFOmB1kGLW5tKOhFE0S/Zg2FTbd/ezW0lUennOHZpS/on2WqcoSgWVG5RoSCw4pf3i24t2fT2PsbOvkpX2EMnRBlbY2v0+h/F+MXNW05lR2xMxeJVxwuFzMMMJ858nvyLb07ZIaeqXIM/4lCEo2BB3lu7ZRbEcAdfQutzu03MrYfd36R0S9fMKTqzap/FZolJAR+70S+LXw75/VSjeMA==;j5iQGVQ3pjT+2/MgSoJ0uw=="
 ---
 

@@ -2,28 +2,28 @@
 category: news
 title: "Device taps brain waves to help paralyzed man communicate"
 excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
-publishedDateTime: 2021-07-15T03:19:00Z
-originalUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
-webUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1424"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424"
+publishedDateTime: 2021-07-14T21:29:00Z
+originalUrl: "https://www.greenwichtime.com/news/article/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
+webUrl: "https://www.greenwichtime.com/news/article/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
+ampWebUrl: "https://www.greenwichtime.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
+cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
 type: article
-quality: 89
-heat: 140
+quality: 59
+heat: 109
 published: true
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Greenwich Time
+  domain: greenwichtime.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg"
-    width: 2500
-    height: 1669
+  - url: "https://s.hdnux.com/photos/01/21/00/61/21236820/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -101,6 +101,6 @@ related:
       domain: newsobserver.com
     quality: 39
 
-secured: "pNtmwZzp5PGaFBLzA6AQqBTknVJi9r9WjfDCWAEUDqU64eulZ5BJ5gRl/dZLvJ35OPT4f2MB+Tp1WMBL20zb+KEM2UNYR2eDQT4+rb5aZ9qBIefBXNtzIGkT1tqOKHJSYHbnngNK2ZUa8pKUx7swKLkMZ+iYmUPGjZBOFloCO+X6mntv+pYCjrflf5BGhPJ9pyd4k+xan41Q5YEePbHrrL4fHWxsTVO1+LU1IZIbJNqJVWbazAXjXJprfO53bf98/L7arGG8+1H65xW469qoKd0kq1sHONtS3GL0nLcNwOASNb8Vwyp/MTEk0psxCznLMiaMrFcq6g/aZ4B/o2TMTBuHmtOLIPWbGa9T2NBwEoJb6FgO4UVstGnlSz/nnvcs4xk3BbpolhSsqBW5ng2HTSIUECxTMwWG87rwBXfRvps9ak+30fRr/dKhmM/5M8pGLflYDsmj3q+P0+lFt1GOCLTeSeEjCsftANeJCHZdFIrfYkm7KpcpmiTuYRc08AfSqhJm7NnVYR+bKgANm8yqxw==;DQhCUDUk4HSFB6Y2aKCQhg=="
+secured: "HmPIy0QCcJndNujKaSurpfebwfQwAmOyI3v7304dmyN2SIEYRBkys9GaFMv1B7LdQwsQIp2Zjg7itDKMsll7+szscMgnNovrpYhjrlrEHTn8aBnQAHt1cm4p17MwlWwGlgLkvOfFdVTIWubwtMGPEkr2xgSuzsfrYrXZnC4L9zwUrTcHVjeLtAHEo05aV7RKDpNsvcD8G8CKD1K1tPKTagpYRQd0Oxsi7Btp9iNZr9Z3r9hwi7j1R3CZlGGN/tCnwK07Y5Qe329uNf7/zLV9N9aGsfEKxIYjoCqmCgcOB9X26K3Vbvx/yINVl5FciUxdl4Mlk6BBsb1VY/gLNTRggKKLTniqa9ZjOHCXHYgJp+0=;X7FVH6gRngxmOnmpMtJOAw=="
 ---
 

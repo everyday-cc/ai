@@ -40,24 +40,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Daily Crunch: ZoomInfo announces plans to acquire sales intelligence tool Chorus.ai for $575M"
-    excerpt: "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package."
-    publishedDateTime: 2021-07-13T22:10:00Z
-    webUrl: "https://techcrunch.com/2021/07/13/daily-crunch-zoominfo-announces-plans-to-acquire-sales-intelligence-tool-chorus-ai-for-575m/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 53
-  - title: "ZoomInfo Technologies Using New Financing to Help Pay for AI Startup"
-    excerpt: "The business-intelligence platform, which is buying Chorus.ai for $575 million, on Tuesday raised about $500 million in debt."
-    publishedDateTime: 2021-07-13T22:19:00Z
-    webUrl: "https://www.wsj.com/articles/zoominfo-technologies-using-new-financing-to-help-pay-for-ai-startup-11626218341"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "ZoomInfo To Acquire Conversation Intel Platform Chorus.AI For $575M"
     excerpt: "Chorus.ai developed a conversation intelligence platform that transforms conversations into data and insights for high-growth sales teams."
     publishedDateTime: 2021-07-18T12:13:00Z

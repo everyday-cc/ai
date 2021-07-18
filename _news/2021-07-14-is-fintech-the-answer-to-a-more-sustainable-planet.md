@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI to have biggest impact on fintech development over next five years"
-    excerpt: "Artificial intelligence (AI) technology will have the biggest impact on fintech ... AT&T will move its 5G services to Microsoft's Azure cloud. The move provides Microsoft with a critical 5G customer while AT&T ... What's the difference between 802.11ac ..."
-    publishedDateTime: 2021-07-13T22:50:00Z
-    webUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?_hsenc=p2ANqtz-_wp0NEwtMwH9cxAS7D7FS1YQtX3q9SQZeMy8gQFoTm331RQW67b_05NSdYuu-LhOHbOHbE"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 19
   - title: "FinTech The Key Disruptor For Emerging Market Financial Services In 2021 And Beyond"
     excerpt: "Jupiter Asset Management has launched its latest whitepaper titled “The innovations disrupting financial services in Emerging Markets” in response to shifting dynamics of financial services in the Middle East."
     publishedDateTime: 2021-07-14T06:59:00Z

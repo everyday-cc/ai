@@ -104,7 +104,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -144,7 +144,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {

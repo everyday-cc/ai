@@ -99,15 +99,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI to have biggest impact on fintech development over next five years"
-    excerpt: "Artificial intelligence (AI) technology will have the biggest impact on fintech ... AT&T will move its 5G services to Microsoft's Azure cloud. The move provides Microsoft with a critical 5G customer while AT&T ... What's the difference between 802.11ac ..."
-    publishedDateTime: 2021-07-13T22:50:00Z
-    webUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?_hsenc=p2ANqtz-_wp0NEwtMwH9cxAS7D7FS1YQtX3q9SQZeMy8gQFoTm331RQW67b_05NSdYuu-LhOHbOHbE"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 19
 
 secured: "aYsEiNhro9+hm+RfKIsumWBC8mnFjGaKAzvUYZeS12W9sbGczcpEx6CSVOKV/9lGKyi0t7RliT8o6ZpfRor0BxxOVCeWZYQYu41j5aOQzjbPyKvKoM3ZQBLgJ4R/+6bIuuqT6qsuBz4418+JtuXNE45JQF+VNOl8kuxzqtJSiLiC2PvPIAuGJ8L/20yU2iHz1Bm01Pf4AmR2XicoUayS1SKt9HCQL1xG4u7xG/HL3C4nKJxyGAdRb6WqXuLoB/Ln4R3bTB6BIZ3ZmDZUc+Cz595Z6VSm3DTKOrKbDW2G35PyKXXr+6NfmzdyOFGnSz5Xdeb6hTYC8mXw8k+iFCooHGx5JjBrp3Z/S1+DYbRCV/bOEz09tud/HPVWgNsmVO2E/MRtFdiQPltm2nllzq6sjKl1kulow9TsycAiqyO/kUDbaIKDTOwMGBgByEPr3OgghyeyhsvHumsh4OUZb4c8aipm+qQJK7I4fY8MKcuqGjBUGKrfks3QOvz3fauzTwt5bliTWRTvTvEY1Kxr9m2X/g==;PQL61PFzRHUaYzDgMKsWRg=="
 ---
