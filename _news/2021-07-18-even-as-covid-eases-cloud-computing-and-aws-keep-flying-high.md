@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-17T17:45:00Z
 originalUrl: "https://siliconangle.com/2021/07/17/even-covid-eases-cloud-computing-aws-keep-flying-high/"
 webUrl: "https://siliconangle.com/2021/07/17/even-covid-eases-cloud-computing-aws-keep-flying-high/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/superman-cloud-1-1024x680.jpeg"

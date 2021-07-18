@@ -45,6 +45,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Maine Enacts Toughest Facial Recognition Ban in U.S."
+    excerpt: "Augusta, Maine — The Maine State Legislature has passed a bill that will prohibit the use of facial recognition surveillance by certain government employees and officials. While these bans have been popping up more and more over the country, Maine took ..."
+    publishedDateTime: 2021-07-16T09:48:00Z
+    webUrl: "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html"
+    ampWebUrl: "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 174
+    images:
+      - url: "https://compote.slate.com/images/cfdef433-ca60-4077-8748-01acfcc00e80.jpeg?width=780&height=520&rect=3500x2333&offset=0x0"
+        width: 780
+        height: 520
+        isCached: true
   - title: "These retail giants are monitoring you with facial recognition, say campaigners"
     excerpt: "Campaigners created a list of retail giants they say are using facial recognition in their stores. The group has called for the practice to be banned."
     publishedDateTime: 2021-07-15T16:58:00Z
@@ -75,6 +91,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "What are the dangers of facial recognition?"
+    excerpt: "Robert Williams was wrongfully arrested after a facial recognition system failed to identify the correct culprit. Mr. Williams is seeking justice in a civil rights lawsuit."
+    publishedDateTime: 2021-07-18T19:08:00Z
+    webUrl: "https://www.msnbc.com/the-sunday-show/watch/what-are-the-dangers-of-facial-recognition-116981317527"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo116981317527"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo116981317527"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 59
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626635161004_n_capehart_facial_recognition_211807_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "A|I: The AI Times – Scrutinizing facial recognition tech"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
     publishedDateTime: 2021-07-14T09:30:00Z
@@ -102,20 +134,6 @@ related:
       - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-07/FacialRecognition-Russia-Store-2600x1361.jpg?h=d3fce584&itok=4suLjali"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Maine Enacts Toughest Facial Recognition Ban in U.S."
-    excerpt: "Augusta, Maine — The Maine State Legislature has passed a bill that will prohibit the use of facial recognition surveillance by certain government employees and officials. While these bans have been popping up more and more over the country, Maine took ..."
-    publishedDateTime: 2021-07-16T09:48:00Z
-    webUrl: "https://www.campussafetymagazine.com/news/maine-enacts-toughest-facial-recognition-ban-in-u-s/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 54
-    images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/07/Facial-recogntion-Adobe-By-Goodpics-scaled.jpeg"
-        width: 2560
-        height: 1702
         isCached: true
   - title: "Black teen forced to leave skating rink after facial recognition tech misidentifies her"
     excerpt: "A local roller skating rink in Michigan has come under fire using facial recognition software that misidentified a Black teenager."
@@ -148,22 +166,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALRJF5VLQEI6VJB3X2PWJFFIPU.jpg&w=1440"
         width: 1440
         height: 1080
-        isCached: true
-  - title: "US Lawmakers Urge Regulation Of Facial-Recognition Use"
-    excerpt: "Some lawmakers came out against the use of facial recognition, citing concerns about misidentification and violations of due process and constitutional rights."
-    publishedDateTime: 2021-07-14T01:47:00Z
-    webUrl: "https://www.pymnts.com/news/regulation/2021/united-states-lawmakers-urge-regulation-facial-recognition-use/"
-    ampWebUrl: "https://www.pymnts.com/news/regulation/2021/united-states-lawmakers-urge-regulation-facial-recognition-use/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/united-states-lawmakers-urge-regulation-facial-recognition-use/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Sheila-Jackson-Lee-facial-recognition-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
   - title: "Bipartisan Calls to Regulate Facial Recognition Tech Grow Louder"
     excerpt: "Lawmakers on both sides of the political aisle have concerns about the government’s increased use of biometric technology."

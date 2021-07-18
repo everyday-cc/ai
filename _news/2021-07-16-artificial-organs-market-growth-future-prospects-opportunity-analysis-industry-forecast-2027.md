@@ -190,6 +190,34 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Edge Artificial Intelligence (AI) Software Market Segmentation, Industry Analysis By Production, Consumption, Revenue And Growth Rate By 2028"
+    excerpt: "Increasing art of AI applications and rapid introduction of 5G network are key factors driving revenue growth of the global edge Artificial Intelligence (AI) software market Market Size – USD 585.1 Million in 2020,"
+    publishedDateTime: 2021-07-14T11:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-segmentation-industry-analysis-by-production-consumption-revenue-and-growth-rate-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/LLL-6-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Deep Learning System Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2028"
+    excerpt: "Rising adoption of cloud-based technology and increasing usage of deep learning systems in big data analytics is driving growth of the market Market Size – USD 6.59 Billion in 2020, Market Growth – at a CAGR of 39."
+    publishedDateTime: 2021-07-14T11:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-system-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/LLL-6-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Cognitive Computing Materials Market Forecast Report | Global Analysis, Statistics, Revenue, Demand and Trend Analysis Research Report by 2027"
     excerpt: "Market Expertz latest study, titled ‘Global Cognitive Computing Materials Market,’ sheds light on the crucial aspects of the global Cognitive Computing Materials market. The Cognitive Computing Materials report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027)."
     publishedDateTime: 2021-07-15T00:00:00Z

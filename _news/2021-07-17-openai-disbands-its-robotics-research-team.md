@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-rese
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/amp/"
 type: article
 quality: 121
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI Codex shows the limits of large language models"
+    excerpt: "A new paper reveals significant issues with OpenAI Codex and its handling of large language models, particularly in deep learning."
+    publishedDateTime: 2021-07-18T19:15:00Z
+    webUrl: "https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/"
+    ampWebUrl: "https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/software-engineer.computer-code.GettyImages-1000820778.jpg?w=1200&strip=all"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Don’t mistake OpenAI Codex for a programmer"
     excerpt: "One thing that needs to be reminded is that, no matter how fascinating Codex’s output is, the deep learning model does not understand programming."
     publishedDateTime: 2021-07-17T08:00:00Z

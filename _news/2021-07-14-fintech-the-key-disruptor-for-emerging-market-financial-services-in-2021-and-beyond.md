@@ -80,20 +80,6 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "Is FinTech the answer to a more sustainable planet?"
-    excerpt: "Environmental, social and governance (ESG) investments have surged in Asia-Pacific over the last year – 57% of investors in the region expect to have “completely” or “to a large extent” incorporated"
-    publishedDateTime: 2021-07-14T01:08:00Z
-    webUrl: "https://www.ejinsight.com/eji/article/id/2852802/20210714-Is-FinTech-the-answer-to- a-more-sustainable-planet"
-    type: article
-    provider:
-      name: EJ Insight
-      domain: ejinsight.com
-    quality: 39
-    images:
-      - url: "https://static.hkej.com/eji/images/2021/07/14/2852802_6ba3f2c38f93681f60411b9bac6f290c.jpg"
-        width: 669
-        height: 438
-        isCached: true
   - title: "China’s JD spins off cloud and AI businesses to fintech unit"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-07-17T04:04:00Z

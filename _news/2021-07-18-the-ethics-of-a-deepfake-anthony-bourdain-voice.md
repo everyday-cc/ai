@@ -123,6 +123,22 @@ related:
         width: 1194
         height: 672
         isCached: true
+  - title: "The Anthony Bourdain audio deepfake is forcing a debate about AI in journalism"
+    excerpt: "But no one was laughing when it was revealed that deepfake technology was used to simulate Anthony Bourdain’s voice in the new documentary Roadrunner: A Film About Anthony Bourdain.  In an interview with GQ,"
+    publishedDateTime: 2021-07-18T18:48:00Z
+    webUrl: "https://qz.com/2034784/the-anthony-bourdain-documentary-and-the-ethics-of-audio-deepfakes/"
+    ampWebUrl: "https://qz.com/2034784/the-anthony-bourdain-documentary-and-the-ethics-of-audio-deepfakes/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2034784/the-anthony-bourdain-documentary-and-the-ethics-of-audio-deepfakes/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 85
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2018/06/anthony-bourdain-2016-e1528465157979.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Anthony Bourdain documentary recreates chef’s voice with artificial intelligence"
     excerpt: "There’s debate over whether the use of artificial intelligence in a film about the late celebrity chef Anthony Bourdain is ethical. The film makes it appear that Bourdain spoke something that he did not."
     publishedDateTime: 2021-07-16T23:26:00Z

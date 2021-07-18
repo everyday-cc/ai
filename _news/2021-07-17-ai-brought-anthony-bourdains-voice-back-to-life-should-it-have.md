@@ -121,6 +121,22 @@ related:
         width: 1194
         height: 672
         isCached: true
+  - title: "The Anthony Bourdain audio deepfake is forcing a debate about AI in journalism"
+    excerpt: "But no one was laughing when it was revealed that deepfake technology was used to simulate Anthony Bourdain’s voice in the new documentary Roadrunner: A Film About Anthony Bourdain.  In an interview with GQ,"
+    publishedDateTime: 2021-07-18T18:48:00Z
+    webUrl: "https://qz.com/2034784/the-anthony-bourdain-documentary-and-the-ethics-of-audio-deepfakes/"
+    ampWebUrl: "https://qz.com/2034784/the-anthony-bourdain-documentary-and-the-ethics-of-audio-deepfakes/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2034784/the-anthony-bourdain-documentary-and-the-ethics-of-audio-deepfakes/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 85
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2018/06/anthony-bourdain-2016-e1528465157979.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Ethics of a Deepfake Anthony Bourdain Voice"
     excerpt: "The new documentary “Roadrunner” uses A.I.-generated audio without disclosing it to viewers. How should we feel about that?"
     publishedDateTime: 2021-07-17T21:54:00Z
@@ -462,6 +478,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "LoG8pDdwOpY1JgcMJiVz+L0/96xesPrz+gCrBvfYbHcne2Z7lgEIv073dS8iSKhpx2ZsRbuXVKLCaCCcXZRMs4sYx+mZ0XDbHzwVCtNUmhOc51KNCk7EUSSFBt7ld4hihdbhehlrpexrs4tuH33xOZG3DuNuYlJZ5jGnYa2AwyCIX8xqyIxN+O/BRns/4Kqe7J/znXb+zMjjJ1T9k9ec+m9MOwTPcEcnWlEX0p8ElTaukP4cz3xR04LEUAGJuhydZ51ZL+P8jgWRheTEkRqLq1ejnPiFLSlBTneKGqeD7R1572JUFtD6r6cu27PM1iRV/+UXm7nQDjZPmy+fEM3DAE/qWGjA93PKuXQ3eqFvvdk=;mPKzpD92j/8WgC2cmzk12g=="
+secured: "p3htu7ZR27GbEQfCm+WpKzx8WEXcTRBCY1E6nrQfknMdVPflN07m/wlIcR/n6q9BSuwJVqSLH62/rYqB5YYlzcvv3H6VP+vUdunAzLALOcRvVFb8XWOiI4wOrwgvqC5rtBXy9rwbKrz6TJu2zZZvm9eK/8uzT9kory3oohxyUj0217BJDYlGZmR3BA2ZTPdAojLpNngaqFT/4SdQbwIJSBEKzLtcVLzbii2R/kaJV3jQGityRL6E4LxlPPxoc4iicLCtwTUK1f87JqekgK7z8GWDPbyohUQOoIIQs2Uo/4iVujbDxneXs48bwVCYFVG0Fw1Wt3sctqD9O3sikIHDc67mJYPb0+nDqhUfVaYmRAYGz9bgfs2+8cVA/8ZZt/gdvfJ3wD4Tb8pXqaQkCGCXKG6HvPFxIzuVTiJpAYcFEWJEIR8kR3Aacw8wOAUq9wZlnKx9L82G3Kmrj493IaYPQ3M8lfwRiatRIUnK9lhy4t24sgYF2CppoI5yh27Uvi8urJAWJjl2+kYLFU59i1bt9w==;t4+ZM4CV6gMZjRs5Wh4pxQ=="
 ---
 

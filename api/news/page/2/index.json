@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-16-anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate.md",
+      "title": "Anthony Bourdain Documentary ‘Roadrunner’ Sparks A Strange Ethics Debate",
+      "excerpt": "Neville stated: “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know. We can have a documentary-ethics panel about it later.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/",
+      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 393,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f1a2151251a7c507b4358e%2F0x0.jpg",
+          "width": 1200,
+          "height": 824,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/",
+      "publishedDateTime": "2021-07-16T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech.md",
       "title": "Sense Photonics Sees Flash LiDAR As Best Path To Full Self-Driving Tech",
       "excerpt": "Sense Photonics is on a mission to make LiDAR, the core of self-driving technology, more affordable and less obtrusive. And it is leveraging two elements of the iPhone 12 to get there. Today, most autonomous vehicles in test fleets have a cumbersome ...",
@@ -167,7 +219,7 @@
       "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -636,6 +688,39 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-latest-qld-covid-19-exposure-sites-full-list-of-queensland-coronavirus-hotspots-and-case-location-alerts.md",
+      "title": "Latest Qld Covid-19 exposure sites: full list of Queensland coronavirus hotspots and case location alerts",
+      "excerpt": "Here are the current coronavirus hotspots and Covid-19 public exposure sites in Queensland and what to do if you’ve visited them.",
+      "sourceUrl": null,
+      "webUrl": "https://spectrum.ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong",
+      "originalUrl": "https://www.msn.com/en-au/news/australia/latest-qld-covid-19-exposure-sites-full-list-of-queensland-coronavirus-hotspots-and-case-location-alerts/ar-AAMcLn6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T17:01:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong",
+        "domain": "ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1120,110 +1205,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-ebay-taps-computer-vision-to-transform-online-shopping.md",
-      "title": "eBay taps computer vision to transform online shopping",
-      "excerpt": "Bay chief AI officer details how the shopping site's computer vision is driving customer satisfaction with image based search.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
-      "originalUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ebay.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
-      "publishedDateTime": "2021-07-15T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model.md",
-      "title": "Researchers match DeepMind’s AlphaFold2 protein folding power with faster, freely available model",
-      "excerpt": "DeepMind stunned the biology world late last year when its AlphaFold2 AI model predicted the structure of proteins (a common and very difficult problem) so accurately that many declared the decades-old problem “solved.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/",
-      "originalUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/rosettafold.jpg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/amp/",
-      "publishedDateTime": "2021-07-15T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

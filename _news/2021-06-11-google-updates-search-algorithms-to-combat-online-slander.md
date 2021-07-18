@@ -15,6 +15,10 @@ published: true
 provider:
   name: cnet.com/news/google-updates-search-algorithms-to-combat-online-slander/
   domain: cnet.com/news/google-updates-search-algorithms-to-combat-online-slander/
+  images:
+    - url: "/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI

@@ -190,6 +190,34 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Edge Artificial Intelligence (AI) Software Market Segmentation, Industry Analysis By Production, Consumption, Revenue And Growth Rate By 2028"
+    excerpt: "Increasing art of AI applications and rapid introduction of 5G network are key factors driving revenue growth of the global edge Artificial Intelligence (AI) software market Market Size – USD 585.1 Million in 2020,"
+    publishedDateTime: 2021-07-14T11:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-segmentation-industry-analysis-by-production-consumption-revenue-and-growth-rate-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/LLL-6-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Deep Learning System Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2028"
+    excerpt: "Rising adoption of cloud-based technology and increasing usage of deep learning systems in big data analytics is driving growth of the market Market Size – USD 6.59 Billion in 2020, Market Growth – at a CAGR of 39."
+    publishedDateTime: 2021-07-14T11:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-system-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/LLL-6-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Organs Market Growth, Future Prospects, Opportunity Analysis, Industry Forecast 2027"
     excerpt: "The global artificial organs market is expected to reach USD 32.62 Billion by 2027, according to a new report by Emergen Research. The specialist consulting approach adopted to study the Artificial Organs market by size,"
     publishedDateTime: 2021-07-16T11:46:00Z

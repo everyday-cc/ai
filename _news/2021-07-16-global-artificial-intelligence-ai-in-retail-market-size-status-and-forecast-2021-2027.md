@@ -140,20 +140,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Self-Driving Truck Technology Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2026"
-    excerpt: "The global research report titled Global Self-Driving Truck Technology Market 2021 by Company, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz is prepared with a nice combination of industry insight,"
-    publishedDateTime: 2021-07-14T02:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-technology-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2026-2021-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Edge Artificial Intelligence (AI) Chip market report provides"
     publishedDateTime: 2021-07-17T04:32:00Z

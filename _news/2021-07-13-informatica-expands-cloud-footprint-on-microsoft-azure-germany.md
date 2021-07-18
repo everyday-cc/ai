@@ -3,8 +3,8 @@ category: news
 title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
 excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
 publishedDateTime: 2021-07-13T07:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "XWSt4+0LKt5mNtbLsy/1U8hX7wClbEV7lzim8YsxZQ8wVEe0gotHHM3i0LyRzslrH4YQguUbI4KbDlbZx4FzgCNeLUxp9IxsdI06czgPTIRq5NcqWdBXrWVOg2f1bhbR0ei6gNVHgjGQ/bER076raUf3B2/aeZ5O4IG9UgfxniQ062Cr7bsexCq9UlPB0hMpQ20I8TuagzDMp9mj7p4dvuLxarOCh80IBZcQ8B8kJGBRFLfz9wQzJuMdLQQfFACDcIYgZpsf+Rt5my1walh1CYLyPob5+/xTgQ4FiAGH97fdbWhsJmyoCb2jfmOo+f5UxiTR+CxncVNea+9d0/0jYlg6slp/h0lrV7W13HrQeTqLiLXbq/jYI7t6jgx72Crxi2/zTHjuPbwT8KERpk1WygmsGC58wSh391I7LpvoDgDlbG8ryh3AxxKBybB5CrZYbLd19+xJ6di/yWVXjlYxkfK4V3NXiUmqrJTXuOnb1yqBmN92b1GZsIjraUxXR6ntzAHDkbB2q705vGGsPO7AIg==;zoAYwQvAmkqFMaW8SLc27g=="
+secured: "XO1wy+mjz3h1STlK5PFyXSb8qEfQbQAq+uEX7YMJQu2XDYQ74OzpHGP9vNhesTqx7KtNo/4lKj8j7clyDn72DX1/B7CTevGnmsEdZUzqILqVLTU8dnteko5d9fJ619Fg9xcL8fb7WDvFmJV6lbpmWXPEwC2bLDkLENIyY+0o/8K20Q0sJ+nMZ0T05AueHALJx9YfwrKQ/AKM/Rx1LfQG4ucFJMGJ6PBvmdVRQr6fjfwHXutzeGHb1onAYKOGb+ykDKT7DEUayj/7DJwlCH34DteGPLDTaa0AyBv2F91ytNegm0mmFkFqcigVoqx96f60GBlr1b2wsoCKuJUDpQJjysFCs9ZxUz+YqmN33Kck0uPL9F7N6hEsfICDqL7ZZ7m1brJL8A/sP7LUB4a/YHbg2ekl8rqXYI7N7ssnhH/ljZT5v5L91CRuni1B3+8D7buRO1iaJ5ZejNuZ+fVzyaKmneWJBUKnbpVGeGdQ2FYUBSNF2l0QsmLMa8Ayial5nlmi3eId7kdlJWm3pmBBIMVPpw==;Tk4meOdf+0CnLKMxjCwEsg=="
 ---
 

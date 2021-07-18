@@ -2,6 +2,238 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-13-zoominfo-buys-israeli-company-chorusai-for-575-million.md",
+      "title": "ZoomInfo Buys Israeli Company Chorus.ai for $575 Million",
+      "excerpt": "Employees of an Israeli startup company work at the company’s office in Tel Aviv, Israel, Feb. 7, 2018. Photo: Reuters",
+      "sourceUrl": null,
+      "webUrl": "https://www.calcalistech.com/ctech/articles/0,7340,L-3912362,00.html",
+      "originalUrl": "https://www.algemeiner.com/2021/07/13/zoominfo-buys-israeli-company-chorus-ai-for-575-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images1.calcalist.co.il/PicServer3/2018/12/13/869065/Chorus_l.jpg",
+          "width": 590,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Algemeiner",
+        "domain": "algemeiner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-chinese-city-using-facial-recognition-tech-to-fight-coronavirus.md",
+      "title": "Chinese City Using Facial Recognition Tech To Fight Coronavirus",
+      "excerpt": "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824",
+      "originalUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2021-07/90pei86s_china-covid-ruili-afp-650_625x300_13_July_21.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-07-13T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-machine-learning-can-set-your-document-data-free-heres-how.md",
+      "title": "Machine Learning Can Set Your Document Data Free - Here’s How",
+      "excerpt": "Financial services organizations need to examine documents ... Optical Character Recognition (OCR), and machine learning (ML) to capture, extract, and process data from different types of documents. Even though digitization and IDP has been top of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d4ff08cd155fb463f2f788%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/amp/",
+      "publishedDateTime": "2021-07-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-locomotive-system-makes-robots-multi-terrain.md",
+      "title": "Locomotive System Makes Robots Multi-Terrain",
+      "excerpt": "Called Rapid Motor Adaptation (RMA), the new locomotive system allows four-legged robots to traverse a variety of terrain types.",
+      "sourceUrl": null,
+      "webUrl": "https://worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/",
+      "originalUrl": "https://worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wir-en.s3.amazonaws.com/wp-content/uploads/2021/07/rma-300x210.png",
+          "width": 300,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/amp/",
+      "cdnAmpWebUrl": "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/amp/",
+      "publishedDateTime": "2021-07-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "worldindustrialreporter.com",
+        "domain": "worldindustrialreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-getting-to-production-ai-faster-with-a-data-centric-approach.md",
+      "title": "Getting to production AI faster with a data-centric approach",
+      "excerpt": "Labelbox's Manu Sharma discusses how machine learning teams get to production AI faster by taking a data-centric approach at Transform 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/13/getting-to-production-ai-faster-with-a-data-centric-approach/",
+      "originalUrl": "https://venturebeat.com/2021/07/13/getting-to-production-ai-faster-with-a-data-centric-approach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/shutterstock_574000213-e1626179563955.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/13/getting-to-production-ai-faster-with-a-data-centric-approach/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/getting-to-production-ai-faster-with-a-data-centric-approach/amp/",
+      "publishedDateTime": "2021-07-13T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-klarna-acquires-social-shopping-startup-hero-to-expand-merchant-solutions.md",
       "title": "Klarna acquires social shopping startup HERO to expand merchant solutions",
       "excerpt": "Klarna acquired HERO, a retail tech startup that connects online shoppers with in-store retail associates via text messages, videos, and chat rooms.",
@@ -203,8 +435,8 @@
       "title": "Informatica Expands Cloud Footprint on Microsoft Azure Germany",
       "excerpt": "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -610,6 +842,48 @@
       ]
     },
     {
+      "path": "_news/2021-07-13-cuban-embassy-attacks-and-the-microwave-auditory-effect.md",
+      "title": "Cuban Embassy Attacks And The Microwave Auditory Effect",
+      "excerpt": "They also have plenty of spill — operators standing behind the device always need ... Images from Frey’s paper Frey’s article describes how test subjects were able to hear buzzing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/behind-paper-led-google-researchers-firing/",
+      "originalUrl": "https://hackaday.com/2017/09/25/cuban-embassy-attacks-and-the-microwave-auditory-effect/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fce6e94b9624e586e3e9906/master/pass/Business-Timnit-Gebru-h_15454848.jpg",
+          "width": 2400,
+          "height": 1659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/behind-paper-led-google-researchers-firing/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/behind-paper-led-google-researchers-firing/amp",
+      "publishedDateTime": "2021-07-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce.md",
       "title": "Digital Transformation: Microsoft Azure Cloud Platform to be Used by Canadian Imperial Bank of Commerce",
       "excerpt": "The Canadian Imperial Bank of Commerce (CIBC) (TSE: CM), a multinational banking and financial services corporation headquartered in Toronto, Ontario, has entered a multi-year deal to use Microsoft Azure as its main Cloud platform.",
@@ -884,262 +1158,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-could-your-next-rental-car-be-a-robotaxi-t-mobile-teams-with-startup-for-5g-driverless-electric-car-service.md",
-      "title": "Could your next rental car be a robotaxi? T-Mobile teams with startup for 5G driverless electric car service",
-      "excerpt": "Autonomous and driverless car technology company Halo ... Halo equips the vehicles with an artificial intelligence-driven \"Advanced Safe Stop mechanism\" that automatically brings the cars to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2021/07/08/t-mobile-startup-plan-driverless-rental-car-service/7887811002/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2021/07/08/t-mobile-startup-plan-driverless-rental-car-service/7887811002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/07/USAT/edba4e94-13cc-4888-921c-7d88a12d4f5d-21CM0192-05_060221_1604m.jpg?auto=webp&crop=6719,3779,x0,y341&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7887811002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7887811002",
-      "publishedDateTime": "2021-07-12T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-how-mastercard-is-using-ai-to-address-cyber-risk.md",
-      "title": "How Mastercard is using AI to address cyber risk",
-      "excerpt": "Johan Gerber, executive VP for security and cyber innovation at Mastercard, discusses how it uses AI to understand and adapt to cyber risk.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/",
-      "originalUrl": "https://venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1232533853.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/amp/",
-      "publishedDateTime": "2021-07-12T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-how-levi-strauss-is-upskilling-its-workforce-to-embrace-data-and-ai.md",
-      "title": "How Levi Strauss is upskilling its workforce to embrace data and AI",
-      "excerpt": "Levi's established AI boot camps to upskill employees and teach them how to work with data science in the modern era .",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/12/how-levi-strauss-is-upskilling-its-workforce-to-embrace-data-and-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/12/how-levi-strauss-is-upskilling-its-workforce-to-embrace-data-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2013/11/wp_20131113_0021-e1626079140533.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/12/how-levi-strauss-is-upskilling-its-workforce-to-embrace-data-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-levi-strauss-is-upskilling-its-workforce-to-embrace-data-and-ai/amp/",
-      "publishedDateTime": "2021-07-12T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-deepseeai-named-a-2021-gartner-cool-vendor-in-conversational-and-natural-language-technologies.md",
-      "title": "DeepSee.ai Named a 2021 Gartner Cool Vendor in Conversational and Natural Language Technologies",
-      "excerpt": "DeepSee.ai, a provider of AI-powered automation that solves line-of-business problems in Capital Markets and Insurance industries, announced today that it has been named a 2021 “Cool Vendor” by Gartner in the latest industry report o The Gartner report recognizes just five companies for interesting,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210712005127/en/DeepSee.ai-Named-a-2021-Gartner-Cool-Vendor-in-Conversational-and-Natural-Language-Technologies",
-      "originalUrl": "https://www.businesswire.com/news/home/20210712005127/en/DeepSee.ai-Named-a-2021-Gartner-Cool-Vendor-in-Conversational-and-Natural-Language-Technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-artificial-intelligence-could-be-new-blueprint-for-precision-drug-discovery.md",
-      "title": "Artificial intelligence could be new blueprint for precision drug discovery",
-      "excerpt": "Writing in the July 12, 2021 online issue of Nature Communications, researchers at University of California San Diego School of Medicine describe a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/3-drug.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.amp",
-      "publishedDateTime": "2021-07-12T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-elastic-named-a-leader-in-cognitive-search-by-independent-research-firm.md",
-      "title": "Elastic Named a Leader in Cognitive Search by Independent Research Firm",
-      "excerpt": "Its sweet spot is for enterprises that want fast, friendly, and affordable cognitive search based on ... Goldman Sachs, Microsoft, The Mayo Clinic, NASA, The New York Times, Wikipedia, and Verizon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wallstreet-online.de/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm",
-      "originalUrl": "https://www.wallstreet-online.de/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wallstreet-online.de/_amp/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm",
-      "cdnAmpWebUrl": "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm",
-      "publishedDateTime": "2021-07-12T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wallstreet online",
-        "domain": "wallstreet-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

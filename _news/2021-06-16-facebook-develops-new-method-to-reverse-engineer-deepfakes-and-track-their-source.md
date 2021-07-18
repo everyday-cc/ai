@@ -15,6 +15,10 @@ published: true
 provider:
   name: theverge.com/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters
   domain: theverge.com/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters
+  images:
+    - url: "/assets/images/organizations/theverge.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI

@@ -2,6 +2,511 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-07-07-ibms-codeflare-automates-ai-model-development.md",
+      "title": "IBM’s CodeFlare automates AI model development",
+      "excerpt": "Google, Microsoft, and Hybernet Labs offer comparable services in Cloud AI Platform Pipelines, Azure Machine Learning pipelines, and Galileo, respectively. But IBM asserts CodeFlare was built from ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/",
+      "originalUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM-3-e1616161936977.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/amp/",
+      "publishedDateTime": "2021-07-07T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-oneplus-nord-2-will-use-a-customized-version-of-mediateks-flagship-chip.md",
+      "title": "OnePlus Nord 2 will use a customized version of MediaTek’s flagship chip",
+      "excerpt": "OnePlus and MediaTek have partnered together to work on the OnePlus Nord 2 5G. The forthcoming smartphone will use a custom Dimensity 1200 processor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/oneplus-9-pro-camera-module-back-hand.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/?amp",
+      "publishedDateTime": "2021-07-07T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-how-finance-leaders-can-build-an-ai-culture.md",
+      "title": "How Finance Leaders Can Build An AI Culture",
+      "excerpt": "Implementing AI across an organization requires a clear strategy, organizational flexibility, a data-driven environment and new forms of collaboration with cross-functional teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/07/how-finance-leaders-can-build-an-ai-culture/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/07/how-finance-leaders-can-build-an-ai-culture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f451b5f57dca16ebc6b6c73%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/07/how-finance-leaders-can-build-an-ai-culture/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/07/07/how-finance-leaders-can-build-an-ai-culture/amp/",
+      "publishedDateTime": "2021-07-07T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-ai-enabled-socs-handle-multiple-video-streams.md",
+      "title": "AI-enabled SoCs handle multiple video streams",
+      "excerpt": "Ambarella launches two devices for computer vision and AI processing from multiple or single inputs in security cameras and smart city systems. Image",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/ai-enabled-socs-handle-multiple-video-streams/",
+      "originalUrl": "https://www.embedded.com/ai-enabled-socs-handle-multiple-video-streams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2021/07/Ambarella-CV5S-security-camera.jpg",
+          "width": 1481,
+          "height": 922,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-dont-trust-reported-tops-metrics-for-deep-learning.md",
+      "title": "Don’t trust reported TOPS metrics for deep learning",
+      "excerpt": "Reported tera operations per second (TOPS) is an exaggerated performance number that most neural networks will never see under real-world conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/dont-trust-reported-tops-metrics-for-deep-learning/",
+      "originalUrl": "https://www.embedded.com/dont-trust-reported-tops-metrics-for-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2021/07/Chip-abstract.jpg",
+          "width": 1388,
+          "height": 927,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling.md",
+      "title": "Xbox Series X games might look even better soon thanks to AI upscaling",
+      "excerpt": "They teased the return of the Fable franchise from developer Playground Games, and now might have just revealed Microsoft’s answer to AI-based graphical upscaling like Nvidia's DLSS but for Xbox Series X.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling",
+      "originalUrl": "https://www.techradar.com/nz/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ttRhUwVgN4KdzEYbBaC6oW-480-80.jpg",
+          "width": 480,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/xbox-series-x-games-might-look-even-better-soon-thanks-to-ai-upscaling",
+      "publishedDateTime": "2021-07-07T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-ai-gives-development-tools-a-boost.md",
+      "title": "AI gives development tools a boost",
+      "excerpt": "Programming by example like this is another useful way of adding AI assistance to your development process. Microsoft Research’s PROSE (Program Synthesis using Examples) is already in use in Excel and in many Azure and Power Platform tools, as well as in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.html",
+      "originalUrl": "https://www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.amp.html",
+      "publishedDateTime": "2021-07-07T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge.md",
+      "title": "AnyVision, the controversial facial recognition startup, has raised $235M led by SoftBank and Eldridge",
+      "excerpt": "AnyVision — an Israeli startup that has built AI-based techniques to identify people by their faces, but also related tech such as temperature checks to detect higher temperatures in a crowd ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/07/anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge/",
+      "originalUrl": "https://techcrunch.com/2021/07/07/anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 258,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1167845607.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/07/anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/07/anyvision-the-controversial-facial-recognition-startup-has-raised-235m-led-by-softbank-and-eldridge/amp/",
+      "publishedDateTime": "2021-07-07T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-even-pro-golfers-have-turned-to-remote-learning.md",
+      "title": "Even Pro Golfers Have Turned to Remote Learning",
+      "excerpt": "With coaches and players forced to keep their distance because of the pandemic, perfecting the golf swing went virtual.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/07/sports/golf/golfers-remote-learning.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/07/sports/golf/golfers-remote-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/08/multimedia/08sp-scottish-coaching-inyt1/08sp-scottish-coaching-inyt1-videoSixteenByNine3000.jpg",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/07/sports/golf/golfers-remote-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/sports/golf/golfers-remote-learning.amp.html",
+      "publishedDateTime": "2021-07-07T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors.md",
+      "title": "Qeexo and STMicroelectronics Speed Development of Next-Gen IoT Applications with Machine-Learning Capable Motion Sensors",
+      "excerpt": "Our one-click, fully-automated Qeexo AutoML platform allows customers to leverage sensor data to rapidly build machine learning solutions for highly constrained environments with applications in industrial, IoT, wearables, automotive, mobile, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors-2021-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors-2021-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-new-cheat-software-claims-to-work-on-any-console-via-machine-learning.md",
       "title": "New cheat software claims to work on ‘any console’ via machine learning",
       "excerpt": "A new piece of cheat software claims to utilise machine learning to allow players to use auto aim on “any console”. The software, which was highlighted by anti-cheat group ACPD, reportedly utilises PC passthrough via network streaming or a capture card to bypass console platform security.",
@@ -212,6 +717,57 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-ai-emotion-detection-software-tested-on-uyghurs.md",
+      "title": "AI emotion-detection software tested on Uyghurs",
+      "excerpt": "A camera system that uses AI and facial recognition intended to reveal states of emotion has been tested on Uyghurs in Xinjiang, the BBC has been ... \"We placed the emotion detection camera ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-57101248",
+      "originalUrl": "https://www.bbc.com/news/technology-57101248?at_medium=custom7&at_custom2=twitter&at_custom4=C413DF0E",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/4D18/production/_118663791_surveillance2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-57101248.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57101248.amp",
+      "publishedDateTime": "2021-07-06T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -626,512 +1182,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-ai-experts-refute-cvedias-claim-its-synthetic-data-eliminates-bias.md",
-      "title": "AI experts refute Cvedia’s claim its synthetic data eliminates bias",
-      "excerpt": "Synthetic data company Cvedia claims it solved the \"domain gap\" problem and eliminated AI bias. Experts disagree.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/06/ai-experts-refute-cvedias-claim-its-synthetic-data-eliminates-bias/",
-      "originalUrl": "https://venturebeat.com/2021/07/06/ai-experts-refute-cvedias-claim-its-synthetic-data-eliminates-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-12622001421-e1625606935419.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/06/ai-experts-refute-cvedias-claim-its-synthetic-data-eliminates-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/06/ai-experts-refute-cvedias-claim-its-synthetic-data-eliminates-bias/amp/",
-      "publishedDateTime": "2021-07-06T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-to-stay-ahead-of-your-competitors-start-building-your-narrative-on-day-one.md",
-      "title": "To stay ahead of your competitors, start building your narrative on day one",
-      "excerpt": "How do you stay ahead of your competition when you know it's only a matter of time before they copy your best features? The solution is messaging, says conversion optimization expert Peep Laja.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/06/to-stay-ahead-of-your-competitors-start-building-your-narrative-on-day-one/",
-      "originalUrl": "https://techcrunch.com/2021/07/06/to-stay-ahead-of-your-competitors-start-building-your-narrative-on-day-one/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/peep-beard-big.jpg?w=1024",
-          "width": 1024,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/06/to-stay-ahead-of-your-competitors-start-building-your-narrative-on-day-one/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/06/to-stay-ahead-of-your-competitors-start-building-your-narrative-on-day-one/amp/",
-      "publishedDateTime": "2021-07-06T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses.md",
-      "title": "Yandex Self-Driving Group partners with GrubHub to bring robotic delivery to college campuses",
-      "excerpt": "Yandex Self-Driving Group, a unit of Yandex, the publicly-traded Russian tech giant, has announced a partnership with food delivery service GrubHub to be its multi-year robotic delivery provider across American college campuses.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/",
-      "originalUrl": "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/YanexRoverDeliveryMI_2-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/amp/",
-      "publishedDateTime": "2021-07-06T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-hybrid-architecture-speeds-ai-vision-workloads.md",
-      "title": "Hybrid architecture speeds AI, vision workloads",
-      "excerpt": "A novel hybrid data-flow and Von Neumann architecture can accelerate workloads including neural networks, machine learning, computer vision, DSP and basic",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/hybrid-architecture-speeds-ai-vision-workloads/",
-      "originalUrl": "https://www.embedded.com/hybrid-architecture-speeds-ai-vision-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2021/07/img20210706030431Quadric-Hybrid-Architecture-Take_0_w1642_h925.jpg",
-          "width": 1642,
-          "height": 925,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere.md",
-      "title": "Ethical AI Is Easier Said Than Done, But We've Got to Start Somewhere",
-      "excerpt": "AI has run amok and been benched in multiple business deployments. In one instance, an AI had to be shut off after it spewed outrageously lewd and racist comments within 16 hours of being launched because of data poisoning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/",
-      "originalUrl": "https://www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/96574bf809c648ba956dd40cdb900183.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/amp/",
-      "publishedDateTime": "2021-07-06T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-ai-tracks-lawmakers-using-their-phones-on-the-job-so-we-can-properly-mock-them.md",
-      "title": "AI Tracks Lawmakers Using Their Phones on the Job so We Can Properly Mock Them",
-      "excerpt": "Politicians are hereby busted for using their cell phones during sessions, thanks to software written by Belgium artist Dries Depoorter. His artificial intelligence program “The Flemish Scrollers” reviews YouTube live streams of Flemish government meetings and identifies who’s on their phone along with their face and Twitter handle.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/ai-tracks-lawmakers-using-their-phones-on-the-job-so-we-1847235130",
-      "originalUrl": "https://gizmodo.com/ai-tracks-lawmakers-using-their-phones-on-the-job-so-we-1847235130",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6a319083ea92977e2cb22298a763bc13.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-charliai-ceo-on-training-ai-driven-personal-assistants.md",
-      "title": "Charli.ai CEO on training AI-driven personal assistants",
-      "excerpt": "Charli.ai CEO talks with VentureBeat about the challenges and benefits of training AI-driven digital assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/",
-      "originalUrl": "https://venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/human_AI-e1625582446597.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/06/charli-ai-ceo-on-training-ai-driven-personal-assistants/amp/",
-      "publishedDateTime": "2021-07-06T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit.md",
-      "title": "Sama Validates Its Ethical AI Supply Chain Through A Randomized Control Study With MIT",
-      "excerpt": "AIis an emerging force in the business world that has the potential to either replace humans or empower humans with better tools. Sama, believes AI can enhance how we work and is advocating for “human-in-the-loop,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/christophermarquis/2021/07/06/sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit/",
-      "originalUrl": "https://www.forbes.com/sites/christophermarquis/2021/07/06/sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cb9c39ec66a9c0ee764dfa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D26%26cropY2%3D589",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-abundant-robotics-shuts-down-fruit-harvesting-business.md",
-      "title": "Abundant Robotics shuts down fruit harvesting business",
-      "excerpt": "Abundant Robotics, which was developing a robot to pick apples, closed its business after spinning out of SRI International in 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hortidaily.com/article/9337223/us-fruit-harvesting-robot-company-shuts-down/",
-      "originalUrl": "https://www.therobotreport.com/abundant-robotics-shuts-down-fruit-harvesting-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hortidaily.com/remote/https/agfstorage.blob.core.windows.net/misc/HD_com/2021/07/07/appel.jpg?preset=OgImage",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-otc-artificial-tears-market-to-reach-639-bn-globally-by-2028-at-494-cagr-allied-market-research.md",
-      "title": "OTC Artificial Tears Market to Reach $6.39 Bn, Globally, by 2028 at 4.94% CAGR: Allied Market Research",
-      "excerpt": "Allied Market Research published a report, titled, \"OTC Artificial Tears Market by Product Type (Solution, Ointment, Emulsion, Gel,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/otc-artificial-tears-market-to-reach-6-39-bn-globally-by-2028-at-4-94-cagr-allied-market-research-301325871.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/otc-artificial-tears-market-to-reach-6-39-bn-globally-by-2028-at-4-94-cagr-allied-market-research-301325871.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-cognitive-space-selected-to-participate-in-inaugural-aws-space-accelerator-for-startups.md",
-      "title": "Cognitive Space Selected to Participate in Inaugural AWS Space Accelerator for Startups",
-      "excerpt": "Cognitive Space today announced it has been selected to participate in the Amazon Web Services (AWS) Space Accelerator, a business support program for startups seeking to use AWS to help solve the biggest challenges in the space industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-cognitive-space-selected-participate-inaugural-aws-space-accelerator-/2021/07/06/9403400.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-cognitive-space-selected-participate-inaugural-aws-space-accelerator-/2021/07/06/9403400.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

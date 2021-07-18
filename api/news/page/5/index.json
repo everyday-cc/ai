@@ -2,6 +2,186 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-14-bridgeweave-launches-ai-powered-investment-analyst-investorai.md",
+      "title": "Bridgeweave launches AI-powered investment analyst InvestorAi",
+      "excerpt": "DIY app covers over 4500 global stocks and 1500 ETFs in 15 markets performing over 800 million calculations every day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/bridgeweave-launches-ai-powered-investorai/",
+      "originalUrl": "https://www.dqindia.com/bridgeweave-launches-ai-powered-investorai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Advanced-analytics.png",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/bridgeweave-launches-ai-powered-investorai/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/bridgeweave-launches-ai-powered-investorai/amp/",
+      "publishedDateTime": "2021-07-14T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-zoominfo-acquires-israeli-startup-chorusai-for-575m-cash.md",
+      "title": "ZoomInfo acquires Israeli startup Chorus.ai for $575M cash",
+      "excerpt": "Israeli startup Chorus.ai had only raised $100M in VC funding but was sold for much more than that... Among the trove of funding rounds, IPOs, and talk of establishing Israeli companies for the long run,",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai-for-575m-in-cash-money/",
+      "originalUrl": "https://www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai-for-575m-in-cash-money/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2021/07/Screenshot-2021-07-13-at-14-16-43-Chorus-ai-Conversation-Intelligence-for-Sales-Teams-1626175017.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai-for-575m-in-cash-money/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai-for-575m-in-cash-money/amp/",
+      "publishedDateTime": "2021-07-14T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-the-rise-of-the-robot-expert.md",
+      "title": "The rise of the robot expert",
+      "excerpt": "But where do decision makers, who often see a need but don't have technical expertise in automation, start ... of the Robot Expert will change as AMRs become smarter through newer sensors, faster computer processing power and more sophisticated AI algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-rise-of-the-robot-expert/",
+      "originalUrl": "https://www.zdnet.com/article/the-rise-of-the-robot-expert/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/12/a4ea2755-e8e1-4611-b737-34395a6ec0c9/robot-expert.jpg",
+          "width": 1280,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-rise-of-the-robot-expert/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-rise-of-the-robot-expert/",
+      "publishedDateTime": "2021-07-14T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-active-witness-launches-ai-powered-access-control-solution.md",
+      "title": "Active Witness launches AI powered access control solution",
+      "excerpt": "Active Witness Corp., a provider of artificially intelligent, cloud-based visitor management solutions introduces its SIMA multi-factor access control system that stops unauthorised access",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/pipeline-security-920.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html",
+      "publishedDateTime": "2021-07-14T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market.md",
       "title": "Compliance with Safety Regulations Becomes Key Proposition in Medical Robotics Market",
       "excerpt": "Robots have enormous potential in medical and healthcare applications, as is evident in the swift pace of penetration in the sector. Per a projection by the International Federation of Robots (IFR), the medical robotics spawn a multibillion dollars market.",
@@ -555,6 +735,57 @@
       ]
     },
     {
+      "path": "_news/2021-07-14-facial-recognition-tech-gets-bipartisan-call-for-more-regulation.md",
+      "title": "Facial-Recognition Tech Gets Bipartisan Call for More Regulation",
+      "excerpt": "Some, such as Customs and Border Protection, have their own in-house facial recognition technology. Others use products from companies including Clearview AI Inc. and Vigilant Solutions Inc. “To ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/facial-recognition-local-police-clearview-ai-table",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/2/15/enhanced/2a50fc7f1020/original-1498-1617378524-16.jpg?crop=1600:837;0,132",
+          "width": 1600,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-nordstrom-cto-on-ai-powered-analytics-and-consumer-insights.md",
       "title": "Nordstrom CTO on AI-powered analytics and consumer insights",
       "excerpt": "Reflecting on the start of this project ... is key to the platform architecture process. With more than 100 AI models leveraged daily at Nordstrom, an end user will indirectly see the benefit ...",
@@ -661,19 +892,19 @@
     {
       "path": "_news/2021-07-14-baidu-shares-are-a-bargain-now-but-not-for-long.md",
       "title": "Baidu Shares Are a Bargain Now, But Not for Long",
-      "excerpt": "Baidu (NASDAQ:BIDU) stock has it even worse ... They even have their hand in self-driving technologies. Clearly the company is firing on all cylinders. In contrast, there is no acknowledgement ...",
+      "excerpt": "They even have their hand in self-driving technologies ... be light at the end of the tunnel because of technical reasons. Baidu is falling into a potential support zone dating back to 2011.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bidu-stock-baidu-is-a-bargain-now-but-not-for-long-1030602907",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bidu-stock-baidu-is-a-bargain-now-but-not-for-long-1030602907",
+      "webUrl": "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/",
+      "originalUrl": "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://investorplace.com/wp-content/uploads/2021/07/bidu2.png",
-          "width": 1940,
-          "height": 891,
+          "url": "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -681,23 +912,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T10:23:00-07:00",
+      "ampWebUrl": "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/amp/",
+      "publishedDateTime": "2021-07-13T10:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1020,238 +1242,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-zoominfo-buys-israeli-company-chorusai-for-575-million.md",
-      "title": "ZoomInfo Buys Israeli Company Chorus.ai for $575 Million",
-      "excerpt": "Employees of an Israeli startup company work at the company’s office in Tel Aviv, Israel, Feb. 7, 2018. Photo: Reuters",
-      "sourceUrl": null,
-      "webUrl": "https://www.calcalistech.com/ctech/articles/0,7340,L-3912362,00.html",
-      "originalUrl": "https://www.algemeiner.com/2021/07/13/zoominfo-buys-israeli-company-chorus-ai-for-575-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images1.calcalist.co.il/PicServer3/2018/12/13/869065/Chorus_l.jpg",
-          "width": 590,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Algemeiner",
-        "domain": "algemeiner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-chinese-city-using-facial-recognition-tech-to-fight-coronavirus.md",
-      "title": "Chinese City Using Facial Recognition Tech To Fight Coronavirus",
-      "excerpt": "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824",
-      "originalUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2021-07/90pei86s_china-covid-ruili-afp-650_625x300_13_July_21.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off",
-      "publishedDateTime": "2021-07-13T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-machine-learning-can-set-your-document-data-free-heres-how.md",
-      "title": "Machine Learning Can Set Your Document Data Free - Here’s How",
-      "excerpt": "Financial services organizations need to examine documents ... Optical Character Recognition (OCR), and machine learning (ML) to capture, extract, and process data from different types of documents. Even though digitization and IDP has been top of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/",
-      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d4ff08cd155fb463f2f788%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/07/13/machine-learning-can-set-your-document-data-freeheres-how/amp/",
-      "publishedDateTime": "2021-07-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-locomotive-system-makes-robots-multi-terrain.md",
-      "title": "Locomotive System Makes Robots Multi-Terrain",
-      "excerpt": "Called Rapid Motor Adaptation (RMA), the new locomotive system allows four-legged robots to traverse a variety of terrain types.",
-      "sourceUrl": null,
-      "webUrl": "https://worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/",
-      "originalUrl": "https://worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wir-en.s3.amazonaws.com/wp-content/uploads/2021/07/rma-300x210.png",
-          "width": 300,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/amp/",
-      "cdnAmpWebUrl": "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/amp/",
-      "publishedDateTime": "2021-07-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "worldindustrialreporter.com",
-        "domain": "worldindustrialreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-getting-to-production-ai-faster-with-a-data-centric-approach.md",
-      "title": "Getting to production AI faster with a data-centric approach",
-      "excerpt": "Labelbox's Manu Sharma discusses how machine learning teams get to production AI faster by taking a data-centric approach at Transform 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/13/getting-to-production-ai-faster-with-a-data-centric-approach/",
-      "originalUrl": "https://venturebeat.com/2021/07/13/getting-to-production-ai-faster-with-a-data-centric-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/shutterstock_574000213-e1626179563955.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/13/getting-to-production-ai-faster-with-a-data-centric-approach/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/getting-to-production-ai-faster-with-a-data-centric-approach/amp/",
-      "publishedDateTime": "2021-07-13T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

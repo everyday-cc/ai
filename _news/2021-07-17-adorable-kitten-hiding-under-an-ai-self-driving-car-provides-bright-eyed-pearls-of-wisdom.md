@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hidi
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/amp/"
 type: article
-quality: 78
+quality: 80
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c556e2c64f1f80827d3713%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3342%26cropY1%3D21%26cropY2%3D1900"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourda
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/"
 type: article
 quality: 103
-heat: 383
+heat: 393
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.cnet.com/a/img/ygG9OnwVAXclz9rN4SrLRmZZIR4=/2021/07/15/01a10222-21c1-4dc7-9e83-0e2f0947439a/anthony2.jpg"
         width: 1194
         height: 672
+        isCached: true
+  - title: "The Anthony Bourdain audio deepfake is forcing a debate about AI in journalism"
+    excerpt: "But no one was laughing when it was revealed that deepfake technology was used to simulate Anthony Bourdain’s voice in the new documentary Roadrunner: A Film About Anthony Bourdain.  In an interview with GQ,"
+    publishedDateTime: 2021-07-18T18:48:00Z
+    webUrl: "https://qz.com/2034784/the-anthony-bourdain-documentary-and-the-ethics-of-audio-deepfakes/"
+    ampWebUrl: "https://qz.com/2034784/the-anthony-bourdain-documentary-and-the-ethics-of-audio-deepfakes/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2034784/the-anthony-bourdain-documentary-and-the-ethics-of-audio-deepfakes/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 85
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2018/06/anthony-bourdain-2016-e1528465157979.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The Ethics of a Deepfake Anthony Bourdain Voice"
     excerpt: "The new documentary “Roadrunner” uses A.I.-generated audio without disclosing it to viewers. How should we feel about that?"
