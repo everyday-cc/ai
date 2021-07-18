@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-analysis-reveals-explosive-growth-by-2026-2021-07-16"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,19 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in BFSI Market to Enjoy Explosive Growth by 2027"
-    excerpt: "The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028, according to latest analysis by Emergen Research. AI understands customer behavior and allows banks to customize financial products and services by adding personalized features to build strong relationships with customers."
-    publishedDateTime: 2021-07-16T12:37:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-bfsi-market-to-enjoy-explosive-growth-by-2027/"
+  - title: "Deep Learning Courses for NLP Market"
+    excerpt: "Global Deep Learning Courses for NLP Market is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and ..."
+    publishedDateTime: 2021-07-16T12:21:00Z
+    webUrl: "https://www.openpr.com/news/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide"
+    ampWebUrl: "https://www.openpr.com/amp/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 76
+    images:
+      - url: "https://cdn.openpr.com/U/7/U716847626_g.jpg"
+        width: 800
+        height: 334
+        isCached: true
+  - title: "Global Natural Language Processing for Finance Market By Excellent Opportunities, Industry Growth, Size, And Statistics Forecasts Up To 2027"
+    excerpt: "Therefore, Researchmoz discusses all aspects of growth, including threats and barriers. As well as This report provides an deep analysis of the global Natural Language Processing for Finance market and serves as a guide to stakeholders searching for new investment opportunities."
+    publishedDateTime: 2021-07-14T17:17:00Z
+    webUrl: "https://manometcurrent.com/global-natural-language-processing-for-finance-market-by-excellent-opportunities-industry-growth-size-and-statistics-forecasts-up-to-2027/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 36
+    quality: 21
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/3-4-390x220.jpg"
-        width: 390
-        height: 220
+      - url: "https://i.ibb.co/0s5CLpy/Rssearchmoz-us99.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "/3XMwAxUiFgbCxHpqOJeGGvYipQ292htVd/dqVtyxn5XeIwltXJHMJvdpMAsqde+O6lU06AJt5plXoNCKZ7HheZttzODCG4KXKH4YipL3L/dQ5egq4D7y3sGT6lz8dvBEql+vlAzVulwB2c4JWOwD2nx4V4ebkSUjWaP7cW00MOJDPZKWtLVW3u0OOiypBzaktYm1vzV8GiP6KU97aFeYOBC3peqEB3ro2zkDck4PD5Y5P+4t1h0JNh5gMrgNwE/aSxaVrEZ8c/OJDzPdhaH0pq0WqsYyqq6Z1E2ecMh1sHpJtCkP78w9Sm9bioMufpuuylZENd2jX8CnP/gKv++PTCqmGe+gc25shK5aDRhr7M=;rVySU/MQjV4IN4RzaX5/8g=="

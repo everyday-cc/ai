@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/07/14/top-artificial-intelli
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AMD Stock – AMD Stock – 2 Dividend-Paying Tech Stocks to Buy in July | Fintech Zoom"
+    excerpt: "Complete Advanced Micro Devices Inc. stock news by FintechZoom. View real-time stock prices and stock quotes for a full financial overview."
+    publishedDateTime: 2021-07-18T21:22:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amd/amd-stock-amd-stock-2-dividend-paying-tech-stocks-to-buy-in-july-fintech-zoom/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 18
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626519598_0902-Q19-Total-Markets-photos-and-gif_CC8.jpg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "jfO94A8c5FZR/2MFpGcxqMGPAjQWJ+ltrRP4vy8pbFBct1BUOXMvAjGCQL5mMMSSDprZr+zQvK8So+XcDnegvjtMsdv/oCC3T6K/bCaM1gAoIPHJi851zLDFXZr6c5DFO78wdSQsXwP6flpjTqWUzZxRyIt0vdC/DlXwWalnsebJKoh/i5jtCsVoz24H6VdWi/4uZlC5lQnzhteiCC92faeAumd8TwOIF0R+Gzh9nRHzoUPocDJafsDUDlbE2tzH+77kJayPnjFz3fdbswmFhMrm0n7tpzYwxKVI/O/hWkTtM/6ORiFPUL7QVpnET/raiPvcVZS5nyw2GYjd957EAfu96ng1ZwofOHqaZzSnEno=;XOsllEEZcU17GDMfEyu6Ww=="
 ---

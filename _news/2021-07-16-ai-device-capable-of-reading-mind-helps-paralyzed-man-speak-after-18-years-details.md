@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.co.in/ai-device-capable-reading-mind-helps-paral
 cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/ai-device-capable-reading-mind-helps-paralyzed-man-speak-after-18-years-details-838711"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 570
     height: 342
     isCached: true
-
-related:
-  - title: "A new AI-powered brain implant allowed a paralyzed man to speak again"
-    excerpt: "Doctors at UC San Francisco helped a paralyzed man 'speak' again, after giving him a brain implant connected to sophisticated natural language AI."
-    publishedDateTime: 2021-07-15T21:21:00Z
-    webUrl: "https://www.popsci.com/health/man-regains-speech-brain-implant-ai/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 39
-    images:
-      - url: "https://www.popsci.com/uploads/2021/07/15/4x3-UCSF_Neurosurgery_Chang_215.jpg"
-        width: 1708
-        height: 1281
-        isCached: true
 
 secured: "63WPcxsMj7Sv1TF0Z4wGmt9S89v74oE5A1nm9g98Vs8vFUJnaY9Gmt6In0gaxk5+lLYzAMjzybgnhmWSBEI9f6DacPxPiMpUGwhTxhQomhXLeQZ2a16Oaz1qh8C9QMUz8G0VcFLJaWXeu0xVwB/9gbAFnqP+B2QXAX+hF7jUTSs0yw1zqBqYdcnO3Zg6yM0qMRMKPgtDogVTiaZmS4aj8tGLp5htf7umk88540QFMSsvHPsAzjnbC4MeDGtvYkfvrBWr9SbrjSL+yYlNd9CkoELwltWL9RQETcd+PLLpHDfYr7UYjaAafCTZ1Dn+rypzKtez8IpdtydSk7gQsKI1k1xXuR4frAK9eqkD9tazl5J7pyVwih7su4ObMgTz15URMUwQ2InXflFikLTd5QtlNTcdZfVZt5VYYZ6amPsVinWGfpjgExWBM2kH6H93w5WxqV0PLPxUxy4cZ+s64kTUOKSHrbGbWXbUHgShoLyChN0GP1MFafNHdQN9YjuM/bSOqkOnZytysKBZfZsi4hx5Qw==;G18KFGqyVf2IEBbTXa4vVA=="
 ---

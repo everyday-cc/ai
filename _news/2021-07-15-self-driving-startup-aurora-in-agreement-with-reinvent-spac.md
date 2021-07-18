@@ -91,6 +91,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Self-Driving Startup Aurora To Go Public, Raise $2 Billion Through SPAC Merger"
+    excerpt: "Aurora’s deal with Reinvent Technology Partners Y is expected to value the company at $11 billion and should close in the second half of 2021."
+    publishedDateTime: 2021-07-18T07:54:00Z
+    webUrl: "https://www.carscoops.com/2021/07/self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger/"
+    ampWebUrl: "https://www.carscoops.com/2021/07/self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 55
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/02/Toyota-Aurora-Denso-a-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Self-driving tech co. Aurora valued at $11 bln in merger deal with SPAC"
     excerpt: "A benchmark-beating robot thinks AMC will outperform Facebook and GameStop. It likes these other stocks, too. Barron's: 24 Stocks That Could Drop After Earnings This one signal says a stock market correction may be on the way ‘I worry about inflation,’ says BlackRock’s Larry Fink — warns it’s unlikely ‘to be transitory’ Go to the homepage"
     publishedDateTime: 2021-07-15T13:41:00Z

@@ -41,20 +41,6 @@ related:
         width: 800
         height: 560
         isCached: true
-  - title: "Researchers use machine learning to translate brain signals from a paralyzed patient into text"
-    excerpt: "In a study published Wednesday in the New England Journal of Medicine, researchers at the University of California, San Francisco, describe an approach that combines a brain-computer interface and machine learning models that allowed them to generate text ..."
-    publishedDateTime: 2021-07-14T21:07:00Z
-    webUrl: "https://www.statnews.com/2021/07/14/machine-learning-translate-brain-signals-text/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 59
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/07/UCSF_ChangLab_239-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "M2wF8tF1PA+Oe6Yv240+TSVmSMnoKMa7eCis4JpBBDRJGAK6Nh80Th0vbRfHa9rmJC9JkdZt3cI9CSL7pXAGCpVvH5sctEKU1X5JXIzxhbDfE1Pe8KMRhbcF0Mztz//C/7UQNbPqngpuxY1j+MCplHZSgaJcBa9qkew3qB+ohJuNr3Jg2p1Q1Di3G8m2CQOkLfc2XGif2oBS/AvKhNrLXcCm1prGFXnlezAMKPteFD8Ex1fUqklRNXw0I0J4Q/eNxkgeUXAS4Wlr0P6t45ocgwjC7BJ6SRIemuJ/v26f7hAqWGm7Xrbr78qoyoLue4nB24YNvY9BmQTsikM8myhG6/+b6mBo3FgmU2kiqHPHDmU=;ibzYHeNtc0sYzU6OPZX23g=="
 ---

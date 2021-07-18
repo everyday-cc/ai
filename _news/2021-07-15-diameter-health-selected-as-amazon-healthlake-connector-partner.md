@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
-excerpt: "Customers can then use additional services such as Amazon QuickSight and Amazon SageMaker to better understand patient and population-level trends and help make accurate predictions about the ..."
-publishedDateTime: 2021-07-15T15:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/diameter-health-selected-as-amazon-healthlake-connector-partner-1030612136"
-webUrl: "https://markets.businessinsider.com/news/stocks/diameter-health-selected-as-amazon-healthlake-connector-partner-1030612136"
+excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by"
+publishedDateTime: 2021-07-15T15:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/diameter-health-selected-as-amazon-healthlake-connector-partner-301334828.html"
+webUrl: "https://www.prnewswire.com/news-releases/diameter-health-selected-as-amazon-healthlake-connector-partner-301334828.html"
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1177382/dIAMETER_hEALTH_Logo.jpg?p=facebook"
+    width: 2207
+    height: 1158
+    isCached: true
 
 related:
   - title: "AWS launches HealthLake to help health care organizations query medical data"
@@ -111,6 +113,20 @@ related:
         width: 1024
         height: 598
         isCached: true
+  - title: "AWS Announces General Availability of Amazon HealthLake"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon HealthLake, a HIPAA-eligible service for healthcare and life sciences organizations to ingest,"
+    publishedDateTime: 2021-07-15T14:57:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-health-coronavirus-pandemic-a6577a90cb304bcf90fa8b9af7a85b90"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Amazon (AMZN) HealthLake Boosts AWS for Health Offerings"
     excerpt: "Amazon’s AMZN cloud computing platform, Amazon Web Services (AWS) recently made Amazon HealthLake — a service eligible under the Health Insurance Portability and Accountability Act of 1996 — generally available for healthcare and life sciences organizations."
     publishedDateTime: 2021-07-16T14:58:00Z
@@ -162,15 +178,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS Announces General Availability of Amazon HealthLake"
-    excerpt: "For example, customers can apply analytics using Amazon QuickSight to understand patient and population-level trends, as well as build powerful machine learning models with Amazon SageMaker to ..."
-    publishedDateTime: 2021-07-15T15:25:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210715005761/aws-announces-general-availability-of-amazon-healthlake"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 34
   - title: "Your occasional storage digest with AWS HealthLake, Delphix, Infrascale, XenData and much more"
     excerpt: "This week we have AWS doing a neat health sector vertical market data lake offering with partners, Delphix bragging about its growth and diversity hiring credentials, and Infrascale offering MSPs and VARs new backup appliances."
     publishedDateTime: 2021-07-16T15:16:00Z
@@ -200,6 +207,6 @@ related:
         height: 600
         isCached: true
 
-secured: "SV661Tju8I6J2QoKwd8V+L+KNctbdLO+cL4mbHu9AOV7gRHrcfdu3Kfl7bNZcG/DJq9MGgKQWrW1hlgXk2cOQaHlR8Z5sebjT0T2Buamuw+eYZIveky2REcKZDrgvViKK3rR6xGklhfOHFVZZQTAJ8K9kdM500bglak0Ski4jHvC5km2Q+FV8QIS6ye5WZ0A8DAs0Rnk3TsYP/+fq4DqB9HPeYY0V52+1epgwoO3BozFLM/+Ry76aJwQyUqGBOtvvbHzc93YujTQcJfxoaMPhc1GOhbyOHd9jjyWft2qZba9VjZTG0LOqixdIcROQEavUotzvYYsK7v/YS5rrgL/9anxIybiWQ80Tjx+WsyjscM=;vVqkvS+dQKpGyOZGTW7Iew=="
+secured: "TlyZUrOINMMNQZcattpLKqoOWTF+cU1IyvEXSfVdQly0mj1d4xaT/u+Kgn9FowMPZSJQg71nqg6Loh/vrvE+paDIqAtOBFiNknNh3pcaEx+9kfBPMtCqYzWhvz5Tbs6BXr3YorDa/bp0uNbWn5GiIeM9/nM5HxmPFlsOOjgc5yfPQ888lTQpg3Kts6G7K5veoVAwRMRj/ilkY3/NY3YpIynZVHEu3BMdUmUXHtUZInnIwsbEhowZfz2joTB1k9J2Ff74DH6zR7SgJXrD8LLBoGQxFXV0CWsrAgvHRVaxBhTQYunzDP3R8sT3e4ldr4QQbfsXWwwauPcGjrmcXXYfMSyPHHaqCKNmwXPSvjikDHU=;7X4OAVKnwgJkgc1/9P5WkQ=="
 ---
 

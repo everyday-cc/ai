@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/aurora-go-public-via-11-bln-mer
 webUrl: "https://www.reuters.com/technology/aurora-go-public-via-11-bln-merger-with-mark-pincus-reid-hoffman-spac-2021-07-15/"
 type: article
 quality: 154
-heat: 324
+heat: 334
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://images.wsj.net/im-370052/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Self-Driving Startup Aurora To Go Public, Raise $2 Billion Through SPAC Merger"
+    excerpt: "Aurora’s deal with Reinvent Technology Partners Y is expected to value the company at $11 billion and should close in the second half of 2021."
+    publishedDateTime: 2021-07-18T07:54:00Z
+    webUrl: "https://www.carscoops.com/2021/07/self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger/"
+    ampWebUrl: "https://www.carscoops.com/2021/07/self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 55
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/02/Toyota-Aurora-Denso-a-1024x555.jpg"
+        width: 1024
+        height: 555
         isCached: true
   - title: "Self-Driving Startup Aurora in Agreement With Reinvent SPAC"
     excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y, a blank-check firm led by executives including LinkedIn co-founder Reid Hoffman and Zynga Inc."
