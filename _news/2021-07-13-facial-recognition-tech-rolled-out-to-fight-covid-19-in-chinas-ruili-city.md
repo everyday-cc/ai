@@ -43,22 +43,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "COVID-19: Facial recognition tech fights coronavirus in Chinese city"
-    excerpt: "BEIJING: Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak. China is one of the world’s most surveilled countries,"
-    publishedDateTime: 2021-07-13T10:01:00Z
-    webUrl: "https://gulfnews.com/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
-    ampWebUrl: "https://gulfnews.com/amp/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/asia/covid-19-facial-recognition-tech-fights-coronavirus-in-chinese-city-1.80626315"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/07/13/Ruili-1626170218791_17a9f4c592b_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "Columbus Crew Using Facial Recognition Ticketing System"
     excerpt: "The Crew have partnered with computer vision software Wicket to add facial recognition scanning kiosks at their venue."
     publishedDateTime: 2021-07-16T07:04:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/active-witness-launches-ai-p
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 612
     height: 355
     isCached: true
+
+related:
+  - title: "Discuss.io launches artificial intelligence toolkit"
+    excerpt: "Video insight company Discuss.io has added a set of insight tools to its platform, based on artificial intelligence (AI) and natural language processing (NLP)."
+    publishedDateTime: 2021-07-16T09:19:00Z
+    webUrl: "https://www.research-live.com/article/news/discussio-launches-artificial-intelligence-toolkit/id/5086692"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5086692&name=discussio-launches-artificial-intelligence-toolkit"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5086692&name=discussio-launches-artificial-intelligence-toolkit"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 57
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
 
 secured: "LHrpw7/MMTq6B1zT6tnxjRIYXtZESmFYHZZw/xpL8k6fvOfZ/SnIROS5joR1diwFGNvokRdQrdYivhR+zCU88JuP1Zufd80Y59aTK8y8yvmFyGKo/VSash0QiJJmC/x9PSrSndLqRnE542Tg06X9FsF+qGMVHAa4WMP7s7/SCMgsZg/z3/JZRai8RNg8lylZRU3z0jUJ9e24iG1ASF9E+aFaJNV4MmMDI1IBnGUIl0JNGOPUsEqBt3Cf3m28qR/c8k6b9LrSbV1UWvyJQLaUEQEX5BZsG5aRLEghCKt84bqHX/1dP+zxwyHaOfQCZej1n0sYsJqagJGkHpzpwFXMzrJOESzPnmRrZC6nmuHg0a4=;n0EPXRItZd+RlIhjniZWXw=="
 ---

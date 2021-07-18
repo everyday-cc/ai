@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-15-how-artificial-intelligence-is-fighting-wildfires.md",
+      "title": "How Artificial Intelligence Is Fighting Wildfires",
+      "excerpt": "A lab at the University of California, San Diego, uses data to figure out how fires will burn, and how to help prevent them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/15/multimedia/15californiatoday-fire-b/merlin_190627797_498e5dd5-d350-4676-9c87-862a283f469c-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/15/us/wildfires-artificial-intelligence.amp.html",
+      "publishedDateTime": "2021-07-15T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-ai-based-chatbots-speed-up-intelligent-talent-recruitment.md",
+      "title": "AI-Based Chatbots Speed Up Intelligent Talent Recruitment",
+      "excerpt": "Intelligent chatbots are proving that there’s no talent shortage when you know how to personalize employee recruitment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d9c7f4d73f511129de383c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/amp/",
+      "publishedDateTime": "2021-07-15T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life.md",
       "title": "Smart Cities: How Facial Recognition Can Facilitate The Safe Return To Urban Life",
       "excerpt": "When deployed correctly and used to its highest potential, facial recognition technology can help facilitate safe interactions and support a flourishing economy.",
@@ -459,7 +561,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1130,91 +1232,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-ai-based-speech-pattern-analysis-may-allow-alzheimers-diagnosis-by-phone.md",
-      "title": "AI-based speech pattern analysis may allow Alzheimer's diagnosis by phone",
-      "excerpt": "Patterns of speech in a phone conservation can be used to correctly identify adults in the early stages of Alzheimer's disease, a study published Wednesday by the journal PLOS found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2021/07/14/alzheimers-diagnosis-phone-study/3181626276292/",
-      "originalUrl": "https://www.upi.com/Health_News/2021/07/14/alzheimers-diagnosis-phone-study/3181626276292/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/3181626276292/2021/1/c76b4f9457c85d2bde2be83017a3cd5f/v1.5/AI-based-speech-pattern-analysis-may-allow-Alzheimers-diagnosis-by-phone.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2021/07/14/alzheimers-diagnosis-phone-study/3181626276292/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2021/07/14/alzheimers-diagnosis-phone-study/3181626276292/",
-      "publishedDateTime": "2021-07-14T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate.md",
-      "title": "Nigeria’ll deploy robots, artificial intelligence to fight crime, says Senate",
-      "excerpt": "The Senate on Wednesday said that the Ministry of Communications and Digital Economy had established a centre where artificial intelligence and robots.",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate/",
-      "originalUrl": "https://punchng.com/nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2020/10/07175315/Senator-Ahmad-Lawan.jpg",
-          "width": 750,
-          "height": 410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate/?amp",
-      "publishedDateTime": "2021-07-14T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

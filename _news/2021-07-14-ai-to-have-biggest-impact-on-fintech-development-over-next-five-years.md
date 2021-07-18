@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI to have biggest impact on fintech development over next five years"
-    excerpt: "Artificial intelligence will become the most influential technology in the fintech sector over the next five years."
-    publishedDateTime: 2021-07-13T11:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years"
-    ampWebUrl: "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Why FinTech Struggles To Combat The $1.5 Trillion Trade Finance Gap"
     excerpt: "GUUD discusses why trade finance FinTech has been unable to put a dent in the trade finance gap or ease friction for banks and nonbank financiers."
     publishedDateTime: 2021-07-16T12:43:00Z
@@ -97,24 +81,43 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "SFBT Wednesday Digest: Fintech scores big blockchain partner; Development needs water"
-    excerpt: "San Francisco-based blockchain lending startup Figure Technologies Inc. on a series of initiatives as the alternative asset manager sharpens its focus on innovation in financial technology. Apollo will work with Figure to apply its affiliated blockchain,"
-    publishedDateTime: 2021-07-14T15:16:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/07/14/sfbt-digest-wednesday-figure.html"
+  - title: "Is FinTech the answer to a more sustainable planet?"
+    excerpt: "Environmental, social and governance (ESG) investments have surged in Asia-Pacific over the last year – 57% of investors in the region expect to have “completely” or “to a large extent” incorporated"
+    publishedDateTime: 2021-07-14T01:08:00Z
+    webUrl: "https://www.ejinsight.com/eji/article/id/2852802/20210714-Is-FinTech-the-answer-to- a-more-sustainable-planet"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 12
-  - title: "67% of Fintechs Believe that AI will Have the Biggest Impact on Sector in the Next Five Years"
-    excerpt: "AI today, and the technology is predicted to dominate the market by 2025 90% of fintechs use APIs and they are currently the most widely used emerging technology “Fintech Five by Five” explores five core technologies that will have the biggest impact on the sector in the next five years Tribe Payments,"
-    publishedDateTime: 2021-07-13T09:30:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/67-fintechs-believe-ai-will-have-biggest-impact-sector-next-five-years"
+      name: EJ Insight
+      domain: ejinsight.com
+    quality: 39
+    images:
+      - url: "https://static.hkej.com/eji/images/2021/07/14/2852802_6ba3f2c38f93681f60411b9bac6f290c.jpg"
+        width: 669
+        height: 438
+        isCached: true
+  - title: "FinTech The Key Disruptor For Emerging Market Financial Services In 2021 And Beyond"
+    excerpt: "Jupiter Asset Management has launched its latest whitepaper titled “The innovations disrupting financial services in Emerging Markets” in response to shifting dynamics of financial services in the Middle East."
+    publishedDateTime: 2021-07-14T06:59:00Z
+    webUrl: "https://pressreleasenetwork.com/site/2021/07/14/fintech-the-key-disruptor-for-emerging-market-financial-services-in-2021-and-beyond/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 8
+      name: pressreleasenetwork.com
+      domain: pressreleasenetwork.com
+    quality: 18
+    images:
+      - url: "https://pressreleasenetwork.com/site/wp-content/uploads/2021/07/Untitled-1.jpg"
+        width: 900
+        height: 1356
+        isCached: true
+  - title: "University of Oxford and Esme Learning Champion the Future of Fintech with the Oxford Digital Finance Executive Education Series"
+    excerpt: "University of Oxford and Esme Learning introduce five online executive education short programmes to prepare professionals for the future of finance."
+    publishedDateTime: 2021-07-13T15:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
 
 secured: "CZy0+SiSW1OlHpLpBicJKTxi0k9iD61gT4OfQJSjoxhoK3AN9IT7ih82yI6znozO7eJyfhjtcZ/0f4/857KiKRjjENt+DDKU4MJG1Par5S61OiHsWgy371BHVEsRhUmY3wzdFj9gwlF+U9qF+rhC+5GC+uKGNiQUGR/6WvBCMk15JmDXcOoIUIsMG3b8TuWk0l/DFHxfERPaOiFv/UqimkgMg9juHOMWvdLpHQF3nzMRKff8uSZYbOyg3xEV3PoWyw0pKgpAZ94R1HXnqpciGSAVKi8LMTR3MPcSNoY//YH/zEW1OhIh0Gz6g+3WCkDnfFvhBLVIDUPgqHYvcdoPuSwqrvCiNw51lP6jHOHz5kTbPJLfy/bOCiaLSVT5P284lMRUY0cP7IvTzPQIML/YfO+KZfwl5kxkGWvld6t0o2m5DSASvYBW3D1zbLA5VvFuy7lZb6GS95Xx2cjkvhpA+rxUKLI6x5EwZqgPSgMJWGb4oOmq+ZSoWENeycWRXNgVkGhZkQV71N/UDd22KXnuUg==;tS6yH2IwITYL6qf+1sYWzg=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market Trends and Forecast 2028"
-    excerpt: "The Global Machine Learning Market is estimated to value over USD 16.3 billion by 2028 finish at a CAGR of over 44.1% throughout the forecast from 2021 to 2028. The report on Machine Learning provides the purchasers with a comprehensive analysis of crucial driving factors,"
-    publishedDateTime: 2021-07-13T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-trends-and-forecast-2028-2021-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Edge AI Market Size and Growth Prospects 2019 – 2027"
     excerpt: "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry"
     publishedDateTime: 2021-07-15T20:08:00Z
@@ -204,15 +190,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Agriculture Market Size - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
-    excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
-    publishedDateTime: 2021-07-13T10:44:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/144374/artificial-intelligence-in-agriculture-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 5
 
 secured: "I/m6vaVGfPkgdKXlAqW+M+JSJh+H+LydmfOGuRsuiwFwqkwAn6+7DHe81S3OA+7VORzngYxbMhyB2vH0WIx+hm4aehTYnvLHezf7J3kqSY66h3LvkQE6w198bUgBpnP1Nke7iUXtFAN3TSh+IFtJmo1WkJq9HpTRl3D211nPZKM+F/5m5UGjwJJF4Vern69UqmYWPwDYrQ10mqavVKJlisE0me6DBDIFuXjZ4UjvxRB4jnqfXJgdNvtdJAWVtVSA36v4DFdQm2td6uWH3HuGUeHyMT0LkVAyUEO834XCu7rqERA+8+m1ftQLO1cwNU3ZRHr++zftniAYJPeYVoR1jOvxnKtCxChnKptJs9nV6sN34lvkz7Tby29VduwbrVf6VlUvq/Mi8OmHKijytYaAz68dCxV7l1T7P8wIOHYk0YNwbzRY1QgonSTzv7lh7ZBvX9qvLP4RRWfU6iZqIeeKQVIQtSMZHGucvxZcSGFmun9MpzOF5FJ/CTm06hU7VxujTL5ZQ3UjwbajkPyDTaAReA==;Efg12lCTO2HxOzQfw7dtQA=="
 ---

@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla issues critical warning alongside self-driving software update"
-    excerpt: "Tesla is rolling out a new update that will make its cars even more autonomous than normal. But the electric car company has also issued a warning to go with it. It says the software ‘may do the wrong thing at the worst time’ and cautions drivers to ‘always keep your hands on the wheel and pay extra attention to the road."
-    publishedDateTime: 2021-07-13T10:13:00Z
-    webUrl: "https://metro.co.uk/2021/07/13/tesla-issues-critical-warning-alongside-self-driving-software-update-14919850/"
-    ampWebUrl: "https://metro.co.uk/2021/07/13/tesla-issues-critical-warning-alongside-self-driving-software-update-14919850/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/07/13/tesla-issues-critical-warning-alongside-self-driving-software-update-14919850/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/07/Tesla-model-3-df30-e1626169027179.jpg?quality=90&strip=all&zoom=1&resize=600%2C344"
-        width: 600
-        height: 344
-        isCached: true
   - title: "Breaking: Tesla Releases Full Self-Driving Subscription"
     excerpt: "Tesla has finally released the long-awaited subscription option for their Full Self-Driving feature. Here are the details."
     publishedDateTime: 2021-07-17T06:40:00Z

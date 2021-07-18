@@ -19,51 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Zoho launches business intelligence platform infused with AI"
-    excerpt: "Zoho launched the integrated Zoho Business Intelligence Platform as part of its effort to expand the total addressable market."
-    publishedDateTime: 2021-07-13T10:00:00Z
-    webUrl: "https://venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/amp/"
+  - title: "Panasonic launches i-PRO multi-AI system to enhance the power of their AI cameras and applications"
+    excerpt: "Panasonic announces the i-PRO multi-AI system designed to harness the power of its latest AI cameras and applications by integrating them seamlessly into existing CCTV"
+    publishedDateTime: 2021-07-14T12:15:00Z
+    webUrl: "https://www.sourcesecurity.com/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 45
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/Zoho-DataPrep_Inside_Zoho_Analytics.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Discuss.io launches artificial intelligence toolkit"
-    excerpt: "Video insight company Discuss.io has added a set of insight tools to its platform, based on artificial intelligence (AI) and natural language processing (NLP)."
-    publishedDateTime: 2021-07-16T09:19:00Z
-    webUrl: "https://www.research-live.com/article/news/discussio-launches-artificial-intelligence-toolkit/id/5086692"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5086692&name=discussio-launches-artificial-intelligence-toolkit"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5086692&name=discussio-launches-artificial-intelligence-toolkit"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 57
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
-  - title: "Logiq Leverages Sonasoft AI for Business Intelligence"
-    excerpt: "July 15, 2021 - Logiq, Inc., a global provider of award-winning e-commerce and fintech solutions, leverages SAIBRE, Sonasoft Corp.’s (OTCQB: SSFT) AI bot engine, to uncover new business insights and intelligence."
-    publishedDateTime: 2021-07-15T16:46:00Z
-    webUrl: "https://apnews.com/press-release/newmediawire/4ed8a4551569a3cf1877d5286b53eb16"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.sourcesecurity.com/img/news/612/panasonic-updated-range-s-series-cameras-embedded-ai-capabilities-920x533.jpg"
+        width: 612
+        height: 355
         isCached: true
 
 secured: "MoYBAn/VUUlKnXVbhSSgIBbyJyqWLPhqtMYXCR45MMDzQ2MIm/ZA9DlQOAL1i/Kej5gUrkLOhMZ/VqYn2uW7BKYxM3rKUkFxuJQ86o2cY026VvoslWGxLpjMtO9/niBn/ahZdzaDCBIJSVtZSa6a978aETNBKFT9ge+HihCaHW7Ct3ftCBq/hgUGsUGBVnWx2tmVgDJEui2C38FN1RX9kLgG2j96Fu9+4qd0ulpAM82iUo6Fn62y6Dqb4I3ESJpAI9yEzmMz+5zcm47PuH2v/rk5OHiGdcCmn4XoFpbY/v4LspFezbDGLxs/2JiWybwW5Zu6dTxs+b6gi/JQRrb0g+dNQa1hnVYr70sg/UGGtqM=;4ShqtThRFAtMCfe3NxmSrQ=="

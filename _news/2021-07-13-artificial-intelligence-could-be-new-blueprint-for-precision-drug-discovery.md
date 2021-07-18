@@ -1,63 +1,26 @@
 ---
 category: news
-title: "Artificial intelligence could be new blueprint for precision drug discovery"
+title: "Artificial Intelligence Could Be New Blueprint for Precision Drug Discovery"
 excerpt: "Writing in the July 12, 2021 online issue of Nature Communications, researchers at University of California San Diego School of Medicine describe a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval."
-publishedDateTime: 2021-07-12T18:28:00Z
-originalUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.html"
-webUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.html"
-ampWebUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-artificial-intelligence-blueprint-precision-drug.amp"
+publishedDateTime: 2021-07-12T17:10:00Z
+originalUrl: "https://health.ucsd.edu/news/releases/Pages/2021-07-12-artificial-intelligence-could-be-new-blueprint-for-precision-drug-discovery.aspx"
+webUrl: "https://health.ucsd.edu/news/releases/Pages/2021-07-12-artificial-intelligence-could-be-new-blueprint-for-precision-drug-discovery.aspx"
 type: article
-quality: 57
-heat: -1
-published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Scripps News
+  domain: ucsd.edu
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-drug.jpg"
-    width: 1920
-    height: 1280
+  - url: "https://health.ucsd.edu/news/releases/PublishingImages/OpenGraph-UCSDHSci-1200x628.png"
+    width: 1200
+    height: 628
     isCached: true
 
-related:
-  - title: "New approach that uses machine learning could transform drug development"
-    excerpt: "Writing in the July 12, 2021 online issue of Nature Communications, researchers at University of California San Diego School of Medicine describe a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval."
-    publishedDateTime: 2021-07-13T02:26:00Z
-    webUrl: "https://www.news-medical.net/news/20210712/New-approach-that-uses-machine-learning-could-transform-drug-development.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210712/New-approach-that-uses-machine-learning-could-transform-drug-development.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210712/New-approach-that-uses-machine-learning-could-transform-drug-development.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 58
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "AI-Driven Drug Discovery Blueprint Could Deliver Better Drugs for Chronic Diseases, Researchers Claim"
-    excerpt: "A new mathematical approach could transform drug development by searching for disease targets, then predicting if a drug will be successful."
-    publishedDateTime: 2021-07-14T12:00:00Z
-    webUrl: "https://www.genengnews.com/news/ai-driven-drug-discovery-blueprint-could-deliver-better-drugs-for-chronic-diseases-researchers-claim/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 24
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2021/06/GEN_JULY_2021_Cover.jpg"
-        width: 655
-        height: 790
-        isCached: true
-
-secured: "hMhhoPXzq/thxnDVJy0VxEuVihWbTvCrKBbMg6H6cqr0uKFsxkum7NT1/YZTEyUUOt6GUKd8iz0i7n3mrBrg/DEsbyNa4LGtEbzhWvDzKUxCovUCijIEXG4ET81KbtIzUgQV0g35y9pgYsBPBMex03Uhr98isPo5ixEV+TcvhtXubZby14JeVp64SxPSwSmy4BpOUq/4oAUIV+ROKU2HeD3z2CCgqKO8OXljzLdRHsJavdfJY6tObh+uJzBTbXIVxgpCG9za35gder+CkxeftgiYnICJD4cG8vcxt9U4w3TycWGm4xzFYbzSZ/f2q4cqsTnb7win7JFSAL95lB1sOil4LVh7QF01PdTLlRdQiKc=;hFpcqHKSnUyz9tic5CY2FA=="
+secured: "NcplJwA1yIlW708GtZt56Ar4K/KDwgphYMnEdKY0STOdCF5atYHMff3GxvHCf71NMeQ7qoAM8F1vrABbry8OqtpRK1K9YJP+YSm5uI6tbL5w1IEqC/W92MZSxUeYttE3ELIxYEAK17WS59pjnjimlF6MmDFN8I/LnFah9wRZh3ljRyMexeI36ojsNREdY/Og5b20X1cFIYy4TxDA0U+vGQlMGWXaw8Sk/iKxZTqZi+2f1xvjPgiINqI7SiP+4qQ9kHe8MGewAojMezsORPKOH7NVgzhwdFrhksvrhEPw81ht/4HnXNZ0lIEzct5HTJcpsKMyeWphwSa8Y9iEKUIzCJIgXdTcASVloK2jpuhu1jA=;JRpQ53PJsAJ04IKVwUcdFg=="
 ---
 

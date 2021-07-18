@@ -159,19 +159,14 @@ related:
         height: 630
         isCached: true
   - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
-    excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by"
-    publishedDateTime: 2021-07-15T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/diameter-health-selected-as-amazon-healthlake-connector-partner-301334828.html"
+    excerpt: "Customers can then use additional services such as Amazon QuickSight and Amazon SageMaker to better understand patient and population-level trends and help make accurate predictions about the ..."
+    publishedDateTime: 2021-07-15T15:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/diameter-health-selected-as-amazon-healthlake-connector-partner-1030612136"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1177382/dIAMETER_hEALTH_Logo.jpg?p=facebook"
-        width: 2207
-        height: 1158
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
     excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by Amazon Web Services, Inc. as a Connector Partner for Amazon HealthLake,"
     publishedDateTime: 2021-07-15T19:59:00Z
@@ -187,6 +182,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ZRL5sfB0HdezBGPGUblyge7W3l6iAOu+Cs7iLG1Liriqfhux2L8EjGE7E9Xjo7GVIiGx1Qmk7c1tWXm+bOVm/GyIx1GjutQ7E5gv6FlUc9JtwcK6ffnec9nlRsJKiFd6Cgii5Hp29wmC5SrosPETKOK2uUmBxQAF31bk89d/3qwl/uu59wL60zegAsCrkukB/FOu/fdZer2rRjFcFQRQUpgyUqHllxACIFDBrvICYriN0hnt1YeryBMR+wB3TZIIF/M4/sDv5q0qW3+oxcl1V9Mq2GtVu5TPqZkJ7CDm34OQKY6HFtaHhKxNUaUpUJbUVkwewQrzQ0E0FzBOrBg/+K2flBHSZpQXUbvRgrWt6V0=;rGRHaibbFvwCFH9fiu1DSw=="
+secured: "Xd9HeMIYoUdgNLP0cNmhENsjF7SeSAGTxowrzvHQFs6SlvhfBu4B4EiUSLxtXFeB9T0xAnNZKDZserG4PUwPWHft91uB4hVa3hYr1/hH3R5R2lHzdjoXnVzFCmLAPT5IDQhzlDifqG5CuJo/v8P+UokyhjaHwBHuU55TgLnEB75pjH8ewR8CL7ViQq6BOP4qboT5Mcb6gYD0npvCg3QFZOBypfGdpNjhZEaKP5+yJ5TlZz/QyblMlq++aQNlXC5dOFoC7D5+i3hr/S3t4d09DtHWgVWfBBNkSdrgcRsq/lbv1OzKOZojg6o2AMWwQ1UgKyxqKu+gRQbHRupecW8JRea3IAj1o8tqIBf1HLjYae4=;UFoegPR74eqx+bmS8kmJHg=="
 ---
 

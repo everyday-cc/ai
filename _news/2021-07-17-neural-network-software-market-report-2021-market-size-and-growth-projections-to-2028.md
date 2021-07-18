@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/neural-network-software-
 webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-report-2021-market-size-and-growth-projections-to-2028-2021-07-16"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Self-driving Car Technology Market Present Scenario and Growth Prospects 2021-2026"
+    excerpt: "The Global Self-driving Car Technology market exhibits comprehensive information that is a valuable source of insightful data for business strategists during the decade 2015-2026. On the basis of historical data,"
+    publishedDateTime: 2021-07-18T02:42:00Z
+    webUrl: "https://manometcurrent.com/self-driving-car-technology-market-present-scenario-and-growth-prospects-2021-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 0
 
 secured: "teTlUDbzaWk3bHtBXdupQJPOm2nwsIgcG8l8Jkj3EfLdss61CJ7EtUanhYdJbtI36LSORhCm/lKHZMy5pBQ+409Q9+knXMO2y1ePL0gnPOxlZudelCdTe54nYNLUuFNKXrY75y4o+RpCyVSe0hlaTmaxz/uQWz5ZSKRpktIigUkYMu/d2UU+kfggv6x/nTwLTcKLQJedKsMi4N5LWQ8xiy34PnJ3AlI0/NDrG4P3/CiojbDG13g9AEBEzTVdJOrwB+CRtUD+g3GZbv0ZQUkDYz5mAWQPP76zrJOLGn2fl2+P2aVKNoQWOHwA4m5fdH7k5o4rey/2ayTxuwQCxnn9Pxf4zSkyUveTMDKV2boJ//E=;KnO794tR5ttj4Gi/1PT2pw=="
 ---

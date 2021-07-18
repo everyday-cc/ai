@@ -26,45 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Zoho launches business intelligence platform infused with AI"
-    excerpt: "Zoho launched the integrated Zoho Business Intelligence Platform as part of its effort to expand the total addressable market."
-    publishedDateTime: 2021-07-13T10:00:00Z
-    webUrl: "https://venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/zoho-launches-business-intelligence-platform-infused-with-ai/amp/"
+  - title: "Active Witness launches AI powered access control solution"
+    excerpt: "Active Witness Corp., a provider of artificially intelligent, cloud-based visitor management solutions introduces its SIMA multi-factor access control system that stops unauthorised access"
+    publishedDateTime: 2021-07-14T10:56:00Z
+    webUrl: "https://www.sourcesecurity.com/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/Zoho-DataPrep_Inside_Zoho_Analytics.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.sourcesecurity.com/img/news/612/pipeline-security-920.jpg"
+        width: 612
+        height: 355
         isCached: true
-  - title: "Logiq Leverages Sonasoft AI for Business Intelligence"
-    excerpt: "July 15, 2021 - Logiq, Inc., a global provider of award-winning e-commerce and fintech solutions, leverages SAIBRE, Sonasoft Corp.’s (OTCQB: SSFT) AI bot engine, to uncover new business insights and intelligence."
-    publishedDateTime: 2021-07-15T16:46:00Z
-    webUrl: "https://apnews.com/press-release/newmediawire/4ed8a4551569a3cf1877d5286b53eb16"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Fractal Announces Launch of Crux Intelligence, the Next-Generation Business Intelligence Company That Puts AI in the Hands of Every Business User"
-    excerpt: "Fractal, ( fractal.ai ), a global provider of artificial intelligence and advanced analytics solutions to Fortune 500® companies, today announced the launch of Crux Intelligence, a new provider of comprehensive Augmented Analytics products."
-    publishedDateTime: 2021-07-14T12:45:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/14/9408846.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "qaxL+rjzbdsh30wg89wJFG5Ta7iyM3pSrmxwEiYdGyAK0IZdHsH+yH/RnjAqRmPSMBG9vSTKMwnpVgGgVEjYs+K1GPAnY3tqJiyK3iv/m7SmjkGyn9R127g2E25qJMBBuM9b2j6XEouMlVrSY+wKaWAlkQOru5fVGu2y1sPrPH4dgV3GwKqYqrxTqu7hNo0JKAQX2+ksf6n3piFdoUZFksa4hmmcAF4kWuwiRvRtRZgGbLd6NiqDXHfZbKZiHsJrMzOzSfKLei6uKuaHh/sy6l8UPpQ0To65xBEWqtrPh2dm4t2Xb5bKQKNgRoBEB6JDziKp4JZmWkvrdyxkzmX4h4ZaDIpnuJ9SXVQyFLs5epA=;SsdKeKiAi1+Xl2hOBgDPBg=="
 ---

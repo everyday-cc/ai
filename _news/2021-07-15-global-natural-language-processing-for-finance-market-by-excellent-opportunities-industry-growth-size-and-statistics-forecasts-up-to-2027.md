@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market Trends and Forecast 2028"
-    excerpt: "The Global Machine Learning Market is estimated to value over USD 16.3 billion by 2028 finish at a CAGR of over 44.1% throughout the forecast from 2021 to 2028. The report on Machine Learning provides the purchasers with a comprehensive analysis of crucial driving factors,"
-    publishedDateTime: 2021-07-13T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-trends-and-forecast-2028-2021-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Edge AI Market Size and Growth Prospects 2019 – 2027"
     excerpt: "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry"
     publishedDateTime: 2021-07-15T20:08:00Z
@@ -191,15 +177,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Agriculture Market Size - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
-    excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
-    publishedDateTime: 2021-07-13T10:44:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/144374/artificial-intelligence-in-agriculture-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 5
   - title: "Cognitive Computing Materials Market Forecast Report | Global Analysis, Statistics, Revenue, Demand and Trend Analysis Research Report by 2027"
     excerpt: "Market Expertz latest study, titled ‘Global Cognitive Computing Materials Market,’ sheds light on the crucial aspects of the global Cognitive Computing Materials market. The Cognitive Computing Materials report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027)."
     publishedDateTime: 2021-07-15T00:00:00Z
