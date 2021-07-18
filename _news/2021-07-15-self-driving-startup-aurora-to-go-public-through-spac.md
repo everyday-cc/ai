@@ -3,8 +3,8 @@ category: news
 title: "Self-Driving Startup Aurora to Go Public Through SPAC"
 excerpt: "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc."
 publishedDateTime: 2021-07-15T16:53:00Z
-originalUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629?mod=newsviewer_click"
+originalUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
+webUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
 ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
 type: article
@@ -256,6 +256,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fPQzKReECC+/zA4uup4QckzlLYvCkMT8Y4j7F4qGkHmdzO+VPiWRGaE8b1SMxYTPJ7H4u6k0bYcpTt1n0HQER7lscDsAOjeFdRyn7m77N9MfCOPDqQ/+/mgXvXRLdhq8W8HsGFMhg7ljWNAod/gMaQBWLRedP/Pu6XPihIlVGeEXcrcwALlfd1Pb6vq84HdzlXoIaOqXnrDlCLwqhUI0wBBQWy3nu7LVY13X4K+klu11OtyxHtPUkGXwiHdBnxQLs0Ay3oY4q37tENDabfnKIBP1z9CrlqMEX4a5mN7dpm/b2qsyDNjhGYEdWiggqKlvHUOu3vtx+BoVNR3tcfpoFvOfklJyekhtqdNY4aDaYAJ1fuZkWlApXfMsQ1intGGpXADPIALjNZVpgjq3Jvxw0NQxbaPOoMiHd3SAJ/s9/P6O4hyRE0lclu0VENDdNVgk+QOzBIDKDw5FyKe67mVcvD8xaAdjejrq47LNcAKQj/yv0h8JRibopGQJRs8zzEQJAz1s/odHzDn5tyOpB4q8fw==;hqY3GTz05O6ThW6sftS9ZQ=="
+secured: "tKAQTjrhnPEEqJ6b+NoQW9IzLi/Z27fHl0jST6H973k/f24N3hWYNFEbbA7kOSBwlBANz5elAaLTaG0OGkQd+Rkc1DTYWaVzKcPZFJTx3uWfx4aNBfzNGgmaIVHoV7jMy7euQ0ve6911/urpK+0SPeWF9XxjZEjwdqjFKi4K9QdB5XdJF53rJHIlfqjW1rBTrrEBpH5nXKVkWRwc6u90TIaUVBgGjH4VBwBhVnkAIYp7F0xG/SwscOWVxzI23g9o+ZBauosCQ/LqKDtnRuJN/roWV4ickV3BFcACkb2yY5ga/2yIXLpXyFWiSVFhnVbjurf+MUx6Lug276OCwKtTHg1lPj7a7YDa6svfZQ1QXvY=;ndTYmWJM+0YZ1GCO/hc7Mw=="
 ---
 

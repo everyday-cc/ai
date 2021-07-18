@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analy
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-648272290.jpg"
         width: 690
         height: 400
+        isCached: true
+  - title: "Why AI and analytics are the answer to tax authorities’ questions"
+    excerpt: "But how is it that EU tax authorities and organizations stand to benefit from AI and analytics? Inside, access this white paper to explore how a decision intelligence system can help the public sector identify tax fraud when it happens,"
+    publishedDateTime: 2021-07-18T06:59:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1626176632_583.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 37
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1626176632_583_lg.jpg"
+        width: 315
+        height: 408
         isCached: true
   - title: "Startup Circle: How is Qandle using AI/ML and analytics to provide an All-In-On HR Tech solution?"
     excerpt: "Qandle is an All-In-One HR Platform – established in 2016 and launched in 2018. The young startup focuses on re-engineering HR Technology from employees’ perspectives. It provides an array of tech-enabled solutions for HR tasks including – Hire and Onboard,"

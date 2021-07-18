@@ -151,22 +151,6 @@ related:
         width: 932
         height: 524
         isCached: true
-  - title: "Farmington Hills man misidentified by facial recognition technology testifies at Congressional hearing"
-    excerpt: "The Farmington Hills man who has sued Detroit police after being wrongfully identified by the department's facial recognition technology in a shoplifting investigation is testifying in front of a congressional subcommittee Tuesday."
-    publishedDateTime: 2021-07-13T14:59:00Z
-    webUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress"
-    ampWebUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 43
-    images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
 
 secured: "h51I+hpy2CqIrwl3sbpe0KWQY8XTRoeiV9Thr9mgo+jsyL370MKNOR2grwU0yN5V5qNwwFKXV63VZIFhkeh0KCw1eGD2dKLGCDsJK5lV4DcpQnCXcAk4uRVJaq0PvLdCcu1D5L2nn2f7Fe7WiLzNaYeeSNdXU55RDrF/vW8UHOf4zwFr3mIjDjjXNFVVYb6KaC3/nAiqEVkHk1w6kmaVd/l3ZJ4u6K4rGcYNDHZBzN2FFD1/DUsXhpBlNCCTjp3V7sCbys3wkQGakHmVjkfAgfUnd1R5RJQekVCFmczxsra5EnkoHeyWsC3pggpI2PHRTI06ondCckVMu6WoPwW5EXuWTY59cvAcN/XebsyXUJdUP+ciQePHiVExR3nO2pIOr9De7rC70E9tHHTWLXU34i2ot2VBk7ezfJWrEXyXzzQzDEv1SY1lFDlMv1r32oxBOVWHL310Lv8+crFottvQLt3AXg+qpquRYNOIqP6lgTeGFFf76wxaVobTTaZMKiNnYz0oXiAi/llfn9X+uyKMqA==;p8GXq+cpsCDf45VpdmA8jw=="
 ---

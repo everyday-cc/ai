@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/trust-me-im-a-chatbot.jpg"
         width: 1440
         height: 1377
+        isCached: true
+  - title: "How AI & Chatbots are profiting from mobile app technology?"
+    excerpt: "AI & Chatbots are benefiting mobile technology in various ways as AI-powered chatbots continue to make a transforming appearance for mobile apps across various industries domains. AI is for digging out various queries and providing relevant and instant reverts to the users to give them a better than ever user experience."
+    publishedDateTime: 2021-07-18T07:09:00Z
+    webUrl: "https://customerthink.com/how-ai-chatbots-are-profiting-from-mobile-app-technology/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-645732586-chatbot_ctmedia.jpg"
+        width: 1732
+        height: 1732
         isCached: true
 
 secured: "opjXslhVSpk35K2ST0RXPcvKMm0bKlxfKQDp2N5ga3ieGNN1Y0HHoeuZvnT3bbUMaY/wSUq+H+z19UCI7tPf7Wc+N/AveAcAiE52/vPL52Nlcj0OUHzESWJDaGZFsFFZgAVOqENFDSQL3X8o8fmOXVLvy3kzvvUgcGzemAgEQc3CEx342dOWNLluDGbH//VAEJTI62i/lLT4J0G61AVg32UlgRQ6iRlgEAx9dJPjmDP3FRZuYWZq6j7SNRvR7a2D6UGYnmU0AwRDUYXN6I0TBoAVzKUIQEUbfuLRZ9O/Y4NJCHqY1v8iIcQnieOIBNDaqSdF9jO0aTZHljn/ebSs8xyJvd//mpI3V6RxBRj2k1EWQgOc+FgJqvq84UMuKxCnCCy5tAh8eGYtLIX3Ef5uKjCKECa/MOmVlUEdtTeE8p1+CuQVYv7WWodwvaAKxkmXNeMipKydpJWWbVc3LsrLYh6J/frHgJBSojIxICB32ThfTamm46W+roSMy6PJfNzI/xVIcz2FZ9EAgsuuBUITcA==;KZRfkI+Ls22EVPnfpWX3Iw=="

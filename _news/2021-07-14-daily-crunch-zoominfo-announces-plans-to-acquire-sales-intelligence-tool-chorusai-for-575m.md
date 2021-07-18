@@ -23,20 +23,6 @@ topics:
   - AI in Sales
 
 related:
-  - title: "ZoomInfo Buys Israeli Company Chorus.ai for $575 Million"
-    excerpt: "Employees of an Israeli startup company work at the company’s office in Tel Aviv, Israel, Feb. 7, 2018. Photo: Reuters"
-    publishedDateTime: 2021-07-13T14:18:00Z
-    webUrl: "https://www.calcalistech.com/ctech/articles/0,7340,L-3912362,00.html"
-    type: article
-    provider:
-      name: Algemeiner
-      domain: algemeiner.com
-    quality: 137
-    images:
-      - url: "https://images1.calcalist.co.il/PicServer3/2018/12/13/869065/Chorus_l.jpg"
-        width: 590
-        height: 320
-        isCached: true
   - title: "ZoomInfo acquires Israeli startup Chorus.ai for $575M cash"
     excerpt: "Israeli startup Chorus.ai had only raised $100M in VC funding but was sold for much more than that... Among the trove of funding rounds, IPOs, and talk of establishing Israeli companies for the long run,"
     publishedDateTime: 2021-07-14T11:32:00Z

@@ -2,28 +2,26 @@
 category: news
 title: "Tesla launches full self driving subscriptions at $199 a month"
 excerpt: "Tesla has officially launched its Full Self-Driving (FSD) subscription package for $199 per month. Those who previously bought the Enhanced Autopilot package, the FDS feature would cost $99 a month. To date,"
-publishedDateTime: 2021-07-18T05:54:00Z
-originalUrl: "https://www.business-standard.com/article/automobile/tesla-launches-full-self-driving-subscriptions-at-199-a-month-121071800175_1.html"
-webUrl: "https://www.business-standard.com/article/automobile/tesla-launches-full-self-driving-subscriptions-at-199-a-month-121071800175_1.html"
-ampWebUrl: "https://wap.business-standard.com/article-amp/automobile/tesla-launches-full-self-driving-subscriptions-at-199-a-month-121071800175_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/automobile/tesla-launches-full-self-driving-subscriptions-at-199-a-month-121071800175_1.html"
+publishedDateTime: 2021-07-18T06:07:00Z
+originalUrl: "https://www.dailypioneer.com/2021/technology/tesla-launches-full-self-driving-subscriptions-at--199-a-month.html"
+webUrl: "https://www.dailypioneer.com/2021/technology/tesla-launches-full-self-driving-subscriptions-at--199-a-month.html"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/21/full/1603244979-7536.jpg&width=1200"
-    width: 1200
-    height: 900
+  - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/tesla-launches-full-self-driving-subscriptions-at--199-a-month-2021-07-18.jpg"
+    width: 1000
+    height: 800
     isCached: true
 
 related:
@@ -134,6 +132,6 @@ related:
         height: 675
         isCached: true
 
-secured: "rZXZ3sNG1dl5P0nRFwpXV9jaOCxc4xV1IXHBB87wXW1G0K/G4bRNtm4eo9t8m/60ax5RQsBGxtLzz/W757hADX7glokPmICpJ+QKeUZvutgyolieyTvaflAV9XXVMw46x8fXbP/dZVmbzDLu4+Atwyby+j+tNx7+nPyTqYcl3VoJ1j4AeFVVk/HIL9eXXDFc1+UXeqin9KjfY30a0YRCV1K/RwJJIck0whGXfmcpjt0MIF+GUx+AX5WkhFchEuVrT5fgMR7T9gixGtYbH3tpeDUGRkwUEMvY8MAOaGxKrmtRs3TlVmqCC/UQiIBs28sX+hG9pScnqse2v0zPLcxojKmOTteM6nSDDKfA3hOD4CE=;vSNBq5ihUHf6gPeQrpiM2g=="
+secured: "3iC6RvFmNwmCGTzu5TuAn3+p2N+vzlP+YLK8lqiF6y/wapARUilVsTs6HwRNshwLhFUc/n813haclVQdtjAs8wdnErGbsqDCn2lCLFBV9JOiUI9NLG9sDAANo3NlFik0teJ4WSN6YQbMwFwFUo7h2l+1/ZplrSUjwoj2mANsk0Uv4MnId7Zc4jYob2qKrDhiuC1uNzRPJ2ixb0HnPey7pGlG89HhOcnQS2hunia/G2jpyBDIFhzBhL7PUR/cWFg6wq2UHllvI6hfYtHzVREYriT5ZJDrZP+KrB++8SFpE/Yn1vZnogve37eieQ9hz6HsntFhltpPTEnL3k+5dKCxw+elsZtAPyMl6b1xQEwftGQ=;lxH0Ot6Ib9tVcSpK1RDQZA=="
 ---
 

@@ -137,22 +137,6 @@ related:
         width: 932
         height: 524
         isCached: true
-  - title: "Farmington Hills man misidentified by facial recognition technology testifies at Congressional hearing"
-    excerpt: "The Farmington Hills man who has sued Detroit police after being wrongfully identified by the department's facial recognition technology in a shoplifting investigation is testifying in front of a congressional subcommittee Tuesday."
-    publishedDateTime: 2021-07-13T14:59:00Z
-    webUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress"
-    ampWebUrl: "https://www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/farmington-hills-misidentified-by-detroit-police-facial-recognition-technology-testifies-in-congress.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 43
-    images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Skating Rink Boots Black Teen Misidentified by Facial Recognition System"
     excerpt: "In what civil rights advocates on Thursday framed as yet another example of the need for reforms by companies and governments alike, an ice skating rink in Michigan turned away a Black teenager after its facial recognition system misidentified her as ..."
     publishedDateTime: 2021-07-16T00:18:00Z

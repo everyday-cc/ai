@@ -100,6 +100,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence(AI)Chips Market Segment by Revenue, Size, CAGR and Growth Analysis 2025-AMD(Advanced Micro Devices)"
+    excerpt: "This report presents the worldwide Artificial Intelligence (AI)Chips System market size (value, production and consumption), splits the breakdown (data status 2016-2020, and forecast to 2025), by Companies,"
+    publishedDateTime: 2021-07-17T11:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-segment-by-revenue-size-cagr-and-growth-analysis-2025-amdadvanced-micro-devices-2021-07-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in the Education Sector Market Research, Growth Opportunities, Key Players, Outlook and Forecasts Report 2021-2027"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Artificial Intelligence in"
     publishedDateTime: 2021-07-16T09:32:00Z

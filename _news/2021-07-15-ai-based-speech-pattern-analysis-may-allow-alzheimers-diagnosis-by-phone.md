@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Health_News/2021/07/14/alzheimers-diagnosis-
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2021/07/14/alzheimers-diagnosis-phone-study/3181626276292/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: UPI.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning can identify signs of Alzheimer's in patients recalling the story of Cinderella"
-    excerpt: "A new study by researchers from the Neurosciences Research Centre at St George's has identified the strengths and limitations of different tasks used to detect the early signs of Alzheimer's disease through speech analysis and machine learning."
-    publishedDateTime: 2021-07-13T14:07:00Z
-    webUrl: "https://medicalxpress.com/news/2021-07-machine-alzheimer-patients-recalling-story.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-07-machine-alzheimer-patients-recalling-story.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-machine-alzheimer-patients-recalling-story.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 46
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-can-i.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Machine-learning algorithms used to detect Alzheimer's during phone conversations"
     excerpt: "Researchers working at the Department of Public Health, McCann Healthcare Worldwide Japan Inc., has created three algorithms that can be used to detect Alzheimer's in patients as they engage in phone conversations."
     publishedDateTime: 2021-07-15T14:20:00Z

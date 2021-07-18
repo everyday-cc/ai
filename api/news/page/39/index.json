@@ -2,92 +2,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2021-06-18-brytlyt-lauded-by-frost-sullivan-for-building-brytlytdb-a-gpu-powered-analytics-platform-that-is-transforming-the-way-companies-leverage.md",
-      "title": "Brytlyt Lauded by Frost & Sullivan for Building BrytlytDB - A GPU-powered Analytics Platform that is Transforming the Way Companies Leverage Data",
-      "excerpt": "Based on its recent analysis of the European graphics processing unit (GPU)-powered database and analytics platform market, Frost & Sullivan recognizes Brytlyt Limited with the 2021 European Technology Innovation Leadership Award for BrytlytDB.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/175613/",
-      "originalUrl": "https://www.newswiretoday.com/news/175613/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-regulators-know-teleoperation-is-key-for-self-driving-vehicles-to-succeed.md",
-      "title": "Regulators know teleoperation is key for self-driving vehicles to succeed",
-      "excerpt": "Teleoperation is necessary for widespread adoption of autonmous vehicles and new legislation and regulations will help pave the way.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/",
-      "originalUrl": "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-DRIVE-Sim-on-NVIDIA-Omniverse-2555435f76adab108b04.83463724.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/amp/",
-      "publishedDateTime": "2021-06-17T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-17-veritone-bags-14th-us-patent-for-dynamic-ai-model-orchestration.md",
       "title": "Veritone Bags 14th US Patent For Dynamic AI Model Orchestration",
       "excerpt": "Artificial intelligence (A.I.) operating system, aiWARE creator Veritone Inc (NASDAQ:VERI) won a new U.S. patent for its Conductor technology that performs dynamic A.I. model orch",
@@ -1187,6 +1101,101 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-nvidia-and-the-battle-for-the-future-of-ai-chips.md",
+      "title": "NVIDIA and the battle for the future of AI chips",
+      "excerpt": "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?mc_cid=33835e015c&mc_eid=a2c3c6d032",
+      "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?mc_cid=33835e015c&mc_eid=a2c3c6d032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/60c7b882edeb9d79d47f89f4/16:9/w_1280,c_limit/1621-WIRED-Chips.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-chinas-ponyai-plans-to-begin-commercial-driverless-robotaxi-service-in-california-in-2022.md",
+      "title": "China’s Pony.ai plans to begin commercial driverless robotaxi service in California in 2022",
+      "excerpt": "Chinese startup Pony.ai has commenced testing of its driverless vehicles on public roads he the US state of California. This is a prelude to the full rollout of commercial robotaxi services in the US planned for 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/06/17/chinas-pony-ai-commercial-driverless-robotaxi-service-california-2022/",
+      "originalUrl": "https://www.gizmochina.com/2021/06/17/chinas-pony-ai-commercial-driverless-robotaxi-service-california-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/pony.ai_.png",
+          "width": 731,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

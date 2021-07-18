@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-fri
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/cd378bca5045dc5a205b5675d19c98c1ea52765f/1569_2306_2515_1509/master/2515.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ea757871e72629b7d2bb4db44c011f6"
         width: 600
         height: 360
-        isCached: true
-  - title: "How Fintech can harness the power of big data to redefine market forecasting"
-    excerpt: "Advances in predictive analytics using machine learning (ML) algorithms and blockchain technology demonstrate how innovations in financial services are challenging"
-    publishedDateTime: 2021-07-13T14:27:00Z
-    webUrl: "https://www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/"
-    ampWebUrl: "https://www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 41
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/07/9298_PG_School_of_Accounting_and_Finance_WEB_IMAGES_06.21-1.jpg"
-        width: 1024
-        height: 640
         isCached: true
   - title: "AI to have biggest impact on fintech over next five years"
     excerpt: "Tribe Payments, a payment technology company, has revealed that 67% of fintechs believe AI is the technology that will have the biggest impact on the sector over the next five years. This insight comes from their Fintech Five by Five report,"
@@ -110,15 +94,6 @@ related:
         width: 900
         height: 1356
         isCached: true
-  - title: "University of Oxford and Esme Learning Champion the Future of Fintech with the Oxford Digital Finance Executive Education Series"
-    excerpt: "University of Oxford and Esme Learning introduce five online executive education short programmes to prepare professionals for the future of finance."
-    publishedDateTime: 2021-07-13T15:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
 
 secured: "GrStSJNUnXEr4Iip9tqrEBZODJCYAKActprG/Gjb7YCA9GVFOpmSIXSmkp6ric3EK9InDmEL9ZnkcV1zbcdig9dQxksXN2DhLYKmWlhg+6CJ5UK80JO/JvASZ5PWC0DaiZqtZFmLL0We9ExlbRFtnInsxXwa2L8/aHNrhluRo3ZBI//UCn39t67lJln2g98CjUyPjyLsV5IGUMhduUEeyRI6sVr4ip29T2w57piGoBRLNb8BzmEsGmdcRFWfPShv2ayOGMgSd8Ay8ZhGXzUtXFs3XGaXbT1ESC6eI4uTx5RlGSOzuN2xzx1gS5uQes7EheZn0dqrgTlT2ENj+phCUZgR+HfpvlXph5bOwXdY2Fs=;S1RFQzf1q88TXNtyqBSBjA=="
 ---

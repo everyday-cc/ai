@@ -101,6 +101,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Why AI and analytics are the answer to tax authorities’ questions"
+    excerpt: "But how is it that EU tax authorities and organizations stand to benefit from AI and analytics? Inside, access this white paper to explore how a decision intelligence system can help the public sector identify tax fraud when it happens,"
+    publishedDateTime: 2021-07-18T06:59:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1626176632_583.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 37
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1626176632_583_lg.jpg"
+        width: 315
+        height: 408
+        isCached: true
   - title: "Startup Circle: How is Qandle using AI/ML and analytics to provide an All-In-On HR Tech solution?"
     excerpt: "Qandle is an All-In-One HR Platform – established in 2016 and launched in 2018. The young startup focuses on re-engineering HR Technology from employees’ perspectives. It provides an array of tech-enabled solutions for HR tasks including – Hire and Onboard,"
     publishedDateTime: 2021-07-15T09:19:00Z

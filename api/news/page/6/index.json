@@ -2,100 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-07-13-quantexa-raises-153m-to-build-out-ai-based-big-data-tools-to-track-risk-and-run-investigations.md",
-      "title": "Quantexa raises $153M to build out AI-based big data tools to track risk and run investigations",
-      "excerpt": "As financial crime has become significantly more sophisticated, so too have the tools that are used to combat it. Now, Quantexa — one of the more interesting startups that has been building AI-based solutions to help detect and stop money laundering,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/12/quantexa-raises-153m/",
-      "originalUrl": "https://techcrunch.com/2021/07/12/quantexa-raises-153m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1148091243.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/12/quantexa-raises-153m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/12/quantexa-raises-153m/amp/",
-      "publishedDateTime": "2021-07-12T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details.md",
-      "title": "Google Pixel 6 Whitechapel chip rumor just spilled key details",
-      "excerpt": "As we get closer to the Pixel 6 's launch, we're bound to get more information on the in-house Whitechapel system-on-chip likely to power Google's phone. And thanks to some new Product Validation Test (PVT) units,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/news/google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details",
-      "originalUrl": "https://www.tomsguide.com/news/google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Enmxw8Dv93De8sxHsCTQAj-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tomsguide.com/amp/news/google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details",
-      "cdnAmpWebUrl": "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details",
-      "publishedDateTime": "2021-07-12T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-informatica-introduces-ai-model-governance.md",
       "title": "Informatica Introduces AI Model Governance",
       "excerpt": "Along with Informatica's announcement of its Cloud Data Governance and Catalog today, comes a suite of features aimed at extending data governance to the world of AI and machine learning models.",
@@ -1166,6 +1072,110 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-artificial-intelligence-is-improving-energy-companies-not-replacing-workers.md",
+      "title": "Artificial Intelligence Is Improving Energy Companies — Not Replacing Workers",
+      "excerpt": "A power plant that will run on “artificial intelligence” is about to get underway in West Africa. The joint venture between Swiss-based Xcell Security House and Finance and U.S.-based Beyond Limits will embed intelligence and awareness into the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/",
+      "originalUrl": "https://www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e77cd540da575f48ca0980%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/amp/",
+      "publishedDateTime": "2021-07-12T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-voice-biometrics-the-new-defense-against-deepfakes.md",
+      "title": "Voice biometrics: the new defense against deepfakes",
+      "excerpt": "With a UCL study ranking deepfakes as one of the biggest threats we face today, it’s time to strengthen our defenses – and put fraudsters on the defensive. Touted as the 2020s’ answer to Photoshopping,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/voice-biometrics-the-new-defense-against-deepfakes",
+      "originalUrl": "https://www.techradar.com/news/voice-biometrics-the-new-defense-against-deepfakes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/P6nR5BjdpHEUspxkCwTxdc-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/voice-biometrics-the-new-defense-against-deepfakes",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/voice-biometrics-the-new-defense-against-deepfakes",
+      "publishedDateTime": "2021-07-12T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

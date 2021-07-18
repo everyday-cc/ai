@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/in-pursuit-of-a-career-in-healthcar
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

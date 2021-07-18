@@ -326,7 +326,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2021/07/feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -476,50 +476,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-14-michigan-man-wrongfully-accused-with-facial-recognition-urges-congress-to-act.md",
-      "title": "Michigan man wrongfully accused with facial recognition urges Congress to act",
-      "excerpt": "A House Judiciary panel heard testimony from Robert Williams, who was mistakenly arrested by the Detroit Police Department based on flawed use of facial recognition software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/news/politics/2021/07/13/house-panel-hear-michigan-man-wrongfully-accused-facial-recognition/7948908002/",
-      "originalUrl": "https://www.detroitnews.com/story/news/politics/2021/07/13/house-panel-hear-michigan-man-wrongfully-accused-facial-recognition/7948908002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/06/24/PDTN/2561defe-e5fd-491e-9364-6dc1104ec2f2-Robert_Williams_1.jpg?auto=webp&crop=5159,2902,x0,y538&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/7948908002",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7948908002",
-      "publishedDateTime": "2021-07-13T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-07-14-nordstrom-cto-on-ai-powered-analytics-and-consumer-insights.md",
       "title": "Nordstrom CTO on AI-powered analytics and consumer insights",
       "excerpt": "Reflecting on the start of this project ... is key to the platform architecture process. With more than 100 AI models leveraged daily at Nordstrom, an end user will indirectly see the benefit ...",
@@ -528,7 +484,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1423,6 +1379,49 @@
       "provider": {
         "name": "Android",
         "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-tiktok-is-now-selling-its-ai-to-other-companies-including-in-india.md",
+      "title": "TikTok is now selling its AI to other companies including in India",
+      "excerpt": "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the ... offers automated speech and text translation and real-time video effects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/articleshow/84133125.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/articleshow/84133125.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/84133139.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/amp_articleshow/84133125.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/amp_articleshow/84133125.cms",
+      "publishedDateTime": "2021-07-05T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
         "images": null,
         "publishers": null,
         "authors": null

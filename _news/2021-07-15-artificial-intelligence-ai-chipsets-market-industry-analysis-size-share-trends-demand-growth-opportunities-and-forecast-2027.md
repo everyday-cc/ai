@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14"
 type: article
 quality: 74
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
     excerpt: "Jul 15, 2021 (Heraldkeepers) -- The scope of the report includes a detailed study of Deep Learning Marketwith the reasons given for variations in the growth of the industry in certain regions. Deep Learning is a subfield of machine learning concerned with ..."
     publishedDateTime: 2021-07-15T20:19:00Z
     webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2021-to-2026-industry-trends-share-size-growth-opportunity-and-forecasts-2021-07-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence(AI)Chips Market Segment by Revenue, Size, CAGR and Growth Analysis 2025-AMD(Advanced Micro Devices)"
+    excerpt: "This report presents the worldwide Artificial Intelligence (AI)Chips System market size (value, production and consumption), splits the breakdown (data status 2016-2020, and forecast to 2025), by Companies,"
+    publishedDateTime: 2021-07-17T11:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-segment-by-revenue-size-cagr-and-growth-analysis-2025-amdadvanced-micro-devices-2021-07-17"
     type: article
     provider:
       name: MarketWatch

@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2021/07/feeding-the
 webUrl: "https://arstechnica.com/information-technology/2021/07/feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does/"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

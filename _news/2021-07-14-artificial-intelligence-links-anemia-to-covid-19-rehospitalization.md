@@ -38,6 +38,15 @@ related:
         width: 315
         height: 408
         isCached: true
+  - title: "Digital Systems Vital for a Rapid Post-COVID-19 Healthcare Systems Recovery"
+    excerpt: "The global outbreak COVID-19 has put healthcare systems across the globe under tremendous pressure and underscored the urgent need to advance to a smart healthcare system. Transformative technologies such as 5G connectivity,"
+    publishedDateTime: 2021-07-14T12:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-digital-systems-vital-a-rapid-post-covid-19-/2021/07/14/9408859.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "rqWxuV/D09/7G64XSW/xn9419ruWx3BOALADjnUcevNz+eJewpScqAGXX7WGlq51ZzSlqIq96gHxBKCG+JjGqdWkCFvu/GowBrjSNVCiaY3ZR4TyeqlEpUbvx0G0IDUdLT58zR19cPNeZJ5q8iLh2avUUPLaYFgo45nwyszmFZfvsyriWGDohwHQX4iWoEnQjTlteg8rNM0I9AgRdTVUn1G3XWJkf4BRE6r9G+FRND5PClJPGLLxibfkbd+SIZPKCLFOPxIpNC10qmIIc9ClDkTCFLX9ILNVVVYvJkjhM9rq4ykTDCudSiig5cl51frn+0363ZacSoGnHrYQxXm/8KD/Y2Q/LLKZHXJe+nE2Sr8=;/QjwblDg+E6UKuxOPoa8UQ=="
 ---

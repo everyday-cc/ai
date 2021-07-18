@@ -59,6 +59,20 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "How AI & Chatbots are profiting from mobile app technology?"
+    excerpt: "AI & Chatbots are benefiting mobile technology in various ways as AI-powered chatbots continue to make a transforming appearance for mobile apps across various industries domains. AI is for digging out various queries and providing relevant and instant reverts to the users to give them a better than ever user experience."
+    publishedDateTime: 2021-07-18T07:09:00Z
+    webUrl: "https://customerthink.com/how-ai-chatbots-are-profiting-from-mobile-app-technology/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-645732586-chatbot_ctmedia.jpg"
+        width: 1732
+        height: 1732
+        isCached: true
 
 secured: "GHdlhgshh9giSKXeUYvy0NIUTSGlEaepF7ueOUQ5EkevDAKMtOuoDB4UNDzMbyxq5us2ZFh3XR7Td6/Ugw2zK0TZE5g4TPkLEz+czptJtmFnlPFEXXeRRZsZ7pYFQo0DaQJwQnTcO3+EBAEVb67iep1DwocMCUpN3kqaGQSgi/dyIUsXvnqmTkAgIkyNemO/PLfWjQNigyVxnNZGDDSQ/pSdRbyb0GqLNZT8htX47AvIBz8opesIeJMRmW9Pg8xjusC3LQm9/sZ4RucfA2h1ZVPhgD3NykREdJpZuTFqthLvfJjZ7/7d37t3HO34yIsJsPRd5m2O0yxfvSUdS6eEd0t3rUfAIU18tPwCSXCZkDi/R97fsXR2QTSGMt2w0sai2p9TaTYM5sY77I6yA2MOPq4w+tJ6ZpMBuIxZ8hiyNXSOVg+b/EsooBkyNST4svkbCQCq0zaAYFhlmtBi2FtuxvbcZl/7Gkcqe846xD36FvrKTdSdcOz9+INwNKtMoKhEJqqcpa9HwyPsfWqLTxI73w==;VhoIyw7EeETeexTOlwPiRQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2021/7/16/1_5512454.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2021/7/16/1_5512454.html"
 type: article
 quality: 61
-heat: 82
+heat: 83
 published: true
 
 provider:

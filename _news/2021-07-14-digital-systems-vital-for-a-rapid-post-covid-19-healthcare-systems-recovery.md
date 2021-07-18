@@ -19,21 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "How Healthcare Providers Are Embracing A Digital Future"
-    excerpt: "Jump-started by the pandemic, healthcare providers’ digital agenda is finally falling into place, says Euan Davis, a futurist in Cognizant’s Center for the Future of Work."
-    publishedDateTime: 2021-07-13T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/cognizant/2021/07/13/how-providers-are-embracing-a-digital-future/"
-    ampWebUrl: "https://www.forbes.com/sites/cognizant/2021/07/13/how-providers-are-embracing-a-digital-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognizant/2021/07/13/how-providers-are-embracing-a-digital-future/amp/"
+  - title: "Artificial Intelligence Links Anemia to COVID-19 Rehospitalization"
+    excerpt: "According to an analysis of Mayo Clinic data by artificial intelligence, researchers believe there could be a link between anemia and long-term COVID-19 symptoms."
+    publishedDateTime: 2021-07-14T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-links-anemia-to-covid-19-rehospitalization"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db31dd838bb4064aab3bf7%2F0x0.png"
-        width: 592
-        height: 653
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2021-04-23_Data_for_care_coordination_blue.png"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "Improve your product discover with AI to maximize personalization"
+    excerpt: "When the pandemic hit, product discovery shifted online making personalization a vital tool for e-commerce. Without it, the seemingly endless amount of options can quickly lead to choice paralysis. Explore this data sheet to learn how AI orchestration and AI-powered search is improving product discovery to maximize the effectiveness of personalization for ecommerce,"
+    publishedDateTime: 2021-07-17T08:29:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1625746463_267.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 37
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1625746463_267_lg.jpg"
+        width: 315
+        height: 408
         isCached: true
 
 secured: "JA5EWhL2cGOWAXC+Q6DzTWNmn291EnIX+BHFAQV9CNsjVNDrbYFCJosfcQlnRGHvXhKKM99ccV2dRoxCaUDjKBld7Eg0eE2GSyHwUbb3MgStG1xcB9XZqKT4t222+QQ3Bge9keNhb+aIp3TIrGaZ8ZaKowIvPchnDIlRoP/QiJWiB0pkFgzAzLFco3Ru6TJZC4ZHfaC7eVnPgZP1rIzQc4wcFnguCdhS7rQ54azCVln7biSRkwGuYAav3Tpt0pcVXWDMg/mZ19n3mzXy1PvDRbjdguZ7N+d+ziQRNiKQkH7cu/GyPr7ZeKahLGPK3Y4IsPEtJsegTgQO897mda5iGElRyADonBc79p16kq3wOR0=;Ow1UOtlPzzTx9Y824nfsYQ=="

@@ -57,22 +57,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "How Fintech can harness the power of big data to redefine market forecasting"
-    excerpt: "Advances in predictive analytics using machine learning (ML) algorithms and blockchain technology demonstrate how innovations in financial services are challenging"
-    publishedDateTime: 2021-07-13T14:27:00Z
-    webUrl: "https://www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/"
-    ampWebUrl: "https://www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 41
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/07/9298_PG_School_of_Accounting_and_Finance_WEB_IMAGES_06.21-1.jpg"
-        width: 1024
-        height: 640
-        isCached: true
   - title: "AI to have biggest impact on fintech over next five years"
     excerpt: "Tribe Payments, a payment technology company, has revealed that 67% of fintechs believe AI is the technology that will have the biggest impact on the sector over the next five years. This insight comes from their Fintech Five by Five report,"
     publishedDateTime: 2021-07-14T14:55:00Z
@@ -110,15 +94,6 @@ related:
         width: 900
         height: 1356
         isCached: true
-  - title: "University of Oxford and Esme Learning Champion the Future of Fintech with the Oxford Digital Finance Executive Education Series"
-    excerpt: "University of Oxford and Esme Learning introduce five online executive education short programmes to prepare professionals for the future of finance."
-    publishedDateTime: 2021-07-13T15:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
 
 secured: "qII7e4YsiRJ9N6Tq31S5N7pW96P1wCQJ21SUQzY2Z9EIcTb13fgYDbvh9N9d1Xc5jd41buM03J3AXYithNjYniQ5cgpUeKcCTwW9Me73kPkKUX/5dW3/r1vxAXBy5p0y6UBin4vGCWvQuwzE+20bqqoQNYqV5NAZhK0/5ZhDcO3EPfYSK9YtuOWIpdAMvr10TYbu6UJQB/yEw37AXM/VHWYpvNGbVPNHfTrFB/Q/g13iK45iFQJzckECYe+AEG3OYfg3P7cVZz9rHnM/OPWMFRdT0JydN/hE+IHVklOaa9/lq1yFsCCfTsl64LXXb7SRjMXSjK5tIE+QrdSusCmXm7kfirLbNG5pVq9mz2zpghnTFCWjwiQyd00bF5DMFguh3P7WQhxlBRXiOmY4FK2deH6+fUytKijLPHBYjoR8DCUlGA9UFnzSMyN+kHA2rOYkw2X1LWZiRzTed4Eyet9ApiZYl+Ld1getpZnWIcmZ6KCOGbfLSZKmRhWr95Gc9pkGwcF+zo2G39ibSUnucngD8A==;BQUZkBp8gh6TkrYIfdcj6g=="
 ---

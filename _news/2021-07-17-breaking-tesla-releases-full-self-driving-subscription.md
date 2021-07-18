@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tesla launches full self driving subscriptions at $199 a month"
-    excerpt: "Tesla has officially launched its Full Self-Driving (FSD) subscription package for $199 per month. Those who previously bought the Enhanced Autopilot package, the FDS feature would cost $99 a month. To date,"
-    publishedDateTime: 2021-07-18T05:54:00Z
-    webUrl: "https://www.business-standard.com/article/automobile/tesla-launches-full-self-driving-subscriptions-at-199-a-month-121071800175_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/automobile/tesla-launches-full-self-driving-subscriptions-at-199-a-month-121071800175_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/automobile/tesla-launches-full-self-driving-subscriptions-at-199-a-month-121071800175_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 74
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/21/full/1603244979-7536.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Tesla Introduces $199 Full Self-Driving Monthly Subscription"
     excerpt: "Tesla has introduced a subscription offering that allows its customers to use its Full Self-Driving (FSD) autonomous driving software in supported vehicles in exchange for $199 per month. Electrek reported that Tesla customers who purchased the Enhanced Autopilot package—which the company no longer offers—will be able to subscribe to FSD for $99 per month instead."
     publishedDateTime: 2021-07-17T16:40:00Z
@@ -104,6 +88,20 @@ related:
       - url: "https://i.insider.com/60ef4a7d61b8600019f17259?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Tesla launches full self driving subscriptions at $199 a month"
+    excerpt: "Tesla has officially launched its Full Self-Driving (FSD) subscription package for $199 per month. Those who previously bought the Enhanced Autopilot package, the FDS feature would cost $99 a month. To date,"
+    publishedDateTime: 2021-07-18T06:07:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/tesla-launches-full-self-driving-subscriptions-at--199-a-month.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 54
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/tesla-launches-full-self-driving-subscriptions-at--199-a-month-2021-07-18.jpg"
+        width: 1000
+        height: 800
         isCached: true
   - title: "Full-Self Driving subscription launched in Tesla cars equipped with hardware 3.0 or above"
     excerpt: "Tesla Full-Self Driving technology is launched in Tesla cars software with a monthly subscription offer at $99- $199."

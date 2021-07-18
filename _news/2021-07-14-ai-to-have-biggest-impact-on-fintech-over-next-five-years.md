@@ -57,22 +57,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "How Fintech can harness the power of big data to redefine market forecasting"
-    excerpt: "Advances in predictive analytics using machine learning (ML) algorithms and blockchain technology demonstrate how innovations in financial services are challenging"
-    publishedDateTime: 2021-07-13T14:27:00Z
-    webUrl: "https://www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/"
-    ampWebUrl: "https://www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/how-fintech-can-harness-the-power-of-big-data-to-redefine-market-forecasting/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 41
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/07/9298_PG_School_of_Accounting_and_Finance_WEB_IMAGES_06.21-1.jpg"
-        width: 1024
-        height: 640
-        isCached: true
   - title: "Is FinTech the answer to a more sustainable planet?"
     excerpt: "Environmental, social and governance (ESG) investments have surged in Asia-Pacific over the last year – 57% of investors in the region expect to have “completely” or “to a large extent” incorporated"
     publishedDateTime: 2021-07-14T01:08:00Z
@@ -110,15 +94,6 @@ related:
         width: 900
         height: 1356
         isCached: true
-  - title: "University of Oxford and Esme Learning Champion the Future of Fintech with the Oxford Digital Finance Executive Education Series"
-    excerpt: "University of Oxford and Esme Learning introduce five online executive education short programmes to prepare professionals for the future of finance."
-    publishedDateTime: 2021-07-13T15:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
 
 secured: "3Y0QD2iGFaXVg3NstWE3sAJRivZ4jipf2F/tp2m6MZINpKx2BjLce5r3ckn2s0d30xtX27gNf3FZQsm/VQ8+fgJpOmKpDp8/1kImwgikzniVpC0U6mtnXPcmDzVYlJT3qVNetncjJJ2VfA2LsRSd8xF/QV7tmxQaaA78G4BOTqkLKB65Re/tA+25FF1AJnY8cvjiOp+1uol4oxByCkOA6r6UeqQjLRLAXqCyx19sRepsaOR23F+UjwPIGZxez8/D9kSDFRsnx6hFlJywABZI0Eh5Uz8cWGJpwLhnJcWzwtFYXd4hvc/86Ug5jcuLn65qUg/xUkTI31qD+d5MH6wEtg2CaUsbO3sgcbRnQvDx/Q5y/A89KvC4FVsynQOzAzGBJtTfFFjWzUkcDBwqw7/1fmZb2PkSgRUFktxH8Jd7o7N6tTniCjqTypyk4C3imJoEiMZgsk29LnNomu4lZ8G9NqYTpTFL6utpfB0TX/rPWq4z1PGNnKd1lB6pX33dIG1ucR2ktfFBt1owwK0n3Lo9Xw==;ABijoPDLnkxWYJc/kOw7oQ=="
 ---
