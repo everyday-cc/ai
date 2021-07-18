@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Artificial Intelligence Can Create Real Value for your Business"
+    excerpt: "Because of the versatility of A.I. applications and how quickly they are becoming applicable in everyday life without us even realizing it, the business disruption that comes with them is speeding up as well."
+    publishedDateTime: 2021-07-18T17:00:00Z
+    webUrl: "https://www.business2community.com/business-innovation/how-artificial-intelligence-can-create-real-value-for-your-business-02419761"
+    ampWebUrl: "https://www.business2community.com/business-innovation/how-artificial-intelligence-can-create-real-value-for-your-business-02419761/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-artificial-intelligence-can-create-real-value-for-your-business-02419761/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/07/Burrus-Artificially-Intelligent-Cars-blog-900x514.png"
+        width: 900
+        height: 514
+        isCached: true
 
 secured: "DO31GivU7e23AZ8CGq0XzZ6LuIWk4W2TuYKnppLvXZGbEIxYFxqqlsl2ZmKkbq31+8zN22dzx0oT5EzzyhZ2J4vUo0n70O2w+0yD2DXYKhVFRJIhaexU7tfMXqf4ljt1x6j7O9+kXwBdQrB7/s0f+SVpX4BtsoXU9nSZkHrT1kwbGQznQVVSWSElBOuoUGvXjuJcLmd3cAw83Kxb1on2Qle8nPPNI4ro3I3RWGy7peLX2XHu2sHr+ClAL7Rl+l4FWzGBgHvAMC/hDd78UJfGLYx6xZKETDC5xnvClT69if3LRfyUYd/H1ONu4z28H7iD5Q09bGE4F/8gRy38QtiXizd4H1RuR8FnmxcGcgr0eVSNdH5VvdmoppbWDBHkhHD8Qommk4iuqEbo9pk+I9udRVxMmBXtH0B3zgS3Zb+0Dod+hGeEl4liiwfsY4JhiEBrqQ/f94wtHab8hQuBkr10zoj3qL5KolZp28KOAUxLGP7a6zeXpm825MJqHLO+Yp0vkABprE7qe2vzwpsyGp5AEg==;/fhPNhZdXuAyzwGz+tiJVQ=="
 ---

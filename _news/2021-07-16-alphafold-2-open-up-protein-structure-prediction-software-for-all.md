@@ -113,20 +113,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "The Protein Folding Break-Through"
-    excerpt: "Researchers at DeepMind have proudly announced a major break-through in predicting static folded protein structures with a new program known as AlphaFold 2. Protein folding has been an ongoing ..."
-    publishedDateTime: 2021-07-14T00:00:00Z
-    webUrl: "https://hackaday.com/2020/12/04/the-protein-folding-break-through/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/11/alphafold2_results.gif"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "I0PBli9S96M3zl/IetQPk9jBt6f5HeiSlftrwNc59pKrcJwbGXd3l+zNT5TKdqP5Yr5ZmjTWGdMxkaFhKU7nXwP2c8ruiiUDiEz1BrA/u+FTdeCBEeoobEUJyIUcF0+od1nxbQP6psez2EE8/vfe4MBl5uj4EC8h3bjC10JBs8YGeBR6cYYqMK/CCNVsHWic42S1geyUwLNwQ5R3Cg0eY114ISRWemLglH7P/gFhj75iT4t9K7o0IJj/1qhVQy5avGxoKYZlhx5s+odO5/wTexn/0xFHVD9WrFRVcELD3RZBhyQDeeGu5uPpQf9RGE+s93kBq2rpQHeAO+A/EyS08C8um9V3InI93/VgEO7nyOUAdPf/hnu13Wo2fURXwNL+MMqdRp45jebIn7h3CvsAPg/jqodxHXAv36f/oOL64zSyrCGFSRBRSbzqEITbICvO+8u2HKCUPzVjIzmi4h6mDuXAjdgXSBI36mDi9scPfj7zHkOI/CuUferPImHQ8WgNgT1jzrFiTNWZpzfzKj1DNQ==;ObDlAsydpvGwbWtQpIrHOw=="
 ---

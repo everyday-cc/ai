@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-17-heres-what-you-need-to-know-about-singapores-food-delivery-robots.md",
+      "title": "Here's what you need to know about Singapore's food delivery robots",
+      "excerpt": "Singaporeans flocked to food delivery after it was announced that dining-in was prohibited during Circuit Breaker. Today, despite being allowed to dine-in at restaurants in larger groups, the habit of ordering food online and having it delivered",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots",
+      "originalUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/20210716_robot_unsplash.jpg?itok=EtsShVVZ",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots?amp",
+      "publishedDateTime": "2021-07-17T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-robot-training-on-famous-highland-estate-will-make-driverless-vehicles-more-reliable.md",
       "title": "Robot ‘training’ on famous Highland estate will make driverless vehicles more reliable",
       "excerpt": "The project will help make driverless vehicles of the future more reliable ... engineers and students dedicated to researching robotics, artificial intelligence, systems engineering, and other related fields. A crash scene for the new James Bond movie ...",
@@ -531,8 +574,8 @@
       "title": "Device taps brain waves to help paralyzed man communicate",
       "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ...",
       "sourceUrl": null,
-      "webUrl": "https://www.greenwichtime.com/news/article/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php",
-      "originalUrl": "https://www.greenwichtime.com/news/article/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php",
+      "webUrl": "https://www.newstimes.com/news/article/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php",
+      "originalUrl": "https://www.newstimes.com/news/article/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php",
       "featuredContent": null,
       "highlight": null,
       "heat": 109,
@@ -549,13 +592,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.greenwichtime.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php",
-      "cdnAmpWebUrl": "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php",
-      "publishedDateTime": "2021-07-14T14:29:00-07:00",
+      "ampWebUrl": "https://www.newstimes.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php",
+      "cdnAmpWebUrl": "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php",
+      "publishedDateTime": "2021-07-14T14:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Greenwich Time",
-        "domain": "greenwichtime.com",
+        "name": "NewsTimes Danbury",
+        "domain": "newstimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1375,49 +1418,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-recycling-using-artificial-intelligence-and-robotics.md",
-      "title": "Recycling using artificial intelligence and robotics",
-      "excerpt": "Abhijeet Ghosh, 6th Grade, Dodgen Middle School, Marietta, Georgia, student looks to recycle waste using artificial intelligence (AI) and robotics. Abhijeet is very keen on recycling. Recycling reduces waste,",
-      "sourceUrl": null,
-      "webUrl": "https://www.worldofchemicals.com/media/recycling-using-artificial-intelligence-and-robotics/6261.html",
-      "originalUrl": "https://www.worldofchemicals.com/media/recycling-using-artificial-intelligence-and-robotics/6261.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.worldofchemicals.com/newphase/image/Elite4.png",
-          "width": 305,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "World Of Chemicals",
-        "domain": "worldofchemicals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

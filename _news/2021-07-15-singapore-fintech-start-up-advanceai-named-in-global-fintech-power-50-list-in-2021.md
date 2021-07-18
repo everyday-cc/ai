@@ -23,100 +23,94 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Singapore is launching a $50 million program to advance research on AI and cybersecurity"
-    excerpt: "The city-state will set up new communications testbeds in 5G and beyond-5G, support technology development and training, and build up a talent pool."
-    publishedDateTime: 2021-07-14T00:57:00Z
-    webUrl: "https://www.cnbc.com/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html"
+  - title: "Why FinTech Struggles To Combat The $1.5 Trillion Trade Finance Gap"
+    excerpt: "GUUD discusses why trade finance FinTech has been unable to put a dent in the trade finance gap or ease friction for banks and nonbank financiers."
+    publishedDateTime: 2021-07-16T12:43:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 178
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106773377-1604299089782-gettyimages-1229319130-AFP_8TZ6T8.jpeg?v=1626150420"
-        width: 5570
-        height: 3713
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/investments-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "Singapore based Fintech Lending Solution Provider CrediLinq.Ai Secures SGD 1.35M via New Funding Round"
-    excerpt: "As a Fintech firm, CrediLinq.Ai believes that all businesses should have seamless access to capital to allow them to reach their growth objectives. For investors, the company’s AI and machine learning tools/algorithms support a credit assessment approach ..."
-    publishedDateTime: 2021-07-16T03:22:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/07/177879-singapore-based-fintech-lending-solution-provider-credilinq-ai-secures-sgd-1-35m-via-new-funding-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/177879-singapore-based-fintech-lending-solution-provider-credilinq-ai-secures-sgd-1-35m-via-new-funding-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/177879-singapore-based-fintech-lending-solution-provider-credilinq-ai-secures-sgd-1-35m-via-new-funding-round/amp/"
+  - title: "Revolut becomes UK’s biggest fintech firm with £24bn valuation"
+    excerpt: "Surge comes after banking app raised $800m from new investors Tiger Global Management and SoftBank"
+    publishedDateTime: 2021-07-15T17:57:00Z
+    webUrl: "https://www.theguardian.com/business/2021/jul/15/revolut-becomes-uk-biggest-fintech-firm"
+    ampWebUrl: "https://amp.theguardian.com/business/2021/jul/15/revolut-becomes-uk-biggest-fintech-firm"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/jul/15/revolut-becomes-uk-biggest-fintech-firm"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 43
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Singapore-Money-100-282x300.jpeg"
-        width: 282
-        height: 300
+      - url: "https://i.guim.co.uk/img/media/cd378bca5045dc5a205b5675d19c98c1ea52765f/1569_2306_2515_1509/master/2515.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ea757871e72629b7d2bb4db44c011f6"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Ensure AI brings social good and not inequity: Experts at Asia Tech x Singapore"
-    excerpt: "SINGAPORE - Artificial intelligence (AI) technologies can bring a wide range of opportunities and benefits, but they also come with the risk of perpetuating biases and inequitable distribution of those benefits."
-    publishedDateTime: 2021-07-14T14:37:00Z
-    webUrl: "https://www.straitstimes.com/tech/ensure-ai-brings-social-good-and-not-inequity-experts-at-asia-tech-x-singapore"
+  - title: "AI to have biggest impact on fintech over next five years"
+    excerpt: "Tribe Payments, a payment technology company, has revealed that 67% of fintechs believe AI is the technology that will have the biggest impact on the sector over the next five years. This insight comes from their Fintech Five by Five report,"
+    publishedDateTime: 2021-07-14T14:55:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/ai-have-biggest-impact-fintech-over-next-five-years"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 35
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
     images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/14/yq-aisg-14072025.jpg?itok=F0fWGAVC"
-        width: 763
-        height: 509
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1169711486.jpg?itok=qeifi7jK"
+        width: 3840
+        height: 2160
         isCached: true
-  - title: "Artificial Intelligence (AI) in Cybersecurity Market Worth Observing Massive Growth: Acalvio Technologies Inc., Check Point Software Technologies Ltd"
-    excerpt: "The recent report titled Global Artificial Intelligence AI in Cybersecurity Market and forecast to 2028 published by QY Reports is a focused study encompassing the market segmentation primarily based on type and application The report investigates the key drivers leading"
-    publishedDateTime: 2021-07-14T04:00:00Z
-    webUrl: "https://www.openpr.com/news/2327778/artificial-intelligence-ai-in-cybersecurity-market-worth"
-    ampWebUrl: "https://www.openpr.com/amp/2327778/artificial-intelligence-ai-in-cybersecurity-market-worth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2327778/artificial-intelligence-ai-in-cybersecurity-market-worth"
+  - title: "Is FinTech the answer to a more sustainable planet?"
+    excerpt: "Environmental, social and governance (ESG) investments have surged in Asia-Pacific over the last year – 57% of investors in the region expect to have “completely” or “to a large extent” incorporated"
+    publishedDateTime: 2021-07-14T01:08:00Z
+    webUrl: "https://www.ejinsight.com/eji/article/id/2852802/20210714-Is-FinTech-the-answer-to- a-more-sustainable-planet"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
+      name: EJ Insight
+      domain: ejinsight.com
+    quality: 39
     images:
-      - url: "https://cdn.openpr.com/U/7/U714434827_g.jpg"
-        width: 720
-        height: 325
+      - url: "https://static.hkej.com/eji/images/2021/07/14/2852802_6ba3f2c38f93681f60411b9bac6f290c.jpg"
+        width: 669
+        height: 438
         isCached: true
-  - title: "ABB to Deliver Artificial Intelligence Modelling for Data Center Energy Optimization in Singapore"
-    excerpt: "Pilot project with ST Telemedia Global Data Centres to map the potential of artificial intelligence, machine learning and advanced analytics, with a target of at least 10 percent energy savings."
-    publishedDateTime: 2021-07-15T16:29:00Z
-    webUrl: "https://www.automation.com/en-us/articles/july-2021/abb-artificial-intelligence-modelling-data-center"
+  - title: "China’s JD spins off cloud and AI businesses to fintech unit"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-07-17T04:04:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit-2/"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 24
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
     images:
-      - url: "https://www.automation.com/getmedia/d7daa78f-cfc4-40c3-8adb-072278a69538/ABB-news-July-15-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626473428_reuters-default.png"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Singapore fintech start-up ADVANCE.AI named in global Fintech Power 50 list in 2021"
-    excerpt: "ADVANCE.AI, a Singapore -based artificial intelligence (AI) and big data company in Asia, was named in The Fintech Power 50 list which was unveiled on the main stage of the ongoing Fintech Week London on Tuesday 13th July."
-    publishedDateTime: 2021-07-14T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-singapore-fintech-start-up-advanceai-named-global-fintech-/2021/07/14/9409583.htm"
+  - title: "FinTech The Key Disruptor For Emerging Market Financial Services In 2021 And Beyond"
+    excerpt: "Jupiter Asset Management has launched its latest whitepaper titled “The innovations disrupting financial services in Emerging Markets” in response to shifting dynamics of financial services in the Middle East."
+    publishedDateTime: 2021-07-14T06:59:00Z
+    webUrl: "https://pressreleasenetwork.com/site/2021/07/14/fintech-the-key-disruptor-for-emerging-market-financial-services-in-2021-and-beyond/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-  - title: "ABB to Deliver Artificial Intelligence Modelling for Data Center Energy Optimization in Singapore"
-    excerpt: "NewswireToday - /newswire/ - Singapore, Singapore, 2021/07/15 - Pilot project with ST Telemedia Global Data Centres to map the potential of artificial intelligence, machine learning and advanced analytics,"
-    publishedDateTime: 2021-07-15T18:01:00Z
-    webUrl: "https://www.newswiretoday.com/news/175815/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 6
+      name: pressreleasenetwork.com
+      domain: pressreleasenetwork.com
+    quality: 18
+    images:
+      - url: "https://pressreleasenetwork.com/site/wp-content/uploads/2021/07/Untitled-1.jpg"
+        width: 900
+        height: 1356
+        isCached: true
 
 secured: "3hr6K0YM1LroYjw7VdIPTCK/rBlIlDtz96oz7jqdg6kWSEM1I9sG/PYa1Pee5jbVT5kX3dLs+Dsnlmj841OL2rvSwi2WnHDCalIP1+eQ0kP3HvmylwX0BM5Iwa9o3UbeivaUrKRGqFu0D3lBa99qoLyhJMxfCjY4Ydpf9XrqE7tG06wJIpw8wEstqSmAR6R/buS4co15pRUTYADgG1ggf6/6jFl5st1sZwSuf5Dhe6pjPg1FRn0ETH72dlkSXq+PF90a6+9eQEV8gMSeNbKHbLKum7EEKWv80AV/GVSq/QI1XWBYQrD6XxO+h7ahCGyUPqsYdWDo6h76Govq5iTn/rbB5HkBVhmmZt2OTdS/xQg=;/SOpi5M3iYyt80A/sOY5KA=="
 ---

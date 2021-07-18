@@ -3,8 +3,8 @@ category: news
 title: "Micha Breakstone, Co-Founder of Chorus.ai, on Building an AI-Driven Startup"
 excerpt: "Check out this great listen on Audible.com. In this Angular Insights episode we are joined by Micha Breakstone, the Co-Founder of Chorus.ai. Micha shares his thoughts and tips on building AI-driven startups,"
 publishedDateTime: 2021-07-16T22:28:00Z
-originalUrl: "https://www.audible.com/pd/B099NWJG8J"
-webUrl: "https://www.audible.com/pd/B099NWJG8J"
+originalUrl: "https://www.audible.com/pd/Micha-Breakstone-Co-Founder-of-Chorusai-on-Building-an-AI-Driven-Startup-Podcast/B099NWJG8J"
+webUrl: "https://www.audible.com/pd/Micha-Breakstone-Co-Founder-of-Chorusai-on-Building-an-AI-Driven-Startup-Podcast/B099NWJG8J"
 type: article
 quality: 35
 heat: 35
@@ -23,6 +23,6 @@ images:
     height: 500
     isCached: true
 
-secured: "q1sDjFe+jqAYRRFDeZDAPbp7hru9WF77SZo/PEclbU634K6SZ2Oa2369OABe3NNWzSk+Jrv+sosQT2IV8M2JHeCq5lIb6UtIGfLIGHEtVdN/ybSmBi83R6RUhZJjqbhUx5L5WGpsUcUp0Ku8ix82rQwDVgABrXsdOS/W2aeMIT6GVhu8T1jkcp/ySMBpkCouUxW+igK2sLSxhECju8lqq72OrqJQ31DQ/ILlzu6BChdi3Wn1L5C3nZMZTEkrRbYkazTmERxPypckjUWX3lszQDHvFnzxQx7DXIcnqdsVV3xNncsR9Pngv1AA8u5pIvZW3fPZ6v02CunptNgIsb74Qu2ah7j60mRoe7cSeYzrsQ8vXP3U7XSrXTREr2ytvW3/KH+55QX1/UTnzco3s08CPVllFqkkqbRT2AOZrjl9Q6H4tvWBYxknGWOZ/4o3LzA9i2sSDk86i/2UtbV9D/irITXd1jqqQOwmk9KrGu3YWD7qvX9n7Dsp7JnoWfONfRkzCfxQHq4gmwGkB4jlOD9XDw==;/nPoPdP8QMOOgDBnQpBhFQ=="
+secured: "V5KaJMnUQEgWSApY13Jd64KjTkqPQEyvg7gUiGCbzEzSm+G2ex0XLlzQdvxEIQ7e4bMit7A6sZYg2Iy3zoNttbOTcAsZE5TMRxKL0iP6X0QMnopZ6bpmOEEr01Q6S0q4Ge6W4IShQwvLBo+KyxYaOhoXVf+MpHz0N5dcYZtZPdPjf1fNJF6L8ATSJ963b92MC3MblRuclLDTe8qd2pbhBipeNmhTVPtI+ww913kwGwXOJDKQ4aM2AZRj7T+Hb66OyOvzcjgQIW6oPfpsosO4tDv6mzAtUi2HJPIXIi7XPpWlrRjilu6JBGMaNBtPN47SqOJimFx0DFDL3k/wM+xNApWRePOEr7/RNlFMugEwItg=;uLwTDCJM9ofhYyn2BdsB7g=="
 ---
 

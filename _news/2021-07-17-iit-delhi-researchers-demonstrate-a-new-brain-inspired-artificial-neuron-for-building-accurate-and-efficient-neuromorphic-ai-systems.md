@@ -43,20 +43,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Innatera Unveils Neuromorphic AI Chip to Accelerate Spiking Networks"
-    excerpt: "Innatera, the Dutch startup making neuromorphic AI accelerators for spiking neural networks, has produced its first chips, gauged their performance, and revealed details of their architecture. The company has also announced that Cadence and Synopsys co ..."
-    publishedDateTime: 2021-07-14T00:00:00Z
-    webUrl: "https://www.design-reuse.com/news/50315/innatera-neuromorphic-ai-chip.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 54
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage50315/Innatera-chip-photo.jpg"
-        width: 1096
-        height: 762
-        isCached: true
   - title: "In polyclinics, making more accurate diagnosis with the help of artificial intelligence"
     excerpt: "The digital service analyzes the patient's complaints and offers the physician the three most likely diagnoses. The physician can choose one of them or make the final decision on his own."
     publishedDateTime: 2021-07-17T06:10:00Z

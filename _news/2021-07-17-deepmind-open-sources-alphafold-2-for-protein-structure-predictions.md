@@ -103,20 +103,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "The Protein Folding Break-Through"
-    excerpt: "Researchers at DeepMind have proudly announced a major break-through in predicting static folded protein structures with a new program known as AlphaFold 2. Protein folding has been an ongoing ..."
-    publishedDateTime: 2021-07-14T00:00:00Z
-    webUrl: "https://hackaday.com/2020/12/04/the-protein-folding-break-through/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/11/alphafold2_results.gif"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AlphaFold 2 open up protein structure prediction software for all"
     excerpt: "Source code for AlphaFold 2, an algorithm that predicts 3D protein structure with unprecedented accuracy, is now freely available."
     publishedDateTime: 2021-07-16T14:26:00Z

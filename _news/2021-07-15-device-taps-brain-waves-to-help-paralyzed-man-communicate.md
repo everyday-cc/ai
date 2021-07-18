@@ -2,19 +2,19 @@
 category: news
 title: "Device taps brain waves to help paralyzed man communicate"
 excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
-publishedDateTime: 2021-07-14T21:29:00Z
-originalUrl: "https://www.greenwichtime.com/news/article/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
-webUrl: "https://www.greenwichtime.com/news/article/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
-ampWebUrl: "https://www.greenwichtime.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
-cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
+publishedDateTime: 2021-07-14T21:25:00Z
+originalUrl: "https://www.newstimes.com/news/article/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
+webUrl: "https://www.newstimes.com/news/article/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
+ampWebUrl: "https://www.newstimes.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
+cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
 type: article
 quality: 59
 heat: 109
 published: true
 
 provider:
-  name: Greenwich Time
-  domain: greenwichtime.com
+  name: NewsTimes Danbury
+  domain: newstimes.com
 
 topics:
   - AI in Robotics
@@ -101,6 +101,6 @@ related:
       domain: newsobserver.com
     quality: 39
 
-secured: "HmPIy0QCcJndNujKaSurpfebwfQwAmOyI3v7304dmyN2SIEYRBkys9GaFMv1B7LdQwsQIp2Zjg7itDKMsll7+szscMgnNovrpYhjrlrEHTn8aBnQAHt1cm4p17MwlWwGlgLkvOfFdVTIWubwtMGPEkr2xgSuzsfrYrXZnC4L9zwUrTcHVjeLtAHEo05aV7RKDpNsvcD8G8CKD1K1tPKTagpYRQd0Oxsi7Btp9iNZr9Z3r9hwi7j1R3CZlGGN/tCnwK07Y5Qe329uNf7/zLV9N9aGsfEKxIYjoCqmCgcOB9X26K3Vbvx/yINVl5FciUxdl4Mlk6BBsb1VY/gLNTRggKKLTniqa9ZjOHCXHYgJp+0=;X7FVH6gRngxmOnmpMtJOAw=="
+secured: "YHKWsD/5Rzfjkg5f6MjJtA1Kn+5dJszZv0Fwa9DGUPXVDi4ua345+5GaWzkBKthUFha3/MEAnUHuwSCUVIyqRzGeqXmDsF0445Dn4E9gARWWfry6TisGpjAdPITGiTnGl6A6tTAtkdPNVGPAf8WPgg7SrlPrifOW+gaLJGN+gCsMGyZp/bCU1ugav5vFk7tiQNFZgUuN/oFMTNyXVGankvQgfS+ldb7d9p2QZPnKZHknXyO+emkTkS3eMYxoTSDlQa7/1zsw7ddqYJJbaX2WhDqt9z82UnXG++AIG25SamPMhi0vpJO4TuI4+hsNYTmd6FkijxiKgHSm4LaYOmt/L2+86DAIgxbreWHINNoYCWM=;pBPiRZGEnB2sSrhu8mEYTA=="
 ---
 

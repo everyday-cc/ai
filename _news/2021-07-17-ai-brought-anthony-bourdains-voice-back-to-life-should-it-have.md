@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AI Brought Anthony Bourdain's Voice Back To Life. Should It Have?"
-excerpt: "\"We can have a documentary-ethics panel about it later,\" joked Morgan Neville, director of the new Anthony Bourdain documentary Roadrunner."
-publishedDateTime: 2021-07-16T17:17:00Z
-originalUrl: "https://www.kuow.org/stories/ai-brought-anthony-bourdain-s-voice-back-to-life-should-it-have"
-webUrl: "https://www.kuow.org/stories/ai-brought-anthony-bourdain-s-voice-back-to-life-should-it-have"
+excerpt: "Burns, found the technique duplicitous, tweeting \"I feel like this tells you all you need to know about the ethics of the people behind this project.\" Writer and critic Jason Sheehan, who reviewed Roadrunner for NPR before its use of AI became public ..."
+publishedDateTime: 2021-07-16T20:52:00Z
+originalUrl: "https://www.capradio.org/news/npr/story?storyid=1016838440"
+webUrl: "https://www.capradio.org/news/npr/story?storyid=1016838440"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: Capital Public Radio
+  domain: capradio.org
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://kuow-prod.imgix.net/store/3b7dd39e94197eee494c082b3393f467.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 837
-    height: 628
+  - url: "https://media.npr.org/assets/img/2021/07/16/rr_fp_00785-185acee304921a2d4c11b2d27021379d1338a0e1.jpg?s=6"
+    width: 948
+    height: 710
     isCached: true
 
 related:
@@ -92,7 +92,7 @@ related:
   - title: "Anthony Bourdain Documentary Used AI To Fake His Voice"
     excerpt: "A new documentary about late celebrity chef Anthony Bourdain utilized artificial intelligence to recreate his voice, spurring a debate about the ethics of this practice. In an interview with The New Yorker,"
     publishedDateTime: 2021-07-16T21:58:00Z
-    webUrl: "https://www.huffpost.com/entry/anthony-bourdain-documentary-artificial-intelligence-voice_n_60f1f79ee4b01f1189597cbc"
+    webUrl: "https://www.huffpost.com/entry/anthony-bourdain-documentary-artificial-intelligence-voice_n_60f1f79ee4b01f1189597cbc?ncid=tweetlnkushpmg00000067"
     ampWebUrl: "https://m.huffpost.com/us/entry/us_60f1f79ee4b01f1189597cbc/amp"
     cdnAmpWebUrl: "https://m-huffpost-com.cdn.ampproject.org/c/s/m.huffpost.com/us/entry/us_60f1f79ee4b01f1189597cbc/amp"
     type: article
@@ -462,6 +462,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "CpdmCvKdjK+MC/416tfz7TGiC6nbEC5YUyFhW0tlbr8yA9K36emr7h1uhbcDzxd/cPQw3D33lqCenXtlKzbPMPQgiMKFijTX+qyNrtXz3rtKAo+LwdqavW8ONxsnf8wM+xuQxUO1cHArt13v44U2cp9nbGuQyqwouIqltBIKKT4HbFoyUYVaZQ2VYZwYIhnFEkiC5ixr4y8cXFLLpMgwKfQIvuc3ciJ8dle9AB1N9S6xnNP1eMn6ZZQDjnMZhcy29TKEK9R6yE0c9EGsbWvh2eYO62LzJqZZDqGKRQ8V+Ms2NI+gQ6pairEzDA86jjPJeX2+Cmev19zHNKHWXt1XP+PZWbX+tBfVZkgJ2ncb9W9KTj1fkl7JEFRSXqaNr7xZnzTAWCIXXhOPgocvkElVPdTi7gWzkzeH2dP2OM/UOXv2lA8wXU0MRrdx6WfNAV162kSp2SV8i5uDaZzl5vqrwKW+GLZ7Lepdp5uNikPQ3SdP7i4pBBdJwU+ExvkfHg2k0+2v8R2I4I8HDw9CN2H0Bg==;Q4gbMwRanPQAN9WlCyW+cQ=="
+secured: "LoG8pDdwOpY1JgcMJiVz+L0/96xesPrz+gCrBvfYbHcne2Z7lgEIv073dS8iSKhpx2ZsRbuXVKLCaCCcXZRMs4sYx+mZ0XDbHzwVCtNUmhOc51KNCk7EUSSFBt7ld4hihdbhehlrpexrs4tuH33xOZG3DuNuYlJZ5jGnYa2AwyCIX8xqyIxN+O/BRns/4Kqe7J/znXb+zMjjJ1T9k9ec+m9MOwTPcEcnWlEX0p8ElTaukP4cz3xR04LEUAGJuhydZ51ZL+P8jgWRheTEkRqLq1ejnPiFLSlBTneKGqeD7R1572JUFtD6r6cu27PM1iRV/+UXm7nQDjZPmy+fEM3DAE/qWGjA93PKuXQ3eqFvvdk=;mPKzpD92j/8WgC2cmzk12g=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subs
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/amp/"
 type: article
 quality: 86
-heat: 166
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla offers Full Self-Driving Capability as a subscription"
+    excerpt: "It’s looking more and more like the future of buying an automobile will include features that you have to pay for each month. We have seen several automakers offer subscriptions to services"
+    publishedDateTime: 2021-07-18T16:17:00Z
+    webUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/"
+    ampWebUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/tesla-fsd.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Videos of Tesla's latest Full Self-Driving software update don't inspire much confidence"
     excerpt: "Videos show some improvements, but lots of dangerous glitches for a software called \"full self-driving.\""
     publishedDateTime: 2021-07-14T20:03:00Z

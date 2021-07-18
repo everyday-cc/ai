@@ -1,45 +1,20 @@
 ---
 category: news
 title: "CORRECTING and REPLACING Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13"
-excerpt: "DataRobot, the leader in Artificial Intelligence, will host a public job fair from 3-7 p.m. at Morgantown’s Erickson Alumni Center on Tuesday, July 13th. In June, DataRobot announced the opening of a new office at Vantage Ventures Morgantown headquarters."
+excerpt: "Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13 (instead of Artificial Intelligenc"
 publishedDateTime: 2021-07-08T19:41:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-7-13/article_56b88038-894a-595e-abca-6abaade06353.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-7-13/article_56b88038-894a-595e-abca-6abaade06353.html"
+originalUrl: "https://www.businesswire.com/news/home/20210708005816/en/CORRECTING and-REPLACING-Artificial-Intelligence-Leader-DataRobot-to-Host-Morgantown-Job-Fair-Tuesday-713"
+webUrl: "https://www.businesswire.com/news/home/20210708005816/en/CORRECTING and-REPLACING-Artificial-Intelligence-Leader-DataRobot-to-Host-Morgantown-Job-Fair-Tuesday-713"
 type: article
-quality: 51
-heat: -1
-published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-related:
-  - title: "Artificial intelligence leader DataRobot to host Morgantown job fair Tuesday"
-    excerpt: "DataRobot, the leader in Artificial Intelligence, will host a public job fair from 3-7 p.m. at Morgantown’s Erickson Alumni Center on Tuesday, July 13. In June, DataRobot announced the opening of a new office at Vantage Ventures Morgantown headquarters."
-    publishedDateTime: 2021-07-12T18:22:00Z
-    webUrl: "https://www.mybuckhannon.com/artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday/"
-    type: article
-    provider:
-      name: My Buckhannon
-      domain: mybuckhannon.com
-    quality: 66
-    images:
-      - url: "https://www.mybuckhannon.com/wp-content/uploads/2021/07/Data-Robot.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-
-secured: "VtdbPlPcsriNKjsd8dbhmAccn512/7IIkpjqNcPABZB91S9GIbnnJA2cGSPZDyhYtD0UQRxOHsP8zxG3ilJyH+8KBUENsS9rcC1Ezmt2KJA0lZCUClR5sBibLsToDkSixaK66pHLtwSf4yVkJM89PSNiKE3m3I3eDjRxf3yco8K5akb8HhWIMVZqAK3m5lb+SMlprJNfT8CisGBQPXyM14iggERkwbC78BTMQaB++XTsRUAbXJnKpj1GiW6Ro0pFQdr6J7GHOPpreR1a5P7jqWJ1ERVLK3SBUZVnlqXV7S6UHMPXNq3ACmUhBaYwCMHaVPif7We51Vl/F6gVtGOried4PajRb8FNrck7XxTjW8w=;h5pWipIB38JX7+W0wwMEUw=="
+secured: "Pq74s6TXKTL0Td5jfuPt3ca0f0O5RClsK8dVFNXeubUazR1GQvJ25tA7wqUd1YzIzhslOk/ghhnwuI4sXDn+dsmLFKn6OD9svPaWMQiKcKcbox+eQ0ojCkhiyhypAI1G3UJBGyV391mCe0Dvn1vNp6M3FreeXcvd1nOgXmdrQeTAXVUWKC6oKQt+Ruih5c6KOeyokF53o63uvVmXJSmHfA4RHRgDpX521uUfwoldGO5WIvlnuoKhZBP2Ym1E0Dg7JikU+psw0oa7vpANBQZpfLC7U3WC+QD6dOTPoxnmjlAedvu5tQkFedwzymwouZ/Nt8tgNDEj5kHE4iAGT3z4hEk5bp6ucAIucQnR3MHllJY=;X0CqSsEUZOmXHfTFDc/4DA=="
 ---
 

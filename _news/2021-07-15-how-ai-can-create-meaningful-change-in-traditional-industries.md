@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://www.manufacturingtomorrow.com/images/articles/17201.jpg"
         width: 680
         height: 340
+        isCached: true
+  - title: "How Artificial Intelligence Can Create Real Value for your Business"
+    excerpt: "Because of the versatility of A.I. applications and how quickly they are becoming applicable in everyday life without us even realizing it, the business disruption that comes with them is speeding up as well."
+    publishedDateTime: 2021-07-18T17:00:00Z
+    webUrl: "https://www.business2community.com/business-innovation/how-artificial-intelligence-can-create-real-value-for-your-business-02419761"
+    ampWebUrl: "https://www.business2community.com/business-innovation/how-artificial-intelligence-can-create-real-value-for-your-business-02419761/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-artificial-intelligence-can-create-real-value-for-your-business-02419761/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/07/Burrus-Artificially-Intelligent-Cars-blog-900x514.png"
+        width: 900
+        height: 514
         isCached: true
 
 secured: "JFuMDHpbYGmC/XptI8dSu0GZ7uLpJpepvUH+MHTUY7bmu9dC5jLimBDtt4ewawaxOL1LyS4/Sq5njT2iu8B7ejXqdJVR9lHf3OT+xAOao3H1WUkfHPn5qeep7Ge7e7/MzozxuzgMMImYArlWMOF+UNlMpFfaQhk3eKcH/Pa4zH86bU6Egucu+iIMDy15t4uPggdcdAR7Eo9tm4IXmVVVgcbD5mX9wtLQLhuiMvSSXDnSx+dmetTb6g9es0oUN1Ct+vZuKqHQKn9p3fdmwmLNRVPjOiBIwa5VGwRW+Kh3vOIElL3SktpoWRilHfbv1lv7cH81MnkWjTwz7+qure/GC45uc12X0SMYRK5aXSb12rCFPdv6awBsTjlC1fmFCSxj5poWBfKXWbDSQ9oN35s5/h8C/L6L9HIe2HzDNpz3axORJLrOeTrhJoIJPK6l4sR+MfRex5XfeWTJsgAxXBzcdZGSJQnuEXlXguySO2bRedaHgNOOsA3R+72ikyLeXMvhO8ds2QS4Dqbw67cx020omw==;SYyijoAQnpdI1Z4KiIN9qg=="

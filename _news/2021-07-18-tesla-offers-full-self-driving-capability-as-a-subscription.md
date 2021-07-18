@@ -1,46 +1,36 @@
 ---
 category: news
-title: "Tesla to now offer monthly self-driving subscriptions"
-excerpt: "American electric vehicle and clean energy company Tesla has now started offering a monthly subscription for its Full Self Driving package for USD 199 per month"
-publishedDateTime: 2021-07-18T11:36:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/270346234/tesla-to-now-offer-monthly-self-driving-subscriptions"
-webUrl: "https://www.bignewsnetwork.com/news/270346234/tesla-to-now-offer-monthly-self-driving-subscriptions"
+title: "Tesla offers Full Self-Driving Capability as a subscription"
+excerpt: "It’s looking more and more like the future of buying an automobile will include features that you have to pay for each month. We have seen several automakers offer subscriptions to services"
+publishedDateTime: 2021-07-18T16:17:00Z
+originalUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/"
+webUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/"
+ampWebUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
+cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 89
+heat: 179
+published: true
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: SlashGear
+  domain: slashgear.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1626608118.jpg"
-    width: 630
-    height: 420
+  - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/tesla-fsd.jpg"
+    width: 1440
+    height: 810
     isCached: true
 
 related:
-  - title: "Tesla offers Full Self-Driving Capability as a subscription"
-    excerpt: "It’s looking more and more like the future of buying an automobile will include features that you have to pay for each month. We have seen several automakers offer subscriptions to services"
-    publishedDateTime: 2021-07-18T16:17:00Z
-    webUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/"
-    ampWebUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/tesla-fsd.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Tesla launches its Full Self-Driving subscription package for $199 per month"
     excerpt: "Tesla has officially launched its Full Self-Driving subscription package for $199 per month or $99 for those who have previously bought the now discontinued Enhanced Autopilot package. Tesla FSD Subscription Tesla currently sells the Full Self-Driving package for a one-time payment of $10,"
     publishedDateTime: 2021-07-17T03:33:00Z
@@ -163,7 +153,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla to now offer monthly self-driving subscriptions"
+    excerpt: "American electric vehicle and clean energy company Tesla has now started offering a monthly subscription for its Full Self Driving package for USD 199 per month"
+    publishedDateTime: 2021-07-18T11:36:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270346234/tesla-to-now-offer-monthly-self-driving-subscriptions"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1626608118.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
-secured: "vrK5zJOx8ApfWFrVUPBbdhggH7S0qWCRYW+pSlolfz7ycs+6GuJhIp8rMO0HDX8SFP92SYhsiqvTpyGSRSJERkuAfShHaF/LxVjjiFH9pLKqmcHAajSZXjuIeoXQOZaRh9Yk/kO6QBPXyMxwGBb79Vs//Ak7L/Fv0xITZKKmXN96A3KQpL14RGQIABNB3GvvnJdv0fxcrKS9RUKNa72GjPqkO3D/l+JfV8Zr1nwT/mN3Lw2PbzQoaxBtz5IWvFMibSKADU2k9YFufjw4Vnh8J2WATCnfYj2nx6RVrTtwjVr6Lqycgfi16TivSqCmzCdH2mBuwzdvZIII48fHiu7rUIt8WOME9UeUKVrSYmL2KAM=;CmbIL1soTSD1JmRA0fOwIQ=="
+secured: "smHk1v35iRyMAnhxTrixq0lCGnc7OGlHazvYcq9C8n30WnrtzNDxtXMSxKGRvfDs+VWmV8/jUwcbBtx6kDK83cw2AFfI65Lq9TKGLRRIpBeTYlNr2r14gf8QeTxzIDqB93QqGM4iuSvO4CR4a2E39sO1AwE4tyRxYLyW1SwQQ8hhKFqGjbdsOXNXcxkTLTBQpHqjARR2U8Nd0v832ZNgRhxPauhfRwnLHvu+PsFTOa38wxIlVAW+kYCSOAdWmWj9EwcFo1GFIle5KRBUDGYrEqkRGbClv1yDFkzpGjZ4i8I/oUcYXxl/mLq+9dfXcfXZk461nfTFeYI5Peg1+KSNbEFXMJSonhOCRr4CclgxbNg=;TRsueBMYeqeQXIZUhbEAww=="
 ---
 

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla offers Full Self-Driving Capability as a subscription"
+    excerpt: "It’s looking more and more like the future of buying an automobile will include features that you have to pay for each month. We have seen several automakers offer subscriptions to services"
+    publishedDateTime: 2021-07-18T16:17:00Z
+    webUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/"
+    ampWebUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/tesla-fsd.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Tesla launches its Full Self-Driving subscription package for $199 per month"
     excerpt: "Tesla has officially launched its Full Self-Driving subscription package for $199 per month or $99 for those who have previously bought the now discontinued Enhanced Autopilot package. Tesla FSD Subscription Tesla currently sells the Full Self-Driving package for a one-time payment of $10,"
     publishedDateTime: 2021-07-17T03:33:00Z

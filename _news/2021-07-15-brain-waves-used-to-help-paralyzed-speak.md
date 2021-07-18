@@ -27,14 +27,14 @@ images:
 related:
   - title: "Device taps brain waves to help paralyzed man communicate"
     excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
-    publishedDateTime: 2021-07-14T21:29:00Z
-    webUrl: "https://www.greenwichtime.com/news/article/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
-    ampWebUrl: "https://www.greenwichtime.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
-    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
+    publishedDateTime: 2021-07-14T21:25:00Z
+    webUrl: "https://www.newstimes.com/news/article/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
+    ampWebUrl: "https://www.newstimes.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
+    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Device-taps-brain-waves-to-help-paralyzed-man-16315192.php"
     type: article
     provider:
-      name: Greenwich Time
-      domain: greenwichtime.com
+      name: NewsTimes Danbury
+      domain: newstimes.com
     quality: 59
     images:
       - url: "https://s.hdnux.com/photos/01/21/00/61/21236820/3/ratio3x2_400.jpg"

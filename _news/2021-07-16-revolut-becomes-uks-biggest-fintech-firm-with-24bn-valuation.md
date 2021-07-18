@@ -47,6 +47,15 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Singapore fintech start-up ADVANCE.AI named in global Fintech Power 50 list in 2021"
+    excerpt: "In the past 12 months, ADVANCE.AI was also named in LinkedIn's Top 10 Start-ups in Singapore, awarded \"Best International Fintech\" at India's Fintech Awards and listed in the \"Next Global Tech 50 ..."
+    publishedDateTime: 2021-07-15T02:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/singapore-fintech-start-up-advance-ai-named-in-global-fintech-power-50-list-in-2021-1030608664"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
   - title: "AI to have biggest impact on fintech over next five years"
     excerpt: "Tribe Payments, a payment technology company, has revealed that 67% of fintechs believe AI is the technology that will have the biggest impact on the sector over the next five years. This insight comes from their Fintech Five by Five report,"
     publishedDateTime: 2021-07-14T14:55:00Z
