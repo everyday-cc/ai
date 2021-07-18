@@ -75,34 +75,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Microsoft Launches 'Inside Azure for IT' Learning Portal"
-    excerpt: "Microsoft on Monday announced the launch of Inside Azure for IT, a new learning site \"for cloud professionals of all skill levels.\" Inside Azure for IT contains links to so-called \"fireside chats ..."
-    publishedDateTime: 2021-07-13T19:38:00Z
-    webUrl: "https://redmondmag.com/articles/2021/07/13/inside-azure-for-it-learning-portal.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/0913vsm_randolph.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Microsoft Opens Azure Learning Site for IT Pros"
-    excerpt: "Microsoft this week launched Inside Azure for IT, which contains links to \"fireside chats\" on various Azure topics, aiming \"to solve your real-world IT challenges.\" Erin Chapple, Microsoft's corporate vice president for the Azure core infrastructure ..."
-    publishedDateTime: 2021-07-13T19:43:00Z
-    webUrl: "https://mcpmag.com/articles/2021/07/13/microsoft-opens-azure-learning-site.aspx"
-    type: article
-    provider:
-      name: MCPmag
-      domain: mcpmag.com
-    quality: 54
-    images:
-      - url: "https://mcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140813VRTCloudOrchestration.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft Partners With U.S. Army Engineers To Use Azure Cloud For Extreme Weather Modeling"
     excerpt: "Microsoft announced on Wednesday that the company has signed a cooperative research and development agreement (CRADA) with U.S. Army engineers use the company’s Azure Government cloud for a system that models extreme weather around coasts."
     publishedDateTime: 2021-07-16T19:30:00Z
@@ -132,6 +104,6 @@ related:
         height: 504
         isCached: true
 
-secured: "dH8XZWoXXRsczJqCwSR0KZODmDQwyzsZZ/cg3UJt2BPHwhRMSnqN4PyV9clQmUQQjXDDsSk/+bvusN6eXNy5En6Mq/9yGxX6q7QtLz2eKLtsphw5B1KZKnbf6XMngLrp1wyI8HA9SW062Kdgat64XEE/7KmIrNSJG7Ysc7ZOoLyQpiaAL1tnp/UyL9lCriNwIcdgQhbFKZgV2ZxoHrxJ3auv/flz8hqXz6WDV304aMJe3+gJou0anH5iwxeJVo5Ujzr6MQGK/2QG95toifufRZJbIZe22QErD+XysqHDKauNetynrQMg/a6z2RSTTd2IgiFdiJoRuaAa73u7poIkmel2u+Aw3noA+uMpDljpd68=;fjrOUivT1Ff3WtQ12LVnOw=="
+secured: "HjbZqOQsadeAct2MG+rCXKASIO6YlAZSZ2wp55CGUCDeXwN4VlGsug3ihSAmENwsbSffSdUlzqiK/JStVt2Bnyq37ucqWdzYQQDYovXJ/qddx48nW2MQETAV0+/FrVmcMWmOQdpAiCuIC5nnF+4RKhJolMC5U2XPI7iPMCYoaKZZ/biSmMgboo4z80MFU60iR7KU7AyqRDayuopnslMEV1yxhQNDXb7uGXjBz9U000wUDiw4AbWy23YDDG5F668mZtZ87e5Q2xAM+i6amBOCXfUTX+cRczoT116qHEUqKLUGWMhn8eYt0VROAdEw0//rMIiR29GUJLoMpoOk/0o/E9qpH2xXQcET1nLUtz1h+tG2fYp/PQ/xNaWj2w12DTiJL6Ylpcmss0M25lFdSp9SujcWDEfecTzFLSSJKiWkwnNpi0jvu9495lNgrVt/98nXk/RO3UTT3zwSLbv5qJJ5cYjZBC6ioQiTCEkIqNLP8CLDfOKDqhCZKiZsa50qh7J9lOiVTk0AXtltXe0iK2ZNDg==;QjBF48jW9b72NhGIheCUnQ=="
 ---
 

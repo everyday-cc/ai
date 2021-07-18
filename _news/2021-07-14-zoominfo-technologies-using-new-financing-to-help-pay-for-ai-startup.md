@@ -47,20 +47,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 53
-  - title: "ZoomInfo acquires Chorus.ai for $575M to expand its sales intelligence platform"
-    excerpt: "Publicly-traded ZoomInfo Technologies Inc., which supplies enterprises with market intelligence they use to find new customers, today announced that it has inked a deal to buy sales analytics startup Chorus."
-    publishedDateTime: 2021-07-13T19:11:00Z
-    webUrl: "https://siliconangle.com/2021/07/13/zoominfo-acquires-chorus-ai-575m-expand-sales-intelligence-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/zoominfo.jpg"
-        width: 900
-        height: 507
-        isCached: true
   - title: "ZoomInfo buys Israel-US startup Chorus.ai for $575m"
     excerpt: "US business intelligence company ZoomInfo announced today that it is acquiring Israeli-US startup Chorus.ai for $575 million cash. Chorus.ai has developed a system that analyzes and provides insights on sales conversations and competes with Israeli startup Gong."
     publishedDateTime: 2021-07-17T10:13:00Z
@@ -74,6 +60,20 @@ related:
       - url: "https://cdn.trend.az/2021/07/17/shekil_170721.jpg"
         width: 800
         height: 392
+        isCached: true
+  - title: "ZoomInfo To Acquire Conversation Intel Platform Chorus.AI For $575M"
+    excerpt: "Chorus.ai developed a conversation intelligence platform that transforms conversations into data and insights for high-growth sales teams."
+    publishedDateTime: 2021-07-18T12:13:00Z
+    webUrl: "https://nocamels.com/2021/07/zoominfo-acquire-chorus-ai-575m/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/07/sound-856771_1280.png"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "rAkJgNzsxbJ7yeZCLRXUpf90QlBKb0dXN8cCVWJIlCgjKLCGfqWZ7fpt0ENWfx5WwmAgA3v9WTTgJqEap+uc7wUVx1CkiyIMWFbUxaJSABn+tuM/NSRRIVLcUx1Xhma8Y5eV309KGFU+FVc0IhYXV+/JgidHllYD3c5YAJ2huQKoB2XkB8n3oLFT30XKjxa/a8S2a7SetyDmW+scVHe72aY2EDhilKKF4ydWRsf9P9kPf/IZdV6HVljfRIB4kgsDRUi2HnVJEO+HPTx/4NLSUcbvM5EKbwrXBCqQ5rXvr6klAoEBO8iV+R5Xze8ZJuFAA2yDjIWxUv2gluI6z/EafiKaLk/toyj4LvQOk3wVaSC/7FeF2v8BYe4R/ed3qhwxJT/RGeXKiLiGzO1+FPvwDMAMcj7CVKOvd6A1evlVe15+JUvWk21SCSDbpBJMZIe6TRhOLQwUOccsAd2H0to+n77mlXNiT/r2oFw4FoUPpGHA/HbysFJOKxFuaGgui5WyWAlPrPBIcfR6TheFFNx8TQ==;QZXWpyyBWCZ9N7A2voH7Yw=="

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
-excerpt: "Customers can then use additional services such as Amazon QuickSight and Amazon SageMaker to better understand patient and population-level trends and help make accurate predictions about the ..."
-publishedDateTime: 2021-07-15T15:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/diameter-health-selected-as-amazon-healthlake-connector-partner-1030612136"
-webUrl: "https://markets.businessinsider.com/news/stocks/diameter-health-selected-as-amazon-healthlake-connector-partner-1030612136"
+excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by"
+publishedDateTime: 2021-07-15T15:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/diameter-health-selected-as-amazon-healthlake-connector-partner-301334828.html"
+webUrl: "https://www.prnewswire.com/news-releases/diameter-health-selected-as-amazon-healthlake-connector-partner-301334828.html"
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1177382/dIAMETER_hEALTH_Logo.jpg?p=facebook"
+    width: 2207
+    height: 1158
+    isCached: true
 
 related:
   - title: "AWS launches HealthLake to help health care organizations query medical data"
@@ -111,6 +113,20 @@ related:
         width: 1024
         height: 598
         isCached: true
+  - title: "AWS Announces General Availability of Amazon HealthLake"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon HealthLake, a HIPAA-eligible service for healthcare and life sciences organizations to ingest,"
+    publishedDateTime: 2021-07-15T14:57:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-health-coronavirus-pandemic-a6577a90cb304bcf90fa8b9af7a85b90"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Amazon (AMZN) HealthLake Boosts AWS for Health Offerings"
     excerpt: "Amazon’s AMZN cloud computing platform, Amazon Web Services (AWS) recently made Amazon HealthLake — a service eligible under the Health Insurance Portability and Accountability Act of 1996 — generally available for healthcare and life sciences organizations."
     publishedDateTime: 2021-07-16T14:58:00Z
@@ -162,15 +178,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS Announces General Availability of Amazon HealthLake"
-    excerpt: "For example, customers can apply analytics using Amazon QuickSight to understand patient and population-level trends, as well as build powerful machine learning models with Amazon SageMaker to ..."
-    publishedDateTime: 2021-07-15T15:25:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210715005761/aws-announces-general-availability-of-amazon-healthlake"
+  - title: "Your occasional storage digest with AWS HealthLake, Delphix, Infrascale, XenData and much more"
+    excerpt: "This week we have AWS doing a neat health sector vertical market data lake offering with partners, Delphix bragging about its growth and diversity hiring credentials, and Infrascale offering MSPs and VARs new backup appliances."
+    publishedDateTime: 2021-07-16T15:16:00Z
+    webUrl: "https://blocksandfiles.com/2021/07/16/your-occasional-storage-digest-with-aws-healthlake-delphix-infrascale-xendata-and-much-more/"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 34
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 27
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2021/07/Warfield-Hansen-Gupta.jpg"
+        width: 950
+        height: 600
+        isCached: true
   - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
     excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by Amazon Web Services, Inc. as a Connector Partner for Amazon HealthLake,"
     publishedDateTime: 2021-07-15T19:59:00Z
@@ -186,6 +207,6 @@ related:
         height: 600
         isCached: true
 
-secured: "cPOqFRtCEYfQgLSk3YaC9AO0NhGwdVo6zZhSJrjMrAL85ig6878YT95z78WfNwG3cyToER7guyuFUOQvpgxy0oHk/5XgcxrhuflatnJOgsFa6+sypcy6Hl6Zl9LDMbSKLh6VXlffxkS+FeTz15O+nWc5X81+K/Zf1NiSDjSKnXO4k6EzddZkueo12PaOvHqkHdetb1iXJzX+50wpBChYlw1rR8Mpa/Ty2CHmaVzjx5bSEH3qP+IVq5JbcdwVbgwt0oBQIP0WEEjxrpcfKlf3kzsoCaBS27AV6lv9aWQKkO46xlzTJbvfTkG5uz+czjxsziiauIT/vfvyxCynPuZaM7umj5dGxVtbenfdJxUouuQ=;9fntmXWvZmnC6NjXbFvI1Q=="
+secured: "MzGoWU2pMPxiP3bGufx3JYoH4kFoeUwOn+l8rdULTMQYL2hYanWA/lydh6of+J/UqbbosntK8/uTGxeUbBVeG9PK6pqwpc/jtoy0ZvaQjunnXoDmKoY8sIQiHPFmt/uEzO8A5/OhNAEuiHC9jS1iPYkMmtxyUnBH5itt3ASBxYy6o80SXOJDEla2F15fw2RTC9CW99ns/uL2brceBHXlEY6EcLTtYFRvrGjdCL8QT4rDbjEra9FrJh9mRpqLWkPsFwjPogQbhJNWJS2zTegiVPiVTu0YobJaJcLAtgHiuEQ/OG5RD8rcw77c4hQmEa8HcI+SQUTMSFL3l7Jo4O/WJVtTdU/XFgewvBjgTpkOWZA=;+mvO0nVHPsb51sc2IgW2aA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.insidermonkey.com/blog/10-best-machine-learning-stocks
 webUrl: "https://www.insidermonkey.com/blog/10-best-machine-learning-stocks-to-invest-in-960815/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why machine programming should be the next technology you invest in"
+    excerpt: "Watch now. An emerging breed of tools are using machine learning and other methods to automate parts of the software development process. GitHub, for example, launched such a tool last month that ..."
+    publishedDateTime: 2021-07-18T13:48:00Z
+    webUrl: "https://venturebeat.com/2021/07/18/why-machine-programming-should-be-the-next-technology-you-invest-in/"
+    ampWebUrl: "https://venturebeat.com/2021/07/18/why-machine-programming-should-be-the-next-technology-you-invest-in/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/why-machine-programming-should-be-the-next-technology-you-invest-in/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-505117919.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "5 Best Machine Learning Stocks to Invest In"
     excerpt: "In this article, we will be looking at the 5 best machine learning stocks to invest in. If you want to see our detailed analysis of these companies,"
     publishedDateTime: 2021-07-14T16:48:00Z

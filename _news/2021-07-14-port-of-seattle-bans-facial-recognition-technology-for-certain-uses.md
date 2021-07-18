@@ -57,20 +57,6 @@ related:
         width: 620
         height: 370
         isCached: true
-  - title: "Facial Recognition Technology: Examining Its Use by Law Enforcement"
-    excerpt: "Brett L. Tolman is the founder of the Tolman Group and the executive director for Right on Crime. If one considers this technology as creating the ability to find a needle in a haystack, it seems entirely reasonable to demand the police to first know which needle they are looking for,"
-    publishedDateTime: 2021-07-13T19:41:00Z
-    webUrl: "https://www.texaspolicy.com/facial-recognition-technology-examining-its-use-by-law-enforcement/"
-    type: article
-    provider:
-      name: Texas Public Policy Foundation
-      domain: texaspolicy.com
-    quality: 39
-    images:
-      - url: "https://files.texaspolicy.com/uploads/2021/06/23154309/Police-1350x759.jpg"
-        width: 1350
-        height: 759
-        isCached: true
 
 secured: "wf/R36ATow621mwbaSEEIeklDDMjiRlWvftnMHJB+Fo0FVVbDuOtUD7G7o4FF8wHuJocr1ILXwlFd/KpGv3jrNhXXLOSQUteoG6hf6tDUhvcxOqaX02xsl8ReZm6/8nPmlNgfTx41yz3erygvS36U4cmWspgzjf4ntz7tf3YOLS2cjahyB/USlzzljoFUCG7nsk81Rx48fbMYcU6qsXZyHTBhpdLCt4B40pShlWRD+8pHKTX/OM2WiZ4ijiAoFqxMWmMh6JHdZuMDS8LM6ZKb3kPjtMhXuVtqPtobJN4sCeBRoGj3j6QJzRwvRrSQVzKZAQz5Uvyfsdk7F3zQaVQRCzTQdkU0HasSuLxhdWuVks=;Y3EDw30YsIvLCB5VzBQDdQ=="
 ---

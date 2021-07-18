@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 865
         isCached: true
+  - title: "Emerging Trends: Artificial Intelligence for data economy"
+    excerpt: "According to a survey[1] of 1200 companies across the globe, more than 60% of data service providers believe that Artificial Intelligence (AI) is the future of their business. And quite rightly so, given that the growth of AI to unlock the value of data is ..."
+    publishedDateTime: 2021-07-18T12:56:00Z
+    webUrl: "https://www.wlv.ac.uk/business-services/funding-and-support/solvd/emerging-trends-artificial-intelligence-for-data-economy/"
+    type: article
+    provider:
+      name: University of Wolverhampton
+      domain: wlv.ac.uk
+    quality: 37
+    images:
+      - url: "https://cdn-wlvacuk.terminalfour.net/media/departments/business-solutions/images/solvd/Fahad-Blog-Image-1-437x291.jpg"
+        width: 437
+        height: 291
+        isCached: true
 
 secured: "ce1uUjPgVT1Ag/32HGhvxyteifmC8DxzycVrRISekv7aQvq/rEnSpdXXZ56ZPJojIip5MxQEuXBV1TluSjDpfzKe9QgiUispoeidO/vOxUet0YUmUKOtN+Z16MrRzuo7YUew4m/hIuy1TXWB47tHB7n1C0OPSHHdxq0RfMNqOMe9y9DAM4XsN7w4I8s7iyY4xEJ68asquzOwXkZ8NCfF83KpOfImh9DJ1lsT7aE88xxrglMaS1wqVCPacLwW5F2y5ZirvMiX1DsiEfm9jjpp05u0SlM4l3AqxJ9AE0DxcncxwV6//I/o1nw46WB9G3gRz1lwiB/BTmnQcX03AXD0voELbL9nwj4GYCF04wD6lK0=;JpgEMtcsXW7je7MZZ/ypKg=="
 ---

@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size predicts favorable growth and forecast 2020 - 2026"
-    excerpt: "Market Research Engine has published a new report titled as \"Artificial Intelligence Market Size By Offering ("
-    publishedDateTime: 2021-07-13T20:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-predicts-favorable-growth-and-forecast-2020---2026-2021-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market Pricing Strategy, Industry Latest Trends, Top Company Analysis by 2026"
     excerpt: "Selbyville, Delaware, MarketStudyReport.com offers report on Global Artificial Intelligence (AI) in Automotive Market that evaluates industry growth trends through historical data and estimates prospects based on comprehensive research."
     publishedDateTime: 2021-07-14T18:24:00Z

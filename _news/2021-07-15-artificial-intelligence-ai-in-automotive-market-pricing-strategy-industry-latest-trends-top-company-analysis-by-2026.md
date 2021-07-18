@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size predicts favorable growth and forecast 2020 - 2026"
-    excerpt: "Market Research Engine has published a new report titled as \"Artificial Intelligence Market Size By Offering ("
-    publishedDateTime: 2021-07-13T20:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-predicts-favorable-growth-and-forecast-2020---2026-2021-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Market (2021 to 2026) – Industry Trends, Share, Size, Growth, Opportunity and Forecasts"
     excerpt: "Jul 15, 2021 (Heraldkeepers) -- The scope of the report includes a detailed study of Deep Learning Marketwith the reasons given for variations in the growth of the industry in certain regions. Deep Learning is a subfield of machine learning concerned with ..."
     publishedDateTime: 2021-07-15T20:19:00Z

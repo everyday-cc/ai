@@ -186,6 +186,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "Self-Driving Startup Aurora Innovation Is Going Public: Is It a Buy?"
+    excerpt: "Self-driving technology start-up Aurora Innovation said on July 15 that it has agreed to go public via a merger with Reinvent Technology Partners Y (NASDAQ: RTPY), a special-purpose acquisition company (SPAC),"
+    publishedDateTime: 2021-07-15T21:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-startup-aurora-innovation-is-going-public%3A-is-it-a-buy-2021-07-15"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "HeartFlow to go public in $2.8B SPAC merger"
     excerpt: "HeartFlow said that it will go public by merging with a SPAC called Longview Acquisition Corp. in a deal worth $2.8 billion."
     publishedDateTime: 2021-07-15T15:03:00Z

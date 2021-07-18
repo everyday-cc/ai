@@ -71,34 +71,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Microsoft Launches 'Inside Azure for IT' Learning Portal"
-    excerpt: "Microsoft on Monday announced the launch of Inside Azure for IT, a new learning site \"for cloud professionals of all skill levels.\" Inside Azure for IT contains links to so-called \"fireside chats ..."
-    publishedDateTime: 2021-07-13T19:38:00Z
-    webUrl: "https://redmondmag.com/articles/2021/07/13/inside-azure-for-it-learning-portal.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/0913vsm_randolph.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Microsoft Opens Azure Learning Site for IT Pros"
-    excerpt: "Microsoft this week launched Inside Azure for IT, which contains links to \"fireside chats\" on various Azure topics, aiming \"to solve your real-world IT challenges.\" Erin Chapple, Microsoft's corporate vice president for the Azure core infrastructure ..."
-    publishedDateTime: 2021-07-13T19:43:00Z
-    webUrl: "https://mcpmag.com/articles/2021/07/13/microsoft-opens-azure-learning-site.aspx"
-    type: article
-    provider:
-      name: MCPmag
-      domain: mcpmag.com
-    quality: 54
-    images:
-      - url: "https://mcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140813VRTCloudOrchestration.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft Partners With U.S. Army Engineers To Use Azure Cloud For Extreme Weather Modeling"
     excerpt: "Microsoft announced on Wednesday that the company has signed a cooperative research and development agreement (CRADA) with U.S. Army engineers use the company’s Azure Government cloud for a system that models extreme weather around coasts."
     publishedDateTime: 2021-07-16T19:30:00Z

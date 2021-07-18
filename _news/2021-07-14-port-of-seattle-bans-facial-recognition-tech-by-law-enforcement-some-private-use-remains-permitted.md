@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-t
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/"
 type: article
 quality: 90
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.seatrade-cruise.com/sites/seatrade-cruise.com/files/CRUISE_Norwegian_Bliss_Seattle_Pier_66.jpg"
         width: 470
         height: 290
-        isCached: true
-  - title: "Facial Recognition Technology: Examining Its Use by Law Enforcement"
-    excerpt: "Brett L. Tolman is the founder of the Tolman Group and the executive director for Right on Crime. If one considers this technology as creating the ability to find a needle in a haystack, it seems entirely reasonable to demand the police to first know which needle they are looking for,"
-    publishedDateTime: 2021-07-13T19:41:00Z
-    webUrl: "https://www.texaspolicy.com/facial-recognition-technology-examining-its-use-by-law-enforcement/"
-    type: article
-    provider:
-      name: Texas Public Policy Foundation
-      domain: texaspolicy.com
-    quality: 39
-    images:
-      - url: "https://files.texaspolicy.com/uploads/2021/06/23154309/Police-1350x759.jpg"
-        width: 1350
-        height: 759
         isCached: true
 
 secured: "72YjKlJVSDSlj7nG2FZPfiyvllsQChxr2mK9IusQM1c6qZP9klFPhRlP2c0goTjlpAGkLvj/Miv/yhhXnuUZ5PP0jHoJHP/OqgpQAsdyiHvNHKzyTb5WubY9AEpHvKsfastIliUaLq7dbf/sHEf/VaAmSomYhdVLmAHpugJdcPU/34VQjmMLjYNySB4nSaSm3RE3FIrTaZyQJyKyDmQzT6I77uWa4yx0ni4B2J6CFeMPXPkPzTQWO/R84JUHuKJDuD4kVDyDekKyxCwwM8JHE/VufPxCLK3OSNtdgPNIOrqwJ0BAJ/KXLJShCUvWaCQAOkQsA73vdetwB9altEud3POfUElTR88STIiKXDyg+rA=;uwew8snOVD+Mc7J+xrdmpg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mos.ru/amp/en/news/item/93154073/"
 cdnAmpWebUrl: "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/93154073/"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,54 @@ images:
     width: 1596
     height: 798
     isCached: true
+
+related:
+  - title: "Spiking neuron for speedy, accurate AI"
+    excerpt: "The human brain is one of the most powerful and intelligent natural computers known to humankind. Neuromorphic computing refers to the field of technology where engineers try to build intelligent mach"
+    publishedDateTime: 2021-07-18T13:14:00Z
+    webUrl: "https://www.thehindubusinessline.com/business-tech/spiking-neuron-for-speedy-accurate-ai/article35392642.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/business-tech/spiking-neuron-for-speedy-accurate-ai/article35392642.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/business-tech/spiking-neuron-for-speedy-accurate-ai/article35392642.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 57
+    images:
+      - url: "https://www.thehindubusinessline.com/business-tech/a6d9to/article35392641.ece/ALTERNATES/LANDSCAPE_615/BL19QUANTUMLAB2"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Innatera Unveils Neuromorphic AI Chip to Accelerate Spiking Networks"
+    excerpt: "Innatera, the Dutch startup making neuromorphic AI accelerators for spiking neural networks, has produced its first chips, gauged their performance, and revealed details of their architecture. The company has also announced that Cadence and Synopsys co ..."
+    publishedDateTime: 2021-07-14T00:00:00Z
+    webUrl: "https://www.design-reuse.com/news/50315/innatera-neuromorphic-ai-chip.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 54
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage50315/Innatera-chip-photo.jpg"
+        width: 1096
+        height: 762
+        isCached: true
+  - title: "IIT Delhi Researchers Demonstrate a New Brain-inspired Artificial Neuron for Building Accurate and Efficient Neuromorphic AI Systems"
+    excerpt: "Human brain is one of the most powerful and intelligent natural computer known to mankind. Neuromorphic computing refers to the field of technology where engineers try to build intelligent machines in"
+    publishedDateTime: 2021-07-16T23:03:00Z
+    webUrl: "https://indiaeducationdiary.in/iit-delhi-researchers-demonstrate-a-new-brain-inspired-artificial-neuron-for-building-accurate-and-efficient-neuromorphic-ai-systems/"
+    ampWebUrl: "https://indiaeducationdiary.in/iit-delhi-researchers-demonstrate-a-new-brain-inspired-artificial-neuron-for-building-accurate-and-efficient-neuromorphic-ai-systems/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-delhi-researchers-demonstrate-a-new-brain-inspired-artificial-neuron-for-building-accurate-and-efficient-neuromorphic-ai-systems/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 28
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/07/iitdelhi-1024x581.png"
+        width: 1024
+        height: 581
+        isCached: true
 
 secured: "0EPrzUz/buJ3wAG80+Yt28a812WvY6xEzzPALClp19SzOhJ1MxyN3Ty2K/KhSI5WRjFOcq7Z4aXkZ8c4fQ+JuTWOW0XFbB3qMs8zGpuXdZuZmiyKuQKKlT1PQUwCJtnJJNOljVMz2rCACpa1MzqYIPyuKDGakQM2OFjZRG2CCT1SS17upvktAaGl6eC9a2+825ucF24OXu5ZNF2R7RJsdhsjbMuaSJXV4dZocAv6A+0M+Vnf3dYOJAP4syPnWQi0F2S13ZGRv+JUQcIeppRkUnQz2Rf3ik7yIKBeMkoJTU45U0IjekS+7c5pGAlIyAbjPczheNvkUk1TLV/9zQBT/Pe0hsEZHcePMd+MvJtNf7XzCgXmE9riFtk25WMfl/EPJONW9TkrViwEukkvvn+bY+5oIeZljB1zeTOMYSZ5FwEZu7kIGQ7jkD+HHeLbqiWUXWy2I1T3zTWSfBC9GMbNSBkbp2B1FLRKt3PsoMrpTowxAj6QhBXQTgVSm1XiD07SNDQOaO2CjrXcoCKJT1u97Q==;h8myfybWUtvYnNzvaU8nyQ=="
 ---
