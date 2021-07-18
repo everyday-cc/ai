@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-cam
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/"
 type: article
 quality: 174
-heat: 334
+heat: 324
 published: true
 
 provider:
@@ -190,20 +190,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Sheila-Jackson-Lee-facial-recognition-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Facial recognition tech fights COVID-19 in China's Yunnan"
-    excerpt: "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a"
-    publishedDateTime: 2021-07-13T12:45:00Z
-    webUrl: "https://www.channelnewsasia.com/news/asia/facial-recognition-tech-fights-covid-19-china-yunnan-myanmar-15211714"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15211712/16x9/991/557/efd60e103f612f36f1164ff636fceff9/pE/china-was-the-first-country-to-adopt-a-qr-code-system-to-log-covid-test-results-and-track-contacts-1626169216543-2.jpg"
-        width: 991
-        height: 557
         isCached: true
   - title: "Bipartisan Calls to Regulate Facial Recognition Tech Grow Louder"
     excerpt: "Lawmakers on both sides of the political aisle have concerns about the government’s increased use of biometric technology."

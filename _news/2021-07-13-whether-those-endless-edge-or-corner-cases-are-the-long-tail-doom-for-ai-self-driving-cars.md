@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How AI can help create more caring company cultures"
-    excerpt: "There are already at least three areas where artificial intelligence can easily support a more empathetic workplace environment."
-    publishedDateTime: 2021-07-13T12:01:00Z
-    webUrl: "https://qz.com/work/2031109/how-ai-can-help-create-a-more-caring-company-culture/"
-    ampWebUrl: "https://qz.com/work/2031109/how-ai-can-help-create-a-more-caring-company-culture/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/work/2031109/how-ai-can-help-create-a-more-caring-company-culture/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 87
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2021/07/Robot.jpeg?quality=75&strip=all&w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Hyundai to pilot its AI-powered, self-driving RoboShuttle service"
     excerpt: "The Hyundai RoboShuttle can perceive its surroundings, make decisions, and also control itself whilst on the road..The shuttle's self-driving technology has a range of Level 4-comparable core technologies and has been developed in-house."
     publishedDateTime: 2021-07-14T09:33:00Z

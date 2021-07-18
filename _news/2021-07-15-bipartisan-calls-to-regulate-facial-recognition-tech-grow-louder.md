@@ -205,20 +205,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Facial recognition tech fights COVID-19 in China's Yunnan"
-    excerpt: "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a"
-    publishedDateTime: 2021-07-13T12:45:00Z
-    webUrl: "https://www.channelnewsasia.com/news/asia/facial-recognition-tech-fights-covid-19-china-yunnan-myanmar-15211714"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15211712/16x9/991/557/efd60e103f612f36f1164ff636fceff9/pE/china-was-the-first-country-to-adopt-a-qr-code-system-to-log-covid-test-results-and-track-contacts-1626169216543-2.jpg"
-        width: 991
-        height: 557
-        isCached: true
   - title: "Federal Agencies Can't Resist Using and Abusing Facial Recognition"
     excerpt: "Already used to identify international travelers as they enter and exit the United States, facial recognition technology is becoming increasingly reliable and may soon become a regular feature of the travel process,"
     publishedDateTime: 2021-07-16T11:07:00Z

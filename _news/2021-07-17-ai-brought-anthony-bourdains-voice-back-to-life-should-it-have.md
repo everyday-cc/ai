@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AI Brought Anthony Bourdain's Voice Back To Life. Should It Have?"
-excerpt: "Burns, found the technique duplicitous, tweeting \"I feel like this tells you all you need to know about the ethics of the people behind this project.\" Writer and critic Jason Sheehan, who reviewed Roadrunner for NPR before its use of AI became public ..."
-publishedDateTime: 2021-07-16T20:52:00Z
-originalUrl: "https://www.capradio.org/news/npr/story?storyid=1016838440"
-webUrl: "https://www.capradio.org/news/npr/story?storyid=1016838440"
+excerpt: "\"We can have a documentary-ethics panel about it later,\" joked Morgan Neville, director of the new Anthony Bourdain documentary Roadrunner."
+publishedDateTime: 2021-07-16T17:17:00Z
+originalUrl: "https://www.kuow.org/stories/ai-brought-anthony-bourdain-s-voice-back-to-life-should-it-have"
+webUrl: "https://www.kuow.org/stories/ai-brought-anthony-bourdain-s-voice-back-to-life-should-it-have"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Capital Public Radio
-  domain: capradio.org
+  name: KUOW
+  domain: kuow.org
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://media.npr.org/assets/img/2021/07/16/rr_fp_00785-185acee304921a2d4c11b2d27021379d1338a0e1.jpg?s=6"
-    width: 948
-    height: 710
+  - url: "https://kuow-prod.imgix.net/store/3b7dd39e94197eee494c082b3393f467.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+    width: 837
+    height: 628
     isCached: true
 
 related:
@@ -88,22 +88,6 @@ related:
       - url: "https://www.cnet.com/a/img/ygG9OnwVAXclz9rN4SrLRmZZIR4=/2021/07/15/01a10222-21c1-4dc7-9e83-0e2f0947439a/anthony2.jpg"
         width: 1194
         height: 672
-        isCached: true
-  - title: "AI narration of chef Anthony Bourdain's voice sparks row"
-    excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-    publishedDateTime: 2021-07-16T13:33:00Z
-    webUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
-    ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7458/production/_119448792_gettyimages-187622944.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Anthony Bourdain Documentary Used AI To Fake His Voice"
     excerpt: "A new documentary about late celebrity chef Anthony Bourdain utilized artificial intelligence to recreate his voice, spurring a debate about the ethics of this practice. In an interview with The New Yorker,"
@@ -248,6 +232,22 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/anthony-bourdain-visits-the-build-series-to-discuss-raw-news-photo-1626445038.jpg?crop=1xw:0.72745xh;center,top&resize=1200:*"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AI narration of chef Anthony Bourdain's voice sparks row"
+    excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
+    publishedDateTime: 2021-07-16T14:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-57842514"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-57842514.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57842514.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7458/production/_119448792_gettyimages-187622944.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Anthony Bourdain Doc Under Fire for Using AI to Mimic the Late Chef’s Voice"
     excerpt: "Oscar-winning filmmaker Morgan Neville said Bourdain’s widow Ottavia consented to the deepfake’s use—a claim she disputed on Twitter."
@@ -462,6 +462,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "rNO84wwAsrxLXJXODy8hwjt6TRhgp1G9zDdhORCpEEa2FGiSylHB68SI1Zqs0J7w7tqtt9FZ+3A/jF0gLFIDqHelzCj78JPjpSPtv80V+qqRUfA9iD3JmMJpu6UckVnuaJVYVbw7LROU5AkxWa1iRLgixNkd7/6HuYdHOcwaWWmANuwrJ2AYY+xFGefd0jMVPSLHt3MCuYU0xAuS89NJZs9b4GiDbGquFg+XrggecusZjNWfC5+YWxdWhRTxpEkOtNFvI99EtI+dXQMHRPcRcBq4qVItfAqMfWlMtDMWOjhTzBVFq8uD7Nd/iN5SlO4N9zZ6QcSR/X3KbUtP7ihwSDjSV5oBpEyegIiwGaGPfXf7duNvpz6cuGkoX45LbNbVEO0WjFCrFtVxNYSibXIoCvHZAqYpzJhIKhDCQnie7d/jSN+EMV0MV91ybcrwRH3J4gmTy8+aWlkCbaxjMK1byZQc5kVqvuYbdPk3J2XUbVG4mlIw63Y4jke0o/99e6pUHBkRabIHsx7o4Q8R4Vm/2w==;sC1C//n/syYUROejTlXBgw=="
+secured: "Yt7rVwBNiZZKJR44cO4TJpHYY2iGEbEvjaQBFgevW9JvwSLc8IPo2Y4aWNC+gOBOkekfstEYQ3gzkdn0Q1bQs0u3WQmNVnrNswUrR0LCEm9U41glfvZV/5/GnbINz5gaV2+UlOOe2QyoUJ6kz/bF1trUD0vy7RFUWYchbrzwQKc2Jt7ovhtXj9mYat8ELNy2odj2r5GMMV0gD+ffAqTSgHIFasN1Ty9aH9jZqHjh7gzWFrgDE0ef8OTUBn0qUYm8xFutx3HU8RkxcwsHTwknY6/NuTQRbQK4kI2JXOdBxNat5meewnYW0FhG/2nDguQerP/yZsMZYrNCss1E9lEDqazNXg00aeQnQFB0yzcGG+4=;CSYubgG8+0Zt7oHePjbM7g=="
 ---
 

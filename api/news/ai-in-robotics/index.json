@@ -849,49 +849,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-13-founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston.md",
-      "title": "Founder Institute joins forces with NASA Ames, MassRobotics to launch AI, robotics accelerator program in Boston",
-      "excerpt": "The Founder Institute, the world’s largest pre-seed startup accelerator, has announced the launch of a new program where early-stage entrepreneurs in Boston can leverage NASA technology to build artificial intelligence and robotics startups.",
-      "sourceUrl": null,
-      "webUrl": "https://sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/",
-      "originalUrl": "https://sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sociable.co/wp-content/uploads/2021/07/AI_Robotics._Partnership.Banners.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/amp/",
-      "cdnAmpWebUrl": "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/technology/founder-institute-joins-forces-with-nasa-ames-massrobotics-to-launch-ai-robotics-accelerator-program-in-boston/amp/",
-      "publishedDateTime": "2021-07-13T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sociable",
-        "domain": "sociable.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-locomotive-system-makes-robots-multi-terrain.md",
       "title": "Locomotive System Makes Robots Multi-Terrain",
       "excerpt": "Called Rapid Motor Adaptation (RMA), the new locomotive system allows four-legged robots to traverse a variety of terrain types.",
@@ -1417,6 +1374,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-digital-transformation-fueling-spending-on-cloud-ai-robotics-security-and-saas.md",
+      "title": "Digital transformation fueling spending on cloud, AI, robotics, security and SaaS",
+      "excerpt": "\"Emerging technologies like artificial intelligence, the Internet of Things ... are investing in key use cases like collaborative robotics, operational performance management, and 3D and digital product design and review for improved cost control and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.securitysystemsnews.com/article/digital-transformation-fueling-spending-on-cloud-ai-robotics-security-and-saas",
+      "originalUrl": "https://www.securitysystemsnews.com/article/digital-transformation-fueling-spending-on-cloud-ai-robotics-security-and-saas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securitysystemsnews.com/uploads/blog/6dfcbb88d032e82b4366850eb1aeb8ef.jpg",
+          "width": 1000,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security Systems News",
+        "domain": "securitysystemsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
       ]
     }
   ],

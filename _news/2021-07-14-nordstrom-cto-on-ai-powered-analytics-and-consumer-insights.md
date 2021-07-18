@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analy
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-648272290.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "London data analytics firm raises $153m to accelerate expansion of AI tech"
-    excerpt: "A London data analytics firm has announced that it has achieved a $153m funding round as it aims to boost… | London | International | Technology | Technology | Investment | USA |"
-    publishedDateTime: 2021-07-13T11:23:00Z
-    webUrl: "https://bdaily.co.uk/articles/2021/07/13/london-data-analytics-firm-raises-153m-to-accelerate-expansion-of-ai-tech"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 37
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/3LwTUeSRYaaGnI55LKckzQrbk1yp8aZiwCku0Brx.jpeg?w=940&h=430&fit=crop-48-58&s=b5f440fac7c57fca5ce1fe9103ab5ea0"
-        width: 940
-        height: 430
         isCached: true
   - title: "Startup Circle: How is Qandle using AI/ML and analytics to provide an All-In-On HR Tech solution?"
     excerpt: "Qandle is an All-In-One HR Platform – established in 2016 and launched in 2018. The young startup focuses on re-engineering HR Technology from employees’ perspectives. It provides an array of tech-enabled solutions for HR tasks including – Hire and Onboard,"

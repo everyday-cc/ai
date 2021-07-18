@@ -117,15 +117,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Pensa Systems Now Available on Microsoft Azure"
-    excerpt: "Pensa Systems, a leading innovator in the automated use of computer vision and artificial intelligence for retail in-store data and analytics, announced today that its advanced shelf intelligence data offering has become a Microsoft Preferred Solution and is now available on Microsoft Azure."
-    publishedDateTime: 2021-07-13T11:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407404.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
   - title: "Microsoft Partners With U.S. Army Engineers To Use Azure Cloud For Extreme Weather Modeling"
     excerpt: "Microsoft announced on Wednesday that the company has signed a cooperative research and development agreement (CRADA) with U.S. Army engineers use the company’s Azure Government cloud for a system that models extreme weather around coasts."
     publishedDateTime: 2021-07-16T19:30:00Z
@@ -140,20 +131,6 @@ related:
         width: 272
         height: 270
         isCached: true
-  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
-    excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customersVANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX: SW),"
-    publishedDateTime: 2021-07-13T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=498882"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 35
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "USF-developed AI system unites global agencies to identify emerging infectious diseases, receives support from Microsoft"
     excerpt: "Leadership in providing with the public consistent projections of COVID-19 infections and hospitalizations has prompted the launch of a USF-led global modeling project sponsored by Microsoft that can ultimately help scientists more swiftly identify and respond to the threat of emerging infectious diseases."
     publishedDateTime: 2021-07-14T19:52:00Z
@@ -167,20 +144,6 @@ related:
       - url: "https://www.usf.edu/images/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft/microsoft-article.jpg"
         width: 733
         height: 504
-        isCached: true
-  - title: "Next Level Compliance Recording for Microsoft Teams from ASC: Recording Insights with New Functionality"
-    excerpt: "ASC Technologies AG, provider of one of the first certified compliance recording solutions for Microsoft Teams, has invested in the"
-    publishedDateTime: 2021-07-13T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/next-level-compliance-recording-for-microsoft-teams-from-asc-recording-insights-with-new-functionality-301332093.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/1572652/ASC_Technologies_AG_Logo.jpg?p=facebook"
-        width: 2699
-        height: 1414
         isCached: true
 
 secured: "SSar/OQk8udijry+nH70r6VbmVlPZBPiu5FoZuiPfGuuukO48fp712akStRItn79LT6ucSGDmWLTuouQVeq0ngAyCR2RExp98iePbAsgO6mLqSIydahSSK50taGSjERSP0cAPhkfahrBjVNjGy1Vw+Dc4TVMSGpEiLxcsySRjmagIicmqWzqLLEnPtNnxhYeN+ZiPyZ/gn7o26rhxqjQhItGTu/8WTBtQefxfDIaWaHWGq4gIegeQTHZ27A5TanULIZoSu2InyyNh+iMgBJdefUwiM2nJa4pXojQMZi7DMAl1F1GA91iOrCAosIhNzRFsfzAVQ8TYeF8bES4dsXAdx4r5XaWTf7flBlTzatsXxsqQaQli4iie10IX5nON4hV3YyKfCQCHrOhH0wihoGFsGmueGRDjWpapMHWjNHSBDJbZDpZTlf3JWdP0np6mAiOK10GSokljJynsYIUqfOIiRNampbHDU7mRVQSd/OC4EU3TpK8CyA2rRJyX2juZ0tBXfR31Vlp4t7/sfUzzVcgdQ==;0v8B4phh294SWscK13RTbw=="

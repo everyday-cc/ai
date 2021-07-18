@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 873
     isCached: true
-
-related:
-  - title: "How facial recognition technology and interactive kiosks improve security to keep your identity safe"
-    excerpt: "Facial recognition technology has been sci-fi movie fodder for decades, from Face/Off’s famous face-swapping plot to Minority Report’s take on Digital Out of Home (DOOH) marketing, where citizens walk through the world constantly recognized."
-    publishedDateTime: 2021-07-13T11:14:00Z
-    webUrl: "https://www.kioskmarketplace.com/blogs/how-facial-recognition-technology-and-interactive-kiosks-improve-security-to-keep-your-identity-safe/"
-    type: article
-    provider:
-      name: KIOSK marketplace
-      domain: kioskmarketplace.com
-    quality: 41
-    images:
-      - url: "https://nmgprod.s3.amazonaws.com/media/files/ef/77/ef7728e4459665bb1601bfc9eb075ce0/cover_image_1626268261.jpg.760x400_q85_crop_upscale.jpg"
-        width: 760
-        height: 400
-        isCached: true
 
 secured: "W17D+bGXmXuLEEzK7K5TWPnjuDqkr+mBTO5Y0YjmNfMJJ/9nuP8drBUqicMxvNbwREqEvd33LFIwSX3+s6Hv2jNmrA6RboPvFSxK8oVXWvK75sjMpQMEDfkKuVFIEK6V/rCTzAsDkE774j+15kljy3eYCSKttHiRsUXtJyGiKg25k+AE/EMWOklhaX2GlTCJGcvg6lGzOWw2ve+GEGUwMvLH7tlxsF0ql5O6/bp38Xf4whGXq8jAFZwZnn57Z+cnn+L9tCz62dpE/X3/lQvIM/9ujoobJ2slcfG7rOSA1B8bCUb7bPSWuROe0WuO61kqlUCR2tZsfwUMQIOifD4k7we0jOuzmM/loCwy526H/bf6/ppZBM3H9O/EsHsfj1W+zvVUn0mIS8ecQZgMpI28lgBiM1heYzgVHhSdZLkAA13DS5vAmhopd8SD+vfng0EmK+/VJyZL/DAZ84y9S3DJibmuGswdP/B9TkCXzq4js6BGD8bE0FDZdoxO8zp0i02lyJvArD+st5/PN3B2TEMDHA==;XGE+IcMaEmfNYVEl/CFoew=="
 ---

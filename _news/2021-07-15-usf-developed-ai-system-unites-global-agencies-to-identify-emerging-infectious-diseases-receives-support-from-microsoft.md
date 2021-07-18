@@ -127,15 +127,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Pensa Systems Now Available on Microsoft Azure"
-    excerpt: "Pensa Systems, a leading innovator in the automated use of computer vision and artificial intelligence for retail in-store data and analytics, announced today that its advanced shelf intelligence data offering has become a Microsoft Preferred Solution and is now available on Microsoft Azure."
-    publishedDateTime: 2021-07-13T11:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407404.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
   - title: "Microsoft Partners With U.S. Army Engineers To Use Azure Cloud For Extreme Weather Modeling"
     excerpt: "Microsoft announced on Wednesday that the company has signed a cooperative research and development agreement (CRADA) with U.S. Army engineers use the company’s Azure Government cloud for a system that models extreme weather around coasts."
     publishedDateTime: 2021-07-16T19:30:00Z
@@ -149,34 +140,6 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2021/07/16/4c/da/ed/bd/2f/15/c5/04/microsoft_20210625.png"
         width: 272
         height: 270
-        isCached: true
-  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
-    excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customersVANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX: SW),"
-    publishedDateTime: 2021-07-13T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=498882"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 35
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Next Level Compliance Recording for Microsoft Teams from ASC: Recording Insights with New Functionality"
-    excerpt: "ASC Technologies AG, provider of one of the first certified compliance recording solutions for Microsoft Teams, has invested in the"
-    publishedDateTime: 2021-07-13T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/next-level-compliance-recording-for-microsoft-teams-from-asc-recording-insights-with-new-functionality-301332093.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/1572652/ASC_Technologies_AG_Logo.jpg?p=facebook"
-        width: 2699
-        height: 1414
         isCached: true
 
 secured: "o5LXmaccahhWdm+L94KaJTV0KK48ksO6pJeuNeZF2eyc4AOVhIoWesZuQXD5QgUY98iaJCq+uABhVrY/RJJd8EvuKi3ml3PwJXKwMihjgnO/zl7D0lNrqiApjsMq3v3kxebbZTpNiVLE6z2rgyzL16K7OkBLylcAupQZaIJM3GiVSm1SVbzHBCYBI6kQLktlMiQ9NTh0vD7IXflhjcLiaqhp3oxrYtvbaYtaznNg4WZwOl/CdF+810LBV9ynQloxOKInznpnbgV5/JR7UE6z7+ZuZiT8Bpifu59l5KtZbxNVVRzIhGvEpLx1qhQVPR3DjMsrQEFU9v17Cq7OUKi4Cg4X2khp4jdc4bmoyMLMwHo=;QlKCUdl/TE3sgTK20vVkaw=="

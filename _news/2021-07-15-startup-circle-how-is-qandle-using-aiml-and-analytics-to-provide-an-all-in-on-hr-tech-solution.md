@@ -95,20 +95,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "London data analytics firm raises $153m to accelerate expansion of AI tech"
-    excerpt: "A London data analytics firm has announced that it has achieved a $153m funding round as it aims to boost… | London | International | Technology | Technology | Investment | USA |"
-    publishedDateTime: 2021-07-13T11:23:00Z
-    webUrl: "https://bdaily.co.uk/articles/2021/07/13/london-data-analytics-firm-raises-153m-to-accelerate-expansion-of-ai-tech"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 37
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/3LwTUeSRYaaGnI55LKckzQrbk1yp8aZiwCku0Brx.jpeg?w=940&h=430&fit=crop-48-58&s=b5f440fac7c57fca5ce1fe9103ab5ea0"
-        width: 940
-        height: 430
-        isCached: true
   - title: "Five9 Extends its Practical AI Solutions for Low-Code Development, Voice Biometrics, Real-Time Analytics and Agent Coaching"
     excerpt: "New features streamline the development of Intelligent Virtual Agents and help organizations easily deploy solutions to augment their contact centers with an AI-powered digital workforce. SAN RAMON, Calif."
     publishedDateTime: 2021-07-14T17:43:00Z

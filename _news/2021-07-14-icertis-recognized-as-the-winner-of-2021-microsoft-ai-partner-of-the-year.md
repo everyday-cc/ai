@@ -117,15 +117,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Pensa Systems Now Available on Microsoft Azure"
-    excerpt: "Pensa Systems, a leading innovator in the automated use of computer vision and artificial intelligence for retail in-store data and analytics, announced today that its advanced shelf intelligence data offering has become a Microsoft Preferred Solution and is now available on Microsoft Azure."
-    publishedDateTime: 2021-07-13T11:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407404.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
   - title: "Microsoft Partners With U.S. Army Engineers To Use Azure Cloud For Extreme Weather Modeling"
     excerpt: "Microsoft announced on Wednesday that the company has signed a cooperative research and development agreement (CRADA) with U.S. Army engineers use the company’s Azure Government cloud for a system that models extreme weather around coasts."
     publishedDateTime: 2021-07-16T19:30:00Z
@@ -139,20 +130,6 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2021/07/16/4c/da/ed/bd/2f/15/c5/04/microsoft_20210625.png"
         width: 272
         height: 270
-        isCached: true
-  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
-    excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customersVANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX: SW),"
-    publishedDateTime: 2021-07-13T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=498882"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 35
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
   - title: "USF-developed AI system unites global agencies to identify emerging infectious diseases, receives support from Microsoft"
     excerpt: "Leadership in providing with the public consistent projections of COVID-19 infections and hospitalizations has prompted the launch of a USF-led global modeling project sponsored by Microsoft that can ultimately help scientists more swiftly identify and respond to the threat of emerging infectious diseases."
@@ -168,21 +145,7 @@ related:
         width: 733
         height: 504
         isCached: true
-  - title: "Next Level Compliance Recording for Microsoft Teams from ASC: Recording Insights with New Functionality"
-    excerpt: "ASC Technologies AG, provider of one of the first certified compliance recording solutions for Microsoft Teams, has invested in the"
-    publishedDateTime: 2021-07-13T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/next-level-compliance-recording-for-microsoft-teams-from-asc-recording-insights-with-new-functionality-301332093.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/1572652/ASC_Technologies_AG_Logo.jpg?p=facebook"
-        width: 2699
-        height: 1414
-        isCached: true
 
-secured: "ZJ8A/h50b25RQ+JMMhrYFNO7Zj7JKXaL/ieq+3OgDGhgb+o1YP8R8ZkCcESuA76qIV+dMOFY3d9rIusnHKo92d0rKhCQa6kQ0+4W/+XUqODyGbwfLJCbP76MFPksiymcBRI7tP3peDAoW1L8N6rooILYo8nHiqJtGRLPo/gLUckVyEuJ4jl7yB6OtId2HLWGB8LzDpEzTDBm2BsdCYfmol8/vqQ4CNvGnfYGG1zTRhK0UxFKSPh8/0FRV4UGyizOCSFNIV3csJUXzz68mKCKwrLWeTfwFRzF+/aqvKmBBUvvExQ60ERNmMggjp1U/Xv65ALeEJEPkJpsBFhnwk87/gAkIPiB7NhnzwTdbp4IGlE=;25M4ZSCt8QXn+LJIE6xX8Q=="
+secured: "tKm91w91P7600nY2aPcSsaeYR8sQUlpycQGHbXvyZ/T+S4jMEHHWhNNIeRND4Rj/tUDNRdTLhRa49wiJQMhGQz63jVAy0YeenA3zpB/lbJg9cA6qqAAaYlUH+rQvEhfb4J7cAIsvBX2jKYaRAo/OjqS32vrnQ+X0oIL8tj6kWt6P134EdiNvwfmXVT/hrwSG266F2QhUpezhF26T4dus2NKtOABMEzZS2495o6GCoTMSl1JZJlyDvGKYsRI0irHLgaWeHEeqNvvJaGS++5pQMFyXDlyd1CwFsVM5zwKYpDqfzHUh22FTEKcK2m9dv+y9G0oOf2Vpo3iQATKl9aq0uJ+d5W+1DrOcRHpLUl8tF9RFs92B6IlLxqoyfMxxiy2TPRDsH1X04sKEv2iCDzT9cbiVO7px+l3V4BNE1bl0Ds8AR0Zj0K7zXkzFYu3+Uxlcd4Cui2Fzq5hu46R/pxegEnKhmYD0KRlglstJF0WtRYvrRPnUpLuXo+y5xpd/O+eceCxFu3MGkK9RHSNRS9512g==;ZnIrTqIQyWXC00LUsNlNVQ=="
 ---
 
