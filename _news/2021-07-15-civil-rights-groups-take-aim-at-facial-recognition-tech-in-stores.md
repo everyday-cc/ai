@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-cam
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/"
 type: article
 quality: 174
-heat: 324
+heat: 314
 published: true
 
 provider:
@@ -100,20 +100,6 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2019/09/artificial-intelligence-4389372_12801.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Facial-Recognition Tech Gets Bipartisan Call for More Regulation"
-    excerpt: "The use of facial-recognition software by law enforcement should be regulated, a bipartisan group of lawmakers said, amid concerns of misidentification and violations of constitutional rights and due process."
-    publishedDateTime: 2021-07-13T17:35:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i35tDSsiJq1c/v1/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Rights Coalition Demands US Retailers Reject Use of Facial Recognition"
     excerpt: "On the heels of a congressional hearing that highlighted concerns about facial recognition, more than 35 civil rights groups on Wednesday collectively called for retailers to reject the technology in their stores \"to protect the privacy and rights of shoppers and staff."

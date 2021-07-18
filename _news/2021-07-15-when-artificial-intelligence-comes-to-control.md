@@ -49,6 +49,22 @@ related:
         width: 388
         height: 400
         isCached: true
+  - title: "Using AI to Build More Personal Customer Connections"
+    excerpt: "As more brands rely on digital channels like chatbots, messaging apps and email campaigns to build relationships, AI and machine learning are critical in being able to use the big sets of data amassed to create more personalized experiences that demonstrate empathy and authenticity."
+    publishedDateTime: 2021-07-16T16:21:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/using-ai-to-build-more-personal-customer-connections/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/using-ai-to-build-more-personal-customer-connections/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/using-ai-to-build-more-personal-customer-connections/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 57
+    images:
+      - url: "https://www.cmswire.com/-/media/85b2cc853bd94b889ae52ba14e2f84a0.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "UKA0firoZkhqnHtdm0vcvQvYQ//6IBFFmcSi7fGuwOH217PcCznYWBK5686hqFVJ9k96MRcb01Q7HKniUOCsiZj2qh8nW501N03lnXv7p0lcxDmkHJxhSBVhO8P80w47LDhkW1psjE8hMcoyZtsiXoYerZWtfwqc4LFrpAwseAWiXSGtbxUU+25EHrB08NqpjtCgJ1lAtOrKAyzAjaSJIUScewTOhExvi7TjbQHw1tvYpOeIBtxewJWJv2ERj9hjTyP2iyo0qYFd6QlMX6oxdxzFGKMEvBdcj+21XhvZ/0DCBQBzok3mVUmi0MUfwrOGV9jdmYZED0gaytEFuaNgU/wk932i0/NBrspG7Z4o2Wc=;N9CFJQ7K4/MrLwsRopeAXw=="
 ---

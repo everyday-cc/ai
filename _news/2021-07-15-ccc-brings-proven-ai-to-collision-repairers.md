@@ -44,6 +44,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Using AI to Build More Personal Customer Connections"
+    excerpt: "As more brands rely on digital channels like chatbots, messaging apps and email campaigns to build relationships, AI and machine learning are critical in being able to use the big sets of data amassed to create more personalized experiences that demonstrate empathy and authenticity."
+    publishedDateTime: 2021-07-16T16:21:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/using-ai-to-build-more-personal-customer-connections/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/using-ai-to-build-more-personal-customer-connections/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/using-ai-to-build-more-personal-customer-connections/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 57
+    images:
+      - url: "https://www.cmswire.com/-/media/85b2cc853bd94b889ae52ba14e2f84a0.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "When Artificial Intelligence Comes to Control"
     excerpt: "Applications of machine learning and other forms of artificial intelligence have been recognized in robotics and analytics. Now the technology is adding some spice to basic control applications."
     publishedDateTime: 2021-07-15T13:00:00Z

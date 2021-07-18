@@ -115,20 +115,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Facial-Recognition Tech Gets Bipartisan Call for More Regulation"
-    excerpt: "The use of facial-recognition software by law enforcement should be regulated, a bipartisan group of lawmakers said, amid concerns of misidentification and violations of constitutional rights and due process."
-    publishedDateTime: 2021-07-13T17:35:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i35tDSsiJq1c/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Maine Enacts Toughest Facial Recognition Ban in U.S."
     excerpt: "Augusta, Maine — The Maine State Legislature has passed a bill that will prohibit the use of facial recognition surveillance by certain government employees and officials. While these bans have been popping up more and more over the country, Maine took ..."
     publishedDateTime: 2021-07-16T09:48:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-fri
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://static.hkej.com/eji/images/2021/07/14/2852802_6ba3f2c38f93681f60411b9bac6f290c.jpg"
         width: 669
         height: 438
+        isCached: true
+  - title: "China’s JD spins off cloud and AI businesses to fintech unit"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-07-17T04:04:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit-2/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626473428_reuters-default.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "AI to have biggest impact on fintech development over next five years"
     excerpt: "Artificial intelligence (AI) technology will have the biggest impact on fintech ... AT&T will move its 5G services to Microsoft's Azure cloud. The move provides Microsoft with a critical 5G customer while AT&T ... What's the difference between 802.11ac ..."

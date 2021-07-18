@@ -3,8 +3,8 @@ category: news
 title: "Self-Driving Startup Aurora to Go Public Through SPAC"
 excerpt: "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc."
 publishedDateTime: 2021-07-15T16:53:00Z
-originalUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
-webUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
+originalUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
 type: article
@@ -256,6 +256,6 @@ related:
         height: 630
         isCached: true
 
-secured: "XJQu39r4b2hORjCwei4cGgKH1P+FptsBl4/sG6o9juOCjsvz3q8tCUUgSjmmHKOjoCAaEfdkIuEUENyLwPwF9AMyzhBDgavK2AYcqsCm9fV1aPTSiD6FOjCadFS+vS00RIkIJLB5sjriaG+R0HnBvPR+u6E7ub82dbDcimhC5FWPLbqWLb80qZEKaoIWkYWRr4ySTQtyOXogfX9yMPo9AVhdLs2AFrHH6AdkKkbIcqEpdzFGckSIfWaXpqkOxB3EkwB39J4eXbeb4z5h5HVE/V1R/Q+AtSgUhZCycOzmY0aCAH8FRRvWS/TZLe/RETdjGlhjrfYsvqxOmQJDfx7UW/wxqnJhfAwwHw6ukhz+g3ofz+PTgIiy9ZLz+phDCh9YyamVhX4tG5VtYV2a2312wuyVBscovTwQSL0pLjiIiqbuGxB2Ot8UwmenviNooF5bmEfTCsReh6UKznFLbxcPbpPLRQAqdLTly7tDdOkkmifHhPsQGpVDLBehVFkVkx9eOBTuIU3qNaAp4w1dFjydqQ==;NbzG5N9Rt17WJUrDOzA9Uw=="
+secured: "YDjf6TE63C9qzwtGhgkWNZLACDXs7TsBTL0scGahNjBADaJ/cFvbseMoJ5sM6DFC2/7yg1wb4WeNzIFTVkzyy9oca9cyEV5049JwAClHBkAy1bueyyXwD67krJE5k91GhASQNdyAIG/wIfsVwcAcqSq3s6mBxglUHmuxb9+USuLz0HOznM3YWZVXqPWI5DGkkkXAGgFw0gGDdAr0JcXtDtRiheR/cAbYkkioothn7h92BIjQGMaIr3TXRvQxc5oTSR01iPrm0kA69KPICAN9aFJpMXdhayQRP3zJLZblISGQyqyVNozN8qi6hqByrQUxOx6rHHbPMK7ukRs/JTOP1JGpBXcLby3wLXUGMH4+p44=;+zCYdaxkapMnUNi86mNBWg=="
 ---
 

@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-14-singapore-is-launching-a-50-million-program-to-advance-research-on-ai-and-cybersecurity.md",
+      "title": "Singapore is launching a $50 million program to advance research on AI and cybersecurity",
+      "excerpt": "The city-state will set up new communications testbeds in 5G and beyond-5G, support technology development and training, and build up a talent pool.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html",
+      "originalUrl": "https://www.cnbc.com/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106773377-1604299089782-gettyimages-1229319130-AFP_8TZ6T8.jpeg?v=1626150420",
+          "width": 5570,
+          "height": 3713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html",
+      "publishedDateTime": "2021-07-13T17:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-innatera-unveils-neuromorphic-ai-chip-to-accelerate-spiking-networks.md",
+      "title": "Innatera Unveils Neuromorphic AI Chip to Accelerate Spiking Networks",
+      "excerpt": "Innatera, the Dutch startup making neuromorphic AI accelerators for spiking neural networks, has produced its first chips, gauged their performance, and revealed details of their architecture. The company has also announced that Cadence and Synopsys co ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/news/50315/innatera-neuromorphic-ai-chip.html",
+      "originalUrl": "https://www.design-reuse.com/news/50315/innatera-neuromorphic-ai-chip.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.design-reuse.com/news_img2/homepage50315/Innatera-chip-photo.jpg",
+          "width": 1096,
+          "height": 762,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-festo-advances-robot-programming-with-ai.md",
+      "title": "Festo advances robot programming with AI",
+      "excerpt": "Festo partners with several international companies and universities to develop FLAIROP - Federated Learning for Robot Picking",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/festo-advances-robot-programming-with-ai/",
+      "originalUrl": "https://www.therobotreport.com/festo-advances-robot-programming-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/festo-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year.md",
       "title": "SAIC Motor says it will put Robotaxis capable of L4 self-driving on roads in China this year",
       "excerpt": "Chinese automotive design and manufacturing company SAIC Motor says it will launch 40 to 60 Robotaxis capable of Level 4 self-driving throughout Shanghai and Suzhou before the end of 2021. The bold statement was made by Zu Sijie,",
@@ -310,6 +448,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-baidu-shares-are-a-bargain-now-but-not-for-long.md",
+      "title": "Baidu Shares Are a Bargain Now, But Not for Long",
+      "excerpt": "They even have their hand in self-driving technologies ... be light at the end of the tunnel because of technical reasons. Baidu is falling into a potential support zone dating back to 2011.",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/",
+      "originalUrl": "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/amp/",
+      "publishedDateTime": "2021-07-13T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1052,176 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-informatica-expands-cloud-footprint-on-microsoft-azure-germany.md",
-      "title": "Informatica Expands Cloud Footprint on Microsoft Azure Germany",
-      "excerpt": "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/13/9407196.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-warburg-pincus-leads-153-mln-fundraising-for-uk-fintech-quantexa.md",
-      "title": "Warburg Pincus leads $153 mln fundraising for UK fintech Quantexa",
-      "excerpt": "UK-based Quantexa has raised $153 million in a funding round led by Warburg Pincus, the financial technology start-up said on Tuesday, as it seeks to accelerate its regional expansion and develop new products in areas including banking and insurance.",
-      "sourceUrl": null,
-      "webUrl": "https://kfgo.com/2021/07/13/warburg-pincus-leads-153-million-fundraising-for-uk-fintech-quantexa/",
-      "originalUrl": "https://www.nasdaq.com/articles/warburg-pincus-leads-%24153-mln-fundraising-for-uk-fintech-quantexa-2021-07-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.socastsrm.com/uploads/station/2105/fbShare.png?r=57822",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-quantexa-raises-153m-to-build-out-ai-based-big-data-tools-to-track-risk-and-run-investigations.md",
-      "title": "Quantexa raises $153M to build out AI-based big data tools to track risk and run investigations",
-      "excerpt": "As financial crime has become significantly more sophisticated, so too have the tools that are used to combat it. Now, Quantexa — one of the more interesting startups that has been building AI-based solutions to help detect and stop money laundering,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/12/quantexa-raises-153m/",
-      "originalUrl": "https://techcrunch.com/2021/07/12/quantexa-raises-153m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1148091243.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/12/quantexa-raises-153m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/12/quantexa-raises-153m/amp/",
-      "publishedDateTime": "2021-07-12T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details.md",
-      "title": "Google Pixel 6 Whitechapel chip rumor just spilled key details",
-      "excerpt": "As we get closer to the Pixel 6 's launch, we're bound to get more information on the in-house Whitechapel system-on-chip likely to power Google's phone. And thanks to some new Product Validation Test (PVT) units,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/news/google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details",
-      "originalUrl": "https://www.tomsguide.com/news/google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Enmxw8Dv93De8sxHsCTQAj-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tomsguide.com/amp/news/google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details",
-      "cdnAmpWebUrl": "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details",
-      "publishedDateTime": "2021-07-12T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

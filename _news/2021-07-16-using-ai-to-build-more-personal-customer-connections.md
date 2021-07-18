@@ -26,36 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "Unleashing The Power Of A Diverse Team To Build More Ethical AI Technologies"
-    excerpt: "In the world of AI and machine learning, we are quickly learning that data and models can often obscure the hard truths of a person’s lived experience. This is particularly true if the models are built by teams that are not representative of race,"
-    publishedDateTime: 2021-07-13T18:49:00Z
-    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/07/13/unleashing-the-power-of-a-diverse-team-to-build-more-ethical-ai-technologies/"
-    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/07/13/unleashing-the-power-of-a-diverse-team-to-build-more-ethical-ai-technologies/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/07/13/unleashing-the-power-of-a-diverse-team-to-build-more-ethical-ai-technologies/amp/"
+  - title: "What to do when AI brings more questions than answers"
+    excerpt: "Uncertainty is a tricky concept in the context of AI. But it's critical to understand it, particularly in enterprise applications."
+    publishedDateTime: 2021-07-16T21:20:00Z
+    webUrl: "https://venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/"
+    ampWebUrl: "https://venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60edc6b55e5f5511e5dafa02%2F0x0.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "BUDDI AI Announces Expansion of Executive Team to Bolster Innovative AI-Powered Healthcare Product Suite"
-    excerpt: "BUDDI AI, the leading provider of artificial intelligence (AI)-powered healthcare solutions, has announced that Vipul Kashyap has been appointed as Head of Clinical Informatics, Shankar Saibabu as Chief Operating Officer and Jeff Nussbaum as Chief Revenue Officer."
-    publishedDateTime: 2021-07-15T14:49:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-health-d3e198c5e6d053e9d8f85d325de530a9"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=800%2C450&strip=all"
+        width: 800
         height: 450
         isCached: true
+  - title: "CCC Brings Proven AI To Collision Repairers"
+    excerpt: "CCC Intelligent Solutions Inc. (CCC) announces its plan to further enhance CCC ONE®, the collision repair industry's leading estimating platform, incorporating advanced AI into its estimating application later this quarter."
+    publishedDateTime: 2021-07-15T12:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ccc-brings-proven-ai-to-collision-repairers-1030610745"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://mma.prnewswire.com/media/552049/CCC_Information_Services_Inc_Logo.jpg"
+        width: 388
+        height: 400
+        isCached: true
+  - title: "When Artificial Intelligence Comes to Control"
+    excerpt: "Applications of machine learning and other forms of artificial intelligence have been recognized in robotics and analytics. Now the technology is adding some spice to basic control applications."
+    publishedDateTime: 2021-07-15T13:00:00Z
+    webUrl: "https://www.automationworld.com/factory/iiot/article/21545091/artificial-intelligence-benefits-in-control-applications"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 19
 
 secured: "tOyYNYfjd4DJ30XRhFk8w22jAT6IYiiBy6zLev7BSo693ISca9QBMHpGCv0XIjwthvrzmJV2TpUewnZ7Y/uTr8uzNk4XqZtN8QN4jq1qO6iRgjXTKl3u1zRdZWQh8f3qIn2pX4ywvUnhH++LQfwiLZtPKjcNQQTyMuGHE/nr8omqF1OqMY2Vg4BltSnwJ9HHD4alAaHluwQpCXyCDamAr15hhvc5accPeRG2tHEFJ7hotg7l98KKwW4kKndv5snk9Noua3Js11/zJ0yjqYrw/OYygBHqs37//j6WCNUlc1xthLkNje5fztrGM+ZV6oqzmk6DBegSV3vAJ1ZzouQdQM3S2UkeVipKAH6gV4/Yn50=;N0KH9AYOoi79mDZ8xBGyag=="
 ---

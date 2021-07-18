@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subs
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/amp/"
 type: article
 quality: 86
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -136,6 +136,20 @@ related:
       - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tesla to now offer monthly self-driving subscriptions"
+    excerpt: "American electric vehicle and clean energy company Tesla has now started offering a monthly subscription for its Full Self Driving package for USD 199 per month"
+    publishedDateTime: 2021-07-18T11:36:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270346234/tesla-to-now-offer-monthly-self-driving-subscriptions"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1626608118.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "ia0l2KSMO1+vNRWDe5h7N+vXXqoxsy6Eij4stmPgFSZdehNEIOH0y4fE/z5pyjD9ITFPF0SiRXaAX/FK8K7M/Uwt3zk/n9uvlhx++kkmi7m2HQ23jZkKNyy3x2dvXQ2bD7azEn4885LbZxdutmoeHy3OxkxhLwRDUx+XoqBbNAnvqT9cmskpkKz6076DjPRjs25Rrn5j1ceC4UwFa/7QCDgZwIHUG3CuWwv/DqrHyzKsDp4pOfl8/oBwF9E9xM3jfaOeYd63yyj8MfDcbwdF1oyjUKUSZb9XVk1YKgUXTjD1QjhbYVmpyy5xmrC3o64h+UXXhlw3trIyJ+kwQYhYuLy1f0u6w3s6ghRdOaSDJe4VCVCQe+79TLoXlTyzMDO0UsTytcYWLNEw919Y7WTA7i52WEhBEINulG1Yx12bWGmDSwR6//ZY2nc4OpKj/Q7mmVmuGitN2kgu8QJJs6acRVoLw85Nuh8d7P76ya+1XUB3siCY6j8CbHpQKhIF+VVb2CZzTux7V7wFoTOyDzI7yw==;dpDmUQ+/lyk6TCHmg0S2vw=="

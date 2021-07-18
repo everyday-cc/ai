@@ -72,15 +72,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "ZoomInfo buys San Francisco AI company for $575M"
-    excerpt: "The deal is a major milestone for ZoomInfo and will significantly broaden the company’s sales platform, said CEO Henry Schuck."
-    publishedDateTime: 2021-07-13T17:33:00Z
-    webUrl: "https://www.bizjournals.com/portland/news/2021/07/13/zoominfo-buys-sf-company-for-575m.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "dKd1U7BumXNCSb7sVu5cLS7zJfVYfHWOMoPEUYnBDtGu82N+Pt8dej32YIJLC/kvKmUhGr4vyfWfJC+PQgPv5iyNc3iTAN8mqx44ETzjnIZuixC+CHv0c98O+sBVwXYw7fgLI42hhARIYYQDnxCASGvbNNNj4dCU98dxq58pHzuywqBGEq6m9rPWCg+895+7ukUAwE5V0xrnpbtEAqpd3uqoz5wTeM0ocAac/+oD3nVyeNL0+MfR8PS13m3AfGM1p9zAIcDyKL9LkQLAiiNhAAgKfO+chnoZotNXWE0fqFvamgxCYS2Mtanosl1Qgxu6OH6XrLeB1YjpjnPNY2qhb1yLUMKlSlJNY8xLVBMyPlMc1qf0V4odzdQAp0FNoFxzA+eQztlhYls2uwmn5/5YxjqZpZZE9vD/sQ9yxohOI/W3UNaIZnz5qku1SCNDsE/hkghCGD/TODiBx3DavJUagx+i6QdDi136wsTQXAgzxzHPr2QUO0FGllo4kg9krYloPsvQpm8KM9cnC5TKuV+8bw==;GPAKeTkqB6+FE8hcNP7xow=="
 ---

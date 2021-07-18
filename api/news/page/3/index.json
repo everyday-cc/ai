@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-15-china-grants-tax-breaks-policy-leeway-to-turn-shanghai-into-powerhouse-for-ai-chips-planes-and-pharmaceuticals.md",
+      "title": "China grants tax breaks, policy leeway to turn Shanghai into powerhouse for AI, chips, planes and pharmaceuticals",
+      "excerpt": "China’s central government has offered tax incentives, greater autonomy in local legislation and more administrative power to liberalise the capital markets in Shanghai, as Beijing envisions building Pudong into a ‘brilliant pearl’ of a strong socialist country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "originalUrl": "https://www.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/07/15/d8254c32-e551-11eb-9aba-1b7e08262541_image_hires_220157.jpeg?itok=fYw4eWfq&v=1626357723",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "publishedDateTime": "2021-07-15T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-opening-up-the-email-marketing-engine-to-artificial-intelligence.md",
       "title": "Opening Up the Email Marketing Engine to Artificial Intelligence",
       "excerpt": "With an average open email rate of 18.0% in 2020, it’s not like marketing teams are crushing this email thing. Wait, isn't 18% pretty good? We get that standards are low here, for sure. Bottom-line? Email remains a priority.",
@@ -659,7 +711,7 @@
       "originalUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -744,7 +796,7 @@
       "originalUrl": "https://wwd.com/business-news/technology/civil-rights-groups-protest-facial-recognition-tech-stores-1234882271/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -985,7 +1037,7 @@
       "originalUrl": "https://www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1173,57 +1225,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-ai-adoption-sees-massive-shift-accenture-exec-says.md",
-      "title": "AI adoption sees ‘massive shift,’ Accenture exec says",
-      "excerpt": "Sanjeev Vohra, the global lead of Accenture's applied intelligence division, says that enterprises are embracing technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/ai-adoption-sees-massive-shift-accenture-exec-says/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/ai-adoption-sees-massive-shift-accenture-exec-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/4574aa4b-cfbd-4727-9c72-e0a65f4556c8.png?w=1200&strip=all",
-          "width": 1070,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/ai-adoption-sees-massive-shift-accenture-exec-says/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/ai-adoption-sees-massive-shift-accenture-exec-says/amp/",
-      "publishedDateTime": "2021-07-14T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

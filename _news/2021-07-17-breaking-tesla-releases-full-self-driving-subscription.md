@@ -133,6 +133,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla to now offer monthly self-driving subscriptions"
+    excerpt: "American electric vehicle and clean energy company Tesla has now started offering a monthly subscription for its Full Self Driving package for USD 199 per month"
+    publishedDateTime: 2021-07-18T11:36:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270346234/tesla-to-now-offer-monthly-self-driving-subscriptions"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1626608118.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "26H+kO2D/yBbQHVfn3Uh7PvPsgOz9fhxHtYv8mHWeFnUkFTWMQTQ2t+CqcM0WBM3yQ7f3K5wLI8lVvLdD5oYLHQbFa86AfoJP7p5q0ZL4DR6thzJtjcBHtM7xyOeyi6BLgqnpssSxde6mGLY2feNma7WcRbW9KZ++e3TVdRdeNg6SB2MrrEMDkF5x2dPFffWBpfyBm0EXD+RekJWjGnd0p0OC59NovS+daTtxElsREP1S+fGhrrfLND7KZDPYFvuCHUvIkr2xWwHqF7CJosXWHQ+FdHPSabvr/c0vCo5EAPRgwxwRlxXg5U1t2aZxe+OOPKFnofHow5EkCfDlmzyY0OpYPIwnHI26kJZBXsAf5kPE4gQZoe1+Xx3PQMBWrf0monWsXatJtuU1WQqreT0kDhWYqUw0X5UGWeVey+jbhxSJuQe0I2BJ5BX4wACnIuiDaxDqDrBPTFuCkWWECh53Kg6nz7NYWW8B2z+5Ll0XCEM55AkHqdmQGNvdnaa7LDyltbpgJ9VrQibQjuT6J9+DA==;CF05kVqnUaFuBCeAj0fSeQ=="
 ---

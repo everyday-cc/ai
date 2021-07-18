@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/active-witness-launches-ai-p
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: SourceSecurity
@@ -42,6 +42,20 @@ related:
       - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
         width: 1000
         height: 581
+        isCached: true
+  - title: "BUDDI AI Announces Expansion of Executive Team to Bolster Innovative AI-Powered Healthcare Product Suite"
+    excerpt: "BUDDI AI, the leading provider of artificial intelligence (AI)-powered healthcare solutions, has announced that Vipul Kashyap has been appointed as Head of Clinical Informatics, Shankar Saibabu as Chief Operating Officer and Jeff Nussbaum as Chief Revenue Officer."
+    publishedDateTime: 2021-07-15T14:49:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-health-d3e198c5e6d053e9d8f85d325de530a9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "LHrpw7/MMTq6B1zT6tnxjRIYXtZESmFYHZZw/xpL8k6fvOfZ/SnIROS5joR1diwFGNvokRdQrdYivhR+zCU88JuP1Zufd80Y59aTK8y8yvmFyGKo/VSash0QiJJmC/x9PSrSndLqRnE542Tg06X9FsF+qGMVHAa4WMP7s7/SCMgsZg/z3/JZRai8RNg8lylZRU3z0jUJ9e24iG1ASF9E+aFaJNV4MmMDI1IBnGUIl0JNGOPUsEqBt3Cf3m28qR/c8k6b9LrSbV1UWvyJQLaUEQEX5BZsG5aRLEghCKt84bqHX/1dP+zxwyHaOfQCZej1n0sYsJqagJGkHpzpwFXMzrJOESzPnmRrZC6nmuHg0a4=;n0EPXRItZd+RlIhjniZWXw=="

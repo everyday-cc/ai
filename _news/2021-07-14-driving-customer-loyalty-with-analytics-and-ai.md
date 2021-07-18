@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nordstrom CTO on AI-powered analytics and consumer insights"
-    excerpt: "Reflecting on the start of this project ... is key to the platform architecture process. With more than 100 AI models leveraged daily at Nordstrom, an end user will indirectly see the benefit ..."
-    publishedDateTime: 2021-07-13T17:42:00Z
-    webUrl: "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/"
-    ampWebUrl: "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2014/09/nordstrom-mike-kalasnik-flickr.jpg?w=1200&strip=all"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Cape Analytics raises $44M to automate property inspections with AI"
     excerpt: "Cape Analytics, a company meshing AI with aerial imagery to power property insurance inspections, has raised $44 million."
     publishedDateTime: 2021-07-14T15:00:00Z
@@ -101,15 +85,6 @@ related:
         width: 315
         height: 408
         isCached: true
-  - title: "Startup Circle: How is Qandle using AI/ML and analytics to provide an All-In-On HR Tech solution?"
-    excerpt: "Qandle is an All-In-One HR Platform – established in 2016 and launched in 2018. The young startup focuses on re-engineering HR Technology from employees’ perspectives. It provides an array of tech-enabled solutions for HR tasks including – Hire and Onboard,"
-    publishedDateTime: 2021-07-15T09:19:00Z
-    webUrl: "https://www.ciol.com/qandle-using-ai-ml-analytics-hr-tech-solution/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 21
   - title: "Five9 Extends its Practical AI Solutions for Low-Code Development, Voice Biometrics, Real-Time Analytics and Agent Coaching"
     excerpt: "New features streamline the development of Intelligent Virtual Agents and help organizations easily deploy solutions to augment their contact centers with an AI-powered digital workforce. SAN RAMON, Calif."
     publishedDateTime: 2021-07-14T17:43:00Z
@@ -132,6 +107,15 @@ related:
     provider:
       name: Financial Buzz
       domain: financialbuzz.com
+    quality: 0
+  - title: "GoodData and Vertica Partner to Accelerate Cloud-Native Self-Service Analytics Adoption in the Enterprise"
+    excerpt: "GoodData, the leader in Data as a Service (DaaS) analytics infrastructure, today announced a strategic partnership with unified analytics platform provider Vertica. In a newly integrated product offering,"
+    publishedDateTime: 2021-07-15T13:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-gooddata-vertica-partner-accelerate-cloud-native-self-service-/2021/07/15/9410075.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "BxKQOPuKLHhYaukl5R+JLP38Q+L59PzpLKEdTdOccc6WKUxOU5F+1DrHfRIB8oLFiqshPbzKuK9JYPouRFG6+oDyB7ilzpmUJdtcaC4Z9MKse0yRZlmALlQ61jzSDU+H0agmYYNDaRyBaxcYNGk5wOtCOheM6dg56J6vgVxmS69WNYFc8BvZL7Fr93Rm4RCwwkCzw6fYKsNHkqspYp+wWlGvlMyCiw2EazPMh5hcf1FQsRIb0RNQMWdL3AiMm6QQNCPd0hoJ4GqdIIgqYSewEV0a3NObq3esKGoYwSMcPVl7Y495J4GeiJVl9zqNDFgVroGrJpeJnM7KXoI5Pxx4dGc2fzgyuPdvOrYhAiIYteIwqpwjHvULbZUFGX0eyGVp68WxbtiJF1lunBD0iS4F0hitB5t8HZWX9fkuH+7zWNlebsHCd5kFBrnsNc7w4j+GWIwl682zizE0c25IFzhDpukXf/5qLWggE2Z779BiAlsv2MJJCFDpSf8YyGdRqTUhAc9baJIF7E5WKFakuBMpkw==;uSga2VxReKQAIoq++hjthA=="

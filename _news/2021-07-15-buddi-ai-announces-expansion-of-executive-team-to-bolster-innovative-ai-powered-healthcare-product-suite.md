@@ -25,37 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Unleashing The Power Of A Diverse Team To Build More Ethical AI Technologies"
-    excerpt: "In the world of AI and machine learning, we are quickly learning that data and models can often obscure the hard truths of a person’s lived experience. This is particularly true if the models are built by teams that are not representative of race,"
-    publishedDateTime: 2021-07-13T18:49:00Z
-    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/07/13/unleashing-the-power-of-a-diverse-team-to-build-more-ethical-ai-technologies/"
-    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/07/13/unleashing-the-power-of-a-diverse-team-to-build-more-ethical-ai-technologies/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/07/13/unleashing-the-power-of-a-diverse-team-to-build-more-ethical-ai-technologies/amp/"
+  - title: "Active Witness launches AI powered access control solution"
+    excerpt: "Active Witness Corp., a provider of artificially intelligent, cloud-based visitor management solutions introduces its SIMA multi-factor access control system that stops unauthorised access"
+    publishedDateTime: 2021-07-14T10:56:00Z
+    webUrl: "https://www.sourcesecurity.com/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60edc6b55e5f5511e5dafa02%2F0x0.jpg"
-        width: 1200
-        height: 1200
+      - url: "https://www.sourcesecurity.com/img/news/612/pipeline-security-920.jpg"
+        width: 612
+        height: 355
         isCached: true
-  - title: "Using AI to Build More Personal Customer Connections"
-    excerpt: "As more brands rely on digital channels like chatbots, messaging apps and email campaigns to build relationships, AI and machine learning are critical in being able to use the big sets of data amassed to create more personalized experiences that demonstrate empathy and authenticity."
-    publishedDateTime: 2021-07-16T16:21:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/using-ai-to-build-more-personal-customer-connections/"
-    ampWebUrl: "https://www.cmswire.com/digital-experience/using-ai-to-build-more-personal-customer-connections/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/using-ai-to-build-more-personal-customer-connections/amp/"
+  - title: "Discuss.io launches artificial intelligence toolkit"
+    excerpt: "Video insight company Discuss.io has added a set of insight tools to its platform, based on artificial intelligence (AI) and natural language processing (NLP)."
+    publishedDateTime: 2021-07-16T09:19:00Z
+    webUrl: "https://www.research-live.com/article/news/discussio-launches-artificial-intelligence-toolkit/id/5086692"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5086692&name=discussio-launches-artificial-intelligence-toolkit"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5086692&name=discussio-launches-artificial-intelligence-toolkit"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
+      name: research
+      domain: research-live.com
     quality: 57
     images:
-      - url: "https://www.cmswire.com/-/media/85b2cc853bd94b889ae52ba14e2f84a0.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
         isCached: true
 
 secured: "5pK0DgCgZa9YzkxDjpWyp3j7VhR9uA67jxhzTWS5Oo4Ozx+2maeYX9Hzp9pPUxVP3u1McP0pxk2e7SeHzd2vGOBrvYOYSPHzDFjNOJjbaZrY4mguwL21z0Vqy0qTObuanZ1yMX4gYYb2PdXEE9pjgliYbtLZ4sguMeKxb2x0u1H9JzIQ2CpRXNOPEb7vUkSS1Ergp/64XLeOtvylloo2yVXwb4sOJCPby4OnX65u6SjW2LH/FKZzsICSC6PWE3JTEPG8wew+OhtNqjFwj5n9l0X1HgGCEp8adQ+eZkkFEoZEdzuO/8IwsZyGc40cc/Mdc7whcx588Q/ktYh3YjCTy93X/Bh7jd0EZXqQP0IPCrI=;x12q7YmqXJsvnya68bebbg=="

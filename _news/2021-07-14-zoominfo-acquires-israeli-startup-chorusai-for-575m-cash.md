@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai-for-575m-in-cash-money/amp/"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 800
         height: 392
         isCached: true
-  - title: "ZoomInfo buys San Francisco AI company for $575M"
-    excerpt: "The deal is a major milestone for ZoomInfo and will significantly broaden the company’s sales platform, said CEO Henry Schuck."
-    publishedDateTime: 2021-07-13T17:33:00Z
-    webUrl: "https://www.bizjournals.com/portland/news/2021/07/13/zoominfo-buys-sf-company-for-575m.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "mXWklhXUf/XksVbTiWDHVGHBfHaLxqB3d2iLBAmYlNXFVkTntrenLwdQ9G70fEul0TwUDK2GJ4rmUUGPRNBQstr7upzbVeRc+zKOZtJ6oFg53jG1/qyYKl0Kp+rX4vIih47+TsojrccRxYsYCOLNyhGAAQCM/StzHDyFtw/3am++cID81WYGbAgxEBvyMYlPMB0JGw/HhMBhpZZ4bqVbS5fZyJj5kGq5OEUqPsaVdc/hFzhnrkAo+Cdcx9AzZ4ISJEFUmtRlAk9mOJw4PHtuPXtJLFkmAJl66Siq9MqQzjlGCoZNIPLAc3bcznAopkktRhQ4ran+BM14qKGtpPdCMFtyKugPpEkuX9pFPR6mhfCwTT2nPj/MhAJfIhAUXFhGT3W0F9SOe1+j6MTqyNGzmRioXU5IFWzX/KMaM71lGhAuMuvkKz0tLD8/LadYt3Jra7Ckg251KyeRyfShaAtPXlokWcxBnAjWMcATLRggAOYMLARRjg/ycKzVnReO1Gw8jNxdqO0M/DnaIS7o7SOpxg==;qy8q3ScpLPbXersFJ4Xg/Q=="
 ---

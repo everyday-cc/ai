@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-18-natural-language-understanding-tough-for-neural-networks.md",
+      "title": "Natural language understanding tough for neural networks",
+      "excerpt": "The shortcomings of natural language understanding can make or break your AI and neural machine learning strategy. Here's how to deal.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/",
+      "originalUrl": "https://venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/nlp.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/amp/",
+      "publishedDateTime": "2021-07-18T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-hungryroot-delivers-ai-powered-grocery-experience.md",
       "title": "Hungryroot delivers AI-powered grocery experience",
       "excerpt": "Hungryroot uses AI-powered grocery delivery, matching consumer preferences to the weekly boxes they receive through an AI-powered algorithm.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/17/hungryroot-delivers-ai-powered-grocery-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -157,7 +209,7 @@
       "originalUrl": "https://www.zdnet.com/index.php/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -208,7 +260,7 @@
       "originalUrl": "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -356,7 +408,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/16/ai-weekly-can-ai-predict-labor-market-trends/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -451,7 +503,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1163,7 +1215,7 @@
       "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1194,58 +1246,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-in-pursuit-of-a-career-in-healthcare-she-became-an-engineer.md",
-      "title": "In Pursuit of a Career in Healthcare, She Became an Engineer",
-      "excerpt": "From Connecticut, Gabriella Lanouette builds algorithms used by ophthalmologists in developing countries around the world",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200?mod=business_minor_pos1",
-      "originalUrl": "https://www.wsj.com/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200?mod=business_minor_pos1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-368920/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200",
-      "publishedDateTime": "2021-07-16T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

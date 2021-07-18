@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Investing in Healthcare Stocks for Beginners"
-    excerpt: "Now that the world has one foot in and one foot out of a pandemic that affected nearly every aspect of life on Earth for more than a year, the healthcare sector has been hogging the spotlight"
-    publishedDateTime: 2021-07-13T18:52:00Z
-    webUrl: "https://www.aol.com/investing-healthcare-stocks-beginners-185200885.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/p7pUtcCSGjgFFcIZU01w3Q--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_gobankingrates_57/98926323da7c555c9cb3876f4fe76f51"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "Nxq/fMlU+CWpJGxtcCN8lF3IxKCm88uFpY2zGOQMAsB0DJMzxyvG4xMQMwbCeZbWDnHwwkPkCaWp7XcqxvbaqHTjZZUgBt4tCtZNEW5p7ZoUfgsgt/uiVDDRGXYkLoNou6RMq8qlX3RRPETmI68tY4oUtO/qSdRTnPPALvPPi3jiR3KnrYcYnBQixpCHYjqdQ/tC7NGGJJ4zR5Jmy51tIsvIljwyFSe4HdSHJchbS/glK2x+wbnPhq9HrUgrAEEltCJt+rMecfRqSmtgJ6LeMP7VjZLk+z5DSqes+7OR3fifMtzxDnwNfYXshKrOczk2wFVC2pkPKVA89Ob4yLxYv2cTr6I4rk3/MktMCz1sbdg=;54PwxXJZBi+RBDTz1IN6mQ=="
 ---

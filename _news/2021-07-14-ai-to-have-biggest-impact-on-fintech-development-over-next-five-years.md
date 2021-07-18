@@ -79,6 +79,20 @@ related:
         width: 669
         height: 438
         isCached: true
+  - title: "China’s JD spins off cloud and AI businesses to fintech unit"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-07-17T04:04:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit-2/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626473428_reuters-default.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "FinTech The Key Disruptor For Emerging Market Financial Services In 2021 And Beyond"
     excerpt: "Jupiter Asset Management has launched its latest whitepaper titled “The innovations disrupting financial services in Emerging Markets” in response to shifting dynamics of financial services in the Middle East."
     publishedDateTime: 2021-07-14T06:59:00Z
