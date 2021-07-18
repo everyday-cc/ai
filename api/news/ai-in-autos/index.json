@@ -254,7 +254,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -330,58 +330,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-global-self-driving-wheelchair-market-2021-emerging-technologies-opportunity-assessment-projections-and-future-opportunities-by-2026.md",
-      "title": "Global Self Driving Wheelchair Market 2021 Emerging Technologies, Opportunity Assessment, Projections and Future Opportunities by 2026",
-      "excerpt": "MarketQuest.biz has published another latest research report on Global Self Driving Wheelchair Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 that encapsulates vital details about the market current as well as future status during the mentioned forecast period of 2026.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2021-emerging-technologies-opportunity-assessment-projections-and-future-opportunities-by-2026-2021-07-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2021-emerging-technologies-opportunity-assessment-projections-and-future-opportunities-by-2026-2021-07-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1473,6 +1421,59 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future.md",
+      "title": "The lessons we learn from self-driving will drive our robotics future",
+      "excerpt": "Robotics is entering an exponential growth phase. There are increasingly new and diverse applications for robots, both the inspiring and the mundane. Just within the context of the COVID-19 pandemic response,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/",
+      "originalUrl": "https://venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1231721374.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/amp/",
+      "publishedDateTime": "2021-07-04T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

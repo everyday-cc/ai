@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Tesla launches full self driving subscriptions at $199 a month"
-excerpt: "Tesla has officially launched its Full Self-Driving (FSD) subscription package for $199 per month. Those who previously bought the Enhanced Autopilot package, the FDS feature would cost $99 a month. To date,"
-publishedDateTime: 2021-07-18T06:07:00Z
-originalUrl: "https://www.dailypioneer.com/2021/technology/tesla-launches-full-self-driving-subscriptions-at--199-a-month.html"
-webUrl: "https://www.dailypioneer.com/2021/technology/tesla-launches-full-self-driving-subscriptions-at--199-a-month.html"
+excerpt: "To date, Tesla offered the Full Self-Driving package for a one-time payment of $10,000. Tesla owners can cancel their monthly FSD subscription at any time, according to the website. According to Electrek,"
+publishedDateTime: 2021-07-18T08:32:00Z
+originalUrl: "https://gulfnews.com/business/tesla-launches-full-self-driving-subscriptions-at-199-a-month-1.1626597178223"
+webUrl: "https://gulfnews.com/business/tesla-launches-full-self-driving-subscriptions-at-199-a-month-1.1626597178223"
+ampWebUrl: "https://gulfnews.com/amp/business/tesla-launches-full-self-driving-subscriptions-at-199-a-month-1.1626597178223"
+cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/tesla-launches-full-self-driving-subscriptions-at-199-a-month-1.1626597178223"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: Gulf News
+  domain: gulfnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/tesla-launches-full-self-driving-subscriptions-at--199-a-month-2021-07-18.jpg"
-    width: 1000
-    height: 800
+  - url: "https://imagevars.gulfnews.com/2016/1/8/1_16a0803c500.1650250_2604346981_16a0803c500_medium.jpg"
+    width: 540
+    height: 405
     isCached: true
 
 related:
@@ -132,6 +134,6 @@ related:
         height: 675
         isCached: true
 
-secured: "3iC6RvFmNwmCGTzu5TuAn3+p2N+vzlP+YLK8lqiF6y/wapARUilVsTs6HwRNshwLhFUc/n813haclVQdtjAs8wdnErGbsqDCn2lCLFBV9JOiUI9NLG9sDAANo3NlFik0teJ4WSN6YQbMwFwFUo7h2l+1/ZplrSUjwoj2mANsk0Uv4MnId7Zc4jYob2qKrDhiuC1uNzRPJ2ixb0HnPey7pGlG89HhOcnQS2hunia/G2jpyBDIFhzBhL7PUR/cWFg6wq2UHllvI6hfYtHzVREYriT5ZJDrZP+KrB++8SFpE/Yn1vZnogve37eieQ9hz6HsntFhltpPTEnL3k+5dKCxw+elsZtAPyMl6b1xQEwftGQ=;lxH0Ot6Ib9tVcSpK1RDQZA=="
+secured: "hnJhQmCuIOBbIjU8O2dxS3Nd5hbf95UtiI00OuXurWdpEllGrqGOzQN4OYLLP9LqOlUYGJcChp9HajsxV2SmGw/YTtPlJveDuwPZAfrC8920sZ2Shk/lnxWEXHb1kLv1s6wNNJtfwQk2HvuhEWSqdcCSsSaDz+mRfpHqTKIiGUTad5H3fl2ninOHrfiVrFukK8ZnwbEdOqOlNrNOcEiXG4MlH0G8a7baiqGSsYazN8qhiHT0Zj31foej6koRmpabbsMnTrekfAXC+KX+Mf/uFYG7+YkXfsqwO/kcv0HYe3N+MA5XThLlJRvfzJwME2KbGa8nDt9Du4VLjs1sWEn0n4yv0CEkEnvgm+UFaRBss/Y=;uME5SaPq49Y7CX0I2agaKQ=="
 ---
 

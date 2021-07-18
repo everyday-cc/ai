@@ -63,23 +63,9 @@ related:
         height: 450
         isCached: true
   - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
-    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced today that it has won the Artificial Intelligence (AI) 2021 Microsoft Partner of the Year Award and been named a Finalist of the Global ISV Microsoft Partner of the Year Award for the fourth year in a row."
-    publishedDateTime: 2021-07-13T15:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030601855"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
-        width: 400
-        height: 260
-        isCached: true
-  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
     excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
-    publishedDateTime: 2021-07-14T08:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
+    publishedDateTime: 2021-07-14T04:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
     type: article
     provider:
       name: Business Insider

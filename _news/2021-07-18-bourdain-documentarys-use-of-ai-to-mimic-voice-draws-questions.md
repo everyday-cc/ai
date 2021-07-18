@@ -431,18 +431,18 @@ related:
         height: 452
         isCached: true
   - title: "AI Brought Anthony Bourdain's Voice Back To Life. Should It Have?"
-    excerpt: "\"We can have a documentary-ethics panel about it later,\" joked Morgan Neville, director of the new Anthony Bourdain documentary Roadrunner."
-    publishedDateTime: 2021-07-16T17:17:00Z
-    webUrl: "https://www.kuow.org/stories/ai-brought-anthony-bourdain-s-voice-back-to-life-should-it-have"
+    excerpt: "Burns, found the technique duplicitous, tweeting \"I feel like this tells you all you need to know about the ethics of the people behind this project.\" Writer and critic Jason Sheehan, who reviewed Roadrunner for NPR before its use of AI became public ..."
+    publishedDateTime: 2021-07-16T20:52:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1016838440"
     type: article
     provider:
-      name: KUOW
-      domain: kuow.org
+      name: Capital Public Radio
+      domain: capradio.org
     quality: 39
     images:
-      - url: "https://kuow-prod.imgix.net/store/3b7dd39e94197eee494c082b3393f467.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 837
-        height: 628
+      - url: "https://media.npr.org/assets/img/2021/07/16/rr_fp_00785-185acee304921a2d4c11b2d27021379d1338a0e1.jpg?s=6"
+        width: 948
+        height: 710
         isCached: true
   - title: "“Dicey Territory”: Controversy Erupts Over AI-Generated Voiceover In Morgan Neville’s Anthony Bourdain Documentary ‘Roadrunner’"
     excerpt: "Normally on the opening day of a Morgan Neville film, the talk would be about box office potential—after all, his 2018 Mr. Rogers documentary Won’t You Be My Neighbor? earned an astounding $23"

@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Servers Market Growth 2021: Emerging Growth Factors, Industry Share, Size, Growth Prospects, Business Development and Forecast to 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “AI Servers Market” report"
+    publishedDateTime: 2021-07-16T10:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-servers-market-growth-2021-emerging-growth-factors-industry-share-size-growth-prospects-business-development-and-forecast-to-2027-2021-07-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Accounting Market Report by Size, Share, Production, Revenue, Price and Gross Margin: Global Forecast Report 2021 to 2027"
     excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in"
     publishedDateTime: 2021-07-14T10:28:00Z

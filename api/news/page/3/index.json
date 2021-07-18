@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-15-opening-up-the-email-marketing-engine-to-artificial-intelligence.md",
+      "title": "Opening Up the Email Marketing Engine to Artificial Intelligence",
+      "excerpt": "With an average open email rate of 18.0% in 2020, it’s not like marketing teams are crushing this email thing. Wait, isn't 18% pretty good? We get that standards are low here, for sure. Bottom-line? Email remains a priority.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/2a91c10dbc3d4d22a7c8a94025410d28.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-07-15T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-how-artificial-intelligence-is-fighting-wildfires.md",
       "title": "How Artificial Intelligence Is Fighting Wildfires",
       "excerpt": "A lab at the University of California, San Diego, uses data to figure out how fires will burn, and how to help prevent them.",
@@ -415,7 +458,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -561,7 +604,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -768,58 +811,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-global-self-driving-wheelchair-market-2021-emerging-technologies-opportunity-assessment-projections-and-future-opportunities-by-2026.md",
-      "title": "Global Self Driving Wheelchair Market 2021 Emerging Technologies, Opportunity Assessment, Projections and Future Opportunities by 2026",
-      "excerpt": "MarketQuest.biz has published another latest research report on Global Self Driving Wheelchair Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 that encapsulates vital details about the market current as well as future status during the mentioned forecast period of 2026.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2021-emerging-technologies-opportunity-assessment-projections-and-future-opportunities-by-2026-2021-07-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2021-emerging-technologies-opportunity-assessment-projections-and-future-opportunities-by-2026-2021-07-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

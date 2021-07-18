@@ -2,9 +2,9 @@
 category: news
 title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
 excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
-publishedDateTime: 2021-07-14T08:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
-webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
+publishedDateTime: 2021-07-14T04:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
+webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
 type: article
 quality: 83
 heat: -1
@@ -75,20 +75,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
-    excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced today that it has won the Artificial Intelligence (AI) 2021 Microsoft Partner of the Year Award and been named a Finalist of the Global ISV Microsoft Partner of the Year Award for the fourth year in a row."
-    publishedDateTime: 2021-07-13T15:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030601855"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://mma.prnewswire.com/media/371539/Icertis_Logo.jpg"
-        width: 400
-        height: 260
-        isCached: true
   - title: "Microsoft Launches 'Inside Azure for IT' Learning Portal"
     excerpt: "Microsoft on Monday announced the launch of Inside Azure for IT, a new learning site \"for cloud professionals of all skill levels.\" Inside Azure for IT contains links to so-called \"fireside chats ..."
     publishedDateTime: 2021-07-13T19:38:00Z
@@ -146,6 +132,6 @@ related:
         height: 504
         isCached: true
 
-secured: "tKm91w91P7600nY2aPcSsaeYR8sQUlpycQGHbXvyZ/T+S4jMEHHWhNNIeRND4Rj/tUDNRdTLhRa49wiJQMhGQz63jVAy0YeenA3zpB/lbJg9cA6qqAAaYlUH+rQvEhfb4J7cAIsvBX2jKYaRAo/OjqS32vrnQ+X0oIL8tj6kWt6P134EdiNvwfmXVT/hrwSG266F2QhUpezhF26T4dus2NKtOABMEzZS2495o6GCoTMSl1JZJlyDvGKYsRI0irHLgaWeHEeqNvvJaGS++5pQMFyXDlyd1CwFsVM5zwKYpDqfzHUh22FTEKcK2m9dv+y9G0oOf2Vpo3iQATKl9aq0uJ+d5W+1DrOcRHpLUl8tF9RFs92B6IlLxqoyfMxxiy2TPRDsH1X04sKEv2iCDzT9cbiVO7px+l3V4BNE1bl0Ds8AR0Zj0K7zXkzFYu3+Uxlcd4Cui2Fzq5hu46R/pxegEnKhmYD0KRlglstJF0WtRYvrRPnUpLuXo+y5xpd/O+eceCxFu3MGkK9RHSNRS9512g==;ZnIrTqIQyWXC00LUsNlNVQ=="
+secured: "WAC2xJDWZ+3/qGzPaJDt+yMOzvKMF7i6YzHxA+rNwnt5qj0XcxxWRqRQVOYGeJR7KsiLhdV77OlKFP7PzrwQude57YjjhnjhPHtkWSHQa74FUHkGkHZ7Frm6XNEOTJ8KvqjK+YikEUS++l5VxYgGqQetTQnvHvd0ix/tv7nlFyYp4KXT4obPpyZYXc7LBT/9tjR2vitzfc/2l/WeHzYEejph1F55+oYIVC2C43/4dOcF2TdK+8y8Yaw0maF9Kju7CnktE6uZ5YagOUe4DFBwxu2NOjLmisyH0HZHgfkmhT5SYgUxy2l048drqDYXrcxVuA9ANdqdpagHy7uHuNS+ghRmDRyn3i8nE5M5Ibf3qeM=;CgfhYBk+2BwDPCMglebEmA=="
 ---
 

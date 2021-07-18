@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-t
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/"
 type: article
 quality: 90
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://files.texaspolicy.com/uploads/2021/06/23154309/Police-1350x759.jpg"
         width: 1350
         height: 759
-        isCached: true
-  - title: "Facial Recognition Is Doing Harm Right Now. It’s Unacceptable for Lawmakers To Do Anything Other Than Ban It."
-    excerpt: "The House Judiciary Committee is holding a hearing today on facial recognition technology. They’re expected to discuss a wide range of issues including the recent GAO report on federal government use of facial recognition and the Facial Recognition and Biometric Technology Moratorium Act."
-    publishedDateTime: 2021-07-13T15:27:00Z
-    webUrl: "https://www.commondreams.org/newswire/2021/07/13/facial-recognition-doing-harm-right-now-its-unacceptable-lawmakers-do-anything"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 20
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/media_image_1x_xl/public/2021-07/merkel-white-house-3600x2367.jpg?h=5526124e&itok=T129sNw1"
-        width: 391
-        height: 221
         isCached: true
 
 secured: "72YjKlJVSDSlj7nG2FZPfiyvllsQChxr2mK9IusQM1c6qZP9klFPhRlP2c0goTjlpAGkLvj/Miv/yhhXnuUZ5PP0jHoJHP/OqgpQAsdyiHvNHKzyTb5WubY9AEpHvKsfastIliUaLq7dbf/sHEf/VaAmSomYhdVLmAHpugJdcPU/34VQjmMLjYNySB4nSaSm3RE3FIrTaZyQJyKyDmQzT6I77uWa4yx0ni4B2J6CFeMPXPkPzTQWO/R84JUHuKJDuD4kVDyDekKyxCwwM8JHE/VufPxCLK3OSNtdgPNIOrqwJ0BAJ/KXLJShCUvWaCQAOkQsA73vdetwB9altEud3POfUElTR88STIiKXDyg+rA=;uwew8snOVD+Mc7J+xrdmpg=="

@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Whether Those Endless Edge Or Corner Cases Are The Long-Tail Doom For AI Self-Driving Cars"
-    excerpt: "Taking a close look at the presumed endless list of edge or corner cases that might stymy AI self-driving cars and leave them in the long-tail dust."
-    publishedDateTime: 2021-07-13T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/13/whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/13/whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/13/whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b4686a72e32cc981af2973%2F0x0.jpg%3FcropX1%3D330%26cropX2%3D2911%26cropY1%3D310%26cropY2%3D2088"
-        width: 1200
-        height: 827
-        isCached: true
   - title: "Hyundai to pilot its AI-powered, self-driving RoboShuttle service"
     excerpt: "The Hyundai RoboShuttle can perceive its surroundings, make decisions, and also control itself whilst on the road..The shuttle's self-driving technology has a range of Level 4-comparable core technologies and has been developed in-house."
     publishedDateTime: 2021-07-14T09:33:00Z
@@ -83,15 +67,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Self-driving specialist Pony.ai sets course for mass production"
-    excerpt: "Pony.ai plans to mass-produce its Level 4 self-driving system by 2023 as the industry works toward commercialising the technology. That was the message Pony.ai gave during the World Artificial Intelligence Conference held from Wednesday to Saturday in Shanghai,"
-    publishedDateTime: 2021-07-13T15:20:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/07/13/self-driving-specialist-pony-ai-sets-course-for-mass-production/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
   - title: "Every city's drivers have quirks. Studying them could make self-driving cars work anywhere"
     excerpt: "To understand why it's so hard to make a car that drives itself, pay attention to how people cross the street next time you travel. In Los Angeles, pedestrians wait"
     publishedDateTime: 2021-07-16T08:15:00Z

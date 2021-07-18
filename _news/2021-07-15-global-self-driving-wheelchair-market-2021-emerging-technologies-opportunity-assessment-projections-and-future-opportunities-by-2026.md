@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-self-driving-whee
 webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2021-emerging-technologies-opportunity-assessment-projections-and-future-opportunities-by-2026-2021-07-14"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: MarketWatch
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Service Robotics Market Report 2021-2025: Technology Trends, Increasing Research and Development Expenditure, Government Initiatives, Co-Bots"
-    excerpt: "The \"Service Robotics Market (Impact of COVID-19) and Volume Analysis by Type (Professional Service Robots, Personal and Domestic Service Robots) and Key Players Analysis - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-07-13T16:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-service-robotics-market-report-2021-2025-technology-/2021/07/13/9408226.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Project Management Professionals Working in Financial Services Reveal Biggest Concerns and Opportunities for Working Post-lockdown - New APM Study Rev"
     excerpt: "Over a quarter (28 per cent) of project managers working in financial services sector see new ways of working as the biggest opportunity67 per cent of project professionals say their organisation is planning on returning employees to the office post-lockdownThe majority (75 per cent) of those whose employer is planning a return to the office say they feel anxious about itLONDON--(BUSINESS WIRE)--Wi."
     publishedDateTime: 2021-07-15T13:02:00Z

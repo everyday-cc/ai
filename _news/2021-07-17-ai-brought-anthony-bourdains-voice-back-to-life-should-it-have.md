@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AI Brought Anthony Bourdain's Voice Back To Life. Should It Have?"
-excerpt: "\"We can have a documentary-ethics panel about it later,\" joked Morgan Neville, director of the new Anthony Bourdain documentary Roadrunner."
-publishedDateTime: 2021-07-16T17:17:00Z
-originalUrl: "https://www.kuow.org/stories/ai-brought-anthony-bourdain-s-voice-back-to-life-should-it-have"
-webUrl: "https://www.kuow.org/stories/ai-brought-anthony-bourdain-s-voice-back-to-life-should-it-have"
+excerpt: "Burns, found the technique duplicitous, tweeting \"I feel like this tells you all you need to know about the ethics of the people behind this project.\" Writer and critic Jason Sheehan, who reviewed Roadrunner for NPR before its use of AI became public ..."
+publishedDateTime: 2021-07-16T20:52:00Z
+originalUrl: "https://www.capradio.org/news/npr/story?storyid=1016838440"
+webUrl: "https://www.capradio.org/news/npr/story?storyid=1016838440"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: Capital Public Radio
+  domain: capradio.org
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://kuow-prod.imgix.net/store/3b7dd39e94197eee494c082b3393f467.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 837
-    height: 628
+  - url: "https://media.npr.org/assets/img/2021/07/16/rr_fp_00785-185acee304921a2d4c11b2d27021379d1338a0e1.jpg?s=6"
+    width: 948
+    height: 710
     isCached: true
 
 related:
@@ -462,6 +462,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "NyD13q2STQOiZzQ95oNE7akhvR0gJHNPDWItZ1Lhl1U26M3p5wL4P9IR+bKTZOo/TEn6zKi7PWIDeOVNvxRYE0ATWMH1naa0lugJ4zykdGmk2xCzsmPLWc19MElz4OzzIyrImuSxBWvEQr8CmMNtLF9zmzXqFawy15iKPS7NzBBjD2iJl/XuQlFs9pEtvXarvZ8f3xNSIKrc3b3avsGS5tgFYG41Iz7BLCa12f0wjlBhsA/Mz6oTvs2dwisAoVxCjbrRVv7WmiQQ5tpc1JIP07qP9IC99klZOfl5cs8/ab3sdzaJZlA4mEomVUg/O5NTHWYJgyBuALQQmhKBYnzKOrz2xTScijB+t92iTvoa8vaMGC0poMoHfH9VIKJ6r8X6gLJN8VNmbBnA/VXGIiMnNV1AkPxMWi2oiDTnSQOxhNtbQ6FCAqtiRIKe4ds3KIOkqf5F98FGgzzEYpQGm5qq+Q+p/CCBgb+ebiobww4JqjY1KBaP2ch+S6xlTAgPSiLm3WQwSsKCXFsc4rZcLOBURQ==;4jGBbEs1xJOdAZGxKtfNeg=="
+secured: "/CVTGlYAkEYA6TejWcfnKdG5x3lT2br7gnECCX3T3/ZBP/GxoOIJ2N1UTcVvxRPMbiBhkrirol3piVPyKcUDAnQqsOYeX+wk95gRnWhRCbXaPBQ9fDYtDBreNGL/8SG2GRyBmOMOvZNb+GEz/MsdCtf1iiMaCGXix0u6hQsZ1R3DY3ZDHr3avPe7E0OkNs0/gxj6OGZRcVaXs/zwXbofOoFwu0afIO68Ep5XuORhBYelKoQsQJBEMW4vtTOJzKbrovv4y/riFPJR8HAZizj7Zx2forzSuEwzNeko+wQfu+PRpqVkAuLDxCp+Afn7R2gO0y03Hihbh/vne0NtRWwCGMbn+jooCLwMQJimmDbusoM=;GDhDHZKQjPYC4YEcKi54LA=="
 ---
 

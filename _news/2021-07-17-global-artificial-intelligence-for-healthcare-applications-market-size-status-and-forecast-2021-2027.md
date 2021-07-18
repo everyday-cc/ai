@@ -102,6 +102,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Servers Market Growth 2021: Emerging Growth Factors, Industry Share, Size, Growth Prospects, Business Development and Forecast to 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “AI Servers Market” report"
+    publishedDateTime: 2021-07-16T10:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-servers-market-growth-2021-emerging-growth-factors-industry-share-size-growth-prospects-business-development-and-forecast-to-2027-2021-07-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Digital Assistants in Healthcare Market Technology Progress Analysis 2021 to 2025"
     excerpt: "Global “Digital Assistants in Healthcare Market” 2021 Research report produces ... preferences towards technologically advanced products, which makes use of Artificial Intelligence (AI)and the Internet of things (IoT) as they offer many benefits ..."
     publishedDateTime: 2021-07-15T06:33:00Z

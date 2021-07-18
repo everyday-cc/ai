@@ -71,20 +71,6 @@ related:
         width: 470
         height: 290
         isCached: true
-  - title: "Facial Recognition Is Doing Harm Right Now. It’s Unacceptable for Lawmakers To Do Anything Other Than Ban It."
-    excerpt: "The House Judiciary Committee is holding a hearing today on facial recognition technology. They’re expected to discuss a wide range of issues including the recent GAO report on federal government use of facial recognition and the Facial Recognition and Biometric Technology Moratorium Act."
-    publishedDateTime: 2021-07-13T15:27:00Z
-    webUrl: "https://www.commondreams.org/newswire/2021/07/13/facial-recognition-doing-harm-right-now-its-unacceptable-lawmakers-do-anything"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 20
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/media_image_1x_xl/public/2021-07/merkel-white-house-3600x2367.jpg?h=5526124e&itok=T129sNw1"
-        width: 391
-        height: 221
-        isCached: true
 
 secured: "/UAAGdky17jQjR5Cm1bgNs8lR0Nt5FgMsleDS2SENxt0cscG50JX22dfKDdb0dH52TOel91W5s/Pth9X0DLBkR/ax3783uuh2bSMVvNKixriFtoHVpQiGuOjrxEQQVzWDub0wGF0NyC1ag+9a++A6StdaySYb9Q9I5tw0O7LSyFYtRaFDeUA+pRjN1wdgY0z/E5lX4N2dyzLs13Az69nWD2lYYH1jRk2m0nnb2xfd1kjTVbK3rDGLxIx5I3LUCYqbxFNfVfkX87Ynyd01S7DpELbtCDWImRS6wrVtAyapCXnwJqZ3Dt/8MfNnHr1x+ItUixZXU7x/SUanlUn9K3RcEy+c96JMnLwMKyDnqjP09I=;PZ1e2U44tUT97ZT1+Z8BDQ=="
 ---

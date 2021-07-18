@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-17T11:43:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-segment-by-revenue-size-cagr-and-growth-analysis-2025-amdadvanced-micro-devices-2021-07-17"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-segment-by-revenue-size-cagr-and-growth-analysis-2025-amdadvanced-micro-devices-2021-07-17"
 type: article
-quality: 56
+quality: 73
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -165,6 +166,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 23
+  - title: "Artificial Intelligence in Education System Market Absolute Report : Industry and Geography Insights and Opportunity Analysis till 2030"
+    excerpt: "MarketResearch.Biz –:As per a study on the Artificial Intelligence in Education System, recently introduced into the huge publication of MarketResearch.Biz, the global market is very likely to obtain considerable impetus in the future."
+    publishedDateTime: 2021-07-14T13:21:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-education-system-market-absolute-report-industry-and-geography-insights-and-opportunity-analysis-till-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/LLL-6-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Global Natural Language Processing for Finance Market By Excellent Opportunities, Industry Growth, Size, And Statistics Forecasts Up To 2027"
     excerpt: "Therefore, Researchmoz discusses all aspects of growth, including threats and barriers. As well as This report provides an deep analysis of the global Natural Language Processing for Finance market and serves as a guide to stakeholders searching for new investment opportunities."
     publishedDateTime: 2021-07-14T17:17:00Z

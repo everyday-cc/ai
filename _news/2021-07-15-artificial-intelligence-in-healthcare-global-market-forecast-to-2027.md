@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15"
 type: article
 quality: 84
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Servers Market Growth 2021: Emerging Growth Factors, Industry Share, Size, Growth Prospects, Business Development and Forecast to 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “AI Servers Market” report"
+    publishedDateTime: 2021-07-16T10:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-servers-market-growth-2021-emerging-growth-factors-industry-share-size-growth-prospects-business-development-and-forecast-to-2027-2021-07-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

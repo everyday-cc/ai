@@ -643,6 +643,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-17-artificial-intelligence-in-supply-chain-market-is-set-to-fly-high-in-years-to-come.md",
+      "title": "Artificial Intelligence in Supply Chain Market is Set To Fly High in Years to Come",
+      "excerpt": "Artificial Intelligence in Supply Chain Market Analysis, Artificial Intelligence in Supply Chain Market Forecast, Artificial Intelligence in Supply Chain Market Growth, Artificial Intelligence in Supply Chain Market Opportunity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-is-set-to-fly-high-in-years-to-come-2021-07-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-is-set-to-fly-high-in-years-to-come-2021-07-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-16T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-tips-for-building-a-successful-startup.md",
       "title": "Tips For Building A Successful Startup",
       "excerpt": "Starting a new business is exciting, but it can be fraught with difficulties if you don’t know what you are doing. Here are some tips to help",
@@ -1194,49 +1246,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-dotmatics-announces-support-for-aws-for-health-initiative.md",
-      "title": "Dotmatics Announces Support for AWS for Health Initiative",
-      "excerpt": "Dotmatics announced support for the AWS to improve laboratory efficiency and accelerate the pace of scientific innovation by facilitating faster data access.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210716/Dotmatics-Announces-Support-for-AWS-for-Health-Initiative.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210716/Dotmatics-Announces-Support-for-AWS-for-Health-Initiative.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/4/By_Phonlamai_Photo_034cc2a48c3c4bd2a57e29e397b7210a-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210716/Dotmatics-Announces-Support-for-AWS-for-Health-Initiative.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210716/Dotmatics-Announces-Support-for-AWS-for-Health-Initiative.aspx",
-      "publishedDateTime": "2021-07-16T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

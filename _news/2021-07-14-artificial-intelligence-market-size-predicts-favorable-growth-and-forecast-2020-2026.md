@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence(AI)Chips Market Segment by Revenue, Size, CAGR and Growth Analysis 2025-AMD(Advanced Micro Devices)"
+    excerpt: "This report presents the worldwide Artificial Intelligence (AI)Chips System market size (value, production and consumption), splits the breakdown (data status 2016-2020, and forecast to 2025), by Companies,"
+    publishedDateTime: 2021-07-17T11:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-segment-by-revenue-size-cagr-and-growth-analysis-2025-amdadvanced-micro-devices-2021-07-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Edge AI Market Size and Growth Prospects 2019 – 2027"
     excerpt: "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry"
     publishedDateTime: 2021-07-15T20:08:00Z
@@ -75,20 +89,6 @@ related:
     excerpt: "Jul 15, 2021 (Heraldkeepers) -- The scope of the report includes a detailed study of Deep Learning Marketwith the reasons given for variations in the growth of the industry in certain regions. Deep Learning is a subfield of machine learning concerned with ..."
     publishedDateTime: 2021-07-15T20:19:00Z
     webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2021-to-2026-industry-trends-share-size-growth-opportunity-and-forecasts-2021-07-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence(AI)Chips Market Segment by Revenue, Size, CAGR and Growth Analysis 2025-AMD(Advanced Micro Devices)"
-    excerpt: "This report presents the worldwide Artificial Intelligence (AI)Chips System market size (value, production and consumption), splits the breakdown (data status 2016-2020, and forecast to 2025), by Companies,"
-    publishedDateTime: 2021-07-17T11:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-segment-by-revenue-size-cagr-and-growth-analysis-2025-amdadvanced-micro-devices-2021-07-17"
     type: article
     provider:
       name: MarketWatch
@@ -166,6 +166,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 23
+  - title: "Artificial Intelligence in Education System Market Absolute Report : Industry and Geography Insights and Opportunity Analysis till 2030"
+    excerpt: "MarketResearch.Biz –:As per a study on the Artificial Intelligence in Education System, recently introduced into the huge publication of MarketResearch.Biz, the global market is very likely to obtain considerable impetus in the future."
+    publishedDateTime: 2021-07-14T13:21:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-education-system-market-absolute-report-industry-and-geography-insights-and-opportunity-analysis-till-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/LLL-6-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Global Natural Language Processing for Finance Market By Excellent Opportunities, Industry Growth, Size, And Statistics Forecasts Up To 2027"
     excerpt: "Therefore, Researchmoz discusses all aspects of growth, including threats and barriers. As well as This report provides an deep analysis of the global Natural Language Processing for Finance market and serves as a guide to stakeholders searching for new investment opportunities."
     publishedDateTime: 2021-07-14T17:17:00Z

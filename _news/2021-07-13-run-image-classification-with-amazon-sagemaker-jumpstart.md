@@ -43,34 +43,6 @@ related:
         width: 1588
         height: 934
         isCached: true
-  - title: "Automate a centralized deployment of Amazon SageMaker Studio with AWS Service Catalog"
-    excerpt: "This post outlines the best practices for provisioning Amazon SageMaker Studio for data science teams and provides reference architectures and AWS CloudFormation templates to help you get started. We use AWS Service Catalog to provision a Studio domain and users. The AWS Service Catalog allows you to"
-    publishedDateTime: 2021-07-13T16:15:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-a-centralized-deployment-of-amazon-sagemaker-studio-with-aws-service-catalog/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 97
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML3314-image01.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Defect detection and classification in manufacturing using Amazon Lookout for Vision and Amazon Rekognition Custom Labels"
-    excerpt: "Defect detection during manufacturing processes is a vital step to ensure product quality. The timely detection of faults or defects and taking appropriate actions are essential to reduce operational and quality-related costs. According to Aberdeen’s research, “Many organizations will have true quality-related"
-    publishedDateTime: 2021-07-13T16:01:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/defect-detection-and-classification-in-manufacturing-using-amazon-lookout-for-vision-and-amazon-rekognition-custom-labels/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 81
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/02/ml3795-image013.jpg"
-        width: 2019
-        height: 699
-        isCached: true
 
 secured: "kZTxPE9zwEHjlTxM2Oysi+ox7fc32chgRHeFmdbJK9W6JZYnoIIhejMlPEb9h/HzbkwqnwgU8beKgO1J58tv89dk7jiU1PPRdP5XS/iU9bQGRypSIYrcBqB5iaIXNUrdT5zjhhnNPyH8M6ODxeFtFpUmekPTpkJE3bdelHA1vXqNGCKqAncrGqUrWEmzkC3ESVfhQ3rKMloBbkwo9jlfBbLrn4LyCGPKrLAySXwnwRA1+Fwew66ESNzr7Hd0a+GLuzHVf/+xGOIjW8rhnMwzCcBKfi1SZJxyJHHyp2tgdeWqbuaRSGgbQdukrEpGXkFsmCwqRP/XNK35EqGe0JGmhfmoUJZu5lGpgkarb0Zp7N8=;b3UO2z4tB8aJ2+ycNEne3w=="
 ---

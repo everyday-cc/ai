@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Service Robotics Market Report 2021-2025: Technology Trends, Increasing Research and Development Expenditure, Government Initiatives, Co-Bots"
-    excerpt: "The \"Service Robotics Market (Impact of COVID-19) and Volume Analysis by Type (Professional Service Robots, Personal and Domestic Service Robots) and Key Players Analysis - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-07-13T16:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-service-robotics-market-report-2021-2025-technology-/2021/07/13/9408226.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "8O78axYZ1XD5ooA0Aoa+zIDAwBYPEXytc36l4bh2GTbthD1AZ0Jlx1JsosoaPVI+JFxjj3QmPny2sr4y7rsLtepuWargZiFjQroluOeiVvV91QHjTfn3KVnNXL0TxgU4UQcNmf+Hb0M97V8Ha0H8VNprpJTItsj6f316Z4Ttw2AAQBHSLNxUv0hXRgP9Cq4PZuTBDL9nZz5Jbb6xtfyaBgxXXzYsxocq/Ot/Wlvx8RgL9iqahZDvKmKd/0rgPU26OtwbKrFn53i463coxdgcH/J3LMbUradQCICZ9lmjSEeJjHFuX9znIeLtx2hZ7uo52XhhSB0V//hw8/2Ta2/4F4UOLiPUoC5Kv+zUA+1tn5g=;Nkh2ca57cUa7/v2ESN4GjQ=="
 ---
