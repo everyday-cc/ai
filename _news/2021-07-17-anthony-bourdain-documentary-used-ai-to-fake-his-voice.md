@@ -94,22 +94,6 @@ related:
         width: 1194
         height: 672
         isCached: true
-  - title: "AI narration of chef Anthony Bourdain's voice sparks row"
-    excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-    publishedDateTime: 2021-07-16T13:33:00Z
-    webUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
-    ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7458/production/_119448792_gettyimages-187622944.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "The Ethics of a Deepfake Anthony Bourdain Voice"
     excerpt: "The new documentary “Roadrunner” uses A.I.-generated audio without disclosing it to viewers. How should we feel about that?"
     publishedDateTime: 2021-07-17T21:54:00Z
@@ -221,6 +205,22 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/anthony-bourdain-visits-the-build-series-to-discuss-raw-news-photo-1626445038.jpg?crop=1xw:0.72745xh;center,top&resize=1200:*"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AI narration of chef Anthony Bourdain's voice sparks row"
+    excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
+    publishedDateTime: 2021-07-16T14:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-57842514"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-57842514.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57842514.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7458/production/_119448792_gettyimages-187622944.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Anthony Bourdain Doc Under Fire for Using AI to Mimic the Late Chef’s Voice"
     excerpt: "Oscar-winning filmmaker Morgan Neville said Bourdain’s widow Ottavia consented to the deepfake’s use—a claim she disputed on Twitter."
@@ -449,6 +449,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "/V91RCiy03TO/dO8H5paxlnFHnL8QJalR5FPDWPjPlL9DXztetuAj8EPidsEfP/L1P/ukBIWtuY1zSgkTu0N8EzDxc2sSNWCPUSr5Dc5/TnZPc1z7grWbpSEw0reNaQ2RsfDk9AFpBFFmqMGZDnR7XbtPY4uviU2Y3xm126G12A4ks4S32sVQbw5qbiGO9YFgm04JaEO6bo0S/xYTIC3ZhNliDhJUzqekVrszvdiUglCebIMQsRkn/CqDArwEYsa2MDxwzOszSLdETjZcJ4jJiHpWWiaxJ/waR6ksCK7GSGZZ+xRoZ7tQK4YMn3vYL7YyAWhU9GR3/1Vyanclwm/980tAYVGn4cUlExJpIkBG0I=;oUAeXVhfF0MBwwHJBm8jiQ=="
+secured: "lSB4YRQppvBpZvmo+tF7Z4piRrykVOWKKRz6IUqbGk2P2Dyjip1bYOXDyLZ6/u0aDy90AtIHIfq/TKpEIirTRKMiaXw2ovIGQY5t1ckam7rZ9wAuXez6OHex/rTG3DMO/4NjMw6fS3/d1a1RynL37ailFSjcKvjfDFYh0JUtqHQs1ShLJBjI3q0GBC/fo8YjyO03cbDf1QXgTzAKNpz3E42oNXgcGKmjypPx0Gk0QepJ3JXR5z9qIY9Vi0Pu4D1nwYNUO1qjsqk7P2Dycsc8AcbLkihBlPDLBk7pEtMHVUErGk9k5BP8E0U/xYQ7Puqg2WcKKUJxRwbbDgbVdlP//7H38OyN3ZrAfFtjCCFXXrdlPTRO6KWs/ztKvG2JEymsNWYD8V4enm70kXSy9cRm4tFUXJyHPfsVkRwgdMZDTYfy8TNJ0HKCMM1vual3b1pxmG/50fIPmc20UCse9Q6m9T1HA5SyhBNGaCTsty3hVOm5ZsWi5cKu16fozaB9ChNyROpV0fQQ9FDYxWqSZvzSFg==;A/4JnWXdF7w36EFfutz26A=="
 ---
 

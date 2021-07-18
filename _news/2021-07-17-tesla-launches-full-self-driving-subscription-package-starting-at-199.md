@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Breaking: Tesla Releases Full Self-Driving Subscription"
-excerpt: "Tesla has finally released the long-awaited subscription option for their Full Self-Driving feature. Here are the details."
-publishedDateTime: 2021-07-17T06:40:00Z
-originalUrl: "https://www.thestreet.com/tesla/news/tesla-releases-full-self-driving-subscription"
-webUrl: "https://www.thestreet.com/tesla/news/tesla-releases-full-self-driving-subscription"
-ampWebUrl: "https://www.thestreet.com/tesla/.amp/news/tesla-releases-full-self-driving-subscription"
-cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tesla/.amp/news/tesla-releases-full-self-driving-subscription"
+title: "Tesla Launches Full Self-Driving Subscription Package Starting At $199"
+excerpt: "Tesla has just launched its Full Self-Driving subscription package starting at $199. Here are all the details on this."
+publishedDateTime: 2021-07-17T15:25:00Z
+originalUrl: "https://www.redmondpie.com/tesla-launches-full-self-driving-subscription-package-starting-at-199/"
+webUrl: "https://www.redmondpie.com/tesla-launches-full-self-driving-subscription-package-starting-at-199/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TheStreet.com
-  domain: thestreet.com
+  name: Redmond Pie
+  domain: redmondpie.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgyNDgzNDUxNjMzNDc2NzM5/section-hero-carnival2x.jpg"
-    width: 620
-    height: 301
+  - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -89,6 +87,22 @@ related:
         width: 600
         height: 344
         isCached: true
+  - title: "Breaking: Tesla Releases Full Self-Driving Subscription"
+    excerpt: "Tesla has finally released the long-awaited subscription option for their Full Self-Driving feature. Here are the details."
+    publishedDateTime: 2021-07-17T06:40:00Z
+    webUrl: "https://www.thestreet.com/tesla/news/tesla-releases-full-self-driving-subscription"
+    ampWebUrl: "https://www.thestreet.com/tesla/.amp/news/tesla-releases-full-self-driving-subscription"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tesla/.amp/news/tesla-releases-full-self-driving-subscription"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgyNDgzNDUxNjMzNDc2NzM5/section-hero-carnival2x.jpg"
+        width: 620
+        height: 301
+        isCached: true
   - title: "From swerving into a median to narrowly missing poles, videos of Tesla's latest Full Self-Driving update don't inspire much confidence"
     excerpt: "Videos show some improvements, but lots of dangerous glitches for a software called \"full self-driving.\""
     publishedDateTime: 2021-07-14T20:03:00Z
@@ -105,21 +119,7 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tesla Launches Full Self-Driving Subscription Package Starting At $199"
-    excerpt: "Tesla has just launched its Full Self-Driving subscription package starting at $199. Here are all the details on this."
-    publishedDateTime: 2021-07-17T15:25:00Z
-    webUrl: "https://www.redmondpie.com/tesla-launches-full-self-driving-subscription-package-starting-at-199/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 39
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "26H+kO2D/yBbQHVfn3Uh7PvPsgOz9fhxHtYv8mHWeFnUkFTWMQTQ2t+CqcM0WBM3yQ7f3K5wLI8lVvLdD5oYLHQbFa86AfoJP7p5q0ZL4DR6thzJtjcBHtM7xyOeyi6BLgqnpssSxde6mGLY2feNma7WcRbW9KZ++e3TVdRdeNg6SB2MrrEMDkF5x2dPFffWBpfyBm0EXD+RekJWjGnd0p0OC59NovS+daTtxElsREP1S+fGhrrfLND7KZDPYFvuCHUvIkr2xWwHqF7CJosXWHQ+FdHPSabvr/c0vCo5EAPRgwxwRlxXg5U1t2aZxe+OOPKFnofHow5EkCfDlmzyY0OpYPIwnHI26kJZBXsAf5kPE4gQZoe1+Xx3PQMBWrf0monWsXatJtuU1WQqreT0kDhWYqUw0X5UGWeVey+jbhxSJuQe0I2BJ5BX4wACnIuiDaxDqDrBPTFuCkWWECh53Kg6nz7NYWW8B2z+5Ll0XCEM55AkHqdmQGNvdnaa7LDyltbpgJ9VrQibQjuT6J9+DA==;CF05kVqnUaFuBCeAj0fSeQ=="
+secured: "ofks6ihiAlVOzNr5L570jfdHExk5teZHylGkpknQVWp6kWuhTT6Myq9LnaBDKYB10U/33QkzxNwLbLRscqUwTCClUHIFwVJ+aQAjKUMW+fXEgCK1ZVCoTvJpcA0DlZl3Va+Bp62RiWHQ10gILp5kBhY3bvBnFMrqcNkoFdMIbqvKWiG1JazexY6dLOZ55eKrzlqzp+tNqnI7PxCx4JewCasXio3Qyw9xY1LvTYvbSQCkL9fpLEWYz0CVVeEC1gV8wu2XOITWOHBANunxfYRUGhGripRbSs+Uvm8pb3QDEJRRnO5vI2kXwZQCLtMg9s8PrvQZIHHGT8aBr18kc1Ycmu+dF4Ydcm6k2LUUScAY5jg=;ABL4HDvcKhy+sgnl/DRhuA=="
 ---
 

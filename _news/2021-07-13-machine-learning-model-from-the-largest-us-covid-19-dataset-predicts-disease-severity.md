@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/7/13/22573753/covid-data-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/13/22573753/covid-data-health-records-machine-learning-disease"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Time series forecasting of new cases and new deaths rate for COVID-19 using deep learning methods."
-    excerpt: "Predicting the number of new cases and deaths during this period can be a useful step in predicting the costs and facilities required in the future. The purpose of this study is to predict new cases and deaths rate one,"
-    publishedDateTime: 2021-07-13T05:36:00Z
-    webUrl: "https://europepmc.org/article/MED/34221854"
-    type: article
-    provider:
-      name: Europe PMC
-      domain: europepmc.org
-    quality: 5
   - title: "Johns Hopkins study of 1.9 million COVID-19 cases links severity with blood types + more"
     excerpt: "Researchers from Johns Hopkins University School of Medicine and Tufts Medical Center conducted a study using artificial intelligence to do a deep dive into EHR notes of patients who tested positive for COVID-19 in a nationwide data lake,"
     publishedDateTime: 2021-07-13T21:07:00Z

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Device taps brain waves to help paralyzed man communicate"
-excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm – they imagine moving and those brain signals are ..."
-publishedDateTime: 2021-07-15T14:43:00Z
-originalUrl: "https://www.detroitnews.com/story/life/wellness/2021/07/14/device-taps-brain-waves-help-paralyzed-man-communicate/7972100002/"
-webUrl: "https://www.detroitnews.com/story/life/wellness/2021/07/14/device-taps-brain-waves-help-paralyzed-man-communicate/7972100002/"
-ampWebUrl: "https://amp.detroitnews.com/amp/7972100002"
-cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7972100002"
+excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
+publishedDateTime: 2021-07-14T21:21:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
+webUrl: "https://abcnews.go.com/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
 type: article
 quality: 59
 heat: 99
 published: true
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: ABCNews
+  domain: abcnews.go.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/07/14/PDTN/2f852cab-474d-48cd-a151-8206c46ffb92-AP21194673044247.jpg?auto=webp&crop=1023,575,x1,y64&format=pjpg&width=1200"
-    width: 1200
-    height: 674
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -90,6 +90,6 @@ related:
         height: 536
         isCached: true
 
-secured: "iR6ECCvghDO4fn91j1pC8tngfOC/mtuhHDBpXNXYLRsBWA/417sH1SPJpx4zKFv5kw/uaOOA9+hLHjqsGgZUJCD5SyH2qDcZFWGcqpPrMDoObGbJDv8Ktp6kv5ena7jNjPi4lEb2bL62Agmlq0bGZf1EWQG8kqzeuKxg3LvmlZHB0FZMwzLc/G3NJgQrJtNjAM5+xd/3mwU/MnvLp+D0TW2vpmu5DKuJRmqC4MnvmonZ963EDbMgv6ije9lGQ0SP2YtAyXSv7ax6qJ6z5OryaDN90IXvwSPApV6FEzlQr+R3VvTwzwGWLDuJ3czg1R94fZ7ZjtIJh2mnlUJ4N7Uj4sFTYNYAhRO3Vc1Yq8nfp6k=;t0gE6JWBVC/z7WajZy14Yg=="
+secured: "uYtV6COsjcOCdFE+qSq7ONi5e7+YkGX3FebB3dW8zifzxT1pAPwubHpEtw7gztG7MGSFl/7R3QKHmxKv8ObMymQfMXes4jM9uZFtaljW2HTrl6lbrJfRb2ZiaPlaAKoRqdG6pLwgarkG4bIkEamhYDMIs6/lrnZrCCJDnf8aspq+v/YOHjoC3EaeQuRwgEaoYXA8NBbNSo6P9eTrBh3hQe0N7PjoUzQb1ZDsIyobssFSx5iqoU3X+G0QiwIrqpmIpmoTlR5sbyqvE/d94dzICF5GFGvmrpel/GBtzWM4A6twAoO+8fBiH2cv8VqPm+sOeHXUzPveD5YmMHXCP6fsvFcypoyR47rLAk1ZITHBtUI=;ivj2aD7GRXyRJmcofOFE9A=="
 ---
 

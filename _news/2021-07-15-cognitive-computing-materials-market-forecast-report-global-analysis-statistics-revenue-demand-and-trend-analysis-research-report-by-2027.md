@@ -137,20 +137,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Software Market Size 2021-2027 | Brief Analysis by Type, Top Manufacturers, Trends and Future Prospects"
-    excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Deep Learning Software Market” report"
-    publishedDateTime: 2021-07-13T06:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-2021-2027-brief-analysis-by-type-top-manufacturers-trends-and-future-prospects-2021-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global CNC Machine Tools Market 2021 Growth Analysis, Industry Trends, Sales Revenue, Future Development Status and Forecast by 2026"
     excerpt: "Global CNC Machine Tools Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 recently introduced by MarketsandResearch.biz offers a fundamental examination of the market covering the examination of subjective points that is prepared to display key market information of learning to the pursuers."
     publishedDateTime: 2021-07-14T11:35:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14"
 type: article
 quality: 74
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -125,20 +125,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Software Market Size 2021-2027 | Brief Analysis by Type, Top Manufacturers, Trends and Future Prospects"
-    excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Deep Learning Software Market” report"
-    publishedDateTime: 2021-07-13T06:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-2021-2027-brief-analysis-by-type-top-manufacturers-trends-and-future-prospects-2021-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

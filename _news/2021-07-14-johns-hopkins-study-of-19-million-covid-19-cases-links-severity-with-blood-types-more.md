@@ -35,15 +35,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Time series forecasting of new cases and new deaths rate for COVID-19 using deep learning methods."
-    excerpt: "Predicting the number of new cases and deaths during this period can be a useful step in predicting the costs and facilities required in the future. The purpose of this study is to predict new cases and deaths rate one,"
-    publishedDateTime: 2021-07-13T05:36:00Z
-    webUrl: "https://europepmc.org/article/MED/34221854"
-    type: article
-    provider:
-      name: Europe PMC
-      domain: europepmc.org
-    quality: 5
 
 secured: "pH63sPrBrD+SV8qOvQP/s6dwrmCEl4f+om4/FRco0/eOwT6RL4C9+BgYH+cUevXhstCHY912M7D9zzOL+jCL4ZjhxPF9k0aFxjmsRdZLNQ09D4depHxDK6B8/9s/omT476yB3gk3khJOk8QDM+pg81oJiCp9z0a2dh999zCDdsHxAKVzQAzQs+bJZ5x6YQlrSrs+WbsO+N1ScD3yozRzES2FKW+YeXISlvhtMy7jc+fp8YEpz80ZXnRaJu8WnOaeejlOThOP3TUevld6NiEffJ+nwPOhnrd1KQqCb9A2zZBXojr7Q8wKsvBxh1aDf4keem8GAEdDzFBiAu4ESc4ZuNb6AxZexhLmxqQeHSBNfSRuEh7jRxuHwfg94Wri+5lvinddBzddlcrSXFEGuBcEJpBV0UnBJY2Ka8oqwH/2xNIr++DqIo0eCkQu+LgulODQTIiAxKt4y7kStdvfDpI0ImR181o7HvLkl3ZtS/FNPghIzINDqU6GIgpB9nuLB7AzxRWnx8sBdApUeTvP9jgMwA==;VAnIbqmFuZbUTfK1O0wdmA=="
 ---

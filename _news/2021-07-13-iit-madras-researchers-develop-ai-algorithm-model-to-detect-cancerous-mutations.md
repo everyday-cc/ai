@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Algorithm to Spot Cancer-causing Mutations Developed by IIT-Madras"
-    excerpt: "Madras have developed an Artificial Intelligence-based mathematical model to identify cancer-causing alterations in cells."
-    publishedDateTime: 2021-07-13T05:19:00Z
-    webUrl: "https://www.news18.com/news/buzz/iit-madras-develops-ai-algorithm-to-spot-cancer-causing-mutations-3957137.html"
-    ampWebUrl: "https://www.news18.com/amp/news/buzz/iit-madras-develops-ai-algorithm-to-spot-cancer-causing-mutations-3957137.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/iit-madras-develops-ai-algorithm-to-spot-cancer-causing-mutations-3957137.html"
+  - title: "Can Artificial Intelligence Detect Melanoma?"
+    excerpt: "Researchers from MSK are leading the effort to develop artificial intelligence tools for the detection of the most serious form of skin cancer."
+    publishedDateTime: 2021-07-15T04:00:00Z
+    webUrl: "https://www.mskcc.org/news/can-artificial-intelligence-detect-melanoma"
+    ampWebUrl: "https://www.mskcc.org/news/can-artificial-intelligence-detect-melanoma?amp"
+    cdnAmpWebUrl: "https://www-mskcc-org.cdn.ampproject.org/c/s/www.mskcc.org/news/can-artificial-intelligence-detect-melanoma?amp"
     type: article
     provider:
-      name: CNN-News18
-      domain: news18.com
+      name: mskcc.org
+      domain: mskcc.org
     quality: 57
     images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/07/1626153368_iit-madras-cancer-cells.png"
-        width: 1200
-        height: 800
+      - url: "https://www.mskcc.org/sites/default/files/styles/large/public/node/228889/3x2/derm_210428_023_rt_1200x800.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "PfmE2FRIbGqA8FCTsTEhpSuimX+LYZt5bK8ofGN5wOXPeR98qsuKsQufS5cyZ6Ufps0qPluxKTKPmDaO9IwUA9lXXYdbmOQZLFffDM0d9MqU83WOJhy0tX/a+c1HBhGBBRjIF8gSUThESnngFNLXMNZJ13Y+8gy3yYGxtLFQEp/H0cILQIUi2kTOgeTCOraDmerrRe6gCrXKG2A5Fla5QiUp3iCnSFLGpCKkdeQDLvqhP+ynx7S+utPl5W81+nyTgZOZQWtwQFHWpoZ988AZ1HkY319DBsWl/VlcgCD0ksUiOlMZxnpz1H3H06RxUc9EUgftWImkN3XliA25daENcTYYm1sKIEBSAQsuzGaK7SE=;C80J7L+VXwR46i2RzCDZOQ=="

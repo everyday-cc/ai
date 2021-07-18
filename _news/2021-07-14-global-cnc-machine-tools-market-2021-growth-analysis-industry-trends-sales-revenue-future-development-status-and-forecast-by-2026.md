@@ -142,20 +142,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Software Market Size 2021-2027 | Brief Analysis by Type, Top Manufacturers, Trends and Future Prospects"
-    excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Deep Learning Software Market” report"
-    publishedDateTime: 2021-07-13T06:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-2021-2027-brief-analysis-by-type-top-manufacturers-trends-and-future-prospects-2021-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Supply Chain Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027"
     excerpt: "Market Expertz latest study, titled ‘Global Artificial Intelligence in Supply Chain Market,’ sheds light on the crucial aspects of the global Artificial Intelligence in Supply Chain market. The Artificial Intelligence in Supply Chain report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027)."
     publishedDateTime: 2021-07-15T06:17:00Z

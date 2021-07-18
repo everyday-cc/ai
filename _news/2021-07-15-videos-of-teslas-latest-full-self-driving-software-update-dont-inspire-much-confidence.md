@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tesla Launches Full Self-Driving Subscription Package Starting At $199"
+    excerpt: "Tesla has just launched its Full Self-Driving subscription package starting at $199. Here are all the details on this."
+    publishedDateTime: 2021-07-17T15:25:00Z
+    webUrl: "https://www.redmondpie.com/tesla-launches-full-self-driving-subscription-package-starting-at-199/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 39
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "gz+OmwkDLbjE7LPRwEABoH3Yi/Wwpo8avNBzxgDPCJBhEf0HLVXa5T4+UBXc9yUMZ0Ep0wrcEPR7rCzTjfAgrH5bin4CG4LPKK+8VXAvA4ji4wlYamfxvrABkiAx9mqtFTZCattzM+DwRvLsjBTNUEZ5uXOUuqdinzPG3sgp5zEsi38H9K+zesW2N2XOQuueY/Ei9nkANrpzZnFS81vk+zpExpKK4AfL0jQvwQhHR9T2jUjGpLXje86neGRy+4TGugjjK4ixpJGve6rpKT0BQ8DqOmGhSG7FAioP065EC6bxknnRnEVa4vH1LRrASFbCH0h8pBW9RqefF78BSG9nHXexH8B/F11gYW+YSVc9rkypTkmuV2xNaEH8QEM+zoasEyXg2X1lHgyrB8UiWQA7k9//vzqLdWIJrq3oRBIndfIeTW67js0y61XGz462YFa/Ez+SJFvTD//oxVa4lPwEbj/aThCkACmHF+rlOIFkErGSJz/qEo9uNd+qnskPFJQOpeALkuI45Iq9BNDskbxtSQ==;l4ZWENaN3R6yiaX/VIKMfw=="
 ---

@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Sinequa Named a Leader in 2021 Analyst Report for Cognitive Search"
-excerpt: "This Forrester Wave™ 2021 report is one of the industry’s most thorough analyses of the cognitive search market. It evaluates each provider against 26 criteria, including Data, Intelligence, Development, End User, Scope, Operations, and Architecture ..."
-publishedDateTime: 2021-07-13T04:37:00Z
-originalUrl: "https://www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/"
-webUrl: "https://www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/"
-ampWebUrl: "https://www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/amp/"
+excerpt: "Intelligent search provider Sinequa announced today that it has been named a Leader in The Forrester Wave™: Cognitive Search, Q3 2021. Cognitive search employs AI technologies, such as natural language processing and machine learning to ingest,"
+publishedDateTime: 2021-07-12T18:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210712005394/en/Sinequa-Named-a-Leader-in-2021-Analyst-Report-for-Cognitive-Search"
+webUrl: "https://www.businesswire.com/news/home/20210712005394/en/Sinequa-Named-a-Leader-in-2021-Analyst-Report-for-Cognitive-Search"
 type: article
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
-    isCached: true
-
-secured: "sqYYdu04OjvcVtDuIILDvt+eNKiUdBVdC0aKdry1t3eY8ZCqF3bqR2iXQWpr7LnqP5KrOyP0rxNy1R9YdmCf5fdSIDKeiVOEBLTMPxb8U1L8j3yMwN6spJpzR2F8zSe1lAt43JtnHlPjIip/b6Xvb7RC4puZSDMq0k8JKqA9ng/axqDtR8NCQqmfiQolHe9+tpQ9KLQ/RrR0eWz2+jRxKSpkAda3x8MDMrY+vWZNjy/ldawxRNgd0pCtNBkRiCJ7QLGNtE2PwToyPm3ysnBqew21wMczrGbFThQqXNg8HRYf2a+mqWgnuh2DlXINUfqIGa7Ql79cN5Oebq0D0y9nyMkQJe3pJjiONHQcUPoRXYg=;lFurj3+wqP2qA5i1NBmuXA=="
+secured: "WqaseXdYhyETfTYQjLZ7lLN3OxT4a3ycDL98DPYhwMkSvrBI4PxDpKQ3c4LDuGvkzN+xiG3V1Q6O4zKbAbnCZ1YODVVDtv5zE/27uj0vu300SmotEwRbEKK9Fm9wNQM+A3ic5G40c4HGmHb5ZNYz/BAKBL1p1q292HDTv2i90ziWuJH8J7SJ0XIZiLfB8ecPTBe2ZiOqZAv4fO45cAjFJYduBZNNhhOI0za70w8kqBcLsCgg8gf9WU9PJnV6U2oSKFhRN0g6n2g3F7uOoz/yDBhLM/h3yfeSXlHYh0iGCHTAkc2BVm+XNto4pqdVvq8weOvDKliWGYhkAv0/l54dNB5Qk5vjmphDkpYJBAYoa9g=;MbSa4uD0eKTXbZCeFsfRSA=="
 ---
 

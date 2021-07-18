@@ -2,23 +2,19 @@
 category: news
 title: "AI narration of chef Anthony Bourdain's voice sparks row"
 excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-publishedDateTime: 2021-07-16T13:33:00Z
-originalUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
-webUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
-ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
+publishedDateTime: 2021-07-16T14:22:00Z
+originalUrl: "https://www.bbc.co.uk/news/technology-57842514"
+webUrl: "https://www.bbc.co.uk/news/technology-57842514"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-57842514.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57842514.amp"
 type: article
-quality: 87
+quality: 57
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -449,6 +445,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "zSDzG+j3oJm3oABr2V6nbQMXyeqGo3v4+Ofn7FNLUA2dFHcSspFkC2LP6C3Hk/5to2kB+JEruTi/n145ImU73KVKdfB4NebNh75q2sV70yrb3JMBhiYprP1JKUPwmKmr70bei+RVdcfud+OpQ8zveOb9RTD0B2Ab1qa89oF2I8pwEhcN8VpyywnIbdyCXLTFguX3M8+2NEjc7fcV9+zyj2YaSyT7HxhG184ktpp/HMxqRxoeqypQ18z+WdR+ixy5lVOKuf4SlB+WgII8fMQvFZ3mQonWVCGWUXcICFhnnKfqtnGrzaSm1gmEVNLAPzLxHNMth/CLaYbdSE6UjIKE5q9QDn9i1IvF9HJXGqn9MKs=;dCEyxJk0wr2PjjDcbvl+gg=="
+secured: "ep6ioyAbB4ybrv4cLiWJbsYf8uOXFpO+o1Z7Eu5hrghDQen1a8k2CV2D8DtFslOyzKvkCJ4EkMogNIHG5c4S1EAIahGZYhzhMBngWJslqFM32zKtWNwLR/iul7LflIhZBCLgWKoR+Ow2LlUxKI7XhpjzE0Ox+WXd6XdhVhW8oQeHgVV27tN3pSTnTg3UxoSrRGntERVfa0FD6wVa4Cqi4DhTwCaKMQWz0t8BN09DCR7/je8mxT/q0/Ix8arwSN7lF2QcPvjOeytXQl2ll7GTPD0XT6lg10f2XfLTSFS9GO9We8uD07DsefwcPqSRU/PKKzCzcbI3y/chqgGcpQmEIc09Wg6N1mydVn3TheS8tr0=;Ge7fEH+AcPdt+VmGEvmvjQ=="
 ---
 
