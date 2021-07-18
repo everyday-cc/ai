@@ -27,19 +27,19 @@ images:
 related:
   - title: "Device taps brain waves to help paralyzed man communicate"
     excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
-    publishedDateTime: 2021-07-14T21:21:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
+    publishedDateTime: 2021-07-15T03:19:00Z
+    webUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1424"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 59
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg"
+        width: 2500
+        height: 1669
         isCached: true
   - title: "Researchers Harness Brain Waves of Paralyzed Man to Communicate With Him"
     excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a computer screen."
@@ -89,6 +89,17 @@ related:
         width: 897
         height: 537
         isCached: true
+  - title: "Device taps brain waves to help paralyzed man communicate"
+    excerpt: "In a medical first, researchers have harnessed the brain waves of a paralyzed man unable to speak to help him communicate better."
+    publishedDateTime: 2021-07-17T21:08:00Z
+    webUrl: "https://www.newsobserver.com/news/article252790913.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/article252790913.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article252790913.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 39
 
 secured: "t2jaJyAPUe6BN66VXh57CVWKlqmEtjDNXMhhmPOyKY/sUNZIYOiu6QUzyL07Or7d1C0BzdQjGeJEUeVYvom7/MOLNW5E7CcSsTl8MmWu2Llh7RJhY/b2+SV5WyXD0nc6NREa9gc8aEUBYEmktR74JG9SrkCQL7dLGjP34uCmJ6EezBPcJtnf6h3shNoYXc2U0DCKsmSvGjzQxtyWZ3+JbyoGsA2T4cB/Ng50ugqagdthAA02RTkVSPKDyh3NA0DSPN4ZghXZT1moPBOd/nsMr4W1ptt/Fz7SIl+coTYXSkkpg7dlAgFwp2lwv27QhKmia+ySAdKnNh16Gpnreq2vh2rfmYVt0ZC69Me1IQtzbqFuST9KaQ3EHkx+HK1Gs/LG7uGjDWab0XHkT74nR2w7AkfCwJRVoIHMmmkGok3xX9n2aiBvi1r7OzhOC9vqr0VmqodinxmennhQaiFiYa2FzIZ9pBHIP7YqkYJrnul5nwzYbYSsG1BAhhw+xY4JV9TCRTccMR4/VE/DzVYhRU3eag==;jievo3TeqGpEPRSDcHV9IQ=="
 ---

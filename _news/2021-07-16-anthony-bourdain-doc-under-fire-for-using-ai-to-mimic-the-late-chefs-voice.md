@@ -91,6 +91,22 @@ related:
         width: 1194
         height: 672
         isCached: true
+  - title: "AI narration of chef Anthony Bourdain's voice sparks row"
+    excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
+    publishedDateTime: 2021-07-16T13:33:00Z
+    webUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
+    ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7458/production/_119448792_gettyimages-187622944.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Anthony Bourdain Documentary Used AI To Fake His Voice"
     excerpt: "A new documentary about late celebrity chef Anthony Bourdain utilized artificial intelligence to recreate his voice, spurring a debate about the ethics of this practice. In an interview with The New Yorker,"
     publishedDateTime: 2021-07-16T21:58:00Z
@@ -106,6 +122,22 @@ related:
       - url: "https://amp.spot.im/loader.png"
         width: 375
         height: 815
+        isCached: true
+  - title: "Use of AI to copy Anthony Bourdain's voice for documentary sparks criticism"
+    excerpt: "\"I think this is pretty grotesque.\" A New Yorker review of Roadrunner, the new documentary on Anthony Bourdain, is getting extra attention for one anecdote mentioned toward the end. In the article, published Thursday,"
+    publishedDateTime: 2021-07-18T00:13:00Z
+    webUrl: "https://www.cnet.com/news/use-of-ai-to-clone-anthony-bourdains-voice-for-documentary-sparks-criticism/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/use-of-ai-to-clone-anthony-bourdains-voice-for-documentary-sparks-criticism/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/use-of-ai-to-clone-anthony-bourdains-voice-for-documentary-sparks-criticism/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/ygG9OnwVAXclz9rN4SrLRmZZIR4=/2021/07/15/01a10222-21c1-4dc7-9e83-0e2f0947439a/anthony2.jpg"
+        width: 1194
+        height: 672
         isCached: true
   - title: "The Ethics of a Deepfake Anthony Bourdain Voice"
     excerpt: "The new documentary “Roadrunner” uses A.I.-generated audio without disclosing it to viewers. How should we feel about that?"
@@ -218,22 +250,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/anthony-bourdain-visits-the-build-series-to-discuss-raw-news-photo-1626445038.jpg?crop=1xw:0.72745xh;center,top&resize=1200:*"
         width: 1200
         height: 600
-        isCached: true
-  - title: "AI narration of chef Anthony Bourdain's voice sparks row"
-    excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-    publishedDateTime: 2021-07-16T14:22:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-57842514"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-57842514.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57842514.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7458/production/_119448792_gettyimages-187622944.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "New Anthony Bourdain Doc Criticized For Using AI Version Of Late Chef’s Voice"
     excerpt: "Neville continued, “If you watch the film… you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know. We can have a documentary-ethics panel ..."

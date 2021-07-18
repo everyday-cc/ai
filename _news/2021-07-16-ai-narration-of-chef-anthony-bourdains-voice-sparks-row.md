@@ -2,19 +2,23 @@
 category: news
 title: "AI narration of chef Anthony Bourdain's voice sparks row"
 excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-publishedDateTime: 2021-07-16T14:22:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-57842514"
-webUrl: "https://www.bbc.co.uk/news/technology-57842514"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-57842514.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57842514.amp"
+publishedDateTime: 2021-07-16T13:33:00Z
+originalUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
+webUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
+ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
 type: article
-quality: 57
+quality: 87
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -105,6 +109,22 @@ related:
       - url: "https://amp.spot.im/loader.png"
         width: 375
         height: 815
+        isCached: true
+  - title: "Use of AI to copy Anthony Bourdain's voice for documentary sparks criticism"
+    excerpt: "\"I think this is pretty grotesque.\" A New Yorker review of Roadrunner, the new documentary on Anthony Bourdain, is getting extra attention for one anecdote mentioned toward the end. In the article, published Thursday,"
+    publishedDateTime: 2021-07-18T00:13:00Z
+    webUrl: "https://www.cnet.com/news/use-of-ai-to-clone-anthony-bourdains-voice-for-documentary-sparks-criticism/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/use-of-ai-to-clone-anthony-bourdains-voice-for-documentary-sparks-criticism/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/use-of-ai-to-clone-anthony-bourdains-voice-for-documentary-sparks-criticism/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/ygG9OnwVAXclz9rN4SrLRmZZIR4=/2021/07/15/01a10222-21c1-4dc7-9e83-0e2f0947439a/anthony2.jpg"
+        width: 1194
+        height: 672
         isCached: true
   - title: "The Ethics of a Deepfake Anthony Bourdain Voice"
     excerpt: "The new documentary “Roadrunner” uses A.I.-generated audio without disclosing it to viewers. How should we feel about that?"
@@ -445,6 +465,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "ep6ioyAbB4ybrv4cLiWJbsYf8uOXFpO+o1Z7Eu5hrghDQen1a8k2CV2D8DtFslOyzKvkCJ4EkMogNIHG5c4S1EAIahGZYhzhMBngWJslqFM32zKtWNwLR/iul7LflIhZBCLgWKoR+Ow2LlUxKI7XhpjzE0Ox+WXd6XdhVhW8oQeHgVV27tN3pSTnTg3UxoSrRGntERVfa0FD6wVa4Cqi4DhTwCaKMQWz0t8BN09DCR7/je8mxT/q0/Ix8arwSN7lF2QcPvjOeytXQl2ll7GTPD0XT6lg10f2XfLTSFS9GO9We8uD07DsefwcPqSRU/PKKzCzcbI3y/chqgGcpQmEIc09Wg6N1mydVn3TheS8tr0=;Ge7fEH+AcPdt+VmGEvmvjQ=="
+secured: "Rjatd6/RtLZ8Mzu+Uc/OspsXUG2NXvy8D4SaYPqbeH6mvNvwVKXiYrermfT/o+HhgLoTNlPPSq7P3IT4TBVOib6Jao0ICUeb0Lcv9jWvdZrE/4ae7w7clUAO2TX5mDECPnBU17Pd7SqlpNvjEBY35eZ0JkH8tEz2s5MyRwZ/nzYGF/ZAFntUK6psFpek7BJqUKThLwK1AHTJ7WhIn/gXpgkZvREG5rZ/jHR2pgd9DcDGFEfQbY+cOqH0PBgPUtOxeMUevOLlKJ+ha3djpRSIxlbvZaJkCaaWvIv/g9aRM2dSN+ymNdhJ32in/MWIvhi6UCneeq1KRxLB9ag3E1cm3bsP48KEFABTfxHDO7EkTm0=;DrzyNTz4jpnflmSYlt+ISg=="
 ---
 

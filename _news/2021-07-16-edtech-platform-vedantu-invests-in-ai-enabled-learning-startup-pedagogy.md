@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thenewsminute.com/article/edtech-platform-vedantu-invest
 cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/edtech-platform-vedantu-invests-ai-enabled-learning-startup-pedagogy-152424?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The News Minute
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Booz Allen Invests in Leading Adaptive AI Company Latent AI"
-    excerpt: "Booz Allen Hamilton (NYSE: BAH) announced today that it has made a strategic investment in Latent AI, Inc., a rapidly growing company with an award-winning suite of software tools that enable adaptive artificial intelligence (AI) and machine learning (ML) at the edge."
-    publishedDateTime: 2021-07-13T08:45:00Z
-    webUrl: "https://www.financialbuzz.com/booz-allen-invests-in-leading-adaptive-ai-company-latent-ai/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 19
   - title: "Vedantu invests in AI learning startup Pedagogy"
     excerpt: "Live online learning platform Vedantu on Thursday announced a strategic investment in Pedagogy, an AI-enabled learning startup that provides online courses and interactive digital books for ..."
     publishedDateTime: 2021-07-15T16:25:00Z

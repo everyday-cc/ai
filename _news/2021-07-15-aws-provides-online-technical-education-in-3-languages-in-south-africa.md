@@ -7,7 +7,7 @@ originalUrl: "https://www.telecompaper.com/news/aws-provides-online-technical-ed
 webUrl: "https://www.telecompaper.com/news/aws-provides-online-technical-education-in-3-languages-in-south-africa--1390278"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -20,22 +20,15 @@ topics:
   - AI in Education
 
 related:
-  - title: "AWS brings tech series to SA in three local languages"
-    excerpt: "The cloud juggernaut rolls out the AWS Family Tech Series in SA, enabling participants to explore and learn about emerging technologies in English, Afrikaans and isiXhosa."
-    publishedDateTime: 2021-07-13T09:03:00Z
-    webUrl: "https://www.itweb.co.za/content/wbrpO7gYAo8qDLZn"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7gYAo8qDLZn"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7gYAo8qDLZn"
+  - title: "Latin America, Middle East & Africa Natural Language Processing Market Share, Industry Growth, Trend, Drivers, Challenges, Key Companies by 2027"
+    excerpt: "Market Expertz latest study, titled ‘Global Latin America, Middle East & Africa Natural Language Processing Market,’ sheds light on the crucial aspects of the global Latin America, Middle East & Africa Natural Language Processing market."
+    publishedDateTime: 2021-07-14T08:17:00Z
+    webUrl: "https://manometcurrent.com/latin-america-middle-east-africa-natural-language-processing-market-share-industry-growth-trend-drivers-challenges-key-companies-by-2027/"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/feQ48XmDAWaD3VIQ61q7ZD_Xx_Rx8qaXvkotTPG1wKYf6UZVi3l7gXbPRBsEIGy6alJrNxzSLsp_yt54QBU0USZ3nRw69QlxQLxafA=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 0
 
 secured: "GxO/gJ3MJnqUABvNHe/8nyP/HuW0wOt49/P48Mq9hLEzvyuzRk2gVCYsIAQ14MLHFHW99eSYY99+y4eXhIpNZOToPwze+TYAZ4o+LFKqqVHqMeXC4Bj4mDraD4139AWzaNqsLriIfPSwy8WNZBxikYqJrrqyI3As3SivG+UsH0QQ+fj/pNlmK2GT/SVseABW/aED4Ji7ZuS2Il4CX/1Agqe5l10z2Tlju6GEcUeTRXnFgVaie2LR9g2xSbWihjGSsPqkFDcG3EBNP5eHvnzS7NdSL1h3vydjFmnfRwBHz0JtUkf9VqMn+GL7S1472fM2Yi3rkf7RAj448KLVgPsLenp0e5BtAeDmIuTwvCP3vtI=;DapjgQhlgBFKUuAiKD06/Q=="
 ---

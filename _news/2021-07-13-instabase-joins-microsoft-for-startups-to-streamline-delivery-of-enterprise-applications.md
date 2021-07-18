@@ -24,6 +24,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Instabase Joins Microsoft for Startups to Streamline Delivery of Enterprise Applications"
+    excerpt: "Through its work with Microsoft, Instabase customers are able to build powerful document understanding use cases that leverage components from Azure Cognitive Services directly within the Instabase platform to improve data accuracy, while ensuring ..."
+    publishedDateTime: 2021-07-13T20:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210713005830/en/Instabase-Joins-Microsoft-for-Startups-to-Streamline-Delivery-of-Enterprise-Applications"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
+
 secured: "y/PElbsm65O+dgMLSDUeqS+0LxULzZLwA/uV99/Xy99LtP7czR/jLLEnh0XIuk3CAfCKgjutMvZFR0T4l865wy+wp42ehXkrYCZbxj9M/HJOgIeVADO5LKSmJkUihIbZLMiBcUwd0r1GksITSwoNzpE/fJX68U7+feY5QhcFQQi4+txsygIRG7rwpwvgqZ13cswLRv2a64cOa5mcYrgvKSySwVUEjx7NSvM+4VcWwYrLhIf8lwxS4fL6Xq2KgRxKDnSTIwTWtt6U+DgSt7IHlJXOGA5yuZbwfokt1ERus9MakgSpQuqmGjm6eR0c2IodGQraKvdRVvk38VNyATcORVxq/DmfZu7AIFpUK1vZi0c=;BacLyQF/KVk3FwekMtEDQQ=="
 ---
 

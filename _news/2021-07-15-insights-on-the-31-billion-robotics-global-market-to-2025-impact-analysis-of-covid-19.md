@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/insights-on-the-31-billi
 webUrl: "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15"
 type: article
 quality: 75
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Artificial Intelligence Robotics Market 2021: Consumption Analysis, Growth Forecast by Manufacturers, Regions, Type and Application to 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Artificial Intelligence"
+    publishedDateTime: 2021-07-15T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-2021-consumption-analysis-growth-forecast-by-manufacturers-regions-type-and-application-to-2027-2021-07-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Machine Translation Market in APAC with COVID-19 Impact by Growth Potential, Manufacturers, Production, Revenue and Forecast 2026"
     excerpt: "APAC machine translation market is set to witness significant growth during the forecast period of 2020-2026, thanks to the consistent increase in the adoption of various artificial intelligence (AI) technologies and smart devices."

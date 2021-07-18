@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "AutoX unveils full self-driving system for robotaxis powered by NVIDIA DRIVE"
-    excerpt: "China-based self-driving startup AutoX unveiled its full Gen5 self-driving system this week. The autonomous driving platform, which is specifically designed for robotaxis, uses NVIDIA DRIVE automotive grade GPUs to reach up to 2,"
-    publishedDateTime: 2021-07-13T08:47:00Z
-    webUrl: "https://www.greencarcongress.com/2021/07/20210713-nvidia.html"
-    type: article
-    provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
-    quality: 21
-    images:
-      - url: "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef0278803781ff200d-600wi"
-        width: 600
-        height: 212
-        isCached: true
 
 secured: "+uNL8R9LnHOy7Xqyt3TK96zXyagY7ibX1B2m+gBpL3z4l4DGQi9y+z7ppdgGmHiqWsH2Qlijh2fkPu/hl58mEexZVQ+CIq2F75uHk4TidbfvZHklDYe41YH7DFSjieyDTO5M6oc7a/3TKmKmO0wFfWxL5YFJ0NT1iVJPI0OKX7sRwM8KiXFBPaexhaa3NPKgAbt73KKxMpJCyTKPjmi5/OM8A6rZ+/VHGYDymwUMlFvsT96RqmVE/GfgPpJsWwhz/VPi2EJoTOJjPmt2iKeNqSXXVJaG+qqviJe30bYaV9SEgCj5a/yscOLi9bywCAtTnRTuvGzcVMQosrM5rWnx6oGLfzfwNrraZTRCsqXB4XvTzCDxaJhOS1L/srxj8OjqNKmEvaUkx45VuSMVje5RyI2IuHv9nAiVERYD3h9tBa8pOPT/6onVolU++MK3Q/rzrIt5YJcaW0wNvK8iv/fH6JBSvgVIjHjld92Fd2JZCKeQAGagctDSX79C5iWxOkP++6/ypy64O4ScqkwzLXe2eQ==;yTjyYRCpq2kIUE5wThKQcA=="
 ---

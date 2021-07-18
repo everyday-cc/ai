@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
-excerpt: "Customers can then use additional services such as Amazon QuickSight and Amazon SageMaker to better understand patient and population-level trends and help make accurate predictions about the ..."
-publishedDateTime: 2021-07-15T15:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/diameter-health-selected-as-amazon-healthlake-connector-partner-1030612136"
-webUrl: "https://markets.businessinsider.com/news/stocks/diameter-health-selected-as-amazon-healthlake-connector-partner-1030612136"
+excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by"
+publishedDateTime: 2021-07-15T15:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/diameter-health-selected-as-amazon-healthlake-connector-partner-301334828.html"
+webUrl: "https://www.prnewswire.com/news-releases/diameter-health-selected-as-amazon-healthlake-connector-partner-301334828.html"
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1177382/dIAMETER_hEALTH_Logo.jpg?p=facebook"
+    width: 2207
+    height: 1158
+    isCached: true
 
 related:
   - title: "AWS launches HealthLake to help health care organizations query medical data"
@@ -186,6 +188,6 @@ related:
         height: 600
         isCached: true
 
-secured: "O1Z+s3RlMxJdyfA6SPE5KBcdnkOU8JlOHJgYh9jAoXi7BQRLX8pYHRJabNpJlCIAXFETHIu8Tord2Xo+DV+MU+FNDr9SW8wlZQlBTFBKuewmFY6VoheVG6Wh7g2XtDdfWGMxGvtoZm/08pOHOBBW/KPvK2FrW1pmufER2JEsyP9KCYmhJRy5EDiEBqHd/f7UPraLonJ3+qRT+TB88XUkkwjSDXnoA2b+mROCr4paK47JJ6UnL/5FSv0E4QbzgQEfvVr7dhQkVTBPkCrsz54hbeGTTgVMTbxBWNrPhoGWeCuFJsRItNCujyI1FAhMtlTxWKWD3KG3ZmbciLFmGxgjdnCxm7Nl1xC2PUyYUeXjICM=;UYYwgydXdgq+xD54225m9A=="
+secured: "adjoD29BiEcL87wXw8JINfslwKi37K1bSGQgnf4SjzDFTIkmwXFRsbFe122x6IXfol6wSRPNw3Z1Yzodv3cnPHDosLAQgyxp+g6zChx8pwjJcZibs+vq5iLkiZmrI3gLRd9YIYJvCZmhcDagUCaFIY4dvldoiQMA9vkZk87A2mFnK/C3xycz6/8cr4D+VCRixH7QV7Mc0N0UJ4HzuaIszPCJlmqYiL6bijgSyZtvTBJklG+iO5/c5id2M90B38iGULGVrMXsExq203AqQ81tk0FPh+RUx34ZyGXkhB7iVOb8B/mYqOHLhEd32yM8yTEv6Xn3xZBArLikbRP78kAwtGGbJiekLSDZE5ZrJf4XHxU=;poveBrWwF1VXet8HxFKLkA=="
 ---
 

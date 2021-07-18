@@ -2,9 +2,9 @@
 category: news
 title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
 excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
-publishedDateTime: 2021-07-14T08:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
-webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
+publishedDateTime: 2021-07-14T04:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
+webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
 type: article
 quality: 83
 heat: -1
@@ -154,24 +154,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
-    excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
-    publishedDateTime: 2021-07-13T07:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-  - title: "NEC signs new partnership with Microsoft, to migrate IT to Azure"
-    excerpt: "NEC said it expanded its decades-long collaboration with Microsoft. Through a new multi-year strategic partnership, the companies will leverage Microsoft Azure, Microsoft 365, NEC's network and IT expertise,"
-    publishedDateTime: 2021-07-13T08:29:00Z
-    webUrl: "https://www.telecompaper.com/news/nec-signs-new-partnership-with-microsoft-to-migrate-it-to-azure--1389976"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "USF-developed AI system unites global agencies to identify emerging infectious diseases, receives support from Microsoft"
     excerpt: "Leadership in providing with the public consistent projections of COVID-19 infections and hospitalizations has prompted the launch of a USF-led global modeling project sponsored by Microsoft that can ultimately help scientists more swiftly identify and respond to the threat of emerging infectious diseases."
     publishedDateTime: 2021-07-14T19:52:00Z
@@ -201,6 +183,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "y4DD8G0MFoyXF9jHn5RQUm/M/xksO4lTRCiuXrwzY43dylxtO2UCsI9cOTojrISaUolpRQSWQYRDuWxG1HeyvL51MvXHwUVDHqOeM8D8k7qCjuT+CvN29p/fGSrjgVoGJT/1pl4T/UjhyCbzZrnLbYTw3RLt4fVpVk2p13T/GOb+YL7gRbsUThstG2nOWHrNu6spxt2+00SABlnxro0P9x52P2OxK8KMZOmZukEQE51MCV7/c2OERc9VCTxn8Pvm0xOROY5yubMxf7fHn8j2xoySL0y6w2CAxfRe74iFy+N3ToTpnThpkFMHMhlNPNNBp16JqWe+JpFm+suBEdnpmWCi+9YBDyxylP4XW2RkVASbQB0WtU+7T8dFynJm5+PB/hBsblMNJKWW7yKl4rvJqhzKzGBMcOSUFdzO7fWKoeeQ/Sckk6sk66Ch7ScgOzbB1/wanRG74XCK92/OaHyLdsDTd3cBbHkhyO4b90x3OD3cGcYgVNlBS5dnzFVRdAIE0AZaQg9YYm5YRE0CcrFLDQ==;EqDgOWPnXst/y0Ldts3Zpw=="
+secured: "I7RgYyONo2PUX0mIRxft4L/GZ5kI37nFV1zIWyI5L7OqkTSs1tvid1g5FJeIUif8XzdhjS0yvOTqpmdAYJJsaBbhqyzm0p+mixuDqD+mafkz4cdiGNdzVI8H640MZrqvsxoA5SZRJo1Mb9svdDsc4/srDV/4RoxZzEUIV33g6wWOcnzjfDYwqfYsEL8d2YZpKE6/0C10R1MIJUYa6wUGOhwLm1XecL/SoafPDvxwARBFF68lQHN8bV1gULrhPTnMQxxch+W513B50bYL/2QhB9zGhzIo5LurUikUztJDnnmc8XKGZMSaSlFFg5IP/auEYzdKbEDHDYkKuaWzHCBpyeVl+SZ/VrXgr7R7aekclY4=;1EVKsKj2zxLY7FlM/QMFtA=="
 ---
 

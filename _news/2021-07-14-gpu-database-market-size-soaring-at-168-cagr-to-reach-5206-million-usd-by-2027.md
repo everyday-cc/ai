@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide Machine Learning as a Service (MLaaS) Market Size, Share to Account for Over USD 3762.6 million By 2025"
-    excerpt: "Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Machine Learning as a Service (MLaaS) Market Growth and information corresponding to market segments such as geographies,"
-    publishedDateTime: 2021-07-14T10:20:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/144550/worldwide-machine-learning-as-a-service-mlaas/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 33
-    images:
-      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "System on Module (SoM) Market to Hit USD 3,774.9 Million by 2026 at a CAGR of 7.97% - Report by Market Research Future (MRFR)"
     excerpt: "Market Overview: According to a comprehensive research report by Market Research Future (MRFR), \"Global System on Module"
     publishedDateTime: 2021-07-14T18:50:00Z

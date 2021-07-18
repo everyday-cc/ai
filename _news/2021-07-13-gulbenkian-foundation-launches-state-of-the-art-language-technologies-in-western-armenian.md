@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "State of the art language technologies for Western Armenian launched"
-    excerpt: "The Western Armenian Universal Dependencies Treebank was released on 15 May 2021, has been released and is now available on the Universal Dependencies Consortium webpage, the Armenian Communities D"
-    publishedDateTime: 2021-07-13T07:40:00Z
-    webUrl: "https://en.armradio.am/2021/07/13/state-of-the-art-language-technologies-for-western-armenian-launched/"
-    type: article
-    provider:
-      name: Public Radio of Armenia
-      domain: armradio.am
-    quality: 24
-    images:
-      - url: "https://en.armradio.am/wp-content/uploads/2021/07/Armenian-letter-park.jpg"
-        width: 512
-        height: 281
-        isCached: true
   - title: "State of the Art Language Technologies in Western Armenian"
     excerpt: "The Armenian Communities Department of the Calouste Gulbenkian Foundation is delighted to announce that the Western Armenian Universal Dependencies Treebank"
     publishedDateTime: 2021-07-13T19:29:00Z

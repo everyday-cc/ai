@@ -106,7 +106,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -202,50 +202,6 @@
         "AI in Healthcare",
         "AWS AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-iot-machine-learning-and-artificial-intelligence-services-to-reach-us36-billion-in-revenue-in-2026.md",
-      "title": "IoT Machine Learning and Artificial Intelligence Services to Reach US$3.6 Billion in Revenue in 2026",
-      "excerpt": "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective.",
-      "sourceUrl": null,
-      "webUrl": "https://iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/",
-      "originalUrl": "https://iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg",
-          "width": 800,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/amp/",
-      "cdnAmpWebUrl": "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/amp/",
-      "publishedDateTime": "2021-07-14T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOT Business News",
-        "domain": "iotbusinessnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1326,6 +1282,58 @@
         "AI in Healthcare",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-roswell-the-final-verdict-review-aliens-vs-artificial-intelligence.md",
+      "title": "‘Roswell: The Final Verdict’ Review: Aliens vs. Artificial Intelligence",
+      "excerpt": "UFO incident gets re-examined with new technology in this Discovery+ series.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/roswell-the-final-verdict-review-aliens-vs-artificial-intelligence-11625172034",
+      "originalUrl": "https://www.wsj.com/articles/roswell-the-final-verdict-review-aliens-vs-artificial-intelligence-11625172034",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-362392/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/roswell-the-final-verdict-review-aliens-vs-artificial-intelligence-11625172034",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/roswell-the-final-verdict-review-aliens-vs-artificial-intelligence-11625172034",
+      "publishedDateTime": "2021-07-01T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

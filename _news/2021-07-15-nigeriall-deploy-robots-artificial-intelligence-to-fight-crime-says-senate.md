@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/nigeriall-deploy-robots-artificial-intelligence-
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate/?amp"
 type: article
 quality: 71
-heat: 92
+heat: 91
 published: true
 
 provider:

@@ -119,7 +119,21 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Full-Self Driving subscription launched in Tesla cars equipped with hardware 3.0 or above"
+    excerpt: "Tesla Full-Self Driving technology is launched in Tesla cars software with a monthly subscription offer at $99- $199."
+    publishedDateTime: 2021-07-18T01:00:00Z
+    webUrl: "https://techstory.in/full-self-driving-subscription-launched-in-tesla-cars-equipped-with-hardware-3-0/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 45
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/07/tesla-model-3-compact-full-electric-car-interior-with-a-news-photo-1609286548_.jpg"
+        width: 640
+        height: 425
+        isCached: true
 
-secured: "ofks6ihiAlVOzNr5L570jfdHExk5teZHylGkpknQVWp6kWuhTT6Myq9LnaBDKYB10U/33QkzxNwLbLRscqUwTCClUHIFwVJ+aQAjKUMW+fXEgCK1ZVCoTvJpcA0DlZl3Va+Bp62RiWHQ10gILp5kBhY3bvBnFMrqcNkoFdMIbqvKWiG1JazexY6dLOZ55eKrzlqzp+tNqnI7PxCx4JewCasXio3Qyw9xY1LvTYvbSQCkL9fpLEWYz0CVVeEC1gV8wu2XOITWOHBANunxfYRUGhGripRbSs+Uvm8pb3QDEJRRnO5vI2kXwZQCLtMg9s8PrvQZIHHGT8aBr18kc1Ycmu+dF4Ydcm6k2LUUScAY5jg=;ABL4HDvcKhy+sgnl/DRhuA=="
+secured: "YKNHKBbRz9OWqfGd1ajG06BBpFNbwF/fvx4NNiJfuAYPkYWwrNFbbVfI0BwcGKoqQAuHITbFKlx/J3IJzytzF5j1EBdHo0Mbz7zda7lgcrJ/AYgTDHWkA2PXqPzShG/rbuWia0yopYSiMpsdun+Cf9+ut+C++Qk9QD17R5MygHvSxtCPZe4Mzl/5wCjcML+rAdcpRnnt1/NyXwz1acazLFVFkypGj9Tc3EpFosPNhQtLSLKd15oLqBAYU/VvWqVGLE8SZYsbknfO/VZDyMipC/SbN5ALbkzUJq8dFD9jnAWYEPGnp0MUiKlhwTcE6pSAGxXAMpG9V3hJryreZJ8uVq/XVd+D7yfnt0Y5237mxKGkC8/C4MqoNY/2/hj9M4mKW2q/NzTc4YyiYXQd7+h9WSDSpvv4dqLFcRlTrRKPKV9wk1hPz/Gi8rRNvQrlj14E6ncFMrmbq/o9i+HdJ68ifEzUd7ICuh9HfTY8jXRRb6o5xUWBpPEh2XbvPqsARD8TsyjR+Znwe4PdV0NeRzvbUA==;3vaPH43qM5MCz33Xr694Ww=="
 ---
 

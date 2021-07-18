@@ -132,24 +132,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in BFSI Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in BFSI Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence (AI) is fast evolving as the"
-    publishedDateTime: 2021-07-13T08:22:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4662109-global-artificial-intelligence-ai-in-bfsi-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 26
-  - title: "Global Artificial Intelligence in Retail Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Retail Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Retail"
-    publishedDateTime: 2021-07-13T08:23:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4662322-global-artificial-intelligence-in-retail-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 26
   - title: "Global Artificial Intelligence (AI) in Retail Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Retail Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial intelligence (AI) refers to machines that can mimic"
     publishedDateTime: 2021-07-16T01:27:00Z
@@ -195,15 +177,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 9
-  - title: "Global Artificial Intelligence in Construction Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Construction Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence in Construction"
-    publishedDateTime: 2021-07-13T08:25:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4662396-global-artificial-intelligence-in-construction-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 8
   - title: "Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence for Video"
     publishedDateTime: 2021-07-17T07:39:00Z
@@ -213,24 +186,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 4
-  - title: "Global Voice Recognition Software Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Voice Recognition Software Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Voice Recognition Software Market"
-    publishedDateTime: 2021-07-13T08:24:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4662311-global-voice-recognition-software-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 1
-  - title: "Global Speech and Voice Recognition Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Speech and Voice Recognition Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Speech and Voice Recognition"
-    publishedDateTime: 2021-07-13T08:23:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4662277-global-speech-and-voice-recognition-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
   - title: "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027"
     excerpt: "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,"
     publishedDateTime: 2021-07-13T14:07:00Z

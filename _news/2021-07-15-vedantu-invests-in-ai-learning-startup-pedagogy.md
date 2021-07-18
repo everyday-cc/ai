@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Booz Allen Invests in Leading Adaptive AI Company Latent AI"
-    excerpt: "Booz Allen Hamilton (NYSE: BAH) announced today that it has made a strategic investment in Latent AI, Inc., a rapidly growing company with an award-winning suite of software tools that enable adaptive artificial intelligence (AI) and machine learning (ML) at the edge."
-    publishedDateTime: 2021-07-13T08:45:00Z
-    webUrl: "https://www.financialbuzz.com/booz-allen-invests-in-leading-adaptive-ai-company-latent-ai/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 19
 
 secured: "YCZ//uKKjuHgUK0NVgVIsM1lXbef+qDqw66ZeHdXTzyZFv79tQcsj1PFhLRYIgX1+Aqrp8qi0vweu+XR8KPc0OtPjUnopsKBadfkao0mvAWtd/iStKTkkR+V2MPWl30ZaXvXvjOpDETxil58W05MUSzqKy9i+Ew+veGgBJbqlU/nuWZo3p7KSq4fsWqWB+/6ND6YwKNkVUD/hoogwP7lQyPTcKNxETww3gjMQt6Drg+mSQWeN6O4SeZExX10dG9GeayCXsApK1WiIX6mGXavQ8EuqgTFpYrsHNviCL2GhzBs5GWFv1kz1lxRh9BFpHHS8zEGmpg2I/4srB6zwDq2D7yzn4RyXcmmpG6zuVW9bT0=;9vt9RlTenQ92pR33AHwESQ=="
 ---

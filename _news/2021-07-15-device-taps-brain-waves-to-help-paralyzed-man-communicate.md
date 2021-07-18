@@ -2,28 +2,28 @@
 category: news
 title: "Device taps brain waves to help paralyzed man communicate"
 excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
-publishedDateTime: 2021-07-14T21:21:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
-webUrl: "https://abcnews.go.com/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
+publishedDateTime: 2021-07-15T03:19:00Z
+originalUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
+webUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1424"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424"
 type: article
-quality: 59
-heat: 99
+quality: 89
+heat: 140
 published: true
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg"
+    width: 2500
+    height: 1669
     isCached: true
 
 related:
@@ -89,7 +89,18 @@ related:
         width: 800
         height: 536
         isCached: true
+  - title: "Device taps brain waves to help paralyzed man communicate"
+    excerpt: "In a medical first, researchers have harnessed the brain waves of a paralyzed man unable to speak to help him communicate better."
+    publishedDateTime: 2021-07-17T21:08:00Z
+    webUrl: "https://www.newsobserver.com/news/article252790913.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/article252790913.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article252790913.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 39
 
-secured: "uYtV6COsjcOCdFE+qSq7ONi5e7+YkGX3FebB3dW8zifzxT1pAPwubHpEtw7gztG7MGSFl/7R3QKHmxKv8ObMymQfMXes4jM9uZFtaljW2HTrl6lbrJfRb2ZiaPlaAKoRqdG6pLwgarkG4bIkEamhYDMIs6/lrnZrCCJDnf8aspq+v/YOHjoC3EaeQuRwgEaoYXA8NBbNSo6P9eTrBh3hQe0N7PjoUzQb1ZDsIyobssFSx5iqoU3X+G0QiwIrqpmIpmoTlR5sbyqvE/d94dzICF5GFGvmrpel/GBtzWM4A6twAoO+8fBiH2cv8VqPm+sOeHXUzPveD5YmMHXCP6fsvFcypoyR47rLAk1ZITHBtUI=;ivj2aD7GRXyRJmcofOFE9A=="
+secured: "UNLewoOf8tdIOfN1Tf2dHCcmI6+9kcOqLtsx9qa1wMt3GxtkMC/iZdZDOipnodAQKfuJtoQe1wvN3L7S2seeLmdtVaDDeiEgs+I/lja2MhpBFM53vFO/2nNM/91NXFvF69l0GqRynzFA6VjEqRQrEIYV0N94JvnwhvnWH4N6xIjqG3fSaJm9Y81U/34CYH7oP9iMNW38L+Wjub0ExUyxExhu0BCVYBT2jqjrDbKcScbh25dxy8MWvD3PwWjABIPKuRe4PHlEbJ/f0E4c/XsqqN7deXIV6vJ1Uv9BTLTnPcCnROX+843SvVqd0KtfizuMchJIkRJys+elSJC5f7rrpw/hSr41jll97/nnGvM7SCQ=;0EsfzsVGayAjsZx5Xa4GAw=="
 ---
 
