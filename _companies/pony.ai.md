@@ -2,7 +2,7 @@
 name: "Pony.ai"
 overview: "Spearheading the future of mobility by building the safest and most reliable technology for autonomous vehicles."
 type: "profile"
-heat: 58
+heat: 71
 
 website: https://www.pony.ai
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "PonyAI_tech"
   url: "https://twitter.com/PonyAI_tech"
-  followers: 1298
+  followers: 1299
 
 size: 51-200 employees
 yearFounded: 2016
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "NJsq8+90bk6MiVdrpsGa54Gnr4WuN6jHBoZ4okYkxbikmkyMADMau9xTWXlkiBDxBMQXW2bYF9IT6ciRjsoZ/UsBg3BSbh2dS8hZJDnQ8nZ2qEnerGsYj49anWiVNcd2SRDx6cnjEq57cUdFP3L3jscjBUZxvBx7shsiXM4N3I5Zq9Ht4pPdGOxgTPGW6cTnwPoYap8mEnjrMbKOysVC2NdgvogMPDtAjBEUqLIfsyrZACeYDe3tm7r0WSLuQse/+gO4Ayaym38F0yFfyncPRTgjWB5DqASskqdrYL3+/usr4zv8MqDHS7Ah30iMHmSRDl2rufch19xkiQZiyaZ+uPI5spfh/91JiVyoE+EZRH9x5GXyJ2nqwpF57qltB3oQjvSCAinlAYp6llsx6Q8ST0dbdmva3fQbWhKcO1Xw/oQ=;FuQGju5LBHYwVIDZwiCLhQ=="
+secured: "mW7WozLw2PFkLeckAVJ8tAIT8Y7ahiVV7TZin2H+8L6wE+c9a7xVE9tYiZqAcorwmwbSNZk3VV4Gzko1I42ZOHu6fNrmHdc7gL8CLxKS2febr60S5LLaA4SbfVfnQZnre+YHxBlJPC5vOod6OgiTN8GUQVmgtvYtvj40VeV50L+In3Ylfq2ubzJLadRzZDYMfkJh3LKkhAYvXmoYJVALs4mja/yOBzkbdsp6RReZ/BLD4mUZwfEaSY3ybEdzva9CboOGGn+suoev+DeJGv07RHtqWvdEBO94C2UZdiblfvVCo0mvw4oNn+9wPIv4cOecHXrdaUP42kMLMyliyVjSb0h0aIJNkk7slap9E4sq1Sbc0LHbhK+ScvNmmDMQw74jljDoYwRwcQ/QG/srU9zxRuWCrSULzarxqX0Bl7BXtbM=;iVng56GVx6fM24arr77k6Q=="
 ---
 
