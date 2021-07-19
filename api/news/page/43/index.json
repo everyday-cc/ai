@@ -2,6 +2,109 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-06-16-update-3-alphabets-waymo-raises-25-bln-in-first-fresh-funding-in-a-year.md",
+      "title": "UPDATE 3-Alphabet's Waymo raises $2.5 bln in first fresh funding in a year",
+      "excerpt": "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,” Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a statement. The duo became co-CEOs after John Krafcik stepped ...",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/waymo-funding-idCNL3N2NY329",
+      "originalUrl": "https://cn.reuters.com/article/waymo-funding-idCNL3N2NY329",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210616&t=2&i=1565932671&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5F0Q5",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL3N2NY329",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL3N2NY329",
+      "publishedDateTime": "2021-06-16T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-amazon-alexa-head-scientist-on-developing-trustworthy-ai-systems.md",
+      "title": "Amazon Alexa head scientist on developing trustworthy AI systems",
+      "excerpt": "Amazon Alexa head scientist Rohit Prasad believes context is the key to more capable voice-driven AI systems -- and AI systems in general.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/16/amazon-alexa-head-scientist-on-developing-trustworthy-ai-systems/",
+      "originalUrl": "https://venturebeat.com/2021/06/16/amazon-alexa-head-scientist-on-developing-trustworthy-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/16/amazon-alexa-head-scientist-on-developing-trustworthy-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/amazon-alexa-head-scientist-on-developing-trustworthy-ai-systems/amp/",
+      "publishedDateTime": "2021-06-16T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-alphabets-waymo-raises-25-bln-in-first-fresh-funding-in-a-year.md",
       "title": "Alphabet’s Waymo raises $2.5 bln in first fresh funding in a year",
       "excerpt": "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,\" Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a ...",
@@ -1066,91 +1169,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs.md",
-      "title": "Mexican FinTech Credijusto Buys Bank To Serve X-Border SMBs",
-      "excerpt": "Credijusto says it’s the first Mexican FinTech to buy a regulated bank, transforming itself into Latin America’s only neobank concentrated on working with small to medium-sized businesses (SMBs). “Our acquisition of Banco Finterra creates the first truly digital banking platform for Mexican [SMBs],",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/",
-      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/fintech-acquisitions-digital-banking-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/amp/",
-      "publishedDateTime": "2021-06-15T17:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division.md",
-      "title": "Ron Ramaiya joins The Lab and reveals artificial intelligence division",
-      "excerpt": "Ron Ramaiya has joined The Lab as head of data science, and the agency has launched an artificial intelligence and machine learning division, Lab AI.The announcement:The leading insight and strategy company The Lab today announced the appointment of Ron Ramaiya as Head of Data Science,",
-      "sourceUrl": null,
-      "webUrl": "https://mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044",
-      "originalUrl": "https://mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mumbrella.com.au/wp-content/uploads/2021/06/Ron-Ramaiya-The-Lab-e1623798113893.jpg",
-          "width": 487,
-          "height": 273,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044/amp",
-      "cdnAmpWebUrl": "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044/amp",
-      "publishedDateTime": "2021-06-15T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mumbrella",
-        "domain": "mumbrella.com.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

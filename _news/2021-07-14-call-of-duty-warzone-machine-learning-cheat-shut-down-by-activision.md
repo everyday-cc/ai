@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamesradar.com/amp/call-of-duty-warzone-machine-learning
 cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/call-of-duty-warzone-machine-learning-cheat-shut-down-by-activision/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 480
     height: 270
     isCached: true
-
-related:
-  - title: "Maker of machine learning cheat says \"my intent was never to do anything illegal\" after Activision clampdown"
-    excerpt: "The maker of a machine learning cheat that hit the headlines last week has insisted \"my intent was never to do anything illegal\" after Activision stepped in to shut development down. The creator of the cheat,"
-    publishedDateTime: 2021-07-14T09:23:00Z
-    webUrl: "https://www.eurogamer.net/articles/2021-07-14-maker-of-machine-learning-cheat-says-my-intent-was-never-to-do-anything-illegal-after-activision-clampdown"
-    ampWebUrl: "https://www.eurogamer.net/amp/2021-07-14-maker-of-machine-learning-cheat-says-my-intent-was-never-to-do-anything-illegal-after-activision-clampdown"
-    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-07-14-maker-of-machine-learning-cheat-says-my-intent-was-never-to-do-anything-illegal-after-activision-clampdown"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 40
-    images:
-      - url: "https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-07-14-10-17/USER_101.jpg/EG11/thumbnail/598x266/format/jpg/quality/85"
-        width: 598
-        height: 266
-        isCached: true
 
 secured: "a40sXnKuw7/ohiZt6qDa97Xu6qtEMP9CSdzbxq4phtAZVdv2bNdk0jFGtC88Sy6MwevtYc+K6vIPw3yxo2egV917tlrKNEHT+vUp6rIkoeCuLnmLNdkZafwt1QLZIAT6tveUzNOwwfZkpDHIeyIO418zjCan/5jZHSWAm1mqLHERPorKWHRxSzaM9pXSIQg2t1tVBtDadNDftJ1XDHq2e/nWPf+5LmrXAlRSQL2dv8TiP961ISx5ie5TJJP7WixgomPeTjCFnXbKuR1fK/rk2dZL/FClgora2rpRIOJyO8GHseqgMKCQ6ir1PgSuWZx2hF+ikj7PZuawWxKqHmfC2wiF/QT5FEsOvxyB9a2RTghfBi0dpXs3DuN7RbdE8MZ1tG/ASf7wuUyHcz+E1eEv2mCnoZBNtthchQCHflXAqiaeliD9ucx8EGK2TJVJB6vVaTR2PyTkYELTJN+y/Izvw4HQkex3ve6+SQYbc3zw2MfKqJDcBVSAWdnSYaPwH7AiMYlHbzg/rW7iTpJDGDcEnw==;YxwXzfO9rLg8/aNAvcJPpg=="
 ---

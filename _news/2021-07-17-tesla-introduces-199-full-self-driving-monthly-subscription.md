@@ -109,6 +109,22 @@ related:
         width: 620
         height: 301
         isCached: true
+  - title: "Tesla Mobile App Update Includes $199 Monthly Self-Driving Subscription"
+    excerpt: "Tesla plans on offering a new subscription version of its Full Self-Driving package with several features for self-driving cars including navigating on autopilot, autopark and other things, a report from Electrek says."
+    publishedDateTime: 2021-07-19T01:48:00Z
+    webUrl: "https://www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/"
+    ampWebUrl: "https://www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/tesla-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "From swerving into a median to narrowly missing poles, videos of Tesla's latest Full Self-Driving update don't inspire much confidence"
     excerpt: "Videos show some improvements, but lots of dangerous glitches for a software called \"full self-driving.\""
     publishedDateTime: 2021-07-14T20:03:00Z
@@ -167,6 +183,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "BxVideo's New EZLive Caption Offers Self-Service Transcription, Translation and Captioning for Live-Streaming Video Events"
+    excerpt: "BxVideo, a leader for live-stream video services and products, today announced EZLive Caption, a subscription-based web-service that automatically transcribes, translates and captions live streaming video."
+    publishedDateTime: 2021-07-14T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/14/9409013.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "KXwm4wlOcl/++npiowCM8VFieQva+gxKqy2X4dJQigdLjb/8VtYytWE4YF2ma24LL6521Z4SPGG1kj7C47HLIEm6aD/BQ3x54/lD3QbdgVurbfXMUtBUiZqZLE9V/ZGkJoY2YuTjL/cpbn7m8d5iOa7zYDhKixg2pZAmlgTk4nub9NFRGDzsxhavuB4p97yzSD7UL7CcUh05pQLWkdaEdNCdtxeV/6na6DwxE3vU2x/ZXUoGHZVqMlg9KhRQmXUj9XWswyMHU0+Rg/hmhOBLSNGCffW19siQhalxCCVTLZQQXqhLrEVWkKXkhdGNZizP5OfJzXUaKUWo0WL7EiR7RTbc4DR0QjXgjAUMbRNWDZM=;/uGRM8RKO9c3t/tElgaLYQ=="
 ---

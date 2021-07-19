@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-19-duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m.md",
+      "title": "Duke Energy used computer vision and robots to cut costs by $74M",
+      "excerpt": "Duke Energy’s AI journey began because the utility company had a business problem to solve, Duke Energy chief information officer Bonnie Titone told VentureBeat’s head of AI content strategy Hari Sivaraman at the Transform 2021 virtual conference on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/",
+      "originalUrl": "https://venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/duke.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/amp/",
+      "publishedDateTime": "2021-07-18T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-president-bidens-recent-executive-order-on-promoting-competition-in-the-american-economy-highlights-the-healthcare-sector.md",
       "title": "President Biden’s Recent Executive Order on Promoting Competition in the American Economy Highlights the Healthcare Sector",
       "excerpt": "President Biden issued an “Executive Order on Promoting Competition in the American Economy,” (the “Order”) which aims to drive down prices for consumers, incr",
@@ -104,7 +156,7 @@
       "originalUrl": "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1083,6 +1135,57 @@
       ]
     },
     {
+      "path": "_news/2021-07-17-a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey.md",
+      "title": "A quarter of Taiwanese companies are well into their AI journey",
+      "excerpt": "At least a quarter of Taiwanese companies have begun AI deployments, according to the latest State of Taiwan Enterprise AI report.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/16/a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter-e1591205079457.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey/amp/",
+      "publishedDateTime": "2021-07-16T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-how-medhost-is-migrating-electronic-health-record-data-to-aws-for-compliance-and-gaining-valuable-insights.md",
       "title": "How MEDHOST is migrating electronic health record data to AWS for compliance and gaining valuable insights",
       "excerpt": "Healthcare technology companies often turn to AWS to help them accelerate their clinical and business objectives. MEDHOST has provided enterprise information technology and electronic health record (EHR) solutions to full-service community hospitals for more than 35 years. Today, more than 1,000 healthcare",
@@ -1132,101 +1235,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-carnegie-melon-professor-develops-real-time-learning-four-legged-robot.md",
-      "title": "Carnegie Melon professor develops real-time learning four-legged robot",
-      "excerpt": "The artificial intelligence robot developed by Carnegie Melon University Professor Deepak Pathak can adapt in real-time and teach itself how to maneuver through rocks, sand, grass and oil-covered surfaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
-      "originalUrl": "https://www.upi.com/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/ph/st/th/7871626448726/2021/i/16264493693954/v1.5/Carnegie-Melon-professor-develops-real-time-learning-four-legged-robot.jpg?lg=2",
-          "width": 637,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
-      "publishedDateTime": "2021-07-16T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate.md",
-      "title": "Anthony Bourdain Documentary ‘Roadrunner’ Sparks A Strange Ethics Debate",
-      "excerpt": "Neville stated: “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know. We can have a documentary-ethics panel about it later.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/",
-      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 393,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f1a2151251a7c507b4358e%2F0x0.jpg",
-          "width": 1200,
-          "height": 824,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/",
-      "publishedDateTime": "2021-07-16T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

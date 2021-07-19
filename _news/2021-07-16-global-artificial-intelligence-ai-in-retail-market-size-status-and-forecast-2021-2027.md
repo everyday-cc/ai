@@ -112,20 +112,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
-  - title: "Artificial Intelligence in Accounting Market Report by Size, Share, Production, Revenue, Price and Gross Margin: Global Forecast Report 2021 to 2027"
-    excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in"
-    publishedDateTime: 2021-07-14T10:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-report-by-size-share-production-revenue-price-and-gross-margin-global-forecast-report-2021-to-2027-2021-07-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Edge Artificial Intelligence (AI) Chip market report provides"
     publishedDateTime: 2021-07-17T04:32:00Z

@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Hyundai to pilot its AI-powered, self-driving RoboShuttle service"
-    excerpt: "The Hyundai RoboShuttle can perceive its surroundings, make decisions, and also control itself whilst on the road..The shuttle's self-driving technology has a range of Level 4-comparable core technologies and has been developed in-house."
-    publishedDateTime: 2021-07-14T09:33:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/hyundai-to-pilot-its-ai-powered-self-driving-roboshuttle-service-41626241874566.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/hyundai-to-pilot-its-ai-powered-self-driving-roboshuttle-service/amp-41626241874566.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/hyundai-to-pilot-its-ai-powered-self-driving-roboshuttle-service/amp-41626241874566.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/07/14/600x338/Large-46909-HyundaiMotortoPilotAutonomousDemand-ResponsiveRoboShuttleService_1626242090813_1626242098639.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Every city's drivers have quirks. Studying them could make self-driving cars work anywhere"
     excerpt: "To understand why it's so hard to make a car that drives itself, pay attention to how people cross the street next time you travel. In Los Angeles, pedestrians wait"
     publishedDateTime: 2021-07-16T08:15:00Z

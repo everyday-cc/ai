@@ -125,6 +125,22 @@ related:
         width: 620
         height: 301
         isCached: true
+  - title: "Tesla Mobile App Update Includes $199 Monthly Self-Driving Subscription"
+    excerpt: "Tesla plans on offering a new subscription version of its Full Self-Driving package with several features for self-driving cars including navigating on autopilot, autopark and other things, a report from Electrek says."
+    publishedDateTime: 2021-07-19T01:48:00Z
+    webUrl: "https://www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/"
+    ampWebUrl: "https://www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/tesla-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Full-Self Driving subscription launched in Tesla cars equipped with hardware 3.0 or above"
     excerpt: "Tesla Full-Self Driving technology is launched in Tesla cars software with a monthly subscription offer at $99- $199."
     publishedDateTime: 2021-07-18T01:00:00Z
@@ -167,6 +183,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "BxVideo's New EZLive Caption Offers Self-Service Transcription, Translation and Captioning for Live-Streaming Video Events"
+    excerpt: "BxVideo, a leader for live-stream video services and products, today announced EZLive Caption, a subscription-based web-service that automatically transcribes, translates and captions live streaming video."
+    publishedDateTime: 2021-07-14T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/14/9409013.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "LMbROvCEIWOHbSAaqpGMorXPKB2jJTl9JUxhZbq2gDfNqHQQUEkWCC51v7Td64nZuIrl0IuYrQ3Z9Zi6E+xUV+uODc6YrA3RHNBufo6OqHQBiBnkSwqpxDz2JQq1OArtfaYZhGhmPHru29+eI0XGOIeyIk+HYYTxfxwWYutoDVlQllKCr/egQx+PDoPRj84jH+u3L9s8F3ZHH5RfLUjudevRZRhz+IQlCuxhQc2V40BxIGuhPFJDOlFrjrTw56mhZUg1BzyN4lOqX9SGXQVUPn0zrBCMttEIwZMKPF1k+NWT+Tpu1giBqY7Hx+sDmp5526dEc8qt16XjM6zMFi5oEhM/aW8aVIPDXGYVn3pgLX4=;d6LPhqQkuKsPIAaWS4sK2g=="
 ---

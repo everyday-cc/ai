@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-13-is-our-machine-learning-ars-takes-a-dip-into-artificial-intelligence.md",
+      "title": "Is our machine learning? Ars takes a dip into artificial intelligence",
+      "excerpt": "In my days as a staffer at Ars, I wrote no small amount about artificial intelligence and machine learning. I talked with data scientists who were building predictive analytic systems based on terabytes of telemetry from complex systems,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2021/07/is-our-machine-learning-ars-takes-a-dip-into-artificial-intelligence/",
+      "originalUrl": "https://arstechnica.com/information-technology/2021/07/is-our-machine-learning-ars-takes-a-dip-into-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/ars-machine-learning1-boxing-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-machine-learning-model-from-the-largest-us-covid-19-dataset-predicts-disease-severity.md",
+      "title": "Machine learning model from the largest US COVID-19 dataset predicts disease severity",
+      "excerpt": "The study, published in the journal JAMA Network Open, looked at risk factors for severe cases of COVID-19 and traced the progression of the disease over time. The authors built machine learning models to predict which hospitalized patients would develop severe disease based on information collected on their first day in a hospital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/7/13/22573753/covid-data-health-records-machine-learning-disease",
+      "originalUrl": "https://www.theverge.com/2021/7/13/22573753/covid-data-health-records-machine-learning-disease",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/wycNcUptzTs63ZG67FZ5p5ZJ0Ns=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69575654/acastro_200428_1777_coronavirus_0002.0.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/7/13/22573753/covid-data-health-records-machine-learning-disease",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/13/22573753/covid-data-health-records-machine-learning-disease",
+      "publishedDateTime": "2021-07-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud.md",
       "title": "Visa on using advanced AI such as unsupervised learning to fight fraud",
       "excerpt": "Visa's Melissa McSherry discusses how Visa uses unsupervised machine learning and other types of AI to fight payment fraud at Transform 2021.",
@@ -1073,110 +1177,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-execs-from-mastercard-paypal-and-goldman-sachs-discuss-major-ai-trends-in-the-finance-industry-at-transform-2021.md",
-      "title": "Execs from MasterCard, PayPal, and Goldman Sachs discuss major AI trends in the finance industry at Transform 2021",
-      "excerpt": "At Transform, panelists discuss how AI is being used in security, fraud detection, identity, personalization, and internal efficiencies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/12/execs-from-mastercard-paypal-and-goldman-sachs-discuss-major-ai-trends-in-the-finance-industry-at-transform-2021/",
-      "originalUrl": "https://venturebeat.com/2021/07/12/execs-from-mastercard-paypal-and-goldman-sachs-discuss-major-ai-trends-in-the-finance-industry-at-transform-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-11-at-9.12.15-AM.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/12/execs-from-mastercard-paypal-and-goldman-sachs-discuss-major-ai-trends-in-the-finance-industry-at-transform-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/execs-from-mastercard-paypal-and-goldman-sachs-discuss-major-ai-trends-in-the-finance-industry-at-transform-2021/amp/",
-      "publishedDateTime": "2021-07-12T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-how-ai-can-enable-better-health-care-outcomes.md",
-      "title": "How AI can enable better health care outcomes",
-      "excerpt": "AI in health care can reduce medical waste and over-testing, cut costs, and improve diagnostics and patient care, a Transform panel agreed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/",
-      "originalUrl": "https://venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/haptics-e1626058454242.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-ai-can-enable-better-health-care-outcomes/amp/",
-      "publishedDateTime": "2021-07-12T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,93 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-07-02-maine-now-has-the-toughest-facial-recognition-restrictions-in-the-us.md",
+      "title": "Maine Now Has the Toughest Facial Recognition Restrictions in the U.S.",
+      "excerpt": "The new law prohibits use of the technology across all levels of state, county, and municipal government, with limited exceptions for law enforcement.",
+      "sourceUrl": null,
+      "webUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html",
+      "originalUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://compote.slate.com/images/cfdef433-ca60-4077-8748-01acfcc00e80.jpeg?width=780&height=520&rect=3500x2333&offset=0x0",
+          "width": 780,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
+      "cdnAmpWebUrl": "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
+      "publishedDateTime": "2021-07-02T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slate",
+        "domain": "slate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-ajnifm-and-microsoft-are-collaborating-to-build-an-ai-coe.md",
+      "title": "AJNIFM and Microsoft are collaborating to build an AI CoE",
+      "excerpt": "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/",
+      "originalUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg",
+          "width": 736,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/",
+      "publishedDateTime": "2021-07-02T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-lunglife-ai-raises-gbp17-mln-in-london-ipo.md",
       "title": "LungLife AI Raises GBP17 Mln in London IPO",
       "excerpt": "By Ian Walker LungLife AI said Friday that it has raised 17 million pounds ($23.4 million) as part of its initial public offering on London's junior AIM.",
@@ -1122,101 +1209,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-accel-robotics-claims-successful-deployment-in-san-diego.md",
-      "title": "Accel Robotics Claims Successful Deployment In San Diego",
-      "excerpt": "San Diego-based Accel Robotics, which develops automated checkout systems designed for retail stores, claims it is seeing growth and success at its first rollout of \"Valet Market\", an automated store its has deployed ata a luxury,",
-      "sourceUrl": null,
-      "webUrl": "https://www.socaltech.com/accel_robotics_claims_successful_deployment_in_san_diego/s-0081447.html",
-      "originalUrl": "https://www.socaltech.com/accel_robotics_claims_successful_deployment_in_san_diego/s-0081447.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.socaltech.com/images/story/valetmarket21b.jpg",
-          "width": 330,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SocalTech",
-        "domain": "socaltech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-study-finds-that-few-major-ai-research-papers-consider-negative-impacts.md",
-      "title": "Study finds that few major AI research papers consider negative impacts",
-      "excerpt": "A new research paper finds that values in the AI research field are centered around performance rather than inclusiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/",
-      "originalUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all",
-          "width": 1198,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/amp/",
-      "publishedDateTime": "2021-07-01T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

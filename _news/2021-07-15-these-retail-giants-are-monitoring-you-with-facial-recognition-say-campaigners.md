@@ -61,20 +61,6 @@ related:
         width: 780
         height: 520
         isCached: true
-  - title: "Activist Groups Urge Retailers to Halt Facial Recognition Use"
-    excerpt: "A new coalition of civil rights organizations is calling on retailers to stop using facial recognition tools to screen shoppers, saying the technology can lead to abuses."
-    publishedDateTime: 2021-07-14T09:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-14/activist-groups-urge-retailers-to-halt-facial-recognition-use"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icrAaz7etyfo/v0/1200x793.jpg"
-        width: 1200
-        height: 793
-        isCached: true
   - title: "Congress Asks Experts for Guidance on Facial Recognition"
     excerpt: "Law enforcement uses facial recognition systems with little oversight and, at times, disastrous impact. During a congressional hearing this week, members and experts talked through how new laws could head off greater harm."
     publishedDateTime: 2021-07-14T23:15:00Z
@@ -106,20 +92,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626635161004_n_capehart_facial_recognition_211807_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "A|I: The AI Times – Scrutinizing facial recognition tech"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2021-07-14T09:30:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-scrutinizing-facial-recognition-tech/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 58
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/09/artificial-intelligence-4389372_12801.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Rights Coalition Demands US Retailers Reject Use of Facial Recognition"
     excerpt: "On the heels of a congressional hearing that highlighted concerns about facial recognition, more than 35 civil rights groups on Wednesday collectively called for retailers to reject the technology in their stores \"to protect the privacy and rights of shoppers and staff."

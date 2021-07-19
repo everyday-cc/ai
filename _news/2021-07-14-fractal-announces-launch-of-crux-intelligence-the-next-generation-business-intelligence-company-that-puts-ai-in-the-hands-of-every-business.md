@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Panasonic launches i-PRO multi-AI system to enhance the power of their AI cameras and applications"
-    excerpt: "Panasonic announces the i-PRO multi-AI system designed to harness the power of its latest AI cameras and applications by integrating them seamlessly into existing CCTV"
-    publishedDateTime: 2021-07-14T12:15:00Z
-    webUrl: "https://www.sourcesecurity.com/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/panasonic-launches-pro-multi-ai-system-co-2566-ga-co-6080-ga-npr.1626261504.html"
+  - title: "Logiq Leverages Sonasoft AI for Business Intelligence"
+    excerpt: "July 15, 2021 - Logiq, Inc., a global provider of award-winning e-commerce and fintech solutions, leverages SAIBRE, Sonasoft Corp.’s (OTCQB: SSFT) AI bot engine, to uncover new business insights and intelligence."
+    publishedDateTime: 2021-07-15T16:46:00Z
+    webUrl: "https://apnews.com/press-release/newmediawire/4ed8a4551569a3cf1877d5286b53eb16"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 45
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
     images:
-      - url: "https://www.sourcesecurity.com/img/news/612/panasonic-updated-range-s-series-cameras-embedded-ai-capabilities-920x533.jpg"
-        width: 612
-        height: 355
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "MoYBAn/VUUlKnXVbhSSgIBbyJyqWLPhqtMYXCR45MMDzQ2MIm/ZA9DlQOAL1i/Kej5gUrkLOhMZ/VqYn2uW7BKYxM3rKUkFxuJQ86o2cY026VvoslWGxLpjMtO9/niBn/ahZdzaDCBIJSVtZSa6a978aETNBKFT9ge+HihCaHW7Ct3ftCBq/hgUGsUGBVnWx2tmVgDJEui2C38FN1RX9kLgG2j96Fu9+4qd0ulpAM82iUo6Fn62y6Dqb4I3ESJpAI9yEzmMz+5zcm47PuH2v/rk5OHiGdcCmn4XoFpbY/v4LspFezbDGLxs/2JiWybwW5Zu6dTxs+b6gi/JQRrb0g+dNQa1hnVYr70sg/UGGtqM=;4ShqtThRFAtMCfe3NxmSrQ=="

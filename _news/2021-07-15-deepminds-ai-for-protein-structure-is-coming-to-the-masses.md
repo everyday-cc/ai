@@ -57,6 +57,22 @@ related:
         width: 1198
         height: 600
         isCached: true
+  - title: "New protein folding technology from UW lab rivals DeepMind, promises to accelerate research"
+    excerpt: "The findings, building on work performed by the Google-owned company DeepMind last fall, were published today in the journal Science, on the same day DeepMind released its approach in the journal ..."
+    publishedDateTime: 2021-07-16T03:04:00Z
+    webUrl: "https://www.geekwire.com/2021/new-protein-folding-technology-uw-lab-rivals-deepmind-promises-accelerate-research/"
+    ampWebUrl: "https://www.geekwire.com/2021/new-protein-folding-technology-uw-lab-rivals-deepmind-promises-accelerate-research/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/new-protein-folding-technology-uw-lab-rivals-deepmind-promises-accelerate-research/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 79
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/07/Rose-TTAFold-630x418.png"
+        width: 630
+        height: 418
+        isCached: true
   - title: "DeepMind and a rival release dueling code for protein-folding AI"
     excerpt: "The race to release both teams’ code reflects not just an advance for computational biology, but for a culture of transparency in the field."
     publishedDateTime: 2021-07-15T18:00:00Z

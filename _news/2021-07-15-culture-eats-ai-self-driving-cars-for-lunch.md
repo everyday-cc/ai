@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c556e2c64f1f80827d3713%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3342%26cropY1%3D21%26cropY2%3D1900"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Hyundai to pilot its AI-powered, self-driving RoboShuttle service"
-    excerpt: "The Hyundai RoboShuttle can perceive its surroundings, make decisions, and also control itself whilst on the road..The shuttle's self-driving technology has a range of Level 4-comparable core technologies and has been developed in-house."
-    publishedDateTime: 2021-07-14T09:33:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/hyundai-to-pilot-its-ai-powered-self-driving-roboshuttle-service-41626241874566.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/hyundai-to-pilot-its-ai-powered-self-driving-roboshuttle-service/amp-41626241874566.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/hyundai-to-pilot-its-ai-powered-self-driving-roboshuttle-service/amp-41626241874566.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/07/14/600x338/Large-46909-HyundaiMotortoPilotAutonomousDemand-ResponsiveRoboShuttleService_1626242090813_1626242098639.jpg"
-        width: 600
-        height: 338
         isCached: true
   - title: "Every city’s drivers have quirks. Studying them could make self-driving cars work anywhere"
     excerpt: "Yet the driverless technology company Argo AI ... and make sure its artificial intelligence systems deeply understand them — not just where the street signs, traffic lights and road markings ..."

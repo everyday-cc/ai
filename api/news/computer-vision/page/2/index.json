@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-06-cyberlinks-facial-recognition-technology-partners-with-asus-edge-computing-single-board-computers-to-create-smart-iotaiot-applications.md",
+      "title": "CyberLink's Facial Recognition Technology Partners with ASUS Edge Computing Single-board Computers to Create Smart IoT/AIoT Applications",
+      "excerpt": "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced a partnership with ASUS, by integrating its FaceMe® AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210706005212/en/CyberLinks-Facial-Recognition-Technology-Partners-with-ASUS-Edge-Computing-Single-board-Computers-to-Create-Smart-IoTAIoT-Applications",
+      "originalUrl": "https://www.businesswire.com/news/home/20210706005212/en/CyberLinks-Facial-Recognition-Technology-Partners-with-ASUS-Edge-Computing-Single-board-Computers-to-Create-Smart-IoTAIoT-Applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night.md",
       "title": "Tencent Deploys Facial Recognition to Detect Minors Gaming at Night",
       "excerpt": "China’s gaming giant Tencent Games has launched one of the most-talked about — and controversial — means to curb excessive play time among children and teenagers so far: a time-sensitive facial recognition system. Starting Tuesday, the gaming ...",
@@ -1353,49 +1387,6 @@
       "provider": {
         "name": "The Sentinel",
         "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-facial-recognition-use-by-liberals-raises-issues-says-bcs-privacy-commissioner.md",
-      "title": "Facial recognition use by Liberals raises issues, says B.C.'s privacy commissioner",
-      "excerpt": "British Columbia's information and privacy commissioner says he's considering launching an investigation into the use of facial recognition technology by the Liberal Party of Canada.",
-      "sourceUrl": null,
-      "webUrl": "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881",
-      "originalUrl": "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881/_jcr_content/root/responsivegrid/image.coreimg.jpg",
-          "width": 1020,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html",
-      "publishedDateTime": "2021-06-24T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
         "images": null,
         "publishers": null,
         "authors": null

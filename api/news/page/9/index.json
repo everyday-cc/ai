@@ -2,6 +2,100 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-07-10-ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance.md",
+      "title": "AI Weekly: TikTok’s algorithm licensing signals China’s play for AI dominance",
+      "excerpt": "Join AI & data leaders at Transform 2021 on July 12th for the AI/ML Automation Technology Summit. Register today. This week, TikTok parent company ByteDance began licensing parts of its AI technologies to third parties through a new division called BytePlus.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/",
+      "originalUrl": "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/TikTok.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/amp/",
+      "publishedDateTime": "2021-07-09T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-ai-natural-language-processing-company-brain-ventures-selected-as-a-data-voucher-processing-company-by-the-korea-data-industry-promotion-agency.md",
+      "title": "AI Natural Language Processing Company \"Brain Ventures\" Selected as a Data Voucher Processing Company by the Korea Data Industry Promotion Agency.",
+      "excerpt": "Meanwhile, Brain Ventures has developed an AI video content automatic translator and short answer ... and communicates with human languages.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing",
+      "originalUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_580.jpg?itok=YpqM4i8D",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp",
+      "publishedDateTime": "2021-07-09T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g.md",
       "title": "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G",
       "excerpt": "G is beginning to power everything from connected farms to connected cars! Recently, Halo launched one of the first commercial driverless car services in the U.S. running on the T-Mobile (NASDAQ: TMUS) 5G network in Las Vegas.",
@@ -1058,83 +1152,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-aws-iot-core-for-lorawan-comes-to-sydney-cloud-region.md",
-      "title": "AWS IoT Core for LoRaWAN comes to Sydney cloud region",
-      "excerpt": "The move allows users to “leverage” Amazon SageMaker, a managed ML service, without moving data or learning a new skill, AWS claimed. Writing in a blog post during its general availability ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/689680/aws-iot-core-lorawan-comes-sydney-cloud-region/",
-      "originalUrl": "https://www.arnnet.com.au/article/689680/aws-iot-core-lorawan-comes-sydney-cloud-region/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_website_crop.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-ai-natural-language-processing-company-brain-ventures-selected-as-a-data-voucher-processing-company-by-the-korea-data-industry-promotion-agency.md",
-      "title": "AI Natural Language Processing Company \"Brain Ventures\" Selected as a Data Voucher Processing Company by the Korea Data Industry Promotion Agency.",
-      "excerpt": "The selection as the data voucher processing company is a feat accomplished by Brain Ventures, an AI-based natural language processing company, after 9 months of its establishment. It was evaluated highly for tangible research achievements such as the publication of research papers on AI natural language processing and the application of 5 patents and trademarks in a short period of time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-ai-natural-language-processing-company-bra-ventures-selected-/2021/07/09/9406147.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-ai-natural-language-processing-company-bra-ventures-selected-/2021/07/09/9406147.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-16-carnegie-melon-professor-develops-real-time-learning-four-legged-robot.md",
+      "title": "Carnegie Melon professor develops real-time learning four-legged robot",
+      "excerpt": "The artificial intelligence robot developed by Carnegie Melon University Professor Deepak Pathak can adapt in real-time and teach itself how to maneuver through rocks, sand, grass and oil-covered surfaces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
+      "originalUrl": "https://www.upi.com/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/ph/st/th/7871626448726/2021/i/16264493693954/v1.5/Carnegie-Melon-professor-develops-real-time-learning-four-legged-robot.jpg?lg=2",
+          "width": 637,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
+      "publishedDateTime": "2021-07-16T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate.md",
+      "title": "Anthony Bourdain Documentary ‘Roadrunner’ Sparks A Strange Ethics Debate",
+      "excerpt": "Neville stated: “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know. We can have a documentary-ethics panel about it later.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/",
+      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 393,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f1a2151251a7c507b4358e%2F0x0.jpg",
+          "width": 1200,
+          "height": 824,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/",
+      "publishedDateTime": "2021-07-16T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech.md",
       "title": "Sense Photonics Sees Flash LiDAR As Best Path To Full Self-Driving Tech",
       "excerpt": "Sense Photonics is on a mission to make LiDAR, the core of self-driving technology, more affordable and less obtrusive. And it is leveraging two elements of the iPhone 12 to get there. Today, most autonomous vehicles in test fleets have a cumbersome ...",
@@ -400,7 +495,7 @@
       "originalUrl": "https://www.slashgear.com/speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen-16682689/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -486,6 +581,48 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-discussio-launches-artificial-intelligence-toolkit.md",
+      "title": "Discuss.io launches artificial intelligence toolkit",
+      "excerpt": "Video insight company Discuss.io has added a set of insight tools to its platform, based on artificial intelligence (AI) and natural language processing (NLP).",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/discussio-launches-artificial-intelligence-toolkit/id/5086692",
+      "originalUrl": "https://www.research-live.com/article/news/discussio-launches-artificial-intelligence-toolkit/id/5086692",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5086692&name=discussio-launches-artificial-intelligence-toolkit",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5086692&name=discussio-launches-artificial-intelligence-toolkit",
+      "publishedDateTime": "2021-07-16T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -757,57 +894,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-deepmotions-ai-motion-capture-solution-adds-markerless-face-tracking.md",
-      "title": "DeepMotion's AI Motion Capture Solution Adds Markerless Face Tracking",
-      "excerpt": "The team at DeepMotion further advanced their mission to revolutionize motion capture technology by introducing markerless Face Tracking. The AI-powered motion capture solution is now more complete with the ability to capture full-body motion now with facial expressions - all from a single video.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmotion-s-ai-motion-capture-solution-adds-markerless-face-tracking-1030613378",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmotion-s-ai-motion-capture-solution-adds-markerless-face-tracking-1030613378",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1575317/DeepMotion_Animate_3D_just_launched_markerless_Face_Tracking_Infographic.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-16-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
       "title": "AI & ML latest: Google disbands another AI ethics committee",
       "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
@@ -913,7 +999,7 @@
       "originalUrl": "https://www.techspot.com/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1093,110 +1179,6 @@
         "AI Ethics",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-what-happens-when-robots-make-fake-news.md",
-      "title": "What Happens When Robots Make Fake News?",
-      "excerpt": "Writing created by artificial intelligence has dramatically improved over the last few years. Such robot-generated text is now used in newsrooms as well as by companies looking to generate content quickly and cheaply.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/",
-      "originalUrl": "https://www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f083d5cfdd52608822ee31%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/amp/",
-      "publishedDateTime": "2021-07-15T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds.md",
-      "title": "Attackers can elicit ‘toxic behavior’ from AI translation systems, study finds",
-      "excerpt": "Watch now! Neural machine translation (NMT), or AI techniques that can translate between languages, is in widespread use today owing to its robustness and versatility. But it’s been shown that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/amp/",
-      "publishedDateTime": "2021-07-15T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

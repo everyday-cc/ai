@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90437-researchers-develop-deep-lea
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use machine learning to translate brain signals from a paralyzed patient into text"
-    excerpt: "In a study published Wednesday in the New England Journal of Medicine, researchers at the University of California, San Francisco, describe an approach that combines a brain-computer interface and machine learning models that allowed them to generate text ..."
-    publishedDateTime: 2021-07-14T21:07:00Z
-    webUrl: "https://www.statnews.com/2021/07/14/machine-learning-translate-brain-signals-text/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 59
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/07/UCSF_ChangLab_239-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Intelligent real-time sign language translator designed by teens wins £20,000 national tech-for-good prize"
     excerpt: "winning £20,000 thanks to their two-way AI-enabled British Sign Language (BSL) translator - BSL: Educate-2-Translate. The prize challenges young, innovative minds to design and develop technological solutions to the big issues of our time that deliver ..."
     publishedDateTime: 2021-07-16T05:25:00Z

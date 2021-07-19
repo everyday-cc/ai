@@ -105,20 +105,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
-  - title: "Artificial Intelligence in Accounting Market Report by Size, Share, Production, Revenue, Price and Gross Margin: Global Forecast Report 2021 to 2027"
-    excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in"
-    publishedDateTime: 2021-07-14T10:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-report-by-size-share-production-revenue-price-and-gross-margin-global-forecast-report-2021-to-2027-2021-07-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Retail Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Retail Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial intelligence (AI) refers to machines that can mimic"
     publishedDateTime: 2021-07-16T01:27:00Z

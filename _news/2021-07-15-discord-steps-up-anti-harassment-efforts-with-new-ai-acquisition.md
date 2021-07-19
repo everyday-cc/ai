@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nme.com/news/gaming-news/discord-steps-up-anti-harrassme
 cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/discord-steps-up-anti-harrassment-efforts-with-new-ai-acquisition-2993137?amp"
 type: article
 quality: 157
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 Artificial Intelligence Mergers and Acquisitions in 2021"
-    excerpt: "The coronavirus pandemic has exposed the operations and supply chain management of tech companies. This article has listed the top 10 Artificial Intelligence mergers and acquisitions from Microsoft, Google and so on to enhance cybersecurity efficiently."
-    publishedDateTime: 2021-07-14T11:00:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-mergers-and-acquisitions-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/AI-4.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Discord scoops up harassment-detection AI startup Sentropy"
     excerpt: "While existing customers of Sentropy’s products are essentially being given a couple of months to migrate elsewhere, Discord users might welcome the move, as Sentropy’s founders say they’re “joining Discord to continue fighting against hate and abuse on the internet."
     publishedDateTime: 2021-07-16T20:00:00Z

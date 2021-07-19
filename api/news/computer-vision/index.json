@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-19-duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m.md",
+      "title": "Duke Energy used computer vision and robots to cut costs by $74M",
+      "excerpt": "Duke Energy’s AI journey began because the utility company had a business problem to solve, Duke Energy chief information officer Bonnie Titone told VentureBeat’s head of AI content strategy Hari Sivaraman at the Transform 2021 virtual conference on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/",
+      "originalUrl": "https://venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/duke.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/amp/",
+      "publishedDateTime": "2021-07-18T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-facial-recognition-creates-risks-for-trans-individuals-others.md",
       "title": "Facial Recognition Creates Risks for Trans Individuals, Others",
       "excerpt": "As more government entities look to adopt facial recognition, concerns have been raised about its potential risks and how the technology might have disproportionate impacts for transgender and nonbinary individuals.",
@@ -244,7 +296,7 @@
       "originalUrl": "https://wwd.com/business-news/technology/civil-rights-groups-protest-facial-recognition-tech-stores-1234882271/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 294,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -1348,40 +1400,6 @@
       "provider": {
         "name": "Embedded",
         "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-cyberlinks-facial-recognition-technology-partners-with-asus-edge-computing-single-board-computers-to-create-smart-iotaiot-applications.md",
-      "title": "CyberLink's Facial Recognition Technology Partners with ASUS Edge Computing Single-board Computers to Create Smart IoT/AIoT Applications",
-      "excerpt": "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced a partnership with ASUS, by integrating its FaceMe® AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210706005212/en/CyberLinks-Facial-Recognition-Technology-Partners-with-ASUS-Edge-Computing-Single-board-Computers-to-Create-Smart-IoTAIoT-Applications",
-      "originalUrl": "https://www.businesswire.com/news/home/20210706005212/en/CyberLinks-Facial-Recognition-Technology-Partners-with-ASUS-Edge-Computing-Single-board-Computers-to-Create-Smart-IoTAIoT-Applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
