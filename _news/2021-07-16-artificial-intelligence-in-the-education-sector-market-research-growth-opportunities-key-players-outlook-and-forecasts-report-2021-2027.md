@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2027"
-    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
-    publishedDateTime: 2021-07-15T03:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence(AI)Chips Market Segment by Revenue, Size, CAGR and Growth Analysis 2025-AMD(Advanced Micro Devices)"
-    excerpt: "This report presents the worldwide Artificial Intelligence (AI)Chips System market size (value, production and consumption), splits the breakdown (data status 2016-2020, and forecast to 2025), by Companies,"
-    publishedDateTime: 2021-07-17T11:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-segment-by-revenue-size-cagr-and-growth-analysis-2025-amdadvanced-micro-devices-2021-07-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Edge AI Market Size and Growth Prospects 2019 – 2027"
     excerpt: "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry"
     publishedDateTime: 2021-07-15T20:08:00Z
@@ -66,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Neural Network Software Market Report 2021: Market Size and Growth Projections to 2028"
+    excerpt: "A neural network is a framework of hardware and software patterned after the operation of neurons in the human brain."
+    publishedDateTime: 2021-07-16T20:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-report-2021-market-size-and-growth-projections-to-2028-2021-07-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -85,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Natural Language Processing Market 2021 Analysis of Key Trends, Industry Dynamics and Future Growth 2025 with Top Countries Data"
-    excerpt: "Jul 15, 2021 (Market Insight Reports) -- Overview for \"Healthcare Natural Language Processing Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. The study of Healthcare Natural Language Processing market ..."
-    publishedDateTime: 2021-07-15T08:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2021-analysis-of-key-trends-industry-dynamics-and-future-growth-2025-with-top-countries-data-2021-07-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Supply Chain Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027"
     excerpt: "Market Expertz latest study, titled ‘Global Artificial Intelligence in Supply Chain Market,’ sheds light on the crucial aspects of the global Artificial Intelligence in Supply Chain market. The Artificial Intelligence in Supply Chain report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027)."
     publishedDateTime: 2021-07-15T06:17:00Z
@@ -113,17 +85,34 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "2021 Artificial Intelligence (AI) In Drug Discovery Market Size, Revenue, Growth Development, Opportunities, Trends, Forecast To 2030"
-    excerpt: "Artificial Intelligence for drug discovery is a technology that uses ... Located globally it has specialist consultants in a wide range of industries including manufacturing, healthcare, financial services, chemicals, and technology. The World’s Most ..."
-    publishedDateTime: 2021-07-15T04:51:00Z
-    webUrl: "https://www.openpr.com/news/2328853/2021-artificial-intelligence-ai-in-drug-discovery-market"
-    ampWebUrl: "https://www.openpr.com/amp/2328853/2021-artificial-intelligence-ai-in-drug-discovery-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2328853/2021-artificial-intelligence-ai-in-drug-discovery-market"
+  - title: "Artificial Intelligence in BFSI Market to Enjoy Explosive Growth by 2027"
+    excerpt: "The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028, according to latest analysis by Emergen Research. AI understands customer behavior and allows banks to customize financial products and services by adding personalized features to build strong relationships with customers."
+    publishedDateTime: 2021-07-16T12:37:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-bfsi-market-to-enjoy-explosive-growth-by-2027/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 38
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/3-4-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Artificial Intelligence Voice Market Growth – Key Futuristic Trends and Competitive Landscape 2021-2026"
+    excerpt: "Big Market Research recently added a new informative report titled ” Global Artificial Intelligence Voice Market ” in its humongous database that helps shape the future of com"
+    publishedDateTime: 2021-07-17T17:10:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-voice-market-growth-key-futuristic-trends-and-competitive-landscape-2021-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 21
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/chemical4-25-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "Artificial Organs Market Growth, Future Prospects, Opportunity Analysis, Industry Forecast 2027"
     excerpt: "The global artificial organs market is expected to reach USD 32.62 Billion by 2027, according to a new report by Emergen Research. The specialist consulting approach adopted to study the Artificial Organs market by size,"
     publishedDateTime: 2021-07-16T11:46:00Z
@@ -138,6 +127,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Self-driving Car Technology Market Present Scenario and Growth Prospects 2021-2026"
+    excerpt: "The Global Self-driving Car Technology market exhibits comprehensive information that is a valuable source of insightful data for business strategists during the decade 2015-2026. On the basis of historical data,"
+    publishedDateTime: 2021-07-18T02:42:00Z
+    webUrl: "https://manometcurrent.com/self-driving-car-technology-market-present-scenario-and-growth-prospects-2021-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 0
 
 secured: "EBKbRBfPCb77KbCz/tahz15sjxNYTHWA/EVns04cpTXWVSrD4NkeDhuh2Sf8ZGSurVEQVfNbBXLsZmgJt8fkZiIxGzOCz+D8QFBADmuWlfrb8+WJrcQN/TuAkRSFYKAWZ6Dztv/6SyL04thmLRap/aGhJoW8XOgGtzSRQ054L8ii76UiELR81q4tHmsruUmTkhxGeZy+HqxtkmE8pcPsX+nHYFnXE6WwkibFEGjHOASz/neBb4IpAesfYAFt4SIlX3L0FrPBKQh6ejbU0W7kkua/ZX5kjxYCGV4T4TaO/Ba2W3v7KWnie5SRDViC1DGGQ8pbajrTgw28zAp2BkZM2xIB7FQTQYX1ccGbf1b/A8o=;NGEpUZZjnfNu2lPbv1j/HQ=="
 ---

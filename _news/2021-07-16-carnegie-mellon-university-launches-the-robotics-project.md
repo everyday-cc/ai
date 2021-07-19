@@ -71,15 +71,6 @@ related:
         width: 600
         height: 900
         isCached: true
-  - title: "Team At Carnegie Mellon University Develop Four-Legged, Real-Time Learning Robot"
-    excerpt: "That’s probably the best way to describe the new artificial intelligence robot from Professor Deepak Pathak that he developed with a research team at the school. The four-legged robot learns to adapt in real-time,"
-    publishedDateTime: 2021-07-15T03:48:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/2021/07/15/cmu-real-time-learning-robot/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 14
 
 secured: "L+PKqk2CbA+u2WqIuXkR+8YBrLcr9JvPxl+dp0uo0w2Rpxil+giqJTIcsIcWuT+GZxHr39vRn13Q5IM4lmub8kpMBPwxVxTxGYVmpyqqQrTwSo6EplUz9VjRs0zfjo0ZXCwIlNgUbqg1HmkXi4y5yn4PkcmwxrTSAViIdYo+ZNEkyuOhY+cA+fmlI5RDWlHPpDzk+8LGYdjLH4lU9kSVY8Ks2TdhQEB77GURTXFdFv7On300aL8bd6hFeizsrg6z4scl8bZMFXnGg/L7jUP/K9zmyT81Qvz2KwXtQsL338Fkc2IQHAbilrz5Uo4hBugZZqFa53blZMYV2QC6zZQAmwNP6nVd9883WYoDBNPJnUToQ+la9uvHgzQLFexojl3DVwsWCmHgqUERcO5gfJ5eh4XylBcQ5aZ/+HR1FLj9POPL7dZ/MW+zmRmQHkgTpVpmPwYhqFmMa0P2qr+RPLUEz1IIgYxn8DSUlfF0stDsO3MF87GHf/fsxIpNt0/rLF/FKcJrhWY14CylSKO7nCjabw==;0SIXL07aDqNR1VgmOJ/mlA=="
 ---

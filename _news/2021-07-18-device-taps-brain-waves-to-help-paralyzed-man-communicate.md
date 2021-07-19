@@ -69,20 +69,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Brain waves used to help paralyzed speak"
-    excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak – and turned what he intended to say into sentences"
-    publishedDateTime: 2021-07-15T04:00:00Z
-    webUrl: "https://www.journalgazette.net/news/health/20210715/brain-waves-used-to-help-paralyzed-speak"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 39
-    images:
-      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210715/ARTICLE/307159958/AR/0/AR-307159958.jpg"
-        width: 800
-        height: 536
-        isCached: true
 
 secured: "im+DtTcfcgeAOG95AMr67214w4OSKsldZK+69+VAYlIkA0DtFIZ1CJJHDtuukNuM4HNphUYRHHuhThGVqJlD41/ggB2fH2GIC3t9CQ2pdUWwD+IZdVFKX/GL5BakVSle3YhAodJJhWdsVaQW738LarAcvBEXe9F7MFAIerpy5oqPVyuuEFcEjn58WelZm76r3kqbutRQ/L5CTtDyIEF8yaVKpczxHuki1sUxrt51n75DBcagV6EXqxWj8CdPXiCEUHYVEqKqM4a/lFjdCxbhT0M75gyGWOPxgoDTGDMq3/FEXGgvsI2x/D1iHrOe6qTC47eGg3WlqmLeXFDMNCzgd6kn1cDtxuN55/UuBmf8DcE8QpDuAcHIWe4/Pj5eKLQBOOZAAidHT++yaGCVGq6t5OwM37K+Sr1Tfx+bbT2Ax2Cm5RI3yf7k27y/J1aHitT3UfnMqGUWmZHhBTaxAaTgIJZJsGCVCimeujIoB1PuAY4L7KwSh9UsChXXK3aSrL7/8eS0oc9CcULhOK9kGaya0A==;2+i91d956ww3ZaS0EtwZcw=="
 ---

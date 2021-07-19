@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/22035744"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22035744"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Neural Network Software Market Report 2021: Market Size and Growth Projections to 2028"
-    excerpt: "A neural network is a framework of hardware and software patterned after the operation of neurons in the human brain."
-    publishedDateTime: 2021-07-16T20:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-report-2021-market-size-and-growth-projections-to-2028-2021-07-16"
+  - title: "Global Personal Artificial Intelligence and Robotics Markets 2021-2026 by AI and Robot Type, Components, Devices and Solutions - ResearchAndMarkets.co"
+    excerpt: "The \"Personal Artificial Intelligence and Robotics Market by AI and Robot Type, Components, Devices and Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report evaluates the market for personalized robots,"
+    publishedDateTime: 2021-07-19T12:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=501646"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Global Face Recognition Terminal Market Growth 2021-2026"
     excerpt: "Pages Report] Check for Discount on Global Face Recognition Terminal Market Growth 2021-2026 report by LP Information INC. According to this latest study, the 2021 growth of"
@@ -50,15 +50,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 19
-  - title: "Self-driving Car Technology Market Present Scenario and Growth Prospects 2021-2026"
-    excerpt: "The Global Self-driving Car Technology market exhibits comprehensive information that is a valuable source of insightful data for business strategists during the decade 2015-2026. On the basis of historical data,"
-    publishedDateTime: 2021-07-18T02:42:00Z
-    webUrl: "https://manometcurrent.com/self-driving-car-technology-market-present-scenario-and-growth-prospects-2021-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
 
 secured: "H8Xjodxuiag9afXHDJtuXOvI8XLWE02KkF0V/zhmXYawjdC6tSkbuA0xpyhIMCehG5b6q27p9yCvw2VqZcG/LyH7TJr4FPEFRNmPGL8rq44zN8BlynTEPtRG4xQlMq7LoWAzfTvFY8hu7fAoWQrPe0mAXIzmgdrLw6usk234MrH9kJ246WMVUkA6pZEbEktW2a4zEIfiyHDnE9Z3RhpzJ9pp3IxtNancKUFdTBfBGdu+Nijv+AYJolyBGDX8cFQIwV7NN7dobBMfuJ8EZhDCNkK/AWwdVSoo0GJAZb7VrY0mJr0JTNGd0WmWoQVRT3xVcPkQh5FyUfAIhyzesnERbe29Ytq5tYO0QXeeSW+iKFY=;LLpC9DBcMJcLQaWnaaeBUg=="
 ---

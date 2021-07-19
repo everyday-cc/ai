@@ -317,6 +317,17 @@ related:
         width: 1344
         height: 756
         isCached: true
+  - title: "Tesla’s Full Self-Driving Costs as Much Per Month as Leasing an Entire Car"
+    excerpt: "Now, Tesla is offering the same package for a cool $199 per month as well, Reuters reports — or $99 for Tesla owners who already bought into the now-discontinued Enhanced Autopilot package. That’s a substantial amount of money — about as much as you’d pay on a used car lease,"
+    publishedDateTime: 2021-07-19T20:05:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-full-self-driving-subscription"
+    ampWebUrl: "https://futurism.com/tesla-full-self-driving-subscription/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-full-self-driving-subscription/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 37
   - title: "Tesla wants you to drop up to $200 a month for its Full Self-Driving feature"
     excerpt: "If you’re a Tesla owner and didn’t purchase Full Self-Driving (FSD) when you first bought your car, you’re in luck. Tesla is now offering the chance to get FSD as a monthly subscription. It was bound to happen,"
     publishedDateTime: 2021-07-19T15:56:00Z
@@ -332,6 +343,6 @@ related:
         height: 600
         isCached: true
 
-secured: "3x4VVYraEMGP60asKyKEQDVlgx+agMBF7GdhWFiwm5aIi5cUdrAJF/OthQHURqCxnnH+36H99e9o4TgRh/UGnHlr9OcI0Cxye4wn+YWCiiHQ6b0Zlq67UvWkLmLRtgLg6YfC9DwovoImwgw3AD6Pt/HGM2kYNljpiyD9wu055LTPuv8BKcqThkMQT1JCsmbIjkUQ40PLZqhntJByW+ix8ThCz2wZjiUtizhnj2LurvjNNA7cJYgORv/SKdk3dg0KtM1v2buGvOAtEdHroZyisHwhgWGgpE6br/pkasnhC6SzMC5EHdZLYQqj5Nj0uTTy0S0bcmiU5TZEzQOPHMx54iKzEpldAdxDsu0+vjsRUY0=;LJBV3Ixt1XDGLU0KMvHqhA=="
+secured: "AG/m7VySXpMF48KpP6fcKHBYX19qJwAyi7NiyKsb9h9O9fKpf0qfa56S0Yh+nixGyIu8GxWmEe6dr9fz5AnWXvLzdyig4ikNrnImMwmfYhoZrOY1IuDnY7Aht4fPI73+MP7zPhFXHjE3RKdfqyyedx0VuP4U2BO9kBWtJFpn3zC5SOx+GS9esi0o4IxwypCAV4J9kOIm74WeY+1RoxbjP8Ge1KWK4WNwISP/wk4T0B0cbSF0wE0bQikeFOyTglLV1PfffMRaS0WQzDn2QMFnoMxS/ec9ZhjAKaSblaqzW4SB4NN6YxX8W8oxsIr78Z2drXOuYcyfNLIWaTNUOL80x7yvDZL6eQI5hQoQh/jRGNJeXjiiD9HALAinSDd09OQiWdm7Pxf6AUA4RcLajFHtzmz6tjcvV/U0FZ8WYiTpc5m3H/iABAN+ZsxCOTmw5Kof8Wvx0FDsznc7xUcLE8VQv3fe+fxynla2erVdUhKjyiQYOzxAZHjRGkwhkkAp7i6C2ltXeOJhosArvmKfncV86A==;vYQYhQLmAcS6BLF+iZm1mQ=="
 ---
 

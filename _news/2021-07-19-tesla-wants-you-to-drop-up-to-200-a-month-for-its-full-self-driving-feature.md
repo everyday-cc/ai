@@ -331,6 +331,17 @@ related:
         width: 1344
         height: 756
         isCached: true
+  - title: "Tesla’s Full Self-Driving Costs as Much Per Month as Leasing an Entire Car"
+    excerpt: "Now, Tesla is offering the same package for a cool $199 per month as well, Reuters reports — or $99 for Tesla owners who already bought into the now-discontinued Enhanced Autopilot package. That’s a substantial amount of money — about as much as you’d pay on a used car lease,"
+    publishedDateTime: 2021-07-19T20:05:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-full-self-driving-subscription"
+    ampWebUrl: "https://futurism.com/tesla-full-self-driving-subscription/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-full-self-driving-subscription/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 37
 
 secured: "NUVyiEccHcd2m7yo9sZzjXn7PV7KsvFbfDJBudEgLxpSeEBC36PCvB5b1HAmgF2GMQ4C6nd/O67NLvbUIPW0aqF5eixX8PBedhZ6Q211sHNHGmA4PzPJoxnTTBKmJI6zIp+/Enf5x3AIVVeKIgSOdBc/itfwrtbn+HNJvRTywqcB0UOjF/yhczeiq+RZe0aJC6INp2Aun37U4icMMYangW5kYXsZNUh7/YZYPRcSWiXQQkxOyx3C4HjmcyCGdBFlL28oiXwG8tiRXvt0zOwQO4Xlc14qnj8FT8AO/I3+VJ036whiBGwun7ZrYpBZs/V4bXP6AFMc9sYMHpEgnA2Kc2WWolEZiKOm4ZaiESQ7UM0L2YYTkOFh7g/4lmOOGx9YM1/qM//MhY0M4LmLgZJRl7iX4CCIQ6NEpGeWmzwxcTK9O7lo8+JUGZHiS8ofjRXQEk1bFTFXzeqOgSrnsuu80CC573tv2KtKVuKzX/v649Av7Te/jSq6iEwmnz65HEZyGUVDb1Lw66qLs/ba9j+lpQ==;lr04OrSLbHTLqQ2i+uzjBg=="
 ---

@@ -56,6 +56,20 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Do Commercial Chatbots Need Conversational AI?"
+    excerpt: "Commercial chatbots are becoming more sophisticated with the addition of conversational AI. Digital conversations, aided by natural language processing (NLP), are able to understand customer intent, resulting in enhanced customer journeys that can quickly provide users with the information they need or connect them with a live"
+    publishedDateTime: 2021-07-19T17:13:00Z
+    webUrl: "https://www.digitaljournal.com/pr/do-commercial-chatbots-need-conversational-ai"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Vaccine-Covid-Pandemic-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "ZbeTuPNO7/rtkXrZH96tRkxcuxgVocjij1g5X9DvZtmUpydLzb5EFZiXoMDbIB8DcBRGTeOrXlpnZGFlHuqgo4MD6moySyuOVJb0/ydyVUQc92lFK5aItld+RTcj20c3xv8oPrdca4V/7oo3OKk7BrqqgHMBQJSvGcuBXJln3i95sC6rGyyx05EewviPZJ4oiaLZHdQzqrAt4iTFlEO84eHdr5r8EvuvJB7zpkzvzIx3e/6rXmYwDqgcc/eGSppTOMLbemc2V/ZA2uwTi6kfXiQQUGmd4PA1Fom2KcM8MH0l82ljh8bMpvtQDAD+Wd48Q4BpD91XOKK1onx9RbWW7VNZ44Eb4Q0fuijQmgv6v6E=;Tl/fhWSKzNSNPvtf29HnBA=="
 ---

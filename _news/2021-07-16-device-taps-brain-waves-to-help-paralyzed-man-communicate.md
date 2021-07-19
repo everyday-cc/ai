@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voanews.com/science-health/device-taps-brain-waves-help-
 cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/science-health/device-taps-brain-waves-help-paralyzed-man-communicate?amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/5867be7b160e7a86d2820bee7dabf00448056851/0_0_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4c467fe90e256a5c08619dcf2bc39e54"
         width: 600
         height: 360
-        isCached: true
-  - title: "Brain waves used to help paralyzed speak"
-    excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak – and turned what he intended to say into sentences"
-    publishedDateTime: 2021-07-15T04:00:00Z
-    webUrl: "https://www.journalgazette.net/news/health/20210715/brain-waves-used-to-help-paralyzed-speak"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 39
-    images:
-      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210715/ARTICLE/307159958/AR/0/AR-307159958.jpg"
-        width: 800
-        height: 536
         isCached: true
   - title: "Device taps brain waves to help paralyzed man communicate"
     excerpt: "In a medical first, researchers have harnessed the brain waves of a paralyzed man unable to speak to help him communicate better."

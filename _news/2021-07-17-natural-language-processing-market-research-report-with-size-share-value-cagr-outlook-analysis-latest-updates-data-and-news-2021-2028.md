@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-17"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -29,29 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing in BFSI Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021"
-    excerpt: "The Natural Language Processing in BFSI market report provides a detailed analysis of global market size, regional"
-    publishedDateTime: 2021-07-19T13:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-in-bfsi-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2021-07-19"
+  - title: "Healthcare Natural Language Processing Market 2021 Analysis of Key Trends, Industry Dynamics and Future Growth 2025 with Top Countries Data"
+    excerpt: "Jul 15, 2021 (Market Insight Reports) -- Overview for \"Healthcare Natural Language Processing Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. The study of Healthcare Natural Language Processing market ..."
+    publishedDateTime: 2021-07-15T08:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-2021-analysis-of-key-trends-industry-dynamics-and-future-growth-2025-with-top-countries-data-2021-07-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neuromorphic AI Semiconductor Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2027"
-    excerpt: "The Neuromorphic AI Semiconductor market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
-    publishedDateTime: 2021-07-19T13:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neuromorphic-ai-semiconductor-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2020-2027-2021-07-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -317,6 +317,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tesla’s Full Self-Driving Costs as Much Per Month as Leasing an Entire Car"
+    excerpt: "Now, Tesla is offering the same package for a cool $199 per month as well, Reuters reports — or $99 for Tesla owners who already bought into the now-discontinued Enhanced Autopilot package. That’s a substantial amount of money — about as much as you’d pay on a used car lease,"
+    publishedDateTime: 2021-07-19T20:05:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-full-self-driving-subscription"
+    ampWebUrl: "https://futurism.com/tesla-full-self-driving-subscription/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-full-self-driving-subscription/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 37
   - title: "Tesla wants you to drop up to $200 a month for its Full Self-Driving feature"
     excerpt: "If you’re a Tesla owner and didn’t purchase Full Self-Driving (FSD) when you first bought your car, you’re in luck. Tesla is now offering the chance to get FSD as a monthly subscription. It was bound to happen,"
     publishedDateTime: 2021-07-19T15:56:00Z
@@ -332,6 +343,6 @@ related:
         height: 600
         isCached: true
 
-secured: "4kb1ltQ/1s9/DY8ThSXVXJxvPrguenVctsi/0ZaMWhj8jtU1dEIwkiWPXSUBfVQN0ABVlg6y//mH5nDWYW3RtYDAVIGVi87Y76frRcF/EdZgKnJKbjllfnObtdbL7gLK5cI7AjuZVVfVq916PPq8XnMV9DU9lD5HdK98uB4Kt+iTP/xLuztb26l48IFIP4IFa5pwwdabF2v1WVtvxYeSzoI8go8oUKqyTKwCKeDjx5oTLkM/GXeMa0EffRFcaMStGIeg/yiyTsM9ZFtajHYKU1YKzC2xpBVdxMNm48y/g297YsmLn6jyuX9xLHiaAa438j63F9f/CmC9/4pIeqqoQfKtDncSxlNtcKMzKXyZ14g=;RhrTjKw+9k6joJ55OhbVzA=="
+secured: "/v6It+fWLkWyAKDwMIlTKotOR9lyIfp7/h0OhY5dxW/vyAVfgCo/Y1gla+DTIyyjB5PSSfnk7hBLToDYYXURSR1Q20bezjf8lREmsQa0S1209fN3bc6t+y8NHhd2ry4gD2riGVYwa/TiehDvnVNygF/qN3KWiupzZEAF9d4dljVKQi6DVKKzGAW3eHOdRp/by8mVVgTSz5SP47NuU1VRPNUYQDsq3QQo7CZ29TeShqmcMq4JA4Xrfe/SCDOrSVnT81htwP8n7JMkFkEfhrrqtgKb9vYAaIKbAB1HKdmnPYKbLtbQE/9pKPFR0r7TjGxcgNcsDfnLzwWNvplOXpi3/K0ZPgdgfVloQe+BZOxi/opafeETqO8aDCbUFRuEA4unBijqKvKjuaDkLC/7FfKGNvF73OBegxfFRTrc7Aa2ACTteA/oRDcX4470oloXZFRNtw1zd+4WyBvpjkSpswjsoItsNIOHCOfmKPDRN34WuyGlX/Ddep29ztxUhEq+cz6HUUbFbu7/9gXYy95bQH2jlg==;2SsX5QFQG/RwjlQl4ib3Cg=="
 ---
 

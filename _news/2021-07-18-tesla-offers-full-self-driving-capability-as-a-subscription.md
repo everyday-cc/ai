@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
 type: article
 quality: 89
-heat: 299
+heat: 309
 published: true
 
 provider:
@@ -321,6 +321,17 @@ related:
         width: 1344
         height: 756
         isCached: true
+  - title: "Tesla’s Full Self-Driving Costs as Much Per Month as Leasing an Entire Car"
+    excerpt: "Now, Tesla is offering the same package for a cool $199 per month as well, Reuters reports — or $99 for Tesla owners who already bought into the now-discontinued Enhanced Autopilot package. That’s a substantial amount of money — about as much as you’d pay on a used car lease,"
+    publishedDateTime: 2021-07-19T20:05:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-full-self-driving-subscription"
+    ampWebUrl: "https://futurism.com/tesla-full-self-driving-subscription/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-full-self-driving-subscription/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 37
   - title: "Tesla wants you to drop up to $200 a month for its Full Self-Driving feature"
     excerpt: "If you’re a Tesla owner and didn’t purchase Full Self-Driving (FSD) when you first bought your car, you’re in luck. Tesla is now offering the chance to get FSD as a monthly subscription. It was bound to happen,"
     publishedDateTime: 2021-07-19T15:56:00Z

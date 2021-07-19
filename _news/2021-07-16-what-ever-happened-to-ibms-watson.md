@@ -1,15 +1,15 @@
 ---
 category: news
 title: "What Ever Happened to IBM’s Watson?"
-excerpt: "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson. Credit..."
-publishedDateTime: 2021-07-16T09:09:00Z
-originalUrl: "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.html"
-webUrl: "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.html"
-ampWebUrl: "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html"
+excerpt: "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson."
+publishedDateTime: 2021-07-16T09:00:00Z
+originalUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html"
+webUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html"
+ampWebUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -61,21 +61,7 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "New York Times wades into Watson"
-    excerpt: "Apparently, it is not Applish enough The New York Times, which long ago sacrificed its journalistic credibility to hawk Apple products has waded into the IBM supercomputer Watson. The Times gets its knickers in a twist about what happened in the ten years after the supercomputer scared the world"
-    publishedDateTime: 2021-07-19T10:31:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/53241-new-york-times-wades-into-watson"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/095e839513fa17736f4ab6a1b8ee356b_L.jpg"
-        width: 620
-        height: 414
-        isCached: true
 
-secured: "AItFjbTBrl7KiUPuILyIMtB0yHYPEple0SLhwMCzv+oyA1NFw8IzpPmtLpfW7usk4lzLzwOZ8EvArZwkK2eCyR/UYG35gYDW/umi9ZZ6C4KNu8KyWs7Uf3s3jayLXmgzSKlmTFVqmLqOCLwf4cU9a6af8tD5NP79F519CcN5t8WRXcRfd/ltwthF35Krp1F9PQsGlvzvJaw7bsJYGxgE0xhl6+UWEubTn86cEjzoRK6n7Z0Bt+oTXZn7hAJZ+ZoqvGyQRAlgO8NP4QfT3DceKJOrfeHHn0IeUm+9kg/+xI1rVQRRx5Md8TXxWUpuAHrRzXRCso0UuU9C5zHOM9a8IVxoIML7LVvXgRn7fXz15iQ=;+tZdGSX8EZWiIpGsOcc5zQ=="
+secured: "g7TOc51QPqtEYddLrEN7ozP3bh2m+ibO59nvIEaPR+K4Vkt/lFwtbB+zDf5t8cCqVsb/ViPlxfU5LvmAYTPtiA06XvoX8Oum1QEIIsbitsVtR63+OzKHcMhX1lH6gX+V5R+mWA7GNgBFX+NI044/yy3ChEV5AMqhOfuFyrAGqbdV/yILoezr0tEZi+xTkCB/54Wd1mJY45X7+TbBDb9CmHitF64YTIwNBs5qjwzew7+2E4Bm3PXdZpdedVLi6PLO6A9PFwSSQUKGiMQ/1VV4EyjpBlhNoxe0knU8nMk+IY5YcBKGkR/zdpEriiwo0oqaEqh+Z09phcVxMNS/pvo/uMF09fnoPWiNwVhPLZJ1zGQ=;euoqKNrur+cuD/uCW5MkZw=="
 ---
 

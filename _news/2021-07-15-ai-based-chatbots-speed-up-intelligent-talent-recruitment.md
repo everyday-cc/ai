@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-645732586-chatbot_ctmedia.jpg"
         width: 1732
         height: 1732
+        isCached: true
+  - title: "Do Commercial Chatbots Need Conversational AI?"
+    excerpt: "Commercial chatbots are becoming more sophisticated with the addition of conversational AI. Digital conversations, aided by natural language processing (NLP), are able to understand customer intent, resulting in enhanced customer journeys that can quickly provide users with the information they need or connect them with a live"
+    publishedDateTime: 2021-07-19T17:13:00Z
+    webUrl: "https://www.digitaljournal.com/pr/do-commercial-chatbots-need-conversational-ai"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Vaccine-Covid-Pandemic-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "opjXslhVSpk35K2ST0RXPcvKMm0bKlxfKQDp2N5ga3ieGNN1Y0HHoeuZvnT3bbUMaY/wSUq+H+z19UCI7tPf7Wc+N/AveAcAiE52/vPL52Nlcj0OUHzESWJDaGZFsFFZgAVOqENFDSQL3X8o8fmOXVLvy3kzvvUgcGzemAgEQc3CEx342dOWNLluDGbH//VAEJTI62i/lLT4J0G61AVg32UlgRQ6iRlgEAx9dJPjmDP3FRZuYWZq6j7SNRvR7a2D6UGYnmU0AwRDUYXN6I0TBoAVzKUIQEUbfuLRZ9O/Y4NJCHqY1v8iIcQnieOIBNDaqSdF9jO0aTZHljn/ebSs8xyJvd//mpI3V6RxBRj2k1EWQgOc+FgJqvq84UMuKxCnCCy5tAh8eGYtLIX3Ef5uKjCKECa/MOmVlUEdtTeE8p1+CuQVYv7WWodwvaAKxkmXNeMipKydpJWWbVc3LsrLYh6J/frHgJBSojIxICB32ThfTamm46W+roSMy6PJfNzI/xVIcz2FZ9EAgsuuBUITcA==;KZRfkI+Ls22EVPnfpWX3Iw=="
