@@ -73,15 +73,6 @@ related:
         width: 412
         height: 275
         isCached: true
-  - title: "Singapore fintech start-up ADVANCE.AI named in global Fintech Power 50 list in 2021"
-    excerpt: "In the past 12 months, ADVANCE.AI was also named in LinkedIn's Top 10 Start-ups in Singapore, awarded \"Best International Fintech\" at India's Fintech Awards and listed in the \"Next Global Tech 50 ..."
-    publishedDateTime: 2021-07-15T02:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/singapore-fintech-start-up-advance-ai-named-in-global-fintech-power-50-list-in-2021-1030608664"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
   - title: "AMD Stock – AMD Stock – 2 Dividend-Paying Tech Stocks to Buy in July | Fintech Zoom"
     excerpt: "Complete Advanced Micro Devices Inc. stock news by FintechZoom. View real-time stock prices and stock quotes for a full financial overview."
     publishedDateTime: 2021-07-18T21:22:00Z

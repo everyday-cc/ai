@@ -41,6 +41,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Scientists adopt deep learning for multi-object tracking"
+    excerpt: "Researchers have adapted deep learning techniques in a multi-object tracking framework, overcoming short-term occlusion and achieving remarkable performance without sacrificing computational speed."
+    publishedDateTime: 2021-07-19T19:44:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210719110534.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "YMUFK+c1PtUjEOgZKb0LW3lAm6NqKm/cToN8ZIv5dunuDGjdEE44s7MQF2vFtun3f2GrwO9O+V0F/VV7I6pt7w5WU1veiB4qiOWv1TTu02eWNVrw8KOInKt3igotcn0FL3bpIzKwCNh3QqRDg8hlfryHWpoWttUMfE0C6uxBYLJwIsmUCisXfv9PegkMUwtY2OfAW8WTtXU8LHicbLA1nrlBTI4z3pJ5t8R/lyTBO/nPYDYNvxgOYVQuy7icTldhk0H7ljQHPCCudpaek+9zqW5yNImiLRHWarHzvj9AwXWOU0ScPlY2G5hTk/gPYCUd8KsYBN2p6MIBBnZZ6rpYNf8OtAuqyoB81yn3zMZMmKU=;6IsZWv0mHrGhf3ch5/gYsA=="
 ---

@@ -303,6 +303,34 @@ related:
         width: 1920
         height: 1136
         isCached: true
+  - title: "Tesla Launches Full Self-Driving Subscription"
+    excerpt: "Tesla launched a subscription to its Full Self-Driving feature — which is currently neither fully autonomous nor self-driving, but a Level 2 semi-autonomous driving system."
+    publishedDateTime: 2021-07-19T14:51:00Z
+    webUrl: "https://www.cars.com/articles/tesla-launches-full-self-driving-subscription-438491/"
+    type: article
+    provider:
+      name: Cars.com
+      domain: cars.com
+    quality: 39
+    images:
+      - url: "https://images.cars.com/cldstatic/wp-content/uploads/tesla-model-y-2021-02-angle--black--dynamic--exterior--rear.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Tesla Rolls Out $200 Monthly Subscription for ‘Full Self-Driving’"
+    excerpt: "Some vague language on Tesla's part means that vehicles marketed as having full Autopilot capabilities might need an additional $1,500 hardware upgrade to use FSD."
+    publishedDateTime: 2021-07-19T19:50:00Z
+    webUrl: "https://www.extremetech.com/extreme/324864-tesla-rolls-out-200-monthly-subscription-for-full-self-driving"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/01/Tesla-Model-S-2021.jpg"
+        width: 1344
+        height: 756
+        isCached: true
 
 secured: "NUVyiEccHcd2m7yo9sZzjXn7PV7KsvFbfDJBudEgLxpSeEBC36PCvB5b1HAmgF2GMQ4C6nd/O67NLvbUIPW0aqF5eixX8PBedhZ6Q211sHNHGmA4PzPJoxnTTBKmJI6zIp+/Enf5x3AIVVeKIgSOdBc/itfwrtbn+HNJvRTywqcB0UOjF/yhczeiq+RZe0aJC6INp2Aun37U4icMMYangW5kYXsZNUh7/YZYPRcSWiXQQkxOyx3C4HjmcyCGdBFlL28oiXwG8tiRXvt0zOwQO4Xlc14qnj8FT8AO/I3+VJ036whiBGwun7ZrYpBZs/V4bXP6AFMc9sYMHpEgnA2Kc2WWolEZiKOm4ZaiESQ7UM0L2YYTkOFh7g/4lmOOGx9YM1/qM//MhY0M4LmLgZJRl7iX4CCIQ6NEpGeWmzwxcTK9O7lo8+JUGZHiS8ofjRXQEk1bFTFXzeqOgSrnsuu80CC573tv2KtKVuKzX/v649Av7Te/jSq6iEwmnz65HEZyGUVDb1Lw66qLs/ba9j+lpQ==;lr04OrSLbHTLqQ2i+uzjBg=="
 ---

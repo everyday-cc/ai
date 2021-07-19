@@ -289,6 +289,34 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Tesla Launches Full Self-Driving Subscription"
+    excerpt: "Tesla launched a subscription to its Full Self-Driving feature — which is currently neither fully autonomous nor self-driving, but a Level 2 semi-autonomous driving system."
+    publishedDateTime: 2021-07-19T14:51:00Z
+    webUrl: "https://www.cars.com/articles/tesla-launches-full-self-driving-subscription-438491/"
+    type: article
+    provider:
+      name: Cars.com
+      domain: cars.com
+    quality: 39
+    images:
+      - url: "https://images.cars.com/cldstatic/wp-content/uploads/tesla-model-y-2021-02-angle--black--dynamic--exterior--rear.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Tesla Rolls Out $200 Monthly Subscription for ‘Full Self-Driving’"
+    excerpt: "Some vague language on Tesla's part means that vehicles marketed as having full Autopilot capabilities might need an additional $1,500 hardware upgrade to use FSD."
+    publishedDateTime: 2021-07-19T19:50:00Z
+    webUrl: "https://www.extremetech.com/extreme/324864-tesla-rolls-out-200-monthly-subscription-for-full-self-driving"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/01/Tesla-Model-S-2021.jpg"
+        width: 1344
+        height: 756
+        isCached: true
   - title: "Tesla wants you to drop up to $200 a month for its Full Self-Driving feature"
     excerpt: "If you’re a Tesla owner and didn’t purchase Full Self-Driving (FSD) when you first bought your car, you’re in luck. Tesla is now offering the chance to get FSD as a monthly subscription. It was bound to happen,"
     publishedDateTime: 2021-07-19T15:56:00Z
@@ -304,6 +332,6 @@ related:
         height: 600
         isCached: true
 
-secured: "5qPdc0n9OrNOK8/y8Gok6Vfoygma11dSPyEsQvkIa5kcMBPjdFQDfunw+vrRLCsZkERCU7/rLkD3GMoZjlXq2Thg0rPxLeepQEDlsU/xisGxId677cCi366aEOdOzpERkiJMP6NaF1BopWhsWrjDk7xO5bSxJtUfP2JiNw8kqnrnnruOSKmFkjSlZZNPuFOIuUNONr03bukqCzelWiW+BARzdWprJlHD5MRBw8Yot1i6RE2rpo7x4Uzo4FRchqQrT88551GKLi09TSNeHHF/LEBr6H2OBNXxu1d2K2K5ZlJMcvY/Z02ThXPDC8Y7KV0r0zlYrDSR61aniZXmZ/WHLSaXTZnT5ifgomdir31906E=;JBsgjjGd5aKFm0NyaYO6Bw=="
+secured: "vtKiFVgqvdPmk07mNXt9BHLIzXiuvW+0AbVTWCBIq5S96e654GZ4AUJ394J+L7ZHRpUYDCUoVsPZgT7N+6Lv5UZWFk88Crd2tA0NvDWoFTE8IWv9biORxSzWvcMJuDet5h9+vYw7z4ozX86idGVsvGEZxC7Lh8xZJeHfQxpUkrJHD+VqkMeh1MsYwqjqZid/Y/D1TStDh0qdjsS3FnyAND9p0vwlpl6f65b2cVTpQn3Epd9oIVIn3zUcIgwD2ZaWq9lV9QjJaQTXrSti60XfLCTHEoKGViLJiRYOupWP+cwKsaZesKcz1U6DK4l3pW1mnEYG/P14UJ4cOF8mQljaSyE7MH3dAWYTsgU7uxeaFPUDKwjQTl3laUo3CR4KaMv9ZW0HHHzo9ogOsb29NHCst3i/xHS0geLP3Uz0ry09QGLXUzoIkRQxgOQyCtKo8lNuaXwZnfQ8d5wcWcHkC7EcSuCaS3ot0x0GrImyEGY04Yja2ewTBIdzXrP6XA0ifH0SsxzPNR3VzfSl72SZaz1UhA==;buSwqOPOs2H9W+fNE5dQwg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Cutting-edge lidar technology promises self-driving cars possibly as soon as 2022"
+    excerpt: "It's equipped with an advanced lidar system. You may have heard the term before, but what exactly is lidar? \"What it does is send out laser pulses into the environment, bounces off an object, and comes back."
+    publishedDateTime: 2021-07-19T19:50:00Z
+    webUrl: "https://abc7.com/self-driving-car-2020-lidar-technology-light-detection-and-ranging/10892686/"
+    ampWebUrl: "https://abc7.com/amp/self-driving-car-2020-lidar-technology-light-detection-and-ranging/10892686/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/self-driving-car-2020-lidar-technology-light-detection-and-ranging/10892686/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 39
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/10892811_071921-lidar.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "XjrwALPRSt9rn+uscFH3idLOJwtBVQU2skVBGDjLdB97f4xzOZ54WZQPSkd1R2VBR2xRd/bnPMIGtoT2qO6RcDXH2z2I/uyT4kOytbfXOsTw611PfPU57104f+ed+70UEfySp0bXYMPHrJiNHZkNI1iLsVaK913Ab+by/iQ/yr3Og5telmqkl2YbE2NfkLiMWUIOAjATMd0PJQ0F2mDBsjMrRZBuhMLMHo+/AF1gGj5ZKBdIheF9JP3mVe0pBS7ygmYl3FEm3Ifb6qLMwlteepaL1xJeQY0BL24Vn8wPWfA5QWJqBa/+oXTOEiCM5XT6vl5Ul2qrTisdEMkocbGPIiE9aDN0NTRNT2xUOtQwwShZwQyAu9NROO03tQuYCZhmTeYUTbBm1U7e39ABKxfoBjAvBzJShrEq29yfcdymtIMXcefMK9dHUQSiCNjfDJsUK7/s+ZYgKLmp1Ax6hA4kiF9K3+qbeJFQ6H6PNiALUCeVj8/hJGwiq29AYyM4y31F/OBzroAFJrMvxQXh6j6awQ==;jpZDFVqMujLUSSF3PAcW8g=="
 ---

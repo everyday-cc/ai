@@ -40,6 +40,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Razorpay Acquires Embedded Financing Startup TERA Finlabs"
+    excerpt: "The Indian payments fintech Razorpay said that it has acquired TERA Finlabs, a startup that provides embedded financing solutions for businesses."
+    publishedDateTime: 2021-07-19T17:40:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/razorpay-acquires-embedded-financing-startup-tera-finlabs/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/razorpay-acquires-embedded-financing-startup-tera-finlabs/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/razorpay-acquires-embedded-financing-startup-tera-finlabs/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/razorpay-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Razorpay acquires lending startup TERA Finlabs"
     excerpt: "TERA Finlabs is an Indian subsidiary of GAIN Credit, a leading UK digital lender which was launched in 2018 to expand their global footprint in digital lending. This marks the company's third acquisition after foraying into the B2B SME lending space with the launch of Razorpay Capital in 2019,"
     publishedDateTime: 2021-07-19T11:30:00Z

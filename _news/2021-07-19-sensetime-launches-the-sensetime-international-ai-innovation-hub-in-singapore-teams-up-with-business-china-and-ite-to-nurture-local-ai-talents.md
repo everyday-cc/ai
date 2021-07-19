@@ -1,45 +1,40 @@
 ---
 category: news
 title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore, Teams Up with Business China and ITE to Nurture Local AI Talents"
-excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
-publishedDateTime: 2021-07-19T12:27:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sensetime-launches-the-sensetime-international-ai-innovation-hub-in-singapore-teams-up-with-business-china-and-ite-to-nurture-local-ai-talents-1030620086"
-webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-launches-the-sensetime-international-ai-innovation-hub-in-singapore-teams-up-with-business-china-and-ite-to-nurture-local-ai-talents-1030620086"
+excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTime International AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
+publishedDateTime: 2021-07-19T12:26:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/19/9411611.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/19/9411611.htm"
 type: article
-quality: 33
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1576529/1.jpg"
+  - url: "https://mma.prnewswire.com/media/1576532/4.jpg"
     width: 400
-    height: 233
+    height: 246
     isCached: true
 
 related:
   - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
-    excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a to further their AI capabilities."
+    excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
     publishedDateTime: 2021-07-19T12:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-launches-the-sensetime-international-ai-innovation-hub-in-singapore-to-support-sea-s-digitalisation-journey-1030620242"
+    webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-launches-the-sensetime-international-ai-innovation-hub-in-singapore-to-support-sea-s-digitalisation-journey-1030620106"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 44
+    quality: 46
     images:
-      - url: "https://mma.prnewswire.com/media/1576559/1.jpg"
+      - url: "https://mma.prnewswire.com/media/1576547/1.jpg"
         width: 400
         height: 233
         isCached: true
@@ -58,6 +53,6 @@ related:
         height: 509
         isCached: true
 
-secured: "CorE8y83pPJufFx+bMFo8rmNR3TM/zeyQB/pyssNuvW6cdxEkBCfKbLru9O2bcTU3pmP/oI9C6d3+B/NmWxmUltcSR1GnxaebGCIAPJZ8BsT3iqKOxkZJXmMfVNIx+Is11QkA59bB29mx04RMkOz7h9w8zIHCraCYiOuWHMRlVxUfPitsAk9RHGeYFCmMdyojFp3nFfmpR7lI7D7FavDDRMegS5FG1X4icp9mITVO2tpHxdYHpv1jpyCyu0diWgbcQrf60jEPwBh8cNgUfwqNPjLIh59v8LiStVehkwPJkPZ2CNLNRQbBY3rpPXdBN7Rhglh/GwQbGJunIjIcnmQR62Lf+GNNU+PA54mxUsuC6kdZLnFppGYs7Kj5PYL15wAZEnd06WNiGCu01dLA+UdMrtRS9HkBOPDUHQfoiz3kCbQnDH/DLEr/2OTMtEcvNbi8r8mgY6YHenR+XXTzma914xV25fLos2dvyMjaXTCzxw8kreF6xsSaquNqAqf3dhKiKdqolavGGplFUpUcWKn4w==;OUwc6NmvHDqbIS8Lrv+NrA=="
+secured: "3raf5Dbzy+7Oggp/5Cg7HKuf9DhBbcsPvRPw0iB442TQ4hw14rLMVEH1p8XKOjxrx5qrnl8CT6VAhcpZWrKlN5nte/LqtUTBwUijQxdTZJ8qI4RO9pt93rNWwjERGzNKv9FHbCuAnSGoOoXmaATEb8iQ4juwMKicZJm3NuARvyvngTJGKZQZFmyb3+p9sXLprsozPUV0RpVZPyge0VEG1NtAVQ2v85HKG0KRgKZki1kF9cqdB7Q1f9+U7LzmbIyW3/0U+GLo3rz/lO7s20/A44T8jAVHDw6q7T3k8xWSRsPy/CqRBZtmGAFcZnIrvBH7NdMy3gipZquuVDLtvvcB5QPIYyAvCABGpxyXpblwQwo=;Dan4pwA8GIdz7HGQVRrLog=="
 ---
 

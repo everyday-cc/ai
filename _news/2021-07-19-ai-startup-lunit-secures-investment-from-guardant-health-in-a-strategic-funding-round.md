@@ -1,27 +1,25 @@
 ---
 category: news
 title: "AI Startup Lunit Secures Investment from Guardant Health in a Strategic Funding Round"
-excerpt: "Lunit, a leading AI startup in AI-powered cancer solutions, today announced a strategic investment of $26 million from Guardant Health, Inc. (Nasdaq:"
-publishedDateTime: 2021-07-19T13:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round/article_545c3671-7e5d-5302-bcf7-8ccd1c51446c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round/article_545c3671-7e5d-5302-bcf7-8ccd1c51446c.html"
+excerpt: "Lunit, a leading AI startup in AI-powered cancer solutions, today announced a strategic investment of $26 million from Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company. The deal,"
+publishedDateTime: 2021-07-19T13:41:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round-1030620637"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round-1030620637"
 type: article
-quality: 30
-heat: 30
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e4/ce457a5f-490b-582e-83af-d4d14f85bf28/60f57ed1f041a.image.jpg?resize=805%2C380"
-    width: 805
-    height: 380
-    isCached: true
 
 related:
   - title: "Vedantu invests in AI learning startup Pedagogy"
@@ -43,6 +41,6 @@ related:
       domain: precisiononcologynews.com
     quality: 4
 
-secured: "iwjFOLLJF5xVHSuFL4tvVOVfnfoKhUW8qUVR3RjVaTHMF3QfSoQzDrHtU2IwXtx+7Zmb4UVHNpZqK7XmL6Q6d+jCJW0NL9VIvh0RnA7dHG5fWpXkrr6PrPRIDR+RvgtIL5/F2NcyZek7OKXyCV3jVkgmn5xGLXE8kdyY6/3lxH50WlBtT3xnzYVih0wethHLV5ROU0Nhe8/E5c4tKGoH20jXMxetzitAVFUKxXCaPn9GoOfPjYMMtAoJ/Mphh9ln3KQzWaDo6EGdz/N4aypIhM0GJO3adVc5sU2q+89VzB+sj90nK3QTcyC4pV2Wv1OOyRhL4xM5VlE+aKmQaWMaUK+OMeyEyFGZM/GfY18ss+k=;DeJXMzDEt7VW2EUUQmRE+w=="
+secured: "eyhs0rD7OtS/De+47hMlqu9YfSdmiDHHHvTOOYvKbiyM4Sh7xmzgsiybHXNcTARKsCMqHYdo3UZV4PZtZF6r7B0L9g8AAzydkqrjS67QZcRyCHMLxQWsJW2E2Ft7sRw0MYWVMRizOGlZqdR13KGF8SvANihYGFNm3S1YLBFbpyJi9ukwkJfzl9xLhsdRd3e1STjt8LvnqwvQl1O+zoeQSVCTNvVqK9Brod2VJxDrlgCxW29svkDKZT8CzvciHMOE3vN+XAyRR2KWtGrQEiAbI89h7SsYMP09vdMOV7VB6IjlddhCjwakXY0Y6hXiPdiIvJcRcVhnTgZJSHVjh2IjwYWfvyMCpV23I8WWvZ3qrn3KveynWmBMTnjh2jSpPTvJZcwlHhA5kRxjMJfjXku7i2nPj0j7UozpjKetDt7MB4s7Du4cZ47/ttyCkAuKpSmvOYZk5wyCW5ahyu+oCzXuAUOPWjWv15Zl1IzVRtbD2Msar2BBu8wM8PTEqdVKpAr8QQ1/wqQqUENRjFUTjbGRfg==;6D6Y581xqZzNfAWGsJ7S/g=="
 ---
 

@@ -19,19 +19,14 @@ topics:
 
 related:
   - title: "AI Startup Lunit Secures Investment from Guardant Health in a Strategic Funding Round"
-    excerpt: "Lunit, a leading AI startup in AI-powered cancer solutions, today announced a strategic investment of $26 million from Guardant Health, Inc. (Nasdaq:"
-    publishedDateTime: 2021-07-19T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round/article_545c3671-7e5d-5302-bcf7-8ccd1c51446c.html"
+    excerpt: "Lunit, a leading AI startup in AI-powered cancer solutions, today announced a strategic investment of $26 million from Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company. The deal,"
+    publishedDateTime: 2021-07-19T13:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round-1030620637"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e4/ce457a5f-490b-582e-83af-d4d14f85bf28/60f57ed1f041a.image.jpg?resize=805%2C380"
-        width: 805
-        height: 380
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
   - title: "Vedantu invests in AI learning startup Pedagogy"
     excerpt: "Live online learning platform Vedantu on Thursday announced a strategic investment in Pedagogy, an AI-enabled learning startup that provides online courses and interactive digital books for ..."
     publishedDateTime: 2021-07-15T16:25:00Z

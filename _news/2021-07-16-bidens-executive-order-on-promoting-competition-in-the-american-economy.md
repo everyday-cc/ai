@@ -7,7 +7,7 @@ originalUrl: "https://www.investopedia.com/president-biden-s-executive-order-on-
 webUrl: "https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/"
 type: article
 quality: 121
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -38,7 +38,23 @@ related:
         width: 1100
         height: 740
         isCached: true
+  - title: "PanAmerican Seed Partnering With AI Company to Optimize Seed Production"
+    excerpt: "The arrangement with Tavant will help the breeding company gain real-time actionable insights to address supply and demand needs for producing seeds and flowers."
+    publishedDateTime: 2021-07-19T18:31:00Z
+    webUrl: "https://www.greenhousegrower.com/crops/panamerican-seed-partnering-with-ai-company-to-optimize-seed-production/"
+    ampWebUrl: "https://www.greenhousegrower.com/crops/panamerican-seed-partnering-with-ai-company-to-optimize-seed-production/?amp"
+    cdnAmpWebUrl: "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/crops/panamerican-seed-partnering-with-ai-company-to-optimize-seed-production/?amp"
+    type: article
+    provider:
+      name: Greenhouse Grower
+      domain: greenhousegrower.com
+    quality: 59
+    images:
+      - url: "https://files.greenhousegrower.com/greenhousegrow/wp-content/uploads/2019/07/Gerbera-ColorBloom-Series-PanAmerican-Seed.jpg"
+        width: 896
+        height: 640
+        isCached: true
 
-secured: "tdnbJ5q+7zNUOztSUDrY3J+r38PFMErBsFh7WJocNjp/hGevx/pdMEfF1BZpK1naa/ZJAMnLCrJIHJjI43gFB2QovDBHHUYQBtxovzHZipZHX6s/eDw6huPGJ0bJ7Aso5+BXfewPM0lWcGPOZOOi0T7rBDEEYfHNdlR3JJxctPJuwiN8M1rwQptRr/EJdymzSdr0oITaoYaWCzst6nnAA5sk4mdGlX04WwfJD/ecQUTAXftHyHjQt36whrJvXxON3APShd5ysP0gA5iu/mZEQ6YHPx7xEUqxAYnNvhQBLDEeIMjIe6/tFCa/hkEx+Fg+Gzr5jlfQkR6ZngVp5vG6M9QwLoYqoO/DLjqZwcWgaRg=;hzP6Jj9k9tcSudotgZ+0Bw=="
+secured: "FY3BIFAG7e3Ay///PBP8crP/gjaVrm9Wg0JjPdTmJ22wnCpSj9TQFto5VNxaw5QQVm5QjJiOZmg4h3wM8u5ywmaqCcau4358w45WT81/t0V6seewGEJtBnDow0y8dvBemWKg7sbaUeOEc4nHJ9SZvuFfF7Y5UHOeZdXce/0L+O7kfvPwDKNYp5nNNN/rryuUseRvTxlQHnHFn+IN1TL1dXCoZDr2KMmCx/E6O9NR4ohkIhHhE9dN26ZoOMI148k27gBlAGJByXSMyZSaCvopp/jUgMXa4TO+DJUZ4P8Um+OqrsTBbcbqbtyEVlGWXEaEeG/fYWMU2izI82Vzm1K+iaWvZLJuhlOFWn1fw9hrKpabzNXtxnVECbja0cCvwpzw/rbIeOWRQKjhn+fqdDMvgZG0myhf4aPNKJqx3TCUGlusa7h+qntZuwt8NjfGqZ/aI4CeJsapalKHrrKTcHTuDbtCkgkYugbpGeq0BmBrUM351OZ7Fkjk5CNdg22lEq4uyvfHOqNKKsILWYHHdTc2OEyPRRk9WQCzm908DnKD9YA=;CWr8d1Qd61AonzJX3pDVCw=="
 ---
 

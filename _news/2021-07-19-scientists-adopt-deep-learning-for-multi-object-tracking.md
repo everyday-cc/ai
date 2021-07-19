@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tra
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore.com
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists adopt deep learning for multi-object tracking"
+    excerpt: "Researchers have adapted deep learning techniques in a multi-object tracking framework, overcoming short-term occlusion and achieving remarkable performance without sacrificing computational speed."
+    publishedDateTime: 2021-07-19T19:44:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210719110534.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Researchers adopt deep learning for multi-object tracking"
     excerpt: "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our"
     publishedDateTime: 2021-07-19T13:52:00Z

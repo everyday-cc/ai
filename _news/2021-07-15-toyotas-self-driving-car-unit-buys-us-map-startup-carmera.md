@@ -57,22 +57,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Toyota's Self-Driving Unit Acquires US Mapping Firm Carmera"
-    excerpt: "Toyota’s self-driving unit, Woven Planet, will now have the benefit of more software mapping through its acquisition of U.S. mapping startup Carmera."
-    publishedDateTime: 2021-07-15T02:42:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/toyota-self-driving-unit-acquires-united-states-mapping-firm-carmera/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Toyota-Woven-Planet-Carmera-acquisition-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
 
 secured: "6GWTYyHUDlECofPZyMPcNEgx7zOfebWcUVALWA+IO+/yuzs3YY6a1nrPHoZ7f8pzC2WPStub0TnsIreOtw3KhCKuUDbTFWcziQn9gzwS4HQKipx1j8EM7zuHU6y90FpM0lUR2jmLy8V0aE/mo3rfrU8QYoNSnzgDZTog21yLafauoBtecduIQHGv5tljqI6Xw0tC2yWLU8VfCVcPFzaMwTMNIRcX7Oh+BmdiDPeHFPtKEIEFFGXOvqK2vMK1Ej1dw/iVcf8IIzp4o2mfo9sMFiQuQqzeQKfBkbSXoRi9NyA1KI0PONADpRh6HNnP8gIX8ebOE0jS04p31L7Tfp/fOzFnduqJZDtAkz5RTSXXCFY=;QB7LE/9Pr10E563027VokA=="
 ---
