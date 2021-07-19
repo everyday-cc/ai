@@ -25,65 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure receives new features and enhanced migration services"
-    excerpt: "Microsoft announced a host of enhanced products across Azure, including the Azure Migration and Modernization Program."
-    publishedDateTime: 2021-07-14T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/"
-    ampWebUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
+  - title: "Global Self Driving Wheelchair Market 2021 Emerging Technologies, Opportunity Assessment, Projections and Future Opportunities by 2026"
+    excerpt: "MarketQuest.biz has published another latest research report on Global Self Driving Wheelchair Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 that encapsulates vital details about the market current as well as future status during the mentioned forecast period of 2026."
+    publishedDateTime: 2021-07-14T22:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2021-emerging-technologies-opportunity-assessment-projections-and-future-opportunities-by-2026-2021-07-14"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Microsoft announces free extended security updates for Windows Server 2012 on Azure"
-    excerpt: "John Chirapurath, Vice President, Azure Data & AI at Microsoft, emphasized the company's continued commitment to innovate its cloud-native Azure solutions, saying that: Our commitment to developers is to make Azure the best cloud for developing intelligent ..."
-    publishedDateTime: 2021-07-14T15:00:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-announces-free-extended-security-updates-for-windows-server-2012-on-azure/"
+  - title: "Mobile Artificial Intelligence Market Study Report : Analysis of Major Segments and Future Opportunity Assessment 2021-2030"
+    excerpt: "MarketResearch.Biz –:As per a study on Mobile Artificial Intelligence, recently introduced into the huge publication of MarketResearch.Biz, the global market is very likely to obtain considerable impetus in the future."
+    publishedDateTime: 2021-07-14T17:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/mobile-artificial-intelligence-market-study-report-analysis-of-major-segments-and-future-opportunity-assessment-2021-2030"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 95
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 11
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620422430_azure_logo_new_2_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "IN-D Identity Verification now available in the Microsoft Azure marketplace"
-    excerpt: "D.ai, a leading provider of intelligent document and image-processing solutions, today announced the availability of Identity Verification, a suite of"
-    publishedDateTime: 2021-07-15T06:20:00Z
-    webUrl: "https://theprint.in/ani-press-releases/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace/696630/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace/696630/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace/696630/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 87
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2021/07/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace.gif"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/15dda78d28e68948323b19b7d1444f4d528b14ed-600x337.jpg"
         width: 600
-        height: 450
+        height: 337
         isCached: true
-  - title: "Microsoft Partners With U.S. Army Engineers To Use Azure Cloud For Extreme Weather Modeling"
-    excerpt: "Microsoft announced on Wednesday that the company has signed a cooperative research and development agreement (CRADA) with U.S. Army engineers use the company’s Azure Government cloud for a system that models extreme weather around coasts."
-    publishedDateTime: 2021-07-16T19:30:00Z
-    webUrl: "https://www.executivegov.com/2021/07/microsoft-partners-with-u-s-army-engineers-to-use-azure-cloud/"
+  - title: "Project Management Professionals Working in Financial Services Reveal Biggest Concerns and Opportunities for Working Post-lockdown - New APM Study Rev"
+    excerpt: "Over a quarter (28 per cent) of project managers working in financial services sector see new ways of working as the biggest opportunity67 per cent of project professionals say their organisation is planning on returning employees to the office post-lockdownThe majority (75 per cent) of those whose employer is planning a return to the office say they feel anxious about itLONDON--(BUSINESS WIRE)--Wi."
+    publishedDateTime: 2021-07-15T13:02:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=500455"
     type: article
     provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 44
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
     images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/07/16/4c/da/ed/bd/2f/15/c5/04/microsoft_20210625.png"
-        width: 272
-        height: 270
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "o5LXmaccahhWdm+L94KaJTV0KK48ksO6pJeuNeZF2eyc4AOVhIoWesZuQXD5QgUY98iaJCq+uABhVrY/RJJd8EvuKi3ml3PwJXKwMihjgnO/zl7D0lNrqiApjsMq3v3kxebbZTpNiVLE6z2rgyzL16K7OkBLylcAupQZaIJM3GiVSm1SVbzHBCYBI6kQLktlMiQ9NTh0vD7IXflhjcLiaqhp3oxrYtvbaYtaznNg4WZwOl/CdF+810LBV9ynQloxOKInznpnbgV5/JR7UE6z7+ZuZiT8Bpifu59l5KtZbxNVVRzIhGvEpLx1qhQVPR3DjMsrQEFU9v17Cq7OUKi4Cg4X2khp4jdc4bmoyMLMwHo=;QlKCUdl/TE3sgTK20vVkaw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/insights-on-the-31-billi
 webUrl: "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15"
 type: article
 quality: 75
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Translation Market in APAC with COVID-19 Impact by Growth Potential, Manufacturers, Production, Revenue and Forecast 2026"
-    excerpt: "APAC machine translation market is set to witness significant growth during the forecast period of 2020-2026, thanks to the consistent increase in the adoption of various artificial intelligence (AI) technologies and smart devices."
-    publishedDateTime: 2021-07-14T14:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-in-apac-with-covid-19-impact-by-growth-potential-manufacturers-production-revenue-and-forecast-2026-2021-07-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -2,9 +2,9 @@
 category: news
 title: "AI narration of chef Anthony Bourdain's voice sparks row"
 excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-publishedDateTime: 2021-07-16T13:39:00Z
-originalUrl: "https://www.bbc.com/news/technology-57842514?via=indexdotco"
-webUrl: "https://www.bbc.com/news/technology-57842514?via=indexdotco"
+publishedDateTime: 2021-07-16T13:33:00Z
+originalUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
+webUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
 ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
 type: article
@@ -481,6 +481,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "HSBoi546y3S2ig3Mf2Rn9sAHb1Eu0oKkc4Xx2Dd8jeQcjW7CWeDkeauZP9EhIKnW0jyM/f07+a5yt+ni5kb/JMNgang+JIK1QLuLZu7wUyaYofUhC9tFi5Y/E2eXxf4pgXgtqMJdN0t19c7KFIRI5Ipf98v/DTriAO9lobG/9UGS0YvILPe4PZhdd+JasuxrTWyBnCiKpkybbMLuJSwXljub7CK09wRA8dAXg+FHG+fm79YadPnPBGrdkeqK45Gg3PDFUmObCJvJzrNzutMdqPxf2qER4PLntSoLL4DjLJFIZB6RpWL/KctjuEwyaxgHUMG5ezHHec0O3M4wXu3MeucIDBI9rhC0ZkDRLFiwXk8=;FrGWqVBhcS0jRzd9Xbi+MQ=="
+secured: "JuFOMa1tsQUmE/APiQNkaqKxQWkd4Qc4D4++VdleP9rCOVgiIM1YYLP7oF8kehrKjICyw9mI4RSUdb4AHiiT6WUWnnRemBNXhZVb77LWJRy7vOuu6ebzAnIW7CG5Rwe48qtClgYs9z3YD9b4Mpy/DQfRj1vmYIVn79T5QydBcH86aeR1dbrSLNsOJdiTAZL88OkDEQ8pLsFs/MYp+96ZJRymIw3Bz+FAun6vo/m23hhmFzcKhDgbw5UghzoD29IZksl48WoGxcjTD8sayswMxzMYc4qBfQnqIX57y19vHRELluHn9XVTBLPNUTyiL3fuQFMVmwnnHE/ACdFWMp7zBo/nBlyEx8KxB5W6vOVTdXs=;JnRv+oqSWSWSX2fv5dvioQ=="
 ---
 

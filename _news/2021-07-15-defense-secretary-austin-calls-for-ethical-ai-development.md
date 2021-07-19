@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/07/14/austin-ethics-ai/657
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 382
     height: 255
     isCached: true
-
-related:
-  - title: "Ethics Key to AI Development, Austin Says"
-    excerpt: "Secretary of Defense Lloyd J. Austin III delivered remarks at the National Security Commission on Artificial Intelligence"
-    publishedDateTime: 2021-07-14T13:55:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2692297/ethics-key-to-ai-development-austin-says/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 54
-    images:
-      - url: "https://media.defense.gov/2020/Sep/10/2002495097/1280/1280/0/200910-D-ZZ999-104.JPG"
-        width: 1280
-        height: 866
-        isCached: true
 
 secured: "S6kYYMorY7l8kkQ+4fmDZ7mCyqn9YCl2RcIK0mRls2ZMYIYoBP/DmwQF1yNh2rm7GJt/d7EzpqJObBLOFopLuYoC9z2OnSyRGFZUNsOtzlXb3N9tpT+BKd64i2qB2eMZAxqFsI5UBA8v0E8d5pvYtj3+mUvd3nueC2hARtMRImNHkU5cZoRSAun/UmtTCRAkQvZ/MvHSE1HzqVXcdSJMSZbh64pmwZhDUnJZfwsuvEWIV6kdE27wUj4Av7SpWrDpCFwLL7Yxs6pX5oe0YEaDi30ICnvgu5kdT1N9rF3TKwQGIIHlwkkXzk2/SF2Bn8c+87SV1gwR11WtyQG0CMhaUDb/8gJQWepyrTdiTP6gwAJKXWoJk3vM5TjvkpzJYAijlIQHa9MN/bBprvrzvrwVntLQumInvUKJr5XyVRtOcNtms8+eFzxziJUCEniNf6uPLwpVSNpC0+Ik8nO85TALLV2qx+JB8SEYF9HYqkaM9Bx/8qXfgGaPQ3iK6og90VYsHabANR9+qPF4uJR4ldOBAQ==;7qH9WsAx0e0Tm013X3u2fg=="
 ---

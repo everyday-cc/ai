@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "USF-developed AI system unites global agencies to identify emerging infectious diseases, receives support from Microsoft"
+    excerpt: "Leadership in providing with the public consistent projections of COVID-19 infections and hospitalizations has prompted the launch of a USF-led global modeling project sponsored by Microsoft that can ultimately help scientists more swiftly identify and respond to the threat of emerging infectious diseases."
+    publishedDateTime: 2021-07-14T19:52:00Z
+    webUrl: "https://www.usf.edu/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft.aspx"
+    type: article
+    provider:
+      name: Health News Florida
+      domain: usf.edu
+    quality: 29
+    images:
+      - url: "https://www.usf.edu/images/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft/microsoft-article.jpg"
+        width: 733
+        height: 504
+        isCached: true
   - title: "Mobile Artificial Intelligence Market Study Report : Analysis of Major Segments and Future Opportunity Assessment 2021-2030"
     excerpt: "MarketResearch.Biz –:As per a study on Mobile Artificial Intelligence, recently introduced into the huge publication of MarketResearch.Biz, the global market is very likely to obtain considerable impetus in the future."
     publishedDateTime: 2021-07-14T17:37:00Z

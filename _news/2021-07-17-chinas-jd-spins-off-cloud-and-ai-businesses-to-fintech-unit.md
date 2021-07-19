@@ -82,20 +82,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 43
-  - title: "AI to have biggest impact on fintech over next five years"
-    excerpt: "Tribe Payments, a payment technology company, has revealed that 67% of fintechs believe AI is the technology that will have the biggest impact on the sector over the next five years. This insight comes from their Fintech Five by Five report,"
-    publishedDateTime: 2021-07-14T14:55:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/ai-have-biggest-impact-fintech-over-next-five-years"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1169711486.jpg?itok=qeifi7jK"
-        width: 3840
-        height: 2160
-        isCached: true
 
 secured: "H9kp00R/NE/68PJcH1G0nnoFMEeTJmNrnJiCXN5cfRN46w5TmZPnQu/h6FWzExoJ2EjaKe9Aa8I0vfMUltFOMYXpbtQDiKJ4Ulh+8wuYWibszlP+p+t7zGrbRYBpYqfwon/7DR9/UEd8f+EFYy0U/e/mjoyBc02ucbO96kHiQjU46bWec0uogP6lljYugWQUkjaUCUoZ4prhMS854vM4Ar52JxNQNzuVL0ks6LM1kyfQufQ8+ABRxkf5GUkp9Dyak7+EzNM0sEKCIUqZ2gutxNxGvJBXtTRpjxX/eZ1oLBg9lgxJQeKWP7RGBkDUbteb+yxzBNNsFKfHyMAEmmV2eC83ZNecsZ+7/jcinr4fRv89uDvTfPn470lxReN53hozD8wFJKunjO/0Vm0KpnRBR92SXvEhWof5VilNGli5jdGUB00FoQyiKNTXCHjZssQ49yeyVAm5gPpJeL4xy39Hc3UpVnwI+5eqmJ9JZ5uIYK9uQhWpUPYp3DEoftJV/LOnUuQMMfO8Zr5jx1B6tm++uQ==;BK2Rg0ds0aqp/Tt3s0QRcw=="
 ---

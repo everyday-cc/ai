@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Cape Analytics raises $44M to automate property inspections with AI"
-    excerpt: "Cape Analytics, a company meshing AI with aerial imagery to power property insurance inspections, has raised $44 million."
-    publishedDateTime: 2021-07-14T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/"
+  - title: "Weighing cognitive biases and AI behavioral analytics in finance"
+    excerpt: "As a species that relies heavily on cognitive ability for our evolutionary success, it’s no surprise that many of human’s adaptations have come in the form of psychological mechanisms. One evolutionary outcome of this is the prevalence of human cognitive biases that can negatively impact decision making."
+    publishedDateTime: 2021-07-19T07:05:00Z
+    webUrl: "https://venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/"
+    ampWebUrl: "https://venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/ddd-e1626271091314.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/ai-money_-shutterstock_592403636-e1626678216479.jpg?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true
@@ -90,6 +90,15 @@ related:
         width: 315
         height: 408
         isCached: true
+  - title: "Startup Circle: How is Qandle using AI/ML and analytics to provide an All-In-On HR Tech solution?"
+    excerpt: "Qandle is an All-In-One HR Platform – established in 2016 and launched in 2018. The young startup focuses on re-engineering HR Technology from employees’ perspectives. It provides an array of tech-enabled solutions for HR tasks including – Hire and Onboard,"
+    publishedDateTime: 2021-07-15T09:19:00Z
+    webUrl: "https://www.ciol.com/qandle-using-ai-ml-analytics-hr-tech-solution/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 21
   - title: "Five9 Extends its Practical AI Solutions for Low-Code Development, Voice Biometrics, Real-Time Analytics and Agent Coaching"
     excerpt: "New features streamline the development of Intelligent Virtual Agents and help organizations easily deploy solutions to augment their contact centers with an AI-powered digital workforce. SAN RAMON, Calif."
     publishedDateTime: 2021-07-14T17:43:00Z

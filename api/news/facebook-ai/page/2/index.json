@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-17-facebook-ai-software-able-to-dig-up-origins-of-deepfake-images.md",
+      "title": "Facebook AI software able to dig up origins of deepfake images",
+      "excerpt": "Facebook scientists on Wednesday said they developed artificial intelligence software to not only identify \"deepfake\" images but to figure out where they came from.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-06-facebook-ai-software-deepfake-images.html",
+      "originalUrl": "https://techxplore.com/news/2021-06-facebook-ai-software-deepfake-images.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/facebook-ai-software-a.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-06-facebook-ai-software-deepfake-images.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-facebook-ai-software-deepfake-images.amp",
+      "publishedDateTime": "2021-06-17T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-facebook-wants-you-to-stop-fighting-in-its-groups-and-a-new-ai-tool-might-try-to-calm-things-down.md",
       "title": "Facebook wants you to stop fighting in its groups, and a new AI tool might try to calm things down",
       "excerpt": "In an effort to cool down what can often become chaotic arguments in Facebook groups, the social network is testing a new tool to spot fights in its many groups so group administrators can step in.",

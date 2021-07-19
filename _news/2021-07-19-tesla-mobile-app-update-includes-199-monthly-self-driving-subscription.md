@@ -151,6 +151,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tesla Will Now Offer Monthly Subscriptions For Self-Driving Package At $199 Per Month"
+    excerpt: "Tesla, one of the largest electric vehicle manufacturers has rolled out the monthly subscription for its Full Self Driving package and it costs $199 per month. The owners who had already invested in the Enhanced Autopilot package will get a rebate of $100 ..."
+    publishedDateTime: 2021-07-19T07:50:00Z
+    webUrl: "https://www.republicworld.com/auto-news/cars/tesla-will-now-offer-monthly-subscriptions-for-self-driving-package-at-199-dollars-per-month.html"
+    ampWebUrl: "https://www.republicworld.com/amp/auto-news/cars/tesla-will-now-offer-monthly-subscriptions-for-self-driving-package-at-199-dollars-per-month.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/auto-news/cars/tesla-will-now-offer-monthly-subscriptions-for-self-driving-package-at-199-dollars-per-month.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 52
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/n3w3ddyspcqrq15v_1626680026.jpeg"
+        width: 768
+        height: 437
+        isCached: true
   - title: "Full-Self Driving subscription launched in Tesla cars equipped with hardware 3.0 or above"
     excerpt: "Tesla Full-Self Driving technology is launched in Tesla cars software with a monthly subscription offer at $99- $199."
     publishedDateTime: 2021-07-18T01:00:00Z

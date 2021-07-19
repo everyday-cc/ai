@@ -8,8 +8,8 @@ webUrl: "https://iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-a
 ampWebUrl: "https://iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/amp/"
 cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/07/14/74034-iot-machine-learning-and-artificial-intelligence-services-to-reach-us3-6-billion-in-revenue-in-2026/amp/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg"

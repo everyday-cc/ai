@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Narita, Haneda airports start facial recognition in full scale"
-excerpt: "Japan's Narita and Haneda airports started Monday the use of facial recognition on a full scale, allowing international travelers to check in baggage and pass security checkpoints without showing passports or flight tickets."
-publishedDateTime: 2021-07-19T05:00:00Z
-originalUrl: "https://www.nippon.com/en/news/kd789716021787148288/"
-webUrl: "https://www.nippon.com/en/news/kd789716021787148288/"
+excerpt: "Japan's Narita and Haneda airports started Monday the use of facial recognition on a full scale, allowing international travel"
+publishedDateTime: 2021-07-19T07:30:00Z
+originalUrl: "https://mainichi.jp/english/articles/20210719/p2g/00m/0bu/036000c"
+webUrl: "https://mainichi.jp/english/articles/20210719/p2g/00m/0bu/036000c"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Nippon
-  domain: nippon.com
+  name: mainichi.jp
+  domain: mainichi.jp
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.nippon.com/en/ncommon/images/no-image.png"
-    width: 600
-    height: 400
+  - url: "https://cdn.mainichi.jp/vol1/2021/07/19/20210719p2g00m0bu035000p/0c10.jpg?1"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "h9g84Mg/zLDC92K/bwfGlPmTG8itbmnCmopAt2uJ5saxPRbR+/iN6JJTmp5OyhfI4spJkrxFmUgJPRpZ6R65PL5lGeUPpc48oq0CC3Qc8FE9sWH/tHjo8x6REg7m+bBevkneWz+znGXYXrZ8LDICJotkJ4SbmhbQPtwok5pXl32eg/34x8YI/mTKmPRpnVKUjqXR1fTlj7b6KiVeRMUq60iOQcd/pkeKb5CVj7xzJK5PFkzvHmGRFg9g2wJlp4ErLjKxcnu0MoFxf3XIdwPIp4jygJARgilQvGiuP39oP9pVeraQs2MvrVkJFh46aQ5d1WNs/ZOgVlHZpfwHqXbQOVacktEWiL44hZHeuIYtAHQ=;SdK9cuMqsbbRRWt17zplGA=="
+secured: "UzcMUakjSH7DdCaJrlDidkyo50qS8z0rVBlphXNfGu3o8LrME6+7rQv0QHScAQfn05QsGIO/kXMOHNkokbzDEBmmL6oOGdipRbryw9t8jYUiv7n2US8YXZ5QS9DW7O3v2E6IzqijC7AH3TtVpdM3trvg8pVVfHJDT2vYALpPUypZv1HCBsl/jenfNhbCNZWxr0XCAokh296xfuvcBOmZPIt+pyehFNg4Ho064XKd4rsP453xUl57crRPHX46VgnA8RJ2lV7nZUabWvp1nPT2nPP+DntF5SHi9PWDtOKvUJU6wns7/PujhixAhfqzcyHfDtFFzyZelIelAN8hw7a8frIqgZ5nWbDwevnO9ABN+N8=;jy9ErMt1tISzmrqk9cycig=="
 ---
 

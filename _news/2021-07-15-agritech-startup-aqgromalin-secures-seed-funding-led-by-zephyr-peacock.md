@@ -46,6 +46,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Healthtech Startup Eka.Care Raises $4.5 Mn Seed Funding From Angel And Early-stage Investors"
+    excerpt: "The company intends to use these funds for hiring, product development, marketing and assisting doctors in setting up their digital clinic"
+    publishedDateTime: 2021-07-19T07:16:00Z
+    webUrl: "https://www.entrepreneur.com/article/377697"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/377697"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377697"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 76
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1626678981-MrVikalpSahniFounderCEOEkaCarev1.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Anicut Angel Fund leads seed round in deep-tech startup, EDGENeural.AI"
     excerpt: "The investment will be used to make investments in engineering, product development, and team expansion. Pune-based deep-tech startup, EDGENeural.AI has raised an undisclosed amount in seed funding from Anicut Angel Fund, the equity arm of Anicut Capital."
     publishedDateTime: 2021-07-16T07:57:00Z

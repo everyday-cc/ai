@@ -9,8 +9,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/377330"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377330"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Entrepreneur
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google CEO Still Insists AI Revolution Bigger Than Invention of Fire"
-    excerpt: "The artificial intelligence revolution is poised to be more “profound” than the invention of electricity, the internet, and even fire, according to Google CEO Sundar Pichai, who made the comments to BBC media editor Amol Rajan in a podcast interview that first went live on Sunday."
-    publishedDateTime: 2021-07-14T14:00:00Z
-    webUrl: "https://www.cnbc.com/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 187
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/103991584-RTSQQJD.jpg?v=1529452147"
-        width: 3500
-        height: 2425
-        isCached: true
   - title: "Google CEO: AI is more influential than discovery of fire"
     excerpt: "Google is already using AI to drive innovations in healthcare. Mr. Pichai said AI will continue to play a fundamental role in every aspect of humans' lives, such as healthcare. \"I view it as a very profound enabling technology,"
     publishedDateTime: 2021-07-15T20:28:00Z

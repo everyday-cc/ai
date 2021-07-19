@@ -155,6 +155,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tesla Will Now Offer Monthly Subscriptions For Self-Driving Package At $199 Per Month"
+    excerpt: "Tesla, one of the largest electric vehicle manufacturers has rolled out the monthly subscription for its Full Self Driving package and it costs $199 per month. The owners who had already invested in the Enhanced Autopilot package will get a rebate of $100 ..."
+    publishedDateTime: 2021-07-19T07:50:00Z
+    webUrl: "https://www.republicworld.com/auto-news/cars/tesla-will-now-offer-monthly-subscriptions-for-self-driving-package-at-199-dollars-per-month.html"
+    ampWebUrl: "https://www.republicworld.com/amp/auto-news/cars/tesla-will-now-offer-monthly-subscriptions-for-self-driving-package-at-199-dollars-per-month.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/auto-news/cars/tesla-will-now-offer-monthly-subscriptions-for-self-driving-package-at-199-dollars-per-month.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 52
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/n3w3ddyspcqrq15v_1626680026.jpeg"
+        width: 768
+        height: 437
+        isCached: true
   - title: "Full-Self Driving subscription launched in Tesla cars equipped with hardware 3.0 or above"
     excerpt: "Tesla Full-Self Driving technology is launched in Tesla cars software with a monthly subscription offer at $99- $199."
     publishedDateTime: 2021-07-18T01:00:00Z
@@ -198,6 +214,6 @@ related:
         height: 420
         isCached: true
 
-secured: "+fs29sYetV3Bvhl8etG1GYMOhbpT108HHzN5/AgdIcIEtXISOIFnvD1VJt7Q87MsUc8oms2RnOjEIQ9pM98CYwjgosY/k7JFvWyCQCnJ1wxeYOyTosaZw2Cq/MNYWgZl0Wi7URQHfTIS2bKG+VcgfGZE4KkC65unGPYi+5J/j+mtXUjk4xBMEqgdpHUjtAyJpVM7W4DQxoz/3lrvsqHB0qDZ6GuDJlekQID1mX9XCyUr5GFZldC3p8jQnxQBDfba6gimuY+1CJX1kTQAwpdiF//DRmP8s3CjkXIBm8WxIwKMcRyNg8SSpBfTmvxvtTtlaouwhVt3zcR2jWo+BVYtmnFdlmka3oE6YCoz+3lbBaw=;SHKHWihBuO3cLuBp26NTmA=="
+secured: "5eb3aRjmFihyVjzYOtHOlRcEx9v3CvNZI5DurtTzDSc40ci/YJWbGkIANcsh+LTKY2UEiATOW9j36W5BvibLYCCh2XVu2EVuNtJaYZKTQ5MJqrpbADvQ3+ogSPDYBDp3xspjNpOXRjBshqsayyaqQ4nNG/am99mhvaJlaK2b1G1pxaz4otb1IK8luZB9jhYZiyP+0qaqdqFuHDHxnlGMxr+zJ419zLkr6+kGwSwFj+TchKhM4UGBtDaF/NkSDwZ9Kf2OpC2CvtFFnMMJI9ml71AHIhFSI4jCVhdYWzST67xsZ6bKXAgx+oPZwoI9nKQC1E9QyM7QSJJco7f4ow+LN5Q2sV5xxM8R4tCf30N+Xqu7kHl2jzBCj2EGMZqM7+zso9J08gQ/ekcrvwY1TWc2Zk2S3ByhF45Dz2g1o/smfUYGp632/fi7ghk0fqPuA9oGKzn6jPq/ypEhywTcnHTmn4xvcDl08PhrADOuBOy7RylQtYCD/5Qq54hgisYVIH6d0oTVux7iGLay+yZdAm3KmQ==;Twd+8Q/Nz3LKclWAj4DeCA=="
 ---
 

@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure receives new features and enhanced migration services"
-    excerpt: "Microsoft announced a host of enhanced products across Azure, including the Azure Migration and Modernization Program."
-    publishedDateTime: 2021-07-14T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/"
-    ampWebUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Microsoft announces free extended security updates for Windows Server 2012 on Azure"
-    excerpt: "John Chirapurath, Vice President, Azure Data & AI at Microsoft, emphasized the company's continued commitment to innovate its cloud-native Azure solutions, saying that: Our commitment to developers is to make Azure the best cloud for developing intelligent ..."
-    publishedDateTime: 2021-07-14T15:00:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-announces-free-extended-security-updates-for-windows-server-2012-on-azure/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 95
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620422430_azure_logo_new_2_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "IN-D Identity Verification now available in the Microsoft Azure marketplace"
     excerpt: "D.ai, a leading provider of intelligent document and image-processing solutions, today announced the availability of Identity Verification, a suite of"
     publishedDateTime: 2021-07-15T06:20:00Z
@@ -71,20 +41,15 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "USF-developed AI system unites global agencies to identify emerging infectious diseases, receives support from Microsoft"
-    excerpt: "Leadership in providing with the public consistent projections of COVID-19 infections and hospitalizations has prompted the launch of a USF-led global modeling project sponsored by Microsoft that can ultimately help scientists more swiftly identify and respond to the threat of emerging infectious diseases."
-    publishedDateTime: 2021-07-14T19:52:00Z
-    webUrl: "https://www.usf.edu/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft.aspx"
+  - title: "Smart Virtual Personal Assistants Market to See Massive Growth by 2026 | Facebook, Microsoft, IBM"
+    excerpt: "Advance Market Analytics published a new research publication on “Smart Virtual Personal AssistantsMarket Insights, to 2026″ with 232 pages and enriched with self-explained Ta"
+    publishedDateTime: 2021-07-16T12:05:00Z
+    webUrl: "https://manometcurrent.com/smart-virtual-personal-assistants-market-to-see-massive-growth-by-2026-facebook-microsoft-ibm/"
     type: article
     provider:
-      name: Health News Florida
-      domain: usf.edu
-    quality: 29
-    images:
-      - url: "https://www.usf.edu/images/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft/microsoft-article.jpg"
-        width: 733
-        height: 504
-        isCached: true
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 8
 
 secured: "N1S2ttM7J10IBzeioYfsvW73WETCbZR0jwGPowlasn9kLB5FvZycoRhQn5B/r7xKZVoPTmIAHKW267O4dNBu5M8LE1hys8wcjps2ghBd9isxMp5AGaK1TXzhsK6k73fwW78o8P0a6tAs6VvS3PUzT2TDbEFzlTkM1PLNmVRHMM4MW+u6NKIUKmtHK77UouSc0doQUsoOBTMbpLVTMx1fMdo9bBkWoQADoJi0IBIQuy3/9XdFvFvHXdtfDgxcmmx5wvfvoc89lZA0HcMpB81WHIYfU2nj0PDJKd3NP7kNvSaHU4z+JTMX+IB++GBkRtzdoxoB/VoskYz0AMOtfuQeTg65SvzxobJINbNNmJkm2ii5eo8u6J/rUjyfgrpKtC5QQrmd2c0cJghA6P7qEsvUc3v+WdtB7VLB+YxT5EBx8WbA6PkXU5BZFp0wrsH47aW/KX+iBDbaArtAej8vxpmdjvh6sKJ/xMeKSEmeFsV1PkP5PnvRuo+Ns5mINVE7XZsl6NWP8ta2w1OeHshqlW9GfA==;1D0q87muS5+YXGQXm4GCLg=="
 ---

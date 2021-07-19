@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thenewsminute.com/article/edtech-platform-vedantu-invest
 cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/edtech-platform-vedantu-invests-ai-enabled-learning-startup-pedagogy-152424?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The News Minute
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "FinTech Platform Revix Explores Ways To Enable South Africans to Invest In AI, BioTech and 5G Technology"
+    excerpt: "Revix is exploring ways to enable South Africans to invest in popular technology such as artificial intelligence (AI), BioTech, and 5G."
+    publishedDateTime: 2021-07-19T07:12:00Z
+    webUrl: "https://www.techfinancials.co.za/2021/07/19/fintech-platform-revix-explores-ways-to-enable-south-africans-to-invest-in-ai-biotech-and-5g-technology/"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 22
+    images:
+      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/05/5G.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Vedantu invests in AI learning startup Pedagogy"
     excerpt: "Live online learning platform Vedantu on Thursday announced a strategic investment in Pedagogy, an AI-enabled learning startup that provides online courses and interactive digital books for ..."
     publishedDateTime: 2021-07-15T16:25:00Z

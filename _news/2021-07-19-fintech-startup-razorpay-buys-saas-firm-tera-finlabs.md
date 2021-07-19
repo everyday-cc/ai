@@ -68,20 +68,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 43
-  - title: "AI to have biggest impact on fintech over next five years"
-    excerpt: "Tribe Payments, a payment technology company, has revealed that 67% of fintechs believe AI is the technology that will have the biggest impact on the sector over the next five years. This insight comes from their Fintech Five by Five report,"
-    publishedDateTime: 2021-07-14T14:55:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/ai-have-biggest-impact-fintech-over-next-five-years"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1169711486.jpg?itok=qeifi7jK"
-        width: 3840
-        height: 2160
-        isCached: true
   - title: "China’s JD spins off cloud and AI businesses to fintech unit"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-07-17T04:04:00Z
@@ -97,6 +83,6 @@ related:
         height: 628
         isCached: true
 
-secured: "YkpVt0ShebW2MeYgA6FWTEgaXAo8HazlxgA93ffk74n9CMOrSOsRSzxL23C61w4BVfIIZSXuC2OvdXBKV89L0/lNyjxi45sLW4H1ANlA+aQnbxBEr//agw0kjl6K6/WugiOm5PLr6qhMD4/XNhUE9uClJABDpAQjOq20MnN8qMhwQpXbfKAF56Ksuh5tWEfLdVjM/OEpv+rmpvmuzZ9uB7hghLiIrDW+wldecMVfiBW6P+wk078KcvGVEcBGDBELy7slxzWBLVs6X6CMa8nnq3zJqVzItAldelKfPH5S0nR1KAww5ebaSR/gtOgEyUNCy3lqaBWq659dmHPBxAWmrfpH/VYkLN1+/9XvEhF75Go=;2EErp/K6wIcksoY+EJz5UA=="
+secured: "yUo/fINhyLppbX2ThUvAH+95pkD3cGJMNByMHAeDhz3+PKlwGGcjMhl5OHNEWBc1mhjGefPZiA9uNtXeRLyuPDciDWe87fLvySAs0mzG9KxvFlWUCRGK9OOEk7lCu2jpdooKkme+OU3InQzz/arRNBJEF+futAOP1c2p+ZaFwS6PVhqhQfY75WwF8MlEaa0aUQk+duIfNSHrRjFQ5h0eTcLjlu3/HP4h9PuwIVL98icw1G3dxlGE9jP5ek0MHwQ+I0RTsNL9y2bCu96G4T2Yd0hTwFqFPw9sxKVIvWCfuji4SRCfsr0FLvDQYioIjVXvDgMMvFn+NBjCZ7EVrfMBY2KxKaC6voCPE4jeniiVEsFpAwCeuawdVWRI8xLW8S67Oo8fERjrY+Dwmod7z0uyGb2wBvkN0do5GNiOyEH0ABbFY9yB5vweyEWaufJIsJ3FE9nu7zjF6apWo8/Lhv3ErcyP7m4bP1V8mxdJzLqVxlhR5k7zgrnA+guMUWTySveE4J/gZ6Exo12DEzZ285iyhQ==;iWOxl0AhaQW1lCqCYKxLKQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/busting-myth-ai-will-totally-replace-qc-jobs
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/busting-myth-ai-will-totally-replace-qc-jobs-manufacturing-industry/amp/"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -26,16 +26,23 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud Rolls Out Visual Inspection AI for Manufacturing"
-    excerpt: "Google Cloud is using artificial intelligence to help the manufacturing industry with quality control. Google Cloud has launched Visual Inspection AI, a computer vision platform to help manufacturers reduce defects and deliver savings through the inspection process,"
-    publishedDateTime: 2021-07-17T00:37:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/google-cloud-visual-inspection-ai/"
+  - title: "AI Revolution in 2021: 5 Industries That Are Thriving With Artificial Intelligence"
+    excerpt: "AI or Artificial Intelligence is a buzzword across the world these days. Several industries are prospering with AI implementation, and many others are gearing up to adopt this latest technology to start a journey of steady progress."
+    publishedDateTime: 2021-07-19T07:05:00Z
+    webUrl: "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/"
+    ampWebUrl: "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 19
+      name: Impacts
+      domain: techbullion.com
+    quality: 70
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/07/5-Industries-That-Are-Thriving-With-Artificial-Intelligence-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "GBfcC949VDFFbRLYpP5d+EhIfYx0NmsmXFNPdQ1Svw7xbS1cxC8aOkeDze4BRek6SMvCSGHWEFQ6krxTDG4ytapZiH7ihxWo7DV9u5Sp9j8a87z0PyDYyJR1VeCR8bvkGIDYiBJSpyb5tvrEgytJU1I6Q+R4AOtYhIYuDB+2812756JO+H7FeZKrvMqqKjEitH6CBVwobZmtb9CTR9U/RZKXDLX3RW2+MRgTu1khHlshioV1Pvf+sBpfrLZ3T/CFG9Gc94U6MTB0zJmA9M52TQIFIVAT/CQzTHoneMjakmzKFerAoolaS5FtigJ4W/jICI2QiaWxsRXUUC5APbPFcdBZNHGKny34P+G1z2cy/Js=;AsS9AkA88DBBN3DTfAyYzw=="
+secured: "qJegoZIdpX4iwqx6Htmhi6X+lxr73MsulkuJi3L/FIMxdwL5fiRFUTFfuulz9C1VEyGcrrNPmMyMaopZ7YrvIvrj+3P5XD2g5pWPyqEGTpNBZnAfUlaZgYRRmguelRExp1H8doHaFFlDMNAr6vX5hE+vf57ccB+Ti9ziQ0nG5BmCrQ15pNiYECIh4U9nQyk3q9myG7CdKFwN4QFBiDWZv4/jcTF0LsWCafVWqGyrHcjz1hqfrhhIED8A1GbouHEonyg2zcGAD9xtb8vS93HGoNEiCnzh5pLUxF+sfpZf0Dd8AT3NyPAkZqTq2//bEWjMogu3MamzD3XscYdAA3v7fLB8175RqvFKhW2V0nKj4TVEKI2a7jouUw/2qo9uD11QClzeSxY+7lqJ6+CUKH1NPPIQ4Njcrb9NhiCK266LqaZIh76ENTihW3e5h77B2HM1yNAyrrbad4lN7MNnW49WtSlKHFrNQ8GGkdqPSboPIjLq/KhpsBBB3Y31BDk3rZIkQ6avnNs1C6kYvPQDG6gkuA==;PRkr6TNb2UAf9RBps/+ziw=="
 ---
 

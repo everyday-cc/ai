@@ -29,37 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook AI researchers create a robot able to adapt to rapidly changing conditions"
-    excerpt: "Work is being performed all around the world to give robots more human-like abilities. One of the key human-like abilities that researchers want robots to have is the ability to react in real-time"
-    publishedDateTime: 2021-07-14T15:01:00Z
-    webUrl: "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/"
-    ampWebUrl: "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/"
+  - title: "Facebook’s BlenderBot 2.0 bot surfs the web for knowledge"
+    excerpt: "Facebook's BlenderBot 2.0 chatbot draws on the internet to build on its knowledge of sports, movies, TV shows, and more."
+    publishedDateTime: 2021-07-16T13:31:00Z
+    webUrl: "https://venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/"
+    ampWebUrl: "https://venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 100
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/ai-robot.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Facebook, Twitter and other social media companies need to be treated like Big Tobacco"
-    excerpt: "For the first time, the U.S. surgeon general has declared the barrage of misinformation spreading on social media a public health hazard. In an advisory, Surgeon General Dr. Vivek Murthy calls on technology companies to “take responsibility for addressing the harms” their social media products impose on consumers by prioritizing the early detection of misinformation,"
-    publishedDateTime: 2021-07-15T21:11:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/facebook-twitter-other-social-media-companies-need-be-treated-big-ncna1274000"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1274000"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1274000"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 66
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_13/3346831/200512-twitter-office-shadow-ew-415p.jpg"
-        width: 2500
-        height: 1473
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Facebook is ditching plans to make an interface that reads the brain"
     excerpt: "The reason for the craze around brain-computer interfaces is that companies see mind-controlled software as a huge breakthrough ... Paralyzed patients with such “implants” can deftly move robotic arms and play video games or type via mind control."
@@ -106,6 +90,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/07/BlenderBot_Graphic_V1.png?w=800&is-pending-load=1#038;resize=800%2C450&strip=all"
         width: 800
         height: 450
+        isCached: true
+  - title: "Facebook’s BlenderBot 2.0 chatbot can learn and remember new things by itself"
+    excerpt: "Facebook Inc.’s artificial intelligence research unit has open-sourced what it claims is the first chatbot in the world that’s capable of building a long-term memory that can be continually accessed."
+    publishedDateTime: 2021-07-16T14:10:00Z
+    webUrl: "https://siliconangle.com/2021/07/16/facebooks-blenderbot-2-0-chatbot-can-learn-remember-new-things/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 21
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/BlenderBot_Graphic_V1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "X2vbvO7KstBHp8oYe9BK0qiaiJqrIZqGJXJjzz4zWVEMjwk5AwzIqGI8IwG9WKo04way0Up+o+8JCtGYJsZ62G9yeZAdghfWKXeJBL5tV9HEBAuLdDoiqUWgYEX0RB0zur7t70J8TzIlyfUiUaL9FIutZtL7iKiwEgKH1gn4DW4qL+QRmNwX5xFzo3e4QBF9khzRIzXxqi5e1RK7/N7Skza09d8icZlCR7RpYvToRBzCPBKmTQHJE/UOTiN4WUHWj6UGEOp+X2BjWL2G7xPFMH20WwXKjXT8VV47iVFDH6I3SBnqvAp3bBiz/wXfYHtk3Swry1imrCpPw+svlVnjeCdpAdD+PPVre11Xh8M3+0E=;dRp3+utaLKeWPmZI+ef2vg=="

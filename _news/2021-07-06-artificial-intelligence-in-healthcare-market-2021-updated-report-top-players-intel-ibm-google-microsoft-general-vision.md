@@ -21,6 +21,7 @@ topics:
   - IBM AI
   - Computer Vision
   - Natural Language Processing
+  - AWS AI
 
 related:
   - title: "Best Microsoft technical certification 2021: Top exams"

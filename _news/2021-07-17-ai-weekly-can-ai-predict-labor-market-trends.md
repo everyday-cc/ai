@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/16/ai-weekly-can-ai-predict-labor-ma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/ai-weekly-can-ai-predict-labor-market-trends/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Artificial Intelligence Market Trends and Forecast 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 14, 2021 (Market Insight Reports) -- The Global Automotive Artificial Intelligence Market is estimated to value over USD 13.9 billion by 2028 finish at a CAGR of over 38 ..."
-    publishedDateTime: 2021-07-14T14:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-trends-and-forecast-2028-2021-07-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Emerging Trends: Artificial Intelligence for data economy"
     excerpt: "According to a survey[1] of 1200 companies across the globe, more than 60% of data service providers believe that Artificial Intelligence (AI) is the future of their business. And quite rightly so, given that the growth of AI to unlock the value of data is ..."
     publishedDateTime: 2021-07-18T12:56:00Z

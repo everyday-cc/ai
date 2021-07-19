@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "FinTech Platform Revix Explores Ways To Enable South Africans to Invest In AI, BioTech and 5G Technology"
+    excerpt: "Revix is exploring ways to enable South Africans to invest in popular technology such as artificial intelligence (AI), BioTech, and 5G."
+    publishedDateTime: 2021-07-19T07:12:00Z
+    webUrl: "https://www.techfinancials.co.za/2021/07/19/fintech-platform-revix-explores-ways-to-enable-south-africans-to-invest-in-ai-biotech-and-5g-technology/"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 22
+    images:
+      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/05/5G.jpg"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "YCZ//uKKjuHgUK0NVgVIsM1lXbef+qDqw66ZeHdXTzyZFv79tQcsj1PFhLRYIgX1+Aqrp8qi0vweu+XR8KPc0OtPjUnopsKBadfkao0mvAWtd/iStKTkkR+V2MPWl30ZaXvXvjOpDETxil58W05MUSzqKy9i+Ew+veGgBJbqlU/nuWZo3p7KSq4fsWqWB+/6ND6YwKNkVUD/hoogwP7lQyPTcKNxETww3gjMQt6Drg+mSQWeN6O4SeZExX10dG9GeayCXsApK1WiIX6mGXavQ8EuqgTFpYrsHNviCL2GhzBs5GWFv1kz1lxRh9BFpHHS8zEGmpg2I/4srB6zwDq2D7yzn4RyXcmmpG6zuVW9bT0=;9vt9RlTenQ92pR33AHwESQ=="
 ---

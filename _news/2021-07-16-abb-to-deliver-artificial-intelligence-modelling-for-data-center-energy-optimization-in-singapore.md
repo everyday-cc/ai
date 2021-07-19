@@ -35,19 +35,19 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Ensure AI brings social good and not inequity: Experts at Asia Tech x Singapore"
-    excerpt: "SINGAPORE - Artificial intelligence (AI) technologies can bring a wide range of opportunities and benefits, but they also come with the risk of perpetuating biases and inequitable distribution of those benefits."
-    publishedDateTime: 2021-07-14T14:37:00Z
-    webUrl: "https://www.straitstimes.com/tech/ensure-ai-brings-social-good-and-not-inequity-experts-at-asia-tech-x-singapore"
+  - title: "Southeast Asia's First AI Hub Launched in Singapore"
+    excerpt: "AI development could deliver $1 trillion of additional GDP to Southeast Asia by 2030, according to an estimate."
+    publishedDateTime: 2021-07-19T07:51:00Z
+    webUrl: "https://jakartaglobe.id/tech/southeast-asias-first-ai-hub-launched-in-singapore"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 35
+      name: Jakarta Globe
+      domain: jakartaglobe.id
+    quality: 37
     images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/14/yq-aisg-14072025.jpg?itok=F0fWGAVC"
-        width: 763
-        height: 509
+      - url: "https://img.beritasatu.com/cache/jakartaglobe/640x441-4/2021/07/1626680878.jpg"
+        width: 640
+        height: 441
         isCached: true
   - title: "ABB to Deliver Artificial Intelligence Modelling for Data Center Energy Optimization in Singapore"
     excerpt: "Pilot project with ST Telemedia Global Data Centres to map the potential of artificial intelligence, machine learning and advanced analytics, with a target of at least 10 percent energy savings."

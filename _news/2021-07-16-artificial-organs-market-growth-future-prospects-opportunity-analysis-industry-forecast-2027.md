@@ -148,20 +148,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 23
-  - title: "Artificial Intelligence in Education System Market Absolute Report : Industry and Geography Insights and Opportunity Analysis till 2030"
-    excerpt: "MarketResearch.Biz –:As per a study on the Artificial Intelligence in Education System, recently introduced into the huge publication of MarketResearch.Biz, the global market is very likely to obtain considerable impetus in the future."
-    publishedDateTime: 2021-07-14T13:21:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-education-system-market-absolute-report-industry-and-geography-insights-and-opportunity-analysis-till-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/LLL-6-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Cognitive Computing Materials Market Forecast Report | Global Analysis, Statistics, Revenue, Demand and Trend Analysis Research Report by 2027"
     excerpt: "Market Expertz latest study, titled ‘Global Cognitive Computing Materials Market,’ sheds light on the crucial aspects of the global Cognitive Computing Materials market. The Cognitive Computing Materials report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027)."
     publishedDateTime: 2021-07-15T00:00:00Z

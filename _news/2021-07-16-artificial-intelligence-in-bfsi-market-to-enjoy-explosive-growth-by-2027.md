@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-16T12:37:00Z
 originalUrl: "https://manometcurrent.com/artificial-intelligence-in-bfsi-market-to-enjoy-explosive-growth-by-2027/"
 webUrl: "https://manometcurrent.com/artificial-intelligence-in-bfsi-market-to-enjoy-explosive-growth-by-2027/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://manometcurrent.com/wp-content/uploads/2021/05/3-4-390x220.jpg"

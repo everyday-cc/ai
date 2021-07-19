@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Avocor Announces Powerful New Edge-to-Edge Interactive Displays"
-    excerpt: "Designed for the modern meeting space, the new G series displays deliver vast functionality and an intuitive UI within the company’s boldest and brightest form factor yet."
-    publishedDateTime: 2021-07-14T13:20:00Z
-    webUrl: "https://www.twice.com/the-wire/avocor-announces-powerful-new-edge-to-edge-interactive-displays"
-    ampWebUrl: "https://www.twice.com/the-wire/avocor-announces-powerful-new-edge-to-edge-interactive-displays?amp"
-    cdnAmpWebUrl: "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/the-wire/avocor-announces-powerful-new-edge-to-edge-interactive-displays?amp"
-    type: article
-    provider:
-      name: Twice
-      domain: twice.com
-    quality: 44
-    images:
-      - url: "https://www.twice.com/wp-content/uploads/2021/07/Avocor_G_series_left_angled_UiQ.png"
-        width: 2000
-        height: 1250
-        isCached: true
   - title: "Avocor Addresses Modern Meeting Spaces With New G Series Displays"
     excerpt: "Avocor is introducing the G series, a new product family of sleek, bezel-less, edge-to-edge interactive displays designed to streamline workplace collaboration. Available in 65-, 75- and 85-inch edge-to-edge diagonals,"
     publishedDateTime: 2021-07-14T16:15:00Z

@@ -19,21 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Flying robot bugs deployed to fix wind farms"
-    excerpt: "Six-legged robotic “bugs” could soon be repairing offshore wind farms, putting an end to humans doing risky maintenance and potentially lowering energy bills in the process. Engineers have proven the concept for an autonomous vessel kitted out with technology that can scan blades for defects from a distance."
-    publishedDateTime: 2021-07-14T14:09:00Z
-    webUrl: "https://www.telegraph.co.uk/business/2021/07/14/flying-robot-bugs-stand-ready-fix-wind-farms/"
-    ampWebUrl: "https://www.telegraph.co.uk/business/2021/07/14/flying-robot-bugs-stand-ready-fix-wind-farms/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/business/2021/07/14/flying-robot-bugs-stand-ready-fix-wind-farms/amp/"
+  - title: "Robot A-Team vital to future of offshore wind and Net Zero"
+    excerpt: "The University of Bristol was focused on developing the flight control system for the deployment of crawler robots using drones."
+    publishedDateTime: 2021-07-15T14:16:00Z
+    webUrl: "https://www.miragenews.com/robot-a-team-vital-to-future-of-offshore-wind-596643/"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/business/2021/07/14/BladeBUG-Levenmouth-Demonstration-Turbine-1_trans_NvBQzQNjv4Bqv-vbhGiOQFA8KBuFNDmCPvFT69PHuuooXCVdLgADzvI.JPG"
-        width: 2146
-        height: 1340
+      - url: "https://www.bristol.ac.uk/media-library/sites/news/2021/july/15%20July%20MIMRee%20-%20article.jpg"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Meet the Robot A-Team that will be vital to the future of offshore wind and Net Zero"
+    excerpt: "One of the UK’s most ambitious robotics projects has proven the concept for robotic teams repairing offshore wind"
+    publishedDateTime: 2021-07-19T07:19:00Z
+    webUrl: "https://www.thalesgroup.com/en/united-kingdom/news/meet-robot-team-will-be-vital-future-offshore-wind-and-net-zero"
+    type: article
+    provider:
+      name: Thales Group
+      domain: thalesgroup.com
+    quality: 32
+    images:
+      - url: "https://www.thalesgroup.com/sites/default/files/database/assets/images/2021-07/Halcyon-Drone-Launch-500px.png"
+        width: 500
+        height: 332
         isCached: true
 
 secured: "8v/1MtZi8a0pRmPp6lUGsAcP0NbCPok6S64XHEzc//WRyZh0UH8ZhNvJpGw86xcxdH7o01q0Pdt/aRM456YuCSAgpSPyUZCBey+/wGRbqEffxujaU/W5cxCWBHlTqsj//cEbS9DHf6eUAKwx1q27DZuiZ3qIJxePwur3lSfOAe/MpkWi6WDIVSv0K1q9p+OOFBtQBwkWHEQvGwaabMZ4vaEF6ZMkyhBFh+K7LTeKGYFI6tvYvzx//hVoRNHc+xev4QSJWf7mCd2Xfl7gjHWTp1OuvTOz9bhJtFWZYk93tLG75532sZOQ+l+zXesLLbEkud//+nU/U1yTc1SA1dA8VNGYB9LqxgPNJ/h5MCpqW3GHH8CXHUqFY69Q9YKHjtYlYoU7dQv7daxE8Q1v5K6aoc0DFvYQFNuEPmwdYHbcy7ZYeyk9egSlTrT9sZ1VvJqIYaAFBaTivh5EmXuh7PZ2U62FSsCyDRtZxaBy5rKPVXIYCpz3G10+520744OsWDKulJw1vSbX4itYWyk0QaUlfg==;GlKhGv+GDEzdb11fEyXPcQ=="
