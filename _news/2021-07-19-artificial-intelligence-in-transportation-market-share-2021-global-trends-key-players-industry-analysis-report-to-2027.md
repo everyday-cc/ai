@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2331537/artificial-intelligence-in-transpor
 ampWebUrl: "https://www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
 type: article
-quality: 12
+quality: 14
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2027"

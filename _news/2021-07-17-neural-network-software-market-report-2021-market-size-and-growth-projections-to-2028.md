@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/neural-network-software-
 webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-report-2021-market-size-and-growth-projections-to-2028-2021-07-16"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Global Face Recognition Terminal Market Growth 2021-2026"
+    excerpt: "Pages Report] Check for Discount on Global Face Recognition Terminal Market Growth 2021-2026 report by LP Information INC. According to this latest study, the 2021 growth of"
+    publishedDateTime: 2021-07-19T12:36:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4680288-global-face-recognition-terminal-market-growth-2021-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 19
   - title: "Self-driving Car Technology Market Present Scenario and Growth Prospects 2021-2026"
     excerpt: "The Global Self-driving Car Technology market exhibits comprehensive information that is a valuable source of insightful data for business strategists during the decade 2015-2026. On the basis of historical data,"
     publishedDateTime: 2021-07-18T02:42:00Z

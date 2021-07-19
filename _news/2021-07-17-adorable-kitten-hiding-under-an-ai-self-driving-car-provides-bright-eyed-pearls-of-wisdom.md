@@ -63,6 +63,20 @@ related:
         width: 1178
         height: 526
         isCached: true
+  - title: "Apple is tapping Watch mastermind and health chief Kevin Lynch for its work on self-driving cars"
+    excerpt: "Lynch, an Apple Watch chief, is working on Apple's car team, which aims to produce a smart passenger vehicle."
+    publishedDateTime: 2021-07-16T20:18:00Z
+    webUrl: "https://www.businessinsider.com/apple-tapping-kevin-lynch-for-autonomous-car-project-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+    images:
+      - url: "https://i.insider.com/60f18a21016a3200188369b3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Every city’s drivers have quirks. Studying them could make self-driving cars work anywhere"
     excerpt: "Yet the driverless technology company Argo AI ... and make sure its artificial intelligence systems deeply understand them — not just where the street signs, traffic lights and road markings ..."
     publishedDateTime: 2021-07-15T12:03:00Z
@@ -92,6 +106,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/d/78/d788e464-fed4-51ee-a341-1bab6f35538c/60f14ae3ae8fc.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
         width: 840
         height: 630
+        isCached: true
+  - title: "Every city’s drivers have quirks. Studying them could make self-driving cars work anywhere"
+    excerpt: "To understand why it’s so hard to make a car that drives itself, pay attention to how people cross the street next time you travel. In Los Angeles, pedestrians wait for the walk sign. In San Francisco"
+    publishedDateTime: 2021-07-19T13:02:00Z
+    webUrl: "https://www.columbian.com/news/2021/jul/19/every-citys-drivers-have-quirks-studying-them-could-make-self-driving-cars-work-anywhere/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 14
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Studying local traffic quirks could pave the way for self-driving cars"
     excerpt: "Driverless tech company Argo AI is testing and training its sensors and software in seven different cities at once, including Detroit, to learn more."

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 824
         isCached: true
+  - title: "Anthony Bourdain’s cloned voice in documentary raises questions about deepfakes and ethics"
+    excerpt: "Anthony Bourdain, who died in 2018, is the subject of a recent documentary. Viewers were shocked and angry that the director used AI to clone his voice for a segment."
+    publishedDateTime: 2021-07-19T12:45:00Z
+    webUrl: "https://www.scmp.com/lifestyle/entertainment/article/3141659/anthony-bourdains-cloned-voice-documentary-raises-questions"
+    ampWebUrl: "https://amp.scmp.com/lifestyle/entertainment/article/3141659/anthony-bourdains-cloned-voice-documentary-raises-questions"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/entertainment/article/3141659/anthony-bourdains-cloned-voice-documentary-raises-questions"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 94
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/07/19/233c68be-3453-4e17-ac91-a214cf7ad6c5_852534f6.jpg?itok=eu5AcCbq&v=1626681647"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Anthony Bourdain documentary used AI to re-create his voice after he died"
     excerpt: "you probably don't know what the other lines are that were spoken by the AI, and you're not going to know.\" He added, \"We can have a documentary-ethics panel about it later.\" Writer Isaac Butler tweeted, \"This feels unethical to me maybe?\" Documentary ..."
     publishedDateTime: 2021-07-15T22:24:00Z

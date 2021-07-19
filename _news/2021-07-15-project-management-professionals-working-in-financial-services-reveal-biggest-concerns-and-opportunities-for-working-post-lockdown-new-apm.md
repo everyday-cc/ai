@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "USF-developed AI system unites global agencies to identify emerging infectious diseases, receives support from Microsoft"
-    excerpt: "Leadership in providing with the public consistent projections of COVID-19 infections and hospitalizations has prompted the launch of a USF-led global modeling project sponsored by Microsoft that can ultimately help scientists more swiftly identify and respond to the threat of emerging infectious diseases."
-    publishedDateTime: 2021-07-14T19:52:00Z
-    webUrl: "https://www.usf.edu/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft.aspx"
-    type: article
-    provider:
-      name: Health News Florida
-      domain: usf.edu
-    quality: 29
-    images:
-      - url: "https://www.usf.edu/images/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft/microsoft-article.jpg"
-        width: 733
-        height: 504
-        isCached: true
 
 secured: "8O78axYZ1XD5ooA0Aoa+zIDAwBYPEXytc36l4bh2GTbthD1AZ0Jlx1JsosoaPVI+JFxjj3QmPny2sr4y7rsLtepuWargZiFjQroluOeiVvV91QHjTfn3KVnNXL0TxgU4UQcNmf+Hb0M97V8Ha0H8VNprpJTItsj6f316Z4Ttw2AAQBHSLNxUv0hXRgP9Cq4PZuTBDL9nZz5Jbb6xtfyaBgxXXzYsxocq/Ot/Wlvx8RgL9iqahZDvKmKd/0rgPU26OtwbKrFn53i463coxdgcH/J3LMbUradQCICZ9lmjSEeJjHFuX9znIeLtx2hZ7uo52XhhSB0V//hw8/2Ta2/4F4UOLiPUoC5Kv+zUA+1tn5g=;Nkh2ca57cUa7/v2ESN4GjQ=="
 ---

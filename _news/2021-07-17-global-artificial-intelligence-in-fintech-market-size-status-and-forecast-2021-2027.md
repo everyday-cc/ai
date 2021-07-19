@@ -222,7 +222,7 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 12
+    quality: 14
   - title: "Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence as a"
     publishedDateTime: 2021-07-15T09:05:00Z

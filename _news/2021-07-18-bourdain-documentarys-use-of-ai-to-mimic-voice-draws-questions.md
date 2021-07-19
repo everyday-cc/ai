@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 824
         isCached: true
+  - title: "Anthony Bourdain’s cloned voice in documentary raises questions about deepfakes and ethics"
+    excerpt: "Anthony Bourdain, who died in 2018, is the subject of a recent documentary. Viewers were shocked and angry that the director used AI to clone his voice for a segment."
+    publishedDateTime: 2021-07-19T12:45:00Z
+    webUrl: "https://www.scmp.com/lifestyle/entertainment/article/3141659/anthony-bourdains-cloned-voice-documentary-raises-questions"
+    ampWebUrl: "https://amp.scmp.com/lifestyle/entertainment/article/3141659/anthony-bourdains-cloned-voice-documentary-raises-questions"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/entertainment/article/3141659/anthony-bourdains-cloned-voice-documentary-raises-questions"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 94
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/07/19/233c68be-3453-4e17-ac91-a214cf7ad6c5_852534f6.jpg?itok=eu5AcCbq&v=1626681647"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI narration of chef Anthony Bourdain's voice sparks row"
     excerpt: "ethics lead at the Alan Turing Institute, said the issue showed the importance of informing audiences that AI was being used, to prevent people possibly feeling deceived or manipulated. But he said that although it was a complex issue, the use of AI ..."
     publishedDateTime: 2021-07-17T07:58:00Z

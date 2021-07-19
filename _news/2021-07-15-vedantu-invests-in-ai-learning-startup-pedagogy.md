@@ -18,36 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Edtech platform Vedantu invests in AI-enabled learning startup Pedagogy"
-    excerpt: "Live online learning platform Vedantu on Thursday announced a strategic investment in Pedagogy, an AI-enabled learning startup that provides online courses and interactive digital books for students preparing for competitive examinations."
-    publishedDateTime: 2021-07-16T03:45:00Z
-    webUrl: "https://www.thenewsminute.com/article/edtech-platform-vedantu-invests-ai-enabled-learning-startup-pedagogy-152424"
-    ampWebUrl: "https://www.thenewsminute.com/article/edtech-platform-vedantu-invests-ai-enabled-learning-startup-pedagogy-152424?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/edtech-platform-vedantu-invests-ai-enabled-learning-startup-pedagogy-152424?amp"
+  - title: "AI Startup Lunit Secures Investment from Guardant Health in a Strategic Funding Round"
+    excerpt: "Lunit, a leading AI startup in AI-powered cancer solutions, today announced a strategic investment of $26 million from Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company. The deal,"
+    publishedDateTime: 2021-07-19T13:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round-1030620637"
     type: article
     provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 57
-    images:
-      - url: "https://www.thenewsminute.com/sites/default/files/Vedantu_160721_1200.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "FinTech Platform Revix Explores Ways To Enable South Africans to Invest In AI, BioTech and 5G Technology"
-    excerpt: "Revix is exploring ways to enable South Africans to invest in popular technology such as artificial intelligence (AI), BioTech, and 5G."
-    publishedDateTime: 2021-07-19T07:12:00Z
-    webUrl: "https://www.techfinancials.co.za/2021/07/19/fintech-platform-revix-explores-ways-to-enable-south-africans-to-invest-in-ai-biotech-and-5g-technology/"
-    type: article
-    provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 22
-    images:
-      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/05/5G.jpg"
-        width: 700
-        height: 466
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
 
 secured: "YCZ//uKKjuHgUK0NVgVIsM1lXbef+qDqw66ZeHdXTzyZFv79tQcsj1PFhLRYIgX1+Aqrp8qi0vweu+XR8KPc0OtPjUnopsKBadfkao0mvAWtd/iStKTkkR+V2MPWl30ZaXvXvjOpDETxil58W05MUSzqKy9i+Ew+veGgBJbqlU/nuWZo3p7KSq4fsWqWB+/6ND6YwKNkVUD/hoogwP7lQyPTcKNxETww3gjMQt6Drg+mSQWeN6O4SeZExX10dG9GeayCXsApK1WiIX6mGXavQ8EuqgTFpYrsHNviCL2GhzBs5GWFv1kz1lxRh9BFpHHS8zEGmpg2I/4srB6zwDq2D7yzn4RyXcmmpG6zuVW9bT0=;9vt9RlTenQ92pR33AHwESQ=="
 ---

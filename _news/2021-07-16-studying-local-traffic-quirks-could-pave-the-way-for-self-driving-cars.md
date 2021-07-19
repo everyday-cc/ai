@@ -67,6 +67,20 @@ related:
         width: 1178
         height: 526
         isCached: true
+  - title: "Apple is tapping Watch mastermind and health chief Kevin Lynch for its work on self-driving cars"
+    excerpt: "Lynch, an Apple Watch chief, is working on Apple's car team, which aims to produce a smart passenger vehicle."
+    publishedDateTime: 2021-07-16T20:18:00Z
+    webUrl: "https://www.businessinsider.com/apple-tapping-kevin-lynch-for-autonomous-car-project-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+    images:
+      - url: "https://i.insider.com/60f18a21016a3200188369b3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Every city’s drivers have quirks. Studying them could make self-driving cars work anywhere"
     excerpt: "Yet the driverless technology company Argo AI ... and make sure its artificial intelligence systems deeply understand them — not just where the street signs, traffic lights and road markings ..."
     publishedDateTime: 2021-07-15T12:03:00Z
@@ -96,6 +110,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/d/78/d788e464-fed4-51ee-a341-1bab6f35538c/60f14ae3ae8fc.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
         width: 840
         height: 630
+        isCached: true
+  - title: "Every city’s drivers have quirks. Studying them could make self-driving cars work anywhere"
+    excerpt: "To understand why it’s so hard to make a car that drives itself, pay attention to how people cross the street next time you travel. In Los Angeles, pedestrians wait for the walk sign. In San Francisco"
+    publishedDateTime: 2021-07-19T13:02:00Z
+    webUrl: "https://www.columbian.com/news/2021/jul/19/every-citys-drivers-have-quirks-studying-them-could-make-self-driving-cars-work-anywhere/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 14
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "D5THb+VNXPpx3KD1XIj0cTzFq44u8DfnpaVqm/CNnJ7mBX5P0dzt3iBlGkoH4PQaZ55ItIbF39Hw23WuauYA2T4DB/zZecQKX+C+y0j10ZDkbJDBVLZXl0W9y2hgETlomiHETFP61CD2qUqHJ28CsfwCw/Shs58X+tSS38xubKu0pum4i1eyOP1z1hpZ18W6DTKStDxZFfw2Vp8gGGMM9com+ux8P3oH1CmMzxqA4NrrkAg3JTQ7w4Yo+ru3ifxFOEcVZanGdEoqmMOJiGjtxWHG1BVzRnZ7snrU9YcTssYLA0prmuQS1XnIW+yLM8CEJNnH4yec5BaImZcZ4RSLr1WEiMAq0bGhqq6IFzm4WuDqID3kKf65gZs6i0lqQa3evFDX1Jpz2+GovzicwUJxH1HrEvz4bYqs417/gSzk//GaTZI3yv3k6Q3wsEdDYZ5tjjXWIOiiqtFVP/029KlKM9C7zpXCHD5eO91dNBqDAbJ0pRnN3tvzD/j6h1lKfR9l4pr/t+LViUxciwTUG0p77g==;iMV5HzQ4PeXDTBq0VO33ng=="

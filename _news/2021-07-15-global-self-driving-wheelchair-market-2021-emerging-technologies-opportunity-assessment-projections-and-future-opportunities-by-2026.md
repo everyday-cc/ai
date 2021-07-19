@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-self-driving-whee
 webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2021-emerging-technologies-opportunity-assessment-projections-and-future-opportunities-by-2026-2021-07-14"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: MarketWatch
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "USF-developed AI system unites global agencies to identify emerging infectious diseases, receives support from Microsoft"
-    excerpt: "Leadership in providing with the public consistent projections of COVID-19 infections and hospitalizations has prompted the launch of a USF-led global modeling project sponsored by Microsoft that can ultimately help scientists more swiftly identify and respond to the threat of emerging infectious diseases."
-    publishedDateTime: 2021-07-14T19:52:00Z
-    webUrl: "https://www.usf.edu/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft.aspx"
-    type: article
-    provider:
-      name: Health News Florida
-      domain: usf.edu
-    quality: 29
-    images:
-      - url: "https://www.usf.edu/images/news/2021/usf-developed-ai-system-unites-global-agencies-to-identify-emerging-infectious-diseases-receives-support-from-microsoft/microsoft-article.jpg"
-        width: 733
-        height: 504
-        isCached: true
   - title: "Project Management Professionals Working in Financial Services Reveal Biggest Concerns and Opportunities for Working Post-lockdown - New APM Study Rev"
     excerpt: "Over a quarter (28 per cent) of project managers working in financial services sector see new ways of working as the biggest opportunity67 per cent of project professionals say their organisation is planning on returning employees to the office post-lockdownThe majority (75 per cent) of those whose employer is planning a return to the office say they feel anxious about itLONDON--(BUSINESS WIRE)--Wi."
     publishedDateTime: 2021-07-15T13:02:00Z

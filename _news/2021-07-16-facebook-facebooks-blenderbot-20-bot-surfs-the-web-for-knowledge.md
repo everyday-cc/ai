@@ -87,6 +87,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Facebook AI unveils BlenderBot 2.0, a chatbot that adapts its memory over the long term"
+    excerpt: "Facebook’s artificial intelligence research lab, has been working on BlenderBot 2.0, a chatbot that combines long-term memory with information retrieved live from the internet. It’s a major update to the original Blender Bot,"
+    publishedDateTime: 2021-07-19T11:52:00Z
+    webUrl: "https://www.actuia.com/english/facebook-ai-unveils-blenderbot-2-0-a-chatbot-that-adapts-its-memory-over-the-long-term/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 31
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/07/Facebook-AI.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Facebook’s BlenderBot 2.0 chatbot can learn and remember new things by itself"
     excerpt: "Facebook Inc.’s artificial intelligence research unit has open-sourced what it claims is the first chatbot in the world that’s capable of building a long-term memory that can be continually accessed."
     publishedDateTime: 2021-07-16T14:10:00Z

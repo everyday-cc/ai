@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thenewsminute.com/article/edtech-platform-vedantu-invest
 cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/edtech-platform-vedantu-invests-ai-enabled-learning-startup-pedagogy-152424?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: The News Minute
@@ -26,29 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech Platform Revix Explores Ways To Enable South Africans to Invest In AI, BioTech and 5G Technology"
-    excerpt: "Revix is exploring ways to enable South Africans to invest in popular technology such as artificial intelligence (AI), BioTech, and 5G."
-    publishedDateTime: 2021-07-19T07:12:00Z
-    webUrl: "https://www.techfinancials.co.za/2021/07/19/fintech-platform-revix-explores-ways-to-enable-south-africans-to-invest-in-ai-biotech-and-5g-technology/"
+  - title: "Three Ways Edtech Platforms Can Use AI To Deliver Effective Learning Experiences"
+    excerpt: "With the right kind of AI, edtech enterprises can not only shape the future of curriculum, but also the very culture of education and learning."
+    publishedDateTime: 2021-07-19T12:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/19/three-ways-edtech-platforms-can-use-ai-to-deliver-effective-learning-experiences/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/19/three-ways-edtech-platforms-can-use-ai-to-deliver-effective-learning-experiences/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/19/three-ways-edtech-platforms-can-use-ai-to-deliver-effective-learning-experiences/amp/"
     type: article
     provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 22
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/05/5G.jpg"
-        width: 700
-        height: 466
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f1796292341577adb4358e%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Vedantu invests in AI learning startup Pedagogy"
-    excerpt: "Live online learning platform Vedantu on Thursday announced a strategic investment in Pedagogy, an AI-enabled learning startup that provides online courses and interactive digital books for ..."
-    publishedDateTime: 2021-07-15T16:25:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210715/3787360.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "b8VOVDiWs+a9qLlfYLEB7KHXXiSIGeSZwZBjRfI39yT07RBUDeEalHogSKowKrLUswLzwC1HWm7iCIY/PIcEwS4csz0geSf0CPKCcvTIC993lMM6eWx6z8hiXWaBccVnPILAXiO34byFzWG9Y3uUJu/EQZ56JFw1A6kDXihtYsPv0f6MNm6mW9FqqrWOZj21iSrQy9cPbfxJ2fSqTqVhVkiheEzJzJ0SYvJXvkbUVY9QfrXMqjn1j+3uB0m064HzJNWkF0RV8OroK4bcR1h0aemMGTff9RayhpI1EXhWA7xmEU0Pegqm9VF11SkBJB5+UhAI/k3y3rrbAAEDIkFNHDqe1Q3rKbjbuEar2wiMMs0=;wyMVZLpfkJFEwO8kNuR+7A=="
 ---

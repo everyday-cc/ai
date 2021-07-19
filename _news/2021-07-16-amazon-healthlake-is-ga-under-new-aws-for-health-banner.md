@@ -86,20 +86,6 @@ related:
         width: 800
         height: 294
         isCached: true
-  - title: "Here’s How Dallas-Based HealthTech Company VivoDoc Plans to Simplify Healthcare With AI and ML"
-    excerpt: "VivoDoc is striving to reestablish the patient-physician relationship by offering tools that manage the business side of healthcare and aid patients—all in one platform. In cutting out the middle man,"
-    publishedDateTime: 2021-07-14T20:51:00Z
-    webUrl: "https://dallasinnovates.com/heres-how-dallas-based-healthtech-company-vivodoc-plans-to-simplify-healthcare-with-ai-and-ml/"
-    type: article
-    provider:
-      name: dallasinnovates.com
-      domain: dallasinnovates.com
-    quality: 59
-    images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2021/07/VivoDoc-feature-970.jpg"
-        width: 1196
-        height: 572
-        isCached: true
   - title: "AWS launches Amazon HealthLake into general availability"
     excerpt: "“In their daily practice, doctors need a complete chronological view of patient history to identify the best course of action,“ AWS artificial intelligence and machine learning evangelist Juli ..."
     publishedDateTime: 2021-07-15T19:20:00Z

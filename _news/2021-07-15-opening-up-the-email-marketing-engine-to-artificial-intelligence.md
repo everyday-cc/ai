@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-marketing/opening-up-the-email-marke
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How To Make Ethical Use Of AI In The Hiring Process"
+    excerpt: "Global corporate investments in AI are projected to double to around $110 billion over the next two years. One of the main areas of application for organizational AI is recruitment (e.g., staffing, hiring,"
+    publishedDateTime: 2021-07-19T13:55:00Z
+    webUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-ethical-use-of-ai-in-the-hiring-process/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f5837b1a2db6fca4092d1a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Is AI a friend or foe to marketers?"
     excerpt: "Every time artificial intelligence (AI) disrupts a new industry use case ... as that’s when they typically start shopping for the baby. It boomeranged when an angry parent of a high school girl complained about sending the girl baby apparel coupons ..."
     publishedDateTime: 2021-07-17T10:51:00Z

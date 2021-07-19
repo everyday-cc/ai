@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Videos of Tesla's latest Full Self-Driving software update don't inspire much confidence"
-    excerpt: "Videos show some improvements, but lots of dangerous glitches for a software called \"full self-driving.\""
-    publishedDateTime: 2021-07-14T20:03:00Z
-    webUrl: "https://www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
-    images:
-      - url: "https://i.insider.com/60ef4a7d61b8600019f17259?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Tesla launches full self driving subscriptions at $199 a month"
     excerpt: "To date, Tesla offered the Full Self-Driving package for a one-time payment of $10,000. Tesla owners can cancel their monthly FSD subscription at any time, according to the website. According to Electrek,"
     publishedDateTime: 2021-07-18T08:32:00Z
@@ -119,6 +103,15 @@ related:
         width: 2880
         height: 1800
         isCached: true
+  - title: "Tesla Unveils $199/Month Full Self Driving Subscription Package"
+    excerpt: "Tesla Inc. has launched a Full Self-Driving or FSD subscription for its driver-assistance software package for $199 per month. The"
+    publishedDateTime: 2021-07-19T13:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-unveils-199-month-full-self-driving-subscription-package-1030620591"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Breaking: Tesla Releases Full Self-Driving Subscription"
     excerpt: "Tesla has finally released the long-awaited subscription option for their Full Self-Driving feature. Here are the details."
     publishedDateTime: 2021-07-17T06:40:00Z
@@ -151,21 +144,19 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "From swerving into a median to narrowly missing poles, videos of Tesla's latest Full Self-Driving update don't inspire much confidence"
-    excerpt: "Videos show some improvements, but lots of dangerous glitches for a software called \"full self-driving.\""
-    publishedDateTime: 2021-07-14T20:03:00Z
-    webUrl: "https://www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-fsd-full-self-driving-videos-flaws-glitches-2021-7?amp"
+  - title: "Tesla makes Full Self-Driving available as $199 monthly subscription"
+    excerpt: "Tesla is making its pricey Full Self-Driving (FSD) electronic driver-assist feature available as a subscription. FSD is being offered as a $199 monthly subscription for cars equipped with Basic Autopilot and $99 when Enhanced Autopilot is equipped."
+    publishedDateTime: 2021-07-19T12:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1132935_tesla-makes-full-self-driving-available-as-199-monthly-subscription"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
     images:
-      - url: "https://i.insider.com/60ef4a7d61b8600019f17259?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://images.hgmsites.net/hug/2020-tesla-model-3_100736264_h.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Tesla Will Now Offer Monthly Subscriptions For Self-Driving Package At $199 Per Month"
     excerpt: "Tesla, one of the largest electric vehicle manufacturers has rolled out the monthly subscription for its Full Self Driving package and it costs $199 per month. The owners who had already invested in the Enhanced Autopilot package will get a rebate of $100 ..."
@@ -197,6 +188,22 @@ related:
         width: 640
         height: 425
         isCached: true
+  - title: "Tesla Launches Full Self-Driving Subscription, Even Though It Is Nowhere Near Achieving Full Autonomy"
+    excerpt: "Tesla has launched its monthly subscription service for its Full Self-Driving package, even though it is still a long way away from offering a true Level 5 fully-self driving package to customers. The car manufacturer has previously sold its Full Self-Driving package as a $10,"
+    publishedDateTime: 2021-07-19T13:05:00Z
+    webUrl: "https://www.carscoops.com/2021/07/tesla-launches-full-self-driving-subscription-even-though-it-is-nowhere-near-achieving-full-autonomy/"
+    ampWebUrl: "https://www.carscoops.com/2021/07/tesla-launches-full-self-driving-subscription-even-though-it-is-nowhere-near-achieving-full-autonomy/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/tesla-launches-full-self-driving-subscription-even-though-it-is-nowhere-near-achieving-full-autonomy/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 44
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/05/Tesla-Autopilot-report-00-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Tesla Launches Full Self-Driving Subscription Package Starting At $199"
     excerpt: "Tesla has just launched its Full Self-Driving subscription package starting at $199. Here are all the details on this."
     publishedDateTime: 2021-07-17T15:25:00Z
@@ -226,6 +233,6 @@ related:
         height: 420
         isCached: true
 
-secured: "dIU3BWRl8Ab/a+LP9PRzI3IPY/aiFFKXdLnwm60sJOuL8YQpA5SBMTgmBfLYROx9t6xlSIIkOqR2Y4FoptuaBoqjkj6IkSRgObEaVtqMLC6Y5MaaY2E8TlT4E4rb7ktAZhRWmP/WEtgj7VriCjuLREgToq7nY9OhrlVwLIJoR7LFrCYuIY0ghfZuRCk9+wTATG32KfkzEFkVZMLsfPIgN21YtvKodCL98R6TWiJnBcgV3vRNx7OLOaNG1LbwzUArheOruaqUYMk34wdISGs+n1+AD9xwBxduAohGFXd4iwin1cPCAvSV5BIehMVysW1yitPDsU7eujEJ8Yl9nbcV7cpib/8LCDSZ+VpehA7bryQ=;zOwLw09M98HRpCXNUnMy4Q=="
+secured: "ygH9ia52V/Q0mjJhoMYUzIs99BEdgt1QkXjYkr0ir8EPKbt+K2AgDSw950kMTTNSnOpbNoa6xhk1etFvUmWa8zhpBWZGAfHlaDkmUJ/C5w1BHUmXpEQeWuCNVSsyejCdxPpcMs+jw9IXrY9c2gbnYpPvnqrKreghBZk0g09y7f3d/jl1O9u+gG/lpG/yMz+v4PUYWR+flf1k4JZO5QZ9ZtqzH8N69nFnaEwGfGnzuxBF5w+B7zO28X8FWN/S7CcCyy5wPjykdU2mxa5U8jMGWxQYMQsV9KRDyFOoARIE8mm0G/upvEsTlSfkZPRHRmdsnzb/lb5Sceqm6t+7Q+8Ey+Ro3eiQ17CLntEakR/uOAj8nnSpNjZYr+DN0qhRX+w9nRojS6IDB8I75PYWY4B631Wwu18ltbs2VliTsu74os4oNJzWcvi+cyaeVpdiOUXDLVIKTHNurKEINt+z+kVfubPo3GTEaQWvfRWPc8TVYjPm8DpCTU9eVez7wVRNVXEQhA5iGuSqY7fMI/e4de7IpQ==;ldrBGQ8O+Gth+zl9EvTUFg=="
 ---
 

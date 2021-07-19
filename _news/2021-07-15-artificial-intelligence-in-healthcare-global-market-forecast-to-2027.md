@@ -208,15 +208,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 14
-  - title: "Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence has become a leading trend that affects"
-    publishedDateTime: 2021-07-17T07:38:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4657100-global-artificial-intelligence-in-fintech-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
   - title: "Artificial intelligence in transportation Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Artificial intelligence in transportation market is expected to grow at a significant CAGR in the period from 2021 to 2027 Government rules for car safety are becoming more stringent as is the use of advanced driver assistance systems ADAS"
     publishedDateTime: 2021-07-19T11:49:00Z
@@ -227,6 +218,15 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
+    quality: 14
+  - title: "Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence has become a leading trend that affects"
+    publishedDateTime: 2021-07-17T07:38:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4657100-global-artificial-intelligence-in-fintech-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
     quality: 12
   - title: "Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence as a"

@@ -43,6 +43,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "How To Make Ethical Use Of AI In The Hiring Process"
+    excerpt: "Global corporate investments in AI are projected to double to around $110 billion over the next two years. One of the main areas of application for organizational AI is recruitment (e.g., staffing, hiring,"
+    publishedDateTime: 2021-07-19T13:55:00Z
+    webUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-ethical-use-of-ai-in-the-hiring-process/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f5837b1a2db6fca4092d1a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ZZJoR7hvslCdG9rz6Ao+KfbZi7/2IOGmCSlYot9ZgLDn+Fm26NBKXq9Tt64T0kkcosoursPkLictsEe0uRMX1ss7UKBymv8mLaKxQtJinhqa/usxhQjGJOemzYf/0WDCo9h6WpHwZ7gQ/ebFj+oFQj5MNrv4hQNSHbIF2I00nDzKsrAVtsNYdmOKBRT6FhBfWnLjzx6cq4GVqJx2KjvS5zGN6vvuuUUlV/U9k7vnbnb/KXCtJ2eSSjGFxe4Lalt655/wdM7ADX9rSY6bVl5XdHNqMa+KJZWJ8MrHJO0urMBGP5v/5UtdBAQYJoXC6IjXNyYrhOIJXssNAZPsbaOuQheUGFx7qZw1sn2er7OIblBFkXrV0Jrzfy9IF0bAhIczJKpKiiTCMAN7MaNL4yGZw72WwnJSbnG1oCjtZkCOPbsK+mlgKgzeL2EDzWTz8xPlph8DjM77n3eWCwOnuCyMpILOt95rXsfbAsyaeGndBGmRGCBOgSlaKgmN2Se3PMUhVHoLpnL6TE3gEAurGZqNHA==;wuleaEV9mcfJV3EDsIo6tg=="
 ---

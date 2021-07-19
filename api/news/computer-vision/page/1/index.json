@@ -6,8 +6,8 @@
       "title": "Japan's Narita, Haneda airports start facial recognition in full scale",
       "excerpt": "Japan's Narita and Haneda airports starts the use of facial recognition on a full scale, allowing international travelers to check in baggage and pass security checkpoints without showing passports or flight tickets.",
       "sourceUrl": null,
-      "webUrl": "https://english.kyodonews.net/news/2021/07/f104681f01b8-narita-haneda-airports-start-facial-recognition-in-full-scale.html?phrase=hisahito&words=",
-      "originalUrl": "https://english.kyodonews.net/news/2021/07/f104681f01b8-narita-haneda-airports-start-facial-recognition-in-full-scale.html?phrase=hisahito&words=",
+      "webUrl": "https://english.kyodonews.net/news/2021/07/f104681f01b8-narita-haneda-airports-start-facial-recognition-in-full-scale.html",
+      "originalUrl": "https://english.kyodonews.net/news/2021/07/f104681f01b8-narita-haneda-airports-start-facial-recognition-in-full-scale.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-18T23:44:00-07:00",
+      "publishedDateTime": "2021-07-19T05:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Kyodo News+",
@@ -818,34 +818,34 @@
     {
       "path": "_news/2021-07-12-algolux-closes-184-million-series-b-round-for-robust-computer-vision.md",
       "title": "Algolux Closes $18.4 Million Series B Round for Robust Computer Vision",
-      "excerpt": "Algolux's computer vision and image optimization solutions address the mission-critical issue of safety for ADAS and autonomous vehicles. Algolux is the first company to use computational imaging ...",
+      "excerpt": "New investment will serve to accelerate market adoption of Algolux's robust and scalable computer vision and image optimization solutions",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision-1030597361",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision-1030597361",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision/article_2463f289-37fe-5f16-bcd4-e9afc907ccde.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision/article_2463f289-37fe-5f16-bcd4-e9afc907ccde.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/4c/94c32bf1-ef68-536c-8c84-9af1c9d96a28/60ec3d841c887.image.jpg?resize=1120%2C630",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T06:22:00-07:00",
+      "publishedDateTime": "2021-07-12T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

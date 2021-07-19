@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/07/FRLR-head-mounted-BCI-research-prototype.jpg?w=3000"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "Facebook AI unveils BlenderBot 2.0, a chatbot that adapts its memory over the long term"
+    excerpt: "Facebook’s artificial intelligence research lab, has been working on BlenderBot 2.0, a chatbot that combines long-term memory with information retrieved live from the internet. It’s a major update to the original Blender Bot,"
+    publishedDateTime: 2021-07-19T11:52:00Z
+    webUrl: "https://www.actuia.com/english/facebook-ai-unveils-blenderbot-2-0-a-chatbot-that-adapts-its-memory-over-the-long-term/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 31
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/07/Facebook-AI.jpg"
+        width: 800
+        height: 400
         isCached: true
   - title: "Facebook – Facebook’s BlenderBot 2.0 bot surfs the web for knowledge"
     excerpt: "Facebook detailed its work on an AI chatbot called BlenderBot 1.0, which the company claims is the largest-ever project of its kind. In an extension of that work, Facebook today took the wraps off of BlenderBot 2."

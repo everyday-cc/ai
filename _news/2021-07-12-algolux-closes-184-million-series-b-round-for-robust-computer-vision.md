@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Algolux Closes $18.4 Million Series B Round for Robust Computer Vision"
-excerpt: "Algolux's computer vision and image optimization solutions address the mission-critical issue of safety for ADAS and autonomous vehicles. Algolux is the first company to use computational imaging ..."
-publishedDateTime: 2021-07-12T13:22:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision-1030597361"
-webUrl: "https://markets.businessinsider.com/news/stocks/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision-1030597361"
+excerpt: "New investment will serve to accelerate market adoption of Algolux's robust and scalable computer vision and image optimization solutions"
+publishedDateTime: 2021-07-12T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision/article_2463f289-37fe-5f16-bcd4-e9afc907ccde.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision/article_2463f289-37fe-5f16-bcd4-e9afc907ccde.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "arsIOCRnJrZCubN4LFN0N1oZ8GRBl7MPec24w4hbY1L9+TRh62cpDnzEr9UOrE/mk73EalLuZyuIqKL+bWCW99pnOQtcRSl0Ql1otDgjqbFscUaV2If10KJsJrUcBlsZP1LMjrjqd6/PlOauziabiiz+VT+19/yYEujUhqag65fk++bOh4O/TFBgzRB3MdbBFult4eKqzDksJL0KJ6L2fVIOp01/J98PBpobHYg3ctRLX7/19E0atEBigZYSaASSWyXtGcnrl9co4NIab/FepldRw7b8SKZQVRGAAzB8KDteeBLM4w0UWQE71cNveakvYx2aE9yzltSjAgTGXJXOgYnXfFS0CrB6rmutm/XicGo=;dHDaEgr6R35pjOHmrfi9BQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/4c/94c32bf1-ef68-536c-8c84-9af1c9d96a28/60ec3d841c887.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
+    isCached: true
+
+secured: "iRNJnwCFyiMGMms4rOIW0cAMRi4mnJ0hlHkHVLqxK1f42FGacagAxUqTaqhC1TbxEjqEjVsQysMccyvgHhW47dh2BCqXSZwzrMZo79EwsJowT0ELgiZoni89e64BmqWA9cw32Y5XikjbhPrV2tyOoaQ2EUW2c9RSowiew9/RWY3TbbFKLAtpAl7fH7Hql/KvWrSKq57RM18Ob9DVPyW/Iv1OQIk+WwId1/6VfOwG5HNo5D7K8+gGXWkTRK/G0etqYFnQlQ20vn6rBJhp9WYrkPvStKdB5gzWmCWGc2URrVnBwElKBpv52PM2UAwJeMV6B1jF6z8pIighcVNVcles1/lNwoTfNtdT82WYOGAVwf4=;yQU/TBOmvflB/uzeh3koMw=="
 ---
 

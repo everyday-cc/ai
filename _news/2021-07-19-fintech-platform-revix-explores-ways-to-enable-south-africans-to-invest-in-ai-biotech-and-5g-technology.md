@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Edtech platform Vedantu invests in AI-enabled learning startup Pedagogy"
-    excerpt: "Live online learning platform Vedantu on Thursday announced a strategic investment in Pedagogy, an AI-enabled learning startup that provides online courses and interactive digital books for students preparing for competitive examinations."
-    publishedDateTime: 2021-07-16T03:45:00Z
-    webUrl: "https://www.thenewsminute.com/article/edtech-platform-vedantu-invests-ai-enabled-learning-startup-pedagogy-152424"
-    ampWebUrl: "https://www.thenewsminute.com/article/edtech-platform-vedantu-invests-ai-enabled-learning-startup-pedagogy-152424?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/edtech-platform-vedantu-invests-ai-enabled-learning-startup-pedagogy-152424?amp"
+  - title: "Irish fintech Glantus acquires Technology Insight for up to $9.3m"
+    excerpt: "The move marks Glantus’s further expansion in the US market and is its first acquisition since it went public in London."
+    publishedDateTime: 2021-07-16T15:36:00Z
+    webUrl: "https://www.siliconrepublic.com/companies/glantus-acquires-technology-insight-fintech"
     type: article
     provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 57
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
     images:
-      - url: "https://www.thenewsminute.com/sites/default/files/Vedantu_160721_1200.jpeg"
-        width: 1200
-        height: 800
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/07/Karl_Andersson_and_Maurice_Healy_Image_2.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Vedantu invests in AI learning startup Pedagogy"
-    excerpt: "Live online learning platform Vedantu on Thursday announced a strategic investment in Pedagogy, an AI-enabled learning startup that provides online courses and interactive digital books for ..."
-    publishedDateTime: 2021-07-15T16:25:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210715/3787360.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "496q6Q46QxaH3oe2Etw5EW2zdj2HZbzq+5Y1QJqU4C1jAOhmqpXNJqSyYbvgvpU7OopxIJDwRtCsmEPCgqJELmKnO6+UlIMeHxKe/KYXGIDm7/B+Q+yfeKeY02M+cVplvz0hzY20b5UHoD3ySDtvwh1AYXRoEool4Ldgk+UtVnZ8Z5JUMf7zWSVx2SlRHG7VBmyTmBfFsIRzl/lAA3m/h5Kp/0M3almgYfHZ+a8Ui3vpWvj3TY1rMk42lKdGXDahkg6GSQk/shgQ+RilkEHv+o9+tqJ8MOjGYSKWLHwrCHrd2SVljsSlYtDqiEvt3OY/A+tcm72XsgyUyYRCEvegQm8BrVbOLW81By0RC/vZ9Y6iEM7ynPBrgMBwt2JG6v+pZZ+SsV86DUok7NWzOpERIjLlxT0CZZHrjlBcpXwmWD7B0qWvArWEM9vDIgBsFE6x0Lp0JE/8UyTAIHWq8ejhfERY3PROlkeLRnOxg0aO9Ilz2RoVKbXi2hca4Ey90rqMv7iXJrnzySFf+iow28rs1w==;mf4sYLQl2dvlMJerQAnU6A=="
 ---
