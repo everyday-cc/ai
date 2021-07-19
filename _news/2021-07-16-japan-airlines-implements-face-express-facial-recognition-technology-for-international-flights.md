@@ -152,17 +152,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 39
-  - title: "Activists call out Ace Hardware, Apple stores for using facial recognition on customers"
-    excerpt: "A coalition of civil rights groups are urging retail stores to stop their use of facial recognition technology with a new campaign."
-    publishedDateTime: 2021-07-14T15:53:00Z
-    webUrl: "https://www.dailydot.com/debug/facial-recognition-retail-stores-scorecard/"
-    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-retail-stores-scorecard/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-retail-stores-scorecard/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 31
 
 secured: "QYvnzy7icWvTpMJ7oBa+hhj53gshL78GT17IrC+h2J7OZUQB7mIo3SHkx4c/svF73PdxXQ0kHpedE5gc+q+u8aE533jKTGRud2WrxPw+Bcgo2yhTtCX1CS/jUc3jMUO5J5j0u6RO1p2hxYxlsDgl2e478PBxbX2M9Oa0oJ4UnBzVv7g8JNuv1e5ifmptoIB44o63eGAdCXWo5VVh3vV80IJSjg5/IO//BfkzgBl29eRh8Hg42FUpYtJ9BJHXNkaarcUDM7VX1l1R0d6AvHckvkDFG2S9S5ci69cZm5AS7vHn0v71VQ7dwGFHgGFTmvPGYFWUy/ISt09Mfh7NwbODJZ/yjcHLFHz9aqeW36gyj9s=;7/fhIJFJP6/appH4GXKc3Q=="
 ---

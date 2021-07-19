@@ -7,7 +7,7 @@ originalUrl: "https://www.inavateonthenet.net/products/article/avocor-announces-
 webUrl: "https://www.inavateonthenet.net/products/article/avocor-announces-edgetoedge-interactive-displays"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 750
     height: 469
     isCached: true
-
-related:
-  - title: "Avocor Addresses Modern Meeting Spaces With New G Series Displays"
-    excerpt: "Avocor is introducing the G series, a new product family of sleek, bezel-less, edge-to-edge interactive displays designed to streamline workplace collaboration. Available in 65-, 75- and 85-inch edge-to-edge diagonals,"
-    publishedDateTime: 2021-07-14T16:15:00Z
-    webUrl: "https://www.avnetwork.com/news/avocor-addresses-modern-meeting-spaces-with-new-g-series-displays"
-    type: article
-    provider:
-      name: AV Network
-      domain: avnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/owMJNgmYDwkf8D4Cd6dmv9-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "X+QEpQa28rnA3uMObsrXtysqO9dUCv/DpAMycsRiy+VMSQ0uSwPMzdETrQ6Ykdi8EGUm0oug6VcW5st8q77w30lzbbHBDoz+bxG0N+/wu36Jhmj+vr2dW3zhWWU3fSPGJEyGg1KWF0xixSIuJk4PC1t3AeKhQ8egP4ODg+CqNiv3WBAXPNRhFMljdqXE3oV2v9/KYpkW0t8y/LPQJkXx+WMu4PEyhLEMudh1WP/I/dN/h9L9p5vu7f+eOLOwhlfuz+mYeNeiv8ro6xez+VQtXXjcM1mlru/Y9b2ffNE8T3LdxusyfgmLvCkZSzb80SChDDKBytkeyVxsKP/AovxRBviJXtduLKjJTipGbNFN1pSK+qAf2LRYr4GZz2ZCQ1urcrd5sNLHyzD7b4w4oISZo26/WRo/7IvyRZ+RGceo1mMXc0O4Wrvwh2LyKsHgoNXYStC2R7G7a8q3jxXIszi2bStsub302aTlzzP2ke4D1lABPv9Z4grxgJhNJAWbCK0R9Ipfv8iSFCifHYqSiAMlhg==;P3jFJqWiXaULUKLxiWDXUw=="
 ---

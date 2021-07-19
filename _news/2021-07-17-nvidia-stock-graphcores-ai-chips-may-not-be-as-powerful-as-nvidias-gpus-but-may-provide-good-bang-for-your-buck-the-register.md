@@ -7,7 +7,7 @@ originalUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidia-stock-gra
 webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidia-stock-graphcores-ai-chips-may-not-be-as-powerful-as-nvidias-gpus-but-may-provide-good-bang-for-your-buck-the-register/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Aims to Bring AI to the 5G Edge"
-    excerpt: "The company’s network cards are based on Arm processors that can run AI inference engines on edge computing platforms."
-    publishedDateTime: 2021-07-14T16:02:00Z
-    webUrl: "https://www.itbusinessedge.com/networking/nvidia-aims-to-bring-ai-to-the-5g-edge/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 39
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/NVIDIA-Aims-to-Bring-AI-to-5G-Edge.jpeg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "NVIDIA Stock – Nvidia partners with University of Florida to build AI supercomputer"
     excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
     publishedDateTime: 2021-07-19T01:16:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-marketing/opening-up-the-email-marke
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Things Business Leaders Must Know About Adopting AI at Scale"
-    excerpt: "Companies that adopt AI at scale should have an ethics committee that can gauge the ongoing usage of the AI system and make sure it’s \"doing good.\" AI should be used responsibly not because regulation demands it, but because it’s the right thing to do ..."
-    publishedDateTime: 2021-07-14T16:34:00Z
-    webUrl: "https://www.entrepreneur.com/article/376748"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/376748"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376748"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
   - title: "Is AI a friend or foe to marketers?"
     excerpt: "Every time artificial intelligence (AI) disrupts a new industry use case ... as that’s when they typically start shopping for the baby. It boomeranged when an angry parent of a high school girl complained about sending the girl baby apparel coupons ..."
     publishedDateTime: 2021-07-17T10:51:00Z

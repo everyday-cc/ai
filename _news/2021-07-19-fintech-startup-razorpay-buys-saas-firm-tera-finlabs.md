@@ -82,6 +82,34 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AMD Stock – AMD Stock – 2 Dividend-Paying Tech Stocks to Buy in July | Fintech Zoom"
+    excerpt: "Complete Advanced Micro Devices Inc. stock news by FintechZoom. View real-time stock prices and stock quotes for a full financial overview."
+    publishedDateTime: 2021-07-18T21:22:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amd/amd-stock-amd-stock-2-dividend-paying-tech-stocks-to-buy-in-july-fintech-zoom/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 18
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626519598_0902-Q19-Total-Markets-photos-and-gif_CC8.jpg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "The fintech landscape in Latvia – Interview with the Financial and Capital Market Commission"
+    excerpt: "Marine Krasovska, Director of financial innovation department, FCMC, offers key insights into the Latvia-based fintech"
+    publishedDateTime: 2021-07-19T08:49:00Z
+    webUrl: "https://thepaypers.com/interviews/the-fintech-landscape-in-latvia-interview-with-the-financial-and-capital-market-commission--1250478"
+    type: article
+    provider:
+      name: The Paypers
+      domain: thepaypers.com
+    quality: 13
+    images:
+      - url: "https://thepaypers.com/images/social_media/fintech-socialmedia_LI.png"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "yUo/fINhyLppbX2ThUvAH+95pkD3cGJMNByMHAeDhz3+PKlwGGcjMhl5OHNEWBc1mhjGefPZiA9uNtXeRLyuPDciDWe87fLvySAs0mzG9KxvFlWUCRGK9OOEk7lCu2jpdooKkme+OU3InQzz/arRNBJEF+futAOP1c2p+ZaFwS6PVhqhQfY75WwF8MlEaa0aUQk+duIfNSHrRjFQ5h0eTcLjlu3/HP4h9PuwIVL98icw1G3dxlGE9jP5ek0MHwQ+I0RTsNL9y2bCu96G4T2Yd0hTwFqFPw9sxKVIvWCfuji4SRCfsr0FLvDQYioIjVXvDgMMvFn+NBjCZ7EVrfMBY2KxKaC6voCPE4jeniiVEsFpAwCeuawdVWRI8xLW8S67Oo8fERjrY+Dwmod7z0uyGb2wBvkN0do5GNiOyEH0ABbFY9yB5vweyEWaufJIsJ3FE9nu7zjF6apWo8/Lhv3ErcyP7m4bP1V8mxdJzLqVxlhR5k7zgrnA+guMUWTySveE4J/gZ6Exo12DEzZ285iyhQ==;iWOxl0AhaQW1lCqCYKxLKQ=="
 ---

@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Major Study From Stanford University and Youper Finds Artificial Intelligence Therapy Effective at Reducing Anxiety and Depression"
-excerpt: "In the largest clinical study of its kind to date, a team of scientists at Stanford University confirmed a new model of mental health treatment that uses artificial intelligence therapy is significantly effective at reducing symptoms of depression and anxiety."
-publishedDateTime: 2021-07-15T13:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-major-study-from-stanford-university-youper-finds-artificial-/2021/07/15/9410138.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-major-study-from-stanford-university-youper-finds-artificial-/2021/07/15/9410138.htm"
+excerpt: "In the largest clinical study of its kind to date, a team of scientists at Stanford University confirmed a new model of mental health"
+publishedDateTime: 2021-07-15T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html"
+webUrl: "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html"
 type: article
 quality: 4
 heat: 4
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "t7B0y47DPqjL14lWsJNml3ho0/V7mKg9eX7KhIht80+OASLEG5c2DSh2JckWaqDuNObv5ADHpxoTEomhRcsTBrUo8StvE5DLvnjOtC+EmrGYRbZQv2NY8GgqrX3h+XPqCJLzmPF2jRdcWdcgtcXa01xi/eypnTh1JdRjJC38SSdZITim0Lhu5jvdkTMfxeyYNuuLDsLUIyc1eUnjD+awjwrtHnKSTPnW0w8oXi9UWConIbKbxw0euawdFN0a3Xw3KiahFq5i8GyxK86lZvk2KGXvAtK15PhBOdej1mrsN/3kp47UYKNqHsyFBD2+DirBxiX/zxuhmK3mNaKf85f22ZOqrzGesuNpZ9tjhHFU7iE=;Hi4JExJOWfzTsgu9B6u84Q=="
+secured: "pZWzBme7PfWPuD3nssO0nIz/HLgxuAP88CgAa78nM5IdDyuPHvCH/iiMneNzLkLh4IbNO+brJqTyhPmGxIeWI/ZiL6g/Esjz0xdrsccxTv9/k137/mOlZjTps0mCuyMrFt0qT/1ngsw/eXJFXOtj/vBgzpqiAqpzDKnuKvAJZwEj486zruvSBUwGvsRpYmcA33keqGnHsrTlzQXRSov1St5E3nL1gjfjMPjEkdmolgc84yyCV3t37+Q6tAXbNfWePfK03XEYY2gEpaVBmKnNGZ2Nld0kGlBuPZ5vahDg1ea0AzGa5JKBU19cN3yP61D7ZxvT8musxXKVgtbkn2q1dBET95f4JPLDVSUliRMxkeA=;n/a4pgE8h4yD0lRnABGepA=="
 ---
 

@@ -56,22 +56,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "How customers react to chatbots"
-    excerpt: "More and more companies are using chatbots in customer services. Due to advances in artificial intelligence and natural language processing, chatbots are often indistinguishable from humans when it comes to communication."
-    publishedDateTime: 2021-07-14T16:26:00Z
-    webUrl: "https://phys.org/news/2021-07-customers-react-chatbots.html"
-    ampWebUrl: "https://phys.org/news/2021-07-customers-react-chatbots.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-customers-react-chatbots.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/trust-me-im-a-chatbot.jpg"
-        width: 1440
-        height: 1377
-        isCached: true
 
 secured: "ZbeTuPNO7/rtkXrZH96tRkxcuxgVocjij1g5X9DvZtmUpydLzb5EFZiXoMDbIB8DcBRGTeOrXlpnZGFlHuqgo4MD6moySyuOVJb0/ydyVUQc92lFK5aItld+RTcj20c3xv8oPrdca4V/7oo3OKk7BrqqgHMBQJSvGcuBXJln3i95sC6rGyyx05EewviPZJ4oiaLZHdQzqrAt4iTFlEO84eHdr5r8EvuvJB7zpkzvzIx3e/6rXmYwDqgcc/eGSppTOMLbemc2V/ZA2uwTi6kfXiQQUGmd4PA1Fom2KcM8MH0l82ljh8bMpvtQDAD+Wd48Q4BpD91XOKK1onx9RbWW7VNZ44Eb4Q0fuijQmgv6v6E=;Tl/fhWSKzNSNPvtf29HnBA=="
 ---

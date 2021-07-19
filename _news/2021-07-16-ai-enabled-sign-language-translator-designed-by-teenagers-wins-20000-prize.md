@@ -7,7 +7,7 @@ originalUrl: "https://www.oxfordmail.co.uk/news/national/19446632.ai-enabled-sig
 webUrl: "https://www.oxfordmail.co.uk/news/national/19446632.ai-enabled-sign-language-translator-designed-teenagers-wins-20-000-prize/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 714
     isCached: true
 
-related:
-  - title: "Will artificial intelligence ever out-design designers?"
-    excerpt: "There’s a concept in artificial intelligence called “the singularity.” It refers to the idea that AI will one day be able to reproduce and improve upon"
-    publishedDateTime: 2021-07-14T17:00:00Z
-    webUrl: "https://businessofhome.com/articles/will-artificial-intelligence-ever-out-design-designers.html"
-    type: article
-    provider:
-      name: Business of Home
-      domain: businessofhome.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/editoratlarge-production/images/10806/large169/BOHO_BEDROOM_%281%29.jpg?1626284280"
-        width: 1220
-        height: 686
-        isCached: true
-
-secured: "dbzDt5AdKjIuAFCoJJZyxSDYQZt+DRyAt/Q1iFGFbNEMyU4CsBD0jLQ5R5xSFbHwX6VS05Sj8cyLt+dmtTQtVK/SfCGpWtoBjJGTISqdiqq6cL9/zTmgv/Wnrka7ewNGKSRrXEPsO8AdFDXHX8JQo/6wak3wSAKccmbMHXxw69aLMf0AjWb6+8Ru5rWrVywsNXjibMoLOyP/ATUTcspKsbSiCwO8IbUsRLr5HxpoIUpChd4K4bRu12YdEV3YAuFfdHRWdYxMt4mLVhUTLjVzr+oKWSN5qutPxbz4rDX4GqUoOcEm3rDo1OTeCHDt51F3WWqkHlkqg0WndLeloBKlp4n1akaF3FWHl8nvpe2KRyE=;bDa2WtE5SqaW2PsNpOJFag=="
+secured: "V2SdzkdhyyBI8r63jINh5pW2VLgzuiE/buBJEyOOR7/1kSTxJ8W6sg2XtDLTYerCYaUWbyTEJECzU0J0IMJD85e/dIAEUYtCa4/nodzBwSnuoEGmQTRhfUg9wP76DNTiWCHscqPqr9H1fuj1J/jTXAo3BrcHxANE43TuSPua5zS2ltfJWt49bqqx69fNkgnuR45j17ycwXt7QVcGmSY9fqzDWScvYh+S6s/MkpGskBDXfjeJo6RRTCTfukOJHgT6jSqqVIbYuUpTrGcBnXIOtAlv5kzuxEV23TbYDuWU4y1zyMAymymk7n+2apaULNuMEzbHwJykBxc6bnfjkLJOfbe4VDxDqJR9rLEPQTEoaOY=;RFPxvDgWSRUmPNA1lta7Sw=="
 ---
 

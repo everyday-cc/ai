@@ -72,20 +72,6 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "Deep Learning, Predictive Analytics Helps Identify Chronic Diseases"
-    excerpt: "Through deep learning and predictive analytics, researchers have developed an artificial intelligence program that can determine the likelihood of someone developing a chronic disease due to aging."
-    publishedDateTime: 2021-07-14T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/deep-learning-predictive-analytics-helps-identify-chronic-diseases"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-648272290.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Startup Circle: How is Qandle using AI/ML and analytics to provide an All-In-On HR Tech solution?"
     excerpt: "Qandle is an All-In-One HR Platform – established in 2016 and launched in 2018. The young startup focuses on re-engineering HR Technology from employees’ perspectives. It provides an array of tech-enabled solutions for HR tasks including – Hire and Onboard,"
     publishedDateTime: 2021-07-15T09:19:00Z

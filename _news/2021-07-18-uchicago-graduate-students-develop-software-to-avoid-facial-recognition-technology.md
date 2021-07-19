@@ -7,7 +7,7 @@ originalUrl: "https://www.chicagomaroon.com/article/2021/7/17/uchicago-graduate-
 webUrl: "https://www.chicagomaroon.com/article/2021/7/17/uchicago-graduate-students-develop-software-avoid-facial/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 900
     height: 400
     isCached: true
-
-related:
-  - title: "Is It Time to Regulate Facial Recognition and Other ‘Frontier’ Police Technology?"
-    excerpt: "As developments in law enforcement technology regarding DNA evidence matching and facial recognition software have begun \"pushing the frontiers of forensics,\" advocates warn that without oversight and proper understanding of the technology,"
-    publishedDateTime: 2021-07-14T15:06:00Z
-    webUrl: "https://thecrimereport.org/2021/07/14/is-it-time-to-regulate-facial-recognition-and-other-frontier-police-technology/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 34
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2020/01/24198752177_b4a3ef561d_k-1170x878.jpg"
-        width: 1170
-        height: 878
-        isCached: true
 
 secured: "L5f1AD1jcak2rd2BlOuileJ6c60JMXVWmRoulHvAXVizMx6uhnkeobfqZaiaAeYEO20R+efgQ4BFGW47rZBvjrc15hGYZfi++3VjTSp742L0P441OWwo32eNPKTeyNktDXHC02lj0xhFT5RcRU/atzyQ7JU0J6jnkB4O+PAxUenmhBwasc0HqIDbhj3+k5Tfw7dnpdCCXdwnmKqnyhHDK69FqhzyllzMSsOrXHT0sgYqnTrC04KsTbMzrR8yfOSbVpmdwrdK0M/bsOhmtIpyR2RCAMFAu5qdGIH+HpvKPyH9fwPD1u/IIkDUTMj7SDzRAgzf3aXyzX+3QCfP/9QP8SdYMXLhBWv8WKmWXZttm+R7NUeeLdW5jls69wZjfYYGwzvGU9e64L7a/LRun64Svi/yn0Yl/A2p1tIORMr1wXNDmdwzCYWIMO/L9Fui0ZoBFwWZkJ/LwxUhMoKmcO+ogVl7/vyAa9PuLIDXT6T4kmfXzYFDpDInXfSlZLz/BLMPyTWu6xzsUMqBUb2mH8nn6Q==;RvkNAQd5VTrqJzDuEXQCoA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "Deep Learning, Predictive Analytics Helps Identify Chronic Diseases"
-    excerpt: "Through deep learning and predictive analytics, researchers have developed an artificial intelligence program that can determine the likelihood of someone developing a chronic disease due to aging."
-    publishedDateTime: 2021-07-14T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/deep-learning-predictive-analytics-helps-identify-chronic-diseases"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-648272290.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Why AI and analytics are the answer to tax authorities’ questions"
     excerpt: "But how is it that EU tax authorities and organizations stand to benefit from AI and analytics? Inside, access this white paper to explore how a decision intelligence system can help the public sector identify tax fraud when it happens,"
     publishedDateTime: 2021-07-18T06:59:00Z
@@ -124,6 +110,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "XIx8JW8pBrSARP+FcgGL+qDjANZciHvVOPjovuR/tIz2H6YqUX3wOm5Qwee/5GO1DhkSO48PQ7hvDnOdITHUtTO3XT7chPHXP4bIQZoye2kiE8vmsD9M4sZtw5L4M+SYMR0WsA0l0iQUiqT+1+s2fPbiMWsr6oZ9ugh4T7z47eOCSWdPf8bic1lBlfD+qASULz0U/IqMqJOabLqZCnvxU6/g/Uat4qVeEyEkapnkxTbBr7a8bY4eRJM4NeS32qCBED3fvlnM4i02Wt/8nxhBzdYOoHZSR+EuD+RUSoIlO68YSUThq5/jK5XL9JKgNG7sSbjEYqzxc1EvStUxqLJ4s0XSFNUmGXlZflpAr10nmoc=;mXF3Buwu5HSOuiwD3IUx9g=="
+secured: "y1+X46GLuMdRS4eXmzd5jkM750k2eIPGY4KC/HEyA48XwO5LQyjRbuna/KW5VC0ItvDHpGU/H48tpqNAltrwcYEX0aYAHYAP2fVojkV28a2JHkJuoJP+QtQD9i9uimKAid5OIBmr4cSlzvhZrVUNW4tMv363PwxlbWSGV0CL7+m1/POGOnPSdxmp1mzJam3GoW9IRIGVHfj2O2TnQu4n4pEeYbUGHasSyVSpF/ppTdfKBRfP8ja5JC8GFInKFjBanMDl8PL9zqZBrfH+gXWduT71gosAjrlXZjvD8C04zLxh+AXn6gHaoxnr804jSO0AQHHcIl4NgTZzkIsIPbsi4PDD1ckaHgtXfMq4VmDaXlCCa32RUvIOKj1t5Y/uh2keqVbZYrvno2ApKR6Q1VlF2SjuEDKylmFHPLgWQIDrKHuHiup+R+TwPWWfYu38TTyMTagG7aGvCiKnT2IWq9aTWfXbkjC0BXBT4gW0n/anEu1zVgh3crBwDt0+732EZb8gzCU6wBT5a+iUAx9ueM4KEw==;EtZAdAy4cQS0xXLNyO1/oQ=="
 ---
 

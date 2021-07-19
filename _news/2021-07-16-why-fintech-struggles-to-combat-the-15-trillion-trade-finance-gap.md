@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-fri
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -81,6 +81,34 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626473428_reuters-default.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "AMD Stock – AMD Stock – 2 Dividend-Paying Tech Stocks to Buy in July | Fintech Zoom"
+    excerpt: "Complete Advanced Micro Devices Inc. stock news by FintechZoom. View real-time stock prices and stock quotes for a full financial overview."
+    publishedDateTime: 2021-07-18T21:22:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amd/amd-stock-amd-stock-2-dividend-paying-tech-stocks-to-buy-in-july-fintech-zoom/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 18
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626519598_0902-Q19-Total-Markets-photos-and-gif_CC8.jpg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "The fintech landscape in Latvia – Interview with the Financial and Capital Market Commission"
+    excerpt: "Marine Krasovska, Director of financial innovation department, FCMC, offers key insights into the Latvia-based fintech"
+    publishedDateTime: 2021-07-19T08:49:00Z
+    webUrl: "https://thepaypers.com/interviews/the-fintech-landscape-in-latvia-interview-with-the-financial-and-capital-market-commission--1250478"
+    type: article
+    provider:
+      name: The Paypers
+      domain: thepaypers.com
+    quality: 13
+    images:
+      - url: "https://thepaypers.com/images/social_media/fintech-socialmedia_LI.png"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "GrStSJNUnXEr4Iip9tqrEBZODJCYAKActprG/Gjb7YCA9GVFOpmSIXSmkp6ric3EK9InDmEL9ZnkcV1zbcdig9dQxksXN2DhLYKmWlhg+6CJ5UK80JO/JvASZ5PWC0DaiZqtZFmLL0We9ExlbRFtnInsxXwa2L8/aHNrhluRo3ZBI//UCn39t67lJln2g98CjUyPjyLsV5IGUMhduUEeyRI6sVr4ip29T2w57piGoBRLNb8BzmEsGmdcRFWfPShv2ayOGMgSd8Ay8ZhGXzUtXFs3XGaXbT1ESC6eI4uTx5RlGSOzuN2xzx1gS5uQes7EheZn0dqrgTlT2ENj+phCUZgR+HfpvlXph5bOwXdY2Fs=;S1RFQzf1q88TXNtyqBSBjA=="

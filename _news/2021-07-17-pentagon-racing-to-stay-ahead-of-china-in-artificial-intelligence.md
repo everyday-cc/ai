@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voanews.com/usa/pentagon-racing-stay-ahead-china-artific
 cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/usa/pentagon-racing-stay-ahead-china-artificial-intelligence?amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 5000
     height: 3390
     isCached: true
-
-related:
-  - title: "China tops world in AI patents, – minister"
-    excerpt: "More than 10 AI chips, as well as innovative products brought by more than 300 major AI companies, will be shown at the conference."
-    publishedDateTime: 2021-07-14T16:45:00Z
-    webUrl: "https://ukranews.com/en/news/787669-china-tops-world-in-ai-patents-minister"
-    ampWebUrl: "https://ukranews.com/en/amp/news/787669-china-tops-world-in-ai-patents-minister"
-    cdnAmpWebUrl: "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/787669-china-tops-world-in-ai-patents-minister"
-    type: article
-    provider:
-      name: Новости Украины
-      domain: ukranews.com
-    quality: 59
-    images:
-      - url: "https://ukranews.com/upload/media/2021/07/09/60e8796a6ecc3-Robot.jpg"
-        width: 900
-        height: 590
-        isCached: true
 
 secured: "nyrPzECsMVVCM9KrSWupwnINpoPzNYW7sKStRSG/Z/m3vYiMAyumFo5rNI+sQXhtAuzdb2MnaJoHVfiv5J31bEW5IlW/moStBlxf65D4UuZ13BUPhotpovbiWUMNc6nBX66g8rzztUVCEC6PxmK99NdnMPFLREgyI+D5lbLr1e4VjxVyRvt8xybpLPz68IqJxHSxEGOAfIiN+5Uterm58+QHIrANJ2TIZuFgo02ppMJMS9WFwjw5oQYCTOWVM6qhZwUoxyIdIma8lgW8ix31C8lPdk0Ad5Q5HYAnzrA5yhFNrvyRuFp27qnpas00OmXHwFQ/B6NmQMm4alHI9JoeDnVqXD6BGFUJ7o/oH7Aq8F6h7KenA6Ivzl75k+ofxdlsFH1NS+RtDqMgj91XwWBD2YtKbUnR6bEHfnXAv09yCX92jl0p9pJUU3VLqoHQ1WgLDwFlOjDjge3+MQFvSGBYMfKUWxD2oGLK9zNw4N6dw7acW+cfBlankcw/mwDo75XjFxPriZ2cui0bwI28G4LnEw==;bU05t3gxkVyvSwd4/bGSpQ=="
 ---

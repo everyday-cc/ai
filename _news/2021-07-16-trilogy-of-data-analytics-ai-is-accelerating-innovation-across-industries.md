@@ -62,20 +62,6 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "Deep Learning, Predictive Analytics Helps Identify Chronic Diseases"
-    excerpt: "Through deep learning and predictive analytics, researchers have developed an artificial intelligence program that can determine the likelihood of someone developing a chronic disease due to aging."
-    publishedDateTime: 2021-07-14T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/deep-learning-predictive-analytics-helps-identify-chronic-diseases"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-648272290.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Why AI and analytics are the answer to tax authorities’ questions"
     excerpt: "But how is it that EU tax authorities and organizations stand to benefit from AI and analytics? Inside, access this white paper to explore how a decision intelligence system can help the public sector identify tax fraud when it happens,"
     publishedDateTime: 2021-07-18T06:59:00Z

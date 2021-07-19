@@ -94,6 +94,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "HealthTech Startup Eka.Care gets $4.5 million seed funding from angel, early-stage investors"
+    excerpt: "Early-stage venture capital firms including 3one4Capital, Eximius Ventures, and Speciale Invest also participated in the round"
+    publishedDateTime: 2021-07-19T09:34:00Z
+    webUrl: "https://www.financialexpress.com/brandwagon/healthtech-startup-eka-care-gets-4-5-million-seed-funding-from-angel-early-stage-investors/2293311/"
+    ampWebUrl: "https://www.financialexpress.com/brandwagon/healthtech-startup-eka-care-gets-4-5-million-seed-funding-from-angel-early-stage-investors/2293311/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/healthtech-startup-eka-care-gets-4-5-million-seed-funding-from-angel-early-stage-investors/2293311/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 31
+    images:
+      - url: "https://images.financialexpress.com/2021/07/Vikalp-Sahni-edited.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "KfLn1nXyXWqtXn/J6wEPWT+ZVh/ZjRHl8NDP4oh0KKCLY+wTg4z9JThukSgCZeHl6I0ivMFtyiLufNCYs+NrEBbIGeppVKcAmIaQ4SReDywuSNHOrIPyMCNOFAKnYONZ5p03Jk51pZLKsgUJN8HARK5UlcP38m3r8P7H80pZC2KmDT1UapBmFsSmOVvlP+jnyjG7tKnGlgRlucrs2xiyqlAsfjL70rECBaBjRY40WcqhSSH+xhdDoLINanBEKbQqN4Xt0LxPKqSKDwMYYM2nFTcNuWmaZS0zLcXhBV8NSLXqFt3ZYLpc9GSK5NqVSZ6FCZs6WgiiBVvm12CdTTbdydHKdiYW0J7b4YkfDL4G5yQ=;S2sVt6XFK+Q5eJ06/MgkFw=="
 ---

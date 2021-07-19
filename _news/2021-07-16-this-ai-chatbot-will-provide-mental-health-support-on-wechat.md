@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How customers react to chatbots"
-    excerpt: "More and more companies are using chatbots in customer services. Due to advances in artificial intelligence and natural language processing, chatbots are often indistinguishable from humans when it comes to communication."
-    publishedDateTime: 2021-07-14T16:26:00Z
-    webUrl: "https://phys.org/news/2021-07-customers-react-chatbots.html"
-    ampWebUrl: "https://phys.org/news/2021-07-customers-react-chatbots.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-customers-react-chatbots.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/trust-me-im-a-chatbot.jpg"
-        width: 1440
-        height: 1377
-        isCached: true
   - title: "How AI & Chatbots are profiting from mobile app technology?"
     excerpt: "AI & Chatbots are benefiting mobile technology in various ways as AI-powered chatbots continue to make a transforming appearance for mobile apps across various industries domains. AI is for digging out various queries and providing relevant and instant reverts to the users to give them a better than ever user experience."
     publishedDateTime: 2021-07-18T07:09:00Z

@@ -43,17 +43,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "5 Things Business Leaders Must Know About Adopting AI at Scale"
-    excerpt: "Companies that adopt AI at scale should have an ethics committee that can gauge the ongoing usage of the AI system and make sure it’s \"doing good.\" AI should be used responsibly not because regulation demands it, but because it’s the right thing to do ..."
-    publishedDateTime: 2021-07-14T16:34:00Z
-    webUrl: "https://www.entrepreneur.com/article/376748"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/376748"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376748"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
 
 secured: "ZZJoR7hvslCdG9rz6Ao+KfbZi7/2IOGmCSlYot9ZgLDn+Fm26NBKXq9Tt64T0kkcosoursPkLictsEe0uRMX1ss7UKBymv8mLaKxQtJinhqa/usxhQjGJOemzYf/0WDCo9h6WpHwZ7gQ/ebFj+oFQj5MNrv4hQNSHbIF2I00nDzKsrAVtsNYdmOKBRT6FhBfWnLjzx6cq4GVqJx2KjvS5zGN6vvuuUUlV/U9k7vnbnb/KXCtJ2eSSjGFxe4Lalt655/wdM7ADX9rSY6bVl5XdHNqMa+KJZWJ8MrHJO0urMBGP5v/5UtdBAQYJoXC6IjXNyYrhOIJXssNAZPsbaOuQheUGFx7qZw1sn2er7OIblBFkXrV0Jrzfy9IF0bAhIczJKpKiiTCMAN7MaNL4yGZw72WwnJSbnG1oCjtZkCOPbsK+mlgKgzeL2EDzWTz8xPlph8DjM77n3eWCwOnuCyMpILOt95rXsfbAsyaeGndBGmRGCBOgSlaKgmN2Se3PMUhVHoLpnL6TE3gEAurGZqNHA==;wuleaEV9mcfJV3EDsIo6tg=="
 ---

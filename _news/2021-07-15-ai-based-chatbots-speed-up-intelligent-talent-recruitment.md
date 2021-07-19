@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/Picture-Unsplash?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/554de75e-4b4f-5997-9ea0-6d0137a9eebc&operation=CROP&offset=0x39&resize=750x422"
         width: 650
         height: 366
-        isCached: true
-  - title: "How customers react to chatbots"
-    excerpt: "More and more companies are using chatbots in customer services. Due to advances in artificial intelligence and natural language processing, chatbots are often indistinguishable from humans when it comes to communication."
-    publishedDateTime: 2021-07-14T16:26:00Z
-    webUrl: "https://phys.org/news/2021-07-customers-react-chatbots.html"
-    ampWebUrl: "https://phys.org/news/2021-07-customers-react-chatbots.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-customers-react-chatbots.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/trust-me-im-a-chatbot.jpg"
-        width: 1440
-        height: 1377
         isCached: true
   - title: "How AI & Chatbots are profiting from mobile app technology?"
     excerpt: "AI & Chatbots are benefiting mobile technology in various ways as AI-powered chatbots continue to make a transforming appearance for mobile apps across various industries domains. AI is for digging out various queries and providing relevant and instant reverts to the users to give them a better than ever user experience."

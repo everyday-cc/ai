@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-19T06:01:00Z
 originalUrl: "https://enterprisersproject.com/article/2021/7/artificial-intelligence-ai-strategy-how-develop"
 webUrl: "https://enterprisersproject.com/article/2021/7/artificial-intelligence-ai-strategy-how-develop"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://enterprisersproject.com/sites/default/files/styles/google_discover/public/cio_ai_artificial_intelligence.png?itok=ME2IWuyA"
@@ -23,6 +24,6 @@ images:
     height: 420
     isCached: true
 
-secured: "vI0BIA80GXvPoq7SgIggwDk8kaC+IK8tnBlgKLUIu1v/YcPTrmfGlZxczzEz17Y1Swh/oKxkjOc7+qSMsUXGWH6sUZWLF/NrJuahVFI0TF3f/XfmDEkq/ZZ2NX68DBw3+byMnmbLoeWZPk47bg81HwzD2bVk0JvZqiyBUL7D5IUIJJNp3w2QuSFtC2yrXi/qL3lkA1/n4IxZ6DZuAg7F0WO1Gij5gTh1401gxJ4Rj9qfqtyC0QiDFCpCc9bSs7Sgx9HKU1VNR3p9OVaJdPkpmdICnLlIVf+9e0Fi1QkbOJStHQVyb1w80tcYCT2GLv0lpA4gy4cx2IqYOAS7Wo42RjfLJjiE/s2C/VhI2bXh8s0=;uyQweepFnHVrqbP0h68oMA=="
+secured: "T1860ufzlLF7NibYNEyniyPWFNUjy5+HrT8217ptPJRJ1tewcHQla2BpoXT/b723ub7KFJGfv5XGwPRvBCf/X6shg5p47KxTCddTIpeiLYSGNfMxqx/uKAo+2dZTxNo2xc6hL5mxmcr4KVUC6+NYgrNXeI8LDGvxsb1zK0+hBLVPojdyp7AHCJ2zQ8wltSkOg9m+pmUhBgnSTbO8fIZxuwAv8hPYJHObil1YC5sEoqpihC6CF+04NRJf0GqntGt2SZzvUUk9QZpfrdMmwhgx6ej0CzIjk9BKABT8mzFHsMWAq5/OCz7Gj2nEBhxaZ7jILDO2YZ6yJXI8qirp+7OMIsjARbuvecvltsofPxy72PzuJNZXkiIGV2TUURCylLoPFflyxqXLYPBQlGQx5ZL8RKFfq9GubWxCzDkF3bbGKcitv6YoY0IxzFRc+ZsK6zHuILYhkdnQ9Gnl78IZuo4EqpfOdNDdb5roIkGlismUS+40CQppFhxHsyguoGDY74YQqB5e5EmDir5LKp+QvG1mWA==;9A2F9JzU6ke31k9E++jZ8Q=="
 ---
 

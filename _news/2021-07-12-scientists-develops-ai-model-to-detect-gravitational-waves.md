@@ -2,25 +2,19 @@
 category: news
 title: "Scientists develops AI model to detect gravitational waves"
 excerpt: "A team of computational scientists and researchers has developed a new artificial intelligence (AI) framework that allows for"
-publishedDateTime: 2021-07-12T07:26:00Z
-originalUrl: "https://menafn.com/1102431633/Scientists-develops-AI-model-to-detect-gravitational-waves"
-webUrl: "https://menafn.com/1102431633/Scientists-develops-AI-model-to-detect-gravitational-waves"
+publishedDateTime: 2021-07-12T06:37:00Z
+originalUrl: "https://www.glamsham.com/world/technology/scientists-develops-ai-model-to-detect-gravitational-waves"
+webUrl: "https://www.glamsham.com/world/technology/scientists-develops-ai-model-to-detect-gravitational-waves"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?590744"
-    width: 375
-    height: 250
-    isCached: true
-
-secured: "Rnv58QRoG+4UHaRlu9cuBp9AjB0j7a47ROsa3H7lD/K38ItCRTCbQpB85lMx7pUUTNU6PcENb2WN/YvFtJ+8JPlDvu1pV7SwyowN0PbViIiwQW1nGfv472joLG0E6rEUBmUesAgdFw4EnVBrhv8VzsfgU3U7uxd4mi9uUBrt3OJUPCjZGUwaFpT53MLtDJhnFFd7HlNVxrlZ67DAMghCovdKsliOnje1MgbXwMSQRQResGZPo1bGMu0bNA0TPywef96LGi3DEYQBbISIrterc/aCthGgvRYIVxWbUpbHq/UA8pwp9/xwfny086AduxaQCGp8WCUIzvQtCSNiM1vfkDJgw9EjgJl4/RJtSZ+22gE=;qNNBYAGpMItVpvObv3IQSA=="
+secured: "QvbJMLo1pVlHF8kkcL7sd3CR3u5b280eJx/2nEQD6sEOkxuBDmppdbmVvMkmA7h2gFHptf23iZoJYsBmmcoTScE/rLODeIrC2XCfgzIpPovxT8is9tWGbhpa357vYbtVmkpOAcqtDJ1QDOYrMRQfJXwNB4q12qHhEsoFuCEdUj1Xc87wMXcSEGsvJyJNXauJlUxii2uMciT/QbauWbyNu65KpZMJOkgF5dHF+GEzFGW81rNh17VPvE6nU+XKAVWZstBbEmyhLGzZ3xFzizGzOWhq8mw0v/aewksP9k/Bq9yHPheAB7yznhIIiWiiq05pML8xQnnVTldbKaWbHkS+ef2+kUaC29zafK51J+kFRZI=;QwzJVNrRl+nUaKHfLZwu+w=="
 ---
 

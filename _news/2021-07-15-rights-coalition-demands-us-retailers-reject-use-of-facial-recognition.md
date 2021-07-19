@@ -144,17 +144,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 39
-  - title: "Activists call out Ace Hardware, Apple stores for using facial recognition on customers"
-    excerpt: "A coalition of civil rights groups are urging retail stores to stop their use of facial recognition technology with a new campaign."
-    publishedDateTime: 2021-07-14T15:53:00Z
-    webUrl: "https://www.dailydot.com/debug/facial-recognition-retail-stores-scorecard/"
-    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-retail-stores-scorecard/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-retail-stores-scorecard/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 31
   - title: "Japan Airlines Implements \"Face Express\" Facial Recognition Technology for International Flights"
     excerpt: "JAL participated in a successful trial of a new boarding procedure called, “Face Express ” that utilizes facial recognition technology developed by Narita International Airport Corporation (NAA) and Tokyo International Airport Terminal Co."
     publishedDateTime: 2021-07-16T13:24:00Z
