@@ -1,15 +1,15 @@
 ---
 category: news
 title: "What Ever Happened to IBM’s Watson?"
-excerpt: "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson. Credit...Video by Maria Chimishkyan Supported by By Steve Lohr A decade ..."
-publishedDateTime: 2021-07-16T12:57:00Z
-originalUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html"
-webUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html"
-ampWebUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html"
+excerpt: "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson. Credit..."
+publishedDateTime: 2021-07-16T09:09:00Z
+originalUrl: "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.html"
+webUrl: "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.html"
+ampWebUrl: "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html"
 type: article
-quality: 91
-heat: 111
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -23,7 +23,6 @@ provider:
 topics:
   - IBM AI
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-facebookJumbo.jpg"
@@ -63,6 +62,6 @@ related:
         height: 600
         isCached: true
 
-secured: "nYsyC+hOdiRdw8sNq9su2JByl8CzuEGsRIr3cHHtCw0uENqBJyUrAn9fthtTZLR5sUm/UK63UINltlAl2T2HjoliHrHm8G+tLyD7BWxHC4nC2JqMbckM9th8PjssmJVozL0IExvwefXpZfk0oh1BgYTgeOM/L6OVOQJYO2mSyH8s4bJ1tw/WcljhBa5FjL8zdn7zKUr3Zyj4qU09s3tKxSyx+iHI/FV3UgbO28Al74jeaMhOm022gEyGGuAaxfurF/l442nVKwrNw15M6ctdiQXBiGNCgHlUZ+al6JHQ+l5sjmIRLo5R0u7S1uBSkJjQYUuzkIGT33Icw44m1NmLoi6dExOwu47rz3s3/NMYJrnR9yjmAQUc8lwTU+6ohkddNI3VmMaLSE5djgskR4YTfu45ByrzjyTfWwC8mEHBDdQPg645UL6X+CdK1PEpXtl5gbPDThOWAtNt75pMDdYUDXXCLSUhyIfyqVcm8hsv5+cjjCWn94MzyrKab40mvsRnpf+fKnA4doy/Z/2JMrpNPw==;LOIIC67Gn6/9/kyUKvQwtA=="
+secured: "FfeK+NAxdF7CKC1gwdKkmSiUVObCbhmQt4IjuiPx55SoZ2PjKKrz5fcCUUPaEpLEYJiTqXVvD6/DJ+aJK2iPiUmRQR/DlXr8NssDcR62acGJBOG4B42W5KvdKKtFcza4c4IvZm1AOc1GE8+r9bDlwqvrI3imd2ZH5eVS9QAuNsDGhBJ5iDcy37GjTLQmoKvQ+S7WF12efoiLzA11ieXBGGjlw6NY2pG/oZwS1ujaXfbszNNK67sJB6gmA7cKs5c0ANl795yGDfA0/hLG0UejXi0z4Jh0QDUpj/SpUdooKU4Ae3h6MMLLBXgwhex+zad3pcYx3UavvmiU2NsWL1dLD8VUCAsctswC4nVBIg1dKX0=;ysGu8F9Afr/SErPNnVMmaw=="
 ---
 

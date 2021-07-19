@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/bridgeweave-launches-ai-powered-investorai/a
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/bridgeweave-launches-ai-powered-investorai/amp/"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:

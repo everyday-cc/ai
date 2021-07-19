@@ -2,6 +2,40 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-06-17-baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis.md",
+      "title": "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis",
+      "excerpt": "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis",
+      "originalUrl": "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-tractable-hits-1-billion-valuation-by-using-ai-to-see-auto-damage-as-computer-vision-matures.md",
       "title": "Tractable hits $1 billion valuation by using AI to 'see' auto damage, as computer vision matures",
       "excerpt": "Tractable uses artificial intelligence to help insurers assess car damage and estimate repair costs.",
@@ -1101,58 +1135,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-ibms-ai-mayflower-ship-is-crossing-the-atlantic-and-you-can-watch-it-live.md",
-      "title": "IBM’s A.I. Mayflower ship is crossing the Atlantic, and you can watch it live",
-      "excerpt": "IBM's autonomous, A.I.-powered ship is currently on its way across the Atlantic Ocean -- and thanks to some amazing tech, you can watch the journey live",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/",
-      "originalUrl": "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ibm-ai-mayflower-alone-3.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/?amp",
-      "publishedDateTime": "2021-06-16T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

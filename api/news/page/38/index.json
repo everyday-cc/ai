@@ -2,6 +2,40 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-06-18-then-white-house-doctor-said-trump-aced-a-cognitive-test-now-he-and-13-gop-lawmakers-demand-biden-take-one-citing-mental-impairment.md",
+      "title": "Then-White House doctor said Trump aced a cognitive test. Now he and 13 GOP lawmakers demand Biden take one, citing ‘mental impairment.’",
+      "excerpt": "WASHINGTON — In 2018, White House physician Ronny Jackson stood before a room of reporters and praised then-president Trump’s cognitive ... to stories from wire services such as the Associated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/nation-world/then-white-house-doctor-said-trump-aced-a-cognitive-test-now-hes-demanding-biden-take-one-citing-mental-impairment/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/then-white-house-doctor-said-trump-aced-a-cognitive-test-now-hes-demanding-biden-take-one-citing-mental-impairment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/nation-world/then-white-house-doctor-said-trump-aced-a-cognitive-test-now-hes-demanding-biden-take-one-citing-mental-impairment/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/then-white-house-doctor-said-trump-aced-a-cognitive-test-now-hes-demanding-biden-take-one-citing-mental-impairment/?amp=1",
+      "publishedDateTime": "2021-06-18T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-ai-powered-mayflower-beset-with-glitch-returns-to-england.md",
       "title": "AI-powered Mayflower, beset with glitch, returns to England",
       "excerpt": "The Mayflower had a few false starts before its trailblazing sea voyage to America more than 400 years ago. Now, its artificial intelligence-powered namesake is having some glitches of its own. A sleek robotic trimaran retracing the 1620 journey of the famous English vessel had to turn back Friday to fix a mechanical problem.",
@@ -1155,57 +1189,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-upstart-personal-loans-review-2021-artificial-intelligence-driven-loans-for-those-with-fair-or-no-credit.md",
-      "title": "Upstart Personal Loans Review 2021: Artificial Intelligence-Driven Loans for Those With Fair or No Credit",
-      "excerpt": "Upstart’s loans are available to people with fair credit or no credit history, but borrowers may pay a high APR and an origination fee. Find out more here.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/nextadvisor/loans/personal-loans/upstart-review/",
-      "originalUrl": "https://time.com/nextadvisor/loans/personal-loans/upstart-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/nextadvisor/wp-content/uploads/2021/06/na-upstart-personal-loans-review-1000x630.jpg",
-          "width": 1000,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://time.com/nextadvisor/loans/personal-loans/upstart-review/amp/",
-      "cdnAmpWebUrl": "https://time-com.cdn.ampproject.org/c/s/time.com/nextadvisor/loans/personal-loans/upstart-review/amp/",
-      "publishedDateTime": "2021-06-18T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

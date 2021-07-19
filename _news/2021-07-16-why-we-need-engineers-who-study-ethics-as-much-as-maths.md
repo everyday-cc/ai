@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/why-we-need-engineers-who-study-ethi
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/why-we-need-engineers-1.jpg"
         width: 2880
         height: 1921
+        isCached: true
+  - title: "Why we need engineers who study ethics as much as maths"
+    excerpt: "The decisions engineers make, if not fully thought through, can have unintended consequences – including building failures and climate change."
+    publishedDateTime: 2021-07-18T23:28:00Z
+    webUrl: "https://www.themandarin.com.au/163401-why-we-need-engineers-who-study-ethics-as-much-as-maths/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 71
+    images:
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2021/07/engineers.jpg"
+        width: 799
+        height: 530
         isCached: true
 
 secured: "SfAqZpVMNpduhe5c8rC2lbkMHABln/qVMc1yGIXthEpzpR0ukzbgFSlW2dPAl4WXnp84x9VnkpClXvk+UhcrA65LfESHvpt8GALJMMqX7cNwkHNLzlhVl3TGkVV8OQ5ZaIG8Zc2mlrUmaUepFhvKDrkVKLqXrvFCc+vlJxfHt4bM8NTV4tbkhVCbLXLKkyQlre4wtqEkCQ2HBjn5TQiT1AYr+f8A3IehRBHnE0AqyiCtoZs9cVjadwenkWSKvS3gr0w/3nw0zDovbGAL7CsFHD5D5PGn7HLaWQxaTJE04CBRhBJWgOBox8NT0mE4lWVWScwlm3OWn0NqcD3VPiD0HJk/kHLEuQLGmJb8OurcuqJqAYdni/m6pr3zMfHgl2NBaFkR3+rFnSDWe9e0HFldZZ0OfVqK1kKrPTiaZ7Yl8xz/QvQ1a/kowwrvsMQHVTUWj8Gbj42UfSXK2V/sGDa9soiF2P8d1T+bNR8AkET7wWz3q2Tn06DFnOaAzZvMKL96uVTGv+97ZpN0XwWDNs/nYA==;MjLRJYmr1IXw3sqxTLqWFQ=="

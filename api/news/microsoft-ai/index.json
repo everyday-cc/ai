@@ -183,6 +183,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-13-cognitive-services-market-2021-worldwide-market-size-with-top-countries-data-segmentation-analysis-value-chain-and-key-trends-by-2025.md",
+      "title": "Cognitive Services Market 2021 : Worldwide Market Size with Top Countries Data, Segmentation Analysis, Value Chain and Key Trends by 2025",
+      "excerpt": "Jul 13, 2021 (The Expresswire) -- With a CAGR of 23.1% in the forecast period of 2021 to 2025, Cognitive Services Market Size will expected to reach USD 5521.8 million by 2025, from USD 2403.4 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2021-worldwide-market-size-with-top-countries-data-segmentation-analysis-value-chain-and-key-trends-by-2025-2021-07-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2021-worldwide-market-size-with-top-countries-data-segmentation-analysis-value-chain-and-key-trends-by-2025-2021-07-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce.md",
       "title": "Digital Transformation: Microsoft Azure Cloud Platform to be Used by Canadian Imperial Bank of Commerce",
       "excerpt": "The Canadian Imperial Bank of Commerce (CIBC) (TSE: CM), a multinational banking and financial services corporation headquartered in Toronto, Ontario, has entered a multi-year deal to use Microsoft Azure as its main Cloud platform.",
@@ -1303,40 +1355,6 @@
       "provider": {
         "name": "The Magazine",
         "domain": "chemengonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-att-t-to-move-5g-mobile-network-to-microsoft-azure.md",
-      "title": "AT&T (T) to Move 5G Mobile Network to Microsoft Azure",
-      "excerpt": "AT&T Inc. T has announced collaboration with Microsoft MSFT under which the telecom giant will move its 5G mobile network to the latter’s cloud. This will allow AT&T’s mobile network traffic to be managed by Microsoft Azure technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01",
-      "originalUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp",
-      "publishedDateTime": "2021-07-01T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

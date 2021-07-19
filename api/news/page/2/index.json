@@ -106,59 +106,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-what-ever-happened-to-ibms-watson.md",
-      "title": "What Ever Happened to IBM’s Watson?",
-      "excerpt": "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson. Credit...Video by Maria Chimishkyan Supported by By Steve Lohr A decade ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html",
-      "publishedDateTime": "2021-07-16T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-07-16-why-fintech-struggles-to-combat-the-15-trillion-trade-finance-gap.md",
       "title": "Why FinTech Struggles To Combat The $1.5 Trillion Trade Finance Gap",
       "excerpt": "GUUD discusses why trade finance FinTech has been unable to put a dent in the trade finance gap or ease friction for banks and nonbank financiers.",
@@ -167,7 +114,7 @@
       "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -210,7 +157,7 @@
       "originalUrl": "https://www.wsj.com/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200?mod=business_minor_pos1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -542,6 +489,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-16-what-ever-happened-to-ibms-watson.md",
+      "title": "What Ever Happened to IBM’s Watson?",
+      "excerpt": "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson. Credit...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html",
+      "publishedDateTime": "2021-07-16T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021.md",
       "title": "VentureBeat presents AI Innovation Awards nominees at Transform 2021",
       "excerpt": "The AI Innovation Awards honors companies and individuals who stand out from their peers in solving challenges in creative ways.",
@@ -647,7 +646,7 @@
       "originalUrl": "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai-will-reshape-the-life-sciences-labs-of-the-future-109563",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1061,7 +1060,7 @@
       "originalUrl": "https://theconversation.com/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1105,7 +1104,7 @@
       "originalUrl": "https://www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/spielbergs-ai-at-20-the-best-fi
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/spielbergs-ai-at-20-the-best-film-about-the-afterlife-of-gadgets/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

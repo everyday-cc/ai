@@ -42,12 +42,12 @@ related:
   - title: "Snowflake Stock – Snowflake Stock – Even as COVID eases, cloud computing and AWS keep flying high | Fintech Zoom"
     excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
     publishedDateTime: 2021-07-18T13:06:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high-fintech-zoom/"
+    webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/snowflake-stock-snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high-fintech-zoom/"
     type: article
     provider:
       name: fintechzoom
       domain: fintechzoom.com
-    quality: 20
+    quality: 18
     images:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/07/superman-cloud-1-1024x680-1.jpeg"
         width: 1019

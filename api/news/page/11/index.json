@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-07-08-ai-ethics-expert-half-of-companies-using-ai-overestimate-their-level-of-maturity.md",
+      "title": "AI ethics expert: 'Half of companies using AI overestimate their level of maturity'",
+      "excerpt": "Tonya Hall talks to Steven Mills, Chief AI Ethics Officer at Boston Consulting Group, about AI maturity, how to achieve it, and what sectors are doing it better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/ai-ethics-expert-half-of-companies-using-ai-overestimate-their-level-of-maturity/",
+      "originalUrl": "https://www.zdnet.com/video/ai-ethics-expert-half-of-companies-using-ai-overestimate-their-level-of-maturity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/08/004ab5df-34cd-4e32-b44c-d5bc873bd6d6/thumbnail/770x578/3430a058ca1561df98e83ca32c85a50d/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-sbh-health-system-selects-electrifais-machine-learning-technology-to-transform-operations.md",
       "title": "SBH Health System Selects ElectrifAi's Machine Learning Technology to Transform Operations",
       "excerpt": "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, announced today its collaboration with St. Barnabas Hospital, the flagship of the SBH Health System,",
@@ -1120,48 +1172,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-scientists-use-artificial-intelligence-to-detect-gravitational-waves.md",
-      "title": "Scientists use artificial intelligence to detect gravitational waves",
-      "excerpt": "When gravitational waves were first detected in 2015 by the advanced Laser Interferometer Gravitational-Wave Observatory (LIGO), they sent a ripple through the scientific community, as they confirmed another of Einstein's theories and marked the birth of gravitational wave astronomy.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.html",
-      "originalUrl": "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-use-artific.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-scientists-artificial-intelligence-gravitational.amp",
-      "publishedDateTime": "2021-07-07T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

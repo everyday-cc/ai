@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-fri
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626473428_reuters-default.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "FinTech The Key Disruptor For Emerging Market Financial Services In 2021 And Beyond"
-    excerpt: "Jupiter Asset Management has launched its latest whitepaper titled “The innovations disrupting financial services in Emerging Markets” in response to shifting dynamics of financial services in the Middle East."
-    publishedDateTime: 2021-07-14T06:59:00Z
-    webUrl: "https://pressreleasenetwork.com/site/2021/07/14/fintech-the-key-disruptor-for-emerging-market-financial-services-in-2021-and-beyond/"
-    type: article
-    provider:
-      name: pressreleasenetwork.com
-      domain: pressreleasenetwork.com
-    quality: 18
-    images:
-      - url: "https://pressreleasenetwork.com/site/wp-content/uploads/2021/07/Untitled-1.jpg"
-        width: 900
-        height: 1356
         isCached: true
 
 secured: "GrStSJNUnXEr4Iip9tqrEBZODJCYAKActprG/Gjb7YCA9GVFOpmSIXSmkp6ric3EK9InDmEL9ZnkcV1zbcdig9dQxksXN2DhLYKmWlhg+6CJ5UK80JO/JvASZ5PWC0DaiZqtZFmLL0We9ExlbRFtnInsxXwa2L8/aHNrhluRo3ZBI//UCn39t67lJln2g98CjUyPjyLsV5IGUMhduUEeyRI6sVr4ip29T2w57piGoBRLNb8BzmEsGmdcRFWfPShv2ayOGMgSd8Ay8ZhGXzUtXFs3XGaXbT1ESC6eI4uTx5RlGSOzuN2xzx1gS5uQes7EheZn0dqrgTlT2ENj+phCUZgR+HfpvlXph5bOwXdY2Fs=;S1RFQzf1q88TXNtyqBSBjA=="

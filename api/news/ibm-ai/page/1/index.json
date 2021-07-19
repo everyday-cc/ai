@@ -4,13 +4,13 @@
     {
       "path": "_news/2021-07-16-what-ever-happened-to-ibms-watson.md",
       "title": "What Ever Happened to IBM’s Watson?",
-      "excerpt": "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson. Credit...Video by Maria Chimishkyan Supported by By Steve Lohr A decade ...",
+      "excerpt": "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson. Credit...",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html",
+      "webUrl": "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html",
-      "publishedDateTime": "2021-07-16T05:57:00-07:00",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html",
+      "publishedDateTime": "2021-07-16T02:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Times",
@@ -50,14 +50,13 @@
       ],
       "topics": [
         "IBM AI",
-        "AI",
-        "Natural Language Processing"
+        "AI"
       ]
     },
     {
       "path": "_news/2021-07-15-artificial-intelligence-will-soon-be-assisting-your-platform-migrations.md",
       "title": "Artificial intelligence will soon be assisting your platform migrations",
-      "excerpt": "Along with creating new applications, AI for coding may also smooth the way for moving applications and systems to modern platforms. In a recent interview, Maja Vuković, an IBM Fellow at the company's Watson Research Center, explained how a client was ...",
+      "excerpt": "AI for coding may also smooth the way for moving applications and systems to modern platforms. In a recent interview, Maja Vuković, an IBM Fellow at the company's Watson Research Center ...",
       "sourceUrl": null,
       "webUrl": "https://www.zdnet.com/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/",
       "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/",

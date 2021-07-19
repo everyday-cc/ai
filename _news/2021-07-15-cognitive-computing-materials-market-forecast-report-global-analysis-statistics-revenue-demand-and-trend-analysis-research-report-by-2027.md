@@ -184,7 +184,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 19
+    quality: 21
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/LLL-6-600x337.jpg"
         width: 600

@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-06-30-att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale.md",
+      "title": "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale",
+      "excerpt": "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-86842df143e2d4a16f1a97b01b7f5657",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-86842df143e2d4a16f1a97b01b7f5657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-matterport-and-facebook-ai-research-collaborate-to-release-the-worlds-largest-dataset-of-3d-spaces-for-academic-research.md",
       "title": "Matterport and Facebook AI Research Collaborate to Release the World's Largest Dataset of 3D Spaces for Academic Research",
       "excerpt": "Matterport, the spatial data company leading the digital transformation of the built world, which has entered into a definitive agreement to enter into a business combination with Gores Holdings VI, today announced a collaboration with Facebook AI Research through which it will make the largest-ever dataset of 3 D indoor spaces available exclusively",
@@ -1142,58 +1185,6 @@
         "name": "WRIC",
         "domain": "wric.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-techman-robot-to-provide-free-ai-courses-in-southeast-asia.md",
-      "title": "Techman Robot to Provide Free AI Courses in Southeast Asia",
-      "excerpt": "Artificial intelligence, AI is undoubtedly the key technology here. That is why the SEA (Southeast Asia) Taiwan AI College is turning the AI manufacturing experiences from leading ICT companies, Techman Robot,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1552574/Techman_Robot_to_provide_free_AI_course_in_Southeast_Asia.jpg",
-          "width": 400,
-          "height": 257,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

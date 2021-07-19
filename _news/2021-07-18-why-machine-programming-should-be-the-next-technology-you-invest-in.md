@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/18/why-machine-programming-should-be
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/why-machine-programming-should-be-the-next-technology-you-invest-in/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 95
 published: true
 
 provider:

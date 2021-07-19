@@ -7,7 +7,7 @@ originalUrl: "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai
 webUrl: "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai-will-reshape-the-life-sciences-labs-of-the-future-109563"
 type: article
 quality: 71
-heat: 81
+heat: 82
 published: true
 
 provider:

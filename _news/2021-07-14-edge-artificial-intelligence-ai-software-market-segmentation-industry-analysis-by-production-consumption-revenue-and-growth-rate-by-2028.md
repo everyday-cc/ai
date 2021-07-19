@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-14T11:46:00Z
 originalUrl: "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-segmentation-industry-analysis-by-production-consumption-revenue-and-growth-rate-by-2028"
 webUrl: "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-segmentation-industry-analysis-by-production-consumption-revenue-and-growth-rate-by-2028"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/LLL-6-600x337.jpg"

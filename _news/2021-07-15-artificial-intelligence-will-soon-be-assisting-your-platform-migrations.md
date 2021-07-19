@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial intelligence will soon be assisting your platform migrations"
-excerpt: "Along with creating new applications, AI for coding may also smooth the way for moving applications and systems to modern platforms. In a recent interview, Maja Vuković, an IBM Fellow at the company's Watson Research Center, explained how a client was ..."
+excerpt: "AI for coding may also smooth the way for moving applications and systems to modern platforms. In a recent interview, Maja Vuković, an IBM Fellow at the company's Watson Research Center ..."
 publishedDateTime: 2021-07-14T17:34:00Z
 originalUrl: "https://www.zdnet.com/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/"
 webUrl: "https://www.zdnet.com/article/artificial-intelligence-will-soon-be-assisting-your-platform-migrations/"
@@ -30,6 +30,6 @@ images:
     height: 1000
     isCached: true
 
-secured: "fFG6+6GA89/pD6KYGFtCNUyIqORK4h6uiSZINl0wkQDGIpyGBudjpi50UG9YSdzYOPi+6p+cj5KO2SORRLIgxNcDvTmyCXlUQJxG6ixwcJIyKLkPux5lYogIsbvlBZd2lgd+XCyjZyBKgIZwGxqR3QeFF4wnUfp9H3kQeoXT02KCbT8l3615KfafmXxKZSpKJSz9NvYyiM5xTdTxxVxwOOoTnvBqbwY6iif4/q02Tzxm0j1mI+ub3ZGtKG1dkbkauF89dh9cd4cbA4LYGS+x8RowTmVk1ncgkwG2W9BoS3TvYSXTLzbvSQbt2ooLwHuMpVSiTE3OpF4gjRTm5IDZUU+FmM16QmuTHllO9xWtMcQcwoGqtYvKcjSEGKF1YmOPrR0xwrvzf99R0o4HAnK3V72Gk9KQ/k8HAjOaf7e0zDQmRMWHREF/v+yafIayz5sGtpVlrH550qhzA0/EYyEVZCc6jf8HU2hw5C4t4kvjaaiGzFW74jlmr0HrN4ZwSIrcglXACL6jkAZk0C95YKNysg==;Q8hFfdV7s3gnLvwTnR2kww=="
+secured: "b3Y6qdHmLmnmvFWh+GHf1e9vTgUUMNw9OM/T2DwHsFYUbPgud1JjLMK+fm1OcfbgvOOepIWTU4u8cBhsXFokdo/qMHjAmfgGhIyRhCAr0kvZQU+fw4Jv6p88ZDJTzQU8a2y6H74R1OiPTewaUO9vYG6giykO+1HCptsqF1VdlM/ky3wrPqblLm0cfIm0FuSLz5INkjhCbVAezp/AdB8WCWc6ZuUwtXg5oUswq80eYFe5kW5yszcvgXcXjJKhgE63Y/IOFoeTipKaqV/GRJf9p0geUBiWx4QOVDIp5dvLY1QvkFP4C8wqcpWY2sbs+0y/I10/9Ztsz2+3HwQPSIlVEQvfKcJZpIt5X5w6zmPfYdw=;p9loOdZOixSlVWUAxqwpHg=="
 ---
 

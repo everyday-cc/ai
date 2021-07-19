@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "FinTech The Key Disruptor For Emerging Market Financial Services In 2021 And Beyond"
-    excerpt: "Jupiter Asset Management has launched its latest whitepaper titled “The innovations disrupting financial services in Emerging Markets” in response to shifting dynamics of financial services in the Middle East."
-    publishedDateTime: 2021-07-14T06:59:00Z
-    webUrl: "https://pressreleasenetwork.com/site/2021/07/14/fintech-the-key-disruptor-for-emerging-market-financial-services-in-2021-and-beyond/"
-    type: article
-    provider:
-      name: pressreleasenetwork.com
-      domain: pressreleasenetwork.com
-    quality: 18
-    images:
-      - url: "https://pressreleasenetwork.com/site/wp-content/uploads/2021/07/Untitled-1.jpg"
-        width: 900
-        height: 1356
-        isCached: true
 
 secured: "3hr6K0YM1LroYjw7VdIPTCK/rBlIlDtz96oz7jqdg6kWSEM1I9sG/PYa1Pee5jbVT5kX3dLs+Dsnlmj841OL2rvSwi2WnHDCalIP1+eQ0kP3HvmylwX0BM5Iwa9o3UbeivaUrKRGqFu0D3lBa99qoLyhJMxfCjY4Ydpf9XrqE7tG06wJIpw8wEstqSmAR6R/buS4co15pRUTYADgG1ggf6/6jFl5st1sZwSuf5Dhe6pjPg1FRn0ETH72dlkSXq+PF90a6+9eQEV8gMSeNbKHbLKum7EEKWv80AV/GVSq/QI1XWBYQrD6XxO+h7ahCGyUPqsYdWDo6h76Govq5iTn/rbB5HkBVhmmZt2OTdS/xQg=;/SOpi5M3iYyt80A/sOY5KA=="
 ---

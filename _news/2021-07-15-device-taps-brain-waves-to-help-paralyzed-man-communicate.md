@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1424"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424"
 type: article
 quality: 89
-heat: 180
+heat: 189
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://www.statnews.com/wp-content/uploads/2021/07/UCSF_ChangLab_239-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Device Taps Brain Waves to Help Paralyzed Man Communicate"
+    excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
+    publishedDateTime: 2021-07-16T06:46:00Z
+    webUrl: "https://www.voanews.com/science-health/device-taps-brain-waves-help-paralyzed-man-communicate"
+    ampWebUrl: "https://www.voanews.com/science-health/device-taps-brain-waves-help-paralyzed-man-communicate?amp"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/science-health/device-taps-brain-waves-help-paralyzed-man-communicate?amp"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 59
+    images:
+      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/2019-04/DFEB91B9-448A-4649-93AC-48273EA68300.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Researchers Harness Brain Waves of Paralyzed Man to Communicate With Him"
     excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a computer screen."
@@ -159,6 +175,6 @@ related:
         height: 667
         isCached: true
 
-secured: "ukqeiMnUh+rbBp4i5KUAW46Mdl/KVb+DDbOlHZq7w3oXuqp3SDm+0B2E1M6oRrcGNS2O5XeuyFaawXaLz4xL8oY7vIMv1WgNIkdrXAaxhMdJyTw/aX5LBD4n28ubwB/QIim2wW8PKoYP4WRyh/VBX85wR9tDrpwc/yn3bZJ8qYtJh7KhHF4vb5i+unMb8Syy1XfFF+dtJenPwonuFlzdExiXRsw8fM8RLZWDl+pqr0gsbj62cJVV7Pz8VYVUN/l3+Mmpt7TcI/QIT5Ru5F7PPQ0IrqcbMl94QjCM/jwxs0MrJz+Qa/L/C1Kwp/G2dPepMLUJOFcKCVRRFEepCSEmiK2Il/vmGQ5Ij3AbHFimOkU=;CmWwUsvdIWWncmGhLW2xRw=="
+secured: "4wcVboOq+Lun5mjIw9hw+IUwyzkdwjy6vdkQ0ULBVtOZEdYU0MzEkHVFKjwS1Z8ZS3oAJ7pa+d6YW9NUmhkCnYkofyzq8FQgUj6/nwfUpIVv9bJdkgppoHRFYTKhPgwH9uLJHhazDoeAbhMmMKfJs9PHE/t42Uy/Mti09nh3cWuc01krB9clSc8RMYqEybmHVaLcj8C0bcPbEGTcZrCrI1nLSR5Bjt8RosvNTtxVB/hTpjXA4P13cijiZ6+3PfXV8G4cDovMxXXbPRIDCtxa0iJG8H8msZRYrrczQRsxUWDQM9EKxoDGBCNBerpH/SY3VixrvwEtzr/PGGxa1yXgFWDwaQZOj+4w6zFxe4sgKc55mP6OvWkABpn0sMUp4wsz7WtmHiCXqp1y8z6dq87cxe6HM8oUlYninb1WtcasBpug8Qe7415M8SSYcpntwR1uBKaq6Gley4ze2K26CixcSQdTr6v75rfTaupsl5uLe8Tdw0tFPIB78QnIiLYrLwzF/BxWdZDAp/b9lu4Z+iK0zg==;FsSEneNmSFyUVWYiFYeNgg=="
 ---
 

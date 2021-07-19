@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rollingstone.com/music/music-news/holly-herndon-ai-deepf
 cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/amp/"
 type: article
 quality: 151
-heat: 154
+heat: 151
 published: true
 
 provider:

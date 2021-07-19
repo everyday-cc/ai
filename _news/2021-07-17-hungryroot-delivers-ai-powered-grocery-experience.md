@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/17/hungryroot-delivers-ai-powered-gr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/17/hungryroot-delivers-ai-powered-grocery-experience/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

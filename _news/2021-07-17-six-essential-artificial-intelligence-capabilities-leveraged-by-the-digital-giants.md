@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/what-it-takes-to-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/"
 type: article
 quality: 81
-heat: 91
+heat: 92
 published: true
 
 provider:
