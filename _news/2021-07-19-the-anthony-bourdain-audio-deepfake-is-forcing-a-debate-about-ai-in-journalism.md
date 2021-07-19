@@ -97,8 +97,8 @@ related:
         isCached: true
   - title: "AI narration of chef Anthony Bourdain's voice sparks row"
     excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-    publishedDateTime: 2021-07-16T13:33:00Z
-    webUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
+    publishedDateTime: 2021-07-16T13:39:00Z
+    webUrl: "https://www.bbc.com/news/technology-57842514?via=indexdotco"
     ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
     type: article

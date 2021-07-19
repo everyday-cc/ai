@@ -90,20 +90,6 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 21
-  - title: "Five9 Extends its Practical AI Solutions for Low-Code Development, Voice Biometrics, Real-Time Analytics and Agent Coaching"
-    excerpt: "New features streamline the development of Intelligent Virtual Agents and help organizations easily deploy solutions to augment their contact centers with an AI-powered digital workforce. SAN RAMON, Calif."
-    publishedDateTime: 2021-07-14T17:43:00Z
-    webUrl: "https://customerthink.com/five9-extends-its-practical-ai-solutions-for-low-code-development-voice-biometrics-real-time-analytics-and-agent-coaching/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 13
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
-        width: 1280
-        height: 1280
-        isCached: true
 
 secured: "vFkEbamNKooA99cbYkdHXL1qQRSoPQDqPw0sq5ZX6MhryRo6855mi2EJipgnnEjL8/Dw2kDZYZ0StoW2AIDCUVxZe7D9phI4W+OI0fGmg81z/oCtaOFiRzBP4GspUr9lUlkbZd0WXtLh+6twH3MhXIsUPLmFrYt2NPhpOClGLTL9CgVKlngj/neacXrpWTt0mzICOGQ7iVcgLmu6wP+tJQ6qAcZbncMAYNz6Z6OicW2I7gQKfKvyNuz0dy5aCjquRk+qtUyO+ioKfxOORMexwV/nkDk5gyGFKDbPcW6cjBcqG/HvyTfr8JMkQuvaXYMpJbk3bbF0IQL8YbeI9vJSjxvPkyrpzmonBOJQCbirUpU=;rgu2bJLcerF38nFE9iX9Tw=="
 ---

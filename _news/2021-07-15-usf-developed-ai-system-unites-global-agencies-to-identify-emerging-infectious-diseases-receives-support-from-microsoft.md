@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile Artificial Intelligence Market Study Report : Analysis of Major Segments and Future Opportunity Assessment 2021-2030"
-    excerpt: "MarketResearch.Biz –:As per a study on Mobile Artificial Intelligence, recently introduced into the huge publication of MarketResearch.Biz, the global market is very likely to obtain considerable impetus in the future."
-    publishedDateTime: 2021-07-14T17:37:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-artificial-intelligence-market-study-report-analysis-of-major-segments-and-future-opportunity-assessment-2021-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 11
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/15dda78d28e68948323b19b7d1444f4d528b14ed-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Project Management Professionals Working in Financial Services Reveal Biggest Concerns and Opportunities for Working Post-lockdown - New APM Study Rev"
     excerpt: "Over a quarter (28 per cent) of project managers working in financial services sector see new ways of working as the biggest opportunity67 per cent of project professionals say their organisation is planning on returning employees to the office post-lockdownThe majority (75 per cent) of those whose employer is planning a return to the office say they feel anxious about itLONDON--(BUSINESS WIRE)--Wi."
     publishedDateTime: 2021-07-15T13:02:00Z

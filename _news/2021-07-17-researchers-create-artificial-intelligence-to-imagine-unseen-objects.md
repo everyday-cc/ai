@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2021/7/16/1_5512454.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2021/7/16/1_5512454.html"
 type: article
 quality: 61
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -37,22 +37,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Researchers Enable AI To Use Its “Imagination” – Closer to Humans’ Understanding of the World"
-    excerpt: "A team of researchers at USC is helping AI imagine the unseen, a technique that could also lead to fairer AI, new medicines, and increased autonomous vehicle safety. Imagine an orange cat. Now, imagine the same cat,"
-    publishedDateTime: 2021-07-18T20:44:00Z
-    webUrl: "https://scitechdaily.com/researchers-enable-ai-to-use-its-imagination-closer-to-humans-understanding-of-the-world/"
-    ampWebUrl: "https://scitechdaily.com/researchers-enable-ai-to-use-its-imagination-closer-to-humans-understanding-of-the-world/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/researchers-enable-ai-to-use-its-imagination-closer-to-humans-understanding-of-the-world/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 46
-    images:
-      - url: "https://scitechdaily.com/images/AI-System-Takes-Inspiration-From-Humans-777x389.jpg"
-        width: 777
-        height: 389
-        isCached: true
 
 secured: "66lTZwiIGb5giJbZ5xG3PDsCGa+/Qbsrvfx0cY8pFNdv8FJnWxg2RsxggKXi1gXjzf9ZUA//agZTQmS3616790J4sLzk404YAKuXZllXeCFTIJMc7NmegpWIj6uJvU1qQRTLa12dsAghYMpHeJlxkTLDfT5lLARMgo/cTRid7ERMwALERIJ6EG8HqyHPP/wgnt2hDwK+S4OCvVT14kV2NcFBqLp2JkdXBtW54LBcrKWibOtV+2djygEvTwpB2Tg2QBjriBgrOeWgwOBc31kr5GigvQnGjPguvDTVUEWAjJbfqNEYfms9raMweM0u0BK7fzy7TodYxZPMXGThkY7B+/xfvxQniFnfX0D3qjvQoqtHzAS4LTNxB0wchkD2lpJj/QYNEGhCysD5MgJs+xSdeMgTtth1hy0rtOOsfpNnRuxU9rdhlTSs1cLVaASk2bV+3hOJh2P6ZRbkfKh+Lpye4gw3ekmyWokAMAwu5fYJTdAcjnn7G4NxedYOygLQzbx39x6t3v1QyNdT3HfQrY6HBQ==;c+Za+2Oin9gEdmQTTJswdg=="
 ---

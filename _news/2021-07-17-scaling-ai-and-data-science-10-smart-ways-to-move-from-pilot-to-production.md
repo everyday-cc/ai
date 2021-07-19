@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/16/scaling-ai-and-data-science-10-sm
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/amp/"
 type: article
 quality: 66
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+
+related:
+  - title: "Scaling AI and data science – 10 smart ways to move from pilot to production"
+    excerpt: "Taking steps that help overcome bottlenecks in data and data scientists is key to extracting value from AI investments."
+    publishedDateTime: 2021-07-19T11:10:00Z
+    webUrl: "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/"
+    ampWebUrl: "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/Picture1.jpg?w=1200&strip=all"
+        width: 936
+        height: 526
+        isCached: true
 
 secured: "o+iE7J/TGUCOODTerdJ61aU8M5CAGSJN4BJni6rr85ybUc4IWEmUAKCGv0h6RPnEWe+BW45KWzgjG4Xk1nEOhIjJd39P0ixwXe2uhS/j6NlpOvKmC3KHKi7PuLyjDpVUwpSliu6xnK9+9NAEOl1wI9U+/1MW09JFIqELXhM0TUf4x5XO61pjAlQTlyYLcGIJ9xJX6yp/dcVP3fsNMRDuKCY07Fwa4ylsnajqUdzt9p67ids0OyV8YMSSLqQTjsJcaB1ILI1xCa9wAgxdQy+DbqpDPScZDEMyzZiLaei6ya2eWoxUxeLXoZ8HgTo4jWz+RztZeKhtQ5TGc3hU8KEd3CS9lj9a1IEucYwAI2rc/UD7gF7NDnKdxXdslQb4UbJ1GYDfhsvCrpvbymzmmU1hyPBZPHLRVAXI2hBgRiLny2Cd3kSrXh0wlSZsyNJMpRkXssfHzGx1QL4VN7d3lWvLnQxwUdl8VgtJm/eJW4c1hHumCdLYUJjwD2uFcrmBAyu2MQhnXE0Cs56sKM1u6XVcEA==;Bti6ELKv3mlAewt2xbdpQg=="
 ---

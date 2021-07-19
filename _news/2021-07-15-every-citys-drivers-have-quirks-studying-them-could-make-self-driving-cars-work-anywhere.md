@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla Launches Its Full Self-Driving Subscription Plan For $199 A Month"
+    excerpt: "It might still be a while before we can expect to see full self-driving cars hit the road, but if you’re the owner of a Tesla vehicle,"
+    publishedDateTime: 2021-07-19T11:47:00Z
+    webUrl: "https://www.ubergizmo.com/2021/07/tesla-full-self-driving-subscription-199-a-month/"
+    ampWebUrl: "https://www.ubergizmo.com/2021/07/tesla-full-self-driving-subscription-199-a-month/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/07/tesla-full-self-driving-subscription-199-a-month/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2017/11/tesla_roadster_3.jpg"
+        width: 1178
+        height: 526
+        isCached: true
   - title: "Every city's drivers have quirks. Studying them could make self-driving cars work anywhere"
     excerpt: "To understand why it's so hard to make a car that drives itself, pay attention to how people cross the street next time you travel. In Los Angeles, pedestrians wait"
     publishedDateTime: 2021-07-16T08:15:00Z

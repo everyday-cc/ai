@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-07-machine-learning-algorithms-a
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-machine-learning-algorithms-alzheimer-conversations.amp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1000
     height: 455
     isCached: true
-
-related:
-  - title: "AI-based speech pattern analysis may allow Alzheimer's diagnosis by phone"
-    excerpt: "Patterns of speech in a phone conservation can be used to correctly identify adults in the early stages of Alzheimer's disease, a study published Wednesday by the journal PLOS found."
-    publishedDateTime: 2021-07-14T18:21:00Z
-    webUrl: "https://www.upi.com/Health_News/2021/07/14/alzheimers-diagnosis-phone-study/3181626276292/"
-    ampWebUrl: "https://www.upi.com/amp/Health_News/2021/07/14/alzheimers-diagnosis-phone-study/3181626276292/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2021/07/14/alzheimers-diagnosis-phone-study/3181626276292/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 56
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/3181626276292/2021/1/c76b4f9457c85d2bde2be83017a3cd5f/v1.5/AI-based-speech-pattern-analysis-may-allow-Alzheimers-diagnosis-by-phone.jpg"
-        width: 800
-        height: 532
-        isCached: true
 
 secured: "noRDR+zGwlLx8G0XNNoRYMzFUIqVEbN5LqVWUP8tuWJtDtoeo9rvHgVvQSvzidt7BBji0cGPftLfFo06b6CpltT7PvryNcRe9N4iBYM0+j/Rc7GODfnE85o/n5/h+V+BryxdHY8nqE6Rolvi4dMEcDqoni1SF56n6QKMeSGk9Vd8vD4QIye3LV7b8sqNGW0tYX+pPNaKMt6pWNxkEjFTWDFJYzDjmqCtANiGx8PAwi0fEHRhVCRYZhx6/a+1/0iJ6tY2tOo+26KvBj9ijLYxinZcWWKyry83ONQnN0gZ4RMTTq726X7DMCYRo2aM4Hrz8iJuBCKA2dx5lrOQckF75hclgk6JWCHmzlrYOdrvwLJ4CP0ylfcOOjel4uJoFiZArcx9tzmD/2JVoqKbjbqgaFMdffYYhuj3JADNZonc6/Tm/5xfG7xF+EA8r9V9xa6vbvr1oibqQJut9mRZmmXLoC9c8UMnDXK9/tu34P1hh6NiZ3H8kZDlwePsOCZE0LLxjwPGHrXirbICiOOvCL1R0g==;jGNoLynJmJ2/hfpWZNC0hw=="
 ---

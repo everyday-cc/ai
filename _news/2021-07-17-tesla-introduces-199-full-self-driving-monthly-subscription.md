@@ -93,6 +93,22 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "Tesla Full Self Driving subscription launches — and it costs $199 a month"
+    excerpt: "If you fancy getting your hands on a Tesla with the ‘Full Self Driving’ add-on, but don’t have $10,000 to spend all in one go, you’re in luck. Because Tesla is offering it as a $199 monthly subscription."
+    publishedDateTime: 2021-07-19T11:12:00Z
+    webUrl: "https://www.tomsguide.com/news/tesla-full-self-driving-subscription-launches-and-it-costs-dollar199-a-month"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-full-self-driving-subscription-launches-and-it-costs-dollar199-a-month"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-full-self-driving-subscription-launches-and-it-costs-dollar199-a-month"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 73
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/HuWJC7rtL9N3Qec7TYkb3J-480-80.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Tesla launches Full Self-Driving subscription package that costs $199 per month"
     excerpt: "Tesla, one of the leading electric car manufacturers, has officially launched its Full Self-Driving (FSD) subscription which costs $199 per month. Those who previously bought the Enhanced Autopilot package will get it for $99 as the package is now discontinued."
     publishedDateTime: 2021-07-19T04:57:00Z

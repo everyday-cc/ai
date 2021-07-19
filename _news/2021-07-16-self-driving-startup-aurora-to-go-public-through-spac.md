@@ -153,22 +153,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "AEV Summit: Embark focuses self-driving tech on big fleets"
-    excerpt: "DETAILS: Embark Trucks has the longest experience — five years — of running self-driving trucks on public highways. It is offering a bolt-on software that can go on any manufacturer’s truck. It envisions commercial fleets having the technology by 2024 — with no safety drivers."
-    publishedDateTime: 2021-07-14T18:00:00Z
-    webUrl: "https://www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets"
-    ampWebUrl: "https://www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 44
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/07/AEV_FC_Alan-Adler_Alex-Rodrigues.png"
-        width: 750
-        height: 419
-        isCached: true
   - title: "PACCAR, Volvo invest in self-driving tech company Aurora’s $10.6B SPAC"
     excerpt: "Aurora Innovation gets a $10.6 billion enterprise value, the second highest of four autonomous driving software developers seeking to go public."
     publishedDateTime: 2021-07-15T19:00:00Z
@@ -257,6 +241,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ZWLWeSYR0ym6Zwi3zK7g33jhzI73c5JWeQdYU5cABLxDOJyULtjsIJ7Hr5jRMtL/iS8tBf11k6NwfLb0qsNijnmm5P7e+TEcudFFTvpR+4c14gfxfpbf65f+H6aYGum2P1Xvc/CgvxAJ3jijKjaFR3s+H7kboGxRsfRcj4SxCd3BL3IUtNnymuJEX6qnOwUho1fOo/8f7b1alEpbSgjKjtJr6fp6bWqlEJRoLc+YTuD8DtX3hIYiaOPT7Ccpwh30qPDAx6diaY2PNxUOX84gueQu2Ly7+zfxPNYhkYnNK0aa6bEw3DwuiTGW5yXT3PEhcKetk0iqI4RgeYzOZm5kogMWE4WM8uQkxSVdO1xIR/o=;KND7I5W3H7bnUIgyvMGjrQ=="
+secured: "7ptD6JcymJhWT0TqYBq2E6jBCHQ0IPMsaLNgGAaDfdVQPBG4JnNZUM3tkujUq4MnT6psRpYVUaugP/KLu9PtuS2+Vm8gfudoGKS3Q5Y7FNXrqPmd9c5MhgncHEqWx124qLKAyxvOYgVWjqXWV4KqesPQgi9fFmC9IUg8FRZMOryLJ2TTyCa5ko1DUUO09DQ7lbt4pY6jIF5l1ulaYIrZpt1tMf/BsvGHsoEoQe1+/L21uJZrb0pGl0XarHPKd7qNf3YIl7LnCZQMAsG2elKbBiqdwiY2ofp+f0JJLu1Sttd0M06BT+oY5JvB6ISJV5c2cNyVU/1aFgCs9Q3ZaXyX2DUuTJS+RUnrTBxEtpLAuGzwxqwK2qhJoE81/pnIeBPypBRLF8CTgnQVcT5nTMlB/vd+u8RBgqdblixsNJabUi1Hr/KX9X3f66vo18TAwaz7leUOiz+L4FsTo3/MU8rs8UtUH/GKcemY7EbR/iPbQ7ElYiydeQF3eujddygi6FudQW8pZD+h22bMzS70Bw+1jQ==;vy4Itr9Tr+hSEMxYSBDpeQ=="
 ---
 

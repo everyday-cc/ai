@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/07/16/technology/what-ever-happened-to-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-ever-happened-to-ibms-watson.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,7 +61,21 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "New York Times wades into Watson"
+    excerpt: "Apparently, it is not Applish enough The New York Times, which long ago sacrificed its journalistic credibility to hawk Apple products has waded into the IBM supercomputer Watson. The Times gets its knickers in a twist about what happened in the ten years after the supercomputer scared the world"
+    publishedDateTime: 2021-07-19T10:31:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/53241-new-york-times-wades-into-watson"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/095e839513fa17736f4ab6a1b8ee356b_L.jpg"
+        width: 620
+        height: 414
+        isCached: true
 
-secured: "paPUQ1X+DV495MoIzOFEyoLCGX4wXr8TuSUV7vfeA/BPHmqY0zhszTTdo7oMoSV4mCTIotOiUhy1itjgt7eQ+ey3GQ2xDaX1WQz/Hch34UOY38eoDpeKJzk57PMxHYtJIhoGHyH6GxUYUENYXEuEKe087b5mNFLhWvUdmUd64wbekJL3uxhKMV8Sa1zDF/Go7Lj6DFOqxKYEN1Wkv4rntjkA46VTJVchCh3uOwF8NikauIn6ZtJ1rRFOF8ibp6a0GZ2CB2bU6Eo0cOfUurKo01OZcHqGoVSPX0PtBcAVNTb35hgREDwumHo8CGP3lpWRTFJI7OKP+rbziIzP2OmA9sDrxtybqBdG94SlK8UImJw=;DQQodYkLIsHiQli0NdLHYw=="
+secured: "ZK/UrhwNELAQE9FwwDvVpuTg8mwNYgr2FHRC6quGgOchjnEr7kzLa70/eyTapnUTxRvmON6hYV1KhUbLb/JdlTaFjNW7SVmeXe2iKKsGdLZwBvNprY7VcDZ8ahOTOtEICc7AngYKFnJHmP/yzh5aYdjlSyM67m7QzTwzV+ltjkAcWLzymK6ElzgJWY39Ed97PhiyX2BshxU9Qf2ajD08nP2WWK+0OHQUNdjd1wOJvxy1MoWFbjnqEX8tBZmLsbuFzXgjvfzjB8USfUSOCGQHUpQNUNlAvyY7B5wmrGLb8zWu0WjQb12VjbNkED/xMYDoSLG/l/r19I5Tlg61WkU6UzxG8kWFbsZLkNHDzJVUIKY=;1yqrQWdbJwenIAl4WHydtQ=="
 ---
 

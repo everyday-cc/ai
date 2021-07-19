@@ -2,9 +2,9 @@
 category: news
 title: "AI narration of chef Anthony Bourdain's voice sparks row"
 excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-publishedDateTime: 2021-07-16T13:33:00Z
-originalUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
-webUrl: "https://www.bbc.com/news/technology-57842514?at_custom4=A76F86AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_campaign=64&at_medium=custom7"
+publishedDateTime: 2021-07-16T13:39:00Z
+originalUrl: "https://www.bbc.com/news/technology-57842514?via=indexdotco"
+webUrl: "https://www.bbc.com/news/technology-57842514?via=indexdotco"
 ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
 type: article
@@ -481,6 +481,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "+4msF6IwtooUUe1b/jnoMpm8ou9aqPU+sXMCmoTeAoj2x+w1ZrXrOOvOvpSUvjuI8nC+B0YI5bCIiwdUA+XQZsl4iWGp18D3WlzjS5ju8biQt8Lt/9RW9viGDByfp1QIS/7faQBRJGNSfYACsOMlkjVu6r8yryZV84oTWQGYB3siYM8v1vukU9BDFUGpBuQWsY2cwamkV0qVf11Day2uo6T9KqBCZP3n9fntqbtle/644fw+Abm5b2gnSUNPt6TWiPnhy/WsDG1D5r7DCJN2/wx1wQWmc8pHLUi75MHSXwFxaahtxurCXHJHPAVtJ0c7Ar8/ePri7YX4gTiCqXIaG7R45hoIVSMIpSHHokEbv+cbOY7yGIZ26mdEo1zz2lp+WA9WVwrNyw6S6SCW6QKDu5c1h5Fo5XznRP/fV/beRxHlIrOiKZfypwoL+Mymx4BPPGEBffEbB7YXqqVrFcxzUwo9IEGFSolFOQEoKndrr9fVIB0i/eQsN0EABMR2bod3qnxzNCpfr4WVQCS25tdIZQ==;uMBo1ROKPyqlUO9vrdVw/A=="
+secured: "T6uNji+MjPzd2V/DkhK7prHh5/1UMBCPcNec7knOibOTfBXA59setVl2Doerb0/x9Ujoky3nv0Q6cfT3NpiSdRSW74arEdaK3JaeiC48TLzLQtvFBz6+wl6OBUyy/aGQzYcL/CNEs9rgKIE+RhhS4SIoAL2Rs7ekiUWqwc7t1SRnOZbE8gnHj/CqMWWJcbh1epz/T2gU/YZetJmYq7h7O/JZMhY41+11mm22jS7Mh4KLCq7spMf2vxH8L0fKD5ltcyfAi/nmxtUkVqYGMx2wv0loytCDmz7h78Ku6F0seMTbp9VfPSWjTdc1oiYdPIoD2XejuQ4s4REdfIYxUUVdUlJsTXgoUpe9pN5Bn5aOMt0=;7fXYrbkdb9Trz2v1BmMPDw=="
 ---
 

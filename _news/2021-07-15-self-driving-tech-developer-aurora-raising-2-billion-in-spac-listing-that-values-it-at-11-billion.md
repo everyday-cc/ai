@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tec
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/amp/"
 type: article
 quality: 75
-heat: 235
+heat: 225
 published: true
 
 provider:
@@ -152,22 +152,6 @@ related:
       - url: "https://img.etnews.com/news/article/2021/07/15/cms_temp_article_15171258715300.jpg"
         width: 600
         height: 399
-        isCached: true
-  - title: "AEV Summit: Embark focuses self-driving tech on big fleets"
-    excerpt: "DETAILS: Embark Trucks has the longest experience — five years — of running self-driving trucks on public highways. It is offering a bolt-on software that can go on any manufacturer’s truck. It envisions commercial fleets having the technology by 2024 — with no safety drivers."
-    publishedDateTime: 2021-07-14T18:00:00Z
-    webUrl: "https://www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets"
-    ampWebUrl: "https://www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 44
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/07/AEV_FC_Alan-Adler_Alex-Rodrigues.png"
-        width: 750
-        height: 419
         isCached: true
   - title: "PACCAR, Volvo invest in self-driving tech company Aurora’s $10.6B SPAC"
     excerpt: "Aurora Innovation gets a $10.6 billion enterprise value, the second highest of four autonomous driving software developers seeking to go public."

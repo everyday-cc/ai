@@ -93,20 +93,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Rights Coalition Demands US Retailers Reject Use of Facial Recognition"
-    excerpt: "On the heels of a congressional hearing that highlighted concerns about facial recognition, more than 35 civil rights groups on Wednesday collectively called for retailers to reject the technology in their stores \"to protect the privacy and rights of shoppers and staff."
-    publishedDateTime: 2021-07-14T18:47:00Z
-    webUrl: "https://www.commondreams.org/news/2021/07/14/rights-coalition-demands-us-retailers-reject-use-facial-recognition"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 54
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-07/FacialRecognition-Russia-Store-2600x1361.jpg?h=d3fce584&itok=4suLjali"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Black teen forced to leave skating rink after facial recognition tech misidentifies her"
     excerpt: "A local roller skating rink in Michigan has come under fire using facial recognition software that misidentified a Black teenager."
     publishedDateTime: 2021-07-16T00:13:00Z
@@ -122,20 +108,6 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2021/07/LamyaRobinson.Screenshot-scaled.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Bipartisan Calls to Regulate Facial Recognition Tech Grow Louder"
-    excerpt: "Lawmakers on both sides of the political aisle have concerns about the government’s increased use of biometric technology."
-    publishedDateTime: 2021-07-14T17:47:00Z
-    webUrl: "https://www.nextgov.com/cio-briefing/2021/07/bipartisan-calls-regulate-facial-recognition-tech-grow-louder/183761/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/07/14/AP19347785904458/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Federal Agencies Can't Resist Using and Abusing Facial Recognition"
     excerpt: "Already used to identify international travelers as they enter and exit the United States, facial recognition technology is becoming increasingly reliable and may soon become a regular feature of the travel process,"

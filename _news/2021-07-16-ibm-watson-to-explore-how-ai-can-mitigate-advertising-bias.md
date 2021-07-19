@@ -57,6 +57,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "New York Times wades into Watson"
+    excerpt: "Apparently, it is not Applish enough The New York Times, which long ago sacrificed its journalistic credibility to hawk Apple products has waded into the IBM supercomputer Watson. The Times gets its knickers in a twist about what happened in the ten years after the supercomputer scared the world"
+    publishedDateTime: 2021-07-19T10:31:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/53241-new-york-times-wades-into-watson"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/095e839513fa17736f4ab6a1b8ee356b_L.jpg"
+        width: 620
+        height: 414
+        isCached: true
 
 secured: "XtxJGZ/f5TXOGH5vbtTZ2iSP1Nvfe8IcCJul+cYao1VbV+V/eOIQ3FQBaNfKllo2hHXvtIxFog+0mhmvI2RzTNn20U0TOBplqWOQxsj48Q4FSBFKGe3rnZ/FTpP56bgQ9726IXT7cD9aj+nXCycaQ+4Vv+nCP8EDewr+BKSMXhuGPXRBIpB5FwhK1twD8a/7V6OoC+tJASHszic+mLE0QQFhyEMHfmQIZxA/iHIt2sCyK9r5oFLG0MUNvVV2UY3oO1UvAQcr5JVhJlYRYDu/PCPzciM/O3DyWH6JIl/wDj71WHE4yA8gnKItvgSCFSbiGpvhy4KuhgvaFTIj3edeekSKhMXdXrRq7yKECc1MVev6Sw6BFIa0PCSW1bBSQS9frvQmLVg4qaPTUHMGKeCrNfaGOUZvsRE1Hee3g6CWl6oow8wTRwXw4010LmkvRu2VHeupWhRpZrK7bQRag3nhE+CT4K2eWlTX4V3nDVTMb1+84t8TTxFJRe/qGDhIJhSAYen0n0G/AK9omzz4VMuwFw==;+T5L8ybN526XJ6wENNF3Eg=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Blackstone to Acquire Majority Stake in Simplilearn, a Leading Online Learning Platform"
+    excerpt: "Blackstone (NYSE: BX) announced today that private equity funds managed by Blackstone (\"Blackstone\") have entered into a definitive agreement to acquire a controlling stake in Simplilearn Solutions Pvt."
+    publishedDateTime: 2021-07-19T10:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/19/9411461.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "9H5QogiDgF4VNT1EfadiqYtd59HMyjtv45bXdvaaDrCFP2SpXcr9aFmzl85DOCa/yOuCfFHJ4PODXlc7eV0LbwDtoMhYr57tU84vlrdQy6/QuVD0uhdSSmsIsVpV5TQlcE7tRaz9FAil21uPkt1KD0M+pYoxLGFBSOuXBbP3EHjFJMBM4Ep5gBHRMz+P4NV+zj5MvczSsyFKiXsaHFEgclDPDbj+eeTjX4zg81KqwvooIVZs2IAzjFXVpAoy55opvhyUpwI77NM++pGYV3imrNZGYhtsukp990WcUfmBN1vKWaqZ/b89KhErPLEJQYLUcEGQsqVpjQiizwEmrAkuFqGGQVuhlf22t4yIlsIkTjg=;QY+Otl0Sx+20zV7L43QICA=="
 ---
 

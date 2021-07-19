@@ -39,22 +39,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Researchers Enable AI To Use Its “Imagination” – Closer to Humans’ Understanding of the World"
-    excerpt: "A team of researchers at USC is helping AI imagine the unseen, a technique that could also lead to fairer AI, new medicines, and increased autonomous vehicle safety. Imagine an orange cat. Now, imagine the same cat,"
-    publishedDateTime: 2021-07-18T20:44:00Z
-    webUrl: "https://scitechdaily.com/researchers-enable-ai-to-use-its-imagination-closer-to-humans-understanding-of-the-world/"
-    ampWebUrl: "https://scitechdaily.com/researchers-enable-ai-to-use-its-imagination-closer-to-humans-understanding-of-the-world/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/researchers-enable-ai-to-use-its-imagination-closer-to-humans-understanding-of-the-world/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 46
-    images:
-      - url: "https://scitechdaily.com/images/AI-System-Takes-Inspiration-From-Humans-777x389.jpg"
-        width: 777
-        height: 389
-        isCached: true
 
 secured: "dqD0OwOmk37l0rSDVxYsAPxRcu04UYfHw3Rw1iCAFy8Cp/TK661+tB4MzezlyIcGLbubMHKyQm6/twJ8ISnzSwyPSmm2IcHaGXq3WZ0vjBkKdZhDFcqerDR6HdqGAT4DB9QQz7PMBCcYbg3CDvjUkPvs6xo4iQeBfOOzTImoCyeYY2j7lSIF7DGVCbfYW3VTvaS0asCcfadt5bnqh+MItqZWjxGmTmQbtAM3XPIInLdd09dGNieT24VWtk/N/1RXEi7lfqVffF8X4xYb6dvVq5B4frTbME70j4oL2Y6oVvyZMYa9dCQ/LJ71zDv5wEufZmURcMYJ/hpecKjy5ee82RIs5/DwkN5FctYz53vN1Wc=;ccPAZFr1/lUYwf7U4NmIMw=="
 ---

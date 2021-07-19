@@ -41,6 +41,20 @@ related:
         width: 800
         height: 560
         isCached: true
+  - title: "Scientists achieve first brain-to-speech translation"
+    excerpt: "Scientists have developed what they are calling the world’s first speech neuroprosthesis that uses artificial intelligence to decode full words directly from people’s brains. Researchers from the University of California,"
+    publishedDateTime: 2021-07-16T17:06:00Z
+    webUrl: "https://ia.acs.org.au/article/2021/scientists-achieve-first-brain-to-speech-translation.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/mind%20reading%20tech.jpg"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "M2wF8tF1PA+Oe6Yv240+TSVmSMnoKMa7eCis4JpBBDRJGAK6Nh80Th0vbRfHa9rmJC9JkdZt3cI9CSL7pXAGCpVvH5sctEKU1X5JXIzxhbDfE1Pe8KMRhbcF0Mztz//C/7UQNbPqngpuxY1j+MCplHZSgaJcBa9qkew3qB+ohJuNr3Jg2p1Q1Di3G8m2CQOkLfc2XGif2oBS/AvKhNrLXcCm1prGFXnlezAMKPteFD8Ex1fUqklRNXw0I0J4Q/eNxkgeUXAS4Wlr0P6t45ocgwjC7BJ6SRIemuJ/v26f7hAqWGm7Xrbr78qoyoLue4nB24YNvY9BmQTsikM8myhG6/+b6mBo3FgmU2kiqHPHDmU=;ibzYHeNtc0sYzU6OPZX23g=="
 ---

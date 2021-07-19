@@ -7,7 +7,7 @@ originalUrl: "https://www.bioworld.com/articles/509379-heartflow-charts-ipo-via-
 webUrl: "https://www.bioworld.com/articles/509379-heartflow-charts-ipo-via-24b-spac-deal?v=preview"
 type: article
 quality: 122
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Coronary CT imaging artificial intelligence firm HeartFlow to go public in $2.4B deal"
+    excerpt: "A vendor that uses CT images to create 3D models of the heart is going public with an enterprise value of $2.4 billion, those involved announced Thursday. Glenview Capital Management is investing in HeartFlow as part of the deal."
+    publishedDateTime: 2021-07-19T08:47:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/heartflow-ct-imaging-artificial-intelligence-public"
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 30
+    images:
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2021-05/iStock-917337130.jpg?h=9d96f97f&itok=8hrn6Oek"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "HeartFlow to go public in $2.8B SPAC merger"
     excerpt: "HeartFlow said that it will go public by merging with a SPAC called Longview Acquisition Corp. in a deal worth $2.8 billion."
     publishedDateTime: 2021-07-15T15:03:00Z

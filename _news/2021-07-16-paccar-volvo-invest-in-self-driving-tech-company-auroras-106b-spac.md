@@ -165,22 +165,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "AEV Summit: Embark focuses self-driving tech on big fleets"
-    excerpt: "DETAILS: Embark Trucks has the longest experience — five years — of running self-driving trucks on public highways. It is offering a bolt-on software that can go on any manufacturer’s truck. It envisions commercial fleets having the technology by 2024 — with no safety drivers."
-    publishedDateTime: 2021-07-14T18:00:00Z
-    webUrl: "https://www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets"
-    ampWebUrl: "https://www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 44
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/07/AEV_FC_Alan-Adler_Alex-Rodrigues.png"
-        width: 750
-        height: 419
-        isCached: true
   - title: "Company That Absorbed Uber Self-Driving Is Going Public in $11 Billion SPAC Deal"
     excerpt: "The latest to join the SPAC boom is Aurora Innovation, the Silicon Valley startup that absorbed Uber’s self-driving unit last year. Aurora announced Thursday that it will go public later this year through a reverse merger with Reinvent Technology Partners,"
     publishedDateTime: 2021-07-16T19:32:00Z

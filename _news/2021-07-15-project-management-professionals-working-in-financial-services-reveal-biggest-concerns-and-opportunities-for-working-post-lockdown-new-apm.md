@@ -53,20 +53,6 @@ related:
         width: 733
         height: 504
         isCached: true
-  - title: "Mobile Artificial Intelligence Market Study Report : Analysis of Major Segments and Future Opportunity Assessment 2021-2030"
-    excerpt: "MarketResearch.Biz –:As per a study on Mobile Artificial Intelligence, recently introduced into the huge publication of MarketResearch.Biz, the global market is very likely to obtain considerable impetus in the future."
-    publishedDateTime: 2021-07-14T17:37:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-artificial-intelligence-market-study-report-analysis-of-major-segments-and-future-opportunity-assessment-2021-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 11
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/15dda78d28e68948323b19b7d1444f4d528b14ed-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "8O78axYZ1XD5ooA0Aoa+zIDAwBYPEXytc36l4bh2GTbthD1AZ0Jlx1JsosoaPVI+JFxjj3QmPny2sr4y7rsLtepuWargZiFjQroluOeiVvV91QHjTfn3KVnNXL0TxgU4UQcNmf+Hb0M97V8Ha0H8VNprpJTItsj6f316Z4Ttw2AAQBHSLNxUv0hXRgP9Cq4PZuTBDL9nZz5Jbb6xtfyaBgxXXzYsxocq/Ot/Wlvx8RgL9iqahZDvKmKd/0rgPU26OtwbKrFn53i463coxdgcH/J3LMbUradQCICZ9lmjSEeJjHFuX9znIeLtx2hZ7uo52XhhSB0V//hw8/2Ta2/4F4UOLiPUoC5Kv+zUA+1tn5g=;Nkh2ca57cUa7/v2ESN4GjQ=="
 ---

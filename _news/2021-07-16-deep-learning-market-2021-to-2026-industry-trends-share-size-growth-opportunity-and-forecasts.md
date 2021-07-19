@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market Pricing Strategy, Industry Latest Trends, Top Company Analysis by 2026"
-    excerpt: "Selbyville, Delaware, MarketStudyReport.com offers report on Global Artificial Intelligence (AI) in Automotive Market that evaluates industry growth trends through historical data and estimates prospects based on comprehensive research."
-    publishedDateTime: 2021-07-14T18:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-pricing-strategy-industry-latest-trends-top-company-analysis-by-2026-2021-07-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Healthcare Natural Language Processing Market 2021 Analysis of Key Trends, Industry Dynamics and Future Growth 2025 with Top Countries Data"
     excerpt: "Jul 15, 2021 (Market Insight Reports) -- Overview for \"Healthcare Natural Language Processing Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. The study of Healthcare Natural Language Processing market ..."
     publishedDateTime: 2021-07-15T08:06:00Z

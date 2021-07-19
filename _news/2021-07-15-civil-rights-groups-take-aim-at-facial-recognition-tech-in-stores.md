@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-cam
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/"
 type: article
 quality: 174
-heat: 264
+heat: 244
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Rights Coalition Demands US Retailers Reject Use of Facial Recognition"
-    excerpt: "On the heels of a congressional hearing that highlighted concerns about facial recognition, more than 35 civil rights groups on Wednesday collectively called for retailers to reject the technology in their stores \"to protect the privacy and rights of shoppers and staff."
-    publishedDateTime: 2021-07-14T18:47:00Z
-    webUrl: "https://www.commondreams.org/news/2021/07/14/rights-coalition-demands-us-retailers-reject-use-facial-recognition"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 54
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-07/FacialRecognition-Russia-Store-2600x1361.jpg?h=d3fce584&itok=4suLjali"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Black teen forced to leave skating rink after facial recognition tech misidentifies her"
     excerpt: "A local roller skating rink in Michigan has come under fire using facial recognition software that misidentified a Black teenager."
     publishedDateTime: 2021-07-16T00:13:00Z
@@ -118,20 +104,6 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2021/07/LamyaRobinson.Screenshot-scaled.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Bipartisan Calls to Regulate Facial Recognition Tech Grow Louder"
-    excerpt: "Lawmakers on both sides of the political aisle have concerns about the government’s increased use of biometric technology."
-    publishedDateTime: 2021-07-14T17:47:00Z
-    webUrl: "https://www.nextgov.com/cio-briefing/2021/07/bipartisan-calls-regulate-facial-recognition-tech-grow-louder/183761/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/07/14/AP19347785904458/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Federal Agencies Can't Resist Using and Abusing Facial Recognition"
     excerpt: "Already used to identify international travelers as they enter and exit the United States, facial recognition technology is becoming increasingly reliable and may soon become a regular feature of the travel process,"
@@ -154,6 +126,6 @@ related:
       domain: aviationpros.com
     quality: 21
 
-secured: "CrB0Yz1m0peINkHTscOVjpK49vDVAmvpxHUpDZZP4Tv6zfPDmDyAVOB212ZPJk3mLZJDkhxC8Fvz8iP1TjK64ZtpBlsjOr+kYxbU4mgh0ym6vS+HSrArt49pg+g4lUr5F+za6/AgVQxDzER4sRsk1RcQmK+b45Hs9UJo5RYq1QK/FwZdF4n08UG/H/XdWKGHl3XAM2HePABQ32BKojFbRCI7lvNCrY0RLL9AZ6vjLyXdGSza54jQK0BDPsBUCK4n4dVU9e3uIdIARwsWcZ7kLZ8n3EMgLEOxMBIaF21Z1mFisHiYfdAqDfJ/4bjn2KXMEw/3Vr+3HhFfbhNVYL8s3HzktSVkS3dIaXOj0Z3ikyM7dHeDeDc66MHThSV4hHr840EZvsJMPKkeHQFlu2GvbS1a0+VJUn1iulhMYJMDYdMCsR8eSnIHxZVzIUAnQ/qkgjsuq1GzpjED0pC0ATledPJct1bzWRLn6b4IPmHedJLiQmN8fC43Ta0lp4Pt7A358zXo7u/q2ayJSjqso6o3Bn3hW8B8iauHcyZg0evyqUM=;tggBsqv5UZotBRi+WogxDg=="
+secured: "vZvduxvniJyEW9kbRtsVrBNvP6rSzsLPp+nHoXnsUsAssdV6vRiRHT0xfYfgr8iN8GpkgRvg6CjX3oCMxRMnE8yaBJQMtojvO8Dhjjpba6bJlOjGftHC0zvse9YboJsH79ieqBGriGLmWJTE5T/Z6HziUU36p9/3+eKYdeAyje9/MSw1z7BnDN+k/TcKMfMx/PVCspZXciPn8Mfr6glNhk5kwLw3pQC6b8QXlwtLhmWsiy3oGeJ8k3IBhU8VoqIWf9JSP1aDm2omBQ5d0ntkf1oZkKB2eUOLxmGpYvmM9aXosQZbS3L3nV6J6+pqGisJn1nlRbrKnDUfEu7NokTkv2+Z0dBDZTU+8//WY/2d7bO9ssJnppewmlEz151popHU5B19dHXZpVE5iSqd8PB9CWzUN2EF7z+3syKR+DTetiridJrkKojXQNSQ/apnA4nxbF2kON8AtQp5LNj4zGqE6OF8VIV2EZVofAE3CcKBmeBB6lzHM526c51hVRechaeYU9RXFy17cC4ziS/9naNqltPjuI3r2oJomucDYaVggaI=;u9H/ZMUybH37sdiknoHcvQ=="
 ---
 

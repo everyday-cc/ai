@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90437-researchers-develop-deep-lea
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists achieve first brain-to-speech translation"
+    excerpt: "Scientists have developed what they are calling the world’s first speech neuroprosthesis that uses artificial intelligence to decode full words directly from people’s brains. Researchers from the University of California,"
+    publishedDateTime: 2021-07-16T17:06:00Z
+    webUrl: "https://ia.acs.org.au/article/2021/scientists-achieve-first-brain-to-speech-translation.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/mind%20reading%20tech.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Intelligent real-time sign language translator designed by teens wins £20,000 national tech-for-good prize"
     excerpt: "winning £20,000 thanks to their two-way AI-enabled British Sign Language (BSL) translator - BSL: Educate-2-Translate. The prize challenges young, innovative minds to design and develop technological solutions to the big issues of our time that deliver ..."
     publishedDateTime: 2021-07-16T05:25:00Z

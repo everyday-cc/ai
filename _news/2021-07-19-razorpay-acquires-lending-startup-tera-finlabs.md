@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Razorpay acquires lending startup TERA Finlabs"
-excerpt: "Financial solutions company Razorpay on Monday said it has acquired AI-based risk tech SaaS (software-as-a-service) platform TERA"
-publishedDateTime: 2021-07-19T09:37:00Z
-originalUrl: "https://www.glamsham.com/world/technology/razorpay-acquires-lending-startup-tera-finlabs"
-webUrl: "https://www.glamsham.com/world/technology/razorpay-acquires-lending-startup-tera-finlabs"
+excerpt: "TERA Finlabs is an Indian subsidiary of GAIN Credit, a leading UK digital lender which was launched in 2018 to expand their global footprint in digital lending. This marks the company's third acquisition after foraying into the B2B SME lending space with the launch of Razorpay Capital in 2019,"
+publishedDateTime: 2021-07-19T11:30:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20210719/3789154.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20210719/3789154.html"
 type: article
-quality: 22
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
-
-images:
-  - url: "https://www.glamsham.com/wp-content/uploads/2021/07/b7241c218dcc56798c6f971f360d32c4.jpg"
-    width: 400
-    height: 225
-    isCached: true
 
 related:
   - title: "Razorpay acquires TERA Finlabs in push for startup, MSME loans"
@@ -55,6 +49,6 @@ related:
         height: 600
         isCached: true
 
-secured: "NnU1oZJCBMjhcjPxht4L3fH8/iFA2+Exu1jc/OvUxYIkb1JvfgVF0ntFWGVdFk+oTHUzJXecPiJvgN2OzyEFXUzrJqiAirNAcTnAOh9NMAbXB5u7zzYt6yghtYrr3StuKokJUbbxhUAc5H34bHjiXR6l/+nxZqJHjSTj71CFbb4wpJ9Ey6KoqwW8UVvlvKe8RC46wJvEshCwwp7Rk8VfDRK0IrYgRhOO16fNQ6P4f+lC6hlWY88uCdP0/2jtlccIRCcjEPaxbIY+DJYfS1+xMvEhOSx60Q6cOX5ex7m7tckKLnCX7Wx5KVwivkvE0TwVcpLBULx1ZOHGF9Bk5FSIMkB0fUNY0TE2xy9wqtaDK+g=;H9IF27NO8745tyidZDtbOg=="
+secured: "S/Cxw53pvqdBs9DaJMJ7e6fXmEIF+34ZzDDNV7DJxC0+XAHNbKZvJN3YVbLeaiYire/IRAr/z5FFlKmOk1WdBUptEhOWHQLG0WeEOu0+oITo2yLuFPspv/D2iCzIJxqEM0kgAR+ca2AtIksk5t5ce0ILKX8YMF0y3pKgFSBw5OAcqJoGUGRkezKgkHojgwyQ1HFLsCHymE+3MnUUFzHXIk6ruw5we8IJG7++uMH04zjeXka+fV19JOysiqUns659T3ov7ermoEJOiZEMJQKm10+/qoLTBzJ0GWUacqA6IYlIVbCVCwtfulIzPJVvv5uAPVhpzfyaBmDUu6/9GlbzmlzIQbxTpsZxUKSdEcTH3dk=;BiNd6/hZ4U1Yuy2izlQXUw=="
 ---
 

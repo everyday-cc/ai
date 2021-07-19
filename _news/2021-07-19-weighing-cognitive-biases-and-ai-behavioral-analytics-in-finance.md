@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 21
-  - title: "Five9 Extends its Practical AI Solutions for Low-Code Development, Voice Biometrics, Real-Time Analytics and Agent Coaching"
-    excerpt: "New features streamline the development of Intelligent Virtual Agents and help organizations easily deploy solutions to augment their contact centers with an AI-powered digital workforce. SAN RAMON, Calif."
-    publishedDateTime: 2021-07-14T17:43:00Z
-    webUrl: "https://customerthink.com/five9-extends-its-practical-ai-solutions-for-low-code-development-voice-biometrics-real-time-analytics-and-agent-coaching/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 13
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
-        width: 1280
-        height: 1280
-        isCached: true
   - title: "GoodData and Vertica Partner to Accelerate Cloud-Native Self-Service Analytics Adoption in the Enterprise"
     excerpt: "GoodData, the leader in Data as a Service (DaaS) analytics infrastructure, today announced a strategic partnership with unified analytics platform provider Vertica. In a newly integrated product offering,"
     publishedDateTime: 2021-07-15T13:04:00Z
