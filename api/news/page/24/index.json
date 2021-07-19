@@ -2,6 +2,50 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-06-29-microsoft-announces-the-general-availability-of-azure-nd-a100-v4-cloud-gpu-instances.md",
+      "title": "Microsoft Announces the General Availability of Azure ND A100 V4 Cloud GPU Instances",
+      "excerpt": "Microsoft announced the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs. These Virtual Machines (VMs) are targeted at customers with high performance and demanding workloads like Artificial Intelligence (AI) and Machine Learning (ML) workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/?topicPageSponsorship=dca0fcc9-a580-4af1-870b-9be845a6780f",
+      "originalUrl": "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/?topicPageSponsorship=dca0fcc9-a580-4af1-870b-9be845a6780f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/en/headerimage/header+%281%29-1624710420680.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-ibm-launches-its-ambitious-project-to-eliminate-bias-in-targeted-advertising.md",
       "title": "IBM launches its Ambitious Project To Eliminate Bias In Targeted Advertising",
       "excerpt": "Unintentional bias in algorithms has been plaguing the advertising industry for a long time. IBM is taking the issue head-on.",
@@ -1104,40 +1148,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom.md",
-      "title": "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com",
-      "excerpt": "and specific therapy focus. Each deal title links ... access to each contract document on demand. Chapter 6 lists artificial intelligence deals by technology type. Chapter 7 provides a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-auto
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/07/C3AI.png?w=1200&strip=all"
         width: 1200
         height: 601
-        isCached: true
-  - title: "Driving customer loyalty with analytics and AI"
-    excerpt: "Winning and retaining customers has always been challenging for retailers. However, it has become increasingly difficult over the past few years with the explosion of online retail and multiple new brands entering the market,"
-    publishedDateTime: 2021-07-14T07:21:00Z
-    webUrl: "https://www.technologyrecord.com/Article/driving-customer-loyalty-with-analytics-and-ai-124849"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 39
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10401/img-iStock-923079848.jpg"
-        width: 940
-        height: 443
         isCached: true
   - title: "Deep Learning, Predictive Analytics Helps Identify Chronic Diseases"
     excerpt: "Through deep learning and predictive analytics, researchers have developed an artificial intelligence program that can determine the likelihood of someone developing a chronic disease due to aging."

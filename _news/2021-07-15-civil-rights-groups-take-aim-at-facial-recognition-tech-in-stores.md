@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-cam
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/"
 type: article
 quality: 174
-heat: 304
+heat: 294
 published: true
 
 provider:
@@ -146,22 +146,6 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2021/07/LamyaRobinson.Screenshot-scaled.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "The Technology 202: House hearing highlights the lack of oversight of facial recognition technology"
-    excerpt: "Williams later found out he was wrongfully arrested after he was falsely identified as a shoplifting suspect in January 2020 by Detroit police after they used facial recognition t"
-    publishedDateTime: 2021-07-14T08:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/07/14/technology-202-house-hearing-highlights-lack-oversight-facial-recognition-technology/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/07/14/technology-202-house-hearing-highlights-lack-oversight-facial-recognition-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/07/14/technology-202-house-hearing-highlights-lack-oversight-facial-recognition-technology/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 45
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALRJF5VLQEI6VJB3X2PWJFFIPU.jpg&w=1440"
-        width: 1440
-        height: 1080
         isCached: true
   - title: "Bipartisan Calls to Regulate Facial Recognition Tech Grow Louder"
     excerpt: "Lawmakers on both sides of the political aisle have concerns about the government’s increased use of biometric technology."

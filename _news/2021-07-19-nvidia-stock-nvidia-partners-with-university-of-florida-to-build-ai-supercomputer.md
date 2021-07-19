@@ -1,0 +1,59 @@
+---
+category: news
+title: "NVIDIA Stock – Nvidia partners with University of Florida to build AI supercomputer"
+excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+publishedDateTime: 2021-07-19T01:16:00Z
+originalUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidia-stock-nvidia-partners-with-university-of-florida-to-build-ai-supercomputer/"
+webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidia-stock-nvidia-partners-with-university-of-florida-to-build-ai-supercomputer/"
+type: article
+quality: 33
+heat: -1
+published: false
+
+provider:
+  name: fintechzoom
+  domain: fintechzoom.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://fintechzoom.com/wp-content/uploads/2021/07/m02d20200721t2i1526604517rLYNXNPEG6K1IKw800.jpeg"
+    width: 800
+    height: 533
+    isCached: true
+
+related:
+  - title: "NVIDIA Aims to Bring AI to the 5G Edge"
+    excerpt: "The company’s network cards are based on Arm processors that can run AI inference engines on edge computing platforms."
+    publishedDateTime: 2021-07-14T16:02:00Z
+    webUrl: "https://www.itbusinessedge.com/networking/nvidia-aims-to-bring-ai-to-the-5g-edge/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 39
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/NVIDIA-Aims-to-Bring-AI-to-5G-Edge.jpeg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "NVIDIA Stock – Graphcore’s AI chips may not be as powerful as Nvidia’s GPUs, but may provide good bang for your buck • The Register"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-07-17T11:49:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidia-stock-graphcores-ai-chips-may-not-be-as-powerful-as-nvidias-gpus-but-may-provide-good-bang-for-your-buck-the-register/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/graphcore_ipu_650.jpg"
+        width: 650
+        height: 433
+        isCached: true
+
+secured: "CnNLRFX73r3Gx6DLQIG/7i7XDliEDdqEjEmFbEneBwglY9eZC6kWXPvnMXN7Gx96Csm7hQUSh/S3WMlCWGiWfaZhSsWCfgv+KLJtwcz6vUMOTYZ+rLPx9P2unXFHeNNh6/EqgWwbv7lKLs0CP2zOO9M8Bl53kiPAFVoezzque8kdNxYK/JoXVB9EFhetDBriRcsTUytMGGAmeZEhGU1OPslc2Wcfq6e8eGkKPQ70Qce8d07BfwvznFomk6pmc9odk5S0MqvjqWTsMiOKIgt7dN6rx6+6ryfl6OjYjTpN2hk02QjVzTo0+1e91NEZnbyPIzXIDx4gwdLrpmy20yYk+zmAYk+xrzIAjOViWPD7Vmw=;JyqRcbD7pVfDrFYyCokqoA=="
+---
+

@@ -98,20 +98,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 39
-  - title: "Artificial Intelligence in Drug Discovery Market Share, Opportunities, Future Trends, Top Key Players and Analysis by Forecast to 2027"
-    excerpt: "Global Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million"
-    publishedDateTime: 2021-07-14T07:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-opportunities-future-trends-top-key-players-and-analysis-by-forecast-to-2027-2021-07-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Digital Assistants in Healthcare Market Technology Progress Analysis 2021 to 2025"
     excerpt: "Global “Digital Assistants in Healthcare Market” 2021 Research report produces ... preferences towards technologically advanced products, which makes use of Artificial Intelligence (AI)and the Internet of things (IoT) as they offer many benefits ..."
     publishedDateTime: 2021-07-15T06:33:00Z

@@ -39,6 +39,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "NVIDIA Stock – Nvidia partners with University of Florida to build AI supercomputer"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-07-19T01:16:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidia-stock-nvidia-partners-with-university-of-florida-to-build-ai-supercomputer/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 33
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/m02d20200721t2i1526604517rLYNXNPEG6K1IKw800.jpeg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "zRqbxP1Jli7RZUgae0IF+kurlUooumHumbvKYSN33g32M+5F4K52w/M3aHi7PzSqCqvLpK0C0LmDfu2RKdfEVDdSZtQjI0mURZawIvPzawmCLz8P0LPdcyCqeYRVD6k/6v8ibmUbNj7KWSQKiohZxTpy6hk8hGEEWU0cEEpfacewe0iunI82QInmjMABBhkYYq8bHRvL6oK9ohDKSbRaN46Q96zmAUtD8Uwt926udiiz/tctzEEmglA4LgHLN43hBRwOVHMCAsg2RBE82yAelO/aK1Mb4cQTX7X/aK7R7zgGkSe6B/sqP59+zPS8biJjUSet5fdUnaT7HlEFl5vAeuumxW9Rx49oWa3tn5+7lHjycb5gaGQ0ei2kDecvUTLy1Ed8FNEuHOl//tNl8OaFmsOneuuVeVYvdOCB9l41Ey9oRcOX07XA6ivDCtvPWdQSnDuXqgfdbhsif+KG+MCCdo5GZvv6Q9rnQns9SAURKVS6G+s3rntyhnNeL6X8l42APfR+RVxwDdLbG0bpc1w28g==;i+4jWuuKnTuLYkVCke4sVA=="
 ---

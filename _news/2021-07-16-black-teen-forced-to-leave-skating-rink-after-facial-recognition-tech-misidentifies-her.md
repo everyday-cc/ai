@@ -147,22 +147,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Technology 202: House hearing highlights the lack of oversight of facial recognition technology"
-    excerpt: "Williams later found out he was wrongfully arrested after he was falsely identified as a shoplifting suspect in January 2020 by Detroit police after they used facial recognition t"
-    publishedDateTime: 2021-07-14T08:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/07/14/technology-202-house-hearing-highlights-lack-oversight-facial-recognition-technology/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/07/14/technology-202-house-hearing-highlights-lack-oversight-facial-recognition-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/07/14/technology-202-house-hearing-highlights-lack-oversight-facial-recognition-technology/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 45
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALRJF5VLQEI6VJB3X2PWJFFIPU.jpg&w=1440"
-        width: 1440
-        height: 1080
-        isCached: true
   - title: "Bipartisan Calls to Regulate Facial Recognition Tech Grow Louder"
     excerpt: "Lawmakers on both sides of the political aisle have concerns about the government’s increased use of biometric technology."
     publishedDateTime: 2021-07-14T17:47:00Z

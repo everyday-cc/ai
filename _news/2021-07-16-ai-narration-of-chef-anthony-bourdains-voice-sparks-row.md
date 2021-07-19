@@ -93,7 +93,7 @@ related:
   - title: "Anthony Bourdain Documentary Used AI To Fake His Voice"
     excerpt: "A new documentary about late celebrity chef Anthony Bourdain utilized artificial intelligence to recreate his voice, spurring a debate about the ethics of this practice. In an interview with The New Yorker,"
     publishedDateTime: 2021-07-16T21:58:00Z
-    webUrl: "https://www.huffpost.com/entry/anthony-bourdain-documentary-artificial-intelligence-voice_n_60f1f79ee4b01f1189597cbc?ncid=tweetlnkushpmg00000067"
+    webUrl: "https://www.huffpost.com/entry/anthony-bourdain-documentary-artificial-intelligence-voice_n_60f1f79ee4b01f1189597cbc"
     ampWebUrl: "https://m.huffpost.com/us/entry/us_60f1f79ee4b01f1189597cbc/amp"
     cdnAmpWebUrl: "https://m-huffpost-com.cdn.ampproject.org/c/s/m.huffpost.com/us/entry/us_60f1f79ee4b01f1189597cbc/amp"
     type: article
@@ -477,6 +477,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "M8Y/4crLv2Pc07ScdCKCt48/0TDBcRD1798GV3NsjcoTmKOKdY20afCVOJbEgKn6x5yhGHyaNPmJA3xi4pychcgaWEe2qTOSEsw6hAwxdbMxULoyECkAGim/a40uUU0UZ7xtEZT90nYUDFk0GGSjtX+Sn0nH7munFVakuB13RKeIorDVKbhG0VPjLYv4VBAjddsgLbJPA2EYnvSComPaLVCOXqxCiP/fdQ85GYNXS0pfawm91Fx807OhSxcbV2nByvQqRprF8fDUZrt7ly8kD+DSxzmMQ5XqliSXyL8VwWW6ld6/Y9tiKLZoYN47EGW4m8nivIIvSfggvTzuWCCE4eYuOd6AdZVmi/pNxuycGLs=;vtckQpWIdvf4CsDKXKPubg=="
+secured: "JdZYq2pjwX3nxSFis7+DdnL+y+4jxSFe7WhdTfw/4vzetVwr4ccwPeMbq+AsDT/KGktKtL81+aQPOMVP5Wu9IjBgC48wt6I0CjwwFkO6NF0XoM3Rko+600EbgPFjYkzca6OVuqUNkKJ2eick+u0TvRBK/sNECU1HRyaAKHeNh4YK+HKRYKIi2ss43TDnTOEMeoBT8Bv/glawom14gOSsyrvEJRMlHsF00Y63ZsHckrNlu95yTHs/E60inoRN+ML//B0FBGFEnY/wfYYBu93BFHxTUR+gxMmJ2ty4/FMlwI6ZLM2H+6G8SESVNBfb4/Qp5WKKLiSwEsiehW541AVRwkE2VIvdN7Y2Loe45/uMd7bB1REqwIcOXwuvJ3go9JaYjE9HOfxjdC5pP+LhVkE0+SmSyhp8l1SosgjBBFZgp7oO2yXWJ1mTmxvvW1zLN0WSJ2aDe/PLrr+95hvoA5N4MUffgS7pAx5Yp29Rna4Jbp8GIHy02EmeRISalsWhGhjfaIt+b00GaVuobypQ54/lKA==;eciI7Jw/hzyheoAPV6zYzQ=="
 ---
 

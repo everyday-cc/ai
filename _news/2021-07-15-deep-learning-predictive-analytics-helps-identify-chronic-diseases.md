@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "Driving customer loyalty with analytics and AI"
-    excerpt: "Winning and retaining customers has always been challenging for retailers. However, it has become increasingly difficult over the past few years with the explosion of online retail and multiple new brands entering the market,"
-    publishedDateTime: 2021-07-14T07:21:00Z
-    webUrl: "https://www.technologyrecord.com/Article/driving-customer-loyalty-with-analytics-and-ai-124849"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 39
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10401/img-iStock-923079848.jpg"
-        width: 940
-        height: 443
-        isCached: true
   - title: "Why AI and analytics are the answer to tax authorities’ questions"
     excerpt: "But how is it that EU tax authorities and organizations stand to benefit from AI and analytics? Inside, access this white paper to explore how a decision intelligence system can help the public sector identify tax fraud when it happens,"
     publishedDateTime: 2021-07-18T06:59:00Z

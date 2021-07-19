@@ -71,20 +71,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
-    excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
-    publishedDateTime: 2021-07-14T08:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "USF-developed AI system unites global agencies to identify emerging infectious diseases, receives support from Microsoft"
     excerpt: "Leadership in providing with the public consistent projections of COVID-19 infections and hospitalizations has prompted the launch of a USF-led global modeling project sponsored by Microsoft that can ultimately help scientists more swiftly identify and respond to the threat of emerging infectious diseases."
     publishedDateTime: 2021-07-14T19:52:00Z

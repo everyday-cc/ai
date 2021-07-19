@@ -3,8 +3,8 @@ category: news
 title: "Anthony Bourdain Documentary Used AI To Fake His Voice"
 excerpt: "A new documentary about late celebrity chef Anthony Bourdain utilized artificial intelligence to recreate his voice, spurring a debate about the ethics of this practice. In an interview with The New Yorker,"
 publishedDateTime: 2021-07-16T21:58:00Z
-originalUrl: "https://www.huffpost.com/entry/anthony-bourdain-documentary-artificial-intelligence-voice_n_60f1f79ee4b01f1189597cbc?ncid=tweetlnkushpmg00000067"
-webUrl: "https://www.huffpost.com/entry/anthony-bourdain-documentary-artificial-intelligence-voice_n_60f1f79ee4b01f1189597cbc?ncid=tweetlnkushpmg00000067"
+originalUrl: "https://www.huffpost.com/entry/anthony-bourdain-documentary-artificial-intelligence-voice_n_60f1f79ee4b01f1189597cbc"
+webUrl: "https://www.huffpost.com/entry/anthony-bourdain-documentary-artificial-intelligence-voice_n_60f1f79ee4b01f1189597cbc"
 ampWebUrl: "https://m.huffpost.com/us/entry/us_60f1f79ee4b01f1189597cbc/amp"
 cdnAmpWebUrl: "https://m-huffpost-com.cdn.ampproject.org/c/s/m.huffpost.com/us/entry/us_60f1f79ee4b01f1189597cbc/amp"
 type: article
@@ -481,6 +481,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "JGJx7hpPWAnZiVsk3qyX3LPd4TvHsSSXlc4kolbbpIw0QfvyGhoJppUsYGmmzXOvzifcX27PM9U16XqqMB3ILMRaovs+4RcoVE05mgEqw4YZX2rP2kBMAhB4s8TPaGz8AE/AUEEsYoypSogCU4cBm3TS98efr3+AcPV1Pt82U+MCbg6YVORKBidvmIT8gMtmHx+wMx7AB0OISWs2WvWgPzr4xr9Y6WPzCsNxqv11YhPLc5FwXWiHRKKOZKvfATsu1OayG/8Q6n8okmZms3icgAdsp1R0JuKMIxKuHX8eKzClBDQ3AsFWk44ZYIkbWTuzqFFhBEb1mx0OAMVOa5BiE45ZPANmQEWiZkIWCuMl6LP66vjVTDpOuy8d4eQrOJcubeX81Bgpu/4W4yN8vZqRDr5Mhs1LIHeaF2y4RXl3DekS8Chy2Ooz1nTotcWGvhNHIO/OllmUufDZRiSM7TXJOERDM55rxbvc+JSBb1j/AHSmDnDxg8l5ZcqYGzMikLtJWZFv2K9r3ALL2bJWOoLang==;XHY7xmbPcSPp4ksx/C95oA=="
+secured: "BkEQ/wK5QuA5Dt2YDK2M+S86x4O5S4mfpBePmAZzGTZ7ysqydid+9Z5ZFDf1Bp3oSAmJgvcalfBjvmlupfdMGC96lR45+SlSsvSVgpQ/BCXFeyYjMhxlSo574C8VdZ1WVR84vDRHiEiqCatra/JB6afvAg/dj+/E6gTUP/iGKg8JZgkGCMLy4gKWNCf1f0g452h2ZJLqypM8qHbByscWuMfNUJ2XS9oJxaY7mZOF6Mc06A2H2kAshP7Ful0Xxu8ZRILfO2KHexRkgQYMANZOPmmakfBX/Qqkw47RUZuRhJ0oWI+jCpOqlveGMzNNFqVY4npwGHWybB3XeHkZu8KWOcbRkhWff4gGCYFx6A5ZQyU=;ZrgD0qeNZvxWnBhr2EE/EA=="
 ---
 
