@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
 type: article
 quality: 89
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgyNDgzNDUxNjMzNDc2NzM5/section-hero-carnival2x.jpg"
         width: 620
         height: 301
+        isCached: true
+  - title: "Tesla launches subscription plan for Full Self-Driving package"
+    excerpt: "Tesla has launched a new $199-per-month subscription plan for its Full Self-Driving package. Previously, Tesla owners would have had to purchase the Full S"
+    publishedDateTime: 2021-07-19T16:09:00Z
+    webUrl: "https://www.consumeraffairs.com/news/tesla-launches-subscription-plan-for-full-self-driving-package-071921.html"
+    ampWebUrl: "https://www.consumeraffairs.com/amp/news/tesla-launches-subscription-plan-for-full-self-driving-package-071921.html"
+    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/tesla-launches-subscription-plan-for-full-self-driving-package-071921.html"
+    type: article
+    provider:
+      name: ConsumerAffairs
+      domain: consumeraffairs.com
+    quality: 59
+    images:
+      - url: "https://media.consumeraffairs.com/files/news/Tesla_logo_on_steering_wheel_JasonDoiy_Getty_Images.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Tesla Mobile App Update Includes $199 Monthly Self-Driving Subscription"
     excerpt: "Tesla plans on offering a new subscription version of its Full Self-Driving package with several features for self-driving cars including navigating on autopilot, autopark and other things, a report from Electrek says."

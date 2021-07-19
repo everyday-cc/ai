@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f4e028fd4663e416aa1ed1%2F0x0.jpg%3FcropX1%3D216%26cropX2%3D2936%26cropY1%3D0%26cropY2%3D2039"
@@ -146,6 +147,6 @@ related:
       domain: detroitnews.com
     quality: 4
 
-secured: "zBz6pivlulFlcZWYh3vqrOoLuwycqfyLCMYTahOHqoCCkGpOHOZIo1kt/XkZn17FRLFbHmc9K8dc+BFT1rI/DXz9YrICXmZs2iByNZIwkc7mOPt/re6fayK45loQqngFYcYjzHNID9ok9Bmxk9ZzkfmgcE9qenvfdEg5LrC6dlavgrZFGEKZYAYc137M5O+PjeqJzQJvcKcZ2YhBHCmxPvMg7CSOtStUux1GP5LOy7Me90boiLULc4dUS8JXr3trT9kyennpBabPMWV9kdSaJBhJtuSBbTyQcwPbfSn8uBapm8ZAhxftfG6HcvoOLdqiMiN5tYSbgsFaNNKNpwTb8oyx+oP5Qu/ovVhFX5NeuTE=;sZ21BFD9siXt/HO3dkii3Q=="
+secured: "O9G82+BgMlDo3JP+B7ZgtBxLFREo4naj6Pdc0uODvBxFoEWzTMq/Y65BvXb2eNZgJYdOoPoQUXGAc1k/4zTPG7I4VWCTqflz+190EliJFEk6mPOEDDkD0YmnD5Qb8KFm2kZTHLnPEPnVfAZRktk2ZumpwgL8wt1/8k/Um/RlBzMA9QiPglL+bq+WsNlEVaMENVsdSEJC16akDOkAlh0qDkA/A3u2+B7Eai0233LFL0EOHN4mF8pTfhxmOkVIlNRhLEUMU6QvGh7kuuD7AtAeqUvUF6vLuraA305ZnFVn8IhIBy9yC+oDLxK3oVKn4qvxr275yBfGzDS4+WhvOchz6vOfspyLffgGqqtK/kRHgR9xIFJiB2NK+VMHaOSx0oE9DxOC9AMYlyeCqdAQkZnoHP+6pmm/JIgt5LkEBRrktbbVRwVqYoSfV+E4PdIJ77Go1/SyFkBSgapOnQeB+n6NzfJKbYiTroVSNOloNsZJDK7+0rh4CcVLAlkVSjprIbhWHMGitokBPgGPR/LB9sOCag==;m5eZB2KvM2aRrvc/UfJXRQ=="
 ---
 

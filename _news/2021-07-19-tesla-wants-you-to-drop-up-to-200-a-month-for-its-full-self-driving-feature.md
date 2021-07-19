@@ -169,6 +169,22 @@ related:
         width: 620
         height: 301
         isCached: true
+  - title: "Tesla launches subscription plan for Full Self-Driving package"
+    excerpt: "Tesla has launched a new $199-per-month subscription plan for its Full Self-Driving package. Previously, Tesla owners would have had to purchase the Full S"
+    publishedDateTime: 2021-07-19T16:09:00Z
+    webUrl: "https://www.consumeraffairs.com/news/tesla-launches-subscription-plan-for-full-self-driving-package-071921.html"
+    ampWebUrl: "https://www.consumeraffairs.com/amp/news/tesla-launches-subscription-plan-for-full-self-driving-package-071921.html"
+    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/tesla-launches-subscription-plan-for-full-self-driving-package-071921.html"
+    type: article
+    provider:
+      name: ConsumerAffairs
+      domain: consumeraffairs.com
+    quality: 59
+    images:
+      - url: "https://media.consumeraffairs.com/files/news/Tesla_logo_on_steering_wheel_JasonDoiy_Getty_Images.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Tesla Mobile App Update Includes $199 Monthly Self-Driving Subscription"
     excerpt: "Tesla plans on offering a new subscription version of its Full Self-Driving package with several features for self-driving cars including navigating on autopilot, autopark and other things, a report from Electrek says."
     publishedDateTime: 2021-07-19T01:48:00Z
@@ -288,6 +304,6 @@ related:
         height: 1136
         isCached: true
 
-secured: "W6+lVsxJyLTRU1dzTuDNX2bJPkLNHjkf2zSBPXK2IsEZtZa/wm200m0rHmFGIFr7FPyMDiyukwRCYkd9v28QLPN1pWxTLJmt2uey5nw5+8syZfbiDl9gHqHzPVFRCHxzaD5+D/40n5oX2SZQFMyKEjRa3aCZ1fXb3onvRy6JjR2Wyzxo74abMROxptnrHbTm/aP8AESdQeKHujH9Leki+Wzen6p02JyVKYQFkr0k3xZvlkyXBeEg449dxrQ3quUsXfzF9PhgTdi9pQmY3syJXYbfyassY4NyzVoYCGn+USzVdKg4+HVsLtKr7efOHS6rdFXfwEKWECgLk8fNYyk//Vb4fAcrCx0NsWXxuymDQx8=;YtAyChXoXBEdms3HzBgN5w=="
+secured: "NUVyiEccHcd2m7yo9sZzjXn7PV7KsvFbfDJBudEgLxpSeEBC36PCvB5b1HAmgF2GMQ4C6nd/O67NLvbUIPW0aqF5eixX8PBedhZ6Q211sHNHGmA4PzPJoxnTTBKmJI6zIp+/Enf5x3AIVVeKIgSOdBc/itfwrtbn+HNJvRTywqcB0UOjF/yhczeiq+RZe0aJC6INp2Aun37U4icMMYangW5kYXsZNUh7/YZYPRcSWiXQQkxOyx3C4HjmcyCGdBFlL28oiXwG8tiRXvt0zOwQO4Xlc14qnj8FT8AO/I3+VJ036whiBGwun7ZrYpBZs/V4bXP6AFMc9sYMHpEgnA2Kc2WWolEZiKOm4ZaiESQ7UM0L2YYTkOFh7g/4lmOOGx9YM1/qM//MhY0M4LmLgZJRl7iX4CCIQ6NEpGeWmzwxcTK9O7lo8+JUGZHiS8ofjRXQEk1bFTFXzeqOgSrnsuu80CC573tv2KtKVuKzX/v649Av7Te/jSq6iEwmnz65HEZyGUVDb1Lw66qLs/ba9j+lpQ==;lr04OrSLbHTLqQ2i+uzjBg=="
 ---
 

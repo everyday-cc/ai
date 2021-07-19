@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-a
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.cs.cmu.edu/sites/default/files/CMU_Libraries_RoboticsProject_KateBarbera_TrojanCockroach-Web.jpg"
         width: 800
         height: 1200
+        isCached: true
+  - title: "Carnegie Mellon University Launches The Robotics Project"
+    excerpt: "This is the world's first attempt to preserve and promote the legacy of the field and the go-to repository for the past, present and future of robotics."
+    publishedDateTime: 2021-07-19T15:49:00Z
+    webUrl: "https://www.cmu.edu/news/stories/archives/2021/july/robotics-project.html"
+    type: article
+    provider:
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 54
+    images:
+      - url: "https://www.cmu.edu/news/stories/archives/2021/july/images/robotics-project-trojan-cockroach-barbera-600x900.jpg"
+        width: 600
+        height: 900
         isCached: true
   - title: "Team At Carnegie Mellon University Develop Four-Legged, Real-Time Learning Robot"
     excerpt: "That’s probably the best way to describe the new artificial intelligence robot from Professor Deepak Pathak that he developed with a research team at the school. The four-legged robot learns to adapt in real-time,"

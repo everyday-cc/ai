@@ -134,20 +134,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 23
-  - title: "Cognitive Computing Materials Market Forecast Report | Global Analysis, Statistics, Revenue, Demand and Trend Analysis Research Report by 2027"
-    excerpt: "Market Expertz latest study, titled ‘Global Cognitive Computing Materials Market,’ sheds light on the crucial aspects of the global Cognitive Computing Materials market. The Cognitive Computing Materials report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027)."
-    publishedDateTime: 2021-07-15T00:00:00Z
-    webUrl: "https://manometcurrent.com/cognitive-computing-materials-market-forecast-report-global-analysis-statistics-revenue-demand-and-trend-analysis-research-report-by-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Cognitive-Computing-Materials-Market.jpg"
-        width: 750
-        height: 350
-        isCached: true
 
 secured: "IL9yrqRDW7FF+Hi0IO3IIra3jhes/Ty6cuX/E8a6+gaKj17Dz/PgWhwREd/+IFYsVdGGpJsqDPvc7YfSAYbcm21CCv4JKFl7USqHgPfJ4nGhgOeklbqZ0mS6QbnvCaFOFFeucH1mENhvoQ5M1iVwQAlYaNvyyTWKozmlzv3hcxF6KGdMPFJe7Iu3YYLqnvhDKX6t9phNLfFAUZKeMvZDwxK7C+ZA3iw0Uybk8/TrLF3r8exK1i7r4crY/B4mH5svqkkHaCABGhMUPPyLlKkdjfgjurS2yYGWw//4Z9GUnRZaqQHP10bGs0RgqWvqI+SqIZU9dEURIA7qPUQ0CN+fql4whKIMgkawDviDW6KQ05fUbEh6RBGYSKkhckBLxCQNVZ+TxOpq4qb20JccJlWLDMerd/OQxTTqz7VGwqzu3jIrjXDJIBFEdmndoXmKB4xuwyr9P5+sJLpuur2soCtv8AzfKoyvZPSaU2ZWniyBj4isNFGHbBBTY97ejz3fhJrn9il7UmpZa06BwH4u+zdeWQ==;MW5lqv2h65ioT8JeQ0zzYA=="
 ---

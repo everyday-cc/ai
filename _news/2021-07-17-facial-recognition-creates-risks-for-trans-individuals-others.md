@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/products/facial-recognition-creates-risks-fo
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others?_amp=true"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Government Technology
@@ -28,45 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "Congress Asks Experts for Guidance on Facial Recognition"
-    excerpt: "Law enforcement uses facial recognition systems with little oversight and, at times, disastrous impact. During a congressional hearing this week, members and experts talked through how new laws could head off greater harm."
-    publishedDateTime: 2021-07-14T23:15:00Z
-    webUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true"
+  - title: "Morning Update: Ottawa tested facial recognition on millions of travellers at Toronto’s Pearson airport in 2016"
+    excerpt: "In an effort to identify potential deportees, the federal government quietly tested facial recognition technology on millions of unsuspecting travellers at Toronto’s Pearson International Airport in 2016."
+    publishedDateTime: 2021-07-19T11:05:00Z
+    webUrl: "https://www.theglobeandmail.com/canada/article-morning-update-ottawa-tested-facial-recognition-on-millions-of/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/canada/article-morning-update-ottawa-tested-facial-recognition-on-millions-of/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-morning-update-ottawa-tested-facial-recognition-on-millions-of/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 61
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/9451d55/2147483647/strip/true/crop/1095x571+18+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F67%2F8b%2Fbf2467764012829abc8b9b917271%2Frw-better.png"
-        width: 840
-        height: 438
+      - url: "https://www.theglobeandmail.com/resizer/LZ7TRcy1in4ZHfFkw117-s19Z_8=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/HOBCCSJKORACNPXULGLJYLHFCY.JPG"
+        width: 760
+        height: 507
         isCached: true
-  - title: "Some states reject facial recognition for police, but a groundswell may be building"
-    excerpt: "SIA notes that measures calling for significant restrictions on biometric surveillance in 17 U.S. states have so far gone nowhere this year."
-    publishedDateTime: 2021-07-15T17:46:00Z
-    webUrl: "https://www.biometricupdate.com/202107/some-states-reject-facial-recognition-for-police-but-a-groundswell-may-be-building"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
-  - title: "Japan Airlines Implements \"Face Express\" Facial Recognition Technology for International Flights"
-    excerpt: "JAL participated in a successful trial of a new boarding procedure called, “Face Express ” that utilizes facial recognition technology developed by Narita International Airport Corporation (NAA) and Tokyo International Airport Terminal Co."
-    publishedDateTime: 2021-07-16T13:24:00Z
-    webUrl: "https://www.aviationpros.com/airlines/press-release/21230680/japan-airlines-co-ltd-jal-japan-airlines-implements-face-express-facial-recognition-technology-for-international-flights"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 21
   - title: "Study: Facial recognition for e-voting not currently recommended"
     excerpt: "Adding facial recognition technology to e-voting is feasible but there are additional risks that may not outweigh the benefits, a study by the State Information Systems Authority (RIA) and Cybernetica has found."
     publishedDateTime: 2021-07-15T07:07:00Z

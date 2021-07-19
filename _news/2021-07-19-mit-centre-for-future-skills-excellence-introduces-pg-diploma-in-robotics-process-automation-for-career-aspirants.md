@@ -1,27 +1,27 @@
 ---
 category: news
 title: "MIT Centre for Future Skills Excellence introduces PG Diploma in Robotics Process Automation for Career aspirants"
-excerpt: "MIT Centre for Future Skills Excellence, MIT Art, Design & Technology University Pune has introduced a new post-graduate diploma in"
-publishedDateTime: 2021-07-19T14:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/mit-centre-for-future-skills-excellence-introduces-pg-diploma-in-robotics-process-automation-for-career-aspirants-843757067.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/mit-centre-for-future-skills-excellence-introduces-pg-diploma-in-robotics-process-automation-for-career-aspirants-843757067.html"
+excerpt: "MIT Centre for Future Skills Excellence, MIT Art, Design & Technology University Pune has introduced a new post-graduate diploma in Robotics Process Automation from August 2021 academic session. On the occasion of World Youth Skills Day,"
+publishedDateTime: 2021-07-19T06:42:00Z
+originalUrl: "https://cloud-computing.tmcnet.com/news/2021/07/19/9411318.htm"
+webUrl: "https://cloud-computing.tmcnet.com/news/2021/07/19/9411318.htm"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1576212/MIT_FuSE_MoU.jpg?p=facebook"
-    width: 2000
-    height: 1047
+  - url: "https://mma.prnewswire.com/media/1576212/MIT_FuSE_MoU.jpg"
+    width: 400
+    height: 227
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 308
         isCached: true
 
-secured: "xV9LY9fplfhDJbltTSHXYmhGVQkh1Bx/5V/Yb7WVqrw42WJjq/uuvppbfgwIMkHB85pnk4oumohUuiitnvXKgYUoEIj4BhzI5gr9hevscOHIT15zn/Eb8GuTtTSXNzGki2ZIR7etSJ0FFWRu1sGplWuY5BmGunar/ouiiYCwsueCxWo83JVqNmR9KAZ6gd13v67gFZ/e3qnxR94KGZzaAOc5RscgNFL/0ZO8XuCW2eDIPSwpxxJhzHy0QfQbUmmw/7B6RpyD466E01e6sQnboJUl7dXL/eXpTSdMsrnPxoTrcvtBlZqUmimb+fxZXV1KMC5Z3lelDfua6v9OAqhZBJ+3su5JT540CY2Li0TSBHY=;D/H1zs+KpKXTg/q54AkjdQ=="
+secured: "Cg+52cqlabCTQ59H5QNr3pUvbxDQrtPxvmU9WvLEm/N0gESriuJKMpYzD1EX3erF7g+S3FIznRJFfcguPNsQJwi+WCaHmh5caHC5HkpLly6kkkOO3x/sB6TCTMYHg7RzVOVm/MUSQupDPlGODI/CzV9KqYDWO+GES18dbNcdsBGB/E50SrvVNgdWiXThNhb8V9ifKf8X9iNI8YdrXNyZDnSW79jfcoReenVJiGDOmN0vd1vuJ9m5QpVSR+tyez7TZM9Sjp0exBpLmLowuVOrC3/FGPkFssDRnUV50oM9U7z8JtgmCMvvlD+Vf1W0/WvGp8+K4Wff4SfHostzFteX55Y45RGxeOcRbbL858qSg20=;LNRndjl0mBV4uFH2bQvqBA=="
 ---
 

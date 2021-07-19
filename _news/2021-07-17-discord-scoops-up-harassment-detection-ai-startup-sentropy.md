@@ -7,7 +7,7 @@ originalUrl: "https://massivelyop.com/2021/07/16/discord-scoops-up-harassment-de
 webUrl: "https://massivelyop.com/2021/07/16/discord-scoops-up-harassment-detection-ai-startup-sentropy/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "Discord steps up anti-harassment efforts with new AI acquisition"
-    excerpt: "Discord, the online voice and text messaging platform, has purchased the AI anti-harassment company Sentropy in an effort to increase safety on its platform. READ MORE: ‘Sea Of"
-    publishedDateTime: 2021-07-15T00:15:00Z
-    webUrl: "https://www.nme.com/news/gaming-news/discord-steps-up-anti-harrassment-efforts-with-new-ai-acquisition-2993137"
-    ampWebUrl: "https://www.nme.com/news/gaming-news/discord-steps-up-anti-harrassment-efforts-with-new-ai-acquisition-2993137?amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/discord-steps-up-anti-harrassment-efforts-with-new-ai-acquisition-2993137?amp"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 157
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2021/01/discord.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
 
 secured: "UGeDS5rVKsMY7KGwxXDzifeW9A7TBY0uTGtAHzl+f3HjT5Vq/4HwQ3On1V8B57olT2iK4p3n6Vs0rdT4BWpcGrRHSatARG2NInzof7isTy36iMfMKSpxctcnaxS7raEYUqUDfzs+8D7PmQ2P0KRTZolFJ8CmXxVzbTt0W8LkFbeCi5MxoHWAji3XQCGbgHEBYa2FcRuMh227nmDPHlsAUzfB7wNVuGAcNpLUo4Uh/GD4006GhfS3TupQ7hJgyL1fDXWqJZAMTxiZ9gnR5mQHbeQqwtwrG+66BDBGuv8JBJPdyVVlJUG4EcW6UhY9zh/BZAfNxVVLwXKA4OEwAyXfY/8O9eYu4tMXJGsSufxlEd4=;medr5R3kKO5/xvgdHQVDLg=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Lil Miquela and the rise of the robot influencer"
-    excerpt: "We’re entering a mystifying new world occupied by robot influencers, Bitcoin bros and racist artificial intelligence. Extremely Online, a new web series from Shit You Should Care About is here to help"
-    publishedDateTime: 2021-07-15T00:13:00Z
-    webUrl: "https://thespinoff.co.nz/society/15-07-2021/lil-miquela-and-the-rise-of-the-robot-influencer/"
-    ampWebUrl: "https://thespinoff.co.nz/society/15-07-2021/lil-miquela-and-the-rise-of-the-robot-influencer/?amp"
-    cdnAmpWebUrl: "https://thespinoff-co-nz.cdn.ampproject.org/c/s/thespinoff.co.nz/society/15-07-2021/lil-miquela-and-the-rise-of-the-robot-influencer/?amp"
-    type: article
-    provider:
-      name: The Spinoff
-      domain: thespinoff.co.nz
-    quality: 59
-    images:
-      - url: "https://assets.thespinoff.co.nz/1/2021/07/EO_S01_EP1_9A_Spinoff_Hero_Image.png"
-        width: 850
-        height: 510
-        isCached: true
 
 secured: "NDL/pWih4w5Ov+6oVdcx/o2M06h0xBsF6QX+RULe4tpUvzu8t7eEicISWbP+91iDuxVCOYLPEY1wKdPhF3rqnReU3Byb9V/7kmIl9vCsyYvlrLFt5Ryp7VZ92jI7i2E69fdjfAUzr7X2hNP0LHBkCgh2GAaCWZxl9WyhPlWSsHY5P7ivvsU9b7vBLHua9YNYbgRbrloe7vDkUtU4Op7K6k4ha9xelCfqwAGGl3TUAKcOhXeibCr7Js9zs2GJsKL5XYG6EAqilfnaIag6mU2VcmPAMnhEza+VqydK6gDbj1pdgYFgddy+t0hBCdg5L7AHuha3ElFZDyIGxzE0HEiiW9IJfS3PHjhAy5OHG8faHs4=;BD2q7rAPQE4MvR7YGu6jBw=="
 ---

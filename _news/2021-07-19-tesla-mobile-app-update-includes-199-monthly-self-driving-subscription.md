@@ -171,6 +171,22 @@ related:
         width: 620
         height: 301
         isCached: true
+  - title: "Tesla launches subscription plan for Full Self-Driving package"
+    excerpt: "Tesla has launched a new $199-per-month subscription plan for its Full Self-Driving package. Previously, Tesla owners would have had to purchase the Full S"
+    publishedDateTime: 2021-07-19T16:09:00Z
+    webUrl: "https://www.consumeraffairs.com/news/tesla-launches-subscription-plan-for-full-self-driving-package-071921.html"
+    ampWebUrl: "https://www.consumeraffairs.com/amp/news/tesla-launches-subscription-plan-for-full-self-driving-package-071921.html"
+    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/tesla-launches-subscription-plan-for-full-self-driving-package-071921.html"
+    type: article
+    provider:
+      name: ConsumerAffairs
+      domain: consumeraffairs.com
+    quality: 59
+    images:
+      - url: "https://media.consumeraffairs.com/files/news/Tesla_logo_on_steering_wheel_JasonDoiy_Getty_Images.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Tesla makes Full Self-Driving available as $199 monthly subscription"
     excerpt: "Tesla is making its pricey Full Self-Driving (FSD) electronic driver-assist feature available as a subscription. FSD is being offered as a $199 monthly subscription for cars equipped with Basic Autopilot and $99 when Enhanced Autopilot is equipped."
     publishedDateTime: 2021-07-19T12:45:00Z
