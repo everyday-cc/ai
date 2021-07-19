@@ -123,20 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global CNC Machine Tools Market 2021 Growth Analysis, Industry Trends, Sales Revenue, Future Development Status and Forecast by 2026"
-    excerpt: "Global CNC Machine Tools Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 recently introduced by MarketsandResearch.biz offers a fundamental examination of the market covering the examination of subjective points that is prepared to display key market information of learning to the pursuers."
-    publishedDateTime: 2021-07-14T11:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cnc-machine-tools-market-2021-growth-analysis-industry-trends-sales-revenue-future-development-status-and-forecast-by-2026-2021-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2021 Artificial Intelligence (AI) In Drug Discovery Market Size, Revenue, Growth Development, Opportunities, Trends, Forecast To 2030"
     excerpt: "Artificial Intelligence for drug discovery is a technology that uses ... Located globally it has specialist consultants in a wide range of industries including manufacturing, healthcare, financial services, chemicals, and technology. The World’s Most ..."
     publishedDateTime: 2021-07-15T04:51:00Z
@@ -157,34 +143,6 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/LLL-6-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Edge Artificial Intelligence (AI) Software Market Segmentation, Industry Analysis By Production, Consumption, Revenue And Growth Rate By 2028"
-    excerpt: "Increasing art of AI applications and rapid introduction of 5G network are key factors driving revenue growth of the global edge Artificial Intelligence (AI) software market Market Size – USD 585.1 Million in 2020,"
-    publishedDateTime: 2021-07-14T11:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-segmentation-industry-analysis-by-production-consumption-revenue-and-growth-rate-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/LLL-6-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Deep Learning System Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2028"
-    excerpt: "Rising adoption of cloud-based technology and increasing usage of deep learning systems in big data analytics is driving growth of the market Market Size – USD 6.59 Billion in 2020, Market Growth – at a CAGR of 39."
-    publishedDateTime: 2021-07-14T11:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-system-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 14
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/LLL-6-600x337.jpg"
         width: 600

@@ -3,12 +3,9 @@ category: news
 title: "Y Combinator co-leads $1.9m seed round of ex-Googlers’ AI startup"
 excerpt: "Fountain9 will use the funds to improve its demand-sensing AI engine and strengthen its product offerings as well as its expansion into global markets."
 publishedDateTime: 2021-07-07T09:51:00Z
-originalUrl: "https://www.techinasia.com/y-combinator-coleads-19m-seed-round-exgooglers-ai-startup?ref=recommender-694269"
-webUrl: "https://www.techinasia.com/y-combinator-coleads-19m-seed-round-exgooglers-ai-startup?ref=recommender-694269"
+originalUrl: "https://www.techinasia.com/y-combinator-coleads-19m-seed-round-exgooglers-ai-startup"
+webUrl: "https://www.techinasia.com/y-combinator-coleads-19m-seed-round-exgooglers-ai-startup"
 type: article
-quality: 47
-heat: -1
-published: false
 
 provider:
   name: Techinasia
@@ -21,24 +18,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "AI-led startup Fountain9 gets $1.9m funding"
-    excerpt: "The funding to enhance their demand sensing engine's intelligence, strengthen their product offerings, and expand into global markets."
-    publishedDateTime: 2021-07-07T15:10:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/ai-led-startup-fountain9-gets-19m-funding/article35197456.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/ai-led-startup-fountain9-gets-19m-funding/article35197456.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/ai-led-startup-fountain9-gets-19m-funding/article35197456.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: "https://bl.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
-
-secured: "HrCZfH8mhTTQKUFBLsP0yaA3k0dKps+cApk6tOhA1Ogb97MONYorbgccGH9+VWhAWUPT91A1DFxdNcnTFyuhdjUhWpvcpEydwuA3ykFtHqu5vAv6RqOLFEZy7hBFZcztASiB19iuXZIgoa5XGM7nYOWSY0Agy8+vsvZi1YJ9U7rsYdg9OdZHEaZbkx2p/qsxO3gMdJYkb0hIxP7e6ho4jP420Sak1Ith/I1K+P5eQT4qcjcaepX2UFxLE/OAr2tJpreex00sjydCYMnP6otOnZDYVa3/4CHomhTYgjq7GedyfPpAwJlU7kQrvpSicW3hQql4ErM/h3MP/TpUZSOTZUrTbC8Yc6lPfLuUVtAAP0XEXA1yd7Bay74N0X3GwyZQSzP3MtZvKTbEDnbBNr4IQf4UNnHPvhveNdSp0r8tslGqXPINkrFihbZqhhg+A48hrAEGabhp9CIdEDm/QUwUvPjJw0h2531IYb964/Zf8+NB43DUB8BRKE9uabz4OE47APIkRvPLJWAIgEJQeGu0Ww==;N/M/MqjEtH2hLQBFWG+T+A=="
+secured: "I2AruoTH7JjmOYi8tHEnIU82QxfehJOZEXLPmjSMKceU9baraV98+G1qjGDEekEXv0zjQ8vxVWuY487DOXLRiXbAs/fYoVi6VXTF/9SmpGseO8wkzJqYYxFbGcZo3nzD2cA/R3P6i6qey+IZuyp+qmBXh7o9qoi6jRinFiV3i/qYtTFp4fqGG75sY0ao1TMBljrOZT4ZDelRod0XOPNXlpGpehCTCVxoLota6h4JAA43RcLhEXQwvpTCyUbzxnuVBk6QDkKEaWjOEAdwBYmFtbN7fgQdvU8/tebwXi4BsEcvpNQXyKXvFwmRlt8SBL0T/qFo7778eCc9X4SfMip7NK9NXOWqIpKbqjqDGSOzLPsh/9D5j8E4WScZ2p7eUoOwYOHwqt5t5mnLo9wgRTLVcQHoFd0n1ZxnyhS4+qdviMWOXg/hxJtZswZ26yP0oYbYE+fpc0PSNUE37o0Z/ETGBFRACRbVbTk38qGVnfqUJXbgo7q5TxWL/tfbvFobkdHFOSFDhl+ljAxD4UszBpWrMA==;OZOM3lm4j5bgiNgD9/a1Gg=="
 ---
 

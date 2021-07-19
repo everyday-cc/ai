@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15"
 type: article
 quality: 84
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "QpiAI launches a global AI and quantum marketplace"
-    excerpt: "With the Marketplace, highly skilled students and professionals will be able to participate and benefit in the commercialization of AI and Quantum solutions."
-    publishedDateTime: 2021-07-14T12:26:00Z
-    webUrl: "https://www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314.html"
-    ampWebUrl: "https://www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-101626264598314-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/img/2021/07/14/1600x900/8-2_1626265340161_1626265367688.jpg"
-        width: 1600
-        height: 899
-        isCached: true
   - title: "QpiAI launches a global AI and quantum marketplace"
     excerpt: "With the Marketplace, highly skilled students and professionals will be able to participate and benefit in the commercialization of AI and Quantum solutions."
     publishedDateTime: 2021-07-14T23:01:00Z

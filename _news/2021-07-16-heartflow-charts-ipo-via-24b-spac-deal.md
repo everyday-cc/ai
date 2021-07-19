@@ -7,7 +7,7 @@ originalUrl: "https://www.bioworld.com/articles/509379-heartflow-charts-ipo-via-
 webUrl: "https://www.bioworld.com/articles/509379-heartflow-charts-ipo-via-24b-spac-deal?v=preview"
 type: article
 quality: 122
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "HeartFlow to go public in $2.8B SPAC merger"
+    excerpt: "HeartFlow said that it will go public by merging with a SPAC called Longview Acquisition Corp. in a deal worth $2.8 billion."
+    publishedDateTime: 2021-07-15T15:03:00Z
+    webUrl: "https://www.massdevice.com/heartflow-to-go-public-in-2-8b-spac-merger/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 24
+    images:
+      - url: "https://www.massdevice.com/wp-content/uploads/2021/07/heartflow-logo-updated.png"
+        width: 770
+        height: 500
+        isCached: true
   - title: "A half-billion dollars later, Peninsula company goes SPAC route to roll out its AI-based heart test"
     excerpt: "How HeartFlow hopes a SPAC merger will help it expand uptake of its #heartdisease test, save money for health care providers and lead to better diagnosis and treatment for patients $HFLO $LGV"
     publishedDateTime: 2021-07-15T21:15:00Z

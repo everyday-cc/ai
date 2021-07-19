@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla launches Full Self-Driving subscription package that costs $199 per month"
+    excerpt: "Tesla, one of the leading electric car manufacturers, has officially launched its Full Self-Driving (FSD) subscription which costs $199 per month. Those who previously bought the Enhanced Autopilot package will get it for $99 as the package is now discontinued."
+    publishedDateTime: 2021-07-19T04:57:00Z
+    webUrl: "https://www.gizmochina.com/2021/07/19/tesla-launches-full-self-driving-subscription/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 65
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/Tesla-Model-S.jpeg"
+        width: 2880
+        height: 1800
+        isCached: true
   - title: "Breaking: Tesla Releases Full Self-Driving Subscription"
     excerpt: "Tesla has finally released the long-awaited subscription option for their Full Self-Driving feature. Here are the details."
     publishedDateTime: 2021-07-17T06:40:00Z
@@ -183,15 +197,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "BxVideo's New EZLive Caption Offers Self-Service Transcription, Translation and Captioning for Live-Streaming Video Events"
-    excerpt: "BxVideo, a leader for live-stream video services and products, today announced EZLive Caption, a subscription-based web-service that automatically transcribes, translates and captions live streaming video."
-    publishedDateTime: 2021-07-14T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/14/9409013.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "43zyg/nTtWSYAucbv1oRB9F3hyTsjEiJSK1oNVSOI5rBy3U1mJ442Z+bFRSxAq3ovw7gn0cY0UsylZ8zFLu8i7u96drlWEAFnDu1Z4YLcShVWznzKuYdClhhpvUxwAjrLYK/gbbvshyyKYKi5ij+a1Kpg2chkf5a5qD9q74Bi3/w9wWLhocxanlLGauPHEkDHxD0PdPW5SCfXgoSBNnRBhYaeL52VgLRBpCFrM0nNRvoM5PAVTRkAqWAEpK89wTOBctPelQUtCBTxbOl8x6tQTY93+xdrxoEMklLtIPhYJ8fKXu0eshzHN8oXG+1XHxgEkAcDCj8kJ26wohDkACgzcA96FpPW2xhaS3l9Hmk0wA49fXRr/Q0QJJa7DVgDyVBYYpFJPh1ICPdFQoMX/IbNHNRzHIIE2bfXCLTLoHTo2+3Da+aH6RoYhJByOKdzlWML0eeYRx2yQUR03dju9XecnKeDab8Bu7fup1jRYAICCoHMSVWAfnq9TrcsoVtKZAJ4se26l7vK+C2l5n5ynXFjg==;6eZVkcq++bTx13NyQx2M0Q=="
 ---

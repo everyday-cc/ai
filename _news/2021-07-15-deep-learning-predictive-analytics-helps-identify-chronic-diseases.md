@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Security & Safety Things launches smart cameras with Artificial Intelligence infused video analytics for fire and safety prevention"
+    excerpt: "As global demand for produced goods continues to climb, manufacturing organisations are facing new challenges in meeting customer demand and elevated safety concerns along the supply chain due to"
+    publishedDateTime: 2021-07-19T05:39:00Z
+    webUrl: "https://www.sourcesecurity.com/news/security-safety-launches-smart-cameras-artificial-co-1538138049-ga.1626444969.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/security-safety-launches-smart-cameras-artificial-co-1538138049-ga.1626444969.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/security-safety-launches-smart-cameras-artificial-co-1538138049-ga.1626444969.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 44
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/security-safety-things-focus-on-smart-cameras-with-ai-to-enhance-airport-security-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
   - title: "Why AI and analytics are the answer to tax authorities’ questions"
     excerpt: "But how is it that EU tax authorities and organizations stand to benefit from AI and analytics? Inside, access this white paper to explore how a decision intelligence system can help the public sector identify tax fraud when it happens,"
     publishedDateTime: 2021-07-18T06:59:00Z
@@ -85,15 +101,6 @@ related:
         width: 1280
         height: 1280
         isCached: true
-  - title: "Five9 Extends its Practical AI Solutions for Low-Code Development, Voice Biometrics, Real-Time Analytics and Agent Coaching"
-    excerpt: "Our new capabilities make it easier for organizations to build and manage AI solutions that will enable human and digital teams to deliver next-generation customer care.” To ease the deployment of self-service channels,"
-    publishedDateTime: 2021-07-14T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/five9-extends-its-practical-ai-solutions-for-low-code-development-voice-biometrics-real-time-analytics-and-agent-coaching/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
   - title: "GoodData and Vertica Partner to Accelerate Cloud-Native Self-Service Analytics Adoption in the Enterprise"
     excerpt: "GoodData, the leader in Data as a Service (DaaS) analytics infrastructure, today announced a strategic partnership with unified analytics platform provider Vertica. In a newly integrated product offering,"
     publishedDateTime: 2021-07-15T13:04:00Z

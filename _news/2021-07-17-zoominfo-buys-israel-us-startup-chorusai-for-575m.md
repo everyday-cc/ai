@@ -7,7 +7,7 @@ originalUrl: "https://en.trend.az/world/us/3456899.html"
 webUrl: "https://en.trend.az/world/us/3456899.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "ZoomInfo acquires Israeli startup Chorus.ai for $575M cash"
-    excerpt: "Israeli startup Chorus.ai had only raised $100M in VC funding but was sold for much more than that... Among the trove of funding rounds, IPOs, and talk of establishing Israeli companies for the long run,"
-    publishedDateTime: 2021-07-14T11:32:00Z
-    webUrl: "https://www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai-for-575m-in-cash-money/"
-    ampWebUrl: "https://www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai-for-575m-in-cash-money/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/zoominfo-acquires-israeli-startup-chorus-ai-for-575m-in-cash-money/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 57
-    images:
-      - url: "https://www.geektime.com/content/images/2021/07/Screenshot-2021-07-13-at-14-16-43-Chorus-ai-Conversation-Intelligence-for-Sales-Teams-1626175017.png"
-        width: 900
-        height: 506
-        isCached: true
   - title: "ZoomInfo To Acquire Conversation Intel Platform Chorus.AI For $575M"
     excerpt: "Chorus.ai developed a conversation intelligence platform that transforms conversations into data and insights for high-growth sales teams."
     publishedDateTime: 2021-07-18T12:13:00Z

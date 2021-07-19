@@ -7,7 +7,7 @@ originalUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=293492"
 webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=293492"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -17,33 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Bridgeweave launches AI-powered investment analyst InvestorAi"
-    excerpt: "DIY app covers over 4500 global stocks and 1500 ETFs in 15 markets performing over 800 million calculations every day."
-    publishedDateTime: 2021-07-14T11:47:00Z
-    webUrl: "https://www.dqindia.com/bridgeweave-launches-ai-powered-investorai/"
-    ampWebUrl: "https://www.dqindia.com/bridgeweave-launches-ai-powered-investorai/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/bridgeweave-launches-ai-powered-investorai/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/Advanced-analytics.png"
-        width: 850
-        height: 400
-        isCached: true
-  - title: "Venturous Group leads Series A investment round in AI-collaborated fashion platform, WeStyle.ai"
-    excerpt: "Venturous Group, China's first Citytech™ Group, is establishing a foothold in China's fast-growing US$220 billion online apparel, footwear, bags and accessories market by investing"
-    publishedDateTime: 2021-07-15T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/venturous-group-leads-series-a-investment-round-in-ai-collaborated-fashion-platform-westyle-ai/article_8a55d2c8-736c-5fba-9e7e-0dbceb24f2ef.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 5
 
 secured: "7ahXYnU/qey3m5tLHrRemT3smXF/KJ8fiFCvfouyzzWL49i/hUBP3xWKN090K9RCfamiCnGB11C0E7DnlJjBFEkEr7aeOQOSZ2tiAseXYuCJUDsYlTuLQDelt/nmDuJEW5etjuGajeTDfAbFvvCTcz/tH/scw6yfHkbUd13hR9hrNUc1noWV0ZhQoSsd6GvvZpjJjfu5Y5OwntVI/fFxk0HMQxLGOeUZMjKV5qx9iFJmtQ08fOlo24FL9Iz57j+u0R5l+zEDgUWY6e8T7kJRzjb4Chk5q6ziSknT1xSMocuFj/+jUVgSN3ZRzdpbEZkb9ln6i4fRqpv4cFuISsYUYACC5ZHD8t2zpItSp8fvipY=;nz0pLZQNKh+gv1r3cbykog=="
 ---

@@ -2,13 +2,12 @@
 category: news
 title: "SecDef Austin Commits US To ‘Responsible AI’"
 excerpt: "\"AI is going to change many things about military operations, but nothing is going to change America’s commitment to the laws of war and the principles of our democracy,\" the Defense Secretary said."
-publishedDateTime: 2021-07-13T21:48:00Z
-originalUrl: "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/"
-webUrl: "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/"
+publishedDateTime: 2021-07-13T23:43:00Z
+originalUrl: "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/?_hsmi=140356961&_hsenc=p2ANqtz-9R4IAeqGiYYDBSOMpg49kOGFDJ0HFsTQHOO5UtFszlUKkoTsZIBfbrDcVhbj3XQK_gLYNSHe0XxsExnifazI9mNYS6TQ"
+webUrl: "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/?_hsmi=140356961&_hsenc=p2ANqtz-9R4IAeqGiYYDBSOMpg49kOGFDJ0HFsTQHOO5UtFszlUKkoTsZIBfbrDcVhbj3XQK_gLYNSHe0XxsExnifazI9mNYS6TQ"
+ampWebUrl: "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/amp/"
+cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/amp/"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
   name: Breaking Defense
@@ -18,6 +17,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "aXGIEKCvQ0mCQuRg2tDn9Olh8oFHggDanTVG2adk+OTUyWiEAc12QuVdkrsxLu7JpEz1cuNFPzMlUxLBwXkJUYRkBdral64EGJVHqkrNDLiiv92hIHtV10IsXHhCRcrymGUeBsPMj9hSbazV737tAJDK12+4GPgfNvJwNoNoXPHXNnpWBhCJmAQ2z3sKTmiBqAeJ5oV2F/Z/y+ilwoeC8EYwYYEaSGQIFsiets0numutuS/51pMHL5v3tq5UG8gjhhkd3epdjAW5dxDSO/cGYkQpLAxm2Tfc7gRpRe6syx3vx//CaGpAZ0qlQ43z8/9tRQOfOrZvuQKPdoE9HByJdTZ6MzKir8BQGSma5/IsDW7tWf+O4q+JaxNiBbw95idHOWTduQNc4QzUhtcLdnSpuHO9cu+2RPWc/5ZmhGjUUmkfw6KeaJUFOmJ6YCNIoOAs4WYlBnNsktEXu6/veFCi4osxazN9wMLM5zr9njPnna65o+aeajY6y7C+aQht+REWc44QTXmWqPXSCUVexcBerw==;PCjFWRDt3+j7NrPqAuKq1g=="
+images:
+  - url: "https://sites.breakingmedia.com/uploads/sites/3/2021/07/SecDef-Austin-speaks-on-Artificial-Intelligence.png.jpeg.png"
+    width: 1346
+    height: 672
+    isCached: true
+
+secured: "au5BZzl3iSsS1r7YIZI4fSuuqMhiHm/47Ok5N/6LNYakgDXp5UWprt/4q6tygUwhJBscDYNZJ8OWgV1+VsmoTzszBmZGnMikS2+chdgPrgBrxJgUvIBndBbgqWYPz/COdlYQfzHIMiI8H8pfHS4ASKVtyuug0gt9PZy1EPCb95D4fjPO6OZeRR+g8DwyxCIk8svTLX0linLWJWCVi4uDe/g+MELAMBp+Y2zcaVSloLWpzcbUkpgIYAOdDWGDshe02oI3usTl4RrBF05PPu1zQQxPVxsag7BYQFAPTuwIq6B9lY2NH0rHAk422AU6j4cvD6zvShEu5O/PdwOIKsxe/MVVg8yu1YC4l9qgJvYnVc8=;ORMUZbtzXkl4FJ0nQa903A=="
 ---
 

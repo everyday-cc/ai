@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving startup Aurora to go public in $13 bln SPAC deal"
-    excerpt: "Self-driving technology startup Aurora will go public through a deal with a blank-check firm backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus, giving the combined company a pro-forma market capitalization of $13 billion."
-    publishedDateTime: 2021-07-15T17:39:00Z
-    webUrl: "https://www.reuters.com/technology/aurora-go-public-via-11-bln-merger-with-mark-pincus-reid-hoffman-spac-2021-07-15/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 154
-    images:
-      - url: "https://www.reuters.com/resizer/Xu95E0JZiob2nn0sNFNMHd3_SrU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MA62E5JBJRLM3C7MQOMHMSKXFE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Self-Driving Tech Developer Aurora Raising $2 Billion In SPAC Listing That Values It At $11 Billion"
     excerpt: "Funds from the deal will help the company get its self-driving truck technology ready for commercialization by late 2023."
     publishedDateTime: 2021-07-15T16:17:00Z
@@ -65,10 +51,26 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Self-driving startup Aurora to go public in $13 bln SPAC deal"
+    excerpt: "Self-driving technology startup Aurora will go public through a deal with a blank-check firm backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus, giving the combined company a pro-forma market capitalization of $13 billion."
+    publishedDateTime: 2021-07-15T17:30:00Z
+    webUrl: "https://www.reuters.com/article/aurora-ma-reinvent-tech-y/update-2-aurora-to-go-public-via-13-bln-merger-with-mark-pincus-reid-hoffman-spac-idUSL4N2OR3GU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL1NR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL1NR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1568974646&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E0WH"
+        width: 726
+        height: 545
+        isCached: true
   - title: "Self-Driving Startup Aurora to Go Public Through SPAC"
     excerpt: "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc."
-    publishedDateTime: 2021-07-15T21:53:00Z
-    webUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629?mod=hp_lista_pos4"
+    publishedDateTime: 2021-07-15T17:53:00Z
+    webUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
     ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
     type: article
@@ -139,21 +141,37 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Self-driving startup Aurora to go public"
-    excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y, a blank-check firm led by executives including LinkedIn co-founder Reid Hoffman and Zynga Inc. founder Mark Pincus, people with ..."
-    publishedDateTime: 2021-07-15T13:57:00Z
-    webUrl: "https://www.autoblog.com/2021/07/15/aurora-self-driving-cars-stock-ipo-spac/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/07/15/aurora-self-driving-cars-stock-ipo-spac/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/07/15/aurora-self-driving-cars-stock-ipo-spac/"
+  - title: "'Self-driving Delivery Robot' Caught by Regulations... Concerns Falling Behind in Global Competition"
+    excerpt: "Self-driving delivery robots are developing one after another, but there is still a long way to go before full-scale commercialization due to various outdated regulations. Technology development is sl"
+    publishedDateTime: 2021-07-15T08:23:00Z
+    webUrl: "https://english.etnews.com/20210715200001"
+    ampWebUrl: "https://english.etnews.com/amp/20210715200001"
+    cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210715200001"
     type: article
     provider:
-      name: Autoblog
-      domain: autoblog.com
+      name: Etnews.com
+      domain: etnews.com
+    quality: 46
+    images:
+      - url: "https://img.etnews.com/news/article/2021/07/15/cms_temp_article_15171258715300.jpg"
+        width: 600
+        height: 399
+        isCached: true
+  - title: "AEV Summit: Embark focuses self-driving tech on big fleets"
+    excerpt: "DETAILS: Embark Trucks has the longest experience — five years — of running self-driving trucks on public highways. It is offering a bolt-on software that can go on any manufacturer’s truck. It envisions commercial fleets having the technology by 2024 — with no safety drivers."
+    publishedDateTime: 2021-07-14T18:00:00Z
+    webUrl: "https://www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets"
+    ampWebUrl: "https://www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/aev-summit-embark-focuses-self-driving-tech-on-big-fleets/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
     quality: 44
     images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/979x551+200+231/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/07/15095713/Press-Aurora-Truck-Pacifica.jpg"
-        width: 800
-        height: 450
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/07/AEV_FC_Alan-Adler_Alex-Rodrigues.png"
+        width: 750
+        height: 419
         isCached: true
   - title: "PACCAR, Volvo invest in self-driving tech company Aurora’s $10.6B SPAC"
     excerpt: "Aurora Innovation gets a $10.6 billion enterprise value, the second highest of four autonomous driving software developers seeking to go public."
@@ -205,48 +223,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "HeartFlow to go public in $2.8B SPAC merger"
-    excerpt: "HeartFlow said that it will go public by merging with a SPAC called Longview Acquisition Corp. in a deal worth $2.8 billion."
-    publishedDateTime: 2021-07-15T15:03:00Z
-    webUrl: "https://www.massdevice.com/heartflow-to-go-public-in-2-8b-spac-merger/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 24
-    images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2021/07/heartflow-logo-updated.png"
-        width: 770
-        height: 500
-        isCached: true
-  - title: "Self-driving startup Aurora reaches agreement to go public, report says"
-    excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y, a blank-check firm led by executives including LinkedIn co-founder Reid Hoffman and Zynga Inc."
-    publishedDateTime: 2021-07-15T10:34:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-aurora-reaches-agreement-go-public-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Self-Driving Startup Aurora Set to Go Public"
-    excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y, a blank-check firm led by executives including LinkedIn co-founder Reid Hoffman and Zynga Inc."
-    publishedDateTime: 2021-07-15T15:30:00Z
-    webUrl: "https://www.ttnews.com/articles/self-driving-startup-aurora-set-go-public"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/aurora-urmson.jpg?itok=KfxCRdsz"
-        width: 470
-        height: 246
-        isCached: true
   - title: "Self-driving startup Aurora plans to go public with valuation of $11 billion"
     excerpt: "The company anticipates a total valuation of $11 billion. In a statement, Aurora said it expects to have $2.5 billion in cash at closing, raising nearly $2 billion from the transaction. Aurora is led by CEO Chris Urmson,"
     publishedDateTime: 2021-07-15T14:34:00Z

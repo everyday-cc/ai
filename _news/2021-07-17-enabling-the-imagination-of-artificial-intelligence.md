@@ -39,22 +39,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Enabling the 'imagination' of artificial intelligence"
-    excerpt: "A team of researchers at USC is helping AI imagine the unseen, a technique that could also lead to fairer AI, new medicines and increased autonomous vehicle safety."
-    publishedDateTime: 2021-07-14T12:10:00Z
-    webUrl: "https://techxplore.com/news/2021-07-enabling-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2021-07-enabling-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-enabling-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/15-artificialin.jpg"
-        width: 1920
-        height: 1343
-        isCached: true
   - title: "Researchers Enable AI To Use Its “Imagination” – Closer to Humans’ Understanding of the World"
     excerpt: "A team of researchers at USC is helping AI imagine the unseen, a technique that could also lead to fairer AI, new medicines, and increased autonomous vehicle safety. Imagine an orange cat. Now, imagine the same cat,"
     publishedDateTime: 2021-07-18T20:44:00Z

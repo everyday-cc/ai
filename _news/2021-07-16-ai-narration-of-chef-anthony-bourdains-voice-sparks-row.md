@@ -2,19 +2,23 @@
 category: news
 title: "AI narration of chef Anthony Bourdain's voice sparks row"
 excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-publishedDateTime: 2021-07-16T13:33:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-57842514"
-webUrl: "https://www.bbc.co.uk/news/technology-57842514"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-57842514.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57842514.amp"
+publishedDateTime: 2021-07-16T13:39:00Z
+originalUrl: "https://www.bbc.com/news/technology-57842514?via=indexdotco"
+webUrl: "https://www.bbc.com/news/technology-57842514?via=indexdotco"
+ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
 type: article
-quality: 57
+quality: 87
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -477,6 +481,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "JdZYq2pjwX3nxSFis7+DdnL+y+4jxSFe7WhdTfw/4vzetVwr4ccwPeMbq+AsDT/KGktKtL81+aQPOMVP5Wu9IjBgC48wt6I0CjwwFkO6NF0XoM3Rko+600EbgPFjYkzca6OVuqUNkKJ2eick+u0TvRBK/sNECU1HRyaAKHeNh4YK+HKRYKIi2ss43TDnTOEMeoBT8Bv/glawom14gOSsyrvEJRMlHsF00Y63ZsHckrNlu95yTHs/E60inoRN+ML//B0FBGFEnY/wfYYBu93BFHxTUR+gxMmJ2ty4/FMlwI6ZLM2H+6G8SESVNBfb4/Qp5WKKLiSwEsiehW541AVRwkE2VIvdN7Y2Loe45/uMd7bB1REqwIcOXwuvJ3go9JaYjE9HOfxjdC5pP+LhVkE0+SmSyhp8l1SosgjBBFZgp7oO2yXWJ1mTmxvvW1zLN0WSJ2aDe/PLrr+95hvoA5N4MUffgS7pAx5Yp29Rna4Jbp8GIHy02EmeRISalsWhGhjfaIt+b00GaVuobypQ54/lKA==;eciI7Jw/hzyheoAPV6zYzQ=="
+secured: "HSBoi546y3S2ig3Mf2Rn9sAHb1Eu0oKkc4Xx2Dd8jeQcjW7CWeDkeauZP9EhIKnW0jyM/f07+a5yt+ni5kb/JMNgang+JIK1QLuLZu7wUyaYofUhC9tFi5Y/E2eXxf4pgXgtqMJdN0t19c7KFIRI5Ipf98v/DTriAO9lobG/9UGS0YvILPe4PZhdd+JasuxrTWyBnCiKpkybbMLuJSwXljub7CK09wRA8dAXg+FHG+fm79YadPnPBGrdkeqK45Gg3PDFUmObCJvJzrNzutMdqPxf2qER4PLntSoLL4DjLJFIZB6RpWL/KctjuEwyaxgHUMG5ezHHec0O3M4wXu3MeucIDBI9rhC0ZkDRLFiwXk8=;FrGWqVBhcS0jRzd9Xbi+MQ=="
 ---
 

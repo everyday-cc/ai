@@ -47,6 +47,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Fintech startup Razorpay buys SaaS firm TERA Finlabs"
+    excerpt: "Financial solutions company Razorpay on Monday said it has acquired AI-based risk tech SaaS (software-as-a-service) platform TERA Finlabs for an undisclosed"
+    publishedDateTime: 2021-07-19T04:15:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/articleshow/84543154.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/amp_articleshow/84543154.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/amp_articleshow/84543154.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 44
+    images:
+      - url: "https://www.businessinsider.in/thumb/84543230.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
   - title: "Singapore fintech start-up ADVANCE.AI named in global Fintech Power 50 list in 2021"
     excerpt: "In the past 12 months, ADVANCE.AI was also named in LinkedIn's Top 10 Start-ups in Singapore, awarded \"Best International Fintech\" at India's Fintech Awards and listed in the \"Next Global Tech 50 ..."
     publishedDateTime: 2021-07-15T02:09:00Z

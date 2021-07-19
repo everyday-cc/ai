@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Machine Learning - just part of the furniture?"
-    excerpt: "AI and Machine learning is not going to take over the desk. It's a set of tools that hopefully provide traders and managers with more insight into their business, clients and markets. By embedding these models into the workflow process they have the potential to add value."
-    publishedDateTime: 2021-07-14T11:07:00Z
-    webUrl: "https://www.publicnow.com/view/7D24A8CED78129B34BEC3ABDEF73DF9E26C69381"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 34
   - title: "Learning Science: Artificial Intelligence in Courseware Can Enhance Student Learning"
     excerpt: "Researchers from VitalSource Technologies, a leading education technology solutions provider, recently presented new insights into the ways that artificial intelligence (AI) can be deployed to enhance student learning through quality,"
     publishedDateTime: 2021-07-14T17:06:00Z

@@ -55,6 +55,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Fintech startup Razorpay buys SaaS firm TERA Finlabs"
+    excerpt: "Financial solutions company Razorpay on Monday said it has acquired AI-based risk tech SaaS (software-as-a-service) platform TERA Finlabs for an undisclosed"
+    publishedDateTime: 2021-07-19T04:15:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/articleshow/84543154.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/amp_articleshow/84543154.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/amp_articleshow/84543154.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 44
+    images:
+      - url: "https://www.businessinsider.in/thumb/84543230.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
   - title: "AI to have biggest impact on fintech over next five years"
     excerpt: "Tribe Payments, a payment technology company, has revealed that 67% of fintechs believe AI is the technology that will have the biggest impact on the sector over the next five years. This insight comes from their Fintech Five by Five report,"
     publishedDateTime: 2021-07-14T14:55:00Z
