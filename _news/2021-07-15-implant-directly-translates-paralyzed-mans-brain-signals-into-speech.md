@@ -43,20 +43,6 @@ related:
         width: 2500
         height: 1669
         isCached: true
-  - title: "Researchers use machine learning to translate brain signals from a paralyzed patient into text"
-    excerpt: "In a study published Wednesday in the New England Journal of Medicine, researchers at the University of California, San Francisco, describe an approach that combines a brain-computer interface and machine learning models that allowed them to generate text ..."
-    publishedDateTime: 2021-07-14T21:07:00Z
-    webUrl: "https://www.statnews.com/2021/07/14/machine-learning-translate-brain-signals-text/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 59
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/07/UCSF_ChangLab_239-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Device Taps Brain Waves to Help Paralyzed Man Communicate"
     excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
     publishedDateTime: 2021-07-16T06:46:00Z
@@ -144,20 +130,6 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 39
-  - title: "In medical breakthrough, scientists turn paralyzed man’s thoughts into sentences on computer screen"
-    excerpt: "A California team is developing a device to decode brain waves that normally control the vocal tract, the tiny muscle movements of the lips, jaw, tongue and larynx that form each consonant and vowel."
-    publishedDateTime: 2021-07-14T22:26:00Z
-    webUrl: "https://www.pressherald.com/2021/07/14/device-taps-brain-waves-to-help-paralyzed-man-communicate/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 10
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/07/Paralyzed_Speech_Device_90195.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "/bQ0nHahKjjIUaz+/BueiJZpLYsPxWEKpeYKjPI0/LtW7APq7jF6c0jdH2AFOuPSfON/MJyM7E0+YymzGOf8kwQb7j4HAA4mXhUAPKydRCUhnyPqgWfjET2M3o8XtPQKKDDnjZyeUB2y33OAMFoNZJodQ+WiEK5pB5SK2GCcZ8kQciwJEy5hJcfbtwDR1G5gaYd3AlfF8GI6O9Yjbbd6QOrB+hl90LtHbmVAKeDtwZy3xFbNCYW+6Su1XWaSX8wGSqLpwdnnlWWeGNWbMAamUQkmr8OnXzF1229oh1dDV0UNQncUXde1IVYX+MeWLo3+Kn9/qAVgOFwQu+dpPVQoxvk+pntrFjlX3v9K+8FszGjGsqYiYwnqUMXOVmpsxn4f478bZpa9AYeGks5T4FLzSYA6FKxsIxsDBVKfmprL6xJRAJvVJymEzf0YWdndDsKl/REEXg6TscHROkmi81iFB9/ieve8lBo0YsZBbq/mp7DAnTp8VJI8m7lv9LbZsMXPwwWfBUhFiD5B2yLUMfbLrA==;WhBe1XIclBrxE/IRzAcSJw=="
 ---

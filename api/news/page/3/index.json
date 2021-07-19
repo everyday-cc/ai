@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-16-is-deep-learning-making-nlp-too-expensive.md",
+      "title": "Is Deep Learning Making NLP Too Expensive?",
+      "excerpt": "Deep learning has yielded some fantastic results for basic natural language processing (NLP) functions such as named entity recognition (NER), document classification and sentiment analysis — not to mention the abilities to generate everything from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/16/is-deep-learning-making-nlp-too-expensive/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/16/is-deep-learning-making-nlp-too-expensive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f030c70cbf4d83cdf50570%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/16/is-deep-learning-making-nlp-too-expensive/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/16/is-deep-learning-making-nlp-too-expensive/amp/",
+      "publishedDateTime": "2021-07-16T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-deeptech-startup-edgeneuralai-raises-seed-round-from-anicut-angel-fund.md",
       "title": "Deeptech Startup EDGENeural.AI Raises Seed Round From Anicut Angel Fund",
       "excerpt": "Pune-based deeptech startup EDGENeural.AI has raised an undisclosed amount in seed funding from Anicut Angel Fund, the equity arm of Anicut Capital. The funding round saw participation from other investors including Venkat Raju, 9Unicorns, Samir Inamdar ...",
@@ -50,6 +103,49 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-maine-enacts-toughest-facial-recognition-ban-in-us.md",
+      "title": "Maine Enacts Toughest Facial Recognition Ban in U.S.",
+      "excerpt": "Augusta, Maine — The Maine State Legislature has passed a bill that will prohibit the use of facial recognition surveillance by certain government employees and officials. While these bans have been popping up more and more over the country, Maine took ...",
+      "sourceUrl": null,
+      "webUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html",
+      "originalUrl": "https://www.campussafetymagazine.com/news/maine-enacts-toughest-facial-recognition-ban-in-u-s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://compote.slate.com/images/cfdef433-ca60-4077-8748-01acfcc00e80.jpeg?width=780&height=520&rect=3500x2333&offset=0x0",
+          "width": 780,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
+      "cdnAmpWebUrl": "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
+      "publishedDateTime": "2021-07-16T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campus Safety Magazine",
+        "domain": "campussafetymagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1059,7 +1155,7 @@
       "originalUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -1100,110 +1196,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion.md",
-      "title": "Self-Driving Tech Developer Aurora Raising $2 Billion In SPAC Listing That Values It At $11 Billion",
-      "excerpt": "Funds from the deal will help the company get its self-driving truck technology ready for commercialization by late 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f05e1233162bebb522ee31%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/amp/",
-      "publishedDateTime": "2021-07-15T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-culture-eats-ai-self-driving-cars-for-lunch.md",
-      "title": "Culture Eats AI Self-Driving Cars For Lunch",
-      "excerpt": "There is a famous saying that culture eats strategy, which can be reformulated to postulate that culture eats AI self-driving cars. Here's why that might ring true.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F468340908%2F0x0.jpg%3FcropX1%3D121%26cropX2%3D3349%26cropY1%3D191%26cropY2%3D2007",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/amp/",
-      "publishedDateTime": "2021-07-15T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

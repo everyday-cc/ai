@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "When AI Self-Driving Cars Sue Due To Dangerous Roadway Conditions"
+    excerpt: "When the roadway has a dangerous condition due to governmental neglect and there are untoward results, maybe AI self-driving cars will aid in lawsuits. Here's how."
+    publishedDateTime: 2021-07-19T15:29:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f4e028fd4663e416aa1ed1%2F0x0.jpg%3FcropX1%3D216%26cropX2%3D2936%26cropY1%3D0%26cropY2%3D2039"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Adorable Kitten Hiding Under An AI Self-Driving Car Provides Bright-Eyed Pearls Of Wisdom"
     excerpt: "Something adorable could have been a heap of unpleasant trouble. A kitten had decided to hide underneath a parked AI self-driving car. I’m sure that you’ve seen or even personally witnessed having a cat or dog that opted to sneak under your ..."
     publishedDateTime: 2021-07-17T15:30:00Z
@@ -131,6 +147,6 @@ related:
       domain: detroitnews.com
     quality: 4
 
-secured: "oMRY8WtQqv/3tkVVhtBIMr0c/r06jd661/zcUeQcWdCmUf6PzT2BmG/H54Znmc4M3bDwyQryhUIqbsnvLjULaTdwNakaa8j9lRxQCt+bqJkoFvvyPKvVWbaC7i5tIF2fzK+IZMRmT+vGRgl+UbonBdTVrSo/sWJf9hngvuMHimrbzvxohZD8gxQE6qRfEOaDQEO5jho3hYTZvJnkOUfla+OeR1umJxz3meF4zgunn3yxoHPcvm5mV2eZt1dw8d13fNxMVlzEy/ukUACadjqDwrPfLelxz9rtTqm4Dq3KeDspPdSAzY72QAyc2xLNe+oGbiNtGqkos3dnCO18zi1AWAV5yG80vEkwaLN5dks7raY=;0lEC7tvgmvkNGZtGbaqtrw=="
+secured: "le4P3QCrRsXSEwPlkSECQ7c2kq2zCKj2dcM5DvATvW463P3WmcNx5gwECuoJTHO2lu9zigsxQc9LvjAd+b3kJ5Sl0s8h6LIkm9PA+LZDzAn2zo7DEI2nxkQ2nqFyOHdgBalYFC8nO4OCiATUxvgBYEt+XTES0dJiP6vCWTcPGHPyIWyH8BEbmuouGs5Jowcrp5emUJ2q7cKRz8arh73F1YMp9bLyu8w2ndjAbeJNz+Uvo1W8Zn820+vjZ/nIDFVMupJyZDubpOsIVRq6N1sNAsMBKYrox69oRCBG3u1Eo3QyqhEuzWdUjBr/oWM/6Qh764pg+JxbdDTYIcOCaM/eZWH5luW7xflCyb7tGtPZP9e9LtfEG/EFfFORpQODI0G/BGX1NB7bWO+SoYNCD1oT5SaxiIf3Q8Gstwq2mDNEWz3Rfz41K6dGGhuozBibVHB1V8POVC0gRSVvQ/m9TBtVgHQWRKt9ar9fjaxPbg0FUQ/2dgNqgo2dkkLpjieec6G2aWSAImrBgiBm+GXEqN10Lw==;VGTkWIPyOFGAimYF8+aMlg=="
 ---
 

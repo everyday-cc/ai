@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/goog
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/google-ceo-ai-is-more-influential-than-discovery-of-fire.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 400
     height: 300
     isCached: true
-
-related:
-  - title: "Google CEO Says Artificial Intelligence Will Be Mankind's Greatest Discovery"
-    excerpt: "Sundar Pichai compared artificial intelligence to the discovery of fire and electricity in an interview with the BBC."
-    publishedDateTime: 2021-07-14T21:14:00Z
-    webUrl: "https://www.entrepreneur.com/article/377330"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/377330"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377330"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 84
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1626297217-sundar-pichai-4542.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "1nZMimDJAFW2h0AIeDD4B9UaqNUMFaTZRbk8yXDhg/SmkqXovJVAPf/65rEjcZJfD7LcuNrNd1tJBxK/qKXl7ar1lYdOi63WG6SPjC9wEmXFo67oWBOXHT/6rUadQQK+ZgNDv6Sx9jFFxellpiYSlxAQo5lyd0Y2xaAnGMPNr63OCi9EfZMpmqyOy98wAgkI0GzlBPRb0YprSa2H/pIT0eAGzyR54S+t5XjswXBL/apgb/WjvMppN+pkPR0z9o4MfAJgMlheNpG/VyD4KmrnxMlg/MROdBgo//zOztkpNDouXkT1Z5mbCtzCbMemAPSkBaHYuEvDOy9vw5Z4bDgzISKEBtj5VR/ameQSA5/Ct2s=;CzCNAzrRlmAdLvGBvSKckw=="
 ---

@@ -71,22 +71,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Facebook drops funding for interface that reads the brain"
-    excerpt: "The reason for the craze around brain-computer interfaces is that companies see mind-controlled software as a huge breakthrough ... Paralyzed patients with such “implants” can deftly move robotic arms and play video games or type via mind control."
-    publishedDateTime: 2021-07-14T21:52:00Z
-    webUrl: "https://www.technologyreview.com/2021/07/14/1028447/facebook-brain-reading-interface-stops-funding/"
-    ampWebUrl: "https://www.technologyreview.com/2021/07/14/1028447/facebook-brain-reading-interface-stops-funding/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/07/14/1028447/facebook-brain-reading-interface-stops-funding/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/07/FRLR-head-mounted-BCI-research-prototype.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Facebook – Facebook’s BlenderBot 2.0 bot surfs the web for knowledge"
     excerpt: "Facebook detailed its work on an AI chatbot called BlenderBot 1.0, which the company claims is the largest-ever project of its kind. In an extension of that work, Facebook today took the wraps off of BlenderBot 2."
     publishedDateTime: 2021-07-16T15:40:00Z
@@ -116,6 +100,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "4FQgW6Kj2eD/gf0qEJnETJZGbP9sO2oHGBeZDIS/dSALNeVQGcYnrn33qpWHYsczJBVbTdnRavfOiueY10s85ZXUobhXU6xYDLrCJNgcczhNrjX5/eyo474kqM17gqTkTtTOm9DuK+rluyFCsK9K0jCpVnxTlUK1EVqnolhvbxDjn8Ghgf7C/59+17PGml2rzczt/3t+QW6Fa6wYXgY2R6W8ECOx40lJhLWeQOysdZ3HyudRSjvKBcqs0x6cyrwSQtBoX3yV1ZZQa52cMTNczeA+9D66ZtH/zt6TXJOG5QBIZIaRIwc2ElmwnaJSWatPG0tb/RN3BjfuJkAGJoTlQQjEBwthcUR0fdKzmaSVOx8=;mVtrPOJcdRk9xHpjKH5tWw=="
+secured: "74V+yip+NahE5+7oopqKgSvt5fEe6EEBCQRSIbkLaVQEvSALJJWB2RwzUSWJM/esZr5Hsbdwv2uP5+YiBo2gXMszu0U5+paSIerSwXk5Kcsf/75ImCPDdppzlfbh24MyWqcpkwUKyx6UslvK9Xy2DqoiU+gdsY+wBtLiUAZVkDfoUZeFUxLWOY3TSfB99/KzjnAbWwD9zox5XGl7TK9gg90nJBvyYfIaCms+oyb3J6/RPxFWrQCFl3vTEd3HB2CyFxXdxHw4f33ytdA8spiJn2hY5v3E7NTbIreeQBs5AOzONvHNdIP0UeorPnjA97pUtrngeLbDZoVXfRpG990i6mh+NukimGfrkpwcOXAXkHwO8doY66zxCjaNDwrFJ231TnKbXz/EnhvpIcY7Z1pacTXjh5rezFGFWx++YQyyohBihWkkrzyI9ReIuXl8k3X8Fi4y5Btx3ddpsRNsVcdsubTMGWr5329hRkwxWff3QGd70QfQ+ZaUJJmFCm0SfQYPVaIvI6LV4iWb77NYd3Bq/A==;AaqhqbU1O8Ah10S3QpAs/Q=="
 ---
 

@@ -59,20 +59,6 @@ related:
         width: 389
         height: 389
         isCached: true
-  - title: "Researchers use machine learning to translate brain signals from a paralyzed patient into text"
-    excerpt: "In a study published Wednesday in the New England Journal of Medicine, researchers at the University of California, San Francisco, describe an approach that combines a brain-computer interface and machine learning models that allowed them to generate text ..."
-    publishedDateTime: 2021-07-14T21:07:00Z
-    webUrl: "https://www.statnews.com/2021/07/14/machine-learning-translate-brain-signals-text/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 59
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/07/UCSF_ChangLab_239-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Researchers Harness Brain Waves of Paralyzed Man to Communicate With Him"
     excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a computer screen."
     publishedDateTime: 2021-07-15T13:53:00Z
@@ -144,20 +130,6 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 39
-  - title: "In medical breakthrough, scientists turn paralyzed man’s thoughts into sentences on computer screen"
-    excerpt: "A California team is developing a device to decode brain waves that normally control the vocal tract, the tiny muscle movements of the lips, jaw, tongue and larynx that form each consonant and vowel."
-    publishedDateTime: 2021-07-14T22:26:00Z
-    webUrl: "https://www.pressherald.com/2021/07/14/device-taps-brain-waves-to-help-paralyzed-man-communicate/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 10
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/07/Paralyzed_Speech_Device_90195.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "Ic7bhWOffK8uvKvkRl2sy7WpOVmAk8HhMKSPPoq4LnqS68Bku12nMT+eczdbkqb8jR0wsz/quY+FL8LG00GD5x+X0X1caiHD8NTxMnndUv29+1WDtcEeDYQ+PaYfuyrImZpFyGf1Do6NLEVwaK6cFjKaNfqS9zamjsWh9jO8qVEtrxiVvgIdcwGE4ub59Y7o5i+8WlW0CAdw2xRi3FOdaUk7hXP6j/rMbkA/zmi6+c8fT1si/7D2DFjjv7V78MvEA1o+bBSa0TM7nGHjb3Fcr/+Y8L69JTBZXKs1ScegKVEN8lSvOiyFi/nipE4RWB9PU1uCwHdIyTYngSILk47zPbYvtDQ/2jTr12fO8amahuI=;2YQj69SUwIdVubbbWZiMfQ=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "When AI Self-Driving Cars Sue Due To Dangerous Roadway Conditions"
+    excerpt: "When the roadway has a dangerous condition due to governmental neglect and there are untoward results, maybe AI self-driving cars will aid in lawsuits. Here's how."
+    publishedDateTime: 2021-07-19T15:29:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f4e028fd4663e416aa1ed1%2F0x0.jpg%3FcropX1%3D216%26cropX2%3D2936%26cropY1%3D0%26cropY2%3D2039"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Tesla Launches Its Full Self-Driving Subscription Plan For $199 A Month"
     excerpt: "It might still be a while before we can expect to see full self-driving cars hit the road, but if you’re the owner of a Tesla vehicle,"
     publishedDateTime: 2021-07-19T11:47:00Z

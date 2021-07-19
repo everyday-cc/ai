@@ -2,6 +2,176 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-06-29-ai-fueled-e-discovery-company-disco-plans-ipo.md",
+      "title": "AI-fueled e-discovery company DISCO plans IPO",
+      "excerpt": "E-discovery company CS Disco Inc is planning an initial public offering, becoming the latest legal technology company in recent weeks to signal an intention to go public.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-legalinnovation-disco-ipo/ai-fueled-e-discovery-company-disco-plans-ipo-idUSKCN2E42IO",
+      "originalUrl": "https://www.reuters.com/article/us-legalinnovation-disco-ipo/ai-fueled-e-discovery-company-disco-plans-ipo-idUSKCN2E42IO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/xp3SDa5zAMdtot6k2OQH8qSHMmo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6NABBBIZSBKV7BEZR3CEN6IG7A.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-federal-judge-dismisses-ftc-antitrust-complaint-against-facebook.md",
+      "title": "Federal Judge Dismisses FTC Antitrust Complaint Against Facebook",
+      "excerpt": "A federal court on Monday (June 28) dismissed a Federal Trade Commission (FTC) antitrust complaint against Facebook.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/",
+      "originalUrl": "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/court-FTC-Facebook-complaint-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/amp/",
+      "publishedDateTime": "2021-06-28T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-ai-startup-cerebras-systems-makes-boyden-first-general-counsel.md",
+      "title": "AI Startup Cerebras Systems Makes Boyden First General Counsel",
+      "excerpt": "Artificial intelligence company Cerebras Systems has named former Broadcom Inc. lawyer Rebecca Boyden as its first vice president and general counsel.",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/business-and-practice/ai-startup-cerebras-systems-makes-boyden-first-general-counsel",
+      "originalUrl": "https://news.bloomberglaw.com/business-and-practice/ai-startup-cerebras-systems-makes-boyden-first-general-counsel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/2568af8/2147483647/crop/960x369%2B0%2B0/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F98%2F78%2F8229a99546b289ac36070718de85%2Fbli-rbb.png",
+          "width": 960,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg Law",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-how-ibm-watson-advertising-plans-to-use-ai-to-reduce-bias.md",
+      "title": "How IBM Watson Advertising Plans To Use AI To Reduce Bias",
+      "excerpt": "IBM Watson Advertising kicked off a six-month ... We are seeing some very encouraging signs that AI can be the transformative technology that advertising needs to predict optimal campaign ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/364581/how-ibm-watson-advertising-plans-to-use-ai-to-redu.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/364581/how-ibm-watson-advertising-plans-to-use-ai-to-redu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-machine-learning-market-to-see-major-growth-by-2026-bigml-h2oai-sap.md",
       "title": "Machine Learning Market To See Major Growth By 2026 | BigML, H2O.ai, SAP",
       "excerpt": "Global Machine Learning Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery is latest research study released by HTF MI evaluating the market risk side analysis,",
@@ -935,186 +1105,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-big-techs-car-obsession-is-all-about-taking-eyes-off-the-road.md",
-      "title": "Big Tech’s car obsession is all about taking eyes off the road",
-      "excerpt": "Giants from Huawei Technologies to Baidu have pledged to plow almost $19 billion into electric and self-driving vehicle ventures this year alone. Smartphone giant Xiaomi and even Apple’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/",
-      "originalUrl": "https://www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/?amp=1",
-      "publishedDateTime": "2021-06-28T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-meet-the-new-standard-in-risk-management.md",
-      "title": "Meet the new standard in risk management",
-      "excerpt": "Legacy assessment based third-party risk management (TPRM) practices have struggled for years to keep pace with business needs. During the COVID-19 crisis, these shortcomings became even more acute. Companies faced additional unanticipated challenges involving the rapid onboarding of new service providers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/new-standard-in-risk-management/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/new-standard-in-risk-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/OpenPages-and-Supply-Wisdom.png",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T06:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-eyetech-digital-systems-recognized-by-siia-as-best-artificial-intelligence-solution-in-healthcare.md",
-      "title": "EyeTech Digital Systems Recognized by SIIA as Best Artificial Intelligence Solution in Healthcare",
-      "excerpt": "EyeTech Digital Systems ′ EyeOn platform has been named the 2021 Best Artificial Intelligence Solution in Healthcare as part of the annual SIIA CODiE Awards. The CODiE Awards recognize companies producing the most innovative business technology products across the country and around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/artificial-intelligence-technology-90889e6221b2aed7f789007e4c6a8ae6",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/artificial-intelligence-technology-90889e6221b2aed7f789007e4c6a8ae6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-how-to-get-your-employees-to-quickly-embrace-a-digital-platform.md",
-      "title": "How To Get Your Employees To Quickly Embrace A Digital Platform",
-      "excerpt": "Clearly, now more than ever, digital transformation must take hold in many industries. It is especially important when companies must find ways to do more work with far fewer resources. Starting Your Digital Transformation Journey Digital transformation truly \"takes a village.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d5f1ae42bc6c32ef95e8b3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/amp/",
-      "publishedDateTime": "2021-06-28T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

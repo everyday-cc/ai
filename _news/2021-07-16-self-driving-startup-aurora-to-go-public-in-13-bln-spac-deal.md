@@ -2,13 +2,11 @@
 category: news
 title: "Self-driving startup Aurora to go public in $13 bln SPAC deal"
 excerpt: "Self-driving technology startup Aurora will go public through a deal with a blank-check firm backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus, giving the combined company a pro-forma market capitalization of $13 billion."
-publishedDateTime: 2021-07-15T17:30:00Z
-originalUrl: "https://www.reuters.com/article/aurora-ma-reinvent-tech-y/update-2-aurora-to-go-public-via-13-bln-merger-with-mark-pincus-reid-hoffman-spac-idUSL4N2OR3GU"
-webUrl: "https://www.reuters.com/article/aurora-ma-reinvent-tech-y/update-2-aurora-to-go-public-via-13-bln-merger-with-mark-pincus-reid-hoffman-spac-idUSL4N2OR3GU"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL1NR"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL1NR"
+publishedDateTime: 2021-07-15T17:39:00Z
+originalUrl: "https://www.reuters.com/technology/aurora-go-public-via-11-bln-merger-with-mark-pincus-reid-hoffman-spac-2021-07-15/"
+webUrl: "https://www.reuters.com/technology/aurora-go-public-via-11-bln-merger-with-mark-pincus-reid-hoffman-spac-2021-07-15/"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1568974646&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E0WH"
-    width: 726
-    height: 545
+  - url: "https://www.reuters.com/resizer/Xu95E0JZiob2nn0sNFNMHd3_SrU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MA62E5JBJRLM3C7MQOMHMSKXFE.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -241,6 +239,6 @@ related:
         height: 630
         isCached: true
 
-secured: "rgp1hvQhK81uu6k5AiYQhBZVbV89qOfuEEVZI/h+8y2sHBHkwjD58N+IS/ljrDtb1NMI1Y1lMxqw7fYRQO6VbULsfauDUCXztCh7Dy6l9Ggz/u6iLqyEVQI63a/S+5gRBipDma3g1MboUoTAZkPo2CgiAyVhnyUKoindB6sGOvcPtVY9OrYg2IArCTIPWyk7oQlZL/xbPvyX2z5BQ6Z30ra1RPtWSfyVL2inPz7SusYzL43nARXDj3qAG4ILu/qpB6KTYyy8lTCPicgSuIPMeDZFbl/KLignmQ00bbqytem5YFJ6RrVX1+8dyql/jKjreopMLmnhQRLyCT71zOA154L7ILke5MmtdFCOAYc129o=;mNSv2Cvf5ee4mvf0IJ2eCg=="
+secured: "N00rNjN6QqhZ6KyjWN0JCWRqWUPsS/FRlCtTXfZ6TMwhab9jumYFfgvjuMLrknM5ygCgtKWtFEcg77SvIizFya9Cdkw/cbUi1NPMyN9RBKh8np/9x/vWADGvwwlqj2u8Mw3u7tb0pAqT4fxeovmkEA1ecVsxxFvwSBIbNpGjlq7TgIMvWbUfcNuWgECE9JKP9CLznARzpBCF5ggGgsaophiDC3sFI+qh2EpPS/4e2SMgYXeksfLSEl1hfDnSdeVS1QIwSkSLrnAXy6W/W38RTmQSQB4kuSbn12H7KMbF7HrRniq1lA6c562FMjMzLFClrvSOyps3XykTYXn+rYeJQO7Lid1spx/Ug7Sjt3IF96E=;72dtbIGiDqwsZ8OfJ4sIbQ=="
 ---
 

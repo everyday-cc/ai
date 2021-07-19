@@ -77,6 +77,22 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "Tesla To Add Auto Shift To All Cars With Self Driving Package"
+    excerpt: "When Tesla Inc (NASDAQ: TSLA) first revealed its refreshed Model S and X vehicles, many were confused on the lack of traditional stalks near the steering wheel."
+    publishedDateTime: 2021-07-19T14:14:00Z
+    webUrl: "https://www.benzinga.com/tech/21/07/22040689/tesla-to-add-auto-shift-to-all-cars-with-self-driving-package"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22040689"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22040689"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/model_s_interior.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Tesla Full Self Driving subscription launches — and it costs $199 a month"
     excerpt: "If you fancy getting your hands on a Tesla with the ‘Full Self Driving’ add-on, but don’t have $10,000 to spend all in one go, you’re in luck. Because Tesla is offering it as a $199 monthly subscription."
     publishedDateTime: 2021-07-19T11:12:00Z
@@ -107,6 +123,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla full self-driving is not what most people call 'full' self-driving"
+    excerpt: "Tesla has started offering a subscription add-on for its automobiles for so-called self-driving features, though the language is a little confusing. Tesla just announced that it would sell a subscription for an enhanced version of what it calls \"autopilot,"
+    publishedDateTime: 2021-07-19T07:23:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/tesla-full-self-driving-is-not-full-self-driving/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-full-self-driving-is-not-full-self-driving/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-full-self-driving-is-not-full-self-driving/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
   - title: "Tesla Unveils $199/Month Full Self Driving Subscription Package"
     excerpt: "Tesla Inc. has launched a Full Self-Driving or FSD subscription for its driver-assistance software package for $199 per month. The"
     publishedDateTime: 2021-07-19T13:31:00Z
@@ -235,6 +262,34 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1626608118.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "2022 Audi RS 3, BMW ZBF 7er, Tesla Full Self-Driving: Today's Car News"
+    excerpt: "Comment Now! Audi has revealed its redesigned RS 3 compact performance sedan. The new car represents only an evolution of its predecessor, but"
+    publishedDateTime: 2021-07-19T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1119514_2022-audi-rs-3-bmw-zbf-7er-tesla-full-self-driving-today-s-car-news"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/audi-a3_100799779_h.jpg"
+        width: 1920
+        height: 1136
+        isCached: true
+  - title: "Tesla wants you to drop up to $200 a month for its Full Self-Driving feature"
+    excerpt: "If you’re a Tesla owner and didn’t purchase Full Self-Driving (FSD) when you first bought your car, you’re in luck. Tesla is now offering the chance to get FSD as a monthly subscription. It was bound to happen,"
+    publishedDateTime: 2021-07-19T15:56:00Z
+    webUrl: "https://knowtechie.com/tesla-wants-you-to-drop-up-to-200-a-month-for-its-full-self-driving-feature/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 36
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "5eb3aRjmFihyVjzYOtHOlRcEx9v3CvNZI5DurtTzDSc40ci/YJWbGkIANcsh+LTKY2UEiATOW9j36W5BvibLYCCh2XVu2EVuNtJaYZKTQ5MJqrpbADvQ3+ogSPDYBDp3xspjNpOXRjBshqsayyaqQ4nNG/am99mhvaJlaK2b1G1pxaz4otb1IK8luZB9jhYZiyP+0qaqdqFuHDHxnlGMxr+zJ419zLkr6+kGwSwFj+TchKhM4UGBtDaF/NkSDwZ9Kf2OpC2CvtFFnMMJI9ml71AHIhFSI4jCVhdYWzST67xsZ6bKXAgx+oPZwoI9nKQC1E9QyM7QSJJco7f4ow+LN5Q2sV5xxM8R4tCf30N+Xqu7kHl2jzBCj2EGMZqM7+zso9J08gQ/ekcrvwY1TWc2Zk2S3ByhF45Dz2g1o/smfUYGp632/fi7ghk0fqPuA9oGKzn6jPq/ypEhywTcnHTmn4xvcDl08PhrADOuBOy7RylQtYCD/5Qq54hgisYVIH6d0oTVux7iGLay+yZdAm3KmQ==;Twd+8Q/Nz3LKclWAj4DeCA=="

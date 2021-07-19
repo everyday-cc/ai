@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. chipmaker Nvidia to provide AI platform for Chinese EV start-ups"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-07-19T15:11:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_xpeng-nyse-xpev/u-s-chipmaker-nvidia-to-provide-ai-platform-for-chinese-ev-start-ups/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/m02d20181121t2i1327287338rLYNXNPEEAK0NTw800.jpeg"
+        width: 800
+        height: 516
+        isCached: true
   - title: "NVIDIA Stock – Nvidia partners with University of Florida to build AI supercomputer"
     excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
     publishedDateTime: 2021-07-19T01:16:00Z

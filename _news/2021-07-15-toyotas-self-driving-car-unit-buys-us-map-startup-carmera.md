@@ -41,36 +41,6 @@ related:
         width: 800
         height: 545
         isCached: true
-  - title: "Toyota Self-Driving Car Unit Agrees to Buy Map-Maker Carmera"
-    excerpt: "Toyota Motor Corporation is strengthening its foothold in the autonomous car driving industry, agreeing to acquire an artificial intelligence map-making startup just months after buying Lyft Inc.'s self-driving division for $550 million. (www.wsj.com ..."
-    publishedDateTime: 2021-07-14T21:29:00Z
-    webUrl: "https://www.marketwatch.com/story/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera-271626296406"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera-271626296406"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera-271626296406"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Toyota buys U.S. mapping, road data firm to bulk up driverless tech"
-    excerpt: "Woven Planet was established in January to invest in and develop mobility with artificial intelligence ... and non-traditional car making such as driverless and electric technology, Toyota ..."
-    publishedDateTime: 2021-07-14T22:32:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/toyota-buys-us-mapping-road-data-firm-bulk-up-driverless-tech-2021-07-14/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/xPGUCumVUqQYv5QVMbKEmMU-4Ss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HPQGDJ4HBZOIBIW32UPIKHAYZI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Toyota buys US startup for next-gen driverless navigation system"
     excerpt: "Toyota Motor announced Thursday that it acquired America-based Carmera that provides the next-gen navigation system for driverless vehicles. The Japanese carmaker acquired the artificial intelligence and maps firm through the newly created subsidiary Woven Planet dedicated to automated mobility."
     publishedDateTime: 2021-07-15T08:16:00Z
@@ -102,20 +72,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/Toyota-Woven-Planet-Carmera-acquisition-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Toyota Tech Arm Plans Self-Driving Acquisition Spree"
-    excerpt: "Toyota Motor Corp.’s software and technology arm plans to embark on an ambitious hiring and acquisition spree as automakers globally jostle for pole position in the race to develop smart cars that will one day drive themselves."
-    publishedDateTime: 2021-07-14T22:00:00Z
-    webUrl: "https://www.ttnews.com/articles/toyota-tech-arm-plans-self-driving-acquisition-spree"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/toyota-shuttles1200.jpg?itok=49OnvMZW"
-        width: 470
-        height: 246
         isCached: true
 
 secured: "6GWTYyHUDlECofPZyMPcNEgx7zOfebWcUVALWA+IO+/yuzs3YY6a1nrPHoZ7f8pzC2WPStub0TnsIreOtw3KhCKuUDbTFWcziQn9gzwS4HQKipx1j8EM7zuHU6y90FpM0lUR2jmLy8V0aE/mo3rfrU8QYoNSnzgDZTog21yLafauoBtecduIQHGv5tljqI6Xw0tC2yWLU8VfCVcPFzaMwTMNIRcX7Oh+BmdiDPeHFPtKEIEFFGXOvqK2vMK1Ej1dw/iVcf8IIzp4o2mfo9sMFiQuQqzeQKfBkbSXoRi9NyA1KI0PONADpRh6HNnP8gIX8ebOE0jS04p31L7Tfp/fOzFnduqJZDtAkz5RTSXXCFY=;QB7LE/9Pr10E563027VokA=="

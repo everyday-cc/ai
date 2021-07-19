@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-19-researchers-disclose-vulnerability-in-windows-hello-facial-recognition.md",
+      "title": "Researchers disclose vulnerability in Windows Hello facial recognition",
+      "excerpt": "A new research report shows that hackers can get around Windows Hello by using a certain type of hardware and eventually gain access to your PC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/",
+      "originalUrl": "https://www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/mouse-computers-windows-hello-2.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/?amp",
+      "publishedDateTime": "2021-07-19T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-volleys-magic-word-is-a-voice-based-puzzle-game-on-google-assistant.md",
       "title": "Volley’s Magic Word is a voice-based puzzle game on Google Assistant",
       "excerpt": "Volley has embraced the new kind of gameplay possible with voice-based games, and today it is introducing Magic Word, an immersive puzzle game on Google Assistant. That means you can play it on devices that support Google Assistant’s voice recognition technology,",
@@ -301,6 +353,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision.md",
+      "title": "Giving Robots Better Moves: Combining Unique Gripper Designs With AI and Machine Vision",
+      "excerpt": "MIT alumnus-founded RightHand Robotics has developed picking robots that are more reliable and adaptable in warehouse environments. For most people, the task of identifying an object, picking it up, and placing it somewhere else is trivial.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/",
+      "originalUrl": "https://scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Righthand-Robotics-Picking-Robot-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/amp/",
+      "publishedDateTime": "2021-07-19T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -847,7 +942,7 @@
       "originalUrl": "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -1136,93 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-heres-what-you-need-to-know-about-singapores-food-delivery-robots.md",
-      "title": "Here's what you need to know about Singapore's food delivery robots",
-      "excerpt": "Singaporeans flocked to food delivery after it was announced that dining-in was prohibited during Circuit Breaker. Today, despite being allowed to dine-in at restaurants in larger groups, the habit of ordering food online and having it delivered",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots",
-      "originalUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/20210716_robot_unsplash.jpg?itok=EtsShVVZ",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots?amp",
-      "publishedDateTime": "2021-07-17T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-robot-training-on-famous-highland-estate-will-make-driverless-vehicles-more-reliable.md",
-      "title": "Robot ‘training’ on famous Highland estate will make driverless vehicles more reliable",
-      "excerpt": "The project will help make driverless vehicles of the future more reliable ... engineers and students dedicated to researching robotics, artificial intelligence, systems engineering, and other related fields. A crash scene for the new James Bond movie ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
-      "originalUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressandjournal.co.uk/wp-content/uploads/sites/2/2021/07/ORI_Scotland-3.jpg_39621277-scaled-e1625854534304.jpg",
-          "width": 2457,
-          "height": 1472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
-      "cdnAmpWebUrl": "https://www-pressandjournal-co-uk.cdn.ampproject.org/c/s/www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
-      "publishedDateTime": "2021-07-16T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Press and Journal",
-        "domain": "pressandjournal.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "AI in Robotics"
       ]

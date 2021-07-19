@@ -59,20 +59,6 @@ related:
         width: 389
         height: 389
         isCached: true
-  - title: "Researchers use machine learning to translate brain signals from a paralyzed patient into text"
-    excerpt: "In a study published Wednesday in the New England Journal of Medicine, researchers at the University of California, San Francisco, describe an approach that combines a brain-computer interface and machine learning models that allowed them to generate text ..."
-    publishedDateTime: 2021-07-14T21:07:00Z
-    webUrl: "https://www.statnews.com/2021/07/14/machine-learning-translate-brain-signals-text/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 59
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/07/UCSF_ChangLab_239-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Device Taps Brain Waves to Help Paralyzed Man Communicate"
     excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
     publishedDateTime: 2021-07-16T06:46:00Z
@@ -144,20 +130,6 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 39
-  - title: "In medical breakthrough, scientists turn paralyzed man’s thoughts into sentences on computer screen"
-    excerpt: "A California team is developing a device to decode brain waves that normally control the vocal tract, the tiny muscle movements of the lips, jaw, tongue and larynx that form each consonant and vowel."
-    publishedDateTime: 2021-07-14T22:26:00Z
-    webUrl: "https://www.pressherald.com/2021/07/14/device-taps-brain-waves-to-help-paralyzed-man-communicate/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 10
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/07/Paralyzed_Speech_Device_90195.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "dTjF0KeKob8Rl1dtzdDwaAA+XlpB42MzDBkdYAAbPb9LbwMmjXtNXhvcvVv3r25xvKBP99QfgXN4JOePTGWGmAuU+Raxwh6Iu15ALd+9suOO2xZmIdawdsMtazsWMW6X5FRq29D03OwNvU1gwmQew2Kbg7JEdEVQK2hgg98OyxWDZeK0bkjtLDBw+YxfqjtO5tvE8kW7LvyX6I0h3AQUMikh0XiHbTjn/1r6zcr9XToPq27clM21LAQgVFPxktD5PYMghKlYqeI/vxcsNrFIwMYMf+BRdDwKZiFSaPBkEEyObVTVq4wO9bmQfpn+O3NkEd4GCy4T3iVv238sLXAIqHAA5VKrsAONkVDlgXDc9v4=;jB+SMLPYtd1vZty5+Xerig=="
 ---

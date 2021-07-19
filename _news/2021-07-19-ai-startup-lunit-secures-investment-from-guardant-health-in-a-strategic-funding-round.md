@@ -31,6 +31,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 17
+  - title: "Korean AI Pathology Startup Lunit Nabs $26M Investment from Guardant Health, Plans Collaboration"
+    excerpt: "NEW YORK – Lunit, a startup advancing artificial intelligence technology for medical applications, said Monday that Guardant Health has invested $26 million in its company as part of a Series C Tranche B funding round."
+    publishedDateTime: 2021-07-19T14:46:00Z
+    webUrl: "https://www.precisiononcologynews.com/cancer/korean-ai-pathology-startup-lunit-nabs-26m-investment-guardant-health-plans-collaboration"
+    type: article
+    provider:
+      name: precisiononcologynews
+      domain: precisiononcologynews.com
+    quality: 4
 
 secured: "meoJcHcHw5HbPP79PZuDP5xiN13QSaId+fROSS1ED24v+c9l1gfZ8iHDOe9n9lVqgJoGgJIK1T/12W9i+vSkxT2VxZp0pkw8VxPB3m/xHhZjFoGRSK/bWjd/m59CNBPS+ziNBMtP/RnWBGzvsm1AX2vPr7stdqveem9v8dWA7vXyyzRpv6xXO66ReX56b9WXArrQwv5LXnUjravWUng2W2KzkxRwcNxAHSRiQFWMxOERjhnqs3jOZeUcurk920UaC4k8nU1ACG/8JO3MmXVALnHZ5bCfD5F/5XElGHNRSnnoxoutJQyrlk3sy4pV7QPlvzXmDEn9QVdBtR8c/CZd/pQcAb4ERgjWg5a7FIaq68jCRbk1QcqtaWuOOoV3A+xBe2Pa30AElRrxBrgt2zRj5ny//LYnWyQ2LiTDY7tHQCbxDH4Vqf5Xol+9FrVOuBQBeK6YzZ90F2BwabaTXMcNOBBZjGS7BPpB7+nkaV4DmepXfwuUZBhjcHm+lRtzCcEIj97j18llfLcg6K5bOWOffg==;bSC3MMyeKsitdKf+Yd4ZLA=="
 ---

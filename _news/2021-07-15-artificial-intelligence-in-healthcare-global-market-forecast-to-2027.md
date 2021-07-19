@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15"
 type: article
 quality: 84
-heat: 314
+heat: 324
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "QpiAI launches a global AI and quantum marketplace"
-    excerpt: "With the Marketplace, highly skilled students and professionals will be able to participate and benefit in the commercialization of AI and Quantum solutions."
-    publishedDateTime: 2021-07-14T23:01:00Z
-    webUrl: "https://www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace-11626258600264.html"
-    ampWebUrl: "https://www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace/amp-11626258600264.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/qpiai-launches-a-global-ai-and-quantum-marketplace/amp-11626258600264.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2021/07/14/600x338/8-2_1626261901600_1626261907885.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI Governance Market Overview 2021: By Market Size, Industry Growth, Market Trends and Global Opportunities Forecast to 2026"
     excerpt: "This report aims to estimate the “AI Governance Market” for 2021 and to project the expected demand by 2026. This"
     publishedDateTime: 2021-07-16T09:37:00Z
@@ -115,6 +99,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 32
+  - title: "Artificial intelligence ai platform Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Artificial intelligence ai platform market is expected to grow at a significant CAGR in the period from 2021 to 2027 The Artificial Intelligence AI platform market is said to have a potential scope for growth in the years to"
+    publishedDateTime: 2021-07-19T11:20:00Z
+    webUrl: "https://www.openpr.com/news/2331519/artificial-intelligence-ai-platform-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2331519/artificial-intelligence-ai-platform-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331519/artificial-intelligence-ai-platform-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
   - title: "Artificial Neural Network Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "Artificial Neural Network Market is projected to rise at a considerable CAGR during the forecast period from 2021 to 2027 The technology is a set of instructions programmed in order to achieve human brain alike operations through machines The advent"
     publishedDateTime: 2021-07-19T09:57:00Z
@@ -197,6 +192,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
+  - title: "Artificial intelligence in aviation Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Artificial intelligence in aviation market is expected to grow at a significant CAGR in the period from 2021 to 2027 The usage of big data in the aerospace sector substantial increases in capital investments by aviation businesses and growing"
+    publishedDateTime: 2021-07-19T11:25:00Z
+    webUrl: "https://www.openpr.com/news/2331522/artificial-intelligence-in-aviation-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2331522/artificial-intelligence-in-aviation-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331522/artificial-intelligence-in-aviation-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 15
   - title: "Artificial intelligence in accounting Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Artificial intelligence in accounting market is expected to grow at a significant CAGR in the period from 2021 to 2027 The rising requirement to automate accounting operations and enable data based advising and decision making are driving the AI"
     publishedDateTime: 2021-07-19T11:37:00Z

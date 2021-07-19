@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-12-facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word.md",
+      "title": "Facebook’s AI can copy the style of text in photos from a single word",
+      "excerpt": "Facebook's TextStyleBrush is an AI system that can replicate the style of fonts and handwriting to replace arbitrary text in images.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/",
+      "originalUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/",
+      "publishedDateTime": "2021-06-11T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-vehicle-speech-recognition-system-market-to-see-thriving-worldwide-apple-mercedes-benz-microsoft.md",
       "title": "Vehicle Speech Recognition System Market to See Thriving Worldwide | Apple, Mercedes-Benz, Microsoft",
       "excerpt": "Advance Market Analytics published a new research publication on Vehicle Speech Recognition System Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",

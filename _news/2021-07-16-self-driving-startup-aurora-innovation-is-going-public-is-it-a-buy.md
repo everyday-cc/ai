@@ -51,22 +51,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Self-driving startup Aurora to go public in $13 bln SPAC deal"
-    excerpt: "Self-driving technology startup Aurora will go public through a deal with a blank-check firm backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus, giving the combined company a pro-forma market capitalization of $13 billion."
-    publishedDateTime: 2021-07-15T17:30:00Z
-    webUrl: "https://www.reuters.com/article/aurora-ma-reinvent-tech-y/update-2-aurora-to-go-public-via-13-bln-merger-with-mark-pincus-reid-hoffman-spac-idUSL4N2OR3GU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2EL1NR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2EL1NR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210715&t=2&i=1568974646&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6E0WH"
-        width: 726
-        height: 545
-        isCached: true
   - title: "Self-Driving Startup Aurora to Go Public Through SPAC"
     excerpt: "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc."
     publishedDateTime: 2021-07-15T17:53:00Z
@@ -126,6 +110,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Self-driving startup Aurora to go public in $13 bln SPAC deal"
+    excerpt: "Self-driving technology startup Aurora will go public through a deal with a blank-check firm backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus, giving the combined company a pro-forma market capitalization of $13 billion."
+    publishedDateTime: 2021-07-15T17:39:00Z
+    webUrl: "https://www.reuters.com/technology/aurora-go-public-via-11-bln-merger-with-mark-pincus-reid-hoffman-spac-2021-07-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/Xu95E0JZiob2nn0sNFNMHd3_SrU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MA62E5JBJRLM3C7MQOMHMSKXFE.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Law firm trio fuels self-driving tech startup Aurora's $13 bln SPAC deal"
     excerpt: "Wilson Sonsini Goodrich & Rosati; Skadden, Arps, Slate, Meagher & Flom; and Sullivan & Cromwell are steering self-driving technology startup Aurora’s $13 billion merger with a blank check company backed by LinkedIn co-founder Reid Hoffman and fellow Silicon Valley veteran Mark Pincus."

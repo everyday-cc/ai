@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1424"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424"
 type: article
 quality: 89
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
         width: 389
         height: 389
-        isCached: true
-  - title: "Researchers use machine learning to translate brain signals from a paralyzed patient into text"
-    excerpt: "In a study published Wednesday in the New England Journal of Medicine, researchers at the University of California, San Francisco, describe an approach that combines a brain-computer interface and machine learning models that allowed them to generate text ..."
-    publishedDateTime: 2021-07-14T21:07:00Z
-    webUrl: "https://www.statnews.com/2021/07/14/machine-learning-translate-brain-signals-text/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 59
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/07/UCSF_ChangLab_239-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Device Taps Brain Waves to Help Paralyzed Man Communicate"
     excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
@@ -144,20 +130,6 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 39
-  - title: "In medical breakthrough, scientists turn paralyzed man’s thoughts into sentences on computer screen"
-    excerpt: "A California team is developing a device to decode brain waves that normally control the vocal tract, the tiny muscle movements of the lips, jaw, tongue and larynx that form each consonant and vowel."
-    publishedDateTime: 2021-07-14T22:26:00Z
-    webUrl: "https://www.pressherald.com/2021/07/14/device-taps-brain-waves-to-help-paralyzed-man-communicate/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 10
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/07/Paralyzed_Speech_Device_90195.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "eAfgJ+8IEGyEiQW5AYSEsx/OCVoc9PSpfKjqfqPmxYxOHaTXUsfav1KAx9pG6eRzA9DW+jpi/FVXQElVzsDAPp1wg8HWDSGnzlOHWuTRdHBxauf68QwODQtA0V7a5E95Mu4fu3HvHAAhTZAHRA4YQLteLRWv7aF5Z2FExZUnC/d5F+wALgr1trrPG47f9QKBWle7j2dtZLNRKa0La16MEbThzs09ciBs16LD2M0XES2icwgjdzQh+qeQdmHwyfsno6hNb0+ZRigL1324Jt3v3ynuM66Mz3On8PM7OBV/SX2E30gBTO+KQkTT5arhtgJSyCebRzNRyni+GhZiSHqEuCTaT2VSkP8Brj0EXQl6rI/l6j2RjXcfdhb8H79WpYcN9ChDlghwZ6B2W2mO90wKmLNVf9Yl2wwJNcFgLl3SASHngRMYe+qO8WjhLaZ1EFXx9dAgBw5nR3lfQzk2NQfCUSvHgTPfcNyzzkg5zbFK98lwp9IH/JzFq5OWRIEq3HUmQGfhulMdV75OywqdfnDpuw==;MF6D5oCIga4Pwa46NT/74A=="
 ---

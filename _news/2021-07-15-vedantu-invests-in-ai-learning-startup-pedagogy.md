@@ -27,6 +27,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 40
+  - title: "Korean AI Pathology Startup Lunit Nabs $26M Investment from Guardant Health, Plans Collaboration"
+    excerpt: "NEW YORK – Lunit, a startup advancing artificial intelligence technology for medical applications, said Monday that Guardant Health has invested $26 million in its company as part of a Series C Tranche B funding round."
+    publishedDateTime: 2021-07-19T14:46:00Z
+    webUrl: "https://www.precisiononcologynews.com/cancer/korean-ai-pathology-startup-lunit-nabs-26m-investment-guardant-health-plans-collaboration"
+    type: article
+    provider:
+      name: precisiononcologynews
+      domain: precisiononcologynews.com
+    quality: 4
 
 secured: "YCZ//uKKjuHgUK0NVgVIsM1lXbef+qDqw66ZeHdXTzyZFv79tQcsj1PFhLRYIgX1+Aqrp8qi0vweu+XR8KPc0OtPjUnopsKBadfkao0mvAWtd/iStKTkkR+V2MPWl30ZaXvXvjOpDETxil58W05MUSzqKy9i+Ew+veGgBJbqlU/nuWZo3p7KSq4fsWqWB+/6ND6YwKNkVUD/hoogwP7lQyPTcKNxETww3gjMQt6Drg+mSQWeN6O4SeZExX10dG9GeayCXsApK1WiIX6mGXavQ8EuqgTFpYrsHNviCL2GhzBs5GWFv1kz1lxRh9BFpHHS8zEGmpg2I/4srB6zwDq2D7yzn4RyXcmmpG6zuVW9bT0=;9vt9RlTenQ92pR33AHwESQ=="
 ---

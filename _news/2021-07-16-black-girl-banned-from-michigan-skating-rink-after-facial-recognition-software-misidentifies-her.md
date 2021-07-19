@@ -89,6 +89,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Black teen forced to leave skating rink after facial recognition tech misidentifies her"
+    excerpt: "A local roller skating rink in Michigan has come under fire using facial recognition software that misidentified a Black teenager."
+    publishedDateTime: 2021-07-16T00:13:00Z
+    webUrl: "https://thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/"
+    ampWebUrl: "https://thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 51
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/07/LamyaRobinson.Screenshot-scaled.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "A Black teenager was kicked out of a skating rink after a false facial recognition match"
     excerpt: "A Black girl was kicked out of a skating rink in Michigan after its facial recognition system misidentified her, according to a new report."
     publishedDateTime: 2021-07-15T16:36:00Z
@@ -137,6 +153,17 @@ related:
         width: 932
         height: 524
         isCached: true
+  - title: "Federal Agencies Can't Resist Using and Abusing Facial Recognition"
+    excerpt: "Already used to identify international travelers as they enter and exit the United States, facial recognition technology is becoming increasingly reliable and may soon become a regular feature of the travel process,"
+    publishedDateTime: 2021-07-16T11:07:00Z
+    webUrl: "https://reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/"
+    ampWebUrl: "https://reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 39
   - title: "Skating Rink Boots Black Teen Misidentified by Facial Recognition System"
     excerpt: "In what civil rights advocates on Thursday framed as yet another example of the need for reforms by companies and governments alike, an ice skating rink in Michigan turned away a Black teenager after its facial recognition system misidentified her as ..."
     publishedDateTime: 2021-07-16T00:18:00Z

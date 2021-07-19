@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/07/FRLR-head-mounted-BCI-research-prototype.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Facebook drops funding for interface that reads the brain"
-    excerpt: "The reason for the craze around brain-computer interfaces is that companies see mind-controlled software as a huge breakthrough ... Paralyzed patients with such “implants” can deftly move robotic arms and play video games or type via mind control."
-    publishedDateTime: 2021-07-14T21:52:00Z
-    webUrl: "https://www.technologyreview.com/2021/07/14/1028447/facebook-brain-reading-interface-stops-funding/"
-    ampWebUrl: "https://www.technologyreview.com/2021/07/14/1028447/facebook-brain-reading-interface-stops-funding/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/07/14/1028447/facebook-brain-reading-interface-stops-funding/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/07/FRLR-head-mounted-BCI-research-prototype.jpg?w=3000"
         width: 3000

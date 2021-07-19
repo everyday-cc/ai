@@ -87,6 +87,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Black teen forced to leave skating rink after facial recognition tech misidentifies her"
+    excerpt: "A local roller skating rink in Michigan has come under fire using facial recognition software that misidentified a Black teenager."
+    publishedDateTime: 2021-07-16T00:13:00Z
+    webUrl: "https://thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/"
+    ampWebUrl: "https://thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 51
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/07/LamyaRobinson.Screenshot-scaled.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "A Black teenager was kicked out of a skating rink after a false facial recognition match"
     excerpt: "A Black girl was kicked out of a skating rink in Michigan after its facial recognition system misidentified her, according to a new report."
     publishedDateTime: 2021-07-15T16:36:00Z
@@ -151,6 +167,17 @@ related:
         width: 932
         height: 524
         isCached: true
+  - title: "Federal Agencies Can't Resist Using and Abusing Facial Recognition"
+    excerpt: "Already used to identify international travelers as they enter and exit the United States, facial recognition technology is becoming increasingly reliable and may soon become a regular feature of the travel process,"
+    publishedDateTime: 2021-07-16T11:07:00Z
+    webUrl: "https://reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/"
+    ampWebUrl: "https://reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 39
 
 secured: "h51I+hpy2CqIrwl3sbpe0KWQY8XTRoeiV9Thr9mgo+jsyL370MKNOR2grwU0yN5V5qNwwFKXV63VZIFhkeh0KCw1eGD2dKLGCDsJK5lV4DcpQnCXcAk4uRVJaq0PvLdCcu1D5L2nn2f7Fe7WiLzNaYeeSNdXU55RDrF/vW8UHOf4zwFr3mIjDjjXNFVVYb6KaC3/nAiqEVkHk1w6kmaVd/l3ZJ4u6K4rGcYNDHZBzN2FFD1/DUsXhpBlNCCTjp3V7sCbys3wkQGakHmVjkfAgfUnd1R5RJQekVCFmczxsra5EnkoHeyWsC3pggpI2PHRTI06ondCckVMu6WoPwW5EXuWTY59cvAcN/XebsyXUJdUP+ciQePHiVExR3nO2pIOr9De7rC70E9tHHTWLXU34i2ot2VBk7ezfJWrEXyXzzQzDEv1SY1lFDlMv1r32oxBOVWHL310Lv8+crFottvQLt3AXg+qpquRYNOIqP6lgTeGFFf76wxaVobTTaZMKiNnYz0oXiAi/llfn9X+uyKMqA==;p8GXq+cpsCDf45VpdmA8jw=="
 ---

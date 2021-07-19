@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-19-giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision.md",
+      "title": "Giving Robots Better Moves: Combining Unique Gripper Designs With AI and Machine Vision",
+      "excerpt": "MIT alumnus-founded RightHand Robotics has developed picking robots that are more reliable and adaptable in warehouse environments. For most people, the task of identifying an object, picking it up, and placing it somewhere else is trivial.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/",
+      "originalUrl": "https://scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Righthand-Robotics-Picking-Robot-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/amp/",
+      "publishedDateTime": "2021-07-19T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-pg-diploma-in-robotics-process-automation.md",
       "title": "PG Diploma in Robotics Process Automation",
       "excerpt": "MIT Centre for Future Skills Excellence, MIT Art, Design & Technology University Pune has introduced a new post-graduate diploma in Robotics Process Automation from August 2021 academic session.",
@@ -717,7 +760,7 @@
       "originalUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1348,58 +1391,6 @@
         "name": "greenqueen.com.hk",
         "domain": "greenqueen.com.hk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-sonys-televisions-will-soon-be-100-robot-made-according-to-a-report.md",
-      "title": "Sony's televisions will soon be 100% robot-made, according to a report",
-      "excerpt": "He told the newspaper: \"I don't think automation alone using robots will bring enough merits. The key is to use digitalization to link both sales and manufacturing.\" Sales data would be studied using artificial intelligence to more effectively calculate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7",
-      "originalUrl": "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609eb383f27b4c00194448b5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7?amp",
-      "publishedDateTime": "2021-07-11T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

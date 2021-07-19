@@ -2,6 +2,195 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-07-12-if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here.md",
+      "title": "If you’ve ever had thoughts of becoming a real estate mogul, your training can start right here",
+      "excerpt": "Sponsored Deals The training in The Fundamentals of Real Estate Investment Bundle can help students become an informed, savvy market watcher and investor.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/",
+      "originalUrl": "https://venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/sale_31347_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/if-youve-ever-had-thoughts-of-becoming-a-real-estate-mogul-your-training-can-start-right-here/amp/",
+      "publishedDateTime": "2021-07-12T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-artificial-intelligence-is-on-the-side-of-apes-tesla-fames-ai-based-etf-sells-facebook-walmart-and-buys-amc.md",
+      "title": "Artificial Intelligence Is On The Side Of Apes? Tesla-Fame's AI-Based ETF Sells Facebook, Walmart And Buys AMC",
+      "excerpt": "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, has sold a majority of its holdings in Facebook Inc. (NASDAQ: FB) and Walmart Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/artificial-intelligence-is-on-the-side-of-apes-tesla-fame-s-ai-based-etf-sells-facebook-walmart-and-buys-amc-1030596697",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/3090841071_105297e728_o_6.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-d2iq-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "D2iQ Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-algolux-closes-184-million-series-b-round-for-robust-computer-vision.md",
+      "title": "Algolux Closes $18.4 Million Series B Round for Robust Computer Vision",
+      "excerpt": "New investment will serve to accelerate market adoption of Algolux's robust and scalable computer vision and image optimization solutions",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision/article_2463f289-37fe-5f16-bcd4-e9afc907ccde.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-closes-18-4-million-series-b-round-for-robust-computer-vision/article_2463f289-37fe-5f16-bcd4-e9afc907ccde.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/4c/94c32bf1-ef68-536c-8c84-9af1c9d96a28/60ec3d841c887.image.jpg?resize=1120%2C630",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale.md",
       "title": "This AI Asks Questions, Finds Answers And Suggests Actions, All At Scale",
       "excerpt": "SparkBeyond has developed an AI-driven dynamic research and strategic action engine that can help you create a better future",
@@ -987,196 +1176,6 @@
         "name": "Mint",
         "domain": "livemint.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-amazon-to-extend-ban-on-police-use-of-face-recognition-tech.md",
-      "title": "Amazon to Extend Ban on Police Use of Face Recognition Tech",
-      "excerpt": "Activists have targeted Amazon Web Services cloud computing unit's \"Rekognition\" facial recognition technology and Ring surveillance cameras used for home security. It was not clear the degree to which police have used the systems. Amazon last year called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
-      "originalUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://courthousenewswebsite.kinsta.cloud/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
-      "publishedDateTime": "2021-07-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-the-man-who-invented-the-self-driving-car-in-1986.md",
-      "title": "The man who invented the self-driving car (in 1986)",
-      "excerpt": "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "originalUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2018/07/ericPetersen_selfDrivingCars_RGB-e1532325107404-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "publishedDateTime": "2021-07-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-ai-brings-promise-and-peril-to-customer-relations-management.md",
-      "title": "AI brings promise and peril to customer relations management",
-      "excerpt": "Keeping customers happy requires a lot of data, and CRM platforms are increasingly relying on AI to meet those expectations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-customer-relations-management/",
-      "originalUrl": "https://venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-customer-relations-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2013/10/crm-stock-photo-e1625854062467.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-customer-relations-management/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-customer-relations-management/amp/",
-      "publishedDateTime": "2021-07-09T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-is-the-us-labor-shortage-the-big-break-ai-needs.md",
-      "title": "Is the US labor shortage the big break AI needs?",
-      "excerpt": "Misconceptions about AI in the workplace have long been a barrier to widespread adoption — but companies experiencing labor shortages should consider where it can make their employees' lives better.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/",
-      "originalUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-748338005-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/amp/",
-      "publishedDateTime": "2021-07-09T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

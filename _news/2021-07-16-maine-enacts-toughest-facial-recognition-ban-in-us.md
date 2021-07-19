@@ -9,8 +9,8 @@ ampWebUrl: "https://slate.com/technology/2021/07/maine-facial-recognition-govern
 cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp"
 type: article
 quality: 174
-heat: -1
-published: false
+heat: 214
+published: true
 
 provider:
   name: Campus Safety Magazine
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Civil Rights Groups Take Aim at Facial Recognition Tech in Stores"
-    excerpt: "Three dozen civil rights organizations have called on retailers to stop using the tech, saying “prioritizing profit over privacy is wrong.”"
-    publishedDateTime: 2021-07-14T22:46:00Z
-    webUrl: "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/"
-    ampWebUrl: "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/"
-    type: article
-    provider:
-      name: Women's Wear Daily
-      domain: wwd.com
-    quality: 174
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=800%2C400&strip=all"
-        width: 800
-        height: 400
-        isCached: true
   - title: "These retail giants are monitoring you with facial recognition, say campaigners"
     excerpt: "Campaigners created a list of retail giants they say are using facial recognition in their stores. The group has called for the practice to be banned."
     publishedDateTime: 2021-07-15T16:58:00Z
@@ -56,22 +40,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-1-2.jpg&signature=3261f0546d4c312e6f118f86303e73d5"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Congress Asks Experts for Guidance on Facial Recognition"
-    excerpt: "Law enforcement uses facial recognition systems with little oversight and, at times, disastrous impact. During a congressional hearing this week, members and experts talked through how new laws could head off greater harm."
-    publishedDateTime: 2021-07-14T23:15:00Z
-    webUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 61
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/9451d55/2147483647/strip/true/crop/1095x571+18+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F67%2F8b%2Fbf2467764012829abc8b9b917271%2Frw-better.png"
-        width: 840
-        height: 438
         isCached: true
   - title: "What are the dangers of facial recognition?"
     excerpt: "Robert Williams was wrongfully arrested after a facial recognition system failed to identify the correct culprit. Mr. Williams is seeking justice in a civil rights lawsuit."
@@ -89,42 +57,31 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Black teen forced to leave skating rink after facial recognition tech misidentifies her"
-    excerpt: "A local roller skating rink in Michigan has come under fire using facial recognition software that misidentified a Black teenager."
-    publishedDateTime: 2021-07-16T00:13:00Z
-    webUrl: "https://thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/"
-    ampWebUrl: "https://thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/amp/"
+  - title: "Facial Recognition Is Watching You"
+    excerpt: "The Boston-based Fight for the Future advocacy organization is trying to put pressure on private businesses to swear off any form of facial recognition."
+    publishedDateTime: 2021-07-19T14:14:00Z
+    webUrl: "https://safehaven.com/tech/tech-news/Facial-Recognition-Is-Watching-You.html"
     type: article
     provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 51
+      name: Safehaven
+      domain: safehaven.com
+    quality: 41
     images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/07/LamyaRobinson.Screenshot-scaled.jpg"
-        width: 1280
-        height: 720
+      - url: "https://d2t794khe5w43b.cloudfront.net/article/718x300/fb18666381bc6df1c15ed694514302fc.jpg"
+        width: 718
+        height: 300
         isCached: true
-  - title: "Federal Agencies Can't Resist Using and Abusing Facial Recognition"
-    excerpt: "Already used to identify international travelers as they enter and exit the United States, facial recognition technology is becoming increasingly reliable and may soon become a regular feature of the travel process,"
-    publishedDateTime: 2021-07-16T11:07:00Z
-    webUrl: "https://reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/"
-    ampWebUrl: "https://reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/?amp"
+  - title: "Baltimore Bill Is Most Draconian Facial Recognition Ban Yet"
+    excerpt: "Because Baltimore's recently passed bill banning use of facial recognition by private entities goes even further than Portland's ban by imposing criminal penalties and may encourage lawmakers in other jurisdictions,"
+    publishedDateTime: 2021-07-16T20:15:00Z
+    webUrl: "https://www.law360.com/employment-authority/articles/1403813/baltimore-bill-is-most-draconian-facial-recognition-ban-yet"
+    ampWebUrl: "https://www.law360.com/employment-authority/amp/articles/1403813"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/employment-authority/amp/articles/1403813"
     type: article
     provider:
-      name: Reason
-      domain: reason.com
+      name: Law360
+      domain: law360.com
     quality: 39
-  - title: "Japan Airlines Implements \"Face Express\" Facial Recognition Technology for International Flights"
-    excerpt: "JAL participated in a successful trial of a new boarding procedure called, “Face Express ” that utilizes facial recognition technology developed by Narita International Airport Corporation (NAA) and Tokyo International Airport Terminal Co."
-    publishedDateTime: 2021-07-16T13:24:00Z
-    webUrl: "https://www.aviationpros.com/airlines/press-release/21230680/japan-airlines-co-ltd-jal-japan-airlines-implements-face-express-facial-recognition-technology-for-international-flights"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 21
 
 secured: "fO3KLX85+0Dw62xpFbXtZRWFe2z9zS8niNZ7nQyRTW8tCq8hfv/1O8eAZaaOAit4Rtqnr+vsVZD7OvGxRmijWhVbKEwkSsImoTPWag+uTtFXEf+OqYgaQhzNr+BwzO7rHy+85dgWjF6Ns4DeANqxGLgvZTBa/3+NTwAL/ppJ8EUlJR5b415tedsN3UPuwnBfPrY0EMsOyiHXuPvuuRMjYUzvPk+Lgr6+ccAaYiD9sugGGtq3IDJFWWJp1zIOwxJrLLF1tnAD8ys//QN9YoBVRHCVj6VdGY/a+jJnYIYTdMwWZv38PnH0VTlBEiGEEc/TdJE7rm8ok/wdvTTbQmK3/dRz1lwck6JpFEA4X1EMHBA=;XfziWjdski/qmxSJkNq79A=="
 ---

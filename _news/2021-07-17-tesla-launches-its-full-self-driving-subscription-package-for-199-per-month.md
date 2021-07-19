@@ -63,6 +63,22 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "Tesla To Add Auto Shift To All Cars With Self Driving Package"
+    excerpt: "When Tesla Inc (NASDAQ: TSLA) first revealed its refreshed Model S and X vehicles, many were confused on the lack of traditional stalks near the steering wheel."
+    publishedDateTime: 2021-07-19T14:14:00Z
+    webUrl: "https://www.benzinga.com/tech/21/07/22040689/tesla-to-add-auto-shift-to-all-cars-with-self-driving-package"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22040689"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22040689"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/model_s_interior.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Tesla Full Self Driving subscription launches — and it costs $199 a month"
     excerpt: "If you fancy getting your hands on a Tesla with the ‘Full Self Driving’ add-on, but don’t have $10,000 to spend all in one go, you’re in luck. Because Tesla is offering it as a $199 monthly subscription."
     publishedDateTime: 2021-07-19T11:12:00Z
@@ -93,6 +109,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla full self-driving is not what most people call 'full' self-driving"
+    excerpt: "Tesla has started offering a subscription add-on for its automobiles for so-called self-driving features, though the language is a little confusing. Tesla just announced that it would sell a subscription for an enhanced version of what it calls \"autopilot,"
+    publishedDateTime: 2021-07-19T07:23:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/tesla-full-self-driving-is-not-full-self-driving/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-full-self-driving-is-not-full-self-driving/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-full-self-driving-is-not-full-self-driving/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
   - title: "Tesla launches Full Self-Driving subscription package that costs $199 per month"
     excerpt: "Tesla, one of the leading electric car manufacturers, has officially launched its Full Self-Driving (FSD) subscription which costs $199 per month. Those who previously bought the Enhanced Autopilot package will get it for $99 as the package is now discontinued."
     publishedDateTime: 2021-07-19T04:57:00Z
@@ -235,6 +262,34 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1626608118.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "2022 Audi RS 3, BMW ZBF 7er, Tesla Full Self-Driving: Today's Car News"
+    excerpt: "Comment Now! Audi has revealed its redesigned RS 3 compact performance sedan. The new car represents only an evolution of its predecessor, but"
+    publishedDateTime: 2021-07-19T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1119514_2022-audi-rs-3-bmw-zbf-7er-tesla-full-self-driving-today-s-car-news"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/audi-a3_100799779_h.jpg"
+        width: 1920
+        height: 1136
+        isCached: true
+  - title: "Tesla wants you to drop up to $200 a month for its Full Self-Driving feature"
+    excerpt: "If you’re a Tesla owner and didn’t purchase Full Self-Driving (FSD) when you first bought your car, you’re in luck. Tesla is now offering the chance to get FSD as a monthly subscription. It was bound to happen,"
+    publishedDateTime: 2021-07-19T15:56:00Z
+    webUrl: "https://knowtechie.com/tesla-wants-you-to-drop-up-to-200-a-month-for-its-full-self-driving-feature/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 36
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "ia0l2KSMO1+vNRWDe5h7N+vXXqoxsy6Eij4stmPgFSZdehNEIOH0y4fE/z5pyjD9ITFPF0SiRXaAX/FK8K7M/Uwt3zk/n9uvlhx++kkmi7m2HQ23jZkKNyy3x2dvXQ2bD7azEn4885LbZxdutmoeHy3OxkxhLwRDUx+XoqBbNAnvqT9cmskpkKz6076DjPRjs25Rrn5j1ceC4UwFa/7QCDgZwIHUG3CuWwv/DqrHyzKsDp4pOfl8/oBwF9E9xM3jfaOeYd63yyj8MfDcbwdF1oyjUKUSZb9XVk1YKgUXTjD1QjhbYVmpyy5xmrC3o64h+UXXhlw3trIyJ+kwQYhYuLy1f0u6w3s6ghRdOaSDJe4VCVCQe+79TLoXlTyzMDO0UsTytcYWLNEw919Y7WTA7i52WEhBEINulG1Yx12bWGmDSwR6//ZY2nc4OpKj/Q7mmVmuGitN2kgu8QJJs6acRVoLw85Nuh8d7P76ya+1XUB3siCY6j8CbHpQKhIF+VVb2CZzTux7V7wFoTOyDzI7yw==;dpDmUQ+/lyk6TCHmg0S2vw=="
