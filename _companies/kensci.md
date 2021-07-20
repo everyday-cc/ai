@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "KenSci"
   url: "https://twitter.com/KenSci"
-  followers: 1511
+  followers: 1510
 
 size: 51-200 employees
 yearFounded: 2015
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "KenSci"
 
-secured: "LLh9k1rVHFVYl0+OLw3hR8cmBoyVVGtnROubmbPbAt4RmH607ms6Rz15PcXPeHrGfQqQIVqf1JW2exUShOzpNX99n/5XrqZXoW38NVPIJevAd9wChCT95VkfeeCISdtsfe37zELkhoTXCUt1whAQNKMkd2cWQVeT226VdQJpLBT169FRFE9zI3/bUiQEHX81lQbXJFSw2VwiJA4nnDu76rCeg+c3E+SLb/N4rMKiMdX8doDZ8Tw7pgDsM1GznwoJ9nD/9MKoEIX6HpWuHBZwdyXinQi2WV40IH+ZOa4lvL1ZibJfgfPpWd5h9FEc1NhPKRW4J3UmDBbLhZ+qdwx5MVZiheVROZIKkm4tvIw2PS7BYH/Rve2bBr7Ea8EcOcHgp6WA7h1j+pGgxLuGgyY78CR3Wa8ow4nb4050z/oRdJY=;MJxkhNcASOxznk4sPGk16Q=="
+secured: "jpwYAahkATPLPGB26dnzUCilve34BSlyqOnnYpFh/CvBlqJxoLZbuDDGHFclwGIJ/BwIhesAyLOnVecMOcl0v3pIQMAYyB3fgmQ0l6qbVgnoT9uVonnixinmAcdkoWAWCSXK04zyci5FFSHEeT161N5fYU5e4Sa+xJ/amGctcozrcldXFnaWW5P6cccloBaflKg/KgifVGC6T1dnDQ1qZr7UWSPGQ0ymqL78XAs4auHTs2c1NZA4lEPX44JpF6LrzJm9t0Aiw/OETJYdNEYAt+P4UPF8AsJM/iyPJ4X0ux5UsEhfyT7T8cIQR24Sa0ZkZOuo8sgnWBeiI1HfpIbeOPM6G7ErJpmphWD6/ORINmFkTo7BBIRlNIMb7WCeOT48/3S0L+RBscLfDeiF/v5fRe2iTn2oDd2f9rNCrxFVvy8=;sMsNTUpLCgAIucQt0M2sSg=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Zebra Medical Vision"
 overview: "We are a next generation medical data research platform that will produce the needed amount of machine learning algorithms to provide scalable diagnostic to the next 1 billion people to join middle class. "
 type: "profile"
-heat: 64
+heat: 58
 
 website: https://www.zebra-med.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ZebraMedVision"
   url: "https://twitter.com/ZebraMedVision"
-  followers: 1974
+  followers: 1973
 
 size: 51-200 employees
 yearFounded: 2014
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=zUD7wsVx7kA"
 
-secured: "o8K91WSeNM1YycKn9vLYBcZ4LGPeREyDnXS0qoLBjpvg+wq28JuZH8yqpJBrbusYr2KylpPIbL1SvoT/kLqQVGKo7EGWwrrp+7qqLLms0mSuRjFxCsJfY1dYw3FqOSuaJD8bBXSqvqDYvLn8rd3+wZGq6sujBWCqzgxNcjuKGXSqSogr5Y7GYKWofxkQKzP65GBmt634Tr4CNVJKc/dFo53Bkr6ZVHBkQtKWHw27Ac9+yoAVNTs0hLImwC4oW7m0kqNlA5b5DMAxF4cTlOQ0ZwpdeVmxQOYWocBVEgignW1V5kSSBaJdHvn6U5D1El+2Ge1Xw/u9B8Nq9XUDA0zPqIyH1xHtbi8YDhlaPfdfYXcwReIM2I3euIF3s3pzv/vl91ZlUFcxAKnXZA82/+fVdQ==;8oymym3agysPeNRvDSV5BQ=="
+secured: "gAmSGkQ0foEJGlvcMhteTjUPPcJnSuTVTvAwFqJZsca4a2g8jnT4gp+aBfsXe2T0qYtCIUwPpnntglQ2LOhLPioCupqj37PBx8sF8WKGkc4RKIcuA2dgO8rVG6AmqsnUCdqGKqH5/g7DYDkvaXpPXIkoQDEpv+6OiDXcFf72R5rQW8iKLm/6d52lf/J+fL3N5N0q7d5hJGaN0+nBhC+izNtkqBl5zvjr0fM2w1bgOCZj53YaaTDTnPHBrDWTjo7HfGKlgRmvMGGPgwTxt0kPv2h/8271l+3Zp48r/QQ3SX/JFpvJYD1VIcH1vItJOxSxGkvXKxnWgx4dMXKn93Q8Hxw4OtCM5WpdbIe7gOz2AUzy4ju1B3IVHs1qAgcUSH+k1kTq4xdY4HKOBnt3q+mheQ==;afezkXyQ/L1U79qU0IwAOQ=="
 ---
 
