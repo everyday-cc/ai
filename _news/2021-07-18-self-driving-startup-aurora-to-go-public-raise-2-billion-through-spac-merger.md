@@ -131,22 +131,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "'Self-driving Delivery Robot' Caught by Regulations... Concerns Falling Behind in Global Competition"
-    excerpt: "Self-driving delivery robots are developing one after another, but there is still a long way to go before full-scale commercialization due to various outdated regulations. Technology development is sl"
-    publishedDateTime: 2021-07-15T08:23:00Z
-    webUrl: "https://english.etnews.com/20210715200001"
-    ampWebUrl: "https://english.etnews.com/amp/20210715200001"
-    cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210715200001"
-    type: article
-    provider:
-      name: Etnews.com
-      domain: etnews.com
-    quality: 46
-    images:
-      - url: "https://img.etnews.com/news/article/2021/07/15/cms_temp_article_15171258715300.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "PACCAR, Volvo invest in self-driving tech company Aurora’s $10.6B SPAC"
     excerpt: "Aurora Innovation gets a $10.6 billion enterprise value, the second highest of four autonomous driving software developers seeking to go public."
     publishedDateTime: 2021-07-15T19:00:00Z

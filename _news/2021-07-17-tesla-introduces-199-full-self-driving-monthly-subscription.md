@@ -109,6 +109,22 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Wanna Drop Some FSD? Tesla’s “Self-Driving” Tech Available for $99/Month"
+    excerpt: "The subscription model is available for owners of Tesla models running the company's Full Self-Driving computer 3.0 or newer hardware and the brand's Autopilot function. Tesla started placing FSD computer 3."
+    publishedDateTime: 2021-07-20T00:15:00Z
+    webUrl: "https://www.motortrend.com/news/tesla-fsd-full-self-driving-subscription-price/"
+    ampWebUrl: "https://www.motortrend.com/news/tesla-fsd-full-self-driving-subscription-price/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-fsd-full-self-driving-subscription-price/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 73
+    images:
+      - url: "https://st.motortrend.com/uploads/sites/5/2021/06/2022-Tesla-Model-S.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Tesla full self-driving is not what most people call 'full' self-driving"
     excerpt: "Tesla has started offering a subscription add-on for its automobiles for so-called self-driving features, though the language is a little confusing. Tesla just announced that it would sell a subscription for an enhanced version of what it calls \"autopilot,"
     publishedDateTime: 2021-07-19T07:23:00Z

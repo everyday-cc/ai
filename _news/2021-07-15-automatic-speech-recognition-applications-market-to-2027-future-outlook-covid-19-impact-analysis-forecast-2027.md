@@ -51,6 +51,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial Intelligence Robots Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Intelligence Robots Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 High adoption of robots for personal use such as companionship entertainment Support from governments around the world for the development"
+    publishedDateTime: 2021-07-19T09:38:00Z
+    webUrl: "https://www.openpr.com/news/2331357/artificial-intelligence-robots-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2331357/artificial-intelligence-robots-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331357/artificial-intelligence-robots-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
   - title: "Global Robotics Market (2021 to 2025) - Featuring Intuitive Surgical, iRobot and KUKA Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to 2025\" report has been added"
     publishedDateTime: 2021-07-16T08:51:00Z
@@ -65,6 +76,28 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 The market is growing at a rapid rate due to the rise in the investment in AI technology by big market"
+    publishedDateTime: 2021-07-19T10:28:00Z
+    webUrl: "https://www.openpr.com/news/2331439/artificial-intelligence-market-share-2021-global-trends-key"
+    ampWebUrl: "https://www.openpr.com/amp/2331439/artificial-intelligence-market-share-2021-global-trends-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331439/artificial-intelligence-market-share-2021-global-trends-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
+  - title: "Artificial intelligence in transportation Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Artificial intelligence in transportation market is expected to grow at a significant CAGR in the period from 2021 to 2027 Government rules for car safety are becoming more stringent as is the use of advanced driver assistance systems ADAS"
+    publishedDateTime: 2021-07-19T11:49:00Z
+    webUrl: "https://www.openpr.com/news/2331537/artificial-intelligence-in-transportation-market-share-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
 
 secured: "D9bL/emXeu5OPTfzxGL0hT5mogZH+vC90iGFkblF0lTXCqFRNOzYU+W1FWaL8L5/hj+Adn1HA7VSDtS5s0hNyJaAafcXpMDuW9ce21eSJLtTygCrAQ8ROrZGuJJl42dANW0Z//t2QtqNb0IH2sAmaPH434c0/TIgJTQac6c+lFVmCuvIoUY7mRT7/Jk66kDlFcP515/zRgDYGexv3XVVxHsugPgJMVw0aYGfI0SqXSQQ434TplKRV3g4+UJhuuaYfDQQWcILr7Jhtqog+mYgMN2ndxFnsWLgDtwpzok2LeARf/g08S/577VPXhcNK/YpgoRHRhfpcCGl81YU/DP3DkxOOIEwSbM53a/uEkpTDes=;K3mwR9bKeSgRrbRRRXDXYg=="
 ---

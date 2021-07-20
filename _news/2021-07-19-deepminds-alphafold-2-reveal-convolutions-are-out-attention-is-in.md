@@ -63,6 +63,22 @@ related:
         width: 1198
         height: 600
         isCached: true
+  - title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
+    excerpt: "We know a lot more about how AlphaFold 2 works, but the mystery of why proteins fold the way they do remains something of a mystery."
+    publishedDateTime: 2021-07-19T22:30:00Z
+    webUrl: "https://www.zdnet.com/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/07/19/5824a4aa-1d90-417d-bbae-4f336143e4b4/deepmind-alphafold-2-invariant-point-attention-module.jpg"
+        width: 1586
+        height: 1130
+        isCached: true
   - title: "New protein folding technology from UW lab rivals DeepMind, promises to accelerate research"
     excerpt: "The findings, building on work performed by the Google-owned company DeepMind last fall, were published today in the journal Science, on the same day DeepMind released its approach in the journal ..."
     publishedDateTime: 2021-07-16T03:04:00Z

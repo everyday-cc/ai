@@ -79,6 +79,22 @@ related:
         width: 1586
         height: 1130
         isCached: true
+  - title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
+    excerpt: "We know a lot more about how AlphaFold 2 works, but the mystery of why proteins fold the way they do remains something of a mystery."
+    publishedDateTime: 2021-07-19T22:30:00Z
+    webUrl: "https://www.zdnet.com/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/07/19/5824a4aa-1d90-417d-bbae-4f336143e4b4/deepmind-alphafold-2-invariant-point-attention-module.jpg"
+        width: 1586
+        height: 1130
+        isCached: true
   - title: "DeepMind and a rival release dueling code for protein-folding AI"
     excerpt: "The race to release both teams’ code reflects not just an advance for computational biology, but for a culture of transparency in the field."
     publishedDateTime: 2021-07-15T18:00:00Z

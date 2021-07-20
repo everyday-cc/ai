@@ -21,19 +21,37 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2027"
-    excerpt: "The rapidly evolving vast and complex healthcare industry is slowly deploying AI solutions into its mainstream workflows to increase the productivity of various healthcare. Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter and enable them to simulate human intelligence and perform various higher-order value-based tasks like visual perception,"
-    publishedDateTime: 2021-07-15T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15"
+  - title: "AI Revolution in 2021: 5 Industries That Are Thriving With Artificial Intelligence"
+    excerpt: "AI or Artificial Intelligence is a buzzword across the world these days. Several industries are prospering with AI implementation, and many others are gearing up to adopt this latest technology to start a journey of steady progress."
+    publishedDateTime: 2021-07-19T07:05:00Z
+    webUrl: "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/"
+    ampWebUrl: "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: Impacts
+      domain: techbullion.com
+    quality: 70
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://techbullion.com/wp-content/uploads/2021/07/5-Industries-That-Are-Thriving-With-Artificial-Intelligence-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Busting the myth AI will totally replace QC jobs in the manufacturing industry"
+    excerpt: "Constantly evolving Industrial automation and IoT, availability of big data, and access to improved computing power are some key factors that are driving the Artificial Intelligence (AI) in manufacturing market."
+    publishedDateTime: 2021-07-19T05:28:00Z
+    webUrl: "https://www.dqindia.com/busting-myth-ai-will-totally-replace-qc-jobs-manufacturing-industry/"
+    ampWebUrl: "https://www.dqindia.com/busting-myth-ai-will-totally-replace-qc-jobs-manufacturing-industry/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/busting-myth-ai-will-totally-replace-qc-jobs-manufacturing-industry/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 53
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/07/workers-5246640_1280_850x400.jpg"
+        width: 850
+        height: 400
         isCached: true
   - title: "AI Governance Market Overview 2021: By Market Size, Industry Growth, Market Trends and Global Opportunities Forecast to 2026"
     excerpt: "This report aims to estimate the “AI Governance Market” for 2021 and to project the expected demand by 2026. This"
@@ -49,26 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Education Market Size, Status and Forecast 2021-2027"
-    excerpt: "The global Artificial Intelligence (AI) in Education market size is projected to reach US$ XX million by 2027, from US$ XX million in 2020, at a CAGR of XX% during 2021-2027. With industry-standard accuracy in analysis and high data integrity, the report ..."
-    publishedDateTime: 2021-07-15T08:56:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4669860-global-artificial-intelligence-ai-in-education-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 39
-  - title: "Artificial Intelligence Robots Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "Artificial Intelligence Robots Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 High adoption of robots for personal use such as companionship entertainment Support from governments around the world for the development"
-    publishedDateTime: 2021-07-19T09:38:00Z
-    webUrl: "https://www.openpr.com/news/2331357/artificial-intelligence-robots-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2331357/artificial-intelligence-robots-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331357/artificial-intelligence-robots-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
   - title: "AI Servers Market Growth 2021: Emerging Growth Factors, Industry Share, Size, Growth Prospects, Business Development and Forecast to 2027"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “AI Servers Market” report"
     publishedDateTime: 2021-07-16T10:59:00Z
@@ -116,55 +114,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
-  - title: "Global Artificial Intelligence (AI) in Retail Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Retail Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial intelligence (AI) refers to machines that can mimic"
-    publishedDateTime: 2021-07-16T01:27:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4667110-global-artificial-intelligence-ai-in-retail-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 23
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Edge Artificial Intelligence (AI) Chip market report provides"
-    publishedDateTime: 2021-07-17T04:32:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4674743-global-edge-artificial-intelligence-ai-chip-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 23
-  - title: "Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 The market is growing at a rapid rate due to the rise in the investment in AI technology by big market"
-    publishedDateTime: 2021-07-19T10:28:00Z
-    webUrl: "https://www.openpr.com/news/2331439/artificial-intelligence-market-share-2021-global-trends-key"
-    ampWebUrl: "https://www.openpr.com/amp/2331439/artificial-intelligence-market-share-2021-global-trends-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331439/artificial-intelligence-market-share-2021-global-trends-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
-  - title: "Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027 report by QYResearch Group. North America is expected to be the largest and"
-    publishedDateTime: 2021-07-17T07:36:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4677370-global-artificial-intelligence-for-healthcare-applications-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 19
-  - title: "Artificial intelligence chipset Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence chipset chipset market is expected to grow at a significant CAGR in the period from 2021 to 2027 The use of AI for enhancing customer services and decreasing operational costs the rising number of AI applications increased"
-    publishedDateTime: 2021-07-19T10:53:00Z
-    webUrl: "https://www.openpr.com/news/2331459/artificial-intelligence-chipset-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2331459/artificial-intelligence-chipset-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331459/artificial-intelligence-chipset-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
   - title: "Artificial Intelligence Oil Gas Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "Artificial Intelligence Oil Gas Market is expected to rise at a moderate CAGR during the forecast period from 2021 to 2027 Companies in the oil and gas sector are experimenting with contemporary technologies to increase their efficiency and revenue By"
     publishedDateTime: 2021-07-19T09:47:00Z
@@ -198,80 +147,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 14
-  - title: "Artificial intelligence in transportation Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence in transportation market is expected to grow at a significant CAGR in the period from 2021 to 2027 Government rules for car safety are becoming more stringent as is the use of advanced driver assistance systems ADAS"
-    publishedDateTime: 2021-07-19T11:49:00Z
-    webUrl: "https://www.openpr.com/news/2331537/artificial-intelligence-in-transportation-market-share-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
-  - title: "Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence has become a leading trend that affects"
-    publishedDateTime: 2021-07-17T07:38:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4657100-global-artificial-intelligence-in-fintech-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
-  - title: "Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence as a Service Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence as a"
-    publishedDateTime: 2021-07-15T09:05:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4670494-global-artificial-intelligence-as-a-service-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 9
-  - title: "Global Medical Imaging Artificial Intelligence Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Medical Imaging Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Medical Imaging Artificial Intelligence"
-    publishedDateTime: 2021-07-19T22:35:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4629078-global-medical-imaging-artificial-intelligence-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 8
-  - title: "Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence for Video"
-    publishedDateTime: 2021-07-17T07:39:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4630235-global-artificial-intelligence-for-video-surveillance-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 4
-  - title: "Global Speech and Voice Recognition Technology Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Speech and Voice Recognition Technology Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Speech and Voice Recognition"
-    publishedDateTime: 2021-07-15T09:04:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4670511-global-speech-and-voice-recognition-technology-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Global Voice Recognition for Automotive Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Voice Recognition for Automotive Market Size, Status and Forecast 2021-2027 report by QYResearch Group. The hybrid technology is estimated to be the largest"
-    publishedDateTime: 2021-07-15T08:57:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4669978-global-voice-recognition-for-automotive-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Global Data Science and Machine-Learning Platforms Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Data Science and Machine-Learning Platforms Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Data Science and"
-    publishedDateTime: 2021-07-17T00:39:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4673908-global-data-science-and-machine-learning-platforms-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
 secured: "MRjuq8lOTTopZecUJzsmWECBPZC5tZu6RTQ55DR0Gr2vzNV+r1Vh/Uln6O4N/KPPhgU4slKMGC7Ha/3+E+BOfSIEvPMMITKUKOZjZ/Ed63kweIk3+XZcTOwGl/iZPyD6MTC213PZ5JMwYiNWLrsOs79g2DELhd46Z6946xV2lRv+xV3Cf2+MLqbdEtyEjycsFk/ugWm3ggsxIur0CbI3Mz/MPI865+Npb6nX3Y6T95x1l53beeCmdq3kaF68u5HRmgg9EdnziOQCzcYVMtGFKMwEUMLenF2dA1eYQ4PRt4AR6ywAQooUhI3/3rATM4WHZVGX9vCyJdT875JfSWoxMsXaI/YWxes1yHSMgGy8Ito=;gl3qYt4f6mf4/wKKml13ag=="
 ---

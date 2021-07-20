@@ -55,6 +55,28 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial Intelligence Robots Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Intelligence Robots Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 High adoption of robots for personal use such as companionship entertainment Support from governments around the world for the development"
+    publishedDateTime: 2021-07-19T09:38:00Z
+    webUrl: "https://www.openpr.com/news/2331357/artificial-intelligence-robots-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2331357/artificial-intelligence-robots-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331357/artificial-intelligence-robots-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
+  - title: "Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 The market is growing at a rapid rate due to the rise in the investment in AI technology by big market"
+    publishedDateTime: 2021-07-19T10:28:00Z
+    webUrl: "https://www.openpr.com/news/2331439/artificial-intelligence-market-share-2021-global-trends-key"
+    ampWebUrl: "https://www.openpr.com/amp/2331439/artificial-intelligence-market-share-2021-global-trends-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331439/artificial-intelligence-market-share-2021-global-trends-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
   - title: "Automatic Speech Recognition Applications Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast - 2027"
     excerpt: "The Global Automatic Speech Recognition Applications Market is valued at USD million in 2019 The market size will reach USD million by the end of 2027 growing at a CAGR of 1 during 2021 2027 Automatic Speech Recognition Application is"
     publishedDateTime: 2021-07-15T10:08:00Z
@@ -66,6 +88,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
+  - title: "Artificial intelligence in transportation Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Artificial intelligence in transportation market is expected to grow at a significant CAGR in the period from 2021 to 2027 Government rules for car safety are becoming more stringent as is the use of advanced driver assistance systems ADAS"
+    publishedDateTime: 2021-07-19T11:49:00Z
+    webUrl: "https://www.openpr.com/news/2331537/artificial-intelligence-in-transportation-market-share-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
 
 secured: "eLVPoIiFenGvoKpoW3VUlSNKppksQEqYhTEANe9BQZOjR4BdDC+OJFxiuu4okF0PFc+O9Lt7kigSZsnGQg9WlRnQAhLWVJ7LbBdzRuF0/CCtaDKWQzbqTI7q+mHsopeaEOOfbYTdpQfa7sn/G/E8CwKnrTkuO3dNKzDMEwowGOCkqEOOiuQgCuC6tpqiT1jqyUWVnDfeRVlTvjW0lfUq/73AFnE5um1vTUsnh08JvoQOjBlVLoMV/5OefSbMoKhKH0FaiA/ogMVqsyKxd7K5h3yqdtATojft5O5PhNViEi6ODNfK08vs6lXbyIvQcVpt4zPf7QiStN3ggjNMMz3CY63FlpwCfZ7EE08jMNL/9Yg=;yi0MPojTEgrwjroJLOSZWQ=="
 ---

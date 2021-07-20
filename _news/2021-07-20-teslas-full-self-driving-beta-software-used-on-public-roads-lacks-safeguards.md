@@ -105,6 +105,22 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Wanna Drop Some FSD? Tesla’s “Self-Driving” Tech Available for $99/Month"
+    excerpt: "The subscription model is available for owners of Tesla models running the company's Full Self-Driving computer 3.0 or newer hardware and the brand's Autopilot function. Tesla started placing FSD computer 3."
+    publishedDateTime: 2021-07-20T00:15:00Z
+    webUrl: "https://www.motortrend.com/news/tesla-fsd-full-self-driving-subscription-price/"
+    ampWebUrl: "https://www.motortrend.com/news/tesla-fsd-full-self-driving-subscription-price/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-fsd-full-self-driving-subscription-price/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 73
+    images:
+      - url: "https://st.motortrend.com/uploads/sites/5/2021/06/2022-Tesla-Model-S.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Tesla Introduces $199 Full Self-Driving Monthly Subscription"
     excerpt: "Tesla has introduced a subscription offering that allows its customers to use its Full Self-Driving (FSD) autonomous driving software in supported vehicles in exchange for $199 per month. Electrek reported that Tesla customers who purchased the Enhanced Autopilot package—which the company no longer offers—will be able to subscribe to FSD for $99 per month instead."
     publishedDateTime: 2021-07-17T16:40:00Z
@@ -357,6 +373,6 @@ related:
         height: 600
         isCached: true
 
-secured: "w+1vyiOhAA4ykP7OQplahNb8TH3bEQ6DzB7CKdXJiH2b2ckstMMR4m3X2WcKUGVbV5H3nj3uyq6sMr/pQxei0TAz8V1PizXEbQz1bozJMQkxctUzGr5P4Wl8g5S4J4K2iNEn8P8j1tdSH0IJiJoFlxMpYQMd4+fOYjYbjJlqdAUp96U9i0zuNbflQZt1t6//A9/wqK2nWvSGv0yWQelr6Wmro1QDP+ez13yt1uvafHkBxip6hKcAT7tpu+7VOIT0VjcrgVH4FS1E2+S0dHA+dq6isGFc5PidAkIsSIs+wHC8yHg73q8bV/NmEmzuQOZVS15eimOLhiqeB0CL10GiE5IW97TFqNuadcm8k9NQNC0=;Iqm3qkrVjKsZ55tzAqvECw=="
+secured: "DYn/mlqjBbUyVcxHEI+AZqbb3nAl5+c/XVaAif4guQ8GI3rCrwQmRloKxfagQANHx/M84PBddaVuaKvkv8ESOddGSwCz3s+tZs5P7mRCufq2BsnHM7gdnGri3MWNL5v7B5bfz8+GG/9Nt67svkXNmq2mJlwBX9LMCaz1z4BVtdlrLBWyuFwBeTK5/zOycFQlqEkhMusjw6hMQa6Yzsa+2XwI5R8giARzm1ZUfK9NXf7LfVzR5Jze8l3j5gSL+xN262X/cUhg+7fMbhpcF+TttYZDIMWJruyYmPEZiiGzhvmrIk3YMNowQSDPPIQ7HnK7kZKdcVm8osjQCDgIom8uAVry6qFu0VKCLln8MjweIZthbwW20TVBsuXdHALCPjIojU0vqBlvoIKJLsii9OI8LmNWMzPwa+9uLygRFN3h64hgoqYSDX9bfKWEOQ0QSStOhMpBd1pkfEVK+Aukm2tZMmsH5lMQ51M0BSVbUIAVxI8tlunuIQaD8iuhEhHt2WH2HAIrnrVrq3ONez2NoZXZHQ==;9F0CyOgcTxlSPLaYcWfDnw=="
 ---
 

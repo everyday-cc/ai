@@ -147,22 +147,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "'Self-driving Delivery Robot' Caught by Regulations... Concerns Falling Behind in Global Competition"
-    excerpt: "Self-driving delivery robots are developing one after another, but there is still a long way to go before full-scale commercialization due to various outdated regulations. Technology development is sl"
-    publishedDateTime: 2021-07-15T08:23:00Z
-    webUrl: "https://english.etnews.com/20210715200001"
-    ampWebUrl: "https://english.etnews.com/amp/20210715200001"
-    cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210715200001"
-    type: article
-    provider:
-      name: Etnews.com
-      domain: etnews.com
-    quality: 46
-    images:
-      - url: "https://img.etnews.com/news/article/2021/07/15/cms_temp_article_15171258715300.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Company That Absorbed Uber Self-Driving Is Going Public in $11 Billion SPAC Deal"
     excerpt: "The latest to join the SPAC boom is Aurora Innovation, the Silicon Valley startup that absorbed Uber’s self-driving unit last year. Aurora announced Thursday that it will go public later this year through a reverse merger with Reinvent Technology Partners,"
     publishedDateTime: 2021-07-16T19:32:00Z
