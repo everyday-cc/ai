@@ -9,7 +9,7 @@ ampWebUrl: "https://techbooky.com/ai-that-can-imagine/?amp=1"
 cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/ai-that-can-imagine/?amp=1"
 type: article
 quality: 70
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "A machine learning breakthrough: Using satellite images to improve human lives"
+    excerpt: "More than 700 imaging satellites are orbiting the earth, and every day they beam vast oceans of information—including data that reflects climate change, health and poverty—to databases on the ground."
+    publishedDateTime: 2021-07-20T14:07:00Z
+    webUrl: "https://techxplore.com/news/2021-07-machine-breakthrough-satellite-images-human.html"
+    ampWebUrl: "https://techxplore.com/news/2021-07-machine-breakthrough-satellite-images-human.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-machine-breakthrough-satellite-images-human.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/a-machine-learning-bre.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Researchers Enable AI To Use Its “Imagination” – Closer to Humans’ Understanding of the World"
     excerpt: "A team of researchers at USC is helping AI imagine the unseen, a technique that could also lead to fairer AI, new medicines, and increased autonomous vehicle safety. Imagine an orange cat. Now, imagine the same cat,"
     publishedDateTime: 2021-07-18T20:44:00Z

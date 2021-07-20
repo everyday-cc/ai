@@ -44,20 +44,6 @@ related:
         height: 426
         isCached: true
   - title: "Carnegie Mellon University Launches The Robotics Project"
-    excerpt: "In a grainy video shot in the early 1980s on Carnegie Mellon University's campus, Ivan Sutherland rides on top of the Trojan Cockroach, a six-legged machine considered the first controlled by a computer and capable of carrying a person."
-    publishedDateTime: 2021-07-15T21:07:00Z
-    webUrl: "https://www.cs.cmu.edu/news/carnegie-mellon-university-launches-robotics-project"
-    type: article
-    provider:
-      name: cmu.edu
-      domain: cmu.edu
-    quality: 54
-    images:
-      - url: "https://www.cs.cmu.edu/sites/default/files/CMU_Libraries_RoboticsProject_KateBarbera_TrojanCockroach-Web.jpg"
-        width: 800
-        height: 1200
-        isCached: true
-  - title: "Carnegie Mellon University Launches The Robotics Project"
     excerpt: "This is the world's first attempt to preserve and promote the legacy of the field and the go-to repository for the past, present and future of robotics."
     publishedDateTime: 2021-07-19T15:49:00Z
     webUrl: "https://www.cmu.edu/news/stories/archives/2021/july/robotics-project.html"

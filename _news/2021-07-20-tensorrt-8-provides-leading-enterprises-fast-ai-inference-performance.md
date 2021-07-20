@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2021/07/20/tensorrt-8-provides-leading-e
 webUrl: "https://insidebigdata.com/2021/07/20/tensorrt-8-provides-leading-enterprises-fast-ai-inference-performance/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 700
     height: 395
     isCached: true
+
+related:
+  - title: "Nvidia accelerates AI inference performance with TensorRT 8 boosts"
+    excerpt: "Nvidia Corp. is speeding up artificial intelligence inference with the launch of the next generation of its TensorRT software today. TensorRT 8 is the eighth iteration of Nvidia’s popular AI software that’s used for high-performance deep learning inference."
+    publishedDateTime: 2021-07-20T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/07/20/nvidia-accelerates-ai-inference-performance-tensorrt-8-optimizations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/TensorRT-8-Press-Graphic.jpg"
+        width: 2048
+        height: 1024
+        isCached: true
 
 secured: "SqksRYUARnSJORkt/ZZhuoOGEZZqoWTJ0HGPpy50m1xWcEADCR3ctHzk6SCy27+cLoOLy5LudAbQLHj0jWfPvmX3hBKegtwGhtV57wqb3zZLKPYXMpxZ3lTzQ5bnQT2ureWP+rc8CZ4QjunGApNb5myzlKkqscWne+s4ivq4yYK8FwCr9vEKZUrd899Mzk1Q0zMCobhwZZhcs5AEIunTbXySfDkPOtQBJqt7nRwfkmMU1lP98k40oCNmC+d3yN9bI/3Vvrf+fOMTlOd+Z1bf7WOAhsKdpoTuq6v8mxMZV97dttrIgHR/A2mp/bjFf+6ZEfchKtKaTrSrDMoAz+hTaNw7QirTtjncGoMLpKbtlic=;MRiLzxE2gftRn/uSXgvFRA=="
 ---

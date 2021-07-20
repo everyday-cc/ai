@@ -71,16 +71,7 @@ related:
         width: 6646
         height: 4430
         isCached: true
-  - title: "Self-Driving Startup Aurora Innovation Is Going Public: Is It a Buy?"
-    excerpt: "Self-driving technology start-up Aurora Innovation said on July 15 that it has agreed to go public via a merger with Reinvent Technology Partners Y (NASDAQ: RTPY), a special-purpose acquisition company (SPAC),"
-    publishedDateTime: 2021-07-15T21:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-startup-aurora-innovation-is-going-public%3A-is-it-a-buy-2021-07-15"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
 
-secured: "JuqxXNEcheg60pzN4t88s50gaTgT4CMNTDiJuSVbpNo6Z4byasme6GFI/q3BXQO0h3yC/E55jyYxz2HXIOBpYf02zPMkc1E/63DaDJ2NBKkOpnQAyJCfJnOWGyve2jJz2C/IhQiQm/ISg3Mx3OuQogwdUmgKMSht05rNQWsojjm3Fa/wrPD/TmDaW73daV8y8MZ62+aGGKSHJytb6iOf/Dm4H+Dgil4URSTNMQFnH/9ByBp7SKFN06HBXwqaFzsK68NB1QSfjcFvbyANAjuaHh4AW+Ps2SLQrR7Rhr7fXw6IU8AvLxY7ke9gQ0vHTYp8C16a1TsbZITxbDXnTW/fSWk+PHnokahfgep1KnPdGDA=;5XQCggbnxtVZF6BuuZ0ilw=="
+secured: "dZut5e9hMCPClEfueHeGHrs2fKShIgqfy8ojZ+6/+p/kuNJq2mIz71qA276TzgkyOtQywzjf89Ziljp9zJtrVbxlBZ1a5vwZNMMQzsMROSB0PNgXeJTPelTbRCP5KyHcAEJNpu7JQ/TXbCAKnwsjsbHDJvs/mdqNqhZwEaBVys0KLIni253KRXadB2RwpJuKN3oZdGIhlY+vcWvA/5ffq78uSLS+zhpVCzrmgSCwDqpgDj84fQusLmg/40uEbfAPi5k4F0eGdpo/ve+FgMvRCkvBN2hJyHyT842Zd4pnjmwJpJ5pHZshD+C4cSkYTMXuiG69x14Gj+dnTzSKCNo6s04qpPwoQMBQY7Ep/vFZkqY9VSVS8OHSMgzmnxYh1zNN6FfwIVJ28F53KHG8YrYNZb0oJR0rlZHbajH5u82/O1jEBI2Fz1dXJPTsW0VlkS3Uz2zxzbiZybRJbtYB13puTnz8Aut0fO6UW6Fr7D/r8Twbj73NcsWfyR3LDu8iBnvGekx9DJXn+HLbW2uPoEM97Q==;opXi9KaLLLjbw0VTm+rzOw=="
 ---
 

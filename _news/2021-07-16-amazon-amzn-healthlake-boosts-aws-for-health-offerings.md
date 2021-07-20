@@ -65,48 +65,6 @@ related:
         width: 4432
         height: 2955
         isCached: true
-  - title: "Amazon HealthLake Is GA Under New ‘AWS for Health’ Banner"
-    excerpt: "Amazon Web Services continues cloud providers' industry-specific push with the release of Amazon HealthLake under its new 'AWS for Health' banner"
-    publishedDateTime: 2021-07-15T22:19:00Z
-    webUrl: "https://www.crn.com/news/cloud/amazon-healthlake-is-ga-under-new-aws-for-health-banner"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 41
-    images:
-      - url: "https://www.crn.com/resources/026b-12b57f76c066-3aed31206e03-1000/aws-sign-v2.jpg"
-        width: 1500
-        height: 1126
-        isCached: true
-  - title: "Amazon announces availability of HealthLake cloud repository"
-    excerpt: "Internet services giant Amazon Web Services has announced that its HealthLake cloud-based data repository is now available for use by healthcare and life sciences organizations."
-    publishedDateTime: 2021-07-15T22:25:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132950"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 39
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_15_22_13_0934_computer_data_wave_social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Amazon announces availability of HealthLake"
-    excerpt: "Internet services giant Amazon Web Services has announced that its HealthLake cloud-based data repository is now available for use by healthcare and life sciences organizations."
-    publishedDateTime: 2021-07-15T23:01:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132950"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 39
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_15_22_13_0934_computer_data_wave_social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Your occasional storage digest with AWS HealthLake, Delphix, Infrascale, XenData and much more"
     excerpt: "This week we have AWS doing a neat health sector vertical market data lake offering with partners, Delphix bragging about its growth and diversity hiring credentials, and Infrascale offering MSPs and VARs new backup appliances."
     publishedDateTime: 2021-07-16T15:16:00Z
@@ -120,6 +78,20 @@ related:
       - url: "https://blocksandfiles.com/wp-content/uploads/2021/07/Warfield-Hansen-Gupta.jpg"
         width: 950
         height: 600
+        isCached: true
+  - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
+    excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"
+    publishedDateTime: 2021-07-20T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/680972/Redox_Logo.jpg?p=facebook"
+        width: 902
+        height: 475
         isCached: true
 
 secured: "T91nzp9skMkHv6iMrQlAK5iA/GAbMg9kb6ubd6zw/d/J6EpUJW/At8OoK1nt9KXydtP+BaeLfT72FwZyNm6ZDF/R/iU+26c5rEph9nMq7JG/5jQWAolvgnfqJYIL8wgqPw2asS9q+hM8G1lKvdj2KrH7gmmeOvkOPFo8fcI+9J7BE86vdUMo3KiqyCdiUx4Pe7Q/wSgvXaerU8471UbFMMhcW2w+4nUNH7X8ooYmEsl3DGn/PNcvuOJA2ENQ1BDkd78JtEsJJOywMEFMtwNVDDdnFiDvYZhKON5dvHjoAhV5v9dLVmxw2SfkFmHabsqXf7xI8ttKB5PRVYpmN5NPLOTOtnNs4DLesKQARVzArwA=;qt3xfQuZqCaQUFTjsiYC3A=="

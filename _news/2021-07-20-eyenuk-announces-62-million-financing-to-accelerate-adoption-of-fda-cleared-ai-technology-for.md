@@ -34,9 +34,25 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 104
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Intel, CPPIB Back Canadian Chip Startup in $125 Million Round"
+    excerpt: "Intel Capital co-led a $125 million investment in Untether AI Corp., a Toronto-based startup that develops high-performance chips for artificial intelligence programs."
+    publishedDateTime: 2021-07-20T14:20:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/intel-cppib-back-canadian-chip-startup-in-125-million-round-696992"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/intel-cppib-back-canadian-chip-startup-in-125-million-round-696992"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/intel-cppib-back-canadian-chip-startup-in-125-million-round-696992"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/07/20/1089950-intel.jpg"
         width: 1000
         height: 600
         isCached: true

@@ -57,15 +57,6 @@ related:
         width: 6646
         height: 4430
         isCached: true
-  - title: "Self-Driving Startup Aurora Innovation Is Going Public: Is It a Buy?"
-    excerpt: "Self-driving technology start-up Aurora Innovation said on July 15 that it has agreed to go public via a merger with Reinvent Technology Partners Y (NASDAQ: RTPY), a special-purpose acquisition company (SPAC),"
-    publishedDateTime: 2021-07-15T21:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-startup-aurora-innovation-is-going-public%3A-is-it-a-buy-2021-07-15"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Self-driving car startup Aurora on road to going public"
     excerpt: "Self-driving car startup Aurora on Thursday announced it is taking a side road to going public in a transaction valuing it at $13 billion. Silicon"
     publishedDateTime: 2021-07-20T12:04:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/how-conv
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/how-conversational-ai-can-help-digital-transformation-succeed/"
 type: article
 quality: 67
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence is transforming our world"
+    excerpt: "The impact of Artificial Intelligence continues to be felt across industries. A McKinsey report after analysing some AI use cases stated that ‘the impact of artificial intelligence will most likely be substantial in marketing and sales as well as supply-chain management and manufacturing’."
+    publishedDateTime: 2021-07-17T23:24:00Z
+    webUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/"
+    ampWebUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2020/05/31173538/Chukwuemeka-Fred-Agbata1.jpg"
+        width: 770
+        height: 420
+        isCached: true
   - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
     excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
     publishedDateTime: 2021-07-19T12:36:00Z
@@ -70,6 +86,20 @@ related:
         width: 603
         height: 321
         isCached: true
+  - title: "Understanding how AI Drives Digital Transformation?"
+    excerpt: "When AI and machine learning become part of a company's strategy, it represents a new digital transformation era. FREMONT, CA: In a dynamic, fast-changing market world, digital transformation is one of the most critical factors of how companies deliver ..."
+    publishedDateTime: 2021-07-20T06:27:00Z
+    webUrl: "https://www.cioapplications.com/news/understanding-how-ai-drives-digital-transformation-nid-8112.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 37
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/gs3kk423.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
     excerpt: "SenseTime, a leading global artificial intelligence (AI) company, yesterday launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asia to further their AI capabilities."
     publishedDateTime: 2021-07-20T01:00:00Z
@@ -85,6 +115,6 @@ related:
         height: 493
         isCached: true
 
-secured: "O4GKpufIWthqfOfdtQAD5WDs5q0b7RQCXAxDlZ4P3H/bFvDMEC9xDyuKlI4ZPSeoXb7uTjAs8Hiq8IX9yl/TwY0bnSFfHOt++/pYDjJbIFLzM4tyz/TNdhAPEZrxVjtkLdAtMGQRsHDU3i86E6Ag55sIK60RJK4MTbxpg4Doxg70uuF9SF+Jr7aG971Jwu5oFkzuifVDR4FHcty2pUhdeAM5cy2X5xhr1h8gUTue9Wi1CsbNtORKUVvy5osVUTIq8DImDHYFi1qHFJ//qFlbjKte6uGbuyaEr0WHayoc64083U10mJmE68b7JYHLGnoHf9QuDeR4O3a4BToAp8VJd3tHlKfQahqvywoFr8WpgOg=;x0UrcJAjbVeJdMHygVSfCg=="
+secured: "/lI587b8o7KzHzu3D17naY+bRc0kQSfyFCRNq/dl2ms8sdXmUNz2+9hOgQWPn0sfeZXyJvWs5UK7LOALJvk1qebqTd5VHBmXAL5OBitcsJRsQw/04qttAyA87fcRXuyoYpCK1mpPOTYksr5w9z4CiUYougdHKEZa2XJenfYO0ZvB2acynzQrcc57ozmCa8zIdBhM/3qnvDf0sKpscVBMIjUIcBp011t7bx7szofcCSamwB5aPLoHXqlhJMlHonrOcn+HdxG1QpFkr4dLVOxyqMvs4gSLS6qh1q73DFHkFs+9HsPC7JXBwIx8+S3MpGqgp+ceOsU1T2Jdx90zOcMgOUXkQ+cJB+La/vr5yHehN7eaKkXEV02oOVicLGGXN5IElo9xFQlmcBKuoYtGyungGKLBNZB666ISYiVb3WuR7aZN6+G1k3UI0YHqVn7fcOpNguz3RD6HKtutyfct6L57/qvi3GmkSI7IGPRBPBiqq0zW6MgwQV0WgFEp/gjcY6vIx3CJgr0VVqkgyJGcUvMgJg==;oTK+dLD6NIPpFM0UDgIGyQ=="
 ---
 

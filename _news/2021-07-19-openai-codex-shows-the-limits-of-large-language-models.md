@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 633
         isCached: true
+  - title: "OpenAI abandons robotics research"
+    excerpt: "OpenAI disbands its robotics research team due to lack of large enough data sets to effectively generate reinforcement models."
+    publishedDateTime: 2021-07-20T15:42:00Z
+    webUrl: "https://www.therobotreport.com/openai-abandons-robotics-research/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 99
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/07/openai-featured-web.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "Don’t mistake OpenAI Codex for a programmer"
     excerpt: "One thing that needs to be reminded is that, no matter how fascinating Codex’s output is, the deep learning model does not understand programming."
     publishedDateTime: 2021-07-17T08:00:00Z

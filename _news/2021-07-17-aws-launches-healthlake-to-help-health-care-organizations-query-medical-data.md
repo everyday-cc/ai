@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-h
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp"
 type: article
 quality: 86
-heat: 156
+heat: 136
 published: true
 
 provider:
@@ -70,48 +70,6 @@ related:
         width: 4432
         height: 2955
         isCached: true
-  - title: "Amazon HealthLake Is GA Under New ‘AWS for Health’ Banner"
-    excerpt: "Amazon Web Services continues cloud providers' industry-specific push with the release of Amazon HealthLake under its new 'AWS for Health' banner"
-    publishedDateTime: 2021-07-15T22:19:00Z
-    webUrl: "https://www.crn.com/news/cloud/amazon-healthlake-is-ga-under-new-aws-for-health-banner"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 41
-    images:
-      - url: "https://www.crn.com/resources/026b-12b57f76c066-3aed31206e03-1000/aws-sign-v2.jpg"
-        width: 1500
-        height: 1126
-        isCached: true
-  - title: "Amazon announces availability of HealthLake cloud repository"
-    excerpt: "Internet services giant Amazon Web Services has announced that its HealthLake cloud-based data repository is now available for use by healthcare and life sciences organizations."
-    publishedDateTime: 2021-07-15T22:25:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132950"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 39
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_15_22_13_0934_computer_data_wave_social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Amazon announces availability of HealthLake"
-    excerpt: "Internet services giant Amazon Web Services has announced that its HealthLake cloud-based data repository is now available for use by healthcare and life sciences organizations."
-    publishedDateTime: 2021-07-15T23:01:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132950"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 39
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_15_22_13_0934_computer_data_wave_social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Your occasional storage digest with AWS HealthLake, Delphix, Infrascale, XenData and much more"
     excerpt: "This week we have AWS doing a neat health sector vertical market data lake offering with partners, Delphix bragging about its growth and diversity hiring credentials, and Infrascale offering MSPs and VARs new backup appliances."
     publishedDateTime: 2021-07-16T15:16:00Z
@@ -125,6 +83,20 @@ related:
       - url: "https://blocksandfiles.com/wp-content/uploads/2021/07/Warfield-Hansen-Gupta.jpg"
         width: 950
         height: 600
+        isCached: true
+  - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
+    excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"
+    publishedDateTime: 2021-07-20T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/680972/Redox_Logo.jpg?p=facebook"
+        width: 902
+        height: 475
         isCached: true
 
 secured: "Fe+sWbiBHrdxnjNqWn8b6TgmnrtoI5ai33tBQTVi1lSas+fz/9V5DH+aRDhQgp5KP1a8BXQlJ9tRErzQBXKG1f2Y6r+6lCMW+uLsfFYDe1hRxo1286kUf2UJjw51H0S3FVQO5uadiGRPU+oEus3/SlXUKg8DkQUyRgI2fH0pbdXh6zSN3f9VGbP0Wx8M1aoLuvkUGgd5roSxGmAUS8RuoJO4kOS9ShtKySqN2my12KGiS6brrjtN9sFBka+KFoLQ1TJ4yksDh7C5qYd0wWPnmCZWnjLd1JFPCL2gR9hUkeJZSrKOrOY8L/dvFRVHaU580L8Rwc7++dfhcNzetUdwhjawnxAaRZoVT2CS+4YXzz/nkVFJgUvAFDwl8KUu2mDQdAyHmeXeQtZ0iDwnRNztEkUiKyfSTdPCopnRRIQcrYh+MctvRunfrpLdy4sAs46COUU7AmG4A/bMztrgu3k23eqLk7uCzQNNVRvB/dn7p5fr8j74EJkXlEPLNYtZuIbm8yIhnJSh+HWnycKvYInrkg==;oojzNsoNmk7wzE+QoiXkgg=="

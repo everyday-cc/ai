@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-rese
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/amp/"
 type: article
 quality: 121
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI abandons robotics research"
+    excerpt: "OpenAI disbands its robotics research team due to lack of large enough data sets to effectively generate reinforcement models."
+    publishedDateTime: 2021-07-20T15:42:00Z
+    webUrl: "https://www.therobotreport.com/openai-abandons-robotics-research/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 99
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/07/openai-featured-web.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "OpenAI Codex shows the limits of large language models"
     excerpt: "A new paper reveals significant issues with OpenAI Codex and its handling of large language models, particularly in deep learning."
     publishedDateTime: 2021-07-18T19:15:00Z

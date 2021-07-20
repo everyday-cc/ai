@@ -7,7 +7,7 @@ originalUrl: "https://www.pr-inside.com/artificial-paintings-creates-4k-videos-g
 webUrl: "https://www.pr-inside.com/artificial-paintings-creates-4k-videos-generated-by-ai-r4839654.htm"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "How to Create Better Online Videos with Artificial Intelligence"
+    excerpt: "It is reported that 85% of internet users watch online video content on any of their devices in the United States. This means, there are more possibilities for watching online video content than ever before."
+    publishedDateTime: 2021-07-19T15:30:00Z
+    webUrl: "https://techbullion.com/how-to-create-better-online-videos-with-artificial-intelligence/"
+    ampWebUrl: "https://techbullion.com/how-to-create-better-online-videos-with-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-to-create-better-online-videos-with-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 57
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/07/bigstock-176941588.jpg"
+        width: 900
+        height: 533
+        isCached: true
 
 secured: "/b9u7hW0ByVGSwz2WKmepQfkeN3neWPjSvp9NbpmYlRtOd5L2nXGTfO220d353XFNkyoD7DlCHy/AxZ5rzfIs9NQclyim2Ie3BZHj2jVu8PJItDERts6Tpx5LuBWcFNTZ7+s9nFyKzPLIdf9wtC3NnQhJLZ+q2/GjFGahFbDbERKVnkxIP0KAvapKqgkVIpIVAPGvRZGhClnJpDNeQOR2Z99DjL+5faA2rPW4WN1NAD7evPnaBSUg4ceBKypgErFUcvsM0ZtkEzwG+UGGV3caANvjfIxTYod42WhlItE9AvHpZONBN5URSGpEnS7oruteWfkTkM8sQIeNUiYizOxuAOdSSijCOo6t3abgJMl//4=;zzEC/EeEtBJ50JglAXEvvg=="
 ---

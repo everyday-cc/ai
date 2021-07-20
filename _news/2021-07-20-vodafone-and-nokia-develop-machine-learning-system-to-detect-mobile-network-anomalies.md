@@ -7,7 +7,7 @@ originalUrl: "https://www.vodafone.com/news/press-release/vodafone-nokia-partner
 webUrl: "https://www.vodafone.com/news/press-release/vodafone-nokia-partnership"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Nokia and Vodafone using machine learning to nip network anomalies in the bud"
+    excerpt: "Vodafone, in partnership with Nokia, is introducing a new machine learning (ML) algorithm to its pan-European mobile networks to detect and correct anomalies before they impact customers"
+    publishedDateTime: 2021-07-20T14:50:00Z
+    webUrl: "https://www.totaltele.com/510359/Nokia-and-Vodafone-using-machine-learning-to-nip-network-anomalies-in-the-bud"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 36
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/ai%20head.jpg"
+        width: 450
+        height: 450
+        isCached: true
   - title: "Nokia Oyj: Nokia and Vodafone harness machine learning on Google Cloud to detect network anomalies"
     excerpt: "Press Release Nokia and Vodafone harness machine learning on Google Cloud to detect network anomalies Anomaly Detection Service, based on Nokia Bell Labs technology, is being rolled out across"
     publishedDateTime: 2021-07-20T13:05:00Z

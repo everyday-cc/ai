@@ -1,28 +1,31 @@
 ---
 category: news
 title: "Black Knight Announces Underwriter Assist Digital Solution, Leverages Machine-Learning Tools From AWS"
-excerpt: "Today, Black Knight, Inc. (NYSE:BKI), an award-winning provider of software, data, and analytics to the mortgage, real estate, and capital markets verticals, announced Underwriter Assist, the latest AI-powered mortgage solution developed by Black Knight running on Amazon Web Services,"
-publishedDateTime: 2021-07-20T09:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-1030625676"
-webUrl: "https://markets.businessinsider.com/news/stocks/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-1030625676"
+excerpt: "Black Knight, Inc. (NYSE:BKI), an award-winning provider of software, data, and analytics to the mortgage, real estate, and"
+publishedDateTime: 2021-07-20T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-301336486.html"
+webUrl: "https://www.prnewswire.com/news-releases/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-301336486.html"
 type: article
-quality: 36
-heat: 36
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
   - AWS AI
+  - Machine Learning
 
-secured: "+C52stTsBlfxQ9qsX1GttMwMxuKbs0GLqNKXH7vSYlKvFmlD+rPzZU9u9q4fTVYtV+x0wmGvz4XHnaV/UUdgGvLyR0hEB1+jo9aSr01/cH5eKLKxUEqo6GT217lF51D3UUbhXJyXAvJ5kRkjPLHKzeFz3HoCKi2wGc1GAy45B6jvL7qC0nx1ZkbUZwF74kO8rXT6InsRECJvu7/NHVcEbcqCQ/4bGfM6eQG3ndLtuFKn3sTEiUXOC6AAsYQ/mYe/b0TS+tCAmlCo0TI8BbvYLpFHjhwY7rlEeFVPfBt96iMZjN6UmwdOnVQHhiCfQ1nTCdYoUq8brKyzsyW/R/3thjC40tv/MBnmPbwHvwqikFw=;0CDI6X6YSgRfp9zf85cWGQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/709994/Black_Knight_Logo.jpg?p=facebook"
+    width: 2021
+    height: 1058
+    isCached: true
+
+secured: "fwvrrQBz9PW5VbONz2ByAejAyYe2Akxyp8+0MgAPvR/lBLcucL6Wjor2s4eNYNhlYJBoXesWLKXFSOY+aHQUBJA4wqhjLEjONdFY08FikgArhdxw8gA15Bt0W5MshJU3Y1X2Z908DloXZFSU2ZdmWZOZDNgDqPuJA+3SEnZiZfze5dgbx9fECysjxhUybpwfciWt+RN42pfjWf+m//Oe6N6NK1hYEa80BEGzasvHv4rRGkFZaYFfFcJxROg4S2B8jVwtiWwzZr8lRVN2WhxfCEHZUhBsV1nDlRr7f7z7eYCpaJnt0tVDEX9glJqhFZZ/sJUN/h4de8F0JFBH8CbchOy6S/f7ZRBuDemuta6WohI=;YSdYiD+7VKrBD7NT4vh56g=="
 ---
 

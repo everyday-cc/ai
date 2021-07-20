@@ -27,17 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Can Pittsburgh’s Bad Habits Help Improve Autonomous Vehicles?"
-    excerpt: "Yet the driverless technology company Argo AI thinks it's on ... its geonet around specific roadways where robotaxi demand is highest, and make sure its artificial intelligence systems deeply understand them — not just where the street signs, traffic ..."
-    publishedDateTime: 2021-07-15T21:13:00Z
-    webUrl: "https://www.governing.com/community/can-pittsburghs-bad-habits-help-improve-autonomous-vehicles"
-    ampWebUrl: "https://www.governing.com/community/can-pittsburghs-bad-habits-help-improve-autonomous-vehicles?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/community/can-pittsburghs-bad-habits-help-improve-autonomous-vehicles?_amp=true"
+  - title: "Pittsburgh Left puts self-driving cars to the test and Argo AI is ready to pass"
+    excerpt: "Pittsburgh-based Argo AI thinks it has solved the problem of local driving anomalies well enough to be able to deploy a robotaxi service sometime next year."
+    publishedDateTime: 2021-07-20T14:41:00Z
+    webUrl: "https://nextpittsburgh.com/latest-news/pittsburgh-left-puts-self-driving-cars-to-the-test-and-argo-ai-is-ready-to-pass/"
+    ampWebUrl: "https://nextpittsburgh.com/latest-news/pittsburgh-left-puts-self-driving-cars-to-the-test-and-argo-ai-is-ready-to-pass/amp/"
+    cdnAmpWebUrl: "https://nextpittsburgh-com.cdn.ampproject.org/c/s/nextpittsburgh.com/latest-news/pittsburgh-left-puts-self-driving-cars-to-the-test-and-argo-ai-is-ready-to-pass/amp/"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 24
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 57
+    images:
+      - url: "https://nextpittsburgh.com/wp-content/uploads/2019/06/UA_190624A_Argo-Car_0099-e1561489102515.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Studying local traffic quirks could pave the way for self-driving cars"
     excerpt: "Driverless tech company Argo AI is testing and training its sensors and software in seven different cities at once, including Detroit, to learn more."
     publishedDateTime: 2021-07-16T12:30:00Z

@@ -57,6 +57,22 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "China: WeiyangX Fintech Review"
+    excerpt: "Alibaba Establishes Digital Agricultural Subsidiary According to information from Tianyancha, Alibaba Digital Agriculture (Shandong) Co., Ltd. was established on July 12th, with a registered capital of 10 million yuan."
+    publishedDateTime: 2021-07-20T14:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/07/178087-china-weiyangx-fintech-review-208/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/178087-china-weiyangx-fintech-review-208/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/178087-china-weiyangx-fintech-review-208/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Yunnan-China-600x570.jpeg"
+        width: 600
+        height: 570
+        isCached: true
   - title: "IDenfy bags deal withj Polish fintech Payment Financial"
     excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Payment Financial SA."
     publishedDateTime: 2021-07-20T11:55:00Z

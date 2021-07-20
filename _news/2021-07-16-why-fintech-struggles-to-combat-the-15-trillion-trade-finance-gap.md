@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-fri
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/"
 type: article
 quality: 59
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.businessinsider.in/thumb/84543230.cms?height=275&width=412"
         width: 412
         height: 275
+        isCached: true
+  - title: "China: WeiyangX Fintech Review"
+    excerpt: "Alibaba Establishes Digital Agricultural Subsidiary According to information from Tianyancha, Alibaba Digital Agriculture (Shandong) Co., Ltd. was established on July 12th, with a registered capital of 10 million yuan."
+    publishedDateTime: 2021-07-20T14:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/07/178087-china-weiyangx-fintech-review-208/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/178087-china-weiyangx-fintech-review-208/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/178087-china-weiyangx-fintech-review-208/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Yunnan-China-600x570.jpeg"
+        width: 600
+        height: 570
         isCached: true
   - title: "China’s JD spins off cloud and AI businesses to fintech unit"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."

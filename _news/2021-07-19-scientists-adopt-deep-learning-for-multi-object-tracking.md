@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists adopt deep learning for multi-object tracking"
-    excerpt: "Researchers have adapted deep learning techniques in a multi-object tracking framework, overcoming short-term occlusion and achieving remarkable performance without sacrificing computational speed."
-    publishedDateTime: 2021-07-19T19:44:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/07/210719110534.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Researchers adopt deep learning for multi-object tracking"
     excerpt: "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our"
     publishedDateTime: 2021-07-19T13:52:00Z
@@ -50,6 +41,15 @@ related:
         width: 770
         height: 420
         isCached: true
+  - title: "Scientists Adopt Deep Learning for Multi-Object Tracking"
+    excerpt: "Researchers at the Gwangju Institute of Science and Technology have adapted deep learning techniques in a multi-object tracking framework, overcoming short-term occlusion and achieving remarkable performance without sacrificing computational speed."
+    publishedDateTime: 2021-07-20T15:21:00Z
+    webUrl: "https://cacm.acm.org/careers/254129-scientists-adopt-deep-learning-for-multi-object-tracking/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "64YNCy4812axoBJgJacPbbDlfAck+ugqUdhmNKAZMT1jvKt26Xdcj/Jaw0EN93Sir0o0bu+CmOMFHqixNtNoByfwxN6Dm/1uL2MMroJigf3V3WU9WkniWuecZsR3GhpU3RLH0m18uyoy+uoIL7hTw05TkxUyLQwYTtheU/y7y9P2Nj27he8KoPk/5HPzwTGZRgn+6C2nF/ka/oMr5WGtwUqL4tfOWosp2BvpxK+R3cDBf2c8DvXS+C1NKOhipDSCohKUBFBWxsGdVGHrCGHXRr6kmvFQVzohqBCcopmLrF1k/0CvGcCjRqn01hqp8Ei/F+Xa32cukN13eN0PBv5q3/HyRglryLerh6j5sj/FZAkMbbQhoH80BnNY5SFy7/rMOFHQJu7iNCubcXrBEEVxn9oIgFiYPrf2Nwl72s0ArPxsTHy+Wg/UDdLXbQ54z+Fi3F99nEHGF8NdhRCuEG9yXLQ5YE0BiO4JuePPRJ7xleuDLAzpN2Olf12Sa3wu/jXxweLe5s3exRSEe/PxGt8H/w==;APv8aBSRiAu2lFliQZBDbA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.thenorthernecho.co.uk/news/national/19446632.ai-enable
 webUrl: "https://www.thenorthernecho.co.uk/news/national/19446632.ai-enabled-sign-language-translator-designed-teenagers-wins-20-000-prize/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Teen entrepreneurs win £20,000 for AI-enabled sign language app"
+    excerpt: "A team of teenage entrepreneurs from St Paul’s School for Girls in London has triumphed over hundreds of students from… | Entrepreneurship | Education | Entrepreneur | Technology | Science | National"
+    publishedDateTime: 2021-07-20T09:50:00Z
+    webUrl: "https://bdaily.co.uk/articles/2021/07/20/teen-entrepreneurs-win-20000-for-ai-enabled-sign-language-app"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 39
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/K7Xj3OSEtQ98EvEnpApCoxyP0JoFynjmgw81Z9WS.jpeg?w=940&h=430&fit=crop-37-49&s=4ac2813dff7d9de9330dfcffb9eb4e92"
+        width: 940
+        height: 430
+        isCached: true
   - title: "Intelligent real-time sign language translator designed by teens wins £20,000 national tech-for-good prize"
     excerpt: "winning £20,000 thanks to their two-way AI-enabled British Sign Language (BSL) translator - BSL: Educate-2-Translate. The prize challenges young, innovative minds to design and develop technological solutions to the big issues of our time that deliver ..."
     publishedDateTime: 2021-07-16T05:25:00Z
@@ -40,6 +54,6 @@ related:
         height: 570
         isCached: true
 
-secured: "sWmQcu1hz7P3iUVtGnm8afU1gD2TWe6tzP8KWATiBUS7y8D/42OHiEAbfYFCl5HS/Sb9has2teuUtW/nl2WMGUE3u7DH0+XuNo9NeGcIcIs6v4T0aeBEKvZaxBjPEhtaKG4ARNqjSAqTydsGhucgtxBl4Ozydg9InOOPFdGdUWKWMYPQvNaTJWX2fRPNgUmKtnexg7jp2J3wrG3RCVvMCXFNpSb5KobOv6XxD0VyMGrhg+jY17p1CVfM5YQW99bt3oB0gGfQeXl4azoLi2/EikO5xF3j21V7Zwj7kXGwOnXZ/YW4fvRgzH8ZM0AM2+QImOqSTh70IBISg5cKTM49WDxzoFCvofi8K+A8rX6Msig=;/qzEL/c/UeRqeNFoFY7hoA=="
+secured: "O7rIzr/4um1P6gkPgIozy9gZqLtPIpB3YRDREHROcgDAUiCUGozSlD+EUkAiuZDhiUXzKJ5ALQDqehxnuyUGS3qtmNxID3gMPe2uLgOHhAqJdSD6XGCCMZsZ1t5hWQDfwP+Epz5EWm5jlfX+gI02LdH0u2goyN/Pvs9vGEZga98t8ssHgD52wO8C/ricxK4GjOcPz0peoTIooKnwP1asfFqH+PC6yPbRijDgKCYmqW7hyaamONYl+M0YkBm2p2yjm/ko7u7zbLeBFwMnFAzUwbqGkqlMhPKNeJfa9nim1UFIIm95jn/+uHD9uc2ZLYvIHpk7D+eByn9URe8c+Gk4JQBg959WanLqv0wfX8zfppw=;BdwIRAcdZDFE78kfAJwEJw=="
 ---
 

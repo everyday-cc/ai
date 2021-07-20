@@ -105,6 +105,22 @@ related:
         width: 389
         height: 389
         isCached: true
+  - title: "DeepMind’s AlphaFold2 Predicts Protein Structures with Atomic-Level Accuracy"
+    excerpt: "The prediction of protein structures from amino acid sequence information alone, known as the \"protein folding problem,\" has been an important open research question for more than 50 years. In the fall of 2020,"
+    publishedDateTime: 2021-07-20T15:08:00Z
+    webUrl: "https://syncedreview.com/2021/07/20/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-65/"
+    ampWebUrl: "https://syncedreview.com/2021/07/20/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-65/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/07/20/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-65/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 56
+    images:
+      - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
   - title: "AlphaFold 2 open up protein structure prediction software for all"
     excerpt: "Source code for AlphaFold 2, an algorithm that predicts 3D protein structure with unprecedented accuracy, is now freely available."
     publishedDateTime: 2021-07-16T14:26:00Z
@@ -120,6 +136,6 @@ related:
         height: 946
         isCached: true
 
-secured: "mNb99ynswuDxVKItIprrhlO02HbmmXAR9iU9cMuO5YA4cr8N5eAAJLO/hGFwHmNmPQxPaHm/B+pq5lv9HzlHwfMq7BuD2Ti7/uOsc1Nr6Cscdngom3wYXk0u/OhDRLIEpjIOJEYCZJFYmfoHmhlBiBUmJ4gkwJksVB4vCzBWIY1x5xeN1RNyo4epFXN1zJll/ia54hJgRqHb4f3/AbvCRL3kSRfvWxAn1LxfAZ57UqiiVk0c8lHN3gHBf6kXz+/OddRRnsQrD1PLayhpqRXYOFSIxy2MfDeVvaBCXgbG+sg4trkX7/5zC4D/2tRsURC83y5AsCBHAmZqPlTD2A2f6oee/lQ4RzKPv85NwgyfSlU=;1+g7tR1wHijPMH3mPkf6pQ=="
+secured: "NKjMx2Sq1OV4Igyw+dIqC8wmNTnHgqsPUL9cCkIUb8QiGQ2cRC9ZSwBdnqosRQA+fb0kGWWqVO0zXZgjlot3zEHnemAaiG+EOj6Caj3n21589T3/yiZQzDCkukRTXKEC7QgdeREgu+i/oboiadLLlLrEo6Zc5AyRLjaQ808HnUTjSulF5drVJDVZrYulqXT8lIMk7SuV8CL8USNT0dCOP2UNtZNFIVNLPFXNRFBpGDaxf27Qf1WanE31+P1uFk/em7L/ewbxaD8CONNq2QiNw8+fmZhalPEff5RW+7v57cTd4WTJQOGBuqqgzuIWYIXYOs1uUiMjOqQquPzTe5EqmEaa3zoKV3PUiQVr4u6F7TR7iGJP/vWlORhJb1WxYWNSIO41mgiev8LLS0xBdnLfB4GB/YhrWeEva8AgLRWHb6tbLB9TT16gqC8iouS5WTjlNf7lmOctUexFb76epVpCMg8JyVLoAll4aYZpcpwdg8S4Xc741TzgKNsKQrcda9Z31pp+iAhPuO+tXQW3Ko8ssg==;naf35gpQc6Mh6XfPGAp0fA=="
 ---
 

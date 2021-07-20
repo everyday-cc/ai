@@ -57,6 +57,22 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "China: WeiyangX Fintech Review"
+    excerpt: "Alibaba Establishes Digital Agricultural Subsidiary According to information from Tianyancha, Alibaba Digital Agriculture (Shandong) Co., Ltd. was established on July 12th, with a registered capital of 10 million yuan."
+    publishedDateTime: 2021-07-20T14:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/07/178087-china-weiyangx-fintech-review-208/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/178087-china-weiyangx-fintech-review-208/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/178087-china-weiyangx-fintech-review-208/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Yunnan-China-600x570.jpeg"
+        width: 600
+        height: 570
+        isCached: true
   - title: "China’s JD spins off cloud and AI businesses to fintech unit"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-07-17T04:04:00Z
@@ -158,6 +174,6 @@ related:
         height: 450
         isCached: true
 
-secured: "keXifwFFYeOW9U+UT+lkRbQ/5lObpSwk4WmUAoMZFCVpDOwnHv5uKS4nWxZ9/6+sSptSiVACspxnpq/CJAzRcQesAwZziPuChTjOUmkYd82CyhDkakl1uIbRK42XOdv5C41Ix00G3H2xNoHT7xs5Fc2HDlZfY2/qyBbFw1fqc5RHPQ3memKafI4RBsqgQFXJ652hhjUK4/W/n1nEL2BNai4TcBZz4l4BR4bk0kAMXTWa55A0w0Y8p4a2V14YVYIHsvYMQ24nhKe7Jys13n44IfHJjJlgoSEZLtUt/sdnvwojotQcuVHZ2V+sEKslD/a1aDTh0/cBoxBWgoQdFkFTH7ZGfUh2VuCKLHj5+rEPX6M=;LdYmjyzDdW4Bz5uH9NgBjQ=="
+secured: "VWBcOcyIOhlYxZWiLZJS1IwAgWSQNYpZNQSaVNDAGTbLV/1wjaLspZeWe6PzQArqkLMiNQ1A4XEHgqF9naUzHd+tfEZ4uOKkBSjiqd5GgXdn2ueGRYfPY1t0k1hffvrhPKo0aw2o92B8kyAAfOMyXPEh2WiIFYD+P8meedQ1SPcmqSHe1M4yp/P3nGdrPeDkNy1HqlcNWAMOkB5fkMkGN6c65o/jjHkfc42kI6NPYLLppQeTxszqIV+M8zVMD0OW9kImByUjuZ8mHAuUddXi4bRTVI9b+tklQilZFZWAp2BwT0ShY8Ljua7T7NAYvqkEFa7dIDpUD7LxaDG/WI8XmPHCeMJUjovB3aW61g70QoWu7xDFTXM3BDtVELKm7hn7s8YFdWSUctO2nbJswdiEtXMe5Rehp/ofgR7dfXWU/ukNMJmb+kzykldzJJ9MLjaZ7L7w6iV7yNJ/UgSqJ9lhSEXteTQ5OP8/o9Y8N10zyUuQQzv733wVSL5x38v87PLVTfnhzXbxO3wykLGG+GvL3g==;eag43TdnwTAtoFnOXh4iMg=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/greatspeculations/2021/07/20/with-aut
 webUrl: "https://www.forbes.com/sites/greatspeculations/2021/07/20/with-auto-chip-shortage-easing-are-semiconductor-equipment-stocks-still-a-buy/"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Forbes
@@ -28,22 +28,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "ON Semiconductor Corporation [ON] is 15.06% higher this YTD. Is it still time to buy?"
-    excerpt: "ON] stock went on a downward path that fall over -0.69% on Wednesday, amounting to a one-week price increase of more than 1.59%. The company report on July 15, 2021 that ON Semiconductor Intelligent S"
-    publishedDateTime: 2021-07-15T21:54:00Z
-    webUrl: "https://dbtnews.com/2021/07/15/on-semiconductor-corporation-on-is-15-06-higher-this-ytd-is-it-still-time-to-buy/"
-    type: article
-    provider:
-      name: dbtnews
-      domain: dbtnews.com
-    quality: 17
-    images:
-      - url: "https://dbtnews.com/wp-content/uploads/2020/01/Image-104.png"
-        width: 640
-        height: 424
-        isCached: true
-
-secured: "TezBEIU6vWhHNrjYGyoQ1W3YNG5VFu92n6swtelbog7SX1JRD4wSorSnPnS56IEDrbFei6vUHzzwm//v0X0bDQgjMLSXiM4e7NmeEP2NafUdE70+Ah0HwRVTPh4hmud5YAw4NibmmNQMUOFjBG1M4WWlYn1QwNDQfpyaNJ6QZR1YoZLnFOtWTys49Cjb3o/aeZwCPZTgiXvKxpnLvLn+INTqtb/xzOAFIoNrknZyM2IB+Gzre3RqjXLrn9RyZUV6J2+hUX8pEGsrOfct/Pe6C6dXDyirLhADKeAsvRMurrLIfm1SMvNk+XyBWiFZQPM1oVoAqhohZ8bLaI/oxxbOqRRIOnmcUoO42x+T1sa8c8M=;HZRsnbiS1k/tdiXAyr+FSg=="
+secured: "iboDTsDQn4KcNZQgDNh0Fqxi1QCugLWsCg7IhgQwsswkrt9RFw3L11Dri/4CQBMMlBIbJmbVk6VGJ27sgetMpyk4E/hASXe+QYLUFdajmbCVjwqVuV886jfR4TnnMM1oVjdKwX0xdDIyYXPXGaCtsHRRDEeD6a6qtTw6Rwb0el3v49+NkfJ7ux83ulgK2ExDra8INxTP93wN5bpK6A2CIWReuoBGIc/tEFipROZXh9B/ApgYB7fNLU5oKgaanEs6T7g9FQ+4j3AMUUgBq1wx2oDzJVTR8Ksi+3neOasmg3MCCHdi50tE1lwlPy495pF1twD/uf/qNnlX9ZFlJo9JOu4szvdIgyBR++hx0zawYEr1WScEACUUVaeHmbETakFleenUDKjBLC8Eby/IeSGjS4yZTDPMYlVWa3qPmzHMfPCDDOYdOgbe4vL0NVb3egTx/VAqNn0l3CHzqFZv75O8qCiUVK9KwaVF68E2vgR6E+Py8xJh1aBGfAW2hEaP45UwteihZuwHQldWjE8uBIogsQ==;+lCty+gdnP5Mw+Ify5xQDQ=="
 ---
 

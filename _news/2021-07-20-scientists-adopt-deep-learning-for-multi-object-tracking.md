@@ -1,22 +1,18 @@
 ---
 category: news
-title: "Scientists adopt deep learning for multi-object tracking"
-excerpt: "Researchers have adapted deep learning techniques in a multi-object tracking framework, overcoming short-term occlusion and achieving remarkable performance without sacrificing computational speed."
-publishedDateTime: 2021-07-19T19:44:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/07/210719110534.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/07/210719110534.htm"
+title: "Scientists Adopt Deep Learning for Multi-Object Tracking"
+excerpt: "Researchers at the Gwangju Institute of Science and Technology have adapted deep learning techniques in a multi-object tracking framework, overcoming short-term occlusion and achieving remarkable performance without sacrificing computational speed."
+publishedDateTime: 2021-07-20T15:21:00Z
+originalUrl: "https://cacm.acm.org/careers/254129-scientists-adopt-deep-learning-for-multi-object-tracking/fulltext"
+webUrl: "https://cacm.acm.org/careers/254129-scientists-adopt-deep-learning-for-multi-object-tracking/fulltext"
 type: article
-quality: 49
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: acm.org
+  domain: acm.org
 
 topics:
   - Machine Learning
@@ -54,6 +50,6 @@ related:
         height: 420
         isCached: true
 
-secured: "tavj8d681TEWuR8+YNMofY4EB4sDNYVaNAokJIPrbKJ1GHUAzqzAIL3KIaI762XaSebVuTPdIkm6mD2QH/ao4u2FZr8GI27fKRuXUPt850+BrBkn0MTwKpNsRkSjk9P/3u4f7oDdpm0j0wFNi1a5StO6s07MmCrDUxT+1iK8ndCM9tgLh4HyVPKTnWulbIclO1BE83ha6sz8FCt/IyxMqWG7MTTvHtmtxk+NclcM4ZbHl4tYOpTfeAU09xQRG2f1tz0MLa2xaro2rDTWI6e+e9YFHEQvYEl3P9BtAZtpl2HoKA79LP4WWjm/WJ9OI2gWaQdcgLIKfLw+7eE6dlRQSk3Jo47fDvLuAfYt0LL084U=;97HWLeLBmxDT6LYNxq4aEA=="
+secured: "9D9BgOQYLp2KVflroHzo6BmZ5xFXHDA/cm861l9CCU75WUUaQrcldJdeZ9o/EVfMpiR1AViz7IZIYlWuwkigpeXJeToFzEx4Bps8PUXsfX+Tn9viBQqEUK7jWuJFId/ERfpGzlsSeKffm6qTd9fZFUS3GsjhISqbf4Ev47+XEoa5zAc2rADlPyfQ9usitfqcHtq0+/xMxFNJu5cTD6DKcSnXXxXv3CFHZJ25YTeoUj5ZPYkT4//0tuRCOLjKxXM3mJ0eS9ktq0biaJfRRLbgNAA37GZBSb9ae66N6ftkRLqTICBLANOFcg4K5vFnurC6A26cqXzomZbv0/53uAgMCa463+g8brBOQeP01PUNYXrQ6G80L1Zm1/TK8ea0+o+QG+OEpotCH487DcAHmvyAkHJd35oyN1E4V2sNYD3nyvMIRjQDqeWHbJECjNvE8qLNH8zDZT/1XM+dHVJRToABjPqkt3gN6bZuKx8oq36hRBepIEBOHnniwJzICtlOev3xPfJadrJqsFrQpfoBvECByA==;aG8KQlejWRKQ+c2dA9LxSg=="
 ---
 

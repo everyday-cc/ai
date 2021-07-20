@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Indian fintech major Razorpay acquires digital lending firm TERA Finlabs"
+    excerpt: "Fintech firm Razorpay has acquired TERA Finlabs, a startup involved in providing businesses with embedded financial solutions"
+    publishedDateTime: 2021-07-20T15:24:00Z
+    webUrl: "https://thetechportal.com/2021/07/20/indian-fintech-major-razorpay-acquires-digital-lending-firm-tera-finlabs/"
+    ampWebUrl: "https://thetechportal.com/2021/07/20/indian-fintech-major-razorpay-acquires-digital-lending-firm-tera-finlabs/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/07/20/indian-fintech-major-razorpay-acquires-digital-lending-firm-tera-finlabs/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 43
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2019/06/64541923_10157511267069171_8703981590209888256_n.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Razorpay acquires TERA Finlabs in push for startup, MSME loans"
     excerpt: "Razorpay Capital along with TERA Finlab's technology capabilities will be able to service the credit needs of more than 10,000 startups and MSMEs in India by next year, according to a statement."
     publishedDateTime: 2021-07-19T07:14:00Z
