@@ -2,28 +2,28 @@
 category: news
 title: "AI-enabled sign language translator designed by teenagers wins £20,000 prize"
 excerpt: "A two-way AI-enabled sign language translator designed by teenagers has won a £20,000 technology prize. A team from St Paul’s Girls’ School in London came up with the idea for an intelligent ..."
-publishedDateTime: 2021-07-15T23:16:00Z
-originalUrl: "https://www.thenorthernecho.co.uk/news/national/19446632.ai-enabled-sign-language-translator-designed-teenagers-wins-20-000-prize/"
-webUrl: "https://www.thenorthernecho.co.uk/news/national/19446632.ai-enabled-sign-language-translator-designed-teenagers-wins-20-000-prize/"
+publishedDateTime: 2021-07-15T23:23:00Z
+originalUrl: "https://www.oxfordmail.co.uk/news/national/19446632.ai-enabled-sign-language-translator-designed-teenagers-wins-20-000-prize/"
+webUrl: "https://www.oxfordmail.co.uk/news/national/19446632.ai-enabled-sign-language-translator-designed-teenagers-wins-20-000-prize/"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: The Northern Echo
-  domain: thenorthernecho.co.uk
+  name: Oxford Mail
+  domain: oxfordmail.co.uk
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.thenorthernecho.co.uk/resources/images/12802591/"
+  - url: "https://www.oxfordmail.co.uk/resources/images/12802591/"
     width: 1071
     height: 714
     isCached: true
 
-secured: "H4zUBnBKM6YaMsKrB93RSzeqbQM0GDTNrbEkvhO85CWTSUe9Qu2JiqAT+1HeDIAq2Sgi1b5oBqbE/WEO6eCSmsoIwnESfsEHVn8l/1nOHM38TNB4T1YVLV/KvrRyw5bXxE4XtGziA2Cpeg9pwcCmZoK24S4ntcI6tgnYoP1uPhdIsQFgH4wOXqgKzKnLW5WSaPBpWVnlqwfvsT520+kcOZdAlNPZnQkg98EsfE+zvVRGfsRwDeYo1KryFtUPTxCy8k2shYucrPjoewmNG39xHWU0l+CQ7XUOrf4+mgTJN1gW7Na1didnoIjTwKsDj9m56CuQ97zRak3xm6b0yyaKCc3pjg8Y5UWnXyqWIZFE8QA=;aL46RXf7paXyVYKk/5EK6A=="
+secured: "IIu6BdRhcuhqUMO5SpxA5yXuiwJWIIDcqVfX2JnYZS31+yCcbrKXfbmhq5ZnXXu1VQv7RZu08ey5Hnwst7C42inesgXY90hN4vbUBUNgGFrjtqIiMWcOMKJrzvACP7VkoUK2+to91UsKaA0Ol201sWSU+1DDWpFyohpmUb9Cd4mTM3sLdhLso7ciF+z6BcaVEG3Z5ksD4ATpXexuP/nQ8j9L5LWgjl0RDqbUiXzJSyAvuJFp9v1zJBnXYcd3my6QSdtN+VqQ7CfFCLYo1MbXrCpbkNWmDlPmSPhQhNkvPeUSta+tYusBQHPrCzqeQTR9MI6WOiyl1FnQ97Cp3AK21rSoSbh/EWeyN4K9jhxYGJk=;zr+NTb44pIzpW981WZhUEg=="
 ---
 

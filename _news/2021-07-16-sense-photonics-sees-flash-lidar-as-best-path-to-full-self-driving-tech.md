@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/10892811_071921-lidar.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Intelligent sensing technologies enable 360 vision in self-driving platform"
+    excerpt: "ON Semiconductor has revealed that its image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform. Announced at the World Artificial Intelligence Conference, the new Gen5 autonomous vehicle technology facilitates the first fully driverless RoboTaxi,"
+    publishedDateTime: 2021-07-20T10:09:00Z
+    webUrl: "https://www.electropages.com/2021/07/intelligent-sensing-technologies-enable-360-vision-self-driving-platform"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 22
+    images:
+      - url: "https://www.electropages.com/storage/app/media//2021/July/rohm_DCDC-for-industrial_EN_1.jpg"
+        width: 300
+        height: 275
         isCached: true
 
 secured: "XjrwALPRSt9rn+uscFH3idLOJwtBVQU2skVBGDjLdB97f4xzOZ54WZQPSkd1R2VBR2xRd/bnPMIGtoT2qO6RcDXH2z2I/uyT4kOytbfXOsTw611PfPU57104f+ed+70UEfySp0bXYMPHrJiNHZkNI1iLsVaK913Ab+by/iQ/yr3Og5telmqkl2YbE2NfkLiMWUIOAjATMd0PJQ0F2mDBsjMrRZBuhMLMHo+/AF1gGj5ZKBdIheF9JP3mVe0pBS7ygmYl3FEm3Ifb6qLMwlteepaL1xJeQY0BL24Vn8wPWfA5QWJqBa/+oXTOEiCM5XT6vl5Ul2qrTisdEMkocbGPIiE9aDN0NTRNT2xUOtQwwShZwQyAu9NROO03tQuYCZhmTeYUTbBm1U7e39ABKxfoBjAvBzJShrEq29yfcdymtIMXcefMK9dHUQSiCNjfDJsUK7/s+ZYgKLmp1Ax6hA4kiF9K3+qbeJFQ6H6PNiALUCeVj8/hJGwiq29AYyM4y31F/OBzroAFJrMvxQXh6j6awQ==;jpZDFVqMujLUSSF3PAcW8g=="

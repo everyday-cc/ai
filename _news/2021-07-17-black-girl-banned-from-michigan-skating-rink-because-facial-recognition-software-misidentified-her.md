@@ -89,22 +89,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Black Teen Barred From Skating Rink After Being Misidentified By Facial Recognition System"
-    excerpt: "Lamya Robinson was ready to enjoy a Saturday night with friends at the local skating rink, only to be rejected after facial recognition software misidentified her, Fox2 Detroit reported .  \"To me, it's basically racial profiling,"
-    publishedDateTime: 2021-07-15T18:38:00Z
-    webUrl: "https://blavity.com/black-teen-barred-from-skating-rink-after-being-misidentified-by-facial-recognition-system"
-    ampWebUrl: "https://blavity.com/amp/black-teen-barred-from-skating-rink-after-being-misidentified-by-facial-recognition-system"
-    cdnAmpWebUrl: "https://blavity-com.cdn.ampproject.org/c/s/blavity.com/amp/black-teen-barred-from-skating-rink-after-being-misidentified-by-facial-recognition-system"
-    type: article
-    provider:
-      name: Blavity
-      domain: blavity.com
-    quality: 49
-    images:
-      - url: "https://res.cloudinary.com/blavity/image/upload/g_center,w_auto,q_auto:best,g_south_east,x_0/v1626370147/ldeu3kcxsqghwxlynw1w"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Black Girl Banned From Michigan Skating Rink After Facial Recognition Software Misidentifies Her"
     excerpt: "Recently, a Black teenager was removed and banned from a Livonia, Mich. skating rink. The teen and her parents say the business’ facial recognition software mistook her for another Black girl who had gotten into a brawl there prior to the incident."
     publishedDateTime: 2021-07-15T23:30:00Z

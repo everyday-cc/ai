@@ -2,9 +2,9 @@
 category: news
 title: "Think, fight, feel: how video game artificial intelligence is evolving"
 excerpt: "AI in games has long been geared towards improving computer-controlled opponents. Will it soon create diverse characters we can talk to instead of just shoot?"
-publishedDateTime: 2021-07-19T07:31:00Z
-originalUrl: "https://www.theguardian.com/games/2021/jul/19/video-gaming-artificial-intelligence-ai-is-evolving?ref=upstract.com&curator=upstract.com"
-webUrl: "https://www.theguardian.com/games/2021/jul/19/video-gaming-artificial-intelligence-ai-is-evolving?ref=upstract.com&curator=upstract.com"
+publishedDateTime: 2021-07-19T09:26:00Z
+originalUrl: "https://www.theguardian.com/games/2021/jul/19/video-gaming-artificial-intelligence-ai-is-evolving?traffic_source=Connatix"
+webUrl: "https://www.theguardian.com/games/2021/jul/19/video-gaming-artificial-intelligence-ai-is-evolving?traffic_source=Connatix"
 ampWebUrl: "https://amp.theguardian.com/games/2021/jul/19/video-gaming-artificial-intelligence-ai-is-evolving"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/games/2021/jul/19/video-gaming-artificial-intelligence-ai-is-evolving"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 360
     isCached: true
 
-secured: "iDRnVhYPjQoqJAfFgwoAWsakiJ5PhMVPBx5dSwJVpr+We2gdSCpkAht9SqsnX2615sH/ffUWHzCSPS3KlisOwPo/haukvOYOgy4GuIMVMXzMi4dZ0eh+SOScmhjKZwVhC0tesZJ5Y93Sq4sQEzCSogusqeVVb2TeKaepWGge4oNr1ULOdInJm6h1Diq2W4LpgUgPTWZB4LdyO9SySlaLHrTkzCpxt9BkQJbNU2X+CVCFu1WTtdIrKqHmmR5XTVd04E08aRFtKAl385+2RHS3VMQQBewpq8b1wGMQum7A80DmMN/FIizrJALSNb1zEjjfqiAF+qh91QXRPoN6LNc/urGKDRFtp0cSfS2RZ+GJZzEEpkB0fCx1B+cQzig9LOrwda664QCxTv444hpTiY4QCxjVv5OFRyL3i9tqykfLBW5pw/Na6oBm/VNFyHZXrv6mVZNyHxYoT7vv6O56A5e/BtHnUThjExN5NEfQYeYO5qkhhmgEpdG/GFfjgVlzvCLsXd28AuHLO/sDroHunxsqHQ==;AaOmzUJNkDprHXWSLYvOUw=="
+secured: "urvzcVO5r3x/5oO9JuKZOHKu7rRVoGiSpMYmj3weJJPm/jTQtNcGbL09KGktKJ7AQIivFalP0F7WSlJcrIY/uxrCOZ38SaJAj6UhFI/HDGv50X52g0qUjCwE/HZzc08Q3X5vfpIcrX4czMZDpi0FM5uZNHniOhZtAjSGuGvsJ9O49wGIIZUmpZaNkHPD5eiqELKFTGGL07NW/4aDEZ5WyebINXuZZQ6XXfZrrRhC64+1YzISGxVIACh7g7G+F1r+i2yfG5UwG/CZGXzzJp4siF9Hm0zDAGAebzQSB2Z4HyyeOZnFgxPUh2wP4ZyH5JCXzMY4JHLkdudzFLWPC/MvIbKQY/c3yAS3JneNrJMn8Os=;/JQyfNjAwWPKxOi3htsDpg=="
 ---
 

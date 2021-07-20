@@ -2,6 +2,136 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-07-06-houston-space-startup-tapped-for-aws-space-accelerator-onenexus-environmental-must-contend-with-upstream-apathy.md",
+      "title": "Houston space startup tapped for AWS Space Accelerator | OneNexus Environmental must contend with upstream apathy",
+      "excerpt": "Houston startup selected to Amazon Web Services Space Accelerator. Houston-based aerospace technology firm Cognitive Space was selected to participate in the new Amazon Web Servic",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/houston/inno/newsletter/24373854?limit=20&skip=0",
+      "originalUrl": "https://www.bizjournals.com/houston/inno/newsletter/24373854?limit=20&skip=0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-deepminds-scientist-sparks-fresh-debate-over-ai-ethics.md",
+      "title": "DeepMind’s Scientist Sparks Fresh Debate Over AI Ethics",
+      "excerpt": "Raia Hadsell, a researcher at DeepMind, appeared in a virtual tech summit to shed light on the ethics in the field of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/deepminds-scientist-sparks-fresh-debate-over-ai-ethics/",
+      "originalUrl": "https://analyticsindiamag.com/deepminds-scientist-sparks-fresh-debate-over-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/07/deepmind.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-scientists-take-mind-controlled-robot-for-a-stroll-video.md",
+      "title": "Scientists take mind-controlled robot for a stroll (video)",
+      "excerpt": "What if you could control a robot -- wait, don't answer yet -- with your mind? Pretty great, right? That's what the Virtual Embodiment and Robotic Re-embodiment (VERE) group is working on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2012-07-06-scientists-take-mind-controlled-robot-for-a-stroll-video.html",
+      "originalUrl": "https://www.engadget.com/2012-07-06-scientists-take-mind-controlled-robot-for-a-stroll-video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/.3bO_b82yaQWyeezytpmKQ--~B/aD0zMzc7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2012/07/mind-robot-israel-overlays.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-ai-bot-trolls-politicians-with-how-much-time-theyre-looking-at-phones.md",
       "title": "AI bot trolls politicians with how much time they're looking at phones",
       "excerpt": "Sure, we've all snuck a look at our phones in dull meetings. But if you're working on the taxpayer's dime, you'd better be ready for artificial intelligence to call you out for gawping at the black mirror in the legislature when you should be,",
@@ -1028,135 +1158,6 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-cmu-spinoff-marinus-analytics-awarded-ai-xprize-third-place.md",
-      "title": "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place",
-      "excerpt": "A CMU spinoff company from a Dietrich College alumna won third place and $500,000 in the IBM Watson AI XPRIZE competition in June.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmu.edu/dietrich/philosophy/news/2020-2021/marinus-analytics-kennedy.html.html",
-      "originalUrl": "https://www.cmu.edu/dietrich/philosophy/news/2020-2021/marinus-analytics-kennedy.html.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cmu.edu",
-        "domain": "cmu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-will-the-ai-dynamic-pricing-lead-hong-kongs-shoppers-to-virtual-insanity.md",
-      "title": "Will the AI dynamic pricing lead Hong Kong’s shoppers to virtual insanity?",
-      "excerpt": "Computer driven dynamic pricing is a bit like a Hong Kong wet market, but on a whole new level, writes Neil Newman.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/week-asia/opinion/article/3139480/will-ai-dynamic-pricing-lead-hong-kongs-shoppers-virtual-insanity",
-      "originalUrl": "https://www.scmp.com/week-asia/opinion/article/3139480/will-ai-dynamic-pricing-lead-hong-kongs-shoppers-virtual-insanity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2021/07/01/351c19d9-24f8-4386-b341-ce7ce498ffde_2c6f0aae.jpg?itok=EDOlDhDk&v=1625137354",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/week-asia/opinion/article/3139480/will-ai-dynamic-pricing-lead-hong-kongs-shoppers-virtual-insanity",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/week-asia/opinion/article/3139480/will-ai-dynamic-pricing-lead-hong-kongs-shoppers-virtual-insanity",
-      "publishedDateTime": "2021-07-04T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-ipl-score-prediction-using-deep-learning.md",
-      "title": "IPL Score Prediction using Deep Learning",
-      "excerpt": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/",
-      "originalUrl": "https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.geeksforgeeks.org/wp-content/uploads/20210612120650/predict-300x233.png",
-          "width": 300,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/amp/",
-      "publishedDateTime": "2021-07-04T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeeksforGeeks",
-        "domain": "geeksforgeeks.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

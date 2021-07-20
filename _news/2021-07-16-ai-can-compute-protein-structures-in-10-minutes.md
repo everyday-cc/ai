@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologynetworks.com/proteomics/news/amp/ai-can-comput
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: technologynetworks.com
@@ -27,65 +27,83 @@ images:
     isCached: true
 
 related:
-  - title: "New artificial intelligence software can compute protein structures in 10 minutes"
-    excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction,"
-    publishedDateTime: 2021-07-15T18:00:00Z
-    webUrl: "https://phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.html"
-    ampWebUrl: "https://phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-artificial-intelligence-software-protein-minutes.amp"
+  - title: "DeepMind open-sources AlphaFold 2 for protein structure predictions"
+    excerpt: "Alphabet's DeepMind has open-sourced AlphaFold 2, an AI system that can predict the 3D structure of proteins with high accuracy."
+    publishedDateTime: 2021-07-16T20:50:00Z
+    webUrl: "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/"
+    ampWebUrl: "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/accurate-protein-struc.jpg"
-        width: 1000
-        height: 667
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all"
+        width: 1198
+        height: 600
         isCached: true
-  - title: "Advanced New Artificial Intelligence Software Can Compute Protein Structures in 10 Minutes"
-    excerpt: "Accurate protein structure prediction now accessible to all. Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction,"
-    publishedDateTime: 2021-07-17T14:50:00Z
-    webUrl: "https://scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/"
-    ampWebUrl: "https://scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/advanced-new-artificial-intelligence-software-can-compute-protein-structures-in-10-minutes/amp/"
+  - title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
+    excerpt: "We know a lot more about how AlphaFold 2 works, but the mystery of why proteins fold the way they do remains something of a mystery."
+    publishedDateTime: 2021-07-19T08:30:00Z
+    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 49
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://scitechdaily.com/images/Protein-Structure-Generated-With-Artificial-Intelligence-777x518.jpg"
-        width: 777
-        height: 518
+      - url: "https://www.zdnet.com/a/hub/i/2021/07/19/5824a4aa-1d90-417d-bbae-4f336143e4b4/deepmind-alphafold-2-invariant-point-attention-module.jpg"
+        width: 1586
+        height: 1130
         isCached: true
-  - title: "Researchers unveil ‘phenomenal’ new AI for predicting protein structures"
-    excerpt: "Scientists have dreamed of simply predicting a protein’s shape from its amino acid sequence—an ability that would open a world of insights into the workings of life. “This problem has been around for 50 years;"
-    publishedDateTime: 2021-07-15T18:30:00Z
-    webUrl: "https://www.sciencemag.org/news/2021/07/researchers-unveil-phenomenal-new-ai-predicting-protein-structures"
+  - title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
+    excerpt: "We know a lot more about how AlphaFold 2 works, but the mystery of why proteins fold the way they do remains something of a mystery."
+    publishedDateTime: 2021-07-19T22:30:00Z
+    webUrl: "https://www.zdnet.com/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
     type: article
     provider:
-      name: Science | AAAS
-      domain: sciencemag.org
-    quality: 36
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/Protein_folding_1280x720.jpg?itok=KrDvqvRk"
-        width: 1280
-        height: 720
+      - url: "https://www.zdnet.com/a/hub/i/2021/07/19/5824a4aa-1d90-417d-bbae-4f336143e4b4/deepmind-alphafold-2-invariant-point-attention-module.jpg"
+        width: 1586
+        height: 1130
         isCached: true
-  - title: "Accurate protein structure prediction now accessible to all"
-    excerpt: "Scientists have waited months for access to highly accurate protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
-    publishedDateTime: 2021-07-15T18:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/uows-aps070921.php"
+  - title: "New protein folding technology from UW lab rivals DeepMind, promises to accelerate research"
+    excerpt: "The findings, building on work performed by the Google-owned company DeepMind last fall, were published today in the journal Science, on the same day DeepMind released its approach in the journal ..."
+    publishedDateTime: 2021-07-16T03:04:00Z
+    webUrl: "https://www.geekwire.com/2021/new-protein-folding-technology-uw-lab-rivals-deepmind-promises-accelerate-research/"
+    ampWebUrl: "https://www.geekwire.com/2021/new-protein-folding-technology-uw-lab-rivals-deepmind-promises-accelerate-research/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/new-protein-folding-technology-uw-lab-rivals-deepmind-promises-accelerate-research/amp/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: GeekWire
+      domain: geekwire.com
+    quality: 79
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/07/Rose-TTAFold-630x418.png"
+        width: 630
+        height: 418
+        isCached: true
+  - title: "AlphaFold 2 open up protein structure prediction software for all"
+    excerpt: "Source code for AlphaFold 2, an algorithm that predicts 3D protein structure with unprecedented accuracy, is now freely available."
+    publishedDateTime: 2021-07-16T14:26:00Z
+    webUrl: "https://frontlinegenomics.com/alphafold-2-protein-structure-prediction-software-for-all/"
+    type: article
+    provider:
+      name: Front Line Genomics
+      domain: frontlinegenomics.com
     quality: 24
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/270310_web.jpg"
-        width: 720
-        height: 480
+      - url: "https://frontlinegenomics.com/wp-content/uploads/2021/07/protein.png"
+        width: 1143
+        height: 946
         isCached: true
 
 secured: "cG2X7FF7zxi7CKmJQGPEYIMoztweFA5zpbQHhmNLqxXK0EkqNTGqtDCRs2sHrUxKy70GRcIsYi1CUjx/SKi+iHxnmj1duzWN79H+IWNZl35qick0bfoQl2B3lXQ7P3NE4YJXk28u4Max79nhSatqU6djtoOwi3rTMNjOObJSI+Z85f88LPMhsuWilz4H1r/CuwpCbqw6Z3RExdZx4Bvy+p6fP7ninAx4fYzeuEm9Vf+eaBHNvnmyDfK2DC3zN58rTAGEPcZRBlAZUtMJS4dz3lei+dYSC7LabNJ8saXlyoZGKZ1FEhnsK/K8DQ742V6CqwWQWJH0MabGOzDxuuQland6Uv8pTNc+SdliMjyz13oUS87SlxIxGcE7byjmW7SKwhZAeUy9WyLt6WZ3Pqv8LNN1HHCc9T+yROvAT7XFveIkBtGlZPKjcbc/pi7HanE9si1tqnmXVYmR2TZpQG22wINLOqYpdL1U2FTPAHhSskfyKTCItbX3C7uLRf7VTTPfUPzytO96sipjlk7cLiGubg==;tFRrMabIT7/wsxXwS8mPZA=="

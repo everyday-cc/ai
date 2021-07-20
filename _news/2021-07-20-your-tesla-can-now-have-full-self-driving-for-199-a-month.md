@@ -121,6 +121,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Tesla’s Auto Shift coming to all Full Self Driving models, confirms Elon Musk"
+    excerpt: "Tesla CEO Elon Musk has said that all Tesla cars with ‘Full Self-Driving' (FSD) abilities will have the Auto Shift function as an option.  For those that don’t know, Auto Shift is a feature for Teslas that allow the electric cars to drive with some level of autonomy,"
+    publishedDateTime: 2021-07-20T11:17:00Z
+    webUrl: "https://www.tomsguide.com/news/teslas-auto-shift-coming-to-all-full-self-driving-models-confirms-elon-musk"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/teslas-auto-shift-coming-to-all-full-self-driving-models-confirms-elon-musk"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/teslas-auto-shift-coming-to-all-full-self-driving-models-confirms-elon-musk"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 71
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/U4dgHgrpp3a7cFSoFm72Tk-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Tesla Introduces $199 Full Self-Driving Monthly Subscription"
     excerpt: "Tesla has introduced a subscription offering that allows its customers to use its Full Self-Driving (FSD) autonomous driving software in supported vehicles in exchange for $199 per month. Electrek reported that Tesla customers who purchased the Enhanced Autopilot package—which the company no longer offers—will be able to subscribe to FSD for $99 per month instead."
     publishedDateTime: 2021-07-17T16:40:00Z
@@ -417,6 +433,6 @@ related:
         height: 674
         isCached: true
 
-secured: "HQ9DBIvzyeYZBfZZWrIl0/8aOnM7vVKp/obQLe1MAMmLgALa2FrXRZN4TH+GEQX8723LyzxGPUbmHvn8u3c3OR4BaPTCQTweY6/I+yCtFhINMA8XTvHZQy/i9qaCYDv0wpnf6koNZiFW9pj00nbgnooYoMKwo/P/2LFQkGcewmuqUIvWJPWQiApTIJREvuHPCMlShSXoYJkj+ndv9a3X1r1pzJJXE8Neojjx2+YVM7pmvGVnI35WVzh5QhlZMwsO2tROHn7E2M1jABl27fc0P/pxWQQWCS1VAsGv/tHiB05LDHdufdNljmccrhYUmeYaZXQNFZB4OyFKYTNATrueHjHYga2diBpvEdqsxlKy/pY=;pT29MXUZ1W0TEepETEPRdw=="
+secured: "0fJyfiCaNuZY/weJdLo1Dc3yMPXsCCJ3HGi6imxG6BL3RFr0DggehObRX/t8eRlcVzqzLQEhaSbYLy48/eaOSm9ZZtkBfLxxlT1MoJ5SMv6HTrvx9HTyZ55we0TWeuB5KkdaAicmhXfGQl9wa2FnKHD/fT5du+LBcQ0kcdtr9LHNa1W4E1Uo3AQhThuP/y0TxbqnN6Srmbqka6A6tsXUBbqIH4/MhAuZrrw93idtdhFspbOR0+U6DIeJpQm0kaASmsbbjSvsYZ9Zu/Z/oEJOndWj+/btnpkSF+Gb9HYRzwVXoyXDYKMUQzLkWJjH2lysRmNkwPHmLV5Qw4Hn+G6oVYANHAg+SjFL47n8NKbc9E06yUY2zmk3ktCha3RSQ1atCB3tbq7BDDTGry3mmhjqZLa5C4RRlYzvGnodtmAusoWYZGG3MDg6xiTDOi/pTqV6dWgcBYb7hKTzf7rBDRqjKJQc2dlNrUX8jrk7tR6WRyLNTsOQ6Gl4SEkR4P/1JbigD7d2zeUyt+asUDpsGbJaxA==;BhsQYcah8q2RLiOE/m8+7Q=="
 ---
 

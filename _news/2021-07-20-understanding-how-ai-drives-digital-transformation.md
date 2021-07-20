@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and IoT are Transforming Transport Management"
+    excerpt: "AI-powered IoT systems provide predictive analytics, playing a crucial role in running businesses more efficiently."
+    publishedDateTime: 2021-07-20T11:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/375415"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/375415"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375415"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
   - title: "How Artificial Intelligence is transforming our world"
     excerpt: "The impact of Artificial Intelligence continues to be felt across industries. A McKinsey report after analysing some AI use cases stated that ‘the impact of artificial intelligence will most likely be substantial in marketing and sales as well as supply-chain management and manufacturing’."
     publishedDateTime: 2021-07-17T23:24:00Z

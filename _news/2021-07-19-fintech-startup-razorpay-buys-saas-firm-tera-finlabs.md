@@ -43,22 +43,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Revolut becomes UK’s biggest fintech firm with £24bn valuation"
-    excerpt: "Surge comes after banking app raised $800m from new investors Tiger Global Management and SoftBank"
-    publishedDateTime: 2021-07-15T17:57:00Z
-    webUrl: "https://www.theguardian.com/business/2021/jul/15/revolut-becomes-uk-biggest-fintech-firm"
-    ampWebUrl: "https://amp.theguardian.com/business/2021/jul/15/revolut-becomes-uk-biggest-fintech-firm"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/jul/15/revolut-becomes-uk-biggest-fintech-firm"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
-    images:
-      - url: "https://i.guim.co.uk/img/media/cd378bca5045dc5a205b5675d19c98c1ea52765f/1569_2306_2515_1509/master/2515.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ea757871e72629b7d2bb4db44c011f6"
-        width: 600
-        height: 360
-        isCached: true
   - title: "China’s JD spins off cloud and AI businesses to fintech unit"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-07-17T04:04:00Z
@@ -72,6 +56,34 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626473428_reuters-default.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "IDenfy bags deal withj Polish fintech Payment Financial"
+    excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Payment Financial SA."
+    publishedDateTime: 2021-07-20T10:53:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88625/idenfy-bags-deal-withj-polish-fintech-payment-financial?ref=fintastico.com"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "IDenfy joins forces with Polish FinTech Paymento Financial"
+    excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Paymento Financial SA."
+    publishedDateTime: 2021-07-20T10:50:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/idenfy-joins-forces-with-polish-fintech-paymento-financial/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Global-FinTech-Use-Cases-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Fintech TrueAccord Says Financial Tech Firms are “Rethinking” Approach to Existing Problems to Build Better Solutions"
     excerpt: "Fintech TrueAccord says financial tech firms are \"rethinking\" approach to existing problems to build better solutions."

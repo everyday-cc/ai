@@ -2,6 +2,153 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-14-microsoft-azure-receives-new-features-and-enhanced-migration-services.md",
+      "title": "Microsoft Azure receives new features and enhanced migration services",
+      "excerpt": "Microsoft announced a host of enhanced products across Azure, including the Azure Migration and Modernization Program.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/",
+      "originalUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/",
+      "publishedDateTime": "2021-07-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-google-ceo-still-insists-ai-revolution-bigger-than-invention-of-fire.md",
+      "title": "Google CEO Still Insists AI Revolution Bigger Than Invention of Fire",
+      "excerpt": "The artificial intelligence revolution is poised to be more “profound” than the invention of electricity, the internet, and even fire, according to Google CEO Sundar Pichai, who made the comments to BBC media editor Amol Rajan in a podcast interview that first went live on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html",
+      "originalUrl": "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103991584-RTSQQJD.jpg?v=1529452147",
+          "width": 3500,
+          "height": 2425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html",
+      "publishedDateTime": "2021-07-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research.md",
+      "title": "TMU Moradabad collaborates with NVIDIA to establish a Centre of Excellence for AI Research",
+      "excerpt": "Moradabad, and NVIDIA Corporation have signed on a collaborative memorandum to bring artificial intelligence (AI) and deep learning (DL) to a new generation of students and developers. In order to achieve this joint goal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/specials/tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research-121071400946_1.html",
+      "originalUrl": "https://www.business-standard.com/content/specials/tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research-121071400946_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/14/full/1626265701-561.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/specials/tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research-121071400946_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/specials/tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research-121071400946_1.html",
+      "publishedDateTime": "2021-07-14T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video-events.md",
       "title": "BxVideo's New EZLive Caption Offers Self-Service Transcription, Translation and Captioning for Live-Streaming Video Events",
       "excerpt": "The service utilizes AI for machine transcription and translation from 30 different spoken languages and more than 50 text-based caption languages. For more information, please visit www.bxvideo.com.",
@@ -615,8 +762,8 @@
       "title": "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year",
       "excerpt": "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -635,7 +782,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T01:00:00-07:00",
+      "publishedDateTime": "2021-07-13T21:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -770,8 +917,8 @@
       "title": "SecDef Austin Commits US To ‘Responsible AI’",
       "excerpt": "\"AI is going to change many things about military operations, but nothing is going to change America’s commitment to the laws of war and the principles of our democracy,\" the Defense Secretary said.",
       "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/",
-      "originalUrl": "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/",
+      "webUrl": "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/?_hsmi=140356961&_hsenc=p2ANqtz-9R4IAeqGiYYDBSOMpg49kOGFDJ0HFsTQHOO5UtFszlUKkoTsZIBfbrDcVhbj3XQK_gLYNSHe0XxsExnifazI9mNYS6TQ",
+      "originalUrl": "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/?_hsmi=140356961&_hsenc=p2ANqtz-9R4IAeqGiYYDBSOMpg49kOGFDJ0HFsTQHOO5UtFszlUKkoTsZIBfbrDcVhbj3XQK_gLYNSHe0XxsExnifazI9mNYS6TQ",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -790,7 +937,7 @@
       "type": "article",
       "ampWebUrl": "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/amp/",
       "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/amp/",
-      "publishedDateTime": "2021-07-13T14:48:00-07:00",
+      "publishedDateTime": "2021-07-13T16:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Breaking Defense",
@@ -1050,160 +1197,6 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-discord-buys-sentropy-which-makes-ai-software-that-fights-online-harassment.md",
-      "title": "Discord buys Sentropy, which makes AI software that fights online harassment",
-      "excerpt": "The online chat platform Discord is buying Sentropy, a company that makes AI-powered software to detect and remove online harassment and hate. Discord currently uses a “multilevel” approach to moderation,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/13/discord-buys-sentropy/",
-      "originalUrl": "https://techcrunch.com/2021/07/13/discord-buys-sentropy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Discord_IAP_KeyVisuals_Header_02.jpeg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/13/discord-buys-sentropy/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/13/discord-buys-sentropy/amp/",
-      "publishedDateTime": "2021-07-13T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-facial-recognition-tech-gets-bipartisan-call-for-more-regulation.md",
-      "title": "Facial-Recognition Tech Gets Bipartisan Call for More Regulation",
-      "excerpt": "Some, such as Customs and Border Protection, have their own in-house facial recognition technology. Others use products from companies including Clearview AI Inc. and Vigilant Solutions Inc. “To ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/facial-recognition-local-police-clearview-ai-table",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/2/15/enhanced/2a50fc7f1020/original-1498-1617378524-16.jpg?crop=1600:837;0,132",
-          "width": 1600,
-          "height": 837,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-nordstrom-cto-on-ai-powered-analytics-and-consumer-insights.md",
-      "title": "Nordstrom CTO on AI-powered analytics and consumer insights",
-      "excerpt": "Reflecting on the start of this project ... is key to the platform architecture process. With more than 100 AI models leveraged daily at Nordstrom, an end user will indirectly see the benefit ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/",
-      "originalUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/09/nordstrom-mike-kalasnik-flickr.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/",
-      "publishedDateTime": "2021-07-13T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

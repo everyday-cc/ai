@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/products/facial-recognition-creates-risks-fo
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others?_amp=true"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://www.theglobeandmail.com/resizer/LZ7TRcy1in4ZHfFkw117-s19Z_8=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/HOBCCSJKORACNPXULGLJYLHFCY.JPG"
         width: 760
         height: 507
+        isCached: true
+  - title: "States Voice Recognition for Smartphones"
+    excerpt: "| Apple, Google, Microsoft, Nuance, ... States Voice Recognition for Smartphones Market COVID 19 Impacted In-Depth Analysis including key players Apple, Google, Microsoft, Nuance, ... States Voice Recognition for Smartphones Market Investment Analysis | Apple,"
+    publishedDateTime: 2021-07-20T11:27:00Z
+    webUrl: "https://www.openpr.com/news/2332686/states-voice-recognition-for-smartphones-market-is-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2332686/states-voice-recognition-for-smartphones-market-is-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332686/states-voice-recognition-for-smartphones-market-is-booming"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/7/U720478281_g.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "3uq5D+WElQFGOplUbC3guzzHnANyynY5pIAwOtmImysUfvR4Gj56ol/pIe8U26+TPimWCG1zXqCUqXm3GRsGfl1NB4dMRoULWXd+rPOffnRcgBxS2vg43STcqABLVBEE5p/2o2dwUl3gftZXHNTHRmI4uv4OkGaKUo8pT0WRTVwE9auO5A6eyra9TtojyGcyVSL/WxVV7oZOR1empEkq1d1pC75l///l+zwfP/qeBNKgkTfLfuLtUHWwtwroeS/zR232hHydnUf4KRGZ8zdg9aKF+itAInxwm4OLc4Go3kmDBnlDGWjk6j6SVuwKzFfvGYHI3LpF6P3O5gfnZBoan6e0FFwMJ9FTYOIj6djY3YQFqUvMTuhlOgDi6fmOhb5m02vq+b587C8bU+Qw40nTUrXCT75lunoYnGNl/J+N4n8coiTyyMqJLEUXiDxUsf4A6C9aW080Vri+reQj9SV+XLmfIJ/8Qy428qAAhrVX70M20i1bhea6BeSVyGLEt4ixp9BenARxleEcfaUfvEyo3Q==;ZDTRsKA2833BZjG16kaV8A=="

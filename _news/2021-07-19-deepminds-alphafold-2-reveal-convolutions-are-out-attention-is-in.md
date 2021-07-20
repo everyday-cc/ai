@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers match DeepMind’s AlphaFold2 protein folding power with faster, freely available model"
-    excerpt: "DeepMind stunned the biology world late last year when its AlphaFold2 AI model predicted the structure of proteins (a common and very difficult problem) so accurately that many declared the decades-old problem “solved."
-    publishedDateTime: 2021-07-15T18:01:00Z
-    webUrl: "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/"
-    ampWebUrl: "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 91
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/07/rosettafold.jpg?w=1000"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "DeepMind open-sources AlphaFold 2 for protein structure predictions"
     excerpt: "Alphabet's DeepMind has open-sourced AlphaFold 2, an AI system that can predict the 3D structure of proteins with high accuracy."
     publishedDateTime: 2021-07-16T20:50:00Z
@@ -95,47 +79,21 @@ related:
         width: 630
         height: 418
         isCached: true
-  - title: "DeepMind and a rival release dueling code for protein-folding AI"
-    excerpt: "The race to release both teams’ code reflects not just an advance for computational biology, but for a culture of transparency in the field."
-    publishedDateTime: 2021-07-15T18:00:00Z
-    webUrl: "https://www.statnews.com/2021/07/15/deepmind-alphafold-rosettattafold-protein/"
+  - title: "AI Can Compute Protein Structures in 10 Minutes"
+    excerpt: "Scientists have waited months for access to high-accuracy protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."
+    publishedDateTime: 2021-07-16T08:07:00Z
+    webUrl: "https://www.technologynetworks.com/proteomics/news/ai-can-compute-protein-structures-in-10-minutes-350927"
+    ampWebUrl: "https://www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927"
     type: article
     provider:
-      name: STAT
-      domain: statnews.com
-    quality: 54
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
     images:
-      - url: "https://www.statnews.com/wp-content/uploads/2018/03/AdobeStock_153240764-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "DeepMind and and a rival release dueling code for protein-folding AI"
-    excerpt: "The race to release both teams’ code reflects not just an advance for computational biology, but for a culture of transparency in the field."
-    publishedDateTime: 2021-07-15T18:00:00Z
-    webUrl: "https://www.statnews.com/2021/07/15/deepmind-alphafold-rosettattafold-protein/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 54
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2018/03/AdobeStock_153240764-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "DeepMind’s AI for protein structure is coming to the masses"
-    excerpt: "Machine-learning systems from the company and from a rival academic group are now open source and freely accessible."
-    publishedDateTime: 2021-07-15T18:05:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-01968-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 54
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01968-y/d41586-021-01968-y_19363650.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
+        width: 389
+        height: 389
         isCached: true
   - title: "AlphaFold 2 open up protein structure prediction software for all"
     excerpt: "Source code for AlphaFold 2, an algorithm that predicts 3D protein structure with unprecedented accuracy, is now freely available."

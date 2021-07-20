@@ -2,9 +2,9 @@
 category: news
 title: "SecDef Austin Commits US To ‘Responsible AI’"
 excerpt: "\"AI is going to change many things about military operations, but nothing is going to change America’s commitment to the laws of war and the principles of our democracy,\" the Defense Secretary said."
-publishedDateTime: 2021-07-13T21:48:00Z
-originalUrl: "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/"
-webUrl: "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/"
+publishedDateTime: 2021-07-13T23:43:00Z
+originalUrl: "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/?_hsmi=140356961&_hsenc=p2ANqtz-9R4IAeqGiYYDBSOMpg49kOGFDJ0HFsTQHOO5UtFszlUKkoTsZIBfbrDcVhbj3XQK_gLYNSHe0XxsExnifazI9mNYS6TQ"
+webUrl: "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/?_hsmi=140356961&_hsenc=p2ANqtz-9R4IAeqGiYYDBSOMpg49kOGFDJ0HFsTQHOO5UtFszlUKkoTsZIBfbrDcVhbj3XQK_gLYNSHe0XxsExnifazI9mNYS6TQ"
 ampWebUrl: "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/amp/"
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/amp/"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 672
     isCached: true
 
-secured: "M5lA5r1DsyUtctxo5vNsk8FA7+FeJvGHxqPaoUZ968p22OYgVc6EBbvX7OBEZpiUOfX+k6ZIc2GLSr/3sJuqajSyjIPjmYDTO8bR2bN3TwGW68u7Q23OXyYE4t0/jLNesGGn9yybtD/+L9VPtYhtJfoUswo0LmtcnSGUE+Xv/cuGuT1fXOkLsaZDobPeRx+U32QaxShIdH9tVIVDxPTDWauMi5tPmxkWmrOykvdNFdAwLamUmj0ziC9qClwuRzemxGbvXqB3qnAM1Zf3sy2oXXJjAKuSjU6IM/LigXzJZXprY8W+dOTtTjcXxL8cfYF78r61cQ6NGJ2IFkvrgcE/dKVADJO1yvOdGWhr4s4iGE9voCqicTvI8bFbsUHEU2ELVfO2UvlDilGVTHJbZmmigrY9lAAQpWGVWKC3sW0Tb6v+wXANHT8+snA6HVMclaxWXNRF/cSdd8r5yeocOIE6FLEJ2/3Tw+RGNJ2tRVO5l67iRgk8byX1LBeLEL2fUZHAz7kByiGsO8ZnOJ5AXBr9Fg==;wb+j6PMA7OdspKICXtXz0g=="
+secured: "MJ9I/DSRUe2SGx8NTf11DrkoVygiy1TiSjENyjKFpei4MeTr6HrAat5rNodNcsbubHi7GPI6eEyZFhfLmtfqkLtNkNVhI6BY/bNm8+kt0w/nPTeuayfUYja/uquxKKoO5l+cy2GiSxZa6N14DPoJqy1wWgopAXqih3VyVT7MlLS9yFZF2YE4RujfGzD0QZgrM8wIJAgNOpFhLeK6faWAU+ZQyiLigaQW1f9EjxNivN8dYN5/rTyDco9Ok/bd5vtl45wHtrQMQXyChdK24Wa93uxfy9Ag5SlpVXpWJSqTf2ZC7nSJnOBZrZHMIXYEbUQwdxmB9eHeuGbeTP2N42NeK4CPaMpquUDLJtPbZ3vBv4k=;aNQnkT6vgh8whF47fN1nig=="
 ---
 

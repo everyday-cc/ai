@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and IoT are Transforming Transport Management"
+    excerpt: "AI-powered IoT systems provide predictive analytics, playing a crucial role in running businesses more efficiently."
+    publishedDateTime: 2021-07-20T11:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/375415"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/375415"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375415"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
   - title: "Understanding how AI Drives Digital Transformation?"
     excerpt: "When AI and machine learning become part of a company's strategy, it represents a new digital transformation era. FREMONT, CA: In a dynamic, fast-changing market world, digital transformation is one of the most critical factors of how companies deliver ..."
     publishedDateTime: 2021-07-20T06:27:00Z

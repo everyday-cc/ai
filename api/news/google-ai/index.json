@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-16-ai-can-compute-protein-structures-in-10-minutes.md",
-      "title": "AI Can Compute Protein Structures in 10 Minutes",
-      "excerpt": "Scientists have waited months for access to high-accuracy protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over.",
+      "path": "_news/2021-07-17-deepmind-open-sources-alphafold-2-for-protein-structure-predictions.md",
+      "title": "DeepMind open-sources AlphaFold 2 for protein structure predictions",
+      "excerpt": "Alphabet's DeepMind has open-sourced AlphaFold 2, an AI system that can predict the 3D structure of proteins with high accuracy.",
       "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/proteomics/news/ai-can-compute-protein-structures-in-10-minutes-350927",
-      "originalUrl": "https://www.technologynetworks.com/proteomics/news/ai-can-compute-protein-structures-in-10-minutes-350927",
+      "webUrl": "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 139,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG",
-          "width": 389,
-          "height": 389,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/proteomics/news/amp/ai-can-compute-protein-structures-in-10-minutes-350927",
-      "publishedDateTime": "2021-07-16T01:07:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/",
+      "publishedDateTime": "2021-07-16T13:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

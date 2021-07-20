@@ -9,7 +9,7 @@ ampWebUrl: "https://www.asiaone.com/digital/heres-what-you-need-know-about-singa
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots?amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 640
         height: 441
         isCached: true
-  - title: "ABB to Deliver Artificial Intelligence Modelling for Data Center Energy Optimization in Singapore"
-    excerpt: "NewswireToday - /newswire/ - Singapore, Singapore, 2021/07/15 - Pilot project with ST Telemedia Global Data Centres to map the potential of artificial intelligence, machine learning and advanced analytics,"
-    publishedDateTime: 2021-07-15T18:01:00Z
-    webUrl: "https://www.newswiretoday.com/news/175815/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 6
 
 secured: "tW+u8utKh1P/NF9LckNJD5L14H53ixLG7njZtGa4r7tYhzmQ5yyNsfQhXrC2lD8ln55dd2/shSWmflaNNLDHTSdJK/jvssYH8lPLbGD6LsXyDJZ7RfbETVcg983dyYarf9P5jbzKk82nqlq3EFO5deBCWgbPWqgy42RlIo9kAXK97Jg502J+1Rhhy3adnIt43+1UUXRqTWusxpD/D2kk0xu4saY5cFVd9XrHWEmjWYn/iqnuojnd1CIzKA+P8jtWiAg7UjSwxfyDpFWx/wvKUp6DP09y6G7cv30FpgPDuAnsETXHGK7sU+8IxZKBzsfVP5kkE7a3SQfLgBEsnewVyS0habDMvLr57ykL+6V7b7V7aW8OUdil6V+Sir5ssY01ZCb/ubpqVamXM+3SY7c+GuJUG16vTLudaMV3vJ6nFJowESyagt21dY+l/+F28kWAlhAd3qcYNP7AzqVFva/f6EmESbEwFrbLoutEKhYVKTjQT81YBcTe63Adj+OppHtZUytfw9qJOs911drcAMDjPw==;nDSjnqUwn4E/nCixSCUriw=="
 ---

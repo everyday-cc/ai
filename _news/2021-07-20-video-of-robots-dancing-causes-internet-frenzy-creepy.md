@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/377766"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377766"
 type: article
 quality: 89
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "\"Creepy\" Video of Robots Dancing Causes Internet Frenzy -- And Even Elon Musk is Weighing In"
+    excerpt: "A new video of a dancing robot went viral on Twitter this week for garnering myriad reactions about what new robotic capabilities could mean down the line. Imagine what AI powered machines will be able to do in the next 5-10 years."
+    publishedDateTime: 2021-07-20T11:11:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/Creepy-Video-of-Robots-Dancing-Causes-Internet-16325052.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 28
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/05/11/21254721/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "/a+E9Z7VdcQIBmLYLW7E+Vnf1IEC5pkIJAP4HUqRfB0DcRpVv7+tgtfTRPJUXiOlYnQzTY0W6M2sQNa5rrMhftC/5XrXQa/r0GWPD7FF0N8Udmr94aR67Qp6TpzdFHaZKBCGVaycKIKFHsBERqSUXQ/38GUqgmxjfKyz5jCak+3YMgcmiMgBghdHgzA8UhGfXFnxkROtYNgXBhI8GfWCP7irYNo2J4RRN+C0ad4jM8E37N9hYUOmuLT359WWzFPqj6x+EGckMKO0FNBZIFmtty8kveCxEnYhZQiB2+FS/xns7sQ4eMtcUP6Sm6GB9h9CfdyOb+9EnVKgD69AYnCjjP3dNVfKc/RLShP45i0JAM6NjY9K60nW4i+3jauZILWDpp6Tvz7kRbSaFBDJiItxzeKDRdhbOoGt8sS37lNBlzYgZHP/VV8xdOsMb+RmHczXiyhvofwTxKEE+Z7j6xlcnxPdKc44tpEO6KhVUTUfkKixoaJJsG0ghG9+e1PNttYFOjK8gTWE69YPTIt/MI0W6g==;6q46Oo2UY3w8E/GMvseg1Q=="
 ---

@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-20-plyable-harness-the-latest-in-ai-and-computer-vision-to-deliver-innovation.md",
+      "title": "Plyable Harness The Latest In AI And Computer Vision To Deliver Innovation",
+      "excerpt": "Plyable harness the latest in AI and computer vision to deliver innovation in the manufacturing space - read at TechRound >>",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/tech/plyable/",
+      "originalUrl": "https://techround.co.uk/tech/plyable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techround.co.uk/wp-content/uploads/2021/07/CAD-1.jpg",
+          "width": 508,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techround.co.uk/tech/plyable/amp/",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/plyable/amp/",
+      "publishedDateTime": "2021-07-20T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-how-ai-and-iot-are-transforming-transport-management.md",
+      "title": "How AI and IoT are Transforming Transport Management",
+      "excerpt": "AI-powered IoT systems provide predictive analytics, playing a crucial role in running businesses more efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/375415",
+      "originalUrl": "https://www.entrepreneur.com/article/375415",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/375415",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375415",
+      "publishedDateTime": "2021-07-20T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-artificial-intelligence-ai-in-automotive-market-analysis-size-drivers-restraints-opportunities-and-threats-by-2026.md",
       "title": "Artificial Intelligence (AI) in Automotive Market Analysis, Size, Drivers, Restraints, Opportunities and Threats by 2026",
       "excerpt": "Rising concerns over road safety to enhance artificial intelligence (AI) in automotive market share Growing inclination towards semi-autonomous vehicles is anticipated to drive the use of artificial intelligence (AI) in automobiles.",
@@ -367,7 +452,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/377766",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -972,7 +1057,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/19/three-ways-edtech-platforms-can-use-ai-to-deliver-effective-learning-experiences/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1110,38 +1195,29 @@
       ]
     },
     {
-      "path": "_news/2021-07-19-building-mlgui-user-interfaces-for-machine-learning-applications.md",
-      "title": "Building MLGUI, user interfaces for machine learning applications",
-      "excerpt": "In this interview, KPMG's Philip Vollet talks about why building user interfaces is necessary to unlock AI's true potential.",
+      "path": "_news/2021-07-19-israel-ai-based-learning-startup-magnilearn-chosen-by-microsoft-to-impact-education.md",
+      "title": "Israel AI-Based Learning Startup MagniLearn chosen by Microsoft to impact Education",
+      "excerpt": "After concluding deals with public and private school networks in Israel, Korea and Japan, EdTech startup MagniLearn formed by AI researchers from Hebrew University in Jerusalem, has been selected by Microsoft Israel in its AI for Good Acceleration Program,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/israel-ai-based-learning-startup-magnilearn-chosen-by-microsoft-to-impact-education-1030619985",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/israel-ai-based-learning-startup-magnilearn-chosen-by-microsoft-to-impact-education-1030619985",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 85,
       "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/kelly-sikkema-gcHFXsdcmJE-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/amp/",
-      "publishedDateTime": "2021-07-19T05:05:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T05:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1157,104 +1233,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production.md",
-      "title": "Scaling AI and data science – 10 smart ways to move from pilot to production",
-      "excerpt": "Taking steps that help overcome bottlenecks in data and data scientists is key to extracting value from AI investments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Picture1.jpg?w=1200&strip=all",
-          "width": 936,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/amp/",
-      "publishedDateTime": "2021-07-19T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision.md",
-      "title": "Giving Robots Better Moves: Combining Unique Gripper Designs With AI and Machine Vision",
-      "excerpt": "MIT alumnus-founded RightHand Robotics has developed picking robots that are more reliable and adaptable in warehouse environments. For most people, the task of identifying an object, picking it up, and placing it somewhere else is trivial.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/",
-      "originalUrl": "https://scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Righthand-Robotics-Picking-Robot-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/amp/",
-      "publishedDateTime": "2021-07-19T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI in Education",
+        "Microsoft AI"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "How Artificial Intelligence Can Help Enhance Customer Engagement"
 excerpt: "How Artificial Intelligence Can Help Enhance Customer Engagement  - When CRMs are combined with AI, businesses can improve their customer engagements by providing ease and convenience."
 publishedDateTime: 2021-07-20T05:43:00Z
-originalUrl: "https://www.cioreview.com/news/how-artificial-intelligence-can-help-enhance-customer-engagement--nid-34090-cid-244.html"
-webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-can-help-enhance-customer-engagement--nid-34090-cid-244.html"
+originalUrl: "https://www.cioreview.com/news/how-artificial-intelligence-can-help-enhance-customer-engagement---nid-34090-cid-244.html"
+webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-can-help-enhance-customer-engagement---nid-34090-cid-244.html"
 type: article
 quality: 37
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.cioreview.com/newsimages/705x485_luR2P8hx.jpg"
+  - url: "https://www.cioreview.com/newsimages/705x485_UWAdeVPn.jpg"
     width: 705
     height: 485
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 321
         isCached: true
 
-secured: "UPQ6tWCXIuOW+tAlUOyy3j6gT8RtROPUWS7sKEDD+gnBbwChe0DQcbVGbdl6t72f48T7YKw3xbw2Oc2jpUYGN84SKVTydu+ZTI6TunvlTd0+Lb9Fh6Q4Z8a34mgK3LU1ljp1GC8KGsOqTFNAzhJgoJjtEuTrWU1p8NCAhN9cQcDd8rni7jDG95CNol/B5e3FGfj4Y3pkRhXc4h+Qy/cyQdvB5ImDkwynHUiBEANJZrFa4ZSY64FajYn2SdTAW8R5eFa+4RHiLIbq4Z3CTuzNIHuUZJ9ATjWYd3oUrJlH6ExC6+IlHLCaNwULq1YhnpnRT/t1A2DDeFiB3/CnM27m69ejXjX5B9FG6bSsst5JzYZUew3ipVz6fcOE6zUnGpW/78ClZ13W9AFZKVNLXj3ilZplcsl4soApMAXDmW6JAcPGQ3VU5mctDLDh8aKas3nGC1m4jpmWjnzK3k+oSFuAN9ClYVw4BQZKat2kvztZ7DxhRsqwg+691PTfn1fasP74ndwnXUIAntVXRvas5l08dA==;PAkjzK3YyNj4rOWTJ0tJ0Q=="
+secured: "TBJWZBN1AY2qltGtGYMn4L83jmueWm+uZvVzv+15ot4m2/IZPLkU6ELPxKLSu/Rasi2eaKN3yW4PRxQeBPSQc6GPXrT9I01ZaeNJrdQccU0TDxo2dqh8FE/UhqbvTNFRCIdb+wng0yijSOmFu7C+CVwIZUBe0cfpb20yO4bHyF52oxR3XZvuemHu82ujP/Owo+K7VWEsUtWL91lexN+SIzdlZTO4ebFQqUTQiePvPsy7BXyYP+GuFMHYyaXRFBty6vRtjg+1YuhnJ3X/ppqxrJrYd1DAi0D4T1ablRXHcaM5SCbZQa9PWZ+mWY0sl3OqkxVMx4XycW4pAQt32DHXpgqCwnlHsZNTBvMsLAH308Y=;mJHgsHDjqtsdGpKusGcm3g=="
 ---
 

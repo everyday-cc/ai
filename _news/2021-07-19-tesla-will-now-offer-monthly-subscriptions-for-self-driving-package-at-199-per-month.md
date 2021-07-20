@@ -123,6 +123,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Tesla’s Auto Shift coming to all Full Self Driving models, confirms Elon Musk"
+    excerpt: "Tesla CEO Elon Musk has said that all Tesla cars with ‘Full Self-Driving' (FSD) abilities will have the Auto Shift function as an option.  For those that don’t know, Auto Shift is a feature for Teslas that allow the electric cars to drive with some level of autonomy,"
+    publishedDateTime: 2021-07-20T11:17:00Z
+    webUrl: "https://www.tomsguide.com/news/teslas-auto-shift-coming-to-all-full-self-driving-models-confirms-elon-musk"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/teslas-auto-shift-coming-to-all-full-self-driving-models-confirms-elon-musk"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/teslas-auto-shift-coming-to-all-full-self-driving-models-confirms-elon-musk"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 71
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/U4dgHgrpp3a7cFSoFm72Tk-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Tesla Introduces $199 Full Self-Driving Monthly Subscription"
     excerpt: "Tesla has introduced a subscription offering that allows its customers to use its Full Self-Driving (FSD) autonomous driving software in supported vehicles in exchange for $199 per month. Electrek reported that Tesla customers who purchased the Enhanced Autopilot package—which the company no longer offers—will be able to subscribe to FSD for $99 per month instead."
     publishedDateTime: 2021-07-17T16:40:00Z

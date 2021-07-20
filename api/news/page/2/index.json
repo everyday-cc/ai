@@ -2,6 +2,154 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-19-building-mlgui-user-interfaces-for-machine-learning-applications.md",
+      "title": "Building MLGUI, user interfaces for machine learning applications",
+      "excerpt": "In this interview, KPMG's Philip Vollet talks about why building user interfaces is necessary to unlock AI's true potential.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/",
+      "originalUrl": "https://venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/kelly-sikkema-gcHFXsdcmJE-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/amp/",
+      "publishedDateTime": "2021-07-19T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production.md",
+      "title": "Scaling AI and data science – 10 smart ways to move from pilot to production",
+      "excerpt": "Taking steps that help overcome bottlenecks in data and data scientists is key to extracting value from AI investments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/",
+      "originalUrl": "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Picture1.jpg?w=1200&strip=all",
+          "width": 936,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/amp/",
+      "publishedDateTime": "2021-07-19T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision.md",
+      "title": "Giving Robots Better Moves: Combining Unique Gripper Designs With AI and Machine Vision",
+      "excerpt": "MIT alumnus-founded RightHand Robotics has developed picking robots that are more reliable and adaptable in warehouse environments. For most people, the task of identifying an object, picking it up, and placing it somewhere else is trivial.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/",
+      "originalUrl": "https://scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Righthand-Robotics-Picking-Robot-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/amp/",
+      "publishedDateTime": "2021-07-19T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-research-breakthrough-artificial-intelligence-ai-can-now-use-its-imagination.md",
       "title": "Research Breakthrough: Artificial Intelligence (AI) Can Now Use Its Imagination",
       "excerpt": "Researchers at the University of Southern California (USC)  are helping the use of Artificial Intelligence (AI) imagine what has not",
@@ -544,7 +692,7 @@
       "originalUrl": "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 369,
       "tags": null,
       "images": [
         {
@@ -732,6 +880,49 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-18-self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger.md",
+      "title": "Self-Driving Startup Aurora To Go Public, Raise $2 Billion Through SPAC Merger",
+      "excerpt": "Aurora’s deal with Reinvent Technology Partners Y is expected to value the company at $11 billion and should close in the second half of 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2021/07/self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger/",
+      "originalUrl": "https://www.carscoops.com/2021/07/self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2021/02/Toyota-Aurora-Denso-a-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2021/07/self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/self-driving-startup-aurora-to-go-public-raise-2-billion-through-spac-merger/amp/",
+      "publishedDateTime": "2021-07-18T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -941,7 +1132,7 @@
       "originalUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1017,204 +1208,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-six-essential-artificial-intelligence-capabilities-leveraged-by-the-digital-giants.md",
-      "title": "Six essential artificial intelligence capabilities leveraged by the digital giants",
-      "excerpt": "Digital giants dominate the cloud and ecommerce markets, and part of the reason for their dominance is artificial intelligence and advanced analytics. The good news is that mainstream enterprises can learn from their experiences and employ cutting-edge technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/07/17/aa4d6e42-243c-4cc6-809e-4f5ac23e4f9a/building-6th-ave-nyc-photo-by-joe-mckendrick.jpg",
-          "width": 960,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
-      "publishedDateTime": "2021-07-16T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-ai-and-financial-processes-balancing-risk-and-reward.md",
-      "title": "AI and financial processes: Balancing risk and reward",
-      "excerpt": "When merging AI and financial processes, the smart money lies in mitigating risk while focusing on that sweet monetary reward.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/16/ai-and-financial-processes-balancing-risk-and-reward/",
-      "originalUrl": "https://venturebeat.com/2021/07/16/ai-and-financial-processes-balancing-risk-and-reward/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/05/mobile-app-monetization.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/16/ai-and-financial-processes-balancing-risk-and-reward/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/ai-and-financial-processes-balancing-risk-and-reward/amp/",
-      "publishedDateTime": "2021-07-16T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-facial-recognition-creates-risks-for-trans-individuals-others.md",
-      "title": "Facial Recognition Creates Risks for Trans Individuals, Others",
-      "excerpt": "As more government entities look to adopt facial recognition, concerns have been raised about its potential risks and how the technology might have disproportionate impacts for transgender and nonbinary individuals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others",
-      "originalUrl": "https://www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/4b0c0fb/2147483647/strip/true/crop/3840x2002+0+158/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Ff0%2Fd7d5d49246228a0d733bfc67324b%2Fshutterstock-1651644193.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others?_amp=true",
-      "publishedDateTime": "2021-07-16T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-ai-weekly-can-ai-predict-labor-market-trends.md",
-      "title": "AI Weekly: Can AI predict labor market trends?",
-      "excerpt": "Some firms claim to use AI to predict labor market trends. To what extent is this possible? Can bias creep in?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/16/ai-weekly-can-ai-predict-labor-market-trends/",
-      "originalUrl": "https://venturebeat.com/2021/07/16/ai-weekly-can-ai-predict-labor-market-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/money_in_pocket.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 865,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/16/ai-weekly-can-ai-predict-labor-market-trends/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/ai-weekly-can-ai-predict-labor-market-trends/amp/",
-      "publishedDateTime": "2021-07-16T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

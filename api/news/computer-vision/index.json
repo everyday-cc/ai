@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-20-plyable-harness-the-latest-in-ai-and-computer-vision-to-deliver-innovation.md",
+      "title": "Plyable Harness The Latest In AI And Computer Vision To Deliver Innovation",
+      "excerpt": "Plyable harness the latest in AI and computer vision to deliver innovation in the manufacturing space - read at TechRound >>",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/tech/plyable/",
+      "originalUrl": "https://techround.co.uk/tech/plyable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techround.co.uk/wp-content/uploads/2021/07/CAD-1.jpg",
+          "width": 508,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techround.co.uk/tech/plyable/amp/",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/plyable/amp/",
+      "publishedDateTime": "2021-07-20T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-automate-continuous-model-improvement-with-amazon-rekognition-custom-labels-and-amazon-a2i-part-1.md",
       "title": "Automate continuous model improvement with Amazon Rekognition Custom Labels and Amazon A2I: Part 1",
       "excerpt": "If you need to integrate image analysis into your business process to detect objects or scenes unique to your business domain, you need to build your own custom machine learning (ML) model. Building a custom model requires advanced ML expertise and can be a technical challenge if you have limited ML",
@@ -210,7 +253,7 @@
       "originalUrl": "https://www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -254,7 +297,7 @@
       "originalUrl": "https://www.cnet.com/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -338,49 +381,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-learning-aids-new-method-helps-train-computer-vision-algorithms-on-limited-data.md",
-      "title": "Learning aids: New method helps train computer vision algorithms on limited data",
-      "excerpt": "Researchers from Skoltech have found a way to help computer vision algorithms process satellite images of the Earth more accurately, even with very limited data for training. This will make various remote sensing tasks easier for machines and ultimately the people who use their data.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-07-aids-method-vision-algorithms-limited.html",
-      "originalUrl": "https://techxplore.com/news/2021-07-aids-method-vision-algorithms-limited.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/satelliteima.jpg",
-          "width": 1920,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-07-aids-method-vision-algorithms-limited.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-aids-method-vision-algorithms-limited.amp",
-      "publishedDateTime": "2021-07-15T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
