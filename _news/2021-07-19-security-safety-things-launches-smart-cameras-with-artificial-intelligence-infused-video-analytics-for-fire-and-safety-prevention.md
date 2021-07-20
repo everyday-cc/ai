@@ -43,21 +43,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trilogy of Data, analytics, AI is accelerating innovation across industries"
-    excerpt: "Oxford's Tom Davenport and C3 AI CEO Tom Siebel chats with ThoughtSpot's Cindi Howson on how data, analytics, and AI transformed industries."
-    publishedDateTime: 2021-07-15T20:50:00Z
-    webUrl: "https://venturebeat.com/2021/07/15/trilogy-of-data-analytics-ai-is-accelerating-innovation-across-industries/"
-    ampWebUrl: "https://venturebeat.com/2021/07/15/trilogy-of-data-analytics-ai-is-accelerating-innovation-across-industries/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/trilogy-of-data-analytics-ai-is-accelerating-innovation-across-industries/amp/"
+  - title: "AI adoption and analytics are rising, survey finds"
+    excerpt: "Businesses are accelerating their adoption of analytics, according to a new survey from Zoho-owned ManageEngine."
+    publishedDateTime: 2021-07-20T13:15:00Z
+    webUrl: "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/"
+    ampWebUrl: "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 85
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/C3AI.png?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all"
         width: 1200
-        height: 601
+        height: 600
         isCached: true
   - title: "Why AI and analytics are the answer to tax authorities’ questions"
     excerpt: "But how is it that EU tax authorities and organizations stand to benefit from AI and analytics? Inside, access this white paper to explore how a decision intelligence system can help the public sector identify tax fraud when it happens,"
@@ -73,6 +73,15 @@ related:
         width: 315
         height: 408
         isCached: true
+  - title: "Microsoft Canada recognizes Adastra as winner of the 2021 Analytics, Artificial Intelligence and Data Platform Modernization Impact Awards"
+    excerpt: "CNW/ - Adastra, a global leader in Data Management and Analytics, is proud to announce that it has won three 2021 Microsoft Canada Impact Awards: the Analytics Impact Award, Artificial Intelligence Impact Award,"
+    publishedDateTime: 2021-07-20T12:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-canada-recognizes-adastra-as-winner-of-the-2021-analytics-artificial-intelligence-and-data-platform-modernization-impact-awards-1030624806"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
 
 secured: "nVToOZaSPpGqENJ0w4Tqog6s0RDZDl3hawyEncZiSQoWq53RW+YSwbHm0gQxGZ4Mry4czCosTmfDxcFk30nCqcDFwd+yvkuWzhERG6I5SE/rF1sKSqE8pQ061albtcumZnK4iGHBRofCoOt83kg3RDluNwvbitsbumg3bQwyYnhJbeD/cyP+RuiayVqS1ijHN3SuS1B6uOLKc4Nnr2zWv4pVE8NS/XBTeTAQqLvyxHbrLzidpokrIuzYA1iOJzGNVHIzuABugsgdE1FF7XjMGyiUgp9FUnmiEQxiGPjM8Ig5X9PLFQIXGM7+jcEoE5NsCvg7lKnW3k6vl2EBQgnYCnPbqI+LD6WS7UI3UotBRrE=;PWZ4rBL+nXF8g1gZa2oHoQ=="
 ---

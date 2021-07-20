@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why we need engineers who study ethics as much as maths"
-    excerpt: "The Miami apartment collapse is a grim reminder of why engineering matters, and why comprehensive education in ethics should be embedded in the training of engineers."
-    publishedDateTime: 2021-07-15T19:27:00Z
-    webUrl: "https://theconversation.com/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356"
-    ampWebUrl: "https://theconversation.com/amp/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 91
-    images:
-      - url: "https://images.theconversation.com/files/404650/original/file-20210606-80132-z4b58d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
   - title: "Why we need engineers who study ethics as much as math"
     excerpt: "The recent apartment building collapse in Miami, Florida, is a tragic reminder of the huge impacts engineering can have on our lives. Disasters such as this force engineers to reflect on their practice and perhaps fundamentally change their approach."
     publishedDateTime: 2021-07-16T13:13:00Z

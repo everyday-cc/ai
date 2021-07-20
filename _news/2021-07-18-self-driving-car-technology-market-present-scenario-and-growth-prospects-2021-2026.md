@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Edge AI Market Size and Growth Prospects 2019 – 2027"
-    excerpt: "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry"
-    publishedDateTime: 2021-07-15T20:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-size-and-growth-prospects-2019-2027-2021-07-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Neural Network Software Market Report 2021: Market Size and Growth Projections to 2028"
     excerpt: "A neural network is a framework of hardware and software patterned after the operation of neurons in the human brain."
     publishedDateTime: 2021-07-16T20:38:00Z
@@ -47,19 +33,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market (2021 to 2026) – Industry Trends, Share, Size, Growth, Opportunity and Forecasts"
-    excerpt: "Jul 15, 2021 (Heraldkeepers) -- The scope of the report includes a detailed study of Deep Learning Marketwith the reasons given for variations in the growth of the industry in certain regions. Deep Learning is a subfield of machine learning concerned with ..."
-    publishedDateTime: 2021-07-15T20:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2021-to-2026-industry-trends-share-size-growth-opportunity-and-forecasts-2021-07-15"
+  - title: "Global Personal Artificial Intelligence and Robotics Market Report 2021: Personalized Robot Components will Reach $15.0 Billion by 2026"
+    excerpt: "The \"Personal Artificial Intelligence and Robotics Market by AI and Robot Type, Components, Devices and Solutions 2021 - 2026\""
+    publishedDateTime: 2021-07-19T10:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n22035744/global-personal-artificial-intelligence-and-robotics-market-report-2021-personalized-robot-compone"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22035744"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22035744"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
   - title: "Artificial Intelligence in the Education Sector Market Research, Growth Opportunities, Key Players, Outlook and Forecasts Report 2021-2027"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Artificial Intelligence in"
@@ -75,56 +63,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in BFSI Market to Enjoy Explosive Growth by 2027"
-    excerpt: "The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028, according to latest analysis by Emergen Research. AI understands customer behavior and allows banks to customize financial products and services by adding personalized features to build strong relationships with customers."
-    publishedDateTime: 2021-07-16T12:37:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-bfsi-market-to-enjoy-explosive-growth-by-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 38
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/05/3-4-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Artificial Intelligence Products Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2027"
-    excerpt: "Jul 20, 2021 (Heraldkeepers) -- This report describes the global market size of Artificial Intelligence Products from 2016 to 2020 and its CAGR from 2016 to 2020, and also forecasts its market size to the end of 2026 and its CAGR from 2021 to 2026."
-    publishedDateTime: 2021-07-20T07:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2020-2027-2021-07-20"
+  - title: "Global Artificial Intelligence Chips Market 2021 Report Presents Complete Summary, Marketplace Shares and Growth Opportunities by 2026"
+    excerpt: "Global Artificial Intelligence Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz methodically compiles the principal components of the market study."
+    publishedDateTime: 2021-07-19T21:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chips-market-2021-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2026-2021-07-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 29
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Retail Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Retail Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial intelligence (AI) refers to machines that can mimic"
-    publishedDateTime: 2021-07-16T01:27:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4667110-global-artificial-intelligence-ai-in-retail-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 23
-  - title: "Artificial Intelligence Voice Market Growth – Key Futuristic Trends and Competitive Landscape 2021-2026"
-    excerpt: "Big Market Research recently added a new informative report titled ” Global Artificial Intelligence Voice Market ” in its humongous database that helps shape the future of com"
-    publishedDateTime: 2021-07-17T17:10:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-voice-market-growth-key-futuristic-trends-and-competitive-landscape-2021-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 21
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/chemical4-25-390x220.jpg"
-        width: 390
-        height: 220
         isCached: true
   - title: "Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027 report by QYResearch Group. North America is expected to be the largest and"
@@ -146,56 +97,26 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Artificial Organs Market Growth, Future Prospects, Opportunity Analysis, Industry Forecast 2027"
-    excerpt: "The global artificial organs market is expected to reach USD 32.62 Billion by 2027, according to a new report by Emergen Research. The specialist consulting approach adopted to study the Artificial Organs market by size,"
-    publishedDateTime: 2021-07-16T11:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-organs-market-growth-future-prospects-opportunity-analysis-industry-forecast-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 12
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/cybersecurity-hackers-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence has become a leading trend that affects"
-    publishedDateTime: 2021-07-17T07:38:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4657100-global-artificial-intelligence-in-fintech-market-size-status-and-forecast-2021-2027.html"
+  - title: "Global Face Recognition Terminal Market Growth 2021-2026"
+    excerpt: "Pages Report] Check for Discount on Global Face Recognition Terminal Market Growth 2021-2026 report by LP Information INC. According to this latest study, the 2021 growth of"
+    publishedDateTime: 2021-07-19T12:36:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4680288-global-face-recognition-terminal-market-growth-2021-2026.html"
     type: article
     provider:
       name: ReportsnReports
       domain: reportsnreports.com
-    quality: 12
-  - title: "Global Medical Imaging Artificial Intelligence Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Medical Imaging Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Medical Imaging Artificial Intelligence"
-    publishedDateTime: 2021-07-19T22:35:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4629078-global-medical-imaging-artificial-intelligence-market-size-status-and-forecast-2021-2027.html"
+    quality: 19
+  - title: "Artificial Intelligence Chipsets Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Artificial Intelligence Chipsets Market size is expected to grow at an annual average of 35 during 2021 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the continuous advancement of technology Due"
+    publishedDateTime: 2021-07-20T13:16:00Z
+    webUrl: "https://www.openpr.com/news/2332911/artificial-intelligence-chipsets-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2332911/artificial-intelligence-chipsets-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332911/artificial-intelligence-chipsets-market-share-2021-global"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 8
-  - title: "Artificial Intelligence in Aviation Market Size, Share and Top Firms – Intel, Micron, Boeing,"
-    excerpt: "The Artificial Intelligence in Aviation market research report assesses the global Artificial Intelligence in Aviation Market industry market and includes sales and capacity forecasts for the anticipated period 2021-2028."
-    publishedDateTime: 2021-07-20T04:39:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-share-and-top-firms-intel-micron-boeing/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 6
-  - title: "Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence for Video"
-    publishedDateTime: 2021-07-17T07:39:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4630235-global-artificial-intelligence-for-video-surveillance-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 4
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
 
 secured: "XQQqTMTFM9ZlzQJK97jd/ZabkWGt3hj14KxG9wbJZN8CnbshYkW8jdA1gB0UeqJWKXO2UoqqtnrqNkhu6Zw5/1flyUaH5XaVSvcJO+ulQ2l39vmH63QBKuqk4d4zouTFzurH0MEP07Yp5xg6YoIBS6XTTXpW3Ax/t7SeCEA+tw8hT8gxjSn6ks/0fgJeQaPgg67AfSLZLfvAQlBVnrE8P0x+mTltrYiB/Liw/ieUhre3A0mDRAofzvEd1OjCeqCwnZRhqYoj92nldsOaWxGUAj7pEL4O2DqfKMKKs3R/sXNP4DOUaPdoZJssSDKhHil3XbVyxCuzCyK32iI6rKEiYgeEureiQYGsO7A/Zn11Bx8=;Xh/Xq6am2PI7yN3rz/Acew=="
 ---

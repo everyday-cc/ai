@@ -200,22 +200,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Anthony Bourdain Doc Recreates His Voice Using Artificial Intelligence and 10-Plus Hours of Audio"
-    excerpt: "Roadrunner ,” the Anthony Bourdain documentary from “20 Feet from Stardom” Oscar winner Morgan Neville, takes a page from documentaries like Alex Gibney’s “Sinatra: All or Nothing at All” in allowing the late chef and television personality to narrate his own story through the use of archival audio."
-    publishedDateTime: 2021-07-15T19:31:00Z
-    webUrl: "https://www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-intelligence-recreate-voice-1234651491/#!"
-    ampWebUrl: "https://www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-intelligence-recreate-voice-1234651491/amp/"
-    cdnAmpWebUrl: "https://www-indiewire-com.cdn.ampproject.org/c/s/www.indiewire.com/2021/07/anthony-bourdain-doc-artificial-intelligence-recreate-voice-1234651491/amp/"
-    type: article
-    provider:
-      name: IndieWire
-      domain: indiewire.com
-    quality: 61
-    images:
-      - url: "https://www.indiewire.com/wp-content/uploads/2021/07/anthony-bourdain.png?w=780"
-        width: 780
-        height: 507
-        isCached: true
   - title: "Anthony Bourdain Documentary Uses AI To Recreate His Voice"
     excerpt: "A Film About Anthony Bourdain, releases today, July 16, and it features the voice the late chef, writer, and host. Director Morgan Neville said to The New Yorker that the production team compiled audio samplings of Bourdain's narration from across his appearances on TV,"
     publishedDateTime: 2021-07-16T12:09:00Z
@@ -231,22 +215,6 @@ related:
       - url: "https://www.gamespot.com/a/uploads/original/1179/11799911/3856621-screenshot2021-07-16at7.56.54am.png"
         width: 2028
         height: 1024
-        isCached: true
-  - title: "Anthony Bourdain’s AI-Faked Voice in New Documentary Sparks Backlash"
-    excerpt: "I feel like this tells you all you need to know about the ethics of the people behind this project.” Documentary filmmaker Lindsay Beyerstein questioned whether the use of AI was disclosed to ..."
-    publishedDateTime: 2021-07-15T19:11:00Z
-    webUrl: "https://variety.com/2021/artisans/news/anthony-bourdain-fake-voice-roadrunner-documentary-backlash-1235020878/"
-    ampWebUrl: "https://variety.com/2021/artisans/news/anthony-bourdain-fake-voice-roadrunner-documentary-backlash-1235020878/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/artisans/news/anthony-bourdain-fake-voice-roadrunner-documentary-backlash-1235020878/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 59
-    images:
-      - url: "https://variety.com/wp-content/uploads/2021/06/Roadrunner-Anthony-Bourdain.jpg?w=1000"
-        width: 1000
-        height: 563
         isCached: true
   - title: "New Anthony Bourdain Documentary Used AI to Recreate His Voice"
     excerpt: "“I created an AI model of his voice,” Neville admitted ... “We can have a documentary-ethics panel about it later,” he quipped. +Social +Newsletter"

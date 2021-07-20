@@ -59,8 +59,8 @@ related:
         isCached: true
   - title: "IDenfy bags deal withj Polish fintech Payment Financial"
     excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Payment Financial SA."
-    publishedDateTime: 2021-07-20T10:53:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88625/idenfy-bags-deal-withj-polish-fintech-payment-financial?ref=fintastico.com"
+    publishedDateTime: 2021-07-20T11:55:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88625/idenfy-bags-deal-withj-polish-fintech-payment-financial"
     type: article
     provider:
       name: Finextra
@@ -128,6 +128,34 @@ related:
       - url: "https://thepaypers.com/images/social_media/fintech-socialmedia_LI.png"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Music Fintech Company Offers Advances Up To $1 Million To Drive Artist Empowerment And Freedom"
+    excerpt: "PRNewswire/ -- beatBread, the pioneering music fintech business, is stepping up its support of music talent through the activation of agreements that allow the company to provide financial advances of up to $1 million for an individual artist for the first time."
+    publishedDateTime: 2021-07-20T13:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-music-fintech-company-offers-advances-up-1-million-/2021/07/20/9412945.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/1574686/BEAT_BREAD.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
+    excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (“Infobird” or the “Company”),"
+    publishedDateTime: 2021-07-20T12:31:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-2fcaf5aa6c7c11c5451b9eb175c3f3ef"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "yUo/fINhyLppbX2ThUvAH+95pkD3cGJMNByMHAeDhz3+PKlwGGcjMhl5OHNEWBc1mhjGefPZiA9uNtXeRLyuPDciDWe87fLvySAs0mzG9KxvFlWUCRGK9OOEk7lCu2jpdooKkme+OU3InQzz/arRNBJEF+futAOP1c2p+ZaFwS6PVhqhQfY75WwF8MlEaa0aUQk+duIfNSHrRjFQ5h0eTcLjlu3/HP4h9PuwIVL98icw1G3dxlGE9jP5ek0MHwQ+I0RTsNL9y2bCu96G4T2Yd0hTwFqFPw9sxKVIvWCfuji4SRCfsr0FLvDQYioIjVXvDgMMvFn+NBjCZ7EVrfMBY2KxKaC6voCPE4jeniiVEsFpAwCeuawdVWRI8xLW8S67Oo8fERjrY+Dwmod7z0uyGb2wBvkN0do5GNiOyEH0ABbFY9yB5vweyEWaufJIsJ3FE9nu7zjF6apWo8/Lhv3ErcyP7m4bP1V8mxdJzLqVxlhR5k7zgrnA+guMUWTySveE4J/gZ6Exo12DEzZ285iyhQ==;iWOxl0AhaQW1lCqCYKxLKQ=="

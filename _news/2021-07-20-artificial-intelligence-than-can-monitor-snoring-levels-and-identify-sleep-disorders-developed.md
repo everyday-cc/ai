@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence than can monitor snoring levels and identify sleep disorders developed"
 excerpt: "The app records and tracks snoring levels and provides nightly reports to help people discover the causes, factors and solutions Researchers from the UK's prestigious University of Sheffield have developed artificial intelligence (AI) which they say can effectively monitor a person's snoring levels and identify sleep disorders."
 publishedDateTime: 2021-07-20T11:52:00Z
-originalUrl: "https://www.tribuneindia.com/news/health/artificial-intelligence-than-can-monitor-snoring-levels-and-identify-sleep-disorders-developed-285866"
-webUrl: "https://www.tribuneindia.com/news/health/artificial-intelligence-than-can-monitor-snoring-levels-and-identify-sleep-disorders-developed-285866"
+originalUrl: "https://www.tribuneindia.com/news/world/artificial-intelligence-than-can-monitor-snoring-levels-and-identify-sleep-disorders-developed-285866"
+webUrl: "https://www.tribuneindia.com/news/world/artificial-intelligence-than-can-monitor-snoring-levels-and-identify-sleep-disorders-developed-285866"
 type: article
 quality: 25
 heat: 25
@@ -23,6 +23,6 @@ images:
     height: 441
     isCached: true
 
-secured: "dyitNKzsi4lLROrmECPuObRsC+z+b+OP4kNaH8vfuU8WZpGxhGbQwKc4DArtH/JdOrspKMGoNe/5pBU0G2TZtuJAXT/gCQZ1RBl33T1MEMiC1skR9hZv5jqEHbgT+jyK6o+9Za4qOlOpwP6rtMuTY4YcTR0Z0Yyim9zKMPa+APCXk46sUV3+KzQAtpe3/F6QFKyhFUBiLU7O5JFqekCI123vQAyHBKi1IFEO25CoSr7pz9RgnjfTM3luPqcGEXJid1pDLCgaq6+TkJ/PPsraU6TGZPQl0SU/i3kQWngXJBN5/NjB+hgCvZePW8rwPb1mfSbaRfxkaFLuQvMq9LJlmkWXVe5NiDdsxsmcoBiKMHA=;l0t2bRudFg3eOZUSxzx5AA=="
+secured: "cHufc+kBMJ+5OVYO+meRfAD7tKqUKkqNxCDk0qsTA7djc9MFqQz5bd8uTG54v1YBH06z0YKtSMDJnLOFR008c1FGmzVQE6e7YkN5aTPd+t2/H4C5KOxpPDEJgVxiiQHVsFpJIW8zn0cca8BiuPOrKn4ACMmjATwnkW/Pi6Q9YNNcosK90UR8tt9CN+RHNNaQNa6D886Jf7Wxllvm+Yx4EnDBmsl8oWRxgBBq8E0uSitZPos06Jmep2f72ZgzrwVb2BuMGKd72SMqHNfD7v8nZgtjSkzBtejVaV4aIgvisiBI1UP6RCPrMpNByVtZ75t8tv1rYy2moNFioXnx9S6O7RviEPbBmYdyhoEvBdCamrQ=;3sWra5sFtXn1Mbtwz/MXJw=="
 ---
 

@@ -57,20 +57,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "AWS launches Amazon HealthLake into general availability"
-    excerpt: "“In their daily practice, doctors need a complete chronological view of patient history to identify the best course of action,“ AWS artificial intelligence and machine learning evangelist Juli ..."
-    publishedDateTime: 2021-07-15T19:20:00Z
-    webUrl: "https://siliconangle.com/2021/07/15/aws-launches-amazon-healthlake-general-availability/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/AWS.png"
-        width: 1024
-        height: 598
-        isCached: true
   - title: "Amazon (AMZN) HealthLake Boosts AWS for Health Offerings"
     excerpt: "Amazon’s AMZN cloud computing platform, Amazon Web Services (AWS) recently made Amazon HealthLake — a service eligible under the Health Insurance Portability and Accountability Act of 1996 — generally available for healthcare and life sciences organizations."
     publishedDateTime: 2021-07-16T14:58:00Z
@@ -135,20 +121,6 @@ related:
       - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_15_22_13_0934_computer_data_wave_social.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
-    excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by Amazon Web Services, Inc. as a Connector Partner for Amazon HealthLake,"
-    publishedDateTime: 2021-07-15T19:59:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/diameter-health-selected-as-amazon-healthlake-connector-partner"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 24
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/06/Columbus-Life_300x600_2021-06-1.jpg"
-        width: 300
-        height: 600
         isCached: true
 
 secured: "LVkNSfmclBy9HC6qoV6WCgANr0V0BX3J8qDQQ6XhY/EoQ5Y3iGihTPv8u9giMdhrjVgvD7FQmdN1OWCcKK063QloWst0Id5fq72kWTwGVp8zTAOwJcbyuDUY01fFCLWqHWS8Srm0HQo3aA5aLIFNxi0HXqQAcv57ApSbm7SmF7lFetivggyOZU1+4pYuoHbvmdx8R1KMT7mqF/2LJZEi06mpXEiMnJp6nWLQvrrrn+vZ8XU3YarGY0sYRgeEyxhYz8/pLmmjhW0OL8iREXBOvkVeGPiMrFn2m0pEa9712XtZ7cdMWZMOV8Ev/tfcuOYlpHi2m7ZavYOSHYL4vd+NDnY9BHmfog0NUBV8ifE8tDWz4YTNhB/XehHb0IpqiAHOKpcicmroqZ7l3vYD/VxRXRhxhOnJj3T93A6k5+ilcJL3m2WwyZH64lMV18+cp/3w2KCBIw8KAC4M8Sima9UQZfgOP6FtMDGKxWSlb6c2+bzN0e1uaHhq6E2I6SYW/9lGtGzdhUPfV9APyyfilOj8lA==;O2DNdsxUueYu71oVEF7eVQ=="

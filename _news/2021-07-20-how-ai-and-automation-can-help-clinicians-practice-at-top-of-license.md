@@ -7,7 +7,7 @@ originalUrl: "https://www.advisory.com/sponsored/ai-and-automation"
 webUrl: "https://www.advisory.com/sponsored/ai-and-automation"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,61 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Can Help Enhance Customer Engagement"
-    excerpt: "How Artificial Intelligence Can Help Enhance Customer Engagement  - When CRMs are combined with AI, businesses can improve their customer engagements by providing ease and convenience."
-    publishedDateTime: 2021-07-20T05:43:00Z
-    webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-can-help-enhance-customer-engagement---nid-34090-cid-244.html"
+  - title: "How Conversational AI Can Help Digital Transformation Succeed"
+    excerpt: "One of the challenges with many of these transformations is the impact on the employees and those stuck supporting them."
+    publishedDateTime: 2021-07-20T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/how-conversational-ai-can-help-digital-transformation-succeed/"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f57e2d2ef27aeb72092d1c%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
+    excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
+    publishedDateTime: 2021-07-19T12:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-launches-the-sensetime-international-ai-innovation-hub-in-singapore-to-support-sea-s-digitalisation-journey-1030620106"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+    images:
+      - url: "https://mma.prnewswire.com/media/1576547/1.jpg"
+        width: 400
+        height: 233
+        isCached: true
+  - title: "Do Commercial Chatbots Need Conversational AI?"
+    excerpt: "Commercial chatbots are becoming more sophisticated with the addition of conversational AI. Digital conversations, aided by natural language processing (NLP), are able to understand customer intent, resulting in enhanced customer journeys that can quickly provide users with the information they need or connect them with a live"
+    publishedDateTime: 2021-07-19T17:13:00Z
+    webUrl: "https://www.digitaljournal.com/pr/do-commercial-chatbots-need-conversational-ai"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 37
     images:
-      - url: "https://www.cioreview.com/newsimages/705x485_UWAdeVPn.jpg"
-        width: 705
-        height: 485
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Vaccine-Covid-Pandemic-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
+    excerpt: "SenseTime, a leading global artificial intelligence (AI) company, yesterday launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asia to further their AI capabilities."
+    publishedDateTime: 2021-07-20T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/251071"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 16
+    images:
+      - url: "https://www.ryt9.com/img/files/20210720/iq2cedfdb440860a0cf26dc7062cc8cb3b.jpg"
+        width: 800
+        height: 493
         isCached: true
 
 secured: "2pEaZeAXWsKBajI+qJGG1iIlVJgU700FXyFWegABpHZGcxDRYmOAxknu4kS0hHbJNFOxBeTLoT/v5T0VcrDaPlQo/fS0jALlzKvOmSjJwJfMAq9gVMIGblFM9XgSIODdSCl+CA5PNxnvC03IvgnkWUbgY3mxpIDWytiY32PNWUl9abXzB+55hTz+YasKXa5bjiqLZ8rKr1OXioBM36GnQ4Fs2yElkJ0T3cJ1G86E7eCppTa+Zivj+RTvaBzodKJGDK3oGziIualU/EYCanR3mj8Onn56rHNVbhh5+LaPI+97EWwleMyDwh7Ni158Qa9VvlQv3riT18fgfk9n1h4aqeILcs2nJFSB3EhFbxtJXZtSCwbcJ0HwVR76wtSNUHzcOV17mwsTDz0ibaLT4AIPsRHJ93ylvdnKZ8DD0INOw3jjEte0vPVE0O11lV3CtKRlPw09y0uOWW0DcdBQq7rvYO+/5tgY8peN5wqHWduUJz6LCIR7u3CL0tqXOoII+tkGusWtZOPv6o35+8842b2X4g==;IkFmRXuJL6JTrYRP0MTotA=="

@@ -29,6 +29,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 75
+  - title: "ASD.ai Selected for Microsoft for Startups Global Program Designed to Help Startups Quickly Scale"
+    excerpt: "ASD.ai today announced its induction into Microsoft for Startups, a global program dedicated to accelerating the trajectory of high-potential startups. ASD.ai is a leading technology firm behind the Application Rootines,"
+    publishedDateTime: 2021-07-20T12:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/asd-ai-selected-for-microsoft-for-startups-global-program-designed-to-help-startups-quickly-scale-1030625058"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://mma.prnewswire.com/media/1576947/Microsoft_for_Startups_Program.jpg"
+        width: 400
+        height: 209
+        isCached: true
 
 secured: "cfxi8j4/VgRby/ziKXZdAlAY32EUzoa8QkSDkorqfFGE92sTCthH0pfKxmJ+qcwfSl4mfYT74INn79AaxLeIsZkj3kEKx8B2sp2WdlNQn/11QoGPGv2zvlLpcyISOLu1Zs19AmNnjKIQ0ER3EyEqjZfmrmLBjbuCwBh2xV3R3YApvrShHiOXA2+HGXrkq1kOBZR79fQ91qF+nVmsZRXGCz9Du/OlZjjAauwfoYWX2uQ5pt+bGVjTIEJKIajB5+6DZZgMkWfYIWd9xT/W7KOUfpDU6KHgKeHmbZtFikoNKkYjJxn13wNjfPwLUv6T9fFjWX6yjqM6xqSyamxUsq0qNjVMdu7yYJgPgOvwCumzxCc=;Mji1MgqHCRG+x2HHXygXwQ=="
 ---

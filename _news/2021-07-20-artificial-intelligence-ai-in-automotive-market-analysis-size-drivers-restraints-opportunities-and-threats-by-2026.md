@@ -29,20 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Digital Pathology Market (2021 to 2026) - Integration of AI into Healthcare Presents Opportunities - ResearchAndMarkets.com"
-    excerpt: "The “Digital Pathology Market - Global Outlook and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global digital pathology market by revenue is expected to grow at a CAGR of over 10% during the period 2020-2026."
-    publishedDateTime: 2021-07-19T11:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-health-coronavirus-pandemic-6f4c15b659114c30bd5757b644c4e922"
+  - title: "Global Artificial Intelligence (AI) in Retail Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Retail Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial intelligence (AI) refers to machines that can mimic"
+    publishedDateTime: 2021-07-16T01:27:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4667110-global-artificial-intelligence-ai-in-retail-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 23
   - title: "Cognitive Services market Manufacturers, Research Methodology, Competitive Landscape and Business Opportunities by 2026"
     excerpt: "It sheds light on the companies that make up a large portion of the global Cognitive Services industry in terms of sales Companies considered and profiled in this market study: Microsoft, IBM, AWS, Google, Nuance Communications, Baidu, SAS, Qualcomm ..."
     publishedDateTime: 2021-07-17T00:39:00Z

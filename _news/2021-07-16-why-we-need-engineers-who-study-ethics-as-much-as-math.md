@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-07-ethics-math.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-ethics-math.amp"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: techxplore.com
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why we need engineers who study ethics as much as maths"
-    excerpt: "The Miami apartment collapse is a grim reminder of why engineering matters, and why comprehensive education in ethics should be embedded in the training of engineers."
-    publishedDateTime: 2021-07-15T19:27:00Z
-    webUrl: "https://theconversation.com/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356"
-    ampWebUrl: "https://theconversation.com/amp/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 91
-    images:
-      - url: "https://images.theconversation.com/files/404650/original/file-20210606-80132-z4b58d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
   - title: "Why we need engineers who study ethics as much as maths"
     excerpt: "The decisions engineers make, if not fully thought through, can have unintended consequences – including building failures and climate change."
     publishedDateTime: 2021-07-18T23:28:00Z

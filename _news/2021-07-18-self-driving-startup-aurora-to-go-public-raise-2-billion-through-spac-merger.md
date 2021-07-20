@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Law firm trio fuels self-driving tech startup Aurora's $13 bln SPAC deal"
-    excerpt: "Wilson Sonsini Goodrich & Rosati; Skadden, Arps, Slate, Meagher & Flom; and Sullivan & Cromwell are steering self-driving technology startup Aurora’s $13 billion merger with a blank check company backed by LinkedIn co-founder Reid Hoffman and fellow Silicon Valley veteran Mark Pincus."
-    publishedDateTime: 2021-07-15T21:02:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/law-firm-trio-fuels-self-driving-tech-startup-auroras-13-bln-spac-deal-2021-07-15/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 53
-    images:
-      - url: "https://www.reuters.com/resizer/tGcK61roRLSIaZlr2zR7_dVwzVI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DGCEYJY2RBPH7C43FK3G7NWEMY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI data security with backing from Bill Gates, Peyton Manning, is going public through a SPAC"
     excerpt: "A security company that uses artificial intelligence and advanced sensors technology to screen for threats at theme parks, sports stadiums and other large venues, is going public."
     publishedDateTime: 2021-07-19T14:51:00Z
@@ -80,6 +66,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
+  - title: "Self-driving car startup Aurora on road to going public"
+    excerpt: "Self-driving car startup Aurora on Thursday announced it is taking a side road to going public in a transaction valuing it at $13 billion. Silicon"
+    publishedDateTime: 2021-07-20T12:04:00Z
+    webUrl: "https://techhq.com/2021/07/self-driving-car-startup-aurora-on-road-to-going-public/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 24
+    images:
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/07/1400x-1.jpg"
+        width: 1400
+        height: 925
+        isCached: true
 
 secured: "3GxDuEoRQsr4u4cgjN0O/S1c/YGVGRORkL625ceysOqw1R1nYHP98tRI0i11JOMb/KlcmBKzvU0/CyQU2ky+an6nPr7Kc+nW8hh0GADoXK5FBdBnJ8bQhgrx5Dl3RJAopP5WTukQZfkVWvlyzqn1AWnOF33zIlsLUoN16ldtc0cJdHhMC0UzhX7oO1IA+K80WbjaJKGbgDTqNb/VH6a4m/Uigd7H8/zdEdURWj5VsIsZ/QP0+8s85cMTHLT79LRHFqnWIHB5pN7BGlAJ6XJS33WrzAFJ4vs/e4fXhXcmw8G6SLSXJDFd9hvlgu74UJniw0aWHV57QkQs/wtrwDQ79hrDKKJBBgFbpVVoomozlXZZqv5kgrA0w6qkL7znMCQ2gD0/ULSoLyGpKSxL8BFdEVpn1yu6idoEJjHoHzRin7KKxypaIwrn4GYk9ZmF4cQEVbI65dHx/aJhp87CnPdS+PE4NakqjtYuP6FlPeDlcDd3LxCXBCh1Qz24AkjcaiZ8zpu7ihhM0VX38nBixeKu3w==;OMilS76eIBJv8ydoby2Iwg=="
 ---

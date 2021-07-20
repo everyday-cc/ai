@@ -121,17 +121,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
-  - title: "Artificial intelligence in aviation Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence in aviation market is expected to grow at a significant CAGR in the period from 2021 to 2027 The usage of big data in the aerospace sector substantial increases in capital investments by aviation businesses and growing"
-    publishedDateTime: 2021-07-19T11:25:00Z
-    webUrl: "https://www.openpr.com/news/2331522/artificial-intelligence-in-aviation-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2331522/artificial-intelligence-in-aviation-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331522/artificial-intelligence-in-aviation-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 15
   - title: "Artificial intelligence in accounting Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Artificial intelligence in accounting market is expected to grow at a significant CAGR in the period from 2021 to 2027 The rising requirement to automate accounting operations and enable data based advising and decision making are driving the AI"
     publishedDateTime: 2021-07-19T11:37:00Z

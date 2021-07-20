@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Law firm trio fuels self-driving tech startup Aurora's $13 bln SPAC deal"
-    excerpt: "Wilson Sonsini Goodrich & Rosati; Skadden, Arps, Slate, Meagher & Flom; and Sullivan & Cromwell are steering self-driving technology startup Aurora’s $13 billion merger with a blank check company backed by LinkedIn co-founder Reid Hoffman and fellow Silicon Valley veteran Mark Pincus."
-    publishedDateTime: 2021-07-15T21:02:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/law-firm-trio-fuels-self-driving-tech-startup-auroras-13-bln-spac-deal-2021-07-15/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 53
-    images:
-      - url: "https://www.reuters.com/resizer/tGcK61roRLSIaZlr2zR7_dVwzVI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DGCEYJY2RBPH7C43FK3G7NWEMY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Company That Absorbed Uber Self-Driving Is Going Public in $11 Billion SPAC Deal"
     excerpt: "The latest to join the SPAC boom is Aurora Innovation, the Silicon Valley startup that absorbed Uber’s self-driving unit last year. Aurora announced Thursday that it will go public later this year through a reverse merger with Reinvent Technology Partners,"
     publishedDateTime: 2021-07-16T19:32:00Z
@@ -80,6 +66,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
+  - title: "Self-driving car startup Aurora on road to going public"
+    excerpt: "Self-driving car startup Aurora on Thursday announced it is taking a side road to going public in a transaction valuing it at $13 billion. Silicon"
+    publishedDateTime: 2021-07-20T12:04:00Z
+    webUrl: "https://techhq.com/2021/07/self-driving-car-startup-aurora-on-road-to-going-public/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 24
+    images:
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/07/1400x-1.jpg"
+        width: 1400
+        height: 925
+        isCached: true
 
 secured: "Y2faoePPakwIIYvbaENkG4kL0BUYONsLDzZfYQ1urz/Y3Zo7lNNDX1nxLShKylc2KEH+UPCk8WGgBBoyqkKeGZNasEWltTg61hZcYys6QE+Mmz72yZvXcb+NXne1/fbF93Nkzi8sBerd65DShu3AHBq4S27iU7qLaVl8+9FLV/BQONZBKoB2euolrIv0iRgPOPSMZxxsCJWqQpKZfphSIcInCjoRR3sOvLEEn+TkTsgLDxpwrJblN+HuEUbdLgiNmJ4/h5I27zfpiR9TpkL8H1PN12EZ41y0P85HZRUTJQxLei9hHlyD0128nL3wcaqmpm6oFHUA52E0IKny2HuZivkcl1u/I+f16sTFQaWYcv3mF8F3G/Am3gsPdSHPLIeY4c6LbgoJZDPvpuj7a9o8uhLemVAb6D3P88UUfxXTAGWtLa5mo9KmnHqBufReZBCQI9o76bpFQu4Bj8KA13kszM6chXZGXc8zBZEj7v36pjHbhx1k/HMLrUdnPGw3fbVpngckG9as0UbCUJXJSFrdWA==;NdmfcC2wGlMLpQpKxzC91g=="
 ---

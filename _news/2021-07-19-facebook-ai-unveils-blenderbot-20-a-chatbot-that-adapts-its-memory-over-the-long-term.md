@@ -55,6 +55,36 @@ related:
         width: 5390
         height: 3498
         isCached: true
+  - title: "Facebook is ditching plans to make an interface that reads the brain"
+    excerpt: "The reason for the craze around brain-computer interfaces is that companies see mind-controlled software as a huge breakthrough ... Paralyzed patients with such “implants” can deftly move robotic arms and play video games or type via mind control."
+    publishedDateTime: 2021-07-16T02:53:00Z
+    webUrl: "https://www.technologyreview.com/2021/07/14/1028447/facebook-brain-reading-interface-stops-funding/"
+    ampWebUrl: "https://www.technologyreview.com/2021/07/14/1028447/facebook-brain-reading-interface-stops-funding/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/07/14/1028447/facebook-brain-reading-interface-stops-funding/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/07/FRLR-head-mounted-BCI-research-prototype.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "Facebook – Facebook’s BlenderBot 2.0 bot surfs the web for knowledge"
+    excerpt: "Facebook detailed its work on an AI chatbot called BlenderBot 1.0, which the company claims is the largest-ever project of its kind. In an extension of that work, Facebook today took the wraps off of BlenderBot 2."
+    publishedDateTime: 2021-07-16T15:40:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/BlenderBot_Graphic_V1.png?w=800&is-pending-load=1#038;resize=800%2C450&strip=all"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Facebook’s BlenderBot 2.0 chatbot can learn and remember new things by itself"
     excerpt: "Facebook Inc.’s artificial intelligence research unit has open-sourced what it claims is the first chatbot in the world that’s capable of building a long-term memory that can be continually accessed."
     publishedDateTime: 2021-07-16T14:10:00Z

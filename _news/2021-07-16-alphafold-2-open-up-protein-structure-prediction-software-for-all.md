@@ -105,6 +105,20 @@ related:
         width: 389
         height: 389
         isCached: true
+  - title: "DeepMind Open Sources AlphaFold 2.0"
+    excerpt: "These concerns are put to rest with DeepMind’s decision to open-source AlphaFold 2.0. As per AlphaFold researcher John Jumper, the open-source version is 16 times faster and can"
+    publishedDateTime: 2021-07-20T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-open-sources-alphafold-2-0/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/alphafold.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "I0PBli9S96M3zl/IetQPk9jBt6f5HeiSlftrwNc59pKrcJwbGXd3l+zNT5TKdqP5Yr5ZmjTWGdMxkaFhKU7nXwP2c8ruiiUDiEz1BrA/u+FTdeCBEeoobEUJyIUcF0+od1nxbQP6psez2EE8/vfe4MBl5uj4EC8h3bjC10JBs8YGeBR6cYYqMK/CCNVsHWic42S1geyUwLNwQ5R3Cg0eY114ISRWemLglH7P/gFhj75iT4t9K7o0IJj/1qhVQy5avGxoKYZlhx5s+odO5/wTexn/0xFHVD9WrFRVcELD3RZBhyQDeeGu5uPpQf9RGE+s93kBq2rpQHeAO+A/EyS08C8um9V3InI93/VgEO7nyOUAdPf/hnu13Wo2fURXwNL+MMqdRp45jebIn7h3CvsAPg/jqodxHXAv36f/oOL64zSyrCGFSRBRSbzqEITbICvO+8u2HKCUPzVjIzmi4h6mDuXAjdgXSBI36mDi9scPfj7zHkOI/CuUferPImHQ8WgNgT1jzrFiTNWZpzfzKj1DNQ==;ObDlAsydpvGwbWtQpIrHOw=="
 ---

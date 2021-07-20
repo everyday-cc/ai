@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-h
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp"
 type: article
 quality: 86
-heat: 176
+heat: 156
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/telemedicine-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "AWS launches Amazon HealthLake into general availability"
-    excerpt: "“In their daily practice, doctors need a complete chronological view of patient history to identify the best course of action,“ AWS artificial intelligence and machine learning evangelist Juli ..."
-    publishedDateTime: 2021-07-15T19:20:00Z
-    webUrl: "https://siliconangle.com/2021/07/15/aws-launches-amazon-healthlake-general-availability/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/AWS.png"
-        width: 1024
-        height: 598
         isCached: true
   - title: "Amazon (AMZN) HealthLake Boosts AWS for Health Offerings"
     excerpt: "Amazon’s AMZN cloud computing platform, Amazon Web Services (AWS) recently made Amazon HealthLake — a service eligible under the Health Insurance Portability and Accountability Act of 1996 — generally available for healthcare and life sciences organizations."
@@ -138,20 +124,6 @@ related:
     images:
       - url: "https://blocksandfiles.com/wp-content/uploads/2021/07/Warfield-Hansen-Gupta.jpg"
         width: 950
-        height: 600
-        isCached: true
-  - title: "Diameter Health Selected as Amazon HealthLake Connector Partner"
-    excerpt: "Diameter Health, a fast-growing leader in health data interoperability and optimization, today announced that it has been selected by Amazon Web Services, Inc. as a Connector Partner for Amazon HealthLake,"
-    publishedDateTime: 2021-07-15T19:59:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/diameter-health-selected-as-amazon-healthlake-connector-partner"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 24
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/06/Columbus-Life_300x600_2021-06-1.jpg"
-        width: 300
         height: 600
         isCached: true
 

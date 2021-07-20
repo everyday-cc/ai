@@ -7,7 +7,7 @@ originalUrl: "https://www.bitpipe.com/detail/RES/1625746463_129.html"
 webUrl: "https://www.bitpipe.com/detail/RES/1625746463_129.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 315
     height: 408
     isCached: true
+
+related:
+  - title: "Octane AI Raises $5 Million to Help Shopify Merchants Personalize Ecommerce Experiences"
+    excerpt: "Octane AI, the pioneer zero-party data marketing platform, today announced it has raised $5 million in capital in a round led by Javelin Venture Partners, the investor behind Masterclass and Thumbtack,"
+    publishedDateTime: 2021-07-20T13:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/octane-ai-raises-5-million-to-help-shopify-merchants-personalize-ecommerce-experiences-1030625736"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://mma.prnewswire.com/media/1576970/Octane_AI_Logo.jpg"
+        width: 400
+        height: 266
+        isCached: true
 
 secured: "iGCOkVy2S5PxDuQrqFYDowfGsu2xVhlTC2e96iZleMf/0GxdPYdUzpaz2x/M5zZ2jzyX8DNKqyVri/OKgRt+RNWc3/GBWJVVSunF0tLg1JW3y+VOe1iZQb9U/6pkFUtpKsDaVh7jbEgmPoROBvjgMmMBAUb3GrFIVQlitoyOXw2eb7HVt+27Ilznr8fapLTqQNluRwYdKGzWwIZcv+3aohzMyxRppUbZf9yr0KhWo0Itn/izLjmAuBWBLAgsaYXlWLaNUmc1DVGN/XT+vAHAXyUDf+QAymXgCV426zjgbQW4bkmDBiTC2dOujU54F43pR3l0RqbQ4K5nG22/cpg+CWoA21f4fQXt7Ksr0VNfYCPhg6lTGF+IOYcghs3oYaqR4Z089LNU53uWAy+fldIEhZCewQAOkGmB/fx08i7idQiDVccKVcGsZuzGwxJJdNgngyKXZTESPzgV5pNBJIsxd+ym74PlUMJTEtsqHDaIVRSuNIj210sbeEKGIjM8zjoWwav5wdnWidckkZ28lkrYEw==;j4HK/3vgiPf+xgHl2PcWDw=="
 ---

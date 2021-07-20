@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trilogy of Data, analytics, AI is accelerating innovation across industries"
-    excerpt: "Oxford's Tom Davenport and C3 AI CEO Tom Siebel chats with ThoughtSpot's Cindi Howson on how data, analytics, and AI transformed industries."
-    publishedDateTime: 2021-07-15T20:50:00Z
-    webUrl: "https://venturebeat.com/2021/07/15/trilogy-of-data-analytics-ai-is-accelerating-innovation-across-industries/"
-    ampWebUrl: "https://venturebeat.com/2021/07/15/trilogy-of-data-analytics-ai-is-accelerating-innovation-across-industries/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/trilogy-of-data-analytics-ai-is-accelerating-innovation-across-industries/amp/"
+  - title: "AI adoption and analytics are rising, survey finds"
+    excerpt: "Businesses are accelerating their adoption of analytics, according to a new survey from Zoho-owned ManageEngine."
+    publishedDateTime: 2021-07-20T13:15:00Z
+    webUrl: "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/"
+    ampWebUrl: "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 85
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/C3AI.png?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all"
         width: 1200
-        height: 601
+        height: 600
         isCached: true
   - title: "Security & Safety Things launches smart cameras with Artificial Intelligence infused video analytics for fire and safety prevention"
     excerpt: "As global demand for produced goods continues to climb, manufacturing organisations are facing new challenges in meeting customer demand and elevated safety concerns along the supply chain due to"
@@ -77,6 +77,15 @@ related:
         width: 315
         height: 408
         isCached: true
+  - title: "Microsoft Canada recognizes Adastra as winner of the 2021 Analytics, Artificial Intelligence and Data Platform Modernization Impact Awards"
+    excerpt: "CNW/ - Adastra, a global leader in Data Management and Analytics, is proud to announce that it has won three 2021 Microsoft Canada Impact Awards: the Analytics Impact Award, Artificial Intelligence Impact Award,"
+    publishedDateTime: 2021-07-20T12:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-canada-recognizes-adastra-as-winner-of-the-2021-analytics-artificial-intelligence-and-data-platform-modernization-impact-awards-1030624806"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
 
 secured: "y1+X46GLuMdRS4eXmzd5jkM750k2eIPGY4KC/HEyA48XwO5LQyjRbuna/KW5VC0ItvDHpGU/H48tpqNAltrwcYEX0aYAHYAP2fVojkV28a2JHkJuoJP+QtQD9i9uimKAid5OIBmr4cSlzvhZrVUNW4tMv363PwxlbWSGV0CL7+m1/POGOnPSdxmp1mzJam3GoW9IRIGVHfj2O2TnQu4n4pEeYbUGHasSyVSpF/ppTdfKBRfP8ja5JC8GFInKFjBanMDl8PL9zqZBrfH+gXWduT71gosAjrlXZjvD8C04zLxh+AXn6gHaoxnr804jSO0AQHHcIl4NgTZzkIsIPbsi4PDD1ckaHgtXfMq4VmDaXlCCa32RUvIOKj1t5Y/uh2keqVbZYrvno2ApKR6Q1VlF2SjuEDKylmFHPLgWQIDrKHuHiup+R+TwPWWfYu38TTyMTagG7aGvCiKnT2IWq9aTWfXbkjC0BXBT4gW0n/anEu1zVgh3crBwDt0+732EZb8gzCU6wBT5a+iUAx9ueM4KEw==;EtZAdAy4cQS0xXLNyO1/oQ=="
 ---

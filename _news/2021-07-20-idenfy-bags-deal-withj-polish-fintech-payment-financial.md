@@ -2,9 +2,9 @@
 category: news
 title: "IDenfy bags deal withj Polish fintech Payment Financial"
 excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Payment Financial SA."
-publishedDateTime: 2021-07-20T10:53:00Z
-originalUrl: "https://www.finextra.com/pressarticle/88625/idenfy-bags-deal-withj-polish-fintech-payment-financial?ref=fintastico.com"
-webUrl: "https://www.finextra.com/pressarticle/88625/idenfy-bags-deal-withj-polish-fintech-payment-financial?ref=fintastico.com"
+publishedDateTime: 2021-07-20T11:55:00Z
+originalUrl: "https://www.finextra.com/pressarticle/88625/idenfy-bags-deal-withj-polish-fintech-payment-financial"
+webUrl: "https://www.finextra.com/pressarticle/88625/idenfy-bags-deal-withj-polish-fintech-payment-financial"
 type: article
 quality: 24
 heat: -1
@@ -129,7 +129,35 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Music Fintech Company Offers Advances Up To $1 Million To Drive Artist Empowerment And Freedom"
+    excerpt: "PRNewswire/ -- beatBread, the pioneering music fintech business, is stepping up its support of music talent through the activation of agreements that allow the company to provide financial advances of up to $1 million for an individual artist for the first time."
+    publishedDateTime: 2021-07-20T13:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-music-fintech-company-offers-advances-up-1-million-/2021/07/20/9412945.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/1574686/BEAT_BREAD.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
+    excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (“Infobird” or the “Company”),"
+    publishedDateTime: 2021-07-20T12:31:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-2fcaf5aa6c7c11c5451b9eb175c3f3ef"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "nITW+LFxSkOEPvk/uHgAwOlREprZbJ4CGRu/uBUYVRDV2z7HfQIxBh+qtJUFAwZvIoXsohOJoX5/1PAZTCbXdIS7k6iSUQsMv/uu8iapbGinVpWhiQkIY1qh7umPQXQN1Dfj6DUAJjUy8f1wVJLa70NB+AhZJu5IN7tb6FEZE5At9Do1sNLcEtki0kXmCtQdmea3/tW4O+8IpmQOYHum3Q1VGtoZLi5+GLqcEaM1MO+eDJ/Ds2n5YqcAaMF4r6dS+jA992re94QP4pvgW9Evx6dWbZTssLvG/UypiX4p1anZbIvH8WBtmUVwHpeh4Ps1QUp7ap8nLWaA8LTRq6UCvCH03r7vD5mte7qTChrjUAI=;keJztpLWiG58b1Ff0uKQ8Q=="
+secured: "lpH00cijQdRndHL9pwv9M6Ih6tlEj/cUR6Y4xR9KGiwisUANmW3ehM+WUee0L6zLOf5MavLtFwNZYMdI5wVCW/4/PSxuadQIljUUlkpYbtQzQ+YN6SJ+jyCHQxxm8ndpXdtQz/qTlTm0NtRQ/Tgu88jb20+XRfQ+9xytiilOg5Gk9eaLc7SLj3yry+GOWYE72d1gh8XdxbSP/+1sZa9CQhRZmYO81DniVpCC4lCfr/PmhiCYQhGn6aP8lNBSkUUDeEA7nYdi/ZbRUlluLc/oWaU0YHlLzLSPsjieYO7GFRmQc6m8XfZLuW4CWsBHmzHZA2U/dEMPV6MYns5FP8bE+Q1IF6vUviD263ExTXvLg9M=;/z2FO7XB8gwq2oFxx+Qing=="
 ---
 

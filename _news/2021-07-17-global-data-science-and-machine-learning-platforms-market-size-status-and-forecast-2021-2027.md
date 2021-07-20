@@ -28,6 +28,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
+  - title: "Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence for Video"
+    publishedDateTime: 2021-07-17T07:39:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4630235-global-artificial-intelligence-for-video-surveillance-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 4
 
 secured: "zyXqS+IqQdjwyGxEalgQztB7mQqEFsq8JWUFCNGj2laH4zCO15aZuFpw2FQ9vVoUoiJngpTL4zRMM3JN0Gp3B4iL8t/Hkvw4FZUEaWxXEUhzq0LwY5rWyns0AdrNjop6az9eKKeE9XTTYdRvt0bo2Ixn07yRWzF36Cmu2OqJrV8QWYQ2DEqtR5DB5brYAIsTLSxWLTMti72EPGMbAhN2uhGE+TSI9ACWtrKQDBDcp347bmg0X0EegEm8iwvw/VI8qdHCGVQ1S2A+Bb2PzGj99e5Nr1nUqKAhXKPhijcC6s2Pu34/i+QPg6GX87OX13WxWfLF1P3f55tsq+Ta9Y6fEllo/JHoUxtu1K6yT9XlspY=;NZrfPePxxJH5TzN9Ivmfxw=="
 ---

@@ -40,21 +40,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trilogy of Data, analytics, AI is accelerating innovation across industries"
-    excerpt: "Oxford's Tom Davenport and C3 AI CEO Tom Siebel chats with ThoughtSpot's Cindi Howson on how data, analytics, and AI transformed industries."
-    publishedDateTime: 2021-07-15T20:50:00Z
-    webUrl: "https://venturebeat.com/2021/07/15/trilogy-of-data-analytics-ai-is-accelerating-innovation-across-industries/"
-    ampWebUrl: "https://venturebeat.com/2021/07/15/trilogy-of-data-analytics-ai-is-accelerating-innovation-across-industries/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/trilogy-of-data-analytics-ai-is-accelerating-innovation-across-industries/amp/"
+  - title: "AI adoption and analytics are rising, survey finds"
+    excerpt: "Businesses are accelerating their adoption of analytics, according to a new survey from Zoho-owned ManageEngine."
+    publishedDateTime: 2021-07-20T13:15:00Z
+    webUrl: "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/"
+    ampWebUrl: "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 85
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/C3AI.png?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all"
         width: 1200
-        height: 601
+        height: 600
         isCached: true
   - title: "Security & Safety Things launches smart cameras with Artificial Intelligence infused video analytics for fire and safety prevention"
     excerpt: "As global demand for produced goods continues to climb, manufacturing organisations are facing new challenges in meeting customer demand and elevated safety concerns along the supply chain due to"
@@ -72,6 +72,15 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Microsoft Canada recognizes Adastra as winner of the 2021 Analytics, Artificial Intelligence and Data Platform Modernization Impact Awards"
+    excerpt: "CNW/ - Adastra, a global leader in Data Management and Analytics, is proud to announce that it has won three 2021 Microsoft Canada Impact Awards: the Analytics Impact Award, Artificial Intelligence Impact Award,"
+    publishedDateTime: 2021-07-20T12:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-canada-recognizes-adastra-as-winner-of-the-2021-analytics-artificial-intelligence-and-data-platform-modernization-impact-awards-1030624806"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
 
 secured: "9R5GKm1JlErckqNiVF+v9TyVzi8k54HzYu2Wkv+EroqYSP7t8BTjo5vqnywydTxvr0I/697e2kghg6xn6dM0y0+KY9oMmXPop0C/RvIw2sw7ANbqgn0z9k2B8S2YsvqjxcZ9LIs+MOJVfPkD0XyQMnaYCg2L33cDvXgFUO3E62g2cSHQMPIgDSJbsv+sM5NjGr93/l0QAii4KtxpT+OI4G2Df/LwKmq/fIP9xcmQl1qBcH1ktZMeWFNgHWrEHNx6VFl1s1QN1CTJmiLzcWkKN2UsBOlXFt6H5x3PUQ9qRuTey6hbTpGmU3T9ONIj7/xfWk6ZgMQwFKSY16LeWg65ItQDHEvdcIoK5VHiQ3Mhc4UgwNacwkSlakaqERjnZ0pzcTdf4WDwjO9In8EN7mRzyeBJOrjQD2UpGSOKWhvPb2QFh2+P/slKcdeFt25V0ooAvKpclLUq5WnROcRqWoZoK9Xw+QpofNwQ8E0ZFr8RK+IKczWbTyO2dltseGDzTkg2L1tOfxoyWuBcasmdyAIhNA==;zpfXcBh608D+IYm5RMiKmg=="
 ---

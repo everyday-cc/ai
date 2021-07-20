@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-fri
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -59,8 +59,8 @@ related:
         isCached: true
   - title: "IDenfy bags deal withj Polish fintech Payment Financial"
     excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Payment Financial SA."
-    publishedDateTime: 2021-07-20T10:53:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88625/idenfy-bags-deal-withj-polish-fintech-payment-financial?ref=fintastico.com"
+    publishedDateTime: 2021-07-20T11:55:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88625/idenfy-bags-deal-withj-polish-fintech-payment-financial"
     type: article
     provider:
       name: Finextra
@@ -128,6 +128,34 @@ related:
       - url: "https://thepaypers.com/images/social_media/fintech-socialmedia_LI.png"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Music Fintech Company Offers Advances Up To $1 Million To Drive Artist Empowerment And Freedom"
+    excerpt: "PRNewswire/ -- beatBread, the pioneering music fintech business, is stepping up its support of music talent through the activation of agreements that allow the company to provide financial advances of up to $1 million for an individual artist for the first time."
+    publishedDateTime: 2021-07-20T13:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-music-fintech-company-offers-advances-up-1-million-/2021/07/20/9412945.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/1574686/BEAT_BREAD.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
+    excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (“Infobird” or the “Company”),"
+    publishedDateTime: 2021-07-20T12:31:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-2fcaf5aa6c7c11c5451b9eb175c3f3ef"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "GrStSJNUnXEr4Iip9tqrEBZODJCYAKActprG/Gjb7YCA9GVFOpmSIXSmkp6ric3EK9InDmEL9ZnkcV1zbcdig9dQxksXN2DhLYKmWlhg+6CJ5UK80JO/JvASZ5PWC0DaiZqtZFmLL0We9ExlbRFtnInsxXwa2L8/aHNrhluRo3ZBI//UCn39t67lJln2g98CjUyPjyLsV5IGUMhduUEeyRI6sVr4ip29T2w57piGoBRLNb8BzmEsGmdcRFWfPShv2ayOGMgSd8Ay8ZhGXzUtXFs3XGaXbT1ESC6eI4uTx5RlGSOzuN2xzx1gS5uQes7EheZn0dqrgTlT2ENj+phCUZgR+HfpvlXph5bOwXdY2Fs=;S1RFQzf1q88TXNtyqBSBjA=="

@@ -25,29 +25,58 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Automotive Market Analysis, Size, Drivers, Restraints, Opportunities and Threats by 2026"
-    excerpt: "Rising concerns over road safety to enhance artificial intelligence (AI) in automotive market share Growing inclination towards semi-autonomous vehicles is anticipated to drive the use of artificial intelligence (AI) in automobiles."
-    publishedDateTime: 2021-07-20T08:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-analysis-size-drivers-restraints-opportunities-and-threats-by-2026-2021-07-20"
+  - title: "Artificial Intelligence in Aviation Market Size, Share and Top Firms – Intel, Micron, Boeing,"
+    excerpt: "The Artificial Intelligence in Aviation market research report assesses the global Artificial Intelligence in Aviation Market industry market and includes sales and capacity forecasts for the anticipated period 2021-2028."
+    publishedDateTime: 2021-07-20T04:39:00Z
+    webUrl: "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 126
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.grandviewresearch.com/static/img/research/asia-pacific-artificial-intelligence-market.png"
+        width: 600
+        height: 300
         isCached: true
-  - title: "Cognitive Services market Manufacturers, Research Methodology, Competitive Landscape and Business Opportunities by 2026"
-    excerpt: "It sheds light on the companies that make up a large portion of the global Cognitive Services industry in terms of sales Companies considered and profiled in this market study: Microsoft, IBM, AWS, Google, Nuance Communications, Baidu, SAS, Qualcomm ..."
-    publishedDateTime: 2021-07-17T00:39:00Z
-    webUrl: "https://ipsnews.net/business/2021/07/17/cognitive-services-market-manufacturers-research-methodology-competitive-landscape-and-business-opportunities-by-2026/"
+  - title: "Artificial Intelligence Platforms Market Size 2021 is Booming Worldwide| Google, Baidu, Ibm, Microsoft, Sap, Intel"
+    excerpt: "The report titled Global Artificial Intelligence Platforms Market Research Report provides market size and market overview for the global Artificial Intelligence Platforms market for the forecast period of 2021-2028."
+    publishedDateTime: 2021-07-19T03:12:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-platforms-market-size-2021-is-booming-worldwide-google-baidu-ibm-microsoft-sap-intel/"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 27
+  - title: "Artificial intelligence in aviation Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Artificial intelligence in aviation market is expected to grow at a significant CAGR in the period from 2021 to 2027 The usage of big data in the aerospace sector substantial increases in capital investments by aviation businesses and growing"
+    publishedDateTime: 2021-07-19T11:25:00Z
+    webUrl: "https://www.openpr.com/news/2331522/artificial-intelligence-in-aviation-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2331522/artificial-intelligence-in-aviation-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331522/artificial-intelligence-in-aviation-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 15
+  - title: "Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence has become a leading trend that affects"
+    publishedDateTime: 2021-07-17T07:38:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4657100-global-artificial-intelligence-in-fintech-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 12
+  - title: "Global Medical Imaging Artificial Intelligence Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Medical Imaging Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Medical Imaging Artificial Intelligence"
+    publishedDateTime: 2021-07-19T22:35:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4629078-global-medical-imaging-artificial-intelligence-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 8
 
 secured: "5VpA5YzCEkloKtqeC9cVzqmnjYDwxS5uga0ASJeToT5ytD82wDilQ70976xCclqzt7DJHRWDjN6+rKpRTxgUYSrJFq2GYK9JTUqhYbJL4VInTmKIVqw3Kw4n5FCKkNbkRTlw1FY5CDWqzluhRJ8KF3FJSLFS5zbO+CPJEH5z1rQLbpzJAc9DtAuAKKohE2j+pCt5n6GVZvDc4RuiatH/ip7DuIHOr1iRbRzXdU2SO6MqAkbq9jPlN3A93yH5LA11h1qvuXmFqLdmEAReV6aP2tUlFbGjKhWH9v4WvJ7r09r7o5ZHN+g/tQEAtOwSaEWtXqDx0xH/vkMNB5cJwmCRMiM8TYWtcIZF+NGVSfJUv8E=;GcyDxeMJfc8PjAvOWXi/DQ=="
 ---

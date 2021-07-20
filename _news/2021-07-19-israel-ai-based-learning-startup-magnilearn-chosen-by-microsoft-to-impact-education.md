@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/israel-ai-based-le
 webUrl: "https://markets.businessinsider.com/news/stocks/israel-ai-based-learning-startup-magnilearn-chosen-by-microsoft-to-impact-education-1030619985"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "ASD.ai Selected for Microsoft for Startups Global Program Designed to Help Startups Quickly Scale"
+    excerpt: "ASD.ai today announced its induction into Microsoft for Startups, a global program dedicated to accelerating the trajectory of high-potential startups. ASD.ai is a leading technology firm behind the Application Rootines,"
+    publishedDateTime: 2021-07-20T12:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/asd-ai-selected-for-microsoft-for-startups-global-program-designed-to-help-startups-quickly-scale-1030625058"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://mma.prnewswire.com/media/1576947/Microsoft_for_Startups_Program.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "Israel AI-Based Learning Startup MagniLearn chosen by Microsoft to impact Education"
     excerpt: "After concluding deals with public and private school networks in Israel, Korea and Japan, EdTech startup MagniLearn formed by AI"
     publishedDateTime: 2021-07-19T17:00:00Z

@@ -24,21 +24,61 @@ images:
     isCached: true
 
 related:
-  - title: "This AI chatbot will provide mental health support on WeChat"
-    excerpt: "Later, he wondered whether AI technology might be put to good use in this field ... For emergency cases, it will start the corresponding crisis-intervention measures. Among the mental-health professionals who see the benefits of Xiaotan is Tang Luhan ..."
-    publishedDateTime: 2021-07-16T07:46:00Z
-    webUrl: "https://www.iol.co.za/technology/this-ai-chatbot-will-provide-mental-health-support-on-wechat-1031c706-140b-4144-ad89-608498175a93"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/this-ai-chatbot-will-provide-mental-health-support-on-wechat-1031c706-140b-4144-ad89-608498175a93"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/this-ai-chatbot-will-provide-mental-health-support-on-wechat-1031c706-140b-4144-ad89-608498175a93"
+  - title: "How Conversational AI Can Help Digital Transformation Succeed"
+    excerpt: "One of the challenges with many of these transformations is the impact on the employees and those stuck supporting them."
+    publishedDateTime: 2021-07-20T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/how-conversational-ai-can-help-digital-transformation-succeed/"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/Picture-Unsplash?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/554de75e-4b4f-5997-9ea0-6d0137a9eebc&operation=CROP&offset=0x39&resize=750x422"
-        width: 650
-        height: 366
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f57e2d2ef27aeb72092d1c%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
+    excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
+    publishedDateTime: 2021-07-19T12:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-launches-the-sensetime-international-ai-innovation-hub-in-singapore-to-support-sea-s-digitalisation-journey-1030620106"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+    images:
+      - url: "https://mma.prnewswire.com/media/1576547/1.jpg"
+        width: 400
+        height: 233
+        isCached: true
+  - title: "How AI and automation can help clinicians practice at top-of-license"
+    excerpt: "Advisory Board’s research on top-of-license work for nurses and care teams across the past decade has consistently said the same thing: there are competing and consistently escalating demands on clinicians that make it hard to practice at top of license."
+    publishedDateTime: 2021-07-19T19:27:00Z
+    webUrl: "https://www.advisory.com/sponsored/ai-and-automation"
+    type: article
+    provider:
+      name: Advisory Board
+      domain: advisory.com
+    quality: 37
+    images:
+      - url: "https://advisory-prod.azureedge.net/-/media/project/advisoryboard/abresearch/sponsored/bright-md/brightmd1.jpg?h=321&w=603&rev=60dd1abc20bc4f289379b3d41db7b1f4&hash=9AA36588A8BA8D54368A8EE6BA37AA66"
+        width: 603
+        height: 321
+        isCached: true
+  - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
+    excerpt: "SenseTime, a leading global artificial intelligence (AI) company, yesterday launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asia to further their AI capabilities."
+    publishedDateTime: 2021-07-20T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/251071"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 16
+    images:
+      - url: "https://www.ryt9.com/img/files/20210720/iq2cedfdb440860a0cf26dc7062cc8cb3b.jpg"
+        width: 800
+        height: 493
         isCached: true
 
 secured: "ct6HaPNWxWqYyHmJ6K9Z02N+J//6HI0sxukYaPmk1uw7b32B3Yb7+rC3wFJxXeKfXopWWVyFaGE+216fg34f5IX6ekpVOwwUac1NbH3NuKTsVgf4aRUUhxx8qVNLPE6vcACGYjyMWUBjPniBEtXhPsLmQvlbchN1s+3gueYEgOR1ZIdRDM1ssMscoWBBqz4WvbWhuNLSmRTPPPHSE+O0Eo/aPayQ3tsELO+qF+GRnA7UsZfxwKvOHPmv0ZawVgwQDE1tiRBDrjBYCu8My0olOIVHR5xq5aSZNoOTEFqMF1ffxw1IOPaI5lZKMTZSRViW+30Y2cY2ySdQ592Ffzw6EUEDbTP+4STlFIFWzl6plMMPhaNy2ss4YW1j9Y8vsO5CbOSvNoQ0duNiCm+wV0uDiHGnwr0BARHsQ9Ipfx3b6mk9Uq9kkS9BaxhBhME6f9EYJckMm1nRSthYLmyv6wHVUKIacVDZipGBTsJCvF5nz2WXSzrPJOc+dAssXPoddpE1OEd/2eHkcFkcZAftWHbiuA==;iTX+Yo/VFuvawijtOf62UQ=="

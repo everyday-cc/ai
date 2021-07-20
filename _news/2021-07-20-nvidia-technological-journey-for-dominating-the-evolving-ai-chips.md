@@ -1,0 +1,60 @@
+---
+category: news
+title: "NVIDIA: Technological Journey for Dominating the Evolving AI Chips"
+excerpt: "This article describes how despite facing challenges and concerns from multiple tech giants across the world NVIDIA will keep dominating the AI chips market through advanced GPUs with Artificial Intelligence and machine learning algorithms."
+publishedDateTime: 2021-07-20T13:30:00Z
+originalUrl: "https://www.analyticsinsight.net/nvidia-technological-journey-for-dominating-the-evolving-ai-chips/"
+webUrl: "https://www.analyticsinsight.net/nvidia-technological-journey-for-dominating-the-evolving-ai-chips/"
+type: article
+quality: 56
+heat: 76
+published: true
+
+provider:
+  name: Analytics Insight
+  domain: analyticsinsight.net
+
+topics:
+  - Microsoft AI
+  - AI
+  - AI Hardware
+
+images:
+  - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/NVIDIA-and-the-battle-for-the-future-of-AI-chips.jpg"
+    width: 900
+    height: 500
+    isCached: true
+
+related:
+  - title: "NVIDIA Stock – Graphcore’s AI chips may not be as powerful as Nvidia’s GPUs, but may provide good bang for your buck • The Register"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-07-17T11:49:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidia-stock-graphcores-ai-chips-may-not-be-as-powerful-as-nvidias-gpus-but-may-provide-good-bang-for-your-buck-the-register/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/graphcore_ipu_650.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "U.S. chipmaker Nvidia to provide AI platform for Chinese EV start-ups"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-07-19T15:11:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_xpeng-nyse-xpev/u-s-chipmaker-nvidia-to-provide-ai-platform-for-chinese-ev-start-ups/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/m02d20181121t2i1327287338rLYNXNPEEAK0NTw800.jpeg"
+        width: 800
+        height: 516
+        isCached: true
+
+secured: "bIBqcTlJuaFHBLmQV2ynsGsqaICZVdR6EkKn1n2n4/eilyCxNssUmpg3inu9PPuNHZLqlZnFMv1yVNAyuDs2ebT4DsZ+GO+YhwzW3TSI6hdhFO5gS1tj/jKHVxb9idaZC8Pof6CxenWlrM1k35cBjdhOHLlcP767ijy9LuSyEmNKarjqcWCeNmvnkPoMc034D3tTeDiaAuu7GOZ91aSRKnvuKO2rUmIPkIkRmJqu7nJQ6impZY7J1TfHObanog3fxBpRf26RBcBBiEIy+eXrPT6UtvxxdQbjIjcA8nKVhMmQwquKwrp6Rtd1Oe73kmfDgnQN+62eGn+z+hHOVewj3ntlPPuTeNNTSKhXx7gwT5A=;cyO+iGnecZShpBQ0A4ajSw=="
+---
+

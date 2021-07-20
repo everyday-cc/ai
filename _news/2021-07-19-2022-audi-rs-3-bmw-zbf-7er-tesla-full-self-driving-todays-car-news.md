@@ -365,20 +365,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla Rolls Out $200 Monthly Subscription for ‘Full Self-Driving’"
-    excerpt: "Some vague language on Tesla's part means that vehicles marketed as having full Autopilot capabilities might need an additional $1,500 hardware upgrade to use FSD."
-    publishedDateTime: 2021-07-19T19:50:00Z
-    webUrl: "https://www.extremetech.com/extreme/324864-tesla-rolls-out-200-monthly-subscription-for-full-self-driving"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/01/Tesla-Model-S-2021.jpg"
-        width: 1344
-        height: 756
-        isCached: true
   - title: "Your Tesla Can Now Have Full Self-Driving for $199 a Month"
     excerpt: "Until now, the full self-driving (FSD) feature in Tesla electric vehicles could only be purchased for an extra $10,000 at the time of car purchase, but this will soon be a thing of the past. Elon Musk's company launched a subscription plan to offer this ..."
     publishedDateTime: 2021-07-20T08:22:00Z
@@ -417,20 +403,6 @@ related:
       - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Tesla’s ‘Full Self-Driving’ Beta Software Used on Public Roads Lacks Safeguards"
-    excerpt: "Tesla's new Full Self-Driving beta 9 software concerns safety advocates at Consumer Reports and elsewhere. Here's why."
-    publishedDateTime: 2021-07-19T17:31:00Z
-    webUrl: "https://www.consumerreports.org/car-safety/tesla-full-self-driving-beta-software-lacks-safeguards-a6698414036/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 35
-    images:
-      - url: "https://article.images.consumerreports.org/image/upload/v1626376718/prod/content/dam/CRO-Images-2021/Cars/07July/CR-Cars-InlineHero-Tesla-Model-Y-r-driving-7-21"
-        width: 1199
-        height: 674
         isCached: true
 
 secured: "vtKiFVgqvdPmk07mNXt9BHLIzXiuvW+0AbVTWCBIq5S96e654GZ4AUJ394J+L7ZHRpUYDCUoVsPZgT7N+6Lv5UZWFk88Crd2tA0NvDWoFTE8IWv9biORxSzWvcMJuDet5h9+vYw7z4ozX86idGVsvGEZxC7Lh8xZJeHfQxpUkrJHD+VqkMeh1MsYwqjqZid/Y/D1TStDh0qdjsS3FnyAND9p0vwlpl6f65b2cVTpQn3Epd9oIVIn3zUcIgwD2ZaWq9lV9QjJaQTXrSti60XfLCTHEoKGViLJiRYOupWP+cwKsaZesKcz1U6DK4l3pW1mnEYG/P14UJ4cOF8mQljaSyE7MH3dAWYTsgU7uxeaFPUDKwjQTl3laUo3CR4KaMv9ZW0HHHzo9ogOsb29NHCst3i/xHS0geLP3Uz0ry09QGLXUzoIkRQxgOQyCtKo8lNuaXwZnfQ8d5wcWcHkC7EcSuCaS3ot0x0GrImyEGY04Yja2ewTBIdzXrP6XA0ifH0SsxzPNR3VzfSl72SZaz1UhA==;buSwqOPOs2H9W+fNE5dQwg=="

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Products Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2027"
+    excerpt: "Jul 20, 2021 (Heraldkeepers) -- This report describes the global market size of Artificial Intelligence Products from 2016 to 2020 and its CAGR from 2016 to 2020, and also forecasts its market size to the end of 2026 and its CAGR from 2021 to 2026."
+    publishedDateTime: 2021-07-20T07:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2020-2027-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "t0JVaNHLFmbpgfc3vqEymgBAd+yILG7GG5vsDhIydWQOUPxoD48YWzDtWo6VomsW/tdf45a3O0n6a7i4HHQnGccF4KMJ9oVSDi/CYUbYezWVFtRDdc1PBY8zvUmgSXl+h3n1XmbdohDfK48n5qZE84/tKfdPT8s733TJdT6oTBZw59SOJdkF84mGp+k9U19AGXsoXXr578lthCuhyhnSp9ph4LwNRfJ0g+i/DxBGUIIkP/7kdZ5/hhaLEF0CZf4JsumqJYTszg4XkQrSI6FpL6b3eVG/wL0L5xf4woxnZaXAMDV3Ab6uiBkUHJYCHbjFqe/nydo/B/Kp28Rep3sRMoaucjhZ/Cg3Xh41O2HYDOc=;jNM55e/cWQFbwLONJN3f+Q=="
 ---

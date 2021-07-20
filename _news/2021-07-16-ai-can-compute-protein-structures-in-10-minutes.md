@@ -91,6 +91,20 @@ related:
         width: 630
         height: 418
         isCached: true
+  - title: "DeepMind Open Sources AlphaFold 2.0"
+    excerpt: "These concerns are put to rest with DeepMind’s decision to open-source AlphaFold 2.0. As per AlphaFold researcher John Jumper, the open-source version is 16 times faster and can"
+    publishedDateTime: 2021-07-20T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-open-sources-alphafold-2-0/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/alphafold.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AlphaFold 2 open up protein structure prediction software for all"
     excerpt: "Source code for AlphaFold 2, an algorithm that predicts 3D protein structure with unprecedented accuracy, is now freely available."
     publishedDateTime: 2021-07-16T14:26:00Z

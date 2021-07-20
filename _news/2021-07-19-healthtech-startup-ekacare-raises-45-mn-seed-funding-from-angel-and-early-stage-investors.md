@@ -46,6 +46,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Edtech Startup CareerNinja Raises Pre-Seed From Unitus Ventures"
+    excerpt: "CareerNinja has recently raised an undisclosed amount in pre-Seed funding from Unitus Ventures. The AI-powered edtech platform democratizes quality learning at affordable rates for anyone seeking to upskill."
+    publishedDateTime: 2021-07-20T11:53:00Z
+    webUrl: "https://www.entrepreneur.com/article/377845"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/377845"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377845"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1626782003-3.png?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Anicut Angel Fund leads seed round in deep-tech startup, EDGENeural.AI"
     excerpt: "The investment will be used to make investments in engineering, product development, and team expansion. Pune-based deep-tech startup, EDGENeural.AI has raised an undisclosed amount in seed funding from Anicut Angel Fund, the equity arm of Anicut Capital."
     publishedDateTime: 2021-07-16T07:57:00Z

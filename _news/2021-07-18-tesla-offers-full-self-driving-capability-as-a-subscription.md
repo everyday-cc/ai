@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
 type: article
 quality: 89
-heat: 369
+heat: 349
 published: true
 
 provider:
@@ -369,20 +369,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla Rolls Out $200 Monthly Subscription for ‘Full Self-Driving’"
-    excerpt: "Some vague language on Tesla's part means that vehicles marketed as having full Autopilot capabilities might need an additional $1,500 hardware upgrade to use FSD."
-    publishedDateTime: 2021-07-19T19:50:00Z
-    webUrl: "https://www.extremetech.com/extreme/324864-tesla-rolls-out-200-monthly-subscription-for-full-self-driving"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/01/Tesla-Model-S-2021.jpg"
-        width: 1344
-        height: 756
-        isCached: true
   - title: "Your Tesla Can Now Have Full Self-Driving for $199 a Month"
     excerpt: "Until now, the full self-driving (FSD) feature in Tesla electric vehicles could only be purchased for an extra $10,000 at the time of car purchase, but this will soon be a thing of the past. Elon Musk's company launched a subscription plan to offer this ..."
     publishedDateTime: 2021-07-20T08:22:00Z
@@ -421,20 +407,6 @@ related:
       - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Tesla’s ‘Full Self-Driving’ Beta Software Used on Public Roads Lacks Safeguards"
-    excerpt: "Tesla's new Full Self-Driving beta 9 software concerns safety advocates at Consumer Reports and elsewhere. Here's why."
-    publishedDateTime: 2021-07-19T17:31:00Z
-    webUrl: "https://www.consumerreports.org/car-safety/tesla-full-self-driving-beta-software-lacks-safeguards-a6698414036/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 35
-    images:
-      - url: "https://article.images.consumerreports.org/image/upload/v1626376718/prod/content/dam/CRO-Images-2021/Cars/07July/CR-Cars-InlineHero-Tesla-Model-Y-r-driving-7-21"
-        width: 1199
-        height: 674
         isCached: true
 
 secured: "43zyg/nTtWSYAucbv1oRB9F3hyTsjEiJSK1oNVSOI5rBy3U1mJ442Z+bFRSxAq3ovw7gn0cY0UsylZ8zFLu8i7u96drlWEAFnDu1Z4YLcShVWznzKuYdClhhpvUxwAjrLYK/gbbvshyyKYKi5ij+a1Kpg2chkf5a5qD9q74Bi3/w9wWLhocxanlLGauPHEkDHxD0PdPW5SCfXgoSBNnRBhYaeL52VgLRBpCFrM0nNRvoM5PAVTRkAqWAEpK89wTOBctPelQUtCBTxbOl8x6tQTY93+xdrxoEMklLtIPhYJ8fKXu0eshzHN8oXG+1XHxgEkAcDCj8kJ26wohDkACgzcA96FpPW2xhaS3l9Hmk0wA49fXRr/Q0QJJa7DVgDyVBYYpFJPh1ICPdFQoMX/IbNHNRzHIIE2bfXCLTLoHTo2+3Da+aH6RoYhJByOKdzlWML0eeYRx2yQUR03dju9XecnKeDab8Bu7fup1jRYAICCoHMSVWAfnq9TrcsoVtKZAJ4se26l7vK+C2l5n5ynXFjg==;6eZVkcq++bTx13NyQx2M0Q=="

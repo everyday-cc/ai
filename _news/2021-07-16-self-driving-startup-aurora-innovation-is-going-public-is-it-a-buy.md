@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Law firm trio fuels self-driving tech startup Aurora's $13 bln SPAC deal"
-    excerpt: "Wilson Sonsini Goodrich & Rosati; Skadden, Arps, Slate, Meagher & Flom; and Sullivan & Cromwell are steering self-driving technology startup Aurora’s $13 billion merger with a blank check company backed by LinkedIn co-founder Reid Hoffman and fellow Silicon Valley veteran Mark Pincus."
-    publishedDateTime: 2021-07-15T21:02:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/law-firm-trio-fuels-self-driving-tech-startup-auroras-13-bln-spac-deal-2021-07-15/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 53
-    images:
-      - url: "https://www.reuters.com/resizer/tGcK61roRLSIaZlr2zR7_dVwzVI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DGCEYJY2RBPH7C43FK3G7NWEMY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI data security with backing from Bill Gates, Peyton Manning, is going public through a SPAC"
     excerpt: "A security company that uses artificial intelligence and advanced sensors technology to screen for threats at theme parks, sports stadiums and other large venues, is going public."
     publishedDateTime: 2021-07-19T14:51:00Z
@@ -78,6 +64,20 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2021/07/Aurora_Semi-Profile.jpeg?quality=80&#038;strip"
         width: 6646
         height: 4430
+        isCached: true
+  - title: "Self-driving car startup Aurora on road to going public"
+    excerpt: "Self-driving car startup Aurora on Thursday announced it is taking a side road to going public in a transaction valuing it at $13 billion. Silicon"
+    publishedDateTime: 2021-07-20T12:04:00Z
+    webUrl: "https://techhq.com/2021/07/self-driving-car-startup-aurora-on-road-to-going-public/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 24
+    images:
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/07/1400x-1.jpg"
+        width: 1400
+        height: 925
         isCached: true
 
 secured: "ksIkMMMY6M4BpPEViTxg1aPkJ4vAGvKCmDrqZ+e/UzHVVZfEAWgt6FQ9NltrthQ6f529dbcFiiN8sfHR+eC9DkvYiUP4edNJVC4f/dmFaEBAkK8knPUqq5G6uZ89aM5WA3MzoOyDUbGROIMyk2aEMHpHQsrKXt0nnJHSBkc8u/3SDJoBFaxQqjj3Y9zqvvaFJBfYWLnT3z714LX1je1EhF/iPv/2ACwaprSboKFId1hjUhtp+AG2h6/PzRd6V8yk18PccwSImFjJRZN4YeNenkNvHLI8l8oQmJIlmO/zgbHUWxIUO35zH585c5xsEPDCfVn7K73stlSyVmnrR9BlqcKgXJbWJqQCQLGEkBM7k+w=;D3c8+RPXQOQz5bzhrwn0nQ=="

@@ -42,6 +42,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Edtech Startup CareerNinja Raises Pre-Seed From Unitus Ventures"
+    excerpt: "CareerNinja has recently raised an undisclosed amount in pre-Seed funding from Unitus Ventures. The AI-powered edtech platform democratizes quality learning at affordable rates for anyone seeking to upskill."
+    publishedDateTime: 2021-07-20T11:53:00Z
+    webUrl: "https://www.entrepreneur.com/article/377845"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/377845"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377845"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1626782003-3.png?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Healthtech Startup Eka.Care Raises $4.5 Mn Seed Funding From Angel And Early-stage Investors"
     excerpt: "The company intends to use these funds for hiring, product development, marketing and assisting doctors in setting up their digital clinic"
     publishedDateTime: 2021-07-19T07:16:00Z

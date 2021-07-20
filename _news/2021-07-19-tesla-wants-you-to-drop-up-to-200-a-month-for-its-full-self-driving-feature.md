@@ -379,20 +379,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla Rolls Out $200 Monthly Subscription for ‘Full Self-Driving’"
-    excerpt: "Some vague language on Tesla's part means that vehicles marketed as having full Autopilot capabilities might need an additional $1,500 hardware upgrade to use FSD."
-    publishedDateTime: 2021-07-19T19:50:00Z
-    webUrl: "https://www.extremetech.com/extreme/324864-tesla-rolls-out-200-monthly-subscription-for-full-self-driving"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/01/Tesla-Model-S-2021.jpg"
-        width: 1344
-        height: 756
-        isCached: true
   - title: "Your Tesla Can Now Have Full Self-Driving for $199 a Month"
     excerpt: "Until now, the full self-driving (FSD) feature in Tesla electric vehicles could only be purchased for an extra $10,000 at the time of car purchase, but this will soon be a thing of the past. Elon Musk's company launched a subscription plan to offer this ..."
     publishedDateTime: 2021-07-20T08:22:00Z
@@ -418,20 +404,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 37
-  - title: "Tesla’s ‘Full Self-Driving’ Beta Software Used on Public Roads Lacks Safeguards"
-    excerpt: "Tesla's new Full Self-Driving beta 9 software concerns safety advocates at Consumer Reports and elsewhere. Here's why."
-    publishedDateTime: 2021-07-19T17:31:00Z
-    webUrl: "https://www.consumerreports.org/car-safety/tesla-full-self-driving-beta-software-lacks-safeguards-a6698414036/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 35
-    images:
-      - url: "https://article.images.consumerreports.org/image/upload/v1626376718/prod/content/dam/CRO-Images-2021/Cars/07July/CR-Cars-InlineHero-Tesla-Model-Y-r-driving-7-21"
-        width: 1199
-        height: 674
-        isCached: true
 
 secured: "NUVyiEccHcd2m7yo9sZzjXn7PV7KsvFbfDJBudEgLxpSeEBC36PCvB5b1HAmgF2GMQ4C6nd/O67NLvbUIPW0aqF5eixX8PBedhZ6Q211sHNHGmA4PzPJoxnTTBKmJI6zIp+/Enf5x3AIVVeKIgSOdBc/itfwrtbn+HNJvRTywqcB0UOjF/yhczeiq+RZe0aJC6INp2Aun37U4icMMYangW5kYXsZNUh7/YZYPRcSWiXQQkxOyx3C4HjmcyCGdBFlL28oiXwG8tiRXvt0zOwQO4Xlc14qnj8FT8AO/I3+VJ036whiBGwun7ZrYpBZs/V4bXP6AFMc9sYMHpEgnA2Kc2WWolEZiKOm4ZaiESQ7UM0L2YYTkOFh7g/4lmOOGx9YM1/qM//MhY0M4LmLgZJRl7iX4CCIQ6NEpGeWmzwxcTK9O7lo8+JUGZHiS8ofjRXQEk1bFTFXzeqOgSrnsuu80CC573tv2KtKVuKzX/v649Av7Te/jSq6iEwmnz65HEZyGUVDb1Lw66qLs/ba9j+lpQ==;lr04OrSLbHTLqQ2i+uzjBg=="
 ---
