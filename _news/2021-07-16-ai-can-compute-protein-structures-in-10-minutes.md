@@ -75,22 +75,6 @@ related:
         width: 1586
         height: 1130
         isCached: true
-  - title: "New protein folding technology from UW lab rivals DeepMind, promises to accelerate research"
-    excerpt: "The findings, building on work performed by the Google-owned company DeepMind last fall, were published today in the journal Science, on the same day DeepMind released its approach in the journal ..."
-    publishedDateTime: 2021-07-16T03:04:00Z
-    webUrl: "https://www.geekwire.com/2021/new-protein-folding-technology-uw-lab-rivals-deepmind-promises-accelerate-research/"
-    ampWebUrl: "https://www.geekwire.com/2021/new-protein-folding-technology-uw-lab-rivals-deepmind-promises-accelerate-research/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/new-protein-folding-technology-uw-lab-rivals-deepmind-promises-accelerate-research/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 79
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/07/Rose-TTAFold-630x418.png"
-        width: 630
-        height: 418
-        isCached: true
   - title: "DeepMind’s AlphaFold2 Predicts Protein Structures with Atomic-Level Accuracy"
     excerpt: "The prediction of protein structures from amino acid sequence information alone, known as the \"protein folding problem,\" has been an important open research question for more than 50 years. In the fall of 2020,"
     publishedDateTime: 2021-07-20T15:08:00Z

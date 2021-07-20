@@ -43,6 +43,22 @@ related:
         width: 780
         height: 520
         isCached: true
+  - title: "Maine’s facial recognition law shows bipartisan support for protecting privacy"
+    excerpt: "The ACLU urges all Americans to ask their members of Congress to join the movement to halt facial recognition technology and support federal legislation limiting it."
+    publishedDateTime: 2021-07-20T19:14:00Z
+    webUrl: "https://techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/"
+    ampWebUrl: "https://techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 102
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1199508481.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Facial Recognition Is Watching You"
     excerpt: "The Boston-based Fight for the Future advocacy organization is trying to put pressure on private businesses to swear off any form of facial recognition."
     publishedDateTime: 2021-07-19T14:14:00Z

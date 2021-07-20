@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-21-mind-and-matter-modeling-the-human-brain-with-machine-learning.md",
+      "title": "Mind and matter: Modeling the human brain with machine learning",
+      "excerpt": "We all like to think that we know ourselves best, but given that our brain activity is largely governed by our subconscious mind, it is probably our brain that knows us better. While this is only a hypothesis,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-07-mind-human-brain-machine.html",
+      "originalUrl": "https://techxplore.com/news/2021-07-mind-human-brain-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/mind-and-matter-modeli-1.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-07-mind-human-brain-machine.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-mind-human-brain-machine.amp",
+      "publishedDateTime": "2021-07-20T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-machine-learning-models-to-help-photovoltaic-systems-find-their-place.md",
+      "title": "Machine learning models to help photovoltaic systems find their place",
+      "excerpt": "With the looming threat of climate change, it is high time we embrace renewable energy sources on a larger scale. Photovoltaic systems, which generate electricity from the nearly limitless supply of sunlight energy,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-07-machine-photovoltaic.html",
+      "originalUrl": "https://techxplore.com/news/2021-07-machine-photovoltaic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/photovoltaic.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-07-machine-photovoltaic.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-machine-photovoltaic.amp",
+      "publishedDateTime": "2021-07-20T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-our-ai-headline-experiment-continues-did-we-break-the-machine.md",
       "title": "Our AI headline experiment continues: Did we break the machine?",
       "excerpt": "Is Our Machine Learning? Our AI headline experiment continues: Did we break the machine? Feeding the machine: We give an AI some headlines and see what it does; Is our machine lea",
@@ -63,7 +149,7 @@
       "originalUrl": "https://starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -256,7 +342,7 @@
       "originalUrl": "https://techbooky.com/ai-that-can-imagine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -914,6 +1000,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-15-deep-learning-market-top-company-analysis-research-report-analysis-and-share-by-forecast-2027.md",
+      "title": "Deep Learning Market Top Company Analysis, Research Report Analysis and Share by Forecast 2027",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 15, 2021 (Market Insight Reports) -- Selbyville, Delaware, The Global Deep Learning Market 2021 Research Report investigates the industry thoroughly and offers a complete ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-top-company-analysis-research-report-analysis-and-share-by-forecast-2027-2021-07-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-top-company-analysis-research-report-analysis-and-share-by-forecast-2027-2021-07-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit.md",
       "title": "IBM unveils first machine-learning end-to-end pipeline starter kit",
       "excerpt": "IBM is announcing a new addition to its open source Cloud-Native Toolkit that will allow developers to integrate their AI and ML applications \"to cloud-native environments and optimize scalable, reliable deployments.",
@@ -1312,146 +1450,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI could be the 21st century's biggest new industry. Long a focal point of science fiction, AI is no longer a curious theme to ponder for the distant future — it's here.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
-      "originalUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
-      "publishedDateTime": "2021-07-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "AI Hardware",
-        "Natural Language Processing",
-        "IBM AI",
-        "Facebook AI",
-        "Microsoft AI",
-        "AI in Robotics",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-how-google-used-machine-learning-to-dramatically-improve-chip-design.md",
-      "title": "How Google used machine learning to dramatically improve chip design",
-      "excerpt": "Commentary: To get the most out of machine learning, it pays to avoid overthinking AI. Find out how Google engineers' were able to make a ML process take less than six hours instead of weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
-      "originalUrl": "https://www.techrepublic.com/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/05/04/1ad0d474-bc24-4ef6-9f53-f1cf74fc2ae5/resize/1200x/0cf885e0a0ea9596a3cec44394fc14f7/ai.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
-      "publishedDateTime": "2021-07-12T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-machine-learning-in-identity-and-access-management.md",
-      "title": "Machine Learning in Identity and Access Management",
-      "excerpt": "Due to the challenges of identifying rapidly evolving threats, cybersecurity has come to rely on artificial intelligence and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://cloudsecurityalliance.org/articles/machine-learning-in-identity-and-access-management/",
-      "originalUrl": "https://cloudsecurityalliance.org/articles/machine-learning-in-identity-and-access-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudsecurityalliance.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjRTIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9f263b659c87472eac3e8132435d7b02d6033918/Machine-Learning-in-Identity-and-Access-Management.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Security Alliance",
-        "domain": "cloudsecurityalliance.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]

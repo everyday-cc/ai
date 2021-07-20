@@ -57,20 +57,15 @@ related:
         width: 6646
         height: 4430
         isCached: true
-  - title: "Self-driving car startup Aurora on road to going public"
-    excerpt: "Self-driving car startup Aurora on Thursday announced it is taking a side road to going public in a transaction valuing it at $13 billion. Silicon"
-    publishedDateTime: 2021-07-20T12:04:00Z
-    webUrl: "https://techhq.com/2021/07/self-driving-car-startup-aurora-on-road-to-going-public/"
+  - title: "Valued at $13 billion! The world's most expensive self-driving company is about to go public and lose money for another six years."
+    excerpt: "After the self-driving truck company Tucson went to Nasdaq, another self-driving company is looking for IPO--Aurora, a company founded by Chris Urmson (Chris Urmson), Google's former chief technology officer of self-driving cars,"
+    publishedDateTime: 2021-07-19T01:59:00Z
+    webUrl: "https://news.metal.com/newscontent/101536368/Valued-at-13-billion-The-worlds-most-expensive-self-driving-company-is-about-to-go-public-and-lose-money-for-another-six-years/"
     type: article
     provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 24
-    images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/07/1400x-1.jpg"
-        width: 1400
-        height: 925
-        isCached: true
+      name: Metal
+      domain: metal.com
+    quality: 0
 
 secured: "3GxDuEoRQsr4u4cgjN0O/S1c/YGVGRORkL625ceysOqw1R1nYHP98tRI0i11JOMb/KlcmBKzvU0/CyQU2ky+an6nPr7Kc+nW8hh0GADoXK5FBdBnJ8bQhgrx5Dl3RJAopP5WTukQZfkVWvlyzqn1AWnOF33zIlsLUoN16ldtc0cJdHhMC0UzhX7oO1IA+K80WbjaJKGbgDTqNb/VH6a4m/Uigd7H8/zdEdURWj5VsIsZ/QP0+8s85cMTHLT79LRHFqnWIHB5pN7BGlAJ6XJS33WrzAFJ4vs/e4fXhXcmw8G6SLSXJDFd9hvlgu74UJniw0aWHV57QkQs/wtrwDQ79hrDKKJBBgFbpVVoomozlXZZqv5kgrA0w6qkL7znMCQ2gD0/ULSoLyGpKSxL8BFdEVpn1yu6idoEJjHoHzRin7KKxypaIwrn4GYk9ZmF4cQEVbI65dHx/aJhp87CnPdS+PE4NakqjtYuP6FlPeDlcDd3LxCXBCh1Qz24AkjcaiZ8zpu7ihhM0VX38nBixeKu3w==;OMilS76eIBJv8ydoby2Iwg=="
 ---

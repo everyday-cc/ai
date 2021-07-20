@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/07/19/5824a4aa-1d90-417d-bbae-4f336143e4b4/deepmind-alphafold-2-invariant-point-attention-module.jpg"
         width: 1586
         height: 1130
-        isCached: true
-  - title: "New protein folding technology from UW lab rivals DeepMind, promises to accelerate research"
-    excerpt: "The findings, building on work performed by the Google-owned company DeepMind last fall, were published today in the journal Science, on the same day DeepMind released its approach in the journal ..."
-    publishedDateTime: 2021-07-16T03:04:00Z
-    webUrl: "https://www.geekwire.com/2021/new-protein-folding-technology-uw-lab-rivals-deepmind-promises-accelerate-research/"
-    ampWebUrl: "https://www.geekwire.com/2021/new-protein-folding-technology-uw-lab-rivals-deepmind-promises-accelerate-research/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/new-protein-folding-technology-uw-lab-rivals-deepmind-promises-accelerate-research/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 79
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/07/Rose-TTAFold-630x418.png"
-        width: 630
-        height: 418
         isCached: true
   - title: "AI Can Compute Protein Structures in 10 Minutes"
     excerpt: "Scientists have waited months for access to high-accuracy protein structure prediction since DeepMind presented remarkable progress in this area at the 2020 Critical Assessment of Structure Prediction, or CASP14, conference. The wait is now over."

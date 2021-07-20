@@ -43,20 +43,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Veritas Announces Support for AWS for Health Initiative"
-    excerpt: "Veritas Technologies, a global leader in enterprise data protection, today announced support for the AWS for Health initiative from Amazon Web Services (AWS) to accelerate cloud adoption within healthcare."
-    publishedDateTime: 2021-07-16T01:38:00Z
-    webUrl: "https://www.lelezard.com/en/news-19905290.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "ecOSQ4A7Y8lknjF/ssZv0g219eUUsfRA0x+viMdtujpMlKkFNnZsI8v67n4An0IXvjLATkFrXZ1cE/uFAUdOG0Ak+x3UA/PyTfZrh5fEZKYXCyEVrXYjJ6XEEDubx95EKFgZ9s7iJvoWtAjOGPhuJ1Xvwo5hcq/gEb6WeJmsN297VMjpQPjnrW2ECaQbwsbv9WceCp6ux6ZOJ0FLkLFCRQd/1fu7fgIXpwzPFbFnGiluV7InVRXqzBriQe7zvwZs+To9r/Q/ftNzfUKLTbiHKHEbRNpwV0E2qLw1Jbq24gLc848mT0/xaiTbK38MuhM5U2Qt3K7chX3bldOHLpmn7/d+u/vgkS+JQtyp2Lk5Atw=;j0TsAxBFPoFcC9NhgD57/w=="
 ---

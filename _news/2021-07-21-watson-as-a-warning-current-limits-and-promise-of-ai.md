@@ -8,8 +8,8 @@ webUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-
 ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - IBM AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"

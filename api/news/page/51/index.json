@@ -2,6 +2,386 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-06-13-mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired.md",
+      "title": "Mojo Vision’s Smart Contact Lens Could Be Transformative For Sight Impaired",
+      "excerpt": "Mojo Vision, a California-based startup, is developing an electronic contact lens that can digitally enhance what the wearer sees. The company intends for Mojo Lens’ initial application to be as an assistive device to help people with sight impairments see the world in an entirely new way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/",
+      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c52a1420ff18bf417d3713%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/amp/",
+      "publishedDateTime": "2021-06-13T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-neural-network-keeps-it-light.md",
+      "title": "Neural Network Keeps It Light",
+      "excerpt": "As the jobs we ask of neural networks get more complex, the networks require more artificial neurons. That’s why researchers are pursuing dense integrated neuron chips that could do for neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2016/11/24/neural-network-keeps-it-light/",
+      "originalUrl": "https://hackaday.com/2016/11/24/neural-network-keeps-it-light/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2016/11/nn.png",
+          "width": 800,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-paraplegic-performs-world-cups-ceremonial-first-kick-in-mind-controlled-robotic-suit.md",
+      "title": "Paraplegic Performs World Cup's Ceremonial First Kick in Mind-Controlled Robotic Suit",
+      "excerpt": "Juliano Pinto, a 29-year old paraplegic, kicked the official game ball a short distance with the help of a robotic exoskeleton that he controlled with just his mind. The mind-controlled robotic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2014/06/paraplegic-performs-world-cups-ceremonial-first-kick-in-mind-controlled-robotic-suit.html",
+      "originalUrl": "https://www.medgadget.com/2014/06/paraplegic-performs-world-cups-ceremonial-first-kick-in-mind-controlled-robotic-suit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-what-waabis-launch-means-for-the-self-driving-car-industry.md",
+      "title": "What Waabi’s launch means for the self-driving car industry",
+      "excerpt": "Waabi claims its next-generation self-driving technology can scale autonomous driving technology research and make it commercially viable.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/",
+      "originalUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1291353648.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/",
+      "publishedDateTime": "2021-06-12T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out.md",
+      "title": "AI-based loan apps are booming in India, but some borrowers miss out",
+      "excerpt": "Mobile lending apps have mushroomed in India, but critics claim these apps misuse customer data and discriminate against marginalized groups.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out/",
+      "originalUrl": "https://venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/taxes-e1623311969949.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out/amp/",
+      "publishedDateTime": "2021-06-12T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.md",
+      "title": "Google team uses AI to create next-gen chips faster than humans",
+      "excerpt": "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/06/12/1081754-ai.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520",
+      "publishedDateTime": "2021-06-12T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-heres-how-ai-can-determine-the-taste-of-coffee-beans.md",
+      "title": "Here’s How AI Can Determine The Taste Of Coffee Beans",
+      "excerpt": "This Colombian startup is using artificial intelligence to taste coffee and gives producers, farmers and roasters new insight into how to grow, harvest and optimize flavor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c3e7e24db754e75e88acec%2F0x0.jpg",
+          "width": 1199,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/amp/",
+      "publishedDateTime": "2021-06-12T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-06-12-how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand.md",
+      "title": "How stakeholder capitalism and AI ethics go hand in hand",
+      "excerpt": "With the prevalence of AI technologies across businesses, AI ethics will soon become critical components of stakeholder capitalism.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/",
+      "originalUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1257913820.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/amp/",
+      "publishedDateTime": "2021-06-12T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-google-team-creates-next-gen-chips-using-ai.md",
       "title": "Google team creates next-gen chips using AI",
       "excerpt": "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial",
@@ -842,371 +1222,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word.md",
-      "title": "Facebook’s AI can copy the style of text in photos from a single word",
-      "excerpt": "Facebook's TextStyleBrush is an AI system that can replicate the style of fonts and handwriting to replace arbitrary text in images.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/",
-      "publishedDateTime": "2021-06-11T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-how-to-use-voila-app-that-has-gone-viral.md",
-      "title": "How to use Voila app that has gone viral",
-      "excerpt": "Voila is an app that uses artificial intelligence to turn your photo into ... MOUNTAIN VIEW, Calif. (AP) — Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent ...",
-      "sourceUrl": null,
-      "webUrl": "https://kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/",
-      "originalUrl": "https://kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kdvr.com/wp-content/uploads/sites/11/2021/06/Untitled-design-2.png?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/amp/",
-      "cdnAmpWebUrl": "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/amp/",
-      "publishedDateTime": "2021-06-11T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX31 Denver",
-        "domain": "kdvr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-us-creates-ai-data-sharing-task-force.md",
-      "title": "US creates AI data-sharing task force",
-      "excerpt": "The Biden administration has created a task force to promote access to data and other resources to boost artificial intelligence (AI) research. The National Artificial Intelligence Research Resource Task Force involves the White House and the National Science Foundation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359856/us-creates-ai-data-sharing-task-force",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359856/us-creates-ai-data-sharing-task-force",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570813981/itpro/digital_brain_artificial_intelligence.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359856/us-creates-ai-data-sharing-task-force?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359856/us-creates-ai-data-sharing-task-force?amp",
-      "publishedDateTime": "2021-06-11T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-accelerating-deep-learning-on-the-jvm-with-apache-spark-and-nvidia-gpus.md",
-      "title": "Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs",
-      "excerpt": "Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs In this article, authors discuss how to use the combination of Deep Java Learning (DJL), Apache Spark v3, and NVIDIA GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/",
-      "originalUrl": "https://www.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/en/headerimage/header+%2816%29-1623166971929.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas.md",
-      "title": "Waymo Self-Driving Trucks Will Soon Start Moving Freight Across Texas",
-      "excerpt": "The first route they’ll drive is between Houston and Fort Worth, which Waymo claims is one of the most highly utilized freight corridors in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/",
-      "originalUrl": "https://singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/06/waymo2.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/amp/",
-      "publishedDateTime": "2021-06-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-ai-in-healthcare-market.md",
-      "title": "AI in healthcare Market",
-      "excerpt": "The AI in healthcare market was valued at 4 836 87million in 2019 and is projected to reach 99 491 58 million by 2027 registering a CAGR of 42 8 from 2021 to 2028 Artificial intelligence AI can be defined",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2303440/ai-in-healthcare-market-to-witness-growth-acceleration-during",
-      "originalUrl": "https://www.openpr.com/news/2303440/ai-in-healthcare-market-to-witness-growth-acceleration-during",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U611608466_g.jpg",
-          "width": 626,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2303440/ai-in-healthcare-market-to-witness-growth-acceleration-during",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303440/ai-in-healthcare-market-to-witness-growth-acceleration-during",
-      "publishedDateTime": "2021-06-11T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-ai-in-computer-vision-market-worth-513-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
-      "title": "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial),",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-computer-vision-market-worth-51-3-billion-by-2026---exclusive-report/article_3185609b-6df4-567d-87c5-2ffd628994ef.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-computer-vision-market-worth-51-3-billion-by-2026---exclusive-report/article_3185609b-6df4-567d-87c5-2ffd628994ef.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229",
-          "width": 669,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-german-bundestag-passes-new-law-on-supply-chain-ethics.md",
-      "title": "German Bundestag passes new law on supply chain ethics",
-      "excerpt": "The law will require German companies to report human rights or environmental abuses by suppliers. Supporters say it is a milestone, rights groups say it falls short.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
-      "originalUrl": "https://www.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dw.com/static/stills/images/vdt/2021/beng210611_005_qwilieferweb_01g.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
-      "cdnAmpWebUrl": "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
-      "publishedDateTime": "2021-06-11T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deutsche Welle",
-        "domain": "dw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

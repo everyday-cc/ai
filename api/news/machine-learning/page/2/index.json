@@ -2,6 +2,146 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-12-artificial-intelligence-stocks-the-10-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
+      "excerpt": "AI could be the 21st century's biggest new industry. Long a focal point of science fiction, AI is no longer a curious theme to ponder for the distant future — it's here.",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
+      "originalUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
+      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
+      "publishedDateTime": "2021-07-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare",
+        "AI Hardware",
+        "Natural Language Processing",
+        "IBM AI",
+        "Facebook AI",
+        "Microsoft AI",
+        "AI in Robotics",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-how-google-used-machine-learning-to-dramatically-improve-chip-design.md",
+      "title": "How Google used machine learning to dramatically improve chip design",
+      "excerpt": "Commentary: To get the most out of machine learning, it pays to avoid overthinking AI. Find out how Google engineers' were able to make a ML process take less than six hours instead of weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
+      "originalUrl": "https://www.techrepublic.com/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/05/04/1ad0d474-bc24-4ef6-9f53-f1cf74fc2ae5/resize/1200x/0cf885e0a0ea9596a3cec44394fc14f7/ai.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
+      "publishedDateTime": "2021-07-12T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-machine-learning-in-identity-and-access-management.md",
+      "title": "Machine Learning in Identity and Access Management",
+      "excerpt": "Due to the challenges of identifying rapidly evolving threats, cybersecurity has come to rely on artificial intelligence and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://cloudsecurityalliance.org/articles/machine-learning-in-identity-and-access-management/",
+      "originalUrl": "https://cloudsecurityalliance.org/articles/machine-learning-in-identity-and-access-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudsecurityalliance.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjRTIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9f263b659c87472eac3e8132435d7b02d6033918/Machine-Learning-in-Identity-and-Access-Management.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T17:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Security Alliance",
+        "domain": "cloudsecurityalliance.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-dynamic-ab-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects.md",
       "title": "Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects",
       "excerpt": "In this post, you learn how to create a MLOps project to automate the deployment of an Amazon SageMaker endpoint with multiple production variants for A/B testing. You also deploy a general purpose API and testing infrastructure that includes a multi-armed bandit experiment framework. This testing infrastructure",
@@ -1300,127 +1440,6 @@
         "AI in Healthcare",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-alluxio-brings-substantial-performance-and-ease-of-use-improvements-to-gpu-centric-aiml-workloads-with-v26-release.md",
-      "title": "Alluxio Brings Substantial Performance and Ease of Use Improvements to GPU-Centric AI/ML Workloads with v2.6 Release",
-      "excerpt": "This new release features an enhanced system architecture enabling AI/ML platform teams using GPUs to accelerate their data pipelines for business intelligence, applied machine learning and model training.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/01/9401759.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/01/9401759.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-enhance-your-career-prospects-with-artificial-intelligence-courses.md",
-      "title": "Enhance your career prospects with Artificial Intelligence courses",
-      "excerpt": "Artificial intelligence is considered to be one of the most disruptive and successful technologies that exists today. Its potential to continuously evolve and enable innovations is now being leveraged by a spectrum of industries across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/jobs & careers/enhance-your-career-prospects-with-artificial-intelligence-courses-276759",
-      "originalUrl": "https://www.tribuneindia.com/news/jobs & careers/enhance-your-career-prospects-with-artificial-intelligence-courses-276759",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/2021_7$largeimg_883535778.jpg",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-jevois-pro-deep-learning-open-source-ai-camera.md",
-      "title": "JeVois-Pro deep learning open source AI camera",
-      "excerpt": "If you are interested in learning more about deep learning a new open source smart camera has been launched via Kickstarter called the JeVois-Pro. The artificial intelligent camera runs powerful ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/deep-learning-camera-01-07-2021/",
-      "originalUrl": "https://www.geeky-gadgets.com/deep-learning-camera-01-07-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/07/JeVois-Pro-deep-learning-smart-camera.jpg",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

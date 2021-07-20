@@ -418,6 +418,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Tesla's 'Full Self-Driving' software lacks safeguards, Consumer Reports says"
+    excerpt: "Consumer Reports said Tuesday that Tesla Inc.'s \"Full Self-Driving\" software lacks safeguards and raised concerns the system's use on public roads puts the public at risk, citing reports from drivers."
+    publishedDateTime: 2021-07-20T17:40:00Z
+    webUrl: "https://www.autonews.com/automakers-suppliers/teslas-full-self-driving-software-lacks-safeguards-consumer-reports-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/autopilot-logo.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "YKNHKBbRz9OWqfGd1ajG06BBpFNbwF/fvx4NNiJfuAYPkYWwrNFbbVfI0BwcGKoqQAuHITbFKlx/J3IJzytzF5j1EBdHo0Mbz7zda7lgcrJ/AYgTDHWkA2PXqPzShG/rbuWia0yopYSiMpsdun+Cf9+ut+C++Qk9QD17R5MygHvSxtCPZe4Mzl/5wCjcML+rAdcpRnnt1/NyXwz1acazLFVFkypGj9Tc3EpFosPNhQtLSLKd15oLqBAYU/VvWqVGLE8SZYsbknfO/VZDyMipC/SbN5ALbkzUJq8dFD9jnAWYEPGnp0MUiKlhwTcE6pSAGxXAMpG9V3hJryreZJ8uVq/XVd+D7yfnt0Y5237mxKGkC8/C4MqoNY/2/hj9M4mKW2q/NzTc4YyiYXQd7+h9WSDSpvv4dqLFcRlTrRKPKV9wk1hPz/Gi8rRNvQrlj14E6ncFMrmbq/o9i+HdJ68ifEzUd7ICuh9HfTY8jXRRb6o5xUWBpPEh2XbvPqsARD8TsyjR+Znwe4PdV0NeRzvbUA==;3vaPH43qM5MCz33Xr694Ww=="
 ---

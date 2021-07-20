@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-20-use-contextual-information-and-third-party-data-to-improve-your-recommendations.md",
+      "title": "Use contextual information and third party data to improve your recommendations",
+      "excerpt": "Have you noticed that your shopping preferences are influenced by the weather? For example, on hot days would you rather drink a lemonade vs. a hot coffee? Customers from consumer-packaged goods (CPG) and retail industries wanted to better understand how weather conditions like temperature and rain can",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-contextual-information-and-third-party-data-to-improve-your-recommendations/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-contextual-information-and-third-party-data-to-improve-your-recommendations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML-2080-image02.jpg",
+          "width": 443,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T12:17:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-our-ai-headline-experiment-continues-did-we-break-the-machine.md",
       "title": "Our AI headline experiment continues: Did we break the machine?",
       "excerpt": "Is Our Machine Learning? Our AI headline experiment continues: Did we break the machine? Feeding the machine: We give an AI some headlines and see what it does; Is our machine lea",
@@ -150,58 +202,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-unlock-information-in-unstructured-text-to-personalize-product-and-content-recommendations-with-amazon-personalize.md",
-      "title": "Unlock information in unstructured text to personalize product and content recommendations with Amazon Personalize",
-      "excerpt": "Amazon Personalize now enables you to tap into the information trapped in product descriptions, product reviews, movie synopses, or other unstructured text and use it when generating personalized recommendations. Product descriptions provide important information about the features and benefits of products.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-information-in-unstructured-text-to-personalize-product-and-content-recommendations-with-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-information-in-unstructured-text-to-personalize-product-and-content-recommendations-with-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T11:43:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -395,49 +395,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-dotmatics-announces-support-for-aws-for-health-initiative.md",
-      "title": "Dotmatics Announces Support for AWS for Health Initiative",
-      "excerpt": "Dotmatics announced support for the AWS to improve laboratory efficiency and accelerate the pace of scientific innovation by facilitating faster data access.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210716/Dotmatics-Announces-Support-for-AWS-for-Health-Initiative.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210716/Dotmatics-Announces-Support-for-AWS-for-Health-Initiative.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/4/By_Phonlamai_Photo_034cc2a48c3c4bd2a57e29e397b7210a-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210716/Dotmatics-Announces-Support-for-AWS-for-Health-Initiative.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210716/Dotmatics-Announces-Support-for-AWS-for-Health-Initiative.aspx",
-      "publishedDateTime": "2021-07-16T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -1405,6 +1362,58 @@
         "name": "Breaking Defense",
         "domain": "breakingdefense.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-ai-tracks-lawmakers-using-their-phones-on-the-job-so-we-can-properly-mock-them.md",
+      "title": "AI Tracks Lawmakers Using Their Phones on the Job so We Can Properly Mock Them",
+      "excerpt": "Politicians are hereby busted for using their cell phones during sessions, thanks to software written by Belgium artist Dries Depoorter. His artificial intelligence program “The Flemish Scrollers” reviews YouTube live streams of Flemish government meetings and identifies who’s on their phone along with their face and Twitter handle.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-tracks-lawmakers-using-their-phones-on-the-job-so-we-1847235130",
+      "originalUrl": "https://gizmodo.com/ai-tracks-lawmakers-using-their-phones-on-the-job-so-we-1847235130",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6a319083ea92977e2cb22298a763bc13.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

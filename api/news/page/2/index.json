@@ -2,6 +2,212 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-20-edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist.md",
+      "title": "Edge AI’s benefits bring ‘much higher’ security risks, says McAfee data scientist",
+      "excerpt": "Weighing the pros and cons of edge AI and the cloud can be difficult, McAfee's chief data scientist explained at Transform 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/",
+      "originalUrl": "https://venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/mcafee.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/amp/",
+      "publishedDateTime": "2021-07-19T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-threat-modeling-can-protect-data-used-by-ai-assistants.md",
+      "title": "Threat modeling can protect data used by AI assistants",
+      "excerpt": "Gusto's Jamie Tomasello explains how threat modeling can help protect AI assistants' data in an interview at Transform 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/",
+      "originalUrl": "https://venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/gusto.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/amp/",
+      "publishedDateTime": "2021-07-19T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-new-toolkit-aims-to-help-teams-create-responsible-human-ai-experiences.md",
+      "title": "New toolkit aims to help teams create responsible human-AI experiences",
+      "excerpt": "The post New toolkit aims to help teams create responsible human-AI experiences appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai-for-business/hax-toolkit/",
+      "originalUrl": "https://blogs.microsoft.com/ai-for-business/hax-toolkit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/171/2021/07/HAX_MSC21_PICHA_remoteWorkplace_82783-1-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T09:11:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live.md",
+      "title": "Hear Startup Alley companies pitch expert VC judges in upcoming episodes of Extra Crunch Live",
+      "excerpt": "We know how much you love a good startup pitch-off. Who doesn’t? It combines the thrill of live, high-stakes entertainment with learning about the hottest new thing. Plus, you get to hear feedback from some of the smartest folks in the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/",
+      "originalUrl": "https://techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/ECL-2021-july-21-startup-alley-1.jpg?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/amp/",
+      "publishedDateTime": "2021-07-19T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions.md",
       "title": "When AI Self-Driving Cars Sue Due To Dangerous Roadway Conditions",
       "excerpt": "When the roadway has a dangerous condition due to governmental neglect and there are untoward results, maybe AI self-driving cars will aid in lawsuits. Here's how.",
@@ -313,7 +519,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/19/volleys-magic-word-is-a-voice-based-puzzle-game-on-google-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -660,7 +866,7 @@
       "originalUrl": "https://techbooky.com/ai-that-can-imagine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1028,195 +1234,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous.md",
-      "title": "Edge Impulse Combines AutoML And TinyML To Make AI Ubiquitous",
-      "excerpt": "Edge Impulse has partnered with silicon companies and DIY electronic kit developers to accelerate building AI models for microcontrollers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f511be8b024b0aecbdea50%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/amp/",
-      "publishedDateTime": "2021-07-18T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-latest-nsw-health-covid-exposure-sites-full-list-and-map-of-sydney-hotspots-and-coronavirus-case-locations.md",
-      "title": "Latest NSW Health Covid exposure sites: full list and map of Sydney hotspots and coronavirus case locations",
-      "excerpt": "Here are the current coronavirus hotspots and Covid-19 public exposure sites in Sydney and regional New South Wales, and what to do if you’ve visited them. Our analysis and map shows where Covid cases are increasing,",
-      "sourceUrl": null,
-      "webUrl": "https://spectrum.ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong",
-      "originalUrl": "https://www.theguardian.com/australia-news/2021/jul/19/covid-19-list-nsw-public-health-exposure-sites-map-hotspots-latest-sydney-suburbs-venues-flights-case-location-alerts-regional-coronavirus-cases-outbreak-locations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-18T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m.md",
-      "title": "Duke Energy used computer vision and robots to cut costs by $74M",
-      "excerpt": "Duke Energy’s AI journey began because the utility company had a business problem to solve, Duke Energy chief information officer Bonnie Titone told VentureBeat’s head of AI content strategy Hari Sivaraman at the Transform 2021 virtual conference on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/",
-      "originalUrl": "https://venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/duke.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/amp/",
-      "publishedDateTime": "2021-07-18T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-president-bidens-recent-executive-order-on-promoting-competition-in-the-american-economy-highlights-the-healthcare-sector.md",
-      "title": "President Biden’s Recent Executive Order on Promoting Competition in the American Economy Highlights the Healthcare Sector",
-      "excerpt": "President Biden issued an “Executive Order on Promoting Competition in the American Economy,” (the “Order”) which aims to drive down prices for consumers, incr",
-      "sourceUrl": null,
-      "webUrl": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/",
-      "originalUrl": "https://www.natlawreview.com/article/president-biden-s-recent-executive-order-promoting-competition-american-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share-1100x740.png",
-          "width": 1100,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-18T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

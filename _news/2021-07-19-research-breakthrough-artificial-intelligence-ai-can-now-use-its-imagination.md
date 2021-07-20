@@ -9,7 +9,7 @@ ampWebUrl: "https://techbooky.com/ai-that-can-imagine/?amp=1"
 cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/ai-that-can-imagine/?amp=1"
 type: article
 quality: 70
-heat: 91
+heat: 90
 published: true
 
 provider:

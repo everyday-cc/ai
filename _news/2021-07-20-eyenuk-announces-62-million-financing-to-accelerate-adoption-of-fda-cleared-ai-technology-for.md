@@ -56,6 +56,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Intel co-leads $125M funding round for AI inference chip startup Untether AI"
+    excerpt: "Intel Corp.’s venture capital arm has co-led a $125 million funding round for chip startup Untether AI Inc., whose artificial intelligence processor uses an emerging approach dubbed at-memory computation to run machine learning algorithms."
+    publishedDateTime: 2021-07-20T18:01:00Z
+    webUrl: "https://siliconangle.com/2021/07/20/intel-co-leads-125m-funding-round-ai-inference-chip-startup-untether-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/image2.png"
+        width: 667
+        height: 462
+        isCached: true
   - title: "Toronto AI chip startup Untether gets backing from Intel and CPP Investment Board"
     excerpt: "U.S. ($159-million Canadian) investment in Untether AI Corp., a Toronto-based startup that develops high-performance chips for artificial intelligence programs. Canada Pension Plan Investment Board, Canada’s largest pension fund,"
     publishedDateTime: 2021-07-20T16:46:00Z
@@ -69,6 +83,20 @@ related:
       - url: "https://images.thestar.com/mHTO2t2r0_YS2tNTJrPGgvJ4BL0=/1200x799/smart/filters:cb(1626799604103)/https://www.thestar.com/content/dam/thestar/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board/intel_logo.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Octane AI Raises $5M in Funding"
+    excerpt: "Octane AI, a San Francisco, CA-based data marketing platform provider, raised $5m in funding. The round was led by Javelin Venture Partners, with participation from existing investors Bullpen Capital,"
+    publishedDateTime: 2021-07-20T18:12:00Z
+    webUrl: "https://www.finsmes.com/2021/07/octane-ai-raises-5m-in-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/07/octane-ai-scaled.jpg"
+        width: 2560
+        height: 1701
         isCached: true
   - title: "Intel-backed Untether AI raises $125 million, adds CPPIB, Tracker Capital as investors"
     excerpt: "Toronto-based artificial intelligence hardware startup Untether AI has secured $125 million in funding to support its expansion and product development efforts."

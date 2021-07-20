@@ -57,6 +57,34 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Intel co-leads $125M funding round for AI inference chip startup Untether AI"
+    excerpt: "Intel Corp.’s venture capital arm has co-led a $125 million funding round for chip startup Untether AI Inc., whose artificial intelligence processor uses an emerging approach dubbed at-memory computation to run machine learning algorithms."
+    publishedDateTime: 2021-07-20T18:01:00Z
+    webUrl: "https://siliconangle.com/2021/07/20/intel-co-leads-125m-funding-round-ai-inference-chip-startup-untether-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/image2.png"
+        width: 667
+        height: 462
+        isCached: true
+  - title: "Octane AI Raises $5M in Funding"
+    excerpt: "Octane AI, a San Francisco, CA-based data marketing platform provider, raised $5m in funding. The round was led by Javelin Venture Partners, with participation from existing investors Bullpen Capital,"
+    publishedDateTime: 2021-07-20T18:12:00Z
+    webUrl: "https://www.finsmes.com/2021/07/octane-ai-raises-5m-in-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/07/octane-ai-scaled.jpg"
+        width: 2560
+        height: 1701
+        isCached: true
   - title: "Intel-backed Untether AI raises $125 million, adds CPPIB, Tracker Capital as investors"
     excerpt: "Toronto-based artificial intelligence hardware startup Untether AI has secured $125 million in funding to support its expansion and product development efforts."
     publishedDateTime: 2021-07-20T17:28:00Z
@@ -95,6 +123,6 @@ related:
       domain: businesswire.com
     quality: 11
 
-secured: "0+G8HNK++jR/7smiLzUTtLZvAUD+0QD3J3ZfGKax40Qrzd89AaZL5N+e8FtlTANLQEIaw2ViRpPxGND/gvmUoOupsas5fNnEKx/0ZL4CmgyKdmtBgCClIHwC4RKldNS31yNld4PRPvIIePv2NTwQ5rGSOWswh0PE/e8i/95UvRSpDyhq+WTLesy4BQ/gW6ctmS2Pgt+UD/JbrlTGZ8ggQlxEzET4m8TqqbK6cRsRXczzpPnuEydLLyApi/Onyl7rGiE8aGwzVL6Rfe4V8motQ2esPMrvOQpn1x/9meAxZTBohGFUO6FNtydOXqR+QSNdKWydFiSz7KQSNhGieDsHpzRU8nZ71b1Oznx15VpwtXs=;oFu7Few1Sw8lL9Ht+xByVg=="
+secured: "la6y+DBzbmhDuAAfbHJn29/ENn8Qp9D9yIVq+d8lpGCi4CpLjtO83ewDp41xYBzrYv2O/cvwowHSNh78VRrY/aaZ84Jd+GSmr4tI847qFDmweILsrbUlIiLueXSYIcRw9zP295MNU1HXrfEGtQouNnMmrfeiuowVD7sFToPn5Rttih/Z0ZYlWS2oCC+pFvam9P7ct+e3Rx/uf7g0tV/Ur4pNeZkjiUkxlTWjPJJWcEf2C/bwVavvNoThOXBxeXrr66nwyjG0q33xQp0L91OHAuXkp+qXcJR2uw9N3HFuJFvGa6fbV/9QX8NVLVBlmYOjQXgymRyzq7o0TwDhYmyXoc539w1LRWp7R37wDwaM2qxvTv50U+Er1h1FMvEcmJRhAz+koQ2/YCHcWReBZlzSQ+ZmlD5ZNFiZqOTQbFi6LdY1Sbpac/zl6wIK5W3Lq4DGV03S5MZP8dZkUE3VAgydK0K4qnUCF8f5TrKka+s3sqhE0LuSbMlRT16h5d8zpWeohFDYpAeeR2sceNpZxmL1FA==;AFM+nnw6B6GJFlDYdQgjiw=="
 ---
 

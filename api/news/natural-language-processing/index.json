@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-21-watson-as-a-warning-current-limits-and-promise-of-ai.md",
+      "title": "Watson as a Warning: Current Limits and Promise of AI",
+      "excerpt": "We can’t seem to decide whether AI will replace humanity as the dominant intellectual force or it will simply be a sideshow never reaching its promise. Is AI the technology of the future, or wil",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai",
+      "originalUrl": "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp",
+      "publishedDateTime": "2021-07-20T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-volleys-magic-word-is-a-voice-based-puzzle-game-on-google-assistant.md",
       "title": "Volley’s Magic Word is a voice-based puzzle game on Google Assistant",
       "excerpt": "Volley has embraced the new kind of gameplay possible with voice-based games, and today it is introducing Magic Word, an immersive puzzle game on Google Assistant. That means you can play it on devices that support Google Assistant’s voice recognition technology,",
@@ -10,7 +54,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/19/volleys-magic-word-is-a-voice-based-puzzle-game-on-google-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -419,15 +463,15 @@
       "title": "AI-enabled sign language translator designed by teenagers wins £20,000 prize",
       "excerpt": "A two-way AI-enabled sign language translator designed by teenagers has won a £20,000 technology prize. A team from St Paul’s Girls’ School in London came up with the idea for an intelligent ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thenorthernecho.co.uk/news/national/19446632.ai-enabled-sign-language-translator-designed-teenagers-wins-20-000-prize/",
-      "originalUrl": "https://www.thenorthernecho.co.uk/news/national/19446632.ai-enabled-sign-language-translator-designed-teenagers-wins-20-000-prize/",
+      "webUrl": "https://www.oxfordmail.co.uk/news/national/19446632.ai-enabled-sign-language-translator-designed-teenagers-wins-20-000-prize/",
+      "originalUrl": "https://www.oxfordmail.co.uk/news/national/19446632.ai-enabled-sign-language-translator-designed-teenagers-wins-20-000-prize/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thenorthernecho.co.uk/resources/images/12802591/",
+          "url": "https://www.oxfordmail.co.uk/resources/images/12802591/",
           "width": 1071,
           "height": 714,
           "title": null,
@@ -439,11 +483,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T16:16:00-07:00",
+      "publishedDateTime": "2021-07-15T16:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Northern Echo",
-        "domain": "thenorthernecho.co.uk",
+        "name": "Oxford Mail",
+        "domain": "oxfordmail.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1399,41 +1443,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know.md",
-      "title": "Best Artificial Intelligence Stocks To Buy In July 2021? 3 Names To Know",
-      "excerpt": "Artificial intelligence (AI ... Notably, the Cambridge-1 will serve to enable top scientists and healthcare experts via a combination of AI and simulation. In turn, this will ideally accelerate the digital biology revolution and bolster the country ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08",
-      "originalUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08?amp",
-      "publishedDateTime": "2021-07-08T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

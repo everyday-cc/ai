@@ -9,7 +9,7 @@ ampWebUrl: "https://starofmysore.com/artificial-intelligence-and-machine-learnin
 cdnAmpWebUrl: "https://starofmysore-com.cdn.ampproject.org/c/s/starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/"
 type: article
 quality: 78
-heat: 88
+heat: 89
 published: true
 
 provider:

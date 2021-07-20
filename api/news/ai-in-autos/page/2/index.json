@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-10-quotable-quotes-from-waic-2021.md",
+      "title": "Quotable quotes from WAIC 2021",
+      "excerpt": "Artificial intelligence has made life increasingly ... Baidu has just rolled out the latest driverless robotaxi service Apollo, which will be cheaper than the current ride-hailing services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202107/08/WS60e6db24a310efa1bd660a5c.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202107/08/WS60e6db24a310efa1bd660a5c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202107/08/60e6ddd1a310efa1e3ad381b.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-halo-brings-driverless-car-rental-to-las-vegas.md",
+      "title": "Halo Brings Driverless Car Rental to Las Vegas",
+      "excerpt": "All-electric rental car startup Halo this week announced plans for an autonomous vehicle service in Las Vegas, powered by T-Mobile 5G. Halo, which has been test driving on Las Vegas public streets for months,",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/cars-auto/134405/halo-brings-driverless-car-rental-to-las-vegas",
+      "originalUrl": "https://uk.pcmag.com/cars-auto/134405/halo-brings-driverless-car-rental-to-las-vegas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/h/halo-bring/halo-brings-driverless-car-rental-to-las-vegas_w7ty.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g.md",
+      "title": "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G",
+      "excerpt": "A driverless Halo then arrives at the pick ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while humans ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g-2021-07-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g-2021-07-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-ceo-robin-li-fast-tracks-smart-ev-development-to-harness-baidus-ai-tech-and-mount-a-challenge-to-tesla.md",
       "title": "CEO Robin Li fast-tracks smart EV development to harness Baidu’s AI tech and mount a challenge to Tesla",
       "excerpt": "The tech giant is hoping to harness its AI tech as it builds an EV presence, in a market where electrification and digitalisation are redrawing the landscape.",
@@ -336,6 +483,58 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-welcome-to-simulation-city-the-virtual-world-where-waymo-tests-its-autonomous-vehicles.md",
+      "title": "Welcome to Simulation City, the virtual world where Waymo tests its autonomous vehicles",
+      "excerpt": "This is Simulation City, the virtual world where Waymo, an offshoot of Google, tests its autonomous vehicles in preparation for real-world experiences. The gray cube with the blue top represents one of the company’s autonomous semi-trailer trucks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths",
+      "originalUrl": "https://www.theverge.com/2021/7/6/22565448/waymo-simulation-city-autonomous-vehicle-testing-virtual",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/11pavQWeOYE5sK7dQMNikb6O95o=/0x0:3620x2343/1400x933/filters:focal(1521x883:2099x1461):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68931332/1142125645.jpg.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths",
+      "publishedDateTime": "2021-07-06T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1225,196 +1424,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-tech-giants-make-push-into-autonomous-driving.md",
-      "title": "Tech Giants Make Push Into Autonomous Driving",
-      "excerpt": "Giants from Huawei Technologies Co. to Baidu Inc. have pledged to plow almost $19 billion into electric and self-driving vehicle ventures this year alone. Smartphone giant Xiaomi Corp. and even ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ttnews.com/articles/tech-giants-make-push-autonomous-driving",
-      "originalUrl": "https://www.ttnews.com/articles/tech-giants-make-push-autonomous-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/zoox-bb-1200.jpg?itok=AFwdago2",
-          "width": 470,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Transport Topics",
-        "domain": "ttnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public.md",
-      "title": "EXCLUSIVE Toyota-backed self-driving startup Pony.ai considers going public",
-      "excerpt": "FREMONT, California, June 25 (Reuters) - Self-driving tech company Pony.ai ... Pony.ai, founded by former Google and Baidu Inc (9888.HK) engineers Peng and Lou Tiancheng in 2016, has so far ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/2qSLKwou_uMeOYl9o0cLDFy9k_A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YKRNUSEBRNJLROOHXAMKCUAUOE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-artificial-intelligence-and-how-it-affects-every-day-operations.md",
-      "title": "Artificial intelligence and how it affects every day operations",
-      "excerpt": "With rapid development of innovative technological solutions, Artificial intelligence (AI ... AI companies are enabling autonomous self-driving cars. These vehicles are equipped with sensors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessdailyafrica.com/bd/opinion-analysis/ideas-debate/artificial-intelligence-and-how-it-affects-every-day-operations-3449340",
-      "originalUrl": "https://www.businessdailyafrica.com/bd/opinion-analysis/ideas-debate/artificial-intelligence-and-how-it-affects-every-day-operations-3449340",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessdailyafrica.com/resource/blob/3449350/51a115437caf1e7d933bf9228b325d96/ai-data.jpg",
-          "width": 890,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessdailyafrica.com/bd/opinion-analysis/ideas-debate/artificial-intelligence-and-how-it-affects-every-day-operations-3449340?view=htmlamp",
-      "cdnAmpWebUrl": "https://www-businessdailyafrica-com.cdn.ampproject.org/c/s/www.businessdailyafrica.com/bd/opinion-analysis/ideas-debate/artificial-intelligence-and-how-it-affects-every-day-operations-3449340?view=htmlamp",
-      "publishedDateTime": "2021-06-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Daily Africa",
-        "domain": "businessdailyafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-the-future-of-mobility-5-transportation-technologies-to-watch-out-for.md",
-      "title": "The future of mobility: 5 transportation technologies to watch out for",
-      "excerpt": "From autonomous vehicles to flying taxis, the future of mobility and transportation is set to change dramatically in the next few decades. Here's a preview",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/",
-      "originalUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/volocopter2.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/future-of-mobility-transportation-trends/?amp",
-      "publishedDateTime": "2021-06-24T16:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

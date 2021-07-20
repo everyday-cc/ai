@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-21-toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division.md",
+      "title": "Toyota’s Woven Planet acquires Lyft’s Level 5 self-driving division",
+      "excerpt": "Toyota subsidiary Woven Planet, has announced the completed acquisition of Level 5, the self-driving division of rideshare veterans Lyft Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/",
+      "originalUrl": "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Lyft-Level-5-Demo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/amp/",
+      "publishedDateTime": "2021-07-20T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-artificial-intelligence-and-machine-learning-course-at-cit.md",
       "title": "Artificial Intelligence and Machine Learning course at CIT",
       "excerpt": "Ponnampet: A new engineering course in Artificial Intelligence and Machine Learning (AI & ML), an allied branch of Computer Science and Engineering, is being introduced at Coorg Institute of Technology (CIT),",
@@ -10,7 +62,7 @@
       "originalUrl": "https://starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -212,7 +264,7 @@
       "originalUrl": "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 369,
       "tags": null,
       "images": [
         {
@@ -586,6 +638,40 @@
       ]
     },
     {
+      "path": "_news/2021-07-16-self-driving-startup-aurora-innovation-is-going-public-is-it-a-buy.md",
+      "title": "Self-Driving Startup Aurora Innovation Is Going Public: Is It a Buy?",
+      "excerpt": "Self-driving technology start-up Aurora Innovation said on July 15 that it has agreed to go public via a merger with Reinvent Technology Partners Y (NASDAQ: RTPY), a special-purpose acquisition company (SPAC),",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/self-driving-startup-aurora-innovation-is-going-public%3A-is-it-a-buy-2021-07-15?time=1626385802",
+      "originalUrl": "https://www.nasdaq.com/articles/self-driving-startup-aurora-innovation-is-going-public%3A-is-it-a-buy-2021-07-15?time=1626385802",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-self-driving-startup-aurora-to-go-public-through-spac.md",
       "title": "Self-Driving Startup Aurora to Go Public Through SPAC",
       "excerpt": "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc.",
@@ -739,6 +825,49 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-in-major-step-toward-commercializing-self-driving-technology-aurora-to-become-a-public-company-by-merging-with-reinvent-technology-partners.md",
+      "title": "In Major Step Toward Commercializing Self-Driving Technology, Aurora to Become a Public Company by Merging with Reinvent Technology Partners Y",
+      "excerpt": "Aurora, the self-driving technology company, has entered into a definitive business combination agreement with Reinvent Technology Partners Y (“Reinvent”) (NASDAQ: RTPY), a special purpose acquisition company with the sponsor team that takes a “venture capital at scale” approach to investing.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-377c40cbf96544d2936dcc3c7d09d3b7",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-377c40cbf96544d2936dcc3c7d09d3b7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1295,153 +1424,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-07-09T11:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-quotable-quotes-from-waic-2021.md",
-      "title": "Quotable quotes from WAIC 2021",
-      "excerpt": "Artificial intelligence has made life increasingly ... Baidu has just rolled out the latest driverless robotaxi service Apollo, which will be cheaper than the current ride-hailing services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202107/08/WS60e6db24a310efa1bd660a5c.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202107/08/WS60e6db24a310efa1bd660a5c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202107/08/60e6ddd1a310efa1e3ad381b.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-halo-brings-driverless-car-rental-to-las-vegas.md",
-      "title": "Halo Brings Driverless Car Rental to Las Vegas",
-      "excerpt": "All-electric rental car startup Halo this week announced plans for an autonomous vehicle service in Las Vegas, powered by T-Mobile 5G. Halo, which has been test driving on Las Vegas public streets for months,",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/cars-auto/134405/halo-brings-driverless-car-rental-to-las-vegas",
-      "originalUrl": "https://uk.pcmag.com/cars-auto/134405/halo-brings-driverless-car-rental-to-las-vegas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/h/halo-bring/halo-brings-driverless-car-rental-to-las-vegas_w7ty.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g.md",
-      "title": "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G",
-      "excerpt": "A driverless Halo then arrives at the pick ... safety hazard or system anomaly is detected. Using an advanced Artificial Intelligence algorithm, the car also learns in the background while humans ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g-2021-07-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g-2021-07-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T16:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210716/Dotmatics-Announces-S
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210716/Dotmatics-Announces-Support-for-AWS-for-Health-Initiative.aspx"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: News Medical
@@ -42,20 +42,6 @@ related:
       - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
         width: 389
         height: 389
-        isCached: true
-  - title: "Veritas Announces Support for AWS for Health Initiative"
-    excerpt: "Veritas Technologies, a global leader in enterprise data protection, today announced support for the AWS for Health initiative from Amazon Web Services (AWS) to accelerate cloud adoption within healthcare."
-    publishedDateTime: 2021-07-16T01:38:00Z
-    webUrl: "https://www.lelezard.com/en/news-19905290.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "aNXmA5g4UR7Pd03IqHN1BgX1+ztsWms83hgSSvkkvwWESxvUD6SVvyJgZjDKHoFlioH3uIV1osA2QlnCuuslKdvYMoanmAzzYW0NCW/v0KyZrn9dH75LINHAh+JCXgPq3Kq02H2ESZM09uQEYLxwioU9X8S3md4mBgt6sNVaw07fE4inw90bkHhXrrRTlWd4LejYBzE/kM2421MEkKUfokS2sS79dRQVm+uDpytLX64C7PYzBJzbKOUthJOi4LUhB0U2qHocEMduvAGXSJ8vJTcrnSKjBX0APdejK9loUoIlOY0Jq/x4W1Oc4wJJjCDVhfRj+G/eeQdRDE6oTeoQjgqsanECywnFaWYEmQaLSkA=;pTlxkq3Nqp2G7aTldPA07A=="

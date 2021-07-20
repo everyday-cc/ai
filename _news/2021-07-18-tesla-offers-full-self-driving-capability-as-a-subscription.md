@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
 type: article
 quality: 89
-heat: 359
+heat: 369
 published: true
 
 provider:
@@ -420,6 +420,20 @@ related:
     images:
       - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
         width: 1000
+        height: 600
+        isCached: true
+  - title: "Tesla's 'Full Self-Driving' software lacks safeguards, Consumer Reports says"
+    excerpt: "Consumer Reports said Tuesday that Tesla Inc.'s \"Full Self-Driving\" software lacks safeguards and raised concerns the system's use on public roads puts the public at risk, citing reports from drivers."
+    publishedDateTime: 2021-07-20T17:40:00Z
+    webUrl: "https://www.autonews.com/automakers-suppliers/teslas-full-self-driving-software-lacks-safeguards-consumer-reports-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/autopilot-logo.jpg"
+        width: 800
         height: 600
         isCached: true
 

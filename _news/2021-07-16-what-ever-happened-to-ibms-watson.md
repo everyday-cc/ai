@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-wats
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:
