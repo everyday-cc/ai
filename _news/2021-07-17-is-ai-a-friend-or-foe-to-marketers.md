@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/trends/features-2/is-ai-a-friend-o
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/features-2/is-ai-a-friend-or-foe-to-marketers-7186881.html/amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: moneycontrol.com
@@ -27,35 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Opening Up the Email Marketing Engine to Artificial Intelligence"
-    excerpt: "With an average open email rate of 18.0% in 2020, it’s not like marketing teams are crushing this email thing. Wait, isn't 18% pretty good? We get that standards are low here, for sure. Bottom-line? Email remains a priority."
-    publishedDateTime: 2021-07-15T13:14:00Z
-    webUrl: "https://www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/"
-    ampWebUrl: "https://www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/amp/"
+  - title: "Will artificial intelligence be a marketer's new best friend or foe?"
+    excerpt: "And, whether AI remains a friend or becomes a foe really depends on how we use it. AI as a marketer’s friend Consider the entertainment industry. AI wouldn’t get emotional during a movie, but it can tell when humans will."
+    publishedDateTime: 2021-07-19T13:06:00Z
+    webUrl: "https://www.forbesindia.com/blog/storyboard/will-artificial-intelligence-be-a-marketers-new-best-friend-or-foe/"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 89
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 39
     images:
-      - url: "https://www.cmswire.com/-/media/2a91c10dbc3d4d22a7c8a94025410d28.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2021/07/Artificial-Intelligence-Thinking-Robot-b.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "How To Make Ethical Use Of AI In The Hiring Process"
-    excerpt: "Global corporate investments in AI are projected to double to around $110 billion over the next two years. One of the main areas of application for organizational AI is recruitment (e.g., staffing, hiring,"
-    publishedDateTime: 2021-07-19T13:55:00Z
-    webUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-ethical-use-of-ai-in-the-hiring-process/"
+  - title: "AI Infrastructure Market worth $79.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"AI Infrastructure Market with COVID-19 Impact Analysis by Offering (Hardware, Software), Technology (Machine Learning, Deep Learning), Function"
+    publishedDateTime: 2021-07-16T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-infrastructure-market-worth-79-3-billion-by-2026---exclusive-report-by-marketsandmarkets/article_c48b2590-149f-5c3d-b4aa-c033131b7daf.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 26
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f5837b1a2db6fca4092d1a%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
+        width: 669
+        height: 229
         isCached: true
 
 secured: "ZZJoR7hvslCdG9rz6Ao+KfbZi7/2IOGmCSlYot9ZgLDn+Fm26NBKXq9Tt64T0kkcosoursPkLictsEe0uRMX1ss7UKBymv8mLaKxQtJinhqa/usxhQjGJOemzYf/0WDCo9h6WpHwZ7gQ/ebFj+oFQj5MNrv4hQNSHbIF2I00nDzKsrAVtsNYdmOKBRT6FhBfWnLjzx6cq4GVqJx2KjvS5zGN6vvuuUUlV/U9k7vnbnb/KXCtJ2eSSjGFxe4Lalt655/wdM7ADX9rSY6bVl5XdHNqMa+KJZWJ8MrHJO0urMBGP5v/5UtdBAQYJoXC6IjXNyYrhOIJXssNAZPsbaOuQheUGFx7qZw1sn2er7OIblBFkXrV0Jrzfy9IF0bAhIczJKpKiiTCMAN7MaNL4yGZw72WwnJSbnG1oCjtZkCOPbsK+mlgKgzeL2EDzWTz8xPlph8DjM77n3eWCwOnuCyMpILOt95rXsfbAsyaeGndBGmRGCBOgSlaKgmN2Se3PMUhVHoLpnL6TE3gEAurGZqNHA==;wuleaEV9mcfJV3EDsIo6tg=="

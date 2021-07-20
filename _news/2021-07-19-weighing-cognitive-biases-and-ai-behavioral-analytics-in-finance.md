@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
         width: 315
         height: 408
         isCached: true
-  - title: "GoodData and Vertica Partner to Accelerate Cloud-Native Self-Service Analytics Adoption in the Enterprise"
-    excerpt: "GoodData, the leader in Data as a Service (DaaS) analytics infrastructure, today announced a strategic partnership with unified analytics platform provider Vertica. In a newly integrated product offering,"
-    publishedDateTime: 2021-07-15T13:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gooddata-vertica-partner-accelerate-cloud-native-self-service-/2021/07/15/9410075.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "y1+X46GLuMdRS4eXmzd5jkM750k2eIPGY4KC/HEyA48XwO5LQyjRbuna/KW5VC0ItvDHpGU/H48tpqNAltrwcYEX0aYAHYAP2fVojkV28a2JHkJuoJP+QtQD9i9uimKAid5OIBmr4cSlzvhZrVUNW4tMv363PwxlbWSGV0CL7+m1/POGOnPSdxmp1mzJam3GoW9IRIGVHfj2O2TnQu4n4pEeYbUGHasSyVSpF/ppTdfKBRfP8ja5JC8GFInKFjBanMDl8PL9zqZBrfH+gXWduT71gosAjrlXZjvD8C04zLxh+AXn6gHaoxnr804jSO0AQHHcIl4NgTZzkIsIPbsi4PDD1ckaHgtXfMq4VmDaXlCCa32RUvIOKj1t5Y/uh2keqVbZYrvno2ApKR6Q1VlF2SjuEDKylmFHPLgWQIDrKHuHiup+R+TwPWWfYu38TTyMTagG7aGvCiKnT2IWq9aTWfXbkjC0BXBT4gW0n/anEu1zVgh3crBwDt0+732EZb8gzCU6wBT5a+iUAx9ueM4KEw==;EtZAdAy4cQS0xXLNyO1/oQ=="
 ---

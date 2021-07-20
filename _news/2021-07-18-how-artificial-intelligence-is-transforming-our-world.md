@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 770
     height: 420
     isCached: true
+
+related:
+  - title: "Understanding how AI Drives Digital Transformation?"
+    excerpt: "When AI and machine learning become part of a company's strategy, it represents a new digital transformation era. FREMONT, CA: In a dynamic, fast-changing market world, digital transformation is one of the most critical factors of how companies deliver ..."
+    publishedDateTime: 2021-07-20T06:27:00Z
+    webUrl: "https://www.cioapplications.com/news/understanding-how-ai-drives-digital-transformation-nid-8112.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 37
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/gs3kk423.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "yHi2+QjWPgt6meLTpXhC0472VxvH48CDCBGmwV71Od49q/5Vrp3XYXfbZcztN3X6pLHCCdBW3GzuV6+J3taSFAckXRwZAP5j4NkKfqDMStJ/azXpMHusaYLi622JgKRfpUnirE9G/Q7xT81pZ0cM+YaOnUJ8G/nHoyiesU1NRBfgLz6cHUmjXFsrCx0go/Czlpnm6De9Nw63JyY4C8wsihkngWO86/4wmm15anffCTntUVZ2HpRW47fb7EWVAJbj6u1d5T2zm2P90K23psHJ+eQheThCHXHkSKvIMwGGPZZ6MaQqZHtdimPTYWGkSX2SweMhcAklY7vmAIQlyhffpD2F8a/fpJY0mrzlBM4Zqzs=;xdh4gZU1pz49y/VRRDyLzg=="
 ---

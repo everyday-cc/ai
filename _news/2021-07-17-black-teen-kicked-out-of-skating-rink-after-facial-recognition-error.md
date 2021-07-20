@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/black-teen-kicked-out-of-skatin
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 179
+published: true
 
 provider:
   name: CNET
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Black Teen Barred From Skating Rink After Facial Recognition Camera Misidentified Her"
-    excerpt: "A Black teenager's parents are considering taking legal action after she was barred from a skating rink because the venue's facial recognition technology misidentified her. Juliea Robinson dropped off her daughter,"
-    publishedDateTime: 2021-07-15T14:15:32Z
-    webUrl: "https://www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023"
-    ampWebUrl: "https://www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023?amp=1"
-    type: article
-    provider:
-      name: newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023
-      domain: newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023
-    quality: 152
-    images:
-      - url: "https://d.newsweek.com/en/full/1846724/facial-recognition-camera.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Black Teen Kicked Out of Roller Rink Because Its Face Recognition Tech Screwed Up, Predictably"
     excerpt: "A small but face recognition-equipped Detroit roller rink kicked out a Black teen last Saturday after misidentifying her as a person who’d allegedly gotten into a fight there in March. The girl, Lamya Robinson,"
     publishedDateTime: 2021-07-16T16:13:00Z

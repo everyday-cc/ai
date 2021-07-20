@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-infrastructure-market-worth-79-3-billion-by-2026---exclusive-report-by-marketsandmarkets/article_c48b2590-149f-5c3d-b4aa-c033131b7daf.html"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Insights on the Healthcare Chatbots Global Market to 2026 - Featuring ADA Health, Babylon and Sensely Among Others - ResearchAndMarkets.com"
-    excerpt: "The “Healthcare Chatbots Market - Global Outlook and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The healthcare chatbots market by revenue is expected to grow at a CAGR of 27."
-    publishedDateTime: 2021-07-19T12:14:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-7ab3f1c26b9d4eeb8a81be40e18f61fc"
+  - title: "Is AI a friend or foe to marketers?"
+    excerpt: "Every time artificial intelligence (AI) disrupts a new industry use case ... as that’s when they typically start shopping for the baby. It boomeranged when an angry parent of a high school girl complained about sending the girl baby apparel coupons ..."
+    publishedDateTime: 2021-07-17T10:51:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/features-2/is-ai-a-friend-or-foe-to-marketers-7186881.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/features-2/is-ai-a-friend-or-foe-to-marketers-7186881.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/features-2/is-ai-a-friend-or-foe-to-marketers-7186881.html/amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 5
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/07/Artificial-intelligence-boon-or-foe-jem-sahagun-kqC3rZEMBI-unsplash-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
+  - title: "Will artificial intelligence be a marketer's new best friend or foe?"
+    excerpt: "And, whether AI remains a friend or becomes a foe really depends on how we use it. AI as a marketer’s friend Consider the entertainment industry. AI wouldn’t get emotional during a movie, but it can tell when humans will."
+    publishedDateTime: 2021-07-19T13:06:00Z
+    webUrl: "https://www.forbesindia.com/blog/storyboard/will-artificial-intelligence-be-a-marketers-new-best-friend-or-foe/"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 39
+    images:
+      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2021/07/Artificial-Intelligence-Thinking-Robot-b.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "StPoaqMf/1pI/m0x+a7I+A6XpQ+U0O/jt3unYiypz11rVlohb2SxVHF1HyOothKgBlQLsgmcCCVFi8bKBgl282Ig5mwCyXs95wguCX/lRdGZvpa2Gv8s0ZTYN38K52EoAA5hcRRzPB54yRNNkbXOYFuYaY2W9wa0v95JGbyfO5AdutmF+ipGLjqO+MFJpv6aj+E2hdylLv4QVzzGTGYMtBdRQzjqyzQvAKyZ0/e2e5w/aMtO+BFwQ/cUhnz2eA2qHuyTx4T+WYknesbeOjxZ7EDKmJ2TuUnT208SwAWNmwoHniSz2Ib3Im8MiK55ZtIANHjTT3i1ZyLoEpCx4a9eHYbviHY6MtGigLXd10bS7rg=;lumPv4YvtwZ2gzb09wZ/GA=="

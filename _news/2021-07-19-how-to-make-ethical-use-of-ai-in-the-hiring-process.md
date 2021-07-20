@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-
 webUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-ethical-use-of-ai-in-the-hiring-process/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: Forbes
@@ -29,37 +29,89 @@ images:
     isCached: true
 
 related:
-  - title: "Opening Up the Email Marketing Engine to Artificial Intelligence"
-    excerpt: "With an average open email rate of 18.0% in 2020, it’s not like marketing teams are crushing this email thing. Wait, isn't 18% pretty good? We get that standards are low here, for sure. Bottom-line? Email remains a priority."
-    publishedDateTime: 2021-07-15T13:14:00Z
-    webUrl: "https://www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/"
-    ampWebUrl: "https://www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/opening-up-the-email-marketing-engine-to-artificial-intelligence/amp/"
+  - title: "Use of Artificial Intelligence That has Potential Business Value"
+    excerpt: "The use of artificial intelligence in the business market is growing gradually. It has a great potential business value and it is important to implement ethical and responsible AI to bring success in the long run."
+    publishedDateTime: 2021-07-15T15:30:00Z
+    webUrl: "https://www.analyticsinsight.net/use-of-artificial-intelligence-that-has-potential-business-value/"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 89
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
     images:
-      - url: "https://www.cmswire.com/-/media/2a91c10dbc3d4d22a7c8a94025410d28.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-2.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "Is AI a friend or foe to marketers?"
-    excerpt: "Every time artificial intelligence (AI) disrupts a new industry use case ... as that’s when they typically start shopping for the baby. It boomeranged when an angry parent of a high school girl complained about sending the girl baby apparel coupons ..."
-    publishedDateTime: 2021-07-17T10:51:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/features-2/is-ai-a-friend-or-foe-to-marketers-7186881.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/features-2/is-ai-a-friend-or-foe-to-marketers-7186881.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/features-2/is-ai-a-friend-or-foe-to-marketers-7186881.html/amp"
+  - title: "How AI is powering the future of financial services"
+    excerpt: "Financial institutions are using AI-powered solutions to unlock revenue growth opportunities, minimise operating expenses, and automate manually intensive processes. Many in the financial services industry believe strongly in the potential of AI."
+    publishedDateTime: 2021-07-16T16:07:00Z
+    webUrl: "https://www.finextra.com/the-long-read/231/how-ai-is-powering-the-future-of-financial-services"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
+      name: Finextra
+      domain: finextra.com
+    quality: 39
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/07/Artificial-intelligence-boon-or-foe-jem-sahagun-kqC3rZEMBI-unsplash-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
+      - url: "https://www.finextra.com/finextra-images/oped/231.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Highlighting the real successes of AI"
+    excerpt: "Despite the hype, especially around self-driving cars, AI is writing code, designing Google chip floor plans, and telling us how much to trust it."
+    publishedDateTime: 2021-07-16T20:16:00Z
+    webUrl: "https://www.reseller.co.nz/article/689725/highlighting-real-successes-ai/?fpid=1"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/ai_dreamstime_1.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "Importance of AI in Remote Learning"
+    excerpt: "Educators are using AI-enabled Learning Management System to track their student's progress (LMS). The primary purpose for creating LMS was to improve the learning experience with Artificial Intelligence (AI) support."
+    publishedDateTime: 2021-07-16T21:09:00Z
+    webUrl: "https://www.cioapplications.com/news/importance-of-ai-in-remote-learning-nid-8110.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/l2wfimg---6.gif"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "Artificial intelligence of things at the edge"
+    excerpt: "Gartner has predicted that 75% of data will be processed at the edge by 2025, and artificial intelligence of things (AIoT) is moving from concept to reality. Is your enterprise ready? Download this white paper to discover Advantech’s plug-and-play computing platforms and software frameworks that strive to simplify and streamline deployment of new applications in edge and embedded scenarios."
+    publishedDateTime: 2021-07-18T03:33:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1624448833_674.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 37
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1624448833_674_lg.jpg"
+        width: 315
+        height: 408
+        isCached: true
+  - title: "The startup harnessing AI to make your bus arrive on time"
+    excerpt: "A complaint about the inefficiency of manmade decision-making leads to Optibus, a company ensuring smoother travel in 500 cities worldwide."
+    publishedDateTime: 2021-07-20T06:07:00Z
+    webUrl: "https://www.israel21c.org/the-startup-harnessing-ai-to-make-your-bus-arrive-on-time/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 37
+    images:
+      - url: "https://www.israel21c.org/wp-content/uploads/2021/07/johen-redman-unsplash.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "cyrbFpEEd4J6nfA9PNCw0FFfJ7UgHjnEFU1qOtl2Nad/8WJl9X2pXXflBzDEP1LNK3GYryyIbHJn73R/4SO4wBjc6YAfJnMJ69eIseaxRdE8GCcAOTB6mDrgXZDpfBI/iejnsdWcx6miQTFHJriEyj+i4g9evk7rwuDY46lAgpL/mZmdG8iMYbJg0faN+ToQCROU8qk7FGXOy8mkE1A+OK/X0yGcc0qrdttx3Elrk5qDhzZS9lm/nPnRM1Z2Y0+crZrKoYRVjOWsEgZuN4Cv4737IqlEPItZ1V1AEhtBetC7989FJYJ9IUDLXFr8pS9IViGDbF8G4WD7jvigxOoYJT5LxJAXr20Vuu7VZgbgqYy3QbUNpExgD9gYbY3NdL7cDVr0z9ef7i5fX2fAFJ+s0jG8ZovCdI7Ea3uDCSfUn63fvweT1fPwoECwggriC7uzJLtcV1XlS3HzU5VTRaDkztGIG40FKPQjEuihoDs0ceojxX6mTTp/YkEyaWFS94vVX3X12S3Z6LIG9Nzc1DjACQ==;1EpkKG/nY84QhlANM/0g/g=="

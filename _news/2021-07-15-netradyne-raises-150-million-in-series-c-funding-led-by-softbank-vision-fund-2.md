@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/netradyne-raises-1
 webUrl: "https://markets.businessinsider.com/news/stocks/netradyne-raises-150-million-in-series-c-funding-led-by-softbank-vision-fund-2-1030612357"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -23,29 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Wearable robotics startup Verve Motion snags $15M Series A"
-    excerpt: "Wearable robotics startup Verve Motion today announced it has raised $15 million in Series A funding, led by Construct Capital as well as follow-on investments from existing investors, Founder Collective,"
-    publishedDateTime: 2021-07-15T14:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-wearable-robotics-startup-verve-motion-snags-15m-series-/2021/07/15/9410288.htm"
+  - title: "Netradyne Raises $150 Million in Series C Funding Led by SoftBank Vision Fund 2"
+    excerpt: "Powered by AI and edge computing, Netradyne's Driveri® is an advanced vision-based driver recognition and fleet safety solution ... solution to capture the complete driving day with accurate object detection, event causality, and full visibility to ..."
+    publishedDateTime: 2021-07-15T17:48:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/netradyne-raises-150-million-in-series-c-funding-led-by-softbank-vision-fund-2/article_c208b668-4141-5411-8aed-8212f1f3ca56.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1574447/Verve01.jpg"
-        width: 291
-        height: 400
-        isCached: true
-  - title: "Seoul Robotics Raises $12M in Bridge Round Investment from Korean Government"
-    excerpt: "Seoul Robotics, a 3D computer vision company that builds intelligent robotic perception systems using AI and machine learning, has been selected as an ‘Innovative Icon’ startup to receive a $12M investment from the Korean government."
-    publishedDateTime: 2021-07-15T13:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-seoul-robotics-raises-12m-bridge-round-investment-from-/2021/07/15/9410064.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 46
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 15
 
 secured: "UQQd7YzgbViWS67lKfPP2GXmh57LoZb8zKYXvQixsuD+mkpf27chWbVWIZPIC9o+Tx9r5Fb7HUEHl7kL7nsa6p3bwxiuK4KZpukgcs1gie55AQF/NbUPPC4CMrUzL6J312QKHPQcSTRxtXvBVnXpN4C/Hcdqkgu3QDuTD+hcPAEvD0AYLpW4hASHH18ukrpCLkqgUBBjIBLje8mlhjPnQWNh7zD9FzyhgoZx5dIoxyEZhm0Kap1y/hu/kSinZsAPYAnDz8bQfZOjQjhyhhua4Q7CcQXSn7neG4sYF0ZjVMOZ2yvpHKQZuQaG/pake/2dUxRB+6hxS0J5AVPs9WwYymFiTPqJo0+Oz+4lsndod5w=;iiMzYyV4DguDlHBtZiISYw=="
 ---

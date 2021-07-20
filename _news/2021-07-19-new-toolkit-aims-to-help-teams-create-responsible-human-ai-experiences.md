@@ -7,7 +7,7 @@ originalUrl: "https://blogs.microsoft.com/ai-for-business/hax-toolkit/"
 webUrl: "https://blogs.microsoft.com/ai-for-business/hax-toolkit/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     height: 683
     isCached: true
 
-related:
-  - title: "Can AI Bring Humanity Back to the Customer Experience?"
-    excerpt: "Without AI, there’s no way to sift through that many data points ... One non-negotiable key to this brighter future is absolute clarity around digital ethics, GDPR respect, and transparency on what we do and why we do it. If we openly share with our ..."
-    publishedDateTime: 2021-07-15T13:15:00Z
-    webUrl: "https://www.pharmexec.com/view/can-ai-bring-humanity-back-to-the-customer-experience-"
-    type: article
-    provider:
-      name: Pharm Exec
-      domain: pharmexec.com
-    quality: 39
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/pharmexec/d5f9c6b6aecc22acdb7c84ce2de2fcfb43bc80c6-460x283.jpg?fit=crop&auto=format"
-        width: 460
-        height: 283
-        isCached: true
-
-secured: "lo9gO/TzfdNyDUfK1IoHyrK+yalcsVP77CnYGV5UYwhufwXZBuXOKWcnDc3n5SNqPPw5QwaU8Qx+pLaZUC4arJHz9j8ZY6aTCujJSfe8MZL6vlJGaoDEuLkv1whM7xPQf9w9EtKXgngqfsDb92TsreweIjwzhWDAcTKicyFhs1aoWNb4oBXlTmB964cOp4gLEJjvcpATY/YTgWSB7nrtRwb0dLLAJyyYUn0kLuq3H49GVPd22pJF+yZ4/aeqyp71pAS0zhFp1MU0R7OpAgRzB63KVP09BW/84yviAPv7R3WPFedMxAWiuMede0PBIucF8xm6onQ22o4dWg+ziZQhkLJnIpA/cxBRMDp/u8MH4LA=;judH14pCGMl5CMY2tU6TfA=="
+secured: "EtgvhBSxePeAnYUqjdyGzSavhgTfE5bZ2KgXmZXRqWwtU0KX7EQGIJN/G/qn7Uj/G4pKiQHcxwn8HTyc4DnQgQrmQ33V6Ml/w9ElLC9NKVp6nKs2v2lkbQyoEc3pyrf0l4uRD/1TW7/Xe/q/3654x5ti0YI41ZGVu+MIPbd6oUKtXspZSNFlEYgLKeUII/EIhwv/njKsYkj59QW3eG/2VFoQJVmTJtMYkykuzeLDzTFhK5De0o5dYi+5FLCxShc0Dj78Nrz1jLzW1sKsPiciqDu0zDf3u12BrB9+PJoNm/gH9mtjBlYNCqT0M3FX+vqIlZ8YBP5CXyTWKs04zvVLT9D3yWy9/P+paI8SY6ac/Pw=;D99nKlLRujfJJOEN39A31w=="
 ---
 

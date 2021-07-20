@@ -163,6 +163,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 8
+  - title: "Artificial Intelligence in Aviation Market Size, Share and Top Firms – Intel, Micron, Boeing,"
+    excerpt: "The Artificial Intelligence in Aviation market research report assesses the global Artificial Intelligence in Aviation Market industry market and includes sales and capacity forecasts for the anticipated period 2021-2028."
+    publishedDateTime: 2021-07-20T04:39:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-share-and-top-firms-intel-micron-boeing/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 6
   - title: "Self-driving Car Technology Market Present Scenario and Growth Prospects 2021-2026"
     excerpt: "The Global Self-driving Car Technology market exhibits comprehensive information that is a valuable source of insightful data for business strategists during the decade 2015-2026. On the basis of historical data,"
     publishedDateTime: 2021-07-18T02:42:00Z

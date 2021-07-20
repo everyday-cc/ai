@@ -3,8 +3,8 @@ category: news
 title: "Anivive Announces Publication Highlighting the First Successful Use of Artificial Intelligence in Diagnosing Valley Fever in Dogs"
 excerpt: "Anivive, a pet health technology company transforming the therapeutic discovery and development process, announced the publication of \"Detecting Pulmonary Coccidioidomycosis (Valley fever) with Deep Convolutional Neural Networks,"
 publishedDateTime: 2021-07-07T17:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/07/9404679.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/07/9404679.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-anivive-announces-publication-highlighting-first-successful-use-artificial-/2021/07/07/9404679.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-anivive-announces-publication-highlighting-first-successful-use-artificial-/2021/07/07/9404679.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "HZZj3qtkOpQggCj8ZOwA4yTbGV0NlHKRQHrcByCeatstHh9GC5erW01fAKbLuZHQSDKHvpenhdhwZncziNKtwLquCOryRULEWLuM+ET68XpQ5M9rV08b+tp41vzV4zZ8X/6T6gsDm2gga994u8+aR4qEQMIO67Ege7YvN8oFfM0BhcpzljnpDEtDyvSLIBV1INI7QWO/tyKqbYgeFkTI5iOJpKtgkA5rdFrCXuFbw/pouRxRA3QVwo4GGo1e4UQ9J86HbVlkDRCgpn46mNS4lDrnNZM4V7EqxpqI7tfyPXqy9bXjb2tE4fpuDkaJFwxW1QcKnpinObYFQFkPuT2PHBRYi4+szAUw68DSc3eUh7s=;5WVmyw6LIKpgodQ36dmBIA=="
+secured: "wR4ODjuUgNHN3+3wzO/pk8rbP35Pb8Lz3Ylt6ZDb+HMUAtlGC669S9rdIRJbEvEzgP4Lzf1fyLqctwPyVsIY4fTYoBgM/HOW87ZzJHPBhMSPZ8QEjeKQIDlGZCdMWI46CBVpOeo+qH5+ps7Nijgg8re8R6IXL/581LUqHImP3Ag9LmIJVL4+U7DYDUChwVLpHVOQU4AkRHDXxeGBZvKn2/hBAFy7YRLBWOH7IrqJd4mmwmXZ1i7afFzEjddwJ2yf+5hWB3r/NWZFuIVQ08P6rYzztZBeEYICKr3gJ+yqyHrh+kF/KZosbYQJV67ez4fRkaPouUqiMKCS48NyjphE8TC3x0IsXP0q+I4ohk/5+Ns=;EW8l5WLnTEai9vThTHNGZA=="
 ---
 

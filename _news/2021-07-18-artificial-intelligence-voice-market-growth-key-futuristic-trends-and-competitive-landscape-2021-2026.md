@@ -155,6 +155,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 8
+  - title: "Artificial Intelligence in Aviation Market Size, Share and Top Firms – Intel, Micron, Boeing,"
+    excerpt: "The Artificial Intelligence in Aviation market research report assesses the global Artificial Intelligence in Aviation Market industry market and includes sales and capacity forecasts for the anticipated period 2021-2028."
+    publishedDateTime: 2021-07-20T04:39:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-share-and-top-firms-intel-micron-boeing/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 6
   - title: "Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence for Video"
     publishedDateTime: 2021-07-17T07:39:00Z

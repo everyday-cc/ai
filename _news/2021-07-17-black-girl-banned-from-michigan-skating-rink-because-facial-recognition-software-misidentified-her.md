@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Black Teen Barred From Skating Rink After Facial Recognition Camera Misidentified Her"
-    excerpt: "A Black teenager's parents are considering taking legal action after she was barred from a skating rink because the venue's facial recognition technology misidentified her. Juliea Robinson dropped off her daughter,"
-    publishedDateTime: 2021-07-15T14:15:32Z
-    webUrl: "https://www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023"
-    ampWebUrl: "https://www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023?amp=1"
-    type: article
-    provider:
-      name: newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023
-      domain: newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023
-    quality: 152
-    images:
-      - url: "https://d.newsweek.com/en/full/1846724/facial-recognition-camera.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Black teen kicked out of skating rink after facial recognition error"
     excerpt: "Misidentified, accused of brawling and then kicked out of a roller-skating rink -- the case of a young Detroit girl is the latest facial recognition controversy."
     publishedDateTime: 2021-07-16T22:15:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/unlock-information-i
 webUrl: "https://aws.amazon.com/blogs/machine-learning/unlock-information-in-unstructured-text-to-personalize-product-and-content-recommendations-with-amazon-personalize/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1625746463_267_lg.jpg"
         width: 315
         height: 408
-        isCached: true
-  - title: "SanLucar receives the Economía 3 Award in recognition of its international projection"
-    excerpt: "The multinational firm SanLucar, devoted to the production and distribution of premium quality fruit and vegetables, has received the Economía 3 Award for Internationalization."
-    publishedDateTime: 2021-07-15T13:27:00Z
-    webUrl: "https://www.freshplaza.com/article/9339442/sanlucar-receives-the-economia-3-award-in-recognition-of-its-international-projection/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 17
-    images:
-      - url: "https://agfstorage.blob.core.windows.net/misc/FP_es/2021/07/14/sanlucar.JPG"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "4+tLmpHpmNWiel1WPm9XLD6v9Jfjudm6H+jqN3vY0mFYTqPgADP1u6SLyu7f3/9gup7SrcnxVl5x3AlIRwmt276IkFYz9DS0p90V+bwSICVTWp9iU5yc4F8K609P7YavhkFURwiDDrR4t0gAnEs12ucCN+VSLSOaf8Qbib8dwEdY88BsQ7t6kBSDHaaxGCzv5NicIuYP2ndJlv7N4bDg/SHaAM3hzfIyrjBh76OvJkEJpLKh+jckYxa4PV6fOpg9B31WUi4Cpj7XXBXeTPDjaywpcW0d2LDxLEKTTfa40ueCZHjbMDUzC0sdoNOTAAfo+IGuEbmAZZXwnobJSKpWxYlsndPI2i2cAM4CvusWI20=;23ORVVAqrEIakXUSEKYSsQ=="

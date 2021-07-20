@@ -7,7 +7,7 @@ originalUrl: "https://www.thalesgroup.com/en/united-kingdom/news/meet-robot-team
 webUrl: "https://www.thalesgroup.com/en/united-kingdom/news/meet-robot-team-will-be-vital-future-offshore-wind-and-net-zero"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot A-Team vital to future of offshore wind and Net Zero"
-    excerpt: "The University of Bristol was focused on developing the flight control system for the deployment of crawler robots using drones."
-    publishedDateTime: 2021-07-15T14:16:00Z
-    webUrl: "https://www.miragenews.com/robot-a-team-vital-to-future-of-offshore-wind-596643/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://www.bristol.ac.uk/media-library/sites/news/2021/july/15%20July%20MIMRee%20-%20article.jpg"
-        width: 500
-        height: 333
-        isCached: true
   - title: "The Robot A-Team vital to the future of offshore wind and Net Zero"
     excerpt: "One of the UK’s most ambitious robotics projects has proven the concept for robotic teams repairing offshore wind farms. The project paves the way for human-robot teams at wind farms within 10 years and wind farms designed for robotic maintenance by 2050 – a scenario that will be vital to the UK achieving its Net Zero targets."
     publishedDateTime: 2021-07-15T16:41:00Z

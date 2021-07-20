@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Robot A-Team vital to future of offshore wind and Net Zero"
-    excerpt: "The University of Bristol was focused on developing the flight control system for the deployment of crawler robots using drones."
-    publishedDateTime: 2021-07-15T14:16:00Z
-    webUrl: "https://www.miragenews.com/robot-a-team-vital-to-future-of-offshore-wind-596643/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://www.bristol.ac.uk/media-library/sites/news/2021/july/15%20July%20MIMRee%20-%20article.jpg"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Meet the Robot A-Team that will be vital to the future of offshore wind and Net Zero"
     excerpt: "One of the UK’s most ambitious robotics projects has proven the concept for robotic teams repairing offshore wind"
     publishedDateTime: 2021-07-19T07:19:00Z

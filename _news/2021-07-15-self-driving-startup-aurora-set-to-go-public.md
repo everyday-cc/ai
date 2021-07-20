@@ -7,7 +7,7 @@ originalUrl: "https://www.ttnews.com/articles/self-driving-startup-aurora-set-go
 webUrl: "https://www.ttnews.com/articles/self-driving-startup-aurora-set-go-public"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 470
     height: 246
     isCached: true
-
-related:
-  - title: "Self-driving startup Aurora to go public"
-    excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y, a blank-check firm led by executives including LinkedIn co-founder Reid Hoffman and Zynga Inc. founder Mark Pincus, people with ..."
-    publishedDateTime: 2021-07-15T13:57:00Z
-    webUrl: "https://www.autoblog.com/2021/07/15/aurora-self-driving-cars-stock-ipo-spac/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/07/15/aurora-self-driving-cars-stock-ipo-spac/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/07/15/aurora-self-driving-cars-stock-ipo-spac/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 44
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/979x551+200+231/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/07/15095713/Press-Aurora-Truck-Pacifica.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "JRgVGTjdCm1iwwQfIbkfJJM7vHzLHkIx80/8zQTLpCWkVTrdY3xp/IbMvACLOma//xaUjVt+ocbhjBgw4eSlWCYuXyaUPhri2XQOymzlSVZ38626FwDVQuNXhfeIuwZEwfNQO+uSeHBEEKijMQCh6e0iZWul5Mt7SAoRt4YQC+c2JnR8JeJDhTy/q4ifiTxiN87DIMXovnp3Mwxlia4tR9hJxczMhCEhR1EhoBH/jED3foD/cNoz1Ua13xxcfk/bsu/ZpA95dcmiAx65IKMA1htcO+NElHccKQfXi4MBoqFUJQms8+c5joL9drkGWA8PPM/7KftSa0bVqF7+QXeemy551o7W2roQGVnQzGIHd+skprtEDa5wbZVHC8+ueojmf0OO8M5TeJVfZe3cqAFvNMGGcvYaStEkrhY+z54tNfa43M6Wlk347BLxxCoJ4yfRcHsyb2ldECxA3aRbTmgaI9Jyjaw64R3dYgX6um8AV5B4F6UaPv11+Y0aQXlJEElJ6nngy02QfwHSBps3EgvmWg==;eawPsPAfhC/OYDIx4UA55w=="
 ---

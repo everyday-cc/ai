@@ -40,6 +40,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "New hub gives Singapore firms taste of artificial intelligence"
+    excerpt: "A facility offering immersive experiences with artificial intelligence was launched on Monday (July 19) to encourage firms to experiment with and develop AI innovations for their businesses."
+    publishedDateTime: 2021-07-20T06:39:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/07/20/new-hub-gives-singapore-firms-taste-of-artificial-intelligence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/07/20/1226671.jpg"
+        width: 860
+        height: 573
+        isCached: true
   - title: "ABB to Deliver Artificial Intelligence Modelling for Data Center Energy Optimization in Singapore"
     excerpt: "Pilot project with ST Telemedia Global Data Centres to map the potential of artificial intelligence, machine learning and advanced analytics, with a target of at least 10 percent energy savings."
     publishedDateTime: 2021-07-15T16:29:00Z

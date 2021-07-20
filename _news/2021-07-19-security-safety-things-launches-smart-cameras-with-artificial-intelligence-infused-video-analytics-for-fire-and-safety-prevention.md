@@ -73,15 +73,6 @@ related:
         width: 315
         height: 408
         isCached: true
-  - title: "GoodData and Vertica Partner to Accelerate Cloud-Native Self-Service Analytics Adoption in the Enterprise"
-    excerpt: "GoodData, the leader in Data as a Service (DaaS) analytics infrastructure, today announced a strategic partnership with unified analytics platform provider Vertica. In a newly integrated product offering,"
-    publishedDateTime: 2021-07-15T13:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gooddata-vertica-partner-accelerate-cloud-native-self-service-/2021/07/15/9410075.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "nVToOZaSPpGqENJ0w4Tqog6s0RDZDl3hawyEncZiSQoWq53RW+YSwbHm0gQxGZ4Mry4czCosTmfDxcFk30nCqcDFwd+yvkuWzhERG6I5SE/rF1sKSqE8pQ061albtcumZnK4iGHBRofCoOt83kg3RDluNwvbitsbumg3bQwyYnhJbeD/cyP+RuiayVqS1ijHN3SuS1B6uOLKc4Nnr2zWv4pVE8NS/XBTeTAQqLvyxHbrLzidpokrIuzYA1iOJzGNVHIzuABugsgdE1FF7XjMGyiUgp9FUnmiEQxiGPjM8Ig5X9PLFQIXGM7+jcEoE5NsCvg7lKnW3k6vl2EBQgnYCnPbqI+LD6WS7UI3UotBRrE=;PWZ4rBL+nXF8g1gZa2oHoQ=="
 ---

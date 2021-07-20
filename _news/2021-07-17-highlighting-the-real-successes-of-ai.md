@@ -7,7 +7,7 @@ originalUrl: "https://www.reseller.co.nz/article/689725/highlighting-real-succes
 webUrl: "https://www.reseller.co.nz/article/689725/highlighting-real-successes-ai/?fpid=1"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,89 @@ images:
     isCached: true
 
 related:
-  - title: "Examine the AI infrastructure best suited for long-term success"
-    excerpt: "As such, organizations are faced with difficult decisions when it comes to how and where to deploy AI infrastructure. While public cloud infrastructure may be attractive because of perceived cost advantages,"
-    publishedDateTime: 2021-07-18T04:14:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1625173683_215.html"
+  - title: "How To Make Ethical Use Of AI In The Hiring Process"
+    excerpt: "Global corporate investments in AI are projected to double to around $110 billion over the next two years. One of the main areas of application for organizational AI is recruitment (e.g., staffing, hiring,"
+    publishedDateTime: 2021-07-19T13:55:00Z
+    webUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-ethical-use-of-ai-in-the-hiring-process/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f5837b1a2db6fca4092d1a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Use of Artificial Intelligence That has Potential Business Value"
+    excerpt: "The use of artificial intelligence in the business market is growing gradually. It has a great potential business value and it is important to implement ethical and responsible AI to bring success in the long run."
+    publishedDateTime: 2021-07-15T15:30:00Z
+    webUrl: "https://www.analyticsinsight.net/use-of-artificial-intelligence-that-has-potential-business-value/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-2.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "How AI is powering the future of financial services"
+    excerpt: "Financial institutions are using AI-powered solutions to unlock revenue growth opportunities, minimise operating expenses, and automate manually intensive processes. Many in the financial services industry believe strongly in the potential of AI."
+    publishedDateTime: 2021-07-16T16:07:00Z
+    webUrl: "https://www.finextra.com/the-long-read/231/how-ai-is-powering-the-future-of-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/231.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Importance of AI in Remote Learning"
+    excerpt: "Educators are using AI-enabled Learning Management System to track their student's progress (LMS). The primary purpose for creating LMS was to improve the learning experience with Artificial Intelligence (AI) support."
+    publishedDateTime: 2021-07-16T21:09:00Z
+    webUrl: "https://www.cioapplications.com/news/importance-of-ai-in-remote-learning-nid-8110.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/l2wfimg---6.gif"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "Artificial intelligence of things at the edge"
+    excerpt: "Gartner has predicted that 75% of data will be processed at the edge by 2025, and artificial intelligence of things (AIoT) is moving from concept to reality. Is your enterprise ready? Download this white paper to discover Advantech’s plug-and-play computing platforms and software frameworks that strive to simplify and streamline deployment of new applications in edge and embedded scenarios."
+    publishedDateTime: 2021-07-18T03:33:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1624448833_674.html"
     type: article
     provider:
       name: Bitpipe
       domain: bitpipe.com
     quality: 37
     images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1625173683_215_lg.jpg"
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1624448833_674_lg.jpg"
         width: 315
         height: 408
+        isCached: true
+  - title: "The startup harnessing AI to make your bus arrive on time"
+    excerpt: "A complaint about the inefficiency of manmade decision-making leads to Optibus, a company ensuring smoother travel in 500 cities worldwide."
+    publishedDateTime: 2021-07-20T06:07:00Z
+    webUrl: "https://www.israel21c.org/the-startup-harnessing-ai-to-make-your-bus-arrive-on-time/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 37
+    images:
+      - url: "https://www.israel21c.org/wp-content/uploads/2021/07/johen-redman-unsplash.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "p39fq1KR0fWt0wu8IQBrylrqGFE6cPDiihTUGVlRkkcOQGI3wTgrWRVtgxQeWq66sRmosjGcWOevbfEawmjE68dzonyfYE8rYgg0Db2wsmk9aNZ8JSDnwg+KoKD/278PJ8UemkfeBWhSu5IXA2DLoKdDZIe5qrbYzTn7m00HZENUsl2U9wimJML2gZ4aycA5KzciK1fvkdFQibXOzKsIubjm6d9jssM02j2s/1a1/QgZS23R2T8d7GpAtWJ/nFAJCGQ7z8gKIUB4LhnlyiAiMthP6uMxKMdMQIjJQ9+3ZvQqEWeIq6U0AqR6zFKUgJVuXUEn7sCXlq7x/IHaYdUNmMD2p8FbEvd2Z97hRAGl76Q=;qqNoSCDKiJG2WBrN1Q+rWg=="

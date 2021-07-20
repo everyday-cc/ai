@@ -40,6 +40,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "New hub gives Singapore firms taste of artificial intelligence"
+    excerpt: "A facility offering immersive experiences with artificial intelligence was launched on Monday (July 19) to encourage firms to experiment with and develop AI innovations for their businesses."
+    publishedDateTime: 2021-07-20T06:39:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/07/20/new-hub-gives-singapore-firms-taste-of-artificial-intelligence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/07/20/1226671.jpg"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Southeast Asia's First AI Hub Launched in Singapore"
     excerpt: "AI development could deliver $1 trillion of additional GDP to Southeast Asia by 2030, according to an estimate."
     publishedDateTime: 2021-07-19T07:51:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://theconversation.com/artificial-intelligence-governments-se
 webUrl: "https://theconversation.com/artificial-intelligence-governments-see-huge-business-potential-but-ignore-the-downsides-164645"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1356
     height: 668
     isCached: true
-
-related:
-  - title: "Use of Artificial Intelligence That has Potential Business Value"
-    excerpt: "The use of artificial intelligence in the business market is growing gradually. It has a great potential business value and it is important to implement ethical and responsible AI to bring success in the long run."
-    publishedDateTime: 2021-07-15T15:30:00Z
-    webUrl: "https://www.analyticsinsight.net/use-of-artificial-intelligence-that-has-potential-business-value/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-2.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "75dvb22AZjsuf8ChvHcsKefPZm0vAvIAp4gzi+rI3gPoJ/Q2Ob8fyl/AWihcVYxSZnOF2H87qxKRjRsGG1b3vpFxJv9+9XGvFmeE38q6Kj+D/ZwEfMOpbDj4Fa2PpyiA0BlKu2C7k4gEFs0Iy9W1arE8SV73HqD8KTzMAll7GvP/GL1CLQg7pI10SWwv5LR/0dM68i0X7e8JLkIZeP+BY+CD1VgrZ2NFYLZY8zSpsUcndjl4OfZLJy+g2GOBqYyCYcClH6qb5xkJax7pCiQf71Mvi/voMsLnHFl1CG3DRBn/dxPEURAz0mul0CaUiMqPDffG/5d/E9po2WrWa7Yfk85QWy+E0HTmqOA/a4u5aOcvar2USHxOVIwKrnvFNnFKX2rPkz/4N1/sDRh/pVFY04pBjs/odwUII7oMsjsBkpW+4y7yN0OM4K+JaX7hEAYWHs9vxhW3hyTLlj6PY8FprCWDNh7cpTO3KInf2TlCpVFCZwkjPLpaC21OFRQsmcCsBevMYmrHhVGye/JjYeDJuA==;g80qwfr1DxZ3Fj1vnAJFtA=="
 ---

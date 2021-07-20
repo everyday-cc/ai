@@ -75,20 +75,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Self-driving tech co. Aurora valued at $11 bln in merger deal with SPAC"
-    excerpt: "A benchmark-beating robot thinks AMC will outperform Facebook and GameStop. It likes these other stocks, too. Barron's: 24 Stocks That Could Drop After Earnings This one signal says a stock market correction may be on the way ‘I worry about inflation,’ says BlackRock’s Larry Fink — warns it’s unlikely ‘to be transitory’ Go to the homepage"
-    publishedDateTime: 2021-07-15T13:41:00Z
-    webUrl: "https://www.marketwatch.com/story/self-driving-tech-co-aurora-valued-at-11-bln-in-merger-deal-with-spac-01626356485"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-driving startup Aurora to go public in $13 bln SPAC deal"
     excerpt: "Self-driving technology startup Aurora will go public through a deal with a blank-check firm backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus, giving the combined company a pro-forma market capitalization of $13 billion."
     publishedDateTime: 2021-07-15T17:39:00Z
@@ -149,15 +135,6 @@ related:
         width: 6646
         height: 4430
         isCached: true
-  - title: "Self-Driving Startup Aurora to Go Public in $13 Billion SPAC Deal"
-    excerpt: "By Sohini Podder, Noor Zainab Hussain and Paul Lienert (Reuters) -Self-driving technology startup Aurora will go public through a deal with a blank-check firm backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus,"
-    publishedDateTime: 2021-07-15T13:55:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-07-15/aurora-to-go-public-via-11-billion-merger-with-mark-pincus-reid-hoffman-spac"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "Self-Driving Startup Aurora Innovation Is Going Public: Is It a Buy?"
     excerpt: "Self-driving technology start-up Aurora Innovation said on July 15 that it has agreed to go public via a merger with Reinvent Technology Partners Y (NASDAQ: RTPY), a special-purpose acquisition company (SPAC),"
     publishedDateTime: 2021-07-15T21:45:00Z
@@ -167,20 +144,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "Self-driving startup Aurora plans to go public with valuation of $11 billion"
-    excerpt: "The company anticipates a total valuation of $11 billion. In a statement, Aurora said it expects to have $2.5 billion in cash at closing, raising nearly $2 billion from the transaction. Aurora is led by CEO Chris Urmson,"
-    publishedDateTime: 2021-07-15T14:34:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-aurora-plans-go-public-valuation-11-billion"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 21
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Self-Driving startup Aurora in agreement with Reinvent SPAC"
     excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y."
     publishedDateTime: 2021-07-15T17:06:00Z
@@ -190,20 +153,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 4
-  - title: "In Major Step Toward Commercializing Self-Driving Technology, Aurora to Become a Public Company by Merging with Reinvent Technology Partners Y"
-    excerpt: "Aurora, the self-driving technology company, has entered into a definitive business combination agreement with Reinvent Technology Partners Y (“Reinvent”) (NASDAQ: RTPY), a special purpose acquisition company with the sponsor team that takes a “venture capital at scale” approach to investing."
-    publishedDateTime: 2021-07-15T13:36:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/in-major-step-toward-commercializing-self-driving-technology-aurora-to-become-a-public-company-by/article_16f67af5-8c6c-5a0b-b275-4a8bd02c356f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/a1/1a1294d7-e6c3-5ad0-a0ac-564affde415b/60f03c7e3e51b.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "3GxDuEoRQsr4u4cgjN0O/S1c/YGVGRORkL625ceysOqw1R1nYHP98tRI0i11JOMb/KlcmBKzvU0/CyQU2ky+an6nPr7Kc+nW8hh0GADoXK5FBdBnJ8bQhgrx5Dl3RJAopP5WTukQZfkVWvlyzqn1AWnOF33zIlsLUoN16ldtc0cJdHhMC0UzhX7oO1IA+K80WbjaJKGbgDTqNb/VH6a4m/Uigd7H8/zdEdURWj5VsIsZ/QP0+8s85cMTHLT79LRHFqnWIHB5pN7BGlAJ6XJS33WrzAFJ4vs/e4fXhXcmw8G6SLSXJDFd9hvlgu74UJniw0aWHV57QkQs/wtrwDQ79hrDKKJBBgFbpVVoomozlXZZqv5kgrA0w6qkL7znMCQ2gD0/ULSoLyGpKSxL8BFdEVpn1yu6idoEJjHoHzRin7KKxypaIwrn4GYk9ZmF4cQEVbI65dHx/aJhp87CnPdS+PE4NakqjtYuP6FlPeDlcDd3LxCXBCh1Qz24AkjcaiZ8zpu7ihhM0VX38nBixeKu3w==;OMilS76eIBJv8ydoby2Iwg=="
 ---
