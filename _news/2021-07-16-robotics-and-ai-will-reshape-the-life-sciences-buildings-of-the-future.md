@@ -7,7 +7,7 @@ originalUrl: "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai
 webUrl: "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai-will-reshape-the-life-sciences-labs-of-the-future-109563"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is powering the future of financial services"
+    excerpt: "Financial institutions are using AI-powered solutions to unlock revenue growth opportunities, minimise operating expenses, and automate manually intensive processes. Many in the financial services industry believe strongly in the potential of AI."
+    publishedDateTime: 2021-07-16T16:07:00Z
+    webUrl: "https://www.finextra.com/the-long-read/231/how-ai-is-powering-the-future-of-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/231.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Artificial intelligence of things at the edge"
     excerpt: "Gartner has predicted that 75% of data will be processed at the edge by 2025, and artificial intelligence of things (AIoT) is moving from concept to reality. Is your enterprise ready? Download this white paper to discover Advantech’s plug-and-play computing platforms and software frameworks that strive to simplify and streamline deployment of new applications in edge and embedded scenarios."
     publishedDateTime: 2021-07-18T03:33:00Z

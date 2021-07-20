@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI is powering the future of financial services"
+    excerpt: "Financial institutions are using AI-powered solutions to unlock revenue growth opportunities, minimise operating expenses, and automate manually intensive processes. Many in the financial services industry believe strongly in the potential of AI."
+    publishedDateTime: 2021-07-16T16:07:00Z
+    webUrl: "https://www.finextra.com/the-long-read/231/how-ai-is-powering-the-future-of-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/231.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "N4FZ1tXXdHexj6UVMQ/e/YeJau3q/Nj10ZjAX/Giysg3Y7HTRxETU7KWwKZAx0zTNWURp8evFefUGDeBtwaTJIMyTOX+NugpSUrJn04GzhwPB6KHpAuLLbRdDIR8P6F3xVSlnJF+ECOMd0PmQjnAeZVszkBnOSQF5wef5XQn2It0nXlSoTTjYo7lXN75ZGuS7yPDY0+CpKAzRxCEse44N9OOV+9X0z8fBWn2zcgrKK+KL1+HMUHW7FGQROQrfi2Au+Kry/A2U7jvQ57GxfKLlcHL+4Wbst5OG0d6AbiuyEs/b8WbW4aPmRfIjZlUcI3ts0fzbx7A9+SGE7YhYZKtp8Blfh9b60/WQBUE0gEISqJ5JGw3R5uTleC9TkEqVT9MnJwr0DSUJWW7Uta8LSeX0dA5aARxjsQ2QbTOX+UMh5GZkh0f8ZAmXB731uDi48GfRbfBeJlzn8zhK+OI9LDZYzXLGG2PVfZu0iEsxbw7aBQLSVkLaCTx/VHn71QQUsIfPRKGVSMyglrbGI6j8GZbZw==;52mLWpVdDabzns8Xi6NWbA=="
 ---

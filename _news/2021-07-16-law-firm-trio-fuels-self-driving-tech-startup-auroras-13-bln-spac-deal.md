@@ -93,20 +93,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Self-driving startup Aurora to go public in $13 bln SPAC deal"
-    excerpt: "Self-driving technology startup Aurora will go public through a deal with a blank-check firm backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus, giving the combined company a pro-forma market capitalization of $13 billion."
-    publishedDateTime: 2021-07-15T12:39:00Z
-    webUrl: "https://www.reuters.com/article/innovationNews/idUSKBN2EL1NR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/Xu95E0JZiob2nn0sNFNMHd3_SrU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MA62E5JBJRLM3C7MQOMHMSKXFE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Self-driving tech co. Aurora valued at $11 bln in merger deal with SPAC"
     excerpt: "A benchmark-beating robot thinks AMC will outperform Facebook and GameStop. It likes these other stocks, too. Barron's: 24 Stocks That Could Drop After Earnings This one signal says a stock market correction may be on the way ‘I worry about inflation,’ says BlackRock’s Larry Fink — warns it’s unlikely ‘to be transitory’ Go to the homepage"
     publishedDateTime: 2021-07-15T13:41:00Z

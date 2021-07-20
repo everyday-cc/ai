@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-qu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "CCC Brings Proven AI To Collision Repairers"
-    excerpt: "CCC Intelligent Solutions Inc. (CCC) announces its plan to further enhance CCC ONE®, the collision repair industry's leading estimating platform, incorporating advanced AI into its estimating application later this quarter."
-    publishedDateTime: 2021-07-15T12:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ccc-brings-proven-ai-to-collision-repairers-1030610745"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/552049/CCC_Information_Services_Inc_Logo.jpg"
-        width: 388
-        height: 400
-        isCached: true
   - title: "Using AI to Build More Personal Customer Connections"
     excerpt: "As more brands rely on digital channels like chatbots, messaging apps and email campaigns to build relationships, AI and machine learning are critical in being able to use the big sets of data amassed to create more personalized experiences that demonstrate empathy and authenticity."
     publishedDateTime: 2021-07-16T16:21:00Z
@@ -60,15 +46,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "When Artificial Intelligence Comes to Control"
-    excerpt: "Applications of machine learning and other forms of artificial intelligence have been recognized in robotics and analytics. Now the technology is adding some spice to basic control applications."
-    publishedDateTime: 2021-07-15T13:00:00Z
-    webUrl: "https://www.automationworld.com/factory/iiot/article/21545091/artificial-intelligence-benefits-in-control-applications"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 19
 
 secured: "drG5e4kP1vmD2Gc04/wCS70A0xowEEq3hbhbLLiqBvcVQdUwnD11Qgb1v5+RQMNY3PmP4t2OYnPQICbZ8w7QqGZtgsGWxRQcICUXuqlwus5k0lcg+NpUJAAXQanCtZ/+FDWUfmhZnjOrC3vm3GOk40z4r99SXWAb5hOwWD1ITDDDfJqy33ZQdb7z77s8YU69QwnuDlNFTAtLAe3VugKYix7T6llV6dWFLydc71FpOAUqNlMx8vm5VxVB6+li6i33BQycMTysRFUQP24IwV8hraHVOmuPq9JU4oFMzQGGEuhBOF7+6XJ2KMYrUo1vFDHtOgA520NLkRVAhOEr+xnt7B5nfQhLrPbgqi7VM1XmHyZmgAtp8/PTDeRy5leLagWxjp9uoWkqmqdd8k0x0YZ085juJgQlRKm58CCMB4FhNRcUALi9jnbLJVLCFME3iaIRuohep2beJ2QaeGXtI2N/J0HIjFdIg0dkf1ggjbEaxA/Aj6jE0dey3CRii7GCeHo8F+PXrJ6SHR+44dRej3Rjkw==;8p/6slUIcFx6ietjgbjJOg=="
 ---

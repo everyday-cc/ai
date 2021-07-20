@@ -2,6 +2,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-06-24-appzen-launches-finance-ai-appstore.md",
+      "title": "AppZen Launches Finance AI AppStore",
+      "excerpt": "AppZen, a modern finance AI software platform, announced the launch of the AppZen AppStore Thursday. What Happened: The development comes as AppZen looks to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/fintech/21/06/21696443/appzen-launches-finance-ai-appstore",
+      "originalUrl": "https://www.benzinga.com/fintech/21/06/21696443/appzen-launches-finance-ai-appstore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/pexels-andrea-piacquadio-3774903_0.jpg",
+          "width": 5760,
+          "height": 3840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21696443",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21696443",
+      "publishedDateTime": "2021-06-24T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-walmarts-ai-is-getting-smarter-about-grocery-delivery.md",
       "title": "Walmart’s AI is getting smarter about grocery delivery",
       "excerpt": "It’s no surprise that the coronavirus pandemic has changed the way we shop, especially when it comes to groceries. Grocery delivery apps experienced a record number of downloads in March 2020, and by the following month,",
@@ -1110,40 +1153,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-mind-controlled-robot-helps-disabled-people-visit-family-friends-video.md",
-      "title": "Mind Controlled Robot Helps Disabled People Visit Family, Friends (VIDEO)",
-      "excerpt": "The team used a motorized robot that was controlled via an ECG cap by the user’s thoughts alone. While the robot was in a laboratory at EPFL, disabled folks in Italy, Germany, and Switzerland ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2015/06/mind-controlled-robot-helps-disabled-people-visit-family-friends-video.html",
-      "originalUrl": "https://www.medgadget.com/2015/06/mind-controlled-robot-helps-disabled-people-visit-family-friends-video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

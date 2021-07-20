@@ -7,7 +7,7 @@ originalUrl: "https://en.trend.az/world/other/3456200.html"
 webUrl: "https://en.trend.az/world/other/3456200.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 900
     height: 450
     isCached: true
-
-related:
-  - title: "Rajnath Singh launches grievance analysis app based on Artificial intelligence"
-    excerpt: "Defence Minister Rajnath Singh on Thursday (July 15) launched a mobile application, called CPGRAMS to lodge grievances using artificial intelligence (..|News Track"
-    publishedDateTime: 2021-07-15T11:22:00Z
-    webUrl: "https://english.newstracklive.com/news/rajnath-singh-launches-grievance-analysis-app-based-on-artificial-intelligence-sc1-nu318-ta318-1170881-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/rajnath-singh-launches-grievance-analysis-app-based-on-artificial-intelligence-sc1-nu318-ta318-1170881-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/rajnath-singh-launches-grievance-analysis-app-based-on-artificial-intelligence-sc1-nu318-ta318-1170881-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 53
-    images:
-      - url: "https://media.newstracklive.com/uploads/latest-news/india-news/Jul/15/big_thumb/RahnathSingh_60f01a82ba04e.jpeg"
-        width: 772
-        height: 450
-        isCached: true
 
 secured: "3stmSiB8GO5JPBKNNeENzcB+amihoThHq+FXul5tthp4HB1rvmbw4FVl6s/RVgfVAuA31T37POPSaXGeVjGuDOGrae8mxxWv1mr3nPCQwR6/9JIhm0mDD3XtUApUHw6IP9RR6R3PmjMnsW/Vf+arrQ0jh7K01dwHFSc8TqTsRPfAY4ck5Oc+yulRQ0riCmOSzAEg/gao/BCeN1e5XR7s49H8RHZ6hFk+x0IK8mdJst5IVLqo/K7PMdiceLfw2T/2fAW8DjH6jKWohzID9wAZPr0BWH07h+N2lXCZMzt8aEdftCdVu9YECkN3LwQFT8958NoZ++R5nP/UMNOXIymBObr8Myzrr85cmk8C1nJitok=;XTq6d5YBdz5legrbcWkq1g=="
 ---

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-17-aws-launches-healthlake-to-help-health-care-organizations-query-medical-data.md",
+      "title": "AWS launches HealthLake to help health care organizations query medical data",
+      "excerpt": "AWS has made its cloud -based health care data lake solution, Amazon HealthLake, generally available to customers. With this solution, health care organizations can pull medical information from different sources into a single environment and use it to improve patient care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query",
+      "originalUrl": "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1578930668/itpro/2020/01/Doctor_using_AI_to_support_diagnosis.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp",
+      "publishedDateTime": "2021-07-16T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey.md",
       "title": "A quarter of Taiwanese companies are well into their AI journey",
       "excerpt": "At least a quarter of Taiwanese companies have begun AI deployments, according to the latest State of Taiwan Enterprise AI report.",
@@ -685,7 +737,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/377515",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1120,7 +1172,7 @@
       "originalUrl": "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai-will-reshape-the-life-sciences-labs-of-the-future-109563",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1153,39 +1205,6 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-latest-qld-covid-19-exposure-sites-full-list-of-queensland-coronavirus-hotspots-and-case-location-alerts.md",
-      "title": "Latest Qld Covid-19 exposure sites: full list of Queensland coronavirus hotspots and case location alerts",
-      "excerpt": "Here are the current coronavirus hotspots and Covid-19 public exposure sites in Queensland and what to do if you’ve visited them.",
-      "sourceUrl": null,
-      "webUrl": "https://spectrum.ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong",
-      "originalUrl": "https://www.msn.com/en-au/news/australia/latest-qld-covid-19-exposure-sites-full-list-of-queensland-coronavirus-hotspots-and-case-location-alerts/ar-AAMcLn6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T17:01:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong",
-        "domain": "ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

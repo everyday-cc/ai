@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/377515"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377515"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
     quality: 76
     images:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1626678981-MrVikalpSahniFounderCEOEkaCarev1.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Agritech Startup Aqgromalin Secures Seed Funding Led By Zephyr Peacock"
-    excerpt: "The round also includes participation from IndigramLabs Foundation and other noted angels from the agri startup ecosystem ... solutions for animal husbandry and aquaculture with AI deep learning inference. It is also building a blockchain-based ..."
-    publishedDateTime: 2021-07-15T11:50:00Z
-    webUrl: "https://www.entrepreneur.com/article/377388"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/377388"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377388"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 72
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1626349517-MrPrasannaandMrBharani.jpg?width=600&crop=16:9"
         width: 600
         height: 338
         isCached: true

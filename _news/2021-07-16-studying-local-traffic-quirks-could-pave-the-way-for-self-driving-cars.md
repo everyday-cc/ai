@@ -97,22 +97,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Every city’s drivers have quirks. Studying them could make self-driving cars work anywhere"
-    excerpt: "Yet the driverless technology company Argo AI ... and make sure its artificial intelligence systems deeply understand them — not just where the street signs, traffic lights and road markings ..."
-    publishedDateTime: 2021-07-15T12:03:00Z
-    webUrl: "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi"
-    ampWebUrl: "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 34
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/d529abf/2147483647/strip/true/crop/3675x2400+99+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fad%2F63%2Fd92aa29e48eabebaa8aaf2e1e399%2Fimage-16.jpg"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Every city's drivers have quirks. Studying them could make self-driving cars work anywhere"
     excerpt: "To understand why it's so hard to make a car that drives itself, pay attention to how people cross the street next time you travel. In Los Angeles, pedestrians wait"
     publishedDateTime: 2021-07-16T08:15:00Z

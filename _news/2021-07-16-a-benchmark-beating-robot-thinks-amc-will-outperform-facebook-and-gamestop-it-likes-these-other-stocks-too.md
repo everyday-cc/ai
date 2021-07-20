@@ -42,15 +42,6 @@ related:
         height: 1473
         isCached: true
   - title: "A benchmark-beating robot thinks AMC will outperform Facebook and GameStop. It likes these other stocks, too."
-    excerpt: "An exchange-traded fund run by artificial intelligence bought AMC stock at the beginning of July, preferring shares in the cinema chain and retail investor favorite over the likes of Facebook or ... exacting analysis of our research processes."
-    publishedDateTime: 2021-07-15T11:25:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20210715263/a-benchmark-beating-robot-thinks-amc-will-outperform-facebook-and-gamestop-it-likes-these-other-stocks-too"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 2
-  - title: "A benchmark-beating robot thinks AMC will outperform Facebook and GameStop. It likes these other stocks, too."
     excerpt: "An exchange-traded fund run by artificial intelligence bought AMC stock at the beginning of July, preferring shares in the cinema chain and retail investor favorite over the likes of Facebook or Walmart."
     publishedDateTime: 2021-07-17T18:45:00Z
     webUrl: "https://www.morningstar.com/news/marketwatch/20210717365/a-benchmark-beating-robot-thinks-amc-will-outperform-facebook-and-gamestop-it-likes-these-other-stocks-too"

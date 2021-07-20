@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-20-shenzhen-emerges-as-chinas-robotaxi-capital-as-deeprouteai-opens-public-trials-in-tech-hub.md",
+      "title": "Shenzhen emerges as China’s robotaxi capital as DeepRoute.ai opens public trials in tech hub",
+      "excerpt": "The local legislature in Shenzhen is currently reviewing a draft of regulations on intelligent and connected vehicles, likely to be a guide for country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "originalUrl": "https://www.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/07/19/83671b14-e883-11eb-b928-713afa0cd390_image_hires_192708.jpg?itok=y-seTOmz&v=1626694036",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "publishedDateTime": "2021-07-19T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-18-tesla-offers-full-self-driving-capability-as-a-subscription.md",
       "title": "Tesla offers Full Self-Driving Capability as a subscription",
       "excerpt": "It’s looking more and more like the future of buying an automobile will include features that you have to pay for each month. We have seen several automakers offer subscriptions to services",
@@ -254,7 +306,7 @@
       "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 215,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -306,7 +358,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1411,59 +1463,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-elon-musk-tesla-to-release-new-ui-with-mind-of-car-view-coming-to-cars-with-fsd-computer.md",
-      "title": "Elon Musk: Tesla to release new UI with ‘mind of car’ view coming to cars with FSD computer",
-      "excerpt": "Elon Musk: has confirmed that Tesla will release a new user interface with its upcoming FSD v9 Beta software update. The updated UI will have something that the CEO referred to as “mind of car’ view.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/",
-      "originalUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/amp/",
-      "publishedDateTime": "2021-07-06T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

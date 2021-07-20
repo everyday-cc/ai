@@ -42,29 +42,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "CCC Brings Proven AI To Collision Repairers"
-    excerpt: "CCC Intelligent Solutions Inc. (CCC) announces its plan to further enhance CCC ONE®, the collision repair industry's leading estimating platform, incorporating advanced AI into its estimating application later this quarter."
-    publishedDateTime: 2021-07-15T12:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ccc-brings-proven-ai-to-collision-repairers-1030610745"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/552049/CCC_Information_Services_Inc_Logo.jpg"
-        width: 388
-        height: 400
-        isCached: true
-  - title: "When Artificial Intelligence Comes to Control"
-    excerpt: "Applications of machine learning and other forms of artificial intelligence have been recognized in robotics and analytics. Now the technology is adding some spice to basic control applications."
-    publishedDateTime: 2021-07-15T13:00:00Z
-    webUrl: "https://www.automationworld.com/factory/iiot/article/21545091/artificial-intelligence-benefits-in-control-applications"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 19
 
 secured: "tOyYNYfjd4DJ30XRhFk8w22jAT6IYiiBy6zLev7BSo693ISca9QBMHpGCv0XIjwthvrzmJV2TpUewnZ7Y/uTr8uzNk4XqZtN8QN4jq1qO6iRgjXTKl3u1zRdZWQh8f3qIn2pX4ywvUnhH++LQfwiLZtPKjcNQQTyMuGHE/nr8omqF1OqMY2Vg4BltSnwJ9HHD4alAaHluwQpCXyCDamAr15hhvc5accPeRG2tHEFJ7hotg7l98KKwW4kKndv5snk9Noua3Js11/zJ0yjqYrw/OYygBHqs37//j6WCNUlc1xthLkNje5fztrGM+ZV6oqzmk6DBegSV3vAJ1ZzouQdQM3S2UkeVipKAH6gV4/Yn50=;N0KH9AYOoi79mDZ8xBGyag=="
 ---

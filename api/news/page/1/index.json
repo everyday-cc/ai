@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-20-shenzhen-emerges-as-chinas-robotaxi-capital-as-deeprouteai-opens-public-trials-in-tech-hub.md",
+      "title": "Shenzhen emerges as China’s robotaxi capital as DeepRoute.ai opens public trials in tech hub",
+      "excerpt": "The local legislature in Shenzhen is currently reviewing a draft of regulations on intelligent and connected vehicles, likely to be a guide for country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "originalUrl": "https://www.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/07/19/83671b14-e883-11eb-b928-713afa0cd390_image_hires_192708.jpg?itok=y-seTOmz&v=1626694036",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "publishedDateTime": "2021-07-19T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-ai-powered-deep-neural-nets-increase-accuracy-for-credit-score-predictions.md",
       "title": "AI-powered deep neural nets increase accuracy for credit score predictions",
       "excerpt": "Credit Karma's CTO discussed migrating to the cloud and adopting machine learning to improve personalized recommendations.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/19/ai-powered-deep-neural-nets-increase-accuracy-for-credit-score-predictions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -61,7 +113,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/19/supply-chain-threats-demand-industrywide-approach-to-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1190,57 +1242,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-edtech-startup-braingroom-raises-inr-15-cr-from-ian-social-alpha-and-startup-oasis.md",
-      "title": "Edtech Startup Braingroom Raises INR 1.5 Cr From IAN, Social Alpha And Startup Oasis",
-      "excerpt": "The startup will use the funding to add more components to the ... It is one of the very few multilingual online learning platforms in India to use AI Chatbots and Gamification to create a completely personalized learning experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/377702",
-      "originalUrl": "https://www.entrepreneur.com/article/377702",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1626684960-john-schnobrich-FlPc9-VocJ4-unsplash2.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/377702",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377702",
-      "publishedDateTime": "2021-07-19T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
