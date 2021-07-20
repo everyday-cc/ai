@@ -24,6 +24,36 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia releases TensorRT 8 for faster AI inference"
+    excerpt: "The latest version of Nvidia's software development kit for AI inference speeds up inference performance with certain models."
+    publishedDateTime: 2021-07-20T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/"
+    ampWebUrl: "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/07/MVIMG_20190318_133330_1-e1588214925726.jpg?fit=800%2C600&strip=all"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "NVIDIA Stock – Graphcore’s AI chips may not be as powerful as Nvidia’s GPUs, but may provide good bang for your buck • The Register"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-07-17T11:49:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidia-stock-graphcores-ai-chips-may-not-be-as-powerful-as-nvidias-gpus-but-may-provide-good-bang-for-your-buck-the-register/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/graphcore_ipu_650.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Nvidia accelerates AI inference performance with TensorRT 8 boosts"
     excerpt: "Nvidia Corp. is speeding up artificial intelligence inference with the launch of the next generation of its TensorRT software today. TensorRT 8 is the eighth iteration of Nvidia’s popular AI software that’s used for high-performance deep learning inference."
     publishedDateTime: 2021-07-20T13:00:00Z
@@ -32,7 +62,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/TensorRT-8-Press-Graphic.jpg"
         width: 2048

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dotmatics Announces Support for the AWS for Health Initiative"
+    excerpt: "Dotmatics has announced support for the AWS for Health initiative from Amazon Web Services (AWS) to improve laboratory efficiency and accelerate the pace of scientific innovation by facilitating more rapid data access,"
+    publishedDateTime: 2021-07-20T15:07:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/product-news/dotmatics-announces-support-for-the-aws-for-health-initiative-351111"
+    ampWebUrl: "https://www.technologynetworks.com/informatics/product-news/amp/dotmatics-announces-support-for-the-aws-for-health-initiative-351111"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/product-news/amp/dotmatics-announces-support-for-the-aws-for-health-initiative-351111"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
+        width: 389
+        height: 389
+        isCached: true
   - title: "Veritas Announces Support for AWS for Health Initiative"
     excerpt: "Veritas Technologies, a global leader in enterprise data protection, today announced support for the AWS for Health initiative from Amazon Web Services (AWS) to accelerate cloud adoption within healthcare."
     publishedDateTime: 2021-07-16T01:38:00Z
@@ -41,15 +57,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Pariveda Solutions Announces Support for AWS for Health Initiative"
-    excerpt: "Pariveda has an offering that uses Amazon Comprehend Medical and Transcribe Medical to develop Natural Language Processing (NLP) solutions for healthcare systems, to support a seamless and compliant experience for the patient and the doctor during a ..."
-    publishedDateTime: 2021-07-15T23:58:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/pariveda-solutions-announces-support-for-aws-for-health-initiative/article_cc361407-b7c8-5fdd-9b30-1b203c2e176a.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
 
 secured: "aNXmA5g4UR7Pd03IqHN1BgX1+ztsWms83hgSSvkkvwWESxvUD6SVvyJgZjDKHoFlioH3uIV1osA2QlnCuuslKdvYMoanmAzzYW0NCW/v0KyZrn9dH75LINHAh+JCXgPq3Kq02H2ESZM09uQEYLxwioU9X8S3md4mBgt6sNVaw07fE4inw90bkHhXrrRTlWd4LejYBzE/kM2421MEkKUfokS2sS79dRQVm+uDpytLX64C7PYzBJzbKOUthJOi4LUhB0U2qHocEMduvAGXSJ8vJTcrnSKjBX0APdejK9loUoIlOY0Jq/x4W1Oc4wJJjCDVhfRj+G/eeQdRDE6oTeoQjgqsanECywnFaWYEmQaLSkA=;pTlxkq3Nqp2G7aTldPA07A=="
 ---

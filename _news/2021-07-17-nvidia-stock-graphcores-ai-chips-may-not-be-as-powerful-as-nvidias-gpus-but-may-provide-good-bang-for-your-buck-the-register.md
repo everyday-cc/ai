@@ -25,33 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA: Technological Journey for Dominating the Evolving AI Chips"
-    excerpt: "This article describes how despite facing challenges and concerns from multiple tech giants across the world NVIDIA will keep dominating the AI chips market through advanced GPUs with Artificial Intelligence and machine learning algorithms."
-    publishedDateTime: 2021-07-20T13:30:00Z
-    webUrl: "https://www.analyticsinsight.net/nvidia-technological-journey-for-dominating-the-evolving-ai-chips/"
+  - title: "Nvidia releases TensorRT 8 for faster AI inference"
+    excerpt: "The latest version of Nvidia's software development kit for AI inference speeds up inference performance with certain models."
+    publishedDateTime: 2021-07-20T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/"
+    ampWebUrl: "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/NVIDIA-and-the-battle-for-the-future-of-AI-chips.jpg"
-        width: 900
-        height: 500
+      - url: "https://venturebeat.com/wp-content/uploads/2019/07/MVIMG_20190318_133330_1-e1588214925726.jpg?fit=800%2C600&strip=all"
+        width: 800
+        height: 400
         isCached: true
-  - title: "U.S. chipmaker Nvidia to provide AI platform for Chinese EV start-ups"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-07-19T15:11:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_xpeng-nyse-xpev/u-s-chipmaker-nvidia-to-provide-ai-platform-for-chinese-ev-start-ups/"
+  - title: "Nvidia accelerates AI inference performance with TensorRT 8 boosts"
+    excerpt: "Nvidia Corp. is speeding up artificial intelligence inference with the launch of the next generation of its TensorRT software today. TensorRT 8 is the eighth iteration of Nvidia’s popular AI software that’s used for high-performance deep learning inference."
+    publishedDateTime: 2021-07-20T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/07/20/nvidia-accelerates-ai-inference-performance-tensorrt-8-optimizations/"
     type: article
     provider:
-      name: fintechzoom
-      domain: fintechzoom.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 39
     images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/m02d20181121t2i1327287338rLYNXNPEEAK0NTw800.jpeg"
-        width: 800
-        height: 516
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/TensorRT-8-Press-Graphic.jpg"
+        width: 2048
+        height: 1024
+        isCached: true
+  - title: "TensorRT 8 Provides Leading Enterprises Fast AI Inference Performance"
+    excerpt: "NVIDIA today launched TensorRT™ 8, the eighth generation of the company’s AI software, which slashes inference time in half for language queries -- enabling developers to build the world’s best-performing search engines,"
+    publishedDateTime: 2021-07-20T13:30:00Z
+    webUrl: "https://insidebigdata.com/2021/07/20/tensorrt-8-provides-leading-enterprises-fast-ai-inference-performance/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2021/07/NVIDIA_fig1.png"
+        width: 700
+        height: 395
         isCached: true
 
 secured: "zRqbxP1Jli7RZUgae0IF+kurlUooumHumbvKYSN33g32M+5F4K52w/M3aHi7PzSqCqvLpK0C0LmDfu2RKdfEVDdSZtQjI0mURZawIvPzawmCLz8P0LPdcyCqeYRVD6k/6v8ibmUbNj7KWSQKiohZxTpy6hk8hGEEWU0cEEpfacewe0iunI82QInmjMABBhkYYq8bHRvL6oK9ohDKSbRaN46Q96zmAUtD8Uwt926udiiz/tctzEEmglA4LgHLN43hBRwOVHMCAsg2RBE82yAelO/aK1Mb4cQTX7X/aK7R7zgGkSe6B/sqP59+zPS8biJjUSet5fdUnaT7HlEFl5vAeuumxW9Rx49oWa3tn5+7lHjycb5gaGQ0ei2kDecvUTLy1Ed8FNEuHOl//tNl8OaFmsOneuuVeVYvdOCB9l41Ey9oRcOX07XA6ivDCtvPWdQSnDuXqgfdbhsif+KG+MCCdo5GZvv6Q9rnQns9SAURKVS6G+s3rntyhnNeL6X8l42APfR+RVxwDdLbG0bpc1w28g==;i+4jWuuKnTuLYkVCke4sVA=="

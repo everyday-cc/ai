@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Lantern Pharma Announces Significant Positive Preclinical Data in Pancreatic Cancer With Drug Candidate LP-184"
-excerpt: "Additional positive data on the efficacy and potency of LP-184 was gathered from 6 pancreatic cancer cell lines, and an additional 5 patient-derived xenograft (PDX) ex-vivo tumor models. Significant reduction of cancer cells and cancer cell growth was observed across all pancreatic cancer cell lines and PDX models that were tested in the study with IC50 values being in the nanomolar range (45-270 nM)."
-publishedDateTime: 2021-07-20T11:50:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-lantern-pharma-announces-significant-positive-preclinical-data-pancreatic-/2021/07/20/9412443.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-lantern-pharma-announces-significant-positive-preclinical-data-pancreatic-/2021/07/20/9412443.htm"
+excerpt: "PRNewswire/ -- Lantern Pharma (NASDAQ:LTRN), a clinical stage biopharmaceutical company using its proprietary RADR® artificial intelligence"
+publishedDateTime: 2021-07-20T11:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/n22056896/lantern-pharma-announces-significant-positive-preclinical-data-in-pancreatic-cancer-with-drug-cand"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/n22056896/lantern-pharma-announces-significant-positive-preclinical-data-in-pancreatic-cancer-with-drug-cand"
+ampWebUrl: "https://www.benzinga.com/amp/content/22056896"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22056896"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1577206/LP_184_demonstrated_significant_tumor_shrinkage.jpg"
-    width: 400
-    height: 385
+  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png"
+    width: 1200
+    height: 600
     isCached: true
 
-secured: "0TSlxIjP0IJxmLm5jHxJMsi4uLpsAm6hvPNRFMAgxsQLhIuCDWxa7q5RriAfoibdHo2VUeyC5QYN0swB6foUyTYQMPOr/80DxhhJTtq5sFR9nI6sQDPniDcqsUzP5fnquttdohOlGRP8v4KPxDdBWiD4cX6iDJB4riWt62BCcfJjEYRtKVNamNmQ3YZdiM1EAio1ilY2iCjM01kt6+4ZIfaHRBDVSYwGDKDEy7nx/H9bmhzR4sIVy4bhqYeOCksZgKKMHi/b/KOVUd+qIqW8Vns3v9ECP/1K/ec2m/NnSjeC/0/doG5dJkML+ELsXIM8aYlQGv6D7ziZ+idsfqeefwxdjoUedNkw/LKXl/U9eRdpC6HdZOewYVskJLCxIrV6rtp/kARSyzx4dqWZffhHnLVGwwrxwykHOOxFqc7JRv4ppQFUwjqEroy8xs6GFOVpTClWA+CETsz60RMSrOdtiHYn07O7pBhnWZxoTdlamXuGRjo7zb/mcOTlNVBhGjnJ426HlFTstFmSYE0bqnKqdA==;LDp8Hj4FKOlAVUKTz//BMg=="
+secured: "ZLB3RY3hBnX9lNcIhfirZ7q+RFEhWQmljouRpKRxPqBlcHPFO1le+EgpJxTuVbK/k4qJbsiCrkxJGLc+gYlGKjoBE+Up6X9ytxSPDvM50t8bpy1xOR9l/Aoq0YYjAv57+jPhBLV/5Zxh1EhFGHtyHWqZmCo5DbKEmsssJ42XP5NjL97lwXbTrDgmtYTZnqxkjJs2XHaWecK4ryLuE0pMpAZ/Pg/bBAR1SPfZQgSCM4UDcNvvyPfNvGqTG8/7swV7kgD7Owv/1w4IM14jj1Db15Sn1f1N8vg6cR8Q5jaS8NML8Ji12k70bOSRkJg7W1Gu6yDG+hkoDrS1SsK3NNMy+wPsLWWuRtTBc6L2Up6kghI=;rMLHmaIHBY7nGngnzRBRVg=="
 ---
 

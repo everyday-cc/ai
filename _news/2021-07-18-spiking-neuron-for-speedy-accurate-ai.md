@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/business-tech/spiking-neuron-fo
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/business-tech/spiking-neuron-for-speedy-accurate-ai/article35392642.ece/amp/"
 type: article
 quality: 57
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.mos.ru/upload/newsfeed/newsfeed/pyls_neirosetitochniidiagnoz_samarin(27).jpeg"
         width: 1596
         height: 798
+        isCached: true
+  - title: "Radical Artificial Intelligence Plan To Speed Hunt For Housing Sites"
+    excerpt: "A switch to artificial intelligence in the hunt for new housing sites offers just that, according to a proptech startup that has won a contract with Birmingham City Council. Birmingham City Council has chosen Urban Intelligence to undertake a citywide review of land for homes,"
+    publishedDateTime: 2021-07-20T16:39:00Z
+    webUrl: "https://www.bisnow.com/london/news/land/ai-plots-development-in-birmingham-109602"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 37
+    images:
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F09%2F59cbf1b1b906c_8384110298_da510e0347_b.jpeg&width=1200&sign=-msvHvaXfrcws-7jqq4oiTOt5KadOh_xFFzOic6ed6A"
+        width: 792
+        height: 540
         isCached: true
   - title: "IIT Delhi Researchers Demonstrate a New Brain-inspired Artificial Neuron for Building Accurate and Efficient Neuromorphic AI Systems"
     excerpt: "Human brain is one of the most powerful and intelligent natural computer known to mankind. Neuromorphic computing refers to the field of technology where engineers try to build intelligent machines in"

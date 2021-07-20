@@ -67,38 +67,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Black teen forced to leave skating rink after facial recognition tech misidentifies her"
-    excerpt: "A local roller skating rink in Michigan has come under fire using facial recognition software that misidentified a Black teenager."
-    publishedDateTime: 2021-07-16T00:13:00Z
-    webUrl: "https://thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/"
-    ampWebUrl: "https://thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 51
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/07/LamyaRobinson.Screenshot-scaled.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Black Girl Banned From Michigan Skating Rink After Facial Recognition Software Misidentifies Her"
-    excerpt: "Recently, a Black teenager was removed and banned from a Livonia, Mich. skating rink. The teen and her parents say the business’ facial recognition software mistook her for another Black girl who had gotten into a brawl there prior to the incident."
-    publishedDateTime: 2021-07-15T23:30:00Z
-    webUrl: "https://www.theroot.com/black-girl-banned-from-michigan-skating-rink-after-faci-1847302114"
-    ampWebUrl: "https://www.theroot.com/black-girl-banned-from-michigan-skating-rink-after-faci-1847302114/amp"
-    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-girl-banned-from-michigan-skating-rink-after-faci-1847302114/amp"
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 46
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/b34fba5a658cdfb01b5a7bfb43c6cd9a.jpg"
-        width: 800
-        height: 452
-        isCached: true
   - title: "Black Girl Banned From Michigan Skating Rink Because Facial Recognition Software Misidentified Her"
     excerpt: "Lamya Robinson was asked to leave a Livonia, Mich. skating rink because the facial recognition software mistook her for a different Black girl."
     publishedDateTime: 2021-07-16T22:35:00Z
@@ -114,20 +82,6 @@ related:
       - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/07/Lamya-Robinson-fox-2-detroit-black-enterprise.jpg"
         width: 932
         height: 524
-        isCached: true
-  - title: "Skating Rink Boots Black Teen Misidentified by Facial Recognition System"
-    excerpt: "In what civil rights advocates on Thursday framed as yet another example of the need for reforms by companies and governments alike, an ice skating rink in Michigan turned away a Black teenager after its facial recognition system misidentified her as ..."
-    publishedDateTime: 2021-07-16T00:18:00Z
-    webUrl: "https://www.commondreams.org/news/2021/07/15/skating-rink-boots-black-teen-misidentified-facial-recognition-system"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 38
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-07/lamya-facialrec-2600x1361.jpg?h=762e2cd3&itok=E1oamldt"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "3HA/7HEUyCPWCBj6TNRqLvzB7l76Xy4+8en3ZxKPWmTqGBXxr8N3q6qd+LIJ8MG1aaN9SCdxbc1xxQGzXdRiTT54gG8umMiT4YjUgXj91ZttSxZOgxxJhGDEppov02dglgT0PrQSqKZadrO1ZBrpNRj90CDC8FdStrza0a6tgI0JrlojIK+dGjOOaRfuJZHxgpUyNedeBYwUyYGHlKkbGI+KUrTdFBbnpIoRBwIHX7CoRqkzMc9n9H5pq/mSbbjlHZR+8AztndeqsLML3/N9zsT3GqPUAH+0YAzX0QR5bjNyidh8p9PDOJrDzplsqvWUDjk5WyVwg+V2Q0lH3mFICuXxJIr1Iatvpe3L4jZL4+mYSQxNctb+lCWJNoqYOdY3ImRc++ky2XxvPzDQ80Oce7VcRANrHD5AVmXx+E0/7VDs4cmJ2UpRT4OXtcX1wNljoFNon9sxMzCL+Feg2JFe34gvJjo1isjxNqOS9X5zrP6Z7K4g1P9Kg9BkG6so80UsCC7gp6FftnF0FDS9m7Aq3Q==;510ytD+cg/226yQ//0r0FA=="

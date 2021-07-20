@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Deep Learning market size is projected to reach USD 11910 million by 2026 - Valuates Reports"
+    excerpt: "The global Deep Learning market size is projected to reach US 11910 million by 2026 from US 2671 2 million in 2019 at a CAGR of 23 6 during 2021 2026 The deep learning market has been segmented on the"
+    publishedDateTime: 2021-07-20T16:40:00Z
+    webUrl: "https://www.openpr.com/news/2333097/global-deep-learning-market-size-is-projected-to-reach-usd-11910"
+    ampWebUrl: "https://www.openpr.com/amp/2333097/global-deep-learning-market-size-is-projected-to-reach-usd-11910"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333097/global-deep-learning-market-size-is-projected-to-reach-usd-11910"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 45
+    images:
+      - url: "https://cdn.openpr.com/U/7/U720217744_g.jpg"
+        width: 800
+        height: 466
+        isCached: true
   - title: "Neuromorphic AI Semiconductor Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2027"
     excerpt: "The Neuromorphic AI Semiconductor market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
     publishedDateTime: 2021-07-19T13:17:00Z

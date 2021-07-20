@@ -59,6 +59,20 @@ related:
         width: 1596
         height: 798
         isCached: true
+  - title: "Radical Artificial Intelligence Plan To Speed Hunt For Housing Sites"
+    excerpt: "A switch to artificial intelligence in the hunt for new housing sites offers just that, according to a proptech startup that has won a contract with Birmingham City Council. Birmingham City Council has chosen Urban Intelligence to undertake a citywide review of land for homes,"
+    publishedDateTime: 2021-07-20T16:39:00Z
+    webUrl: "https://www.bisnow.com/london/news/land/ai-plots-development-in-birmingham-109602"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 37
+    images:
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F09%2F59cbf1b1b906c_8384110298_da510e0347_b.jpeg&width=1200&sign=-msvHvaXfrcws-7jqq4oiTOt5KadOh_xFFzOic6ed6A"
+        width: 792
+        height: 540
+        isCached: true
 
 secured: "+ApuJ52M97li3j2zT56VEriZ4CyAbopiVsUWKJbMcafG4InWsvc513diLxmEZVMNR2nNUUo1VJ++KrZDhIoxz1KbxndOF/ztDPXB8wVwo93h/EhxJZTzm5GOoHvN7vctdoJJ0NlYAGk6lBnT5XDZvqVc/OsPEJzVHBndRO4TeJmxJ6BmGrUHXoRiyfE7bC8vDkFl+Ui7rTN+zWAb8Ti8F20u3KBUC0uoGF2seIJKgFV7ylrEfkEQmkMRg3ZxCarx3GSqXd821DXTFScHCviHTLLnvEd82QPRUil8Hwns1EmAav8wI+cgysjJs89SysMx9CO2RbibmJiDVFKQSKfsfaM/Z6Qm0fIT5/ISlJF9ir5nQ04Yxe1RU2TUvXlcp053TO26GUik9G0D07r2CfmAkdbKoC8ORq170T9SYmN/c4+mgD6DAGNgjuV8YkG/G2IPmSUwYf/Na0oFdlTcJpVgGeESdVLTnVClwr3e3smIL0D1FhdcEGJ9bBrrbLD0g/VkNTsXwTKPChuyB0rRz+I+XA==;KepvxwV33H5/tVZVqpA56A=="
 ---

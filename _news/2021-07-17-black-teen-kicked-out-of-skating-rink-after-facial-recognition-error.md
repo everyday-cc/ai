@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/black-teen-kicked-out-of-skatin
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
 type: article
 quality: 89
-heat: 159
+heat: 129
 published: true
 
 provider:
@@ -61,38 +61,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Black teen forced to leave skating rink after facial recognition tech misidentifies her"
-    excerpt: "A local roller skating rink in Michigan has come under fire using facial recognition software that misidentified a Black teenager."
-    publishedDateTime: 2021-07-16T00:13:00Z
-    webUrl: "https://thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/"
-    ampWebUrl: "https://thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 51
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/07/LamyaRobinson.Screenshot-scaled.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Black Girl Banned From Michigan Skating Rink After Facial Recognition Software Misidentifies Her"
-    excerpt: "Recently, a Black teenager was removed and banned from a Livonia, Mich. skating rink. The teen and her parents say the business’ facial recognition software mistook her for another Black girl who had gotten into a brawl there prior to the incident."
-    publishedDateTime: 2021-07-15T23:30:00Z
-    webUrl: "https://www.theroot.com/black-girl-banned-from-michigan-skating-rink-after-faci-1847302114"
-    ampWebUrl: "https://www.theroot.com/black-girl-banned-from-michigan-skating-rink-after-faci-1847302114/amp"
-    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-girl-banned-from-michigan-skating-rink-after-faci-1847302114/amp"
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 46
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/b34fba5a658cdfb01b5a7bfb43c6cd9a.jpg"
-        width: 800
-        height: 452
-        isCached: true
   - title: "Black Girl Banned From Michigan Skating Rink Because Facial Recognition Software Misidentified Her"
     excerpt: "Lamya Robinson was asked to leave a Livonia, Mich. skating rink because the facial recognition software mistook her for a different Black girl."
     publishedDateTime: 2021-07-16T22:35:00Z
@@ -120,20 +88,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 39
-  - title: "Skating Rink Boots Black Teen Misidentified by Facial Recognition System"
-    excerpt: "In what civil rights advocates on Thursday framed as yet another example of the need for reforms by companies and governments alike, an ice skating rink in Michigan turned away a Black teenager after its facial recognition system misidentified her as ..."
-    publishedDateTime: 2021-07-16T00:18:00Z
-    webUrl: "https://www.commondreams.org/news/2021/07/15/skating-rink-boots-black-teen-misidentified-facial-recognition-system"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 38
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-07/lamya-facialrec-2600x1361.jpg?h=762e2cd3&itok=E1oamldt"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "OaveP6IsnasWF52DdKg9mpJ4PS9wLHpF7J2nimuhXoKgrHG1pDNTAP5UO0uIcKrvUA/Fyf2Q45YkVw/xcFPpCpt1Yos+Jc2LN3/dxMN61tyhePv0raMmxRLoYyrZbABLQVJPMirZz070ZPDMrcxqASXSKrR7x036tXYj7+LqGwe15BkC43H997gLwPQY1Ev3AC4T0Sf0UOw3rfn7xOqErs/RpiJqLOvSAN3fkSFylxpK+cnqc2LN0NzA4awGdR9ScXZE4l9MyqA4CvXf84my4gmE1p/L9JrbuXiuvY8JRIBFIFg6wdG/CSsTnjVFY+SdQ6gQoWyah7zyhYw5N+Rd1k9KwxBUFT2stDmYEw2QMr/5ivdop6jgY6hhl31nhwOTlMOPLpD7yeg2pnzAYvGFZe1kInFyoWMYu4WIRGeIa6N6rIIwhF5HRf30XY/J38PmXojyMvrPCWwV62USj+lMxFTCuSqTOzmxkYRqCNGgkQswZfbm9cLUfzvhqjx5Ux9e5Z/LjTCXhGc6B8pGeM7CQg==;c9MN/kaxTv/Xm+aTCDBXWQ=="
 ---

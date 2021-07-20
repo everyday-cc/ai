@@ -1,30 +1,48 @@
 ---
 category: news
 title: "Qualcomm beefs up artificial intelligence team with purchase of Twenty Billion Neurons"
-excerpt: "Small Canadian outfit backed by Microsoft's venture arm developed avatars that interact with people in a human-like way"
-publishedDateTime: 2021-07-19T23:06:00Z
-originalUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-07-19/qualcomm-beefs-up-artificial-intelligence-team-with-asset-purchase-of-twenty-billion-neurons"
-webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-07-19/qualcomm-beefs-up-artificial-intelligence-team-with-asset-purchase-of-twenty-billion-neurons"
-ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-07-19/qualcomm-beefs-up-artificial-intelligence-team-with-asset-purchase-of-twenty-billion-neurons?_amp=true"
-cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-07-19/qualcomm-beefs-up-artificial-intelligence-team-with-asset-purchase-of-twenty-billion-neurons?_amp=true"
+excerpt: "Qualcomm said Monday that it recently acquired the assets of Twenty Billion Neurons, a Microsoft-backed artificial intelligence/computer vision startup that develops avatars that can see and interact with people in a human-like way."
+publishedDateTime: 2021-07-20T16:11:00Z
+originalUrl: "https://techxplore.com/news/2021-07-qualcomm-beefs-artificial-intelligence-team.html"
+webUrl: "https://techxplore.com/news/2021-07-qualcomm-beefs-artificial-intelligence-team.html"
+ampWebUrl: "https://techxplore.com/news/2021-07-qualcomm-beefs-artificial-intelligence-team.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-qualcomm-beefs-artificial-intelligence-team.amp"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/b14ce83/2147483647/strip/true/crop/2436x1591+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7e%2F02%2F058df64e4823bfaab3822fe38be5%2Fsd-photos-freelance-contract-790075-sd-me-workplace-rules-nl-001-m.jpg"
-    width: 320
-    height: 209
+  - url: "https://scx2.b-cdn.net/gfx/news/2019/qualcomm.jpg"
+    width: 678
+    height: 349
     isCached: true
 
-secured: "uWULpDnY7MFJg2YIsUhSb89lYTP6/xPA7XekQyK9l+QOJfjnVNMooRprG5v9s5OouOBAtvuO1SZPrpIfXFbvM8qT/jhq4nc45mhX4mLa148xCG3XX+IXz+pf6mL6wfisFqhEc2mipMRt4Vxl+hectI7p/ErCu4gPQX/5lixS6lV7vnQlAcuVeSTW3A0/d/7kJtRmn/WV9KvtVjcWxcUtSFSE9P4dLeuYMj0kIEdocFc/o065HRp8ccxLb4JdGJrfDUMjPukm+fvRzYEW80RE4Yi0kiAvsbs8QMz/6JjDVJueGaeqfI7Wu7Fk9CyEPQsDkxAVhl6EduZM1660ueYthH6jNChDh1XKir5QQW1XS6i0wEjbifgmlH6QDAKD6aGKer3CJe1j79iEwNM/02B8SezO3oJTVuLNdof/coVeRwg0JIiGOWUOdHhYigYEjNDbe/YeCrCEwE0wQahgdX4fNwUpJdDNOAIslY/4bluRxik7mVVmdzoi1Y7StbRSqLVtmyKYLHBKyWia0etQoMlJUg==;ulz9ExNnc/GSuGwwp9OJYA=="
+related:
+  - title: "Qualcomm builds AI nous with TwentyBN"
+    excerpt: "Qualcomm recruited AI researchers and acquired technology from Canada-based Twenty Billion Neurons, seeking to boost its expertise."
+    publishedDateTime: 2021-07-20T16:57:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/qualcomm-builds-ai-nous-with-twentybn"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/qualcomm-builds-ai-nous-with-twentybn/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/qualcomm-builds-ai-nous-with-twentybn/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 57
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/07/ai.jpg"
+        width: 650
+        height: 400
+        isCached: true
+
+secured: "XXrKxXbfaGmQ2Q8oJPuZ0gXCU4ZevvJ2G+8wzt3n1wgBfxNRdBHXWkBLksZ6YK8QPBP7dVQcimyaeuhoJhVpQT+HzTOH1ohQHomUo2GOIeE3eLXqvNMlQixQdDEXdy0YiEo0UVbP5MYBw/qG9I2IynwNGpUnNvppFTBVRbu6e8pdemvLIu6gnVMcpdSR+h/TQuyrZGDzxndXw3nvunlyJcbrSpxnsXDWTna8frCd6CDYfYM3bHw5k5CNLLWuV9qBfmoG/OlS1KJhAioOB5axAsIlR8kwIl5fox24E7MGMnlxjTHyHfZHGLGXwvO82hzdIT9qPDFFu5P21UaAgkz5dd0wcyRrBA8MVK3QSDet1p8=;MPx/sAvGpMPvtmqLehZ2Ww=="
 ---
 

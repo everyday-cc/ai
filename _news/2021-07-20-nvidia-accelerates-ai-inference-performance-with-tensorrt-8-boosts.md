@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-20T13:00:00Z
 originalUrl: "https://siliconangle.com/2021/07/20/nvidia-accelerates-ai-inference-performance-tensorrt-8-optimizations/"
 webUrl: "https://siliconangle.com/2021/07/20/nvidia-accelerates-ai-inference-performance-tensorrt-8-optimizations/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/TensorRT-8-Press-Graphic.jpg"
@@ -24,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia releases TensorRT 8 for faster AI inference"
+    excerpt: "The latest version of Nvidia's software development kit for AI inference speeds up inference performance with certain models."
+    publishedDateTime: 2021-07-20T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/"
+    ampWebUrl: "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/07/MVIMG_20190318_133330_1-e1588214925726.jpg?fit=800%2C600&strip=all"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "NVIDIA Stock – Graphcore’s AI chips may not be as powerful as Nvidia’s GPUs, but may provide good bang for your buck • The Register"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-07-17T11:49:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidia-stock-graphcores-ai-chips-may-not-be-as-powerful-as-nvidias-gpus-but-may-provide-good-bang-for-your-buck-the-register/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/graphcore_ipu_650.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "TensorRT 8 Provides Leading Enterprises Fast AI Inference Performance"
     excerpt: "NVIDIA today launched TensorRT™ 8, the eighth generation of the company’s AI software, which slashes inference time in half for language queries -- enabling developers to build the world’s best-performing search engines,"
     publishedDateTime: 2021-07-20T13:30:00Z
@@ -39,6 +70,6 @@ related:
         height: 395
         isCached: true
 
-secured: "AmZ8DLlAcN+ychVBeuTLXW4tv/BRRFaU1xkY/LoCYa5INAku6uVsm3Zc0RS1iUunTeMwa5pvalym0+yacU5tK/2BKBYSk2H4NO42iN2OVzlx7c6ZomxorU9jf2dltESej9xYny8hfUQ3rSV3LmDgbD0BrQt4lGWS++0jKJVlNV/s2g13z/JVQ0lwQG9t56riJHLk/G6pKJ8p8RZfYcAZ9npJ3aSsIJKgP9Gmv858gi9NQVttR2ArnZb3k7aYn8vfAuhpBO/S4xZ0oR6MJIXq1D1dcBYYM0/XKScnAN/zUUZTELQkodFHlzG+S1br/kXv/AvSOn/59lziBqJD1a71hNwgJagI+oCKN6G8hnZETdk=;Unxdvs5/64PtWSnjOpTOOA=="
+secured: "Vj9GVA8KPGj4FJWQZtgbvyj4uQg3MZqcUIr9cAuL+Dorx9YLstf1KkzpDmsTMqRosWyvVP9esFgRhbnsQ9QYSvusoQFO8rxwJU53lfMMzjoP9q9jWhjWnpeT2EH9JdP9amzbhvyzEyihjmDVW3W4PzIBPq/Y2HuWAa74/VZWI48adCbjms8uU5uNXg99x1EPBxLqam5J5xhf/tV91vhALcYGBpJwQzio5l+FNDiYXQvokxeLD2HyoguprzWEjwCQ5JdEORivzYQSO4i0XfzU9FWcFVfkZVD2sYt1a1g9Qvn0wvUGbbGN5FZszCcHEKB4Xat3jD9xlGRLa1Bka3owtFQ+JPUMwNAT2PTi6naJGPrDywgGi6hCI0OOBDcwiU1WU4vTJ2u3nxaj5aHFpWSHlEye0KzcMI6QxBj2ymifrXxJymzxCfkKcUDFATxerXfJOkwkgmaY+wSVG3D0oe77RdnEriUQbra9jipNLXw82rqYgjZF4oXKpINZJOvbcszHpi9lL7k+eB+eSuM6kzBB1A==;cAcpbnh5C2emgd90D6PU6Q=="
 ---
 

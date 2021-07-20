@@ -73,38 +73,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Black teen forced to leave skating rink after facial recognition tech misidentifies her"
-    excerpt: "A local roller skating rink in Michigan has come under fire using facial recognition software that misidentified a Black teenager."
-    publishedDateTime: 2021-07-16T00:13:00Z
-    webUrl: "https://thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/"
-    ampWebUrl: "https://thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/07/15/facial-recognition-misidentification-lamya-robinson-michigan/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 51
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/07/LamyaRobinson.Screenshot-scaled.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Black Girl Banned From Michigan Skating Rink After Facial Recognition Software Misidentifies Her"
-    excerpt: "Recently, a Black teenager was removed and banned from a Livonia, Mich. skating rink. The teen and her parents say the business’ facial recognition software mistook her for another Black girl who had gotten into a brawl there prior to the incident."
-    publishedDateTime: 2021-07-15T23:30:00Z
-    webUrl: "https://www.theroot.com/black-girl-banned-from-michigan-skating-rink-after-faci-1847302114"
-    ampWebUrl: "https://www.theroot.com/black-girl-banned-from-michigan-skating-rink-after-faci-1847302114/amp"
-    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/black-girl-banned-from-michigan-skating-rink-after-faci-1847302114/amp"
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 46
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/b34fba5a658cdfb01b5a7bfb43c6cd9a.jpg"
-        width: 800
-        height: 452
-        isCached: true
   - title: "Federal Agencies Can't Resist Using and Abusing Facial Recognition"
     excerpt: "Already used to identify international travelers as they enter and exit the United States, facial recognition technology is becoming increasingly reliable and may soon become a regular feature of the travel process,"
     publishedDateTime: 2021-07-16T11:07:00Z
@@ -116,20 +84,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 39
-  - title: "Skating Rink Boots Black Teen Misidentified by Facial Recognition System"
-    excerpt: "In what civil rights advocates on Thursday framed as yet another example of the need for reforms by companies and governments alike, an ice skating rink in Michigan turned away a Black teenager after its facial recognition system misidentified her as ..."
-    publishedDateTime: 2021-07-16T00:18:00Z
-    webUrl: "https://www.commondreams.org/news/2021/07/15/skating-rink-boots-black-teen-misidentified-facial-recognition-system"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 38
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-07/lamya-facialrec-2600x1361.jpg?h=762e2cd3&itok=E1oamldt"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "mMh/6lgqPDXGCK3ffRHURudMRpOnJao9/XRSQlNiS6cOvgFGvJ9iFHLY+EiEnX1O3WcmX0856YeMtZIoCQL3kBM2DIAqZZicgViBflF+FlZq00umtbBT5tWsYMhcEw6y8HdWipSsTMWoA7qWX7GXxRpyYXeAeoBXM9mVXOiF2dAW/HyxilAdddDzC4HgtyuaE3y18mODYP7I/g/Xc4VXUsP/kR0dSz68rfqPngQPazKqf4dc+TEJeW0SwBUpj7N/0di+rreqV2NTb2TNb2Pq5FVRKjYk4+vbzx6X2KSLws/JAFmBUaFN4yx9AZpfMpbrxRTn7n4pddgvABzNro2+t8aPlTslgjX6xeE6GHxRVKD5XKyWE94ke1sj8GWP6QZdVDXArJJbk+uHqollH3CA4ZE+c0UaOslR2gqAZ7pCafAepUHlDfbc3Z2z9Z1YgFvcpAE9MsOZRZ2Q71q0Xh9kT/Se1R9cgdj8v0yu0zWueHb47SG9gwvS65RDxHWjRukejQxLpXvJtIv2kD7Ki8E2YA==;DGIQ3QhU3IwStWPuqwgQYA=="
 ---

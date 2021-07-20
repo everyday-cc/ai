@@ -7,7 +7,7 @@ originalUrl: "https://www.totaltele.com/510359/Nokia-and-Vodafone-using-machine-
 webUrl: "https://www.totaltele.com/510359/Nokia-and-Vodafone-using-machine-learning-to-nip-network-anomalies-in-the-bud"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Nokia and Vodafone harness machine learning on Google Cloud to detect network anomalies"
+    excerpt: "Anomaly Detection Service, based on Nokia Bell Labs technology, is being rolled out across all Vodafone markets in Europe. Espoo, Finland– Nokia and Vodafone today have launched a jointly developed machine learning product,"
+    publishedDateTime: 2021-07-20T13:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/nokia-and-vodafone-harness-machine-learning-on-google-cloud-to-detect-network"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 41
   - title: "Vodafone And Nokia Develop Machine Learning System To Detect Mobile Network Anomalies"
     excerpt: "Vodafone, in partnership with Nokia, is introducing a new machine learning (ML) algorithm to its pan-European mobile networks to detect and correct anomalies before they impact customers. This latest innovation is part of Vodafone’s strategy to deliver customers a ‘best on Vodafone’ experience through the introduction of new,"
     publishedDateTime: 2021-07-20T13:43:00Z

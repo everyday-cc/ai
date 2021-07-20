@@ -56,6 +56,43 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Toronto AI chip startup Untether gets backing from Intel and CPP Investment Board"
+    excerpt: "U.S. ($159-million Canadian) investment in Untether AI Corp., a Toronto-based startup that develops high-performance chips for artificial intelligence programs. Canada Pension Plan Investment Board, Canada’s largest pension fund,"
+    publishedDateTime: 2021-07-20T16:46:00Z
+    webUrl: "https://www.thestar.com/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 49
+    images:
+      - url: "https://images.thestar.com/mHTO2t2r0_YS2tNTJrPGgvJ4BL0=/1200x799/smart/filters:cb(1626799604103)/https://www.thestar.com/content/dam/thestar/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board/intel_logo.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Intel-backed Untether AI raises $125 million, adds CPPIB, Tracker Capital as investors"
+    excerpt: "Toronto-based artificial intelligence hardware startup Untether AI has secured $125 million in funding to support its expansion and product development efforts."
+    publishedDateTime: 2021-07-20T17:28:00Z
+    webUrl: "https://betakit.com/intel-backed-untether-ai-raises-125-million-adds-cppib-tracker-capital-as-investors/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 31
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/07/Untether-AI.jpg"
+        width: 1050
+        height: 700
+        isCached: true
+  - title: "Untether AI Announces Oversubscribed $125 Million Funding to Deploy High-Performance AI Inference Acceleration Chips"
+    excerpt: "Untether AI Announces Oversubscribed $125 Million Funding to Deploy High-Performance AI Inference Acceleration Chips"
+    publishedDateTime: 2021-07-20T16:32:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210720005730/en/Untether-AI-Announces-Oversubscribed-125-Million-Funding-to-Deploy-High-Performance-AI-Inference-Acceleration-Chips"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
 secured: "AbXm0GSl7E+w/F6tbACSmFftCCdaIjzXzMf9IWpDrG/8VoiPz+IQlbyDdhAyulCDiGZ0QIYwMhDcfBJ7DZ5MuXE+Imrwlj2kxMEweXQc8WF3Npe3cp250oKEISnWLWK5vE1u8ybuyy+5oRtCVYocLJZxddQz1H2QufcyfKXb2hoYYnjIp5i9RvPG8F+M9HTLFVU1ar1uOXjSHoRCwBw+OXzU9I1vMBYnp8To8AwZ7wB/pMthuhFcAGRbDJPJc0Pqlv1l8dllo+4qKrbCOynfSB6Nk8j0JtHyIRRwb13jHbLMOuaZvnjnTASm19C/MO7q4PpPO8s0VmXn2etpsLvO2DYCgf+AS+bq20qVpNu0HkA=;TSjuu66QEIolbWT1m1rAVQ=="
 ---

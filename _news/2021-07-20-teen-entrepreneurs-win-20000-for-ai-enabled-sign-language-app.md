@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-enabled sign language translator designed by teenagers wins £20,000 prize"
-    excerpt: "A two-way AI-enabled sign language translator designed by teenagers has won a £20,000 technology prize. A team from St Paul’s Girls’ School in London came up with the idea for an intelligent ..."
-    publishedDateTime: 2021-07-15T23:16:00Z
-    webUrl: "https://www.thenorthernecho.co.uk/news/national/19446632.ai-enabled-sign-language-translator-designed-teenagers-wins-20-000-prize/"
-    type: article
-    provider:
-      name: The Northern Echo
-      domain: thenorthernecho.co.uk
-    quality: 36
-    images:
-      - url: "https://www.thenorthernecho.co.uk/resources/images/12802591/"
-        width: 1071
-        height: 714
-        isCached: true
   - title: "Intelligent real-time sign language translator designed by teens wins £20,000 national tech-for-good prize"
     excerpt: "winning £20,000 thanks to their two-way AI-enabled British Sign Language (BSL) translator - BSL: Educate-2-Translate. The prize challenges young, innovative minds to design and develop technological solutions to the big issues of our time that deliver ..."
     publishedDateTime: 2021-07-16T05:25:00Z
@@ -54,6 +40,6 @@ related:
         height: 570
         isCached: true
 
-secured: "cyGnkj4gbDonUB5Q08oKKPBu+JnFTsTq6oxHF5TeisjAEkrBytKMvKfRq8iD2XpD2FF1DyaO0MaToCsXllPP8d3sHpELcLbk4OtAam0BxU/s6Jqa10c8IA/zC7Ve+3d+c47mvHGFXtJ/Orb1/+Tx07jbH+BDiscMQhy0Q8i+7gaX9NPp+Y/b+XsD1ZdeoYvZgjQQocGHwe9HfgPREC7fcEDXAZSyn8tYkx4Noc+hKX7tLCnMdxvtB46hoy11+gvFV+ApTuJrgxXzQNaD1mdL7/bFaTg33v5leeVWRNBfXoULkBcA22130WwqBPQNaIob4I4FuWDi0aqBed2fpyKc/Hr4PdGgbDzd+Rk54k1npJo=;arxJcj6S/OH1bqvLftTi/w=="
+secured: "BKUWXdNNV4glAM9jq75gvgbLSKEOKVwOciuWx7CjyGOenwOs9yg0SHFdOpKWcpk9QpUAZ2nwY0k+F5iTUbJ3twZ8hLPaXynf3YCNJQABEjrc1Qp00uAFO6mF5DfDQMMe7kTit8dV11Kt6iayjeU2IfV50n5tAj4R247vhWkYWeoIHLq/yHuWIyh6fIpIz1GL5E/c0mZRgWIvMZ3M+9zD+et7OccBGir6lozU79vk42lUr8u2zgB4IhHHYG1XgpooCyWmz41yn/S8VHQMlrWXVgEV7GSpb+sTbgruJlI/QPT+kk7ymlwlBwtslGNGHdTZOG/YLzSpXFMkKUSwwI1a8b4jzLoVfw2FdlJRANDZYhJJQGTrC8vw8QxW+XkCz6dYRwUQbx+Om7QcNhvpR5aZbRzjqUK4zrfQYcrBNpjmgWT4/PG9OMdtu2WdEthm/r5Zk65PC7haMKXr8ZysxSDveBZlpd71WzHtGT/FDVJkkDtYogZMVRiDNWNiWaYQDi7O+4vISzdtWpCwK5iaEkywJw==;Mt4yZy7lZSftXAn8isec6A=="
 ---
 

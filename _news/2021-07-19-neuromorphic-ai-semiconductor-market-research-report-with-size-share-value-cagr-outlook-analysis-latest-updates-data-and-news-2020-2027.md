@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Deep Learning market size is projected to reach USD 11910 million by 2026 - Valuates Reports"
+    excerpt: "The global Deep Learning market size is projected to reach US 11910 million by 2026 from US 2671 2 million in 2019 at a CAGR of 23 6 during 2021 2026 The deep learning market has been segmented on the"
+    publishedDateTime: 2021-07-20T16:40:00Z
+    webUrl: "https://www.openpr.com/news/2333097/global-deep-learning-market-size-is-projected-to-reach-usd-11910"
+    ampWebUrl: "https://www.openpr.com/amp/2333097/global-deep-learning-market-size-is-projected-to-reach-usd-11910"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333097/global-deep-learning-market-size-is-projected-to-reach-usd-11910"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 45
+    images:
+      - url: "https://cdn.openpr.com/U/7/U720217744_g.jpg"
+        width: 800
+        height: 466
+        isCached: true
 
 secured: "KR17qhKTjSw1uB2A8r59nmiX+ARIFm+n7L8Nj3Roe9eIltA9eJhLEgygCdr9EU9wMcUQtXXTohejIotcuu9RDvbgfPOMglNFrApg54IJkhcCQCNptD7a9nwVyuT4ZHrypQ5hg9IgSaSTy50L74SER4x2JqX69FbWQTcDU50etLqC6r0Wq7UUVQky7IW6HIfVIG/pTxTAC+G1x9mijkUiIuxRCyCYFFF/TpxaxS/KH1DfDJebUzDTPrNNAZaVXR5dIVQuxaxjqKpOMt5wc/AhfN0T0b0e4TBeT/YCQoOQ+zUT5/LgJxmIOWS8Ii+bYZyTLQApZr8L+zdSnblgNAo4NqpdlRfvX4wThle6dC9KMAI=;U/5B0lsfWLSdQ8pB0GCUCg=="
 ---

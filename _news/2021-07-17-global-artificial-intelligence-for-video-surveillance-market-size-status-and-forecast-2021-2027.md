@@ -18,15 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Edge Artificial Intelligence (AI) Chip market report provides"
-    publishedDateTime: 2021-07-17T04:32:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4674743-global-edge-artificial-intelligence-ai-chip-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+  - title: "United States Articulated Robot Market Share, Size, Opportunities, Trends and Forecast 2021-2026"
+    excerpt: "According to the latest report by IMARC Group, titled “United States Articulated Robot Market Report, Opportunity and Forecast 2021-2026, t"
+    publishedDateTime: 2021-07-20T12:17:00Z
+    webUrl: "https://manometcurrent.com/united-states-articulated-robot-market-share-size-opportunities-trends-and-forecast-2021-2026/"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 23
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 26
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/United-States-Articulated-Robot-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
   - title: "Global Data Science and Machine-Learning Platforms Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Data Science and Machine-Learning Platforms Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Data Science and"
     publishedDateTime: 2021-07-17T00:39:00Z
