@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Consumer Reports concerned Tesla uses owners to test unsafe self-driving software"
+    excerpt: "A Tesla in full self-driving mode makes a left turn out of the middle lane on a busy San Francisco street. It jumps in a bus lane where it’s not meant to be. It turns a corner and nearly plows into parked vehicles,"
+    publishedDateTime: 2021-07-20T21:47:00Z
+    webUrl: "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/"
+    ampWebUrl: "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://i.ytimg.com/vi/GlIdu7prsAw/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Tesla To Add Auto Shift To All Cars With Self Driving Package"
     excerpt: "When Tesla Inc (NASDAQ: TSLA) first revealed its refreshed Model S and X vehicles, many were confused on the lack of traditional stalks near the steering wheel."
     publishedDateTime: 2021-07-19T14:14:00Z

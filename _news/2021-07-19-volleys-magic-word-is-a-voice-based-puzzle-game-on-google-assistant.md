@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/19/volleys-magic-word-is-a-voice-bas
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/volleys-magic-word-is-a-voice-based-puzzle-game-on-google-assistant/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

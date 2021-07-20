@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon EBS io2 Block Express Volumes"
-excerpt: "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time ."
-publishedDateTime: 2021-07-19T21:14:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-17871d68d8fa4c54bb408e0e613abfdd"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-17871d68d8fa4c54bb408e0e613abfdd"
+excerpt: "Epic Systems, Amway, and Okta among customers using Amazon EBS io2 Block Express volumes Today, Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes,"
+publishedDateTime: 2021-07-19T21:35:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/07/19/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes"
+webUrl: "https://stockhouse.com/news/press-releases/2021/07/19/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes"
 type: article
-quality: 52
-heat: 62
+quality: 32
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Amazon Prime – AWS Announces General Availability of Amazon EBS io2 Block Express Volumes | Business"
@@ -40,6 +34,6 @@ related:
         height: 600
         isCached: true
 
-secured: "BZQAtBR0WBt3IMBlqLb83kcsLRspX0UlsVRQr8MjUP3HX8elyO2uCm2rOZEskgl7payO/B/9472g5ii++wpOZe7uSjYsYfjisv7ijYoKeOEjWBHLYCH2ZTGcQoGq0eigZKWBeGF/e396zqisiXCrvwcvTOmRDLI+gQDkapdqj3SXF6xfr74d2zF+nS9bcBoUcv798tAOyhsd0P36gXLp86jsrAwyNKqF6xTG1T1J6ZbjtCD8TGf1w/IVURm6+6Ng60ZpW6OYeMU9J3qPGL9yw/unOiQqi8jlja7BTWsNvGA8myc9VIrv8bUTx4hfsxmTSr8p80zQhrBO4yGoXCTj1Sl6XPsAw1wCKOajKORGv3g=;/i06lDkdmS3sEKO9JGoSEA=="
+secured: "uvL9a0xvWiG2sDRtbnsq+Ot7alsM2pTutuQBD6UEIJdQC5DmHZPixuj/Kdf8hMXRgTGpHMyLNa3hG24reD9vYfqewfXc7d7mwE1SMmVObafbyGz4VPa+PYaMen8nVbTe+2JhpkE6KseZeFea8+HPWAS1lJtW/8EeLez3ygsyDm+g8HCAB3iZLrOfgp81NlTaNfMIQIdZmBBYIcaS7lEJCOT12v1/aiD36qSlTLYe5rpcPvXd4bBaajkGJGkLO7grHSOlc1RNuyIrMZSIYgXiJOw1VJS2WfKDczPZ9bnAu+h6H4dbqSFfsCPU8EM+3nBnAvJ7X3JgaEks2RD3vxdzpfapng0JMtcXKEGlzS1ppKo=;v1PPM5ZfnsL7Z06RAbnD6g=="
 ---
 

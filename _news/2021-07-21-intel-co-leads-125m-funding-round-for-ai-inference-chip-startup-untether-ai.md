@@ -113,6 +113,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Toronto cashes in on its chips: Untether becomes city’s third AI semiconductor maker this year to raise $100-million-plus in round co-led by CPPIB"
+    excerpt: "The surge of investment comes against a backdrop of a worldwide chip shortage caused by supply chain disruptions during the COVID-19 pandemic"
+    publishedDateTime: 2021-07-20T21:12:00Z
+    webUrl: "https://www.theglobeandmail.com/business/article-toronto-cashes-in-on-its-chips-untether-becomes-citys-third-ai/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 16
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/GXxdKngV6vf8Fzz2fIGcAiSBRGs=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GMI4A477V5ERZGCBVQTSTSWH7A.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Untether AI Announces Oversubscribed $125 Million Funding to Deploy High-Performance AI Inference Acceleration Chips"
     excerpt: "Untether AI Announces Oversubscribed $125 Million Funding to Deploy High-Performance AI Inference Acceleration Chips"
     publishedDateTime: 2021-07-20T16:32:00Z
@@ -123,6 +137,6 @@ related:
       domain: businesswire.com
     quality: 11
 
-secured: "9JHSYuEd80KAYMBAiTs7f6YG/gJmP2l5fpclzpVxLmzrg/V6clrgQvD5LMtbCJ/UoFaQbn5rLdci9BVUeng8kq/fioJXIQPEeU8deigOlEQkKhXNTcX2M84i3RC3/+v8bVskGsh9oQul+iwh+8xQB1os36kvPCV517MNyiMmgwY7NqnAY1/YX3C3ou3ANkUvUe9odDta31xx9fc8aUjZKJmIlYPRYG/hCOayCH/InzOYAj6bdX2ftkMGloHbbD6fsDz1WBkFuBzefi4a5PZf29LdBDdAVhrNDbDJLXL4Rwa6ktmDUWHKGpaTryQFFlY0nTDIgMpcp7ODqSfEi6QCMlYE+Q5DrK3c48DIP2RrEJ8=;+FCsJw8JxQZ9ifTloB2NgA=="
+secured: "K7JzN+zbo+D/hTch6IrGpIxWK3Pr8YZ8q1R6GBYHQHOqv00M122EFraPbY9eV5zBEydkHMiKLiQ/qo41jWr4mc47S77M7ARV3jibLefgR3fUlmxodZEqwxH+K5rTqB2+yLjk48kvzfrbizK2iSQmTsURgnmWhLs+hWAWl+CON8JskwmaLp/GcDwOSAopsnx8M8zgK5ffbYSNgLB+yH+NC9l+JM/G8E4cztHlR1OId94VxqnX8wzAkf7Z5jKVrGBUuTQWRbaz+fGOaV1cfHfURnPOs5cwvrjT1IaYw4AGEI5APzNusyeUGfKV9/t0diM4SVwpBp0oTyzib4N04pmt2M51+7dAonAxFwDVjcMByEvnxN1YokrzjvE0+FOOdNQaMkT36GuhnjPnyQGN49P/DV9eW5pnABa5Sk/GHqrWL4ZxelGeRDbK4+tN6my8elkpJ1cjdGXkTRcRBIKGnE30emK6mwnmBum4Ktxmtc49HVYVq/Yshj/kDaIFmWr1ZOYJ3maawrmYQ6bKDoy8j6M2hg==;SL23EpxiD6nH9YJR50DCAA=="
 ---
 

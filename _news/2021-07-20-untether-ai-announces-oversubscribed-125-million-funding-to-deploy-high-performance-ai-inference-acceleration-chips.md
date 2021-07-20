@@ -121,6 +121,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Toronto cashes in on its chips: Untether becomes city’s third AI semiconductor maker this year to raise $100-million-plus in round co-led by CPPIB"
+    excerpt: "The surge of investment comes against a backdrop of a worldwide chip shortage caused by supply chain disruptions during the COVID-19 pandemic"
+    publishedDateTime: 2021-07-20T21:12:00Z
+    webUrl: "https://www.theglobeandmail.com/business/article-toronto-cashes-in-on-its-chips-untether-becomes-citys-third-ai/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 16
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/GXxdKngV6vf8Fzz2fIGcAiSBRGs=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GMI4A477V5ERZGCBVQTSTSWH7A.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "RwDcWzUDAMeCPP7e2PXDjTz3tt1t2bwcblfjwoqQVKqV8JT3Aw3MfPtU7SP5AxvSpCKAveXsXTt6Qrxr3k2NbjUBCia3Ftw8XGumCbihTLzlHYVCXU423Wz+rEoQHrsQyxErxGJHxcwYUxL1bp+HBzW1bke52yyMZkxsjHmTc4Nfdx3u5DxU8TYkaq9Cyop4x0gJ3PJUYbqwdsHvdUyytPNln2p0PFfcLGim3lYEj63GZi+h+SCqZ4fzttEOdh/WeWp08UpdLJV6HL2nVq5idn4Tyucha1NX7mnr0lcTiTpiTXfxg1kkZQ5Fg/4WNLtqSgIhKd2/uS6nBVPUlX0BZCPaG10uA5ngs3/aKPBuVeU=;IsqzCm0BgIpfmmSEe11isg=="
 ---

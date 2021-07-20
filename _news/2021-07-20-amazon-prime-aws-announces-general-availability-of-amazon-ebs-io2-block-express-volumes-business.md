@@ -7,7 +7,7 @@ originalUrl: "https://fintechzoom.com/fintech_news_amazon-prime/amazon-prime-aws
 webUrl: "https://fintechzoom.com/fintech_news_amazon-prime/amazon-prime-aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes-business/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "AWS Announces General Availability of Amazon EBS io2 Block Express Volumes"
-    excerpt: "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time ."
-    publishedDateTime: 2021-07-19T21:14:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-17871d68d8fa4c54bb408e0e613abfdd"
+    excerpt: "Epic Systems, Amway, and Okta among customers using Amazon EBS io2 Block Express volumes Today, Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes,"
+    publishedDateTime: 2021-07-19T21:35:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/07/19/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 52
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 32
 
 secured: "XJXvlGw55oABQwgTaZcjWk/RmXyKoHdQv+HZtMeW6xowrsmnfAFHdwel3+qc/SKRsiEcqCQgm82CP4qcLJBdpZkdJ7Q7YqOwpmswA5x9o3HipUsh4cCti1wwzyi/FxRUn24e9okX0NtQLCKV+P2OqGKLBopGyCecG3Ag/Qp/AlB1keEPXxg9taxKmaPRVhd0tJF46cIdkoBLOkW8LLHxtEJcl55CGtl2ZNomEPrSFXESsY7qiJxT6ycSkZYn+ph13qB07Ni1OcR4Vr0KxO123sb4/zf/0cnM3dZAGG2miQA5ny3o4NYwhHUqPArL9GersZPJlkZf1HC/fmYnZdnSqzuHUvHFOknb3pPzb8rhOl7yQH14CBNmGh4GE7UEJy3oxRBzUVBnelhHO5dBGkS+o68ktxwHEFWfI7RsmJVBJOgtomWwN+Zx/khdIzenlKUnGPQi545CeGrI8ljRSoeR7U41SKljtZ0bzvWm5VvJUxhGQUhUhy3Y0JTGWTjx38XU5AO5tNXeypuxaAGv+WfcmQ==;fWvifzgsJQMFy3dzetFoYA=="
 ---

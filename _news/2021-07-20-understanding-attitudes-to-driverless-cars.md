@@ -41,6 +41,15 @@ related:
         width: 800
         height: 545
         isCached: true
+  - title: "What driverless cars tells us about industrial policy"
+    excerpt: "Amid nationalist-populist calls for industrial policy, autonomous vehicles serve as a reminder that bureaucrats don't have the knowledge to assess critical industries and pick winners."
+    publishedDateTime: 2021-07-20T18:59:00Z
+    webUrl: "https://www.aei.org/economics/what-driverless-cars-tells-us-about-industrial-policy/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
 
 secured: "Q7IXAs0nJ0M98x6JCR0UOQsaogAYBiQQgfPLFzoeiMUOEe6+1+Pz8piuMrG5CjySHjsMuFKTL0fIK58PlRK42aCHIcaFInyB6o9LJT+MFab6But9Y9HnRrYa0rCDSbN2GyCcqxXvNWSInZoFco2L5kLf4E7XSZf+Ex+nvpuPAoBefogcFiVmIUnfyegRh96cwuXVPuob0RR0xW5pYheSKDFSt8+zTcUUz+UrJkjVYQMNhSzA4rxWIZqrO9vqe8K//ccREi3LCzE96cYNBdu9eqaeEmBc0zOdsvc0ziP4Ir7Vl8mruVT0EHQ7A9oEoVhRqTYrbqhbNsAQo7ylVOHzfLxPkLEBt+i05b0KVIFnb2I=;8Tylf/Vp+yf0axfiQnCKvg=="
 ---

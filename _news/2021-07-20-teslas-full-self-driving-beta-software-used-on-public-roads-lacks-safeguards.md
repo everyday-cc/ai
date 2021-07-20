@@ -41,6 +41,22 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Consumer Reports Calls Out Problems With Tesla’s ‘Self-Driving’ Mode"
+    excerpt: "Consumer Reports experts expressed concerns after test videos of the mode showed vehicles missing turns among other problems."
+    publishedDateTime: 2021-07-20T21:31:00Z
+    webUrl: "https://www.forbes.com/sites/kimberleespeakman/2021/07/20/consumer-reports-calls-out-problems-with-teslas-self-driving-mode/"
+    ampWebUrl: "https://www.forbes.com/sites/kimberleespeakman/2021/07/20/consumer-reports-calls-out-problems-with-teslas-self-driving-mode/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberleespeakman/2021/07/20/consumer-reports-calls-out-problems-with-teslas-self-driving-mode/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f73e8190a528ea18c6f1b4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2912%26cropY1%3D137%26cropY2%3D1775"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla Rolls Out $200 Monthly Subscription for ‘Full Self-Driving’"
     excerpt: "Some vague language on Tesla's part means that vehicles marketed as having full Autopilot capabilities might need an additional $1,500 hardware upgrade to use FSD."
     publishedDateTime: 2021-07-19T19:50:00Z

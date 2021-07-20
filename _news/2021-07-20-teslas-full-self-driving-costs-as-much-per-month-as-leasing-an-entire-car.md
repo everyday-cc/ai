@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Consumer Reports concerned Tesla uses owners to test unsafe self-driving software"
+    excerpt: "A Tesla in full self-driving mode makes a left turn out of the middle lane on a busy San Francisco street. It jumps in a bus lane where it’s not meant to be. It turns a corner and nearly plows into parked vehicles,"
+    publishedDateTime: 2021-07-20T21:47:00Z
+    webUrl: "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/"
+    ampWebUrl: "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://i.ytimg.com/vi/GlIdu7prsAw/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Tesla launches full self driving subscriptions at $199 a month"
     excerpt: "To date, Tesla offered the Full Self-Driving package for a one-time payment of $10,000. Tesla owners can cancel their monthly FSD subscription at any time, according to the website. According to Electrek,"
     publishedDateTime: 2021-07-18T08:32:00Z

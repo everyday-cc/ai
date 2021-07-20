@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-07-machine-photovoltaic.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-machine-photovoltaic.amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning models to help photovoltaic systems find their place in the sun"
+    excerpt: "Scientists develop algorithms that predict the output of solar cells, easing their integration into existing power grids."
+    publishedDateTime: 2021-07-20T20:07:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210720122340.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 59
   - title: "Machine learning models to help photovoltaic systems find their place in the sun"
     excerpt: "Although photovoltaic systems constitute a promising way of harnessing solar energy, power grid managers need to accurately predict their power output to schedule generation and maintenance operations efficiently."
     publishedDateTime: 2021-07-20T04:00:00Z

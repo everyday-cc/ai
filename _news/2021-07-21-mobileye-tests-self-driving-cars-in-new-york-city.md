@@ -9,7 +9,7 @@ ampWebUrl: "https://www.metro.us/mobileye-tests-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/mobileye-tests-self-driving-cars/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel’s Mobileye Runs Self-Driving Test Cars in New York City"
+    excerpt: "Mobileye NV has begun testing self-driving cars in New York City, a congested urban grid known for jaywalkers, weaving bicyclists and aggressive drivers."
+    publishedDateTime: 2021-07-20T18:44:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-07-20/intel-s-mobileye-runs-self-driving-test-cars-in-new-york-city"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1CPDYOFROlM/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Mobileye tests fleet of self-driving cars in New York City"
     excerpt: "Intel Corp.'s Mobileye said Tuesday it was testing self-driving vehicles in New York City, including the bustling Manhattan borough, in an effort to prove its technology can handle jaywalkers, construction zones and even horse carriages."
     publishedDateTime: 2021-07-20T16:58:00Z

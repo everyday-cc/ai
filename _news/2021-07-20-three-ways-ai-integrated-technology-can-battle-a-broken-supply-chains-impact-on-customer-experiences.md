@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Edtech platform Vedantu invests in AI-enabled learning startup Pedagogy"
-    excerpt: "Live online learning platform Vedantu on Thursday announced a strategic investment in Pedagogy, an AI-enabled learning startup that provides online courses and interactive digital books for students preparing for competitive examinations."
-    publishedDateTime: 2021-07-16T03:45:00Z
-    webUrl: "https://www.thenewsminute.com/article/edtech-platform-vedantu-invests-ai-enabled-learning-startup-pedagogy-152424"
-    ampWebUrl: "https://www.thenewsminute.com/article/edtech-platform-vedantu-invests-ai-enabled-learning-startup-pedagogy-152424?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/edtech-platform-vedantu-invests-ai-enabled-learning-startup-pedagogy-152424?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 57
-    images:
-      - url: "https://www.thenewsminute.com/sites/default/files/Vedantu_160721_1200.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "4cBgDq/mogz46cneYGVhY+CTb5kyslbbf6Mh/mcA+tuEcDWvMclx7QsFB2FONXZVrQ/wmgAaEH66laMu57ZLfhsBq7gKuqEisUvc7l6vrU4tqs6vx1KWSPyLIcuSGxxEBpdKsqABj7DJJi3TQ6HRanZMauIe5ztiIKGxGNeti7/BqlLZQtq40nb7Qqo84iWCbiqX9zyN8JFmTZ/a6lHL3pVldEmM4fLZcDNcg9RO79rM8M+B9gILeku6AnqjMlnDY+DR5KdXMzV/EHiDWMAwYoPYgiOb1Yg74kudA5SRTRqFn3Aef7rKTwNmHVjdFglY8X33gKJ1gmTxagzXWZ8zmwBRKAQfKzW9cknXDk2fMxP9SlKAKJRhcXaFktRBACHdaWpairFAY87nyO5hxMwMBhDRLmLnIIDwDOeqnI6OVIEu1viua3DLXM5kaexpuzghklfYxcugjUL5oevhAHJw5CgQztWa7z3GQlW8YoxIRPUHf874xpLvSCAkrkRPOi9AA4lURI6cBIRdBqG3ybjq1g==;zi8VelbZkvXTyJHKPmXbMQ=="
 ---

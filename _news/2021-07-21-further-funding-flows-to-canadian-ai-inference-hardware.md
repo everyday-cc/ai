@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2021/07/20/further-funding-flows-to-canadi
 ampWebUrl: "https://www.nextplatform.com/2021/07/20/further-funding-flows-to-canadian-ai-inference-hardware/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/20/further-funding-flows-to-canadian-ai-inference-hardware/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/ab_rdfg7.jpg"
@@ -25,6 +26,6 @@ images:
     height: 500
     isCached: true
 
-secured: "jCM7UDXxBdqJPf+9HcagTTHJ+Lcj/wI3YApXn0NG65ZyoRwlgza2UGCAvNq3yF3mbL4bLGCemDlfzr60N3kOL0VkDgu5hQk7khJ+Ekx3Hk6nM18L1QMteM2QwkHM+E/0S6150/FBX/7Wy8wUR4UEev7AmqMfOA9KkuqRarPrGOQaBd2irAA+EvnTYi/T3A14XflZQ69x8zO5Os0h2jm0rUb4lLQhtgSmIfnfUbQBT13hc3qoaRa2RTj8Zu0VkT2fDQ4M0eMswZUeczsrJkJL0AdVdb1QTIDOBaJNquKWy4yBvT56qsqjBvcFgnBZVFKy4TE7FIIRpBC3PVFnu1VEq1HDULGCwDKKrt7LqaORwvo=;+4Sgd5UimvEs4Qf0SMsMRg=="
+secured: "wsefAi6Y6KtccKHlLZuyO/kondN1ub5N7Wm7KpS8BSTr9Xv+AhBBj4r5++ftrQc3/4LaTSJFZwnqompdDSicRo2UvFGPWes5NTtzjTM6g5Y4auGEcZ8X6enf9xWnjDLxcDIvjHMGoPBmk1thkHCwcSeqT7hKrLokK0fiDkGgZVnSjfZ6I8NKqRlQnoub7qgSnTUPSn7diiJN9aEqiWMebyR2AQFFra+Ncu4lCK3Qx32cs55Xv1S36dXos0VCcCSqX9h+RSRxVrtBiPr4lfqEWzkrZ0HhxZPQX1fS+1AAZ//k6vi/bZdUKYhM7S3MxEAxPSv/A5Jgkphd02Jpulgqk+JUOjenyOCmkdAF3gpdD3cSDHFHCNLFEc0eyUWR5GMBT215oYFbuI0KgO38+mTSxml244GWPArurjx4bPQOf6Kx1FNWiwKb51NLXzX8v1d1hYbAT3Tpv/WqS4Um08hb7cOS/vquhz8a3gatlEW4cHkk5GoRdEIEPDHZvqnTp2dr8+6cwIyOGwlkdsdqRWEELg==;8FMOmOv66eS9M1hlCt0cvw=="
 ---
 

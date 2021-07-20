@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-19T00:00:00Z
 originalUrl: "https://www.mddionline.com/artificial-intelligence/ethical-artificial-intelligence-potential-standards-medical-device"
 webUrl: "https://www.mddionline.com/artificial-intelligence/ethical-artificial-intelligence-potential-standards-medical-device"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-3382507_640-3_web.jpg"
@@ -25,6 +26,6 @@ images:
     height: 400
     isCached: true
 
-secured: "moavDjjTXm6tA2QoSxaePh6Ad8WzvkqaiaucShLA6n6Wi/nJs4Ab8EFkEw5K/FnxL9Xu5RU26aFHp1PpQNudwyt3vi1YwQNtZU6rgxr2d5e6APNEAte+Htwcr/R2cz58cibw+TlaDPWU4MEsur4P0BtEX2cHVSphhqUMjMV36/O+2g8T564CU41SvhCnWq0DKnzrxwDXDloJequarna0OwWwPHuuSymB+0POB0xYAj6HgMPVCrWjsto9jMOzxoDLm3FGLR/wo/57HWRpDp+XAQf4xoPQ8DEutrFOHXCFiZaO7YkjOZWM0O1061kyyX2zZhdTv1j1J6Ta76xWlyWxAF0Af4821QbM+7Irg3Ps3PI=;DylnsZNVHCy1mMmeF3utSQ=="
+secured: "IVlBdJd/mVFKcLV9jqRUZexwobNYTDTxYRxIsMZaNkCIkKHh5UdvMQreTNFI9GMr7R3NerXFFshm3lJQtHrhXTyuNwI/9W6X7IHQgIWEvIiUi4zLgf1UeV659QRAr74iZmnvHzBIENS7Fo4CSTVcCTkR+VLaPYxud6b79EYWOI3J3xzflwyc+Ll5k8D0bQIEvic40v9shP2hOokqT/PGqg9YSZG7DIMXPSOuMhYgZNeuDTAm/q5ASH7hlAgHmzW53bL09LPqtoaVnbllrJsB4ytdPBNG1sBfKV8h1c0sV5osGzWUsBrVDwX0pec+NQsyq/QFIa4iDgsYzw6zjR4er4Aj6on6MI78Bt6pcY0PUVjjg9f5Io1hsasybQSw0Yx6sMNArP+EuU2ej1h/5jyFRYUQlBrbRfQvYxjBweIUoYiEdZk00aYevBsm/bdcFLiMbvRJ+CI8hbdaehNNQPWNT5gsALOep0ap6oVVea3Y3dZeJxKj/KEmBVH2G68jyj4QCoHL72NBxeJPdg00D3it5A==;99UpZE38i+4MwhIDj813pQ=="
 ---
 

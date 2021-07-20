@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2OQ31A"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2OQ31A"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 556
         height: 390
         isCached: true
+  - title: "What driverless cars tells us about industrial policy"
+    excerpt: "Amid nationalist-populist calls for industrial policy, autonomous vehicles serve as a reminder that bureaucrats don't have the knowledge to assess critical industries and pick winners."
+    publishedDateTime: 2021-07-20T18:59:00Z
+    webUrl: "https://www.aei.org/economics/what-driverless-cars-tells-us-about-industrial-policy/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
 
 secured: "YUcHwGPKC7Jhj7BqJnfLd9B5fyRLlk0QA7lbC92d23o3vbdmGAA6ANwNwZx0zudrPLLZdIrJTWdrYah4mh+6Kf3yTViZEkpqPXQecYaaR7Lv/bTZ0d22RkJdTndrZPFRL5YTuYeHp4Dh5RDxza6VIlfdKIZn6x8b5oS0wgtM6cMHjdF0OtS1xkyeudiH6V1IPDfsKP5YV6KuIMcM9myVsvsnnuF25XeJksa1fCpNQoWBwG6Hx76BAbTnBJXr1bd9wkOl/v55j+QmAJLC3hvRw6WmAezHGm0nhmj8Kgs3nhkYYpVrzjMN6dRxQkMt5LUf/p2M798gUZlvpsLWzo4Qq5lt7gafsqgiKyhJMS6jRSg=;6DCP1bmJUDUIRtPHZB+mfA=="
 ---
