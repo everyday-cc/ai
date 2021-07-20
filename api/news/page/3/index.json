@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-17-black-teen-kicked-out-of-skating-rink-after-facial-recognition-error.md",
+      "title": "Black teen kicked out of skating rink after facial recognition error",
+      "excerpt": "Misidentified, accused of brawling and then kicked out of a roller-skating rink -- the case of a young Detroit girl is the latest facial recognition controversy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/",
+      "originalUrl": "https://www.cnet.com/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/qIZq1J7Enc-wxvQGg_DySF8SrQk=/1200x630/2020/06/23/bd9975d1-9066-4f4d-8556-e4458dfb957c/gettyimages-1239553143.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/",
+      "publishedDateTime": "2021-07-16T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-researchers-create-artificial-intelligence-to-imagine-unseen-objects.md",
+      "title": "Researchers create artificial intelligence to 'imagine' unseen objects",
+      "excerpt": "A research team at the University of Southern California has developed a new artificial intelligence system that uses human-like abilities to imagine never-before-seen objects that can change characteristics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/sci-tech/researchers-create-artificial-intelligence-to-imagine-unseen-objects-1.5512454",
+      "originalUrl": "https://www.ctvnews.ca/sci-tech/researchers-create-artificial-intelligence-to-imagine-unseen-objects-1.5512454",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/national/sci-tech/2021/7/16/1_5512454/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2021/7/16/1_5512454.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2021/7/16/1_5512454.html",
+      "publishedDateTime": "2021-07-16T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-what-to-do-when-ai-brings-more-questions-than-answers.md",
+      "title": "What to do when AI brings more questions than answers",
+      "excerpt": "Uncertainty is a tricky concept in the context of AI. But it's critical to understand it, particularly in enterprise applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/amp/",
+      "publishedDateTime": "2021-07-16T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-deep-learning-software-market-robotics-intelligence-evolving-to-make-the-new-era-nuance-clarifai-aws-ibm-keras-deeppy.md",
       "title": "Deep Learning Software Market Robotics, Intelligence Evolving to Make the New Era| Nuance, Clarifai, AWS, IBM, Keras DeepPy",
       "excerpt": "The recent report on “Global Deep Learning Software Market Report 2021 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2027 (Based on 2020 COVID-19 Worldwide Spread)” offered by ResearchMoz,",
@@ -211,7 +358,7 @@
       "originalUrl": "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -989,7 +1136,7 @@
       "originalUrl": "https://www.campussafetymagazine.com/news/maine-enacts-toughest-facial-recognition-ban-in-u-s/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1073,157 +1220,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says.md",
-      "title": "Machine Learning could solve biggest challenges in the world, AWS executive says",
-      "excerpt": "AWS executive Kanishka Agiwal, shared his thoughts on Machine Learning – its applications, growing adoption in different sectors, function in the future, as well as AWS’ role in building and supporting the ML ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says/article35358781.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says/article35358781.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/qku2pe/article35358812.ece/ALTERNATES/LANDSCAPE_615/Kanishka-AWS",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says/article35358781.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says/article35358781.ece/amp/",
-      "publishedDateTime": "2021-07-16T02:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-can-religion-guide-the-ethics-of-ai.md",
-      "title": "Can Religion Guide the Ethics of A.I.?",
-      "excerpt": "to remake the world. These believers are fighting to make sure thousands of years of text and tradition find a place among the algorithms. Artificial intelligence promises to remake the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/",
-      "originalUrl": "https://www.nytimes.com/interactive/2021/07/16/opinion/ai-ethics-religion.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5a0a046174c62b689459d7c4/master/pass/LEAD%20Anthony%20Levandoski_Michelle%20Le03.JPG",
-          "width": 4500,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
-      "publishedDateTime": "2021-07-16T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021.md",
-      "title": "VentureBeat presents AI Innovation Awards nominees at Transform 2021",
-      "excerpt": "The AI Innovation Awards honors companies and individuals who stand out from their peers in solving challenges in creative ways.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/",
-      "originalUrl": "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/jason-leung-Xaanw0s0pMk-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/amp/",
-      "publishedDateTime": "2021-07-16T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
       ]
     }
   ],

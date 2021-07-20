@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Global Digital Pathology Market (2021 to 2026) - Integration of AI into Healthcare Presents Opportunities - ResearchAndMarkets.com"
-    excerpt: "The “Digital Pathology Market - Global Outlook and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global digital pathology market by revenue is expected to grow at a CAGR of over 10% during the period 2020-2026."
-    publishedDateTime: 2021-07-19T11:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-health-coronavirus-pandemic-6f4c15b659114c30bd5757b644c4e922"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Uf/nBcC6xZoNU5V8UQSl5bQTRkCwD6TPaOhQT3kVo3Bw9bcYOiV5giZ++Q9Ki2YhsM6tzF3oWx5ap5OTwyYuqLB2XGGHdFfym5M2lCFsW5Yasf4v6PQV0GOQsELHh+X8SAjdH4xxvQQ8P1gRDtsF5Ro19WTSu3KXKs6ukiT0ompRf/PxKOiIFEiljXzKKUI0r41h1+xGgvV/SwERgRX7Sw4O7U/3SfcDW5s771/PugmhLFz66U7dIbnYxa1nXKWcoesoybuoRGYRE13xV6CpM/RS2iBiWa+/lk6h/NdSHcWLaEdreMFPjOYYf9GCtcgN20xxr0gUEy9aLr0IbeI22Uoj1pNAE2MrOmxtL7OGSI0=;5WBY+nUrV8s5sd+xW/g11Q=="
 ---

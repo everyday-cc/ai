@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "HeartFlow to go public in $2.8B SPAC merger"
-    excerpt: "HeartFlow said that it will go public by merging with a SPAC called Longview Acquisition Corp. in a deal worth $2.8 billion."
-    publishedDateTime: 2021-07-15T15:03:00Z
-    webUrl: "https://www.massdevice.com/heartflow-to-go-public-in-2-8b-spac-merger/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 24
-    images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2021/07/heartflow-logo-updated.png"
-        width: 770
-        height: 500
-        isCached: true
 
 secured: "OLaCkegFsgw8x1AG30LGIBQ6A6tfew/h8/u5lzicEAQVcv063zCFBhVXpj2TIC0hJg4EV9+bAQdtl6O515JMPbeBmIxFgp21wvsn8brg3Kk4z9CmAOxCwOx7tmu0OXj1WArxEtAkvgvbQfHkAfe+lRsJ6MTpJxK9DKBMD8+wj7oZhO+0LMnv75ijkcMOaZpjhVz+NRWBjHDjdeZkTn5jorQneERBEcTTPWGqoPiEJHSR58VuIsfRA0SsacFeAyb7oHI3ugHtDtyNMWTfR56zuO6x8PRhRPKZPR8+A8zq3tY8T3nETMBR0UWWnG5lNTxCCjpRLjaChTcnXNuULs+O4E2i9vxvGw0TgoyJl6nWVnzbkavxzM3by+3iCgNz5192qAGW4yoCfZJLQqSkMk0DaZy5EXzi/BrsJcYtcJEXOblhM9ebzVY4SWB25Ra7Ir9yHx+Qlb/SJEOpkvlLDS8Fc5j1J1miWfS1YUKH7Nw9WtCQk9nNm30JTUxmWWowJe4iGu4FR+uiciB578PX5VQIQQ==;QLMwZm5CF425GheOO0j+Iw=="
 ---

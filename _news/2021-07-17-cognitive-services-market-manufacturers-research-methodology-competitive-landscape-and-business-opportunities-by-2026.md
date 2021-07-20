@@ -7,7 +7,7 @@ originalUrl: "https://ipsnews.net/business/2021/07/17/cognitive-services-market-
 webUrl: "https://ipsnews.net/business/2021/07/17/cognitive-services-market-manufacturers-research-methodology-competitive-landscape-and-business-opportunities-by-2026/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,36 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Artificial Intelligence (AI) in Automotive Market Analysis, Size, Drivers, Restraints, Opportunities and Threats by 2026"
+    excerpt: "Rising concerns over road safety to enhance artificial intelligence (AI) in automotive market share Growing inclination towards semi-autonomous vehicles is anticipated to drive the use of artificial intelligence (AI) in automobiles."
+    publishedDateTime: 2021-07-20T08:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-analysis-size-drivers-restraints-opportunities-and-threats-by-2026-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Digital Pathology Market (2021 to 2026) - Integration of AI into Healthcare Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "The “Digital Pathology Market - Global Outlook and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global digital pathology market by revenue is expected to grow at a CAGR of over 10% during the period 2020-2026."
+    publishedDateTime: 2021-07-19T11:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-health-coronavirus-pandemic-6f4c15b659114c30bd5757b644c4e922"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "GEyOXN60SVLht+pbXFXyREhr9U5O2WeF2LNOfvcaL67SvnB+86X5t8XowRX9XoHekPjQx1ktXPt2uZXb8CE/F0xTkKT8dZCI1B9XJ8scE5YBfccTVQVVvj2T7zuq0Pl8fXtknWWcEEbWoGnv14OQvQoYIY9HaEHavxY8HPXhoArWLFgbz37+XB1Ti729pJ2xPCa4cZ4T9EgzIwA4WbfNu1LkVVwy2rroYA6Yz4G2tjPHy4pYEAZylcwnwv5QycpT71HscGP30b+kGMyB9NXQZANOg0IbOGmon0fSRU2RT/+PqvItE4Ib0nd4KE7SUYl11smIqj2eZjkeV5o+tD8cMBE+1ABnm7XTtSmdpd8ht1c=;z7v0+Xt6N7+KXUT2RI9FuQ=="
 ---

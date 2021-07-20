@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-19-when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions.md",
+      "title": "When AI Self-Driving Cars Sue Due To Dangerous Roadway Conditions",
+      "excerpt": "When the roadway has a dangerous condition due to governmental neglect and there are untoward results, maybe AI self-driving cars will aid in lawsuits. Here's how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f4e028fd4663e416aa1ed1%2F0x0.jpg%3FcropX1%3D216%26cropX2%3D2936%26cropY1%3D0%26cropY2%3D2039",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/amp/",
+      "publishedDateTime": "2021-07-19T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-07-18-tesla-offers-full-self-driving-capability-as-a-subscription.md",
       "title": "Tesla offers Full Self-Driving Capability as a subscription",
       "excerpt": "It’s looking more and more like the future of buying an automobile will include features that you have to pay for each month. We have seen several automakers offer subscriptions to services",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 339,
+      "heat": 359,
       "tags": null,
       "images": [
         {
@@ -103,6 +155,58 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom.md",
+      "title": "Adorable Kitten Hiding Under An AI Self-Driving Car Provides Bright-Eyed Pearls Of Wisdom",
+      "excerpt": "Something adorable could have been a heap of unpleasant trouble. A kitten had decided to hide underneath a parked AI self-driving car. I’m sure that you’ve seen or even personally witnessed having a cat or dog that opted to sneak under your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c556e2c64f1f80827d3713%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3342%26cropY1%3D21%26cropY2%3D1900",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/amp/",
+      "publishedDateTime": "2021-07-17T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -278,6 +382,101 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-could-the-pittsburgh-left-help-argo-ai-win-the-self-driving-car-race.md",
+      "title": "Could the ‘Pittsburgh left’ help Argo AI win the self-driving car race?",
+      "excerpt": "Yet the driverless technology company Argo AI ... and make sure its artificial intelligence systems deeply understand them — not just where the street signs, traffic lights and road markings ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi",
+      "originalUrl": "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/75020f5/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6c%2Fcd%2F534512b98dfada9db3836e453a91%2Fae1ef9f1bada4fafadcd0384a152cc0a",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_amp=true",
+      "publishedDateTime": "2021-07-16T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-self-driving-startup-aurora-to-go-public-through-spac.md",
+      "title": "Self-Driving Startup Aurora to Go Public Through SPAC",
+      "excerpt": "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-370052/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
+      "publishedDateTime": "2021-07-15T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1256,196 +1455,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g.md",
-      "title": "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G",
-      "excerpt": "G is beginning to power everything from connected farms to connected cars! Today, Halo launched one of the first commercial driverless car services in the U.S. running on the T-Mobile ( News - Alert) (NASDAQ: TMUS) 5G network in Las Vegas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/08/9405394.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/08/9405394.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars.md",
-      "title": "If McDonald’s Is Rolling Out A Customer Loyalty Program, So Should AI Self-Driving Cars",
-      "excerpt": "Customer loyalty programs are pervasive, though surprisingly McDonald's is just now rolling out their nationwide program. This brings up the aspect that AI-based true self-driving cars ought to have loyalty programs for riders,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e23f3e7dfe3a5ff4aa4e5b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4158%26cropY1%3D137%26cropY2%3D2909",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-07-07T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-europe-artificial-intelligence-chipsets-market-by-size-growth-opportunity-and-forecast-to-2026.md",
-      "title": "Europe Artificial Intelligence Chipsets Market by Size, Growth, Opportunity and Forecast to 2026",
-      "excerpt": "Selbyville, Delaware According to the research report titled 'Europe Artificial Intelligence Chipsets Market Size",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-chipsets-market-by-size-growth-opportunity-and-forecast-to-2026-2021-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-chipsets-market-by-size-growth-opportunity-and-forecast-to-2026-2021-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses.md",
-      "title": "Yandex Self-Driving Group partners with GrubHub to bring robotic delivery to college campuses",
-      "excerpt": "Yandex Self-Driving Group, a unit of Yandex, the publicly-traded Russian tech giant, has announced a partnership with food delivery service GrubHub to be its multi-year robotic delivery provider across American college campuses.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/",
-      "originalUrl": "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/YanexRoverDeliveryMI_2-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/amp/",
-      "publishedDateTime": "2021-07-06T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

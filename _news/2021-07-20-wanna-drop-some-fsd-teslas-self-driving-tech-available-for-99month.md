@@ -171,6 +171,22 @@ related:
         width: 620
         height: 301
         isCached: true
+  - title: "Tesla Launches Its Full Self-Driving Subscription Plan For $199 A Month"
+    excerpt: "It might still be a while before we can expect to see full self-driving cars hit the road, but if you’re the owner of a Tesla vehicle,"
+    publishedDateTime: 2021-07-19T11:47:00Z
+    webUrl: "https://www.ubergizmo.com/2021/07/tesla-full-self-driving-subscription-199-a-month/"
+    ampWebUrl: "https://www.ubergizmo.com/2021/07/tesla-full-self-driving-subscription-199-a-month/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/07/tesla-full-self-driving-subscription-199-a-month/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2017/11/tesla_roadster_3.jpg"
+        width: 1178
+        height: 526
+        isCached: true
   - title: "Tesla launches subscription plan for Full Self-Driving package"
     excerpt: "Tesla has launched a new $199-per-month subscription plan for its Full Self-Driving package. Previously, Tesla owners would have had to purchase the Full S"
     publishedDateTime: 2021-07-19T16:09:00Z
@@ -346,6 +362,20 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2021/01/Tesla-Model-S-2021.jpg"
         width: 1344
         height: 756
+        isCached: true
+  - title: "Your Tesla Can Now Have Full Self-Driving for $199 a Month"
+    excerpt: "Until now, the full self-driving (FSD) feature in Tesla electric vehicles could only be purchased for an extra $10,000 at the time of car purchase, but this will soon be a thing of the past. Elon Musk's company launched a subscription plan to offer this ..."
+    publishedDateTime: 2021-07-20T08:22:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/Your-Tesla-Can-Now-Have-Full-Autonomous-Driving-16324977.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/05/07/21254625/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Tesla’s Full Self-Driving Costs as Much Per Month as Leasing an Entire Car"
     excerpt: "Now, Tesla is offering the same package for a cool $199 per month as well, Reuters reports — or $99 for Tesla owners who already bought into the now-discontinued Enhanced Autopilot package. That’s a substantial amount of money — about as much as you’d pay on a used car lease,"

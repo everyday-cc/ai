@@ -9,8 +9,8 @@ ampWebUrl: "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Los Angeles Times
@@ -38,6 +38,15 @@ related:
       name: Governing
       domain: governing.com
     quality: 24
+  - title: "Studying local traffic quirks could pave the way for self-driving cars"
+    excerpt: "Driverless tech company Argo AI is testing and training its sensors and software in seven different cities at once, including Detroit, to learn more."
+    publishedDateTime: 2021-07-16T12:30:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/07/16/studying-local-traffic-quirks-could-pave-way-self-driving-cars/7990232002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 4
 
 secured: "9r7+dk3CQG1BDzPN4OlLZX3p7HcmQ6pgbTqwvfir0i1zCvEmZMHqJDmSJJ/pV8dvri2El84SMoDt2C0PooCROdYXKb3dL+EQN3f+mrhv5u+t2qLaPYedPQysQDe6kTayibN1pUdKTh1kkchoc1cZGCmYR7RtXOj26lLjzBGCxmTNcEbq/v0snykHxQNqLGKLK1SBqPMstJsjPAI2VkEiHufWlpRLAswj/LaWVYmER8PNHnr8/WqC1MBk1IZmlW0g50Ca8zetIt8CwrQWFq1rgzzdhChcQZ+Cj/D+HUkJsQH5bTv2prxaHs1utLmxLqjwgDt5ZGVxhVBQNpLtF7nr/OAS/mB6iVE+35cxHxbJj8Y=;aVTFnQLFtzO7Hstl5xXuZQ=="
 ---

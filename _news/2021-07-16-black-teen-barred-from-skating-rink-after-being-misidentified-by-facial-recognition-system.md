@@ -89,22 +89,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "A Black teenager was kicked out of a skating rink after a false facial recognition match"
-    excerpt: "A Black girl was kicked out of a skating rink in Michigan after its facial recognition system misidentified her, according to a new report."
-    publishedDateTime: 2021-07-15T16:36:00Z
-    webUrl: "https://www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/"
-    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-misidentified-black-girl-skating-rink/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 50
-    images:
-      - url: "https://uploads.dailydot.com/2021/07/Black-Girl-Falsely-Identified-By-Facial-Recognition-At-Skating-Rink.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Black Girl Banned From Michigan Skating Rink After Facial Recognition Software Misidentifies Her"
     excerpt: "Recently, a Black teenager was removed and banned from a Livonia, Mich. skating rink. The teen and her parents say the business’ facial recognition software mistook her for another Black girl who had gotten into a brawl there prior to the incident."
     publishedDateTime: 2021-07-15T23:30:00Z

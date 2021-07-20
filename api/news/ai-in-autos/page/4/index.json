@@ -2,6 +2,178 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-17-baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis.md",
+      "title": "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis",
+      "excerpt": "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis",
+      "originalUrl": "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-alphabets-waymo-raises-25-billion-in-first-fresh-funding-in-a-year.md",
+      "title": "Alphabet's Waymo raises $2.5 billion in first fresh funding in a year",
+      "excerpt": "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,” Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-waymo-funding-idCAKCN2DS1EQ",
+      "originalUrl": "https://www.reuters.com/article/us-waymo-funding-idCAKCN2DS1EQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210616&t=2&i=1565932671&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5F0Q5",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKCN2DS1EQ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKCN2DS1EQ",
+      "publishedDateTime": "2021-06-17T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-chinas-ponyai-plans-to-begin-commercial-driverless-robotaxi-service-in-california-in-2022.md",
+      "title": "China’s Pony.ai plans to begin commercial driverless robotaxi service in California in 2022",
+      "excerpt": "Chinese startup Pony.ai has commenced testing of its driverless vehicles on public roads he the US state of California. This is a prelude to the full rollout of commercial robotaxi services in the US planned for 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/06/17/chinas-pony-ai-commercial-driverless-robotaxi-service-california-2022/",
+      "originalUrl": "https://www.gizmochina.com/2021/06/17/chinas-pony-ai-commercial-driverless-robotaxi-service-california-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/pony.ai_.png",
+          "width": 731,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs.md",
+      "title": "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs",
+      "excerpt": "Baidu, Inc. is partnering with BAIC Group's EV brand ARCFOX to jointly release Apollo Moon, a new generation of robotaxis that are set to be mass-produced with a per unit manufacturing price of RMB 480,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan",
+      "originalUrl": "https://www.nasdaq.com/press-release/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-baidu-pushes-to-put-driverless-taxis-on-chinas-roads-pledging-to-build-1000-in-3-years.md",
       "title": "Baidu pushes to put driverless taxis on China's roads, pledging to build 1,000 in 3 years",
       "excerpt": "Baidu has been testing driverless taxis but has now partnered with state-owned automaker BAIC Group to try and commercialize a robotaxi service in China.",

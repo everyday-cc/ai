@@ -56,20 +56,6 @@ related:
         height: 441
         isCached: true
   - title: "ABB to Deliver Artificial Intelligence Modelling for Data Center Energy Optimization in Singapore"
-    excerpt: "Pilot project with ST Telemedia Global Data Centres to map the potential of artificial intelligence, machine learning and advanced analytics, with a target of at least 10 percent energy savings."
-    publishedDateTime: 2021-07-15T16:29:00Z
-    webUrl: "https://www.automation.com/en-us/articles/july-2021/abb-artificial-intelligence-modelling-data-center"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 24
-    images:
-      - url: "https://www.automation.com/getmedia/d7daa78f-cfc4-40c3-8adb-072278a69538/ABB-news-July-15-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
-  - title: "ABB to Deliver Artificial Intelligence Modelling for Data Center Energy Optimization in Singapore"
     excerpt: "NewswireToday - /newswire/ - Singapore, Singapore, 2021/07/15 - Pilot project with ST Telemedia Global Data Centres to map the potential of artificial intelligence, machine learning and advanced analytics,"
     publishedDateTime: 2021-07-15T18:01:00Z
     webUrl: "https://www.newswiretoday.com/news/175815/"
@@ -79,6 +65,6 @@ related:
       domain: newswiretoday.com
     quality: 6
 
-secured: "RA1UHmmLB41EAk0eHa7I0OxlEmlZfuIbYKcI99zswjglfnpHRhfdLOSc610DjXEkrsERukLUTwnP+8+mt+21La89EOTGbf43Gj8DBJkmQagzhxU4i4CXFLKA3MP4OIU6JRYJ355mi33wUqRhn74CMbN/q03u46STwPnHQqOg3xqch0M67KMnFudXmyq87V7qm4t7ekLSgMrhYlis4UBI69UBaaY+xRiaiSAfkPcdnpH4m3xzXT5hMMi7r9EU3ILVk12vk8lEwmq8m3UhzVE5Npv7q9stSxZET9UNPp11v8F4GoTFn59/G8vFH3j4EO6LMKJLHY0TIYhnQUJ6xpG0f+y6HOO7xsqBGzXvd/ZX0l4=;oBdLI8iJINSB0DEeHSdkkw=="
+secured: "i12LXihwQWGvIQLAdkku2y80LTA8gcDpZLMHpP1BVfUlun+JZlV9cxQaluFREAAD6SHprctpXh55KBuK7zRSvXyHjWubagLUCFnaOdIO71/D4G+tR50PYaOmAmFQ5knkGr+g7iF2gNaE1aTJYre/epim2a0BmR38MIpI2An/AYkW3RN6lX8MvqdLJQwINxE4zRHIt+wU951z2qyPSnMwKdJtyn7/Uh94xgcl0W/PbMAZm+ZJbSURehoG4PnWAqcJuZNI7qcA3FRHWA+eDZjNr4kqrJ7BI+W0YddpF/NW1ZjAm9C9xK9sLIio+8L+H8snDuhtG+c5oJi1YQTIrjnuSeutowUbYVf46L0EAgQynhtBlxa6sA74bcrxMWN3uPXyCulmrvig2PN8pS2gwDs+7F21Fc1tt5/BIbiw4zNoOgh2c3jPhnBqEAyKVWaVC36O++FN9JZGtW0vEQjqOjSeKmyvnnCWvezC1cOl1uvh9GfvDmLLwOjQ2Thl0FnlS4EQBCi+O4w7yudqxVhjVmHVKQ==;orEOxaUUDbK29ansfvrkmQ=="
 ---
 

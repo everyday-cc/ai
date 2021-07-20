@@ -27,105 +27,395 @@ images:
     isCached: true
 
 related:
-  - title: "Culture Eats AI Self-Driving Cars For Lunch"
-    excerpt: "There is a famous saying that culture eats strategy, which can be reformulated to postulate that culture eats AI self-driving cars. Here's why that might ring true."
-    publishedDateTime: 2021-07-15T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/amp/"
+  - title: "Tesla offers Full Self-Driving Capability as a subscription"
+    excerpt: "It’s looking more and more like the future of buying an automobile will include features that you have to pay for each month. We have seen several automakers offer subscriptions to services"
+    publishedDateTime: 2021-07-18T16:17:00Z
+    webUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/"
+    ampWebUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: SlashGear
+      domain: slashgear.com
     quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F468340908%2F0x0.jpg%3FcropX1%3D121%26cropX2%3D3349%26cropY1%3D191%26cropY2%3D2007"
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/tesla-fsd.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Tesla launches its Full Self-Driving subscription package for $199 per month"
+    excerpt: "Tesla has officially launched its Full Self-Driving subscription package for $199 per month or $99 for those who have previously bought the now discontinued Enhanced Autopilot package. Tesla FSD Subscription Tesla currently sells the Full Self-Driving package for a one-time payment of $10,"
+    publishedDateTime: 2021-07-17T03:33:00Z
+    webUrl: "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/"
+    ampWebUrl: "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 86
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla launches full self driving subscriptions at $199 a month"
+    excerpt: "To date, Tesla offered the Full Self-Driving package for a one-time payment of $10,000. Tesla owners can cancel their monthly FSD subscription at any time, according to the website. According to Electrek,"
+    publishedDateTime: 2021-07-18T08:32:00Z
+    webUrl: "https://gulfnews.com/business/tesla-launches-full-self-driving-subscriptions-at-199-a-month-1.1626597178223"
+    ampWebUrl: "https://gulfnews.com/amp/business/tesla-launches-full-self-driving-subscriptions-at-199-a-month-1.1626597178223"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/tesla-launches-full-self-driving-subscriptions-at-199-a-month-1.1626597178223"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 74
+    images:
+      - url: "https://imagevars.gulfnews.com/2016/1/8/1_16a0803c500.1650250_2604346981_16a0803c500_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
+  - title: "Tesla To Add Auto Shift To All Cars With Self Driving Package"
+    excerpt: "When Tesla Inc (NASDAQ: TSLA) first revealed its refreshed Model S and X vehicles, many were confused on the lack of traditional stalks near the steering wheel."
+    publishedDateTime: 2021-07-19T14:14:00Z
+    webUrl: "https://www.benzinga.com/tech/21/07/22040689/tesla-to-add-auto-shift-to-all-cars-with-self-driving-package"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22040689"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22040689"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/model_s_interior.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Tesla Full Self Driving subscription launches — and it costs $199 a month"
+    excerpt: "If you fancy getting your hands on a Tesla with the ‘Full Self Driving’ add-on, but don’t have $10,000 to spend all in one go, you’re in luck. Because Tesla is offering it as a $199 monthly subscription."
+    publishedDateTime: 2021-07-19T11:12:00Z
+    webUrl: "https://www.tomsguide.com/news/tesla-full-self-driving-subscription-launches-and-it-costs-dollar199-a-month"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-full-self-driving-subscription-launches-and-it-costs-dollar199-a-month"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-full-self-driving-subscription-launches-and-it-costs-dollar199-a-month"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 73
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/HuWJC7rtL9N3Qec7TYkb3J-480-80.jpg"
+        width: 480
+        height: 320
+        isCached: true
+  - title: "Wanna Drop Some FSD? Tesla’s “Self-Driving” Tech Available for $99/Month"
+    excerpt: "The subscription model is available for owners of Tesla models running the company's Full Self-Driving computer 3.0 or newer hardware and the brand's Autopilot function. Tesla started placing FSD computer 3."
+    publishedDateTime: 2021-07-20T00:15:00Z
+    webUrl: "https://www.motortrend.com/news/tesla-fsd-full-self-driving-subscription-price/"
+    ampWebUrl: "https://www.motortrend.com/news/tesla-fsd-full-self-driving-subscription-price/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-fsd-full-self-driving-subscription-price/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 73
+    images:
+      - url: "https://st.motortrend.com/uploads/sites/5/2021/06/2022-Tesla-Model-S.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Tesla Introduces $199 Full Self-Driving Monthly Subscription"
+    excerpt: "Tesla has introduced a subscription offering that allows its customers to use its Full Self-Driving (FSD) autonomous driving software in supported vehicles in exchange for $199 per month. Electrek reported that Tesla customers who purchased the Enhanced Autopilot package—which the company no longer offers—will be able to subscribe to FSD for $99 per month instead."
+    publishedDateTime: 2021-07-17T16:40:00Z
+    webUrl: "https://in.pcmag.com/cars-auto/143779/tesla-introduces-199-full-self-driving-monthly-subscription"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/t/tesla-intr/tesla-introduces-199-full-self-driving-monthly-subscription_ch5r.1200.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "When AI Self-Driving Cars Sue Due To Dangerous Roadway Conditions"
-    excerpt: "When the roadway has a dangerous condition due to governmental neglect and there are untoward results, maybe AI self-driving cars will aid in lawsuits. Here's how."
-    publishedDateTime: 2021-07-19T15:29:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/amp/"
+  - title: "Tesla full self-driving is not what most people call 'full' self-driving"
+    excerpt: "Tesla has started offering a subscription add-on for its automobiles for so-called self-driving features, though the language is a little confusing. Tesla just announced that it would sell a subscription for an enhanced version of what it calls \"autopilot,"
+    publishedDateTime: 2021-07-19T07:23:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/tesla-full-self-driving-is-not-full-self-driving/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-full-self-driving-is-not-full-self-driving/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-full-self-driving-is-not-full-self-driving/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f4e028fd4663e416aa1ed1%2F0x0.jpg%3FcropX1%3D216%26cropX2%3D2936%26cropY1%3D0%26cropY2%3D2039"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Adorable Kitten Hiding Under An AI Self-Driving Car Provides Bright-Eyed Pearls Of Wisdom"
-    excerpt: "Something adorable could have been a heap of unpleasant trouble. A kitten had decided to hide underneath a parked AI self-driving car. I’m sure that you’ve seen or even personally witnessed having a cat or dog that opted to sneak under your ..."
-    publishedDateTime: 2021-07-17T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/amp/"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
+  - title: "Tesla launches Full Self-Driving subscription package that costs $199 per month"
+    excerpt: "Tesla, one of the leading electric car manufacturers, has officially launched its Full Self-Driving (FSD) subscription which costs $199 per month. Those who previously bought the Enhanced Autopilot package will get it for $99 as the package is now discontinued."
+    publishedDateTime: 2021-07-19T04:57:00Z
+    webUrl: "https://www.gizmochina.com/2021/07/19/tesla-launches-full-self-driving-subscription/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 65
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c556e2c64f1f80827d3713%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3342%26cropY1%3D21%26cropY2%3D1900"
-        width: 1200
-        height: 675
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/Tesla-Model-S.jpeg"
+        width: 2880
+        height: 1800
         isCached: true
-  - title: "Apple is tapping Watch mastermind and health chief Kevin Lynch for its work on self-driving cars"
-    excerpt: "Lynch, an Apple Watch chief, is working on Apple's car team, which aims to produce a smart passenger vehicle."
-    publishedDateTime: 2021-07-16T20:18:00Z
-    webUrl: "https://www.businessinsider.com/apple-tapping-kevin-lynch-for-autonomous-car-project-2021-7"
+  - title: "Tesla Unveils $199/Month Full Self Driving Subscription Package"
+    excerpt: "Tesla Inc. has launched a Full Self-Driving or FSD subscription for its driver-assistance software package for $199 per month. The"
+    publishedDateTime: 2021-07-19T13:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-unveils-199-month-full-self-driving-subscription-package-1030620591"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 41
+    quality: 64
+  - title: "Breaking: Tesla Releases Full Self-Driving Subscription"
+    excerpt: "Tesla has finally released the long-awaited subscription option for their Full Self-Driving feature. Here are the details."
+    publishedDateTime: 2021-07-17T06:40:00Z
+    webUrl: "https://www.thestreet.com/tesla/news/tesla-releases-full-self-driving-subscription"
+    ampWebUrl: "https://www.thestreet.com/tesla/.amp/news/tesla-releases-full-self-driving-subscription"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tesla/.amp/news/tesla-releases-full-self-driving-subscription"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/60f18a21016a3200188369b3?width=1200&format=jpeg"
-        width: 1200
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgyNDgzNDUxNjMzNDc2NzM5/section-hero-carnival2x.jpg"
+        width: 620
+        height: 301
+        isCached: true
+  - title: "Tesla launches subscription plan for Full Self-Driving package"
+    excerpt: "Tesla has launched a new $199-per-month subscription plan for its Full Self-Driving package. Previously, Tesla owners would have had to purchase the Full S"
+    publishedDateTime: 2021-07-19T16:09:00Z
+    webUrl: "https://www.consumeraffairs.com/news/tesla-launches-subscription-plan-for-full-self-driving-package-071921.html"
+    ampWebUrl: "https://www.consumeraffairs.com/amp/news/tesla-launches-subscription-plan-for-full-self-driving-package-071921.html"
+    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/tesla-launches-subscription-plan-for-full-self-driving-package-071921.html"
+    type: article
+    provider:
+      name: ConsumerAffairs
+      domain: consumeraffairs.com
+    quality: 59
+    images:
+      - url: "https://media.consumeraffairs.com/files/news/Tesla_logo_on_steering_wheel_JasonDoiy_Getty_Images.jpg"
+        width: 900
         height: 600
         isCached: true
-  - title: "Every city's drivers have quirks. Studying them could make self-driving cars work anywhere"
-    excerpt: "To understand why it's so hard to make a car that drives itself, pay attention to how people cross the street next time you travel. In Los Angeles, pedestrians wait"
-    publishedDateTime: 2021-07-16T08:15:00Z
-    webUrl: "https://www.fltimes.com/news/nation/every-citys-drivers-have-quirks-studying-them-could-make-self-driving-cars-work-anywhere/article_8a43202a-ded3-5574-a3e6-06c44f1ff5d9.html"
+  - title: "Tesla Mobile App Update Includes $199 Monthly Self-Driving Subscription"
+    excerpt: "Tesla plans on offering a new subscription version of its Full Self-Driving package with several features for self-driving cars including navigating on autopilot, autopark and other things, a report from Electrek says."
+    publishedDateTime: 2021-07-19T01:48:00Z
+    webUrl: "https://www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/"
+    ampWebUrl: "https://www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/amp/"
     type: article
     provider:
-      name: Finger Lakes Times
-      domain: fltimes.com
-    quality: 14
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/d/78/d788e464-fed4-51ee-a341-1bab6f35538c/60f14ae3ae8fc.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
-        width: 840
-        height: 630
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/tesla-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "Every city’s drivers have quirks. Studying them could make self-driving cars work anywhere"
-    excerpt: "To understand why it’s so hard to make a car that drives itself, pay attention to how people cross the street next time you travel. In Los Angeles, pedestrians wait for the walk sign. In San Francisco"
-    publishedDateTime: 2021-07-19T13:02:00Z
-    webUrl: "https://www.columbian.com/news/2021/jul/19/every-citys-drivers-have-quirks-studying-them-could-make-self-driving-cars-work-anywhere/"
+  - title: "Tesla makes Full Self-Driving available as $199 monthly subscription"
+    excerpt: "Tesla is making its pricey Full Self-Driving (FSD) electronic driver-assist feature available as a subscription. FSD is being offered as a $199 monthly subscription for cars equipped with Basic Autopilot and $99 when Enhanced Autopilot is equipped."
+    publishedDateTime: 2021-07-19T12:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1132935_tesla-makes-full-self-driving-available-as-199-monthly-subscription"
     type: article
     provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 14
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
     images:
-      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"
+      - url: "https://images.hgmsites.net/hug/2020-tesla-model-3_100736264_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Tesla Will Now Offer Monthly Subscriptions For Self-Driving Package At $199 Per Month"
+    excerpt: "Tesla, one of the largest electric vehicle manufacturers has rolled out the monthly subscription for its Full Self Driving package and it costs $199 per month. The owners who had already invested in the Enhanced Autopilot package will get a rebate of $100 ..."
+    publishedDateTime: 2021-07-19T07:50:00Z
+    webUrl: "https://www.republicworld.com/auto-news/cars/tesla-will-now-offer-monthly-subscriptions-for-self-driving-package-at-199-dollars-per-month.html"
+    ampWebUrl: "https://www.republicworld.com/amp/auto-news/cars/tesla-will-now-offer-monthly-subscriptions-for-self-driving-package-at-199-dollars-per-month.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/auto-news/cars/tesla-will-now-offer-monthly-subscriptions-for-self-driving-package-at-199-dollars-per-month.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 52
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/n3w3ddyspcqrq15v_1626680026.jpeg"
+        width: 768
+        height: 437
+        isCached: true
+  - title: "Tesla’s Smart Summon feature is currently a fun-trick of Full-Self Driving suite"
+    excerpt: "Elon Musk tweeted that the current Tesla's smart summon feature is only a fun trick and is yet to be a useful feature in upcoming updates."
+    publishedDateTime: 2021-07-20T03:30:00Z
+    webUrl: "https://techstory.in/teslas-smart-summon-feature-is-a-fun-trick-of-full-self-driving-suite/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 49
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/07/tesla-enhanced-summon-app-model-3-scaled.jpg"
+        width: 2560
+        height: 1419
+        isCached: true
+  - title: "Full-Self Driving subscription launched in Tesla cars equipped with hardware 3.0 or above"
+    excerpt: "Tesla Full-Self Driving technology is launched in Tesla cars software with a monthly subscription offer at $99- $199."
+    publishedDateTime: 2021-07-18T01:00:00Z
+    webUrl: "https://techstory.in/full-self-driving-subscription-launched-in-tesla-cars-equipped-with-hardware-3-0/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 45
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/07/tesla-model-3-compact-full-electric-car-interior-with-a-news-photo-1609286548_.jpg"
+        width: 640
+        height: 425
+        isCached: true
+  - title: "Tesla Launches Full Self-Driving Subscription, Even Though It Is Nowhere Near Achieving Full Autonomy"
+    excerpt: "Tesla has launched its monthly subscription service for its Full Self-Driving package, even though it is still a long way away from offering a true Level 5 fully-self driving package to customers. The car manufacturer has previously sold its Full Self-Driving package as a $10,"
+    publishedDateTime: 2021-07-19T13:05:00Z
+    webUrl: "https://www.carscoops.com/2021/07/tesla-launches-full-self-driving-subscription-even-though-it-is-nowhere-near-achieving-full-autonomy/"
+    ampWebUrl: "https://www.carscoops.com/2021/07/tesla-launches-full-self-driving-subscription-even-though-it-is-nowhere-near-achieving-full-autonomy/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/tesla-launches-full-self-driving-subscription-even-though-it-is-nowhere-near-achieving-full-autonomy/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 44
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/05/Tesla-Autopilot-report-00-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
+  - title: "Tesla Launches Full Self-Driving Subscription Package Starting At $199"
+    excerpt: "Tesla has just launched its Full Self-Driving subscription package starting at $199. Here are all the details on this."
+    publishedDateTime: 2021-07-17T15:25:00Z
+    webUrl: "https://www.redmondpie.com/tesla-launches-full-self-driving-subscription-package-starting-at-199/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 39
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
-  - title: "Studying local traffic quirks could pave the way for self-driving cars"
-    excerpt: "Driverless tech company Argo AI is testing and training its sensors and software in seven different cities at once, including Detroit, to learn more."
-    publishedDateTime: 2021-07-16T12:30:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/07/16/studying-local-traffic-quirks-could-pave-way-self-driving-cars/7990232002/"
+  - title: "Tesla to now offer monthly self-driving subscriptions"
+    excerpt: "American electric vehicle and clean energy company Tesla has now started offering a monthly subscription for its Full Self Driving package for USD 199 per month"
+    publishedDateTime: 2021-07-18T11:36:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270346234/tesla-to-now-offer-monthly-self-driving-subscriptions"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 4
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1626608118.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "2022 Audi RS 3, BMW ZBF 7er, Tesla Full Self-Driving: Today's Car News"
+    excerpt: "Comment Now! Audi has revealed its redesigned RS 3 compact performance sedan. The new car represents only an evolution of its predecessor, but"
+    publishedDateTime: 2021-07-19T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1119514_2022-audi-rs-3-bmw-zbf-7er-tesla-full-self-driving-today-s-car-news"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/audi-a3_100799779_h.jpg"
+        width: 1920
+        height: 1136
+        isCached: true
+  - title: "Tesla Launches Full Self-Driving Subscription"
+    excerpt: "Tesla launched a subscription to its Full Self-Driving feature — which is currently neither fully autonomous nor self-driving, but a Level 2 semi-autonomous driving system."
+    publishedDateTime: 2021-07-19T14:51:00Z
+    webUrl: "https://www.cars.com/articles/tesla-launches-full-self-driving-subscription-438491/"
+    type: article
+    provider:
+      name: Cars.com
+      domain: cars.com
+    quality: 39
+    images:
+      - url: "https://images.cars.com/cldstatic/wp-content/uploads/tesla-model-y-2021-02-angle--black--dynamic--exterior--rear.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Tesla Rolls Out $200 Monthly Subscription for ‘Full Self-Driving’"
+    excerpt: "Some vague language on Tesla's part means that vehicles marketed as having full Autopilot capabilities might need an additional $1,500 hardware upgrade to use FSD."
+    publishedDateTime: 2021-07-19T19:50:00Z
+    webUrl: "https://www.extremetech.com/extreme/324864-tesla-rolls-out-200-monthly-subscription-for-full-self-driving"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/01/Tesla-Model-S-2021.jpg"
+        width: 1344
+        height: 756
+        isCached: true
+  - title: "Your Tesla Can Now Have Full Self-Driving for $199 a Month"
+    excerpt: "Until now, the full self-driving (FSD) feature in Tesla electric vehicles could only be purchased for an extra $10,000 at the time of car purchase, but this will soon be a thing of the past. Elon Musk's company launched a subscription plan to offer this ..."
+    publishedDateTime: 2021-07-20T08:22:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/Your-Tesla-Can-Now-Have-Full-Autonomous-Driving-16324977.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/05/07/21254625/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Tesla’s Full Self-Driving Costs as Much Per Month as Leasing an Entire Car"
+    excerpt: "Now, Tesla is offering the same package for a cool $199 per month as well, Reuters reports — or $99 for Tesla owners who already bought into the now-discontinued Enhanced Autopilot package. That’s a substantial amount of money — about as much as you’d pay on a used car lease,"
+    publishedDateTime: 2021-07-19T20:05:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-full-self-driving-subscription"
+    ampWebUrl: "https://futurism.com/tesla-full-self-driving-subscription/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-full-self-driving-subscription/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 37
+  - title: "Tesla wants you to drop up to $200 a month for its Full Self-Driving feature"
+    excerpt: "If you’re a Tesla owner and didn’t purchase Full Self-Driving (FSD) when you first bought your car, you’re in luck. Tesla is now offering the chance to get FSD as a monthly subscription. It was bound to happen,"
+    publishedDateTime: 2021-07-19T15:56:00Z
+    webUrl: "https://knowtechie.com/tesla-wants-you-to-drop-up-to-200-a-month-for-its-full-self-driving-feature/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 36
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ Beta Software Used on Public Roads Lacks Safeguards"
+    excerpt: "Tesla's new Full Self-Driving beta 9 software concerns safety advocates at Consumer Reports and elsewhere. Here's why."
+    publishedDateTime: 2021-07-19T17:31:00Z
+    webUrl: "https://www.consumerreports.org/car-safety/tesla-full-self-driving-beta-software-lacks-safeguards-a6698414036/"
+    type: article
+    provider:
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 35
+    images:
+      - url: "https://article.images.consumerreports.org/image/upload/v1626376718/prod/content/dam/CRO-Images-2021/Cars/07July/CR-Cars-InlineHero-Tesla-Model-Y-r-driving-7-21"
+        width: 1199
+        height: 674
+        isCached: true
 
 secured: "j/9p4e8rHdjVWSfkiAOKTE8LCh51p3/rVbp2aA8GVoKJqhxdT+XrFtEC9MUAz+1r+/zrqIE5IV3uMo3Hru1N5fs6FcJkbgexofGj829zzvpKaHY0lZNhnua9CtDq8Fg1TlJ0noJZvZ+x2SSEYNlPjRQwjltkHCceA1StvZ73AgQE16A2lRxgJwUE2doc3WZAhZiGusOKzqmlypHynOSwlQ0RMYk3APHmnrWqNzVqG0ZrxTqp/snfZf9kPOMx4kwbzvZkfoVdUbCfyDwAzjByEGs3jXhMYGHrt6RLSobXBNBXxskRoW6vw2M15AIdIiaAT/2DqI01qhFQVLpvwX2Ov2BYdyYEqKCY94FfYWoWZEs=;xyB/1h+HK+Rr9y6miWvmVg=="
 ---

@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Tech Developer Aurora Raising $2 Billion In SPAC Listing That Values It At $11 Billion"
-    excerpt: "Funds from the deal will help the company get its self-driving truck technology ready for commercialization by late 2023."
-    publishedDateTime: 2021-07-15T16:17:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/15/self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f05e1233162bebb522ee31%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Self-Driving Startup Aurora to Go Public Through SPAC"
-    excerpt: "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc."
-    publishedDateTime: 2021-07-15T16:53:00Z
-    webUrl: "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-370052/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Self-Driving Startup Aurora to Go Public Through SPAC"
     excerpt: "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc."
     publishedDateTime: 2021-07-15T17:53:00Z
@@ -118,6 +86,20 @@ related:
       - url: "https://www.reuters.com/resizer/tGcK61roRLSIaZlr2zR7_dVwzVI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DGCEYJY2RBPH7C43FK3G7NWEMY.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "AI data security with backing from Bill Gates, Peyton Manning, is going public through a SPAC"
+    excerpt: "A security company that uses artificial intelligence and advanced sensors technology to screen for threats at theme parks, sports stadiums and other large venues, is going public."
+    publishedDateTime: 2021-07-19T14:51:00Z
+    webUrl: "https://www.wraltechwire.com/2021/07/19/ai-data-security-with-backing-from-bill-gates-peyton-manning-is-going-public-through-a-spac/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 43
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+        width: 772
+        height: 434
         isCached: true
   - title: "Company That Absorbed Uber Self-Driving Is Going Public in $11 Billion SPAC Deal"
     excerpt: "The latest to join the SPAC boom is Aurora Innovation, the Silicon Valley startup that absorbed Uber’s self-driving unit last year. Aurora announced Thursday that it will go public later this year through a reverse merger with Reinvent Technology Partners,"

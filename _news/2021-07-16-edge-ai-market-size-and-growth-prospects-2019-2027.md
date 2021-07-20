@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-ai-market-size-and-
 webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-size-and-growth-prospects-2019-2027-2021-07-15"
 type: article
 quality: 69
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/05/3-4-390x220.jpg"
         width: 390
         height: 220
+        isCached: true
+  - title: "Artificial Intelligence Products Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2027"
+    excerpt: "Jul 20, 2021 (Heraldkeepers) -- This report describes the global market size of Artificial Intelligence Products from 2016 to 2020 and its CAGR from 2016 to 2020, and also forecasts its market size to the end of 2026 and its CAGR from 2021 to 2026."
+    publishedDateTime: 2021-07-20T07:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2020-2027-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global Artificial Intelligence (AI) in Retail Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Retail Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial intelligence (AI) refers to machines that can mimic"

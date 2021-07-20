@@ -9,7 +9,7 @@ ampWebUrl: "https://slate.com/technology/2021/07/maine-facial-recognition-govern
 cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp"
 type: article
 quality: 174
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "These retail giants are monitoring you with facial recognition, say campaigners"
-    excerpt: "Campaigners created a list of retail giants they say are using facial recognition in their stores. The group has called for the practice to be banned."
-    publishedDateTime: 2021-07-15T16:58:00Z
-    webUrl: "https://thenextweb.com/news/retail-stores-monitoring-you-with-facial-recognition"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 80
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-1-2.jpg&signature=3261f0546d4c312e6f118f86303e73d5"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "What are the dangers of facial recognition?"
     excerpt: "Robert Williams was wrongfully arrested after a facial recognition system failed to identify the correct culprit. Mr. Williams is seeking justice in a civil rights lawsuit."
     publishedDateTime: 2021-07-18T19:08:00Z

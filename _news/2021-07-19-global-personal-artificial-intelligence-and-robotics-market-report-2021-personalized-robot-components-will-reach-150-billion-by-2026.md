@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/22035744"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22035744"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Digital Pathology Market (2021 to 2026) - Integration of AI into Healthcare Presents Opportunities - ResearchAndMarkets.com"
-    excerpt: "The “Digital Pathology Market - Global Outlook and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global digital pathology market by revenue is expected to grow at a CAGR of over 10% during the period 2020-2026."
-    publishedDateTime: 2021-07-19T11:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-health-coronavirus-pandemic-6f4c15b659114c30bd5757b644c4e922"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global Face Recognition Terminal Market Growth 2021-2026"
     excerpt: "Pages Report] Check for Discount on Global Face Recognition Terminal Market Growth 2021-2026 report by LP Information INC. According to this latest study, the 2021 growth of"
     publishedDateTime: 2021-07-19T12:36:00Z

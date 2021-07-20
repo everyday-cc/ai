@@ -42,20 +42,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Get started with the Redox Amazon HealthLake Connector"
-    excerpt: "Amazon HealthLake is a new, HIPAA-eligible service designed to store, transform, query, and analyze health data at scale. You can bring your healthcare data into Amazon HealthLake using Fast Healthcare Interoperability Resources (FHIR) R4 APIs. If you don’t have your data in FHIR R4, Amazon has collaborated"
-    publishedDateTime: 2021-07-15T15:35:02Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-redox-amazon-healthlake-connector/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/14/3-4144-Sources.jpg"
-        width: 800
-        height: 437
-        isCached: true
   - title: "Today In Healthcare: VC Sinks Big Bucks Into Startups; Telehealth Providers Turn To AI"
     excerpt: "Today in healthcare, HC startups have raised almost $15 billion in VC, and telemedicine is turning to AI to solve its privacy problems."
     publishedDateTime: 2021-07-16T20:19:00Z
@@ -71,20 +57,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/telemedicine-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Announcing the InterSystems HealthShare Message Transformation Service for Amazon HealthLake"
-    excerpt: "Amazon HealthLake is a new HIPAA-eligible service designed to store, transform, query, and analyze health data at scale. Amazon HealthLake removes the heavy lifting of organizing, indexing, and structuring patient information to provide a complete view of the health of individual patients and entire"
-    publishedDateTime: 2021-07-15T15:42:40Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-the-intersystems-healthshare-message-transformation-service-for-amazon-healthlake/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 63
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/14/1-4145.jpg"
-        width: 800
-        height: 294
         isCached: true
   - title: "Amazon (AMZN) HealthLake Boosts AWS for Health Offerings"
     excerpt: "Amazon’s AMZN cloud computing platform, Amazon Web Services (AWS) recently made Amazon HealthLake — a service eligible under the Health Insurance Portability and Accountability Act of 1996 — generally available for healthcare and life sciences organizations."

@@ -27,15 +27,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 40
-  - title: "Vedantu invests in AI learning startup Pedagogy"
-    excerpt: "Live online learning platform Vedantu on Thursday announced a strategic investment in Pedagogy, an AI-enabled learning startup that provides online courses and interactive digital books for ..."
-    publishedDateTime: 2021-07-15T16:25:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210715/3787360.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "VsbF4V1UKL6wy+ltQr6A3rvYNLbIQSU5TCLT81JLlDO3LXeYhdiHC3IFYgdMXHaJJ706pihGtYOCIb5FmyYM+yRCNfMHhTGr2GSvMGMUP1S1VdQKwd1Br9BCYJTdgXGgfTwaKm6Nsj1dy5XwywNEgcsBIJ/oQZ99E+C9DIkzBc4QLSFyPqIMbY3VN0Vi7Td7MRjRPDaYpk/ztSxRv56lvRJvEfpN8GgwnlzI8yRENYH9eWvtVG3Fq4aaQAItE9tX3KHzmNHXC3/WJS2KpdTCdMKBd04Vv/xn5DrRdViKUpCaXGmJkEdjrljsKMM9cqmrVXoMiEtfKqweHRHgTsXVEOkKrerckwet3K6DUDPO1k8=;4mkdzFaX4OaqI/Iz3NSTZg=="
 ---

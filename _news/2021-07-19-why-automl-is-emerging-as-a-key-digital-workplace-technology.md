@@ -8,8 +8,8 @@ webUrl: "https://www.cmswire.com/digital-workplace/why-automl-is-emerging-as-a-k
 ampWebUrl: "https://www.cmswire.com/digital-workplace/why-automl-is-emerging-as-a-key-digital-workplace-technology/amp/"
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/why-automl-is-emerging-as-a-key-digital-workplace-technology/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.cmswire.com/-/media/01acdd35bd944d7cb783256f195b323a.ashx?mw=1024"

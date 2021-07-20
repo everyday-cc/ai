@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-20-amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-of-google-cloud-and-microsoft-azure.md",
+      "title": "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure",
+      "excerpt": "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud",
+      "originalUrl": "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1626705643/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?nnIWK27zsQToGA41LvRBTzJghCy0Z8Ok",
+          "width": 4432,
+          "height": 2955,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-new-toolkit-aims-to-help-teams-create-responsible-human-ai-experiences.md",
       "title": "New toolkit aims to help teams create responsible human-AI experiences",
       "excerpt": "The post New toolkit aims to help teams create responsible human-AI experiences appeared first on The AI Blog.\n",
@@ -1193,10 +1238,10 @@
     {
       "path": "_news/2021-07-06-reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure.md",
       "title": "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure",
-      "excerpt": "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ...",
+      "excerpt": "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new business applications across industries, reduces upfront costs and allows for the rapid implementation of customer-specific robotics use cases.",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure",
+      "webUrl": "https://www.financialbuzz.com/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure/",
+      "originalUrl": "https://www.financialbuzz.com/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1206,11 +1251,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T00:38:00-07:00",
+      "publishedDateTime": "2021-07-06T00:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1326,59 +1371,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu.md",
-      "title": "Speech Recognition Software Market Next Big Thing | Major Giants Google, Microsoft, Baidu",
-      "excerpt": "The latest independent research document on Global Speech Recognition Software examine investment in Market. It describes",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-03T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
         "Microsoft AI"
       ]

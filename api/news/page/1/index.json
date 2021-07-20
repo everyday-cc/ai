@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-20-artificial-intelligence-ai-in-automotive-market-analysis-size-drivers-restraints-opportunities-and-threats-by-2026.md",
+      "title": "Artificial Intelligence (AI) in Automotive Market Analysis, Size, Drivers, Restraints, Opportunities and Threats by 2026",
+      "excerpt": "Rising concerns over road safety to enhance artificial intelligence (AI) in automotive market share Growing inclination towards semi-autonomous vehicles is anticipated to drive the use of artificial intelligence (AI) in automobiles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-analysis-size-drivers-restraints-opportunities-and-threats-by-2026-2021-07-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-analysis-size-drivers-restraints-opportunities-and-threats-by-2026-2021-07-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-of-google-cloud-and-microsoft-azure.md",
+      "title": "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure",
+      "excerpt": "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud",
+      "originalUrl": "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1626705643/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?nnIWK27zsQToGA41LvRBTzJghCy0Z8Ok",
+          "width": 4432,
+          "height": 2955,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-shenzhen-emerges-as-chinas-robotaxi-capital-as-deeprouteai-opens-public-trials-in-tech-hub.md",
       "title": "Shenzhen emerges as China’s robotaxi capital as DeepRoute.ai opens public trials in tech hub",
       "excerpt": "The local legislature in Shenzhen is currently reviewing a draft of regulations on intelligent and connected vehicles, likely to be a guide for country.",
@@ -564,6 +661,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-19-when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions.md",
+      "title": "When AI Self-Driving Cars Sue Due To Dangerous Roadway Conditions",
+      "excerpt": "When the roadway has a dangerous condition due to governmental neglect and there are untoward results, maybe AI self-driving cars will aid in lawsuits. Here's how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f4e028fd4663e416aa1ed1%2F0x0.jpg%3FcropX1%3D216%26cropX2%3D2936%26cropY1%3D0%26cropY2%3D2039",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/amp/",
+      "publishedDateTime": "2021-07-19T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-scientists-adopt-deep-learning-for-multi-object-tracking.md",
       "title": "Scientists adopt deep learning for multi-object tracking",
       "excerpt": "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our daily lives. There are, however, some tasks in this field that are still extremely difficult for computers to perform with acceptable accuracy and speed.",
@@ -719,7 +868,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-ethical-use-of-ai-in-the-hiring-process/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1095,143 +1244,6 @@
       "provider": {
         "name": "SciTech Daily",
         "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-research-breakthrough-artificial-intelligence-ai-can-now-use-its-imagination.md",
-      "title": "Research Breakthrough: Artificial Intelligence (AI) Can Now Use Its Imagination",
-      "excerpt": "Researchers at the University of Southern California (USC)  are helping the use of Artificial Intelligence (AI) imagine what has not",
-      "sourceUrl": null,
-      "webUrl": "https://techbooky.com/ai-that-can-imagine/",
-      "originalUrl": "https://techbooky.com/ai-that-can-imagine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbooky.com/wp-content/uploads/2021/07/444090C5-86E3-4A93-9928-5383E9896D53.jpeg",
-          "width": 1028,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbooky.com/ai-that-can-imagine/?amp=1",
-      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/ai-that-can-imagine/?amp=1",
-      "publishedDateTime": "2021-07-19T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-as-ai-becomes-more-ever-capable-will-it-end-up-helping-or-hindering-the-hackers.md",
-      "title": "As AI Becomes More Ever Capable, Will It End Up Helping, Or Hindering, The Hackers?",
-      "excerpt": "Unfortunately, there are innumerable bugs in today’s software systems, many of which are ‘zero-day exploits’ i.e. bugs that can be used by hackers but are not yet known by the software’s users or vendors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edstacey/2021/07/19/as-ai-becomes-more-ever-capable-will-it-end-up-helping-or-hindering-the-hackers/",
-      "originalUrl": "https://www.forbes.com/sites/edstacey/2021/07/19/as-ai-becomes-more-ever-capable-will-it-end-up-helping-or-hindering-the-hackers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f5624a3c3314c08a092d1a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D97%26cropY2%3D1177",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edstacey/2021/07/19/as-ai-becomes-more-ever-capable-will-it-end-up-helping-or-hindering-the-hackers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edstacey/2021/07/19/as-ai-becomes-more-ever-capable-will-it-end-up-helping-or-hindering-the-hackers/amp/",
-      "publishedDateTime": "2021-07-19T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-pg-diploma-in-robotics-process-automation.md",
-      "title": "PG Diploma in Robotics Process Automation",
-      "excerpt": "MIT Centre for Future Skills Excellence, MIT Art, Design & Technology University Pune has introduced a new post-graduate diploma in Robotics Process Automation from August 2021 academic session.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/jobs&careers/pg-diploma-in-robotics-process-automation-285397",
-      "originalUrl": "https://www.tribuneindia.com/news/jobs&careers/pg-diploma-in-robotics-process-automation-285397",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/2021_7$largeimg_138557822.jpg",
-          "width": 700,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/jobs&careers/pg-diploma-in-robotics-process-automation-285397",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/pg-diploma-in-robotics-process-automation-285397",
-      "publishedDateTime": "2021-07-19T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
         "images": null,
         "publishers": null,
         "authors": null

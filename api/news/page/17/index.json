@@ -2,6 +2,212 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-06-cognitive-space-selected-to-participate-in-inaugural-aws-space-accelerator-for-startups.md",
+      "title": "Cognitive Space Selected to Participate in Inaugural AWS Space Accelerator for Startups",
+      "excerpt": "Cognitive Space today announced it has been selected to participate in the Amazon Web Services (AWS) Space Accelerator, a business support program for startups seeking to use AWS to help solve the biggest challenges in the space industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-cognitive-space-selected-participate-inaugural-aws-space-accelerator-/2021/07/06/9403400.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cognitive-space-selected-participate-inaugural-aws-space-accelerator-/2021/07/06/9403400.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-protenus-and-uc-davis-health-present-at-himss21-on-leveraging-artificial-intelligence-to-reduce-risk-and-save-money.md",
+      "title": "Protenus and UC Davis Health Present at HIMSS21 on Leveraging Artificial Intelligence to Reduce Risk and Save Money",
+      "excerpt": "Healthcare organizations across the U.S. are struggling to protect their patients and workforce from unnecessary harm, as health data breaches and clinical drug diversion remain a constant threat, especially during the COVID-19 pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-protenus-uc-davis-health-present-himss21-leveraging-artificial-/2021/07/06/9403372.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-protenus-uc-davis-health-present-himss21-leveraging-artificial-/2021/07/06/9403372.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-cyberlinks-facial-recognition-technology-partners-with-asus-edge-computing-single-board-computers-to-create-smart-iotaiot-applications.md",
+      "title": "CyberLink's Facial Recognition Technology Partners with ASUS Edge Computing Single-board Computers to Create Smart IoT/AIoT Applications",
+      "excerpt": "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced a partnership with ASUS, by integrating its FaceMe® AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210706005212/en/CyberLinks-Facial-Recognition-Technology-Partners-with-ASUS-Edge-Computing-Single-board-Computers-to-Create-Smart-IoTAIoT-Applications",
+      "originalUrl": "https://www.businesswire.com/news/home/20210706005212/en/CyberLinks-Facial-Recognition-Technology-Partners-with-ASUS-Edge-Computing-Single-board-Computers-to-Create-Smart-IoTAIoT-Applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-chinese-scholars-want-a-voice-but-must-beware-being-counterproductive.md",
+      "title": "Chinese scholars want a voice, but must beware being counterproductive",
+      "excerpt": "Some say a Chinese theory of international relations is needed to frame China’s thinking, but justifying a party-state system may be difficult internationally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "originalUrl": "https://www.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2021/07/06/7dc6bc4a-de2a-11eb-9efd-49da69ae692d_image_hires_204833.jpg?itok=6wSAw6Bv&v=1625575720",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "publishedDateTime": "2021-07-06T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-boosting-online-grocery-sales-and-enhancing-merchandising-through-ai.md",
+      "title": "Boosting Online Grocery Sales And Enhancing Merchandising Through AI",
+      "excerpt": "If you’re trying to find an AI-driven inventory management solution that’s right for you, make sure the system you choose can keep up with customer demand in real time and can integrate seamlessly with your current POS system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e307aa743e40c7cd049065%2F0x0.jpg",
+          "width": 966,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/amp/",
+      "publishedDateTime": "2021-07-06T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence.md",
       "title": "VinBrain wins ACM SIGAI Industry Award 2021 for Excellence in Artificial Intelligence",
       "excerpt": "The 2021 ACM SIGAI Industry Award for Excellence in Artificial Intelligence is granted to DrAid TM - the AI-powered Assistant product for Radiologists developed by VinBrain (a subsidiary of Vingroup in Vietnam).",
@@ -414,40 +620,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-06-reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure.md",
-      "title": "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure",
-      "excerpt": "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-06-bytedance-selling-tiktok-ai-to-companies-including-in-india.md",
       "title": "ByteDance selling TikTok AI to companies including in India",
       "excerpt": "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies,",
@@ -487,6 +659,40 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure.md",
+      "title": "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure",
+      "excerpt": "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new business applications across industries, reduces upfront costs and allows for the rapid implementation of customer-specific robotics use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure/",
+      "originalUrl": "https://www.financialbuzz.com/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -885,238 +1091,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-ai-bot-trolls-politicians-with-how-much-time-theyre-looking-at-phones.md",
-      "title": "AI bot trolls politicians with how much time they're looking at phones",
-      "excerpt": "Sure, we've all snuck a look at our phones in dull meetings. But if you're working on the taxpayer's dime, you'd better be ready for artificial intelligence to call you out for gawping at the black mirror in the legislature when you should be,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/flemish-politicians-ai-phone-use",
-      "originalUrl": "https://mashable.com/article/flemish-politicians-ai-phone-use",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/06Nv8svnO4f4pd21gJgLeAE/hero-image.fill.size_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs.md",
-      "title": "Finance Starts Having a Heart: How Fintech Fosters Financial Inclusion and the SDGs",
-      "excerpt": "Finance acquires a heart. Fintech companies innovate financial services with empathy and sustainability in mind. Financial inclusion can become",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807",
-      "originalUrl": "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2021/06/heart-900x607.png",
-          "width": 900,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp",
-      "publishedDateTime": "2021-07-05T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services.md",
-      "title": "AI/ML Innovations Inc. Engages Volt Strategic Partners and TDM Financial for Capital Market Communications and Market-Making Services",
-      "excerpt": "TORONTO, ON / ACCESSWIRE / July 5, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF) (“AIML” or the “Company”), a company committed to acquiring and advancing Artificial Intelligence/Machine ... for the services provided by TDM Financial ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/Accesswire/health-business-technology-4b85b30835729a11635b81f253168e71",
-      "originalUrl": "https://apnews.com/press-release/Accesswire/health-business-technology-4b85b30835729a11635b81f253168e71",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-the-new-world-of-work-you-plus-ai.md",
-      "title": "The new world of work: You plus AI",
-      "excerpt": "Where does your enterprise stand on the AI adoption curve? Take our AI survey to find out. Emerging technologies meet both advocates and resistance as users weigh the potential benefits with the potential risks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
-      "publishedDateTime": "2021-07-05T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-pioneers-of-deep-learning-ai-think-its-future-is-gonna-be-lit.md",
-      "title": "Pioneers of deep learning AI think its future is gonna be lit",
-      "excerpt": "Yoshua Bengio, Geoffrey Hinton, and Yann LeCun, explain the current challenges of deep learning and what the future might hold",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication",
-      "originalUrl": "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2F1Yoshua-Bengio-Geoffrey-Hinton-Yann-LeCun-deep-learning.jpg&signature=85a3577f4fff3f0407c4111620ca1ebd",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

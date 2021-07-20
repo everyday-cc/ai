@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Use of Artificial Intelligence That has Potential Business Value"
-    excerpt: "The use of artificial intelligence in the business market is growing gradually. It has a great potential business value and it is important to implement ethical and responsible AI to bring success in the long run."
-    publishedDateTime: 2021-07-15T15:30:00Z
-    webUrl: "https://www.analyticsinsight.net/use-of-artificial-intelligence-that-has-potential-business-value/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-2.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "How AI is powering the future of financial services"
     excerpt: "Financial institutions are using AI-powered solutions to unlock revenue growth opportunities, minimise operating expenses, and automate manually intensive processes. Many in the financial services industry believe strongly in the potential of AI."
     publishedDateTime: 2021-07-16T16:07:00Z

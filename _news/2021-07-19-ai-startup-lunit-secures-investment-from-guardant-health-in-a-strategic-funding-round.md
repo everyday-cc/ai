@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Vedantu invests in AI learning startup Pedagogy"
-    excerpt: "Live online learning platform Vedantu on Thursday announced a strategic investment in Pedagogy, an AI-enabled learning startup that provides online courses and interactive digital books for ..."
-    publishedDateTime: 2021-07-15T16:25:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210715/3787360.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
   - title: "Korean AI Pathology Startup Lunit Nabs $26M Investment from Guardant Health, Plans Collaboration"
     excerpt: "NEW YORK – Lunit, a startup advancing artificial intelligence technology for medical applications, said Monday that Guardant Health has invested $26 million in its company as part of a Series C Tranche B funding round."
     publishedDateTime: 2021-07-19T14:46:00Z

@@ -183,49 +183,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-19-global-personal-artificial-intelligence-and-robotics-market-report-2021-personalized-robot-components-will-reach-150-billion-by-2026.md",
-      "title": "Global Personal Artificial Intelligence and Robotics Market Report 2021: Personalized Robot Components will Reach $15.0 Billion by 2026",
-      "excerpt": "The \"Personal Artificial Intelligence and Robotics Market by AI and Robot Type, Components, Devices and Solutions 2021 - 2026\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/07/n22035744/global-personal-artificial-intelligence-and-robotics-market-report-2021-personalized-robot-compone",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/n22035744/global-personal-artificial-intelligence-and-robotics-market-report-2021-personalized-robot-compone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22035744",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22035744",
-      "publishedDateTime": "2021-07-19T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-07-19-hai-robotics-enters-australia-market-boosts-largest-online-book-retailer-booktopias-efficiency-by-800.md",
       "title": "HAI ROBOTICS Enters Australia Market, Boosts Largest Online Book Retailer Booktopia's Efficiency by 800%",
       "excerpt": "HAI ROBOTICS, a Shenzhen -based warehouse robotics startup, which launched the world's first carton picking and double deep autonomous case-handling system, is announcing its first deployment in Australia.",
@@ -425,7 +382,7 @@
       "originalUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1381,6 +1338,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-robotics-artificial-intelligence-innovation-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript.md",
+      "title": "Robotics, Artificial Intelligence, Innovation & How The Technology Space Is Evolving The ETF Marketplace (Podcast Transcript)",
+      "excerpt": "ROBO Global provides their outlook on the future of robotics and artificial intelligence. Breakdown of ROBO Global's ETFs: (ROBO), (HTEC), and (THNQ).",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1179697528/medium_image_1179697528.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
+      "publishedDateTime": "2021-07-12T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],
