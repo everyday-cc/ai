@@ -41,20 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Self-driving startup Aurora reaches agreement to go public, report says"
-    excerpt: "Driverless technology startup Aurora Innovation Inc. has agreed to go public via a merger with Reinvent Technology Partners Y, a blank-check firm led by executives including LinkedIn co-founder Reid Hoffman and Zynga Inc."
-    publishedDateTime: 2021-07-15T10:34:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-aurora-reaches-agreement-go-public-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "JRgVGTjdCm1iwwQfIbkfJJM7vHzLHkIx80/8zQTLpCWkVTrdY3xp/IbMvACLOma//xaUjVt+ocbhjBgw4eSlWCYuXyaUPhri2XQOymzlSVZ38626FwDVQuNXhfeIuwZEwfNQO+uSeHBEEKijMQCh6e0iZWul5Mt7SAoRt4YQC+c2JnR8JeJDhTy/q4ifiTxiN87DIMXovnp3Mwxlia4tR9hJxczMhCEhR1EhoBH/jED3foD/cNoz1Ua13xxcfk/bsu/ZpA95dcmiAx65IKMA1htcO+NElHccKQfXi4MBoqFUJQms8+c5joL9drkGWA8PPM/7KftSa0bVqF7+QXeemy551o7W2roQGVnQzGIHd+skprtEDa5wbZVHC8+ueojmf0OO8M5TeJVfZe3cqAFvNMGGcvYaStEkrhY+z54tNfa43M6Wlk347BLxxCoJ4yfRcHsyb2ldECxA3aRbTmgaI9Jyjaw64R3dYgX6um8AV5B4F6UaPv11+Y0aQXlJEElJ6nngy02QfwHSBps3EgvmWg==;eawPsPAfhC/OYDIx4UA55w=="
 ---

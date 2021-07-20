@@ -9,7 +9,7 @@ ampWebUrl: "https://english.newstracklive.com/ampnews/rajnath-singh-launches-gri
 cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/rajnath-singh-launches-grievance-analysis-app-based-on-artificial-intelligence-sc1-nu318-ta318-1170881-1.html"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rajnath Singh Launches Artificial Intelligence-Based Grievance Analysis App"
-    excerpt: "With the launch of an artificial intelligence (AI) based grievance analysis application called CPGRAMS, Defence Minister Rajnath Singh on Thursday said the country is moving towards citizen-centric reforms with scientific knowledge and technology."
-    publishedDateTime: 2021-07-15T10:57:00Z
-    webUrl: "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325"
-    ampWebUrl: "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 57
-    images:
-      - url: "https://c.ndtvimg.com/2020-12/al8qqheo_rajnath-singh-650_625x300_30_December_20.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Rajnath Singh Launches Artificial Intelligence-Based Grievance Analysis App"
     excerpt: "With the launch of an artificial intelligence (AI) based grievance analysis application called CPGRAMS, Defence Minister Rajnath Singh on Thursday said the country is moving towards citizen-centric reforms with scientific knowledge and technology."
     publishedDateTime: 2021-07-16T07:14:00Z

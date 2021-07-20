@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Insights on the $31 Billion Robotics Global Market to 2025 - Impact Analysis of COVID-19"
-    excerpt: "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double digit CAGR over the forecast period of 2021 - 2025. The adoption of robots across a wide range of industries including manufacturing,"
-    publishedDateTime: 2021-07-15T10:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Worldwide Robotics Industry to 2025 - Co-Bots Drives Robotics Market"
     excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to"
     publishedDateTime: 2021-07-16T11:30:00Z
@@ -55,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Global Personal Artificial Intelligence and Robotics Markets 2021-2026 by AI and Robot Type, Components, Devices and Solutions - ResearchAndMarkets.co"
+    excerpt: "The \"Personal Artificial Intelligence and Robotics Market by AI and Robot Type, Components, Devices and Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report evaluates the market for personalized robots,"
+    publishedDateTime: 2021-07-19T12:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=501646"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 44
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Artificial Intelligence Robots Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "Artificial Intelligence Robots Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 High adoption of robots for personal use such as companionship entertainment Support from governments around the world for the development"
     publishedDateTime: 2021-07-19T09:38:00Z
@@ -66,39 +66,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 38
-  - title: "Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 The market is growing at a rapid rate due to the rise in the investment in AI technology by big market"
-    publishedDateTime: 2021-07-19T10:28:00Z
-    webUrl: "https://www.openpr.com/news/2331439/artificial-intelligence-market-share-2021-global-trends-key"
-    ampWebUrl: "https://www.openpr.com/amp/2331439/artificial-intelligence-market-share-2021-global-trends-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331439/artificial-intelligence-market-share-2021-global-trends-key"
+  - title: "AI Servers Market Growth 2021: Emerging Growth Factors, Industry Share, Size, Growth Prospects, Business Development and Forecast to 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “AI Servers Market” report"
+    publishedDateTime: 2021-07-16T10:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-servers-market-growth-2021-emerging-growth-factors-industry-share-size-growth-prospects-business-development-and-forecast-to-2027-2021-07-16"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
-  - title: "Automatic Speech Recognition Applications Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast - 2027"
-    excerpt: "The Global Automatic Speech Recognition Applications Market is valued at USD million in 2019 The market size will reach USD million by the end of 2027 growing at a CAGR of 1 during 2021 2027 Automatic Speech Recognition Application is"
-    publishedDateTime: 2021-07-15T10:08:00Z
-    webUrl: "https://www.openpr.com/news/2329195/automatic-speech-recognition-applications-market-to-2027"
-    ampWebUrl: "https://www.openpr.com/amp/2329195/automatic-speech-recognition-applications-market-to-2027"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2329195/automatic-speech-recognition-applications-market-to-2027"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
-  - title: "Artificial intelligence in transportation Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence in transportation market is expected to grow at a significant CAGR in the period from 2021 to 2027 Government rules for car safety are becoming more stringent as is the use of advanced driver assistance systems ADAS"
-    publishedDateTime: 2021-07-19T11:49:00Z
-    webUrl: "https://www.openpr.com/news/2331537/artificial-intelligence-in-transportation-market-share-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "eLVPoIiFenGvoKpoW3VUlSNKppksQEqYhTEANe9BQZOjR4BdDC+OJFxiuu4okF0PFc+O9Lt7kigSZsnGQg9WlRnQAhLWVJ7LbBdzRuF0/CCtaDKWQzbqTI7q+mHsopeaEOOfbYTdpQfa7sn/G/E8CwKnrTkuO3dNKzDMEwowGOCkqEOOiuQgCuC6tpqiT1jqyUWVnDfeRVlTvjW0lfUq/73AFnE5um1vTUsnh08JvoQOjBlVLoMV/5OefSbMoKhKH0FaiA/ogMVqsyKxd7K5h3yqdtATojft5O5PhNViEi6ODNfK08vs6lXbyIvQcVpt4zPf7QiStN3ggjNMMz3CY63FlpwCfZ7EE08jMNL/9Yg=;yi0MPojTEgrwjroJLOSZWQ=="
 ---

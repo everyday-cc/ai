@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/22035744"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22035744"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Personal Artificial Intelligence and Robotics Markets 2021-2026 by AI and Robot Type, Components, Devices and Solutions - ResearchAndMarkets.co"
-    excerpt: "The \"Personal Artificial Intelligence and Robotics Market by AI and Robot Type, Components, Devices and Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report evaluates the market for personalized robots,"
-    publishedDateTime: 2021-07-19T12:01:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=501646"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 44
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Global Face Recognition Terminal Market Growth 2021-2026"
     excerpt: "Pages Report] Check for Discount on Global Face Recognition Terminal Market Growth 2021-2026 report by LP Information INC. According to this latest study, the 2021 growth of"
     publishedDateTime: 2021-07-19T12:36:00Z

@@ -233,6 +233,20 @@ related:
         width: 768
         height: 437
         isCached: true
+  - title: "Tesla’s Smart Summon feature is currently a fun-trick of Full-Self Driving suite"
+    excerpt: "Elon Musk tweeted that the current Tesla's smart summon feature is only a fun trick and is yet to be a useful feature in upcoming updates."
+    publishedDateTime: 2021-07-20T03:30:00Z
+    webUrl: "https://techstory.in/teslas-smart-summon-feature-is-a-fun-trick-of-full-self-driving-suite/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 49
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/07/tesla-enhanced-summon-app-model-3-scaled.jpg"
+        width: 2560
+        height: 1419
+        isCached: true
   - title: "Full-Self Driving subscription launched in Tesla cars equipped with hardware 3.0 or above"
     excerpt: "Tesla Full-Self Driving technology is launched in Tesla cars software with a monthly subscription offer at $99- $199."
     publishedDateTime: 2021-07-18T01:00:00Z

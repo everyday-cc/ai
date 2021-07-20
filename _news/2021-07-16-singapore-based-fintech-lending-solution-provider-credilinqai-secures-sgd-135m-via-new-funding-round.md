@@ -26,36 +26,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Singapore fintech startup CrediLinq.Ai realises ASG$1.35 million in angel funding"
-    excerpt: "Singapore based financial services technology firm, CrediLinq.Ai, today announced that it has secured a SGD 1.35 Million Angel funding round."
-    publishedDateTime: 2021-07-15T09:25:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88580/singapore-fintech-startup-credilinqai-realises-asg135-million-in-angel-funding"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 34
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Singapore fintech startup CrediLinq.Ai realises SG$1.35 million in angel funding"
-    excerpt: "Singapore based financial services technology firm, CrediLinq.Ai, today announced that it has secured a SGD 1.35 Million Angel funding round."
-    publishedDateTime: 2021-07-15T09:18:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88580/singapore-fintech-startup-credilinqai-realises-sg135-million-in-angel-funding"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 34
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-
 secured: "8YoaM6OHjl+YOo4bvk4R42uQlh2JSyIZhBtjhWthfHMf3or+88juRaEyOVXnyhn26ma9eCLBb/mL3Qx9D+yVc7jgA5kJtis+8mWeI61mx39bD/PvdrQaAgPWAU5vv7C3QCpAyT/ngqzBOR3QOih3AqhGvPsEmO/HKX72eGf1qlIgZUX2tBktK4M7FqhvoFE9G3Cwq4UxzuSoG0bV7O/jN9wdHWKpIbropqJQaN6Jt11C8KY6xbe8WG7KU7k2kI2oS1Sn3N5qcOSBF4A03NttrM6gr1i6NAgqWfke/uog6p4fnX6yDG8b+sWuEFejAndhZUaYwJUMv6FLcgsLQ5qy0KCLTMlr2Y3WMqCDSG2R1TIOQ+AAAYy4LqPaDKyaYE6pn6dCQMMMt/ac+o39EXKiBcRjGXY0DGCKx/Pa1p98luJAn0zI3TsvL9jgH+r5UOg6gIrXl60HQdiXL4lSEUYEfdTkpJlA9fzVMivOdci5WaW/GL1wgQVF2mTu33JQtdiH1UBJfa6JdJkZ87vv+mmk9Q==;AxY9Vw2SZiCgWD5HuOBfYA=="
 ---
 

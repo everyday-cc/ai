@@ -87,6 +87,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Fintech TrueAccord Says Financial Tech Firms are “Rethinking” Approach to Existing Problems to Build Better Solutions"
+    excerpt: "Fintech TrueAccord says financial tech firms are \"rethinking\" approach to existing problems to build better solutions."
+    publishedDateTime: 2021-07-20T03:21:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/07/178024-fintech-trueaccord-says-financial-tech-firms-are-rethinking-approach-to-existing-problems-to-build-better-solutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/178024-fintech-trueaccord-says-financial-tech-firms-are-rethinking-approach-to-existing-problems-to-build-better-solutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/178024-fintech-trueaccord-says-financial-tech-firms-are-rethinking-approach-to-existing-problems-to-build-better-solutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 21
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2014/09/Money-Coins-Nickel-Penny--300x210.jpeg"
+        width: 300
+        height: 210
+        isCached: true
   - title: "AMD Stock – AMD Stock – 2 Dividend-Paying Tech Stocks to Buy in July | Fintech Zoom"
     excerpt: "Complete Advanced Micro Devices Inc. stock news by FintechZoom. View real-time stock prices and stock quotes for a full financial overview."
     publishedDateTime: 2021-07-18T21:22:00Z

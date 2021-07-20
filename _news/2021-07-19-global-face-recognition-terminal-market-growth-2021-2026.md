@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Global Personal Artificial Intelligence and Robotics Markets 2021-2026 by AI and Robot Type, Components, Devices and Solutions - ResearchAndMarkets.co"
-    excerpt: "The \"Personal Artificial Intelligence and Robotics Market by AI and Robot Type, Components, Devices and Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report evaluates the market for personalized robots,"
-    publishedDateTime: 2021-07-19T12:01:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=501646"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 44
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "Uf/nBcC6xZoNU5V8UQSl5bQTRkCwD6TPaOhQT3kVo3Bw9bcYOiV5giZ++Q9Ki2YhsM6tzF3oWx5ap5OTwyYuqLB2XGGHdFfym5M2lCFsW5Yasf4v6PQV0GOQsELHh+X8SAjdH4xxvQQ8P1gRDtsF5Ro19WTSu3KXKs6ukiT0ompRf/PxKOiIFEiljXzKKUI0r41h1+xGgvV/SwERgRX7Sw4O7U/3SfcDW5s771/PugmhLFz66U7dIbnYxa1nXKWcoesoybuoRGYRE13xV6CpM/RS2iBiWa+/lk6h/NdSHcWLaEdreMFPjOYYf9GCtcgN20xxr0gUEy9aLr0IbeI22Uoj1pNAE2MrOmxtL7OGSI0=;5WBY+nUrV8s5sd+xW/g11Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2OQ31A"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2OQ31A"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 800
     height: 545
     isCached: true
+
+related:
+  - title: "Understanding attitudes to driverless cars"
+    excerpt: "A team at Cardiff University are using a state-of-the-art driving simulator to observe and measure how humans interact with autonomous vehicles."
+    publishedDateTime: 2021-07-20T03:02:00Z
+    webUrl: "https://www.canon.co.uk/view/driverless-cars-cardiff-university/"
+    type: article
+    provider:
+      name: Canon
+      domain: canon.co.uk
+    quality: 39
+    images:
+      - url: "https://i1.adis.ws/i/canon/GARRIOTT_RELATED-ca2f623a-990a-11eb-8fcd-1866da15d780?w=556&qlt=70&fmt=jpg&fmt.options=interlaced&bg=rgb(255,255,255)"
+        width: 556
+        height: 390
+        isCached: true
 
 secured: "YUcHwGPKC7Jhj7BqJnfLd9B5fyRLlk0QA7lbC92d23o3vbdmGAA6ANwNwZx0zudrPLLZdIrJTWdrYah4mh+6Kf3yTViZEkpqPXQecYaaR7Lv/bTZ0d22RkJdTndrZPFRL5YTuYeHp4Dh5RDxza6VIlfdKIZn6x8b5oS0wgtM6cMHjdF0OtS1xkyeudiH6V1IPDfsKP5YV6KuIMcM9myVsvsnnuF25XeJksa1fCpNQoWBwG6Hx76BAbTnBJXr1bd9wkOl/v55j+QmAJLC3hvRw6WmAezHGm0nhmj8Kgs3nhkYYpVrzjMN6dRxQkMt5LUf/p2M798gUZlvpsLWzo4Qq5lt7gafsqgiKyhJMS6jRSg=;6DCP1bmJUDUIRtPHZB+mfA=="
 ---

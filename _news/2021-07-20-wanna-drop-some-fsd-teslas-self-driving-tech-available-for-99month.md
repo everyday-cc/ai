@@ -233,6 +233,20 @@ related:
         width: 768
         height: 437
         isCached: true
+  - title: "Tesla’s Smart Summon feature is currently a fun-trick of Full-Self Driving suite"
+    excerpt: "Elon Musk tweeted that the current Tesla's smart summon feature is only a fun trick and is yet to be a useful feature in upcoming updates."
+    publishedDateTime: 2021-07-20T03:30:00Z
+    webUrl: "https://techstory.in/teslas-smart-summon-feature-is-a-fun-trick-of-full-self-driving-suite/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 49
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/07/tesla-enhanced-summon-app-model-3-scaled.jpg"
+        width: 2560
+        height: 1419
+        isCached: true
   - title: "Full-Self Driving subscription launched in Tesla cars equipped with hardware 3.0 or above"
     excerpt: "Tesla Full-Self Driving technology is launched in Tesla cars software with a monthly subscription offer at $99- $199."
     publishedDateTime: 2021-07-18T01:00:00Z
@@ -373,6 +387,6 @@ related:
         height: 674
         isCached: true
 
-secured: "Pt2l1m/7mVoZVHskneOoO0FpowxbwF5v/sjiKTC1XjfpR2MlN0l7vA0KOudRxFMRDtlLQPA1meOpLsmShU1negjE5sSXiOiE6H6aAW44lINHEgbTum2Z6rQo2ebwEZwqnCAI8bhX0u7Qh2kxKJWU5d+TLy44tJoWl2DSBGTlGeJaLarPQkhTgFaDyglta1Dw/oAT0mbGZLaCOI9zkzxshoLEKxl/hhMUN9ynauhtAJKY8Yz2ST2XO/v2LtI9Ve1oWpSIRqafDmZbVw60G19hrAvUcL+wuri4QtbdBNcNaN65Za+JTLfoSEwxMbnzzWCVFsT3Bg9kDMn7wqzDFNLKvd/HucxBn1qBJR91MP77zZg=;oD2ahwyRsChpK1maRLwM7w=="
+secured: "wsF1HmdMkOj7vDXlwzG5p7c/XL1MnLpF9MzfK2tSYu6QC/rllEFk+8O9Tj+wIaf21adAkahytlUNMB7jCAU9lqkUj4cClmzRtyuweT6FIDflX9tPexh1WGs2fG9ak75pix4pAqIxghdWyYCQuAjmwixFcRWBFPePJIbLXmA8e2knkmxdNbenAUj//AhgWBELPP+sRi5nnIyBmqjbHRTh1U50y0B1rwjlfJyAXlOyp38ZCt86q0N/1ly5I7RwSNK7HDqkpnQrOP40yJ6gxKmAmsGnQpUmfPyeiZyrN4bilWFW/zpNVVB64I4MM5G/MsirVtuL8/CRfbdHSdATgvRXDS7sPdrq1riLFHR8EHNhaedMDC8VaGIvmUP0pRz1gpJB4Auc3ZJhQwzbfac/+n52kuJJoV8eyN9p3pMBTQsZK7l45f/Vv/cysS72MkvqFvDM+lKF6PuolCANQjTDY3aZAkJHsqlFMSCfJLDTMSIMjDderRQtw1nvv87NMcrRhpZZsiwlX0NZyX8lSLaUJ8Gpwg==;Fxh3mqZABCLhozgq7KvrrQ=="
 ---
 

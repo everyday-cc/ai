@@ -123,6 +123,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "Amazon rolls out AWS For Health cloud services for healthcare, genomics and biopharma"
+    excerpt: "Amazon's cloud division has rolled out AWS for Health, a set of services and partner solutions for healthcare, genomics and biopharma. Amazon says the portfolio of solutions will help to accelerate innovation from \"benchtop to bedside\" as the tech giant pushes further into the healthcare and life sciences markets."
+    publishedDateTime: 2021-07-19T19:13:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/amazon-rolls-out-aws-for-health-as-cloud-services-for-healthcare-genomics-and-biopharma"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 49
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1626713437/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?fMn1pTKdQf6jsQ30yFiTjsKJDN3Vq5wq"
+        width: 4432
+        height: 2955
+        isCached: true
   - title: "Amazon announces availability of HealthLake cloud repository"
     excerpt: "Internet services giant Amazon Web Services has announced that its HealthLake cloud-based data repository is now available for use by healthcare and life sciences organizations."
     publishedDateTime: 2021-07-15T22:25:00Z
