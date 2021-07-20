@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial Intelligence Robotics Market 2021: Consumption Analysis, Growth Forecast by Manufacturers, Regions, Type and Application to 2027"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Artificial Intelligence"
-    publishedDateTime: 2021-07-15T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-2021-consumption-analysis-growth-forecast-by-manufacturers-regions-type-and-application-to-2027-2021-07-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automatic Speech Recognition Applications Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast - 2027"
     excerpt: "The Global Automatic Speech Recognition Applications Market is valued at USD million in 2019 The market size will reach USD million by the end of 2027 growing at a CAGR of 1 during 2021 2027 Automatic Speech Recognition Application is"
     publishedDateTime: 2021-07-15T10:08:00Z

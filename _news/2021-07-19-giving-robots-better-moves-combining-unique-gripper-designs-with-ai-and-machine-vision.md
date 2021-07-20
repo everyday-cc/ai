@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/giving-robots-better-moves-combining-unique
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/giving-robots-better-moves-combining-unique-gripper-designs-with-ai-and-machine-vision/amp/"
 type: article
 quality: 66
-heat: 76
+heat: 77
 published: true
 
 provider:

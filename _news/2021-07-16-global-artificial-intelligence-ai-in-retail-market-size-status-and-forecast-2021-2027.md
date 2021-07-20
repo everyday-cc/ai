@@ -80,17 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Digital Assistants in Healthcare Market Technology Progress Analysis 2021 to 2025"
-    excerpt: "Global “Digital Assistants in Healthcare Market” 2021 Research report produces ... preferences towards technologically advanced products, which makes use of Artificial Intelligence (AI)and the Internet of things (IoT) as they offer many benefits ..."
-    publishedDateTime: 2021-07-15T06:33:00Z
-    webUrl: "https://www.openpr.com/news/2328940/digital-assistants-in-healthcare-market-technology-progress"
-    ampWebUrl: "https://www.openpr.com/amp/2328940/digital-assistants-in-healthcare-market-technology-progress"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2328940/digital-assistants-in-healthcare-market-technology-progress"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
   - title: "Artificial Intelligence AI as a Service Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "Artificial Intelligence AI as a Service Market Technology has always been an important component of these businesses but Artificial Intelligence AI has pushed it to the forefront For example AI is being incorporated into nearly every instrument and programme from"
     publishedDateTime: 2021-07-19T08:46:00Z
@@ -237,6 +226,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 9
+  - title: "Global Medical Imaging Artificial Intelligence Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Medical Imaging Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Medical Imaging Artificial Intelligence"
+    publishedDateTime: 2021-07-19T22:35:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4629078-global-medical-imaging-artificial-intelligence-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 8
   - title: "Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence for Video"
     publishedDateTime: 2021-07-17T07:39:00Z

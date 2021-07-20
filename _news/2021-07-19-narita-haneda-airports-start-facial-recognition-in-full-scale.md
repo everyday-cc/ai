@@ -53,6 +53,15 @@ related:
         width: 870
         height: 489
         isCached: true
+  - title: "Narita, Haneda airports start full-scale use of facial recognition system"
+    excerpt: "Japan's Narita and Haneda airports started Monday the use of facial recognition on a full scale, allowing international travelers to check in baggage and pass security checkpoints without showing passports or flight tickets."
+    publishedDateTime: 2021-07-19T22:55:00Z
+    webUrl: "https://japantoday.com/category/national/narita-haneda-airports-start-facial-recognition-in-full-scale"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 33
 
 secured: "efDkoQoUFozOFMmqT/4N5hJZdPA9Kv48ItmaJt1oMOkHS4u+8rU7Wg8JCeGvU+qPrZHoL0PP9o3z2nooA/WC4uGPiPEpId58J9yQvReOg/g0o4OGF7R0OtvWLVAzv0jFU7sKaQjMvFTPR/UVnlsgxEOD7xdCW8Qs9UoN49eRifz8RyaUZFqnPLxruwjRlgXRhfGrEG2CcRtyvSltARqA4rwbxAIV3Zjx2/hlQWHEtV87UVnGULv6vSN3lOvdXhfp/YPl0JDShjfgP25ty7RrgXnMNEn4hq+bRFq6Ug5DyrDp0lpgbdKQL/PBKB4KAOK2SJ+tjkZ09REDhs9LWvpx0D1j5827ku6ayFi51fLFVowKpIc8nvM8GKkL/Sw0OKxXmi9+BYM718qJzKyFqyyalwvbgMe1yrMiVyLjE4PcTHcqI424Ba2xgsGj0lyE6dn5nI2HA26ZHzWtQh6tvUGWI6fK/HGgny6eCgWl324y4DXxUVCptoRLuetCcCG5gTsRLaNhNhd3x5secCA/b8jjMw==;9Vqylhg4ityCJIJ1sndYTA=="
 ---

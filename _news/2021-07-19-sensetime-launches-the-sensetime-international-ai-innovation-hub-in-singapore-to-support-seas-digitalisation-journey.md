@@ -1,13 +1,13 @@
 ---
 category: news
 title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
-excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a to further their AI capabilities."
-publishedDateTime: 2021-07-19T14:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sensetime-launches-the-sensetime-international-ai-innovation-hub-in-singapore-to-support-sea-s-digitalisation-journey-1030620190"
-webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-launches-the-sensetime-international-ai-innovation-hub-in-singapore-to-support-sea-s-digitalisation-journey-1030620190"
+excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
+publishedDateTime: 2021-07-19T12:36:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sensetime-launches-the-sensetime-international-ai-innovation-hub-in-singapore-to-support-sea-s-digitalisation-journey-1030620106"
+webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-launches-the-sensetime-international-ai-innovation-hub-in-singapore-to-support-sea-s-digitalisation-journey-1030620106"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -19,10 +19,11 @@ provider:
       height: 50
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1576534/1.jpg"
+  - url: "https://mma.prnewswire.com/media/1576547/1.jpg"
     width: 400
     height: 233
     isCached: true
@@ -57,6 +58,6 @@ related:
         height: 233
         isCached: true
 
-secured: "xAEs7O2hLcBx286v6RPxzaJFGcB/y0jFY4E+KV4/kenV8bUUaJHqF+htDZ2xkQcDo/LUvOJTLe+d2UsvVgkMHtPaGtjjB9W+AbPZWMx/YcOWmYYHKa3f0vP10nyWeFn14wjYNMx7ZUUVLSoD3j0SkAG4HJ+3bBpq7K8FuuVAhWqiYWA1phhhwbxtZj9B2e5hPnJIjIw7sqNEkf+hxM3h8CQfK2CKNkcZ/fA79sc9Yv1URWs6/hhWYyOJNONsPqmZ5pv4nkQFcwKicLa7A2PTEAvKP+IMLBk3qgo9EokJstO6Hl2Ah/KdfYPK55MKdy4NjAdGsEKWmlxGEyEYRebVyFiyFtjYceEpQPK4VEiY7h8=;jjUZqAoH2zqzUjxaT8HXJg=="
+secured: "RGYrlivlNFvR+kxHRhi7dBJBu4uRNlfnWU8TZABwbJhM8Ix36wTtkS2GQD8FKZBuVZif8j+EomkVeps5sj7tlKWCqSgdogtxYXRJISmbSrgNy7hhMT9GT18Ueku8PG9puZBGB67WhW6eth8Vsm4ui5nCg2Zz6hSEB48dJgWOtXbMNilUyDrD+/AIG9s6fmCA+3v5afTO74RcwvK4LDSd/btrfyxE2tB5TgnCdZAVNo0F1Ph38SQzo4UnLJpif9rtYgYpxn56NkQgnRonOR5uV6yv8WPEexio+aYKmC9vXIxLbAtntr9gvp6SHBiArzCZyfd9IwyfkDEDHx0hgbSyCCHHGhcEM6CcopUgUla2dWM=;tuqN5gOy3/ZXeKOg2trzbQ=="
 ---
 

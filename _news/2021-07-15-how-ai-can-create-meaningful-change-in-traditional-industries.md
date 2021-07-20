@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/15/how-ai-can-create-meaningful-change-in-traditional-industries/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Supply chain threats demand industrywide approach to AI"
+    excerpt: "As supply chain threats get more complex, organizations need to adopt an industrywide approach to creating open standards."
+    publishedDateTime: 2021-07-19T22:36:00Z
+    webUrl: "https://venturebeat.com/2021/07/19/supply-chain-threats-demand-industrywide-approach-to-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/07/19/supply-chain-threats-demand-industrywide-approach-to-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/supply-chain-threats-demand-industrywide-approach-to-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/amdgoldman.png?w=1200&strip=all"
+        width: 1200
+        height: 602
+        isCached: true
   - title: "Industrial AI and Robotics Controller System in Waste Recycle Industry"
     excerpt: "A recycling center customer was looking for a high-performance, industrial-grade Artificial Intelligence (AI) solution that could successfully function in harsh environments. The customer needed an automated solution to help identify certain materials on the recycling line."
     publishedDateTime: 2021-07-15T12:30:00Z
@@ -44,21 +60,19 @@ related:
         width: 680
         height: 340
         isCached: true
-  - title: "How Artificial Intelligence Can Create Real Value for your Business"
-    excerpt: "Because of the versatility of A.I. applications and how quickly they are becoming applicable in everyday life without us even realizing it, the business disruption that comes with them is speeding up as well."
-    publishedDateTime: 2021-07-18T17:00:00Z
-    webUrl: "https://www.business2community.com/business-innovation/how-artificial-intelligence-can-create-real-value-for-your-business-02419761"
-    ampWebUrl: "https://www.business2community.com/business-innovation/how-artificial-intelligence-can-create-real-value-for-your-business-02419761/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-artificial-intelligence-can-create-real-value-for-your-business-02419761/amp"
+  - title: "You Should Know About The AI In Banking and Finance Market Growth And Why It Is Rising in this Industry?"
+    excerpt: "Absolute Markets Insights has added insightful analytical data to its massive repository titled, AI In Banking and Finance Market. The report highlights leading key players operating in the global regions such as North America,"
+    publishedDateTime: 2021-07-19T09:08:00Z
+    webUrl: "https://manometcurrent.com/you-should-know-about-the-ai-in-banking-and-finance-market-growth-and-why-it-is-rising-in-this-industry/"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 57
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 52
     images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/07/Burrus-Artificially-Intelligent-Cars-blog-900x514.png"
-        width: 900
-        height: 514
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Business-Image-3.jpg"
+        width: 622
+        height: 340
         isCached: true
 
 secured: "JFuMDHpbYGmC/XptI8dSu0GZ7uLpJpepvUH+MHTUY7bmu9dC5jLimBDtt4ewawaxOL1LyS4/Sq5njT2iu8B7ejXqdJVR9lHf3OT+xAOao3H1WUkfHPn5qeep7Ge7e7/MzozxuzgMMImYArlWMOF+UNlMpFfaQhk3eKcH/Pa4zH86bU6Egucu+iIMDy15t4uPggdcdAR7Eo9tm4IXmVVVgcbD5mX9wtLQLhuiMvSSXDnSx+dmetTb6g9es0oUN1Ct+vZuKqHQKn9p3fdmwmLNRVPjOiBIwa5VGwRW+Kh3vOIElL3SktpoWRilHfbv1lv7cH81MnkWjTwz7+qure/GC45uc12X0SMYRK5aXSb12rCFPdv6awBsTjlC1fmFCSxj5poWBfKXWbDSQ9oN35s5/h8C/L6L9HIe2HzDNpz3axORJLrOeTrhJoIJPK6l4sR+MfRex5XfeWTJsgAxXBzcdZGSJQnuEXlXguySO2bRedaHgNOOsA3R+72ikyLeXMvhO8ds2QS4Dqbw67cx020omw==;SYyijoAQnpdI1Z4KiIN9qg=="

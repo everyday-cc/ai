@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial Intelligence Robotics Market 2021: Consumption Analysis, Growth Forecast by Manufacturers, Regions, Type and Application to 2027"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Artificial Intelligence"
-    publishedDateTime: 2021-07-15T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-2021-consumption-analysis-growth-forecast-by-manufacturers-regions-type-and-application-to-2027-2021-07-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Robotics Market (2021 to 2025) - Featuring Intuitive Surgical, iRobot and KUKA Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to 2025\" report has been added"
     publishedDateTime: 2021-07-16T08:51:00Z

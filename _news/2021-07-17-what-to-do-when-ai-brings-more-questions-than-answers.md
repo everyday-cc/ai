@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-qu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/amp/"
 type: article
 quality: 87
-heat: 118
+heat: 117
 published: true
 
 provider:

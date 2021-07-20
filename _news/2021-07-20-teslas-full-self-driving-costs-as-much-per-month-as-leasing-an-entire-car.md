@@ -341,6 +341,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ Beta Software Used on Public Roads Lacks Safeguards"
+    excerpt: "Tesla's new Full Self-Driving beta 9 software concerns safety advocates at Consumer Reports and elsewhere. Here's why."
+    publishedDateTime: 2021-07-19T17:31:00Z
+    webUrl: "https://www.consumerreports.org/car-safety/tesla-full-self-driving-beta-software-lacks-safeguards-a6698414036/"
+    type: article
+    provider:
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 35
+    images:
+      - url: "https://article.images.consumerreports.org/image/upload/v1626376718/prod/content/dam/CRO-Images-2021/Cars/07July/CR-Cars-InlineHero-Tesla-Model-Y-r-driving-7-21"
+        width: 1199
+        height: 674
+        isCached: true
 
 secured: "+I/VyLiVFMsNILFPLbqUUYXJwvqaeXiKWF3Stv7v56dUApp3+9lx6OmI2e7KDoZ/MoHgJHmUgUbOo00rhayc1FtWw1Vw9GQV3UuAASLJot5VLZmI4oXIBvRQBh2qhpm/B8MRSF2x8n5ZJ+2iYylUVxdOC/ncsogkl5vSNeQbMoJBEU5S0WAr1XBj+8cyyNYR+OfINKMw4LdD1fvlma3qJSfuksCdJhEA0+kBXf/7HnDjsGVf27S25iaJLdHKifLPst03MUv7BclWGMPa7dosCryBOkEymJEdQ+Mdxa3lB7+OW12Q+OiVPiOSDOEr5jv7SjrAADv4L7b37VKRl4Eb0sER71IFPK11s2LMhEDpIYha8QeInPfEGQ5U6I45PpjYhGPp6PINMIt2WzzSq5DJe1gbwjHbVzqbuKdcmdRyqUdPD+zORAmVLJGAB6BH/Nou4jvEuxBoz50iL7IPOGKqA621WRio6qg30lCgbZB2kCVp17v85sDzFtJ2Wm/LCShn+7gZkKXdD58Q+poUqSDdLw==;OpVgtO/g8on9Vs3NXfaT/A=="
 ---

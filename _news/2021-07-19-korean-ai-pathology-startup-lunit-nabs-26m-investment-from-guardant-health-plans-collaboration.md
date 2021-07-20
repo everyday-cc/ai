@@ -21,7 +21,7 @@ related:
   - title: "AI Startup Lunit Secures Investment from Guardant Health in a Strategic Funding Round"
     excerpt: "Lunit, a leading AI startup in AI-powered cancer solutions, today announced a strategic investment of $26 million from Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company. The deal,"
     publishedDateTime: 2021-07-19T13:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round-1030620637"
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round-1030622067"
     type: article
     provider:
       name: Business Insider

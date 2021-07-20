@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/americas-computer-vision-market-share-i
 webUrl: "https://manometcurrent.com/americas-computer-vision-market-share-industry-growth-trend-drivers-challenges-key-companies-by-2027/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 750
     height: 350
     isCached: true
-
-related:
-  - title: "South Africa Computer Vision Market Trend, Revenue, Key Players, Growth, Share and Forecast Till 2027"
-    excerpt: "Market Expertz latest study, titled ‘Global South Africa Computer Vision Market,’ sheds light on the crucial aspects of the global South Africa Computer Vision market. The South Africa Computer Vision report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027)."
-    publishedDateTime: 2021-07-15T06:24:00Z
-    webUrl: "https://manometcurrent.com/south-africa-computer-vision-market-trend-revenue-key-players-growth-share-and-forecast-till-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 24
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/South-Africa-Computer-Vision-Market.jpg"
-        width: 750
-        height: 350
-        isCached: true
 
 secured: "EIaxF7GeRF5nnMxpiLWMTULAxweDpbNrQhmJCJ+3fLqnxcJQiv17IzybgTcq7KeGjNu2LafuIgHU5RZLaSX/933+JqIaGy4YLdOhgdKZ+Sx4Fxi3FSWR/ZcrFZgPFC/ZJyFY/rfdGzrVixA2n+9f71rWjSOwY23u9iOezHCU3JJVyJbIMw4N07s06EFCdkp8ckyLpjl4QhGdVyy6P4amMKRnHKYkBJmk0jRycGack92M5gGWuM9ZyrUg+tVf5fNOOhP1H9vnIwn2lYd2V9LnAsG6OmKdUt3jW/kVkCuNLOulp8gMRyA9jN+SOUn+2nyAiSdi7cWpU8dw5BCXg9HawDdC165yn1zcl0hlYQKOivZLZu1L2FWqKAjTJkWvCpwNcocACLSFG/iTJMu9UABc9epCm5O70CvlWqignA8CxZiROjKLmSF76Q+VrfcvsD+hGdFSwsbzhJ2YaXwIkR+Ol0NjmlayhqOhj/JufBJrFr3Ik4k7wLLxeK/mfE9XDDHDahjz+L0i84lNZBnGdsW5OQ==;XS29oo/QqN104TgWmIrGqQ=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "AI Startup Lunit Secures Investment from Guardant Health in a Strategic Funding Round"
 excerpt: "Lunit, a leading AI startup in AI-powered cancer solutions, today announced a strategic investment of $26 million from Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company. The deal,"
 publishedDateTime: 2021-07-19T13:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round-1030620637"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round-1030620637"
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round-1030622067"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round-1030622067"
 type: article
 quality: 40
 heat: 40
@@ -41,6 +41,6 @@ related:
       domain: precisiononcologynews.com
     quality: 4
 
-secured: "eyhs0rD7OtS/De+47hMlqu9YfSdmiDHHHvTOOYvKbiyM4Sh7xmzgsiybHXNcTARKsCMqHYdo3UZV4PZtZF6r7B0L9g8AAzydkqrjS67QZcRyCHMLxQWsJW2E2Ft7sRw0MYWVMRizOGlZqdR13KGF8SvANihYGFNm3S1YLBFbpyJi9ukwkJfzl9xLhsdRd3e1STjt8LvnqwvQl1O+zoeQSVCTNvVqK9Brod2VJxDrlgCxW29svkDKZT8CzvciHMOE3vN+XAyRR2KWtGrQEiAbI89h7SsYMP09vdMOV7VB6IjlddhCjwakXY0Y6hXiPdiIvJcRcVhnTgZJSHVjh2IjwYWfvyMCpV23I8WWvZ3qrn3KveynWmBMTnjh2jSpPTvJZcwlHhA5kRxjMJfjXku7i2nPj0j7UozpjKetDt7MB4s7Du4cZ47/ttyCkAuKpSmvOYZk5wyCW5ahyu+oCzXuAUOPWjWv15Zl1IzVRtbD2Msar2BBu8wM8PTEqdVKpAr8QQ1/wqQqUENRjFUTjbGRfg==;6D6Y581xqZzNfAWGsJ7S/g=="
+secured: "VsFfiBiljX9dbSmpQ3JPZYehUvgNawk6z1hSXuwEmqcTrfQEcAgUBtJXkjO7W/RxOw5jlxc1qaTmspJ2tIaPAaC6sz8552ZFLO2+r9vv2Ho9R4Q1UJZYn4Om3Yq7NYXCiKI9omOzVRPKZewCImGKWwysCLxC3nPy7sPo4QlpYFpZjRP4tV4+GgydT2YTaJjOyR/6xcS9+NfBbFkmWDcwhsFXlYiOnwgDQ8qJsWbtEeEujivNdrX+tgYNVgHvZvAwA1WIvw5wBrVdU6PMVwn+PihlOcIx17N2bvaP3rB2KLfbYhbhcApHb6YfU8hVDNDDe0cuvoAsMV+2M1ObVwINxiVwfQEQ4Yxo5qg7yr70ur56JV113RNEmHMoFvZVSUVv1I0Y4J1hsv+8vDB8D+OXmCZ+A6rxzywnXosULhvtyH7l1WxTG4zRYXtI5UZoAm4+lh928LvTw7cPSfQwtuvvsaqoRHbUMAliJcYxIW7fPqN+9RT6Cr3d+4q4XZvPyG3qtqPiRWoU1CDOquxbDq/Okg==;w5su7vMyHucD7DlTUKQEjg=="
 ---
 

@@ -30,17 +30,6 @@ images:
 
 related:
   - title: "IBM unveils first machine-learning end-to-end pipeline starter kit"
-    excerpt: "IBM is announcing a new addition to its open source Cloud-Native Toolkit that will allow developers to integrate their AI and ML applications \"to cloud-native environments and optimize scalable, reliable deployments."
-    publishedDateTime: 2021-07-15T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
-  - title: "IBM unveils first machine-learning end-to-end pipeline starter kit"
     excerpt: "IBM is announcing a new addition to its open-source Cloud-Native Toolkit that will allow developers to integrate their AI and ML applications \"to cloud-native environments and optimize scalable, reliable deployments."
     publishedDateTime: 2021-07-15T20:00:00Z
     webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/"
