@@ -2,6 +2,143 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-15-in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "IN-D Identity Verification now available in the Microsoft Azure marketplace",
+      "excerpt": "D.ai, a leading provider of intelligent document and image-processing solutions, today announced the availability of Identity Verification, a suite of",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/ani-press-releases/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace/696630/",
+      "originalUrl": "https://theprint.in/ani-press-releases/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace/696630/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2021/07/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace.gif",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/ani-press-releases/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace/696630/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace/696630/?amp",
+      "publishedDateTime": "2021-07-14T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit.md",
+      "title": "IBM unveils first machine-learning end-to-end pipeline starter kit",
+      "excerpt": "IBM is announcing a new addition to its open source Cloud-Native Toolkit that will allow developers to integrate their AI and ML applications \"to cloud-native environments and optimize scalable, reliable deployments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
+      "publishedDateTime": "2021-07-14T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations.md",
+      "title": "Easy Eat AI raises $5M to help Southeast Asian restaurants digitize their operations",
+      "excerpt": "Easy Eat AI, a Singapore-based startup that wants to “transform restaurants into technology companies,” announced today it has raised $5 million in funding. Easy Eat AI offers an operating system for restaurants that lets them digitize all parts of their business,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/14/easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations/",
+      "originalUrl": "https://techcrunch.com/2021/07/14/easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1271227743.jpg?w=1024",
+          "width": 1024,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/14/easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/14/easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations/amp/",
+      "publishedDateTime": "2021-07-14T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2027",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -1062,162 +1199,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-3-top-artificial-intelligence-stocks-to-buy-in-july.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in July",
-      "excerpt": "Artificial intelligence software can automate these new processes, and help companies keep up with the fast-changing world we live in. As a result, tech researcher Gartner expects global spending on \"hyperautomation\" (read: AI software and systems) to reach nearly $600 billion in 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
-      "originalUrl": "https://www.fool.com/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F633460%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
-      "publishedDateTime": "2021-07-14T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future.md",
-      "title": "Report: Computer vision adoption expected to grow significantly in the near future",
-      "excerpt": "An overwhelming 96% of respondents believe that computer vision has the potential to boost revenue, while 97% said these technologies will save their organization time and money, according to a new IDG study commissioned by Insight. While only 10% of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
-      "originalUrl": "https://www.techrepublic.com/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/14/b386c617-f485-4ea6-a15a-15f8aa2df175/resize/1200x/2951e8519179825379ff08f6d3e1bc9f/metamorworks-2.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
-      "publishedDateTime": "2021-07-14T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions.md",
-      "title": "Facebook AI researchers create a robot able to adapt to rapidly changing conditions",
-      "excerpt": "Work is being performed all around the world to give robots more human-like abilities. One of the key human-like abilities that researchers want robots to have is the ability to react in real-time",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/",
-      "originalUrl": "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/ai-robot.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/",
-      "publishedDateTime": "2021-07-14T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

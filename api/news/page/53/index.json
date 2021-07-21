@@ -2,6 +2,145 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-06-11-intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm.md",
+      "title": "Intel debates buyout of SiFive to bolster chip technology against ARM",
+      "excerpt": "Intel Corp is debating a possible offer to buy SiFive Inc, a person familiar with the matter told Reuters, a company closely associated with open-source technology that is challenging the rise of Intel's rival,",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
+      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/06/Intel_Reuters_1_NEW.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
+      "publishedDateTime": "2021-06-11T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-huawei-seeks-to-develop-its-driverless-car-technology-by-2025.md",
+      "title": "Huawei seeks to develop its driverless car technology by 2025",
+      "excerpt": "Huawei Technologies is aiming on developing its driverless passenger car technology by the year 2025. The news arrives from a statement made by a company executive earlier this week, as the firm seeks to expand its business scope in the automobile industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/",
+      "originalUrl": "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/07/EZjM-fzxzwuy4885313.jpg",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-hunt-sets-driverless-truck-test-in-texas.md",
+      "title": "Hunt sets driverless truck test in Texas",
+      "excerpt": "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas ... J.B. Hunt 360, by using artificial intelligence and machine learning tools. Meanwhile, developments in consumer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/",
+      "originalUrl": "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Northwest Arkansas Democrat Gazette",
+        "domain": "nwaonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-conversational-artificial-intelligence-market-trends-demand-and-global-industry-research-report-2020-2028.md",
       "title": "Conversational Artificial Intelligence Market Trends, Demand and Global Industry Research Report 2020-2028",
       "excerpt": "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected",
@@ -1041,126 +1180,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-using-artificial-intelligence-to-personalize-therapy-and-individual-level-of-outcome-prediction.md",
-      "title": "Using Artificial Intelligence to Personalize Therapy and Individual Level of Outcome Prediction",
-      "excerpt": "The MSKCC model was reported on risk stratification of 670 patients treated there with interferon therapy. The IMDC model is based on data from a real-world patient population from multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/reading-room/asco/immunotherapy/93023",
-      "originalUrl": "https://www.medpagetoday.com/reading-room/asco/immunotherapy/93023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-self-driving-technology-company-argo-ai-plans-ipo-within-a-year.md",
-      "title": "Self-driving technology company Argo AI plans IPO within a year",
-      "excerpt": "Shares in Argo AI, which is backed by Ford and Volkswagen Group, could be listed on a stock exchange before 2022 is out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo",
-      "originalUrl": "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100777433_h.jpg",
-          "width": 1920,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Authority",
-        "domain": "motorauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-the-reality-of-artificial-intelligence.md",
-      "title": "The Reality Of Artificial Intelligence",
-      "excerpt": "Fundamentally, it is the science that enables machines to translate, execute and investigate ... and understand data by mimicking human natural language. Of course, there are technologies that enable AI. We live in the era of the internet of things ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.commercialintegrator.com/business_resources/artificial-intelligence-reality/",
-      "originalUrl": "https://www.commercialintegrator.com/business_resources/artificial-intelligence-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.commercialintegrator.com/wp-content/uploads/2021/06/AI.jpeg",
-          "width": 1000,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Commercial Integrator",
-        "domain": "commercialintegrator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

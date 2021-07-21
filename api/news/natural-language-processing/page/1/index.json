@@ -54,7 +54,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/19/volleys-magic-word-is-a-voice-based-puzzle-game-on-google-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -461,19 +461,19 @@
     {
       "path": "_news/2021-07-16-ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize.md",
       "title": "AI-enabled sign language translator designed by teenagers wins £20,000 prize",
-      "excerpt": "A two-way AI-enabled sign language translator designed by teenagers has won a £20,000 technology prize. A team from St Paul’s Girls’ School in London came up with the idea for an intelligent ...",
+      "excerpt": "The prototype of the BSL: Educate-2-Translate app A two-way AI-enabled sign language translator designed by teenagers has won a £20,000 technology prize. A team from St Paul’s Girls’ School ...",
       "sourceUrl": null,
-      "webUrl": "https://www.oxfordmail.co.uk/news/national/19446632.ai-enabled-sign-language-translator-designed-teenagers-wins-20-000-prize/",
-      "originalUrl": "https://www.oxfordmail.co.uk/news/national/19446632.ai-enabled-sign-language-translator-designed-teenagers-wins-20-000-prize/",
+      "webUrl": "https://www.shropshirestar.com/news/uk-news/2021/07/16/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize/",
+      "originalUrl": "https://www.shropshirestar.com/news/uk-news/2021/07/16/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.oxfordmail.co.uk/resources/images/12802591/",
-          "width": 1071,
-          "height": 714,
+          "url": "https://www.shropshirestar.com/resizer/9Te1NTF34Dkxnxb9vDfuc1Rpx1o=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/4YJSKDSIPNH3LILDOXUWZ7HB5A.jpg",
+          "width": 1200,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -483,11 +483,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T16:23:00-07:00",
+      "publishedDateTime": "2021-07-15T16:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Oxford Mail",
-        "domain": "oxfordmail.co.uk",
+        "name": "Shropshire Star",
+        "domain": "shropshirestar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -809,34 +809,25 @@
     },
     {
       "path": "_news/2021-07-14-bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video-events.md",
-      "title": "BxVideo's New EZLive Caption Offers Self-Service Transcription, Translation and Captioning for Live-Streaming Video Events",
-      "excerpt": "The service utilizes AI for machine transcription and translation from 30 different spoken languages and more than 50 text-based caption languages. For more information, please visit www.bxvideo.com.",
+      "title": "BxVideo’s New EZLive Caption Offers Self-service Transcription, Translation and Captioning for Live-Streaming Video Events",
+      "excerpt": "The service utilizes AI for machine transcription and translation from 30 different spoken languages and more than 50 text-based caption languages. For more information, please visit www.bxvideo.com. “Having produced thousands of live-streaming events ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video/article_fa4d16a5-d9bf-5873-8016-d935109d13f4.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video/article_fa4d16a5-d9bf-5873-8016-d935109d13f4.html",
+      "webUrl": "https://www.streamingmedia.com/Producer/Articles/News/Featured-News/BxVideos-New-EZLive-Caption-Offers-Self-service-Transcription-Translation-and-Captioning-for-Live-Streaming-Video-Events-147954.aspx",
+      "originalUrl": "https://www.streamingmedia.com/Producer/Articles/News/Featured-News/BxVideos-New-EZLive-Caption-Offers-Self-service-Transcription-Translation-and-Captioning-for-Live-Streaming-Video-Events-147954.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T06:20:00-07:00",
+      "publishedDateTime": "2021-07-14T08:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Streaming Media Magazine",
+        "domain": "streamingmedia.com",
         "images": null,
         "publishers": null,
         "authors": null

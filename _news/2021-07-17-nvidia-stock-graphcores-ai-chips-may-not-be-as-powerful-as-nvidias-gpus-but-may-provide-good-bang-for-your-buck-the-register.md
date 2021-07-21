@@ -41,6 +41,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "NVIDIA Unveils TensorRT8 to Accelerate AI Inferencing"
+    excerpt: "The latest generation of NVIDIA AI software is aimed at improving chatbots, search and recommendations. On NVIDIA launched TensorRT 8, a software development kit (SDK) designed to help companies build smarter,"
+    publishedDateTime: 2021-07-20T19:59:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/nvidia-unveils-tensorrt8-to-accelerate-ai-inferencing/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/AI-motherboard-696x406.jpeg"
+        width: 696
+        height: 406
+        isCached: true
   - title: "Nvidia accelerates AI inference performance with TensorRT 8 boosts"
     excerpt: "Nvidia Corp. is speeding up artificial intelligence inference with the launch of the next generation of its TensorRT software today. TensorRT 8 is the eighth iteration of Nvidia’s popular AI software that’s used for high-performance deep learning inference."
     publishedDateTime: 2021-07-20T13:00:00Z

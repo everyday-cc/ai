@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-fa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA Unveils TensorRT8 to Accelerate AI Inferencing"
+    excerpt: "The latest generation of NVIDIA AI software is aimed at improving chatbots, search and recommendations. On NVIDIA launched TensorRT 8, a software development kit (SDK) designed to help companies build smarter,"
+    publishedDateTime: 2021-07-20T19:59:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/nvidia-unveils-tensorrt8-to-accelerate-ai-inferencing/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/AI-motherboard-696x406.jpeg"
+        width: 696
+        height: 406
+        isCached: true
   - title: "NVIDIA Stock – Graphcore’s AI chips may not be as powerful as Nvidia’s GPUs, but may provide good bang for your buck • The Register"
     excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
     publishedDateTime: 2021-07-17T11:49:00Z

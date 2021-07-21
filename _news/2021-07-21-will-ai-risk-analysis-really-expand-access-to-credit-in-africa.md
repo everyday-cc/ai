@@ -8,8 +8,8 @@ webUrl: "https://www.theafricareport.com/107432/will-ai-risk-analysis-really-exp
 ampWebUrl: "https://www.theafricareport.com/107432/will-ai-risk-analysis-really-expand-access-to-credit-in-africa/amp/"
 cdnAmpWebUrl: "https://www-theafricareport-com.cdn.ampproject.org/c/s/www.theafricareport.com/107432/will-ai-risk-analysis-really-expand-access-to-credit-in-africa/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.theafricareport.com/media/2021/05/branchapp.jpg"
@@ -26,6 +27,6 @@ images:
     height: 482
     isCached: true
 
-secured: "Ra7zQ4Qd0h2ndLklBT/w1DRN4sSvGYEkhfepxjgqPJJgxlJWFpT6P43XP990aiW6Q5/I+Jq+NINSbOTo5dHDUZCvvIXGuW9O0CS3s7ju121p7HCQlMPltkzeZb9CSLAH0VGvvW9fazLKGjhRHxGH+c4eNV8Zmol4MbTYEud0Tc3WHHXr3EfcT926P5n5Lxw0vGNO8BQCqFHmt+93SYYdkUeDGPfZmEfNPA1cQ/Ozc7AYiuuKHlKaL/BoH2mKzW8OtqShVSNzqLI08sJ3Lstzqbu0hZ/s/NYT0ra9I0mb4z/S92JoZuvo50XpixBb2p+eTYIN57w/MTzk51GVj3hNaokPGWF37EYilpbZqJJMP3E=;l/p3IU+Gs1d/cssq9tDhEA=="
+secured: "PUDkcYExoR1kG5OoIYc49DdduGSRwHYj/TqPcJ7Zb20k/oRyij6WnRThMkNGnmv2rK26yTJ5j+8xJt7VUs4gzmaG3Zzi69Jgp/tNth/T1rNfM6VpYpKr1yBbw8fKfhMCDf89CAwolyhnY26vlfb5iihKtLM86ReASKDFrj1n3Mospq1UxBYKzPbjrYiVE1xUaN2+3J7vdtJ/xBheGnpLNSaIY4rdjJLzMjzPaAP8krOq2y2pbmNqCtxqPWnXFCO8g4IKA67x1IwvnBW2ZHcPd7lx5+Qdz6IPuKBYTip+xjH7BEkMh/FlYqpMJXhtOSH2GE7K06RzSRMS4hUsehwjwwJQLm4dTxwQoQeEbjT+6SUCIaWuJY69xY50Z4sjX7qyaTgRsgZwbzWnzN68F1zeqzDQWNnNlQu2R/6Xq8J5JDzxCF8igRNxob8URKzp0xyLSjOFSSIUg140E3g5B0FNy/Pa6HXievI8s3B2PR9THoGQD+C3RLqwAhCjwX0TswGztS7U/yDVfuPptsULONSLKA==;kCxHM3I0YDH3yTSZzQI4tA=="
 ---
 

@@ -95,6 +95,15 @@ related:
         width: 902
         height: 475
         isCached: true
+  - title: "AscellaHealth Announces Partnership with Banjo Health Inc., Improves Patient Care by Streamlining the Prior Authorization Process"
+    excerpt: "AscellaHealth, a global specialty pharmacy and healthcare solutions company, today announces the signing of a multi-year partnership with Banjo Health, a market leader in artificial intelligence (AI)-powered Prior Authorization (PA) solutions,"
+    publishedDateTime: 2021-07-20T14:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ascellahealth-announces-partnership-with-banjo-health-inc-improves-/2021/07/20/9413006.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "gMRLkWm27t8c4h5g/SQbem0luIYA718blSNZBllV5XsNZjTNzOIJn5DlXImPe8kb7xj+mzk5T/UGAXGsYUpUfN84PXtnnRnlZ+sVwXIYvZ5WZsaF9CM/mmQ4pNzWHpVjV83vWqOefzhC8dTKeKw3fRsQgInUmbajNvOp8dbWGcjV0Jju6gb5nv4uzIzUjS17lPlsQk8cuJqPuuVdUSnm45paxRsjdpeJH/NNfhH/P/zF79NXdXPDwuKmm9pVL1S0x00Ex8gg8Ie7+EVEzWNYMGgr4PPPlQ6CzMe/JUQPSecvqnBGNw+CcTQZHD44ozLgsYLHESItOyyZ/vHQ3U+D8NfcXR+D0uDOP8wA2WTqjvsDGHeaO8s9PsTGbEH/D9jQYzDBL3RU68xOUiaZcrvWvWidHzqHsBX+lLUYTnOYz35osopP1u+Jx2yEGxrziSONcquC/rWsLwxU6KvJoE1WlZZw/stoVkJhkx4Jzm7llb4d0GRpKXrTFUtVPcIcNNOYCLMc933v8PPZL7YmiaGufg==;361pPfslif1iI7gVSxdQwg=="
 ---

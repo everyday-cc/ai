@@ -2,6 +2,152 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-07-07-to-stay-ahead-of-your-competitors-start-building-your-narrative-on-day-one.md",
+      "title": "To stay ahead of your competitors, start building your narrative on day one",
+      "excerpt": "How do you stay ahead of your competition when you know it's only a matter of time before they copy your best features? The solution is messaging, says conversion optimization expert Peep Laja.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/06/to-stay-ahead-of-your-competitors-start-building-your-narrative-on-day-one/",
+      "originalUrl": "https://techcrunch.com/2021/07/06/to-stay-ahead-of-your-competitors-start-building-your-narrative-on-day-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/peep-beard-big.jpg?w=1024",
+          "width": 1024,
+          "height": 766,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/06/to-stay-ahead-of-your-competitors-start-building-your-narrative-on-day-one/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/06/to-stay-ahead-of-your-competitors-start-building-your-narrative-on-day-one/amp/",
+      "publishedDateTime": "2021-07-06T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses.md",
+      "title": "Yandex Self-Driving Group partners with GrubHub to bring robotic delivery to college campuses",
+      "excerpt": "Yandex Self-Driving Group, a unit of Yandex, the publicly-traded Russian tech giant, has announced a partnership with food delivery service GrubHub to be its multi-year robotic delivery provider across American college campuses.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/",
+      "originalUrl": "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/YanexRoverDeliveryMI_2-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/amp/",
+      "publishedDateTime": "2021-07-06T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-hybrid-architecture-speeds-ai-vision-workloads.md",
+      "title": "Hybrid architecture speeds AI, vision workloads",
+      "excerpt": "A novel hybrid data-flow and Von Neumann architecture can accelerate workloads including neural networks, machine learning, computer vision, DSP and basic",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/hybrid-architecture-speeds-ai-vision-workloads/",
+      "originalUrl": "https://www.embedded.com/hybrid-architecture-speeds-ai-vision-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2021/07/img20210706030431Quadric-Hybrid-Architecture-Take_0_w1642_h925.jpg",
+          "width": 1642,
+          "height": 925,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-welcome-to-simulation-city-the-virtual-world-where-waymo-tests-its-autonomous-vehicles.md",
       "title": "Welcome to Simulation City, the virtual world where Waymo tests its autonomous vehicles",
       "excerpt": "This is Simulation City, the virtual world where Waymo, an offshoot of Google, tests its autonomous vehicles in preparation for real-world experiences. The gray cube with the blue top represents one of the company’s autonomous semi-trailer trucks,",
@@ -947,96 +1093,19 @@
       ]
     },
     {
-      "path": "_news/2021-07-06-bytedance-selling-tiktok-ai-to-companies-including-in-india.md",
-      "title": "ByteDance selling TikTok AI to companies including in India",
-      "excerpt": "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies,",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-84165212,imgsize-488272,width-800,height-434,overlay-etbrandequity/bytedance-selling-tiktok-ai-to-companies-including-in-india.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/bytedance-selling-tiktok-ai-to-companies-including-in-india/84165212",
-      "publishedDateTime": "2021-07-06T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-06-reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure.md",
       "title": "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure",
-      "excerpt": "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new business applications across industries, reduces upfront costs and allows for the rapid implementation of customer-specific robotics use cases.",
+      "excerpt": "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ...",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure/",
-      "originalUrl": "https://www.financialbuzz.com/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure/",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026.md",
-      "title": "Artificial Intelligence in Healthcare market Size, Share, Value, And Competitive Landscape 2021-2026",
-      "excerpt": "Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-value-and-competitive-landscape-2021-2026-2021-07-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -1048,63 +1117,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T00:07:00-07:00",
+      "publishedDateTime": "2021-07-06T01:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-healthcare-natural-language-processing.md",
-      "title": "Healthcare Natural Language Processing",
-      "excerpt": "Los Angeles, United State, – including Q4 analysis The report named, Global Healthcare Natural Language Processing (NLP) Market has been added to the archive of market research studies by JCMR.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2321941/healthcare-natural-language-processing-nlp-market",
-      "originalUrl": "https://www.openpr.com/news/2321941/healthcare-natural-language-processing-nlp-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U706136187_g.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2321941/healthcare-natural-language-processing-nlp-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2321941/healthcare-natural-language-processing-nlp-market",
-      "publishedDateTime": "2021-07-05T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1114,9 +1131,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

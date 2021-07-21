@@ -2,6 +2,153 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-07-14-saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year.md",
+      "title": "SAIC Motor says it will put Robotaxis capable of L4 self-driving on roads in China this year",
+      "excerpt": "Chinese automotive design and manufacturing company SAIC Motor says it will launch 40 to 60 Robotaxis capable of Level 4 self-driving throughout Shanghai and Suzhou before the end of 2021. The bold statement was made by Zu Sijie,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/",
+      "originalUrl": "https://electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/SAIC-Motor-Robotaxi-Mystery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/amp/",
+      "publishedDateTime": "2021-07-13T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-the-assault-on-our-privacy-is-being-conducted-in-private.md",
+      "title": "The Assault on Our Privacy Is Being Conducted in Private",
+      "excerpt": "Central databases are exploited by criminals, governments and companies that want to part consumers from their money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/13/opinion/data-privacy-rights.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/13/opinion/data-privacy-rights.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/13/opinion/13bensinger1/13bensinger1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/13/opinion/data-privacy-rights.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/13/opinion/data-privacy-rights.amp.html",
+      "publishedDateTime": "2021-07-13T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-global-cognitive-data-management-market-opportunities-growth-analysis-and-forecast-2021-2026.md",
+      "title": "Global Cognitive Data Management Market Opportunities, Growth Analysis And Forecast 2021-2026",
+      "excerpt": "The global Cognitive Data Management market development is majorly supported by a considerable rise in the demand for products and services offered by this industry. NOTE: Consumer behaviour has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-cognitive-data-management-market-opportunities-growth-analysis-and-forecast-2021-2026",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-cognitive-data-management-market-opportunities-growth-analysis-and-forecast-2021-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/Vaccine-Covid-Pandemic-AFP-1K-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-unleashing-the-power-of-a-diverse-team-to-build-more-ethical-ai-technologies.md",
       "title": "Unleashing The Power Of A Diverse Team To Build More Ethical AI Technologies",
       "excerpt": "In the world of AI and machine learning, we are quickly learning that data and models can often obscure the hard truths of a person’s lived experience. This is particularly true if the models are built by teams that are not representative of race,",
@@ -1085,135 +1232,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-artificial-intelligence-ai-in-agriculture-market-size-share-growth-sales-revenue-and-key-drivers-analysis-research-report-by-2027.md",
-      "title": "Artificial Intelligence (AI) in Agriculture Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027",
-      "excerpt": "Market Expertz latest study, titled ‘Global Artificial Intelligence (AI) in Agriculture Market,’ sheds light on the crucial aspects of the global Artificial Intelligence (AI) in Agriculture market. The Artificial Intelligence (AI) in Agriculture report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027).",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-agriculture-market-size-share-growth-sales-revenue-and-key-drivers-analysis-research-report-by-2027/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-agriculture-market-size-share-growth-sales-revenue-and-key-drivers-analysis-research-report-by-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/07/Artificial-Intelligence-AI-in-Agriculture-Market.jpg",
-          "width": 750,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-speech-and-voice-recognition-market-2021-worldwide-market-size-with-top-countries-data-segmentation-analysis-value-chain-and-key-trends-by.md",
-      "title": "Speech and Voice Recognition Market 2021 : Worldwide Market Size with Top Countries Data, Segmentation Analysis, Value Chain and Key Trends by 2026",
-      "excerpt": "Speech and Voice Recognition Market Analysis : Global Speech and Voice Recognition Market size is projected to reach",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2021-worldwide-market-size-with-top-countries-data-segmentation-analysis-value-chain-and-key-trends-by-2026-2021-07-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2021-worldwide-market-size-with-top-countries-data-segmentation-analysis-value-chain-and-key-trends-by-2026-2021-07-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-informatica-expands-cloud-footprint-on-microsoft-azure-germany.md",
-      "title": "Informatica Expands Cloud Footprint on Microsoft Azure Germany",
-      "excerpt": "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

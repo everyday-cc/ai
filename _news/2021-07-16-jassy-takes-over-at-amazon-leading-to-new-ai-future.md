@@ -14,6 +14,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.aitrends.com/wp-content/uploads/2021/07/7-16AIatAmazon-2.jpeg"
@@ -21,6 +22,6 @@ images:
     height: 366
     isCached: true
 
-secured: "GpVZ48qc66U+LJe+4VWjxMMJ1AP8m/p1o6HE21Fw4n0oiyIza4KaQXsV8Nvg+gd0t/Nb2PXFH4L8nsuej03dPyUPzYUjLy0Ee/Po7LT3dkQ+BlkCbm5zHb4Q+QwFiyAHEZh+njNhdO5A5zUEzVrp16XeumDTfaAQW74M+cDolINpHI6py5i/L78w2clAxDK0hKVVsZlMFUQqKwYv4O1ZiTOJy3BzslO5cULkZv17w7s6jSJ+Bq9PDs8j/+idwNYqDJTk+OAOCTTF24+h0C6nacdvNUiYsHK4vkwz3MLokFV+m7iUbCsmq5bF6JVDHJuqZSEphYrMzaz9WWCF7Ha2MZAmFjqjNpilK3vDE/LXWi0=;VIKJPZQ5oiaXKs+BTYPqCA=="
+secured: "gtBTHmP/ZEHM1lv/xOwBVAqpcxZBM9Tzwguxw+iyvGInEZ+T6zQEwybUCUZ5jz8Mekj+NsutPVO+lvB42i9Lf/UcXtpfvrmSMxD5UXb8lmoFg0ABWsgW31xylaP5ohgmheDvnsHzva7En7HSFgz3nUiksIolzywKKaiF7GQ0rOMzN8Yo0fC7KpuGA3t43T98IHpmGPBTDwCb44v1Gj5bsKtyM3uLz81WKC1qYT3746FvdA83fpDOodZ1LormkWuzvhHC8+LayXFhGh6BTZKZcqMe1dsnUKo52B2PtRO6/05JjKpcfMG23fzE8FkCuVWY1UBbrGcYHuVpIe/jVLsk/PeXZ7T6s52rKmjXJxRGTcJa/xiLNpxU+zeQyTsFF7H+sXTReXe99RaZnM5If4OXHoFfGkvBUXIEssJG5NqVk0slhozBmHteP3ndxU0IX0NDU7xCQJErNHSSSCGkwoSG4xiFnkuYY8TPc3uDcbGgnaXYuPNYtG3+mrnNVcDnAwXXP/dJML/0DSGd+IPqGC5EnA==;4Lbxtp9cMZdvD09M//tjrw=="
 ---
 

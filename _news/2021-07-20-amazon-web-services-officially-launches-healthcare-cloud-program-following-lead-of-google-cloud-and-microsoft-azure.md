@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercebiotech.com/cro/amazon-web-services-officially-l
 webUrl: "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2021/07/16/4c/da/ed/bd/2f/15/c5/04/microsoft_20210625.png"
         width: 272
         height: 270
+        isCached: true
+  - title: "NIH taps Microsoft for biomedical research initiative"
+    excerpt: "NIH tapped Microsoft Azure as the cloud platform for its Science and Technology Research Infrastructure for Discovery, Experimentation and Sustainability Initiative, which provides cloud technology and services for biomedical research."
+    publishedDateTime: 2021-07-20T21:40:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/nih-taps-microsoft-for-biomedical-research-initiative.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/11.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "hxjg9/HEiRs2fzboiumINXhb8wYwX7wu6JEQTbRJjZAAsRWwPsmRsqsrC06D+ajhU2pG23+lDUwLaDO84D0Y0GFLp/2+EOyxz7ViHmk6Hw0ZtnuePr1lNu3XsZTGm6GK5Hb4pTb/AVsYXdw67A82yttp2kaZX7WOdWB4bcwNmHvgxQLwLqcoUItIUxmjuOJlCc6kdne3wv7xPtwu+wm5WcMYBR+CFK8T9xgik8UACew9RD+Lu9kPWwp6ySJCD36xVQ+zmmavgxf8OC9aF5EG3i5VD/AAx+qMMKrgLxwE3+9EBSdyBfR92ycjaErpReBaJWSwLOUSfiiMV82BP2FkiTPaDQ0XtOW26JeFw7G4oiU=;+Nfvt+2F5JUonty4VDSTXA=="

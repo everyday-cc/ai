@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/business-tech/spiking-neuron-fo
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/business-tech/spiking-neuron-for-speedy-accurate-ai/article35392642.ece/amp/"
 type: article
 quality: 57
-heat: 88
+heat: 87
 published: true
 
 provider:

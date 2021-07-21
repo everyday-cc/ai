@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-h
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp"
 type: article
 quality: 86
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -98,6 +98,15 @@ related:
         width: 902
         height: 475
         isCached: true
+  - title: "AscellaHealth Announces Partnership with Banjo Health Inc., Improves Patient Care by Streamlining the Prior Authorization Process"
+    excerpt: "AscellaHealth, a global specialty pharmacy and healthcare solutions company, today announces the signing of a multi-year partnership with Banjo Health, a market leader in artificial intelligence (AI)-powered Prior Authorization (PA) solutions,"
+    publishedDateTime: 2021-07-20T14:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ascellahealth-announces-partnership-with-banjo-health-inc-improves-/2021/07/20/9413006.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Fe+sWbiBHrdxnjNqWn8b6TgmnrtoI5ai33tBQTVi1lSas+fz/9V5DH+aRDhQgp5KP1a8BXQlJ9tRErzQBXKG1f2Y6r+6lCMW+uLsfFYDe1hRxo1286kUf2UJjw51H0S3FVQO5uadiGRPU+oEus3/SlXUKg8DkQUyRgI2fH0pbdXh6zSN3f9VGbP0Wx8M1aoLuvkUGgd5roSxGmAUS8RuoJO4kOS9ShtKySqN2my12KGiS6brrjtN9sFBka+KFoLQ1TJ4yksDh7C5qYd0wWPnmCZWnjLd1JFPCL2gR9hUkeJZSrKOrOY8L/dvFRVHaU580L8Rwc7++dfhcNzetUdwhjawnxAaRZoVT2CS+4YXzz/nkVFJgUvAFDwl8KUu2mDQdAyHmeXeQtZ0iDwnRNztEkUiKyfSTdPCopnRRIQcrYh+MctvRunfrpLdy4sAs46COUU7AmG4A/bMztrgu3k23eqLk7uCzQNNVRvB/dn7p5fr8j74EJkXlEPLNYtZuIbm8yIhnJSh+HWnycKvYInrkg==;oojzNsoNmk7wzE+QoiXkgg=="
 ---
