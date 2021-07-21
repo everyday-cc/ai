@@ -38,6 +38,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Getting Industrial About The Hybrid Computing And AI Revolution"
+    excerpt: "For oil and gas companies looking at drilling wells in a new field, the issue becomes one of return vs. cost. The goal is simple enough: install the"
+    publishedDateTime: 2021-07-21T17:40:00Z
+    webUrl: "https://www.nextplatform.com/2021/07/21/getting-industrial-about-the-hybrid-computing-and-ai-revolution/"
+    ampWebUrl: "https://www.nextplatform.com/2021/07/21/getting-industrial-about-the-hybrid-computing-and-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/21/getting-industrial-about-the-hybrid-computing-and-ai-revolution/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/oil-and-gas.jpg"
+        width: 1030
+        height: 579
+        isCached: true
   - title: "Busting the myth AI will totally replace QC jobs in the manufacturing industry"
     excerpt: "Constantly evolving Industrial automation and IoT, availability of big data, and access to improved computing power are some key factors that are driving the Artificial Intelligence (AI) in manufacturing market."
     publishedDateTime: 2021-07-19T05:28:00Z

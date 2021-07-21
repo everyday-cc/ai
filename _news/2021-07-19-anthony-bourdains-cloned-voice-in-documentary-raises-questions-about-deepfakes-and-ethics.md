@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/entertainment/article/3141659/anthony
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/entertainment/article/3141659/anthony-bourdains-cloned-voice-documentary-raises-questions"
 type: article
 quality: 94
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -94,38 +94,6 @@ related:
       - url: "https://media.newyorker.com/photos/60f1f5cf4b7e6806bf23a66b/master/pass/Rosner-BourdainDocAI.jpg"
         width: 2560
         height: 1759
-        isCached: true
-  - title: "Anthony Bourdain documentary recreates chef’s voice with artificial intelligence"
-    excerpt: "There’s debate over whether the use of artificial intelligence in a film about the late celebrity chef Anthony Bourdain is ethical. The film makes it appear that Bourdain spoke something that he did not."
-    publishedDateTime: 2021-07-16T23:26:00Z
-    webUrl: "https://www.cbsnews.com/video/anthony-bourdain-documentary-recreates-chefs-voice-with-artificial-intelligence/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/anthony-bourdain-documentary-recreates-chefs-voice-with-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/anthony-bourdain-documentary-recreates-chefs-voice-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 67
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/16/82500be3-44ae-48aa-81d3-80d61ec320b8/thumbnail/1200x630/2f94e1160f9d986708aee70092ba7485/axelrod-755577-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Commentary: ‘Roadrunner’ uses AI to create an Anthony Bourdain soundalike. Here’s why that’s ethically squishy"
-    excerpt: "You should see “Roadrunner,” with this small but hugely controversial caveat: The voice you sometimes hear? He’s a deepfake."
-    publishedDateTime: 2021-07-17T00:10:00Z
-    webUrl: "https://www.chicagotribune.com/entertainment/movies/michael-phillips/ct-mov-anthony-bourdain-documentary-fakery-20210717-r22q73p26naexdni6sohgr6f4u-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/entertainment/movies/michael-phillips/ct-mov-anthony-bourdain-documentary-fakery-20210717-r22q73p26naexdni6sohgr6f4u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/movies/michael-phillips/ct-mov-anthony-bourdain-documentary-fakery-20210717-r22q73p26naexdni6sohgr6f4u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 54
-    images:
-      - url: "https://www.chicagotribune.com/resizer/sBji7Mo3IGuTwSqkljEU9i5CdqY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BDECJG47LT2QYTA45BURPDYEKU.jpg"
-        width: 1200
-        height: 856
         isCached: true
   - title: "Creepy or not? AI recreates Anthony Bourdain's voice in new documentary, raises questions"
     excerpt: "The new documentary about Anthony Bourdain’s life, 'Roadrunner', is one hour and 58 minutes long — much of which is filled with footage of the star throughout the decades of his career as a celebrity chef,"

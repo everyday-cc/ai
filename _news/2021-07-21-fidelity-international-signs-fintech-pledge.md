@@ -98,6 +98,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
+  - title: "Infobird's Successful Launch of Intelligent SaaS for a Leading Fintech ..."
+    excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (\"Infobird\" or the \"Company\"),"
+    publishedDateTime: 2021-07-20T12:31:00Z
+    webUrl: "https://www.pr-inside.com/infobird-s-successful-launch-of-intelligent-saas-for-a-leading-fintech-r4839640.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 22
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Razorpay Acquires Lending Startup, TERA Finlabs; Strengthens Its B2B Credit Infrastructure"
     excerpt: "The country’s leading full stack financial solutions company, Razorpay, today announced its acquisition of TERA Finlabs, an AI-based risk tech SaaS Platform, for an undisclosed amount. TERA Finlabs is a Bengaluru-based startup that provides technology,"
     publishedDateTime: 2021-07-19T09:43:00Z
@@ -136,6 +150,6 @@ related:
         height: 450
         isCached: true
 
-secured: "CqMOrGYLQ+sFA+Ag6dkLtU0zZ2hG68HzmNNLzVRAFYmyWqbzlGKMdJjjkIS9Kbn6UdUnOmgNo1zGLGQof7cfqM3Kd6tJ/exWX0y0DH41w00B8cOUGE118M9YDvldggmeNtd7bMzPOm+rkSEeYmiHcI3shtMzDMYApoTzUVL/6GdoiB79Nsmfz8exY9wZOR+rFgSWP376c2EFw/JTlqLcB+7MDxgLf37cmA1y3bljoKHgUUuwYAMcZbW+8KxeZ0NGth6057HssdOTusrWnfD40zs4334PbFwvrELfplwAbfqw50dEJ7RFLyBw6Gg9cqfctDgJRHqyzALTnVmZcAF3RzNbcW54ebAiPN6s24M5RIQ=;Xau7M3Cu+vyOpmI2nIqUxQ=="
+secured: "nqGPO6dgYAePL2QC7XVnKUnI1OzgySjAoOqS3AGZUzz5wAyrtl+9WaxSMnpKkl+OJ/nuE8BuQ09X+dFVFlQWsfYMtbiUzj87RBnRMtVMJ/FCoMzE0PxuMzsJknUgQCrBJOn3k/TSLg0tUyzc+aKWSLQrwZqXeFFq0qsBvnzIlcFsWkpKh6R8romIi0b62S7hiRYP1sheQ03QIOB8k62wXwS0NSDmJRZr7E04RkWPFVAOIlLmQHx3x8aioqQuRjDfpfK34mQOebS860NbhofRUFpkQhlZUz/AlCYv9tEwnsIARzQV1EXbXJU2J4T5tv+3mXSaO6hB12QFPEUYRtAMVupZMH7SX6NITX95vnEG/1z4Ll032ig+gk793wzR0IJDDmtuQ60Pw+wLD5V+DjPnHuZUMWGuoE+3I1NAuRCROJgi9v/H5+zu/HAP9ujJwErFauwSFhSu3lacdmUOBJWoGqn2iPmCO8LwM33nZUd+ucin8mbNzExovKiZvHyWua80T2o3CPGwdLKjB/s+OcBTwg==;A/3k7xempg+meycbXATPmA=="
 ---
 

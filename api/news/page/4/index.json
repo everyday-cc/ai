@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-19-morning-update-ottawa-tested-facial-recognition-on-millions-of-travellers-at-torontos-pearson-airport-in-2016.md",
+      "title": "Morning Update: Ottawa tested facial recognition on millions of travellers at Toronto’s Pearson airport in 2016",
+      "excerpt": "In an effort to identify potential deportees, the federal government quietly tested facial recognition technology on millions of unsuspecting travellers at Toronto’s Pearson International Airport in 2016.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/canada/article-morning-update-ottawa-tested-facial-recognition-on-millions-of/",
+      "originalUrl": "https://www.theglobeandmail.com/canada/article-morning-update-ottawa-tested-facial-recognition-on-millions-of/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/LZ7TRcy1in4ZHfFkw117-s19Z_8=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/HOBCCSJKORACNPXULGLJYLHFCY.JPG",
+          "width": 760,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theglobeandmail.com/amp/canada/article-morning-update-ottawa-tested-facial-recognition-on-millions-of/",
+      "cdnAmpWebUrl": "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-morning-update-ottawa-tested-facial-recognition-on-millions-of/",
+      "publishedDateTime": "2021-07-19T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-research-breakthrough-artificial-intelligence-ai-can-now-use-its-imagination.md",
+      "title": "Research Breakthrough: Artificial Intelligence (AI) Can Now Use Its Imagination",
+      "excerpt": "Researchers at the University of Southern California (USC)  are helping the use of Artificial Intelligence (AI) imagine what has not",
+      "sourceUrl": null,
+      "webUrl": "https://techbooky.com/ai-that-can-imagine/",
+      "originalUrl": "https://techbooky.com/ai-that-can-imagine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbooky.com/wp-content/uploads/2021/07/444090C5-86E3-4A93-9928-5383E9896D53.jpeg",
+          "width": 1028,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbooky.com/ai-that-can-imagine/?amp=1",
+      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/ai-that-can-imagine/?amp=1",
+      "publishedDateTime": "2021-07-19T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-as-ai-becomes-more-ever-capable-will-it-end-up-helping-or-hindering-the-hackers.md",
       "title": "As AI Becomes More Ever Capable, Will It End Up Helping, Or Hindering, The Hackers?",
       "excerpt": "Unfortunately, there are innumerable bugs in today’s software systems, many of which are ‘zero-day exploits’ i.e. bugs that can be used by hackers but are not yet known by the software’s users or vendors,",
@@ -61,7 +147,7 @@
       "originalUrl": "https://www.tribuneindia.com/news/jobs&careers/pg-diploma-in-robotics-process-automation-285397",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -259,7 +345,7 @@
       "originalUrl": "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1118,93 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-heres-what-you-need-to-know-about-singapores-food-delivery-robots.md",
-      "title": "Here's what you need to know about Singapore's food delivery robots",
-      "excerpt": "Singaporeans flocked to food delivery after it was announced that dining-in was prohibited during Circuit Breaker. Today, despite being allowed to dine-in at restaurants in larger groups, the habit of ordering food online and having it delivered",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots",
-      "originalUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/20210716_robot_unsplash.jpg?itok=EtsShVVZ",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots?amp",
-      "publishedDateTime": "2021-07-17T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-robot-training-on-famous-highland-estate-will-make-driverless-vehicles-more-reliable.md",
-      "title": "Robot ‘training’ on famous Highland estate will make driverless vehicles more reliable",
-      "excerpt": "The project will help make driverless vehicles of the future more reliable ... engineers and students dedicated to researching robotics, artificial intelligence, systems engineering, and other related fields. A crash scene for the new James Bond movie ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
-      "originalUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressandjournal.co.uk/wp-content/uploads/sites/2/2021/07/ORI_Scotland-3.jpg_39621277-scaled-e1625854534304.jpg",
-          "width": 2457,
-          "height": 1472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
-      "cdnAmpWebUrl": "https://www-pressandjournal-co-uk.cdn.ampproject.org/c/s/www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
-      "publishedDateTime": "2021-07-16T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Press and Journal",
-        "domain": "pressandjournal.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "AI in Robotics"
       ]

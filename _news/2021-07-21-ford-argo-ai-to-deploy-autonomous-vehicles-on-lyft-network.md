@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
-excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network."
-publishedDateTime: 2021-07-21T15:22:00Z
-originalUrl: "https://www.local10.com/business/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
-webUrl: "https://www.local10.com/business/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
+excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network"
+publishedDateTime: 2021-07-21T11:23:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
+webUrl: "https://abcnews.go.com/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WPLG
-  domain: local10.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.local10.com/resizer/IPHNjugwIrxm-KiPm5p07d5I7Gs=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/I7LH74P6ZZGHXLXOTR7ZLT2YV4.jpg"
-    width: 800
-    height: 533
+  - url: "https://s.abcnews.com/images/Technology/WireAP_6eb09e4468b14e6e82e13ffd996d2042_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -100,6 +102,17 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Argo AI, Ford and Lyft to Launch Self-Driving Ride-Hail Service in Miami and Austin"
+    excerpt: "Self-driving startup Argo AI, carmaker Ford Motor Co and ride-hail company Lyft Inc on Wednesday said they partnered to offer robotaxi trips to Lyft customers in Miami and Austin. The service is expected to launch in Miami later this year and in Austin next year with a safety driver inside the Ford Escape hybrid vehicles."
+    publishedDateTime: 2021-07-21T11:03:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-07-21/argo-ai-ford-and-lyft-to-launch-self-driving-ride-hail-service-in-miami-and-austin"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-07-21/argo-ai-ford-and-lyft-to-launch-self-driving-ride-hail-service-in-miami-and-austin?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-07-21/argo-ai-ford-and-lyft-to-launch-self-driving-ride-hail-service-in-miami-and-austin?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 63
   - title: "Self-driving Ford cars will be available to Lyft customers in Miami later this year"
     excerpt: "Partners Lyft and Ford are laying the groundwork for their driverless ride-hailing plans. Today, the companies announced that Ford's Argo AI -powered cars will be available on Lyft's network later this year in Miami,"
     publishedDateTime: 2021-07-21T13:44:00Z
@@ -202,6 +215,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "so5+9Cn0sydPfy5eeUWqlNe/dfPp2FwOMHIPjFv4HTmiXz5+aJaaiPRS43BS3jmWr8ImaWelZIUbeKCygGVySNMiiixpINZAeB/k6vBMb6Z87jRWtlXiAcgugehZ+khd6QjyvKObViJVpaViCWdwtO4csjHd45kguT0WdfAgfVIuXQpMIkrjR5xCXWAaDQ1R06fA7uyf4l/LmSidxoyMj1MOE8h3c5QhhfBPP3IZeauN2Qq+TPfCk/vB/SNNtyHAIeLKToH4DMo/ZXlDTuhoXa1HKC1UpjsCYj3tyqCK7nT8+ADHEdvyUrxVyjgX0+Jvc1AozqZ6hxvz64vadWtZJ0HASUSRWjnS7/6CFlIg8CE=;Lxf376OVsuHgSvbVLhfV+w=="
+secured: "i0nmk9KXli7339O2prYdAJt3P+utg3a0XwxECgurzNvBqIQeJBDkdV9/YbDRP4V9jMRE+UXsGAzHaPoqDH70O4LA7b2Ec6IV122v9ymihCRbI+2fw3xer/xVg565YxGpBRv6RUCUa2Visra8V/ix947ylf8nKKr64wWoJP1Mw0f6mmksZJiKDofLl8HCuVXbTA8S6y8J4pt2WK0ch7nmtLRvFZPqLGp+6PuqbcMGewlDa5EA68n/evcGnTqH65HlqL8YciBgN1ygL5dGHzSs3MrKBikpN+YTPw/Pztz+5Sov6slxxthuJk53R9oZRI5EGKVh2aA4j/PKwiHPNUPyyvwntLmFNbSRLWFnpHngUPQ=;zr9YQhvdT0R5/DVx+7izaw=="
 ---
 

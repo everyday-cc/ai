@@ -33,7 +33,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/ICML-2021-Paper-Awards-.jpg"
         width: 2240

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tribuneindia.com/news/jobs&careers/pg-diploma-in-robotic
 cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/pg-diploma-in-robotics-process-automation-285397"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1094561/Grooper_Logo.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Introducing echo - An Artificial Intelligence and Robotic Process Automation Platform"
+    excerpt: "Access Healthcare's proprietary robotic process automation (RPA) platform, echo, is a purpose-built suite of automation solutions that can automate processes across the revenue cycle continuum. By leveraging machine learning and artificial intelligence capabilities,"
+    publishedDateTime: 2021-07-21T16:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-echo-an-artificial-intelligence-and-robotic-process-automation-platform-1030631536"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://mma.prnewswire.com/media/1577163/Access_Healthcare_introduces_echo.jpg"
+        width: 400
+        height: 209
         isCached: true
   - title: "MIT Centre for Future Skills Excellence introduces PG Diploma in Robotics Process Automation for Career aspirants"
     excerpt: "MIT Centre for Future Skills Excellence, MIT Art, Design & Technology University Pune has introduced a new post-graduate diploma in Robotics Process Automation from August 2021 academic session. On the occasion of World Youth Skills Day,"

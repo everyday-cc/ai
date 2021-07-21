@@ -2,6 +2,92 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-07-12-sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search.md",
+      "title": "Sinequa Named a Leader in 2021 Analyst Report for Cognitive Search",
+      "excerpt": "Forrester identified the 13 most significant cognitive search providers Amazon Web Services, Coveo, Elastic, Google, Grazitti Interactive, IBM, IntraFind, Lucidworks, Micro Focus, Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-07/53386633-sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-07/53386633-sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-artificial-intelligence-is-improving-energy-companies-not-replacing-workers.md",
+      "title": "Artificial Intelligence Is Improving Energy Companies — Not Replacing Workers",
+      "excerpt": "A power plant that will run on “artificial intelligence” is about to get underway in West Africa. The joint venture between Swiss-based Xcell Security House and Finance and U.S.-based Beyond Limits will embed intelligence and awareness into the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/",
+      "originalUrl": "https://www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e77cd540da575f48ca0980%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/amp/",
+      "publishedDateTime": "2021-07-12T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-voice-biometrics-the-new-defense-against-deepfakes.md",
       "title": "Voice biometrics: the new defense against deepfakes",
       "excerpt": "With a UCL study ranking deepfakes as one of the biggest threats we face today, it’s time to strengthen our defenses – and put fraudsters on the defensive. Touted as the 2020s’ answer to Photoshopping,",
@@ -1074,110 +1160,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-why-some-chip-companies-are-voicing-concern-and-others-support-for-nvidias-acquisition-of-arm.md",
-      "title": "Why Some Chip Companies Are Voicing Concern and Others Support for NVIDIA's Acquisition of ARM",
-      "excerpt": "NVIDIA acquiring ARM would shift the balance of power in the chip industry in a big way, and not just in favor of NVIDIA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/07/10/why-chip-cos-support-or-oppose-nvidia-arm-buyout/",
-      "originalUrl": "https://www.fool.com/investing/2021/07/10/why-chip-cos-support-or-oppose-nvidia-arm-buyout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F633016%2Finvesting-trading-broker-computer.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/10/why-chip-cos-support-or-oppose-nvidia-arm-buyout/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/10/why-chip-cos-support-or-oppose-nvidia-arm-buyout/",
-      "publishedDateTime": "2021-07-10T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-exynos-flagship-chipsets-a-history-of-samsungs-homegrown-silicon.md",
-      "title": "Exynos flagship chipsets: A history of Samsung's homegrown silicon",
-      "excerpt": "Samsung has used Exynos flagship chips for a long, long time, so we thought it would be a good idea to chart its history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/samsung-exynos-flagship-chipset-history-1233699",
-      "originalUrl": "https://www.androidauthority.com/samsung-exynos-flagship-chipset-history-1233699",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/12/Samsung-Exynos-branding.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/samsung-exynos-flagship-chipset-history-1233699/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/samsung-exynos-flagship-chipset-history-1233699/",
-      "publishedDateTime": "2021-07-10T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

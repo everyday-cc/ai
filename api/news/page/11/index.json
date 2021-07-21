@@ -2,6 +2,93 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-07-13-university-of-oxford-and-esme-learning-champion-the-future-of-fintech-with-the-oxford-digital-finance-executive-education-series.md",
+      "title": "University of Oxford and Esme Learning Champion the Future of Fintech with the Oxford Digital Finance Executive Education Series",
+      "excerpt": "University of Oxford and Esme Learning introduce five online executive education short programmes to prepare professionals for the future of finance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series",
+      "originalUrl": "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud.md",
+      "title": "Visa on using advanced AI such as unsupervised learning to fight fraud",
+      "excerpt": "Visa's Melissa McSherry discusses how Visa uses unsupervised machine learning and other types of AI to fight payment fraud at Transform 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/",
+      "originalUrl": "https://venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/02/Visa-e1626186642948.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/amp/",
+      "publishedDateTime": "2021-07-13T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-humanoid-robot-keeps-getting-fired-from-his-jobs.md",
       "title": "Humanoid Robot Keeps Getting Fired From His Jobs",
       "excerpt": "Pepper was fired. The company ended its lease of the robot and ... botched its job at a nursing home and gave baseball fans a creepy feeling, some people are saying the humanoid itself will ...",
@@ -143,8 +230,8 @@
       "title": "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027",
       "excerpt": "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,",
       "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/mediareleases/144447/global-speech-recognition-market-2021-industry/",
-      "originalUrl": "https://www.reseller.co.nz/mediareleases/144447/global-speech-recognition-market-2021-industry/",
+      "webUrl": "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/",
+      "originalUrl": "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -157,8 +244,8 @@
       "publishedDateTime": "2021-07-13T07:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
+        "name": "ARN",
+        "domain": "arnnet.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1053,110 +1140,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-cognitive-services-market-2021-worldwide-market-size-with-top-countries-data-segmentation-analysis-value-chain-and-key-trends-by-2025.md",
-      "title": "Cognitive Services Market 2021 : Worldwide Market Size with Top Countries Data, Segmentation Analysis, Value Chain and Key Trends by 2025",
-      "excerpt": "Jul 13, 2021 (The Expresswire) -- With a CAGR of 23.1% in the forecast period of 2021 to 2025, Cognitive Services Market Size will expected to reach USD 5521.8 million by 2025, from USD 2403.4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2021-worldwide-market-size-with-top-countries-data-segmentation-analysis-value-chain-and-key-trends-by-2025-2021-07-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2021-worldwide-market-size-with-top-countries-data-segmentation-analysis-value-chain-and-key-trends-by-2025-2021-07-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-global-underwater-computer-vision-market-2021-scope-of-current-and-future-industry-swot-analysis-and-investment-feasibility-2026.md",
-      "title": "Global Underwater Computer Vision Market 2021 Scope of Current and Future Industry, SWOT Analysis and Investment Feasibility 2026",
-      "excerpt": "According to MarketsandResearch.biz, the latest report titled Global Underwater Computer Vision Market 2021 by Company, Regions, Type and Application, Forecast to 2026 helps the firms in getting a comprehensive analysis of the industry which comprises an assessment of the parental market and gives forecast information on the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-underwater-computer-vision-market-2021-scope-of-current-and-future-industry-swot-analysis-and-investment-feasibility-2026-2021-07-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-underwater-computer-vision-market-2021-scope-of-current-and-future-industry-swot-analysis-and-investment-feasibility-2026-2021-07-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

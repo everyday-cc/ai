@@ -39,15 +39,20 @@ related:
         width: 884
         height: 543
         isCached: true
-  - title: "RAIsonance, Inc. Joins Microsoft for Startups Program"
-    excerpt: "With support from the Microsoft for Startups program, SoundPass will be able to roll out the SoundPass Access technology rapidly to businesses, educational campuses, entertainment venues, houses of worship or any facility seeking to enable smarter in-person interactions."
-    publishedDateTime: 2021-07-21T14:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-raisonance-inc-joins-microsoft-startups-program-/2021/07/21/9414159.htm"
+  - title: "KnowledgeLake provides support for Microsoft Azure Government"
+    excerpt: "Public sector organizations can leverage the KnowledgeLake platform to manage content and data residing within the Microsoft Azure Government-dedicated cloud environment"
+    publishedDateTime: 2021-07-21T16:55:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/KnowledgeLake-provides-support-for-Microsoft-Azure-Government-148082.aspx"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 54
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
+        width: 772
+        height: 594
+        isCached: true
   - title: "Partnering with the NIH to advance biomedical research"
     excerpt: "Today, we are thrilled to announce a new partnership between Microsoft and the National Institutes of Health (NIH) to accelerate biomedical research in a post-pandemic world. As an approved cloud platform for the NIH's Science and Technology Research Infrastructure for Discovery,"
     publishedDateTime: 2021-07-20T15:58:00Z

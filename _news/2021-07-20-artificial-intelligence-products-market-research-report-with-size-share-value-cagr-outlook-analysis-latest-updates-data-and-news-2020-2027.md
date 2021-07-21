@@ -133,15 +133,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 4
-  - title: "Global Data Science and Machine-Learning Platforms Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Data Science and Machine-Learning Platforms Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Data Science and"
-    publishedDateTime: 2021-07-17T00:39:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4673908-global-data-science-and-machine-learning-platforms-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
 secured: "cVHFG+Q2kyW03xkZ+ffl5pdEEkmfj9WVFt2JLSAZ/RWpl6edey3lBZKCrjnRBfnxU+04yVA+vOyXnfmkvYGhPfG/1xMsmcSiP+0Kp7iXhuUpVEAuXB/zYyj9NvKAVjZApvsZ+bepy5xpAmQNzf9MoeqgCWk99x1xZrhVsO6pJ2X+oXof7dxCq3V70kxQN788+kej+DnAts2gPP0Y+qUM1Seh8b2eNokqd7GKm9jdFufYgYqPphXU7lizpAQ9g0viJru20hOQPlsKVayhIoaPhtwagkYEhBDvN2DEY8u+znPyKJKITVJyinn2Y+uztVyheS+HQPIbKo2MiXws3EuQX+0xim6vtm1A499rSQGKwt0=;dBSFTHv9I4EVjSqHzXCMqQ=="
 ---

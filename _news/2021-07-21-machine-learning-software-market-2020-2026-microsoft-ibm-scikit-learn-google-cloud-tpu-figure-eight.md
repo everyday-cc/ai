@@ -52,6 +52,20 @@ related:
         width: 4432
         height: 2955
         isCached: true
+  - title: "Microsoft Buys Privileged Access Startup CloudKnox Security"
+    excerpt: "Microsoft has purchased CloudKnox Security to give organizations visibility into privileged access, right-size permissions and consistently enforce least-privilege principles with the aim of reducing risk."
+    publishedDateTime: 2021-07-21T17:01:00Z
+    webUrl: "https://www.crn.com/news/security/microsoft-buys-privileged-access-startup-cloudknox-security"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 56
+    images:
+      - url: "https://www.crn.com/resources/026b-12cf5263678e-f93691a052ad-1000/microsoft_sign.jpg"
+        width: 1500
+        height: 1124
+        isCached: true
   - title: "NIH taps Microsoft for biomedical research initiative"
     excerpt: "NIH tapped Microsoft Azure as the cloud platform for its Science and Technology Research Infrastructure for Discovery, Experimentation and Sustainability Initiative, which provides cloud technology and services for biomedical research."
     publishedDateTime: 2021-07-20T21:40:00Z

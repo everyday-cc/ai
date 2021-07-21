@@ -2,61 +2,74 @@
 category: news
 title: "RAIsonance, Inc. Joins Microsoft for Startups Program"
 excerpt: "With support from the Microsoft for Startups program, SoundPass will be able to roll out the SoundPass Access technology rapidly to businesses, educational campuses, entertainment venues, houses of worship or any facility seeking to enable smarter in-person interactions."
-publishedDateTime: 2021-07-21T14:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-raisonance-inc-joins-microsoft-startups-program-/2021/07/21/9414159.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-raisonance-inc-joins-microsoft-startups-program-/2021/07/21/9414159.htm"
+publishedDateTime: 2021-07-21T14:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/raisonance-inc-joins-microsoft-for-startups-program-1030630919"
+webUrl: "https://markets.businessinsider.com/news/stocks/raisonance-inc-joins-microsoft-for-startups-program-1030630919"
 type: article
-quality: 34
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 related:
-  - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
-    excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
-    publishedDateTime: 2021-07-21T12:34:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical"
+  - title: "Pitch deck reveals how an AI startup that helps brands like Google and Microsoft plan their marketing raised $15 million"
+    excerpt: "BlueOcean was founded by ad agency vets to automate and simplify market research."
+    publishedDateTime: 2021-07-21T16:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7"
     type: article
     provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 60
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
     images:
-      - url: "https://qtxasset.com/fiercebiotech/1626810252/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?3BYwK50kU2Wfn3vdn6f2lV_WiZXgn7hW"
-        width: 884
-        height: 543
+      - url: "https://i.insider.com/60f73547aa1f1f0012f687ce?width=700"
+        width: 700
+        height: 525
         isCached: true
-  - title: "KnowledgeLake Now Supports Microsoft Azure Government"
-    excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
-    publishedDateTime: 2021-07-21T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
+  - title: "Israel AI-Based Learning Startup MagniLearn chosen by Microsoft to impact Education"
+    excerpt: "After concluding deals with public and private school networks in Israel, Korea and Japan, EdTech startup MagniLearn formed by AI researchers from Hebrew University in Jerusalem, has been selected by Microsoft Israel in its AI for Good Acceleration Program,"
+    publishedDateTime: 2021-07-19T12:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/israel-ai-based-learning-startup-magnilearn-chosen-by-microsoft-to-impact-education-1030619985"
     type: article
     provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+  - title: "ASD.ai Selected for Microsoft for Startups Global Program Designed to Help Startups Quickly Scale"
+    excerpt: "ASD.ai today announced its induction into Microsoft for Startups, a global program dedicated to accelerating the trajectory of high-potential startups. ASD.ai is a leading technology firm behind the Application Rootines,"
+    publishedDateTime: 2021-07-20T12:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/asd-ai-selected-for-microsoft-for-startups-global-program-designed-to-help-startups-quickly-scale-1030625058"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png"
-        width: 480
-        height: 610
+      - url: "https://mma.prnewswire.com/media/1576947/Microsoft_for_Startups_Program.jpg"
+        width: 400
+        height: 209
         isCached: true
-  - title: "Partnering with the NIH to advance biomedical research"
-    excerpt: "Today, we are thrilled to announce a new partnership between Microsoft and the National Institutes of Health (NIH) to accelerate biomedical research in a post-pandemic world. As an approved cloud platform for the NIH's Science and Technology Research Infrastructure for Discovery,"
-    publishedDateTime: 2021-07-20T15:58:00Z
-    webUrl: "https://www.publicnow.com/view/E9C3F5DF4EFD11C4BC1F08842773735EEC5CBB51"
+  - title: "Israel AI-Based Learning Startup MagniLearn chosen by Microsoft to impact Education"
+    excerpt: "After concluding deals with public and private school networks in Israel, Korea and Japan, EdTech startup MagniLearn formed by AI"
+    publishedDateTime: 2021-07-19T17:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/israel-ai-based-learning-startup-magnilearn-chosen-by-microsoft-to-impact-education-301336289.html"
     type: article
     provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 4
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 45
 
-secured: "NHQl9lYZdVt7Wd5b++2r4OSniMxpV5GN+8W60tKpyiwOo0k/PVpwZPjXJALUxFdNvdZ5wt+3s4k04ZMW0GzMgeB7YsqHIGMifVqsV0KY/eSXc3/RBvF1VZNOH70Y/TzxEWskLE+Iyy+jg2QbO84Z8HPZbVfav3KQG12rFnO6iftNm1/5FnM4AHqhFodFl6EcxDeZA4g5MvcXZDIEQMyTbHhHWfuuWVsq9n+xW/JVs4AjlZD2NtIBzyZt1EJO6sSIA2OVLV2JhWy9OA1OzZ9NVD1dw/nP6PsL3apRej8M/Kji2ncl6GBKjI0EsVGE5JIzX91GNr4nE2mkRbb5Qdau15Q/EXihvXFkYqOPWo0s5CE=;q67d8WO5HWNAnZJMQ92iDw=="
+secured: "FQb34Gexs3hHBLP+87c27+8J7b/kW+UcHaUSqNlmdKUoFdFXTigdre//1QGUIUKlugRzGRdUReKffAtIhhcYpPJjM7FSsEGmzFky3j4H0cnRC0X7IFf4U516fzx1bd/wH5lUX1BwXk05N2bcoMXo7uXTXeUAso2hmoB2fV6xtSYU0RtOt+AEMI0sSsUAX3MHgCIYT6lxve6nO+YI7Dm9mqlSx7SaIWC58StuvJ1Hj4y2IAL8jT7JmQnZA3vXEHT19GzZDkAfM2Y+koglVPg13doNm/GjUCtzgjH8UQz1IqO9yREgEMLp0LGRUiyBeYawdEgCQyT1He5qkFghQ8KB1xS/Vdj2eLjsNV/LD+vU5/4=;Lkw7WJIsgGdcNnarllzxzA=="
 ---
 

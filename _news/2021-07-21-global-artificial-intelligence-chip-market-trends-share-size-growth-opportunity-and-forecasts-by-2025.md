@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-trends-share-size-growth-opportunity-and-forecasts-by-2025-2021-07-20"
 type: article
 quality: 69
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -135,15 +135,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 4
-  - title: "Global Data Science and Machine-Learning Platforms Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Data Science and Machine-Learning Platforms Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Data Science and"
-    publishedDateTime: 2021-07-17T00:39:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4673908-global-data-science-and-machine-learning-platforms-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
 secured: "QTH8c2QpVAtZSUUn2vvya1S+ec3Gj814NcE3HJmyBuoSYfVGgTnU2Z/KIy2FjqtxVAs2VFDYaMUASr4C4bKLxB7bSx+Ui7u62Gz2OFDOJqEZ2wlRqPCzFnAFlKpfU4/nUokREhzw0LhwnMRuDH+3nxadt/jALQ4B0+hcqlHfqMiuwpk87Z8xbvLOx5kKr8CcyejP2VzqCKl0wc7qsjwRltEunOS/z+rVM08U6ti0hMnfIk5y+123yRZGvpvmnKTdj7U3kYHejLsBoddwOVYknBPcZAV3LpuuqOCl/Xv5hn+0T24PrzV12SX9Vac9NuFwwC8cH5Ph4uB3zeADae8O6XoGzGo6pKM0JIZ909OsTMU=;mujZKgaAvZDvkH8pFcSZIg=="
 ---

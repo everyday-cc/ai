@@ -2,17 +2,21 @@
 category: news
 title: "Machine learning models to help photovoltaic systems find their place in the sun"
 excerpt: "Scientists develop algorithms that predict the output of solar cells, easing their integration into existing power grids."
-publishedDateTime: 2021-07-21T13:53:00Z
-originalUrl: "https://www.nanowerk.com/news2/green/newsid=58479.php"
-webUrl: "https://www.nanowerk.com/news2/green/newsid=58479.php"
+publishedDateTime: 2021-07-20T20:07:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/07/210720122340.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/07/210720122340.htm"
 type: article
-quality: 29
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Nanowerk
-  domain: nanowerk.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
@@ -50,6 +54,6 @@ related:
         height: 875
         isCached: true
 
-secured: "Mr6QwuoPRb+JOV0KjgcdtXumBE9kCKZazi3ga2QI/Yn7gBrf4QwS+wbOivJKgriQaiUbzLFaL+5egwQo3oK9wLYs2dNOxEASzQBhS0AgwrGb3f44UD9InLUSlEA+4fvtcHjguAAaVzzbHETKG6PskXafjS3znbHOjzSQFR5SnulP1ukPvjISpc1rorj5bcQBHeLnOZQN0PfEqfyTqVv7QJKCtQSlDTpSgxyzseLTvyWQiL+iWrt+uFO0mmGN+TWwEXQI+Kgynz/plt2adcIES76ANXdIkI7uXdRX1JL/zuv9h9UdZiA13SAAuhJdIdYL2lm95+qux6qK/K5W8RtKRlcPeIHoJrVgk9VaiqAuk9KGb/PuzEw1tLgkTp4oEdH+8QuGy5lgKv4fZPGm3MwMqZVs9f7sGUJ0kMxWCFS5FxbapYvifaNaxLHNkt/3PGwf02CyTKyd82abUppVq6eZwjUWMpXGZRhBvaduHX2oA4zzb7Ktfa8Q0d8RwQ914VgCNK4j+JD1Hv38xw63IGJiHA==;FsPvsrrFGArP6Eo3w2m8vw=="
+secured: "bExSjLhYVPciHm4jP+RwIPzQ1/eAwwwarDEgJqSkfIuH5uPOnhRyugddxdsQJpiB5P5U1J/jbet7ux0CGY0OkrP4X9tT02GOewDdKjpNpZfdqK7Oj7fCGhCa4G3OJSUD3Q7YIipi0MT+hG57GcQsvhfm3GIzO87oQeRVoXQzJ0UkBajxGkUd1v2EmSnup9PGizRigvQaVmiE2ACWxss/b+IUIxErV/DWvUM9BLJSl0JXMzoScRJ7UEpiCaUX4B3aZ2fRNyweSi/TxhCGVpobdw5z5FB5QmK4fwqvbFyruq3uSOwC1l+kTWRRMYyqDt7CRhiZOeFBb0E7FLOLs4FVy1/zXySwM3vpJmup0J+VwIk=;oXlNx91WSwUs313uaVY2zg=="
 ---
 

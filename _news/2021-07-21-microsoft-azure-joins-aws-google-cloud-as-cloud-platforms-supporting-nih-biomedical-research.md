@@ -40,15 +40,20 @@ related:
         width: 480
         height: 610
         isCached: true
-  - title: "RAIsonance, Inc. Joins Microsoft for Startups Program"
-    excerpt: "With support from the Microsoft for Startups program, SoundPass will be able to roll out the SoundPass Access technology rapidly to businesses, educational campuses, entertainment venues, houses of worship or any facility seeking to enable smarter in-person interactions."
-    publishedDateTime: 2021-07-21T14:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-raisonance-inc-joins-microsoft-startups-program-/2021/07/21/9414159.htm"
+  - title: "KnowledgeLake provides support for Microsoft Azure Government"
+    excerpt: "Public sector organizations can leverage the KnowledgeLake platform to manage content and data residing within the Microsoft Azure Government-dedicated cloud environment"
+    publishedDateTime: 2021-07-21T16:55:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/KnowledgeLake-provides-support-for-Microsoft-Azure-Government-148082.aspx"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 54
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
+        width: 772
+        height: 594
+        isCached: true
   - title: "Partnering with the NIH to advance biomedical research"
     excerpt: "Today, we are thrilled to announce a new partnership between Microsoft and the National Institutes of Health (NIH) to accelerate biomedical research in a post-pandemic world. As an approved cloud platform for the NIH's Science and Technology Research Infrastructure for Discovery,"
     publishedDateTime: 2021-07-20T15:58:00Z
@@ -59,6 +64,6 @@ related:
       domain: publicnow.com
     quality: 4
 
-secured: "/K2fkZaOYEHpyyBDYbXPgfEE8J263TTkQqsOqrbqeKBFPMxGmpvEbBSA3hsOfzAwSDLyi7Kr+jUCX7Vgj8ct9dpMoKFSSKoWQMnjdrZgDMt1PCIyhYyTWbE+GQFLitrQszg6Thbbwi0QOp8WSqo3WbqYWtpLlCSefdooAi9OBd7TnDfYH2tHIa/OKE+sL1MJDy54onXx6yUMcQz580s7ZuQauBIPYi6zEIrZcknxpLFaFUiUWlp5HgvM3YqkfNnPsY7ie0xnfA1W9T4uhb3fucvrCHzO/eNKZMBD4JR/M5096hYAcp6xeFGwYPrvIddrmcqnRQ/JsKlh4K4fznmneItmhW+Q0xHF9Vvwvj4kHvw=;hjG30nAYg/wCr+R5vAISlw=="
+secured: "bU8egelOl6BQwSXhYoPimBvt4Np1oRbHC1hk8qvjux42n2AqUXCbe+SrZr4my+tzIvwaeZ+5u+8l18BGO+cZFWhFcu1bjZj9eVDQaZY49y7F6eT7n4Yis5UGIdH1yxYC+JkOTVja/OZKfvcU9KER6w+yoUDP1yGxQxwXu2Z09gAavP1xNEj9ejdrEcl9Hq110oq8e/B7t3MDVd7A6xMRG4tkZTLoHHOTxAGHw8bT9MvA/O6v7DdwNV4HAigQNgS2ut4bNiz71gzgjhPXOXjIGgOsbDEuTE3s/5id1xmfKhP6TzETTDqXJm/Opp7ZKlikwQeOO0okrw8rPoVa58VRVTCz45eC8wXdpAGSF8HrVUv2Z6R0AMMIXQWTxpjzk3cGpk6xvncWIze0XFtQjsQVZStibBJSOXqJH+oS3+DGF/U33L3mE/ppewmq9CKEefdLd7zYOg3vXOy9qZcBS1O+5Q3yknnV8OmMbyaHrgNMSnLgvo8VBjQ2jPLJlEyKptJOS6SE2SDnhnunMwy0RSairw==;FSGtA6fJEo8/NIK55ArcXA=="
 ---
 

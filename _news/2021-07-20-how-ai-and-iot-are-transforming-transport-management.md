@@ -7,7 +7,7 @@ originalUrl: "https://www.stamfordadvocate.com/business/article/How-AI-and-IoT-a
 webUrl: "https://www.stamfordadvocate.com/business/article/How-AI-and-IoT-are-Transforming-Transport-16326085.php"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,36 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "AI is transforming financial services"
+    excerpt: "Never in recent history have we seen the convergence of two super trends on the scale of blockchain and cryptocurrencies, and AI."
+    publishedDateTime: 2021-07-19T11:12:00Z
+    webUrl: "https://ibsintelligence.com/blog/ai-is-transforming-financial-services/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 37
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2021/07/Janet-Adams-square.jpg"
+        width: 1193
+        height: 1194
+        isCached: true
+  - title: "Financial Services Turning Towards Adopting Cloud Technology"
+    excerpt: "Previously, financial services and institutions have been at fault for not adapting to cloud technology. But now many of the retail banks are slowly turning towards the cloud for less risk-averse services."
+    publishedDateTime: 2021-07-18T06:30:00Z
+    webUrl: "https://www.analyticsinsight.net/financial-services-turning-towards-adopting-cloud-technology/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 24
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Financial-Services-turning-towards-adopting-Cloud-Technology.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "WjMDQ0D1BtT7XV3fdAKXx22G2ZR6VSNh8ZfcObxBSAL9SbhN/5JaU9lw5AjzRN3elaEUJ9qx7PnfGzwBtl/LdHtPRWpqhDmR/CwhEpMIVf1jpeCunUxLJU897Msp9xPE1nQXheFqfqfv3GSSTTleZZ5ha5f4yg8yr/Y/dqG5eFyrHnBdk23w+Pt5WaHU0KbNTWQB3kKY8ojim6BFxn5S+lRZeqlgDLdYy0rBtCoky6JBPh3GkXE9lqBTz7nwCoZUbaKD+Wa87X1qxBeavsl7GNg3pNo7CZeR8Ww1ZhurH9FNNEwHBqAzlns1/aKNKyJB87IUSSeOHvxCW6uLQ/YQeG6YRmqaskcIEQkpGChlFuvmkP9HlSYTyI/nXr7CYQjFMyqD8LZii+3wqPmW+WnCrc4VCi34kLsaGxolhPDpF7ZIhYHvF8pTPiSOL6cp8gzlYORWlSiGjQcr4OtPt67OitFE459OAyMMY7ffleJYfJybMe0nttlsC6TqVJjbM+k07jlkbFJwdqcq91Pc/lPHjw==;dyD94LtjGG6vXnzy0e9Mrg=="
 ---

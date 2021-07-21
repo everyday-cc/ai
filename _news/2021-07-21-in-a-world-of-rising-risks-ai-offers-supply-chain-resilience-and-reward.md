@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/21/in-a-world
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/21/in-a-world-of-rising-risks-ai-offers-supply-chain-resilience-and-reward/amp/"
 type: article
 quality: 86
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 793
     isCached: true
+
+related:
+  - title: "Kohl’s CTO on empowering people and optimizing supply chain with AI"
+    excerpt: "AI can make decisions to manage inventory, but it doesn't always make intuitive decisions, Kohl's CTO said at Transform 2021."
+    publishedDateTime: 2021-07-21T17:20:00Z
+    webUrl: "https://venturebeat.com/2021/07/21/kohls-cto-on-empowering-people-and-optimizing-supply-chain-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/07/21/kohls-cto-on-empowering-people-and-optimizing-supply-chain-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/kohls-cto-on-empowering-people-and-optimizing-supply-chain-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/kohls.png?w=1200&strip=all"
+        width: 1200
+        height: 601
+        isCached: true
 
 secured: "5Ph5f+f9EyKqXLMALEzSnezJMhEDEoJ0UxdOC0HfdmA4ztNWsqOXibykq/2n8bhe860rvw07O1hLKqzO1oCzA2zZBF0tyK+DhAbdzBNNBZaYVYSawkSKf3zro0d9Hm7GJoR8RHnqPsFYaZp3Lw4YyHXaClADDfsbj7cInjUdhdJNLlXLeCjYAqkl3nC867OolInEVuTb5PUUtdXwoK6gsDAJLcuj7tVz8pjswITC5dU1xhTCFSb6d+J2AjZB+iOZZIB/zMRFggh18+hkL5BDZSo8hmxIHXz52AktGHzHvJ9Uw58K3mfzVr7BIuNyGK71OCja/+ccP7d3VFqCI4pTTIgE8m4W630IMkj8h5Vz11p/7CdJShYfjQ4vaIOF4CDP2Af/Eg+Vf79pWdO4MGpvIbb/QtSw+A4O8OeqLnnW+SYSOM4ctBlEjtCh0FP2HHhv5UIEsgYKjTBo4xwycq5z3ur/KXFOENbLJJ2M4wDv+lu/WZ5FrDzK/L6O57JN/Di0hI9Wvmm388uH4t1x5q9Pdw==;kJY2NIMEVH2bZzQk6A/syg=="
 ---

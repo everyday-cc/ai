@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Safety steps for Lyft’s self-driving rides"
+    excerpt: "Instead, Lyft’s Fords will still come with a safety driver who will mostly be letting the car drive itself, but who can instantly grab the wheel if the technology misfires — or, more likely, if the car encounters one of South Florida’s numerous and notorious unpredictable drivers."
+    publishedDateTime: 2021-07-21T16:23:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article252922073.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/business/article252922073.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article252922073.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 24
   - title: "Intelligent sensing technologies enable 360 vision in self-driving platform"
     excerpt: "ON Semiconductor has revealed that its image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform. Announced at the World Artificial Intelligence Conference, the new Gen5 autonomous vehicle technology facilitates the first fully driverless RoboTaxi,"
     publishedDateTime: 2021-07-20T10:09:00Z

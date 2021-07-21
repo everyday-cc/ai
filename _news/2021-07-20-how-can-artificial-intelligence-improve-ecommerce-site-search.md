@@ -26,13 +26,18 @@ images:
 related:
   - title: "Stor.ai Partners with Toshiba Global Commerce Solutions to Equip its Grocers with Holistic Ecommerce Infrastructure"
     excerpt: "Stor.ai, the end-to-end digital commerce solution for grocers, today announced a strengthened partnership with Toshiba Global Commerce Solutions, the global market share leader in retail store technology."
-    publishedDateTime: 2021-07-21T13:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stor-ai-partners-with-toshiba-global-commerce-solutions-to-equip-its-grocers-with-holistic-ecommerce-infrastructure-1030630621"
+    publishedDateTime: 2021-07-21T14:46:00Z
+    webUrl: "https://www.wboc.com/story/44347549/storai-partners-with-toshiba-global-commerce-solutions-to-equip-its-grocers-with-holistic-ecommerce-infrastructure"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
+      name: WBOC
+      domain: wboc.com
+    quality: 17
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "iGCOkVy2S5PxDuQrqFYDowfGsu2xVhlTC2e96iZleMf/0GxdPYdUzpaz2x/M5zZ2jzyX8DNKqyVri/OKgRt+RNWc3/GBWJVVSunF0tLg1JW3y+VOe1iZQb9U/6pkFUtpKsDaVh7jbEgmPoROBvjgMmMBAUb3GrFIVQlitoyOXw2eb7HVt+27Ilznr8fapLTqQNluRwYdKGzWwIZcv+3aohzMyxRppUbZf9yr0KhWo0Itn/izLjmAuBWBLAgsaYXlWLaNUmc1DVGN/XT+vAHAXyUDf+QAymXgCV426zjgbQW4bkmDBiTC2dOujU54F43pR3l0RqbQ4K5nG22/cpg+CWoA21f4fQXt7Ksr0VNfYCPhg6lTGF+IOYcghs3oYaqR4Z089LNU53uWAy+fldIEhZCewQAOkGmB/fx08i7idQiDVccKVcGsZuzGwxJJdNgngyKXZTESPzgV5pNBJIsxd+ym74PlUMJTEtsqHDaIVRSuNIj210sbeEKGIjM8zjoWwav5wdnWidckkZ28lkrYEw==;j4HK/3vgiPf+xgHl2PcWDw=="
 ---

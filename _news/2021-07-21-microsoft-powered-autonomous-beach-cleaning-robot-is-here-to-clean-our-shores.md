@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-autonomous-beach-clea
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/"
 type: article
 quality: 103
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://qtxasset.com/fiercebiotech/1626705643/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?nnIWK27zsQToGA41LvRBTzJghCy0Z8Ok"
         width: 4432
         height: 2955
+        isCached: true
+  - title: "Microsoft Buys Privileged Access Startup CloudKnox Security"
+    excerpt: "Microsoft has purchased CloudKnox Security to give organizations visibility into privileged access, right-size permissions and consistently enforce least-privilege principles with the aim of reducing risk."
+    publishedDateTime: 2021-07-21T17:01:00Z
+    webUrl: "https://www.crn.com/news/security/microsoft-buys-privileged-access-startup-cloudknox-security"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 56
+    images:
+      - url: "https://www.crn.com/resources/026b-12cf5263678e-f93691a052ad-1000/microsoft_sign.jpg"
+        width: 1500
+        height: 1124
         isCached: true
   - title: "Machine Learning Software Market 2020-2026 | Microsoft, Ibm, Scikit-Learn, Google Cloud Tpu, Figure Eight"
     excerpt: "The research report of the global Machine Learning Software market has recently added by The Research Insights to its vast database Some of the recent advancements in technologies have been elaborated to get up to date knowledge of businesses There"

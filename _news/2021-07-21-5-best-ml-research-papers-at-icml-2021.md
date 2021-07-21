@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-21T12:30:00Z
 originalUrl: "https://analyticsindiamag.com/5-best-machine-learning-research-papers-at-icml-2021/"
 webUrl: "https://analyticsindiamag.com/5-best-machine-learning-research-papers-at-icml-2021/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Facebook AI
   - AI
   - Machine Learning
+  - Google AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/ICML-2021-Paper-Awards-.jpg"

@@ -2,25 +2,27 @@
 category: news
 title: "Stor.ai Partners with Toshiba Global Commerce Solutions to Equip its Grocers with Holistic Ecommerce Infrastructure"
 excerpt: "Stor.ai, the end-to-end digital commerce solution for grocers, today announced a strengthened partnership with Toshiba Global Commerce Solutions, the global market share leader in retail store technology."
-publishedDateTime: 2021-07-21T13:58:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/stor-ai-partners-with-toshiba-global-commerce-solutions-to-equip-its-grocers-with-holistic-ecommerce-infrastructure-1030630621"
-webUrl: "https://markets.businessinsider.com/news/stocks/stor-ai-partners-with-toshiba-global-commerce-solutions-to-equip-its-grocers-with-holistic-ecommerce-infrastructure-1030630621"
+publishedDateTime: 2021-07-21T14:46:00Z
+originalUrl: "https://www.wboc.com/story/44347549/storai-partners-with-toshiba-global-commerce-solutions-to-equip-its-grocers-with-holistic-ecommerce-infrastructure"
+webUrl: "https://www.wboc.com/story/44347549/storai-partners-with-toshiba-global-commerce-solutions-to-equip-its-grocers-with-holistic-ecommerce-infrastructure"
 type: article
-quality: 27
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WBOC
+  domain: wboc.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
+    width: 400
+    height: 225
+    isCached: true
 
 related:
   - title: "How can artificial intelligence improve ecommerce site search?"
@@ -38,6 +40,6 @@ related:
         height: 408
         isCached: true
 
-secured: "EEy6M6zvsfQqIcDLeJ0rY9jvocnWpmndC1tIqtCCzzS/U7/ejA2yyGXJtkEhM7xHTvBAC261F+moebLN0GMDnqG2Oo/IYPtxPdMHROGtL55mCVy+Pw1krA7wZ1P7heNhU8p1JWoKerOj4hF3OWuleDQ5ogGHN0rxfQz0P8g08cg8t0l5JVMnYVVsdkHLSr7hQ/wOXHyZvFLAklHygF5qogMo/QWL3pwGJPd94tJXVR5CNlaNA0qlpipX/2gaBJzTN9Z7jPx5BKVfWEy+u4Z4W2K6/FGbHMFKdZ88bPgDtzowhzzLfCzdba0DadTBmkQW4hK0AYqcANRI5/Nzy8xATaeF1tFaJGOj32AHFC81mvE=;O2OzyNNt/05R0gaeKOLYdA=="
+secured: "AXt28WtwmTb/huog0pclgHcVBWMSwGN1Achz5daePxj/7DTB54LQXemdfynKtAVxjWTrxiwrrSQOyyvrSurLu4neBMHTPPvbbvz4IToKzuvECJFPqFpwC8WtTVO3hy2MQbYEKsfgv70scJsPcnSb4yGOuZ3OeaWPuvyJj48C8ViUEUoMngjca4irBym+eiokJQFOXFA02eZvOTyt3r2ZjEexCzbFfFq12UZiFMbx0Oy01tZnV0KQYQqrMaTr08tCGG8og7T0izsmUTqA7GtRAQuBvNSL3oEJcLOskUd9CX8QPLpOQOsY+yir8YjO1kZw/7Ta7pp7K7OfCkUePxt+9pKSu5/rTj3ANCm9MjPTm2k=;c7UthdIwkk/zyuFiD4cgEw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theglobeandmail.com/amp/canada/article-morning-update-ot
 cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-morning-update-ottawa-tested-facial-recognition-on-millions-of/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Globe and Mail
@@ -27,37 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Creates Risks for Trans Individuals, Others"
-    excerpt: "As more government entities look to adopt facial recognition, concerns have been raised about its potential risks and how the technology might have disproportionate impacts for transgender and nonbinary individuals."
-    publishedDateTime: 2021-07-16T23:26:00Z
-    webUrl: "https://www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others"
-    ampWebUrl: "https://www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others?_amp=true"
+  - title: "Canada under fire for secretly using facial recognition at Toronto's Pearson airport"
+    excerpt: "What do the Toronto Police Service, the owners of the Eaton Centre and Canada's federal government have in common? They've all now been caught"
+    publishedDateTime: 2021-07-19T20:56:00Z
+    webUrl: "https://www.blogto.com/tech/2021/07/canada-secretly-using-facial-recognition-toronto-pearson-airport/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 61
+      name: blogTO
+      domain: blogto.com
+    quality: 47
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/4b0c0fb/2147483647/strip/true/crop/3840x2002+0+158/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Ff0%2Fd7d5d49246228a0d733bfc67324b%2Fshutterstock-1651644193.jpg"
-        width: 840
-        height: 438
+      - url: "https://media.blogto.com/articles/20210719-facialrecognitionpearson.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "States Voice Recognition for Smartphones"
-    excerpt: "| Apple, Google, Microsoft, Nuance, ... States Voice Recognition for Smartphones Market COVID 19 Impacted In-Depth Analysis including key players Apple, Google, Microsoft, Nuance, ... States Voice Recognition for Smartphones Market Investment Analysis | Apple,"
-    publishedDateTime: 2021-07-20T11:27:00Z
-    webUrl: "https://www.openpr.com/news/2332686/states-voice-recognition-for-smartphones-market-is-booming"
-    ampWebUrl: "https://www.openpr.com/amp/2332686/states-voice-recognition-for-smartphones-market-is-booming"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332686/states-voice-recognition-for-smartphones-market-is-booming"
+  - title: "FacePhi, SITA and Collins each roll out facial recognition to airports on different continents"
+    excerpt: "FacePhi, SITA, Collins Aerospace supplying face biometrics to aviation sector customers in new deployments, a quiet airport facial recognition trial revealed."
+    publishedDateTime: 2021-07-19T22:45:00Z
+    webUrl: "https://www.biometricupdate.com/202107/facephi-sita-and-collins-each-roll-out-facial-recognition-to-airports-on-different-continents"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 42
     images:
-      - url: "https://cdn.openpr.com/U/7/U720478281_g.jpg"
-        width: 800
-        height: 533
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "sLBDPSc3yraLZiBM2jbnrCcEMDf/p8dXV0XNTf0FGNuPF0fDsc28eQrkuFVAcM/kFpvUuoKzIQ5OpQS5DvKnrWHDRu+gk0ekXX7puIWLRCmy/2EXntgFXLivp3+J6r8iTRjHy9ZODr8f2IPcMEa703wM2CWAgRtxC3nnES2O6nQJ0l4knjhVdtaEmn6LGY+Tbru0eLiBibTBrOr3t2RAQYYt5c2a+nsm8mAsBJSMKR9tdgM8+WIwZTkLVww+HFTvvmpYvzLj+AOFyliDpBnM5LAX311BNPJ0EmZSY3YXf89xoDJIPHuDjk5M2V2zKQws8m35d09mMOE6ibNBG8zpAgJC7UljIYYAPnhywfWq1SI=;ODCyIBeLZaUluEIzt/+6Vg=="

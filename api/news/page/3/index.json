@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-20-artificial-intelligence-in-aviation-market-size-share-and-top-firms-intel-micron-boeing.md",
+      "title": "Artificial Intelligence in Aviation Market Size, Share and Top Firms – Intel, Micron, Boeing,",
+      "excerpt": "The Artificial Intelligence in Aviation market research report assesses the global Artificial Intelligence in Aviation Market industry market and includes sales and capacity forecasts for the anticipated period 2021-2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-share-and-top-firms-intel-micron-boeing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.grandviewresearch.com/static/img/research/asia-pacific-artificial-intelligence-market.png",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T21:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-ai-powered-deep-neural-nets-increase-accuracy-for-credit-score-predictions.md",
+      "title": "AI-powered deep neural nets increase accuracy for credit score predictions",
+      "excerpt": "Credit Karma's CTO discussed migrating to the cloud and adopting machine learning to improve personalized recommendations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/19/ai-powered-deep-neural-nets-increase-accuracy-for-credit-score-predictions/",
+      "originalUrl": "https://venturebeat.com/2021/07/19/ai-powered-deep-neural-nets-increase-accuracy-for-credit-score-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/karma.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/19/ai-powered-deep-neural-nets-increase-accuracy-for-credit-score-predictions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/ai-powered-deep-neural-nets-increase-accuracy-for-credit-score-predictions/amp/",
+      "publishedDateTime": "2021-07-19T17:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-supply-chain-threats-demand-industrywide-approach-to-ai.md",
       "title": "Supply chain threats demand industrywide approach to AI",
       "excerpt": "As supply chain threats get more complex, organizations need to adopt an industrywide approach to creating open standards.",
@@ -917,7 +1010,7 @@
       "originalUrl": "https://www.scmp.com/lifestyle/entertainment/article/3141659/anthony-bourdains-cloned-voice-documentary-raises-questions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1056,50 +1149,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-19-israel-ai-based-learning-startup-magnilearn-chosen-by-microsoft-to-impact-education.md",
-      "title": "Israel AI-Based Learning Startup MagniLearn chosen by Microsoft to impact Education",
-      "excerpt": "After concluding deals with public and private school networks in Israel, Korea and Japan, EdTech startup MagniLearn formed by AI researchers from Hebrew University in Jerusalem, has been selected by Microsoft Israel in its AI for Good Acceleration Program,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/israel-ai-based-learning-startup-magnilearn-chosen-by-microsoft-to-impact-education-1030619985",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/israel-ai-based-learning-startup-magnilearn-chosen-by-microsoft-to-impact-education-1030619985",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-19-building-mlgui-user-interfaces-for-machine-learning-applications.md",
       "title": "Building MLGUI, user interfaces for machine learning applications",
       "excerpt": "In this interview, KPMG's Philip Vollet talks about why building user interfaces is necessary to unlock AI's true potential.",
@@ -1201,49 +1250,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-research-breakthrough-artificial-intelligence-ai-can-now-use-its-imagination.md",
-      "title": "Research Breakthrough: Artificial Intelligence (AI) Can Now Use Its Imagination",
-      "excerpt": "Researchers at the University of Southern California (USC)  are helping the use of Artificial Intelligence (AI) imagine what has not",
-      "sourceUrl": null,
-      "webUrl": "https://techbooky.com/ai-that-can-imagine/",
-      "originalUrl": "https://techbooky.com/ai-that-can-imagine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbooky.com/wp-content/uploads/2021/07/444090C5-86E3-4A93-9928-5383E9896D53.jpeg",
-          "width": 1028,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbooky.com/ai-that-can-imagine/?amp=1",
-      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/ai-that-can-imagine/?amp=1",
-      "publishedDateTime": "2021-07-19T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

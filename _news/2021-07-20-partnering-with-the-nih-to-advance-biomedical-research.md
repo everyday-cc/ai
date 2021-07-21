@@ -47,15 +47,20 @@ related:
         width: 480
         height: 610
         isCached: true
-  - title: "RAIsonance, Inc. Joins Microsoft for Startups Program"
-    excerpt: "With support from the Microsoft for Startups program, SoundPass will be able to roll out the SoundPass Access technology rapidly to businesses, educational campuses, entertainment venues, houses of worship or any facility seeking to enable smarter in-person interactions."
-    publishedDateTime: 2021-07-21T14:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-raisonance-inc-joins-microsoft-startups-program-/2021/07/21/9414159.htm"
+  - title: "KnowledgeLake provides support for Microsoft Azure Government"
+    excerpt: "Public sector organizations can leverage the KnowledgeLake platform to manage content and data residing within the Microsoft Azure Government-dedicated cloud environment"
+    publishedDateTime: 2021-07-21T16:55:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/KnowledgeLake-provides-support-for-Microsoft-Azure-Government-148082.aspx"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 54
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
+        width: 772
+        height: 594
+        isCached: true
 
 secured: "TMxIMZQfwECAj/Eqn/xY9ga0tK23IHIZe4T35Xaq51TlAP/YKDYyv9KCWzkamCVu1EJcRgSequg3QiqSfq45fAiAVD1u4Wp5q/tUoKtnby9qB90d1TlMoazrGhYgVXj57i9AEOAtl2OjtRLvsKKNP4ZlLfJqceBGotE2QUtFRydaJTv7mEYGM7MDxFs+r0XzZPV0S4Y3XSRQm1XvQ19ccvUEJjatK5QXibKo929JsP1WJUeaCsWnN8Si3CuGRWknlXbKAQoG4Ut2tKYS1SkTXD42PzFNhkysfop5w+qWYinsQoxjMWdH7zRRgRafyhu4vDMmnFd3XGK5vfdyNjk0jHpSldE+MRWNFeRlaNAKrOU=;b3Ivt+Pk2LRzaxIhl5k5rw=="
 ---
