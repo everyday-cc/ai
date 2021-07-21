@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/20/employees-want-more-ai-to-boost-p
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/employees-want-more-ai-to-boost-productivity-study-finds/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

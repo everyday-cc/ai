@@ -9,7 +9,7 @@ ampWebUrl: "https://thetechportal.com/2021/07/20/indian-fintech-major-razorpay-a
 cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/07/20/indian-fintech-major-razorpay-acquires-digital-lending-firm-tera-finlabs/?amp"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech startup Razorpay buys SaaS firm TERA Finlabs"
+    excerpt: "Financial solutions company Razorpay on Monday said it has acquired AI-based risk tech SaaS (software-as-a-service) platform TERA Finlabs for an undisclosed"
+    publishedDateTime: 2021-07-19T04:15:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/articleshow/84543154.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/amp_articleshow/84543154.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/amp_articleshow/84543154.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 44
+    images:
+      - url: "https://www.businessinsider.in/thumb/84543230.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
   - title: "Razorpay acquires TERA Finlabs in push for startup, MSME loans"
     excerpt: "Razorpay Capital along with TERA Finlab's technology capabilities will be able to service the credit needs of more than 10,000 startups and MSMEs in India by next year, according to a statement."
     publishedDateTime: 2021-07-19T07:14:00Z
@@ -82,6 +98,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 2
+  - title: "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
+    excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (“Infobird” or the “Company”),"
+    publishedDateTime: 2021-07-20T12:31:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-2fcaf5aa6c7c11c5451b9eb175c3f3ef"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "JlaRu0hn9iYmSijLh80eb0rk8iQX9odvN1kq8uwfBPv/i6xczs4oP2XASmC3JwYm9DsU+tb7ZD+fmZ+jejh9rhvRe4nOWt0eAskswZF0JFvjvjKGXLc/3wtc83iHqcCmbOhVhrp997cysUwSLwZ1C2HJuddm14NZJK5FDFLO9C4O0XgRvYDwzKTtH4st0uH68bYc8vwclYkhofOTlv4RYEr8RhzUKmCyZZby5sAYFc6v19CQSs3OdLR6RofTMPY2ssSgz9vzaJVsAyFH0w4e1zrOToDfzRx2IendIl0pu3SF+POqiaeiKU8PHKnK4+Kj3FTqNOKqMhm6WydHPq0kEQfwEzKiyg48NpGmh1y6uwvDHmUNSb69QMPhqdSOtwbCGp6gwq3ezWIQ9hn0GXzNlaR7LTeYdKcKTmluE3KTEkNVPMIQ1/SW0ENDorwlQseMFDM8tpV1ShNSjPK/MaKRQAaJJlF1Txua2Zap1xzD1OGfMWODUCWyGPrtfQoLd0GXE4rfJQAe1oArFVt4VQnC1g==;/mT3TUiHSoAl3+Hlq/R4xw=="
 ---

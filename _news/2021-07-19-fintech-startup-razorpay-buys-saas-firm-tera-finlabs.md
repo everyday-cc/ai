@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.in/tech/news/fintech-startup-razorpay-bu
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/amp_articleshow/84543154.cms"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,152 +27,77 @@ images:
     isCached: true
 
 related:
-  - title: "Why FinTech Struggles To Combat The $1.5 Trillion Trade Finance Gap"
-    excerpt: "GUUD discusses why trade finance FinTech has been unable to put a dent in the trade finance gap or ease friction for banks and nonbank financiers."
-    publishedDateTime: 2021-07-16T12:43:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/"
+  - title: "Indian fintech major Razorpay acquires digital lending firm TERA Finlabs"
+    excerpt: "Fintech firm Razorpay has acquired TERA Finlabs, a startup involved in providing businesses with embedded financial solutions"
+    publishedDateTime: 2021-07-20T15:24:00Z
+    webUrl: "https://thetechportal.com/2021/07/20/indian-fintech-major-razorpay-acquires-digital-lending-firm-tera-finlabs/"
+    ampWebUrl: "https://thetechportal.com/2021/07/20/indian-fintech-major-razorpay-acquires-digital-lending-firm-tera-finlabs/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/07/20/indian-fintech-major-razorpay-acquires-digital-lending-firm-tera-finlabs/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 43
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2019/06/64541923_10157511267069171_8703981590209888256_n.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Razorpay acquires TERA Finlabs in push for startup, MSME loans"
+    excerpt: "Razorpay Capital along with TERA Finlab's technology capabilities will be able to service the credit needs of more than 10,000 startups and MSMEs in India by next year, according to a statement."
+    publishedDateTime: 2021-07-19T07:14:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/razorpay-acquires-tera-finlabs-in-push-for-startup-msme-loans/articleshow/84544464.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/razorpay-acquires-tera-finlabs-in-push-for-startup-msme-loans/amp_articleshow/84544464.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/razorpay-acquires-tera-finlabs-in-push-for-startup-msme-loans/amp_articleshow/84544464.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 42
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-569253,msid-84545027/razorpay-co-founder-harshil-mathur.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Razorpay Acquires Embedded Financing Startup TERA Finlabs"
+    excerpt: "The Indian payments fintech Razorpay said that it has acquired TERA Finlabs, a startup that provides embedded financing solutions for businesses."
+    publishedDateTime: 2021-07-19T17:40:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/razorpay-acquires-embedded-financing-startup-tera-finlabs/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/razorpay-acquires-embedded-financing-startup-tera-finlabs/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/razorpay-acquires-embedded-financing-startup-tera-finlabs/amp/"
     type: article
     provider:
       name: pymnts.com
       domain: pymnts.com
-    quality: 59
+    quality: 42
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/investments-457x274.jpg"
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/razorpay-457x274.jpg"
         width: 457
         height: 274
         isCached: true
-  - title: "China: WeiyangX Fintech Review"
-    excerpt: "Alibaba Establishes Digital Agricultural Subsidiary According to information from Tianyancha, Alibaba Digital Agriculture (Shandong) Co., Ltd. was established on July 12th, with a registered capital of 10 million yuan."
-    publishedDateTime: 2021-07-20T14:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/07/178087-china-weiyangx-fintech-review-208/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/178087-china-weiyangx-fintech-review-208/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/178087-china-weiyangx-fintech-review-208/amp/"
+  - title: "Razorpay Acquires Lending Startup, TERA Finlabs; Strengthens Its B2B Credit Infrastructure"
+    excerpt: "The country’s leading full stack financial solutions company, Razorpay, today announced its acquisition of TERA Finlabs, an AI-based risk tech SaaS Platform, for an undisclosed amount. TERA Finlabs is a Bengaluru-based startup that provides technology,"
+    publishedDateTime: 2021-07-19T09:43:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/razorpay-acquires-lending-startup-tera-finlabs-strengthens-its-b2b"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Yunnan-China-600x570.jpeg"
-        width: 600
-        height: 570
-        isCached: true
-  - title: "China’s JD spins off cloud and AI businesses to fintech unit"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-07-17T04:04:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit-2/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626473428_reuters-default.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Meet The Fintech Innovators Using AI To Reimagine The Financial Sector"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-07-21T02:43:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626835443_0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "IDenfy bags deal withj Polish fintech Payment Financial"
-    excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Payment Financial SA."
-    publishedDateTime: 2021-07-20T11:55:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88625/idenfy-bags-deal-withj-polish-fintech-payment-financial"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "IDenfy joins forces with Polish FinTech Paymento Financial"
-    excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Paymento Financial SA."
-    publishedDateTime: 2021-07-20T10:50:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/idenfy-joins-forces-with-polish-fintech-paymento-financial/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Global-FinTech-Use-Cases-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Fintech TrueAccord Says Financial Tech Firms are “Rethinking” Approach to Existing Problems to Build Better Solutions"
-    excerpt: "Fintech TrueAccord says financial tech firms are \"rethinking\" approach to existing problems to build better solutions."
-    publishedDateTime: 2021-07-20T03:21:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/07/178024-fintech-trueaccord-says-financial-tech-firms-are-rethinking-approach-to-existing-problems-to-build-better-solutions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/178024-fintech-trueaccord-says-financial-tech-firms-are-rethinking-approach-to-existing-problems-to-build-better-solutions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/178024-fintech-trueaccord-says-financial-tech-firms-are-rethinking-approach-to-existing-problems-to-build-better-solutions/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 21
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2014/09/Money-Coins-Nickel-Penny--300x210.jpeg"
-        width: 300
-        height: 210
-        isCached: true
-  - title: "AMD Stock – AMD Stock – 2 Dividend-Paying Tech Stocks to Buy in July | Fintech Zoom"
-    excerpt: "Complete Advanced Micro Devices Inc. stock news by FintechZoom. View real-time stock prices and stock quotes for a full financial overview."
-    publishedDateTime: 2021-07-18T21:22:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_amd/amd-stock-amd-stock-2-dividend-paying-tech-stocks-to-buy-in-july-fintech-zoom/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 18
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626519598_0902-Q19-Total-Markets-photos-and-gif_CC8.jpg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "The fintech landscape in Latvia – Interview with the Financial and Capital Market Commission"
-    excerpt: "Marine Krasovska, Director of financial innovation department, FCMC, offers key insights into the Latvia-based fintech"
-    publishedDateTime: 2021-07-19T08:49:00Z
-    webUrl: "https://thepaypers.com/interviews/the-fintech-landscape-in-latvia-interview-with-the-financial-and-capital-market-commission--1250478"
-    type: article
-    provider:
-      name: The Paypers
-      domain: thepaypers.com
-    quality: 13
-    images:
-      - url: "https://thepaypers.com/images/social_media/fintech-socialmedia_LI.png"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Music Fintech Company Offers Advances Up To $1 Million To Drive Artist Empowerment And Freedom"
-    excerpt: "PRNewswire/ -- beatBread, the pioneering music fintech business, is stepping up its support of music talent through the activation of agreements that allow the company to provide financial advances of up to $1 million for an individual artist for the first time."
-    publishedDateTime: 2021-07-20T13:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-music-fintech-company-offers-advances-up-1-million-/2021/07/20/9412945.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial IT
+      domain: financialit.net
     quality: 12
     images:
-      - url: "https://mma.prnewswire.com/media/1574686/BEAT_BREAD.jpg"
-        width: 400
-        height: 400
+      - url: "https://financialit.net/sites/default/files/razorpay-the-new-epayment-that-will-break-everything-in-2019.png"
+        width: 1000
+        height: 600
         isCached: true
+  - title: "Razorpay acquires lending startup TERA Finlabs"
+    excerpt: "TERA Finlabs is an Indian subsidiary of GAIN Credit, a leading UK digital lender which was launched in 2018 to expand their global footprint in digital lending. This marks the company's third acquisition after foraying into the B2B SME lending space with the launch of Razorpay Capital in 2019,"
+    publishedDateTime: 2021-07-19T11:30:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210719/3789154.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
   - title: "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
     excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (“Infobird” or the “Company”),"
     publishedDateTime: 2021-07-20T12:31:00Z

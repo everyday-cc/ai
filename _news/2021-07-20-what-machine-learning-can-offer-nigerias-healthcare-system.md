@@ -7,7 +7,7 @@ originalUrl: "https://theconversation.com/what-machine-learning-can-offer-nigeri
 webUrl: "https://theconversation.com/what-machine-learning-can-offer-nigerias-healthcare-system-163593"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1356
     height: 668
     isCached: true
+
+related:
+  - title: "Nigeria: What Machine Learning Can Offer Nigeria's Healthcare System"
+    excerpt: "Analysis - Imagine it's 2030 - and a typical day in a Nigerian healthcare setting. In earlier decades, when a patient walked in, they could see piles of folders and a clutter of pens scattered all over the office."
+    publishedDateTime: 2021-07-21T04:31:00Z
+    webUrl: "https://allafrica.com/stories/202107210020.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 56
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
 
 secured: "7RbP6dv6rSwsZm0sN/B87NvBUzEjcNrYBDBV7ZGGl2hIIR4na+3Saw3gs/VG/kDf9foES+BlhIBF/oj1+970N0WrNfYx6FyBm5fPtpqn1U2VYd4w3D43hJvzMiWCOz2IoJi+BKOT1+D+330TJ7KFHa9t9XBF5lKggS2WnjJOeYZ18jYvKXVQhqMk4t7vfN9k8386vJTHPW93fqjRMCRuP/FmUuS7sK2Owi1JM4dzJLFteLe5EiSKjs/kjn25/VXJ3hdXce45OGKlK6fInVnBKiIWfKQTAbJTmwxhjea0Z8Xzta1MQl+5psBhlLotxxOWpcfSdh5TjepkABFmrp9llUWHJTPYqRt+7NeDXXtLvIc/Ru6znhfBviJ1iO7lMX2mhEPkY91Kq7Gmp2lU49nOO/dqoa1mVQzlnER33Mlrqj5n+UMyfarjb24jCZRXpRvLwk5jC1EoXzIwp1qWXuk+WB6JPaIR6/M2/79pvmB/t3VsgDKHBjm54oddmASXd80cqBF6LKw9fgjy8KzOkTXmcQ==;ncptcR3L1nnHwrwkHxgWfA=="
 ---

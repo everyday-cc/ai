@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/ai-in-smartphone-and-wearable-market-si
 webUrl: "https://manometcurrent.com/ai-in-smartphone-and-wearable-market-size-2021-is-booming-worldwide-lenovo-apple-xiaomi-samsung-huawei/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Artificial Intelligence in Law Market Size 2021 is Booming Worldwide| AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google"
+    excerpt: "Market growth analysis is shown with great accuracy in this Artificial Intelligence in Law market analysis report. This includes a detailed summary of the market as snapshots that provide in-depth information on different segmentations."
+    publishedDateTime: 2021-07-21T05:01:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-law-market-size-2021-is-booming-worldwide-aibrain-amazon-anki-cloudminds-deepmind-google/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 24
 
 secured: "YgGfIh3cykqxm9861N4auxgMrXLrGpspSnsGvWXvPg/Rsp3KnVtToJftRKBbIs0/LbVw4sIEkzpLLJy9UvTBRL1FlQwAIoI/HPFSFAU3FupaIbYuJ9Z8+UOEQbcsr/uUkvmUlR2IjQFFpnkwI/13J9Vmevu0GH1iqONQHPUrNUDwEheoYXReVeaCsUlSUWfdm8IJIZkECSuRy/FpFxcH4EPYFPrTUEvb8sLqGydxRSikqwXPSaPkAjVS9H/NaLbBwYDBRkchBJilAkQyExjBBJ7Qa1YCx1UI8gUrlDpZFEra7oVr4wP+SM9w28fct7AjpeLACiFrXatogU64u69bA1I2nF1oOsuhnIm4jBWf6AddXoZo/8/uwUHwuCSpptbDfmEAIunzQ2HibtyTwZzoP4Jf4t50kHxOl54hnAtUN1UBNP3He7z/XzpMYI1CrLkZ9XC/DZNatQzbQ9kB5hQPC49koBcx3dQUKAx/D+78SVSIeb///vA6ErupQEf7YIp3fKeKtIZpphc4jihqDaaHrA==;4D00+o+cDxeLesAHEK4Hkg=="
 ---

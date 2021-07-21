@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.electropages.com/storage/app/media//2021/July/rohm_DCDC-for-industrial_EN_1.jpg"
         width: 300
         height: 275
+        isCached: true
+  - title: "Intel's Autonomous Driving Arm Mobileye is Testing its Self-driving Technology in New York City"
+    excerpt: "Intel Corp’s autonomous driving division Mobileye is testing its self-driving technology in New York City, one of the most challenging environments for self-driving vehicles to operate in, the company announced on Monday."
+    publishedDateTime: 2021-07-20T23:00:00Z
+    webUrl: "https://www.futurecar.com/4753/Intel’s-Autonomous-Driving-Arm-Mobileye-is-Testing-its-Self-driving-Technology-in-New-York-City"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 12
+    images:
+      - url: "https://img.futurecar.com/202107/20/l_60f758e7723c3.jpeg"
+        width: 800
+        height: 376
         isCached: true
 
 secured: "XjrwALPRSt9rn+uscFH3idLOJwtBVQU2skVBGDjLdB97f4xzOZ54WZQPSkd1R2VBR2xRd/bnPMIGtoT2qO6RcDXH2z2I/uyT4kOytbfXOsTw611PfPU57104f+ed+70UEfySp0bXYMPHrJiNHZkNI1iLsVaK913Ab+by/iQ/yr3Og5telmqkl2YbE2NfkLiMWUIOAjATMd0PJQ0F2mDBsjMrRZBuhMLMHo+/AF1gGj5ZKBdIheF9JP3mVe0pBS7ygmYl3FEm3Ifb6qLMwlteepaL1xJeQY0BL24Vn8wPWfA5QWJqBa/+oXTOEiCM5XT6vl5Ul2qrTisdEMkocbGPIiE9aDN0NTRNT2xUOtQwwShZwQyAu9NROO03tQuYCZhmTeYUTbBm1U7e39ABKxfoBjAvBzJShrEq29yfcdymtIMXcefMK9dHUQSiCNjfDJsUK7/s+ZYgKLmp1Ax6hA4kiF9K3+qbeJFQ6H6PNiALUCeVj8/hJGwiq29AYyM4y31F/OBzroAFJrMvxQXh6j6awQ==;jpZDFVqMujLUSSF3PAcW8g=="

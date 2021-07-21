@@ -103,17 +103,6 @@ related:
         width: 718
         height: 300
         isCached: true
-  - title: "Federal Agencies Can't Resist Using and Abusing Facial Recognition"
-    excerpt: "Already used to identify international travelers as they enter and exit the United States, facial recognition technology is becoming increasingly reliable and may soon become a regular feature of the travel process,"
-    publishedDateTime: 2021-07-16T11:07:00Z
-    webUrl: "https://reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/"
-    ampWebUrl: "https://reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 39
 
 secured: "n0rwRfa9UQXsWA3O73RzygZE06VlfEYDRmi6jck1YVsK2vk+uzCV1esaWcU4bCv3EiMZrB1dkFm9Oa55LEDwYGQqx+gbXdyPTni2RcIRu+saRPTDh5lvY+KT2qXVsYABNouzHmOZ5TWV2zqO5OJkerSmU032T1caQunzrLUY9qn61aPt9QLNXHgb8TRe2XKTDFWojItczLNfAs/Wx65E7GgUnfBYrFeY1f3HBKn7DAJqmdnE4z4NJls26CQx9mqj8CSvQbUpEOo3KCYbwlH4ZVMDQJMCyW2IQ3ZdhgQgnbLKP/S79t9GpbtVrNk7SQKEck4APDHmJXpLrm00vfMA8MO+vJ4xUGvD9yUAnGQagpIKP0sarpob/90pHlFi2zlFnxiBM1aOfMBm9l98SRP1kSbDhHoDcOzrx4ZAQz59o1+xbABRW3vvPoJOvtOYsep1q78C8XI4fLRAB2h8q/C4mwPRl9LVag/f3RDtBhMDoOzz6LJZP7NrFxf67/QyJ+ojU/A1mjjp5CvPeXKLSCFkBA==;uMCVx4WoqzeD/QBu8xnJ1Q=="
 ---

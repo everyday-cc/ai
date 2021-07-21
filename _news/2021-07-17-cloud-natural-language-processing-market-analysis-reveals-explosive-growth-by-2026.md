@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-analysis-reveals-explosive-growth-by-2026-2021-07-16"
 type: article
 quality: 63
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Deep Learning Courses for NLP Market"
-    excerpt: "Global Deep Learning Courses for NLP Market is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and ..."
-    publishedDateTime: 2021-07-16T12:21:00Z
-    webUrl: "https://www.openpr.com/news/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide"
-    ampWebUrl: "https://www.openpr.com/amp/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 76
-    images:
-      - url: "https://cdn.openpr.com/U/7/U716847626_g.jpg"
-        width: 800
-        height: 334
-        isCached: true
-  - title: "Natural Language Processing Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
-    excerpt: "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-07-20T12:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "/3XMwAxUiFgbCxHpqOJeGGvYipQ292htVd/dqVtyxn5XeIwltXJHMJvdpMAsqde+O6lU06AJt5plXoNCKZ7HheZttzODCG4KXKH4YipL3L/dQ5egq4D7y3sGT6lz8dvBEql+vlAzVulwB2c4JWOwD2nx4V4ebkSUjWaP7cW00MOJDPZKWtLVW3u0OOiypBzaktYm1vzV8GiP6KU97aFeYOBC3peqEB3ro2zkDck4PD5Y5P+4t1h0JNh5gMrgNwE/aSxaVrEZ8c/OJDzPdhaH0pq0WqsYyqq6Z1E2ecMh1sHpJtCkP78w9Sm9bioMufpuuylZENd2jX8CnP/gKv++PTCqmGe+gc25shK5aDRhr7M=;rVySU/MQjV4IN4RzaX5/8g=="
 ---

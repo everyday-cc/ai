@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech startup Razorpay buys SaaS firm TERA Finlabs"
+    excerpt: "Financial solutions company Razorpay on Monday said it has acquired AI-based risk tech SaaS (software-as-a-service) platform TERA Finlabs for an undisclosed"
+    publishedDateTime: 2021-07-19T04:15:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/articleshow/84543154.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/amp_articleshow/84543154.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/amp_articleshow/84543154.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 44
+    images:
+      - url: "https://www.businessinsider.in/thumb/84543230.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
   - title: "Indian fintech major Razorpay acquires digital lending firm TERA Finlabs"
     excerpt: "Fintech firm Razorpay has acquired TERA Finlabs, a startup involved in providing businesses with embedded financial solutions"
     publishedDateTime: 2021-07-20T15:24:00Z
@@ -81,6 +97,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 2
+  - title: "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
+    excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (“Infobird” or the “Company”),"
+    publishedDateTime: 2021-07-20T12:31:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-2fcaf5aa6c7c11c5451b9eb175c3f3ef"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "dI5M/0ELJGziFUq/EUnZjHPuKc9svolhYu8rQQv+8pIGrJfhiMW1jQxnSDwynVzHQKUEYOH2v7yie44mDGdtCiR+tAYUQgkgn2l8HqKtuOVaNquKDQp04rZYSyMl+A+koDH7etUVtmeb7kS1MWpggS5z/3qUsbhfIPInaZY3IgkQIQinXyuvh1u7O2FMEtPD0UVUtVLd6vl85hKzqkwT5wajOdJfY1/WL8kw3hJEDDVZiR3RBqcYcF0aQjJpPt+NE2QgCaJbQp880Mbf+Vvcwfh9WFDt+17t8ZpKCx+0lxjengwO2wH9F0w0nCAJhcu21fkLRpAlitMVe7etdBqiiQAE9qAeI5AcLMKyO831KNU=;nUqTza7E2Q+sJGbUJilswA=="
 ---

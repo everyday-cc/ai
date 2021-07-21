@@ -57,6 +57,20 @@ related:
         width: 300
         height: 275
         isCached: true
+  - title: "Intel's Autonomous Driving Arm Mobileye is Testing its Self-driving Technology in New York City"
+    excerpt: "Intel Corp’s autonomous driving division Mobileye is testing its self-driving technology in New York City, one of the most challenging environments for self-driving vehicles to operate in, the company announced on Monday."
+    publishedDateTime: 2021-07-20T23:00:00Z
+    webUrl: "https://www.futurecar.com/4753/Intel’s-Autonomous-Driving-Arm-Mobileye-is-Testing-its-Self-driving-Technology-in-New-York-City"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 12
+    images:
+      - url: "https://img.futurecar.com/202107/20/l_60f758e7723c3.jpeg"
+        width: 800
+        height: 376
+        isCached: true
 
 secured: "ma2KZqslQNoKg6/II0LWSdrk/RAhpOjw+NMTiXNwhyM1xpZmZD+r9zpaXixZaNGY+9Nq/7CVVsN9XL5QaZj5BV83uQXHiTLfCRhH01ZO0REDCOgYjZEQtCRMPQ3A79/QIjCk36n5Kv76akNhFrHh9Yd+5dtgItJrTE5XtZtKNumk3034hhL6THCtqeqWGcp6mZhxVLdnB0bHZsoYIJdS+mfGmB2552ws8E8rj5mSOiMG5wzmRDoAQ2rnCtFmNXXjuJYENc+FqqwRiv1I73e5bZIbdomQxrF+PjPLU9CI0I4yi+LmiJBNeYQ2xBexZ7qwgIju9SuE9FwQysUdM7vSlNZYre9P9avwXeXl1DNWwup4ahqS7gvO8P+Yxxj6IiqAJ+jGgrwX6B17iclTinMcd1t7zXaUjQNqQhtrzf+Q4ZIrCpRAXDcnutbElKtW15HVESVZXbx64kS6ueDwhEsQ8QAX+tGPy+sZsDVwTcqa4nR78QsGUrhoIM02JKsVS6fBENWeJG9nOU8xg4e0vR0F/w==;L20cyaM4jsSeIP7ufftl+A=="
 ---

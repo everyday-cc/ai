@@ -55,6 +55,29 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Mobileye Tests Fleet of Self-Driving Cars in NYC, Including Manhattan"
+    excerpt: "Intel Corp unit Mobileye on Tuesday said it was testing a small fleet of self-driving test vehicles in New York City, including the bustling Manhattan borough, in an effort to prove the company's technological progress."
+    publishedDateTime: 2021-07-20T15:51:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-07-20/mobileye-tests-fleet-of-self-driving-cars-in-nyc-including-manhattan"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
+  - title: "This company is testing self-driving cars in New York City for the first time"
+    excerpt: "Dapena, CNN Business Mobileye, an Israeli self-driving technology company owned by Intel, has become the first company to test fully self-driving cars on New York City’s streets. While a number of companies test cars in California and Arizona,"
+    publishedDateTime: 2021-07-20T20:43:00Z
+    webUrl: "https://ktvz.com/money/cnn-business-consumer/2021/07/20/this-company-is-testing-self-driving-cars-in-new-york-city-for-the-first-time/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 21
+    images:
+      - url: "https://ktvz.b-cdn.net/2021/07/hypatia-h_50890608d8a02c9b670727c4a3874b92-h_c6bb4768c4778c7186fa88339b1b09d1-300.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Intel's Mobileye testing self-driving cars on New York City streets"
     excerpt: "Intel is testing the theory that if you can make it in New York you can make it anywhere. It's self-driving car technology business Mobileye has had AVs on NYC streets for 6 weeks."
     publishedDateTime: 2021-07-21T00:12:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-
 webUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-ethical-use-of-ai-in-the-hiring-process/"
 type: article
 quality: 84
-heat: 145
+heat: 144
 published: true
 
 provider:

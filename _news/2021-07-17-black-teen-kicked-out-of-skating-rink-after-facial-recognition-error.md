@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/black-teen-kicked-out-of-skatin
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -107,17 +107,6 @@ related:
         width: 718
         height: 300
         isCached: true
-  - title: "Federal Agencies Can't Resist Using and Abusing Facial Recognition"
-    excerpt: "Already used to identify international travelers as they enter and exit the United States, facial recognition technology is becoming increasingly reliable and may soon become a regular feature of the travel process,"
-    publishedDateTime: 2021-07-16T11:07:00Z
-    webUrl: "https://reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/"
-    ampWebUrl: "https://reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 39
 
 secured: "OaveP6IsnasWF52DdKg9mpJ4PS9wLHpF7J2nimuhXoKgrHG1pDNTAP5UO0uIcKrvUA/Fyf2Q45YkVw/xcFPpCpt1Yos+Jc2LN3/dxMN61tyhePv0raMmxRLoYyrZbABLQVJPMirZz070ZPDMrcxqASXSKrR7x036tXYj7+LqGwe15BkC43H997gLwPQY1Ev3AC4T0Sf0UOw3rfn7xOqErs/RpiJqLOvSAN3fkSFylxpK+cnqc2LN0NzA4awGdR9ScXZE4l9MyqA4CvXf84my4gmE1p/L9JrbuXiuvY8JRIBFIFg6wdG/CSsTnjVFY+SdQ6gQoWyah7zyhYw5N+Rd1k9KwxBUFT2stDmYEw2QMr/5ivdop6jgY6hhl31nhwOTlMOPLpD7yeg2pnzAYvGFZe1kInFyoWMYu4WIRGeIa6N6rIIwhF5HRf30XY/J38PmXojyMvrPCWwV62USj+lMxFTCuSqTOzmxkYRqCNGgkQswZfbm9cLUfzvhqjx5Ux9e5Z/LjTCXhGc6B8pGeM7CQg==;c9MN/kaxTv/Xm+aTCDBXWQ=="
 ---
