@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-Driving Cars That Snitch On Human Drivers For Bending Or Breaking Driving Laws"
+    excerpt: "Self-driving cars are able to record the driving scene, of which they can detect when human drivers nearby violate the driving laws, and some say they will become snitches."
+    publishedDateTime: 2021-07-21T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b612298c27be03c873e4b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6030%26cropY1%3D478%26cropY2%3D3870"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla Rolls Out $200 Monthly Subscription for ‘Full Self-Driving’"
     excerpt: "Some vague language on Tesla's part means that vehicles marketed as having full Autopilot capabilities might need an additional $1,500 hardware upgrade to use FSD."
     publishedDateTime: 2021-07-19T19:50:00Z

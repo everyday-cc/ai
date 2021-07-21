@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-fa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/"
 type: article
 quality: 87
-heat: 138
+heat: 137
 published: true
 
 provider:

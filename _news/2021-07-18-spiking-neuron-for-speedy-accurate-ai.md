@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/business-tech/spiking-neuron-fo
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/business-tech/spiking-neuron-for-speedy-accurate-ai/article35392642.ece/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -55,22 +55,6 @@ related:
       - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F09%2F59cbf1b1b906c_8384110298_da510e0347_b.jpeg&width=1200&sign=-msvHvaXfrcws-7jqq4oiTOt5KadOh_xFFzOic6ed6A"
         width: 792
         height: 540
-        isCached: true
-  - title: "IIT Delhi Researchers Demonstrate a New Brain-inspired Artificial Neuron for Building Accurate and Efficient Neuromorphic AI Systems"
-    excerpt: "Human brain is one of the most powerful and intelligent natural computer known to mankind. Neuromorphic computing refers to the field of technology where engineers try to build intelligent machines in"
-    publishedDateTime: 2021-07-16T23:03:00Z
-    webUrl: "https://indiaeducationdiary.in/iit-delhi-researchers-demonstrate-a-new-brain-inspired-artificial-neuron-for-building-accurate-and-efficient-neuromorphic-ai-systems/"
-    ampWebUrl: "https://indiaeducationdiary.in/iit-delhi-researchers-demonstrate-a-new-brain-inspired-artificial-neuron-for-building-accurate-and-efficient-neuromorphic-ai-systems/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-delhi-researchers-demonstrate-a-new-brain-inspired-artificial-neuron-for-building-accurate-and-efficient-neuromorphic-ai-systems/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 28
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/07/iitdelhi-1024x581.png"
-        width: 1024
-        height: 581
         isCached: true
 
 secured: "VXWOt5LQ92N+CeWhwmpG16+BVVA7xwIDnWqf54P0BXZysk0faeUBujcglWR84/kE4uwFUciKepJzfiDEU0Ml9GYPs9PaFo7QfPfJSzp8sZc2ZPEPamgL+G5gO1h4eJ7sBfXpyYIalR1ddePHse1Ch5i+bzTygUSqTWxdkX/BVcwM+GwYsXL6Pw3perVH7dh12rQ1F36WxlaKqQl4zN6VaNOZgTtF2cfAxDxgqB+hsRsSuxsd2Hicx7vrvpHAIzNmHY16V+27m+gwco3uaCTHpbShS9ABgLhEX/jVL/Yh2VfdHLrKpKwKYXudDiKZdDGLuO8M3G1fuflzreqFo8hPbd8xhCjg2FCJ6E7yX3Z0T5A=;BN0RAUVYGjx+FXj68uUiRQ=="

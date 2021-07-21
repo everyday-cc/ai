@@ -63,22 +63,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Anthony Bourdain Documentary Used AI To Fake His Voice"
-    excerpt: "A new documentary about late celebrity chef Anthony Bourdain utilized artificial intelligence to recreate his voice, spurring a debate about the ethics of this practice. In an interview with The New Yorker,"
-    publishedDateTime: 2021-07-16T21:58:00Z
-    webUrl: "https://www.huffpost.com/entry/anthony-bourdain-documentary-artificial-intelligence-voice_n_60f1f79ee4b01f1189597cbc"
-    ampWebUrl: "https://m.huffpost.com/us/entry/us_60f1f79ee4b01f1189597cbc/amp"
-    cdnAmpWebUrl: "https://m-huffpost-com.cdn.ampproject.org/c/s/m.huffpost.com/us/entry/us_60f1f79ee4b01f1189597cbc/amp"
-    type: article
-    provider:
-      name: HuffPost
-      domain: huffpost.com
-    quality: 87
-    images:
-      - url: "https://amp.spot.im/loader.png"
-        width: 375
-        height: 815
-        isCached: true
   - title: "Use of AI to copy Anthony Bourdain's voice for documentary sparks criticism"
     excerpt: "\"I think this is pretty grotesque.\" A New Yorker review of Roadrunner, the new documentary on Anthony Bourdain, is getting extra attention for one anecdote mentioned toward the end. In the article, published Thursday,"
     publishedDateTime: 2021-07-18T00:13:00Z
@@ -142,22 +126,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/sBji7Mo3IGuTwSqkljEU9i5CdqY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BDECJG47LT2QYTA45BURPDYEKU.jpg"
         width: 1200
         height: 856
-        isCached: true
-  - title: "Filmmaker used AI to re-create Anthony Bourdain quotes in new Roadrunner documentary"
-    excerpt: "In an interview with The New Yorker, filmmaker Morgan Neville admitted he used AI and computer algorithms to re-create Anthony Bourdain's voice in several scenes in his new doc, Roadrunner."
-    publishedDateTime: 2021-07-16T21:41:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9796587/Filmmaker-used-AI-create-Anthony-Bourdain-quotes-new-Roadrunner-documentary.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9796587/amp/Filmmaker-used-AI-create-Anthony-Bourdain-quotes-new-Roadrunner-documentary.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9796587/amp/Filmmaker-used-AI-create-Anthony-Bourdain-quotes-new-Roadrunner-documentary.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 52
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/07/16/22/45539747-0-image-a-71_1626469708804.jpg"
-        width: 636
-        height: 382
         isCached: true
   - title: "Creepy or not? AI recreates Anthony Bourdain's voice in new documentary, raises questions"
     excerpt: "The new documentary about Anthony Bourdain’s life, 'Roadrunner', is one hour and 58 minutes long — much of which is filled with footage of the star throughout the decades of his career as a celebrity chef,"

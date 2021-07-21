@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
 type: article
 quality: 89
-heat: 399
+heat: 409
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla knocked $500 off a hardware upgrade for its Full Self Driving subscription after customer backlash"
+    excerpt: "Tesla offered customers with older cars a $1,500 Full Self-Driving hardware upgrade, provoking a backlash. Now, it's charging $1,000."
+    publishedDateTime: 2021-07-21T15:29:00Z
+    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/60a1038ef27b4c0019444b4e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tesla launches its Full Self-Driving subscription package for $199 per month"
     excerpt: "Tesla has officially launched its Full Self-Driving subscription package for $199 per month or $99 for those who have previously bought the now discontinued Enhanced Autopilot package. Tesla FSD Subscription Tesla currently sells the Full Self-Driving package for a one-time payment of $10,"
     publishedDateTime: 2021-07-17T03:33:00Z

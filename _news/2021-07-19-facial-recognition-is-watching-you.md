@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Black teen kicked out of skating rink after facial recognition error"
-    excerpt: "Misidentified, accused of brawling and then kicked out of a roller-skating rink -- the case of a young Detroit girl is the latest facial recognition controversy."
-    publishedDateTime: 2021-07-16T22:15:00Z
-    webUrl: "https://www.cnet.com/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
+  - title: "Researchers disclose vulnerability in Windows Hello facial recognition"
+    excerpt: "A new research report shows that hackers can get around Windows Hello by using a certain type of hardware and eventually gain access to your PC."
+    publishedDateTime: 2021-07-19T14:15:00Z
+    webUrl: "https://www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/?amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: Digital Trends
+      domain: digitaltrends.com
     quality: 89
     images:
-      - url: "https://www.cnet.com/a/img/qIZq1J7Enc-wxvQGg_DySF8SrQk=/1200x630/2020/06/23/bd9975d1-9066-4f4d-8556-e4458dfb957c/gettyimages-1239553143.jpg"
-        width: 1200
-        height: 630
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/mouse-computers-windows-hello-2.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "What are the dangers of facial recognition?"
     excerpt: "Robert Williams was wrongfully arrested after a facial recognition system failed to identify the correct culprit. Mr. Williams is seeking justice in a civil rights lawsuit."
@@ -58,21 +58,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Black Girl Banned From Michigan Skating Rink Because Facial Recognition Software Misidentified Her"
-    excerpt: "Lamya Robinson was asked to leave a Livonia, Mich. skating rink because the facial recognition software mistook her for a different Black girl."
-    publishedDateTime: 2021-07-16T22:35:00Z
-    webUrl: "https://www.blackenterprise.com/black-girl-banned-from-michigan-skating-rink-because-facial-recognition-software-misidentified-her/"
-    ampWebUrl: "https://www.blackenterprise.com/black-girl-banned-from-michigan-skating-rink-because-facial-recognition-software-misidentified-her/amp/"
-    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/black-girl-banned-from-michigan-skating-rink-because-facial-recognition-software-misidentified-her/amp/"
+  - title: "Japanese University partners with Glory on facial recognition payment trial with mask detection"
+    excerpt: "Kindai University in Osaka, Japan, has partnered with AI firm Glory to test a new facial recognition-powered payment system with mask detection capabilities."
+    publishedDateTime: 2021-07-20T20:35:00Z
+    webUrl: "https://www.biometricupdate.com/202107/japanese-university-partners-with-glory-on-facial-recognition-payment-trial-with-mask-detection"
     type: article
     provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
-    quality: 45
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
     images:
-      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/07/Lamya-Robinson-fox-2-detroit-black-enterprise.jpg"
-        width: 932
-        height: 524
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/24141931/face-mask-detection-retail.jpg"
+        width: 1920
+        height: 1152
         isCached: true
 
 secured: "v3i9nDIsRPpWmjwlQ14vfBwbj4i71TMBP9n1pxuGGawpC219totgsPIQ4gxiC40rIQo1du5LYLoDOZzlkeLvAMD1BrjfGN97w+wEoNYLTEwyOnEqGPh5iRwjQfZ/OqrmylsKIqzVT+xrjexQILDCkbpB/5Fl5ihcDfwu456UQIyhIm3e5LKr0y8m0Nnjcm9M/2KD9YJnA+hLQnzEXvsM1bYMk6AdmuSL6NnskZm65cUAGIKpWrePiIaFg/n8drLkCwsWe5PH73rkBrFqamz5U9TJqbQamyOrBex+DT4z2LWuCsuY6dDQ2MHSPuE3orujWl0DFVEEBwRqHwumuwQcHM2TG+95aCP+F5HYEJAxENcad66sS6oU6nVSFDWv0bF3IKgiPEb0g1gM2U2tkILqarEmQIP81x7WHvpDD57BZDBCS4OKr52jVdxreO45LFMD1P7Ei6dEPTY9LuYdex7u9SBu6FKpMIs94SOFVoRdfqXUicmiSHrg/8e61YcsVqnpUYeBnNt0y6TnPXb3n4Z1Fw==;gWwtiPXGHiy4ceAzlyFJLg=="

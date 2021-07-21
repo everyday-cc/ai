@@ -2,21 +2,21 @@
   "page": 56,
   "value": [
     {
-      "path": "_news/2021-06-03-machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study.md",
-      "title": "Machine learning could help with early diagnosis of pancreatic cancer – study",
-      "excerpt": "Scientists developed an algorithm that distinguished between patients who went on to develop pancreatic cancer and those who did not.",
+      "path": "_news/2021-06-09-google-seeking-chief-of-staff-for-health-division-8-more-positions.md",
+      "title": "Google seeking chief of staff for health division, 8 more positions",
+      "excerpt": "Google recently posted several job openings related to its health business. Nine positions the company recently posted: Director's chief of staff, Google Health: will work alongside Google's chief ...",
       "sourceUrl": null,
-      "webUrl": "https://www.kentonline.co.uk/news/national/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
-      "originalUrl": "https://www.kentonline.co.uk/news/national/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
+      "webUrl": "https://www.wsj.com/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/google-seeking-chief-of-staff-for-health-division-8-more-positions.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.kentonline.co.uk/_media/img/K6Y5WP32JE87E9UUDSCM.jpg",
-          "width": 1620,
-          "height": 1080,
+          "url": "https://images.wsj.net/im-343511/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
-      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
-      "publishedDateTime": "2021-06-02T11:02:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "publishedDateTime": "2021-06-08T16:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Kent Online",
-        "domain": "kentonline.co.uk",
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,26 +40,68 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-03-deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027.md",
-      "title": "Deep Learning Market Research Report: Size, Share, Opportunities, Challenges, Statistics, Restraints, Drivers with Key Player by 2021-2027",
-      "excerpt": "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the",
+      "path": "_news/2021-03-26-humanoid-robot-sophia-sells-12-second-video-nft-for-almost-700000.md",
+      "title": "Humanoid Robot Sophia Sells 12 Second Video NFT for Almost $700,000",
+      "excerpt": "Take, for instance, celebrity humanoid robot Sophia, who — or, uh, “which”? — just sold a digital artwork as a non-fungible token (NFT) for $688,888, Reuters reports. Sophia teamed up ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02",
+      "webUrl": "https://www.reuters.com/article/us-hongkong-robot/nft-artwork-by-humanoid-robot-sells-at-auction-for-nearly-700000-idUSKBN2BG3GB",
+      "originalUrl": "https://futurism.com/the-byte/humanoid-robot-sophia-sells-12-second-video-nft-for-almost-700000",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210325&t=2&i=1556115825&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N247",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BG3GB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG3GB",
+      "publishedDateTime": "2021-03-25T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-apple-nissan-talks-on-building-autonomous-car-ended-after-disagreement-on-branding-report.md",
+      "title": "Apple, Nissan talks on building autonomous car ended after disagreement on branding: report",
+      "excerpt": "Apple Inc approached Japan's Nissan ... autonomous car project, but the talks ended after disagreement over branding, the Financial Times reported. The contact was brief and the discussions did ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/nissan-says-not-talks-with-apple-over-autonomous-car-project-2021-02-15/",
+      "originalUrl": "https://www.foxbusiness.com/technology/apple-nissan-talks-on-building-autonomous-car-ended-after-disagreement-on-branding-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/y7wMop6BV3onQ1gkfC5k1wpUGX4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4PO3GCC6VFKIZAWCZYWKNXRNAM.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,14 +111,56 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T10:55:00-07:00",
+      "publishedDateTime": "2021-02-14T21:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-10-19-to-antarctica-and-beyond.md",
+      "title": "To Antarctica and beyond",
+      "excerpt": "There’s a third less oxygen than at sea level, impairing brain function ... body-composition changes in prolonged periods of low sun exposure and reduced physical activity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics",
+      "originalUrl": "https://edition.cnn.com/interactive/2019/10/world/antarctica-and-beyond-scn/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sciencenews.org/wp-content/uploads/2021/02/021321_LS_brain-kavli_feat_1440.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics/amp",
+      "cdnAmpWebUrl": "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics/amp",
+      "publishedDateTime": "2019-10-18T18:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -92,24 +176,23 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-02-mlops-startup-iterativeai-nabs-20m.md",
-      "title": "MLOps startup Iterative.ai nabs $20M",
-      "excerpt": "Iterative.ai, an MLOps platform that maintains a number of open source data management projects, raised $20 million in funding.",
+      "path": "_news/2017-02-11-saffron-technology-how-intels-cognitive-computing-acquisition-thrives-on-chaos.md",
+      "title": "Saffron Technology: How Intel's cognitive computing acquisition thrives on chaos",
+      "excerpt": "Gayle Sheppard, CEO of Saffron Technology, outlines the company's history, explains how it fits into Intel's AI portfolio ... to the top IT professionals, all in an ad-free experience.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/",
-      "originalUrl": "https://venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/",
+      "webUrl": "https://www.businessinsider.com/ibm-ceo-arvind-krishna-on-watson-ai-enterprise-future-plans-2021-5",
+      "originalUrl": "https://www.techrepublic.com/article/saffron-technology-how-intels-cognitive-computing-acquisition-thrives-on-chaos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "url": "https://i.insider.com/609ae0ed342837001822cd17?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -119,154 +202,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/02/mlops-startup-iterative-ai-nabs-20m/amp/",
-      "publishedDateTime": "2021-06-02T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-aws-deeplearningai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization.md",
-      "title": "AWS, DeepLearning.ai aim to bridge scaling gap with machine learning models via Coursera specialization",
-      "excerpt": "Bratin Saha, vice president and general manager of machine learning services at AWS, said customers ... What is deep learning? | What is artificial general intelligence? In an interview ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "originalUrl": "https://www.zdnet.com/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "publishedDateTime": "2021-06-02T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-ibm-ai-tool-reduces-monotonous-work-tasks.md",
-      "title": "IBM AI Tool Reduces Monotonous Work Tasks",
-      "excerpt": "Watson Orchestrate is designed to drive adoption of IBM’s hybrid cloud and AI solutions. Looking back, IBM was the first vendor to roll out a commercial AI product with Watson, but since then, it’s lost that leadership position to AWS, Google, Microsoft, and almost everyone else.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nojitter.com/ai-automation/ibm-ai-tool-reduces-monotonous-work-tasks",
-      "originalUrl": "https://www.nojitter.com/ai-automation/ibm-ai-tool-reduces-monotonous-work-tasks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nojitter.com/sites/default/files/Watson_AdobeStock_307668410.jpeg",
-          "width": 774,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T08:31:00-07:00",
+      "publishedDateTime": "2017-02-10T09:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "No Jitter",
-        "domain": "nojitter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-amazon-aws-machine-learning-summit-keynote-kicks-off-with-alexa-toilet-humor.md",
-      "title": "Amazon AWS Machine Learning Summit keynote kicks off with Alexa toilet humor",
-      "excerpt": "Sivasubramanian called out Amazon SageMaker, the company's development environment, which is the way the company brings machine learning frameworks such as PyTorch and TensorFlow to data scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-aws-summit/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-aws-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/02/076bf4fd-f23e-4608-8b14-e3e9e21a0d4b/aws-ml-summit-sivasubramanian-2021.png",
-          "width": 1782,
-          "height": 939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-aws-summit/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-summit/",
-      "publishedDateTime": "2021-06-02T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -282,888 +227,9 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace.md",
-      "title": "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace",
-      "excerpt": "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21392407",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21392407",
-      "publishedDateTime": "2021-06-02T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-futurework-podcast-a-driverless-transport-future.md",
-      "title": "FutureWork podcast: A driverless transport future?",
-      "excerpt": "said the tens of thousands of people employed in driving jobs in Scotland shouldn't worry about being replaced by robots and artificial intelligence any time soon. \"There's still some way to go ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scotsman.com/business/futurework-podcast-a-driverless-transport-future-3258804",
-      "originalUrl": "https://www.scotsman.com/business/futurework-podcast-a-driverless-transport-future-3258804",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.scotsman.com/webimg/b25lY21zOmEyY2ZmYzkzLWNiYjctNDBjYi1hM2Y4LWM5MjVjNTg2MTQ1ZTowN2E3OGUyOC04NjY3LTQ1MGMtOWUzOS0yMjMyNDBmNGE0OWY=.jpg?width=2048&enable=upscale",
-          "width": 2048,
-          "height": 1364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Scotsman",
-        "domain": "scotsman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-self-driving-shuttle-market-2021-global-business-developments-research-by-size-and-share-competitive-landscape-and-growth-till-2027.md",
-      "title": "Self-driving Shuttle Market 2021: Global Business Developments, Research by Size and Share, Competitive Landscape and Growth till 2027",
-      "excerpt": "Jun 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Self-driving Shuttle",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-shuttle-market-2021-global-business-developments-research-by-size-and-share-competitive-landscape-and-growth-till-2027-2021-06-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-shuttle-market-2021-global-business-developments-research-by-size-and-share-competitive-landscape-and-growth-till-2027-2021-06-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances.md",
-      "title": "Microsoft Azure launches new Nvidia A100-powered supercomputing instances",
-      "excerpt": "Microsoft’s cloud computing service Azure has launched what it claims is the fastest public cloud supercomputer. The new service named Azure ND A100 v4 Cloud GPU instances is powered by Nvidia’s A100 Tensor Core GPUs and is targeted at users with high performance and demanding workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
-      "originalUrl": "https://www.techradar.com/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances",
-      "publishedDateTime": "2021-06-02T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-amazon-sns-gains-message-archiving-and-analytics-via-amazon-kinesis-data-firehose.md",
-      "title": "Amazon SNS Gains Message Archiving and Analytics via Amazon Kinesis Data Firehose",
-      "excerpt": "Susie Xia discusses the video encoding system used by Netflix, and the tools and techniques used to analyze performance and to improve the system efficiency. Steve Cosenza discusses why Twitter's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/05/amazon-sns-kinesis-data-firehose/",
-      "originalUrl": "https://www.infoq.com/news/2021/05/amazon-sns-kinesis-data-firehose/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/05/amazon-sns-kinesis-data-firehose/en/headerimage/amazon-sns-kinesis-data-firehose-header-1622511210642.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-realising-enterprise-scale-machine-learning-with-data-governance.md",
-      "title": "Realising enterprise-scale machine learning with data governance",
-      "excerpt": "Realising the promise of AI/ML calls for organisations to scale its use enterprise-wide and promote the culture of an insights-driven organisation. Additionally, data is the fuel that keeps machine learning (ML) going,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/personal-finance/world/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm",
-      "originalUrl": "https://www.cnbctv18.com/personal-finance/world/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/realising-enterprise-scale-machine-learning-with-data-governance-9518121.htm/amp",
-      "publishedDateTime": "2021-06-02T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-dhl-extends-warehouse-automation-partnership-with-locus-robotics.md",
-      "title": "DHL extends warehouse automation partnership with Locus Robotics",
-      "excerpt": "Robotic process automation is no longer a science experiment. This technology is no longer about figuring out what works. The time to consider whether to automate your warehouses has passed.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics",
-      "originalUrl": "https://www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/06/DHL-locus.png",
-          "width": 1144,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/dhl-extends-warehouse-automation-partnership-with-locus-robotics/amp",
-      "publishedDateTime": "2021-06-02T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies.md",
-      "title": "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies",
-      "excerpt": "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), natural language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21387911/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-lang",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21387911/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-lang",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21387911",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21387911",
-      "publishedDateTime": "2021-06-02T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-10-ways-ai-and-automation-can-help-agencies-succeed.md",
-      "title": "10 Ways AI And Automation Can Help Agencies Succeed",
-      "excerpt": "Artificial intelligence and automation have transformed the way people do business and show no sign of slowing down. Smart agencies are seeking new ways to leverage both.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b69b04d65af80e8d7dd319%2F0x0.jpg",
-          "width": 1200,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/02/10-ways-ai-and-automation-can-help-agencies-succeed/amp/",
-      "publishedDateTime": "2021-06-02T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count.md",
-      "title": "Cyclist Use Of Key London Bridge Higher Now Than Bike Boom Of 1949, Finds AI Camera Count",
-      "excerpt": "AI-powered traffic counting has found that cyclists accounted for 41% of all road users on Blackfriars Bridge, London.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carltonreid/2021/06/02/cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count/",
-      "originalUrl": "https://www.forbes.com/sites/carltonreid/2021/06/02/cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b77445def8ce96737dd31b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carltonreid/2021/06/02/cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carltonreid/2021/06/02/cyclist-use-of-key-london-bridge-higher-now-than-bike-boom-of-1949-finds-ai-camera-count/amp/",
-      "publishedDateTime": "2021-06-02T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-canadas-top-women-in-fintech-and-blockchain-honouree-roundup.md",
-      "title": "Canada’s Top Women in Fintech and Blockchain honouree roundup",
-      "excerpt": "Not unlike ITWC's Top Women in Cyber Security Celebration, the interest in this year's inaugural Top Women in Fintech and Blockchain Celebration",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320",
-      "originalUrl": "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/10/GettyImages-912547822-e1539707985381-620x249.jpg",
-          "width": 620,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/canadas-top-women-in-fintech-and-blockchain-honouree-roundup/118320?amp=1",
-      "publishedDateTime": "2021-06-02T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-machine-learning-is-not-a-better-horse.md",
-      "title": "Machine Learning Is Not A 'Better Horse'",
-      "excerpt": "Too often, it can sound like the trucking industry views machine learning as a “better horse.” It is common to hear the idea that better, bigger data will allow the industry to better forecast prices far into the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f57837b502c3222019364e8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/amp/",
-      "publishedDateTime": "2021-06-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare.md",
-      "title": "Want Perfect Summer Skin? Try Proven Skincare’s AI-Based Custom Skincare",
-      "excerpt": "New skin care can be daunting. Where to start? What to buy? What will work? There are never really any guarantees. There is one brand, though, that does get as close to a guarantee as possible when it comes to skin products,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/06/02/want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare/",
-      "originalUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/06/02/want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b76e4c2114e78b4fba0f41%2F0x0.jpg",
-          "width": 1080,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/06/02/want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccasuhrawardi/2021/06/02/want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare/amp/",
-      "publishedDateTime": "2021-06-02T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans.md",
-      "title": "AI Challenges For The Health IT Industry: Can We Trust AI Like Humans?",
-      "excerpt": "Can we expect complete automation of medical processes in the near future, given the issues that AI systems face even in the most advanced areas of healthcare? I have touched on some of the aspects in my previous article,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b66240688fd548d87dd31b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/02/ai-challenges-for-the-health-it-industry-can-we-trust-ai-like-humans/amp/",
-      "publishedDateTime": "2021-06-02T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-private-clouds-hybrid-clouds-the-next-evolution-of-cloud.md",
-      "title": "Private clouds, hybrid clouds the next evolution of cloud",
-      "excerpt": "while MultiChoice South Africa answers customers’ inquiries faster than ever with an AI-powered virtual agent – an IBM Watson assistant – to support its call centre agents and help to ensure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/mQwkoq6P66z73r9A",
-      "originalUrl": "https://www.itweb.co.za/content/mQwkoq6P66z73r9A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/F1jHlpMWiZyeC9pL8iCHT__UcV1svOvTv_H3Zk-rjONPXrMte8n5ef_MMIWrMJ2M6morHJ_j9Gw-LaZBzySEA5XhCo-246bqfTxXmA=w816-h428",
-          "width": 764,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/mQwkoq6P66z73r9A",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mQwkoq6P66z73r9A",
-      "publishedDateTime": "2021-06-02T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition.md",
-      "title": "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition",
-      "excerpt": "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues.md",
-      "title": "TruEra launches tool for spotting and contextualizing AI bias, other issues",
-      "excerpt": "AI startup TruEra lanched an enterprise tool for monitoring and diagnosing issues in machine learning models, including bias.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/",
-      "originalUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Monitoring-Illustration-20210601.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/amp/",
-      "publishedDateTime": "2021-06-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-uks-ai-startup-scene-has-grown-600-percent-over-past-decade.md",
-      "title": "UK's AI startup scene has grown 600 percent over past decade",
-      "excerpt": "The country's £32.76 billion AI sector brought in £2.41 billion worth of investment in 2020 alone, according to Tech Nation",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622627477/itpro/AI_UnionJack_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade?amp",
-      "publishedDateTime": "2021-06-02T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-catching-up-on-build-2021-ai-and-arm.md",
-      "title": "Catching up on Build 2021: AI and Arm",
-      "excerpt": "What were the key announcements at Build this year? I’ve already looked at the Azure data platform updates, so it’s worth a quick dive into what I think are the most important pieces of news for anyone building applications on Microsoft platforms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.html",
-      "originalUrl": "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/02/programmer_graduate_certification_megaphone_announcement_bull-horn-100787980-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.amp.html",
-      "publishedDateTime": "2021-06-02T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
   ],
-  "nextPage": 57
+  "nextPage": null
 }

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft-powered autonomous beach-cleaning robot is here to clean our shores"
+    excerpt: "A Dutch startup aims to rid beaches of cigarette butts, and Microsoft's artificial intelligence is helping the robot learn how to do it."
+    publishedDateTime: 2021-07-21T15:15:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/microsoft-autonomous-beach-cleaning-robot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 103
+    images:
+      - url: "https://www.cnet.com/a/img/uFEX43607aFPkDv2GM04zBfSj68=/2021/07/21/015fc565-b217-46b4-9eb8-1ec97c805fd1/ogi-tech.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
     excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
     publishedDateTime: 2021-07-20T08:11:00Z
@@ -39,20 +55,17 @@ related:
         width: 4432
         height: 2955
         isCached: true
-  - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
-    excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"
-    publishedDateTime: 2021-07-20T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
+  - title: "Machine Learning Software Market 2020-2026 | Microsoft, Ibm, Scikit-Learn, Google Cloud Tpu, Figure Eight"
+    excerpt: "The research report of the global Machine Learning Software market has recently added by The Research Insights to its vast database Some of the recent advancements in technologies have been elaborated to get up to date knowledge of businesses There"
+    publishedDateTime: 2021-07-21T05:27:00Z
+    webUrl: "https://www.openpr.com/news/2333310/machine-learning-software-market-2020-2026-microsoft-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2333310/machine-learning-software-market-2020-2026-microsoft-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333310/machine-learning-software-market-2020-2026-microsoft-ibm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/680972/Redox_Logo.jpg?p=facebook"
-        width: 902
-        height: 475
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
 
 secured: "qpi6UlLUQVZmn6zf4k3eig3WtaRyKm70+jx3EwpaUE2qC1RVBOqw7Y1fs4R+H/wLMVuqJVT+iwtXPi6zbBPfI7PP0dEdRqdCjOTlwIBT/b2Cz3YCUaGo9Gh3HNZb7DmXG2COqxLpqY2KcUyyPNuodUhwmIxOkUHzFU5+BE8WxMHng7irrD0k1KuvRr9exuOuXBmZkM7nCrCzNmunCW9qqzFjOZBQToSWzsV0SrPZb6ZRX6/ameghDs3jObAYyklYDEgt5eHqWjUJSJZpA0Qkn6egxNvpBHNDK7BzwCnMF/iGVuhdK/ZuM+IUsX9bZPbdXdTACoITY4eTp6h3m/1cI5R99pHgLUdb5UYiUV74AuI=;Y5+knMYTcMWqIwWfCpSJhg=="
 ---

@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Weekly: Can AI predict labor market trends?"
-    excerpt: "Some firms claim to use AI to predict labor market trends. To what extent is this possible? Can bias creep in?"
-    publishedDateTime: 2021-07-16T22:30:00Z
-    webUrl: "https://venturebeat.com/2021/07/16/ai-weekly-can-ai-predict-labor-market-trends/"
-    ampWebUrl: "https://venturebeat.com/2021/07/16/ai-weekly-can-ai-predict-labor-market-trends/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/ai-weekly-can-ai-predict-labor-market-trends/amp/"
+  - title: "A Run-down on Deep Learning Trends Driving AI Development"
+    excerpt: "Deep learning has evolved to be the power behind artificial intelligence models. Therefore, in the digital era, deep learning trends driving AI development is taking centre stage in the growth of technology."
+    publishedDateTime: 2021-07-21T12:30:00Z
+    webUrl: "https://www.analyticsinsight.net/a-run-down-on-deep-learning-trends-driving-ai-development/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/money_in_pocket.jpg?w=1200&strip=all"
-        width: 1200
-        height: 865
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/A-Run-down-on-Deep-Learning-Trends-Driving-AI-Development.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "6/lf103VmkrBhW/mrNYNBDnjXt9pztYf1OoB1i1gYLaHErn5no/AiWL2z2j7dkk/BHshQzx/Wp6xLcHD3oEZGxWMlDcMlivZjiysvaOkYUepSAl5qRrwBdzR6IWeAGceRT3FpRquIv5u1r4m85aUYbSIZGkJYZXei1nCpQybn6MVOXZSFd1nJW73qtCqy82jF4VzfLnjjsyckp+wV8PTeAllikfObORuIZsIQ9mtSWyB/6b8TZZXGeA2uC065A0mWKC9iSQLcC32/hxxEcuejOCB66QFsyQ73QOQ2KVCxBGZSx+9WRdbMcEBWOuM35LqktXFnNOO65YYNSfYf+DfuJQgEJtDkQyL3Jc5cCZuzuU=;ZVRocqv+RnTc6NucSXcxiw=="

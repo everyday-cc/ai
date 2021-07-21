@@ -3,8 +3,8 @@ category: news
 title: "AWS Announces the General Availability of Amazon HealthLake"
 excerpt: "AWS announced the general availability of Amazon HealthLake, a fully-managed, HIPAA-eligible service. With the service, healthcare providers, health insurance-, and pharmaceutical companies can securely store,"
 publishedDateTime: 2021-07-21T12:10:00Z
-originalUrl: "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/?topicPageSponsorship=ae1ccc00-3b0d-41ca-8a21-81f941eccbda&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops"
-webUrl: "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/?topicPageSponsorship=ae1ccc00-3b0d-41ca-8a21-81f941eccbda&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops"
+originalUrl: "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/"
+webUrl: "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/"
 type: article
 quality: 54
 heat: -1
@@ -55,7 +55,30 @@ related:
         width: 4432
         height: 2955
         isCached: true
+  - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
+    excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"
+    publishedDateTime: 2021-07-20T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/680972/Redox_Logo.jpg?p=facebook"
+        width: 902
+        height: 475
+        isCached: true
+  - title: "1Strategy Announces Support for AWS for Health Initiative"
+    excerpt: "Strategy, a TEKsystems Global Services company and Amazon Web Services (News - Alert) (AWS) Premier Partner, announced support for the AWS for Health initiative to help accelerate solutions in genomics research."
+    publishedDateTime: 2021-07-21T15:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-1strategy-announces-support-aws-health-initiative-/2021/07/21/9414238.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
-secured: "oiFv7lMjkiJebMHwn0tEKFDO911N/w+YiJUJQc2q9wStAFqf2Sq6rbZnUN9ccTtW4lnIP+Bh3eloJpWLSOwGtExAegcAZWSBWMHfH2yhDCH06gdAejLkHcj4+Y4+VU/MwOISpGqR0RpJnPCC468mdg/GLBUtzNGL7WOZ0kL3SA295KK5V6H/Zg4Y7d82Ow0qRQ/So0JKRy5rdIXMfF8ae5OIju/SME36vf115FeahZrrf5zzEkfc7syqjiXC8UJccd88MiSKF6ra4RIwkFwce2cv97KOTg3cVy6jVgZ25H9L2mvl5UvqWO4Y9U+bjVYTuwHF01Lgh8kqeOGDMnR2sTUPPd0SIFMIXDAJ7r0IfiM=;XEN6My5fuc9inU7l5h0B/A=="
+secured: "XcAwuoB8X977K6sYYWM3d+B4JP7UxSpfRO/HNQJdMBxnC6nKdOC4KtM6apAzHBM4aZDYQkArdXcvyTPzojQ7eSNLdvOBfO6q5o4ge6wuaGq6M0zE7u3tvlqdKuYEWaKT5ew/tGXofFT3iKjtUuIcT4ZrztkaeEXIlw1lK9NliFInREXNVpieefuEcLRA1MIoP4SgWmay5UFtBSIL0ET29GhgLqXwCDlaI6+zyRv19tdXT0frrU7L+ceO9jbjhs+nDy+rRPBKEbFB3lMWhAwjo9KQe8QFNF0ci+FXlmU0ba9qJmI73tR6XLrVom913Q6x2fHdt++FllxmE6Q4RikHFHqxS1yomQm4sNFuO1xy7J0=;aZJ+adXLzBkPs8CzKoPD/g=="
 ---
 

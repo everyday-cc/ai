@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/a-run-down-on-deep-learning-trend
 webUrl: "https://www.analyticsinsight.net/a-run-down-on-deep-learning-trends-driving-ai-development/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     height: 500
     isCached: true
 
-secured: "mC29FJ5npo1gSzhERbwCLu2IpwjQdPUMI84p5vW7cFxcFXqwA9woOpqZb/nDK7i9z+KEDu19Pg/6ZCb5hmu8r1SXyO3f+pGCEBn5TLRM7rFe3cDMfG7rG2ght9WcTlsoTxIM9+sbkCkKghVlg6cWHiP67QSQHrPKPPncixQnryrw1Q0l0y5uFLSP3RdV9WC5bOFJnzgRrUjiQzRNKVatcnXBYpSKcig5KnweB1LUhaC1iNKPfx8AUz08hpO5nfZbvwkAYPOx51amaXk+1tLcuXYbp5K/5qBfwluEdunXkuc8NgbWWbKc2Wc3ALV6DoHCZrsnsw6tMZx+41KBEt+vEts7VTxVaNe9JAg+PQqAv8I=;EaEO8wl2yM8ENoA/1kGAPw=="
+related:
+  - title: "Emerging Trends: Artificial Intelligence for data economy"
+    excerpt: "According to a survey[1] of 1200 companies across the globe, more than 60% of data service providers believe that Artificial Intelligence (AI) is the future of their business. And quite rightly so, given that the growth of AI to unlock the value of data is ..."
+    publishedDateTime: 2021-07-18T12:56:00Z
+    webUrl: "https://www.wlv.ac.uk/business-services/funding-and-support/solvd/emerging-trends-artificial-intelligence-for-data-economy/"
+    type: article
+    provider:
+      name: University of Wolverhampton
+      domain: wlv.ac.uk
+    quality: 37
+    images:
+      - url: "https://cdn-wlvacuk.terminalfour.net/media/departments/business-solutions/images/solvd/Fahad-Blog-Image-1-437x291.jpg"
+        width: 437
+        height: 291
+        isCached: true
+
+secured: "7ZZWT7FzRmN1wW4KaiJgey64gVdRV09Kaeiqc5Jo98NNXOc7yMj+clnsDuLoXgF1Zkgtfk/xfMLXMrI3PePuDdwYmiDvaU4LPORYuY0gsOIAWSwlk9R/9A0T2j9izWMeaGGCkVWRyuif8K2/zWgpPsG6mFPtS24iaejjc1+1fapZ377Z2br7Ak5j7zM99O3+hvD+Zzdr7ld5/RJE/RmDiO3jY2lgagUXe4vTfGMAGUYpW+sqPAmobBAxPuqOu/rZhJmp4BNqpZD2mZQi6fHh485nGwJKPaJJELlb8XgE9OcaGSmLVqvnwLaLZMMVZbGIiDrTSUJPWRPlT5i/WiKHgShW90r4xnIMXi4Ai+Szjzgmf7rHrHVsDMJkqMMlSzkH57BN9j5toww0B2t4XevNmXa3G6ITdvxPMYReHCpBzUrbsfmnG31pPX3GQMKCoFDrn6J393tOQivk0magAoYtkqHGIlvMYXvRBMOp1OiuDBL9TDtj/aLzYqqUSeRsVl0iFm0Zj0bIRa5nIzsO/isJlA==;FR7+0nRqS9Ce8qG0cdVquQ=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Commentary: Growth of data science in financial services"
-excerpt: "Driven by a need to increase efficiency and effectiveness in their ability to make predictions, money managers have talked about, considered and held data science in thrall for much longer than other areas of financial services — and in much more depth."
-publishedDateTime: 2021-07-07T11:00:00Z
-originalUrl: "https://www.pionline.com/ja/node/961631"
-webUrl: "https://www.pionline.com/ja/node/961631"
+excerpt: "Today, financial services organizations have high expectations of what can be achieved with machine learning and other data-driven technologies. A common ambition — and belief — is that these ..."
+publishedDateTime: 2021-07-07T11:13:00Z
+originalUrl: "https://www.pionline.com/industry-voices/commentary-growth-data-science-financial-services"
+webUrl: "https://www.pionline.com/industry-voices/commentary-growth-data-science-financial-services"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 600
     isCached: true
 
-secured: "JVLAkSXGJkaEbP1I1ziHrFI4T/4Cv9mrc1Iypg3YAo0rmn2qX0PMQ1FC/sqs8ptKxIpqyLJAgl2Rvj1ru8Pmd89awkMdteWz7m2NarCt3DaxelLuHf+sG0nVDNvKQRZq+GVW8HYaBmjOOHnXDh6HJD4ewXvdDDFPF5je5/TImu2aVQwETKBCOlGuIXxgLEC0T9S6658HCARQM21PxwNl2ybj4VzYjq8ULv/GeSDsH2McYN9/yt84qfLc6TuWmbZPvHY1qawX8hM3nSxLeVo8biHA1J5SNCS3GJj8hjskkTaLLDXy04UgTLZOx31lP6yIHTVPAlyOmpUpBdNbOrXmpQZT0sRChTglTUbDFGriG8U=;GtyYgymU75gjbpKHQAPXPg=="
+secured: "Kjti+kavRrN9kzPgrhMptLANDMeaJQj+WFsTi4mlAOFisNSZamiSVo41rtkp7rNxbLsqQe4vJz+6McWgIMwIZg8LjjUjTEHLkTmDr9jeRpwYF/AVKzM1Kh9Che/XQ+xxqPArTbsuFBhgAwxNvhmsuvt8gSH071dQ8a8G8YvQykQ772gfPlhYFZ+abUlfNZD6sIOpOSLOXTp1Fv9ZdaNqKUmQvwlWR0MUoRDkaCcFbABMWnH5IJhL5/vQGJoPGMpWomjaW6n80jUjwfQ35PACrZlkoqLgHSTXper4mMA9uKzGfExDzYOBX+1l6x1KDZVUSEpO5Ivchcc2cYyRcFykrpG8mnC+zQXHPAtGACZiJuw=;ow9+2qM/hRPQjkVKCjRKGQ=="
 ---
 

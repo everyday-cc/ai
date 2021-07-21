@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-07-20/intel-s-mobiley
 webUrl: "https://www.bloomberg.com/news/articles/2021-07-20/intel-s-mobileye-runs-self-driving-test-cars-in-new-york-city"
 type: article
 quality: 54
-heat: 125
+heat: 124
 published: true
 
 provider:

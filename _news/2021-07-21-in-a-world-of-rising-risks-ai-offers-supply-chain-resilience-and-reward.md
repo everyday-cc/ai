@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/21/in-a-world
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/21/in-a-world-of-rising-risks-ai-offers-supply-chain-resilience-and-reward/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 793
     isCached: true
-
-related:
-  - title: "Importance of AI in Remote Learning"
-    excerpt: "Educators are using AI-enabled Learning Management System to track their student's progress (LMS). The primary purpose for creating LMS was to improve the learning experience with Artificial Intelligence (AI) support."
-    publishedDateTime: 2021-07-16T21:09:00Z
-    webUrl: "https://www.cioapplications.com/news/importance-of-ai-in-remote-learning-nid-8110.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/l2wfimg---6.gif"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "5Ph5f+f9EyKqXLMALEzSnezJMhEDEoJ0UxdOC0HfdmA4ztNWsqOXibykq/2n8bhe860rvw07O1hLKqzO1oCzA2zZBF0tyK+DhAbdzBNNBZaYVYSawkSKf3zro0d9Hm7GJoR8RHnqPsFYaZp3Lw4YyHXaClADDfsbj7cInjUdhdJNLlXLeCjYAqkl3nC867OolInEVuTb5PUUtdXwoK6gsDAJLcuj7tVz8pjswITC5dU1xhTCFSb6d+J2AjZB+iOZZIB/zMRFggh18+hkL5BDZSo8hmxIHXz52AktGHzHvJ9Uw58K3mfzVr7BIuNyGK71OCja/+ccP7d3VFqCI4pTTIgE8m4W630IMkj8h5Vz11p/7CdJShYfjQ4vaIOF4CDP2Af/Eg+Vf79pWdO4MGpvIbb/QtSw+A4O8OeqLnnW+SYSOM4ctBlEjtCh0FP2HHhv5UIEsgYKjTBo4xwycq5z3ur/KXFOENbLJJ2M4wDv+lu/WZ5FrDzK/L6O57JN/Di0hI9Wvmm388uH4t1x5q9Pdw==;kJY2NIMEVH2bZzQk6A/syg=="
 ---

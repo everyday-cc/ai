@@ -1,18 +1,20 @@
 ---
 category: news
 title: "What machine learning can offer Nigeria's healthcare system"
-excerpt: "Imagine it's 2030 - and a typical day in a Nigerian healthcare setting. In earlier decades, when a patient walked in, they could see piles of folders and a clutter of pens scattered all over the"
-publishedDateTime: 2021-07-21T08:52:00Z
-originalUrl: "https://www.bizcommunity.com/Article/196/1/218156.html"
-webUrl: "https://www.bizcommunity.com/Article/196/1/218156.html"
+excerpt: "Imagine it's 2030—and a typical day in a Nigerian healthcare setting. In earlier decades, when a patient walked in, they could see piles of folders and a clutter of pens scattered all over the office."
+publishedDateTime: 2021-07-21T15:30:00Z
+originalUrl: "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.html"
+webUrl: "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-machine-nigeria-healthcare.amp"
 type: article
-quality: 56
-heat: -1
-published: false
+quality: 76
+heat: 96
+published: true
 
 provider:
-  name: Bizcommunity
-  domain: bizcommunity.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
@@ -20,9 +22,9 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://biz-file.com/c/2107/619898-625x325.jpg?2"
-    width: 625
-    height: 325
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/what-machine-learning.jpg"
+    width: 926
+    height: 579
     isCached: true
 
 related:
@@ -55,6 +57,6 @@ related:
         height: 664
         isCached: true
 
-secured: "kdTfu7Hd1MA06/KH0qkfLNivWiUo/z+zSaf5tg4+1RCxPZ0bIo5PVQlHaLoSo25DKu/xfOdGOvkuj3eBAZJfWXurz8F82qlIS4k/iKSS2e3hUZi5O8Nq9dfqUKfQRk2DrmM1a4Mok9g01Wcx6PtfPGqfUZHgNObCzEtiCmYpYwrwJjslVS520jHl6pG4bmBOqnADcxcnQCIchRTop8W62MqEPE150P1EJ4n6OCbFok9ANQAogqHqP7GK1T1V05CkDZqT2qGYvs+nA1S0GaJ29GzEhvajDoQhAqau/XJcJ6obhhnGSlCV1na7G76tH53XYSuv5akoaGdaNphJ2455I/tgAvB3BjI8YW/ljtFsquk=;TTgLxSWPEFtYzCmEEuXXWA=="
+secured: "NItZPjOlIuaTsVN70mxgQA8A7cKomQxmmOY5CZJ8oW1oTLcHOIaK/5f0Qtm4DcE6M2ahqQHhgLXzG+cs0TearQ2lviJIQ3Bzu2KlVYkpppOEH2qp4BMnhB5KcE+P1xYYlmibOz0aHLBFKvGW4ggdthNBZTM4XyZtxhBAT+VUQqMDtQdRnAyDsBUBt9am/PNQ1W3Xgg0TpE3afQnQHSPSSLVJOwWXvlc4Ln2bNYwHbgAsEx/yDo/1dqXRdRDZLbHdJ6a/hcAMQr4UmfCos01mud6WpJrMEmhgMsqezjG4y9EGu2NCOhMSLIYZSgjuhf2cDsnU9Vq+pznKbFZIlUGGlYOxTdJ4eWtXjiJbJNt3Rus=;2StPwtcGygHvgqanzhlZZA=="
 ---
 

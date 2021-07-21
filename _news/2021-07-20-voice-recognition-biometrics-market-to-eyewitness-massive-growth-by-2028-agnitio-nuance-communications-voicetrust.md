@@ -26,6 +26,17 @@ images:
     height: 533
     isCached: true
 
+related:
+  - title: "Cognitive Services market Manufacturers, Research Methodology, Competitive Landscape and Business Opportunities by 2026"
+    excerpt: "It sheds light on the companies that make up a large portion of the global Cognitive Services industry in terms of sales Companies considered and profiled in this market study: Microsoft, IBM, AWS, Google, Nuance Communications, Baidu, SAS, Qualcomm ..."
+    publishedDateTime: 2021-07-17T00:39:00Z
+    webUrl: "https://ipsnews.net/business/2021/07/17/cognitive-services-market-manufacturers-research-methodology-competitive-landscape-and-business-opportunities-by-2026/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
+
 secured: "IQ/WvUAo4YjsN2SESwzNwV/j91uETOh+s6Ygpdq5JwmdmAb7eu6INxDPLOhVNb7s7pIl8QF9TG5gozVmqOOtDpZ4ZfxIcdL/BhHMl7s4BLDF6Cx8vNhaBugyu0G2wvF+KhdnOro+gC9EtWgpAvFLU77wP7oSHoqXO9IKUMHKNqcDmg0C5GoVxj2nN5v5Hd2Qt7xitcF+wYobwJVsXbUXFCzgIZ9uMccredqWntADpwmwLcvctgKsJtVzMrfRLIuGCosUC2Qy5evxJh2sChBTOTGedPYVpknIfnP3ImXL35sMlI+sMk9u+DfsMgI1KAvvs7B86Th5nYiT3WAyTnm2Ia6OGQ1BHv1rtzUTIBM6G+s=;ibGdriH37PZ0NsCIRTm6jw=="
 ---
 

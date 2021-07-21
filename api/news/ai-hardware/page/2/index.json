@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-07-oneplus-nord-2-will-use-a-customized-version-of-mediateks-flagship-chip.md",
+      "title": "OnePlus Nord 2 will use a customized version of MediaTek’s flagship chip",
+      "excerpt": "OnePlus and MediaTek have partnered together to work on the OnePlus Nord 2 5G. The forthcoming smartphone will use a custom Dimensity 1200 processor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/oneplus-9-pro-camera-module-back-hand.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/oneplus-nord-2-5g-mediatek-dimensity-1200-news/?amp",
+      "publishedDateTime": "2021-07-07T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-ai-enabled-socs-handle-multiple-video-streams.md",
       "title": "AI-enabled SoCs handle multiple video streams",
       "excerpt": "Ambarella launches two devices for computer vision and AI processing from multiple or single inputs in security cameras and smart city systems. Image",
@@ -1367,49 +1419,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-architectural-considerations-for-ai.md",
-      "title": "Architectural Considerations For AI",
-      "excerpt": "However, the architecture of the GPU has certainly evolved. The predominant GPU architecture in the data center today looks more like an AI chip, something designed from scratch, compared to a GPU from 2016.” The same is true for FPGAs that now contain ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/architectural-considerations-for-ai/",
-      "originalUrl": "https://semiengineering.com/architectural-considerations-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/cropped-multi-AdobeStock_183702819-1-2-21-original-copy-1024x551.jpg",
-          "width": 1024,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

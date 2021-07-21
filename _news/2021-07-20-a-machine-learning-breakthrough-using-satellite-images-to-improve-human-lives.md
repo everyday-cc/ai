@@ -59,6 +59,15 @@ related:
         width: 777
         height: 389
         isCached: true
+  - title: "A machine learning breakthrough: using satellite images to improve human lives"
+    excerpt: "New machine learning technology has devised a machine learning system to tap the problem-solving potential of satellite imaging. The low-cost, easy-to-use technology could bring satellite image access and analytical power to researchers and governments worldwide."
+    publishedDateTime: 2021-07-20T17:12:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210720114322.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
 
 secured: "XqMJAfKkrYwIDmq+D6cdTXWaCBIc0UAsmnzQjn1hv5OSns2PqyTuweVi54+5D9syrHbCk5UEY8E1vc2D8WeNrUgOzLp8pxfHXR6a5S7kGVjXVXrWgvgxHSpOJKIsNzKpCKDHiYRc6yKfA0vBJp0FkclGOcgd5/K4t8kXZYuBJHPhEEsxgMUm7nXoCHV0mZ1dcse8ZHU+YlbEMovdmp5x5Wg2TtX6rGMS9sdHXiV3CNEo5A3l7vwrm4rFuhT38+/u7Gf3m8kWRSueto4+qq2DYzxXBSdSsILXff+sGsxEqU2Vhp9YSOQmNGdDo3M2v5Xpwp6E7E3VFY1FAkB9yJoH2OjVpF3QHKzd+2xYDtSBIeMfaCfr7czSpceXIAUeFu8dDo8UH0hQA9kY5SDaEamfUaUFGZBLAZftwDSUW6oYMrmGSNzO/1tUyUlZEUOYDOzj2IzgcMTs6kGsdQ88ejeTZxJCmtBKZpkO/sjrtSOj8m2cr5mOBeRLKEgD2b+FzjY4Bv1+mnpJhwD/5Ak32rggMg==;hinl1P1qSPlXqWEs8pG/IQ=="
 ---

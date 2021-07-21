@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-07-mind-human-brain-machine.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-mind-human-brain-machine.amp"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-07-20/intel-s-mobileye-runs-self-driving-test-cars-in-new-york-city",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -211,7 +211,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -368,7 +368,7 @@
       "originalUrl": "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 399,
+      "heat": 409,
       "tags": null,
       "images": [
         {
@@ -1078,6 +1078,40 @@
       ]
     },
     {
+      "path": "_news/2021-07-14-toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera.md",
+      "title": "Toyota Self-Driving Car Unit Agrees to Buy Map-Maker Carmera",
+      "excerpt": "Woven Planet Holdings, the Toyota subsidiary focused on autonomous technology, on Wednesday said it agreed to acquire Carmera Inc., a U.S.-based AI company that makes real-time high-definition maps. \"HD maps power a lot of advanced safety and automobile driving technology products that we'll see in the future,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/dow-jones/2021071412169/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera",
+      "originalUrl": "https://www.morningstar.com/news/dow-jones/2021071412169/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year.md",
       "title": "SAIC Motor says it will put Robotaxis capable of L4 self-driving on roads in China this year",
       "excerpt": "Chinese automotive design and manufacturing company SAIC Motor says it will launch 40 to 60 Robotaxis capable of Level 4 self-driving throughout Shanghai and Suzhou before the end of 2021. The bold statement was made by Zu Sijie,",
@@ -1413,49 +1447,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-the-man-who-invented-the-self-driving-car-in-1986.md",
-      "title": "The man who invented the self-driving car (in 1986)",
-      "excerpt": "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "originalUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2018/07/ericPetersen_selfDrivingCars_RGB-e1532325107404-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "publishedDateTime": "2021-07-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

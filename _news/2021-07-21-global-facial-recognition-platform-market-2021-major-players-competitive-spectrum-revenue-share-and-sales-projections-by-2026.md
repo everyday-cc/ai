@@ -30,92 +30,150 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Education Market Report 2021, Industry Size, Outlook, Production, Revenue, Gross Margin and Forecast to 2026"
-    excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Artificial Intelligence (AI)"
-    publishedDateTime: 2021-07-20T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026-2021-07-20"
+  - title: "Healthcare Artificial Intelligence (AI) Market Scope, Future Prospects And Competitive Analysis 2020 to 2027"
+    excerpt: "Market Insights . The advent of artificial intelligence (AI) will be responsible for transforming the way world works in the coming years. Its inclusion in the healthcare is a fas"
+    publishedDateTime: 2021-07-21T12:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI-Powered Storage Market 2021 Applications, Market Size According to a Specific Product, Sales and Revenue by Region 2026"
-    excerpt: "Global AI-Powered Storage Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 recently presented by MarketsandResearch.biz concretes the best results, integrated approaches,"
-    publishedDateTime: 2021-07-21T00:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-powered-storage-market-2021-applications-market-size-according-to-a-specific-product-sales-and-revenue-by-region-2026-2021-07-20"
+  - title: "Artificial Intelligence (AI) in Automotive Market Analysis, Size, Drivers, Restraints, Opportunities and Threats by 2026"
+    excerpt: "Rising concerns over road safety to enhance artificial intelligence (AI) in automotive market share Growing inclination towards semi-autonomous vehicles is anticipated to drive the use of artificial intelligence (AI) in automobiles."
+    publishedDateTime: 2021-07-20T08:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-analysis-size-drivers-restraints-opportunities-and-threats-by-2026-2021-07-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
-    excerpt: "The global “Facial Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-07-21T09:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-21"
+  - title: "Natural Language Processing Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
+    excerpt: "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-07-20T12:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Visual AI Analysis Market 2021 - 2026 Business Statistics of Report that Emphasizes the impact of COVID-19"
-    excerpt: "Global Visual AI Analysis Market 2021 by Company, Regions, Type and Application, Forecast to 2026 recently introduced by MarketsandResearch.biz offers a fundamental examination of the market covering the examination of subjective points that is prepared to display key market information of learning to the pursuers."
-    publishedDateTime: 2021-07-21T01:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-visual-ai-analysis-market-2021---2026-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2021-07-20"
+  - title: "AI Camera Market-Key Findings, COVID - 19 Impact Analysis, Business Trends,Emerging Technologies and Future Prospects 2027"
+    excerpt: "Market Research Future published a research report on \"AI Camera Market Research Report – Global Forecast till 2027\" -"
+    publishedDateTime: 2021-07-21T08:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-camera-market-key-findings-covid---19-impact-analysis-business-trendsemerging-technologies-and-future-prospects-2027-2021-07-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul (Heraldkeepers) -- This report elaborates the market size, market characteristics, and market growth of the Natural Language Processing industry,"
-    publishedDateTime: 2021-07-17T11:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Expected to Witness High Growth over the Forecast Period 2021-2031"
-    excerpt: "SLICE has announced the addition of the Speech and Voice Recognition Market Report 2021 2031 Production Sales And Consumption Status And Prospects Professional Research The report classifies the global Speech and Voice Recognition Market in a precise manner to offer"
-    publishedDateTime: 2021-07-19T06:55:00Z
-    webUrl: "https://www.openpr.com/news/2331180/speech-and-voice-recognition-market-expected-to-witness-high"
-    ampWebUrl: "https://www.openpr.com/amp/2331180/speech-and-voice-recognition-market-expected-to-witness-high"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331180/speech-and-voice-recognition-market-expected-to-witness-high"
+  - title: "Artificial Intelligence Robots Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Intelligence Robots Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 High adoption of robots for personal use such as companionship entertainment Support from governments around the world for the development"
+    publishedDateTime: 2021-07-19T09:38:00Z
+    webUrl: "https://www.openpr.com/news/2331357/artificial-intelligence-robots-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2331357/artificial-intelligence-robots-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331357/artificial-intelligence-robots-market-share-2021-global"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 28
+    quality: 38
+  - title: "Global AI Medical Image Analysis Market 2021 Growth Statistics, New Opportunities, Competitive Outlook and COVID-19 Analysis 2026"
+    excerpt: "A new growth forecast report titled Global AI Medical Image Analysis Market 2021 by Company, Regions, Type and Application, Forecast to 2026 announced by MarketsandResearch.biz contains a full-scale analysis of the global market which highlights product specification and technological advancement impacting the global market growth."
+    publishedDateTime: 2021-07-21T01:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-medical-image-analysis-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2026-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
-      - url: "https://cdn.openpr.com/U/7/U719145067_g.jpg"
-        width: 800
-        height: 444
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Artificial Intelligence AI as a Service Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Intelligence AI as a Service Market Technology has always been an important component of these businesses but Artificial Intelligence AI has pushed it to the forefront For example AI is being incorporated into nearly every instrument and programme from"
+    publishedDateTime: 2021-07-19T08:46:00Z
+    webUrl: "https://www.openpr.com/news/2331295/artificial-intelligence-ai-as-a-service-market-share-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2331295/artificial-intelligence-ai-as-a-service-market-share-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331295/artificial-intelligence-ai-as-a-service-market-share-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
+  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Edge Artificial Intelligence (AI) Chip market report provides"
+    publishedDateTime: 2021-07-17T04:32:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4674743-global-edge-artificial-intelligence-ai-chip-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 23
+  - title: "Artificial Intelligence Voice Market Growth – Key Futuristic Trends and Competitive Landscape 2021-2026"
+    excerpt: "Big Market Research recently added a new informative report titled ” Global Artificial Intelligence Voice Market ” in its humongous database that helps shape the future of com"
+    publishedDateTime: 2021-07-17T17:10:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-voice-market-growth-key-futuristic-trends-and-competitive-landscape-2021-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 21
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/chemical4-25-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027 report by QYResearch Group. North America is expected to be the largest and"
+    publishedDateTime: 2021-07-17T07:36:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4677370-global-artificial-intelligence-for-healthcare-applications-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 19
+  - title: "Artificial Intelligence Oil Gas Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Intelligence Oil Gas Market is expected to rise at a moderate CAGR during the forecast period from 2021 to 2027 Companies in the oil and gas sector are experimenting with contemporary technologies to increase their efficiency and revenue By"
+    publishedDateTime: 2021-07-19T09:47:00Z
+    webUrl: "https://www.openpr.com/news/2331372/artificial-intelligence-oil-gas-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2331372/artificial-intelligence-oil-gas-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331372/artificial-intelligence-oil-gas-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
+  - title: "Self-driving Car Technology Market Present Scenario and Growth Prospects 2021-2026"
+    excerpt: "The Global Self-driving Car Technology market exhibits comprehensive information that is a valuable source of insightful data for business strategists during the decade 2015-2026. On the basis of historical data,"
+    publishedDateTime: 2021-07-18T02:42:00Z
+    webUrl: "https://manometcurrent.com/self-driving-car-technology-market-present-scenario-and-growth-prospects-2021-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 0
 
 secured: "Piiyxj1GYs8+XU6MK9DU/aGCxunTa4WpADK2J1HDBvIgfR0tjkeqa4qiBDUhyEoFdFLwn7mLIziglF3X0OJf2gHoeuAKcvrsXfeGhdJHQs/4HKFyb8BtX+ioC0jwNbqTI5rpILCfZDHY1RfZOjbm9FbjUYSF8h0+37G/4AvpPDjA7aQPa4Valn4ing9ebqFCla77rQA3ln/vQbe3iYOdtVxKK5MheXa8AbZvltc8bikoWuIwTx/YXsUxSt66F66HH+ZJgSDoonbpfykoMGuITAdwdPusXiYrh2UFQ2Zmb1kiaFAu2Z15J4ucVtGt+ctxUQUDCjhyI4QSVjmGBQOJsFo6EFfx6Eu0fFxgqfP81uY=;hGiw8TtPQ6kpRmLY6FLfvg=="
 ---

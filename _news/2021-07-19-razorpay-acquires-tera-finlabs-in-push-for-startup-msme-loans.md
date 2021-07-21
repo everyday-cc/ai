@@ -74,6 +74,29 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "10 First-Class Fintech Stocks to Watch"
+    excerpt: "F intech stocks are housed under a wide umbrella on Wall Street. Some of the old guard focuses on the traditional payments aspect of financial technology. But the industry can also include real estate,"
+    publishedDateTime: 2021-07-21T08:13:00Z
+    webUrl: "https://www.nasdaq.com/articles/10-first-class-fintech-stocks-to-watch-2021-07-21"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+  - title: "Fidelity International signs Fintech Pledge"
+    excerpt: "Fidelity International committed to a UK strategy, known as the fintech pledge, which is aimed at accelerating the growth of the country's fintech sector"
+    publishedDateTime: 2021-07-21T15:12:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fidelity-international-signs-fintech-pledge"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1202705835%20%282%29.jpg?itok=EbGxM7h-"
+        width: 2309
+        height: 1299
+        isCached: true
   - title: "Razorpay Acquires Lending Startup, TERA Finlabs; Strengthens Its B2B Credit Infrastructure"
     excerpt: "The country’s leading full stack financial solutions company, Razorpay, today announced its acquisition of TERA Finlabs, an AI-based risk tech SaaS Platform, for an undisclosed amount. TERA Finlabs is a Bengaluru-based startup that provides technology,"
     publishedDateTime: 2021-07-19T09:43:00Z

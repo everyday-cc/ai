@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Black teen kicked out of skating rink after facial recognition error"
-    excerpt: "Misidentified, accused of brawling and then kicked out of a roller-skating rink -- the case of a young Detroit girl is the latest facial recognition controversy."
-    publishedDateTime: 2021-07-16T22:15:00Z
-    webUrl: "https://www.cnet.com/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
+  - title: "Researchers disclose vulnerability in Windows Hello facial recognition"
+    excerpt: "A new research report shows that hackers can get around Windows Hello by using a certain type of hardware and eventually gain access to your PC."
+    publishedDateTime: 2021-07-19T14:15:00Z
+    webUrl: "https://www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/?amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: Digital Trends
+      domain: digitaltrends.com
     quality: 89
     images:
-      - url: "https://www.cnet.com/a/img/qIZq1J7Enc-wxvQGg_DySF8SrQk=/1200x630/2020/06/23/bd9975d1-9066-4f4d-8556-e4458dfb957c/gettyimages-1239553143.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Black Girl Banned From Michigan Skating Rink Because Facial Recognition Software Misidentified Her"
-    excerpt: "Lamya Robinson was asked to leave a Livonia, Mich. skating rink because the facial recognition software mistook her for a different Black girl."
-    publishedDateTime: 2021-07-16T22:35:00Z
-    webUrl: "https://www.blackenterprise.com/black-girl-banned-from-michigan-skating-rink-because-facial-recognition-software-misidentified-her/"
-    ampWebUrl: "https://www.blackenterprise.com/black-girl-banned-from-michigan-skating-rink-because-facial-recognition-software-misidentified-her/amp/"
-    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/black-girl-banned-from-michigan-skating-rink-because-facial-recognition-software-misidentified-her/amp/"
-    type: article
-    provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
-    quality: 45
-    images:
-      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/07/Lamya-Robinson-fox-2-detroit-black-enterprise.jpg"
-        width: 932
-        height: 524
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/mouse-computers-windows-hello-2.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Facial Recognition Is Watching You"
     excerpt: "The Boston-based Fight for the Future advocacy organization is trying to put pressure on private businesses to swear off any form of facial recognition."
@@ -72,6 +56,20 @@ related:
       - url: "https://d2t794khe5w43b.cloudfront.net/article/718x300/fb18666381bc6df1c15ed694514302fc.jpg"
         width: 718
         height: 300
+        isCached: true
+  - title: "Japanese University partners with Glory on facial recognition payment trial with mask detection"
+    excerpt: "Kindai University in Osaka, Japan, has partnered with AI firm Glory to test a new facial recognition-powered payment system with mask detection capabilities."
+    publishedDateTime: 2021-07-20T20:35:00Z
+    webUrl: "https://www.biometricupdate.com/202107/japanese-university-partners-with-glory-on-facial-recognition-payment-trial-with-mask-detection"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/24141931/face-mask-detection-retail.jpg"
+        width: 1920
+        height: 1152
         isCached: true
 
 secured: "n0rwRfa9UQXsWA3O73RzygZE06VlfEYDRmi6jck1YVsK2vk+uzCV1esaWcU4bCv3EiMZrB1dkFm9Oa55LEDwYGQqx+gbXdyPTni2RcIRu+saRPTDh5lvY+KT2qXVsYABNouzHmOZ5TWV2zqO5OJkerSmU032T1caQunzrLUY9qn61aPt9QLNXHgb8TRe2XKTDFWojItczLNfAs/Wx65E7GgUnfBYrFeY1f3HBKn7DAJqmdnE4z4NJls26CQx9mqj8CSvQbUpEOo3KCYbwlH4ZVMDQJMCyW2IQ3ZdhgQgnbLKP/S79t9GpbtVrNk7SQKEck4APDHmJXpLrm00vfMA8MO+vJ4xUGvD9yUAnGQagpIKP0sarpob/90pHlFi2zlFnxiBM1aOfMBm9l98SRP1kSbDhHoDcOzrx4ZAQz59o1+xbABRW3vvPoJOvtOYsep1q78C8XI4fLRAB2h8q/C4mwPRl9LVag/f3RDtBhMDoOzz6LJZP7NrFxf67/QyJ+ojU/A1mjjp5CvPeXKLSCFkBA==;uMCVx4WoqzeD/QBu8xnJ1Q=="

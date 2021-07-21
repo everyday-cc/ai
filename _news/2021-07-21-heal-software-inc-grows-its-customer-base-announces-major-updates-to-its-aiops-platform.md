@@ -1,23 +1,23 @@
 ---
 category: news
 title: "HEAL Software Inc. grows its customer base; Announces major updates to its AIOps platform"
-excerpt: "HEAL Software, the pioneer of preventive AIOps and APM software has added several new customers during the past quarter. The company also announced updates to its AI/ML (artificial intelligence/machine learning) algorithms to cater better to the post-pandemic enterprise demands."
-publishedDateTime: 2021-07-21T11:03:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-heal-software-inc-grows-its-customer-base-announces-/2021/07/21/9413630.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-heal-software-inc-grows-its-customer-base-announces-/2021/07/21/9413630.htm"
+excerpt: "HEAL Software, the pioneer of preventive AIOps and APM software has added several new customers during the past quarter. The company"
+publishedDateTime: 2021-07-21T15:48:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/heal-software-inc-grows-its-customer-base-announces-major-updates-to-its-aiops-platform-840109610.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/heal-software-inc-grows-its-customer-base-announces-major-updates-to-its-aiops-platform-840109610.html"
 type: article
 quality: 10
 heat: 10
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "ujAVj0IF/+CwKVHRCX32QvOqKQFzo2ZU2iUjWvsmciitESiRMzO0pHgo5Ltb9dFKtwdIsuOWifQYAsvPr0z4V4290aFUssWEjupy6bO2xGQ1M6b65PHFmEJVHLH9x6QFW+5LpVPt+AQJZJI2j8/VLEaigGc4qBH228MGUXDkF4FCYibim+QjQBkz664ae1P9UXuxt6bWrkosHvqA0JTIraepgqyhBSVnV6ZBiuYV4w732ODwhNU+DwU8rWW29Dhxz8shuGzPXqJWYPtAIMByahw4oAsk2i2aOsanoOh7ecqUyexPZdnF+D7rC+xRrEx5czelo0pGjMz3WuSEOUbYNM3U9I0+aE2HaAC/NQJCiIQ=;24E8XunbVylOZe/PHariPQ=="
+secured: "z/t0ShQV6dg/SS1D9muqckUdeDhe6IOsS0nqmsTCQpUQ35frjsJ379o/QSoC6AmftdLroQs45SLUOeYZXHmTz2bO/3x2qFs5q1OoLGt33Ul/riEA1L/yvJ1luwf+5GMlyAvyv9ToFt4Y0IeooCDprKeZ/NtH/1L6AA7VIKV+H3IYJinW/gQ5f5PtWxlu6M7CJ6AJV67P6J4fptB3yfk9SWX0O2kIXzV86KazmvVejh70tUatAjsLIxeIuDj1CEv1F2WNh+CoLy1q/sQurRMyHRJ94PfwYrCJSJbMBD8Bn8120uhvT/5ORzCkFOH78NTni2OldecPJvYM/E3N/Qs3LpP4PlZtG5PtaiWBD78o2lc=;3+SIjLAWFDdtSvMrzqmmPg=="
 ---
 

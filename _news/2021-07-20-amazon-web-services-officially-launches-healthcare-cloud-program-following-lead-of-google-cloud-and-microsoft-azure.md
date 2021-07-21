@@ -7,8 +7,8 @@ originalUrl: "https://www.fiercebiotech.com/cro/amazon-web-services-officially-l
 webUrl: "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud"
 type: article
 quality: 65
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: FierceBiotech
@@ -27,6 +27,33 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft-powered autonomous beach-cleaning robot is here to clean our shores"
+    excerpt: "A Dutch startup aims to rid beaches of cigarette butts, and Microsoft's artificial intelligence is helping the robot learn how to do it."
+    publishedDateTime: 2021-07-21T15:15:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/microsoft-autonomous-beach-cleaning-robot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 103
+    images:
+      - url: "https://www.cnet.com/a/img/uFEX43607aFPkDv2GM04zBfSj68=/2021/07/21/015fc565-b217-46b4-9eb8-1ec97c805fd1/ogi-tech.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Software Market 2020-2026 | Microsoft, Ibm, Scikit-Learn, Google Cloud Tpu, Figure Eight"
+    excerpt: "The research report of the global Machine Learning Software market has recently added by The Research Insights to its vast database Some of the recent advancements in technologies have been elaborated to get up to date knowledge of businesses There"
+    publishedDateTime: 2021-07-21T05:27:00Z
+    webUrl: "https://www.openpr.com/news/2333310/machine-learning-software-market-2020-2026-microsoft-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2333310/machine-learning-software-market-2020-2026-microsoft-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333310/machine-learning-software-market-2020-2026-microsoft-ibm"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
   - title: "NIH taps Microsoft for biomedical research initiative"
     excerpt: "NIH tapped Microsoft Azure as the cloud platform for its Science and Technology Research Infrastructure for Discovery, Experimentation and Sustainability Initiative, which provides cloud technology and services for biomedical research."
     publishedDateTime: 2021-07-20T21:40:00Z
@@ -40,20 +67,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/11.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
-    excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"
-    publishedDateTime: 2021-07-20T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/680972/Redox_Logo.jpg?p=facebook"
-        width: 902
-        height: 475
         isCached: true
 
 secured: "hxjg9/HEiRs2fzboiumINXhb8wYwX7wu6JEQTbRJjZAAsRWwPsmRsqsrC06D+ajhU2pG23+lDUwLaDO84D0Y0GFLp/2+EOyxz7ViHmk6Hw0ZtnuePr1lNu3XsZTGm6GK5Hb4pTb/AVsYXdw67A82yttp2kaZX7WOdWB4bcwNmHvgxQLwLqcoUItIUxmjuOJlCc6kdne3wv7xPtwu+wm5WcMYBR+CFK8T9xgik8UACew9RD+Lu9kPWwp6ySJCD36xVQ+zmmavgxf8OC9aF5EG3i5VD/AAx+qMMKrgLxwE3+9EBSdyBfR92ycjaErpReBaJWSwLOUSfiiMV82BP2FkiTPaDQ0XtOW26JeFw7G4oiU=;+Nfvt+2F5JUonty4VDSTXA=="

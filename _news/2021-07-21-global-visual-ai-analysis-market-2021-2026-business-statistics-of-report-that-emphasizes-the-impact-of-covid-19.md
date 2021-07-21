@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Facial Recognition Platform Market 2021 Major Players, Competitive Spectrum, Revenue Share and Sales Projections by 2026"
-    excerpt: "The research document entitled Global Facial Recognition Platform Market 2021 by Company, Regions, Type and Application, Forecast to 2026 released by MarketsandResearch.biz is an information-rich knowledge hub that assists organizations with understanding the noticeable patterns that are rising in the market."
-    publishedDateTime: 2021-07-21T03:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-platform-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2026-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI-Powered Storage Market 2021 Applications, Market Size According to a Specific Product, Sales and Revenue by Region 2026"
     excerpt: "Global AI-Powered Storage Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 recently presented by MarketsandResearch.biz concretes the best results, integrated approaches,"
     publishedDateTime: 2021-07-21T00:46:00Z
@@ -114,6 +100,15 @@ related:
         width: 800
         height: 444
         isCached: true
+  - title: "Worldwide Machine Safety Industry to 2026 - Impact Analysis of COVID-19 on the Market"
+    excerpt: "The \"Machine Safety Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global market for machine safety was evaluated at US$1,204.949 million in the year 2019 and is anticipated to witness a CAGR of 6."
+    publishedDateTime: 2021-07-21T15:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-machine-safety-industry-to-2026-impact-analysis-of-covid-19-on-the-market-1030631271"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
 
 secured: "//++VvDSL3Ht03QEzN/DudJqqeOLNGVqK5aYxh2Vriz1RIrmEfuwW6lwujwBB+gULsl5+dvNaHw296IivwDR5F1lJ1xubXzKuKC1n8bFOwnm+koHWhVezZGJC09Z3TxSIq8BkSqQBn9WTSQVChm4DSboY6MJLVb+xVN2A6m27im3/RaSHxLdSDZ6Y/DZVb0QyN+hWw4UM3Z0p2JNytrqjBn3MH/pu59EF/R0c7u9QrHGJBYITIwYXl16RuWxo+ufWT07/tJsRI+yZXRB1Bxd02eT9slaY2sdFmevbNlg6R8eAGQPEMq9Jmh6twgaIRQZBltRrcJQ9f80rTjvfbfalhMXXtcn2K7vU2qtDhyxZO8=;JwYpNvaAMuNtE9t3Wyu3UQ=="
 ---

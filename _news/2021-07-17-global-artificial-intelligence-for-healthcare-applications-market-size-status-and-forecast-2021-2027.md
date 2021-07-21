@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence Chip Market Trends, Share, Size, Growth, Opportunity and Forecasts by 2025"
-    excerpt: "Selbyville, Delaware According to the latest research report titled 'Global Artificial Intelligence Chip Market Analysis, 2020', available with Market Study Report LLC, worldwide artificial intelligence chip industry is expected to undergo a remunerative period,"
-    publishedDateTime: 2021-07-20T18:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-trends-share-size-growth-opportunity-and-forecasts-by-2025-2021-07-20"
+  - title: "Healthcare Artificial Intelligence (AI) Market Scope, Future Prospects And Competitive Analysis 2020 to 2027"
+    excerpt: "Market Insights . The advent of artificial intelligence (AI) will be responsible for transforming the way world works in the coming years. Its inclusion in the healthcare is a fas"
+    publishedDateTime: 2021-07-21T12:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Facial Recognition Platform Market 2021 Major Players, Competitive Spectrum, Revenue Share and Sales Projections by 2026"
+    excerpt: "The research document entitled Global Facial Recognition Platform Market 2021 by Company, Regions, Type and Application, Forecast to 2026 released by MarketsandResearch.biz is an information-rich knowledge hub that assists organizations with understanding the noticeable patterns that are rising in the market."
+    publishedDateTime: 2021-07-21T03:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-platform-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2026-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
     excerpt: "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
     publishedDateTime: 2021-07-20T12:59:00Z
@@ -61,6 +75,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Camera Market-Key Findings, COVID - 19 Impact Analysis, Business Trends,Emerging Technologies and Future Prospects 2027"
+    excerpt: "Market Research Future published a research report on \"AI Camera Market Research Report – Global Forecast till 2027\" -"
+    publishedDateTime: 2021-07-21T08:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-camera-market-key-findings-covid---19-impact-analysis-business-trendsemerging-technologies-and-future-prospects-2027-2021-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Robots Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Intelligence Robots Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 High adoption of robots for personal use such as companionship entertainment Support from governments around the world for the development"
+    publishedDateTime: 2021-07-19T09:38:00Z
+    webUrl: "https://www.openpr.com/news/2331357/artificial-intelligence-robots-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2331357/artificial-intelligence-robots-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331357/artificial-intelligence-robots-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
   - title: "Global AI Medical Image Analysis Market 2021 Growth Statistics, New Opportunities, Competitive Outlook and COVID-19 Analysis 2026"
     excerpt: "A new growth forecast report titled Global AI Medical Image Analysis Market 2021 by Company, Regions, Type and Application, Forecast to 2026 announced by MarketsandResearch.biz contains a full-scale analysis of the global market which highlights product specification and technological advancement impacting the global market growth."
     publishedDateTime: 2021-07-21T01:36:00Z
@@ -75,62 +114,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Chips Market 2021 Report Presents Complete Summary, Marketplace Shares and Growth Opportunities by 2026"
-    excerpt: "Global Artificial Intelligence Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz methodically compiles the principal components of the market study."
-    publishedDateTime: 2021-07-19T21:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chips-market-2021-report-presents-complete-summary-marketplace-shares-and-growth-opportunities-by-2026-2021-07-19"
+  - title: "Artificial Intelligence AI as a Service Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Intelligence AI as a Service Market Technology has always been an important component of these businesses but Artificial Intelligence AI has pushed it to the forefront For example AI is being incorporated into nearly every instrument and programme from"
+    publishedDateTime: 2021-07-19T08:46:00Z
+    webUrl: "https://www.openpr.com/news/2331295/artificial-intelligence-ai-as-a-service-market-share-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2331295/artificial-intelligence-ai-as-a-service-market-share-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331295/artificial-intelligence-ai-as-a-service-market-share-2021"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Products Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2027"
-    excerpt: "Jul 20, 2021 (Heraldkeepers) -- This report describes the global market size of Artificial Intelligence Products from 2016 to 2020 and its CAGR from 2016 to 2020, and also forecasts its market size to the end of 2026 and its CAGR from 2021 to 2026."
-    publishedDateTime: 2021-07-20T07:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2020-2027-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
-    excerpt: "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-07-20T12:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "United States Articulated Robot Market Share, Size, Opportunities, Trends and Forecast 2021-2026"
-    excerpt: "According to the latest report by IMARC Group, titled “United States Articulated Robot Market Report, Opportunity and Forecast 2021-2026, t"
-    publishedDateTime: 2021-07-20T12:17:00Z
-    webUrl: "https://manometcurrent.com/united-states-articulated-robot-market-share-size-opportunities-trends-and-forecast-2021-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 26
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/United-States-Articulated-Robot-Market-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
   - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Edge Artificial Intelligence (AI) Chip market report provides"
     publishedDateTime: 2021-07-17T04:32:00Z
@@ -140,20 +134,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
-  - title: "Americas Computer Vision Market Share, Industry Growth, Trend, Drivers, Challenges, Key Companies by 2027"
-    excerpt: "Market Expertz latest study, titled ‘Global Americas Computer Vision Market,’ sheds light on the crucial aspects of the global Americas Computer Vision market. The Americas Computer Vision report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027)."
-    publishedDateTime: 2021-07-16T21:09:00Z
-    webUrl: "https://manometcurrent.com/americas-computer-vision-market-share-industry-growth-trend-drivers-challenges-key-companies-by-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 22
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Americas-Computer-Vision-Market.jpg"
-        width: 750
-        height: 350
-        isCached: true
   - title: "Artificial Intelligence Voice Market Growth – Key Futuristic Trends and Competitive Landscape 2021-2026"
     excerpt: "Big Market Research recently added a new informative report titled ” Global Artificial Intelligence Voice Market ” in its humongous database that helps shape the future of com"
     publishedDateTime: 2021-07-17T17:10:00Z
@@ -168,63 +148,25 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Artificial intelligence chipset Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence chipset chipset market is expected to grow at a significant CAGR in the period from 2021 to 2027 The use of AI for enhancing customer services and decreasing operational costs the rising number of AI applications increased"
-    publishedDateTime: 2021-07-19T10:53:00Z
-    webUrl: "https://www.openpr.com/news/2331459/artificial-intelligence-chipset-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2331459/artificial-intelligence-chipset-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331459/artificial-intelligence-chipset-market-share-2021-global"
+  - title: "Artificial Intelligence Oil Gas Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Intelligence Oil Gas Market is expected to rise at a moderate CAGR during the forecast period from 2021 to 2027 Companies in the oil and gas sector are experimenting with contemporary technologies to increase their efficiency and revenue By"
+    publishedDateTime: 2021-07-19T09:47:00Z
+    webUrl: "https://www.openpr.com/news/2331372/artificial-intelligence-oil-gas-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2331372/artificial-intelligence-oil-gas-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331372/artificial-intelligence-oil-gas-market-share-2021-global"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 19
-  - title: "Global Face Recognition Terminal Market Growth 2021-2026"
-    excerpt: "Pages Report] Check for Discount on Global Face Recognition Terminal Market Growth 2021-2026 report by LP Information INC. According to this latest study, the 2021 growth of"
-    publishedDateTime: 2021-07-19T12:36:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4680288-global-face-recognition-terminal-market-growth-2021-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 19
-  - title: "Global Face Recognition Ststems Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Face Recognition Ststems Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Ststems Market"
-    publishedDateTime: 2021-07-21T06:38:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4680828-global-face-recognition-ststems-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
     quality: 17
-  - title: "Artificial Intelligence Chipsets Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial Intelligence Chipsets Market size is expected to grow at an annual average of 35 during 2021 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the continuous advancement of technology Due"
-    publishedDateTime: 2021-07-20T13:16:00Z
-    webUrl: "https://www.openpr.com/news/2332911/artificial-intelligence-chipsets-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2332911/artificial-intelligence-chipsets-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332911/artificial-intelligence-chipsets-market-share-2021-global"
+  - title: "Self-driving Car Technology Market Present Scenario and Growth Prospects 2021-2026"
+    excerpt: "The Global Self-driving Car Technology market exhibits comprehensive information that is a valuable source of insightful data for business strategists during the decade 2015-2026. On the basis of historical data,"
+    publishedDateTime: 2021-07-18T02:42:00Z
+    webUrl: "https://manometcurrent.com/self-driving-car-technology-market-present-scenario-and-growth-prospects-2021-2026/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
-  - title: "Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence for Video"
-    publishedDateTime: 2021-07-17T07:39:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4630235-global-artificial-intelligence-for-video-surveillance-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 4
-  - title: "Global Data Science and Machine-Learning Platforms Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Data Science and Machine-Learning Platforms Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Data Science and"
-    publishedDateTime: 2021-07-17T00:39:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4673908-global-data-science-and-machine-learning-platforms-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
+      name: manometcurrent.com
+      domain: manometcurrent.com
     quality: 0
 
 secured: "d14CUFyLCigQsvHwHebk5SR0pn2+mjKQKYwozd2RU0MZMtvwoKIUiTiIj7Ds+52MUdRdbaWJTq7gWaFd2uG98R95Xf0IufM2Gmyi2MejlMDvwLV2BtQZQC+ClymhJhn4QTnirHoLF7OEauEmA1V4EBm9HNzRdSnlZbBd9b/Q2pBAm/dq/4nr9MEOl29/geUbgmW2esHPyXOPOwK74LgmZJBvb+4CYo2tGI8XKJ3P5ygCRjcJHz3TGmwYHor9MK+aWimVEeOtESXXSHy2DEA/RNzsIuMYs2pafFK48gKcxzQDTLwmn28BPa84Sr04mb3tJXg0GgA1yB1/dSmKFNJRq4lAhYwtkAa2H62HKwa/wuE=;HlASK5dDLmG24fVrleuvXA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/redzone/news-insights/2021-07-21-
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/redzone/news-insights/2021-07-21-four-ways-to-unlock-marketing-return-on-investment-with-machine-learning/"
 type: article
 quality: 75
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 1000
     height: 547
     isCached: true
+
+related:
+  - title: "AI investing: Why more and more people are turning to robot-led investments"
+    excerpt: "THE VERY first robo-advisor launched in 2008 initially to rebalance assets after the Great Recession, but in 2020 this AI held $987 billion of managed client assets worldwide."
+    publishedDateTime: 2021-07-21T14:01:00Z
+    webUrl: "https://www.express.co.uk/finance/personalfinance/1465716/investing-robo-advisors-ai-investments"
+    ampWebUrl: "https://www.express.co.uk/finance/personalfinance/1465716/investing-robo-advisors-ai-investments/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/finance/personalfinance/1465716/investing-robo-advisors-ai-investments/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 72
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/23/590x/Robot-placing-coins-in-a-stack-1465716.jpg?r=1626876086664"
+        width: 590
+        height: 350
+        isCached: true
 
 secured: "dZuJ6KPMygLVmdGySX7wePw/pIfsx+/3BZzF3UFdoSod2W5bv8jopTcoSDfNXQEhRLbDh3U+ceZXh52aI+Ox6umh0NnN8yWkCsPEina6iZv/5XvscK7zomWairnLt0Z60HcxzCWYRTCRtOGTItx5EPjEhDZ9371zeU9hrHWhgU/j4m18nknWKW5fEK0n9SXBNO3oKi5oxlEMSyibOuwZFH9klvF3GaTooVdA/oKSnExT1K3JtpkEaO3Qz7PELHfM5xLBSf+m7SKOIwUxhbdxx0IGYp0A9FkPsM1Y6v13j3kI6E0OLgRIH++/+t7P1RX9jaoHMB2mY1drNau+kynLTdr6AXZWogqTB9l1H2NZiNU=;CS8JX6FqyM1DH/rnnE2X9Q=="
 ---

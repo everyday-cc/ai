@@ -3,16 +3,20 @@ category: news
 title: "Stor.ai Partners with Toshiba Global Commerce Solutions to Equip its Grocers with Holistic Ecommerce Infrastructure"
 excerpt: "Stor.ai, the end-to-end digital commerce solution for grocers, today announced a strengthened partnership with Toshiba Global Commerce Solutions, the global market share leader in retail store technology."
 publishedDateTime: 2021-07-21T13:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/21/9413980.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/21/9413980.htm"
+originalUrl: "https://markets.businessinsider.com/news/stocks/stor-ai-partners-with-toshiba-global-commerce-solutions-to-equip-its-grocers-with-holistic-ecommerce-infrastructure-1030630621"
+webUrl: "https://markets.businessinsider.com/news/stocks/stor-ai-partners-with-toshiba-global-commerce-solutions-to-equip-its-grocers-with-holistic-ecommerce-infrastructure-1030630621"
 type: article
-quality: 0
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
@@ -34,6 +38,6 @@ related:
         height: 408
         isCached: true
 
-secured: "sXH0Z5537juDAF4eOaQSDw45tfyALIKoYpxoyCA+geAaoJRe25GSgScn4p3mLAIXB544Vurxg8bryr66b3j8bzNL0kTvL0ZMYNvza4mtFaYweHaer8ueAvD0w9m7f1YqHhYvU3y+tWkzcE0mUychcULSYNqifX6xo2ujTL+VMLlfeMQf1xqlXPPx1Bw+JvRdnDG+IUCelYUuP+m8sb33hSjWATBQI4KIVYSCEq+/TsOoXLf1bOpYf3Gp2IW2xJGrAUW3VaA+j/WPW2XvPwy/vnWXuGSnpuGeeNTHXJfmMv0Av2THoNkbhRDCuLdqocZwcr4yFU+sED0rEo4jzlsKTERuPxHUeIinb8slYeuOP+M=;meaDXsCJmSrznCFm9twUng=="
+secured: "EEy6M6zvsfQqIcDLeJ0rY9jvocnWpmndC1tIqtCCzzS/U7/ejA2yyGXJtkEhM7xHTvBAC261F+moebLN0GMDnqG2Oo/IYPtxPdMHROGtL55mCVy+Pw1krA7wZ1P7heNhU8p1JWoKerOj4hF3OWuleDQ5ogGHN0rxfQz0P8g08cg8t0l5JVMnYVVsdkHLSr7hQ/wOXHyZvFLAklHygF5qogMo/QWL3pwGJPd94tJXVR5CNlaNA0qlpipX/2gaBJzTN9Z7jPx5BKVfWEy+u4Z4W2K6/FGbHMFKdZ88bPgDtzowhzzLfCzdba0DadTBmkQW4hK0AYqcANRI5/Nzy8xATaeF1tFaJGOj32AHFC81mvE=;O2OzyNNt/05R0gaeKOLYdA=="
 ---
 

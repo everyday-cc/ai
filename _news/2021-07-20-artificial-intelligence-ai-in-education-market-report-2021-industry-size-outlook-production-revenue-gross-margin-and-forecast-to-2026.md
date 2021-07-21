@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Facial Recognition Platform Market 2021 Major Players, Competitive Spectrum, Revenue Share and Sales Projections by 2026"
-    excerpt: "The research document entitled Global Facial Recognition Platform Market 2021 by Company, Regions, Type and Application, Forecast to 2026 released by MarketsandResearch.biz is an information-rich knowledge hub that assists organizations with understanding the noticeable patterns that are rising in the market."
-    publishedDateTime: 2021-07-21T03:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-platform-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2026-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI-Powered Storage Market 2021 Applications, Market Size According to a Specific Product, Sales and Revenue by Region 2026"
     excerpt: "Global AI-Powered Storage Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 recently presented by MarketsandResearch.biz concretes the best results, integrated approaches,"
     publishedDateTime: 2021-07-21T00:46:00Z
@@ -116,6 +102,15 @@ related:
         width: 800
         height: 444
         isCached: true
+  - title: "Worldwide Machine Safety Industry to 2026 - Impact Analysis of COVID-19 on the Market"
+    excerpt: "The \"Machine Safety Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global market for machine safety was evaluated at US$1,204.949 million in the year 2019 and is anticipated to witness a CAGR of 6."
+    publishedDateTime: 2021-07-21T15:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-machine-safety-industry-to-2026-impact-analysis-of-covid-19-on-the-market-1030631271"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
 
 secured: "uwba1drsdudeRm/7s1MkNmh9++2FefXq1ASQuF+tE3fz9sToqKm9If+eku2/vMDBG6WoiWwy+v+3PapGC2wcfDG1PAsz56sOzJURURapyqiNAk5dYO2iP908ly6GQKd8LRGRCWq4UlvTW0a/UeL9McnRy4560VnzopkkuYcFm0nG8M7ThcfHKhlkPqNG8JFuDinbeO/HxVQZ0sdjnkftl+Gy3ALV+iV1yRmdwQuPqwVU8ucJvYUzVc5pF5L27Rw7QekrzL/bk2uuimsj2VqqZP0LA5nOPyF96ZGgkTpcM3eEHbxGMb27uDFNhdz369pCyn/eYfi9qwZJ4CYD6CGLoC6e0le5YvRMLoyFB60sswk=;xWdgN0vNzX5wRL2RQqw0Rg=="
 ---

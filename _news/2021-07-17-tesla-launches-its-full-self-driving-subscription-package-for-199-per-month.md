@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Tesla knocked $500 off a hardware upgrade for its Full Self Driving subscription after customer backlash"
+    excerpt: "Tesla offered customers with older cars a $1,500 Full Self-Driving hardware upgrade, provoking a backlash. Now, it's charging $1,000."
+    publishedDateTime: 2021-07-21T15:29:00Z
+    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/60a1038ef27b4c0019444b4e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Consumer Reports concerned Tesla uses owners to test unsafe self-driving software"
     excerpt: "A Tesla in full self-driving mode makes a left turn out of the middle lane on a busy San Francisco street. It jumps in a bus lane where it’s not meant to be. It turns a corner and nearly plows into parked vehicles,"
     publishedDateTime: 2021-07-20T21:47:00Z

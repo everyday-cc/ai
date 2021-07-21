@@ -23,37 +23,89 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "AI Revolution in 2021: 5 Industries That Are Thriving With Artificial Intelligence"
-    excerpt: "AI or Artificial Intelligence is a buzzword across the world these days. Several industries are prospering with AI implementation, and many others are gearing up to adopt this latest technology to start a journey of steady progress."
-    publishedDateTime: 2021-07-19T07:05:00Z
-    webUrl: "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/"
-    ampWebUrl: "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/amp/"
+  - title: "Healthcare Artificial Intelligence (AI) Market Scope, Future Prospects And Competitive Analysis 2020 to 2027"
+    excerpt: "Market Insights . The advent of artificial intelligence (AI) will be responsible for transforming the way world works in the coming years. Its inclusion in the healthcare is a fas"
+    publishedDateTime: 2021-07-21T12:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 70
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/07/5-Industries-That-Are-Thriving-With-Artificial-Intelligence-.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Busting the myth AI will totally replace QC jobs in the manufacturing industry"
-    excerpt: "Constantly evolving Industrial automation and IoT, availability of big data, and access to improved computing power are some key factors that are driving the Artificial Intelligence (AI) in manufacturing market."
-    publishedDateTime: 2021-07-19T05:28:00Z
-    webUrl: "https://www.dqindia.com/busting-myth-ai-will-totally-replace-qc-jobs-manufacturing-industry/"
-    ampWebUrl: "https://www.dqindia.com/busting-myth-ai-will-totally-replace-qc-jobs-manufacturing-industry/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/busting-myth-ai-will-totally-replace-qc-jobs-manufacturing-industry/amp/"
+  - title: "Artificial Intelligence (AI) in Automotive Market Analysis, Size, Drivers, Restraints, Opportunities and Threats by 2026"
+    excerpt: "Rising concerns over road safety to enhance artificial intelligence (AI) in automotive market share Growing inclination towards semi-autonomous vehicles is anticipated to drive the use of artificial intelligence (AI) in automobiles."
+    publishedDateTime: 2021-07-20T08:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-analysis-size-drivers-restraints-opportunities-and-threats-by-2026-2021-07-20"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 53
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/07/workers-5246640_1280_850x400.jpg"
-        width: 850
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Facial Recognition Platform Market 2021 Major Players, Competitive Spectrum, Revenue Share and Sales Projections by 2026"
+    excerpt: "The research document entitled Global Facial Recognition Platform Market 2021 by Company, Regions, Type and Application, Forecast to 2026 released by MarketsandResearch.biz is an information-rich knowledge hub that assists organizations with understanding the noticeable patterns that are rising in the market."
+    publishedDateTime: 2021-07-21T03:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-platform-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2026-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
+    excerpt: "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-07-20T12:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Camera Market-Key Findings, COVID - 19 Impact Analysis, Business Trends,Emerging Technologies and Future Prospects 2027"
+    excerpt: "Market Research Future published a research report on \"AI Camera Market Research Report – Global Forecast till 2027\" -"
+    publishedDateTime: 2021-07-21T08:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-camera-market-key-findings-covid---19-impact-analysis-business-trendsemerging-technologies-and-future-prospects-2027-2021-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI Medical Image Analysis Market 2021 Growth Statistics, New Opportunities, Competitive Outlook and COVID-19 Analysis 2026"
+    excerpt: "A new growth forecast report titled Global AI Medical Image Analysis Market 2021 by Company, Regions, Type and Application, Forecast to 2026 announced by MarketsandResearch.biz contains a full-scale analysis of the global market which highlights product specification and technological advancement impacting the global market growth."
+    publishedDateTime: 2021-07-21T01:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-medical-image-analysis-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2026-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence AI as a Service Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "Artificial Intelligence AI as a Service Market Technology has always been an important component of these businesses but Artificial Intelligence AI has pushed it to the forefront For example AI is being incorporated into nearly every instrument and programme from"
@@ -66,50 +118,38 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 32
-  - title: "Artificial intelligence ai platform Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence ai platform market is expected to grow at a significant CAGR in the period from 2021 to 2027 The Artificial Intelligence AI platform market is said to have a potential scope for growth in the years to"
-    publishedDateTime: 2021-07-19T11:20:00Z
-    webUrl: "https://www.openpr.com/news/2331519/artificial-intelligence-ai-platform-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2331519/artificial-intelligence-ai-platform-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331519/artificial-intelligence-ai-platform-market-share-2021-global"
+  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Edge Artificial Intelligence (AI) Chip market report provides"
+    publishedDateTime: 2021-07-17T04:32:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4674743-global-edge-artificial-intelligence-ai-chip-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
-  - title: "Artificial Neural Network Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "Artificial Neural Network Market is projected to rise at a considerable CAGR during the forecast period from 2021 to 2027 The technology is a set of instructions programmed in order to achieve human brain alike operations through machines The advent"
-    publishedDateTime: 2021-07-19T09:57:00Z
-    webUrl: "https://www.openpr.com/news/2331392/artificial-neural-network-market-share-2021-global-trends-key"
-    ampWebUrl: "https://www.openpr.com/amp/2331392/artificial-neural-network-market-share-2021-global-trends-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331392/artificial-neural-network-market-share-2021-global-trends-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
-  - title: "Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 The market is growing at a rapid rate due to the rise in the investment in AI technology by big market"
-    publishedDateTime: 2021-07-19T10:28:00Z
-    webUrl: "https://www.openpr.com/news/2331439/artificial-intelligence-market-share-2021-global-trends-key"
-    ampWebUrl: "https://www.openpr.com/amp/2331439/artificial-intelligence-market-share-2021-global-trends-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331439/artificial-intelligence-market-share-2021-global-trends-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
+      name: ReportsnReports
+      domain: reportsnreports.com
     quality: 23
-  - title: "Artificial Intelligence In Military Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "Artificial Intelligence In Military Market is expected to rise at a moderate CAGR during the forecast period from 2021 to 2027 There are various pivotal factors that are driving the global AI in military market which includes growing defense industry"
-    publishedDateTime: 2021-07-19T09:18:00Z
-    webUrl: "https://www.openpr.com/news/2331326/artificial-intelligence-in-military-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2331326/artificial-intelligence-in-military-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331326/artificial-intelligence-in-military-market-share-2021-global"
+  - title: "Artificial Intelligence Voice Market Growth – Key Futuristic Trends and Competitive Landscape 2021-2026"
+    excerpt: "Big Market Research recently added a new informative report titled ” Global Artificial Intelligence Voice Market ” in its humongous database that helps shape the future of com"
+    publishedDateTime: 2021-07-17T17:10:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-voice-market-growth-key-futuristic-trends-and-competitive-landscape-2021-2026/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 21
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/chemical4-25-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027 report by QYResearch Group. North America is expected to be the largest and"
+    publishedDateTime: 2021-07-17T07:36:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4677370-global-artificial-intelligence-for-healthcare-applications-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 19
   - title: "Artificial Intelligence Oil Gas Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "Artificial Intelligence Oil Gas Market is expected to rise at a moderate CAGR during the forecast period from 2021 to 2027 Companies in the oil and gas sector are experimenting with contemporary technologies to increase their efficiency and revenue By"
     publishedDateTime: 2021-07-19T09:47:00Z
@@ -121,28 +161,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
-  - title: "Artificial intelligence in accounting Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence in accounting market is expected to grow at a significant CAGR in the period from 2021 to 2027 The rising requirement to automate accounting operations and enable data based advising and decision making are driving the AI"
-    publishedDateTime: 2021-07-19T11:37:00Z
-    webUrl: "https://www.openpr.com/news/2331557/artificial-intelligence-in-accounting-market-share-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2331557/artificial-intelligence-in-accounting-market-share-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331557/artificial-intelligence-in-accounting-market-share-2021"
+  - title: "Self-driving Car Technology Market Present Scenario and Growth Prospects 2021-2026"
+    excerpt: "The Global Self-driving Car Technology market exhibits comprehensive information that is a valuable source of insightful data for business strategists during the decade 2015-2026. On the basis of historical data,"
+    publishedDateTime: 2021-07-18T02:42:00Z
+    webUrl: "https://manometcurrent.com/self-driving-car-technology-market-present-scenario-and-growth-prospects-2021-2026/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
-  - title: "Artificial intelligence in transportation Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence in transportation market is expected to grow at a significant CAGR in the period from 2021 to 2027 Government rules for car safety are becoming more stringent as is the use of advanced driver assistance systems ADAS"
-    publishedDateTime: 2021-07-19T11:49:00Z
-    webUrl: "https://www.openpr.com/news/2331537/artificial-intelligence-in-transportation-market-share-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 0
 
 secured: "8lvJD8jcaCPY3JRqdb8YK1lxZ22a17c5Gzkbs+dVDJEq/mhuwXp3rcccVLUKo/AGkLRXiCXC6SB0pviAr5UVUO9vMMQy+NTvWxp5k6406xd8qLGBhx79Oacf/XNU9nJnOeKO/lJwcBpXLmFadQpRqVlwF6O5vMpq0Jm98F/jibwjCrVepYkrbY3lsOdk2Ww4GwWw0qTfVd3RrZxhRwlHvvBYJnHqhq0mPxflARZNo3EIjIE7g20ocXktloJbWcswuhuWrqM2nnrsjDYQxuPhUgR7ghTeLgAEqeHxBUcWCKiJHeqWXDiJc2zF7t7kOrjhMEZ/v3P3M0ElyHZ2pOw+dKlktP4XHVAb3XIOe1vFnLE=;30a6nf7TLpRzEgKGquOqmA=="
 ---

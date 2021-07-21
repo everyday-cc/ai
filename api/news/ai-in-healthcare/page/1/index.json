@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-20-what-machine-learning-can-offer-nigerias-healthcare-system.md",
-      "title": "What machine learning can offer Nigeria’s healthcare system",
-      "excerpt": "Machine learning offers improved access to affordable testing and quality of care for those who are unaware of their hepatitis B status.",
+      "path": "_news/2021-07-21-what-machine-learning-can-offer-nigerias-healthcare-system.md",
+      "title": "What machine learning can offer Nigeria's healthcare system",
+      "excerpt": "Imagine it's 2030—and a typical day in a Nigerian healthcare setting. In earlier decades, when a patient walked in, they could see piles of folders and a clutter of pens scattered all over the office.",
       "sourceUrl": null,
-      "webUrl": "https://theconversation.com/what-machine-learning-can-offer-nigerias-healthcare-system-163593",
-      "originalUrl": "https://theconversation.com/what-machine-learning-can-offer-nigerias-healthcare-system-163593",
+      "webUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://images.theconversation.com/files/411954/original/file-20210719-19-hv0n79.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
-          "width": 1356,
-          "height": 668,
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/what-machine-learning.jpg",
+          "width": 926,
+          "height": 579,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T07:43:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-machine-nigeria-healthcare.amp",
+      "publishedDateTime": "2021-07-21T08:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -46,21 +46,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-20-amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-of-google-cloud-and-microsoft-azure.md",
-      "title": "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure",
-      "excerpt": "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year.",
+      "path": "_news/2021-07-21-healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market Scope, Future Prospects And Competitive Analysis 2020 to 2027",
+      "excerpt": "Market Insights . The advent of artificial intelligence (AI) will be responsible for transforming the way world works in the coming years. Its inclusion in the healthcare is a fas",
       "sourceUrl": null,
-      "webUrl": "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud",
-      "originalUrl": "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud",
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 202,
       "tags": null,
       "images": [
         {
-          "url": "https://qtxasset.com/fiercebiotech/1626705643/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?nnIWK27zsQToGA41LvRBTzJghCy0Z8Ok",
-          "width": 4432,
-          "height": 2955,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -70,12 +70,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T01:11:00-07:00",
+      "publishedDateTime": "2021-07-21T05:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -84,10 +93,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
         "AI in Healthcare",
-        "AWS AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -99,7 +107,7 @@
       "originalUrl": "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 140,
       "tags": null,
       "images": [
         {

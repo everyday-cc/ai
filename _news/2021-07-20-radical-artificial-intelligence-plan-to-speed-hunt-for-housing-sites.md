@@ -56,22 +56,6 @@ related:
         width: 1596
         height: 798
         isCached: true
-  - title: "IIT Delhi Researchers Demonstrate a New Brain-inspired Artificial Neuron for Building Accurate and Efficient Neuromorphic AI Systems"
-    excerpt: "Human brain is one of the most powerful and intelligent natural computer known to mankind. Neuromorphic computing refers to the field of technology where engineers try to build intelligent machines in"
-    publishedDateTime: 2021-07-16T23:03:00Z
-    webUrl: "https://indiaeducationdiary.in/iit-delhi-researchers-demonstrate-a-new-brain-inspired-artificial-neuron-for-building-accurate-and-efficient-neuromorphic-ai-systems/"
-    ampWebUrl: "https://indiaeducationdiary.in/iit-delhi-researchers-demonstrate-a-new-brain-inspired-artificial-neuron-for-building-accurate-and-efficient-neuromorphic-ai-systems/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-delhi-researchers-demonstrate-a-new-brain-inspired-artificial-neuron-for-building-accurate-and-efficient-neuromorphic-ai-systems/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 28
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/07/iitdelhi-1024x581.png"
-        width: 1024
-        height: 581
-        isCached: true
 
 secured: "NIIRvxKWvdAJ+rrpJ1mw8N+oFz744QkprtTdtKAbWmDzJSgkzADvkB7ckLmbqLYjMBRjVDHXH3rUyZOSO281qAbceGjupNilSsPBZXxfVKwYchIY4bV+kA1v2gvn7CL0TJQ/AafZ2+JrDVIWIDjSlfjFypPYyqZqLm5iXiNLhY7MH9n9J6lUKEuQh1mhAtsnnvw+NVxf62UqMtF4MSo5UCL0hRJUBmx6aKGTXRGSs3eDOp3Kw2/zVs4gg7O6parhR2QdUc9CGp6PyQw/TF179hiZpdFZ6bFD+kITPi9i4q2iPvV+Z8+heAprEiCfDTat83dD2R89F9DsRLRnn/3H/XCF0YXTqY5VtB3neZPZkbwzbr8Wg+3nFhuL+1pHYL7bLsFouqkAPmw2x3lclkEWHrMfym7YH4GJiQJBX8euEtn8yzDTiUEcO1o64yUQgcHQ5CAtRr7LOzBpSSp3cDG6+AOQE+RitzbpE95FDoX6CmjVPrXMdnYlhLlOdffWaxPWIYMvjJ1BXHx5v/6Xf4y2pg==;jSFpgrnRzQlms+hGSuaQXA=="
 ---

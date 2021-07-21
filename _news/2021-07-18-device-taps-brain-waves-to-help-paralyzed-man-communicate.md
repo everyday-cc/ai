@@ -37,6 +37,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Speech Neuroprosthesis Translates Brain Waves into Sentences in Paralyzed Man"
+    excerpt: "In a breakthrough advance in communication neuroprosthetics reported in the New England Journal of Medicine, a team of researchers led by scientists at the University of California, San Francisco, have applied pattern recognition neural network algorithms in artificial intelligence to intercept messages from the cerebral cortex to paralyzed vocal muscles in a patient who suffered a stroke more than 15 years ago,"
+    publishedDateTime: 2021-07-21T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/speech-neuroprosthesis-translates-brain-waves-into-sentences-in-paralyzed-man/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 51
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/07/UCSF_Neurosurgery_Chang_215-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
 
 secured: "im+DtTcfcgeAOG95AMr67214w4OSKsldZK+69+VAYlIkA0DtFIZ1CJJHDtuukNuM4HNphUYRHHuhThGVqJlD41/ggB2fH2GIC3t9CQ2pdUWwD+IZdVFKX/GL5BakVSle3YhAodJJhWdsVaQW738LarAcvBEXe9F7MFAIerpy5oqPVyuuEFcEjn58WelZm76r3kqbutRQ/L5CTtDyIEF8yaVKpczxHuki1sUxrt51n75DBcagV6EXqxWj8CdPXiCEUHYVEqKqM4a/lFjdCxbhT0M75gyGWOPxgoDTGDMq3/FEXGgvsI2x/D1iHrOe6qTC47eGg3WlqmLeXFDMNCzgd6kn1cDtxuN55/UuBmf8DcE8QpDuAcHIWe4/Pj5eKLQBOOZAAidHT++yaGCVGq6t5OwM37K+Sr1Tfx+bbT2Ax2Cm5RI3yf7k27y/J1aHitT3UfnMqGUWmZHhBTaxAaTgIJZJsGCVCimeujIoB1PuAY4L7KwSh9UsChXXK3aSrL7/8eS0oc9CcULhOK9kGaya0A==;2+i91d956ww3ZaS0EtwZcw=="
 ---

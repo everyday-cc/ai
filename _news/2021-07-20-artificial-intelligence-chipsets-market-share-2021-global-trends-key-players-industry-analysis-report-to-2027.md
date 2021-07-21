@@ -28,49 +28,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market Analysis, Size, Drivers, Restraints, Opportunities and Threats by 2026"
-    excerpt: "Rising concerns over road safety to enhance artificial intelligence (AI) in automotive market share Growing inclination towards semi-autonomous vehicles is anticipated to drive the use of artificial intelligence (AI) in automobiles."
-    publishedDateTime: 2021-07-20T08:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-analysis-size-drivers-restraints-opportunities-and-threats-by-2026-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
-    excerpt: "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-07-20T12:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI Medical Image Analysis Market 2021 Growth Statistics, New Opportunities, Competitive Outlook and COVID-19 Analysis 2026"
-    excerpt: "A new growth forecast report titled Global AI Medical Image Analysis Market 2021 by Company, Regions, Type and Application, Forecast to 2026 announced by MarketsandResearch.biz contains a full-scale analysis of the global market which highlights product specification and technological advancement impacting the global market growth."
-    publishedDateTime: 2021-07-21T01:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-medical-image-analysis-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2026-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -132,52 +90,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Edge Artificial Intelligence (AI) Chip market report provides"
-    publishedDateTime: 2021-07-17T04:32:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4674743-global-edge-artificial-intelligence-ai-chip-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 23
-  - title: "Americas Computer Vision Market Share, Industry Growth, Trend, Drivers, Challenges, Key Companies by 2027"
-    excerpt: "Market Expertz latest study, titled ‘Global Americas Computer Vision Market,’ sheds light on the crucial aspects of the global Americas Computer Vision market. The Americas Computer Vision report aims to help readers accurately estimate the global market growth rate over the forecast period (2020-2027)."
-    publishedDateTime: 2021-07-16T21:09:00Z
-    webUrl: "https://manometcurrent.com/americas-computer-vision-market-share-industry-growth-trend-drivers-challenges-key-companies-by-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 22
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Americas-Computer-Vision-Market.jpg"
-        width: 750
-        height: 350
-        isCached: true
-  - title: "Artificial Intelligence Voice Market Growth – Key Futuristic Trends and Competitive Landscape 2021-2026"
-    excerpt: "Big Market Research recently added a new informative report titled ” Global Artificial Intelligence Voice Market ” in its humongous database that helps shape the future of com"
-    publishedDateTime: 2021-07-17T17:10:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-voice-market-growth-key-futuristic-trends-and-competitive-landscape-2021-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 21
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/chemical4-25-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027 report by QYResearch Group. North America is expected to be the largest and"
-    publishedDateTime: 2021-07-17T07:36:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4677370-global-artificial-intelligence-for-healthcare-applications-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 19
   - title: "Artificial intelligence chipset Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Artificial intelligence chipset chipset market is expected to grow at a significant CAGR in the period from 2021 to 2027 The use of AI for enhancing customer services and decreasing operational costs the rising number of AI applications increased"
     publishedDateTime: 2021-07-19T10:53:00Z

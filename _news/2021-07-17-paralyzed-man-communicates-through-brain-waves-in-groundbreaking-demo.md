@@ -9,8 +9,8 @@ ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/paralyzed-man-com
 cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: KHOU 11
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Speech Neuroprosthesis Translates Brain Waves into Sentences in Paralyzed Man"
+    excerpt: "In a breakthrough advance in communication neuroprosthetics reported in the New England Journal of Medicine, a team of researchers led by scientists at the University of California, San Francisco, have applied pattern recognition neural network algorithms in artificial intelligence to intercept messages from the cerebral cortex to paralyzed vocal muscles in a patient who suffered a stroke more than 15 years ago,"
+    publishedDateTime: 2021-07-21T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/speech-neuroprosthesis-translates-brain-waves-into-sentences-in-paralyzed-man/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 51
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/07/UCSF_Neurosurgery_Chang_215-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
   - title: "Device taps brain waves to help paralyzed man communicate"
     excerpt: "In a medical first, researchers have harnessed the brain waves of a paralyzed man unable to speak to help him communicate better."
     publishedDateTime: 2021-07-17T21:08:00Z

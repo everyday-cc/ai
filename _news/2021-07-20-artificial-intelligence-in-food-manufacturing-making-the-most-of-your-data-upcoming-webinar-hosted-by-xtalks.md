@@ -25,15 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud Rolls Out Visual Inspection AI for Manufacturing"
-    excerpt: "Google Cloud is using artificial intelligence to help the manufacturing industry with quality control. Google Cloud has launched Visual Inspection AI, a computer vision platform to help manufacturers reduce defects and deliver savings through the inspection process,"
-    publishedDateTime: 2021-07-17T00:37:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/google-cloud-visual-inspection-ai/"
+  - title: "Fero Labs Raises $9 Million in Series A Financing to Bring Explainable Machine Learning to Industrial Manufacturing"
+    excerpt: "Fero Labs, the only Explainable Machine Learning software solely dedicated to the industrial sector, today announced the closing of a $9 million Series A round led by Innovation Endeavors, with participation from Deutsche Invest VC."
+    publishedDateTime: 2021-07-21T14:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fero-labs-raises-9-million-in-series-a-financing-to-bring-explainable-machine-learning-to-industrial-manufacturing-1030630818"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Lambda Raises $24.5M to Build GPU Cloud and Deep Learning Hardware"
+    excerpt: "Lambda, a leading provider of deep learning GPU cloud services and computing hardware, today announced that it has raised $24.5M in financing. Primary investors include 1517, Gradient Ventures, Bloomberg ( News - Alert) Beta,"
+    publishedDateTime: 2021-07-21T13:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/21/9414045.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 51
 
 secured: "9mJU1S8R2ixkytnoh6ecglt3QpqpdDsT5JpMBf5GsTrp/AtwRQtOmOSR9hPbo2YT3EcyI7exjarH48snqZCqgEPFeovVJaB46cps9t8TK+GUuJUtiP5cOaVvIFjLRE5yvpt9FKABhSZEwmBnt7kHoR41xZcm2GEjcNXXw7qb7XonkW09jSIDoQkJaJxQTYZI92+eDjGQzCYhOnfpmwWEYj7ga+CM1AOI46UVVX97wPUjfXtvsA7jP6CWrEoaLc78sP+g+CpAbXahTR1uDYSindNJzGqCN5AeUTdKx8L3JEE7+Ycimc/b4Zl7B30DNnQPo/hQnoLgY3pxWFpCPDf8LxNdcD7L/XSG8NJfUfKdPAc=;bIN1htSAm4w76OMtmIwf2Q=="
 ---

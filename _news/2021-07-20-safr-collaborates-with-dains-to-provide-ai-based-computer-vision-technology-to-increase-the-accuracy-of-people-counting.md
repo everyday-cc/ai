@@ -3,8 +3,8 @@ category: news
 title: "SAFR collaborates with Dains to provide AI-based computer vision technology to increase the accuracy of people counting"
 excerpt: "SAFR from RealNetworks, Inc., a pioneer in high accuracy, low bias facial recognition, announces a collaboration with Dains, a Korean company that specialises in unmanned people and asset"
 publishedDateTime: 2021-07-20T10:15:00Z
-originalUrl: "https://www.sourcesecurity.com/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html?ref=nav"
-webUrl: "https://www.sourcesecurity.com/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html?ref=nav"
+originalUrl: "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html"
+webUrl: "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html"
 type: article
@@ -42,6 +42,6 @@ related:
         height: 450
         isCached: true
 
-secured: "XegjuKqVZ5JY033nZ25UfQ4j31zi8wNrUh/uYyY229ctru2dBJ3YIAuIAxMdFPRLmv2xUVRwpK0lMSVGRdVtOfgd3g8fhXz4zzYHxh+kWONa4rpyGSFSNMm6GW6BWJmnX5W4BQN40GEQi9EKF27AiW+HZ3NsdMc7QPxQ+qR3U4bxIpkw778jAz5RZoTstULXcwtOk1mkJzyte3JVw8kK6aevdhIgKylS7iTpJatoqL2U61TcuS15dNAxxMX2rlw1tqr4P7EAWP9AAe7rXbhbX3EOc3Y1y56TGWLaUgG2Kbhr1L0ZvdYrcuDn9dY0PP3XMScCtsrOhiBqtpjmEuKb5ikWzJub6Mlp7qs5nZ/mzBk=;20zmzJiuQtf7afA/LCx5NA=="
+secured: "tup6M46O5neH+ljpOCzvuUo2T+yXKx+i+Y+vKMMW5IGQmcuSG2s5teCAMo+yi5xxc/E2Gr6aHg+eLNzFsDaeXqFS+V6FAPGDaZSXQQfqDYuzbLmqN6QAPHwmy5u4pQYUEc369Q5XX7t9ZoyZUS64+N7BjKHcvdxQG6dSEq2O2iEVaoRCjZ1KckPBdS7PiG2xWBq8Q/JvH01ufDupqZo6Q4mEEE71eF1OuYtAzpcNSGqeeyQBjeNolicGaeKcQNI/vxUORd9vTbCk42lv0mB6rtJm9MpNKVYhXOkHmM30tixqxuloc4cb632hjQwSTsipPxb2RM1Mt1SF8tnrbdBetgn04G/mf0668skh+4ev2JM=;23oLcwRA1d2wapF1LqWcKA=="
 ---
 

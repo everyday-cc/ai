@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Partnership of the Caribbean: Securing the West Indies"
-excerpt: "OLDSMAR, Fla., July 15, 2021 /PRNewswire/ -- According to the Caribbean Tourism Organization, 2019 saw 32 million international tourists descend upon the region. Those millions of tourists bring with them tens of billions of dollars – plenty to entice criminals. Simply put, the PlateSmart AI-driven software and analytics are unlike any other in the industry. Aviation Communications (AV COM) Jamaica Limited, which provides video surveillance solutions to the island countries and dependencies of the Caribbean from its headquarters in Kingston, Jamaica, saw an opportunity to provide additional value by offering automatic license plate recognition (ALPR) to its customers, particularly law enforcement. It chose to partner with PlateSmart, and since 2019, the companies have been working hard to help secure the region. \"PlateSmart's flexibility, which allowed us to work together and customize the solution to suit the needs of our Caribbean clients, made them a natural fit for us,\" said Kayon Gibson, Vice President, Sales and Business Development, AV COM Jamaica. \"Their ALPR solution is scalable, robust, and easy to integrate with the IP video surveillance infrastructure we sell and support.\" PlateSmart CEO John Chigos said the company's solution has been well-received by law enforcement customers. \"The software's analytics and accuracy has surpassed all expectations and has helped law enforcement apprehend criminals faster than before.\" As an enterprise-grade solution, PlateSmart ARES ® 3.0 software has virtually no uppr limit to the number of cameras it can read. This makes it ideal for even the largest surveillance applications. In the Caribbean, it can even be configured to monitor feeds among islands, which is ideal for nations and dependencies that are part of an island group or archipelago. Even better, PlateSmart ARES 3.0 returns search results within seconds, no matter how many cameras it is monitoring. In the aftermath of a crime, those seconds make it possible for police to apprehend suspects before they can make their getaway. PlateSmart CEO John Chigos said that the advanced analytics PlateSmart ARES offers can help law enforcement prevent crime in the first place. \"Many solutions help police investigate crimes after the fact,\" he said. \"PlateSmart can also help stop crime by giving law enforcement the intelligence they need to see if a crime is being planned. This includes vehicle behavior like 'casing' a location in advance of a crime or attack. Our software's ability to examine vehicle behavior means keeping more people safe and putting more criminals out of business. \"Simply put, the PlateSmart AI-driven software and analytics are unlike any other in the industry. It is proactive and predictive. And as has always been our philosophy, the customer owns all their data. They determine who accesses it as well as where and for how long it is retained. We never touch it.\" For more information or to schedule a demo, visit www.platesmart.com. In 2004, Cyclops Technologies, under the PlateSmart Technologies brand, introduced the first software-only, camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology and compatible with video management systems (VMS). Today, the brand's solutions have evolved into stand-alone vehicle recognition tools as well as those designed to integrate with almost any third-party software and hardware. They serve diverse applications, from law enforcement to wide-area surveillance to customer service enhancement, across a variety of markets in the U.S. and around the world. The cutting-edge PlateSmart ® ARES ® 3.0 enterprise solution is designed for use with a virtually unlimited number of cameras. It can search those cameras within seconds across a number of vehicle attribute, location, and date/time parameters for up-to-the-moment actionable intelligence and complete situational awareness. ARES Analytics provides deep intelligence about a vehicle's travel behavior as well as mass traffic patterns, with a full suite of data visualizations and the ability to export data for additional analysis. PlateSmart solutions have received multiple industry awards for excellence in security technology. Learn more at www.platesmart.com   FORWARD LOOKING STATEMENTS: This press release may contain forward-looking statements and/or predictions. These statements are based on history, current knowledge, and current market conditions. They are subject to change without notice as conditions and knowledge change; therefore, undue reliance should not be placed on such statements."
-publishedDateTime: 2021-07-15T20:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-partnership-the-caribbean-securing-west-indies-/2021/07/15/9410651.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-partnership-the-caribbean-securing-west-indies-/2021/07/15/9410651.htm"
+excerpt: "According to the Caribbean Tourism Organization, 2019 saw 32 million international tourists descend upon the region. Those millions of tourists bring with them"
+publishedDateTime: 2021-07-15T20:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/partnership-of-the-caribbean-securing-the-west-indies/article_990f045c-1b28-5876-855a-a8f6e283d488.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/partnership-of-the-caribbean-securing-the-west-indies/article_990f045c-1b28-5876-855a-a8f6e283d488.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "wNpODDHgtoJLqfxTBwuMS4sIsY0Badyv73F8RMEINw7jsJJXgGqKBvXOnTX/34h6XlApjNNGyKZk+qRPWg9we6w1d/JKquot/Yf97YdlYCgeGA9M/jxcewxJ23HZkAgsYtxdPB7K7D81CoTlOBeu11MFLQc3I+naa0SgC4CeGSB1gHLhEL/0GE7LOahL7GWIn6DjjLM46gHsnzVOFNCVp0eWhGXgEDv8JSRcKJo4OppV01qG7dJIBnJg3K8ZdMHQCW4YjqdKR3ABqw1u1VtIYNqhb5INwlcrNvI1vGXeaUbiNZgKRT8s5KBlnhb1Pgyw14xUre1kLxLR0DNK8JAm4iss+gNGpOANitz3+QGjqX4=;6CX5ySuVkcbNx2vGiLlGoQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "F8hCz834G4IDPEYxqkIJ1nsXKBJQVIYzew1U9n4VovIZDc9RTLgHanLiVKnZA6R1c37tVGmfDL4ySMyUn5drStQb0jecpOJtBzu73qteaeEOL3d2Dhumj+VPcYY8IOFOyfkvntMT0MliOmmakydw+C1+bFe9T9cOMTtiy11wlaFdOT3gq7YGzgZ4Mc1paYUkG3oheL1OevHD7iL9o2W1tvsMKmXFhCLvEmLjtMSuWJNWrQO2YzlqKaZZzXEEmaNFqsXe4i/2WkfTJo3A5fGjj0kb2I74qVozuQFTUVA3aRQBCLmvTQ+9IqbBjnC7ykM3mLkGE7nVqBZSFXhh+E8BaB1rcfWvKUsHn8FOCrvONYQ=;HY4lRlQk2aMRcQ3YQyH4cQ=="
 ---
 

@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Tesla knocked $500 off a hardware upgrade for its Full Self Driving subscription after customer backlash"
+    excerpt: "Tesla offered customers with older cars a $1,500 Full Self-Driving hardware upgrade, provoking a backlash. Now, it's charging $1,000."
+    publishedDateTime: 2021-07-21T15:29:00Z
+    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/60a1038ef27b4c0019444b4e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tesla launches its Full Self-Driving subscription package for $199 per month"
     excerpt: "Tesla has officially launched its Full Self-Driving subscription package for $199 per month or $99 for those who have previously bought the now discontinued Enhanced Autopilot package. Tesla FSD Subscription Tesla currently sells the Full Self-Driving package for a one-time payment of $10,"
     publishedDateTime: 2021-07-17T03:33:00Z
@@ -478,6 +494,6 @@ related:
       domain: carscoops.com
     quality: 34
 
-secured: "+uPQNpuaXoJ4b3zoxiGrGUpJ6GdN1OMlk3LuQRo1HtIyqy94b45ckwesMBuVZLo9XdeyhxNGUcWqNnreZvD1qoZyazlM0ZS+Z5ftUvi33ZYcAwZ/ZB1pl3jCpC/yZARrNcR9rUjKSU/SQlBeF+zpvjxQGG6xhX6I3cLKrN8W34B9urjt/vROtwrAg+C2Z5DdxJ7ZikjOOs9m05kYTDTDqno/A3LYIfL4PVOKpQafmv0t6e9qTGHzM6DH2Sst+QFJuvE4Wdsdp15aHBK5QSXosXRWE7FtPKWh116FEo6P6HcW4ekkp3VhRUoMpgTzhFTw/6fzlJttalz9tqqQOPZQwr8K40/YWA7Z4613DdUbzCo=;uk3Em02um/r6kMgvoQPPiQ=="
+secured: "EuR3/+B1Jd42MghSmtp+8OK+++B7iNmAdXVulR4otOXUp1BzwvNEu1/EeSYGWtfiEj1banrFdAzTEz1atxHBjknC/PM4n/I03z83j8LLd+dtxJW2bhJuc435Z9pRNxlQr6jg0QR151vJv/+Xdcdeert9ByS0DCo/OzoDLr2sIYqcoRdlCVal3rQO42IJE8LcSe484wqqIOigZ5QeiSilWRkygKkrMP5es7p/EnjXPHN004dCG6dWuKUxBIeOt85YqPvcG2FjZYmMuDmFEOhBkRCtlq2To3HlwY7rrSE1J/x/3YLVYbK3GtSAjPaUkURwmqFIbwIAz2uHjieipRphSrdEzYaUDC9U5OI6J2EBUvDUGlYSCRclFT6lEqY4KZLcmIIxiuSTQKJHbYo+GUgb6bxktBX8Yv/Rh06seCBEdGbhbY4YnrQAMmpxKIqAcaCCMkzignan/Ao9KsRxAFqOgJW1abkqbfoVrgoM1dhG5UutLleIiZ4oa4phGQmWeA94UlrTWGs2hC2ydgY8sLeOjQ==;JNGa2sZ4glL8zRVquzwdww=="
 ---
 
