@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-07-20/intel-s-mobiley
 webUrl: "https://www.bloomberg.com/news/articles/2021-07-20/intel-s-mobileye-runs-self-driving-test-cars-in-new-york-city"
 type: article
 quality: 54
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mobileye begins testing autonomous cars in New York"
+    excerpt: "People on the streets of New York will soon see a new type of vehicle meandering around: Mobileye's prototype autonomous cars. The company's parent company, Intel, announced Tuesday that the vehicles are officially on the road in NYC to tackle \"one of the world's most challenging driving environments."
+    publishedDateTime: 2021-07-20T18:14:45Z
+    webUrl: "https://www.cnet.com/roadshow/news/mobileye-intel-autonomous-cars-new-york-city/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/mobileye-intel-autonomous-cars-new-york-city/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mobileye-intel-autonomous-cars-new-york-city/"
+    type: article
+    provider:
+      name: cnet.com/roadshow/news/mobileye-intel-autonomous-cars-new-york-city/
+      domain: cnet.com/roadshow/news/mobileye-intel-autonomous-cars-new-york-city/
+    quality: 142
+    images:
+      - url: "https://www.cnet.com/a/img/AXkjCvqVg51d1HH8MO5tKpXt8VQ=/2021/07/20/3d8b3475-e4d7-4b6c-bd22-79f431a526fd/ogi-me.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mobileye tests self-driving cars in New York City"
     excerpt: "\"at-above-post addthis_tool\" data-url=\" Tina Bellon (Reuters) -Intel Corp unit Mobileye on Tuesday said it was testing self-driving vehicles in New York City, including the bustling Manhattan borough,"
     publishedDateTime: 2021-07-20T17:18:00Z

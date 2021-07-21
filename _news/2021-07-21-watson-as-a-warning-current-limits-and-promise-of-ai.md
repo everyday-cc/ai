@@ -3,13 +3,13 @@ category: news
 title: "Watson as a Warning: Current Limits and Promise of AI"
 excerpt: "We can’t seem to decide whether AI will replace humanity as the dominant intellectual force or it will simply be a sideshow never reaching its promise. Is AI the technology of the future, or wil"
 publishedDateTime: 2021-07-20T17:17:00Z
-originalUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai"
-webUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai"
+originalUrl: "https://www.natlawreview.com/Node/153737"
+webUrl: "https://www.natlawreview.com/Node/153737"
 ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
 type: article
-quality: 76
-heat: 90
+quality: 74
+heat: 84
 published: true
 
 provider:
@@ -17,9 +17,8 @@ provider:
   domain: natlawreview.com
 
 topics:
-  - AI
   - IBM AI
-  - Natural Language Processing
+  - AI
 
 images:
   - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
@@ -43,6 +42,6 @@ related:
         height: 450
         isCached: true
 
-secured: "d58LUP++fMLEAN98et3GNrBxEzR7HL9dz4lYaqFvmKmARWXpfWO6qRMtZ5FQ3sy0fVRW6wUCli1cpAbbiTs8f11uhO04mdpXnXD1i8osYX/v8mLiMPAfmtrm3D/ncMp1In1jz3NXEKM0T6vbXpI5ejjjD349TJf+lD+kT2i/6h3zZSyg5FnUq3aVMdZSbvY6Y4kPtsqd8/9LPD6kxZjNch5iPHOucdlCVB7IJ/86qVA51TNpkauQt7VeCGvX6D/tWR5iBZQIKF8GWno68/60xW5w7Ey7KNB0ewvURrNeM74IGM7ypUFZBh73jW/cVSTGNjTuNyG2uLH5o/C/4ZUl/fKbpw6HlEd2prC4cHi5bn4=;d0P679ALYX/srNlIfVuP6A=="
+secured: "sHOskD4xSV6HPTJGObgJlWQY+2leZR0m24yhRXmgDphAZ9jy/J6KF/mhJEV6X6BKoVlcZbQ1fGsmJwwVjENg0T5WBwoB8d9bKCz6pUmIVACjLvWNHJzjPusPlRAhJWnbSRXUt++nV+AETAZQ5T7Dpco4vxVGz/LW6YaThYC5IzHbo0sHKydAbt8F+w9e/TUpWotZVwHHLSkF4I0yEGhvP0h+ndOeUaYr/SHL8IxRq2Epre3P87gI7IZpksmMrxFokMPWOYaVConV5LpSDMag0YUBp43iz7Huk8+ibe1O4VtZyErc74GfF8+U402ePFhEacPwRC5c4lvgPaMZFiL1vAHwPLvOL8EG+wojNTZtOjU=;7wR9zoCfEBxBoZuoGXSa+g=="
 ---
 

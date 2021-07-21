@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-25-leaked-memo-google-is-spinning-up-a-new-internal-group-focused-on-machine-learning-in-a-push-to-make-substantial-gains-in-ai.md",
+      "title": "Leaked memo: Google is spinning up a new internal group focused on machine learning in a push to make 'substantial gains' in AI",
+      "excerpt": "Google is spinning up a new internal group focused on machine learning as it tries to get ahead in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-new-machine-learning-group-artificial-intelligence-ai-brain-core-2021-6",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/leaked-memo-google-is-spinning-up-a-new-internal-group-focused-on-machine-learning-in-a-push-to-make-substantial-gains-in-ai/ar-AALp5Nc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60d48c5e5f52060018bbecf6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T12:30:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessinsider.com/google-new-machine-learning-group-artificial-intelligence-ai-brain-core-2021-6",
+        "domain": "businessinsider.com/google-new-machine-learning-group-artificial-intelligence-ai-brain-core-2021-6",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-iiit-hyderabad-launches-online-foundation-course-in-machine-learning.md",
       "title": "IIIT-Hyderabad launches online foundation course in Machine learning",
       "excerpt": "Hyderabad: The International Institute of Information Technology, Hyderabad (IIIT-H) launched a 50-week online foundation course in Modern Machine Learning for engineering students on Thursday. The online course will be open to undergraduate engineering students who are in their third or fourth year pursuing a program in Computer Science/Information Technology,",
@@ -1298,58 +1350,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible.md",
-      "title": "The Future Of AI And ML Fairness In Southeast Asia: Who's Responsible?",
-      "excerpt": "Regulators, practitioners and businesses must collaboratively rise to the challenge of unlocking the power of data ethically in response to the evolving needs of SEA communities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211552718%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/amp/",
-      "publishedDateTime": "2021-06-18T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

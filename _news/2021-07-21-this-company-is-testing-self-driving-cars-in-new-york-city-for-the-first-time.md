@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mobileye begins testing autonomous cars in New York"
+    excerpt: "People on the streets of New York will soon see a new type of vehicle meandering around: Mobileye's prototype autonomous cars. The company's parent company, Intel, announced Tuesday that the vehicles are officially on the road in NYC to tackle \"one of the world's most challenging driving environments."
+    publishedDateTime: 2021-07-20T18:14:45Z
+    webUrl: "https://www.cnet.com/roadshow/news/mobileye-intel-autonomous-cars-new-york-city/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/mobileye-intel-autonomous-cars-new-york-city/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mobileye-intel-autonomous-cars-new-york-city/"
+    type: article
+    provider:
+      name: cnet.com/roadshow/news/mobileye-intel-autonomous-cars-new-york-city/
+      domain: cnet.com/roadshow/news/mobileye-intel-autonomous-cars-new-york-city/
+    quality: 142
+    images:
+      - url: "https://www.cnet.com/a/img/AXkjCvqVg51d1HH8MO5tKpXt8VQ=/2021/07/20/3d8b3475-e4d7-4b6c-bd22-79f431a526fd/ogi-me.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Intel’s Mobileye Runs Self-Driving Test Cars in New York City"
     excerpt: "Mobileye NV has begun testing self-driving cars in New York City, a congested urban grid known for jaywalkers, weaving bicyclists and aggressive drivers."
     publishedDateTime: 2021-07-20T18:44:00Z

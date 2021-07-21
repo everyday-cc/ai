@@ -48,7 +48,7 @@ related:
     provider:
       name: The Next Platform
       domain: nextplatform.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/oil-and-gas.jpg"
         width: 1030
@@ -103,17 +103,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
-  - title: "Artificial intelligence in accounting Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence in accounting market is expected to grow at a significant CAGR in the period from 2021 to 2027 The rising requirement to automate accounting operations and enable data based advising and decision making are driving the AI"
-    publishedDateTime: 2021-07-19T11:37:00Z
-    webUrl: "https://www.openpr.com/news/2331557/artificial-intelligence-in-accounting-market-share-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2331557/artificial-intelligence-in-accounting-market-share-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331557/artificial-intelligence-in-accounting-market-share-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
   - title: "Artificial intelligence in transportation Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Artificial intelligence in transportation market is expected to grow at a significant CAGR in the period from 2021 to 2027 Government rules for car safety are becoming more stringent as is the use of advanced driver assistance systems ADAS"
     publishedDateTime: 2021-07-19T11:49:00Z

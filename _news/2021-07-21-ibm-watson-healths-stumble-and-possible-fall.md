@@ -28,14 +28,14 @@ related:
   - title: "Watson as a Warning: Current Limits and Promise of AI"
     excerpt: "We can’t seem to decide whether AI will replace humanity as the dominant intellectual force or it will simply be a sideshow never reaching its promise. Is AI the technology of the future, or wil"
     publishedDateTime: 2021-07-20T17:17:00Z
-    webUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai"
+    webUrl: "https://www.natlawreview.com/Node/153737"
     ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
     cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
     type: article
     provider:
       name: The National Law Review
       domain: natlawreview.com
-    quality: 76
+    quality: 74
     images:
       - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
         width: 1426

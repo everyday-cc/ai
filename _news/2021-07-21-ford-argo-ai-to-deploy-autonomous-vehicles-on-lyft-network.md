@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
-excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network"
-publishedDateTime: 2021-07-21T11:23:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
-webUrl: "https://abcnews.go.com/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
+excerpt: "The service using Ford vehicles and a driving system developed by Pittsburgh-based Argo AI will begin in Miami later this year and start in Austin, Texas, in 2022."
+publishedDateTime: 2021-07-21T16:34:00Z
+originalUrl: "https://nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
+webUrl: "https://nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
+ampWebUrl: "https://nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_6eb09e4468b14e6e82e13ffd996d2042_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Lyft-feature.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -72,6 +72,38 @@ related:
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
+        height: 630
+        isCached: true
+  - title: "Lyft is getting autonomous Argo AI Ford cars for public rides this year"
+    excerpt: "You may be able to summon an autonomous Ford via the Lyft app later this year, with the automaker and the ride-hailing app working to put self-driving Argo AI cars on the network. It’s the"
+    publishedDateTime: 2021-07-21T18:26:00Z
+    webUrl: "https://www.slashgear.com/lyft-is-getting-autonomous-argo-ai-ford-cars-for-public-rides-this-year-21683269/"
+    ampWebUrl: "https://www.slashgear.com/lyft-is-getting-autonomous-argo-ai-ford-cars-for-public-rides-this-year-21683269/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/lyft-is-getting-autonomous-argo-ai-ford-cars-for-public-rides-this-year-21683269/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/Lyft-Argo-Ford_AV-Escape-Hybrid_01.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Lyft Riders Will Be Able to Hail Argo AI's Self-Driving Ford Vehicles Later This Year"
+    excerpt: "Argo AI, Ford, and Lyft partnered to bring self-driving vehicles to the ride-sharing network in select US cities."
+    publishedDateTime: 2021-07-21T19:13:00Z
+    webUrl: "https://www.pcmag.com/news/lyft-riders-will-be-able-to-hail-argo-ais-self-driving-ford-vehicles-later"
+    ampWebUrl: "https://www.pcmag.com/news/lyft-riders-will-be-able-to-hail-argo-ais-self-driving-ford-vehicles-later?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/lyft-riders-will-be-able-to-hail-argo-ais-self-driving-ford-vehicles-later?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 82
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05H6ijajY6h7rmxSpwZynSX-1.1626894805.fit_lim.size_1200x630.jpg"
+        width: 1121
         height: 630
         isCached: true
   - title: "Ford, Argo AI launching self-driving Lyft service in Miami this year"
@@ -127,6 +159,22 @@ related:
         width: 6410
         height: 4274
         isCached: true
+  - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
+    excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network."
+    publishedDateTime: 2021-07-21T18:31:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-ford-argo-ai-lyft-autonomous-vehicles-20210721-pagf5mmtcvhp3hbvr4o2ad7pva-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-ford-argo-ai-lyft-autonomous-vehicles-20210721-pagf5mmtcvhp3hbvr4o2ad7pva-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-ford-argo-ai-lyft-autonomous-vehicles-20210721-pagf5mmtcvhp3hbvr4o2ad7pva-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 57
+    images:
+      - url: "https://www.chicagotribune.com/resizer/nspNpyG5fCc485UtMVuPpPYMHWY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/EUEX4JFUUPPG4H4GF7AJFKDMZE.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Ford, self-driving vehicle company Argo AI to offer autonomous rides on Lyft"
     excerpt: "The service using Ford vehicles and a driving system developed by Argo AI will begin in Miami later this year and start in Austin, Texas, in 2022."
     publishedDateTime: 2021-07-21T13:20:00Z
@@ -175,6 +223,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Argo AI, Ford and Lyft to launch self-driving ride-hail service in Miami and Austin"
+    excerpt: "The service is expected to launch in Miami later this year and in Austin next year with a safety driver inside the Ford Escape hybrid vehicles. Over the next five years, the companies want to deploy at least 1,"
+    publishedDateTime: 2021-07-21T19:41:00Z
+    webUrl: "https://www.autoblog.com/2021/07/21/lyft-ford-argo-ai-autonomous-rides-miami-austin/"
+    ampWebUrl: "https://www.autoblog.com/amp/2021/07/21/lyft-ford-argo-ai-autonomous-rides-miami-austin/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/07/21/lyft-ford-argo-ai-autonomous-rides-miami-austin/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 51
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2021-07/41862a40-ea5a-11eb-9e77-7d41c940d0d1"
+        width: 1062
+        height: 597
+        isCached: true
   - title: "Ford to launch self-driving vehicles on Lyft network in U.S. this year"
     excerpt: "Ford and Lyft are partnering to provide self-driving vehicles for riders in the United States, and the first will roll out in South Florida later this year, the companies said Wednesday."
     publishedDateTime: 2021-07-21T12:44:00Z
@@ -215,6 +279,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "i0nmk9KXli7339O2prYdAJt3P+utg3a0XwxECgurzNvBqIQeJBDkdV9/YbDRP4V9jMRE+UXsGAzHaPoqDH70O4LA7b2Ec6IV122v9ymihCRbI+2fw3xer/xVg565YxGpBRv6RUCUa2Visra8V/ix947ylf8nKKr64wWoJP1Mw0f6mmksZJiKDofLl8HCuVXbTA8S6y8J4pt2WK0ch7nmtLRvFZPqLGp+6PuqbcMGewlDa5EA68n/evcGnTqH65HlqL8YciBgN1ygL5dGHzSs3MrKBikpN+YTPw/Pztz+5Sov6slxxthuJk53R9oZRI5EGKVh2aA4j/PKwiHPNUPyyvwntLmFNbSRLWFnpHngUPQ=;zr9YQhvdT0R5/DVx+7izaw=="
+secured: "zzBoLC5zwSE77vKLbWf4Je+4L8r27kN1s/SHHVv6BR87JA/7RywIKfCp+c7zClXGGdoGWBEDniN5B9dFxbaL+OLj9xGEIXs2DS+HAWHE2SIdpL/HYadDjocilTnLfe1lShf6GelJ7+2w+tkfwHzjqIyKUSIrvTyW50FsJFixLtrZLxkqd3XG6VI4osw45jB7MvVFJk07XHOLngp2/COfoJ9uqx+aK7pAztr6J7VNXwsnhFZgez6UVinf+w0VQSWS8BT1/vtqzsKi2Qe3g87B0YjuOELjHFevHWo5tP0VCQbygFX5ECFeC7fVK82/ayJnX7OLUpreY0IATp5AZwDeHDcklk/tNCbbX6lRsSP7p2w=;V3rJu0b+SzwKDyT36IXhkg=="
 ---
 

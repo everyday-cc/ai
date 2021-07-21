@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/19/threat-modeling-can-protect-data-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 601
     isCached: true
+
+related:
+  - title: "Intuit expanded userbase with AI assistants and virtual human experts"
+    excerpt: "CTO Marianna Tessel explains how Intuit combined AI assistants with virtual human experts and grew the TurboTax Live customer base 70%."
+    publishedDateTime: 2021-07-21T18:40:00Z
+    webUrl: "https://venturebeat.com/2021/07/21/intuit-expanded-userbase-with-ai-assistants-and-virtual-human-experts/"
+    ampWebUrl: "https://venturebeat.com/2021/07/21/intuit-expanded-userbase-with-ai-assistants-and-virtual-human-experts/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/intuit-expanded-userbase-with-ai-assistants-and-virtual-human-experts/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/intuit.png?w=1200&strip=all"
+        width: 1200
+        height: 606
+        isCached: true
 
 secured: "yXeBeUhjiHwJjlOgmL9xwFVVg8sOhCyFLuVGcNtvOSq586XDbDF4b5pptPSve2Vi991RnrflNHjj77HS+VNAcTwJFBtbhbVnga7Xg2bScgcItNGVWS9YzbHmlbE2JyCIG66tqrSBslYb5dLfIGWlM4rxd/lFefuGpXIzlEpYE1nFr+kv51Nn1UFpwgHUccSzKrQLFCy4rDwr/XVz9M5OkYymWnsXZX4FjvlkLV5auN7xpQ5/c8S9jEKYnKxU8HhZNEjMpOuE499XfPjuMap+crEdA5b4NieQ7yQayHAVXymu9hmwk4HjrefG8rIEofMynlrWffjIn1YqVgeY+IG7Q8qmBQnNwa+XOBRddpu/J3yNPFmcFl9RWtBKQFG97I3kzh2KfFoxCs/MwJ39tXw3IZW5lfR1+JKlliM5dOC7G90ViLSDhaIVMJnF8cdsILcKFty2CJy6BzZDLiVqm2QUfo35QsallXQbqbAXSLP3gXd0dgwLt/yUFPWpThOSL4lYgnZBbFjrNzSTTmVJqxec7g==;9+m1zI4zfQuIk5d/Tlh4Bg=="
 ---

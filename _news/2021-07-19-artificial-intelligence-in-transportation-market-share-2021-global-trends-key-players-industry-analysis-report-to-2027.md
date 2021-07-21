@@ -47,7 +47,7 @@ related:
     provider:
       name: The Next Platform
       domain: nextplatform.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/oil-and-gas.jpg"
         width: 1030
@@ -113,17 +113,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
-  - title: "Artificial intelligence in accounting Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence in accounting market is expected to grow at a significant CAGR in the period from 2021 to 2027 The rising requirement to automate accounting operations and enable data based advising and decision making are driving the AI"
-    publishedDateTime: 2021-07-19T11:37:00Z
-    webUrl: "https://www.openpr.com/news/2331557/artificial-intelligence-in-accounting-market-share-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2331557/artificial-intelligence-in-accounting-market-share-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331557/artificial-intelligence-in-accounting-market-share-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
 
 secured: "qcADeJJ9UEP932dpQJOAMd+VaIqMlTe7OddwnDf1ZkZqJ3gz+2QIOwRZBlmjb0U/gieOb0cejV4qcTi4oFCqLe9Ku3mCPDMmKumD1iWxK9X1YiL8DlZjQivl8GX73xvYhDKGEuWHkQp3UOQWQolK1py8wR9GNjqEDACDw+6U0m/qKzQdw3c7/jpbVUutwobFvdSat56DGwrbiPenR/Unwoi/wQAmCY1mk9+qHSK9NgugqyRIMgCirtpz76UyN0MG4stCdRJhpUmtSznDyu1OxaPt9ibB5I1LIl/KbIUBtIjiVh8U3sQIvKQNKR+m8M+1msB4f6EXdNB/Ju+cJCM+BZZZ7Q+OLNYJxyuW/4jzZcc=;wYSll4okqFDg+s4dO9r7cw=="
 ---
