@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Black Knight Announces Underwriter Assist Digital Solution, Leverages Machine-Learning Tools From AWS"
-excerpt: "Black Knight, Inc. (NYSE:BKI), an award-winning provider of software, data, and analytics to the mortgage, real estate, and"
-publishedDateTime: 2021-07-20T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-301336486.html"
-webUrl: "https://www.prnewswire.com/news-releases/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-301336486.html"
+excerpt: "Today, Black Knight, Inc. (NYSE:BKI), an award-winning provider of software, data, and analytics to the mortgage, real estate, and capital markets verticals, announced Underwriter Assist, the latest AI-powered mortgage solution developed by Black Knight running on Amazon Web Services,"
+publishedDateTime: 2021-07-20T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-1030625676"
+webUrl: "https://markets.businessinsider.com/news/stocks/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-1030625676"
 type: article
-quality: 26
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - AWS AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/709994/Black_Knight_Logo.jpg?p=facebook"
-    width: 2021
-    height: 1058
-    isCached: true
 
 related:
   - title: "Black Knight unveils Underwriter Assist, leverages machine-learning tools from AWS"
@@ -41,6 +39,6 @@ related:
         height: 300
         isCached: true
 
-secured: "MfuHzMcl+y6U9NJObEX5vJS5MIGB658dTXmjH7lWjXr/YWISHYXuXp4eKoW2ToHOQImL5BsjBHFMV1ZnU8iLYRgB4F/8X3gGNvZ8al4Yf5vfhoyfJuwBYFs+Ud7YUstt/pANlu1hwIBVEmsaWikkYtqtdWjW7GquGksk1OwHmY1+/DWiROxL1AaijpSjKtcuoa9dZQIxTlQF3o/FXJ73hDVrIVuglhtRrTABWS96+A2oD4o+ynvCRyREzasED/9HSHciQeqqE88ByxSO45Ye6l3vNoT0t3797sjkc2GLB90KjFxkWhk3PapDKtXUb6OjE+aJWJ6CTTW+gIfbDUf6lroCTAjPrSG2UCZRvOETK1x2vr9h0XgT996H1RM1BNKburrsS2zGJIfKlA2UBzojquyBTsJlqwzEReHxM6CKNP/t8aMaydIFfzd67KLwLgixSRjmAkEMnnYjqZCHrlFhMydlSy0xU/Wcpp4Km+/qGzl87JZWKP/g8oLUKJd4q8Hkks6ohgVw85UY736gsgkJWw==;fUJysCcsvdbL4yEUhVaEjQ=="
+secured: "ef7YVptc902GnDhbL1Q4MwSvC+HHdwD95Q5DBtpTrMOhB15UB6IfdCQEmD2+lN4fNHx0UkvstnMVfu1QW/9P7RSPUlAjlHE/7PF9GkYk9hl+21m3ICEUe5DAEiIRhE5am8r1TdB2T72qQXefvV14+kQfCLdQQF0c7kwMDvvkI3AiMVwX87/sDDTrSDXhyGoN89T3HmeV+AwFcQcQld9FHlDuRHHeIze7gTnIZXmjTiR3VxxR9jdOaEhGq2NZXaFqOvHWePw7VLcpIDYYFoIr2HEaakoBkKFdMalwEw/h1r+tuosZjV0Br1vpOyY5Lj7Yo6/H/7Pxgbj5jSxDYzN1PdFSL7zCXX/NRVPs4moOU2M=;ws9zs/Wn5ZWUqxG322fHfA=="
 ---
 

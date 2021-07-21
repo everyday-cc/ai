@@ -149,22 +149,6 @@ related:
         width: 1200
         height: 856
         isCached: true
-  - title: "'Roadrunner' director defends use of AI technology in Anthony Bourdain documentary"
-    excerpt: "Morgan Neville came under scrutiny, despite having permission, for recreating Anthony Bourdain's voice using artifical intelligence in the film, \"Roadrunner.\""
-    publishedDateTime: 2021-07-16T19:31:00Z
-    webUrl: "https://www.goodmorningamerica.com/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
-    ampWebUrl: "https://www.goodmorningamerica.com/amp/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
-    cdnAmpWebUrl: "https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
-    type: article
-    provider:
-      name: GMA
-      domain: goodmorningamerica.com
-    quality: 53
-    images:
-      - url: "https://s.abcnews.com/images/GMA/morganneville-leshalles_1626436645036_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Filmmaker used AI to re-create Anthony Bourdain quotes in new Roadrunner documentary"
     excerpt: "In an interview with The New Yorker, filmmaker Morgan Neville admitted he used AI and computer algorithms to re-create Anthony Bourdain's voice in several scenes in his new doc, Roadrunner."
     publishedDateTime: 2021-07-16T21:41:00Z
@@ -196,22 +180,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-596058,msid-84496547/untitled-1.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Ottavia Bourdain denies giving permission to recreate Anthony Bourdain's voice with an AI for Roadrunner"
-    excerpt: "Roadrunner, Morgan Neville’s documentary about Anthony Bourdain, features narration by the chef and No Reservations host. While most of that audio was recorded by the actual Bourdain, Neville took on the ethically questionable approach of using stitched-together clips,"
-    publishedDateTime: 2021-07-16T20:40:00Z
-    webUrl: "https://www.avclub.com/ottavia-bourdain-denies-giving-permission-to-recreate-a-1847306355"
-    ampWebUrl: "https://www.avclub.com/ottavia-bourdain-denies-giving-permission-to-recreate-a-1847306355/amp"
-    cdnAmpWebUrl: "https://www-avclub-com.cdn.ampproject.org/c/s/www.avclub.com/ottavia-bourdain-denies-giving-permission-to-recreate-a-1847306355/amp"
-    type: article
-    provider:
-      name: AV Club
-      domain: avclub.com
-    quality: 42
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fada743049f9454b14692ef4bb2872e2.jpg"
-        width: 800
-        height: 452
         isCached: true
   - title: "“Dicey Territory”: Controversy Erupts Over AI-Generated Voiceover In Morgan Neville’s Anthony Bourdain Documentary ‘Roadrunner’"
     excerpt: "Normally on the opening day of a Morgan Neville film, the talk would be about box office potential—after all, his 2018 Mr. Rogers documentary Won’t You Be My Neighbor? earned an astounding $23"

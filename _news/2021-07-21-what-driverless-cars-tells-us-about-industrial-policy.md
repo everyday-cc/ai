@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Robot ‘training’ on famous Highland estate will make driverless vehicles more reliable"
-    excerpt: "The project will help make driverless vehicles of the future more reliable ... engineers and students dedicated to researching robotics, artificial intelligence, systems engineering, and other related fields. A crash scene for the new James Bond movie ..."
-    publishedDateTime: 2021-07-17T05:07:00Z
-    webUrl: "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/"
-    ampWebUrl: "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/"
-    cdnAmpWebUrl: "https://www-pressandjournal-co-uk.cdn.ampproject.org/c/s/www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/"
+  - title: "Chinese driverless car start-up WeRide makes first acquisition as competition ramps up"
+    excerpt: "Chinese driverless car start-up WeRide has made its first acquisition, an autonomous trucking firm called MoonX, as it looks to commercialize self-driving tech."
+    publishedDateTime: 2021-07-21T05:13:00Z
+    webUrl: "https://www.cnbc.com/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html"
     type: article
     provider:
-      name: The Press and Journal
-      domain: pressandjournal.co.uk
-    quality: 83
+      name: CNBC
+      domain: cnbc.com
+    quality: 181
     images:
-      - url: "https://www.pressandjournal.co.uk/wp-content/uploads/sites/2/2021/07/ORI_Scotland-3.jpg_39621277-scaled-e1625854534304.jpg"
-        width: 2457
-        height: 1472
+      - url: "https://image.cnbcfm.com/api/v1/image/106913345-1626761042533-WeRide_robotaxi_.jpeg?v=1626761714"
+        width: 7952
+        height: 5304
         isCached: true
   - title: "Understanding attitudes to driverless cars"
     excerpt: "A team at Cardiff University are using a state-of-the-art driving simulator to observe and measure how humans interact with autonomous vehicles."

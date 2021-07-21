@@ -39,20 +39,6 @@ related:
         width: 4432
         height: 2955
         isCached: true
-  - title: "Microsoft Partners With U.S. Army Engineers To Use Azure Cloud For Extreme Weather Modeling"
-    excerpt: "Microsoft announced on Wednesday that the company has signed a cooperative research and development agreement (CRADA) with U.S. Army engineers use the company’s Azure Government cloud for a system that models extreme weather around coasts."
-    publishedDateTime: 2021-07-16T19:30:00Z
-    webUrl: "https://www.executivegov.com/2021/07/microsoft-partners-with-u-s-army-engineers-to-use-azure-cloud/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 44
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/07/16/4c/da/ed/bd/2f/15/c5/04/microsoft_20210625.png"
-        width: 272
-        height: 270
-        isCached: true
   - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
     excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"
     publishedDateTime: 2021-07-20T14:00:00Z

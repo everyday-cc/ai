@@ -43,6 +43,20 @@ related:
         width: 700
         height: 308
         isCached: true
+  - title: "No Joy in the Sales Process - No Deal, New Intelligent Automation Partnership Forms"
+    excerpt: "It requires the right technology and the best people to deliver it.\" \"As a sales organization, we strive to generate revenue while having fun. Doing both makes everyone happy. If there's no joy in the sales cycle,"
+    publishedDateTime: 2021-07-21T13:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/no-joy-in-the-sales-process-no-deal-new-intelligent-automation-partnership-forms-1030630710"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://mma.prnewswire.com/media/1094561/Grooper_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "MIT Centre for Future Skills Excellence introduces PG Diploma in Robotics Process Automation for Career aspirants"
     excerpt: "MIT Centre for Future Skills Excellence, MIT Art, Design & Technology University Pune has introduced a new post-graduate diploma in Robotics Process Automation from August 2021 academic session. On the occasion of World Youth Skills Day,"
     publishedDateTime: 2021-07-19T06:42:00Z

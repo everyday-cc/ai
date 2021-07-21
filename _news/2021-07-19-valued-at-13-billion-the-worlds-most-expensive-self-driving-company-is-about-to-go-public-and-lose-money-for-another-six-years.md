@@ -49,22 +49,6 @@ related:
         width: 772
         height: 434
         isCached: true
-  - title: "Company That Absorbed Uber Self-Driving Is Going Public in $11 Billion SPAC Deal"
-    excerpt: "The latest to join the SPAC boom is Aurora Innovation, the Silicon Valley startup that absorbed Uber’s self-driving unit last year. Aurora announced Thursday that it will go public later this year through a reverse merger with Reinvent Technology Partners,"
-    publishedDateTime: 2021-07-16T19:32:00Z
-    webUrl: "https://observer.com/2021/07/aurora-autonomous-driving-uber-go-public-spac-reinvent/"
-    ampWebUrl: "https://observer.com/2021/07/aurora-autonomous-driving-uber-go-public-spac-reinvent/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/aurora-autonomous-driving-uber-go-public-spac-reinvent/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 39
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2021/07/Aurora_Semi-Profile.jpeg?quality=80&#038;strip"
-        width: 6646
-        height: 4430
-        isCached: true
 
 secured: "KWEm/YDuXnbxrInkyZ+arCHEMuwj2mIVjsnMw1exatcTcMtGQcoH00DwQV2tMYJXpLVs9xDnpSFCLUNXKRL8dJppoK6XJ+EaZRjTr65LvZbJSwSjEKo2dX0RQINNjWhyTU6LYFEB1Yrad0o95auFeJkl4Ft7RXtwcUQaw04UgDJlk4Bj7rSjAvvz1A/BkEh1s2toq53fFH8XajHcDJ/CxHctMj3Z53YRO1hf+AuDl3uQMLWZtippwyYpTZx6scYLSyi0VcNDzvAAfBZ0knoS9x0tW6wh5yMNxRS/hdLL4g36RvL/xmo4Utf1JFpNJUfhTpgusgWXMLLEyl10/bZEuhBKTwg9BFkITPzGhfVF8Ug=;EcsARzNFrbYAgiH8ucTxbw=="
 ---

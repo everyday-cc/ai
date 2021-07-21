@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 840
         isCached: true
+  - title: "No Joy in the Sales Process - No Deal, New Intelligent Automation Partnership Forms"
+    excerpt: "It requires the right technology and the best people to deliver it.\" \"As a sales organization, we strive to generate revenue while having fun. Doing both makes everyone happy. If there's no joy in the sales cycle,"
+    publishedDateTime: 2021-07-21T13:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/no-joy-in-the-sales-process-no-deal-new-intelligent-automation-partnership-forms-1030630710"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://mma.prnewswire.com/media/1094561/Grooper_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "Cg+52cqlabCTQ59H5QNr3pUvbxDQrtPxvmU9WvLEm/N0gESriuJKMpYzD1EX3erF7g+S3FIznRJFfcguPNsQJwi+WCaHmh5caHC5HkpLly6kkkOO3x/sB6TCTMYHg7RzVOVm/MUSQupDPlGODI/CzV9KqYDWO+GES18dbNcdsBGB/E50SrvVNgdWiXThNhb8V9ifKf8X9iNI8YdrXNyZDnSW79jfcoReenVJiGDOmN0vd1vuJ9m5QpVSR+tyez7TZM9Sjp0exBpLmLowuVOrC3/FGPkFssDRnUV50oM9U7z8JtgmCMvvlD+Vf1W0/WvGp8+K4Wff4SfHostzFteX55Y45RGxeOcRbbL858qSg20=;LNRndjl0mBV4uFH2bQvqBA=="
 ---

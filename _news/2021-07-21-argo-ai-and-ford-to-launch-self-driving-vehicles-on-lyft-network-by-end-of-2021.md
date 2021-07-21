@@ -29,11 +29,27 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 104
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Argo AI and Ford to Launch Self-Driving Vehicles on Lyft Network"
+    excerpt: "By Michael Dabaie Argo AI and Ford Motor Co. say they expect to launch self-driving vehicles on Lyft's network by the end of 2021. Autonomous"
+    publishedDateTime: 2021-07-21T11:41:00Z
+    webUrl: "https://www.marketwatch.com/story/argo-ai-and-ford-to-launch-self-driving-vehicles-on-lyft-network-271626867697"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/argo-ai-and-ford-to-launch-self-driving-vehicles-on-lyft-network-271626867697"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/argo-ai-and-ford-to-launch-self-driving-vehicles-on-lyft-network-271626867697"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
     excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network"
@@ -82,6 +98,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/07/20/PDTN/6c7cdec3-eacf-42e0-b0ef-ee0bf7ea54f6-Lyft-Argo-Ford_01.jpg?auto=webp&crop=6409,3606,x0,y326&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Ford to launch self-driving vehicles on Lyft network in U.S. this year"
+    excerpt: "Ford and Lyft are partnering to provide self-driving vehicles for riders in the United States, and the first will roll out in South Florida later this year, the companies said Wednesday."
+    publishedDateTime: 2021-07-21T12:44:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/21/ford-lyft-argo-self-driving-cars/5131626869518/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/21/ford-lyft-argo-self-driving-cars/5131626869518/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/21/ford-lyft-argo-self-driving-cars/5131626869518/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 44
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/5131626869518/2021/1/a45a552d260fd9ef3c89e6f0e9f6d4e3/v1.5/Ford-to-launch-self-driving-vehicles-on-Lyft-network-in-US-this-year.jpg"
+        width: 800
+        height: 532
         isCached: true
 
 secured: "uUDEazh1i0SV1UaqR6b0JNy95xC5G+a/Otx/jYQudFhnYakL2NKXKChEjpszcw9qbn6e0cCo274eH9CouDRSO3qWBp1jjjFi4qklXGcqdNEQYjIMONqQG84vRwIJfQbIbfPeVgoXrHPAy6bPf16wJYcdAorH3acKdxWm8Toywi98mwkB0xzKNv6tA3IdcNSdNEGt8v+guJE7LycvL17S7V5144QY3mbtmxOS/98TjSvPObtEprzkdcsf+9MUAum/5CK8PkOc06QVKteUo2VHY1LeATi8uerf76NUPsHJg7/2KuVj03OqDg4BIv7+H015Jyp3YzbZG4SfOqpBn6ajiDxINWPd3EK8zw0PIISIeuk=;B5/kOtxBjymQpjZ0HGEJEA=="

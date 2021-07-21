@@ -8,8 +8,8 @@ webUrl: "https://www.cnbc.com/2021/07/20/chinas-weride-makes-first-acquisition-a
 ampWebUrl: "https://www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html"
 type: article
-quality: 81
-heat: 81
+quality: 181
+heat: 201
 published: true
 
 provider:
@@ -30,6 +30,31 @@ images:
     height: 5304
     isCached: true
 
-secured: "8sC4fqIqjS2A7LfA8/ETJkN02BuxHdz4RYoJ4Lqf7zDYarJJY7HMCi4rxCWxZRPlFRbn9ufr/N1zVNEKPd2rdlMDmNGAdGcnkUDhzcRlCVHjISk0nN4T63jbdwX2uxQVbMQ/wZZHZtMR1MYSuNtycy6/Ye2ahzR61baJOditIwxY5Sx3M2lDPRpm7CYrpXbhSToS03xpOtzkngEQFLZGIVWpiRuWv9CFqkXqswo/g6VsWjzv/N+AITp1mOIc9NGD8vmjN09nt20olciU57upa46EES2v8OZoo+lF0OZw6yS1eiHmcgAaVVDKGnWO5UxBRI7FtQKUzq4nVpFLSNyF12Z9f91OA/q8kQmMwgK4j7Q=;kz8dUNRAwBbmBAhLGHCzig=="
+related:
+  - title: "Understanding attitudes to driverless cars"
+    excerpt: "A team at Cardiff University are using a state-of-the-art driving simulator to observe and measure how humans interact with autonomous vehicles."
+    publishedDateTime: 2021-07-20T03:02:00Z
+    webUrl: "https://www.canon.co.uk/view/driverless-cars-cardiff-university/"
+    type: article
+    provider:
+      name: Canon
+      domain: canon.co.uk
+    quality: 39
+    images:
+      - url: "https://i1.adis.ws/i/canon/GARRIOTT_RELATED-ca2f623a-990a-11eb-8fcd-1866da15d780?w=556&qlt=70&fmt=jpg&fmt.options=interlaced&bg=rgb(255,255,255)"
+        width: 556
+        height: 390
+        isCached: true
+  - title: "What driverless cars tells us about industrial policy"
+    excerpt: "Amid nationalist-populist calls for industrial policy, autonomous vehicles serve as a reminder that bureaucrats don't have the knowledge to assess critical industries and pick winners."
+    publishedDateTime: 2021-07-20T18:59:00Z
+    webUrl: "https://www.aei.org/economics/what-driverless-cars-tells-us-about-industrial-policy/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
+
+secured: "E2qKXtVUqfIZmpPv+Irru4htGkDnyXyF6X7R0JEUHy4j5OdLxoZ8/5P5aau6fg2tjACwmIAPWwVdH0FDeAsMSd8zugarFT9vk8diZGTbAIXp42iQsaWkG21V19ZsrYdoiXb5b0h6VHP1K82DkyL3KLKSNMHR7+SicqZdCdyXjvQt1lYWkSQMo0VBqRvuBrL4QDK12Yaq96WuUv/IvZjrnOel1u1gDIin9VnPh3l2iylEofkMP6RE5RsOJDk7/E5ewfwIBz/u/A8zPNTsk2JRSWb1ceYxP0QAsEgmgSOa5HBOQnhSfr+Ekyyks6zYhIZRTBhwUp/iQMFar7FefxcH5XlexIbkmDpnTcXJE0uohhhQkcM0iCbNmGGAXf2M2hpqiXcNCc9TtrwqUEV1VElb/PGTDbNQvY14Mu2Z0PKZKvJ1MHy5v2S8snr5OqhXm3RBhqD8DxxGuDcGJLe/bVTSC6pO/TMaGdFZ2Aa692Owd7xHLqj1ON9hwPUxn0BJXB+THZjXcIPbMKqfBihB0BVTUrVAfz/FYJ/oMDUXKfhj0Y0=;3HZlhc+vqSip6RUK7H7pMw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tribuneindia.com/news/jobs&careers/pg-diploma-in-robotic
 cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/pg-diploma-in-robotics-process-automation-285397"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.raskmedia.com.au/wp-content/uploads/2021/07/etf--scaled-e1626833813644.jpg"
         width: 1200
         height: 840
+        isCached: true
+  - title: "No Joy in the Sales Process - No Deal, New Intelligent Automation Partnership Forms"
+    excerpt: "It requires the right technology and the best people to deliver it.\" \"As a sales organization, we strive to generate revenue while having fun. Doing both makes everyone happy. If there's no joy in the sales cycle,"
+    publishedDateTime: 2021-07-21T13:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/no-joy-in-the-sales-process-no-deal-new-intelligent-automation-partnership-forms-1030630710"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://mma.prnewswire.com/media/1094561/Grooper_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "MIT Centre for Future Skills Excellence introduces PG Diploma in Robotics Process Automation for Career aspirants"
     excerpt: "MIT Centre for Future Skills Excellence, MIT Art, Design & Technology University Pune has introduced a new post-graduate diploma in Robotics Process Automation from August 2021 academic session. On the occasion of World Youth Skills Day,"

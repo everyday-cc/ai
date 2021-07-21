@@ -7,7 +7,7 @@ originalUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/meet-the-f
 webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "IDenfy bags deal withj Polish fintech Payment Financial"
-    excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Payment Financial SA."
-    publishedDateTime: 2021-07-20T11:55:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88625/idenfy-bags-deal-withj-polish-fintech-payment-financial"
+  - title: "Major Challenges the Fintech Industry Faces Today and How to Overcome Them"
+    excerpt: "Fintech, although making a technological revolution, has some major issues and challenges ahead. what are these fintech challenges and how toi overcome them"
+    publishedDateTime: 2021-07-21T13:13:00Z
+    webUrl: "https://www.financemagnates.com/fintech/major-challenges-the-fintech-industry-faces-today-and-how-to-overcome-them/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/major-challenges-the-fintech-industry-faces-today-and-how-to-overcome-them/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/major-challenges-the-fintech-industry-faces-today-and-how-to-overcome-them/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 42
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "IDenfy joins forces with Polish FinTech Paymento Financial"
-    excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Paymento Financial SA."
-    publishedDateTime: 2021-07-20T10:50:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/idenfy-joins-forces-with-polish-fintech-paymento-financial/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Global-FinTech-Use-Cases-300x300.jpg"
-        width: 300
-        height: 300
+      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
+        width: 880
+        height: 400
         isCached: true
 
 secured: "++qbRcevX7OWikNd8xJaZt2RoJlWcxXgsbO+aPT2BftO02CjPM6Hv3sQ7pGSYpbP7duDAv1637m/JEV5pl4EshKwx1V0cIooPtKJhKGtCpHVjbfWtic9lIiY4MDWkn0j0vDKSJL5QB0A99frn+DvExDiVwCVqgsaEQVCla4jdCdTLXTqWboLs//f4wh/SShJsNkaZV1EYptm+dHM4PyIWJ+7Tj9v5iiDLng14nNgIQ6cdKXEKqKZD83j/UMLmiZo4NV5frkx9ML2lmnZxPP7fuF4a56Jqtz9YAzREXMRI45DAsCD9m96isqKXx98TXVYUyTSN6PWnHhhKc9vsegihRlkQsnm0SAQdJLBhKzmoPufoubQoVfhClTim9BMRn1FAvpVXd+6nDpus+8Xg4GBjLr7tkEfL3hr74XyAkJJRaugfiQ54M41I+gv9ST04RFD3wdxl1h+fCNo03UmcAnFnggVRbSAwqtr8Wn01rE1bOWXeGc3XALZRPnD5DvbbKbo2+QZRUnKynFjOsCzJCdmBA==;O6rsuXXu5UPYmn6v3ruTVw=="

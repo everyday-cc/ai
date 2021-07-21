@@ -37,11 +37,27 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 104
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Argo AI and Ford to Launch Self-Driving Vehicles on Lyft Network"
+    excerpt: "By Michael Dabaie Argo AI and Ford Motor Co. say they expect to launch self-driving vehicles on Lyft's network by the end of 2021. Autonomous"
+    publishedDateTime: 2021-07-21T11:41:00Z
+    webUrl: "https://www.marketwatch.com/story/argo-ai-and-ford-to-launch-self-driving-vehicles-on-lyft-network-271626867697"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/argo-ai-and-ford-to-launch-self-driving-vehicles-on-lyft-network-271626867697"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/argo-ai-and-ford-to-launch-self-driving-vehicles-on-lyft-network-271626867697"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
     excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network"
@@ -75,6 +91,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ford to launch self-driving vehicles on Lyft network in U.S. this year"
+    excerpt: "Ford and Lyft are partnering to provide self-driving vehicles for riders in the United States, and the first will roll out in South Florida later this year, the companies said Wednesday."
+    publishedDateTime: 2021-07-21T12:44:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/21/ford-lyft-argo-self-driving-cars/5131626869518/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/21/ford-lyft-argo-self-driving-cars/5131626869518/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/21/ford-lyft-argo-self-driving-cars/5131626869518/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 44
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/5131626869518/2021/1/a45a552d260fd9ef3c89e6f0e9f6d4e3/v1.5/Ford-to-launch-self-driving-vehicles-on-Lyft-network-in-US-this-year.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Argo AI and Ford to Launch Self-Driving Vehicles on Lyft Network by End of 2021"
     excerpt: "\"This collaboration marks the first time all the pieces of the autonomous vehicle puzzle have come together this way,\" Lyft co-founder and CEO Logan Green said. \"Each company brings the scale, knowledge and capability in their area of expertise that is necessary to make autonomous ride-hailing a business reality."
     publishedDateTime: 2021-07-21T11:05:00Z
@@ -85,6 +117,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "ORekfHynkDpy+mGCuuCvY8dPcNc/tTmkDR5uqKmqVz2Br3NJ4rnLVCSA0TLbYZbQS8/ib0Xi3Gq4BqrSzF/we1PtMmWI+ArqRjODC9ypP8uN4ZphPW9hNPUhAhJABInSS0nt2p2zURcb4PZ7Qwda9qHprP+idnvSz8cmzycCtPnwdHsUQa+gcfoGAoM8W66DusVrOhLjba6cKnG2vlMv0zeVTtcoP3klhG5rKUwv2Sl2WllQIVSMaQ3b7rtWD/2gge8u6h8nXcp+gFX/sEzveaSa3Acj618rFRY9L5aqWmXaE4Nqm3qq90u8Bj8No6iJGM3hvOXmu8DwrzAWQLKgu8galxwGDBijZgR9y9bDDgs=;Z+E4z2jC6Tem9YSKj4Jd4w=="
+secured: "2vUUz11noofZAgQV3z1lt/nVLMWSWN53CQs6uKjR1W/EhTtoPdjw8xIuTLoFmqh+yfxcKBAHvfpcJd0B1k0x+v76+C5uZ/wsGliDx0CXFpN75OYdugYWwNDtPDs4xNnvwd8paIZg9CYS2muVLVr8sjcfc3UcmKTq4esWflgJ5SOFWcFAi0q4HRrPPVA7yKGcu+a0VcKJIuFuNflqFgR9mxJCELWJpVD44JW6A9UHRkb6l3D+pVS2MZUkdS73N2ET8jClSIvTmqCC2kZYzVSF0GovxhhcPIXf49oHOjFIzdIGxPt/6rhNsfA9Ih0Nha+DjdJytnL5o3deRgWiqjPzo+PeJ3+v0Ka7y4yxW5sHQnIdGN0sPW/iZBZbT8wpR4GqBF8Ywvct4IGnnieJx1xHG8tS0aRElXEht9woieQ/zbw4ArvRPpAxirjQtGU9T9BaFHnpozMaAaQURU985K0Z0NPbtgWKtPYVjMrCtwLW1ZKfKw+IFK9tvC2kb4vYgmuIDcEYQYDGWCnDjUt4xdpfGQ==;xqXP4M3Mexw7qBFFgPKjVQ=="
 ---
 

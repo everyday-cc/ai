@@ -2,29 +2,25 @@
 category: news
 title: "Octane AI Raises $5 Million to Help Shopify Merchants Personalize Ecommerce Experiences"
 excerpt: "Octane AI, the pioneer zero-party data marketing platform, today announced it has raised $5 million in capital in a round led by Javelin Venture Partners, the investor behind Masterclass and Thumbtack,"
-publishedDateTime: 2021-07-20T13:40:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/octane-ai-raises-5-million-to-help-shopify-merchants-personalize-ecommerce-experiences-1030625736"
-webUrl: "https://markets.businessinsider.com/news/stocks/octane-ai-raises-5-million-to-help-shopify-merchants-personalize-ecommerce-experiences-1030625736"
+publishedDateTime: 2021-07-20T15:16:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/lifestyle-technology-sports-business-07885aef8a84be2a9c1deedb6c37a8b3"
+webUrl: "https://apnews.com/press-release/pr-newswire/lifestyle-technology-sports-business-07885aef8a84be2a9c1deedb6c37a8b3"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 29
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1576970/Octane_AI_Logo.jpg"
-    width: 400
-    height: 266
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -42,21 +38,35 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "How can artificial intelligence improve ecommerce site search?"
-    excerpt: "Fortunately, AI can improve your ecommerce capabilities—and not just search and recommendation personalization. Read this short white paper to learn how AI is helping organizations better market, recommend,"
-    publishedDateTime: 2021-07-19T20:09:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1625746463_129.html"
+  - title: "Improve your product discover with AI to maximize personalization"
+    excerpt: "When the pandemic hit, product discovery shifted online making personalization a vital tool for e-commerce. Without it, the seemingly endless amount of options can quickly lead to choice paralysis. Explore this data sheet to learn how AI orchestration and AI-powered search is improving product discovery to maximize the effectiveness of personalization for ecommerce,"
+    publishedDateTime: 2021-07-17T08:29:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1625746463_267.html"
     type: article
     provider:
       name: Bitpipe
       domain: bitpipe.com
     quality: 37
     images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1625746463_129_lg.jpg"
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1625746463_267_lg.jpg"
         width: 315
         height: 408
         isCached: true
+  - title: "The Power of One: How AI will Personalize the Employee Experience"
+    excerpt: "Key takeaways: Learn how AI will change the employee experience as we know it ... No matter if he was working at a big company or startup, he’s always been drawn to culture and how companies can take better care of their employees, which is what ..."
+    publishedDateTime: 2021-07-19T21:41:00Z
+    webUrl: "https://www.hrexchangenetwork.com/employee-engagement/webinars/the-power-of-one-how-ai-will-personalize-the-employee-experience"
+    type: article
+    provider:
+      name: hrexchangenetwork.com
+      domain: hrexchangenetwork.com
+    quality: 37
+    images:
+      - url: "https://plsadaptive.s3.amazonaws.com/eco/images/logos/rRNfvAfTc1KBTs5Zd5WJhqyLVL5CCPMYBFxKy0rY.png"
+        width: 877
+        height: 577
+        isCached: true
 
-secured: "s7Vl9h7ciQAOEy6u8+yFaHzHVuUx4FnTya8f2SqZnRbI88xZb4QgBoWYUeur8ZXzwnDGIq3OQIfVQ+ZhYCuxZThz0j+/q1+orrBGX9bDYIB7QE29zbig3igT9VRQPT4vPV1QJxUasoI8pDI9lIfI/eOhgm+edQbcx+mBI3cFMw1FUX/7jUX962MaYUnYR3KS/wUgqKr5LZY3GQwDouR/i0N/1RxJo+C2XcEruhP+sQvt9kdjv+kNckVdg84sJMIhKWH7nBwUIpDr+542MEyOBmMrbjeiF+71k3rh1gV1sJmXnkJvSbB21FamhU41iHlSldO6puPMovE/dvrQvxGzz6JCf82W+a4efUW4/Dk8Y8A=;rkVmbseZH5IR4R/yv8F11w=="
+secured: "pN8mIZOzpwjQJt3rudhkrxY741vIXVb662AO6dCaYGRHi7B+Zpov1dGOZzZO0vObgmmAKyanDH5gvAjUOYP+WM2xl5qVWjzc3xbi+MQzpF7t7ruZBXLfNX8deURs5DZ0XQScfg+aUl7V+7XIkSP/Ymdndlg1IofNMxzkT+lpCGwANxnVM8sSqHBdE7W9J+WlAfP6nYySrI/qerDkCz7gp1vagzA5pPggyUu6U/sQ4YjtnMXk3nMduBeNFqFauvuKktcJKjV7ylDiTjTqG45Eu+XPssiY9edmJqR3tuD61pmqrwe/7k/ya0z/L43TmfAwcf43dG3UOvOrEkyo7+R9ewgF5KnCOqFsWRmdnuctxvY=;VefQ9wMQaxREmXRfwc+T/Q=="
 ---
 

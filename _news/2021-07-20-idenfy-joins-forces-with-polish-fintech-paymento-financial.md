@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet The Fintech Innovators Using AI To Reimagine The Financial Sector"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-07-21T02:43:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626835443_0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "IDenfy bags deal withj Polish fintech Payment Financial"
     excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Payment Financial SA."
     publishedDateTime: 2021-07-20T11:55:00Z
@@ -51,6 +37,20 @@ related:
     images:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
+        height: 512
+        isCached: true
+  - title: "AMD Stock – AMD Stock – 2 Dividend-Paying Tech Stocks to Buy in July | Fintech Zoom"
+    excerpt: "Complete Advanced Micro Devices Inc. stock news by FintechZoom. View real-time stock prices and stock quotes for a full financial overview."
+    publishedDateTime: 2021-07-18T21:22:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amd/amd-stock-amd-stock-2-dividend-paying-tech-stocks-to-buy-in-july-fintech-zoom/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 18
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626519598_0902-Q19-Total-Markets-photos-and-gif_CC8.jpg"
+        width: 1024
         height: 512
         isCached: true
 

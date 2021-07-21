@@ -42,6 +42,15 @@ related:
         width: 450
         height: 450
         isCached: true
+  - title: "Eurobites: Vodafone turns to Nokia's machine learning for network mending"
+    excerpt: "Nokia has combined with Vodafone on a machine learning product that runs on Google Cloud and, say its backers, can quickly detect and address network anomalies before they start causing serious problems for users."
+    publishedDateTime: 2021-07-21T12:20:00Z
+    webUrl: "https://www.lightreading.com/aiautomation/eurobites-vodafone-turns-to-nokias-machine-learning-for-network-mending/d/d-id/770986"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 18
   - title: "Vodafone And Nokia Develop Machine Learning System To Detect Mobile Network Anomalies"
     excerpt: "Vodafone, in partnership with Nokia, is introducing a new machine learning (ML) algorithm to its pan-European mobile networks to detect and correct anomalies before they impact customers. This latest innovation is part of Vodafone’s strategy to deliver customers a ‘best on Vodafone’ experience through the introduction of new,"
     publishedDateTime: 2021-07-20T13:43:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/19/ai-powered-deep-neural-nets-incre
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/ai-powered-deep-neural-nets-increase-accuracy-for-credit-score-predictions/amp/"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

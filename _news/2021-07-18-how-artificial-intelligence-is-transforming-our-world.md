@@ -27,51 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "Announcing the AI Innovation Awards winners at Transform 2021"
-    excerpt: "The AI Innovation Awards recognize work in natural language processing, business applications, edge computing, startups, and AI for Good."
-    publishedDateTime: 2021-07-16T19:20:00Z
-    webUrl: "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/"
-    ampWebUrl: "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/"
+  - title: "How Conversational AI Can Help Digital Transformation Succeed"
+    excerpt: "One of the challenges with many of these transformations is the impact on the employees and those stuck supporting them."
+    publishedDateTime: 2021-07-20T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/how-conversational-ai-can-help-digital-transformation-succeed/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/jason-leung-Xaanw0s0pMk-unsplash.jpg?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f57e2d2ef27aeb72092d1c%2F0x0.jpg"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "Announcing the winners of the Women in AI Awards at Transform 2021"
-    excerpt: "founder of the AI Leadership Institute, both received the Responsibility & Ethics Award for 2021. Mahmoudian was an early adopter of bringing statistical bias measures into developmental processes."
-    publishedDateTime: 2021-07-16T19:30:00Z
-    webUrl: "https://venturebeat.com/2021/07/16/announcing-the-winners-of-the-women-in-ai-awards-at-transform-2021/"
-    ampWebUrl: "https://venturebeat.com/2021/07/16/announcing-the-winners-of-the-women-in-ai-awards-at-transform-2021/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/announcing-the-winners-of-the-women-in-ai-awards-at-transform-2021/amp/"
+  - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
+    excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
+    publishedDateTime: 2021-07-19T12:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-launches-the-sensetime-international-ai-innovation-hub-in-singapore-to-support-sea-s-digitalisation-journey-1030620106"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/WIAI-Awards.png?w=1200&strip=all"
-        width: 1200
-        height: 550
+      - url: "https://mma.prnewswire.com/media/1576547/1.jpg"
+        width: 400
+        height: 233
         isCached: true
-  - title: "AI is transforming financial services"
-    excerpt: "Never in recent history have we seen the convergence of two super trends on the scale of blockchain and cryptocurrencies, and AI."
-    publishedDateTime: 2021-07-19T11:12:00Z
-    webUrl: "https://ibsintelligence.com/blog/ai-is-transforming-financial-services/"
+  - title: "Do Commercial Chatbots Need Conversational AI?"
+    excerpt: "Commercial chatbots are becoming more sophisticated with the addition of conversational AI. Digital conversations, aided by natural language processing (NLP), are able to understand customer intent, resulting in enhanced customer journeys that can quickly provide users with the information they need or connect them with a live"
+    publishedDateTime: 2021-07-19T17:13:00Z
+    webUrl: "https://www.digitaljournal.com/pr/do-commercial-chatbots-need-conversational-ai"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 37
     images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2021/07/Janet-Adams-square.jpg"
-        width: 1193
-        height: 1194
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Vaccine-Covid-Pandemic-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "How AI and automation can help clinicians practice at top-of-license"
+    excerpt: "Advisory Board’s research on top-of-license work for nurses and care teams across the past decade has consistently said the same thing: there are competing and consistently escalating demands on clinicians that make it hard to practice at top of license."
+    publishedDateTime: 2021-07-19T19:27:00Z
+    webUrl: "https://www.advisory.com/sponsored/ai-and-automation"
+    type: article
+    provider:
+      name: Advisory Board
+      domain: advisory.com
+    quality: 37
+    images:
+      - url: "https://advisory-prod.azureedge.net/-/media/project/advisoryboard/abresearch/sponsored/bright-md/brightmd1.jpg?h=321&w=603&rev=60dd1abc20bc4f289379b3d41db7b1f4&hash=9AA36588A8BA8D54368A8EE6BA37AA66"
+        width: 603
+        height: 321
         isCached: true
   - title: "Understanding how AI Drives Digital Transformation?"
     excerpt: "When AI and machine learning become part of a company's strategy, it represents a new digital transformation era. FREMONT, CA: In a dynamic, fast-changing market world, digital transformation is one of the most critical factors of how companies deliver ..."
@@ -86,6 +96,20 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/gs3kk423.jpg"
         width: 450
         height: 308
+        isCached: true
+  - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
+    excerpt: "SenseTime, a leading global artificial intelligence (AI) company, yesterday launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asia to further their AI capabilities."
+    publishedDateTime: 2021-07-20T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/251071"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 16
+    images:
+      - url: "https://www.ryt9.com/img/files/20210720/iq2cedfdb440860a0cf26dc7062cc8cb3b.jpg"
+        width: 800
+        height: 493
         isCached: true
 
 secured: "yHi2+QjWPgt6meLTpXhC0472VxvH48CDCBGmwV71Od49q/5Vrp3XYXfbZcztN3X6pLHCCdBW3GzuV6+J3taSFAckXRwZAP5j4NkKfqDMStJ/azXpMHusaYLi622JgKRfpUnirE9G/Q7xT81pZ0cM+YaOnUJ8G/nHoyiesU1NRBfgLz6cHUmjXFsrCx0go/Czlpnm6De9Nw63JyY4C8wsihkngWO86/4wmm15anffCTntUVZ2HpRW47fb7EWVAJbj6u1d5T2zm2P90K23psHJ+eQheThCHXHkSKvIMwGGPZZ6MaQqZHtdimPTYWGkSX2SweMhcAklY7vmAIQlyhffpD2F8a/fpJY0mrzlBM4Zqzs=;xdh4gZU1pz49y/VRRDyLzg=="

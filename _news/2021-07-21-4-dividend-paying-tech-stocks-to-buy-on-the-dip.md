@@ -20,22 +20,6 @@ topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "AMD Stock – AMD Stock – 2 Dividend-Paying Tech Stocks to Buy in July | Fintech Zoom"
-    excerpt: "Complete Advanced Micro Devices Inc. stock news by FintechZoom. View real-time stock prices and stock quotes for a full financial overview."
-    publishedDateTime: 2021-07-18T21:22:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_amd/amd-stock-amd-stock-2-dividend-paying-tech-stocks-to-buy-in-july-fintech-zoom/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 18
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626519598_0902-Q19-Total-Markets-photos-and-gif_CC8.jpg"
-        width: 1024
-        height: 512
-        isCached: true
-
 secured: "g8h4blooIkVQ9uECRg1hQWqTLcCwbLswuK1tF+BkrGMLdmzavfZ0kRe11EIvV8Y6VMq2Y5OiVC55jfn0n/RdrWSerxtBD0vl2NFcZsSQT3QxeYKERSdESulybqYyzWSD7/uHZkTs2CKO1kqq0Qu4wDAIawSOZifAQUSHlreR9kQvZeKqugpBPh8uHVaBGJ6MmevW3tcziHyKZs0djKuwt3H/FpsdZVwHo84IFMHaB9qyJjLVCMHb3tQp1huBTWdXWFT8yZvLcyNUup3i01seeIRE4g8YsNMiEqkOLBO0ExrKZCuz1Z6Sj3fU78hg5vnsr508ZNkY8Dbipr3BZjMy+gDskGJSXrbG3cN9FcdM70OJbxeoqra0/3zAngr6etua4r0u+RJGWhaYJiHcpper2eupcN00yxihivUEr4F8Sz5B37MLdhYRVkvd26z8ICif04NONWrRPuGEWECAcEHnl5aXfhZnFmYtQghj1c7UsNoh71OU7EIFeVnp53zgwxol3/0GGF0yuKKSHgJLa199Yw==;7vJjGmnaeKtQTMFFH74V/Q=="
 ---
 

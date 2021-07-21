@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Company That Absorbed Uber Self-Driving Is Going Public in $11 Billion SPAC Deal"
-    excerpt: "The latest to join the SPAC boom is Aurora Innovation, the Silicon Valley startup that absorbed Uber’s self-driving unit last year. Aurora announced Thursday that it will go public later this year through a reverse merger with Reinvent Technology Partners,"
-    publishedDateTime: 2021-07-16T19:32:00Z
-    webUrl: "https://observer.com/2021/07/aurora-autonomous-driving-uber-go-public-spac-reinvent/"
-    ampWebUrl: "https://observer.com/2021/07/aurora-autonomous-driving-uber-go-public-spac-reinvent/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/aurora-autonomous-driving-uber-go-public-spac-reinvent/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 39
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2021/07/Aurora_Semi-Profile.jpeg?quality=80&#038;strip"
-        width: 6646
-        height: 4430
-        isCached: true
   - title: "Valued at $13 billion! The world's most expensive self-driving company is about to go public and lose money for another six years."
     excerpt: "After the self-driving truck company Tucson went to Nasdaq, another self-driving company is looking for IPO--Aurora, a company founded by Chris Urmson (Chris Urmson), Google's former chief technology officer of self-driving cars,"
     publishedDateTime: 2021-07-19T01:59:00Z

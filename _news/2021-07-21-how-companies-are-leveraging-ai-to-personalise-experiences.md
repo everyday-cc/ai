@@ -7,7 +7,7 @@ originalUrl: "https://www.forbesindia.com/article/take-one-big-story-of-the-day/
 webUrl: "https://www.forbesindia.com/article/take-one-big-story-of-the-day/how-companies-are-leveraging-ai-to-personalise-experiences/69277/1"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,33 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Octane AI Raises $5 Million to Help Shopify Merchants Personalize Ecommerce Experiences"
-    excerpt: "Octane AI, the pioneer zero-party data marketing platform, today announced it has raised $5 million in capital in a round led by Javelin Venture Partners, the investor behind Masterclass and Thumbtack,"
-    publishedDateTime: 2021-07-20T13:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/octane-ai-raises-5-million-to-help-shopify-merchants-personalize-ecommerce-experiences-1030625736"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://mma.prnewswire.com/media/1576970/Octane_AI_Logo.jpg"
-        width: 400
-        height: 266
-        isCached: true
-  - title: "How can artificial intelligence improve ecommerce site search?"
-    excerpt: "Fortunately, AI can improve your ecommerce capabilities—and not just search and recommendation personalization. Read this short white paper to learn how AI is helping organizations better market, recommend,"
-    publishedDateTime: 2021-07-19T20:09:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1625746463_129.html"
+  - title: "Improve your product discover with AI to maximize personalization"
+    excerpt: "When the pandemic hit, product discovery shifted online making personalization a vital tool for e-commerce. Without it, the seemingly endless amount of options can quickly lead to choice paralysis. Explore this data sheet to learn how AI orchestration and AI-powered search is improving product discovery to maximize the effectiveness of personalization for ecommerce,"
+    publishedDateTime: 2021-07-17T08:29:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1625746463_267.html"
     type: article
     provider:
       name: Bitpipe
       domain: bitpipe.com
     quality: 37
     images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1625746463_129_lg.jpg"
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1625746463_267_lg.jpg"
         width: 315
         height: 408
+        isCached: true
+  - title: "The Power of One: How AI will Personalize the Employee Experience"
+    excerpt: "Key takeaways: Learn how AI will change the employee experience as we know it ... No matter if he was working at a big company or startup, he’s always been drawn to culture and how companies can take better care of their employees, which is what ..."
+    publishedDateTime: 2021-07-19T21:41:00Z
+    webUrl: "https://www.hrexchangenetwork.com/employee-engagement/webinars/the-power-of-one-how-ai-will-personalize-the-employee-experience"
+    type: article
+    provider:
+      name: hrexchangenetwork.com
+      domain: hrexchangenetwork.com
+    quality: 37
+    images:
+      - url: "https://plsadaptive.s3.amazonaws.com/eco/images/logos/rRNfvAfTc1KBTs5Zd5WJhqyLVL5CCPMYBFxKy0rY.png"
+        width: 877
+        height: 577
+        isCached: true
+  - title: "Octane AI Raises $5 Million to Help Shopify Merchants Personalize Ecommerce Experiences"
+    excerpt: "Octane AI, the pioneer zero-party data marketing platform, today announced it has raised $5 million in capital in a round led by Javelin Venture Partners, the investor behind Masterclass and Thumbtack,"
+    publishedDateTime: 2021-07-20T15:16:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/lifestyle-technology-sports-business-07885aef8a84be2a9c1deedb6c37a8b3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "OfSEAeLbRKy48k1CW7sS5pMlc+e5ySJt1eIBERfakraJ863/jvthJfPHP1TJK7ikgf6i+6mCRBShsGhsBedljQ+j3zbfCMFX24Mv8Nz7z9vd4GULZWw1P4JC1tdy4KMG2gaeb9A4xusIfQ9Ej4S3qzPY1R+i0Epv/T4ZHij9Q+Z7qPVN+sPvj5n5JZ9braZCnB5xtPGim718trsqPU15KzPcG8AfFqP8D8GK68HQMq6C/wcbRV6tG1VuKNaAZzQUJME0NKqVJgt2x6I+VUQFPYat1TYiwbeVR6xzhgsFG0dQeoX/daOPJGMtNosXD8hw0V6m13qlmdVi2yJkcbi/q68pBZbC1CzVg/oddgLeZimQHjGNkDkSW9FN0pen26ytmIQd/ijafG4vODZp6IlHEz4sPrcRBl3gJlotYeMfZy3eZxPuACw7TqZSOPtNVAPKLS0QCUy9caZucClG+7qkKHpqG2C08sGL+suGPzFF9AVx0w3reMVsHVuZECTlKeRVt1Az2euPxOmsDC84Nw2Pkw==;pE0Q/A74ssNVVt0Iw3z5TA=="

@@ -24,67 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Announcing the AI Innovation Awards winners at Transform 2021"
-    excerpt: "The AI Innovation Awards recognize work in natural language processing, business applications, edge computing, startups, and AI for Good."
-    publishedDateTime: 2021-07-16T19:20:00Z
-    webUrl: "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/"
-    ampWebUrl: "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/jason-leung-Xaanw0s0pMk-unsplash.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Announcing the winners of the Women in AI Awards at Transform 2021"
-    excerpt: "founder of the AI Leadership Institute, both received the Responsibility & Ethics Award for 2021. Mahmoudian was an early adopter of bringing statistical bias measures into developmental processes."
-    publishedDateTime: 2021-07-16T19:30:00Z
-    webUrl: "https://venturebeat.com/2021/07/16/announcing-the-winners-of-the-women-in-ai-awards-at-transform-2021/"
-    ampWebUrl: "https://venturebeat.com/2021/07/16/announcing-the-winners-of-the-women-in-ai-awards-at-transform-2021/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/announcing-the-winners-of-the-women-in-ai-awards-at-transform-2021/amp/"
+  - title: "AI and financial processes: Balancing risk and reward"
+    excerpt: "When merging AI and financial processes, the smart money lies in mitigating risk while focusing on that sweet monetary reward."
+    publishedDateTime: 2021-07-16T23:42:00Z
+    webUrl: "https://venturebeat.com/2021/07/16/ai-and-financial-processes-balancing-risk-and-reward/"
+    ampWebUrl: "https://venturebeat.com/2021/07/16/ai-and-financial-processes-balancing-risk-and-reward/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/ai-and-financial-processes-balancing-risk-and-reward/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/WIAI-Awards.png?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2016/05/mobile-app-monetization.jpg?w=1200&strip=all"
         width: 1200
-        height: 550
-        isCached: true
-  - title: "How Artificial Intelligence is transforming our world"
-    excerpt: "The impact of Artificial Intelligence continues to be felt across industries. A McKinsey report after analysing some AI use cases stated that ‘the impact of artificial intelligence will most likely be substantial in marketing and sales as well as supply-chain management and manufacturing’."
-    publishedDateTime: 2021-07-17T23:24:00Z
-    webUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/"
-    ampWebUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2020/05/31173538/Chukwuemeka-Fred-Agbata1.jpg"
-        width: 770
-        height: 420
-        isCached: true
-  - title: "Understanding how AI Drives Digital Transformation?"
-    excerpt: "When AI and machine learning become part of a company's strategy, it represents a new digital transformation era. FREMONT, CA: In a dynamic, fast-changing market world, digital transformation is one of the most critical factors of how companies deliver ..."
-    publishedDateTime: 2021-07-20T06:27:00Z
-    webUrl: "https://www.cioapplications.com/news/understanding-how-ai-drives-digital-transformation-nid-8112.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/gs3kk423.jpg"
-        width: 450
-        height: 308
+        height: 801
         isCached: true
 
 secured: "7ptDdFIZPTJEYrhFMbYe9FVrDuF3m7ZJx2CqFsw76cxa+NcVbkuwKuIof6Xs88oMrMNAoeDLX+i4OCplr9XOtUCGWaM2pMFEteYIkPDAeRFlwSsD7mjENVDkfJ/ejI55q29kO/6/OVNY7ZFkByXz0E8EXKRo2Ek/CmZTkZu7rIFg2Jklr5FAlpX7ji9F23yWgNXH0SwjnVQOoY5KtKIyQYwAjNzsMH7R4QjEEYvrPICscT0R+0lzaVTBwBBRJluh5t/4lpExA+eY1qS7R8cmlYqfeD8lQAdMbKaF6RpfluS38wxKeMTxAveKk8v84VRRWA6044K3CHqGrXNGdjdxXA2S5K2aKrJAARkJFjbLQLM=;pYHjdvRJ9un7KrnRYyL3BQ=="

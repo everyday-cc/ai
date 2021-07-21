@@ -54,20 +54,6 @@ related:
         width: 715
         height: 292
         isCached: true
-  - title: "Highlighting the real successes of AI"
-    excerpt: "Despite the hype, especially around self-driving cars, AI is writing code, designing Google chip floor plans, and telling us how much to trust it."
-    publishedDateTime: 2021-07-16T20:16:00Z
-    webUrl: "https://www.reseller.co.nz/article/689725/highlighting-real-successes-ai/?fpid=1"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/ai_dreamstime_1.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "The startup harnessing AI to make your bus arrive on time"
     excerpt: "A complaint about the inefficiency of manmade decision-making leads to Optibus, a company ensuring smoother travel in 500 cities worldwide."
     publishedDateTime: 2021-07-20T06:07:00Z

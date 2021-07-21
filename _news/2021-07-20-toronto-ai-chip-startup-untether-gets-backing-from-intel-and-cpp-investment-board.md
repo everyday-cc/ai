@@ -6,9 +6,9 @@ publishedDateTime: 2021-07-20T16:46:00Z
 originalUrl: "https://www.thestar.com/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html"
 webUrl: "https://www.thestar.com/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 149
+heat: 209
+published: true
 
 provider:
   name: The Star
@@ -71,20 +71,6 @@ related:
         width: 667
         height: 462
         isCached: true
-  - title: "Octane AI Raises $5M in Funding"
-    excerpt: "Octane AI, a San Francisco, CA-based data marketing platform provider, raised $5m in funding. The round was led by Javelin Venture Partners, with participation from existing investors Bullpen Capital,"
-    publishedDateTime: 2021-07-20T18:12:00Z
-    webUrl: "https://www.finsmes.com/2021/07/octane-ai-raises-5m-in-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/07/octane-ai-scaled.jpg"
-        width: 2560
-        height: 1701
-        isCached: true
   - title: "Intel-backed Untether AI raises $125 million, adds CPPIB, Tracker Capital as investors"
     excerpt: "Toronto-based artificial intelligence hardware startup Untether AI has secured $125 million in funding to support its expansion and product development efforts."
     publishedDateTime: 2021-07-20T17:28:00Z
@@ -98,20 +84,6 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2020/07/Untether-AI.jpg"
         width: 1050
         height: 700
-        isCached: true
-  - title: "Eyenuk Announces $6.2 Million Financing to Accelerate Adoption of FDA-cleared AI Technology for ..."
-    excerpt: "Eyenuk, Inc., a global artificial intelligence (AI) medical technology and services company and the leader in real-world applications for AI Eye Screening, today announced that it has completed a financing round of US$6."
-    publishedDateTime: 2021-07-20T12:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-health-9652e2a57b30dc795723d414d3b2e0b2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Toronto cashes in on its chips: Untether becomes city’s third AI semiconductor maker this year to raise $100-million-plus in round co-led by CPPIB"
     excerpt: "The surge of investment comes against a backdrop of a worldwide chip shortage caused by supply chain disruptions during the COVID-19 pandemic"
@@ -137,6 +109,6 @@ related:
       domain: businesswire.com
     quality: 11
 
-secured: "la6y+DBzbmhDuAAfbHJn29/ENn8Qp9D9yIVq+d8lpGCi4CpLjtO83ewDp41xYBzrYv2O/cvwowHSNh78VRrY/aaZ84Jd+GSmr4tI847qFDmweILsrbUlIiLueXSYIcRw9zP295MNU1HXrfEGtQouNnMmrfeiuowVD7sFToPn5Rttih/Z0ZYlWS2oCC+pFvam9P7ct+e3Rx/uf7g0tV/Ur4pNeZkjiUkxlTWjPJJWcEf2C/bwVavvNoThOXBxeXrr66nwyjG0q33xQp0L91OHAuXkp+qXcJR2uw9N3HFuJFvGa6fbV/9QX8NVLVBlmYOjQXgymRyzq7o0TwDhYmyXoc539w1LRWp7R37wDwaM2qxvTv50U+Er1h1FMvEcmJRhAz+koQ2/YCHcWReBZlzSQ+ZmlD5ZNFiZqOTQbFi6LdY1Sbpac/zl6wIK5W3Lq4DGV03S5MZP8dZkUE3VAgydK0K4qnUCF8f5TrKka+s3sqhE0LuSbMlRT16h5d8zpWeohFDYpAeeR2sceNpZxmL1FA==;AFM+nnw6B6GJFlDYdQgjiw=="
+secured: "MFdIIg1zlb4jcoMzM8eYd2t4WfSy1B/35shEeXbN8zHXqslJaISHNNAJHhJZwbZK7K/EII8J3+msSjco/4LBN8ZeSH5qVZSpqSkiFJBQhVWLMF4rNBn4FNu5cBBv1yv9mceuOlc1N/5uHvkXznuRSibnWu+7Alvk/dodbtm96/Ag09u1huBfM3y07OaVT4n8nVh1FSz1KqTkTFgVnuGsjl345h3jYrVpa0FtTaiv9vr+OL1655mKQ8IsEm24RZ5sv5tVWOnMZ1vwvdf3xC4QMjvjVs1a5qZFqgPL9yVXnrUWmjdbDmYLqtcz+vV3dK19wWDHpp+59YblRmuCTtRzFTtwt7/ZOTXEo7tzORl3HrMOFZopLZkgfyUwkPbiu2iKJrz8bVWdW+S9rpXL9EnA9FmW9txN+2mDgFvOFEze0l2NxBBt9RJPXhkWfIDUOby0WlzfH06lIZgVNs7/cHPcYNI2OPlDZWPNGBGGaZKxNDM4vJzgtTgqXWysreINUUlgRlI9UGtvWOk71pbz7OeknJQ1okSqHTRaReU2Vs0rOfw=;p5UOPXLj5qzfyIcOvLL24A=="
 ---
 
