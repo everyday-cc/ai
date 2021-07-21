@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-20T08:44:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026-2021-07-20"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026-2021-07-20"
 type: article
-quality: 64
-heat: 214
+quality: 66
+heat: 206
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Education
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -52,20 +53,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market Research, Growth Opportunities, Key Players, Outlook and Forecasts Report 2021-2027"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Artificial Intelligence in"
-    publishedDateTime: 2021-07-16T09:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-research-growth-opportunities-key-players-outlook-and-forecasts-report-2021-2027-2021-07-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

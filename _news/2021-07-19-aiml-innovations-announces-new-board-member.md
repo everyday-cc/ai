@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/accesswire/business-c12acc08a8127
 webUrl: "https://apnews.com/press-release/accesswire/business-c12acc08a8127919292ffc0b768452c4"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI/ML Innovations Announces Board Resignation"
-    excerpt: "TORONTO, ON / ACCESSWIRE / July 16, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF) (“AIML” or the “Company”), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
-    publishedDateTime: 2021-07-16T17:21:00Z
-    webUrl: "https://apnews.com/press-release/Accesswire/business-d0ad8217434242041e7d8d3491a84248"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AI/ML Innovations Inc.: AI/ML Innovations Announces New Board Member"
     excerpt: "MOUNT VERNON, NY / ACCESSWIRE / July 19, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF) (\"AIML\" or the \"Company\"), a company committed to acquiring and advancing Artificial Intelligence/Machine"
     publishedDateTime: 2021-07-19T11:35:00Z

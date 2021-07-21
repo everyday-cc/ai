@@ -67,6 +67,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "What are the dangers of facial recognition?"
+    excerpt: "Robert Williams was wrongfully arrested after a facial recognition system failed to identify the correct culprit. Mr. Williams is seeking justice in a civil rights lawsuit."
+    publishedDateTime: 2021-07-18T19:08:00Z
+    webUrl: "https://www.msnbc.com/the-sunday-show/watch/what-are-the-dangers-of-facial-recognition-116981317527"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo116981317527"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo116981317527"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 59
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626635161004_n_capehart_facial_recognition_211807_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Black Girl Banned From Michigan Skating Rink Because Facial Recognition Software Misidentified Her"
     excerpt: "Lamya Robinson was asked to leave a Livonia, Mich. skating rink because the facial recognition software mistook her for a different Black girl."
     publishedDateTime: 2021-07-16T22:35:00Z
@@ -82,6 +98,20 @@ related:
       - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/07/Lamya-Robinson-fox-2-detroit-black-enterprise.jpg"
         width: 932
         height: 524
+        isCached: true
+  - title: "Facial Recognition Is Watching You"
+    excerpt: "The Boston-based Fight for the Future advocacy organization is trying to put pressure on private businesses to swear off any form of facial recognition."
+    publishedDateTime: 2021-07-19T14:14:00Z
+    webUrl: "https://safehaven.com/tech/tech-news/Facial-Recognition-Is-Watching-You.html"
+    type: article
+    provider:
+      name: Safehaven
+      domain: safehaven.com
+    quality: 41
+    images:
+      - url: "https://d2t794khe5w43b.cloudfront.net/article/718x300/fb18666381bc6df1c15ed694514302fc.jpg"
+        width: 718
+        height: 300
         isCached: true
 
 secured: "3HA/7HEUyCPWCBj6TNRqLvzB7l76Xy4+8en3ZxKPWmTqGBXxr8N3q6qd+LIJ8MG1aaN9SCdxbc1xxQGzXdRiTT54gG8umMiT4YjUgXj91ZttSxZOgxxJhGDEppov02dglgT0PrQSqKZadrO1ZBrpNRj90CDC8FdStrza0a6tgI0JrlojIK+dGjOOaRfuJZHxgpUyNedeBYwUyYGHlKkbGI+KUrTdFBbnpIoRBwIHX7CoRqkzMc9n9H5pq/mSbbjlHZR+8AztndeqsLML3/N9zsT3GqPUAH+0YAzX0QR5bjNyidh8p9PDOJrDzplsqvWUDjk5WyVwg+V2Q0lH3mFICuXxJIr1Iatvpe3L4jZL4+mYSQxNctb+lCWJNoqYOdY3ImRc++ky2XxvPzDQ80Oce7VcRANrHD5AVmXx+E0/7VDs4cmJ2UpRT4OXtcX1wNljoFNon9sxMzCL+Feg2JFe34gvJjo1isjxNqOS9X5zrP6Z7K4g1P9Kg9BkG6so80UsCC7gp6FftnF0FDS9m7Aq3Q==;510ytD+cg/226yQ//0r0FA=="

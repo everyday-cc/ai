@@ -41,6 +41,22 @@ related:
         width: 700
         height: 308
         isCached: true
+  - title: "5 robotics and automation stocks to supercharge your portfolio"
+    excerpt: "For many decades now, businesses have been integrating robotics, automation and AI. Here are 5 stocks to supercharge your portfolio."
+    publishedDateTime: 2021-07-21T02:22:00Z
+    webUrl: "https://www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/"
+    ampWebUrl: "https://www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/"
+    cdnAmpWebUrl: "https://www-raskmedia-com-au.cdn.ampproject.org/c/s/www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/"
+    type: article
+    provider:
+      name: Rask Media
+      domain: raskmedia.com.au
+    quality: 74
+    images:
+      - url: "https://www.raskmedia.com.au/wp-content/uploads/2021/07/etf--scaled-e1626833813644.jpg"
+        width: 1200
+        height: 840
+        isCached: true
 
 secured: "Cg+52cqlabCTQ59H5QNr3pUvbxDQrtPxvmU9WvLEm/N0gESriuJKMpYzD1EX3erF7g+S3FIznRJFfcguPNsQJwi+WCaHmh5caHC5HkpLly6kkkOO3x/sB6TCTMYHg7RzVOVm/MUSQupDPlGODI/CzV9KqYDWO+GES18dbNcdsBGB/E50SrvVNgdWiXThNhb8V9ifKf8X9iNI8YdrXNyZDnSW79jfcoReenVJiGDOmN0vd1vuJ9m5QpVSR+tyez7TZM9Sjp0exBpLmLowuVOrC3/FGPkFssDRnUV50oM9U7z8JtgmCMvvlD+Vf1W0/WvGp8+K4Wff4SfHostzFteX55Y45RGxeOcRbbL858qSg20=;LNRndjl0mBV4uFH2bQvqBA=="
 ---

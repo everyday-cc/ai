@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/22015462"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22015462"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 38
-  - title: "AI Servers Market Growth 2021: Emerging Growth Factors, Industry Share, Size, Growth Prospects, Business Development and Forecast to 2027"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “AI Servers Market” report"
-    publishedDateTime: 2021-07-16T10:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-servers-market-growth-2021-emerging-growth-factors-industry-share-size-growth-prospects-business-development-and-forecast-to-2027-2021-07-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "M1EjvPHOlXKttJDC+1AiQgbpRKOtUw76/Fc4yL/b45PN0pAjn7IUY1lv0JvoyKZPwis2t8fAhPIaevOAbuSN225sQ+bx3cKjqfafnVN/cTHPnvHsk6dUtlA4jp/RHWFVEwU/kP0uFbpJUDrXERKPNzZ5pC07XBU6PRMrM4taoiJI31n0zfzLz1cTf7iEa0oD6Vb9ztwPl8YrJGE9+eMsWqRDys9bND39GjxJd71rQbwvlKnWEY644Pp5DzMi3MC0VeNz0/SfwzaDEQyh8KPnnsJUEvWDgY/5pmlSbUiDLjG0uH6gXvm45ZRSf3W1U0emdngDcoqVLIJRE58f7iIO5VJ6B0VA99gTuETGU8c9n0c=;L74OOBY3OMkleZBX8q6vMw=="
 ---

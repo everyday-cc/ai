@@ -86,6 +86,15 @@ related:
         width: 700
         height: 395
         isCached: true
+  - title: "Nvidia’s TensorRT 8.0 boasts faster conversational AI performance"
+    excerpt: "Nvidia has released TensorRT 8.0 for Nvidia GPUs including its Jetson modules. This latest AI inference optimization SDK provides up to 2x the performance and accuracy of v7.0 and offers 1.2ms performance using BERT."
+    publishedDateTime: 2021-07-20T13:47:00Z
+    webUrl: "https://linuxgizmos.com/nvidias-tensorrt-8-0-boasts-faster-conversational-ai-performance/"
+    type: article
+    provider:
+      name: run Linux-based Opera TV
+      domain: linuxgizmos.com
+    quality: 19
 
 secured: "gyT5z50j9Cu7FJvjVHVoLl4ULqwZ6jyKGdRIrKyprEsJZ1EL4hnn+YFGs07Zjt9ccYKqvYCZxhasyHWrXpXeIse1TGsUwW0N5heOX3f2T27IwcL+76WFPnOOHu7uwzBvfH2iFo/tNIQ6sVX5PQV84Ia7BzlO3dURhZE0BH5ZNngaeBVtbgMw4d/+XQYjepcwFwvY5Ao3dp6boybvgr2IXBecWFOmThqS68uufGoLJ5qQ5Wu7wRtffekAgxFv3qGz+XlNF+28i2Nx6Fe8nA8MkNN3Qld0HStD+9p4mL+BmtMsH60HTJAWKzArBV84qUwMqjZGTNfS861tKArWLHaEgbkPa8LARAO47f1RWFf8vVE=;BGXnMExGVfhvU5ooCGz/9g=="
 ---

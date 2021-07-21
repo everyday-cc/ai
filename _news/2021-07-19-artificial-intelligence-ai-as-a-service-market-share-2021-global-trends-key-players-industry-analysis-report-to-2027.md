@@ -54,20 +54,6 @@ related:
         width: 850
         height: 400
         isCached: true
-  - title: "AI Governance Market Overview 2021: By Market Size, Industry Growth, Market Trends and Global Opportunities Forecast to 2026"
-    excerpt: "This report aims to estimate the “AI Governance Market” for 2021 and to project the expected demand by 2026. This"
-    publishedDateTime: 2021-07-16T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-overview-2021-by-market-size-industry-growth-market-trends-and-global-opportunities-forecast-to-2026-2021-07-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial intelligence ai platform Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Artificial intelligence ai platform market is expected to grow at a significant CAGR in the period from 2021 to 2027 The Artificial Intelligence AI platform market is said to have a potential scope for growth in the years to"
     publishedDateTime: 2021-07-19T11:20:00Z

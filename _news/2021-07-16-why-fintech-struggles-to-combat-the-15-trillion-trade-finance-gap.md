@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-fri
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/"
 type: article
 quality: 59
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626473428_reuters-default.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Meet The Fintech Innovators Using AI To Reimagine The Financial Sector"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-07-21T02:43:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626835443_0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "IDenfy bags deal withj Polish fintech Payment Financial"
     excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Payment Financial SA."

@@ -55,6 +55,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Intel's Mobileye testing self-driving cars on New York City streets"
+    excerpt: "Intel is testing the theory that if you can make it in New York you can make it anywhere. It's self-driving car technology business Mobileye has had AVs on NYC streets for 6 weeks."
+    publishedDateTime: 2021-07-21T00:12:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2021/07/20/intel-tests-self-driving-cars-in-nyc.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
   - title: "Intel's Mobileye testing self-driving cars on New York City streets (Video)"
     excerpt: "Intel is testing the theory that if you can make it in New York you can make it anywhere. It's self-driving car technology business Mobileye has had AVs on NYC streets for 6 weeks."
     publishedDateTime: 2021-07-20T19:07:00Z

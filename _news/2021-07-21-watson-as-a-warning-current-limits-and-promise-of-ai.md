@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Watson to explore how AI can mitigate advertising bias"
-    excerpt: "The research aims to understand factors of bias in advertising and how AI can help in creating better messaging, and improving campaign impact. The advertising industry is undergoing a major transformation,"
-    publishedDateTime: 2021-07-16T10:57:00Z
-    webUrl: "https://www.dqindia.com/ibm-watson-explore-ai-can-mitigate-advertising-bias/"
-    ampWebUrl: "https://www.dqindia.com/ibm-watson-explore-ai-can-mitigate-advertising-bias/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-watson-explore-ai-can-mitigate-advertising-bias/amp/"
+  - title: "IBM Watson Health’s stumble and possible fall"
+    excerpt: "Telehealth and Telecare News since 2005"
+    publishedDateTime: 2021-07-21T02:19:00Z
+    webUrl: "https://telecareaware.com/ibm-watson-healths-stumble-and-possible-fall/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 74
+      name: telecareaware.com
+      domain: telecareaware.com
+    quality: 39
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/07/IBM-Watson-to-explore.jpg"
-        width: 800
-        height: 420
+      - url: "https://ta-images.s3.amazonaws.com/images/tta-fb-opengraph-450x450.png"
+        width: 450
+        height: 450
         isCached: true
 
 secured: "d58LUP++fMLEAN98et3GNrBxEzR7HL9dz4lYaqFvmKmARWXpfWO6qRMtZ5FQ3sy0fVRW6wUCli1cpAbbiTs8f11uhO04mdpXnXD1i8osYX/v8mLiMPAfmtrm3D/ncMp1In1jz3NXEKM0T6vbXpI5ejjjD349TJf+lD+kT2i/6h3zZSyg5FnUq3aVMdZSbvY6Y4kPtsqd8/9LPD6kxZjNch5iPHOucdlCVB7IJ/86qVA51TNpkauQt7VeCGvX6D/tWR5iBZQIKF8GWno68/60xW5w7Ey7KNB0ewvURrNeM74IGM7ypUFZBh73jW/cVSTGNjTuNyG2uLH5o/C/4ZUl/fKbpw6HlEd2prC4cHi5bn4=;d0P679ALYX/srNlIfVuP6A=="

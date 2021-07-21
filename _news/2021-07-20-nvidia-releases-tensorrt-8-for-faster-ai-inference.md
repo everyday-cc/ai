@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-fa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/"
 type: article
 quality: 87
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -86,6 +86,15 @@ related:
         width: 700
         height: 395
         isCached: true
+  - title: "Nvidia’s TensorRT 8.0 boasts faster conversational AI performance"
+    excerpt: "Nvidia has released TensorRT 8.0 for Nvidia GPUs including its Jetson modules. This latest AI inference optimization SDK provides up to 2x the performance and accuracy of v7.0 and offers 1.2ms performance using BERT."
+    publishedDateTime: 2021-07-20T13:47:00Z
+    webUrl: "https://linuxgizmos.com/nvidias-tensorrt-8-0-boasts-faster-conversational-ai-performance/"
+    type: article
+    provider:
+      name: run Linux-based Opera TV
+      domain: linuxgizmos.com
+    quality: 19
 
 secured: "y4FOaRiMyOP2OXS2CgrN5Uj457YE3gM+5SVMLsRJnN2fHY594PAsRWfpRO6H0AP2QzRXT5xbEs9my5KSymjhGxFjuQJzG+/lI/cNUKvJukQY2kMCf3VO52QcvccopwGThSGItzmG44ahfNFbD3cCWr0Hb5oe6LeQyZKCRTYfmSFZ9pBNDTNNOHAHx/jcUxiPLmD0jkdSWIOpHFwEQw76kp7tdp/8XLTQCoRnPnPHoerQd0Qogcu2tO5EmoRjm/5CoLDXS7s53uhHKVOtsAzfHaMRV6DvlhK9rpj6NyX/i7Z/fk20sVxuXzREeXiFR4vCUCfH2hS9+6AfkhCt4jB3xX1HZylgGQjR4kY07ubn4Qg=;Nq/K3kf0t7aZT7+biztZEA=="
 ---

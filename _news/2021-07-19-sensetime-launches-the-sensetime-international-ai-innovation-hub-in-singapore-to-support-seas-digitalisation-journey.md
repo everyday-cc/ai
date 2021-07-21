@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Artificial Intelligence is transforming our world"
-    excerpt: "The impact of Artificial Intelligence continues to be felt across industries. A McKinsey report after analysing some AI use cases stated that ‘the impact of artificial intelligence will most likely be substantial in marketing and sales as well as supply-chain management and manufacturing’."
-    publishedDateTime: 2021-07-17T23:24:00Z
-    webUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/"
-    ampWebUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2020/05/31173538/Chukwuemeka-Fred-Agbata1.jpg"
-        width: 770
-        height: 420
-        isCached: true
   - title: "Do Commercial Chatbots Need Conversational AI?"
     excerpt: "Commercial chatbots are becoming more sophisticated with the addition of conversational AI. Digital conversations, aided by natural language processing (NLP), are able to understand customer intent, resulting in enhanced customer journeys that can quickly provide users with the information they need or connect them with a live"
     publishedDateTime: 2021-07-19T17:13:00Z
@@ -87,20 +71,6 @@ related:
         width: 603
         height: 321
         isCached: true
-  - title: "Understanding how AI Drives Digital Transformation?"
-    excerpt: "When AI and machine learning become part of a company's strategy, it represents a new digital transformation era. FREMONT, CA: In a dynamic, fast-changing market world, digital transformation is one of the most critical factors of how companies deliver ..."
-    publishedDateTime: 2021-07-20T06:27:00Z
-    webUrl: "https://www.cioapplications.com/news/understanding-how-ai-drives-digital-transformation-nid-8112.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/gs3kk423.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
     excerpt: "SenseTime, a leading global artificial intelligence (AI) company, yesterday launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asia to further their AI capabilities."
     publishedDateTime: 2021-07-20T01:00:00Z
@@ -116,6 +86,6 @@ related:
         height: 493
         isCached: true
 
-secured: "AeOKJCtMNUThhOXWLFZM1Guz6FSHrgTWG9QKK2reRrJQA2fWLrV2SWach53OBJ/rvsQKsiiEM1J8DOUfvQaAVJLTmZV4wEQCMuyXW80oBfZc7JWYrXjF5kPggCmkW5IJaQ1KpHoz2jf217Ov6W41Pohl8OsYrOckyk34Xt+EPxJDQlKaWA5WRP8cuxwpGYrY4Q5d7g8VAYg5X6WjmeSOcbX16QnBRIK0jpK/EmTDfuldLa49c8iJFnzsMeIWOxKYCqLZwguUSBPNPNTrcMO438e1jjWjU+SODxjPcoG8Z9WgShvRVqIxM01j8mq+21WidvZe0gHnoQLTm1YuioxYrKQiwN4uZrwoJNOQ4wX7RPg=;hRD0cTa/9sx/AXn1kx/JsQ=="
+secured: "WU1HvW1HmEGczge3gBm2GLbvPMg6ZVW6uZp/DQ/5PiThJqrUbDVYy3bRNQyBBvm7GvsMxWzsW7S/Bv5o1Aemdkq7nFcKheSxDPwh2azeK6dnvnWUTA4k8K5+uIGAgyev6DXjh8PuH+bPHkgLQXM4+etsggEyh7QAoVOqLh6EgPN/lftmwbGcowv3YGldWn9eNT/lTO2p1RTD9kPsd40XbOKr87gxFxLOne8r7VMqToPtwMEcvPUg4DBTzOX1qxoVS5Wzc8g25k+bvB6w2oym5/JlyCbnasHeU++jeBfqF/2MfaxO4El/5zj/ErYCOXB9QAZ+A0+WHf0c85N5NbYm6fhBhH0W1oXKHgWKZDvSFccSO2Hlrzr9Q8OMCoyQFgl3IxOxewkfx7mSriFW9Na0uaME/fx+tN66hsefh54TU+BmS6QBuuHcbKVxaHsmt6r5UavbnvfZ2cngA/tuEyCIO1iB4BAqL4k7+wN3NbYRJnBwaoSA1GrErSbnAhi921hFG/ACe7Y42Apz9u2pM4tDPw==;i3yHDQEzEFf2g6RFvXt8nw=="
 ---
 

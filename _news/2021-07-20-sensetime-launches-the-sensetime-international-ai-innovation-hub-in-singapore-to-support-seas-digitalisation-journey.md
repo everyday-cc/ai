@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Artificial Intelligence is transforming our world"
-    excerpt: "The impact of Artificial Intelligence continues to be felt across industries. A McKinsey report after analysing some AI use cases stated that ‘the impact of artificial intelligence will most likely be substantial in marketing and sales as well as supply-chain management and manufacturing’."
-    publishedDateTime: 2021-07-17T23:24:00Z
-    webUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/"
-    ampWebUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2020/05/31173538/Chukwuemeka-Fred-Agbata1.jpg"
-        width: 770
-        height: 420
-        isCached: true
   - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
     excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
     publishedDateTime: 2021-07-19T12:36:00Z
@@ -96,20 +80,6 @@ related:
       - url: "https://advisory-prod.azureedge.net/-/media/project/advisoryboard/abresearch/sponsored/bright-md/brightmd1.jpg?h=321&w=603&rev=60dd1abc20bc4f289379b3d41db7b1f4&hash=9AA36588A8BA8D54368A8EE6BA37AA66"
         width: 603
         height: 321
-        isCached: true
-  - title: "Understanding how AI Drives Digital Transformation?"
-    excerpt: "When AI and machine learning become part of a company's strategy, it represents a new digital transformation era. FREMONT, CA: In a dynamic, fast-changing market world, digital transformation is one of the most critical factors of how companies deliver ..."
-    publishedDateTime: 2021-07-20T06:27:00Z
-    webUrl: "https://www.cioapplications.com/news/understanding-how-ai-drives-digital-transformation-nid-8112.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/gs3kk423.jpg"
-        width: 450
-        height: 308
         isCached: true
 
 secured: "6K2uDtaahhNZoFjfn6Mt8VPcKDarC+c+NVW/e4rfplFbsaN7iSlaigN35upksc1vBbR8Hiuqyxcw+MXwiyRIRMEuoHcPe4sZAJS1IJ6gbNL0nWJYn/ZhnT1qYSyoQDpbmHh2JVHWPcZ/6mHAXrPlEtQ4OCWQgSdNl7WaKkqADSQRHY2Zl9SnMX/bpgAfa+GPNVfpnND06rTIvELVwKg5B2dkwNWIJV39tPMZBSzAjAQOL0vlHlGJLOqlbxr6gCGlIGdoquexyiAK8yXXMeuvA/hfEN6z49xVYIhym1+kx9wWF7QvQWj2pL8dJApF+8nXVLrN0yvO1KAykR7vNXOVqaNBe/QbWRWep9GJttHcayE=;fTiallg+nCb7DclI4vB7Gw=="

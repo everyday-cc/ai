@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Roostify Named 2020 Google Cloud Technology Partner of the Year for AI and Machine Learning"
-excerpt: "SAN FRANCISCO, July 20, 2021 /PRNewswire/ -- Roostify, a premium home lending technology provider, is pleased to announce that it has been named recipient of the 2020 Google Cloud Technology Partner of the Year Award for AI and ML for its enhanced document ..."
-publishedDateTime: 2021-07-20T18:20:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-19e86229b9b8a7afced2c2dd38ffd105"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-19e86229b9b8a7afced2c2dd38ffd105"
+excerpt: "Roostify, a premium home lending technology provider, is pleased to announce that it has been named recipient of the 2020 Google Cloud Technology Partner of the Year Award for AI and ML for its enhanced document intelligence"
+publishedDateTime: 2021-07-20T18:24:00Z
+originalUrl: "https://www.lelezard.com/en/news-19911572.html"
+webUrl: "https://www.lelezard.com/en/news-19911572.html"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -35,6 +36,6 @@ related:
       domain: businesswire.com
     quality: 12
 
-secured: "0juwMpxtbcSlaASSr89f3xV5ENzZToisdkMPS3LWs1NwypG8mFPF7UMNbvkSy0d8fk3h4nxKWquX3OYMGvddqk9bbipCOvlXDCIJ8hG1fxV42VZ0Y4k16cI71NUFrduFqnw9TOeSQ4PC1btAa9j2nFZwgYNIbudtbnPs11jjaAsBfJo9piC9LvB+WgFCsrlAiTcqjwtk/AFwSNwZrhaVZ1uKFzPTNOrqcRB2e5goBHYA6kImK6wtK6gy7tHBrhm8mZ7X/d9NZB5icdUNGkiFWMXVPit1Jd+XwZgxcRs9P8pA5VKk0H+bF8TKWi1MWQpL4pVi/FvC/BDoi7tyX0sPP0Z3aE/Dgs3HU30anuectJk=;7UIBEx0w+22tjIvwegVsgA=="
+secured: "kR5hFv6w+hMIK5rNUB1K3pS2QxCFb+ovcCPl2U2v8zTWEKckzyS+qtcTIZMY4L6SVvojd00ncAMkdkTkom4JxSn7jFZLCaj1xa8A7iWmUz8QYorIezoIC+KeA14DiDTsnKNjvSFHvY2l27/boa6ScUvjOALXmaEiu8kFxfE+0eGWxqk2B4OwC1LIo8jfCiMEMDgUI7DJRVi18IcCxpol2UOGB+kZvSUV2XbnnC8UUbPdr/tLdh25XpU6vN7/Cxvhns7rGXCrx6s5yPTMwuaXfYLCXhLvm4bAUNgRaoTlJ/LMG/xWXUcTkZXFvFVWZs6WeX5ZP43eC0CImzxLIAeFad6FtkYaSqdDA5rRmp1X9iA=;5OMjPTtWhT1/dtrirGPPhw=="
 ---
 

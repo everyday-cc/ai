@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tribuneindia.com/news/jobs&careers/pg-diploma-in-robotic
 cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/pg-diploma-in-robotics-process-automation-285397"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "5 robotics and automation stocks to supercharge your portfolio"
+    excerpt: "For many decades now, businesses have been integrating robotics, automation and AI. Here are 5 stocks to supercharge your portfolio."
+    publishedDateTime: 2021-07-21T02:22:00Z
+    webUrl: "https://www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/"
+    ampWebUrl: "https://www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/"
+    cdnAmpWebUrl: "https://www-raskmedia-com-au.cdn.ampproject.org/c/s/www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/"
+    type: article
+    provider:
+      name: Rask Media
+      domain: raskmedia.com.au
+    quality: 74
+    images:
+      - url: "https://www.raskmedia.com.au/wp-content/uploads/2021/07/etf--scaled-e1626833813644.jpg"
+        width: 1200
+        height: 840
+        isCached: true
   - title: "MIT Centre for Future Skills Excellence introduces PG Diploma in Robotics Process Automation for Career aspirants"
     excerpt: "MIT Centre for Future Skills Excellence, MIT Art, Design & Technology University Pune has introduced a new post-graduate diploma in Robotics Process Automation from August 2021 academic session. On the occasion of World Youth Skills Day,"
     publishedDateTime: 2021-07-19T06:42:00Z

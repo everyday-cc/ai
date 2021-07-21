@@ -9,7 +9,7 @@ ampWebUrl: "https://nextpittsburgh.com/latest-news/pittsburgh-left-puts-self-dri
 cdnAmpWebUrl: "https://nextpittsburgh-com.cdn.ampproject.org/c/s/nextpittsburgh.com/latest-news/pittsburgh-left-puts-self-driving-cars-to-the-test-and-argo-ai-is-ready-to-pass/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -28,31 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Could the ‘Pittsburgh left’ help Argo AI win the self-driving car race?"
-    excerpt: "Yet the driverless technology company Argo AI ... and make sure its artificial intelligence systems deeply understand them — not just where the street signs, traffic lights and road markings ..."
-    publishedDateTime: 2021-07-16T09:41:00Z
-    webUrl: "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi"
-    ampWebUrl: "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_amp=true"
+  - title: "Crowe expected to start as Pittsburgh hosts New York"
+    excerpt: "(lat strain), Ka'ai Tom: (back), Gregory Polanco: (hip), Colin Moran: (wrist), Erik Gonzalez: (side). Mets: Jordan Yamamoto: (shoulder), Noah Syndergaard: (elbow), Sean Reid-Foley: (elbow), David Peterson: (side), Corey Oswalt: (knee), Joey Lucchesi ..."
+    publishedDateTime: 2021-07-17T07:54:00Z
+    webUrl: "https://www.idahopress.com/sports/national/crowe-expected-to-start-as-pittsburgh-hosts-new-york/article_d9dd40ad-2081-5fa7-bf15-258d60802231.html"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 59
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/75020f5/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6c%2Fcd%2F534512b98dfada9db3836e453a91%2Fae1ef9f1bada4fafadcd0384a152cc0a"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Studying local traffic quirks could pave the way for self-driving cars"
-    excerpt: "Driverless tech company Argo AI is testing and training its sensors and software in seven different cities at once, including Detroit, to learn more."
-    publishedDateTime: 2021-07-16T12:30:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/07/16/studying-local-traffic-quirks-could-pave-way-self-driving-cars/7990232002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 4
+      name: Idaho Press
+      domain: idahopress.com
+    quality: 2
 
 secured: "5oXoLxHFiDTlFUAlgGVGLvNax4ttq3Kba/UUwU4U1UR3O6dkCB04X4ncw7cwOvB+9IR2hr8h+0IyWEDqTvP7R9FTXJhAa5LeUUzBLlDx5M0sL9xQ/3RoGOPEUCDqPOuXarPk9jdvDswPsEgcRXIWkZKo/JxkxgwF5+cf0q4QF2y6E4wd5ieactyg5hxeqNPh5eSPe9RHP8hQr8bZRJupUCMAkLtDYAqoiDV98iNZc5EpJqeTqsvcSqmxIkBxpZ3ywuBVGjJPFBmkoQYcwf9wcQvhYluvsSEBXB+ZjUOgVRH+1PrM9q6YXWje8MNahK8Uj+BEdQN1LJ6Jct7YjSIRbO10Y8kJ++RagUSCNqdQ3iP8P6zFv2//DAZV0Y1j/lO2QVWRZ0pxCoTZCfTn/2T9nOxwA5wwoTvVDKEaYrFffQMDGgUdBw3E9XRhbzX7i8lVGVeexETictOt9dxQAkWO31RJyoYDySVkqBmqGAmo3Glz4RMdrrVj6ENZqfaAnZ6EGbS84yBcqHx1POgKNm04Lw==;/HBmEb5NpFmD+B+CL3hK7g=="
 ---

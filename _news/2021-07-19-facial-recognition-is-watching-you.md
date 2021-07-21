@@ -26,37 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "Maine Enacts Toughest Facial Recognition Ban in U.S."
-    excerpt: "Augusta, Maine — The Maine State Legislature has passed a bill that will prohibit the use of facial recognition surveillance by certain government employees and officials. While these bans have been popping up more and more over the country, Maine took ..."
-    publishedDateTime: 2021-07-16T09:48:00Z
-    webUrl: "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html"
-    ampWebUrl: "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp"
-    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp"
+  - title: "Black teen kicked out of skating rink after facial recognition error"
+    excerpt: "Misidentified, accused of brawling and then kicked out of a roller-skating rink -- the case of a young Detroit girl is the latest facial recognition controversy."
+    publishedDateTime: 2021-07-16T22:15:00Z
+    webUrl: "https://www.cnet.com/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
     type: article
     provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 174
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://compote.slate.com/images/cfdef433-ca60-4077-8748-01acfcc00e80.jpeg?width=780&height=520&rect=3500x2333&offset=0x0"
-        width: 780
-        height: 520
+      - url: "https://www.cnet.com/a/img/qIZq1J7Enc-wxvQGg_DySF8SrQk=/1200x630/2020/06/23/bd9975d1-9066-4f4d-8556-e4458dfb957c/gettyimages-1239553143.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Maine’s facial recognition law shows bipartisan support for protecting privacy"
-    excerpt: "The ACLU urges all Americans to ask their members of Congress to join the movement to halt facial recognition technology and support federal legislation limiting it."
-    publishedDateTime: 2021-07-20T19:14:00Z
-    webUrl: "https://techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/"
-    ampWebUrl: "https://techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/amp/"
+  - title: "Black Teen Kicked Out of Roller Rink Because Its Face Recognition Tech Screwed Up, Predictably"
+    excerpt: "A small but face recognition-equipped Detroit roller rink kicked out a Black teen last Saturday after misidentifying her as a person who’d allegedly gotten into a fight there in March. The girl, Lamya Robinson,"
+    publishedDateTime: 2021-07-16T16:13:00Z
+    webUrl: "https://gizmodo.com/black-teen-kicked-out-of-roller-rink-because-its-face-r-1847306558"
+    ampWebUrl: "https://gizmodo.com/black-teen-kicked-out-of-roller-rink-because-its-face-r-1847306558/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/black-teen-kicked-out-of-roller-rink-because-its-face-r-1847306558/amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 102
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 79
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1199508481.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d95f903dd492f87f4eddd3d4697d481f.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Black teen misidentified by facial recognition sparks fears of machine-driven segregation"
+    excerpt: "Likes Werner Herzog films and Arsenal FC. A 14-year-old Black girl has become another victim of a facial recognition failure. Lamya Robinson was kicked out of a skating rink in Michigan after a ..."
+    publishedDateTime: 2021-07-16T13:40:00Z
+    webUrl: "https://thenextweb.com/news/facial-recognition-misidentifies-black-teen-kicked-out-skating-rink-segregation"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 60
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-4-2.jpg&signature=17e2e46f79128b69d97db4ae280a63a8"
+        width: 1280
+        height: 640
         isCached: true
   - title: "What are the dangers of facial recognition?"
     excerpt: "Robert Williams was wrongfully arrested after a facial recognition system failed to identify the correct culprit. Mr. Williams is seeking justice in a civil rights lawsuit."
@@ -74,16 +88,32 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Baltimore Bill Is Most Draconian Facial Recognition Ban Yet"
-    excerpt: "Because Baltimore's recently passed bill banning use of facial recognition by private entities goes even further than Portland's ban by imposing criminal penalties and may encourage lawmakers in other jurisdictions,"
-    publishedDateTime: 2021-07-16T20:15:00Z
-    webUrl: "https://www.law360.com/employment-authority/articles/1403813/baltimore-bill-is-most-draconian-facial-recognition-ban-yet"
-    ampWebUrl: "https://www.law360.com/employment-authority/amp/articles/1403813"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/employment-authority/amp/articles/1403813"
+  - title: "Black Girl Banned From Michigan Skating Rink Because Facial Recognition Software Misidentified Her"
+    excerpt: "Lamya Robinson was asked to leave a Livonia, Mich. skating rink because the facial recognition software mistook her for a different Black girl."
+    publishedDateTime: 2021-07-16T22:35:00Z
+    webUrl: "https://www.blackenterprise.com/black-girl-banned-from-michigan-skating-rink-because-facial-recognition-software-misidentified-her/"
+    ampWebUrl: "https://www.blackenterprise.com/black-girl-banned-from-michigan-skating-rink-because-facial-recognition-software-misidentified-her/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/black-girl-banned-from-michigan-skating-rink-because-facial-recognition-software-misidentified-her/amp/"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 45
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/07/Lamya-Robinson-fox-2-detroit-black-enterprise.jpg"
+        width: 932
+        height: 524
+        isCached: true
+  - title: "Federal Agencies Can't Resist Using and Abusing Facial Recognition"
+    excerpt: "Already used to identify international travelers as they enter and exit the United States, facial recognition technology is becoming increasingly reliable and may soon become a regular feature of the travel process,"
+    publishedDateTime: 2021-07-16T11:07:00Z
+    webUrl: "https://reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/"
+    ampWebUrl: "https://reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/07/16/federal-agencies-cant-resist-using-and-abusing-facial-recognition/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
     quality: 39
 
 secured: "v3i9nDIsRPpWmjwlQ14vfBwbj4i71TMBP9n1pxuGGawpC219totgsPIQ4gxiC40rIQo1du5LYLoDOZzlkeLvAMD1BrjfGN97w+wEoNYLTEwyOnEqGPh5iRwjQfZ/OqrmylsKIqzVT+xrjexQILDCkbpB/5Fl5ihcDfwu456UQIyhIm3e5LKr0y8m0Nnjcm9M/2KD9YJnA+hLQnzEXvsM1bYMk6AdmuSL6NnskZm65cUAGIKpWrePiIaFg/n8drLkCwsWe5PH73rkBrFqamz5U9TJqbQamyOrBex+DT4z2LWuCsuY6dDQ2MHSPuE3orujWl0DFVEEBwRqHwumuwQcHM2TG+95aCP+F5HYEJAxENcad66sS6oU6nVSFDWv0bF3IKgiPEb0g1gM2U2tkILqarEmQIP81x7WHvpDD57BZDBCS4OKr52jVdxreO45LFMD1P7Ei6dEPTY9LuYdex7u9SBu6FKpMIs94SOFVoRdfqXUicmiSHrg/8e61YcsVqnpUYeBnNt0y6TnPXb3n4Z1Fw==;gWwtiPXGHiy4ceAzlyFJLg=="

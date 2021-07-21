@@ -666,49 +666,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-17-aiml-innovations-announces-board-resignation.md",
-      "title": "AI/ML Innovations Announces Board Resignation",
-      "excerpt": "TORONTO, ON / ACCESSWIRE / July 16, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF) (“AIML” or the “Company”), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/Accesswire/business-d0ad8217434242041e7d8d3491a84248",
-      "originalUrl": "https://apnews.com/press-release/Accesswire/business-d0ad8217434242041e7d8d3491a84248",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-16T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-07-16-deep-learning-courses-for-nlp-market.md",
       "title": "Deep Learning Courses for NLP Market",
       "excerpt": "Global Deep Learning Courses for NLP Market is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and ...",
@@ -1400,6 +1357,49 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-5-ways-deep-learning-ai-can-be-used-for-better-medical-decisions.md",
+      "title": "5 ways Deep Learning AI can be used for better medical decisions",
+      "excerpt": "Applications of Deep Learning AI are accumulating a lot of hope and interest as an important non-medical intervention for transforming patient care and supporting clinicians. Applications of Deep Learning AI are accumulating a lot of hope and interest as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/5-ways-deep-learning-ai-can-used-better-medical-decisions/",
+      "originalUrl": "https://www.dqindia.com/5-ways-deep-learning-ai-can-used-better-medical-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/07/Deep-Learning.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/5-ways-deep-learning-ai-can-used-better-medical-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/5-ways-deep-learning-ai-can-used-better-medical-decisions/amp/",
+      "publishedDateTime": "2021-07-12T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
