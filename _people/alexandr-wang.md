@@ -3,7 +3,7 @@ name: "Alexandr Wang"
 bio: "Founder and CEO at Scale AI - a data platform for AI."
 location: San Francisco, CA
 type: "profile"
-heat: 115
+heat: 104
 
 affiliation:
   name: Scale
@@ -14,7 +14,7 @@ website: https://scale.com/
 twitter:
   username: alexandr_wang
   url: https://twitter.com/alexandr_wang
-  followers: 14363
+  followers: 14362
 
 linkedin:
   url: https://www.linkedin.com/in/alexandrwang/
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Alexandr Wang"
 
-secured: "YZ7CHfX25w88AJi1R0P2Z1vCEPu3+k+9Z2swGbzEYQZCKDAax530yg0fFYctDf+l7CFlrvuMccIOavFmByasuEwhkYmyOwpOkQl0B/wxfGuzfemTkzv0LPH57QNNMWPp59N/M/6tHVrSLFyHORcTi+Mp16xkeuJVnSrMv4wSzK1h47r/GMCUUJJHrFElf1JO+c/0JtAzukl4KWQ/19wych1n9oJqrN1OuIn5CIk0NaI9wgDW443gltHZupVjF+R39urdsPZscFRBHexDkPCW3HRcwAdXq/GXriCJCULS5rnvY9HekxcEn4xh2IfA9wjEFOQvxTjXCEUeeVl1SXm+FllNTuSVMY1NGr5zxq9EijnD/WtcdrXTSgjtYJ41q5wssF3i22z5jY6k+2mJuyQqB6RLV3lwGTp0K1u1hts+ij4=;ytIVReQmuC0khxeVx65Jeg=="
+secured: "yjA0JmGar7RebYkX/gaOaMpoJq/mDnUGLta/zKsWsLjoi757HJN+DYoGsTIUdR0L2+eHoBxzuCczdkZO41UAAICMtXy2/HpA3yWaTtnbuIbupX31P9KHoqbvRk5Un2CnB+5Y1gtZJHZ9akzw+ai4jCoiUCPbKDEAr3dtg5Vv+SsRQ3bUHF2+ycFIxmr+zwNjNdGsbHkeI2VO/JasEcvawiKnrF8QyP5gejhOKm2+W7txdotjnNbNfQSMfuwDm4R0zpaSq7KjiYt6ehaHL7ogsc+XdfbDwLkOLe8fIkQnY6cSoZkECS92EneCGKG8zdjW9O7boUVu76MVBUZy/qAdKlXqLbAi8IoTHXsiWdezKXtjpRNxtU3UVrGroBKB33MgtIk3lPlnjT36B4qwfYD0YZk9Xi6vC/xlrukflAmzPS0=;KeQOxf18q7nIJGTOLGjuug=="
 ---
 

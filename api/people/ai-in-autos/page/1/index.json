@@ -16,7 +16,7 @@
       "twitter": {
         "username": "elonmusk",
         "url": "https://twitter.com/elonmusk",
-        "followers": 58384897
+        "followers": 58387066
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Elon_Musk"
@@ -25,7 +25,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 689,
+      "heat": 694,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1416443682157473795/dGtFbtht_400x400.jpg",
@@ -51,7 +51,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 729512
+        "followers": 729556
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -75,7 +75,7 @@
         "Machine Learning",
         "AI in Autos"
       ],
-      "heat": 428,
+      "heat": 406,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
@@ -101,7 +101,7 @@
       "twitter": {
         "username": "alexandr_wang",
         "url": "https://twitter.com/alexandr_wang",
-        "followers": 14363
+        "followers": 14362
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/alexandrwang/"
@@ -117,7 +117,7 @@
         "Computer Vision",
         "AI in Autos"
       ],
-      "heat": 115,
+      "heat": 104,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
@@ -142,7 +142,7 @@
       "twitter": {
         "username": "jeanliuqing",
         "url": "https://twitter.com/jeanliuqing",
-        "followers": 1321
+        "followers": 1323
       },
       "weibo": {
         "url": "https://www.weibo.com/u/2209030102",
@@ -155,7 +155,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 77,
+      "heat": 64,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
@@ -268,7 +268,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 6,
+      "heat": 0,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1161446779310632961/RGg-GhC6_400x400.jpg",
