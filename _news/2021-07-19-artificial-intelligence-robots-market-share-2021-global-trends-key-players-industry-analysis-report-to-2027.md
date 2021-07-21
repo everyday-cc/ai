@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Robotics Market (2021 to 2025) - Featuring Intuitive Surgical, iRobot and KUKA Among Others - ResearchAndMarkets.com"
-    excerpt: "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to 2025\" report has been added"
-    publishedDateTime: 2021-07-16T08:51:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/b22013635/global-robotics-market-2021-to-2025-featuring-intuitive-surgical-irobot-and-kuka-among-others-rese"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "8lvJD8jcaCPY3JRqdb8YK1lxZ22a17c5Gzkbs+dVDJEq/mhuwXp3rcccVLUKo/AGkLRXiCXC6SB0pviAr5UVUO9vMMQy+NTvWxp5k6406xd8qLGBhx79Oacf/XNU9nJnOeKO/lJwcBpXLmFadQpRqVlwF6O5vMpq0Jm98F/jibwjCrVepYkrbY3lsOdk2Ww4GwWw0qTfVd3RrZxhRwlHvvBYJnHqhq0mPxflARZNo3EIjIE7g20ocXktloJbWcswuhuWrqM2nnrsjDYQxuPhUgR7ghTeLgAEqeHxBUcWCKiJHeqWXDiJc2zF7t7kOrjhMEZ/v3P3M0ElyHZ2pOw+dKlktP4XHVAb3XIOe1vFnLE=;30a6nf7TLpRzEgKGquOqmA=="
 ---

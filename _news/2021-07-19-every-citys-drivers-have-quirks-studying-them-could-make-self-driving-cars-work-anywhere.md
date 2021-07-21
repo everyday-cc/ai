@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Every city's drivers have quirks. Studying them could make self-driving cars work anywhere"
-    excerpt: "To understand why it's so hard to make a car that drives itself, pay attention to how people cross the street next time you travel. In Los Angeles, pedestrians wait"
-    publishedDateTime: 2021-07-16T08:15:00Z
-    webUrl: "https://www.fltimes.com/news/nation/every-citys-drivers-have-quirks-studying-them-could-make-self-driving-cars-work-anywhere/article_8a43202a-ded3-5574-a3e6-06c44f1ff5d9.html"
-    type: article
-    provider:
-      name: Finger Lakes Times
-      domain: fltimes.com
-    quality: 14
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/d/78/d788e464-fed4-51ee-a341-1bab6f35538c/60f14ae3ae8fc.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
-        width: 840
-        height: 630
-        isCached: true
 
 secured: "YJEOc0EfIuFNGfpCLNwwx7C499diS98OIqNok4FQsHldD1k8bCm8B+VyLJIDhRUMrZle3NCptIUSafs0WjntSARnSYIv+LFdwW0S27QFdR7JYz+Ha1Pp/Iio9NEo348upNFPpo45lXPQGwk+Azl2mzJaFr5ev+XRzWq4bc3zn/XMg1Dxb3SuWOig526VePXLuyt+VsAYFDmmk5RPKz8DqiSJSagJa5lj5COKHgHMmxwAMz8tbx62gEScGGKD/6Es3XvijBDNQQDFCXxp1yGsbOUWFUyfwQErI/CAtAMIxiWJm+V0SimoTlkT5Ar2ZdM2SypsHTecIyrG55WO0HP2VKpB50ycykFLDHNYCR/z4Hc=;7JSszwUlq+r08rPbTW8SSQ=="
 ---

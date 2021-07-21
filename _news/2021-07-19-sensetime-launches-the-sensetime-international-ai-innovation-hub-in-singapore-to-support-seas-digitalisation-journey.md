@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1576547/1.jpg"
@@ -116,6 +116,6 @@ related:
         height: 493
         isCached: true
 
-secured: "OI+J2hPsKwaxVs1fd53WVNPpWvsoSqqVeNjyYghctE3TElvNMyqS0gxjLyFo9R7OBlRHOOzYhAxq+BVlPsKsiyZFeyPmUHvXfZmXCt77d3WV/izPuWnrvZ8awbZjMs2cbs7KbOCdgLA0AiaUIMdvA3hfhhsACAMiUyusiJdtEGfdq2b/mYTcVXvV7EYTdHkq4fzH38g8pfH8QX41y350y3xj5cJ7OqeMH8WQqpd601mfJGFZ/W4eC1VIk3xXJWeEkGJlDAPiN2ma5PYkgtNYhEjJIOgbvBZQ1uG3FnOuNCaIKBYpZdGw+kLyALd86IBciqLgi/5mBy7+v3VA2aBoeUtA/MpD7tTBb7XB5uxGEKmjz5RFf+KumtyQJrel5HzcCuAO9nHtH+iwfOHufLq4uETlvEBQc29ynwDZvkObeK9CTRL73s4jyfKDHRImMMDqBcz3LaXTnv0NHISIGwKL5OlObs/wMvlKo/loEEDaSPVFeaepGMgwVBMRzeMm87Lyho1bW0kkPPIZkZ9t8sHP+Q==;BEwk1O8C8Nsmg1wYtrl/cw=="
+secured: "AeOKJCtMNUThhOXWLFZM1Guz6FSHrgTWG9QKK2reRrJQA2fWLrV2SWach53OBJ/rvsQKsiiEM1J8DOUfvQaAVJLTmZV4wEQCMuyXW80oBfZc7JWYrXjF5kPggCmkW5IJaQ1KpHoz2jf217Ov6W41Pohl8OsYrOckyk34Xt+EPxJDQlKaWA5WRP8cuxwpGYrY4Q5d7g8VAYg5X6WjmeSOcbX16QnBRIK0jpK/EmTDfuldLa49c8iJFnzsMeIWOxKYCqLZwguUSBPNPNTrcMO438e1jjWjU+SODxjPcoG8Z9WgShvRVqIxM01j8mq+21WidvZe0gHnoQLTm1YuioxYrKQiwN4uZrwoJNOQ4wX7RPg=;hRD0cTa/9sx/AXn1kx/JsQ=="
 ---
 

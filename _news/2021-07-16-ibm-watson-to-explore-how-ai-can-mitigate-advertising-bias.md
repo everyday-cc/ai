@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "What Ever Happened to IBM’s Watson?"
-    excerpt: "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson."
-    publishedDateTime: 2021-07-16T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html"
+  - title: "Watson as a Warning: Current Limits and Promise of AI"
+    excerpt: "We can’t seem to decide whether AI will replace humanity as the dominant intellectual force or it will simply be a sideshow never reaching its promise. Is AI the technology of the future, or wil"
+    publishedDateTime: 2021-07-20T17:17:00Z
+    webUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai"
+    ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 76
     images:
-      - url: "https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "What happened to IBM's Watson healthcare push? And what the future holds"
-    excerpt: "IBM has 40,000 Watson customers across 20 industries worldwide, with some of its biggest clients being in health, such as health insurer Anthem, according to the report. 2. The company invested billions in healthcare,"
-    publishedDateTime: 2021-07-16T19:52:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/what-happened-to-ibm-s-watson-healthcare-push-and-what-the-future-holds.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 55
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
 
 secured: "XtxJGZ/f5TXOGH5vbtTZ2iSP1Nvfe8IcCJul+cYao1VbV+V/eOIQ3FQBaNfKllo2hHXvtIxFog+0mhmvI2RzTNn20U0TOBplqWOQxsj48Q4FSBFKGe3rnZ/FTpP56bgQ9726IXT7cD9aj+nXCycaQ+4Vv+nCP8EDewr+BKSMXhuGPXRBIpB5FwhK1twD8a/7V6OoC+tJASHszic+mLE0QQFhyEMHfmQIZxA/iHIt2sCyK9r5oFLG0MUNvVV2UY3oO1UvAQcr5JVhJlYRYDu/PCPzciM/O3DyWH6JIl/wDj71WHE4yA8gnKItvgSCFSbiGpvhy4KuhgvaFTIj3edeekSKhMXdXrRq7yKECc1MVev6Sw6BFIa0PCSW1bBSQS9frvQmLVg4qaPTUHMGKeCrNfaGOUZvsRE1Hee3g6CWl6oow8wTRwXw4010LmkvRu2VHeupWhRpZrK7bQRag3nhE+CT4K2eWlTX4V3nDVTMb1+84t8TTxFJRe/qGDhIJhSAYen0n0G/AK9omzz4VMuwFw==;+T5L8ybN526XJ6wENNF3Eg=="

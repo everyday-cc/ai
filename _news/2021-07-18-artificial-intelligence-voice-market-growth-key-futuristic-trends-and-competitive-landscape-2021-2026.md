@@ -38,20 +38,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
-    excerpt: "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-07-20T12:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-20"
+  - title: "Cognitive Services market Manufacturers, Research Methodology, Competitive Landscape and Business Opportunities by 2026"
+    excerpt: "It sheds light on the companies that make up a large portion of the global Cognitive Services industry in terms of sales Companies considered and profiled in this market study: Microsoft, IBM, AWS, Google, Nuance Communications, Baidu, SAS, Qualcomm ..."
+    publishedDateTime: 2021-07-17T00:39:00Z
+    webUrl: "https://ipsnews.net/business/2021/07/17/cognitive-services-market-manufacturers-research-methodology-competitive-landscape-and-business-opportunities-by-2026/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
   - title: "Worldwide Aerostat Systems Industry to 2026 - Featuring Aerostar International, ILC Dover and Lockheed Martin Among Others - ResearchAndMarkets.com"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global aerostat systems market reached a value of US$ 9."
     publishedDateTime: 2021-07-19T10:11:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-in-bfsi-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2021-07-19"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Natural Language Processing Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul (Heraldkeepers) -- This report elaborates the market size, market characteristics, and market growth of the Natural Language Processing industry,"
-    publishedDateTime: 2021-07-17T11:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Products Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2027"
-    excerpt: "Jul 20, 2021 (Heraldkeepers) -- This report describes the global market size of Artificial Intelligence Products from 2016 to 2020 and its CAGR from 2016 to 2020, and also forecasts its market size to the end of 2026 and its CAGR from 2021 to 2026."
-    publishedDateTime: 2021-07-20T07:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2020-2027-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "lt5wWTCuRP0NzDTvivIwcF7RSg5mbRBx7q7gO/tzrQB5lOxbDFL/3nco3s2CSWqTsNqgGTjHUSMhxFgXI78vUXT5om3cM8TrAtyuHaFAT+E7FhxEJNLiOZ88OR2OvA1pRf6ZY4V+5T//tmeCBMbfv9I1a49SSWLPZp9OmnUeagTgkCCoLIbZZWQp5VNAkVtKeIfKd2auomPUG9j3znBrGkA52pX0vVyRdGSxppXrgYjPnEXN77wxE+ACBhP+YPF9BVVVIFfNE1ADjFZ9Gmo/MlEZSE+dPZKZK9bltT6e6UDZR7A12bMCa2rzDx1I4qfkFV2TSHUFxz+j+ERbKDxajFuvIwrVC7EALT9pqmFFvts=;m39c260cOlmG74qtS9pJ5Q=="
 ---

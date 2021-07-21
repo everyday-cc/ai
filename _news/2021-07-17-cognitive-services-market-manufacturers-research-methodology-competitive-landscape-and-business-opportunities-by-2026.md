@@ -19,19 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Automotive Market Analysis, Size, Drivers, Restraints, Opportunities and Threats by 2026"
-    excerpt: "Rising concerns over road safety to enhance artificial intelligence (AI) in automotive market share Growing inclination towards semi-autonomous vehicles is anticipated to drive the use of artificial intelligence (AI) in automobiles."
-    publishedDateTime: 2021-07-20T08:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-analysis-size-drivers-restraints-opportunities-and-threats-by-2026-2021-07-20"
+  - title: "Global Big Data & Machine Learning in Telecom Market 2021 Potential Growth, Competitive Landscape and Development of Industry by 2026"
+    excerpt: "Newly added by MarketsandResearch.biz study on Global Big Data & Machine Learning in Telecom Market 2021 by Company, Regions, Type and Application, Forecast to 2026 contains a detailed analysis of data through industrial dynamics which has a major impact on the growth of the market."
+    publishedDateTime: 2021-07-20T01:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-2021-potential-growth-competitive-landscape-and-development-of-industry-by-2026-2021-07-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence Voice Market Growth – Key Futuristic Trends and Competitive Landscape 2021-2026"
+    excerpt: "Big Market Research recently added a new informative report titled ” Global Artificial Intelligence Voice Market ” in its humongous database that helps shape the future of com"
+    publishedDateTime: 2021-07-17T17:10:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-voice-market-growth-key-futuristic-trends-and-competitive-landscape-2021-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 21
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/chemical4-25-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Worldwide Aerostat Systems Industry to 2026 - Featuring Aerostar International, ILC Dover and Lockheed Martin Among Others - ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global aerostat systems market reached a value of US$ 9."
+    publishedDateTime: 2021-07-19T10:11:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-ee5cd621fb5f488fa60defa15afd4143"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "GEyOXN60SVLht+pbXFXyREhr9U5O2WeF2LNOfvcaL67SvnB+86X5t8XowRX9XoHekPjQx1ktXPt2uZXb8CE/F0xTkKT8dZCI1B9XJ8scE5YBfccTVQVVvj2T7zuq0Pl8fXtknWWcEEbWoGnv14OQvQoYIY9HaEHavxY8HPXhoArWLFgbz37+XB1Ti729pJ2xPCa4cZ4T9EgzIwA4WbfNu1LkVVwy2rroYA6Yz4G2tjPHy4pYEAZylcwnwv5QycpT71HscGP30b+kGMyB9NXQZANOg0IbOGmon0fSRU2RT/+PqvItE4Ib0nd4KE7SUYl11smIqj2eZjkeV5o+tD8cMBE+1ABnm7XTtSmdpd8ht1c=;z7v0+Xt6N7+KXUT2RI9FuQ=="

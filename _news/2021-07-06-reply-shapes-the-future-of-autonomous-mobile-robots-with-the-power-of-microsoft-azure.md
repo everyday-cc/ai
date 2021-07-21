@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
-publishedDateTime: 2021-07-06T08:04:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new business applications across industries, reduces upfront costs and allows for the rapid implementation of customer-specific robotics use cases."
+publishedDateTime: 2021-07-06T07:31:00Z
+originalUrl: "https://www.galvnews.com/news_ap/business/article_0927f4c9-a635-5e89-9d3d-531a8f3f452e.html"
+webUrl: "https://www.galvnews.com/news_ap/business/article_0927f4c9-a635-5e89-9d3d-531a8f3f452e.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png"
+    width: 1920
+    height: 1080
     isCached: true
 
-secured: "B7WAeafI/IPHILukFVU8PlwFw2wxEMswRf05FZx2uNwZlC60HZXr2fM0y4rluD6nARiwZKVvD694WMSD+2i/c+U05yyO44LCj0C9XCyMFY2WLViEPyxIgWrlqxskOat2NqKpG7Aq9RleiMON/O25C6edn//YFM0rl1mPcCclTrR3P5mupxcdi5ZXFVZIaWW1/FrrG+4O0b2xVabxbK2JA2KzQiK5XlS3oQJM0nhaK2q9eXSAqTZ8NscXdOurGqDwobIj+f8cF3SvxDv2DchUSFcsuxROpBD6CrzjDTk1OZC0dvV9YqLaSfF2mzty+7PB7sePQ3DmdFb8Pb0hZVjD5+dsZkNCLl2+eEFZrTuQbkI=;Jf70Hr/zibHQNRUuaOOBVg=="
+secured: "ZyfRQUrPRxsUfWBepLziv0rLQQtTWliFJAakn6JgJS2RMFy9iHuKxaE8EI2A/Chn7PBTxS7/jldikvVv6v66GsIk1zR97f6yA/eLrg98RitFTK6nsYAi+0v+7ACMKagNToGgUauyjI0n/HvdWREXKO7aWgqScihPYEW82WvQJhywG+KCQwVASOewb101jUkyvxnaLdXlb3/u3+oYTOMErTbLkhHVWEzOzFHaTOuhbCPLHXDYvj/4UJYu/UGcU6g8HPDjeL/qrPk18dy8x8yUrzVEhhtWR6gFAaNUrHOIyhcuxe9ProU003oe4y8x1lIaCEpS7e4oU7Rtom0A51KwueCA1dELpd8I//ELRucwGmo=;Pua6dPLK+nP0icBEvfE8sA=="
 ---
 

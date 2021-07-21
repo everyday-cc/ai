@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/377515"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377515"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1626678981-MrVikalpSahniFounderCEOEkaCarev1.jpg?width=600&crop=16:9"
         width: 600
         height: 338
-        isCached: true
-  - title: "Anicut Angel Fund leads seed round in deep-tech startup, EDGENeural.AI"
-    excerpt: "The investment will be used to make investments in engineering, product development, and team expansion. Pune-based deep-tech startup, EDGENeural.AI has raised an undisclosed amount in seed funding from Anicut Angel Fund, the equity arm of Anicut Capital."
-    publishedDateTime: 2021-07-16T07:57:00Z
-    webUrl: "https://www.dqindia.com/anicut-angel-fund-leads-seed-round-deep-tech-startup-edgeneural-ai/"
-    ampWebUrl: "https://www.dqindia.com/anicut-angel-fund-leads-seed-round-deep-tech-startup-edgeneural-ai/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/anicut-angel-fund-leads-seed-round-deep-tech-startup-edgeneural-ai/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/03/funding-1.jpg"
-        width: 850
-        height: 400
         isCached: true
   - title: "Anicut Angel Fund leads the Seed Round in deep-tech startup, EDGENeural.ai"
     excerpt: "A Pune based deep-tech startup, EDGENeural.ai has raised an undisclosed amount in seed funding from Anicut Angel Fund, the equity arm of Anicut Capital."

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
-    excerpt: "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-07-20T12:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Voice Market Growth – Key Futuristic Trends and Competitive Landscape 2021-2026"
     excerpt: "Big Market Research recently added a new informative report titled ” Global Artificial Intelligence Voice Market ” in its humongous database that helps shape the future of com"
     publishedDateTime: 2021-07-17T17:10:00Z
@@ -67,6 +53,15 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Cognitive Services market Manufacturers, Research Methodology, Competitive Landscape and Business Opportunities by 2026"
+    excerpt: "It sheds light on the companies that make up a large portion of the global Cognitive Services industry in terms of sales Companies considered and profiled in this market study: Microsoft, IBM, AWS, Google, Nuance Communications, Baidu, SAS, Qualcomm ..."
+    publishedDateTime: 2021-07-17T00:39:00Z
+    webUrl: "https://ipsnews.net/business/2021/07/17/cognitive-services-market-manufacturers-research-methodology-competitive-landscape-and-business-opportunities-by-2026/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "IEu7WeSz+byzckgMfP2k37/04mpt+tAB6DeetafdxrLLJMIqoDzBTQ8IB/YQf451dU87PrBAedMZnJ2M8D7Ry6f7XE+ddh3E26aQcXGgwIsiotd0BvuyNKDafXYZHe9jwaDHazVec5kELJfmxGVolFStS4D87msBDyOpeYs9fYqT/yrjDeFGFtdXz+y1iYTlg+3/K7UJDkh4A86+zgue3ionivgzut/aopw4e4YP9a1vio98S2f4fe+UpNtimeB2LmXTBCjYuXl7ctgirHPWMM5Chiw5YzDetRaITSvPfWf2OiGBpYBQ2CREBJXEcpKaUGebO+8dGVNYbu0BExnkhSne0L2KCSTlxtdZAZuQo58=;TGGztLWvzXUK0z+HE5KPtQ=="
 ---

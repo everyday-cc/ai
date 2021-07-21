@@ -74,22 +74,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Anicut Angel Fund leads seed round in deep-tech startup, EDGENeural.AI"
-    excerpt: "The investment will be used to make investments in engineering, product development, and team expansion. Pune-based deep-tech startup, EDGENeural.AI has raised an undisclosed amount in seed funding from Anicut Angel Fund, the equity arm of Anicut Capital."
-    publishedDateTime: 2021-07-16T07:57:00Z
-    webUrl: "https://www.dqindia.com/anicut-angel-fund-leads-seed-round-deep-tech-startup-edgeneural-ai/"
-    ampWebUrl: "https://www.dqindia.com/anicut-angel-fund-leads-seed-round-deep-tech-startup-edgeneural-ai/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/anicut-angel-fund-leads-seed-round-deep-tech-startup-edgeneural-ai/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/03/funding-1.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "HealthTech Startup Eka.Care gets $4.5 million seed funding from angel, early-stage investors"
     excerpt: "Early-stage venture capital firms including 3one4Capital, Eximius Ventures, and Speciale Invest also participated in the round"
     publishedDateTime: 2021-07-19T09:34:00Z

@@ -2,20 +2,24 @@
 category: news
 title: "Maxim Integrated's Hand-Held Camera Cube Reference Design Enables Artificial Intelligence at the Edge for Vision and Hearing Applications"
 excerpt: "Today Maxim Integrated Products, Inc. (NASDAQ: MXIM) unveiled the MAXREFDES178# camera cube reference design, which demonstrates how Artificial intelligence (AI) applications previously limited to machines with large power and cost budgets can be embedded in space-constrained,"
-publishedDateTime: 2021-07-20T12:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/20/9412526.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/20/9412526.htm"
+publishedDateTime: 2021-07-20T12:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-hand-held-camera-cube-reference-design-enables-artificial-intelligence-at-the-edge-for-vision-and-hearing-applications-1030624731"
+webUrl: "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-hand-held-camera-cube-reference-design-enables-artificial-intelligence-at-the-edge-for-vision-and-hearing-applications-1030624731"
 type: article
-quality: 6
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
 
 images:
@@ -42,6 +46,6 @@ related:
         height: 950
         isCached: true
 
-secured: "W8VeeH64q1FExEtQ3NnQQ4tXvmLNri8dwwxCtSRawwU2f96zobCd0x2hrBJKrMya14A4G/GYUQdiN1D1jk2F3aRr6dBOAxibKdP+Gs5HfvZ/mhI0GceVhcYZsdFiNfNYjNJstS54J0hgZGQuHSFNIL36Wkxc08XwzZj/ODQQSfSmrJYMBPlQ28+rHAbW0B6DLDN8RaaYSnkBVqivdYkvaD77z/In4/roxy+hp2gWXnow7AV6hAOpG/0GYAQCf+kbfmyWb999rGetSFhxmwWvHrFyv+ETWnDJ/NnX4jjNM1eRIpFk9BTtSkRgTegBsnWYTnomAwNZ/c7XPC7Za4ahsam5NdBGjK6MpdoFvn7Z1vc=;YmMzT0zhEH2q0ImGio77zQ=="
+secured: "vexmIKNT67a9/O7j4Ubx4tIom36Rao3TrDaNeBh6BhEhD7VZnJ18v/L/oLpMS5DrHVlm8cKSYLx7aUy8Qh/d+Z0m7la5tc/wkX76+MnPQKy6Yag2xhC/WtE1gjdqmPIKSUB5vfqJJDJFhvZP9eVUsQ4tNmyAG7HAr981RWecJ4PVYS+tM2QQnQl/hwOeG842lqnlzMgnKLt5G9otYImNptTSUlL2V/ckrQF0HDvuUrnYhf0UYDhTfTwLTejNsdVYAsfSzEu7jMF0mAlX4PM+RL550zvk/xbq5NGCvjBNVNXccszHRgYHMRLi7Xe4jYsJb77h+CBIIWjTwJjifyIrCBKKDU1tjTYvO5G1NkY6kKc=;ZqeEmNxt3Q+javjKnd1Zew=="
 ---
 
