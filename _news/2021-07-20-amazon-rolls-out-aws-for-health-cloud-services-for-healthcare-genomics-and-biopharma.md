@@ -58,20 +58,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Your occasional storage digest with AWS HealthLake, Delphix, Infrascale, XenData and much more"
-    excerpt: "This week we have AWS doing a neat health sector vertical market data lake offering with partners, Delphix bragging about its growth and diversity hiring credentials, and Infrascale offering MSPs and VARs new backup appliances."
-    publishedDateTime: 2021-07-16T15:16:00Z
-    webUrl: "https://blocksandfiles.com/2021/07/16/your-occasional-storage-digest-with-aws-healthlake-delphix-infrascale-xendata-and-much-more/"
-    type: article
-    provider:
-      name: blocksandfiles
-      domain: blocksandfiles.com
-    quality: 27
-    images:
-      - url: "https://blocksandfiles.com/wp-content/uploads/2021/07/Warfield-Hansen-Gupta.jpg"
-        width: 950
-        height: 600
-        isCached: true
   - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
     excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"
     publishedDateTime: 2021-07-20T14:00:00Z

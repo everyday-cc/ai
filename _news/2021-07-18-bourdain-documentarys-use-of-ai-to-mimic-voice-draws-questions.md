@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Anthony Bourdain Documentary ‘Roadrunner’ Sparks A Strange Ethics Debate"
-    excerpt: "Neville stated: “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know. We can have a documentary-ethics panel about it later.”"
-    publishedDateTime: 2021-07-16T15:27:00Z
-    webUrl: "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/"
-    ampWebUrl: "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f1a2151251a7c507b4358e%2F0x0.jpg"
-        width: 1200
-        height: 824
-        isCached: true
   - title: "Anthony Bourdain’s cloned voice in documentary raises questions about deepfakes and ethics"
     excerpt: "Anthony Bourdain, who died in 2018, is the subject of a recent documentary. Viewers were shocked and angry that the director used AI to clone his voice for a segment."
     publishedDateTime: 2021-07-19T12:45:00Z
@@ -68,22 +52,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7458/production/_119448792_gettyimages-187622944.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Anthony Bourdain documentary uses AI to re-create his voice after he died"
-    excerpt: "A documentary on the late Anthony Bourdain is drawing attention for its use of artificial intelligence. Focus Features . A New Yorker review of Roadrunner, the new documentary on"
-    publishedDateTime: 2021-07-16T16:39:00Z
-    webUrl: "https://www.cnet.com/news/anthony-bourdain-documentary-uses-ai-to-re-create-his-voice-after-he-died/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/anthony-bourdain-documentary-uses-ai-to-re-create-his-voice-after-he-died/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/anthony-bourdain-documentary-uses-ai-to-re-create-his-voice-after-he-died/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
-    images:
-      - url: "https://www.cnet.com/a/img/ygG9OnwVAXclz9rN4SrLRmZZIR4=/2021/07/15/01a10222-21c1-4dc7-9e83-0e2f0947439a/anthony2.jpg"
-        width: 1194
-        height: 672
         isCached: true
   - title: "Anthony Bourdain Documentary Used AI To Fake His Voice"
     excerpt: "A new documentary about late celebrity chef Anthony Bourdain utilized artificial intelligence to recreate his voice, spurring a debate about the ethics of this practice. In an interview with The New Yorker,"
@@ -165,38 +133,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "‘Roadrunner’ Recreates Anthony Bourdain’s Iconic Narration With Artificial Intelligence. Is That Okay?"
-    excerpt: "How could that be? As Neville revealed to the New Yorker, he and his team employed artificial intelligence technology to recreate Bourdain's voice to add in a few missing pieces that the director thought filled in holes in the story. (For instance ..."
-    publishedDateTime: 2021-07-16T15:26:00Z
-    webUrl: "https://www.esquire.com/entertainment/tv/a36953906/anthony-bourdain-roadrunner-artificial-intelligence-ethics-debate/"
-    ampWebUrl: "https://www.esquire.com/entertainment/tv/amp36953906/anthony-bourdain-roadrunner-artificial-intelligence-ethics-debate/"
-    cdnAmpWebUrl: "https://www-esquire-com.cdn.ampproject.org/c/s/www.esquire.com/entertainment/tv/amp36953906/anthony-bourdain-roadrunner-artificial-intelligence-ethics-debate/"
-    type: article
-    provider:
-      name: Esquire
-      domain: esquire.com
-    quality: 58
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/anthony-bourdain-visits-the-build-series-to-discuss-raw-news-photo-1626445038.jpg?crop=1xw:0.72745xh;center,top&resize=1200:*"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Anthony Bourdain Doc Under Fire for Using AI to Mimic the Late Chef’s Voice"
-    excerpt: "Oscar-winning filmmaker Morgan Neville said Bourdain’s widow Ottavia consented to the deepfake’s use—a claim she disputed on Twitter."
-    publishedDateTime: 2021-07-16T15:44:00Z
-    webUrl: "https://www.vanityfair.com/hollywood/2021/07/anthony-bourdain-doc-under-fire-for-using-ai-to-mimic-the-late-chefs-voice"
-    ampWebUrl: "https://www.vanityfair.com/hollywood/2021/07/anthony-bourdain-doc-under-fire-for-using-ai-to-mimic-the-late-chefs-voice/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/hollywood/2021/07/anthony-bourdain-doc-under-fire-for-using-ai-to-mimic-the-late-chefs-voice/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 57
-    images:
-      - url: "https://media.vanityfair.com/photos/60f1a82f8f3de0afdbe7dff1/master/pass/845139570"
-        width: 2396
-        height: 1572
-        isCached: true
   - title: "Commentary: ‘Roadrunner’ uses AI to create an Anthony Bourdain soundalike. Here’s why that’s ethically squishy"
     excerpt: "You should see “Roadrunner,” with this small but hugely controversial caveat: The voice you sometimes hear? He’s a deepfake."
     publishedDateTime: 2021-07-17T00:10:00Z
@@ -261,33 +197,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Anthony Bourdain’s Widow Says She Did Not OK Use of AI to Fake Husband’s Voice in ‘Roadrunner’"
-    excerpt: "Shortly after Neville’s interview, the use of AI to approximate Bourdain’s voice was criticized and set off a spirited discussion on social media about the ethics in dealing with documentaries of deceased people. TheWrap has reached out to Neville ..."
-    publishedDateTime: 2021-07-16T16:15:00Z
-    webUrl: "https://www.thewrap.com/anthony-bourdain-widow-responds-ai-fake-voice-roadrunner-ottavia-bourdain/"
-    ampWebUrl: "https://www.thewrap.com/anthony-bourdain-widow-responds-ai-fake-voice-roadrunner-ottavia-bourdain/amp/"
-    cdnAmpWebUrl: "https://www-thewrap-com.cdn.ampproject.org/c/s/www.thewrap.com/anthony-bourdain-widow-responds-ai-fake-voice-roadrunner-ottavia-bourdain/amp/"
-    type: article
-    provider:
-      name: TheWrap
-      domain: thewrap.com
-    quality: 47
-    images:
-      - url: "https://www.thewrap.com/wp-content/uploads/2021/06/anthon-2.jpg"
-        width: 936
-        height: 527
-        isCached: true
-  - title: "Director uses artificial intelligence to generate Anthony Bourdain's voice in documentary"
-    excerpt: "The director of a documentary about Anthony Bourdain used artificial intelligence to recreate the late food critic and world traveler's voice."
-    publishedDateTime: 2021-07-16T16:13:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/anthony-bourdain-documentary-ai"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/anthony-bourdain-documentary-ai?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/anthony-bourdain-documentary-ai?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 45
   - title: "Ottavia Bourdain denies giving permission to recreate Anthony Bourdain's voice with an AI for Roadrunner"
     excerpt: "Roadrunner, Morgan Neville’s documentary about Anthony Bourdain, features narration by the chef and No Reservations host. While most of that audio was recorded by the actual Bourdain, Neville took on the ethically questionable approach of using stitched-together clips,"
     publishedDateTime: 2021-07-16T20:40:00Z

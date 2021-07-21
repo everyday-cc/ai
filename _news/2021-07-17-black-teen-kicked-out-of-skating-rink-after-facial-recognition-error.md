@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/black-teen-kicked-out-of-skatin
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Black Teen Kicked Out of Roller Rink Because Its Face Recognition Tech Screwed Up, Predictably"
-    excerpt: "A small but face recognition-equipped Detroit roller rink kicked out a Black teen last Saturday after misidentifying her as a person who’d allegedly gotten into a fight there in March. The girl, Lamya Robinson,"
-    publishedDateTime: 2021-07-16T16:13:00Z
-    webUrl: "https://gizmodo.com/black-teen-kicked-out-of-roller-rink-because-its-face-r-1847306558"
-    ampWebUrl: "https://gizmodo.com/black-teen-kicked-out-of-roller-rink-because-its-face-r-1847306558/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/black-teen-kicked-out-of-roller-rink-because-its-face-r-1847306558/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 79
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d95f903dd492f87f4eddd3d4697d481f.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "What are the dangers of facial recognition?"
     excerpt: "Robert Williams was wrongfully arrested after a facial recognition system failed to identify the correct culprit. Mr. Williams is seeking justice in a civil rights lawsuit."
     publishedDateTime: 2021-07-18T19:08:00Z

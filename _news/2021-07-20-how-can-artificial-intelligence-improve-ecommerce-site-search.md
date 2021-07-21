@@ -38,6 +38,20 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "How companies are leveraging AI to personalise experiences"
+    excerpt: "Could artificial intelligence (AI) be used to determine the right product mix for each of their 1,500 stores across India? “We fed them some data from our stores, and through Watson [IBM’s AI tool that processes insights across unstructured images ..."
+    publishedDateTime: 2021-07-21T08:38:00Z
+    webUrl: "https://www.forbesindia.com/article/take-one-big-story-of-the-day/how-companies-are-leveraging-ai-to-personalise-experiences/69277/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 39
+    images:
+      - url: "https://www.forbesindia.com/media/images/2021/Jul/img_164091_aiandpersonalisationsm.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "iGCOkVy2S5PxDuQrqFYDowfGsu2xVhlTC2e96iZleMf/0GxdPYdUzpaz2x/M5zZ2jzyX8DNKqyVri/OKgRt+RNWc3/GBWJVVSunF0tLg1JW3y+VOe1iZQb9U/6pkFUtpKsDaVh7jbEgmPoROBvjgMmMBAUb3GrFIVQlitoyOXw2eb7HVt+27Ilznr8fapLTqQNluRwYdKGzWwIZcv+3aohzMyxRppUbZf9yr0KhWo0Itn/izLjmAuBWBLAgsaYXlWLaNUmc1DVGN/XT+vAHAXyUDf+QAymXgCV426zjgbQW4bkmDBiTC2dOujU54F43pR3l0RqbQ4K5nG22/cpg+CWoA21f4fQXt7Ksr0VNfYCPhg6lTGF+IOYcghs3oYaqR4Z089LNU53uWAy+fldIEhZCewQAOkGmB/fx08i7idQiDVccKVcGsZuzGwxJJdNgngyKXZTESPzgV5pNBJIsxd+ym74PlUMJTEtsqHDaIVRSuNIj210sbeEKGIjM8zjoWwav5wdnWidckkZ28lkrYEw==;j4HK/3vgiPf+xgHl2PcWDw=="
 ---

@@ -34,7 +34,7 @@ related:
     provider:
       name: IBS
       domain: ibsintelligence.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/03/black-knight.jpeg.jpg"
         width: 300

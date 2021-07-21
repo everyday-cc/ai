@@ -32,6 +32,20 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "AI Marketing Market 2021 by Global Key Players, Types, Applications, Countries, Industry Size and Forecast to 2027"
+    excerpt: "A new informative report titled as “Global AI Marketing Market Report 2021 by Market Size, Forecast to 2027 (Based on 2020 COVID-19 Worldwide Spread)” provides estimations of the size of the global market and share and size of key regional markets during the historical period of 2015 to 2020."
+    publishedDateTime: 2021-07-19T19:48:00Z
+    webUrl: "https://manometcurrent.com/ai-marketing-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
+    images:
+      - url: "https://rustwire.com/wp-content/uploads/2021/07/MicrosoftTeams-image.jpg"
+        width: 626
+        height: 351
+        isCached: true
   - title: "Artificial Intelligence Platforms Market Size 2021 is Booming Worldwide| Google, Baidu, Ibm, Microsoft, Sap, Intel"
     excerpt: "The report titled Global Artificial Intelligence Platforms Market Research Report provides market size and market overview for the global Artificial Intelligence Platforms market for the forecast period of 2021-2028."
     publishedDateTime: 2021-07-19T03:12:00Z

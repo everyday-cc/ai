@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-21T06:23:00Z
 originalUrl: "https://ibsintelligence.com/ibsi-news/black-knight-unveils-underwriter-assist-leverages-machine-learning-tools-from-aws/"
 webUrl: "https://ibsintelligence.com/ibsi-news/black-knight-unveils-underwriter-assist-leverages-machine-learning-tools-from-aws/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AWS AI
+  - AI in Finance
 
 images:
   - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/03/black-knight.jpeg.jpg"
@@ -41,6 +42,6 @@ related:
         height: 1058
         isCached: true
 
-secured: "nJstADQspiO5EtdBtiPx3QmCwhvd62qtl6tOPQyQE2YIlupKStC88gTGJQZhTIWcrxCNV6cPCeV09vJRIiPfYsoUvdoRmOebwIN2IQsNgAmiD/Wi+5GTq5ntYs3tduUgmPXCxcTvg6AkbijLjTbbbN9451UOkSsSZSN0abmS27H1H8jA1a56bp8kXoK623Kj+n4JyXeCqscPF0fqgpEGVjcei5TuyMYguT/RktKCRliU1Mk5zFjyWnTjb7lZjBx/6LXCckfBcJbmWw+yQEphfU05rSQyqD6PnxX5Kzb2aBKjhSGBYFUZdOWEi7couGh0YDGQAAk1Hus7xdFAy46yhrWuJk4i1IkN9Z+U/D+3qAA=;cscUlHjV+Tv0/zrfxt1F4A=="
+secured: "L74mN37bGtHyk2MOjdfJvBgHYUSmWMQHRbNnf1ArbPqWeilo1BhrzXJzaOrGJXJqddEH8p+SBs4+jIUKwrIOAZrPRkaANaTpyxyYbPeaZ6xrTp4axUZay+lHeT5X1NtUB853yr0dwqMH3Plx3ckgZ8dg+rBJMDl5XyEFKW6x0oPhTi/Zc7wg8qUHgAMkxLbq3aurlboJKY1Y6FM9alJOkLkCByTUHzZWhMtihkJhyltCdGDq7qn4fm+3VUAtnBCRhxL5SrBxopOIIJaEBSpXE0x1nkHri6t4Tqw47G84m/xZ8X1AGrk0JE5EX3p1FzgCsGgScwPnT6kzd40+PzufXiA14Yo94cxl3ac66O+9717z5EXnd+C794yxu2FQ0UGryptEv12JECVsPaDuMvwpvK+Y6RqyVNatmuzghsMyddKIwU/mpgY0Ujt8djMcnmbOTC7I9s6i0TNVq1+FKpKa3nXsrBe6xa05gsfpl1tj1GAvkedfUr+Vn2mxqpf/8/dGb3lHujJBhB4H3jchxjIDNw==;dNYhtQVKWSaAd5EvThlotQ=="
 ---
 

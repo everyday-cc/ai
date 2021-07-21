@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Roostify Named 2020 Google Cloud Technology Partner of the Year for AI and Machine Learning"
-excerpt: "Roostify, a premium home lending technology provider, is pleased to announce that it has been named recipient of the 2020 Google Cloud Technology Partner of the Year Award for AI and ML for its enhanced document intelligence"
-publishedDateTime: 2021-07-20T18:24:00Z
-originalUrl: "https://www.lelezard.com/en/news-19911572.html"
-webUrl: "https://www.lelezard.com/en/news-19911572.html"
+excerpt: "SAN FRANCISCO, July 20, 2021 /PRNewswire/ -- Roostify, a premium home lending technology provider, is pleased to announce that it has been named recipient of the 2020 Google Cloud Technology Partner of the Year Award for AI and ML for its enhanced document ..."
+publishedDateTime: 2021-07-20T18:20:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-19e86229b9b8a7afced2c2dd38ffd105"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-19e86229b9b8a7afced2c2dd38ffd105"
 type: article
-quality: 46
-heat: 46
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -36,6 +35,6 @@ related:
       domain: businesswire.com
     quality: 12
 
-secured: "aA50QHd5eBgsVXvepg7CIwLGovCtHouhpKAqsDLQC1Xh2tD6UVf7JE9F+jf1/PeL9BDf5Gt+rqe+UDwXHF/if9pGjDUojalJVankImrC9MF2ovG+fsufb/1Kjnw42yrobQcKFeLwLdD58M23utx8cHIr2WjSykPSzBiIew90KAdx+MsoSUYlMiM4Ra+lgYoAaJsEwXRmSysiWsSrbjePlR4puGL2Skr48kkdxVZGC13CXIw76VLNlR2DlMUVcIpUhrrskTN6jytgvHfoG4ouWcbwNn6J5uUyWC1Utv4kU0wd3HauU2GEMebLbKD8i5e3LTr1Mfue7ZT9W0Q/iE/nNr1PDZ5TRfj9WLYbKYdcxoQ=;UXslJEZTKTeR+ecn0IkWjg=="
+secured: "7bL38wbbCGSgb5rHi1pbMnbWWrm9zUnImSgDr88q1WTMhLDIBQ03kP5wI5+Ozv930WV20VUCBcGb6xTlOmQQWZ8+oya7c1jMoh6I/xUApxepHqa0IoHbITd2WBfivweP4XprI8gUwNhOIOX7UWWRLTSX1fQm1tnLNh3seMCdIg0GL87n7boR8twUNJRSCFWirOY5w2KcdNBk+zB/OpaBItbH94S93lfEd5TMqCTNS4d430YikLIY1Tb7csqiQDoM3b8Mep2u7G59hTDvyVLfn/WMh+qHZ6RFhyircYKpLoECy9GOxu9WUkS6enSlHhd5Bco0UarBVTkxTyKHpqBzEpLPYCxnmZxxEoH/UWew29E=;o749YeRgLHx5qnVhxWxRwg=="
 ---
 

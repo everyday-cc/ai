@@ -71,20 +71,6 @@ related:
         width: 4432
         height: 2955
         isCached: true
-  - title: "Your occasional storage digest with AWS HealthLake, Delphix, Infrascale, XenData and much more"
-    excerpt: "This week we have AWS doing a neat health sector vertical market data lake offering with partners, Delphix bragging about its growth and diversity hiring credentials, and Infrascale offering MSPs and VARs new backup appliances."
-    publishedDateTime: 2021-07-16T15:16:00Z
-    webUrl: "https://blocksandfiles.com/2021/07/16/your-occasional-storage-digest-with-aws-healthlake-delphix-infrascale-xendata-and-much-more/"
-    type: article
-    provider:
-      name: blocksandfiles
-      domain: blocksandfiles.com
-    quality: 27
-    images:
-      - url: "https://blocksandfiles.com/wp-content/uploads/2021/07/Warfield-Hansen-Gupta.jpg"
-        width: 950
-        height: 600
-        isCached: true
   - title: "AscellaHealth Announces Partnership with Banjo Health Inc., Improves Patient Care by Streamlining the Prior Authorization Process"
     excerpt: "AscellaHealth, a global specialty pharmacy and healthcare solutions company, today announces the signing of a multi-year partnership with Banjo Health, a market leader in artificial intelligence (AI)-powered Prior Authorization (PA) solutions,"
     publishedDateTime: 2021-07-20T14:07:00Z

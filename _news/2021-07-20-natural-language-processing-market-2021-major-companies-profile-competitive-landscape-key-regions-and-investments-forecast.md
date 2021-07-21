@@ -71,6 +71,48 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Facial Recognition Platform Market 2021 Major Players, Competitive Spectrum, Revenue Share and Sales Projections by 2026"
+    excerpt: "The research document entitled Global Facial Recognition Platform Market 2021 by Company, Regions, Type and Application, Forecast to 2026 released by MarketsandResearch.biz is an information-rich knowledge hub that assists organizations with understanding the noticeable patterns that are rising in the market."
+    publishedDateTime: 2021-07-21T03:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-platform-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2026-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Visual AI Analysis Market 2021 - 2026 Business Statistics of Report that Emphasizes the impact of COVID-19"
+    excerpt: "Global Visual AI Analysis Market 2021 by Company, Regions, Type and Application, Forecast to 2026 recently introduced by MarketsandResearch.biz offers a fundamental examination of the market covering the examination of subjective points that is prepared to display key market information of learning to the pursuers."
+    publishedDateTime: 2021-07-21T01:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-visual-ai-analysis-market-2021---2026-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI Medical Image Analysis Market 2021 Growth Statistics, New Opportunities, Competitive Outlook and COVID-19 Analysis 2026"
+    excerpt: "A new growth forecast report titled Global AI Medical Image Analysis Market 2021 by Company, Regions, Type and Application, Forecast to 2026 announced by MarketsandResearch.biz contains a full-scale analysis of the global market which highlights product specification and technological advancement impacting the global market growth."
+    publishedDateTime: 2021-07-21T01:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-medical-image-analysis-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2026-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Chips Market 2021 Report Presents Complete Summary, Marketplace Shares and Growth Opportunities by 2026"
     excerpt: "Global Artificial Intelligence Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz methodically compiles the principal components of the market study."
     publishedDateTime: 2021-07-19T21:28:00Z

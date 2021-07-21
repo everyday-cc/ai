@@ -33,6 +33,20 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "AI Marketing Market 2021 by Global Key Players, Types, Applications, Countries, Industry Size and Forecast to 2027"
+    excerpt: "A new informative report titled as “Global AI Marketing Market Report 2021 by Market Size, Forecast to 2027 (Based on 2020 COVID-19 Worldwide Spread)” provides estimations of the size of the global market and share and size of key regional markets during the historical period of 2015 to 2020."
+    publishedDateTime: 2021-07-19T19:48:00Z
+    webUrl: "https://manometcurrent.com/ai-marketing-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
+    images:
+      - url: "https://rustwire.com/wp-content/uploads/2021/07/MicrosoftTeams-image.jpg"
+        width: 626
+        height: 351
+        isCached: true
   - title: "Global Digital Pathology Market (2021 to 2026) - Integration of AI into Healthcare Presents Opportunities - ResearchAndMarkets.com"
     excerpt: "The “Digital Pathology Market - Global Outlook and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global digital pathology market by revenue is expected to grow at a CAGR of over 10% during the period 2020-2026."
     publishedDateTime: 2021-07-19T11:51:00Z

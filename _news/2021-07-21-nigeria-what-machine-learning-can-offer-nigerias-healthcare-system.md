@@ -40,6 +40,20 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "What machine learning can offer Nigeria's healthcare system"
+    excerpt: "Imagine it's 2030 - and a typical day in a Nigerian healthcare setting. In earlier decades, when a patient walked in, they could see piles of folders and a clutter of pens scattered all over the"
+    publishedDateTime: 2021-07-21T08:52:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/1/218156.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 56
+    images:
+      - url: "https://biz-file.com/c/2107/619898-625x325.jpg?2"
+        width: 625
+        height: 325
+        isCached: true
 
 secured: "eDySOoFjakG7mvfulFygTSV4qfjrbvusf6qdAjRbIZrSRQgYCCcWUW7P803/8oLxad3U3LMt3uGqr/qv5HL7RaBjE6gENr8iv9JjQwASfW4shMPTfwwDoyRUol1ImeMQqxG42EqEIIfZqtq9hHHZ5/xWwpbWLpGYEw2O39mPWB+bpGXNrVIrEqp47lye554J5SSW3IZKFEXPpGZ8qEN2xYX/eghIig0cMmX0dpFAdSCT9np9WiJTF8y8cHhFi93eU01/V+Vc2lfgG/F+rKxfFFKynrxyGRVl7G3jXV5tUgNhBiQDjmzG+KTeu3UUTRR3qTGzprGC12CEzkiBIFjrJcngLvRQjhRfMSwoykceD18=;NJIpgPsrREw1WCQXMhFm3g=="
 ---

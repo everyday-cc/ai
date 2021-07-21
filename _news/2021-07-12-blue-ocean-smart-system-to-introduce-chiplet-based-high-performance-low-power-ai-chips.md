@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Blue Ocean Smart System to Introduce Chiplet based, high-performance, low-power AI chips"
-excerpt: "Blue Ocean Smart System – the leading Chiplet based technology developer in the post-Moore's Law era for large-scale computing, energy efficient applications, today jointly launched as a founding member,"
-publishedDateTime: 2021-07-12T08:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-blue-ocean-smart-system-introduce-chiplet-based-high-/2021/07/12/9406356.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-blue-ocean-smart-system-introduce-chiplet-based-high-/2021/07/12/9406356.htm"
+excerpt: "Founded in 2019, Blue Ocean Smart System was established with a deeply experienced technical team in broad fields such as GPU, NPU, multimedia ... range of highly computational and energy-efficient AI training and inference applications with a flexible ..."
+publishedDateTime: 2021-07-12T09:34:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210712cn39857/blue-ocean-smart-system-to-introduce-chiplet-based-high-performance-low-power-ai-chips"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210712cn39857/blue-ocean-smart-system-to-introduce-chiplet-based-high-performance-low-power-ai-chips"
 type: article
-quality: 25
-heat: 25
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "DnEAtqWYzhhvs+9bsVpIpsrPUPJLooPZ5Zj7ew3VQ+4wBrGC5RO3N4OcVlGLgE3Uj1USPdrED/L6xBmY2OXzFeNKBsdP+UYTkKKUe6ZDPVzeGtPIiO/bqywd/jSR3T+jL0cltxEih4vAPiSP97MEInDDpmRahCcz84g75Bv8ti5UOhVw8uyMrbeuQJT8W+rv1hl9H0PbQFFrkJFr0AcmUwdvKEz/F3huWUsJGzDG1AKHfaKPZ4+mHNFsnRarF4bTl/sppQsEKlcfGh7UmEz80Vdc7HqaZkfC8nErHL+4CTfpSG/FMi/sjmpOt9tmfTXwfaKTF/TK9ehJfe6WSzScBM/P2an2vIEMJLFtjbRgFIA=;GZ8NuLZX96sSCDAxMMV9Fw=="
+secured: "JTDCpte+ciODu2LbLCVBOlwk7hBQwAAXlDefV9XjGEBK14i0Gp+chxhEb0BfgMXMGNDeuAyQkALDVTs8LWtylznb08k0dTZmoKAFNrwIj+lY7rIpWrMcH/qWV6lo6ndYSvQdL7/7z672HlO5QtnkXuEgHm/2V0nmpiD77b/HvMgevA7QAvtPaCXH+feCm6KbbJBUy5Pe2FPnU9xqeri7x3+jbJuHsZrvvd5JdvCB5kbdXmEX5/Eiq9RQFIGNpU3rQeMzWEDSo1fafaquDfXly9Vj/A0VbLTB45jbukd6ahTlrjaJsf5WbgFsRD3GZQm1iukvEjFjjWcVYWK8ZLHQOniWpYMvZlmETphDZzAhqBk=;6BcclXoK+y/TNDr2PojMiQ=="
 ---
 

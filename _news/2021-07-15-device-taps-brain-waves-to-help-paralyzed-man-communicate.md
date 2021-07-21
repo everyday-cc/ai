@@ -1,136 +1,28 @@
 ---
 category: news
 title: "Device taps brain waves to help paralyzed man communicate"
-excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a"
-publishedDateTime: 2021-07-14T23:13:00Z
-originalUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
-webUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1424"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424"
+excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
+publishedDateTime: 2021-07-14T21:21:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
+webUrl: "https://abcnews.go.com/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
 type: article
-quality: 89
-heat: 159
-published: true
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: ABCNews
+  domain: abcnews.go.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg"
-    width: 2500
-    height: 1669
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
-related:
-  - title: "Implant Directly Translates Paralyzed Man's Brain Signals Into Speech"
-    excerpt: "Researchers at UC San Francisco have successfully developed a \"speech neuroprosthesis\" that has enabled a man with severe paralysis to communicate in sentences, translating signals from his brain to the vocal tract directly into words that appear as text on a screen."
-    publishedDateTime: 2021-07-15T09:46:00Z
-    webUrl: "https://www.technologynetworks.com/tn/news/implant-directly-translates-paralyzed-mans-brain-signals-into-speech-350896"
-    ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/implant-directly-translates-paralyzed-mans-brain-signals-into-speech-350896"
-    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/implant-directly-translates-paralyzed-mans-brain-signals-into-speech-350896"
-    type: article
-    provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 74
-    images:
-      - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
-        width: 389
-        height: 389
-        isCached: true
-  - title: "Device Taps Brain Waves to Help Paralyzed Man Communicate"
-    excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
-    publishedDateTime: 2021-07-16T06:46:00Z
-    webUrl: "https://www.voanews.com/science-health/device-taps-brain-waves-help-paralyzed-man-communicate"
-    ampWebUrl: "https://www.voanews.com/science-health/device-taps-brain-waves-help-paralyzed-man-communicate?amp"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/science-health/device-taps-brain-waves-help-paralyzed-man-communicate?amp"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 59
-    images:
-      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/2019-04/DFEB91B9-448A-4649-93AC-48273EA68300.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Researchers Harness Brain Waves of Paralyzed Man to Communicate With Him"
-    excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a computer screen."
-    publishedDateTime: 2021-07-15T13:53:00Z
-    webUrl: "https://www.news18.com/news/buzz/researchers-harness-brain-waves-of-paralyzed-man-to-communicate-with-him-3967463.html"
-    ampWebUrl: "https://www.news18.com/amp/news/buzz/researchers-harness-brain-waves-of-paralyzed-man-to-communicate-with-him-3967463.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/researchers-harness-brain-waves-of-paralyzed-man-to-communicate-with-him-3967463.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 58
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/07/1626356316_untitled-design-8.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Paralyzed man’s brain waves turned into sentences on computer in medical first"
-    excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm – they imagine moving and those brain signals are ..."
-    publishedDateTime: 2021-07-15T13:11:00Z
-    webUrl: "https://www.theguardian.com/science/2021/jul/15/paralyzed-man-brain-waves-sentences-computer-research"
-    ampWebUrl: "https://amp.theguardian.com/science/2021/jul/15/paralyzed-man-brain-waves-sentences-computer-research"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2021/jul/15/paralyzed-man-brain-waves-sentences-computer-research"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/5867be7b160e7a86d2820bee7dabf00448056851/0_0_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4c467fe90e256a5c08619dcf2bc39e54"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Brain waves used to help paralyzed speak"
-    excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak – and turned what he intended to say into sentences"
-    publishedDateTime: 2021-07-15T04:00:00Z
-    webUrl: "https://www.journalgazette.net/news/health/20210715/brain-waves-used-to-help-paralyzed-speak"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 39
-    images:
-      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210715/ARTICLE/307159958/AR/0/AR-307159958.jpg"
-        width: 800
-        height: 536
-        isCached: true
-  - title: "A new AI-powered brain implant allowed a paralyzed man to speak again"
-    excerpt: "Doctors at UC San Francisco helped a paralyzed man 'speak' again, after giving him a brain implant connected to sophisticated natural language AI."
-    publishedDateTime: 2021-07-15T21:21:00Z
-    webUrl: "https://www.popsci.com/health/man-regains-speech-brain-implant-ai/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 39
-    images:
-      - url: "https://www.popsci.com/uploads/2021/07/15/4x3-UCSF_Neurosurgery_Chang_215.jpg"
-        width: 1708
-        height: 1281
-        isCached: true
-  - title: "Device taps brain waves to help paralyzed man communicate"
-    excerpt: "In a medical first, researchers have harnessed the brain waves of a paralyzed man unable to speak to help him communicate better."
-    publishedDateTime: 2021-07-17T21:08:00Z
-    webUrl: "https://www.newsobserver.com/news/article252790913.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/article252790913.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article252790913.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 39
-
-secured: "eAfgJ+8IEGyEiQW5AYSEsx/OCVoc9PSpfKjqfqPmxYxOHaTXUsfav1KAx9pG6eRzA9DW+jpi/FVXQElVzsDAPp1wg8HWDSGnzlOHWuTRdHBxauf68QwODQtA0V7a5E95Mu4fu3HvHAAhTZAHRA4YQLteLRWv7aF5Z2FExZUnC/d5F+wALgr1trrPG47f9QKBWle7j2dtZLNRKa0La16MEbThzs09ciBs16LD2M0XES2icwgjdzQh+qeQdmHwyfsno6hNb0+ZRigL1324Jt3v3ynuM66Mz3On8PM7OBV/SX2E30gBTO+KQkTT5arhtgJSyCebRzNRyni+GhZiSHqEuCTaT2VSkP8Brj0EXQl6rI/l6j2RjXcfdhb8H79WpYcN9ChDlghwZ6B2W2mO90wKmLNVf9Yl2wwJNcFgLl3SASHngRMYe+qO8WjhLaZ1EFXx9dAgBw5nR3lfQzk2NQfCUSvHgTPfcNyzzkg5zbFK98lwp9IH/JzFq5OWRIEq3HUmQGfhulMdV75OywqdfnDpuw==;MF6D5oCIga4Pwa46NT/74A=="
+secured: "Knoih6qz+In0J/ykOj18J31H18d4rYnQlexrIhq7O2kePmjswWgMVH/uf12nd+GX0Ipiq9H95TKSPcnJJNmH1jz1bVBG/fDFMQSCqgfLJTwr6lKMaPcEQUTOaRKYG/MEry/8d5AooIxAsovZPLwil0Ex6t+gsTBl5KFPcULTfTMijaFhpeQ0JjxvaGTR6xkYqgVje2yXf9BtT4Eli/VGOqsweKGD/ezpUaQ+o1wafU8IEFIUTtmUOMY3thzBB/INETbXvFxGrUUVXGB2f5AVTfkIUkdxcdOZFzFCjLmBWg13K2pFUpyqlKnPFzuKS6l+R3WNjMfYl4ICgnHW1M7TOag5xm2L9C2A76/iuyq42rY=;R0VqFBxbmXjUCQ1LL4PSpw=="
 ---
 
