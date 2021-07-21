@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Black teen misidentified by facial recognition sparks fears of machine-driven segregation"
-    excerpt: "Likes Werner Herzog films and Arsenal FC. A 14-year-old Black girl has become another victim of a facial recognition failure. Lamya Robinson was kicked out of a skating rink in Michigan after a ..."
-    publishedDateTime: 2021-07-16T13:40:00Z
-    webUrl: "https://thenextweb.com/news/facial-recognition-misidentifies-black-teen-kicked-out-skating-rink-segregation"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 60
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-4-2.jpg&signature=17e2e46f79128b69d97db4ae280a63a8"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "What are the dangers of facial recognition?"
     excerpt: "Robert Williams was wrongfully arrested after a facial recognition system failed to identify the correct culprit. Mr. Williams is seeking justice in a civil rights lawsuit."
     publishedDateTime: 2021-07-18T19:08:00Z

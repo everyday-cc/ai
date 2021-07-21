@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-a
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
 type: article
 quality: 76
-heat: 88
+heat: 90
 published: true
 
 provider:

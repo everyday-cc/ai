@@ -91,22 +91,6 @@ related:
         width: 1194
         height: 672
         isCached: true
-  - title: "AI narration of chef Anthony Bourdain's voice sparks row"
-    excerpt: "A new documentary about Anthony Bourdain has ignited a debate, after film-makers revealed they had used an AI simulation of the late chef's voice. Roadrunner: A Film About Anthony Bourdain was narrated using archive material supplemented by a synthetic voice reading short extracts of writing by Mr Bourdain,"
-    publishedDateTime: 2021-07-16T13:39:00Z
-    webUrl: "https://www.bbc.com/news/technology-57842514?via=indexdotco"
-    ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7458/production/_119448792_gettyimages-187622944.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Anthony Bourdain Documentary Used AI To Fake His Voice"
     excerpt: "A new documentary about late celebrity chef Anthony Bourdain utilized artificial intelligence to recreate his voice, spurring a debate about the ethics of this practice. In an interview with The New Yorker,"
     publishedDateTime: 2021-07-16T21:58:00Z
@@ -187,22 +171,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Anthony Bourdain Documentary Used AI to Recreate His Voice"
-    excerpt: "“I created an AI model of his voice,” Neville admitted ... “We can have a documentary-ethics panel about it later,” he quipped. +Social +Newsletter"
-    publishedDateTime: 2021-07-16T14:08:00Z
-    webUrl: "https://futurism.com/the-byte/anthony-bourdain-documentary-ai-voice"
-    ampWebUrl: "https://futurism.com/anthony-bourdain-documentary-ai-voice/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/anthony-bourdain-documentary-ai-voice/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2021/07/anthony-bourdain-documentary-ai-voice-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Anthony Bourdain Doc Under Fire for Using AI to Mimic the Late Chef’s Voice"
     excerpt: "Oscar-winning filmmaker Morgan Neville said Bourdain’s widow Ottavia consented to the deepfake’s use—a claim she disputed on Twitter."
     publishedDateTime: 2021-07-16T15:44:00Z
@@ -234,22 +202,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/sBji7Mo3IGuTwSqkljEU9i5CdqY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BDECJG47LT2QYTA45BURPDYEKU.jpg"
         width: 1200
         height: 856
-        isCached: true
-  - title: "'Roadrunner' director defends use of AI technology in Anthony Bourdain documentary"
-    excerpt: "\"We can have a documentary-ethics panel about it later.\" While the words in question were written by Bourdain, Neville revealed that an AI software model was used to record several lines for the ..."
-    publishedDateTime: 2021-07-16T13:24:00Z
-    webUrl: "https://abcnews.go.com/GMA/Culture/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary/story?id=78880656"
-    ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
-    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/roadrunner-director-defends-ai-technology-anthony-bourdain-documentary-78880656"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 53
-    images:
-      - url: "https://s.abcnews.com/images/GMA/morganneville-leshalles_1626436645036_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "'Roadrunner' director defends use of AI technology in Anthony Bourdain documentary"
     excerpt: "Morgan Neville came under scrutiny, despite having permission, for recreating Anthony Bourdain's voice using artifical intelligence in the film, \"Roadrunner.\""

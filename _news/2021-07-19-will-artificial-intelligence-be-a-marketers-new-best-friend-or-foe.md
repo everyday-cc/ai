@@ -41,20 +41,6 @@ related:
         width: 770
         height: 431
         isCached: true
-  - title: "AI Infrastructure Market worth $79.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"AI Infrastructure Market with COVID-19 Impact Analysis by Offering (Hardware, Software), Technology (Machine Learning, Deep Learning), Function"
-    publishedDateTime: 2021-07-16T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-infrastructure-market-worth-79-3-billion-by-2026---exclusive-report-by-marketsandmarkets/article_c48b2590-149f-5c3d-b4aa-c033131b7daf.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 26
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
-        width: 669
-        height: 229
-        isCached: true
 
 secured: "43J9Hx5bz6pdJzaiJ/4Ea+EAYoBfeV2CJQsUlTtY/QXkZJw6GuDsC0VHlisu7VHOap4DhPGrXirWposm5vzKkQ61YDtsTBQgG6lqpMEiCOD5Cg8VbRKUAiLvkMcDR/JeC2Ae9+JS1jit8FUBsv/PrDOY2YzMuDXUtzTe9xvYLs1SWD7U5MbM+dkbGlEBsS2QPXezPyr6T+DAB+gTPS2RdaJen4d6BTKWGThqi39ILW4pBdnK0x3b4kHmfJL5fv3phxaIRDIJYr+/aVdozw9OpVUzcgaSOfJwDyAtkUfNsnTYQibfNBGog8EKklNltXN8ogOrZiLikudFeH5JWUPQXj0tQJfFu5uCozVBrtSnSuozo5uZMT/x+jVuFuzFOP9HHm3nlPr02rIEvXJBBsSPh/dVP2ObfYF0CJwznMRWzqvqM8NOsvWxt1RAjqaqMlI162YUTi46UVXG9nxS6U0VEuMAd6y0givYGNa/zKxZlb02187urrfEoEymxR+zm92CNCs97cGPTWD9iWe7DUA/DQ==;vdX7kDCG92e7uOj+/wcVxQ=="
 ---

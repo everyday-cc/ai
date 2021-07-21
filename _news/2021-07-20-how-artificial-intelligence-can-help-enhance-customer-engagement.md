@@ -3,8 +3,8 @@ category: news
 title: "How Artificial Intelligence Can Help Enhance Customer Engagement"
 excerpt: "How Artificial Intelligence Can Help Enhance Customer Engagement  - When CRMs are combined with AI, businesses can improve their customer engagements by providing ease and convenience."
 publishedDateTime: 2021-07-20T05:43:00Z
-originalUrl: "https://www.cioreview.com/news/how-artificial-intelligence-can-help-enhance-customer-engagement--nid-34090-cid-244.html"
-webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-can-help-enhance-customer-engagement--nid-34090-cid-244.html"
+originalUrl: "https://www.cioreview.com/news/how-artificial-intelligence-can-help-enhance-customer-engagement---nid-34090-cid-244.html"
+webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-can-help-enhance-customer-engagement---nid-34090-cid-244.html"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 485
     isCached: true
 
-secured: "nXzohUGYqvM0LAfUEXd1+uO3n01eDYgNrvv4oDwETd5xHLWo7Lh/elisG158XZ9AjG7yjLEoJ+hpJ5Qe8HWOi6uM6qjXXxw2sN2o0DYFZdLDyaUnQx7+oY4IDKJ5tagnon7pS20DsyoPYBPlgSPaqU9ZeCuvHYMzU6tjCpx8+v51KAyezIzUVp1bQekRTgDoipnNUYSFTbQn/7JyFqVL/UY+iEQUaAdWCXgqAt3OvK9PPJvRTqoSCPvYEB2ic0J7D6Xj7Af60aX8ERarDlZepYDAMd1F13EqCQISjkusPrTWKTf7tSn72ixIWFVHx3aW0bbhN3LPxOzfeaubClTbogl0vrb4pYCnSwx0C04LO8GdTw2/0rWp8YUMavFL8/XDDyzrq5AdmV1P5HD7G7EdZclOLA0655aOqSMz8oN308RYdDWE14gX0vm18aaVr0gAKpqD+BzMblayVm+cS4MV1pnuvlpvryFJpcy2SBkUsSGgR5zVWOVGwD0dT9CX2CobQMyfKqhdpthkjx9YziW+VQ==;X3EUT2ih7ZcEpe8s/ihjYA=="
+secured: "MQfR3yP+nJmYMOqwbEDsNAP5ihn7Jjo0g4moln7LbTUEnzoiPC1n/d4TavnHGxaVfCWAaHY9rI7ds2w2QTObT45nM08kAu1WuxfrlGkVLvhF3Bm06+0RNKP3BswnOzyf8eGM9qLbAsFCB4Y9t0DxVlBjpe+g/32JmuEElYBJZlUL/AWe5hE97VhUGeiq2LgLmdZwZKkero8O5DJpjAZlPpb4lTBNXzA9bD/5fuDobQi++V/sC1M/YL5ZkkK3dfpR7ApCZaTx0b/tyAixJFLKrdvbP3aSrA7DB8+jyxTaJXp7lQ8zYJDREndPgeGZbIitx7u3hfIO1/r2uxzqBmtCzhL2K90NCptNYPO2hvrGvtg=;V83c1LzheH0yfmk+QDPq1g=="
 ---
 

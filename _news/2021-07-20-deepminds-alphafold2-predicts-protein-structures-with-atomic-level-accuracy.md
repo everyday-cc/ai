@@ -89,20 +89,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "AlphaFold 2 open up protein structure prediction software for all"
-    excerpt: "Source code for AlphaFold 2, an algorithm that predicts 3D protein structure with unprecedented accuracy, is now freely available."
-    publishedDateTime: 2021-07-16T14:26:00Z
-    webUrl: "https://frontlinegenomics.com/alphafold-2-protein-structure-prediction-software-for-all/"
-    type: article
-    provider:
-      name: Front Line Genomics
-      domain: frontlinegenomics.com
-    quality: 24
-    images:
-      - url: "https://frontlinegenomics.com/wp-content/uploads/2021/07/protein.png"
-        width: 1143
-        height: 946
-        isCached: true
 
 secured: "ZrXB59WfVpzON5exFOgLW5WdK/n6BFkqWNfqI5dUuw8cmDdFMhBjobkYB97N2U666HJBZup9+yNSV/RP+A3EpFUgGXG+z/HUw/zp6FwJIF2/1gUUnvyQ60CIO0zrNm2LQm4ggheATDFEyw+tyBkTCheEKLd3Y9mdbWNjAEN4aY/+PKAkLT8RYBg08o/B4SQueCtpGg3DDBmJh0vlUKNxEkfXamMaMw1ahy7/E4hPwUM2V5gvxgNOEE3UKUbB6ePLQfC+8zzrEDP5Po8NZ77OcY5zpJPAAiAudol6VifKvRPfNAEd337LCXSmt2ShdzgVDViO2p38zf83R9FxFrRUwp0nWB9dyq183hwHHFoKtS4Q1yvJ8/yRgO5QRzot7wmgmk+FgXOUqZsENo9PTZS9JGpynN1KoTIBWdrf0fc9eoG7IKzCs2FWt7onwd+mT89ISRXMBuVeOuI1RS/SS4gSS4fsdnFRDDhUuqc6bZYpybadTe0POWY7adir/zdYYaCalm6kySlOOQ5xzuGsRgXCaQ==;JseEFyTux+RqbjM326zIyw=="
 ---

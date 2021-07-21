@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/alphafold.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "AlphaFold 2 open up protein structure prediction software for all"
-    excerpt: "Source code for AlphaFold 2, an algorithm that predicts 3D protein structure with unprecedented accuracy, is now freely available."
-    publishedDateTime: 2021-07-16T14:26:00Z
-    webUrl: "https://frontlinegenomics.com/alphafold-2-protein-structure-prediction-software-for-all/"
-    type: article
-    provider:
-      name: Front Line Genomics
-      domain: frontlinegenomics.com
-    quality: 24
-    images:
-      - url: "https://frontlinegenomics.com/wp-content/uploads/2021/07/protein.png"
-        width: 1143
-        height: 946
         isCached: true
 
 secured: "HLtzfiGr9awKiNgilHgqB9rqvJaK+sFA1Qp4aQfy5M35Er0yPa4xhs4/mI8UJjrdvvHCdk2oavEDRD+Dp0blPlTW1D1mBb/tzcGDskH/sm7KcwBU2S8DZhHQIpWZF70h59TYi7eq4vriUNyi7Kg4DBwB2vgWIAaXC2XV9x5LEV5qMCf6HdmU0MBy04Ga76JHLtw5ph4F85xMkUn1n65VnBiuriWM4el39MVmHLoD+0hJA6koeGeANQwKj/oV02qYxsW4UEia9yWXNPBiJs53bxXJoga8pah42nAHYm5xozZq3+zWDeaTzGZqB4m4AhGgQiH9oDdL9gzR+HiL65C7aAEuVKZHMTT2rYuLgMRBU53GqD0QVYZjjTVrpI5Bya28Iwm9byvL/ldLQmMDCPgcCPiMc1aL4KIyUg22OjmCp8E3cjVnNcbctEjnxUUSS/h8Wp1AyRvplDYwQznLzgNRPVfWze30xe1GfjmK3slUzAN9t95t6h2DRTwjkv5/FilwpuFPD9eYhiC7eD/Q4xh3Yg==;Ukx8S4mVKIl5nqOnLeIbvw=="

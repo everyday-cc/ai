@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-ch
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "DeepRoute.ai deploys 20 self-driving cars in its robotaxi pilot program in Shenzhen"
+    excerpt: "The service in downtown Shenzhen will be free as of now and will cover 100 pick-up and drop-off points and 124 miles of public roads"
+    publishedDateTime: 2021-07-21T07:36:00Z
+    webUrl: "https://www.itp.net/emergent-tech/99083-deeprouteai-deploys-20-self-driving-cars-in-its-robotaxi-pilot-program-in-shenzhen"
+    ampWebUrl: "https://www.itp.net/emergent-tech/99083-deeprouteai-deploys-20-self-driving-cars-in-its-robotaxi-pilot-program-in-shenzhen?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/99083-deeprouteai-deploys-20-self-driving-cars-in-its-robotaxi-pilot-program-in-shenzhen?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 33
   - title: "DeepRoute.ai, Level 4 Self-Driving Technology Innovation Leader, Launches Its Robotaxi Pilot Program"
     excerpt: "To Provide Service in Downtown Shenzhen, Covering 124 Miles of Public Roads FREMONT, Calif., July 19, 2021 (GLOBE NEWSWIRE) -- DeepRoute.ai announced today its robotaxi program is now available to the public,"
     publishedDateTime: 2021-07-19T13:02:00Z

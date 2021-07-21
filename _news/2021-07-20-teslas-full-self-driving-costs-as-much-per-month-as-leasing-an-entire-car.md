@@ -447,6 +447,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Consumer Reports Has Serious Safety Concerns With Tesla’s Full Self-Driving Beta"
+    excerpt: "Consumer Reports has raised serious safety concerns about Tesla’s Full Self-Driving beta that is currently being tested by owners on public roads. For quite some time, Tesla has allowed select owners to install and test its advanced driver-assistance system and recently,"
+    publishedDateTime: 2021-07-21T07:49:00Z
+    webUrl: "https://www.carscoops.com/2021/07/consumer-reports-has-serious-safety-concerns-with-teslas-full-self-driving-beta/"
+    ampWebUrl: "https://www.carscoops.com/2021/07/consumer-reports-has-serious-safety-concerns-with-teslas-full-self-driving-beta/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/consumer-reports-has-serious-safety-concerns-with-teslas-full-self-driving-beta/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 34
 
 secured: "+I/VyLiVFMsNILFPLbqUUYXJwvqaeXiKWF3Stv7v56dUApp3+9lx6OmI2e7KDoZ/MoHgJHmUgUbOo00rhayc1FtWw1Vw9GQV3UuAASLJot5VLZmI4oXIBvRQBh2qhpm/B8MRSF2x8n5ZJ+2iYylUVxdOC/ncsogkl5vSNeQbMoJBEU5S0WAr1XBj+8cyyNYR+OfINKMw4LdD1fvlma3qJSfuksCdJhEA0+kBXf/7HnDjsGVf27S25iaJLdHKifLPst03MUv7BclWGMPa7dosCryBOkEymJEdQ+Mdxa3lB7+OW12Q+OiVPiOSDOEr5jv7SjrAADv4L7b37VKRl4Eb0sER71IFPK11s2LMhEDpIYha8QeInPfEGQ5U6I45PpjYhGPp6PINMIt2WzzSq5DJe1gbwjHbVzqbuKdcmdRyqUdPD+zORAmVLJGAB6BH/Nou4jvEuxBoz50iL7IPOGKqA621WRio6qg30lCgbZB2kCVp17v85sDzFtJ2Wm/LCShn+7gZkKXdD58Q+poUqSDdLw==;OpVgtO/g8on9Vs3NXfaT/A=="
 ---

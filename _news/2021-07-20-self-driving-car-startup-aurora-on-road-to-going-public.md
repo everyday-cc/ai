@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Intelligent sensing technologies enable 360 vision in self-driving platform"
+    excerpt: "ON Semiconductor has revealed that its image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform. Announced at the World Artificial Intelligence Conference, the new Gen5 autonomous vehicle technology facilitates the first fully driverless RoboTaxi,"
+    publishedDateTime: 2021-07-20T10:09:00Z
+    webUrl: "https://www.electropages.com/2021/07/intelligent-sensing-technologies-enable-360-vision-self-driving-platform"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 22
+    images:
+      - url: "https://www.electropages.com/storage/app/media//2021/July/rohm_DCDC-for-industrial_EN_1.jpg"
+        width: 300
+        height: 275
+        isCached: true
 
 secured: "dZut5e9hMCPClEfueHeGHrs2fKShIgqfy8ojZ+6/+p/kuNJq2mIz71qA276TzgkyOtQywzjf89Ziljp9zJtrVbxlBZ1a5vwZNMMQzsMROSB0PNgXeJTPelTbRCP5KyHcAEJNpu7JQ/TXbCAKnwsjsbHDJvs/mdqNqhZwEaBVys0KLIni253KRXadB2RwpJuKN3oZdGIhlY+vcWvA/5ffq78uSLS+zhpVCzrmgSCwDqpgDj84fQusLmg/40uEbfAPi5k4F0eGdpo/ve+FgMvRCkvBN2hJyHyT842Zd4pnjmwJpJ5pHZshD+C4cSkYTMXuiG69x14Gj+dnTzSKCNo6s04qpPwoQMBQY7Ep/vFZkqY9VSVS8OHSMgzmnxYh1zNN6FfwIVJ28F53KHG8YrYNZb0oJR0rlZHbajH5u82/O1jEBI2Fz1dXJPTsW0VlkS3Uz2zxzbiZybRJbtYB13puTnz8Aut0fO6UW6Fr7D/r8Twbj73NcsWfyR3LDu8iBnvGekx9DJXn+HLbW2uPoEM97Q==;opXi9KaLLLjbw0VTm+rzOw=="
 ---

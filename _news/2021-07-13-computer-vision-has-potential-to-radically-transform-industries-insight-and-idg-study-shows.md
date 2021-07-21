@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Computer Vision Has Potential to Radically Transform Industries, Insight and IDG Study Shows"
-excerpt: "Insight commissioned IDG to conduct a survey of 200 business and IT leaders to better understand the awareness, adoption and perceptions of computer"
-publishedDateTime: 2021-07-13T13:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows-2021-07-13-9159038"
-webUrl: "https://www.marketwatch.com/press-release/computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows-2021-07-13-9159038"
+excerpt: "Computer vision still in awareness phase but adoption expected to grow significantly in near futureOverwhelming majority of respondents agree that computer vision has incredible potential to transform"
+publishedDateTime: 2021-07-13T06:00:00Z
+originalUrl: "https://tucson.com/business/computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows/article_1588e632-abf0-53bd-8aa3-94d60dde80c4.html"
+webUrl: "https://tucson.com/business/computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows/article_1588e632-abf0-53bd-8aa3-94d60dde80c4.html"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
+    width: 620
+    height: 290
     isCached: true
 
-secured: "YJDCWpkmFyiQbtSTzChmcDn+5K75KRWa89aTqLsFWpAaF/G3VYTcYgxIJukztTtmCUHx98RZjanNgSuslrJQ0frsKrgkcQVtg13gq+qswGrutcziT+b6ZplJcFTzVp8iOKFT1ju/Shb9qnZJBWHRN1jEe+zOGDm9PbwiKJB7jxn1w/5Lc0I6ofrK40ROhOlTco0d2hZPDVzDnnR4FsuZoLaaLISVjqyzOuVqL0gMRkMk43SOvj2v+ECUu8jaq4uRSclOSwDKzxdMxz+Ods29IThsdXeUYo4xbPrCcRALyLb2GGbkEG+NNrw3pDvyQV9yeM1sZVyYduZ+Q8Tqb768CRujLNEJnxDiaiuvyg5tfzU=;uTHMxP3nuxcexQVU5a6NPQ=="
+secured: "VvoSWcBWzAlpgP3J5GlVrQSC8rSWyk4Z6podD/ct9m9XkhTTO9U2LF+S3HaXtbLSWh08MvT5/Qnh5Mi1hApW38Rwicz93qlm1P9Q6yJN/5r69FT3JOYsObQSp9spN6VruEtMswUiOLA1dZ1e1YwfDBnDVu69YVQhC1gxuM0jY31tlST3YcCnFbg45RL4EFNmUjhWjuJOmqT+87putMD07dwGItWoHBpkTNQPuruzNngXH92Zg7CL+SZ95Rw59pCwmGlmusCB/LkMeIGETGCXga4RiF98YBiubtiFHpcL5wTI1o/RwUs10due9f3f1+gSzQgW65BRXWKtApptE1TfWBUSDXxMKlaRPb1x6h4apO4=;mro7sfNjdLFeesnF8Mellw=="
 ---
 

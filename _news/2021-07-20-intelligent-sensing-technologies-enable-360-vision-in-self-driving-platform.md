@@ -25,51 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Sense Photonics Sees Flash LiDAR As Best Path To Full Self-Driving Tech"
-    excerpt: "Sense Photonics is on a mission to make LiDAR, the core of self-driving technology, more affordable and less obtrusive. And it is leveraging two elements of the iPhone 12 to get there. Today, most autonomous vehicles in test fleets have a cumbersome ..."
-    publishedDateTime: 2021-07-16T14:34:00Z
-    webUrl: "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/"
-    ampWebUrl: "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/amp/"
+  - title: "Toyota’s Woven Planet acquires Lyft’s Level 5 self-driving division"
+    excerpt: "Toyota subsidiary Woven Planet, has announced the completed acquisition of Level 5, the self-driving division of rideshare veterans Lyft Inc."
+    publishedDateTime: 2021-07-20T17:31:00Z
+    webUrl: "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/"
+    ampWebUrl: "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Electrek
+      domain: electrek.co
     quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f196f7d4f6705300ca741c%2F0x0.jpg"
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Lyft-Level-5-Demo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
         isCached: true
-  - title: "Cutting-edge lidar technology promises self-driving cars possibly as soon as 2022"
-    excerpt: "It's equipped with an advanced lidar system. You may have heard the term before, but what exactly is lidar? \"What it does is send out laser pulses into the environment, bounces off an object, and comes back."
-    publishedDateTime: 2021-07-19T19:50:00Z
-    webUrl: "https://abc7.com/self-driving-car-2020-lidar-technology-light-detection-and-ranging/10892686/"
-    ampWebUrl: "https://abc7.com/amp/self-driving-car-2020-lidar-technology-light-detection-and-ranging/10892686/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/self-driving-car-2020-lidar-technology-light-detection-and-ranging/10892686/"
+  - title: "Self-driving car startup Aurora on road to going public"
+    excerpt: "Self-driving car startup Aurora on Thursday announced it is taking a side road to going public in a transaction valuing it at $13 billion. Silicon"
+    publishedDateTime: 2021-07-20T12:04:00Z
+    webUrl: "https://techhq.com/2021/07/self-driving-car-startup-aurora-on-road-to-going-public/"
     type: article
     provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 39
+      name: TechHQ
+      domain: techhq.com
+    quality: 24
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/10892811_071921-lidar.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Intel's Autonomous Driving Arm Mobileye is Testing its Self-driving Technology in New York City"
-    excerpt: "Intel Corp’s autonomous driving division Mobileye is testing its self-driving technology in New York City, one of the most challenging environments for self-driving vehicles to operate in, the company announced on Monday."
-    publishedDateTime: 2021-07-20T23:00:00Z
-    webUrl: "https://www.futurecar.com/4753/Intel’s-Autonomous-Driving-Arm-Mobileye-is-Testing-its-Self-driving-Technology-in-New-York-City"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 12
-    images:
-      - url: "https://img.futurecar.com/202107/20/l_60f758e7723c3.jpeg"
-        width: 800
-        height: 376
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/07/1400x-1.jpg"
+        width: 1400
+        height: 925
         isCached: true
 
 secured: "Ut48YdPqP4ZeUHgWb+Sx510fRuMHi0fCbZdajj0IfBvuRYo9FVTDABOgbSPvxe/SmTiDXlDbY9vU7HYcqPce9xh5e0I89ED8CcFwYyWdGUgYmCBxXUpQ65seZoxeXX8+vVMI1eEiZ1WtubBVpOXIEV/R7pJmUV327oUWjgOjVkGZFvEvnqOxnWi3R9dA13sclMqw2vYvN+xJAwBfMKyoKxWT/CGL0Xnt13OWrC1cGVIpoVkQsICKeGjCW3diUWuy5ISecqEUL1IOM6MqPaiyHvEnFDCHt1Xrh7Yr5BpZJDwg0HppGlZkyopZ02X5CvOa16SfrHjZYBEhNiv3BAjJSTlryoRRg3c7rW90ccTuumvddhfVRoNfrwqLvWdXyOszWaM7FE5yD64Iu3fh3YySeKqE6/mdBdR1PLP4bgN0mUoJuU3nfAe0digD6peBf0YtJAenIwvW/cO5dNEF7SXfLxzeGdV4GdcUFkLorTzFCWedz/BvJESyLV8Y5VkmO4KbDXvGpw+nZE4nIJ0Sy8lgMA==;H4SPS8DNzv2rOzoYJ3bclA=="

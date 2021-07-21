@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-07-20/intel-s-mobiley
 webUrl: "https://www.bloomberg.com/news/articles/2021-07-20/intel-s-mobileye-runs-self-driving-test-cars-in-new-york-city"
 type: article
 quality: 54
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       - url: "https://ktvz.b-cdn.net/2021/07/hypatia-h_50890608d8a02c9b670727c4a3874b92-h_c6bb4768c4778c7186fa88339b1b09d1-300.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Intel's Autonomous Driving Arm Mobileye is Testing its Self-driving Technology in New York City"
+    excerpt: "Intel Corp’s autonomous driving division Mobileye is testing its self-driving technology in New York City, one of the most challenging environments for self-driving vehicles to operate in, the company announced on Monday."
+    publishedDateTime: 2021-07-20T23:00:00Z
+    webUrl: "https://www.futurecar.com/4753/Intel’s-Autonomous-Driving-Arm-Mobileye-is-Testing-its-Self-driving-Technology-in-New-York-City"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 12
+    images:
+      - url: "https://img.futurecar.com/202107/20/l_60f758e7723c3.jpeg"
+        width: 800
+        height: 376
         isCached: true
   - title: "Intel's Mobileye testing self-driving cars on New York City streets"
     excerpt: "Intel is testing the theory that if you can make it in New York you can make it anywhere. It's self-driving car technology business Mobileye has had AVs on NYC streets for 6 weeks."

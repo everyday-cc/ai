@@ -58,15 +58,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Amazon (AMZN) HealthLake Boosts AWS for Health Offerings"
-    excerpt: "Amazon’s AMZN cloud computing platform, Amazon Web Services (AWS) recently made Amazon HealthLake — a service eligible under the Health Insurance Portability and Accountability Act of 1996 — generally available for healthcare and life sciences organizations."
-    publishedDateTime: 2021-07-16T14:58:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-healthlake-boosts-aws-for-health-offerings-2021-07-16"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Your occasional storage digest with AWS HealthLake, Delphix, Infrascale, XenData and much more"
     excerpt: "This week we have AWS doing a neat health sector vertical market data lake offering with partners, Delphix bragging about its growth and diversity hiring credentials, and Infrascale offering MSPs and VARs new backup appliances."
     publishedDateTime: 2021-07-16T15:16:00Z

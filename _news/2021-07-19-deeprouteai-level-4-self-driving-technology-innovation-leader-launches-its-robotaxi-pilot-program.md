@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "DeepRoute.ai deploys 20 self-driving cars in its robotaxi pilot program in Shenzhen"
+    excerpt: "The service in downtown Shenzhen will be free as of now and will cover 100 pick-up and drop-off points and 124 miles of public roads"
+    publishedDateTime: 2021-07-21T07:36:00Z
+    webUrl: "https://www.itp.net/emergent-tech/99083-deeprouteai-deploys-20-self-driving-cars-in-its-robotaxi-pilot-program-in-shenzhen"
+    ampWebUrl: "https://www.itp.net/emergent-tech/99083-deeprouteai-deploys-20-self-driving-cars-in-its-robotaxi-pilot-program-in-shenzhen?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/99083-deeprouteai-deploys-20-self-driving-cars-in-its-robotaxi-pilot-program-in-shenzhen?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 33
 
 secured: "9GF5oe7yAZO/WTx8LLuPH01NxztDCkPqyC7D6LLN4WdmuEcAcVVctabVD7JE5+4nbfbBewCyk/YBKdkK5zXCrLWiW0XpNsTaxmNa1bDO7hZEKJ0QmBPoq/Jiz5z4TZquO8UV+JwGjfuqg+EgbrX6I0fWL4sjoMJykzlLJlI4otoXXOUeqjlsElZK9o3qTpbvxFAi0IJclgVZJO9GKjL/JU9MBs6kDBdNQnfwCtIBWRIsC4XxCYT1fzMabgEaCS58xDjm/nYAnljrEzUT9fordgE5QJ6WQ7lLIbPECn7r1fJkafLihKOihvO7royJmS3eA7sE/tBGbcBuCV/T8BXRpxLRN9hYzOsdv4s2fcaCJ/8=;ZRihfJXqNFhdYiDX7GrM3Q=="
 ---

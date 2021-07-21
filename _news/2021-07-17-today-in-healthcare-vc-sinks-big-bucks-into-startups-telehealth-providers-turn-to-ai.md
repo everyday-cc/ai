@@ -43,15 +43,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Amazon (AMZN) HealthLake Boosts AWS for Health Offerings"
-    excerpt: "Amazon’s AMZN cloud computing platform, Amazon Web Services (AWS) recently made Amazon HealthLake — a service eligible under the Health Insurance Portability and Accountability Act of 1996 — generally available for healthcare and life sciences organizations."
-    publishedDateTime: 2021-07-16T14:58:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-healthlake-boosts-aws-for-health-offerings-2021-07-16"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Amazon rolls out AWS For Health cloud services for healthcare, genomics and biopharma"
     excerpt: "Amazon's cloud division has rolled out AWS for Health, a set of services and partner solutions for healthcare, genomics and biopharma. Amazon says the portfolio of solutions will help to accelerate innovation from \"benchtop to bedside\" as the tech giant pushes further into the healthcare and life sciences markets."
     publishedDateTime: 2021-07-19T19:13:00Z

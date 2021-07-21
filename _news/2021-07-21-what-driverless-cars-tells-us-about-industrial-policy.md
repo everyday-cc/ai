@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "UPDATE 1-Toyota buys U.S. mapping, road data firm to bulk up driverless tech"
-    excerpt: "Woven Planet was established in January to invest in and develop mobility with artificial intelligence. It is building a prototype ... Moving into new and non-traditional car making such as driverless and electric technology, Toyota has increasingly ..."
-    publishedDateTime: 2021-07-16T14:11:00Z
-    webUrl: "https://cn.reuters.com/article/toyota-autonomous-acquisition-idCNL1N2OQ31A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2OQ31A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2OQ31A"
+  - title: "Robot ‘training’ on famous Highland estate will make driverless vehicles more reliable"
+    excerpt: "The project will help make driverless vehicles of the future more reliable ... engineers and students dedicated to researching robotics, artificial intelligence, systems engineering, and other related fields. A crash scene for the new James Bond movie ..."
+    publishedDateTime: 2021-07-17T05:07:00Z
+    webUrl: "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/"
+    ampWebUrl: "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/"
+    cdnAmpWebUrl: "https://www-pressandjournal-co-uk.cdn.ampproject.org/c/s/www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
+      name: The Press and Journal
+      domain: pressandjournal.co.uk
+    quality: 83
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210714&t=2&i=1568899541&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6D1AY"
-        width: 800
-        height: 545
+      - url: "https://www.pressandjournal.co.uk/wp-content/uploads/sites/2/2021/07/ORI_Scotland-3.jpg_39621277-scaled-e1625854534304.jpg"
+        width: 2457
+        height: 1472
         isCached: true
   - title: "Understanding attitudes to driverless cars"
     excerpt: "A team at Cardiff University are using a state-of-the-art driving simulator to observe and measure how humans interact with autonomous vehicles."

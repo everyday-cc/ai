@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
 type: article
 quality: 89
-heat: 379
+heat: 389
 published: true
 
 provider:
@@ -452,6 +452,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Consumer Reports Has Serious Safety Concerns With Tesla’s Full Self-Driving Beta"
+    excerpt: "Consumer Reports has raised serious safety concerns about Tesla’s Full Self-Driving beta that is currently being tested by owners on public roads. For quite some time, Tesla has allowed select owners to install and test its advanced driver-assistance system and recently,"
+    publishedDateTime: 2021-07-21T07:49:00Z
+    webUrl: "https://www.carscoops.com/2021/07/consumer-reports-has-serious-safety-concerns-with-teslas-full-self-driving-beta/"
+    ampWebUrl: "https://www.carscoops.com/2021/07/consumer-reports-has-serious-safety-concerns-with-teslas-full-self-driving-beta/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/consumer-reports-has-serious-safety-concerns-with-teslas-full-self-driving-beta/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 34
 
 secured: "43zyg/nTtWSYAucbv1oRB9F3hyTsjEiJSK1oNVSOI5rBy3U1mJ442Z+bFRSxAq3ovw7gn0cY0UsylZ8zFLu8i7u96drlWEAFnDu1Z4YLcShVWznzKuYdClhhpvUxwAjrLYK/gbbvshyyKYKi5ij+a1Kpg2chkf5a5qD9q74Bi3/w9wWLhocxanlLGauPHEkDHxD0PdPW5SCfXgoSBNnRBhYaeL52VgLRBpCFrM0nNRvoM5PAVTRkAqWAEpK89wTOBctPelQUtCBTxbOl8x6tQTY93+xdrxoEMklLtIPhYJ8fKXu0eshzHN8oXG+1XHxgEkAcDCj8kJ26wohDkACgzcA96FpPW2xhaS3l9Hmk0wA49fXRr/Q0QJJa7DVgDyVBYYpFJPh1ICPdFQoMX/IbNHNRzHIIE2bfXCLTLoHTo2+3Da+aH6RoYhJByOKdzlWML0eeYRx2yQUR03dju9XecnKeDab8Bu7fup1jRYAICCoHMSVWAfnq9TrcsoVtKZAJ4se26l7vK+C2l5n5ynXFjg==;6eZVkcq++bTx13NyQx2M0Q=="
 ---

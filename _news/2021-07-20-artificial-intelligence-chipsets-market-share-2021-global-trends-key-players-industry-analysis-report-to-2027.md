@@ -186,6 +186,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 19
+  - title: "Global Face Recognition Ststems Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Face Recognition Ststems Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Ststems Market"
+    publishedDateTime: 2021-07-21T06:38:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4680828-global-face-recognition-ststems-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 17
   - title: "Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence for Video"
     publishedDateTime: 2021-07-17T07:39:00Z
