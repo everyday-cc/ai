@@ -68,20 +68,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Importance of AI in Remote Learning"
-    excerpt: "Educators are using AI-enabled Learning Management System to track their student's progress (LMS). The primary purpose for creating LMS was to improve the learning experience with Artificial Intelligence (AI) support."
-    publishedDateTime: 2021-07-16T21:09:00Z
-    webUrl: "https://www.cioapplications.com/news/importance-of-ai-in-remote-learning-nid-8110.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/l2wfimg---6.gif"
-        width: 450
-        height: 308
-        isCached: true
   - title: "The startup harnessing AI to make your bus arrive on time"
     excerpt: "A complaint about the inefficiency of manmade decision-making leads to Optibus, a company ensuring smoother travel in 500 cities worldwide."
     publishedDateTime: 2021-07-20T06:07:00Z

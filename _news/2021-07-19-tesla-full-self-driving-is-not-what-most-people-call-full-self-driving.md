@@ -167,6 +167,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla lowers the price of its 'Full Self-Driving' computer upgrade"
+    excerpt: "After criticism from owners, Tesla has reduced the price of a computer update required for its new \"Full Self-Driving\" (FSD) feature.."
+    publishedDateTime: 2021-07-21T09:44:00Z
+    webUrl: "https://www.engadget.com/tesla-reduces-the-price-of-its-full-self-driving-computer-upgrade-by-500-091157676.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-07/4f3f33d0-e9fa-11eb-bff7-1a51b889584d"
+        width: 1400
+        height: 800
+        isCached: true
   - title: "Consumer Reports says Tesla's 'Full Self-Driving' software lacks safeguards"
     excerpt: "Consumer Reports said Tuesday that Tesla Inc's (TSLA.O) \"Full Self-Driving\" software lacks safeguards and raised concerns the system's use on public roads puts the public at risk citing reports from drivers."
     publishedDateTime: 2021-07-20T14:43:00Z

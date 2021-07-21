@@ -2,6 +2,255 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-19-openai-codex-shows-the-limits-of-large-language-models.md",
+      "title": "OpenAI Codex shows the limits of large language models",
+      "excerpt": "A new paper reveals significant issues with OpenAI Codex and its handling of large language models, particularly in deep learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/",
+      "originalUrl": "https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/software-engineer.computer-code.GettyImages-1000820778.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/amp/",
+      "publishedDateTime": "2021-07-18T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-mimecasts-new-ai-tools-protect-against-the-sneakiest-phishing-attacks.md",
+      "title": "Mimecast’s new AI tools protect against the sneakiest phishing attacks",
+      "excerpt": "Mimecast launched Mimecast CyberGraph this week, which uses machine learning to detect and prevent cyber attacks over email.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/18/mimecasts-new-ai-tools-protect-against-the-sneakiest-phishing-attacks/",
+      "originalUrl": "https://venturebeat.com/2021/07/18/mimecasts-new-ai-tools-protect-against-the-sneakiest-phishing-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1164097820-e1626476204378.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/18/mimecasts-new-ai-tools-protect-against-the-sneakiest-phishing-attacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/mimecasts-new-ai-tools-protect-against-the-sneakiest-phishing-attacks/amp/",
+      "publishedDateTime": "2021-07-18T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-18-tesla-offers-full-self-driving-capability-as-a-subscription.md",
+      "title": "Tesla offers Full Self-Driving Capability as a subscription",
+      "excerpt": "It’s looking more and more like the future of buying an automobile will include features that you have to pay for each month. We have seen several automakers offer subscriptions to services",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/",
+      "originalUrl": "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 399,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/tesla-fsd.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/",
+      "publishedDateTime": "2021-07-18T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-18-why-machine-programming-should-be-the-next-technology-you-invest-in.md",
+      "title": "Why machine programming should be the next technology you invest in",
+      "excerpt": "Watch now. An emerging breed of tools are using machine learning and other methods to automate parts of the software development process. GitHub, for example, launched such a tool last month that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/18/why-machine-programming-should-be-the-next-technology-you-invest-in/",
+      "originalUrl": "https://venturebeat.com/2021/07/18/why-machine-programming-should-be-the-next-technology-you-invest-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-505117919.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/18/why-machine-programming-should-be-the-next-technology-you-invest-in/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/why-machine-programming-should-be-the-next-technology-you-invest-in/amp/",
+      "publishedDateTime": "2021-07-18T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-18-spiking-neuron-for-speedy-accurate-ai.md",
+      "title": "Spiking neuron for speedy, accurate AI",
+      "excerpt": "The human brain is one of the most powerful and intelligent natural computers known to humankind. Neuromorphic computing refers to the field of technology where engineers try to build intelligent mach",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/business-tech/spiking-neuron-for-speedy-accurate-ai/article35392642.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/business-tech/spiking-neuron-for-speedy-accurate-ai/article35392642.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/business-tech/a6d9to/article35392641.ece/ALTERNATES/LANDSCAPE_615/BL19QUANTUMLAB2",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/business-tech/spiking-neuron-for-speedy-accurate-ai/article35392642.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/business-tech/spiking-neuron-for-speedy-accurate-ai/article35392642.ece/amp/",
+      "publishedDateTime": "2021-07-18T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-18-natural-language-understanding-tough-for-neural-networks.md",
       "title": "Natural language understanding tough for neural networks",
       "excerpt": "The shortcomings of natural language understanding can make or break your AI and neural machine learning strategy. Here's how to deal.",
@@ -834,6 +1083,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-17-today-in-healthcare-vc-sinks-big-bucks-into-startups-telehealth-providers-turn-to-ai.md",
+      "title": "Today In Healthcare: VC Sinks Big Bucks Into Startups; Telehealth Providers Turn To AI",
+      "excerpt": "Today in healthcare, HC startups have raised almost $15 billion in VC, and telemedicine is turning to AI to solve its privacy problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/",
+      "originalUrl": "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/telemedicine-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/",
+      "publishedDateTime": "2021-07-16T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-tips-for-building-a-successful-startup.md",
       "title": "Tips For Building A Successful Startup",
       "excerpt": "Starting a new business is exciting, but it can be fraught with difficulties if you don’t know what you are doing. Here are some tips to help",
@@ -893,7 +1185,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -935,309 +1227,6 @@
         "AI",
         "Natural Language Processing",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-openai-disbands-its-robotics-research-team.md",
-      "title": "OpenAI disbands its robotics research team",
-      "excerpt": "OpenAI has disbanded its robotics team after years of research ... “But from perspective of what we want to achieve — [artificial general intelligence] — there was some component missing.”",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/",
-      "originalUrl": "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/openai-robotics-finger-velcro-e1570816045621.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/amp/",
-      "publishedDateTime": "2021-07-16T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-aws-launches-healthlake-to-help-health-care-organizations-query-medical-data.md",
-      "title": "AWS launches HealthLake to help health care organizations query medical data",
-      "excerpt": "AWS has made its cloud -based health care data lake solution, Amazon HealthLake, generally available to customers. With this solution, health care organizations can pull medical information from different sources into a single environment and use it to improve patient care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query",
-      "originalUrl": "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1578930668/itpro/2020/01/Doctor_using_AI_to_support_diagnosis.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp",
-      "publishedDateTime": "2021-07-16T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey.md",
-      "title": "A quarter of Taiwanese companies are well into their AI journey",
-      "excerpt": "At least a quarter of Taiwanese companies have begun AI deployments, according to the latest State of Taiwan Enterprise AI report.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/16/a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey/",
-      "originalUrl": "https://venturebeat.com/2021/07/16/a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter-e1591205079457.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/16/a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey/amp/",
-      "publishedDateTime": "2021-07-16T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-how-medhost-is-migrating-electronic-health-record-data-to-aws-for-compliance-and-gaining-valuable-insights.md",
-      "title": "How MEDHOST is migrating electronic health record data to AWS for compliance and gaining valuable insights",
-      "excerpt": "Healthcare technology companies often turn to AWS to help them accelerate their clinical and business objectives. MEDHOST has provided enterprise information technology and electronic health record (EHR) solutions to full-service community hospitals for more than 35 years. Today, more than 1,000 healthcare",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-medhost-is-migrating-electronic-health-record-data-to-aws-for-compliance-and-gaining-valuable-insights/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-medhost-is-migrating-electronic-health-record-data-to-aws-for-compliance-and-gaining-valuable-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-16T09:53:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-carnegie-melon-professor-develops-real-time-learning-four-legged-robot.md",
-      "title": "Carnegie Melon professor develops real-time learning four-legged robot",
-      "excerpt": "The artificial intelligence robot developed by Carnegie Melon University Professor Deepak Pathak can adapt in real-time and teach itself how to maneuver through rocks, sand, grass and oil-covered surfaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
-      "originalUrl": "https://www.upi.com/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/ph/st/th/7871626448726/2021/i/16264493693954/v1.5/Carnegie-Melon-professor-develops-real-time-learning-four-legged-robot.jpg?lg=2",
-          "width": 637,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
-      "publishedDateTime": "2021-07-16T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate.md",
-      "title": "Anthony Bourdain Documentary ‘Roadrunner’ Sparks A Strange Ethics Debate",
-      "excerpt": "Neville stated: “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know. We can have a documentary-ethics panel about it later.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/",
-      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 303,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f1a2151251a7c507b4358e%2F0x0.jpg",
-          "width": 1200,
-          "height": 824,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/",
-      "publishedDateTime": "2021-07-16T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

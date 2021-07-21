@@ -1,40 +1,41 @@
 ---
 category: news
 title: "Roostify Named 2020 Google Cloud Technology Partner of the Year for AI and Machine Learning"
-excerpt: "SAN FRANCISCO, July 20, 2021 /PRNewswire/ -- Roostify, a premium home lending technology provider, is pleased to announce that it has been named recipient of the 2020 Google Cloud Technology Partner of the Year Award for AI and ML for its enhanced document ..."
-publishedDateTime: 2021-07-20T18:20:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-19e86229b9b8a7afced2c2dd38ffd105"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-19e86229b9b8a7afced2c2dd38ffd105"
+excerpt: "Roostify, a premium home lending technology provider, is pleased to announce that it has been named recipient of the 2020 Google Cloud Technology Partner of the Year Award for AI and ML for its enhanced document intelligence"
+publishedDateTime: 2021-07-20T18:24:00Z
+originalUrl: "https://www.lelezard.com/en/news-19911572.html"
+webUrl: "https://www.lelezard.com/en/news-19911572.html"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
   - title: "SoftServe Wins Google Cloud Specialization Partner of the Year Award for Machine Learning"
-    excerpt: "SoftServe, a leading digital authority and consulting company and Google Cloud Premier Partner has won the 2020 Google Cloud Global Specialization Partner of the Year – Machine Learning award. “It’s an honor to receive this award from Google Cloud recognizing our machine learning innovation and experience helping businesses to understand and fully leverage the benefits of Google Cloud,"
+    excerpt: "SoftServe, a leading digital authority and consulting company and Google Cloud Premier Partner has won the 2020 Google Cloud Global Specialization Partner of the Year – Machine Learning award. This press release features multimedia."
     publishedDateTime: 2021-07-20T16:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210720005035/en/SoftServe-Wins-Google-Cloud-Specialization-Partner-of-the-Year-Award-for-Machine-Learning"
+    webUrl: "https://www.financialbuzz.com/softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 12
 
-secured: "7bL38wbbCGSgb5rHi1pbMnbWWrm9zUnImSgDr88q1WTMhLDIBQ03kP5wI5+Ozv930WV20VUCBcGb6xTlOmQQWZ8+oya7c1jMoh6I/xUApxepHqa0IoHbITd2WBfivweP4XprI8gUwNhOIOX7UWWRLTSX1fQm1tnLNh3seMCdIg0GL87n7boR8twUNJRSCFWirOY5w2KcdNBk+zB/OpaBItbH94S93lfEd5TMqCTNS4d430YikLIY1Tb7csqiQDoM3b8Mep2u7G59hTDvyVLfn/WMh+qHZ6RFhyircYKpLoECy9GOxu9WUkS6enSlHhd5Bco0UarBVTkxTyKHpqBzEpLPYCxnmZxxEoH/UWew29E=;o749YeRgLHx5qnVhxWxRwg=="
+secured: "UUlJCmQD+bTLBOoi6hRni+5QBvYDMlgJa35C0XiEyfS5qO9TkgL6dsPeUfxoZpo+2S6X1+33pTa3nvLiUXASg5NQPBKS8gEiPa0iPkO30zyl1CitGAjceQwESXHDfe4lrlJfedur7smdfiaNN2u66mNm/UGrorPvMHXRXh22T88GI/p7h1/Kmb4E94CX5r6mXLNGjHaWNOek/pMQBNAzDvpn+aKb6B0ecKiWl/KVEMyFz2b01iJFWQ32gQ5pIp3Ajrv08qOSm+9fgBF+xfSrXFYeEzz188zqSGGN3VzgF1p4hXJ+MogJEmoQcfWKDhkz0N4YOTruhdQ68VS6I+sZu4BL7K41H/VMA4FxzfyRE7E=;RAnTiJCNI03k9jojU54aKw=="
 ---
 

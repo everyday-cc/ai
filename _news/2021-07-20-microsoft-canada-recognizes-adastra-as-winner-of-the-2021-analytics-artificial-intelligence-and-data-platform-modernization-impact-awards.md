@@ -85,6 +85,34 @@ related:
         width: 315
         height: 408
         isCached: true
+  - title: "Global Geospatial Analytics Artificial Intelligence Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2026"
+    excerpt: "The latest market research report titled Global Geospatial Analytics Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 enfolds expansive evaluation of the market offering an analysis of the market revenue,"
+    publishedDateTime: 2021-07-21T00:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-geospatial-analytics-artificial-intelligence-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2026-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "VeroSource Solutions Announces Gerry Fairweather as VP of Innovation and Analytics"
+    excerpt: "VeroSource Solutions, Inc. is pleased to announce that Gerry Fairweather has joined its Executive as VP of Innovation and Analytics. Effective immediately, Fairweather will lead the digital health company's growing data science practice,"
+    publishedDateTime: 2021-07-21T11:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19912390.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 33
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "Otnki1v6+6MViOVEoJkUHmlHlVLYOV5Ued6PR5ULwZD2cqcfVcVrPT+ua0SUQ/cTVvhCC9FWFfmJFOKjvqnWGYre/cTpyiFIZjuDEwk+xRYhMr1pafCjPU8KTx2KLVu7cMJ9yM5pOmzq3RECYwcP7f7BEof0r0djH+kJ6oBvBvcnTUUT0oA4VQ9Tt6DbGktKndEILDwGwMtHuyVEoSY5m9l0e9p5M9PopYGkA/3ZOm2A8WA1dLdIwz37gZoufwM6V/R9mmEk9MW7UFj9pS9yAqzpNmW4vNWy39ltxCpp5LS2e6P+djJN8wY9ch82aAFPq2EkVS6yqBqdjN9zZnlDjkSYA+qXYYoB5YNAsyn7Y38=;tK1Q/Fb5piBr5MYq8doa7w=="
 ---

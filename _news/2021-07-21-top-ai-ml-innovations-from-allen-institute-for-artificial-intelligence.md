@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-21T09:30:00Z
 originalUrl: "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/"
 webUrl: "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/"
 type: article
-quality: 70
-heat: 70
+quality: 72
+heat: 72
 published: true
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI
   - Machine Learning
   - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/Allen_AIM.jpg"
@@ -25,6 +26,6 @@ images:
     height: 504
     isCached: true
 
-secured: "nAwaDeFkiEk+9OMWL0/FbThQCBe6ois81YUxn+7jNwgzubhpa1dEszDSmwU33W1FPDn4TzE3S+Y8bEufo5J0s6uZDY41YPbHRk+DFYlonL7rkMa57LQxJB38wg+Srq8sdVm9PK/4KD3uO2C+b3S8W8k2DDAlgqAbqRU8yheU4/1ZbWVbUSMZ5cXbhJr8D8aVQt4zrFzYhSnE+Drc5aoQUt0hpJZcxJbb5c+2oqgE7JoRVhi3fpfJX9y4qK4Y7hC25asoDsULRq5bx0wqzgqio/vRH8fI3SxjRxqzFEhkRzpUxlKzc09grp+y6Fx6pEXJatAkFlfNG5mPMbGBS/d1zReF/Y2TNDSH+ba7uFQXz9g=;G/3xDvi9NKuXcLxEN/Fw+A=="
+secured: "kM0yeSobU9AL0iGLU8maOuU0mnJzPCuMNgV8DT72VdsRozfdpuWSs5/rm3p+Gq/iLOZx4G1ZmtT6rJAA+mNUvg1pve7UQA/teTs7pPrTh/Er/gDFGUSX46kXzYIq7XRDZJfG1hrBVrcoLOWxrMXbjfT1N5b76PN1yQrFmw9dwyN71BLqTNotA+zZXnq5hJgkdGYH2kADrqjXr9TqGWzhYJshrEWh81XXrT/rEi4ijFZRF6MQG8Ks5dPwO8+ssIuqbGTVvrpCc8Xjhuflux/NVhO5nA02Qab5k1CBK7aj1nsV0Ws7fLr9rgrKx60al4o8lhCHoZ5Nsq/OEl+B1fAhwHjFJbCvR3xzU5nU8K7W+IfDkho1OTLKoRSDDX+ymTBYC5lXkJVq/pQ52zG1mJkBT+WWIbQOxFbwjd1CRqcIcVfKnuGqVH88ljjFbZvW5i3J2qYkhX3Csxh6ysotnFrnxmKPJuBdCFRkErJYHTFZosYbPTq1V8N6gAcDqdfOcyP6iYnkHX+rl0AWBYZz0tDvAQ==;paX5T3vmkE4aCNP6lJ8vAQ=="
 ---
 

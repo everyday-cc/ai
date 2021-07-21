@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -76,6 +76,34 @@ related:
       - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1626176632_583_lg.jpg"
         width: 315
         height: 408
+        isCached: true
+  - title: "Global Geospatial Analytics Artificial Intelligence Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2026"
+    excerpt: "The latest market research report titled Global Geospatial Analytics Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 enfolds expansive evaluation of the market offering an analysis of the market revenue,"
+    publishedDateTime: 2021-07-21T00:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-geospatial-analytics-artificial-intelligence-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2026-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "VeroSource Solutions Announces Gerry Fairweather as VP of Innovation and Analytics"
+    excerpt: "VeroSource Solutions, Inc. is pleased to announce that Gerry Fairweather has joined its Executive as VP of Innovation and Analytics. Effective immediately, Fairweather will lead the digital health company's growing data science practice,"
+    publishedDateTime: 2021-07-21T11:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19912390.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 33
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Microsoft Canada recognizes Adastra as winner of the 2021 Analytics, Artificial Intelligence and Data Platform Modernization Impact Awards"
     excerpt: "CNW/ - Adastra, a global leader in Data Management and Analytics, is proud to announce that it has won three 2021 Microsoft Canada Impact Awards: the Analytics Impact Award, Artificial Intelligence Impact Award,"

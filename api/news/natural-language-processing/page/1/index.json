@@ -10,7 +10,7 @@
       "originalUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -42,7 +42,8 @@
       "topics": [
         "AI",
         "Machine Learning",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "Facebook AI"
       ]
     },
     {
@@ -256,7 +257,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -273,6 +274,58 @@
       "ampWebUrl": "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/amp/",
       "publishedDateTime": "2021-07-19T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-openai-codex-shows-the-limits-of-large-language-models.md",
+      "title": "OpenAI Codex shows the limits of large language models",
+      "excerpt": "A new paper reveals significant issues with OpenAI Codex and its handling of large language models, particularly in deep learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/",
+      "originalUrl": "https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/software-engineer.computer-code.GettyImages-1000820778.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/amp/",
+      "publishedDateTime": "2021-07-18T12:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -361,7 +414,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1057,8 +1110,8 @@
       "title": "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027",
       "excerpt": "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,",
       "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/mediareleases/144447/global-speech-recognition-market-2021-industry/",
-      "originalUrl": "https://www.reseller.co.nz/mediareleases/144447/global-speech-recognition-market-2021-industry/",
+      "webUrl": "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/",
+      "originalUrl": "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1071,8 +1124,8 @@
       "publishedDateTime": "2021-07-13T07:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
+        "name": "ARN",
+        "domain": "arnnet.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1421,49 +1474,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-ai-natural-language-processing-company-brain-ventures-selected-as-a-data-voucher-processing-company-by-the-korea-data-industry-promotion-agency.md",
-      "title": "AI Natural Language Processing Company \"Brain Ventures\" Selected as a Data Voucher Processing Company by the Korea Data Industry Promotion Agency.",
-      "excerpt": "Meanwhile, Brain Ventures has developed an AI video content automatic translator and short answer ... and communicates with human languages.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing",
-      "originalUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_580.jpg?itok=YpqM4i8D",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp",
-      "publishedDateTime": "2021-07-09T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

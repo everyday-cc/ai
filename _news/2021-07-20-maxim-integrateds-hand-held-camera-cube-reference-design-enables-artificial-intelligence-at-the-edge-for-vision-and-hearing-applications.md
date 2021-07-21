@@ -2,24 +2,20 @@
 category: news
 title: "Maxim Integrated's Hand-Held Camera Cube Reference Design Enables Artificial Intelligence at the Edge for Vision and Hearing Applications"
 excerpt: "Today Maxim Integrated Products, Inc. (NASDAQ: MXIM) unveiled the MAXREFDES178# camera cube reference design, which demonstrates how Artificial intelligence (AI) applications previously limited to machines with large power and cost budgets can be embedded in space-constrained,"
-publishedDateTime: 2021-07-20T12:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-hand-held-camera-cube-reference-design-enables-artificial-intelligence-at-the-edge-for-vision-and-hearing-applications-1030624731"
-webUrl: "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-hand-held-camera-cube-reference-design-enables-artificial-intelligence-at-the-edge-for-vision-and-hearing-applications-1030624731"
+publishedDateTime: 2021-07-20T12:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/20/9412526.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/20/9412526.htm"
 type: article
-quality: 36
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Autos
+  - Machine Learning
   - AI
 
 images:
@@ -45,7 +41,16 @@ related:
         width: 547
         height: 950
         isCached: true
+  - title: "Trust as a Prerequisite for AI Applications"
+    excerpt: "In Styria, Austria, a new initiative is emerging to develop efficient and independent test methods and testing technologies for AI systems. This involves the Know-Center, a leading European research center for data-driven business and AI,"
+    publishedDateTime: 2021-07-21T10:41:00Z
+    webUrl: "https://www.publicnow.com/view/EA31681D40DBE396EC27DAC02B0B75302BFC5E7E"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 19
 
-secured: "4LqfO5OVdMq3qOh56XZDifIw8LMXgkCVike2CfcAS3IX786yHq7iNoDcNJQe5ACMX1BAfvLkka81OdBiBh9lD/SpAhkP3H/Sc1pY2eJ4Nsp8AKL0W6YjCMxhmiPEo5jPi/oI+7Q1JoizauTn1PE7U8cqHi/NHyf0NTjObkEgk6savxL0AVnIwO08bcCnGaM2jb1noyRoY6X+a/P4qRnkLkPQfSDEFsJoH+Zk7Y/yCl53zuoEneg6G9p/dhBvMgqPxDw7fZUmKKUy6BwhRpSG+w3RMvEVeN8VwjJCac0RKD4vy5tXcP+Dmwx+GFio03RAwu6dmnt9qcZ5uzB4tLVFC4wyTAoQoTjcYcDiulipULkrDcyoZv5ANqysEe79SuYpYY5kHcqdJ2frYza7/J5LmZddHbutSgmzuiHKsNuSp9qAbsCCTFdehKpCNcqATjGqLR5C5K+XaMDzbBbuFjx/lq0U8CwCyTQ2t+FOxGAdJlhoMXsOZ58/C8j4dnp2WiJmS08pKs8v8IuyUZwA3I2GOA==;6QXkR5f8tmElG3VsggOAxw=="
+secured: "c0IxDncTWHHRZzHcbhlivZF3Gn746Xekk6ZqFianfETjYBC0R+0vvf7gMp+RI3VV+eVCB+ZGg9ClcT4sHVZ2Bx1Di+bCgOw3x3zne18mjE7VBbF/RvmZF4u93S2+28F8EjOrn+2SsOg+TH9m2w46PBX84uuc0kd3DKwFcTZjfKS2CCMJsnK/yQSqWwlsID/og41TYqbNDy0RnFhfN5p2gpymo2UB5aIAYzHXKCP2/xttJmbKFh5sC7qo5l37t7/SlEokm36ZLkHfQWDK7FaqoQ04/uLB0ke/pbJnfWytfiwKYNLVEKwEyKroSnUyTD5iJ0BZKiRL9NSjWP4JIXGRYV7a9VrJOnSFjZxCtjGwjz4=;5oQvicQP6/rWBeo1rvNizA=="
 ---
 

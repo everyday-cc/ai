@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/22035744"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22035744"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Global Personal Artificial Intelligence and Robotics Markets 2021-2026 by AI and Robot Type, Components, Devices and Solutions - ResearchAndMarkets.co"
-    excerpt: "The \"Personal Artificial Intelligence and Robotics Market by AI and Robot Type, Components, Devices and Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report evaluates the market for personalized robots,"
-    publishedDateTime: 2021-07-19T12:01:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=501646"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 44
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "H8Xjodxuiag9afXHDJtuXOvI8XLWE02KkF0V/zhmXYawjdC6tSkbuA0xpyhIMCehG5b6q27p9yCvw2VqZcG/LyH7TJr4FPEFRNmPGL8rq44zN8BlynTEPtRG4xQlMq7LoWAzfTvFY8hu7fAoWQrPe0mAXIzmgdrLw6usk234MrH9kJ246WMVUkA6pZEbEktW2a4zEIfiyHDnE9Z3RhpzJ9pp3IxtNancKUFdTBfBGdu+Nijv+AYJolyBGDX8cFQIwV7NN7dobBMfuJ8EZhDCNkK/AWwdVSoo0GJAZb7VrY0mJr0JTNGd0WmWoQVRT3xVcPkQh5FyUfAIhyzesnERbe29Ytq5tYO0QXeeSW+iKFY=;LLpC9DBcMJcLQaWnaaeBUg=="
 ---

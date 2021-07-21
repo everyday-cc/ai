@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-
 webUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-ethical-use-of-ai-in-the-hiring-process/"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/ai_dreamstime_1.jpg"
         width: 800
         height: 500
-        isCached: true
-  - title: "Importance of AI in Remote Learning"
-    excerpt: "Educators are using AI-enabled Learning Management System to track their student's progress (LMS). The primary purpose for creating LMS was to improve the learning experience with Artificial Intelligence (AI) support."
-    publishedDateTime: 2021-07-16T21:09:00Z
-    webUrl: "https://www.cioapplications.com/news/importance-of-ai-in-remote-learning-nid-8110.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/l2wfimg---6.gif"
-        width: 450
-        height: 308
         isCached: true
   - title: "Artificial intelligence of things at the edge"
     excerpt: "Gartner has predicted that 75% of data will be processed at the edge by 2025, and artificial intelligence of things (AIoT) is moving from concept to reality. Is your enterprise ready? Download this white paper to discover Advantech’s plug-and-play computing platforms and software frameworks that strive to simplify and streamline deployment of new applications in edge and embedded scenarios."

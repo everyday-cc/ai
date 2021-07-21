@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/product-news/amp/dotm
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/product-news/amp/dotmatics-announces-support-for-the-aws-for-health-initiative-351111"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 389
     height: 389
     isCached: true
+
+related:
+  - title: "Amazon rolls out AWS For Health cloud services for healthcare, genomics and biopharma"
+    excerpt: "Amazon's cloud division has rolled out AWS for Health, a set of services and partner solutions for healthcare, genomics and biopharma. Amazon says the portfolio of solutions will help to accelerate innovation from \"benchtop to bedside\" as the tech giant pushes further into the healthcare and life sciences markets."
+    publishedDateTime: 2021-07-19T19:13:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/amazon-rolls-out-aws-for-health-as-cloud-services-for-healthcare-genomics-and-biopharma"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 49
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1626713437/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?fMn1pTKdQf6jsQ30yFiTjsKJDN3Vq5wq"
+        width: 4432
+        height: 2955
+        isCached: true
 
 secured: "ecOSQ4A7Y8lknjF/ssZv0g219eUUsfRA0x+viMdtujpMlKkFNnZsI8v67n4An0IXvjLATkFrXZ1cE/uFAUdOG0Ak+x3UA/PyTfZrh5fEZKYXCyEVrXYjJ6XEEDubx95EKFgZ9s7iJvoWtAjOGPhuJ1Xvwo5hcq/gEb6WeJmsN297VMjpQPjnrW2ECaQbwsbv9WceCp6ux6ZOJ0FLkLFCRQd/1fu7fgIXpwzPFbFnGiluV7InVRXqzBriQe7zvwZs+To9r/Q/ftNzfUKLTbiHKHEbRNpwV0E2qLw1Jbq24gLc848mT0/xaiTbK38MuhM5U2Qt3K7chX3bldOHLpmn7/d+u/vgkS+JQtyp2Lk5Atw=;j0TsAxBFPoFcC9NhgD57/w=="
 ---

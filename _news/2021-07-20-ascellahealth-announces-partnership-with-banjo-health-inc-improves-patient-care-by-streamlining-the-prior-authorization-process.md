@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS launches HealthLake to help health care organizations query medical data"
-    excerpt: "AWS has made its cloud -based health care data lake solution, Amazon HealthLake, generally available to customers. With this solution, health care organizations can pull medical information from different sources into a single environment and use it to improve patient care."
-    publishedDateTime: 2021-07-16T18:14:00Z
-    webUrl: "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query"
-    ampWebUrl: "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 86
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1578930668/itpro/2020/01/Doctor_using_AI_to_support_diagnosis.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Today In Healthcare: VC Sinks Big Bucks Into Startups; Telehealth Providers Turn To AI"
     excerpt: "Today in healthcare, HC startups have raised almost $15 billion in VC, and telemedicine is turning to AI to solve its privacy problems."
     publishedDateTime: 2021-07-16T20:19:00Z
@@ -51,33 +35,30 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Amazon rolls out AWS For Health cloud services for healthcare, genomics and biopharma"
-    excerpt: "Amazon's cloud division has rolled out AWS for Health, a set of services and partner solutions for healthcare, genomics and biopharma. Amazon says the portfolio of solutions will help to accelerate innovation from \"benchtop to bedside\" as the tech giant pushes further into the healthcare and life sciences markets."
-    publishedDateTime: 2021-07-19T19:13:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/amazon-rolls-out-aws-for-health-as-cloud-services-for-healthcare-genomics-and-biopharma"
+  - title: "2 Great Growth Stocks in the Healthcare Sector"
+    excerpt: "Unprecedented advancements in the healthcare industry and emerging next-generation solutions are driving investor interest in the healthcare space. Thus, we think it could be worth betting on healthcare stocks DENTSPLY SIRONA Inc."
+    publishedDateTime: 2021-07-19T20:37:00Z
+    webUrl: "https://stocknews.com/news/xray-brkr-2-great-growth-stocks-in-the-healthcare-sector/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
     type: article
     provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 49
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1626713437/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?fMn1pTKdQf6jsQ30yFiTjsKJDN3Vq5wq"
-        width: 4432
-        height: 2955
-        isCached: true
-  - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
-    excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"
-    publishedDateTime: 2021-07-20T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
+      name: Stock News
+      domain: stocknews.com
+    quality: 39
+  - title: "5 healthcare innovation trends to keep a close eye on"
+    excerpt: "As healthcare's digital transformation continues, new trends arise each year. Below are five innovation trends to which health systems' innovation leaders have been paying especially close attention in 2021: Digital health startups raised $14."
+    publishedDateTime: 2021-07-20T21:29:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/5-healthcare-innovation-trends-to-keep-a-close-eye-on.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/680972/Redox_Logo.jpg?p=facebook"
-        width: 902
-        height: 475
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/7.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "+YNa65VKX9jkUkgL0JGre8x07wO0MA8EbWoIs/ZC0OUHfZrnLrDrwOX52r9GJg1Fib4IJzrTk0LFHde6LGovOYkxqB4mm28hqBX3++kZCpkxqb7N9AUqCrPH44DpoXihNJVVVPgZy3D9SI0kVdCQGRUp+BJyYLmsPPfjiJtUzoTqVyJpWOoyqEoZLjqJhJyQnoMRfIrc4Yqf93xuOIE6DIjuboMnvKGHFKwvSEuocPskiT0dqV6wdPUygbz0HETnibl0x3evzZ6HiX9FztaxHWK2DsIFyM+M+U/JZSX4fQmWsYXTdTnIg2zQN1POrdD1SdNfjtaOLrWzQOerco5806tGjcx0zeV1XG7xqbMc+YA=;DIcj3KLPd2f5KTZsKGZoXg=="

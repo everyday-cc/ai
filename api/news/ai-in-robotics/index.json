@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-20-openai-abandons-robotics-research.md",
+      "title": "OpenAI abandons robotics research",
+      "excerpt": "OpenAI disbands its robotics research team due to lack of large enough data sets to effectively generate reinforcement models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/openai-abandons-robotics-research/",
+      "originalUrl": "https://www.therobotreport.com/openai-abandons-robotics-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/openai-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-artificial-intelligence-and-machine-learning-course-at-cit.md",
       "title": "Artificial Intelligence and Machine Learning course at CIT",
       "excerpt": "Ponnampet: A new engineering course in Artificial Intelligence and Machine Learning (AI & ML), an allied branch of Computer Science and Engineering, is being introduced at Coorg Institute of Technology (CIT),",
@@ -944,6 +987,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-15-device-taps-brain-waves-to-help-paralyzed-man-communicate.md",
+      "title": "Device taps brain waves to help paralyzed man communicate",
+      "excerpt": "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
+      "originalUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg",
+          "width": 2500,
+          "height": 1669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna1424",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424",
+      "publishedDateTime": "2021-07-14T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-device-lets-paralyzed-man-communicate-with-brain-waves.md",
       "title": "Device lets paralyzed man communicate with brain waves",
       "excerpt": "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a computer screen.",
@@ -973,49 +1059,6 @@
       "provider": {
         "name": "Times-News",
         "domain": "magicvalley.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-device-taps-brain-waves-to-help-paralyzed-man-communicate.md",
-      "title": "Device taps brain waves to help paralyzed man communicate",
-      "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190",
-      "publishedDateTime": "2021-07-14T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1349,50 +1392,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-robotics-artificial-intelligence-innovation-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript.md",
-      "title": "Robotics, Artificial Intelligence, Innovation & How The Technology Space Is Evolving The ETF Marketplace (Podcast Transcript)",
-      "excerpt": "ROBO Global provides their outlook on the future of robotics and artificial intelligence. Breakdown of ROBO Global's ETFs: (ROBO), (HTEC), and (THNQ).",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1179697528/medium_image_1179697528.jpg",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
-      "publishedDateTime": "2021-07-12T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

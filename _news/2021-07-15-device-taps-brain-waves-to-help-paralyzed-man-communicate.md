@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Device taps brain waves to help paralyzed man communicate"
-excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
-publishedDateTime: 2021-07-14T21:21:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
-webUrl: "https://abcnews.go.com/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/device-taps-brain-waves-paralyzed-man-communicate-78850190"
+excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a"
+publishedDateTime: 2021-07-14T23:13:00Z
+originalUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
+webUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1424"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424"
 type: article
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg"
+    width: 2500
+    height: 1669
     isCached: true
 
-secured: "Knoih6qz+In0J/ykOj18J31H18d4rYnQlexrIhq7O2kePmjswWgMVH/uf12nd+GX0Ipiq9H95TKSPcnJJNmH1jz1bVBG/fDFMQSCqgfLJTwr6lKMaPcEQUTOaRKYG/MEry/8d5AooIxAsovZPLwil0Ex6t+gsTBl5KFPcULTfTMijaFhpeQ0JjxvaGTR6xkYqgVje2yXf9BtT4Eli/VGOqsweKGD/ezpUaQ+o1wafU8IEFIUTtmUOMY3thzBB/INETbXvFxGrUUVXGB2f5AVTfkIUkdxcdOZFzFCjLmBWg13K2pFUpyqlKnPFzuKS6l+R3WNjMfYl4ICgnHW1M7TOag5xm2L9C2A76/iuyq42rY=;R0VqFBxbmXjUCQ1LL4PSpw=="
+secured: "JYfBGWkaf/VLBu19Co1fJpwaj6ha94Vjnyv+60UwK2QZ/9nOMgYo5vknQtX7o9W3x9Hbbp+eXgUn4MO6mxQE4HHmjV570Z42vKr1yaISvGb37gVXJwFUIaf7n85+97mICvqZW1f6i90Hz496K0ZSEwQ4M46lOX7r53aE9piEbXK/4aQUmDMt12+QEK8FAe+exPzo0mnSr/1Y+lFgvRRrpTD7DIGwXUiqLgbgVCk3rau7g5AgU7KW1Rop2iTFHXaTjLEW7fTWExrmq9pE0WuznX8hTtafaWxh0mL9P7XHD2SYF8NNt7N0giSdix6qvmW1lTn9T2ff+ShMT2ZwOcnYa53iGDIY5Xch9h1Q+Lz7NiM=;YH5TH4dAwWUSn+JHPxpKAA=="
 ---
 

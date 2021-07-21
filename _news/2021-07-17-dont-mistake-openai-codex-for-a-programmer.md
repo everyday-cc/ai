@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI disbands its robotics research team"
-    excerpt: "OpenAI has disbanded its robotics team after years of research ... “But from perspective of what we want to achieve — [artificial general intelligence] — there was some component missing.”"
-    publishedDateTime: 2021-07-16T18:25:00Z
-    webUrl: "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/"
-    ampWebUrl: "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/openai-robotics-finger-velcro-e1570816045621.jpg?w=1200&strip=all"
-        width: 1200
-        height: 633
-        isCached: true
   - title: "OpenAI abandons robotics research"
     excerpt: "OpenAI disbands its robotics research team due to lack of large enough data sets to effectively generate reinforcement models."
     publishedDateTime: 2021-07-20T15:42:00Z
@@ -59,21 +43,19 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "OpenAI Codex shows the limits of large language models"
-    excerpt: "A new paper reveals significant issues with OpenAI Codex and its handling of large language models, particularly in deep learning."
-    publishedDateTime: 2021-07-18T19:15:00Z
-    webUrl: "https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/"
-    ampWebUrl: "https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/amp/"
+  - title: "Global Personal Artificial Intelligence and Robotics Markets 2021-2026 by AI and Robot Type, Components, Devices and Solutions - ResearchAndMarkets.co"
+    excerpt: "The \"Personal Artificial Intelligence and Robotics Market by AI and Robot Type, Components, Devices and Solutions 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report evaluates the market for personalized robots,"
+    publishedDateTime: 2021-07-19T12:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=501646"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 44
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/software-engineer.computer-code.GettyImages-1000820778.jpg?w=1200&strip=all"
-        width: 1200
-        height: 630
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "uHAxJk7u30+FspwtkD2JEdsMgx9WMjg6iKQdW4zUyoB1qCpfDXcRKTejkjyuRt9UDe84vhhTDdJbvfYHPk87GkUfsIGQ6pth3VO6qWZ466WVwsBvTIXOEUPEGWTdsoymwfs/FWZOGoPbKJTgEl76L05dI76fh+h9rEmr4UIk38wk6hlg+EYPxNkegH6sWKjRbY4T3JXPUlPg5EM+XoZvnpeApcgs+Kdc7Apu19DMyjDkEiZrYKZ8cEh9IS1NN7QQf0XmAI5Qk0g05woJCvC1KkEXcVlFxTUctPIjQ9mO9QdqQTfbYdcR/zR0JHhY0djmkAcxjR6wZcZ/dKYxucs1hdKE8Oj2Y6Tn5w9o/0JgXZU5c6Nc/mDeYqx518RND07qg1IQFLA+oygkiHDTEhCPU2yAZzmibrXmkZYrq5xTzv0Efwec34jgnAf7SPzIFdv20Za8XOHgnXiA9mwx5TdZDwlEIrs3orbdDmIi39HTbDArd/o2jIMxByGCgr4rYp2Bzom7IS9N3y+Q2Zbpv2Jc6w==;foXvAV66Vw6eokmY1rMvaw=="

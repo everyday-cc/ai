@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210719/Advances-in-machine-l
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210719/Advances-in-machine-learning-and-AI-unlock-myriad-of-applications.aspx"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,15 +27,24 @@ images:
     isCached: true
 
 related:
-  - title: "Maxim Integrated's Hand-Held Camera Cube Reference Design Enables Artificial Intelligence at the Edge for Vision and Hearing Applications"
-    excerpt: "Today Maxim Integrated Products, Inc. (NASDAQ: MXIM) unveiled the MAXREFDES178# camera cube reference design, which demonstrates how Artificial intelligence (AI) applications previously limited to machines with large power and cost budgets can be embedded in space-constrained,"
-    publishedDateTime: 2021-07-20T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-hand-held-camera-cube-reference-design-enables-artificial-intelligence-at-the-edge-for-vision-and-hearing-applications-1030624731"
+  - title: "Trust as a Prerequisite for AI Applications"
+    excerpt: "In Styria, Austria, a new initiative is emerging to develop efficient and independent test methods and testing technologies for AI systems. This involves the Know-Center, a leading European research center for data-driven business and AI,"
+    publishedDateTime: 2021-07-21T10:41:00Z
+    webUrl: "https://www.publicnow.com/view/EA31681D40DBE396EC27DAC02B0B75302BFC5E7E"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 19
+  - title: "Maxim Integrated's Hand-Held Camera Cube Reference Design Enables Artificial Intelligence at the Edge for Vision and Hearing Applications"
+    excerpt: "Today Maxim Integrated Products, Inc. (NASDAQ: MXIM) unveiled the MAXREFDES178# camera cube reference design, which demonstrates how Artificial intelligence (AI) applications previously limited to machines with large power and cost budgets can be embedded in space-constrained,"
+    publishedDateTime: 2021-07-20T12:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/20/9412526.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
     images:
       - url: "https://mma.prnewswire.com/media/1577187/Maxim_Integrated_Products_MAXREFDES178.jpg"
         width: 400

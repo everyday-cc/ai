@@ -163,6 +163,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla lowers the price of its 'Full Self-Driving' computer upgrade"
+    excerpt: "After criticism from owners, Tesla has reduced the price of a computer update required for its new \"Full Self-Driving\" (FSD) feature.."
+    publishedDateTime: 2021-07-21T09:44:00Z
+    webUrl: "https://www.engadget.com/tesla-reduces-the-price-of-its-full-self-driving-computer-upgrade-by-500-091157676.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-07/4f3f33d0-e9fa-11eb-bff7-1a51b889584d"
+        width: 1400
+        height: 800
+        isCached: true
   - title: "Tesla full self-driving is not what most people call 'full' self-driving"
     excerpt: "Tesla has started offering a subscription add-on for its automobiles for so-called self-driving features, though the language is a little confusing. Tesla just announced that it would sell a subscription for an enhanced version of what it calls \"autopilot,"
     publishedDateTime: 2021-07-19T07:23:00Z

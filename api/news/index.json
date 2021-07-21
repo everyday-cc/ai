@@ -2,6 +2,159 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-21-in-a-world-of-rising-risks-ai-offers-supply-chain-resilience-and-reward.md",
+      "title": "In A World Of Rising Risks, AI Offers Supply Chain Resilience And Reward",
+      "excerpt": "Yet Covid-19 shows that many companies, even innovation leaders like Apple, can fail to be prepared enough for such rising uncertainty. Experts point to the visibility problems in global supply chains where there can be opaque tiers of specialized suppliers concealing baked-in vulnerabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/21/in-a-world-of-rising-risks-ai-offers-supply-chain-resilience-and-reward/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/21/in-a-world-of-rising-risks-ai-offers-supply-chain-resilience-and-reward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda45bb02ecda00061c10ea%2F0x0.jpg",
+          "width": 1200,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/21/in-a-world-of-rising-risks-ai-offers-supply-chain-resilience-and-reward/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/21/in-a-world-of-rising-risks-ai-offers-supply-chain-resilience-and-reward/amp/",
+      "publishedDateTime": "2021-07-21T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-lyft-invests-in-argo-ai-fords-first-robotaxis-arrive-in-late-2021.md",
+      "title": "Lyft Invests In Argo AI; Ford’s First Robotaxis Arrive In Late 2021",
+      "excerpt": "Ford and automated driving partner Argo AI will launch automated ride-hailing services on Lyft’s platform in Austin and Miami this year. Lyft will provide Argo with data to help optimize deployments and evaluate the safety of the vehicles in exchange for a 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/",
+      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/",
+      "publishedDateTime": "2021-07-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-neurotechnology-releases-mobile-app-for-sentisightai.md",
+      "title": "Neurotechnology Releases Mobile App for SentiSight.ai",
+      "excerpt": "Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, has released a SentiSight.ai mobile app that enables users to easily use image recognition models from their phone.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/neurotechnology-releases-mobile-app-for-sentisight-ai-1030629432",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/neurotechnology-releases-mobile-app-for-sentisight-ai-1030629432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1578204/SentiSight_app_2.jpg",
+          "width": 400,
+          "height": 265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence.md",
       "title": "Top AI & ML Innovations From Allen Institute For Artificial Intelligence",
       "excerpt": "Over the years, the private research institute and startup incubator has pushed the frontiers of AI and machine learning.",
@@ -10,7 +163,7 @@
       "originalUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -42,7 +195,8 @@
       "topics": [
         "AI",
         "Machine Learning",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "Facebook AI"
       ]
     },
     {
@@ -840,6 +994,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-20-openai-abandons-robotics-research.md",
+      "title": "OpenAI abandons robotics research",
+      "excerpt": "OpenAI disbands its robotics research team due to lack of large enough data sets to effectively generate reinforcement models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/openai-abandons-robotics-research/",
+      "originalUrl": "https://www.therobotreport.com/openai-abandons-robotics-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/openai-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-our-ai-headline-experiment-continues-did-we-break-the-machine.md",
       "title": "Our AI headline experiment continues: Did we break the machine?",
       "excerpt": "Is Our Machine Learning? Our AI headline experiment continues: Did we break the machine? Feeding the machine: We give an AI some headlines and see what it does; Is our machine lea",
@@ -1014,213 +1211,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-untether-ai-nabs-125m-for-ai-acceleration-chips.md",
-      "title": "Untether AI nabs $125M for AI acceleration chips",
-      "excerpt": "Untether AI, a startup developing custom-built chips for AI inferencing workloads, today announced that it raised $125 million from Tracker Capital. The round, which was oversubscribed and had participation from Canada Pension Plan Investment Board and Radical Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/20/untether-ai-nabs-125m-for-ai-acceleration-chips/",
-      "originalUrl": "https://venturebeat.com/2021/07/20/untether-ai-nabs-125m-for-ai-acceleration-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/20/untether-ai-nabs-125m-for-ai-acceleration-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/untether-ai-nabs-125m-for-ai-acceleration-chips/amp/",
-      "publishedDateTime": "2021-07-20T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-google-unveils-self-driving-cloud-security-feature.md",
-      "title": "Google unveils ‘self-driving’ cloud security feature",
-      "excerpt": "At its Security Summit, Google Cloud announced Chronicle integrations, Cloud IDS, an autonomic security operations stack, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/",
-      "originalUrl": "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/04/cloud_security-shutterstock_238417594-e1626720984465.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/amp/",
-      "publishedDateTime": "2021-07-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-nvidia-releases-tensorrt-8-for-faster-ai-inference.md",
-      "title": "Nvidia releases TensorRT 8 for faster AI inference",
-      "excerpt": "The latest version of Nvidia's software development kit for AI inference speeds up inference performance with certain models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/",
-      "originalUrl": "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/MVIMG_20190318_133330_1-e1588214925726.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/",
-      "publishedDateTime": "2021-07-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-how-conversational-ai-can-help-digital-transformation-succeed.md",
-      "title": "How Conversational AI Can Help Digital Transformation Succeed",
-      "excerpt": "One of the challenges with many of these transformations is the impact on the employees and those stuck supporting them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/how-conversational-ai-can-help-digital-transformation-succeed/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/how-conversational-ai-can-help-digital-transformation-succeed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f57e2d2ef27aeb72092d1c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

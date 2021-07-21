@@ -25,61 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches HealthLake to help health care organizations query medical data"
-    excerpt: "AWS has made its cloud -based health care data lake solution, Amazon HealthLake, generally available to customers. With this solution, health care organizations can pull medical information from different sources into a single environment and use it to improve patient care."
-    publishedDateTime: 2021-07-16T18:14:00Z
-    webUrl: "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query"
-    ampWebUrl: "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp"
+  - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
+    excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
+    publishedDateTime: 2021-07-20T08:11:00Z
+    webUrl: "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 86
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 65
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1578930668/itpro/2020/01/Doctor_using_AI_to_support_diagnosis.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "Today In Healthcare: VC Sinks Big Bucks Into Startups; Telehealth Providers Turn To AI"
-    excerpt: "Today in healthcare, HC startups have raised almost $15 billion in VC, and telemedicine is turning to AI to solve its privacy problems."
-    publishedDateTime: 2021-07-16T20:19:00Z
-    webUrl: "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/"
-    ampWebUrl: "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 66
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/telemedicine-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Amazon rolls out AWS For Health cloud services for healthcare, genomics and biopharma"
-    excerpt: "Amazon's cloud division has rolled out AWS for Health, a set of services and partner solutions for healthcare, genomics and biopharma. Amazon says the portfolio of solutions will help to accelerate innovation from \"benchtop to bedside\" as the tech giant pushes further into the healthcare and life sciences markets."
-    publishedDateTime: 2021-07-19T19:13:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/amazon-rolls-out-aws-for-health-as-cloud-services-for-healthcare-genomics-and-biopharma"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 49
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1626713437/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?fMn1pTKdQf6jsQ30yFiTjsKJDN3Vq5wq"
+      - url: "https://qtxasset.com/fiercebiotech/1626705643/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?nnIWK27zsQToGA41LvRBTzJghCy0Z8Ok"
         width: 4432
         height: 2955
         isCached: true
-  - title: "AscellaHealth Announces Partnership with Banjo Health Inc., Improves Patient Care by Streamlining the Prior Authorization Process"
-    excerpt: "AscellaHealth, a global specialty pharmacy and healthcare solutions company, today announces the signing of a multi-year partnership with Banjo Health, a market leader in artificial intelligence (AI)-powered Prior Authorization (PA) solutions,"
-    publishedDateTime: 2021-07-20T14:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ascellahealth-announces-partnership-with-banjo-health-inc-improves-/2021/07/20/9413006.htm"
+  - title: "Microsoft Partners With U.S. Army Engineers To Use Azure Cloud For Extreme Weather Modeling"
+    excerpt: "Microsoft announced on Wednesday that the company has signed a cooperative research and development agreement (CRADA) with U.S. Army engineers use the company’s Azure Government cloud for a system that models extreme weather around coasts."
+    publishedDateTime: 2021-07-16T19:30:00Z
+    webUrl: "https://www.executivegov.com/2021/07/microsoft-partners-with-u-s-army-engineers-to-use-azure-cloud/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 44
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2021/07/16/4c/da/ed/bd/2f/15/c5/04/microsoft_20210625.png"
+        width: 272
+        height: 270
+        isCached: true
+  - title: "NIH taps Microsoft for biomedical research initiative"
+    excerpt: "NIH tapped Microsoft Azure as the cloud platform for its Science and Technology Research Infrastructure for Discovery, Experimentation and Sustainability Initiative, which provides cloud technology and services for biomedical research."
+    publishedDateTime: 2021-07-20T21:40:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/nih-taps-microsoft-for-biomedical-research-initiative.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/11.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "CBOcmw+yFI9YSImqxeV2psER4XEiWPLEYO0MB3TUtF72i84AKjchKJPG6vZC0X1YeXkPop9lDmicKpBvE0wFKPScRfmFsPW0TJ8/Pw2Hdrq27RiAJ1Nk6YObYArF5tnsPD1MwBHbGREVPFM1RxwBGz+5cEvEo4K/Zc1l2EAs93gGHdOcwloqSK/kP2KwBNSkcwW83gyvL5w2WnAgWmuNN+TgEkxQ5784kL1+BuL3bcuUNCMAVU4muy6p1q7jcB/7aEb9CjJYw6x4VV3X5vHYY5xekXgJv5B57z5O68pmEQJrK5nIUCZSisPT8rIhXOF5TkXJhBtTPJNrACNnIOnl/+lWWKoJuV2XB9u7VEhQ+4+8tI9f4HEoUH9m30WAXgpJXThrrihyk+7fR5XtEe00Yw8unKP2nedBQ7MzblE4sCHJXZ4T8/xid9uIUX7ua2/679UDKQhOt0qqf7wD9UqLPPqPbLlw/HYKJtnLW0SpJvir/59JJkVYXWwF5WVRAEaGeoVsMjvRyZBFKeHwtaR84Q==;NZa7i1hlOyr1nOXwdbKA6w=="
 ---

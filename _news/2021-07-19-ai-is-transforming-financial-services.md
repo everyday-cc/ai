@@ -72,20 +72,6 @@ related:
         width: 770
         height: 420
         isCached: true
-  - title: "AI/ML Innovations Announces Board Resignation"
-    excerpt: "TORONTO, ON / ACCESSWIRE / July 16, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF) (“AIML” or the “Company”), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
-    publishedDateTime: 2021-07-16T17:21:00Z
-    webUrl: "https://apnews.com/press-release/Accesswire/business-d0ad8217434242041e7d8d3491a84248"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Understanding how AI Drives Digital Transformation?"
     excerpt: "When AI and machine learning become part of a company's strategy, it represents a new digital transformation era. FREMONT, CA: In a dynamic, fast-changing market world, digital transformation is one of the most critical factors of how companies deliver ..."
     publishedDateTime: 2021-07-20T06:27:00Z

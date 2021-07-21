@@ -2,28 +2,28 @@
 category: news
 title: "See the first self-driving car to take a spin on NYC streets"
 excerpt: "Intel-owned startup Mobileye has completed the first ever tests of self-driving cars on the streets of New York City without a police escort."
-publishedDateTime: 2021-07-20T20:43:00Z
-originalUrl: "https://kvia.com/news/2021/07/20/see-the-first-self-driving-car-to-take-a-spin-on-nyc-streets/"
-webUrl: "https://kvia.com/news/2021/07/20/see-the-first-self-driving-car-to-take-a-spin-on-nyc-streets/"
+publishedDateTime: 2021-07-21T01:43:00Z
+originalUrl: "https://localnews8.com/money/cnn-business-consumer/2021/07/20/see-the-first-self-driving-car-to-take-a-spin-on-nyc-streets/"
+webUrl: "https://localnews8.com/money/cnn-business-consumer/2021/07/20/see-the-first-self-driving-car-to-take-a-spin-on-nyc-streets/"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://kvia.b-cdn.net/2021/07/hypatia-h_50890608d8a02c9b670727c4a3874b92-h_c6bb4768c4778c7186fa88339b1b09d1-300.jpg"
+  - url: "https://localnews8.b-cdn.net/2021/07/hypatia-h_50890608d8a02c9b670727c4a3874b92-h_c6bb4768c4778c7186fa88339b1b09d1-300.jpg"
     width: 1920
     height: 1280
     isCached: true
 
-secured: "jWegiBeT525luUXleXDO4eMheff45B2EOs4uEY4oBac9KmkQMLQ0go5/oYEtGgIAAwl6s8OtYrjAiY/hjFLig8ETOZX5rFs0+zRJpJpVNjBvJMJyBrDPDLzOjcXalXQBbO3sJ/eVH8GdgUIxvxbRhRfisMcJbC+FyvdcIY4W0rtINXklZnZHdu8Jc7WEMaOJqtlWfIb9d/IWMB7KjJjANPRDxXARTyrm/6PJMdFM6peLWChTBadP5rAZoQ2b83RrPjbjdku5zpuuMwcvZ5bJ2vQ9CdKRjl8Ef6siy/CJ4mSdzbVPZNVcYIDRq3DKAN9wIoiKb8MZHIJYQ95t1VxYPo0OGMuiNLgpWnPgpgf44aiY5LxnKqnuIqpE2paJundFT8hYUA/LHWMGi4K97Iv2ua+zIhITc1Ekbf2k65agKeQ9UO2NMzS/3k1Ph0W4NMICj7Yfa2Bj7QK3ksoInilAqruB0AnrwVAS5biccKHOR0F2TqQ0u0XfHYwltR5qAcbACsffsCP4TihCY+OSv519iA==;6foBtzQn95kJ7rQ2BmQiGw=="
+secured: "a/YcxZu9zyd2EHc2CqRjRMD6nK0aTxxzhvO51A9ECLV0J2XdJyWA0IuBFmuiBMbenTRzmmBX0DK4oz6n6SLYX+hTNg8vvFNX0drnKpjzBS6NB2dy6RWljhAz7PZpDPPWLUt5oR6y7T6n2a97EG6E3FWmqAKVObDndx9UePxkdpJpPXNC67ariPS5OJ9rqEyfZUfqKdpUrWiiZE70cTrNPqJrKUQc54698Oj8jwArBOL/g8uEfZUH2QMyXv13Cm8GJ0yjzkx3VN+DZh/2ynk/qEEIzjjCRJa08meQA9v3ovgPAh9IZbsh9Snv3QV9OW6/Fs18vnGSBAwXtqv4ytQTnlOg0ekq+5n6pzLoDCijB0A=;pH1n7WCUAtiGky7IkWakvw=="
 ---
 

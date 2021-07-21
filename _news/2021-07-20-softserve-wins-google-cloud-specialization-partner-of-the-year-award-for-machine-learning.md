@@ -1,18 +1,18 @@
 ---
 category: news
 title: "SoftServe Wins Google Cloud Specialization Partner of the Year Award for Machine Learning"
-excerpt: "SoftServe, a leading digital authority and consulting company and Google Cloud Premier Partner has won the 2020 Google Cloud Global Specialization Partner of the Year – Machine Learning award. “It’s an honor to receive this award from Google Cloud recognizing our machine learning innovation and experience helping businesses to understand and fully leverage the benefits of Google Cloud,"
+excerpt: "SoftServe, a leading digital authority and consulting company and Google Cloud Premier Partner has won the 2020 Google Cloud Global Specialization Partner of the Year – Machine Learning award. This press release features multimedia."
 publishedDateTime: 2021-07-20T16:05:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210720005035/en/SoftServe-Wins-Google-Cloud-Specialization-Partner-of-the-Year-Award-for-Machine-Learning"
-webUrl: "https://www.businesswire.com/news/home/20210720005035/en/SoftServe-Wins-Google-Cloud-Specialization-Partner-of-the-Year-Award-for-Machine-Learning"
+originalUrl: "https://www.financialbuzz.com/softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning/"
+webUrl: "https://www.financialbuzz.com/softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning/"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Finance
@@ -21,20 +21,20 @@ topics:
 
 related:
   - title: "Roostify Named 2020 Google Cloud Technology Partner of the Year for AI and Machine Learning"
-    excerpt: "SAN FRANCISCO, July 20, 2021 /PRNewswire/ -- Roostify, a premium home lending technology provider, is pleased to announce that it has been named recipient of the 2020 Google Cloud Technology Partner of the Year Award for AI and ML for its enhanced document ..."
-    publishedDateTime: 2021-07-20T18:20:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-19e86229b9b8a7afced2c2dd38ffd105"
+    excerpt: "Roostify, a premium home lending technology provider, is pleased to announce that it has been named recipient of the 2020 Google Cloud Technology Partner of the Year Award for AI and ML for its enhanced document intelligence"
+    publishedDateTime: 2021-07-20T18:24:00Z
+    webUrl: "https://www.lelezard.com/en/news-19911572.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 44
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 46
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
-secured: "icO4pR8vpqWweP9/KpfaXARt69GwYPDHvE9hbjNGYY8qCzsfIM4SzXuYh7tRPco4XM/zJ64Q5hqbvniGuajnpXJ/RYZ5tLWg8bPwl8k8NbRNEX/UT2AuMkrt7EpibipoUs67JmWol4Mi+2VAbIj1CPTO9DXJV7ofFb+YYsJBdJZe1cD9KI+U01XEW0/ll7PyYjZ1E1BICltDZiAhZGGGOWPC2r9uZ3wPbgbJQnzUtRvSoft4ECVPDqL2bQyZ7um/tiOAx5JndpnpgkxMwVg14Oy9IBmRxrtGuZOWxnDMFh7UtwNkMit9SvELfzWpX547wZTrEKdtsULAW2kw5VBc9PWs5S+v+uNMrod5Jc38uLGDe7zjgECbYsTwwwJVQI+48idNWSP48oJeJmW4DQrahG0eGgkHCPpmyY8OPwVAux5zYM3iRLXPhxD8kbjG2/9vok1xlCDVJpcR94Vvw82cXnCD7Pwj7Otkzi+UYgYPaF3R/CSJeXHmioog+VGEyTy99/S/Ld3GyBPPkp3SPkDNKw==;sif6A7k1y3iP4NQnLFe76A=="
+secured: "ZnIcb5L9c8zIWi65i5QRoWuw1VH0436l7T7HzTO5yfavXcLji+KX2KEasaor6I4v/jgiSJpa+rYzoHLYQZjGEaEdJWhu8IeTLvH3mG1MZwwOC6K2f2dERZDCfpkRajHwNSBVE5EBXjzflQq7qt4swUsIcTEtqFAsmQIZxCTvGN6+GJvdsSU/pYVJdMIIz+eYLMqbxZNtbmIEStGVHCm+ttZmG0kBWoMsE6UC1TPErKUJGjS/0BSBwyKmVFEpB1AOdTV2tfazkzSkFD6Oi7URN1tzPj8Pn/OfB/6FJ3zYFOekb5iTjg4zUkDqLdvzoJ2tCaaMFiGWPopELI1TmUd7WsvAIBOtV13dtI3Z2yaiLmOPWt6eAWMqv3X/01/yLsSwvwLo6reoP4tg6sWbID/H0fuMpzVm9U+TDuj3dB26nlAaHORmLaBOTQJRZJAUekMXWL2mntHjNVlA94mqO5XhtlElK1I8NNc0Rdwvi5YT/05XPs6cePrNaah2XLgEbu7JgHRG851YLbHrUimjTDJo7w==;W4hnJMzGOn+yvMPjlJHtDA=="
 ---
 

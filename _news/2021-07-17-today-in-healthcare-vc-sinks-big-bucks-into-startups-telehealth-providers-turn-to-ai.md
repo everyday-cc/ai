@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehe
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: pymnts.com
@@ -27,49 +27,30 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches HealthLake to help health care organizations query medical data"
-    excerpt: "AWS has made its cloud -based health care data lake solution, Amazon HealthLake, generally available to customers. With this solution, health care organizations can pull medical information from different sources into a single environment and use it to improve patient care."
-    publishedDateTime: 2021-07-16T18:14:00Z
-    webUrl: "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query"
-    ampWebUrl: "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp"
+  - title: "2 Great Growth Stocks in the Healthcare Sector"
+    excerpt: "Unprecedented advancements in the healthcare industry and emerging next-generation solutions are driving investor interest in the healthcare space. Thus, we think it could be worth betting on healthcare stocks DENTSPLY SIRONA Inc."
+    publishedDateTime: 2021-07-19T20:37:00Z
+    webUrl: "https://stocknews.com/news/xray-brkr-2-great-growth-stocks-in-the-healthcare-sector/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 86
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1578930668/itpro/2020/01/Doctor_using_AI_to_support_diagnosis.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "Amazon rolls out AWS For Health cloud services for healthcare, genomics and biopharma"
-    excerpt: "Amazon's cloud division has rolled out AWS for Health, a set of services and partner solutions for healthcare, genomics and biopharma. Amazon says the portfolio of solutions will help to accelerate innovation from \"benchtop to bedside\" as the tech giant pushes further into the healthcare and life sciences markets."
-    publishedDateTime: 2021-07-19T19:13:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/amazon-rolls-out-aws-for-health-as-cloud-services-for-healthcare-genomics-and-biopharma"
+      name: Stock News
+      domain: stocknews.com
+    quality: 39
+  - title: "5 healthcare innovation trends to keep a close eye on"
+    excerpt: "As healthcare's digital transformation continues, new trends arise each year. Below are five innovation trends to which health systems' innovation leaders have been paying especially close attention in 2021: Digital health startups raised $14."
+    publishedDateTime: 2021-07-20T21:29:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/5-healthcare-innovation-trends-to-keep-a-close-eye-on.html"
     type: article
     provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 49
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
     images:
-      - url: "https://qtxasset.com/fiercehealthcare/1626713437/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?fMn1pTKdQf6jsQ30yFiTjsKJDN3Vq5wq"
-        width: 4432
-        height: 2955
-        isCached: true
-  - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
-    excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"
-    publishedDateTime: 2021-07-20T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/680972/Redox_Logo.jpg?p=facebook"
-        width: 902
-        height: 475
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/7.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "AscellaHealth Announces Partnership with Banjo Health Inc., Improves Patient Care by Streamlining the Prior Authorization Process"
     excerpt: "AscellaHealth, a global specialty pharmacy and healthcare solutions company, today announces the signing of a multi-year partnership with Banjo Health, a market leader in artificial intelligence (AI)-powered Prior Authorization (PA) solutions,"
