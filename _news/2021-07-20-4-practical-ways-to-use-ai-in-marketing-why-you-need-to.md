@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial intelligence of things at the edge"
-    excerpt: "Gartner has predicted that 75% of data will be processed at the edge by 2025, and artificial intelligence of things (AIoT) is moving from concept to reality. Is your enterprise ready? Download this white paper to discover Advantech’s plug-and-play computing platforms and software frameworks that strive to simplify and streamline deployment of new applications in edge and embedded scenarios."
-    publishedDateTime: 2021-07-18T03:33:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1624448833_674.html"
-    type: article
-    provider:
-      name: Bitpipe
-      domain: bitpipe.com
-    quality: 37
-    images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1624448833_674_lg.jpg"
-        width: 315
-        height: 408
-        isCached: true
   - title: "The startup harnessing AI to make your bus arrive on time"
     excerpt: "A complaint about the inefficiency of manmade decision-making leads to Optibus, a company ensuring smoother travel in 500 cities worldwide."
     publishedDateTime: 2021-07-20T06:07:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.genengnews.com/news/speech-neuroprosthesis-translates-
 webUrl: "https://www.genengnews.com/news/speech-neuroprosthesis-translates-brain-waves-into-sentences-in-paralyzed-man/"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Paralyzed man communicates through brain waves in groundbreaking demo"
-    excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
-    publishedDateTime: 2021-07-17T03:27:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 59
-    images:
-      - url: "https://media.khou.com/assets/CCT/images/b19a5c2d-2f27-42c1-ac0c-3d74a0b4c87a/b19a5c2d-2f27-42c1-ac0c-3d74a0b4c87a_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Device taps brain waves to help paralyzed man communicate"
     excerpt: "In a medical first, researchers have harnessed the brain waves of a paralyzed man unable to speak to help him communicate better."
     publishedDateTime: 2021-07-17T21:08:00Z

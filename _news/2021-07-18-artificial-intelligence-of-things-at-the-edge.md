@@ -24,49 +24,141 @@ images:
     isCached: true
 
 related:
-  - title: "How To Make Ethical Use Of AI In The Hiring Process"
-    excerpt: "Global corporate investments in AI are projected to double to around $110 billion over the next two years. One of the main areas of application for organizational AI is recruitment (e.g., staffing, hiring,"
-    publishedDateTime: 2021-07-19T13:55:00Z
-    webUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-ethical-use-of-ai-in-the-hiring-process/"
+  - title: "The Evolution of Deep Learning and AI"
+    excerpt: "Deep Learning is a relatively new technology, yet its already driving great advances in visual recognition, natural language processing, text analysis, cybersecurity and more. Increasingly ..."
+    publishedDateTime: 2021-07-19T09:49:00Z
+    webUrl: "https://www.itpro.co.uk/technology/machine-learning/360157/the-evolution-of-deep-learning-and-ai"
+    ampWebUrl: "https://www.itpro.co.uk/technology/machine-learning/360157/the-evolution-of-deep-learning-and-ai?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/360157/the-evolution-of-deep-learning-and-ai?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f5837b1a2db6fca4092d1a%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625755860/artificial_intelligence_machine_learning.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "4 Practical Ways to Use AI in Marketing (& Why You Need To)"
-    excerpt: "We’re more than halfway through 2021 and by now, most marketing teams are heavily reliant on growth/digital marketing, and"
-    publishedDateTime: 2021-07-20T15:00:00Z
-    webUrl: "https://www.business2community.com/online-marketing/4-practical-ways-to-use-ai-in-marketing-why-you-need-to-02420037"
-    ampWebUrl: "https://www.business2community.com/online-marketing/4-practical-ways-to-use-ai-in-marketing-why-you-need-to-02420037/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/online-marketing/4-practical-ways-to-use-ai-in-marketing-why-you-need-to-02420037/amp"
+  - title: "Artificial Intelligence and Machine Learning course at CIT"
+    excerpt: "Ponnampet: A new engineering course in Artificial Intelligence and Machine Learning (AI & ML), an allied branch of Computer Science and Engineering, is being introduced at Coorg Institute of Technology (CIT),"
+    publishedDateTime: 2021-07-20T14:01:00Z
+    webUrl: "https://starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/"
+    ampWebUrl: "https://starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/"
+    cdnAmpWebUrl: "https://starofmysore-com.cdn.ampproject.org/c/s/starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
+      name: Star of Mysore
+      domain: starofmysore.com
+    quality: 78
+    images:
+      - url: "https://starofmysore.com/wp-content/uploads/2021/07/news-12-Coorg-Institute-Technology.jpg"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Advances in machine learning and AI unlock myriad of applications"
+    excerpt: "The July 2021 issue of IEEE/CAA Journal of Automatica Sinica features six articles that showcase the potential of machine learning in its various forms."
+    publishedDateTime: 2021-07-19T06:25:00Z
+    webUrl: "https://www.news-medical.net/news/20210719/Advances-in-machine-learning-and-AI-unlock-myriad-of-applications.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210719/Advances-in-machine-learning-and-AI-unlock-myriad-of-applications.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210719/Advances-in-machine-learning-and-AI-unlock-myriad-of-applications.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
     quality: 74
     images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/07/benefits-ai-marketing-artificial-intelligience.png"
-        width: 715
-        height: 292
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/7/Applications_Unlocked_by_Artificial_Intelligence_-_Copy.jpg"
+        width: 547
+        height: 950
         isCached: true
-  - title: "The startup harnessing AI to make your bus arrive on time"
-    excerpt: "A complaint about the inefficiency of manmade decision-making leads to Optibus, a company ensuring smoother travel in 500 cities worldwide."
-    publishedDateTime: 2021-07-20T06:07:00Z
-    webUrl: "https://www.israel21c.org/the-startup-harnessing-ai-to-make-your-bus-arrive-on-time/"
+  - title: "Watson as a Warning: Current Limits and Promise of AI"
+    excerpt: "We can’t seem to decide whether AI will replace humanity as the dominant intellectual force or it will simply be a sideshow never reaching its promise. Is AI the technology of the future, or wil"
+    publishedDateTime: 2021-07-20T17:17:00Z
+    webUrl: "https://www.natlawreview.com/Node/153737"
+    ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
     type: article
     provider:
-      name: Israel21c
-      domain: israel21c.org
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 74
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "Getting Industrial About The Hybrid Computing And AI Revolution"
+    excerpt: "For oil and gas companies looking at drilling wells in a new field, the issue becomes one of return vs. cost. The goal is simple enough: install the"
+    publishedDateTime: 2021-07-21T17:40:00Z
+    webUrl: "https://www.nextplatform.com/2021/07/21/getting-industrial-about-the-hybrid-computing-and-ai-revolution/"
+    ampWebUrl: "https://www.nextplatform.com/2021/07/21/getting-industrial-about-the-hybrid-computing-and-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/21/getting-industrial-about-the-hybrid-computing-and-ai-revolution/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/oil-and-gas.jpg"
+        width: 1030
+        height: 579
+        isCached: true
+  - title: "Artificial Intelligence Therapy Reduces Depression and Anxiety"
+    excerpt: "A study looks at an artificial intelligence telehealth mental health app to see its effectiveness in decreasing depression and anxiety in those who experience symptoms."
+    publishedDateTime: 2021-07-19T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-therapy-reduces-depression-and-anxiety"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "Roostify Named 2020 Google Cloud Technology Partner of the Year for AI and Machine Learning"
+    excerpt: "Roostify, a premium home lending technology provider, is pleased to announce that it has been named recipient of the 2020 Google Cloud Technology Partner of the Year Award for AI and ML for its enhanced document intelligence"
+    publishedDateTime: 2021-07-20T18:24:00Z
+    webUrl: "https://www.lelezard.com/en/news-19911572.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 46
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Using AI and a lawn sprinkler to keep people out of the yard"
+    excerpt: "Having people walk through your yard can get annoying. Not only could heavy foot traffic kill your beautiful lawn, but some disrespectful people will even let their pets do their business on your property without cleaning it up."
+    publishedDateTime: 2021-07-19T18:44:00Z
+    webUrl: "https://www.komando.com/video/komando-picks/using-ai-and-a-lawn-sprinkler-to-keep-people-out-of-the-yard/799168/"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
     quality: 37
     images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2021/07/johen-redman-unsplash.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.komando.com/wp-content/uploads/2017/02/Kim-Komando-Show-Logo-576x576.jpg"
+        width: 576
+        height: 576
+        isCached: true
+  - title: "Maxim Integrated's Hand-Held Camera Cube Reference Design Enables Artificial Intelligence at the Edge for Vision and Hearing Applications"
+    excerpt: "Today Maxim Integrated Products, Inc. (NASDAQ: MXIM) unveiled the MAXREFDES178# camera cube reference design, which demonstrates how Artificial intelligence (AI) applications previously limited to machines with large power and cost budgets can be embedded in space-constrained,"
+    publishedDateTime: 2021-07-20T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-hand-held-camera-cube-reference-design-enables-artificial-intelligence-at-the-edge-for-vision-and-hearing-applications-1030624731"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1577187/Maxim_Integrated_Products_MAXREFDES178.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "N4FZ1tXXdHexj6UVMQ/e/YeJau3q/Nj10ZjAX/Giysg3Y7HTRxETU7KWwKZAx0zTNWURp8evFefUGDeBtwaTJIMyTOX+NugpSUrJn04GzhwPB6KHpAuLLbRdDIR8P6F3xVSlnJF+ECOMd0PmQjnAeZVszkBnOSQF5wef5XQn2It0nXlSoTTjYo7lXN75ZGuS7yPDY0+CpKAzRxCEse44N9OOV+9X0z8fBWn2zcgrKK+KL1+HMUHW7FGQROQrfi2Au+Kry/A2U7jvQ57GxfKLlcHL+4Wbst5OG0d6AbiuyEs/b8WbW4aPmRfIjZlUcI3ts0fzbx7A9+SGE7YhYZKtp8Blfh9b60/WQBUE0gEISqJ5JGw3R5uTleC9TkEqVT9MnJwr0DSUJWW7Uta8LSeX0dA5aARxjsQ2QbTOX+UMh5GZkh0f8ZAmXB731uDi48GfRbfBeJlzn8zhK+OI9LDZYzXLGG2PVfZu0iEsxbw7aBQLSVkLaCTx/VHn71QQUsIfPRKGVSMyglrbGI6j8GZbZw==;52mLWpVdDabzns8Xi6NWbA=="

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "China’s JD spins off cloud and AI businesses to fintech unit"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-07-17T04:04:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit-2/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626473428_reuters-default.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "The fintech landscape in Latvia – Interview with the Financial and Capital Market Commission"
     excerpt: "Marine Krasovska, Director of financial innovation department, FCMC, offers key insights into the Latvia-based fintech"
     publishedDateTime: 2021-07-19T08:49:00Z

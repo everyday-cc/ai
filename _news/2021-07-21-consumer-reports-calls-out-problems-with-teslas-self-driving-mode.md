@@ -79,22 +79,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Tesla launches its Full Self-Driving subscription package for $199 per month"
-    excerpt: "Tesla has officially launched its Full Self-Driving subscription package for $199 per month or $99 for those who have previously bought the now discontinued Enhanced Autopilot package. Tesla FSD Subscription Tesla currently sells the Full Self-Driving package for a one-time payment of $10,"
-    publishedDateTime: 2021-07-17T03:33:00Z
-    webUrl: "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/"
-    ampWebUrl: "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 86
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Consumer Reports concerned Tesla uses owners to test unsafe self-driving software"
     excerpt: "A Tesla in full self-driving mode makes a left turn out of the middle lane on a busy San Francisco street. It jumps in a bus lane where it’s not meant to be. It turns a corner and nearly plows into parked vehicles,"
     publishedDateTime: 2021-07-20T21:47:00Z

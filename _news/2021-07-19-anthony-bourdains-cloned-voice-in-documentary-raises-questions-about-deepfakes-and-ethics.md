@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/entertainment/article/3141659/anthony
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/entertainment/article/3141659/anthony-bourdains-cloned-voice-documentary-raises-questions"
 type: article
 quality: 94
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -122,22 +122,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "“Dicey Territory”: Controversy Erupts Over AI-Generated Voiceover In Morgan Neville’s Anthony Bourdain Documentary ‘Roadrunner’"
-    excerpt: "Normally on the opening day of a Morgan Neville film, the talk would be about box office potential—after all, his 2018 Mr. Rogers documentary Won’t You Be My Neighbor? earned an astounding $23"
-    publishedDateTime: 2021-07-17T03:44:00Z
-    webUrl: "https://deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/#!"
-    ampWebUrl: "https://deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/07/roadrunner-a-film-about-anthony-bourdain-ai-technology-director-morgan-neville-focus-features-documentary-news-1234794703/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 31
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2018/01/rexfeatures_9326613io.jpg?w=1024"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "wULoRaRT0o+J8u8YY3d9dutrneAEam9H3LHEHCw1kNR9j0PFIoyzX1hjEWLW1V+H8ELs2yo2xpj6dAs/jORVd/JPiHXjr5SZ0C16TlS5EXwU8I8x9IN+APi7d3h0XgPbFQfMn7psXvNJH1Cy/ehtPqHg+xHTn7hU9QRxxhcBAzfG/Szg8hEv/5IxReXtFhZ42m+1W6H5NSLULRVS6ixSmKaMf+3B8citxNT9VTADyDJAybXRELQB9Yo1Tv9wHAaRDn+QzarfFPCCqFP3s5tvYLUxUtem3M03BDw7zmYqkVcOSCYhykbe1CTXBQZryVOJX4HD++fl4fbymfdtQcBiMSW3pPPtXbSLSEQCCj+c5Oo2noEBK7itazcJqs/CtE6AwY8ZJ8TNm+1aCC3PLaaVlpjYLaHkPQmo9xHITvY4Cex28ZpQMI1zzD3R8bjVAkAAVmei+dpSrl0Yk5ZRVuRJp1e4qvnXbaTzumCJhlXY5nWu9u81q9eh2N5Ju/CPmUc17COxZ5vTLcbaCKcwGxLL0w==;+krThgzqL2DMCmOs5aNGnw=="
 ---

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
-excerpt: "The service using Ford vehicles and a driving system developed by Pittsburgh-based Argo AI will begin in Miami later this year and start in Austin, Texas, in 2022."
-publishedDateTime: 2021-07-21T16:34:00Z
-originalUrl: "https://nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
-webUrl: "https://nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
-ampWebUrl: "https://nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
+excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network"
+publishedDateTime: 2021-07-21T11:23:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
+webUrl: "https://abcnews.go.com/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Lyft-feature.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://s.abcnews.com/images/Technology/WireAP_6eb09e4468b14e6e82e13ffd996d2042_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -279,6 +279,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "zzBoLC5zwSE77vKLbWf4Je+4L8r27kN1s/SHHVv6BR87JA/7RywIKfCp+c7zClXGGdoGWBEDniN5B9dFxbaL+OLj9xGEIXs2DS+HAWHE2SIdpL/HYadDjocilTnLfe1lShf6GelJ7+2w+tkfwHzjqIyKUSIrvTyW50FsJFixLtrZLxkqd3XG6VI4osw45jB7MvVFJk07XHOLngp2/COfoJ9uqx+aK7pAztr6J7VNXwsnhFZgez6UVinf+w0VQSWS8BT1/vtqzsKi2Qe3g87B0YjuOELjHFevHWo5tP0VCQbygFX5ECFeC7fVK82/ayJnX7OLUpreY0IATp5AZwDeHDcklk/tNCbbX6lRsSP7p2w=;V3rJu0b+SzwKDyT36IXhkg=="
+secured: "cNAVdftacFhCQpKBuhwtJ5+0c/V36DvdRbKbIc4F1df3LTWiURsubf3UKBrnFWDuuc/VSE+kHktDeaaJpSGu0tTCf9poAaDuoVhQjsiuiuoa2Rs76uvmVW4W0C/elms+eaQ/luSkVVTp83meNYnpMDWHaqGanTgaGi4a7Xlo0M8VOMy2LJ6cxwi6uhSpvYnJMkOHrfnUhH8B1cADN/oZqLwYv+1wjxTyZXTNat9iCBTlotSRLUUgNWdVp1kUStmQ2ZU6FUxWFhFTs2zHVNI5AvjUn7W5qO9Jik45YMhf9TRCizmZjWTllz+tT9Jh65xbgaUOwfqXybx/KVBNrteKONNZtwSOGy+6iTZO2fqTAmA=;PBPS1zef0R76G9GUhRk4Aw=="
 ---
 

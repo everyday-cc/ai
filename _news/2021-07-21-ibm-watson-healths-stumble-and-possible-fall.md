@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Watson as a Warning: Current Limits and Promise of AI"
-    excerpt: "We can’t seem to decide whether AI will replace humanity as the dominant intellectual force or it will simply be a sideshow never reaching its promise. Is AI the technology of the future, or wil"
-    publishedDateTime: 2021-07-20T17:17:00Z
-    webUrl: "https://www.natlawreview.com/Node/153737"
-    ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
+  - title: "What Ever Happened to IBM’s Watson?"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net IBM’s artificial intelligence ... on a humbler vision for Watson. SHARE THIS POST Find News"
+    publishedDateTime: 2021-07-19T07:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/what-ever-happened-to-ibms-watson-10340508"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 74
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "L7Uh42zaRqyV6pSBaAjkfwIcCutI5rKsV0t/e/pKD1bK13rBIHIenh2BoICu9IX8guGvt+8FwvHJghp2E6qj/Xxqj5/nxSg0WVL1U0k80Xbddym1O2cW4PJXOlUfWBMsfeoIdhKj/0gZm6pvHIkqMh3hv6jj4vMW13t3NOqajmF79oWtRf4oNk7DcQBEieedGLE8+hl0UDBQoPx5s+lVfmCDGdiQMTHG/fowlP4RQ9Nj4hrRj0kTmCvsAHHrrJWr0VR2UlUevackVljN6dCbgahsX1fYqoMt1SwCS2nTMvHmwmtgJmzOsd84FoIpmu5yZ8qNVmztEqKH5tQEULUItysFQfsFNS5BAn2LspZspaM=;V0xRo+ZG4Y+tzxkPQpy7Vg=="
 ---

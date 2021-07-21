@@ -27,93 +27,140 @@ images:
     isCached: true
 
 related:
-  - title: "AI Revolution in 2021: 5 Industries That Are Thriving With Artificial Intelligence"
-    excerpt: "AI or Artificial Intelligence is a buzzword across the world these days. Several industries are prospering with AI implementation, and many others are gearing up to adopt this latest technology to start a journey of steady progress."
-    publishedDateTime: 2021-07-19T07:05:00Z
-    webUrl: "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/"
-    ampWebUrl: "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/amp/"
+  - title: "The Evolution of Deep Learning and AI"
+    excerpt: "Deep Learning is a relatively new technology, yet its already driving great advances in visual recognition, natural language processing, text analysis, cybersecurity and more. Increasingly ..."
+    publishedDateTime: 2021-07-19T09:49:00Z
+    webUrl: "https://www.itpro.co.uk/technology/machine-learning/360157/the-evolution-of-deep-learning-and-ai"
+    ampWebUrl: "https://www.itpro.co.uk/technology/machine-learning/360157/the-evolution-of-deep-learning-and-ai?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/360157/the-evolution-of-deep-learning-and-ai?amp"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 70
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/07/5-Industries-That-Are-Thriving-With-Artificial-Intelligence-.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625755860/artificial_intelligence_machine_learning.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "Busting the myth AI will totally replace QC jobs in the manufacturing industry"
-    excerpt: "Constantly evolving Industrial automation and IoT, availability of big data, and access to improved computing power are some key factors that are driving the Artificial Intelligence (AI) in manufacturing market."
-    publishedDateTime: 2021-07-19T05:28:00Z
-    webUrl: "https://www.dqindia.com/busting-myth-ai-will-totally-replace-qc-jobs-manufacturing-industry/"
-    ampWebUrl: "https://www.dqindia.com/busting-myth-ai-will-totally-replace-qc-jobs-manufacturing-industry/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/busting-myth-ai-will-totally-replace-qc-jobs-manufacturing-industry/amp/"
+  - title: "Artificial Intelligence and Machine Learning course at CIT"
+    excerpt: "Ponnampet: A new engineering course in Artificial Intelligence and Machine Learning (AI & ML), an allied branch of Computer Science and Engineering, is being introduced at Coorg Institute of Technology (CIT),"
+    publishedDateTime: 2021-07-20T14:01:00Z
+    webUrl: "https://starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/"
+    ampWebUrl: "https://starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/"
+    cdnAmpWebUrl: "https://starofmysore-com.cdn.ampproject.org/c/s/starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 53
+      name: Star of Mysore
+      domain: starofmysore.com
+    quality: 78
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/07/workers-5246640_1280_850x400.jpg"
-        width: 850
+      - url: "https://starofmysore.com/wp-content/uploads/2021/07/news-12-Coorg-Institute-Technology.jpg"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Advances in machine learning and AI unlock myriad of applications"
+    excerpt: "The July 2021 issue of IEEE/CAA Journal of Automatica Sinica features six articles that showcase the potential of machine learning in its various forms."
+    publishedDateTime: 2021-07-19T06:25:00Z
+    webUrl: "https://www.news-medical.net/news/20210719/Advances-in-machine-learning-and-AI-unlock-myriad-of-applications.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210719/Advances-in-machine-learning-and-AI-unlock-myriad-of-applications.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210719/Advances-in-machine-learning-and-AI-unlock-myriad-of-applications.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 74
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/7/Applications_Unlocked_by_Artificial_Intelligence_-_Copy.jpg"
+        width: 547
+        height: 950
+        isCached: true
+  - title: "Watson as a Warning: Current Limits and Promise of AI"
+    excerpt: "We can’t seem to decide whether AI will replace humanity as the dominant intellectual force or it will simply be a sideshow never reaching its promise. Is AI the technology of the future, or wil"
+    publishedDateTime: 2021-07-20T17:17:00Z
+    webUrl: "https://www.natlawreview.com/Node/153737"
+    ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 74
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "Artificial Intelligence Therapy Reduces Depression and Anxiety"
+    excerpt: "A study looks at an artificial intelligence telehealth mental health app to see its effectiveness in decreasing depression and anxiety in those who experience symptoms."
+    publishedDateTime: 2021-07-19T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-therapy-reduces-depression-and-anxiety"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
+        width: 690
         height: 400
         isCached: true
-  - title: "Artificial intelligence ai platform Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence ai platform market is expected to grow at a significant CAGR in the period from 2021 to 2027 The Artificial Intelligence AI platform market is said to have a potential scope for growth in the years to"
-    publishedDateTime: 2021-07-19T11:20:00Z
-    webUrl: "https://www.openpr.com/news/2331519/artificial-intelligence-ai-platform-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2331519/artificial-intelligence-ai-platform-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331519/artificial-intelligence-ai-platform-market-share-2021-global"
+  - title: "Roostify Named 2020 Google Cloud Technology Partner of the Year for AI and Machine Learning"
+    excerpt: "Roostify, a premium home lending technology provider, is pleased to announce that it has been named recipient of the 2020 Google Cloud Technology Partner of the Year Award for AI and ML for its enhanced document intelligence"
+    publishedDateTime: 2021-07-20T18:24:00Z
+    webUrl: "https://www.lelezard.com/en/news-19911572.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
-  - title: "Artificial Neural Network Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "Artificial Neural Network Market is projected to rise at a considerable CAGR during the forecast period from 2021 to 2027 The technology is a set of instructions programmed in order to achieve human brain alike operations through machines The advent"
-    publishedDateTime: 2021-07-19T09:57:00Z
-    webUrl: "https://www.openpr.com/news/2331392/artificial-neural-network-market-share-2021-global-trends-key"
-    ampWebUrl: "https://www.openpr.com/amp/2331392/artificial-neural-network-market-share-2021-global-trends-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331392/artificial-neural-network-market-share-2021-global-trends-key"
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 46
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Artificial intelligence of things at the edge"
+    excerpt: "Gartner has predicted that 75% of data will be processed at the edge by 2025, and artificial intelligence of things (AIoT) is moving from concept to reality. Is your enterprise ready? Download this white paper to discover Advantech’s plug-and-play computing platforms and software frameworks that strive to simplify and streamline deployment of new applications in edge and embedded scenarios."
+    publishedDateTime: 2021-07-18T03:33:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1624448833_674.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
-  - title: "Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 The market is growing at a rapid rate due to the rise in the investment in AI technology by big market"
-    publishedDateTime: 2021-07-19T10:28:00Z
-    webUrl: "https://www.openpr.com/news/2331439/artificial-intelligence-market-share-2021-global-trends-key"
-    ampWebUrl: "https://www.openpr.com/amp/2331439/artificial-intelligence-market-share-2021-global-trends-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331439/artificial-intelligence-market-share-2021-global-trends-key"
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 37
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1624448833_674_lg.jpg"
+        width: 315
+        height: 408
+        isCached: true
+  - title: "Using AI and a lawn sprinkler to keep people out of the yard"
+    excerpt: "Having people walk through your yard can get annoying. Not only could heavy foot traffic kill your beautiful lawn, but some disrespectful people will even let their pets do their business on your property without cleaning it up."
+    publishedDateTime: 2021-07-19T18:44:00Z
+    webUrl: "https://www.komando.com/video/komando-picks/using-ai-and-a-lawn-sprinkler-to-keep-people-out-of-the-yard/799168/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
-  - title: "Artificial Intelligence In Military Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "Artificial Intelligence In Military Market is expected to rise at a moderate CAGR during the forecast period from 2021 to 2027 There are various pivotal factors that are driving the global AI in military market which includes growing defense industry"
-    publishedDateTime: 2021-07-19T09:18:00Z
-    webUrl: "https://www.openpr.com/news/2331326/artificial-intelligence-in-military-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2331326/artificial-intelligence-in-military-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331326/artificial-intelligence-in-military-market-share-2021-global"
+      name: Kim Komando
+      domain: komando.com
+    quality: 37
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2017/02/Kim-Komando-Show-Logo-576x576.jpg"
+        width: 576
+        height: 576
+        isCached: true
+  - title: "Maxim Integrated's Hand-Held Camera Cube Reference Design Enables Artificial Intelligence at the Edge for Vision and Hearing Applications"
+    excerpt: "Today Maxim Integrated Products, Inc. (NASDAQ: MXIM) unveiled the MAXREFDES178# camera cube reference design, which demonstrates how Artificial intelligence (AI) applications previously limited to machines with large power and cost budgets can be embedded in space-constrained,"
+    publishedDateTime: 2021-07-20T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-hand-held-camera-cube-reference-design-enables-artificial-intelligence-at-the-edge-for-vision-and-hearing-applications-1030624731"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
-  - title: "Artificial intelligence in transportation Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence in transportation market is expected to grow at a significant CAGR in the period from 2021 to 2027 Government rules for car safety are becoming more stringent as is the use of advanced driver assistance systems ADAS"
-    publishedDateTime: 2021-07-19T11:49:00Z
-    webUrl: "https://www.openpr.com/news/2331537/artificial-intelligence-in-transportation-market-share-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1577187/Maxim_Integrated_Products_MAXREFDES178.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "X0V47FioDtTlwhDgdiYrCXwnaeKDhjlP9hDINdK45rDJdGdAWVAaYMh8+oE1T0PjSYc48kw3SAdJhPSjNymE9kcpLyzUB92elgpxaVG483qOMhVUYDH0T9nTACSg4i3F1si45QTBzl9nrSuylqNeGtKgvbS2MxrVZV8esvrUjk6PkZi0pDAIEtRlUTKjCQT0GWGh+vMO+5cMPLdMYaiS1p8Mm5bNKoCLSpQAj5DMP9uSHFLTJHiGB5kh0NnYy5ZD1aXbBIhnT3qii4qBAAE65+5A5X6MF5q0MjhCKCjzGlwXSsJZNKjrP/zFEx2c1ziQaZ5sCscRbALHk64voFS8G/5RJEvrKxoTo9wOx/DODE2TD7hcgQU6Ak0q1MtHAlZ+m3MnMiPATvIIdW815V7tWVcr3TOovre2yG4pUSP9GVfddkA5//ep8pRJm82hkfhGOxwsf0310Zayr7iot6DMCK0f2yj1kUTmOoJQv69xusizFEDL47f8mQaw4qvGXiPV9T3z5syKlk6UKE+oTAG+jw==;6oBZevTmC1yJEkgZH9eGAg=="
 ---

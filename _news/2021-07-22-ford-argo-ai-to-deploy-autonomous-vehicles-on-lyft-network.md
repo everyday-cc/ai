@@ -160,20 +160,20 @@ related:
         height: 4274
         isCached: true
   - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
-    excerpt: "The service using Ford vehicles and a driving system developed by Pittsburgh-based Argo AI will begin in Miami later this year and start in Austin, Texas, in 2022."
-    publishedDateTime: 2021-07-21T16:34:00Z
-    webUrl: "https://nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
-    ampWebUrl: "https://nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
+    excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network"
+    publishedDateTime: 2021-07-21T11:23:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 57
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Lyft-feature.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://s.abcnews.com/images/Technology/WireAP_6eb09e4468b14e6e82e13ffd996d2042_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Ford, self-driving vehicle company Argo AI to offer autonomous rides on Lyft"
     excerpt: "The service using Ford vehicles and a driving system developed by Argo AI will begin in Miami later this year and start in Austin, Texas, in 2022."
@@ -279,6 +279,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "XwH1U24giIvHMM6DEjuvHEJfh4wf0OzEwPuCYamoh1dqI8ASuL29SgQpzF2+a4NQCKUT/emFdsRvLhC9RWUJHUMdbPM7oINKMOmk6cqbCw1KtrTP99Qh3fq7bm5nVv93uUjuqGapjF8v0wehNYDs3gjExYstNe4Ci/oprm4ddVQlgLi2zPc60/Z2rIEX/nBLBrJibbzR6ExiotoiXsdRxZ9mFCVDl7VDlvGy9TiwAXIYOgYbTtIasMDw6pLEjJFOFXI5qPqprm9zVty8KqZ+BGI+CJfZ3g541Vub7G8fFiK9rl48DWNURWVf+EeVF9ThJMeKgG3JY/toY6aPKkHdnEGbpP16tML3RByOtSS2CKs=;o8zVewEAG1prCOBmGdY8NA=="
+secured: "5iM26rOuSKX9VLh3RAW9dZYLvKxrlOEmnlGfoKH65R/2ehVMS7oznCq/iIIGn6Snud8pnhZGTecOwA4JewwEyxw4vT+3I7Xp7RqxI/k9UbGoHZO+sTu3uXdMv3wvjOQKcnxv8m6ccykXGbLCQV6SEofJ6gN7E5+N4d5DyeJNCdxhc4okKTGVEHMcECTJaonbfnzWY1ilEeXUIHMcxUacLZeELUzTSoiXiI5B8xxcMCNsxmobjfTeoY1YSZdHDTZmenE4OlV5ltvDQtZHirsomoSfnkG0I+lOX6D6P0xSfDh2+JF6CZUD2O+OjDnCV05MLOzaer7zr6e2fKWmMA0t4rrujgNPhba1C2bfsg9oUeUU9P25/TcQ46IcnSqlF++F+22oGpaijUrV6wRaoBfbxTR8Tlw+SARgaNpt3T+jW7PzHiksg22DzfjPOzYc3d4Ajnuqt79whuGrGiLC9vNmlG8HPh1NZ2jyU2q6xyKzDGJN34huX5p/2AUvBaKsETPJWjL4Ug7wZcjLjBj/fUE0Sw==;XYjVGsCk7eOQo9o1GMOChw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/amp/"
 type: article
 quality: 95
-heat: 445
+heat: 435
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f73e8190a528ea18c6f1b4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2912%26cropY1%3D137%26cropY2%3D1775"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Tesla launches its Full Self-Driving subscription package for $199 per month"
-    excerpt: "Tesla has officially launched its Full Self-Driving subscription package for $199 per month or $99 for those who have previously bought the now discontinued Enhanced Autopilot package. Tesla FSD Subscription Tesla currently sells the Full Self-Driving package for a one-time payment of $10,"
-    publishedDateTime: 2021-07-17T03:33:00Z
-    webUrl: "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/"
-    ampWebUrl: "https://electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/16/tesla-launches-full-self-driving-subscription-package-199-per-month/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 86
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Consumer Reports concerned Tesla uses owners to test unsafe self-driving software"
     excerpt: "A Tesla in full self-driving mode makes a left turn out of the middle lane on a busy San Francisco street. It jumps in a bus lane where it’s not meant to be. It turns a corner and nearly plows into parked vehicles,"
@@ -538,6 +522,6 @@ related:
       domain: carscoops.com
     quality: 34
 
-secured: "oXHW7DxokyWpmyCNet24itv673la9N1ACva5tzFAEeH2ZSsPP+X5Lue7mQOIMc6Lve4nP1Vu3DOiPgzUBQqeJloMUuIUEPzIuJo79cdj2XOgv5SIIHEMkyUC1nT4cgCs/DC9L6I1OGJbypK5Hko5YPQkToZoba9UZmc98As0+tllTTShAhN20qB4GaWliQvLV5tFCpYvTs5rXtoUYO1X5EezskyaW6HG85XxZ9kifemjX8QNPPKg6LSfpkhYj3oX01m9K5gvwhGrtQsxTYcna/YjQ0QN5+Fvi/TX053i1Zey4MUEhXMyYVQc7hFnGeC8s+A4KtsPQG3CoWEAIhZa1w1zxkLJCtSaB/lf/nbgoyE=;0vctIXhENbLb1TBZVPoEhw=="
+secured: "ac8oDHZ5WjAI+O+nTzeZWSTGTIEbcH0RecJP7k75RY/WFOyXRgl5OIPOpTscfC3isxUZY47iiAOvuWlG9uJZjCOQPVOOYVB+CLibelL53JtskVrEf+RQgVJ0cwnJ5LhanFDDYijoqR147KYlaTOJfCd36ZSGiyD41+v3pSUBtEJfVg+FBsAKrV3QmUEhSGQarNTT1kf7KJTUldKn2YH6RFcHy/ZF0pEH1iPbqtLWCRlSyVanN+dP0rVtdS8/3y5MDBnvmneemxJnifdLjWZ3XjB6Vg5x4SDxn6321/3dZfm8VltpJCQWZ292H/06PzeA75LzlCh/VNtzGfapzKdtQBzKPNMf/QE0PGuvGrVm0QwS6mjsDMLRCN4Df95wAb+3U2R0titPVDSLGd6aQzswtTgwxXnMFriQsOK3B9/vQw7k4m6vn778m+nbGcnrFwCmq9BmRa8mPuqtREfmz1IJ4XgjvmiSDMuhNpsbUBFGRIpfdRm8qoSG99FniFBgMuiHn6A+zhbdZnGvAgW6VVcTUA==;g9UfW7zh2KVMZ6iD8qFReg=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 600
         height: 570
         isCached: true
-  - title: "China’s JD spins off cloud and AI businesses to fintech unit"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-07-17T04:04:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit-2/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626473428_reuters-default.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "uicK6Mlsatcve4uIZtA6FvVRo+cv9B2gl5PFDR6D2X58qTvUNRtIUnoq1S2ONyBgv173M95WmDG/OdkY1gwgF2TT+WLtX6OSCul8UzmjpOB0DjpdrfAN3gyB55tzZdv5Ugt1UC7+GReAZK/8s/SVDdJZaBU08Z6vcvFwQGr/WvRrWgYimjH7SNbJCS4lTujw5rFa+fKyuA0Xwl6kF7Ct5TA4hbqMNeOqLfaNM09VBpA31FE23qjDEksapP/MaN4Xwv0Kz7UMoiG2BPmRShVBzjhrhlMrpYpQjAqNgqCkpccYV3qkj11otLChMlBLa4N12fP/5w44xDCukOtO5YSMqJ+/PASJ3bT0aQF7QGEm8h4=;hxWC4iXSmhPV/ETjuBpcZQ=="
 ---

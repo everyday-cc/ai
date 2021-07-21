@@ -148,20 +148,20 @@ related:
         height: 4274
         isCached: true
   - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
-    excerpt: "The service using Ford vehicles and a driving system developed by Pittsburgh-based Argo AI will begin in Miami later this year and start in Austin, Texas, in 2022."
-    publishedDateTime: 2021-07-21T16:34:00Z
-    webUrl: "https://nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
-    ampWebUrl: "https://nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
+    excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network"
+    publishedDateTime: 2021-07-21T11:23:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 57
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Lyft-feature.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://s.abcnews.com/images/Technology/WireAP_6eb09e4468b14e6e82e13ffd996d2042_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
     excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network."
@@ -283,6 +283,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "7VZd2IOKZwgA6GFgBJLIy/7Tr+II+bLG4Phlh371ieBm+yuaaYYl9r2c+PPUoEeSdBg+RlItC4Wmwc4bIxf5/GQCoxSSWqXm1RPwR9N/IHKtUCUmlChUTLR3qU1gfzwdL4n5G9vHLrokhV4XPD7aREdxuxgqWOK3yYPmZYJUoIuFugvXpI1bThBzULi22GWIEK8QzJrDAiACH5pYfie1o68dxm6d6FUQbPwsUOKR1oVxquUbTG0KiDd+J7Gs+Qb6D2WBCn6FdATrsGc7FoPX7HhnE7QU+Tc47KilLCdNZ/fCBBDUi27ebdgTAX3Q4XwrKQPtyvgkCegyUIlLtAEq6iKQGldqbSlaiRAEBi8G2IA=;HCQt+xvTF/Ay4JeHqAIFhQ=="
+secured: "GkN1Nvr+2t3foxtKp51/x2lGWNxGpYIVcC0pLu1/K3cMPTlnUEdEt92D0U4GeiP3hyxdF+WxaWHqhhbe3VWoMAqjhLOQBCYcByMhg3Aj76WzgtBDVJQOkXAgS+mn/eddmgU7QS5XBxs7dnl2rxrng8ebEexqnqkx87Hq5lH6SLVqefMqjNOHntLCLOOr6XI+uoQqeB8P9+A5YXR88BIAx7Mb7XUQ21oycCDMaeSH32LqjTGs4dIEBM91zWCdKjfvpd6SIO9yGLLSjrM1CZ4Of1qnRvnoc8qiW5BBxXWwMzEka/8bedAB3GiF0p2WbpRPPuggEuEF6QhWfSU1VSCfgpub8s72IakmdErbBSDX02U56czvzhm01Ez+fqy5QtzfWSWzXjNJr08//nsWMNi2qDE5PeCLvieLRX4q7aQRCBKaOB7NnHOeT7am42bv6Orq0iPXYSzZ+kbayQ9NwAfcERABovlpYBXtByIpjC8lPTx0s7EaB0M9EV/hQUNHUTcZum+a9a0RhCzbNCsU9VVCeA==;xxK98O8r+MsdoFj1FcoKUQ=="
 ---
 

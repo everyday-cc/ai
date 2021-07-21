@@ -149,20 +149,20 @@ related:
       domain: usnews.com
     quality: 63
   - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
-    excerpt: "The service using Ford vehicles and a driving system developed by Pittsburgh-based Argo AI will begin in Miami later this year and start in Austin, Texas, in 2022."
-    publishedDateTime: 2021-07-21T16:34:00Z
-    webUrl: "https://nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
-    ampWebUrl: "https://nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/21/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
+    excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network"
+    publishedDateTime: 2021-07-21T11:23:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 57
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Lyft-feature.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://s.abcnews.com/images/Technology/WireAP_6eb09e4468b14e6e82e13ffd996d2042_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
     excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network."

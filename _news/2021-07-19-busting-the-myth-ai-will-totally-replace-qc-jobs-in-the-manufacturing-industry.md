@@ -42,22 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Getting Industrial About The Hybrid Computing And AI Revolution"
-    excerpt: "For oil and gas companies looking at drilling wells in a new field, the issue becomes one of return vs. cost. The goal is simple enough: install the"
-    publishedDateTime: 2021-07-21T17:40:00Z
-    webUrl: "https://www.nextplatform.com/2021/07/21/getting-industrial-about-the-hybrid-computing-and-ai-revolution/"
-    ampWebUrl: "https://www.nextplatform.com/2021/07/21/getting-industrial-about-the-hybrid-computing-and-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/21/getting-industrial-about-the-hybrid-computing-and-ai-revolution/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/oil-and-gas.jpg"
-        width: 1030
-        height: 579
-        isCached: true
   - title: "Artificial intelligence ai platform Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Artificial intelligence ai platform market is expected to grow at a significant CAGR in the period from 2021 to 2027 The Artificial Intelligence AI platform market is said to have a potential scope for growth in the years to"
     publishedDateTime: 2021-07-19T11:20:00Z

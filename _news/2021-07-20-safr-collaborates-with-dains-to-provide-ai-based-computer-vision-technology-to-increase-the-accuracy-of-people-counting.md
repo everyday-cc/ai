@@ -3,8 +3,8 @@ category: news
 title: "SAFR collaborates with Dains to provide AI-based computer vision technology to increase the accuracy of people counting"
 excerpt: "SAFR from RealNetworks, Inc., a pioneer in high accuracy, low bias facial recognition, announces a collaboration with Dains, a Korean company that specialises in unmanned people and asset"
 publishedDateTime: 2021-07-20T10:15:00Z
-originalUrl: "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html"
-webUrl: "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html"
+originalUrl: "https://www.sourcesecurity.com/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html?ref=nav"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html"
 type: article
@@ -42,6 +42,6 @@ related:
         height: 450
         isCached: true
 
-secured: "2IW02supTPpNOZQg1LJU6onFkNzZCzB4+zoXdtKiTPSHugR8g82cJoFjVN3weifV6Ek//m8CEA12MElDYYm+OxhWgkdfQb4z0qyGc2dZdIJcOSjddhJ3da61KPks43lUZk7GlOUXHsi/I70swsF9GiX6NcZrBPw60ICEO3fzewUd5yzxTXWml9qEh3RAJWEHNKzE7+Aco+68o7udSXO3fpjYEoG6qADZjYSVgviHUkhafxsvd8zynzTzAIvUwkjDs3K/F371qq6RaDfC/1X9oVRXZKMe7d+4WIMXy/6ORvQbHB/yKfodCJyykZDHLLkVnaAsykXF7QCA3qzofvkaHW16UANZN7juiIJBCJRA0Nw/W/PGe/vTdXdfYv2tSEs93UdKh9Dg2JASRzTEyUPIIVGFFOJIdQDl3nwqakMEQHuYaoA05JEzqHVNvWYm/5XRfWS4wCAHn9oat2KfuqVp74xMeftoJTaUy4cWUn2j6YCSGaHTCP0WDtebdy3JkHs6165P66Yr85/yfKeLzbHbsg==;TSWpwLKtYFq/Jc1DKCl82Q=="
+secured: "tVVHgjVYHeEkZEoIEiKtpUa5wEiYmamG71WTngc47IMbcvRKRNdwlK5MUi1Jiacpi+2VErmOQiGDbGDxhfeLRS7HV712FG6z6+MOPtXhEr2l98Kk/ThYzNc6/mKlVVk+CGVHLsQWUEHaQOMbWQzrkHt4eoV4gobT+rC8BM7ad2QSZWoJP+prja3f298y00jvkAbyKT9kh7+//DpU8g2N76x8L33jzjK9eAPj2i8mHQguLJrfGn5utglohFjCT2nTF8iarmRfI0XxQZggzRSc3+5Y3x5QCU+5k1faLO+uCQ4WSvbgf295w63c+SjLesRyf19P/5RNRiektPgvLUFchhfLdD5hmH4uEnokzR/FjLQ=;OmUaBv6Hfosc9Z7AN2tRDw=="
 ---
 
