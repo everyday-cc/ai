@@ -9,7 +9,7 @@ ampWebUrl: "https://nextpittsburgh.com/latest-news/pittsburgh-left-puts-self-dri
 cdnAmpWebUrl: "https://nextpittsburgh-com.cdn.ampproject.org/c/s/nextpittsburgh.com/latest-news/pittsburgh-left-puts-self-driving-cars-to-the-test-and-argo-ai-is-ready-to-pass/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 750
     height: 500
     isCached: true
-
-related:
-  - title: "Crowe expected to start as Pittsburgh hosts New York"
-    excerpt: "(lat strain), Ka'ai Tom: (back), Gregory Polanco: (hip), Colin Moran: (wrist), Erik Gonzalez: (side). Mets: Jordan Yamamoto: (shoulder), Noah Syndergaard: (elbow), Sean Reid-Foley: (elbow), David Peterson: (side), Corey Oswalt: (knee), Joey Lucchesi ..."
-    publishedDateTime: 2021-07-17T07:54:00Z
-    webUrl: "https://www.idahopress.com/sports/national/crowe-expected-to-start-as-pittsburgh-hosts-new-york/article_d9dd40ad-2081-5fa7-bf15-258d60802231.html"
-    type: article
-    provider:
-      name: Idaho Press
-      domain: idahopress.com
-    quality: 2
 
 secured: "5oXoLxHFiDTlFUAlgGVGLvNax4ttq3Kba/UUwU4U1UR3O6dkCB04X4ncw7cwOvB+9IR2hr8h+0IyWEDqTvP7R9FTXJhAa5LeUUzBLlDx5M0sL9xQ/3RoGOPEUCDqPOuXarPk9jdvDswPsEgcRXIWkZKo/JxkxgwF5+cf0q4QF2y6E4wd5ieactyg5hxeqNPh5eSPe9RHP8hQr8bZRJupUCMAkLtDYAqoiDV98iNZc5EpJqeTqsvcSqmxIkBxpZ3ywuBVGjJPFBmkoQYcwf9wcQvhYluvsSEBXB+ZjUOgVRH+1PrM9q6YXWje8MNahK8Uj+BEdQN1LJ6Jct7YjSIRbO10Y8kJ++RagUSCNqdQ3iP8P6zFv2//DAZV0Y1j/lO2QVWRZ0pxCoTZCfTn/2T9nOxwA5wwoTvVDKEaYrFffQMDGgUdBw3E9XRhbzX7i8lVGVeexETictOt9dxQAkWO31RJyoYDySVkqBmqGAmo3Glz4RMdrrVj6ENZqfaAnZ6EGbS84yBcqHx1POgKNm04Lw==;/HBmEb5NpFmD+B+CL3hK7g=="
 ---

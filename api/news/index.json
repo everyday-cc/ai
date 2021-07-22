@@ -849,7 +849,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -935,6 +935,50 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-a-run-down-on-deep-learning-trends-driving-ai-development.md",
+      "title": "A Run-down on Deep Learning Trends Driving AI Development",
+      "excerpt": "Deep learning has evolved to be the power behind artificial intelligence models. Therefore, in the digital era, deep learning trends driving AI development is taking centre stage in the growth of technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/a-run-down-on-deep-learning-trends-driving-ai-development/",
+      "originalUrl": "https://www.analyticsinsight.net/a-run-down-on-deep-learning-trends-driving-ai-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/A-Run-down-on-Deep-Learning-Trends-Driving-AI-Development.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1177,57 +1221,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-neurotechnology-releases-mobile-app-for-sentisightai.md",
-      "title": "Neurotechnology Releases Mobile App for SentiSight.ai",
-      "excerpt": "Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, has released a SentiSight.ai mobile app that enables users to easily use image recognition models from their phone.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/neurotechnology-releases-mobile-app-for-sentisight-ai-1030629432",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/neurotechnology-releases-mobile-app-for-sentisight-ai-1030629432",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1578204/SentiSight_app_2.jpg",
-          "width": 400,
-          "height": 265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

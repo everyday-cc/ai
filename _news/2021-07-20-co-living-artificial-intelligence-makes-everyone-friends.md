@@ -24,21 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI Makes A Play Into Pranks"
-    excerpt: "AI can do a lot of things: protect our data, order a pizza, optimize our shopping journeys. But it can also allow us to optimize the pranks we want to play."
-    publishedDateTime: 2021-07-17T08:00:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ai-makes-play-into-pranks/"
-    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ai-makes-play-into-pranks/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/ai-makes-play-into-pranks/amp/"
+  - title: "A Run-down on Deep Learning Trends Driving AI Development"
+    excerpt: "Deep learning has evolved to be the power behind artificial intelligence models. Therefore, in the digital era, deep learning trends driving AI development is taking centre stage in the growth of technology."
+    publishedDateTime: 2021-07-21T12:30:00Z
+    webUrl: "https://www.analyticsinsight.net/a-run-down-on-deep-learning-trends-driving-ai-development/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/sprinkler-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/A-Run-down-on-Deep-Learning-Trends-Driving-AI-Development.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Emerging Trends: Artificial Intelligence for data economy"
+    excerpt: "According to a survey[1] of 1200 companies across the globe, more than 60% of data service providers believe that Artificial Intelligence (AI) is the future of their business. And quite rightly so, given that the growth of AI to unlock the value of data is ..."
+    publishedDateTime: 2021-07-18T12:56:00Z
+    webUrl: "https://www.wlv.ac.uk/business-services/funding-and-support/solvd/emerging-trends-artificial-intelligence-for-data-economy/"
+    type: article
+    provider:
+      name: University of Wolverhampton
+      domain: wlv.ac.uk
+    quality: 37
+    images:
+      - url: "https://cdn-wlvacuk.terminalfour.net/media/departments/business-solutions/images/solvd/Fahad-Blog-Image-1-437x291.jpg"
+        width: 437
+        height: 291
         isCached: true
 
 secured: "Xzv4UM+71lMTs+MOq7o0tT7Oc0yglYSJaRAKL+vORpF6DqLc6bMuPHVSth0jSArd5NaiNAxWzu8y7qc+vROG0Fy5VSe8ineH8Ej4N7+nQOI/1/l4dEnPxS72SX4NGo8YscifALYSQy1TSWz67L3ZZNPtvhAmpxaKqDjA0SXI1xu0jIgKRZD4ifwi2vdPKWXuWbli0BV1Chc1FTDeSDCEIp4v0vYmOj6yaCJRH5mutlUNakPMXLLwg6uhnGCcKxlR45BbwwsvagnwtcNKGrFyxFUsOgJGARHwuJoGdMW9VLAWMXLrWyY8quLduXa02xz6uweIWeIm+/3+8OjDHWOlFtSFU+tcP6yi+Iq+Z4g69Uo=;UZg7HR9on3pilaJ9mqPTDA=="

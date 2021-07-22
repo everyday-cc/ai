@@ -140,15 +140,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Healthcare Applications Market Size, Status and Forecast 2021-2027 report by QYResearch Group. North America is expected to be the largest and"
-    publishedDateTime: 2021-07-17T07:36:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4677370-global-artificial-intelligence-for-healthcare-applications-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 19
   - title: "Self-driving Car Technology Market Present Scenario and Growth Prospects 2021-2026"
     excerpt: "The Global Self-driving Car Technology market exhibits comprehensive information that is a valuable source of insightful data for business strategists during the decade 2015-2026. On the basis of historical data,"
     publishedDateTime: 2021-07-18T02:42:00Z

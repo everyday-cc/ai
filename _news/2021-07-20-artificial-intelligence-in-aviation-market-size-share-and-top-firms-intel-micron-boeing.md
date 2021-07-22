@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-mar
 webUrl: "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market"
 type: article
 quality: 126
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 15
-  - title: "Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Fintech Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence has become a leading trend that affects"
-    publishedDateTime: 2021-07-17T07:38:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4657100-global-artificial-intelligence-in-fintech-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
   - title: "Global Medical Imaging Artificial Intelligence Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Medical Imaging Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Medical Imaging Artificial Intelligence"
     publishedDateTime: 2021-07-19T22:35:00Z

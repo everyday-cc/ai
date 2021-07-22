@@ -7,8 +7,8 @@ originalUrl: "https://www.analyticsinsight.net/a-run-down-on-deep-learning-trend
 webUrl: "https://www.analyticsinsight.net/a-run-down-on-deep-learning-trends-driving-ai-development/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Analytics Insight
@@ -39,6 +39,20 @@ related:
       - url: "https://cdn-wlvacuk.terminalfour.net/media/departments/business-solutions/images/solvd/Fahad-Blog-Image-1-437x291.jpg"
         width: 437
         height: 291
+        isCached: true
+  - title: "Co-Living Artificial Intelligence Makes Everyone Friends"
+    excerpt: "But real life can be more challenging, and flatmates falling out is the co-living operator’s worst nightmare. Now tech-enabled ‘community psychology’ is being trialed in three Swedish co-living schemes in an effort to banish the bad dream,"
+    publishedDateTime: 2021-07-20T15:48:00Z
+    webUrl: "https://www.bisnow.com/london/news/build-to-rent/co-living-nightmares-and-ai-dreams-as-swedish-tech-makes-everyone-friends-109604"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 37
+    images:
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2018%2F10%2F5bb30cb4a9892_coliving_at_the_collective_old_oak_common_jpg.png&width=1200&sign=eM20BDGRT0inNmXQQcTuO9Y2FI4ASE3zxhlhm6NDWUE"
+        width: 990
+        height: 675
         isCached: true
 
 secured: "7ZZWT7FzRmN1wW4KaiJgey64gVdRV09Kaeiqc5Jo98NNXOc7yMj+clnsDuLoXgF1Zkgtfk/xfMLXMrI3PePuDdwYmiDvaU4LPORYuY0gsOIAWSwlk9R/9A0T2j9izWMeaGGCkVWRyuif8K2/zWgpPsG6mFPtS24iaejjc1+1fapZ377Z2br7Ak5j7zM99O3+hvD+Zzdr7ld5/RJE/RmDiO3jY2lgagUXe4vTfGMAGUYpW+sqPAmobBAxPuqOu/rZhJmp4BNqpZD2mZQi6fHh485nGwJKPaJJELlb8XgE9OcaGSmLVqvnwLaLZMMVZbGIiDrTSUJPWRPlT5i/WiKHgShW90r4xnIMXi4Ai+Szjzgmf7rHrHVsDMJkqMMlSzkH57BN9j5toww0B2t4XevNmXa3G6ITdvxPMYReHCpBzUrbsfmnG31pPX3GQMKCoFDrn6J393tOQivk0magAoYtkqHGIlvMYXvRBMOp1OiuDBL9TDtj/aLzYqqUSeRsVl0iFm0Zj0bIRa5nIzsO/isJlA==;FR7+0nRqS9Ce8qG0cdVquQ=="

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI narration of chef Anthony Bourdain's voice sparks row"
-    excerpt: "ethics lead at the Alan Turing Institute, said the issue showed the importance of informing audiences that AI was being used, to prevent people possibly feeling deceived or manipulated. But he said that although it was a complex issue, the use of AI ..."
-    publishedDateTime: 2021-07-17T07:58:00Z
-    webUrl: "https://www.bbc.com/news/technology-57842514?at_campaign=64&at_medium=custom7&at_custom4=A74029AE-E63A-11EB-808A-27ED4744363C&at_custom1=%5Bpost+type%5D&at_custom2=twitter"
-    ampWebUrl: "https://www.bbc.com/news/technology-57842514.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57842514.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7458/production/_119448792_gettyimages-187622944.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Use of AI to copy Anthony Bourdain's voice for documentary sparks criticism"
     excerpt: "\"I think this is pretty grotesque.\" A New Yorker review of Roadrunner, the new documentary on Anthony Bourdain, is getting extra attention for one anecdote mentioned toward the end. In the article, published Thursday,"
     publishedDateTime: 2021-07-18T00:13:00Z

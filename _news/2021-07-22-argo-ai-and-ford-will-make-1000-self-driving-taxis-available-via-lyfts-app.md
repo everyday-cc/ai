@@ -270,15 +270,15 @@ related:
         height: 532
         isCached: true
   - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
-    excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network."
-    publishedDateTime: 2021-07-21T20:10:00Z
-    webUrl: "https://www.kentucky.com/news/business/article252918668.html"
-    ampWebUrl: "https://amp.kentucky.com/news/business/article252918668.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article252918668.html"
+    excerpt: "Lyft will offer autonomous rides using Ford vehicles and a driving system developed by Argo AI starting in Miami this year, initially with human backup drivers."
+    publishedDateTime: 2021-07-22T01:47:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/?amp=1"
     type: article
     provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 37
   - title: "Ford & Argo AI to Deploy Self-driving Vehicles on Lyft's Ride-Hailing Network This Year"
     excerpt: "Lyft Inc customers in Florida might be picked up in a self-driving vehicle by the end of this year. Ford Motor Co and its autonomous driving partner Pittsburgh-based Argo AI plan to self-driving vehicles on Lyft’s ride-hailing network by the end of the year,"
@@ -304,6 +304,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "6WQdJeKxxvs7Lj282eZ+/16exYLuIZxhzjKypu+kt9ZwwloAEKI8D4tBOyTpuHLNxYwXj5NrXXe+1l1iaMRwKvfvBvDPBWrPNq8ROvDdMP+7cRYa9kUMhRDrgP3CKl5lp1jE6BoxyQCLnkB0PV06Jh0diS3N0XjSOVhtabfxYbDoHDot6grEce2wQh9mknedtNE4ZT56H2r5Kd9WNU3RobjJ6eRXX3PT+dIo5QmptZWx03G2wN8c8m4P2tDCBSFAbwW1++91SrMoxBUtkXuNS1/bqa5FUwhJCI9u/wIbIhiwRTxSkh8wN3qPzgnByC//vop6GkOlbx35TPaAwo3igChTjPotyRbQ8F+4/6BFEeo=;D0stdiWqQxfxVAFxoY8p3w=="
+secured: "ow+OaXBkVlbltDLhXEz81L3lVVtHMkE14CAZi0682t8C3gdAs45JfA0rGftKZ6giJEn2iPjKE3qdfcsKXRJhDTkca6hjdJntE57fzvpd7KeMrX/z0iHGqFd9nqwXSFXQGU5Am3dASQQWy8knsJjLli79Px6mWESs4zwHe6r9rwkCmE5JNv3GVCWbXWJfFqA6eF/Qx9w7KmoOWs6kYsHePU4J9HxVP0szaufypiZcCQbCsvjYJfa8sqq9iipj0VUK6CJD5+ijJ2iNOYr1EBG/SsXT8upydXLO27J5YzS2oJEXANYrIM2Hwdz4cS0pmgWTl6uGOvoJJDiDzdzNs1QWUw0qgrMArkxFCvbbEZIVj9LIhbLqIdj1dCcBsvHXVzlO+3h+7kyt/DD51wFZ5rIgjtYMYJrcseuDHvTzamBdN3jPnrxrRsEEPXpWwfvxMkbcFyP1xdbq8/HYiPQ54jiwC/b9im1beN3ykajSaAi2Frp6QoRjaACOzOBjYPd7KqnFMdOnO5k7tsCRuvoQyofd7A==;bfPH1j4brR3taLcfVgMCdg=="
 ---
 

@@ -261,15 +261,15 @@ related:
         height: 532
         isCached: true
   - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
-    excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network."
-    publishedDateTime: 2021-07-21T20:10:00Z
-    webUrl: "https://www.kentucky.com/news/business/article252918668.html"
-    ampWebUrl: "https://amp.kentucky.com/news/business/article252918668.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article252918668.html"
+    excerpt: "Lyft will offer autonomous rides using Ford vehicles and a driving system developed by Argo AI starting in Miami this year, initially with human backup drivers."
+    publishedDateTime: 2021-07-22T01:47:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/?amp=1"
     type: article
     provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 37
   - title: "Argo AI and Ford will make 1,000 self-driving taxis available via Lyft’s app"
     excerpt: "Ford Motor Co. and autonomous vehicle startup Argo AI LLC plan to make 1,000 self-driving taxis available to consumers via Lyft Inc.’s ride-hailing app. The companies detailed the project today. The first self-driving taxis will roll out later this year in Miami with safety drivers aboard."

@@ -39,20 +39,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Don’t mistake OpenAI Codex for a programmer"
-    excerpt: "One thing that needs to be reminded is that, no matter how fascinating Codex’s output is, the deep learning model does not understand programming."
-    publishedDateTime: 2021-07-17T08:00:00Z
-    webUrl: "https://thenextweb.com/news/dont-mistake-openai-codex-for-a-programmer-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FBDHed1.jpg&signature=23f73d04f4dabeaafce68bb39236eaba"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "6WaC8BdJNl9gYyW8cOiwh50YYDkCp5PzQW8qiWqyx0Pfj69ytRKkzX2rRmsq5ka1s8wveNAV/ON5XcUySIlwY45Udv7iNQr13m6ZBmdIROEKhiLyE5IiZgZB/K0f8nsi17pta6yvv7WcfIy6YtUW1hbU1Fr6ntI2YZaXiivX5e0HGZgi4SGDqZ7hjSlvn8zOzJ1Opy3eCQAtFfgcIqA79xB9pMn14qZWS513IO31zYSWiT4WBD05TkMEbRdd4Zghr4rjE5Np/9i7vRdjmLYixSUcVtu1kCElySnA4HEPzCYus+mbUcxuzJGp0AeX+nhkyW1DnBY46ckIkkmsPgiDtyrxGS0YiSa6FA+UA2J97Ig=;J+zgPE5ASIl8JVJvBs50Hw=="
 ---

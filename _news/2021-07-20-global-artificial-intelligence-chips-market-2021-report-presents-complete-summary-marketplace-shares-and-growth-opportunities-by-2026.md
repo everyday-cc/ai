@@ -42,6 +42,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Image Recognition Market to See Huge Growth by 2026"
+    excerpt: "The latest study released on the Global AI Image Recognition Market by AMA Research evaluates market size, trend,"
+    publishedDateTime: 2021-07-21T20:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-to-see-huge-growth-by-2026-2021-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Size Outlook, Opportunity and Demand Analysis Report by 2026"
+    excerpt: "Facial Recognition Market size to hit USD 12 billion by 2026, according to a new research report by Global Market Insights, Inc. All the major mobile phone companies including Samsung, Apple, Xiomi Corp and others offer FaceTech in their phones."
+    publishedDateTime: 2021-07-21T04:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-outlook-opportunity-and-demand-analysis-report-by-2026-2021-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Neural Network Software Market 2021| What Factors are Affecting Growth and Demand of Industry | Trends and Forecast to 2028"
     excerpt: "The Research Report is a comprehensive and in depth analysis of the global Neural Network Software Market The report provides detailed information about current trends drivers and challenges facing this industry This research not only helps companies take accurate business"
     publishedDateTime: 2021-07-21T19:40:00Z
@@ -120,15 +148,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 16
-  - title: "Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence for Video Surveillance Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence for Video"
-    publishedDateTime: 2021-07-17T07:39:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4630235-global-artificial-intelligence-for-video-surveillance-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 4
 
 secured: "PGaM962Wb3k/Sm44S5L5DbPA7CKkWuPikbekyl02pBzLDlWkXPBrFTIZcQGnH2IAVJY5FKIybCT68WUhmVB03PrSm+PnsGpOL1fZve6p7FDiKLEai29zKvEeMZSci+e3l1AroVhR9UJer3XDVtznt6VXYhW0gmz2QDZxKpGg7T6fpfLvsGMIDFOxwYrRAxtld98GmnvMdJsMMBfwPk7ATtYBdAv2DLSLmJfcdf38mFOBqMm2xWElJiyZqvWebOrDrVS8Sn4K0v6+3tnd1PNcpotzkB72EPR9MFHNgvZdkSgdlY7ypTWzAkg6GgljyGFFIdAuxmHMCLWRt/pi8N7hFcbLk/18FW4KPayJjpH42UM=;lvjTS787esn+MCgzXRqQ2w=="
 ---

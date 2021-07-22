@@ -3,8 +3,8 @@ category: news
 title: "Snowflake Stock – Even as COVID eases, cloud computing and AWS keep flying high"
 excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
 publishedDateTime: 2021-07-18T11:03:00Z
-originalUrl: "https://fintechzoom.com/fintech_news_nyse-snow/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/"
-webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/"
+originalUrl: "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/"
+webUrl: "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/"
 type: article
 quality: 35
 heat: -1
@@ -54,6 +54,6 @@ related:
         height: 581
         isCached: true
 
-secured: "hxkguLdS+Gu4FtEPCzHULDAFVR35gxInYO2uK/+R3r1hQ5XQtdEL5kSDso2vOxn1rwLVIrKraWPFFNtGxteBFbM6Q1kpLIzpBYMyubzcNQ/9AORSlIZgism/MYfPp2FCr/dzaMPr90KkLwbVmgzRqP4Q6ye7P/Y9y0jqiKQzppcJ2QErEXbCSJr1pwu93eRkwWF3VDnt1aM03rJyqUGVdSK84AOaLiudnkSF1AqJ4DrwV8iiuSEPLoFC3MhvGixaLcsY5OLzJnS1tG8sYe0BqBbr6QFx2wCfBmBby+CQ1JOzQ7ZmVCuddEAtDykUqyCpm0F/SHRdLcB4sKAq/34aRBThmosUSX51Ybn1Z7TYQLM=;Rt4xcmSQj9xt4b+246UN8A=="
+secured: "K3hl7q0I1rzrsOofiITTIlxkxdivaQe4EXLJayZUX0uE2XoVDzUnm0csfmazphxTxja++odPmDeHP1UvpVDqn7+8qm0ERaejLCiIf6fgi7fcBsmy9fHhVspo1CCnjWy9WZMXn3BG7iTzkmJAUsZgoPqXw0RdLPM81DbdvPi8HP73bcr8Kvlnf8oXcvtG4Lk0FbT/NwsZZ4snvtgOBdMTVKN6yRI4a0vmOYraypPloAQZ6hRb9xJ8qw2StVZs26YrHkJMuMQ3LuQm//uE75i/3FwkzgLdX828teZdtKnM2ZaP8OuPpx3L8n3/nVj3hg26rOULaX8Qu1ZuOGeUi8oQTxcAWjmNaeGWi3CAX5QdB4g=;6GUMk2kaBx2qnFhZjUGdhw=="
 ---
 
