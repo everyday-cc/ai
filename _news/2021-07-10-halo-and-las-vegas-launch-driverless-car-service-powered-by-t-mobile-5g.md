@@ -2,57 +2,25 @@
 category: news
 title: "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G"
 excerpt: "G is beginning to power everything from connected farms to connected cars! Recently, Halo launched one of the first commercial driverless car services in the U.S. running on the T-Mobile (NASDAQ: TMUS) 5G network in Las Vegas."
-publishedDateTime: 2021-07-09T18:57:00Z
-originalUrl: "https://www.marketwatch.com/press-release/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g-2021-07-09"
-webUrl: "https://www.marketwatch.com/press-release/halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g-2021-07-09"
+publishedDateTime: 2021-07-09T19:05:00Z
+originalUrl: "https://apnews.com/press-release/news-direct-corporation/business-technology-las-vegas-driverless-cars-6c9abdf2474149cda45f5a433d8f4e7f"
+webUrl: "https://apnews.com/press-release/news-direct-corporation/business-technology-las-vegas-driverless-cars-6c9abdf2474149cda45f5a433d8f4e7f"
 type: article
-quality: 69
-heat: 89
-published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-related:
-  - title: "Rideshare Service Halo Introduces Driverless Cars That Can Be Delivered Remotely"
-    excerpt: "“Driverless cars! Fueling this kind of ... come to a full stop upon detecting a hazard. The cars also use Artificial Intelligence to learn the driving patterns of humans over time."
-    publishedDateTime: 2021-07-12T23:10:00Z
-    webUrl: "https://hypebeast.com/2021/7/halo-driverless-vehicles-las-vegas"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 34
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2FThis-Car-Rental-App-Uses-5G-To-Power-Driverless-Vehicles-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
-  - title: "Halo and Las Vegas Launch Driverless Car Service Powered by T‑Mobile 5G"
-    excerpt: "Driverless Halos solve transportation challenges with a people first approach to autonomous cars. Halo claims to have launched one of the first commercial driverless car services in the U.S. running on the T-Mobile 5G network in Las Vegas."
-    publishedDateTime: 2021-07-13T22:23:00Z
-    webUrl: "https://itwire.com/automotive/halo-and-las-vegas-launch-driverless-car-service-powered-by-t‑mobile-5g.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 19
-
-secured: "KQSL2SGSWsHysNP6iOM53wlBsIZSXVATw9YNS1fG2Ip/KBZ7/mP021uqL/7Pe5IZe5CKy6rozIRF61M6ZS82ppD32T3abmKgeah5D78ZjgCw76SD1KyEWxFOE//naWzYbUL1dHsBdEtfhWRweh7vqjo5h/nP8w7ZdIKNClGIRly0DGkfIiBnKqYsO17UPIAibSbinGwsZGW1MAcg6Nnn59kBrLmDGyNeB+35zOCXuDFGiF61rcNWLKxiwPF3Y/iWhY7TvDDe5/MFCKjpn0sjNXO3zUgSYVwDEcOE8aEtQqmGX3/EmhkT/XZjVzBzeHWlawJaS6eZEb1dTLS6ROElQiT9VwT4a5yma5Jrfu4HHOA=;A5iBbCRvnvv7Wdn3qB6pwA=="
+secured: "vsCwyPFHrhy8rw2dOjJGZT4mA80CYiB1npx3PGu8oLLQHR0UwO95De8kxNAxWiFaSy9Zj07rL1CDuYoa6Om5OwG5Xvidb222y+UyJxgEAgTpedhMvjGBpFNowjgR5dXIlqv3cDRW03wT0RdIb+8yJ2kW09kgZS4GvdfTTSqmHDsjxzg6IDIy3BIAc0OLWw6dvQ6g3SlUv+HYaWJ2LSIrX0A14cbDi991YCQKGij+M2Mbgyzpy0JooREnbC2Q5oqFOdKv2g4HzjZzYiCz/2Y7w1CVYhlKQjrtDQC+lGIenpsAfpj6l0JbyQdpqWlGLKWJrsv86yALa3N6Pm87W4JYNIFqi4spMFuAUuAckWEpBRM=;V/QFTyFff/Lxv1Rvy5MAyQ=="
 ---
 

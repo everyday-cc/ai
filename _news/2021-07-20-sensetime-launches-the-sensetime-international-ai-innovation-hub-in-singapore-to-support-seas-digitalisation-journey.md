@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Conversational AI Can Help Digital Transformation Succeed"
-    excerpt: "One of the challenges with many of these transformations is the impact on the employees and those stuck supporting them."
-    publishedDateTime: 2021-07-20T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/how-conversational-ai-can-help-digital-transformation-succeed/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f57e2d2ef27aeb72092d1c%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How Artificial Intelligence is transforming our world"
-    excerpt: "The impact of Artificial Intelligence continues to be felt across industries. A McKinsey report after analysing some AI use cases stated that ‘the impact of artificial intelligence will most likely be substantial in marketing and sales as well as supply-chain management and manufacturing’."
-    publishedDateTime: 2021-07-17T23:24:00Z
-    webUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/"
-    ampWebUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2020/05/31173538/Chukwuemeka-Fred-Agbata1.jpg"
-        width: 770
-        height: 420
-        isCached: true
   - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
     excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
     publishedDateTime: 2021-07-19T12:36:00Z
@@ -69,47 +39,61 @@ related:
         width: 400
         height: 233
         isCached: true
-  - title: "Do Commercial Chatbots Need Conversational AI?"
-    excerpt: "Commercial chatbots are becoming more sophisticated with the addition of conversational AI. Digital conversations, aided by natural language processing (NLP), are able to understand customer intent, resulting in enhanced customer journeys that can quickly provide users with the information they need or connect them with a live"
-    publishedDateTime: 2021-07-19T17:13:00Z
-    webUrl: "https://www.digitaljournal.com/pr/do-commercial-chatbots-need-conversational-ai"
+  - title: "New hub gives Singapore firms taste of artificial intelligence"
+    excerpt: "A facility offering immersive experiences with artificial intelligence was launched on Monday (July 19) to encourage firms to experiment with and develop AI innovations for their businesses."
+    publishedDateTime: 2021-07-20T06:39:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/07/20/new-hub-gives-singapore-firms-taste-of-artificial-intelligence"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Vaccine-Covid-Pandemic-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/07/20/1226671.jpg"
+        width: 860
+        height: 573
         isCached: true
-  - title: "How AI and automation can help clinicians practice at top-of-license"
-    excerpt: "Advisory Board’s research on top-of-license work for nurses and care teams across the past decade has consistently said the same thing: there are competing and consistently escalating demands on clinicians that make it hard to practice at top of license."
-    publishedDateTime: 2021-07-19T19:27:00Z
-    webUrl: "https://www.advisory.com/sponsored/ai-and-automation"
+  - title: "Southeast Asia's First AI Hub Launched in Singapore"
+    excerpt: "AI development could deliver $1 trillion of additional GDP to Southeast Asia by 2030, according to an estimate."
+    publishedDateTime: 2021-07-19T07:51:00Z
+    webUrl: "https://jakartaglobe.id/tech/southeast-asias-first-ai-hub-launched-in-singapore"
     type: article
     provider:
-      name: Advisory Board
-      domain: advisory.com
+      name: Jakarta Globe
+      domain: jakartaglobe.id
     quality: 37
     images:
-      - url: "https://advisory-prod.azureedge.net/-/media/project/advisoryboard/abresearch/sponsored/bright-md/brightmd1.jpg?h=321&w=603&rev=60dd1abc20bc4f289379b3d41db7b1f4&hash=9AA36588A8BA8D54368A8EE6BA37AA66"
-        width: 603
-        height: 321
+      - url: "https://img.beritasatu.com/cache/jakartaglobe/640x441-4/2021/07/1626680878.jpg"
+        width: 640
+        height: 441
         isCached: true
-  - title: "Understanding how AI Drives Digital Transformation?"
-    excerpt: "When AI and machine learning become part of a company's strategy, it represents a new digital transformation era. FREMONT, CA: In a dynamic, fast-changing market world, digital transformation is one of the most critical factors of how companies deliver ..."
-    publishedDateTime: 2021-07-20T06:27:00Z
-    webUrl: "https://www.cioapplications.com/news/understanding-how-ai-drives-digital-transformation-nid-8112.html"
+  - title: "Temasek-backed SenseTime launches AI innovation hub in Singapore"
+    excerpt: "Temasek-backed artificial intelligence (AI) company SenseTime on Monday launched its international AI innovation hub in Singapore, while entering into two agreements to develop industry talent here.."
+    publishedDateTime: 2021-07-19T06:37:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/temasek-backed-sensetime-launches-ai-innovation-hub-in-singapore"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
+      name: The Straits Times
+      domain: straitstimes.com
     quality: 37
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/gs3kk423.jpg"
-        width: 450
-        height: 308
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/19/ak_tmsk_190721_1.jpg?itok=FU77GOVC"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore, Teams Up with Business China and ITE to Nurture Local AI Talents"
+    excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
+    publishedDateTime: 2021-07-19T12:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-launches-the-sensetime-international-ai-innovation-hub-in-singapore-teams-up-with-business-china-and-ite-to-nurture-local-ai-talents-1030620086"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1576529/1.jpg"
+        width: 400
+        height: 233
         isCached: true
 
 secured: "6K2uDtaahhNZoFjfn6Mt8VPcKDarC+c+NVW/e4rfplFbsaN7iSlaigN35upksc1vBbR8Hiuqyxcw+MXwiyRIRMEuoHcPe4sZAJS1IJ6gbNL0nWJYn/ZhnT1qYSyoQDpbmHh2JVHWPcZ/6mHAXrPlEtQ4OCWQgSdNl7WaKkqADSQRHY2Zl9SnMX/bpgAfa+GPNVfpnND06rTIvELVwKg5B2dkwNWIJV39tPMZBSzAjAQOL0vlHlGJLOqlbxr6gCGlIGdoquexyiAK8yXXMeuvA/hfEN6z49xVYIhym1+kx9wWF7QvQWj2pL8dJApF+8nXVLrN0yvO1KAykR7vNXOVqaNBe/QbWRWep9GJttHcayE=;fTiallg+nCb7DclI4vB7Gw=="

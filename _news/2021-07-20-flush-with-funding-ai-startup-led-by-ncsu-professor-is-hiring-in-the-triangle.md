@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wraltechwire.com/2021/07/20/flush-with-funding-ai-startu
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/07/20/flush-with-funding-ai-startup-led-by-ncsu-professor-is-hiring-in-the-triangle/?amp=1"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Biggest Funding Accelerators & Venture Capitals for AI Startups"
-    excerpt: "AI technology is transforming the world around us along with being a viable startup field. Here’s a guide that will help your AI startup with funding and investments."
-    publishedDateTime: 2021-07-19T04:15:00Z
-    webUrl: "https://www.analyticsinsight.net/the-biggest-funding-accelerators-venture-capitals-for-ai-startups/"
+  - title: "AI startup funding remained strong in Q2, report finds"
+    excerpt: "CB Insights found that AI startup funding remained strong in Q2 2021, with a record number of companies reaching 'unicorn' status."
+    publishedDateTime: 2021-07-22T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/07/22/ai-startup-funding-remained-strong-in-q2-report-finds/"
+    ampWebUrl: "https://venturebeat.com/2021/07/22/ai-startup-funding-remained-strong-in-q2-report-finds/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/ai-startup-funding-remained-strong-in-q2-report-finds/amp/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/AI-6.jpg"
-        width: 900
-        height: 500
+      - url: "https://venturebeat.com/wp-content/uploads/2016/11/initial-coin-offering.jpg?w=1200&strip=all"
+        width: 1200
+        height: 739
         isCached: true
 
 secured: "z3F6OYmvA3VcdqG4xAEXAcJmduFmWMaSEilHtYe5882eQclYfLIYBDZ0YFpRqeIJkn3R21kuqnrEVhngOMzf7ZqOH0TpojYm7BwOvt/SsEo9lmPLE8Kd50bxvZBzPwXomzFYCuf+ntaLjEB+4FacvgEnQLZT/MQ/fjaYtCRsZv22zYICGC/PN05luaQDqLfo9yCFQ74EFnEoYPJzkOuLoOU5lAE+cjr8Ufu5V9dTIuparDfo8B8foKZ0V333INhHBGSRl6miin8sDXOsgrogj6lSRLV2zWUg7N0xc/y7/vwWC+7dSASfxO1uLXsdhgQNjuMjPRkzYZLPRicH78vgAGuwMlXYZwinblVjZUe2YnYtmOC6CZeOVp993yQzCWUUt+hF3EaMWufgCWukhhN82289ypD2wm6jhnAUI9+SEunvXtvU0K74WDimCAiaO2T2KM7K67JbUBY0Lqtgz7RCmd2EbFEw2AEGU7+Iqr9pPdhHTOVsRTK2gDj+ZjhNoU7sk95xtg0I++BNmXXRtb/ReA==;xSFhZPfzhsoeQt/4S29ynw=="

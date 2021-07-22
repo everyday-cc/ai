@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Argo AI, Ford and Lyft to launch self-driving ride-hail service in Miami and Austin"
+    excerpt: "Self-driving startup Argo AI, carmaker Ford Motor Co (F.N) and ride-hail company Lyft Inc (LYFT.O) on Wednesday said they partnered to offer robotaxi trips to Lyft customers in Miami and Austin."
+    publishedDateTime: 2021-07-21T11:03:21Z
+    webUrl: "https://finance.yahoo.com/news/argo-ai-ford-lyft-launch-110321954.html"
+    ampWebUrl: "https://finance.yahoo.com/amphtml/news/argo-ai-ford-lyft-launch-110321954.html"
+    cdnAmpWebUrl: "https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/argo-ai-ford-lyft-launch-110321954.html"
+    type: article
+    provider:
+      name: com/news/argo-ai-ford-lyft-launch-110321954.html
+      domain: com/news/argo-ai-ford-lyft-launch-110321954.html
+    quality: 151
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/Jk3NRQHbV4kPo5yDhANGAg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/4c730f2a3b08367c05c180340729545e"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Lyft Invests In Argo AI; Ford’s First Robotaxis Arrive In Late 2021"
     excerpt: "Ford and automated driving partner Argo AI will launch automated ride-hailing services on Lyft’s platform in Austin and Miami this year. Lyft will provide Argo with data to help optimize deployments and evaluate the safety of the vehicles in exchange for a 2."
     publishedDateTime: 2021-07-21T11:00:00Z
@@ -148,17 +164,22 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Argo AI, Ford and Lyft to Launch Self-Driving Ride-Hail Service in Miami and Austin"
-    excerpt: "Self-driving startup Argo AI, carmaker Ford Motor Co and ride-hail company Lyft Inc on Wednesday said they partnered to offer robotaxi trips to Lyft customers in Miami and Austin. The service is expected to launch in Miami later this year and in Austin next year with a safety driver inside the Ford Escape hybrid vehicles."
-    publishedDateTime: 2021-07-21T11:03:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-07-21/argo-ai-ford-and-lyft-to-launch-self-driving-ride-hail-service-in-miami-and-austin"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-07-21/argo-ai-ford-and-lyft-to-launch-self-driving-ride-hail-service-in-miami-and-austin?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-07-21/argo-ai-ford-and-lyft-to-launch-self-driving-ride-hail-service-in-miami-and-austin?context=amp"
+  - title: "Lyft will team up with Ford and a self-driving car start-up to offer rides in Miami."
+    excerpt: "The companies plan to begin offering the service this year, expanding later to Austin, Texas. A human will still be behind the wheel."
+    publishedDateTime: 2021-07-21T19:14:00Z
+    webUrl: "https://www.nytimes.com/2021/07/21/business/lyft-self-driving-cars.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/21/business/lyft-self-driving-cars.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/21/business/lyft-self-driving-cars.amp.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 63
+      name: New York Times
+      domain: nytimes.com
+    quality: 67
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/21/business/21economy-briefing-ford-argo/21economy-briefing-ford-argo-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Self-driving Ford cars will be available to Lyft customers in Miami later this year"
     excerpt: "Partners Lyft and Ford are laying the groundwork for their driverless ride-hailing plans. Today, the companies announced that Ford's Argo AI -powered cars will be available on Lyft's network later this year in Miami,"
     publishedDateTime: 2021-07-21T13:44:00Z
@@ -189,6 +210,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Pittsburgh Left puts self-driving cars to the test and Argo AI is ready to pass"
+    excerpt: "Pittsburgh-based Argo AI thinks it has solved the problem of local driving anomalies well enough to be able to deploy a robotaxi service sometime next year."
+    publishedDateTime: 2021-07-20T14:41:00Z
+    webUrl: "https://nextpittsburgh.com/latest-news/pittsburgh-left-puts-self-driving-cars-to-the-test-and-argo-ai-is-ready-to-pass/"
+    ampWebUrl: "https://nextpittsburgh.com/latest-news/pittsburgh-left-puts-self-driving-cars-to-the-test-and-argo-ai-is-ready-to-pass/amp/"
+    cdnAmpWebUrl: "https://nextpittsburgh-com.cdn.ampproject.org/c/s/nextpittsburgh.com/latest-news/pittsburgh-left-puts-self-driving-cars-to-the-test-and-argo-ai-is-ready-to-pass/amp/"
+    type: article
+    provider:
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 57
+    images:
+      - url: "https://nextpittsburgh.com/wp-content/uploads/2019/06/UA_190624A_Argo-Car_0099-e1561489102515.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
     excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network"
     publishedDateTime: 2021-07-21T11:23:00Z
@@ -204,22 +241,6 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_6eb09e4468b14e6e82e13ffd996d2042_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
-    excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network."
-    publishedDateTime: 2021-07-22T11:35:00Z
-    webUrl: "https://fox2now.com/news/national/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
-    ampWebUrl: "https://fox2now.com/news/national/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
-    cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/national/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
-    type: article
-    provider:
-      name: Fox2Now St. Louis
-      domain: fox2now.com
-    quality: 57
-    images:
-      - url: "https://fox2now.com/wp-content/uploads/sites/14/2021/07/AP21202407737098.jpg?w=1280"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Ford, self-driving vehicle company Argo AI to offer autonomous rides on Lyft"
     excerpt: "The service using Ford vehicles and a driving system developed by Argo AI will begin in Miami later this year and start in Austin, Texas, in 2022."
@@ -301,6 +322,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Lyft To Offer Ford's Self-Driving Cars In Austin (With Humans As Backup)"
+    excerpt: "By this time next year, you might be able to order a self-driving Ford Escape Hybrid SUV with the Lyft app, but two humans will be seated in the front as safety drivers."
+    publishedDateTime: 2021-07-22T11:28:00Z
+    webUrl: "https://www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup"
+    ampWebUrl: "https://www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup?_amp=true"
+    cdnAmpWebUrl: "https://www-kut-org.cdn.ampproject.org/c/s/www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup?_amp=true"
+    type: article
+    provider:
+      name: KUT
+      domain: kut.org
+    quality: 43
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/98ebdbf/2147483647/strip/false/crop/5845x3290+0+134/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F07%2F21%2Fgettyimages-1233487514_custom-4f7df59bb5ba9e944cc8a6500693f2c9d6391187.jpg"
+        width: 430
+        height: 242
+        isCached: true
   - title: "Argo AI self-driving cars to join Lyft's Miami network before 2021 is out"
     excerpt: "Fords equipped with Argo AI's self-driving system have been testing in a handful of U.S. cities for several years, and some of these will join Lyft's networks in Miami and Austin in 2021 and 2022, respectively."
     publishedDateTime: 2021-07-21T18:00:00Z
@@ -315,6 +352,17 @@ related:
         width: 1920
         height: 1187
         isCached: true
+  - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
+    excerpt: "Lyft will offer autonomous rides using Ford vehicles and a driving system developed by Argo AI starting in Miami this year, initially with human backup drivers."
+    publishedDateTime: 2021-07-22T01:47:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "Argo AI and Ford will make 1,000 self-driving taxis available via Lyft’s app"
     excerpt: "Ford Motor Co. and autonomous vehicle startup Argo AI LLC plan to make 1,000 self-driving taxis available to consumers via Lyft Inc.’s ride-hailing app. The companies detailed the project today. The first self-driving taxis will roll out later this year in Miami with safety drivers aboard."
     publishedDateTime: 2021-07-21T20:14:00Z
@@ -343,6 +391,17 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Safety steps for Lyft’s self-driving rides"
+    excerpt: "Instead, Lyft’s Fords will still come with a safety driver who will mostly be letting the car drive itself, but who can instantly grab the wheel if the technology misfires — or, more likely, if the car encounters one of South Florida’s numerous and notorious unpredictable drivers."
+    publishedDateTime: 2021-07-21T16:23:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article252922073.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/business/article252922073.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article252922073.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 24
   - title: "Lyft, Argo AI to put self-driving robotaxis in Austin in 2022"
     excerpt: "Autonomous vehicle company Argo AI LLC, based in Pittsburgh, is partnering with San Francisco-based Lyft Inc. to offer robotaxi rides in Miami this year and Austin next year. The autonomous vehicles are being created through the company’s partnership with Ford Motor Co."
     publishedDateTime: 2021-07-21T16:41:00Z
@@ -375,6 +434,24 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
+  - title: "Ford to launch self-driving cars on Lyft network by year’s end"
+    excerpt: "Argo AI and Ford Motor Company are working together to bring autonomous ride hailing vehicles to the Lyft network. The companies said the collaboration will bring together all the necessary services to bring autonomous ride hailing service to the mainstream with self-driving technology,"
+    publishedDateTime: 2021-07-22T12:52:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16973/ford-to-launch-self-driving-cars-on-lyft-network-by-year-s-end"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
+  - title: "Lyft to deploy self-driving cars in Miami by the end of the year"
+    excerpt: "Interested in riding in a self-driving car? Soon, Miami-area Lyft passengers will have that option. On Wednesday, Ford, self-driving car startup Argo AI and ride-hailing giant Lyft (Nasdaq: LYFT) announced they are partnering to offer automated vehicles to customers in the Magic City beginning late 2021."
+    publishedDateTime: 2021-07-21T17:08:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2021/07/21/lyft-to-deploy-self-driving-cars-miami-2021.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "zjt0Cm6cg00Gn9P/ZIsU0HWUy3fdfsSj+wHdBTyRGmCirkC8XkXonMfFarQMvhWMD3Q2fhgKDqlOagC94ztisHmx+vmbm9o/0CZo88D0ZwqYIcVqBNLEv8G6eIfVdiuyCPxdtb9w+DehChWDmI4YjQjTW6yEvXtQLwmv5nifsvtWeJqeWzwdLV74nmXtGLiTBMvtm0vMkHrBNAm6mZK68RzMp0DD2cmBlc6/d0wa2SejleUQijNLfQLCaP3C0D15ObMpX1Raqv8I3K7sttBSxlLyNEcF9wj8aWUi5Q1EdsHujGp8AuJnNFR+bdrClr/AAqULe1fmWhEr+kqBwhDjp3aHhAcG/xxuyTTkAQKixOA=;Slbtw7arqVyn8/VSaGShiQ=="
 ---

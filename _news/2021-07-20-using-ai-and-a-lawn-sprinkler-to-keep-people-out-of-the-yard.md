@@ -164,17 +164,31 @@ related:
         isCached: true
   - title: "Maxim Integrated's Hand-Held Camera Cube Reference Design Enables Artificial Intelligence at the Edge for Vision and Hearing Applications"
     excerpt: "Today Maxim Integrated Products, Inc. (NASDAQ: MXIM) unveiled the MAXREFDES178# camera cube reference design, which demonstrates how Artificial intelligence (AI) applications previously limited to machines with large power and cost budgets can be embedded in space-constrained,"
-    publishedDateTime: 2021-07-20T12:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/20/9412526.htm"
+    publishedDateTime: 2021-07-20T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-hand-held-camera-cube-reference-design-enables-artificial-intelligence-at-the-edge-for-vision-and-hearing-applications-1030624731"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
     images:
       - url: "https://mma.prnewswire.com/media/1577187/Maxim_Integrated_Products_MAXREFDES178.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Worldwide 5G Business Services Industry to 2026 - Machine Learning and Cognitive Computing Will Be Leading AI Tools Supporting 5G"
+    excerpt: "The \"5G Business Services Market by Enterprise, Industrial, and Government Segment Applications, Services, and Solutions 2021 - 2026\""
+    publishedDateTime: 2021-07-22T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-5g-business-services-industry-to-2026---machine-learning-and-cognitive-computing-will-be-leading-ai-tools-supporting-5g-301339413.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "UoC1/RXl7jyfm4mNdsfZKCVkwjGpDe8DP5zB12eCa2yJulba80t+8mOh6B+9FTsvwZCeyqHMyNjY9chTfYPF7CiWGBIKa58Cl/vLVpelq+sDba1O30H9ILQ/91j9u3ZyyRtwrRktdbGTK0FAlyWl7J/RR/PU/Xq9rgQx1twkNTYORjOvevMaT6B2dKJQqSkpZoMHdf3Qq+aaIein9G9phuuqtr68u+fl38VuIcnutSy898Qp+qbPOZ1lxEyBy7WzhoYmj47miBQxj9YYRpoY8PAyIEwOYllhP8jlMMKrvEmGQFuVw3J1nfCfsFEgvZ2kRzqbdNsIWKMrtkXXj7qJR0nvd9gSCFHyfatlg/GuMAI=;9AhaA+PXf87Fm+RtFlgGog=="

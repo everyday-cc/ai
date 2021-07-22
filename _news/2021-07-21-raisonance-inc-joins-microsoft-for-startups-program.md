@@ -60,6 +60,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "An AI startup that helps clients like Google and Microsoft track their marketing performance raised $15 million using this pitch deck"
+    excerpt: "BlueOcean was founded by ad agency vets to automate and simplify market research."
+    publishedDateTime: 2021-07-22T12:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://i.insider.com/60f7358baa1f1f0012f687ea?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Israel AI-Based Learning Startup MagniLearn chosen by Microsoft to impact Education"
     excerpt: "After concluding deals with public and private school networks in Israel, Korea and Japan, EdTech startup MagniLearn formed by AI"
     publishedDateTime: 2021-07-19T17:00:00Z

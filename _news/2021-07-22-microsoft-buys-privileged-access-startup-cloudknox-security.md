@@ -125,6 +125,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft acquires CloudKnox Security"
+    excerpt: "Microsoft has acquired CloudKnox Security, a specialist in Cloud Infrastructure Entitlement Management (CIEM). CloudKnox provides visibility into privileged access. It helps organisations right-size permissions and consistently enforce least-privilege principles to reduce risk,"
+    publishedDateTime: 2021-07-22T13:02:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-acquires-cloudknox-security--1391163"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 36
 
 secured: "Ywt9fqCsxEqKHbT2uw0szxR0p6BYepbokiZEtq8dSKiUTlM2dvg2QG2C0sEjtAnDqm3Lhs4q358IT12htoqugJJMJ/A3T2VQqRrPiu06Cc21VyuVh0T0WZJjlE9TT+jAMx3oSuJsvD7dAHs3qerh+op9cu2cTYjhLaWwDsD1zPch4T1h7lmaIRUKTF5OWq3a0z8VgU8zpOLwk2jPgOeCrhv4z1rY1V5NVrWN4gMxYJ8YmjgxAGZQO98t6LmLlL0PqW7ykHLO1VGOJu973/0p+e40XHXA1ZRX5E1Cfy5KClrVqUgqfvvLw4XY6M04Cmf77j2fotccO3YNrUjYPStx6t/8JlGidv1/w+GDjePdkIFejWhBM0BE7snElzUpbHu/g3VNcgYHXTrL06PodtRWcyOIikdbavcLWsAtleLk/8/2rDMv25kuZ1vkRZbL73Dw2GUU6ruycivyvbeDY7hcbMEaqKs0Ie4trbXKsli71lMJmdI+PsM/qRg+oKPzzy4qzpFFa3fuF9wbSCtw/tYkZg==;r69Ph0oUIfbaOx4BueO26A=="
 ---

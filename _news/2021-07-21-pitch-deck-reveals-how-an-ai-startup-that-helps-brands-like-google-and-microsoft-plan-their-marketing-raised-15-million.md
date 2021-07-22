@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-startup-blueocean-raised-15-mil
 webUrl: "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1576947/Microsoft_for_Startups_Program.jpg"
         width: 400
         height: 209
+        isCached: true
+  - title: "An AI startup that helps clients like Google and Microsoft track their marketing performance raised $15 million using this pitch deck"
+    excerpt: "BlueOcean was founded by ad agency vets to automate and simplify market research."
+    publishedDateTime: 2021-07-22T12:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://i.insider.com/60f7358baa1f1f0012f687ea?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "RAIsonance, Inc. Joins Microsoft for Startups Program"
     excerpt: "With support from the Microsoft for Startups program, SoundPass will be able to roll out the SoundPass Access technology rapidly to businesses, educational campuses, entertainment venues, houses of worship or any facility seeking to enable smarter in-person interactions."

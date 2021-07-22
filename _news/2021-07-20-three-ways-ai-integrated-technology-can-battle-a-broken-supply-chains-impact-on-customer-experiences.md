@@ -30,21 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "Three Ways Edtech Platforms Can Use AI To Deliver Effective Learning Experiences"
-    excerpt: "With the right kind of AI, edtech enterprises can not only shape the future of curriculum, but also the very culture of education and learning."
-    publishedDateTime: 2021-07-19T12:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/19/three-ways-edtech-platforms-can-use-ai-to-deliver-effective-learning-experiences/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/19/three-ways-edtech-platforms-can-use-ai-to-deliver-effective-learning-experiences/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/19/three-ways-edtech-platforms-can-use-ai-to-deliver-effective-learning-experiences/amp/"
+  - title: "15 Ways To Leverage AI In Customer Service"
+    excerpt: "From gathering data to speech recognition and message response times, AI can enhance the customer experience in nearly every way when it's applied correctly. Here, 15 members of Forbes Business Council share their expert insight on how organizations can leverage AI to enhance their customer service."
+    publishedDateTime: 2021-07-22T12:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/22/15-ways-to-leverage-ai-in-customer-service/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/22/15-ways-to-leverage-ai-in-customer-service/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/07/22/15-ways-to-leverage-ai-in-customer-service/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 82
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f1796292341577adb4358e%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f5f302638fe1956f091f01%2F0x0.jpg"
         width: 1200
-        height: 800
+        height: 819
+        isCached: true
+  - title: "How Artificial Intelligence Can Help Enhance Customer Engagement"
+    excerpt: "How Artificial Intelligence Can Help Enhance Customer Engagement  - When CRMs are combined with AI, businesses can improve their customer engagements by providing ease and convenience."
+    publishedDateTime: 2021-07-20T05:43:00Z
+    webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-can-help-enhance-customer-engagement---nid-34090-cid-244.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/newsimages/705x485_UWAdeVPn.jpg"
+        width: 705
+        height: 485
         isCached: true
 
 secured: "4cBgDq/mogz46cneYGVhY+CTb5kyslbbf6Mh/mcA+tuEcDWvMclx7QsFB2FONXZVrQ/wmgAaEH66laMu57ZLfhsBq7gKuqEisUvc7l6vrU4tqs6vx1KWSPyLIcuSGxxEBpdKsqABj7DJJi3TQ6HRanZMauIe5ztiIKGxGNeti7/BqlLZQtq40nb7Qqo84iWCbiqX9zyN8JFmTZ/a6lHL3pVldEmM4fLZcDNcg9RO79rM8M+B9gILeku6AnqjMlnDY+DR5KdXMzV/EHiDWMAwYoPYgiOb1Yg74kudA5SRTRqFn3Aef7rKTwNmHVjdFglY8X33gKJ1gmTxagzXWZ8zmwBRKAQfKzW9cknXDk2fMxP9SlKAKJRhcXaFktRBACHdaWpairFAY87nyO5hxMwMBhDRLmLnIIDwDOeqnI6OVIEu1viua3DLXM5kaexpuzghklfYxcugjUL5oevhAHJw5CgQztWa7z3GQlW8YoxIRPUHf874xpLvSCAkrkRPOi9AA4lURI6cBIRdBqG3ybjq1g==;zi8VelbZkvXTyJHKPmXbMQ=="

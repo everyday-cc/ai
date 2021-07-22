@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence is transforming our world"
+    excerpt: "The impact of Artificial Intelligence continues to be felt across industries. A McKinsey report after analysing some AI use cases stated that ‘the impact of artificial intelligence will most likely be substantial in marketing and sales as well as supply-chain management and manufacturing’."
+    publishedDateTime: 2021-07-17T23:24:00Z
+    webUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/"
+    ampWebUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2020/05/31173538/Chukwuemeka-Fred-Agbata1.jpg"
+        width: 770
+        height: 420
+        isCached: true
   - title: "AI is transforming financial services"
     excerpt: "Never in recent history have we seen the convergence of two super trends on the scale of blockchain and cryptocurrencies, and AI."
     publishedDateTime: 2021-07-19T11:12:00Z
@@ -38,33 +54,19 @@ related:
         width: 1193
         height: 1194
         isCached: true
-  - title: "Financial Services Turning Towards Adopting Cloud Technology"
-    excerpt: "Previously, financial services and institutions have been at fault for not adapting to cloud technology. But now many of the retail banks are slowly turning towards the cloud for less risk-averse services."
-    publishedDateTime: 2021-07-18T06:30:00Z
-    webUrl: "https://www.analyticsinsight.net/financial-services-turning-towards-adopting-cloud-technology/"
+  - title: "Understanding how AI Drives Digital Transformation?"
+    excerpt: "When AI and machine learning become part of a company's strategy, it represents a new digital transformation era. FREMONT, CA: In a dynamic, fast-changing market world, digital transformation is one of the most critical factors of how companies deliver ..."
+    publishedDateTime: 2021-07-20T06:27:00Z
+    webUrl: "https://www.cioapplications.com/news/understanding-how-ai-drives-digital-transformation-nid-8112.html"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 24
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 37
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Financial-Services-turning-towards-adopting-Cloud-Technology.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Platforms playing catch-up with the rest of financial services"
-    excerpt: "Across pretty much all areas of financial services artificial intelligence (AI) and machine learning are starting to be recognised as integral components of the client engagement toolkit. With one stand-out exception: platforms."
-    publishedDateTime: 2021-07-22T10:28:00Z
-    webUrl: "https://international-adviser.com/platforms-playing-catch-up-with-the-rest-of-financial-services/"
-    type: article
-    provider:
-      name: International Adviser
-      domain: international-adviser.com
-    quality: 24
-    images:
-      - url: "https://international-adviser.com/wp-content/uploads/sites/3/2019/09/technology-robot-innovation-digital-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.cioapplications.com/newstransfer/upload/gs3kk423.jpg"
+        width: 450
+        height: 308
         isCached: true
 
 secured: "WjMDQ0D1BtT7XV3fdAKXx22G2ZR6VSNh8ZfcObxBSAL9SbhN/5JaU9lw5AjzRN3elaEUJ9qx7PnfGzwBtl/LdHtPRWpqhDmR/CwhEpMIVf1jpeCunUxLJU897Msp9xPE1nQXheFqfqfv3GSSTTleZZ5ha5f4yg8yr/Y/dqG5eFyrHnBdk23w+Pt5WaHU0KbNTWQB3kKY8ojim6BFxn5S+lRZeqlgDLdYy0rBtCoky6JBPh3GkXE9lqBTz7nwCoZUbaKD+Wa87X1qxBeavsl7GNg3pNo7CZeR8Ww1ZhurH9FNNEwHBqAzlns1/aKNKyJB87IUSSeOHvxCW6uLQ/YQeG6YRmqaskcIEQkpGChlFuvmkP9HlSYTyI/nXr7CYQjFMyqD8LZii+3wqPmW+WnCrc4VCi34kLsaGxolhPDpF7ZIhYHvF8pTPiSOL6cp8gzlYORWlSiGjQcr4OtPt67OitFE459OAyMMY7ffleJYfJybMe0nttlsC6TqVJjbM+k07jlkbFJwdqcq91Pc/lPHjw==;dyD94LtjGG6vXnzy0e9Mrg=="

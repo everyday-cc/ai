@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-autonomous-beach-clea
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/"
 type: article
 quality: 103
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -129,6 +129,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft acquires CloudKnox Security"
+    excerpt: "Microsoft has acquired CloudKnox Security, a specialist in Cloud Infrastructure Entitlement Management (CIEM). CloudKnox provides visibility into privileged access. It helps organisations right-size permissions and consistently enforce least-privilege principles to reduce risk,"
+    publishedDateTime: 2021-07-22T13:02:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-acquires-cloudknox-security--1391163"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 36
 
 secured: "SnThQqDSMNQS53TNNCKnYyG85GGd/RWftmVsxELnVj8+gPdVdrWtz+Y3TMrwjiWU+Eup8DSFSokyuYp9QEvrz+kI8N4wfOxPygrXuUGMVNgNnJsVj+jc7lbw5fk7I2yeyROge7csn2RGb7tItkeUQrygkmzFtGAcFqXRvl0I/7QTBTjHUYXlMiQx4N4q2rRBADCfGy2VArPhUR0g7FXnLoZ6H6SVKbaGuAFixzJ81FzW5ST9kIg5DKvwP1jTCddNrgge2I0iB83mBIFHFSH9A+CioYzj6uvdb+RZIYnUirRmA1iLslVGPkPTfJejGAITORvAKqp0JCbw++kFfxq3xGVBri+fOGdrFWQN94tjOC0=;4hfTOFq0RZOve1BGU5iXng=="
 ---

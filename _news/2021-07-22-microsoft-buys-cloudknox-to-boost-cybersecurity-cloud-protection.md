@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 Ways AI and ML Are Helping and Hurting Cybersecurity"
-    excerpt: "In the right hands, artificial intelligence and machine learning can enrich our cyber defenses. In the wrong hands, they can create significant harm."
-    publishedDateTime: 2021-07-19T10:00:00Z
-    webUrl: "https://www.darkreading.com/application-security/7-ways-ai-and-ml-are-helping-and-hurting-cybersecurity/a/d-id/1341498"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 54
-    images:
-      - url: "https://img.deusm.com/darkreading/Edge/602x250_toon-june2021.jpg"
-        width: 602
-        height: 250
-        isCached: true
   - title: "WSTA to Hold Virtual Seminar on Cybersecurity for FinTech Professionals"
     excerpt: "The WSTA will host a virtual seminar and panel discussion on “Smart, Fast, Effective: Cybersecurity in the Age of Analytics & Automation.”"
     publishedDateTime: 2021-07-19T16:24:00Z

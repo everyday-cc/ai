@@ -30,19 +30,17 @@ images:
 related:
   - title: "Employees want more AI to boost productivity, study finds"
     excerpt: "Eighty-one percent of employees believe that AI improves their overall performance at work. As a result, more than two thirds — 68% — are calling on their employers to deploy more AI-based technologies to help them execute tasks."
-    publishedDateTime: 2021-07-20T18:50:00Z
-    webUrl: "https://venturebeat.com/2021/07/20/employees-want-more-ai-to-boost-productivity-study-finds/"
-    ampWebUrl: "https://venturebeat.com/2021/07/20/employees-want-more-ai-to-boost-productivity-study-finds/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/employees-want-more-ai-to-boost-productivity-study-finds/amp/"
+    publishedDateTime: 2021-07-21T01:50:00Z
+    webUrl: "https://www.snaplogic.com/resources/infographics/employees-want-more-ai-in-the-workplace"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 167
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-935644530-e1623205970777.jpg?w=1200&strip=all"
+      - url: "https://www.snaplogic.com/wp-content/uploads/2021/07/fb_1200x630-AI.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
 
 secured: "pbsXR4hM739nQfm2cAwAtJ6JMNB+m7o/5EZwa8fN7npA3kVy/4aKVjGYoihUc7N6M2uBdP93nCeEv/IQSNJxYSqWBRugXA4YdOsZPGV9dUAfGmzHzWDryW6EW09CokK2DoOlL/5jnb50h7V1ER77VuNspfSGyRrts98fpUI3dtONOWKGJs2F9no/fH9aP+7nIaujsCxFEDM3yzwgPycb0hknOn3FC+3Hb3YiYdzlZRIyzONNDMoLLuh1Sr6WV3cJ2M76pVjynUrN2yGGc9zl16NvSewjB/DGWfei10VFdAJFhGQZIHmt+p9q4JI/b0AVzjaKsnDRxeAQRNF+7xPQBYmSU9PSh3CKjAXnBwYOu0gy9Zr6JDnUpEd9JWz1HmBQSpgTRL66ztb4EbtYNJC96E/5SFwVaM/CtYr7dN7Zc8DkW3Z9l/rf/Zyy8dMwYZv2hZ89AOI4DKsopyCvHJ42dp3NHSUfBb3zMnrlvqr6iX+eYvEywhpau5MWC7x4lyjQ8FA9tklflmXG9VZcdbaC3Q==;bGHWu5CLSEWk2ffAaWQa/w=="

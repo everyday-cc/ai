@@ -24,22 +24,6 @@ images:
     height: 509
     isCached: true
 
-related:
-  - title: "New hub gives Singapore firms taste of artificial intelligence"
-    excerpt: "A facility offering immersive experiences with artificial intelligence was launched on Monday (July 19) to encourage firms to experiment with and develop AI innovations for their businesses."
-    publishedDateTime: 2021-07-20T06:39:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/07/20/new-hub-gives-singapore-firms-taste-of-artificial-intelligence"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/07/20/1226671.jpg"
-        width: 860
-        height: 573
-        isCached: true
-
 secured: "KSk/43lW3wvZNQAdfUcC4gvbFNfOqXqrnl9cJ2iNMsS2ubKPPgHijiR6i7a9Axd/MC5glgxvkSZiSjuO/Sqw17DxKK9kcUY9eFTYHjEvsDDxDPXaKA8poJ0SILlbOpX3ESxNkq6txOox+O62+KgyztRoITkwYQWNiexUpzjN3o86EvDJ3qise3mtY6Wl+4U86LT/2z/suJ2zCWnG8K+xZQj9iymxr1et1N/N+Mky94ZaMjQK/xEFgRuzSrDq2t4Fatkal87Qs6rtsnH9+k0z4U7QreOuJ8P764vBn3faUS8McolfZQ9dTb/8nVYsS9Hm6Jc2EY5PYBwB5hvRjD1DiPo2F7FUCJghaFOwrRjArEAv7sCPds5zwcvskzC+SRSq1UaiBWNzMxuvUg4buTrV1Vn+eUMpV+lViH/kLcRt+lJ0EYAt6ya7qr0T+9OHrocApv5AoWpsmvjBf92LikEWxvCWbuXK7yIMqhHgvYM10bcUz9Vbt5YKi2oXxpGYnrmRYt8mHAVE/K8d8iKskOzlgQ==;Z4fecHXt+GT404jGQVPanA=="
 ---
 

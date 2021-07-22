@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/how-conv
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/how-conversational-ai-can-help-digital-transformation-succeed/"
 type: article
 quality: 67
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -28,91 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is transforming our world"
-    excerpt: "The impact of Artificial Intelligence continues to be felt across industries. A McKinsey report after analysing some AI use cases stated that ‘the impact of artificial intelligence will most likely be substantial in marketing and sales as well as supply-chain management and manufacturing’."
-    publishedDateTime: 2021-07-17T23:24:00Z
-    webUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/"
-    ampWebUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
+  - title: "3 Ways AI Can Help You Improve Diversity"
+    excerpt: "As a business leader, you probably want to improve your organization’s diversity, merit, and fairness. In this post, I share some practical tips to harness data in service of diversity in your organization."
+    publishedDateTime: 2021-07-22T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/brianuzzi/2021/07/22/3-ways-ai-can-help-you-improve-diversity/"
+    ampWebUrl: "https://www.forbes.com/sites/brianuzzi/2021/07/22/3-ways-ai-can-help-you-improve-diversity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/07/22/3-ways-ai-can-help-you-improve-diversity/amp/"
     type: article
     provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2020/05/31173538/Chukwuemeka-Fred-Agbata1.jpg"
-        width: 770
-        height: 420
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f8721362cfeb9ccf779b8f%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
-    excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
-    publishedDateTime: 2021-07-19T12:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-launches-the-sensetime-international-ai-innovation-hub-in-singapore-to-support-sea-s-digitalisation-journey-1030620106"
+  - title: "7 Ways AI and ML Are Helping and Hurting Cybersecurity"
+    excerpt: "In the right hands, artificial intelligence and machine learning can enrich our cyber defenses. In the wrong hands, they can create significant harm."
+    publishedDateTime: 2021-07-19T10:00:00Z
+    webUrl: "https://www.darkreading.com/application-security/7-ways-ai-and-ml-are-helping-and-hurting-cybersecurity/a/d-id/1341498"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/1576547/1.jpg"
-        width: 400
-        height: 233
-        isCached: true
-  - title: "Do Commercial Chatbots Need Conversational AI?"
-    excerpt: "Commercial chatbots are becoming more sophisticated with the addition of conversational AI. Digital conversations, aided by natural language processing (NLP), are able to understand customer intent, resulting in enhanced customer journeys that can quickly provide users with the information they need or connect them with a live"
-    publishedDateTime: 2021-07-19T17:13:00Z
-    webUrl: "https://www.digitaljournal.com/pr/do-commercial-chatbots-need-conversational-ai"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Vaccine-Covid-Pandemic-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "How AI and automation can help clinicians practice at top-of-license"
-    excerpt: "Advisory Board’s research on top-of-license work for nurses and care teams across the past decade has consistently said the same thing: there are competing and consistently escalating demands on clinicians that make it hard to practice at top of license."
-    publishedDateTime: 2021-07-19T19:27:00Z
-    webUrl: "https://www.advisory.com/sponsored/ai-and-automation"
-    type: article
-    provider:
-      name: Advisory Board
-      domain: advisory.com
-    quality: 37
-    images:
-      - url: "https://advisory-prod.azureedge.net/-/media/project/advisoryboard/abresearch/sponsored/bright-md/brightmd1.jpg?h=321&w=603&rev=60dd1abc20bc4f289379b3d41db7b1f4&hash=9AA36588A8BA8D54368A8EE6BA37AA66"
-        width: 603
-        height: 321
-        isCached: true
-  - title: "Understanding how AI Drives Digital Transformation?"
-    excerpt: "When AI and machine learning become part of a company's strategy, it represents a new digital transformation era. FREMONT, CA: In a dynamic, fast-changing market world, digital transformation is one of the most critical factors of how companies deliver ..."
-    publishedDateTime: 2021-07-20T06:27:00Z
-    webUrl: "https://www.cioapplications.com/news/understanding-how-ai-drives-digital-transformation-nid-8112.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/gs3kk423.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
-    excerpt: "SenseTime, a leading global artificial intelligence (AI) company, yesterday launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asia to further their AI capabilities."
-    publishedDateTime: 2021-07-20T01:00:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/251071"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 16
-    images:
-      - url: "https://www.ryt9.com/img/files/20210720/iq2cedfdb440860a0cf26dc7062cc8cb3b.jpg"
-        width: 800
-        height: 493
+      - url: "https://img.deusm.com/darkreading/Edge/602x250_toon-june2021.jpg"
+        width: 602
+        height: 250
         isCached: true
 
 secured: "/lI587b8o7KzHzu3D17naY+bRc0kQSfyFCRNq/dl2ms8sdXmUNz2+9hOgQWPn0sfeZXyJvWs5UK7LOALJvk1qebqTd5VHBmXAL5OBitcsJRsQw/04qttAyA87fcRXuyoYpCK1mpPOTYksr5w9z4CiUYougdHKEZa2XJenfYO0ZvB2acynzQrcc57ozmCa8zIdBhM/3qnvDf0sKpscVBMIjUIcBp011t7bx7szofcCSamwB5aPLoHXqlhJMlHonrOcn+HdxG1QpFkr4dLVOxyqMvs4gSLS6qh1q73DFHkFs+9HsPC7JXBwIx8+S3MpGqgp+ceOsU1T2Jdx90zOcMgOUXkQ+cJB+La/vr5yHehN7eaKkXEV02oOVicLGGXN5IElo9xFQlmcBKuoYtGyungGKLBNZB666ISYiVb3WuR7aZN6+G1k3UI0YHqVn7fcOpNguz3RD6HKtutyfct6L57/qvi3GmkSI7IGPRBPBiqq0zW6MgwQV0WgFEp/gjcY6vIx3CJgr0VVqkgyJGcUvMgJg==;oTK+dLD6NIPpFM0UDgIGyQ=="

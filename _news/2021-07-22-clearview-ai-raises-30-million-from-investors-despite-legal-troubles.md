@@ -8,8 +8,8 @@ webUrl: "https://www.nytimes.com/2021/07/21/technology/clearview-ai-valuation.ht
 ampWebUrl: "https://www.nytimes.com/2021/07/21/technology/clearview-ai-valuation.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/21/technology/clearview-ai-valuation.amp.html"
 type: article
-quality: 87
-heat: 97
+quality: 187
+heat: 197
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 591
         isCached: true
 
-secured: "++hZC+INTCk0HAlwbKQeaVoF2YPYdBXk5m9UtAE0GuR72vQWJvKXGDmWzDQqwlsUaPRnOjNbhT+fPE+o1ePC5ruuHrVyyOjMIlOUHzp0dunztVkeS5ZdBephe+V05P4QR4iJR8V1yqwPo/hmANGTG4Z8A4J320A0/2q8YJ8xbUukhEdPVA3p1W+wUTtNijm1XWbPgjySc0Z5GqWeINo5/h8p3HSVMSouiEqvXig+mNUKPQb9jCIyReFR2y40M1SsAFqfDKU2kOq5ZPlGgwHwaT7bbMBCVm1+BgeSKVcSTU5IEcetEUIphT0sTv+HKQuQmV37tNyn96KsVAdxfYcME6/XVjEFJ8kbEGqkEBGxBo8wb9sg7mY3IVlOZegFyqkUQl11A2oWEiv1YnwtbxmUyAuv/lB+fuBEUadAi6TsMRIq93ukJj8W5aZPpFVTzk6u5QRubxTUPd3YMhJn6rT4ez6G8NurEQ40i0zQ9/bnpgD+O1xi7i08PBhzvahCHf8x/sGhNSey7x+5STr9jfsGxg==;trsg96EkPOsHGeUAY2iRhw=="
+secured: "5TF1HA6v938JbrrzNjpknLtTJY35Ny9xBrCMHOA2NRDJwF8OTNKw0/6jPB+WK0WmGoqrM65cQwwe87gWOMO2UaOLqXhPk5yEDdBg9MwBa6MvPmVL5EEAOB3cQhhREw0eg/G/2mvkmaNZIe1JYVviyJVvCIGMlmbaHOui74YWVbd9VTgIrOCkQyhcG0/nIAvXECBt5m9myx4JU5YdPknRE/xP3lyWP9bpL2NDoN226kW0kl6X/vAnLpTlfc8P5hI+MW81XJxYSTSFO2wdN7HHWtC3SKHHax2PgM4bB/XjxO9hvbseRlRIJ9vbTWbWfQXbdKLgWtxVfmfXGN3GxzUYNOUSc+NZXdm6Dl/WioMmWQuwq3XcVbvf10I9VjX0mNFXbIqb8d0mBiAT5VJ433GJZCE4N49mLd9dVIe1aQCFKwCALsjpxBOKCHs6B5+oYECsGWzyG+jksBoeb4hHn53AhXuRcPaw5VjNMZHJAYquGeDU1Qr68At3mFA8v7BuHR/2h/iOljAArnyt1ct/AaOi5z4XWSui52bNRznwWusgqj4=;eb6Sl73XY7k6i8uSb5VjfQ=="
 ---
 

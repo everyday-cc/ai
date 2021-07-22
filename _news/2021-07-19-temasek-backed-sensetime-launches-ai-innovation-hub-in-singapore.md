@@ -24,6 +24,34 @@ images:
     isCached: true
 
 related:
+  - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
+    excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
+    publishedDateTime: 2021-07-19T12:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-launches-the-sensetime-international-ai-innovation-hub-in-singapore-to-support-sea-s-digitalisation-journey-1030620106"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+    images:
+      - url: "https://mma.prnewswire.com/media/1576547/1.jpg"
+        width: 400
+        height: 233
+        isCached: true
+  - title: "New hub gives Singapore firms taste of artificial intelligence"
+    excerpt: "A facility offering immersive experiences with artificial intelligence was launched on Monday (July 19) to encourage firms to experiment with and develop AI innovations for their businesses."
+    publishedDateTime: 2021-07-20T06:39:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/07/20/new-hub-gives-singapore-firms-taste-of-artificial-intelligence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/07/20/1226671.jpg"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Southeast Asia's First AI Hub Launched in Singapore"
     excerpt: "AI development could deliver $1 trillion of additional GDP to Southeast Asia by 2030, according to an estimate."
     publishedDateTime: 2021-07-19T07:51:00Z
@@ -51,6 +79,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1576529/1.jpg"
         width: 400
         height: 233
+        isCached: true
+  - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore to Support SEA's Digitalisation Journey"
+    excerpt: "SenseTime, a leading global artificial intelligence (AI) company, yesterday launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asia to further their AI capabilities."
+    publishedDateTime: 2021-07-20T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/251071"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 16
+    images:
+      - url: "https://www.ryt9.com/img/files/20210720/iq2cedfdb440860a0cf26dc7062cc8cb3b.jpg"
+        width: 800
+        height: 493
         isCached: true
 
 secured: "lyJtn8Jo4d9s9yAFizY5dNCdHhXTrcgwWbN82yynCF2TflzN+k8ICXwHr7Cs5yN7W3qO35jXXsI8elmjRzHHrnj1pGTiTbGhKOoM5lGe6Ys1mCUvNcsriA3yn///i0eq/vxW9Xg/C74ZByfScX+HgWlpRtEha/TDcrY2pvcdaBBS1ThN4Jh/LQ/Mt0+VwTOa9nRc6veMzikKj1/fZbbORR0f277NywW0DvF4WfCtq/V9pPPDjVUq5gDWPo7ZaRXlgirOCqpr4jelmeeU/LwIz54ng9YS1i6AiNfO1bONGHbfghYqEy7xsIBQe9lPYxXUyNQCZJnKaGY9in09xOIv/nauD+xVQCTgEwKFoFge8ww=;siAhhuyPjFefgK/pjYBB6w=="

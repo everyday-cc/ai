@@ -27,7 +27,7 @@ related:
   - title: "SAFR collaborates with Dains to provide AI-based computer vision technology to increase the accuracy of people counting"
     excerpt: "SAFR from RealNetworks, Inc., a pioneer in high accuracy, low bias facial recognition, announces a collaboration with Dains, a Korean company that specialises in unmanned people and asset"
     publishedDateTime: 2021-07-20T10:15:00Z
-    webUrl: "https://www.sourcesecurity.com/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html"
+    webUrl: "https://www.sourcesecurity.com/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html?ref=nav"
     ampWebUrl: "https://www.sourcesecurity.com/amp/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html"
     cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html"
     type: article

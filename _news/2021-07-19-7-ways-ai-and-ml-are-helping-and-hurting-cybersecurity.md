@@ -25,47 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Buys CloudKnox To Boost Cybersecurity, Cloud Protection"
-    excerpt: "Microsoft has acquired CloudKnox Security, boosting its commitment to cybersecurity, the company announced in a Wednesday (July 21) blog post. CloudKnox has the ability to help companies right-size permissions,"
-    publishedDateTime: 2021-07-21T22:12:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
+  - title: "3 Ways AI Can Help You Improve Diversity"
+    excerpt: "As a business leader, you probably want to improve your organization’s diversity, merit, and fairness. In this post, I share some practical tips to harness data in service of diversity in your organization."
+    publishedDateTime: 2021-07-22T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/brianuzzi/2021/07/22/3-ways-ai-can-help-you-improve-diversity/"
+    ampWebUrl: "https://www.forbes.com/sites/brianuzzi/2021/07/22/3-ways-ai-can-help-you-improve-diversity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/07/22/3-ways-ai-can-help-you-improve-diversity/amp/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/microsoft-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "WSTA to Hold Virtual Seminar on Cybersecurity for FinTech Professionals"
-    excerpt: "The WSTA will host a virtual seminar and panel discussion on “Smart, Fast, Effective: Cybersecurity in the Age of Analytics & Automation.”"
-    publishedDateTime: 2021-07-19T16:24:00Z
-    webUrl: "https://beincrypto.com/wsta-to-hold-virtual-seminar-on-cybersecurity-for-fintech/"
-    ampWebUrl: "https://beincrypto.com/wsta-to-hold-virtual-seminar-on-cybersecurity-for-fintech/"
-    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/wsta-to-hold-virtual-seminar-on-cybersecurity-for-fintech/"
-    type: article
-    provider:
-      name: https//beincrypto.com
-      domain: beincrypto.com
-    quality: 44
-    images:
-      - url: "https://s32659.pcdn.co/wp-content/uploads/2021/07/WSTA-cybersecurity-for-fintech-virtual-event.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f8721362cfeb9ccf779b8f%2F0x0.jpg"
         width: 1200
-        height: 628
+        height: 800
         isCached: true
-  - title: "Microsoft acquires CloudKnox Security to offer unified privileged access and cloud entitlement management"
-    excerpt: "Helping organizations strengthen cloud security and Zero Trust. At Microsoft, we are committed to supporting organizations in their digital transformation and helping them to deli"
-    publishedDateTime: 2021-07-21T15:33:00Z
-    webUrl: "https://www.publicnow.com/view/5F7F1FD999BBB9434A26A6E22457EFC48F240BB2"
+  - title: "How Conversational AI Can Help Digital Transformation Succeed"
+    excerpt: "One of the challenges with many of these transformations is the impact on the employees and those stuck supporting them."
+    publishedDateTime: 2021-07-20T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/how-conversational-ai-can-help-digital-transformation-succeed/"
     type: article
     provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f57e2d2ef27aeb72092d1c%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "49Ddwo4+dzuCsQuk9Wn5T5TIOGuAA9KtWGGkjGQXwzyN3mqXOmOaQgJl8SWApu9reo7+wARDMHetdVdLj4kYJFrR6+Vb/Z+trb8calV6mUy5nAjPfT01jpQ+/NRPmzEcQXutSWE/S7jf99436KbuF6EC9mx/2ESdqiEVCA1byK/lQEg3qXFSxPwRbetgi/bL7u+TkcFBIiMlyb7r4fyl9DFL60EuD8Lcy4ic6z5aN5+QAmd4xuftcw71DnXAYcqemTlWssCokwJs+QM1Bv+IJ2msjZsKR2Gk7KAjYorHnNxzasI67tNTQ0l08JV6nLlOVxeVmpQt0n8qi03/ScJ4QiS59hTXzRv16ltgo7CNR2s=;8FpDK3BkbXPDodDKSYqY6A=="
 ---

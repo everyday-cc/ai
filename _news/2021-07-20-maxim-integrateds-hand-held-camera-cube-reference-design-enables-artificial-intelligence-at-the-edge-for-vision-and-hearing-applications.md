@@ -2,20 +2,24 @@
 category: news
 title: "Maxim Integrated's Hand-Held Camera Cube Reference Design Enables Artificial Intelligence at the Edge for Vision and Hearing Applications"
 excerpt: "Today Maxim Integrated Products, Inc. (NASDAQ: MXIM) unveiled the MAXREFDES178# camera cube reference design, which demonstrates how Artificial intelligence (AI) applications previously limited to machines with large power and cost budgets can be embedded in space-constrained,"
-publishedDateTime: 2021-07-20T12:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/20/9412526.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/20/9412526.htm"
+publishedDateTime: 2021-07-20T12:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-hand-held-camera-cube-reference-design-enables-artificial-intelligence-at-the-edge-for-vision-and-hearing-applications-1030624731"
+webUrl: "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-hand-held-camera-cube-reference-design-enables-artificial-intelligence-at-the-edge-for-vision-and-hearing-applications-1030624731"
 type: article
-quality: 6
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
 
 images:
@@ -177,7 +181,21 @@ related:
         width: 576
         height: 576
         isCached: true
+  - title: "Worldwide 5G Business Services Industry to 2026 - Machine Learning and Cognitive Computing Will Be Leading AI Tools Supporting 5G"
+    excerpt: "The \"5G Business Services Market by Enterprise, Industrial, and Government Segment Applications, Services, and Solutions 2021 - 2026\""
+    publishedDateTime: 2021-07-22T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-5g-business-services-industry-to-2026---machine-learning-and-cognitive-computing-will-be-leading-ai-tools-supporting-5g-301339413.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
-secured: "ue+GLqxuND0oeoYYZnQVAvbRqkeuGvlQreHfMDjPsxoT4OAh1uQHPo/Kpb95GB99DWOKVr1ni/vV98A6guzbCjNYk/87mwyeyCF1mnolyfSwi2ixi2CJxl5ouo4SJfL1NMJmAWweg67BW0D2MM3O7WqqGE3Srllv0V2y7MAZAGy3JoL4mkKrYlCoBuOf2lB1hXAzn3mp3c+vEJvb2wxStk1TMhC2rZbHmjYqP4zxFqELC2UxOKgHYZkjN7UddUtT6gUXVMbrm06QnRJB4XNZBlDByN4hFEmi9T/kGUo6Ncan3O4Tyrm3OMsRp3cXU8hAhOAXJwmCYvYi1IZXFTZnL7DmxVYHlHc1pTQaikixKEI=;/Yh4nOZj/JUaVi5LfRqsTA=="
+secured: "slytGnTLdSQFxlzW9cSK6EN2tIoexuM3j88PNPQovLptiQq014sWPaWaACdaC0jV2SvpVHuq69EOmrw2uhnCSfNgTBKPoEQ6EoceLnLxQPfGd2+G5mnUDIp9Tx6goHmOA/KsPb8dkTwA06iu/aBuDRvTClaocIYoQDdFrBEwVj0dn0PzHb6MEU/aLwqu/F4IFyfGcD8M2vh1Cmtzq5rNtUTZgBlDx9P/vGvD7kR5bQUsBTHSmBwIUmMl4q0oAcTd7YAugqqU3wrn9UokBCSxiZjvWSUejvWLL+G4TB93PTSPpiwOzQyCgfEiUnS2me/WFBgMeH9OgC2Pon/hT+H0YiDSbEsbZBJyvCUTni4X+zI=;R9ofvsUBBMp1qRjDiUFX5Q=="
 ---
 
