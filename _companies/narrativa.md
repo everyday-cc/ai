@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "NarrativaAI"
   url: "https://twitter.com/NarrativaAI"
-  followers: 992
+  followers: 993
 
 size: 2-10 employees
 yearFounded: 2015
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Cztoxp9-4ZA"
 
-secured: "+C0CwyHi4R8Ui2h5mINfotZoQ8iUmx9EtISjcIqAhZDDi80Ko8H07fHmMfm5hFl3CnTA4nKeroktxeaHvvT2d+9wMPHxpTi2iiwdrABZBTTSZt0YBnMi/3ZfuKNW5584yFbtQyNG911sK1NIhsKqUa2yNiUQhJAfvVdgpc8QNijBE2lVo9V+8o3U2CPIBa5AAZqz7pjWLy4tRGgxAw9YjWARskysLJ0EKk/iww152OS1nMNFHxlMumc+v0N0LZDzywahSBkx06fy/uEe1655USw8kbYIxlYCYuQbB1htaLQR/iC8Ex+scBh8Ph5GLY088rzw6CVyzrEuQRM1EdgvTeGihJ1g04i2aqs/DaRMixc647KtYI+mkqIUpeqWLzwTYcJMrKK1J6lajjGxkOlW+A==;VSZamn+LGDnlaBbp8xQKYA=="
+secured: "vw29Aostn0GiaO8YnX9yHcip4QLkezHVWwy3z9/CB07NxMDb1jIBhtYdWCuZaOc7eQ7Otwns5RDca00rLSRJA5CeLJYon7ssIy950WavEL3vDF9XGBId7imHDB7QHuUbhVeyVIwjQdyFMooMd4ZaLajkhM9NN0S+W95m64wu1VW7Eo+UkkU83bNw9EOZh4mgQjletv72ez9Tzx3hfMSrg3bUu7fiF17al4ZGPCuf83scu6LZtUDguTKtWDblZJF6CPKwIxkrEihCBbmW2GCzIQLVu/QYgKHHxDyWe2gT4K1uK4qIEZPE9k1qIpQhInk8Rt8mp4Ynv/ut2yluxWwmV+7dTxqOQQ9GvqXKDSnswlOVZJun9h2jXuMNpnA9aDqnT+Bh6s5jG/vsFQqBvgEqBQ==;KaTzSCyOFgsBehLuUArhsQ=="
 ---
 

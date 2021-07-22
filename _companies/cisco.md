@@ -2,7 +2,7 @@
 name: "Cisco"
 overview: "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. "
 type: "profile"
-heat: 221
+heat: 234
 
 website: https://www.cisco.com/
 
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Cisco"
 
-secured: "8eMJmgo/VOrCswC1GIi+g/Bb+5x0vtLl0QYyazsAHPZZhkMTaMug3Mey0ODZVmPMidLwV8PWAvGq3REJR95kRldowCWTqTykr03JavCpIJBga77CblEOYf9E/omX69TRe0TI8Gn7LyepALPoEDtngO36VnVxwfV5FfIVjaJC6i6eOvwaeaOoHdQe8ghue1qeELdFIuDeUnzbL7RZPxgtXvOt8N5Yeok0QA9UhXQIYD8rG3QTweE/urFTjHZZ+zdq2xU3ulwcxHkFiQfp9rgS3qf+hBzJdz6E45XB/YwDIqeAeHGhdRf3aIZzFJGw8ldMNPZ1eS7ORyXTI6C49AzJoxw/U6WxFkV+6EYl/j1cpJrzrzEfrIh9LBqsWzR8ZnBrYBU3s6NeQjxDgOsLvQ8cb3Axga9q6F/FcGkdWzPEwZk=;6EDvICRrowJalN4PAGPJmA=="
+secured: "vDm8b52IRrmS1rS7ps/M+sdg0QL0KnVtDa49F6u8/G2LtrANhnm2XVp6YrkTi2TfSsAVeaQZW3MMqzKPAss+RXMr/TQpu93+YkwRW2IHC1TtBeiQPTHBhaOJVVSZyVewTrIkb8oGohkpBoHgNKuFGbaUTNsfdG/7z4IfYL+mcQfu6WkzRGlXdQ649e9hWH9hDJeNG/YHb9qrlVbbZmnsk5oyRlC42oGbiUjwZET/Wa8mo/abbK1SSg9LJdaHuUiNC5uCidpNcqcYBMxG2WDYYKrH0SgYYn7pznEjBlMdcNLmV/51iCMNqKNpPWR65CoQ48sWGz5SqHT505/m9pt/JtqWI6qWOhP2znKvoWCvH3A40QZ37CLlqvw4e4TEjZPJB71iQkSI3T3QwPAiBllGZz/eRgqvLK+Y95fRTE8uYmU=;2B4eVX0faCOgMYuf1/BWsg=="
 ---
 
