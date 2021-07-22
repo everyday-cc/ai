@@ -54,6 +54,15 @@ related:
         width: 715
         height: 292
         isCached: true
+  - title: "Eight approaches to processing natural-language-enabled AI"
+    excerpt: "Conversational AI goes far beyond chatbots. AI systems that process natural language engage in humanlike dialog, understand context, and offer intelligent responses in milliseconds. Put simply, natural language processing is a computer program that understands human language the way it is spoken."
+    publishedDateTime: 2021-07-22T07:58:00Z
+    webUrl: "https://www.publicnow.com/view/B3E390D6B7EFF50A8099D494F48B05491A408D81"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 19
 
 secured: "CfJRWlx5+g2Yfzvu4eoTZgey3cmud1gd5kAGTIAMCSPSo+vPPEghZf6Y8ooM5zWOzpAnWIDEEUeQ2/2mYyizaFhLUOzXmZFeRP7+uEB5QfSAV8mIl/3zkdmkaNylkxEM9avZup36vD54jynLOxjIkEm6fy75WCgKjx4CCaz6MFlMnK/cr6BqpzxKSvYyF3rBCsE6BigWriy1CRSTSXoIZw5PN2r1Kim3yXXqVUNzIP+DCRuR6b+PLAk2cBRMO6rlEpLUzGEm4JfH7eYy1HpqL8Dg39bgCmmr9vZMzhwzFZ2HNRZHBmOsKQBWQTWhwrZEOMZqnx4CuopjOC0SSTtwfCDvfjydb9mSJb5SusMtmp/v9NctSK/a7SgZBCil8ss74wGtlEXMYccYEGNkD/prYAa8K55O8U8oSzEb2GZR/H1Zf49qpJQ0uRfsgyizwD2pxrbkIvszVRAOos+G59nAUEX6KUqwxLWROp2RFE3nDP34QoKwsXa0VeZOi8b/XIadOaq/NNy5aHu4HPRG/WLfHg==;60TmmEZKYEkLpkhsQuC3hA=="
 ---

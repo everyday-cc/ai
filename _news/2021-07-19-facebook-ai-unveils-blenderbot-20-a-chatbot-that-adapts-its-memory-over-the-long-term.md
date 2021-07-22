@@ -24,6 +24,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Tech Behind Facebook’s BlenderBot 2.0, A Chatbot With Long Term Memory"
+    excerpt: "BlenderBot 2 is a first of its kind open-source chatbot with long term memory– from the house of Facebook’s research platform ParlAI. The latest developments point to Facebook’s bid to make the AI more empathetic,"
+    publishedDateTime: 2021-07-22T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/tech-behind-facebooks-blenderbot-2-0-a-chatbot-with-long-term-memory/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/blenderbot.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+
 secured: "74V+yip+NahE5+7oopqKgSvt5fEe6EEBCQRSIbkLaVQEvSALJJWB2RwzUSWJM/esZr5Hsbdwv2uP5+YiBo2gXMszu0U5+paSIerSwXk5Kcsf/75ImCPDdppzlfbh24MyWqcpkwUKyx6UslvK9Xy2DqoiU+gdsY+wBtLiUAZVkDfoUZeFUxLWOY3TSfB99/KzjnAbWwD9zox5XGl7TK9gg90nJBvyYfIaCms+oyb3J6/RPxFWrQCFl3vTEd3HB2CyFxXdxHw4f33ytdA8spiJn2hY5v3E7NTbIreeQBs5AOzONvHNdIP0UeorPnjA97pUtrngeLbDZoVXfRpG990i6mh+NukimGfrkpwcOXAXkHwO8doY66zxCjaNDwrFJ231TnKbXz/EnhvpIcY7Z1pacTXjh5rezFGFWx++YQyyohBihWkkrzyI9ReIuXl8k3X8Fi4y5Btx3ddpsRNsVcdsubTMGWr5329hRkwxWff3QGd70QfQ+ZaUJJmFCm0SfQYPVaIvI6LV4iWb77NYd3Bq/A==;AaqhqbU1O8Ah10S3QpAs/Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/amp/"
 type: article
 quality: 95
-heat: 425
+heat: 435
 published: true
 
 provider:
@@ -312,6 +312,20 @@ related:
       - url: "https://images.hgmsites.net/hug/2020-tesla-model-3_100736264_h.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Tesla just lowered the price of the ‘Full Self Driving’ hardware upgrade"
+    excerpt: "Tesla has reduced the price of the ‘Full Self Driving’ upgrade necessary for older Tesla models to use the new FSD subscription service. It’ll now cost $1,000, instead of $1,500. This is likely in response to criticism from Tesla owners who were asked to pay for the upgrade."
+    publishedDateTime: 2021-07-22T07:00:00Z
+    webUrl: "https://www.tomsguide.com/news/tesla-just-lowered-the-price-of-the-full-self-driving-hardware-upgrade"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 53
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/bkgdXULVBEKJ8JGU2FDv8b-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Tesla’s Smart Summon feature is currently a fun-trick of Full-Self Driving suite"
     excerpt: "Elon Musk tweeted that the current Tesla's smart summon feature is only a fun trick and is yet to be a useful feature in upcoming updates."

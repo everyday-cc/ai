@@ -312,6 +312,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla just lowered the price of the ‘Full Self Driving’ hardware upgrade"
+    excerpt: "Tesla has reduced the price of the ‘Full Self Driving’ upgrade necessary for older Tesla models to use the new FSD subscription service. It’ll now cost $1,000, instead of $1,500. This is likely in response to criticism from Tesla owners who were asked to pay for the upgrade."
+    publishedDateTime: 2021-07-22T07:00:00Z
+    webUrl: "https://www.tomsguide.com/news/tesla-just-lowered-the-price-of-the-full-self-driving-hardware-upgrade"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 53
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/bkgdXULVBEKJ8JGU2FDv8b-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla’s Smart Summon feature is currently a fun-trick of Full-Self Driving suite"
     excerpt: "Elon Musk tweeted that the current Tesla's smart summon feature is only a fun trick and is yet to be a useful feature in upcoming updates."
     publishedDateTime: 2021-07-20T03:30:00Z

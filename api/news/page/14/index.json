@@ -2,6 +2,40 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-07-12-blue-ocean-smart-system-to-introduce-chiplet-based-high-performance-low-power-ai-chips.md",
+      "title": "Blue Ocean Smart System to Introduce Chiplet based, high-performance, low-power AI chips",
+      "excerpt": "Blue Ocean Smart System – the leading Chiplet based technology developer in the post-Moore's Law era for large-scale computing, energy efficient applications, today jointly launched as a founding member,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-blue-ocean-smart-system-introduce-chiplet-based-high-/2021/07/12/9406356.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-blue-ocean-smart-system-introduce-chiplet-based-high-/2021/07/12/9406356.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-scale-ais-rapid-growth-reflects-widening-demand-for-smart-software.md",
       "title": "Scale AI’s Rapid Growth Reflects Widening Demand for Smart Software",
       "excerpt": "A surge in corporate demand for artificial intelligence is driving growth for startups that help companies prepare data for software tools designed to glean business insights like gauging demand or spotting supply chain inefficiencies.",
@@ -1109,59 +1143,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-dynamic-ab-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects.md",
-      "title": "Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects",
-      "excerpt": "In this post, you learn how to create a MLOps project to automate the deployment of an Amazon SageMaker endpoint with multiple production variants for A/B testing. You also deploy a general purpose API and testing infrastructure that includes a multi-armed bandit experiment framework. This testing infrastructure",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/23/14-3239-Architecture.jpg",
-          "width": 800,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T11:07:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

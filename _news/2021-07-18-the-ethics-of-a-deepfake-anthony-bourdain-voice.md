@@ -86,6 +86,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "The Curious Case Of Anthony Bourdain’s AI Voice"
+    excerpt: "Meredith Broussard, author of the book ‘Artificial Unintelligence’, shared a similar view calling disclosure imperative to the use of AI. According to her, ethics is about context. While three lines in a documentary are not that significant ..."
+    publishedDateTime: 2021-07-22T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/the-curious-case-of-anthony-bourdains-ai-voice/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/bourdain.png"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "egtDf8ZPQUQ4nBayTLI97rq1GuSevfvILUV2v+gA6FnacLzS0hoWJriaZr1IMoQxid9wdn7E0AyYGBqCCUb/xQMakoIO6vfFaGmodMMBD7wGUjiGr4JMqg3V/hI8gfXDacaTP6NHmebJnLtJvwixei9gPjuJ6yvRu6FaspWsSzLyWnwcs0pUluVKGNf0TO/YeijYPdkQBsz/aH39kyLlknYOwldZTxjIFWzMT01A4TtKiiI84XxTQJkQbCNCX7Ves5gZniWn2WoreNZoJ8rnd80Az0zzgcW1CDESQ8/xIN4LCsuuOD2aUKpdewGWKWEzYDymFTo5+icdPc07nhrbTJoe7uU3MkZiYpVMIXBr3d07VCsH7HNjXjumddlB7BIrM/jXann2N3kv/XO4241Ej/ZNvQxKSjeGeXWq6LKiodK+HixnFggYUZ8RHkfpkC558VdxKKMWnCJR+amg8fb6UOCqzsGGgFRs6dPAq5ez8pc99QyHFp7xNk1D8nSoB2vlX2NyuyyCw6ls0L8D3KmDXQ==;xonxJ68nYe8FIsw7hcI90w=="
 ---

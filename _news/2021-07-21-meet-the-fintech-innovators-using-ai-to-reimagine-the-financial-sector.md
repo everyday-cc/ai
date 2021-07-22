@@ -25,21 +25,155 @@ images:
     isCached: true
 
 related:
-  - title: "Major Challenges the Fintech Industry Faces Today and How to Overcome Them"
-    excerpt: "Fintech, although making a technological revolution, has some major issues and challenges ahead. what are these fintech challenges and how toi overcome them"
-    publishedDateTime: 2021-07-21T13:13:00Z
-    webUrl: "https://www.financemagnates.com/fintech/major-challenges-the-fintech-industry-faces-today-and-how-to-overcome-them/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/major-challenges-the-fintech-industry-faces-today-and-how-to-overcome-them/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/major-challenges-the-fintech-industry-faces-today-and-how-to-overcome-them/amp/"
+  - title: "UK fintech Napier sets up office at Dubai’s leading financial center"
+    excerpt: "Napier already works on AI-led anti-financial crime solutions with many organizations across MEASA, including the Saudi Arabian Monetary Agency, Central Bank of UAE and directly with DIFC"
+    publishedDateTime: 2021-07-22T07:34:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_226923548/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_226923548/"
     type: article
     provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 42
+      name: Zawya
+      domain: zawya.com
+    quality: 59
     images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
-        width: 880
+      - url: "https://images.zawya.com/images/cia/zAmp/210330032159USWL.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Indian fintech major Razorpay acquires digital lending firm TERA Finlabs"
+    excerpt: "Fintech firm Razorpay has acquired TERA Finlabs, a startup involved in providing businesses with embedded financial solutions"
+    publishedDateTime: 2021-07-20T15:24:00Z
+    webUrl: "https://thetechportal.com/2021/07/20/indian-fintech-major-razorpay-acquires-digital-lending-firm-tera-finlabs/"
+    ampWebUrl: "https://thetechportal.com/2021/07/20/indian-fintech-major-razorpay-acquires-digital-lending-firm-tera-finlabs/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/07/20/indian-fintech-major-razorpay-acquires-digital-lending-firm-tera-finlabs/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 43
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2019/06/64541923_10157511267069171_8703981590209888256_n.jpg"
+        width: 800
         height: 400
+        isCached: true
+  - title: "10 First-Class Fintech Stocks to Watch"
+    excerpt: "F intech stocks are housed under a wide umbrella on Wall Street. Some of the old guard focuses on the traditional payments aspect of financial technology. But the industry can also include real estate,"
+    publishedDateTime: 2021-07-21T08:13:00Z
+    webUrl: "https://www.nasdaq.com/articles/10-first-class-fintech-stocks-to-watch-2021-07-21"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+  - title: "IDenfy bags deal withj Polish fintech Payment Financial"
+    excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Payment Financial SA."
+    publishedDateTime: 2021-07-20T11:55:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88625/idenfy-bags-deal-withj-polish-fintech-payment-financial"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "IDenfy joins forces with Polish FinTech Paymento Financial"
+    excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Paymento Financial SA."
+    publishedDateTime: 2021-07-20T10:50:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/idenfy-joins-forces-with-polish-fintech-paymento-financial/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Global-FinTech-Use-Cases-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Fidelity International signs Fintech Pledge"
+    excerpt: "Fidelity International committed to a UK strategy, known as the fintech pledge, which is aimed at accelerating the growth of the country's fintech sector"
+    publishedDateTime: 2021-07-21T15:12:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fidelity-international-signs-fintech-pledge"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1202705835%20%282%29.jpg?itok=EbGxM7h-"
+        width: 2309
+        height: 1299
+        isCached: true
+  - title: "Infobird's Successful Launch of Intelligent SaaS for a Leading Fintech ..."
+    excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (\"Infobird\" or the \"Company\"),"
+    publishedDateTime: 2021-07-20T12:31:00Z
+    webUrl: "https://www.pr-inside.com/infobird-s-successful-launch-of-intelligent-saas-for-a-leading-fintech-r4839640.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 22
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Fintech TrueAccord Says Financial Tech Firms are “Rethinking” Approach to Existing Problems to Build Better Solutions"
+    excerpt: "Fintech TrueAccord says financial tech firms are \"rethinking\" approach to existing problems to build better solutions."
+    publishedDateTime: 2021-07-20T03:21:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/07/178024-fintech-trueaccord-says-financial-tech-firms-are-rethinking-approach-to-existing-problems-to-build-better-solutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/178024-fintech-trueaccord-says-financial-tech-firms-are-rethinking-approach-to-existing-problems-to-build-better-solutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/178024-fintech-trueaccord-says-financial-tech-firms-are-rethinking-approach-to-existing-problems-to-build-better-solutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 21
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2014/09/Money-Coins-Nickel-Penny--300x210.jpeg"
+        width: 300
+        height: 210
+        isCached: true
+  - title: "Top UK fintech Napier opens new office in Dubai amid global growth"
+    excerpt: "Provider of advanced anti-financial crime compliance solutions announces expansion to Dubai International Financial Centre"
+    publishedDateTime: 2021-07-20T12:07:00Z
+    webUrl: "https://www.arabianbusiness.com/banking-finance/466293-top-uk-fintech-napier-opens-new-office-in-dubai"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
+  - title: "The fintech landscape in Latvia – Interview with the Financial and Capital Market Commission"
+    excerpt: "Marine Krasovska, Director of financial innovation department, FCMC, offers key insights into the Latvia-based fintech"
+    publishedDateTime: 2021-07-19T08:49:00Z
+    webUrl: "https://thepaypers.com/interviews/the-fintech-landscape-in-latvia-interview-with-the-financial-and-capital-market-commission--1250478"
+    type: article
+    provider:
+      name: The Paypers
+      domain: thepaypers.com
+    quality: 13
+    images:
+      - url: "https://thepaypers.com/images/social_media/fintech-socialmedia_LI.png"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
+    excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (“Infobird” or the “Company”),"
+    publishedDateTime: 2021-07-20T12:31:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-2fcaf5aa6c7c11c5451b9eb175c3f3ef"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "++qbRcevX7OWikNd8xJaZt2RoJlWcxXgsbO+aPT2BftO02CjPM6Hv3sQ7pGSYpbP7duDAv1637m/JEV5pl4EshKwx1V0cIooPtKJhKGtCpHVjbfWtic9lIiY4MDWkn0j0vDKSJL5QB0A99frn+DvExDiVwCVqgsaEQVCla4jdCdTLXTqWboLs//f4wh/SShJsNkaZV1EYptm+dHM4PyIWJ+7Tj9v5iiDLng14nNgIQ6cdKXEKqKZD83j/UMLmiZo4NV5frkx9ML2lmnZxPP7fuF4a56Jqtz9YAzREXMRI45DAsCD9m96isqKXx98TXVYUyTSN6PWnHhhKc9vsegihRlkQsnm0SAQdJLBhKzmoPufoubQoVfhClTim9BMRn1FAvpVXd+6nDpus+8Xg4GBjLr7tkEfL3hr74XyAkJJRaugfiQ54M41I+gv9ST04RFD3wdxl1h+fCNo03UmcAnFnggVRbSAwqtr8Wn01rE1bOWXeGc3XALZRPnD5DvbbKbo2+QZRUnKynFjOsCzJCdmBA==;O6rsuXXu5UPYmn6v3ruTVw=="

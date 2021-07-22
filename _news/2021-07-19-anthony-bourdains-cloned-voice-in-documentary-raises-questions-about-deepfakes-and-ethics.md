@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/entertainment/article/3141659/anthony
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/entertainment/article/3141659/anthony-bourdains-cloned-voice-documentary-raises-questions"
 type: article
 quality: 94
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "The Curious Case Of Anthony Bourdain’s AI Voice"
+    excerpt: "Meredith Broussard, author of the book ‘Artificial Unintelligence’, shared a similar view calling disclosure imperative to the use of AI. According to her, ethics is about context. While three lines in a documentary are not that significant ..."
+    publishedDateTime: 2021-07-22T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/the-curious-case-of-anthony-bourdains-ai-voice/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/bourdain.png"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "wULoRaRT0o+J8u8YY3d9dutrneAEam9H3LHEHCw1kNR9j0PFIoyzX1hjEWLW1V+H8ELs2yo2xpj6dAs/jORVd/JPiHXjr5SZ0C16TlS5EXwU8I8x9IN+APi7d3h0XgPbFQfMn7psXvNJH1Cy/ehtPqHg+xHTn7hU9QRxxhcBAzfG/Szg8hEv/5IxReXtFhZ42m+1W6H5NSLULRVS6ixSmKaMf+3B8citxNT9VTADyDJAybXRELQB9Yo1Tv9wHAaRDn+QzarfFPCCqFP3s5tvYLUxUtem3M03BDw7zmYqkVcOSCYhykbe1CTXBQZryVOJX4HD++fl4fbymfdtQcBiMSW3pPPtXbSLSEQCCj+c5Oo2noEBK7itazcJqs/CtE6AwY8ZJ8TNm+1aCC3PLaaVlpjYLaHkPQmo9xHITvY4Cex28ZpQMI1zzD3R8bjVAkAAVmei+dpSrl0Yk5ZRVuRJp1e4qvnXbaTzumCJhlXY5nWu9u81q9eh2N5Ju/CPmUc17COxZ5vTLcbaCKcwGxLL0w==;+krThgzqL2DMCmOs5aNGnw=="
 ---

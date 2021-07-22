@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-22-uk-fintech-napier-sets-up-office-at-dubais-leading-financial-center.md",
+      "title": "UK fintech Napier sets up office at Dubai’s leading financial center",
+      "excerpt": "Napier already works on AI-led anti-financial crime solutions with many organizations across MEASA, including the Saudi Arabian Monetary Agency, Central Bank of UAE and directly with DIFC",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/210330032159USWL.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_226923548/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_226923548/",
+      "publishedDateTime": "2021-07-22T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai.md",
       "title": "Wealthech: Fabrick and Prometeia Partner on Wealth Management Solution Incorporating Open Banking, AI",
       "excerpt": "Fabrick, an Open Banking Fintech and Prometia, a company offering wealth management solutions, have joined to launch the Global Investment Portfolio, a digital wealth management solution that utilizes artificial intelligence (AI) as well as Open Banking tech.",
@@ -149,7 +192,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-2021-rising-future-estimations-and-key-countries-by-2031-2021-07-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1337,50 +1380,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-learning-workloads-in-the-cloud.md",
-      "title": "NetApp acquires Data Mechanics to accelerate spot roadmap and optimize data analytics and machine learning workloads in the cloud",
-      "excerpt": "NetApp® (NASDAQ: NTAP), a global, cloud-led, data-centric software company, today announced that it has acquired Data Mechanics, a managed platform provider for big data processing and cloud analytics with offices in Paris,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/",
-      "originalUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/pr/images/2021/ENG_PR1572_2021_06_29.jpg",
-          "width": 450,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210629131953/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210629131953/",
-      "publishedDateTime": "2021-06-29T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

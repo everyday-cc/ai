@@ -2,6 +2,48 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-07-06-comment-the-case-for-a-standardised-approach-to-digital-twins.md",
+      "title": "Comment: The case for a standardised approach to digital twins",
+      "excerpt": "This is particularly significant if we assume that the natural evolution of digital twins – especially those relating to public infrastructure, such as power or transport networks – will include a role in larger connected ecosystems (a smart city ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/the-future-of-smart-cities-utilities-powering-progress-with-ai/",
+      "originalUrl": "https://www.theengineer.co.uk/digtial-twins-standardised-vec-interoperability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc7bff27f61977148c37a4b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/the-future-of-smart-cities-utilities-powering-progress-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/12/the-future-of-smart-cities-utilities-powering-progress-with-ai/amp/",
+      "publishedDateTime": "2021-07-06T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Engineer",
+        "domain": "theengineer.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-this-ai-publicly-shames-politicians-but-dont-laugh-just-yet.md",
       "title": "This AI publicly shames politicians, but don’t laugh just yet",
       "excerpt": "An AI project that publicly shames politicians using phones during government meetings provides a warning to us all about surveillance creep.",
@@ -295,6 +337,40 @@
       ]
     },
     {
+      "path": "_news/2021-07-06-reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure.md",
+      "title": "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure",
+      "excerpt": "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-bytedance-selling-tiktok-ai-to-companies-including-in-india.md",
       "title": "ByteDance selling TikTok AI to companies including in India",
       "excerpt": "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the short video-making app to other companies,",
@@ -334,49 +410,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure.md",
-      "title": "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure",
-      "excerpt": "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new business applications across industries, reduces upfront costs and allows for the rapid implementation of customer-specific robotics use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_0927f4c9-a635-5e89-9d3d-531a8f3f452e.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_0927f4c9-a635-5e89-9d3d-531a8f3f452e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1105,58 +1138,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-47m.md",
-      "title": "Obviously AI, a no code startup for data analysts, increases its seed round to $4.7M",
-      "excerpt": "After using Obviously AI and benchmarking it against other AutoML products, Mysore was so impressed that he reached out to the startup and led the investment round. No code/low code startups have ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/",
-      "originalUrl": "https://techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/4.-Model-Report.png?w=680",
-          "width": 680,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/amp/",
-      "publishedDateTime": "2021-07-05T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

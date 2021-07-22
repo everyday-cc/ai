@@ -25,33 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "IDenfy bags deal withj Polish fintech Payment Financial"
-    excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Payment Financial SA."
-    publishedDateTime: 2021-07-20T11:55:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88625/idenfy-bags-deal-withj-polish-fintech-payment-financial"
+  - title: "3 Fintech Stocks Wall Street Predicts Will Rally by More Than 40%"
+    excerpt: "As more advanced technologies and innovative solutions find application in the financial sector, the fintech market could keep growing quickly in the coming months thanks to increasing digital transactions."
+    publishedDateTime: 2021-07-21T15:59:00Z
+    webUrl: "https://stocknews.com/news/futu-sofi-psfe-3-fintech-stocks-wall-street-predicts-will-rally-by-more/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: Stock News
+      domain: stocknews.com
     quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "IDenfy joins forces with Polish FinTech Paymento Financial"
-    excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Paymento Financial SA."
-    publishedDateTime: 2021-07-20T10:50:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/idenfy-joins-forces-with-polish-fintech-paymento-financial/"
+  - title: "3 Fintech Stocks Wall Street Predicts Will Rally by More Than 40%"
+    excerpt: "As more advanced technologies and innovative solutions find application in the financial sector, the fintech market could keep growing quickly in the coming months thanks to increasing digital transactions."
+    publishedDateTime: 2021-07-21T17:31:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/3-fintech-stocks-wall-street-predicts-will-rally-by-more-than-40-2564349"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: Investing.com
+      domain: investing.com
     quality: 24
     images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Global-FinTech-Use-Cases-300x300.jpg"
-        width: 300
-        height: 300
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEC0K0YG_L.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "hSTwOomvIsq+Xa+MgwpCjACNObM3j3CbcvHr6GyIyWqSBjoNkgfiIsJPQvK+pUnDyVzvYb3/V8OP72vZ74Ip3dpk8H0NoZSm14G+yPgTq5nBIrrR8OEt5d/0VB3YgIXhb24SZWaSuwcPbhDD8JbdHb9qm3cSqIGw1SBYOO5L30StOYdhUbw4Ww9r7ZmOrjqsw0CEOkUMbhAQqbhozmm+391Vn4xj79aMyUxKhw8kPkjuaRx+oknOp/v8EJS2NwVlyqaHCv5oHWbflSKGWXtt6ve93ZvfdeJi12JQ4AzNRz6x1Cct3ksgN/Idffa+nN1PlbA8/3lyrsVVB1KFt/iGhVYiFK5lzrd+x+L5CViw3QYUxayVW7uJywEaU8MlisV6gmtjedpfyzFc3lIp8HYYdCPmArCEZK0Z0gWvFx15MZtOg5SAf89H5dnaQKAZmY28S44ofU+tUktdvY4c7ookPp3QIoJ9jHAm6bF1KMuKeK5iE7woaEWsiGZ+3YjmnCGrBBZEDRJaK31gF3ElgHYfWg==;P8NBFy7yBbOWHtuMn9dN+w=="

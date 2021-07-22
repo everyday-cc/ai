@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-
 webUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-ethical-use-of-ai-in-the-hiring-process/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Eight approaches to processing natural-language-enabled AI"
+    excerpt: "Conversational AI goes far beyond chatbots. AI systems that process natural language engage in humanlike dialog, understand context, and offer intelligent responses in milliseconds. Put simply, natural language processing is a computer program that understands human language the way it is spoken."
+    publishedDateTime: 2021-07-22T07:58:00Z
+    webUrl: "https://www.publicnow.com/view/B3E390D6B7EFF50A8099D494F48B05491A408D81"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 19
 
 secured: "cyrbFpEEd4J6nfA9PNCw0FFfJ7UgHjnEFU1qOtl2Nad/8WJl9X2pXXflBzDEP1LNK3GYryyIbHJn73R/4SO4wBjc6YAfJnMJ69eIseaxRdE8GCcAOTB6mDrgXZDpfBI/iejnsdWcx6miQTFHJriEyj+i4g9evk7rwuDY46lAgpL/mZmdG8iMYbJg0faN+ToQCROU8qk7FGXOy8mkE1A+OK/X0yGcc0qrdttx3Elrk5qDhzZS9lm/nPnRM1Z2Y0+crZrKoYRVjOWsEgZuN4Cv4737IqlEPItZ1V1AEhtBetC7989FJYJ9IUDLXFr8pS9IViGDbF8G4WD7jvigxOoYJT5LxJAXr20Vuu7VZgbgqYy3QbUNpExgD9gYbY3NdL7cDVr0z9ef7i5fX2fAFJ+s0jG8ZovCdI7Ea3uDCSfUn63fvweT1fPwoECwggriC7uzJLtcV1XlS3HzU5VTRaDkztGIG40FKPQjEuihoDs0ceojxX6mTTp/YkEyaWFS94vVX3X12S3Z6LIG9Nzc1DjACQ==;1EpkKG/nY84QhlANM/0g/g=="
 ---

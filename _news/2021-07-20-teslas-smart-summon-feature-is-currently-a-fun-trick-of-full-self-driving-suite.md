@@ -323,6 +323,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla just lowered the price of the ‘Full Self Driving’ hardware upgrade"
+    excerpt: "Tesla has reduced the price of the ‘Full Self Driving’ upgrade necessary for older Tesla models to use the new FSD subscription service. It’ll now cost $1,000, instead of $1,500. This is likely in response to criticism from Tesla owners who were asked to pay for the upgrade."
+    publishedDateTime: 2021-07-22T07:00:00Z
+    webUrl: "https://www.tomsguide.com/news/tesla-just-lowered-the-price-of-the-full-self-driving-hardware-upgrade"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 53
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/bkgdXULVBEKJ8JGU2FDv8b-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Full-Self Driving subscription launched in Tesla cars equipped with hardware 3.0 or above"
     excerpt: "Tesla Full-Self Driving technology is launched in Tesla cars software with a monthly subscription offer at $99- $199."
     publishedDateTime: 2021-07-18T01:00:00Z

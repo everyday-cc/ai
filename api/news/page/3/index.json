@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-20-with-auto-chip-shortage-easing-are-semiconductor-equipment-stocks-still-a-buy.md",
+      "title": "With Auto Chip Shortage Easing, Are Semiconductor Equipment Stocks Still A Buy?",
+      "excerpt": "Our theme on Stocks That Benefit From The Semiconductor Shortage includes companies that produce machinery and tools for chipmaking and semiconductor players with their own fab capacity. The stocks in the theme have had a relatively mixed couple of days,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/07/20/with-auto-chip-shortage-easing-are-semiconductor-equipment-stocks-still-a-buy/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/07/20/with-auto-chip-shortage-easing-are-semiconductor-equipment-stocks-still-a-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe2ea7a3525e3f86a796cf5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-nvidia-releases-tensorrt-8-for-faster-ai-inference.md",
       "title": "Nvidia releases TensorRT 8 for faster AI inference",
       "excerpt": "The latest version of Nvidia's software development kit for AI inference speeds up inference performance with certain models.",
@@ -1102,7 +1154,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-soaring-at-35-cagr-to-reach-19080-million-usd-by-2025-2021-07-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1195,58 +1247,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-how-to-make-ethical-use-of-ai-in-the-hiring-process.md",
-      "title": "How To Make Ethical Use Of AI In The Hiring Process",
-      "excerpt": "Global corporate investments in AI are projected to double to around $110 billion over the next two years. One of the main areas of application for organizational AI is recruitment (e.g., staffing, hiring,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-ethical-use-of-ai-in-the-hiring-process/",
-      "originalUrl": "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-ethical-use-of-ai-in-the-hiring-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f5837b1a2db6fca4092d1a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

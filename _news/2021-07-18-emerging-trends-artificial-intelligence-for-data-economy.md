@@ -38,6 +38,17 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Artificial Intelligence (AI): Driving the future of Software development"
+    excerpt: "The Artificial Intelligence (AI) revolution is silently brewing in the way we think about and write software. Popularly, the next wave of AI-driven software development is known as Software 2.0."
+    publishedDateTime: 2021-07-22T07:30:00Z
+    webUrl: "https://www.pcquest.com/artificial-intelligence-ai-driving-future-software-development/"
+    ampWebUrl: "https://www.pcquest.com/artificial-intelligence-ai-driving-future-software-development/amp/"
+    cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/artificial-intelligence-ai-driving-future-software-development/amp/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 53
   - title: "Co-Living Artificial Intelligence Makes Everyone Friends"
     excerpt: "But real life can be more challenging, and flatmates falling out is the co-living operator’s worst nightmare. Now tech-enabled ‘community psychology’ is being trialed in three Swedish co-living schemes in an effort to banish the bad dream,"
     publishedDateTime: 2021-07-20T15:48:00Z

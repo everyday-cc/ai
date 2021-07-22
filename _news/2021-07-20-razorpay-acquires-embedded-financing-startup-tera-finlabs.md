@@ -42,22 +42,6 @@ related:
         width: 412
         height: 275
         isCached: true
-  - title: "Indian fintech major Razorpay acquires digital lending firm TERA Finlabs"
-    excerpt: "Fintech firm Razorpay has acquired TERA Finlabs, a startup involved in providing businesses with embedded financial solutions"
-    publishedDateTime: 2021-07-20T15:24:00Z
-    webUrl: "https://thetechportal.com/2021/07/20/indian-fintech-major-razorpay-acquires-digital-lending-firm-tera-finlabs/"
-    ampWebUrl: "https://thetechportal.com/2021/07/20/indian-fintech-major-razorpay-acquires-digital-lending-firm-tera-finlabs/?amp"
-    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/07/20/indian-fintech-major-razorpay-acquires-digital-lending-firm-tera-finlabs/?amp"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 43
-    images:
-      - url: "https://thetechportal.com/wp-content/uploads/2019/06/64541923_10157511267069171_8703981590209888256_n.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Razorpay acquires TERA Finlabs in push for startup, MSME loans"
     excerpt: "Razorpay Capital along with TERA Finlab's technology capabilities will be able to service the credit needs of more than 10,000 startups and MSMEs in India by next year, according to a statement."
     publishedDateTime: 2021-07-19T07:14:00Z
@@ -73,43 +57,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-569253,msid-84545027/razorpay-co-founder-harshil-mathur.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "10 First-Class Fintech Stocks to Watch"
-    excerpt: "F intech stocks are housed under a wide umbrella on Wall Street. Some of the old guard focuses on the traditional payments aspect of financial technology. But the industry can also include real estate,"
-    publishedDateTime: 2021-07-21T08:13:00Z
-    webUrl: "https://www.nasdaq.com/articles/10-first-class-fintech-stocks-to-watch-2021-07-21"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
-  - title: "Fidelity International signs Fintech Pledge"
-    excerpt: "Fidelity International committed to a UK strategy, known as the fintech pledge, which is aimed at accelerating the growth of the country's fintech sector"
-    publishedDateTime: 2021-07-21T15:12:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fidelity-international-signs-fintech-pledge"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1202705835%20%282%29.jpg?itok=EbGxM7h-"
-        width: 2309
-        height: 1299
-        isCached: true
-  - title: "Infobird's Successful Launch of Intelligent SaaS for a Leading Fintech ..."
-    excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (\"Infobird\" or the \"Company\"),"
-    publishedDateTime: 2021-07-20T12:31:00Z
-    webUrl: "https://www.pr-inside.com/infobird-s-successful-launch-of-intelligent-saas-for-a-leading-fintech-r4839640.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 22
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Razorpay Acquires Lending Startup, TERA Finlabs; Strengthens Its B2B Credit Infrastructure"
     excerpt: "The country’s leading full stack financial solutions company, Razorpay, today announced its acquisition of TERA Finlabs, an AI-based risk tech SaaS Platform, for an undisclosed amount. TERA Finlabs is a Bengaluru-based startup that provides technology,"
@@ -134,20 +81,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 2
-  - title: "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
-    excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (“Infobird” or the “Company”),"
-    publishedDateTime: 2021-07-20T12:31:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-2fcaf5aa6c7c11c5451b9eb175c3f3ef"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Oi0IMv2QkLnXN8iz4n7YXNVSfU2vIXm+feiT80UxDyFtDJV/ZtA++UGDDMHx+BBXdwZzTwlVHO0MN1B8ZW0WRSH/amoz/9EKerBw2irCaZUVhqJS82DEsQsLHttYOMyliftdbjpPr1MdbEgiDhUlbsMGIVsHkpcB1eg55BC4bDcuuOxM20GvmDerUS3/5KwnDsCBBBC2qH86N757W/osAeIdDttwz8yLB92qNjT0tRhMdLLgYpRAjF5b2JaaD5FPPjxqAxJiGyBzNksoI3vQ9b3UZ1nG0QkX0S5izAadcAWqAyFf0VaGXl1IeUtSpwaRkqZ7MqYIMoK6O7S3MXesxI3QorRhecgXq2Y4q8F3T9lF1npx7eXpo9Oky9RzgAJvUHE2rUfqnmndaEDFuQ+9QOw/b0fGHT8zt5ZwRRDBNorvy0uFAsaRcxmW18F71tbbRVnIIQ6xqLLfz05cP/NS7N6SI5GGALuZTBNUlhT2+WAWfuyOuRBRW+nQvtjKb9UHDcoydzUawipJckhAIP1tnQ==;qC9VMlF+ZQ17H/pEkrGHxg=="
 ---

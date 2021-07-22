@@ -66,6 +66,15 @@ related:
         width: 300
         height: 275
         isCached: true
+  - title: "Lyft to deploy self-driving cars in Miami by the end of the year"
+    excerpt: "Interested in riding in a self-driving car? Soon, Miami-area Lyft passengers will have that option. On Wednesday, Ford, self-driving car startup Argo AI and ride-hailing giant Lyft (Nasdaq: LYFT) announced they are partnering to offer automated vehicles to customers in the Magic City beginning late 2021."
+    publishedDateTime: 2021-07-21T17:08:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2021/07/21/lyft-to-deploy-self-driving-cars-miami-2021.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "dZut5e9hMCPClEfueHeGHrs2fKShIgqfy8ojZ+6/+p/kuNJq2mIz71qA276TzgkyOtQywzjf89Ziljp9zJtrVbxlBZ1a5vwZNMMQzsMROSB0PNgXeJTPelTbRCP5KyHcAEJNpu7JQ/TXbCAKnwsjsbHDJvs/mdqNqhZwEaBVys0KLIni253KRXadB2RwpJuKN3oZdGIhlY+vcWvA/5ffq78uSLS+zhpVCzrmgSCwDqpgDj84fQusLmg/40uEbfAPi5k4F0eGdpo/ve+FgMvRCkvBN2hJyHyT842Zd4pnjmwJpJ5pHZshD+C4cSkYTMXuiG69x14Gj+dnTzSKCNo6s04qpPwoQMBQY7Ep/vFZkqY9VSVS8OHSMgzmnxYh1zNN6FfwIVJ28F53KHG8YrYNZb0oJR0rlZHbajH5u82/O1jEBI2Fz1dXJPTsW0VlkS3Uz2zxzbiZybRJbtYB13puTnz8Aut0fO6UW6Fr7D/r8Twbj73NcsWfyR3LDu8iBnvGekx9DJXn+HLbW2uPoEM97Q==;opXi9KaLLLjbw0VTm+rzOw=="
 ---

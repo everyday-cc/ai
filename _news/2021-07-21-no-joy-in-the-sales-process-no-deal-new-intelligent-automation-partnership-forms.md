@@ -1,22 +1,18 @@
 ---
 category: news
 title: "No Joy in the Sales Process - No Deal, New Intelligent Automation Partnership Forms"
-excerpt: "It requires the right technology and the best people to deliver it.\" \"As a sales organization, we strive to generate revenue while having fun. Doing both makes everyone happy. If there's no joy in the sales cycle,"
-publishedDateTime: 2021-07-21T13:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/no-joy-in-the-sales-process-no-deal-new-intelligent-automation-partnership-forms-1030630710"
-webUrl: "https://markets.businessinsider.com/news/stocks/no-joy-in-the-sales-process-no-deal-new-intelligent-automation-partnership-forms-1030630710"
+excerpt: "It requires the right technology and the best people to deliver it.” “As a sales organization, we strive to generate revenue while having fun. Doing both makes everyone happy. If there’s no joy in the sales cycle,"
+publishedDateTime: 2021-07-21T13:56:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-fd4ca6bc658a10b9f4b7afab2000666e"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-fd4ca6bc658a10b9f4b7afab2000666e"
 type: article
-quality: 65
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
@@ -24,9 +20,9 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://mma.prnewswire.com/media/1094561/Grooper_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -91,6 +87,6 @@ related:
         height: 227
         isCached: true
 
-secured: "55y5k+g/vNBjXiculKYBhMAiz6VwAAOvvB0cU+V0tFg/DtjZ/QSmD1HPYF9SC7mcWUDlQdSCzA39RH0R06NCVPxP+7OFsQIUmsmC5l0EzVX9VtTmn16UJFSuKNRsUnNgNbRvGyAahRA1YhKWeJWIpgkuo+wOo0DsVjXuQ+4YFBD5wsmZeQ5w50uJIMhMri5tX7G5Mj142lxWQcGJ4yxTMRiQqdFbjtlQpnmIVGLv9dPkhIC7mDqQrOXnnGMmNAmKT+ySCf8zg3rhxwk0GG//EoUVqTbVueN7Dq+CAYuoAXc4R6Bzi2ScIcnsUJXIiUlIjFm3/7SrOKIsotRhQ+YnWhsIq6wCukPjfaeKZr/3JX4=;hzcAPz+ieJc8ql+NLKk5Mw=="
+secured: "COK8DZhEfh8vBCzFIXKJH/KEe6D/hgjBJWZBTNqgMumOVKxUrIzf36cEaf5DYPyrXfsIUGn1AasLCY2YC+/UMx/S5eymRrUGkUbchaZDUYxmPU+rOI3RPmNg3m6/eV5Z71G0iXvecZFbOv/XWvEICexrI5sOVJT8qEtYcoNsLLzhgMvOzlxp/WoR78ED7OHwP4yPZfryLQtC+KG965tXLGekdF0yAguBl4qK437iZwYHCfbKJ4G7xVpSWISNkA6V5q0xhVs2W3KwdojVwa0iiAuXTTmcivEQH78nLcDTlYNd43cxnkjTLfPMAmG5FvYtrAFNiN7fC0ksF+NFFgFGoojSe0GnEh338nyQnXr1uss=;prVF/FT8zlHHi0qxZ2u8kA=="
 ---
 

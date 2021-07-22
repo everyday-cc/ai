@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Platform Market Size, Share Remuneration to Surge At 56.6% CAGR Through 2024"
+    excerpt: "Selbyville, Delaware, The Artificial Intelligence Platform market study now available with Market Study Report,"
+    publishedDateTime: 2021-07-22T04:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-size-share-remuneration-to-surge-at-566-cagr-through-2024-2021-07-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Neuromorphic AI Semiconductor Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2027"
     excerpt: "The Neuromorphic AI Semiconductor market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
     publishedDateTime: 2021-07-19T13:17:00Z

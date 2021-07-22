@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
-excerpt: "Reply announced today that it has developed an end-to-end solution architecture for autonomous mobile robots (AMR) on Microsoft Azure that enables new business applications across industries, reduces upfront costs and allows for the rapid implementation of customer-specific robotics use cases."
-publishedDateTime: 2021-07-06T07:31:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_0927f4c9-a635-5e89-9d3d-531a8f3f452e.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_0927f4c9-a635-5e89-9d3d-531a8f3f452e.html"
+excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
+publishedDateTime: 2021-07-06T07:38:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+webUrl: "https://www.morningstar.com/news/business-wire/20210706005133/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
 type: article
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png"
-    width: 1920
-    height: 1080
-    isCached: true
-
-secured: "pvNlYcaVSK6Hn46m16vXdBQrnV6I+v7CHh/LphXUQDb1AWm69RVfnAWFwqnyq5OgdKPFT3OAOOLvuyfXb7ULYtc5ap23bdah+5uSh9HrLuiftVcoiXEuekZoTPo2jzd1tZQETGz9vi4Tnkbfc0gpBA99K9ZiLkyoVIXlLr4eiAhN04b+2bgyrnAnzZTuZSfhhab7F0PDvloo26VHGeir1llnBPAEEx0emOXwoyes96b17TF1FjOCxpLnEtr3x3EKyPqV0/ltRpGJPndunICL4YeNUEMkJ3p9iW5YFPcUYfZW9eKSYaM/ebCu4DVQfxGRwvaHm5ZZYzYWz901UTrTzV1HoPFwcys9Bh0/edjQpQk=;KyZdi7nEqw75ZSANKBlH4Q=="
+secured: "0uSeLQxbubj3d1pzHDdlvY8eD16wEkW1f7wrjjGx4GE9fI2LLH79HlEeFPKSXYVXxQkswqP7096zind8SraosjSZCfCU//O08SSLzFucm1lLAvzIGxrQBMzBz77dphUI/ouIPHWYSp1HOVYQ9u8av+KuBTOUPxPAVpzo64Zys2HVETc1dYvFIKftowmIvOK/9/ehCRT9TTR2fd9rNLrgdt22Sw7efYEiggUUXU3YImsRQUT6DELRX7JzVWNLWdDdtGsbuZOTLwDW7/Kq06QLOjvseX2OCX1pZgdBlNAh5gVWZY6ze1VQS6a3/eY3o7xjiTChBwhbOfi1N2K0K6MhBilWlIV1TRfWgSY4DH0L/SM=;v8bt49+U2JKWWrCnBvVjSA=="
 ---
 

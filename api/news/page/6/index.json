@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-17-announcing-the-ai-innovation-awards-winners-at-transform-2021.md",
+      "title": "Announcing the AI Innovation Awards winners at Transform 2021",
+      "excerpt": "The AI Innovation Awards recognize work in natural language processing, business applications, edge computing, startups, and AI for Good.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/jason-leung-Xaanw0s0pMk-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/",
+      "publishedDateTime": "2021-07-16T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-openai-disbands-its-robotics-research-team.md",
       "title": "OpenAI disbands its robotics research team",
       "excerpt": "OpenAI has disbanded its robotics team after years of research ... “But from perspective of what we want to achieve — [artificial general intelligence] — there was some component missing.”",
@@ -1172,50 +1225,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-robotics-and-ai-will-reshape-the-life-sciences-buildings-of-the-future.md",
-      "title": "Robotics And AI Will Reshape The Life Sciences Buildings Of The Future",
-      "excerpt": "Robotics and AI are changing life sciences workspaces, challenging life sciences developers to adapt to these emerging technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai-will-reshape-the-life-sciences-labs-of-the-future-109563",
-      "originalUrl": "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai-will-reshape-the-life-sciences-labs-of-the-future-109563",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2021%2F07%2F60f0a5516ee89-thisisengineering-raeng-mf6gb6hv5ou-unsplash-2.jpeg&width=1200&sign=WKj1WTXyhuhiludNCGLnB5eA_19OTjhPg0lpXHPeci4",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bisnow",
-        "domain": "bisnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],
