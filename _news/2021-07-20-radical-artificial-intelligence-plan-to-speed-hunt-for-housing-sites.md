@@ -40,22 +40,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "In polyclinics, making more accurate diagnosis with the help of artificial intelligence"
-    excerpt: "The digital service analyzes the patient's complaints and offers the physician the three most likely diagnoses. The physician can choose one of them or make the final decision on his own."
-    publishedDateTime: 2021-07-17T06:10:00Z
-    webUrl: "https://www.mos.ru/en/news/item/93154073/"
-    ampWebUrl: "https://www.mos.ru/amp/en/news/item/93154073/"
-    cdnAmpWebUrl: "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/93154073/"
-    type: article
-    provider:
-      name: mos
-      domain: www.mos.ru
-    quality: 53
-    images:
-      - url: "https://www.mos.ru/upload/newsfeed/newsfeed/pyls_neirosetitochniidiagnoz_samarin(27).jpeg"
-        width: 1596
-        height: 798
-        isCached: true
 
 secured: "NIIRvxKWvdAJ+rrpJ1mw8N+oFz744QkprtTdtKAbWmDzJSgkzADvkB7ckLmbqLYjMBRjVDHXH3rUyZOSO281qAbceGjupNilSsPBZXxfVKwYchIY4bV+kA1v2gvn7CL0TJQ/AafZ2+JrDVIWIDjSlfjFypPYyqZqLm5iXiNLhY7MH9n9J6lUKEuQh1mhAtsnnvw+NVxf62UqMtF4MSo5UCL0hRJUBmx6aKGTXRGSs3eDOp3Kw2/zVs4gg7O6parhR2QdUc9CGp6PyQw/TF179hiZpdFZ6bFD+kITPi9i4q2iPvV+Z8+heAprEiCfDTat83dD2R89F9DsRLRnn/3H/XCF0YXTqY5VtB3neZPZkbwzbr8Wg+3nFhuL+1pHYL7bLsFouqkAPmw2x3lclkEWHrMfym7YH4GJiQJBX8euEtn8yzDTiUEcO1o64yUQgcHQ5CAtRr7LOzBpSSp3cDG6+AOQE+RitzbpE95FDoX6CmjVPrXMdnYlhLlOdffWaxPWIYMvjJ1BXHx5v/6Xf4y2pg==;jSFpgrnRzQlms+hGSuaQXA=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -55,7 +55,7 @@
       "originalUrl": "https://techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -108,7 +108,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/19/volleys-magic-word-is-a-voice-based-puzzle-game-on-google-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1063,34 +1063,25 @@
     },
     {
       "path": "_news/2021-07-14-bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video-events.md",
-      "title": "BxVideo's New EZLive Caption Offers Self-Service Transcription, Translation and Captioning for Live-Streaming Video Events",
-      "excerpt": "The service utilizes AI for machine transcription and translation from 30 different spoken languages and more than 50 text-based caption languages. For more information, please visit www.bxvideo.com.",
+      "title": "BxVideo’s New EZLive Caption Offers Self-service Transcription, Translation and Captioning for Live-Streaming Video Events",
+      "excerpt": "The service utilizes AI for machine transcription and translation from 30 different spoken languages and more than 50 text-based caption languages. For more information, please visit www.bxvideo.com. “Having produced thousands of live-streaming events ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video/article_fa4d16a5-d9bf-5873-8016-d935109d13f4.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video/article_fa4d16a5-d9bf-5873-8016-d935109d13f4.html",
+      "webUrl": "https://www.streamingmedia.com/Producer/Articles/News/Featured-News/BxVideos-New-EZLive-Caption-Offers-Self-service-Transcription-Translation-and-Captioning-for-Live-Streaming-Video-Events-147954.aspx",
+      "originalUrl": "https://www.streamingmedia.com/Producer/Articles/News/Featured-News/BxVideos-New-EZLive-Caption-Offers-Self-service-Transcription-Translation-and-Captioning-for-Live-Streaming-Video-Events-147954.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T06:20:00-07:00",
+      "publishedDateTime": "2021-07-14T08:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Streaming Media Magazine",
+        "domain": "streamingmedia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1161,8 +1152,8 @@
       "title": "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027",
       "excerpt": "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,",
       "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/",
-      "originalUrl": "https://www.arnnet.com.au/mediareleases/144447/global-speech-recognition-market-2021-industry/",
+      "webUrl": "https://www.reseller.co.nz/mediareleases/144447/global-speech-recognition-market-2021-industry/",
+      "originalUrl": "https://www.reseller.co.nz/mediareleases/144447/global-speech-recognition-market-2021-industry/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1175,8 +1166,8 @@
       "publishedDateTime": "2021-07-13T07:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
         "images": null,
         "publishers": null,
         "authors": null

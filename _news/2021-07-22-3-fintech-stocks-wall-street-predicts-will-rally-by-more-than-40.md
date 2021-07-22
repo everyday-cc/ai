@@ -7,7 +7,7 @@ originalUrl: "https://www.investing.com/news/stock-market-news/3-fintech-stocks-
 webUrl: "https://www.investing.com/news/stock-market-news/3-fintech-stocks-wall-street-predicts-will-rally-by-more-than-40-2564349"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "3 Fintech Stocks Wall Street Predicts Will Rally by More Than 40%"
+    excerpt: "As more advanced technologies and innovative solutions find application in the financial sector, the fintech market could keep growing quickly in the coming months thanks to increasing digital transactions."
+    publishedDateTime: 2021-07-21T15:59:00Z
+    webUrl: "https://stocknews.com/news/futu-sofi-psfe-3-fintech-stocks-wall-street-predicts-will-rally-by-more/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 24
 
 secured: "xrSeTOX06d5VlCEvGIHG5rKyqCsoGvTT3k2Q44IL17f8tDsmch508OFXKJuwLerOc4LHtmreDk79D2/a30KJTCf6IfYt9FvrY0HIvIr5L8q7FBdYyMU8xekuPITG4KJt0+G0C3SG5DsQUC1XEIcmOL5r6FtRIkQ86O78nupCxdEap7crVtvTI1A18pujYRkzxSRA+sDEh6RVB+09D0yLpR9YwkUjMBeaioJaKV/Lmv0/pSQ1n3ENUb+SMWwYKGvprr08rVHhTqT41/iXD57tCaa52jtG2wz3McjBmg7rCtngJZ2l1LRrZN/MmrU6u9rX2ezOCry5Sr0aGvYO/eFxV2ZjsWVNcvFUDk+0b0mq+5n5e9WxlXaF2ZYvhRSRmBSQVM1Fc4uXpVNiaaB7fC46ceFkswTU1O3h2P+WcE46czpl+MDpKakS+qlr2LEr6oSUuT7XoXD6VyZsdwPK4UAjp1vHfqvk75vO67KeX5sec12JQ5eH7R6Cdr3hJE2+1RZdA7TYgSfvliT/WStjMfx3ug==;2OXl3mfJ8Sx1y5lD24nBiA=="
 ---

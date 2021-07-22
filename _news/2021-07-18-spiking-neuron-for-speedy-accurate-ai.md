@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/business-tech/spiking-neuron-fo
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/business-tech/spiking-neuron-for-speedy-accurate-ai/article35392642.ece/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Line
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "In polyclinics, making more accurate diagnosis with the help of artificial intelligence"
-    excerpt: "The digital service analyzes the patient's complaints and offers the physician the three most likely diagnoses. The physician can choose one of them or make the final decision on his own."
-    publishedDateTime: 2021-07-17T06:10:00Z
-    webUrl: "https://www.mos.ru/en/news/item/93154073/"
-    ampWebUrl: "https://www.mos.ru/amp/en/news/item/93154073/"
-    cdnAmpWebUrl: "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/93154073/"
-    type: article
-    provider:
-      name: mos
-      domain: www.mos.ru
-    quality: 53
-    images:
-      - url: "https://www.mos.ru/upload/newsfeed/newsfeed/pyls_neirosetitochniidiagnoz_samarin(27).jpeg"
-        width: 1596
-        height: 798
-        isCached: true
   - title: "Radical Artificial Intelligence Plan To Speed Hunt For Housing Sites"
     excerpt: "A switch to artificial intelligence in the hunt for new housing sites offers just that, according to a proptech startup that has won a contract with Birmingham City Council. Birmingham City Council has chosen Urban Intelligence to undertake a citywide review of land for homes,"
     publishedDateTime: 2021-07-20T16:39:00Z

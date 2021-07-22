@@ -38,20 +38,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Improve your product discover with AI to maximize personalization"
-    excerpt: "When the pandemic hit, product discovery shifted online making personalization a vital tool for e-commerce. Without it, the seemingly endless amount of options can quickly lead to choice paralysis. Explore this data sheet to learn how AI orchestration and AI-powered search is improving product discovery to maximize the effectiveness of personalization for ecommerce,"
-    publishedDateTime: 2021-07-17T08:29:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1625746463_267.html"
-    type: article
-    provider:
-      name: Bitpipe
-      domain: bitpipe.com
-    quality: 37
-    images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1625746463_267_lg.jpg"
-        width: 315
-        height: 408
-        isCached: true
   - title: "Octane AI Raises $5 Million to Help Shopify Merchants Personalize Ecommerce Experiences"
     excerpt: "Octane AI, the pioneer zero-party data marketing platform, today announced it has raised $5 million in capital in a round led by Javelin Venture Partners, the investor behind Masterclass and Thumbtack,"
     publishedDateTime: 2021-07-20T15:16:00Z

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Buys CloudKnox To Boost Cybersecurity, Cloud Protection"
+    excerpt: "Microsoft has acquired CloudKnox Security, boosting its commitment to cybersecurity, the company announced in a Wednesday (July 21) blog post. CloudKnox has the ability to help companies right-size permissions,"
+    publishedDateTime: 2021-07-21T22:12:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/microsoft-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "7 Ways AI and ML Are Helping and Hurting Cybersecurity"
     excerpt: "In the right hands, artificial intelligence and machine learning can enrich our cyber defenses. In the wrong hands, they can create significant harm."
     publishedDateTime: 2021-07-19T10:00:00Z
@@ -41,6 +57,15 @@ related:
         width: 602
         height: 250
         isCached: true
+  - title: "Microsoft acquires CloudKnox Security to offer unified privileged access and cloud entitlement management"
+    excerpt: "Helping organizations strengthen cloud security and Zero Trust. At Microsoft, we are committed to supporting organizations in their digital transformation and helping them to deli"
+    publishedDateTime: 2021-07-21T15:33:00Z
+    webUrl: "https://www.publicnow.com/view/5F7F1FD999BBB9434A26A6E22457EFC48F240BB2"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 19
 
 secured: "uJvZweqO1eeTV/Cmncwmk3zw3uY8nhADEz+EYyNywMPm5URl73quGxHIznKLa47dxjQRe2nvCbEpo9L0KwBi1g6PN1S56AAf6hbGGpE0wqJRv74GyJiZwLzby6iQvU+9shR7EyGOC3jqGdghBCP+/TsA/yyVTnfo3RV9ITRqR9WKCNB0Qh+PbhMWdPckr8CGSBPvfPmH8qSBBofv18ejxVuey93UyI7J9FgVfxoLwV3ggDmCbMfN5NPP5ycy1ePf0fblqQTpV7tfEB/8DcTaBbzuMs9iKZ3blAmxEbPozKYinfyQCMN4p3dCiwKyDuZaD2psNwz4tMWmpE4FJYqw40wRRZ0ae2aclfU6rJXxhgMtzVpqb7qRGNpsY9prVShYH0EFnass5vaM+q2tlvzejrf1Zi8faDxm6hmM7p/9C5/68acvtFGx2aW1zQ0G2HoXbJy8JKZh9BXr4ptLiUJA94ZVEYE0mJTcF5f+pXZBPLRKLlZCKaYnp5I0G2LW/mnN2ZFhFAq6C8Khe4wpbCyyzQ==;7xipkDU63nB2UCrYmCB/2g=="
 ---

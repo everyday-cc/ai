@@ -101,22 +101,6 @@ related:
         width: 2560
         height: 1759
         isCached: true
-  - title: "Creepy or not? AI recreates Anthony Bourdain's voice in new documentary, raises questions"
-    excerpt: "The new documentary about Anthony Bourdain’s life, 'Roadrunner', is one hour and 58 minutes long — much of which is filled with footage of the star throughout the decades of his career as a celebrity chef,"
-    publishedDateTime: 2021-07-17T07:13:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/creepy-or-not-ai-recreates-anthony-bourdains-voice-in-new-documentary-raises-questions/articleshow/84495780.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/creepy-or-not-ai-recreates-anthony-bourdains-voice-in-new-documentary-raises-questions/amp_articleshow/84495780.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/creepy-or-not-ai-recreates-anthony-bourdains-voice-in-new-documentary-raises-questions/amp_articleshow/84495780.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 50
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-596058,msid-84496547/untitled-1.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "FOot4suXj5P8R3o8DycTR9z742Ro+OzQydQFPKXTpHMF2wS2zdqat3kLfkPSOHpS700vAfZpPQ2S91H+AguZIPt81H1Ip6IwCZyawjPHV9eI4ftOETLEa/sMj1GF+TuNRG/+60DHpzON31nbDH9YwR+cl7P7dubpD7WAxqav6s1TtEoho8DANBW8ulg21DeeCe6zd5zwmIuIbTzoK4wn7Bds91yedfZr4wZsF3fmJkKee8A7aGMN7J8c6opn2r2V9/bgq3L5iwezM6V7Mf9nkxAknLXFJMzqXPTUdttY4esJb4XwltFssXNdZg9I21SsKDacJDFcndMlr9ZrfOCS2kOr35Y98qBIm9Nmyrvu732a9fEpundPKpjPQ6+QM9/j885Y/ssfM0kfBYQtsYwPEtjiG9IrWGRm8BNYk9VIKdkFVqiMkayB3Mdyu8YtcKOpt6w6MDm/HDlpmrHlZZz06R5z+kHHafbDfyF2jsrs0EudbuXmWwBt5u7NW55busaRVjjHv5dwf34RaX2ao/2KtA==;jv9kFEgl0Uasw6I4TPmmGg=="
 ---

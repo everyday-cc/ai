@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/20/freshworks-93-of-it-managers-have
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/freshworks-93-of-it-managers-have-deployed-ai-or-plan-to-soon/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -1,26 +1,20 @@
 ---
 category: news
-title: "BxVideo's New EZLive Caption Offers Self-Service Transcription, Translation and Captioning for Live-Streaming Video Events"
-excerpt: "The service utilizes AI for machine transcription and translation from 30 different spoken languages and more than 50 text-based caption languages. For more information, please visit www.bxvideo.com."
-publishedDateTime: 2021-07-14T13:20:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video/article_fa4d16a5-d9bf-5873-8016-d935109d13f4.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video/article_fa4d16a5-d9bf-5873-8016-d935109d13f4.html"
+title: "BxVideo’s New EZLive Caption Offers Self-service Transcription, Translation and Captioning for Live-Streaming Video Events"
+excerpt: "The service utilizes AI for machine transcription and translation from 30 different spoken languages and more than 50 text-based caption languages. For more information, please visit www.bxvideo.com. “Having produced thousands of live-streaming events ..."
+publishedDateTime: 2021-07-14T15:26:00Z
+originalUrl: "https://www.streamingmedia.com/Producer/Articles/News/Featured-News/BxVideos-New-EZLive-Caption-Offers-Self-service-Transcription-Translation-and-Captioning-for-Live-Streaming-Video-Events-147954.aspx"
+webUrl: "https://www.streamingmedia.com/Producer/Articles/News/Featured-News/BxVideos-New-EZLive-Caption-Offers-Self-service-Transcription-Translation-and-Captioning-for-Live-Streaming-Video-Events-147954.aspx"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Streaming Media Magazine
+  domain: streamingmedia.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "XyOTBFjerMd4+xUv8bzfA0s0R/Jdsp6Yhv3ioXh3hzVxJl40oBlXWFJUqG1kvItrMQZIa2an0vvHuU+YnYrpbxf+dOZjbgvhCtSq4aV06wGfLHIqjH/QWIUiuqgEnAtO+rdxjZ9PwKo1bkeA3fIhQYT6ibmELpDtimebILRQt6Cl7offbbActWpvPeY+P6pNQG7l90fbtNYNMKXoKtFmuJzqQ0fmE2A/cZFqDOEKnpu95Hd+trpEynv2BWqI6qvt54RjY/4zXVDxyUeZw7g0rUrvEyrYb1UJcFWHD1mzzYcIBfYMcBCNZok9L35ZInRDjPM0J4OVyYnYxXYIeL3iQdTtuBdkeaw2ivl16W0TSDs=;E2inK6yMWdvc5Hl8+4KxzQ=="
+secured: "ECwQX6l2RTteUXOjkxOURqF5LZNfP8bCQ1aRGM3XPZVfEot+J+iSjIW1u6a/jcrc9lOkqOsuD2T0k2WxLnYTICwPsE4NwzbRy5oeTaYQhyqR4aHCZN7dqVyO2A6feI892WYPVZmJk3enovxifxCHU36RbBKFEA84v6GJX8Uh/6JIxjskOR4AK1B+sO6kcWAw4pBxc1VriAXooHJkVhj98RxalD+bV9X2AXcC/4LW4a4ya3gdDyvdFYPCkVEYfLDEmc0J2/vMTX8gY5hdnRi9elhnVKC9YMVtKj34aHxiJ50WtdavRGfc+26eu01taVNIbsQsD8oQpWDtAj/1OAdydwgHzfSBp4CLTu1nfYjK518=;mPZuC3Pb7IjDMeI+BCTJ4Q=="
 ---
 

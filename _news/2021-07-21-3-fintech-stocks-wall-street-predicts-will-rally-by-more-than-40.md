@@ -1,0 +1,41 @@
+---
+category: news
+title: "3 Fintech Stocks Wall Street Predicts Will Rally by More Than 40%"
+excerpt: "As more advanced technologies and innovative solutions find application in the financial sector, the fintech market could keep growing quickly in the coming months thanks to increasing digital transactions."
+publishedDateTime: 2021-07-21T15:59:00Z
+originalUrl: "https://stocknews.com/news/futu-sofi-psfe-3-fintech-stocks-wall-street-predicts-will-rally-by-more/"
+webUrl: "https://stocknews.com/news/futu-sofi-psfe-3-fintech-stocks-wall-street-predicts-will-rally-by-more/"
+ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+type: article
+quality: 24
+heat: 24
+published: false
+
+provider:
+  name: Stock News
+  domain: stocknews.com
+
+topics:
+  - AI in Finance
+  - AI
+
+related:
+  - title: "3 Fintech Stocks Wall Street Predicts Will Rally by More Than 40%"
+    excerpt: "As more advanced technologies and innovative solutions find application in the financial sector, the fintech market could keep growing quickly in the coming months thanks to increasing digital transactions."
+    publishedDateTime: 2021-07-21T17:31:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/3-fintech-stocks-wall-street-predicts-will-rally-by-more-than-40-2564349"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 24
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEC0K0YG_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
+
+secured: "JYq6Eb2ICs+BI9h5FP3UKZpaicKcKfzRqARZM7ytA2z/g/zx17XHVCn2HOY0FpOzUw3sDjHhlKmvloFFD5HMyOA7G0RphtvDzSQupz+h2v5EGsAJEfQ88vE2SBLZrOo10S79hwZSuKbMDVN0y77xBGnG9OMgIVUpne6mYUhk6JHMUvQMSGWWFVHYUsxM1RZq7ZJzHIAKQTiE0zJmM7QSbPcjirMpOgiOkYoZhcllNQk6RN6dCkaMZzXsWdf7dOnIrbm9PC4wReWu1yGgdEqgIkksbmd4gabMd/YSYfM4RTe2JmrRNAHEMQO/H192vku8kLFf1qfZJIoEl0l78idmsPEAv7Iq55JhGLJHCgBlknRxCj9MOmK2igHq+Fn37O8/xIc1NEauZr2HPhM9k864m7AIhzuE5vCg0JwN7jp9vdeEJg8vlefZKD8/uWR2kHVY8K9mDQHZiCCNFZhumolWeLZEmQp77OeaxP2DCm3teoWCsX2psHe6Gm+WsishzX6CDfuAGHevTl5Fmmy5zPs/pw==;GwLO0cK9xLeFeDk1H2+FXw=="
+---
+

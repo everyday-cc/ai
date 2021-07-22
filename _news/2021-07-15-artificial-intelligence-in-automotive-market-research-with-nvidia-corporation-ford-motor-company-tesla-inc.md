@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Autos
+  - Microsoft AI
 
 images:
   - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Artificial-Intelligence-in-Automotive-e1626282396822.jpg"

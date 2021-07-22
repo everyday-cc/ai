@@ -52,6 +52,20 @@ related:
         width: 4432
         height: 2955
         isCached: true
+  - title: "Microsoft acquires CIEM leader CloudKnox Security"
+    excerpt: "Microsoft is set to beef up its cloud security and entitlement management platform with the acquisition of CloudKnox."
+    publishedDateTime: 2021-07-21T22:03:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-acquires-cloudknox-security"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 56
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/07/CloudKnox-Business-cropped.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft Buys Privileged Access Startup CloudKnox Security"
     excerpt: "Microsoft has purchased CloudKnox Security to give organizations visibility into privileged access, right-size permissions and consistently enforce least-privilege principles with the aim of reducing risk."
     publishedDateTime: 2021-07-21T17:01:00Z

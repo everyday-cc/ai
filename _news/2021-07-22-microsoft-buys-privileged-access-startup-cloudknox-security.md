@@ -56,6 +56,20 @@ related:
         width: 4432
         height: 2955
         isCached: true
+  - title: "Microsoft acquires CIEM leader CloudKnox Security"
+    excerpt: "Microsoft is set to beef up its cloud security and entitlement management platform with the acquisition of CloudKnox."
+    publishedDateTime: 2021-07-21T22:03:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-acquires-cloudknox-security"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 56
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/07/CloudKnox-Business-cropped.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Machine Learning Software Market 2020-2026 | Microsoft, Ibm, Scikit-Learn, Google Cloud Tpu, Figure Eight"
     excerpt: "The research report of the global Machine Learning Software market has recently added by The Research Insights to its vast database Some of the recent advancements in technologies have been elaborated to get up to date knowledge of businesses There"
     publishedDateTime: 2021-07-21T05:27:00Z

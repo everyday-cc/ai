@@ -38,20 +38,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Improve your product discover with AI to maximize personalization"
-    excerpt: "When the pandemic hit, product discovery shifted online making personalization a vital tool for e-commerce. Without it, the seemingly endless amount of options can quickly lead to choice paralysis. Explore this data sheet to learn how AI orchestration and AI-powered search is improving product discovery to maximize the effectiveness of personalization for ecommerce,"
-    publishedDateTime: 2021-07-17T08:29:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1625746463_267.html"
-    type: article
-    provider:
-      name: Bitpipe
-      domain: bitpipe.com
-    quality: 37
-    images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1625746463_267_lg.jpg"
-        width: 315
-        height: 408
-        isCached: true
   - title: "The Power of One: How AI will Personalize the Employee Experience"
     excerpt: "Key takeaways: Learn how AI will change the employee experience as we know it ... No matter if he was working at a big company or startup, he’s always been drawn to culture and how companies can take better care of their employees, which is what ..."
     publishedDateTime: 2021-07-19T21:41:00Z

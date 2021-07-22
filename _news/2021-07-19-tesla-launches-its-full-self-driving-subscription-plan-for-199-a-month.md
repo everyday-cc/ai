@@ -279,22 +279,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Breaking: Tesla Releases Full Self-Driving Subscription"
-    excerpt: "Tesla has finally released the long-awaited subscription option for their Full Self-Driving feature. Here are the details."
-    publishedDateTime: 2021-07-17T06:40:00Z
-    webUrl: "https://www.thestreet.com/tesla/news/tesla-releases-full-self-driving-subscription"
-    ampWebUrl: "https://www.thestreet.com/tesla/.amp/news/tesla-releases-full-self-driving-subscription"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tesla/.amp/news/tesla-releases-full-self-driving-subscription"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgyNDgzNDUxNjMzNDc2NzM5/section-hero-carnival2x.jpg"
-        width: 620
-        height: 301
-        isCached: true
   - title: "Tesla launches subscription plan for Full Self-Driving package"
     excerpt: "Tesla has launched a new $199-per-month subscription plan for its Full Self-Driving package. Previously, Tesla owners would have had to purchase the Full S"
     publishedDateTime: 2021-07-19T16:09:00Z

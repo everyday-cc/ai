@@ -42,7 +42,7 @@ related:
   - title: "Lambda Raises $24.5M to Build GPU Cloud and Deep Learning Hardware"
     excerpt: "Lambda, a leading provider of deep learning GPU cloud services and computing hardware, today announced that it has raised $24.5M in financing. Primary investors include 1517, Gradient Ventures, Bloomberg ( News - Alert) Beta,"
     publishedDateTime: 2021-07-21T13:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/21/9414045.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-lambda-raises-245m-build-gpu-cloud-deep-learning-/2021/07/21/9414045.htm"
     type: article
     provider:
       name: TMCnet

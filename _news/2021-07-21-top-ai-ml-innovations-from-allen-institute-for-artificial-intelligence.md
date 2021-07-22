@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-ins
 webUrl: "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
