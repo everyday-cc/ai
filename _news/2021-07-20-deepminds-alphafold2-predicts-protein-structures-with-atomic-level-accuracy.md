@@ -44,20 +44,20 @@ related:
         height: 1130
         isCached: true
   - title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
-    excerpt: "We know a lot more about how AlphaFold 2 works, but the mystery of why proteins fold the way they do remains something of a mystery."
-    publishedDateTime: 2021-07-19T22:30:00Z
-    webUrl: "https://www.zdnet.com/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    excerpt: "DeepMind, the AI unit of Google that invented the chess champ neural network AlphaZero a few years back, shocked the world again in November with a program that had solved a decades-old problem of ..."
+    publishedDateTime: 2021-07-19T20:50:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
     quality: 89
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/07/19/5824a4aa-1d90-417d-bbae-4f336143e4b4/deepmind-alphafold-2-invariant-point-attention-module.jpg"
-        width: 1586
-        height: 1130
+      - url: "https://www.zdnet.com/a/hub/i/2021/07/19/174d8e26-89ff-49e0-b579-3bfb65435bfa/deepmind-alphafold-2-triangular-self-attention-2021.jpg"
+        width: 848
+        height: 408
         isCached: true
   - title: "DeepMind Open Sources AlphaFold 2.0"
     excerpt: "These concerns are put to rest with DeepMind’s decision to open-source AlphaFold 2.0. As per AlphaFold researcher John Jumper, the open-source version is 16 times faster and can"

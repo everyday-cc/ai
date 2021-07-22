@@ -1,36 +1,45 @@
 ---
 category: news
-title: "Lyft Invests In Argo AI; Ford’s First Robotaxis Arrive In Late 2021"
-excerpt: "Ford and automated driving partner Argo AI will launch automated ride-hailing services on Lyft’s platform in Austin and Miami this year. Lyft will provide Argo with data to help optimize deployments and evaluate the safety of the vehicles in exchange for a 2."
-publishedDateTime: 2021-07-21T11:00:00Z
-originalUrl: "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/"
-webUrl: "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/"
-ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/"
+title: "Argo AI, Ford & Lyft partnership provides robotaxi services to Lyft customers"
+excerpt: "Argo AI, Ford, and Lyft form the first large-scale collaboration in the US: self-driving developer, a carmaker, and a ride-hailing company."
+publishedDateTime: 2021-07-22T03:56:00Z
+originalUrl: "https://techstory.in/argo-ai-ford-lyft-partnership-provides-robotaxi-services-to-lyft-customers/"
+webUrl: "https://techstory.in/argo-ai-ford-lyft-partnership-provides-robotaxi-services-to-lyft-customers/"
 type: article
-quality: 104
-heat: 304
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: tech
+  domain: techstory.in
 
 topics:
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg"
-    width: 1200
-    height: 800
+  - url: "https://techstory.in/wp-content/uploads/2021/07/lyft-argo-ford-01.jpg"
+    width: 940
+    height: 627
     isCached: true
 
 related:
+  - title: "Lyft Invests In Argo AI; Ford’s First Robotaxis Arrive In Late 2021"
+    excerpt: "Ford and automated driving partner Argo AI will launch automated ride-hailing services on Lyft’s platform in Austin and Miami this year. Lyft will provide Argo with data to help optimize deployments and evaluate the safety of the vehicles in exchange for a 2."
+    publishedDateTime: 2021-07-21T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Argo, Ford to launch self-driving vehicles on Lyft’s ride-hailing app"
     excerpt: "Autonomous vehicle technology startup Argo AI and its backer and customer Ford plan to launch up to 1,000 self-driving vehicles on Lyft’s ride-hailing network in a number of cities over the next five years starting with Miami and Austin."
     publishedDateTime: 2021-07-21T11:00:00Z
@@ -285,20 +294,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Argo AI, Ford & Lyft partnership provides robotaxi services to Lyft customers"
-    excerpt: "Argo AI, Ford, and Lyft form the first large-scale collaboration in the US: self-driving developer, a carmaker, and a ride-hailing company."
-    publishedDateTime: 2021-07-22T03:56:00Z
-    webUrl: "https://techstory.in/argo-ai-ford-lyft-partnership-provides-robotaxi-services-to-lyft-customers/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/07/lyft-argo-ford-01.jpg"
-        width: 940
-        height: 627
-        isCached: true
   - title: "Ford & Argo AI to Deploy Self-driving Vehicles on Lyft's Ride-Hailing Network This Year"
     excerpt: "Lyft Inc customers in Florida might be picked up in a self-driving vehicle by the end of this year. Ford Motor Co and its autonomous driving partner Pittsburgh-based Argo AI plan to self-driving vehicles on Lyft’s ride-hailing network by the end of the year,"
     publishedDateTime: 2021-07-21T15:45:00Z
@@ -323,6 +318,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "ySGQYhI0nmCYGIR/52uhgPP4TwrWUZ2SGDy92df7UNcRwIhNTZGUzge33wFUVVruzO/+oLeoQyjsX8yUa9WtBaxS5dzzG734xAj5e+gDsEJoB3tYC0L4IKS423c8CUTDRyxGrhDsYblmZNQspF4I5y1BPS2eL95n6Enx5RJ4eClhJ1yznW+/SKujXbgllNbGWK++2KpDl7gZOtOOYwKcNnFueeNdL2pMmly2+oE7jVFvwAYa/bhqHIirKMs2MlmW5633nR5ZHurtlrUQxZ6K5KDwdrJDGZobxjEa3iKFFWmq1HPH/174Yfad8FMciTcXwCY3keLOsc5svwBXmgFEDK/rcmfRF6wN7QQcWeEJFt7wZaeqEq3nqz0Y7F+dMYn5fmu6wzo+DAti6P9AxNq+Wp9RPZ9i9zoOlm5/Fml+a1jaKJfsCnlpc49tSLllPXj2ItCL0uQ2JHNaA/iCwfBNWILQynST4KLPjuMSI77kqaWpqc/EQpScuMpZfl9aa7SDfKXBk+LIbHKpo7eNoj6mcw==;LXTxMpf7G3QkqgotPyTjVw=="
+secured: "zjt0Cm6cg00Gn9P/ZIsU0HWUy3fdfsSj+wHdBTyRGmCirkC8XkXonMfFarQMvhWMD3Q2fhgKDqlOagC94ztisHmx+vmbm9o/0CZo88D0ZwqYIcVqBNLEv8G6eIfVdiuyCPxdtb9w+DehChWDmI4YjQjTW6yEvXtQLwmv5nifsvtWeJqeWzwdLV74nmXtGLiTBMvtm0vMkHrBNAm6mZK68RzMp0DD2cmBlc6/d0wa2SejleUQijNLfQLCaP3C0D15ObMpX1Raqv8I3K7sttBSxlLyNEcF9wj8aWUi5Q1EdsHujGp8AuJnNFR+bdrClr/AAqULe1fmWhEr+kqBwhDjp3aHhAcG/xxuyTTkAQKixOA=;Slbtw7arqVyn8/VSaGShiQ=="
 ---
 

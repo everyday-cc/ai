@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/business/companies-markets/temasek-ba
 webUrl: "https://www.straitstimes.com/business/companies-markets/temasek-backed-sensetime-launches-ai-innovation-hub-in-singapore"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Southeast Asia's First AI Hub Launched in Singapore"
+    excerpt: "AI development could deliver $1 trillion of additional GDP to Southeast Asia by 2030, according to an estimate."
+    publishedDateTime: 2021-07-19T07:51:00Z
+    webUrl: "https://jakartaglobe.id/tech/southeast-asias-first-ai-hub-launched-in-singapore"
+    type: article
+    provider:
+      name: Jakarta Globe
+      domain: jakartaglobe.id
+    quality: 37
+    images:
+      - url: "https://img.beritasatu.com/cache/jakartaglobe/640x441-4/2021/07/1626680878.jpg"
+        width: 640
+        height: 441
+        isCached: true
   - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore, Teams Up with Business China and ITE to Nurture Local AI Talents"
     excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
     publishedDateTime: 2021-07-19T12:27:00Z

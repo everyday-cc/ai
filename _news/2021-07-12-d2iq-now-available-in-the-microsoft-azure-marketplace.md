@@ -1,26 +1,26 @@
 ---
 category: news
 title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
-publishedDateTime: 2021-07-12T13:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm"
+excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including"
+publishedDateTime: 2021-07-12T13:03:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
+    width: 2161
+    height: 1130
     isCached: true
 
-secured: "az/IQPmKkZD6/vSlCVVo4dTPQcgO12IYGEB06ittQaRw2Wm7+yDtj93r7sgF9RrUdkLHJPOZ/5waaOSFMORmk5IbX7Be3qoS38M5614PiankBWFqJ7QWlBy+WFaG1o/cL01R+rCpkz9//mrVp22QYG0AcU6LrKYH1krDkkq2T1pSuEoTJfQTDMfVB2xcJp28dRnw0mNb4HpROlUnoCg+1iQr4YNNew5F1usGY/7i8vfe+CcQdTkj3ay+iM6Dn0LdYGx0b+lIC5XBbxN80Ib8gpaqkBOzyR+BUmDp93CQmwsXHHsE0U/u/NDfvSzTOfBWKhIGfw+mI95mICFCfHUSy4HX6kslp+vISjlHwX9JluE=;dcLuNfbr5RF5U+fRtlf5BA=="
+secured: "2b9uj80GEMw6GtWtqHaIvCpuKYyYN+1yaeccO9OMFmSQbyCHV6BWCBveLcSnPpblqp4rPAbIWYt4yA1CqS/d/CuHwDSYPfyjt2DawYxjlmQ1GoAJN7NTEs4tlacAhsCesGBbT78zvv7hCZ8JpqiH7dYRbYPQWCyK6aRXZySrAQlzdU1qG2TV37k1mtblF9JMGRsrugEbIlNhkaEYgkm36Il25dqSlOlVmbcSUGv+0ZJ+sJJUZG8JlxPpgNB75/sB/2EfK3RLEbNSzSr0jSRwZ/f86D6be03rE5W662AYUfq9cqRq0E4qmeFTFm15mo6jB+RRiBwJABuLPkhL0WdPyKP/goc2/8TRVn/3j7L4MDY=;/o07ldY6YEExAUnsJcBwOw=="
 ---
 

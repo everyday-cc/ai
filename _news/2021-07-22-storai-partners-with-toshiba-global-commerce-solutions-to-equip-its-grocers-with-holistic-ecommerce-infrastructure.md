@@ -19,19 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "How can artificial intelligence improve ecommerce site search?"
-    excerpt: "Fortunately, AI can improve your ecommerce capabilities—and not just search and recommendation personalization. Read this short white paper to learn how AI is helping organizations better market, recommend,"
-    publishedDateTime: 2021-07-19T20:09:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1625746463_129.html"
+  - title: "stor.ai Teams With Toshiba Global To Advance Online Grocery Shopping"
+    excerpt: "End-to-end digital grocery solution stor.ai is expanding its partnership with retail store technology firm Toshiba Global Commerce Solutions to offer an integrated tool to help eCommerce businesses. “With eCommerce growing at breakneck speeds,"
+    publishedDateTime: 2021-07-22T02:57:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2021/stor-ai-teams-with-toshiba-global-to-advance-online-grocery-shopping/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2021/stor-ai-teams-with-toshiba-global-to-advance-online-grocery-shopping/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/stor-ai-teams-with-toshiba-global-to-advance-online-grocery-shopping/amp/"
     type: article
     provider:
-      name: Bitpipe
-      domain: bitpipe.com
-    quality: 37
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
     images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1625746463_129_lg.jpg"
-        width: 315
-        height: 408
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/shutterstock_1715821360-457x305.jpg"
+        width: 457
+        height: 305
+        isCached: true
+  - title: "Stor.ai Partners with Toshiba Global Commerce Solutions to Equip Grocers with Digital Infrastructure"
+    excerpt: "As a Toshiba Global Commerce Solution Partner, stor.ai will provide a white-labelled, SaaS solution (via Microsoft Azure) to offer a robust online shopping experience for consumers across all devices. Toshiba Global Commerce Solution is working with stor ..."
+    publishedDateTime: 2021-07-21T17:21:00Z
+    webUrl: "https://www.dcvelocity.com/articles/51665-stor-ai-partners-with-toshiba-global-commerce-solutions-to-equip-grocers-with-digital-infrastructure"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 24
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/55bbb902-93d3-463a-9c1f-e61df8002a53.png?height=635&t=1626898725&width=1200"
+        width: 600
+        height: 248
         isCached: true
   - title: "Stor.ai Partners with Toshiba Global Commerce Solutions to Equip its Grocers with Holistic Ecommerce Infrastructure"
     excerpt: "Stor.ai, the end-to-end digital commerce solution for grocers, today announced a strengthened partnership with Toshiba Global Commerce Solutions, the global market share leader in retail store technology."

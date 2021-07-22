@@ -1,12 +1,12 @@
 ---
 category: news
 title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
-excerpt: "We know a lot more about how AlphaFold 2 works, but the mystery of why proteins fold the way they do remains something of a mystery."
-publishedDateTime: 2021-07-19T22:30:00Z
-originalUrl: "https://www.zdnet.com/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-webUrl: "https://www.zdnet.com/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+excerpt: "DeepMind, the AI unit of Google that invented the chess champ neural network AlphaZero a few years back, shocked the world again in November with a program that had solved a decades-old problem of ..."
+publishedDateTime: 2021-07-19T20:50:00Z
+originalUrl: "https://www.zdnet.com/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+webUrl: "https://www.zdnet.com/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
 type: article
 quality: 89
 heat: -1
@@ -25,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://www.zdnet.com/a/hub/i/2021/07/19/5824a4aa-1d90-417d-bbae-4f336143e4b4/deepmind-alphafold-2-invariant-point-attention-module.jpg"
-    width: 1586
-    height: 1130
+  - url: "https://www.zdnet.com/a/hub/i/2021/07/19/174d8e26-89ff-49e0-b579-3bfb65435bfa/deepmind-alphafold-2-triangular-self-attention-2021.jpg"
+    width: 848
+    height: 408
     isCached: true
 
 related:
@@ -78,6 +78,6 @@ related:
         height: 900
         isCached: true
 
-secured: "PvbuAqTHVIodfmE8Byjb7VanVmPDtgjWHMhoQntW+rFzzw4JHMOZ1ixsdVR7r0HwKNHQKdIWJhPvX6gfDnWGyXpnDJ6kNl5dIAhHYrzf5OaU+IaMEPjcEYSTwWU48vIpo+H/osbk8xs1rBUzPxzPm7yQH3G9PwFeMI1c01rmiYhVXz7MauGZtsxWJULiaGc6nRON47ABCy390HkW+cmIO5ADMMA0cgC660VP11/WbW8ARvM3zzscD6i0awZ3Rq6lXkjbcDMeco3mdUDTrSYmYL7WZXGelXsUyS9DKXSZ4MRhvOF0RUHNTHDF91O9IBub/EX5ODHUuXBlVp1uMsrQznUV4Ebni+WzrG83o9JSOqs=;9M4VkZ8jru5BkkS4XfXpRg=="
+secured: "XCGPnqS1AbDSwI2bKwy9jkh1cTrN8CkY7ZuMBP8IDyxAzo/beE3rTc9oqC51fZl10IOacENzxpfcLQxfe+OD7o05HTt8v2ARRyQq4F2wQ+f+e2w0xy8uhYAwAq6D8cAEyHfT6jZ5qmsoogu7NPB4Zf1If5qxhQE3YplvHYXD8zoyw0XrCaidKdIx8/8lzsKAHMbqKkgq/atLmPO0ctO9ezAU6hNzZotcVryfLOhSeHINA8H/mwSwQsBTFdxeOJg/g9eqNiJLSrjTbQJZMrQ8rVwJeKEcInQIHsILb5lxyHnbENtaP6IQMUDeSBVQoF5PUxaya5DGCKRrd3CPpiG6Pb7RT/Sn40iHjar1bwQhGbM=;HzqHGaf3hjqTGwbqZXPSUw=="
 ---
 

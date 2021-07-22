@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Southeast Asia's First AI Hub Launched in Singapore"
+    excerpt: "AI development could deliver $1 trillion of additional GDP to Southeast Asia by 2030, according to an estimate."
+    publishedDateTime: 2021-07-19T07:51:00Z
+    webUrl: "https://jakartaglobe.id/tech/southeast-asias-first-ai-hub-launched-in-singapore"
+    type: article
+    provider:
+      name: Jakarta Globe
+      domain: jakartaglobe.id
+    quality: 37
+    images:
+      - url: "https://img.beritasatu.com/cache/jakartaglobe/640x441-4/2021/07/1626680878.jpg"
+        width: 640
+        height: 441
+        isCached: true
   - title: "Temasek-backed SenseTime launches AI innovation hub in Singapore"
     excerpt: "Temasek-backed artificial intelligence (AI) company SenseTime on Monday launched its international AI innovation hub in Singapore, while entering into two agreements to develop industry talent here.."
     publishedDateTime: 2021-07-19T06:37:00Z

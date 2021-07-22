@@ -294,6 +294,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Argo AI, Ford & Lyft partnership provides robotaxi services to Lyft customers"
+    excerpt: "Argo AI, Ford, and Lyft form the first large-scale collaboration in the US: self-driving developer, a carmaker, and a ride-hailing company."
+    publishedDateTime: 2021-07-22T03:56:00Z
+    webUrl: "https://techstory.in/argo-ai-ford-lyft-partnership-provides-robotaxi-services-to-lyft-customers/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 34
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/07/lyft-argo-ford-01.jpg"
+        width: 940
+        height: 627
+        isCached: true
   - title: "Argo AI and Ford to Launch Self-Driving Vehicles on Lyft Network by End of 2021"
     excerpt: "\"This collaboration marks the first time all the pieces of the autonomous vehicle puzzle have come together this way,\" Lyft co-founder and CEO Logan Green said. \"Each company brings the scale, knowledge and capability in their area of expertise that is necessary to make autonomous ride-hailing a business reality."
     publishedDateTime: 2021-07-21T11:05:00Z
