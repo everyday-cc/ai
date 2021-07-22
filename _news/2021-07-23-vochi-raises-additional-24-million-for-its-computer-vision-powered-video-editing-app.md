@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-millio
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/amp/"
 type: article
 quality: 96
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 667
     isCached: true
 
-secured: "bkIt9rw54D1USJyXima1bjVu1pYb5ghmY3hYd24qIYD0tQuyRpHK8JnkMQRfZjtBzn69tMkCpErMvhM1DQ6n7mE87hHDRwODIKY8pubU3ZOJuhI6T4KTKlyQE4OmjxLQ3y4d/Xkne5i6B7Kz3kfk5k0l11BYq4n3YYl+biavabZGhcGSsaqzu3z0pCNE3T4XqBiQ3Z8gcUMk14PwbjTnIR3YIdUgMqgmu5u76eGdn4/87OJrW/UYlRBMmgi5qbzFN/IJ9spU7T57F6iRd9Cub4Zrk0fyNPJsAnYxcHRUc6vgNHGNX0IccsJ+C6BEGaupdEpB4YK0MD1nLJG8E7xO7SiU5/uH9tdD2GG0xzQy8sQ=;A/zL6wOGGiy8I48SHSgmfQ=="
+related:
+  - title: "Fintech firm focused on investor rewards raises $2 million venture round"
+    excerpt: "A financial technology startup founded by veteran investor relations executive Jeff Lambert has closed on a $2 million \"pre-seed\" round of capital, according to a news release. Detroit-based Tiicker,"
+    publishedDateTime: 2021-07-22T19:29:00Z
+    webUrl: "https://www.crainsdetroit.com/investing/fintech-firm-focused-investor-rewards-raises-2-million-venture-round"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 38
+    images:
+      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/Jeff%20Lambert_i_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "UuRph/sFm9Ou1l7u8Y0Ne+t418kHhuOsmdE4f9fwyJNAkX7aIKUfdx0uFBGnPFfrz3MidgpOki6jQqzHOl1en5H6i/hbz1sAXhlQ6JAsUTyD+8ZRygEezCAz/wFpWwB09J56hiYs92j6fk3GjWBR2pqCHb9PSoV6KMAO6vaESeRIfsDaQ0nk/JjD9p0VX1ZxteCG9cqGr7pYOpQFZWKh1hPoK2BpVjzNw5KNKppRXIIgj/BWY4CQimKEFvkDfH/DEEPf76+1MgpgRVlAZ9mxMN6Ln4f/H0VcsXshcZclOxIJeELo9w4O4Fdvk4IuXq7oKMu1L8akmyP3UIYb7IGRD+hbDhWj2jGkRjGHKOW1FuKZjbVHfbT1GAiPYIlvk+/Pg02B5U1TF1b8rOajx2TI79tQXLGSe8qIhr/ou/9gqeGWR+NpY/+GBwmaDtpV+rx3Jr/1VTg5f9TW53F2WNERdSXBPVRFUphzB7vkEVVDxj6fxjHc7rYNvxPFG00bNS0KIWMGObYWhqyNMQyTsU3+sQ==;xBnqpU2d7FQwQdvcHuOKXw=="
 ---
 

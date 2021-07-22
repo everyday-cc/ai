@@ -101,6 +101,20 @@ related:
         width: 1500
         height: 1124
         isCached: true
+  - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
+    excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO). \"This is the perfect example of our client feedback loop in action,"
+    publishedDateTime: 2021-07-22T16:57:00Z
+    webUrl: "https://www.lelezard.com/en/news-19916035.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 53
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Machine Learning Software Market 2020-2026 | Microsoft, Ibm, Scikit-Learn, Google Cloud Tpu, Figure Eight"
     excerpt: "The research report of the global Machine Learning Software market has recently added by The Research Insights to its vast database Some of the recent advancements in technologies have been elaborated to get up to date knowledge of businesses There"
     publishedDateTime: 2021-07-21T05:27:00Z

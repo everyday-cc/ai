@@ -78,9 +78,9 @@ related:
         height: 950
         isCached: true
   - title: "Watson as a Warning: Current Limits and Promise of AI"
-    excerpt: "We can’t seem to decide whether AI will replace humanity as the dominant intellectual force or it will simply be a sideshow never reaching its promise. Is AI the technology of the future, or wil"
-    publishedDateTime: 2021-07-20T17:17:00Z
-    webUrl: "https://www.natlawreview.com/Node/153737"
+    excerpt: "Last week the New York Times ran a cautionary tale about how IBM tried and failed to use its heavily branded AI solution called Watson to transform the business world and solidify IBM’s future."
+    publishedDateTime: 2021-07-20T17:01:00Z
+    webUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai"
     ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
     cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
     type: article
@@ -153,20 +153,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Artificial intelligence of things at the edge"
-    excerpt: "Gartner has predicted that 75% of data will be processed at the edge by 2025, and artificial intelligence of things (AIoT) is moving from concept to reality. Is your enterprise ready? Download this white paper to discover Advantech’s plug-and-play computing platforms and software frameworks that strive to simplify and streamline deployment of new applications in edge and embedded scenarios."
-    publishedDateTime: 2021-07-18T03:33:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1624448833_674.html"
-    type: article
-    provider:
-      name: Bitpipe
-      domain: bitpipe.com
-    quality: 37
-    images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1624448833_674_lg.jpg"
-        width: 315
-        height: 408
-        isCached: true
   - title: "Using AI and a lawn sprinkler to keep people out of the yard"
     excerpt: "Having people walk through your yard can get annoying. Not only could heavy foot traffic kill your beautiful lawn, but some disrespectful people will even let their pets do their business on your property without cleaning it up."
     publishedDateTime: 2021-07-19T18:44:00Z
@@ -189,7 +175,7 @@ related:
     provider:
       name: Wipro
       domain: wipro.com
-    quality: 34
+    quality: 36
     images:
       - url: "https://www.wipro.com/content/dam/nexus/en/service-lines/business-process/latest-thinking/og-artificial-intelligence-not-a-buzzword-anymore-its-evolving-and-growing-fast-i-1201645264-502x263.jpg"
         width: 502

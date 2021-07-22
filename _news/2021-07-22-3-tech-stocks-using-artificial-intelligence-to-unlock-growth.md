@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "3 Tech Stocks Using Artificial Intelligence to Unlock Growth"
+    excerpt: "Artificial intelligence is spreading across almost every industry in the world and helping businesses to build scale that was previously never thought possible."
+    publishedDateTime: 2021-07-22T17:48:00Z
+    webUrl: "https://www.fool.com/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 87
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F634063%2Fa-person-in-a-car-signing-a-digital-tablet.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ANAROCK to launch AI PropTech to boost housing sales by 15"
     excerpt: "ANAROCK India leading tech-driven real estate services consultancy will soon launch India first Artificial IntelligenceampMachine Learning AIML PropTech"
     publishedDateTime: 2021-07-20T09:38:00Z

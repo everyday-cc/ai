@@ -3,10 +3,10 @@ category: news
 title: "DeepMind’s AI predicts structures for a vast trove of proteins"
 excerpt: "AlphaFold neural network produced a ‘totally transformative’ database of more than 350,000 structures from Homo sapiens and 20 model organisms."
 publishedDateTime: 2021-07-22T15:33:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-02025-4"
-webUrl: "https://www.nature.com/articles/d41586-021-02025-4"
+originalUrl: "https://www.nature.com/articles/d41586-021-02025-4?error=cookies_not_supported&code=a365541b-42f0-4984-a7ab-cb10a65e9e92"
+webUrl: "https://www.nature.com/articles/d41586-021-02025-4?error=cookies_not_supported&code=a365541b-42f0-4984-a7ab-cb10a65e9e92"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02025-4/d41586-021-02025-4_19383154.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "AI firm DeepMind puts database of the building blocks of life online"
@@ -82,6 +88,20 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/07/22/203409-untitled-design-34.jpg"
         width: 918
         height: 506
+        isCached: true
+  - title: "DeepMind’s protein-mapping breakthrough is awesome, but it sure as heck isn’t free"
+    excerpt: "DeepMind just released a protein-mapping system to the general public that could be one of the biggest breakthroughs in decades. But at what cost?"
+    publishedDateTime: 2021-07-22T20:01:00Z
+    webUrl: "https://thenextweb.com/news/deepmind-protein-folding-breakthrough-ai-isnt-free"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Fpichaiscience.jpg&signature=38050f2f9369c452930e1b34c7d9a994"
+        width: 1280
+        height: 640
         isCached: true
   - title: "DeepMind says it will release the structure of every protein known to science"
     excerpt: "The company has already used its protein folding AI, AlphaFold, to generate structures for the human proteome, as well as yeast, fruit flies, mice and more."
@@ -153,6 +173,6 @@ related:
       domain: bio-itworld.com
     quality: 13
 
-secured: "V6NCx8NNJWdrbXjOY+oB/j3k88RCHXW194AVm7qEudrTkJfSHTX9ha4XOeaNWDInr5lvokoNsBtOthz3ss4vokvQSOLUD6FtDe/2og/cX2CFmJidHD50N+NcO54nffsgQxUIeg0HvvehJYBe3Y4RQ4cxDMwoiPAn8ew3VL0nLQn1L630MutGTojBkPG2mtze4ZzMogxvaio7Pylt6s4sAlIAf6Now8DAROdTQf0ptR6ox/a55lgRBU+p1oNmL+PXGSJB+bchQs9EtxUS4iMnLVWm/j6UNrDr+aErTXCCk0NENxCLdFhRYU/dpFiRAi6NPEd9zHZyG98MHDKGNRAh9NqSktGTClKugXFIMf9BjIc=;xPRd0kgUDYq9slTJ1uk1KA=="
+secured: "y64280DLmwhlJdJX+IJ7x0xmp2iyw+26F7eZhRFiVnmgnUJ4x7bV4AME+Q3FPuYuilaJN+iJuh1XB/OBGBdO17fSkryZ7eG+UEuE4tB+8qkivuvR3LljE2EQQbPhkQTU02oTp0ym09wMkHtdruz0VfQGl6Fq2Z5Hjq/KT7sUjPQgCqKcGF+sP7MCExNdN5+r/PsXzL1SSfkJJUmX8IMcIv1SjWNDlW3JhqhW0AFh/MLB+e4FDfz6ikeleSHyDFLuMNmJ5ZnaIzBtt219YhkKOKuLxYTLNFpTqyTf3hfTU/efQ++f1d+HW0GjqbzQxC+lNZwVLaUrXzmh2seC64/NwjP9O8j8dKRYphTACcfSrbw=;Kei5yNNZFYyKaZrpP3ctCA=="
 ---
 

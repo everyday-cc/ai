@@ -40,6 +40,20 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "Agricultural AI Market Tipped for Strong Growth Track || Top Players – IBM ,Deere & Company ,Intel"
+    excerpt: "The Agricultural AI Market report by A dvance Market Analytics gives an important source to figure out the market and other fundamental technicalities relating to it, covering market growth potentials that can benefit the stakeholders to understand growth opportunities,"
+    publishedDateTime: 2021-07-22T19:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/agricultural-ai-market-tipped-for-strong-growth-track-top-players-ibm-deere-company-intel-2021-07-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Platforms Market Size 2021 is Booming Worldwide| Google, Baidu, Ibm, Microsoft, Sap, Intel"
     excerpt: "The report titled Global Artificial Intelligence Platforms Market Research Report provides market size and market overview for the global Artificial Intelligence Platforms market for the forecast period of 2021-2028."
     publishedDateTime: 2021-07-19T03:12:00Z

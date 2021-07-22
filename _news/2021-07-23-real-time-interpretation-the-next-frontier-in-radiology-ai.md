@@ -108,6 +108,15 @@ related:
         width: 800
         height: 493
         isCached: true
+  - title: "The Cognitive Psychology of Rules of Interpretation in International Law"
+    excerpt: "While Articles 31 and 32 of the Vienna Convention on the Law of Treaties (VCLT) prescribe the rules of interpretation for international treaty law as “disciplining rules,” the rules of interpretation themselves are understudied from a cognitive ..."
+    publishedDateTime: 2021-07-20T12:48:00Z
+    webUrl: "https://www.cambridge.org/core/journals/american-journal-of-international-law/article/cognitive-psychology-of-rules-of-interpretation-in-international-law/07C298A6A5E1D7864F4A10EC4F09CAFE"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 3
 
 secured: "qDhEh10CxRGODkjs8ADFTfW2lsKvr3sUlbBJVLkSQaxUPD6HNuYenlG3Y6+6tGxnZjCG6p8M9Wkfkl29Ry6JjAALRmiU+ZBIyyApMdvkZfOzFwkGWoNq185at+/ZvGdi/JuUN8auUwDp8tVw+0Y6GKqMgaogIiKPb7WxR1y1/y32L0+ELFAF22okSAylLBTygug+C3N6B4oViax+JYBDSEt3BaQeaHqdaA8fKjJM6gnwf/k2LN68k6W1oMhISdxD1kQHXIh67c9SMCM/0JlbHFvPHHbKC2G1EuNQqNH0DZvPpAtviqrqRl8lc7Wbp7iBCXmNjN7PaCJcWXR9+hHjIHEr7T6r7iLcIyMULt0EcwY=;bvmRzNTuZzCTU1Qcak/Pkw=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Call Involving Man Covered In His Own Feces Earns Wood-Ridge Officers Statewide Recognition"
 excerpt: "The Wood-Ridge officers who responded to a call involving unwanted party the night of Nov. 19, 2020 had every right to use force.The 41-year-old subject had just smeared his own feces on his ex-girlfriend's home,"
 publishedDateTime: 2021-07-22T16:00:00Z
-originalUrl: "https://dailyvoice.com/new-jersey/hackensack/police-fire/call-involving-man-covered-in-his-own-feces-earns-wood-ridge-officers-statewide-recognition/813162/"
-webUrl: "https://dailyvoice.com/new-jersey/hackensack/police-fire/call-involving-man-covered-in-his-own-feces-earns-wood-ridge-officers-statewide-recognition/813162/"
+originalUrl: "https://dailyvoice.com/new-jersey/ridgefieldpark/police-fire/call-involving-man-covered-in-his-own-feces-earns-wood-ridge-officers-statewide-recognition/813162/"
+webUrl: "https://dailyvoice.com/new-jersey/ridgefieldpark/police-fire/call-involving-man-covered-in-his-own-feces-earns-wood-ridge-officers-statewide-recognition/813162/"
 type: article
 quality: 14
 heat: 14
@@ -24,6 +24,6 @@ images:
     height: 380
     isCached: true
 
-secured: "sacT1um1fHSg0H4G+R9Q+R84gf9wmMZDiS3F1ar05Jv5/6nQHMHX2eYVgpmyRWxfSlyDNPEE4HfaMEGwJb6gMTd923j/e0h9iK4mdKTJ4CU4QKSuLF+mn72IgiLgzsc0xvXwi4kudEXMCcgTj/ef5kMXN849+EP+ME7LvoiPEhCwBPBbjoqPNEfTOgi4KTw5ESXCPe9kgUztg/ufTKVrvX/EnKFt5rCLQzmqMmxVgcmpOciS6cNKIlenYwNkz8m1x5IlRgLHkNJYmDbiIL3W1xPYVb7ufKL+AtM/FK5QGTWrjv94Za85eKzBs/eBidcQ9Ltp2aSYJnoKeOZnHUCeCOZk8SBXvqI7tKzCYPTWVcM=;H5w1wywKoef8M7wJ1Br4Hg=="
+secured: "IL3qKSOKEahzLqLVQUtqSrLu1nNtkGr9qCMXsWLw/n//yr/lHxLmtHBIxx6TAPWU99T8n3XP6O6Qj8Xjh1zC7LpdUKhHz502SW7NqYIWhH/B7Nm626xtQYFoNwAjN7+ZqLj2jl7Yg8/DQ+KAnf8ztaP4H6W1aSJG5mH5doeL6JBrpQ3OZau4/bIBoajSFV4468CFq/Tt1GTU4+LqWPIzYpWzS2XANJa+EWaIGvkmU+TjLKB8kkyrwHX4YfjOnQhEmzGa/sIlIV0uGg9CJhzowpW3CKuSHGTlgZKNMYOhxyYBSFwatf3VoyoU5BEAOsXcHKWyZFAFM2uIdVOUb2tjhmkdWG/7C7U9prxYz9k0pgU=;QFV9Fj5Mk/OlrbHwYufqxA=="
 ---
 

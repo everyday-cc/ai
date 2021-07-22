@@ -89,6 +89,20 @@ related:
         width: 918
         height: 506
         isCached: true
+  - title: "DeepMind’s protein-mapping breakthrough is awesome, but it sure as heck isn’t free"
+    excerpt: "DeepMind just released a protein-mapping system to the general public that could be one of the biggest breakthroughs in decades. But at what cost?"
+    publishedDateTime: 2021-07-22T20:01:00Z
+    webUrl: "https://thenextweb.com/news/deepmind-protein-folding-breakthrough-ai-isnt-free"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Fpichaiscience.jpg&signature=38050f2f9369c452930e1b34c7d9a994"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "DeepMind says it will release the structure of every protein known to science"
     excerpt: "The company has already used its protein folding AI, AlphaFold, to generate structures for the human proteome, as well as yeast, fruit flies, mice and more."
     publishedDateTime: 2021-07-22T15:07:00Z
@@ -104,6 +118,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/07/Proteins-1.jpg?w=1920"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "DeepMind’s AI predicts structures for a vast trove of proteins"
+    excerpt: "AlphaFold neural network produced a ‘totally transformative’ database of more than 350,000 structures from Homo sapiens and 20 model organisms."
+    publishedDateTime: 2021-07-22T15:33:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-02025-4?error=cookies_not_supported&code=a365541b-42f0-4984-a7ab-cb10a65e9e92"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 54
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02025-4/d41586-021-02025-4_19383154.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "DeepMind and EMBL release the most complete database of predicted 3D structures of human proteins"
     excerpt: "DeepMind today announced its partnership with the European Molecular Biology Laboratory (EMBL), Europe's flagship laboratory for the life sciences, to make the most complete and accurate database yet of predicted protein structure models for the human proteome."
@@ -135,15 +163,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "DeepMind’s AI predicts structures for a vast trove of proteins"
-    excerpt: "AlphaFold neural network produced a ‘totally transformative’ database of more than 350,000 structures from Homo sapiens and 20 model organisms."
-    publishedDateTime: 2021-07-22T15:33:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02025-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 34
   - title: "DeepMind Releases Open Protein Structure Database Including Complete Human Proteome"
     excerpt: "DeepMind and the European Molecular Biology Laboratory (EMBL) today unveiled the most complete and accurate database of predicted protein structure models for the human proteome. The database includes about 350,"
     publishedDateTime: 2021-07-22T15:23:00Z

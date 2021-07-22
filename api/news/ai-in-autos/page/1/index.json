@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-22-lyft-will-team-up-with-ford-and-a-self-driving-car-start-up-to-offer-rides-in-miami.md",
+      "title": "Lyft will team up with Ford and a self-driving car start-up to offer rides in Miami.",
+      "excerpt": "The companies plan to begin offering the service this year, expanding later to Austin, Texas. A human will still be behind the wheel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/21/business/lyft-self-driving-cars.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/21/business/lyft-self-driving-cars.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/21/business/21economy-briefing-ford-argo/21economy-briefing-ford-argo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/21/business/lyft-self-driving-cars.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/21/business/lyft-self-driving-cars.amp.html",
+      "publishedDateTime": "2021-07-21T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-tesla-knocked-500-off-a-hardware-upgrade-for-its-full-self-driving-subscription-after-customer-backlash.md",
       "title": "Tesla knocked $500 off a hardware upgrade for its Full Self Driving subscription after customer backlash",
       "excerpt": "Tesla offered customers with older cars a $1,500 Full Self-Driving hardware upgrade, provoking a backlash. Now, it's charging $1,000.",
@@ -166,7 +218,7 @@
       "originalUrl": "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1390,49 +1442,6 @@
       "provider": {
         "name": "POLITICO",
         "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g.md",
-      "title": "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G",
-      "excerpt": "G is beginning to power everything from connected farms to connected cars! Recently, Halo launched one of the first commercial driverless car services in the U.S. running on the T-Mobile (NASDAQ: TMUS) 5G network in Las Vegas.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/news-direct-corporation/business-technology-las-vegas-driverless-cars-6c9abdf2474149cda45f5a433d8f4e7f",
-      "originalUrl": "https://apnews.com/press-release/news-direct-corporation/business-technology-las-vegas-driverless-cars-6c9abdf2474149cda45f5a433d8f4e7f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

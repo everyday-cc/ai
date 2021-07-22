@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market"
+    excerpt: "The Artificial Intelligence (AI) in Automotive Market is expected to be valued at USD XX Million in 2020 and is expected to reach USD 10,573.3 Million by 2027, at a CAGR of 38.46% during the ..."
+    publishedDateTime: 2021-07-20T18:13:00Z
+    webUrl: "https://www.openpr.com/news/2333162/artificial-intelligence-ai-in-automotive-market-2021-next-big"
+    ampWebUrl: "https://www.openpr.com/amp/2333162/artificial-intelligence-ai-in-automotive-market-2021-next-big"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333162/artificial-intelligence-ai-in-automotive-market-2021-next-big"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/U/7/U720586898_g.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Global Facial Recognition Platform Market 2021 Major Players, Competitive Spectrum, Revenue Share and Sales Projections by 2026"
     excerpt: "The research document entitled Global Facial Recognition Platform Market 2021 by Company, Regions, Type and Application, Forecast to 2026 released by MarketsandResearch.biz is an information-rich knowledge hub that assists organizations with understanding the noticeable patterns that are rising in the market."
     publishedDateTime: 2021-07-21T03:44:00Z
@@ -66,6 +82,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Deep Learning Chip Market Share 2021 Growth Prospects, Industry Size, Demand, Analysis of Top Key Players, Latest Trends and Forecast to 2025"
+    excerpt: "About Deep Learning Chip Market: Deep learning chip is an artificial intelligence (AI) device that enables a machine to learn the given tasks and perform them without being explicitly programmed."
+    publishedDateTime: 2021-07-19T20:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chip-market-share-2021-growth-prospects-industry-size-demand-analysis-of-top-key-players-latest-trends-and-forecast-to-2025-2021-07-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

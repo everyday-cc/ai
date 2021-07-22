@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/270374400/anarock-to-launch-ai
 webUrl: "https://www.bignewsnetwork.com/news/270374400/anarock-to-launch-ai-proptech-to-boost-housing-sales-by-15"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "3 Tech Stocks Using Artificial Intelligence to Unlock Growth"
+    excerpt: "Artificial intelligence is spreading across almost every industry in the world and helping businesses to build scale that was previously never thought possible."
+    publishedDateTime: 2021-07-22T17:48:00Z
+    webUrl: "https://www.fool.com/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 87
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F634063%2Fa-person-in-a-car-signing-a-digital-tablet.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "3 Tech Stocks Using Artificial Intelligence to Unlock Growth"
     excerpt: "The internet has opened up new opportunities to climb those hurdles, but artificial intelligence (AI) is proving to be the most valuable piece of the puzzle -- completing tasks that used to require many employees,"
     publishedDateTime: 2021-07-22T13:48:00Z

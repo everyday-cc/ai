@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/why-most-machine-learning-models-never
 webUrl: "https://thenextweb.com/news/why-most-machine-learning-models-never-hit-market-syndication"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Next Web
@@ -27,6 +27,17 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Why 90% of Machine-Learning Models Never Hit the Market"
+    excerpt: "Around 90 percent of machine-learning models never make it into production. In other words, only one in 10 of a data scientist's workdays actually end up producing something useful for the company. Companies can't just throw money at data scientists and machine learning engineers,"
+    publishedDateTime: 2021-07-22T21:42:00Z
+    webUrl: "https://cacm.acm.org/opinion/articles/254198-why-90-of-machine-learning-models-never-hit-the-market/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 4
 
 secured: "R0CSmQHBBR0VisIm83GT/nF0/h3uXsX3nb3CtnMhEh7tU2t/sjOo8BmhSOxQln5jBOrxmA8oIEQCF+NU056vzpe3eQy6DZAszf3kBCYfcdfMT6a9zT0FOXXLUi++JLJOvN1F9QlmgHjNx77J+R5Do1+cxbpFhaxfg489QLvR0werJ7SSDpqvP6W/cIUNbgJjjtcmkN47OHsvhcIIbotkTLsT8o8XEnEd5eyJ326zhagnTTM3LPgvxXx+JjZsXEEUlHXTv6YZhw+NILDJB0y2S9PbrfTPG1ixARqON1rn592+pJf8ihYzNra1/65Y9EeI8w8+LsdtfvVzxGuG7Uj4lTDJC0ScWLF0mUC/kbEYVT3hCbkN7E4sEr1m02eZxH/6OwiYmO52Jx7iRcmpGqUBTVVjf1quKEYQCt5MSSlV4DzMIWsqyILlQwatwAD068Dn/xBg1Gy7/uH90mO1/ljEw7/jZjaQr/qufdcyay6E48gnqSPEiZqNb9TbULX9+fnpJDEdl9PapyPnZXeGWlWc7A==;3YfKE/yJIuTJGIuOQPt7wg=="
 ---

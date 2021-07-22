@@ -1,23 +1,29 @@
 ---
 category: news
 title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-excerpt: "Combining these partners' technologies enables a highly scalable and easy to manage building safety and security management system. The system can detect special events such as off-hour intrusion, tailgating at the entrance,"
-publishedDateTime: 2021-07-22T18:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/22/9415457.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/22/9415457.htm"
+excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
+publishedDateTime: 2021-07-22T18:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
 type: article
-quality: 46
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Security
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft Azure Sentinel vs Darktrace Enterprise Immune System: Who's on top in AI security?"
@@ -44,6 +50,6 @@ related:
       domain: tmcnet.com
     quality: 51
 
-secured: "VF69W1NYeVdjVuM9NmV91uDp3eMNyDQQ8v6qDzlQO8fFLotC8VWZIvkrphW85I09GVbIH7mm5YkYd0XW5TttQkcQwxxVGsWSJnpNe5qvriWPx2R0ry8S/95AmRepTgQPn7LyJVLov9tuJ0G+yjBvJWaIIBxPc1AE8mdDGAfXHDdC6ileLbBgu5J2aNKLsEkzl9WFs67KzC3BexSQbWXF5n7CY/B+83+IAzsGgdWuZQ5uetFtt9QNwW/Jt/jLL3fmEIhM2YnpA2EisjDsiHhP5zqF/FznotSAURNwn/OVqDp+PnlEbNQZ9AMm+B/XukgNccQmEcSFCZx+nBX9GcfApQ3hpl06ZFbD1MLIZ2Eo7+8=;5XeRGxJuSeMXX8X6nwZbrQ=="
+secured: "6OblzRn/q8C8BEKuCRwQHcJBYflVrb0uFClx/jr+TRiAIb1VzA83UL7UZ1ABYfJzBo1mG5B3npfCOGlLHjYQD5TRbJbZLqEm6sro0bREpVmU6G5eHV7cTgGCI9TYKe5/Ch+casY2MAwbPFUgpXgQGPnJdljzoK48RtMQ/LFfk9WPSDB5uUaEyTDdOj38sUyHIvc8KVGXmKLSJzO3MuClLZ9p9qOC4ZB7m6oyH4ewCuMsktRQZvIs1ax9PYAEvmPYRNrpSiHF1uhdHD/+AghKhG1rOvXgx8idfqJ4lSok7GvDmDRIXFGbjCLGn5B+RYusUiNAyXT0iy6daWU/8pw1Ba4gnlZ6Kr/LZJVDBXQBs0I=;i9VXzY4vbamu5dTIJ6Q9yw=="
 ---
 
