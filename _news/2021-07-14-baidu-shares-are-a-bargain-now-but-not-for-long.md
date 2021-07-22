@@ -19,12 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2021/07/bidu2.png"
-    width: 1940
-    height: 891
-    isCached: true
-
-secured: "n4a2kxPa8+/put6zQ9Mju9y5LtBcirr4HKiOA4dGzQz/7qtGkREG51a/9vm29TgsoaTFD1wCshRZ3YNz8baobAwW+nIo3VT188jH761ERSLwbnNiLE7PGYl7SBRJK/NuPDJWVLnkOp34FRHsehHzC2gd0HmMERc/sgCzTByWosyIn8LWrBv4heTGJInzNvRiwxMAskEERnwzzo+e2D2gUwPJTHiYuI30QjK4qHUxJLTZPmfYtWNBbQgfNOTCwbT3vC8WsCg4M6wvlPmd6JHpf00s6cYmBZGC7WHeuegXxBu1c+aQBLVF3LS9oCQYnh6l1BW9Aq7WEK9E9eAwqXmK2KWq4p0ArDC71GvGllbavNs=;WS4QiJ9BsHw1UJz/c00Zxg=="
+secured: "las5qqkQtU8+Q3tWWiSv9vug1EtqyET8soWRTHWcBpVepX+ZmjMPUUkZe3vGMamdFmc2gedXOOJ/M0UwQssThF8wF6UX+qB34GoZL8CNBIJEnzR6MDxC0II400AwqCNmiPQVZ6zU8YrzWPejo8UC3EDZkIlqJ3wsXcMQnqMYtUKR4XAkWiiNOhEmASc5t+IVuf4SidguceYVAMawtWzQVhofy0WywnneX1KDVwKL8bqaJ6TJxUcpmnV9L+OmMXskJ5YpgbWwZM/F+sbMP5eMfd70b0hdlxAedX5hiq/y0XExLEGGkAFkvqWDexVv8vh3SdXAlFTrF7c7Rdgq0RZsP17xdl+USSU5mpxeF2WlXGE=;n7Zc285OyREUYyTa0X1Qrw=="
 ---
 

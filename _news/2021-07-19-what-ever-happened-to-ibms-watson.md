@@ -37,6 +37,20 @@ related:
         width: 450
         height: 450
         isCached: true
+  - title: "IBM Watson In Demand"
+    excerpt: "Hire' service is posed to grow 30%, driven by Healthcare and Financial Services customers looking for real time data processing."
+    publishedDateTime: 2021-07-22T14:19:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/ibm-watson-in-demand-5765.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 39
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ibm-watson-logo-ibm-watson-logo.png"
+        width: 820
+        height: 860
+        isCached: true
 
 secured: "HXca2WXZGP3wRee5yIJSjIwmBlrVUBo++K6HAFQslGMv/+JYM2iPW/QwVFjcypL77ImmNKPHiLPgpo816zjPNlCWt9VN7kV2nQo7Ki/otajwdblpqyl5LHiKo+f1QRluV2SiyaWnfPbsqMqAN57sgUPAo1wMdvOFYLGeLUyBMWoQ02Is48PmcQeqvLFa/Sth3cFeDHrekaAfBOQ/MPC6s5S9jochjvGlAJv+r1zvU07DBqGCSxBb8/wPtQ5B5f5buH8/VFWRb57JPyMyjlZlu/JTdOVrQogidOYSwHuZVDBDu52EjfMn4yOCtu96rw+2wPkgHDFVfi66vONz7wvFRJ/y3xrVkktaUuPztnQiyaw=;46V0V3IegRJbYUeWW3ZKpg=="
 ---

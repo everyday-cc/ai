@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Ethics of a Deepfake Anthony Bourdain Voice"
-    excerpt: "The new documentary “Roadrunner” uses A.I.-generated audio without disclosing it to viewers. How should we feel about that?"
-    publishedDateTime: 2021-07-17T21:54:00Z
-    webUrl: "https://www.newyorker.com/culture/annals-of-gastronomy/the-ethics-of-a-deepfake-anthony-bourdain-voice"
-    ampWebUrl: "https://www.newyorker.com/culture/annals-of-gastronomy/the-ethics-of-a-deepfake-anthony-bourdain-voice/amp"
-    cdnAmpWebUrl: "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/culture/annals-of-gastronomy/the-ethics-of-a-deepfake-anthony-bourdain-voice/amp"
-    type: article
-    provider:
-      name: The New Yorker
-      domain: newyorker.com
-    quality: 74
-    images:
-      - url: "https://media.newyorker.com/photos/60f1f5cf4b7e6806bf23a66b/master/pass/Rosner-BourdainDocAI.jpg"
-        width: 2560
-        height: 1759
-        isCached: true
 
 secured: "UL7vZYcUbtuvixDGARdLOvyhp70PGVCG7+k/wuhN5A6h3ehMkbgN3D2kHr1dW/AiND25lOUuz0QlzEbBzZwkfLCGxZtW083TqPdj/lx2FaReHaWod/a9ZM4Bfq2uOXLYhDZy0ia4xWs8NGnFqT7+A1HMHqlqqGrbkLUpXIeRDkv//kSVIzd6V/ziEOc2A/gCNkXgx5MNH0p+Q8S6JSO2FHbMy+DUfuL80ytBhdyzx0GQpg3JqTtlfiYgujWhIiUX5icirWnaVWMSMw5Js4a4Xjt4ofudjZYS6BapKKVSUkQ6LRYMd2NMtI3HSOahdIEKm33NeZDKzx4+QJGqQtyt2LPvh43HHR3tnZ/K2XJWrc1UfRRueyEKWjMYKmIru6BYBOyYoO6GvOxrY2/ADx1x43+6EMmtluDwl6kB21WHfsDi7+rD1XRcE9lziEb6EMCEFDQWjYW1cpCv49DO3uMOyhNEwE35DCq8kCa+ACK62fyqalKUYpSI4aDivgb3vtY9qEi918VE2f+6pGEcMxhd8Q==;qvfrTNUZ5wrbRfiyWbYOhQ=="
 ---

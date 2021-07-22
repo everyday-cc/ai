@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists adopt deep learning for multi-object tracking"
+    excerpt: "Researchers have adapted deep learning techniques in a multi-object tracking framework, overcoming short-term occlusion and achieving remarkable performance without sacrificing computational speed."
+    publishedDateTime: 2021-07-19T19:44:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/07/210719110534.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Researchers adopt deep learning for multi-object tracking"
     excerpt: "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our"
     publishedDateTime: 2021-07-19T13:52:00Z
@@ -41,15 +50,6 @@ related:
         width: 770
         height: 420
         isCached: true
-  - title: "Scientists Adopt Deep Learning for Multi-Object Tracking"
-    excerpt: "Researchers at the Gwangju Institute of Science and Technology have adapted deep learning techniques in a multi-object tracking framework, overcoming short-term occlusion and achieving remarkable performance without sacrificing computational speed."
-    publishedDateTime: 2021-07-20T15:21:00Z
-    webUrl: "https://cacm.acm.org/careers/254129-scientists-adopt-deep-learning-for-multi-object-tracking/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "IoF1fe1AKvhs5mYr88Vlfx3TaOxCOW+TgBCMaAa2OgxAfJX3lWo6qPYaZHfW8+m/jTigDIJ/jdFBkXfadlCWtqiic/vGauyo2R3B0r+w/CvQgWN0Yq+ahYkM+dVqS4jOHetqJFgfLgHE1qKYkCof6tqQBcHxGW8JgD4zlYZdN3i31UoBAThXCzaoUrM3le5u9XS/p9VPQglH166rxEjdOn0GQFHH++ZoRUGO2c44O4i9iAOMXLULr1iuVNx7/V9m2WrxgLahf98OchowNDHfkbn8mY9nhHc/gOrQkhAh021Ug4XiIR5ZMsLBYT8cIvt1use1C5js+gEPdApgRigRrJl6chbyA8umev7owU4dFTXlbbppMIzJx3xyZogk8yv5i5pepC5Lo0buUcfZycCWgWrrqKAm+A9Uog7njI06bL5vw8IiffNIpIB5pYsKi+zoDbNEOsUDM7cF47SZWT1Hs4UjOdhg3zqmdC/2xjRv/XmNSPFzBPSI5dq2QKTIxjlxFMTv3ofiXM3/iKjnz+h60w==;F7ac2V/C6fQqy5rmelJV5A=="
 ---

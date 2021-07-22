@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-trends-share-size-growth-opportunity-and-forecasts-by-2025-2021-07-20"
 type: article
 quality: 69
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -125,6 +125,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Agriculture Market 2021 Top Industry Players, Regional Study, Growth Drivers, Challenges and Opportunities by 2026"
+    excerpt: "MarketsandResearch.biz has added a new research study on Global Artificial Intelligence in Agriculture Market 2021 by Company, Regions, Type and Application, Forecast to 2026 which is a result of an extensive examination of the market patterns."
+    publishedDateTime: 2021-07-22T03:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-agriculture-market-2021-top-industry-players-regional-study-growth-drivers-challenges-and-opportunities-by-2026-2021-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

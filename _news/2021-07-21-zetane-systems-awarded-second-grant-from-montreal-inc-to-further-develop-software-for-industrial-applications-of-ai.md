@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Registrations ongoing for virtual forum on industrial machine learning applications"
+    excerpt: "Registration is open through July 29 for the first-ever Machine Learning for Industry Forum (ML4I), a three-day virtual event starting Aug. 10. The forum aims to foster and illustrate the adoption of machine learning methods for practical industrial outcomes,"
+    publishedDateTime: 2021-07-22T15:37:00Z
+    webUrl: "https://www.llnl.gov/news/registrations-ongoing-virtual-forum-industrial-machine-learning-applications"
+    type: article
+    provider:
+      name: VisIt
+      domain: llnl.gov
+    quality: 33
+    images:
+      - url: "https://www.llnl.gov/sites/www/files/styles/scaled_425h/public/2021-07/HPCIC-Event-875x500px.jpg?itok=A4MhDWId"
+        width: 744
+        height: 425
+        isCached: true
   - title: "SambaNova Systems and ScaleWorX Enter Historic Partnership to Drive Artificial Intelligence Adoption and Applications in Asia"
     excerpt: "SambaNova Systems, the company building the industry's most advanced software, hardware and services to run AI applications, today announced it has entered a first-of-its-kind strategic partnership with ScaleWorX,"
     publishedDateTime: 2021-07-21T13:50:00Z

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-21-a-run-down-on-deep-learning-trends-driving-ai-development.md",
-      "title": "A Run-down on Deep Learning Trends Driving AI Development",
-      "excerpt": "Deep learning has evolved to be the power behind artificial intelligence models. Therefore, in the digital era, deep learning trends driving AI development is taking centre stage in the growth of technology.",
+      "path": "_news/2021-07-22-ai-firm-deepmind-puts-database-of-the-building-blocks-of-life-online.md",
+      "title": "AI firm DeepMind puts database of the building blocks of life online",
+      "excerpt": "AlphaFold program’s prediction of nearly 20,000 human protein structures now free for researchers",
       "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/a-run-down-on-deep-learning-trends-driving-ai-development/",
-      "originalUrl": "https://www.analyticsinsight.net/a-run-down-on-deep-learning-trends-driving-ai-development/",
+      "webUrl": "https://www.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online",
+      "originalUrl": "https://www.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 148,
       "tags": null,
       "images": [
         {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/A-Run-down-on-Deep-Learning-Trends-Driving-AI-Development.jpg",
-          "width": 900,
-          "height": 500,
+          "url": "https://i.guim.co.uk/img/media/ef81acebb3a81125fb6fecdba6854aa2471d3975/0_0_2480_1488/master/2480.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b341a135256aaebd72cbd7d0e638659",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T05:30:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online",
+      "publishedDateTime": "2021-07-22T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,9 +49,10 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "Natural Language Processing",
         "AI",
-        "Machine Learning"
+        "Google AI",
+        "AI Ethics"
       ]
     },
     {
@@ -150,7 +160,7 @@
       "originalUrl": "https://www.scmp.com/lifestyle/entertainment/article/3141659/anthony-bourdains-cloned-voice-documentary-raises-questions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {

@@ -57,6 +57,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "The case for fintech in healthcare"
+    excerpt: "Over the past few years, the healthcare sector has undergone a similar technology upgrade. Investments in this sector tend to focus on bill accuracy and patient engagement, leaving the most pressing need untouched."
+    publishedDateTime: 2021-07-22T13:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/finance/the-case-for-fintech-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 41
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/finance/2.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "10 First-Class Fintech Stocks to Watch"
     excerpt: "F intech stocks are housed under a wide umbrella on Wall Street. Some of the old guard focuses on the traditional payments aspect of financial technology. But the industry can also include real estate,"
     publishedDateTime: 2021-07-21T08:13:00Z

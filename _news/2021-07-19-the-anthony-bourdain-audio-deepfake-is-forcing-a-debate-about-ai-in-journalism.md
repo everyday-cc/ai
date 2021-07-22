@@ -63,22 +63,6 @@ related:
         width: 1194
         height: 672
         isCached: true
-  - title: "The Ethics of a Deepfake Anthony Bourdain Voice"
-    excerpt: "The new documentary “Roadrunner” uses A.I.-generated audio without disclosing it to viewers. How should we feel about that?"
-    publishedDateTime: 2021-07-17T21:54:00Z
-    webUrl: "https://www.newyorker.com/culture/annals-of-gastronomy/the-ethics-of-a-deepfake-anthony-bourdain-voice"
-    ampWebUrl: "https://www.newyorker.com/culture/annals-of-gastronomy/the-ethics-of-a-deepfake-anthony-bourdain-voice/amp"
-    cdnAmpWebUrl: "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/culture/annals-of-gastronomy/the-ethics-of-a-deepfake-anthony-bourdain-voice/amp"
-    type: article
-    provider:
-      name: The New Yorker
-      domain: newyorker.com
-    quality: 74
-    images:
-      - url: "https://media.newyorker.com/photos/60f1f5cf4b7e6806bf23a66b/master/pass/Rosner-BourdainDocAI.jpg"
-        width: 2560
-        height: 1759
-        isCached: true
   - title: "The Curious Case Of Anthony Bourdain’s AI Voice"
     excerpt: "Meredith Broussard, author of the book ‘Artificial Unintelligence’, shared a similar view calling disclosure imperative to the use of AI. According to her, ethics is about context. While three lines in a documentary are not that significant ..."
     publishedDateTime: 2021-07-22T07:30:00Z

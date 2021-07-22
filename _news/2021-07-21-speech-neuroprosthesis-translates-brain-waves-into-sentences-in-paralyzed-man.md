@@ -7,7 +7,7 @@ originalUrl: "https://www.genengnews.com/news/speech-neuroprosthesis-translates-
 webUrl: "https://www.genengnews.com/news/speech-neuroprosthesis-translates-brain-waves-into-sentences-in-paralyzed-man/"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 2560
     height: 1709
     isCached: true
-
-related:
-  - title: "Device taps brain waves to help paralyzed man communicate"
-    excerpt: "In a medical first, researchers have harnessed the brain waves of a paralyzed man unable to speak to help him communicate better."
-    publishedDateTime: 2021-07-17T21:08:00Z
-    webUrl: "https://www.newsobserver.com/news/article252790913.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/article252790913.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article252790913.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 39
 
 secured: "9RIA0tJOwEfAkZX7548/rs6U7ybKkCBIyaWWxwKw02J2LYw8EpSQxxQk5QWTGjh6pTEPyDUaXDA6JIPgFX2DsHEsZ9fZTT+mvf4GChKwDa8xTAh27aC55QfTR4+CR35OgTZDqdcfOfKLo4TYh7tlHdN4Z8azSONIUu+WPmnpzV1vqOvLKzp/KUQXDGpm39mztabzPGhk0yAIAZ2qwcJDGONdl2tvwBWovHwQK7IH+35p1DCJCE2fwc1i+05A9IzYNREEgwLxUxrrFD+TxmRUTBoxY+10/OyqIUXoPPsUb3/tjMjJ+Gc4BYJo2m/rBF+RfnN8ZlLZr1a6BLpqjBn+zrzpeZ4O8LRWhuOL/VNcL5Q=;5NVIXNYkEbIylcKkLkbSmA=="
 ---

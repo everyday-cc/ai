@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_226923548/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_226923548/"
 type: article
 quality: 59
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://thetechportal.com/wp-content/uploads/2019/06/64541923_10157511267069171_8703981590209888256_n.jpg"
         width: 800
         height: 400
+        isCached: true
+  - title: "The case for fintech in healthcare"
+    excerpt: "Over the past few years, the healthcare sector has undergone a similar technology upgrade. Investments in this sector tend to focus on bill accuracy and patient engagement, leaving the most pressing need untouched."
+    publishedDateTime: 2021-07-22T13:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/finance/the-case-for-fintech-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 41
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/finance/2.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Meet The Fintech Innovators Using AI To Reimagine The Financial Sector"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."

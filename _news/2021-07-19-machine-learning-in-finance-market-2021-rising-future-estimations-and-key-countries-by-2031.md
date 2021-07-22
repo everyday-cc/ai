@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-fina
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-2021-rising-future-estimations-and-key-countries-by-2031-2021-07-19"
 type: article
 quality: 76
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 13
+  - title: "Global Artificial Intelligence in Energy Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "The Artificial Intelligence in Energy market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic and global ..."
+    publishedDateTime: 2021-07-22T14:18:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4684823-global-artificial-intelligence-in-energy-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "P1kZkNujPGPqzIu8hpWIiFXPKSGqqjM5mxRE/euhksdnpaqVTKxb6VbKybcwJI3kcmyAVpL5U7Rt7AffcoCd7sMUynkNoK/IzijMXv2R/DLTc++X6n1DrHUdlHUjobD6vHzDmLcFvCbDypKaqtWz/AowHN5ddn9BEKa3D5b3leSB+6UWbGHCAXcHmoMRfOwgf+goiVbIbXWX+LeRHYcJyj1BjpAnM8YnYlY7nXxUcWZC7OClJBMK63nmpxcytgh43oKBDcbn/ilEkmN81+WUM7W7G+6lsu21ZYfigxymMqjGl0eWPVRM465hkc65YtdxHNxTkN1pkyEQHWq098blL4IzzFSO71Mnd3y49hB63YU=;7XcB2jfNCEzZQYiHRzjunQ=="
 ---

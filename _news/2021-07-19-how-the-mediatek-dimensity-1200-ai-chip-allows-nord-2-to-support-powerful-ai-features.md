@@ -7,7 +7,7 @@ originalUrl: "https://www.firstpost.com/tech/news-analysis/how-the-mediatek-dime
 webUrl: "https://www.firstpost.com/tech/news-analysis/how-the-mediatek-dimensity-1200-ai-chip-allows-nord-2-to-support-powerful-ai-features-9818491.html"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Vivo releases S10, S10 Pro, powered by Mediatek Dimensity 1100 chip"
-    excerpt: "Chinese smartphone brand Vivo, part of BBK, has released some new smartphones, the vivo S10 and S10 Pro, powered by the MediaTek Dimensity 1100 chipset. The 5G smartphones weigh 173 g and is 7.29 mm wide and sport two front-facing cameras (44MP+8MP ultra-wide) with 4K HDR recording and dual front-flash LEDs for selfies and"
-    publishedDateTime: 2021-07-20T09:28:00Z
-    webUrl: "https://www.telecompaper.com/news/vivo-releases-s10-s10-pro-powered-by-mediatek-dimensity-1100-chip--1390822"
+  - title: "OnePlus Nord 2 5G Featuring Dimensity 1200 AI Chip, 50MP Camera Launched in India"
+    excerpt: "OnePlus has finally launched the much rumoured OnePlus Nord 2 5G in India on Thursday, with the device sporting multiple features that were upgraded in comparison to the original OnePlus Nord. The device was launched alongside the OnePlus Buds Pro,"
+    publishedDateTime: 2021-07-22T14:48:00Z
+    webUrl: "https://telecomtalk.info/oneplus-nord-2-5g-launched-in-india/440159/"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
+      name: Telecom TALK
+      domain: telecomtalk.info
+    quality: 49
+    images:
+      - url: "https://telecomtalk.info/wp-content/uploads/2021/07/oneplus-nord-2-5g-launched-in-india-3.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "OnePlus Nord 2 5G with MediaTek Dimensity 1200-AI Soc, 50MP Triple Rear Camera Launched, Starting at Rs. 27,999"
+    excerpt: "OnePlus has expanded its portfolio of mid-range Nord series and launched today OnePlus Nord 2 5G smartphone. This is the first smartphone to be powered by"
+    publishedDateTime: 2021-07-22T15:26:00Z
+    webUrl: "https://techvorm.com/oneplus-nord-2-5g-with-mediatek-dimensity-1200-ai-soc-50mp-triple-rear-camera-launched-starting-at-rs-27999"
+    type: article
+    provider:
+      name: Whirlpool
+      domain: techvorm.com
     quality: 19
+    images:
+      - url: "https://techvorm.com/wp-content/uploads/2021/07/Image_21__1626967178_62222.jpg"
+        width: 600
+        height: 750
+        isCached: true
 
 secured: "T3RXpcmbbHnucG0ssYozh5HI2LslIjZ2e9Am/VNytYbIc8kaBdBUs44HTfhSS8CluK+NRVWeHzQv4oVnfcR/oeArzzlKB6j2FXfygLidT7bGc+prCQ40aFsduvyt87ls896y+gc9dVs+z1DSJrISfuej7t+JGexWli0riy1JYMDNAR853oX67zo7s9pEPfeEXNgNvxP6XUq8XHme4vp/x1oTZaZE9+ww63HaMzBHYStJKkDUpKKeXwTlQfAxa9i5NAcGtfabVFtL+51lXCNatBv1AlTk4G1fqWyA8gUPljNS9qn47qdpu8SPWW8jVTS12F/2TQAz75XYxQ9a5vOFgg6/K0bKY0x5KpewuDWRO/UVW0JELpO9zMGhOJWWvegkJHvCgtEGcekz6QxGq3UXWBBm6YVgODnR64QqozZznac5awftBqNORsKe+YKjshRi1jm7T07uDg1CFVuxJSKQDqAgaT/fqvwo9aAaHa2F7urqI8Igx8ovV88CkzyA1+PJQcy5uuOgDijUwaTcAyOeKg==;5nCYrcvK/wNRoko168q6VQ=="
 ---

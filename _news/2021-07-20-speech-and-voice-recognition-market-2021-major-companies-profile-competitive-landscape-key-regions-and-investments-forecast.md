@@ -143,6 +143,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Agriculture Market 2021 Top Industry Players, Regional Study, Growth Drivers, Challenges and Opportunities by 2026"
+    excerpt: "MarketsandResearch.biz has added a new research study on Global Artificial Intelligence in Agriculture Market 2021 by Company, Regions, Type and Application, Forecast to 2026 which is a result of an extensive examination of the market patterns."
+    publishedDateTime: 2021-07-22T03:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-agriculture-market-2021-top-industry-players-regional-study-growth-drivers-challenges-and-opportunities-by-2026-2021-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "United States Articulated Robot Market Share, Size, Opportunities, Trends and Forecast 2021-2026"
     excerpt: "According to the latest report by IMARC Group, titled “United States Articulated Robot Market Report, Opportunity and Forecast 2021-2026, t"
     publishedDateTime: 2021-07-20T12:17:00Z

@@ -34,6 +34,20 @@ related:
         width: 800
         height: 718
         isCached: true
+  - title: "Registrations ongoing for virtual forum on industrial machine learning applications"
+    excerpt: "Registration is open through July 29 for the first-ever Machine Learning for Industry Forum (ML4I), a three-day virtual event starting Aug. 10. The forum aims to foster and illustrate the adoption of machine learning methods for practical industrial outcomes,"
+    publishedDateTime: 2021-07-22T15:37:00Z
+    webUrl: "https://www.llnl.gov/news/registrations-ongoing-virtual-forum-industrial-machine-learning-applications"
+    type: article
+    provider:
+      name: VisIt
+      domain: llnl.gov
+    quality: 33
+    images:
+      - url: "https://www.llnl.gov/sites/www/files/styles/scaled_425h/public/2021-07/HPCIC-Event-875x500px.jpg?itok=A4MhDWId"
+        width: 744
+        height: 425
+        isCached: true
 
 secured: "LFyemAJtYrfVAU64OH5LgalRSUj0Z+rKUmrbH741Gcx2Marpy2vz7GorgEtkHHjLOynh9lD9gBIrUUS2L7S9/kBbzwCHbK84APRau3/JvE+vGzNSl2d21yJD8l/I2WvMZTQuhcYsXWN+ns62YeGbq5ZHo7afDtySQBdg2lV0FLpJXEoNe+XApW8PGxcNA+uOt2TDEgUNEoyw/3lXbQYXPTxcl5kbOxBSInkkF4A/dGPdHF4YyahyiDg5rxSs2hCluR9+L5m8oGvDcWG9IBAL1y7/FplnGM9QCl6u2FEHiVWALR9bfrF5v1vgBakWAlB9ItAVRgvgA56WEi9fZYPRB++r3VajFa80UrlN5yuxAhs=;LBBugrnO/1JxYPcw9rtbng=="
 ---

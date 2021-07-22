@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-mill
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     height: 800
     isCached: true
 
-secured: "uJk5HHwuNHxrxsMnMqZYb2LqWmRcHIFNQPss2ZMwvVcgOgnkHJVv9LzjXboEtBPio4y4MHFQGiW1ENUJntDUK8B0ll0T8OkPbI0N55foTzEZXGg531vcHVep4AET7R0JzxKI2k5kAWHBX1RL1/W/JDGBjj3AvQjiyr7+rSkpLetYEZbyNzVAjJUW5rD7PXTjpzZ1jw6zz+lStznJncPj8wkDLR6Oz6IqdTzj4H5gKaPwLDaY8IbExaI1obaDJQdTUt9Iq5UETWJrXYpcADLYwSxhKE39ZJOnA9mwuAF8g/okrVsn3SBS/UWJh6uGgNfduE8JcXikiIJ3Q0r4pfyn2rlPrENLzTWxQeFaaAfXtgE=;SL/XMcQnXygnma6S3i0obQ=="
+related:
+  - title: "Zone7 Secures $8 Million in Series A to Scale AI-Driven Human Performance Offering"
+    excerpt: "Zone7, the AI-driven human performance platform, today announced an $8 million Series A round of funding led by Blumberg Capita l with participation from previous investors Resolute Ventures, UpWest,"
+    publishedDateTime: 2021-07-22T14:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/zone7-secures-8-million-in-series-a-to-scale-ai-driven-human-performance-offering-1030635840"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+
+secured: "dGGyDuq3HYcRPncHdeuky8a1P5SUq6HwDen9ADu4w2f3lbQayB9sMWLwelgPblpOewiNXKDgl5liRamyHVERQyHt8dTqEElkmGsg1uApflFoJrbv51MqM/HmyVU9XOZ2l3t/teQ7i2TWvVshVtv96F09Kpx7vPAllvR/U+Nu15ZuoO6SUL2ufR08mfWHN50T4Y6snJLpMnW2MSm+DcBwbiIQ0qD5KbT4U8vwAGrwhm405XReE+rCMewh51Ik0Bbrrn/kiImXHeEXPcWqWwjbLahwLJTr0xqEKqARKhlaAlQEohI2S8kYX7fW2zeM7lc3Bmrx6ocXVlXOVfaQQNV8snJVlxtN4a6L0nBiwEr72lehSXWuGrtPAT8Ay4JxhUS7rRRKnk2ylO17C24EhtI7uudi/M+PuzjJ/518QwrfhJBQqBUmQ4I9G7gDrLozWHX3nMlM/iiqdV0wtTpfE+XhUwxhgRwOsEf+JDwRcuIECiln9uGmPSBUeA/a8Jtm3FnrqxLpo+f9WWigvRx2PNxusQ==;4/wzWq+CdEGwEgNG6Hke9w=="
 ---
 

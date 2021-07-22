@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Qeexo and STMicroelectronics Speed Development of Next-Gen IoT Applications with Machine-Learning Capable Motion Sensors"
-excerpt: "Our one-click, fully-automated Qeexo AutoML platform allows customers to leverage sensor data to rapidly build machine learning solutions for highly constrained environments with applications in industrial, IoT, wearables, automotive, mobile, and more."
+excerpt: "Our one-click, fully-automated Qeexo AutoML platform allows customers to leverage sensor data to rapidly build machine learning solutions for highly constrained environments with applications in ..."
 publishedDateTime: 2021-07-07T09:00:00Z
 originalUrl: "https://www.marketwatch.com/press-release/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors-2021-07-07"
 webUrl: "https://www.marketwatch.com/press-release/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors-2021-07-07"
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "W4dfzs2JNU3L6Zb0RxG2hX7M/IquY4j4ePQeFRzVyaqTZxc0ONbGU7lcEHOchTCjIzrou3ufTNNhWuyVl7VscoY96CTM/jBvBeeraL14twqu7Cj1a6tyLfR2M8Dj0tB0C4Hg8AuXIzqan1MnGSJfoyV8wLFu8B5Q5b1+HQc4Zfjs/fKcKC5BYoLLKbb4EiboW1V5FwDDisAXJXyrDKa1+31IY1IP6noYv81WGsCOVa9c8pm4YSVfSZlbUh+eqzmlhhW6sqOxNHTNXFhH0vxk5OTs22Pfd9YoksWzA1nXtfG1j6FNtY07SHyimf4wAv4eX2TQ1UK9xU7Y79ziZ06QLwtHL4t2Zc5jCjzdFD74F2w=;eDqLGJzNR9IaDzDgzacJ4Q=="
+secured: "BX0OXACNYD+xexfvpk2XhmQgUnx3Gm450zuSvSDSl3WovSJuMjQuyVdCZj4PACWZClTYcXigRFudO2kscmxbwSratyVzr4u3tevW4JWh4FcDjNdCY6aHvG2qXcgI3LSGOd2akbh8sBq2/AkcUrEEvaCY8H2xTd/XgVXJs708fce/unUdhi/m64GmgNmgcFS0WzN1RqARvoo9mb28payJjGzXWY9MyYjbjKgHGhHirFWCx34zJsQHSiCB+WSmMTG7nWRoeqNtW0sWjNONUsvkXyd3tvMPclbdZVPXfNG1OnFblOynwhEPaUgvWCWZ9cKalG2NT9gxn3785XVfbJ+NLcQ+CcSbMEDBnq5RUNOktg4=;ddvpYlThhXy2nIeijKQaIA=="
 ---
 
