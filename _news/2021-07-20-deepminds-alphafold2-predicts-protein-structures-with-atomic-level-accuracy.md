@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Putting the power of AlphaFold into the world’s hands"
+    excerpt: "In partnership with EMBL-EBI, were incredibly proud to be launching the AlphaFold Protein Structure Database."
+    publishedDateTime: 2021-07-22T00:00:00Z
+    webUrl: "https://deepmind.com/blog/article/putting-the-power-of-alphafold-into-the-worlds-hands"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/xO2hMz9D5OX79cyMiXdL5TwdYgL5xLhLv3NusiL81ioz9hs8xSGSXrtu_-xyFQ8s6GApnGY0KNc7x4YXFXL6pUe6CO_3-b5TXM2QFixhCv5jQjLAcFI3"
+        width: 512
+        height: 288
+        isCached: true
   - title: "Google turns AlphaFold loose on the entire human genome"
     excerpt: "Just one week after Google's DeepMind AI group finally described its biology efforts in detail, the company is releasing a paper that describes how it analyzed nearly every protein encoded in the human genome and predicted its likely three-dimensional structure—a structure that can be critical for understanding disease and designing treatments."
     publishedDateTime: 2021-07-22T15:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online"
 type: article
 quality: 78
-heat: 148
+heat: 168
 published: true
 
 provider:
@@ -48,6 +48,38 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd7ee639-1315-4a0d-beca-bc49f924e65b.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "DeepMind's AI uncovers structure of 98.5 per cent of human proteins"
+    excerpt: "Deepmind's AlphaFold can predict the shapes of nearly all proteins in the human body, paving the way for the development of new drugs, and the company aims to use this AI to publish the structures of"
+    publishedDateTime: 2021-07-22T16:05:00Z
+    webUrl: "https://www.newscientist.com/article/2284733-deepminds-ai-uncovers-structure-of-98-5-per-cent-of-human-proteins/"
+    ampWebUrl: "https://www.newscientist.com/article/2284733-deepminds-ai-uncovers-structure-of-98-5-per-cent-of-human-proteins/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2284733-deepminds-ai-uncovers-structure-of-98-5-per-cent-of-human-proteins/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 74
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/07/22155326/22-july_deepmind-proteome.jpg?width=600"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Google's DeepMind creates ‘transformative’ map of human proteins drawn by AI"
+    excerpt: "Researchers at Google's DeepMind and the European Molecular Biology Laboratory (EMBL) have unveiled the most exhaustive database yet of the proteins that form the building blocks of life, The database of 20,"
+    publishedDateTime: 2021-07-22T16:15:00Z
+    webUrl: "https://www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-ai-399800"
+    ampWebUrl: "https://www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-ai-399800/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-ai-399800/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 71
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/07/22/203409-untitled-design-34.jpg"
+        width: 918
+        height: 506
         isCached: true
   - title: "DeepMind says it will release the structure of every protein known to science"
     excerpt: "The company has already used its protein folding AI, AlphaFold, to generate structures for the human proteome, as well as yeast, fruit flies, mice and more."
@@ -128,6 +160,6 @@ related:
       domain: bio-itworld.com
     quality: 13
 
-secured: "QuQ2WSiw86O4y7rDuIVGXNQo4W9YXOUm2GIAwPc37UaNGkesjgWwO6wp3NwWy5QlC63ZOhpRmWg2ocVVg0gb/669MJAplIkFVBUpIwpT6vd7P0k5u+fOwv1NqRtqFzRG4kjcz+YG9wqybU02DSY4zsk9vnnJ5UaZYmUM6PKOvtBJV/QhOOnhfDruGlFaoisWqMp2+Gh70XIl97XpLrM+7x9MksdTouiWGcF/ngDiD1kOj0vfAimK7vkfnCEp3/3zdkLnWP84ymZcwxShasQoCNA4gDeIJC+bR0sGTZn2abkqoTJ2+CKrbHvtKPelhqLDk2h4eDD+CuzDjzs/+RtewuhZKOPYsczWiZaMjA8tr1U=;gWsTVSFeqW0IIk3bbROuAA=="
+secured: "jg/2HI+mBFk0i43rG422+zsyDRvCWKDn0Zk/FaV6lhpAc1ywHQz7MzK7+BRhSydiICKj0IE8lNWtsiLQS2tFb4Lju90okUWnhn4zwxpaBiltnE258jdV8DYfHjVg3Rf4PJp9pJlHeQ/pJAiStzUj0KnH8ZqvyKxTc3G8B54Z4vccnufeOHr8cgbLZWiZe6CXeZCfwZS+zGvtJCGWkJzk28MNTElHppiku/k1ReXFIVfrCXxS8F+si9iEBB8BacygmImwO2uf/nYYoJlwqcymDoUXaUtXdF5fD5b61FnBTMUVqIuWy+3jtOsiBE6wtf8YistdHO86uzBV7G2rBNxnPkhQpmK2/ymswUtJYs3RPWCb0D+/S9xzEZ/HVqnv9TiyuH+c2t24WvMAjfjkFSer7MjxTy1m164FIs+IQ/m3e+fgGDKei+KfjhU4iCPFLj7ccq09V+mOI9rqpK3Q/7kqDT5Zc+G6scBBfWomqqc39dTvxccT3pj4VnPDcgy0pJRhyqw3fp701b+xRVnOQSjPhg==;RNFO/wKKqdeKKUhkMfwmtw=="
 ---
 

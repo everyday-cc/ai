@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "OnePlus launches Nord 2 5G featuring Dimensity 1200-AI, 65W Warp Charge & more"
+    excerpt: "OnePlus has added hands to the chip production giant MediaTek to produce the MediaTech Dimension 1200 AI, an unique AI processor. Now the Media Tek Dimension 1200 has previously been defined for high-perforation chips, but a connection to the OnePlus ..."
+    publishedDateTime: 2021-07-22T17:52:00Z
+    webUrl: "https://techstory.in/oneplus-nord-2-5g-launched-officially-in-india/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 35
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/07/droid.jpg"
+        width: 988
+        height: 1075
+        isCached: true
   - title: "OnePlus Nord 2 5G with MediaTek Dimensity 1200-AI Soc, 50MP Triple Rear Camera Launched, Starting at Rs. 27,999"
     excerpt: "OnePlus has expanded its portfolio of mid-range Nord series and launched today OnePlus Nord 2 5G smartphone. This is the first smartphone to be powered by"
     publishedDateTime: 2021-07-22T15:26:00Z

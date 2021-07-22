@@ -59,6 +59,38 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "DeepMind's AI uncovers structure of 98.5 per cent of human proteins"
+    excerpt: "Deepmind's AlphaFold can predict the shapes of nearly all proteins in the human body, paving the way for the development of new drugs, and the company aims to use this AI to publish the structures of"
+    publishedDateTime: 2021-07-22T16:05:00Z
+    webUrl: "https://www.newscientist.com/article/2284733-deepminds-ai-uncovers-structure-of-98-5-per-cent-of-human-proteins/"
+    ampWebUrl: "https://www.newscientist.com/article/2284733-deepminds-ai-uncovers-structure-of-98-5-per-cent-of-human-proteins/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2284733-deepminds-ai-uncovers-structure-of-98-5-per-cent-of-human-proteins/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 74
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/07/22155326/22-july_deepmind-proteome.jpg?width=600"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Google's DeepMind creates ‘transformative’ map of human proteins drawn by AI"
+    excerpt: "Researchers at Google's DeepMind and the European Molecular Biology Laboratory (EMBL) have unveiled the most exhaustive database yet of the proteins that form the building blocks of life, The database of 20,"
+    publishedDateTime: 2021-07-22T16:15:00Z
+    webUrl: "https://www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-ai-399800"
+    ampWebUrl: "https://www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-ai-399800/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-ai-399800/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 71
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/07/22/203409-untitled-design-34.jpg"
+        width: 918
+        height: 506
+        isCached: true
   - title: "DeepMind’s AI has finally shown how useful it can be"
     excerpt: "AlphaFold has provided the clearest picture yet of the human proteome. Now DeepMind is making its work available to the world"
     publishedDateTime: 2021-07-22T15:00:00Z
@@ -122,6 +154,6 @@ related:
       domain: bio-itworld.com
     quality: 13
 
-secured: "66KCvVbEWbyu+IpEQ8Zn9zR+xRqsSV03sPz2pD3kYXA7ABAnGnR090SMNWBKO6uRKm0evRakRsek2sIws6qPzxAZTvn/d4OXi+aUkA5ef7XBsnd0KrktUvXe6WRtNqAXH94F6hzEUS0B6r2JN+/krXJfxP6xz4ZOGHMe+tyITJVlPdtcz3+R4zrghX5/Ko3UoPKp1kHJ5VD3FWwH4QA53DU4WwZRpLMCBslnN0sBertPUwgMYajFvD5AGys1s7eXU3TLOMU1B8w1QWWuw0GXJd8XcXSzg+m3IKLvq0erdSOdDVG89k1kbK18uar3XbiL7nT74O9Ddt++GP5JF0Gx2r162MQzlEQ+AUmSfMorXa4=;ReQk9EowkeM4MHxQRGQHPw=="
+secured: "Mlj5dWrCf4GUKk68TmF8lclR/uiLP7/aOg1lxKkCG9Dpdw+cbLSqapf/yeARWBUadXROkGE+uoZ3+CpPhrEopSWivfZo3N+FWl9Yr6XEJ7zT1oel+FMLcd/SzVrXsQrgG4xlZHAgkvkpxV1WGN8U/iifhB68H76T9zyZo+Dn7ZE/lVGP1azd49lxSGgpYR7VyldkZw7bRxyv1Ts9TT5Poc0FmeexRh8R9ayFLpvmJe1CJSQQU19PpX1pSTKRaw5ZG2a+B2Csdja6k6x9pdckssnz/jVnwbHB1CvSXf+0gMhR/CqV2ijyOpp54kPx1WRlRT89jaSd7s7Seu9DU+hDW8YZebTXRh6BcCJmUj1O6/cmlMNacJjnnyNN1ok5Ei2uZKduCEIaKL+ADJwi/6H3ON0j1TVgtJKMoSE83klTokNzK9uIGSzfDIR/gWD6r6Atg/QOGAe3XcOvrD63bO/cd79coL3MR0nQHCve1Sbeta6W7EdCr0qtlqKOYi27aUdRi50Sik6/EnrvdIiEFY2Qdw==;KkbUmCGm3BB+bt2lYw+hvw=="
 ---
 

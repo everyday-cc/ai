@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Concordia professor lands unique co-chair in artificial intelligence and health"
-excerpt: "Simon Bacon and ÉTS prof Éric Granger will study ambivalence as it relates to positive lifestyle changes The next generation of impactful"
-publishedDateTime: 2021-07-22T14:10:00Z
-originalUrl: "https://www.miragenews.com/concordia-professor-lands-unique-co-chair-in-600794/"
-webUrl: "https://www.miragenews.com/concordia-professor-lands-unique-co-chair-in-600794/"
+excerpt: "The next generation of impactful health research at Concordia will soon get a boost thanks to an innovative new research grant from the Fonds de recherche du Québec – Santé (FRQS). According to the FRQS,"
+publishedDateTime: 2021-07-22T16:07:00Z
+originalUrl: "https://www.concordia.ca/news/stories/2021/07/22/concordia-professor-lands-unique-co-chair-in-artificial-intelligence-and-health.html"
+webUrl: "https://www.concordia.ca/news/stories/2021/07/22/concordia-professor-lands-unique-co-chair-in-artificial-intelligence-and-health.html"
 type: article
 quality: 50
 heat: 50
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: Concordia University
+  domain: concordia.ca
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.concordia.ca/content/shared/en/news/stories/2021/07/22/concordia-professor-lands-unique-co-chair-in-artificial-intelligence-and-health.social.png/1626966020478.jpg"
-    width: 1770
-    height: 885
+  - url: "https://www.concordia.ca/news/stories/2021/07/22/concordia-professor-lands-unique-co-chair-in-artificial-intelligence-and-health/_jcr_content/top-image.img.768.medium.jpg/1626966985143.jpg"
+    width: 768
+    height: 512
     isCached: true
 
-secured: "8q2ya4aU+oZtx8jjbRnJ2VQQ/JiZj7CDRGNdQM8TEABohN2fwU4sOh7OXaoehwDGUdc+c1aMmZvuwMI0DFtucPBFs7RoyL/jxTHiIZ9NEN1SjFEikz4fjizT8QxS6LW62D+UJTx+9UzVaxGNyDNwb+yyLzbrV/4513+TgYJviXEPHsqQ4mkuj9z4l6oYtxJ/M3oKSOCunSly8+JTztqhk+CDlPp1/RzXxGouoo0ePyx03clUfWXhFbj0rDNmbtsZPCekSna34Aoz2ZllzWjMhz+/Wf8Wc1qD/ZIQhYjCYTJu3KKEztV1ARKWlmogQzb3URcKyMKBGta9RGDoH2kQJyh9hv6pVWWEDM1OcJwRy4o=;HV7YhXapJxh9ym+T4bCIuA=="
+secured: "Lse/6TG8xnAYOXDaRWAUm9UsR6oaGxF/PrVbgk5Sjg3EjTAME3MA3In2HQ+pr+WkL3HtlNd4kPRYJB2in3X0Exwxzwe5xsqPYciWqCvI4KPg1Pde7g+ISVR8TjaH1F1DfyaJ4uWOuOSyPmJt/qmzwmLJpmMxn0N1jDHkP1700EHQXwNZj/o9ajdpDO3BqsPW6acDBDRgeXnxKb1zYSZ5nZGRTNI7PNow4q4II2OuN1sk4ImEpyIYCu4kD/aGgSToKwRUDQzLYpzsKCo1vi1l6yPKvDrwZbu62iQk5cUJctBVpP9MRRRigSzIGYIaCzbuc2OkYqwCwoCi8MG+F5Fe1TgZ82zBtN+S0+pHvJVkoJk=;gQwAQ5aCdw5ha14diQdyhg=="
 ---
 

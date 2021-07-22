@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Use of AI to copy Anthony Bourdain's voice for documentary sparks criticism"
-    excerpt: "\"I think this is pretty grotesque.\" A New Yorker review of Roadrunner, the new documentary on Anthony Bourdain, is getting extra attention for one anecdote mentioned toward the end. In the article, published Thursday,"
-    publishedDateTime: 2021-07-18T00:13:00Z
-    webUrl: "https://www.cnet.com/news/use-of-ai-to-clone-anthony-bourdains-voice-for-documentary-sparks-criticism/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/use-of-ai-to-clone-anthony-bourdains-voice-for-documentary-sparks-criticism/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/use-of-ai-to-clone-anthony-bourdains-voice-for-documentary-sparks-criticism/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/ygG9OnwVAXclz9rN4SrLRmZZIR4=/2021/07/15/01a10222-21c1-4dc7-9e83-0e2f0947439a/anthony2.jpg"
-        width: 1194
-        height: 672
-        isCached: true
   - title: "The Curious Case Of Anthony Bourdain’s AI Voice"
     excerpt: "Meredith Broussard, author of the book ‘Artificial Unintelligence’, shared a similar view calling disclosure imperative to the use of AI. According to her, ethics is about context. While three lines in a documentary are not that significant ..."
     publishedDateTime: 2021-07-22T07:30:00Z

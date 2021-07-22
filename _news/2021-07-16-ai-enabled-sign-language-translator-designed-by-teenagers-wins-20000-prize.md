@@ -15,6 +15,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "FxG1yaN2tIQD/nKMRzgs4gQoO8aZeMiawNRtRzdA4objbva+TaarQ5dIroY9FIKzML6PA5eMQq8w26RWJ6IedFFAZto/dRRRpIFnogEAiYK/O1I/pjoh8WW0jvgbq4c6xTM3zFt+YEsDHsFLCOlKGyqFwszDBBwFUy87FC+nsH+Xmoc5/kR2pCPJS7Qzq2ph5iueu/+4i+bP6Y5+c9z6K6xJK9IkzBmp6H1N7ArO/niljOjJl5cDkx2ueI8dFJizHMHYX8XopGaQ/h8x49bfGe5dP/eMefcvdTzDN7VXIW1yhBZoaf3ujWhHP44xRvjzqoC4vV471f3BVFgHkotISxVMuVDMIp1zDuk42WxmDN0=;faulKj0+YdJRvkcIMvH88A=="
+images:
+  - url: "https://www.shropshirestar.com/resizer/9Te1NTF34Dkxnxb9vDfuc1Rpx1o=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/4YJSKDSIPNH3LILDOXUWZ7HB5A.jpg"
+    width: 1200
+    height: 900
+    isCached: true
+
+secured: "Orv8tpp0MJ2inaWuWEk+5C4/6u8iVsJwJB3ilJtYkKAo9rdkoXIxZcjhE8C/jgrXlucg6E/3G3ovpPnrmBe1KIYul29Ym+zSapbnbe1QAWkB25j9X3SDWUfdOaP6L9AFJOid5m64g8Q8IFC38+CK25UWTGhZ3cT94WKQFlY5DhHZuQHPEA2rvB3xe8My6wbBcPuYgXhlmNxgtoctI1OHkR/y5hN/er8+9gs3MpCanqqNlDOyWCWbm7VgQ7vv0r9Ic+rwbZjGQDxtiJRmbazef6rU5Vek5f4uw58L69rxRzPXEwaLc4SVmWHbkwCquwL+EavViqI43l7z6aDAW3XLp9SOfvjfWVYW1Xb9TbiwYnQ=;vRhvuEnp7FYVrhrhaS4zsg=="
 ---
 

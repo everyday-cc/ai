@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/entertainment/article/3141659/anthony
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/entertainment/article/3141659/anthony-bourdains-cloned-voice-documentary-raises-questions"
 type: article
 quality: 94
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Use of AI to copy Anthony Bourdain's voice for documentary sparks criticism"
-    excerpt: "\"I think this is pretty grotesque.\" A New Yorker review of Roadrunner, the new documentary on Anthony Bourdain, is getting extra attention for one anecdote mentioned toward the end. In the article, published Thursday,"
-    publishedDateTime: 2021-07-18T00:13:00Z
-    webUrl: "https://www.cnet.com/news/use-of-ai-to-clone-anthony-bourdains-voice-for-documentary-sparks-criticism/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/use-of-ai-to-clone-anthony-bourdains-voice-for-documentary-sparks-criticism/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/use-of-ai-to-clone-anthony-bourdains-voice-for-documentary-sparks-criticism/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/ygG9OnwVAXclz9rN4SrLRmZZIR4=/2021/07/15/01a10222-21c1-4dc7-9e83-0e2f0947439a/anthony2.jpg"
-        width: 1194
-        height: 672
-        isCached: true
   - title: "The Anthony Bourdain audio deepfake is forcing a debate about AI in journalism"
     excerpt: "But no one was laughing when it was revealed that deepfake technology was used to simulate Anthony Bourdain’s voice in the new documentary Roadrunner: A Film About Anthony Bourdain.  In an interview with GQ,"
     publishedDateTime: 2021-07-18T18:48:00Z

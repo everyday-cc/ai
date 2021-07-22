@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/amp/"
 type: article
 quality: 95
-heat: 415
+heat: 405
 published: true
 
 provider:
@@ -326,20 +326,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/07/tesla-enhanced-summon-app-model-3-scaled.jpg"
         width: 2560
         height: 1419
-        isCached: true
-  - title: "Full-Self Driving subscription launched in Tesla cars equipped with hardware 3.0 or above"
-    excerpt: "Tesla Full-Self Driving technology is launched in Tesla cars software with a monthly subscription offer at $99- $199."
-    publishedDateTime: 2021-07-18T01:00:00Z
-    webUrl: "https://techstory.in/full-self-driving-subscription-launched-in-tesla-cars-equipped-with-hardware-3-0/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 45
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/07/tesla-model-3-compact-full-electric-car-interior-with-a-news-photo-1609286548_.jpg"
-        width: 640
-        height: 425
         isCached: true
   - title: "Tesla Launches Full Self-Driving Subscription, Even Though It Is Nowhere Near Achieving Full Autonomy"
     excerpt: "Tesla has launched its monthly subscription service for its Full Self-Driving package, even though it is still a long way away from offering a true Level 5 fully-self driving package to customers. The car manufacturer has previously sold its Full Self-Driving package as a $10,"

@@ -339,20 +339,6 @@ related:
         width: 2560
         height: 1419
         isCached: true
-  - title: "Full-Self Driving subscription launched in Tesla cars equipped with hardware 3.0 or above"
-    excerpt: "Tesla Full-Self Driving technology is launched in Tesla cars software with a monthly subscription offer at $99- $199."
-    publishedDateTime: 2021-07-18T01:00:00Z
-    webUrl: "https://techstory.in/full-self-driving-subscription-launched-in-tesla-cars-equipped-with-hardware-3-0/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 45
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/07/tesla-model-3-compact-full-electric-car-interior-with-a-news-photo-1609286548_.jpg"
-        width: 640
-        height: 425
-        isCached: true
   - title: "Tesla to now offer monthly self-driving subscriptions"
     excerpt: "American electric vehicle and clean energy company Tesla has now started offering a monthly subscription for its Full Self Driving package for USD 199 per month"
     publishedDateTime: 2021-07-18T11:36:00Z

@@ -51,6 +51,38 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "DeepMind's AI uncovers structure of 98.5 per cent of human proteins"
+    excerpt: "Deepmind's AlphaFold can predict the shapes of nearly all proteins in the human body, paving the way for the development of new drugs, and the company aims to use this AI to publish the structures of"
+    publishedDateTime: 2021-07-22T16:05:00Z
+    webUrl: "https://www.newscientist.com/article/2284733-deepminds-ai-uncovers-structure-of-98-5-per-cent-of-human-proteins/"
+    ampWebUrl: "https://www.newscientist.com/article/2284733-deepminds-ai-uncovers-structure-of-98-5-per-cent-of-human-proteins/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2284733-deepminds-ai-uncovers-structure-of-98-5-per-cent-of-human-proteins/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 74
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/07/22155326/22-july_deepmind-proteome.jpg?width=600"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Google's DeepMind creates ‘transformative’ map of human proteins drawn by AI"
+    excerpt: "Researchers at Google's DeepMind and the European Molecular Biology Laboratory (EMBL) have unveiled the most exhaustive database yet of the proteins that form the building blocks of life, The database of 20,"
+    publishedDateTime: 2021-07-22T16:15:00Z
+    webUrl: "https://www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-ai-399800"
+    ampWebUrl: "https://www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-ai-399800/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-ai-399800/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 71
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/07/22/203409-untitled-design-34.jpg"
+        width: 918
+        height: 506
+        isCached: true
   - title: "DeepMind says it will release the structure of every protein known to science"
     excerpt: "The company has already used its protein folding AI, AlphaFold, to generate structures for the human proteome, as well as yeast, fruit flies, mice and more."
     publishedDateTime: 2021-07-22T15:07:00Z

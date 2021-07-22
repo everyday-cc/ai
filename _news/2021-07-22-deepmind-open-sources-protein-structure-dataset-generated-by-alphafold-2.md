@@ -79,6 +79,20 @@ related:
         width: 1024
         height: 617
         isCached: true
+  - title: "Putting the power of AlphaFold into the world’s hands"
+    excerpt: "In partnership with EMBL-EBI, were incredibly proud to be launching the AlphaFold Protein Structure Database."
+    publishedDateTime: 2021-07-22T00:00:00Z
+    webUrl: "https://deepmind.com/blog/article/putting-the-power-of-alphafold-into-the-worlds-hands"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/xO2hMz9D5OX79cyMiXdL5TwdYgL5xLhLv3NusiL81ioz9hs8xSGSXrtu_-xyFQ8s6GApnGY0KNc7x4YXFXL6pUe6CO_3-b5TXM2QFixhCv5jQjLAcFI3"
+        width: 512
+        height: 288
+        isCached: true
   - title: "DeepMind’s AlphaFold2 Predicts Protein Structures with Atomic-Level Accuracy"
     excerpt: "The prediction of protein structures from amino acid sequence information alone, known as the \"protein folding problem,\" has been an important open research question for more than 50 years. In the fall of 2020,"
     publishedDateTime: 2021-07-20T15:08:00Z
@@ -124,6 +138,6 @@ related:
         height: 900
         isCached: true
 
-secured: "MeYSHNO8pzdBIgs0twWQfKC9wxbfciCZtCYB8ybcprUKcWXTBM4nLC9/0cHfPiA7xVNkgRgCNTBIaSCb/gNy2sjGlqc7QQaBL+LgEA1HqIVu2tym1F1pSIUw+FfNCXkxzdKMVmsH5IZl4d/AVomrYNU50xS3piVtLFU214szFAd3TLWFdnp88VeIyT27aEFZYUB5IGmo/c7GN0ilgXR5REAP9QBfeImWMlk86aib616VUbjfjK6BkUOVmoBXlzdTDztPxf9Ob0/vbZtze0z1dbKG8eIWZGFgKo2EdopNiCtiZH6rks06u64eCnTmqj/OPF7HmfQo0kavJvkHrXOZiZwOtRIzsZmoe5c4dIYi8Jg=;QjLsbFfXkVjTXiRmuCeRfA=="
+secured: "9rleiKG0yA1EP1ay7ZZzW1NeF05tHa1aAURvwkJbV2m1gqn3+QG46yIVt7fGk9tktiSiGIcKFvL/cXFzCdrUuQzvcqknHlUo+SiFAkZis8Ha4PJvI6pmZZ6ckZZNmoyCRQKnHbH5wZw8KOIXI2YM7WXaw/U4fhV/O5KSvVITmXkBiq+XrWo8HqZhu2hiUM0n9KZD6CAMNqrFfmXYa/sPib9WNCeTO+kLAZSjAid/5VpmHEWL4M0VbGrUn2NOuulKDv35U3X4gnkOMUYfAMerlaxMe8/Ymv2YKvgtAKMRB00Izeg8hx47CXBZQ8VWValkDHwGAQ6S/7ZYkbtasEnTT8sF0IJBq5Tq5+8bNwRTKu4JHWTH5MNGy7JdaOJ6+jHDftrlbUnVsyzNdxrMfZXNS1IExVdZuMXarFZRgvR2oo6nybU6RniXsaAW4nLcA9rOUt+PSHpopg+TAYdgcJ46Hu9bYWeJP22pvHkIRLvuju45a6D75JpsUYtyGjRGdiAMn21b1DVTBqK5D9+xcx5OsQ==;pPJI9ptDjlgG6+Q2Ib8kmA=="
 ---
 

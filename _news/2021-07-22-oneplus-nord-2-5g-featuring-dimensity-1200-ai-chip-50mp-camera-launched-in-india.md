@@ -39,6 +39,20 @@ related:
         width: 600
         height: 340
         isCached: true
+  - title: "OnePlus launches Nord 2 5G featuring Dimensity 1200-AI, 65W Warp Charge & more"
+    excerpt: "OnePlus has added hands to the chip production giant MediaTek to produce the MediaTech Dimension 1200 AI, an unique AI processor. Now the Media Tek Dimension 1200 has previously been defined for high-perforation chips, but a connection to the OnePlus ..."
+    publishedDateTime: 2021-07-22T17:52:00Z
+    webUrl: "https://techstory.in/oneplus-nord-2-5g-launched-officially-in-india/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 35
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/07/droid.jpg"
+        width: 988
+        height: 1075
+        isCached: true
   - title: "OnePlus Nord 2 5G with MediaTek Dimensity 1200-AI Soc, 50MP Triple Rear Camera Launched, Starting at Rs. 27,999"
     excerpt: "OnePlus has expanded its portfolio of mid-range Nord series and launched today OnePlus Nord 2 5G smartphone. This is the first smartphone to be powered by"
     publishedDateTime: 2021-07-22T15:26:00Z
@@ -54,6 +68,6 @@ related:
         height: 750
         isCached: true
 
-secured: "/lagsrBgWVhhw2f78yRbhaAGqQIzT2pWRIpAi6SZIG+3Bjh3IMhhdwdefIfWbk4onKWoTKHgfrJopnwImDOp6E0J6LOv1N760BwzyIJRiUhwzJRM+lhcA/A8SH1uu9bZQpwai8U+8CpVVbGlxwOsI83PypSbr1R9NUfeoqm54Lu3v6XVgbVmDS2aWRQ2aAoAhzWPCOesMeWJFlGblNgrVkesvqaPRKVzxp13awlMWmtDKCnS+qR6v0mOfIUGijrDKpghqpx12lDnYW8mfDpfqKlmajUTIroyP9QagVq4uPE0deJ8mvSTSCGXzdeyMUbS+4ywaruUHQK3bKIksSdJJ3ap2lUETfgmloTucy11/N0=;WYfSMxonJO0BAJ1VnkSifQ=="
+secured: "6lL6lcZjR9ebVVP2JOm4NgJH6uyZ/TRcLfKZlyia6gQ9ixXBLJwjAzn3kgl1jXiWpSkJ0+SXlAfCT0BsTYtlLjZvY8QZRjPAgGN97PCe5gUK4x6sbnHlFEjo6tK4wDoYnayoayHfcUNKa5vK2nYfadQbOvw2MEvmcN3dWdznUQ0E1A8L0My46VWbyRZ40ZWDadm7kkVT0k/qGRvY9FklpV7bMg3sEKWcadV2iJLz8oFj/7utBGR8M7adhcHEeOIjst7S6ASCC/MLIjDo1pD+O/juSITU7yRXG56fks8ERd5sqQaGLFLYHsFV1vTyowHMYhQMly0N5cwIaYgJEdCLuCBgmtoYCrSA01J5YJ4n2DbaMrn5DuKQRtybtgtKdm9aIhOd9c/XpDcgwLTB+RPYTr8vcp7gdFR5c0DCnKUOWce4/xmIgkypO/1CWyTysIY072mGcA9qkAu7l5cLKZN94OXi8EK113AIkdlw8FTxfsewqEhotkhlJH/v1+oQvrO1PDPxgNm+pno4b0U2Gx/lAQ==;n0UBnCsVC5muhs0h+TvAiA=="
 ---
 

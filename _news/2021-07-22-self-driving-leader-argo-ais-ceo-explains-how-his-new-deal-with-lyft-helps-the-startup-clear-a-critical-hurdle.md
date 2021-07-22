@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-22T15:10:00Z
 originalUrl: "https://www.businessinsider.com/argo-ai-ceo-explains-why-hes-launching-robotaxis-with-lyft-2021-7"
 webUrl: "https://www.businessinsider.com/argo-ai-ceo-explains-why-hes-launching-robotaxis-with-lyft-2021-7"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/60f97ffc0729770012b943b8?width=1200&format=jpeg"
@@ -46,6 +47,6 @@ related:
         height: 500
         isCached: true
 
-secured: "scue8HA7VpoIaKgFlI+rV1/xmECe21Ra+p5XqN2ZZFP3R6Hj6lecPs77Lj4i0oxMFEU1GQx/45zqEs3iwHYE9fcrbmyi+aW34ymUhIHwDtPEoe7QK8/vSktX8y3rrc2u4AhtiYeLcuKmPSx53sTFddd90DdJUSL0M9qBTYljTi/JszMfpKP3SERvYSSpr07/wrNTR5sasdj0372u9QjApHlRdxm2gHL98pubZ1OZf5QNBgZtOE7C873XS3Iaqj8Eia5da0pEV2t94j9OtDrUFxLXIlwfu9BjsLgDC7zjuOj9SsQPOmgkz1xm3VqIEHA5y6CmCaDqdyq0lUBFWwaSH59vdDTXoQ5XvJ+FCBLXC4A=;m6in13RpQLmsj+9ocQraeg=="
+secured: "mVxhbvpyE7InMYV8R2ruIP80gjsVzTwCErYKqJxZmiUQMedUdUELqByXoNn+NKu+x5IqWIldZ38ltLekYBqI+gFOSqdIQaFfCZ+OOhlnVMkrYaAtEN39+zDWuYX6tA6V/I7aMuuNB5+CqF7OHp0Yfoday5vU5ulp2hFQin92/fxBeyLBLiZ0MjlQIvNvqITQBuBwW0o2eg4jm+12qixn3ZTnIg3afNz2Dob4pVz6wOOuWe7yQatuIxVsDlO4FZ3Iib1ySy6WF3RvHZt9K4Cum0OI+2iscZL6j9dg1Wh4qtg7/higkQaCtAf1v2TNiukW2ecUxofl3j11muILGhQorXwl32+JLH+INDZyPHk5c2ptpYeLW0jv2s3zGnlnwlyT7inkbv8j0JP2pRGV9LGJkrurrPxHC0ERykBy9tQhN4Bo3kSjH5ru8jLfpS4AaON+DtmM8p7U2ofYAJ9vBFWm+4WXNFJiMbm/zmpwF0rQ3GYQtlqf2NwgzIg2a6xVc9Iaam7EliiRtvF55mLhLAeYmA==;XMBeHYoV4ofCqeZpJ4iy8A=="
 ---
 

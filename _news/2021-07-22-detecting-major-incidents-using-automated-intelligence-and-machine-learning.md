@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-22T13:54:00Z
 originalUrl: "https://www.bmc.com/blogs/detecting-major-incidents-using-ai-ml/"
 webUrl: "https://www.bmc.com/blogs/detecting-major-incidents-using-ai-ml/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - Natural Language Processing
 
 images:
   - url: "https://s7280.pcdn.co/wp-content/uploads/2021/07/Detecting_and_managing_live_incident_storms_using_AI.jpg.optimal.jpg"

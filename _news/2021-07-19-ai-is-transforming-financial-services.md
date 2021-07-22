@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/blog/ai-is-transforming-financial-serv
 webUrl: "https://ibsintelligence.com/blog/ai-is-transforming-financial-services/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is transforming our world"
-    excerpt: "The impact of Artificial Intelligence continues to be felt across industries. A McKinsey report after analysing some AI use cases stated that ‘the impact of artificial intelligence will most likely be substantial in marketing and sales as well as supply-chain management and manufacturing’."
-    publishedDateTime: 2021-07-17T23:24:00Z
-    webUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/"
-    ampWebUrl: "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2020/05/31173538/Chukwuemeka-Fred-Agbata1.jpg"
-        width: 770
-        height: 420
-        isCached: true
   - title: "How AI and IoT are Transforming Transport Management"
     excerpt: "AI-powered IoT systems provide predictive analytics, playing a crucial role in running businesses more efficiently. Artificial intelligence (AI) and the Internet of Things (IoT) are both cutting-edge technologies that are starting to get traction in the world around us."
     publishedDateTime: 2021-07-20T12:44:00Z
@@ -54,19 +38,33 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Understanding how AI Drives Digital Transformation?"
-    excerpt: "When AI and machine learning become part of a company's strategy, it represents a new digital transformation era. FREMONT, CA: In a dynamic, fast-changing market world, digital transformation is one of the most critical factors of how companies deliver ..."
-    publishedDateTime: 2021-07-20T06:27:00Z
-    webUrl: "https://www.cioapplications.com/news/understanding-how-ai-drives-digital-transformation-nid-8112.html"
+  - title: "Financial Services Turning Towards Adopting Cloud Technology"
+    excerpt: "Previously, financial services and institutions have been at fault for not adapting to cloud technology. But now many of the retail banks are slowly turning towards the cloud for less risk-averse services."
+    publishedDateTime: 2021-07-18T06:30:00Z
+    webUrl: "https://www.analyticsinsight.net/financial-services-turning-towards-adopting-cloud-technology/"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 24
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/gs3kk423.jpg"
-        width: 450
-        height: 308
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Financial-Services-turning-towards-adopting-Cloud-Technology.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Platforms playing catch-up with the rest of financial services"
+    excerpt: "Across pretty much all areas of financial services artificial intelligence (AI) and machine learning are starting to be recognised as integral components of the client engagement toolkit. With one stand-out exception: platforms."
+    publishedDateTime: 2021-07-22T10:28:00Z
+    webUrl: "https://international-adviser.com/platforms-playing-catch-up-with-the-rest-of-financial-services/"
+    type: article
+    provider:
+      name: International Adviser
+      domain: international-adviser.com
+    quality: 24
+    images:
+      - url: "https://international-adviser.com/wp-content/uploads/sites/3/2019/09/technology-robot-innovation-digital-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "7ptDdFIZPTJEYrhFMbYe9FVrDuF3m7ZJx2CqFsw76cxa+NcVbkuwKuIof6Xs88oMrMNAoeDLX+i4OCplr9XOtUCGWaM2pMFEteYIkPDAeRFlwSsD7mjENVDkfJ/ejI55q29kO/6/OVNY7ZFkByXz0E8EXKRo2Ek/CmZTkZu7rIFg2Jklr5FAlpX7ji9F23yWgNXH0SwjnVQOoY5KtKIyQYwAjNzsMH7R4QjEEYvrPICscT0R+0lzaVTBwBBRJluh5t/4lpExA+eY1qS7R8cmlYqfeD8lQAdMbKaF6RpfluS38wxKeMTxAveKk8v84VRRWA6044K3CHqGrXNGdjdxXA2S5K2aKrJAARkJFjbLQLM=;pYHjdvRJ9un7KrnRYyL3BQ=="

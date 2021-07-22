@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/"
 type: article
 quality: 104
-heat: 344
+heat: 354
 published: true
 
 provider:
@@ -314,6 +314,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/press-release-hero-image-1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Argo AI, Ford to launch self-driving vehicles on Lyft network by end of 2021"
+    excerpt: "The initial deployments will start in Miami, followed by Austin, Texas, to lay the groundwork for future scaling."
+    publishedDateTime: 2021-07-22T16:08:00Z
+    webUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/press-release/21231445/lyft-argo-ai-ford-to-launch-selfdriving-vehicles-on-lyft-network-by-end-of-2021"
+    type: article
+    provider:
+      name: Mass Transit
+      domain: masstransitmag.com
+    quality: 36
+    images:
+      - url: "https://img.masstransitmag.com/files/base/cygnus/mass/image/2021/07/16x9/Lyft_Argo_Ford_AV_Escape_Hybrid_01.60f995c317488.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Argo AI, Ford & Lyft partnership provides robotaxi services to Lyft customers"
     excerpt: "Argo AI, Ford, and Lyft form the first large-scale collaboration in the US: self-driving developer, a carmaker, and a ride-hailing company."
