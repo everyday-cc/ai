@@ -20,18 +20,34 @@ topics:
 
 related:
   - title: "Scientists adopt deep learning for multi-object tracking"
-    excerpt: "At the Gwangju Institute of Science and Technology in Korea, a team of researchers led by Professor Moongu Jeon seeks to solve these issues by incorporating deep learning techniques into a multi ..."
-    publishedDateTime: 2021-07-19T14:47:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/gio-sad071921.php"
+    excerpt: "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our daily lives. There are, however, some tasks in this field that are still extremely difficult for computers to perform with acceptable accuracy and speed."
+    publishedDateTime: 2021-07-19T15:16:00Z
+    webUrl: "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.html"
+    ampWebUrl: "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/270897_web.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-adopt-deep.jpg"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Researchers adopt deep learning for multi-object tracking"
+    excerpt: "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our"
+    publishedDateTime: 2021-07-19T13:52:00Z
+    webUrl: "https://www.miragenews.com/researchers-adopt-deep-learning-for-multi-598270/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed+2/05-04-2021-Unsplash-Washington-Protest.jpg/image770x420cropped.jpg"
+        width: 770
+        height: 420
         isCached: true
 
 secured: "9D9BgOQYLp2KVflroHzo6BmZ5xFXHDA/cm861l9CCU75WUUaQrcldJdeZ9o/EVfMpiR1AViz7IZIYlWuwkigpeXJeToFzEx4Bps8PUXsfX+Tn9viBQqEUK7jWuJFId/ERfpGzlsSeKffm6qTd9fZFUS3GsjhISqbf4Ev47+XEoa5zAc2rADlPyfQ9usitfqcHtq0+/xMxFNJu5cTD6DKcSnXXxXv3CFHZJ25YTeoUj5ZPYkT4//0tuRCOLjKxXM3mJ0eS9ktq0biaJfRRLbgNAA37GZBSb9ae66N6ftkRLqTICBLANOFcg4K5vFnurC6A26cqXzomZbv0/53uAgMCa463+g8brBOQeP01PUNYXrQ6G80L1Zm1/TK8ea0+o+QG+OEpotCH487DcAHmvyAkHJd35oyN1E4V2sNYD3nyvMIRjQDqeWHbJECjNvE8qLNH8zDZT/1XM+dHVJRToABjPqkt3gN6bZuKx8oq36hRBepIEBOHnniwJzICtlOev3xPfJadrJqsFrQpfoBvECByA==;aG8KQlejWRKQ+c2dA9LxSg=="

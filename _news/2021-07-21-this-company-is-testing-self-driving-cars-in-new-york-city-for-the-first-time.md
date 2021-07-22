@@ -94,6 +94,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Mobileye’s Self-Driving Vehicle Navigates New York Traffic"
+    excerpt: "In newly released footage, Mobileye's test vehicle makes its way through the busy roads of Manhattan, stopping for pedestrians and cyclists, and navigating construction zones."
+    publishedDateTime: 2021-07-22T08:36:00Z
+    webUrl: "https://nocamels.com/2021/07/mobileye-self-driving-vehicle-navigates-new-york-traffic/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 24
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/07/Mobileye_NYC_2012-1_1.jpg"
+        width: 1279
+        height: 909
+        isCached: true
   - title: "Intel's Autonomous Driving Arm Mobileye is Testing its Self-driving Technology in New York City"
     excerpt: "Intel Corp’s autonomous driving division Mobileye is testing its self-driving technology in New York City, one of the most challenging environments for self-driving vehicles to operate in, the company announced on Monday."
     publishedDateTime: 2021-07-20T23:00:00Z

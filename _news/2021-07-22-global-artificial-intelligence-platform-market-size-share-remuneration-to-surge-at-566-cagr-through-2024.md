@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI-based Surgical Robots Market Size to Register 16% CAGR During 2021-2027"
+    excerpt: "Selbyville, Delaware, Global AI-based Surgical Robots Market size to reach USD 13.2 billion by 2027 and is valued approximately USD 4.7 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 16% over the forecast period 2021-2027."
+    publishedDateTime: 2021-07-22T08:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning market size is projected to reach USD 11910 million by 2026 - Valuates Reports"
     excerpt: "The global Deep Learning market size is projected to reach US 11910 million by 2026 from US 2671 2 million in 2019 at a CAGR of 23 6 during 2021 2026 The deep learning market has been segmented on the"
     publishedDateTime: 2021-07-20T16:40:00Z

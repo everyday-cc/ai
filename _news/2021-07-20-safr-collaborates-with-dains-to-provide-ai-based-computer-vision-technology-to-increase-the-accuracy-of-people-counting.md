@@ -3,8 +3,8 @@ category: news
 title: "SAFR collaborates with Dains to provide AI-based computer vision technology to increase the accuracy of people counting"
 excerpt: "SAFR from RealNetworks, Inc., a pioneer in high accuracy, low bias facial recognition, announces a collaboration with Dains, a Korean company that specialises in unmanned people and asset"
 publishedDateTime: 2021-07-20T10:15:00Z
-originalUrl: "https://www.sourcesecurity.com/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html?ref=nav"
-webUrl: "https://www.sourcesecurity.com/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html?ref=nav"
+originalUrl: "https://www.sourcesecurity.com/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html"
+webUrl: "https://www.sourcesecurity.com/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/safr-collaborates-dains-provide-ai-based-co-1554987129-ga-co-1617794190-ga.1626767203.html"
 type: article
@@ -42,6 +42,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Vo6r9WuPBpyw6MEouPKPezU5rNTRVMNPtxctGLFbarBLsWBPuzsNRLsZSmjirD9A2NlvZW48fiD886fjJ3rbCbTokgv6aUJKgBYqw2e6ODuTOObGy/iPAbj2+ScfblfXRzKwlappHrThAaHlra4HEg0znNoxPxjMUF5x/L3lF4fG6er5FiBUCtonOgIfVxBPvF4RSVwp9CMIo9CY+dzrR/NX3y0qMnnYepP7+xopuRD70YW6QdAD7GZz+3o1CSKtl1ubqq5VcY1zBcBFjLjiP+HcokXsngQGGoPmImrAPmRsQm1vT8AjoQFUniSyfVKhke77bDiF0jiqYGoLESaENkLKu0hBAywNFzCAuVB9tfPCOP7qgC+pMHbx78BbeUURQ0Ba2+su3ehgNOHcayX9sh9s1Wb0hOM+UmkO7u7KP/VwZ04g6UeluwQpKh2aaSzGgCK2Fw6Z8nkKhJ5NpAkjmczClgrCLTcFm5WARTO/S5Dn1E6RaDi8zwx1Jt25T9uj1WzGe7FSHpRaAR4QPzuhMw==;yOgPOxhF0kfFrC9vGLw7wg=="
+secured: "jD+Mg5N7B7jQ5/ORCS+rG9oVJUg1GJpFnSetS/uAsQ0rJ3oGZxHOG5Gl/PW5GPw33+G4O1ylSKWqkcV9UJf2R6NLleYKhAsRjKKjHRt06wdjYyzVn+nDe+htVlm64FlXt7hS5ZsDupws/yGqjDHoHuHwTpqsrImsv4rFerplYSndhXdHVLaou6lH7/A1Ad3s3BUrUsy8/RjjmNAczx2zBxkw90MRdtKZO1mODwYen9xIFD2d5UfSbw993FEs1QeJZC9eEXD3YzPUh2sWMpp8KdoZhNlGpKl8t1JIIvzHSei3I3g1YE4PIlnh95DkpaAWOh+sD6l9IHuEwKKwCQD1NTF+mn9tFDt72MByfibyjAg=;o6LQO6jKRuCbPBdrPmnNPQ=="
 ---
 

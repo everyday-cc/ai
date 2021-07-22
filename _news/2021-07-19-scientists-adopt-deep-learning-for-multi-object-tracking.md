@@ -1,30 +1,46 @@
 ---
 category: news
 title: "Scientists adopt deep learning for multi-object tracking"
-excerpt: "At the Gwangju Institute of Science and Technology in Korea, a team of researchers led by Professor Moongu Jeon seeks to solve these issues by incorporating deep learning techniques into a multi ..."
-publishedDateTime: 2021-07-19T14:47:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-07/gio-sad071921.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-07/gio-sad071921.php"
+excerpt: "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our daily lives. There are, however, some tasks in this field that are still extremely difficult for computers to perform with acceptable accuracy and speed."
+publishedDateTime: 2021-07-19T15:16:00Z
+originalUrl: "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.html"
+webUrl: "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.html"
+ampWebUrl: "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/270897_web.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-adopt-deep.jpg"
     width: 1440
     height: 810
     isCached: true
 
 related:
+  - title: "Researchers adopt deep learning for multi-object tracking"
+    excerpt: "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our"
+    publishedDateTime: 2021-07-19T13:52:00Z
+    webUrl: "https://www.miragenews.com/researchers-adopt-deep-learning-for-multi-598270/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed+2/05-04-2021-Unsplash-Washington-Protest.jpg/image770x420cropped.jpg"
+        width: 770
+        height: 420
+        isCached: true
   - title: "Scientists Adopt Deep Learning for Multi-Object Tracking"
     excerpt: "Researchers at the Gwangju Institute of Science and Technology have adapted deep learning techniques in a multi-object tracking framework, overcoming short-term occlusion and achieving remarkable performance without sacrificing computational speed."
     publishedDateTime: 2021-07-20T15:21:00Z
@@ -35,6 +51,6 @@ related:
       domain: acm.org
     quality: 19
 
-secured: "LpSor7ZijmO+Vgvjl1uzKJhyMRm2C3hd+3OJUGSurq4uVcThgPEKnR6Op02uysFMbLUV8xYnxIw25MoCBJevcCBgnEt4iB9Oc0IC/llhFmVXnoq5Igv2czb1bOl8UMM1l+PAQ87Nu4AIiqHbtO02ivtBUJrmGw/g9iX/fwxPQUzxuKkvFj2m318DRX97b0fz2kyaxkmYNH6CBXolPwtHy0UUYy7GvcVOoaOnqkj/bwub/wifOEFUO8Ew9ELnjQ2LFtjBxjmuXLwBet7yiLhy0OWtHaX0i9Z0W4e9fdZR34o67xbOrHXbP4nBJ208LCYi4MaPTAVqFV7zIJIJw5e00nWnvWt+liKeqMRI3a3TzqQ=;4phwgvyGaBWFPgYymwAFAw=="
+secured: "KDze943JptCKAzfgXNtQ1zRc15laZvwXvbDvljgbh4qpfBmaoKW4gXwzxDczFhHoIh+zMG5rRceDNdnnmvLYoTKtPDv0fyBg9sxa9bOgl5rH6LROYfIzZppeovH+NKI84Dl/4lCI9u3kE2eKwb9UY0nGYUPvvw6P5zzjptqb1FOopZZDE7r9B3AEoRHdoWXe1hXVVayTtGcoOGWzw11HVRjoo8jsTaVf2Ukc+55ah9rN4f20aJKcZXSvKZ0ha6jY+2YNvhBXfBaocnlE3tmFz/qzV3hrWFdwYXdEn3+N528JsZP3nj9hNjChITjSTMc29FhgsbyRup9BPPg6cYe5UPHNQ3gXNhyyzZvlT++NXfk=;bKpRjAGQ8sab4l0UMg7v2A=="
 ---
 

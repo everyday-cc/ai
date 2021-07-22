@@ -52,6 +52,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Platforms playing catch-up with the rest of financial services"
+    excerpt: "Across pretty much all areas of financial services artificial intelligence (AI) and machine learning are starting to be recognised as integral components of the client engagement toolkit. With one stand-out exception: platforms."
+    publishedDateTime: 2021-07-22T10:28:00Z
+    webUrl: "https://international-adviser.com/platforms-playing-catch-up-with-the-rest-of-financial-services/"
+    type: article
+    provider:
+      name: International Adviser
+      domain: international-adviser.com
+    quality: 24
+    images:
+      - url: "https://international-adviser.com/wp-content/uploads/sites/3/2019/09/technology-robot-innovation-digital-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "7ptDdFIZPTJEYrhFMbYe9FVrDuF3m7ZJx2CqFsw76cxa+NcVbkuwKuIof6Xs88oMrMNAoeDLX+i4OCplr9XOtUCGWaM2pMFEteYIkPDAeRFlwSsD7mjENVDkfJ/ejI55q29kO/6/OVNY7ZFkByXz0E8EXKRo2Ek/CmZTkZu7rIFg2Jklr5FAlpX7ji9F23yWgNXH0SwjnVQOoY5KtKIyQYwAjNzsMH7R4QjEEYvrPICscT0R+0lzaVTBwBBRJluh5t/4lpExA+eY1qS7R8cmlYqfeD8lQAdMbKaF6RpfluS38wxKeMTxAveKk8v84VRRWA6044K3CHqGrXNGdjdxXA2S5K2aKrJAARkJFjbLQLM=;pYHjdvRJ9un7KrnRYyL3BQ=="
 ---

@@ -98,7 +98,7 @@ related:
     provider:
       name: AZoOptics
       domain: azooptics.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://d36nqgmw98q4v5.cloudfront.net/images/Article_Images/ImageForArticle_1976_16269415644258204.jpg"
         width: 1000
@@ -164,13 +164,13 @@ related:
         isCached: true
   - title: "Maxim Integrated's Hand-Held Camera Cube Reference Design Enables Artificial Intelligence at the Edge for Vision and Hearing Applications"
     excerpt: "Today Maxim Integrated Products, Inc. (NASDAQ: MXIM) unveiled the MAXREFDES178# camera cube reference design, which demonstrates how Artificial intelligence (AI) applications previously limited to machines with large power and cost budgets can be embedded in space-constrained,"
-    publishedDateTime: 2021-07-20T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-hand-held-camera-cube-reference-design-enables-artificial-intelligence-at-the-edge-for-vision-and-hearing-applications-1030624731"
+    publishedDateTime: 2021-07-20T12:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/20/9412526.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
     images:
       - url: "https://mma.prnewswire.com/media/1577187/Maxim_Integrated_Products_MAXREFDES178.jpg"
         width: 400

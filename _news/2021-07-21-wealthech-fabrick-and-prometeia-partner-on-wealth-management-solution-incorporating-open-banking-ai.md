@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-an
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Minna Technologies joins Visa Fintech Partner Connect to bring subscription management solution to Visa's clients and partners"
+    excerpt: "Minna Technologies, the Swedish tech company on a mission to help retail banks deliver powerful digital experiences within subscription management, today announced that it has joined Visa Fintech Partner Connect - a program designed to help"
+    publishedDateTime: 2021-07-22T11:43:00Z
+    webUrl: "https://www.lelezard.com/en/news-19914899.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 0
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "4Ywyi0JwC69dEkqHPoNrWhIDIYi2vQHDGZVDuZ22jRTVvMbOVuQWy4gTau/84aNVgvJZaowWvgAbHlYMw5AFz1uZ6/U0pISlV021epiHWO+aW45V8QuKUW1upW8yOh+R63lu+FX54PlPL30pdvDQr3fRDTnAs7Z4jTOted/3vRste/PfHdZwF9KFJ7uHT4+f2rnH2QvZO4rj4dFGyqqRzJf8+u4rxPuffZJtpe0NxvJ4n65EsMri+NKIfaU0cabspAUjVmo5nQcbfjoIi4dM0o4HeO+uoK/7slaUlEkEPT7DZBRMLqNLLQTluRLheU7/v1nPspVP1+sJWLmsF2VPCXy1BGtFsBnUqwQdU9RBEFW5Vv0pXIHenNwf6do5ftWtvYZwK/UT2Q01RLm1qDT2TjjT5XSE4d7XQwdkLb51bIEFNPhE06J6t5S4pUxy9IUbadeqeUPUc1L4bpVB6R2fJf5TTJ6wonwWoXHUXmAhhK3UrBblbPbOHE6BqQdcMXUHGXg1D8jqJs4WPGCGKDkuSA==;vfDms88oRa9pcJFAFV5sIQ=="
 ---

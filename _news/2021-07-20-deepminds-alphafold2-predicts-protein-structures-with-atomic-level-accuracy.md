@@ -45,10 +45,10 @@ related:
         isCached: true
   - title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
     excerpt: "DeepMind, the AI unit of Google that invented the chess champ neural network AlphaZero a few years back, shocked the world again in November with a program that had solved a decades-old problem of ..."
-    publishedDateTime: 2021-07-19T18:01:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2026/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2026/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2026/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    publishedDateTime: 2021-07-19T20:50:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
     type: article
     provider:
       name: ZDNet

@@ -88,6 +88,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Mobileye’s Self-Driving Vehicle Navigates New York Traffic"
+    excerpt: "In newly released footage, Mobileye's test vehicle makes its way through the busy roads of Manhattan, stopping for pedestrians and cyclists, and navigating construction zones."
+    publishedDateTime: 2021-07-22T08:36:00Z
+    webUrl: "https://nocamels.com/2021/07/mobileye-self-driving-vehicle-navigates-new-york-traffic/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 24
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/07/Mobileye_NYC_2012-1_1.jpg"
+        width: 1279
+        height: 909
+        isCached: true
   - title: "This company is testing self-driving cars in New York City for the first time"
     excerpt: "Dapena, CNN Business Mobileye, an Israeli self-driving technology company owned by Intel, has become the first company to test fully self-driving cars on New York City’s streets. While a number of companies test cars in California and Arizona,"
     publishedDateTime: 2021-07-20T20:43:00Z

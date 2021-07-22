@@ -75,6 +75,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Minna Technologies joins Visa Fintech Partner Connect to bring subscription management solution to Visa's clients and partners"
+    excerpt: "Minna Technologies, the Swedish tech company on a mission to help retail banks deliver powerful digital experiences within subscription management, today announced that it has joined Visa Fintech Partner Connect - a program designed to help"
+    publishedDateTime: 2021-07-22T11:43:00Z
+    webUrl: "https://www.lelezard.com/en/news-19914899.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 0
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "R+F8/arHOdVTKur8vVwEPlENqZwYmVN4n1vOMRH2ie80M7wbcAvOaSw+NlLAJzLkSClDVpqN4dd5gPrngBLjFtDYd/XMfpULuLfT/+XcpPXuywXDWc+46iUq8dL71cWewhaq39OMp2hapIYFoBNdJCZBTUeeac2lYWEZZh6eb6qV21v94y9qx4Dgufu3Ib366mSWWQ8lGAVls1WScIQIWiUgY2zBfAidUxIEDaI84idY+QfgnMAOyZQwdVtCYzSg54He/WjKTW++BRnrw0O0Ru9qV4UMQH9q8wta4DDii4wIoZ8E8zKdtyct0L3aMb5HKgOAFjYd0CX2IOna7GgCSSPmzC7jhxg/HhKphtpsrQUUi7mrvv6eCtLsVZdE/+rK0Aa6KyVivQzduEM3qJPaZGKBZQ9zKiVfQ+sTW0618U7K4x2ieMdjCJ5eAkkt2U1WewfBoI1vrC4OPY9TPUN7nWeY9FBlIuw9uGcu/R+j1jb3Do/9SI9o5IcgZZfG6ef/EW9JOnpeM+fXb3q4c3mZQA==;jTJ85u1kQhmhHlAE5Xsp0g=="
 ---

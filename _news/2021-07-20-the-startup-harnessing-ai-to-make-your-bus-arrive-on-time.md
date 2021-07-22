@@ -54,6 +54,22 @@ related:
         width: 715
         height: 292
         isCached: true
+  - title: "It’s time to change the debate around AI ethics. Here’s how"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial"
+    publishedDateTime: 2021-07-22T11:00:00Z
+    webUrl: "https://europeansting.com/2021/07/22/its-time-to-change-the-debate-around-ai-ethics-heres-how/"
+    ampWebUrl: "https://europeansting.com/2021/07/22/its-time-to-change-the-debate-around-ai-ethics-heres-how/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/07/22/its-time-to-change-the-debate-around-ai-ethics-heres-how/amp/"
+    type: article
+    provider:
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 74
+    images:
+      - url: "https://europeansting.files.wordpress.com/2021/07/robots_.jpeg"
+        width: 800
+        height: 1000
+        isCached: true
   - title: "Eight approaches to processing natural-language-enabled AI"
     excerpt: "Conversational AI goes far beyond chatbots. AI systems that process natural language engage in humanlike dialog, understand context, and offer intelligent responses in milliseconds. Put simply, natural language processing is a computer program that understands human language the way it is spoken."
     publishedDateTime: 2021-07-22T07:58:00Z

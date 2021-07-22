@@ -8,7 +8,7 @@ webUrl: "https://www.azooptics.com/Article.aspx?ArticleID=1976"
 ampWebUrl: "https://www.azooptics.com/amp/article.aspx?ArticleID=1976"
 cdnAmpWebUrl: "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/article.aspx?ArticleID=1976"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d36nqgmw98q4v5.cloudfront.net/images/Article_Images/ImageForArticle_1976_16269415644258204.jpg"
@@ -165,19 +166,19 @@ related:
         isCached: true
   - title: "Maxim Integrated's Hand-Held Camera Cube Reference Design Enables Artificial Intelligence at the Edge for Vision and Hearing Applications"
     excerpt: "Today Maxim Integrated Products, Inc. (NASDAQ: MXIM) unveiled the MAXREFDES178# camera cube reference design, which demonstrates how Artificial intelligence (AI) applications previously limited to machines with large power and cost budgets can be embedded in space-constrained,"
-    publishedDateTime: 2021-07-20T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-hand-held-camera-cube-reference-design-enables-artificial-intelligence-at-the-edge-for-vision-and-hearing-applications-1030624731"
+    publishedDateTime: 2021-07-20T12:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/20/9412526.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
     images:
       - url: "https://mma.prnewswire.com/media/1577187/Maxim_Integrated_Products_MAXREFDES178.jpg"
         width: 400
         height: 225
         isCached: true
 
-secured: "WzEAlNK4YYmnKePCH5HVhzt3PIS/QoMke+Rr0QA4Clu8ntk7o8ZDp6RayXXGBoh47i4Ir44eUvoyDaf7EL3SKn/JlW7yjSxutA4MkunG0r7K8GpgwXfWs0XostLnk98AP42kOmeMedNluFcR6Jj6+vclsVdn5svfrHD16QXEY2YlLT1rBDdK5q3IlPWzKr2FVEb//iHPrm8Gvpc4R27uOwwjuupFemLrc4CY/ZFzDEI4KNSpxMTz+YGU9Gh/tVKbUfLv7OUGkxbrVK5QBpE7AJyX0vQdKCAua58z3rtw5giMTU7dfTk/XGPUzEpbkdRxETViuPNScrWByVETWm6pqG0YhR3wMol9OGs3lsiFyjE=;tiUMRglxwLWloflyOeQqNg=="
+secured: "9DkOFIlCCE/bJOOhaqV5+TRNPI4lirCPk8cUY4m88G576okuicKJiZpY5zfbvevfANZ0UAJqygLrPhkEIan1p16or3HjM7TpTBPwDIj5ReDwnHEPFRJGIcsVWw7ic00Ksa8J4UVqNw02JyeKjrwfhbkjGPH+eRNGIO/hdBUp+RnxYffRxJjVC3vktgyTy1EAeDs33IWToR9qaPbeQ/st/CSa/3wsQtu3/2yUnm6tZnxYEmPtsUHApRTBLFgliPUjN92mizsdc5wax90zB5C0bAUijPFjsyAeWrYLx9wnu9CRys+pmR+vHzM+rv2hGn23pw2ZN/5OIBoDGm3qI+n9BevYAIWws2H/4i1+6fXHw+0PgLPMho8woLlBB7jaHc0rdx0CKnWrH++S8fg9RXYYA+A35IOJ804BbnGS5i5wBYabV51rXCld3y3zAhB/NErBsTb0RJpRoCJ8A+x7RYkB3UpUWdOUSwwczcZWYCH/GHqz+gqRce/KsbW4kBZDkL6l7rVu6vLbdTL5QJ57+3Ak8w==;QWw3My6bbVCYAS+sSu4JPA=="
 ---
 

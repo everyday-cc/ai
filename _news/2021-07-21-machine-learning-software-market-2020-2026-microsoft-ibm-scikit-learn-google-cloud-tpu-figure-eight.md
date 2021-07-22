@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "People suck, so a robot with Microsoft AI has to pick up cigarette butts"
+    excerpt: "A robot that utilizes Microsoft AI is being used to clean up beaches. It uses machine learning to identify cigarette butts in the sand and then picks up the waste."
+    publishedDateTime: 2021-07-22T11:14:00Z
+    webUrl: "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts"
+    ampWebUrl: "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 90
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/07/cigarette-robot-project-bb-4-3_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Microsoft acquires CloudKnox Security to enhance unified privileged access management"
     excerpt: "Following the purchase of RiskIQ and ReFirm Labs, Microsoft has now acquired CloudKnox Security to offer unified privileged access and entitlement management in multi-cloud and hybrid environments."
     publishedDateTime: 2021-07-22T01:38:00Z
