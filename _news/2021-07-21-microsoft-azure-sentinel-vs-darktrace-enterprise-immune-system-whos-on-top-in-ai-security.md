@@ -7,7 +7,7 @@ originalUrl: "https://www.computing.co.uk/analysis/4034785/microsoft-vs-darktrac
 webUrl: "https://www.computing.co.uk/analysis/4034785/microsoft-vs-darktrace-ai-security"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
+  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
+    excerpt: "Combining these partners' technologies enables a highly scalable and easy to manage building safety and security management system. The system can detect special events such as off-hour intrusion, tailgating at the entrance,"
+    publishedDateTime: 2021-07-22T18:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/22/9415457.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 46
 
 secured: "soV/hKxsRLTMnjpofJzzazcE9XH3zBdWY/LhfMUAHvseHa1lADOu78qy1L2CECWacywN7J2ei6AePFKjgSFbqCyTWlgTxIcl3OlXrB8URIQyIwEXbMWB8k8WUTHwEm1RZB6b5nokJszbjEekWa6cO5QjffYxPcez3jTkP3obmW7QEafoUSCy9306xGzlcpq+LrGSrJqjSjD4TCHhrZdtsGK95u+Ljc4XmiA7o/MbyACPq8QPs+CbUIrAem8RGHyyBvzp+fGrNb7caFbYa1v2DOolafALJoCwcOIBUwT2A4GuBJOdxAng+us8M+tWifOmKXM7JAwBOp+GFag1w2JrWByvQ8QDZUjbebP9PeeaxtV8/xJTAdeAyHW60HRIEN9CN/NEo+TGT9Mj5ly9bk54dsyUXag7TSsvBOPQQXLdvm696vpAYveWtaazj61fiW95wKAk5+fiyTvVxlQv/baPycUOkIQSNz9jvYK0awP9Z7hVcgOTzYfeOFkXXwJcQTVvRljWiktFlTsSi6cLXhPR9A==;Km1/et/vJUri06mY6XhqfQ=="
 ---

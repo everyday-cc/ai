@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/amp/"
 type: article
 quality: 95
-heat: 405
+heat: 415
 published: true
 
 provider:
@@ -412,6 +412,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/05/07/21254625/3/rawImage.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Tesla Offers ‘Full Self-Driving’ Feature as a Monthly Subscription"
+    excerpt: "Consumer Reports takes a look at Tesla offering the ‘Full Self-Driving’ feature as a monthly subscription. CR recommends the subscription at $199 a month over buying it for $10,000."
+    publishedDateTime: 2021-07-22T13:17:00Z
+    webUrl: "https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-feature-monthly-subscription-a7568042991/"
+    type: article
+    provider:
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 39
+    images:
+      - url: "https://article.images.consumerreports.org/image/upload/v1626710364/prod/content/dam/CRO-Images-2021/Cars/07July/CR-Cars-InlineHero-Tesla-Model-3-gray-driving-7-21"
+        width: 1199
+        height: 674
         isCached: true
   - title: "Tesla’s Full Self-Driving Costs as Much Per Month as Leasing an Entire Car"
     excerpt: "Now, Tesla is offering the same package for a cool $199 per month as well, Reuters reports — or $99 for Tesla owners who already bought into the now-discontinued Enhanced Autopilot package. That’s a substantial amount of money — about as much as you’d pay on a used car lease,"

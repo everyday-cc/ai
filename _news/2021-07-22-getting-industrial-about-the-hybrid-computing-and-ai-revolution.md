@@ -177,6 +177,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Artificial Intelligence – Not a Buzzword anymore. It’s Evolving and Growing Fast."
+    excerpt: "Artificial Intelligence has been the talk of the decade and each year, there’s been a growth in its adoption, evolution, and capabilities to resolve business problems of cost, profitability and sustainability."
+    publishedDateTime: 2021-07-22T18:54:00Z
+    webUrl: "https://www.wipro.com/business-process/artificial-intelligence-not-a-buzzword-anymore-its-evolving-and-growing-fast/"
+    type: article
+    provider:
+      name: Wipro
+      domain: wipro.com
+    quality: 34
+    images:
+      - url: "https://www.wipro.com/content/dam/nexus/en/service-lines/business-process/latest-thinking/og-artificial-intelligence-not-a-buzzword-anymore-its-evolving-and-growing-fast-i-1201645264-502x263.jpg"
+        width: 502
+        height: 263
+        isCached: true
   - title: "Worldwide 5G Business Services Industry to 2026 - Machine Learning and Cognitive Computing Will Be Leading AI Tools Supporting 5G"
     excerpt: "The \"5G Business Services Market by Enterprise, Industrial, and Government Segment Applications, Services, and Solutions 2021 - 2026\""
     publishedDateTime: 2021-07-22T13:30:00Z

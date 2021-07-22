@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/thre
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "Prepare for AI that learns to code your enterprise applications"
+    excerpt: "Today, about 70% of the work is all about the development of glue code and wiring things together. From the UI front end to the back end of apps, as well as in the integration layer, there are lots of repetitive tasks,"
+    publishedDateTime: 2021-07-22T11:58:00Z
+    webUrl: "https://www.zdnet.com/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "How Artificial Intelligence Can Create Real Value for your Business"
     excerpt: "Because of the versatility of A.I. applications and how quickly they are becoming applicable in everyday life without us even realizing it, the business disruption that comes with them is speeding up as well."
     publishedDateTime: 2021-07-18T17:00:00Z

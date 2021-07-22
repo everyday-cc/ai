@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Baidu Shares Are a Bargain Now, But Not for Long"
-excerpt: "They even have their hand in self-driving technologies ... be light at the end of the tunnel because of technical reasons. Baidu is falling into a potential support zone dating back to 2011."
-publishedDateTime: 2021-07-13T17:02:00Z
-originalUrl: "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/"
-webUrl: "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/"
-ampWebUrl: "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/amp/"
+excerpt: "Baidu (NASDAQ:BIDU) stock has it even worse ... They even have their hand in self-driving technologies. Clearly the company is firing on all cylinders. In contrast, there is no acknowledgement ..."
+publishedDateTime: 2021-07-13T17:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/bidu-stock-baidu-is-a-bargain-now-but-not-for-long-1030602907"
+webUrl: "https://markets.businessinsider.com/news/stocks/bidu-stock-baidu-is-a-bargain-now-but-not-for-long-1030602907"
 type: article
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg"
-    width: 1600
-    height: 900
+  - url: "https://investorplace.com/wp-content/uploads/2021/07/bidu2.png"
+    width: 1940
+    height: 891
     isCached: true
 
-secured: "AX1C1HdU/gsdypCS7jNVXmkAeDV4GxIxgP/eJe8Bfo7qSe8ijpmXIXWuVHMvmIepVF466VAqwtMhjUrMWf70o/C4QNeoamebqtYy9Nmhnc0dq98NcMT+9wcU8L95wfHlZWJRf7xVs+eFFRJEOLoWIEcUfOIHe/S+R+OV17DyjMO2iID6BFEw5o7WYIyNnwqzFGuFqOAVBdFJfsqbUGtsBYHF+pPz635TsLemPoXd+eAwsg4/kz4a0oB/Hzq+56cDNLeA9+coszl0pKbsn80tS4O7i9zl5CPAt1HHLm3AWhb/iXvbo1DCKD8BFZlwL7baAL5iUiLr7k8zrV6T/gTNuTHOZbuMllfqxjJ4TQviiFU=;9r1rcZ4AX8kKvrV6Hs4r5Q=="
+secured: "qhysCWaruNBwqEzHDGC99EIUxJ5ZL9C7EcepPxZ+lU/RW1nr8CX1N6zSMr5wx0aBnb5mKZe8eTzTZVY3+56g1mFkxUO/LZJ/UdIB+qxIG5PPq50YM9oj3hWK7PxG7DV6FNXDNFkMMBeWwyddp7+fFdHP4i+KAEc2R8UWzoYLbmQwGjwvjbstITYw/CH7UE95sm+L0+liPzeHVWIgvEso9xdstXiox05fBivTXY/C8GS10ub9icxHxvXvv5vQ1uB7HnBMa7x6RCr0V9vN9vtrDziVgnuXiAs6yZFYVqrQCGGCrlaUYNHVYxiSfxLkRSOgC0Yh6lvEadY13eENuvRx5lmw9i+T3e/4njjx4t1UqJE=;dPJZjatpGZpeBs3hFz+swQ=="
 ---
 

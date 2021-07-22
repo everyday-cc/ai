@@ -81,6 +81,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Real-time Interpretation: The next frontier in radiology AI"
+    excerpt: "To date, AI has demonstrated value in its ability to handle asynchronous tasks such as image triage and detection. What's even more interesting is the potential to enhance real-time image interpretation by giving the computer context that lets it work with radiologists instead of trying to replace them."
+    publishedDateTime: 2021-07-22T18:35:00Z
+    webUrl: "https://medcitynews.com/2021/07/real-time-interpretation-the-next-frontier-in-radiology-ai/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2019/09/GettyImages-1132912601.jpg"
+        width: 790
+        height: 442
+        isCached: true
   - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore, Teams Up with Business China and ITE to Nurture Local AI Talents"
     excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
     publishedDateTime: 2021-07-19T12:27:00Z

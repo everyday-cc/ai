@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21"
 type: article
 quality: 82
-heat: 192
+heat: 182
 published: true
 
 provider:
@@ -158,15 +158,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
-  - title: "Self-driving Car Technology Market Present Scenario and Growth Prospects 2021-2026"
-    excerpt: "The Global Self-driving Car Technology market exhibits comprehensive information that is a valuable source of insightful data for business strategists during the decade 2015-2026. On the basis of historical data,"
-    publishedDateTime: 2021-07-18T02:42:00Z
-    webUrl: "https://manometcurrent.com/self-driving-car-technology-market-present-scenario-and-growth-prospects-2021-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
 
 secured: "dEUhAm24p8OGXtKUowrXAMBYrd2y7DQSOwDoZ2lya42EjfxkM5lmda2o0trqpWTTM6e3fMShc6l+M43Vwt4Aj+53Abb9x+kHd0xzJTESsLqBcnYgDNqW4rsz72oLLGwckJKCs7XeUyGPNpRgxdwZuGcTJBsNSe58pX4KjvA9t+9DvVXg1uz+Z3ZVHsLb6V4usvEnQE+5bJE3YkWFGJINYcJxuU0yviMHYUyUVf4S7jb7LJdOaHUAuV8sM7vZd5i86XiICAe/3MRc8yVtcs4tpRvQ9Fxi4gnFO/AIoxx655nKEoy89hLayTNFj+Rw1ZGEog3V9AKZBEy/DW38dMaDPUmcvbUfZP12p2pKGgNt/R8=;JZGq/jlwk+1L3rHZBabt+A=="
 ---

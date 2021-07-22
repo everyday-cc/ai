@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Prepare for AI that learns to code your enterprise applications"
+    excerpt: "Today, about 70% of the work is all about the development of glue code and wiring things together. From the UI front end to the back end of apps, as well as in the integration layer, there are lots of repetitive tasks,"
+    publishedDateTime: 2021-07-22T11:58:00Z
+    webUrl: "https://www.zdnet.com/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
 
 secured: "dQ10lzfZ7zOpvKSgCOd1AjzCrevKZOPdMOpRo2hKfnYxjL/e36QFj2nJmrx1cth2trAwmbM3/KzTIgCMrEYSio1xEfAuYEjT0H/hrYRqpW5c8CJy4xluQGSSnma+V+Y2ycY2SsRoO5zo4ZGqTKmvwFEVHiuP4yd63wbUxzVNKcJ+X6Mx0fM3A0JDdptQCW+ErksQRZ16MBCVWD0P9eHZmOzl1xWoxA+DuWdgtNDYwLibj4xtH9rGHaXuwCAUyoFYWPawvrpJ/8oCDDaDYVLv0ePLtnp1a5QghhvA8Ye7NK/Yq4XvTbBXx78Ce8P9LICZzTyfAS+gl7qwLfzmifcW69Du7q+2uX4ElddXWnDtsKiUBdnbwRnSC6FW5pRPQ9SFteR/d7NVJRxF+sWWqXaWuch9xU6s6C87j1HenKs5WSxdXf389KkV9VV+/kwov4qpZopPehgGi0B1zRiJzO3hUUNvjyo6JB5+9GPQEYKwQPYjqgsJHy+GimIng9ZctgtY91XrRBB62MMjPHoEB8bARQ==;7geWuur+Q0NUK+HfobC6Sw=="
 ---

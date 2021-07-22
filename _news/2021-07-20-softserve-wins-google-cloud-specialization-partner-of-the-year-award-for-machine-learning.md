@@ -1,24 +1,24 @@
 ---
 category: news
 title: "SoftServe Wins Google Cloud Specialization Partner of the Year Award for Machine Learning"
-excerpt: "SoftServe, a leading digital authority and consulting company and Google Cloud Premier Partner has won the 2020 Google Cloud Global Specialization Partner of the Year – Machine Learning award. “It’s an honor to receive this award from Google Cloud recognizing our machine learning innovation and experience helping businesses to understand and fully leverage the benefits of Google Cloud,"
+excerpt: "SoftServe, a leading digital authority and consulting company and Google Cloud Premier Partner has won the 2020 Google Cloud Global Specialization Partner of the Year – Machine Learning award. This press release features multimedia."
 publishedDateTime: 2021-07-20T16:05:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210720005035/en/SoftServe-Wins-Google-Cloud-Specialization-Partner-of-the-Year-Award-for-Machine-Learning"
-webUrl: "https://www.businesswire.com/news/home/20210720005035/en/SoftServe-Wins-Google-Cloud-Specialization-Partner-of-the-Year-Award-for-Machine-Learning"
+originalUrl: "https://www.financialbuzz.com/softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning/"
+webUrl: "https://www.financialbuzz.com/softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning/"
 type: article
 quality: 12
 heat: 12
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "lH8fzzVrrWQMldQS4OiznYqAJr9nJdajQCgfFp3spg68gzlHIgn3cBmohKfKkMe67b97evM1J193UxcBZvp4NsGbb0qXMjHEZntQge3E4YjqpDeJ6DvWvKak4DYoZ2hTJkVoY9ySEBO0mVlJYrsJVBvtI9xcgt6fYqAhc70BjpeBiEhd7O/4CNEE0kgB5mWttfOWqVDvAn5uLQCnYHPfPuhrX89IFFt3pGEtMCaWS8jAQ+tImkqsZr8YUlHXjM9W2+kt/pkPGVOTP9dnVtHef44t8qmGi55OBMbfS8hqKJRumPRACzZX4CQVXms3OVJr8F6fgEcILYaGfIlR97IJ4m1710+51UR6eJIA9qYeg13xVx6H7khQPKPUOU4MdMmlMz/2TYhJEAp0XnaJamHTBeJ9lqyLsavP351BQU1Zw3P6cZLPHoyz6Cj5fm7A5MiIh7XPmM6kM0To4MMVCC/Il/Rp9DUUkM4QihO7vxm93/cUYTVvA1grVHIxazFYR2QL/xXlmRHtU0q2OA82umRP7g==;/SJw+G4H7U+2Prgekz8WCA=="
+secured: "ceXbvebF+gEx3OMJMJt+qwZNnTJd4i+hRHdP1CjC7y6ogGSXF7BdgUlnfjbDSim1IHtJa66FYB3RsvdxpdlBCyJYZABHIjJgJ4gnqWk8p2Exv29ZEX7myFN5c0PFyWa5bwqVb6eQZGVmx90LXMgwkJhaBoqxcJp/WdETJtgkRLstPkK8doqO25iw5wS4yCEuKckZmclM+n1okL4di3YId0siWY6g4jTAENT+iQnHOus76a7EOrTWkRwN1ha+ar6Nt0+6ICMnTxEoMry5POYjmZBfnSdC/+fZ5ytMaY+DkSt4OSStx9H8DYh1n/ead81EjGpWUB7kKHoDD6rrPJBMe0Feiyv1pWGhtWYyZ+Laq8fuXUmeNB9m7uIyUcggR3hgFWvd0CuuQtQ2rhejGsxmByAN8huvxodB4ySN1q4dhvipJ76Tg3cObr4foqaTdGnLwXXOGj6k4WcdaBJosOqnE3yeV2G+Sr28mDUyAlf6PRsY9iB0ODZeIvYjqojhh4mNpBUojI/OzvTdyDMxCXNijQ==;q1WgXh0pSaJycxrcGPwPCQ=="
 ---
 

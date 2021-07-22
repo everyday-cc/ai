@@ -34,6 +34,15 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
+    excerpt: "Combining these partners' technologies enables a highly scalable and easy to manage building safety and security management system. The system can detect special events such as off-hour intrusion, tailgating at the entrance,"
+    publishedDateTime: 2021-07-22T18:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/22/9415457.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 46
 
 secured: "+9cSwctEZGilNx3mRlCN81Qi3a19lcRBUmLNKzNaA30qCfNYtKFGUVTqzMSuiIEGtXqBy/mRiK2zj/UNnSca3c8u9YA2whJwXb1qPsWDJlZVke8/jAVqtncUW4akgyYNkWdFh2BnUk7XiEqwgxPW8AYFS+fy0nTBeYX1P+orp2zDrgRb8EdJglo+JzJCa4H4TYutDuW3w4rEAAEhv+NJFa1z0ulRXb2V8/d7ng/99Vzy/jbhHI8Oa3WVbt9JWoB8WbiXEJzLZVXvJhnMxvTb23M3gM+3KT5d+PXnZu904nK03nAjIIeDYQk9UiNPlhWZnTHHYmAVcgys4mLZ/pstmWam2/DCszbi8JYKOCNodM0=;762bUL1AEBYV2vk4Zfkouw=="
 ---

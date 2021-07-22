@@ -414,6 +414,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Tesla Offers ‘Full Self-Driving’ Feature as a Monthly Subscription"
+    excerpt: "Consumer Reports takes a look at Tesla offering the ‘Full Self-Driving’ feature as a monthly subscription. CR recommends the subscription at $199 a month over buying it for $10,000."
+    publishedDateTime: 2021-07-22T13:17:00Z
+    webUrl: "https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-feature-monthly-subscription-a7568042991/"
+    type: article
+    provider:
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 39
+    images:
+      - url: "https://article.images.consumerreports.org/image/upload/v1626710364/prod/content/dam/CRO-Images-2021/Cars/07July/CR-Cars-InlineHero-Tesla-Model-3-gray-driving-7-21"
+        width: 1199
+        height: 674
+        isCached: true
   - title: "Tesla’s Full Self-Driving Costs as Much Per Month as Leasing an Entire Car"
     excerpt: "Now, Tesla is offering the same package for a cool $199 per month as well, Reuters reports — or $99 for Tesla owners who already bought into the now-discontinued Enhanced Autopilot package. That’s a substantial amount of money — about as much as you’d pay on a used car lease,"
     publishedDateTime: 2021-07-19T20:05:00Z

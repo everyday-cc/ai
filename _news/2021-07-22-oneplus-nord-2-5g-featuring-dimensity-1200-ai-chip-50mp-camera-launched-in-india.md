@@ -7,7 +7,7 @@ originalUrl: "https://telecomtalk.info/oneplus-nord-2-5g-launched-in-india/44015
 webUrl: "https://telecomtalk.info/oneplus-nord-2-5g-launched-in-india/440159/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "OnePlus Nord 2 unveiled with Dimensity 1200 AI, 50MP camera and more"
+    excerpt: "OnePlus has announced the OnePlus Nord 2 with Dimensity 1200 AI SoC, 50MP camera with OIS, and 65W fast-charging."
+    publishedDateTime: 2021-07-22T18:52:00Z
+    webUrl: "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/"
+    ampWebUrl: "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/07/OnePlus-NOrd2-2-1-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "How the MediaTek Dimensity 1200-AI Chip Allows Nord 2 to support powerful AI features"
     excerpt: "With the technical stuff out of the way, let’s move on to something more fun. OnePlus has announced a ‘Fast & Smooth AR challenge’ that runs from 12-30 July. It’s a simple, fun AR gaming experience that anyone can check out with just a smartphone and internet connectivity."
     publishedDateTime: 2021-07-19T12:41:00Z
