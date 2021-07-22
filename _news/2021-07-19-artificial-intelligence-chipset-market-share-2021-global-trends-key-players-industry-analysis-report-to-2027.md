@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Finance Market 2021 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2026"
+    excerpt: "The multipurpose new research study on the Global Artificial Intelligence in Finance Market 2021 by Company, Regions, Type and Application, Forecast to 2026 aims to promise a unique approach to industry assessment of the market covering the most important factors driving industry growth."
+    publishedDateTime: 2021-07-22T02:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-finance-market-2021-size-share-analysis-demand-growth-driver-and-industry-segments-by-2026-2021-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Face Recognition Terminal Market Growth 2021-2026"
     excerpt: "Pages Report] Check for Discount on Global Face Recognition Terminal Market Growth 2021-2026 report by LP Information INC. According to this latest study, the 2021 growth of"
     publishedDateTime: 2021-07-19T12:36:00Z
@@ -43,6 +57,15 @@ related:
     provider:
       name: ReportsnReports
       domain: reportsnreports.com
+    quality: 19
+  - title: "Global Edge AI Chips Market Demand, Revenue Forecast and Interesting Opportunities from 2021 to 2026"
+    excerpt: "Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 research report is the new statistical data source added by MarketsandResearch.biz that uses several approaches for analyzing the data of the target market such as primary and secondary research methodologies."
+    publishedDateTime: 2021-07-22T09:31:00Z
+    webUrl: "https://ipsnews.net/business/2021/07/22/global-edge-ai-chips-market-demand-revenue-forecast-and-interesting-opportunities-from-2021-to-2026/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
     quality: 19
   - title: "Artificial intelligence in accounting Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Artificial intelligence in accounting market is expected to grow at a significant CAGR in the period from 2021 to 2027 The rising requirement to automate accounting operations and enable data based advising and decision making are driving the AI"
@@ -63,7 +86,7 @@ related:
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 0
+    quality: 13
 
 secured: "LjhICwj1d+lxtA9P4OjeUej70tteO18UNdxJ2zZKkhe2QtfmedV2kv+S52IBhRTFcKGIC7zvXFEQwx6xqm2LBSGxW9Vee9atiIMFDmJ6cN0uSr25yzvN1JnURc8mavFF28fW103dGNLtqWCcSX6hhttX2GdDpT7mrn9EpeIf5St4TR8B/66NXHvE0WQzNujIz1Q6kibsYDNSI5jdupjD3WBywsyDe1SYJP+NYGPCB0SwozTaFcQ3x4uWnO2zFfPb49GbRXkBt+0EIqgeIcVpk1URr43v96ys8UV9ylSjjDH3cXlP3sDcI4pBpt/jIJD6W6eYtFLN7a68OBTRszXadiZNaVAvysINyY6nRirA3Rk=;sKFZoB5yXH+zf8biO1KWkg=="
 ---

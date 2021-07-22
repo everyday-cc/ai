@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists adopt deep learning for multi-object tracking"
-    excerpt: "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our daily lives. There are, however, some tasks in this field that are still extremely difficult for computers to perform with acceptable accuracy and speed."
-    publishedDateTime: 2021-07-19T15:16:00Z
-    webUrl: "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.html"
-    ampWebUrl: "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp"
+  - title: "DLSU researchers use machine learning for a deeper mining of data from international assessments."
+    excerpt: "Earlier this month, the Department of Education (DepEd) called out the World Bank (WB) for basing their report on 2018 and 2019 data from three international assessments and for not even acknowledging the department’s reform initiatives for quality education even before their participation."
+    publishedDateTime: 2021-07-22T02:33:00Z
+    webUrl: "https://mb.com.ph/2021/07/22/dlsu-researchers-use-machine-learning-for-a-deeper-mining-of-data-from-international-assessments/"
+    ampWebUrl: "https://mb.com.ph/2021/07/22/dlsu-researchers-use-machine-learning-for-a-deeper-mining-of-data-from-international-assessments/?amp"
+    cdnAmpWebUrl: "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/07/22/dlsu-researchers-use-machine-learning-for-a-deeper-mining-of-data-from-international-assessments/?amp"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
+      name: Manila Bulletin
+      domain: mb.com.ph
+    quality: 46
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-adopt-deep.jpg"
-        width: 1440
-        height: 810
+      - url: "https://mb.com.ph/wp-content/uploads/2021/07/19663.jpeg"
+        width: 960
+        height: 640
         isCached: true
-  - title: "Scientists Adopt Deep Learning for Multi-Object Tracking"
-    excerpt: "Researchers at the Gwangju Institute of Science and Technology have adapted deep learning techniques in a multi-object tracking framework, overcoming short-term occlusion and achieving remarkable performance without sacrificing computational speed."
-    publishedDateTime: 2021-07-20T15:21:00Z
-    webUrl: "https://cacm.acm.org/careers/254129-scientists-adopt-deep-learning-for-multi-object-tracking/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "YMUFK+c1PtUjEOgZKb0LW3lAm6NqKm/cToN8ZIv5dunuDGjdEE44s7MQF2vFtun3f2GrwO9O+V0F/VV7I6pt7w5WU1veiB4qiOWv1TTu02eWNVrw8KOInKt3igotcn0FL3bpIzKwCNh3QqRDg8hlfryHWpoWttUMfE0C6uxBYLJwIsmUCisXfv9PegkMUwtY2OfAW8WTtXU8LHicbLA1nrlBTI4z3pJ5t8R/lyTBO/nPYDYNvxgOYVQuy7icTldhk0H7ljQHPCCudpaek+9zqW5yNImiLRHWarHzvj9AwXWOU0ScPlY2G5hTk/gPYCUd8KsYBN2p6MIBBnZZ6rpYNf8OtAuqyoB81yn3zMZMmKU=;6IsZWv0mHrGhf3ch5/gYsA=="
 ---

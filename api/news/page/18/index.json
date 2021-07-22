@@ -2,59 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2021-07-08-armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai.md",
-      "title": "Armorblox and Intermedia team up to protect email from cyberattacks with AI",
-      "excerpt": "Cybersecurity company Armorblox and email provider Intermedia partnered to help enterprises combat the rise in cyberattacks with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/07/armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/07/armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/maxresdefault-e1625690997914.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/07/armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/armorblox-and-intermedia-team-up-to-protect-email-from-cyberattacks-with-ai/amp/",
-      "publishedDateTime": "2021-07-07T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-08-infrared-cameras-and-artificial-intelligence-provide-insight-into-boiling.md",
       "title": "Infrared cameras and artificial intelligence provide insight into boiling",
       "excerpt": "But “artificial intelligence is not limited by the speed or ... or layers of silicon dioxide nanoparticles. They trained a neural network on 85 percent of the data from the first three surfaces, then tested it on 15 percent of the data of those ...",
@@ -1192,6 +1139,40 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-oneplus-nord-2-5g-to-have-new-ai-dimensity-chip.md",
+      "title": "OnePlus Nord 2 5G to have new AI Dimensity chip",
+      "excerpt": "Global smartphone brand OnePlus on Wednesday announced that it has joined hands with chip-maker MediaTek for Dimensity 1200-AI, which will be featured in the upcoming OnePlus Nord 2 5G smartphone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/oneplus-nord-2-5g-to-have-new-ai-dimensity-chip-news-topnews-vhhnk9ggchbfg.html",
+      "originalUrl": "https://www.sify.com/finance/oneplus-nord-2-5g-to-have-new-ai-dimensity-chip-news-topnews-vhhnk9ggchbfg.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

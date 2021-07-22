@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market Rapidly Growing With Size, Top Companies, Demands and Forecast by 2031"
+    excerpt: "The latest insightSLICE research report published on Speech and Voice Recognition promises to cede reliable and"
+    publishedDateTime: 2021-07-22T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-rapidly-growing-with-size-top-companies-demands-and-forecast-by-2031-2021-07-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Chips Market 2021 Report Presents Complete Summary, Marketplace Shares and Growth Opportunities by 2026"
     excerpt: "Global Artificial Intelligence Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz methodically compiles the principal components of the market study."
     publishedDateTime: 2021-07-19T21:28:00Z

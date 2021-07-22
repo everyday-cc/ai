@@ -2,11 +2,11 @@
 category: news
 title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
 excerpt: "DeepMind, the AI unit of Google that invented the chess champ neural network AlphaZero a few years back, shocked the world again in November with a program that had solved a decades-old problem of ..."
-publishedDateTime: 2021-07-19T20:50:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-webUrl: "https://www.zdnet.com/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+publishedDateTime: 2021-07-19T18:01:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2026/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+webUrl: "https://www.zdnet.com/index.php/category/2026/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2026/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2026/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
 type: article
 quality: 89
 heat: -1
@@ -78,6 +78,6 @@ related:
         height: 900
         isCached: true
 
-secured: "XCGPnqS1AbDSwI2bKwy9jkh1cTrN8CkY7ZuMBP8IDyxAzo/beE3rTc9oqC51fZl10IOacENzxpfcLQxfe+OD7o05HTt8v2ARRyQq4F2wQ+f+e2w0xy8uhYAwAq6D8cAEyHfT6jZ5qmsoogu7NPB4Zf1If5qxhQE3YplvHYXD8zoyw0XrCaidKdIx8/8lzsKAHMbqKkgq/atLmPO0ctO9ezAU6hNzZotcVryfLOhSeHINA8H/mwSwQsBTFdxeOJg/g9eqNiJLSrjTbQJZMrQ8rVwJeKEcInQIHsILb5lxyHnbENtaP6IQMUDeSBVQoF5PUxaya5DGCKRrd3CPpiG6Pb7RT/Sn40iHjar1bwQhGbM=;HzqHGaf3hjqTGwbqZXPSUw=="
+secured: "G4lYp6eKJq/a06w8083RJeYsRvRqnjMuAOTY0euy2Woix1DqXL0Z7vpo7qT+iFomeACe+rf7aUFnkQG97ndYFCIPQTKV3XdVRRGtxhufrkSR7GdYr47KKMdmjMHrktfXTsRiKrApLySTbIOtNLO/d3VZtJ38bi4w5uk2DBeF+TJtmMe4rduGQdXnhrJQW+Oq2wbar9QWXlNO0e22W0Fj9UcS86mEqWq4PPaNg/PjuIf/cKKWOyjHQy/0ofzwrumMHvWS0Jz/yOheg0hHIL/ZEtxOGr/9q9mYsodPb0RGfDp9+ja0FMIgLJA+ll6bInf59rVqSAwWSnY++IUkRZj4K5uNR/4LA8JqA8J/lGx5VgM=;D1QwdA2lLI/q+WFMX0xLOw=="
 ---
 

@@ -181,20 +181,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Tesla Introduces $199 Full Self-Driving Monthly Subscription"
-    excerpt: "Tesla has introduced a subscription offering that allows its customers to use its Full Self-Driving (FSD) autonomous driving software in supported vehicles in exchange for $199 per month. Electrek reported that Tesla customers who purchased the Enhanced Autopilot package—which the company no longer offers—will be able to subscribe to FSD for $99 per month instead."
-    publishedDateTime: 2021-07-17T16:40:00Z
-    webUrl: "https://in.pcmag.com/cars-auto/143779/tesla-introduces-199-full-self-driving-monthly-subscription"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/t/tesla-intr/tesla-introduces-199-full-self-driving-monthly-subscription_ch5r.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla lowers the price of its 'Full Self-Driving' computer upgrade"
     excerpt: "After criticism from owners, Tesla has reduced the price of a computer update required for its new \"Full Self-Driving\" (FSD) feature.."
     publishedDateTime: 2021-07-21T09:44:00Z
@@ -376,20 +362,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2020/05/Tesla-Autopilot-report-00-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "Tesla Launches Full Self-Driving Subscription Package Starting At $199"
-    excerpt: "Tesla has just launched its Full Self-Driving subscription package starting at $199. Here are all the details on this."
-    publishedDateTime: 2021-07-17T15:25:00Z
-    webUrl: "https://www.redmondpie.com/tesla-launches-full-self-driving-subscription-package-starting-at-199/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 39
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Tesla to now offer monthly self-driving subscriptions"
     excerpt: "American electric vehicle and clean energy company Tesla has now started offering a monthly subscription for its Full Self Driving package for USD 199 per month"

@@ -3,10 +3,10 @@ category: news
 title: "UK fintech Napier sets up office at Dubai’s leading financial center"
 excerpt: "Napier already works on AI-led anti-financial crime solutions with many organizations across MEASA, including the Saudi Arabian Monetary Agency, Central Bank of UAE and directly with DIFC"
 publishedDateTime: 2021-07-22T07:34:00Z
-originalUrl: "https://www.zawya.com/mena/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/"
-webUrl: "https://www.zawya.com/mena/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_226923548/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_226923548/"
+originalUrl: "https://www.zawya.com/uae/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/"
+webUrl: "https://www.zawya.com/uae/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_226923548/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_226923548/"
 type: article
 quality: 59
 heat: 169
@@ -176,6 +176,6 @@ related:
         height: 450
         isCached: true
 
-secured: "u19x62uMFSf4zT3VlomRB/uJdhw1ix4l6fIl3Pk41E4o5GxpQg40LCASDmSudiqWH3T9iJM21w10ukRiuKYSnnwNexgC7Mq00KQY30KTJjUXhpXuPD3VMvqeifVCdN1asz02gkRstbDbGQwRqplUuEyZIIbmPH0SBcfdHYwZ09X/Kk4dZwBv6IfYoP39wAv1Zm6zGemGehh+mgMAFwmJjqWdyccoXE1dbLzWkuSc42F9ZDG35A4QvIbcJy08qh8kWLVQFClqTW1Z5OV0m7Vke+db6Nkawxq2um7n1YGZmpE3klx2+qIGzDReENhtqIs9rwLQ+ekJjQoBp/MXcHDNBdClGtGgSnombv0buu9mN7o=;Hg/BNivj9xu4HExEKqEb4g=="
+secured: "mVYJfEtFre/rRC4GwVdj4EDk5i+Or/yflZ7TL4ovdVoMGEUuAAylNV6e1b09Stuvgl6B5TUp488s+0AF2UAQzynQQGhuOrRbdPgV8X81OJao0qZP6U/qfhmfpqUQcUWXOQh+3OfYx3w83U+i3K9wrUd7WiLR5DM6+0VpTzUZfnPKDg6NMbLBqAbQz+4dd7GPSotIRXKZZshxAAziyo8vdpf3n1ppLmsNXNxEHaz4xw+Q0DywLNk9ffI7Oa4ipSx7J20Wr3VLBgGoQy5fqIBukMYPEDMdm+1Gp8SP6qT5tv3EpUdIyVbeRHFifuqtB1TD70KSb7wweRfn8BjXgOK3oqBdycDvQAYCFAryGRA2B24=;xUtlEHm51it3mjDZf2eKWg=="
 ---
 

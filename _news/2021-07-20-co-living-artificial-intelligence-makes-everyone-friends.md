@@ -48,7 +48,7 @@ related:
     provider:
       name: PCQuest
       domain: pcquest.com
-    quality: 53
+    quality: 55
   - title: "Emerging Trends: Artificial Intelligence for data economy"
     excerpt: "According to a survey[1] of 1200 companies across the globe, more than 60% of data service providers believe that Artificial Intelligence (AI) is the future of their business. And quite rightly so, given that the growth of AI to unlock the value of data is ..."
     publishedDateTime: 2021-07-18T12:56:00Z

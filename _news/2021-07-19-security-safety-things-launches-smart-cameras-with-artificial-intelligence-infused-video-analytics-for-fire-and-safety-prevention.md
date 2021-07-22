@@ -87,6 +87,15 @@ related:
         width: 811
         height: 651
         isCached: true
+  - title: "SPIN Analytics and RISKROBOT, Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SPIN Analytics, today announced the availability of RISKROBOT ™ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2021-07-21T11:00:00Z
+    webUrl: "https://www.financialbuzz.com/spin-analytics-and-riskrobot-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 45
   - title: "Why AI and analytics are the answer to tax authorities’ questions"
     excerpt: "But how is it that EU tax authorities and organizations stand to benefit from AI and analytics? Inside, access this white paper to explore how a decision intelligence system can help the public sector identify tax fraud when it happens,"
     publishedDateTime: 2021-07-18T06:59:00Z

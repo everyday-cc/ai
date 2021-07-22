@@ -22,9 +22,9 @@ related:
   - title: "UK fintech Napier sets up office at Dubai’s leading financial center"
     excerpt: "Napier already works on AI-led anti-financial crime solutions with many organizations across MEASA, including the Saudi Arabian Monetary Agency, Central Bank of UAE and directly with DIFC"
     publishedDateTime: 2021-07-22T07:34:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_226923548/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_226923548/"
+    webUrl: "https://www.zawya.com/uae/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_226923548/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_226923548/"
     type: article
     provider:
       name: Zawya

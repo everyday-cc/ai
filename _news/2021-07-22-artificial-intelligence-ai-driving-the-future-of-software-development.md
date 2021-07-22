@@ -8,7 +8,7 @@ webUrl: "https://www.pcquest.com/artificial-intelligence-ai-driving-future-softw
 ampWebUrl: "https://www.pcquest.com/artificial-intelligence-ai-driving-future-software-development/amp/"
 cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/artificial-intelligence-ai-driving-future-software-development/amp/"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 related:
   - title: "A Run-down on Deep Learning Trends Driving AI Development"

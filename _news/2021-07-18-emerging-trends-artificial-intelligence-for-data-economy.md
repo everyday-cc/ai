@@ -48,7 +48,7 @@ related:
     provider:
       name: PCQuest
       domain: pcquest.com
-    quality: 53
+    quality: 55
   - title: "Co-Living Artificial Intelligence Makes Everyone Friends"
     excerpt: "But real life can be more challenging, and flatmates falling out is the co-living operator’s worst nightmare. Now tech-enabled ‘community psychology’ is being trialed in three Swedish co-living schemes in an effort to banish the bad dream,"
     publishedDateTime: 2021-07-20T15:48:00Z

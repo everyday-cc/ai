@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-trends-share-size-growth-opportunity-and-forecasts-by-2025-2021-07-20"
 type: article
 quality: 69
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Rapidly Growing With Size, Top Companies, Demands and Forecast by 2031"
+    excerpt: "The latest insightSLICE research report published on Speech and Voice Recognition promises to cede reliable and"
+    publishedDateTime: 2021-07-22T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-rapidly-growing-with-size-top-companies-demands-and-forecast-by-2031-2021-07-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

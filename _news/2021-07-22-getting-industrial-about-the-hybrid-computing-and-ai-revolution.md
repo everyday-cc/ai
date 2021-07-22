@@ -91,6 +91,22 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "Detecting Acute Stroke Early with Artificial Intelligence and Imaging"
+    excerpt: "Scientists are using artificial intelligence (AI) to improve imaging techniques so that ischemic and hemorrhage strokes might be identified faster."
+    publishedDateTime: 2021-07-22T08:15:00Z
+    webUrl: "https://www.azooptics.com/Article.aspx?ArticleID=1976"
+    ampWebUrl: "https://www.azooptics.com/amp/article.aspx?ArticleID=1976"
+    cdnAmpWebUrl: "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/article.aspx?ArticleID=1976"
+    type: article
+    provider:
+      name: AZoOptics
+      domain: azooptics.com
+    quality: 59
+    images:
+      - url: "https://d36nqgmw98q4v5.cloudfront.net/images/Article_Images/ImageForArticle_1976_16269415644258204.jpg"
+        width: 1000
+        height: 661
+        isCached: true
   - title: "Artificial Intelligence Therapy Reduces Depression and Anxiety"
     excerpt: "A study looks at an artificial intelligence telehealth mental health app to see its effectiveness in decreasing depression and anxiety in those who experience symptoms."
     publishedDateTime: 2021-07-19T13:30:00Z

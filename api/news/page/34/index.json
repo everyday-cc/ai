@@ -2,57 +2,6 @@
   "page": 34,
   "value": [
     {
-      "path": "_news/2021-06-26-how-ai-is-changing-the-nature-of-analytics.md",
-      "title": "How AI is changing the nature of analytics",
-      "excerpt": "At its core, artificial intelligence is an analytics tool. AI is useful because it can parse large amounts of data and add context.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/",
-      "originalUrl": "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/analytics-e1624650601959.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/",
-      "publishedDateTime": "2021-06-25T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-26-a-beginners-guide-to-ai-policy.md",
       "title": "A beginner’s guide to AI: Policy",
       "excerpt": "Neural's long-running Begginer's Guide To Artificial Intelligence gets a modern update discussing policy and regulation around the globe.",
@@ -1229,6 +1178,40 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-computer-vision-market-market-2021-highlights-recent-trends-market-growth-business-opportunities-till-2026.md",
+      "title": "Computer Vision Market Market 2021 Highlights Recent Trends, Market Growth, Business Opportunities till 2026",
+      "excerpt": "The computer vision market is expected to grow at a CAGR of 7.36 % over the forecast period (2021 – 2026).”  Top Leading Companies of Computer Vision Market are Intel Corporation, National Instruments Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/25/computer-vision-market-market-2021-highlights-recent-trends-market-growth-business-opportunities-till-2026/",
+      "originalUrl": "https://ksusentinel.com/2021/06/25/computer-vision-market-market-2021-highlights-recent-trends-market-growth-business-opportunities-till-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

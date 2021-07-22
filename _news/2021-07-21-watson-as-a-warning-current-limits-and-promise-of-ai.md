@@ -75,6 +75,22 @@ related:
         width: 547
         height: 950
         isCached: true
+  - title: "Detecting Acute Stroke Early with Artificial Intelligence and Imaging"
+    excerpt: "Scientists are using artificial intelligence (AI) to improve imaging techniques so that ischemic and hemorrhage strokes might be identified faster."
+    publishedDateTime: 2021-07-22T08:15:00Z
+    webUrl: "https://www.azooptics.com/Article.aspx?ArticleID=1976"
+    ampWebUrl: "https://www.azooptics.com/amp/article.aspx?ArticleID=1976"
+    cdnAmpWebUrl: "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/article.aspx?ArticleID=1976"
+    type: article
+    provider:
+      name: AZoOptics
+      domain: azooptics.com
+    quality: 59
+    images:
+      - url: "https://d36nqgmw98q4v5.cloudfront.net/images/Article_Images/ImageForArticle_1976_16269415644258204.jpg"
+        width: 1000
+        height: 661
+        isCached: true
   - title: "Getting Industrial About The Hybrid Computing And AI Revolution"
     excerpt: "For oil and gas companies looking at drilling wells in a new field, the issue becomes one of return vs. cost. The goal is simple enough: install the"
     publishedDateTime: 2021-07-21T17:40:00Z

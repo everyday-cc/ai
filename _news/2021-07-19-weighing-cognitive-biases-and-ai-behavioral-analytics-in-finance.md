@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 811
         height: 651
         isCached: true
+  - title: "SPIN Analytics and RISKROBOT, Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SPIN Analytics, today announced the availability of RISKROBOT ™ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2021-07-21T11:00:00Z
+    webUrl: "https://www.financialbuzz.com/spin-analytics-and-riskrobot-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 45
   - title: "Security & Safety Things launches smart cameras with Artificial Intelligence infused video analytics for fire and safety prevention"
     excerpt: "As global demand for produced goods continues to climb, manufacturing organisations are facing new challenges in meeting customer demand and elevated safety concerns along the supply chain due to"
     publishedDateTime: 2021-07-19T05:39:00Z

@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Finance Market 2021 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2026"
+    excerpt: "The multipurpose new research study on the Global Artificial Intelligence in Finance Market 2021 by Company, Regions, Type and Application, Forecast to 2026 aims to promise a unique approach to industry assessment of the market covering the most important factors driving industry growth."
+    publishedDateTime: 2021-07-22T02:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-finance-market-2021-size-share-analysis-demand-growth-driver-and-industry-segments-by-2026-2021-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence chipset Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Artificial intelligence chipset chipset market is expected to grow at a significant CAGR in the period from 2021 to 2027 The use of AI for enhancing customer services and decreasing operational costs the rising number of AI applications increased"
     publishedDateTime: 2021-07-19T10:53:00Z
@@ -54,6 +68,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 19
+  - title: "Global Edge AI Chips Market Demand, Revenue Forecast and Interesting Opportunities from 2021 to 2026"
+    excerpt: "Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 research report is the new statistical data source added by MarketsandResearch.biz that uses several approaches for analyzing the data of the target market such as primary and secondary research methodologies."
+    publishedDateTime: 2021-07-22T09:31:00Z
+    webUrl: "https://ipsnews.net/business/2021/07/22/global-edge-ai-chips-market-demand-revenue-forecast-and-interesting-opportunities-from-2021-to-2026/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 19
   - title: "Artificial Intelligence (AI) Robots Market Study for 2021 to 2028 providing information on Key Players, Growth Drivers and Industry challenges"
     excerpt: "Robots Market report including its market outline and development status by types and applications, which specifies its price and profit status, market growth drivers, and challenges. Readers will find this report very helpful in understanding the market in depth."
     publishedDateTime: 2021-07-21T01:24:00Z
@@ -62,7 +85,7 @@ related:
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 0
+    quality: 13
 
 secured: "3AjXm0OI3YFcgSgXPaBjj4DrMr1aWczQs3QmmAWhv5DMsfhwNuTFPzmzp8I/dgiQnE2o40wCJmST8ePJoHWR/Kd0bR7MrrXV1Hm2Y/jt+RUitMYRBZo4L4R30NbsVZC61hGo8JlC66CVrV1yAJLUUCJ8JeY39D+DY2+PtWFasZfWiOEe+8VddYoTTKBqiuD+MXxjz49gQq5SOwiSeS/YN9Q2uBV7aPkime7FyEpY6n/g2GNMEEgFEoQpW78bVpzluTE0GKn6zPIZT1va0eqVxp7EDwxNpRBb+wYZfDFJrF58qaB/Ajo3rrvGnT7IOj6P8VnUZHiV2mACQr7rnqvHTPc2IxVVYZCjqkeJXDNQWZ8=;qryJ4xn67YKs7JFfyG8IOw=="
 ---
