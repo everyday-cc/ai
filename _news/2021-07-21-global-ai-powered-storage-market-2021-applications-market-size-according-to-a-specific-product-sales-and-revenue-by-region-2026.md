@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul (Heraldkeepers) -- This report elaborates the market size, market characteristics, and market growth of the Natural Language Processing industry,"
-    publishedDateTime: 2021-07-17T11:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Market Expected to Witness High Growth over the Forecast Period 2021-2031"
     excerpt: "SLICE has announced the addition of the Speech and Voice Recognition Market Report 2021 2031 Production Sales And Consumption Status And Prospects Professional Research The report classifies the global Speech and Voice Recognition Market in a precise manner to offer"
     publishedDateTime: 2021-07-19T06:55:00Z

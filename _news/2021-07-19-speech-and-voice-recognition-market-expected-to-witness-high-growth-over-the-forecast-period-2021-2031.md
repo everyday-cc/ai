@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul (Heraldkeepers) -- This report elaborates the market size, market characteristics, and market growth of the Natural Language Processing industry,"
-    publishedDateTime: 2021-07-17T11:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-07-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Worldwide Machine Safety Industry to 2026 - Impact Analysis of COVID-19 on the Market"
     excerpt: "The \"Machine Safety Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global market for machine safety was evaluated at US$1,204.949 million in the year 2019 and is anticipated to witness a CAGR of 6."
     publishedDateTime: 2021-07-21T15:45:00Z

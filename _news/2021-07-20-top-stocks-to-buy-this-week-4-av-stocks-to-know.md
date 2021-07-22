@@ -1,22 +1,32 @@
 ---
 category: news
 title: "Top Stocks To Buy This Week? 4 AV Stocks To Know"
-excerpt: "The company is essentially an artificial intelligence computing company ... This project has since turned into Waymo. Starting from June, Waymo One, the ride-hailing service that uses driverless vehicles in Phoenix, can now be accessed through Google ..."
-publishedDateTime: 2021-07-19T17:47:00Z
-originalUrl: "https://www.nasdaq.com/articles/top-stocks-to-buy-this-week-4-av-stocks-to-know-2021-07-19"
-webUrl: "https://www.nasdaq.com/articles/top-stocks-to-buy-this-week-4-av-stocks-to-know-2021-07-19"
+excerpt: "The company is essentially an artificial intelligence computing company ... This project has since turned into Waymo. Starting from June, Waymo One, the ride-hailing service that uses driverless ..."
+publishedDateTime: 2021-07-19T18:11:00Z
+originalUrl: "https://www.marketwatch.com/press-release/top-stocks-to-buy-this-week-4-av-stocks-to-know-2021-07-19"
+webUrl: "https://www.marketwatch.com/press-release/top-stocks-to-buy-this-week-4-av-stocks-to-know-2021-07-19"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Apple Stock – Top Stocks To Buy This Week? 4 AV Stocks To Know"
@@ -34,6 +44,6 @@ related:
         height: 512
         isCached: true
 
-secured: "6nMVU3C3eITsTuBVLF7e/wTIYRArqXsAC8CQ5ud1WpA2FtC9nemnENcytC2Z1JJkkp3KJeJVGBxI7NxnPm3D0h8zRfyeup1OEtsHZK4Osbov8I+fZC0WnVbjWsDU65/0kBgaTgk9JzZNCOP/U5InshV7uUgopW8GH4LdNrzG37Ks9FMU84HINZCSr1y1keH78stSUu+Z0d983dXR9YtewE7T4JEjxD/Ntj4FRjoIGZYfYMPo2rzH2mvXfs7NYbemsH/TtS85lVqh1TjXDtvFlAPNU9FRTA2M993LRz4OTK1r4hmDSlz38YtZAt5wlOtHd3i9LHfvX2O67/zxoLvp927s2ToOcqeEp4LQ9PqAZto=;Y/rDpy4bw7epnV71n8Chww=="
+secured: "ZYlyDAVv+Mv8bAffWNiKpnYDuqTw4qYNAgalZab34jcQBn/WNMTerz3Vsr+GZcw0nYEghrHzh6Ai9tNGz1fiykmClJ06w/Um5lBWRMaMIYbpkYE2ijnrYWT7RKZsBqgS9Y3mqY7WGWXf1XLK3+8w0jj8g428JFyyvXBkIsvSc5E6KtEUZCEzIVFOaIi6JpqRvbqoOQb8po1G9zLqdPk97ot5xh0PO8wpShKN/6pK2JvWEfhWc3yKm5DVx+RO9GOyCm6ejmBqYYQZwgOAqFetmkDzpGUHSIlel7vTrCGV9UttOvRM9NwIhXm5PZvlgrmJF+SrxylRIfjBK8xqoqFh3SXo4l8u6dtsMDblNqzZjrE=;talI2zIhMFluS1G4Dgh4hA=="
 ---
 

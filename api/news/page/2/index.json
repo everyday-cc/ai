@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-21-three-reasons-to-use-ai-when-choosing-cre-locations-for-a-retail-business.md",
+      "title": "Three Reasons To Use AI When Choosing CRE Locations For A Retail Business",
+      "excerpt": "The placement of your commercial real estate locations can be the difference between patrons visiting your business or the competitor across the street.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f6ded2ce2922235c08e4ba%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/amp/",
+      "publishedDateTime": "2021-07-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-microsoft-azure-sentinel-vs-darktrace-enterprise-immune-system-whos-on-top-in-ai-security.md",
       "title": "Microsoft Azure Sentinel vs Darktrace Enterprise Immune System: Who's on top in AI security?",
       "excerpt": "Microsoft uses AI to operate a traditional SIEM, but Darktrace takes a very different approach to threat hunting",
@@ -1155,57 +1206,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-nvidia-releases-tensorrt-8-for-faster-ai-inference.md",
-      "title": "Nvidia releases TensorRT 8 for faster AI inference",
-      "excerpt": "The latest version of Nvidia's software development kit for AI inference speeds up inference performance with certain models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/",
-      "originalUrl": "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/MVIMG_20190318_133330_1-e1588214925726.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/",
-      "publishedDateTime": "2021-07-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

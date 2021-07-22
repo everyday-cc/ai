@@ -63,6 +63,17 @@ related:
         width: 1474
         height: 609
         isCached: true
+  - title: "Prometeia and Fabrick partner to launch new digital wealth management solution harnessing AI and Open Finance"
+    excerpt: "The solution has been created through a new strategic partnership between the two companies that responds to the needs of modern customers and represents an evolution in the world of digital wealth management. The two companies, respectively leaders in ..."
+    publishedDateTime: 2021-07-22T05:37:00Z
+    webUrl: "https://www.finyear.com/Prometeia-and-Fabrick-partner-to-launch-new-digital-wealth-management-solution-harnessing-AI-and-Open-Finance_a45033.html"
+    ampWebUrl: "https://www.finyear.com/Prometeia-and-Fabrick-partner-to-launch-new-digital-wealth-management-solution-harnessing-AI-and-Open-Finance_a45033.amp.html"
+    cdnAmpWebUrl: "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/Prometeia-and-Fabrick-partner-to-launch-new-digital-wealth-management-solution-harnessing-AI-and-Open-Finance_a45033.amp.html"
+    type: article
+    provider:
+      name: FinYear
+      domain: finyear.com
+    quality: 35
 
 secured: "+YNa65VKX9jkUkgL0JGre8x07wO0MA8EbWoIs/ZC0OUHfZrnLrDrwOX52r9GJg1Fib4IJzrTk0LFHde6LGovOYkxqB4mm28hqBX3++kZCpkxqb7N9AUqCrPH44DpoXihNJVVVPgZy3D9SI0kVdCQGRUp+BJyYLmsPPfjiJtUzoTqVyJpWOoyqEoZLjqJhJyQnoMRfIrc4Yqf93xuOIE6DIjuboMnvKGHFKwvSEuocPskiT0dqV6wdPUygbz0HETnibl0x3evzZ6HiX9FztaxHWK2DsIFyM+M+U/JZSX4fQmWsYXTdTnIg2zQN1POrdD1SdNfjtaOLrWzQOerco5806tGjcx0zeV1XG7xqbMc+YA=;DIcj3KLPd2f5KTZsKGZoXg=="
 ---

@@ -3,31 +3,24 @@ category: news
 title: "Ford Teams With Lyft, Argo AI For Self-Driving Ride-Shares This Year"
 excerpt: "Ford Escape ride-share vehicles will launch this year in Miami. These self-drivers will still have \"safety drivers\" behind the wheel."
 publishedDateTime: 2021-07-21T22:13:00Z
-originalUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/"
-webUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/"
-ampWebUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp"
+originalUrl: "https://www.stltoday.com/lifestyles/autos/ford-teams-with-lyft-argo-ai-for-self-driving-ride-shares-this-year/article_c0de9dc8-c95c-574f-ade7-c77d6a52598d.html"
+webUrl: "https://www.stltoday.com/lifestyles/autos/ford-teams-with-lyft-argo-ai-for-self-driving-ride-shares-this-year/article_c0de9dc8-c95c-574f-ade7-c77d6a52598d.html"
 type: article
-quality: 89
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/07/Ford-Lyft-Argo-self-drive-1200px.jpg"
-    width: 1200
-    height: 675
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/52/252f683c-f086-54e4-86e0-949a532ae092/60f8a59dc10b8.image.jpg?crop=533%2C300%2C0%2C0&resize=533%2C300&order=crop%2Cresize"
+    width: 533
+    height: 300
     isCached: true
 
 related:
@@ -323,6 +316,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "HTY6eWhgtKf1jk7pYv5O0Ku/P79lvcVySabk4trwu6pFWDpkv4dWhck9AOQeqjCLnXBUqLfTOo3OP/tZUTMm61vjwrJwAhgulhPSykFNRZnnZ+79WrQPrcdZy57ATPHD6Kz15z4gtls0PtpSZLdlVzcPYdlMGAV2EWDlJT2p077t95xAjvS2Q0N5uuFhOm3XFZq5FsNIKtcbWX8VeOFBVHQjtdNDgJU281S2WUWrGsYk92swLo4F2xIaKhHhZpiOoBOLOJ65USUp8r9gKoikxdICqUcJ7zz1mcG6USpQqn4d783O+W+vdzPA37dfkPfj+1wig7xOfs0Lk38Jnu5b8vt8eEkfpeSurv9Xon9XH0YOos/FQPrs0+y4k5XXQKauoMSR6ayC0r0GtGXskcFId9WdQ8vRzzNQlOj+8b2vvAw/E0C8p0lLfqmk3lzUJaU1YDYqTdnvL9smOXSTO9xIZWSxnFtDreTRvQXrfD9ouNydaZqrx/fzYp9Z75JX6vqRZBjOgqlJ/VPn5qzX61ri3A==;wpnDZWwtCoj1GjseohVFqg=="
+secured: "tnxAgzXx26xssSL4O719hoX0FR4ehNZQgAT5cOvk4xnBjFsysvlm9e5hWBksPZ+VgMbF15mtk3L3QoUM6/PyIejXizKkaKcwdJlOyC3zxjQiTBDaeWRefPw5eqixWAjkW7MKZXWS6tZ6rF6qoQIEqZFd+UMdNKzq+qDyMcpiiZKZUxoGl7uxM2G8HMI04XCGYpJo4D6+Y6HuVmi00Apps8dNsGyAWR2/5q5DBSx2+Fez7EgcF4lNYUGavRiw91bD1OLoRjA13kOZ81FZLNTp9WiAyr9aZjKpqapxfhvZkWCutwf+nW08lF8rzenfu6cl/jOWHbTyDguzmKuMvvjWoUvnmbbLqQWDMBv3S48Njwk=;t4E8x6X0dNYKNVCPj2vB9A=="
 ---
 

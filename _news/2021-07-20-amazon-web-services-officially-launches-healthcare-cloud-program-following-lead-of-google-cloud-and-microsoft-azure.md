@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft acquires CloudKnox Security to enhance unified privileged access management"
+    excerpt: "Following the purchase of RiskIQ and ReFirm Labs, Microsoft has now acquired CloudKnox Security to offer unified privileged access and entitlement management in multi-cloud and hybrid environments."
+    publishedDateTime: 2021-07-22T01:38:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-acquires-cloudknox-security-to-enhance-unified-privileged-access-management/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 79
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2017/03/1490748311_mscloudsecurity_story.jpg"
+        width: 760
+        height: 430
+        isCached: true
   - title: "Microsoft acquires CIEM leader CloudKnox Security"
     excerpt: "Microsoft is set to beef up its cloud security and entitlement management platform with the acquisition of CloudKnox."
     publishedDateTime: 2021-07-21T22:03:00Z

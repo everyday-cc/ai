@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-autonomous-beach-clea
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/"
 type: article
 quality: 103
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft acquires CloudKnox Security to enhance unified privileged access management"
+    excerpt: "Following the purchase of RiskIQ and ReFirm Labs, Microsoft has now acquired CloudKnox Security to offer unified privileged access and entitlement management in multi-cloud and hybrid environments."
+    publishedDateTime: 2021-07-22T01:38:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-acquires-cloudknox-security-to-enhance-unified-privileged-access-management/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 79
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2017/03/1490748311_mscloudsecurity_story.jpg"
+        width: 760
+        height: 430
+        isCached: true
   - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
     excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
     publishedDateTime: 2021-07-20T08:11:00Z

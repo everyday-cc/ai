@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-an
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -55,6 +55,17 @@ related:
         width: 1474
         height: 609
         isCached: true
+  - title: "Prometeia and Fabrick partner to launch new digital wealth management solution harnessing AI and Open Finance"
+    excerpt: "The solution has been created through a new strategic partnership between the two companies that responds to the needs of modern customers and represents an evolution in the world of digital wealth management. The two companies, respectively leaders in ..."
+    publishedDateTime: 2021-07-22T05:37:00Z
+    webUrl: "https://www.finyear.com/Prometeia-and-Fabrick-partner-to-launch-new-digital-wealth-management-solution-harnessing-AI-and-Open-Finance_a45033.html"
+    ampWebUrl: "https://www.finyear.com/Prometeia-and-Fabrick-partner-to-launch-new-digital-wealth-management-solution-harnessing-AI-and-Open-Finance_a45033.amp.html"
+    cdnAmpWebUrl: "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/Prometeia-and-Fabrick-partner-to-launch-new-digital-wealth-management-solution-harnessing-AI-and-Open-Finance_a45033.amp.html"
+    type: article
+    provider:
+      name: FinYear
+      domain: finyear.com
+    quality: 35
   - title: "AscellaHealth Announces Partnership with Banjo Health Inc., Improves Patient Care by Streamlining the Prior Authorization Process"
     excerpt: "AscellaHealth, a global specialty pharmacy and healthcare solutions company, today announces the signing of a multi-year partnership with Banjo Health, a market leader in artificial intelligence (AI)-powered Prior Authorization (PA) solutions,"
     publishedDateTime: 2021-07-20T14:07:00Z

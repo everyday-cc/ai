@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "Top Stocks To Buy This Week? 4 AV Stocks To Know"
-    excerpt: "The company is essentially an artificial intelligence computing company ... This project has since turned into Waymo. Starting from June, Waymo One, the ride-hailing service that uses driverless vehicles in Phoenix, can now be accessed through Google ..."
-    publishedDateTime: 2021-07-19T17:47:00Z
-    webUrl: "https://www.nasdaq.com/articles/top-stocks-to-buy-this-week-4-av-stocks-to-know-2021-07-19"
+    excerpt: "The company is essentially an artificial intelligence computing company ... This project has since turned into Waymo. Starting from June, Waymo One, the ride-hailing service that uses driverless ..."
+    publishedDateTime: 2021-07-19T18:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-stocks-to-buy-this-week-4-av-stocks-to-know-2021-07-19"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MTkm88zhhslwa35+BMXgBzxh1e4fNuxyzoiRwka1d0TZICbAT0hJjBPdsWqJdyWN14anCD28yWONl6oc6spugCVK5ClQ9rDZ7+ndlc1HIhrA4GmI54eRwB1ybebaLVkI7O3IrkxR5e8bYgOlntbRrskvOYfEZPPzxVQnVLgE+26xHjwQCWSANemVSWhUtH5DxqxZs4rD7hC0PbW0cfe8FccJUSjaiGuiEc3TuH1v0JWHrWoJ9iSJg5k4EkkMDIUhLo7xzmZkLgoLGflpcJsTHabpaM2SN7EyUbf3f8KNLksHxhSfEAAaEca/fsOlJN7QGa9oUsM1JE50Ia2z7kIKy0wXxkMQF43c6oRyaX4OY0LqPxczAmEDbpiewVwPE+76BRdg+2HbUZFMJ0/Rb/SlKudAFCDmjp5+c/MO7X1wclPKV9Z9d29hSHvxbvT1K8kKk1EOy6OW/Qvb/eTZE4LZbeF2DeZrlnvfQ6WeRM4nrtS9I6Tu+1Pb9Pwry7biXRyxLWjQyApFY/y3sXR64zkbSg==;tX/N/KjyXQ1YgVAw3/1XAA=="
 ---

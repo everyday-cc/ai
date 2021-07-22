@@ -1,0 +1,80 @@
+---
+category: news
+title: "Prometeia and Fabrick partner to launch new digital wealth management solution harnessing AI and Open Finance"
+excerpt: "The solution has been created through a new strategic partnership between the two companies that responds to the needs of modern customers and represents an evolution in the world of digital wealth management. The two companies, respectively leaders in ..."
+publishedDateTime: 2021-07-22T05:37:00Z
+originalUrl: "https://www.finyear.com/Prometeia-and-Fabrick-partner-to-launch-new-digital-wealth-management-solution-harnessing-AI-and-Open-Finance_a45033.html"
+webUrl: "https://www.finyear.com/Prometeia-and-Fabrick-partner-to-launch-new-digital-wealth-management-solution-harnessing-AI-and-Open-Finance_a45033.html"
+ampWebUrl: "https://www.finyear.com/Prometeia-and-Fabrick-partner-to-launch-new-digital-wealth-management-solution-harnessing-AI-and-Open-Finance_a45033.amp.html"
+cdnAmpWebUrl: "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/Prometeia-and-Fabrick-partner-to-launch-new-digital-wealth-management-solution-harnessing-AI-and-Open-Finance_a45033.amp.html"
+type: article
+quality: 35
+heat: -1
+published: false
+
+provider:
+  name: FinYear
+  domain: finyear.com
+
+topics:
+  - AI in Finance
+  - AI
+
+related:
+  - title: "Wealthech: Fabrick and Prometeia Partner on Wealth Management Solution Incorporating Open Banking, AI"
+    excerpt: "Fabrick, an Open Banking Fintech and Prometia, a company offering wealth management solutions, have joined to launch the Global Investment Portfolio, a digital wealth management solution that utilizes artificial intelligence (AI) as well as Open Banking tech."
+    publishedDateTime: 2021-07-21T14:14:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Love-Digital-Euro-300x300.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Prometia and Fabrick apply Open banking and AI to launch new digital wealth platform"
+    excerpt: "Fabrick, a leading Italian fintech company which operates internationally to promote Open Finance, and Prometeia, a consulting, software and research company that is a market leader in solutions for risk and wealth management,"
+    publishedDateTime: 2021-07-21T10:50:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88644/prometia-and-fabrick-apply-open-banking-and-ai-to-launch-new-digital-wealth-platform"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 47
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Prometeia and Fabrick Partner to Launch New Digital Wealth Management Solution harnessing AI and Open Finance"
+    excerpt: "Fabrick, a leading Italian fintech company which operates internationally to promote Open Finance, and Prometeia, a consulting, software and research company that is a market leader in solutions for risk and wealth management,"
+    publishedDateTime: 2021-07-21T14:14:00Z
+    webUrl: "https://financialit.net/news/wealth-management/prometeia-and-fabrick-partner-launch-new-digital-wealth-management-solution"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 35
+    images:
+      - url: "https://financialit.net/sites/default/files/vfvnyuegbcix.png"
+        width: 1474
+        height: 609
+        isCached: true
+  - title: "AscellaHealth Announces Partnership with Banjo Health Inc., Improves Patient Care by Streamlining the Prior Authorization Process"
+    excerpt: "AscellaHealth, a global specialty pharmacy and healthcare solutions company, today announces the signing of a multi-year partnership with Banjo Health, a market leader in artificial intelligence (AI)-powered Prior Authorization (PA) solutions,"
+    publishedDateTime: 2021-07-20T14:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ascellahealth-announces-partnership-with-banjo-health-inc-improves-/2021/07/20/9413006.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
+secured: "FeyajKmaR6d4AWy+IxbNXhQ8RxNOg1IIYxGXrdUc1pE6X1pDjAPL+ryoXZEpaUqshlHqEtEoxClWvSp/ltt6zCEYXyqCJJKphrd67X+rFfcHrne4pv2Hdt1nf2fb9tdQxcVU1ugxmYjKp3zdAdrsOYMFAacv1a2pncFNzfDMjrZY3o6beXJI93ggmbvcwMr51sYFn4Clq7fFANkYUzx+GzvcF/Z3uxDNerG7anH44DQAviv2K9WOaNg45N02RuiI2xw2+qQrSwX/sCpqaWLbNL6S8INC0Balr3AWmnF5gEGSy0s7dlMt9H80svbBoRkjZBeMWS4WdacRBggfaJXB6gTevUGD0cwYthdBpRrjitQ=;TvF3g0fOsSuxAagzdlDAQg=="
+---
+

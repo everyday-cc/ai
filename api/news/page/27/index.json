@@ -2,6 +2,49 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-07-01-facebook-ai-guru-says-regulate-its-use-not-the-tech.md",
+      "title": "Facebook AI guru says regulate its use, not the tech",
+      "excerpt": "Artificial intelligence itself should not be targeted by regulators, but how it is used, Facebook's top executive developing the technology told AFP.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-06-facebook-ai-guru-tech.html",
+      "originalUrl": "https://techxplore.com/news/2021-06-facebook-ai-guru-tech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/the-eus-data-protectio.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-06-facebook-ai-guru-tech.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-facebook-ai-guru-tech.amp",
+      "publishedDateTime": "2021-06-30T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows.md",
       "title": "Facial recognition tech has been widely used across the US government for years, a new report shows",
       "excerpt": "(CNN Business)As George Floyd's death sparked protests in cities across the country, six federal agencies turned to facial-recognition software in an effort to identify people in images of the ...",
@@ -1173,48 +1216,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-workplace-chatbot-firm-moveworks-reaches-21-billion-valuation.md",
-      "title": "Workplace Chatbot Firm Moveworks Reaches $2.1 Billion Valuation",
-      "excerpt": "Moveworks Inc., a startup that helps with employee technology support, is now valued at $2.1 billion, according to founder and Chief Executive Officer Bhavin Shah.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-30/workplace-chatbot-firm-moveworks-reaches-2-1-billion-valuation",
-      "originalUrl": "https://www.msn.com/en-us/finance/news/workplace-chatbot-firm-moveworks-reaches-2421-billion-valuation/ar-AALD4BT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXnwveUL3zmM/v0/1200x682.jpg",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bloomberg.com/news/articles/2021-06-30/workplace-chatbot-firm-moveworks-reaches-2-1-billion-valuation",
-        "domain": "bloomberg.com/news/articles/2021-06-30/workplace-chatbot-firm-moveworks-reaches-2-1-billion-valuation",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
