@@ -42,36 +42,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "What are the dangers of facial recognition?"
-    excerpt: "Robert Williams was wrongfully arrested after a facial recognition system failed to identify the correct culprit. Mr. Williams is seeking justice in a civil rights lawsuit."
-    publishedDateTime: 2021-07-18T19:08:00Z
-    webUrl: "https://www.msnbc.com/the-sunday-show/watch/what-are-the-dangers-of-facial-recognition-116981317527"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo116981317527"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo116981317527"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 59
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626635161004_n_capehart_facial_recognition_211807_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Facial Recognition Is Watching You"
-    excerpt: "The Boston-based Fight for the Future advocacy organization is trying to put pressure on private businesses to swear off any form of facial recognition."
-    publishedDateTime: 2021-07-19T14:14:00Z
-    webUrl: "https://safehaven.com/tech/tech-news/Facial-Recognition-Is-Watching-You.html"
-    type: article
-    provider:
-      name: Safehaven
-      domain: safehaven.com
-    quality: 41
-    images:
-      - url: "https://d2t794khe5w43b.cloudfront.net/article/718x300/fb18666381bc6df1c15ed694514302fc.jpg"
-        width: 718
-        height: 300
-        isCached: true
 
 secured: "NEgZ79sdwlgcmzRF66lth7eHDoq9Apam3XLVgky7iIXb3nNnKa4PCw4B3u+tby0IceP1hFLzNdtfqNZod5V95rSPMzPpUm7+8A3Q+Q/AX9CX8el/BVBPZ9iNFUpf+MX5Tp4NTfQyQRHsa9g/74ehymsIV7tVPsNB30v8pLGO1kW62ffK0zNX1ZyahuKHZpc5m1I68WDZJ5o+XiXiIh6XxW7NABspkXrh9Vd6qI/YNOPavlaxh5IIaXNsFQN0Og44emKCEtJsd4/Z8LuAOnBR+oirriQdbh760R7626ncJaoT+lHiB+dtxLfqKAdDEAsjbwUI96DjE1K3B27CaEPRA831C3Dz4kW6gHhieF9uI4b3JNiP3s6FZaM2JBF84PpkRVOJ+Y3nu64aADBA1qG1HOdfdjoDfF4kNLX4YpCm8NF3c/I3zMyXgXfvEBL7XfY0byrbOiW5VSjLyypp6nSwpgQ3UQwWwROYZTcwJLuA9ePzioiQop6yBVOa9iA9OQQAqh3275SJAgw9pjzz+ERkPQ==;I/d8jWavdaezHP5THrRLnA=="
 ---

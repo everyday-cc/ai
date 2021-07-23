@@ -110,6 +110,22 @@ related:
         width: 1500
         height: 1124
         isCached: true
+  - title: "Beach Bot Is An Autonomous Robot Combing The Beach To Collect Cigarette Butts"
+    excerpt: "Together with his fellow entrepreneur Martijn Lukaart, the boy’s father, Edwin Bos, created the Beach Bot, an autonomous robot that combs beaches looking for cigarette butts in the sand using artificial intelligence."
+    publishedDateTime: 2021-07-23T00:34:00Z
+    webUrl: "https://www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/"
+    ampWebUrl: "https://www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 56
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/07/Beachbot-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
     excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO). \"This is the perfect example of our client feedback loop in action,"
     publishedDateTime: 2021-07-22T16:57:00Z

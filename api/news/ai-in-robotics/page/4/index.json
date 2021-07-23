@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-26-shake-hands-with-a-mind-controlled-robotic-arm.md",
+      "title": "Shake Hands with a Mind-Controlled Robotic Arm",
+      "excerpt": "Using a noninvasive (not implanted) brain-computer interface (BCI), engineers have developed the first successful mind-controlled robotic arm that can continuously track and follow a computer cursor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.machinedesign.com/markets/robotics/article/21837913/shake-hands-with-a-mindcontrolled-robotic-arm",
+      "originalUrl": "https://www.machinedesign.com/markets/robotics/article/21837913/shake-hands-with-a-mindcontrolled-robotic-arm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/machinedesign/image/2019/06/machinedesign_20713_promo_g1mind.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Machine Design",
+        "domain": "machinedesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-samsungs-latest-robot-vac-uses-ai-to-recognize-small-obstacles.md",
       "title": "Samsung's latest robot vac uses AI to recognize small obstacles",
       "excerpt": "Samsung is claiming a few world firsts with its latest robot vacuum cleaner, which was originally launched at CES 2021 back in January. The Jet Bot AI+ is said to be the first to feature an active stereo-type 3D sensor for object detection,",
@@ -1342,41 +1385,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-artificial-intelligence-robots-market-is-in-huge-demand-google-inc-ibm-microsoft-corporation-general-vision-enlitic-inc.md",
-      "title": "Artificial Intelligence Robots Market is in Huge Demand | Google Inc., IBM, Microsoft Corporation, General Vision, Enlitic, Inc.",
-      "excerpt": "Artificial intelligence robots market is expected to grow at a CAGR of 20.38% in the forecast period of 2020 to 2027. Data Bridge Market Research report on artificial intelligence robots market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecasted period while providing their impacts on the market’s growth.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/06/17/artificial-intelligence-robots-market-is-in-huge-demand-google-inc-ibm-microsoft-corporation-general-vision-enlitic-inc/",
-      "originalUrl": "https://ksusentinel.com/2021/06/17/artificial-intelligence-robots-market-is-in-huge-demand-google-inc-ibm-microsoft-corporation-general-vision-enlitic-inc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

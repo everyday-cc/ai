@@ -113,6 +113,22 @@ related:
         width: 1500
         height: 1124
         isCached: true
+  - title: "Beach Bot Is An Autonomous Robot Combing The Beach To Collect Cigarette Butts"
+    excerpt: "Together with his fellow entrepreneur Martijn Lukaart, the boy’s father, Edwin Bos, created the Beach Bot, an autonomous robot that combs beaches looking for cigarette butts in the sand using artificial intelligence."
+    publishedDateTime: 2021-07-23T00:34:00Z
+    webUrl: "https://www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/"
+    ampWebUrl: "https://www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 56
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/07/Beachbot-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Machine Learning Software Market 2020-2026 | Microsoft, Ibm, Scikit-Learn, Google Cloud Tpu, Figure Eight"
     excerpt: "The research report of the global Machine Learning Software market has recently added by The Research Insights to its vast database Some of the recent advancements in technologies have been elaborated to get up to date knowledge of businesses There"
     publishedDateTime: 2021-07-21T05:27:00Z

@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Scientists adopt deep learning for multi-object tracking"
-excerpt: "Researchers have adapted deep learning techniques in a multi-object tracking framework, overcoming short-term occlusion and achieving remarkable performance without sacrificing computational speed."
-publishedDateTime: 2021-07-19T19:44:00Z
+excerpt: "Scientists adopt deep learning for multi-object tracking Their novel framework achieves state-of-the-art performance without sacrificing efficiency in public surveillance tasks Date: July 19, 2021 ..."
+publishedDateTime: 2021-07-19T20:29:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2021/07/210719110534.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/07/210719110534.htm"
 type: article
@@ -54,6 +54,6 @@ related:
         height: 420
         isCached: true
 
-secured: "qmeWGwQXnrz5REI2ok7etEm6mKRaRuXSmhrohbPJThxoYVL6rQ50MJNxMDMWwQVT3OkNzdPkK6eVRZI4F1Qx5CNeDaLpE0XcJZh5yq+mufWrHnfpo8xoddsarTB2D4jrUzdqsO85XE0lQJLpv4mm/tf8fgjSs42rxT5y0COLTDhwvndIyYjUfAaoBL4i4e5akZdOP9ap/XN1lX22gVzJfGRO2+Pj4ubUjyKa+YRaDgAEYkjuvAhWQvUgmkCviLexWOW0I6NuVlTDRIxa3Byo3nyLauBLOYgzQNGzEg6LVFwNR73m+nNDmidWBNibOLnS1H7AKbxn2+a8563OwdBvQbVXwSv89YFR2EyCqEUS9AQ=;v2umd56m142bKfW7jib+4w=="
+secured: "Tu2htM+lKbbegmyRHTUJq0CD+SCEbcFweec+cvJ1LE5KVk4B9vPyEY389JSqDZ4koDhN5n8DfvasopcZJ0m513v96WhiYOSK11W08Q83XPuNos5N5O8eaWVottiG5nukGL5eiBfujJ1WnTjWYPccaO+CUmPSyLSCSomIGaitm1pgceAPGM4iLEhvCWyQxlfaFXUl8Jx+prtUvIlUHK0/EyqUJnxXk8u8RXVodIrWmetLcNMhfU7Em7uRun8wDX0RVf5OT/8a1n2Ams4F3E5Kw3O1ITGzT2+K9ZcA6wxej2gzRtLKpktsaOzIxUQ2Dw2M9N1abJ1vR4CYaRRpb8dmGh1sj6Gez4O02QrSqWr9t3I=;y+/23etgRISlFPT8WPKT3Q=="
 ---
 

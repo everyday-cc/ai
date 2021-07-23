@@ -149,7 +149,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/microsoft-autonomous-beach-cleaning-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1105,19 +1105,19 @@
     {
       "path": "_news/2021-07-12-d2iq-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "D2iQ Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including",
+      "excerpt": "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook",
-          "width": 2161,
-          "height": 1130,
+          "url": "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg",
+          "width": 400,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1127,11 +1127,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T06:03:00-07:00",
+      "publishedDateTime": "2021-07-12T06:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1201,24 +1201,33 @@
     {
       "path": "_news/2021-07-09-insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments.md",
       "title": "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments",
-      "excerpt": "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year.",
+      "excerpt": "Insight leverages its deep data and analytics capability to help clients achieve a cohesive, single source of truth for data to promote self-service, agile reporting and/or embarking on innovation leveraging Azure Machine Learning and AI. Insight's cadre ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/07/b21917835/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/b21917835/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T09:07:00-07:00",
+      "publishedDateTime": "2021-07-09T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/21/how-pinterest-built-a-more-repres
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/how-pinterest-built-a-more-representative-shopping-experience-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 605
     isCached: true
-
-related:
-  - title: "How Mobile Commerce App Delivers a More Engaging Shopping Experience Through AR?"
-    excerpt: "The use of augmented reality (AR) in the retail space has already become too popular to deliver an engaging shopping experience. The promise of immersive experience apart, Augmented Reality (AR) continues to ensure real-time interactions between real-life and digital presentations."
-    publishedDateTime: 2021-07-18T07:40:00Z
-    webUrl: "https://customerthink.com/how-mobile-commerce-app-delivers-a-more-engaging-shopping-experience-through-ar/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 19
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/augmented-reality-cyber-glasses-4685057_1280-pixabay.jpg"
-        width: 1093
-        height: 615
-        isCached: true
 
 secured: "53LtSCQ1QjBWewI3HiAbSLQPiMRuMj3C2UguKZCAjuUXO2FM6CYw5k22Tt3BkHTkIDSge85Y54w4RwnPsJkeBZnjTOZgiHQZIhG8MEOAc5QcfY1lGoCu/JA0DhBkFwEgxRkk+Uf4H9K084RK9KjDWbWuxSvjw95+y8ne7tKQBb8TG6UcJ2DVZ8OVUgZ6ZbxgvlpCmXuEX+Sgs/wWvO5Iw1L23AAZiEeaLLuDNPmJAAPOMVYQDL2BDppV1Q6pgrb9Df9uOGzDxWHGp6/IHmdADnEcjqzSJXMcA3v4VgppLcKRedEW8HAnUkNbuyA1rOHSOZAARAUsh8mq3S60VMK9tmihIiaGuryOibFWqfLH6zU=;zmtSSqAHLWAhnziu98lXtQ=="
 ---

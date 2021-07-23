@@ -107,22 +107,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Tesla launches full self driving subscriptions at $199 a month"
-    excerpt: "To date, Tesla offered the Full Self-Driving package for a one-time payment of $10,000. Tesla owners can cancel their monthly FSD subscription at any time, according to the website. According to Electrek,"
-    publishedDateTime: 2021-07-18T08:32:00Z
-    webUrl: "https://gulfnews.com/business/tesla-launches-full-self-driving-subscriptions-at-199-a-month-1.1626597178223"
-    ampWebUrl: "https://gulfnews.com/amp/business/tesla-launches-full-self-driving-subscriptions-at-199-a-month-1.1626597178223"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/tesla-launches-full-self-driving-subscriptions-at-199-a-month-1.1626597178223"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 74
-    images:
-      - url: "https://imagevars.gulfnews.com/2016/1/8/1_16a0803c500.1650250_2604346981_16a0803c500_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "Tesla Full Self Driving subscription launches — and it costs $199 a month"
     excerpt: "If you fancy getting your hands on a Tesla with the ‘Full Self Driving’ add-on, but don’t have $10,000 to spend all in one go, you’re in luck. Because Tesla is offering it as a $199 monthly subscription."
     publishedDateTime: 2021-07-19T11:12:00Z
@@ -308,6 +292,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/bkgdXULVBEKJ8JGU2FDv8b-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Lawsuit accusing Tesla of false advertising on its full-self driving technology"
+    excerpt: "Santa Barbara brothers accuse Tesla of false advertising of claiming that the Model S purchased in 2016 is fully autonomous."
+    publishedDateTime: 2021-07-23T01:45:00Z
+    webUrl: "https://techstory.in/lawsuit-accusing-tesla-of-false-advertising-on-its-full-self-driving-technology/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 50
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/07/tesla_autopilot.jpg"
+        width: 1200
+        height: 817
         isCached: true
   - title: "Tesla’s Smart Summon feature is currently a fun-trick of Full-Self Driving suite"
     excerpt: "Elon Musk tweeted that the current Tesla's smart summon feature is only a fun trick and is yet to be a useful feature in upcoming updates."

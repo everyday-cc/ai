@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-experience/personalization-across-ch
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/personalization-across-channels-start-with-an-outside-in-perspective/amp/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "Unlock information in unstructured text to personalize product and content recommendations with Amazon Personalize"
-    excerpt: "Amazon Personalize now enables you to tap into the information trapped in product descriptions, product reviews, movie synopses, or other unstructured text and use it when generating personalized recommendations. Product descriptions provide important information about the features and benefits of products."
-    publishedDateTime: 2021-07-19T18:43:08Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/unlock-information-in-unstructured-text-to-personalize-product-and-content-recommendations-with-amazon-personalize/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 67
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
 
 secured: "YeQUumV7U8Je7z8OVRi/4RSCJ1s15bTtZz90rF6B+lTJmYB1g6t1pXrpBPrItBdsQUv/HBBALlld0ktLuxu3F/J8amhLpwcc9Qf84Zrpere+4pXnJQzkY+iX1oO53MwfdRKGgCtxxXr0kucvFAW25Dgi5z8fTsdwI6uwo6hFVkUQm4PcUbHT9Jcey8XJ6Xw9mzi2p5BlBYy90EfQTFI6WVXCDTu9zPlliXbplgHo6wLMT8fkMGXszNOgxaVWRPojJvVl3/wXZHzW0g7JYcleWiGkiasHOZ7uKNlBtWyHnLVbXVDG4LPCYyTEX8BqJP2SJv0yxp6Ewz1YUJ1QFzbmP8O2n1SUPUVVTn48LvUCHfOdUSKjzPxQL2pWXQSepxWA4ZneBAe68kl1X4QrJdR6xzpx29dnWBfos8KscWAABdIFxjU7kezQfyMRSTYq1c3k+Nm4fHP6o59gzYPj6Q1ePpWooH+WcIfe49zdOgYsOpTBT5tTOijL7JG2xGuvfmwF9RsOAISazMYJy3Y/vhvkdA==;cOxTEX7XKIYILubN+Oc1zA=="
 ---

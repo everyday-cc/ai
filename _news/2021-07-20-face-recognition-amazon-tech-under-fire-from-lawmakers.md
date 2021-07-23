@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automate annotation of image training data with Amazon Rekognition"
+    excerpt: "Every machine learning (ML) model demands data to train it. If your model isn’t predicting Titanic survival or iris species, then acquiring a dataset might be one of the most time-consuming parts of your model-building process—second only to data cleaning. What data cleaning looks like varies from dataset"
+    publishedDateTime: 2021-07-23T00:05:01Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-annotation-of-image-training-data-with-amazon-rekognition/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 121
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/14/ml3998-image001.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Simplify data annotation and model training tasks with Amazon Rekognition Custom Labels"
     excerpt: "For a supervised machine learning (ML) problem, labels are values expected to be learned and predicted by a model. To obtain accurate labels, ML practitioners can either record them in real time or conduct offline data annotation, which are activities that assign labels to the dataset based on human"
     publishedDateTime: 2021-07-21T22:24:52Z
@@ -69,19 +83,35 @@ related:
         width: 797
         height: 630
         isCached: true
-  - title: "Use contextual information and third party data to improve your recommendations"
-    excerpt: "Have you noticed that your shopping preferences are influenced by the weather? For example, on hot days would you rather drink a lemonade vs. a hot coffee? Customers from consumer-packaged goods (CPG) and retail industries wanted to better understand how weather conditions like temperature and rain can"
-    publishedDateTime: 2021-07-20T19:17:01Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-contextual-information-and-third-party-data-to-improve-your-recommendations/"
+  - title: "What are the dangers of facial recognition?"
+    excerpt: "Robert Williams was wrongfully arrested after a facial recognition system failed to identify the correct culprit. Mr. Williams is seeking justice in a civil rights lawsuit."
+    publishedDateTime: 2021-07-18T19:08:00Z
+    webUrl: "https://www.msnbc.com/the-sunday-show/watch/what-are-the-dangers-of-facial-recognition-116981317527"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo116981317527"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo116981317527"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 70
+      name: MSNBC
+      domain: msnbc.com
+    quality: 59
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/30/ML-2080-image02.jpg"
-        width: 443
-        height: 281
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626635161004_n_capehart_facial_recognition_211807_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Facial Recognition Is Watching You"
+    excerpt: "The Boston-based Fight for the Future advocacy organization is trying to put pressure on private businesses to swear off any form of facial recognition."
+    publishedDateTime: 2021-07-19T14:14:00Z
+    webUrl: "https://safehaven.com/tech/tech-news/Facial-Recognition-Is-Watching-You.html"
+    type: article
+    provider:
+      name: Safehaven
+      domain: safehaven.com
+    quality: 41
+    images:
+      - url: "https://d2t794khe5w43b.cloudfront.net/article/718x300/fb18666381bc6df1c15ed694514302fc.jpg"
+        width: 718
+        height: 300
         isCached: true
   - title: "Facial Recognition Tech Opposition Increases"
     excerpt: "As more stores install facial recognition software to reduce theft and increase security, opposition to the technology is growing, Axios reports. Recently, more than 30 advocacy organizations started a campaign to get retailers to halt usage of facial recognition technology or to agree not to use it."
@@ -97,15 +127,15 @@ related:
         width: 770
         height: 320
         isCached: true
-  - title: "Financial Use Cases for Named Entity Recognition (NER)"
-    excerpt: "Today, financial professionals are looking towards artificial intelligence (AI) solutions to help them spend less time on data discovery and more time acting on the insights from data. One of the tools in the AI arsenal is named entity recognition (NER)."
-    publishedDateTime: 2021-07-21T14:25:00Z
-    webUrl: "https://www.publicnow.com/view/8DFA2C232E5E53417FCB0C16111F9821003B36B3"
+  - title: "The Cognitive Psychology of Rules of Interpretation in International Law"
+    excerpt: "While Articles 31 and 32 of the Vienna Convention on the Law of Treaties (VCLT) prescribe the rules of interpretation for international treaty law as “disciplining rules,” the rules of interpretation themselves are understudied from a cognitive ..."
+    publishedDateTime: 2021-07-20T12:48:00Z
+    webUrl: "https://www.cambridge.org/core/journals/american-journal-of-international-law/article/cognitive-psychology-of-rules-of-interpretation-in-international-law/07C298A6A5E1D7864F4A10EC4F09CAFE"
     type: article
     provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 6
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 3
 
 secured: "BknZUQGT7Af+teZg8yhIG2NWfLJo4AJUoNxQg1u6uNbkei9RGBkPSPdKGAO4NAtLNfBrlaceC6kKMBQW9reZfXgFPjRfea6l3F5VQI5b1C5KJrL8fEiqbDRnNbxhn50yR6ggDZ+BGb0AawNuuF3okvpF7i32vQDSD8I4KfRKejSxryr1ebtGABEDGx7GHSrYcoE0olGfLOV425c1ToGXDwqpKLZWP6OkjBlr/YZwLXNjQf0RXBjItR/9FdXqYQuaCzuU6XNaYORXojGaxLeaNHslDq0YQHnGMVWSXDa4GjslRVWmhPJbhwgVjxxv/U9UvZfePZ0XFJEJ2Lz4IcMh6aZwsLhChvLWEq2W7C19j1c=;9cUGlCDQapv+9KmR1pJEBg=="
 ---
