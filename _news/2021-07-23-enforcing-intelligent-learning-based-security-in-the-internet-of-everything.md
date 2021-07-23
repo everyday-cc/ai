@@ -1,23 +1,23 @@
 ---
 category: news
-title: "Lambda Raises $24.5M to Build GPU Cloud and Deep Learning Hardware"
-excerpt: "Lambda, a leading provider of deep learning GPU cloud services and computing hardware, today announced that it has raised $24.5M in financing. Primary investors include 1517, Gradient Ventures, Bloomberg ( News - Alert) Beta,"
-publishedDateTime: 2021-07-21T13:49:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-lambda-raises-245m-build-gpu-cloud-deep-learning-/2021/07/21/9414045.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-lambda-raises-245m-build-gpu-cloud-deep-learning-/2021/07/21/9414045.htm"
+title: "Enforcing Intelligent Learning-Based Security in the Internet of Everything"
+excerpt: "The exponential growth of the Internet of Everything (IoE), in recent times, has revealed many underlying security vulnerabilities of the nodes forming IoE networks. The extension of conventional security protocol to these devices has been greatly complicated by the prevalence of restricted computational hardware and limited battery life."
+publishedDateTime: 2021-07-23T05:49:00Z
+originalUrl: "https://ieeexplore.ieee.org/document/9490314"
+webUrl: "https://ieeexplore.ieee.org/document/9490314"
 type: article
-quality: 51
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: IEEE
+  domain: ieee.org
 
 topics:
   - Machine Learning
   - AI
-  - AI Hardware
+  - AI in Security
 
 related:
   - title: "Fero Labs Raises $9 Million in Series A Financing to Bring Explainable Machine Learning to Industrial Manufacturing"
@@ -34,6 +34,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Lambda Raises $24.5M to Build GPU Cloud and Deep Learning Hardware"
+    excerpt: "Lambda, a leading provider of deep learning GPU cloud services and computing hardware, today announced that it has raised $24.5M in financing. Primary investors include 1517, Gradient Ventures, Bloomberg ( News - Alert) Beta,"
+    publishedDateTime: 2021-07-21T13:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-lambda-raises-245m-build-gpu-cloud-deep-learning-/2021/07/21/9414045.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 51
   - title: "Artificial Intelligence in Food Manufacturing: Making the Most of Your Data, Upcoming Webinar Hosted by Xtalks"
     excerpt: "SparkCognition explains how manufacturers can leverage the benefits of artificial intelligence (AI) and machine learning (ML) to drive operational excellence and attain competitive advantage."
     publishedDateTime: 2021-07-19T18:10:00Z
@@ -48,16 +57,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Enforcing Intelligent Learning-Based Security in the Internet of Everything"
-    excerpt: "The exponential growth of the Internet of Everything (IoE), in recent times, has revealed many underlying security vulnerabilities of the nodes forming IoE networks. The extension of conventional security protocol to these devices has been greatly complicated by the prevalence of restricted computational hardware and limited battery life."
-    publishedDateTime: 2021-07-23T05:49:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9490314"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 19
 
-secured: "/IbTVkOuEh9EoOK1cJ2vTz8dn7MI9zJCFJRP1rWvQkHwr8RNy5mETF+CY7+M69Gmpbv8b6CJSeS+PEgMg+NFEF5uwzemS/Q64zaN5AyVIHii1w+yEweDgkL+vDMp3zT4ebq9saHjKwGBNUtAYrNZQdCjux0zyjQHiqOzl5eFPVTnMjlm5O5+NY/gCtpuZP15dvsLHd4rxzF46W32B1cjd5ZRlSHmIjQz+kGsBuytXEaf9pNHE9gRsmIO5SeQ9wMh6skRcUPA6RiukZnqur/0eTIiJ4cgTOUrrwOmrel+UyFY7N22gVT275vftb6Q4QTnhsa505VTa3TBsnpsesoiaLPa26LJAE+f64WGy3BXg5A=;ylmaJHT2d92YIeBPar2yMQ=="
+secured: "/WKt4w6l0ySUIrGPrhI1Ofokfwx2lpiG+UQiJM1utt8He+lJ3VVq6JcM4pT0Sj7dkQkjN526pXfJ/dxCQ0uCBm63NP2LCK7dtgsaXj+eqvOJsy+bx2Ss7LZRIlUbBjMgz0/+kg4a0l7t+bWq8iptqNJfFp6+al2yWTYaS2v7i1DmCVLmzVEj2XWNZV6XaAd553by6I36GyMtG87ay9ApduQNxByL4IhfDo5fgCHmks5e/sbrAWc9n3dvfPqPwX0s9Yp6UKZ+JAADO7tpeHZgigAaCOITElbQGoclRuVeuhGXCqyYr3WCT6L70zEA0mjqYY3I5+fHDmm6fBmfhqdijj/6Wo597CoLyasBH/q2LKQ=;tUjSt5nG/3fs1iWE8fkgoA=="
 ---
 

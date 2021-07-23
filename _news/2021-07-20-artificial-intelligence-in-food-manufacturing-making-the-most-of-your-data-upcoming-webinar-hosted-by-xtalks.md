@@ -48,6 +48,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
+  - title: "Enforcing Intelligent Learning-Based Security in the Internet of Everything"
+    excerpt: "The exponential growth of the Internet of Everything (IoE), in recent times, has revealed many underlying security vulnerabilities of the nodes forming IoE networks. The extension of conventional security protocol to these devices has been greatly complicated by the prevalence of restricted computational hardware and limited battery life."
+    publishedDateTime: 2021-07-23T05:49:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9490314"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 19
 
 secured: "9mJU1S8R2ixkytnoh6ecglt3QpqpdDsT5JpMBf5GsTrp/AtwRQtOmOSR9hPbo2YT3EcyI7exjarH48snqZCqgEPFeovVJaB46cps9t8TK+GUuJUtiP5cOaVvIFjLRE5yvpt9FKABhSZEwmBnt7kHoR41xZcm2GEjcNXXw7qb7XonkW09jSIDoQkJaJxQTYZI92+eDjGQzCYhOnfpmwWEYj7ga+CM1AOI46UVVX97wPUjfXtvsA7jP6CWrEoaLc78sP+g+CpAbXahTR1uDYSindNJzGqCN5AeUTdKx8L3JEE7+Ycimc/b4Zl7B30DNnQPo/hQnoLgY3pxWFpCPDf8LxNdcD7L/XSG8NJfUfKdPAc=;bIN1htSAm4w76OMtmIwf2Q=="
 ---

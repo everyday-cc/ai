@@ -3,8 +3,8 @@ category: news
 title: "Call Involving Man Covered In His Own Feces Earns Wood-Ridge Officers Statewide Recognition"
 excerpt: "The Wood-Ridge officers who responded to a call involving unwanted party the night of Nov. 19, 2020 had every right to use force.The 41-year-old subject had just smeared his own feces on his ex-girlfriend's home,"
 publishedDateTime: 2021-07-22T16:00:00Z
-originalUrl: "https://dailyvoice.com/new-jersey/ridgefieldpark/police-fire/call-involving-man-covered-in-his-own-feces-earns-wood-ridge-officers-statewide-recognition/813162/"
-webUrl: "https://dailyvoice.com/new-jersey/ridgefieldpark/police-fire/call-involving-man-covered-in-his-own-feces-earns-wood-ridge-officers-statewide-recognition/813162/"
+originalUrl: "https://dailyvoice.com/new-jersey/hackensack/police-fire/call-involving-man-covered-in-his-own-feces-earns-wood-ridge-officers-statewide-recognition/813162/"
+webUrl: "https://dailyvoice.com/new-jersey/hackensack/police-fire/call-involving-man-covered-in-his-own-feces-earns-wood-ridge-officers-statewide-recognition/813162/"
 type: article
 quality: 14
 heat: 14
@@ -24,6 +24,6 @@ images:
     height: 380
     isCached: true
 
-secured: "fiei96KiYVuHwIZHeu+4XzNo1MlU4qwAFxNteixj/RnS+/hJJ6ZeHdLQ2ehGCtBg1rjozpc/Yw8DrGxjOxvrRZZ9W4eAVgsFKlBWG+bIAlmPU4+PeZ6Tb8VhHVbvHiR/P6eU61cq5pgmJFAxMtYTmsgCB841fLkZuWa74mcVhoyM1njy+wofKGv6O9RIIS5JsqKhXoHgmgXhd0oZwSC4F/3GG3TfzjY5EG8K2ZZp+4EsgEvINduXZH6rIgVlD8Bn3UiKJyYMl2qDIGYBjilluw6eM6AxWFjPcAfJ46c3/35B3llG547uhfl+vZKjJy6RD9I/jKPn5q2p2udPZRSzKRsbbXCf4QQTJPBXJSl0LVuVnxqb7QIN5SCAB0j56heVP1zu9CBZVzjivGnVwLuNBI7D6nUMEJMddLcHD6bwzw4Sz9TNwuqa01gYhgQCG2BjkcqVgq6Dn7852r5QP+57buHfMklYtAyS+CBACTnRuj2w9BZC45m+fVy3nCFERcAFfFBICLnWGCgLlbOGe4SlHg==;xfU91ysxL1Fad2UEBNGknQ=="
+secured: "yykyuoQPnwFQptQfJycLiL2wbUY0A83T1daxXOhnrTZYt2fxnT1iLMpxeeVp2/psHAEyRTOg9NPMt9F4V5NKzeCsuPxfrRXBj4NQ5kA/10P0y86Niaq9KEWMajnMWwRWgdnn3t62xyoZQLx6iUxDHSGQ+Nla7WBgz+EwfY1Hl4jPntRxMz5QJTmiKwGlob7jtXV26dSeyj04EYBLFCxgRRHWSZMOpC0yGH43G/itv8S30LbqI9PEvKLCdrrc6CJugp8y+4zVLuyPoTTSAZ873QLbflziJoncetXcf4/cKUwokQ5QR503CqpeO1ce11+O9MKoopGl898bz3tubyS79la3J+T1nG1CBC21m+mGnik=;ZjLmbWmsVSbI95WsnFhnbQ=="
 ---
 

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Blue Ocean Smart System to Introduce Chiplet based, high-performance, low-power AI chips"
-excerpt: "Founded in 2019, Blue Ocean Smart System was established with a deeply experienced technical team in broad fields such as GPU, NPU, multimedia ... range of highly computational and energy-efficient AI training and inference applications with a flexible ..."
-publishedDateTime: 2021-07-12T09:34:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210712cn39857/blue-ocean-smart-system-to-introduce-chiplet-based-high-performance-low-power-ai-chips"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210712cn39857/blue-ocean-smart-system-to-introduce-chiplet-based-high-performance-low-power-ai-chips"
+excerpt: "Blue Ocean Smart System – the leading Chiplet based technology developer in the post-Moore's Law era for large-scale computing, energy efficient applications, today jointly launched as a founding member,"
+publishedDateTime: 2021-07-12T08:54:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-blue-ocean-smart-system-introduce-chiplet-based-high-/2021/07/12/9406356.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-blue-ocean-smart-system-introduce-chiplet-based-high-/2021/07/12/9406356.htm"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "VxSe6k3Uh1F2TJZAo+nElwLTKIPMQKD74eKrdofKMZj6W0x3bU7hf3qVKTwyKhNWCrofBIFYqCsIZ8zHJol9+pWl7goGTH9CITxoHwp++ryxs8Qjv4QdBBGDYITyZjtY0ckoi9ii5YRIhSJHlpNlGy5whptl6kAWhx9Xq2DNj2qq85kTbftwaen0Dgb9T4Av9HTaHEbir6YqZjR5iUjnUYrQMB5FFg4+nsGmCNpfVhEyivn8rLQG7objoV0gwxLZBk44rPou28NRod61ljYjNbjxnulpdOPvY4H+/OkmPnkdFI14yTUH4pwGKX/I91q0oCpZyRReyaexL/2ngm+SdtTnUKnG3N6snYI9zvGSghM=;g1pmRpH9TbJMX1Tc1hlCGw=="
+secured: "/Kssa1xLiKk/50+yeW5w6Ram5jtXvsRnin2fOdFhg/hIB40beEU4XCYnnKjJOO3Q+1wvIRqhdqU2Tc81RzpbPsPDKri1qJWlYg1HxarCYAYmmvN/ZmpyJBx7Zd+bDOaGVLOqdSti45kds2HSbzql5U9bBpY/oE5bYEVByldr58214r1uv/sLLYEjlUJcrOnC8yo1+aKwgSFgeqXvRMN/5ZT3ILQkAt3VBkjvokr5blEksBg8/o88gpdQ5ZHcZ88DqyFxXsWj7Ftv5Q/XaYcnYoHEDwYW8ZPJBE0rduiTnyE6Sn1p8xwPrB6hWhOZOG1PwCon1SRV8p7k7yaoB5CT8pRPy9+hhpzd0zk9PbhRoO0=;QhtvnnBUXCXPDbhp4y+onw=="
 ---
 

@@ -337,20 +337,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Tesla to now offer monthly self-driving subscriptions"
-    excerpt: "American electric vehicle and clean energy company Tesla has now started offering a monthly subscription for its Full Self Driving package for USD 199 per month"
-    publishedDateTime: 2021-07-18T11:36:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270346234/tesla-to-now-offer-monthly-self-driving-subscriptions"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1626608118.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "2022 Audi RS 3, BMW ZBF 7er, Tesla Full Self-Driving: Today's Car News"
     excerpt: "Comment Now! Audi has revealed its redesigned RS 3 compact performance sedan. The new car represents only an evolution of its predecessor, but"
     publishedDateTime: 2021-07-19T15:00:00Z
