@@ -24,6 +24,22 @@ images:
     height: 414
     isCached: true
 
+related:
+  - title: "IBM Watson Health’s stumble and possible fall"
+    excerpt: "Telehealth and Telecare News since 2005"
+    publishedDateTime: 2021-07-21T02:19:00Z
+    webUrl: "https://telecareaware.com/ibm-watson-healths-stumble-and-possible-fall/"
+    type: article
+    provider:
+      name: telecareaware.com
+      domain: telecareaware.com
+    quality: 39
+    images:
+      - url: "https://ta-images.s3.amazonaws.com/images/tta-fb-opengraph-450x450.png"
+        width: 450
+        height: 450
+        isCached: true
+
 secured: "OZr3bHJIjGsRIUKTFaneulYwW8TFnm1HgCYEXCspzNcVjMcK0zYycY5342346BK+KQrdmyDFsB12iSGNkaknkZqLqa1y12DUAAZ4RIV+44/uoaY0a4OEXgRBOGZNUEpi3TJd5wxNIJv/XGo78xibHg1LrLfB0TVPqPk2V5tgv/yQJXIXb/pRgwCAf+30aBktj0NhD5MU9ny757lf7gEiPVEO6bWzspaWeC1ywVmM4AW3JjFU3CTSHTRFNmshK4AKb6uPhYFg6Jli95DgKtF5d1r8f4Rt1566NhUNxcMHlF2nSc9LadP/jYFkLn8tyDhxmF5itovcFC/g5PzIrIXv5WhNFt23UQIRXEk6GYfuoIT91Bn61vNEbD7hGmledSBNXVsgQknTJ2UKQtLMYa3PkONB+ZLIy1MgeGhR29YYcoUjHFRQNKp/n3kYLNOyGke9uAUgY69Hqc1Ygjen3cWe40XR6fBrsd1KIyMxKkf4rXluaZOZKSLVpynWzf7lPLcCV43GRRFEruPdHxYK2gA4JA==;oUCHNqy/u3bSh35zyerjnw=="
 ---
 

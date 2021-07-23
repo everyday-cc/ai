@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Employee recognition: How to get it right"
+    excerpt: "Employee recognition is one of the simplest and most cost-effective strategies to boosting motivation and productivity in the workplace. So why is so often underutilised? New research by Achievers has identified a sizeable disconnect between how successful managers see their company’s recognition strategies to be and the experience of employees on the ground."
+    publishedDateTime: 2021-07-23T16:25:00Z
+    webUrl: "https://www.hcamag.com/au/news/general/employee-recognition-how-to-get-it-right/292293"
+    type: article
+    provider:
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 24
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/037/0292_637626543466633567.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Voice Recognition Biometrics Market to Eyewitness Massive Growth by 2028: AGNITIO, Nuance Communications, VoiceTrust"
     excerpt: "JCMR recently broadcasted a new study in its database that highlights the in depth market analysis with future prospects of Voice Recognition Biometrics market The study covers significant data which makes the research document a handy resource for managers industry"
     publishedDateTime: 2021-07-20T04:36:00Z

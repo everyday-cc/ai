@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/"
 type: article
 quality: 104
-heat: 374
+heat: 384
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/05H6ijajY6h7rmxSpwZynSX-1.1626894805.fit_lim.size_1200x630.jpg"
         width: 1121
         height: 630
+        isCached: true
+  - title: "Robots take the wheel: Lyft to offer driverless rides in Austin next year"
+    excerpt: "Austin will be one of the first markets to offer autonomous ride-hailing options through a partnership between Lyft, Ford and Argo AI."
+    publishedDateTime: 2021-07-23T16:00:00Z
+    webUrl: "https://www.statesman.com/story/business/2021/07/23/robots-take-wheel-lyft-offer-driverless-rides-austin-next-year/8058042002/"
+    ampWebUrl: "https://amp.statesman.com/amp/8058042002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8058042002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/22/NAAS/def4af00-1044-45e0-8c46-e92a92bca497-Lyft-Argo-Ford_AV_Escape_Hybrid_02.jpg?auto=webp&crop=7359,4140,x0,y376&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Ford, Argo AI launching self-driving Lyft service in Miami this year"
     excerpt: "Ford-owned Argo AI will launch a self-driving ride-hailing service with Lyft in Miami this year. Austin, Tex., will be added in 2022."

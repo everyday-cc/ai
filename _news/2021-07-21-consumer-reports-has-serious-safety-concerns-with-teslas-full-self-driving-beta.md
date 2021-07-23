@@ -37,6 +37,22 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Tesla Full Self-Driving explained: Its capabilities, cost and puzzling over-promise"
+    excerpt: "Perhaps the most overly optimistic technology in all of the auto industry is Tesla's Full Self-Driving package. No car for sale to the general public can do what that name says. Here's what it really does and how to get it on your Tesla."
+    publishedDateTime: 2021-07-23T17:06:00Z
+    webUrl: "https://www.cnet.com/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 98
+    images:
+      - url: "https://www.cnet.com/a/img/hTc2mT4Ktz7OJaDFafDjDPV8KhE=/2016/10/20/2d92b545-6e58-409b-b494-76c8511dfc32/tesla-self-driving-hardware-4.jpg"
+        width: 1590
+        height: 1200
+        isCached: true
   - title: "Tesla’s ‘Full Self Driving’ Push Is Okay In California—Because It’s Not Real Self-Driving"
     excerpt: "The company's admission that FSD is a Level 2 ADAS system means it doesn't need special approval to sell the feature in its biggest U.S. market."
     publishedDateTime: 2021-07-21T19:41:00Z
@@ -258,6 +274,22 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/tesla-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Visa Rebrand, Pandemic Optimism, Tesla Self-Driving Cars Top This Week’s News"
+    excerpt: "In this week’s news, we saw Apple Pay Later loom as a threat to card issuers, and Visa’s rebrand is about being a global acceptance network."
+    publishedDateTime: 2021-07-23T17:00:00Z
+    webUrl: "https://www.pymnts.com/the-weekender/2021/visa-rebrand-pandemic-optimism-tesla-self-driving-cars/"
+    ampWebUrl: "https://www.pymnts.com/the-weekender/2021/visa-rebrand-pandemic-optimism-tesla-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/the-weekender/2021/visa-rebrand-pandemic-optimism-tesla-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 56
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/the-weekender-457x257.png"
+        width: 457
+        height: 257
         isCached: true
   - title: "Tesla makes Full Self-Driving available as $199 monthly subscription"
     excerpt: "Tesla is making its pricey Full Self-Driving (FSD) electronic driver-assist feature available as a subscription. FSD is being offered as a $199 monthly subscription for cars equipped with Basic Autopilot and $99 when Enhanced Autopilot is equipped."

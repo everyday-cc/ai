@@ -7,7 +7,7 @@ originalUrl: "https://www.commondreams.org/views/2021/07/21/flawed-facial-recogn
 webUrl: "https://www.commondreams.org/views/2021/07/21/flawed-facial-recognition-i-did-nothing-wrong-i-was-arrested-anyway"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,49 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Fail Spurs Bid to Ban It From Police Cameras"
-    excerpt: "One such lawmaker was Assemblyman Phil Ting, D-San Francisco, was matched with a mug shot by Amazon’s facial recognition software called Rekognition despite never having been arrested. “This is a demonstration that this software is not ready for ..."
-    publishedDateTime: 2021-07-19T00:00:00Z
-    webUrl: "https://www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/"
-    ampWebUrl: "https://www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/amp/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/amp/"
+  - title: "Successful Ofqual Recognition: Top 10 Words of Wisdom"
+    excerpt: "On 4 August 2020, the Institute for Apprenticeships and Technical Education (@IFATEched), announced the transfer of the #EQA of end-point assessment to @Ofqual, or, for integrated higher and degree apprenticeships,"
+    publishedDateTime: 2021-07-20T06:21:00Z
+    webUrl: "https://www.fenews.co.uk/fevoices/72887-sharing-ofqual-recognition-experiences-to-help-other-epaos"
     type: article
     provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 76
+      name: fenews.co.uk
+      domain: fenews.co.uk
+    quality: 24
     images:
-      - url: "http://courthousenewswebsite.kinsta.cloud/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "Police remove 218,000 photos from facial recognition database"
-    excerpt: "Dutch police said on Friday they had removed 218,000 photos from their facial recognition database last year, although it is unclear how many separate people that figure involves. The police are supposed to remove the photos of people who are no longer considered suspects in a case or have been found not guilty by the courts."
-    publishedDateTime: 2021-07-23T08:40:00Z
-    webUrl: "https://www.dutchnews.nl/news/2021/07/police-remove-218000-photos-from-facial-recognition-database/"
-    type: article
-    provider:
-      name: DutchNews.NL
-      domain: dutchnews.nl
-    quality: 39
-    images:
-      - url: "https://www.dutchnews.nl/wpcms/wp-content/uploads/2021/07/Depositphotos_42356597_s-2019.jpg"
-        width: 1000
-        height: 687
-        isCached: true
-  - title: "Police removed 218,000 photos from facial recognition database last year"
-    excerpt: "The Dutch police removed over 218 thousand photos from its facial recognition database last year, the National Unit announced with the annual figures for 2020. This is the first time the police gave any indication of the number of photos that were unjustly in the face database,"
-    publishedDateTime: 2021-07-23T08:00:00Z
-    webUrl: "https://nltimes.nl/2021/07/23/police-removed-218000-photos-facial-recognition-database-last-year"
-    type: article
-    provider:
-      name: NL Times
-      domain: nltimes.nl
-    quality: 38
-    images:
-      - url: "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full/public/2021-03/Depositphotos_160897874_l-2015.jpg?h=56d0ca2e"
-        width: 837
-        height: 462
+      - url: "https://www.fenews.co.uk/images/Fay_Edwards_FE_News.jpg"
+        width: 750
+        height: 570
         isCached: true
 
 secured: "agQ7hGRCb51lb9ouCRbrLfsXhqSRwDohWPwDb0agRyubZxrM+CQjdLKYWckfx5tY6sNMPM6HL75UdsW40/snK5lLkZbzwtmQmut4CUyc6fo4uUE4dTtVM0JwJ5GhgWKzlc73ow1JL4aKJfCcTqzkJ2JU2sgqaIdCS2OSQdREvyA2zf7UZzxxh3g/KHq4Apv2qFrek/JAOjv84VGowg3eeYsBrvZgoRzN3hB+IszRacL2ax5Kl23XbuMO+HtTGqZAI8Hq05SdmIBvG73Cuf7iSbN4FYhhWT9DaHHyz0PbAic//c1/MoKKz3nk7yn1diHdXqEsfhDTUiVVt3KnSmB1YQP10JABzTg9JKdg+E5p1W0=;lwmwaLW/cZol80juYchsAA=="

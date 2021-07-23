@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and IoT are Transforming Transport Management"
-    excerpt: "AI-powered IoT systems provide predictive analytics, playing a crucial role in running businesses more efficiently. Artificial intelligence (AI) and the Internet of Things (IoT) are both cutting-edge technologies that are starting to get traction in the world around us."
-    publishedDateTime: 2021-07-20T12:44:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/How-AI-and-IoT-are-Transforming-Transport-16326085.php"
+  - title: "Top 10 Artificial Intelligence Apps in the Market"
+    excerpt: "AI apps are being introduced on an everyay basis now in the market. Although only few of them have retained the mark of being the best. Here is the list."
+    publishedDateTime: 2021-07-23T17:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-apps-in-the-market/"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 37
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
     images:
-      - url: "https://s.hdnux.com/photos/01/21/05/41/21256305/3/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-3.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "zg20zspSE2olYRQEsm8MKNSLEMmh2vA2kX82ePw4tv1ODBJEhX2dgZBNonWPc3njGDDGyYyexw8wgX4ECtdUKEBajQa6ODJ9E5L3PluFYNikRuE1/spjEqClz12zNEWgYjBINEeI3D5Y01AK3jaBFM4BC8TiydeuhaOgPBiEJCwINmGMaHu3JlHrK3cngwQ+/JrqBR1NDNhO27SusPtJSI3AnG/eEM5Lo5Hd8gelFge63hSaHItkKBCrSksW6rOkIoIYB3dpSO6obHJrBOvXgyPkyk2WlSqxmhS/GdkaXkvjV8bB8dKjBxHexU6AEktkHtAkE69WtgKRFCsahRfnMC3RedgI8ljtZobkS8o0drc=;JYzzUb4NfRKe7PWud3k6kw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-u
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314/amp"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Judge permits prosecutors to use facial recognition to open accused Capitol rioter's laptop"
+    excerpt: "A federal judge in Washington, D.C., on Wednesday granted a Department of Justice request to place an accused U.S. Capitol rioter in front of his laptop to unlock the device with facial recognition."
+    publishedDateTime: 2021-07-23T15:56:00Z
+    webUrl: "https://www.abajournal.com/news/article/judge-permits-prosecutors-to-use-facial-recognition-to-open-accused-capitol-rioters-laptop"
+    type: article
+    provider:
+      name: ABA Journal
+      domain: abajournal.com
+    quality: 29
+    images:
+      - url: "https://www.abajournal.com/images/main_images/robot_typing_hands_laptop750px.png"
+        width: 750
+        height: 563
+        isCached: true
 
 secured: "N9829OeU8sJB2Uy97FWR40nEC29yw0WBi+I+BSB2fIpMv5ADLMhcOzKu3EzBv1QBGymnNOH3WhnEMeK+/5ZRedDtXsjdVqqg0i4OT42IwVMResGEAnlkm07FtVNPzoR/C765RB/yaBCHG67cBvReuCwKrdnVp8EXRhStFN2ivd3AtPv+2mZp0fmGv/OuMnbxlzRxL7k9y3hcGrZDgg86riAtJ+v3xx7XCQ1ekj+BBlNucJLUx2H8WO25uHpgw+MBwtJN80erD1Av9zbdYjDwJwU2cKtJ/taMZGm5XwDiLAv/tLLoDgkIv6StpjtrlGmGO46XZlFdK2zDi8Meg0gYOYKi1bkQQwvIffmDjPMx/hFaXtwjFyla2jFko9f8jntkbgdc+kPEAwbVxzNrTbQusvN30Q22BHNCDgVyTRF/LIV2dzTEkLG7u5cO/cB6Id3WaRNu29NNPs4WFpVcaJYQa0qwPI5HhlMEZ494V1aGu61IyNYFo+D4NmKGW7TdCQCZdAAPzqmZ3A9waCSiSmlA6g==;mWTGgHleuGQhNGp602fP3Q=="
 ---

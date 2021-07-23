@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
-excerpt: "Amazon HealthLake further structures the data and enables customers to easily use Amazon SageMaker machine learning ML models and Amazon QuickSight analytics, making it seamless for researchers ..."
-publishedDateTime: 2021-07-20T14:37:00Z
-originalUrl: "https://www.kpvi.com/news/national_news/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative/article_9406490f-dbe0-5939-9c06-8baac660b666.html"
-webUrl: "https://www.kpvi.com/news/national_news/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative/article_9406490f-dbe0-5939-9c06-8baac660b666.html"
+excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"
+publishedDateTime: 2021-07-20T14:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
+webUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: KPVI
-  domain: kpvi.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/a/10/a10dae4a-5cb6-11e9-9617-7ff25676eb6c/60fa05afb3bf2.image.png?resize=1920%2C1080"
-    width: 1920
-    height: 1080
+  - url: "https://mma.prnewswire.com/media/680972/Redox_Logo.jpg?p=facebook"
+    width: 902
+    height: 475
     isCached: true
 
 related:
@@ -97,6 +97,6 @@ related:
       domain: wfmz.com
     quality: 7
 
-secured: "tB+yqXO2/rmTuj9yakrgSeA7OezxdEWEYZOu76I2Q0kqvW8/rFUSySJEtmGdAiUFrMuoMOXZ0EhM+GEXBHwHvqU7pMtgC98z/DnyFcIeT34IE/C0L4Ce2DmF8Iihlu0VlK4dz0PPFE0K16A9ZBvdgvLfuZ2E1VA9+6hwc/LuEej1vGJS0utUP+Gkm8xGyQnoI6vT73A8qFBuJJRBjGCBhew1qx8+zypenQIbmP6DNim5OutoDq9OZYHNMh9B8WI+enaNlLs22Rgz8Qk2h/K3DiDdGBWcaRAqgoS1BvzYAfigbFEzgFheJB6SglUZqXtpyK2BW7aotULjqoxv6Z4pX3aW+TvOjKVrokzMY5ZBwvY=;9vKcOApIYHuzfCThiq9jqA=="
+secured: "vzXtoyXPH2aJKBMh7Jwktf+t3lh+SH+O01XsItJdQwP88775Hp3zz8L0r73AX5DFHEKXbYvOEgxIn5CwrlEq64aN72Nns4jYnNwUJjIbOehqCQEgVAAzYMfuwXzCC1uI/PoUEufswhTCMI9wR1I/B4n1x07OG+GPGZ3FZJ/4F4H2ZubpCTxUYhD8PwxWwiiuchdC88jPTaWpAAxLsO67ZHRCWozqE/zRqBhiBgGDePm8A+7cWrrlfrOmZ/xI9wAf6kk0UJ9JJXw1SDAEYnQ4z132x3JPLggIzaoLLTBcAfaaCmU/x9o4TKVXLIQ1QBlkANCtxI66Vl7e32OSwTTEdoZt0TJEgb24y0iJs0W4L+M=;BIinigh/EOTfeDB5GxRucw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/23/how-an-ai-entrepreneur-deals-with
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/23/how-an-ai-entrepreneur-deals-with-dirty-real-world-data/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 600
     isCached: true
 
-secured: "10MwMxmH/x79Dm14fbgpylto8CtDEnYXcanTMHHrCwB1xJuvU/e1uRdFaFHEXFXMOuNP6v394EJS+Vn60t/rxO+tJ9ChloW+HZG0pWwFyDuyI1+45sCFpMi+0rpa2vxhIqWoEzF39pnR2POdYmh3bBsTndTm9zcp2+CkdGsTB21ZEBHj/SXKzaNp0QiEE3vpxtG/Dl9LQePgyUopBEEYo9M7Kdj2b3LwPkAyWoocJUiSVK6tm7NYYjqoSNalD2xogMZCoi4MM5JKrNBxpmcPo5VmtsfTCDu2iF8/THHMiq4uBFk+eKSsckeslwJR8PT8v0qr6fPQaAl4ecRNRCSeVARDVoGyVdAAPdz4ukFzlQc=;7UkeAZW+mljJwb4i39eaww=="
+related:
+  - title: "How AI Will Transform Data Security"
+    excerpt: "Data security is changing along with the spread of technologies like artificial intelligence. Is AI better for attackers or defenders?"
+    publishedDateTime: 2021-07-23T16:00:00Z
+    webUrl: "https://securityintelligence.com/articles/how-artificial-intelligence-transform-data-security/"
+    type: article
+    provider:
+      name: Hack
+      domain: securityintelligence.com
+    quality: 54
+    images:
+      - url: "https://securityintelligence.com/wp-content/uploads/2021/07/Data-Security-2.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "en+pRN8+PlfSeXVY9NOnlePqF2LVZIj23wxcWKv5Uxx2laM9gjDyQWqzisloviT91KnNYFdbhv+dsKNW1p5w/25nNFRXbrSpjE7u9JnMGRO/MNqCOegIaM7vYi0sa37pRJEMKCPPC3xrwcr2ck/DgxllPf7hi+B32imOYgkh4idNPgk4AXGm4lpz8lkKxABJ0pEtzWD0ozgK/cADSGduw374MIrRrvxs5yEdvnYZaBcpHXASmbrYOTkxYIvdhAGfg0aD+xBGZzgOgmEYcb+cdaiID7FYb1ud1kRhMxZORxwGqS/XcvBcTlY4DXN50E4n8wv2oJBuZmhlXzDdqybyvf0/94nY/coDPhFF0gPP/CtdSnvLVhhuad8z0lJmhE1LiU5rt0B4fJKYrsFu1oM9LpMzE/6DEcCVJetIH1wQ19TFfEge8jvhZKTumGIMS1gfsaZpFeSEBSPhMjOAcswwKGS7EqFPHe9FaZH2VMAMSOc3Vjqk2o4J5cFQcfR1TfMOadicZKvAKGbHyzrizvnOHA==;4KrVw14r3US+XsYu2M/4+A=="
 ---
 

@@ -125,6 +125,22 @@ related:
         width: 1121
         height: 630
         isCached: true
+  - title: "Robots take the wheel: Lyft to offer driverless rides in Austin next year"
+    excerpt: "Austin will be one of the first markets to offer autonomous ride-hailing options through a partnership between Lyft, Ford and Argo AI."
+    publishedDateTime: 2021-07-23T16:00:00Z
+    webUrl: "https://www.statesman.com/story/business/2021/07/23/robots-take-wheel-lyft-offer-driverless-rides-austin-next-year/8058042002/"
+    ampWebUrl: "https://amp.statesman.com/amp/8058042002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8058042002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/22/NAAS/def4af00-1044-45e0-8c46-e92a92bca497-Lyft-Argo-Ford_AV_Escape_Hybrid_02.jpg?auto=webp&crop=7359,4140,x0,y376&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Lyft ditches Google Maps for Here, partners with Argo AI"
     excerpt: "The ride hailing company Lyft is changing up its maps. Until now, those have been powered by Google, but Lyft will now use Here instead. Lyft says that the switch means a better search database for places and addresses as well as more accurate predicted arrival times—two important things for a ride hailing company to get right."
     publishedDateTime: 2021-07-21T13:49:00Z

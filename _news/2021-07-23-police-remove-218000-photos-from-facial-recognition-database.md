@@ -7,7 +7,7 @@ originalUrl: "https://www.dutchnews.nl/news/2021/07/police-remove-218000-photos-
 webUrl: "https://www.dutchnews.nl/news/2021/07/police-remove-218000-photos-from-facial-recognition-database/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Fail Spurs Bid to Ban It From Police Cameras"
-    excerpt: "One such lawmaker was Assemblyman Phil Ting, D-San Francisco, was matched with a mug shot by Amazon’s facial recognition software called Rekognition despite never having been arrested. “This is a demonstration that this software is not ready for ..."
-    publishedDateTime: 2021-07-19T00:00:00Z
-    webUrl: "https://www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/"
-    ampWebUrl: "https://www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/amp/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/amp/"
+  - title: "How facial recognition went from bad TV to Big Brother"
+    excerpt: "You might not see it, but it sees you. CNN's Jon Sarlin explores the brave new world of facial recognition technology."
+    publishedDateTime: 2021-07-23T17:11:00Z
+    webUrl: "https://www.waaytv.com/content/news/574905042.html"
     type: article
     provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 76
+      name: WAAY-TV
+      domain: waaytv.com
+    quality: 39
     images:
-      - url: "http://courthousenewswebsite.kinsta.cloud/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "Flawed Facial Recognition: 'I Did Nothing Wrong. I Was Arrested Anyway.'"
-    excerpt: "Federal studies have shown that facial recognition systems misidentify Asian and Black people up to 100 times more often than white people."
-    publishedDateTime: 2021-07-21T20:09:00Z
-    webUrl: "https://www.commondreams.org/views/2021/07/21/flawed-facial-recognition-i-did-nothing-wrong-i-was-arrested-anyway"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 38
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-07/williams.png?h=0dc8efae&itok=pkEfnvsT"
-        width: 1200
-        height: 630
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200228162112-facial-recognition-sarlin-live-video.jpg"
+        width: 576
+        height: 324
         isCached: true
   - title: "Police removed 218,000 photos from facial recognition database last year"
     excerpt: "The Dutch police removed over 218 thousand photos from its facial recognition database last year, the National Unit announced with the annual figures for 2020. This is the first time the police gave any indication of the number of photos that were unjustly in the face database,"

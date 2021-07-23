@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/what-ever-happened
 webUrl: "https://markets.businessinsider.com/news/stocks/what-ever-happened-to-ibms-watson-10340508"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "IBM Watson Health’s stumble and possible fall"
-    excerpt: "Telehealth and Telecare News since 2005"
-    publishedDateTime: 2021-07-21T02:19:00Z
-    webUrl: "https://telecareaware.com/ibm-watson-healths-stumble-and-possible-fall/"
+  - title: "The Weekender: ‘Ted Lasso,’ Tokyo Olympics, IBM’s Watson"
+    excerpt: "Juno Temple finds acclaim in “Ted Lasso.” Also in this edition: portraits of New York City service workers, and the fate of IBM’s Watson supercomputer."
+    publishedDateTime: 2021-07-23T17:28:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/07/23/briefing/the-weekender.html"
     type: article
     provider:
-      name: telecareaware.com
-      domain: telecareaware.com
-    quality: 39
+      name: New York Times
+      domain: nytimes.com
+    quality: 69
     images:
-      - url: "https://ta-images.s3.amazonaws.com/images/tta-fb-opengraph-450x450.png"
-        width: 450
-        height: 450
+      - url: "https://static01.nyt.com/images/2021/08/07/multimedia/07s3-weekendere-saturday-cine-vid-cover/07s3-weekendere-saturday-cine-vid-cover-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "IBM Watson In Demand"
     excerpt: "Hire' service is posed to grow 30%, driven by Healthcare and Financial Services customers looking for real time data processing."

@@ -3,23 +3,23 @@ category: news
 title: "Toronto AI chip startup Untether gets backing from Intel and CPP Investment Board"
 excerpt: "U.S. ($159-million Canadian) investment in Untether AI Corp., a Toronto-based startup that develops high-performance chips for artificial intelligence programs. Canada Pension Plan Investment Board, Canada’s largest pension fund,"
 publishedDateTime: 2021-07-20T16:46:00Z
-originalUrl: "https://www.thestar.com/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html"
-webUrl: "https://www.thestar.com/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html"
+originalUrl: "https://www.thepeterboroughexaminer.com/ts/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html"
+webUrl: "https://www.thepeterboroughexaminer.com/ts/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com
+  name: Peterborough Examiner
+  domain: thepeterboroughexaminer.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://images.thestar.com/mHTO2t2r0_YS2tNTJrPGgvJ4BL0=/1200x799/smart/filters:cb(1626799604103)/https://www.thestar.com/content/dam/thestar/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board/intel_logo.jpg"
+  - url: "https://images.thestar.com/mDQ9CUDlOqrYINOQsPyHPn9COtY=/1200x799/smart/filters:cb(1626799604103)/https://www.thepeterboroughexaminer.com/content/dam/thestar/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board/intel_logo.jpg"
     width: 1200
     height: 799
     isCached: true
@@ -137,6 +137,6 @@ related:
       domain: businesswire.com
     quality: 11
 
-secured: "5wY3uyElwuECogpZAXw2oBvMzTXR2fufXzq2KGowXAvh6hOqbW8xsvdQmCEPqFO4CZ6sTgMRppZInRwgiU3Txe9bP9IcLUHYB8SrY10R3qU9fMH6IOUNpwze0KEoQAHyrHDlzGOOIz5BNhjrQY2JoRwJN0ho8AOtYfz++XDGrgaJma0wQTJVKoangXG3JQrQvu7iQWlmeFZQEqAnet43gH4dRGBWfPTSb13H3KvYsB+tGReGG4f7iy4JI3AdMEE0/Gfh5FAKs1iD84LBwu1Unak/Gx2NPAPP2UPOK/VlCGbgi9oVNA1E4BXHRo1+F875zdW2r/gQgxh++2dUEy756SCCHHppq+KP+P3UBa7GVAE=;vktpCW3qOWWgR7bDvSD8ow=="
+secured: "kc94KTjwbcD+DDOlGE65QH6uHR8w8fiKaWTBed3fFpQ03s5tDcROq0OYhqSGdUOTLY3hUv3ZblSrrVRu8EO7dwq9DI7UUlkxrGC5yAKNDZQpvFTqZIfdpGi5SuZhoT/xg0uUDEqZzt8qwpqQSwFMthYuGhOSM7WsX1GAS7w1y4ruLk47Lt8H9HUqRiKV0Jqler3LMUwf58qjB59D7wXpqkyh9OXzT95IcGfSzhzacRP9i6yv7vBzv7BHZLy/hXWWNEDRof6sO0onqPbeJtqL1ReZUtQ2zNiDyNYkG5tarb8c06fmXpRWC8mLlsHaikXNTBzyArDbfFdA0+uW+P96G+5p3LvCGWlwmen9Any4Cv0=;m1+AuwXnbZD1gC1xqivlxw=="
 ---
 
