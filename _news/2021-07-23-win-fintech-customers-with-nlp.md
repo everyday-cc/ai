@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-23T09:30:00Z
 originalUrl: "https://www.finextra.com/blogposting/20653/win-fintech-customers-with-nlp"
 webUrl: "https://www.finextra.com/blogposting/20653/win-fintech-customers-with-nlp"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.finextra.com/finextra-images/visible_pictures/fbae6445-44fe-4bf9-9471-761c456ad870.jpeg"

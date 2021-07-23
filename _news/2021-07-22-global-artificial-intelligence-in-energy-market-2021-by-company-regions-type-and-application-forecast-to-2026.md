@@ -95,6 +95,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 13
+  - title: "Global Cognitive Systems Spending Market Tendencies, Revenue Forecast and Interesting Opportunities from 2021 to 2026"
+    excerpt: "Global Cognitive Systems Spending Market 2021 by Company, Regions, Type and Application, Forecast to 2026 research report is the new statistical data source added by MarketsandResearch.biz that uses several approaches for analyzing the data of the target ..."
+    publishedDateTime: 2021-07-20T16:08:00Z
+    webUrl: "https://ipsnews.net/business/2021/07/20/global-cognitive-systems-spending-market-tendencies-revenue-forecast-and-interesting-opportunities-from-2021-to-2026/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "4zsf+tXTYS/elnYykfUnz4xhFWWDMD1MUuLzBxk3gGjRJcSbh/k2jJDVU7z7vRW0MY9ylU3hYT2JFZiTVTcbrIO/hBh90eHsnD5V11x1oT/6kwCORO9kh0IvEt+ufk4mW2kCawK/6J4/7vhMycrsIcVJKiOhxJJw8yj6IJa1ijW7U4G/Hd2T5GFRlpbliHclhIJZk1s40RBp+AcuAUbPdk+eG5Ns7jtS4YIEDXSLT2kCXULH9L0sSLEUJXQD5UoZ4MNvdiFfbUfWswCrbibM1FuddsmKuRRYH6onl7wnoBTm8oZSEm7KiWhvKrestjN7tI+pd6t4QO6OwP5hlDOBEyDF8bda81bWFfykS42D5Mk=;9rATseOxmOXr9SX0NKGG4g=="
 ---

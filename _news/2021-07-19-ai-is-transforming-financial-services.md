@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and IoT are Transforming Transport Management"
-    excerpt: "AI-powered IoT systems provide predictive analytics, playing a crucial role in running businesses more efficiently. Artificial intelligence (AI) and the Internet of Things (IoT) are both cutting-edge technologies that are starting to get traction in the world around us."
-    publishedDateTime: 2021-07-20T12:44:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/How-AI-and-IoT-are-Transforming-Transport-16326085.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/05/41/21256305/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Platforms playing catch-up with the rest of financial services"
     excerpt: "Across pretty much all areas of financial services artificial intelligence (AI) and machine learning are starting to be recognised as integral components of the client engagement toolkit. With one stand-out exception: platforms."
     publishedDateTime: 2021-07-22T10:28:00Z

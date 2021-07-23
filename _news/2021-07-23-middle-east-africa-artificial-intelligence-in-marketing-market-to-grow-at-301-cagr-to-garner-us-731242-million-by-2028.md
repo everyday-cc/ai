@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2335658/middle-east-africa-artificial-intel
 ampWebUrl: "https://www.openpr.com/amp/2335658/middle-east-africa-artificial-intelligence-in-marketing"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2335658/middle-east-africa-artificial-intelligence-in-marketing"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - Facebook AI
 
 images:
   - url: "https://cdn.openpr.com/U/7/U723557741_g.jpg"
@@ -100,6 +101,6 @@ related:
         height: 630
         isCached: true
 
-secured: "yiGqxZC/dLjl9bhPWrpgnVFDoreEgu3cSaxa3JNjUvAzsQ5YbdGTHLtCYkuziJkB03xkWC/tLsQSwIxCb6NQfU+C3Dz5iyUHPDyLS5YSCDYD88qT+HuHuljfcjtHkaAdrwYamFVIPuSWXHlHXNBfl11ril8tZum9DfgDQ6l7CEJVcn/ibEtI8ntL38kZ6zq3kdyibfgLFom/Rio4PRzO2aY5YAeIJXUNT7azhzPnrxI+Cv2wjeUI5euP7xKcS4R1O+bdLTTOFptSs0wk72kbezMznczkrLWj3En/Q9fBRtQVpRy+i0kF4Ty4CxNLzK8A8WFnv/7h1nrV0ABfWv/Lnp2Cep7kg1BX2NKGRxsgKKk=;kYv/Npo/cXxKLIvg4A2acw=="
+secured: "ljtVbgOzAucLGNal2AV3BRW9mj5E0jhv0+WhBwfuPshksWi4B08nR5TJZ5acuMlAn10Wj6SRcR8bRkkD6rt2yKO9oOw3I2U1vjiwdJV/UfUpuxU5i5k/uvpGCNTTlzrJ4dZZ+Yeiz3Dc2JKXL++ooPJamJJVxyXlyCy19yOIwokyFkPlrgurNpZHmm3GY6Eq8e7YNID8kkSNHcJ3Ec0xzOrdWuz/Lohc28BCDXT5LeBcSDi8cL0yqZ92l7SHIOqPlZ/x5c+DJFl1WEj/SCvQZztWvFyenpDQF6gNwDGmOum3Lpd3ISuE7j+M+jFy7fJNVgz/CpYlgGdrSdnbj636LM27FhRZ6lkZRHnF50AasBatKGAh33RW2zh1BvSLpCuUOnWRiVftfunzwvWUoExv/upL1QuxT094bj/c+TyvYYC0JlVC2YCbRCPR4k1iM42cmTKDKt0S2RETJiNNvp0IoH4oRMKOr7/5IBltEHSz+zuYwDOmhM/L7+WJc0Z0k83VkwLKMNi6bNyNV9COjhSbDQ==;nCKchd94+SKFGfhFKkaBvg=="
 ---
 

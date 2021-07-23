@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Big Data & Machine Learning in Telecom Market 2021 Potential Growth, Competitive Landscape and Development of Industry by 2026"
-    excerpt: "Newly added by MarketsandResearch.biz study on Global Big Data & Machine Learning in Telecom Market 2021 by Company, Regions, Type and Application, Forecast to 2026 contains a detailed analysis of data through industrial dynamics which has a major impact on the growth of the market."
-    publishedDateTime: 2021-07-20T01:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-2021-potential-growth-competitive-landscape-and-development-of-industry-by-2026-2021-07-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Insights on the Face Recognition Using Edge Computing Global Market to 2025 - Featuring Apple, Horizon Robotics and Mediatek Among Others"
     excerpt: "12.16 Cisco Systems, Inc. 12.17 Belden Inc. 12.18 IBM Corporation 12.19 Intel Corporation 12.20 Moxa Inc."
     publishedDateTime: 2021-07-21T13:52:00Z

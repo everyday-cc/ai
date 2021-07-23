@@ -64,18 +64,18 @@ related:
         height: 2955
         isCached: true
   - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
-    excerpt: "Amazon HealthLake further structures the data and enables customers to easily use Amazon SageMaker machine learning ML models and Amazon QuickSight analytics, making it seamless for researchers ..."
-    publishedDateTime: 2021-07-20T14:37:00Z
-    webUrl: "https://www.kpvi.com/news/national_news/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative/article_9406490f-dbe0-5939-9c06-8baac660b666.html"
+    excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"
+    publishedDateTime: 2021-07-20T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
     type: article
     provider:
-      name: KPVI
-      domain: kpvi.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 27
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/a/10/a10dae4a-5cb6-11e9-9617-7ff25676eb6c/60fa05afb3bf2.image.png?resize=1920%2C1080"
-        width: 1920
-        height: 1080
+      - url: "https://mma.prnewswire.com/media/680972/Redox_Logo.jpg?p=facebook"
+        width: 902
+        height: 475
         isCached: true
   - title: "1Strategy Announces Support for AWS for Health Initiative"
     excerpt: "Strategy, a TEKsystems Global Services company and Amazon Web Services (AWS) Premier Partner, announced support for the AWS for Health initiat"
@@ -86,6 +86,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
+  - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
+    excerpt: "Amazon HealthLake further structures the data and enables customers to easily use Amazon SageMaker machine learning ML models and Amazon QuickSight analytics, making it seamless for researchers ..."
+    publishedDateTime: 2021-07-20T18:18:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative/article_f90ee693-f4d4-51ce-8ed5-11223e69b746.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 7
 
 secured: "kQkw2Dl7JRniGV3oWd2VDSvvGJjzNCzt8pU3JhRzNqBuARF4JYP5KjQ+v71HegblT+stly8N8pmfcGJn5QetHs+4CDtJYfSjNq+Om1Sa9l5hAQQOJizFoD1Sx7WTQ7o6KwVetMT/VT+r7YeZNS6NVQDUDq2b7YziPHRgzm4lkO72aq4LKE4BmxrnubrVJ0JDXkRaWvvn086cT2W403V5kQd/moUAuZI+5JYYPB9DRuhAGzBpE+SS5CfQVBX/VF2cWY3KQJPVBXe1GwrwMokCBZmPWuv0I+YYharW6O4iFys1psMJIYe/d0boMiaJiayY6e3AgbYuySJZ3FgJJ8maIhAKxcB+gin4DXyFr3N7I4s=;LDs5GolyQI5wqu25iyabqQ=="
 ---

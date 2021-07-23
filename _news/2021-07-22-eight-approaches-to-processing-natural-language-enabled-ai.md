@@ -19,65 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "How To Make Ethical Use Of AI In The Hiring Process"
-    excerpt: "Global corporate investments in AI are projected to double to around $110 billion over the next two years. One of the main areas of application for organizational AI is recruitment (e.g., staffing, hiring,"
-    publishedDateTime: 2021-07-19T13:55:00Z
-    webUrl: "https://www.forbes.com/sites/tomaspremuzic/2021/07/19/how-to-make-ethical-use-of-ai-in-the-hiring-process/"
+  - title: "TC Energy builds an intelligent document processing workflow to process over 20 million images with Amazon AI"
+    excerpt: "This is a guest post authored by Paul Ngo, US Gas Technical and Operational Services Data Team Lead at TC Energy. TC Energy operates a network of pipelines, including 57,900 miles of natural gas and 3,000 miles of oil and liquid pipelines, throughout North America. TC Energy enables a stable network"
+    publishedDateTime: 2021-07-22T15:06:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/tc-energy-builds-an-intelligent-document-processing-workflow-to-process-over-20-million-images-with-amazon-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: AWS
+      domain: aws.amazon.com
+    quality: 70
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f5837b1a2db6fca4092d1a%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "4 Practical Ways to Use AI in Marketing (& Why You Need To)"
-    excerpt: "We’re more than halfway through 2021 and by now, most marketing teams are heavily reliant on growth/digital marketing, and"
-    publishedDateTime: 2021-07-20T15:00:00Z
-    webUrl: "https://www.business2community.com/online-marketing/4-practical-ways-to-use-ai-in-marketing-why-you-need-to-02420037"
-    ampWebUrl: "https://www.business2community.com/online-marketing/4-practical-ways-to-use-ai-in-marketing-why-you-need-to-02420037/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/online-marketing/4-practical-ways-to-use-ai-in-marketing-why-you-need-to-02420037/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 74
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/07/benefits-ai-marketing-artificial-intelligience.png"
-        width: 715
-        height: 292
-        isCached: true
-  - title: "It’s time to change the debate around AI ethics. Here’s how"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial"
-    publishedDateTime: 2021-07-22T11:00:00Z
-    webUrl: "https://europeansting.com/2021/07/22/its-time-to-change-the-debate-around-ai-ethics-heres-how/"
-    ampWebUrl: "https://europeansting.com/2021/07/22/its-time-to-change-the-debate-around-ai-ethics-heres-how/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/07/22/its-time-to-change-the-debate-around-ai-ethics-heres-how/amp/"
-    type: article
-    provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 74
-    images:
-      - url: "https://europeansting.files.wordpress.com/2021/07/robots_.jpeg"
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/21/TC-Energy.jpg"
         width: 800
-        height: 1000
-        isCached: true
-  - title: "The startup harnessing AI to make your bus arrive on time"
-    excerpt: "A complaint about the inefficiency of manmade decision-making leads to Optibus, a company ensuring smoother travel in 500 cities worldwide."
-    publishedDateTime: 2021-07-20T06:07:00Z
-    webUrl: "https://www.israel21c.org/the-startup-harnessing-ai-to-make-your-bus-arrive-on-time/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 37
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2021/07/johen-redman-unsplash.jpg"
-        width: 1600
-        height: 900
+        height: 623
         isCached: true
 
 secured: "HvxyDgT/ozEOyloTfiCwiJQ/BUcSAHtuWDC8bq86krWvux748TcdIcPlXm2gyB+qDfSSVvrYo9PHjL24riHBZx2E7T7kKvdHLfDyHaB7FlMe0sX0p6kdHWeZQl7WWtd1uWTVq0nzsx2Z2CzJG0DQAJzMBROewd+hjI42J+4VGfwilMASZeKPkTnUnu2M+EaNT5SO0dBkz1aq7OgFlAhZpP02qIakscV4OIbH41En10oSlfXUSTOKyqI4FwEBP/oulJE5/ZFqVkUDPe0wdNcs8xP39+2KKnq6Dm0Q/kDWGvEclorwjm95e+knc0Kscb7UampFYWIG6XSvG5mdvOX7ZTWowzeiyEjuGvIySYSJtxY=;9bWVCvMl2RYTQzQuxipX+g=="

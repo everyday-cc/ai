@@ -79,7 +79,7 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.finextra.com/finextra-images/visible_pictures/fbae6445-44fe-4bf9-9471-761c456ad870.jpeg"
         width: 500

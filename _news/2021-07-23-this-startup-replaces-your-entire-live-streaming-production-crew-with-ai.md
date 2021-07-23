@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/ai-startup-replaces-live-streaming-pro
 webUrl: "https://thenextweb.com/news/ai-startup-replaces-live-streaming-production-crew"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Next Web
@@ -26,6 +26,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "The startup harnessing AI to make your bus arrive on time"
+    excerpt: "A complaint about the inefficiency of manmade decision-making leads to Optibus, a company ensuring smoother travel in 500 cities worldwide."
+    publishedDateTime: 2021-07-20T06:07:00Z
+    webUrl: "https://www.israel21c.org/the-startup-harnessing-ai-to-make-your-bus-arrive-on-time/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 37
+    images:
+      - url: "https://www.israel21c.org/wp-content/uploads/2021/07/johen-redman-unsplash.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "Hkz0gv3l32Dp1tIfh2/JckW2GkbOmQPY4XYezD3RSLPOuQ8h9ylXy7U/Ojng0ptU3NuHH1itgz61h30eYlYeAcHq1COJo7o5dfAZHBJSl4FXg9lHhPitCyghfzZjy9rtNSaWrSJ6BYtaUQqJqg/WZaa++ZiHA5+r7IioTXv4ATaLzjSakDMx5BC9OJSVoBj1lpuZKSVAAGwI2UXaRYGmchEdKT+GjwM7nkBipNldgzpylw1/VSpV3PcnSPAgA+cAru3ViSbY24npdV8NZ9u34n7NGFL2JqVVcOxSkG+UlubrwV4rXl6Gdy2IqzI73/TTQQfuPY8G9gGtb8bYvX0Cc662uISAn08qS0yGAQ9ROLgYIKUjGWhtKqgU8TLYLaRt+P+52J1mPfftFi9k9XeUq5ji5Bap+gVAjNPM8ROK5p1edZidOn4kP13eY8vIBp1m9kjk8Bnwv98RmQIbrwaXj4U1fZbLcTxRuwQGeb9LU4OMCQoDDHnWss/Mr0J24LxWlABAt3OE5V8IJUcSgVwzcA==;n+5ZVYRbKkHjz0Ia69QIxA=="
 ---

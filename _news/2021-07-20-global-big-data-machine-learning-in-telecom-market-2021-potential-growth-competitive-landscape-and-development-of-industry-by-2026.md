@@ -29,31 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Computing Market will reach to $77.5 billion by 2025"
-    excerpt: "According to a new market research report Cognitive Computing Market by Component Deployment Mode Business Function Application IVA and Chatbot and Behavioral Analysis Technology Human Computer Interface and Deep Learning Industry Vertical and Region Global Forecast to 2025 published by"
-    publishedDateTime: 2021-07-21T14:34:00Z
-    webUrl: "https://www.openpr.com/news/2333993/cognitive-computing-market-will-reach-to-77-5-billion-by-2025"
-    ampWebUrl: "https://www.openpr.com/amp/2333993/cognitive-computing-market-will-reach-to-77-5-billion-by-2025"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333993/cognitive-computing-market-will-reach-to-77-5-billion-by-2025"
+  - title: "Global Deep Learning market:Potential Segments & their Contribution to Market Size |Amazon Web Services (AWS), Google, IBM"
+    excerpt: "Global Deep Learning Market Overview The latest report up for sale by QY Research demonstrates that the global Deep Learning market is likely to garner a great pace in the coming years Analysts have scrutinized the market drivers confinements risks"
+    publishedDateTime: 2021-07-23T11:26:00Z
+    webUrl: "https://www.openpr.com/news/2335814/global-deep-learning-market-potential-segments-their"
+    ampWebUrl: "https://www.openpr.com/amp/2335814/global-deep-learning-market-potential-segments-their"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2335814/global-deep-learning-market-potential-segments-their"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 44
+    quality: 65
     images:
-      - url: "https://cdn.openpr.com/U/7/U721615846_g.jpg"
-        width: 650
-        height: 437
+      - url: "https://cdn.openpr.com/U/7/U723273164_g.jpg"
+        width: 800
+        height: 407
         isCached: true
-  - title: "Insights on the Face Recognition Using Edge Computing Global Market to 2025 - Featuring Apple, Horizon Robotics and Mediatek Among Others"
-    excerpt: "12.16 Cisco Systems, Inc. 12.17 Belden Inc. 12.18 IBM Corporation 12.19 Intel Corporation 12.20 Moxa Inc."
-    publishedDateTime: 2021-07-21T13:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/21/9413820.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
 
 secured: "eJcWK9BjoqoJJ9JW/Jk3dZE6PVAFl52VjxFee3O7NrIcUwpPZt/xAJl7WG3R88bUCjqHqT4GhJh3wGbdFeL78djbTHMbBhYY6Q/YCqmYnFXAL1LOloAf/RW57B1rkL2hTDPgAVhhREYopGcKM//7VwxncDL4x+rp58yo8U+fWJ4rylPOr+UmKNj3JDF0XfvLt/xYZbI3EP3H4PxD6+uF3dAntcla37mMB1Zn2goOdl8VhMt1PtgIxsBSu6fllVPaH17o/9nn4XmU6qFJyGFw+hAj75A3PixZ1sH9La0DFeWzJmqHNcU75plS5+Sj05D+lUoZM4X4GnX8YgdsvT7zvazvffpgvem8D2gLWc7N4f4=;4upeCRJgiYSdq6NOQgTS4w=="
 ---

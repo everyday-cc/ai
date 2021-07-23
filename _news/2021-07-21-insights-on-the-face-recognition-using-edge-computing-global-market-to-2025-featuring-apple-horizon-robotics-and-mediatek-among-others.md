@@ -36,20 +36,6 @@ related:
         width: 650
         height: 437
         isCached: true
-  - title: "Global Big Data & Machine Learning in Telecom Market 2021 Potential Growth, Competitive Landscape and Development of Industry by 2026"
-    excerpt: "Newly added by MarketsandResearch.biz study on Global Big Data & Machine Learning in Telecom Market 2021 by Company, Regions, Type and Application, Forecast to 2026 contains a detailed analysis of data through industrial dynamics which has a major impact on the growth of the market."
-    publishedDateTime: 2021-07-20T01:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-2021-potential-growth-competitive-landscape-and-development-of-industry-by-2026-2021-07-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "uArdG4xtNws1PT7J6XTqzqosQllPAI1quFIkNC/Tnh/++EKt9KsdLfEC6CTNn0eyfLkYGzTLLYcpIgADmAFDCCq7zBcrBR6ExnnNkfa/94QLl5c1hoVDwCf5nY7shI1jlQpcFBUpxU8LNfATvqgTsLJQ780sZk3nfSoSQzVveCBcCjT6t/8rQcH51nw1dAXC50EAlNHt/xutuWC4EBTRQ5kdsxMkHQ8/fikfnLe67hkhjlpInZLoTbopFAnjDxNEigi4XhUXeeR6I+ggwjfZxlaE97EJyIs4eKdfbk8NaKGmh+NCToUKGg4yL2rTiVvejyYqyGBcr4rLxppXxUW0dysX3BpozHV+JeU3PgWG6Z8=;5PNEOp6qXosEy810qwVpZw=="
 ---

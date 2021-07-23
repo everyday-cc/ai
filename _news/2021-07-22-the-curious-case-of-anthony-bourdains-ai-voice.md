@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Anthony Bourdain audio deepfake is forcing a debate about AI in journalism"
-    excerpt: "But no one was laughing when it was revealed that deepfake technology was used to simulate Anthony Bourdain’s voice in the new documentary Roadrunner: A Film About Anthony Bourdain.  In an interview with GQ,"
-    publishedDateTime: 2021-07-18T18:48:00Z
-    webUrl: "https://qz.com/2034784/the-anthony-bourdain-documentary-and-the-ethics-of-audio-deepfakes/"
-    ampWebUrl: "https://qz.com/2034784/the-anthony-bourdain-documentary-and-the-ethics-of-audio-deepfakes/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2034784/the-anthony-bourdain-documentary-and-the-ethics-of-audio-deepfakes/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 85
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2018/06/anthony-bourdain-2016-e1528465157979.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "UL7vZYcUbtuvixDGARdLOvyhp70PGVCG7+k/wuhN5A6h3ehMkbgN3D2kHr1dW/AiND25lOUuz0QlzEbBzZwkfLCGxZtW083TqPdj/lx2FaReHaWod/a9ZM4Bfq2uOXLYhDZy0ia4xWs8NGnFqT7+A1HMHqlqqGrbkLUpXIeRDkv//kSVIzd6V/ziEOc2A/gCNkXgx5MNH0p+Q8S6JSO2FHbMy+DUfuL80ytBhdyzx0GQpg3JqTtlfiYgujWhIiUX5icirWnaVWMSMw5Js4a4Xjt4ofudjZYS6BapKKVSUkQ6LRYMd2NMtI3HSOahdIEKm33NeZDKzx4+QJGqQtyt2LPvh43HHR3tnZ/K2XJWrc1UfRRueyEKWjMYKmIru6BYBOyYoO6GvOxrY2/ADx1x43+6EMmtluDwl6kB21WHfsDi7+rD1XRcE9lziEb6EMCEFDQWjYW1cpCv49DO3uMOyhNEwE35DCq8kCa+ACK62fyqalKUYpSI4aDivgb3vtY9qEi918VE2f+6pGEcMxhd8Q==;qvfrTNUZ5wrbRfiyWbYOhQ=="
 ---

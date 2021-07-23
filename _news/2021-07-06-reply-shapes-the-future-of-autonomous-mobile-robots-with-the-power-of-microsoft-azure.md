@@ -2,25 +2,19 @@
 category: news
 title: "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure"
 excerpt: "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ..."
-publishedDateTime: 2021-07-06T08:04:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/21/07/b21850593/reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure"
+publishedDateTime: 2021-07-06T14:33:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "TAAKeLh302jHssKOi52H34f0jah4NpPZbK13e/k9v+WC49ntkNVoyRXikwDiWtR/ZVJ47WLV8/yjc2EBaxS08Rwk3pXPglQyBadiIQR4J8H5RtZ21sYje/+eqWyxnm4089xrn5w8wDlKxCQlY8M9v2Ws0GEEGpKeT/qhVHsu2cJdt/acHYoLbck4dfLTnEU8aXA9nKCcZdVdbYAuBHSFjqygTgfUCN4HYF7Hce99bZktQ/K79oWMmUZYUfHA/tmMYnbTib6VjjuPp7JManoiDS0LRfn/uxkD+uoLTSHvOPkHD2pKcS6ok/u5bQKPi0KoWPAlsWxEDR6F3thlHS0tcTxAini/BlQcs8boKAmDp9Q=;CM670AqZiURDMTAhUHrAkw=="
+secured: "JgYKFWfJ8Cwevl5a8DalQcJ2CKs2X3BlFacAYN96kpKmf25/VwTftus5FpXq2yDJkyDGqbCHnhuF8GoITG0UL6kLCQZ4iPjoPeGlL8A9O3Tg2J1cLXpIiJ1JRsPe7KDb8T13sUGJ3swzBqNnYmh8dSpG+3OqZu8cUv9YhAhDYbRlxsvY3mxGgj/nP9hH1/zJY1et91xYsa1bX7S+aH+OVHOFp8GCFUTzESeTTzzOdU148oAnUdKagjopeFTvqZ/zjIim6KqKHjMNVUL5drnXpxvKSzXsmYlxoC63lvf5KTocL3kdXYKs2rIXPIKg8y2s6QF/DwiHbLoroUj6BLK/OMsdK17/kP9FgoE7PfByOtI=;oadHMOmh4svXsvkNSXpzgg=="
 ---
 

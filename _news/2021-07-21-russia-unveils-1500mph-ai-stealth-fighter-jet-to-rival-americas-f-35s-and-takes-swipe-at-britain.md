@@ -42,6 +42,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "BEAC was the first in Russia to register a computer program created by artificial intelligence"
+    excerpt: "BEAC was the first in Russia to register a computer program created using artificial intelligence. This is an Artificial Vision program."
+    publishedDateTime: 2021-07-23T11:16:00Z
+    webUrl: "https://www.akm.ru/eng/news/beac-was-the-first-in-russia-to-register-a-computer-program-created-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: akm.ru
+      domain: www.akm.ru
+    quality: 27
+    images:
+      - url: "https://www.akm.ru/upload/iblock/11e/Sberbank_akm_.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
 
 secured: "Ii4O+rTdaYSkxFcDlpftvyL7mRH4odju+xXECLReHfzgHvWvIs7OBlDpsRnKCcjKBuVh1KJrhE0xqKdO8J3uVUb9Dp/B6EI7/wHEemnGI/5Obn2Q/D841ufIl8eSz2+RK7knuE8rQvY1fxdHhDuQgDa0hKjoeavefi5bkqLlg44g7/OuZ5TBpxPt9Yd56b36219mRv2pGx4BeWb+NAMlZNXwlGD45aIcUjK4/RVhDbUBmysxm8D7s8CTYOYavXaKKDfw7JRuZ+LuDVWhYfLDOy3/bC8OsJsbVL2KGVCX7tbLRok9cPMQrBbNOosRCoZbF4qgb1Kf/7vGz0K9XoODfP/cpqcOp/0g36ix34eufj8=;HEqvzkdPPYStCBLBmEC19A=="
 ---
