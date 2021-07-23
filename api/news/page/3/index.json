@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -738,6 +738,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-21-consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software.md",
+      "title": "Consumer Reports concerned Tesla uses owners to test unsafe self-driving software",
+      "excerpt": "A Tesla in full self-driving mode makes a left turn out of the middle lane on a busy San Francisco street. It jumps in a bus lane where it’s not meant to be. It turns a corner and nearly plows into parked vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/",
+      "originalUrl": "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 494,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GlIdu7prsAw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/",
+      "publishedDateTime": "2021-07-20T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-comcasts-ai-driven-voice-remote-cuts-through-the-glut-of-shows.md",
       "title": "Comcast’s AI-driven voice remote cuts through the glut of shows",
       "excerpt": "Machine learning helps viewers decide what to watch and when to watch it, which increases user enjoyment, Comcast CTO said at Transform 2021.",
@@ -1048,7 +1100,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-trends-share-size-growth-opportunity-and-forecasts-by-2025-2021-07-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -1089,7 +1141,8 @@
       "topics": [
         "AI",
         "AI Hardware",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Robotics"
       ]
     },
     {
@@ -1101,7 +1154,7 @@
       "originalUrl": "https://www.msn.com/en-us/autos/news/mobileye-begins-testing-autonomous-cars-in-new-york/ar-AAMmKTB",
       "featuredContent": null,
       "highlight": null,
-      "heat": 232,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -1174,58 +1227,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division.md",
-      "title": "Toyota’s Woven Planet acquires Lyft’s Level 5 self-driving division",
-      "excerpt": "Toyota subsidiary Woven Planet, has announced the completed acquisition of Level 5, the self-driving division of rideshare veterans Lyft Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/",
-      "originalUrl": "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Lyft-Level-5-Demo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/amp/",
-      "publishedDateTime": "2021-07-20T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,41 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-18-rise-of-the-money-machines-can-ai-fix-personal-finance.md",
+      "title": "Rise of the Money Machines: Can AI Fix Personal Finance?",
+      "excerpt": "However, the reality of AI is actually much less sexy and much more useful. AI and machine learning technologies are being applied to industries from manufacturing to money management to help improve efficiency and drive returns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/rise-of-the-money-machines%3A-can-ai-fix-personal-finance-2021-06-18",
+      "originalUrl": "https://www.nasdaq.com/articles/rise-of-the-money-machines%3A-can-ai-fix-personal-finance-2021-06-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/rise-of-the-money-machines%3A-can-ai-fix-personal-finance-2021-06-18?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rise-of-the-money-machines%3A-can-ai-fix-personal-finance-2021-06-18?amp",
+      "publishedDateTime": "2021-06-18T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-robotics-outlook-2030-how-intelligence-and-mobility-will-shape-the-future.md",
       "title": "Robotics Outlook 2030: How Intelligence and Mobility Will Shape the Future",
       "excerpt": "Established robotics companies must counter startups that are innovating in areas with the potential to generate high profits and alter the dimensions of the industry.",

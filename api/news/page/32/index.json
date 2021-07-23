@@ -2,6 +2,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-06-29-getting-started-with-ai-using-ibm-watson.md",
+      "title": "Getting Started with AI using IBM Watson",
+      "excerpt": "In this course you will learn how to quickly and easily get started with Artificial Intelligence using IBM Watson. You will understand how Watson works, become familiar with its use cases and real ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/education/skillbuilder/getting-started-with-ai-using-ibm-watson-0_GdR9t4MnEem1fhKdUV_ohA",
+      "originalUrl": "https://www.usnews.com/education/skillbuilder/getting-started-with-ai-using-ibm-watson-0_GdR9t4MnEem1fhKdUV_ohA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-connected-vehicle-data-startup-wejo-partners-with-microsoft-palantir-sompo.md",
       "title": "Connected vehicle data startup Wejo partners with Microsoft, Palantir, Sompo",
       "excerpt": "Connected vehicle data startup Wejo has announced partnerships with Microsoft, Palantir and Sompo Holdings to improve its ability to collect, store and analyze data from millions of connected vehicles around the world.",
@@ -1140,40 +1183,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-how-ibm-watson-advertising-plans-to-use-ai-to-reduce-bias.md",
-      "title": "How IBM Watson Advertising Plans To Use AI To Reduce Bias",
-      "excerpt": "IBM Watson Advertising kicked off a six-month ... We are seeing some very encouraging signs that AI can be the transformative technology that advertising needs to predict optimal campaign ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/364581/how-ibm-watson-advertising-plans-to-use-ai-to-redu.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/364581/how-ibm-watson-advertising-plans-to-use-ai-to-redu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

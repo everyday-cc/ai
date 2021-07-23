@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-22-ai-firm-deepmind-puts-database-of-the-building-blocks-of-life-online.md",
+      "title": "AI firm DeepMind puts database of the building blocks of life online",
+      "excerpt": "AlphaFold program’s prediction of nearly 20,000 human protein structures now free for researchers",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online",
+      "originalUrl": "https://www.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ef81acebb3a81125fb6fecdba6854aa2471d3975/0_0_2480_1488/master/2480.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b341a135256aaebd72cbd7d0e638659",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online",
+      "publishedDateTime": "2021-07-22T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-3-ways-ai-can-help-you-improve-diversity.md",
       "title": "3 Ways AI Can Help You Improve Diversity",
       "excerpt": "As a business leader, you probably want to improve your organization’s diversity, merit, and fairness. In this post, I share some practical tips to harness data in service of diversity in your organization.",
@@ -336,6 +390,57 @@
       ]
     },
     {
+      "path": "_news/2021-07-22-warburg-pincus-backed-ai-drug-firm-insilico-weighs-us-ipo.md",
+      "title": "Warburg Pincus-Backed AI Drug Firm Insilico Weighs U.S. IPO",
+      "excerpt": "Insilico Medicine, a company that uses artificial intelligence to drive drug discovery, is considering a U.S. initial public offering that could raise about $300 million, according to people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-07-22/warburg-backed-ai-drug-firm-insilico-is-said-to-weigh-u-s-ipo",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-07-22/warburg-backed-ai-drug-firm-insilico-is-said-to-weigh-u-s-ipo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNA6kYWfuq2E/v0/1200x792.jpg",
+          "width": 1200,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-storai-teams-with-toshiba-global-to-advance-online-grocery-shopping.md",
       "title": "stor.ai Teams With Toshiba Global To Advance Online Grocery Shopping",
       "excerpt": "End-to-end digital grocery solution stor.ai is expanding its partnership with retail store technology firm Toshiba Global Commerce Solutions to offer an integrated tool to help eCommerce businesses. “With eCommerce growing at breakneck speeds,",
@@ -469,58 +574,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-teslas-full-self-driving-push-is-okay-in-californiabecause-its-not-real-self-driving.md",
-      "title": "Tesla’s ‘Full Self Driving’ Push Is Okay In California—Because It’s Not Real Self-Driving",
-      "excerpt": "The company's admission that FSD is a Level 2 ADAS system means it doesn't need special approval to sell the feature in its biggest U.S. market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f87529c277c09b6a779b8d%2F0x0.jpg",
-          "width": 1200,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/amp/",
-      "publishedDateTime": "2021-07-21T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -910,58 +963,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-tesla-knocked-500-off-a-hardware-upgrade-for-its-full-self-driving-subscription-after-customer-backlash.md",
-      "title": "Tesla knocked $500 off a hardware upgrade for its Full Self Driving subscription after customer backlash",
-      "excerpt": "Tesla offered customers with older cars a $1,500 Full Self-Driving hardware upgrade, provoking a backlash. Now, it's charging $1,000.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7",
-      "originalUrl": "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60a1038ef27b4c0019444b4e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp",
-      "publishedDateTime": "2021-07-21T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {

@@ -64,19 +64,14 @@ related:
         height: 2955
         isCached: true
   - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
-    excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"
-    publishedDateTime: 2021-07-20T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
+    excerpt: "Amazon HealthLake further structures the data and enables customers to easily use Amazon SageMaker machine learning ML models and Amazon QuickSight analytics, making it seamless for researchers ..."
+    publishedDateTime: 2021-07-20T14:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-1030625892"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/680972/Redox_Logo.jpg?p=facebook"
-        width: 902
-        height: 475
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
   - title: "1Strategy Announces Support for AWS for Health Initiative"
     excerpt: "Strategy, a TEKsystems Global Services company and Amazon Web Services (AWS) Premier Partner, announced support for the AWS for Health initiat"
     publishedDateTime: 2021-07-21T19:00:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-21T00:00:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-advisory-service-market-shaping-from-growth-to-value-sap-google-amazon"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-advisory-service-market-shaping-from-growth-to-value-sap-google-amazon"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/a7dfe755f2336582cea64c2573d5b03404fea340-600x337.jpg"

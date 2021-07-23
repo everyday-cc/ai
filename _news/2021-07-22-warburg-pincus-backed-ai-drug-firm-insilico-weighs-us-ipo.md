@@ -6,9 +6,9 @@ publishedDateTime: 2021-07-22T03:55:00Z
 originalUrl: "https://www.bloomberg.com/news/articles/2021-07-22/warburg-backed-ai-drug-firm-insilico-is-said-to-weigh-u-s-ipo"
 webUrl: "https://www.bloomberg.com/news/articles/2021-07-22/warburg-backed-ai-drug-firm-insilico-is-said-to-weigh-u-s-ipo"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 167
+heat: 167
+published: true
 
 provider:
   name: Bloomberg
@@ -27,6 +27,6 @@ images:
     height: 792
     isCached: true
 
-secured: "N0O27FtJB/0cbuhMEe/XMQ+D16zOZVwwhUnropfGoDXTRiLZD42dY0l3jrksLnzYh+JeTwvCdzO9C2bqTH4nVBGDrjqs5csX3tOddmOY5Sw2u2HBZVIxY7DrnfijgB2MjGish7jIeaZW8Uhmy0/KT0LHWZad9V2Cd4AfI+N4KykOIGWQXR2/fopu8FBWGL1tRPRseqcGFFsCui0goqTFQNi5fAxOr2B+OEPQ5PC1S3tamoa11FDsB/B3eURQCgDXuBD6QX5Ea13ajfRWEHvXbfqZaDvhe2BALJLRu/Jwvq/ca+r+ao4WKVNWK9Oyvik+J0u+gHv+I6haRiEo9bAKjsDngaszzu3h3JOKF9avj5sUcFIJuR3/8+o0IZihfgYFLEoon9QWbCpjNx9dNqxcEernZANIR4TftPdhemgyEIEZfRnTwMXYA3fPnPiYJmFOKu9kWo7PQhTOJ1APCmkC1iXhnBY1pdmuC8tkxN/CJjxjrjLWYvROlPcq+zWTIELul10gKYQpvEMrS4DOlmb0Rg==;DZB0Ovlp4QRE18LDxMtSAg=="
+secured: "T/RHLXrJ26Lo0ddrGKql5a1vMggV/0jd+Pg0L4AcVnKYefSVglN2lnHE7rAVT3egkPewZvlKMjixPa9btvNVDQ3CQJhTrKolZfktmmLxiDX3VkIJM24v/T0uKoCQ6DJl8yzGVf7Wa0SNyE0eyLEZlqyvnN/uwNo2CL3q19nvKfvWgb8GsFcAh3vQrEs6O01R50NfUuTUZ1SfgDtOgAomKfrQMT0I0LPrYPSHPbrw+g5A42T/TuET7tMOGuycwg/IqCN0zWW8ZUK55D9KEkvAQOLIBPuL74fuRbXwPgvqSAE/0Jup+/K2bXpUmJmDxWpdU379vOd9LhhSe9fuuYygrT3LGEdfc7ZyYu/577j6lAZ4u+Mnxe9TAMMVOPKceLqqqjeSIV6V37pETzmySzsuu+ZFZVa+gP+Nuuxk7D5WvUKuAHl1615uyYjGPlUPrHa4KHOT0HYZst4AOairYkyMnm2Azl7PXt/CJWgP7mvUyByNYH16YVbFl8kJpKceITwuicYqKcjL6xywSJF2YagHKwl3XVtqfNcezY0RWxQskuU=;KqiMbBdcON6sMWAWBv/XqA=="
 ---
 

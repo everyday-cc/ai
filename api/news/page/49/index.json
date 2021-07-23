@@ -2,6 +2,49 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-06-17-ai-system-on-chip-runs-on-solar-power.md",
+      "title": "AI system-on-chip runs on solar power",
+      "excerpt": "Engineers have developed an integrated circuit that can carry out complicated artificial-intelligence operations like face, voice and gesture recognition and cardiac monitoring. Powered by either a tiny battery or a solar panel,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/06/210617082735.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/06/210617082735.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-voice-control-is-now-table-stakes-for-consumer-electronics.md",
       "title": "Voice Control Is Now Table Stakes For Consumer Electronics",
       "excerpt": "Voice control as an embedded feature is no longer a surprise — it has become table stakes to play at the top of the market.",
@@ -1075,57 +1118,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-gm-ups-spending-on-evs-and-autonomous-vehicles-by-30-to-35-billion-by-2025-on-higher-profits.md",
-      "title": "GM ups spending on EVs and autonomous vehicles by 30% to $35 billion by 2025 on higher profits",
-      "excerpt": "GM, America's largest automaker, is racing to catch up to Tesla on EVs and become a leader in the space against other well-established automakers such as VW.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "originalUrl": "https://www.cnbc.com/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106424520-1583341306047gmevbarra01.jpg?v=1583353549",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "publishedDateTime": "2021-06-16T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

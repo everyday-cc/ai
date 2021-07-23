@@ -43,22 +43,6 @@ related:
         width: 1028
         height: 578
         isCached: true
-  - title: "Researchers Enable AI To Use Its “Imagination” – Closer to Humans’ Understanding of the World"
-    excerpt: "A team of researchers at USC is helping AI imagine the unseen, a technique that could also lead to fairer AI, new medicines, and increased autonomous vehicle safety. Imagine an orange cat. Now, imagine the same cat,"
-    publishedDateTime: 2021-07-18T20:44:00Z
-    webUrl: "https://scitechdaily.com/researchers-enable-ai-to-use-its-imagination-closer-to-humans-understanding-of-the-world/"
-    ampWebUrl: "https://scitechdaily.com/researchers-enable-ai-to-use-its-imagination-closer-to-humans-understanding-of-the-world/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/researchers-enable-ai-to-use-its-imagination-closer-to-humans-understanding-of-the-world/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 46
-    images:
-      - url: "https://scitechdaily.com/images/AI-System-Takes-Inspiration-From-Humans-777x389.jpg"
-        width: 777
-        height: 389
-        isCached: true
   - title: "A machine learning breakthrough: using satellite images to improve human lives"
     excerpt: "New machine learning technology has devised a machine learning system to tap the problem-solving potential of satellite imaging. The low-cost, easy-to-use technology could bring satellite image access and analytical power to researchers and governments worldwide."
     publishedDateTime: 2021-07-20T17:12:00Z

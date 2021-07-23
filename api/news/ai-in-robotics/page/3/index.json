@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-06-abundant-robotics-shuts-down-fruit-harvesting-business.md",
+      "title": "Abundant Robotics shuts down fruit harvesting business",
+      "excerpt": "Abundant Robotics, which was developing a robot to pick apples, closed its business after spinning out of SRI International in 2016.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hortidaily.com/article/9337223/us-fruit-harvesting-robot-company-shuts-down/",
+      "originalUrl": "https://www.therobotreport.com/abundant-robotics-shuts-down-fruit-harvesting-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hortidaily.com/remote/https/agfstorage.blob.core.windows.net/misc/HD_com/2021/07/07/appel.jpg?preset=OgImage",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-scientists-take-mind-controlled-robot-for-a-stroll-video.md",
       "title": "Scientists take mind-controlled robot for a stroll (video)",
       "excerpt": "What if you could control a robot -- wait, don't answer yet -- with your mind? Pretty great, right? That's what the Virtual Embodiment and Robotic Re-embodiment (VERE) group is working on ...",
@@ -1342,49 +1385,6 @@
       "provider": {
         "name": "Vanguard",
         "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-grene-robotics-develops-indigenous-drone-defence-dome.md",
-      "title": "Grene Robotics develops indigenous drone defence dome",
-      "excerpt": "The autonomous defence weapon system uses Artificial Intelligence, cybersecurity and robotics to identify and counter threats",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/13fsry/article33746129.ece/ALTERNATES/LANDSCAPE_615/DRONES",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece/amp/",
-      "publishedDateTime": "2021-06-28T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
         "images": null,
         "publishers": null,
         "authors": null

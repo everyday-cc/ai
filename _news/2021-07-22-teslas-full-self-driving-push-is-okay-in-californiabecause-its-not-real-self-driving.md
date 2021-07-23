@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/amp/"
 type: article
 quality: 95
-heat: 395
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google unveils ‘self-driving’ cloud security feature"
-    excerpt: "At its Security Summit, Google Cloud announced Chronicle integrations, Cloud IDS, an autonomic security operations stack, and more."
-    publishedDateTime: 2021-07-20T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/"
-    ampWebUrl: "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/amp/"
+  - title: "Consumer Reports concerned Tesla uses owners to test unsafe self-driving software"
+    excerpt: "A Tesla in full self-driving mode makes a left turn out of the middle lane on a busy San Francisco street. It jumps in a bus lane where it’s not meant to be. It turns a corner and nearly plows into parked vehicles,"
+    publishedDateTime: 2021-07-20T21:47:00Z
+    webUrl: "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/"
+    ampWebUrl: "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 184
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/04/cloud_security-shutterstock_238417594-e1626720984465.jpg?w=1200&strip=all"
-        width: 1000
-        height: 500
+      - url: "https://i.ytimg.com/vi/GlIdu7prsAw/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
   - title: "Consumer Reports Calls Out Problems With Tesla’s ‘Self-Driving’ Mode"
     excerpt: "Consumer Reports experts expressed concerns after test videos of the mode showed vehicles missing turns among other problems."
@@ -63,21 +63,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Consumer Reports concerned Tesla uses owners to test unsafe self-driving software"
-    excerpt: "A Tesla in full self-driving mode makes a left turn out of the middle lane on a busy San Francisco street. It jumps in a bus lane where it’s not meant to be. It turns a corner and nearly plows into parked vehicles,"
-    publishedDateTime: 2021-07-20T21:47:00Z
-    webUrl: "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/"
-    ampWebUrl: "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/"
+  - title: "Tesla knocked $500 off a hardware upgrade for its Full Self Driving subscription after customer backlash"
+    excerpt: "Tesla offered customers with older cars a $1,500 Full Self-Driving hardware upgrade, provoking a backlash. Now, it's charging $1,000."
+    publishedDateTime: 2021-07-21T15:29:00Z
+    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
     images:
-      - url: "https://i.ytimg.com/vi/GlIdu7prsAw/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://i.insider.com/60a1038ef27b4c0019444b4e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Tesla To Add Auto Shift To All Cars With Self Driving Package"
     excerpt: "When Tesla Inc (NASDAQ: TSLA) first revealed its refreshed Model S and X vehicles, many were confused on the lack of traditional stalks near the steering wheel."
@@ -168,22 +168,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 68
-  - title: "Self-Driving Cars That Snitch On Human Drivers For Bending Or Breaking Driving Laws"
-    excerpt: "Self-driving cars are able to record the driving scene, of which they can detect when human drivers nearby violate the driving laws, and some say they will become snitches."
-    publishedDateTime: 2021-07-21T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b612298c27be03c873e4b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6030%26cropY1%3D478%26cropY2%3D3870"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Consumer Reports says Tesla's 'Full Self-Driving' software lacks safeguards"
     excerpt: "Consumer Reports said Tuesday that Tesla Inc's (TSLA.O) \"Full Self-Driving\" software lacks safeguards and raised concerns the system's use on public roads puts the public at risk citing reports from drivers."
     publishedDateTime: 2021-07-20T14:43:00Z
@@ -252,6 +236,22 @@ related:
       - url: "https://media.consumeraffairs.com/files/news/Tesla_logo_on_steering_wheel_JasonDoiy_Getty_Images.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Tesla Mobile App Update Includes $199 Monthly Self-Driving Subscription"
+    excerpt: "Tesla plans on offering a new subscription version of its Full Self-Driving package with several features for self-driving cars including navigating on autopilot, autopark and other things, a report from Electrek says."
+    publishedDateTime: 2021-07-19T01:48:00Z
+    webUrl: "https://www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/"
+    ampWebUrl: "https://www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/tesla-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Tesla makes Full Self-Driving available as $199 monthly subscription"
     excerpt: "Tesla is making its pricey Full Self-Driving (FSD) electronic driver-assist feature available as a subscription. FSD is being offered as a $199 monthly subscription for cars equipped with Basic Autopilot and $99 when Enhanced Autopilot is equipped."
@@ -353,20 +353,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla Rolls Out $200 Monthly Subscription for ‘Full Self-Driving’"
-    excerpt: "Some vague language on Tesla's part means that vehicles marketed as having full Autopilot capabilities might need an additional $1,500 hardware upgrade to use FSD."
-    publishedDateTime: 2021-07-19T19:50:00Z
-    webUrl: "https://www.extremetech.com/extreme/324864-tesla-rolls-out-200-monthly-subscription-for-full-self-driving"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/01/Tesla-Model-S-2021.jpg"
-        width: 1344
-        height: 756
-        isCached: true
   - title: "Your Tesla Can Now Have Full Self-Driving for $199 a Month"
     excerpt: "Until now, the full self-driving (FSD) feature in Tesla electric vehicles could only be purchased for an extra $10,000 at the time of car purchase, but this will soon be a thing of the past. Elon Musk's company launched a subscription plan to offer this ..."
     publishedDateTime: 2021-07-20T08:22:00Z
@@ -459,6 +445,34 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 34
+  - title: "Mobileye tests fleet of self-driving cars in New York City"
+    excerpt: "Intel Corp.'s Mobileye said Tuesday it was testing self-driving vehicles in New York City, including the bustling Manhattan borough, in an effort to prove its technology can handle jaywalkers, construction zones and even horse carriages."
+    publishedDateTime: 2021-07-20T16:58:00Z
+    webUrl: "https://www.autonews.com/mobility-report/mobileye-tests-fleet-self-driving-cars-new-york-city"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/intel.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "This company is testing self-driving cars in New York City for the first time"
+    excerpt: "Dapena, CNN Business Mobileye, an Israeli self-driving technology company owned by Intel, has become the first company to test fully self-driving cars on New York City’s streets. While a number of companies test cars in California and Arizona,"
+    publishedDateTime: 2021-07-20T20:43:00Z
+    webUrl: "https://ktvz.com/money/cnn-business-consumer/2021/07/20/this-company-is-testing-self-driving-cars-in-new-york-city-for-the-first-time/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 21
+    images:
+      - url: "https://ktvz.b-cdn.net/2021/07/hypatia-h_50890608d8a02c9b670727c4a3874b92-h_c6bb4768c4778c7186fa88339b1b09d1-300.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "ac8oDHZ5WjAI+O+nTzeZWSTGTIEbcH0RecJP7k75RY/WFOyXRgl5OIPOpTscfC3isxUZY47iiAOvuWlG9uJZjCOQPVOOYVB+CLibelL53JtskVrEf+RQgVJ0cwnJ5LhanFDDYijoqR147KYlaTOJfCd36ZSGiyD41+v3pSUBtEJfVg+FBsAKrV3QmUEhSGQarNTT1kf7KJTUldKn2YH6RFcHy/ZF0pEH1iPbqtLWCRlSyVanN+dP0rVtdS8/3y5MDBnvmneemxJnifdLjWZ3XjB6Vg5x4SDxn6321/3dZfm8VltpJCQWZ292H/06PzeA75LzlCh/VNtzGfapzKdtQBzKPNMf/QE0PGuvGrVm0QwS6mjsDMLRCN4Df95wAb+3U2R0titPVDSLGd6aQzswtTgwxXnMFriQsOK3B9/vQw7k4m6vn778m+nbGcnrFwCmq9BmRa8mPuqtREfmz1IJ4XgjvmiSDMuhNpsbUBFGRIpfdRm8qoSG99FniFBgMuiHn6A+zhbdZnGvAgW6VVcTUA==;g9UfW7zh2KVMZ6iD8qFReg=="
 ---

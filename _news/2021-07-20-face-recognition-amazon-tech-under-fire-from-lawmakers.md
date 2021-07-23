@@ -83,22 +83,6 @@ related:
         width: 797
         height: 630
         isCached: true
-  - title: "What are the dangers of facial recognition?"
-    excerpt: "Robert Williams was wrongfully arrested after a facial recognition system failed to identify the correct culprit. Mr. Williams is seeking justice in a civil rights lawsuit."
-    publishedDateTime: 2021-07-18T19:08:00Z
-    webUrl: "https://www.msnbc.com/the-sunday-show/watch/what-are-the-dangers-of-facial-recognition-116981317527"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo116981317527"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo116981317527"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 59
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626635161004_n_capehart_facial_recognition_211807_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Facial Recognition Is Watching You"
     excerpt: "The Boston-based Fight for the Future advocacy organization is trying to put pressure on private businesses to swear off any form of facial recognition."
     publishedDateTime: 2021-07-19T14:14:00Z

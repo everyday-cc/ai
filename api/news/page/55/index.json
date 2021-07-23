@@ -2,6 +2,48 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-06-14-ask-hackaday-what-is-home-automation.md",
+      "title": "Ask Hackaday: What Is “Home Automation”?",
+      "excerpt": "We’re not entirely sure what’s become of the term “home automation.” The definition seems to have settled for any user interface in the home—via tablets, phones, handheld remote controls ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/facebook-expire-span-forgetful-ai/",
+      "originalUrl": "https://hackaday.com/2013/10/09/ask-hackaday-what-is-home-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/imagecomposite_aibrain_200723.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/facebook-expire-span-forgetful-ai/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-expire-span-forgetful-ai/?amp",
+      "publishedDateTime": "2021-06-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-palantir-vs-c3ai-which-is-the-better-artificial-intelligence-stock.md",
       "title": "Palantir vs. C3.ai: Which Is the Better Artificial Intelligence Stock?",
       "excerpt": "Palantir and C3.ai both help organizations and companies crunch data with AI-powered tools. Palantir, which generates more than half its revenue from government contracts, wants i",
@@ -1125,58 +1167,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-can-we-afford-ai.md",
-      "title": "Can we afford AI?",
-      "excerpt": "AI can lower the cost of doing business, but enterprises have to consider cost management to make it less expensive to acquire and deploy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/01/market-analyze-e1623419360531.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/can-we-afford-ai/amp/",
-      "publishedDateTime": "2021-06-11T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

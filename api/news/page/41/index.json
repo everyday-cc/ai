@@ -2,6 +2,58 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-06-23-deep-learning-market-share-trends-industry-overview-2021-to-2026.md",
+      "title": "Deep Learning Market Share, Trends | Industry Overview 2021 to 2026",
+      "excerpt": "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-share-trends-industry-overview-2021-to-2026-2021-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-share-trends-industry-overview-2021-to-2026-2021-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-hyundai-officially-takes-controlling-stake-in-robot-maker-boston-dynamics.md",
       "title": "Hyundai officially takes controlling stake in robot maker Boston Dynamics",
       "excerpt": "Korean car manufacturer Hyundai announced that it had closed a deal to purchase controlling stock in US robot maker Boston Dynamics. The company, well-known for its",
@@ -1095,50 +1147,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-turkish-bank-isbank-selects-driverless-ai-platform-from-h2oai-for-income-prediction-cash-forecasting-check-default-prediction-applications.md",
-      "title": "Turkish Bank, İşbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications",
-      "excerpt": "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in Turkey, has selected H2O’s Driverless AI platform to upgrade its Income Prediction,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/turkish-bank-bank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting/article_01c26943-9fad-5d38-a7c4-8d0862132ad2.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/turkish-bank-bank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting/article_01c26943-9fad-5d38-a7c4-8d0862132ad2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

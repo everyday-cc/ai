@@ -161,6 +161,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Neural Network Software Market Size, Competitive Landscape, Revenue Analysis, 2016–2026"
+    excerpt: "The global neural network software market is forecast to reach USD 97.11 Billion by 2026, according to a new report by Reports and Data. The neural network software distinguish the subtle nonlinear interdependencies with individual patterns of data and self-learn to produce complex decisions without being programmed."
+    publishedDateTime: 2021-07-21T11:11:00Z
+    webUrl: "https://www.globalbankingandfinance.com/neural-network-software-market-size-competitive-landscape-revenue-analysis-2016-2026/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/neural-network-software-market-size-competitive-landscape-revenue-analysis-2016-2026/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/neural-network-software-market-size-competitive-landscape-revenue-analysis-2016-2026/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 31
   - title: "Artificial Intelligence Oil Gas Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "Artificial Intelligence Oil Gas Market is expected to rise at a moderate CAGR during the forecast period from 2021 to 2027 Companies in the oil and gas sector are experimenting with contemporary technologies to increase their efficiency and revenue By"
     publishedDateTime: 2021-07-19T09:47:00Z

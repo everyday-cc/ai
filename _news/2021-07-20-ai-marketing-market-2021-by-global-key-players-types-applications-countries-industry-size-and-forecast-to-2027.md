@@ -63,6 +63,17 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 27
+  - title: "AI in Fintech Market Size, Revenue Share, Drivers & Trends Analysis, 2016–2026 | Reports And Data"
+    excerpt: "The global AI in Fintech Market is forecast to reach USD 26.77 Billion by 2026, according to a new report by Reports and Data. The AI in fintech incorporates computational power and deep learning algorithms to the financial technology."
+    publishedDateTime: 2021-07-21T11:11:00Z
+    webUrl: "https://www.globalbankingandfinance.com/ai-in-fintech-market-size-revenue-share-drivers-trends-analysis-2016-2026-reports-and-data/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/ai-in-fintech-market-size-revenue-share-drivers-trends-analysis-2016-2026-reports-and-data/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ai-in-fintech-market-size-revenue-share-drivers-trends-analysis-2016-2026-reports-and-data/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 26
   - title: "Global Digital Pathology Market (2021 to 2026) - Integration of AI into Healthcare Presents Opportunities - ResearchAndMarkets.com"
     excerpt: "The “Digital Pathology Market - Global Outlook and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global digital pathology market by revenue is expected to grow at a CAGR of over 10% during the period 2020-2026."
     publishedDateTime: 2021-07-19T11:51:00Z

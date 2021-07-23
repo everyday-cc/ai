@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automate-annotation-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-annotation-of-image-training-data-with-amazon-rekognition/"
 type: article
 quality: 121
-heat: 202
+heat: 192
 published: true
 
 provider:
@@ -71,22 +71,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/28/ML-2048-image3-797x630.png"
         width: 797
         height: 630
-        isCached: true
-  - title: "What are the dangers of facial recognition?"
-    excerpt: "Robert Williams was wrongfully arrested after a facial recognition system failed to identify the correct culprit. Mr. Williams is seeking justice in a civil rights lawsuit."
-    publishedDateTime: 2021-07-18T19:08:00Z
-    webUrl: "https://www.msnbc.com/the-sunday-show/watch/what-are-the-dangers-of-facial-recognition-116981317527"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo116981317527"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo116981317527"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 59
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626635161004_n_capehart_facial_recognition_211807_1920x1080.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Face-Recognition Amazon Tech Under Fire From Lawmakers"
     excerpt: "The controversial artificial intelligence software, called Rekognition, scans images and videos to identify objects, emotions, people, text and activities, according to the Seattle-based company’s website. Amazon, which runs Rekognition on its servers ..."

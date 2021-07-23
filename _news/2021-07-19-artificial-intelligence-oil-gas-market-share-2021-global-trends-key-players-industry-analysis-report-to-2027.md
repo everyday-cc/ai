@@ -170,6 +170,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 32
+  - title: "Neural Network Software Market Size, Competitive Landscape, Revenue Analysis, 2016–2026"
+    excerpt: "The global neural network software market is forecast to reach USD 97.11 Billion by 2026, according to a new report by Reports and Data. The neural network software distinguish the subtle nonlinear interdependencies with individual patterns of data and self-learn to produce complex decisions without being programmed."
+    publishedDateTime: 2021-07-21T11:11:00Z
+    webUrl: "https://www.globalbankingandfinance.com/neural-network-software-market-size-competitive-landscape-revenue-analysis-2016-2026/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/neural-network-software-market-size-competitive-landscape-revenue-analysis-2016-2026/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/neural-network-software-market-size-competitive-landscape-revenue-analysis-2016-2026/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 31
   - title: "Automotive Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "Automotive Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 Government regulations across the globe are getting stringent for the safety of driver without making them compromise on their comfort"
     publishedDateTime: 2021-07-22T10:45:00Z

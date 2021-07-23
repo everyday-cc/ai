@@ -8,9 +8,9 @@ webUrl: "https://venturebeat.com/2021/07/22/deepmind-open-sources-protein-struct
 ampWebUrl: "https://venturebeat.com/2021/07/22/deepmind-open-sources-protein-structure-dataset-generated-by-alphafold-2/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/deepmind-open-sources-protein-structure-dataset-generated-by-alphafold-2/amp/"
 type: article
-quality: 88
-heat: -1
-published: false
+quality: 188
+heat: 338
+published: true
 
 provider:
   name: VentureBeat
@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 617
         isCached: true
+  - title: "DeepMind's AI uncovers structure of 98.5 per cent of human proteins"
+    excerpt: "Deepmind's AlphaFold can predict the shapes of nearly all proteins in the human body, paving the way for the development of new drugs, and the company aims to use this AI to publish the structures of"
+    publishedDateTime: 2021-07-22T16:05:00Z
+    webUrl: "https://www.newscientist.com/article/2284733-deepminds-ai-uncovers-structure-of-98-5-per-cent-of-human-proteins/"
+    ampWebUrl: "https://www.newscientist.com/article/2284733-deepminds-ai-uncovers-structure-of-98-5-per-cent-of-human-proteins/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2284733-deepminds-ai-uncovers-structure-of-98-5-per-cent-of-human-proteins/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 74
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/07/22155326/22-july_deepmind-proteome.jpg?width=600"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Putting the power of AlphaFold into the world’s hands"
     excerpt: "In partnership with EMBL-EBI, were incredibly proud to be launching the AlphaFold Protein Structure Database."
     publishedDateTime: 2021-07-22T00:00:00Z
@@ -125,6 +141,36 @@ related:
         width: 790
         height: 320
         isCached: true
+  - title: "DeepMind says it will release the structure of every protein known to science"
+    excerpt: "The company has already used its protein folding AI, AlphaFold, to generate structures for the human proteome, as well as yeast, fruit flies, mice and more."
+    publishedDateTime: 2021-07-22T15:07:00Z
+    webUrl: "https://www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome/"
+    ampWebUrl: "https://www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 56
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/07/Proteins-1.jpg?w=1920"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "DeepMind’s AI predicts structures for a vast trove of proteins"
+    excerpt: "AlphaFold neural network produced a ‘totally transformative’ database of more than 350,000 structures from Homo sapiens and 20 model organisms."
+    publishedDateTime: 2021-07-22T15:33:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-02025-4?s=07"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 54
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02025-4/d41586-021-02025-4_19383154.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google turns AlphaFold loose on the entire human genome"
     excerpt: "Just one week after Google's DeepMind AI group finally described its biology efforts in detail, the company is releasing a paper that describes how it analyzed nearly every protein encoded in the human genome and predicted its likely three-dimensional structure—a structure that can be critical for understanding disease and designing treatments."
     publishedDateTime: 2021-07-22T15:00:00Z
@@ -138,6 +184,22 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/07/paveltich-mskcc-figure-12x8-760x380.jpg"
         width: 760
         height: 380
+        isCached: true
+  - title: "DeepMind and EMBL release the most complete database of predicted 3D structures of human proteins"
+    excerpt: "DeepMind today announced its partnership with the European Molecular Biology Laboratory (EMBL), Europe's flagship laboratory for the life sciences, to make the most complete and accurate database yet of predicted protein structure models for the human proteome."
+    publishedDateTime: 2021-07-22T15:00:00Z
+    webUrl: "https://phys.org/news/2021-07-deepmind-embl-database-3d-human.html"
+    ampWebUrl: "https://phys.org/news/2021-07-deepmind-embl-database-3d-human.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-deepmind-embl-database-3d-human.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/deepmind-and-embl-rele.jpg"
+        width: 640
+        height: 384
         isCached: true
   - title: "DeepMind Open Sources AlphaFold 2.0"
     excerpt: "These concerns are put to rest with DeepMind’s decision to open-source AlphaFold 2.0. As per AlphaFold researcher John Jumper, the open-source version is 16 times faster and can"
@@ -153,7 +215,44 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "DeepMind delivers on promise of protein structures"
+    excerpt: "DeepMind said its new protein database may be the ‘most significant contribution AI has made to advancing scientific knowledge to date’."
+    publishedDateTime: 2021-07-23T08:52:00Z
+    webUrl: "https://www.siliconrepublic.com/innovation/deepmind-alphafold-protein-folding-database"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/07/amino-acid-scaled-1.jpeg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Alphabet firm DeepMind releases massive database of 3D protein structures"
+    excerpt: "DeepMind has used its highly accurate deep learning model AlphaFold2 to predict the 3D structure of 350,000 proteins."
+    publishedDateTime: 2021-07-22T15:00:00Z
+    webUrl: "https://www.statnews.com/2021/07/22/deepmind-alphafold2-alphabet-proteins/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 38
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2021/07/Protein-artwork-2-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "DeepMind Releases Open Protein Structure Database Including Complete Human Proteome"
+    excerpt: "DeepMind and the European Molecular Biology Laboratory (EMBL) today unveiled the most complete and accurate database of predicted protein structure models for the human proteome. The database includes about 350,"
+    publishedDateTime: 2021-07-22T15:23:00Z
+    webUrl: "https://www.bio-itworld.com/news/2021/07/22/deepmind-releases-open-protein-structure-database-including-complete-human-proteome"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 13
 
-secured: "9rleiKG0yA1EP1ay7ZZzW1NeF05tHa1aAURvwkJbV2m1gqn3+QG46yIVt7fGk9tktiSiGIcKFvL/cXFzCdrUuQzvcqknHlUo+SiFAkZis8Ha4PJvI6pmZZ6ckZZNmoyCRQKnHbH5wZw8KOIXI2YM7WXaw/U4fhV/O5KSvVITmXkBiq+XrWo8HqZhu2hiUM0n9KZD6CAMNqrFfmXYa/sPib9WNCeTO+kLAZSjAid/5VpmHEWL4M0VbGrUn2NOuulKDv35U3X4gnkOMUYfAMerlaxMe8/Ymv2YKvgtAKMRB00Izeg8hx47CXBZQ8VWValkDHwGAQ6S/7ZYkbtasEnTT8sF0IJBq5Tq5+8bNwRTKu4JHWTH5MNGy7JdaOJ6+jHDftrlbUnVsyzNdxrMfZXNS1IExVdZuMXarFZRgvR2oo6nybU6RniXsaAW4nLcA9rOUt+PSHpopg+TAYdgcJ46Hu9bYWeJP22pvHkIRLvuju45a6D75JpsUYtyGjRGdiAMn21b1DVTBqK5D9+xcx5OsQ==;pPJI9ptDjlgG6+Q2Ib8kmA=="
+secured: "60nObtnqkhbHEuIWUbjYJOXlcLKmxOEldpnymJQKQ4q6kNUawbxGg8K8khF5HrazlRe+/1trKbQ1BEe2pThgSrJcWPTmwbQyCI0oZTnxuVF1OZ1wk57xl/IXbVN1ZOLzBCARTUzLLUSUgXgt7talhVCRMJQNFh2W3LhVcmSSKBBJhA6JaL+rNm0YBmaFjzARQhZ7jhwCbIpnMEA5YT04ZkvP6SLdz3DP+Zooo/tsGhNR7uqY8BbhVgujZGS0h/rufblfKeCdeyvGNhze1wuuZ3hMnG67rZZ2C+Tuo21gV7PbN5uiCh3VrK07aAlFS6CogZSni2d+s6FFlNHmivX7burPqJQo1DkHAUeSnSPjcdxfUAeFabH+ddt6GKuXDMufhRqaYQsGown0/zKeoDxlU5rSjROhzn6uSait7gVtMfNh2u8FQ3q2+0iXZfD2l5+Ovyn6k6YRy4G+5GBqKKAvKi1c4ZNOdgLxiTWpTU+hZc+soXMgajSsykj+Q//XF5wmR+AXKDSfz9M/WCsD6JoaH55xpRD9G4GQJV0FNbVpT44=;IIUJ+nLqWQoPl1PjPHXRtQ=="
 ---
 

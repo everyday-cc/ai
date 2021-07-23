@@ -76,6 +76,17 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 27
+  - title: "AI in Fintech Market Size, Revenue Share, Drivers & Trends Analysis, 2016–2026 | Reports And Data"
+    excerpt: "The global AI in Fintech Market is forecast to reach USD 26.77 Billion by 2026, according to a new report by Reports and Data. The AI in fintech incorporates computational power and deep learning algorithms to the financial technology."
+    publishedDateTime: 2021-07-21T11:11:00Z
+    webUrl: "https://www.globalbankingandfinance.com/ai-in-fintech-market-size-revenue-share-drivers-trends-analysis-2016-2026-reports-and-data/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/ai-in-fintech-market-size-revenue-share-drivers-trends-analysis-2016-2026-reports-and-data/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ai-in-fintech-market-size-revenue-share-drivers-trends-analysis-2016-2026-reports-and-data/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 26
   - title: "Deep Learning Market Size, Share, Status and Forecasts 2021 – 2028"
     excerpt: "The Deep Learning market research report assesses the global Deep Learning Market industry market and includes sales and capacity forecasts for the anticipated period 2021-2028. The factors driving the growth of the industry are highlighted in the report."
     publishedDateTime: 2021-07-21T01:11:00Z

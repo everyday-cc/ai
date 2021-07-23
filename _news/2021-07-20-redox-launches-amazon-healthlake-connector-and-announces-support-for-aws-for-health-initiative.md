@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
-excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"
-publishedDateTime: 2021-07-20T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
-webUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
+excerpt: "Amazon HealthLake further structures the data and enables customers to easily use Amazon SageMaker machine learning ML models and Amazon QuickSight analytics, making it seamless for researchers ..."
+publishedDateTime: 2021-07-20T14:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-1030625892"
+webUrl: "https://markets.businessinsider.com/news/stocks/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-1030625892"
 type: article
-quality: 27
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/680972/Redox_Logo.jpg?p=facebook"
-    width: 902
-    height: 475
-    isCached: true
 
 related:
   - title: "Dotmatics Announces Support for the AWS for Health Initiative"
@@ -97,6 +95,6 @@ related:
       domain: wfmz.com
     quality: 7
 
-secured: "viVsmd5eO3Ai9STfGfy+bklCaYaWsV5LWna0jveZ2mBA9p8IejhvLSufx5gtqtj6lzyWS3+IvcD+yJ0flJrwEIKIelqc+rhCALQkYXzaWAXPQNpgOzhRTwUwyUvoUjWDDp4bdB2HBIBkvzPmqhH8B6G/CSnE9emBULOSgQM+MFCAmB+olGuy1ePW6VcM++3KeogHu7TmETc7+ig1ZtuX2xarlWNwfbUjgoV6+HZ8nCjLEMOySMTbjl0Pt7vfM/CcFjWcPHof86xaB1/gsXDEQ+XCLKaar5vlNYBr4KKLjkjf4Cd3da2s9BFOxOuh6+pQA3Cd8T3UheEPtN7EFdedjDakpFv8R/s2H1BshD7Fs30=;54+ZnQn/qzMGkCgZeqsUTg=="
+secured: "mEEksCRcL7ZCH+zQUNB4yhtBoabvO98TcLAZijHExB845leUbFzOMz+3GmcPOL/7DWVfQmPwWxzpDyecpLY3ogz5YKr4UR9z/8U1ifVvcOvnLpkCud1GiKLpx5rMLKi1B9nBBSOM1YeM680EKCJBHWlnonkgdykgbFgQ3UtYK3GjkBvmXRp2lg59Lo14qiM21HFvJslUquKDXNFVIBwM8zJRuMc+USSG8GAdJ9wnonOi6tE0OW9cG9yOWBtTMyVx9riFmGeOugKZSzHlTTDNqp4jir60VHi9Lo1y0WWiseg+ulwPQmXq660rFaMcwxyEm8rgn/V6D76daG7VLBztdLZ+N1385PPy+BZqG04QR8k=;BZmKY90y6iDASVJSL7BPuw=="
 ---
 

@@ -25,6 +25,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Vroozi’s New Artificial Intelligence Engine Enables Procurement and Finance Leaders to Transform and Modernize Operations"
+    excerpt: "Vroozi, the leading digital purchasing and spend management platform for enterprise and mid-market companies, has launched a new AI-driven procurement"
+    publishedDateTime: 2021-07-22T20:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210722005141/en/Vroozi’s-New-Artificial-Intelligence-Engine-Enables-Procurement-and-Finance-Leaders-to-Transform-and-Modernize-Operations"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
+
 secured: "isLIL2sX+n8H2dzzQen9OWKaz3pOqTsJ1LoVeBIOBXpKzBayLj71vNgZC1qJwF2oaoBTXum+MWm9FM0q8MjvrguMah9NascuP5UJ+kZoVc+4nw10aqjf4WBsiC7Efglh+ITf/16vXnOqhHSGouclq0atR4GAakct5UqC/G/dQOEbr8T3sOrhHbedrtebZpsDEmtLGL+bgAdtV651nK/9ew+IIV1qHAsXB0DekyBwyiauFaZofKY+9Js3/44OnBi7Ja0ihzVVVng6vz9Y4OpTk8lEFW1tJAmZEa9Pk7ABQ+KyeWDv76FE7rohC5rR2AUnRnLhqXzEvOzEkcjuag74YkuaYpRK0hdpbvhLQ/7iKng=;/FL7jVUJOihmsnzrYVcACw=="
 ---
 

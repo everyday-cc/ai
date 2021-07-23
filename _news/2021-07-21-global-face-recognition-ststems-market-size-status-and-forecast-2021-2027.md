@@ -27,7 +27,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -119,6 +119,17 @@ related:
         width: 700
         height: 407
         isCached: true
+  - title: "Artificial intelligence ai platform Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Artificial intelligence ai platform market is expected to grow at a significant CAGR in the period from 2021 to 2027 The Artificial Intelligence AI platform market is said to have a potential scope for growth in the years to"
+    publishedDateTime: 2021-07-19T11:20:00Z
+    webUrl: "https://www.openpr.com/news/2331519/artificial-intelligence-ai-platform-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2331519/artificial-intelligence-ai-platform-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331519/artificial-intelligence-ai-platform-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
   - title: "Artificial Intelligence Products Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2027"
     excerpt: "Jul 20, 2021 (Heraldkeepers) -- This report describes the global market size of Artificial Intelligence Products from 2016 to 2020 and its CAGR from 2016 to 2020, and also forecasts its market size to the end of 2026 and its CAGR from 2021 to 2026."
     publishedDateTime: 2021-07-20T07:11:00Z
@@ -175,6 +186,39 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Artificial Neural Network Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Neural Network Market is projected to rise at a considerable CAGR during the forecast period from 2021 to 2027 The technology is a set of instructions programmed in order to achieve human brain alike operations through machines The advent"
+    publishedDateTime: 2021-07-19T09:57:00Z
+    webUrl: "https://www.openpr.com/news/2331392/artificial-neural-network-market-share-2021-global-trends-key"
+    ampWebUrl: "https://www.openpr.com/amp/2331392/artificial-neural-network-market-share-2021-global-trends-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331392/artificial-neural-network-market-share-2021-global-trends-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
+  - title: "Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 The market is growing at a rapid rate due to the rise in the investment in AI technology by big market"
+    publishedDateTime: 2021-07-19T10:28:00Z
+    webUrl: "https://www.openpr.com/news/2331439/artificial-intelligence-market-share-2021-global-trends-key"
+    ampWebUrl: "https://www.openpr.com/amp/2331439/artificial-intelligence-market-share-2021-global-trends-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331439/artificial-intelligence-market-share-2021-global-trends-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
+  - title: "Artificial Intelligence In Military Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Artificial Intelligence In Military Market is expected to rise at a moderate CAGR during the forecast period from 2021 to 2027 There are various pivotal factors that are driving the global AI in military market which includes growing defense industry"
+    publishedDateTime: 2021-07-19T09:18:00Z
+    webUrl: "https://www.openpr.com/news/2331326/artificial-intelligence-in-military-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2331326/artificial-intelligence-in-military-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331326/artificial-intelligence-in-military-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
   - title: "Artificial Intelligence Chipsets Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Artificial Intelligence Chipsets Market size is expected to grow at an annual average of 35 during 2021 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the continuous advancement of technology Due"
     publishedDateTime: 2021-07-20T13:16:00Z
@@ -197,6 +241,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 16
+  - title: "Artificial intelligence in transportation Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Artificial intelligence in transportation market is expected to grow at a significant CAGR in the period from 2021 to 2027 Government rules for car safety are becoming more stringent as is the use of advanced driver assistance systems ADAS"
+    publishedDateTime: 2021-07-19T11:49:00Z
+    webUrl: "https://www.openpr.com/news/2331537/artificial-intelligence-in-transportation-market-share-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
   - title: "Global Artificial Intelligence Chatbots Market 2021 Industry Emerging Trend, Top Players, Revenue Insights to 2026"
     excerpt: "According to the latest report by MarketQuest.biz, titled Global Artificial Intelligence Chatbots Market 2021 by Company, Regions, Type and Application, Forecast to 2026, covers assimilates reliable and updated information,"
     publishedDateTime: 2021-07-23T10:01:00Z
