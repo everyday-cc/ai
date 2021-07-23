@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-u
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/"
 type: article
 quality: 184
-heat: 514
+heat: 504
 published: true
 
 provider:
@@ -252,22 +252,6 @@ related:
       - url: "https://media.consumeraffairs.com/files/news/Tesla_logo_on_steering_wheel_JasonDoiy_Getty_Images.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Tesla Mobile App Update Includes $199 Monthly Self-Driving Subscription"
-    excerpt: "Tesla plans on offering a new subscription version of its Full Self-Driving package with several features for self-driving cars including navigating on autopilot, autopark and other things, a report from Electrek says."
-    publishedDateTime: 2021-07-19T01:48:00Z
-    webUrl: "https://www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/"
-    ampWebUrl: "https://www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/tesla-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
   - title: "Visa Rebrand, Pandemic Optimism, Tesla Self-Driving Cars Top This Week’s News"
     excerpt: "In this week’s news, we saw Apple Pay Later loom as a threat to card issuers, and Visa’s rebrand is about being a global acceptance network."

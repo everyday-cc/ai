@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-23T17:21:00Z
 originalUrl: "https://siliconangle.com/2021/07/23/alphabet-launches-robotics-venture-intrinsic-train-industrial-robots-ai/"
 webUrl: "https://siliconangle.com/2021/07/23/alphabet-launches-robotics-venture-intrinsic-train-industrial-robots-ai/"
 type: article
-quality: 65
+quality: 67
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/image-1.png"
@@ -42,15 +43,20 @@ related:
         height: 710
         isCached: true
   - title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-    excerpt: "Alphabet Inc's GOOGL.O secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
-    publishedDateTime: 2021-07-23T13:35:00Z
-    webUrl: "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23"
+    excerpt: "Alphabet Inc's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project,"
+    publishedDateTime: 2021-07-23T13:40:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 56
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15280054/16x9/991/557/8aa600f18375888ddef8e65715e2d356/gZ/file-photo--a-sign-is-seen-at-the-entrance-to-the-google-retail-store-in-the-chelsea-neighborhood-of-new-york-city-2.jpg"
+        width: 991
+        height: 557
+        isCached: true
 
-secured: "V5xsPewqbpvXQAqRGPv0TucofOLVJcOkrBlJ8U68hXrW4ajHqMEo0s6lPqIBg9pbE3UzWBdSNkzDT5nnWPhbwjhRZEEx2JgX7Nb86Yggxwm8sN0wZWbgUDmvKW28bqe97U+T2yi5BVBuQVY6I/qoW6JTPS+ejyi05baGFAd5elnV6h37f3gqV5i59LNGHbwkPX3o6WAsxtyi3zkVZev/WdD5e97C0ytrilYvIQiAYWAU9Qc5dQNP+6tFz4Bdd/hZq9OTw4oEm1JFxdSu1pmpY3Uq8vJ5AByVMix4Z4xz8alTxGfl8y21qAXz4oyfNP9AwMqtpX3/v6rOI9ZQLWga6gNe54u2bSFxP4FuKgH9/zQ=;x0a0xR/a2eMcRyZwN3IweA=="
+secured: "mmdC8m0b+dCG1TQuiMePEKaVi5isUgDIcnyymEdVQu8936i5F2eV300lJHZPV124AlWnPWK941H2LoYvCWz4ywjwT/kcEaFiDeLoeL/wR1x5FeC5Eccqf7NLC/RGrU//Fv1mjB9XC5XNRKEUMG4VB/twxu1u1eWWlkPjCLoQ309F2/1Kkz9bZ6m4S5tKjUQEbyXO7GmCJkW8ssJ+SsP4NS7cue02RgwXeyLKsa+66WcFFBIC5rnZKAR8arIO3RGPIRSIlw+8AIqvavdZiLjQGPVwMgknDx0TA5FOz5Jf5Wfcp80ellrKezykpYB8VCOky2FvBrIPsBdjJ/U+gSQ0bLEB5xIrOZv+3qxZMGBlzK2fCWaHm8BZ2dV62EMGgTrmecrGnDhS4+j+JB9UjNK04G5yiXC/EGN0G9fR44+DtxyY6V2ZklzT8PlHGU48xf3RVHCwOPWzM6rcohsLc39VUIpmnors0AW8oXvTspW9Lm4OUQmyXVtG2bKzUkQqoyva9NGehwnvU/bCIY4aU5mlQQ==;QH+sRCxc6Q/60TRnuwJR+g=="
 ---
 

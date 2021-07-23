@@ -265,22 +265,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Tesla Mobile App Update Includes $199 Monthly Self-Driving Subscription"
-    excerpt: "Tesla plans on offering a new subscription version of its Full Self-Driving package with several features for self-driving cars including navigating on autopilot, autopark and other things, a report from Electrek says."
-    publishedDateTime: 2021-07-19T01:48:00Z
-    webUrl: "https://www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/"
-    ampWebUrl: "https://www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/subscription-commerce/2021/tesla-mobile-app-update-includes-199-monthly-self-driving-subscription/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/tesla-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Tesla makes Full Self-Driving available as $199 monthly subscription"
     excerpt: "Tesla is making its pricey Full Self-Driving (FSD) electronic driver-assist feature available as a subscription. FSD is being offered as a $199 monthly subscription for cars equipped with Basic Autopilot and $99 when Enhanced Autopilot is equipped."
     publishedDateTime: 2021-07-19T12:45:00Z
@@ -502,6 +486,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "9Ij8iJjlm0isPln8GoJqJPmLjuMKxMHUfbTMYKUpBKwvzBHys+oyJj2qd0IOmipQ42wOt3fyWfWQuKe8lyuKZV7b6lys+WwwmMaS8DndpsqaosI6dwIkAL4+p/QiQHxvop1ES2ETTEkycsNRzDCtcitCfrxvOnUYsjzmQH8b6085c+Bs3WjXBjWLL8iN5w799nK8+6SC83dUEs609MDSM720m+06Bdtbzf9kcmnve1YFF6GHRBWGnXoOQ7jpDLVw4GSPsB38ubSmuYru4rKI6H88L7sRQtl63iU8O9gSMa9HamzDbOAG8+4VT8DzUCo2nnc5vVpp2cB/ir0rnmBAXLWFWQse4S8kKKA6tzhDgKY=;U8cR6G+wtgpXANmtOB2tlA=="
+secured: "h9YOU6Gv+jWJKQ/VVNEOYiQZYqA59Rb6WsAgYm1AxIyJs0uBL3E7i5m/qQHFDl9jF6gpYFQx1Z/1HPqd0sdUE3YDQE4oYJAv7NZYUtdtXvM04Vf1fqe7OfY6HOITkGu3jSO8z4avtLAu/hM5vrnfEdrFgEwPsxBmKAiHv+TPIrmzsQUlfpn2qHlK5Q8i42SUKlDNtwJuQl3ccZY/WOcTFZJivGZFUsv3QgY8WYJqJDgx1eeJfiuWR+GYIPY12qVhPWH6bcSXOrTkylI0CclH+shk8o9VR7IDxI7fI1btIbpZun2rZce+BaCKszwB0IKZpyqn1y9TCy+eTyAvdRLqHX1DD0KSCaLNQPVdasSCM0ySDqxqajIrSyH+9i7XijmU5fLcKpqTvCbgbRsi7rzifXv+RRvthQJ7W+1S4Y25722XvO0Xw8Ly4dv0G16ijt2UWqOZcwYP3YVELS5+auHAeSTtQVCr69WCiA/UfHa184QwUTsmyQJ4kGoTUp+7T6F0C0FZUhQSpDsf+Hg4M2cPDA==;FcBTpjBfsEyXCw018enUyw=="
 ---
 

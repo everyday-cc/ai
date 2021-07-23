@@ -253,6 +253,15 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "DeepMind Releases Accurate Picture of the Human Proteome"
+    excerpt: "\"We believe this represents the most significant contribution AI has made to advancing scientific knowledge to date,\" said DeepMind founder and CEO Demis Hassabis."
+    publishedDateTime: 2021-07-23T18:44:00Z
+    webUrl: "https://cacm.acm.org/news/254251-deepmind-releases-accurate-picture-of-the-human-proteome/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
   - title: "DeepMind Releases Open Protein Structure Database Including Complete Human Proteome"
     excerpt: "DeepMind and the European Molecular Biology Laboratory (EMBL) today unveiled the most complete and accurate database of predicted protein structure models for the human proteome. The database includes about 350,"
     publishedDateTime: 2021-07-22T15:23:00Z
@@ -263,6 +272,6 @@ related:
       domain: bio-itworld.com
     quality: 13
 
-secured: "0MNLJ6TY6LhOzXtsoLAFSwAUIG+nujCYad0eDD4ywzsQG3zo04RLq6vBJRjXb+FQd8rW2cEy7+etAarqtVNcRXLIQy92PHpAXZGa5S3O9PKI90JcN9bTdeynvAjfe1Oe/JDy9l8zCx/hv4O3v+ictjP/0bkoJBhCoUQTj3FfnY0xUgMrWyFqpuBVmAjRH1Ovg6x1kn52hUumFC/1xYTd9L8kbZ00jFmX+pt8oPXntLgyvpAPWPjFfmptt2I5ITIi0Iu6jlrYacIwNV/CUMoowdKdcHn5gglp9giw/RIcipcvnGPU0DSsyVNGQDc3bUXoaceiwiEYvpMSUJddBf7l5tp3Qyydr87Cs927YMeWVFo=;wGbPWXOx+sne1XVDsU6xQQ=="
+secured: "2czpK4C4WuD/OpMpZl7a070udUSPoEQH5Z6MC6pU213uqxccV8BPnp3hXZ5NLmrbIZx7DY0yWVb1OEPdj+DakGVR+txRrKJX4tu7uuJteqiPc3fJSIaKUuF144WVevAHEkwO8nVoZf+GIgPD+VWZfLoI4ghYRxCoqtMYIMQXybzKVBiy9+1/sQmmRE0q9NeY7utFnQfNIqix+Ce1N6ZV+iL481jFpDnrq3mpGeqA1O2XslQ9ENLYYIqo4WXM8N9VPmtWzz0h7Euh47S7y+RaOJ2DQj0Zo62nWQEq+THBknAxMfyrtWoa2pcSCxkePoc4Kuzt4iApF92aM2XcVziSnCdWjPB5AimqLTf471AouNk=;bjqQ49SYO8q1c9N8MawGKQ=="
 ---
 

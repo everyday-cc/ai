@@ -39,6 +39,17 @@ related:
         width: 1193
         height: 1194
         isCached: true
+  - title: "Digital Transformation Spotlights Long-Standing Data Issues in the Financial Industry"
+    excerpt: "By Diane Robinette, CEO of Incisive Software A digital transformation is well underway in the banking industry as financial institutions further evolve their internet and mobile banking services. In the mid- and back-office,"
+    publishedDateTime: 2021-07-23T19:13:00Z
+    webUrl: "https://www.globalbankingandfinance.com/digital-transformation-spotlights-long-standing-data-issues-in-the-financial-industry/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/digital-transformation-spotlights-long-standing-data-issues-in-the-financial-industry/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/digital-transformation-spotlights-long-standing-data-issues-in-the-financial-industry/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 17
 
 secured: "1ZdpGtMGBjowGJ7wGw9NnfgkLrU69d8nu86nGeuXPoQM6VwcPLNrN92q+xws4qq1q/l16o5rd4S8sd4aiTBIdk/knXrPjn0XlOEOjNlHNzD7F5zcf/cfQcPQNmxxjSwGPHsCh+S4ycmGCfTqHCEebcrf7D3smtDZyPPpFUbmK/hf8Vul9nJayAlSPdhh8AuycfH6IEh1G2sAKe143KYllV8B7CVzDbMsHXFVx5icsIgLDejpC6VAnLTtM4DbdLJoTrua80197JprYRw7KIkkB1Tjnn+NK/BzIsj/coTAtNsjYDewsfH7IUZAjMqJXpx9FKrH0kWxqXtDmXsVHF7ghfCG0OPkPbbi9H5CVSGJVE/rRl5/hnO8V+5PjgUpIvNjGOqREt3ncTMtBCRZPODzbV7UbAseTnE53GuL0yq0X0q5g6FtgvRQExYAdUvPdR7c663BluzbSItMjgG+WwNsnyy+z5tpFLBdBf3Zmz9B8dyfVOl1bK/7nVsaan9NPcW2nsdUy4+mIuUEHz6dAVX2Zw==;MlMWEnZ6HWi/d3fh1nRwcg=="
 ---

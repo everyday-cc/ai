@@ -25,22 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Move Over Wandavision, Climavision Is Taking On Big Weather With AI"
-    excerpt: "This new AI-powered weather radar and satellite network has plans to fill the gaps in the existing NOAA and NWS systems across the US."
-    publishedDateTime: 2021-07-20T18:24:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferhicks/2021/07/20/move-over-wandavision-climavision-is-taking-on-big-weather-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2021/07/20/move-over-wandavision-climavision-is-taking-on-big-weather-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/07/20/move-over-wandavision-climavision-is-taking-on-big-weather-with-ai/amp/"
+  - title: "25 States Are Forcing Face Recognition on People Filing for Unemployment"
+    excerpt: "State labor departments claim that they're using face recognition identity verification to prevent fraud, but you might want to check out the privacy policy."
+    publishedDateTime: 2021-07-23T18:00:00Z
+    webUrl: "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707"
+    ampWebUrl: "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 88
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f712e30a4ce030b063132d%2F0x0.jpg"
-        width: 1200
-        height: 799
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/401a169d87d990b688a397d4df93cbd1.jpg"
+        width: 800
+        height: 450
         isCached: true
+  - title: "States Voice Recognition for Smartphones"
+    excerpt: "| Apple, Google, Microsoft, Nuance, ... States Voice Recognition for Smartphones Market COVID 19 Impacted In-Depth Analysis including key players Apple, Google, Microsoft, Nuance, ... States Voice Recognition for Smartphones Market Investment Analysis | Apple,"
+    publishedDateTime: 2021-07-20T11:27:00Z
+    webUrl: "https://www.openpr.com/news/2332686/states-voice-recognition-for-smartphones-market-is-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2332686/states-voice-recognition-for-smartphones-market-is-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332686/states-voice-recognition-for-smartphones-market-is-booming"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/7/U720478281_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Insights on the Face Recognition Using Edge Computing Global Market to 2025 - Featuring Apple, Horizon Robotics and Mediatek Among Others"
+    excerpt: "12.16 Cisco Systems, Inc. 12.17 Belden Inc. 12.18 IBM Corporation 12.19 Intel Corporation 12.20 Moxa Inc."
+    publishedDateTime: 2021-07-21T13:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/21/9413820.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "Yon7Ij+Y8gh9buyqI2eHJg50TbOfZl2uuT9KjjQrPf4h+OjKGMEoDukRhhGfCsCDToll2cDpoPXnc84CVYwlB8bdAmOm23zFhgXx8Oj5N1RzChmCniAeuRTm5w4u/0/9wSdtKCYrNZff4KzH7U+tKHQ8lmI336J6N4T3WbfXiL94J82O5N/zLpVVhSi6jgNce7R38Su6AS5GwajHHU6nGmtBZW9pt6XnnJvhSr5tc7puPT24g4/HNDAZPOiBCxCv4R5JYsDO2ug1+qmpAJc2mhwRgIIl+OPxpgFFyEzQTaurgD9X8Cxf7P0TwYWrg19n/Zp97zb3q6/3Nu90fP35F3noyvd8IXTTK2NONCWwVaxuJ2Lpi+MEb78AbsS/y2+FBo6Or9Mpkr9+BK7EU96XZQWsUeQepvqu9wmE3jFYcd1CNoDP4HSJ+/ZhayrtMZp/jmqQaKciII65BLvwYmbyptqP+F69k/0wY443VZgD7mDLa+aZrtQABPCUiwiKnNKTubZbvZyojEgU9ZHOOIwMEw==;Dy9/a9Eeeennx4jUTIUdNA=="
 ---

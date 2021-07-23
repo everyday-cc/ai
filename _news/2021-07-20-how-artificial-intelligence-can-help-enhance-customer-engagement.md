@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 819
         isCached: true
+  - title: "5 Ways AI Helps Customer Agents Deliver Better Results"
+    excerpt: "As the AI-human relationship evolves, cutting-edge customer service centers are doubling-down on their digital counterparts."
+    publishedDateTime: 2021-07-23T19:32:00Z
+    webUrl: "https://www.forbes.com/sites/servicenow/2021/07/23/5-ways-ai-helps-customer-agents-deliver-better-results/"
+    ampWebUrl: "https://www.forbes.com/sites/servicenow/2021/07/23/5-ways-ai-helps-customer-agents-deliver-better-results/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2021/07/23/5-ways-ai-helps-customer-agents-deliver-better-results/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fac4bdd62b78d632956653%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Three Ways AI-Integrated Technology Can Battle A Broken Supply Chain’s Impact On Customer Experiences"
     excerpt: "Over the past decades, companies’ call centers have shifted overseas and are now changing once again as they work in hybrid work environments."
     publishedDateTime: 2021-07-20T11:00:00Z

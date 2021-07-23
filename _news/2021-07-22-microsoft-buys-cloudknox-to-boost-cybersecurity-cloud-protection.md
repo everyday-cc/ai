@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://s32659.pcdn.co/wp-content/uploads/2021/07/WSTA-cybersecurity-for-fintech-virtual-event.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Artificial Intelligence: Next Frontier is Cybersecurity"
+    excerpt: "NSA’s Jason Wang, technical director for the Computer and Analytic Sciences Research Group, forecasted a future in which AI will support the Intelligence Community’s (IC) efforts to secure and defend"
+    publishedDateTime: 2021-07-23T19:02:00Z
+    webUrl: "https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2702241/artificial-intelligence-next-frontier-is-cybersecurity/"
+    type: article
+    provider:
+      name: National Security Agency
+      domain: nsa.gov
+    quality: 37
+    images:
+      - url: "https://media.defense.gov/2021/Jul/22/2002808321/1920/1080/0/210722-D-IM742-1234.JPG"
+        width: 1728
+        height: 1080
         isCached: true
   - title: "Microsoft acquires CloudKnox Security to offer unified privileged access and cloud entitlement management"
     excerpt: "Helping organizations strengthen cloud security and Zero Trust. At Microsoft, we are committed to supporting organizations in their digital transformation and helping them to deli"

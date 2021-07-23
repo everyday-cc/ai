@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Employee recognition: How to get it right"
+    excerpt: "Employee recognition is one of the simplest and most cost-effective strategies to boosting motivation and productivity in the workplace. So why is so often underutilised? New research by Achievers has identified a sizeable disconnect between how successful managers see their company’s recognition strategies to be and the experience of employees on the ground."
+    publishedDateTime: 2021-07-23T16:25:00Z
+    webUrl: "https://www.hcamag.com/au/news/general/employee-recognition-how-to-get-it-right/292293"
+    type: article
+    provider:
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 24
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/037/0292_637626543466633567.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "agcOaOmyWHRIYrbyKiXT/5j/HL0qVqi1iH71GG6yyJTsEwVC5MtPHGTCD5Bl2j4whL7omxUtoLBBYoyUV+weOpDcT7M368m5ueQK4eu3D8O8Nv2DfBC+CX4y2UduSYcRjbMQQu+x1b+/7NpQg/wZjh5d2DuBPeHOhwJsDC0UPoTg8RDgU/pCXBZ4NjKlycFKYa2CdGnrQyc/ngMNxQr9rsmxA8A4NaTYgztejdVli2yP6sIwiyhq1nmSRoacbMLymHvvMWUKxpTr7/ghpFt85ZS4WC/K7cH09lpxCjyV4GTG7Ge90rIGHpSifd3bY/4NcaplrBFffc5WNQwssq1hjYQCbaTVlK7vZjrJi0MKrdBTrpLB9jLVW2cl38Sn7w5J5OA1jPv4+WPUJquoCJS0kjhazKcICBclV5lXieQV0IEMJOzhE/9MiGeWK2iuPxEKLPGy+K89An5Qq5Dbv0rafc5YY5l0kc243I+ouSVnudprvPxq87SdIBUAm9S6ro6RTAp6tlkN5O7tysGKsnZ36w==;Y1sN0k0NF41ghvXNzhW4Zg=="
 ---

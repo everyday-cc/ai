@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Artificial Intelligence: Next Frontier is Cybersecurity"
+    excerpt: "NSA’s Jason Wang, technical director for the Computer and Analytic Sciences Research Group, forecasted a future in which AI will support the Intelligence Community’s (IC) efforts to secure and defend"
+    publishedDateTime: 2021-07-23T19:02:00Z
+    webUrl: "https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2702241/artificial-intelligence-next-frontier-is-cybersecurity/"
+    type: article
+    provider:
+      name: National Security Agency
+      domain: nsa.gov
+    quality: 37
+    images:
+      - url: "https://media.defense.gov/2021/Jul/22/2002808321/1920/1080/0/210722-D-IM742-1234.JPG"
+        width: 1728
+        height: 1080
+        isCached: true
 
 secured: "63J29av7LFkxiqa/BqMnRxulECup037nzKWt8Du3abxDp4zp8GWSb4yumx1K8g/EsFZHpzKwIsi7aPgb+xTtXOaONfAtfM5D+kKbUQQKhZfRq+X9AU++WwMt9Th9VsqRCrtIzqMnbZAjRqNbkv5/0T/k5/TFt0KEqsTvjaxaGsm8m0sA9uK8UTDjBlHewp0Gzs/VTLcL71mNadOYhvp0GtvY8L1PNiGGWEp3rQ0Bacud0HgknDcE+P78s8yLnpcGgjxgrnYOPxJT3cl3oqwEhGtYYk3hcoKXde7B0+HCJOhbXjFZpCvFuLC3jCtzNrF298pasQvyUDhnYXyqvyJzRrGpAqCx2Tyd3ChrYs87W8U=;gk8IYmNdhIzUhvYDeIh4BA=="
 ---
