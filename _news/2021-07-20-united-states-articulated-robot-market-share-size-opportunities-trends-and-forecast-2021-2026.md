@@ -187,6 +187,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 16
+  - title: "Artificial Heart Industry Research, Growth Trends, Opportunities and Forecast till 2031"
+    excerpt: "The Artificial Heart market research encompasses an exhaustive analysis of the market outlook framework and socio economic impacts The report covers the accurate investigation of the market size share product footprint revenue and progress rate Driven by primary and secondary"
+    publishedDateTime: 2021-07-22T22:42:00Z
+    webUrl: "https://www.openpr.com/news/2335266/artificial-heart-industry-research-growth-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2335266/artificial-heart-industry-research-growth-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2335266/artificial-heart-industry-research-growth-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
 
 secured: "oLOYRCNfIx0NPD/6OPOQKK11fIJBjve1cZt0oS96kgI80t1huSUqt7sQtWhB+xGMKBt1yqimbScTTWuEd6KBW02yhu6uqo9ohDsFwzD+8Y8Ilo9oxZus2pe2Cj4c8tr4XdTp8yi1RQ/aoVL5NsLj69vVbg+jY50zkAYi1E7YnMC//wNMAm2ihz4Hv/OLFjFw3+9OrFTZPoxtpVJ8uuqbilcCDc89/TZHUTPlMAKijfP2gFbYWa1yprHnqsBmeqXtsLUaT6LTaS4HL8Oko0jH1uIvepJDqxO3nQ/lLzCM5xVJX1NWJrPHaO9Gw29pMT3QUxcgktfk9PTyfaUiFUtueQL4u4BJURJzo3devs3cg8rAJRrJuhjClpEQyoXDRvfXJfXijCNfYXNVZ/EgzFCLTn2i/MIaG+v60O+t1NafeeL9RHFvECjRZxh50rDo2A6CD3laG3GAhh4WrfnUPIuBbMVaAdgDRv3LfC7iWkYuG9+ZNUFh/fpWfjdNzuHMQOa/9j2D59AkBdzT/F51XUl/+Q==;5GMWTaI0AMYVB459JOFpJw=="
 ---

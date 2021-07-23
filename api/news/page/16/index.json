@@ -2,6 +2,93 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-07-09-dynamic-ab-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects.md",
+      "title": "Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects",
+      "excerpt": "In this post, you learn how to create a MLOps project to automate the deployment of an Amazon SageMaker endpoint with multiple production variants for A/B testing. You also deploy a general purpose API and testing infrastructure that includes a multi-armed bandit experiment framework. This testing infrastructure",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/23/14-3239-Architecture.jpg",
+          "width": 800,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T11:07:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine.md",
+      "title": "How AI Is Transforming the Healthcare Landscape & Accelerating the Development of Medicine",
+      "excerpt": "The world of big data in the healthcare sector is vast and growing exponentially. Tools that leverage artificial intelligence (AI) and machine learning (ML) are critical to organizing, correlating, making sense of and generating useful discoveries from this avalanche of healthcare and medical data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine",
+      "originalUrl": "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine?amp",
+      "publishedDateTime": "2021-07-09T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-us-sanctions-a-chinese-facial-recognition-company-with-silicon-valley-funding.md",
       "title": "US sanctions a Chinese facial recognition company with Silicon Valley funding",
       "excerpt": "DeepGlint, also known as Beijing Geling Shentong Information Technology Co., Ltd., is a facial recognition company with deep ties to Chinese police surveillance, and funding from US-based Sequoia Capital.",
@@ -298,49 +385,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-09-insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments.md",
-      "title": "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments",
-      "excerpt": "Insight leverages its deep data and analytics capability to help clients achieve a cohesive, single source of truth for data to promote self-service, agile reporting and/or embarking on innovation leveraging Azure Machine Learning and AI. Insight's cadre ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/07/b21917835/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/b21917835/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-09-fact-sheet-executive-order-on-promoting-competition-in-the-american-economy.md",
       "title": "Fact sheet: Executive order on promoting competition in the American economy",
       "excerpt": "News Release The White House The economy is booming under President Biden’s leadership. The economy has gained more than three million jobs since the",
@@ -379,6 +423,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments.md",
+      "title": "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments",
+      "excerpt": "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft ( News - Alert) Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/09/9406115.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1058,84 +1136,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-heres-why-amazon-doesnt-sell-these-14-things.md",
-      "title": "Here’s Why Amazon Doesn’t Sell These 14 Things",
-      "excerpt": "In June 2020, in response to the outpouring of protest against racial injustice and systemic racism, Amazon announced that it would stop selling “Rekognition,” its facial recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/list/amazon-doesnt-sell-these-things/",
-      "originalUrl": "https://www.rd.com/list/amazon-doesnt-sell-these-things/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-pentagon-document-shows-hpc-key-to-dods-post-jedi-cloud-strategy-early-co-favorites-aws-and-azure.md",
-      "title": "Pentagon Document Shows HPC Key to DoD’s Post-JEDI Cloud Strategy; Early Co-favorites: AWS and Azure",
-      "excerpt": "In its July 6 announcement, DoD said that JEDI’s single supplier approach would be replaced by multiple providers, most likely AWS and Azure – though ... Command and Control (JADC2) and the Artificial Intelligence and Data Acceleration (ADA) initiative.",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/07/pentagon-document-shows-hpc-key-to-dods-post-jedi-cloud-strategy-early-co-favorites-aws-and-azure/",
-      "originalUrl": "https://insidehpc.com/2021/07/pentagon-document-shows-hpc-key-to-dods-post-jedi-cloud-strategy-early-co-favorites-aws-and-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2020/08/Department-of-Defense-DOD-seal.png",
-          "width": 600,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

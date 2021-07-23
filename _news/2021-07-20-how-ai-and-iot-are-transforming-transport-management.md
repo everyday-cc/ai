@@ -38,20 +38,6 @@ related:
         width: 1193
         height: 1194
         isCached: true
-  - title: "Financial Services Turning Towards Adopting Cloud Technology"
-    excerpt: "Previously, financial services and institutions have been at fault for not adapting to cloud technology. But now many of the retail banks are slowly turning towards the cloud for less risk-averse services."
-    publishedDateTime: 2021-07-18T06:30:00Z
-    webUrl: "https://www.analyticsinsight.net/financial-services-turning-towards-adopting-cloud-technology/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 24
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Financial-Services-turning-towards-adopting-Cloud-Technology.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Platforms playing catch-up with the rest of financial services"
     excerpt: "Across pretty much all areas of financial services artificial intelligence (AI) and machine learning are starting to be recognised as integral components of the client engagement toolkit. With one stand-out exception: platforms."
     publishedDateTime: 2021-07-22T10:28:00Z

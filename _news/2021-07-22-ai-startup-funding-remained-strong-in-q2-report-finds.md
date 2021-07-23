@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/22/ai-startup-funding-remained-stron
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/ai-startup-funding-remained-strong-in-q2-report-finds/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

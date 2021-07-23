@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-feature-store-in-a-java-environment/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

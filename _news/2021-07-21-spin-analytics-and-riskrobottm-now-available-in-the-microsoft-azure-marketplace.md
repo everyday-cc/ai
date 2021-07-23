@@ -96,20 +96,6 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "Why AI and analytics are the answer to tax authorities’ questions"
-    excerpt: "But how is it that EU tax authorities and organizations stand to benefit from AI and analytics? Inside, access this white paper to explore how a decision intelligence system can help the public sector identify tax fraud when it happens,"
-    publishedDateTime: 2021-07-18T06:59:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1626176632_583.html"
-    type: article
-    provider:
-      name: Bitpipe
-      domain: bitpipe.com
-    quality: 37
-    images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1626176632_583_lg.jpg"
-        width: 315
-        height: 408
-        isCached: true
   - title: "Global Geospatial Analytics Artificial Intelligence Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2026"
     excerpt: "The latest market research report titled Global Geospatial Analytics Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 enfolds expansive evaluation of the market offering an analysis of the market revenue,"
     publishedDateTime: 2021-07-21T00:44:00Z

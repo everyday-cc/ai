@@ -2,6 +2,135 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-06-25-state-of-ai-report-finds-ai-is-now-core-to-business-success.md",
+      "title": "State of AI report finds AI is now core to business success",
+      "excerpt": "Appen survey of business leaders and data scientists indicates that AI initiatives are delivering business value but challenges still exist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.html",
+      "originalUrl": "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/man_concerned_artificial_intelligence_ai_sign_by_dny59_gettyimages_959737582-100817807-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.amp.html",
+      "publishedDateTime": "2021-06-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-computer-vision-market-market-2021-highlights-recent-trends-market-growth-business-opportunities-till-2026.md",
+      "title": "Computer Vision Market Market 2021 Highlights Recent Trends, Market Growth, Business Opportunities till 2026",
+      "excerpt": "The computer vision market is expected to grow at a CAGR of 7.36 % over the forecast period (2021 – 2026).”  Top Leading Companies of Computer Vision Market are Intel Corporation, National Instruments Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/25/computer-vision-market-market-2021-highlights-recent-trends-market-growth-business-opportunities-till-2026/",
+      "originalUrl": "https://ksusentinel.com/2021/06/25/computer-vision-market-market-2021-highlights-recent-trends-market-growth-business-opportunities-till-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-deepmind-uses-ai-to-tackle-neglected-deadly-diseases.md",
+      "title": "DeepMind uses AI to tackle neglected deadly diseases",
+      "excerpt": "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessghana.com/site/news/Technology/241004/DeepMind-uses-AI-to-tackle-neglected-deadly-diseases",
+      "originalUrl": "https://www.businessghana.com/site/news/Technology/241004/DeepMind-uses-AI-to-tackle-neglected-deadly-diseases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessghana.com/site/img/../../cms/img/news/2021-06-24-154800000.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BusinessGhana",
+        "domain": "businessghana.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting.md",
       "title": "IBM working on AI tools to spot, cut bias in online ad targeting",
       "excerpt": "IBM is developing tools to ensure online advertising algorithms do not unfairly show ads in ways that may be discriminatory.",
@@ -1056,145 +1185,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-electric-volvo-xc90-will-boast-lidar-ai-driven-safety-technology.md",
-      "title": "Electric Volvo XC90 will boast lidar, AI-driven safety technology",
-      "excerpt": "Volvo's set to continue its electric march with a new XC90 SUV, ready for a reveal next year. However, on Thursday, Volvo said the electric SUV will boast advanced safety and autonomous driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/electric-volvo-xc90-lidar-ai-safety-technology/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/electric-volvo-xc90-lidar-ai-safety-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/zoE8z4QBx3Hvzw9avInBWszZ18M=/2021/06/24/4ab1c47f-b961-4ef3-b843-db490be81798/ogi-volvo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/electric-volvo-xc90-lidar-ai-safety-technology/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/electric-volvo-xc90-lidar-ai-safety-technology/",
-      "publishedDateTime": "2021-06-24T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-nanotech-and-ai-could-hold-key-to-unlocking-global-food-security-challenge.md",
-      "title": "Nanotech and AI could hold key to unlocking global food security challenge",
-      "excerpt": "Precision agriculture' where farmers respond in real time to changes in crop growth using nanotechnology and artificial intelligence (AI) could offer a practical solution to the challenges threatening global food security,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-06-nanotech-ai-key-global-food.html",
-      "originalUrl": "https://phys.org/news/2021-06-nanotech-ai-key-global-food.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/agriculture.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-06-nanotech-ai-key-global-food.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-nanotech-ai-key-global-food.amp",
-      "publishedDateTime": "2021-06-24T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-providence-backed-tegria-acquires-healthcare-ai-company.md",
-      "title": "Providence-backed Tegria acquires healthcare AI company",
-      "excerpt": "Providence's health tech investment portfolio Tegria on June 24 acquired KenSci, a company that provides artificial intelligence platforms and tools to healthcare providers, payers and medical device companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/providence-backed-tegria-acquires-healthcare-ai-company.html",
-      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/providence-backed-tegria-acquires-healthcare-ai-company.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

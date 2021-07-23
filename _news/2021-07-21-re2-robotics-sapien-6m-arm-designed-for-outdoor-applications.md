@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/re2-robotics-sapien-6m-arm-designed
 webUrl: "https://www.therobotreport.com/re2-robotics-sapien-6m-arm-designed-outdoor-applications/"
 type: article
 quality: 84
-heat: 94
+heat: 95
 published: true
 
 provider:

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
-excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"
-publishedDateTime: 2021-07-20T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
-webUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
+excerpt: "Amazon HealthLake further structures the data and enables customers to easily use Amazon SageMaker machine learning ML models and Amazon QuickSight analytics, making it seamless for researchers ..."
+publishedDateTime: 2021-07-20T14:37:00Z
+originalUrl: "https://www.kpvi.com/news/national_news/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative/article_9406490f-dbe0-5939-9c06-8baac660b666.html"
+webUrl: "https://www.kpvi.com/news/national_news/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative/article_9406490f-dbe0-5939-9c06-8baac660b666.html"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: KPVI
+  domain: kpvi.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/680972/Redox_Logo.jpg?p=facebook"
-    width: 902
-    height: 475
+  - url: "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/a/10/a10dae4a-5cb6-11e9-9617-7ff25676eb6c/60fa05afb3bf2.image.png?resize=1920%2C1080"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -78,7 +78,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "1Strategy Announces Support for AWS for Health Initiative"
+    excerpt: "Strategy, a TEKsystems Global Services company and Amazon Web Services (AWS) Premier Partner, announced support for the AWS for Health initiat"
+    publishedDateTime: 2021-07-21T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210721005648/en/1Strategy-Announces-Support-for-AWS-for-Health-Initiative/?feedref=JjAwJuNHiystnCoBq_hl-d0q77hRjGWvCunvqSsMC5PkKuEqWGdtYcKRejd3o8qMqnKfqP6Z7nZVMLG-WqUNUuIFBOuQU34x9_qUrqnb9IFt3G9xeKEyIFKgj2nxZILuWb2_mZzaa2HVGkrPJ34F1Q=="
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
-secured: "CBOcmw+yFI9YSImqxeV2psER4XEiWPLEYO0MB3TUtF72i84AKjchKJPG6vZC0X1YeXkPop9lDmicKpBvE0wFKPScRfmFsPW0TJ8/Pw2Hdrq27RiAJ1Nk6YObYArF5tnsPD1MwBHbGREVPFM1RxwBGz+5cEvEo4K/Zc1l2EAs93gGHdOcwloqSK/kP2KwBNSkcwW83gyvL5w2WnAgWmuNN+TgEkxQ5784kL1+BuL3bcuUNCMAVU4muy6p1q7jcB/7aEb9CjJYw6x4VV3X5vHYY5xekXgJv5B57z5O68pmEQJrK5nIUCZSisPT8rIhXOF5TkXJhBtTPJNrACNnIOnl/+lWWKoJuV2XB9u7VEhQ+4+8tI9f4HEoUH9m30WAXgpJXThrrihyk+7fR5XtEe00Yw8unKP2nedBQ7MzblE4sCHJXZ4T8/xid9uIUX7ua2/679UDKQhOt0qqf7wD9UqLPPqPbLlw/HYKJtnLW0SpJvir/59JJkVYXWwF5WVRAEaGeoVsMjvRyZBFKeHwtaR84Q==;NZa7i1hlOyr1nOXwdbKA6w=="
+secured: "wtEpnZIEC1kJ7JdVRVrj6ghMCkTT5CHP9gIIJBQTGM9l/ro1lbXUodTIQGdBPGAA1qrV4gzTwj4tEYfE29M0azLKOkJLsFEg9Vd6rAeUN/Ltl1SLwCaR3q5bx44IYSHm9XH8QUR6nkOH0cnIYNOoegBi0BZn6tDwrMngnAoADFUEVmYgEzhhYn2GsBYDN87YW6zKMZb45kQQDxfr/2g0G737K3WUlipUY0kHNUmkSsBjQf84+itk3Un1vNJcE8OvNhfEir2SiTvcsPK+27oKkgjtUZfMwq3wK+A1YayxQbYqnXUW3T0g0KyYelM+W9MLw9//I9pUxZT5BlMW1gTKVwOcoHkT4x/OK6CYB7EP/LE=;yzy/3wYT51sYTuOgbmbxoA=="
 ---
 

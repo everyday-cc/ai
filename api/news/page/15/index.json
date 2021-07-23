@@ -2,6 +2,109 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-07-12-10-things-in-tech-musk-visits-branson-ai-tiny-homes-gates-foundation-stress.md",
+      "title": "10 things in tech: Musk visits Branson — AI tiny homes — Gates Foundation stress",
+      "excerpt": "Musk visited Branson before his flight, AI powered tiny homes arrive in the UK, Gates Foundation staff stress out: 10 things in tech you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60e9a2b5ca74780018ae8bec?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7?amp",
+      "publishedDateTime": "2021-07-12T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-scale-ais-rapid-growth-reflects-widening-demand-for-smart-software.md",
+      "title": "Scale AI’s Rapid Growth Reflects Widening Demand for Smart Software",
+      "excerpt": "A surge in corporate demand for artificial intelligence is driving growth for startups that help companies prepare data for software tools designed to glean business insights like gauging demand or spotting supply chain inefficiencies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
+      "originalUrl": "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-366229/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
+      "publishedDateTime": "2021-07-12T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-iit-madras-develops-ai-based-algorithm-to-identify-cancer-causing-mutations.md",
       "title": "IIT-Madras develops AI-based Algorithm to identify cancer-causing mutations",
       "excerpt": "Chennai: The researchers in the Indian Institute of Technology-Madras have developed an Artificial Intelligence (AI)-based Mathematical Model to..|News Track",
@@ -1048,93 +1151,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-dynamic-ab-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects.md",
-      "title": "Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects",
-      "excerpt": "In this post, you learn how to create a MLOps project to automate the deployment of an Amazon SageMaker endpoint with multiple production variants for A/B testing. You also deploy a general purpose API and testing infrastructure that includes a multi-armed bandit experiment framework. This testing infrastructure",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/23/14-3239-Architecture.jpg",
-          "width": 800,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T11:07:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine.md",
-      "title": "How AI Is Transforming the Healthcare Landscape & Accelerating the Development of Medicine",
-      "excerpt": "The world of big data in the healthcare sector is vast and growing exponentially. Tools that leverage artificial intelligence (AI) and machine learning (ML) are critical to organizing, correlating, making sense of and generating useful discoveries from this avalanche of healthcare and medical data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine",
-      "originalUrl": "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine?amp",
-      "publishedDateTime": "2021-07-09T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

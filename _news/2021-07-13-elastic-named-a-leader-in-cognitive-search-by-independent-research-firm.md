@@ -2,21 +2,25 @@
 category: news
 title: "Elastic Named a Leader in Cognitive Search by Independent Research Firm"
 excerpt: "Its sweet spot is for enterprises that want fast, friendly, and affordable cognitive search based on ... Goldman Sachs, Microsoft, The Mayo Clinic, NASA, The New York Times, Wikipedia, and Verizon ..."
-publishedDateTime: 2021-07-12T18:26:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm"
-webUrl: "https://www.wallstreet-online.de/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm"
-ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm"
-cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm"
+publishedDateTime: 2021-07-12T18:45:00Z
+originalUrl: "https://www.register-herald.com/region/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/article_9f149a27-4a06-5a20-857d-b6d7f7faa5c6.html"
+webUrl: "https://www.register-herald.com/region/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/article_9f149a27-4a06-5a20-857d-b6d7f7faa5c6.html"
 type: article
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "YXFx+P5HAHzaWZkfy7W1uJBTRttmjiKQNPTLdiJVX+rHjDvdLpzFnNNpN65C5nqgewYoHP+jvu5D3vmw2FLa3fi7/NyBaBIwGKfKW+F8d1KT0TyQD9YvPMsdHIhnxTtnfSE75WRinrFYNc2wpswyYnKUdLbSpNU/WSYNzRVuLYC6UGFzxC6beIri73j1bxfyk3I05P0w46UmuIWTXtychNJONM5wY1VTT/rAWcQ0QJDy6sDmiTngljE+2tjxTSXPoMPmlaqZOo0rtfsoZ4MWTIWyu54PjoKuzRBZpXGeyshI1zdP9SPQjXdl6eTm9kjJ4aLqBY6FKUX3kIXH+YFqPZhnm8Ljib8go9hk2AMcMDU=;rDjVcKncIpShGY8zm+wTKQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+    width: 600
+    height: 600
+    isCached: true
+
+secured: "ifHTPcmzyqZEZRzV0wqcbGLL4ercDZD/Rvu3M+DV0r3/HDhxKpO4gx091LlBqLy0PXoq0WS+QBvOIJ+YXk45x596CUkMd9UEtC3ou9xGkBZyuFGecAdisx4Dd4QAZJgl4PCDNqGgOtUA8PESlKdI/NALrII0Wprds+KmuQAcocD10hr3LNGF6g+BZLVXEp8R/ZwklTxbuZy2lhRAoIiAriH9EOQvU+ty97yhGAl0npXZOPIlf6jtc++xlBFMUogv5vuen9FRH02f0RewrOBIcGXBqEuqTWST6Q0baX/XuX1koYIR2edHEc/iFONYlMRhDPjl8vpBP1CT2KXog38MctJxforE4DyyX/u4ra8kRHM=;5S/fpnEqUXA06iMpHbTfLQ=="
 ---
 
