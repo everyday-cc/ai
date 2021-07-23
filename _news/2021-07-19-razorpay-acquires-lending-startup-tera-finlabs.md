@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Fintech startup Razorpay buys SaaS firm TERA Finlabs"
-    excerpt: "Financial solutions company Razorpay on Monday said it has acquired AI-based risk tech SaaS (software-as-a-service) platform TERA Finlabs for an undisclosed"
-    publishedDateTime: 2021-07-19T04:15:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/articleshow/84543154.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/amp_articleshow/84543154.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/fintech-startup-razorpay-buys-saas-firm-tera-finlabs/amp_articleshow/84543154.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 44
-    images:
-      - url: "https://www.businessinsider.in/thumb/84543230.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
   - title: "Razorpay acquires TERA Finlabs in push for startup, MSME loans"
     excerpt: "Razorpay Capital along with TERA Finlab's technology capabilities will be able to service the credit needs of more than 10,000 startups and MSMEs in India by next year, according to a statement."
     publishedDateTime: 2021-07-19T07:14:00Z

@@ -177,6 +177,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Cloud Market Soars as IBM, Microsoft Build Out Services"
+    excerpt: "The cloud market remains hot, and some of the top providers, including IBM and Microsoft, are looking to add to the capabilities and services in their cloud offerings to make further inroads into enterprises and government agencies."
+    publishedDateTime: 2021-07-22T21:41:00Z
+    webUrl: "https://www.internetnews.com/infra/cloud-market-soars-as-ibm-microsoft-build-services.html"
+    type: article
+    provider:
+      name: Internetnews
+      domain: internetnews.com
+    quality: 21
 
 secured: "QRxfgPBHE8CSb2l7GIgCeQFgZQ0/wU6KB3qJS5WgwTYjF4xgHN7aJcNxF8O3Yokc3csQRojkPZ4oqZ2y2GqeELuUjJyiHzjKI9lh+f6rTGbs+c3rdTZcfO66/4caoNE9BRixqixiRCWDYCVf7gvtTjODsM6Wj6AmWCBNaPziVX6VcqAHmXWFQWIiMuc4+DGZVUKWVTlNmzfrZ0UkKq/X9/Oe8+fP5HQ7KtcBhk37jqleQx0TXJ5+EUlpB0V+pzeWZIpYGfTdshjdJYLimOMJ+NNbQlIFbs6rAgl25TEOiMt2SM2Jl3SSZMf2sUieBVwv7eKhmBTN+cbFrxu4EbA+/ZdY0DT5pFFAtnQPOLmtfWM=;jD3Z63n2j5/RM3TugQGtrg=="
 ---

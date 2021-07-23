@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-autonomous-beach-clea
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/"
 type: article
 quality: 103
-heat: 215
+heat: 225
 published: true
 
 provider:
@@ -182,6 +182,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 36
+  - title: "Cloud Market Soars as IBM, Microsoft Build Out Services"
+    excerpt: "The cloud market remains hot, and some of the top providers, including IBM and Microsoft, are looking to add to the capabilities and services in their cloud offerings to make further inroads into enterprises and government agencies."
+    publishedDateTime: 2021-07-22T21:41:00Z
+    webUrl: "https://www.internetnews.com/infra/cloud-market-soars-as-ibm-microsoft-build-services.html"
+    type: article
+    provider:
+      name: Internetnews
+      domain: internetnews.com
+    quality: 21
 
 secured: "SnThQqDSMNQS53TNNCKnYyG85GGd/RWftmVsxELnVj8+gPdVdrWtz+Y3TMrwjiWU+Eup8DSFSokyuYp9QEvrz+kI8N4wfOxPygrXuUGMVNgNnJsVj+jc7lbw5fk7I2yeyROge7csn2RGb7tItkeUQrygkmzFtGAcFqXRvl0I/7QTBTjHUYXlMiQx4N4q2rRBADCfGy2VArPhUR0g7FXnLoZ6H6SVKbaGuAFixzJ81FzW5ST9kIg5DKvwP1jTCddNrgge2I0iB83mBIFHFSH9A+CioYzj6uvdb+RZIYnUirRmA1iLslVGPkPTfJejGAITORvAKqp0JCbw++kFfxq3xGVBri+fOGdrFWQN94tjOC0=;4hfTOFq0RZOve1BGU5iXng=="
 ---

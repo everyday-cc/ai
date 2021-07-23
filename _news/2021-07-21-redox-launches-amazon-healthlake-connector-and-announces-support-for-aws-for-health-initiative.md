@@ -2,9 +2,9 @@
 category: news
 title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
 excerpt: "Amazon HealthLake further structures the data and enables customers to easily use Amazon SageMaker machine learning ML models and Amazon QuickSight analytics, making it seamless for researchers ..."
-publishedDateTime: 2021-07-20T18:18:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative/article_f90ee693-f4d4-51ce-8ed5-11223e69b746.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative/article_f90ee693-f4d4-51ce-8ed5-11223e69b746.html"
+publishedDateTime: 2021-07-21T07:48:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative/article_f90ee693-f4d4-51ce-8ed5-11223e69b746.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative/article_f90ee693-f4d4-51ce-8ed5-11223e69b746.html"
 type: article
 quality: 7
 heat: -1
@@ -96,6 +96,6 @@ related:
       domain: businesswire.com
     quality: 19
 
-secured: "uMUW2sSxmnG6s7UaNOsJz0G6P3rS3hPty/rAXr07jMlTeHxgsiR3yVJ2znv93toXgbSLF/5vmH6SGWEIsnuOcIyzjj1jOAj4Y05W4Wb0kzBx3A1yEppU52Yv4l1a+SGLPfk3MTEYiJ0g5fiFkO/eBddQQw/3syvTe2toix2vIOuVvSAffizhOMFU/2aGHKLJzm7wdLZd0atCOXXDIxM+wfxWyUYYw/9Q0h2G2h/ZXgONBfhhp9mMY/T93jIRT9Hh4FgH2hu+WOjXlr6jqnmlrnC+5KKBjG8clw3GchsMSrFzNsrn4qbsm17f8MZQUxCwsHLzTeAi/CmHnLSDIqDOhRrv+hMfT5qKR/k9ZPs1ARs=;RAHtWwGtquVUARKazZB22w=="
+secured: "LuoQPj0x4ryHisPoyneAoPC2MzCxxVSR1dmMaSdKOYeWz7v8L73HXNYgxSBawYFup4pqAo9MWI+3+LQAJJeHvC/wN7Bf854HggKV4Z6ZJut5tvj5M8zqXVYZ+WFSYOnOw/LXfW12QVIBFf0JKwA8u02mHpQfEkesBNU62i6vcukvnUXfO1f8FoNBzF49SAEH9hZrCm6bEe3jp1vCBbCUBJlL1/agRcCBOLmb0olbV5HAWPaR5Ltnqm4TgFQt+Yntx2ZikbMY0GXDNe58TtbgsmAy/qNuVLQY4jjVACMKF6CK6K+apj2XXy3xHf85C7gFSDP3P+hDXuYiztHWjOjoBi3kJBx8JKjsyVFU1DGMczw=;l23T6UkXlHekD4g8DPlH6A=="
 ---
 

@@ -34,7 +34,7 @@ related:
     provider:
       name: NationofChange
       domain: nationofchange.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://i1.wp.com/www.nationofchange.org/wp-content/uploads/2021/07/20190422150710-GettyImages-175822209.jpeg?fit=2000%2C1333&ssl=1"
         width: 2000

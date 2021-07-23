@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/"
 type: article
 quality: 104
-heat: 384
+heat: 394
 published: true
 
 provider:
@@ -179,6 +179,20 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-07/47130780-ea1e-11eb-975f-19c559780bd9"
         width: 6410
         height: 4274
+        isCached: true
+  - title: "Ford To Deploy Self-Driving Cars in Collaboration With Argo AI and Lyft By End of 2021"
+    excerpt: "Ford Motor Company (NYSE: F) plans to deploy the first self-driving cars with its partner Argo AI on ride-share service Lyft Inc’s (Nasdaq: LYFT) network by the end of 2021. In a press release on Wednesday,"
+    publishedDateTime: 2021-07-23T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021-2021-07-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Ford, Argo AI, Lyft To Launch Self-Driving Car Service By Year’s End"
     excerpt: "Argo AI and Ford will release Ford self-driving cars with safety drivers, through Lyft. Passenger rides are expected to begin in Miami this year and in Austin starting in 2022. As self-driving vehicle service areas are expanded,"

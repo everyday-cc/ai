@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/22132423/police-mobile-phone.jpg"
         width: 922
         height: 508
+        isCached: true
+  - title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
+    excerpt: "By Rachel Metz, CNN Business After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for"
+    publishedDateTime: 2021-07-23T17:31:00Z
+    webUrl: "https://keyt.com/news/money-and-business/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 31
+    images:
+      - url: "https://keyt.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
+        width: 2500
+        height: 1663
         isCached: true
   - title: "Insights on the Face Recognition Using Edge Computing Global Market to 2025 - Featuring Apple, Horizon Robotics and Mediatek Among Others"
     excerpt: "12.16 Cisco Systems, Inc. 12.17 Belden Inc. 12.18 IBM Corporation 12.19 Intel Corporation 12.20 Moxa Inc."

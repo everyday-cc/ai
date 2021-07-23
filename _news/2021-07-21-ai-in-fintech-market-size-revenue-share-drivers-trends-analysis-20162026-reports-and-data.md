@@ -63,15 +63,6 @@ related:
         width: 626
         height: 351
         isCached: true
-  - title: "Artificial Intelligence Platforms Market Size 2021 is Booming Worldwide| Google, Baidu, Ibm, Microsoft, Sap, Intel"
-    excerpt: "The report titled Global Artificial Intelligence Platforms Market Research Report provides market size and market overview for the global Artificial Intelligence Platforms market for the forecast period of 2021-2028."
-    publishedDateTime: 2021-07-19T03:12:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-platforms-market-size-2021-is-booming-worldwide-google-baidu-ibm-microsoft-sap-intel/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 27
   - title: "Global Digital Pathology Market (2021 to 2026) - Integration of AI into Healthcare Presents Opportunities - ResearchAndMarkets.com"
     excerpt: "The “Digital Pathology Market - Global Outlook and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global digital pathology market by revenue is expected to grow at a CAGR of over 10% during the period 2020-2026."
     publishedDateTime: 2021-07-19T11:51:00Z

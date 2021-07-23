@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/redzone/news-insights/2021-07-21-
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/redzone/news-insights/2021-07-21-four-ways-to-unlock-marketing-return-on-investment-with-machine-learning/"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Changing Face of Marketing: How AI is Inventing the Future"
+    excerpt: "Artificial intelligence is changing the way we do marketing, and it’s happening faster than we think. From voice assistants"
+    publishedDateTime: 2021-07-23T20:00:00Z
+    webUrl: "https://www.business2community.com/marketing/the-changing-face-of-marketing-how-ai-is-inventing-the-future-02420818"
+    ampWebUrl: "https://www.business2community.com/marketing/the-changing-face-of-marketing-how-ai-is-inventing-the-future-02420818/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/marketing/the-changing-face-of-marketing-how-ai-is-inventing-the-future-02420818/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 74
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/07/markus-winkler-tGBXiHcPKrM-unsplash-900x600.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "AI investing: Why more and more people are turning to robot-led investments"
     excerpt: "THE VERY first robo-advisor launched in 2008 initially to rebalance assets after the Great Recession, but in 2020 this AI held $987 billion of managed client assets worldwide."
     publishedDateTime: 2021-07-21T14:01:00Z

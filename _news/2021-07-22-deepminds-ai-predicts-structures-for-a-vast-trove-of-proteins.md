@@ -3,8 +3,8 @@ category: news
 title: "DeepMind’s AI predicts structures for a vast trove of proteins"
 excerpt: "AlphaFold neural network produced a ‘totally transformative’ database of more than 350,000 structures from Homo sapiens and 20 model organisms."
 publishedDateTime: 2021-07-22T15:33:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-02025-4?s=07"
-webUrl: "https://www.nature.com/articles/d41586-021-02025-4?s=07"
+originalUrl: "https://www.nature.com/articles/d41586-021-02025-4?error=cookies_not_supported&code=a365541b-42f0-4984-a7ab-cb10a65e9e92"
+webUrl: "https://www.nature.com/articles/d41586-021-02025-4?error=cookies_not_supported&code=a365541b-42f0-4984-a7ab-cb10a65e9e92"
 type: article
 quality: 54
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: nature.com
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02025-4/d41586-021-02025-4_19383154.jpg"
@@ -272,6 +272,6 @@ related:
       domain: bio-itworld.com
     quality: 13
 
-secured: "2czpK4C4WuD/OpMpZl7a070udUSPoEQH5Z6MC6pU213uqxccV8BPnp3hXZ5NLmrbIZx7DY0yWVb1OEPdj+DakGVR+txRrKJX4tu7uuJteqiPc3fJSIaKUuF144WVevAHEkwO8nVoZf+GIgPD+VWZfLoI4ghYRxCoqtMYIMQXybzKVBiy9+1/sQmmRE0q9NeY7utFnQfNIqix+Ce1N6ZV+iL481jFpDnrq3mpGeqA1O2XslQ9ENLYYIqo4WXM8N9VPmtWzz0h7Euh47S7y+RaOJ2DQj0Zo62nWQEq+THBknAxMfyrtWoa2pcSCxkePoc4Kuzt4iApF92aM2XcVziSnCdWjPB5AimqLTf471AouNk=;bjqQ49SYO8q1c9N8MawGKQ=="
+secured: "hOT6pn+4+zPMtrm2c4tAaF+J+lMj3a1qNYudx7HGNcm/6X5kMwTf/iu7uDxOqxkH8Q6x+onvZ/ZyLnUFGlSKiLLjHjjAg8WAF/HGFZmmNB2YEfa6o2o3x0Gaa2DeLTAYU6qcGvLWGqcLAQg9kyZgTcFwWEzMtasUj6t/xTqE9ww2s+WFNl2OzdD7VmzTnBQIinPk4QDYR3gSzR4k16fjUIpVpRwZKgQAZBWHdaSCp8sLbi6gcDd4fP0UpOD3JwofjKl7ar2lpuGIEfK/TNgY9anYMMc+HhCWKspxEpWLIMjKBirJy1mxMOe/XBmuGy5NZOBCy+JcoegmoUhGFOE5n/56GYUom8MvZZdcMVDxNU0=;1WJHmYpwvpduqQrkB2kFSg=="
 ---
 

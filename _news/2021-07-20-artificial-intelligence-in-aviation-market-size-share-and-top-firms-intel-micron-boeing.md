@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-mar
 webUrl: "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market"
 type: article
 quality: 126
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
         width: 626
         height: 351
         isCached: true
-  - title: "Artificial Intelligence Platforms Market Size 2021 is Booming Worldwide| Google, Baidu, Ibm, Microsoft, Sap, Intel"
-    excerpt: "The report titled Global Artificial Intelligence Platforms Market Research Report provides market size and market overview for the global Artificial Intelligence Platforms market for the forecast period of 2021-2028."
-    publishedDateTime: 2021-07-19T03:12:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-platforms-market-size-2021-is-booming-worldwide-google-baidu-ibm-microsoft-sap-intel/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 27
   - title: "AI in Fintech Market Size, Revenue Share, Drivers & Trends Analysis, 2016–2026 | Reports And Data"
     excerpt: "The global AI in Fintech Market is forecast to reach USD 26.77 Billion by 2026, according to a new report by Reports and Data. The AI in fintech incorporates computational power and deep learning algorithms to the financial technology."
     publishedDateTime: 2021-07-21T11:11:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-23T16:26:00Z
 originalUrl: "https://www.nationofchange.org/2021/07/23/artificial-intelligence-wants-you-and-your-job/"
 webUrl: "https://www.nationofchange.org/2021/07/23/artificial-intelligence-wants-you-and-your-job/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i1.wp.com/www.nationofchange.org/wp-content/uploads/2021/07/20190422150710-GettyImages-175822209.jpeg?fit=2000%2C1333&ssl=1"

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theglobeandmail.com/amp/canada/article-morning-update-ot
 cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-morning-update-ottawa-tested-facial-recognition-on-millions-of/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Globe and Mail
@@ -40,20 +40,6 @@ related:
       - url: "https://media.blogto.com/articles/20210719-facialrecognitionpearson.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70"
         width: 1200
         height: 630
-        isCached: true
-  - title: "FacePhi, SITA and Collins each roll out facial recognition to airports on different continents"
-    excerpt: "FacePhi, SITA, Collins Aerospace supplying face biometrics to aviation sector customers in new deployments, a quiet airport facial recognition trial revealed."
-    publishedDateTime: 2021-07-19T22:45:00Z
-    webUrl: "https://www.biometricupdate.com/202107/facephi-sita-and-collins-each-roll-out-facial-recognition-to-airports-on-different-continents"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 42
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "sLBDPSc3yraLZiBM2jbnrCcEMDf/p8dXV0XNTf0FGNuPF0fDsc28eQrkuFVAcM/kFpvUuoKzIQ5OpQS5DvKnrWHDRu+gk0ekXX7puIWLRCmy/2EXntgFXLivp3+J6r8iTRjHy9ZODr8f2IPcMEa703wM2CWAgRtxC3nnES2O6nQJ0l4knjhVdtaEmn6LGY+Tbru0eLiBibTBrOr3t2RAQYYt5c2a+nsm8mAsBJSMKR9tdgM8+WIwZTkLVww+HFTvvmpYvzLj+AOFyliDpBnM5LAX311BNPJ0EmZSY3YXf89xoDJIPHuDjk5M2V2zKQws8m35d09mMOE6ibNBG8zpAgJC7UljIYYAPnhywfWq1SI=;ODCyIBeLZaUluEIzt/+6Vg=="

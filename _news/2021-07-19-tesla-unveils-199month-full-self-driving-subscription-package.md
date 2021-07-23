@@ -206,20 +206,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla launches Full Self-Driving subscription package that costs $199 per month"
-    excerpt: "Tesla, one of the leading electric car manufacturers, has officially launched its Full Self-Driving (FSD) subscription which costs $199 per month. Those who previously bought the Enhanced Autopilot package will get it for $99 as the package is now discontinued."
-    publishedDateTime: 2021-07-19T04:57:00Z
-    webUrl: "https://www.gizmochina.com/2021/07/19/tesla-launches-full-self-driving-subscription/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 65
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/Tesla-Model-S.jpeg"
-        width: 2880
-        height: 1800
-        isCached: true
   - title: "Tesla Launches Its Full Self-Driving Subscription Plan For $199 A Month"
     excerpt: "It might still be a while before we can expect to see full self-driving cars hit the road, but if you’re the owner of a Tesla vehicle,"
     publishedDateTime: 2021-07-19T11:47:00Z

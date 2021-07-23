@@ -66,6 +66,20 @@ related:
         width: 922
         height: 508
         isCached: true
+  - title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
+    excerpt: "By Rachel Metz, CNN Business After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for"
+    publishedDateTime: 2021-07-23T17:31:00Z
+    webUrl: "https://keyt.com/news/money-and-business/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 31
+    images:
+      - url: "https://keyt.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
 
 secured: "uArdG4xtNws1PT7J6XTqzqosQllPAI1quFIkNC/Tnh/++EKt9KsdLfEC6CTNn0eyfLkYGzTLLYcpIgADmAFDCCq7zBcrBR6ExnnNkfa/94QLl5c1hoVDwCf5nY7shI1jlQpcFBUpxU8LNfATvqgTsLJQ780sZk3nfSoSQzVveCBcCjT6t/8rQcH51nw1dAXC50EAlNHt/xutuWC4EBTRQ5kdsxMkHQ8/fikfnLe67hkhjlpInZLoTbopFAnjDxNEigi4XhUXeeR6I+ggwjfZxlaE97EJyIs4eKdfbk8NaKGmh+NCToUKGg4yL2rTiVvejyYqyGBcr4rLxppXxUW0dysX3BpozHV+JeU3PgWG6Z8=;5PNEOp6qXosEy810qwVpZw=="
 ---

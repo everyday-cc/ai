@@ -90,8 +90,8 @@ related:
     quality: 19
   - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
     excerpt: "Amazon HealthLake further structures the data and enables customers to easily use Amazon SageMaker machine learning ML models and Amazon QuickSight analytics, making it seamless for researchers ..."
-    publishedDateTime: 2021-07-20T18:18:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative/article_f90ee693-f4d4-51ce-8ed5-11223e69b746.html"
+    publishedDateTime: 2021-07-21T07:48:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative/article_f90ee693-f4d4-51ce-8ed5-11223e69b746.html"
     type: article
     provider:
       name: WFMZ-TV

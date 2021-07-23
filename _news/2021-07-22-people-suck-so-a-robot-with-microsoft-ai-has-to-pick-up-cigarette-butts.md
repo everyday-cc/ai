@@ -178,6 +178,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 36
+  - title: "Cloud Market Soars as IBM, Microsoft Build Out Services"
+    excerpt: "The cloud market remains hot, and some of the top providers, including IBM and Microsoft, are looking to add to the capabilities and services in their cloud offerings to make further inroads into enterprises and government agencies."
+    publishedDateTime: 2021-07-22T21:41:00Z
+    webUrl: "https://www.internetnews.com/infra/cloud-market-soars-as-ibm-microsoft-build-services.html"
+    type: article
+    provider:
+      name: Internetnews
+      domain: internetnews.com
+    quality: 21
 
 secured: "vcWxDdpcsvDDQG5vrbfTl7CbFySGnfx9cdY4FWCRx8iMdM+8TKS18cob4rRbLahV0uLzYxlhjYxlL31+DpM1q22xeC4bLEQjeOOhMw8bqbUw/1FsVb69zWLPITeRmuwfaaiVB8L4/vlJzO81tm7bEFKI251GY1Sv/0LNCruHuefuawC+yMbEodwLeky+f/baswPnlHx476UUzXmNzP/l5E6vJq88X/jmyVDfu2mm8B9A9Wyl5c2UzUM/D0h5OT8bl58w4vbQ6DDUNWCmrgN5pwsQm8E7WrpyHJkkX7vjjkEOnbJyvSH/irHk3wtq0Q56z86hZtPEb+7+EQvUKCyqqsztqYgc2LPREVead7ufRhg=;FcnM54MSijjPJVFnpNoUmQ=="
 ---
