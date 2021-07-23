@@ -2,9 +2,9 @@
 category: news
 title: "KnowledgeLake Now Supports Microsoft Azure Government"
 excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
-publishedDateTime: 2021-07-21T04:00:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
-webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
+publishedDateTime: 2021-07-21T15:34:00Z
+originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/KnowledgeLake-Now Supports-Microsoft-Azure-Government-148070.aspx"
+webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/KnowledgeLake-Now Supports-Microsoft-Azure-Government-148070.aspx"
 type: article
 quality: 54
 heat: -1
@@ -53,6 +53,20 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "KnowledgeLake Intelligent Document Processing Platform Supports Microsoft Azure Government"
+    excerpt: "KnowledgeLake, a leading provider of intelligent document capture and processing solutions, today announced the company's customers now have the ability to leverage"
+    publishedDateTime: 2021-07-21T12:00:00Z
+    webUrl: "https://www.webstercountycitizen.com/news/state/article_410c844d-4509-5add-a102-f1c01252ecdf.html"
+    type: article
+    provider:
+      name: Webster County Citizen
+      domain: webstercountycitizen.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/webstercountycitizen.com/content/tncms/custom/image/678ffba4-dac7-11e7-a5bf-af4c1ad100e1.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Partnering with the NIH to advance biomedical research"
     excerpt: "Today, we are thrilled to announce a new partnership between Microsoft and the National Institutes of Health (NIH) to accelerate biomedical research in a post-pandemic world. As an approved cloud platform for the NIH's Science and Technology Research Infrastructure for Discovery,"
     publishedDateTime: 2021-07-20T15:58:00Z
@@ -63,6 +77,6 @@ related:
       domain: publicnow.com
     quality: 4
 
-secured: "FRhP5XmtiZddyJiAeh3W2fyJHuLBCj2pjdoh2fW5qgvKVZqwUxMwzonx8EwWgY9lu4tYpD20ggOua/PgXFqlL7/+xouQUv6w+LuFe4JseJhfMnA3FbsuMO3HZ/vBwRanW7QkWtDMgpZ6AxbE64HPT/E0BBAF5kdM/wX2KUYu0xkm4ZGvOL0IAgBctx/JY+HkNF9B3gZyIcBx4t4tmggMe+hnuI+2K05hX0Q4A/n8fjsK4TmV7q4rr9Mt6Lb8S+AEqHV6JJgONrp0wCiDw+vqzdCMBTNjZwTEZmfiMe3xyU165qTY9qnWuDcqOH4kuC0JGQDZJKtzf9u5ficclLKTFiojJ0wi3qI5BlvKQ8P9ouc=;w2hJQUNYtn1QZXP439h3Hg=="
+secured: "wcJZBhz585Nz9Po3f/Yc3tUI0mYzTw4lBTnT7pA6SGi5/Hi0YmGrRd1QJO8ySnxvysw7XoPjS3T9jRRkQ1cLPVmLhj9+BwJGZt6vBCKlVmL9K2PiIfrVSEOJHhpq7/1P3wZKro0B+h1bi+Qv7Atro2UGqh3mpETfjFMS02aG4jWEBDULzO3mUsYgV6vOtcZv1zFBAiTJxrS9Kk65ujlFX7S97Qnt2fFtkExPr8kE1GBfSaHaKBCPkiTJHrrBo7hLvb2Adz58aiw96qbydO2Gs5sKvg7gC1Nny4a5RxVhk3DSTIv8Cqtvs3SBxvV09SaCuysuV2NDbLWsnU8dsESs71+1K6HbnLwr+xU5Ey4V0yc=;KTwx/GgZe8baWrtSXSNHUg=="
 ---
 

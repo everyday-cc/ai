@@ -3,8 +3,8 @@ category: news
 title: "'Roadrunner' uses AI for Bourdain soundalike"
 excerpt: "In \"Roadrunner,\" Bourdain is seen and heard in decades' worth of video and cellphone footage in every imaginable geographical context. When we hear Bourdain speaking in voice-over, most of the words he's speaking come from a variety of podcasts,"
 publishedDateTime: 2021-07-23T07:24:00Z
-originalUrl: "https://www.arkansasonline.com/news/2021/jul/23/roadrunner-uses-ai-for-bourdain-soundalike/"
-webUrl: "https://www.arkansasonline.com/news/2021/jul/23/roadrunner-uses-ai-for-bourdain-soundalike/"
+originalUrl: "https://www.arkansasonline.com/news/2021/jul/23/roadrunner-uses-ai-for-bourdain-soundalike/?features"
+webUrl: "https://www.arkansasonline.com/news/2021/jul/23/roadrunner-uses-ai-for-bourdain-soundalike/?features"
 type: article
 quality: 39
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 360
         isCached: true
 
-secured: "IgzSz3iMcvzB7CTdJCJaEGqUx8ZqhXVWoDOeBdQl1lx1w5ApVWamC+2j6NsQN9lxRydKvixrzK0v2vUELdbSBtBHYd5eE09Wbtk9uZHF+uBqippEZPg+r31FLeFZB6uro7M4ETZsQDpE2/en1FTyWZPk2c5gbqxSDY4HxgNP9PO3q+QukHs8jP1t1ktgENxd5dqDX2+W8nX6Q3avkka5KCI2H6pTIcIjjDphfP62a1BslbuCla8GFIX3yvmo3MLlU7A6Barz8WywT9lo7n2KnWmW/xMhRrCJFiURrcXUGccDqqSlf5aDGkLfq7fEKguu1wd3xr+hwKLJVmAbe+s6aoryGqr+vcXIYxZoA0y0zL8=;k5ZB3TNaLYcqdJHw4JeERw=="
+secured: "DrZoKo66VK34fX55DTHgQcI2tZuNb3HpsW8rG4RDYnO5Gy7Y7RWV9anaxal8GN4JiiM1wynrwpKTHQQYKLuwqE+EcMUgAdYJGpsHDr+KPbxDQdnC7TMcEkPQdue4FlzVE8oOE4widtF40KvlwG3y3YMjGYHKgN/nkNZDLLO/kVQrr0PVdWxUdoubFOJQwobYcmWdr25HJGntdCnok8Griv7rxMe8EXwI6N94V5kAPaSmL33WjvAc5/WOFuz84Kvc6TBO0teSP9IHAF3s4KdoYuvx9AoJKav2MRIVjGOenHPjSkEGGe3HrowepCCSPQytTCEnWGiBQ5bqtFkxnAQq3knAHmIu6laizrnZqmcv+qc=;YOGzWAxU0GFmGRquXIikQg=="
 ---
 

@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 614
         isCached: true
-  - title: "Tesla offers Full Self-Driving Capability as a subscription"
-    excerpt: "It’s looking more and more like the future of buying an automobile will include features that you have to pay for each month. We have seen several automakers offer subscriptions to services"
-    publishedDateTime: 2021-07-18T16:17:00Z
-    webUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/"
-    ampWebUrl: "https://www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/tesla-offers-full-self-driving-capability-as-a-subscription-18682889/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/tesla-fsd.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Consumer Reports Calls Out Problems With Tesla’s ‘Self-Driving’ Mode"
     excerpt: "Consumer Reports experts expressed concerns after test videos of the mode showed vehicles missing turns among other problems."
     publishedDateTime: 2021-07-20T21:31:00Z

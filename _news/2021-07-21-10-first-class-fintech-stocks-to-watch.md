@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Win Fintech Customers with NLP"
+    excerpt: "And we bet that FinTech will give us some of the brightest examples here – the financial services industry has always been an early adopter of new technologies. Thinking about NLP integration into your services?"
+    publishedDateTime: 2021-07-23T09:30:00Z
+    webUrl: "https://www.finextra.com/blogposting/20653/win-fintech-customers-with-nlp"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/fbae6445-44fe-4bf9-9471-761c456ad870.jpeg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "IDenfy bags deal withj Polish fintech Payment Financial"
     excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Payment Financial SA."
     publishedDateTime: 2021-07-20T11:55:00Z

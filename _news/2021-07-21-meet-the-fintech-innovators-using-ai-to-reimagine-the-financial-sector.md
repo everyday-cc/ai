@@ -71,6 +71,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Win Fintech Customers with NLP"
+    excerpt: "And we bet that FinTech will give us some of the brightest examples here – the financial services industry has always been an early adopter of new technologies. Thinking about NLP integration into your services?"
+    publishedDateTime: 2021-07-23T09:30:00Z
+    webUrl: "https://www.finextra.com/blogposting/20653/win-fintech-customers-with-nlp"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/fbae6445-44fe-4bf9-9471-761c456ad870.jpeg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "10 First-Class Fintech Stocks to Watch"
     excerpt: "F intech stocks are housed under a wide umbrella on Wall Street. Some of the old guard focuses on the traditional payments aspect of financial technology. But the industry can also include real estate,"
     publishedDateTime: 2021-07-21T08:13:00Z

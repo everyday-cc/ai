@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Win Fintech Customers with NLP"
+    excerpt: "And we bet that FinTech will give us some of the brightest examples here – the financial services industry has always been an early adopter of new technologies. Thinking about NLP integration into your services?"
+    publishedDateTime: 2021-07-23T09:30:00Z
+    webUrl: "https://www.finextra.com/blogposting/20653/win-fintech-customers-with-nlp"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/fbae6445-44fe-4bf9-9471-761c456ad870.jpeg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "10 First-Class Fintech Stocks to Watch"
     excerpt: "F intech stocks are housed under a wide umbrella on Wall Street. Some of the old guard focuses on the traditional payments aspect of financial technology. But the industry can also include real estate,"
     publishedDateTime: 2021-07-21T08:13:00Z
@@ -190,6 +204,6 @@ related:
         height: 627
         isCached: true
 
-secured: "Jm4GGUrZOraMozURibYALTskCBG8GGzK9No8Y6K09C1MNGPes8PaLQr+z6o4zn0Y57pMmCqF0TTgQ8/c22mdUW9bx9ifwfqu9VW56YB/3DU5D656HNVDm/IEyvpHTxMKtYLtjDJ+/Z2l1TNfs9aUfp8RLGLRb609oItWnLRSdhesTd7zrE7b7uX/4Ossw9ec9iUJ8LbzMWfnz6m5/wMjez4tC2cy0zgHPwmD4zpnn9ecmJthUeGWd6IUDNx+IEqB19Yd8oHEbXm5fLtt5m72cUlCCkEr7CpAcfJGhXUPrTqeag6MC1x20jfWA5PQ1EUnaGS3wmyMqweHgD1olYDrZjrTuEqSNQV5nJirqtUoNp4=;OvU6qCd/BofhG3AcT9mCJg=="
+secured: "K8s3ZB5ah/FwP8ZpWMBu4edZ3C95BUjRjzDzWdpSO2HQIOvlZJjCyyYN1Y25OVspZB3ffv0iiCLO+WCB0QWOFeN92Bcl68mWX4GKlrRntygEM5kwipUuXmKVx1bczH+YKG4rCFDggxSVvNfM1NttuqL+FTbnPbpGEMj166WC+w9UDmLNKr+UZHxiroxVWal2o9q+1j8a7hrxvWWc+mtTyAmSd58VAc3kCP9DzKf2KgiZieLhwk4+6O3jQWs8uPZykJWpDUHTHgTMd/9Ezxv4P0SNe2nDl2yppxDbihJjDPRw8JrKbU/ZIOccFRcVXfChmERRprSa0wuhXvegJ2+rH8euDvam+/ahSM8rlRG4ndjXfjPbfzo5yxYuez8CHqm2WVx0QHC1rmQptJEh1uCyj57FcjXZMt+ZyCKf+EkNffEX2jvaog18Dk8cs/jtLx8D7Am323ALk2gWHQdT7xClG71IvNngjYdSpoBRM6spf/RzJtzPi3pWIuWQlEJK7Nv26yVaVZTOgiHEZW5DJV9NnA==;zq9gzHxO/z7ZgPQ6tVwLBw=="
 ---
 

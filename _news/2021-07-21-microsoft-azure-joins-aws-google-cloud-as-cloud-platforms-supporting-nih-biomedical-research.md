@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-go
 webUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical"
 type: article
 quality: 60
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -28,8 +28,8 @@ images:
 related:
   - title: "KnowledgeLake Now Supports Microsoft Azure Government"
     excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
-    publishedDateTime: 2021-07-21T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
+    publishedDateTime: 2021-07-21T15:34:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/KnowledgeLake-Now Supports-Microsoft-Azure-Government-148070.aspx"
     type: article
     provider:
       name: Destination CRM
@@ -53,6 +53,20 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
         width: 772
         height: 594
+        isCached: true
+  - title: "KnowledgeLake Intelligent Document Processing Platform Supports Microsoft Azure Government"
+    excerpt: "KnowledgeLake, a leading provider of intelligent document capture and processing solutions, today announced the company's customers now have the ability to leverage"
+    publishedDateTime: 2021-07-21T12:00:00Z
+    webUrl: "https://www.webstercountycitizen.com/news/state/article_410c844d-4509-5add-a102-f1c01252ecdf.html"
+    type: article
+    provider:
+      name: Webster County Citizen
+      domain: webstercountycitizen.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/webstercountycitizen.com/content/tncms/custom/image/678ffba4-dac7-11e7-a5bf-af4c1ad100e1.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Partnering with the NIH to advance biomedical research"
     excerpt: "Today, we are thrilled to announce a new partnership between Microsoft and the National Institutes of Health (NIH) to accelerate biomedical research in a post-pandemic world. As an approved cloud platform for the NIH's Science and Technology Research Infrastructure for Discovery,"

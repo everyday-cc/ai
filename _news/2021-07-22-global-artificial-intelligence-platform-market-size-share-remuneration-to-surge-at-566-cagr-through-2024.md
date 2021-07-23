@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Middle East & Africa Artificial Intelligence in Marketing Market to Grow at 30.1% CAGR to Garner US$ 7,312.42 million by 2028"
+    excerpt: "The artificial intelligence in marketing market in MEA is expected to reach US 7 312 42 million by 2028 from US 1 159 26 million in 2021 The market is estimated to grow at a CAGR of 30 1 from"
+    publishedDateTime: 2021-07-23T09:18:00Z
+    webUrl: "https://www.openpr.com/news/2335658/middle-east-africa-artificial-intelligence-in-marketing"
+    ampWebUrl: "https://www.openpr.com/amp/2335658/middle-east-africa-artificial-intelligence-in-marketing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2335658/middle-east-africa-artificial-intelligence-in-marketing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 47
+    images:
+      - url: "https://cdn.openpr.com/U/7/U723557741_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Global Deep Learning market size is projected to reach USD 11910 million by 2026 - Valuates Reports"
     excerpt: "The global Deep Learning market size is projected to reach US 11910 million by 2026 from US 2671 2 million in 2019 at a CAGR of 23 6 during 2021 2026 The deep learning market has been segmented on the"
     publishedDateTime: 2021-07-20T16:40:00Z

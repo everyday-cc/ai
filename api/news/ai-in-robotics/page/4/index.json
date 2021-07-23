@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-26-i-learnt-how-cool-it-is-to-train-a-robot-with-ai.md",
+      "title": "I learnt how cool it is to train a robot with AI",
+      "excerpt": "It’s one thing to hear about the advances in AI on the news, such as China’s creation of an artificial intelligence (AI) news anchor, robots making food deliveries, and serving you coffee. It’s another matter however,",
+      "sourceUrl": null,
+      "webUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot/",
+      "originalUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.mothership.sg/1/2021/06/dog.jpeg",
+          "width": 478,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot//amp",
+      "cdnAmpWebUrl": "https://mothership-sg.cdn.ampproject.org/c/s/mothership.sg/2021/06/dsta-brainhack-robot//amp",
+      "publishedDateTime": "2021-06-25T20:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mothership.sg",
+        "domain": "mothership.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-shake-hands-with-a-mind-controlled-robotic-arm.md",
       "title": "Shake Hands with a Mind-Controlled Robotic Arm",
       "excerpt": "Using a noninvasive (not implanted) brain-computer interface (BCI), engineers have developed the first successful mind-controlled robotic arm that can continuously track and follow a computer cursor.",
@@ -1332,49 +1375,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-how-is-robotics-helping-the-elderly-with-humanoids-and-nurse-robots.md",
-      "title": "How Is Robotics Helping The Elderly With Humanoids And Nurse Robots?",
-      "excerpt": "Robotics has answered so many questions for society. Can it help the elderly lead a happy and stable life? Can it be a successful approach?",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/",
-      "originalUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2021/06/tight-holding-hands-scaled-e1623846739563.jpeg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/amp/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/how-robotics-help-elderly-nurse/amp/",
-      "publishedDateTime": "2021-06-17T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
