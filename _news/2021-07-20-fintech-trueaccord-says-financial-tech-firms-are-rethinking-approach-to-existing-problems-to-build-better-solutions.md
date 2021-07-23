@@ -175,19 +175,19 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
+  - title: "Infobird's Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
     excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (“Infobird” or the “Company”),"
-    publishedDateTime: 2021-07-20T12:31:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-2fcaf5aa6c7c11c5451b9eb175c3f3ef"
+    publishedDateTime: 2021-07-20T12:52:00Z
+    webUrl: "https://www.digitaljournal.com/pr/infobirds-successful-launch-of-intelligent-saas-for-a-leading-fintech-company-paves-the-way-for-further-expansion-in-financial-industry"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 0
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Alzheimers-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "5C9zbNj5O+cJFi/xr7FO4FMItrdVZcPXAzwmqPfHjQagDMw76hf7HKpn2Unopq5pOJ2R4VyyDYD1CF1skAjANEwgo5LhgmHS3LhZE7iEI6tgca0FvOkSoE6BcyMojMBy3ZPcPHXKnHrie/C+KGCuFi736fXo1VFxiortgEUEimTgXxMWXY4Ukl579drUP9OGxzcinaFgRaiM9OyouvQo0jBePmyLY0jxYowP2rWnalVHFV0dD5QA/vsC/mQsL71+DQKsNxjo1QREt15Wf5QPAlxcCaQUNY9EQnlhdIW/B1DXL6RYURq/TUoCYeP6usj95U/KsTDmtFPmqXqq12tMvfMpYtuywr4JsWgjLVvp7VwnEiX1qqvSSWc2sESoXmXE9cvcdtxGGZhgy3uY16AhzTqVwXBrK6HrNLTiRWhD5gNXRglCL94Z6sBnQH8uBvqlRjvO7BT5m1u3X5vuy2KFUPaBli3baU60KaEK0/2kfuHBZn9DCinxkbPizqvs2FWPUVAE81ubHc07NUFoqgXgiQ==;5GlaO5Yu14HL2sJvN/vbEQ=="

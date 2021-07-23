@@ -41,6 +41,34 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Global Artificial Intelligence in Healthcare Market Key Players, Industry Demand, Overview And Supply Chain Analysis, Forecast To 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the Global Artificial Intelligence in Healthcare Market report for for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-07-23T04:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-key-players-industry-demand-overview-and-supply-chain-analysis-forecast-to-2030-2021-07-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Impact Of Artificial Intelligence In Food Industry"
+    excerpt: "The work efficiency of food industries has changed after the adoption of Artificial Intelligence in the industry. In this blog, we will discuss how Artificial Intelligence has reshaped the food industry."
+    publishedDateTime: 2021-07-23T06:30:00Z
+    webUrl: "https://customerthink.com/the-impact-of-artificial-intelligence-in-food-industry/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/robot-507811.jpg"
+        width: 4961
+        height: 3508
+        isCached: true
 
 secured: "K4frU1E1oEADRYVdfdBzCHypwKnB+UlqxjeQNSvD28g2H/DzDGiRih4nM6lqWhU4j/O+nWTaym0eO4GZIkWH7qeoxReuVs0u11BCy30ec/Y8+bpSrdemWp2+Wp/wVYTFzUd88cuvjS4UVEpMdAgo3MeDAUCzABBc+EwKs7sXt5TfNd0JypanxMn6CaJgiRWdpHfjloYKwcho5z8YitzxUNt5pdpFONMDUKg9fpWp2iJIfIGpkdvOfmWFZzC4/IMP2R105k2IhyrI35qLGH9/oEXd8Dtb/8tgq5cCT3f0HTyrwMawLNFeZQPYuaI4f7qf5/fRPQy02eGOeHKkFi+IZhLVcHZvx49iOM71TfF5fUywCFR3iu0z1oiR+GixqmK7YCd5Ja9+EqDTM69bmL2HepkoRbC2Oc2zjglqSRhBc/7GYK16dxa7oNBFA+oRLwl6Z+AgDEhWUAl57Y9r+yhAP6Vbum/BTEE/LA7tlWb23dOrpd7nhOMMlUhiepnaQkfqJ6P9r5RecyL4R6GloawL2w==;9A4WgAsW3Rje3LPpFFcKhA=="
 ---

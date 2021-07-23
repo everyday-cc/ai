@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-20T16:05:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210720005035/en/SoftServe-Wins-Google-Cloud-Specialization-Partner-of-the-Year-Award-for-Machine-Learning"
 webUrl: "https://www.businesswire.com/news/home/20210720005035/en/SoftServe-Wins-Google-Cloud-Specialization-Partner-of-the-Year-Award-for-Machine-Learning"
 type: article
-quality: 12
-heat: 12
+quality: 10
+heat: 10
 published: false
 
 provider:
@@ -15,10 +15,9 @@ provider:
   domain: businesswire.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "szO927WmzVsAXjyNdCG31AOiz+QudKUhiZsZRq8gteQuoDAFn9+1FrGpplzGxUHLAhS+4My2AgOFWi+r4SDd1Y5N+zGnRNR1c92U3KecbGYhs3152XxgRZXBvxpAuc/NuAYSWrsvae5Mok/yUanVYZg6lQyUvVydPbySNJaCn7vvLDdA/YQrB7DFIYyy8CSBXQ8XsvuInMRfDWaJW1Fy3CKqXUlOmnh0pQwQcyansQxGOC6aRdX5O1EXY9kyFxdVz4bzQhhac0tlF3EdYrMUbOP4drFJhfX6KQA+2Oy4rQZMbTmaL4KIqy4lcUiRBNMDa8FWZ3TvZbSyV5EjFF2vxOKBWczbfoUcatsn+H0g2T8yZ+RbjF6MtYhRHQeCdarfo/bsSRfyNiwRZvoPWB66VFyJQNd3SRObLnWHWyurwpgwjuV7SxWdZM1cOGxb5Qv4udH7X49aDnYjqem8o9xkWGmCr2P667P7O3Tf5UzbL6SlT3LYQghkc7AxHSQWw0wJ+aQW9js3L8v9EYliIh2kgA==;Sw6hVx9ozEN36icAeRlyWQ=="
+secured: "Ex4M9pmmTpotlvkr4AkH26E/ypiPrl4fpiEfzGmWNXNFr2KPNlveTxP8t0j43l3yqr3orlbJJyQEyI9GlZgup4NyL62e4TVCHuDE7ZfUXGCA2EW0tLEibnaNby33ETjnZxp7kZpjrciOSHluwMrTH84Gzg99qN8JKsjRrlLeweGcbK3LzjYrH/VJCzlWoidiEjw4DPI2gy+9bdNhFhgAB/mXobN2j+49Yzsh3PzAGTLwU1YwxyoVGIznORSMPxzrV3fg5tHabOp6jRS+Zllu1pTH909WqeqWgXlmQzGojHB54iK6HqgCI0BAvN+Dx0yFy1UspYjGIH4akYMvOt4lQIIo6vkyXpSVHHdFluEu6R4T/AIs6oUL6rTKYSvfi7mn7RXkiEJQI8Ibxa9FCLwnbwQTqTAXRxO9eaJuoFt/nobgk02tXff6MdLHxOrISG+J0m5L5kL8y4uOUUkusCpBPoQtxNxZI1ReL26h6mhsbg/wQee/ZqNdZTq5tSyniGqtgqJrIbpb/s1W4xSBDLrveA==;Ac8hJjItMry4rIOcVzR3HQ=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-15-easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations.md",
+      "title": "Easy Eat AI raises $5M to help Southeast Asian restaurants digitize their operations",
+      "excerpt": "Easy Eat AI, a Singapore-based startup that wants to “transform restaurants into technology companies,” announced today it has raised $5 million in funding. Easy Eat AI offers an operating system for restaurants that lets them digitize all parts of their business,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/14/easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations/",
+      "originalUrl": "https://techcrunch.com/2021/07/14/easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1271227743.jpg?w=1024",
+          "width": 1024,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/14/easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/14/easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations/amp/",
+      "publishedDateTime": "2021-07-14T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2027",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -1164,40 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera.md",
-      "title": "Toyota Self-Driving Car Unit Agrees to Buy Map-Maker Carmera",
-      "excerpt": "Woven Planet Holdings, the Toyota subsidiary focused on autonomous technology, on Wednesday said it agreed to acquire Carmera Inc., a U.S.-based AI company that makes real-time high-definition maps. \"HD maps power a lot of advanced safety and automobile driving technology products that we'll see in the future,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/dow-jones/2021071412169/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera",
-      "originalUrl": "https://www.morningstar.com/news/dow-jones/2021071412169/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

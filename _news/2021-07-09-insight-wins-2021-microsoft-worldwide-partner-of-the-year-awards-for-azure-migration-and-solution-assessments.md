@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
-excerpt: "Insight leverages its deep data and analytics capability to help clients achieve a cohesive, single source of truth for data to promote self-service, agile reporting and/or embarking on innovation leveraging Azure Machine Learning and AI. Insight's cadre ..."
-publishedDateTime: 2021-07-09T16:14:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/07/b21917835/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-"
-webUrl: "https://www.benzinga.com/pressreleases/21/07/b21917835/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-"
+excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year."
+publishedDateTime: 2021-07-09T16:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "yp1flbVx9DON5TL9KJNOkvLj/+UyTbwZwWHNHvcO6UMVvLfO9kmnGVqpsM0lnKHc+zX+YSWSb9gujT9V8B6/l14ZC7Uc9i+DdMnGn4Fkz5/FfwafKWCU4XeI1dXvQcYEeD3VLWrzJ3PbMDNjQZEuyOa5KaKlHJV1tr70/HoDQ9s7nRsnKYG5LXjVrVX5fUWW4fVNOidJVPc25DSmplPYL1JrqGhbhoj7o/LtfCvnsHokqG940i+VohN1act1oSvgwf0VhAI5jIgT2uZyecpKHwm/aulBFR8YEYeDUMCej1Iqh5VfDAnvnsquL0AH/SyaX502cId/HCFpL0iKMEDbrykmAL5y1IJw5bLUeq//gPU=;IME6B/N66tmXm+XQ2r/3kA=="
+secured: "5MPbRVBXmA4/V+zDmhPpGLAdicHt+0Qnq1fMFt7Jo9JlIsooS0RsIiKDsdkyBSr7sk4GezxGd246Lgl3n7OdPL2azXweq0Ul5rf5ZXmKdWK+D67QFjWQBp0g0fflgXi/tBpqtVt3J0yS7tL1ddS6n4vm9g1Uz5pB1Swr+RLDgOu+3DGyqve0DXkVhlyleV/TQx0SZ15vdUSiN5Li8WqH6QK91Y94yhF5Wl2x+fHR+0MoN6HAr+VmdV3syInck05T1U2R1tT6qwwZJtgO65c7CELMKneefQzTbaRE/voM14mUXuN+scx8WQ7SgRTS4Yjt3Q63sxZ61hCtTj4+5+D5OvYGtqTKD7MSywjl6LGg9NE=;bJL/QP7xKhQYy/RenY+kYg=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
+title: "Infobird's Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
 excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (“Infobird” or the “Company”),"
-publishedDateTime: 2021-07-20T12:31:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-business-2fcaf5aa6c7c11c5451b9eb175c3f3ef"
-webUrl: "https://apnews.com/press-release/accesswire/technology-business-2fcaf5aa6c7c11c5451b9eb175c3f3ef"
+publishedDateTime: 2021-07-20T12:52:00Z
+originalUrl: "https://www.digitaljournal.com/pr/infobirds-successful-launch-of-intelligent-saas-for-a-leading-fintech-company-paves-the-way-for-further-expansion-in-financial-industry"
+webUrl: "https://www.digitaljournal.com/pr/infobirds-successful-launch-of-intelligent-saas-for-a-leading-fintech-company-paves-the-way-for-further-expansion-in-financial-industry"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Alzheimers-AFP-1K-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -190,6 +190,6 @@ related:
         height: 627
         isCached: true
 
-secured: "QOCeaTDBskCdnPTv9Xde94Z/nHwR9PNGz77fyHrLSgc78BHll8Mrktx3ENw5aa01TSR1mz5KDT5rNLxCcCZ6BSQvaLwc+VJP3IOCXEeePo5Wxy+ceA09oqYEQ/oVaVcW5gu3BmEZ9LC7o3f3NzsjUA9KGopgmIiQxvweFKABs76CiAsXDM1hMe2ZUbW53FUOK4tzhDDe1ZdzTH/oNRZNR3fMfnUz4sL5JReOmM8PtObMGg/cbF/aUdT4B1xnpF9MWTLxN9AmpGi8eM0YBEpmfJrnhDKjjYZi9ep3O8xGD0JLcp5OoMx+ilLBMSz0TW4goVTcyHY+joL8YPZ2Vsk3axGPTKWftA7PNGwgP92PR/A=;msIFaJBwl/4nBzTzfvF/Fg=="
+secured: "Jm4GGUrZOraMozURibYALTskCBG8GGzK9No8Y6K09C1MNGPes8PaLQr+z6o4zn0Y57pMmCqF0TTgQ8/c22mdUW9bx9ifwfqu9VW56YB/3DU5D656HNVDm/IEyvpHTxMKtYLtjDJ+/Z2l1TNfs9aUfp8RLGLRb609oItWnLRSdhesTd7zrE7b7uX/4Ossw9ec9iUJ8LbzMWfnz6m5/wMjez4tC2cy0zgHPwmD4zpnn9ecmJthUeGWd6IUDNx+IEqB19Yd8oHEbXm5fLtt5m72cUlCCkEr7CpAcfJGhXUPrTqeag6MC1x20jfWA5PQ1EUnaGS3wmyMqweHgD1olYDrZjrTuEqSNQV5nJirqtUoNp4=;OvU6qCd/BofhG3AcT9mCJg=="
 ---
 

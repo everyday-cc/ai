@@ -2,19 +2,19 @@
 category: news
 title: "Black Knight Announces Underwriter Assist Digital Solution, Leverages Machine-Learning Tools From AWS"
 excerpt: "Today, Black Knight, Inc. (NYSE:BKI), an award-winning provider of software, data, and analytics to the mortgage, real estate, and capital markets verticals, announced Underwriter Assist, the latest AI-powered mortgage solution developed by Black Knight running on Amazon Web Services,"
-publishedDateTime: 2021-07-20T15:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-1030625676"
-webUrl: "https://markets.businessinsider.com/news/stocks/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-1030625676"
+publishedDateTime: 2021-07-20T13:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-2021-07-20"
+webUrl: "https://www.marketwatch.com/press-release/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-2021-07-20"
 type: article
-quality: 36
-heat: -1
+quality: 56
+heat: 66
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,6 +22,12 @@ topics:
   - AI in Finance
   - AI
   - AWS AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Black Knight unveils Underwriter Assist, leverages machine-learning tools from AWS"
@@ -39,6 +45,6 @@ related:
         height: 300
         isCached: true
 
-secured: "ef7YVptc902GnDhbL1Q4MwSvC+HHdwD95Q5DBtpTrMOhB15UB6IfdCQEmD2+lN4fNHx0UkvstnMVfu1QW/9P7RSPUlAjlHE/7PF9GkYk9hl+21m3ICEUe5DAEiIRhE5am8r1TdB2T72qQXefvV14+kQfCLdQQF0c7kwMDvvkI3AiMVwX87/sDDTrSDXhyGoN89T3HmeV+AwFcQcQld9FHlDuRHHeIze7gTnIZXmjTiR3VxxR9jdOaEhGq2NZXaFqOvHWePw7VLcpIDYYFoIr2HEaakoBkKFdMalwEw/h1r+tuosZjV0Br1vpOyY5Lj7Yo6/H/7Pxgbj5jSxDYzN1PdFSL7zCXX/NRVPs4moOU2M=;ws9zs/Wn5ZWUqxG322fHfA=="
+secured: "I6Wtbsj0EHu4I8s+63agtyUwyG6vxarRkeUzo0eD97pxOOR1wfXmYfOhHRRACmGC62bozOOqPRuy02xOVRFum2nNuyGA6IQ/lOoFAiSEjOZeavy4kTQy55L/eFgx0/t9i+/ymy+3slug492nds6REVWCYdRjZ2sGsBJXeoXLc26T1qATKIaZHtWwwY3x/s07lvQv8VUQgzqBobr+MLohI1kpCk4AZI+ijOI5S0tdwECx/dKbPAJcHSLDtsHSoPWsBXTkZs+eoHBAtgrXZgT/dWTy2TZ6fOXduBM8hq9fuk35OehMz3isDAhfz6aADNHtekK04LQnqvHzm9L7tD9lEjog/iOCpP7MfSiM/gVALg8=;qqK7j1YuKDl3diqi10DTLQ=="
 ---
 

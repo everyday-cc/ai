@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2021/jul/21/anthony-bourdain-docume
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "'Roadrunner' uses AI for Bourdain soundalike"
+    excerpt: "In \"Roadrunner,\" Bourdain is seen and heard in decades' worth of video and cellphone footage in every imaginable geographical context. When we hear Bourdain speaking in voice-over, most of the words he's speaking come from a variety of podcasts,"
+    publishedDateTime: 2021-07-23T07:24:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/jul/23/roadrunner-uses-ai-for-bourdain-soundalike/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "IeoDY8SfYX12czfAFhUgQPuBkq5AWeAKS+QiyNLvlDh8D+9Ay06Xpd9p7FihWSp6X1VjxkOoKBKgmv4WpOsGa6mCe499wKE251XII/lJIvsOoMmsRYagSfNDUpgkMm2PdBta8B7FRt84ApYZHkfV82F1P18h8QaANrj9xPNtFS9WccLdc466DG0hjoJKte2fCLYpTl9pCTx/Vf7PlJtLJlryLVi+rLZEFqoPvpLRJP1rteBIzc+Qx6m+sLqCeDPV+DNCUdq0w/02xyIcOVQ0hDq9L4b8Y+L6roOa3qdf5syMYbMQXc2JTjCt+1BaPRikovxCAOZJBAk+CjDlnqPU8IMSWVpOvIajePz17oTquLHcDtDCbgw7+GyObREz7vjg5lRF/oTnNuNbS3jIWySLwp/LzOF/RrlIbYyrM9Aw7LlidFpmQRgHMX5wkh9mI8+EcRjEcuTJHBYrAnCLNv4xZhSKYB34U2ZxvIUyoyj1rGIFHW3pb2EKa4SoWbiEGtTGxKFvZ282fnKFbLMfyNnHUw==;ubsuV+OhJ60wbo18WVeRNQ=="
 ---

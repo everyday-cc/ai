@@ -149,6 +149,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Enzyme researchers partner with pioneering AI company, DeepMind,"
+    excerpt: "University of Portsmouth joins leading AI researchers at DeepMind to help engineer faster acting enzymes for recycling some of the worlds most"
+    publishedDateTime: 2021-07-23T05:46:00Z
+    webUrl: "https://www.miragenews.com/enzyme-researchers-partner-with-pioneering-ai-601319/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 54
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
+        width: 1416
+        height: 829
+        isCached: true
   - title: "Alphabet firm DeepMind releases massive database of 3D protein structures"
     excerpt: "DeepMind has used its highly accurate deep learning model AlphaFold2 to predict the 3D structure of 350,000 proteins."
     publishedDateTime: 2021-07-22T15:00:00Z

@@ -682,6 +682,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-18-snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high.md",
+      "title": "Snowflake Stock – Even as COVID eases, cloud computing and AWS keep flying high",
+      "excerpt": "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a",
+      "sourceUrl": null,
+      "webUrl": "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechzoom.com/wp-content/uploads/2021/07/superman-cloud-1-1024x680-1.jpeg",
+          "width": 1019,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-18T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-facial-recognition-creates-risks-for-trans-individuals-others.md",
       "title": "Facial Recognition Creates Risks for Trans Individuals, Others",
       "excerpt": "As more government entities look to adopt facial recognition, concerns have been raised about its potential risks and how the technology might have disproportionate impacts for transgender and nonbinary individuals.",
@@ -1403,59 +1446,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-optimize-workforce-in-your-store-using-amazon-rekognition.md",
-      "title": "Optimize workforce in your store using Amazon Rekognition",
-      "excerpt": "In this post, we show you how to use Amazon Rekognition and AWS DeepLens to detect, and analyze occupancy in a retail business to optimize workforce utilization. Retailers often need to make decisions to improve the in-store customer experience through personnel management. Having too few or too many",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-workforce-in-your-store-using-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-workforce-in-your-store-using-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T09:17:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

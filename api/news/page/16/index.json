@@ -2,6 +2,57 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-07-10-is-the-us-labor-shortage-the-big-break-ai-needs.md",
+      "title": "Is the US labor shortage the big break AI needs?",
+      "excerpt": "Misconceptions about AI in the workplace have long been a barrier to widespread adoption — but companies experiencing labor shortages should consider where it can make their employees' lives better.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/",
+      "originalUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-748338005-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/amp/",
+      "publishedDateTime": "2021-07-09T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance.md",
       "title": "AI Weekly: TikTok’s algorithm licensing signals China’s play for AI dominance",
       "excerpt": "Join AI & data leaders at Transform 2021 on July 12th for the AI/ML Automation Technology Summit. Register today. This week, TikTok parent company ByteDance began licensing parts of its AI technologies to third parties through a new division called BytePlus.",
@@ -556,49 +607,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-09-insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments.md",
-      "title": "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments",
-      "excerpt": "Insight leverages its deep data and analytics capability to help clients achieve a cohesive, single source of truth for data to promote self-service, agile reporting and/or embarking on innovation leveraging Azure Machine Learning and AI. Insight's cadre ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/07/b21917835/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/b21917835/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-09-fact-sheet-executive-order-on-promoting-competition-in-the-american-economy.md",
       "title": "Fact sheet: Executive order on promoting competition in the American economy",
       "excerpt": "News Release The White House The economy is booming under President Biden’s leadership. The economy has gained more than three million jobs since the",
@@ -637,6 +645,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments.md",
+      "title": "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments",
+      "excerpt": "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it has won two 2021 Microsoft Worldwide Partner of the Year Awards as Migration to Azure Partner of the Year and Solution Assessments Partner of the Year.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c",
+      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-3634aaca791741eb9f3e2c2ee033410c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1110,49 +1161,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot.md",
-      "title": "CBA turns focus on applying responsible AI following national ethics framework pilot",
-      "excerpt": "Commonwealth Bank of Australia (CBA) has revealed that testing the federal government's artificial intelligence (AI) ethics principles during the creation and design of its Commbank app feature Bill Sense gave insight into how the bank could apply ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
-      "originalUrl": "https://www.zdnet.com/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
-      "publishedDateTime": "2021-07-08T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

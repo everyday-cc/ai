@@ -1,29 +1,27 @@
 ---
 category: news
-title: "DeepMind says it will release the structure of every protein known to science"
-excerpt: "The company has already used its protein folding AI, AlphaFold, to generate structures for the human proteome, as well as yeast, fruit flies, mice and more."
-publishedDateTime: 2021-07-22T15:07:00Z
-originalUrl: "https://www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome/"
-webUrl: "https://www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome/"
-ampWebUrl: "https://www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome/amp/"
-cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome/amp/"
+title: "Enzyme researchers partner with pioneering AI company, DeepMind,"
+excerpt: "University of Portsmouth joins leading AI researchers at DeepMind to help engineer faster acting enzymes for recycling some of the worlds most"
+publishedDateTime: 2021-07-23T05:46:00Z
+originalUrl: "https://www.miragenews.com/enzyme-researchers-partner-with-pioneering-ai-601319/"
+webUrl: "https://www.miragenews.com/enzyme-researchers-partner-with-pioneering-ai-601319/"
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: MIT Technology Review
-  domain: technologyreview.com
+  name: Armed robbery in Revesby
+  domain: miragenews.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://wp.technologyreview.com/wp-content/uploads/2021/07/Proteins-1.jpg?w=1920"
-    width: 1920
-    height: 1080
+  - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
+    width: 1416
+    height: 829
     isCached: true
 
 related:
@@ -105,6 +103,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DeepMind says it will release the structure of every protein known to science"
+    excerpt: "The company has already used its protein folding AI, AlphaFold, to generate structures for the human proteome, as well as yeast, fruit flies, mice and more."
+    publishedDateTime: 2021-07-22T15:07:00Z
+    webUrl: "https://www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome/"
+    ampWebUrl: "https://www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 56
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/07/Proteins-1.jpg?w=1920"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "DeepMind’s AI has finally shown how useful it can be"
     excerpt: "AlphaFold has provided the clearest picture yet of the human proteome. Now DeepMind is making its work available to the world"
     publishedDateTime: 2021-07-22T15:00:00Z
@@ -132,20 +146,6 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02025-4/d41586-021-02025-4_19383154.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Enzyme researchers partner with pioneering AI company, DeepMind,"
-    excerpt: "University of Portsmouth joins leading AI researchers at DeepMind to help engineer faster acting enzymes for recycling some of the worlds most"
-    publishedDateTime: 2021-07-23T05:46:00Z
-    webUrl: "https://www.miragenews.com/enzyme-researchers-partner-with-pioneering-ai-601319/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 54
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
         isCached: true
   - title: "DeepMind and EMBL release the most complete database of predicted 3D structures of human proteins"
     excerpt: "DeepMind today announced its partnership with the European Molecular Biology Laboratory (EMBL), Europe's flagship laboratory for the life sciences, to make the most complete and accurate database yet of predicted protein structure models for the human proteome."
@@ -187,6 +187,6 @@ related:
       domain: bio-itworld.com
     quality: 13
 
-secured: "Mlj5dWrCf4GUKk68TmF8lclR/uiLP7/aOg1lxKkCG9Dpdw+cbLSqapf/yeARWBUadXROkGE+uoZ3+CpPhrEopSWivfZo3N+FWl9Yr6XEJ7zT1oel+FMLcd/SzVrXsQrgG4xlZHAgkvkpxV1WGN8U/iifhB68H76T9zyZo+Dn7ZE/lVGP1azd49lxSGgpYR7VyldkZw7bRxyv1Ts9TT5Poc0FmeexRh8R9ayFLpvmJe1CJSQQU19PpX1pSTKRaw5ZG2a+B2Csdja6k6x9pdckssnz/jVnwbHB1CvSXf+0gMhR/CqV2ijyOpp54kPx1WRlRT89jaSd7s7Seu9DU+hDW8YZebTXRh6BcCJmUj1O6/cmlMNacJjnnyNN1ok5Ei2uZKduCEIaKL+ADJwi/6H3ON0j1TVgtJKMoSE83klTokNzK9uIGSzfDIR/gWD6r6Atg/QOGAe3XcOvrD63bO/cd79coL3MR0nQHCve1Sbeta6W7EdCr0qtlqKOYi27aUdRi50Sik6/EnrvdIiEFY2Qdw==;KkbUmCGm3BB+bt2lYw+hvw=="
+secured: "2kMgUOEqTdFKVRs+goFbOTS9En/wxbpA03f+t54kFviauw2fZYBqd7PoTfUMxjF4f7oo0DTQWmvIlAhGba5YvT81/ki9kITDghQmSsVe62KOpHSPQEkUmQ70tHBEIJTvvNktiBCQblHJTvrdjkW3rzUE4GYuozEc6EvnDDsgpbG4RRhQGAEb8oR9j/tgeYXHWp1tVpkHCUuwqWfAvy2vJEUO3pFNJiJSd8Y9ue+aGl9yGeuxWSeeFzqpdHIut9y1mvMwEg4j7/xGiI2sgv9QNxAniHt5m1yiTdNnluwbOcJc+UXTj5qTnUU50gaD1UMGC9iw/vCcVRO+mcCydd+s89aNj0A4UkRiKfoPSWneT+Q=;5o5B1aYFUSe/z/Amlj+2Pw=="
 ---
 

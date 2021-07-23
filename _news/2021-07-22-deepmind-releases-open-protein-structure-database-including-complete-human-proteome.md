@@ -141,6 +141,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Enzyme researchers partner with pioneering AI company, DeepMind,"
+    excerpt: "University of Portsmouth joins leading AI researchers at DeepMind to help engineer faster acting enzymes for recycling some of the worlds most"
+    publishedDateTime: 2021-07-23T05:46:00Z
+    webUrl: "https://www.miragenews.com/enzyme-researchers-partner-with-pioneering-ai-601319/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 54
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
+        width: 1416
+        height: 829
+        isCached: true
   - title: "DeepMind and EMBL release the most complete database of predicted 3D structures of human proteins"
     excerpt: "DeepMind today announced its partnership with the European Molecular Biology Laboratory (EMBL), Europe's flagship laboratory for the life sciences, to make the most complete and accurate database yet of predicted protein structure models for the human proteome."
     publishedDateTime: 2021-07-22T15:00:00Z

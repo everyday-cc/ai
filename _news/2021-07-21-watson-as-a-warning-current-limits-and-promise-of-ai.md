@@ -75,6 +75,20 @@ related:
         width: 547
         height: 950
         isCached: true
+  - title: "Robotics and AI are speeding up our nuclear clean up mission"
+    excerpt: "West Cumbria is delivering the future of nuclear robotics and artificial intelligence technology. Every day the company in charge of the nationally important mission of decommissioning and cleaning up the UK’s largest nuclear site – Sellafield in West Cumbria - is facing new challenges."
+    publishedDateTime: 2021-07-23T07:03:00Z
+    webUrl: "https://www.politicshome.com/members/article/robotics-ai-speed-up-nuclear-clean-up-mission"
+    type: article
+    provider:
+      name: PoliticsHome
+      domain: politicshome.com
+    quality: 69
+    images:
+      - url: "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2021_07/DRONE_960X640_JAN21_002_xegibn.jpg"
+        width: 1200
+        height: 642
+        isCached: true
   - title: "Detecting Acute Stroke Early with Artificial Intelligence and Imaging"
     excerpt: "Scientists are using artificial intelligence (AI) to improve imaging techniques so that ischemic and hemorrhage strokes might be identified faster."
     publishedDateTime: 2021-07-22T08:15:00Z
@@ -192,6 +206,6 @@ related:
         height: 419
         isCached: true
 
-secured: "R9vJ3TLbVdMM9zy1bOtlCeNiJjVKwaFsoV9R0MgLwVHrH21xAFzNqTqS6d6GyEGUNZaoRz2nFQjQs5+k0DWZyjPeNRK2m2bkmB8Z9xipbOJxIghMbrxRWogOAXC7lvdKUJeYGGiHY6pogEN6MPUPeFVRqWE1WHoQQYDfssUaIywpQcyPJolJZ1NCIoecHRXlgLC7+OOGqOBf35YuW2lHkRGXI0PxC2WfEMZGErfPwiTnDqq+qYkySoI4XKFPAY96bLxKBo8tBMWHTBe9zq4/uZc1LjABvOz0ojRPswuerx4lCWg+hvNhRKqjuV/FfLXpnL+B+Mgan+LCexctz8M7+ez80WOp/RUdDQnK8Vx6Q+4=;RTpoGQFgR930ja0GS7+Hfw=="
+secured: "G76fduyn1EKP2nPWIAvJCD18bQe2x/Ud42cbOh/0xoWQ3Jh6zUn5qRvxvwegViglIH2gbeNxZBVOT6jEvuPM3J3pJDUxue/IxRTPFriLlH+9s08ksJBALlWgsz9iBp0qTISkxf5Izt1+YUBZe1Vv+v2E7QI4P7VezQtGykM1tyPANOJA1xy5CnUc2pGGFNpCsZUh9+XDoE7dpo1UTwq7Hqdzsh+Wj8Liq7C22WeCXQb0jSzWvowlmAtLlwT7FVamLrvitq/SF9ZnOX5KWQ7iE9hNEbhqaAGGpQFbx6uzbMqCyQq233LORYcd/qcioWgUiomS1e/UxBAUyHUAwHKu5ijeyY0A8XS3E0cuwLdCFLI=;hQcbS7yFwNsHCSxjiR3ZQQ=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2019-10-19-to-antarctica-and-beyond.md",
+      "title": "To Antarctica and beyond",
+      "excerpt": "There’s a third less oxygen than at sea level, impairing brain function ... body-composition changes in prolonged periods of low sun exposure and reduced physical activity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics",
+      "originalUrl": "https://edition.cnn.com/interactive/2019/10/world/antarctica-and-beyond-scn/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sciencenews.org/wp-content/uploads/2021/02/021321_LS_brain-kavli_feat_1440.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics/amp",
+      "cdnAmpWebUrl": "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics/amp",
+      "publishedDateTime": "2019-10-18T18:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2017-02-11-saffron-technology-how-intels-cognitive-computing-acquisition-thrives-on-chaos.md",
       "title": "Saffron Technology: How Intel's cognitive computing acquisition thrives on chaos",
       "excerpt": "Gayle Sheppard, CEO of Saffron Technology, outlines the company's history, explains how it fits into Intel's AI portfolio ... to the top IT professionals, all in an ad-free experience.",

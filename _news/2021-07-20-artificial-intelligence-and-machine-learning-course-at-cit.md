@@ -77,6 +77,20 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "Robotics and AI are speeding up our nuclear clean up mission"
+    excerpt: "West Cumbria is delivering the future of nuclear robotics and artificial intelligence technology. Every day the company in charge of the nationally important mission of decommissioning and cleaning up the UK’s largest nuclear site – Sellafield in West Cumbria - is facing new challenges."
+    publishedDateTime: 2021-07-23T07:03:00Z
+    webUrl: "https://www.politicshome.com/members/article/robotics-ai-speed-up-nuclear-clean-up-mission"
+    type: article
+    provider:
+      name: PoliticsHome
+      domain: politicshome.com
+    quality: 69
+    images:
+      - url: "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2021_07/DRONE_960X640_JAN21_002_xegibn.jpg"
+        width: 1200
+        height: 642
+        isCached: true
   - title: "Detecting Acute Stroke Early with Artificial Intelligence and Imaging"
     excerpt: "Scientists are using artificial intelligence (AI) to improve imaging techniques so that ischemic and hemorrhage strokes might be identified faster."
     publishedDateTime: 2021-07-22T08:15:00Z
