@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/22/airbnb-cto-says-graph-neural-netw
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/airbnb-cto-says-graph-neural-networks-will-be-big-in-2021/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

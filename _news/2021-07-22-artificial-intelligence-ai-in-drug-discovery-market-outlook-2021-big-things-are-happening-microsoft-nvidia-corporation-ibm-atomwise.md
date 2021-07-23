@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-drug-disc
 webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-drug-discovery-market-outlook-2021-big-things-are-happening-microsoft-nvidia-corporation-ibm-atomwise/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,17 @@ topics:
   - AI
   - Microsoft AI
   - IBM AI
+
+related:
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Outlook 2021: Big Things are Happening"
+    excerpt: "Get Free Sample Pages of Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market Study Now @:  As Natural Language Processing (NLP) in Healthcare and Life Sciences research and application [Application 1,"
+    publishedDateTime: 2021-07-23T14:59:00Z
+    webUrl: "https://manometcurrent.com/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-outlook-2021-big-things-are-happening/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 31
 
 secured: "Yqd7b34uZCcu646P1zswn9I3Hxovt4ZsbXq2V5L2KH04p53VTwCSEmCJhDwgaWq6jOfZl2mC0yeB05j0ksC9Q2/xpEVj8SxH80JwRxUf0Flr2jFnEaR/vVcywr3P1xuVjfZp4iiVc+wkf5oDPYP6dCbyBa2bNR9i0swRF6ooS+SF7clLnkl0j28w03pB+Yx9zhZ1rbt5aSLBNFzyeA3OfG0tr5pmC11TUEpvBjvElf5ZxMFzEOHeCQt2iQ4oXlLqNHoKe/4z7TCUw/I6p/vfQp99laRMoWqNqZ/8xsGAaC6yW4Zxol0Yu7L3pMMwZ6RGvIML+SJJG6aAWQ/CF/H1MrdFNuYhMVpSKXYumCq7DXg=;keujbAAGRNJ+rINvZv1z9A=="
 ---

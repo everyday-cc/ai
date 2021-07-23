@@ -3,8 +3,8 @@ category: news
 title: "DeepMind’s AI predicts structures for a vast trove of proteins"
 excerpt: "AlphaFold neural network produced a ‘totally transformative’ database of more than 350,000 structures from Homo sapiens and 20 model organisms."
 publishedDateTime: 2021-07-22T15:33:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-02025-4?s=07"
-webUrl: "https://www.nature.com/articles/d41586-021-02025-4?s=07"
+originalUrl: "https://www.nature.com/articles/d41586-021-02025-4?error=cookies_not_supported&code=a365541b-42f0-4984-a7ab-cb10a65e9e92"
+webUrl: "https://www.nature.com/articles/d41586-021-02025-4?error=cookies_not_supported&code=a365541b-42f0-4984-a7ab-cb10a65e9e92"
 type: article
 quality: 54
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: nature.com
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02025-4/d41586-021-02025-4_19383154.jpg"
@@ -239,6 +239,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "DeepMind and EMBL release most complete database of predicted 3D structures of human proteins"
+    excerpt: "DeepMind today announced its partnership with the European Molecular Biology Laboratory (EMBL), Europe's flagship laboratory for the life sciences,"
+    publishedDateTime: 2021-07-23T13:35:00Z
+    webUrl: "https://www.miragenews.com/deepmind-and-embl-release-most-complete-601570/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 28
+    images:
+      - url: "https://www.who.int/images/default-source/departments/blindness/250_who-peru_lima-march-2018_samir-gustavo-rosales-lopez-trying-his-new-glasses-at-his-school_photo-credit_who-sebastian-liste.tmb-768v.jpg?sfvrsn=89945b85_1"
+        width: 768
+        height: 512
+        isCached: true
   - title: "DeepMind Releases Open Protein Structure Database Including Complete Human Proteome"
     excerpt: "DeepMind and the European Molecular Biology Laboratory (EMBL) today unveiled the most complete and accurate database of predicted protein structure models for the human proteome. The database includes about 350,"
     publishedDateTime: 2021-07-22T15:23:00Z
@@ -249,6 +263,6 @@ related:
       domain: bio-itworld.com
     quality: 13
 
-secured: "9xRNLpLLqFQ5X1xH3ePxJrKOAZpBW4w46Km9ngURDcusXzIuNhGAPsEDJEyI4+zvt7B1FyemWHTVqgUvjar8ugFDsBC0VMeB47dHMwgxJMgBRwOBFuxqb0/rVCX2XvmkXnE0AVaYej6JzQ0hdFbIAD5EY3Z/V3v4AKAWBQRTgtAF1N188Y5MvYMaJTAPF6QYyn+/9qTnEXuXOp+Fr3XwqOat0Jn6YJbuwmGcn4UtcjX1IImCWe9jCL2AxNjuIas1VJxWQjG/mLow7O0eak6dc3y2hyncy9hkFzCFo4EzWiNvbJJcPdMBg80l4JxPnyjeM4bPMTyn+llZK+NRdtlI5vZqs16D2g4+rPvwQF57SC0=;tUV7N2GJwVtUn/rIdZJeyQ=="
+secured: "XDld4VzSuZrnh1od7VLcpmWhmqEq7piwfm7mfgnhPNXg7i76tgcc6oJnmFg7XZaRAf9siSWAcYAd0A/fCNgOZyMIdmyNsVJLd8f63r+ZHiiTyqW+62UM+q+oQ1+9WPIf1dS9eyRJMvuneJywHEWnSZZIw8pUqIUoWOMpF/NBYcNN0Cn09DX0CuZrSVO5bkhYae4Gsbc7sKr1yX8YLJ3TIVbNaGimPPNbwCEPePByL7vdO1pRR/qf3v61nprbbCVftYuWVWgcCRoPVV/cwUDpaSmrQJ7C9lUMdUf72OT1r/nehaqExwYyn6sXn2kwXPjZwjlZMQ93RkVZWhol7gqecJuac0mZCq/t3fSQgrT8tiM=;IbUzL394hbh4GUokimmFpQ=="
 ---
 
