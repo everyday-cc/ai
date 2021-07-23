@@ -2,7 +2,7 @@
 name: "Gong.io"
 overview: "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality."
 type: "profile"
-heat: 65
+heat: 87
 
 website: https://www.gong.io/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "gong_io"
   url: "https://twitter.com/gong_io"
-  followers: 6342
+  followers: 6341
 
 size: 201-500 employees
 yearFounded: 2015
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=PGaBhUPCcxU"
 
-secured: "i/OXmM4XKLn42powrXnyepTsRzlVT/tuiiiDgCpVX+wkpfoaX9wdbHijX2h/4Wza3lvReS9Q3vE+V0b2HynAxqbIsC756ljVfbilic1ck7kpb4pUgBKTm9k6UtOtYtb62AnIE3xgfITOqC6WubDpUGQhPJCc1gXt8jBN8Mp9UcFJBwBC8gaOHqMpb7PNTIofVfy+y+SSDnNvm2lFYQwEahdQ/zSlBBcMcVhCpnPN6vRTC0ytuC53uskXG1jpwbguwTT3e3zyYRsZCVchmsob+Gu15LsCfCf6mhJQqQ5FMJ2ABJmI0niHrAq9Y4D+hOZEzM5ZJxxsWkCPY1hC5BV3u7Ltwr+ELnyu98jU6r8IOkTPLe3xKmR8crX8X8dEkUVSgqAIAb7z+hYgCCK5UUTdicO24Cz5CcQ++2b5fjTVB38=;X+qRgEgamc+UBQOMvfgV6A=="
+secured: "xrKyAIaDxFavCtRChmP72qsqwzVNYotDFCRPc9isYJYSMCXTaYAsV/rV21tSP56T+wX1x4djO6LodXwx0MGn2a5yTGP57nOR/vPlj51/96f8ctmh4GRWMJoXIdInJNh5J7uP6hOhEAnrN9bRi7XI1dytwH5G/XVx4VLAIbEOHcYbNSUOdV6KKD01rVg6MMpr8BGkC41syAx8Aje0m2IfcMYEIm+lpYf9dcZFpdgRPiZNUumgW/qSqaIQpjeL/plyrqjHqPi3x/rFOtRF9Scw3nAFCN7Cp9mGPj55IxNj5eqMIY22NxxEhS48t1v2nUsQt1F6GtuOs5mb2PXgzIh22lGw2t0cligRrCZgvElpB/MoJ1MLVhTtguLx8lK0udkIeIv57t9ouFd6mdSr4n1SMthtn24cB2hUs+JCw+OBGok=;jwNWy+ck9Wtc2LHc5lhi/Q=="
 ---
 

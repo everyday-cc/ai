@@ -2,7 +2,7 @@
 name: "AI Companies founded in 2018"
 overview: "Here is a list of AI companies founded in 2018."
 type: "collection"
-heat: 69
+heat: 60
 
 
 query: item.yearFounded == 2018

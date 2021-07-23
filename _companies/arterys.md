@@ -2,7 +2,7 @@
 name: "Arterys"
 overview: "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc."
 type: "profile"
-heat: 65
+heat: 50
 
 website: https://arterys.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=R_GU1ne-oW0"
 
-secured: "qeru1qRHChOCNuwski0jU+flfI9Au0MC1opgvNFRXN9+2+QrBnVYEvMffeDovmOW3ztkbPexy0rdaTdYoYrwpNO4cRVTS37Utc7zp+9HW1jgg4RH6kcrzIOiHP+41A38wHFeOpFraLxRnBi94fJaP36yKOxVPHbOLE0r0hU21WKJy0/c/tvzKkip+DLKeJdazu4uoWbgscgacUgQAFkTXwBpIQd2KlMjdzFuXoDuXrL6CfAGQvROTc+UdbqqLTd6w8Sgexu2q/TGqM2196KSGKY0DfuCLkGLXGocjvt1XONAAu0NxmZur71r9MUuIcX6qbjti6iRLG4FYudN0evYANh4o/s6Ip7PvcR6JVJ42sxKmjd32/tbKK+2v91IM5fM+AzpNtONLsfyLzpUDgDgqg==;usDZMipc9JlDPaGUXUmBGg=="
+secured: "JadBtlfu9M9CFxPwMrgOtFTKV0BhhP6vdCU3TSwMBX5qz6Ch1R2Vcd8egy56oPfywEZL+KehKs9OMJKI2+wgPfMSMAFEIe8Q1DKypJed9RN+T7tYhtDh/EpiToHG9uYvBf4kuIX2hGMoMIxJJEqDuaXpc+6guwQ/+a0xx6Ioe54DiqKU+oDyIclsYT0cdR63eJeGNbjJDEmhzqbgDyh2ZVae7ue5e6CrbClm+n8rjGYu1iHfDNpLLGgaQ4ED12e47gZDI+k9eC1Ga4J1ShZvH3aQgL92Pu8vm/gGwG5BX9++Tlo8/1Qiylj8UzmsEFsPaBLKdYRl1lDry1y8L4sdDHmOcOCCqwCSd5FtDDUZvihbzQbt0/fi8UmYWVJDudYDs36/bxqEU9liJK3MjwyC5uAslVRGqOHYMbyVGgfbmMk=;speaGQECVkjb+/t2wsdXgg=="
 ---
 
