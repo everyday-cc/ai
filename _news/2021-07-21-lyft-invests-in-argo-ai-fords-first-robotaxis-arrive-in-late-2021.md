@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/"
 type: article
 quality: 104
-heat: 364
+heat: 374
 published: true
 
 provider:
@@ -314,6 +314,17 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 37
+  - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
+    excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous"
+    publishedDateTime: 2021-07-23T03:05:00Z
+    webUrl: "https://wsvn.com/news/us-world/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
+    ampWebUrl: "https://wsvn.com/news/us-world/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
     quality: 37
   - title: "Argo AI and Ford will make 1,000 self-driving taxis available via Lyft’s app"
     excerpt: "Ford Motor Co. and autonomous vehicle startup Argo AI LLC plan to make 1,000 self-driving taxis available to consumers via Lyft Inc.’s ride-hailing app. The companies detailed the project today. The first self-driving taxis will roll out later this year in Miami with safety drivers aboard."

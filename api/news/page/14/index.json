@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-07-13-could-your-next-rental-car-be-a-robotaxi-t-mobile-teams-with-startup-for-5g-driverless-electric-car-service.md",
+      "title": "Could your next rental car be a robotaxi? T-Mobile teams with startup for 5G driverless electric car service",
+      "excerpt": "Autonomous and driverless car technology company Halo ... Halo equips the vehicles with an artificial intelligence-driven \"Advanced Safe Stop mechanism\" that automatically brings the cars to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/2021/07/08/t-mobile-startup-plan-driverless-rental-car-service/7887811002/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2021/07/08/t-mobile-startup-plan-driverless-rental-car-service/7887811002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/07/USAT/edba4e94-13cc-4888-921c-7d88a12d4f5d-21CM0192-05_060221_1604m.jpg?auto=webp&crop=6719,3779,x0,y341&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7887811002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7887811002",
+      "publishedDateTime": "2021-07-12T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-how-mastercard-is-using-ai-to-address-cyber-risk.md",
       "title": "How Mastercard is using AI to address cyber risk",
       "excerpt": "Johan Gerber, executive VP for security and cyber innovation at Mastercard, discusses how it uses AI to understand and adapt to cyber risk.",
@@ -1143,58 +1186,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-the-real-successes-of-ai.md",
-      "title": "The real successes of AI",
-      "excerpt": "Despite the hype, especially around self-driving cars, AI is writing code, designing Google chip floor plans, and telling us how much to trust it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/03/robot-arm-using-laptop-100714626-large.jpg",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html",
-      "publishedDateTime": "2021-07-12T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

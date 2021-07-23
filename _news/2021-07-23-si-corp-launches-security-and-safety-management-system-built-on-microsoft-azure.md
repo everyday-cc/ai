@@ -1,23 +1,29 @@
 ---
 category: news
 title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-excerpt: "S&I, Scenera and TnM Tech collaborate on a new security and safety management system built on Microsoft Azure."
-publishedDateTime: 2021-07-22T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
+excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
+publishedDateTime: 2021-07-22T18:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
 type: article
-quality: 46
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Security
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft Azure Sentinel vs Darktrace Enterprise Immune System: Who's on top in AI security?"
@@ -44,6 +50,6 @@ related:
       domain: tmcnet.com
     quality: 51
 
-secured: "fvGumxMLvXfecZmuhE9rNxqUz3310iZNDEWyJZpSezZmMt8LOdA68d4n4M+TyIgPtG3cwydRg7l59Qe2biIxyTf5EtslXpeVip8sLAt7LC2MEvuiBBI9bm1cUXOifJAjcu27UcR+rbvb32uk7YhrTS2gtl6azxPPOTA7+84m9z3QIGkQO9yR84U6iWIFYumRHCwRrg4bycDtLRCoTNGTDJSBJy6Useq9IxcEoy1tLhzF9Q9oul9/qb+jfWZnzgIhLu728qlihC2jYE71VTo2KU3545bT2L3Yn+smwP2loruP3tnC+7wDLxfDyzhQhOrvxgIQOdFSgAEa07NA9mFFqWnhdJFawkVtE7tJPq6yZJo=;J7ZTzkrCGYWlBv06V1EQhA=="
+secured: "FZnaxCG8GOnHMznNDoF2wAt25qHU/NAc7I1JWEplmAEr9jLsHhf/hQ8sNqFV4myCwfQZTO2n95eokghKXHPeECLqS2zwfcAPFoUzcnBvwvLKhUgNS/JCWnP2r0a3FKkDxYvxOnUoauTFGw0cHXuOqvD0G3hMBI6yuzKps5LF1hyLA1daSW13juFNPNylX6PgItaFSG+z1oUic0ja8MII6M20MbQAfcjKCDqz+y1UUgt29SD480lw551AGDAPKUDOZ9vsEq2TQl40fRwUxnvExur6ZsFKuBXHwVm4SZrlFRZiAongK2aSNSuRD/VS66p/yp10ajfcgwek/EdFyN3zbng45WtGG50plHx9UAJeu0A=;/rZbVhg3WsBjKJitlvm2qg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2021-07/iois-bnt071621.php
 webUrl: "https://www.eurekalert.org/pub_releases/2021-07/iois-bnt071621.php"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 720
     height: 480
     isCached: true
-
-related:
-  - title: "Harnessing AI to search for new materials with exotic properties"
-    excerpt: "In the periodic table of elements, there are 118 distinct elements, most of which can combine with one or more others to form materials with potentially surprising"
-    publishedDateTime: 2021-07-18T10:30:00Z
-    webUrl: "https://www.saratogian.com/news/harnessing-ai-to-search-for-new-materials-with-exotic-properties/article_21d90bda-e4e3-11eb-b2d9-0bc5c31f2472.html"
-    type: article
-    provider:
-      name: The Saratogian
-      domain: saratogian.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/saratogian.com/content/tncms/custom/image/b7d3d07e-1060-11ea-87b4-e72bf547ed68.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "2zAhKEGz01bUERmFwKDcgQFRZE3tYtCgq9q1Wt1qnTWt51iZGqJJgHsbNq4a8c2cT3ZCJQiu17MR9R5z/GI3rstbn0pTbnluQfDKcBgJRBsroTFXQHqcATvtLbeu/QqsdPAsVW/ztw0KhemXiC5YMSUTlre6cw31jykbMXZnj7DaFN94QVqjDSmaTyT8oSGTzUrz8jAkwRAzahzb3UUb+AI57xLk/G7N1B6RP7VGTUuXo6zLVJTVJJxrka01+lzeM4WmZupCEaAcbDgpqaMHuR8E07+hTi150/VvFo25zeUebyaXsTGGjsAurhU7LNwAIzDNL2nkkNifrVAdEXV1gNYTbLNfhEHQxdbGdqERNMxBod4qGhuqtOrWLDlZrZbKMpmNfDktN+gbTUa1ACEkv/OGVS3BgSYel8sKEsmyoDDbgJwXPg86O+PCZa+C3gQBJ6BvDJ86H+jsyFgGpNsrzbn07P0C5lxbkjtK/3W30iaWvZy5t1b/E4Q6KVXZtog04/hQUPL/lniSLmMvnaDV/g==;hx7sKP7G05t6G5elUZ8h5g=="
 ---

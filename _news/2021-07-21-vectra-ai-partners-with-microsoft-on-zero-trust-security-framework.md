@@ -35,14 +35,19 @@ related:
         height: 229
         isCached: true
   - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-    excerpt: "S&I, Scenera and TnM Tech collaborate on a new security and safety management system built on Microsoft Azure."
-    publishedDateTime: 2021-07-22T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
+    excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
+    publishedDateTime: 2021-07-22T18:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 46
+      name: Associated Press
+      domain: apnews.com
+    quality: 66
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "+9cSwctEZGilNx3mRlCN81Qi3a19lcRBUmLNKzNaA30qCfNYtKFGUVTqzMSuiIEGtXqBy/mRiK2zj/UNnSca3c8u9YA2whJwXb1qPsWDJlZVke8/jAVqtncUW4akgyYNkWdFh2BnUk7XiEqwgxPW8AYFS+fy0nTBeYX1P+orp2zDrgRb8EdJglo+JzJCa4H4TYutDuW3w4rEAAEhv+NJFa1z0ulRXb2V8/d7ng/99Vzy/jbhHI8Oa3WVbt9JWoB8WbiXEJzLZVXvJhnMxvTb23M3gM+3KT5d+PXnZu904nK03nAjIIeDYQk9UiNPlhWZnTHHYmAVcgys4mLZ/pstmWam2/DCszbi8JYKOCNodM0=;762bUL1AEBYV2vk4Zfkouw=="
 ---

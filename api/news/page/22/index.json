@@ -2,6 +2,110 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-07-06-chinese-scholars-want-a-voice-but-must-beware-being-counterproductive.md",
+      "title": "Chinese scholars want a voice, but must beware being counterproductive",
+      "excerpt": "Some say a Chinese theory of international relations is needed to frame China’s thinking, but justifying a party-state system may be difficult internationally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "originalUrl": "https://www.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2021/07/06/7dc6bc4a-de2a-11eb-9efd-49da69ae692d_image_hires_204833.jpg?itok=6wSAw6Bv&v=1625575720",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "publishedDateTime": "2021-07-06T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-boosting-online-grocery-sales-and-enhancing-merchandising-through-ai.md",
+      "title": "Boosting Online Grocery Sales And Enhancing Merchandising Through AI",
+      "excerpt": "If you’re trying to find an AI-driven inventory management solution that’s right for you, make sure the system you choose can keep up with customer demand in real time and can integrate seamlessly with your current POS system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e307aa743e40c7cd049065%2F0x0.jpg",
+          "width": 966,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/06/boosting-online-grocery-sales-and-enhancing-merchandising-through-ai/amp/",
+      "publishedDateTime": "2021-07-06T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence.md",
       "title": "VinBrain wins ACM SIGAI Industry Award 2021 for Excellence in Artificial Intelligence",
       "excerpt": "The 2021 ACM SIGAI Industry Award for Excellence in Artificial Intelligence is granted to DrAid TM - the AI-powered Assistant product for Radiologists developed by VinBrain (a subsidiary of Vingroup in Vietnam).",
@@ -1023,101 +1127,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services.md",
-      "title": "AI/ML Innovations Inc. Engages Volt Strategic Partners and TDM Financial for Capital Market Communications and Market-Making Services",
-      "excerpt": "TORONTO, ON / ACCESSWIRE / July 5, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF) (“AIML” or the “Company”), a company committed to acquiring and advancing Artificial Intelligence/Machine ... for the services provided by TDM Financial ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/Accesswire/health-business-technology-4b85b30835729a11635b81f253168e71",
-      "originalUrl": "https://apnews.com/press-release/Accesswire/health-business-technology-4b85b30835729a11635b81f253168e71",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-the-new-world-of-work-you-plus-ai.md",
-      "title": "The new world of work: You plus AI",
-      "excerpt": "Where does your enterprise stand on the AI adoption curve? Take our AI survey to find out. Emerging technologies meet both advocates and resistance as users weigh the potential benefits with the potential risks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
-      "publishedDateTime": "2021-07-05T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

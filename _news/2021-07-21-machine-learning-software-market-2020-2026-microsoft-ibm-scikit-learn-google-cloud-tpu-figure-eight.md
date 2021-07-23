@@ -140,6 +140,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Machine Learning Software Market to See Huge Growth by 2026: Microsoft,IBM, Google"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/20/2021 — The Global Machine Learning Software Market has witnessed continuous growth in the past few years and may grow further during the forecast period (2021-2026)."
+    publishedDateTime: 2021-07-23T01:12:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-software-market-to-see-huge-growth-by-2026-microsoftibm-google"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 50
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Freedom-Day-England-AFP-1K-03-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "NIH taps Microsoft for biomedical research initiative"
     excerpt: "NIH tapped Microsoft Azure as the cloud platform for its Science and Technology Research Infrastructure for Discovery, Experimentation and Sustainability Initiative, which provides cloud technology and services for biomedical research."
     publishedDateTime: 2021-07-20T21:40:00Z

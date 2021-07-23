@@ -77,6 +77,15 @@ related:
         width: 700
         height: 395
         isCached: true
+  - title: "NVIDIA Inference Breakthrough Makes Conversational AI Smarter, More Interactive From Cloud to Edge"
+    excerpt: "NVIDIA today launched TensorRT™ 8, the eighth generation of the company’ s AI software, which slashes inference time in half for language queries-- enabling developers to build the world’ s best-performing search engines,"
+    publishedDateTime: 2021-07-20T13:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/nvidia-inference-breakthrough-makes-conversational-ai-smarter-more-interactive-from"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 35
 
 secured: "K8OJWyGaCLvO2G5Bvi0fc+nPN+ndQ4eb9caeqGWc9KAIWhIozijoI6YvCC3mRWoIlwXJ4JVxgBo/Z85eipmFpwC4XyRd2UjCC7wteBC8nnz3gsP6kM2mbuwXj9rp7abP8URGixIlqFnpQ/NWN5rNI8AcFHix4Vk4L+np0vMVVCiyf+395IbFA91TH85jeup+sT9GEHePQCbpCSG15u0lpvYfHiaqR7VTuf7y8cWbEtkJhoVTYpuSyLVxeWnmhU8yliWKQQietxUgSx83WbwxpqK4ngSUVxFykn7tNjCHHqgc+FbH1aSOte4MihiSl5oejK+eNa14a6K1wnsD6vXe4rCIA1pPB1geYIM+b3T7Lb3Ix27ZytFKSaBHldJ/Hi0DuEqKh/C9vh0FYUx8GJ0y2PxW4/bfrb1rwKB5rycoaNOBZZODpId3iBh4TTP4i7LLbk2AcK6CUdDEjp45MAQZy1XpM3wz+Z+5f3yaR2W/5PGuRAP6tjkhwHrO5oLYA3IN1FT37FVQGGbudBnu1CkOaw==;9knOq1yeHalFfLBrM27nGQ=="
 ---

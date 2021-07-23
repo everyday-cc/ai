@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-fa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 700
         height: 395
         isCached: true
+  - title: "NVIDIA Inference Breakthrough Makes Conversational AI Smarter, More Interactive From Cloud to Edge"
+    excerpt: "NVIDIA today launched TensorRT™ 8, the eighth generation of the company’ s AI software, which slashes inference time in half for language queries-- enabling developers to build the world’ s best-performing search engines,"
+    publishedDateTime: 2021-07-20T13:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/nvidia-inference-breakthrough-makes-conversational-ai-smarter-more-interactive-from"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 35
   - title: "Nvidia’s TensorRT 8.0 boasts faster conversational AI performance"
     excerpt: "Nvidia has released TensorRT 8.0 for Nvidia GPUs including its Jetson modules. This latest AI inference optimization SDK provides up to 2x the performance and accuracy of v7.0 and offers 1.2ms performance using BERT."
     publishedDateTime: 2021-07-20T13:47:00Z

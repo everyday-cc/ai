@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-21-top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence.md",
+      "title": "Top AI & ML Innovations From Allen Institute For Artificial Intelligence",
+      "excerpt": "Over the years, the private research institute and startup incubator has pushed the frontiers of AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
+      "originalUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/07/Allen_AIM.jpg",
+          "width": 896,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-chinese-driverless-car-start-up-weride-makes-first-acquisition-as-competition-ramps-up.md",
       "title": "Chinese driverless car start-up WeRide makes first acquisition as competition ramps up",
       "excerpt": "Chinese driverless car start-up WeRide has made its first acquisition, an autonomous trucking firm called MoonX, as it looks to commercialize self-driving tech.",
@@ -1079,7 +1124,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1169,58 +1214,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-path-robotics-raises-another-100m.md",
-      "title": "Path Robotics raises another $100M",
-      "excerpt": "Path Robotics announced a $56 million Series B. It was a sizable raise, as far as robotics rounds go. But the Columbus, Ohio-based startup is already back for more, raising a “pre-emptive” Series C a mere two and a half months later.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/20/path-robotics-raises-another-100m/",
-      "originalUrl": "https://techcrunch.com/2021/07/20/path-robotics-raises-another-100m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/Factory_Scenario_Perspective.jpg?w=1024",
-          "width": 1024,
-          "height": 586,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/20/path-robotics-raises-another-100m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/path-robotics-raises-another-100m/amp/",
-      "publishedDateTime": "2021-07-20T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

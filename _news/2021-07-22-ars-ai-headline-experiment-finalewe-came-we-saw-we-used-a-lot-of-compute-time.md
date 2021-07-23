@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-22T15:00:00Z
 originalUrl: "https://arstechnica.com/information-technology/2021/07/ars-ai-headline-experiment-conclusion-we-came-we-saw-we-used-a-lot-of-compute-time/"
 webUrl: "https://arstechnica.com/information-technology/2021/07/ars-ai-headline-experiment-conclusion-we-came-we-saw-we-used-a-lot-of-compute-time/"
 type: article
-quality: 64
-heat: 64
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Machine-Learning-Feature-4-760x380.jpg"

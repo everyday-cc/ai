@@ -129,6 +129,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Machine Learning Software Market to See Huge Growth by 2026: Microsoft,IBM, Google"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/20/2021 — The Global Machine Learning Software Market has witnessed continuous growth in the past few years and may grow further during the forecast period (2021-2026)."
+    publishedDateTime: 2021-07-23T01:12:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-software-market-to-see-huge-growth-by-2026-microsoftibm-google"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 50
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Freedom-Day-England-AFP-1K-03-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Machine Learning Software Market 2020-2026 | Microsoft, Ibm, Scikit-Learn, Google Cloud Tpu, Figure Eight"
     excerpt: "The research report of the global Machine Learning Software market has recently added by The Research Insights to its vast database Some of the recent advancements in technologies have been elaborated to get up to date knowledge of businesses There"
     publishedDateTime: 2021-07-21T05:27:00Z
@@ -164,6 +178,6 @@ related:
       domain: telecompaper.com
     quality: 36
 
-secured: "YGRUJQMCC+SCKCp35kkbe/IfwrBNiS4bnKVtp/vos2B3WnuoQOcZF6BjCtUa6PwuNnzdNatkOeSH/6R8kxiCFDizE5tH4mKrm0Z6GqbrsVTG3IRK3EpaRN4u7TUsQ2LeOXKG7FzhK+z2ta8I/PBkUliGAqdrg2DeMRKhCDilOplqORFK0y5IDDOKNF8yNOD/9k3adYrFPtPf0pQdTgdf51BspDBaB9+kiS84/s/qd6gs6Eueri8gEcZqp4hhJOdBxRNbFGEw9G/tvMR4N3gDUwUoeSYWJebPgUL0h8p2Suo5YLyaVlFucJ/7pzFliaYEZCmFqH3rtgkmyzGtiD3p13AxDM96yeECYURguc63DO4=;ZQdzxrGroAyyDOH2xqDoMA=="
+secured: "mtGB7wGw31zjZvxXVnFiVHxOA7AehSuBsxMcAVOq6hsG9QxFdJEluftcjv/JZ5+DxEh9m5a5z7Bw+JVHZgrZJOVuvqCnflVePoe5QzUS5c30kYHr7CT1IdEdOqa9A5XrbvzzwSAsbOTKEaerjBRM8Fwa4I+wy8yd7Hsfq5R2uUPVl308uX5nxHUUsFaAI+o361YHSn7byykPdZF/0zXcpcz7luhd+NpBqURcicVu5u6Oo/8HDMw0ncp7UAUMHNsP+FjK+zhxXZibh2M7P712JDJKJpVzRfxey9oxxEtcwtWDIrRVC62oKZ9bJwfZzxQia0G2QFnaEN2c8LcVOudypFUvGirEPBtjCNvRiV/qzxB3hF6NryTG6DtZcYhySD4jfPi8ObfFh2Qac3Lr0ODJDIgFsB+n7VBSv18HZRhvPx9KBLHkKHA0bDLp8LL6jMFk2hy/iY+I5LCAWTA2zv/uC22uw628oNDNxM5SAnWyGvH4yfM+nKWVeREfgzH9xgO354I4YetrvuuYHzhXN8HaxA==;6RRSBJLTbDUGOz5aNQ+7Dg=="
 ---
 

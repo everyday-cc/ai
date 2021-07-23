@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-07-14-the-assault-on-our-privacy-is-being-conducted-in-private.md",
+      "title": "The Assault on Our Privacy Is Being Conducted in Private",
+      "excerpt": "Central databases are exploited by criminals, governments and companies that want to part consumers from their money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/13/opinion/data-privacy-rights.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/13/opinion/data-privacy-rights.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/13/opinion/13bensinger1/13bensinger1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/13/opinion/data-privacy-rights.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/13/opinion/data-privacy-rights.amp.html",
+      "publishedDateTime": "2021-07-13T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-global-cognitive-data-management-market-opportunities-growth-analysis-and-forecast-2021-2026.md",
       "title": "Global Cognitive Data Management Market Opportunities, Growth Analysis And Forecast 2021-2026",
       "excerpt": "The global Cognitive Data Management market development is majorly supported by a considerable rise in the demand for products and services offered by this industry. NOTE: Consumer behaviour has ...",
@@ -306,19 +358,19 @@
     {
       "path": "_news/2021-07-14-baidu-shares-are-a-bargain-now-but-not-for-long.md",
       "title": "Baidu Shares Are a Bargain Now, But Not for Long",
-      "excerpt": "Baidu (NASDAQ:BIDU) stock has it even worse ... They even have their hand in self-driving technologies. Clearly the company is firing on all cylinders. In contrast, there is no acknowledgement ...",
+      "excerpt": "They even have their hand in self-driving technologies ... be light at the end of the tunnel because of technical reasons. Baidu is falling into a potential support zone dating back to 2011.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bidu-stock-baidu-is-a-bargain-now-but-not-for-long-1030602907",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bidu-stock-baidu-is-a-bargain-now-but-not-for-long-1030602907",
+      "webUrl": "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/",
+      "originalUrl": "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://investorplace.com/wp-content/uploads/2021/07/bidu2.png",
-          "width": 1940,
-          "height": 891,
+          "url": "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -326,23 +378,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T10:23:00-07:00",
+      "ampWebUrl": "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/amp/",
+      "publishedDateTime": "2021-07-13T10:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1155,58 +1198,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-digital-health-equity-and-how-to-achieve-it-in-a-post-pandemic-world.md",
-      "title": "Digital Health Equity And How To Achieve It In A Post-Pandemic World",
-      "excerpt": "It’s imperative that everyone receives equal access to medical care, whether that’s via the telephone, in person or a telehealth appointment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/13/digital-health-equity-and-how-to-achieve-it-in-a-post-pandemic-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/13/digital-health-equity-and-how-to-achieve-it-in-a-post-pandemic-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ec47b6bbdecf0b4a11814f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/13/digital-health-equity-and-how-to-achieve-it-in-a-post-pandemic-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/13/digital-health-equity-and-how-to-achieve-it-in-a-post-pandemic-world/amp/",
-      "publishedDateTime": "2021-07-13T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

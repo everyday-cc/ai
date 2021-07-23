@@ -325,6 +325,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
+    excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous"
+    publishedDateTime: 2021-07-23T03:05:00Z
+    webUrl: "https://wsvn.com/news/us-world/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
+    ampWebUrl: "https://wsvn.com/news/us-world/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 37
   - title: "Argo AI, Ford to launch self-driving vehicles on Lyft network by end of 2021"
     excerpt: "The initial deployments will start in Miami, followed by Austin, Texas, to lay the groundwork for future scaling."
     publishedDateTime: 2021-07-22T16:08:00Z

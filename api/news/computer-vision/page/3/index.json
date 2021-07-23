@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-02-moving-food-processing-to-industry-40-and-beyond.md",
+      "title": "Moving Food Processing to Industry 4.0 and Beyond",
+      "excerpt": "The next industrial paradigms are projected to have great impact not only on the food processing industry but also society and environment by augmented integration of physical processes, computation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ift.org/news-and-publications/food-technology-magazine/issues/2021/july/columns/processing-food-processing-industry",
+      "originalUrl": "https://www.ift.org/news-and-publications/food-technology-magazine/issues/2021/july/columns/processing-food-processing-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ift.org/-/media/food-technology/column-images/2021/07/0721_col7_processing/c7_processing_tetrapak_725x408.jpg?la=en&h=408&w=725&mw=1290&hash=4C4BC6BD023230CF9E4015418D2743F8",
+          "width": 725,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Institute of Food Technologists",
+        "domain": "ift.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition.md",
+      "title": "Maine just enacted the country's toughest restrictions on facial recognition",
+      "excerpt": "A new state law limits police use of facial recognition technology, and prohibits the tech in most areas of government, including in public schools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/",
+      "originalUrl": "https://www.cnet.com/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/JSJk8OijM-5ytGsO6PCCqrCtyt8=/1200x630/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/",
+      "publishedDateTime": "2021-07-01T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs.md",
       "title": "Ambarella's (AMBA) CVflow Vision Processor to Power Arrival's EVs",
       "excerpt": "AMBA recently announced that its CV2FS CVflow AI vision processor has been adopted by global electric vehicle (EV) manufacturer — Arrival ARVL — to build the environmental perception module for its vehicles.",
@@ -1326,111 +1421,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026.md",
-      "title": "3D Facial Recognition Market Demand, Technology Advancement and Future Scope Till 2026",
-      "excerpt": "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D facial recognition utilizes facial contours to recognize and scrutinize various features in a human face,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026-2021-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026-2021-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer.md",
-      "title": "Tesla backs vision-only approach to autonomy using powerful supercomputer",
-      "excerpt": "Tesla CEO Elon Musk has been teasing a neural network training computer called ‘Dojo’ since at least 2019. Musk says Dojo will be able to process vast amounts of video data to achieve vision-only autonomous driving.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/",
-      "originalUrl": "https://techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-22-at-12.57.01-pm.png?w=1024",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/amp/",
-      "publishedDateTime": "2021-06-21T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

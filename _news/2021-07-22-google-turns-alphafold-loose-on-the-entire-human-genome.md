@@ -107,6 +107,22 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "AlphaFold predicts structures for nearly every protein in the human body"
+    excerpt: "DeepMind put forward a compelling a solution to a 50-year-old science problem, demonstrating how its AlphaFold AI could predict the 3D structures of unique proteins, laying the groundwork for a new era of biological discovery."
+    publishedDateTime: 2021-07-23T03:24:00Z
+    webUrl: "https://newatlas.com/biology/alphafold-structures-every-protein-human-body/"
+    ampWebUrl: "https://newatlas.com/biology/alphafold-structures-every-protein-human-body/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/biology/alphafold-structures-every-protein-human-body/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 73
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/b5224d1/2147483647/strip/true/crop/1836x1224+165+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc9%2F19%2Fc67ee520426bbd2894472a89a24f%2Fscreen-shot-2021-07-23-at-12.52.28.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "DeepMind’s AlphaFold2 Predicts Protein Structures with Atomic-Level Accuracy"
     excerpt: "The prediction of protein structures from amino acid sequence information alone, known as the \"protein folding problem,\" has been an important open research question for more than 50 years. In the fall of 2020,"
     publishedDateTime: 2021-07-20T15:08:00Z
