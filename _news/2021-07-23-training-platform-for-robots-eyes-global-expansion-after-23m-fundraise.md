@@ -7,7 +7,7 @@ originalUrl: "https://www.thebusinessdesk.com/yorkshire/news/2078892-training-pl
 webUrl: "https://www.thebusinessdesk.com/yorkshire/news/2078892-training-platform-for-robots-eyes-global-expansion-after-2.3m-fundraise"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 34
+  - title: "Japan EdTech startup Atama Plus secures $46M+ series B round for global expansion"
+    excerpt: "See the original story in Japanese. Atama Plus, the Japanese startup offering AI-based learning materials for cram schools under the same name, announced Wednesday that it has fundraised about 5"
+    publishedDateTime: 2021-07-24T05:35:00Z
+    webUrl: "https://thebridge.jp/en/2021/07/atama-plus-series-b-round-funding"
+    type: article
+    provider:
+      name: thebridge.jp
+      domain: thebridge.jp
+    quality: 19
+    images:
+      - url: "https://thebridge.jp/en/wp-content/uploads/2021/07/atama-plus-team.jpg"
+        width: 1240
+        height: 781
+        isCached: true
 
 secured: "TBrv+m9DVDQN7KDlBcEgqX4Ubwm+7fUKupC35WXCZ0WvDiLXeNMn2+lbp/9fAJHO2tNEUo2Iri/gB0u5hUzov4dGkWctAL8UPGJhoLAgJTG/HqEyZdwIntF0q4N4DIkb9szXwWE/JLKBWq12SuMJFlVtbh5WmgvbxDtyCdiXVymFyhHbwf3+aUT2HdzqIK5F4iONUA6R9FidOS3LqBiGReEG704081XRydgbTemfqpwd2QFJdaL+aEP2pDbPlbsWIf/jqSBq1wnY3ZPA+J4G3xdbvZAZus3dBfZEq6sykgaKwzFcj+5uIuccgr+90CiGU+6jU/ar6WReIIcTMfNSv7lBvGDxYOIwptNFhNRsWsSeBPPKAWJc6WxxOwrcasg/JB8kNcV6RP11L6gjEgj5hap3PJmag5HZ6xrofHWt9HpNuyxv2kahcfGx8iDLhdp08KRWLDo05rIMPbxbF/hDshhUcuv17v3wBjv0eAISAmNzJfrQQ30ipfWnGfI/Pbikf1wuH01bjovkpuMEe2QE9g==;8youESTh/1+Q8kIF3v1F8A=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.wastetodaymagazine.com/article/amp-robotics-expands-op
 webUrl: "https://www.wastetodaymagazine.com/article/amp-robotics-expands-operations-europe/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Waste Today
@@ -34,20 +34,6 @@ related:
       name: AFP
       domain: afp.com
     quality: 30
-  - title: "New Fintech Company wamo Starts Operations in Europe, Expecting to Sign up 10,000 New SME Clients in 2021"
-    excerpt: "Digital financial institution wamo has started operations in Europe where it expects to attract 10,000 customers before the end of 2021. wamo, a digitally native fintech aimed at small and medium-sized companies,"
-    publishedDateTime: 2021-07-19T11:14:00Z
-    webUrl: "https://www.lelezard.com/en/news-19907770.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 7
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "DlS04PMi8/CFOwxGxMYST7zdaM49su4hccYu3P7J0CiD0TRITK0FZUixhteOGY0iWqFaY9mXXqvPC06nC86+BCv4pze7pah73ZvOZH8vDzhrmcZuyd7t7EGz8vuL4EkU0xOHPgC3HbuLWcBC8EPYDUvO4gk/xRmrxrFm9FbBx/m7OvSX5bdMAILeo48KbV+4zvnABIeGyjG9pVc3C8XNjnhla8driuzTsLPrqPKhnoU7mG7+RvNuqn+12r3BbGYHn1wegoUL8+lwGtQL5frytsit5FoLGnHYvl5d8FCaGjdEZ/7XQdKmC5OlcRKMvHrPfe3DN0g5V85tfuwVPopt0+bPJwYoEh6tnl4H1+ZBNyc=;F/AG0StaDdRRB36LXHOREQ=="
 ---

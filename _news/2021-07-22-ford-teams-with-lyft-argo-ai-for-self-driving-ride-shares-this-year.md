@@ -3,31 +3,25 @@ category: news
 title: "Ford Teams With Lyft, Argo AI For Self-Driving Ride-Shares This Year"
 excerpt: "Ford Escape ride-share vehicles will launch this year in Miami. These self-drivers will still have \"safety drivers\" behind the wheel."
 publishedDateTime: 2021-07-21T22:13:00Z
-originalUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/"
-webUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/"
-ampWebUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp"
+originalUrl: "https://tulsaworld.com/article_6bcf0072-43aa-5124-90ca-85f9685f7c55.html"
+webUrl: "https://tulsaworld.com/article_6bcf0072-43aa-5124-90ca-85f9685f7c55.html"
 type: article
-quality: 89
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/07/Ford-Lyft-Argo-self-drive-1200px.jpg"
-    width: 1200
-    height: 675
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/c/52/c52e5cf3-ab9d-5122-bf17-6e5cc34d4c87/60f8a831ab0de.image.jpg?crop=533%2C300%2C0%2C0&resize=533%2C300&order=crop%2Cresize"
+    width: 533
+    height: 300
     isCached: true
 
 related:
@@ -212,10 +206,10 @@ related:
         isCached: true
   - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
     excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network"
-    publishedDateTime: 2021-07-21T11:23:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
+    publishedDateTime: 2021-07-21T11:22:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964398"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964398"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964398"
     type: article
     provider:
       name: ABC
@@ -445,6 +439,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "xP6CKnaN3qOSKad/GgWRFuept5T+eRoYCIFX83SNTpH0BuHcIqmHpEXqokH9qXoHccPyMtuTKSHxwm1/v40UxhSJhd9KLzpD5rXiTw/BAhu4I0zHdesB0fr05DcD2qtVoZrCXb1yBG7gjFVeqUco0Q5t3fRicMoUaQT+hYLVCiqCyap1XhAO9Kj0ZLopAd9kovmaicZaAOpgwdIB7+YrchBrW234LUzvtHpl6FFnua2/ATPoKUQXNQA5klgto7pX893PxdObpeFH3DViNlNz+HNZfvnmWP+mMKQv53iXMF+3PvPmEx3taUe0W3tl28FKg1XjGMSUspmRX91h+Ci1pgCkwWlm8eG8jYWhrBvkc8SXsbY6L30rlzqsGuRqNiwvDm7r/UcQCTvmZ4QSDjrbLFgJuUYuN/fzkRbXJc2DH4DAtTKS7O3068G+hDeLLCUitREkiLxG4nw57l4PtmaE7PE0iO1m//Ndw0YZKF//58EpY7kjH3dUFmengR5iiUHCePrSnbQH/1LtnwovSSmljA==;UmbHgVybmsuv84dljOlIZg=="
+secured: "oWYASaYke5FQZwgdrheP4kIzbAPPA4Frym9Z80WLEUPbk0jJGQL6uK+Pd5nklMWYbfHzYbb1OiMKLiFC72t/3mP0eYmfydHWqPUhzZIRQUCXirkXwR6f4tC3m0O+aD9SYwo/Nj7L9hXkbJCTkR/sQxGZx3d04vmfqnYCKT8nXQYS32bGpAYb0dl8Jjsn3myj4zt8lOwdOjq+XvgpikVGUjOpG8qVEdBYKzkEiK7dEfm05ov8EV3OW9v7kjjggAF990rhK2Wvdctb8qXeAp14HgIEkbfrmFUoLGtHi7F+L9ovIaEtL66JgAWzVFj6vLMdrv/OG3T/txl3XUzq4XK0t7iVKzNW36BjDFK6wkC7QD0=;qcYzx/pRrLAZJcF5U/5xrg=="
 ---
 

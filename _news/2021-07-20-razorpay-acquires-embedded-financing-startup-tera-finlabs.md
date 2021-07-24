@@ -25,17 +25,6 @@ images:
     height: 274
     isCached: true
 
-related:
-  - title: "Razorpay acquires lending startup TERA Finlabs"
-    excerpt: "TERA Finlabs is an Indian subsidiary of GAIN Credit, a leading UK digital lender which was launched in 2018 to expand their global footprint in digital lending. This marks the company's third acquisition after foraying into the B2B SME lending space with the launch of Razorpay Capital in 2019,"
-    publishedDateTime: 2021-07-19T11:30:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210719/3789154.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 2
-
 secured: "Oi0IMv2QkLnXN8iz4n7YXNVSfU2vIXm+feiT80UxDyFtDJV/ZtA++UGDDMHx+BBXdwZzTwlVHO0MN1B8ZW0WRSH/amoz/9EKerBw2irCaZUVhqJS82DEsQsLHttYOMyliftdbjpPr1MdbEgiDhUlbsMGIVsHkpcB1eg55BC4bDcuuOxM20GvmDerUS3/5KwnDsCBBBC2qH86N757W/osAeIdDttwz8yLB92qNjT0tRhMdLLgYpRAjF5b2JaaD5FPPjxqAxJiGyBzNksoI3vQ9b3UZ1nG0QkX0S5izAadcAWqAyFf0VaGXl1IeUtSpwaRkqZ7MqYIMoK6O7S3MXesxI3QorRhecgXq2Y4q8F3T9lF1npx7eXpo9Oky9RzgAJvUHE2rUfqnmndaEDFuQ+9QOw/b0fGHT8zt5ZwRRDBNorvy0uFAsaRcxmW18F71tbbRVnIIQ6xqLLfz05cP/NS7N6SI5GGALuZTBNUlhT2+WAWfuyOuRBRW+nQvtjKb9UHDcoydzUawipJckhAIP1tnQ==;qC9VMlF+ZQ17H/pEkrGHxg=="
 ---
 

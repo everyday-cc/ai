@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-07-13-computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows.md",
-      "title": "Computer Vision Has Potential to Radically Transform Industries, Insight and IDG Study Shows",
-      "excerpt": "Computer vision still in awareness phase but adoption expected to grow significantly in near futureOverwhelming majority of respondents agree that computer vision has incredible potential to transform",
-      "sourceUrl": null,
-      "webUrl": "https://tucson.com/business/computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows/article_1588e632-abf0-53bd-8aa3-94d60dde80c4.html",
-      "originalUrl": "https://tucson.com/business/computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows/article_1588e632-abf0-53bd-8aa3-94d60dde80c4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png",
-          "width": 620,
-          "height": 290,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arizona Daily Star",
-        "domain": "tucson.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-global-underwater-computer-vision-market-2021-scope-of-current-and-future-industry-swot-analysis-and-investment-feasibility-2026.md",
       "title": "Global Underwater Computer Vision Market 2021 Scope of Current and Future Industry, SWOT Analysis and Investment Feasibility 2026",
       "excerpt": "According to MarketsandResearch.biz, the latest report titled Global Underwater Computer Vision Market 2021 by Company, Regions, Type and Application, Forecast to 2026 helps the firms in getting a comprehensive analysis of the industry which comprises an assessment of the parental market and gives forecast information on the market.",
@@ -1350,6 +1307,49 @@
       "provider": {
         "name": "Slate",
         "domain": "slate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-moving-food-processing-to-industry-40-and-beyond.md",
+      "title": "Moving Food Processing to Industry 4.0 and Beyond",
+      "excerpt": "The next industrial paradigms are projected to have great impact not only on the food processing industry but also society and environment by augmented integration of physical processes, computation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ift.org/news-and-publications/food-technology-magazine/issues/2021/july/columns/processing-food-processing-industry",
+      "originalUrl": "https://www.ift.org/news-and-publications/food-technology-magazine/issues/2021/july/columns/processing-food-processing-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ift.org/-/media/food-technology/column-images/2021/07/0721_col7_processing/c7_processing_tetrapak_725x408.jpg?la=en&h=408&w=725&mw=1290&hash=4C4BC6BD023230CF9E4015418D2743F8",
+          "width": 725,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Institute of Food Technologists",
+        "domain": "ift.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -21,33 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "AI is transforming financial services"
-    excerpt: "Never in recent history have we seen the convergence of two super trends on the scale of blockchain and cryptocurrencies, and AI."
-    publishedDateTime: 2021-07-19T11:12:00Z
-    webUrl: "https://ibsintelligence.com/blog/ai-is-transforming-financial-services/"
+  - title: "Israel pushes military digital transformation in the age of ‘artificial intelligence war’"
+    excerpt: "Like other militaries, the Israel Defense Forces for years looked like one organization from the outside, but its services were balkanized in using different networks and data services, an IDF digital leader said in an interview."
+    publishedDateTime: 2021-07-23T18:18:00Z
+    webUrl: "https://www.c4isrnet.com/battlefield-tech/it-networks/2021/07/23/israel-pushes-military-digital-transformation-in-the-age-of-artificial-intelligence-war/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 37
+      name: C4ISRNET
+      domain: c4isrnet.com
+    quality: 28
     images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2021/07/Janet-Adams-square.jpg"
-        width: 1193
-        height: 1194
-        isCached: true
-  - title: "Platforms playing catch-up with the rest of financial services"
-    excerpt: "Across pretty much all areas of financial services artificial intelligence (AI) and machine learning are starting to be recognised as integral components of the client engagement toolkit. With one stand-out exception: platforms."
-    publishedDateTime: 2021-07-22T10:28:00Z
-    webUrl: "https://international-adviser.com/platforms-playing-catch-up-with-the-rest-of-financial-services/"
-    type: article
-    provider:
-      name: International Adviser
-      domain: international-adviser.com
-    quality: 24
-    images:
-      - url: "https://international-adviser.com/wp-content/uploads/sites/3/2019/09/technology-robot-innovation-digital-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.armytimes.com/resizer/Vb09wpB1kU4DsIDzGGlZwVpQPDU=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/K2GM3ADRIJD3XMEIN5CYRRI4VM.jpg"
+        width: 1024
+        height: 669
         isCached: true
 
 secured: "CMoudOca15Kp/AmXk/LEQAldcuygGnShbt3PprTvcRCxPSHEgDM0euoSH+zz4rBZSlMgXRZER86huegpruEYXP7gCT/K6Ax/ZK8PZfXkB+c2dN6Gnc2wQIcDOE/qZLZIKXtUvAY4yRss23EheLlSzjFjWE4t1J+kKy2vdd+9U5sX3Wa/CESecsO5wPVX+hXvrcX/cCnW+gnQCLFd5mYWQvs3c2ItbpPjZTBfkBQ1WnpUze4DOfFAWjTU7w+zhIEgnFmlzkK3643NiCAdXIC+4mCJAsGdz8Z8A807Ih+lui0fC38bCpd594mus3jQcXRevQ+oOfoiLLwn5+jtzZROBZ2VQsP+Ejn44dLjzVmv8eLnwBYQkuePNf6u4rSaNUUAndBbaE0IQafIz3buAtxXNwoYFXEx8vRrkCBIYBoLGYaBc0Py48KuamiTx7lsC+mUkg27vD/J0qg0KdTlAj5Vh2fhbSf5YQXXOedBRlbxk1i9s20dUuaGH83Sv39M28/kdAcK3xj0F1ipq+n3Kiq5oQ==;dxqLWjHQdgJaQ/SShKkniA=="

@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Finance Market 2021 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2026"
+    excerpt: "The multipurpose new research study on the Global Artificial Intelligence in Finance Market 2021 by Company, Regions, Type and Application, Forecast to 2026 aims to promise a unique approach to industry assessment of the market covering the most important factors driving industry growth."
+    publishedDateTime: 2021-07-22T02:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-finance-market-2021-size-share-analysis-demand-growth-driver-and-industry-segments-by-2026-2021-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Organs Market Share, Current and Future Industry Trends with Forecasts 2026"
     excerpt: "Comprising the current and future trends defining the dynamics of this industry vertical, this report also incorporates the regional landscape of Artificial Organs market in tandem with its competitive terrain."
     publishedDateTime: 2021-07-20T12:17:00Z
@@ -143,17 +157,6 @@ related:
         width: 700
         height: 407
         isCached: true
-  - title: "Artificial intelligence ai platform Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence ai platform market is expected to grow at a significant CAGR in the period from 2021 to 2027 The Artificial Intelligence AI platform market is said to have a potential scope for growth in the years to"
-    publishedDateTime: 2021-07-19T11:20:00Z
-    webUrl: "https://www.openpr.com/news/2331519/artificial-intelligence-ai-platform-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2331519/artificial-intelligence-ai-platform-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331519/artificial-intelligence-ai-platform-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
   - title: "Artificial Intelligence Products Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2027"
     excerpt: "Jul 20, 2021 (Heraldkeepers) -- This report describes the global market size of Artificial Intelligence Products from 2016 to 2020 and its CAGR from 2016 to 2020, and also forecasts its market size to the end of 2026 and its CAGR from 2021 to 2026."
     publishedDateTime: 2021-07-20T07:11:00Z
@@ -210,6 +213,15 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Global Edge AI Chips Market Demand, Revenue Forecast and Interesting Opportunities from 2021 to 2026"
+    excerpt: "Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 research report is the new statistical data source added by MarketsandResearch.biz that uses several approaches for analyzing the data of the target market such as primary and secondary research methodologies."
+    publishedDateTime: 2021-07-22T09:31:00Z
+    webUrl: "https://ipsnews.net/business/2021/07/22/global-edge-ai-chips-market-demand-revenue-forecast-and-interesting-opportunities-from-2021-to-2026/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 19
   - title: "Global Face Recognition Ststems Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Face Recognition Ststems Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Ststems Market"
     publishedDateTime: 2021-07-21T06:38:00Z
@@ -241,17 +253,24 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 16
-  - title: "Artificial intelligence in transportation Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence in transportation market is expected to grow at a significant CAGR in the period from 2021 to 2027 Government rules for car safety are becoming more stringent as is the use of advanced driver assistance systems ADAS"
-    publishedDateTime: 2021-07-19T11:49:00Z
-    webUrl: "https://www.openpr.com/news/2331537/artificial-intelligence-in-transportation-market-share-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331537/artificial-intelligence-in-transportation-market-share-2021"
+  - title: "Global Cognitive Systems Spending Market Tendencies, Revenue Forecast and Interesting Opportunities from 2021 to 2026"
+    excerpt: "Global Cognitive Systems Spending Market 2021 by Company, Regions, Type and Application, Forecast to 2026 research report is the new statistical data source added by MarketsandResearch.biz that uses several approaches for analyzing the data of the target ..."
+    publishedDateTime: 2021-07-20T16:08:00Z
+    webUrl: "https://ipsnews.net/business/2021/07/20/global-cognitive-systems-spending-market-tendencies-revenue-forecast-and-interesting-opportunities-from-2021-to-2026/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
+  - title: "Global Artificial Intelligence in Energy Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "The Artificial Intelligence in Energy market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic and global ..."
+    publishedDateTime: 2021-07-22T14:18:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4684823-global-artificial-intelligence-in-energy-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
   - title: "Global Artificial Intelligence Chatbots Market 2021 Industry Emerging Trend, Top Players, Revenue Insights to 2026"
     excerpt: "According to the latest report by MarketQuest.biz, titled Global Artificial Intelligence Chatbots Market 2021 by Company, Regions, Type and Application, Forecast to 2026, covers assimilates reliable and updated information,"
     publishedDateTime: 2021-07-23T10:01:00Z

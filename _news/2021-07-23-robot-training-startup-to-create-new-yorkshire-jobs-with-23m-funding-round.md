@@ -48,6 +48,20 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 34
+  - title: "Japan EdTech startup Atama Plus secures $46M+ series B round for global expansion"
+    excerpt: "See the original story in Japanese. Atama Plus, the Japanese startup offering AI-based learning materials for cram schools under the same name, announced Wednesday that it has fundraised about 5"
+    publishedDateTime: 2021-07-24T05:35:00Z
+    webUrl: "https://thebridge.jp/en/2021/07/atama-plus-series-b-round-funding"
+    type: article
+    provider:
+      name: thebridge.jp
+      domain: thebridge.jp
+    quality: 19
+    images:
+      - url: "https://thebridge.jp/en/wp-content/uploads/2021/07/atama-plus-team.jpg"
+        width: 1240
+        height: 781
+        isCached: true
 
 secured: "i/dCsiFAkYIp4qjjD5lsv7h80vPGY0UWemL811lqkMPQOCIdl5hUQBXYt49zAKL5Zx210SiRZ2H3YgrgiCYfPzp6q09AGEnEfOyHhDe21cXriT6c6aZbvYVLThaGmkr9vKnT44l4A5yF9c5lVOjSKKtkBGpd9h72h7ANmPkE3VNiHz1vnHi5WINoF2I8j6Ie9GggPhveLywYxbPZferQpEV5nfkp4G5DE1dxECpdADJLrtIgfMPMWy9oY3e832XZVAJQBxuR598WMouLPVltHzOWfow5AJIerbDUDFTtjk0aFvYWyO7RL+Wzh8Eifm+gHVZFcHzQEVdJ53sIqtUFLbwt7l8ZI6hEYTzkpl9lzQq9L1MO0WExGO35UlIXUilpTkXy4gd0X1FVjEyvKVew5FiFFl746Q4R09f54q8UkSOZAVJyTgYt9B/jEn3a0bu+bOPlD2kd6tZO2RduMDuXE1arkCQWgyfjkCrS4bw0eiYn90u1J4uhrMfPxsNwUuIuhmzjCLZ0PZYYj6PtMvQgCA==;9W1st5+hiwJGqHnnUJFt+w=="
 ---

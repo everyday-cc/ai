@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-mar
 webUrl: "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market"
 type: article
 quality: 126
-heat: 206
+heat: 176
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 26
-  - title: "Global Digital Pathology Market (2021 to 2026) - Integration of AI into Healthcare Presents Opportunities - ResearchAndMarkets.com"
-    excerpt: "The “Digital Pathology Market - Global Outlook and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global digital pathology market by revenue is expected to grow at a CAGR of over 10% during the period 2020-2026."
-    publishedDateTime: 2021-07-19T11:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-health-coronavirus-pandemic-6f4c15b659114c30bd5757b644c4e922"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Deep Learning Market Size, Share, Status and Forecasts 2021 – 2028"
     excerpt: "The Deep Learning market research report assesses the global Deep Learning Market industry market and includes sales and capacity forecasts for the anticipated period 2021-2028. The factors driving the growth of the industry are highlighted in the report."
     publishedDateTime: 2021-07-21T01:11:00Z
@@ -86,17 +72,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 19
-  - title: "Artificial intelligence in aviation Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence in aviation market is expected to grow at a significant CAGR in the period from 2021 to 2027 The usage of big data in the aerospace sector substantial increases in capital investments by aviation businesses and growing"
-    publishedDateTime: 2021-07-19T11:25:00Z
-    webUrl: "https://www.openpr.com/news/2331522/artificial-intelligence-in-aviation-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2331522/artificial-intelligence-in-aviation-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331522/artificial-intelligence-in-aviation-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 15
   - title: "Global Medical Imaging Artificial Intelligence Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Medical Imaging Artificial Intelligence Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Medical Imaging Artificial Intelligence"
     publishedDateTime: 2021-07-19T22:35:00Z
@@ -106,15 +81,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 8
-  - title: "Cloud Machine Learning Market Size 2021 is Booming Worldwide| Amazon, Oracle, Ibm, Microsoftn, Google, Salesforce"
-    excerpt: "Market Research Intellect latest study, titled ‘Global Cloud Machine Learning Market,’ sheds light on the crucial aspects of the global Cloud Machine Learning market. The Cloud Machine Learning report aims to help readers accurately estimate the global market growth rate over the forecast period (2021-2028)."
-    publishedDateTime: 2021-07-19T12:46:00Z
-    webUrl: "https://manometcurrent.com/cloud-machine-learning-market-size-2021-is-booming-worldwide-amazon-oracle-ibm-microsoftn-google-salesforce/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
 
 secured: "RaLZtyEOkb6DWyd2w8TTlP47aSIhCuwpZQMEhpILPpM6cfixhUyVxlRemxDxns+TIGxaI02dHNr/W9Jw3nJuKFWy/UfdRbQysDjwzHDmE25Gi2YhfQPABjkBwTeJyQXIEoJS98lwg3GpQ6ZBLKBGPE4H4Ifvo9CQ7EkxIH4cw8yGXK4Ou6XeC3ktmtiQUevvwDhv2gLVyiv4GRKfTdXJxIj1Qm6Ft2j14JK2pN40jUDuaWt+t3BXIT15Aj437KmWO7Rg9lFIAFgM5+995wpjQ6qmaHZzA6YLE7eLm4EIAUhAst9FDFAP84U7pIASTxevoqFrrT3CSIPmdrrW7TbZqt0kL8B8SD8fRM6Afrhc4AqOuWcKxiRaBDBZLKBUg0Tt2tYXIvWyX6iE7KCGtm7sTwgUdidCI/1rqun5dru5CMlp939isPmwPq+kkEdeFz3qmWvoGMjLMtBzrzkj8ClhUVWKgN+NbViuvQHtCjdZ/n4W3TEt+ml0UNel1qPj7hOODdc0uWmNsOMt7OAb4siS2e1yDpPoVlvVeutyrvl5yIU=;44VHZ+sslQ44ZBhGx94XtQ=="
 ---

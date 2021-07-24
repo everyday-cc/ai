@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How the MediaTek Dimensity 1200-AI Chip Allows Nord 2 to support powerful AI features"
-    excerpt: "With the technical stuff out of the way, let’s move on to something more fun. OnePlus has announced a ‘Fast & Smooth AR challenge’ that runs from 12-30 July. It’s a simple, fun AR gaming experience that anyone can check out with just a smartphone and internet connectivity."
-    publishedDateTime: 2021-07-19T12:41:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/how-the-mediatek-dimensity-1200-ai-chip-allows-nord-2-to-support-powerful-ai-features-9818491.html"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 47
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2021/07/600X340.jpg"
-        width: 600
-        height: 340
-        isCached: true
   - title: "OnePlus Nord 2 5G with MediaTek Dimensity 1200-AI Soc, 50MP Triple Rear Camera Launched, Starting at Rs. 27,999"
     excerpt: "OnePlus has expanded its portfolio of mid-range Nord series and launched today OnePlus Nord 2 5G smartphone. This is the first smartphone to be powered by"
     publishedDateTime: 2021-07-22T15:26:00Z

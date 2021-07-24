@@ -131,22 +131,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Tesla Full Self Driving subscription launches — and it costs $199 a month"
-    excerpt: "If you fancy getting your hands on a Tesla with the ‘Full Self Driving’ add-on, but don’t have $10,000 to spend all in one go, you’re in luck. Because Tesla is offering it as a $199 monthly subscription."
-    publishedDateTime: 2021-07-19T11:12:00Z
-    webUrl: "https://www.tomsguide.com/news/tesla-full-self-driving-subscription-launches-and-it-costs-dollar199-a-month"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-full-self-driving-subscription-launches-and-it-costs-dollar199-a-month"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-full-self-driving-subscription-launches-and-it-costs-dollar199-a-month"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 73
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HuWJC7rtL9N3Qec7TYkb3J-480-80.jpg"
-        width: 480
-        height: 320
-        isCached: true
   - title: "Wanna Drop Some FSD? Tesla’s “Self-Driving” Tech Available for $99/Month"
     excerpt: "The subscription model is available for owners of Tesla models running the company's Full Self-Driving computer 3.0 or newer hardware and the brand's Autopilot function. Tesla started placing FSD computer 3."
     publishedDateTime: 2021-07-20T00:15:00Z
@@ -216,22 +200,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Tesla Launches Its Full Self-Driving Subscription Plan For $199 A Month"
-    excerpt: "It might still be a while before we can expect to see full self-driving cars hit the road, but if you’re the owner of a Tesla vehicle,"
-    publishedDateTime: 2021-07-19T11:47:00Z
-    webUrl: "https://www.ubergizmo.com/2021/07/tesla-full-self-driving-subscription-199-a-month/"
-    ampWebUrl: "https://www.ubergizmo.com/2021/07/tesla-full-self-driving-subscription-199-a-month/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/07/tesla-full-self-driving-subscription-199-a-month/amp/"
-    type: article
-    provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2017/11/tesla_roadster_3.jpg"
-        width: 1178
-        height: 526
-        isCached: true
   - title: "Tesla launches subscription plan for Full Self-Driving package"
     excerpt: "Tesla has launched a new $199-per-month subscription plan for its Full Self-Driving package. Previously, Tesla owners would have had to purchase the Full S"
     publishedDateTime: 2021-07-19T16:09:00Z
@@ -263,20 +231,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/the-weekender-457x257.png"
         width: 457
         height: 257
-        isCached: true
-  - title: "Tesla makes Full Self-Driving available as $199 monthly subscription"
-    excerpt: "Tesla is making its pricey Full Self-Driving (FSD) electronic driver-assist feature available as a subscription. FSD is being offered as a $199 monthly subscription for cars equipped with Basic Autopilot and $99 when Enhanced Autopilot is equipped."
-    publishedDateTime: 2021-07-19T12:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1132935_tesla-makes-full-self-driving-available-as-199-monthly-subscription"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
-    images:
-      - url: "https://images.hgmsites.net/hug/2020-tesla-model-3_100736264_h.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Tesla just lowered the price of the ‘Full Self Driving’ hardware upgrade"
     excerpt: "Tesla has reduced the price of the ‘Full Self Driving’ upgrade necessary for older Tesla models to use the new FSD subscription service. It’ll now cost $1,000, instead of $1,500. This is likely in response to criticism from Tesla owners who were asked to pay for the upgrade."

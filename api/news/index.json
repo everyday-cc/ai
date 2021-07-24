@@ -55,49 +55,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-24-usa-facial-recognition-in-use-at-major-chains-without-customer-knowledge.md",
-      "title": "USA: Facial recognition in use at major chains without customer knowledge",
-      "excerpt": "From Macy’s to Ace Hardware, facial recognition is already everywhere”, 15 July 2021. Some of the US’s most popular stores — including Macy’s and Ace Hardware — are using facial recognition on their customers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-humanrights.org/en/latest-news/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/",
-      "originalUrl": "https://www.business-humanrights.org/en/latest-news/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg",
-          "width": 788,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "洗護用品和肥皂",
-        "domain": "business-humanrights.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-24-dazzled-by-the-sun-nasa-taps-ai-to-give-its-solar-telescope-an-eye-test.md",
       "title": "Dazzled by the Sun, NASA taps AI to give its solar telescope an eye-test",
       "excerpt": "Staring at the Sun is ill-advised if you want to keep your eyesight, but NASA’s solar telescopes have some sneaky ways to avoid burn-out as the space agency gleans vital information about",
@@ -649,7 +606,7 @@
       "originalUrl": "https://www.thebusinessdesk.com/yorkshire/news/2078892-training-platform-for-robots-eyes-global-expansion-after-2.3m-fundraise",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1217,6 +1174,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more.md",
+      "title": "OnePlus Nord 2 unveiled with Dimensity 1200 AI, 50MP camera and more",
+      "excerpt": "OnePlus has announced the OnePlus Nord 2 with Dimensity 1200 AI SoC, 50MP camera with OIS, and 65W fast-charging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
+      "originalUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/07/OnePlus-NOrd2-2-1-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
+      "publishedDateTime": "2021-07-22T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

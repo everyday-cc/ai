@@ -34,20 +34,6 @@ related:
         width: 736
         height: 414
         isCached: true
-  - title: "New Fintech Company wamo Starts Operations in Europe, Expecting to Sign up 10,000 New SME Clients in 2021"
-    excerpt: "Digital financial institution wamo has started operations in Europe where it expects to attract 10,000 customers before the end of 2021. wamo, a digitally native fintech aimed at small and medium-sized companies,"
-    publishedDateTime: 2021-07-19T11:14:00Z
-    webUrl: "https://www.lelezard.com/en/news-19907770.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 7
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "B3+HL6ZldV8hiPlbx7mXsATv6VEtmKxRYdp1yDHq9+srcEIiYsdn+JjTdVHZ0n1qpoBYRyBU1BmAnSJDo2NM6aRChM6vGX1Q/2DMaXTun0Uzlb7A431XA4XmxFVobS0RNnNEhZPiNjIiPg+inUUCyDJLA1k7m6UHwkNs3adiRYBBavWGms1+/0WnJKsJWOpJtI8jUpejro9OQm5w+OXTC3O4gbsZSB7WCXCGOb/wgnsMkFJleP1FfIVS/zIk43DTXCW59hTCZuQNeOYuMGt1DZJpXs37c1zyhZjBbrC1hU7ghBaBsaN8JbSbML6dMQaIHmKMIbYWHO0IZF/bV7jO/xBGPosU05gF5gWXfGDABNw=;dGOCMCURapv7YkbQgK4Dvw=="
 ---

@@ -2,11 +2,11 @@
 category: news
 title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
 excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous rides on the Lyft network"
-publishedDateTime: 2021-07-21T11:23:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
-webUrl: "https://abcnews.go.com/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964759"
+publishedDateTime: 2021-07-21T11:22:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964398"
+webUrl: "https://abcnews.go.com/Technology/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964398"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964398"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ford-argo-ai-deploy-autonomous-vehicles-lyft-network-78964398"
 type: article
 quality: 57
 heat: -1
@@ -57,22 +57,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/07/Lyft-Argo-Ford_AV-Escape-Hybrid_02.jpg?w=1024"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Ford Teams With Lyft, Argo AI For Self-Driving Ride-Shares This Year"
-    excerpt: "Ford Escape ride-share vehicles will launch this year in Miami. These self-drivers will still have \"safety drivers\" behind the wheel."
-    publishedDateTime: 2021-07-21T22:13:00Z
-    webUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/"
-    ampWebUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/07/Ford-Lyft-Argo-self-drive-1200px.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Argo AI and Ford to Launch Self-Driving Vehicles on Lyft Network"
     excerpt: "By Michael Dabaie Argo AI and Ford Motor Co. say they expect to launch self-driving vehicles on Lyft's network by the end of 2021. Autonomous"
@@ -301,6 +285,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Ford Teams With Lyft, Argo AI For Self-Driving Ride-Shares This Year"
+    excerpt: "Ford Escape ride-share vehicles will launch this year in Miami. These self-drivers will still have \"safety drivers\" behind the wheel."
+    publishedDateTime: 2021-07-21T22:13:00Z
+    webUrl: "https://tulsaworld.com/article_6bcf0072-43aa-5124-90ca-85f9685f7c55.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/c/52/c52e5cf3-ab9d-5122-bf17-6e5cc34d4c87/60f8a831ab0de.image.jpg?crop=533%2C300%2C0%2C0&resize=533%2C300&order=crop%2Cresize"
+        width: 533
+        height: 300
+        isCached: true
   - title: "Argo AI, Ford to launch self-driving Lyft vehicles by end of 2021"
     excerpt: "Argo AI, Lyft, and Ford Motor Co. are collaborating to commercialize autonomous ride hailing at scale. Ford self-driving cars, with safety drivers, will be available on the Lyft network, with passenger rides beginning in Miami later this year and in Austin starting in 2022."
     publishedDateTime: 2021-07-22T18:30:00Z
@@ -440,6 +438,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "DemDIoX9psoQl6j6SzBv49zxBOO9zGem16O1uwydAhjih05NNB2oKFUsIwyCe/03Z/jTRnD3K8zLFVWLAqHGfbEEmJH6mrITBVedOm8z2qmjXehNmYSiZvvlClD24EXpdiw/DskwOyGwXm8PbhFI9HsdPVr4LUok0KkvYSyYXcuJtln5LVwJVPJjd9KRKQVmh3ISN1CWoZ7j+gxFD1Qg596tWohcHIyw8vFLmnwqzx4x9cplL4OAEKQvBCk/ubkn1MtufKJ9GWd5G1f+LzDLfXmz6rJsGf7+BF0Bsp0Ku9PVJt3ceN8bYzQNeFb6N4PzqaQ3ZGdytcXJyoBKSSLNmtqFoccWkw5n3frgxMYCxawdtDvQ5NIT0iXNqg8jP6cEwQdooNi7K3pbjbOMKxTa5FI1faQVjkjggMFjT4AaFBzbP48eDeHnMOZA47PzWRjnHIL6ScScpmLRgZrl0d0u+ouA1gYHclTFHT51/bw7isu6XL7AgPsSPtKsjpT8bLwgCDn1c/1E2EfjFOaKDYufrA==;/KM7pcXFMSgKO3BUbwFx1A=="
+secured: "8ki3wBmyAyVoCFuMHXpr8cKsMZ0flBNlhhkxnYkQD90nTjfJRl5Co1BYE4VAKINYMQCsLb06JF1YpQp2Rkpfn6QSgLtEM37ca00xRvEhCGACzv10tX2jmQUIuj2q+7S3KjBzrV/rYS0ocC/PoeUytePFtW2lJTIlnbMIlaYQRoG1WWDv0TUy9xEBP+LyrtQ7msiNd+r1N2BTRN1oi3HeNEFEHW83eoG7p6JKSUipxUmqrjJiD7NLeMNZ85C6W7LBo67ylpyuKH/JePlGRXSkuuRi6fYlHx1FxI+yXTzQ6ng3HfzlS8f1EiuC3A+aTH8ptFFHBZlO2pN6dsuDRGjEI5HXA1KWyzfOLXglymxQNZ4=;QpcFojtO9rhYD0ddX8Fx+A=="
 ---
 

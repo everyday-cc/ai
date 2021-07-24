@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Platform that trains robots to recognise images raises £2.3m"
-excerpt: "A start-up with a platform that trains robots to recognise images has completed a £2.3m funding round to help it build its team in Yorkshire and expand sales of its product worldwide. The investment in Sheffield-based Mindtech Global was led by NPIF - Mercia Equity Finance,"
-publishedDateTime: 2021-07-23T10:39:00Z
-originalUrl: "https://www.publicnow.com/view/3D867761449178A775D466D9D90559DFCBA72DBD"
-webUrl: "https://www.publicnow.com/view/3D867761449178A775D466D9D90559DFCBA72DBD"
+title: "Japan EdTech startup Atama Plus secures $46M+ series B round for global expansion"
+excerpt: "See the original story in Japanese. Atama Plus, the Japanese startup offering AI-based learning materials for cram schools under the same name, announced Wednesday that it has fundraised about 5"
+publishedDateTime: 2021-07-24T05:35:00Z
+originalUrl: "https://thebridge.jp/en/2021/07/atama-plus-series-b-round-funding"
+webUrl: "https://thebridge.jp/en/2021/07/atama-plus-series-b-round-funding"
 type: article
-quality: 34
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: publicnow.com
-  domain: publicnow.com
+  name: thebridge.jp
+  domain: thebridge.jp
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://thebridge.jp/en/wp-content/uploads/2021/07/atama-plus-team.jpg"
+    width: 1240
+    height: 781
+    isCached: true
 
 related:
   - title: "Training platform for robots eyes global expansion after £2.3m fundraise"
@@ -47,21 +53,16 @@ related:
         width: 940
         height: 430
         isCached: true
-  - title: "Japan EdTech startup Atama Plus secures $46M+ series B round for global expansion"
-    excerpt: "See the original story in Japanese. Atama Plus, the Japanese startup offering AI-based learning materials for cram schools under the same name, announced Wednesday that it has fundraised about 5"
-    publishedDateTime: 2021-07-24T05:35:00Z
-    webUrl: "https://thebridge.jp/en/2021/07/atama-plus-series-b-round-funding"
+  - title: "Platform that trains robots to recognise images raises £2.3m"
+    excerpt: "A start-up with a platform that trains robots to recognise images has completed a £2.3m funding round to help it build its team in Yorkshire and expand sales of its product worldwide. The investment in Sheffield-based Mindtech Global was led by NPIF - Mercia Equity Finance,"
+    publishedDateTime: 2021-07-23T10:39:00Z
+    webUrl: "https://www.publicnow.com/view/3D867761449178A775D466D9D90559DFCBA72DBD"
     type: article
     provider:
-      name: thebridge.jp
-      domain: thebridge.jp
-    quality: 19
-    images:
-      - url: "https://thebridge.jp/en/wp-content/uploads/2021/07/atama-plus-team.jpg"
-        width: 1240
-        height: 781
-        isCached: true
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 34
 
-secured: "cExBzW0kRgkzUiPA91wqqbtvKoqP4AN+kHh7umaRbvRDa8q/+4ZMzdWgetbuY5nzaqVd3rL/KpRC6FJasg+5wbG4KurHXaNkDxmAF5KzfioLD/mTbxTjHxNf69xtAs8reIwPdxliSv6E82KMTQgWEBQc+vdp7ZhhQkHS/29RlMjEfBmEIGS68ipjAxcqGiGUAS4O9TUjlEV2LzJs1asLl37JijTpRxwH8gGKaJ5xfP699mfnwc6cAqeGnlRdWnX9ds5bTDzTrLgHwO60t/ruw8QxGGawHtr7OwPvgB70UTKl8ggRdrB/qMpp6pnkTFYZUCAv/WfmiiDBW7bYbR7ByTdKYAZf4+3XM2n+lKShF8w=;yuhS3sZHfOKgramJI4LY3A=="
+secured: "cDvccPvyzsohpUmhaXv69hjr9aFC0FrmeBJ0TLQ+hs0QhCIWkTpGv/q3HwuwlYI0MTseoojHJWK365BkeQaz5PoFPaQ1OBLQbMKjvz/aCDBX6tQbN2sxO8anqrWiSXO+m4KAjaESLsOE0snsC28ncafnr69Oj42JKQAJ1nt0JEOasBfYkINLqDr+4/Qw1uo7EIRXTvXTY0g9Yuzp9b7DJ3lTprhU5905VqqX0YIyCQXvj+DdFW0eeBrz3wVplNLklpuoFPH9nWPl8ri/fAUc2/mQzvWcIZ+64VW3zV18gO54t5EYbpE04k8xhIPUzg2AU262LuUoAznvPGmqiMSvHktU01UDhajesHSa7Jkt6K4=;v/uYCXomR8H3PTVYF4FYgA=="
 ---
 

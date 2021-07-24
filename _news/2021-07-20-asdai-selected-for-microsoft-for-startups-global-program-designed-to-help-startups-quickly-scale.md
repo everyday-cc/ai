@@ -43,15 +43,6 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "Israel AI-Based Learning Startup MagniLearn chosen by Microsoft to impact Education"
-    excerpt: "After concluding deals with public and private school networks in Israel, Korea and Japan, EdTech startup MagniLearn formed by AI researchers from Hebrew University in Jerusalem, has been selected by Microsoft Israel in its AI for Good Acceleration Program,"
-    publishedDateTime: 2021-07-19T12:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/israel-ai-based-learning-startup-magnilearn-chosen-by-microsoft-to-impact-education-1030619985"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
   - title: "An AI startup that helps clients like Google and Microsoft track their marketing performance raised $15 million using this pitch deck"
     excerpt: "BlueOcean was founded by ad agency vets to automate and simplify market research."
     publishedDateTime: 2021-07-22T12:00:00Z

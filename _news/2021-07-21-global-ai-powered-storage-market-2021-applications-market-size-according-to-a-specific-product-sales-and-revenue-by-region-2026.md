@@ -80,6 +80,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
+  - title: "Artificial Intelligence (AI) Robots Market Study for 2021 to 2028 providing information on Key Players, Growth Drivers and Industry challenges"
+    excerpt: "Robots Market report including its market outline and development status by types and applications, which specifies its price and profit status, market growth drivers, and challenges. Readers will find this report very helpful in understanding the market in depth."
+    publishedDateTime: 2021-07-21T01:24:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-robots-market-study-for-2021-to-2028-providing-information-on-key-players-growth-drivers-and-industry-challenges/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 13
 
 secured: "kzZpVFQJ0JuyfLW4jUvlaFj2z7upf7S9ojaBxyPUNMrPRyWpZhlBOGJFM8Z9/16c/RMh3nBev7zXsBjGNrIlgghoiGZQPiL1zFsgDHRu6SBwV0hf/BwhEF0fY6s0VDCcDbZeXSNEoWr8dqfUnJ1hSHJLElECnX40cyUzzR9g14y9bD/fN2e44RzvD16Pk+iNbZV85kl7uQj15z1vrjZn62nbUsevOS1VRMcxL+PmKth2n8tu/xcqkFruqOHL8hvNO26qWDZdWrWKu39YePywG5VANujvESAGzWhL29qDzJS9z06oqI7sO0eq6hmSWK3rBiiNRzkNUTKFyK6+tmhCJT+aBXg4BB+QL947HQUcUo0=;ZikS9NU82MkSNQYMsGPgpw=="
 ---

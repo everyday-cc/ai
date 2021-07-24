@@ -19,24 +19,24 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Machine Learning In Finance Market 2021 Rising Future Estimations and Key Countries by 2031"
-    excerpt: "Market.us has to return up with a brand new report specifically Global Machine Learning in Finance Market standing and Outlook (2022-2031) that focuses on current trade updates, providing exclusive and analytical information through the span of 10 years."
-    publishedDateTime: 2021-07-19T11:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-2021-rising-future-estimations-and-key-countries-by-2031-2021-07-19"
+  - title: "Artificial Intelligence (AI) in Education Market Report 2021, Industry Size, Outlook, Production, Revenue, Gross Margin and Forecast to 2026"
+    excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Artificial Intelligence (AI)"
+    publishedDateTime: 2021-07-20T08:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026-2021-07-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 76
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Finance Market 2021 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2026"
-    excerpt: "The multipurpose new research study on the Global Artificial Intelligence in Finance Market 2021 by Company, Regions, Type and Application, Forecast to 2026 aims to promise a unique approach to industry assessment of the market covering the most important factors driving industry growth."
-    publishedDateTime: 2021-07-22T02:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-finance-market-2021-size-share-analysis-demand-growth-driver-and-industry-segments-by-2026-2021-07-21"
+  - title: "Global AI-Powered Storage Market 2021 Applications, Market Size According to a Specific Product, Sales and Revenue by Region 2026"
+    excerpt: "Global AI-Powered Storage Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 recently presented by MarketsandResearch.biz concretes the best results, integrated approaches,"
+    publishedDateTime: 2021-07-21T00:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-powered-storage-market-2021-applications-market-size-according-to-a-specific-product-sales-and-revenue-by-region-2026-2021-07-20"
     type: article
     provider:
       name: MarketWatch
@@ -47,53 +47,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Face Recognition Terminal Market Growth 2021-2026"
-    excerpt: "Pages Report] Check for Discount on Global Face Recognition Terminal Market Growth 2021-2026 report by LP Information INC. According to this latest study, the 2021 growth of"
-    publishedDateTime: 2021-07-19T12:36:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4680288-global-face-recognition-terminal-market-growth-2021-2026.html"
+  - title: "Facial Recognition Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
+    excerpt: "The global “Facial Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-07-21T09:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-21"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 19
-  - title: "Global Edge AI Chips Market Demand, Revenue Forecast and Interesting Opportunities from 2021 to 2026"
-    excerpt: "Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 research report is the new statistical data source added by MarketsandResearch.biz that uses several approaches for analyzing the data of the target market such as primary and secondary research methodologies."
-    publishedDateTime: 2021-07-22T09:31:00Z
-    webUrl: "https://ipsnews.net/business/2021/07/22/global-edge-ai-chips-market-demand-revenue-forecast-and-interesting-opportunities-from-2021-to-2026/"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Visual AI Analysis Market 2021 - 2026 Business Statistics of Report that Emphasizes the impact of COVID-19"
+    excerpt: "Global Visual AI Analysis Market 2021 by Company, Regions, Type and Application, Forecast to 2026 recently introduced by MarketsandResearch.biz offers a fundamental examination of the market covering the examination of subjective points that is prepared to display key market information of learning to the pursuers."
+    publishedDateTime: 2021-07-21T01:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-visual-ai-analysis-market-2021---2026-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2021-07-20"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 19
-  - title: "Artificial intelligence in accounting Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence in accounting market is expected to grow at a significant CAGR in the period from 2021 to 2027 The rising requirement to automate accounting operations and enable data based advising and decision making are driving the AI"
-    publishedDateTime: 2021-07-19T11:37:00Z
-    webUrl: "https://www.openpr.com/news/2331557/artificial-intelligence-in-accounting-market-share-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2331557/artificial-intelligence-in-accounting-market-share-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331557/artificial-intelligence-in-accounting-market-share-2021"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Worldwide Machine Safety Industry to 2026 - Impact Analysis of COVID-19 on the Market"
+    excerpt: "The \"Machine Safety Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global market for machine safety was evaluated at US$1,204.949 million in the year 2019 and is anticipated to witness a CAGR of 6."
+    publishedDateTime: 2021-07-21T15:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-machine-safety-industry-to-2026-impact-analysis-of-covid-19-on-the-market-1030631271"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
-  - title: "Global Cognitive Systems Spending Market Tendencies, Revenue Forecast and Interesting Opportunities from 2021 to 2026"
-    excerpt: "Global Cognitive Systems Spending Market 2021 by Company, Regions, Type and Application, Forecast to 2026 research report is the new statistical data source added by MarketsandResearch.biz that uses several approaches for analyzing the data of the target ..."
-    publishedDateTime: 2021-07-20T16:08:00Z
-    webUrl: "https://ipsnews.net/business/2021/07/20/global-cognitive-systems-spending-market-tendencies-revenue-forecast-and-interesting-opportunities-from-2021-to-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
-  - title: "Global Artificial Intelligence in Energy Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "The Artificial Intelligence in Energy market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic and global ..."
-    publishedDateTime: 2021-07-22T14:18:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4684823-global-artificial-intelligence-in-energy-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
 
 secured: "CXXmjCyiI2Hwa6j10Wc3iZG3SgRGJgvvByl+2tYlC4Gi2JCCaPj3kblndRmcfilKRlieBiM5FfXfoj7H8vliVduCtBinjk2Ok4AjLBJ72nRrEXPNX6OktVoKdGaffj5QFeihelFkAYEPfBvfYPZNFOOnh/XI2l1TF5r2xQsnMMqARoM9zew2QkHSSfHHvryaLSdy8F2Lo+Gd79nyrMQMsQUdKIouF0uFo1pUcp8r7qC5UvdlY0LfeA764IX6MJUXRSV0E16yoXiqqK3lTGJtr3+tFeJoFjfuAmwpNgKtZ72llyABzEDKDE9+NW/iqYYOE+sxku8tfNFam9fiSBKA3S1mFbOGybHeY/qfV8VT152SbrbDieI+ITx9OrdwM8d6KWjp6BSmH3X7FfKEjjCUUn+h1U7lM2w7CqPcgPBD1aLUzaZGVM8m4vnjI+z6Ct26crItev8qRgie+fxlvg2KyUqmZ8adufSESaiUAMh+PzrR46NNsfzsVYn/8c52vhUO64KkbbJfDql5g/On6uMxhQ==;GCLROgehYnRrasVDtnNVrg=="
 ---

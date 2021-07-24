@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/tech-behind-facebooks-blenderbot-2-0
 webUrl: "https://analyticsindiamag.com/tech-behind-facebooks-blenderbot-2-0-a-chatbot-with-long-term-memory/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Facebook AI unveils BlenderBot 2.0, a chatbot that adapts its memory over the long term"
-    excerpt: "Facebook’s artificial intelligence research lab, has been working on BlenderBot 2.0, a chatbot that combines long-term memory with information retrieved live from the internet. It’s a major update to the original Blender Bot,"
-    publishedDateTime: 2021-07-19T11:52:00Z
-    webUrl: "https://www.actuia.com/english/facebook-ai-unveils-blenderbot-2-0-a-chatbot-that-adapts-its-memory-over-the-long-term/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 31
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/07/Facebook-AI.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "flILrNoB3L2e7NGjI5K/yy8rwCQ2v1Ld/Txhs6FV/2pp8TtxzkZFD1AYRapt0flXiyWYDHZtT5tqgrXB454HKecXNDHRbGKgYxJBb4k0HJuP1SPl4LCnkw2b9rtADJ1DpkUizLqvhjTkkM9Iu5rfF8M+4eleiqAa9EWbWBG5JhuE3JWYzq3cD2Zbb18eZpCO1+yW4NFbVBfSu/arJT2W03Jea5Mh+euv9TGJ2HQ/QmddGGgukeZ73eutpS4ilxHsn15ATlEVgg3ZPpBOXcjOzF0/PwAcen6heD+xhbep+wHZkbkfG5qyqM6Y5aEfYHkAunm9rit30NZIn/af/cFEEZTF9lIaP0Ba+oEplktFnc1LnjUPLLScwaxzHuq1Pr/JqUDwnLE8xllEpr+Fnp55ohKuVoUziGl2jckBIiz8750FCq8NMhmErelsB3dcsTQYoD4YRfpSyGpFJmwOtoACu+/gStNSpxWExsGnEJIc2gtqirbu88BqyFdR87ODj1Tg4V3j4b4BVeDorn8A42pOyg==;jrjt6UziaZQKBQtAa/ocEw=="
 ---

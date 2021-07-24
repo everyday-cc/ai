@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Anthony Bourdain’s cloned voice in documentary raises questions about deepfakes and ethics"
-    excerpt: "Anthony Bourdain, who died in 2018, is the subject of a recent documentary. Viewers were shocked and angry that the director used AI to clone his voice for a segment."
-    publishedDateTime: 2021-07-19T12:45:00Z
-    webUrl: "https://www.scmp.com/lifestyle/entertainment/article/3141659/anthony-bourdains-cloned-voice-documentary-raises-questions"
-    ampWebUrl: "https://amp.scmp.com/lifestyle/entertainment/article/3141659/anthony-bourdains-cloned-voice-documentary-raises-questions"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/entertainment/article/3141659/anthony-bourdains-cloned-voice-documentary-raises-questions"
+  - title: "The Bourdain AI furore shouldn’t overshadow an effective, complicated film"
+    excerpt: "Despite anger over a decision to deepfake the voice of the much-loved star in a new documentary it’s a haunting and difficult film that deserves to be seen"
+    publishedDateTime: 2021-07-21T14:55:00Z
+    webUrl: "https://www.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore"
+    ampWebUrl: "https://amp.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 94
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/07/19/233c68be-3453-4e17-ac91-a214cf7ad6c5_852534f6.jpg?itok=eu5AcCbq&v=1626681647"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/1293f26cefda42cc765ebd04e1adf322b6336d7a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c7e7b4455c26d9e96a3febf26be5833f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "'Roadrunner' uses AI for Bourdain soundalike"
+    excerpt: "In \"Roadrunner,\" Bourdain is seen and heard in decades' worth of video and cellphone footage in every imaginable geographical context. When we hear Bourdain speaking in voice-over, most of the words he's speaking come from a variety of podcasts,"
+    publishedDateTime: 2021-07-23T07:24:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/jul/23/roadrunner-uses-ai-for-bourdain-soundalike/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "UL7vZYcUbtuvixDGARdLOvyhp70PGVCG7+k/wuhN5A6h3ehMkbgN3D2kHr1dW/AiND25lOUuz0QlzEbBzZwkfLCGxZtW083TqPdj/lx2FaReHaWod/a9ZM4Bfq2uOXLYhDZy0ia4xWs8NGnFqT7+A1HMHqlqqGrbkLUpXIeRDkv//kSVIzd6V/ziEOc2A/gCNkXgx5MNH0p+Q8S6JSO2FHbMy+DUfuL80ytBhdyzx0GQpg3JqTtlfiYgujWhIiUX5icirWnaVWMSMw5Js4a4Xjt4ofudjZYS6BapKKVSUkQ6LRYMd2NMtI3HSOahdIEKm33NeZDKzx4+QJGqQtyt2LPvh43HHR3tnZ/K2XJWrc1UfRRueyEKWjMYKmIru6BYBOyYoO6GvOxrY2/ADx1x43+6EMmtluDwl6kB21WHfsDi7+rD1XRcE9lziEb6EMCEFDQWjYW1cpCv49DO3uMOyhNEwE35DCq8kCa+ACK62fyqalKUYpSI4aDivgb3vtY9qEi918VE2f+6pGEcMxhd8Q==;qvfrTNUZ5wrbRfiyWbYOhQ=="
