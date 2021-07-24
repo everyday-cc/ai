@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 10607838
+        "followers": 10608625
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -75,7 +75,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1057342
+        "followers": 1057358
       },
       "yearFounded": 0,
       "locations": [
@@ -121,7 +121,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 67336
+        "followers": 67340
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -174,7 +174,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 74157
+        "followers": 74161
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -234,7 +234,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 6215
+        "followers": 6216
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -246,7 +246,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 151,
+      "heat": 152,
       "tags": [
         "Autonomous Vehicles"
       ],
@@ -331,7 +331,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 23087
+        "followers": 23090
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -511,7 +511,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 10683
+        "followers": 10684
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -569,7 +569,7 @@
       "twitter": {
         "username": "tusimpleai",
         "url": "https://twitter.com/tusimpleai",
-        "followers": 3818
+        "followers": 3817
       },
       "size": "201-500 employees",
       "yearFounded": 2015,
@@ -781,7 +781,7 @@
       "twitter": {
         "username": "StarshipRobots",
         "url": "https://twitter.com/StarshipRobots",
-        "followers": 10656
+        "followers": 10657
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -1003,7 +1003,7 @@
       "twitter": {
         "username": "PonyAI_tech",
         "url": "https://twitter.com/PonyAI_tech",
-        "followers": 1309
+        "followers": 1310
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1056,7 +1056,7 @@
       "twitter": {
         "username": "Aptiv",
         "url": "https://twitter.com/Aptiv",
-        "followers": 17334
+        "followers": 17335
       },
       "yearFounded": 0,
       "locations": [
@@ -1208,7 +1208,7 @@
             "AI",
             "AI in Autos"
           ],
-          "heat": 151,
+          "heat": 152,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1410556974769520646/8RFjdSFN_400x400.jpg",
