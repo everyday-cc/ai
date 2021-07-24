@@ -42,6 +42,20 @@ related:
         width: 770
         height: 363
         isCached: true
+  - title: "The Impact Of Artificial Intelligence In Food Industry"
+    excerpt: "The work efficiency of food industries has changed after the adoption of Artificial Intelligence in the industry. In this blog, we will discuss how Artificial Intelligence has reshaped the food industry."
+    publishedDateTime: 2021-07-23T06:30:00Z
+    webUrl: "https://customerthink.com/the-impact-of-artificial-intelligence-in-food-industry/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/robot-507811.jpg"
+        width: 4961
+        height: 3508
+        isCached: true
 
 secured: "7inninDz/pBTI1q1ORIYAzY9aQ6CfhNxYdSpsqYOMpnTb0weV4sVuzrn1eHqmUXIRav5TG95ilqLCw56WLSBUpNMRYSMeWN+9vPEzQDpQEx2FOa9x4g28H8vaRoWf2qfIB84hQ89csKxfYzrwalEsGyVllfTEOSr0L/GyfO5QR9b4bV2PJ+LEFiG3Iijp/RPSuAJhKuROP3mjIKIPcqrBO44gqoI/VJ8y4nlZoOgfv6JQH9y9NViuK7tNfRzctfiDwZ64yb/PdsOsB5CpLuVuduitJoiM7PYoyr1v1dx64aAfwa39/loHpjnc0cM7qG9h8l1hB+iGBl0g32FMjfEIOpozRkHWKyQGBQQ17vkDLsMHiyOfThYmlH14YvNU4dSSGWt5B86S5CbUtZWRgMt/HbIMwvxmX6X85x8OJsin/BrkvdNlrw0QypbwUEiAehrwB/LQK7GuJgm4/GlSWFxisa25hMeKiTqTxbpN3UY/rbMN73/j8ox8nz2WaRQWUwowAFFOyFb4TeRGrrFnXwQ4w==;yd7CYaLrb/Eht948v+IV4A=="
 ---

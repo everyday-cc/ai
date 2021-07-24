@@ -181,6 +181,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla's Full Self-Driving Feature Mistakes Moon For Yellow Traffic Light"
+    excerpt: "We all know that werewolves and ocean tides are both impacted by the moon, but we can add another item to the list: Tesla’s Full Self-Driving feature, which is the company’s NHTSA Level 2 driver assistance feature."
+    publishedDateTime: 2021-07-24T15:00:00Z
+    webUrl: "https://jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050"
+    ampWebUrl: "https://jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 58
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/4a926b63004284a3bcd53207f9206069.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Tesla just lowered the price of the ‘Full Self Driving’ hardware upgrade"
     excerpt: "Tesla has reduced the price of the ‘Full Self Driving’ upgrade necessary for older Tesla models to use the new FSD subscription service. It’ll now cost $1,000, instead of $1,500. This is likely in response to criticism from Tesla owners who were asked to pay for the upgrade."
     publishedDateTime: 2021-07-22T07:00:00Z

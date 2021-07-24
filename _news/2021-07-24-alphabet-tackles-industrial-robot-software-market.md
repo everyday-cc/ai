@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market?amp"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15280054/16x9/991/557/8aa600f18375888ddef8e65715e2d356/gZ/file-photo--a-sign-is-seen-at-the-entrance-to-the-google-retail-store-in-the-chelsea-neighborhood-of-new-york-city-2.jpg"
         width: 991
         height: 557
+        isCached: true
+  - title: "Alphabet to launch robotics firm Intrinsic"
+    excerpt: "Alphabet Inc's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic"
+    publishedDateTime: 2021-07-24T14:00:00Z
+    webUrl: "https://www.postguam.com/business/technology/alphabet-to-launch-robotics-firm-intrinsic/article_7fcaa630-ec32-11eb-bcf4-2fed448fc017.html"
+    type: article
+    provider:
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 56
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/b/18/b1820ba0-ec32-11eb-8c4c-ef3221dca135/60fb8ed9820f4.image.png?resize=955%2C630"
+        width: 955
+        height: 630
         isCached: true
 
 secured: "K0OotBo6pR1psOOsZ/YNXLmOxEaSp4IS/MaRBju6uclTLgovdjZfiaBo2CR4zia3pOrukZMZCIMhr/87D6liyyu3oXMHT3BxQ7SZ4TxGuin3Z/pv24Dv4HumKcwI96uzRXtXsW6ICo0+6qBTYTE/6jU2giDo2R/DDgjLtBSFDaQtGT09+/g3MqimYGV7CiZ+mdLJAJ9PQS0WBMGTpQksK0dsWrn+PPFlk6AjYwAMrp+cuYgFp41LOph82e1bAj1p+rwSwMIc5RmjtDSU4MwlCt6GoUGHcx6dmjKdlNvLDY1G26ISFE+4VKQGsdAW+qBvS9/BMFvIYY/lA6HeBatmj0ZDBEaazxT8lWhbj2IHeHt2ycivqu8T/sJt5C1OnQKBIxOH31o1NPKrsvYO/d7izNndo9SoKjc4opX4BY1CDo5X55naSRbxqZecy/bYUYdWcl8C7uwFEPnQkMPsk5dwRDt9O+AkRCCLrqDiriB3KTgRWUV3h9EGHaHFVD6XU+k0Id8f+qxjrXiiYIQHVui+Xg==;nO2/sD3GQD32jP1bv6/oHA=="

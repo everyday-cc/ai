@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Tesla’s ‘Full Self Driving’ Push Is Okay In California—Because It’s Not Real Self-Driving"
-excerpt: "The company's admission that FSD is a Level 2 ADAS system means it doesn't need special approval to sell the feature in its biggest U.S. market."
-publishedDateTime: 2021-07-21T19:41:00Z
-originalUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/"
-webUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/"
-ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/amp/"
+title: "Tesla's Full Self-Driving Feature Mistakes Moon For Yellow Traffic Light"
+excerpt: "We all know that werewolves and ocean tides are both impacted by the moon, but we can add another item to the list: Tesla’s Full Self-Driving feature, which is the company’s NHTSA Level 2 driver assistance feature."
+publishedDateTime: 2021-07-24T15:00:00Z
+originalUrl: "https://jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050"
+webUrl: "https://jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050"
+ampWebUrl: "https://jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050/amp"
+cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050/amp"
 type: article
-quality: 95
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Jalopnik
+  domain: jalopnik.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f87529c277c09b6a779b8d%2F0x0.jpg"
-    width: 1200
-    height: 614
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/4a926b63004284a3bcd53207f9206069.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -62,6 +58,22 @@ related:
       - url: "https://www.cnet.com/a/img/hTc2mT4Ktz7OJaDFafDjDPV8KhE=/2016/10/20/2d92b545-6e58-409b-b494-76c8511dfc32/tesla-self-driving-hardware-4.jpg"
         width: 1590
         height: 1200
+        isCached: true
+  - title: "Tesla’s ‘Full Self Driving’ Push Is Okay In California—Because It’s Not Real Self-Driving"
+    excerpt: "The company's admission that FSD is a Level 2 ADAS system means it doesn't need special approval to sell the feature in its biggest U.S. market."
+    publishedDateTime: 2021-07-21T19:41:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 95
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f87529c277c09b6a779b8d%2F0x0.jpg"
+        width: 1200
+        height: 614
         isCached: true
   - title: "Consumer Reports Calls Out Problems With Tesla’s ‘Self-Driving’ Mode"
     excerpt: "Consumer Reports experts expressed concerns after test videos of the mode showed vehicles missing turns among other problems."
@@ -168,22 +180,6 @@ related:
       - url: "https://www.reuters.com/resizer/WrAwzdBWDquk_bV72wsGJZPV68w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HDQRM7OIIVL4VGTYEQLIIH474U.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla's Full Self-Driving Feature Mistakes Moon For Yellow Traffic Light"
-    excerpt: "We all know that werewolves and ocean tides are both impacted by the moon, but we can add another item to the list: Tesla’s Full Self-Driving feature, which is the company’s NHTSA Level 2 driver assistance feature."
-    publishedDateTime: 2021-07-24T15:00:00Z
-    webUrl: "https://jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050"
-    ampWebUrl: "https://jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 58
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/4a926b63004284a3bcd53207f9206069.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Visa Rebrand, Pandemic Optimism, Tesla Self-Driving Cars Top This Week’s News"
     excerpt: "In this week’s news, we saw Apple Pay Later loom as a threat to card issuers, and Visa’s rebrand is about being a global acceptance network."
@@ -325,6 +321,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "ac8oDHZ5WjAI+O+nTzeZWSTGTIEbcH0RecJP7k75RY/WFOyXRgl5OIPOpTscfC3isxUZY47iiAOvuWlG9uJZjCOQPVOOYVB+CLibelL53JtskVrEf+RQgVJ0cwnJ5LhanFDDYijoqR147KYlaTOJfCd36ZSGiyD41+v3pSUBtEJfVg+FBsAKrV3QmUEhSGQarNTT1kf7KJTUldKn2YH6RFcHy/ZF0pEH1iPbqtLWCRlSyVanN+dP0rVtdS8/3y5MDBnvmneemxJnifdLjWZ3XjB6Vg5x4SDxn6321/3dZfm8VltpJCQWZ292H/06PzeA75LzlCh/VNtzGfapzKdtQBzKPNMf/QE0PGuvGrVm0QwS6mjsDMLRCN4Df95wAb+3U2R0titPVDSLGd6aQzswtTgwxXnMFriQsOK3B9/vQw7k4m6vn778m+nbGcnrFwCmq9BmRa8mPuqtREfmz1IJ4XgjvmiSDMuhNpsbUBFGRIpfdRm8qoSG99FniFBgMuiHn6A+zhbdZnGvAgW6VVcTUA==;g9UfW7zh2KVMZ6iD8qFReg=="
+secured: "i/yaQw0uSClvAt06FJGUGJ/ulA4pJZh37W9MVy6l6W4KfYu8HyupbtQPut337CkgYRDqu//3utzoF5ONrtVwrbOGh93M+endmriDM44W8paGIRUkJgXLTcl3rabyB1CtmG3QKcw9aJYQjuWnvdkPGqSAJmDQWSDkfLCpmphhU/u4Ln1bbAb0i8yqGKtSbpLXqI/+2euCoq0/EcKkk1MmpsAv3jJwRevclqO5GhjClkWH1DvquGYYZqHMldetiraii3qV6UZa1IKYP00BU8nrHqYevNH0HrpqDpcXvn+K7exAUyi6ug/igl4VQncoXvSZATrOBRglchvvWUfs9WHC6IIGlgXVLgNGngwxjCgP/Zc=;eBqzlZ0yIH0TrHdBWYyXOw=="
 ---
 

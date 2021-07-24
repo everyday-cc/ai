@@ -169,6 +169,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla's Full Self-Driving Feature Mistakes Moon For Yellow Traffic Light"
+    excerpt: "We all know that werewolves and ocean tides are both impacted by the moon, but we can add another item to the list: Tesla’s Full Self-Driving feature, which is the company’s NHTSA Level 2 driver assistance feature."
+    publishedDateTime: 2021-07-24T15:00:00Z
+    webUrl: "https://jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050"
+    ampWebUrl: "https://jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 58
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/4a926b63004284a3bcd53207f9206069.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Visa Rebrand, Pandemic Optimism, Tesla Self-Driving Cars Top This Week’s News"
     excerpt: "In this week’s news, we saw Apple Pay Later loom as a threat to card issuers, and Visa’s rebrand is about being a global acceptance network."
     publishedDateTime: 2021-07-23T17:00:00Z

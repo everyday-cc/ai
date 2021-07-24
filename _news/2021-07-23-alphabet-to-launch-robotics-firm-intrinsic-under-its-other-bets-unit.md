@@ -63,6 +63,20 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Alphabet to launch robotics firm Intrinsic"
+    excerpt: "Alphabet Inc's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic"
+    publishedDateTime: 2021-07-24T14:00:00Z
+    webUrl: "https://www.postguam.com/business/technology/alphabet-to-launch-robotics-firm-intrinsic/article_7fcaa630-ec32-11eb-bcf4-2fed448fc017.html"
+    type: article
+    provider:
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 56
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/b/18/b1820ba0-ec32-11eb-8c4c-ef3221dca135/60fb8ed9820f4.image.png?resize=955%2C630"
+        width: 955
+        height: 630
+        isCached: true
 
 secured: "j0d3kFrvrPBwjufFeL+DC9ZqAuOFkAb7Kw+Er8GSW1F1jcOh+ObH1RgpkL0Ity4bqYW7AsZd2SJQYGKKifLt4waAGfpHaTj6iOKYvHAoeMBJNzb7PooLwKHbVdu+KzbJmQdhijo6s+aRys6Y4phVh3nIE1AFi2cB0S993CgkZD5/9ZzCTkdNLbQyq+o1UOl0lgEYkRchrKE5A9ZCIrVhyQTNqI4xNckMQr9sey5PYEcD5YeIMHjbryTO+BQpng3vL8DHNKDdrIBX5N7gOvykzEdWgw35iWZ4/2hLsmDCV587A9jl99SD8JW4sDrLtxzRaVIw4Z505cMT5UtnjMlWazodebmU/B2ya2l9hzVZiLWWgGtm7Bb5bDKimnnMx0KGLQ7rSM0+IUpYIpxlPV1W68KWT7gf9zh5f8vGDwJsit5gbIP/Dnyyv2CUnesCDEnzCKmlD1u3XVf1bqs4e1497HzymKi7u5fk7OvRJFpZqRVeppEoTktjLriB3Uen1HLIcdmh5JTCPnEmGHvCnssgGA==;s2oNebS+zn0hdEPPLTceWg=="
 ---

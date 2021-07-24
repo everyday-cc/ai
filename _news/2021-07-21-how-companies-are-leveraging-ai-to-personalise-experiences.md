@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Power of One: How AI will Personalize the Employee Experience"
-    excerpt: "Key takeaways: Learn how AI will change the employee experience as we know it ... No matter if he was working at a big company or startup, he’s always been drawn to culture and how companies can take better care of their employees, which is what ..."
-    publishedDateTime: 2021-07-19T21:41:00Z
-    webUrl: "https://www.hrexchangenetwork.com/employee-engagement/webinars/the-power-of-one-how-ai-will-personalize-the-employee-experience"
-    type: article
-    provider:
-      name: hrexchangenetwork.com
-      domain: hrexchangenetwork.com
-    quality: 37
-    images:
-      - url: "https://plsadaptive.s3.amazonaws.com/eco/images/logos/rRNfvAfTc1KBTs5Zd5WJhqyLVL5CCPMYBFxKy0rY.png"
-        width: 877
-        height: 577
-        isCached: true
   - title: "Octane AI Raises $5 Million to Help Shopify Merchants Personalize Ecommerce Experiences"
     excerpt: "Octane AI, the pioneer zero-party data marketing platform, today announced it has raised $5 million in capital in a round led by Javelin Venture Partners, the investor behind Masterclass and Thumbtack,"
     publishedDateTime: 2021-07-20T15:16:00Z

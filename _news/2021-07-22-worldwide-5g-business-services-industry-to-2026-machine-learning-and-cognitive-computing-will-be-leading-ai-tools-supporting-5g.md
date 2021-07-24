@@ -39,6 +39,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Could Human-aware Algorithms Be the Key to Motion Planning in Robotics?"
+    excerpt: "More human-like could be a necessary hurdle to cross, especially concerning motion control and planning. What are places like MIT and Mitsubishing accomplishing with the right algorithms?"
+    publishedDateTime: 2021-07-24T15:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/could-human-aware-algorithms-be-the-key-to-motion-plannin-in-robotics/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 54
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/mit_movement_aware_robotics_thumbnail.jpg"
+        width: 700
+        height: 300
+        isCached: true
   - title: "Top 10 Artificial Intelligence Apps in the Market"
     excerpt: "AI apps are being introduced on an everyay basis now in the market. Although only few of them have retained the mark of being the best. Here is the list."
     publishedDateTime: 2021-07-23T17:30:00Z
