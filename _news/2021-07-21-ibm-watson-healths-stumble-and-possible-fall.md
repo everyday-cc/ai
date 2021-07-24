@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "New York Times wades into Watson"
-    excerpt: "Apparently, it is not Applish enough The New York Times, which long ago sacrificed its journalistic credibility to hawk Apple products has waded into the IBM supercomputer Watson. The Times gets its knickers in a twist about what happened in the ten years after the supercomputer scared the world"
-    publishedDateTime: 2021-07-19T10:31:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/53241-new-york-times-wades-into-watson"
+  - title: "Watson as a Warning: Current Limits and Promise of AI"
+    excerpt: "Last week the New York Times ran a cautionary tale about how IBM tried and failed to use its heavily branded AI solution called Watson to transform the business world and solidify IBM’s future."
+    publishedDateTime: 2021-07-20T17:01:00Z
+    webUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai"
+    ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 74
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "IBM Watson In Demand"
+    excerpt: "Hire' service is posed to grow 30%, driven by Healthcare and Financial Services customers looking for real time data processing."
+    publishedDateTime: 2021-07-22T14:19:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/ibm-watson-in-demand-5765.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
     quality: 39
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/095e839513fa17736f4ab6a1b8ee356b_L.jpg"
-        width: 620
-        height: 414
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ibm-watson-logo-ibm-watson-logo.png"
+        width: 820
+        height: 860
         isCached: true
 
 secured: "L7Uh42zaRqyV6pSBaAjkfwIcCutI5rKsV0t/e/pKD1bK13rBIHIenh2BoICu9IX8guGvt+8FwvHJghp2E6qj/Xxqj5/nxSg0WVL1U0k80Xbddym1O2cW4PJXOlUfWBMsfeoIdhKj/0gZm6pvHIkqMh3hv6jj4vMW13t3NOqajmF79oWtRf4oNk7DcQBEieedGLE8+hl0UDBQoPx5s+lVfmCDGdiQMTHG/fowlP4RQ9Nj4hrRj0kTmCvsAHHrrJWr0VR2UlUevackVljN6dCbgahsX1fYqoMt1SwCS2nTMvHmwmtgJmzOsd84FoIpmu5yZ8qNVmztEqKH5tQEULUItysFQfsFNS5BAn2LspZspaM=;V0xRo+ZG4Y+tzxkPQpy7Vg=="

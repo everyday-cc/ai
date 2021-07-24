@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
-excerpt: "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he ha"
+excerpt: "By Rachel Metz, CNN Business After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for"
 publishedDateTime: 2021-07-23T17:31:00Z
-originalUrl: "https://cbs58.com/news/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims"
-webUrl: "https://cbs58.com/news/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims"
+originalUrl: "https://keyt.com/news/money-and-business/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
+webUrl: "https://keyt.com/news/money-and-business/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: CBS 58
-  domain: cbs58.com
+  name: KEYT
+  domain: keyt.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://newscdn2.weigelbroadcasting.com/sLNI4-1627061814-202056-blog-hypatia-h_6ec8311a306d734cff37afecd9169c92-h_7a1db3a9aa71e5465eb58e7846f2ca95.jpg"
+  - url: "https://keyt.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
     width: 2500
     height: 1663
     isCached: true
@@ -97,6 +97,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "NsncmmOkGMyRhbUcYLTzSnGswd0c8EFIDGdemuOykO7aCRwGdCklFg2djEBGKuuGMFepLIKvGTFukk/6Fi6WL1Ao3k3v8+el5a2qu8PVx/nqS8bZBACXRETyvvas96K7O1zq8BFsUYH6sDsq+flSWjKyZdHn4nCZUA/rC2AivQ48OKTmxOUse6ZzzGazXj1AVoP8270yH0ZlhTA/Dc4ufPQh+tMl4S9fDhFI1d/wyCpZpzZzwQFZWEkQw38HQMhBCaZ84SVB1L8M/qMSPkij6WrCCtm6wbmMGkao+ZufLn44KTk/Dx7EZLIPisaCXo+WfPQG5zjWl/7mKXGTsZhz2uccooHILDhY5Q3T0D/itVu8ygWj/rQEgQ4BHqPubn7yx6mCTXzd3A9U50DvGx1T2Z0JGMTEO0ayZy1cN1lIeFkHsciTi6CwWBF3amfTEf+M4IM4TP1gF1BIVnhAqtFqAJ12H/h1akF4gbGrCwRcyGGN1mO9b/PGQeXO/sj8AyrqfyYvPCoaVN+gUULyxPUOIg==;s3dNTPROzEo0wH4E3HjWwA=="
+secured: "ZGLMutix1KDWgkaZSzCISc4LlkO6zYEAmb/kI+zxeXzYydKZ9Bq4rlxpvARZEaoaWuZ42OISmHnvfVx037OcdrbLchhCGG9DLWJ+ytYOhqZ1Gv387TbSjoDMPszE/Or2nBYOhZnL869zm7Cf64etVoU+SDZN6FPl1qO4hveqF+5xEIa9vMV38GNE+KVgvamGRTtktsrwCO9pYAWr+G/dluBFLcf8LGopsdLYBKzgEMh7SGVeboFevszx/jO7RqQ8BOQMiDXQRo9nO7NvAKBXmM/bh8XUmcyTS0JFa4r/ox5vwu9T7v659Om0lf3g47OMeDN/PAtw9nAxhEqSDQLOhtmCVJdVd0kGt4grma/MSAw=;D5Q8jeDZka9SJ+qjVVa5Ew=="
 ---
 

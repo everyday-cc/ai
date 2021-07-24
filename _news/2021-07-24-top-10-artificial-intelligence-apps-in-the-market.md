@@ -39,6 +39,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Worldwide 5G Business Services Industry to 2026 - Machine Learning and Cognitive Computing Will Be Leading AI Tools Supporting 5G"
+    excerpt: "The \"5G Business Services Market by Enterprise, Industrial, and Government Segment Applications, Services, and Solutions 2021 - 2026\""
+    publishedDateTime: 2021-07-22T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-5g-business-services-industry-to-2026---machine-learning-and-cognitive-computing-will-be-leading-ai-tools-supporting-5g-301339413.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "clnb2KEe2VbBQTTyfvUauF6USDfpIoU1JUaIJSA9i9v44N6eJiNNIPE5YON2l6Nxae3zJDwR7KeHpob52UV0d9hLmjaDgfEACkla5/NcET++xOcHCc5XCgz5AdJQgEmPWQnhFp860JC1LkreFvftud+vmZ1iJwbMwbvkFFAGuI4rJ+C2Lv/ATvPK7xl4znfSztW3fOTIjpsqnDqJNEUKHQmuFIZew0K7GqiCJ9vrFNWAQqgbQYrgBCx7LdbW22nB0IZocqDJhLI/GWmD+q+dFNpE+Bdk9HiNS9z6C7H2/oQAEMGBLNGTSFeaUGNqw01801StfEic4cv3V860JVx1tVDnKWNVJDo4O1ZxLSoQtxg=;Sp8No3isUxpcXVs9FdlFDQ=="
 ---

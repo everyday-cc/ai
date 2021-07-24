@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-feature-store-in-a-java-environment/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 768
     height: 385
     isCached: true
-
-related:
-  - title: "Amazon SageMaker: Simplifying Machine Learning Application Development"
-    excerpt: "This course will teach you, an application developer, how to use Amazon SageMaker to simplify the integration of Machine Learning into your applications. Key topics include: an overview of Machine ..."
-    publishedDateTime: 2021-07-19T10:44:00Z
-    webUrl: "https://www.usnews.com/education/skillbuilder/amazon-sagemaker:-simplifying-machine-learning-application-development-1_course_v1:AWS+OTP_AWSD4+3T2018_verified"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 66
 
 secured: "j8IuItDp9G3unBOlvDUz0RnPG86xCBjzqegHKSTV3Ie/kF4jJtBLA0mjqzVVc3LXsyYwioGhXOOP4qMEizGPa73It90+1uWDvAC4S8r8vAP0toapz3/fM48XR6sT9l+ksX6AkQqaAf0fTJTyln5n55B9jH8SEC4YMFe/hNx7oq2QlEn/JGYYQx5HEwSAkaIgVniDRtl8Fg12CjhVV92orYdhxB4c1pKCAgiZN+Wxck2dsaScvPl8hvNmBhHyh4ab4kok2fz8x859YDl5Lr/Qi6f/YbMS9JpkyOfrwW/YSepd+nI2L12ri60izQJVYD4PlQ5C6uno89P+mRRFgttqT0HS0l/icw+y5eiUJddmD9s=;aMlwUDFCJfR5+cGB25735w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19916974.html"
 webUrl: "https://www.lelezard.com/en/news-19916974.html"
 type: article
 quality: 62
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-3.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Worldwide 5G Business Services Industry to 2026 - Machine Learning and Cognitive Computing Will Be Leading AI Tools Supporting 5G"
+    excerpt: "The \"5G Business Services Market by Enterprise, Industrial, and Government Segment Applications, Services, and Solutions 2021 - 2026\""
+    publishedDateTime: 2021-07-22T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-5g-business-services-industry-to-2026---machine-learning-and-cognitive-computing-will-be-leading-ai-tools-supporting-5g-301339413.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "zg20zspSE2olYRQEsm8MKNSLEMmh2vA2kX82ePw4tv1ODBJEhX2dgZBNonWPc3njGDDGyYyexw8wgX4ECtdUKEBajQa6ODJ9E5L3PluFYNikRuE1/spjEqClz12zNEWgYjBINEeI3D5Y01AK3jaBFM4BC8TiydeuhaOgPBiEJCwINmGMaHu3JlHrK3cngwQ+/JrqBR1NDNhO27SusPtJSI3AnG/eEM5Lo5Hd8gelFge63hSaHItkKBCrSksW6rOkIoIYB3dpSO6obHJrBOvXgyPkyk2WlSqxmhS/GdkaXkvjV8bB8dKjBxHexU6AEktkHtAkE69WtgKRFCsahRfnMC3RedgI8ljtZobkS8o0drc=;JYzzUb4NfRKe7PWud3k6kw=="

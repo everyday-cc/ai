@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robotics and AI are speeding up our nuclear clean up mission"
+    excerpt: "West Cumbria is delivering the future of nuclear robotics and artificial intelligence technology. Every day the company in charge of the nationally important mission of decommissioning and cleaning up the UK’s largest nuclear site – Sellafield in West Cumbria - is facing new challenges."
+    publishedDateTime: 2021-07-23T07:03:00Z
+    webUrl: "https://www.politicshome.com/members/article/robotics-ai-speed-up-nuclear-clean-up-mission"
+    type: article
+    provider:
+      name: PoliticsHome
+      domain: politicshome.com
+    quality: 69
+    images:
+      - url: "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2021_07/DRONE_960X640_JAN21_002_xegibn.jpg"
+        width: 1200
+        height: 642
+        isCached: true
   - title: "SPIN Analytics and RISKROBOTtm, Now Available in the Microsoft Azure Marketplace"
     excerpt: "SPIN Analytics, today announced the availability of RISKROBOTtm in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and"
     publishedDateTime: 2021-07-21T12:11:00Z

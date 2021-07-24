@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Research Breakthrough: Artificial Intelligence (AI) Can Now Use Its Imagination"
-    excerpt: "Researchers at the University of Southern California (USC)  are helping the use of Artificial Intelligence (AI) imagine what has not"
-    publishedDateTime: 2021-07-19T11:01:00Z
-    webUrl: "https://techbooky.com/ai-that-can-imagine/"
-    ampWebUrl: "https://techbooky.com/ai-that-can-imagine/?amp=1"
-    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/ai-that-can-imagine/?amp=1"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 70
-    images:
-      - url: "https://techbooky.com/wp-content/uploads/2021/07/444090C5-86E3-4A93-9928-5383E9896D53.jpeg"
-        width: 1028
-        height: 578
-        isCached: true
   - title: "A machine learning breakthrough: Using satellite images to improve human lives"
     excerpt: "More than 700 imaging satellites are orbiting the earth, and every day they beam vast oceans of information—including data that reflects climate change, health and poverty—to databases on the ground."
     publishedDateTime: 2021-07-20T14:07:00Z

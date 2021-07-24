@@ -25,170 +25,96 @@ images:
     isCached: true
 
 related:
-  - title: "The Evolution of Deep Learning and AI"
-    excerpt: "Deep Learning is a relatively new technology, yet its already driving great advances in visual recognition, natural language processing, text analysis, cybersecurity and more. Increasingly ..."
-    publishedDateTime: 2021-07-19T09:49:00Z
-    webUrl: "https://www.itpro.co.uk/technology/machine-learning/360157/the-evolution-of-deep-learning-and-ai"
-    ampWebUrl: "https://www.itpro.co.uk/technology/machine-learning/360157/the-evolution-of-deep-learning-and-ai?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/360157/the-evolution-of-deep-learning-and-ai?amp"
+  - title: "AI adoption and analytics are rising, survey finds"
+    excerpt: "Businesses are accelerating their adoption of analytics, according to a new survey from Zoho-owned ManageEngine."
+    publishedDateTime: 2021-07-20T13:15:00Z
+    webUrl: "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/"
+    ampWebUrl: "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625755860/artificial_intelligence_machine_learning.jpg"
-        width: 1260
-        height: 710
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning course at CIT"
-    excerpt: "Ponnampet: A new engineering course in Artificial Intelligence and Machine Learning (AI & ML), an allied branch of Computer Science and Engineering, is being introduced at Coorg Institute of Technology (CIT),"
-    publishedDateTime: 2021-07-20T14:01:00Z
-    webUrl: "https://starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/"
-    ampWebUrl: "https://starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/"
-    cdnAmpWebUrl: "https://starofmysore-com.cdn.ampproject.org/c/s/starofmysore.com/artificial-intelligence-and-machine-learning-course-at-cit/"
-    type: article
-    provider:
-      name: Star of Mysore
-      domain: starofmysore.com
-    quality: 78
-    images:
-      - url: "https://starofmysore.com/wp-content/uploads/2021/07/news-12-Coorg-Institute-Technology.jpg"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Watson as a Warning: Current Limits and Promise of AI"
-    excerpt: "Last week the New York Times ran a cautionary tale about how IBM tried and failed to use its heavily branded AI solution called Watson to transform the business world and solidify IBM’s future."
-    publishedDateTime: 2021-07-20T17:01:00Z
-    webUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai"
-    ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 74
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
-  - title: "Detecting Acute Stroke Early with Artificial Intelligence and Imaging"
-    excerpt: "Scientists are using artificial intelligence (AI) to improve imaging techniques so that ischemic and hemorrhage strokes might be identified faster."
-    publishedDateTime: 2021-07-22T08:15:00Z
-    webUrl: "https://www.azooptics.com/Article.aspx?ArticleID=1976"
-    ampWebUrl: "https://www.azooptics.com/amp/article.aspx?ArticleID=1976"
-    cdnAmpWebUrl: "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/article.aspx?ArticleID=1976"
-    type: article
-    provider:
-      name: AZoOptics
-      domain: azooptics.com
-    quality: 61
-    images:
-      - url: "https://d36nqgmw98q4v5.cloudfront.net/images/Article_Images/ImageForArticle_1976_16269415644258204.jpg"
-        width: 1000
-        height: 661
-        isCached: true
-  - title: "Getting Industrial About The Hybrid Computing And AI Revolution"
-    excerpt: "For oil and gas companies looking at drilling wells in a new field, the issue becomes one of return vs. cost. The goal is simple enough: install the"
-    publishedDateTime: 2021-07-21T17:40:00Z
-    webUrl: "https://www.nextplatform.com/2021/07/21/getting-industrial-about-the-hybrid-computing-and-ai-revolution/"
-    ampWebUrl: "https://www.nextplatform.com/2021/07/21/getting-industrial-about-the-hybrid-computing-and-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/21/getting-industrial-about-the-hybrid-computing-and-ai-revolution/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/oil-and-gas.jpg"
-        width: 1030
-        height: 579
-        isCached: true
-  - title: "Artificial Intelligence Therapy Reduces Depression and Anxiety"
-    excerpt: "A study looks at an artificial intelligence telehealth mental health app to see its effectiveness in decreasing depression and anxiety in those who experience symptoms."
-    publishedDateTime: 2021-07-19T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-therapy-reduces-depression-and-anxiety"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "Roostify Named 2020 Google Cloud Technology Partner of the Year for AI and Machine Learning"
-    excerpt: "Roostify, a premium home lending technology provider, is pleased to announce that it has been named recipient of the 2020 Google Cloud Technology Partner of the Year Award for AI and ML for its enhanced document intelligence"
-    publishedDateTime: 2021-07-20T18:24:00Z
-    webUrl: "https://www.lelezard.com/en/news-19911572.html"
+  - title: "SPIN Analytics and RISKROBOTtm, Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SPIN Analytics, today announced the availability of RISKROBOTtm in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and"
+    publishedDateTime: 2021-07-21T12:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-19912463.html"
     type: article
     provider:
       name: Le Lézard
       domain: lelezard.com
-    quality: 46
+    quality: 64
     images:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
         isCached: true
-  - title: "Using AI and a lawn sprinkler to keep people out of the yard"
-    excerpt: "Having people walk through your yard can get annoying. Not only could heavy foot traffic kill your beautiful lawn, but some disrespectful people will even let their pets do their business on your property without cleaning it up."
-    publishedDateTime: 2021-07-19T18:44:00Z
-    webUrl: "https://www.komando.com/video/komando-picks/using-ai-and-a-lawn-sprinkler-to-keep-people-out-of-the-yard/799168/"
+  - title: "Smart city traffic anomaly detection using Amazon Lookout for Metrics and Amazon Kinesis Data Analytics Studio"
+    excerpt: "Cities across the world are transforming their public services infrastructure with the mission of enhancing the quality of life of its residents. Roads and traffic management systems are part of the central nervous system of every city. They need intelligent monitoring and automation in order to prevent"
+    publishedDateTime: 2021-07-21T21:45:27Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/smart-city-traffic-anomaly-detection-using-amazon-lookout-for-metrics-and-amazon-kinesis-data-analytics-studio/"
     type: article
     provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 37
+      name: AWS
+      domain: aws.amazon.com
+    quality: 54
     images:
-      - url: "https://www.komando.com/wp-content/uploads/2017/02/Kim-Komando-Show-Logo-576x576.jpg"
-        width: 576
-        height: 576
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/14/image003.jpg"
+        width: 811
+        height: 651
         isCached: true
-  - title: "Maxim Integrated's Hand-Held Camera Cube Reference Design Enables Artificial Intelligence at the Edge for Vision and Hearing Applications"
-    excerpt: "Today Maxim Integrated Products, Inc. (NASDAQ: MXIM) unveiled the MAXREFDES178# camera cube reference design, which demonstrates how Artificial intelligence (AI) applications previously limited to machines with large power and cost budgets can be embedded in space-constrained,"
-    publishedDateTime: 2021-07-20T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-hand-held-camera-cube-reference-design-enables-artificial-intelligence-at-the-edge-for-vision-and-hearing-applications-1030624731"
+  - title: "SPIN Analytics and RISKROBOT, Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SPIN Analytics, today announced the availability of RISKROBOT ™ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2021-07-21T11:00:00Z
+    webUrl: "https://www.financialbuzz.com/spin-analytics-and-riskrobot-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 45
+  - title: "Global Geospatial Analytics Artificial Intelligence Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2026"
+    excerpt: "The latest market research report titled Global Geospatial Analytics Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 enfolds expansive evaluation of the market offering an analysis of the market revenue,"
+    publishedDateTime: 2021-07-21T00:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-geospatial-analytics-artificial-intelligence-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2026-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "VeroSource Solutions Announces Gerry Fairweather as VP of Innovation and Analytics"
+    excerpt: "VeroSource Solutions, Inc. is pleased to announce that Gerry Fairweather has joined its Executive as VP of Innovation and Analytics. Effective immediately, Fairweather will lead the digital health company's growing data science practice,"
+    publishedDateTime: 2021-07-21T11:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19912390.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 33
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Microsoft Canada recognizes Adastra as winner of the 2021 Analytics, Artificial Intelligence and Data Platform Modernization Impact Awards"
+    excerpt: "CNW/ - Adastra, a global leader in Data Management and Analytics, is proud to announce that it has won three 2021 Microsoft Canada Impact Awards: the Analytics Impact Award, Artificial Intelligence Impact Award,"
+    publishedDateTime: 2021-07-20T12:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-canada-recognizes-adastra-as-winner-of-the-2021-analytics-artificial-intelligence-and-data-platform-modernization-impact-awards-1030624806"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/1577187/Maxim_Integrated_Products_MAXREFDES178.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Artificial Intelligence – Not a Buzzword anymore. It’s Evolving and Growing Fast."
-    excerpt: "Artificial Intelligence has been the talk of the decade and each year, there’s been a growth in its adoption, evolution, and capabilities to resolve business problems of cost, profitability and sustainability."
-    publishedDateTime: 2021-07-22T18:54:00Z
-    webUrl: "https://www.wipro.com/business-process/artificial-intelligence-not-a-buzzword-anymore-its-evolving-and-growing-fast/"
-    type: article
-    provider:
-      name: Wipro
-      domain: wipro.com
-    quality: 36
-    images:
-      - url: "https://www.wipro.com/content/dam/nexus/en/service-lines/business-process/latest-thinking/og-artificial-intelligence-not-a-buzzword-anymore-its-evolving-and-growing-fast-i-1201645264-502x263.jpg"
-        width: 502
-        height: 263
-        isCached: true
-  - title: "Worldwide 5G Business Services Industry to 2026 - Machine Learning and Cognitive Computing Will Be Leading AI Tools Supporting 5G"
-    excerpt: "The \"5G Business Services Market by Enterprise, Industrial, and Government Segment Applications, Services, and Solutions 2021 - 2026\""
-    publishedDateTime: 2021-07-22T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-5g-business-services-industry-to-2026---machine-learning-and-cognitive-computing-will-be-leading-ai-tools-supporting-5g-301339413.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
+    quality: 30
 
 secured: "ogZQxEpj2Mbl1aZnsSx5dKBtCyproruUM+vaJlp3zpx2aLSQ7B09FuGffF7IaS8AqVhyLDHjJu9epDTsIa6eJu4S2hpJvC57CvjtEATDDJ9GzUYqEMueU8VEs4j2ZPGNSzKPYZ7cWbGhN3LVws0kBFdqXnoUlQb5NgGF8D2jU2WTJHZvauMtu+a0l/d18nkBRSuH44MN/O50V+kGLmatlLa/JYWM3gbiPzVe0GDjfK9TAcPfKYLA4aBDweNVbTgcuDhjee/kN79VzrTPuTB50/rgwYIyUsh4CJzSGPfCPA6vNsBb0Fqa4c7D7H4Skv0hW7hvEJ/q9Hw51K+lPwj1FU7DVZW/EYetGZgvALFwdm8=;DNHg098ew8fkI+imHQvurg=="
 ---

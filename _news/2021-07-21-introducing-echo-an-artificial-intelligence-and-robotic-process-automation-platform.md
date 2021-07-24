@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/introducing-echo-a
 webUrl: "https://markets.businessinsider.com/news/stocks/introducing-echo-an-artificial-intelligence-and-robotic-process-automation-platform-1030631536"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: Business Insider
@@ -29,51 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "PG Diploma in Robotics Process Automation"
-    excerpt: "MIT Centre for Future Skills Excellence, MIT Art, Design & Technology University Pune has introduced a new post-graduate diploma in Robotics Process Automation from August 2021 academic session."
-    publishedDateTime: 2021-07-19T10:43:00Z
-    webUrl: "https://www.tribuneindia.com/news/jobs&careers/pg-diploma-in-robotics-process-automation-285397"
-    ampWebUrl: "https://www.tribuneindia.com/news/jobs&careers/pg-diploma-in-robotics-process-automation-285397"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/pg-diploma-in-robotics-process-automation-285397"
+  - title: "How AI and automation can help clinicians practice at top-of-license"
+    excerpt: "Advisory Board’s research on top-of-license work for nurses and care teams across the past decade has consistently said the same thing: there are competing and consistently escalating demands on clinicians that make it hard to practice at top of license."
+    publishedDateTime: 2021-07-19T19:27:00Z
+    webUrl: "https://www.advisory.com/sponsored/ai-and-automation"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 74
+      name: Advisory Board
+      domain: advisory.com
+    quality: 37
     images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/7/2021_7$largeimg_138557822.jpg"
-        width: 700
-        height: 308
-        isCached: true
-  - title: "5 robotics and automation stocks to supercharge your portfolio"
-    excerpt: "For many decades now, businesses have been integrating robotics, automation and AI. Here are 5 stocks to supercharge your portfolio."
-    publishedDateTime: 2021-07-21T02:22:00Z
-    webUrl: "https://www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/"
-    ampWebUrl: "https://www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/"
-    cdnAmpWebUrl: "https://www-raskmedia-com-au.cdn.ampproject.org/c/s/www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/"
-    type: article
-    provider:
-      name: Rask Media
-      domain: raskmedia.com.au
-    quality: 74
-    images:
-      - url: "https://www.raskmedia.com.au/wp-content/uploads/2021/07/etf--scaled-e1626833813644.jpg"
-        width: 1200
-        height: 840
-        isCached: true
-  - title: "No Joy in the Sales Process - No Deal, New Intelligent Automation Partnership Forms"
-    excerpt: "It requires the right technology and the best people to deliver it.” “As a sales organization, we strive to generate revenue while having fun. Doing both makes everyone happy. If there’s no joy in the sales cycle,"
-    publishedDateTime: 2021-07-21T13:56:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-fd4ca6bc658a10b9f4b7afab2000666e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://advisory-prod.azureedge.net/-/media/project/advisoryboard/abresearch/sponsored/bright-md/brightmd1.jpg?h=321&w=603&rev=60dd1abc20bc4f289379b3d41db7b1f4&hash=9AA36588A8BA8D54368A8EE6BA37AA66"
+        width: 603
+        height: 321
         isCached: true
 
 secured: "Py6lFm1jW9U5UN/SUPJUlKt9mSOVRYRb2kK/3pSdb/cwII9VpoHIKcxnEEEl2i8JVj/1YNFbJx5zVYu8TOpHTFR8us0gTmfyy3AUgj033Ot/74pQ8owGLtKvRtenBPWrOh5YYjIQW2UixiruVr4pFMhC8HmdFNLJRI0VenxZ6zRhiD/010qBm+/ffhH2KZ1e521XTubW5VX/N+dKUgQz2S86T4D9KSfW6oCKeRmr1M6VyN48KESO0VFRoGm4dhzkZFjo2lHUdPv5ybwYOic43eeNhlfKXTPq578s09zE7UrsavvJbr38krJeEfhE4WHgRkXFDwUl2Kp255eU9U9VdfsjCiBBVeAVEmwa1uua2gL+h1yA2g4hM7E1TUMu2ABWPh5UcdgfYbcj5rVVA0XQcdwy/3Agkv3LtiyjLmnD4Wc5UMk4HkkhNN78jGG4K474N/PN1KwORs1YvBsMb1jOVsGnWkTO2OamiqGSwFozv3ht4YLK798Hx2m/vlx6BM4SoEJHKwTjijAD/84hYHrv3g==;7gyIngbAfT6MrHQdGOHZWQ=="

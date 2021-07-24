@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "7 Ways AI and ML Are Helping and Hurting Cybersecurity"
-    excerpt: "In the right hands, artificial intelligence and machine learning can enrich our cyber defenses. In the wrong hands, they can create significant harm."
-    publishedDateTime: 2021-07-19T10:00:00Z
-    webUrl: "https://www.darkreading.com/application-security/7-ways-ai-and-ml-are-helping-and-hurting-cybersecurity/a/d-id/1341498"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 54
-    images:
-      - url: "https://img.deusm.com/darkreading/Edge/602x250_toon-june2021.jpg"
-        width: 602
-        height: 250
-        isCached: true
 
 secured: "/lI587b8o7KzHzu3D17naY+bRc0kQSfyFCRNq/dl2ms8sdXmUNz2+9hOgQWPn0sfeZXyJvWs5UK7LOALJvk1qebqTd5VHBmXAL5OBitcsJRsQw/04qttAyA87fcRXuyoYpCK1mpPOTYksr5w9z4CiUYougdHKEZa2XJenfYO0ZvB2acynzQrcc57ozmCa8zIdBhM/3qnvDf0sKpscVBMIjUIcBp011t7bx7szofcCSamwB5aPLoHXqlhJMlHonrOcn+HdxG1QpFkr4dLVOxyqMvs4gSLS6qh1q73DFHkFs+9HsPC7JXBwIx8+S3MpGqgp+ceOsU1T2Jdx90zOcMgOUXkQ+cJB+La/vr5yHehN7eaKkXEV02oOVicLGGXN5IElo9xFQlmcBKuoYtGyungGKLBNZB666ISYiVb3WuR7aZN6+G1k3UI0YHqVn7fcOpNguz3RD6HKtutyfct6L57/qvi3GmkSI7IGPRBPBiqq0zW6MgwQV0WgFEp/gjcY6vIx3CJgr0VVqkgyJGcUvMgJg==;oTK+dLD6NIPpFM0UDgIGyQ=="
 ---

@@ -41,17 +41,17 @@ related:
         isCached: true
   - title: "How facial recognition went from bad TV to Big Brother"
     excerpt: "You might not see it, but it sees you. CNN's Jon Sarlin explores the brave new world of facial recognition technology."
-    publishedDateTime: 2021-07-23T17:11:00Z
-    webUrl: "https://www.waaytv.com/content/news/574905042.html"
+    publishedDateTime: 2021-07-23T18:40:00Z
+    webUrl: "https://kyma.com/videor/2021/07/23/how-facial-recognition-went-from-bad-tv-to-big-brother/"
     type: article
     provider:
-      name: WAAY-TV
-      domain: waaytv.com
+      name: KYMA
+      domain: kyma.com
     quality: 39
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200228162112-facial-recognition-sarlin-live-video.jpg"
-        width: 576
-        height: 324
+      - url: "https://kyma.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
+        width: 2500
+        height: 1663
         isCached: true
 
 secured: "+xDQFQufDc4yZmUtCLpHi5Qwc5BAC4XNzURO2UJN1ew+VNkh4aTCvBQKonJzLaNO2umRgYbhokp5BPe+RJSqWcg4ogKKlygUnhjUDSSQsqtaNqKbkZ3QCQ82bGlL1k0UT7GBjAwMOniiA0NoTspNNi48nDKD0QtaOG+dusr3zL+fVEhVHAerUezYaSR4RRxdyaDte3Yn0SFOppgLws9l07ZXWK4fR7Cp54iRI0ULqWqpx6SOCFgZnHXgyIgfvc6QAnN2/HJiT4EvIAY9CeQB+cpHANRE4jNmKL5we8YLghQ4dcIx7xIFBXBrsW3kB3gUzsYOiYjdhEbEkV0pezRaGRvNwXsaJSaPndCQDofiRa+OIR3M1uqYfbDFNxiYblZQeKcnsDVj13C8ENahcUYxySyrgEwuPLleIPyeWKfsN5EdLkcAZBhpGDqqXeQXiOQYAi7meuq5tEQEZBGT27vy9QJ1FmlzLJWEgLomvManvXOrqgdqODqu/7iQTtfvK3zwnO77NcTligqUfEc/8Ah6hQ==;zzZirAKZyaSZ375hw6gnBg=="

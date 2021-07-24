@@ -48,17 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence chipset Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial intelligence chipset chipset market is expected to grow at a significant CAGR in the period from 2021 to 2027 The use of AI for enhancing customer services and decreasing operational costs the rising number of AI applications increased"
-    publishedDateTime: 2021-07-19T10:53:00Z
-    webUrl: "https://www.openpr.com/news/2331459/artificial-intelligence-chipset-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2331459/artificial-intelligence-chipset-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331459/artificial-intelligence-chipset-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
   - title: "Global Face Recognition Terminal Market Growth 2021-2026"
     excerpt: "Pages Report] Check for Discount on Global Face Recognition Terminal Market Growth 2021-2026 report by LP Information INC. According to this latest study, the 2021 growth of"
     publishedDateTime: 2021-07-19T12:36:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-07-machine-breakthrough-satellite-i
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-machine-breakthrough-satellite-images-human.amp"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Research Breakthrough: Artificial Intelligence (AI) Can Now Use Its Imagination"
-    excerpt: "Researchers at the University of Southern California (USC)  are helping the use of Artificial Intelligence (AI) imagine what has not"
-    publishedDateTime: 2021-07-19T11:01:00Z
-    webUrl: "https://techbooky.com/ai-that-can-imagine/"
-    ampWebUrl: "https://techbooky.com/ai-that-can-imagine/?amp=1"
-    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/ai-that-can-imagine/?amp=1"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 70
-    images:
-      - url: "https://techbooky.com/wp-content/uploads/2021/07/444090C5-86E3-4A93-9928-5383E9896D53.jpeg"
-        width: 1028
-        height: 578
-        isCached: true
   - title: "A machine learning breakthrough: using satellite images to improve human lives"
     excerpt: "New machine learning technology has devised a machine learning system to tap the problem-solving potential of satellite imaging. The low-cost, easy-to-use technology could bring satellite image access and analytical power to researchers and governments worldwide."
     publishedDateTime: 2021-07-20T17:12:00Z

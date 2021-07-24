@@ -27,17 +27,17 @@ images:
 related:
   - title: "How facial recognition went from bad TV to Big Brother"
     excerpt: "You might not see it, but it sees you. CNN's Jon Sarlin explores the brave new world of facial recognition technology."
-    publishedDateTime: 2021-07-23T17:11:00Z
-    webUrl: "https://www.waaytv.com/content/news/574905042.html"
+    publishedDateTime: 2021-07-23T18:40:00Z
+    webUrl: "https://kyma.com/videor/2021/07/23/how-facial-recognition-went-from-bad-tv-to-big-brother/"
     type: article
     provider:
-      name: WAAY-TV
-      domain: waaytv.com
+      name: KYMA
+      domain: kyma.com
     quality: 39
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200228162112-facial-recognition-sarlin-live-video.jpg"
-        width: 576
-        height: 324
+      - url: "https://kyma.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
+        width: 2500
+        height: 1663
         isCached: true
   - title: "Police removed 218,000 photos from facial recognition database last year"
     excerpt: "The Dutch police removed over 218 thousand photos from its facial recognition database last year, the National Unit announced with the annual figures for 2020. This is the first time the police gave any indication of the number of photos that were unjustly in the face database,"

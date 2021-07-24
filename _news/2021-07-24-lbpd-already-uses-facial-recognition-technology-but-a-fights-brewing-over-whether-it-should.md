@@ -28,12 +28,17 @@ related:
   - title: "USA: Facial recognition in use at major chains without customer knowledge"
     excerpt: "From Macy’s to Ace Hardware, facial recognition is already everywhere”, 15 July 2021. Some of the US’s most popular stores — including Macy’s and Ace Hardware — are using facial recognition on their customers,"
     publishedDateTime: 2021-07-23T21:39:00Z
-    webUrl: "https://www.business-humanrights.org/zh-hans/最新消息/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/"
+    webUrl: "https://www.business-humanrights.org/en/latest-news/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/"
     type: article
     provider:
       name: 洗護用品和肥皂
       domain: business-humanrights.org
-    quality: 33
+    quality: 53
+    images:
+      - url: "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg"
+        width: 788
+        height: 488
+        isCached: true
   - title: "From Macy’s to Albertsons, Facial Recognition is Already Everywhere"
     excerpt: "US's most popular stores — including Macy's and Albertsons — On July 14, Fight for the Future helped launch a nationwide campaign to document which of the country's biggest retailers are deploying facial recognition,"
     publishedDateTime: 2021-07-20T14:43:00Z

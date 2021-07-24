@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Razorpay Acquires Lending Startup, TERA Finlabs; Strengthens Its B2B Credit Infrastructure"
-    excerpt: "The country’s leading full stack financial solutions company, Razorpay, today announced its acquisition of TERA Finlabs, an AI-based risk tech SaaS Platform, for an undisclosed amount. TERA Finlabs is a Bengaluru-based startup that provides technology,"
-    publishedDateTime: 2021-07-19T09:43:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/razorpay-acquires-lending-startup-tera-finlabs-strengthens-its-b2b"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 12
-    images:
-      - url: "https://financialit.net/sites/default/files/razorpay-the-new-epayment-that-will-break-everything-in-2019.png"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Razorpay acquires lending startup TERA Finlabs"
     excerpt: "TERA Finlabs is an Indian subsidiary of GAIN Credit, a leading UK digital lender which was launched in 2018 to expand their global footprint in digital lending. This marks the company's third acquisition after foraying into the B2B SME lending space with the launch of Razorpay Capital in 2019,"
     publishedDateTime: 2021-07-19T11:30:00Z

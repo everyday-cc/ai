@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/377845"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377845"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Edtech startup Braingroom raises Rs 1.5 cr from IAN, Social Alpha, Startup Oasis"
-    excerpt: "Braingroom, a multilingual online learning platform focused on students from lower and middle-income families, has raised Rs 1.5 crores from IAN. Social Alpha and Startup Oasis joined the round. The Chennai-based startup will use the funding to develop new courses and content in different languages and new product features."
-    publishedDateTime: 2021-07-19T09:36:00Z
-    webUrl: "https://www.freepressjournal.in/business/edtech-startup-braingroom-raises-rs-15-cr-from-ian-social-alpha-startup-oasis"
-    ampWebUrl: "https://m.freepressjournal.in/article/business/edtech-startup-braingroom-raises-rs-15-cr-from-ian-social-alpha-startup-oasis/45ff8784-ad90-4a35-b0dc-35ed633c4512"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/edtech-startup-braingroom-raises-rs-15-cr-from-ian-social-alpha-startup-oasis/45ff8784-ad90-4a35-b0dc-35ed633c4512"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 52
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-07/afe751cb-0e9f-4d64-830f-c97dcc224eff/education.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "maLadMut7b0jafP5g6IFNuMBQ+bIjEl0lDZl5YOlmubgA5OUBPg1gh9HqW2YB1ezXlFTN80EpBpeymRY0XUgF8TQShY8DjgfeATRFNSJW6Ka75g0dFKxJPJG0U2T2n5CB1oO3t2f0TknLV9xCDzovmwjaLQY4ACz9Tjadug1u4WBEg34p7SF8+Dd/96vckDf3IGuya2oQEOYKlKSNu+BQ0cht5+eee/ydbRLcdF1Cr+qFWsT64mngv6d0RQg5ROad34qbVuu6Wp7us1MIR16nYtTY5aCMg/3ToG50P36eb+0a23Y+hw29PWaUA+O47afuVWR2ANzp5z1C9ZDCLGVmvLuT+XOVDiXWY0nQcaO6cVZipnw86uK8GFuMuHqGjLqPopzE0Wb/fithf3x7KmKnS2SevC6i2rt3dXV+4U3JGHP0aAHRmJS8+zJy3TIgRwo2UF2hHa9+gSahrWqJWpV0YZ+8Ee7zSf4tPCysFNoAu5+SFq3Yi1ik2UWw+W9DG/GUYovyZTZL4cvoupY3t37iA==;M3Epvp4q68gZwTAPW3vw4A=="
 ---
