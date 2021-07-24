@@ -56,15 +56,6 @@ related:
         width: 837
         height: 471
         isCached: true
-  - title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-    excerpt: "Alphabet Inc's GOOGL.O secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
-    publishedDateTime: 2021-07-23T13:35:00Z
-    webUrl: "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "Alphabet to launch robotics firm Intrinsic"
     excerpt: "Alphabet Inc's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic"
     publishedDateTime: 2021-07-24T14:00:00Z

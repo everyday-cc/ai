@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
-excerpt: "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he ha"
+excerpt: "By Rachel Metz, CNN Business After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for"
 publishedDateTime: 2021-07-23T17:31:00Z
-originalUrl: "https://cbs58.com/news/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims"
-webUrl: "https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
+originalUrl: "https://keyt.com/news/money-and-business/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
+webUrl: "https://keyt.com/news/money-and-business/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
 type: article
-quality: 151
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: CBS 58
-  domain: cbs58.com
+  name: KEYT
+  domain: keyt.com
 
 topics:
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200209224400-20200209-facial-recognition-gfx-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://keyt.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
+    width: 2500
+    height: 1663
     isCached: true
 
 related:
@@ -60,6 +58,6 @@ related:
         height: 382
         isCached: true
 
-secured: "Nd73rtoUBZQug/PE9ejRS9cv0kfYP0ss7NCAlKqaNkqwEAKVR0c/pUjXGsBdca8B+Vaz6AiM3wcD+g8ijCOtRxetrZ9YYD43Ac4uIBSmD3D+mINHJpdRFHcqiuSF4YpeFDumtGIEz3QqwWd9o++wbB359Y1eltQ90O3D92td/+49XYSlMLYxlGZAVCK4//QQnLLWhD1qLW+JYAOXstX3H+9cqLiQF2DHEpHVL8WAYHJhyMhOa3WYZ/7uWV4uwuWBr6p6BVbkGLpHPrneFy9B3obUutZJTuo/GJb5ZltkF3EQrDBrx6CpIdav/ymcCMLYxq/EkYed56t5/hddevB5N8aNOSSQ1Es7Hms2JWdgeMXz0YHGRfZIljWW32P26bY0NYZBpbKu5tLpw4cW5y8ZNbcSonKfPzlrgCp8ta/UIeqCpeeGYEMtv3559n2ibcj2Vz4NHIovp2z9SUPwlOUGYIPBOYhAyABK82U2xZ3Kl1fPq4nOeec/16j4DvQhiVr0vzT5JDg6lre6jca3fgVrtNrXzf3cNIy60igz41Ujw1A=;7mOukj51ppqGYb0nZobr/A=="
+secured: "udZNHivWTob8ZMAFcitU9TAyEwQKnW3KZ6wlwYTlDu0z/jC68So4g3N1ClZ1ieol/4OnHg6XokDn5kmWhIP40TMOiTvPGIkJfR84Bu0xgWTINsCht4QvMw3/PeG1RXxI/d7SKPXFUau7ZJ7a8cL0QNKQGqyKfhmHoi+v2uFxAM8kcgG873pxT9FELzqzciZ9o9vpv2eXa7uAHQwzFhQV8wKY2Qrd9sMTv7X0/Dv7HMaHieaEuRw4R0yIs78pWvWp21QcTvheD/l8vjKebuMS0EnlS43MT08GgyRndo4WMb8r6zxZk6WBHHj83RBXb2Jw46sTEFso+iX5SZf9bpeOCXPRIbM/r+mV8uK4z9KE9js=;myF50WRPd5bxgHxsCIddcA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_226923548/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_226923548/"
 type: article
 quality: 59
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -165,22 +165,6 @@ related:
       - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Fintech TrueAccord Says Financial Tech Firms are “Rethinking” Approach to Existing Problems to Build Better Solutions"
-    excerpt: "Fintech TrueAccord says financial tech firms are \"rethinking\" approach to existing problems to build better solutions."
-    publishedDateTime: 2021-07-20T03:21:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/07/178024-fintech-trueaccord-says-financial-tech-firms-are-rethinking-approach-to-existing-problems-to-build-better-solutions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/178024-fintech-trueaccord-says-financial-tech-firms-are-rethinking-approach-to-existing-problems-to-build-better-solutions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/178024-fintech-trueaccord-says-financial-tech-firms-are-rethinking-approach-to-existing-problems-to-build-better-solutions/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 21
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2014/09/Money-Coins-Nickel-Penny--300x210.jpeg"
-        width: 300
-        height: 210
         isCached: true
   - title: "Top UK fintech Napier opens new office in Dubai amid global growth"
     excerpt: "Provider of advanced anti-financial crime compliance solutions announces expansion to Dubai International Financial Centre"

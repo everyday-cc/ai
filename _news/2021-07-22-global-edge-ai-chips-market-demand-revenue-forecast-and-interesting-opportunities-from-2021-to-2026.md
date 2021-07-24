@@ -203,6 +203,17 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "AI in Fintech Market Size, Revenue Share, Drivers & Trends Analysis, 2016–2026 | Reports And Data"
+    excerpt: "The global AI in Fintech Market is forecast to reach USD 26.77 Billion by 2026, according to a new report by Reports and Data. The AI in fintech incorporates computational power and deep learning algorithms to the financial technology."
+    publishedDateTime: 2021-07-21T11:11:00Z
+    webUrl: "https://www.globalbankingandfinance.com/ai-in-fintech-market-size-revenue-share-drivers-trends-analysis-2016-2026-reports-and-data/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/ai-in-fintech-market-size-revenue-share-drivers-trends-analysis-2016-2026-reports-and-data/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ai-in-fintech-market-size-revenue-share-drivers-trends-analysis-2016-2026-reports-and-data/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 26
   - title: "Global Face Recognition Ststems Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Face Recognition Ststems Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Ststems Market"
     publishedDateTime: 2021-07-21T06:38:00Z

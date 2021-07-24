@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots
 webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22"
 type: article
 quality: 82
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market Size, Share, Status and Forecasts 2021 – 2028"
+    excerpt: "The Deep Learning market research report assesses the global Deep Learning Market industry market and includes sales and capacity forecasts for the anticipated period 2021-2028. The factors driving the growth of the industry are highlighted in the report."
+    publishedDateTime: 2021-07-21T01:11:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-market-size-share-status-and-forecasts-2021-2028/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 19
   - title: "Artificial Intelligence Chipsets Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Artificial Intelligence Chipsets Market size is expected to grow at an annual average of 35 during 2021 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the continuous advancement of technology Due"
     publishedDateTime: 2021-07-20T13:16:00Z

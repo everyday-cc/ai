@@ -39,20 +39,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Machine learning models to help photovoltaic systems find their place in the sun"
-    excerpt: "Although photovoltaic systems constitute a promising way of harnessing solar energy, power grid managers need to accurately predict their power output to schedule generation and maintenance operations efficiently."
-    publishedDateTime: 2021-07-20T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-07/inu-mlm072021.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 49
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/271049_web.jpg"
-        width: 700
-        height: 875
-        isCached: true
 
 secured: "BfwNalff0vykmPPRNit7M74l2YB6tOkS+0GP06JoVFr9ItM4RIhHn+usHhbPr8lv2RqnbPQqFA8Air3foM69afhKt3nDC2sXlYaDknS9J0eZFowIJQaq91QoLQyb/6mRp0bvYqKN5XPDJwNsfiHbwTruWeY/BBwu6Fx6zmJhh7oA8OaikH7AGUd977+BHcinTMjFfi3hchITpRWULw5opd+UgMxHyuKkkhsYNCgx7XjSidPHUdnR+1Kx/YZIBE0EXAzXWZLi2z24wU2ceeARaTF8/XOmuCDoyGzo/La8YltcMosqd0e3tfenpAKwWxG0MUl/oPzz1B6005+R45+ITohdKgKXgVKhxtRylW9RefU=;VZnE3gJjd6sAXqlInLJgRQ=="
 ---

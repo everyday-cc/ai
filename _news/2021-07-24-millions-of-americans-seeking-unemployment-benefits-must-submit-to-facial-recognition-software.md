@@ -44,20 +44,18 @@ related:
         height: 619
         isCached: true
   - title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
-    excerpt: "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he ha"
+    excerpt: "By Rachel Metz, CNN Business After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for"
     publishedDateTime: 2021-07-23T17:31:00Z
-    webUrl: "https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
+    webUrl: "https://keyt.com/news/money-and-business/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
     type: article
     provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 151
+      name: KEYT
+      domain: keyt.com
+    quality: 31
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200209224400-20200209-facial-recognition-gfx-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://keyt.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
+        width: 2500
+        height: 1663
         isCached: true
 
 secured: "6s8bWPl9HyQtDmsdhH60X9xUzlNVTobOYDmxN6nbNKYX9OvOWOB/xFslIrHlGVEzk1ARC333W6i1+642GjnePMa8DiFtJdRUTjDOQ+/4UCjrTnV9mpfdshmfzfHq9bcYcbB/T8f8ob6IMtkOQ0CPZFaN8vXPqSRyzXHJBGKvsaF/08vYOoAY4BVcQDhkZIxKp6IGgDM+st63Y8LTjnEm9sFvaJoiAcCeUWeNtEFBCFOwNseSnYfNEfuQ/ibIWgdy6iifhRKI0+hsieM1Hp0f1SBvI2qTR6wjNJ9ysbgG5wgw+5N74TxWkD4vGUpmPTVABmoi3pJ1q8/sdn4vZZ+rY+mKx3/8VizCfDpL9J5GNWw=;i3lJDTn2nRxYnHD8Y5snEQ=="

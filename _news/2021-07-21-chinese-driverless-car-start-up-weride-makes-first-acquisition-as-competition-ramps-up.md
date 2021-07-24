@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquis
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html"
 type: article
 quality: 181
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding attitudes to driverless cars"
-    excerpt: "A team at Cardiff University are using a state-of-the-art driving simulator to observe and measure how humans interact with autonomous vehicles."
-    publishedDateTime: 2021-07-20T03:02:00Z
-    webUrl: "https://www.canon.co.uk/view/driverless-cars-cardiff-university/"
-    type: article
-    provider:
-      name: Canon
-      domain: canon.co.uk
-    quality: 39
-    images:
-      - url: "https://i1.adis.ws/i/canon/GARRIOTT_RELATED-ca2f623a-990a-11eb-8fcd-1866da15d780?w=556&qlt=70&fmt=jpg&fmt.options=interlaced&bg=rgb(255,255,255)"
-        width: 556
-        height: 390
-        isCached: true
   - title: "What driverless cars tells us about industrial policy"
     excerpt: "Amid nationalist-populist calls for industrial policy, autonomous vehicles serve as a reminder that bureaucrats don't have the knowledge to assess critical industries and pick winners."
     publishedDateTime: 2021-07-20T18:59:00Z

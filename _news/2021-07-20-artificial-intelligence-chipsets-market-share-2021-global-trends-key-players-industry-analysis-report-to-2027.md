@@ -92,6 +92,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market Size, Share, Status and Forecasts 2021 – 2028"
+    excerpt: "The Deep Learning market research report assesses the global Deep Learning Market industry market and includes sales and capacity forecasts for the anticipated period 2021-2028. The factors driving the growth of the industry are highlighted in the report."
+    publishedDateTime: 2021-07-21T01:11:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-market-size-share-status-and-forecasts-2021-2028/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 19
 
 secured: "STKM8O2nUqHlHJq0UgrzxG2vo0PZ6qlVcXmC+y4DEveM9Vuz3TnAMMCh+uRFrYMPPmxGVxkziLS1PVbG0suIawlJun6KETmnhOBwIWO+N1c9mK8baRgxJTDA9+VID7YBBDu88F9vbqMXEJaKO3WVAMMq+TXGqzQGHDI8R7FqsxW/E4TVfZfvSgRfgPDOXB02kmBtb0bs5dm4bZSbecaKNfqbpRGHHM56zH20rf25El3sWgiuWg1/VJ2KM5btatoUwHkFgMMZEBzbgfub5cwclJBSRbbQzSyFpHW9LNPcWR7nJG3HnChe6c6PLwbThUai9+bNcfFpN04SfgYDhePlOu1fU8V5MSDKkbW+Ht0Ksb4=;9sP5kCymwJ3B+5zB3qAOVg=="
 ---
