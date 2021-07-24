@@ -9,8 +9,8 @@ ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-a
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: The National Law Review
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watson as a Warning: Current Limits and Promise of AI"
-    excerpt: "Last week the New York Times ran a cautionary tale about how IBM tried and failed to use its heavily branded AI solution called Watson to transform the business world and solidify IBM’s future."
-    publishedDateTime: 2021-07-20T00:00:00Z
-    webUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai"
-    ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 74
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
   - title: "IBM Watson Health’s stumble and possible fall"
     excerpt: "Telehealth and Telecare News since 2005"
     publishedDateTime: 2021-07-21T02:19:00Z

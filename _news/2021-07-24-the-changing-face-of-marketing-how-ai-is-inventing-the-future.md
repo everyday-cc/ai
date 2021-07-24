@@ -27,37 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Four ways to unlock marketing return on investment with machine learning"
-    excerpt: "Despite the emphasis placed on data-driven marketing over the past decade, 54% of senior marketing practitioners reported in a 2020 Gartner survey that their organisations’ investment in marketing analytics hasn’t had the expected impact."
-    publishedDateTime: 2021-07-21T05:00:00Z
-    webUrl: "https://www.businesslive.co.za/redzone/news-insights/2021-07-21-four-ways-to-unlock-marketing-return-on-investment-with-machine-learning/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/redzone/news-insights/2021-07-21-four-ways-to-unlock-marketing-return-on-investment-with-machine-learning/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/redzone/news-insights/2021-07-21-four-ways-to-unlock-marketing-return-on-investment-with-machine-learning/"
+  - title: "Why AI Is Pushing Marketing Professionals To Reinvent Themselves"
+    excerpt: "A Five-Stage Road Map to Implementing Artificial Intelligence in Marketing,\" shares insight on how marketers must upskill to address the changing marketing landscape."
+    publishedDateTime: 2021-07-24T16:10:00Z
+    webUrl: "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/"
+    ampWebUrl: "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/amp/"
     type: article
     provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 75
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://lh3.googleusercontent.com/lD8iSUytXbPrgorJ9DcxbWKVsgkDPX91C2V5md1kUWGsvbFGf2IYIiSkdWZyjDee9vb09kNbtMlobkeXnreM5vuem_GhExA=s1000"
-        width: 1000
-        height: 547
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f38130a051e8692ab4358e%2F0x0.jpg"
+        width: 1200
+        height: 720
         isCached: true
-  - title: "AI investing: Why more and more people are turning to robot-led investments"
-    excerpt: "THE VERY first robo-advisor launched in 2008 initially to rebalance assets after the Great Recession, but in 2020 this AI held $987 billion of managed client assets worldwide."
-    publishedDateTime: 2021-07-21T14:01:00Z
-    webUrl: "https://www.express.co.uk/finance/personalfinance/1465716/investing-robo-advisors-ai-investments"
-    ampWebUrl: "https://www.express.co.uk/finance/personalfinance/1465716/investing-robo-advisors-ai-investments/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/finance/personalfinance/1465716/investing-robo-advisors-ai-investments/amp"
+  - title: "4 Practical Ways to Use AI in Marketing (& Why You Need To)"
+    excerpt: "We’re more than halfway through 2021 and by now, most marketing teams are heavily reliant on growth/digital marketing, and"
+    publishedDateTime: 2021-07-20T15:00:00Z
+    webUrl: "https://www.business2community.com/online-marketing/4-practical-ways-to-use-ai-in-marketing-why-you-need-to-02420037"
+    ampWebUrl: "https://www.business2community.com/online-marketing/4-practical-ways-to-use-ai-in-marketing-why-you-need-to-02420037/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/online-marketing/4-practical-ways-to-use-ai-in-marketing-why-you-need-to-02420037/amp"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 72
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 74
     images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/23/590x/Robot-placing-coins-in-a-stack-1465716.jpg?r=1626876086664"
-        width: 590
-        height: 350
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/07/benefits-ai-marketing-artificial-intelligience.png"
+        width: 715
+        height: 292
         isCached: true
 
 secured: "JkC1U79/+ZgONxqyJREmUXNjjl1kW2HmM7VhfQutE4rJ5IRtmvvm5KVWHH1t7pzPaFa5vw/0PzvT23h+BCYftlMExLyq+Z3+KdoFqdHUMGnTyGmUZnGmLV5rNTTuXciBhh9ecI4Y6N/lO8yS93t9blPO7lTbTUw7sv1a3qcTsAF96HBS/8x8V75Fd3TRtLakvZ1GlcWClYXKtbSK48W7O/JdLPrXJGjaMp1Ivm1eAkK+UTppEHYkPgvGVFcKK3VQbnbv1iKuh2zac03c9qdcBDijEJlKr1EbXFrsCbiJBVDebi8Cwice5y47O0YfqhggDKxkElpS+9PbsIPDxhS/37d8ItCHseTyHRF/dEYu5js=;QKrJazUNvzX7Jss9QTeklg=="

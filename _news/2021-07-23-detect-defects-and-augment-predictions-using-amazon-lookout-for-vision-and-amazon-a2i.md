@@ -57,36 +57,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "Face-Recognition Amazon Tech Under Fire From Lawmakers"
-    excerpt: "The controversial artificial intelligence software, called Rekognition, scans images and videos to identify objects, emotions, people, text and activities, according to the Seattle-based company’s website. Amazon, which runs Rekognition on its servers ..."
-    publishedDateTime: 2021-07-20T00:00:00Z
-    webUrl: "https://www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/"
-    ampWebUrl: "https://www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/amp/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/amp/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 44
-    images:
-      - url: "http://courthousenewswebsite.kinsta.cloud/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "Facial Recognition Tech Opposition Increases"
-    excerpt: "As more stores install facial recognition software to reduce theft and increase security, opposition to the technology is growing, Axios reports. Recently, more than 30 advocacy organizations started a campaign to get retailers to halt usage of facial recognition technology or to agree not to use it."
-    publishedDateTime: 2021-07-20T00:00:00Z
-    webUrl: "https://www.pressreleasepoint.com/facial-recognition-tech-opposition-increases"
-    type: article
-    provider:
-      name: KLAS Press Release
-      domain: pressreleasepoint.com
-    quality: 39
-    images:
-      - url: "http://www.convenience.org/CMSPages/GetFile.aspx?guid=c52b3102-a540-4b69-b4c8-8ec8c4769b4b"
-        width: 770
-        height: 320
-        isCached: true
   - title: "The Cognitive Psychology of Rules of Interpretation in International Law"
     excerpt: "While Articles 31 and 32 of the Vienna Convention on the Law of Treaties (VCLT) prescribe the rules of interpretation for international treaty law as “disciplining rules,” the rules of interpretation themselves are understudied from a cognitive ..."
     publishedDateTime: 2021-07-20T12:48:00Z

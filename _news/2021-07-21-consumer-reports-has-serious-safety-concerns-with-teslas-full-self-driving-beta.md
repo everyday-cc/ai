@@ -115,22 +115,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Wanna Drop Some FSD? Tesla’s “Self-Driving” Tech Available for $99/Month"
-    excerpt: "The subscription model is available for owners of Tesla models running the company's Full Self-Driving computer 3.0 or newer hardware and the brand's Autopilot function. Tesla started placing FSD computer 3."
-    publishedDateTime: 2021-07-20T00:15:00Z
-    webUrl: "https://www.motortrend.com/news/tesla-fsd-full-self-driving-subscription-price/"
-    ampWebUrl: "https://www.motortrend.com/news/tesla-fsd-full-self-driving-subscription-price/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-fsd-full-self-driving-subscription-price/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 73
-    images:
-      - url: "https://st.motortrend.com/uploads/sites/5/2021/06/2022-Tesla-Model-S.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Tesla’s Auto Shift coming to all Full Self Driving models, confirms Elon Musk"
     excerpt: "Tesla CEO Elon Musk has said that all Tesla cars with ‘Full Self-Driving' (FSD) abilities will have the Auto Shift function as an option.  For those that don’t know, Auto Shift is a feature for Teslas that allow the electric cars to drive with some level of autonomy,"
     publishedDateTime: 2021-07-20T11:17:00Z

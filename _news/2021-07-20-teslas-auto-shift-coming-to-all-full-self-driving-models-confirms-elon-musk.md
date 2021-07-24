@@ -121,22 +121,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Wanna Drop Some FSD? Tesla’s “Self-Driving” Tech Available for $99/Month"
-    excerpt: "The subscription model is available for owners of Tesla models running the company's Full Self-Driving computer 3.0 or newer hardware and the brand's Autopilot function. Tesla started placing FSD computer 3."
-    publishedDateTime: 2021-07-20T00:15:00Z
-    webUrl: "https://www.motortrend.com/news/tesla-fsd-full-self-driving-subscription-price/"
-    ampWebUrl: "https://www.motortrend.com/news/tesla-fsd-full-self-driving-subscription-price/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-fsd-full-self-driving-subscription-price/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 73
-    images:
-      - url: "https://st.motortrend.com/uploads/sites/5/2021/06/2022-Tesla-Model-S.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Tesla lowers the price of its 'Full Self-Driving' computer upgrade"
     excerpt: "After criticism from owners, Tesla has reduced the price of a computer update required for its new \"Full Self-Driving\" (FSD) feature.."
     publishedDateTime: 2021-07-21T09:44:00Z

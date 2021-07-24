@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Fintech Is Helping To Streamline Businesses Financial Operations"
+    excerpt: "It is especially common when the economy is unstable. Fintech makes things better. It uses machine learning and AI algorithms to understand and detect your business finance patterns over time. If anything seems incorrect or unusual, it is flagged down for ..."
+    publishedDateTime: 2021-07-24T16:19:00Z
+    webUrl: "https://techbullion.com/how-fintech-is-helping-to-streamline-businesses-financial-operations/"
+    ampWebUrl: "https://techbullion.com/how-fintech-is-helping-to-streamline-businesses-financial-operations/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-fintech-is-helping-to-streamline-businesses-financial-operations/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/07/Businesses-Financial-Operations.png"
+        width: 960
+        height: 528
+        isCached: true
   - title: "Indian fintech major Razorpay acquires digital lending firm TERA Finlabs"
     excerpt: "Fintech firm Razorpay has acquired TERA Finlabs, a startup involved in providing businesses with embedded financial solutions"
     publishedDateTime: 2021-07-20T15:24:00Z

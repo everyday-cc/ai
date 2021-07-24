@@ -43,22 +43,6 @@ related:
         width: 1000
         height: 547
         isCached: true
-  - title: "The Changing Face of Marketing: How AI is Inventing the Future"
-    excerpt: "Artificial intelligence is changing the way we do marketing, and it’s happening faster than we think. From voice assistants"
-    publishedDateTime: 2021-07-23T20:00:00Z
-    webUrl: "https://www.business2community.com/marketing/the-changing-face-of-marketing-how-ai-is-inventing-the-future-02420818"
-    ampWebUrl: "https://www.business2community.com/marketing/the-changing-face-of-marketing-how-ai-is-inventing-the-future-02420818/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/marketing/the-changing-face-of-marketing-how-ai-is-inventing-the-future-02420818/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 74
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/07/markus-winkler-tGBXiHcPKrM-unsplash-900x600.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "2Kgss6S9N+pZHTKtAM2xCecn41nZXZ7ed2NS1lCx8GXnWqvZ7f277BzJp9gnHwuRHSJU4p1wXWBpuRocxMbpg890oDQJ3qNpPpzkHlbZTfTMeJ+F2rGL0WJRvx/Phe9VVcdgvmGE0snBDID22LAJF+WD/856F/Iet9lhEbgVjLwA0E+svyXG9StOBQJhWvUfFN4I8eX4LRynLDS931IvmLK92fk0ARcsx13otRNFfF5clj/H/P7aQLMOvr6j7G4WtuwUD7eU7OltFCuGHpXfAJZ6jv537VA3IvMI07Ajpaye94mHal9GC3sOBmnabGPGsMYzPzGHdDc7CrA0BJ15Pih71DQqozItdJ+Ogh2RbVgKYp5htRKd/SBFwwjrYRuguEBAq9Yuomcjhjp01cwLWeIlJ5H5K/W2A3mgfeaR9ahZUY7+v+UoQlyq2Ho6a41JQfJH+t2QG73YxtmQMCHra2imo6axuqQtaQIxp+s9UZmibDHNJlyAd52T6LPdPnuYIfPNoT6ZMigZ0kG3Dba/Yg==;Ld6MaxDY6SD7z8d1o9/M0w=="
 ---

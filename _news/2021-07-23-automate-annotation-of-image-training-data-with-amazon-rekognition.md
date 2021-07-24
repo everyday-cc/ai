@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automate-annotation-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-annotation-of-image-training-data-with-amazon-rekognition/"
 type: article
 quality: 121
-heat: 172
+heat: 152
 published: true
 
 provider:
@@ -57,36 +57,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/23/thumbnail-1.png"
         width: 593
         height: 397
-        isCached: true
-  - title: "Face-Recognition Amazon Tech Under Fire From Lawmakers"
-    excerpt: "The controversial artificial intelligence software, called Rekognition, scans images and videos to identify objects, emotions, people, text and activities, according to the Seattle-based company’s website. Amazon, which runs Rekognition on its servers ..."
-    publishedDateTime: 2021-07-20T00:00:00Z
-    webUrl: "https://www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/"
-    ampWebUrl: "https://www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/amp/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/amp/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 44
-    images:
-      - url: "http://courthousenewswebsite.kinsta.cloud/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "Facial Recognition Tech Opposition Increases"
-    excerpt: "As more stores install facial recognition software to reduce theft and increase security, opposition to the technology is growing, Axios reports. Recently, more than 30 advocacy organizations started a campaign to get retailers to halt usage of facial recognition technology or to agree not to use it."
-    publishedDateTime: 2021-07-20T00:00:00Z
-    webUrl: "https://www.pressreleasepoint.com/facial-recognition-tech-opposition-increases"
-    type: article
-    provider:
-      name: KLAS Press Release
-      domain: pressreleasepoint.com
-    quality: 39
-    images:
-      - url: "http://www.convenience.org/CMSPages/GetFile.aspx?guid=c52b3102-a540-4b69-b4c8-8ec8c4769b4b"
-        width: 770
-        height: 320
         isCached: true
   - title: "The Cognitive Psychology of Rules of Interpretation in International Law"
     excerpt: "While Articles 31 and 32 of the Vienna Convention on the Law of Treaties (VCLT) prescribe the rules of interpretation for international treaty law as “disciplining rules,” the rules of interpretation themselves are understudied from a cognitive ..."
