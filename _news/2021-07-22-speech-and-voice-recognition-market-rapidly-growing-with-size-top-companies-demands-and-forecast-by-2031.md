@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Organs Market Share, Current and Future Industry Trends with Forecasts 2026"
+    excerpt: "Comprising the current and future trends defining the dynamics of this industry vertical, this report also incorporates the regional landscape of Artificial Organs market in tandem with its competitive terrain."
+    publishedDateTime: 2021-07-20T12:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-organs-market-share-current-and-future-industry-trends-with-forecasts-2026-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Chips Market 2021 Report Presents Complete Summary, Marketplace Shares and Growth Opportunities by 2026"
     excerpt: "Global Artificial Intelligence Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz methodically compiles the principal components of the market study."
     publishedDateTime: 2021-07-19T21:28:00Z

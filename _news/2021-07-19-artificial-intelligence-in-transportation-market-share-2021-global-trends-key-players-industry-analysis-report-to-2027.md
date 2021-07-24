@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Organs Market Share, Current and Future Industry Trends with Forecasts 2026"
+    excerpt: "Comprising the current and future trends defining the dynamics of this industry vertical, this report also incorporates the regional landscape of Artificial Organs market in tandem with its competitive terrain."
+    publishedDateTime: 2021-07-20T12:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-organs-market-share-current-and-future-industry-trends-with-forecasts-2026-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market Rapidly Growing With Size, Top Companies, Demands and Forecast by 2031"
     excerpt: "The latest insightSLICE research report published on Speech and Voice Recognition promises to cede reliable and"
     publishedDateTime: 2021-07-22T07:33:00Z

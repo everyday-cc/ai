@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/interactive/2021/07/23/briefing/the-weeken
 webUrl: "https://www.nytimes.com/interactive/2021/07/23/briefing/the-weekender.html"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Ever Happened to IBM’s Watson?"
-    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net IBM’s artificial intelligence ... on a humbler vision for Watson. SHARE THIS POST Find News"
-    publishedDateTime: 2021-07-19T07:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/what-ever-happened-to-ibms-watson-10340508"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "IBM Watson In Demand"
     excerpt: "Hire' service is posed to grow 30%, driven by Healthcare and Financial Services customers looking for real time data processing."
     publishedDateTime: 2021-07-22T14:19:00Z

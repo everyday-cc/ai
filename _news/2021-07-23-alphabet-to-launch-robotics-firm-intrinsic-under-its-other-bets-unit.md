@@ -49,6 +49,20 @@ related:
         width: 837
         height: 471
         isCached: true
+  - title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
+    excerpt: "Alphabet Inc's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project,"
+    publishedDateTime: 2021-07-24T01:40:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 56
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15280054/16x9/991/557/8aa600f18375888ddef8e65715e2d356/gZ/file-photo--a-sign-is-seen-at-the-entrance-to-the-google-retail-store-in-the-chelsea-neighborhood-of-new-york-city-2.jpg"
+        width: 991
+        height: 557
+        isCached: true
 
 secured: "j0d3kFrvrPBwjufFeL+DC9ZqAuOFkAb7Kw+Er8GSW1F1jcOh+ObH1RgpkL0Ity4bqYW7AsZd2SJQYGKKifLt4waAGfpHaTj6iOKYvHAoeMBJNzb7PooLwKHbVdu+KzbJmQdhijo6s+aRys6Y4phVh3nIE1AFi2cB0S993CgkZD5/9ZzCTkdNLbQyq+o1UOl0lgEYkRchrKE5A9ZCIrVhyQTNqI4xNckMQr9sey5PYEcD5YeIMHjbryTO+BQpng3vL8DHNKDdrIBX5N7gOvykzEdWgw35iWZ4/2hLsmDCV587A9jl99SD8JW4sDrLtxzRaVIw4Z505cMT5UtnjMlWazodebmU/B2ya2l9hzVZiLWWgGtm7Bb5bDKimnnMx0KGLQ7rSM0+IUpYIpxlPV1W68KWT7gf9zh5f8vGDwJsit5gbIP/Dnyyv2CUnesCDEnzCKmlD1u3XVf1bqs4e1497HzymKi7u5fk7OvRJFpZqRVeppEoTktjLriB3Uen1HLIcdmh5JTCPnEmGHvCnssgGA==;s2oNebS+zn0hdEPPLTceWg=="
 ---

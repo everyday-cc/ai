@@ -175,20 +175,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 19
-  - title: "The fintech landscape in Latvia – Interview with the Financial and Capital Market Commission"
-    excerpt: "Marine Krasovska, Director of financial innovation department, FCMC, offers key insights into the Latvia-based fintech"
-    publishedDateTime: 2021-07-19T08:49:00Z
-    webUrl: "https://thepaypers.com/interviews/the-fintech-landscape-in-latvia-interview-with-the-financial-and-capital-market-commission--1250478"
-    type: article
-    provider:
-      name: The Paypers
-      domain: thepaypers.com
-    quality: 13
-    images:
-      - url: "https://thepaypers.com/images/social_media/fintech-socialmedia_LI.png"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Infobird's Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
     excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (“Infobird” or the “Company”),"
     publishedDateTime: 2021-07-20T12:52:00Z

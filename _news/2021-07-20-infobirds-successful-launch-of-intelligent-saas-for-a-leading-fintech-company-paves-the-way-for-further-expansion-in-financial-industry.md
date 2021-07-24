@@ -189,20 +189,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 19
-  - title: "The fintech landscape in Latvia – Interview with the Financial and Capital Market Commission"
-    excerpt: "Marine Krasovska, Director of financial innovation department, FCMC, offers key insights into the Latvia-based fintech"
-    publishedDateTime: 2021-07-19T08:49:00Z
-    webUrl: "https://thepaypers.com/interviews/the-fintech-landscape-in-latvia-interview-with-the-financial-and-capital-market-commission--1250478"
-    type: article
-    provider:
-      name: The Paypers
-      domain: thepaypers.com
-    quality: 13
-    images:
-      - url: "https://thepaypers.com/images/social_media/fintech-socialmedia_LI.png"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "K8s3ZB5ah/FwP8ZpWMBu4edZ3C95BUjRjzDzWdpSO2HQIOvlZJjCyyYN1Y25OVspZB3ffv0iiCLO+WCB0QWOFeN92Bcl68mWX4GKlrRntygEM5kwipUuXmKVx1bczH+YKG4rCFDggxSVvNfM1NttuqL+FTbnPbpGEMj166WC+w9UDmLNKr+UZHxiroxVWal2o9q+1j8a7hrxvWWc+mtTyAmSd58VAc3kCP9DzKf2KgiZieLhwk4+6O3jQWs8uPZykJWpDUHTHgTMd/9Ezxv4P0SNe2nDl2yppxDbihJjDPRw8JrKbU/ZIOccFRcVXfChmERRprSa0wuhXvegJ2+rH8euDvam+/ahSM8rlRG4ndjXfjPbfzo5yxYuez8CHqm2WVx0QHC1rmQptJEh1uCyj57FcjXZMt+ZyCKf+EkNffEX2jvaog18Dk8cs/jtLx8D7Am323ALk2gWHQdT7xClG71IvNngjYdSpoBRM6spf/RzJtzPi3pWIuWQlEJK7Nv26yVaVZTOgiHEZW5DJV9NnA==;zq9gzHxO/z7ZgPQ6tVwLBw=="
 ---

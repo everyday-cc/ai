@@ -187,17 +187,6 @@ related:
         width: 1400
         height: 800
         isCached: true
-  - title: "Tesla full self-driving is not what most people call 'full' self-driving"
-    excerpt: "Tesla has started offering a subscription add-on for its automobiles for so-called self-driving features, though the language is a little confusing. Tesla just announced that it would sell a subscription for an enhanced version of what it calls \"autopilot,"
-    publishedDateTime: 2021-07-19T07:23:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/tesla-full-self-driving-is-not-full-self-driving/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-full-self-driving-is-not-full-self-driving/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-full-self-driving-is-not-full-self-driving/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 68
   - title: "Consumer Reports says Tesla's 'Full Self-Driving' software lacks safeguards"
     excerpt: "Consumer Reports said Tuesday that Tesla Inc's (TSLA.O) \"Full Self-Driving\" software lacks safeguards and raised concerns the system's use on public roads puts the public at risk citing reports from drivers."
     publishedDateTime: 2021-07-20T14:43:00Z

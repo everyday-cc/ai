@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Razorpay acquires TERA Finlabs in push for startup, MSME loans"
-    excerpt: "Razorpay Capital along with TERA Finlab's technology capabilities will be able to service the credit needs of more than 10,000 startups and MSMEs in India by next year, according to a statement."
-    publishedDateTime: 2021-07-19T07:14:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/razorpay-acquires-tera-finlabs-in-push-for-startup-msme-loans/articleshow/84544464.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/razorpay-acquires-tera-finlabs-in-push-for-startup-msme-loans/amp_articleshow/84544464.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/razorpay-acquires-tera-finlabs-in-push-for-startup-msme-loans/amp_articleshow/84544464.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 42
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-569253,msid-84545027/razorpay-co-founder-harshil-mathur.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Razorpay Acquires Embedded Financing Startup TERA Finlabs"
     excerpt: "The Indian payments fintech Razorpay said that it has acquired TERA Finlabs, a startup that provides embedded financing solutions for businesses."
     publishedDateTime: 2021-07-19T17:40:00Z

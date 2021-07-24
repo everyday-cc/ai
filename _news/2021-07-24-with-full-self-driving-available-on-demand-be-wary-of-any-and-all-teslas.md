@@ -183,17 +183,6 @@ related:
         width: 1400
         height: 800
         isCached: true
-  - title: "Tesla full self-driving is not what most people call 'full' self-driving"
-    excerpt: "Tesla has started offering a subscription add-on for its automobiles for so-called self-driving features, though the language is a little confusing. Tesla just announced that it would sell a subscription for an enhanced version of what it calls \"autopilot,"
-    publishedDateTime: 2021-07-19T07:23:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/tesla-full-self-driving-is-not-full-self-driving/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/tesla-full-self-driving-is-not-full-self-driving/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/tesla-full-self-driving-is-not-full-self-driving/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 68
   - title: "Consumer Reports says Tesla's 'Full Self-Driving' software lacks safeguards"
     excerpt: "Consumer Reports said Tuesday that Tesla Inc's (TSLA.O) \"Full Self-Driving\" software lacks safeguards and raised concerns the system's use on public roads puts the public at risk citing reports from drivers."
     publishedDateTime: 2021-07-20T14:43:00Z
@@ -486,6 +475,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "I5W1Lt410RN97uzgQ4CqluYlrgSWRvouZYACMucI+iKnimlKBHL6j/hEBrcJp+i5InjB03b65l7350eXJM0NE4mUIFw7RyGxI6puR+SLv/2TRpKNe0474QXO3XzNsnBaehL/RrqTQMzW0HnDVlLlpjridmte2X+TrlVB4T6WhjQwoNmsV9hQAiHnqYlTlBPiLLTG0mF33DqpgcxRx1GifBWmWayDYsuJotZANfu016O5Rc6tTB0smjevxGB8LuX4ZYzKPnPq4kGaqHxliuGIJu+7HW2u7fbiyTao6Z6xCWbSrdzqi50LB0zrkRLlBQTtu0K/DV0qzSaxzQ5T/j5CBRCiJ7uBARZMSPkDl4D7ORA=;oSD6UpUBvMXSs0pt8P8slQ=="
+secured: "6NJiHYpjmXC9Iaqxnxed9WqeQpyIqHd7YcCFHu+Hjldd3ChlgRqZQ/UUYT6H+ot7AgqvVDGMAZlrhABbEYd3TuXj5X0zRsSrV47XUOevwPgXZn7dtqQ1jFwSgHH5t83LQJOtDtHuKxrn3hyhsHl3HUtN89WekRslIBAkhl1v3O7PhGYEnfw/ZuWadaXZOfzNV5UF13kK8Dokad1tcSHU5tR94Kuw+r1LrAFlUoTCD733HDPNsXIBZ8up0I1muqn0NIfcLWLLd9+LDvq5n5jfXlc0LPHmI65YzAZIqT9dAcKtrS+H3ig4OYkKN8/cAy5h3iqjq7C6n33+0087d2sdwP3uwbQLOykccKASVoL4fjfz/mowv+j2iU0+o7gXPpIg6w14C0MA3jijCC+wiI2OIuIyS7SXMMOPJY3opCPks4RD+tgai5vOlIt3/8CbiXELZhBcicPuv3+B2xX7MHHlBUL7lIudUJDx1U5z5ScmdXyPDEVoSSNBqhOZRBVEU1YtIquhIRytfmlJNb3M5MoE9g==;o08Zf9CUmWAtl/QPdxIJUg=="
 ---
 

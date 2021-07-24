@@ -48,22 +48,6 @@ related:
         height: 600
         isCached: true
   - title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
-    excerpt: "We know a lot more about how AlphaFold 2 works, but the mystery of why proteins fold the way they do remains something of a mystery."
-    publishedDateTime: 2021-07-19T08:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/07/19/5824a4aa-1d90-417d-bbae-4f336143e4b4/deepmind-alphafold-2-invariant-point-attention-module.jpg"
-        width: 1586
-        height: 1130
-        isCached: true
-  - title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
     excerpt: "DeepMind, the AI unit of Google that invented the chess champ neural network AlphaZero a few years back, shocked the world again in November with a program that had solved a decades-old problem of ..."
     publishedDateTime: 2021-07-19T20:50:00Z
     webUrl: "https://www.zdnet.com/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
@@ -160,7 +144,7 @@ related:
   - title: "DeepMind’s AI predicts structures for a vast trove of proteins"
     excerpt: "AlphaFold neural network produced a ‘totally transformative’ database of more than 350,000 structures from Homo sapiens and 20 model organisms."
     publishedDateTime: 2021-07-22T15:33:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02025-4?error=cookies_not_supported&code=a365541b-42f0-4984-a7ab-cb10a65e9e92"
+    webUrl: "https://www.nature.com/articles/d41586-021-02025-4?s=07"
     type: article
     provider:
       name: Nature

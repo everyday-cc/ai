@@ -3,8 +3,8 @@ category: news
 title: "DeepMind’s AI predicts structures for a vast trove of proteins"
 excerpt: "AlphaFold neural network produced a ‘totally transformative’ database of more than 350,000 structures from Homo sapiens and 20 model organisms."
 publishedDateTime: 2021-07-22T15:33:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-02025-4?error=cookies_not_supported&code=a365541b-42f0-4984-a7ab-cb10a65e9e92"
-webUrl: "https://www.nature.com/articles/d41586-021-02025-4?error=cookies_not_supported&code=a365541b-42f0-4984-a7ab-cb10a65e9e92"
+originalUrl: "https://www.nature.com/articles/d41586-021-02025-4?s=07"
+webUrl: "https://www.nature.com/articles/d41586-021-02025-4?s=07"
 type: article
 quality: 54
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: nature.com
 
 topics:
-  - Google AI
   - AI
+  - Google AI
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02025-4/d41586-021-02025-4_19383154.jpg"
@@ -40,22 +40,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/07/Protein-artwork-e1626813228890.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
-    excerpt: "We know a lot more about how AlphaFold 2 works, but the mystery of why proteins fold the way they do remains something of a mystery."
-    publishedDateTime: 2021-07-19T08:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/07/19/5824a4aa-1d90-417d-bbae-4f336143e4b4/deepmind-alphafold-2-invariant-point-attention-module.jpg"
-        width: 1586
-        height: 1130
         isCached: true
   - title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
     excerpt: "DeepMind, the AI unit of Google that invented the chess champ neural network AlphaZero a few years back, shocked the world again in November with a program that had solved a decades-old problem of ..."
@@ -300,6 +284,6 @@ related:
       domain: bio-itworld.com
     quality: 13
 
-secured: "p8D4NrRWESbHquqRA6IPdCMaeRJvKD8Z1sOhD1eicyD8U8NEIdVTIsJDBn9C523H8VdeeFvYywaD4DW6C67DkC1VSn6TYrGG8eZLTQKXkghAUahTla8hgGuDU1MRvB8+3p0uVmdf1w3gUZtZ11AzFDZDgEtrA2bKyTMArrCEPS8JAeZKYZPcYGkxQP9UwxmYMOqW6WjXvmu80Jcm+bgAaQ+RsgvERd+LwWnIoNZXxc/o4aePVrnPEuHyLrAtAJsc2mFqEdKJwl3XSzoFbauAjR4UOEboXBTqavazX4cOR9ZR/H/LhSZksoHGeU+xH4eNJe8tiR2bkKkAMAFE+p2+VnaU3lo19ZeDBtLeZssfCbmb6r++heJsRLblf61QQ1vg/KpBQVPDG357wcGi93g6cp2ckCOFtbVYc2pw4OVyQUSFqPtaCQdh+bYwduhlgI1qvGjOHshSsi65+UO2AIRuCKBtBdkoIAWs4ctljorTRMK/6uLSQXJqsy1sw5B3JNeuriyZOSeDGu99dU9mc8X4Lg==;ZsnQ1ZARrWaip9kbwrWSUw=="
+secured: "Pib7xmuEAXACYPVlkxDQmhcMxQOMVsDABKVORL0iuzQrmpvZkMPoQhvsWqm7D24brV8I2dD/BFsAsD8Eizto/XrcLopL6JOmk1dabHzLuRyZPXIvI2oi2aa7gh4OvKfJQn0AUe+kYQxWkYC0OLkswnDAUBQayPvavKWU6j4upejZL4624sClqI0JMgMKjJk237qiFpTYaAwayb/a6mqMJdeqYtG6DiC1nh18PgsTdQwteC7R3ZdM/t5fiMTXi0GfprnhZqRJXEDMhZA8kAY4oJJ7WLrw84SMYBoBrzNyikpTJsgrpiCFum7lrrpcH3lZVoglYDM1SjZJCw1BstrGac9ocuzs8kQGow+9yppEVuI=;q+qAvZ7Up2mc6B7ey8In1A=="
 ---
 

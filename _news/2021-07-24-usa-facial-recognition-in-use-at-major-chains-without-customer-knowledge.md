@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "LBPD already uses facial recognition technology, but a fight’s brewing over whether it should"
+    excerpt: "Facial recognition technology has become a hot-button issue in Long Beach. Some city commissioners are arguing the LBPD should stop using it."
+    publishedDateTime: 2021-07-24T01:12:00Z
+    webUrl: "https://lbpost.com/news/facial-recognition-technology-long-beach-police"
+    type: article
+    provider:
+      name: Long Beach Post
+      domain: lbpost.com
+    quality: 28
+    images:
+      - url: "https://img.lbpost.com/wp-content/uploads/2021/07/02131248/0702-Conference-665.jpg"
+        width: 1800
+        height: 1314
+        isCached: true
   - title: "From Macy’s to Albertsons, Facial Recognition is Already Everywhere"
     excerpt: "US's most popular stores — including Macy's and Albertsons — On July 14, Fight for the Future helped launch a nationwide campaign to document which of the country's biggest retailers are deploying facial recognition,"
     publishedDateTime: 2021-07-20T14:43:00Z

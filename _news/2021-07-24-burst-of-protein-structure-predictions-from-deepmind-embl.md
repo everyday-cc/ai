@@ -42,22 +42,6 @@ related:
         height: 600
         isCached: true
   - title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
-    excerpt: "We know a lot more about how AlphaFold 2 works, but the mystery of why proteins fold the way they do remains something of a mystery."
-    publishedDateTime: 2021-07-19T08:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/07/19/5824a4aa-1d90-417d-bbae-4f336143e4b4/deepmind-alphafold-2-invariant-point-attention-module.jpg"
-        width: 1586
-        height: 1130
-        isCached: true
-  - title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
     excerpt: "DeepMind, the AI unit of Google that invented the chess champ neural network AlphaZero a few years back, shocked the world again in November with a program that had solved a decades-old problem of ..."
     publishedDateTime: 2021-07-19T20:50:00Z
     webUrl: "https://www.zdnet.com/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
@@ -170,7 +154,7 @@ related:
   - title: "DeepMind’s AI predicts structures for a vast trove of proteins"
     excerpt: "AlphaFold neural network produced a ‘totally transformative’ database of more than 350,000 structures from Homo sapiens and 20 model organisms."
     publishedDateTime: 2021-07-22T15:33:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02025-4?error=cookies_not_supported&code=a365541b-42f0-4984-a7ab-cb10a65e9e92"
+    webUrl: "https://www.nature.com/articles/d41586-021-02025-4?s=07"
     type: article
     provider:
       name: Nature
@@ -300,6 +284,6 @@ related:
       domain: bio-itworld.com
     quality: 13
 
-secured: "BXHu0LDMgBwP64Nxc8B+aviFJk7cs3BSHT/3sf3INcI13ukx2k/wVuLThGWE3ucKaCh9U17ZmT6WjOBzJthzvyIlm6ALjiGai/dIrHYu1+QXm3pP6wH2Jt/LsiHI2lO6CFAstH0gfpVb4TjpSlIv0tEK8ka8nC4l2PSOdhODZxwRi2chHyYcX05pkc4deqp0KGue4Le8MBPqC3YdppTXbb3CE76pP04IlIpptbNu3znl9+/dQysWE3QhEkphndNyHtDdoFjUYBs1d/Fo+/wnhi3Guud2q9MyVNOc59cXBfGUmiuApeCBTLEYyUDdNsqYs8QSSw0oFLJORz6LOGgUnr2bTXdnOa2YNDrE/WGaRxU=;V6Z2Xt7aURwbvjoAwGopqw=="
+secured: "seGtkh7ktNxsFI5gSqbg6Y9IZhjXqxc0xpyO4OY2U53XNfODqKgzFkn7wQbpgYsIkJsL+vGxg14V5Q42ntfR+xKlvrLrLnr/vJJEzMeh6b2i4guVVjP/+mJylJ4iJwCh4xMwg6ZM8uElDBEJvTDQVyzShKj4BU17EK68aaJf3kNY2fBi+P2ixaFyXb1Ie9C2OO5BrsVBtFgUpunbyYOeXkvoT7lvwypNWpGUkhcM8EJ7DrgQo7OyPOnTri0pl3Hf+9gg4rBCUL5iYIodl0Aoj5/D//db+KaTk0PqkBlkFQysqgSoK3i9R253D/VJY7RzUGp3Srji3QjLIv4FLASsji+3YhZ9KTWfLJnv4B/D9hk5sdggNcN/E1/yPsELXxO99rv2dxUOUtHBIZcuCaQ43ElFgZMAUGgawMga7liakDvhXQmYwVs51G+286pLlNOQPCMxnBN6C/w0CR7S1+o+OfNHetxCaldPkmKF562hxr1fwhffsBLysmsoPObLZLF2leSQXvNxZv9nRWKh5GF3WA==;aFMrC4/Sg71t4ViDjwNXfQ=="
 ---
 

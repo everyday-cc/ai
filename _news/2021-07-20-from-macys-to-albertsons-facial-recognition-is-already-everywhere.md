@@ -28,6 +28,20 @@ related:
       name: 洗護用品和肥皂
       domain: business-humanrights.org
     quality: 33
+  - title: "LBPD already uses facial recognition technology, but a fight’s brewing over whether it should"
+    excerpt: "Facial recognition technology has become a hot-button issue in Long Beach. Some city commissioners are arguing the LBPD should stop using it."
+    publishedDateTime: 2021-07-24T01:12:00Z
+    webUrl: "https://lbpost.com/news/facial-recognition-technology-long-beach-police"
+    type: article
+    provider:
+      name: Long Beach Post
+      domain: lbpost.com
+    quality: 28
+    images:
+      - url: "https://img.lbpost.com/wp-content/uploads/2021/07/02131248/0702-Conference-665.jpg"
+        width: 1800
+        height: 1314
+        isCached: true
 
 secured: "ICtgCLPFgpJqIbFK1KOEcgnTwwWWur6dx7XsjR5HmIM+a+Zn5kLJOuwXQLg+K7OcQstoRjNBBHMSQZ4sRXUcjNVDoQ/2Jg14kHaQ/to5k2gZpi5XWf+nAZUaHbsPulnvy9DxmP64OnZUWpDX2Gsms+IX1CT11nySe7SQ3CNQtsfa07Fkh9yReRdVgD/DyDrKWz/x3NUq0bcsm6w2pQ5fiq7H4D6WyvkQsSLSglge70BhQx5hr0tTJTkPDIE60kWpwHQhTCbZBHFHBRWqwEnNLOHqSRSBbrgWNvcrWS42fz2Ng4DtP1srcSOwgfSvpV+qadX0WUL9/yUaCtFH0U1s0hmwk0BqhTH8acZBOlqeg8Y=;WHEQc+A4jxwRa6HUx1yTeA=="
 ---

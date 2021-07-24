@@ -42,22 +42,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Healthtech Startup Eka.Care Raises $4.5 Mn Seed Funding From Angel And Early-stage Investors"
-    excerpt: "The company intends to use these funds for hiring, product development, marketing and assisting doctors in setting up their digital clinic"
-    publishedDateTime: 2021-07-19T07:16:00Z
-    webUrl: "https://www.entrepreneur.com/article/377697"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/377697"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377697"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 76
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1626678981-MrVikalpSahniFounderCEOEkaCarev1.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "2VcJjwaAMqkzwLxCGhhtggdbK+9ArkQvwdCsf+9Mxpt5AG2voEtIkbhmehAYon85WXtbXztGtHhYltN2Id0ZEaqRvx1QrjA6W7+f//Ojww80eDcRuEsfQrHXl7msdhwRDeq0nmWuXMi4fZoBjG20xXidSvj2MFBRgnAabE9gaV1SZBZfMuTd73xX1qut0yCTNsby8/HA2MRNk7iUlE/Dy8cFKXNPzuEPBHw7cQqddPpy8O/xSEeQWuifGopZ4Xir0n+WIgoNRWcBShzxXnZk4wap0T3ag5wrSNtP0tBnVlG3wrxFqAcpAnG45Fdf0FuhcdS/kDSa2D5wXUFYGNxuszY0vmPFDxF1i5r7PeEJBK8=;NghFlFrzPHyyfZCxZMsI+Q=="
 ---
