@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Watson as a Warning: Current Limits and Promise of AI"
-excerpt: "Last week the New York Times ran a cautionary tale about how IBM tried and failed to use its heavily branded AI solution called Watson to transform the business world and solidify IBM’s future."
-publishedDateTime: 2021-07-20T17:01:00Z
-originalUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai"
-webUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai"
+excerpt: "We can’t seem to decide whether AI will replace humanity as the dominant intellectual force or it will simply be a sideshow never reaching its promise. Is AI the technology of the future, or wil"
+publishedDateTime: 2021-07-20T17:17:00Z
+originalUrl: "https://www.natlawreview.com/Node/153737"
+webUrl: "https://www.natlawreview.com/Node/153737"
 ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: The National Law Review
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watson as a Warning: Current Limits and Promise of AI"
+    excerpt: "Last week the New York Times ran a cautionary tale about how IBM tried and failed to use its heavily branded AI solution called Watson to transform the business world and solidify IBM’s future."
+    publishedDateTime: 2021-07-20T00:00:00Z
+    webUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai"
+    ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 74
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "IBM Watson Health’s stumble and possible fall"
     excerpt: "Telehealth and Telecare News since 2005"
     publishedDateTime: 2021-07-21T02:19:00Z
@@ -56,6 +72,6 @@ related:
         height: 860
         isCached: true
 
-secured: "fwyD3SSPZ0vLYc8pIJ/0OtoSJeX1d6Hc/4jITmsNxgf9wUsxZPfF4zsOEj4w5/iQ2FX2JgR7a3/1iDETBhHj6AYlmXLS9+eaYNZR6XEAU/9yOJ/rMfDi4S4rMi1jPe3vIThisrlhK/SKLcSy0bF6/VufKWKzMKX3yiar7sTAWoT60c1RbDyyNKhExTk7lx1QjPt9Gh456yjVLuiwpWvsEfTYe46RjUq+rRP5Z5f29eNoXLAP47I8swo9D5f5QwZQ+Hr4OOBvVozlqIxp9Q1uXrsFmxD0F+XCQxzdC0HBEPwWoRtTcyp1hjEOQafoQ48tNkKbVKFV0s+6drO4P7DJ89U0P8PTYqQMTGg3Xf5mdnM=;RCgzqzVD9shk93ICWoQ3Sg=="
+secured: "ltEUAiubl3+ueEuvlAVuaMFMwgjFxaVBSNgEybzftV2fO1b8RvAooFaattpZkQ7/WR3sSVCFiWVPTt3ciA682IZ1JrPExvingvYE+3yJRrc312TOA0N59pYODecbK33m4JRgdsCX3xBmOzjGko601LppNh+740XYdPra7MqdHnJKRdYdHAZJc0fOrS6uUrimk3dF+i/0DUqp4f90VutuTlkZ3rZb1bJZ9HVe7NwbyJL0z71muRd+dkvTfmb9UdUaq1fjv1wx8F5poC0Ki/u7/clEGI4kQot3ccl/icJI9DYvo59f2fevTJ3UPLUJnoM4PpQxZBtK+5/OdSoXPdXknzFD7Tz2Q/mqHd833FFRkHc=;N96C533UKXYLONP1vx2cQA=="
 ---
 

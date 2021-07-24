@@ -2,7 +2,7 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-21-watson-as-a-warning-current-limits-and-promise-of-ai.md",
+      "path": "_news/2021-07-20-watson-as-a-warning-current-limits-and-promise-of-ai.md",
       "title": "Watson as a Warning: Current Limits and Promise of AI",
       "excerpt": "Last week the New York Times ran a cautionary tale about how IBM tried and failed to use its heavily branded AI solution called Watson to transform the business world and solidify IBM’s future.",
       "sourceUrl": null,
@@ -10,7 +10,7 @@
       "originalUrl": "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp",
       "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp",
-      "publishedDateTime": "2021-07-20T10:01:00-07:00",
+      "publishedDateTime": "2021-07-19T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The National Law Review",

@@ -40,22 +40,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "WSTA to Hold Virtual Seminar on Cybersecurity for FinTech Professionals"
-    excerpt: "The WSTA will host a virtual seminar and panel discussion on “Smart, Fast, Effective: Cybersecurity in the Age of Analytics & Automation.”"
-    publishedDateTime: 2021-07-19T16:24:00Z
-    webUrl: "https://beincrypto.com/wsta-to-hold-virtual-seminar-on-cybersecurity-for-fintech/"
-    ampWebUrl: "https://beincrypto.com/wsta-to-hold-virtual-seminar-on-cybersecurity-for-fintech/"
-    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/wsta-to-hold-virtual-seminar-on-cybersecurity-for-fintech/"
-    type: article
-    provider:
-      name: https//beincrypto.com
-      domain: beincrypto.com
-    quality: 44
-    images:
-      - url: "https://s32659.pcdn.co/wp-content/uploads/2021/07/WSTA-cybersecurity-for-fintech-virtual-event.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Microsoft acquires CloudKnox Security to offer unified privileged access and cloud entitlement management"
     excerpt: "Helping organizations strengthen cloud security and Zero Trust. At Microsoft, we are committed to supporting organizations in their digital transformation and helping them to deli"
     publishedDateTime: 2021-07-21T15:33:00Z

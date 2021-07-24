@@ -3,12 +3,9 @@ category: news
 title: "DeepMind’s Lila Ibrahim: ‘It’s hard not to go through imposter syndrome’"
 excerpt: "The chief operating officer of the AI pioneer on bringing her commercial tech expertise into a research company"
 publishedDateTime: 2021-07-18T04:00:00Z
-originalUrl: "https://www.ft.com/content/c43cd848-367a-4c67-8cf1-7f34d3eaf84e"
-webUrl: "https://www.ft.com/content/c43cd848-367a-4c67-8cf1-7f34d3eaf84e"
+originalUrl: "https://www.ft.com/content/c43cd848-367a-4c67-8cf1-7f34d3eaf84e?curator=biztoc.com"
+webUrl: "https://www.ft.com/content/c43cd848-367a-4c67-8cf1-7f34d3eaf84e?curator=biztoc.com"
 type: article
-quality: 18
-heat: 18
-published: false
 
 provider:
   name: The Financial Times
@@ -18,6 +15,6 @@ topics:
   - Google AI
   - AI
 
-secured: "cQUlBQLZYe+GhuTNbSoaA5Q/zPItmGOn9O/+ukcA6EkR7N/Dg+Qyo1WBiXT+9bYMOzL6qLdgIGbnO8kuRsSnRYdYVygM1FaH5uDfxu4peE8B1GMGP+2bpfwJo07G9YoeFa6hsY0oXUFJSsBV5/9HmMPa0pnWjRxiaWwuPFfNPm+wu8yhOQNsHH1a/Buw3LB31A+A3jKEBiWdmkY5JjbrcB8bTTEU4ZEAEK3i172V8HWD0g53iMLdo4jH3kqCTJFwuRGE67OV3iR3EKHgELkXAY7oeVOxwSt8AntHlia44Iq+7iB6M0Ll7hUTJKG6Rpjh8MLkplQM+q0OGV/fw2tkxr3eX2INPrKNZyoedn93N5XsLX2m9DbPmAT/mCnkAbTcTPzoiQYfVsM+/QIsFgz2HRO5izHF74GOYWNCLffrV/rjJtpDFZz8dT1Q17BJ0zYk0EvzTp5/bPrKC1jOgpFHIGBHmT2GscLbWyPePC+eevgAOpnRE89nvoBM373kO/0JwVu5FQMzf10K6KMF33ioMw==;s+7vbK0PMJEpgr9/H92EQg=="
+secured: "7Sb9E6u5IJ1nevehe2YKLPne4HiW9UxGsqu4wGsYabtReq3gj6sQNJvAvQxYtCJaCTxPKtOR5ViQxSIb/h8VcIQydddOUBRijC7S1ifoTP3EWHn0t1x/Lw8NAySP9/6L0lko5HzM1ljxPq5aM0IsRjsObQybRlUCmf8IHVbRZAvLCOsFX/BUBnu+3vfO6R0E9g/bA1Os/gEeHbXQNNZZHdO33oq74K8RkWRuT8sGeHfixpQawHjaEsacsIS6a5u6qL7TQCS8XbpoWEI44KB2TXCgIfOpMgjU34a/CjR/2sXv7WrPXVc7Pn1MoOOzOlOqf/fs/Cf/yDy19Ws7VcJx/0W4u/2JQ+KJC2mAfuhG2ZOb269eY2jZmXcUYu26Qie22vdwR8qBDe/USGoHm4sTuHG91q8gbPzUPVnRRQoJcodNuI9O+8KoeXkyuBXbA8CM9fm4LL2Wz/4ti4BdRGHghTNLnphMgbQbTsZptKL4L4uWwDUWrdT6iGiO0tJzORA6Kiyy4PQ5vDQZGPY4LgvPAQ==;yS/5GZ4dZl+E1neRAjqJ2A=="
 ---
 

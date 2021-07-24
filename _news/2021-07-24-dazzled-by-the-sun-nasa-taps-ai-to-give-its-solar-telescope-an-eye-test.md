@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/dazzled-by-the-sun-nasa-taps-ai-to-give-it
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/dazzled-by-the-sun-nasa-taps-ai-to-give-its-solar-telescope-an-eye-test-23683777/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1440
     height: 810
     isCached: true
+
+related:
+  - title: "Artificial intelligence helps improve NASA's eyes on the Sun"
+    excerpt: "A group of researchers is using artificial intelligence techniques to calibrate some of NASA's images of the Sun, helping improve the data that scientists use for solar research. The new technique was published in the journal Astronomy & Astrophysics on April 13,"
+    publishedDateTime: 2021-07-24T08:34:00Z
+    webUrl: "https://phys.org/news/2021-07-artificial-intelligence-nasa-eyes-sun.html"
+    ampWebUrl: "https://phys.org/news/2021-07-artificial-intelligence-nasa-eyes-sun.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-artificial-intelligence-nasa-eyes-sun.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 37
 
 secured: "dQ10PXxuxuD/zymzzm1GxpEth+o6b5dLBIYfnCu1QqYTozkLpVfppmp3jem++z0D+2Qirv321Wzibe96KsbN/VvkPd8m5XKvSSnZHNyme6WMfYtKtZlgxBUDsxx24ZGHwEWy6QrHRZQu5ZFY131dIHLBrlBsgo7ZZQBbm24vvgJVttj+ih3qx/D8qJmUS+7T3UDe+jsEOki2yqUisq2oW95VtItsc2k+gDj2YBzpp5yZWhC1aF9RuUMcwwlkXVnREzfp5E/cbQOJ1BlzDwjY5Tpf9ksGtjJ4gX9xhiCZnNfH5R5Oz6WuPtsNIMQsUZI0XPYgcxcXldlpCScpJl/jlbkRXo8r6eNZgW+MLvWJsthH9Nd8ILA6kyo6sjN4iMEZ9S5cqoMOBhyV0oIMKJuZrL0BDJKoIUqub2muHnAGeWdCT4B69VXkIS/9p9LOZCv6r73PqIPYFUtBFyYJidaaREoNVq0+LJy7qvbEPAEBSZ0maAKUggMJfcvlJ+4sxGhuaCkG6612rhvqfLrRNqjgAg==;7zqFY9oqgblYlTgYGpxj+A=="
 ---

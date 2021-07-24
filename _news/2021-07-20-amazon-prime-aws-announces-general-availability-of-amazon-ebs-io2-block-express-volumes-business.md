@@ -39,15 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AWS Announces General Availability of Amazon EBS io2 Block Express Volumes"
-    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-    publishedDateTime: 2021-07-19T16:13:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210719005806/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 32
 
 secured: "XJXvlGw55oABQwgTaZcjWk/RmXyKoHdQv+HZtMeW6xowrsmnfAFHdwel3+qc/SKRsiEcqCQgm82CP4qcLJBdpZkdJ7Q7YqOwpmswA5x9o3HipUsh4cCti1wwzyi/FxRUn24e9okX0NtQLCKV+P2OqGKLBopGyCecG3Ag/Qp/AlB1keEPXxg9taxKmaPRVhd0tJF46cIdkoBLOkW8LLHxtEJcl55CGtl2ZNomEPrSFXESsY7qiJxT6ycSkZYn+ph13qB07Ni1OcR4Vr0KxO123sb4/zf/0cnM3dZAGG2miQA5ny3o4NYwhHUqPArL9GersZPJlkZf1HC/fmYnZdnSqzuHUvHFOknb3pPzb8rhOl7yQH14CBNmGh4GE7UEJy3oxRBzUVBnelhHO5dBGkS+o68ktxwHEFWfI7RsmJVBJOgtomWwN+Zx/khdIzenlKUnGPQi545CeGrI8ljRSoeR7U41SKljtZ0bzvWm5VvJUxhGQUhUhy3Y0JTGWTjx38XU5AO5tNXeypuxaAGv+WfcmQ==;fWvifzgsJQMFy3dzetFoYA=="
 ---

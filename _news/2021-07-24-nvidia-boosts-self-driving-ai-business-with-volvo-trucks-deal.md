@@ -39,20 +39,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "U.S. chipmaker Nvidia to provide AI platform for Chinese EV start-ups"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-07-19T15:11:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_xpeng-nyse-xpev/u-s-chipmaker-nvidia-to-provide-ai-platform-for-chinese-ev-start-ups/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/m02d20181121t2i1327287338rLYNXNPEEAK0NTw800.jpeg"
-        width: 800
-        height: 516
-        isCached: true
 
 secured: "zGtFP9/wdr+nzZG2LRI33JDFMGaCW3JPRLAZphZQf6Sv7QW4DSA00bqq743PocXSju0XwdEW9QYq0fGA5nQtLnhAK90/CJlyR+c8tFZoptCeSVxfzSjH0cG2yj5c5x++4ieOgl5EZzBE5CznfTu5oWuNt7S38Sj72jVWMLNjU9xvd6dPez6UAQH/av1MUHVlc3yrgyYP8MCbyWq3iYILLdf9qQ+31ipvhGOoaC/ZEfxmKp7YiRV31tuqfJqM/TlWxeZv0A8T/4nz6RO5mR/Fvd2+IZgyv3mPlA/FGZRZkbBaaeCmyCoZyXPzyctZV3vAUJWiJEr68XrIMx9PXqUU8Kf+RsoUrbmDJk9SguHnYKR6c3bV6PL47KqxwdEvguksSM/E+AsxCUiIJCH/m0g9YUHb5lJpPQFVPZBjAved0fMufZplZDzpBPAgIQ3WyPDJhrsiUoJWaaqqdYPLJwNw2V6bM7CurZ9oTHaeKlGxLUmkv4uxT6lydlyy5OJdUC+IoqD5xRBpowp5Cu+7ER3rSg==;eX4FKFQTGYWsidLo5iVViA=="
 ---

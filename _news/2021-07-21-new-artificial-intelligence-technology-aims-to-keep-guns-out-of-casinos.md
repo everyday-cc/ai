@@ -7,7 +7,7 @@ originalUrl: "https://www.fox5vegas.com/news/local/new-artificial-intelligence-t
 webUrl: "https://www.fox5vegas.com/news/local/new-artificial-intelligence-technology-aims-to-keep-guns-out-of-casinos/article_d3274bb6-ea17-11eb-aedd-8bcc7f388c10.html"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "New toolkit aims to help teams create responsible human-AI experiences"
-    excerpt: "The post New toolkit aims to help teams create responsible human-AI experiences appeared first on The AI Blog.\n"
-    publishedDateTime: 2021-07-19T16:11:42Z
-    webUrl: "https://blogs.microsoft.com/ai-for-business/hax-toolkit/"
+  - title: "Using AI and a lawn sprinkler to keep people out of the yard"
+    excerpt: "Having people walk through your yard can get annoying. Not only could heavy foot traffic kill your beautiful lawn, but some disrespectful people will even let their pets do their business on your property without cleaning it up."
+    publishedDateTime: 2021-07-19T18:44:00Z
+    webUrl: "https://www.komando.com/video/komando-picks/using-ai-and-a-lawn-sprinkler-to-keep-people-out-of-the-yard/799168/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 89
+      name: Kim Komando
+      domain: komando.com
+    quality: 37
     images:
-      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/171/2021/07/HAX_MSC21_PICHA_remoteWorkplace_82783-1-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.komando.com/wp-content/uploads/2017/02/Kim-Komando-Show-Logo-576x576.jpg"
+        width: 576
+        height: 576
         isCached: true
 
 secured: "vLBWIf9JJuq2q9x+zqMlrjYyrYab3BzCZi39xzQzX6dtVPOOPe6WBy4m31yp4JVnK60Fv/UIK8u09xkvwzmp2F8vjt3/th9gFa1mbHysrrnhLq+bqoIlWTyU6mHr43oKqNe9v0Epp6rK41D7jW0aaAlOMFG9zz//HEguqaCcQxBtvxxu6gz6MgNmBD+0b0ing+hmWdD+Sttz5HFCk31fNsP2ZvT1clgxjwL3esj0brM3E70fHZsy133wdQNGKgo6MwA9T9IqzlN1l9+3V54/L1ZXhbX+8A/xg/ehzqKGj9PojAq9gavOy7NYdObzSKjZeSk7/A4YA+ecMdt3c1bBMCZPonY7YZNosWVZzSBz31bpC0GZvn/HfxZlJvf4mX3CXxYdhlEFPCd98h25ZHg91ht1DFk29mDQeoc8ZtWOSeZ2R1G7UF9Bb0snnEvA/8BzXky86h3D1jmML34fEdYFfuqPCVWfGMmzGVmKOJC85t7ISwp4TbNBolrBWvZwxADTk5KM6c3a0HA1x1UUH1LoGg==;5frQYa4RfdZLl/vIckN8Jg=="

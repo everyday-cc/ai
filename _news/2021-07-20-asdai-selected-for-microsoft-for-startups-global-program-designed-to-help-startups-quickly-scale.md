@@ -66,15 +66,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Israel AI-Based Learning Startup MagniLearn chosen by Microsoft to impact Education"
-    excerpt: "After concluding deals with public and private school networks in Israel, Korea and Japan, EdTech startup MagniLearn formed by AI"
-    publishedDateTime: 2021-07-19T17:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/israel-ai-based-learning-startup-magnilearn-chosen-by-microsoft-to-impact-education-301336289.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 45
 
 secured: "2LShtsDPebxUkf5loUU/CsOZwp18WuSzn37WfX2RGDFOhO+1jpOyu1esHzc3YiXHb+2PhjX1smsjXduZ+44LAyRfXxOAE6xJoWwyyKFo7bQI8vywT8n5mrSNRLR4nKssgf/qBcA9k8MONkSBOSTzO0OKLrTzL1R/a2BQz9xsaBqg5zGdfYt7VMeMg8T0lb7Zj5G8KKKMNd3IfLUP4LvXaLXPnu+j0wx6iMmXRFXLDUUSDsQpQ3AYlBSyOLlkimUn8sCBak4vsfhbgdiMIuMkrbYY499egQX0SW2xbVU2/88EOvBXV5xnNsoiN5icdVE9A8QpHeGdwMEYAQEArkF5Ti2Ve2+dhoGRxxHMve7WVVaz7ZVRPvp7YAjy81sAuCbaFDNf8/IN34zE9ColvCX9wQ95R9uqFqfxHy/DwwoaOfdZTv14k0n4nUY/u29zs9gzZSvXDyNmN/bR3Y9Xmb41dvEGBQWvbrOgtwIxUi0lY8LevcUAJ/OgaUUftKVw2CQO8x38AVEblB+Io9C3MvQGlA==;ZLK8PVqhdIjYXsda+o+eBQ=="
 ---

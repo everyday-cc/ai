@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-17871d68d8fa4c54bb408e0e613abfdd"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Associated Press
@@ -39,15 +39,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "AWS Announces General Availability of Amazon EBS io2 Block Express Volumes"
-    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-    publishedDateTime: 2021-07-19T16:13:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210719005806/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 32
 
 secured: "DUea1sM3tjGzafkN+scQiqzYZuoFLNAaAfkmKObjvolkKa9wty/G3jKEY4E599S057FjwSZnFey3fdSCxuSt5r53akUOB1NPP4V0lS9nm8q085smUpvAVBC9Iu5ZK0x/mQYCOKyWYXxDOczjGuUmGfcidho1fh8/JgDo0u20rJYezGSneloJvvNkQz/zp9jGh1pxOeh3U/I3SECOv1PHv4msUDR5uZYnmp6PmWRnr7PfvKHDXuS8MxiJV3BNB+BVzsq98+nLojmKCKckxPdNv9m8/x7xGmdjkFjicWALgTJrwubHkkeiBNRfyVtVe7pETSdPJsEnSjS4tX6sRlgYstp55ye1EKOqtcL6KfEOgSY=;3p6mgJXO3cvO5gmVkhOPTA=="
 ---

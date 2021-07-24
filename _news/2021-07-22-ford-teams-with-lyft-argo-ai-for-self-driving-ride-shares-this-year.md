@@ -3,25 +3,30 @@ category: news
 title: "Ford Teams With Lyft, Argo AI For Self-Driving Ride-Shares This Year"
 excerpt: "Ford Escape ride-share vehicles will launch this year in Miami. These self-drivers will still have \"safety drivers\" behind the wheel."
 publishedDateTime: 2021-07-21T22:13:00Z
-originalUrl: "https://tulsaworld.com/article_6bcf0072-43aa-5124-90ca-85f9685f7c55.html"
-webUrl: "https://tulsaworld.com/article_6bcf0072-43aa-5124-90ca-85f9685f7c55.html"
+originalUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/"
+webUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/"
+ampWebUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp"
 type: article
-quality: 39
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/c/52/c52e5cf3-ab9d-5122-bf17-6e5cc34d4c87/60f8a831ab0de.image.jpg?crop=533%2C300%2C0%2C0&resize=533%2C300&order=crop%2Cresize"
-    width: 533
-    height: 300
+  - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/07/Ford-Lyft-Argo-self-drive-1200px.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -439,6 +444,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "oWYASaYke5FQZwgdrheP4kIzbAPPA4Frym9Z80WLEUPbk0jJGQL6uK+Pd5nklMWYbfHzYbb1OiMKLiFC72t/3mP0eYmfydHWqPUhzZIRQUCXirkXwR6f4tC3m0O+aD9SYwo/Nj7L9hXkbJCTkR/sQxGZx3d04vmfqnYCKT8nXQYS32bGpAYb0dl8Jjsn3myj4zt8lOwdOjq+XvgpikVGUjOpG8qVEdBYKzkEiK7dEfm05ov8EV3OW9v7kjjggAF990rhK2Wvdctb8qXeAp14HgIEkbfrmFUoLGtHi7F+L9ovIaEtL66JgAWzVFj6vLMdrv/OG3T/txl3XUzq4XK0t7iVKzNW36BjDFK6wkC7QD0=;qcYzx/pRrLAZJcF5U/5xrg=="
+secured: "oOJXLnu5zroyebY+Ri35Xi89tVWZ0Eaueo8DKRRfqyi0lH+ThZCVexRkJPBX55WB2ydMjbcQmWYueBgR5khPkQX2WIm6Frc0bY2BEyMLWetGE/cTQIDvsN9LL5m+KrU8ETgw7/oQl7Z7PzutldAlwAsMB3A++2BLMvdu+2TmZP1ZQtw+vuR5dr94SGg0V9t8nGboMUSPtHQJwv0EinPkayTwAHBKk4dx8WsDW2mTrHgAWXo2WBqiSGMEyktUvuSN2S3u7ri2j1F6fgj/zNww14852wP736+rA7lVDIUpd8po1vZb2boW0H6/B7N1ZIEPaJe5d9goncdg+85y9qFoIJlHVE9f4uqAx38+X8FtaEY=;d80qNpm+D45/7ZjQh+J2xg=="
 ---
 

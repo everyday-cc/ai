@@ -58,6 +58,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Artificial Intelligence (AI) Chipsets Market Size 2021 Outlook, Opportunity and Demand Analysis Report by 2026"
+    excerpt: "Global artificial intelligence (AI) chipsets market may surpass USD 70 billion by 2026, a study conducted by Global Market Insights, Inc. From consumer electronics, BFSI, IT & Telecom, healthcare, media & advertising to retail,"
+    publishedDateTime: 2021-07-21T04:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-2021-outlook-opportunity-and-demand-analysis-report-by-2026-2021-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market Analysis, Size, Drivers, Restraints, Opportunities and Threats by 2026"
     excerpt: "Rising concerns over road safety to enhance artificial intelligence (AI) in automotive market share Growing inclination towards semi-autonomous vehicles is anticipated to drive the use of artificial intelligence (AI) in automobiles."
     publishedDateTime: 2021-07-20T08:18:00Z

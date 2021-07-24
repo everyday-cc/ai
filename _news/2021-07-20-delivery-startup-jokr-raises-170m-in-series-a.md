@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/delivery-startup
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/delivery-startup-jokr-raises-170m-in-series-a/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "Israeli-Founded Commercial Real Estate Startup Jones Raises $12.5M"
-    excerpt: "Jones, the Israeli commercial real estate startup that automates the insurance compliance process for tenants and property managers, raised a $12.5 Series A funding round, according to a company announcement on Monday."
-    publishedDateTime: 2021-07-19T15:13:00Z
-    webUrl: "https://nocamels.com/2021/07/real-estate-jones-raises-12-5m/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2019/10/Omri-Stern-and-Michael-Rodman-the-founders-of-Jones-e1570722314289.jpg"
-        width: 1182
-        height: 615
-        isCached: true
 
 secured: "DoXm5RBHHFuIBkP9/CSt2AxkACP4xvCPDr/edOsJ5uHUDqRGgM58kaEZNKPjtG0ZOdrspHSeGesRZhbPJxybIOUxDlyun1FfaEwDYLXLESMtij3cRZPvnU1TfR8cq4QFvileoWKQQC1WPM5eEQb2RZtlgpFZF7tJbCEWO8qnPWukMaX/gMTTqozRLDr6vveTtYkpaya7fY5IESwvDtOAL5xcSchwoJp2Wn0k3DHndc9+k02XabOgF1ah1zi6b0G9ZVWXv1gOSnT6ZFWPiGKFOwsZG6OmFdPM+d38wSExT5tq0HR5PmuW5ZZn5xbqjuVZUHwKKFA4SHhvwrLhOy+Fc4FOz/mZkFYme+DFQ0/Pb8evwEQTs7wfyK0hqtrajfLoy+L6MvPCxdkS3zz57s572vcCUMAnGiYlttEUe5LSkDy8OrxlRPKBcUL0W9HLpg3b/e17iztooWQ3A1vqPcVWLNjsFGy/icID8Nf/SnJMrkX26sYiQWtjOfb+MpKYv6DPsJlLJajRIUWVvAjpayRKaA==;h4uJnph5bl4z9pVN9lWiaw=="
 ---

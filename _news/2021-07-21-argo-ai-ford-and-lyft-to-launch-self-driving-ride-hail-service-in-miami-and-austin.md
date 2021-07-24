@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ford Teams With Lyft, Argo AI For Self-Driving Ride-Shares This Year"
+    excerpt: "Ford Escape ride-share vehicles will launch this year in Miami. These self-drivers will still have \"safety drivers\" behind the wheel."
+    publishedDateTime: 2021-07-21T22:13:00Z
+    webUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/"
+    ampWebUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/07/Ford-Lyft-Argo-self-drive-1200px.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Lyft is getting autonomous Argo AI Ford cars for public rides this year"
     excerpt: "You may be able to summon an autonomous Ford via the Lyft app later this year, with the automaker and the ride-hailing app working to put self-driving Argo AI cars on the network. It’s the"
     publishedDateTime: 2021-07-21T18:26:00Z
@@ -288,20 +304,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi_com/5131626869518/2021/1/a45a552d260fd9ef3c89e6f0e9f6d4e3/v1.5/Ford-to-launch-self-driving-vehicles-on-Lyft-network-in-US-this-year.jpg"
         width: 800
         height: 532
-        isCached: true
-  - title: "Ford Teams With Lyft, Argo AI For Self-Driving Ride-Shares This Year"
-    excerpt: "Ford Escape ride-share vehicles will launch this year in Miami. These self-drivers will still have \"safety drivers\" behind the wheel."
-    publishedDateTime: 2021-07-21T22:13:00Z
-    webUrl: "https://tulsaworld.com/article_6bcf0072-43aa-5124-90ca-85f9685f7c55.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/c/52/c52e5cf3-ab9d-5122-bf17-6e5cc34d4c87/60f8a831ab0de.image.jpg?crop=533%2C300%2C0%2C0&resize=533%2C300&order=crop%2Cresize"
-        width: 533
-        height: 300
         isCached: true
   - title: "Argo AI, Ford to launch self-driving Lyft vehicles by end of 2021"
     excerpt: "Argo AI, Lyft, and Ford Motor Co. are collaborating to commercialize autonomous ride hailing at scale. Ford self-driving cars, with safety drivers, will be available on the Lyft network, with passenger rides beginning in Miami later this year and in Austin starting in 2022."
