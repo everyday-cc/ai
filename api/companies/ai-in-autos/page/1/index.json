@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 10595211
+        "followers": 10595649
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -75,7 +75,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1056973
+        "followers": 1056975
       },
       "yearFounded": 0,
       "locations": [
@@ -121,7 +121,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 67297
+        "followers": 67301
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -234,7 +234,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 6210
+        "followers": 6211
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -287,7 +287,7 @@
       "twitter": {
         "username": "DidiGlobal",
         "url": "https://twitter.com/DidiGlobal",
-        "followers": 3631
+        "followers": 3633
       },
       "size": "5,001-10,000 employees",
       "yearFounded": 2012,
@@ -331,7 +331,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 23070
+        "followers": 23071
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -673,7 +673,7 @@
       "twitter": {
         "username": "_FiveAI",
         "url": "https://twitter.com/_FiveAI",
-        "followers": 3767
+        "followers": 3768
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -836,7 +836,7 @@
       "twitter": {
         "username": "wayve_ai",
         "url": "https://twitter.com/wayve_ai",
-        "followers": 2473
+        "followers": 2472
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -850,7 +850,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 83,
+      "heat": 82,
       "tags": [
         "Autonomous Vehicles"
       ],
@@ -1056,7 +1056,7 @@
       "twitter": {
         "username": "Aptiv",
         "url": "https://twitter.com/Aptiv",
-        "followers": 17332
+        "followers": 17333
       },
       "yearFounded": 0,
       "locations": [
@@ -1272,7 +1272,7 @@
       "twitter": {
         "username": "CognitivePilot",
         "url": "https://twitter.com/CognitivePilot",
-        "followers": 1215
+        "followers": 1216
       },
       "yearFounded": 0,
       "locations": [
