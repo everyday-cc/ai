@@ -276,20 +276,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 37
-  - title: "Tesla’s ‘Full Self-Driving’ Beta Software Used on Public Roads Lacks Safeguards"
-    excerpt: "Tesla's new Full Self-Driving beta 9 software concerns safety advocates at Consumer Reports and elsewhere. Here's why."
-    publishedDateTime: 2021-07-19T17:31:00Z
-    webUrl: "https://www.consumerreports.org/car-safety/tesla-full-self-driving-beta-software-lacks-safeguards-a6698414036/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 35
-    images:
-      - url: "https://article.images.consumerreports.org/image/upload/v1626376718/prod/content/dam/CRO-Images-2021/Cars/07July/CR-Cars-InlineHero-Tesla-Model-Y-r-driving-7-21"
-        width: 1199
-        height: 674
-        isCached: true
   - title: "Consumer Reports Has Serious Safety Concerns With Tesla’s Full Self-Driving Beta"
     excerpt: "Consumer Reports has raised serious safety concerns about Tesla’s Full Self-Driving beta that is currently being tested by owners on public roads. For quite some time, Tesla has allowed select owners to install and test its advanced driver-assistance system and recently,"
     publishedDateTime: 2021-07-21T07:49:00Z

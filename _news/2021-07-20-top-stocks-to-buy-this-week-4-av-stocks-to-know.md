@@ -6,9 +6,6 @@ publishedDateTime: 2021-07-19T18:11:00Z
 originalUrl: "https://www.marketwatch.com/press-release/top-stocks-to-buy-this-week-4-av-stocks-to-know-2021-07-19"
 webUrl: "https://www.marketwatch.com/press-release/top-stocks-to-buy-this-week-4-av-stocks-to-know-2021-07-19"
 type: article
-quality: 54
-heat: 64
-published: false
 
 provider:
   name: MarketWatch
@@ -28,22 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Apple Stock – Top Stocks To Buy This Week? 4 AV Stocks To Know"
-    excerpt: "Find the latest Apple Inc. (AAPL) stock quote, history, news and other vital information to help you with your stock trading and investing."
-    publishedDateTime: 2021-07-19T22:19:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_apple-stock/apple-stock-top-stocks-to-buy-this-week-4-av-stocks-to-know/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 24
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626733189_0902-Q19-Total-Markets-photos-and-gif_CC8.jpg"
-        width: 1024
-        height: 512
-        isCached: true
-
-secured: "SQB3x2hrov9p3hCtnZehYocdsJv0/ivf0q4uE0RJXbnXEnvs+lS4JN5HhG8+eexJ+dFaCchpb4SZFYdPyhANeLIRIAljM769ngVZodwmzhlElxQ/GYQQ+93X5SeI3+I2Av3pNmoeSwoh4uA57cW1ROYWRa1ERyxex8Z6DBvmL1xYOi7wXZhhSvnA4eM+QdJ2hOmjufRlxvRYpekIr0JbUZJsMEwVSDRoGrVP3NAKZ2GhZM/a+loz/RJr5RHbmB7xFIPUjFjPmzEpYXkOVXUsgh100G/sP1SXzFxHpvu0ZZlz25JvPeM+sHVYXp1C2VoTDRiga3evly4Ihmqy1wQwo7EnduhA8fkcJUoAT4+9IUQ=;UJ00P+vPmqHokdrdMMt0Zw=="
+secured: "IKV6rFItxUtEbXr3FIpufA8r8GsbdCgyK38VWj0alP7FougMKtvgcSjcKAdhVQ36PVQiXoGL0XaAf5vS4WJrp4DeyhC6h2juSHQwxPuhjVY6RUqgTXnNGRRc/8UVma1nQlczfTDRCGC94h/7LB47X48QPo7KoEhmZLLZ7zswmxHehGy89RxbQ+sCltlasBzZOxub4EayB+vcGRvB+sm6y8wqRmXSE/H6Kl0VRQbkebrGrv/JoY3c+ZvT3+HMP7y0UZOcBrRMj5S4FPIWaWSFEy++2lTp1b2j0B2IpJ5mLUC4149cThxMV7DYMFQOAJC/xwvmNbgGZaEAisZ+hKqiSuyge7fqKQBr7/af9gEZ+lI=;mCaFu3NUf6O2QHDNub0QTA=="
 ---
 

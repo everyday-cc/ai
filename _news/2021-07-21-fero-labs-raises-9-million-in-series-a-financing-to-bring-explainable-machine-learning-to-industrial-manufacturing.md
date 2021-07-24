@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/fero-labs-raises-9
 webUrl: "https://markets.businessinsider.com/news/stocks/fero-labs-raises-9-million-in-series-a-financing-to-bring-explainable-machine-learning-to-industrial-manufacturing-1030630818"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
-  - title: "Artificial Intelligence in Food Manufacturing: Making the Most of Your Data, Upcoming Webinar Hosted by Xtalks"
-    excerpt: "SparkCognition explains how manufacturers can leverage the benefits of artificial intelligence (AI) and machine learning (ML) to drive operational excellence and attain competitive advantage."
-    publishedDateTime: 2021-07-19T18:10:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/artificial-intelligence-in-food-manufacturing-making-the-most-of-your-data-upcoming-webinar-hosted-by/article_6fb8aaa6-9e88-5b6d-b02b-bc73245380cb.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Enforcing Intelligent Learning-Based Security in the Internet of Everything"
     excerpt: "The exponential growth of the Internet of Everything (IoE), in recent times, has revealed many underlying security vulnerabilities of the nodes forming IoE networks. The extension of conventional security protocol to these devices has been greatly complicated by the prevalence of restricted computational hardware and limited battery life."
     publishedDateTime: 2021-07-23T05:49:00Z
