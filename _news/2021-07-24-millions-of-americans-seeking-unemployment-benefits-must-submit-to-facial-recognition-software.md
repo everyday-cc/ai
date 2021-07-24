@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Want your unemployment benefits? You may have to submit to facial recognition first"
+    excerpt: "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he hasn't received a penny of the $6,490 he said he was eligible to receive and he's not sure when he will."
+    publishedDateTime: 2021-07-23T18:40:00Z
+    webUrl: "https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
+    type: article
+    provider:
+      name: com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html
+      domain: com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200209224400-20200209-facial-recognition-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
     excerpt: "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he ha"
     publishedDateTime: 2021-07-23T17:31:00Z
@@ -42,22 +58,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200209224400-20200209-facial-recognition-gfx-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "25 States Are Forcing Face Recognition on People Filing for Unemployment"
-    excerpt: "State labor departments claim that they're using face recognition identity verification to prevent fraud, but you might want to check out the privacy policy."
-    publishedDateTime: 2021-07-23T18:00:00Z
-    webUrl: "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707"
-    ampWebUrl: "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 88
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/401a169d87d990b688a397d4df93cbd1.jpg"
-        width: 800
-        height: 450
         isCached: true
 
 secured: "6s8bWPl9HyQtDmsdhH60X9xUzlNVTobOYDmxN6nbNKYX9OvOWOB/xFslIrHlGVEzk1ARC333W6i1+642GjnePMa8DiFtJdRUTjDOQ+/4UCjrTnV9mpfdshmfzfHq9bcYcbB/T8f8ob6IMtkOQ0CPZFaN8vXPqSRyzXHJBGKvsaF/08vYOoAY4BVcQDhkZIxKp6IGgDM+st63Y8LTjnEm9sFvaJoiAcCeUWeNtEFBCFOwNseSnYfNEfuQ/ibIWgdy6iifhRKI0+hsieM1Hp0f1SBvI2qTR6wjNJ9ysbgG5wgw+5N74TxWkD4vGUpmPTVABmoi3pJ1q8/sdn4vZZ+rY+mKx3/8VizCfDpL9J5GNWw=;i3lJDTn2nRxYnHD8Y5snEQ=="

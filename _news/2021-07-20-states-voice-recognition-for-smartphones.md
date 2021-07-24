@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2332686/states-voice-recognition-for-smar
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332686/states-voice-recognition-for-smartphones-market-is-booming"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,36 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Employee recognition: How to get it right"
-    excerpt: "Employee recognition is one of the simplest and most cost-effective strategies to boosting motivation and productivity in the workplace. So why is so often underutilised? New research by Achievers has identified a sizeable disconnect between how successful managers see their company’s recognition strategies to be and the experience of employees on the ground."
-    publishedDateTime: 2021-07-23T16:25:00Z
-    webUrl: "https://www.hcamag.com/au/news/general/employee-recognition-how-to-get-it-right/292293"
+  - title: "25 States Are Forcing Face Recognition on People Filing for Unemployment"
+    excerpt: "State labor departments claim that they're using face recognition identity verification to prevent fraud, but you might want to check out the privacy policy."
+    publishedDateTime: 2021-07-23T18:00:00Z
+    webUrl: "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707"
+    ampWebUrl: "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp"
     type: article
     provider:
-      name: hcamag.com
-      domain: hcamag.com
-    quality: 24
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 88
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/037/0292_637626543466633567.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Voice Recognition Biometrics Market to Eyewitness Massive Growth by 2028: AGNITIO, Nuance Communications, VoiceTrust"
-    excerpt: "JCMR recently broadcasted a new study in its database that highlights the in depth market analysis with future prospects of Voice Recognition Biometrics market The study covers significant data which makes the research document a handy resource for managers industry"
-    publishedDateTime: 2021-07-20T04:36:00Z
-    webUrl: "https://www.openpr.com/news/2332223/voice-recognition-biometrics-market-to-eyewitness-massive"
-    ampWebUrl: "https://www.openpr.com/amp/2332223/voice-recognition-biometrics-market-to-eyewitness-massive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332223/voice-recognition-biometrics-market-to-eyewitness-massive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
-    images:
-      - url: "https://cdn.openpr.com/U/7/U720711733_g.jpg"
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/401a169d87d990b688a397d4df93cbd1.jpg"
         width: 800
-        height: 533
+        height: 450
         isCached: true
+  - title: "AnyVision launches facial recognition on edge devices for rural law enforcement"
+    excerpt: "A new edge-based tactical surveillance mobile application with facial recognition for law enforcement and military police has been unveiled by AnyVision."
+    publishedDateTime: 2021-07-22T17:26:00Z
+    webUrl: "https://www.biometricupdate.com/202107/anyvision-launches-facial-recognition-on-edge-devices-for-rural-law-enforcement"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/22132423/police-mobile-phone.jpg"
+        width: 922
+        height: 508
+        isCached: true
+  - title: "Insights on the Face Recognition Using Edge Computing Global Market to 2025 - Featuring Apple, Horizon Robotics and Mediatek Among Others"
+    excerpt: "12.16 Cisco Systems, Inc. 12.17 Belden Inc. 12.18 IBM Corporation 12.19 Intel Corporation 12.20 Moxa Inc."
+    publishedDateTime: 2021-07-21T13:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/21/9413820.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "rZ7p9gwtwj/d1dZih8kEgBDRoIdsj0iVhmroXMy0sIFU0TmDrtSdSeQviVYOxpSzw22zixp+WRslKzO1w3Gqgo/CNHj9fpxSxzGCr1zgSs3b+Sp8dgkQ5BoFFgIaobcL24iMIycgFmCLi+i2kbm2e6+Hq663RGhiZGo8m54MGftgta93AVP9xgB4tcYanXD19n2eESdTn4hRfiZ8C95twLqMQP2+kUsp7JbHzD+5OaBjPkRY5pwpuVU/CDbonusZe43eWICyBop9mjR5YGMd9CP4AORcd2wJd8R8YReQfJVp9ZbrPnl2mn9pItTm6qGqSLBwbjwEYys5iGUTC+1byY4o3mHxyNhouu9DsqEUvoH9avwkPyF/Ldceeqapc3A73/leuqpelMrD7AGHoA98duXaXQferCc0APclEieuiOfuLftpX2iuSVznt8uozoBRDr+oG5ZfLfUK8bIxADNs2dwzR2ZvkZLUSTFdT51U78JO/+ihdQryFbdLS4kYQ5SqAd6p+SZhCPHVpPr5DTPHWw==;fMAeim7+jUceQZSygK/Cnw=="
 ---

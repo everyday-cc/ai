@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
-excerpt: "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he ha"
-publishedDateTime: 2021-07-23T17:31:00Z
-originalUrl: "https://cbs58.com/news/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims"
+title: "Want your unemployment benefits? You may have to submit to facial recognition first"
+excerpt: "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he hasn't received a penny of the $6,490 he said he was eligible to receive and he's not sure when he will."
+publishedDateTime: 2021-07-23T18:40:00Z
+originalUrl: "https://www.msn.com/en-us/money/smallbusiness/want-your-unemployment-benefits-you-may-have-to-submit-to-facial-recognition-first/ar-AAMtC1Y"
 webUrl: "https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
 type: article
-quality: 151
-heat: -1
-published: false
+quality: 153
+heat: 173
+published: true
 
 provider:
-  name: CBS 58
-  domain: cbs58.com
+  name: com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html
+  domain: com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html
 
 topics:
   - AI
@@ -27,17 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Want your unemployment benefits? You may have to submit to facial recognition first"
-    excerpt: "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he hasn't received a penny of the $6,490 he said he was eligible to receive and he's not sure when he will."
-    publishedDateTime: 2021-07-23T18:40:00Z
+  - title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
+    excerpt: "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he ha"
+    publishedDateTime: 2021-07-23T17:31:00Z
     webUrl: "https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
     type: article
     provider:
-      name: com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html
-      domain: com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html
-    quality: 153
+      name: CBS 58
+      domain: cbs58.com
+    quality: 151
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200209224400-20200209-facial-recognition-gfx-super-tease.jpg"
         width: 1100
@@ -60,6 +60,6 @@ related:
         height: 382
         isCached: true
 
-secured: "Nd73rtoUBZQug/PE9ejRS9cv0kfYP0ss7NCAlKqaNkqwEAKVR0c/pUjXGsBdca8B+Vaz6AiM3wcD+g8ijCOtRxetrZ9YYD43Ac4uIBSmD3D+mINHJpdRFHcqiuSF4YpeFDumtGIEz3QqwWd9o++wbB359Y1eltQ90O3D92td/+49XYSlMLYxlGZAVCK4//QQnLLWhD1qLW+JYAOXstX3H+9cqLiQF2DHEpHVL8WAYHJhyMhOa3WYZ/7uWV4uwuWBr6p6BVbkGLpHPrneFy9B3obUutZJTuo/GJb5ZltkF3EQrDBrx6CpIdav/ymcCMLYxq/EkYed56t5/hddevB5N8aNOSSQ1Es7Hms2JWdgeMXz0YHGRfZIljWW32P26bY0NYZBpbKu5tLpw4cW5y8ZNbcSonKfPzlrgCp8ta/UIeqCpeeGYEMtv3559n2ibcj2Vz4NHIovp2z9SUPwlOUGYIPBOYhAyABK82U2xZ3Kl1fPq4nOeec/16j4DvQhiVr0vzT5JDg6lre6jca3fgVrtNrXzf3cNIy60igz41Ujw1A=;7mOukj51ppqGYb0nZobr/A=="
+secured: "RqX8NwbeMWsF2iTQx3jnpBrbyAiuExTxzRX4onGd/UXoRuNd2Hia6jwPZIzAOR9ywNIlr05eh31h9a9A+RRUqpmIJbO1s39Vurec9BkAJivkFak0Uj15BhV83KqMswp5ruONaabYSQLhI5IaZ4WL0ljGpxSTxT6G5ygNjZAtrSxK6LzyNu73rNQt4QyXIDuAG2UIk8GnD4yEQID5GUQ5WErPVbFoPJUvJDM+jRMLh0umf/BwvSQJiLhM0o08tQDxg2M0vOJwmtt33gs7Kiwn/is5eI3LhxUdTGkQXScjyKaVDPYgQ7fo1BS6vdxV1FmF7+3WjV4+L2O+tdnob7hVUwGC0waKr591zY0S4iIguXc=;WkCXIpEUOfYrzoiPRe2S2A=="
 ---
 

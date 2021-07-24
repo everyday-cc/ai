@@ -24,6 +24,17 @@ images:
     height: 521
     isCached: true
 
+related:
+  - title: "Unbabel Announces LangOps Survey Results and New Market Category to Unify Language Strategy and Unleash Growth for Businesses"
+    excerpt: "Unbabel Announces LangOps Survey Results and New Market Category to Unify Language Strategy and Unleash Growth for Businesses"
+    publishedDateTime: 2021-07-20T18:26:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210720005699/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "0Xu7Ol+bTPcLJA9eJypRArTGs+MRnddpNrgdaAEwdXndVZYyJL9PiWApDHV7ke72M9rvBuTkXhgF0D2/a7VD0aJl5DrC0/509gr1Ui1KJ350vCl1pQhOD6nxAeCzFtc/rAFphT5biugs4rebjUGM9GsTf7W+SJBTsSq/wb+yLGZr7V2Okz1Klx/vffLmAnV5sb9tDZSkGQzDle0wVUEPmkOFMEliCr97gTkD0HYdtP9hfOh0wGLSvOmNUx8mO4VlLntAoAZBAg5Fdm2uuvF+hI5V5chKI7dOJ/9zgXAE3nUbn1V8iiGCm6vVNbuApvLsWKaO9Htu7YUQYhGJJOFEaIJPh8zzKVzl3sDpkjmhaba9zka/57pAEiwYgWldMh6fJ/eqFQzQW6Ykv8Osnf5GDQr7jxdMQTse2po1RutylQbAre65k0t1S32hM8uvXGxLlo3BZ8nUDkwRTI8gFKXS7XSA8oa9qSnInv3yckxyTceb4Myb3t/gvPVRrpFPo8CVqNqK8TJzQ8uHkNjTewdpeg==;rXGEPKYw3Ul3nKDoG/5JlA=="
 ---
 
