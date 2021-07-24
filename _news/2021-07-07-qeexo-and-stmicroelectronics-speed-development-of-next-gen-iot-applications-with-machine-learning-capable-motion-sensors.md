@@ -1,30 +1,20 @@
 ---
 category: news
 title: "Qeexo and STMicroelectronics Speed Development of Next-Gen IoT Applications with Machine-Learning Capable Motion Sensors"
-excerpt: "Our one-click, fully-automated Qeexo AutoML platform allows customers to leverage sensor data to rapidly build machine learning solutions for highly constrained environments with applications in ..."
-publishedDateTime: 2021-07-07T09:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors-2021-07-07"
-webUrl: "https://www.marketwatch.com/press-release/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors-2021-07-07"
+excerpt: "“Delivering on the promise we made recently when we announced our collaboration with ST, Qeexo has added support for ST’s family of machine-learning core sensors on Qeexo AutoML,” said Sang ..."
+publishedDateTime: 2021-07-07T15:00:00Z
+originalUrl: "https://www.generation-nt.com/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-newswire-1990152.html"
+webUrl: "https://www.generation-nt.com/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-newswire-1990152.html"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GNT
+  domain: generation-nt.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "fPUoomY8jMnr+22sNPHzf1G2PfWQcB2B3ZKRkulp6+badE33OkpqQpfGeTrt7XfgJX8AFYkaT1HyBUYFOwMpc22AHpkBWtwxI9x5rg00vgrx92oP4zq1Qwwq//3M78Ac4qmAXjU4FN+fXnl5gWxKzKTzYFuBX5EkliSovKnz9oY6Kfasw6ddFZL+8KtXl3td8rqIo97QRDPGV2NVpbL7Mz9KleWFkzginCUHkp1tN2DboZsWycN16/XRl2IXw3ySOC57arR1a0JM9oFL6GCfr3KgTR6uZk91RzDzmTibjh0d3xxaE64MYU6A02RDNXMU7sIeuwOymmneuGd7vE4AY+CEiDAuMtFd+4bPPh+DYts=;Ni0OGw3kJ3FRUlqBSvYuHg=="
+secured: "cJ+IkCevijAMmgYA5Qu8b+4x5w9iTKwco9ntAu54SeJWl9y5pDUEHUpq3FLat6vxKeDyXUvlJ8Mej8l9lPdti7LN1cXyYQeS7oHgZjj1CC4pgbh6YpLi5yEtgSBLDT484TGNULK49vS6Kk9K4KxedZyjpvMZxC91Cri8fQ9moSyypw+lqiq8PFSrsMXVKapc4deojlrzZ3cVbVTi0BwxOr9z5mUhP2tqpsrPBCtEPCp8ni6rqSSO1kr3fA26IucwlyBn09I4vcJ72A3uI+0iFkRw5KkXPI16LKRzY4MGQCeUwqngd953J8hpUPDPl8Tw0wYMrsHNf/N2esZaoQxmbsaPtn1aYKi5hFj3X4vdayg=;/g3k6oL+nfyLKGYxgHhAOQ=="
 ---
 

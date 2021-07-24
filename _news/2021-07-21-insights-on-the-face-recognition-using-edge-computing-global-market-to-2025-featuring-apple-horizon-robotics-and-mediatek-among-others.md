@@ -20,81 +20,21 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "25 States Are Forcing Face Recognition on People Filing for Unemployment"
-    excerpt: "State labor departments claim that they're using face recognition identity verification to prevent fraud, but you might want to check out the privacy policy."
-    publishedDateTime: 2021-07-23T18:00:00Z
-    webUrl: "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707"
-    ampWebUrl: "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 88
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/401a169d87d990b688a397d4df93cbd1.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Millions of Americans seeking unemployment benefits must submit to facial recognition software"
-    excerpt: "Residents in 25 states have to register with ID.me's facial-recognition software to collect unemployment benefits, with more to come. But there are no federal laws governing biometrics."
-    publishedDateTime: 2021-07-23T21:58:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9819499/Millions-Americans-seeking-unemployment-benefits-submit-facial-recognition-software.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9819499/amp/Millions-Americans-seeking-unemployment-benefits-submit-facial-recognition-software.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9819499/amp/Millions-Americans-seeking-unemployment-benefits-submit-facial-recognition-software.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 47
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/07/23/22/45821447-0-image-a-2_1627076205152.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "States Voice Recognition for Smartphones"
-    excerpt: "| Apple, Google, Microsoft, Nuance, ... States Voice Recognition for Smartphones Market COVID 19 Impacted In-Depth Analysis including key players Apple, Google, Microsoft, Nuance, ... States Voice Recognition for Smartphones Market Investment Analysis | Apple,"
-    publishedDateTime: 2021-07-20T11:27:00Z
-    webUrl: "https://www.openpr.com/news/2332686/states-voice-recognition-for-smartphones-market-is-booming"
-    ampWebUrl: "https://www.openpr.com/amp/2332686/states-voice-recognition-for-smartphones-market-is-booming"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332686/states-voice-recognition-for-smartphones-market-is-booming"
+  - title: "Cognitive Computing Market will reach to $77.5 billion by 2025"
+    excerpt: "According to a new market research report Cognitive Computing Market by Component Deployment Mode Business Function Application IVA and Chatbot and Behavioral Analysis Technology Human Computer Interface and Deep Learning Industry Vertical and Region Global Forecast to 2025 published by"
+    publishedDateTime: 2021-07-21T14:34:00Z
+    webUrl: "https://www.openpr.com/news/2333993/cognitive-computing-market-will-reach-to-77-5-billion-by-2025"
+    ampWebUrl: "https://www.openpr.com/amp/2333993/cognitive-computing-market-will-reach-to-77-5-billion-by-2025"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333993/cognitive-computing-market-will-reach-to-77-5-billion-by-2025"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
     quality: 44
     images:
-      - url: "https://cdn.openpr.com/U/7/U720478281_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "AnyVision launches facial recognition on edge devices for rural law enforcement"
-    excerpt: "A new edge-based tactical surveillance mobile application with facial recognition for law enforcement and military police has been unveiled by AnyVision."
-    publishedDateTime: 2021-07-22T17:26:00Z
-    webUrl: "https://www.biometricupdate.com/202107/anyvision-launches-facial-recognition-on-edge-devices-for-rural-law-enforcement"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/22132423/police-mobile-phone.jpg"
-        width: 922
-        height: 508
-        isCached: true
-  - title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
-    excerpt: "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he ha"
-    publishedDateTime: 2021-07-23T17:31:00Z
-    webUrl: "https://cbs58.com/news/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 31
-    images:
-      - url: "https://newscdn2.weigelbroadcasting.com/sLNI4-1627061814-202056-blog-hypatia-h_6ec8311a306d734cff37afecd9169c92-h_7a1db3a9aa71e5465eb58e7846f2ca95.jpg"
-        width: 2500
-        height: 1663
+      - url: "https://cdn.openpr.com/U/7/U721615846_g.jpg"
+        width: 650
+        height: 437
         isCached: true
 
 secured: "uArdG4xtNws1PT7J6XTqzqosQllPAI1quFIkNC/Tnh/++EKt9KsdLfEC6CTNn0eyfLkYGzTLLYcpIgADmAFDCCq7zBcrBR6ExnnNkfa/94QLl5c1hoVDwCf5nY7shI1jlQpcFBUpxU8LNfATvqgTsLJQ780sZk3nfSoSQzVveCBcCjT6t/8rQcH51nw1dAXC50EAlNHt/xutuWC4EBTRQ5kdsxMkHQ8/fikfnLe67hkhjlpInZLoTbopFAnjDxNEigi4XhUXeeR6I+ggwjfZxlaE97EJyIs4eKdfbk8NaKGmh+NCToUKGg4yL2rTiVvejyYqyGBcr4rLxppXxUW0dysX3BpozHV+JeU3PgWG6Z8=;5PNEOp6qXosEy810qwVpZw=="

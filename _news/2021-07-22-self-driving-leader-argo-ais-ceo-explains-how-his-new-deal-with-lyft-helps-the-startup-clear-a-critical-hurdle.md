@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/argo-ai-ceo-explains-why-hes-launc
 webUrl: "https://www.businessinsider.com/argo-ai-ceo-explains-why-hes-launching-robotaxis-with-lyft-2021-7"
 type: article
 quality: 51
-heat: -1
+heat: 51
 published: false
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Pittsburgh Left puts self-driving cars to the test and Argo AI is ready to pass"
-    excerpt: "Pittsburgh-based Argo AI thinks it has solved the problem of local driving anomalies well enough to be able to deploy a robotaxi service sometime next year."
-    publishedDateTime: 2021-07-20T14:41:00Z
-    webUrl: "https://nextpittsburgh.com/latest-news/pittsburgh-left-puts-self-driving-cars-to-the-test-and-argo-ai-is-ready-to-pass/"
-    ampWebUrl: "https://nextpittsburgh.com/latest-news/pittsburgh-left-puts-self-driving-cars-to-the-test-and-argo-ai-is-ready-to-pass/amp/"
-    cdnAmpWebUrl: "https://nextpittsburgh-com.cdn.ampproject.org/c/s/nextpittsburgh.com/latest-news/pittsburgh-left-puts-self-driving-cars-to-the-test-and-argo-ai-is-ready-to-pass/amp/"
-    type: article
-    provider:
-      name: NEXTpittsburgh
-      domain: nextpittsburgh.com
-    quality: 57
-    images:
-      - url: "https://nextpittsburgh.com/wp-content/uploads/2019/06/UA_190624A_Argo-Car_0099-e1561489102515.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "mVxhbvpyE7InMYV8R2ruIP80gjsVzTwCErYKqJxZmiUQMedUdUELqByXoNn+NKu+x5IqWIldZ38ltLekYBqI+gFOSqdIQaFfCZ+OOhlnVMkrYaAtEN39+zDWuYX6tA6V/I7aMuuNB5+CqF7OHp0Yfoday5vU5ulp2hFQin92/fxBeyLBLiZ0MjlQIvNvqITQBuBwW0o2eg4jm+12qixn3ZTnIg3afNz2Dob4pVz6wOOuWe7yQatuIxVsDlO4FZ3Iib1ySy6WF3RvHZt9K4Cum0OI+2iscZL6j9dg1Wh4qtg7/higkQaCtAf1v2TNiukW2ecUxofl3j11muILGhQorXwl32+JLH+INDZyPHk5c2ptpYeLW0jv2s3zGnlnwlyT7inkbv8j0JP2pRGV9LGJkrurrPxHC0ERykBy9tQhN4Bo3kSjH5ru8jLfpS4AaON+DtmM8p7U2ofYAJ9vBFWm+4WXNFJiMbm/zmpwF0rQ3GYQtlqf2NwgzIg2a6xVc9Iaam7EliiRtvF55mLhLAeYmA==;XMBeHYoV4ofCqeZpJ4iy8A=="
 ---

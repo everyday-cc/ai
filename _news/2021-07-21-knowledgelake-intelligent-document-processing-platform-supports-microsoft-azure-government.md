@@ -2,26 +2,26 @@
 category: news
 title: "KnowledgeLake Intelligent Document Processing Platform Supports Microsoft Azure Government"
 excerpt: "KnowledgeLake, a leading provider of intelligent document capture and processing solutions, today announced the company's customers now have the ability to leverage"
-publishedDateTime: 2021-07-21T12:00:00Z
-originalUrl: "https://www.webstercountycitizen.com/news/state/article_410c844d-4509-5add-a102-f1c01252ecdf.html"
-webUrl: "https://www.webstercountycitizen.com/news/state/article_410c844d-4509-5add-a102-f1c01252ecdf.html"
+publishedDateTime: 2021-07-21T13:00:00Z
+originalUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/knowledgelake-intelligent-document-processing-platform-supports-microsoft-azure-government/article_c87cc6a5-396b-59b5-b766-085c6709d81d.html"
+webUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/knowledgelake-intelligent-document-processing-platform-supports-microsoft-azure-government/article_c87cc6a5-396b-59b5-b766-085c6709d81d.html"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Webster County Citizen
-  domain: webstercountycitizen.com
+  name: Marietta Daily Journal
+  domain: mdjonline.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/webstercountycitizen.com/content/tncms/custom/image/678ffba4-dac7-11e7-a5bf-af4c1ad100e1.png"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/8e14a090-8f54-11e7-9a2a-7f0e56ddb42e.jpg"
+    width: 1920
+    height: 1281
     isCached: true
 
 related:
@@ -77,6 +77,6 @@ related:
       domain: publicnow.com
     quality: 4
 
-secured: "12HioEUstAyqXQr786VvZipXuO+NDOJbXcNFVdxiof1tX50Wv+7lTuwqczXXxJD+IaLuMs8B3FTmr9Tz9rBtr6/V7hgqQQ0P/WKIBvaLdaJZaH4HHyxLlsdNc6/ZiCfxMcxOJgyp4+MvcxexoYHdo0cOPt2KgtoQ8f/6J34GB+mc1u+jIpxVY0oI3bgiF5mJocxzlFm9a27SPrcAh6vIMP+aQ/UkDCINTFduCv8fww79qa4vo3qQ9LfszCov3KmfGmdHQlTYacWjyLRkBl6/lGwjksnPVPL1whCfeFIPC5dh48Tse9/UJNTg7bwrg9X2G9GoVcWJFgcD2FK+BGuEDF4Q7/wOS3uDPehZ9UM5K60=;W5adaaCaPZByd7ZFzqVMAA=="
+secured: "Er1sbKaQsOHtTR9xogZFWmDb6xjwbDg5mwZSZ1PnWYlXQZcWOznzzygJfY3kHIDX/rLp3Taf3fOxri1Mg21iHNw7O8YZYD9Dw7468QNx7RdwrmorZVh1aE+dI+Cs02ReyN76FdVIgZjB6vo01YzQRupiSGe80W3TI4ARj+hJ6aZARyQZXqG2C/usSmiw2f+oJIPA66B40LeGQXUNfmDcf/EOyFjZ403C5kTSI7QeUKE47+OUn6yOxL7a4CJQoAJWBV6dKXRpGIFFf2iX+ed9hYEUXo9mMi2b2d6/HvizLJa9E/ZKD2yaqtdLjY7ypfT/S6L6PEfvgx58iRVVeZfjc0D9MPFHfGwoju7FunlSyuI=;LTaXw+lawixCqtR41P6JGA=="
 ---
 

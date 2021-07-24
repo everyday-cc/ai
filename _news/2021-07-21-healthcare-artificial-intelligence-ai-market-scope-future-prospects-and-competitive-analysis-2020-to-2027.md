@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21"
 type: article
 quality: 82
-heat: 202
+heat: 192
 published: true
 
 provider:
@@ -97,20 +97,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Deep Learning Chip Market Share 2021 Growth Prospects, Industry Size, Demand, Analysis of Top Key Players, Latest Trends and Forecast to 2025"
-    excerpt: "About Deep Learning Chip Market: Deep learning chip is an artificial intelligence (AI) device that enables a machine to learn the given tasks and perform them without being explicitly programmed."
-    publishedDateTime: 2021-07-19T20:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chip-market-share-2021-growth-prospects-industry-size-demand-analysis-of-top-key-players-latest-trends-and-forecast-to-2025-2021-07-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

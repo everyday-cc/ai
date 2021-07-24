@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
-    excerpt: "DeepMind, the AI unit of Google that invented the chess champ neural network AlphaZero a few years back, shocked the world again in November with a program that had solved a decades-old problem of ..."
-    publishedDateTime: 2021-07-19T20:50:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/07/19/174d8e26-89ff-49e0-b579-3bfb65435bfa/deepmind-alphafold-2-triangular-self-attention-2021.jpg"
-        width: 848
-        height: 408
-        isCached: true
   - title: "DeepMind puts the entire human proteome online, as folded by AlphaFold"
     excerpt: "DeepMind and several research partners have released a database containing the 3D structures of nearly every protein in the human body, as computationally determined by the breakthrough protein folding system demonstrated last year,"
     publishedDateTime: 2021-07-22T15:01:00Z
@@ -140,7 +124,7 @@ related:
   - title: "DeepMind’s AI predicts structures for a vast trove of proteins"
     excerpt: "AlphaFold neural network produced a ‘totally transformative’ database of more than 350,000 structures from Homo sapiens and 20 model organisms."
     publishedDateTime: 2021-07-22T15:33:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02025-4?s=07"
+    webUrl: "https://www.nature.com/articles/d41586-021-02025-4?error=cookies_not_supported&code=a365541b-42f0-4984-a7ab-cb10a65e9e92"
     type: article
     provider:
       name: Nature

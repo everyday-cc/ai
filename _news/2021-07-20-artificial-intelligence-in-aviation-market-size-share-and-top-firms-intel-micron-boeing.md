@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-mar
 webUrl: "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market"
 type: article
 quality: 126
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI Marketing Market 2021 by Global Key Players, Types, Applications, Countries, Industry Size and Forecast to 2027"
-    excerpt: "A new informative report titled as “Global AI Marketing Market Report 2021 by Market Size, Forecast to 2027 (Based on 2020 COVID-19 Worldwide Spread)” provides estimations of the size of the global market and share and size of key regional markets during the historical period of 2015 to 2020."
-    publishedDateTime: 2021-07-19T19:48:00Z
-    webUrl: "https://manometcurrent.com/ai-marketing-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-    images:
-      - url: "https://rustwire.com/wp-content/uploads/2021/07/MicrosoftTeams-image.jpg"
-        width: 626
-        height: 351
         isCached: true
   - title: "AI in Fintech Market Size, Revenue Share, Drivers & Trends Analysis, 2016–2026 | Reports And Data"
     excerpt: "The global AI in Fintech Market is forecast to reach USD 26.77 Billion by 2026, according to a new report by Reports and Data. The AI in fintech incorporates computational power and deep learning algorithms to the financial technology."

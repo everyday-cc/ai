@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b612298c27be03c873e4b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6030%26cropY1%3D478%26cropY2%3D3870"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Tesla Rolls Out $200 Monthly Subscription for ‘Full Self-Driving’"
-    excerpt: "Some vague language on Tesla's part means that vehicles marketed as having full Autopilot capabilities might need an additional $1,500 hardware upgrade to use FSD."
-    publishedDateTime: 2021-07-19T19:50:00Z
-    webUrl: "https://www.extremetech.com/extreme/324864-tesla-rolls-out-200-monthly-subscription-for-full-self-driving"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/01/Tesla-Model-S-2021.jpg"
-        width: 1344
-        height: 756
         isCached: true
 
 secured: "6mRGi892NvCpXxt7nY99ultYXrLKQzWNCBI9Dq1w+ZUL0F+ghG+RL9yUnsaqzKFFQ+0aD4YNQxp+YDpB5OJvgdPiCOym+eJTPPJ8nlHpW/z7n+ZD80Ydlf6DWUFwUnFsouANTqIvW4w8fpGAvBsj461BAthcDcDO2bPuqjJjFK7YsCJHKQvKYiMkEgmkeW13iXT91B5e+H2nlsxbA2RayVivNriHXbKzJ/wjLdGEYzBC66TALUyyxoliBMvb2/gtzZiCYGlahg4HufexxDmZ0cxuAWsOEJ/oCqrXLX0HKNnKq55UZs7n28Z9BwnCt7yjiaYZcCvhuQE8UziHUk8QAda13NDXHp0aCMybTZBpbQVfJ1A5ZIAK6pp/CNpKPDLg/v7mVkPtGmtAVNMVifQeH2G+x67/OaLnK9LksZ0L/5gZj+azWsgFQvyRgr+5CXNIiAMPMtI2eFgn6asPNDKyptmtKdMlrsghjd3uuOAzQO7ifF3VuJH8Z5JVN0eHlgUN6pmzQJl1VD9fj8SdyrT/qw==;JSpWmbD2YDqM63vWM0Lnrw=="

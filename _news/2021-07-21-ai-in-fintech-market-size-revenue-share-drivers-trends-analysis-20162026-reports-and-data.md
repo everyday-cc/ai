@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Marketing Market 2021 by Global Key Players, Types, Applications, Countries, Industry Size and Forecast to 2027"
-    excerpt: "A new informative report titled as “Global AI Marketing Market Report 2021 by Market Size, Forecast to 2027 (Based on 2020 COVID-19 Worldwide Spread)” provides estimations of the size of the global market and share and size of key regional markets during the historical period of 2015 to 2020."
-    publishedDateTime: 2021-07-19T19:48:00Z
-    webUrl: "https://manometcurrent.com/ai-marketing-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-    images:
-      - url: "https://rustwire.com/wp-content/uploads/2021/07/MicrosoftTeams-image.jpg"
-        width: 626
-        height: 351
-        isCached: true
   - title: "Deep Learning Market Size, Share, Status and Forecasts 2021 – 2028"
     excerpt: "The Deep Learning market research report assesses the global Deep Learning Market industry market and includes sales and capacity forecasts for the anticipated period 2021-2028. The factors driving the growth of the industry are highlighted in the report."
     publishedDateTime: 2021-07-21T01:11:00Z

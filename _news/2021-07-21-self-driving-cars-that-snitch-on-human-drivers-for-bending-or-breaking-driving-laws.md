@@ -47,20 +47,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Tesla Rolls Out $200 Monthly Subscription for ‘Full Self-Driving’"
-    excerpt: "Some vague language on Tesla's part means that vehicles marketed as having full Autopilot capabilities might need an additional $1,500 hardware upgrade to use FSD."
-    publishedDateTime: 2021-07-19T19:50:00Z
-    webUrl: "https://www.extremetech.com/extreme/324864-tesla-rolls-out-200-monthly-subscription-for-full-self-driving"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/01/Tesla-Model-S-2021.jpg"
-        width: 1344
-        height: 756
-        isCached: true
 
 secured: "+r44lwPxys2ouzlgYjOJAx20Dqw/bUYViUN9PO1xO7eQ9Z7n3tOcWBHDpb8Ft1bfv0fwwIlhFTw2zZmVjlnDDyCVxf6LH3U3JqkcW/eOq2rfcVfvTeancIIGeR72AowvKUzCDYb3oMbnVVLsdEy4Bg8JMJQ0cV4aJ/wgU2lFUePccFiJnuZrmC6Al5yQXwdxdo5nscHVKUHzaglOJKLcdwrMSKp3tE9svfrZZj0brFpwRf6RomxwJFtNhdiXDvjczDvKeCePZ56p+DQjkf6IsS/Q1SbcE6M+WEu6Q99Qa7wHe7xQp7sXg2G5er/FMbbrKG3BlMfq4qzmmV8r4DRW7ZS7cuM/9oo11wY4TFQc7KgFHbC1fRMeusMaSWm+BM+s6dpwkwACLMuBdryPBLRh2Ep2yYJFo4xNlByngGKm72tPzXepCnYd4NcPGauDMSuKOf+hA5rhROLQzkqFsVtfMteUH26FKGAU3d/2wLQ9wNkSs4td84m5cfQQLTuqVew3oCERSt5fIRedEJxVFIHcVg==;HCIG0nUtsVFZGXvNnZthVw=="
 ---

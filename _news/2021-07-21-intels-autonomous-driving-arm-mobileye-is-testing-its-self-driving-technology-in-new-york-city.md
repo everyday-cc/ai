@@ -94,6 +94,20 @@ related:
         width: 1279
         height: 909
         isCached: true
+  - title: "Self-driving cars confront a daunting new challenge: New York City streets"
+    excerpt: "Mobileye received a special permit from New York state, allowing manufacturers of “autonomous vehicle technology” to test on public streets. The permit requires drivers be pre"
+    publishedDateTime: 2021-07-22T12:26:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/07/22/intel-autonomous-cars-mobileeye/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 22
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YPHNEQ7LRJBOLEX2DK55DLXK4Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Intel's Mobileye testing self-driving cars on New York City streets"
     excerpt: "Intel is testing the theory that if you can make it in New York you can make it anywhere. It's self-driving car technology business Mobileye has had AVs on NYC streets for 6 weeks."
     publishedDateTime: 2021-07-21T00:12:00Z

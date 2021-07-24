@@ -115,20 +115,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning Chip Market Share 2021 Growth Prospects, Industry Size, Demand, Analysis of Top Key Players, Latest Trends and Forecast to 2025"
-    excerpt: "About Deep Learning Chip Market: Deep learning chip is an artificial intelligence (AI) device that enables a machine to learn the given tasks and perform them without being explicitly programmed."
-    publishedDateTime: 2021-07-19T20:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chip-market-share-2021-growth-prospects-industry-size-demand-analysis-of-top-key-players-latest-trends-and-forecast-to-2025-2021-07-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Camera Market-Key Findings, COVID - 19 Impact Analysis, Business Trends,Emerging Technologies and Future Prospects 2027"
     excerpt: "Market Research Future published a research report on \"AI Camera Market Research Report – Global Forecast till 2027\" -"
     publishedDateTime: 2021-07-21T08:20:00Z

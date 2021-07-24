@@ -3,8 +3,8 @@ category: news
 title: "DeepMind’s AI predicts structures for a vast trove of proteins"
 excerpt: "AlphaFold neural network produced a ‘totally transformative’ database of more than 350,000 structures from Homo sapiens and 20 model organisms."
 publishedDateTime: 2021-07-22T15:33:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-02025-4?s=07"
-webUrl: "https://www.nature.com/articles/d41586-021-02025-4?s=07"
+originalUrl: "https://www.nature.com/articles/d41586-021-02025-4?error=cookies_not_supported&code=a365541b-42f0-4984-a7ab-cb10a65e9e92"
+webUrl: "https://www.nature.com/articles/d41586-021-02025-4?error=cookies_not_supported&code=a365541b-42f0-4984-a7ab-cb10a65e9e92"
 type: article
 quality: 54
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: nature.com
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02025-4/d41586-021-02025-4_19383154.jpg"
@@ -40,22 +40,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/07/Protein-artwork-e1626813228890.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "DeepMind's AlphaFold 2 reveal: Convolutions are out, attention is in"
-    excerpt: "DeepMind, the AI unit of Google that invented the chess champ neural network AlphaZero a few years back, shocked the world again in November with a program that had solved a decades-old problem of ..."
-    publishedDateTime: 2021-07-19T20:50:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/deepminds-alphafold-2-reveal-what-we-learned-and-didnt-learn/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/07/19/174d8e26-89ff-49e0-b579-3bfb65435bfa/deepmind-alphafold-2-triangular-self-attention-2021.jpg"
-        width: 848
-        height: 408
         isCached: true
   - title: "DeepMind puts the entire human proteome online, as folded by AlphaFold"
     excerpt: "DeepMind and several research partners have released a database containing the 3D structures of nearly every protein in the human body, as computationally determined by the breakthrough protein folding system demonstrated last year,"
@@ -284,6 +268,6 @@ related:
       domain: bio-itworld.com
     quality: 13
 
-secured: "9YWpI/Nr1rs6Ck7u4bSSPndeLipRq7js3mVzJPM2LZ87y0NIztWChUz7CamzwlJZgwwRY5hVVWndg3Y4WQCR0AZt3KD+Sjca8k5z5abFSiHKPsjcCV8agF2MR+2+j55abtSFbFmWCupBoAiOY1iwZIullqZsaiyHZBj+bPZB7/CJdsJWmOc1k84fgupfdCVFHwmd39xTWemtHaP2jFkJk3UPjmkz8Z2wbzSs4b7QsTASM8vU5FQC0t6eqTNOZYbEf3ZLAr3Y9Ai04j6A6KWAkLMDyIyLPmNK1Aw6WWZOYBkFekP3TH1P0t4h5MgoS4KaOg1JYYzmRWwQVieqBk7f/KMGV/xwWM70Z87mGFomulI=;ih2EmAwQCohlvfd7e4znqA=="
+secured: "yDe66oh+LZNzrBKnVSfsmiRywkB4T78HqC0JDKIo4THdkTa+5r4Yf5yaXJ7K3H1pobCNaHBaDHqASZ5+S+ryq/mzi7yJntWDeMWJi1G+Xq6JwBHA6jEMxg8njbXs4o0GQ4nLvScTdwaDln7e8Qt7VQlFbC4UvTL0eirDj2YIbRn+oV7BWbSMGG/mSYOUitnPc5J6viXTXFVpuHXHVUoBugmqNeBFPXpLefa90vt8k+qAL0zYeItGJOujYtaXDX5SMTiStfqlti8K437A/MlOtt+ISkMDpODqtGqqwaMioAmwiWFYLyCdlbUWTIr3fNr4jVMcsvPQp2t0qTS++baNx60FnPk1isQbFMPFQtAImiQ=;YCljSNHMwULNYcvhNV0IIQ=="
 ---
 

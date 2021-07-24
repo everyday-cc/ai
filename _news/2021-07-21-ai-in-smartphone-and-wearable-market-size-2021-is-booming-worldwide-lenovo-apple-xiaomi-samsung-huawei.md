@@ -27,6 +27,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 24
+  - title: "AI Translation Market Size 2021 is Booming Worldwide| Soundai, Mi, Rozetta, Google, Facebook, Microsoft"
+    excerpt: "The final report will add the analysis of the impact of COVID-19 on this sector, The AI Translation market is moving repeatedly, due to a combination of effects resulting from the expansion of new technologies,"
+    publishedDateTime: 2021-07-20T02:12:00Z
+    webUrl: "https://manometcurrent.com/ai-translation-market-size-2021-is-booming-worldwide-soundai-mi-rozetta-google-facebook-microsoft/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 20
   - title: "Machine Learning Data Catalog Software Market Size 2021 is Booming Worldwide| IBM, Alation, Oracle, Cloudera, Unifi, Anzo Smart Data Lake (ASDL)"
     excerpt: "The Machine Learning Data Catalog Software market report covers various facets of the Machine Learning Data Catalog Software market for the forecast period 2021-2028. The report discusses the different market avenues and current trends that business owners should consider before making an investment."
     publishedDateTime: 2021-07-21T04:58:00Z

@@ -27,19 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "UK House of Lords consider issues around biometrics, facial recognition"
-    excerpt: "The Committee is calling for more contributions to its inquiry into the use of new technologies like predictive algorithms and biometrics in law enforcement."
-    publishedDateTime: 2021-07-22T16:41:00Z
-    webUrl: "https://www.biometricupdate.com/202107/uk-house-of-lords-consider-issues-around-biometrics-facial-recognition"
+  - title: "States Voice Recognition for Smartphones"
+    excerpt: "| Apple, Google, Microsoft, Nuance, ... States Voice Recognition for Smartphones Market COVID 19 Impacted In-Depth Analysis including key players Apple, Google, Microsoft, Nuance, ... States Voice Recognition for Smartphones Market Investment Analysis | Apple,"
+    publishedDateTime: 2021-07-20T11:27:00Z
+    webUrl: "https://www.openpr.com/news/2332686/states-voice-recognition-for-smartphones-market-is-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2332686/states-voice-recognition-for-smartphones-market-is-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332686/states-voice-recognition-for-smartphones-market-is-booming"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
+      - url: "https://cdn.openpr.com/U/7/U720478281_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Employee recognition: How to get it right"
+    excerpt: "Employee recognition is one of the simplest and most cost-effective strategies to boosting motivation and productivity in the workplace. So why is so often underutilised? New research by Achievers has identified a sizeable disconnect between how successful managers see their company’s recognition strategies to be and the experience of employees on the ground."
+    publishedDateTime: 2021-07-23T16:25:00Z
+    webUrl: "https://www.hcamag.com/au/news/general/employee-recognition-how-to-get-it-right/292293"
+    type: article
+    provider:
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 24
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/037/0292_637626543466633567.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "IQ/WvUAo4YjsN2SESwzNwV/j91uETOh+s6Ygpdq5JwmdmAb7eu6INxDPLOhVNb7s7pIl8QF9TG5gozVmqOOtDpZ4ZfxIcdL/BhHMl7s4BLDF6Cx8vNhaBugyu0G2wvF+KhdnOro+gC9EtWgpAvFLU77wP7oSHoqXO9IKUMHKNqcDmg0C5GoVxj2nN5v5Hd2Qt7xitcF+wYobwJVsXbUXFCzgIZ9uMccredqWntADpwmwLcvctgKsJtVzMrfRLIuGCosUC2Qy5evxJh2sChBTOTGedPYVpknIfnP3ImXL35sMlI+sMk9u+DfsMgI1KAvvs7B86Th5nYiT3WAyTnm2Ia6OGQ1BHv1rtzUTIBM6G+s=;ibGdriH37PZ0NsCIRTm6jw=="

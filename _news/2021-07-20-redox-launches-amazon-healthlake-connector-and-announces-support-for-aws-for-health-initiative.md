@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon rolls out AWS For Health cloud services for healthcare, genomics and biopharma"
-    excerpt: "Amazon's cloud division has rolled out AWS for Health, a set of services and partner solutions for healthcare, genomics and biopharma. Amazon says the portfolio of solutions will help to accelerate innovation from \"benchtop to bedside\" as the tech giant pushes further into the healthcare and life sciences markets."
-    publishedDateTime: 2021-07-19T19:13:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/amazon-rolls-out-aws-for-health-as-cloud-services-for-healthcare-genomics-and-biopharma"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 49
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1626713437/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?fMn1pTKdQf6jsQ30yFiTjsKJDN3Vq5wq"
-        width: 4432
-        height: 2955
-        isCached: true
   - title: "1Strategy Announces Support for AWS for Health Initiative"
     excerpt: "Strategy, a TEKsystems Global Services company and Amazon Web Services (News - Alert) (AWS) Premier Partner, announced support for the AWS for Health initiative to help accelerate solutions in genomics research."
     publishedDateTime: 2021-07-21T15:16:00Z

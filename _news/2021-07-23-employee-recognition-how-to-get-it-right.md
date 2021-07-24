@@ -25,33 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Flawed Facial Recognition: 'I Did Nothing Wrong. I Was Arrested Anyway.'"
-    excerpt: "Federal studies have shown that facial recognition systems misidentify Asian and Black people up to 100 times more often than white people."
-    publishedDateTime: 2021-07-21T20:09:00Z
-    webUrl: "https://www.commondreams.org/views/2021/07/21/flawed-facial-recognition-i-did-nothing-wrong-i-was-arrested-anyway"
+  - title: "States Voice Recognition for Smartphones"
+    excerpt: "| Apple, Google, Microsoft, Nuance, ... States Voice Recognition for Smartphones Market COVID 19 Impacted In-Depth Analysis including key players Apple, Google, Microsoft, Nuance, ... States Voice Recognition for Smartphones Market Investment Analysis | Apple,"
+    publishedDateTime: 2021-07-20T11:27:00Z
+    webUrl: "https://www.openpr.com/news/2332686/states-voice-recognition-for-smartphones-market-is-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2332686/states-voice-recognition-for-smartphones-market-is-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332686/states-voice-recognition-for-smartphones-market-is-booming"
     type: article
     provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 38
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
     images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-07/williams.png?h=0dc8efae&itok=pkEfnvsT"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/7/U720478281_g.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Successful Ofqual Recognition: Top 10 Words of Wisdom"
-    excerpt: "On 4 August 2020, the Institute for Apprenticeships and Technical Education (@IFATEched), announced the transfer of the #EQA of end-point assessment to @Ofqual, or, for integrated higher and degree apprenticeships,"
-    publishedDateTime: 2021-07-20T06:21:00Z
-    webUrl: "https://www.fenews.co.uk/fevoices/72887-sharing-ofqual-recognition-experiences-to-help-other-epaos"
+  - title: "Voice Recognition Biometrics Market to Eyewitness Massive Growth by 2028: AGNITIO, Nuance Communications, VoiceTrust"
+    excerpt: "JCMR recently broadcasted a new study in its database that highlights the in depth market analysis with future prospects of Voice Recognition Biometrics market The study covers significant data which makes the research document a handy resource for managers industry"
+    publishedDateTime: 2021-07-20T04:36:00Z
+    webUrl: "https://www.openpr.com/news/2332223/voice-recognition-biometrics-market-to-eyewitness-massive"
+    ampWebUrl: "https://www.openpr.com/amp/2332223/voice-recognition-biometrics-market-to-eyewitness-massive"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332223/voice-recognition-biometrics-market-to-eyewitness-massive"
     type: article
     provider:
-      name: fenews.co.uk
-      domain: fenews.co.uk
-    quality: 24
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
     images:
-      - url: "https://www.fenews.co.uk/images/Fay_Edwards_FE_News.jpg"
-        width: 750
-        height: 570
+      - url: "https://cdn.openpr.com/U/7/U720711733_g.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "JsUYlOUnIYVQ82hcHpvm/q3xwFXjHBQXVkTAaSOB542r0AFOt8n0H9zv0vrHSiku1rGIwPEOKtPiUj9u/7bUExp8KqubSyFaHgO8GWUY4b+KkMsXUlmfJ687yy2l+eC7K+uTPmUUxVgPDFRBz176cNQrXhNZDzgkElIWduQX/jOiFpR63N4g+HDIqR4DG0Av4CBv5XkfEt/l5b8b2zqzoWaRKYD/yRNWXuP+zAjhlC/YW2nN0x/ZlTUAQT7sAf8Mhhez71pPxID7BUnh1GImIBmjiH+HBAA3sQrBOuCWtLFS0Pglw7GCPOz3AV9/oMQTnIApmRj3kuiSQ2+8b2tl6OybyMlDwP/ycwbaWWra9r4=;9e4uQkcPK9f0M50d9wyITA=="

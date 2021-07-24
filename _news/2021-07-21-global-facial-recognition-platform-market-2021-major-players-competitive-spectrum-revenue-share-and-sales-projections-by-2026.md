@@ -102,20 +102,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning Chip Market Share 2021 Growth Prospects, Industry Size, Demand, Analysis of Top Key Players, Latest Trends and Forecast to 2025"
-    excerpt: "About Deep Learning Chip Market: Deep learning chip is an artificial intelligence (AI) device that enables a machine to learn the given tasks and perform them without being explicitly programmed."
-    publishedDateTime: 2021-07-19T20:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chip-market-share-2021-growth-prospects-industry-size-demand-analysis-of-top-key-players-latest-trends-and-forecast-to-2025-2021-07-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
     excerpt: "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
     publishedDateTime: 2021-07-20T12:59:00Z

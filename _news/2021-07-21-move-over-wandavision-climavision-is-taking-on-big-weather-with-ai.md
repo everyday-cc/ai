@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2021/07/20/move-over-wand
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/07/20/move-over-wandavision-climavision-is-taking-on-big-weather-with-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 799
     isCached: true
+
+related:
+  - title: "AnyVision launches facial recognition on edge devices for rural law enforcement"
+    excerpt: "A new edge-based tactical surveillance mobile application with facial recognition for law enforcement and military police has been unveiled by AnyVision."
+    publishedDateTime: 2021-07-22T17:26:00Z
+    webUrl: "https://www.biometricupdate.com/202107/anyvision-launches-facial-recognition-on-edge-devices-for-rural-law-enforcement"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/22132423/police-mobile-phone.jpg"
+        width: 922
+        height: 508
+        isCached: true
 
 secured: "UB3+WzZpQLI0lweNYW/pk5D2C+pIGIYhAsZ9l4oOZa5HdbJuENxPgp22JDbX5EhcOFDpOwDvcM0k7ZliQ1YXZJOCYIsft8iHhQnh9EhT4wi7poXYMI1GCl7rfUXvquq88ulbHG6+J9fxO//cxvgfb2h8+TA1iMb7w+HyyxNDo182qwx6vmKAJi4aL7MZI3BmZT20P2BvgOD+/bQw4dn/n4y8C/ZKsq+x8waG39lYJYwnLosKQbBqsW5LVaKfdA3pOAAG/liZ74e34Nivu/M3perAexvDNGCYcbcpbmJ9S/BYg67AxvDd+W+jGbNYnC/qgWrzHxaXxcfWtdueUTa+V0gpfxWb15mgcv5Gu9Km349AqwcbmlBM+39NgTXrtiT3IW2ksG8xPQXovg1gj3H0T3vRa5zG9NmgTSHVRTJZYzWnQL09ckAQpV9nyObQj16hUR6p2BeJKQeFnXnLkzw+4iU2KYUB8mcUSAHfXv35g4qOyK3dZVysGS9ewW5NCfKeNwUJNscBxYXWSJ/NHtswdg==;dBz4I6ZRfsZEeg/Pj4Pi6A=="
 ---

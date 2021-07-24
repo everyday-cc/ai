@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/product-news/amp/dotm
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/product-news/amp/dotmatics-announces-support-for-the-aws-for-health-initiative-351111"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://res.infoq.com/news/2021/07/aws-amazon-healthlake-ga/en/headerimage/header+%286%29-1626678272811.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Amazon rolls out AWS For Health cloud services for healthcare, genomics and biopharma"
-    excerpt: "Amazon's cloud division has rolled out AWS for Health, a set of services and partner solutions for healthcare, genomics and biopharma. Amazon says the portfolio of solutions will help to accelerate innovation from \"benchtop to bedside\" as the tech giant pushes further into the healthcare and life sciences markets."
-    publishedDateTime: 2021-07-19T19:13:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/amazon-rolls-out-aws-for-health-as-cloud-services-for-healthcare-genomics-and-biopharma"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 49
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1626713437/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?fMn1pTKdQf6jsQ30yFiTjsKJDN3Vq5wq"
-        width: 4432
-        height: 2955
         isCached: true
   - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
     excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"

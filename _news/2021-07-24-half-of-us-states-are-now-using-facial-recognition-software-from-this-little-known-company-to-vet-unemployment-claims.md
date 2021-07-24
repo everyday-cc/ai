@@ -4,24 +4,26 @@ title: "Half of US states are now using facial recognition software from this li
 excerpt: "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he ha"
 publishedDateTime: 2021-07-23T17:31:00Z
 originalUrl: "https://cbs58.com/news/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims"
-webUrl: "https://cbs58.com/news/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims"
+webUrl: "https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
 type: article
-quality: 31
-heat: -1
-published: false
+quality: 151
+heat: 171
+published: true
 
 provider:
   name: CBS 58
   domain: cbs58.com
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://newscdn2.weigelbroadcasting.com/sLNI4-1627061814-202056-blog-hypatia-h_6ec8311a306d734cff37afecd9169c92-h_7a1db3a9aa71e5465eb58e7846f2ca95.jpg"
-    width: 2500
-    height: 1663
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200209224400-20200209-facial-recognition-gfx-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -57,46 +59,7 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "States Voice Recognition for Smartphones"
-    excerpt: "| Apple, Google, Microsoft, Nuance, ... States Voice Recognition for Smartphones Market COVID 19 Impacted In-Depth Analysis including key players Apple, Google, Microsoft, Nuance, ... States Voice Recognition for Smartphones Market Investment Analysis | Apple,"
-    publishedDateTime: 2021-07-20T11:27:00Z
-    webUrl: "https://www.openpr.com/news/2332686/states-voice-recognition-for-smartphones-market-is-booming"
-    ampWebUrl: "https://www.openpr.com/amp/2332686/states-voice-recognition-for-smartphones-market-is-booming"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332686/states-voice-recognition-for-smartphones-market-is-booming"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/7/U720478281_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "AnyVision launches facial recognition on edge devices for rural law enforcement"
-    excerpt: "A new edge-based tactical surveillance mobile application with facial recognition for law enforcement and military police has been unveiled by AnyVision."
-    publishedDateTime: 2021-07-22T17:26:00Z
-    webUrl: "https://www.biometricupdate.com/202107/anyvision-launches-facial-recognition-on-edge-devices-for-rural-law-enforcement"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/22132423/police-mobile-phone.jpg"
-        width: 922
-        height: 508
-        isCached: true
-  - title: "Insights on the Face Recognition Using Edge Computing Global Market to 2025 - Featuring Apple, Horizon Robotics and Mediatek Among Others"
-    excerpt: "12.16 Cisco Systems, Inc. 12.17 Belden Inc. 12.18 IBM Corporation 12.19 Intel Corporation 12.20 Moxa Inc."
-    publishedDateTime: 2021-07-21T13:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/21/9413820.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
 
-secured: "zF4KQi8/EYppi1uENXDhZIsX1ojjdKCj2rb8w1CzcdFTW7VDpbYRY4ct6N+U8F2+HBXPUky0yKi8KfgoSCFvMDv2TEEpoDjt5PS3NNFVf9DGzLNk2b/94ZjOMwdE5lQxjZv/Xz4p17Bf2EiFb8npndOSV6xggbr7AzPRX2dPPF31cprHHvGqdAverjN2BRgcwMX3/PgDT3st6XOMkQT3fUksAnoWsfvj+QlLA7soEzTUOvT7qxWNngp9aIyBrMB3a+usAnTMdpAsD1MkOhMdzrWASN+PHBKDHUR/5DApL5Z6ef2obDWXZ1Ls26QpWIuwRSymaxI7oj7OVJCmYksTRAz1MixcQLEGV/SYf2VEjPtgSP7LRXUqXd8oQ898SI2U22YW8R9Z6DbRP/ClKJzwxR5+zd+vdGN7TZKQs6oLKalVupaEBN/zrVqhXUmwv3+UXToE+YJ+mOJz3I6tLTTAaV4T+aMavpwghKaW7fqN68rae/XY+TwbHU2NXZdBkzpHohcB+F9SJQsxxK8WqlTzbg==;jsjDUjKLz5XW2CwnvOoWGw=="
+secured: "E3M2Ui2THpDNfiwbVbgMll6ojXMMO0JuAEX/zbx1c0ec/dhTGB6J/3BAMfAwaBOAP7fJ4+zd/kC45OcWpKust35fj5/redNsIal5om4K/ZUv57gqHhab+IuuDbciEXITINC4oUrS15kwsIQlBk/TUwYPtQJZ8a8bqb/7P+vdmv56wKjlPMaTmKwrRd6ZapVybEJQVSNFzCgCPT+TjoMuNDPHE4hFllJ95o4x8YfqEaeOGTmwoWiScUVISW3hdQ2HpCPnZnbgItS/x7MV6294vrhC94P5GPvDEaVBCv6mflBfLjN6JqIiERcoxKNM0IhwNDQ5BpKn0YxcwpeZ3ShfdXbQNWlH1MFWMrB/pBca/l8=;CvFpnw0lTFaxHmPiZT2Phw=="
 ---
 
