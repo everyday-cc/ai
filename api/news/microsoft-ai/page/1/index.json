@@ -10,7 +10,7 @@
       "originalUrl": "https://www.pymnts.com/news/retail/2021/stor-ai-teams-with-toshiba-global-to-advance-online-grocery-shopping/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -149,7 +149,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/microsoft-autonomous-beach-cleaning-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -987,31 +987,22 @@
       "title": "Elastic Named a Leader in Cognitive Search by Independent Research Firm",
       "excerpt": "Its sweet spot is for enterprises that want fast, friendly, and affordable cognitive search based on ... Goldman Sachs, Microsoft, The Mayo Clinic, NASA, The New York Times, Wikipedia, and Verizon ...",
       "sourceUrl": null,
-      "webUrl": "https://www.register-herald.com/region/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/article_9f149a27-4a06-5a20-857d-b6d7f7faa5c6.html",
-      "originalUrl": "https://www.register-herald.com/region/elastic-named-a-leader-in-cognitive-search-by-independent-research-firm/article_9f149a27-4a06-5a20-857d-b6d7f7faa5c6.html",
+      "webUrl": "https://www.wallstreet-online.de/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm",
+      "originalUrl": "https://www.wallstreet-online.de/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T11:45:00-07:00",
+      "ampWebUrl": "https://www.wallstreet-online.de/_amp/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm",
+      "cdnAmpWebUrl": "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14144738-elastic-named-a-leader-cognitive-search-by-independent-research-firm",
+      "publishedDateTime": "2021-07-12T13:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
+        "name": "wallstreet online",
+        "domain": "wallstreet-online.de",
         "images": null,
         "publishers": null,
         "authors": null

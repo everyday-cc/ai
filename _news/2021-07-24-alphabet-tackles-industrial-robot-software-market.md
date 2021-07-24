@@ -46,19 +46,14 @@ related:
         height: 471
         isCached: true
   - title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-    excerpt: "Alphabet Inc's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project,"
-    publishedDateTime: 2021-07-23T13:40:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056"
+    excerpt: "Alphabet Inc's GOOGL.O secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
+    publishedDateTime: 2021-07-23T13:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 56
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15280054/16x9/991/557/8aa600f18375888ddef8e65715e2d356/gZ/file-photo--a-sign-is-seen-at-the-entrance-to-the-google-retail-store-in-the-chelsea-neighborhood-of-new-york-city-2.jpg"
-        width: 991
-        height: 557
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
 
 secured: "K0OotBo6pR1psOOsZ/YNXLmOxEaSp4IS/MaRBju6uclTLgovdjZfiaBo2CR4zia3pOrukZMZCIMhr/87D6liyyu3oXMHT3BxQ7SZ4TxGuin3Z/pv24Dv4HumKcwI96uzRXtXsW6ICo0+6qBTYTE/6jU2giDo2R/DDgjLtBSFDaQtGT09+/g3MqimYGV7CiZ+mdLJAJ9PQS0WBMGTpQksK0dsWrn+PPFlk6AjYwAMrp+cuYgFp41LOph82e1bAj1p+rwSwMIc5RmjtDSU4MwlCt6GoUGHcx6dmjKdlNvLDY1G26ISFE+4VKQGsdAW+qBvS9/BMFvIYY/lA6HeBatmj0ZDBEaazxT8lWhbj2IHeHt2ycivqu8T/sJt5C1OnQKBIxOH31o1NPKrsvYO/d7izNndo9SoKjc4opX4BY1CDo5X55naSRbxqZecy/bYUYdWcl8C7uwFEPnQkMPsk5dwRDt9O+AkRCCLrqDiriB3KTgRWUV3h9EGHaHFVD6XU+k0Id8f+qxjrXiiYIQHVui+Xg==;nO2/sD3GQD32jP1bv6/oHA=="
 ---

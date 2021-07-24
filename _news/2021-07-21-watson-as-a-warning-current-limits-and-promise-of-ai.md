@@ -59,22 +59,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Advances in machine learning and AI unlock myriad of applications"
-    excerpt: "The July 2021 issue of IEEE/CAA Journal of Automatica Sinica features six articles that showcase the potential of machine learning in its various forms."
-    publishedDateTime: 2021-07-19T06:25:00Z
-    webUrl: "https://www.news-medical.net/news/20210719/Advances-in-machine-learning-and-AI-unlock-myriad-of-applications.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210719/Advances-in-machine-learning-and-AI-unlock-myriad-of-applications.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210719/Advances-in-machine-learning-and-AI-unlock-myriad-of-applications.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 74
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/7/Applications_Unlocked_by_Artificial_Intelligence_-_Copy.jpg"
-        width: 547
-        height: 950
-        isCached: true
   - title: "Robotics and AI are speeding up our nuclear clean up mission"
     excerpt: "West Cumbria is delivering the future of nuclear robotics and artificial intelligence technology. Every day the company in charge of the nationally important mission of decommissioning and cleaning up the UK’s largest nuclear site – Sellafield in West Cumbria - is facing new challenges."
     publishedDateTime: 2021-07-23T07:03:00Z
@@ -206,6 +190,6 @@ related:
         height: 419
         isCached: true
 
-secured: "YM8qvM4AQ1l7acUIpOBYIcIcT01FTGDOx4TSEY3geGDGhDotmbefPij3EDJXBgT+hqCsW21KSof2DOXBsXVAeShXHGoUyHlJ9Jrb/ICJ4CoH8v0cQPMAVby89ZVn9IJTPbUqDIm0LvVvLCXMX/CrBRt/yNmkmHoPzpNJNkoI4ac0cIYo114BZf27Oedmyhij4JPAfoftS+dDCPViPZbdvof+z2zmcfT1rpK0oa5X7jQaUNdd2EYPkWhW9QMsxitGhAbGz0A44pWIeeBwByVT4yC5iRyRK+fQ2ykdvZJHbdZwbncWUWP7hwxA1vPBfgnhvtvTHboWc2YYPj/9WoZdfmGSgUHRBpr9YWbOxMQhjT0=;8E6Jwn8T6nRUcC1b4PR+Cw=="
+secured: "fwyD3SSPZ0vLYc8pIJ/0OtoSJeX1d6Hc/4jITmsNxgf9wUsxZPfF4zsOEj4w5/iQ2FX2JgR7a3/1iDETBhHj6AYlmXLS9+eaYNZR6XEAU/9yOJ/rMfDi4S4rMi1jPe3vIThisrlhK/SKLcSy0bF6/VufKWKzMKX3yiar7sTAWoT60c1RbDyyNKhExTk7lx1QjPt9Gh456yjVLuiwpWvsEfTYe46RjUq+rRP5Z5f29eNoXLAP47I8swo9D5f5QwZQ+Hr4OOBvVozlqIxp9Q1uXrsFmxD0F+XCQxzdC0HBEPwWoRtTcyp1hjEOQafoQ48tNkKbVKFV0s+6drO4P7DJ89U0P8PTYqQMTGg3Xf5mdnM=;RCgzqzVD9shk93ICWoQ3Sg=="
 ---
 

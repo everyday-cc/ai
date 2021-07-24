@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Busting the myth AI will totally replace QC jobs in the manufacturing industry"
-    excerpt: "Constantly evolving Industrial automation and IoT, availability of big data, and access to improved computing power are some key factors that are driving the Artificial Intelligence (AI) in manufacturing market."
-    publishedDateTime: 2021-07-19T05:28:00Z
-    webUrl: "https://www.dqindia.com/busting-myth-ai-will-totally-replace-qc-jobs-manufacturing-industry/"
-    ampWebUrl: "https://www.dqindia.com/busting-myth-ai-will-totally-replace-qc-jobs-manufacturing-industry/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/busting-myth-ai-will-totally-replace-qc-jobs-manufacturing-industry/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 53
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/07/workers-5246640_1280_850x400.jpg"
-        width: 850
-        height: 400
-        isCached: true
 
 secured: "8/+GZ40rUHQ0BeB5EV6B4AXJyW5Yj/mt6B6KBfp72Xr66BqysPKzLNhqsNTldY0nc5hYAFjUvGYMwSOfT+nBbzu5goWfNThYOSyzinGm77MrDRKS68moY5s7jIOc5Ivr9cmcDH47cM0WF55YcpZLmYVLZefw5Z+bgWA8nGjuP+XuLic1dGExfAspxvxXyGtxW9gSf+t43Mpy74GVdcCq/XgkUllhw+yb4Oos90OJI9lt4SsqA8tzRyfHSEqM1tY7sViJYr04xBs0arlcQohiyW93eiv+ASHLbT1ZXbHTD2Ti5+P8oiPFH9BARcYx8G2OFwVJ7tdrk9QgsfRpXmOr05XZX0Sv17hPtEyj0N03xMlFYpvG59MqZismkY0BXO5H7Vb+6lbTRwwUphz9+4S8dOdnt7oh2mywiBZ+SB7S4WMD1XjB/9hh9dF5FV/163Fb17qGdwqObBHqFEZIBEQVkGjfUjvk7ADAQGJpayPk7ycMRk9uk5jqm9wOQmYtdRpLeIHBHrIIXuqZIjn6v8Bhmg==;1jN6NNeCZHsk0Y7Tr8zrBg=="
 ---

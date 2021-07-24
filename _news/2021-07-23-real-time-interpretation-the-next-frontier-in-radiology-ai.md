@@ -66,20 +66,6 @@ related:
         width: 640
         height: 441
         isCached: true
-  - title: "Temasek-backed SenseTime launches AI innovation hub in Singapore"
-    excerpt: "Temasek-backed artificial intelligence (AI) company SenseTime on Monday launched its international AI innovation hub in Singapore, while entering into two agreements to develop industry talent here.."
-    publishedDateTime: 2021-07-19T06:37:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/temasek-backed-sensetime-launches-ai-innovation-hub-in-singapore"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 37
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/19/ak_tmsk_190721_1.jpg?itok=FU77GOVC"
-        width: 763
-        height: 509
-        isCached: true
   - title: "SenseTime Launches the SenseTime International AI Innovation Hub in Singapore, Teams Up with Business China and ITE to Nurture Local AI Talents"
     excerpt: "SenseTime, a leading global artificial intelligence (AI) company, today launched the SenseTimeInternational AI Innovation Hub (\"Hub\") in Singapore to serve as a locus for Southeast Asi a t o further their AI capabilities."
     publishedDateTime: 2021-07-19T12:27:00Z

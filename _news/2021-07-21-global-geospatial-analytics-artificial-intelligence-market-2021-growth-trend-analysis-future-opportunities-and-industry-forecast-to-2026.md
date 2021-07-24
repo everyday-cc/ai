@@ -97,22 +97,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 45
-  - title: "Security & Safety Things launches smart cameras with Artificial Intelligence infused video analytics for fire and safety prevention"
-    excerpt: "As global demand for produced goods continues to climb, manufacturing organisations are facing new challenges in meeting customer demand and elevated safety concerns along the supply chain due to"
-    publishedDateTime: 2021-07-19T05:39:00Z
-    webUrl: "https://www.sourcesecurity.com/news/security-safety-launches-smart-cameras-artificial-co-1538138049-ga.1626444969.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/security-safety-launches-smart-cameras-artificial-co-1538138049-ga.1626444969.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/security-safety-launches-smart-cameras-artificial-co-1538138049-ga.1626444969.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 44
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/security-safety-things-focus-on-smart-cameras-with-ai-to-enhance-airport-security-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
   - title: "VeroSource Solutions Announces Gerry Fairweather as VP of Innovation and Analytics"
     excerpt: "VeroSource Solutions, Inc. is pleased to announce that Gerry Fairweather has joined its Executive as VP of Innovation and Analytics. Effective immediately, Fairweather will lead the digital health company's growing data science practice,"
     publishedDateTime: 2021-07-21T11:08:00Z

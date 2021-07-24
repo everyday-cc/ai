@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI abandons robotics research"
-    excerpt: "OpenAI disbands its robotics research team due to lack of large enough data sets to effectively generate reinforcement models."
-    publishedDateTime: 2021-07-20T15:42:00Z
-    webUrl: "https://www.therobotreport.com/openai-abandons-robotics-research/"
+  - title: "Global Personal Artificial Intelligence and Robotics Market Report 2021: Personalized Robot Components will Reach $15.0 Billion by 2026"
+    excerpt: "The \"Personal Artificial Intelligence and Robotics Market by AI and Robot Type, Components, Devices and Solutions 2021 - 2026\""
+    publishedDateTime: 2021-07-19T10:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/n22035744/global-personal-artificial-intelligence-and-robotics-market-report-2021-personalized-robot-compone"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22035744"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22035744"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 99
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/07/openai-featured-web.jpg"
-        width: 770
-        height: 500
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "6WaC8BdJNl9gYyW8cOiwh50YYDkCp5PzQW8qiWqyx0Pfj69ytRKkzX2rRmsq5ka1s8wveNAV/ON5XcUySIlwY45Udv7iNQr13m6ZBmdIROEKhiLyE5IiZgZB/K0f8nsi17pta6yvv7WcfIy6YtUW1hbU1Fr6ntI2YZaXiivX5e0HGZgi4SGDqZ7hjSlvn8zOzJ1Opy3eCQAtFfgcIqA79xB9pMn14qZWS513IO31zYSWiT4WBD05TkMEbRdd4Zghr4rjE5Np/9i7vRdjmLYixSUcVtu1kCElySnA4HEPzCYus+mbUcxuzJGp0AeX+nhkyW1DnBY46ckIkkmsPgiDtyrxGS0YiSa6FA+UA2J97Ig=;J+zgPE5ASIl8JVJvBs50Hw=="

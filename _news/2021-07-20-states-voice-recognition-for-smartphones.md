@@ -43,6 +43,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Millions of Americans seeking unemployment benefits must submit to facial recognition software"
+    excerpt: "Residents in 25 states have to register with ID.me's facial-recognition software to collect unemployment benefits, with more to come. But there are no federal laws governing biometrics."
+    publishedDateTime: 2021-07-23T21:58:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9819499/Millions-Americans-seeking-unemployment-benefits-submit-facial-recognition-software.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9819499/amp/Millions-Americans-seeking-unemployment-benefits-submit-facial-recognition-software.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9819499/amp/Millions-Americans-seeking-unemployment-benefits-submit-facial-recognition-software.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 47
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/07/23/22/45821447-0-image-a-2_1627076205152.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "AnyVision launches facial recognition on edge devices for rural law enforcement"
     excerpt: "A new edge-based tactical surveillance mobile application with facial recognition for law enforcement and military police has been unveiled by AnyVision."
     publishedDateTime: 2021-07-22T17:26:00Z
@@ -58,16 +74,16 @@ related:
         height: 508
         isCached: true
   - title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
-    excerpt: "By Rachel Metz, CNN Business After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for"
+    excerpt: "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he ha"
     publishedDateTime: 2021-07-23T17:31:00Z
-    webUrl: "https://keyt.com/news/money-and-business/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
+    webUrl: "https://cbs58.com/news/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
+      name: CBS 58
+      domain: cbs58.com
     quality: 31
     images:
-      - url: "https://keyt.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
+      - url: "https://newscdn2.weigelbroadcasting.com/sLNI4-1627061814-202056-blog-hypatia-h_6ec8311a306d734cff37afecd9169c92-h_7a1db3a9aa71e5465eb58e7846f2ca95.jpg"
         width: 2500
         height: 1663
         isCached: true

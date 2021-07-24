@@ -225,6 +225,34 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Burst of Protein Structure Predictions from DeepMind, EMBL"
+    excerpt: "AlphaFold, an AI system for predicting protein structures, has enabled DeepMind and the EMBL to release more than 350,000 protein structure predictions, including predictions covering nearly the entire human proteome,"
+    publishedDateTime: 2021-07-23T22:10:00Z
+    webUrl: "https://www.genengnews.com/news/burst-of-protein-structure-predictions-from-deepmind-embl/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/07/July23_2021_Karen-Arnott-EMBL-EBI_AlphaFold-Generates-Protein-Structures-from-Data.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "DeepMind unlocks the protein secrets of life"
+    excerpt: "Demis Hassabis stunned the world of science this week when he and his research team opened a window into how life works.The British artificial intelligence pioneer, 44, revealed an AI system that had"
+    publishedDateTime: 2021-07-23T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/deepmind-unlocks-the-protein-secrets-of-life-z3q6z0mbj"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb0859926-ebb8-11eb-baaa-861dba20d87a.jpg?crop=4167%2C2344%2C0%2C0&resize=685"
+        width: 685
+        height: 385
+        isCached: true
   - title: "Alphabet firm DeepMind releases massive database of 3D protein structures"
     excerpt: "DeepMind has used its highly accurate deep learning model AlphaFold2 to predict the 3D structure of 350,000 proteins."
     publishedDateTime: 2021-07-22T15:00:00Z
@@ -272,6 +300,6 @@ related:
       domain: bio-itworld.com
     quality: 13
 
-secured: "hOT6pn+4+zPMtrm2c4tAaF+J+lMj3a1qNYudx7HGNcm/6X5kMwTf/iu7uDxOqxkH8Q6x+onvZ/ZyLnUFGlSKiLLjHjjAg8WAF/HGFZmmNB2YEfa6o2o3x0Gaa2DeLTAYU6qcGvLWGqcLAQg9kyZgTcFwWEzMtasUj6t/xTqE9ww2s+WFNl2OzdD7VmzTnBQIinPk4QDYR3gSzR4k16fjUIpVpRwZKgQAZBWHdaSCp8sLbi6gcDd4fP0UpOD3JwofjKl7ar2lpuGIEfK/TNgY9anYMMc+HhCWKspxEpWLIMjKBirJy1mxMOe/XBmuGy5NZOBCy+JcoegmoUhGFOE5n/56GYUom8MvZZdcMVDxNU0=;1WJHmYpwvpduqQrkB2kFSg=="
+secured: "p8D4NrRWESbHquqRA6IPdCMaeRJvKD8Z1sOhD1eicyD8U8NEIdVTIsJDBn9C523H8VdeeFvYywaD4DW6C67DkC1VSn6TYrGG8eZLTQKXkghAUahTla8hgGuDU1MRvB8+3p0uVmdf1w3gUZtZ11AzFDZDgEtrA2bKyTMArrCEPS8JAeZKYZPcYGkxQP9UwxmYMOqW6WjXvmu80Jcm+bgAaQ+RsgvERd+LwWnIoNZXxc/o4aePVrnPEuHyLrAtAJsc2mFqEdKJwl3XSzoFbauAjR4UOEboXBTqavazX4cOR9ZR/H/LhSZksoHGeU+xH4eNJe8tiR2bkKkAMAFE+p2+VnaU3lo19ZeDBtLeZssfCbmb6r++heJsRLblf61QQ1vg/KpBQVPDG357wcGi93g6cp2ckCOFtbVYc2pw4OVyQUSFqPtaCQdh+bYwduhlgI1qvGjOHshSsi65+UO2AIRuCKBtBdkoIAWs4ctljorTRMK/6uLSQXJqsy1sw5B3JNeuriyZOSeDGu99dU9mc8X4Lg==;ZsnQ1ZARrWaip9kbwrWSUw=="
 ---
 

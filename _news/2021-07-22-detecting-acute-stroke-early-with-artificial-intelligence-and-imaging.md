@@ -60,22 +60,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Advances in machine learning and AI unlock myriad of applications"
-    excerpt: "The July 2021 issue of IEEE/CAA Journal of Automatica Sinica features six articles that showcase the potential of machine learning in its various forms."
-    publishedDateTime: 2021-07-19T06:25:00Z
-    webUrl: "https://www.news-medical.net/news/20210719/Advances-in-machine-learning-and-AI-unlock-myriad-of-applications.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210719/Advances-in-machine-learning-and-AI-unlock-myriad-of-applications.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210719/Advances-in-machine-learning-and-AI-unlock-myriad-of-applications.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 74
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/7/Applications_Unlocked_by_Artificial_Intelligence_-_Copy.jpg"
-        width: 547
-        height: 950
-        isCached: true
   - title: "Watson as a Warning: Current Limits and Promise of AI"
     excerpt: "Last week the New York Times ran a cautionary tale about how IBM tried and failed to use its heavily branded AI solution called Watson to transform the business world and solidify IBM’s future."
     publishedDateTime: 2021-07-20T17:01:00Z

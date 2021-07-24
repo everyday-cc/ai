@@ -1183,45 +1183,27 @@
       ]
     },
     {
-      "path": "_news/2021-07-14-foundations-of-trustworthy-ai-trusted-ai-for-the-workforce.md",
-      "title": "Foundations of trustworthy AI: Trusted AI for the workforce",
-      "excerpt": "As the benefits of AI take hold and social issues rise to our collective attention, the need for trustworthy AI principles and practices has gained warranted focus. In the recent Global AI Adoption Index 2021, conducted by Morning Consult and commissioned by IBM, 91% of IT professionals surveyed say",
+      "path": "_news/2021-07-14-can-children-learn-to-read-online-experts-weigh-in-for-white-paper-exploring-the-risks-and-potential-of-speech-recognition-in-the-classroom.md",
+      "title": "Can Children Learn to Read Online? Experts Weigh-in for White Paper Exploring the Risks and Potential of Speech Recognition in the Classroom",
+      "excerpt": "Dublin-based SoapBox Labs, pioneering developer of speech recognition for kids, today released a white paper exploring the applications, risks, and opportunities of speech recognition in the classroom.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/07/trustworthy-ai-workforce/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/07/trustworthy-ai-workforce/",
+      "webUrl": "https://www.tmcnet.com/usubmit/-children-learn-read-online-experts-weigh-for-white-/2021/07/14/9408989.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-children-learn-read-online-experts-weigh-for-white-/2021/07/14/9408989.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/ibm_hr_blog_1000x2000.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T06:00:07-07:00",
+      "publishedDateTime": "2021-07-14T06:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1230,7 +1212,7 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "Natural Language Processing",
         "AI"
       ]
     }

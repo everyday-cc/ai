@@ -83,6 +83,20 @@ related:
         width: 797
         height: 630
         isCached: true
+  - title: "Detect defects and augment predictions using Amazon Lookout for Vision and Amazon A2I"
+    excerpt: "With machine learning (ML), more powerful technologies have become available that can automate the task of detecting visual anomalies in a product. However, implementing such ML solutions is time-consuming and expensive because it involves managing and setting up complex infrastructure and having the"
+    publishedDateTime: 2021-07-23T22:57:46Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-defects-and-augment-predictions-using-amazon-lookout-for-vision-and-amazon-a2i/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 67
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/23/thumbnail-1.png"
+        width: 593
+        height: 397
+        isCached: true
   - title: "Facial Recognition Is Watching You"
     excerpt: "The Boston-based Fight for the Future advocacy organization is trying to put pressure on private businesses to swear off any form of facial recognition."
     publishedDateTime: 2021-07-19T14:14:00Z

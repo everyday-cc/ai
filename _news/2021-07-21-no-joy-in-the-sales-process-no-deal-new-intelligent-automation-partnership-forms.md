@@ -72,20 +72,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "MIT Centre for Future Skills Excellence introduces PG Diploma in Robotics Process Automation for Career aspirants"
-    excerpt: "MIT Centre for Future Skills Excellence, MIT Art, Design & Technology University Pune has introduced a new post-graduate diploma in Robotics Process Automation from August 2021 academic session. On the occasion of World Youth Skills Day,"
-    publishedDateTime: 2021-07-19T06:42:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2021/07/19/9411318.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/1576212/MIT_FuSE_MoU.jpg"
-        width: 400
-        height: 227
-        isCached: true
 
 secured: "COK8DZhEfh8vBCzFIXKJH/KEe6D/hgjBJWZBTNqgMumOVKxUrIzf36cEaf5DYPyrXfsIUGn1AasLCY2YC+/UMx/S5eymRrUGkUbchaZDUYxmPU+rOI3RPmNg3m6/eV5Z71G0iXvecZFbOv/XWvEICexrI5sOVJT8qEtYcoNsLLzhgMvOzlxp/WoR78ED7OHwP4yPZfryLQtC+KG965tXLGekdF0yAguBl4qK437iZwYHCfbKJ4G7xVpSWISNkA6V5q0xhVs2W3KwdojVwa0iiAuXTTmcivEQH78nLcDTlYNd43cxnkjTLfPMAmG5FvYtrAFNiN7fC0ksF+NFFgFGoojSe0GnEh338nyQnXr1uss=;prVF/FT8zlHHi0qxZ2u8kA=="
 ---

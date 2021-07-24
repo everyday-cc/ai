@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "With Full Self-Driving available on demand, be wary of any and all Teslas"
+    excerpt: "Tesla released its Full Self-Driving advanced driving assistance mode as part of a subscription available to almost every Tesla driver in the U.S."
+    publishedDateTime: 2021-07-23T19:42:00Z
+    webUrl: "https://mashable.com/article/tesla-full-self-driving-mode-subscription-warning"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 83
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/05VpQKwqzrrr1dfizwOYgSv/hero-image.fill.size_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla Full Self Driving subscription launches — and it costs $199 a month"
     excerpt: "If you fancy getting your hands on a Tesla with the ‘Full Self Driving’ add-on, but don’t have $10,000 to spend all in one go, you’re in luck. Because Tesla is offering it as a $199 monthly subscription."
     publishedDateTime: 2021-07-19T11:12:00Z

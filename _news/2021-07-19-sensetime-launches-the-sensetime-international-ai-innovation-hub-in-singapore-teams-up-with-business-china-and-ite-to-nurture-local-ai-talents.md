@@ -71,20 +71,6 @@ related:
         width: 640
         height: 441
         isCached: true
-  - title: "Temasek-backed SenseTime launches AI innovation hub in Singapore"
-    excerpt: "Temasek-backed artificial intelligence (AI) company SenseTime on Monday launched its international AI innovation hub in Singapore, while entering into two agreements to develop industry talent here.."
-    publishedDateTime: 2021-07-19T06:37:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/temasek-backed-sensetime-launches-ai-innovation-hub-in-singapore"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 37
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/19/ak_tmsk_190721_1.jpg?itok=FU77GOVC"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Real-time Interpretation: The next frontier in radiology AI"
     excerpt: "To date, AI has demonstrated value in its ability to handle asynchronous tasks such as image triage and detection. What's even more interesting is the potential to enhance real-time image interpretation by giving the computer context that lets it work with radiologists instead of trying to replace them."
     publishedDateTime: 2021-07-22T18:35:00Z

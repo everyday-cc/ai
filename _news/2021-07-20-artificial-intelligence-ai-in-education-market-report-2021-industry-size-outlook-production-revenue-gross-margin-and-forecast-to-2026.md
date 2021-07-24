@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026-2021-07-20"
 type: article
 quality: 66
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -71,22 +71,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Expected to Witness High Growth over the Forecast Period 2021-2031"
-    excerpt: "SLICE has announced the addition of the Speech and Voice Recognition Market Report 2021 2031 Production Sales And Consumption Status And Prospects Professional Research The report classifies the global Speech and Voice Recognition Market in a precise manner to offer"
-    publishedDateTime: 2021-07-19T06:55:00Z
-    webUrl: "https://www.openpr.com/news/2331180/speech-and-voice-recognition-market-expected-to-witness-high"
-    ampWebUrl: "https://www.openpr.com/amp/2331180/speech-and-voice-recognition-market-expected-to-witness-high"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331180/speech-and-voice-recognition-market-expected-to-witness-high"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 28
-    images:
-      - url: "https://cdn.openpr.com/U/7/U719145067_g.jpg"
-        width: 800
-        height: 444
         isCached: true
   - title: "Worldwide Machine Safety Industry to 2026 - Impact Analysis of COVID-19 on the Market"
     excerpt: "The \"Machine Safety Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global market for machine safety was evaluated at US$1,204.949 million in the year 2019 and is anticipated to witness a CAGR of 6."

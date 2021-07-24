@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Expected to Witness High Growth over the Forecast Period 2021-2031"
-    excerpt: "SLICE has announced the addition of the Speech and Voice Recognition Market Report 2021 2031 Production Sales And Consumption Status And Prospects Professional Research The report classifies the global Speech and Voice Recognition Market in a precise manner to offer"
-    publishedDateTime: 2021-07-19T06:55:00Z
-    webUrl: "https://www.openpr.com/news/2331180/speech-and-voice-recognition-market-expected-to-witness-high"
-    ampWebUrl: "https://www.openpr.com/amp/2331180/speech-and-voice-recognition-market-expected-to-witness-high"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331180/speech-and-voice-recognition-market-expected-to-witness-high"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 28
-    images:
-      - url: "https://cdn.openpr.com/U/7/U719145067_g.jpg"
-        width: 800
-        height: 444
-        isCached: true
 
 secured: "OeUA4JvkvFurEQSnB/otLKf7JdsotpmMJ5Y5wFxAUOtlec6YDRBafadGy5QWqQBIP65uic10kDnECTPieLEDt+l/Txa3PGjvQjgs5gOdWIpEDhIlsskmNDn0UhLh6rKdjG86mk46sRe82PB4pX89ErkWC/IQ5w5Lle3ZsTqpPfvWC9KqicE0SrloR5YUAC6rnc8trf5v5ZISgBKDA4Nj7ivqFF3RFtibsKiCMHNNSdLY/2CXnQJaXhUz1m8tAi6+C02sKSlbvkxv0TkKyG1CI8jJlvqd45HUwPfugWmp4E53PFUsUuAtlXbW1rOwfx183kMgwm2K8xWTvwBmKVOgVrhQksqGnIvZU/W/iXnu/Y0=;lf54QuqTUUwqdLJsg08y1A=="
 ---

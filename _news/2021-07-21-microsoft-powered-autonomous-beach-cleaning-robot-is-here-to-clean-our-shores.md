@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-autonomous-beach-clea
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/"
 type: article
 quality: 103
-heat: 225
+heat: 223
 published: true
 
 provider:

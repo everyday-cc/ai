@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/retail/2021/stor-ai-teams-with-toshiba-g
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/stor-ai-teams-with-toshiba-global-to-advance-online-grocery-shopping/amp/"
 type: article
 quality: 59
-heat: 90
+heat: 89
 published: true
 
 provider:

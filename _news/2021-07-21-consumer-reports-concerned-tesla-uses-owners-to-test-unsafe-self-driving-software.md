@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-u
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/"
 type: article
 quality: 184
-heat: 494
+heat: 504
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://i.insider.com/60a1038ef27b4c0019444b4e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "With Full Self-Driving available on demand, be wary of any and all Teslas"
+    excerpt: "Tesla released its Full Self-Driving advanced driving assistance mode as part of a subscription available to almost every Tesla driver in the U.S."
+    publishedDateTime: 2021-07-23T19:42:00Z
+    webUrl: "https://mashable.com/article/tesla-full-self-driving-mode-subscription-warning"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 83
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/05VpQKwqzrrr1dfizwOYgSv/hero-image.fill.size_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Tesla To Add Auto Shift To All Cars With Self Driving Package"
     excerpt: "When Tesla Inc (NASDAQ: TSLA) first revealed its refreshed Model S and X vehicles, many were confused on the lack of traditional stalks near the steering wheel."
