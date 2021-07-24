@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "DeepRoute.ai, Level 4 Self-Driving Technology Innovation Leader, Launches Its Robotaxi Pilot Program"
-    excerpt: "To Provide Service in Downtown Shenzhen, Covering 124 Miles of Public Roads FREMONT, Calif., July 19, 2021 (GLOBE NEWSWIRE) -- DeepRoute.ai announced today its robotaxi program is now available to the public,"
-    publishedDateTime: 2021-07-19T13:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-228ec70df3ca00955464517adb0e6aea"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "g/oYB3fRplzg4B+bkVGQyd69f8BuZF11OUaMJMQIC59aBSEHfdcILYFGdQO8nUVPdh7hDhqIBPB4ebpE8Ixj3dhYm6haycaAnEdpEHeEIamTAlJUjxj6LAczfroYj4gTYuk04Sxm2nj84WJWXXxk55FAvLUgbeh4ci4m8aObFrmbkz2nGCb7Ld8cjNEzYjTdGEwfFvNqlOE9nOOZPyz1AcD0z5q3Vqqyg+6owyqOhisBdX31tuWmZfeCjIWD28paSdMBIZL7s6uaOXupOxJxn3Vo+BNnfc5vEavQWibqysRNN/kNUdaiPOAWBe8hhQX5BZpciLQTOfyOhuKnZwjxyqSUc6SKpQh+Y7M95q0zW/A=;tuK1ILoe17hqU8oyMJExCw=="
 ---

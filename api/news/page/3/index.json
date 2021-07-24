@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-22-kohls-cto-on-empowering-people-and-optimizing-supply-chain-with-ai.md",
+      "title": "Kohl’s CTO on empowering people and optimizing supply chain with AI",
+      "excerpt": "AI can make decisions to manage inventory, but it doesn't always make intuitive decisions, Kohl's CTO said at Transform 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/21/kohls-cto-on-empowering-people-and-optimizing-supply-chain-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/21/kohls-cto-on-empowering-people-and-optimizing-supply-chain-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/kohls.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/21/kohls-cto-on-empowering-people-and-optimizing-supply-chain-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/kohls-cto-on-empowering-people-and-optimizing-supply-chain-with-ai/amp/",
+      "publishedDateTime": "2021-07-21T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-introducing-echo-an-artificial-intelligence-and-robotic-process-automation-platform.md",
       "title": "Introducing echo - An Artificial Intelligence and Robotic Process Automation Platform",
       "excerpt": "Access Healthcare's proprietary robotic process automation (RPA) platform, echo, is a purpose-built suite of automation solutions that can automate processes across the revenue cycle continuum. By leveraging machine learning and artificial intelligence capabilities,",
@@ -209,7 +260,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -694,50 +745,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-how-compliance-professionals-should-shape-ai-regulations-in-finance.md",
-      "title": "How Compliance Professionals Should Shape AI Regulations in Finance",
-      "excerpt": "Some make it seem like automating compliance functions is a question of do or die. But if anyone hopes to have a seat at the table, they need to understand the risks involved – along with the evolving set of AI regulations in finance they will need to follow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.corporatecomplianceinsights.com/compliance-professionals-ai-regulations-in-finance/",
-      "originalUrl": "https://www.corporatecomplianceinsights.com/compliance-professionals-ai-regulations-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.corporatecomplianceinsights.com/wp-content/uploads/2021/07/shutterstock_1849422583.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "corporatecomplianceinsights.com",
-        "domain": "corporatecomplianceinsights.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
       ]
     },
     {

@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-20T16:05:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210720005035/en/SoftServe-Wins-Google-Cloud-Specialization-Partner-of-the-Year-Award-for-Machine-Learning"
 webUrl: "https://www.businesswire.com/news/home/20210720005035/en/SoftServe-Wins-Google-Cloud-Specialization-Partner-of-the-Year-Award-for-Machine-Learning"
 type: article
-quality: 10
+quality: 12
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "Roostify Named 2020 Google Cloud Technology Partner of the Year for AI and Machine Learning"

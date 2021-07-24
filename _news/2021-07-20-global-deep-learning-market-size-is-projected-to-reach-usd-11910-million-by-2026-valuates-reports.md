@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2333097/global-deep-learning-market-size-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333097/global-deep-learning-market-size-is-projected-to-reach-usd-11910"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -27,77 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chips Market Size Soaring at 35% CAGR to Reach 19080 million USD by 2025"
-    excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Artificial Intelligence (AI) Chips market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape,"
-    publishedDateTime: 2021-07-19T14:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-soaring-at-35-cagr-to-reach-19080-million-usd-by-2025-2021-07-19"
+  - title: "Fintech Market Forecast to Reach $161.2 Billion by 2026"
+    excerpt: "The Fintech Market forecast to reach $161.2 billion by 2026, growing at a CAGR of 8.7% from 2021 to 2026. Artificial Intelligence (AI) has taken the tech world by storm, allowing companies to automate their high-value and complicated processes."
+    publishedDateTime: 2021-07-24T07:23:00Z
+    webUrl: "https://menafn.com/1102500050/Fintech-Market-Forecast-to-Reach-1612-Billion-by-2026"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI-based Surgical Robots Market Size to Register 16% CAGR During 2021-2027"
-    excerpt: "Selbyville, Delaware, Global AI-based Surgical Robots Market size to reach USD 13.2 billion by 2027 and is valued approximately USD 4.7 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 16% over the forecast period 2021-2027."
-    publishedDateTime: 2021-07-22T08:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Platform Market Size, Share Remuneration to Surge At 56.6% CAGR Through 2024"
-    excerpt: "Selbyville, Delaware, The Artificial Intelligence Platform market study now available with Market Study Report,"
-    publishedDateTime: 2021-07-22T04:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-size-share-remuneration-to-surge-at-566-cagr-through-2024-2021-07-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Middle East & Africa Artificial Intelligence in Marketing Market to Grow at 30.1% CAGR to Garner US$ 7,312.42 million by 2028"
-    excerpt: "The artificial intelligence in marketing market in MEA is expected to reach US 7 312 42 million by 2028 from US 1 159 26 million in 2021 The market is estimated to grow at a CAGR of 30 1 from"
-    publishedDateTime: 2021-07-23T09:18:00Z
-    webUrl: "https://www.openpr.com/news/2335658/middle-east-africa-artificial-intelligence-in-marketing"
-    ampWebUrl: "https://www.openpr.com/amp/2335658/middle-east-africa-artificial-intelligence-in-marketing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2335658/middle-east-africa-artificial-intelligence-in-marketing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
-    images:
-      - url: "https://cdn.openpr.com/U/7/U723557741_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Neuromorphic AI Semiconductor Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2027"
-    excerpt: "The Neuromorphic AI Semiconductor market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
-    publishedDateTime: 2021-07-19T13:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neuromorphic-ai-semiconductor-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2020-2027-2021-07-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/updates/pr/2021-07/24/M_545ca36f-d_Image_In_Body.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "93uEH+lFs90/At0xuM2z1zRzlNNS2/SzkhV3doDfXKUg6kSoN9b5gworsxQI5npPx11a7b11IuAVtCut+4pBmwanMwbLK4oOvFJG39yhe73djy6LGmX77Mat7F2ZMuJ+4hBn5UchLyc83fpKOhuqbcQz5ev5xoQ3JfJO7eVgugWeZf1gJ8z3cB4Mvx64M76rT7BMeu2LQ0lDbIYqojYSv2kGYYSnRoSpWUg4O5s2K6dtNLpOYrFADQkQKI9aF5KTmLQF8UYMHxVZut9tn75B4HOTlOCph5uYgpXGIlH7d5vQVvojMzTiM8/OMFEkA38EjvuiCJgJoJzfNQLmsxjo75DgNhMI2Fdv8LNyIbDng7YsLCiAvTAqZ52+OieG+hvormdPodYZN1h+AaAED5eBsBgxrI2a2vWrn+RyYf0COT6DVnBM4QT/vvvA9IIIUSHYwnpg4TI4dlCy208Homz/sbSadHeGrUGXpaJi5LRj0G0S59Yx9Zm0N9K2BVI6r0ZkR2BekIV+wIO0jtm5t+U1yg==;hLMkVO9sYCzl3JB7bmMvXw=="

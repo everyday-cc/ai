@@ -2,57 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-07-07-database-optimization-startup-silk-raises-55m.md",
-      "title": "Database optimization startup Silk raises $55M",
-      "excerpt": "Elevate your enterprise data technology and strategy. Where does your enterprise stand on the AI adoption curve? Take our AI survey to find out. Silk, a platform designed to improve database ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/07/database-optimization-startup-silk-raises-55m/",
-      "originalUrl": "https://venturebeat.com/2021/07/07/database-optimization-startup-silk-raises-55m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/big-data.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/07/database-optimization-startup-silk-raises-55m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/database-optimization-startup-silk-raises-55m/amp/",
-      "publishedDateTime": "2021-07-07T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-07-sas-best-in-class-in-health-care-payment-integrity-says-aite-group.md",
       "title": "SAS best in class in health care payment integrity, says Aite Group",
       "excerpt": "SAS, the leader in massively parallel analytics and artificial intelligence (AI), is lauded as the best-in-class vendor in Aite Matrix: Payment Integrity in Healthcare. SAS' stability, brand recognition,",
@@ -1180,6 +1129,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud.md",
+      "title": "Ethics part of curriculum as Singapore inks AI training partnership with Google Cloud",
+      "excerpt": "Participants of Singapore's artificial intelligence (AI) apprenticeship scheme have to go through training that includes ethics and governance, so they are aware of potential issues involving data bias. AI Singapore (AISG), which manages the apprenticeship ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
+      "originalUrl": "https://www.zdnet.com/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
+      "publishedDateTime": "2021-07-06T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Microsoft AI"
       ]
     }
   ],

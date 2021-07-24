@@ -33,7 +33,7 @@ related:
   - title: "Company creates a way to remove bias from AI hiring software"
     excerpt: "AI can have serious bias in hiring. One company found a way to remove that bias to give everyone an equal chance at employment."
     publishedDateTime: 2021-07-23T15:51:00Z
-    webUrl: "https://www.techrepublic.com/index.php/videos/company-creates-a-way-to-remove-bias-from-ai-hiring-software/"
+    webUrl: "https://www.techrepublic.com/index.php/category/2025/index.php/videos/company-creates-a-way-to-remove-bias-from-ai-hiring-software/"
     type: article
     provider:
       name: TechRepublic

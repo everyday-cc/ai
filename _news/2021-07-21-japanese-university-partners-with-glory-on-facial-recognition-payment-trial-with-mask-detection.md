@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202107/japanese-university-partner
 webUrl: "https://www.biometricupdate.com/202107/japanese-university-partners-with-glory-on-facial-recognition-payment-trial-with-mask-detection"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1920
     height: 1152
     isCached: true
-
-related:
-  - title: "Researchers disclose vulnerability in Windows Hello facial recognition"
-    excerpt: "A new research report shows that hackers can get around Windows Hello by using a certain type of hardware and eventually gain access to your PC."
-    publishedDateTime: 2021-07-19T14:15:00Z
-    webUrl: "https://www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/mouse-computers-windows-hello-2.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "NEgZ79sdwlgcmzRF66lth7eHDoq9Apam3XLVgky7iIXb3nNnKa4PCw4B3u+tby0IceP1hFLzNdtfqNZod5V95rSPMzPpUm7+8A3Q+Q/AX9CX8el/BVBPZ9iNFUpf+MX5Tp4NTfQyQRHsa9g/74ehymsIV7tVPsNB30v8pLGO1kW62ffK0zNX1ZyahuKHZpc5m1I68WDZJ5o+XiXiIh6XxW7NABspkXrh9Vd6qI/YNOPavlaxh5IIaXNsFQN0Og44emKCEtJsd4/Z8LuAOnBR+oirriQdbh760R7626ncJaoT+lHiB+dtxLfqKAdDEAsjbwUI96DjE1K3B27CaEPRA831C3Dz4kW6gHhieF9uI4b3JNiP3s6FZaM2JBF84PpkRVOJ+Y3nu64aADBA1qG1HOdfdjoDfF4kNLX4YpCm8NF3c/I3zMyXgXfvEBL7XfY0byrbOiW5VSjLyypp6nSwpgQ3UQwWwROYZTcwJLuA9ePzioiQop6yBVOa9iA9OQQAqh3275SJAgw9pjzz+ERkPQ==;I/d8jWavdaezHP5THrRLnA=="
 ---

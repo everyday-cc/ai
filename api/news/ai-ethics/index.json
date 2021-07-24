@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -244,50 +244,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-how-compliance-professionals-should-shape-ai-regulations-in-finance.md",
-      "title": "How Compliance Professionals Should Shape AI Regulations in Finance",
-      "excerpt": "Some make it seem like automating compliance functions is a question of do or die. But if anyone hopes to have a seat at the table, they need to understand the risks involved – along with the evolving set of AI regulations in finance they will need to follow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.corporatecomplianceinsights.com/compliance-professionals-ai-regulations-in-finance/",
-      "originalUrl": "https://www.corporatecomplianceinsights.com/compliance-professionals-ai-regulations-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.corporatecomplianceinsights.com/wp-content/uploads/2021/07/shutterstock_1849422583.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "corporatecomplianceinsights.com",
-        "domain": "corporatecomplianceinsights.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
       ]
     },
     {
@@ -1455,6 +1411,50 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia.md",
+      "title": "Analysis - 'Racist' facial recognition sparks ethical concerns in Russia",
+      "excerpt": "The rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772",
+      "originalUrl": "https://www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.astroawani.com/2021-07/81625479627_CHINA.jpg",
+          "width": 590,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772?amp=1",
+      "cdnAmpWebUrl": "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772?amp=1",
+      "publishedDateTime": "2021-07-06T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Astro Awani",
+        "domain": "astroawani.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI",
         "AI Ethics"
       ]

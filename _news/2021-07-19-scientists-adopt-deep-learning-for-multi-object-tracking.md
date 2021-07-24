@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tra
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: techxplore.com
@@ -36,20 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Researchers adopt deep learning for multi-object tracking"
-    excerpt: "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our"
-    publishedDateTime: 2021-07-19T13:52:00Z
-    webUrl: "https://www.miragenews.com/researchers-adopt-deep-learning-for-multi-598270/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed+2/05-04-2021-Unsplash-Washington-Protest.jpg/image770x420cropped.jpg"
-        width: 770
-        height: 420
-        isCached: true
 
 secured: "IoF1fe1AKvhs5mYr88Vlfx3TaOxCOW+TgBCMaAa2OgxAfJX3lWo6qPYaZHfW8+m/jTigDIJ/jdFBkXfadlCWtqiic/vGauyo2R3B0r+w/CvQgWN0Yq+ahYkM+dVqS4jOHetqJFgfLgHE1qKYkCof6tqQBcHxGW8JgD4zlYZdN3i31UoBAThXCzaoUrM3le5u9XS/p9VPQglH166rxEjdOn0GQFHH++ZoRUGO2c44O4i9iAOMXLULr1iuVNx7/V9m2WrxgLahf98OchowNDHfkbn8mY9nhHc/gOrQkhAh021Ug4XiIR5ZMsLBYT8cIvt1use1C5js+gEPdApgRigRrJl6chbyA8umev7owU4dFTXlbbppMIzJx3xyZogk8yv5i5pepC5Lo0buUcfZycCWgWrrqKAm+A9Uog7njI06bL5vw8IiffNIpIB5pYsKi+zoDbNEOsUDM7cF47SZWT1Hs4UjOdhg3zqmdC/2xjRv/XmNSPFzBPSI5dq2QKTIxjlxFMTv3ofiXM3/iKjnz+h60w==;F7ac2V/C6fQqy5rmelJV5A=="
 ---

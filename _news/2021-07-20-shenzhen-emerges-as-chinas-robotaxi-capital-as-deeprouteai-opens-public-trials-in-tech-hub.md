@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-ch
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 33
-  - title: "DeepRoute.ai, Level 4 Self-Driving Technology Innovation Leader, Launches Its Robotaxi Pilot Program"
-    excerpt: "To Provide Service in Downtown Shenzhen, Covering 124 Miles of Public Roads FREMONT, Calif., July 19, 2021 (GLOBE NEWSWIRE) -- DeepRoute.ai announced today its robotaxi program is now available to the public,"
-    publishedDateTime: 2021-07-19T13:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-228ec70df3ca00955464517adb0e6aea"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "HJeNC83YPQR9c/mt1c03Wf4xabtVW7drKNLp33V5xvidRyfOVpdTS/p4ZnUDZDooK3SNNv31Vdn94smA4Yk1ZBHx/7gVZN0jM9bCG0HX2MBfynDPAAkjvrxjiSID+bgNXNfD2L97TvFb7DtLR1AWOc5z26nf4lleUqyeABVAeRj91pgePhJgZYZ4MC/R/3XgJpOFtxHkf0bkccTQmly1J71Q5kRkikdDM74RZo4SNuDT4oTo5wUFE+yrLM2IaJWH6+bmt7Wpyd+713nW5VCLqAQkmTFUvIlLFghDhmL/ahYAf0iQ3Qk2P4u11kTfZ8nCEzOfbaAdYrLFSf0fvN1AL/CVYVPh12npj+RNiCaPaDIUyzkUAf9jFcoOQXMIViRqxD38+oH+4K4+GmoAPZfEpK1i0FGeHXyPeAkhP7Ve0UMbpq55hPBOoEexbgSK/DsJhCn15QEbVrGWJwAQkTjHgYgYjODBZo521/8DvWBC5G5YYvdxa/bAethvGU+hRJAsjRG74wm21DixHaQkL9katA==;S4V0Fu0nr8Oy8w2vSWbcWw=="
 ---

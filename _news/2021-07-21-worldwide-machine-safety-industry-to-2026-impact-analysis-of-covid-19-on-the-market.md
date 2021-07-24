@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI-Powered Storage Market 2021 Applications, Market Size According to a Specific Product, Sales and Revenue by Region 2026"
-    excerpt: "Global AI-Powered Storage Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 recently presented by MarketsandResearch.biz concretes the best results, integrated approaches,"
-    publishedDateTime: 2021-07-21T00:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-powered-storage-market-2021-applications-market-size-according-to-a-specific-product-sales-and-revenue-by-region-2026-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
     excerpt: "The global “Facial Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-07-21T09:39:00Z

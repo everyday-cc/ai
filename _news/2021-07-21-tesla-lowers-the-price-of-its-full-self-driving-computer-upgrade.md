@@ -123,22 +123,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla To Add Auto Shift To All Cars With Self Driving Package"
-    excerpt: "When Tesla Inc (NASDAQ: TSLA) first revealed its refreshed Model S and X vehicles, many were confused on the lack of traditional stalks near the steering wheel."
-    publishedDateTime: 2021-07-19T14:14:00Z
-    webUrl: "https://www.benzinga.com/tech/21/07/22040689/tesla-to-add-auto-shift-to-all-cars-with-self-driving-package"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22040689"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22040689"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/model_s_interior.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Wanna Drop Some FSD? Tesla’s “Self-Driving” Tech Available for $99/Month"
     excerpt: "The subscription model is available for owners of Tesla models running the company's Full Self-Driving computer 3.0 or newer hardware and the brand's Autopilot function. Tesla started placing FSD computer 3."
     publishedDateTime: 2021-07-20T00:15:00Z
@@ -185,15 +169,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Unveils $199/Month Full Self Driving Subscription Package"
-    excerpt: "Tesla Inc. has launched a Full Self-Driving or FSD subscription for its driver-assistance software package for $199 per month. The"
-    publishedDateTime: 2021-07-19T13:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-unveils-199-month-full-self-driving-subscription-package-1030620591"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Tesla launches subscription plan for Full Self-Driving package"
     excerpt: "Tesla has launched a new $199-per-month subscription plan for its Full Self-Driving package. Previously, Tesla owners would have had to purchase the Full S"
     publishedDateTime: 2021-07-19T16:09:00Z
@@ -267,50 +242,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/07/tesla-enhanced-summon-app-model-3-scaled.jpg"
         width: 2560
         height: 1419
-        isCached: true
-  - title: "Tesla Launches Full Self-Driving Subscription, Even Though It Is Nowhere Near Achieving Full Autonomy"
-    excerpt: "Tesla has launched its monthly subscription service for its Full Self-Driving package, even though it is still a long way away from offering a true Level 5 fully-self driving package to customers. The car manufacturer has previously sold its Full Self-Driving package as a $10,"
-    publishedDateTime: 2021-07-19T13:05:00Z
-    webUrl: "https://www.carscoops.com/2021/07/tesla-launches-full-self-driving-subscription-even-though-it-is-nowhere-near-achieving-full-autonomy/"
-    ampWebUrl: "https://www.carscoops.com/2021/07/tesla-launches-full-self-driving-subscription-even-though-it-is-nowhere-near-achieving-full-autonomy/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/tesla-launches-full-self-driving-subscription-even-though-it-is-nowhere-near-achieving-full-autonomy/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 44
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/05/Tesla-Autopilot-report-00-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
-  - title: "2022 Audi RS 3, BMW ZBF 7er, Tesla Full Self-Driving: Today's Car News"
-    excerpt: "Comment Now! Audi has revealed its redesigned RS 3 compact performance sedan. The new car represents only an evolution of its predecessor, but"
-    publishedDateTime: 2021-07-19T15:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1119514_2022-audi-rs-3-bmw-zbf-7er-tesla-full-self-driving-today-s-car-news"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/audi-a3_100799779_h.jpg"
-        width: 1920
-        height: 1136
-        isCached: true
-  - title: "Tesla Launches Full Self-Driving Subscription"
-    excerpt: "Tesla launched a subscription to its Full Self-Driving feature — which is currently neither fully autonomous nor self-driving, but a Level 2 semi-autonomous driving system."
-    publishedDateTime: 2021-07-19T14:51:00Z
-    webUrl: "https://www.cars.com/articles/tesla-launches-full-self-driving-subscription-438491/"
-    type: article
-    provider:
-      name: Cars.com
-      domain: cars.com
-    quality: 39
-    images:
-      - url: "https://images.cars.com/cldstatic/wp-content/uploads/tesla-model-y-2021-02-angle--black--dynamic--exterior--rear.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Your Tesla Can Now Have Full Self-Driving for $199 a Month"
     excerpt: "Until now, the full self-driving (FSD) feature in Tesla electric vehicles could only be purchased for an extra $10,000 at the time of car purchase, but this will soon be a thing of the past. Elon Musk's company launched a subscription plan to offer this ..."

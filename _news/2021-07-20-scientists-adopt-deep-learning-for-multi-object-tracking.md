@@ -39,20 +39,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Researchers adopt deep learning for multi-object tracking"
-    excerpt: "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our"
-    publishedDateTime: 2021-07-19T13:52:00Z
-    webUrl: "https://www.miragenews.com/researchers-adopt-deep-learning-for-multi-598270/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed+2/05-04-2021-Unsplash-Washington-Protest.jpg/image770x420cropped.jpg"
-        width: 770
-        height: 420
-        isCached: true
 
 secured: "Tu2htM+lKbbegmyRHTUJq0CD+SCEbcFweec+cvJ1LE5KVk4B9vPyEY389JSqDZ4koDhN5n8DfvasopcZJ0m513v96WhiYOSK11W08Q83XPuNos5N5O8eaWVottiG5nukGL5eiBfujJ1WnTjWYPccaO+CUmPSyLSCSomIGaitm1pgceAPGM4iLEhvCWyQxlfaFXUl8Jx+prtUvIlUHK0/EyqUJnxXk8u8RXVodIrWmetLcNMhfU7Em7uRun8wDX0RVf5OT/8a1n2Ams4F3E5Kw3O1ITGzT2+K9ZcA6wxej2gzRtLKpktsaOzIxUQ2Dw2M9N1abJ1vR4CYaRRpb8dmGh1sj6Gez4O02QrSqWr9t3I=;y+/23etgRISlFPT8WPKT3Q=="
 ---

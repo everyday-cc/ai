@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/19/when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Every city’s drivers have quirks. Studying them could make self-driving cars work anywhere"
-    excerpt: "To understand why it’s so hard to make a car that drives itself, pay attention to how people cross the street next time you travel. In Los Angeles, pedestrians wait for the walk sign. In San Francisco"
-    publishedDateTime: 2021-07-19T13:02:00Z
-    webUrl: "https://www.columbian.com/news/2021/jul/19/every-citys-drivers-have-quirks-studying-them-could-make-self-driving-cars-work-anywhere/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 14
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "O9G82+BgMlDo3JP+B7ZgtBxLFREo4naj6Pdc0uODvBxFoEWzTMq/Y65BvXb2eNZgJYdOoPoQUXGAc1k/4zTPG7I4VWCTqflz+190EliJFEk6mPOEDDkD0YmnD5Qb8KFm2kZTHLnPEPnVfAZRktk2ZumpwgL8wt1/8k/Um/RlBzMA9QiPglL+bq+WsNlEVaMENVsdSEJC16akDOkAlh0qDkA/A3u2+B7Eai0233LFL0EOHN4mF8pTfhxmOkVIlNRhLEUMU6QvGh7kuuD7AtAeqUvUF6vLuraA305ZnFVn8IhIBy9yC+oDLxK3oVKn4qvxr275yBfGzDS4+WhvOchz6vOfspyLffgGqqtK/kRHgR9xIFJiB2NK+VMHaOSx0oE9DxOC9AMYlyeCqdAQkZnoHP+6pmm/JIgt5LkEBRrktbbVRwVqYoSfV+E4PdIJ77Go1/SyFkBSgapOnQeB+n6NzfJKbYiTroVSNOloNsZJDK7+0rh4CcVLAlkVSjprIbhWHMGitokBPgGPR/LB9sOCag==;m5eZB2KvM2aRrvc/UfJXRQ=="
 ---

@@ -102,20 +102,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Facial Recognition Is Watching You"
-    excerpt: "The Boston-based Fight for the Future advocacy organization is trying to put pressure on private businesses to swear off any form of facial recognition."
-    publishedDateTime: 2021-07-19T14:14:00Z
-    webUrl: "https://safehaven.com/tech/tech-news/Facial-Recognition-Is-Watching-You.html"
-    type: article
-    provider:
-      name: Safehaven
-      domain: safehaven.com
-    quality: 41
-    images:
-      - url: "https://d2t794khe5w43b.cloudfront.net/article/718x300/fb18666381bc6df1c15ed694514302fc.jpg"
-        width: 718
-        height: 300
-        isCached: true
   - title: "Facial Recognition Tech Opposition Increases"
     excerpt: "As more stores install facial recognition software to reduce theft and increase security, opposition to the technology is growing, Axios reports. Recently, more than 30 advocacy organizations started a campaign to get retailers to halt usage of facial recognition technology or to agree not to use it."
     publishedDateTime: 2021-07-20T00:00:00Z

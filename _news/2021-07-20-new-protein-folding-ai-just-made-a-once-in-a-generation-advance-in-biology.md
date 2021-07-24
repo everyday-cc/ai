@@ -40,20 +40,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Regulators must find a balance with artificial intelligence"
-    excerpt: "There's rapid digital transformation in the industry. Regulators need to get with the game plan while not stepping too hard on the gas pedal to regulate the use"
-    publishedDateTime: 2021-07-19T14:06:00Z
-    webUrl: "https://www.waterstechnology.com/emerging-technologies/7854081/regulators-must-find-a-balance-with-artificial-intelligence"
-    type: article
-    provider:
-      name: WatersTechnology
-      domain: waterstechnology.com
-    quality: 37
-    images:
-      - url: "https://www.waterstechnology.com/sites/waterstechnology/files/styles/metatag_image/public/2021-07/GettyImages-116180672.jpg?itok=PcK-WoGz"
-        width: 378
-        height: 234
-        isCached: true
 
 secured: "IPi8qEbfSpox/c1jCh/KmgMZgGyDYzpsfyof6B4yqzCIw+kqSVn61vw8waJyfRqCVgxg44J0mILon5xo5inxIwK3issWxk0/Z//d63dsKOUJBcH2MLueb4YIyPl/NgtofQ1OqiLDgeCupi1HhkFxzJ0cxlCdigrfBoLal6MJrvy0i/QRJnBiz9RcDQDNAESPyTqpseDhsW+QlGUYjrpsX1AYZYG6NJruI37JGu6AXHhLIfKd+FUxeLEL1bivhBnm3F5RN1Zi/q+vvUI2K1zWO1SdHRua4euPTZB+l7Q86HnsfD6VubXwfKCxQpW905DHTpe+It7woRAmDf79KiFwKtVqajkrije8jjzzPbzMhB4=;lv9764EnH+PYfZuQC7sm0w=="
 ---

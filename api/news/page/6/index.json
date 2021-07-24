@@ -2,59 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-07-19-building-mlgui-user-interfaces-for-machine-learning-applications.md",
-      "title": "Building MLGUI, user interfaces for machine learning applications",
-      "excerpt": "In this interview, KPMG's Philip Vollet talks about why building user interfaces is necessary to unlock AI's true potential.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/kelly-sikkema-gcHFXsdcmJE-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/amp/",
-      "publishedDateTime": "2021-07-19T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-07-19-machine-learning-in-finance-market-2021-rising-future-estimations-and-key-countries-by-2031.md",
       "title": "Machine Learning In Finance Market 2021 Rising Future Estimations and Key Countries by 2031",
       "excerpt": "Market.us has to return up with a brand new report specifically Global Machine Learning in Finance Market standing and Outlook (2022-2031) that focuses on current trade updates, providing exclusive and analytical information through the span of 10 years.",
@@ -1080,8 +1027,8 @@
       "title": "Snowflake Stock – Even as COVID eases, cloud computing and AWS keep flying high",
       "excerpt": "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a",
       "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_nyse-snow/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_nyse-snow/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
+      "webUrl": "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1211,6 +1158,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-18-device-taps-brain-waves-to-help-paralyzed-man-communicate.md",
+      "title": "Device Taps Brain Waves to Help Paralyzed Man Communicate",
+      "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are relayed through a computer to the artificial limb. Chang’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.courthousenews.com/device-taps-brain-waves-to-help-paralyzed-man-communicate/",
+      "originalUrl": "https://www.courthousenews.com/device-taps-brain-waves-to-help-paralyzed-man-communicate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://courthousenewswebsite.kinsta.cloud/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.courthousenews.com/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/",
+      "publishedDateTime": "2021-07-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

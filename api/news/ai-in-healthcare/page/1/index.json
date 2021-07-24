@@ -245,7 +245,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -616,8 +616,8 @@
       "title": "Major Study From Stanford University and Youper Finds Artificial Intelligence Therapy Effective at Reducing Anxiety and Depression",
       "excerpt": "In the largest clinical study of its kind to date, a team of scientists at Stanford University confirmed a new model of mental health treatment that uses artificial intelligence therapy is significantly effective at reducing symptoms of depression and anxiety.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-major-study-from-stanford-university-youper-finds-artificial-/2021/07/15/9410138.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-major-study-from-stanford-university-youper-finds-artificial-/2021/07/15/9410138.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-1030611413",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-1030611413",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -627,12 +627,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T06:10:00-07:00",
+      "publishedDateTime": "2021-07-15T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

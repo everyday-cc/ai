@@ -111,20 +111,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Facial Recognition Is Watching You"
-    excerpt: "The Boston-based Fight for the Future advocacy organization is trying to put pressure on private businesses to swear off any form of facial recognition."
-    publishedDateTime: 2021-07-19T14:14:00Z
-    webUrl: "https://safehaven.com/tech/tech-news/Facial-Recognition-Is-Watching-You.html"
-    type: article
-    provider:
-      name: Safehaven
-      domain: safehaven.com
-    quality: 41
-    images:
-      - url: "https://d2t794khe5w43b.cloudfront.net/article/718x300/fb18666381bc6df1c15ed694514302fc.jpg"
-        width: 718
-        height: 300
-        isCached: true
   - title: "The Cognitive Psychology of Rules of Interpretation in International Law"
     excerpt: "While Articles 31 and 32 of the Vienna Convention on the Law of Treaties (VCLT) prescribe the rules of interpretation for international treaty law as “disciplining rules,” the rules of interpretation themselves are understudied from a cognitive ..."
     publishedDateTime: 2021-07-20T12:48:00Z
