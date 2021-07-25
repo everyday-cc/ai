@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19916974.html"
 webUrl: "https://www.lelezard.com/en/news-19916974.html"
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Artificial Intelligence (AI) Robots Market Study for 2021 to 2028 providing information on Key Players, Growth Drivers and Industry challenges"
+    excerpt: "Robots Market report including its market outline and development status by types and applications, which specifies its price and profit status, market growth drivers, and challenges. Readers will find this report very helpful in understanding the market in depth."
+    publishedDateTime: 2021-07-21T01:24:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-robots-market-study-for-2021-to-2028-providing-information-on-key-players-growth-drivers-and-industry-challenges/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 13
 
 secured: "zg20zspSE2olYRQEsm8MKNSLEMmh2vA2kX82ePw4tv1ODBJEhX2dgZBNonWPc3njGDDGyYyexw8wgX4ECtdUKEBajQa6ODJ9E5L3PluFYNikRuE1/spjEqClz12zNEWgYjBINEeI3D5Y01AK3jaBFM4BC8TiydeuhaOgPBiEJCwINmGMaHu3JlHrK3cngwQ+/JrqBR1NDNhO27SusPtJSI3AnG/eEM5Lo5Hd8gelFge63hSaHItkKBCrSksW6rOkIoIYB3dpSO6obHJrBOvXgyPkyk2WlSqxmhS/GdkaXkvjV8bB8dKjBxHexU6AEktkHtAkE69WtgKRFCsahRfnMC3RedgI8ljtZobkS8o0drc=;JYzzUb4NfRKe7PWud3k6kw=="
 ---

@@ -223,20 +223,6 @@ related:
         width: 1200
         height: 817
         isCached: true
-  - title: "Your Tesla Can Now Have Full Self-Driving for $199 a Month"
-    excerpt: "Until now, the full self-driving (FSD) feature in Tesla electric vehicles could only be purchased for an extra $10,000 at the time of car purchase, but this will soon be a thing of the past. Elon Musk's company launched a subscription plan to offer this ..."
-    publishedDateTime: 2021-07-20T08:22:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/Your-Tesla-Can-Now-Have-Full-Autonomous-Driving-16324977.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/05/07/21254625/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Tesla's 'Full Self-Driving' software lacks safeguards, Consumer Reports says"
     excerpt: "Consumer Reports said Tuesday that Tesla Inc.'s \"Full Self-Driving\" software lacks safeguards and raised concerns the system's use on public roads puts the public at risk, citing reports from drivers."
     publishedDateTime: 2021-07-20T17:40:00Z

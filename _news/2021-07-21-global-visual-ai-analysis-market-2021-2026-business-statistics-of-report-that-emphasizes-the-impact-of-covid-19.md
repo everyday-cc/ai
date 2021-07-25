@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-visual-ai-analysi
 webUrl: "https://www.marketwatch.com/press-release/global-visual-ai-analysis-market-2021---2026-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2021-07-20"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -28,33 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Education Market Report 2021, Industry Size, Outlook, Production, Revenue, Gross Margin and Forecast to 2026"
-    excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Artificial Intelligence (AI)"
-    publishedDateTime: 2021-07-20T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026-2021-07-20"
+  - title: "These businesses reacted to covid with automation and AI, IT News, ET CIO"
+    excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
+    publishedDateTime: 2021-07-23T17:14:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/these-businesses-reacted-to-covid-with-automation-and-ai-it-news-et-cio/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 38
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
-    excerpt: "The global “Facial Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-07-21T09:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/these-businesses-reacted-to-covid-with-automation-and-ai.jpg"
+        width: 800
+        height: 434
         isCached: true
   - title: "Worldwide Machine Safety Industry to 2026 - Impact Analysis of COVID-19 on the Market"
     excerpt: "The \"Machine Safety Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global market for machine safety was evaluated at US$1,204.949 million in the year 2019 and is anticipated to witness a CAGR of 6."
@@ -65,15 +51,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
-  - title: "Artificial Intelligence (AI) Robots Market Study for 2021 to 2028 providing information on Key Players, Growth Drivers and Industry challenges"
-    excerpt: "Robots Market report including its market outline and development status by types and applications, which specifies its price and profit status, market growth drivers, and challenges. Readers will find this report very helpful in understanding the market in depth."
-    publishedDateTime: 2021-07-21T01:24:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-robots-market-study-for-2021-to-2028-providing-information-on-key-players-growth-drivers-and-industry-challenges/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 13
 
 secured: "//++VvDSL3Ht03QEzN/DudJqqeOLNGVqK5aYxh2Vriz1RIrmEfuwW6lwujwBB+gULsl5+dvNaHw296IivwDR5F1lJ1xubXzKuKC1n8bFOwnm+koHWhVezZGJC09Z3TxSIq8BkSqQBn9WTSQVChm4DSboY6MJLVb+xVN2A6m27im3/RaSHxLdSDZ6Y/DZVb0QyN+hWw4UM3Z0p2JNytrqjBn3MH/pu59EF/R0c7u9QrHGJBYITIwYXl16RuWxo+ufWT07/tJsRI+yZXRB1Bxd02eT9slaY2sdFmevbNlg6R8eAGQPEMq9Jmh6twgaIRQZBltRrcJQ9f80rTjvfbfalhMXXtcn2K7vU2qtDhyxZO8=;JwYpNvaAMuNtE9t3Wyu3UQ=="
 ---

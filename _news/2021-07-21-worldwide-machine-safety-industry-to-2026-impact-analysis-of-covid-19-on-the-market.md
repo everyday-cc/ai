@@ -23,34 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Education Market Report 2021, Industry Size, Outlook, Production, Revenue, Gross Margin and Forecast to 2026"
-    excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Artificial Intelligence (AI)"
-    publishedDateTime: 2021-07-20T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
-    excerpt: "The global “Facial Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-07-21T09:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Visual AI Analysis Market 2021 - 2026 Business Statistics of Report that Emphasizes the impact of COVID-19"
     excerpt: "Global Visual AI Analysis Market 2021 by Company, Regions, Type and Application, Forecast to 2026 recently introduced by MarketsandResearch.biz offers a fundamental examination of the market covering the examination of subjective points that is prepared to display key market information of learning to the pursuers."
     publishedDateTime: 2021-07-21T01:36:00Z
@@ -65,15 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Robots Market Study for 2021 to 2028 providing information on Key Players, Growth Drivers and Industry challenges"
-    excerpt: "Robots Market report including its market outline and development status by types and applications, which specifies its price and profit status, market growth drivers, and challenges. Readers will find this report very helpful in understanding the market in depth."
-    publishedDateTime: 2021-07-21T01:24:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-robots-market-study-for-2021-to-2028-providing-information-on-key-players-growth-drivers-and-industry-challenges/"
+  - title: "These businesses reacted to covid with automation and AI, IT News, ET CIO"
+    excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
+    publishedDateTime: 2021-07-23T17:14:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/these-businesses-reacted-to-covid-with-automation-and-ai-it-news-et-cio/"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 13
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 38
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/these-businesses-reacted-to-covid-with-automation-and-ai.jpg"
+        width: 800
+        height: 434
+        isCached: true
 
 secured: "OeUA4JvkvFurEQSnB/otLKf7JdsotpmMJ5Y5wFxAUOtlec6YDRBafadGy5QWqQBIP65uic10kDnECTPieLEDt+l/Txa3PGjvQjgs5gOdWIpEDhIlsskmNDn0UhLh6rKdjG86mk46sRe82PB4pX89ErkWC/IQ5w5Lle3ZsTqpPfvWC9KqicE0SrloR5YUAC6rnc8trf5v5ZISgBKDA4Nj7ivqFF3RFtibsKiCMHNNSdLY/2CXnQJaXhUz1m8tAi6+C02sKSlbvkxv0TkKyG1CI8jJlvqd45HUwPfugWmp4E53PFUsUuAtlXbW1rOwfx183kMgwm2K8xWTvwBmKVOgVrhQksqGnIvZU/W/iXnu/Y0=;lf54QuqTUUwqdLJsg08y1A=="
 ---

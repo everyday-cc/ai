@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-u
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/"
 type: article
 quality: 184
-heat: 364
+heat: 354
 published: true
 
 provider:
@@ -212,20 +212,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/07/tesla_autopilot.jpg"
         width: 1200
         height: 817
-        isCached: true
-  - title: "Your Tesla Can Now Have Full Self-Driving for $199 a Month"
-    excerpt: "Until now, the full self-driving (FSD) feature in Tesla electric vehicles could only be purchased for an extra $10,000 at the time of car purchase, but this will soon be a thing of the past. Elon Musk's company launched a subscription plan to offer this ..."
-    publishedDateTime: 2021-07-20T08:22:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/Your-Tesla-Can-Now-Have-Full-Autonomous-Driving-16324977.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/05/07/21254625/3/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Tesla Offers ‘Full Self-Driving’ Feature as a Monthly Subscription"
     excerpt: "Consumer Reports takes a look at Tesla offering the ‘Full Self-Driving’ feature as a monthly subscription. CR recommends the subscription at $199 a month over buying it for $10,000."

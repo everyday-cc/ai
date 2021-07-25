@@ -7,7 +7,7 @@ originalUrl: "https://nltimes.nl/2021/07/23/police-removed-218000-photos-facial-
 webUrl: "https://nltimes.nl/2021/07/23/police-removed-218000-photos-facial-recognition-database-last-year"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 837
     height: 462
     isCached: true
-
-related:
-  - title: "Police remove 218,000 photos from facial recognition database"
-    excerpt: "Dutch police said on Friday they had removed 218,000 photos from their facial recognition database last year, although it is unclear how many separate people that figure involves. The police are supposed to remove the photos of people who are no longer considered suspects in a case or have been found not guilty by the courts."
-    publishedDateTime: 2021-07-23T08:40:00Z
-    webUrl: "https://www.dutchnews.nl/news/2021/07/police-remove-218000-photos-from-facial-recognition-database/"
-    type: article
-    provider:
-      name: DutchNews.NL
-      domain: dutchnews.nl
-    quality: 39
-    images:
-      - url: "https://www.dutchnews.nl/wpcms/wp-content/uploads/2021/07/Depositphotos_42356597_s-2019.jpg"
-        width: 1000
-        height: 687
-        isCached: true
-  - title: "How facial recognition went from bad TV to Big Brother"
-    excerpt: "You might not see it, but it sees you. CNN's Jon Sarlin explores the brave new world of facial recognition technology."
-    publishedDateTime: 2021-07-23T18:40:00Z
-    webUrl: "https://kyma.com/videor/2021/07/23/how-facial-recognition-went-from-bad-tv-to-big-brother/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 39
-    images:
-      - url: "https://kyma.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
 
 secured: "+xDQFQufDc4yZmUtCLpHi5Qwc5BAC4XNzURO2UJN1ew+VNkh4aTCvBQKonJzLaNO2umRgYbhokp5BPe+RJSqWcg4ogKKlygUnhjUDSSQsqtaNqKbkZ3QCQ82bGlL1k0UT7GBjAwMOniiA0NoTspNNi48nDKD0QtaOG+dusr3zL+fVEhVHAerUezYaSR4RRxdyaDte3Yn0SFOppgLws9l07ZXWK4fR7Cp54iRI0ULqWqpx6SOCFgZnHXgyIgfvc6QAnN2/HJiT4EvIAY9CeQB+cpHANRE4jNmKL5we8YLghQ4dcIx7xIFBXBrsW3kB3gUzsYOiYjdhEbEkV0pezRaGRvNwXsaJSaPndCQDofiRa+OIR3M1uqYfbDFNxiYblZQeKcnsDVj13C8ENahcUYxySyrgEwuPLleIPyeWKfsN5EdLkcAZBhpGDqqXeQXiOQYAi7meuq5tEQEZBGT27vy9QJ1FmlzLJWEgLomvManvXOrqgdqODqu/7iQTtfvK3zwnO77NcTligqUfEc/8Ah6hQ==;zzZirAKZyaSZ375hw6gnBg=="
 ---

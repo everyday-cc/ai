@@ -19,57 +19,62 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Artificial Intelligence (AI) in Education Market Report 2021, Industry Size, Outlook, Production, Revenue, Gross Margin and Forecast to 2026"
-    excerpt: "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Artificial Intelligence (AI)"
-    publishedDateTime: 2021-07-20T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026-2021-07-20"
+  - title: "Worldwide Disinfection Robots Industry to 2026 - Role of AI & Robotics in Transforming Healthcare is Driving the Market"
+    excerpt: "especially during COVID-19 to provide cleaning robots. Players face more competitive challenges due to the rising entry of many start-ups which is likely to utilize technological advancements. For instance, the Xenex LightStrike pulsed xenon UV ..."
+    publishedDateTime: 2021-07-23T11:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19916974.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 62
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Facial Recognition Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
-    excerpt: "The global “Facial Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-07-21T09:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-21"
+  - title: "Could Human-aware Algorithms Be the Key to Motion Planning in Robotics?"
+    excerpt: "More human-like could be a necessary hurdle to cross, especially concerning motion control and planning. What are places like MIT and Mitsubishing accomplishing with the right algorithms?"
+    publishedDateTime: 2021-07-24T15:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/could-human-aware-algorithms-be-the-key-to-motion-plannin-in-robotics/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/mit_movement_aware_robotics_thumbnail.jpg"
+        width: 700
+        height: 300
         isCached: true
-  - title: "Global Visual AI Analysis Market 2021 - 2026 Business Statistics of Report that Emphasizes the impact of COVID-19"
-    excerpt: "Global Visual AI Analysis Market 2021 by Company, Regions, Type and Application, Forecast to 2026 recently introduced by MarketsandResearch.biz offers a fundamental examination of the market covering the examination of subjective points that is prepared to display key market information of learning to the pursuers."
-    publishedDateTime: 2021-07-21T01:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-visual-ai-analysis-market-2021---2026-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2021-07-20"
+  - title: "Top 10 Artificial Intelligence Apps in the Market"
+    excerpt: "AI apps are being introduced on an everyay basis now in the market. Although only few of them have retained the mark of being the best. Here is the list."
+    publishedDateTime: 2021-07-23T17:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-apps-in-the-market/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-3.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "Worldwide Machine Safety Industry to 2026 - Impact Analysis of COVID-19 on the Market"
-    excerpt: "The \"Machine Safety Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global market for machine safety was evaluated at US$1,204.949 million in the year 2019 and is anticipated to witness a CAGR of 6."
-    publishedDateTime: 2021-07-21T15:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-machine-safety-industry-to-2026-impact-analysis-of-covid-19-on-the-market-1030631271"
+  - title: "Worldwide 5G Business Services Industry to 2026 - Machine Learning and Cognitive Computing Will Be Leading AI Tools Supporting 5G"
+    excerpt: "The \"5G Business Services Market by Enterprise, Industrial, and Government Segment Applications, Services, and Solutions 2021 - 2026\""
+    publishedDateTime: 2021-07-22T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-5g-business-services-industry-to-2026---machine-learning-and-cognitive-computing-will-be-leading-ai-tools-supporting-5g-301339413.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "CXXmjCyiI2Hwa6j10Wc3iZG3SgRGJgvvByl+2tYlC4Gi2JCCaPj3kblndRmcfilKRlieBiM5FfXfoj7H8vliVduCtBinjk2Ok4AjLBJ72nRrEXPNX6OktVoKdGaffj5QFeihelFkAYEPfBvfYPZNFOOnh/XI2l1TF5r2xQsnMMqARoM9zew2QkHSSfHHvryaLSdy8F2Lo+Gd79nyrMQMsQUdKIouF0uFo1pUcp8r7qC5UvdlY0LfeA764IX6MJUXRSV0E16yoXiqqK3lTGJtr3+tFeJoFjfuAmwpNgKtZ72llyABzEDKDE9+NW/iqYYOE+sxku8tfNFam9fiSBKA3S1mFbOGybHeY/qfV8VT152SbrbDieI+ITx9OrdwM8d6KWjp6BSmH3X7FfKEjjCUUn+h1U7lM2w7CqPcgPBD1aLUzaZGVM8m4vnjI+z6Ct26crItev8qRgie+fxlvg2KyUqmZ8adufSESaiUAMh+PzrR46NNsfzsVYn/8c52vhUO64KkbbJfDql5g/On6uMxhQ==;GCLROgehYnRrasVDtnNVrg=="
 ---

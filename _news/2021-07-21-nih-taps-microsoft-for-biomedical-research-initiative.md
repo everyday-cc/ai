@@ -71,20 +71,6 @@ related:
         width: 760
         height: 430
         isCached: true
-  - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
-    excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
-    publishedDateTime: 2021-07-20T08:11:00Z
-    webUrl: "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 65
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1626705643/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?nnIWK27zsQToGA41LvRBTzJghCy0Z8Ok"
-        width: 4432
-        height: 2955
-        isCached: true
   - title: "Microsoft acquires CIEM leader CloudKnox Security"
     excerpt: "Microsoft is set to beef up its cloud security and entitlement management platform with the acquisition of CloudKnox."
     publishedDateTime: 2021-07-21T22:03:00Z
