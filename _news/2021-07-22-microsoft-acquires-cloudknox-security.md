@@ -149,20 +149,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 39
-  - title: "NIH taps Microsoft for biomedical research initiative"
-    excerpt: "NIH tapped Microsoft Azure as the cloud platform for its Science and Technology Research Infrastructure for Discovery, Experimentation and Sustainability Initiative, which provides cloud technology and services for biomedical research."
-    publishedDateTime: 2021-07-20T21:40:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/nih-taps-microsoft-for-biomedical-research-initiative.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/11.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Cloud Market Soars as IBM, Microsoft Build Out Services"
     excerpt: "The cloud market remains hot, and some of the top providers, including IBM and Microsoft, are looking to add to the capabilities and services in their cloud offerings to make further inroads into enterprises and government agencies."
     publishedDateTime: 2021-07-22T21:41:00Z

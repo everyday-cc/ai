@@ -302,6 +302,22 @@ related:
         width: 1062
         height: 597
         isCached: true
+  - title: "Argo AI and Ford to Launch Self-Driving Technologies on Lyft Vehicles By the End of 2021"
+    excerpt: "Argo AI, Ford Motors and Lyft joined hands to launch L4-level autonomous driving services in Miami by the end of this year. Lyft users will be able to make reservations for Ford L4 autonomous vehicles in designated areas through the APP."
+    publishedDateTime: 2021-07-25T14:04:00Z
+    webUrl: "https://syncedreview.com/2021/07/25/argo-ai-and-ford-to-launch-self-driving-technologies-on-lyft-vehicles-by-the-end-of-2021/"
+    ampWebUrl: "https://syncedreview.com/2021/07/25/argo-ai-and-ford-to-launch-self-driving-technologies-on-lyft-vehicles-by-the-end-of-2021/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/07/25/argo-ai-and-ford-to-launch-self-driving-technologies-on-lyft-vehicles-by-the-end-of-2021/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 50
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/07/IMG_20181114_084049.jpeg?fit=950%2C634&ssl=1"
+        width: 950
+        height: 633
+        isCached: true
   - title: "Argo AI, Ford to launch self-driving Lyft vehicles by end of 2021"
     excerpt: "Argo AI, Lyft, and Ford Motor Co. are collaborating to commercialize autonomous ride hailing at scale. Ford self-driving cars, with safety drivers, will be available on the Lyft network, with passenger rides beginning in Miami later this year and in Austin starting in 2022."
     publishedDateTime: 2021-07-22T18:30:00Z

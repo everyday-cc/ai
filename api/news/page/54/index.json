@@ -2,6 +2,108 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-06-16-jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-movie.md",
+      "title": "Jennifer Lopez Will Battle a Killer AI in a New Netflix Movie",
+      "excerpt": "Deadline reports she’s set to star and produce a new film called Atlas, which is being made for Netflix. Brad Peyton ( Rampage, San Andreas) is attached to direct from an original script by Leo Sardarian (Crackle’s StartUp ),",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551",
+      "originalUrl": "https://gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/230200c1759aa0f9748bfdf710315924.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551/amp",
+      "publishedDateTime": "2021-06-15T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation.md",
+      "title": "Hungryroot's AI-Powered Personalized Grocery Service Reaches $750M Valuation",
+      "excerpt": "Artificial intelligence (AI) is becoming a greater part of multiple industries, including groceries. Investments in AI are also increasing as more companies look to technology to remain competitive, and more consumers continue to shop online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/",
+      "originalUrl": "https://www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c925b5cf33a1b67bd71929%2F0x0.jpg%3FcropX1%3D1031%26cropX2%3D3525%26cropY1%3D230%26cropY2%3D1893",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/amp/",
+      "publishedDateTime": "2021-06-15T17:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs.md",
       "title": "Mexican FinTech Credijusto Buys Bank To Serve X-Border SMBs",
       "excerpt": "Credijusto says it’s the first Mexican FinTech to buy a regulated bank, transforming itself into Latin America’s only neobank concentrated on working with small to medium-sized businesses (SMBs). “Our acquisition of Banco Finterra creates the first truly digital banking platform for Mexican [SMBs],",
@@ -1081,74 +1183,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte.md",
-      "title": "Exscientia Acquires Personalised Medicine AI Pioneer Allcyte",
-      "excerpt": "Pioneering work by Allcyte has delivered a platform able to anticipate the effectiveness of cancer treatments in the clinic by using AI to analyse the activity of drugs in live patient samples at single-cell resolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "A rtificial intelligence will likely reshape the world in the coming decades. Autonomous machines will be able to hear, see, learn, think, and make decisions. This will drive productivity and innovation across virtually every industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15?time=1623757801",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15?time=1623757801",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15?amp",
-      "publishedDateTime": "2021-06-15T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

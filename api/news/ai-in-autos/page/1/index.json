@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-23-alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit.md",
-      "title": "Alphabet to launch robotics firm Intrinsic under its other bets unit",
-      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ...",
+      "path": "_news/2021-07-24-tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise.md",
+      "title": "Tesla Full Self-Driving explained: Its capabilities, cost and puzzling over-promise",
+      "excerpt": "Perhaps the most overly optimistic technology in all of the auto industry is Tesla's Full Self-Driving package. No car for sale to the general public can do what that name says. Here's what it really does and how to get it on your Tesla.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/",
-      "originalUrl": "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/",
+      "webUrl": "https://www.cnet.com/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
+      "originalUrl": "https://www.cnet.com/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 188,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/RkqwUqV_pSTg-8Gt3pKHghTeZuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2DMPV6O5NJERDO3F7MHS7QIA4.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.cnet.com/a/img/hTc2mT4Ktz7OJaDFafDjDPV8KhE=/2016/10/20/2d92b545-6e58-409b-b494-76c8511dfc32/tesla-self-driving-hardware-4.jpg",
+          "width": 1590,
+          "height": 1200,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,9 +76,61 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T06:43:00-07:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
+      "publishedDateTime": "2021-07-23T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit.md",
+      "title": "Alphabet to launch robotics firm Intrinsic under its other bets unit",
+      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-alphabet-other-bets-intrinsic-idUSKBN2ET1G0",
+      "originalUrl": "https://www.reuters.com/article/us-alphabet-other-bets-intrinsic-idUSKBN2ET1G0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2ET1G0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET1G0",
+      "publishedDateTime": "2021-07-23T07:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -191,6 +243,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-tesla-knocked-500-off-a-hardware-upgrade-for-its-full-self-driving-subscription-after-customer-backlash.md",
+      "title": "Tesla knocked $500 off a hardware upgrade for its Full Self Driving subscription after customer backlash",
+      "excerpt": "Tesla offered customers with older cars a $1,500 Full Self-Driving hardware upgrade, provoking a backlash. Now, it's charging $1,000.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7",
+      "originalUrl": "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60a1038ef27b4c0019444b4e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp",
+      "publishedDateTime": "2021-07-21T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1326,92 +1430,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera.md",
-      "title": "Toyota Self-Driving Car Unit Agrees to Buy Map-Maker Carmera",
-      "excerpt": "Woven Planet Holdings, the Toyota subsidiary focused on autonomous technology, on Wednesday said it agreed to acquire Carmera Inc., a U.S.-based AI company that makes real-time high-definition maps. \"HD maps power a lot of advanced safety and automobile driving technology products that we'll see in the future,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/dow-jones/2021071412169/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera",
-      "originalUrl": "https://www.morningstar.com/news/dow-jones/2021071412169/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year.md",
-      "title": "SAIC Motor says it will put Robotaxis capable of L4 self-driving on roads in China this year",
-      "excerpt": "Chinese automotive design and manufacturing company SAIC Motor says it will launch 40 to 60 Robotaxis capable of Level 4 self-driving throughout Shanghai and Suzhou before the end of 2021. The bold statement was made by Zu Sijie,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/",
-      "originalUrl": "https://electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/SAIC-Motor-Robotaxi-Mystery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/amp/",
-      "publishedDateTime": "2021-07-13T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

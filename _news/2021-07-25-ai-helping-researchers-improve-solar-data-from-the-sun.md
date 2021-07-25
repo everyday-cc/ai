@@ -1,24 +1,30 @@
 ---
 category: news
 title: "AI helping researchers improve solar data from the Sun"
-excerpt: "Researchers are utilising artificial intelligence (AI) techniques to calibrate some of NASAs images of the Sun, helping improve the data that scientists use for solar research."
-publishedDateTime: 2021-07-25T12:10:00Z
-originalUrl: "https://www.sify.com/finance/ai-helping-researchers-improve-solar-data-from-the-sun-news-topnews-vhzmkAaiejjha.html"
-webUrl: "https://www.sify.com/finance/ai-helping-researchers-improve-solar-data-from-the-sun-news-topnews-vhzmkAaiejjha.html"
-ampWebUrl: "https://www.sify.com/finance/ai-helping-researchers-improve-solar-data-from-the-sun-news-topnews-vhzmkAaiejjha.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/ai-helping-researchers-improve-solar-data-from-the-sun-news-topnews-vhzmkAaiejjha.html"
+excerpt: "It's also important for deep space missions, which won't have the option of sounding rocket calibration. We're tackling two problems at once."
+publishedDateTime: 2021-07-25T14:49:00Z
+originalUrl: "https://www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html"
+webUrl: "https://www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html"
+ampWebUrl: "https://www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html/amp"
+cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html/amp"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: The Statesman
+  domain: thestatesman.com
 
 topics:
   - AI
 
-secured: "dDlfvPskBCa9u6g3a5Riw84GKU6y2MlMyoL0JMlJXVfZX0F2HycZSfd3EITzfYp56hsmZ6R0jBzLErY6eK8rbC4eVVYag432oO2deyvJGpr8Tj1We9oDvpVcuD0rB/sxeTJ1cUSB16Keckd3zzQIowhUZ8r90GrErYFNvIbkpLvf9Eiy06s0gn9x5sw59qiS44qpuOjbFdJthxm0JNlwkFX7UM7E7POJKaEwtH0yOe3qitrLynuLzHSHk2bvtkuz2m5YaI5JxMckHuvhIPUqUzZLmHORJ8ZLAuMAC7d05sivektAPliwGb5LKv6vCHuDyqF+spZdQVNEt5eSDM4N/4BmjjogNelnUtvWjU7vgJk=;WgOkrbuIK+FBnTY6+sP+GA=="
+images:
+  - url: "https://www.thestatesman.com/wp-content/uploads/2021/07/AI-helping-researchers-improve-solar-data-from-the-Sun.jpg"
+    width: 777
+    height: 437
+    isCached: true
+
+secured: "xMNd41DJBa1cAW+dbe1a+z6I+J79Kvw+wKx1QVeZb3sxrjzL+kajx3F/QfOnElTa2gmgYUAwFkt6CgL0OHjYsYNohUPhyHoZfdpgJCih2dnELwoqxDz4DJkhg2tftks4AQIj28QoseGrjjYBOz7NUI2zcYjakiZ3B3/7H1kTAkMxRCT8EDfQkWn7wk40jwYy7dBGTmY4rwkjOnNYcP5V1MYcTlmmq5LL5f3b4OvSIYHVHB9U6Vn7bgP2c4zwXL7ts7psYFAJjlTHKey8K8Bk32FlsorCrx7YyXloHhA3beYAoTr9iUExyknXrehlV9XWsGqbzJAHMx6VqYqB2eLFHZosMltYILaL4g9xuYO4iNg=;rkPmy7AEDzdH1+NRnTR6Lg=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-22-ai-startup-funding-remained-strong-in-q2-report-finds.md",
+      "title": "AI startup funding remained strong in Q2, report finds",
+      "excerpt": "CB Insights found that AI startup funding remained strong in Q2 2021, with a record number of companies reaching 'unicorn' status.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/22/ai-startup-funding-remained-strong-in-q2-report-finds/",
+      "originalUrl": "https://venturebeat.com/2021/07/22/ai-startup-funding-remained-strong-in-q2-report-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/initial-coin-offering.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/22/ai-startup-funding-remained-strong-in-q2-report-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/ai-startup-funding-remained-strong-in-q2-report-finds/amp/",
+      "publishedDateTime": "2021-07-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-15-ways-to-leverage-ai-in-customer-service.md",
       "title": "15 Ways To Leverage AI In Customer Service",
       "excerpt": "From gathering data to speech recognition and message response times, AI can enhance the customer experience in nearly every way when it's applied correctly. Here, 15 members of Forbes Business Council share their expert insight on how organizations can leverage AI to enhance their customer service.",
@@ -1018,6 +1069,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-21-tesla-knocked-500-off-a-hardware-upgrade-for-its-full-self-driving-subscription-after-customer-backlash.md",
+      "title": "Tesla knocked $500 off a hardware upgrade for its Full Self Driving subscription after customer backlash",
+      "excerpt": "Tesla offered customers with older cars a $1,500 Full Self-Driving hardware upgrade, provoking a backlash. Now, it's charging $1,000.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7",
+      "originalUrl": "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60a1038ef27b4c0019444b4e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp",
+      "publishedDateTime": "2021-07-21T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control.md",
       "title": "5 ways driving is set to change in the near future: air-cleaning cars to mind control",
       "excerpt": "basically – including wireless neuroheadsets that convert our electric brainwaves into communication with robotics. At Goodwood, Emotiv demonstrated its tech through the mind-controlled ...",
@@ -1078,7 +1181,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/microsoft-autonomous-beach-cleaning-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 213,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -1120,110 +1223,6 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-google-looker-gets-azure-support-api-explorer.md",
-      "title": "Google Looker gets Azure support, API explorer",
-      "excerpt": "As a part of Looker 21, the newest version of the Looker platform, Google launched new features including Microsoft Azure support.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/",
-      "originalUrl": "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Looker-Life-1-21.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/amp/",
-      "publishedDateTime": "2021-07-21T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-the-bourdain-ai-furore-shouldnt-overshadow-an-effective-complicated-film.md",
-      "title": "The Bourdain AI furore shouldn’t overshadow an effective, complicated film",
-      "excerpt": "Despite anger over a decision to deepfake the voice of the much-loved star in a new documentary it’s a haunting and difficult film that deserves to be seen",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "originalUrl": "https://www.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1293f26cefda42cc765ebd04e1adf322b6336d7a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c7e7b4455c26d9e96a3febf26be5833f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "publishedDateTime": "2021-07-21T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

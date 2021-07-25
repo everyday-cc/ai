@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/"
 type: article
 quality: 104
-heat: 394
+heat: 404
 published: true
 
 provider:
@@ -289,6 +289,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2021-07/41862a40-ea5a-11eb-9e77-7d41c940d0d1"
         width: 1062
         height: 597
+        isCached: true
+  - title: "Argo AI and Ford to Launch Self-Driving Technologies on Lyft Vehicles By the End of 2021"
+    excerpt: "Argo AI, Ford Motors and Lyft joined hands to launch L4-level autonomous driving services in Miami by the end of this year. Lyft users will be able to make reservations for Ford L4 autonomous vehicles in designated areas through the APP."
+    publishedDateTime: 2021-07-25T14:04:00Z
+    webUrl: "https://syncedreview.com/2021/07/25/argo-ai-and-ford-to-launch-self-driving-technologies-on-lyft-vehicles-by-the-end-of-2021/"
+    ampWebUrl: "https://syncedreview.com/2021/07/25/argo-ai-and-ford-to-launch-self-driving-technologies-on-lyft-vehicles-by-the-end-of-2021/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/07/25/argo-ai-and-ford-to-launch-self-driving-technologies-on-lyft-vehicles-by-the-end-of-2021/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 50
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/07/IMG_20181114_084049.jpeg?fit=950%2C634&ssl=1"
+        width: 950
+        height: 633
         isCached: true
   - title: "Ford to launch self-driving vehicles on Lyft network in U.S. this year"
     excerpt: "Ford and Lyft are partnering to provide self-driving vehicles for riders in the United States, and the first will roll out in South Florida later this year, the companies said Wednesday."

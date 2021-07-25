@@ -2,6 +2,100 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-20-shenzhen-emerges-as-chinas-robotaxi-capital-as-deeprouteai-opens-public-trials-in-tech-hub.md",
+      "title": "Shenzhen emerges as China’s robotaxi capital as DeepRoute.ai opens public trials in tech hub",
+      "excerpt": "The local legislature in Shenzhen is currently reviewing a draft of regulations on intelligent and connected vehicles, likely to be a guide for country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "originalUrl": "https://www.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/07/19/83671b14-e883-11eb-b928-713afa0cd390_image_hires_192708.jpg?itok=y-seTOmz&v=1626694036",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "publishedDateTime": "2021-07-19T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-artificial-intelligence-in-aviation-market-size-share-and-top-firms-intel-micron-boeing.md",
+      "title": "Artificial Intelligence in Aviation Market Size, Share and Top Firms – Intel, Micron, Boeing,",
+      "excerpt": "The Artificial Intelligence in Aviation market research report assesses the global Artificial Intelligence in Aviation Market industry market and includes sales and capacity forecasts for the anticipated period 2021-2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-share-and-top-firms-intel-micron-boeing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.grandviewresearch.com/static/img/research/asia-pacific-artificial-intelligence-market.png",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T21:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-how-the-dynamics-of-artificial-intelligence-chipsets-market-have-changed.md",
       "title": "How the dynamics of Artificial Intelligence Chipsets market have changed?",
       "excerpt": "Artificial Intelligence Chipsets Market Overview. Global Artificial Intelligence Chipsets Market size, and focuses on the leading players in the market. Moreover, the report highl",
@@ -1137,111 +1231,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-machine-learning-in-finance-market-2021-rising-future-estimations-and-key-countries-by-2031.md",
-      "title": "Machine Learning In Finance Market 2021 Rising Future Estimations and Key Countries by 2031",
-      "excerpt": "Market.us has to return up with a brand new report specifically Global Machine Learning in Finance Market standing and Outlook (2022-2031) that focuses on current trade updates, providing exclusive and analytical information through the span of 10 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-2021-rising-future-estimations-and-key-countries-by-2031-2021-07-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-2021-rising-future-estimations-and-key-countries-by-2031-2021-07-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production.md",
-      "title": "Scaling AI and data science – 10 smart ways to move from pilot to production",
-      "excerpt": "Taking steps that help overcome bottlenecks in data and data scientists is key to extracting value from AI investments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Picture1.jpg?w=1200&strip=all",
-          "width": 936,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production/amp/",
-      "publishedDateTime": "2021-07-19T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

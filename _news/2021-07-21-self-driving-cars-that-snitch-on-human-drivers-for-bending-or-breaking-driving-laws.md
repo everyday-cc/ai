@@ -106,19 +106,19 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 24
-  - title: "Intel's Autonomous Driving Arm Mobileye is Testing its Self-driving Technology in New York City"
-    excerpt: "Intel Corp’s autonomous driving division Mobileye is testing its self-driving technology in New York City, one of the most challenging environments for self-driving vehicles to operate in, the company announced on Monday."
-    publishedDateTime: 2021-07-20T23:00:00Z
-    webUrl: "https://www.futurecar.com/4753/Intel’s-Autonomous-Driving-Arm-Mobileye-is-Testing-its-Self-driving-Technology-in-New-York-City"
+  - title: "Self-Driving Fords Coming to Lyft (with Safety Drivers) This Year"
+    excerpt: "It seems to be taking companies forever to come up with the long-ago promised self-driving vehicles. Sure, we have the hardware and software in Teslas, and the countless driver assistance features already deployed by others,"
+    publishedDateTime: 2021-07-21T11:40:00Z
+    webUrl: "https://www.autoevolution.com/news/self-driving-fords-coming-to-lyft-with-safety-drivers-this-year-165714.html"
     type: article
     provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 12
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 24
     images:
-      - url: "https://img.futurecar.com/202107/20/l_60f758e7723c3.jpeg"
-        width: 800
-        height: 376
+      - url: "https://s1.cdn.autoevolution.com/images/news/self-driving-fords-coming-to-lyft-with-safety-drivers-this-year-165714-7.jpg"
+        width: 728
+        height: 300
         isCached: true
   - title: "Intel's Mobileye testing self-driving cars on New York City streets"
     excerpt: "Intel is testing the theory that if you can make it in New York you can make it anywhere. It's self-driving car technology business Mobileye has had AVs on NYC streets for 6 weeks."

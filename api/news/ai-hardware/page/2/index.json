@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-08-anyvision-raises-235m-for-access-point-ai-based-physical-security.md",
+      "title": "AnyVision Raises $235M for Access Point AI-Based Physical Security",
+      "excerpt": "Access Point AI also helps with occupancy analytics ... software development kits and software onto edge-devices such as smart cameras, bodycams and chips, improving video analytics systems with respect to speed, security, affordability, flexibility ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/",
+      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/anyvision-biometrics-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/",
+      "publishedDateTime": "2021-07-07T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-the-oneplus-nord-2-will-have-a-custom-dimensity-1200-ai-chipset-the-company-confirms.md",
       "title": "The OnePlus Nord 2 will have a custom Dimensity 1200-AI chipset, the company confirms",
       "excerpt": "OnePlus and MediaTek added additional AI features to the base Dimensity 1200 to help with the camera, media playback and other tasks.",
@@ -1368,50 +1412,6 @@
         "AI",
         "AI Ethics",
         "Google AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-webinar-recording-now-online-how-to-employ-automated-machine-learning-to-predict-the-best-quality-potato-chipcrisp.md",
-      "title": "Webinar recording now online: ‘How to employ Automated Machine Learning to Predict the Best Quality Potato Chip/Crisp’",
-      "excerpt": "This webinar ran successfully on June 24th. JADBio’s Automated Machine Learning (AutoML) platform was applied to predict potatoes’ susceptibility to bruising and also its potential for coloration",
-      "sourceUrl": null,
-      "webUrl": "https://www.potatonewstoday.com/2021/06/25/webinar-recording-now-online-how-to-employ-automated-machine-learning-to-predict-the-best-quality-potato-chip-crisp/",
-      "originalUrl": "https://www.potatonewstoday.com/2021/06/25/webinar-recording-now-online-how-to-employ-automated-machine-learning-to-predict-the-best-quality-potato-chip-crisp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.potatonewstoday.com/wp-content/uploads/2021/06/JADBio-Binary-Classification-better-chip-1.jpg?fit=813%2C530&#038;ssl=1",
-          "width": 813,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "potatonewstoday",
-        "domain": "potatonewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
         "AI Hardware"
       ]
     }

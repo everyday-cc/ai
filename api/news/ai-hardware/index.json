@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-25-with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration.md",
+      "title": "With post-pandemic AI, we’ve now stepped into the Age of Acceleration",
+      "excerpt": "AI is entering take-off mode just as we exit an economic downturn caused by the pandemic. Get ready for a productivity boom.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/",
+      "originalUrl": "https://venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/human_robot_collaboration.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/amp/",
+      "publishedDateTime": "2021-07-25T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices.md",
       "title": "Xilinx Expands Vitis AI Development Platform To Support Latest Versal ACAP And Kria SOM Devices",
       "excerpt": "Since its unveiling, the Vitis AI development environment has evolved and expanded in scope to incorporate more tools, example designs, libraries and models designed to best leverage Xilinx’s varied array of compute devices,",
@@ -522,8 +575,8 @@
       "title": "Cerebras’ New Monster AI Chip Adds 1.4 Trillion Transistors",
       "excerpt": "Shift to 7-nanometer process boosts the second-generation chip's transistor count to a mind-boggling 2.6 trillion.",
       "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors/fulltext",
-      "originalUrl": "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors/fulltext",
+      "webUrl": "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors",
+      "originalUrl": "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1026,10 +1079,10 @@
     {
       "path": "_news/2021-07-12-blue-ocean-smart-system-to-introduce-chiplet-based-high-performance-low-power-ai-chips.md",
       "title": "Blue Ocean Smart System to Introduce Chiplet based, high-performance, low-power AI chips",
-      "excerpt": "Blue Ocean Smart System – the leading Chiplet based technology developer in the post-Moore's Law era for large-scale computing, energy efficient applications, today jointly launched as a founding member,",
+      "excerpt": "Founded in 2019, Blue Ocean Smart System was established with a deeply experienced technical team in broad fields such as GPU, NPU, multimedia ... range of highly computational and energy-efficient AI training and inference applications with a flexible ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-blue-ocean-smart-system-introduce-chiplet-based-high-/2021/07/12/9406356.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-blue-ocean-smart-system-introduce-chiplet-based-high-/2021/07/12/9406356.htm",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210712cn39857/blue-ocean-smart-system-to-introduce-chiplet-based-high-performance-low-power-ai-chips",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210712cn39857/blue-ocean-smart-system-to-introduce-chiplet-based-high-performance-low-power-ai-chips",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1039,11 +1092,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T01:54:00-07:00",
+      "publishedDateTime": "2021-07-12T02:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1366,50 +1419,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-anyvision-raises-235m-for-access-point-ai-based-physical-security.md",
-      "title": "AnyVision Raises $235M for Access Point AI-Based Physical Security",
-      "excerpt": "Access Point AI also helps with occupancy analytics ... software development kits and software onto edge-devices such as smart cameras, bodycams and chips, improving video analytics systems with respect to speed, security, affordability, flexibility ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/anyvision-biometrics-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/",
-      "publishedDateTime": "2021-07-07T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

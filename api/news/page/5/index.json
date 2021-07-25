@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-21-maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy.md",
+      "title": "Maine’s facial recognition law shows bipartisan support for protecting privacy",
+      "excerpt": "The ACLU urges all Americans to ask their members of Congress to join the movement to halt facial recognition technology and support federal legislation limiting it.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/",
+      "originalUrl": "https://techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1199508481.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/amp/",
+      "publishedDateTime": "2021-07-20T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-move-over-wandavision-climavision-is-taking-on-big-weather-with-ai.md",
+      "title": "Move Over Wandavision, Climavision Is Taking On Big Weather With AI",
+      "excerpt": "This new AI-powered weather radar and satellite network has plans to fill the gaps in the existing NOAA and NWS systems across the US.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/20/move-over-wandavision-climavision-is-taking-on-big-weather-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/20/move-over-wandavision-climavision-is-taking-on-big-weather-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f712e30a4ce030b063132d%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/20/move-over-wandavision-climavision-is-taking-on-big-weather-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/07/20/move-over-wandavision-climavision-is-taking-on-big-weather-with-ai/amp/",
+      "publishedDateTime": "2021-07-20T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-global-artificial-intelligence-chip-market-trends-share-size-growth-opportunity-and-forecasts-by-2025.md",
       "title": "Global Artificial Intelligence Chip Market Trends, Share, Size, Growth, Opportunity and Forecasts by 2025",
       "excerpt": "Selbyville, Delaware According to the latest research report titled 'Global Artificial Intelligence Chip Market Analysis, 2020', available with Market Study Report LLC, worldwide artificial intelligence chip industry is expected to undergo a remunerative period,",
@@ -1114,100 +1218,6 @@
         "AI",
         "AI in Education",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-shenzhen-emerges-as-chinas-robotaxi-capital-as-deeprouteai-opens-public-trials-in-tech-hub.md",
-      "title": "Shenzhen emerges as China’s robotaxi capital as DeepRoute.ai opens public trials in tech hub",
-      "excerpt": "The local legislature in Shenzhen is currently reviewing a draft of regulations on intelligent and connected vehicles, likely to be a guide for country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
-      "originalUrl": "https://www.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/07/19/83671b14-e883-11eb-b928-713afa0cd390_image_hires_192708.jpg?itok=y-seTOmz&v=1626694036",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
-      "publishedDateTime": "2021-07-19T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-artificial-intelligence-in-aviation-market-size-share-and-top-firms-intel-micron-boeing.md",
-      "title": "Artificial Intelligence in Aviation Market Size, Share and Top Firms – Intel, Micron, Boeing,",
-      "excerpt": "The Artificial Intelligence in Aviation market research report assesses the global Artificial Intelligence in Aviation Market industry market and includes sales and capacity forecasts for the anticipated period 2021-2028.",
-      "sourceUrl": null,
-      "webUrl": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-share-and-top-firms-intel-micron-boeing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.grandviewresearch.com/static/img/research/asia-pacific-artificial-intelligence-market.png",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

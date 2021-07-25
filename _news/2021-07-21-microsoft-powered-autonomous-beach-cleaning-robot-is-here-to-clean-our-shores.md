@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-autonomous-beach-clea
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/"
 type: article
 quality: 103
-heat: 213
+heat: 203
 published: true
 
 provider:
@@ -145,20 +145,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 39
-  - title: "NIH taps Microsoft for biomedical research initiative"
-    excerpt: "NIH tapped Microsoft Azure as the cloud platform for its Science and Technology Research Infrastructure for Discovery, Experimentation and Sustainability Initiative, which provides cloud technology and services for biomedical research."
-    publishedDateTime: 2021-07-20T21:40:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/nih-taps-microsoft-for-biomedical-research-initiative.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/11.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microsoft acquires CloudKnox Security"
     excerpt: "Microsoft has acquired CloudKnox Security, a specialist in Cloud Infrastructure Entitlement Management (CIEM). CloudKnox provides visibility into privileged access. It helps organisations right-size permissions and consistently enforce least-privilege principles to reduce risk,"
     publishedDateTime: 2021-07-22T13:02:00Z

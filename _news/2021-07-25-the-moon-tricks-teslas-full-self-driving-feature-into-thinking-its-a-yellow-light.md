@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Consumer Reports concerned Tesla uses owners to test unsafe self-driving software"
-    excerpt: "A Tesla in full self-driving mode makes a left turn out of the middle lane on a busy San Francisco street. It jumps in a bus lane where it’s not meant to be. It turns a corner and nearly plows into parked vehicles,"
-    publishedDateTime: 2021-07-20T21:47:00Z
-    webUrl: "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/"
-    ampWebUrl: "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 184
-    images:
-      - url: "https://i.ytimg.com/vi/GlIdu7prsAw/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Tesla Full Self-Driving explained: Its capabilities, cost and puzzling over-promise"
     excerpt: "Perhaps the most overly optimistic technology in all of the auto industry is Tesla's Full Self-Driving package. No car for sale to the general public can do what that name says. Here's what it really does and how to get it on your Tesla."
     publishedDateTime: 2021-07-23T17:06:00Z
@@ -74,38 +58,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f87529c277c09b6a779b8d%2F0x0.jpg"
         width: 1200
         height: 614
-        isCached: true
-  - title: "Consumer Reports Calls Out Problems With Tesla’s ‘Self-Driving’ Mode"
-    excerpt: "Consumer Reports experts expressed concerns after test videos of the mode showed vehicles missing turns among other problems."
-    publishedDateTime: 2021-07-20T21:31:00Z
-    webUrl: "https://www.forbes.com/sites/kimberleespeakman/2021/07/20/consumer-reports-calls-out-problems-with-teslas-self-driving-mode/"
-    ampWebUrl: "https://www.forbes.com/sites/kimberleespeakman/2021/07/20/consumer-reports-calls-out-problems-with-teslas-self-driving-mode/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberleespeakman/2021/07/20/consumer-reports-calls-out-problems-with-teslas-self-driving-mode/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f73e8190a528ea18c6f1b4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2912%26cropY1%3D137%26cropY2%3D1775"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Tesla knocked $500 off a hardware upgrade for its Full Self Driving subscription after customer backlash"
-    excerpt: "Tesla offered customers with older cars a $1,500 Full Self-Driving hardware upgrade, provoking a backlash. Now, it's charging $1,000."
-    publishedDateTime: 2021-07-21T15:29:00Z
-    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/60a1038ef27b4c0019444b4e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "With Full Self-Driving available on demand, be wary of any and all Teslas"
     excerpt: "Tesla released its Full Self-Driving advanced driving assistance mode as part of a subscription available to almost every Tesla driver in the U.S."
@@ -150,22 +102,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/4a926b63004284a3bcd53207f9206069.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Visa Rebrand, Pandemic Optimism, Tesla Self-Driving Cars Top This Week’s News"
-    excerpt: "In this week’s news, we saw Apple Pay Later loom as a threat to card issuers, and Visa’s rebrand is about being a global acceptance network."
-    publishedDateTime: 2021-07-23T17:00:00Z
-    webUrl: "https://www.pymnts.com/the-weekender/2021/visa-rebrand-pandemic-optimism-tesla-self-driving-cars/"
-    ampWebUrl: "https://www.pymnts.com/the-weekender/2021/visa-rebrand-pandemic-optimism-tesla-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/the-weekender/2021/visa-rebrand-pandemic-optimism-tesla-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 56
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/the-weekender-457x257.png"
-        width: 457
-        height: 257
         isCached: true
   - title: "Tesla just lowered the price of the ‘Full Self Driving’ hardware upgrade"
     excerpt: "Tesla has reduced the price of the ‘Full Self Driving’ upgrade necessary for older Tesla models to use the new FSD subscription service. It’ll now cost $1,000, instead of $1,500. This is likely in response to criticism from Tesla owners who were asked to pay for the upgrade."
@@ -221,6 +157,6 @@ related:
       domain: carscoops.com
     quality: 34
 
-secured: "rAYB0tw6LM7iMYkU/kj1GAeTHkLf7SDRZDkfG/WLJz8ycmVBNVR5k2+1bjYT1J5jsp9KLwQ3qpptbLaaoPv7mIMbpXkO+vzN5fsE5TjBpahsHGr/krYBZMaepHQkzw2Sso6/SXL+TeUSOYrtyvkjZ2JZuXC2BOHiNBJugpzXjDWhIDmj+3IcInUV8TWyQ/p5WdIvuNX54y+vcmt/EYsH5Ft66ydpahy94AI1pMeiNYlpiEsMg0L1gpaYZsPy63/McoB1TJrd369MDbPJk2jjfj46zX/Nwafn5T6nKgzbz8333x/gOMti8llX6B1hqsYS2hb5pA66VPLnjHlAwn87QB9PfGhb8O9J4viBwhQ/OLM=;YX2q8llkv49HJjDDDEXiZQ=="
+secured: "bNQi9yTQsmV4HA7713WTtn950r0n1kPVLpp75LF3TN+KrdG2UXD93O4ZuWwkklr8IbmFHKRI0ejMyh3c9bkQntgbtaPTTGT30JBTPk2WIcdCdgLkvClSOowTuwb3gv706F+K1N2jGm6DUDBFSYlvZudUmxQL1f7tQPWhjMCe9+5EWKasuj3tImLAh1niDgj8LNt1xknou9ntUaWqYmn1Z+9Abzh3YXMYpgnKeHabtuxP5FQl+W0BSF4f0YV/hoAwF6B9uM/tMHoWy72mI5QV8MV4cM0tivyamvlIOl828TqXGdktV9i4tkT/Xb9s85rpe0ldstB6ZyK2JaQCBuSo/jdNH/uisommVSfN3T8D+ysoq4r2hS/qxJDnTeR56YhuFYpn77W+XwpVu6AVtXdgohnGbXN6DnzbGGNMnMZuGC0dvwUA3dstlaVwrotL3bJm0/byUvzulAOrkKVnq5oeu9PVE1xTNI3R6lPHC2ZsVqK7rohVsxGZkwol9CseKirEA8X5VhLc9+5Y73ZBZFjPOg==;advyAgC1YDhrR6iOB//pYg=="
 ---
 

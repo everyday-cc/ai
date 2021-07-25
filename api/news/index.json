@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -49,7 +49,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "IBM AI",
+        "AI Hardware"
       ]
     },
     {
@@ -810,7 +812,7 @@
       "originalUrl": "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -850,6 +852,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise.md",
+      "title": "Tesla Full Self-Driving explained: Its capabilities, cost and puzzling over-promise",
+      "excerpt": "Perhaps the most overly optimistic technology in all of the auto industry is Tesla's Full Self-Driving package. No car for sale to the general public can do what that name says. Here's what it really does and how to get it on your Tesla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
+      "originalUrl": "https://www.cnet.com/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/hTc2mT4Ktz7OJaDFafDjDPV8KhE=/2016/10/20/2d92b545-6e58-409b-b494-76c8511dfc32/tesla-self-driving-hardware-4.jpg",
+          "width": 1590,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
+      "publishedDateTime": "2021-07-23T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -958,19 +1012,19 @@
     {
       "path": "_news/2021-07-23-alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit.md",
       "title": "Alphabet to launch robotics firm Intrinsic under its other bets unit",
-      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ...",
+      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/",
-      "originalUrl": "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/",
+      "webUrl": "https://www.reuters.com/article/us-alphabet-other-bets-intrinsic-idUSKBN2ET1G0",
+      "originalUrl": "https://www.reuters.com/article/us-alphabet-other-bets-intrinsic-idUSKBN2ET1G0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 146,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/RkqwUqV_pSTg-8Gt3pKHghTeZuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2DMPV6O5NJERDO3F7MHS7QIA4.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -978,9 +1032,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T06:43:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2ET1G0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET1G0",
+      "publishedDateTime": "2021-07-23T07:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -1187,50 +1241,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-robotics-ai-why-the-uk-must-stage-a-skills-intervention.md",
-      "title": "Robotics & AI - why the UK must stage a skills intervention",
-      "excerpt": "A new white paper on plugging the robotics and AI skills gap in the UK is published, but what’s really needed is a complete change of attitude.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/robotics-ai-why-uk-must-stage-skills-intervention",
-      "originalUrl": "https://diginomica.com/robotics-ai-why-uk-must-stage-skills-intervention",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2021-07/D844DC4C-8A53-464F-932D-D27E444308F0.jpeg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/robotics-ai-why-uk-must-stage-skills-intervention?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/robotics-ai-why-uk-must-stage-skills-intervention?amp",
-      "publishedDateTime": "2021-07-23T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Ethics"
       ]
     }
   ],

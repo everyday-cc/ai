@@ -58,6 +58,15 @@ related:
         width: 593
         height: 397
         isCached: true
+  - title: "D-Orbit announces AWS Ground Station integration with AURORA mission control software"
+    excerpt: "and Amazon SageMaker for building custom machine learning models that can be applied to a wide variety of data sets. Maintaining independence and editorial freedom is essential to our mission of ..."
+    publishedDateTime: 2021-07-22T15:01:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8285207/d-orbit-announces-aws-ground-station-integration-with-aurora-mission-control-software"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 12
 
 secured: "D32PyPKOEtcAGsMu0iHUnLSg59eWWJhLBIjPRh63CI/EjdWMOyheLN6ax/SFQGj8L9H5GcUKk3VaAmj4DfcFOoJQFys2NxYcgI1yszeU5LXh+KNIkPPlLIuv4Z9nBKrjdBoTbDnPQqjxcY9ehbRqrIcxs+x1lZwPGBOgLjeXo8N/g9lYVofX435Lr3udvXDTiskK9UKZAQcanVtQVop9XFjw8olTTY1zuo2bC5rIVNXVLJcCX26Q3mzEJoWsh93l9c+u2K8BoOL3kYbBIYn1jZGxKSGBDswCgkQjmMDTxKEmj6/8YZ15nwfAcbzovSK+FstltRO7L8pnllh7Fhr3vDqs3dGYp50jBWIl2c126BA=;bzZHLB9qEl0yk4eBphytog=="
 ---

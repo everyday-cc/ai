@@ -2,6 +2,109 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-06-12-this-ai-system-learned-to-understand-videos-by-watching-youtube.md",
+      "title": "This AI system learned to understand videos by watching YouTube",
+      "excerpt": "Researchers at the Allen Institute and University of Washington created an AI system that can understand the sequence of events in videos.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/",
+      "originalUrl": "https://venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/08/youtube.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/amp/",
+      "publishedDateTime": "2021-06-11T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-12-artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025.md",
+      "title": "Artificial Intelligence (AI) Market by Product, Revenue, Price, Industry Share, Growth Opportunity and Forecast to 2025",
+      "excerpt": "Market at:  Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025-2021-06-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025-2021-06-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-ai-in-computer-vision-market-worth-513-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
       "title": "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "Software tools, combined with a suite of computer vision software allow an individual to interface with a camera and a production line and automatically perform image improvement, location ...",
@@ -1081,108 +1184,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-conversational-artificial-intelligence-market-trends-demand-and-global-industry-research-report-2020-2028.md",
-      "title": "Conversational Artificial Intelligence Market Trends, Demand and Global Industry Research Report 2020-2028",
-      "excerpt": "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-trends-demand-and-global-industry-research-report-2020-2028-2021-06-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-trends-demand-and-global-industry-research-report-2020-2028-2021-06-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-jumpcut-ai-based-production-studio-launches-to-unearth-train-underserved-storytellers.md",
-      "title": "Jumpcut AI-Based Production Studio Launches To Unearth, Train Underserved Storytellers",
-      "excerpt": "Jumpcut uses artificial intelligence to find undiscovered talent from around the globe, develop it, and get it sold. Founded by a Wharton AI professor, the company came out of stealth mode today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/",
-      "originalUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c2dded616fbd5e8a08c4c0%2F0x0.jpg",
-          "width": 915,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/amp/",
-      "publishedDateTime": "2021-06-10T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
