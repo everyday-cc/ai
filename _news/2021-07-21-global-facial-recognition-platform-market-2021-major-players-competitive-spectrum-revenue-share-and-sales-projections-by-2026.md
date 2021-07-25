@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision in Healthcare Market Report 2021 – Global Industry Size, Competition, Trends and Growth Opportunities to 2028"
+    excerpt: "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ..."
+    publishedDateTime: 2021-07-20T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-report-2021-global-industry-size-competition-trends-and-growth-opportunities-to-2028-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence in Marketing Market 2021 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2026"
     excerpt: "Global Artificial Intelligence in Marketing Market 2021 by Company, Regions, Type and Application, Forecast to"
     publishedDateTime: 2021-07-22T02:24:00Z
@@ -83,20 +97,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
-    excerpt: "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-07-20T12:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

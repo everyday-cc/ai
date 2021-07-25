@@ -106,15 +106,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Microsoft Canada recognizes Adastra as winner of the 2021 Analytics, Artificial Intelligence and Data Platform Modernization Impact Awards"
-    excerpt: "CNW/ - Adastra, a global leader in Data Management and Analytics, is proud to announce that it has won three 2021 Microsoft Canada Impact Awards: the Analytics Impact Award, Artificial Intelligence Impact Award,"
-    publishedDateTime: 2021-07-20T12:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-canada-recognizes-adastra-as-winner-of-the-2021-analytics-artificial-intelligence-and-data-platform-modernization-impact-awards-1030624806"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
 
 secured: "ygOch+BxVljyveNrNAwUS57PLOM27FX/qsZ/Rk/Yvg3bwsU/4ppLyKXoag+lEO4aW9XU9If/zrLUn1+7zH8oQ+qmVb9TFartBfXP33E2rAU68IAknt/l7tWjQ2Q+bHEcz1HjJEb0jed+GtOsUusxJKw1bEzePTa2OS+wCq3z0QYJhEN+fnqlH5GtlFZ4ueYzlOEMQJYwll+QaXTTu4kmA2tez9RYfijl348XzdxRag7NkcFdgAvrB7AXCtrHx5SUAwifoeZUQ/+Kz972Gq/zA6VRd1CJUQXcTsdCJ6NEICecIe0lJKITTznofY6B34iTa6rXHzJN6Ca/xC9KV5Wvwd/ygBXYp7G/FDl6qdAAvys=;OqR+WOjPQzrQuFRfWp7Hng=="
 ---

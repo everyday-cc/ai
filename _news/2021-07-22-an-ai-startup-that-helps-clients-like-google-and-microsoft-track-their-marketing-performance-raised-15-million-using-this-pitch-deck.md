@@ -44,20 +44,6 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "ASD.ai Selected for Microsoft for Startups Global Program Designed to Help Startups Quickly Scale"
-    excerpt: "ASD.ai today announced its induction into Microsoft for Startups, a global program dedicated to accelerating the trajectory of high-potential startups. ASD.ai is a leading technology firm behind the Application Rootines,"
-    publishedDateTime: 2021-07-20T12:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/asd-ai-selected-for-microsoft-for-startups-global-program-designed-to-help-startups-quickly-scale-1030625058"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://mma.prnewswire.com/media/1576947/Microsoft_for_Startups_Program.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "RAIsonance, Inc. Joins Microsoft for Startups Program"
     excerpt: "With support from the Microsoft for Startups program, SoundPass will be able to roll out the SoundPass Access technology rapidly to businesses, educational campuses, entertainment venues, houses of worship or any facility seeking to enable smarter in-person interactions."
     publishedDateTime: 2021-07-21T14:12:00Z

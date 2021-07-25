@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -109,15 +109,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Microsoft Canada recognizes Adastra as winner of the 2021 Analytics, Artificial Intelligence and Data Platform Modernization Impact Awards"
-    excerpt: "CNW/ - Adastra, a global leader in Data Management and Analytics, is proud to announce that it has won three 2021 Microsoft Canada Impact Awards: the Analytics Impact Award, Artificial Intelligence Impact Award,"
-    publishedDateTime: 2021-07-20T12:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-canada-recognizes-adastra-as-winner-of-the-2021-analytics-artificial-intelligence-and-data-platform-modernization-impact-awards-1030624806"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
 
 secured: "VgqR7Qe458N9eyx/FEREidRh5wCf4KwjO1YDmnYa3IG5o+QDd1gi3IctneOr7AuFFVFLvimGxY7yQrzaT10EogURNYDW+Hw1iCXYkku8xKQeVCQCiEadL2OOGgIl7TCvMEfqDRQFuvVCDeNA2VOHSP25AJqnX2NR9EkT8v/JDoGHCUDxuGEoyGFBTkylBg54dIQAzNNBToRJLf+x04YOER4KoJf4WxoO9cN1q1EwPXU4SZRwbNUTwiakp3/uOeLUz6EaoV53E2q28xh0OnUY0oFbZHgW+OngeRdhrWlxErTVXP8BeKGNmtfTUYAbjx459epMIEGav01YRO8ZlKX8gJZFNl3Ea/BLTY3tbpyjQNxnG6A23gPShNjmz55VTNVoxgcRxwVxLUxxhS/qMtOjgrSQu3qK+d+gpRpcLuVNly8Zzzq5hiPg/z9VzjSnhndZqszryE+40tnUYUFCFXgeTAUz7fFMEReit0winm1JKXAGGkRfurJWI5RYjuZ2dX6ewBmW01wSn7Yq2UMNnGeF4A==;9pyHh4uIYA0RdVX4L3wMfg=="
 ---

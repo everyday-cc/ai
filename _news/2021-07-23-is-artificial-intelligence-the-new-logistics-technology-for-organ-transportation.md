@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "How AI and IoT are Transforming Transport Management"
-    excerpt: "AI-powered IoT systems provide predictive analytics, playing a crucial role in running businesses more efficiently. Artificial intelligence (AI) and the Internet of Things (IoT) are both cutting-edge technologies that are starting to get traction in the world around us."
-    publishedDateTime: 2021-07-20T12:44:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/How-AI-and-IoT-are-Transforming-Transport-16326085.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/05/41/21256305/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "JVtZzQYqO8PfkjuYBviGNOpov1N7sw8Th33NRzFtX6OalmXbHAkP1vfPtJzUhfxD/xxzzHkfsf18zfBsnZxVLuw8WBgLMhnSw+Du57targ8qC1m5DCeVwcum/3jKwHD3OVd9KfRz70zI3Ftvgyc/gym+mW0fzE9Q70Vt5vxwUvwhLgOA0PQ0frQuI8qjdV3MiJ56YWXD1aCZ6EWId7Pui32tP33l0n8BPcxbjM7Yhrj7WYsaUXhzNmUYip5OEKqLJf0vOjvaFe+YFCTQKJf46NxS3ex0pB2vO+Bcmc8pInDj2AOnnXQgvonccFlHeX4R6iNiATcYgORAAGeMva8pwV4AG7xCtppNd3aIJ3QjKt8QjwqjEt3938ns/ru4ToZ6KVv7MyYxe4TwDmw+Jq7TxR39GlLszKjhgyon4BAVBlR1A+iRZkrb45W5gBERaNz1sSCQurN0mgA7cvYnw4PS58vQzQWdz0IQxT6gVUhRnfv2RfJ+VL5r35u5oJ7HGNK2PKGTMpvvowZFlGPSckXXIg==;IwMiBoTKZcHaveU3FLNhGw=="
 ---

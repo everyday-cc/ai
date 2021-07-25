@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Self-driving car startup Aurora on road to going public"
-    excerpt: "Self-driving car startup Aurora on Thursday announced it is taking a side road to going public in a transaction valuing it at $13 billion. Silicon"
-    publishedDateTime: 2021-07-20T12:04:00Z
-    webUrl: "https://techhq.com/2021/07/self-driving-car-startup-aurora-on-road-to-going-public/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 24
-    images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/07/1400x-1.jpg"
-        width: 1400
-        height: 925
-        isCached: true
   - title: "Safety steps for Lyft’s self-driving rides"
     excerpt: "Instead, Lyft’s Fords will still come with a safety driver who will mostly be letting the car drive itself, but who can instantly grab the wheel if the technology misfires — or, more likely, if the car encounters one of South Florida’s numerous and notorious unpredictable drivers."
     publishedDateTime: 2021-07-21T16:23:00Z

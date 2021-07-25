@@ -38,6 +38,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Big Companies Are Acquiring AI Startups In Droves"
+    excerpt: "AI startups are a prime acquisition target for companies looking to leverage AI and ML technology, especially in the wake of the pandemic. Any startup developing an innovative product that grabs market share or creates a niche becomes a target of acquisition."
+    publishedDateTime: 2021-07-22T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/big-companies-are-acquiring-ai-startups-in-droves/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/AIM-Cover-Art3-2.jpg"
+        width: 2240
+        height: 1261
+        isCached: true
 
 secured: "pN8mIZOzpwjQJt3rudhkrxY741vIXVb662AO6dCaYGRHi7B+Zpov1dGOZzZO0vObgmmAKyanDH5gvAjUOYP+WM2xl5qVWjzc3xbi+MQzpF7t7ruZBXLfNX8deURs5DZ0XQScfg+aUl7V+7XIkSP/Ymdndlg1IofNMxzkT+lpCGwANxnVM8sSqHBdE7W9J+WlAfP6nYySrI/qerDkCz7gp1vagzA5pPggyUu6U/sQ4YjtnMXk3nMduBeNFqFauvuKktcJKjV7ylDiTjTqG45Eu+XPssiY9edmJqR3tuD61pmqrwe/7k/ya0z/L43TmfAwcf43dG3UOvOrEkyo7+R9ewgF5KnCOqFsWRmdnuctxvY=;VefQ9wMQaxREmXRfwc+T/Q=="
 ---

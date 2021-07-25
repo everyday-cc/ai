@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/gm-sues-ford-in-fight-over-b
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars/amp-11627148192240.html"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,54 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Cars That Snitch On Human Drivers For Bending Or Breaking Driving Laws"
+    excerpt: "Self-driving cars are able to record the driving scene, of which they can detect when human drivers nearby violate the driving laws, and some say they will become snitches."
+    publishedDateTime: 2021-07-21T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b612298c27be03c873e4b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6030%26cropY1%3D478%26cropY2%3D3870"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Looking for a Lyft? Self-driving cars coming to Austin in 2022"
+    excerpt: "Self-driving cars, accompanied by safety drivers, will begin operations in Miami later this year and launch in Austin in 2022."
+    publishedDateTime: 2021-07-22T14:47:00Z
+    webUrl: "https://www.kxan.com/news/looking-for-a-lyft-self-driving-cars-coming-to-austin-in-2022/"
+    ampWebUrl: "https://www.kxan.com/news/looking-for-a-lyft-self-driving-cars-coming-to-austin-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/looking-for-a-lyft-self-driving-cars-coming-to-austin-in-2022/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 44
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2021/07/Lyft-Argo-Ford_03.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Lyft To Offer Ford's Self-Driving Cars In Austin (With Humans As Backup)"
+    excerpt: "By this time next year, you might be able to order a self-driving Ford Escape Hybrid SUV with the Lyft app, but two humans will be seated in the front as safety drivers."
+    publishedDateTime: 2021-07-22T11:28:00Z
+    webUrl: "https://www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup"
+    ampWebUrl: "https://www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup?_amp=true"
+    cdnAmpWebUrl: "https://www-kut-org.cdn.ampproject.org/c/s/www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup?_amp=true"
+    type: article
+    provider:
+      name: KUT
+      domain: kut.org
+    quality: 43
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/98ebdbf/2147483647/strip/false/crop/5845x3290+0+134/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F07%2F21%2Fgettyimages-1233487514_custom-4f7df59bb5ba9e944cc8a6500693f2c9d6391187.jpg"
+        width: 430
+        height: 242
+        isCached: true
   - title: "General Motors sues Ford for violating trademarked driver-assist technology used for self-driving cars"
     excerpt: "The firm has taken the action to protect the Cruise and Super-Cruise brands following Ford Motors in April had renamed its Co-Pilot360 automated driving system as Blue Cruise. Despite the talks, consensus on the issue had been unsuccessful,"
     publishedDateTime: 2021-07-24T17:17:00Z
@@ -44,6 +92,6 @@ related:
         height: 431
         isCached: true
 
-secured: "AFN+n4sHRxzfas6P0es3SnFsIRp1cG21/oRgby/piOGe76RPozxh5wcl9+K7avzqua4Y4jg2TrMbyyP9kPvx+HdjH7kyujL75hVFizkKPoPvp21dOeW54fLBMa9JE3A9RW8rz/yQl1apBkKeLdrCpXf4ti2c2E/Q4xxHrJTCYXmyX3WjPitqMNIRIgUV56egotvFly6uJtA5ZUbthZWy+Ue/KwQW9bOkvArlgvjSuaGAINo0wRQG+aqbWXYIVPyE+hWLeQ25UN20HOvlc8B5SQwauG+PLh798nTLO9EuKoRhrN0I2tUtLzNnQQS7hUwSCmyFteZFaWWFr63Qmkr7QB+1FYpaDDQFhJk2Fo429pQ=;dPufWmYRZiB/EIhAwxvVnA=="
+secured: "eNwAfdcuDGZAec2miX+yBqSl4GwKQgQkBuFpNj5H0foL8xP1YWbqoumjAsXP5kIrWD+0YrMvsXnZKDs4BmR6ilOwef7ya4LI0n2Pw7r+KCQ9vUYs9qXALhxPvRwBBM/hZXvHKloGekPnykc6iyCoVqM71whDDThT4xkQ1USxJiDOcFbRqhG7jzMEtqRrdkBlpJwwgkOJT5FIitC1MqaIhRL5U6xLaA66V6SkwIlaPEYDwOPAp+S4hjaIdjS37v2CBcFN+dxxOFgTvZZM5suT50RZ3qs/qxBZ7H0BETM0lW6lHEDj6M8+m5e18E+fj6P1Kuc5BfnScqqNGNDuk79DQ91seTzQKcP0drAtBqGs97lNN8XaOJdtCk5h1YiYiHbUHAuzXeTRkyxcSqwvoHPIww42sRMPncCXuXiQcdkWck9l58TLJzlBdNnv2zs89fRtvqQR8sZIndW0Anit9+bNA5fvxSSsQDF8jn+pXIuk0NNFVsUxIoODTgN6wfi5G0Z7k6vWgQrPYxxBFNp7nWSIrg==;zqYdA25OEwyxf1N9nERnbg=="
 ---
 

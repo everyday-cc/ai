@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/22/deepmind-open-sources-protein-str
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/deepmind-open-sources-protein-structure-dataset-generated-by-alphafold-2/amp/"
 type: article
 quality: 188
-heat: 358
+heat: 348
 published: true
 
 provider:
@@ -168,20 +168,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/deepmind-and-embl-rele.jpg"
         width: 640
         height: 384
-        isCached: true
-  - title: "DeepMind Open Sources AlphaFold 2.0"
-    excerpt: "These concerns are put to rest with DeepMind’s decision to open-source AlphaFold 2.0. As per AlphaFold researcher John Jumper, the open-source version is 16 times faster and can"
-    publishedDateTime: 2021-07-20T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-open-sources-alphafold-2-0/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/alphafold.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "DeepMind delivers on promise of protein structures"
     excerpt: "DeepMind said its new protein database may be the ‘most significant contribution AI has made to advancing scientific knowledge to date’."

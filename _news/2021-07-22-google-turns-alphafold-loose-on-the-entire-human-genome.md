@@ -169,20 +169,6 @@ related:
         width: 640
         height: 384
         isCached: true
-  - title: "DeepMind Open Sources AlphaFold 2.0"
-    excerpt: "These concerns are put to rest with DeepMind’s decision to open-source AlphaFold 2.0. As per AlphaFold researcher John Jumper, the open-source version is 16 times faster and can"
-    publishedDateTime: 2021-07-20T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-open-sources-alphafold-2-0/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/alphafold.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "DeepMind delivers on promise of protein structures"
     excerpt: "DeepMind said its new protein database may be the ‘most significant contribution AI has made to advancing scientific knowledge to date’."
     publishedDateTime: 2021-07-23T08:52:00Z

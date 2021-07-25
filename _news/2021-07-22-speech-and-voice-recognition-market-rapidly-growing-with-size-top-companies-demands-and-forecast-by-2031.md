@@ -127,20 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Organs Market Share, Current and Future Industry Trends with Forecasts 2026"
-    excerpt: "Comprising the current and future trends defining the dynamics of this industry vertical, this report also incorporates the regional landscape of Artificial Organs market in tandem with its competitive terrain."
-    publishedDateTime: 2021-07-20T12:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-organs-market-share-current-and-future-industry-trends-with-forecasts-2026-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Neural Network Software Market 2021| What Factors are Affecting Growth and Demand of Industry | Trends and Forecast to 2028"
     excerpt: "The Research Report is a comprehensive and in depth analysis of the global Neural Network Software Market The report provides detailed information about current trends drivers and challenges facing this industry This research not only helps companies take accurate business"
     publishedDateTime: 2021-07-21T19:40:00Z
@@ -170,34 +156,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
-    excerpt: "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-07-20T12:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "United States Articulated Robot Market Share, Size, Opportunities, Trends and Forecast 2021-2026"
-    excerpt: "According to the latest report by IMARC Group, titled “United States Articulated Robot Market Report, Opportunity and Forecast 2021-2026, t"
-    publishedDateTime: 2021-07-20T12:17:00Z
-    webUrl: "https://manometcurrent.com/united-states-articulated-robot-market-share-size-opportunities-trends-and-forecast-2021-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 26
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/United-States-Articulated-Robot-Market-780x470.jpg"
-        width: 780
-        height: 470
         isCached: true
   - title: "AI in Fintech Market Size, Revenue Share, Drivers & Trends Analysis, 2016–2026 | Reports And Data"
     excerpt: "The global AI in Fintech Market is forecast to reach USD 26.77 Billion by 2026, according to a new report by Reports and Data. The AI in fintech incorporates computational power and deep learning algorithms to the financial technology."

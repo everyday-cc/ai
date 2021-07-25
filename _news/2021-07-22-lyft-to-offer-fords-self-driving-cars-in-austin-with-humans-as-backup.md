@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Lyft will team up with Ford and a self-driving car start-up to offer rides in Miami."
-    excerpt: "The companies plan to begin offering the service this year, expanding later to Austin, Texas. A human will still be behind the wheel."
-    publishedDateTime: 2021-07-21T19:14:00Z
-    webUrl: "https://www.nytimes.com/2021/07/21/business/lyft-self-driving-cars.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/21/business/lyft-self-driving-cars.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/21/business/lyft-self-driving-cars.amp.html"
+  - title: "Self-Driving Cars That Snitch On Human Drivers For Bending Or Breaking Driving Laws"
+    excerpt: "Self-driving cars are able to record the driving scene, of which they can detect when human drivers nearby violate the driving laws, and some say they will become snitches."
+    publishedDateTime: 2021-07-21T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/amp/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 68
     images:
-      - url: "https://static01.nyt.com/images/2021/07/21/business/21economy-briefing-ford-argo/21economy-briefing-ford-argo-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b612298c27be03c873e4b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6030%26cropY1%3D478%26cropY2%3D3870"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Looking for a Lyft? Self-driving cars coming to Austin in 2022"
     excerpt: "Self-driving cars, accompanied by safety drivers, will begin operations in Miami later this year and launch in Austin in 2022."
@@ -58,6 +58,38 @@ related:
       - url: "https://www.kxan.com/wp-content/uploads/sites/40/2021/07/Lyft-Argo-Ford_03.jpg?w=1280"
         width: 1280
         height: 853
+        isCached: true
+  - title: "GM sues Ford in fight over branding of self-driving cars"
+    excerpt: "The automaker’s taking action to protect the Cruise and Super-Cruise brands after Ford in April renamed its Co-Pilot360 automated driving system as Blue Cruise, GM said in court documents filed Friday."
+    publishedDateTime: 2021-07-24T17:39:00Z
+    webUrl: "https://www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars-11627148192240.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars/amp-11627148192240.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars/amp-11627148192240.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2021/07/24/600x338/968f78bb72fe47ebafe65fecc6da123c-968f78bb72fe47ebafe65fecc6da123c-0_1611854998352_1611855018494_1627148264064.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "General Motors sues Ford for violating trademarked driver-assist technology used for self-driving cars"
+    excerpt: "The firm has taken the action to protect the Cruise and Super-Cruise brands following Ford Motors in April had renamed its Co-Pilot360 automated driving system as Blue Cruise. Despite the talks, consensus on the issue had been unsuccessful,"
+    publishedDateTime: 2021-07-24T17:17:00Z
+    webUrl: "https://www.moneycontrol.com/news/automobile/general-motors-sues-ford-for-violating-trademarked-driver-assist-technology-used-for-self-driving-cars-7218861.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/automobile/general-motors-sues-ford-for-violating-trademarked-driver-assist-technology-used-for-self-driving-cars-7218861.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/automobile/general-motors-sues-ford-for-violating-trademarked-driver-assist-technology-used-for-self-driving-cars-7218861.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 28
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2018/11/General-Motors-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
 
 secured: "/aTpXRXKfYZmniYdNEPYO50URZx8r8wwZ9THHylS9F5pVtT4j/KOoKYiOtL0r2w48JoSnavf/F38CI9YGdQKh30Nsq0XUc/fCnAf/lH6Nixc57ANXjloENbZYqK4dC8OgOmDB3LxRcuEb427cfWnI1As7fi5CkFkI/MN6wrXxZ8jjwep5sF2EGPaQfObNoVJLbuIPIYk/FI3yQljtXf7qxYV5akFl3Y96RfeCIwu2QwAA74LxBlCASxQCqREDKtkg6Qn7SPmPdTnscvavplr66mAl+0x2UhftO7Fpf7RrhMUzqFiHtH2qPN5w3rze0xus33UF36D+pITJIAlLq6ltEAL7XqtBcq2XTRbfDSBBYs5CghtMPtpbtTyoFsZ8S7ugISYl1fXMwruOFXgBDT/2uvBepSw+elgUPSLEjpsGs9vzmukvU54wC4Bdfpv42bnUKGEOUhjV15nCxKaZ9sN/0G6INd7lYPeC0oXczjisbWYahv6s1cQZcD57jnDTSecvMWv26cO5Y2FTg79o33SMQ==;1fIFpNodG8fBL10GQnthcg=="

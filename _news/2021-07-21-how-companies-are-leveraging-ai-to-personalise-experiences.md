@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Big Companies Are Acquiring AI Startups In Droves"
+    excerpt: "AI startups are a prime acquisition target for companies looking to leverage AI and ML technology, especially in the wake of the pandemic. Any startup developing an innovative product that grabs market share or creates a niche becomes a target of acquisition."
+    publishedDateTime: 2021-07-22T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/big-companies-are-acquiring-ai-startups-in-droves/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/AIM-Cover-Art3-2.jpg"
+        width: 2240
+        height: 1261
+        isCached: true
   - title: "Octane AI Raises $5 Million to Help Shopify Merchants Personalize Ecommerce Experiences"
     excerpt: "Octane AI, the pioneer zero-party data marketing platform, today announced it has raised $5 million in capital in a round led by Javelin Venture Partners, the investor behind Masterclass and Thumbtack,"
     publishedDateTime: 2021-07-20T15:16:00Z

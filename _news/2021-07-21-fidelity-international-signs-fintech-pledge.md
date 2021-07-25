@@ -124,56 +124,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "IDenfy bags deal withj Polish fintech Payment Financial"
-    excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Payment Financial SA."
-    publishedDateTime: 2021-07-20T11:55:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88625/idenfy-bags-deal-withj-polish-fintech-payment-financial"
+  - title: "4 Fintech Trends of 2020 Worth Watching Through 2021"
+    excerpt: "As the COVID-19 pandemic turned 2020 into a historic year of global upheaval, the financial services industry and the tech companies that support it found themselves caught off guard. As in most other commercial fields,"
+    publishedDateTime: 2021-07-23T09:43:00Z
+    webUrl: "https://financialit.net/news/financial/4-fintech-trends-2020-worth-watching-through-2021"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: Financial IT
+      domain: financialit.net
     quality: 24
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Infobird's Successful Launch of Intelligent SaaS for a Leading Fintech ..."
-    excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (\"Infobird\" or the \"Company\"),"
-    publishedDateTime: 2021-07-20T12:31:00Z
-    webUrl: "https://www.pr-inside.com/infobird-s-successful-launch-of-intelligent-saas-for-a-leading-fintech-r4839640.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 22
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Top UK fintech Napier opens new office in Dubai amid global growth"
-    excerpt: "Provider of advanced anti-financial crime compliance solutions announces expansion to Dubai International Financial Centre"
-    publishedDateTime: 2021-07-20T12:07:00Z
-    webUrl: "https://www.arabianbusiness.com/banking-finance/466293-top-uk-fintech-napier-opens-new-office-in-dubai"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
-  - title: "Infobird's Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
-    excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (“Infobird” or the “Company”),"
-    publishedDateTime: 2021-07-20T12:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/infobirds-successful-launch-of-intelligent-saas-for-a-leading-fintech-company-paves-the-way-for-further-expansion-in-financial-industry"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Alzheimers-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://financialit.net/sites/default/files/photo_2021-07-23_09-43-51.jpg"
+        width: 533
+        height: 367
         isCached: true
 
 secured: "nqGPO6dgYAePL2QC7XVnKUnI1OzgySjAoOqS3AGZUzz5wAyrtl+9WaxSMnpKkl+OJ/nuE8BuQ09X+dFVFlQWsfYMtbiUzj87RBnRMtVMJ/FCoMzE0PxuMzsJknUgQCrBJOn3k/TSLg0tUyzc+aKWSLQrwZqXeFFq0qsBvnzIlcFsWkpKh6R8romIi0b62S7hiRYP1sheQ03QIOB8k62wXwS0NSDmJRZr7E04RkWPFVAOIlLmQHx3x8aioqQuRjDfpfK34mQOebS860NbhofRUFpkQhlZUz/AlCYv9tEwnsIARzQV1EXbXJU2J4T5tv+3mXSaO6hB12QFPEUYRtAMVupZMH7SX6NITX95vnEG/1z4Ll032ig+gk793wzR0IJDDmtuQ60Pw+wLD5V+DjPnHuZUMWGuoE+3I1NAuRCROJgi9v/H5+zu/HAP9ujJwErFauwSFhSu3lacdmUOBJWoGqn2iPmCO8LwM33nZUd+ucin8mbNzExovKiZvHyWua80T2o3CPGwdLKjB/s+OcBTwg==;A/3k7xempg+meycbXATPmA=="

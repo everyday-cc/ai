@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/amp/"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 108
+published: true
 
 provider:
   name: Forbes
@@ -31,21 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Google unveils ‘self-driving’ cloud security feature"
-    excerpt: "At its Security Summit, Google Cloud announced Chronicle integrations, Cloud IDS, an autonomic security operations stack, and more."
-    publishedDateTime: 2021-07-20T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/"
-    ampWebUrl: "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/amp/"
+  - title: "Looking for a Lyft? Self-driving cars coming to Austin in 2022"
+    excerpt: "Self-driving cars, accompanied by safety drivers, will begin operations in Miami later this year and launch in Austin in 2022."
+    publishedDateTime: 2021-07-22T14:47:00Z
+    webUrl: "https://www.kxan.com/news/looking-for-a-lyft-self-driving-cars-coming-to-austin-in-2022/"
+    ampWebUrl: "https://www.kxan.com/news/looking-for-a-lyft-self-driving-cars-coming-to-austin-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/looking-for-a-lyft-self-driving-cars-coming-to-austin-in-2022/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: KXAN
+      domain: kxan.com
+    quality: 44
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/04/cloud_security-shutterstock_238417594-e1626720984465.jpg?w=1200&strip=all"
-        width: 1000
-        height: 500
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2021/07/Lyft-Argo-Ford_03.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "GM sues Ford in fight over branding of self-driving cars"
+    excerpt: "The automaker’s taking action to protect the Cruise and Super-Cruise brands after Ford in April renamed its Co-Pilot360 automated driving system as Blue Cruise, GM said in court documents filed Friday."
+    publishedDateTime: 2021-07-24T17:39:00Z
+    webUrl: "https://www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars-11627148192240.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars/amp-11627148192240.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars/amp-11627148192240.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2021/07/24/600x338/968f78bb72fe47ebafe65fecc6da123c-968f78bb72fe47ebafe65fecc6da123c-0_1611854998352_1611855018494_1627148264064.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Lyft To Offer Ford's Self-Driving Cars In Austin (With Humans As Backup)"
+    excerpt: "By this time next year, you might be able to order a self-driving Ford Escape Hybrid SUV with the Lyft app, but two humans will be seated in the front as safety drivers."
+    publishedDateTime: 2021-07-22T11:28:00Z
+    webUrl: "https://www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup"
+    ampWebUrl: "https://www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup?_amp=true"
+    cdnAmpWebUrl: "https://www-kut-org.cdn.ampproject.org/c/s/www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup?_amp=true"
+    type: article
+    provider:
+      name: KUT
+      domain: kut.org
+    quality: 43
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/98ebdbf/2147483647/strip/false/crop/5845x3290+0+134/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F07%2F21%2Fgettyimages-1233487514_custom-4f7df59bb5ba9e944cc8a6500693f2c9d6391187.jpg"
+        width: 430
+        height: 242
+        isCached: true
+  - title: "General Motors sues Ford for violating trademarked driver-assist technology used for self-driving cars"
+    excerpt: "The firm has taken the action to protect the Cruise and Super-Cruise brands following Ford Motors in April had renamed its Co-Pilot360 automated driving system as Blue Cruise. Despite the talks, consensus on the issue had been unsuccessful,"
+    publishedDateTime: 2021-07-24T17:17:00Z
+    webUrl: "https://www.moneycontrol.com/news/automobile/general-motors-sues-ford-for-violating-trademarked-driver-assist-technology-used-for-self-driving-cars-7218861.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/automobile/general-motors-sues-ford-for-violating-trademarked-driver-assist-technology-used-for-self-driving-cars-7218861.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/automobile/general-motors-sues-ford-for-violating-trademarked-driver-assist-technology-used-for-self-driving-cars-7218861.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 28
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2018/11/General-Motors-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
 
 secured: "+r44lwPxys2ouzlgYjOJAx20Dqw/bUYViUN9PO1xO7eQ9Z7n3tOcWBHDpb8Ft1bfv0fwwIlhFTw2zZmVjlnDDyCVxf6LH3U3JqkcW/eOq2rfcVfvTeancIIGeR72AowvKUzCDYb3oMbnVVLsdEy4Bg8JMJQ0cV4aJ/wgU2lFUePccFiJnuZrmC6Al5yQXwdxdo5nscHVKUHzaglOJKLcdwrMSKp3tE9svfrZZj0brFpwRf6RomxwJFtNhdiXDvjczDvKeCePZ56p+DQjkf6IsS/Q1SbcE6M+WEu6Q99Qa7wHe7xQp7sXg2G5er/FMbbrKG3BlMfq4qzmmV8r4DRW7ZS7cuM/9oo11wY4TFQc7KgFHbC1fRMeusMaSWm+BM+s6dpwkwACLMuBdryPBLRh2Ep2yYJFo4xNlByngGKm72tPzXepCnYd4NcPGauDMSuKOf+hA5rhROLQzkqFsVtfMteUH26FKGAU3d/2wLQ9wNkSs4td84m5cfQQLTuqVew3oCERSt5fIRedEJxVFIHcVg==;HCIG0nUtsVFZGXvNnZthVw=="

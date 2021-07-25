@@ -107,20 +107,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Eyenuk Announces $6.2 Million Financing to Accelerate Adoption of FDA-cleared AI Technology for ..."
-    excerpt: "Eyenuk, Inc., a global artificial intelligence (AI) medical technology and services company and the leader in real-world applications for AI Eye Screening, today announced that it has completed a financing round of US$6."
-    publishedDateTime: 2021-07-20T12:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-health-9652e2a57b30dc795723d414d3b2e0b2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Toronto cashes in on its chips: Untether becomes city’s third AI semiconductor maker this year to raise $100-million-plus in round co-led by CPPIB"
     excerpt: "The surge of investment comes against a backdrop of a worldwide chip shortage caused by supply chain disruptions during the COVID-19 pandemic"
     publishedDateTime: 2021-07-20T21:12:00Z

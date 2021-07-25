@@ -179,20 +179,6 @@ related:
         width: 640
         height: 384
         isCached: true
-  - title: "DeepMind Open Sources AlphaFold 2.0"
-    excerpt: "These concerns are put to rest with DeepMind’s decision to open-source AlphaFold 2.0. As per AlphaFold researcher John Jumper, the open-source version is 16 times faster and can"
-    publishedDateTime: 2021-07-20T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-open-sources-alphafold-2-0/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/alphafold.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "DeepMind delivers on promise of protein structures"
     excerpt: "DeepMind said its new protein database may be the ‘most significant contribution AI has made to advancing scientific knowledge to date’."
     publishedDateTime: 2021-07-23T08:52:00Z
@@ -268,6 +254,6 @@ related:
       domain: bio-itworld.com
     quality: 13
 
-secured: "w14OtnxJ2Jqqg17ZBWubO3PkYV4uO9RXDIfqxCwXoTlEMuAUGNzKBU6defbit5PmbozzQ0NPpsrUXYBCRKW10DbENJyQcJWCGYJ3y1nEdgqmLhI2Yt2PMJBtazmDWQ5YxMMwbfTNhFGLuN4HirK0wKJ+/8FwLmuV7/FaAIIljNh8eFZIFVlhM1720FHSL8hGNYkUiKGRYnUUaRLiV+3ru/QmyT627pIIqdlqQmZ1kIUnGNQtidwe/Q20v4+1uEGfp350vm8juLZ76C7jONsqVwcJhR25Nxwcq9ILtM4md1olUhljVS/mriuGOw0FTkoBJTJAFZG28I5yTSi79tkp1ou3ZOnJqh14VftcEpm7ViM=;NZ2aOFoH40hvy0DTx0nSbw=="
+secured: "IfeNppdnY6gGIFM5FmAJBJYolCcHj71SZtLRb7yBi+Yad1nVWiEwkca1/BZysCsgvoyHT7mBJMEV6qxhL6t84HFt1mo33MkiR9ipq+2Szuhs1cuPKJF6u14Xc0JQT5CpG75X/D/bmUr4JzUDund3r9ldaR+/k60hE6L4nlGs5PloQOraL/e+tIUdnQaSH1NT/jOa4DOOG5N1ANdklHk7snCOcCVAZNhANE2XTASNFTbAS3Mqch2DRUJyhde4C1d0nlKm+nFZLoyXzqeSVBAqMQzAox7cLYFljPie52KmAf/CyXX8JVlqjzxgvDP9H+E9lD3ArY3LVnzUxSEh8rHqUf3qp/4JBzTQHG+SWdHlj5gxDGB29qH9Wu8RXPhSx9wGihajchLt7rQW9sjWAVAV3A8e3Et52U75U0ket0slOq+Ykt7fmGcKdeNHqVkqo0FHRoo0anhWgeR66Bf4h/vNh5B8uauKBOPDKWNwHukfwSk+Vx74tNhykuFfh5pS1vHbNq/41Ds5k/wYL76QAFhkPg==;Q2i3Mdn+NZgh/Q7ccKHR3w=="
 ---
 

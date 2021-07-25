@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-startup-blueocean-raised-15-mil
 webUrl: "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "ASD.ai Selected for Microsoft for Startups Global Program Designed to Help Startups Quickly Scale"
-    excerpt: "ASD.ai today announced its induction into Microsoft for Startups, a global program dedicated to accelerating the trajectory of high-potential startups. ASD.ai is a leading technology firm behind the Application Rootines,"
-    publishedDateTime: 2021-07-20T12:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/asd-ai-selected-for-microsoft-for-startups-global-program-designed-to-help-startups-quickly-scale-1030625058"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://mma.prnewswire.com/media/1576947/Microsoft_for_Startups_Program.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "An AI startup that helps clients like Google and Microsoft track their marketing performance raised $15 million using this pitch deck"
     excerpt: "BlueOcean was founded by ad agency vets to automate and simplify market research."
     publishedDateTime: 2021-07-22T12:00:00Z
