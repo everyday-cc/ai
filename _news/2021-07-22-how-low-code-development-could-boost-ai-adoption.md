@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-low-code-develop
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-low-code-development-could-boost-ai-adoption/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/A-Run-down-on-Deep-Learning-Trends-Driving-AI-Development.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "AI slashes time and cost of drug discovery and development"
+    excerpt: "Artificial intelligence is transforming the landscape of drug discovery and development. The technology is helping to slash the time and money needed to develop new drugs for COVID-19 and other serious diseases by quickly identifying promising drug candidates."
+    publishedDateTime: 2021-07-25T02:00:00Z
+    webUrl: "https://asia.nikkei.com/Business/Pharmaceuticals/AI-slashes-time-and-cost-of-drug-discovery-and-development"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F1%252F4%252F9%252F2%252F35342941-1-eng-GB%252FAIdrugdsicovery.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "KVosZ9+EZ0csVIrXj1wapEC4B7O14/GSkANt8Ge8scffAonFR1O+jxlWZ2zYb7UiWlAhiijw8TLxolcUSVHmdkvDYebisX4vLwMwZa4a7hchWp71P+f1l35Ff4Xq/jmz9RSJstD0GdtDYkLx8iBB829Pv6Gah65TxV9bnyhODBwTPFOU7QcKREaAvkFabUHnTM1qH47AdOVWKT84PeJp6pUUJz9r8mz8htMCl/fiEsRzK1cauhF++Osz4AH7KNLjYWiQHl21FeGLr/JoYh0Ro90SZc8Q2rgGF1bt6AG4cK4LcJxyFB0dV/lOAb8kSGOuZQmOJ1Itcm3XeoMpOVpCp8Cz47w0NTCGI55qJgUpNnI=;DxArP+Wd7cilMABVCBEH+w=="

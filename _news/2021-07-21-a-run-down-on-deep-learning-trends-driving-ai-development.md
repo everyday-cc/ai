@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI slashes time and cost of drug discovery and development"
+    excerpt: "Artificial intelligence is transforming the landscape of drug discovery and development. The technology is helping to slash the time and money needed to develop new drugs for COVID-19 and other serious diseases by quickly identifying promising drug candidates."
+    publishedDateTime: 2021-07-25T02:00:00Z
+    webUrl: "https://asia.nikkei.com/Business/Pharmaceuticals/AI-slashes-time-and-cost-of-drug-discovery-and-development"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F1%252F4%252F9%252F2%252F35342941-1-eng-GB%252FAIdrugdsicovery.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "7ZZWT7FzRmN1wW4KaiJgey64gVdRV09Kaeiqc5Jo98NNXOc7yMj+clnsDuLoXgF1Zkgtfk/xfMLXMrI3PePuDdwYmiDvaU4LPORYuY0gsOIAWSwlk9R/9A0T2j9izWMeaGGCkVWRyuif8K2/zWgpPsG6mFPtS24iaejjc1+1fapZ377Z2br7Ak5j7zM99O3+hvD+Zzdr7ld5/RJE/RmDiO3jY2lgagUXe4vTfGMAGUYpW+sqPAmobBAxPuqOu/rZhJmp4BNqpZD2mZQi6fHh485nGwJKPaJJELlb8XgE9OcaGSmLVqvnwLaLZMMVZbGIiDrTSUJPWRPlT5i/WiKHgShW90r4xnIMXi4Ai+Szjzgmf7rHrHVsDMJkqMMlSzkH57BN9j5toww0B2t4XevNmXa3G6ITdvxPMYReHCpBzUrbsfmnG31pPX3GQMKCoFDrn6J393tOQivk0magAoYtkqHGIlvMYXvRBMOp1OiuDBL9TDtj/aLzYqqUSeRsVl0iFm0Zj0bIRa5nIzsO/isJlA==;FR7+0nRqS9Ce8qG0cdVquQ=="
 ---

@@ -124,20 +124,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "IDenfy joins forces with Polish FinTech Paymento Financial"
-    excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Paymento Financial SA."
-    publishedDateTime: 2021-07-20T10:50:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/idenfy-joins-forces-with-polish-fintech-paymento-financial/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Global-FinTech-Use-Cases-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Fidelity International signs Fintech Pledge"
     excerpt: "Fidelity International committed to a UK strategy, known as the fintech pledge, which is aimed at accelerating the growth of the country's fintech sector"
     publishedDateTime: 2021-07-21T15:12:00Z

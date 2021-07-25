@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-se
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 86
 published: true
 
 provider:

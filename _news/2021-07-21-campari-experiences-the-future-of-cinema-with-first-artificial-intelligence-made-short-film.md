@@ -27,7 +27,7 @@ related:
   - title: "Experience The Future Of Cinema, As Campari Creates The First Short Film Made With Artificial Intelligence Inspired By The Creative Genius Of Fellini"
     excerpt: "Fellini Forward, an ode to Federico Fellini Marcus du Sautoy, Artificial Intelligence & Creativity Expert says: \"We should see Artificial Intelligence as an extraordinary collaborator; it's a new tool,"
     publishedDateTime: 2021-07-21T07:00:00Z
-    webUrl: "https://www.troyrecord.com/news/national/experience-the-future-of-cinema-as-campari-creates-the-first-short-film-made-with-artificial/article_ab20c3d0-8187-5ede-badf-001b62f9533a.html"
+    webUrl: "https://www.troyrecord.com/news/national/experience-the-future-of-cinema-as-campari-creates-the-first-short-film-made-with-artificial/article_12235ea4-6e22-5b20-8412-47bc0559ac67.html"
     type: article
     provider:
       name: Troy Record

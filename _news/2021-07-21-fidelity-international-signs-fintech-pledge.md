@@ -138,20 +138,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "IDenfy joins forces with Polish FinTech Paymento Financial"
-    excerpt: "Lithuania-based identity verification company, iDenfy, announced a new partnership with Polish FinTech brand Paymento Financial SA."
-    publishedDateTime: 2021-07-20T10:50:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/idenfy-joins-forces-with-polish-fintech-paymento-financial/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Global-FinTech-Use-Cases-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Infobird's Successful Launch of Intelligent SaaS for a Leading Fintech ..."
     excerpt: "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (\"Infobird\" or the \"Company\"),"
     publishedDateTime: 2021-07-20T12:31:00Z

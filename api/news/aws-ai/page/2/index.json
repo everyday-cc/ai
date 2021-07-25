@@ -502,24 +502,33 @@
     {
       "path": "_news/2021-07-06-cognitive-space-selected-to-participate-in-inaugural-aws-space-accelerator-for-startups.md",
       "title": "Cognitive Space Selected to Participate in Inaugural AWS Space Accelerator for Startups",
-      "excerpt": "Cognitive Space today announced it has been selected to participate in the Amazon Web Services (AWS) Space Accelerator, a business support program for startups seeking to use AWS to help solve the biggest challenges in the space industry.",
+      "excerpt": "Cognitive Space today announced it has been selected to participate in the Amazon Web Services (AWS) Space Accelerator ... by bringing the power of artificial intelligence and machine learning ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-cognitive-space-selected-participate-inaugural-aws-space-accelerator-/2021/07/06/9403400.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-cognitive-space-selected-participate-inaugural-aws-space-accelerator-/2021/07/06/9403400.htm",
+      "webUrl": "https://www.register-herald.com/region/cognitive-space-selected-to-participate-in-inaugural-aws-space-accelerator-for-startups/article_507e16c7-aab8-50b5-bb22-82ce25e0ca3e.html",
+      "originalUrl": "https://www.register-herald.com/region/cognitive-space-selected-to-participate-in-inaugural-aws-space-accelerator-for-startups/article_507e16c7-aab8-50b5-bb22-82ce25e0ca3e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://static.cnhionline.com/cnhi/images/rtj_ad.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T06:07:00-07:00",
+      "publishedDateTime": "2021-07-06T07:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "The Register-Herald",
+        "domain": "register-herald.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -3,8 +3,8 @@ category: news
 title: "DeepMind unlocks the protein secrets of life"
 excerpt: "Demis Hassabis stunned the world of science this week when he and his research team opened a window into how life works.The British artificial intelligence pioneer, 44, revealed an AI system that had"
 publishedDateTime: 2021-07-23T23:01:00Z
-originalUrl: "https://www.thetimes.co.uk/article/deepmind-unlocks-the-protein-secrets-of-life-z3q6z0mbj"
-webUrl: "https://www.thetimes.co.uk/article/deepmind-unlocks-the-protein-secrets-of-life-z3q6z0mbj"
+originalUrl: "https://www.thetimes.co.uk/article/3b2ffd68-ebe2-11eb-baaa-861dba20d87a?shareToken=309a4275db20223c3a288274449c8dbb"
+webUrl: "https://www.thetimes.co.uk/article/3b2ffd68-ebe2-11eb-baaa-861dba20d87a?shareToken=309a4275db20223c3a288274449c8dbb"
 type: article
 quality: 39
 heat: -1
@@ -268,6 +268,6 @@ related:
       domain: bio-itworld.com
     quality: 13
 
-secured: "qrRzwEMNiXk2vOPuyg1dX7yAaEnXOMa2LCNS/9I10+cLpESikH7srgRKLh7kTg3sNL9/46WW+mBypnU+GwM0SLmpSCC7tgisbxmJkuB1NDj7O3drgVGe7fkxJ9MlWSrIEQVbxkFnvEMoQnjRDiK52SnhOn7lQKsnIpr9uLxpGKUJdUwEdNVtWdl3wUU08Y2wRwIa/BvvJUU/oPjtXbZTrioMmUSpTmvQo/Tijy8uZE2ygc9txM42GQDk7DdB11bx7F2S3ih8aVIQxBJ6jQRSdpfR7anj7vCIPKiCs2tUDsAMFqMkEboK3mf5yt65BG+L5731g2hj5tAnx9X8gh6adqjpXHMUrXgMgkACvoo1s66YDsIsku9F8U1GFtxRuFHEnGJ1tDXu0JnNdOtev0HGqnESvGy4+Vg98S/k1s55BJrDpokSj3fpw0ZdK0UkKqAwlowRzB8ZfiZcFSRmKVJ00M2KiN57MweDr1TeQQzZ6zOJfwEVRirzXTIwUonTBjKeK/vv1TfIMH5xjy/E05aa8g==;l4gTcsrlR3JaDbl9EAWluA=="
+secured: "w14OtnxJ2Jqqg17ZBWubO3PkYV4uO9RXDIfqxCwXoTlEMuAUGNzKBU6defbit5PmbozzQ0NPpsrUXYBCRKW10DbENJyQcJWCGYJ3y1nEdgqmLhI2Yt2PMJBtazmDWQ5YxMMwbfTNhFGLuN4HirK0wKJ+/8FwLmuV7/FaAIIljNh8eFZIFVlhM1720FHSL8hGNYkUiKGRYnUUaRLiV+3ru/QmyT627pIIqdlqQmZ1kIUnGNQtidwe/Q20v4+1uEGfp350vm8juLZ76C7jONsqVwcJhR25Nxwcq9ILtM4md1olUhljVS/mriuGOw0FTkoBJTJAFZG28I5yTSi79tkp1ou3ZOnJqh14VftcEpm7ViM=;NZ2aOFoH40hvy0DTx0nSbw=="
 ---
 

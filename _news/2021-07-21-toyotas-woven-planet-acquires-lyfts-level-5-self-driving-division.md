@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-l
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 24
-  - title: "Intelligent sensing technologies enable 360 vision in self-driving platform"
-    excerpt: "ON Semiconductor has revealed that its image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform. Announced at the World Artificial Intelligence Conference, the new Gen5 autonomous vehicle technology facilitates the first fully driverless RoboTaxi,"
-    publishedDateTime: 2021-07-20T10:09:00Z
-    webUrl: "https://www.electropages.com/2021/07/intelligent-sensing-technologies-enable-360-vision-self-driving-platform"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 22
-    images:
-      - url: "https://www.electropages.com/storage/app/media//2021/July/rohm_DCDC-for-industrial_EN_1.jpg"
-        width: 300
-        height: 275
-        isCached: true
   - title: "Ford to launch self-driving cars on Lyft network by year’s end"
     excerpt: "Argo AI and Ford Motor Company are working together to bring autonomous ride hailing vehicles to the Lyft network. The companies said the collaboration will bring together all the necessary services to bring autonomous ride hailing service to the mainstream with self-driving technology,"
     publishedDateTime: 2021-07-22T12:52:00Z

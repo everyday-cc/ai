@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Ford Teams With Lyft, Argo AI For Self-Driving Ride-Shares This Year"
+    excerpt: "Ford Escape ride-share vehicles will launch this year in Miami. These self-drivers will still have \"safety drivers\" behind the wheel."
+    publishedDateTime: 2021-07-21T22:13:00Z
+    webUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/"
+    ampWebUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/07/Ford-Lyft-Argo-self-drive-1200px.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Argo AI and Ford to Launch Self-Driving Vehicles on Lyft Network"
     excerpt: "By Michael Dabaie Argo AI and Ford Motor Co. say they expect to launch self-driving vehicles on Lyft's network by the end of 2021. Autonomous"
     publishedDateTime: 2021-07-21T11:41:00Z
@@ -72,22 +88,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Ford Teams With Lyft, Argo AI For Self-Driving Ride-Shares This Year"
-    excerpt: "Ford Escape ride-share vehicles will launch this year in Miami. These self-drivers will still have \"safety drivers\" behind the wheel."
-    publishedDateTime: 2021-07-21T22:13:00Z
-    webUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/"
-    ampWebUrl: "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/07/Ford-Lyft-Argo-self-drive-1200px.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Lyft is getting autonomous Argo AI Ford cars for public rides this year"
     excerpt: "You may be able to summon an autonomous Ford via the Lyft app later this year, with the automaker and the ride-hailing app working to put self-driving Argo AI cars on the network. It’s the"

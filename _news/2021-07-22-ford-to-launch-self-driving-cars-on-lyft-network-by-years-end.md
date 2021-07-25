@@ -60,20 +60,6 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 24
-  - title: "Intelligent sensing technologies enable 360 vision in self-driving platform"
-    excerpt: "ON Semiconductor has revealed that its image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform. Announced at the World Artificial Intelligence Conference, the new Gen5 autonomous vehicle technology facilitates the first fully driverless RoboTaxi,"
-    publishedDateTime: 2021-07-20T10:09:00Z
-    webUrl: "https://www.electropages.com/2021/07/intelligent-sensing-technologies-enable-360-vision-self-driving-platform"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 22
-    images:
-      - url: "https://www.electropages.com/storage/app/media//2021/July/rohm_DCDC-for-industrial_EN_1.jpg"
-        width: 300
-        height: 275
-        isCached: true
   - title: "Lyft to deploy self-driving cars in Miami by the end of the year"
     excerpt: "Interested in riding in a self-driving car? Soon, Miami-area Lyft passengers will have that option. On Wednesday, Ford, self-driving car startup Argo AI and ride-hailing giant Lyft (Nasdaq: LYFT) announced they are partnering to offer automated vehicles to customers in the Magic City beginning late 2021."
     publishedDateTime: 2021-07-21T17:08:00Z

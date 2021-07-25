@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "ANAROCK to launch AI PropTech to boost housing sales by 15"
-    excerpt: "ANAROCK India leading tech-driven real estate services consultancy will soon launch India first Artificial IntelligenceampMachine Learning AIML PropTech"
-    publishedDateTime: 2021-07-20T09:38:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270374400/anarock-to-launch-ai-proptech-to-boost-housing-sales-by-15"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1626773718.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "3 Tech Stocks Using Artificial Intelligence to Unlock Growth"
     excerpt: "The internet has opened up new opportunities to climb those hurdles, but artificial intelligence (AI) is proving to be the most valuable piece of the puzzle -- completing tasks that used to require many employees,"
     publishedDateTime: 2021-07-22T13:48:00Z

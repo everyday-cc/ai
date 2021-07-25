@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 819
         isCached: true
-  - title: "Three Ways AI-Integrated Technology Can Battle A Broken Supply Chain’s Impact On Customer Experiences"
-    excerpt: "Over the past decades, companies’ call centers have shifted overseas and are now changing once again as they work in hybrid work environments."
-    publishedDateTime: 2021-07-20T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/three-ways-ai-integrated-technology-can-battle-a-broken-supply-chains-impact-on-customer-experiences/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/three-ways-ai-integrated-technology-can-battle-a-broken-supply-chains-impact-on-customer-experiences/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/20/three-ways-ai-integrated-technology-can-battle-a-broken-supply-chains-impact-on-customer-experiences/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "9+PoaG46R47hIB5UW0v8I+5qKGartwVswLCdPTHQfY3eYT7i/AtgM3BZMZ2pOp6rFElzU32af/+GTGoFF699LpyJdZ8qbaQvWXkZ9/47p9r/AbJqgytyluVzntabL5i7NVpCWnAy8g1LfusHxi/vNcJyAUSsfscUoxOalEVSNZMTagX23TtxO0fcJsIIS4NnxCdKcJOmVmvjbIns1T/U5GPzg8aqwq+r5c72fIny/lT45IGBHe78HXYY0l0vRDADAQTvqa1vA3mZscM4NtflNeo5AJg9hbpVFAnpI96ssxXUoo3iaszIWBMnwnSnKiiyDQly9giqvaNtPdur43dNV2UbNgOJwpU4CSh4XO6gwi5xU0dm2tuBT71JfVMA+uBy9ilzyf8fvrmUdJE51I015rc6ViH5AuxUctdrAFVXX8318Udv9KFKwA34YLOhL1dn/s7wpNyNSlod56j1Ipl1ae/wgyYDJ7nwpAb57bTqgpR8g8LWUnJQJcYIY0zo0GW6LGzJO7y6YEiky5FINBw0Dw==;/gpCVxloRJ1zG4B1Rvumzw=="
 ---
