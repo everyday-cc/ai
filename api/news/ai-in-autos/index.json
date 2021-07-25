@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -108,10 +108,10 @@
     {
       "path": "_news/2021-07-23-alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit.md",
       "title": "Alphabet to launch robotics firm Intrinsic under its other bets unit",
-      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ...",
+      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/",
-      "originalUrl": "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/",
+      "webUrl": "https://www.reuters.com/article/alphabet-other-bets-intrinsic/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-idUSL4N2OZ212",
+      "originalUrl": "https://www.reuters.com/article/alphabet-other-bets-intrinsic/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-idUSL4N2OZ212",
       "featuredContent": null,
       "highlight": null,
       "heat": 96,
@@ -130,7 +130,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T06:43:00-07:00",
+      "publishedDateTime": "2021-07-23T07:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -1228,19 +1228,19 @@
     {
       "path": "_news/2021-07-15-tantech-subsidiary-starts-accepting-orders-for-innovative-driverless-and-manned-street-sweepers-inventory-built-to-fulfill-initial-customer.md",
       "title": "Tantech Subsidiary Starts Accepting Orders for Innovative Driverless and Manned Street Sweepers; Inventory Built to Fulfill Initial Customer Orders",
-      "excerpt": "Tantech Holdings Ltd (NASDAQ: TANH) (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary,",
+      "excerpt": "Tantech Holdings Ltd (NASDAQ:TANH) (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced",
       "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street",
-      "originalUrl": "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/07/n21997147/tantech-subsidiary-starts-accepting-orders-for-innovative-driverless-and-manned-street-sweepers-in",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/n21997147/tantech-subsidiary-starts-accepting-orders-for-innovative-driverless-and-manned-street-sweepers-in",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_966.jpg?itok=nvzH1Dk8",
-          "width": 763,
-          "height": 509,
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1248,13 +1248,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street?amp",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21997147",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21997147",
       "publishedDateTime": "2021-07-15T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

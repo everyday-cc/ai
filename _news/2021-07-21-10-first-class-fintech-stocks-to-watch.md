@@ -79,20 +79,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Meet The Fintech Innovators Using AI To Reimagine The Financial Sector"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-07-21T02:43:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626835443_0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fidelity International signs Fintech Pledge"
     excerpt: "Fidelity International committed to a UK strategy, known as the fintech pledge, which is aimed at accelerating the growth of the country's fintech sector"
     publishedDateTime: 2021-07-21T15:12:00Z

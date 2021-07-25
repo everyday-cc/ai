@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.business2community.com/wp-content/uploads/2021/07/markus-winkler-tGBXiHcPKrM-unsplash-900x600.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Why Artificial Intelligence Implementation is Lagging in International Shipping"
+    excerpt: "The long-term benefits of including AI-powered systems in logistics and supply chain operations are well known."
+    publishedDateTime: 2021-07-25T18:59:00Z
+    webUrl: "https://www.bbntimes.com/technology/why-artificial-intelligence-implementation-is-lagging-in-international-shipping"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 35
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Why_Artificial_Intelligence_Implementation_is_Lagging_in_International_Shipping.jpg"
+        width: 1620
+        height: 1080
         isCached: true
 
 secured: "MqAz0naanuU3XuTljZp+exESdLKYQqkJCHpabstTF5f+IFQ1vJAYpguFU9r8v5j7xngIrlRPmZQHA8dpiU8A0IhkNr6h7LmGz8ZMiUVxXDVzSs7kOy0XjpkAONSkgpUo88i+aJ8KWytNSIZz9lr1F7cIRAW0/sqU4f+GDZo6kVXaHopUwruTdA+cr0PWX+9ntUUfrFPqwUXAyxoOok/qhYnxn06CT6FbqW1SYhKkmE3Ys4AjnIKEawsfua6u0nhh3mckjLL0RRpKRt1LiFZEHwr4zZKMKyJBud2kogj/NR5Let52v7VwwWBcD+ZsngEocLLbQpEvzPFAydXHZarusXRJfPxjeKV3C5wMm1qBzg5fX81zFAdVV69hQsZ9fXvlvBzQZHAP+fF6U9ZJaUkh0bNzFc5UwwoK5d0vHBgf+5/+/SFan5VHiiBsoGSlYjf+HvtDs/PqGsWuy2uBcKm8gJqJSKgVkGdZ6/aPb+nfmyS/cP0ALQPDdvl8krKKpB49JW5zVqHeEgqkKhbDGyEGPA==;YBCOoyT+QMfnV8je5p+5rg=="

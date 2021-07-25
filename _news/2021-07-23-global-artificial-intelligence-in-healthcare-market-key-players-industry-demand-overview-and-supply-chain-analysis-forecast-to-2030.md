@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-key-players-industry-demand-overview-and-supply-chain-analysis-forecast-to-2030-2021-07-23"
 type: article
 quality: 67
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 19
-  - title: "Artificial Intelligence (AI) Robots Market Study for 2021 to 2028 providing information on Key Players, Growth Drivers and Industry challenges"
-    excerpt: "Robots Market report including its market outline and development status by types and applications, which specifies its price and profit status, market growth drivers, and challenges. Readers will find this report very helpful in understanding the market in depth."
-    publishedDateTime: 2021-07-21T01:24:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-robots-market-study-for-2021-to-2028-providing-information-on-key-players-growth-drivers-and-industry-challenges/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 13
   - title: "Global Artificial Intelligence Chatbots Market 2021 Industry Emerging Trend, Top Players, Revenue Insights to 2026"
     excerpt: "According to the latest report by MarketQuest.biz, titled Global Artificial Intelligence Chatbots Market 2021 by Company, Regions, Type and Application, Forecast to 2026, covers assimilates reliable and updated information,"
     publishedDateTime: 2021-07-23T10:01:00Z

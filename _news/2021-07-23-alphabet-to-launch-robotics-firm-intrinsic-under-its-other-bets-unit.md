@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ..."
-publishedDateTime: 2021-07-23T13:43:00Z
-originalUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
-webUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
+excerpt: "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ..."
+publishedDateTime: 2021-07-23T14:02:00Z
+originalUrl: "https://www.reuters.com/article/alphabet-other-bets-intrinsic/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-idUSL4N2OZ212"
+webUrl: "https://www.reuters.com/article/alphabet-other-bets-intrinsic/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-idUSL4N2OZ212"
 type: article
 quality: 86
 heat: 96
@@ -47,6 +47,6 @@ related:
         height: 900
         isCached: true
 
-secured: "O3GSKzS77cmRj/Dwyx2CnXmervPbZ/lEWfQ0j8CG1AY+rTlHfj7FJRWl2CRh1uugTA20WE9crNQcwcabl2B0Fqecw8p0XieTyVyWxVuodQHYeDQv+Mby/1hiH+cr2ZtQLfIekSvUZ9mn/myYdTlvEzVCanPN+IR2lmqBZl0ne4lmMd/ZQUMyFErd2HgT9msGXCN0UmibKm0xXV2u8kjntrS96uEC3cyXI68YvhtkLWnmEwmZDYRbKamlgvvBUE+HE1rVjp1dBNjKsGaXisqlduEDTsyLMloET2/WyIWz6L3a5VIKBfydnzHgAdL0GdNsMwIf2K6dcxg4q+bSrXbWiTsFlqdgLkJEaLMyGTZV9pI=;P5qfVDTasVZlGVoFOUby7w=="
+secured: "1ru9zCYuENZ7JTq5IfjfYB0bZPWDO1JysrGY7V8lLo6rQUew6VkSR9OrKUeNGZxTcyTsCafqmZhv6Fitu3/znKxAeyYhFzK2lQbasKkNfIc88NKcNNqX3KpO5Ad9Pn/FtzVn915aaX/e3qqFT9U8K+ztDXIa4e7jG3QjLCs4bpmNvIREgck5lY3KMFwVWa3khHJ4M78uT04Jk8J/vVbYCzcBW8K8VGxZn7f2VmS1VHrvgDOdAyOsHxZ4fH8EaPuzDW9c0yX9DoM3XVwWWLpETL8nJHR2nMn+Hb/d6GB7l8kxfpKtAE6XOLnp/EMIZNQ+dUyq5j8rpdHI+dHECpivBqymIYR/BO/VAR12HNzDxio=;PsxF474Z13ZX5q151aA/3g=="
 ---
 

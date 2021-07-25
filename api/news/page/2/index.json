@@ -140,7 +140,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-key-players-industry-demand-overview-and-supply-chain-analysis-forecast-to-2030-2021-07-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -781,6 +781,48 @@
       ]
     },
     {
+      "path": "_news/2021-07-22-how-many-unicorn-companies-are-in-the-uk.md",
+      "title": "How many unicorn companies are in the UK?",
+      "excerpt": "Famous Unicorn companies include Reddit, Stripe and Elon Musk’s SpaceX. While the United States dominates the list of unicorn companies, Forbes reports that there are 91 unicorns in the UK.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbinsights.com/research-unicorn-companies",
+      "originalUrl": "https://www.fool.co.uk/mywallethero/share-dealing/learn/how-many-uk-unicorns-are-there/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://v.fastcdn.co/u/11443291/54389437-0-unicorn-list-2.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool UK",
+        "domain": "fool.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns.md",
       "title": "Bias in AI isn’t an enterprise priority, but it should be, survey warns",
       "excerpt": "Bias in AI is the biggest enterprise challenge, according to a recent Anaconda survey, but few organizations are correcting it.",
@@ -1186,57 +1228,6 @@
         "AI",
         "Google AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-3-ways-ai-can-help-you-improve-diversity.md",
-      "title": "3 Ways AI Can Help You Improve Diversity",
-      "excerpt": "As a business leader, you probably want to improve your organization’s diversity, merit, and fairness. In this post, I share some practical tips to harness data in service of diversity in your organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brianuzzi/2021/07/22/3-ways-ai-can-help-you-improve-diversity/",
-      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2021/07/22/3-ways-ai-can-help-you-improve-diversity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f8721362cfeb9ccf779b8f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2021/07/22/3-ways-ai-can-help-you-improve-diversity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/07/22/3-ways-ai-can-help-you-improve-diversity/amp/",
-      "publishedDateTime": "2021-07-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

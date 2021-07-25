@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots
 webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22"
 type: article
 quality: 82
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Deep Learning Market Size, Share, Status and Forecasts 2021 – 2028"
-    excerpt: "The Deep Learning market research report assesses the global Deep Learning Market industry market and includes sales and capacity forecasts for the anticipated period 2021-2028. The factors driving the growth of the industry are highlighted in the report."
-    publishedDateTime: 2021-07-21T01:11:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-market-size-share-status-and-forecasts-2021-2028/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 19
 
 secured: "FM3ftvTrYcG8vHfLNdIVKMxSlz4stOlswcuOHcT9Eso4OHJO9qULK73ZwF+K5+miE8rlhmBrRZTUdr8sDJyBQqg0JIrwsTTFz7awdOe4n3LpD1Ag1NQ+GglylhBaC4n7Vs04Qor3h9Owu0mo60kuHVJI9G2Wic5Q8hOx79c+Oz5wA5ktmvdRdHDnkj+VoNX428o6c0aZrNFNIPDC8idBE8WvC4pE+sxvdOrEJfbcaVh85BcWi/DpW5D7oaHbA3SU5hXeurI0K1dKZRPtsDX9w95u3VdYhSgYY6Gj6s6kp3QwKpNX3+98+Oc0vfzRWmSmIW1r8Y4EWW01apgU/uGIEiCcOVjtyCNTGNRhIPfZVbs=;2rPbU0oyfzz/Y/S+3SGVyg=="
 ---

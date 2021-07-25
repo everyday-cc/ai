@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-se
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/amp/"
 type: article
 quality: 74
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 607
     isCached: true
-
-related:
-  - title: "See the first self-driving car to take a spin on NYC streets"
-    excerpt: "Intel-owned startup Mobileye has completed the first ever tests of self-driving cars on the streets of New York City without a police escort."
-    publishedDateTime: 2021-07-21T01:43:00Z
-    webUrl: "https://localnews8.com/money/cnn-business-consumer/2021/07/20/see-the-first-self-driving-car-to-take-a-spin-on-nyc-streets/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 24
-    images:
-      - url: "https://localnews8.b-cdn.net/2021/07/hypatia-h_50890608d8a02c9b670727c4a3874b92-h_c6bb4768c4778c7186fa88339b1b09d1-300.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "Bx+KSm8zexHpyAKDSs0fEEf+z+Ug4/BQz5TjnUB9Azlia8rpuQcmMcj6AlsELySFC481m81wpmH0bXQL9/tpWMeREwPwXTHhWpilxaMCTiEbHIvV4Oiwh970xoOX1q90ewINvQbg0/r2yUi4Fanzg+TzkFzDc2anXX4P2uW08CEy/XPuaAwGVyl9jhf1YPbi6bkcZswfUkLVJirLmTDjarsYsNx91TVRlFAj2uamYzqpoyjy+frnWp1DTuWRnwAB8CY+8egVBU9CRPE7ewnPT20si7lEyI81iyXlX1FTLISW/eQ2W2xrj2p/zrbrQK43SoEsDATnibVmLCgaTyRZ4wq2r/8Zg07iJ9OhcV/NG3EaBkyIXWNZJVN8w0BuQrq8CD0hMkgSkSpmvFgTYpnAlKE1L/eWe+QMTy0kaJZna7tmivPGIX+TgiGSAdluPGP1Gr+PD1ZL2pZktfUMeRdPy/TS1gLEEO8Mg0nHu0tqfbh7b4/InsSn4GlHNAO4iEPg53IRV7qk43jwWBpg7nozrw==;MJAID0AWpd2DWuRPBvU3Tg=="
 ---
