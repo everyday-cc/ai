@@ -179,6 +179,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Moon Tricks Tesla's Full Self-Driving Feature Into Thinking It's a Yellow Light"
+    excerpt: "Tesla recently announced that any Tesla user can subscribe to Autopilot’s Full Self-Driving feature for $99 to $199 per month, but it seems the new feature still comes with its fair share of kinks. Recently a Tesla driver took to Twitter to share an entertaining little problem with the system."
+    publishedDateTime: 2021-07-25T13:41:00Z
+    webUrl: "https://interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
+    ampWebUrl: "https://amp.interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 53
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/M3OeNjerGN/sizes/yellow-moon_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Tesla Offers ‘Full Self-Driving’ Feature as a Monthly Subscription"
     excerpt: "Consumer Reports takes a look at Tesla offering the ‘Full Self-Driving’ feature as a monthly subscription. CR recommends the subscription at $199 a month over buying it for $10,000."
     publishedDateTime: 2021-07-22T13:17:00Z
@@ -204,20 +220,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 34
-  - title: "This company is testing self-driving cars in New York City for the first time"
-    excerpt: "Dapena, CNN Business Mobileye, an Israeli self-driving technology company owned by Intel, has become the first company to test fully self-driving cars on New York City’s streets. While a number of companies test cars in California and Arizona,"
-    publishedDateTime: 2021-07-20T20:43:00Z
-    webUrl: "https://ktvz.com/money/cnn-business-consumer/2021/07/20/this-company-is-testing-self-driving-cars-in-new-york-city-for-the-first-time/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 21
-    images:
-      - url: "https://ktvz.b-cdn.net/2021/07/hypatia-h_50890608d8a02c9b670727c4a3874b92-h_c6bb4768c4778c7186fa88339b1b09d1-300.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "3K+IJty9vlLIfUbqCRL39tCrB1LzGvcQZGfBfJLe0x1u+RNvq/gy3xp5qndifvhsiQGcOH4rKqTKRFPtqNvYs8nST6qsBoEJsv0NHnXakZhmju+0k85ev3JqAwpZrzVt6EOXcSUSLSqLqoncUzvMA1tFp/uuaNmb4e/7rBTD/OGsWZ6SS6iZ169W3Fg4YnMhsKrArz/WdjYVLJb1OKCkBmLO1Bxpd+rWglTZ4aTWaJb977Db0wXaNwrm/fII4rJ82xxG3Q02mwIVDhoTgoSRBk9e9A0UqFqv6yJk6fB/Cqq1vwX5gW8/+FOgM8hvPi6pjx7Sr8EaUJPqkWMRnxcNHUikX+p8vqA5EO4HX4WCiAw=;9KC9a+K5njkvn8B2b4ZRKw=="
 ---

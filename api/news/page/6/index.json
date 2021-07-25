@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-20-how-the-dynamics-of-artificial-intelligence-chipsets-market-have-changed.md",
+      "title": "How the dynamics of Artificial Intelligence Chipsets market have changed?",
+      "excerpt": "Artificial Intelligence Chipsets Market Overview. Global Artificial Intelligence Chipsets Market size, and focuses on the leading players in the market. Moreover, the report highl",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/how-the-dynamics-of-artificial-intelligence-chipsets-market-have-changed/",
+      "originalUrl": "https://manometcurrent.com/how-the-dynamics-of-artificial-intelligence-chipsets-market-have-changed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/07/Artificial-Intelligence-Chipsets-Market.jpg",
+          "width": 660,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T20:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-ai-powered-deep-neural-nets-increase-accuracy-for-credit-score-predictions.md",
       "title": "AI-powered deep neural nets increase accuracy for credit score predictions",
       "excerpt": "Credit Karma's CTO discussed migrating to the cloud and adopting machine learning to improve personalized recommendations.",
@@ -1199,49 +1241,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-research-breakthrough-artificial-intelligence-ai-can-now-use-its-imagination.md",
-      "title": "Research Breakthrough: Artificial Intelligence (AI) Can Now Use Its Imagination",
-      "excerpt": "Researchers at the University of Southern California (USC)  are helping the use of Artificial Intelligence (AI) imagine what has not",
-      "sourceUrl": null,
-      "webUrl": "https://techbooky.com/ai-that-can-imagine/",
-      "originalUrl": "https://techbooky.com/ai-that-can-imagine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbooky.com/wp-content/uploads/2021/07/444090C5-86E3-4A93-9928-5383E9896D53.jpeg",
-          "width": 1028,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbooky.com/ai-that-can-imagine/?amp=1",
-      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/ai-that-can-imagine/?amp=1",
-      "publishedDateTime": "2021-07-19T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

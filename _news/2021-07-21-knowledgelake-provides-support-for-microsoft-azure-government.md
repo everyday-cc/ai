@@ -39,20 +39,6 @@ related:
         width: 884
         height: 543
         isCached: true
-  - title: "Image Recognition in Retail Market Will Hit Big Revenues In Future | AWS, Google, Microsoft, Snap2Insight"
-    excerpt: "A Latest intelligence report published by AMA Research with title “Image Recognition in Retail Market Outlook to 2026.A detailed study accumulated to offer Latest insights about acute features of the Global Image Recognition in Retail market."
-    publishedDateTime: 2021-07-20T19:34:00Z
-    webUrl: "https://manometcurrent.com/image-recognition-in-retail-market-will-hit-big-revenues-in-future-aws-google-microsoft-snap2insight/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 56
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Online-Insurance-Market-390x220.jpeg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "KnowledgeLake Now Supports Microsoft Azure Government"
     excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
     publishedDateTime: 2021-07-21T15:34:00Z

@@ -41,6 +41,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "ID me: More states requiring facial recognition for unemployment benefits"
+    excerpt: "A rapidly growing number of US states, including Colorado, California and New York, turned to ID.me in hopes of cutting down on a surge of fraudulent claims for state and federal benefits that cropped"
+    publishedDateTime: 2021-07-25T13:23:00Z
+    webUrl: "https://www.wraltechwire.com/2021/07/25/id-me-more-states-requiring-facial-recognition-for-unemployment-benefits/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/07/25/id-me-more-states-requiring-facial-recognition-for-unemployment-benefits/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/07/25/id-me-more-states-requiring-facial-recognition-for-unemployment-benefits/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 58
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/07/ID-me-2-1024x681.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Millions of Americans seeking unemployment benefits must submit to facial recognition software"
     excerpt: "Residents in 25 states have to register with ID.me's facial-recognition software to collect unemployment benefits, with more to come. But there are no federal laws governing biometrics."
     publishedDateTime: 2021-07-23T21:58:00Z

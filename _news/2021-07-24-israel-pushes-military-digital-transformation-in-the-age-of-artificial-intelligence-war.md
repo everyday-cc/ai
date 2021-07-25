@@ -3,24 +3,24 @@ category: news
 title: "Israel pushes military digital transformation in the age of ‘artificial intelligence war’"
 excerpt: "Like other militaries, the Israel Defense Forces for years looked like one organization from the outside, but its services were balkanized in using different networks and data services, an IDF digital leader said in an interview."
 publishedDateTime: 2021-07-23T18:18:00Z
-originalUrl: "https://www.c4isrnet.com/battlefield-tech/it-networks/2021/07/23/israel-pushes-military-digital-transformation-in-the-age-of-artificial-intelligence-war/"
-webUrl: "https://www.c4isrnet.com/battlefield-tech/it-networks/2021/07/23/israel-pushes-military-digital-transformation-in-the-age-of-artificial-intelligence-war/"
+originalUrl: "https://www.defensenews.com/battlefield-tech/it-networks/2021/07/23/israel-pushes-military-digital-transformation-in-the-age-of-artificial-intelligence-war/"
+webUrl: "https://www.defensenews.com/battlefield-tech/it-networks/2021/07/23/israel-pushes-military-digital-transformation-in-the-age-of-artificial-intelligence-war/"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: C4ISRNET
-  domain: c4isrnet.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.armytimes.com/resizer/Vb09wpB1kU4DsIDzGGlZwVpQPDU=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/K2GM3ADRIJD3XMEIN5CYRRI4VM.jpg"
-    width: 1024
-    height: 669
+  - url: "https://www.armytimes.com/resizer/rvxmF1bYzSyFjOQcf4-9ct_4ZjA=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/K2GM3ADRIJD3XMEIN5CYRRI4VM.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -36,6 +36,6 @@ related:
       domain: globalbankingandfinance.com
     quality: 17
 
-secured: "xQ/gY0IPKi+Vh8UG0JdbNT+HTJ09nQXIeHd4mRw+wkA62kRoOzlbNj80k7vP3QF/Ig3JItdxKJaEZ/bRxi78OtZbl4zaJV53+c8gRwWbvvBicpsPtU2cVqVd8uHWjmsF6YSV3pLUwdzXz3obGWf40qdFOlyOZIa9SLCK3IH/68meGQGpj1OuR8Akol8JO0eKZiHjZsXtZ5KONXf90FT/vOycIRlXLDVlQSo0SPuZPY/eOIfLUX6JXQMB6ggZ3BPRhsaMEfeqkGhXad/pK/Y9GMKThsUyZbPRP8ddHgWLJ+RM8XVrqsB1MagJpC17uVP2J3pEMDpMb3txxTLepG3yxGO+XVhXXGyVqobVdP22ej5OUZNHPxhEMkjGB4l4ihG05TFQEn77WYaA6pApZ4M7UmvteOtXHJIsKXE4b/qb5+u4tiCtEg71RwDQuaLGZdg/CxKpA45K/scb5R+i4h/b+ZKGdMD6lwvoD5SQdiEVutrRT6D3otWadkIsReKveyr1RJbXX0bw+Sdw9UCb0+krbw==;BmCEKRf/qfnNnpehnKGIPg=="
+secured: "Nt4h6yYyOmcmSd6pq9LCMSd82cUG1o5y2jq8jFyOEmOAAjUrUJxM+jpnINVIWrWS5gWaRdeA+G7vwQFpiZPhxT+TleWWEmbYmT4gUdCqu3cHHousE6K9u+mHPbPK6Q3bBlawwBXa5f3cwspFfL7xJEGvluWfnD/zjeIxRYXKJR5JC0LZbzw2Ttct5tb2dM5pOXh35Gn6X22Gsw21Yvs4bMRQXrV2SuvzQSIvuUk+GrsX2Cl/mm7CvRU/gKVoXjnX+kGRMXJQARV4q/2q3vTlE1o2KXPoW+jPfIJo1DEKX+kZUgQofXYRcDr1gd4yt/SngMa10fGydLKu7j/aItG7i4MXOnHqTGdlnIRo+aGAo2c=;oLGooTzlezuQaKy971kfIw=="
 ---
 

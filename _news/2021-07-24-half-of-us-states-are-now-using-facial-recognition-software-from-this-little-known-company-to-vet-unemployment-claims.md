@@ -41,6 +41,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "ID me: More states requiring facial recognition for unemployment benefits"
+    excerpt: "A rapidly growing number of US states, including Colorado, California and New York, turned to ID.me in hopes of cutting down on a surge of fraudulent claims for state and federal benefits that cropped"
+    publishedDateTime: 2021-07-25T13:23:00Z
+    webUrl: "https://www.wraltechwire.com/2021/07/25/id-me-more-states-requiring-facial-recognition-for-unemployment-benefits/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/07/25/id-me-more-states-requiring-facial-recognition-for-unemployment-benefits/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/07/25/id-me-more-states-requiring-facial-recognition-for-unemployment-benefits/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 58
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/07/ID-me-2-1024x681.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Millions of Americans seeking unemployment benefits must submit to facial recognition software"
     excerpt: "Residents in 25 states have to register with ID.me's facial-recognition software to collect unemployment benefits, with more to come. But there are no federal laws governing biometrics."
     publishedDateTime: 2021-07-23T21:58:00Z
@@ -72,6 +88,6 @@ related:
         height: 1663
         isCached: true
 
-secured: "eQw1rZNKiCqdYOld2jd/JhUpWMD5xhNsU3KygugCaKRQsgDCgAbLNkt/INqqA5gniLX5XvQUNRfwajA6W9Yefb0ZLCg3WCyCfMxc7Ce/5Bo2e7ht2bCuOMaxVTsPUQHTYbKqfDOZCnEbzU5zS/7LcIvKgrhQeOOEZepYCaRwwjuR1thJdUgqVLHmgRUW1CjgzRoUyNhwEzOSwUgH/srHqG6GHbloLN2apJfwPBWXEquUar32SJwp95VwREVP3b4EppEpmEjHkJqeeJpoB8vTlzzoP2+sDjZB6r+93BmPiQPn0mAkt7eHu1OjXfTkirgZ0UtpK3KJIzPktoi41YgBKaa1i1OCme0oTrRtS4gKFyA=;Dzyj0QcOy39dQOnOrHcoBA=="
+secured: "J7c2Tg4xJXb3RVCfdUGN36Gr0MqjvxkzEl/gSagB77NXgV9eZZJY6Sw//FbntJ5CdlUbs5ZAjYX1m/U3g7NjLbEo6SV63L8HKdskDt7SsdeUOgsQtjVQ1bmUnW2GauFZkRi6AHK0DNZIyxASNGdP8t6/D4BaVFfLCewOKJivhwF9rrniZL051eecqo5oQfruP4if6T3NjMmQHgjJB+YB7gohivvQYrdzKP+z2ffNWKbs9geL5VFBi7gFZ4EJ70wg8a2OxO1DFIt3p7+gsRCLrPh594z+/ffjsJZWVEk+scbLGRav4C/fEbdwkMrrKmVecY9JnzqyyYCjU4tPuu0Z+1P/61OgvTmNFROrLiXzUUt+OsMVpYIqxyUG5kSIHx09wAB1iq7f2YJa5MO6IBjKXDEQuUhuSUTLlS8UoUcIHcPcA/PbcaybsHyVoG8jtXcWUBpMLPjSxDBbBtdArGZTqOz5gkFL+f3WqlXfPtIz4Et/uZ+tNQxEjo2MxYX8CcOwsuW+B8FQHgsvhuheAqKCBQ==;vqf2qhjDhIR1cSNsv6Kvdg=="
 ---
 

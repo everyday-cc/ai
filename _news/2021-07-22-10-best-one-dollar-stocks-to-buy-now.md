@@ -7,7 +7,7 @@ originalUrl: "https://www.insidermonkey.com/blog/10-best-one-dollar-stocks-to-bu
 webUrl: "https://www.insidermonkey.com/blog/10-best-one-dollar-stocks-to-buy-now-963863/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 1920
     height: 1280
     isCached: true
-
-related:
-  - title: "4 Dividend-Paying Tech Stocks to Buy on the Dip"
-    excerpt: "Because the stock market is expected to remain volatile on concerns over the spread of the COVID-19 Delta variant and high inflation, dividend-paying stocks could be ideal bets now to ensure a steady stream of income."
-    publishedDateTime: 2021-07-20T19:22:00Z
-    webUrl: "https://stocknews.com/news/msft-csco-intc-avgo-4-dividend-paying-tech-stocks-to-buy-on-the-dip/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
 
 secured: "9BzUwKG5kJnM7KLSnTCwLVv5nio6kjENOLoegQ/l9JM/vg8TTxiuwarpAPAjm+JBPsKR599cqtOyCcUgrIzYwaid7RBfV0NVokyo42EvkGnwiok4p95fLm7nkPbBnGWk3WjuZcho5yxvqVAmYatiJDqdJPMSkqsPCKuHbdaZhWP7FytlzPvtpQ9mM7JZ6VPxo6Fo5HoqG6SeTU/rThHez6A/lDXecwsVGL7C03m2ndyhdhxPp/9wsrFdUySMJZQeAm7cSDhpn2qlI6UwQFuCHd1xXybkWevGom91e30rSgG/bLgCv4nwpRUZzgnVEgH16nRcZS39obh9mg+RA6noZq3gRn98/kwWtBms/S6o8YIsVzoCZ+1GJ9xuvdrgXZXwEOQ2i/+aS6gFM/t6l7dOWEiS5FM3P8e8w0n4LMO4UlWTe/dzlhiRqpsfBSDxx3mFopfQq0IPuBfIPqbR/xEaIqz1f6M/3+INyYtYd4X5PqklE4Dc7RBdiY7rqSlP/y0URLIxPz8zWchz/WD8taZCgA==;Q488drNI+DF+ypw2U73lVw=="
 ---

@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Moon Tricks Tesla's Full Self-Driving Feature Into Thinking It's a Yellow Light"
+    excerpt: "Tesla recently announced that any Tesla user can subscribe to Autopilot’s Full Self-Driving feature for $99 to $199 per month, but it seems the new feature still comes with its fair share of kinks. Recently a Tesla driver took to Twitter to share an entertaining little problem with the system."
+    publishedDateTime: 2021-07-25T13:41:00Z
+    webUrl: "https://interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
+    ampWebUrl: "https://amp.interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 53
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/M3OeNjerGN/sizes/yellow-moon_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Lawsuit accusing Tesla of false advertising on its full-self driving technology"
     excerpt: "Santa Barbara brothers accuse Tesla of false advertising of claiming that the Model S purchased in 2016 is fully autonomous."
     publishedDateTime: 2021-07-23T01:45:00Z
@@ -202,20 +218,6 @@ related:
       - url: "https://article.images.consumerreports.org/image/upload/v1626710364/prod/content/dam/CRO-Images-2021/Cars/07July/CR-Cars-InlineHero-Tesla-Model-3-gray-driving-7-21"
         width: 1199
         height: 674
-        isCached: true
-  - title: "This company is testing self-driving cars in New York City for the first time"
-    excerpt: "Dapena, CNN Business Mobileye, an Israeli self-driving technology company owned by Intel, has become the first company to test fully self-driving cars on New York City’s streets. While a number of companies test cars in California and Arizona,"
-    publishedDateTime: 2021-07-20T20:43:00Z
-    webUrl: "https://ktvz.com/money/cnn-business-consumer/2021/07/20/this-company-is-testing-self-driving-cars-in-new-york-city-for-the-first-time/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 21
-    images:
-      - url: "https://ktvz.b-cdn.net/2021/07/hypatia-h_50890608d8a02c9b670727c4a3874b92-h_c6bb4768c4778c7186fa88339b1b09d1-300.jpg"
-        width: 1920
-        height: 1280
         isCached: true
 
 secured: "km8xJPoK0XITrRqPl1PJ0B3Kg7TgYy+67xlUfPxIutdq6ti6e7E9F5qhZ6YaZ4gcMWvYrImHURUAtZ8w9WQTsPRWspxfi7H0UDFRHHMMmzkOOlK8dyZnoBe/zv1FTQN9TE6hN6gyhxFUVi7xLKBZn8qzT45ArQ7SW7bSxDpqDmJkCh7zLlzHiX3qCJwA0gAeaLop3cQWCzKh7uNWoqGobcXwaEgXyIugQS3sUuPwvDeJZjSmjZJbeZo6EuGmqFfSZNOWDNenzZgYb9B2JM3ijia+R8qdZzZcPoGhGioGFB1OG4twTomFkHsC850Ll7GX89CumiD7PAW22pNgqM1CbJ4vdy4vxCXgVMinDOpsXeWuhL+9YYG95GtZLkcx2bS7t29mAI+NIAPhryY+9vmKWfKEoYe9uqJ8KjKIdoRcNrrCemTo+Ns2wtz+Jgo0Qpp/p/qPSG1kJ75OROrjQmW2GDaACyJ+WTTQ7B2CLcmqaID6Za7Qs1LF5bTwG6ciB6l+2m/Zw7Aa/RqH7iItKfASRQ==;wt6FHDh2Erdymomw5dDnhA=="

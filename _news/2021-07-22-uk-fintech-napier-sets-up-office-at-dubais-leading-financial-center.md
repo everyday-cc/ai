@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_226923548/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_226923548/"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -122,6 +122,15 @@ related:
         width: 533
         height: 367
         isCached: true
+  - title: "Virtual partners have a growing role in the fintech space"
+    excerpt: "Future-proofing fintech? We caught up with Will Marwick, CEO of the global fintech company IFX Payments to find out more"
+    publishedDateTime: 2021-07-25T13:25:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/virtual-partners-have-growing-role-fintech-space"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "mVYJfEtFre/rRC4GwVdj4EDk5i+Or/yflZ7TL4ovdVoMGEUuAAylNV6e1b09Stuvgl6B5TUp488s+0AF2UAQzynQQGhuOrRbdPgV8X81OJao0qZP6U/qfhmfpqUQcUWXOQh+3OfYx3w83U+i3K9wrUd7WiLR5DM6+0VpTzUZfnPKDg6NMbLBqAbQz+4dd7GPSotIRXKZZshxAAziyo8vdpf3n1ppLmsNXNxEHaz4xw+Q0DywLNk9ffI7Oa4ipSx7J20Wr3VLBgGoQy5fqIBukMYPEDMdm+1Gp8SP6qT5tv3EpUdIyVbeRHFifuqtB1TD70KSb7wweRfn8BjXgOK3oqBdycDvQAYCFAryGRA2B24=;xUtlEHm51it3mjDZf2eKWg=="
 ---

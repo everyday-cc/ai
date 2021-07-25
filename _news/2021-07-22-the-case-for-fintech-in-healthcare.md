@@ -123,6 +123,15 @@ related:
         width: 533
         height: 367
         isCached: true
+  - title: "Virtual partners have a growing role in the fintech space"
+    excerpt: "Future-proofing fintech? We caught up with Will Marwick, CEO of the global fintech company IFX Payments to find out more"
+    publishedDateTime: 2021-07-25T13:25:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/virtual-partners-have-growing-role-fintech-space"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "180DssOyfy9Vj0Toun4DjHbhBYgPTWotS68dxWQwNnS/4+vGPtDH+gjdlfej+L6wQZYQIpKHkLrJla7SzF+IJzhoeFfcsBUx9+zgUj3gx7o18gN5zdp5EYbyN6cpPRGR+rZvz/YMq5BcAFCTarCyfLK8xdpCofcFhfGA3ypxAsilDJd2EFAJarg/gAI+dd5YkSFk5lp3eWC6nTU1VDnMHruK3u7St10YVpYE4YDMWKG8q1zcUWg4VR87DiVnXXaxQP5DQL00KM122vAOqe+fzW9eTQjQk55BSAemXmN5nmENrQQdfRTPmd3yYutDMPNSjU8f/8EI5XBgoiJZKq9f5pMUsqF+nQTjH/YRqe3ZTCo=;+tkkcc1ZKQI0uU8DbzHGiA=="
 ---
