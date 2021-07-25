@@ -56,19 +56,19 @@
     {
       "path": "_news/2021-07-23-alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit.md",
       "title": "Alphabet to launch robotics firm Intrinsic under its other bets unit",
-      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ...",
+      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/",
-      "originalUrl": "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/",
+      "webUrl": "https://www.reuters.com/article/us-alphabet-other-bets-intrinsic-idUSKBN2ET1G0",
+      "originalUrl": "https://www.reuters.com/article/us-alphabet-other-bets-intrinsic-idUSKBN2ET1G0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 146,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/RkqwUqV_pSTg-8Gt3pKHghTeZuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2DMPV6O5NJERDO3F7MHS7QIA4.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,9 +76,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T06:43:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2ET1G0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET1G0",
+      "publishedDateTime": "2021-07-23T07:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -115,7 +115,7 @@
       "originalUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -271,7 +271,7 @@
       "originalUrl": "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 344,
+      "heat": 334,
       "tags": null,
       "images": [
         {

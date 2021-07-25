@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Healthcare Market Report 2021 – Global Industry Size, Competition, Trends and Growth Opportunities to 2028"
-    excerpt: "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ..."
-    publishedDateTime: 2021-07-20T13:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-report-2021-global-industry-size-competition-trends-and-growth-opportunities-to-2028-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Facial Recognition Platform Market 2021 Major Players, Competitive Spectrum, Revenue Share and Sales Projections by 2026"
     excerpt: "The research document entitled Global Facial Recognition Platform Market 2021 by Company, Regions, Type and Application, Forecast to 2026 released by MarketsandResearch.biz is an information-rich knowledge hub that assists organizations with understanding the noticeable patterns that are rising in the market."
     publishedDateTime: 2021-07-21T03:44:00Z
@@ -137,6 +123,20 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 36
+  - title: "Global Geospatial Analytics Artificial Intelligence Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2026"
+    excerpt: "The latest market research report titled Global Geospatial Analytics Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 enfolds expansive evaluation of the market offering an analysis of the market revenue,"
+    publishedDateTime: 2021-07-21T00:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-geospatial-analytics-artificial-intelligence-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2026-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Neural Network Software Market Size, Competitive Landscape, Revenue Analysis, 2016–2026"
     excerpt: "The global neural network software market is forecast to reach USD 97.11 Billion by 2026, according to a new report by Reports and Data. The neural network software distinguish the subtle nonlinear interdependencies with individual patterns of data and self-learn to produce complex decisions without being programmed."
     publishedDateTime: 2021-07-21T11:11:00Z

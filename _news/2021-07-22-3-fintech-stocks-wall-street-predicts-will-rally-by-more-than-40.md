@@ -68,6 +68,20 @@ related:
       name: Stock News
       domain: stocknews.com
     quality: 24
+  - title: "New FinTech Innovations that Will Change How Clients View Wealth Management"
+    excerpt: "Innovations within FinTech are causing major changes to the dynamic between clients and wealth management providers. With technology as a driving force behind industry changes, understanding how client perspectives are shifting is crucial."
+    publishedDateTime: 2021-07-23T19:42:00Z
+    webUrl: "https://finchannel.com/new-fintech-innovations-that-will-change-how-clients-view-wealth-management/"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 22
+    images:
+      - url: "https://finchannel.com/wp-content/uploads/2018/08/images_fintech.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "5 Overvalued Growth Stocks to Avoid as Market Conditions Get More Bearish | Fintech Zoom"
     excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
     publishedDateTime: 2021-07-24T05:39:00Z
@@ -81,20 +95,6 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/07/shutterstock_590795564-scaled.jpg"
         width: 2560
         height: 1700
-        isCached: true
-  - title: "Music Fintech Company Offers Advances Up To $1 Million To Drive Artist Empowerment And Freedom"
-    excerpt: "PRNewswire/ -- beatBread, the pioneering music fintech business, is stepping up its support of music talent through the activation of agreements that allow the company to provide financial advances of up to $1 million for an individual artist for the first time."
-    publishedDateTime: 2021-07-20T13:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-music-fintech-company-offers-advances-up-1-million-/2021/07/20/9412945.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
-    images:
-      - url: "https://mma.prnewswire.com/media/1574686/BEAT_BREAD.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "xrSeTOX06d5VlCEvGIHG5rKyqCsoGvTT3k2Q44IL17f8tDsmch508OFXKJuwLerOc4LHtmreDk79D2/a30KJTCf6IfYt9FvrY0HIvIr5L8q7FBdYyMU8xekuPITG4KJt0+G0C3SG5DsQUC1XEIcmOL5r6FtRIkQ86O78nupCxdEap7crVtvTI1A18pujYRkzxSRA+sDEh6RVB+09D0yLpR9YwkUjMBeaioJaKV/Lmv0/pSQ1n3ENUb+SMWwYKGvprr08rVHhTqT41/iXD57tCaa52jtG2wz3McjBmg7rCtngJZ2l1LRrZN/MmrU6u9rX2ezOCry5Sr0aGvYO/eFxV2ZjsWVNcvFUDk+0b0mq+5n5e9WxlXaF2ZYvhRSRmBSQVM1Fc4uXpVNiaaB7fC46ceFkswTU1O3h2P+WcE46czpl+MDpKakS+qlr2LEr6oSUuT7XoXD6VyZsdwPK4UAjp1vHfqvk75vO67KeX5sec12JQ5eH7R6Cdr3hJE2+1RZdA7TYgSfvliT/WStjMfx3ug==;2OXl3mfJ8Sx1y5lD24nBiA=="

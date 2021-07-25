@@ -80,15 +80,6 @@ related:
       name: FinYear
       domain: finyear.com
     quality: 35
-  - title: "AscellaHealth Announces Partnership with Banjo Health Inc., Improves Patient Care by Streamlining the Prior Authorization Process"
-    excerpt: "AscellaHealth, a global specialty pharmacy and healthcare solutions company, today announces the signing of a multi-year partnership with Banjo Health, a market leader in artificial intelligence (AI)-powered Prior Authorization (PA) solutions,"
-    publishedDateTime: 2021-07-20T14:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ascellahealth-announces-partnership-with-banjo-health-inc-improves-/2021/07/20/9413006.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "FDeYDIGu8Eh67T0ACnbTHM8TNw+6LblGTk5Sm4bnWpj5B4oOi+T1ZOtJbIJNDimR8AEGNLbcg84yCeledTvCc0VeV72E4a9oZAEMNFgxxiq+XRpp5+RYLh3+J/HZWQLZ8BFNCNm9CDAk1s8C56L/duGizpH6WxZwzBr8WJKyGm6+BT77YYW/azRM8jBZCLVgkV3Bb2CJ8Bq6JCFQHBjJDsH1Bm5Wops2de602eoWC4a84vMXL7QQjTKf+vB7cAe1nRI6SZl9mkbKdzzelDFqum07Y2U00ck5ZVxMBAvKvCmDM4EmgXccGb5SWOkvROGEb1hcYZCV85Vh4BSzgqtSHf4kOGnimQ7p28iN/EPmyrA=;lAz7GJVYE3le1tHy/+YVLw=="
 ---

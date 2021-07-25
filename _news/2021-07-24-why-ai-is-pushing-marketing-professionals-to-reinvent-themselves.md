@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 Practical Ways to Use AI in Marketing (& Why You Need To)"
-    excerpt: "We’re more than halfway through 2021 and by now, most marketing teams are heavily reliant on growth/digital marketing, and"
-    publishedDateTime: 2021-07-20T15:00:00Z
-    webUrl: "https://www.business2community.com/online-marketing/4-practical-ways-to-use-ai-in-marketing-why-you-need-to-02420037"
-    ampWebUrl: "https://www.business2community.com/online-marketing/4-practical-ways-to-use-ai-in-marketing-why-you-need-to-02420037/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/online-marketing/4-practical-ways-to-use-ai-in-marketing-why-you-need-to-02420037/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 74
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/07/benefits-ai-marketing-artificial-intelligience.png"
-        width: 715
-        height: 292
-        isCached: true
   - title: "The Changing Face of Marketing: How AI is Inventing the Future"
     excerpt: "Artificial intelligence is changing the way we do marketing, and it’s happening faster than we think. From voice assistants"
     publishedDateTime: 2021-07-23T20:00:00Z

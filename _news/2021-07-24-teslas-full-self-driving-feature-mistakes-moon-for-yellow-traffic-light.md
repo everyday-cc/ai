@@ -135,20 +135,6 @@ related:
         width: 1400
         height: 800
         isCached: true
-  - title: "Consumer Reports says Tesla's 'Full Self-Driving' software lacks safeguards"
-    excerpt: "Consumer Reports said Tuesday that Tesla Inc's (TSLA.O) \"Full Self-Driving\" software lacks safeguards and raised concerns the system's use on public roads puts the public at risk citing reports from drivers."
-    publishedDateTime: 2021-07-20T14:43:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/consumer-reports-says-teslas-full-self-driving-software-lacks-safeguards-2021-07-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/WrAwzdBWDquk_bV72wsGJZPV68w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HDQRM7OIIVL4VGTYEQLIIH474U.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Visa Rebrand, Pandemic Optimism, Tesla Self-Driving Cars Top This Week’s News"
     excerpt: "In this week’s news, we saw Apple Pay Later loom as a threat to card issuers, and Visa’s rebrand is about being a global acceptance network."
     publishedDateTime: 2021-07-23T17:00:00Z

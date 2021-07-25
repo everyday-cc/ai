@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/07/210720114322.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/07/210720114322.htm"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -21,24 +21,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "A machine learning breakthrough: Using satellite images to improve human lives"
-    excerpt: "More than 700 imaging satellites are orbiting the earth, and every day they beam vast oceans of information—including data that reflects climate change, health and poverty—to databases on the ground."
-    publishedDateTime: 2021-07-20T14:07:00Z
-    webUrl: "https://techxplore.com/news/2021-07-machine-breakthrough-satellite-images-human.html"
-    ampWebUrl: "https://techxplore.com/news/2021-07-machine-breakthrough-satellite-images-human.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-machine-breakthrough-satellite-images-human.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/a-machine-learning-bre.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "tOw0oI0dQOftVc5c4R65ah9xbk7OZUjZ4EnvS1UWaug6nIHqehB5NAzeKx+yK1ylDAs25Nh4V+V9/BoM3EtshH98w3JUoDqXnsFIVPdUa/uZ/6dnPC4wGQ+TD4N8Gl7oEwaASbvT9Jod7FVpm6Lcemb8vy+bcU64i8oMPFi6tyzxJJsStunDf/GKQRF9Tg+0sW516IpCysSX+9jJ7De9xDO8oMLrpJ2U7Skmn2UM4+bH/3kOw/C9xM5YNqDvd4g4kNUBXUezvYi24vLk9j+1Xr6bevyMbvrO5eec+FNDhG3fgpAMJC1Qmo9jV/C5lI5XA/XYG/skUoJkjk1iB6qTOSDaUi5jW+A5lyHfkSnh+W0=;bUtpDtzHHb4523/yoSZpmw=="
 ---

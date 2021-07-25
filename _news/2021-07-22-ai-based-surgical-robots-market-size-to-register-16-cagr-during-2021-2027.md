@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots
 webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22"
 type: article
 quality: 82
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -82,17 +82,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 19
-  - title: "Artificial Intelligence Chipsets Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial Intelligence Chipsets Market size is expected to grow at an annual average of 35 during 2021 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the continuous advancement of technology Due"
-    publishedDateTime: 2021-07-20T13:16:00Z
-    webUrl: "https://www.openpr.com/news/2332911/artificial-intelligence-chipsets-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2332911/artificial-intelligence-chipsets-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332911/artificial-intelligence-chipsets-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
 
 secured: "FM3ftvTrYcG8vHfLNdIVKMxSlz4stOlswcuOHcT9Eso4OHJO9qULK73ZwF+K5+miE8rlhmBrRZTUdr8sDJyBQqg0JIrwsTTFz7awdOe4n3LpD1Ag1NQ+GglylhBaC4n7Vs04Qor3h9Owu0mo60kuHVJI9G2Wic5Q8hOx79c+Oz5wA5ktmvdRdHDnkj+VoNX428o6c0aZrNFNIPDC8idBE8WvC4pE+sxvdOrEJfbcaVh85BcWi/DpW5D7oaHbA3SU5hXeurI0K1dKZRPtsDX9w95u3VdYhSgYY6Gj6s6kp3QwKpNX3+98+Oc0vfzRWmSmIW1r8Y4EWW01apgU/uGIEiCcOVjtyCNTGNRhIPfZVbs=;2rPbU0oyfzz/Y/S+3SGVyg=="
 ---

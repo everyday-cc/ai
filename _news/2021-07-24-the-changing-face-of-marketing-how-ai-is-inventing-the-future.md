@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "4 Practical Ways to Use AI in Marketing (& Why You Need To)"
-    excerpt: "We’re more than halfway through 2021 and by now, most marketing teams are heavily reliant on growth/digital marketing, and"
-    publishedDateTime: 2021-07-20T15:00:00Z
-    webUrl: "https://www.business2community.com/online-marketing/4-practical-ways-to-use-ai-in-marketing-why-you-need-to-02420037"
-    ampWebUrl: "https://www.business2community.com/online-marketing/4-practical-ways-to-use-ai-in-marketing-why-you-need-to-02420037/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/online-marketing/4-practical-ways-to-use-ai-in-marketing-why-you-need-to-02420037/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 74
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/07/benefits-ai-marketing-artificial-intelligience.png"
-        width: 715
-        height: 292
-        isCached: true
 
 secured: "JkC1U79/+ZgONxqyJREmUXNjjl1kW2HmM7VhfQutE4rJ5IRtmvvm5KVWHH1t7pzPaFa5vw/0PzvT23h+BCYftlMExLyq+Z3+KdoFqdHUMGnTyGmUZnGmLV5rNTTuXciBhh9ecI4Y6N/lO8yS93t9blPO7lTbTUw7sv1a3qcTsAF96HBS/8x8V75Fd3TRtLakvZ1GlcWClYXKtbSK48W7O/JdLPrXJGjaMp1Ivm1eAkK+UTppEHYkPgvGVFcKK3VQbnbv1iKuh2zac03c9qdcBDijEJlKr1EbXFrsCbiJBVDebi8Cwice5y47O0YfqhggDKxkElpS+9PbsIPDxhS/37d8ItCHseTyHRF/dEYu5js=;QKrJazUNvzX7Jss9QTeklg=="
 ---

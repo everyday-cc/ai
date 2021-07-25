@@ -28,87 +28,137 @@ images:
     isCached: true
 
 related:
-  - title: "AI adoption and analytics are rising, survey finds"
-    excerpt: "Businesses are accelerating their adoption of analytics, according to a new survey from Zoho-owned ManageEngine."
-    publishedDateTime: 2021-07-20T13:15:00Z
-    webUrl: "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/"
-    ampWebUrl: "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/"
+  - title: "Healthcare Artificial Intelligence (AI) Market Scope, Future Prospects And Competitive Analysis 2020 to 2027"
+    excerpt: "Market Insights . The advent of artificial intelligence (AI) will be responsible for transforming the way world works in the coming years. Its inclusion in the healthcare is a fas"
+    publishedDateTime: 2021-07-21T12:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market"
+    excerpt: "The Artificial Intelligence (AI) in Automotive Market is expected to be valued at USD XX Million in 2020 and is expected to reach USD 10,573.3 Million by 2027, at a CAGR of 38.46% during the ..."
+    publishedDateTime: 2021-07-20T18:13:00Z
+    webUrl: "https://www.openpr.com/news/2333162/artificial-intelligence-ai-in-automotive-market-2021-next-big"
+    ampWebUrl: "https://www.openpr.com/amp/2333162/artificial-intelligence-ai-in-automotive-market-2021-next-big"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333162/artificial-intelligence-ai-in-automotive-market-2021-next-big"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/U/7/U720586898_g.jpg"
+        width: 800
         height: 600
         isCached: true
-  - title: "Robotics and AI are speeding up our nuclear clean up mission"
-    excerpt: "West Cumbria is delivering the future of nuclear robotics and artificial intelligence technology. Every day the company in charge of the nationally important mission of decommissioning and cleaning up the UK’s largest nuclear site – Sellafield in West Cumbria - is facing new challenges."
-    publishedDateTime: 2021-07-23T07:03:00Z
-    webUrl: "https://www.politicshome.com/members/article/robotics-ai-speed-up-nuclear-clean-up-mission"
+  - title: "Artificial Intelligence (AI) Chipsets Market Size 2021 Outlook, Opportunity and Demand Analysis Report by 2026"
+    excerpt: "Global artificial intelligence (AI) chipsets market may surpass USD 70 billion by 2026, a study conducted by Global Market Insights, Inc. From consumer electronics, BFSI, IT & Telecom, healthcare, media & advertising to retail,"
+    publishedDateTime: 2021-07-21T04:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-2021-outlook-opportunity-and-demand-analysis-report-by-2026-2021-07-21"
     type: article
     provider:
-      name: PoliticsHome
-      domain: politicshome.com
-    quality: 69
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
     images:
-      - url: "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2021_07/DRONE_960X640_JAN21_002_xegibn.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 642
+        height: 630
         isCached: true
-  - title: "SPIN Analytics and RISKROBOTtm, Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SPIN Analytics, today announced the availability of RISKROBOTtm in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and"
-    publishedDateTime: 2021-07-21T12:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-19912463.html"
+  - title: "Global Facial Recognition Platform Market 2021 Major Players, Competitive Spectrum, Revenue Share and Sales Projections by 2026"
+    excerpt: "The research document entitled Global Facial Recognition Platform Market 2021 by Company, Regions, Type and Application, Forecast to 2026 released by MarketsandResearch.biz is an information-rich knowledge hub that assists organizations with understanding the noticeable patterns that are rising in the market."
+    publishedDateTime: 2021-07-21T03:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-platform-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2026-2021-07-20"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 64
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Smart city traffic anomaly detection using Amazon Lookout for Metrics and Amazon Kinesis Data Analytics Studio"
-    excerpt: "Cities across the world are transforming their public services infrastructure with the mission of enhancing the quality of life of its residents. Roads and traffic management systems are part of the central nervous system of every city. They need intelligent monitoring and automation in order to prevent"
-    publishedDateTime: 2021-07-21T21:45:27Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/smart-city-traffic-anomaly-detection-using-amazon-lookout-for-metrics-and-amazon-kinesis-data-analytics-studio/"
+  - title: "Global Artificial Intelligence in Marketing Market 2021 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2026"
+    excerpt: "Global Artificial Intelligence in Marketing Market 2021 by Company, Regions, Type and Application, Forecast to"
+    publishedDateTime: 2021-07-22T02:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-marketing-market-2021-growth-drivers-regional-outlook-competitive-strategies-and-forecast-up-to-2026-2021-07-21"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/14/image003.jpg"
-        width: 811
-        height: 651
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "SPIN Analytics and RISKROBOT, Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SPIN Analytics, today announced the availability of RISKROBOT ™ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2021-07-21T11:00:00Z
-    webUrl: "https://www.financialbuzz.com/spin-analytics-and-riskrobot-now-available-in-the-microsoft-azure-marketplace/"
+  - title: "AI Camera Market-Key Findings, COVID - 19 Impact Analysis, Business Trends,Emerging Technologies and Future Prospects 2027"
+    excerpt: "Market Research Future published a research report on \"AI Camera Market Research Report – Global Forecast till 2027\" -"
+    publishedDateTime: 2021-07-21T08:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-camera-market-key-findings-covid---19-impact-analysis-business-trendsemerging-technologies-and-future-prospects-2027-2021-07-21"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 45
-  - title: "VeroSource Solutions Announces Gerry Fairweather as VP of Innovation and Analytics"
-    excerpt: "VeroSource Solutions, Inc. is pleased to announce that Gerry Fairweather has joined its Executive as VP of Innovation and Analytics. Effective immediately, Fairweather will lead the digital health company's growing data science practice,"
-    publishedDateTime: 2021-07-21T11:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19912390.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 33
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Global AI Medical Image Analysis Market 2021 Growth Statistics, New Opportunities, Competitive Outlook and COVID-19 Analysis 2026"
+    excerpt: "A new growth forecast report titled Global AI Medical Image Analysis Market 2021 by Company, Regions, Type and Application, Forecast to 2026 announced by MarketsandResearch.biz contains a full-scale analysis of the global market which highlights product specification and technological advancement impacting the global market growth."
+    publishedDateTime: 2021-07-21T01:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-medical-image-analysis-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2026-2021-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Market"
+    excerpt: "The global AI in Healthcare Market size is expected to grow from USD XX billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period. At present,"
+    publishedDateTime: 2021-07-23T17:20:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-global-size-share-statistics-historical-analysis-and-industry-growth-evolving-players-intel-ibm-google-microsoft-general-vision/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
+  - title: "Neural Network Software Market Size, Competitive Landscape, Revenue Analysis, 2016–2026"
+    excerpt: "The global neural network software market is forecast to reach USD 97.11 Billion by 2026, according to a new report by Reports and Data. The neural network software distinguish the subtle nonlinear interdependencies with individual patterns of data and self-learn to produce complex decisions without being programmed."
+    publishedDateTime: 2021-07-21T11:11:00Z
+    webUrl: "https://www.globalbankingandfinance.com/neural-network-software-market-size-competitive-landscape-revenue-analysis-2016-2026/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/neural-network-software-market-size-competitive-landscape-revenue-analysis-2016-2026/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/neural-network-software-market-size-competitive-landscape-revenue-analysis-2016-2026/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 31
+  - title: "Automotive Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 Government regulations across the globe are getting stringent for the safety of driver without making them compromise on their comfort"
+    publishedDateTime: 2021-07-22T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2334680/automotive-artificial-intelligence-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "0ulSEGpBWB4F7nsxpz+bm8YVx3MoXuH0XdAeF7yo87aaXS5qtMOCL4h/HhWxnpYydXjAO6rv1oqHv9mqgeLg1Cmqgk/hRtDoMYGE7ohLRTp2dqinb3lo5wigRR3Wjv4fTM82J//Ef5r4cUlTfdTogSYEq2UhvVoUiF1oxlizSkx9ngk55kGQkAOrKiOH8N6lZmCnpbrwOKIdk4ntmLA/e3jdV8Sbpo2cPjpPC1Pb5ZHIjxobEvNWzzIL7pNFylYWPaecdRyfDAIuliuTIH4J8TvRyutP0+jYJo1j5/f51JfLbPx/EfgybxAW5lzv1jSV7xnlcZVW/YN141PBQVuIb70lGpLFQH82UEG8FO7Bn8c=;pTZWb2oCnSnrWWZVMhEipA=="
 ---

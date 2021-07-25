@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Major Study From Stanford University and Youper Finds Artificial Intelligence Therapy Effective at Reducing Anxiety and Depression"
-excerpt: "In the largest clinical study of its kind to date, a team of scientists at Stanford University confirmed a new model of mental health"
-publishedDateTime: 2021-07-15T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html"
-webUrl: "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html"
+excerpt: "In the largest clinical study of its kind to date, a team of scientists at Stanford University confirmed a new model of mental health treatment that uses artificial intelligence therapy is significantly effective at reducing symptoms of depression and anxiety."
+publishedDateTime: 2021-07-15T13:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-major-study-from-stanford-university-youper-finds-artificial-/2021/07/15/9410138.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-major-study-from-stanford-university-youper-finds-artificial-/2021/07/15/9410138.htm"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "63pY1dK2/MW24kIWqy0w43Po0wu2OzAagJHJONj8BXvT20yKyb+Zc6Be1cuxntDdtCxG77VCjbDvHNk55XC2hFyQvJ7GhZDy7KU1zj1sA4JGz3ynseAboqjpomfuI7nNDJ8zJ/zQwb5ZJxlhbJQSwJPEZkoGoR39VTdZwcE6SMnN7wPKaIViKWz/tpTiA5s5nzietw16ZX/6y2H2Fyu2h7ZyKHyJXiUNukjDijOK8WPEgY/PBkNYeVjbpb/0m8DObC9YZMGusJQYDrUBrj9jPsEWiPF21uQFlCx2jIhU1bVRh2BTPhJfgrEHLhYl3Gi0JiwodpEH+h7etvhq80KilvWzoNaKAsTvu83oiRHjVZU=;70TOp8yIbEHchoMR8+qu/A=="
+secured: "kZK+MRgqjTnK+OF5E/L4C81VIWetfhA4of8XGYtgIzcPDLLtXa+t7vSYUC9WIIHJqvjkwC2Ujkxf5lkGWchFf/zxXgVmZiK/gfaa4IAy4Scu6C3C3TKAgcwZ7zW7ofeLeob84FRXBxLKgCBZIWzV22e7cHNy2TiZlUUxlBlOw4EHrvd6H35MEq8KmuokW7OblJ2IvYvwbST/IlwcQxiwZkpy9tUNs/Km8F2Pgc2g1DdIr+6lhAjrsdZ29AwMzccJjn92zvaPxe8qTx+Mx+ARvfazgmJj2sPqsSOMdWAf+Q1mIGcwR1qetFGDBIzGgsUvRXu4c+VywkR93VpmvATRNYKPS93tQvkoh2cExl4dQr4=;Oj2RkY9hP3Ll3GoLixSHYQ=="
 ---
 

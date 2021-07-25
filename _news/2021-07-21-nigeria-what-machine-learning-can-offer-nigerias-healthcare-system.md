@@ -42,20 +42,6 @@ related:
         width: 926
         height: 579
         isCached: true
-  - title: "What machine learning can offer Nigeria’s healthcare system"
-    excerpt: "Machine learning offers improved access to affordable testing and quality of care for those who are unaware of their hepatitis B status."
-    publishedDateTime: 2021-07-20T14:43:00Z
-    webUrl: "https://theconversation.com/what-machine-learning-can-offer-nigerias-healthcare-system-163593"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 56
-    images:
-      - url: "https://images.theconversation.com/files/411954/original/file-20210719-19-hv0n79.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "What machine learning can offer Nigeria's healthcare system"
     excerpt: "Imagine its 2030 and a typical day in a Nigerian healthcare setting. In earlier decades, when a patient walked in, they could see piles of folders and a clutter of pens scattered all over the office."
     publishedDateTime: 2021-07-24T07:00:00Z

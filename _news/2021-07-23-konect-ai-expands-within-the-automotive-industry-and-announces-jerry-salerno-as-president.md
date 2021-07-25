@@ -2,17 +2,17 @@
 category: news
 title: "Konect Ai Expands within the Automotive Industry and Announces Jerry Salerno as President"
 excerpt: "Konect Ai, a leader in automotive artificial intelligence, is thrilled to announce the addition of Jerry Salerno as President as they expand further into the North American automotive industry. The innovative technology company has increased their workforce in order to accommodate the demand for their superior and user-friendly artificial intelligence for dealer lead management and data reengagement."
-publishedDateTime: 2021-07-23T16:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-konect-ai-expands-with-the-automotive-industry-announces-/2021/07/23/9415993.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-konect-ai-expands-with-the-automotive-industry-announces-/2021/07/23/9415993.htm"
+publishedDateTime: 2021-07-23T16:12:00Z
+originalUrl: "https://www.financialbuzz.com/konect-ai-expands-within-the-automotive-industry-and-announces-jerry-salerno-as-president/"
+webUrl: "https://www.financialbuzz.com/konect-ai-expands-within-the-automotive-industry-and-announces-jerry-salerno-as-president/"
 type: article
 quality: 8
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI
@@ -33,6 +33,6 @@ related:
         height: 495
         isCached: true
 
-secured: "TvkCHefcWDJfnB6ZhxU+BxcIbha3FUZ2a1ORLukcSFCaP7rogXBSxNCVTIe9dfzdbes1uAjJ9FZR54XF237P4LxKYvlg46jV8Ta/RHuyYs2UlCcw7VlaOvj/S0PwqNQ/BxnOH5EuFt5mq5tNMCRyUmSf7xI8LMhvgIRKDty+9DMAKh8MLajLinYsh7clwaEGF+eCFJUzF07geQorCYEdejRybWJkedk7H/h4wamzjzqng32pNo69N63vvJO5vqxbYPst5XLM/wymQrRNT7Yuoq9ZJfL/fT+6QNQKNR8I6Ozxr7OKpn5dYfQDKOJ5+e1Qn6Gu8nmQBVtLs0mIAHMNUGJXOaTyPcB8ib3hfMyDQI0k+vcPOQzawT+/XQOJoovvqTXXsWYt5vr0QSN2c0OTHb9QFvEZlZh1UmebrbMKjHHztlb1cyJFryCRGkhtEzs3VF8AufZ+pqK7N3qZeloNu/A+BkrwukG4G1AF8qz2AqfcbJI+/uzq7EewoZQ6n4rO2iN9zf5XoyklvVoOQKWNjw==;4a/koLqlPP5MGYROCdX7bg=="
+secured: "CDO4oddzZUZSStPU7XCOOPKCQXPhBdLCddKhXqTFntnXWuoTVzyhnHY4/kS5p73fQ3EcFEUM/o2DGHr35JLNyjrK4VNgo38MbwmVc+WiM8LVunIrEKWLe23kb2o4onWIk4i8Yj/B5v5quDFDayM13jXVOy7EV5O1mBu8lSVVTmpbDw5Ioy/KT8MQMRGhQKXAN15TErvmtAxXRpHo+MSzeV/FGQCcw3TPbpaniRIOIBlhx2X5WnpiuynbjpCWS0QIcA2k5LbP/AbBz9EQbnvqvReq2XAfZ4dcPbvHtFeSksx4vA63QGmZA9uhL0aAAS7o/6AjIDQQoHYCHycV7OVVvWQ6c/RxHkhZvFfiPNw0W76wtIkAktrdp0pdmEile0mk1JzclY+f2pRZD/YBRmaviHMebaPLcWaWM6LvtsubvNueB6qvNFqp/DG5LEXCr3sRw7X4lhUwNvJqpLwg9JMzf9syxpanN2bsgg5eHEz8q1PUb/r32WiScxfjpfKo52wtjiIfTiEpAWf8JV7L64MmcQ==;lQaLhnKCy+Hy0q3vVvPl5w=="
 ---
 

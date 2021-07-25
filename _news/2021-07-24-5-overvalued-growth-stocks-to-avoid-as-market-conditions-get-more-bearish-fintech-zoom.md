@@ -82,19 +82,19 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Music Fintech Company Offers Advances Up To $1 Million To Drive Artist Empowerment And Freedom"
-    excerpt: "PRNewswire/ -- beatBread, the pioneering music fintech business, is stepping up its support of music talent through the activation of agreements that allow the company to provide financial advances of up to $1 million for an individual artist for the first time."
-    publishedDateTime: 2021-07-20T13:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-music-fintech-company-offers-advances-up-1-million-/2021/07/20/9412945.htm"
+  - title: "New FinTech Innovations that Will Change How Clients View Wealth Management"
+    excerpt: "Innovations within FinTech are causing major changes to the dynamic between clients and wealth management providers. With technology as a driving force behind industry changes, understanding how client perspectives are shifting is crucial."
+    publishedDateTime: 2021-07-23T19:42:00Z
+    webUrl: "https://finchannel.com/new-fintech-innovations-that-will-change-how-clients-view-wealth-management/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
+      name: The Financial
+      domain: finchannel.com
+    quality: 22
     images:
-      - url: "https://mma.prnewswire.com/media/1574686/BEAT_BREAD.jpg"
-        width: 400
-        height: 400
+      - url: "https://finchannel.com/wp-content/uploads/2018/08/images_fintech.jpg"
+        width: 800
+        height: 534
         isCached: true
 
 secured: "ByxH5E6NLZz2PpGUnLyFuQ38qheed8W5VUBGLwbnwGXtOTvPFKEfkbE/aqtvFyiT7XRBviykLPn/suJJkSVon/k3xD/foKV84a3fiNgnQuNwsp72YmT2VcFfDiHmAL7Zz0EziUAt2xU2KwKfIZG5Ps97TyHIzag+GVKZ3spGOqrEhjQ0rjoGoY4wjwkKu2eKC5QT0K2ayobvE8Ir+la26oPtCuOtd4kH3EnNliE+TXj/ydrN16S245CDcz6o0YRd5ZLMR56xpm4gmartWGD8ENnAiJSUV2aBXwVHLu7BJTpCJp5AVIu8QnqiO4Uow1Ev9+Zt1G2F6Jv9WkJH5Oq6NV7wSyAVmrDNJ9ivI5Q0cXsiD2RagSXIZbjh0x45UGLiKRjpYAJT8d0QUOePv3aEaerFtreXdGXCX2rTUckk49QJQJ0SgjK8duk38yyJiCpW5pMsRdEZa8L/ygLfvyIh4yu2Ada2x6uHKR9lY/bvchqe1ItVNrz/m+VGWn/ilxLA1MS1mLTF5eKcLB0CL5G9hQ==;7QFDPO6iTgXBtss7J4j4Xw=="

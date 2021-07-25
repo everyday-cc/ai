@@ -123,20 +123,6 @@ related:
         width: 1400
         height: 800
         isCached: true
-  - title: "Consumer Reports says Tesla's 'Full Self-Driving' software lacks safeguards"
-    excerpt: "Consumer Reports said Tuesday that Tesla Inc's (TSLA.O) \"Full Self-Driving\" software lacks safeguards and raised concerns the system's use on public roads puts the public at risk citing reports from drivers."
-    publishedDateTime: 2021-07-20T14:43:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/consumer-reports-says-teslas-full-self-driving-software-lacks-safeguards-2021-07-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/WrAwzdBWDquk_bV72wsGJZPV68w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HDQRM7OIIVL4VGTYEQLIIH474U.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla's Full Self-Driving Feature Mistakes Moon For Yellow Traffic Light"
     excerpt: "We all know that werewolves and ocean tides are both impacted by the moon, but we can add another item to the list: Tesla’s Full Self-Driving feature, which is the company’s NHTSA Level 2 driver assistance feature."
     publishedDateTime: 2021-07-24T15:00:00Z

@@ -51,6 +51,29 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "SPIN Analytics and RISKROBOTtm, Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SPIN Analytics, today announced the availability of RISKROBOTtm in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and"
+    publishedDateTime: 2021-07-21T12:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-19912463.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 64
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "SPIN Analytics and RISKROBOT, Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SPIN Analytics, today announced the availability of RISKROBOT ™ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2021-07-21T11:00:00Z
+    webUrl: "https://www.financialbuzz.com/spin-analytics-and-riskrobot-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 45
 
 secured: "FQb34Gexs3hHBLP+87c27+8J7b/kW+UcHaUSqNlmdKUoFdFXTigdre//1QGUIUKlugRzGRdUReKffAtIhhcYpPJjM7FSsEGmzFky3j4H0cnRC0X7IFf4U516fzx1bd/wH5lUX1BwXk05N2bcoMXo7uXTXeUAso2hmoB2fV6xtSYU0RtOt+AEMI0sSsUAX3MHgCIYT6lxve6nO+YI7Dm9mqlSx7SaIWC58StuvJ1Hj4y2IAL8jT7JmQnZA3vXEHT19GzZDkAfM2Y+koglVPg13doNm/GjUCtzgjH8UQz1IqO9yREgEMLp0LGRUiyBeYawdEgCQyT1He5qkFghQ8KB1xS/Vdj2eLjsNV/LD+vU5/4=;Lkw7WJIsgGdcNnarllzxzA=="
 ---

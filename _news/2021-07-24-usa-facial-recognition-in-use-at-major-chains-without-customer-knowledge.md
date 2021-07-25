@@ -33,15 +33,6 @@ related:
         width: 1800
         height: 1314
         isCached: true
-  - title: "From Macy’s to Albertsons, Facial Recognition is Already Everywhere"
-    excerpt: "US's most popular stores — including Macy's and Albertsons — On July 14, Fight for the Future helped launch a nationwide campaign to document which of the country's biggest retailers are deploying facial recognition,"
-    publishedDateTime: 2021-07-20T14:43:00Z
-    webUrl: "https://cacm.acm.org/news/254132-from-macys-to-albertsons-facial-recognition-is-already-everywhere/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "KApAxf7hHSZz2bOpGHcrl8MA2ZpvQ2bZ1yZg4W4j3fN15vbVsWdJIfVaHZTlgVsDIiOmD9u+XexDUCAxwZCn8ZSIeqblzVBXNVBhaYYnrc5Y9nfAksxMDDdhJ/oiuA24WpCpbT9FZnOeEFOJKD55+NwzjpEMCpu4vKCjgwLVitfApxMpTx7oWA73XtthmdcIkxEyNz20juaD+8mBt6tRrAuAGvnvd2UN6j/vK/3DUoa5dEqsYC8NqJ5CiyQ6IhsGiikZbXMvIylXst9Lz7P/5ok14H/n9OAy8DWZwpaB3alLrsPEV1H04oOdaBtD1qDFEfmba7fk3bzAu2KB94/7DaCuJkYbX6BCbzX6+Q5j5jc=;ehY55vQ/QUFUhiGbereU+w=="
 ---

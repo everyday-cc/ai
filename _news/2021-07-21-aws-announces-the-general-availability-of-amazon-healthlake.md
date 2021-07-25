@@ -41,19 +41,19 @@ related:
         width: 389
         height: 389
         isCached: true
-  - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
-    excerpt: "Redox, has officially launched a new Amazon HealthLake Connector offering to help providers, digital health and life science vendors,"
-    publishedDateTime: 2021-07-20T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative-301337490.html"
+  - title: "VeroSource Solutions Announces Gerry Fairweather as VP of Innovation and Analytics"
+    excerpt: "VeroSource Solutions, Inc. is pleased to announce that Gerry Fairweather has joined its Executive as VP of Innovation and Analytics. Effective immediately, Fairweather will lead the digital health company's growing data science practice,"
+    publishedDateTime: 2021-07-21T11:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19912390.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 33
     images:
-      - url: "https://mma.prnewswire.com/media/680972/Redox_Logo.jpg?p=facebook"
-        width: 902
-        height: 475
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "1Strategy Announces Support for AWS for Health Initiative"
     excerpt: "Strategy, a TEKsystems Global Services company and Amazon Web Services (News - Alert) (AWS) Premier Partner, announced support for the AWS for Health initiative to help accelerate solutions in genomics research."
