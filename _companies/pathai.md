@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Path_AI"
   url: "https://twitter.com/Path_AI"
-  followers: 1144
+  followers: 1145
 
 locations:
   - Fremont, CA
