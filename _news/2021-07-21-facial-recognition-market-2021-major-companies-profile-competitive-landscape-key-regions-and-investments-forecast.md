@@ -54,6 +54,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 17
+  - title: "Facial Recognition Market Analysis Shared In Comprehensive Survey Report With Forecast From 2021 Till 2027, Key Players -Keylemon NEC 3M IBM"
+    excerpt: "This global Facial Recognition Market study made available by Decisive Markets insights, looks both from the inside and from the outside, at the worldwide market, and aims to provide both an in-depth and broad picture of the market."
+    publishedDateTime: 2021-07-23T10:47:00Z
+    webUrl: "https://manometcurrent.com/facial-recognition-market-analysis-shared-in-comprehensive-survey-report-with-forecast-from-2021-till-2027-key-players-keylemon-nec-3m-ibm/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 4
+    images:
+      - url: "https://www.mccourier.com/wp-content/uploads/2021/06/300-x-300-pixel.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "hC27DaDay+qWG/rB18EjMp1JonDIoHsHyBTiH5S+UrQNkSIT+0AhJKwQfzTxHKXp6FhpF9hqwS08ZrlU4gJ9ZK39y0RDHJ3ZjbzVlkq00tBxIVCoK8sd9aFguIZED+ruvyhWMDrsoH26ybk+auLSiJFFobJ3tm3Zq2Zxs1eqmBIRsG/SP8NZ6qa4EV5dBrtavg5J65GglD1RRbWB5IpkWSK52T0+7T4Fvr9YRnw41w0TEWfbE7QXz2clpOFf3lGSggjiWxAZgQpdyWaCI/AwM3UhNgxDfG3SxclTSOBo5qEN/xYdC97kGe5wGjgw+WGl5ufVxkJw/PTiX3py0KIaORkG6CYRRaiq3LVtYsqaahE=;9YYRwHUELHNbek812zb2SA=="
 ---

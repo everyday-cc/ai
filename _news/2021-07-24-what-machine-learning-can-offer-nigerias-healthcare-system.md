@@ -42,20 +42,6 @@ related:
         width: 926
         height: 579
         isCached: true
-  - title: "Nigeria: What Machine Learning Can Offer Nigeria's Healthcare System"
-    excerpt: "Analysis - Imagine it's 2030 - and a typical day in a Nigerian healthcare setting. In earlier decades, when a patient walked in, they could see piles of folders and a clutter of pens scattered all over the office."
-    publishedDateTime: 2021-07-21T04:31:00Z
-    webUrl: "https://allafrica.com/stories/202107210020.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 56
-    images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
-        isCached: true
 
 secured: "5w5WZTZQbqc/gw5DwO92QSBPHRkX+EaSbiYE7dcGTffw4s8tt2JYdcEIJV2Sce6ADfA41ZYNG/ozKvhJYrIoh535lnu6UVAYa6jaeBNBlEP0cUZiETYuuiymZILucJQJLFklELwsSDGKDGazzVYXJzZh71vwye1x2BRNjzdLLn0AWdtk3CGz0RWk1/nOx1+qpIrzeuYlX9OC1CfFKAhpss/MaaBNJkpa/rpawrPfJi+MZNp/feEjcJ7RC1GBz+LZmtbpC6wexvTdVkIKRb8hCEWdIyRvJEbGXRIujq8D/4lziRcXQ3GObYFAgGHtM44wOFc8Mqmu/Bldi+SkcPQEP+F2/kO5SJs0OBilpbxAAJeR4R4jzYFlufoy7jM665dyhTcgrz13k2Lg4gmqrvo+nODUttmQTJtNyceCLWk0Kq4gfyVGSQxCWMTvhawcFVD562WLEEOAoXj4nFbUlrCBowCp31aJZCWMt2rPySelBglAG08Xe4vS/l1SiFbkUOPlSV0PZX7oiIDeyT67FfDZUg==;fj8LOL5qT8qYxmmNyprWBA=="
 ---

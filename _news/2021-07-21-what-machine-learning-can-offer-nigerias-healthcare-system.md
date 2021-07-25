@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.am
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-machine-nigeria-healthcare.amp"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nigeria: What Machine Learning Can Offer Nigeria's Healthcare System"
-    excerpt: "Analysis - Imagine it's 2030 - and a typical day in a Nigerian healthcare setting. In earlier decades, when a patient walked in, they could see piles of folders and a clutter of pens scattered all over the office."
-    publishedDateTime: 2021-07-21T04:31:00Z
-    webUrl: "https://allafrica.com/stories/202107210020.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 56
-    images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
-        isCached: true
   - title: "What machine learning can offer Nigeria's healthcare system"
     excerpt: "Imagine its 2030 and a typical day in a Nigerian healthcare setting. In earlier decades, when a patient walked in, they could see piles of folders and a clutter of pens scattered all over the office."
     publishedDateTime: 2021-07-24T07:00:00Z

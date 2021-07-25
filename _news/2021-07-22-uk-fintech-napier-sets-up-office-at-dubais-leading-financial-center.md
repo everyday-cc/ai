@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_226923548/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_226923548/"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
       name: fintechmagazine
       domain: fintechmagazine.com
     quality: 4
+  - title: "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-07-25T19:28:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/infobirds-successful-launch-of-intelligent-saas-for-a-leading-fintech-company-paves-the-way-for-further-expansion-in-financial-industry/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 0
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1627237893_yahoo_default_logo-1200x1200.png"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "mVYJfEtFre/rRC4GwVdj4EDk5i+Or/yflZ7TL4ovdVoMGEUuAAylNV6e1b09Stuvgl6B5TUp488s+0AF2UAQzynQQGhuOrRbdPgV8X81OJao0qZP6U/qfhmfpqUQcUWXOQh+3OfYx3w83U+i3K9wrUd7WiLR5DM6+0VpTzUZfnPKDg6NMbLBqAbQz+4dd7GPSotIRXKZZshxAAziyo8vdpf3n1ppLmsNXNxEHaz4xw+Q0DywLNk9ffI7Oa4ipSx7J20Wr3VLBgGoQy5fqIBukMYPEDMdm+1Gp8SP6qT5tv3EpUdIyVbeRHFifuqtB1TD70KSb7wweRfn8BjXgOK3oqBdycDvQAYCFAryGRA2B24=;xUtlEHm51it3mjDZf2eKWg=="
 ---

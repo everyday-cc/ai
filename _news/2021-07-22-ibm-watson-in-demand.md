@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Weekender: ‘Ted Lasso,’ Tokyo Olympics, IBM’s Watson"
-    excerpt: "Juno Temple finds acclaim in “Ted Lasso.” Also in this edition: portraits of New York City service workers, and the fate of IBM’s Watson supercomputer."
-    publishedDateTime: 2021-07-23T17:28:00Z
-    webUrl: "https://www.nytimes.com/interactive/2021/07/23/briefing/the-weekender.html"
+  - title: "What's Wrong with IBM Watson & Is Narrow AI Helpful in Healthcare?"
+    excerpt: "IBM poured millions of dollars to revolutionise healthcare, but the experiment turned out to be far more difficult and time-consuming than expected."
+    publishedDateTime: 2021-07-25T20:41:00Z
+    webUrl: "https://www.bbntimes.com/science/what-s-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 69
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 71
     images:
-      - url: "https://static01.nyt.com/images/2021/08/07/multimedia/07s3-weekendere-saturday-cine-vid-cover/07s3-weekendere-saturday-cine-vid-cover-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://www.bbntimes.com/images/articles/global-economy/IBM_Watson.jpg"
+        width: 1620
+        height: 1080
         isCached: true
 
 secured: "E706Ubt3xxmyX7DPTg0NcVWanbZpFVk1gOnPPV51G+j3DIcA7hv5yZi4eVueXNoX9Ngfa39G4OAGfN60ybccwZBPELfJTvem0d4GbcVSoLeut8KFO3tDY4nRQA7tL31JZwO1ME4Nr1bhgtZZeoy7HyUinLa72fn6JtkTTtqiFniWfOPIaqPDcCK9joUF2oIl+l+THr/9LMJP6wiyvHkIpfEa5CYMrCvoZzQVn3/jXV8Zy4wQgArnxhah6XmFYxcthqDosIP7T1ho4zQXkdmV88QuwbzjxtVxPxiIgMLgPgYrbNzhuPbFZmL9fJBWllbGbZINFnKGJO/pYr6j0LA9qvwWG3OsJCNqEthpXjDVMQ0=;4Tk+epANwN5mAW3copr9Xg=="

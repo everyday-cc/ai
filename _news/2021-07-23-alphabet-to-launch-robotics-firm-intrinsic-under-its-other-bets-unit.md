@@ -1,13 +1,15 @@
 ---
 category: news
 title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-excerpt: "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ..."
-publishedDateTime: 2021-07-23T14:02:00Z
-originalUrl: "https://www.reuters.com/article/alphabet-other-bets-intrinsic/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-idUSL4N2OZ212"
-webUrl: "https://www.reuters.com/article/alphabet-other-bets-intrinsic/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-idUSL4N2OZ212"
+excerpt: "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and advertising business, Google in 2015 established Alphabet as ..."
+publishedDateTime: 2021-07-23T13:58:00Z
+originalUrl: "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212"
+webUrl: "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL4N2OZ212"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL4N2OZ212"
 type: article
-quality: 86
-heat: 96
+quality: 106
+heat: 156
 published: true
 
 provider:
@@ -24,12 +26,26 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://www.reuters.com/resizer/RkqwUqV_pSTg-8Gt3pKHghTeZuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2DMPV6O5NJERDO3F7MHS7QIA4.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ"
+    width: 817
+    height: 545
     isCached: true
 
 related:
+  - title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
+    excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ..."
+    publishedDateTime: 2021-07-23T18:48:00Z
+    webUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://www.reuters.com/resizer/RkqwUqV_pSTg-8Gt3pKHghTeZuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2DMPV6O5NJERDO3F7MHS7QIA4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Google’s Parent Alphabet to Launch Robotics Firm Intrinsic Under Its Other Bets Unit"
     excerpt: "Alphabet's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
     publishedDateTime: 2021-07-25T06:32:00Z
@@ -46,7 +62,49 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Alphabet launches robotics venture Intrinsic to train industrial robots with AI"
+    excerpt: "Google LLC parent Alphabet Inc. today announced a new venture, Intrinsic, that will focus on making industrial robots easier and more affordable to use for companies such as manufacturers. Intrinsic is a spinoff from Alphabet’s X research lab."
+    publishedDateTime: 2021-07-23T17:21:00Z
+    webUrl: "https://siliconangle.com/2021/07/23/alphabet-launches-robotics-venture-intrinsic-train-industrial-robots-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 67
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/image-1.png"
+        width: 837
+        height: 471
+        isCached: true
+  - title: "Alphabet to launch robotics firm Intrinsic"
+    excerpt: "Alphabet Inc's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic"
+    publishedDateTime: 2021-07-24T14:00:00Z
+    webUrl: "https://www.postguam.com/business/technology/alphabet-to-launch-robotics-firm-intrinsic/article_7fcaa630-ec32-11eb-bcf4-2fed448fc017.html"
+    type: article
+    provider:
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 56
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/b/18/b1820ba0-ec32-11eb-8c4c-ef3221dca135/60fb8ed9820f4.image.png?resize=955%2C630"
+        width: 955
+        height: 630
+        isCached: true
+  - title: "Alphabet to launch robotics firm Intrinsic"
+    excerpt: "Alphabet's secretive research unit said it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
+    publishedDateTime: 2021-07-25T19:43:00Z
+    webUrl: "https://www.itnews.com.au/news/alphabet-to-launch-robotics-firm-intrinsic-567840"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 56
+    images:
+      - url: "https://i.nextmedia.com.au/News/CRN-690-alphabet-blocks-Google-iStock_000005540474_Medium.jpg"
+        width: 690
+        height: 428
+        isCached: true
 
-secured: "1ru9zCYuENZ7JTq5IfjfYB0bZPWDO1JysrGY7V8lLo6rQUew6VkSR9OrKUeNGZxTcyTsCafqmZhv6Fitu3/znKxAeyYhFzK2lQbasKkNfIc88NKcNNqX3KpO5Ad9Pn/FtzVn915aaX/e3qqFT9U8K+ztDXIa4e7jG3QjLCs4bpmNvIREgck5lY3KMFwVWa3khHJ4M78uT04Jk8J/vVbYCzcBW8K8VGxZn7f2VmS1VHrvgDOdAyOsHxZ4fH8EaPuzDW9c0yX9DoM3XVwWWLpETL8nJHR2nMn+Hb/d6GB7l8kxfpKtAE6XOLnp/EMIZNQ+dUyq5j8rpdHI+dHECpivBqymIYR/BO/VAR12HNzDxio=;PsxF474Z13ZX5q151aA/3g=="
+secured: "qwnc/g+N6G8awyVH97Mjj52kjts18o4Qf1QR/prul6ogGlhWX4gLuFZSyLhK5nCj42g0ohJJ2UjqWw7i4rqZd7rQ7qJ20QtY/9o8d/KiKbTDBqxFJkpRmdURbBoYqQG54xsvDbuWT0MjX5kbl69pM+Nku9ELPtwzqxq3QPvhqXnjy5vB0eZI2grwm+Xd6sfGA5UrPePguW1Xng15ngn4cqrSevq3+v8F1205yZAmxI7xM7eVDVAC1/ZgRLFgexH6X6YJiX4ugB8rSIYciQ03OJ2gGsT8Je5zJW7gQT94sxp1OsGYG0RDJJGn+TRhmzOvYG1wIgXDFTwvLVLZRZ43ciVG0ayh9AAN9hFmizWNBqE=;z2iCVlRVXJ4bL0ip6nAbkA=="
 ---
 

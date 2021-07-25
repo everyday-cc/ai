@@ -116,6 +116,20 @@ related:
       name: fintechmagazine
       domain: fintechmagazine.com
     quality: 4
+  - title: "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-07-25T19:28:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/infobirds-successful-launch-of-intelligent-saas-for-a-leading-fintech-company-paves-the-way-for-further-expansion-in-financial-industry/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 0
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1627237893_yahoo_default_logo-1200x1200.png"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "nuMGamJckhovM03x8xVOYNUBuVd/zKQ1StStmsxAf0OMnj12RZgZL1/tPGyorBYtYiFXS0DUbl7bfh/BHq3+FG7mYwSW2H0H73yKXtyvxW9kbA6Nu3lB9NydcDoi65g4IKLVoD4aj1K8fQJrH+fnvPpJTQqxgXNFplhGolwHPaCjs3XnxlO9xXQxbkglBA7J6AhpGp/SRFJXgQFnbU5SQ1ZJtQB2kzOWB7FidRerR4TwP8xmVK2uTDxuf7gDn0rvkVS5RFxSJI8fnD0WOKNR1zYJ/py6SuvJ3gBYVTLbrw8zez9zw3YaS0M4qsCS+ZjbGlf703INXUM9c5dVSQG/wp861vlyLdZzR2LutCSTRZ8=;OtvND5ROZ9krtf8UQ6E44A=="
 ---

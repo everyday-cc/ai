@@ -26,21 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet tackles industrial robot software market"
-    excerpt: "Google 's parent company Alphabet has launched a new company called Intrinsic to make industrial robots easier to program. Originally a project within Google's X research group, Intrinsic has graduated as an independent company within Alphabet."
-    publishedDateTime: 2021-07-23T17:06:00Z
-    webUrl: "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market"
-    ampWebUrl: "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market?amp"
+  - title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
+    excerpt: "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and advertising business, Google in 2015 established Alphabet as ..."
+    publishedDateTime: 2021-07-23T13:58:00Z
+    webUrl: "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL4N2OZ212"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL4N2OZ212"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 106
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1620312937/itpro/2021/05/shutterstock_manufacturing_robot_AI.jpg"
-        width: 1260
-        height: 710
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
+    excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ..."
+    publishedDateTime: 2021-07-23T18:48:00Z
+    webUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://www.reuters.com/resizer/RkqwUqV_pSTg-8Gt3pKHghTeZuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2DMPV6O5NJERDO3F7MHS7QIA4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Google’s Parent Alphabet to Launch Robotics Firm Intrinsic Under Its Other Bets Unit"
+    excerpt: "Alphabet's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
+    publishedDateTime: 2021-07-25T06:32:00Z
+    webUrl: "https://www.news18.com/news/tech/googles-parent-alphabet-to-launch-robotics-firm-intrinsic-4004633.html"
+    ampWebUrl: "https://www.news18.com/amp/news/tech/googles-parent-alphabet-to-launch-robotics-firm-intrinsic-4004633.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/googles-parent-alphabet-to-launch-robotics-firm-intrinsic-4004633.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 69
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/07/1627194566_google_reuters-1-1600x900.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Alphabet launches robotics venture Intrinsic to train industrial robots with AI"
     excerpt: "Google LLC parent Alphabet Inc. today announced a new venture, Intrinsic, that will focus on making industrial robots easier and more affordable to use for companies such as manufacturers. Intrinsic is a spinoff from Alphabet’s X research lab."
@@ -56,19 +86,19 @@ related:
         width: 837
         height: 471
         isCached: true
-  - title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-    excerpt: "Alphabet Inc's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project,"
-    publishedDateTime: 2021-07-24T01:40:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056"
+  - title: "Alphabet to launch robotics firm Intrinsic"
+    excerpt: "Alphabet's secretive research unit said it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
+    publishedDateTime: 2021-07-25T19:43:00Z
+    webUrl: "https://www.itnews.com.au/news/alphabet-to-launch-robotics-firm-intrinsic-567840"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
+      name: IT News For Australia Business
+      domain: itnews.com.au
     quality: 56
     images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15280054/16x9/991/557/8aa600f18375888ddef8e65715e2d356/gZ/file-photo--a-sign-is-seen-at-the-entrance-to-the-google-retail-store-in-the-chelsea-neighborhood-of-new-york-city-2.jpg"
-        width: 991
-        height: 557
+      - url: "https://i.nextmedia.com.au/News/CRN-690-alphabet-blocks-Google-iStock_000005540474_Medium.jpg"
+        width: 690
+        height: 428
         isCached: true
 
 secured: "ZAlwdPoshz7nph3hQOuayz3+eIW9w+438B4VJOQJVG+xT/ZeJB4XFX5WpbMd05JDXqpoCmIQbsRwOoHls7nuY97MtwJkF4Ka0D0q6/rQvfYT8Vfii3W+aDjtFN1rONip1pfNW7FxUUodJKFBW+MoOzpLk44Z0QbD9lsrAcE+nHqycZBhWPBhmNAvZ+hlPbgEb5qS16lQPgfWipfPNrd1vSuWYwUuPxyfgRjuPLn8qY1pA5nRsTcTGhrHG/2tcdbLPhGhyYko2RXJ+XpOSgAeW4uTFnRw1kF+sdI77q3OjiG9AB5hSNedI0rqFWnpb5jdtWkeC7qBeTAXSnwxC65f2NvdcFta1kvfrI1LscqRqKUbsoH8RIkmk2Dp4aLmVVB0OI74ARq/VDPxirtNg4mn3EyONNFIilsIdnmgjjcMHDmfZz5RKOqKDXm8YeihI3CmKxD+b+fDsaYon2XSNoZS1AxJfIikSUwFqrZJC0lfuiHgD8KAkVYZrQDm7Fu9TcdY8hN6Uxb1ZaVBq3GjDRNggw==;6bPiGMNu8PNsQ3NNdi4qsg=="
