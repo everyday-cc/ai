@@ -2,7 +2,7 @@
 name: "Dataminr"
 overview: "Dataminr is the world's real-time information discovery company that turns information chaos into opportunity. Our ability to find and deliver information faster than any traditional source has completely revolutionized how critical, relevant and actionable information reaches the News, Finance, Public Sector, Corporate Security and PR &amp; Communications industries."
 type: "profile"
-heat: 77
+heat: 31
 
 website: https://www.dataminr.com/
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "4G9TxzeS4NvhHqwzHzsvQZ7lNc/A9e89318pNC2aTzfVMJ/U6rMJHj0KE4s/81OGCiX5/IqwxeaIo1hjjQw4AHck3Pnbz49TGM6JKt1p1jtoy4FXSmtMvNbk8I+mVpH2HMp9jI4RVJr+/EN7gTMAslQU9xheRxCTbLW4NqhDrK1o0T+6hnCyeKOPylwl4MmW6XyW9rjHxypHjCewjkKd3caF2nKAEcdB3bBou7c9k+0pZD1Oxef/H4i2OTZuHMReg8ey1zgFbhc33JfaGFZBVy5yQKEDoZHqMtqP1irY1kre7H+yT4TpcZKG7YTu0o+q7aIt50crvB/9T8Irk4s0MmAtj5qBMSg7Q8MlIQQeuO3oZ1R5BvlFqYPq34prpPOc/yXwYBouSO8R3UL6bOrYazvoRuFG/Mo/UX3ePhyOaFM=;8ldDi7TsEJV1x58ZulXGHg=="
+secured: "UCmoHiYPZnAOwUbYVnBYyXobUKVOSrgDVp0U2J6gcNRV8rwJK1O1B0XFIuPDfQhloTea8M7x3QTSrcvNN+2VZBjcvYK1sJWXjRjAuUnGOetTBZmr4U/B3sr9wmC2t2zQR/nXVaEisMSW78OpHrRJMIcK3wzE+Y8XUb6ZtbJGFgBwJjPJereh5yq6pMeiYyUV1I6W+Ezim/GlsSSfUFlwDGbSJcyxSqnjidV9VH5jO+AOKJudBntRQZeM6E9GWfu1EcT5xyrgTk1/NHb0LoR0eQ52uVLuQ1SA3R8J2l5JUovHihi40KbueF9OjS4eoMDBPz1xBJY/N9tBEoQ/UTOSfKYE9CxtclI/u09HiQHyGSidJ8WnJifxKKg1FUoRB/SxwqYPBSplHmmZaDs/jgg5fHJWzPULvjGmgKFTgcS+xv8=;5xv104hvi2jKvz/uY8Si8Q=="
 ---
 
