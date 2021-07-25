@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-25-data-centers-in-an-ai-and-ml-driven-future.md",
+      "title": "Data Centers in an AI and ML driven future",
+      "excerpt": "Thank you for signing up to TechRadar. You will receive a verification email shortly. There was a problem. Please refresh the page and try again. No spam, we promise. You can unsubscribe at any time and we'll never share your details without your permission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-future",
+      "originalUrl": "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future",
+      "publishedDateTime": "2021-07-25T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-25-this-ai-can-spot-sunken-ships-from-the-damn-sky.md",
+      "title": "This AI can spot sunken ships from the damn sky",
+      "excerpt": "Researcher Leila Character taught a computer how to recognize shipwrecks on the ocean floor from scans taken by aircraft and ships on the surface.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-spot-sunken-ships-from-sky-syndication",
+      "originalUrl": "https://thenextweb.com/news/ai-spot-sunken-ships-from-sky-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2F5885600509_26558161ef_k-Underwater-archaeology-shipwreck-hed.jpg&signature=1fe6ef71edd1239c56e48fd47a5b4d63",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-25-auroras-spac-merger-comes-amid-self-driving-car-delays.md",
       "title": "Aurora’s SPAC merger comes amid self-driving car delays",
       "excerpt": "Self-driving car startup Aurora is ready to go public in a reverse merger with SPAC Reinvent Technology Partners Y.",
@@ -605,6 +699,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-24-the-weekender-ted-lasso-tokyo-olympics-ibms-watson.md",
+      "title": "The Weekender: ‘Ted Lasso,’ Tokyo Olympics, IBM’s Watson",
+      "excerpt": "Juno Temple finds acclaim in “Ted Lasso.” Also in this edition: portraits of New York City service workers, and the fate of IBM’s Watson supercomputer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/interactive/2021/07/23/briefing/the-weekender.html",
+      "originalUrl": "https://www.nytimes.com/interactive/2021/07/23/briefing/the-weekender.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/07/multimedia/07s3-weekendere-saturday-cine-vid-cover/07s3-weekendere-saturday-cine-vid-cover-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-alphabet-tackles-industrial-robot-software-market.md",
       "title": "Alphabet tackles industrial robot software market",
       "excerpt": "Google 's parent company Alphabet has launched a new company called Intrinsic to make industrial robots easier to program. Originally a project within Google's X research group, Intrinsic has graduated as an independent company within Alphabet.",
@@ -872,7 +1018,7 @@
       "originalUrl": "https://www.lelezard.com/en/news-19916974.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1076,144 +1222,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-marketing-ai-plenty-of-use-cases-but-were-just-getting-started.md",
-      "title": "Marketing AI – plenty of use cases, but we’re just getting started",
-      "excerpt": "Roetzer’s Institute, in partnership with Drift, a provider of conversational AI solutions, recently published 2021 The State of Marketing AI. It’s a survey that looked at how marketing AI is in use today,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/marketing-ai-plenty-use-cases-were-just-getting-started",
-      "originalUrl": "https://diginomica.com/marketing-ai-plenty-use-cases-were-just-getting-started",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2021-07/hand-895588_640.jpg",
-          "width": 640,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/marketing-ai-plenty-use-cases-were-just-getting-started?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/marketing-ai-plenty-use-cases-were-just-getting-started?amp",
-      "publishedDateTime": "2021-07-23T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-maharashtra-to-rollout-ai-backed-facial-recognition-for-online-licence-test-from-aug.md",
-      "title": "Maharashtra to rollout AI backed facial recognition for online licence test from Aug",
-      "excerpt": "The move is likely to check the proxy candidates appearing for the online learners' licence test in the state.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/maharashtra-to-rollout-ai-backed-facial-recognition-for-online-licence-test-from-aug/84665812",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/maharashtra-to-rollout-ai-backed-facial-recognition-for-online-licence-test-from-aug/84665812",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-84665812,imgsize-627806,width-800,height-434,overlay-etcio/maharashtra-to-rollout-ai-backed-facial-recognition-for-online-licence-test-from-aug.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/maharashtra-to-rollout-ai-backed-facial-recognition-for-online-licence-test-from-aug/84665812",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/maharashtra-to-rollout-ai-backed-facial-recognition-for-online-licence-test-from-aug/84665812",
-      "publishedDateTime": "2021-07-22T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-airbnb-cto-says-graph-neural-networks-will-be-big-in-2021.md",
-      "title": "Airbnb CTO says graph neural networks will be big in 2021",
-      "excerpt": "Airbnb CTO talks about cutting-edge technologies, graph neural networks, and innovation in AI during Transform 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/22/airbnb-cto-says-graph-neural-networks-will-be-big-in-2021/",
-      "originalUrl": "https://venturebeat.com/2021/07/22/airbnb-cto-says-graph-neural-networks-will-be-big-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/airbnb.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/22/airbnb-cto-says-graph-neural-networks-will-be-big-in-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/airbnb-cto-says-graph-neural-networks-will-be-big-in-2021/amp/",
-      "publishedDateTime": "2021-07-22T17:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

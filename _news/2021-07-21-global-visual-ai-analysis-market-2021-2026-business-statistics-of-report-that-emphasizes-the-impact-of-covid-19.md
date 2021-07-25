@@ -42,15 +42,17 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Worldwide Machine Safety Industry to 2026 - Impact Analysis of COVID-19 on the Market"
-    excerpt: "The \"Machine Safety Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global market for machine safety was evaluated at US$1,204.949 million in the year 2019 and is anticipated to witness a CAGR of 6."
-    publishedDateTime: 2021-07-21T15:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-machine-safety-industry-to-2026-impact-analysis-of-covid-19-on-the-market-1030631271"
+  - title: "AI in Fintech Market Size, Revenue Share, Drivers & Trends Analysis, 2016–2026 | Reports And Data"
+    excerpt: "The global AI in Fintech Market is forecast to reach USD 26.77 Billion by 2026, according to a new report by Reports and Data. The AI in fintech incorporates computational power and deep learning algorithms to the financial technology."
+    publishedDateTime: 2021-07-21T11:11:00Z
+    webUrl: "https://www.globalbankingandfinance.com/ai-in-fintech-market-size-revenue-share-drivers-trends-analysis-2016-2026-reports-and-data/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/ai-in-fintech-market-size-revenue-share-drivers-trends-analysis-2016-2026-reports-and-data/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ai-in-fintech-market-size-revenue-share-drivers-trends-analysis-2016-2026-reports-and-data/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 26
 
 secured: "//++VvDSL3Ht03QEzN/DudJqqeOLNGVqK5aYxh2Vriz1RIrmEfuwW6lwujwBB+gULsl5+dvNaHw296IivwDR5F1lJ1xubXzKuKC1n8bFOwnm+koHWhVezZGJC09Z3TxSIq8BkSqQBn9WTSQVChm4DSboY6MJLVb+xVN2A6m27im3/RaSHxLdSDZ6Y/DZVb0QyN+hWw4UM3Z0p2JNytrqjBn3MH/pu59EF/R0c7u9QrHGJBYITIwYXl16RuWxo+ufWT07/tJsRI+yZXRB1Bxd02eT9slaY2sdFmevbNlg6R8eAGQPEMq9Jmh6twgaIRQZBltRrcJQ9f80rTjvfbfalhMXXtcn2K7vU2qtDhyxZO8=;JwYpNvaAMuNtE9t3Wyu3UQ=="
 ---

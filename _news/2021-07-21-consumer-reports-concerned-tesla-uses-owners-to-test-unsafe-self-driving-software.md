@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-u
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/"
 type: article
 quality: 184
-heat: 324
+heat: 314
 published: true
 
 provider:
@@ -196,20 +196,6 @@ related:
       - url: "https://article.images.consumerreports.org/image/upload/v1626710364/prod/content/dam/CRO-Images-2021/Cars/07July/CR-Cars-InlineHero-Tesla-Model-3-gray-driving-7-21"
         width: 1199
         height: 674
-        isCached: true
-  - title: "Tesla's 'Full Self-Driving' software lacks safeguards, Consumer Reports says"
-    excerpt: "Consumer Reports said Tuesday that Tesla Inc.'s \"Full Self-Driving\" software lacks safeguards and raised concerns the system's use on public roads puts the public at risk, citing reports from drivers."
-    publishedDateTime: 2021-07-20T17:40:00Z
-    webUrl: "https://www.autonews.com/automakers-suppliers/teslas-full-self-driving-software-lacks-safeguards-consumer-reports-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 36
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/autopilot-logo.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Consumer Reports Has Serious Safety Concerns With Tesla’s Full Self-Driving Beta"
     excerpt: "Consumer Reports has raised serious safety concerns about Tesla’s Full Self-Driving beta that is currently being tested by owners on public roads. For quite some time, Tesla has allowed select owners to install and test its advanced driver-assistance system and recently,"

@@ -25,20 +25,113 @@ images:
     isCached: true
 
 related:
-  - title: "Flawed Facial Recognition: 'I Did Nothing Wrong. I Was Arrested Anyway.'"
-    excerpt: "Federal studies have shown that facial recognition systems misidentify Asian and Black people up to 100 times more often than white people."
-    publishedDateTime: 2021-07-21T20:09:00Z
-    webUrl: "https://www.commondreams.org/views/2021/07/21/flawed-facial-recognition-i-did-nothing-wrong-i-was-arrested-anyway"
+  - title: "AI Image Recognition Market to See Huge Growth by 2026"
+    excerpt: "The latest study released on the Global AI Image Recognition Market by AMA Research evaluates market size, trend,"
+    publishedDateTime: 2021-07-21T20:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-to-see-huge-growth-by-2026-2021-07-21"
     type: article
     provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-07/williams.png?h=0dc8efae&itok=pkEfnvsT"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Size Outlook, Opportunity and Demand Analysis Report by 2026"
+    excerpt: "Facial Recognition Market size to hit USD 12 billion by 2026, according to a new research report by Global Market Insights, Inc. All the major mobile phone companies including Samsung, Apple, Xiomi Corp and others offer FaceTech in their phones."
+    publishedDateTime: 2021-07-21T04:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-outlook-opportunity-and-demand-analysis-report-by-2026-2021-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Finance Market 2021 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2026"
+    excerpt: "The multipurpose new research study on the Global Artificial Intelligence in Finance Market 2021 by Company, Regions, Type and Application, Forecast to 2026 aims to promise a unique approach to industry assessment of the market covering the most important factors driving industry growth."
+    publishedDateTime: 2021-07-22T02:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-finance-market-2021-size-share-analysis-demand-growth-driver-and-industry-segments-by-2026-2021-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Diabetes Management Market to Set Phenomenal Growth From 2021 to 2026"
+    excerpt: "Jul 21, 2021 (Heraldkeepers) -- The latest independent research document on COVID-19 Outbreak-Global Artificial Intelligence in Diabetes Management examine investment in Market. It describes how companies deploying these technologies across various ..."
+    publishedDateTime: 2021-07-22T02:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-to-set-phenomenal-growth-from-2021-to-2026-2021-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Rapidly Growing With Size, Top Companies, Demands and Forecast by 2031"
+    excerpt: "The latest insightSLICE research report published on Speech and Voice Recognition promises to cede reliable and"
+    publishedDateTime: 2021-07-22T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-rapidly-growing-with-size-top-companies-demands-and-forecast-by-2031-2021-07-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Agriculture Market 2021 Top Industry Players, Regional Study, Growth Drivers, Challenges and Opportunities by 2026"
+    excerpt: "MarketsandResearch.biz has added a new research study on Global Artificial Intelligence in Agriculture Market 2021 by Company, Regions, Type and Application, Forecast to 2026 which is a result of an extensive examination of the market patterns."
+    publishedDateTime: 2021-07-22T03:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-agriculture-market-2021-top-industry-players-regional-study-growth-drivers-challenges-and-opportunities-by-2026-2021-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice And Speech Recognition Software Market 2021: Can The Business Strategy Generate Sufficient Profits And Growth?"
+    excerpt: "Stratagem Market Insights has recently published a research report titled, “Global Voice And Speech Recognition Software Market Insights, Size, Share, Growth, Opportunities, Emerging Trends, Forecast to 2028”."
+    publishedDateTime: 2021-07-24T10:37:00Z
+    webUrl: "https://manometcurrent.com/voice-and-speech-recognition-software-market-2021-can-the-business-strategy-generate-sufficient-profits-and-growth/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 16
+    images:
+      - url: "https://marketnewstoday667356072.files.wordpress.com/2021/07/fdscx.gif"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Global Artificial Intelligence in Energy Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "The Artificial Intelligence in Energy market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic and global ..."
+    publishedDateTime: 2021-07-22T14:18:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4684823-global-artificial-intelligence-in-energy-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "JsUYlOUnIYVQ82hcHpvm/q3xwFXjHBQXVkTAaSOB542r0AFOt8n0H9zv0vrHSiku1rGIwPEOKtPiUj9u/7bUExp8KqubSyFaHgO8GWUY4b+KkMsXUlmfJ687yy2l+eC7K+uTPmUUxVgPDFRBz176cNQrXhNZDzgkElIWduQX/jOiFpR63N4g+HDIqR4DG0Av4CBv5XkfEt/l5b8b2zqzoWaRKYD/yRNWXuP+zAjhlC/YW2nN0x/ZlTUAQT7sAf8Mhhez71pPxID7BUnh1GImIBmjiH+HBAA3sQrBOuCWtLFS0Pglw7GCPOz3AV9/oMQTnIApmRj3kuiSQ2+8b2tl6OybyMlDwP/ycwbaWWra9r4=;9e4uQkcPK9f0M50d9wyITA=="
 ---

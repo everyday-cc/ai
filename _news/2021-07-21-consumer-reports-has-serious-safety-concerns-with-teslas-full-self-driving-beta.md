@@ -203,20 +203,6 @@ related:
         width: 1199
         height: 674
         isCached: true
-  - title: "Tesla's 'Full Self-Driving' software lacks safeguards, Consumer Reports says"
-    excerpt: "Consumer Reports said Tuesday that Tesla Inc.'s \"Full Self-Driving\" software lacks safeguards and raised concerns the system's use on public roads puts the public at risk, citing reports from drivers."
-    publishedDateTime: 2021-07-20T17:40:00Z
-    webUrl: "https://www.autonews.com/automakers-suppliers/teslas-full-self-driving-software-lacks-safeguards-consumer-reports-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 36
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/autopilot-logo.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "This company is testing self-driving cars in New York City for the first time"
     excerpt: "Dapena, CNN Business Mobileye, an Israeli self-driving technology company owned by Intel, has become the first company to test fully self-driving cars on New York City’s streets. While a number of companies test cars in California and Arizona,"
     publishedDateTime: 2021-07-20T20:43:00Z

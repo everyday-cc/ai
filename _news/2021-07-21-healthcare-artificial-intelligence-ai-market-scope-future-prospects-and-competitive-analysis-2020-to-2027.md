@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21"
 type: article
 quality: 82
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Automotive Market"
-    excerpt: "The Artificial Intelligence (AI) in Automotive Market is expected to be valued at USD XX Million in 2020 and is expected to reach USD 10,573.3 Million by 2027, at a CAGR of 38.46% during the ..."
-    publishedDateTime: 2021-07-20T18:13:00Z
-    webUrl: "https://www.openpr.com/news/2333162/artificial-intelligence-ai-in-automotive-market-2021-next-big"
-    ampWebUrl: "https://www.openpr.com/amp/2333162/artificial-intelligence-ai-in-automotive-market-2021-next-big"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333162/artificial-intelligence-ai-in-automotive-market-2021-next-big"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
-    images:
-      - url: "https://cdn.openpr.com/U/7/U720586898_g.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence (AI) Chipsets Market Size 2021 Outlook, Opportunity and Demand Analysis Report by 2026"
     excerpt: "Global artificial intelligence (AI) chipsets market may surpass USD 70 billion by 2026, a study conducted by Global Market Insights, Inc. From consumer electronics, BFSI, IT & Telecom, healthcare, media & advertising to retail,"
     publishedDateTime: 2021-07-21T04:20:00Z

@@ -23,34 +23,91 @@ topics:
   - AI
 
 related:
-  - title: "Global Visual AI Analysis Market 2021 - 2026 Business Statistics of Report that Emphasizes the impact of COVID-19"
-    excerpt: "Global Visual AI Analysis Market 2021 by Company, Regions, Type and Application, Forecast to 2026 recently introduced by MarketsandResearch.biz offers a fundamental examination of the market covering the examination of subjective points that is prepared to display key market information of learning to the pursuers."
-    publishedDateTime: 2021-07-21T01:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-visual-ai-analysis-market-2021---2026-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2021-07-20"
+  - title: "Global Artificial Intelligence in Healthcare Market Key Players, Industry Demand, Overview And Supply Chain Analysis, Forecast To 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the Global Artificial Intelligence in Healthcare Market report for for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-07-23T04:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-key-players-industry-demand-overview-and-supply-chain-analysis-forecast-to-2030-2021-07-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "These businesses reacted to covid with automation and AI, IT News, ET CIO"
-    excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
-    publishedDateTime: 2021-07-23T17:14:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/these-businesses-reacted-to-covid-with-automation-and-ai-it-news-et-cio/"
+  - title: "Artificial Intelligence (AI) in Automotive Market Industry Challenges Business Overview and Forecast Research Study by 2026"
+    excerpt: "Selbyville, Delaware Artificial Intelligence (AI) in Automotive Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which has been looked upon is done considering both,"
+    publishedDateTime: 2021-07-22T12:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-industry-challenges-business-overview-and-forecast-research-study-by-2026-2021-07-22"
     type: article
     provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/these-businesses-reacted-to-covid-with-automation-and-ai.jpg"
-        width: 800
-        height: 434
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market Industry Challenges Business Overview and Forecast Research Study by 2026"
+    excerpt: "Selbyville, Delaware Artificial Intelligence (AI) in Automotive Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which has been looked upon is done considering both,"
+    publishedDateTime: 2021-07-23T12:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-industry-challenges-business-overview-and-forecast-research-study-by-2026-2021-07-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Neural Network Software Market 2021| What Factors are Affecting Growth and Demand of Industry | Trends and Forecast to 2028"
+    excerpt: "The Research Report is a comprehensive and in depth analysis of the global Neural Network Software Market The report provides detailed information about current trends drivers and challenges facing this industry This research not only helps companies take accurate business"
+    publishedDateTime: 2021-07-21T19:40:00Z
+    webUrl: "https://www.openpr.com/news/2334200/neural-network-software-market-2021-what-factors-are-affecting"
+    ampWebUrl: "https://www.openpr.com/amp/2334200/neural-network-software-market-2021-what-factors-are-affecting"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2334200/neural-network-software-market-2021-what-factors-are-affecting"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/U/7/U721289020_g.jpg"
+        width: 700
+        height: 407
+        isCached: true
+  - title: "Global Edge AI Chips Market Demand, Revenue Forecast and Interesting Opportunities from 2021 to 2026"
+    excerpt: "Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 research report is the new statistical data source added by MarketsandResearch.biz that uses several approaches for analyzing the data of the target market such as primary and secondary research methodologies."
+    publishedDateTime: 2021-07-22T09:31:00Z
+    webUrl: "https://ipsnews.net/business/2021/07/22/global-edge-ai-chips-market-demand-revenue-forecast-and-interesting-opportunities-from-2021-to-2026/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 19
+  - title: "Artificial Intelligence (AI) Robots Market Study for 2021 to 2028 providing information on Key Players, Growth Drivers and Industry challenges"
+    excerpt: "Robots Market report including its market outline and development status by types and applications, which specifies its price and profit status, market growth drivers, and challenges. Readers will find this report very helpful in understanding the market in depth."
+    publishedDateTime: 2021-07-21T01:24:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-robots-market-study-for-2021-to-2028-providing-information-on-key-players-growth-drivers-and-industry-challenges/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 13
+  - title: "Global Artificial Intelligence Chatbots Market 2021 Industry Emerging Trend, Top Players, Revenue Insights to 2026"
+    excerpt: "According to the latest report by MarketQuest.biz, titled Global Artificial Intelligence Chatbots Market 2021 by Company, Regions, Type and Application, Forecast to 2026, covers assimilates reliable and updated information,"
+    publishedDateTime: 2021-07-23T10:01:00Z
+    webUrl: "https://ipsnews.net/business/2021/07/23/global-artificial-intelligence-chatbots-market-2021-industry-emerging-trend-top-players-revenue-insights-to-2026/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "OeUA4JvkvFurEQSnB/otLKf7JdsotpmMJ5Y5wFxAUOtlec6YDRBafadGy5QWqQBIP65uic10kDnECTPieLEDt+l/Txa3PGjvQjgs5gOdWIpEDhIlsskmNDn0UhLh6rKdjG86mk46sRe82PB4pX89ErkWC/IQ5w5Lle3ZsTqpPfvWC9KqicE0SrloR5YUAC6rnc8trf5v5ZISgBKDA4Nj7ivqFF3RFtibsKiCMHNNSdLY/2CXnQJaXhUz1m8tAi6+C02sKSlbvkxv0TkKyG1CI8jJlvqd45HUwPfugWmp4E53PFUsUuAtlXbW1rOwfx183kMgwm2K8xWTvwBmKVOgVrhQksqGnIvZU/W/iXnu/Y0=;lf54QuqTUUwqdLJsg08y1A=="
 ---

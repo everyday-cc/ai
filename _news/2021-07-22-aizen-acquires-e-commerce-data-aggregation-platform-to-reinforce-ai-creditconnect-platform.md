@@ -6,9 +6,9 @@ publishedDateTime: 2021-07-22T00:12:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/aizen-acquires-e-commerce-data-aggregation-platform-to-reinforce-ai-creditconnect-platform-1030632543"
 webUrl: "https://markets.businessinsider.com/news/stocks/aizen-acquires-e-commerce-data-aggregation-platform-to-reinforce-ai-creditconnect-platform-1030632543"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Business Insider
@@ -21,12 +21,29 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mma.prnewswire.com/media/1574811/Aizen.jpg"
     width: 400
     height: 225
     isCached: true
+
+related:
+  - title: "AIZEN acquires e-commerce data aggregation platform in Korea"
+    excerpt: "AIZEN, announced that it has signed a definitive agreement to acquire an e-commerce merchant cash management platform in Korea."
+    publishedDateTime: 2021-07-23T10:12:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/aizen-acquires-e-commerce-data-aggregation-platform-in-korea/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Emerging-Technologies-in-Capital-Markets-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "6+7Uhekcwi7KcSD6peDIedAzhBLlWW51AvESLNKeZdnql4q61q3fsHW1uBs8xCW/p9UnKDPlVUcZ2q1Kk+OPVUzOctmKyzAf7+x7ZmJQTs1blViE9C5zWOMU8iUa+lI3Spq+3uVX8ln4D+7GsAOpFkbAPcVTP+XdtF0wqLngeWcIqPnAIvj4B+6Y94ufuiquVkT20Sgz4XJywacb3Dnb6USd+eWgN+3tCV+Mf8RKpPj+oqCUZ9k2v1klIAAWXkN6b6fl1C0b0sblvUBuNwClTJMDZxO1lhKgddBQs6cRjMpPufyFxLdvfewCsWF5XUkf5zhSOlFoqPB8AHsM42+/71GLc/B9CW8IptiAGdjJM0AXLxIQ9mXIgP5nYZF2FABsjJSYo8sFgkf2DTG/cONjGTZw2CPcylXrlpsvfZ5yPVwSoL5CxV1mlgtNJrS/71QamjG8P/cXl/jQ0yuNo4HdysNMTkIB6f91A8OvoCJL7ljFNC6GMlsiP1RZuTL2uNbvYW51Y10r0tGv9dQazetQUg==;Sjn2ac5yBQpGpNnbL3uxQA=="
 ---

@@ -45,6 +45,15 @@ related:
         width: 650
         height: 437
         isCached: true
+  - title: "Global Face Recognition Ststems Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Face Recognition Ststems Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Ststems Market"
+    publishedDateTime: 2021-07-21T06:38:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4680828-global-face-recognition-ststems-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 17
 
 secured: "hC27DaDay+qWG/rB18EjMp1JonDIoHsHyBTiH5S+UrQNkSIT+0AhJKwQfzTxHKXp6FhpF9hqwS08ZrlU4gJ9ZK39y0RDHJ3ZjbzVlkq00tBxIVCoK8sd9aFguIZED+ruvyhWMDrsoH26ybk+auLSiJFFobJ3tm3Zq2Zxs1eqmBIRsG/SP8NZ6qa4EV5dBrtavg5J65GglD1RRbWB5IpkWSK52T0+7T4Fvr9YRnw41w0TEWfbE7QXz2clpOFf3lGSggjiWxAZgQpdyWaCI/AwM3UhNgxDfG3SxclTSOBo5qEN/xYdC97kGe5wGjgw+WGl5ufVxkJw/PTiX3py0KIaORkG6CYRRaiq3LVtYsqaahE=;9YYRwHUELHNbek812zb2SA=="
 ---

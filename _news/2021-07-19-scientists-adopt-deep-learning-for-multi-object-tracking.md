@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Scientists adopt deep learning for multi-object tracking"
-excerpt: "At the Gwangju Institute of Science and Technology in Korea, a team of researchers led by Professor Moongu Jeon seeks to solve these issues by incorporating deep learning techniques into a multi ..."
-publishedDateTime: 2021-07-19T00:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-07/gio-sad071921.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-07/gio-sad071921.php"
+excerpt: "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our daily lives. There are, however, some tasks in this field that are still extremely difficult for computers to perform with acceptable accuracy and speed."
+publishedDateTime: 2021-07-19T15:16:00Z
+originalUrl: "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.html"
+webUrl: "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.html"
+ampWebUrl: "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/270897_web.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-adopt-deep.jpg"
     width: 1440
     height: 810
     isCached: true
 
-secured: "sWGNA2NNpxrucEbPJwiPJPT2DQQLXOZVirWiIrGvBacCt+Z9EwMgcGQUKZP0ysi0vRE8m3+gZXXZzLj5O2TdfUWGnhsrLh+0a2nGINmwulYjrTVNigVmn0be3Lsy1Pt2bW57c+XJJ9RI80/v+emN8+G4hjM9QWJURc6PkWI7B/l3r9ycYsMYhwBrxmIEbUS98wP8eieXgtm3+AboCI01fkQWrGjSiKwhAAVba8UnIKdNbpRS6tCrjC42kXI2GFlcufLHUKVGEWKeiwnSye8EzznEDOeJFiw8bd9t19PRDcMnSqsOApitJbjJGvU7P2PyH90Hw+VkI5srgmIxoPZ/g76UKGAfynJV+9zyfEXZxPY=;y8poad3jxDs+mEo4sR+64w=="
+secured: "POjvrnmyA4XxPZKYPhNsIrFacxrsZKkBa3cJs9HJOUUcZNroLTdrziwdIaqYnm5EfaqzVpQiyvX+WRPSQkXglM77qXPWp1g44KZ/JW/hmB3JSN37XBmMNOCbm+7Fg59h2MYbAtqt9ns8ApU2KfkSvvF/+LM5m3CgbmYyIn8j3ZdCqvhTzCS5uS7xGM/BTfyMhFU2KyK0K6Tu/YzrL3DT5syZm5F9MweQ1fnHhJ5VaZC3WD6WQPQ8PTxmqg2YHJQw8+nxczqlJHGw4NO9l5DBja2Uofiy6EPy0+iEq6Lt5JMfMSmbDyuNvNFEnc5f8Zd1yQInpZa9Vy/JMey5oM33q8RAjP1uD5ETkb5Ipy4b+4I=;hfOpQNimVA+M2JWtFuXEUg=="
 ---
 

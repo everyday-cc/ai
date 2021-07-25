@@ -25,80 +25,97 @@ images:
     isCached: true
 
 related:
-  - title: "Mobileye begins testing autonomous cars in New York"
-    excerpt: "People on the streets of New York will soon see a new type of vehicle meandering around: Mobileye's prototype autonomous cars. The company's parent company, Intel, announced Tuesday that the vehicles are officially on the road in NYC to tackle \"one of the world's most challenging driving environments."
-    publishedDateTime: 2021-07-20T18:14:45Z
-    webUrl: "https://www.cnet.com/roadshow/news/mobileye-intel-autonomous-cars-new-york-city/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/mobileye-intel-autonomous-cars-new-york-city/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mobileye-intel-autonomous-cars-new-york-city/"
+  - title: "Self-Driving Cars That Snitch On Human Drivers For Bending Or Breaking Driving Laws"
+    excerpt: "Self-driving cars are able to record the driving scene, of which they can detect when human drivers nearby violate the driving laws, and some say they will become snitches."
+    publishedDateTime: 2021-07-21T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/amp/"
     type: article
     provider:
-      name: cnet.com/roadshow/news/mobileye-intel-autonomous-cars-new-york-city/
-      domain: cnet.com/roadshow/news/mobileye-intel-autonomous-cars-new-york-city/
-    quality: 142
+      name: Forbes
+      domain: forbes.com
+    quality: 68
     images:
-      - url: "https://www.cnet.com/a/img/AXkjCvqVg51d1HH8MO5tKpXt8VQ=/2021/07/20/3d8b3475-e4d7-4b6c-bd22-79f431a526fd/ogi-me.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b612298c27be03c873e4b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6030%26cropY1%3D478%26cropY2%3D3870"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Intel’s Mobileye Runs Self-Driving Test Cars in New York City"
-    excerpt: "Mobileye NV has begun testing self-driving cars in New York City, a congested urban grid known for jaywalkers, weaving bicyclists and aggressive drivers."
-    publishedDateTime: 2021-07-20T18:44:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-20/intel-s-mobileye-runs-self-driving-test-cars-in-new-york-city"
+  - title: "Looking for a Lyft? Self-driving cars coming to Austin in 2022"
+    excerpt: "Self-driving cars, accompanied by safety drivers, will begin operations in Miami later this year and launch in Austin in 2022."
+    publishedDateTime: 2021-07-22T14:47:00Z
+    webUrl: "https://www.kxan.com/news/looking-for-a-lyft-self-driving-cars-coming-to-austin-in-2022/"
+    ampWebUrl: "https://www.kxan.com/news/looking-for-a-lyft-self-driving-cars-coming-to-austin-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/looking-for-a-lyft-self-driving-cars-coming-to-austin-in-2022/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1CPDYOFROlM/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Mobileye tests self-driving cars in New York City"
-    excerpt: "\"at-above-post addthis_tool\" data-url=\" Tina Bellon (Reuters) -Intel Corp unit Mobileye on Tuesday said it was testing self-driving vehicles in New York City, including the bustling Manhattan borough,"
-    publishedDateTime: 2021-07-20T17:18:00Z
-    webUrl: "https://www.metro.us/mobileye-tests-self-driving-cars/"
-    ampWebUrl: "https://www.metro.us/mobileye-tests-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/mobileye-tests-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
+      name: KXAN
+      domain: kxan.com
     quality: 44
     images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH6J0XM-BASEIMAGE.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2021/07/Lyft-Argo-Ford_03.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Mobileye’s Self-Driving Vehicle Navigates New York Traffic"
-    excerpt: "In newly released footage, Mobileye's test vehicle makes its way through the busy roads of Manhattan, stopping for pedestrians and cyclists, and navigating construction zones."
-    publishedDateTime: 2021-07-22T08:36:00Z
-    webUrl: "https://nocamels.com/2021/07/mobileye-self-driving-vehicle-navigates-new-york-traffic/"
+  - title: "GM sues Ford in fight over branding of self-driving cars"
+    excerpt: "The automaker’s taking action to protect the Cruise and Super-Cruise brands after Ford in April renamed its Co-Pilot360 automated driving system as Blue Cruise, GM said in court documents filed Friday."
+    publishedDateTime: 2021-07-24T17:39:00Z
+    webUrl: "https://www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars-11627148192240.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars/amp-11627148192240.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars/amp-11627148192240.html"
     type: article
     provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2021/07/24/600x338/968f78bb72fe47ebafe65fecc6da123c-968f78bb72fe47ebafe65fecc6da123c-0_1611854998352_1611855018494_1627148264064.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Lyft To Offer Ford's Self-Driving Cars In Austin (With Humans As Backup)"
+    excerpt: "By this time next year, you might be able to order a self-driving Ford Escape Hybrid SUV with the Lyft app, but two humans will be seated in the front as safety drivers."
+    publishedDateTime: 2021-07-22T11:28:00Z
+    webUrl: "https://www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup"
+    ampWebUrl: "https://www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup?_amp=true"
+    cdnAmpWebUrl: "https://www-kut-org.cdn.ampproject.org/c/s/www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup?_amp=true"
+    type: article
+    provider:
+      name: KUT
+      domain: kut.org
+    quality: 43
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/98ebdbf/2147483647/strip/false/crop/5845x3290+0+134/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F07%2F21%2Fgettyimages-1233487514_custom-4f7df59bb5ba9e944cc8a6500693f2c9d6391187.jpg"
+        width: 430
+        height: 242
+        isCached: true
+  - title: "General Motors sues Ford for violating trademarked driver-assist technology used for self-driving cars"
+    excerpt: "The firm has taken the action to protect the Cruise and Super-Cruise brands following Ford Motors in April had renamed its Co-Pilot360 automated driving system as Blue Cruise. Despite the talks, consensus on the issue had been unsuccessful,"
+    publishedDateTime: 2021-07-24T17:17:00Z
+    webUrl: "https://www.moneycontrol.com/news/automobile/general-motors-sues-ford-for-violating-trademarked-driver-assist-technology-used-for-self-driving-cars-7218861.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/automobile/general-motors-sues-ford-for-violating-trademarked-driver-assist-technology-used-for-self-driving-cars-7218861.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/automobile/general-motors-sues-ford-for-violating-trademarked-driver-assist-technology-used-for-self-driving-cars-7218861.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 28
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2018/11/General-Motors-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
+  - title: "Safety steps for Lyft’s self-driving rides"
+    excerpt: "Instead, Lyft’s Fords will still come with a safety driver who will mostly be letting the car drive itself, but who can instantly grab the wheel if the technology misfires — or, more likely, if the car encounters one of South Florida’s numerous and notorious unpredictable drivers."
+    publishedDateTime: 2021-07-21T16:23:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article252922073.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/business/article252922073.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article252922073.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 24
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/07/Mobileye_NYC_2012-1_1.jpg"
-        width: 1279
-        height: 909
-        isCached: true
-  - title: "Self-driving cars confront a daunting new challenge: New York City streets"
-    excerpt: "Mobileye received a special permit from New York state, allowing manufacturers of “autonomous vehicle technology” to test on public streets. The permit requires drivers be pre"
-    publishedDateTime: 2021-07-22T12:26:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/07/22/intel-autonomous-cars-mobileeye/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 22
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YPHNEQ7LRJBOLEX2DK55DLXK4Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Intel's Mobileye testing self-driving cars on New York City streets"
     excerpt: "Intel is testing the theory that if you can make it in New York you can make it anywhere. It's self-driving car technology business Mobileye has had AVs on NYC streets for 6 weeks."
     publishedDateTime: 2021-07-21T00:12:00Z
@@ -108,15 +125,24 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
-  - title: "Intel's Mobileye testing self-driving cars on New York City streets (Video)"
-    excerpt: "Intel is testing the theory that if you can make it in New York you can make it anywhere. It's self-driving car technology business Mobileye has had AVs on NYC streets for 6 weeks."
-    publishedDateTime: 2021-07-20T19:07:00Z
-    webUrl: "https://www.bizjournals.com/portland/news/2021/07/20/intel-tests-self-driving-cars-in-nyc.html"
+  - title: "Ford to launch self-driving cars on Lyft network by year’s end"
+    excerpt: "Argo AI and Ford Motor Company are working together to bring autonomous ride hailing vehicles to the Lyft network. The companies said the collaboration will bring together all the necessary services to bring autonomous ride hailing service to the mainstream with self-driving technology,"
+    publishedDateTime: 2021-07-22T12:52:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16973/ford-to-launch-self-driving-cars-on-lyft-network-by-year-s-end"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
+  - title: "Lyft to deploy self-driving cars in Miami by the end of the year"
+    excerpt: "Interested in riding in a self-driving car? Soon, Miami-area Lyft passengers will have that option. On Wednesday, Ford, self-driving car startup Argo AI and ride-hailing giant Lyft (Nasdaq: LYFT) announced they are partnering to offer automated vehicles to customers in the Magic City beginning late 2021."
+    publishedDateTime: 2021-07-21T17:08:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2021/07/21/lyft-to-deploy-self-driving-cars-miami-2021.html"
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 2
+    quality: 4
 
 secured: "bEz1z01Q+PiPxzZbxGTzu1NGwzr3j8whRJ6k/nT9slpWocS5u4vIzTpMlMB7mU8FlNDb2Vf/7vMZApsw4rbINtwmzg7mW+j+J8Sv054S3wCp5BhBBRqLGgAHap6sh8L3107U2GPwU/iZt3xVDxFZftSLdvyNSFlXR/aeNtqPg2P6+STbs1Zpx3nbHULhCX8Ao75sYOgGKprGQQ0mnM0DgkoMjtk8P8gj2GOHXNO2Yi0ddxn5nIAUaIFyzdBI4TLA45N4SHOTOS48cAsmJx4+Q0uDkiQq1TLy8uF3Ib/euFrFGw/JkAQTAkWhojGHE6VRjpwVS2btBZmfaDpshTWy3a2zsaLVUILYndkgTu/L66PK5JHSUe6AFUpzMry12wC6bcoMb00XK50HdQE4oP9k4Zw8llUC0Nr+IgXA4YzgKZZTJaFfF93wmOJVT6r0sHWz60OmkRFX2Lknfc4Vg5dsIa+ciq9m6n8naz2eHF7QbJklmWvoSZTwJ8nS6vdvl10s0iP8MM5DUzMRUICCV9JNuQ==;7TGckTWibPy+P3DalWrtPg=="
 ---

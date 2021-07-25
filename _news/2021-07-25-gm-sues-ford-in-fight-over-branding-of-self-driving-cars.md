@@ -91,6 +91,58 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "Safety steps for Lyft’s self-driving rides"
+    excerpt: "Instead, Lyft’s Fords will still come with a safety driver who will mostly be letting the car drive itself, but who can instantly grab the wheel if the technology misfires — or, more likely, if the car encounters one of South Florida’s numerous and notorious unpredictable drivers."
+    publishedDateTime: 2021-07-21T16:23:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article252922073.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/business/article252922073.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article252922073.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 24
+  - title: "Intel's Autonomous Driving Arm Mobileye is Testing its Self-driving Technology in New York City"
+    excerpt: "Intel Corp’s autonomous driving division Mobileye is testing its self-driving technology in New York City, one of the most challenging environments for self-driving vehicles to operate in, the company announced on Monday."
+    publishedDateTime: 2021-07-20T23:00:00Z
+    webUrl: "https://www.futurecar.com/4753/Intel’s-Autonomous-Driving-Arm-Mobileye-is-Testing-its-Self-driving-Technology-in-New-York-City"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 12
+    images:
+      - url: "https://img.futurecar.com/202107/20/l_60f758e7723c3.jpeg"
+        width: 800
+        height: 376
+        isCached: true
+  - title: "Intel's Mobileye testing self-driving cars on New York City streets"
+    excerpt: "Intel is testing the theory that if you can make it in New York you can make it anywhere. It's self-driving car technology business Mobileye has had AVs on NYC streets for 6 weeks."
+    publishedDateTime: 2021-07-21T00:12:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2021/07/20/intel-tests-self-driving-cars-in-nyc.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+  - title: "Ford to launch self-driving cars on Lyft network by year’s end"
+    excerpt: "Argo AI and Ford Motor Company are working together to bring autonomous ride hailing vehicles to the Lyft network. The companies said the collaboration will bring together all the necessary services to bring autonomous ride hailing service to the mainstream with self-driving technology,"
+    publishedDateTime: 2021-07-22T12:52:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16973/ford-to-launch-self-driving-cars-on-lyft-network-by-year-s-end"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
+  - title: "Lyft to deploy self-driving cars in Miami by the end of the year"
+    excerpt: "Interested in riding in a self-driving car? Soon, Miami-area Lyft passengers will have that option. On Wednesday, Ford, self-driving car startup Argo AI and ride-hailing giant Lyft (Nasdaq: LYFT) announced they are partnering to offer automated vehicles to customers in the Magic City beginning late 2021."
+    publishedDateTime: 2021-07-21T17:08:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2021/07/21/lyft-to-deploy-self-driving-cars-miami-2021.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "eNwAfdcuDGZAec2miX+yBqSl4GwKQgQkBuFpNj5H0foL8xP1YWbqoumjAsXP5kIrWD+0YrMvsXnZKDs4BmR6ilOwef7ya4LI0n2Pw7r+KCQ9vUYs9qXALhxPvRwBBM/hZXvHKloGekPnykc6iyCoVqM71whDDThT4xkQ1USxJiDOcFbRqhG7jzMEtqRrdkBlpJwwgkOJT5FIitC1MqaIhRL5U6xLaA66V6SkwIlaPEYDwOPAp+S4hjaIdjS37v2CBcFN+dxxOFgTvZZM5suT50RZ3qs/qxBZ7H0BETM0lW6lHEDj6M8+m5e18E+fj6P1Kuc5BfnScqqNGNDuk79DQ91seTzQKcP0drAtBqGs97lNN8XaOJdtCk5h1YiYiHbUHAuzXeTRkyxcSqwvoHPIww42sRMPncCXuXiQcdkWck9l58TLJzlBdNnv2zs89fRtvqQR8sZIndW0Anit9+bNA5fvxSSsQDF8jn+pXIuk0NNFVsUxIoODTgN6wfi5G0Z7k6vWgQrPYxxBFNp7nWSIrg==;zqYdA25OEwyxf1N9nERnbg=="
 ---

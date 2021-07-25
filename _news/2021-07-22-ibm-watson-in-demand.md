@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Watson as a Warning: Current Limits and Promise of AI"
-    excerpt: "We can’t seem to decide whether AI will replace humanity as the dominant intellectual force or it will simply be a sideshow never reaching its promise. Is AI the technology of the future, or wil"
-    publishedDateTime: 2021-07-20T17:17:00Z
-    webUrl: "https://www.natlawreview.com/Node/153737"
-    ampWebUrl: "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp"
+  - title: "The Weekender: ‘Ted Lasso,’ Tokyo Olympics, IBM’s Watson"
+    excerpt: "Juno Temple finds acclaim in “Ted Lasso.” Also in this edition: portraits of New York City service workers, and the fate of IBM’s Watson supercomputer."
+    publishedDateTime: 2021-07-23T17:28:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/07/23/briefing/the-weekender.html"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 74
+      name: New York Times
+      domain: nytimes.com
+    quality: 69
     images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
-  - title: "IBM Watson Health’s stumble and possible fall"
-    excerpt: "Telehealth and Telecare News since 2005"
-    publishedDateTime: 2021-07-21T02:19:00Z
-    webUrl: "https://telecareaware.com/ibm-watson-healths-stumble-and-possible-fall/"
-    type: article
-    provider:
-      name: telecareaware.com
-      domain: telecareaware.com
-    quality: 39
-    images:
-      - url: "https://ta-images.s3.amazonaws.com/images/tta-fb-opengraph-450x450.png"
-        width: 450
-        height: 450
+      - url: "https://static01.nyt.com/images/2021/08/07/multimedia/07s3-weekendere-saturday-cine-vid-cover/07s3-weekendere-saturday-cine-vid-cover-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "E706Ubt3xxmyX7DPTg0NcVWanbZpFVk1gOnPPV51G+j3DIcA7hv5yZi4eVueXNoX9Ngfa39G4OAGfN60ybccwZBPELfJTvem0d4GbcVSoLeut8KFO3tDY4nRQA7tL31JZwO1ME4Nr1bhgtZZeoy7HyUinLa72fn6JtkTTtqiFniWfOPIaqPDcCK9joUF2oIl+l+THr/9LMJP6wiyvHkIpfEa5CYMrCvoZzQVn3/jXV8Zy4wQgArnxhah6XmFYxcthqDosIP7T1ho4zQXkdmV88QuwbzjxtVxPxiIgMLgPgYrbNzhuPbFZmL9fJBWllbGbZINFnKGJO/pYr6j0LA9qvwWG3OsJCNqEthpXjDVMQ0=;4Tk+epANwN5mAW3copr9Xg=="
