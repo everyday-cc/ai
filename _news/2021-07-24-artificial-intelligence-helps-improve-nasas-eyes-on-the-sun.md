@@ -36,6 +36,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Solar Dynamics Observatory: Artificial Intelligence Helps Improve NASA’s Eyes on the Sun"
+    excerpt: "A group of researchers is using artificial intelligence techniques to calibrate some of NASA’s images of the Sun, helping improve the data that scientists use for solar research. The new technique was published in the journal Astronomy & Astrophysics on April 13,"
+    publishedDateTime: 2021-07-24T22:26:00Z
+    webUrl: "https://scitechdaily.com/solar-dynamics-observatory-artificial-intelligence-helps-improve-nasas-eyes-on-the-sun/"
+    ampWebUrl: "https://scitechdaily.com/solar-dynamics-observatory-artificial-intelligence-helps-improve-nasas-eyes-on-the-sun/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/solar-dynamics-observatory-artificial-intelligence-helps-improve-nasas-eyes-on-the-sun/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 48
+    images:
+      - url: "https://scitechdaily.com/images/Sun-AIA-2021-777x778.jpg"
+        width: 777
+        height: 778
+        isCached: true
 
 secured: "bynyjv30nv6TcGc19Ki6am4OJZ9gdQiG0Ckp7Htt4nsRYE6qIAi1gLvgw5unvZOL5rXnQZ7BCzZCSPStv0YhePQ/3w96z4ybAh5kA7HntveIz2RtdjXYhLtf7yKaRXntHt6c/2DsqtV2zrIGBEKYokuYrQEuoC4kHgR1Pe6OFUpAd7ifD3uWnEE/AM51TwOYHCFkvjBef56QATeqIF4oSvddMptzTLb+zLefoilrO3DvC2QLXNvjzhm69EYDarEqE+34F5EDUIq33YLYfVFqPl+l6dUwXRNJeYTm0jQzY8cyW4x/1/V78sh7dCxhLO8LnZ5RhxIVlrf/u/n3rPV2XbwY9MQBWwyNXJwN7rk1QY0=;O51n7Pb6/TQ7wzoz9DKyKg=="
 ---

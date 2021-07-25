@@ -2,6 +2,59 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-06-23-simplify-machine-learning-with-azure-applied-ai-services.md",
+      "title": "Simplify machine learning with Azure Applied AI Services",
+      "excerpt": "We’ve seen some of this with the evolution from Project Adam to Azure Cognitive Services. Now Microsoft is taking the next step, using that foundation to deliver a set of machine learning models that provide assistance with common tasks: Azure Applied AI Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.html",
+      "originalUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/05/artificial_intelligence_machine_learning_binary_code_neural_network_thinkstock_636754212-100724428-large.jpg",
+          "width": 700,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.amp.html",
+      "publishedDateTime": "2021-06-23T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-deep-learning-neural-networks-algorithms-boost-facial-recognition-accuracy.md",
       "title": "Deep learning, neural networks, algorithms boost facial recognition accuracy",
       "excerpt": "Many common recognition problems like character or object recognition have been successfully solved by neural networks. Despite the variety of facial recognition systems and the technological ...",
@@ -1131,58 +1184,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-hyundai-officially-takes-controlling-stake-in-robot-maker-boston-dynamics.md",
-      "title": "Hyundai officially takes controlling stake in robot maker Boston Dynamics",
-      "excerpt": "Korean car manufacturer Hyundai announced that it had closed a deal to purchase controlling stock in US robot maker Boston Dynamics. The company, well-known for its",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
-      "originalUrl": "https://www.techspot.com/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2021/06/2021-06-22-ts3_thumbs-d4c.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
-      "publishedDateTime": "2021-06-22T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

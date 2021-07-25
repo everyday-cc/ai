@@ -3,8 +3,8 @@ category: news
 title: "Experience The Future Of Cinema, As Campari Creates The First Short Film Made With Artificial Intelligence Inspired By The Creative Genius Of Fellini"
 excerpt: "Fellini Forward, an ode to Federico Fellini Marcus du Sautoy, Artificial Intelligence & Creativity Expert says: \"We should see Artificial Intelligence as an extraordinary collaborator; it's a new tool,"
 publishedDateTime: 2021-07-21T07:00:00Z
-originalUrl: "https://www.troyrecord.com/news/national/experience-the-future-of-cinema-as-campari-creates-the-first-short-film-made-with-artificial/article_12235ea4-6e22-5b20-8412-47bc0559ac67.html"
-webUrl: "https://www.troyrecord.com/news/national/experience-the-future-of-cinema-as-campari-creates-the-first-short-film-made-with-artificial/article_12235ea4-6e22-5b20-8412-47bc0559ac67.html"
+originalUrl: "https://www.troyrecord.com/news/national/experience-the-future-of-cinema-as-campari-creates-the-first-short-film-made-with-artificial/article_ab20c3d0-8187-5ede-badf-001b62f9533a.html"
+webUrl: "https://www.troyrecord.com/news/national/experience-the-future-of-cinema-as-campari-creates-the-first-short-film-made-with-artificial/article_ab20c3d0-8187-5ede-badf-001b62f9533a.html"
 type: article
 quality: 0
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 521
         isCached: true
 
-secured: "UKPv8d1C+AUp5311tcezLJ8/85p76zUxHPKwKLK3suid0NrBrNHD+H7wottC4T2M7R6f9TJsFeIdg2GLMphaWbcL68Etfkip3S4okhTLKOXstj6Kv6pMKafiVwpBA+gAV4MyXopUsCOlhHiUvkwcY2AaXLJBx1mF3RqTrXz8eMCJ43kWMHUz3RcgrW7Dy3NlVcNU9qYMiNZgORsgy43swhe+Ue+z/xR8qoA1p0yDiV5sf+GloFC5zae7ehZX2uizc/LMuBM4QUYTitu6qHjyA+f4oND0piRL7ke6Pfcxass2InxKREa4BGsUkJIskienfS0ru9d8tAMr9GoV6iITwydSpQvoFn87Qb12QGCNjVM=;fo90izsHSNAGoCIyUjIr6Q=="
+secured: "CVbqFmL8P1PfLkknP/sT0D5SLT69AWDjby3zXzDE4g41WBGG/dt81UvyB6eWyvtQvZJTnG+MqUU06D0B/r06MMKnkULJa26kRJbU5gi6MJD9Tld6LE7Jx3yoLVMPKGlT2rtRAlSzejzH1BEqVIpbGVjv4/91lJRnXkgMYonbRs5uLGNXf5OruljBDypGR0alqQVeAczYi3MpDDO5LS5mqWFmAzG6sUmc64BXRKDggP4eVIKMg4Cs4es8RuAajjXeJQfgw2YXZxF/mVF38MKl/VMJ3wamqxGuebywhi9yVwAGHmWhQy5pFEO27Zb415LmMa82/Nu3X9QMbveRw1Tg95liX1LoLl/jTFieCwVdHkY=;yP9ZfGRmP6SL1s5VOqkjdw=="
 ---
 

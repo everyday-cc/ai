@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Successful Ofqual Recognition: Top 10 Words of Wisdom"
-    excerpt: "On 4 August 2020, the Institute for Apprenticeships and Technical Education (@IFATEched), announced the transfer of the #EQA of end-point assessment to @Ofqual, or, for integrated higher and degree apprenticeships,"
-    publishedDateTime: 2021-07-20T06:21:00Z
-    webUrl: "https://www.fenews.co.uk/fevoices/72887-sharing-ofqual-recognition-experiences-to-help-other-epaos"
-    type: article
-    provider:
-      name: fenews.co.uk
-      domain: fenews.co.uk
-    quality: 24
-    images:
-      - url: "https://www.fenews.co.uk/images/Fay_Edwards_FE_News.jpg"
-        width: 750
-        height: 570
-        isCached: true
 
 secured: "JsUYlOUnIYVQ82hcHpvm/q3xwFXjHBQXVkTAaSOB542r0AFOt8n0H9zv0vrHSiku1rGIwPEOKtPiUj9u/7bUExp8KqubSyFaHgO8GWUY4b+KkMsXUlmfJ687yy2l+eC7K+uTPmUUxVgPDFRBz176cNQrXhNZDzgkElIWduQX/jOiFpR63N4g+HDIqR4DG0Av4CBv5XkfEt/l5b8b2zqzoWaRKYD/yRNWXuP+zAjhlC/YW2nN0x/ZlTUAQT7sAf8Mhhez71pPxID7BUnh1GImIBmjiH+HBAA3sQrBOuCWtLFS0Pglw7GCPOz3AV9/oMQTnIApmRj3kuiSQ2+8b2tl6OybyMlDwP/ycwbaWWra9r4=;9e4uQkcPK9f0M50d9wyITA=="
 ---

@@ -4,19 +4,19 @@
     {
       "path": "_news/2021-07-12-d2iq-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "D2iQ Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including",
+      "excerpt": "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook",
-          "width": 2161,
-          "height": 1130,
+          "url": "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg",
+          "width": 400,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T06:03:00-07:00",
+      "publishedDateTime": "2021-07-12T06:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -647,6 +647,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-12-ibm-watson-and-guerbet-want-to-tackle-prostate-cancer-diagnosis-with-ai.md",
+      "title": "IBM Watson and Guerbet Want to Tackle Prostate Cancer Diagnosis with AI",
+      "excerpt": "Guerbet has landed a second co-development agreement with IBM Watson Health. This time around, the two companies will develop an artificial intelligence tool to help clinicians detect, segment, characterize, and monitor prostate cancer. “The main ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
+      "originalUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/DSC03582.JPG",
+          "width": 5472,
+          "height": 3648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player.md",
       "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
       "excerpt": "Whilst we patiently wait for the day that Womble-shaped robots replace human tennis players at Wimbledon, we can admire the IBM powered AI technology ... them into the huge Watson driven analytics ...",
@@ -1117,48 +1160,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-micron-technology-puts-its-cash-to-work-using-artificial-intelligence.md",
-      "title": "Micron technology puts its cash to work using artificial intelligence",
-      "excerpt": "The Boise, Idaho-based memory-chip maker says it is earning millions of dollars in extra returns on its deposits thanks to an AI tool developed in house",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625836801977.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625836801977.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/07/09/600x338/2021-07-01T093323Z_1643310723_RC2LBO9R6YOJ_RTRMADP_3_MICRON-TECH-RESULTS_1625837012609_1625837026629.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html",
-      "publishedDateTime": "2021-07-09T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

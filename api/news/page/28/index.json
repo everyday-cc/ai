@@ -2,6 +2,40 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-07-01-att-t-to-move-5g-mobile-network-to-microsoft-azure.md",
+      "title": "AT&T (T) to Move 5G Mobile Network to Microsoft Azure",
+      "excerpt": "AT&T Inc. T has announced collaboration with Microsoft MSFT under which the telecom giant will move its 5G mobile network to the latter’s cloud. This will allow AT&T’s mobile network traffic to be managed by Microsoft Azure technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01",
+      "originalUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp",
+      "publishedDateTime": "2021-07-01T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-zebra-technologies-to-acquire-fetch-robotics.md",
       "title": "Zebra Technologies to Acquire Fetch Robotics",
       "excerpt": "Zebra Technologies (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge, today announced it intends to acquire Fetch Robotics, a pioneer in on-demand automation.",
@@ -1129,49 +1163,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho.md",
-      "title": "The names pushing AI toward a $1T chip market, according to Mizuho",
-      "excerpt": "An in-depth look at artificial intelligence and deep learning from Mizuho concludes that AI is the next wave of semiconductor growth, a key driver toward a $1",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "originalUrl": "https://seekingalpha.com/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "publishedDateTime": "2021-06-30T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

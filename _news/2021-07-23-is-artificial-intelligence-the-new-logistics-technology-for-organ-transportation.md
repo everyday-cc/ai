@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/05/41/21256305/3/rawImage.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Understanding how AI Drives Digital Transformation?"
-    excerpt: "When AI and machine learning become part of a company's strategy, it represents a new digital transformation era. FREMONT, CA: In a dynamic, fast-changing market world, digital transformation is one of the most critical factors of how companies deliver ..."
-    publishedDateTime: 2021-07-20T06:27:00Z
-    webUrl: "https://www.cioapplications.com/news/understanding-how-ai-drives-digital-transformation-nid-8112.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/gs3kk423.jpg"
-        width: 450
-        height: 308
         isCached: true
 
 secured: "JVtZzQYqO8PfkjuYBviGNOpov1N7sw8Th33NRzFtX6OalmXbHAkP1vfPtJzUhfxD/xxzzHkfsf18zfBsnZxVLuw8WBgLMhnSw+Du57targ8qC1m5DCeVwcum/3jKwHD3OVd9KfRz70zI3Ftvgyc/gym+mW0fzE9Q70Vt5vxwUvwhLgOA0PQ0frQuI8qjdV3MiJ56YWXD1aCZ6EWId7Pui32tP33l0n8BPcxbjM7Yhrj7WYsaUXhzNmUYip5OEKqLJf0vOjvaFe+YFCTQKJf46NxS3ex0pB2vO+Bcmc8pInDj2AOnnXQgvonccFlHeX4R6iNiATcYgORAAGeMva8pwV4AG7xCtppNd3aIJ3QjKt8QjwqjEt3938ns/ru4ToZ6KVv7MyYxe4TwDmw+Jq7TxR39GlLszKjhgyon4BAVBlR1A+iRZkrb45W5gBERaNz1sSCQurN0mgA7cvYnw4PS58vQzQWdz0IQxT6gVUhRnfv2RfJ+VL5r35u5oJ7HGNK2PKGTMpvvowZFlGPSckXXIg==;IwMiBoTKZcHaveU3FLNhGw=="

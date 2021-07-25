@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/22/15-way
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/07/22/15-ways-to-leverage-ai-in-customer-service/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How Artificial Intelligence Can Help Enhance Customer Engagement"
-    excerpt: "How Artificial Intelligence Can Help Enhance Customer Engagement  - When CRMs are combined with AI, businesses can improve their customer engagements by providing ease and convenience."
-    publishedDateTime: 2021-07-20T05:43:00Z
-    webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-can-help-enhance-customer-engagement---nid-34090-cid-244.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_UWAdeVPn.jpg"
-        width: 705
-        height: 485
         isCached: true
 
 secured: "TdXV/6ug3/FQYEbP9kwTp/7ohLNetpFklEXTyiF+BN2vIFE7mM3LTEGIdqNvEui0VKQIC/Mx0mui8lqPHZVyWrNMlLlRM0xYKv1Ih8KFXC3ZrY+NcfJ3O1+cofWTgnaOSUQ9MJQX9LUlnl5Xr7hbTgEHLVFnsaNfHYj7Ip9p/meubEZ+E8ZDpsi2n5Q6gUKosd/gYYIqdlHjRUNI6BMaz4ubZbSPuwLFPLjeyHXVAyK1lCkY3v5HGhhM5XV2u65ELOYzNIjO1TH7Fyf/rCT4GJI/kjD9bqH8DRIO8+eTFwiIGwncbPBD5GCperVFhz9/zfi8IQvz6RJk480JT+B+Gnxf9d5BzTvzRKquWzegScsD2ENj6wPOlUKm99JZRRy+Jw1nychYTQElMYkI31IQYcHrv3gAWPBTy7Ly7Vbfxv7xTeZFoCJaYaUd/Jm/pScktJZwkWEpGJrVtX+QcOBWZy/AL8AlnyWQuA0co9BG2lsLUKd8+Io8+xh1Iz3ps/mhx6jYHPLIvd8LEeHaoUTRRQ==;gQ56rQoB2zhIaDeMz+Ek0A=="

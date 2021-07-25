@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/dazzled-by-the-sun-nasa-taps-ai-to-give-it
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/dazzled-by-the-sun-nasa-taps-ai-to-give-its-solar-telescope-an-eye-test-23683777/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Solar Dynamics Observatory: Artificial Intelligence Helps Improve NASA’s Eyes on the Sun"
+    excerpt: "A group of researchers is using artificial intelligence techniques to calibrate some of NASA’s images of the Sun, helping improve the data that scientists use for solar research. The new technique was published in the journal Astronomy & Astrophysics on April 13,"
+    publishedDateTime: 2021-07-24T22:26:00Z
+    webUrl: "https://scitechdaily.com/solar-dynamics-observatory-artificial-intelligence-helps-improve-nasas-eyes-on-the-sun/"
+    ampWebUrl: "https://scitechdaily.com/solar-dynamics-observatory-artificial-intelligence-helps-improve-nasas-eyes-on-the-sun/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/solar-dynamics-observatory-artificial-intelligence-helps-improve-nasas-eyes-on-the-sun/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 48
+    images:
+      - url: "https://scitechdaily.com/images/Sun-AIA-2021-777x778.jpg"
+        width: 777
+        height: 778
+        isCached: true
   - title: "Artificial intelligence helps improve NASA's eyes on the Sun"
     excerpt: "A group of researchers is using artificial intelligence techniques to calibrate some of NASA's images of the Sun, helping improve the data that scientists use for solar research. The new technique was published in the journal Astronomy & Astrophysics on April 13,"
     publishedDateTime: 2021-07-24T08:34:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Successful Ofqual Recognition: Top 10 Words of Wisdom"
-    excerpt: "On 4 August 2020, the Institute for Apprenticeships and Technical Education (@IFATEched), announced the transfer of the #EQA of end-point assessment to @Ofqual, or, for integrated higher and degree apprenticeships,"
-    publishedDateTime: 2021-07-20T06:21:00Z
-    webUrl: "https://www.fenews.co.uk/fevoices/72887-sharing-ofqual-recognition-experiences-to-help-other-epaos"
-    type: article
-    provider:
-      name: fenews.co.uk
-      domain: fenews.co.uk
-    quality: 24
-    images:
-      - url: "https://www.fenews.co.uk/images/Fay_Edwards_FE_News.jpg"
-        width: 750
-        height: 570
-        isCached: true
   - title: "Employee recognition: How to get it right"
     excerpt: "Employee recognition is one of the simplest and most cost-effective strategies to boosting motivation and productivity in the workplace. So why is so often underutilised? New research by Achievers has identified a sizeable disconnect between how successful managers see their company’s recognition strategies to be and the experience of employees on the ground."
     publishedDateTime: 2021-07-23T16:25:00Z

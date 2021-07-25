@@ -2,6 +2,49 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-06-18-neural-network-captures-noisy-neurons-in-autism-mouse-model.md",
+      "title": "Neural network captures noisy neurons in autism mouse model",
+      "excerpt": "Mice missing the autism-linked gene SHANK3 use more neurons to engage in social behavior than control mice do, reflecting a more disorganized, less efficient brain signaling network.",
+      "sourceUrl": null,
+      "webUrl": "https://www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/",
+      "originalUrl": "https://www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://spectrumnews-web-assets.s3.amazonaws.com/wp-content/uploads/2021/06/17122732/20210610-PrefrontalCortex1120-1120x550.jpg",
+          "width": 1120,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/amp",
+      "cdnAmpWebUrl": "https://www-spectrumnews-org.cdn.ampproject.org/c/s/www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/amp",
+      "publishedDateTime": "2021-06-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Spectrum",
+        "domain": "spectrumnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-the-future-challenges-of-big-data-in-healthcare.md",
       "title": "The Future Challenges Of Big Data In Healthcare",
       "excerpt": "Incredible discoveries in the science community have made data collection of individual health measures simple, from everyday wearables that measure vitals to mouth swabs that map out a genome.",
@@ -1098,58 +1141,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests.md",
-      "title": "Ethical AI will not see broad adoption by 2030, study suggests",
-      "excerpt": "According to a survey by the Pew Research Center and Elon University, experts don't believe ethical AI will be broadly adopted soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/",
-      "originalUrl": "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/06/PI_21.06.16_EthicalAI_featured.png?w=640",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

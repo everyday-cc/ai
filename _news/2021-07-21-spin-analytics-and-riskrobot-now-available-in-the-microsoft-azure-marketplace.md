@@ -77,20 +77,6 @@ related:
         width: 811
         height: 651
         isCached: true
-  - title: "Global AI for Speech Recognition Market Rising Trends, Industry Analysis and Demands 2021 to 2026"
-    excerpt: "The latest study offered by MarketsandResearchbiz namely Global AI for Speech Recognition Market 2021 by Company Regionscom"
-    publishedDateTime: 2021-07-20T05:38:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270372068/global-ai-for-speech-recognition-market-rising-trends-industry-analysis-and-demands-2021-to-2026"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1627102071871.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Global Geospatial Analytics Artificial Intelligence Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2026"
     excerpt: "The latest market research report titled Global Geospatial Analytics Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 enfolds expansive evaluation of the market offering an analysis of the market revenue,"
     publishedDateTime: 2021-07-21T00:44:00Z

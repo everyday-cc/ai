@@ -2,6 +2,57 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-06-22-thinkwhy-applies-ai-to-better-determine-compensation.md",
+      "title": "ThinkWhy applies AI to better determine compensation",
+      "excerpt": "ThinkWhy adds a new feature that enables HR teams to leverage AI to fine-tune compensation packages by region.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/22/thinkwhy-applies-ai-to-better-determine-compensation/",
+      "originalUrl": "https://venturebeat.com/2021/06/22/thinkwhy-applies-ai-to-better-determine-compensation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/ThinkWhy-LaborIQ-Home-HiRes-Image.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/22/thinkwhy-applies-ai-to-better-determine-compensation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/thinkwhy-applies-ai-to-better-determine-compensation/amp/",
+      "publishedDateTime": "2021-06-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs.md",
       "title": "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs",
       "excerpt": "At the same time, ARCFOX and Baidu are also developing the next generation autonomous driving products. As self-driving cars change the future world of transportation, our goal is to bring users a ...",
@@ -1109,50 +1160,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure.md",
-      "title": "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure",
-      "excerpt": "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,",
-      "sourceUrl": null,
-      "webUrl": "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
-      "originalUrl": "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
-      "cdnAmpWebUrl": "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
-      "publishedDateTime": "2021-06-21T21:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Steel News",
-        "domain": "steelguru.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-06-18-ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests.md",
+      "title": "Ethical AI will not see broad adoption by 2030, study suggests",
+      "excerpt": "According to a survey by the Pew Research Center and Elon University, experts don't believe ethical AI will be broadly adopted soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/",
+      "originalUrl": "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/06/PI_21.06.16_EthicalAI_featured.png?w=640",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700.md",
       "title": "KeepTruckin raises $190 million to invest in AI products, double R&D team to 700",
       "excerpt": "KeepTruckin, a hardware and software developer that helps trucking fleets manage vehicle, cargo and driver safety, has just raised $190 million in a Series E funding round, which puts the company’s valuation at $2 billion,",
@@ -1143,58 +1195,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-voice-control-is-now-table-stakes-for-consumer-electronics.md",
-      "title": "Voice Control Is Now Table Stakes For Consumer Electronics",
-      "excerpt": "Voice control as an embedded feature is no longer a surprise — it has become table stakes to play at the top of the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/amp/",
-      "publishedDateTime": "2021-06-17T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,9 +2,9 @@
 category: news
 title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
 excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
-publishedDateTime: 2021-07-14T04:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
-webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030603718"
+publishedDateTime: 2021-07-14T08:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
+webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 400
     isCached: true
 
-secured: "hF5fKOszCNugTUpFLNddxLruaQLGvWs6fOml9vysTVeQZmikNsbmHDvfgd26ctiTDaW+qTdL92MJ06goXfaOcVNq1Dxug7TPLBeY/lJQx8ZwYuLXHbpIeAFGZN8UhsAvUHMg3eGsR3fRRcxmoxHjn9p1GmLrUz0T30MQK3JWhRB8Q/Y7tECDaxsvhAb/ChUQkuozAhfCVseb/ofUvuVx/Z85M+8oYgl/7PwzuiB2bD1csIZWHYFv8dEkPaJnQ/DlbBOCGrtgl2Jd2dwSWUJxfwHA1UMMVXFceq5bramBM2uGdAsFPZMHuptD08XmYeYz8VuHaQcTGQZdw8wniUcuoBDpfZouuUKnCQENMdVb6jE=;dSdrPNTlsFt7nvaWXjPL+Q=="
+secured: "4Cnm/JWFYMMeHq5INEKD/vVlgwfRua499qw3lOw6cFPsppNGVpponAqJ+1dLYXmxbOGCS2b2y9WOko1Rfa5alTr0yu2BDlWK3sRkaLQn1nOMrYcItogqeoA/45DRODKAqp80AMTXrv9kGCfx9+Lgy9zZTU7K6LsCQL1h6tTlt5+fGE3a/AQvTSj9LYBvkFFc+NLSwDhRPXF6/7fBCJe/5m/aCXY/PHtPMCbmsZ8CndzB8Vsj3f8bL31hDDRFfEGIbmZg1Z7WPcEPDCT2fbN/YVVN0eLIj6JmvFFp24XSHh94IVErr6WRebI1YYXxS7szErMYB1wOuVEl0oOf2j6O5ijheSdNNY0fIU/bF2TgtgE=;g+Cvj/3R4X0MgpOGg/DhTQ=="
 ---
 

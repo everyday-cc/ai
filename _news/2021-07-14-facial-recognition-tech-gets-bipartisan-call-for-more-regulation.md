@@ -11,12 +11,13 @@ provider:
   name: Bloomberg
   domain: bloomberg.com
   images:
-    - url: "/assets/images/organizations/bloomberg.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/2/15/enhanced/2a50fc7f1020/original-1498-1617378524-16.jpg?crop=1600:837;0,132"
@@ -24,6 +25,6 @@ images:
     height: 837
     isCached: true
 
-secured: "LtoRIQOMpmsP8lvDlGTYLrXeonzSHSluEN5p/eT3jak8deTeEgOoydm0lNeJ7Uy8ztLjKNhcuL3/DMUxAftOapGpFSY8OCKD+Hpjv7fjiTuNCJRAyjHl0/qFznHxSEgVbhfn454yBocyxwReF2MM6uaa2wgNfoRIn93i5WbwQwKvH6ygXOVtE5HiaUNLHAoBd0l5dh4CuYtcisJy/uaYHgJoyHWj8zw7wEB6xmjzPPD1Wp5y8/1M0Ibe1TBPaYElkpl1Bp7xT1Mpmaxddv0lixfA+PuPRO5WzYuWFXgUpl9rESrHLjpALfobduX9lSOEk9X+8UdOKGeJK26OCLLOosoBliZ7whiPYLsud6gMrVA=;w4zTPa003xwrboqJ1n8rBQ=="
+secured: "jRRvr070VOwJFNUL2RYJuWYmucZKpykd1KGnDVGyYSokrkZKvCDDWenR9I3lrhxIG2S3rw0LxBGsmyorvpyNwjkAnaJuWjWq4MyybHBzG8ksGL3vch7ItDar26NnYlCKEZMRUmrnOuHUoIiR4XJ9ipU5CYUQcAj/cO5qnflM5qoXtFwdVRiC796YYcm+7qEYvDfEyG8Tt33TX2g6ck8c45cj1sEmI0yXoEhYN1VTG+QxU6+Uvq9xFb17XxHSBQ49htp4+DvDDFWSbjgLlAv0ovPVzEZp94gNEi5e64o8roa+l7Cj9yRynbufAWaxFWQdZ1wry8WFUtP5SBu4xSCC66Q2Ni09RURQG/+CAnbkhFHS+gIdDYNig/RToszfRVz1;4Omhlh73WeFMxwGkTGGQBw=="
 ---
 

@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
-excerpt: "By Rachel Metz, CNN Business After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for"
-publishedDateTime: 2021-07-23T17:31:00Z
-originalUrl: "https://keyt.com/news/money-and-business/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
-webUrl: "https://keyt.com/news/money-and-business/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
+excerpt: "By Rachel Metz, CNN Business After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he hasn’t received a penny of the $6,"
+publishedDateTime: 2021-07-23T14:08:00Z
+originalUrl: "https://kyma.com/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
+webUrl: "https://kyma.com/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: KYMA
+  domain: kyma.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://keyt.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
+  - url: "https://kyma.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
     width: 2500
     height: 1663
     isCached: true
@@ -58,20 +58,20 @@ related:
         height: 382
         isCached: true
   - title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
-    excerpt: "By Rachel Metz, CNN Business After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he hasn’t received a penny of the $6,"
-    publishedDateTime: 2021-07-23T14:08:00Z
-    webUrl: "https://kyma.com/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
+    excerpt: "By Rachel Metz, CNN Business After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for"
+    publishedDateTime: 2021-07-23T17:31:00Z
+    webUrl: "https://keyt.com/news/money-and-business/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
     type: article
     provider:
-      name: KYMA
-      domain: kyma.com
+      name: KEYT
+      domain: keyt.com
     quality: 31
     images:
-      - url: "https://kyma.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
+      - url: "https://keyt.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
         width: 2500
         height: 1663
         isCached: true
 
-secured: "udZNHivWTob8ZMAFcitU9TAyEwQKnW3KZ6wlwYTlDu0z/jC68So4g3N1ClZ1ieol/4OnHg6XokDn5kmWhIP40TMOiTvPGIkJfR84Bu0xgWTINsCht4QvMw3/PeG1RXxI/d7SKPXFUau7ZJ7a8cL0QNKQGqyKfhmHoi+v2uFxAM8kcgG873pxT9FELzqzciZ9o9vpv2eXa7uAHQwzFhQV8wKY2Qrd9sMTv7X0/Dv7HMaHieaEuRw4R0yIs78pWvWp21QcTvheD/l8vjKebuMS0EnlS43MT08GgyRndo4WMb8r6zxZk6WBHHj83RBXb2Jw46sTEFso+iX5SZf9bpeOCXPRIbM/r+mV8uK4z9KE9js=;myF50WRPd5bxgHxsCIddcA=="
+secured: "SxSVgre+ChiADvdZq/eoAOlRHBj8Os/KWkyJcnwD59+uKgCGCgx29Tr86PUmAu3tXjFUjf79TTuFSzFu1CzByfXqZbYcDuWcHL+rBq0wgVsaR4TJG0/vAWtA5oEHN8KzZ+QvSoI2zrSAZOiuYpUVmzfq4Bh6h8eGF75BRqXR/TRlofdX5A60fsaIbdWqy3vpib3qv9/iDw6TQ4S3OZ6pQyECqLH5JMaHqyZJIR9coho8AirAR60Hr00x1/gWbqX0GKgDtGoUkb4KocfUnIt3E0KlSiSpEzJVbEIhP5QvqnjBe8vpeSqXjS74wg3+5Eik30EZZ+gftSOzHkEButOk7AUc8gkhyqXa79oTghQf76Y=;iz5V6m32S8C3sr5hXK3I+g=="
 ---
 

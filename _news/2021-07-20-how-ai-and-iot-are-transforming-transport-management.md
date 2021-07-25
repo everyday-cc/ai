@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Understanding how AI Drives Digital Transformation?"
-    excerpt: "When AI and machine learning become part of a company's strategy, it represents a new digital transformation era. FREMONT, CA: In a dynamic, fast-changing market world, digital transformation is one of the most critical factors of how companies deliver ..."
-    publishedDateTime: 2021-07-20T06:27:00Z
-    webUrl: "https://www.cioapplications.com/news/understanding-how-ai-drives-digital-transformation-nid-8112.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/gs3kk423.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "WjMDQ0D1BtT7XV3fdAKXx22G2ZR6VSNh8ZfcObxBSAL9SbhN/5JaU9lw5AjzRN3elaEUJ9qx7PnfGzwBtl/LdHtPRWpqhDmR/CwhEpMIVf1jpeCunUxLJU897Msp9xPE1nQXheFqfqfv3GSSTTleZZ5ha5f4yg8yr/Y/dqG5eFyrHnBdk23w+Pt5WaHU0KbNTWQB3kKY8ojim6BFxn5S+lRZeqlgDLdYy0rBtCoky6JBPh3GkXE9lqBTz7nwCoZUbaKD+Wa87X1qxBeavsl7GNg3pNo7CZeR8Ww1ZhurH9FNNEwHBqAzlns1/aKNKyJB87IUSSeOHvxCW6uLQ/YQeG6YRmqaskcIEQkpGChlFuvmkP9HlSYTyI/nXr7CYQjFMyqD8LZii+3wqPmW+WnCrc4VCi34kLsaGxolhPDpF7ZIhYHvF8pTPiSOL6cp8gzlYORWlSiGjQcr4OtPt67OitFE459OAyMMY7ffleJYfJybMe0nttlsC6TqVJjbM+k07jlkbFJwdqcq91Pc/lPHjw==;dyD94LtjGG6vXnzy0e9Mrg=="
 ---

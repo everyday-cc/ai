@@ -95,20 +95,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 45
-  - title: "Global AI for Speech Recognition Market Rising Trends, Industry Analysis and Demands 2021 to 2026"
-    excerpt: "The latest study offered by MarketsandResearchbiz namely Global AI for Speech Recognition Market 2021 by Company Regionscom"
-    publishedDateTime: 2021-07-20T05:38:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270372068/global-ai-for-speech-recognition-market-rising-trends-industry-analysis-and-demands-2021-to-2026"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1627102071871.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "VeroSource Solutions Announces Gerry Fairweather as VP of Innovation and Analytics"
     excerpt: "VeroSource Solutions, Inc. is pleased to announce that Gerry Fairweather has joined its Executive as VP of Innovation and Analytics. Effective immediately, Fairweather will lead the digital health company's growing data science practice,"
     publishedDateTime: 2021-07-21T11:08:00Z

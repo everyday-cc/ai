@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automate-annotation-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-annotation-of-image-training-data-with-amazon-rekognition/"
 type: article
 quality: 121
-heat: 152
+heat: 151
 published: true
 
 provider:
