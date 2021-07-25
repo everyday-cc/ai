@@ -3,8 +3,8 @@ category: news
 title: "Experience The Future Of Cinema, As Campari Creates The First Short Film Made With Artificial Intelligence Inspired By The Creative Genius Of Fellini"
 excerpt: "Fellini Forward, an ode to Federico Fellini Marcus du Sautoy, Artificial Intelligence & Creativity Expert says: \"We should see Artificial Intelligence as an extraordinary collaborator; it's a new tool,"
 publishedDateTime: 2021-07-21T07:00:00Z
-originalUrl: "https://www.troyrecord.com/news/national/experience-the-future-of-cinema-as-campari-creates-the-first-short-film-made-with-artificial/article_12235ea4-6e22-5b20-8412-47bc0559ac67.html"
-webUrl: "https://www.troyrecord.com/news/national/experience-the-future-of-cinema-as-campari-creates-the-first-short-film-made-with-artificial/article_12235ea4-6e22-5b20-8412-47bc0559ac67.html"
+originalUrl: "https://www.troyrecord.com/news/national/experience-the-future-of-cinema-as-campari-creates-the-first-short-film-made-with-artificial/article_ab20c3d0-8187-5ede-badf-001b62f9533a.html"
+webUrl: "https://www.troyrecord.com/news/national/experience-the-future-of-cinema-as-campari-creates-the-first-short-film-made-with-artificial/article_ab20c3d0-8187-5ede-badf-001b62f9533a.html"
 type: article
 quality: 0
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 521
         isCached: true
 
-secured: "vpWKo3tIKkWYxi4CYRrEvJ3Z61A9UW/Sbh1PPAJVSgxEC30ZgMfHHGPUW0dragMac14MU6uRpamL9FPnHK2x1U5FP+2JuXw8dDbxCKT9N0V+QwZIJ1SLQMLiqnvHk8ykVYvv/lFTBIhmP4FE5yNItmjMRqf8am44T36ae3CQcgPpgwvyA0/Z7E4IEJSHH11lg5ayv0armLv0VxLeCZdpN/7aNxI7Fgvjbd80tmz0zyYX2Do6W8AVSQQGYsvq6Sclvc8qdaaMhonh7y2Przdeh3cJVwWyi2BK7FMz/FIp3q3XAyjBlSWOdPtPfV1WAZD6p6oC9He8meJye+zL7TQu+XavNz9m1z9LssxZ1hs3a7Nba5C08sQCf9T0tFEPU1ZA0lgq11Lw+HOhFaEqPxTvRiHGKpb941bGPUHwPC/WEYOiK3ce7TGtMUqVU211G/ObBDqyvx+Dpb7CbYKfOsrVMCFHjfzQO4b7Cp8LpG0FWlSrxHdS77+g0ljyMipo0sSugQIYTMdlcjXVHfq/EA/cLw==;2BxR458RKp7oPL5TiynxZQ=="
+secured: "8DQLNaFkYj5eYjUVWiiNtaJNHZ34TiEbsiUeSfLBQ+cwnPS+5DQuwJV2BDiLkrBZDcDWlwoHgTw9PcZeS23CfmRvM59cEXbx3SI8en00hSFvmccUG+wqgvrKkgEPAXYYoiJBKimCs86qiVRb8k88XbRF4vl+GAbdyEpwalWphZ3xN+q03OlQaa71pxSrbWD8r7vLp44QMCywkG86wXVdHyM8Cd4MiLwHgqzkzZYQLX0/hk0BuhVXCuV3zsi2xCqQDtIZWkodjAXyz6LFqppEK4nD2WgXXEaFZno+cR7Tnk/At6FSkRzh8kniY4rUlDv9Ws5ENiam8ey0U/jCas/VRCQaaGXJESsM7hxNXf++mbk=;a4JUQKsuycVoku+tGu4YVw=="
 ---
 

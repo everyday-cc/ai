@@ -232,20 +232,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 34
-  - title: "Mobileye tests fleet of self-driving cars in New York City"
-    excerpt: "Intel Corp.'s Mobileye said Tuesday it was testing self-driving vehicles in New York City, including the bustling Manhattan borough, in an effort to prove its technology can handle jaywalkers, construction zones and even horse carriages."
-    publishedDateTime: 2021-07-20T16:58:00Z
-    webUrl: "https://www.autonews.com/mobility-report/mobileye-tests-fleet-self-driving-cars-new-york-city"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/intel.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "xhLfeSDEQOpihfosfG89tfyVMY4RVsj79ams5fYWGkjk48CEKBNUC1EsGf+Z7Kn+GADcpOZTqze0Nh9g/qGUkJDs3AhRYc9+ci4ytR+/8j2mG8aqYLdi+NnCvJ2GVVCUkV/zO9lb/B7YXnVZQmDJuSVCNNYAJs2LdRrqdbE0cI22lYEkYaO2QL59acgdSlWQKFtxZM9nOy2KXuAn7i+IfrPL0KukNi+8ij5xkgMGvnfpm6fbnpA1TcmetSawvhFXOuGrBpZIxCQpaCFl5GBd+CGNkZ4iHamw7aOAB15qMM6oDJyYunWgZShJiKR8zPjH6Z587KdUrnGcONYz8n+GTrg9ueXcNVe1A4HLJ2i0OkA=;xMG+2bOuS1s0DdNRFOJpbg=="
 ---

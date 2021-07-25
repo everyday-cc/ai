@@ -7,8 +7,8 @@ originalUrl: "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/"
 webUrl: "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: InfoQ
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dotmatics Announces Support for the AWS for Health Initiative"
-    excerpt: "Dotmatics has announced support for the AWS for Health initiative from Amazon Web Services (AWS) to improve laboratory efficiency and accelerate the pace of scientific innovation by facilitating more rapid data access,"
-    publishedDateTime: 2021-07-20T15:07:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/product-news/dotmatics-announces-support-for-the-aws-for-health-initiative-351111"
-    ampWebUrl: "https://www.technologynetworks.com/informatics/product-news/amp/dotmatics-announces-support-for-the-aws-for-health-initiative-351111"
-    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/product-news/amp/dotmatics-announces-support-for-the-aws-for-health-initiative-351111"
-    type: article
-    provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 59
-    images:
-      - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
-        width: 389
-        height: 389
-        isCached: true
-  - title: "VeroSource Solutions Announces Gerry Fairweather as VP of Innovation and Analytics"
-    excerpt: "VeroSource Solutions, Inc. is pleased to announce that Gerry Fairweather has joined its Executive as VP of Innovation and Analytics. Effective immediately, Fairweather will lead the digital health company's growing data science practice,"
-    publishedDateTime: 2021-07-21T11:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19912390.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 33
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "1Strategy Announces Support for AWS for Health Initiative"
     excerpt: "Strategy, a TEKsystems Global Services company and Amazon Web Services (News - Alert) (AWS) Premier Partner, announced support for the AWS for Health initiative to help accelerate solutions in genomics research."
     publishedDateTime: 2021-07-21T15:16:00Z

@@ -1,42 +1,26 @@
 ---
 category: news
 title: "Scientists adopt deep learning for multi-object tracking"
-excerpt: "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our daily lives. There are, however, some tasks in this field that are still extremely difficult for computers to perform with acceptable accuracy and speed."
-publishedDateTime: 2021-07-19T15:16:00Z
-originalUrl: "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.html"
-webUrl: "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.html"
-ampWebUrl: "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp"
+excerpt: "At the Gwangju Institute of Science and Technology in Korea, a team of researchers led by Professor Moongu Jeon seeks to solve these issues by incorporating deep learning techniques into a multi ..."
+publishedDateTime: 2021-07-19T00:00:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-07/gio-sad071921.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-07/gio-sad071921.php"
 type: article
-quality: 59
-heat: 69
-published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-adopt-deep.jpg"
+  - url: "https://www.eurekalert.org/multimedia/pub/web/270897_web.jpg"
     width: 1440
     height: 810
     isCached: true
 
-related:
-  - title: "Scientists adopt deep learning for multi-object tracking"
-    excerpt: "Scientists adopt deep learning for multi-object tracking Their novel framework achieves state-of-the-art performance without sacrificing efficiency in public surveillance tasks Date: July 19, 2021 ..."
-    publishedDateTime: 2021-07-19T20:29:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/07/210719110534.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-
-secured: "IoF1fe1AKvhs5mYr88Vlfx3TaOxCOW+TgBCMaAa2OgxAfJX3lWo6qPYaZHfW8+m/jTigDIJ/jdFBkXfadlCWtqiic/vGauyo2R3B0r+w/CvQgWN0Yq+ahYkM+dVqS4jOHetqJFgfLgHE1qKYkCof6tqQBcHxGW8JgD4zlYZdN3i31UoBAThXCzaoUrM3le5u9XS/p9VPQglH166rxEjdOn0GQFHH++ZoRUGO2c44O4i9iAOMXLULr1iuVNx7/V9m2WrxgLahf98OchowNDHfkbn8mY9nhHc/gOrQkhAh021Ug4XiIR5ZMsLBYT8cIvt1use1C5js+gEPdApgRigRrJl6chbyA8umev7owU4dFTXlbbppMIzJx3xyZogk8yv5i5pepC5Lo0buUcfZycCWgWrrqKAm+A9Uog7njI06bL5vw8IiffNIpIB5pYsKi+zoDbNEOsUDM7cF47SZWT1Hs4UjOdhg3zqmdC/2xjRv/XmNSPFzBPSI5dq2QKTIxjlxFMTv3ofiXM3/iKjnz+h60w==;F7ac2V/C6fQqy5rmelJV5A=="
+secured: "sWGNA2NNpxrucEbPJwiPJPT2DQQLXOZVirWiIrGvBacCt+Z9EwMgcGQUKZP0ysi0vRE8m3+gZXXZzLj5O2TdfUWGnhsrLh+0a2nGINmwulYjrTVNigVmn0be3Lsy1Pt2bW57c+XJJ9RI80/v+emN8+G4hjM9QWJURc6PkWI7B/l3r9ycYsMYhwBrxmIEbUS98wP8eieXgtm3+AboCI01fkQWrGjSiKwhAAVba8UnIKdNbpRS6tCrjC42kXI2GFlcufLHUKVGEWKeiwnSye8EzznEDOeJFiw8bd9t19PRDcMnSqsOApitJbjJGvU7P2PyH90Hw+VkI5srgmIxoPZ/g76UKGAfynJV+9zyfEXZxPY=;y8poad3jxDs+mEo4sR+64w=="
 ---
 

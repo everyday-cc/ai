@@ -39,20 +39,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Octane AI Raises $5 Million to Help Shopify Merchants Personalize Ecommerce Experiences"
-    excerpt: "Octane AI, the pioneer zero-party data marketing platform, today announced it has raised $5 million in capital in a round led by Javelin Venture Partners, the investor behind Masterclass and Thumbtack,"
-    publishedDateTime: 2021-07-20T15:16:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/lifestyle-technology-sports-business-07885aef8a84be2a9c1deedb6c37a8b3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "WYvFLZPZIXOMRkplz695gTPxYl2Xo51sTfl1LVtr3rX7Dj4y56bJlNbI1AUCPr41K0GLNvuGXA+TpBGf27dQOtF60C32bQ+c9gfQI1yOKZwIu8DkmeTBk+6270ZJ3MIssezbOPaM6E21NMlF6RJ03mRVPbwosuMPF3GXlwdQJ/soLKk6XxZ9oSUJkbdbMZEHX5vIrxCeEHNjkpopTvpxnc2Q6+8MrUb8JmODpShk1KC9KckKzD0IuMeKxHkkys9RyQvTenBANr7DOV5K3Ny38VCPpxZKXIe/wI90RKUMLwDnCK0dg7MUIY6uzDSY2IcpLyulEHs7k/ko2TBkHBa6wh8GEQu52ayKiRbHPX7DUow/haAaI9wDcYl9ASXmnBGbGtM7z6VUbNQfuhWUixNG9yu4c3u773t99TuJMaedxMRjLvQrSlsOtxh67DW9o4gfQKUwe76FS6Vz+T9jsWsPzlGDnBsf+dNIHfwKA8RvM1AQwGzXmd5X0PCNcNxnqsxNssL0yAkQmlvxkuRy3rBhdw==;LLV3E6nSysnk+KyEqkU8RQ=="
 ---

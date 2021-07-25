@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/mobileye-intel-autonomous-cars-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mobileye-intel-autonomous-cars-new-york-city/"
 type: article
 quality: 142
-heat: 222
+heat: 212
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Mobileye Tests Fleet of Self-Driving Cars in NYC, Including Manhattan"
-    excerpt: "Intel Corp unit Mobileye on Tuesday said it was testing a small fleet of self-driving test vehicles in New York City, including the bustling Manhattan borough, in an effort to prove the company's technological progress."
-    publishedDateTime: 2021-07-20T15:51:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-07-20/mobileye-tests-fleet-of-self-driving-cars-in-nyc-including-manhattan"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "Mobileye’s Self-Driving Vehicle Navigates New York Traffic"
     excerpt: "In newly released footage, Mobileye's test vehicle makes its way through the busy roads of Manhattan, stopping for pedestrians and cyclists, and navigating construction zones."
     publishedDateTime: 2021-07-22T08:36:00Z

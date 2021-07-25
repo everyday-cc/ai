@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/5-best-machine-learning-research-pap
 webUrl: "https://analyticsindiamag.com/5-best-machine-learning-research-papers-at-icml-2021/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Sber Presents its AI-powered Healthcare Solutions at ICML"
-    excerpt: "Sber AI Laboratory has presented two AI-powered solutions at the 38th International Conference on Machine Learning (ICML): a model that identifies pneumonia sources in lungs through X-rays with further prioritization of patients who must receive treatment and a model that evaluates the risks of severe symptoms in patients hospitalized with pneumonia,"
-    publishedDateTime: 2021-07-20T16:26:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/sber-presents-its-ai-powered-healthcare-solutions-icml"
+  - title: "ML Research Papers From India Accepted At ICML 2021"
+    excerpt: "ICML Conference attracted 4,990 submissions, with 1088 approved papers at a 21.8 percent acceptance rate. For this year’s conference, held online from July 18-24, the number of accepted papers stood at 1184."
+    publishedDateTime: 2021-07-25T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/ml-research-papers-from-india-accepted-at-icml-2021/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 54
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
     images:
-      - url: "https://financialit.net/sites/default/files/sber_3_0.jpg"
-        width: 878
-        height: 456
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/All-The-Research-Papers-From-IIT-IISc-That-Made-It-To-ICML-2021-1.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "maxwTRc25ImZjJuOhvaN3H7wqinrfjx8glURo3R9pay1b2zfMsrRtrW+r9C7Y9wCr0CG2L1PTxFjPmHgvJ+gkVOvg1FGrr7fR9E/v50NLI7thidI4JQV1SerWlsYJXmwbTPHuO3PcX+KyZOJefvtkj8hHusqAp9MOJViXDv3fyIO/mpWwmeptktda0Ct645ojd2h2IK71vZHEyCI1ihDqKI0p3SsJnZj1LxkkWzA6RvFVvVtcpPWjwAJWeR9NB17pQPGNDeHSjo8hJFydu0A/XJr2z3YF6wZr4X761m1dGa107cRNvZnsURbk4L+Okqq8LhFrxsEAqk7rMj4E/UOEzfO8n7aEN1bXMMFrvn3Ox0=;Sw+M7HqiU6X4O9YosBxYhw=="

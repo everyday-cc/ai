@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/22/deepmind-open-sources-protein-str
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/deepmind-open-sources-protein-structure-dataset-generated-by-alphafold-2/amp/"
 type: article
 quality: 188
-heat: 348
+heat: 338
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/b5224d1/2147483647/strip/true/crop/1836x1224+165+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc9%2F19%2Fc67ee520426bbd2894472a89a24f%2Fscreen-shot-2021-07-23-at-12.52.28.png"
         width: 1200
         height: 800
-        isCached: true
-  - title: "DeepMind’s AlphaFold2 Predicts Protein Structures with Atomic-Level Accuracy"
-    excerpt: "The prediction of protein structures from amino acid sequence information alone, known as the \"protein folding problem,\" has been an important open research question for more than 50 years. In the fall of 2020,"
-    publishedDateTime: 2021-07-20T15:08:00Z
-    webUrl: "https://syncedreview.com/2021/07/20/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-65/"
-    ampWebUrl: "https://syncedreview.com/2021/07/20/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-65/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/07/20/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-65/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 56
-    images:
-      - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
         isCached: true
   - title: "DeepMind says it will release the structure of every protein known to science"
     excerpt: "The company has already used its protein folding AI, AlphaFold, to generate structures for the human proteome, as well as yeast, fruit flies, mice and more."

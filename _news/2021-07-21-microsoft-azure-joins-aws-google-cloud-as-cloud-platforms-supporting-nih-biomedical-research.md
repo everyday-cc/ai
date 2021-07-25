@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-go
 webUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical"
 type: article
 quality: 60
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -82,15 +82,6 @@ related:
         width: 1920
         height: 1281
         isCached: true
-  - title: "Partnering with the NIH to advance biomedical research"
-    excerpt: "Today, we are thrilled to announce a new partnership between Microsoft and the National Institutes of Health (NIH) to accelerate biomedical research in a post-pandemic world. As an approved cloud platform for the NIH's Science and Technology Research Infrastructure for Discovery,"
-    publishedDateTime: 2021-07-20T15:58:00Z
-    webUrl: "https://www.publicnow.com/view/E9C3F5DF4EFD11C4BC1F08842773735EEC5CBB51"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 4
 
 secured: "bU8egelOl6BQwSXhYoPimBvt4Np1oRbHC1hk8qvjux42n2AqUXCbe+SrZr4my+tzIvwaeZ+5u+8l18BGO+cZFWhFcu1bjZj9eVDQaZY49y7F6eT7n4Yis5UGIdH1yxYC+JkOTVja/OZKfvcU9KER6w+yoUDP1yGxQxwXu2Z09gAavP1xNEj9ejdrEcl9Hq110oq8e/B7t3MDVd7A6xMRG4tkZTLoHHOTxAGHw8bT9MvA/O6v7DdwNV4HAigQNgS2ut4bNiz71gzgjhPXOXjIGgOsbDEuTE3s/5id1xmfKhP6TzETTDqXJm/Opp7ZKlikwQeOO0okrw8rPoVa58VRVTCz45eC8wXdpAGSF8HrVUv2Z6R0AMMIXQWTxpjzk3cGpk6xvncWIze0XFtQjsQVZStibBJSOXqJH+oS3+DGF/U33L3mE/ppewmq9CKEefdLd7zYOg3vXOy9qZcBS1O+5Q3yknnV8OmMbyaHrgNMSnLgvo8VBjQ2jPLJlEyKptJOS6SE2SDnhnunMwy0RSairw==;FSGtA6fJEo8/NIK55ArcXA=="
 ---

@@ -2,6 +2,145 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-07-13-machine-learning-model-from-the-largest-us-covid-19-dataset-predicts-disease-severity.md",
+      "title": "Machine learning model from the largest US COVID-19 dataset predicts disease severity",
+      "excerpt": "The study, published in the journal JAMA Network Open, looked at risk factors for severe cases of COVID-19 and traced the progression of the disease over time. The authors built machine learning models to predict which hospitalized patients would develop severe disease based on information collected on their first day in a hospital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/7/13/22573753/covid-data-health-records-machine-learning-disease",
+      "originalUrl": "https://www.theverge.com/2021/7/13/22573753/covid-data-health-records-machine-learning-disease",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/wycNcUptzTs63ZG67FZ5p5ZJ0Ns=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69575654/acastro_200428_1777_coronavirus_0002.0.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/7/13/22573753/covid-data-health-records-machine-learning-disease",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/13/22573753/covid-data-health-records-machine-learning-disease",
+      "publishedDateTime": "2021-07-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-university-of-oxford-and-esme-learning-champion-the-future-of-fintech-with-the-oxford-digital-finance-executive-education-series.md",
+      "title": "University of Oxford and Esme Learning Champion the Future of Fintech with the Oxford Digital Finance Executive Education Series",
+      "excerpt": "University of Oxford and Esme Learning introduce five online executive education short programmes to prepare professionals for the future of finance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series",
+      "originalUrl": "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud.md",
+      "title": "Visa on using advanced AI such as unsupervised learning to fight fraud",
+      "excerpt": "Visa's Melissa McSherry discusses how Visa uses unsupervised machine learning and other types of AI to fight payment fraud at Transform 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/",
+      "originalUrl": "https://venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/02/Visa-e1626186642948.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/amp/",
+      "publishedDateTime": "2021-07-13T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-humanoid-robot-keeps-getting-fired-from-his-jobs.md",
       "title": "Humanoid Robot Keeps Getting Fired From His Jobs",
       "excerpt": "Pepper was fired. The company ended its lease of the robot and ... botched its job at a nursing home and gave baseball fans a creepy feeling, some people are saying the humanoid itself will ...",
@@ -1010,144 +1149,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search.md",
-      "title": "Sinequa Named a Leader in 2021 Analyst Report for Cognitive Search",
-      "excerpt": "This Forrester Wave™ 2021 report is one of the industry’s most thorough analyses of the cognitive search market. It evaluates each provider against 26 criteria, including Data, Intelligence, Development, End User, Scope, Operations, and Architecture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/",
-      "originalUrl": "https://www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/amp/",
-      "publishedDateTime": "2021-07-12T21:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-mas-pushes-for-ai-innovation-with-global-challenge-ahead-of-its-fintech-festival.md",
-      "title": "MAS Pushes for AI Innovation With Global Challenge Ahead of Its Fintech Festival",
-      "excerpt": "MAS, AFIN and Accenture launched of the inaugural Global Veritas Challenge where the theme revolves around \"Codifying Responsible AI\".",
-      "sourceUrl": null,
-      "webUrl": "https://fintechnews.sg/53227/singapore-fintech-festival-2021/mas-pushes-for-ai-innovation-with-global-challenge-ahead-of-its-fintech-festival/",
-      "originalUrl": "https://fintechnews.sg/53227/singapore-fintech-festival-2021/mas-pushes-for-ai-innovation-with-global-challenge-ahead-of-its-fintech-festival/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechnews.sg/wp-content/uploads/2021/07/MAS-Pushes-for-AI-Innovation-With-Global-Challenge-Ahead-of-Its-Fintech-Festival.jpg",
-          "width": 1024,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fintech Singapore",
-        "domain": "fintechnews.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-cognitive-services-market-2021-worldwide-market-size-with-top-countries-data-segmentation-analysis-value-chain-and-key-trends-by-2025.md",
-      "title": "Cognitive Services Market 2021 : Worldwide Market Size with Top Countries Data, Segmentation Analysis, Value Chain and Key Trends by 2025",
-      "excerpt": "Jul 13, 2021 (The Expresswire) -- With a CAGR of 23.1% in the forecast period of 2021 to 2025, Cognitive Services Market Size will expected to reach USD 5521.8 million by 2025, from USD 2403.4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2021-worldwide-market-size-with-top-countries-data-segmentation-analysis-value-chain-and-key-trends-by-2025-2021-07-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2021-worldwide-market-size-with-top-countries-data-segmentation-analysis-value-chain-and-key-trends-by-2025-2021-07-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

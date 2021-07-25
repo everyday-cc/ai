@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquis
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html"
 type: article
 quality: 181
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google-linked Waymo lobbies UK on driverless car rules"
+    excerpt: "Waymo, Google’s driverless-car sister company, has warned against the UK imposing strict rules for self-driving vehicles in one of its first interventions in Britain. The company has submitted comments to a Law Commission consultation about how laws for driverless cars should be written,"
+    publishedDateTime: 2021-07-25T09:00:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/07/25/google-linked-waymo-lobbies-uk-driverless-car-rules/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/07/25/google-linked-waymo-lobbies-uk-driverless-car-rules/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/07/25/google-linked-waymo-lobbies-uk-driverless-car-rules/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 74
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2021/07/20/TELEMMGLPICT000263359199_trans_NvBQzQNjv4BqSqlWeRJCmOYHLNW5ZYKToBWt5YgiQRanv7pLYf59i4w.jpeg"
+        width: 683
+        height: 427
+        isCached: true
   - title: "What driverless cars tells us about industrial policy"
     excerpt: "Amid nationalist-populist calls for industrial policy, autonomous vehicles serve as a reminder that bureaucrats don't have the knowledge to assess critical industries and pick winners."
     publishedDateTime: 2021-07-20T18:59:00Z

@@ -210,7 +210,7 @@
       "originalUrl": "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -243,6 +243,49 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-aws-announces-the-general-availability-of-amazon-healthlake.md",
+      "title": "AWS Announces the General Availability of Amazon HealthLake",
+      "excerpt": "AWS announced the general availability of Amazon HealthLake, a fully-managed, HIPAA-eligible service. With the service, healthcare providers, health insurance-, and pharmaceutical companies can securely store,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/",
+      "originalUrl": "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/07/aws-amazon-healthlake-ga/en/headerimage/header+%286%29-1626678272811.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -551,6 +594,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-20-aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes.md",
+      "title": "AWS Announces General Availability of Amazon EBS io2 Block Express Volumes",
+      "excerpt": "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time .",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailytimes.com/business/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/article_beeecae8-75cf-5cb0-bb0e-8cf6f3340650.html",
+      "originalUrl": "https://www.thedailytimes.com/business/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/article_beeecae8-75cf-5cb0-bb0e-8cf6f3340650.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thedailytimes.com",
+        "domain": "thedailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-aws-computer-vision-getting-started-with-gluoncv.md",
       "title": "AWS Computer Vision: Getting Started with GluonCV",
       "excerpt": "This course covers AWS services and frameworks including Amazon Rekognition, Amazon SageMaker, Amazon SageMaker GroundTruth, and Amazon SageMaker Neo, AWS Deep Learning AMIs via Amazon EC2 ...",
@@ -643,8 +729,8 @@
       "title": "Snowflake Stock – Even as COVID eases, cloud computing and AWS keep flying high",
       "excerpt": "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a",
       "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
+      "webUrl": "https://fintechzoom.com/fintech_news_nyse-snow/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_nyse-snow/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1349,112 +1435,6 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-dynamic-ab-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects.md",
-      "title": "Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects",
-      "excerpt": "In this post, you learn how to create a MLOps project to automate the deployment of an Amazon SageMaker endpoint with multiple production variants for A/B testing. You also deploy a general purpose API and testing infrastructure that includes a multi-armed bandit experiment framework. This testing infrastructure",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/23/14-3239-Architecture.jpg",
-          "width": 800,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T11:07:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-optimize-workforce-in-your-store-using-amazon-rekognition.md",
-      "title": "Optimize workforce in your store using Amazon Rekognition",
-      "excerpt": "In this post, we show you how to use Amazon Rekognition and AWS DeepLens to detect, and analyze occupancy in a retail business to optimize workforce utilization. Retailers often need to make decisions to improve the in-store customer experience through personnel management. Having too few or too many",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-workforce-in-your-store-using-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-workforce-in-your-store-using-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T09:17:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Computer Vision"
       ]
     }

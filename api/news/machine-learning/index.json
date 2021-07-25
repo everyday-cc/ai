@@ -53,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/22/airbnb-cto-says-graph-neural-networks-will-be-big-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -429,7 +429,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-trends-share-size-growth-opportunity-and-forecasts-by-2025-2021-07-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -921,6 +921,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-19-scientists-adopt-deep-learning-for-multi-object-tracking.md",
+      "title": "Scientists adopt deep learning for multi-object tracking",
+      "excerpt": "At the Gwangju Institute of Science and Technology in Korea, a team of researchers led by Professor Moongu Jeon seeks to solve these issues by incorporating deep learning techniques into a multi ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-07/gio-sad071921.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-07/gio-sad071921.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/270897_web.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-18-why-90-of-machine-learning-models-never-hit-the-market.md",
       "title": "Why 90% of machine learning models never hit the market",
       "excerpt": "Most companies lack leadership support, effective communication between teams, and accessible data necessary to build great machine learning models.",
@@ -1394,49 +1437,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit.md",
-      "title": "IBM unveils first machine-learning end-to-end pipeline starter kit",
-      "excerpt": "IBM is announcing a new addition to its open source Cloud-Native Toolkit that will allow developers to integrate their AI and ML applications \"to cloud-native environments and optimize scalable, reliable deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
-      "publishedDateTime": "2021-07-14T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

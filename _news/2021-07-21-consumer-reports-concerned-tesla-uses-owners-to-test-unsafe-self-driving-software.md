@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-u
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/"
 type: article
 quality: 184
-heat: 334
+heat: 324
 published: true
 
 provider:
@@ -222,20 +222,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 34
-  - title: "Mobileye tests fleet of self-driving cars in New York City"
-    excerpt: "Intel Corp.'s Mobileye said Tuesday it was testing self-driving vehicles in New York City, including the bustling Manhattan borough, in an effort to prove its technology can handle jaywalkers, construction zones and even horse carriages."
-    publishedDateTime: 2021-07-20T16:58:00Z
-    webUrl: "https://www.autonews.com/mobility-report/mobileye-tests-fleet-self-driving-cars-new-york-city"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/intel.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "This company is testing self-driving cars in New York City for the first time"
     excerpt: "Dapena, CNN Business Mobileye, an Israeli self-driving technology company owned by Intel, has become the first company to test fully self-driving cars on New York City’s streets. While a number of companies test cars in California and Arizona,"
     publishedDateTime: 2021-07-20T20:43:00Z

@@ -3,43 +3,24 @@ category: news
 title: "AWS Announces General Availability of Amazon EBS io2 Block Express Volumes"
 excerpt: "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time ."
 publishedDateTime: 2021-07-19T21:14:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-17871d68d8fa4c54bb408e0e613abfdd"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-17871d68d8fa4c54bb408e0e613abfdd"
+originalUrl: "https://www.thedailytimes.com/business/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/article_beeecae8-75cf-5cb0-bb0e-8cf6f3340650.html"
+webUrl: "https://www.thedailytimes.com/business/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/article_beeecae8-75cf-5cb0-bb0e-8cf6f3340650.html"
 type: article
-quality: 52
-heat: 62
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: thedailytimes.com
+  domain: thedailytimes.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+    width: 600
+    height: 600
     isCached: true
 
-related:
-  - title: "Amazon Prime – AWS Announces General Availability of Amazon EBS io2 Block Express Volumes | Business"
-    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-    publishedDateTime: 2021-07-19T22:50:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_amazon-prime/amazon-prime-aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes-business/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/06/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg"
-        width: 600
-        height: 600
-        isCached: true
-
-secured: "DUea1sM3tjGzafkN+scQiqzYZuoFLNAaAfkmKObjvolkKa9wty/G3jKEY4E599S057FjwSZnFey3fdSCxuSt5r53akUOB1NPP4V0lS9nm8q085smUpvAVBC9Iu5ZK0x/mQYCOKyWYXxDOczjGuUmGfcidho1fh8/JgDo0u20rJYezGSneloJvvNkQz/zp9jGh1pxOeh3U/I3SECOv1PHv4msUDR5uZYnmp6PmWRnr7PfvKHDXuS8MxiJV3BNB+BVzsq98+nLojmKCKckxPdNv9m8/x7xGmdjkFjicWALgTJrwubHkkeiBNRfyVtVe7pETSdPJsEnSjS4tX6sRlgYstp55ye1EKOqtcL6KfEOgSY=;3p6mgJXO3cvO5gmVkhOPTA=="
+secured: "Lyc/iazc1ML0FgTYTRvt3sX48FV7v6ZtgCcQeItf6+13cln2pF9p5ewKXCg+k7jNc4YteaZqUflHlaQGGM4OnZJMaFiBy65Vy9LLbBYyD18dnOhT6UxLwSfJI/zC4KW+U8aJgkcsT/lsYO20keQfUDw/A6Moa94gxA8xUDyLQwc9hmNaBIVumO5WCMbmxdcyb1U/aXmkvKIdNc98XPsm/EwEcevDdtE3EBvLu/ZQ0D53Mpphb5xQfcjgchUs1+0UWtXI/Zc8r+VSq1b3/AZvVvkrwQgeTZaLiEJD4lWq+XxsXW4E1tI1pVbQf5oTTVcKN02hZypK01zs2wdnbN28ihjE93Y0bUyycOskkwK+pOc=;xNeZTzCL+cE9l7vihgxBjw=="
 ---
 

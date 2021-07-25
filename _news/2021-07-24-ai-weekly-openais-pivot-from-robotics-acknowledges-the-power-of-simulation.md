@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/amp/"
 type: article
 quality: 118
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "OpenAI abandons robotics research"
-    excerpt: "OpenAI disbands its robotics research team due to lack of large enough data sets to effectively generate reinforcement models."
-    publishedDateTime: 2021-07-20T15:42:00Z
-    webUrl: "https://www.therobotreport.com/openai-abandons-robotics-research/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 99
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/07/openai-featured-web.jpg"
-        width: 770
-        height: 500
-        isCached: true
 
 secured: "Vv/cXYM4sCNuxVAIHSd1iiAjICwkgetQjgbi4IvTpom6O05JBS2DD9R0Gd3O+gU+ehBgkfrVon9Ikw1a3EWF3vkQwNV9qfVUL/r5bcqx4MlGDVFTErre61QICWp3zu48uKzmPpM0rMn4qKHlIDTzFjoKDMInjX5Px5MEfTrnhYrrqaZoHSRNeA9f5c2uNHwpP6XDJKrZjAQtSjm+OGgt25ScBLGOwab6o0tmIIkvcuKY3x9G3owTx73WHkHdjDOW18d27CTAJJ5alhvG3yeg1K7ZgjtVKucxNS74hkrW+Gro3b5l/ym61fPvhTJz480BsOhUKzXzLVNOeLXj7o1ZPCYURTLP7FphH5XeoI0AMQKYV/NPmp+u/tTh3LCV4kzi20d1Gmxv2bF1hTk2Q3Y2Nf2QhZdlaHhrd2LOWjSNFD4F4c5yr/CgNdLGY1QkLcVpNK6TGPP8RQFWo9ZmiPkvlTzikw1p1CiqJzXvf/pHZ5tvzgUzKiRvNHqixiUjtoF/5bkRcxx9rEa3GGRSLyFTWA==;18jQkxUEbIboxhZyGODvaw=="
 ---

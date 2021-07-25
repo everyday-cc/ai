@@ -35,6 +35,22 @@ related:
         width: 7952
         height: 5304
         isCached: true
+  - title: "Google-linked Waymo lobbies UK on driverless car rules"
+    excerpt: "Waymo, Google’s driverless-car sister company, has warned against the UK imposing strict rules for self-driving vehicles in one of its first interventions in Britain. The company has submitted comments to a Law Commission consultation about how laws for driverless cars should be written,"
+    publishedDateTime: 2021-07-25T09:00:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/07/25/google-linked-waymo-lobbies-uk-driverless-car-rules/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/07/25/google-linked-waymo-lobbies-uk-driverless-car-rules/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/07/25/google-linked-waymo-lobbies-uk-driverless-car-rules/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 74
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2021/07/20/TELEMMGLPICT000263359199_trans_NvBQzQNjv4BqSqlWeRJCmOYHLNW5ZYKToBWt5YgiQRanv7pLYf59i4w.jpeg"
+        width: 683
+        height: 427
+        isCached: true
 
 secured: "IkW1onERkzWfih7eOsYO3Bsnlnc57yuGC24j6spP7wniknWV+92aYWQNJj6s8XG80J3EbXXe7JMvnsakT9HdHApRU3wwuMApaHKfa7+RUP49xKygKvBz9/nrvEpmqRutCg+x7yZ/DwUU3O5fE2jezkkpmGsfebdthuPYWoZoTsSWqaDOIeUWArp/0cJemHLzRwueUvVM4fovmaty5RFi9uhDGdMg42MprIOmtgvujKLY+JKV06fF86hOHMY/onKejrNFFcPZx3JtJupoTgAbEig48lZ+L04Q+PLd4hbQ4/0Par+AhciHDZ8igZJRf5Y1eDoO9kOAH52fF68wg+ZfJRapES9vDoLaW/mQIFdDk2NPEnm/LyX3OEZVFbmRSuG+tiD0Fns2+e4V4xbxl5q0g8r2PoUsVOatReg+pBVMn7P9XKzf7TklVg5biNsTQ+OmwxMkB69V9a3oPU677oRx60XFPhIrgMbRlLblNqbnvvS047IR8YlrvsgO1dbcJtHGZnckouXGkgXXfi8SmCFbrQ==;tX0oeKCxrTJfeFZFqLaILg=="
 ---

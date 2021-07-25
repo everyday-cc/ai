@@ -71,15 +71,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Mobileye Tests Fleet of Self-Driving Cars in NYC, Including Manhattan"
-    excerpt: "Intel Corp unit Mobileye on Tuesday said it was testing a small fleet of self-driving test vehicles in New York City, including the bustling Manhattan borough, in an effort to prove the company's technological progress."
-    publishedDateTime: 2021-07-20T15:51:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-07-20/mobileye-tests-fleet-of-self-driving-cars-in-nyc-including-manhattan"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "Self-driving cars confront a daunting new challenge: New York City streets"
     excerpt: "Mobileye received a special permit from New York state, allowing manufacturers of “autonomous vehicle technology” to test on public streets. The permit requires drivers be pre"
     publishedDateTime: 2021-07-22T12:26:00Z

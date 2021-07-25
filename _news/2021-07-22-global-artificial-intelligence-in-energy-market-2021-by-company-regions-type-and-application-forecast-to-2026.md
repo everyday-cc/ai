@@ -214,15 +214,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Global Cognitive Systems Spending Market Tendencies, Revenue Forecast and Interesting Opportunities from 2021 to 2026"
-    excerpt: "Global Cognitive Systems Spending Market 2021 by Company, Regions, Type and Application, Forecast to 2026 research report is the new statistical data source added by MarketsandResearch.biz that uses several approaches for analyzing the data of the target ..."
-    publishedDateTime: 2021-07-20T16:08:00Z
-    webUrl: "https://ipsnews.net/business/2021/07/20/global-cognitive-systems-spending-market-tendencies-revenue-forecast-and-interesting-opportunities-from-2021-to-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
   - title: "Global Artificial Intelligence Chatbots Market 2021 Industry Emerging Trend, Top Players, Revenue Insights to 2026"
     excerpt: "According to the latest report by MarketQuest.biz, titled Global Artificial Intelligence Chatbots Market 2021 by Company, Regions, Type and Application, Forecast to 2026, covers assimilates reliable and updated information,"
     publishedDateTime: 2021-07-23T10:01:00Z

@@ -2,6 +2,137 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-06-21-ambarella-unveils-2-new-ai-chip-families-for-4k-security-cameras.md",
+      "title": "Ambarella unveils 2 new AI chip families for 4K security cameras",
+      "excerpt": "Ambarella unveiled two new AI chip families for 4K security cameras today as it pushes further into computer vision.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/",
+      "originalUrl": "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/ambarella-Photo_CV52S_Embargo-June-21-2021-5am-ET.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/amp/",
+      "publishedDateTime": "2021-06-21T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-amazon-amzn-aws-picked-by-ferrari-bolsters-client-base.md",
+      "title": "Amazon (AMZN) AWS Picked by Ferrari, Bolsters Client Base",
+      "excerpt": "Amazon Web Services (“AWS”)—entered an agreement with Ferrari RACE. Notably, Ferrari selected AWS as its official cloud, Machine Learning, and AI provider to bring advancements across its road cars department,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21?amp",
+      "publishedDateTime": "2021-06-21T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-eu-data-protection-agencies-want-ban-on-ai-facial-recognition.md",
+      "title": "EU data protection agencies want ban on AI facial recognition",
+      "excerpt": "European Union's data protection agencies called for a  ban on use of artificial intelligence (AI) to identify people in public places. The agencies pointed to the \"extremely high risk to privacy. The two bodies called for a \"general ban\"  on the practice that would include \"recognition of faces,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006",
+      "originalUrl": "https://www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2018/09/12/30564-untitled%25252520design%25252520%25252833%252529-20171013033238.jpg",
+          "width": 918,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006/amp",
+      "cdnAmpWebUrl": "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006/amp",
+      "publishedDateTime": "2021-06-21T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WION",
+        "domain": "wionews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-the-healthcare-artificial-intelligence-market-to-grow-at-an-invigorating-pace-in-the-next-decade.md",
       "title": "The Healthcare Artificial Intelligence Market to grow at an invigorating pace in the next decade",
       "excerpt": "The report provides tacticians, marketers and the senior management with critical information they need to evaluate the global Healthcare Artificial Intelligence market, as it emerges from COVID-19 shut down.",
@@ -1040,142 +1171,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places.md",
-      "title": "UK watchdog raises alarm over Live Face Recognition tech in public places",
-      "excerpt": "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places. F",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places",
-      "originalUrl": "https://www.freepressjournal.in/business/uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/import/2015/08/etc-7th-lead.jpg",
-          "width": 400,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.freepressjournal.in/article/business/uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places/a978a17a-77e5-419a-857f-5e8be9ea1cf2",
-      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places/a978a17a-77e5-419a-857f-5e8be9ea1cf2",
-      "publishedDateTime": "2021-06-20T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-ai-glasses-you-can-try-on-and-try-out-with-ar.md",
-      "title": "AI Glasses You Can Try On And Try Out With AR",
-      "excerpt": "Sports and lifestyle glasses maker Bollé used Artificial Intelligence (AI) to create new state-of-the-art lenses, then launched a transformative marketing campaign that allows customers to not only try their glasses on virtually,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/06/21/ai-glasses-you-can-try-on-and-try-out-with-ar/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/06/21/ai-glasses-you-can-try-on-and-try-out-with-ar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d014bc54b499b7d098b622%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2500%26cropY1%3D0%26cropY2%3D1406",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/06/21/ai-glasses-you-can-try-on-and-try-out-with-ar/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/06/21/ai-glasses-you-can-try-on-and-try-out-with-ar/amp/",
-      "publishedDateTime": "2021-06-20T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-penn-libraries-offers-students-faculty-staff-free-access-to-the-new-york-times.md",
-      "title": "Penn Libraries offers students, faculty, staff free access to The New York Times",
-      "excerpt": "Weinsteiger said the University decided to give Penn students and staff access to The New York Times because of its reputation as one of the most widely read newspapers in the ... The Wall Street Journal, and The Financial Times. “I really appreciate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/bed7cba1-db7a-49c7-9d57-06fd19e14e10",
-      "originalUrl": "https://www.thedp.com/article/2021/06/penn-libraries-new-york-times-access",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F41a95456-92eb-4983-8e03-0b921ddbdc4f.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/bed7cba1-db7a-49c7-9d57-06fd19e14e10",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bed7cba1-db7a-49c7-9d57-06fd19e14e10",
-      "publishedDateTime": "2021-06-20T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Pennsylvanian",
-        "domain": "thedp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

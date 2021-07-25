@@ -2,6 +2,135 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-06-14-webinar-to-explore-impact-of-ai-and-analytics-on-physical-security.md",
+      "title": "Webinar to explore impact of AI and analytics on physical security",
+      "excerpt": "Benefits include faster reactions and investigation, more reliable detection of risksHow can video combined with artificial intelligence (AI) and analytics bring ground-breaking improvements to",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html?ref=nav",
+      "originalUrl": "https://www.sourcesecurity.com/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html?ref=nav",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/edge-devices-computing-iot-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html",
+      "publishedDateTime": "2021-06-14T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-google-is-using-ai-to-design-chipsets-in-just-six-hours.md",
+      "title": "Google is using AI to design chipsets in just six hours",
+      "excerpt": "The new chips are said to be superior or comparable to those produced by humans in all key metrics including power consumption, performance and chip area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/google-is-using-ai-to-design-chipsets-in-just-six-hours/article34809994.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/google-is-using-ai-to-design-chipsets-in-just-six-hours/article34809994.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/41suu1/article34810034.ece/ALTERNATES/LANDSCAPE_615/googlechip",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/google-is-using-ai-to-design-chipsets-in-just-six-hours/article34809994.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-is-using-ai-to-design-chipsets-in-just-six-hours/article34809994.ece/amp/",
+      "publishedDateTime": "2021-06-14T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students.md",
+      "title": "Amazon India launches 'ML Summer School' to impart core machine learning skills to students",
+      "excerpt": "The curriculum will cover the fundamental concepts in ML, while linking them to practical industry applications through an immersive three-day course, it added. Participants of the ML Summer School wi",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609",
+      "originalUrl": "https://www.indiatvnews.com/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/06/amazon-1200-1623653585.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609",
+      "publishedDateTime": "2021-06-13T23:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-halo-infinite-who-is-the-new-cortana-like-ai.md",
       "title": "Halo Infinite: Who Is the New Cortana-Like AI?",
       "excerpt": "Meet The Weapon, Master Chief's new AI companion introduced in the Halo Infinite campaign trailer. Halo Infinite ‘s story and its connection to Halo 5: Guardians remains a closely guarded secret at 343 Industries,",
@@ -995,161 +1124,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-samsung-jetbot-80-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-launched-in-europe.md",
-      "title": "Samsung JetBot 80, JetBot 80+ & JetBot 95 AI+ Robot Vacuum Cleaners launched in Europe",
-      "excerpt": "Samsung has announced the release of its impressive and affordable robot vacuum cleaners, the Samsung Jet Bot series for the European market. The Jet Bot series starts at 499 Euros for the base model,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/06/12/samsung-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-europe/",
-      "originalUrl": "https://www.gizmochina.com/2021/06/12/samsung-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/06/Samsung-Jet-Bot-95-AI.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-12T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-ufc-263-recognition-rematches-and-revenge-on-the-line-in-arizona.md",
-      "title": "UFC 263: Recognition, rematches and revenge on the line in Arizona",
-      "excerpt": "UFC 263 looks set to deliver a spectacular night of action, with two world titles on the line in front of a capacity crowd in Glendale, Arizona.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/mixed-martial-arts/57442164",
-      "originalUrl": "https://www.bbc.com/sport/mixed-martial-arts/57442164",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/F4AE/production/_118883626_adesanya_vettori_getty.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/sport/mixed-martial-arts/57442164.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/mixed-martial-arts/57442164.amp",
-      "publishedDateTime": "2021-06-12T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-ai-dominated-scientific-output-in-recent-years-unesco-report-shows.md",
-      "title": "AI ‘dominated scientific output’ in recent years, UNESCO report shows",
-      "excerpt": "The UNESCO Science Report 2021 discusses AI, robitics, Industry 4.0, and a spike in scientific reserach, patents, and spending.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1204589859-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/amp/",
-      "publishedDateTime": "2021-06-11T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -207,15 +207,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 16
-  - title: "Global Cognitive Systems Spending Market Tendencies, Revenue Forecast and Interesting Opportunities from 2021 to 2026"
-    excerpt: "Global Cognitive Systems Spending Market 2021 by Company, Regions, Type and Application, Forecast to 2026 research report is the new statistical data source added by MarketsandResearch.biz that uses several approaches for analyzing the data of the target ..."
-    publishedDateTime: 2021-07-20T16:08:00Z
-    webUrl: "https://ipsnews.net/business/2021/07/20/global-cognitive-systems-spending-market-tendencies-revenue-forecast-and-interesting-opportunities-from-2021-to-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
   - title: "Global Artificial Intelligence in Energy Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "The Artificial Intelligence in Energy market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic and global ..."
     publishedDateTime: 2021-07-22T14:18:00Z

@@ -81,15 +81,6 @@ related:
         width: 1920
         height: 1281
         isCached: true
-  - title: "Partnering with the NIH to advance biomedical research"
-    excerpt: "Today, we are thrilled to announce a new partnership between Microsoft and the National Institutes of Health (NIH) to accelerate biomedical research in a post-pandemic world. As an approved cloud platform for the NIH's Science and Technology Research Infrastructure for Discovery,"
-    publishedDateTime: 2021-07-20T15:58:00Z
-    webUrl: "https://www.publicnow.com/view/E9C3F5DF4EFD11C4BC1F08842773735EEC5CBB51"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 4
 
 secured: "wcJZBhz585Nz9Po3f/Yc3tUI0mYzTw4lBTnT7pA6SGi5/Hi0YmGrRd1QJO8ySnxvysw7XoPjS3T9jRRkQ1cLPVmLhj9+BwJGZt6vBCKlVmL9K2PiIfrVSEOJHhpq7/1P3wZKro0B+h1bi+Qv7Atro2UGqh3mpETfjFMS02aG4jWEBDULzO3mUsYgV6vOtcZv1zFBAiTJxrS9Kk65ujlFX7S97Qnt2fFtkExPr8kE1GBfSaHaKBCPkiTJHrrBo7hLvb2Adz58aiw96qbydO2Gs5sKvg7gC1Nny4a5RxVhk3DSTIv8Cqtvs3SBxvV09SaCuysuV2NDbLWsnU8dsESs71+1K6HbnLwr+xU5Ey4V0yc=;KTwx/GgZe8baWrtSXSNHUg=="
 ---
