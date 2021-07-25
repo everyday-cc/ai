@@ -108,20 +108,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 36
-  - title: "Global Geospatial Analytics Artificial Intelligence Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2026"
-    excerpt: "The latest market research report titled Global Geospatial Analytics Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 enfolds expansive evaluation of the market offering an analysis of the market revenue,"
-    publishedDateTime: 2021-07-21T00:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-geospatial-analytics-artificial-intelligence-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2026-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Neural Network Software Market Size, Competitive Landscape, Revenue Analysis, 2016–2026"
     excerpt: "The global neural network software market is forecast to reach USD 97.11 Billion by 2026, according to a new report by Reports and Data. The neural network software distinguish the subtle nonlinear interdependencies with individual patterns of data and self-learn to produce complex decisions without being programmed."
     publishedDateTime: 2021-07-21T11:11:00Z

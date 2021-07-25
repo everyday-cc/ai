@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-07-01-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho.md",
+      "title": "The names pushing AI toward a $1T chip market, according to Mizuho",
+      "excerpt": "An in-depth look at artificial intelligence and deep learning from Mizuho concludes that AI is the next wave of semiconductor growth, a key driver toward a $1",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
+      "originalUrl": "https://seekingalpha.com/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
+      "publishedDateTime": "2021-06-30T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-facebook-updates-habitat-environment-to-train-embodied-ai.md",
       "title": "Facebook updates Habitat environment to train ’embodied AI’",
       "excerpt": "Facebook today announced Habitat 2.0, an updated version of its simulation environment, alongside new datasets and benchmarks.",
@@ -1158,58 +1201,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-zoom-to-acquire-real-time-translation-startup-kites.md",
-      "title": "Zoom to acquire real-time translation startup Kites",
-      "excerpt": "Zoom on Tuesday said it has signed a deal to acquire Kites, an AI startup focused on developing real-time translation tools. With the acquisition, Zoom hopes to \"improve meeting productivity and efficiency\" by adding \"multi-language translation capabilities\" to the video chat service,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/zoom-to-acquire-real-time-translation-startup-kites/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/zoom-to-acquire-real-time-translation-startup-kites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/Ms_zrkY2ZfQJR7X57i9S6le1_AE=/1200x630/2020/06/29/e721e8fc-6c98-4378-878b-5b350754a3fc/zoom-logo-apple-iphone-11-3436.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/zoom-to-acquire-real-time-translation-startup-kites/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/zoom-to-acquire-real-time-translation-startup-kites/",
-      "publishedDateTime": "2021-06-30T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

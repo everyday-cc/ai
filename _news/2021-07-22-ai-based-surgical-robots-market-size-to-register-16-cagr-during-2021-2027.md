@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots
 webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22"
 type: article
 quality: 82
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI-Powered Storage Market 2021 Applications, Market Size According to a Specific Product, Sales and Revenue by Region 2026"
-    excerpt: "Global AI-Powered Storage Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 recently presented by MarketsandResearch.biz concretes the best results, integrated approaches,"
-    publishedDateTime: 2021-07-21T00:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-powered-storage-market-2021-applications-market-size-according-to-a-specific-product-sales-and-revenue-by-region-2026-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Platform Market Size, Share Remuneration to Surge At 56.6% CAGR Through 2024"
     excerpt: "Selbyville, Delaware, The Artificial Intelligence Platform market study now available with Market Study Report,"
     publishedDateTime: 2021-07-22T04:42:00Z

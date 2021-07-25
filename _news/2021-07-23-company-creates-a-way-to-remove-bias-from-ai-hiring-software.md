@@ -3,8 +3,8 @@ category: news
 title: "Company creates a way to remove bias from AI hiring software"
 excerpt: "AI can have serious bias in hiring. One company found a way to remove that bias to give everyone an equal chance at employment."
 publishedDateTime: 2021-07-23T15:51:00Z
-originalUrl: "https://www.techrepublic.com/videos/company-creates-a-way-to-remove-bias-from-ai-hiring-software/"
-webUrl: "https://www.techrepublic.com/videos/company-creates-a-way-to-remove-bias-from-ai-hiring-software/"
+originalUrl: "https://www.techrepublic.com/index.php/category/2026/index.php/videos/company-creates-a-way-to-remove-bias-from-ai-hiring-software/"
+webUrl: "https://www.techrepublic.com/index.php/category/2026/index.php/videos/company-creates-a-way-to-remove-bias-from-ai-hiring-software/"
 type: article
 quality: 67
 heat: -1
@@ -45,6 +45,6 @@ related:
         height: 604
         isCached: true
 
-secured: "Lrfmx9WF5SXyOZnAflXnKuFhFIPOufaieNoH2zpfUsu6145b1EDRUJEyFK0VswbGyL9wtDa66v0KNMM+wbQ2CnZPtxialbCILurb4e27EUe23u+PKDoSu/FEpUtHSClENR1sw2QOYZeMZCQ+87tHpVdhR7TDKVczBxwlZsvUzjW06TxzhKvF6U/vjxlrnBGFERCfp7JxO/XUtlAoDRmnvzGIZPyhrGYMebyQc3jKsQb2Os06d74GntAq4aRqjl1fw25Zkpk8RbPNasC22RiJXCoZG6PcN/z9PNo1hYK4m17jvCLYle3qENcEPN0TmFVnNdf5FdmBRTbSqKQuoXSXmHPm11um5NOmel/R/dTQ78JP6u92eqLwWxupN3DdJaW5Q7a6VFarHmbHp80khgM+XSkmY/+XWhJSlXhZTmsaWu7iSjpQ8qgY8hA1g4hWj09JeX+t4IKcl3gHTPtgpMn7b2i8zkxO/Z9xaMjfOX6CuYZxSQFm57lafc99ay+xN7eu5YExCBp7KFAAwdcyhTdOfg==;f3SwR6e0AdxFM8OXGF9Pew=="
+secured: "1lRDTejQUTod0U+c/uAQ9gkMfAxCw3ZP/zHNkXxGR7cFbRGJv0WioPzBUUHpPAanM1+leOLZW2hIdfWBQSaPPwa0u+bQkmVUDnoD2ZD5orvsy9g2zSr5vGWedYH9/bejfa3KHlW/GIs3Yns0b33YJ5GTgzouhspZUyMpzMJNlHTKg/49+jIfoJvLHKTVJj7POdFHPfcl3zaFRHvhgOtMSdt54hX/ABSVKwXfTlDC/5iT14I7hXlDbkXxvRXJdBpTrbbOhrmebbBEPjPBlF9wucxapHizkxY0A+2vZP1DdIWVi+0uiZuskuodEGBJ1kQqnBHMTEA7AtawNB4onX3flWkmBACuw9k9tB+j1i0ZVik=;A2xLs26k/hcGV9YgYNXsog=="
 ---
 

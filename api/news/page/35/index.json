@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-06-29-machine-learning-market-to-see-major-growth-by-2026-bigml-h2oai-sap.md",
+      "title": "Machine Learning Market To See Major Growth By 2026 | BigML, H2O.ai, SAP",
+      "excerpt": "Global Machine Learning Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery is latest research study released by HTF MI evaluating the market risk side analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/28/machine-learning-market-to-see-major-growth-by-2026-bigml-h2o-ai-sap/",
+      "originalUrl": "https://ksusentinel.com/2021/06/28/machine-learning-market-to-see-major-growth-by-2026-bigml-h2o-ai-sap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/Machine-Learning-Market.jpeg",
+          "width": 672,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-the-linux-foundation-is-working-to-improve-voice-recognition-ethics.md",
       "title": "The Linux Foundation is working to improve voice recognition ethics",
       "excerpt": "Last week, the Linux Foundation created a new open source industry association called the Open Voice Network (OVN). The new group is an independently governed directed fund of the Linux Foundation, with the goals of improving trust,",
@@ -1073,49 +1116,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-cognitive-assessment-market-growing-trends-and-technology-forecast-2021-2026-verasci-neurocog-trials-lumos-labs-cogstate.md",
-      "title": "Cognitive Assessment Market Growing Trends and Technology Forecast 2021-2026 | VeraSci NeuroCog Trials, Lumos Labs, Cogstate",
-      "excerpt": "Services, Hardware & Software is the main type for Cognitive Assessment, with a 49.40% revenue market share. and 18+ countries across the globe along with insights on emerging & major players.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2315295/cognitive-assessment-market-growing-trends-and-technology",
-      "originalUrl": "https://www.openpr.com/news/2315295/cognitive-assessment-market-growing-trends-and-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U628365823_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2315295/cognitive-assessment-market-growing-trends-and-technology",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315295/cognitive-assessment-market-growing-trends-and-technology",
-      "publishedDateTime": "2021-06-28T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

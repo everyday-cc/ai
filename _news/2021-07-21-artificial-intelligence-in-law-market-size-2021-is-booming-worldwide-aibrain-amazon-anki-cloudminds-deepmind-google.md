@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI in Smartphone and Wearable Market Size 2021 is Booming Worldwide| Lenovo, Apple, Xiaomi, Samsung, Huawei,"
-    excerpt: "The AI in Smartphone and Wearable market report covers various facets of the AI in Smartphone and Wearable market for the forecast period 2021-2028. The report discusses the different market avenues and current trends that business owners should consider before making an investment."
-    publishedDateTime: 2021-07-21T00:55:00Z
-    webUrl: "https://manometcurrent.com/ai-in-smartphone-and-wearable-market-size-2021-is-booming-worldwide-lenovo-apple-xiaomi-samsung-huawei/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
   - title: "Machine Learning Data Catalog Software Market Size 2021 is Booming Worldwide| IBM, Alation, Oracle, Cloudera, Unifi, Anzo Smart Data Lake (ASDL)"
     excerpt: "The Machine Learning Data Catalog Software market report covers various facets of the Machine Learning Data Catalog Software market for the forecast period 2021-2028. The report discusses the different market avenues and current trends that business owners should consider before making an investment."
     publishedDateTime: 2021-07-21T04:58:00Z

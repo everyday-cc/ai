@@ -124,15 +124,6 @@ related:
         width: 728
         height: 300
         isCached: true
-  - title: "Intel's Mobileye testing self-driving cars on New York City streets"
-    excerpt: "Intel is testing the theory that if you can make it in New York you can make it anywhere. It's self-driving car technology business Mobileye has had AVs on NYC streets for 6 weeks."
-    publishedDateTime: 2021-07-21T00:12:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2021/07/20/intel-tests-self-driving-cars-in-nyc.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
   - title: "Lyft to deploy self-driving cars in Miami by the end of the year"
     excerpt: "Interested in riding in a self-driving car? Soon, Miami-area Lyft passengers will have that option. On Wednesday, Ford, self-driving car startup Argo AI and ride-hailing giant Lyft (Nasdaq: LYFT) announced they are partnering to offer automated vehicles to customers in the Magic City beginning late 2021."
     publishedDateTime: 2021-07-21T17:08:00Z

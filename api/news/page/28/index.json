@@ -2,6 +2,57 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-07-02-lunglife-ai-raises-gbp17-mln-in-london-ipo.md",
+      "title": "LungLife AI Raises GBP17 Mln in London IPO",
+      "excerpt": "By Ian Walker LungLife AI said Friday that it has raised 17 million pounds ($23.4 million) as part of its initial public offering on London's junior AIM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/lunglife-ai-raises-gbp17-mln-in-london-ipo-271625208673",
+      "originalUrl": "https://www.marketwatch.com/story/lunglife-ai-raises-gbp17-mln-in-london-ipo-271625208673",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/lunglife-ai-raises-gbp17-mln-in-london-ipo-271625208673",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/lunglife-ai-raises-gbp17-mln-in-london-ipo-271625208673",
+      "publishedDateTime": "2021-07-01T23:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Latest Industry Trends, Industry Size, Key Drivers and Future Demand Forecast",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -1164,40 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-att-t-to-move-5g-mobile-network-to-microsoft-azure.md",
-      "title": "AT&T (T) to Move 5G Mobile Network to Microsoft Azure",
-      "excerpt": "AT&T Inc. T has announced collaboration with Microsoft MSFT under which the telecom giant will move its 5G mobile network to the latter’s cloud. This will allow AT&T’s mobile network traffic to be managed by Microsoft Azure technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01",
-      "originalUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp",
-      "publishedDateTime": "2021-07-01T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

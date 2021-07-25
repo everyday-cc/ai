@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-25T14:15:00Z
 originalUrl: "https://www.forbes.com/sites/cognitiveworld/2021/07/25/the-vital-importance-of-data-for-ai-interview-with-rick-mcfarland-chief-data-officerlexisnexis-legal--professional/"
 webUrl: "https://www.forbes.com/sites/cognitiveworld/2021/07/25/the-vital-importance-of-data-for-ai-interview-with-rick-mcfarland-chief-data-officerlexisnexis-legal--professional/"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fd7168486a962baa327cca%2F0x0.jpg"
@@ -27,6 +28,6 @@ images:
     height: 302
     isCached: true
 
-secured: "IpDVZm9sBbRba3t7ie5oPEQff7Pnp9+hskIxJmWXWZJAV2GbxYNZ0dZjhWkVZZzG+AaiTLM8NQ4VOHhXfNPKR28njHzgF+pXZho3+Um+9TT3Nvm24tQJOLXpJ4EcTmF5yIawcr52zlUfITE3BcYs6g+zln12rYneOwx2SvTeM5By9AtlXBTDx/XBiJM+A1USWgA1CX64nykMI0UepmB4SjgQfUh1iPt1u9QMvpN7FTu7ZjRS0bWfd7Jeh3VfGardSwJkthItxxqS2kYoUq0qF2zUaK/C+JnZEHSzbloGblSDuWbhZP5WGgLHGum9+wNCnWO581Nl0VnREPhspc1H/9ih6lqMBP9WIzMm24sIsIg=;mssZzVl8LQa3EAae8rGNQA=="
+secured: "Hh+Lk3sZJDfLcIG3ld/AuSayzjIQgnmvWn8sAWfnyMc2PQIq4T0Zl2Tp8lPQOBvAL7xhp4KzbvEcymGe9i64oe2oqT5WE/dweJP8J9jb83+w/k2LK0/kXQ/rR8UWtjNQpN3QdXigSOBojxmaQkvb3u9VBFRqPjwI7/xiPq6jTqh7xEuNUR4THmFbCA0MbltS2gs0LvZ9vo3V1c+2ssu5P45l7Ltjd4hE4TDQEaLAHfXxa380QJ6/T3PLp6Tmx/sEwnq5672u7ie4SHrd2i2HXoYAKQIf1M9ql3xa80DvgPL7Rouv6O5J8XI7Ki37UG4AGvBDw/dlcThSEZsWIcvHgwkfMlkPkuG3tI6SJfeFEhHMf0RqRqegm3XTOP4IAr4doggR5LycBVx+MhrsaqkAPQMBJgBIfZ8VfTjIsVGc70ZEARqr6FmZv5OgWuQ9fhj5AQ735vDV3XHPkvfW47gNY26LfUMgWAHdGBZBSIHmcE+222mRmrvINdLercAd5pdgCTAt4Tkj6n6Oz/NUwXIGzQ==;qgpoeOXoU0zIS3IFxdrs/Q=="
 ---
 

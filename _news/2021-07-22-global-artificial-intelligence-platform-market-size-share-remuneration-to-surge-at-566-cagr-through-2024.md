@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI-Powered Storage Market 2021 Applications, Market Size According to a Specific Product, Sales and Revenue by Region 2026"
-    excerpt: "Global AI-Powered Storage Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 recently presented by MarketsandResearch.biz concretes the best results, integrated approaches,"
-    publishedDateTime: 2021-07-21T00:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-powered-storage-market-2021-applications-market-size-according-to-a-specific-product-sales-and-revenue-by-region-2026-2021-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Middle East & Africa Artificial Intelligence in Marketing Market to Grow at 30.1% CAGR to Garner US$ 7,312.42 million by 2028"
     excerpt: "The artificial intelligence in marketing market in MEA is expected to reach US 7 312 42 million by 2028 from US 1 159 26 million in 2021 The market is estimated to grow at a CAGR of 30 1 from"
     publishedDateTime: 2021-07-23T09:18:00Z
