@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://images.thewest.com.au/publication/C-3515264/6bbe09f178da49e5451814198832feb73ebb286a-16x9-x0y0w1280h720.jpg?imwidth=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Catching the artificial intelligence buzz"
+    excerpt: "Backpacks to track bees, bushfire modelling and sensors to detect broken water pipes are some of the technologies being developed in Australia as part of an"
+    publishedDateTime: 2021-07-26T16:00:00Z
+    webUrl: "https://www.canberratimes.com.au/story/7358148/catching-the-artificial-intelligence-buzz/"
+    type: article
+    provider:
+      name: The Canberra Times
+      domain: canberratimes.com.au
+    quality: 39
+    images:
+      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/6f78c94e-5081-42b7-bc96-9cd824c8399d.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
+        width: 800
+        height: 452
         isCached: true
   - title: "Why Artificial Intelligence Implementation is Lagging in International Shipping"
     excerpt: "The long-term benefits of including AI-powered systems in logistics and supply chain operations are well known."

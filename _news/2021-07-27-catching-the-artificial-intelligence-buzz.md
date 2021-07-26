@@ -90,6 +90,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Catching the artificial intelligence buzz"
+    excerpt: "Backpacks to track bees, bushfire modelling and sensors to detect broken water pipes are some of the technologies being developed in Australia as part of an"
+    publishedDateTime: 2021-07-26T16:00:00Z
+    webUrl: "https://www.canberratimes.com.au/story/7358148/catching-the-artificial-intelligence-buzz/"
+    type: article
+    provider:
+      name: The Canberra Times
+      domain: canberratimes.com.au
+    quality: 39
+    images:
+      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/6f78c94e-5081-42b7-bc96-9cd824c8399d.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
+        width: 800
+        height: 452
+        isCached: true
   - title: "Why Artificial Intelligence Implementation is Lagging in International Shipping"
     excerpt: "The long-term benefits of including AI-powered systems in logistics and supply chain operations are well known."
     publishedDateTime: 2021-07-25T18:59:00Z

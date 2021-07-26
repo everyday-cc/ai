@@ -2,6 +2,197 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-07-14-how-octopuses-upend-what-we-know-about-ourselves.md",
+      "title": "How Octopuses Upend What We Know About Ourselves",
+      "excerpt": "Octopuses (it’s incorrect to say “octopi,” to my despair) are having a moment: There are award-winning books, documentaries and even science fiction about them. I suspect it’s the same hunger that leaves many of us yearning to know aliens: How do radically different minds work?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/13/opinion/13eks-promo/13eks-promo-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.amp.html",
+      "publishedDateTime": "2021-07-13T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-baidu-shares-are-a-bargain-now-but-not-for-long.md",
+      "title": "Baidu Shares Are a Bargain Now, But Not for Long",
+      "excerpt": "They even have their hand in self-driving technologies ... be light at the end of the tunnel because of technical reasons. Baidu is falling into a potential support zone dating back to 2011.",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/",
+      "originalUrl": "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/07/bidu-stock-baidu-is-a-bargain-now-but-not-for-long/amp/",
+      "publishedDateTime": "2021-07-13T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-breaking-bad-data-with-machine-learning.md",
+      "title": "Breaking ‘bad data’ with machine learning",
+      "excerpt": "Every single large organization is heavily siloed, but there are huge business benefits to integrating data silos.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1088374242.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/breaking-bad-data-with-machine-learning/amp/",
+      "publishedDateTime": "2021-07-13T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-instabase-joins-microsoft-for-startups-to-streamline-delivery-of-enterprise-applications.md",
+      "title": "Instabase Joins Microsoft for Startups to Streamline Delivery of Enterprise Applications",
+      "excerpt": "Through its work with Microsoft, Instabase customers are able to build powerful document understanding use cases that leverage components from Azure Cognitive Services directly within the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailytimes.com/business/instabase-joins-microsoft-for-startups-to-streamline-delivery-of-enterprise-applications/article_c3e1c4db-7689-543b-a684-87049a495b8b.html",
+      "originalUrl": "https://www.thedailytimes.com/business/instabase-joins-microsoft-for-startups-to-streamline-delivery-of-enterprise-applications/article_c3e1c4db-7689-543b-a684-87049a495b8b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thedailytimes.com",
+        "domain": "thedailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-ai-success-in-the-supply-chain-depends-on-human-augmentation.md",
       "title": "AI Success In The Supply Chain Depends On Human Augmentation",
       "excerpt": "It is only through human augmentation and understanding how everything works together that AI success in the supply chain will happen.",
@@ -980,185 +1171,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.md",
-      "title": "SK ecoplant Develops Eco-friendly AI-powered Incinerator Solution Using AWS",
-      "excerpt": "SK ecoplant, the plant engineering and construction arm of SK Group, announced that it will build an artificial intelligence (AI) incinerator solution, using Am",
-      "sourceUrl": null,
-      "webUrl": "https://technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html",
-      "originalUrl": "https://technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg",
-          "width": 277,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html/amp",
-      "cdnAmpWebUrl": "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html/amp",
-      "publishedDateTime": "2021-07-12T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technuter.com",
-        "domain": "technuter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-warburg-pincus-leads-153-mln-fundraising-for-uk-fintech-quantexa.md",
-      "title": "Warburg Pincus leads $153 mln fundraising for UK fintech Quantexa",
-      "excerpt": "UK-based Quantexa has raised $153 million in a funding round led by Warburg Pincus, the financial technology start-up said on Tuesday, as it seeks to accelerate its regional expansion and develop new products in areas including banking and insurance.",
-      "sourceUrl": null,
-      "webUrl": "https://kfgo.com/2021/07/13/warburg-pincus-leads-153-million-fundraising-for-uk-fintech-quantexa/",
-      "originalUrl": "https://www.nasdaq.com/articles/warburg-pincus-leads-%24153-mln-fundraising-for-uk-fintech-quantexa-2021-07-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.socastsrm.com/uploads/station/2105/fbShare.png?r=57822",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-quantexa-raises-153m-to-build-out-ai-based-big-data-tools-to-track-risk-and-run-investigations.md",
-      "title": "Quantexa raises $153M to build out AI-based big data tools to track risk and run investigations",
-      "excerpt": "As financial crime has become significantly more sophisticated, so too have the tools that are used to combat it. Now, Quantexa — one of the more interesting startups that has been building AI-based solutions to help detect and stop money laundering,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/12/quantexa-raises-153m/",
-      "originalUrl": "https://techcrunch.com/2021/07/12/quantexa-raises-153m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1148091243.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/12/quantexa-raises-153m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/12/quantexa-raises-153m/amp/",
-      "publishedDateTime": "2021-07-12T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows.md",
-      "title": "Computer Vision Has Potential to Radically Transform Industries, Insight and IDG Study Shows",
-      "excerpt": "Computer vision still in awareness phase but adoption expected to grow significantly in near futureOverwhelming majority of respondents agree that computer vision has incredible potential to transform",
-      "sourceUrl": null,
-      "webUrl": "https://tucson.com/business/computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows/article_1588e632-abf0-53bd-8aa3-94d60dde80c4.html",
-      "originalUrl": "https://tucson.com/business/computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows/article_1588e632-abf0-53bd-8aa3-94d60dde80c4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png",
-          "width": 620,
-          "height": 290,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arizona Daily Star",
-        "domain": "tucson.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

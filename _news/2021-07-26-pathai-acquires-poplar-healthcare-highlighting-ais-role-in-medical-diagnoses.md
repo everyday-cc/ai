@@ -53,6 +53,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "PathAI acquires Memphis' Poplar Healthcare"
+    excerpt: "Memphis-based Poplar Healthcare is joining forces with Boston’s PathAI, a provider of artificial intelligence-powered technology for pathology services."
+    publishedDateTime: 2021-07-26T20:18:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2021/07/26/boston-based-pathai-acquires-poplar-healthcare.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "vX/dF7OBpzV2ArseiprPh+GU3UKF4V6I2sXXc6q9GMVYGdehmtK/Bwg12hxXD0cQfHiRuhP3QYuaRAVzaWlyujoSZe9ouznOiQt30ioRYZj2EiHQkQeIeT+EzBnk+6P6SgNbOzhz6zwb2CyokNhTl3nGhWwWVEP+cr76m1Jl2/CqjVtLjKfkxmMQcrVNLAkaItEjtDwtvLkSxiViHM5RllnnNc25pedN4MhpkBjatBAJc/X+YZTMctp8aChr0kekimjGQ2FgDjLlkt/jVFF2xUcEXdnkpIigaZARBbUs/vGPZhcI3+z4IpWwuP3f68hTpV+/lO2U6ULvo6wHUgA+Yiy1S1MbVuAVvxQpsiy9cg4is3OLXQSybkepsedABPlFmuVGIHmSWDqpgmU/aKxL0yDZbCLETiQpTHGQ4YYHlM1gEolA831Ca55mKHZAM6L0UNSOBWP/iCv6VudlJg/nru4Jkb0eSaZwXiWwqGbMLkTfLnUnjZQVqdAY58yz5E7yOxLu+3O5UCDcGYoRJ6JmwA==;g+IOHwa+lCCJc0hRVlWW8A=="
 ---

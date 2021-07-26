@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-rec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
 type: article
 quality: 153
-heat: 193
+heat: 203
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/07/23/22/45821447-0-image-a-2_1627076205152.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "Here’s What You Need to Know About Recent Major Investments in Facial Recognition"
+    excerpt: "The biometrics industry has seen a huge amount of venture capital investment this year, particularly in the facial recognition arena."
+    publishedDateTime: 2021-07-26T20:06:00Z
+    webUrl: "https://mobileidworld.com/heres-what-you-need-know-about-recent-major-investments-facial-recognition-77202101/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 34
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/HiRes14-e1435871446756.jpg"
+        width: 708
+        height: 800
         isCached: true
   - title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
     excerpt: "By Rachel Metz, CNN Business After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he hasn’t received a penny of the $6,"

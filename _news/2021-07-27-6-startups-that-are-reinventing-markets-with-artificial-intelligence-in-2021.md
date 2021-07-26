@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Catching the artificial intelligence buzz"
+    excerpt: "Backpacks to track bees, bushfire modelling and sensors to detect broken water pipes are some of the technologies being developed in Australia as part of an"
+    publishedDateTime: 2021-07-26T16:00:00Z
+    webUrl: "https://www.canberratimes.com.au/story/7358148/catching-the-artificial-intelligence-buzz/"
+    type: article
+    provider:
+      name: The Canberra Times
+      domain: canberratimes.com.au
+    quality: 39
+    images:
+      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/6f78c94e-5081-42b7-bc96-9cd824c8399d.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
+        width: 800
+        height: 452
+        isCached: true
   - title: "Why Artificial Intelligence Implementation is Lagging in International Shipping"
     excerpt: "The long-term benefits of including AI-powered systems in logistics and supply chain operations are well known."
     publishedDateTime: 2021-07-25T18:59:00Z
@@ -110,6 +124,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "2m6jA9TA1xyx+q2ptBtq50fdvKxGrqIfyjrvWAK6KdShWZvA4IfpC7ctTPqEtJd+rrX2uh51FnOr5mp6vf3dpSTWlWK9ggFlvyxvpw7hdwIwhQ0ClMHq3kNcvBVuMA1YGjgYEtJVjY8qVtWwo9yZzoBqvF+hlDhooPIvB0YOEeb56QdGm1ZoONrJxWJcNtuIGj/lVYctSmTpDuL9StbKCQ7AgziRpOo0r67F3T5sJq/xri56s4pCSZeFTMJQiF8RrA/GqN8ZFc2YkJKHpJAYmo9Xv7TYdOG0oztpujcAKnT1aPtxb1+4SlWd/znTG/h78seqV0AIWnisvF2Fh41puZPB8keEWItXWSd0O40wD8c=;hDmtr4hPWd9q0pNqZTqwHQ=="
+secured: "RgpDIwDJN79hQpa7P4NvMle+e187H5C85pQfebq3egv2IeWliopQZzN8b+FP92+xUkSf7XaoHPc7+ulvNzEgAYBeQ/6V4H5tU24WS+9JigTEr5ploAVtorfEXhyZdrLHy5kCZ7+l995+UyjUCycbmwD9Fl55Qmi5dU1Hk5XcIbMUuHpn+zLyFXJ9v7ncKZUsV7dcLPFsTA5BrdxKIP+ZLAjHVR40Qd1nuRhygolAEXOriSE9n14eoow+4HRL/uqC79OAA1Rda+7R0LDMqcooTumf4fA8cj51Boh3GcW+VSJ+xiy1LlJZfGKKdzDP4f9KZF4sN+HaQNbDGLhYiLd4IrQyc+5ZAeDx+p4TC8ABeaC1vO52iyEGqbpih58IfANio1487JiMCrkUOG75ua9UMTBHEqrTHINZs7dtp73bMYNJl9OhAiTTiQQ0j2UV+X/DUJTnuTF1uKOIhsSqSSSM1Cvg/adaL/YOWxAEsTpxctly79WqMMtYYCeqxMZzx+DhaLBy53hXdQF03TbcZZeeCA==;ioEBnfoZgyGK1ikRAPEpEg=="
 ---
 

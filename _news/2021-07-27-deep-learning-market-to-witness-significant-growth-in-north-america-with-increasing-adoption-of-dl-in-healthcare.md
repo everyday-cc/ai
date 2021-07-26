@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2337537/deep-learning-market-to-witness-s
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337537/deep-learning-market-to-witness-significant-growth-in-north"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -28,23 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Disc Market to Witness Robust Growth in Coming Years"
-    excerpt: "The global artificial disc market attained a value of 1 0 billion in 2017 and is predicted to reach a revenue of 3 4 billion by 2024 Furthermore the market is predicted to exhibit a CAGR of 18 8 from"
-    publishedDateTime: 2021-07-22T04:44:00Z
-    webUrl: "https://www.openpr.com/news/2334298/artificial-disc-market-to-witness-robust-growth-in-coming-years"
-    ampWebUrl: "https://www.openpr.com/amp/2334298/artificial-disc-market-to-witness-robust-growth-in-coming-years"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2334298/artificial-disc-market-to-witness-robust-growth-in-coming-years"
+  - title: "Lying, corrupt, anti-American cops are running amok with AI"
+    excerpt: "Who watches the watchers? Law enforcement agencies around the US are heavily-invested in AI and nobody is holding them accountable."
+    publishedDateTime: 2021-07-26T21:54:00Z
+    webUrl: "https://thenextweb.com/news/cops-are-running-amok-with-artificial-intelligence"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
     images:
-      - url: "https://cdn.openpr.com/U/7/U722428535_g.jpg"
-        width: 800
-        height: 454
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2015%2F11%2Fpolice-lights-dark.jpg&signature=5ceaa89b03c53869cbbfb93696f24707"
+        width: 1280
+        height: 640
         isCached: true
 
-secured: "wSp5EIg1qr2IfJfUQ8p9IOaGAtZgPsAqNqYAwvCuWnwVYoKt2AtsLCi/ZL/QRxK/uCFFO+HdXnoPxVfeeTwG2spDWfzZYb8WHE1zji1Wkse+uh8Jbl8cRKWaf4sXA+AgW8NpESTh3jr9+i49uVswOdvQkK0cPeZjIrNijG5qvaJCMhhwYGJADAg+7lTG6rQSKvA44HwGBnnVOtgTMzsUWTXtPTVTeGQv3CZObYt4st3g2ub4E/nDk5KdshE2eSU3dls4ociEpZhJJZB50exzqcLL4jLMdtve9XTAZkVr5pC2eER8rlsz2Mf/zNhJZtPBALQiH/ytIbWkpyM7wDY9lJPQZuzYg5NcxX4U0PaRRR4=;Hbb64KdCQs9w5jEFgjRR8A=="
+secured: "dzkbBfehBz0+z3QroJsiIFtjssEsZfxl7+lnYR0d1vsGj9hbyZnj4ipzzhlnFsPOT7y5Tsb//Iqzvcn/XK58DN86scoqUgYJQQXee86JRsH5OeTPdTbqRQNzDC0mkIa0NiopSXdvDnoOxARAoLP5ve3avpTJQZsQyNc6hPZRFTgZPCgrUsKVdxFpU7R49AO4m3dhYxMzfVSKwJbvEOvg2jdbsOW/tmFA9PFzWoG05Js7+6dYqPMJwVT64270AKeSmFRywV3evPF7ORH0RVzKjDW7L12AL4IUlrlln3p90quOmfteZA+MREaYnNvRLrGUJa+tjgegs1ed1ypPgJyo14jhW/qvLmUvYJvi57th4VRpnAqDni2PMsTgO5Wr1k5KXIFRzwJO0SsJ+xkL9fpcAWmcJvshbAJ2yRbQhRA9GIJKB39L56p2hviQOIomO0OkdUJbq+ZDkBM3q2w4AQ0f/n47Cc7TY2Jc0I9ws/JnYptOKrylFwjo+h3Da8dcTC3tG3a+LQrlZPw9ji9XsjiBOQ==;xj/Ehq//XDKyNUhRnwRTAg=="
 ---
 

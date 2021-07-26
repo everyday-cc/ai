@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-26-bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor.md",
+      "title": "Bring your own container to project model accuracy drift with Amazon SageMaker Model Monitor",
+      "excerpt": "The world we live in is constantly changing, and so is the data that is collected to build models. One of the problems that is often seen in production environments is that the deployed model doesn’t behave the same way as it did during the training phase. This concept is generally called data drift",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/08/ml2559-diag2.jpg",
+          "width": 785,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T14:37:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-global-deep-learning-marketpotential-segments-their-contribution-to-market-size-amazon-web-services-aws-google-ibm.md",
       "title": "Global Deep Learning market:Potential Segments & their Contribution to Market Size |Amazon Web Services (AWS), Google, IBM",
       "excerpt": "Global Deep Learning Market Overview The latest report up for sale by QY Research demonstrates that the global Deep Learning market is likely to garner a great pace in the coming years Analysts have scrutinized the market drivers confinements risks",
@@ -719,15 +771,24 @@
     {
       "path": "_news/2021-07-20-aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes.md",
       "title": "AWS Announces General Availability of Amazon EBS io2 Block Express Volumes",
-      "excerpt": "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time.",
+      "excerpt": "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time .",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/",
-      "originalUrl": "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/",
+      "webUrl": "https://www.thedailytimes.com/business/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/article_beeecae8-75cf-5cb0-bb0e-8cf6f3340650.html",
+      "originalUrl": "https://www.thedailytimes.com/business/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/article_beeecae8-75cf-5cb0-bb0e-8cf6f3340650.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -735,8 +796,8 @@
       "publishedDateTime": "2021-07-19T14:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "thedailytimes.com",
+        "domain": "thedailytimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -843,8 +904,8 @@
       "title": "Snowflake Stock – Even as COVID eases, cloud computing and AWS keep flying high",
       "excerpt": "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a",
       "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
+      "webUrl": "https://fintechzoom.com/fintech_news_nyse-snow/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_nyse-snow/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1366,60 +1427,6 @@
         "AI in Healthcare",
         "AWS AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-deploy-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker.md",
-      "title": "Deploy variational autoencoders for anomaly detection with TensorFlow Serving on Amazon SageMaker",
-      "excerpt": "Anomaly detection is the process of identifying items, events, or occurrences that have different characteristics from the majority of the data. It has many applications in various fields, like fraud detection for credit cards, insurance, or healthcare; network intrusion detection for cybersecurity;",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/01/ML1533-image003.jpg",
-          "width": 1588,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T10:28:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

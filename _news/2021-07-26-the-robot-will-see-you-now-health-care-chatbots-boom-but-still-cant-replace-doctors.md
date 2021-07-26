@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-26T14:17:00Z
 originalUrl: "https://www.washingtonpost.com/technology/2021/07/26/healthcare-chatbots-pandemic-rise/"
 webUrl: "https://www.washingtonpost.com/technology/2021/07/26/healthcare-chatbots-pandemic-rise/"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XPG3NL7TJVGHTDJCYF72RI6MXM.jpg&w=1440"
@@ -41,7 +42,21 @@ related:
         width: 671
         height: 419
         isCached: true
+  - title: "The robot will see you now: Health-care chatbots boom, but still can't replace doctors"
+    excerpt: "Chatbots like Scout are often called \"symptom checkers\" because they are trained to ask about your ails and escalate serious issues to doctors when specific concerning conditions come up. These health-care chatbots have been used for years,"
+    publishedDateTime: 2021-07-26T19:08:00Z
+    webUrl: "https://www.phillytrib.com/the-robot-will-see-you-now-health-care-chatbots-boom-but-still-cant-replace-doctors/article_4a7631ff-fa43-58ce-a501-7eaa72b44dac.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 31
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/custom/image/cda08428-064c-11e6-aec7-2ffb2f5d3585.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "0BAdCVA2djklopPDGwizqVh4wn9mrlaN1a6B7zor4U5bbmRJhziRl34tciDi2Xo48Pxos9Fq6km5xAcWWJUvKAlfZoKhC8yNtLEtgrcJl1Ovf8uwJoNzdkhyEgD+QF00YIdYv/aicfsLpqPQuV8hdrgXQ0a5DkcYbIzgOFlWmtAKTc2jMaIEqpihXrsJCTFb9aKtwwDUou8xO0C6fVvXZ+ZxmqPtJMn3QyRukLstJ/fcplI/uKhCfLZGb35N09Z8Nn4EyepMwzDC8Yf/nLuYV5ynccbQF2M0iWZ8bu7t2h6INSoErfs6BC3Ij5NLbdGBsoSS1vhvV6eDu2ERmA1PU9z4ZHqG78/NwAZd5GeYQgE=;poDu01+OZASqu1bSl8fTWQ=="
+secured: "ThdfWTm/SkKzash5aCldmIV3K4Dh2iGn9neQlA83Ph0iOnT2iSCn/R1hCOqRGj31sZMuK5+lmA+syVrKkNa/Y64k61UlMc5nzmRM/gZ0/eG1HMjGGvFgnz0OueyBKbrwlzp3kAxJm55F9sYVKB1mVZepYz+i3PbU9JvdPxmD5w0xI48kyD9MO22h5Uc6NGQYoQuCZ31hmBvdNNMub21tqAOebu/30GUWMBnNQWMa7xwQLJctG4W+n//4Wgps9Ofcx0AoL8vpAn4M05yxqyKGu7jG0UljqWEv9I2lIYUIqBp/M6fVgCsjzPwhf47Ag5Ct9LD+RfKY8XYVO+lTBgnmOEyv0AfWeV/Lr2KSUK3ixHVVqrR9C1uFWaxfqJGGsmaohA109nRA0KY+fwGUYpxMJgZT1YjXQG1vQZhmCeORfRHmg1LUsivMliiNRloTvF7+PZw8fHvo58ba6em8VrkoMOCLT6spr1GYo/gXQo6KsHXjiykhyuW99QEWkEdK9k1KK3SIBJp/3ET03yVAHgICUw==;RzX87RqCZ73DXjvLMmH6hg=="
 ---
 

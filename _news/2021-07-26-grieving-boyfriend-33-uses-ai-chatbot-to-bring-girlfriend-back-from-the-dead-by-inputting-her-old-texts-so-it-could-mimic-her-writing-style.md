@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Grieving man uses AI site to ‘chat’ with dead girlfriend"
+    excerpt: "Joshua Barbeau used pioneering artificial intelligence software to have life-like online “chats” with his girlfriend — eight years after she died."
+    publishedDateTime: 2021-07-26T20:19:00Z
+    webUrl: "https://nypost.com/2021/07/26/grieving-man-uses-ai-site-to-chat-with-dead-girlfriend/"
+    ampWebUrl: "https://nypost.com/2021/07/26/grieving-man-uses-ai-site-to-chat-with-dead-girlfriend/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/26/grieving-man-uses-ai-site-to-chat-with-dead-girlfriend/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/joshua-barbeau-jessica-pereira.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Grieving man, 33, uses AI chatbot to bring girlfriend 'back from the dead'"
     excerpt: "Freelance writer Joshua Barbeau, 33, from Bradford in Canada, lost Jessica Pereira in 2012 when she succumbed to a rare liver disease."
     publishedDateTime: 2021-07-25T23:21:00Z

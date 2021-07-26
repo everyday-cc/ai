@@ -53,6 +53,20 @@ related:
         width: 700
         height: 300
         isCached: true
+  - title: "Construction Robot Market Set Witness an Uptick during size 2025"
+    excerpt: "Construction industry is one of the few industries in the world that rely mainly on manual labor due to which the adoption of automation, including robotics is very less. However, this trend is expected to change due to the factors mentioned below: There is an increase in the number of start-ups and pure players focusing on 3D-printing of building over the last few years."
+    publishedDateTime: 2021-07-26T20:14:00Z
+    webUrl: "https://www.pr-inside.com/construction-robot-market-set-witness-an-uptick-during-size-r4840492.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 39
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Worldwide 5G Business Services Industry to 2026 - Machine Learning and Cognitive Computing Will Be Leading AI Tools Supporting 5G"
     excerpt: "The \"5G Business Services Market by Enterprise, Industrial, and Government Segment Applications, Services, and Solutions 2021 - 2026\""
     publishedDateTime: 2021-07-22T13:30:00Z

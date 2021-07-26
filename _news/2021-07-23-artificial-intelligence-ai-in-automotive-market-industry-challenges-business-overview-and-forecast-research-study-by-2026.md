@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Agriculture Market 2021 Top Industry Players, Regional Study, Growth Drivers, Challenges and Opportunities by 2026"
-    excerpt: "MarketsandResearch.biz has added a new research study on Global Artificial Intelligence in Agriculture Market 2021 by Company, Regions, Type and Application, Forecast to 2026 which is a result of an extensive examination of the market patterns."
-    publishedDateTime: 2021-07-22T03:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-agriculture-market-2021-top-industry-players-regional-study-growth-drivers-challenges-and-opportunities-by-2026-2021-07-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "wXf/OKPIrCZtRXnPlJ0sHWOTYRIZL/jL3FQVzas9MPPKkA9XTofnkgefSVnowsuKmLL5Za6Wv6t0hAea3bBNqfXiOs0Rrx5HY/d9woSEvhRMfL7tw5UvgohAw6avcaFfyobj6xHfluqcePOwA87pA60BVBYC54fYk6Qj0dnOf/FmFckrRveijIxd4xID4yUpICrloyqVg/XuZt7j7BAu8/5vPkFi9DO/0zCt6dAlg9XNtALL0TSybVWQuzhs5KoSvS33cnkuJaDN0rs8ZRK7mDd+H/ijYE92GEUpnLTaYb/6lbdnjhEtG5EVAvcjzR+btPVx2o0MDLA19VrD7if8nS2dJyn2SOunb//gjJc4Jhk=;rZubLPF6m20dm7G6N+TiFw=="
 ---

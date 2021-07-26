@@ -2,6 +2,249 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-23-robotics-and-ai-are-speeding-up-our-nuclear-clean-up-mission.md",
+      "title": "Robotics and AI are speeding up our nuclear clean up mission",
+      "excerpt": "West Cumbria is delivering the future of nuclear robotics and artificial intelligence technology. Every day the company in charge of the nationally important mission of decommissioning and cleaning up the UK’s largest nuclear site – Sellafield in West Cumbria - is facing new challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politicshome.com/members/article/robotics-ai-speed-up-nuclear-clean-up-mission",
+      "originalUrl": "https://www.politicshome.com/members/article/robotics-ai-speed-up-nuclear-clean-up-mission",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2021_07/DRONE_960X640_JAN21_002_xegibn.jpg",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PoliticsHome",
+        "domain": "politicshome.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-marketing-ai-plenty-of-use-cases-but-were-just-getting-started.md",
+      "title": "Marketing AI – plenty of use cases, but we’re just getting started",
+      "excerpt": "Roetzer’s Institute, in partnership with Drift, a provider of conversational AI solutions, recently published 2021 The State of Marketing AI. It’s a survey that looked at how marketing AI is in use today,",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/marketing-ai-plenty-use-cases-were-just-getting-started",
+      "originalUrl": "https://diginomica.com/marketing-ai-plenty-use-cases-were-just-getting-started",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-07/hand-895588_640.jpg",
+          "width": 640,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/marketing-ai-plenty-use-cases-were-just-getting-started?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/marketing-ai-plenty-use-cases-were-just-getting-started?amp",
+      "publishedDateTime": "2021-07-23T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021.md",
+      "title": "Ford To Deploy Self-Driving Cars in Collaboration With Argo AI and Lyft By End of 2021",
+      "excerpt": "Ford Motor Company (NYSE: F) plans to deploy the first self-driving cars with its partner Argo AI on ride-share service Lyft Inc’s (Nasdaq: LYFT) network by the end of 2021. In a press release on Wednesday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021-2021-07-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021-2021-07-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-airbnb-cto-says-graph-neural-networks-will-be-big-in-2021.md",
+      "title": "Airbnb CTO says graph neural networks will be big in 2021",
+      "excerpt": "Airbnb CTO talks about cutting-edge technologies, graph neural networks, and innovation in AI during Transform 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/22/airbnb-cto-says-graph-neural-networks-will-be-big-in-2021/",
+      "originalUrl": "https://venturebeat.com/2021/07/22/airbnb-cto-says-graph-neural-networks-will-be-big-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/airbnb.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/22/airbnb-cto-says-graph-neural-networks-will-be-big-in-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/airbnb-cto-says-graph-neural-networks-will-be-big-in-2021/amp/",
+      "publishedDateTime": "2021-07-22T17:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-automate-annotation-of-image-training-data-with-amazon-rekognition.md",
+      "title": "Automate annotation of image training data with Amazon Rekognition",
+      "excerpt": "Every machine learning (ML) model demands data to train it. If your model isn’t predicting Titanic survival or iris species, then acquiring a dataset might be one of the most time-consuming parts of your model-building process—second only to data cleaning. What data cleaning looks like varies from dataset",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-annotation-of-image-training-data-with-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-annotation-of-image-training-data-with-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/14/ml3998-image001.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T17:05:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-simplify-patient-care-with-a-custom-voice-assistant-using-amazon-lex-v2.md",
       "title": "Simplify patient care with a custom voice assistant using Amazon Lex V2",
       "excerpt": "For the past few decades, physician burnout has been a challenge in the healthcare industry. Although patient interaction and diagnosis are critical aspects of a physician’s job, administrative tasks are equally taxing and time-consuming. Physicians and clinicians must keep a detailed medical record",
@@ -985,254 +1228,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-ai-startup-funding-remained-strong-in-q2-report-finds.md",
-      "title": "AI startup funding remained strong in Q2, report finds",
-      "excerpt": "CB Insights found that AI startup funding remained strong in Q2 2021, with a record number of companies reaching 'unicorn' status.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/22/ai-startup-funding-remained-strong-in-q2-report-finds/",
-      "originalUrl": "https://venturebeat.com/2021/07/22/ai-startup-funding-remained-strong-in-q2-report-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/11/initial-coin-offering.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/22/ai-startup-funding-remained-strong-in-q2-report-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/ai-startup-funding-remained-strong-in-q2-report-finds/amp/",
-      "publishedDateTime": "2021-07-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-artificial-intelligence-ai-in-automotive-market-industry-challenges-business-overview-and-forecast-research-study-by-2026.md",
-      "title": "Artificial Intelligence (AI) in Automotive Market Industry Challenges Business Overview and Forecast Research Study by 2026",
-      "excerpt": "Selbyville, Delaware Artificial Intelligence (AI) in Automotive Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which has been looked upon is done considering both,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-industry-challenges-business-overview-and-forecast-research-study-by-2026-2021-07-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-industry-challenges-business-overview-and-forecast-research-study-by-2026-2021-07-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-15-ways-to-leverage-ai-in-customer-service.md",
-      "title": "15 Ways To Leverage AI In Customer Service",
-      "excerpt": "From gathering data to speech recognition and message response times, AI can enhance the customer experience in nearly every way when it's applied correctly. Here, 15 members of Forbes Business Council share their expert insight on how organizations can leverage AI to enhance their customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/22/15-ways-to-leverage-ai-in-customer-service/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/22/15-ways-to-leverage-ai-in-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f5f302638fe1956f091f01%2F0x0.jpg",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/22/15-ways-to-leverage-ai-in-customer-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/07/22/15-ways-to-leverage-ai-in-customer-service/amp/",
-      "publishedDateTime": "2021-07-22T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks.md",
-      "title": "Zone7 Raises $8 Million In Series A Round To Expand Artificial Intelligence Platform For Predicting Sports Injury Risks",
-      "excerpt": "Zone7, an artificial intelligence platform, recently secured $8 million in a Series A funding round to help expand its reach in sports as well as other industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks/",
-      "originalUrl": "https://www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f8a10ed262ed39b756c1fd%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks/amp/",
-      "publishedDateTime": "2021-07-22T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-prepare-for-ai-that-learns-to-code-your-enterprise-applications.md",
-      "title": "Prepare for AI that learns to code your enterprise applications",
-      "excerpt": "Today, about 70% of the work is all about the development of glue code and wiring things together. From the UI front end to the back end of apps, as well as in the integration layer, there are lots of repetitive tasks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/",
-      "originalUrl": "https://www.zdnet.com/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/",
-      "publishedDateTime": "2021-07-22T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

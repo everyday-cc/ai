@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Catching the artificial intelligence buzz"
+    excerpt: "Backpacks to track bees, bushfire modelling and sensors to detect broken water pipes are some of the technologies being developed in Australia as part of an"
+    publishedDateTime: 2021-07-26T16:00:00Z
+    webUrl: "https://www.canberratimes.com.au/story/7358148/catching-the-artificial-intelligence-buzz/"
+    type: article
+    provider:
+      name: The Canberra Times
+      domain: canberratimes.com.au
+    quality: 39
+    images:
+      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/6f78c94e-5081-42b7-bc96-9cd824c8399d.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
+        width: 800
+        height: 452
+        isCached: true
 
 secured: "SfppKniUbD9OwKK4NTEmy9bBTI+WfLmEGsBYDF6FO+/AdlMnxKJWN0tKb6l58D+Kg217X9Ssu4GorS7H2I1PNpzRGiD9cwN9QiAaPf4ADlkdk1C73z3j+hujs6dDB/90uYfdmCDToWHPVSHA9ynjKjz0ahbLPnXIlDVa/QP9irbY20piwcueD9bU15X4MUweS+lJWGe5N4qyATJgudu6k6v9Q4iF+E3JnOwcLHGZmsGPQ5SCwS3eHRGWW6EaCBrker7Kwq8OE6LVwFI8FgnF9AP7FT+mFsA0+MrbvM0czmtT4T4QxnKA8f7hGSoUQUi1cLm0KUgpPHDMvajeRG9xRrVVe7WwRVkgQSXxG580/VdSvxoPQq90dZglytC4IgstxH+KaHifbCgdncoorcLzawMc2kn1Vb5RlZl/AeLXVkZ5t1O2scxMzAka+SnbCLU6zEAaBnKQxqVEiW6mEsbAt4ke4HTydL+L9k6YDOqs4ja4QvumqsBmT6njAtSG1MuR4Y1+sHmLyv1m7rGtGxSVgQ==;Echi+ZYDxdf4tUqGUOYtHQ=="
 ---

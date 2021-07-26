@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-fac
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 101
 published: true
 
 provider:

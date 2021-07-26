@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19916974.html"
 webUrl: "https://www.lelezard.com/en/news-19916974.html"
 type: article
 quality: 62
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.allaboutcircuits.com/uploads/thumbnails/mit_movement_aware_robotics_thumbnail.jpg"
         width: 700
         height: 300
+        isCached: true
+  - title: "Construction Robot Market Set Witness an Uptick during size 2025"
+    excerpt: "Construction industry is one of the few industries in the world that rely mainly on manual labor due to which the adoption of automation, including robotics is very less. However, this trend is expected to change due to the factors mentioned below: There is an increase in the number of start-ups and pure players focusing on 3D-printing of building over the last few years."
+    publishedDateTime: 2021-07-26T20:14:00Z
+    webUrl: "https://www.pr-inside.com/construction-robot-market-set-witness-an-uptick-during-size-r4840492.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 39
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
     excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at 9.4%, finds"

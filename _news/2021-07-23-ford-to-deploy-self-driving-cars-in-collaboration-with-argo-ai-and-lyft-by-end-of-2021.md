@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ford-to-deploy-self-driv
 webUrl: "https://www.marketwatch.com/press-release/ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021-2021-07-23"
 type: article
 quality: 61
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -97,20 +97,6 @@ related:
       - url: "https://img.masstransitmag.com/files/base/cygnus/mass/image/2021/07/16x9/Lyft_Argo_Ford_AV_Escape_Hybrid_01.60f995c317488.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Argo AI, Ford & Lyft partnership provides robotaxi services to Lyft customers"
-    excerpt: "Argo AI, Ford, and Lyft form the first large-scale collaboration in the US: self-driving developer, a carmaker, and a ride-hailing company."
-    publishedDateTime: 2021-07-22T03:56:00Z
-    webUrl: "https://techstory.in/argo-ai-ford-lyft-partnership-provides-robotaxi-services-to-lyft-customers/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/07/lyft-argo-ford-01.jpg"
-        width: 940
-        height: 627
         isCached: true
   - title: "Argo AI and Ford to launch self-driving vehicles on Lyft network by end of 2021; targeting 1,000 over next 5 years"
     excerpt: "Argo AI, Lyft and Ford Motor Company are collaborating to commercialize autonomous ride hailing at scale. The partnership brings together all of the pieces necessary to create a viable autonomous ride hailing service,"
