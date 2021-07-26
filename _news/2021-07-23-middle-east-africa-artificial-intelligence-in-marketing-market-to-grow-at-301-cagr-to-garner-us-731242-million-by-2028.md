@@ -70,6 +70,26 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market"
+    excerpt: "The global AI in Healthcare Market size is expected to grow from USD XX billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period. At present,"
+    publishedDateTime: 2021-07-23T17:20:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-global-size-share-statistics-historical-analysis-and-industry-growth-evolving-players-intel-ibm-google-microsoft-general-vision/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
+  - title: "Automotive Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 Government regulations across the globe are getting stringent for the safety of driver without making them compromise on their comfort"
+    publishedDateTime: 2021-07-22T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2334680/automotive-artificial-intelligence-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "ljtVbgOzAucLGNal2AV3BRW9mj5E0jhv0+WhBwfuPshksWi4B08nR5TJZ5acuMlAn10Wj6SRcR8bRkkD6rt2yKO9oOw3I2U1vjiwdJV/UfUpuxU5i5k/uvpGCNTTlzrJ4dZZ+Yeiz3Dc2JKXL++ooPJamJJVxyXlyCy19yOIwokyFkPlrgurNpZHmm3GY6Eq8e7YNID8kkSNHcJ3Ec0xzOrdWuz/Lohc28BCDXT5LeBcSDi8cL0yqZ92l7SHIOqPlZ/x5c+DJFl1WEj/SCvQZztWvFyenpDQF6gNwDGmOum3Lpd3ISuE7j+M+jFy7fJNVgz/CpYlgGdrSdnbj636LM27FhRZ6lkZRHnF50AasBatKGAh33RW2zh1BvSLpCuUOnWRiVftfunzwvWUoExv/upL1QuxT094bj/c+TyvYYC0JlVC2YCbRCPR4k1iM42cmTKDKt0S2RETJiNNvp0IoH4oRMKOr7/5IBltEHSz+zuYwDOmhM/L7+WJc0Z0k83VkwLKMNi6bNyNV9COjhSbDQ==;nCKchd94+SKFGfhFKkaBvg=="
 ---

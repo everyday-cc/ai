@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-low-code-develop
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-low-code-development-could-boost-ai-adoption/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Run-down on Deep Learning Trends Driving AI Development"
-    excerpt: "Deep learning has evolved to be the power behind artificial intelligence models. Therefore, in the digital era, deep learning trends driving AI development is taking centre stage in the growth of technology."
-    publishedDateTime: 2021-07-21T12:30:00Z
-    webUrl: "https://www.analyticsinsight.net/a-run-down-on-deep-learning-trends-driving-ai-development/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/A-Run-down-on-Deep-Learning-Trends-Driving-AI-Development.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "AI slashes time and cost of drug discovery and development"
     excerpt: "Artificial intelligence is transforming the landscape of drug discovery and development. The technology is helping to slash the time and money needed to develop new drugs for COVID-19 and other serious diseases by quickly identifying promising drug candidates."
     publishedDateTime: 2021-07-25T02:00:00Z

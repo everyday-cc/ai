@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots
 webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22"
 type: article
 quality: 82
-heat: 112
+heat: 132
 published: true
 
 provider:
@@ -73,6 +73,26 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market"
+    excerpt: "The global AI in Healthcare Market size is expected to grow from USD XX billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period. At present,"
+    publishedDateTime: 2021-07-23T17:20:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-global-size-share-statistics-historical-analysis-and-industry-growth-evolving-players-intel-ibm-google-microsoft-general-vision/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
+  - title: "Automotive Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 Government regulations across the globe are getting stringent for the safety of driver without making them compromise on their comfort"
+    publishedDateTime: 2021-07-22T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2334680/automotive-artificial-intelligence-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "FM3ftvTrYcG8vHfLNdIVKMxSlz4stOlswcuOHcT9Eso4OHJO9qULK73ZwF+K5+miE8rlhmBrRZTUdr8sDJyBQqg0JIrwsTTFz7awdOe4n3LpD1Ag1NQ+GglylhBaC4n7Vs04Qor3h9Owu0mo60kuHVJI9G2Wic5Q8hOx79c+Oz5wA5ktmvdRdHDnkj+VoNX428o6c0aZrNFNIPDC8idBE8WvC4pE+sxvdOrEJfbcaVh85BcWi/DpW5D7oaHbA3SU5hXeurI0K1dKZRPtsDX9w95u3VdYhSgYY6Gj6s6kp3QwKpNX3+98+Oc0vfzRWmSmIW1r8Y4EWW01apgU/uGIEiCcOVjtyCNTGNRhIPfZVbs=;2rPbU0oyfzz/Y/S+3SGVyg=="
 ---

@@ -27,14 +27,21 @@ images:
 
 related:
   - title: "AI helping researchers improve solar data from the Sun"
-    excerpt: "Researchers are utilising artificial intelligence (AI) techniques to calibrate some ... seemed like a perfect fit. To start, the team would teach the algorithm what a solar flare looked like ..."
-    publishedDateTime: 2021-07-25T17:59:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210725/3792575.html"
+    excerpt: "Researchers are utilising artificial intelligence (AI) techniques to calibrate some of NASA's images of the Sun, helping improve the data that scienti.."
+    publishedDateTime: 2021-07-26T05:00:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-84749369,imgsize-296866,width-800,height-434,overlay-etcio/ai-helping-researchers-improve-solar-data-from-the-sun.jpg"
+        width: 800
+        height: 434
+        isCached: true
 
 secured: "xMNd41DJBa1cAW+dbe1a+z6I+J79Kvw+wKx1QVeZb3sxrjzL+kajx3F/QfOnElTa2gmgYUAwFkt6CgL0OHjYsYNohUPhyHoZfdpgJCih2dnELwoqxDz4DJkhg2tftks4AQIj28QoseGrjjYBOz7NUI2zcYjakiZ3B3/7H1kTAkMxRCT8EDfQkWn7wk40jwYy7dBGTmY4rwkjOnNYcP5V1MYcTlmmq5LL5f3b4OvSIYHVHB9U6Vn7bgP2c4zwXL7ts7psYFAJjlTHKey8K8Bk32FlsorCrx7YyXloHhA3beYAoTr9iUExyknXrehlV9XWsGqbzJAHMx6VqYqB2eLFHZosMltYILaL4g9xuYO4iNg=;rkPmy7AEDzdH1+NRnTR6Lg=="
 ---

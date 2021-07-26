@@ -72,6 +72,26 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market"
+    excerpt: "The global AI in Healthcare Market size is expected to grow from USD XX billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period. At present,"
+    publishedDateTime: 2021-07-23T17:20:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-global-size-share-statistics-historical-analysis-and-industry-growth-evolving-players-intel-ibm-google-microsoft-general-vision/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
+  - title: "Automotive Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 Government regulations across the globe are getting stringent for the safety of driver without making them compromise on their comfort"
+    publishedDateTime: 2021-07-22T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2334680/automotive-artificial-intelligence-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "Cii0Y0oWk8VkfXV+pvpN7KV1U3fp/M4TY6hXLMlaCzaXtd0PR79JW9SCJDCBoLCZ/wPhvhI1m9GBa4l7aInbbpkd/OgBK40mr9R+QsVPlcf9r/iIWjWfqz9rUmz+zJanU/CzJzIqoP9oNF+2ALGRAQhpW8ttMQ2L6Nvmzkj17UPe+yibXMB9IqBqDPz79uCWl2cAAiGEhR7cRI9O4tbrHNrNNfYduxjrd8U9UQmm/FbDq7IHnezIHVk+UfYVOtac0RaIb8NPBkyImYKPv5yk9O/3j7jykJKNwOWGcDakfW7/JU4JQ4VXiOc2FjGA5UX31SbaPAcgt0WcYc0ffRukBK9NWjtZRpJNy+yxzYAoZYY=;QuQzlShFJBw5fy3cauIKMA=="
 ---

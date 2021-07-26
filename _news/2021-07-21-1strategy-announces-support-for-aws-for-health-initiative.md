@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-1strategy-announces-support-aws-he
 webUrl: "https://www.tmcnet.com/usubmit/-1strategy-announces-support-aws-health-initiative-/2021/07/21/9414238.htm"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS Announces the General Availability of Amazon HealthLake"
-    excerpt: "AWS announced the general availability of Amazon HealthLake, a fully-managed, HIPAA-eligible service. With the service, healthcare providers, health insurance-, and pharmaceutical companies can securely store,"
-    publishedDateTime: 2021-07-21T12:10:00Z
-    webUrl: "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2021/07/aws-amazon-healthlake-ga/en/headerimage/header+%286%29-1626678272811.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "1Strategy Announces Support for AWS for Health Initiative"
     excerpt: "Strategy, a TEKsystems Global Services company and Amazon Web Services (AWS) Premier Partner, announced support for the AWS for Health initiat"
     publishedDateTime: 2021-07-21T19:00:00Z

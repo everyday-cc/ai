@@ -53,20 +53,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "SPIN Analytics and RISKROBOTtm, Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SPIN Analytics, today announced the availability of RISKROBOTtm in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and"
-    publishedDateTime: 2021-07-21T12:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-19912463.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 64
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "1lfrf4RcIGl32kKprANomB8dQ6Keynsh4J5XCliDgPddMYJV8gnwCv8DLvbpvydd9r55T2gXqiz7z+ScleSlZeB4KIKk+Fmui4iJRSNhFHrD8d5nN1Jz8RAzk5gF3tckwlQzg+ppI1KrYmtva/0xOnJCfXkfVEoCN4H+/0+WYRYeISb8vzgNMgNEZKqHOTnKTilvFegaC7UoX5hNKwyxxmtsn+/qhXK9bQt8rfsU2ziH5hrTbyJxxdIr8GVBMh/A0sh7pVEcgo721dE1EDUsCMSWBEx94NksxjaYP+kwYmKq2a5Tx5UdFu/S5oJpgKjfCYY10fecFdk8KgLxRnWe+ASd6FccgDDpudG+u4ORcd/w1vJOig4sNZPLYFDJaUBMkV8+wWJQyA16JHMfdn465cRjaf3ZZSiLJbjApAvOKlmI8agZKRxlL0ldXXtCAf/3ancMdmPulVYLiCSoQuTowLUgTDlINlZULViOaL1zVPz0hshUYA2AM/wa5mbgxriOf+TW9Ts3LfpyWUCX7GEP9w==;lj2oTjTFW6MgLa8MjIvRMw=="
 ---

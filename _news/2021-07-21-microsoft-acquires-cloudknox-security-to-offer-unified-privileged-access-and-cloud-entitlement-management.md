@@ -78,29 +78,6 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "Vectra AI Partners with Microsoft on Zero Trust Security Framework"
-    excerpt: "Vectra AI, a leader in threat detection and response, today announced that the Vectra Cognito platform delivers key Zero Trust capabilities for Microsoft 365 and Microsoft Azure customers. Vectra is uniquely positioned as an integral part of the model which assumes breaches by investigating the behavior of users,"
-    publishedDateTime: 2021-07-21T13:01:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-vectra-ai-partners-with-microsoft-zero-trust-security-/2021/07/21/9413808.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 51
-  - title: "KnowledgeLake Intelligent Document Processing Platform Supports Microsoft Azure Government"
-    excerpt: "KnowledgeLake, a leading provider of intelligent document capture and processing solutions, today announced the company's customers now have the ability to leverage"
-    publishedDateTime: 2021-07-21T13:00:00Z
-    webUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/knowledgelake-intelligent-document-processing-platform-supports-microsoft-azure-government/article_c87cc6a5-396b-59b5-b766-085c6709d81d.html"
-    type: article
-    provider:
-      name: Marietta Daily Journal
-      domain: mdjonline.com
-    quality: 44
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/8e14a090-8f54-11e7-9a2a-7f0e56ddb42e.jpg"
-        width: 1920
-        height: 1281
-        isCached: true
 
 secured: "63J29av7LFkxiqa/BqMnRxulECup037nzKWt8Du3abxDp4zp8GWSb4yumx1K8g/EsFZHpzKwIsi7aPgb+xTtXOaONfAtfM5D+kKbUQQKhZfRq+X9AU++WwMt9Th9VsqRCrtIzqMnbZAjRqNbkv5/0T/k5/TFt0KEqsTvjaxaGsm8m0sA9uK8UTDjBlHewp0Gzs/VTLcL71mNadOYhvp0GtvY8L1PNiGGWEp3rQ0Bacud0HgknDcE+P78s8yLnpcGgjxgrnYOPxJT3cl3oqwEhGtYYk3hcoKXde7B0+HCJOhbXjFZpCvFuLC3jCtzNrF298pasQvyUDhnYXyqvyJzRrGpAqCx2Tyd3ChrYs87W8U=;gk8IYmNdhIzUhvYDeIh4BA=="
 ---

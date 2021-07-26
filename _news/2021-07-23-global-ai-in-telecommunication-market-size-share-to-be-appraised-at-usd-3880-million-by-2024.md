@@ -72,6 +72,26 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market"
+    excerpt: "The global AI in Healthcare Market size is expected to grow from USD XX billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period. At present,"
+    publishedDateTime: 2021-07-23T17:20:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-global-size-share-statistics-historical-analysis-and-industry-growth-evolving-players-intel-ibm-google-microsoft-general-vision/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
+  - title: "Automotive Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 Government regulations across the globe are getting stringent for the safety of driver without making them compromise on their comfort"
+    publishedDateTime: 2021-07-22T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2334680/automotive-artificial-intelligence-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "+SQEUtnbzwT4g3TYscqHNKfoNERGUnucR7OmKKHJ3CuWRhC7Y80VXxpWMzUcOM1ixP785bZVS7F/qAsY7AAluzXztB3jkh75wnkt2ILSKgUwlRy8p58poEQ35qOu3IZpHDm1IHMfaX3a9TpYAbeLnrQeSc+DoDO1dJZpwM7y/kMMZDoS/Anh1Fqh8oNan7lwTh/zyYZ6WYIAeR7GogiLHRchzygNz3duYMJtBNVVfx16kHyp9lYLVuBOI2dNVVVX5A7t7mxrFsZwRN7ReE7SZSTaNfZwX52KUD9hN/nxlRmt7xlxqQdLCPwa/6kXuaTfVcow4XFq+0d+nWf4uwkOjRGJXOZEYXPIqwka28bMJas=;axt8JJ8+s5rvIz3PnAR60w=="
 ---

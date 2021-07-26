@@ -1,21 +1,29 @@
 ---
 category: news
 title: "AI helping researchers improve solar data from the Sun"
-excerpt: "Researchers are utilising artificial intelligence (AI) techniques to calibrate some ... seemed like a perfect fit. To start, the team would teach the algorithm what a solar flare looked like ..."
-publishedDateTime: 2021-07-25T17:59:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20210725/3792575.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20210725/3792575.html"
+excerpt: "Researchers are utilising artificial intelligence (AI) techniques to calibrate some of NASA's images of the Sun, helping improve the data that scienti.."
+publishedDateTime: 2021-07-26T05:00:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
+webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-84749369,imgsize-296866,width-800,height-434,overlay-etcio/ai-helping-researchers-improve-solar-data-from-the-sun.jpg"
+    width: 800
+    height: 434
+    isCached: true
 
 related:
   - title: "AI helping researchers improve solar data from the Sun"
@@ -35,6 +43,6 @@ related:
         height: 437
         isCached: true
 
-secured: "fPy/SbwCNgWKheAgVWko0P2gm9QnvAD2uc9ZYnA1vOz8ikFjaUUqp4QlzM9+D55kchmQZDH0gji46Uxia2VEDrVI7YUR2pB/hyuJWqLAh2k5Ui6aImqzbOJzGREDp7bJLRmAOcqY4rPBzLXkitM1QxUqSvijevC2BYzxlN4q0SLI6bp8Yh6Yu8gsVYj9uE2on8FjmhKOO5JWgwJPHFGKSu+OzsQtbeX6oFkR26dwujs0ie9T4aOti1lrAxGt3u4pqZ4KZqPfXZM/oAtNmm/FUIpKYWIDHaXqMgI9iGByyAFLoJFwh/FIycA/q4KV6QcWTdqbgsdxkijsuX2MAjxfhRl+hXVW7lmQT90dQyySbKw=;oKPOdVcmdWuMy5wVeYOhnw=="
+secured: "hIURPOXRvrcR4qDOGWMbnhzlxdDH+Rh2iRHkQl/wDbn3tyCdL/nYnGufXTzM23Lyzd3ScHqmIKdYHCuZgGd9utJe2Wl5Z9RjsoNXHjJEQiccoPx3WdXFhqcVfmkljHgnsKQw7XQa+TSd/qENr8nwZZ1JG6GjiIrLxpcKk0pwvgcVE6gabkre4tUJAjBFJ1a6VunBWZf+TybdLgf+5OJbTu7Qw3fZNeyMXB8yGXuQXZKMOZ69lVLdqjvswuNsEQ8qWZcZT5zxzfNHFVDgtM1g0GhQbSxR1twSmULJZXCt429GFz2ad1oI2K9RUtyOSbaS/kpTUEfgD15KaNHZokf0i0IR/lsxQNpBNn2ekbWAroY=;OKecJrcY0lTEiaj8ufwfCQ=="
 ---
 

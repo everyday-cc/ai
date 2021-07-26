@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2336498/ai-in-platform-as-a-service-marke
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2336498/ai-in-platform-as-a-service-market-to-eyewitness-massive-growth"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,17 @@ provider:
 topics:
   - AI
   - Microsoft AI
+
+related:
+  - title: "Artificial Intelligence in IoT Market Size, CAGR | Key Players – IBM, Microsoft, Google, PTC, AWS, Oracle"
+    excerpt: "The Artificial Intelligence in IoT Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market."
+    publishedDateTime: 2021-07-25T23:37:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-iot-market-size-cagr-key-players-ibm-microsoft-google-ptc-aws-oracle/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
 
 secured: "ea4SeTbTHizFLOl86W9Q2I9DYTP0o2J5otU/sUuWLKTt5UVnkCcQkgdWsqnFEA83Oe21SW4jepmwULEUbtGdeskdsucUQvDPfsmriUnarvB6rxoKZfU2M+4rwWmDjxV5Bn/Y90l5JmdDVL2ZdrFr3Sr5sT9Jdy++5hFA6dIKFoLk3gCIz7lFuekPk+c5SU6Z3MFjFXr6l09YubeyQC+z90xGONkbWL1LLjjkNMLj+/rSP+uRxAbDjrRYB+9dEWisrUC56QL332rjCYp6sLmzXr8q+SpjS1fDJrWlzsFUl7i4qdbR2nwtSwaB/fBhX1CCbEFujVEMSbBbPq74qWbaoCACCH7W8xCwH3TnijXNKjU=;WC48jQMXMB3L4XCbqMz0BQ=="
 ---

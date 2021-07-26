@@ -21,10 +21,10 @@ topics:
   - AI
 
 related:
-  - title: "Healthcare Artificial Intelligence (AI) Market Scope, Future Prospects And Competitive Analysis 2020 to 2027"
-    excerpt: "Market Insights . The advent of artificial intelligence (AI) will be responsible for transforming the way world works in the coming years. Its inclusion in the healthcare is a fas"
-    publishedDateTime: 2021-07-21T12:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21"
+  - title: "AI-based Surgical Robots Market Size to Register 16% CAGR During 2021-2027"
+    excerpt: "Selbyville, Delaware, Global AI-based Surgical Robots Market size to reach USD 13.2 billion by 2027 and is valued approximately USD 4.7 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 16% over the forecast period 2021-2027."
+    publishedDateTime: 2021-07-22T08:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22"
     type: article
     provider:
       name: MarketWatch
@@ -35,19 +35,49 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Marketing Market 2021 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2026"
-    excerpt: "Global Artificial Intelligence in Marketing Market 2021 by Company, Regions, Type and Application, Forecast to"
-    publishedDateTime: 2021-07-22T02:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-marketing-market-2021-growth-drivers-regional-outlook-competitive-strategies-and-forecast-up-to-2026-2021-07-21"
+  - title: "Global AI In Telecommunication Market Size, Share to Be Appraised at USD 3880 million By 2024"
+    excerpt: "Selbyville, Delaware. The report AI In Telecommunication Market Size and Analysis maintains enhanced dynamics and"
+    publishedDateTime: 2021-07-23T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-size-share-to-be-appraised-at-usd-3880-million-by-2024-2021-07-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Platform Market Size, Share Remuneration to Surge At 56.6% CAGR Through 2024"
+    excerpt: "Selbyville, Delaware, The Artificial Intelligence Platform market study now available with Market Study Report,"
+    publishedDateTime: 2021-07-22T04:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-size-share-remuneration-to-surge-at-566-cagr-through-2024-2021-07-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Middle East & Africa Artificial Intelligence in Marketing Market to Grow at 30.1% CAGR to Garner US$ 7,312.42 million by 2028"
+    excerpt: "The artificial intelligence in marketing market in MEA is expected to reach US 7 312 42 million by 2028 from US 1 159 26 million in 2021 The market is estimated to grow at a CAGR of 30 1 from"
+    publishedDateTime: 2021-07-23T09:18:00Z
+    webUrl: "https://www.openpr.com/news/2335658/middle-east-africa-artificial-intelligence-in-marketing"
+    ampWebUrl: "https://www.openpr.com/amp/2335658/middle-east-africa-artificial-intelligence-in-marketing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2335658/middle-east-africa-artificial-intelligence-in-marketing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
+    images:
+      - url: "https://cdn.openpr.com/U/7/U723557741_g.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Artificial Intelligence in Healthcare Market"
     excerpt: "The global AI in Healthcare Market size is expected to grow from USD XX billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period. At present,"
@@ -58,17 +88,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 36
-  - title: "Neural Network Software Market Size, Competitive Landscape, Revenue Analysis, 2016–2026"
-    excerpt: "The global neural network software market is forecast to reach USD 97.11 Billion by 2026, according to a new report by Reports and Data. The neural network software distinguish the subtle nonlinear interdependencies with individual patterns of data and self-learn to produce complex decisions without being programmed."
-    publishedDateTime: 2021-07-21T11:11:00Z
-    webUrl: "https://www.globalbankingandfinance.com/neural-network-software-market-size-competitive-landscape-revenue-analysis-2016-2026/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/neural-network-software-market-size-competitive-landscape-revenue-analysis-2016-2026/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/neural-network-software-market-size-competitive-landscape-revenue-analysis-2016-2026/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 31
 
 secured: "8xaQRwEket2FgnqFgnA2C3+RLhePcwZ3eRYT4USMk7Roi63Yw7Vw8RD2033gqfFrSVscr1Fu6gVWpTLb4vQ9+mnHNv9blypNdUVDeDcB2MhK4Lln16C1dwVixDWc1r23pTL1ofXhn4FzkJ1sk6mSOnAIJU7PHC5jeeenpsPRizw1rzcVNqiDH5UHi0c/EqQ16QJ/ZM4NsTatCvResQGjDm+UlyCKS1ZXkDToIhscFaOCvf6rYzkyZW4YcSkCYrS9RDUKANHtxEMMeTudGFPv8x3ENmJK8L4+MEon0QolomGzv9pQMBJhvKakvg5KsJxLQgg4+kCDa8UxIj4JM+vGsJisMyaWI7sL/+U6h9GfUyQ=;T5KXClLlWyJmNcjiMGqkhQ=="
 ---

@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "In A World Of Rising Risks, AI Offers Supply Chain Resilience And Reward"
-    excerpt: "Yet Covid-19 shows that many companies, even innovation leaders like Apple, can fail to be prepared enough for such rising uncertainty. Experts point to the visibility problems in global supply chains where there can be opaque tiers of specialized suppliers concealing baked-in vulnerabilities."
-    publishedDateTime: 2021-07-21T11:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/21/in-a-world-of-rising-risks-ai-offers-supply-chain-resilience-and-reward/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/21/in-a-world-of-rising-risks-ai-offers-supply-chain-resilience-and-reward/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/21/in-a-world-of-rising-risks-ai-offers-supply-chain-resilience-and-reward/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda45bb02ecda00061c10ea%2F0x0.jpg"
-        width: 1200
-        height: 793
-        isCached: true
 
 secured: "9DkOFIlCCE/bJOOhaqV5+TRNPI4lirCPk8cUY4m88G576okuicKJiZpY5zfbvevfANZ0UAJqygLrPhkEIan1p16or3HjM7TpTBPwDIj5ReDwnHEPFRJGIcsVWw7ic00Ksa8J4UVqNw02JyeKjrwfhbkjGPH+eRNGIO/hdBUp+RnxYffRxJjVC3vktgyTy1EAeDs33IWToR9qaPbeQ/st/CSa/3wsQtu3/2yUnm6tZnxYEmPtsUHApRTBLFgliPUjN92mizsdc5wax90zB5C0bAUijPFjsyAeWrYLx9wnu9CRys+pmR+vHzM+rv2hGn23pw2ZN/5OIBoDGm3qI+n9BevYAIWws2H/4i1+6fXHw+0PgLPMho8woLlBB7jaHc0rdx0CKnWrH++S8fg9RXYYA+A35IOJ804BbnGS5i5wBYabV51rXCld3y3zAhB/NErBsTb0RJpRoCJ8A+x7RYkB3UpUWdOUSwwczcZWYCH/GHqz+gqRce/KsbW4kBZDkL6l7rVu6vLbdTL5QJ57+3Ak8w==;QWw3My6bbVCYAS+sSu4JPA=="
 ---

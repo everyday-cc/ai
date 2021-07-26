@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "A Run-down on Deep Learning Trends Driving AI Development"
-    excerpt: "Deep learning has evolved to be the power behind artificial intelligence models. Therefore, in the digital era, deep learning trends driving AI development is taking centre stage in the growth of technology."
-    publishedDateTime: 2021-07-21T12:30:00Z
-    webUrl: "https://www.analyticsinsight.net/a-run-down-on-deep-learning-trends-driving-ai-development/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/A-Run-down-on-Deep-Learning-Trends-Driving-AI-Development.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "FrCmPwj50SBhAtmg4iTt6b8Duj7I7SROmNZIKf9RRrwA/tVVmHmHn36lGuRyX02krzA3sHLXXXUcsUQA3hDbilFBJlRQy5DXE4mJkc78RWBe6F0T4WKZifXkhFYbtfjk8XvCFiPBF9AGaYLIK2Dqd2GkreH44FKUnpDQsz2azjrm/Bu8apFSX49n+0/kbsaDnxVlRU6C9/AAjlkudiFtFQlRVH8sp49/gLYETg3e3MST/UU10KNKWEmGWfFpsi8NHAre+23FxBA5EGVK28UK0qsmuIvDZ03OrQ3lasn7rXVwfG7tcKiOR+ZkD3VP/9pqiUMJOIwLwWOtAEjpdz5KrCKfy/YyhjFZj+wD0HnL0sc=;BxD1GLWKPRGbnVvsNg6MPw=="
 ---

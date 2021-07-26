@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Private Cloud IaaS Offers Secure and Compliant Modernization for Financial Services Firms"
-excerpt: "Established financial services firms are facing unprecedented new challenges ... to agility by enabling firms to tap into technologies such as microservices, machine learning, cloud-native development platforms, and data lakes. These technologies can ..."
-publishedDateTime: 2021-07-16T13:11:00Z
-originalUrl: "https://www.computerworld.com/resources/221608/private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms"
-webUrl: "https://www.computerworld.com/resources/221608/private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms"
+excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
+publishedDateTime: 2021-07-16T12:32:00Z
+originalUrl: "https://www.networkworld.com/resources/221608/private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms"
+webUrl: "https://www.networkworld.com/resources/221608/private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms"
 type: article
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "5g1OINwQjwlW+UehrsSr5FxEv8nCBXl9llCKN8xfxO8+JWV5ItvvSFDGtUD8JEJLNM1iapZPhDgH3M3NtZkt2ap/fQcX9BCGPhF8XN6UIn9APeLDvDM/IC49ctI1GvkiH+QqI6sypEnU86G5zeRpNUVWsbUbGG/dx5c2MVGyAAfZL0O+F3mdhS4KOEIkxY9Rtbx1JFHdX51mfLfeii9UQTTL368KVFBfFfqBl0FdDpr5a04CrSKNVGqomjn+zijb0ofMkH2gqwT29xvQZ50k++PyZYuXI5muqmNJSu357RRxJ6GFkEuMTINx5yrufeHsMgFrFguWvjuvsZwDunUKMUDG99I9EmCyX3Lt0PSmDQo=;7YOR8+D3siMgN6ge7ZWwPA=="
+secured: "n3lfNIJriVY0q0UdonUBg0LZGxNYeh9IeTG0E6eDCds1ZL+7wgjUPOpShK012vEXFd2r9nAY4EJRi4V3lk86P7+UxEo4N6fu3TwAxmMiMXONMulq2TZFuV0MfLGYQZK1t9/bX3jG9PN7PiN2ZMyCX4fx4+iUWw6fRTfU//23KIaMSCcD0C6hHuODV2Rajfx/frB17VGXDIPZPChMHk1aIWaY8S8J2kKqQ2mnXUjJoxDlQbyusbOjLFeB+Y4f4gCpMygnqUx4sxtGyvuT4awj+jKTsZbjAbDMaervTPTGBylKfW8RzfXnzmWLKig48gVxPeVcvhApT2funPXEeNisFe0pZpjQLnemmFjSTBXBgIk=;PUxhbbPrMZAe+5B/v/UPTQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/artificial-intelligence-in-iot-market-s
 webUrl: "https://manometcurrent.com/artificial-intelligence-in-iot-market-size-cagr-key-players-ibm-microsoft-google-ptc-aws-oracle/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -20,20 +20,17 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
-    excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
-    publishedDateTime: 2021-07-21T12:34:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical"
+  - title: "AI In Platform As A Service Market to Eyewitness Massive Growth by 2026 | Google, Microsoft, Salesforce, SAS Institute"
+    excerpt: "AI In Platform As A Service refers to the third-party offering of artificial intelligence outsourcing. This allows the company to get the advantage of AI without spending lots of money. AI In Platform As A Service helps empower the sampling of multiple public cloud platforms to test different machine learning algorithms."
+    publishedDateTime: 2021-07-24T21:40:00Z
+    webUrl: "https://www.openpr.com/news/2336498/ai-in-platform-as-a-service-market-to-eyewitness-massive-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2336498/ai-in-platform-as-a-service-market-to-eyewitness-massive-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2336498/ai-in-platform-as-a-service-market-to-eyewitness-massive-growth"
     type: article
     provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 60
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1626810252/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?3BYwK50kU2Wfn3vdn6f2lV_WiZXgn7hW"
-        width: 884
-        height: 543
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
 
 secured: "TKuUYJSIA9djJgrGFdDSArGxDgNfV8ccBZV603jPctymtHjW/m9vD5dNcJZ1yzh55TySnBh5gZG+cG22u0Yh1VQwEYWIdbA4b7XPqZIbVP8pjUbCuHyuvM3jD9sfkHEuph0aXbovPRIQxhXdRvCsxWa1jdIjfIXmANx3TTw1r9o2XQcKfbg51AzN/WwlyY2ipoOkJLyg9LSS9QX/tYz0zAxtAytWhVUC5dnp8fl16bWE9TSlau53hRU6XYMIkajkIkfdY2y8qqf90KXS7WsPwFPD6AvZeBZVKvb1OLzZfzKCEPOxmsJOAdy8ARfkGyVY003L9cRfFlmPPA3ljkkVY0pNN64FSgm6WqBLC0ttbMXc/DPiZzhkf/+tTsVkz9YRzYBLBmbTZ13ggu3GGbJ6lOAdVhXR6rcqi2hLw44RlRVcxjE3ofT0dpLsSXZ36rtEXaJxIeHAEhJGIUcudDSMR6T+qce8J80tBzWtjQQkHddvtzl+IgQto/GRdfSPQ9htiRGhIJz0g8j29BYpE9fy1Q==;OxcGh7Z7maK9CPwAeDXuuQ=="
 ---

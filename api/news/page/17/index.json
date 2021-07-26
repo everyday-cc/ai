@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-13-the-technology-202-sen-warren-calls-for-federal-probe-of-mask-sales-on-amazon.md",
+      "title": "The Technology 202: Sen. Warren calls for federal probe of mask sales on Amazon",
+      "excerpt": "The senator’s letter highlights mounting federal ... style antitrust framework to all sections of the American economy,” Carl Szabo, vice president and general counsel of NetChoice, said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aclu.org/letter/coalition-letter-president-biden-use-facial-recognition-technology",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/12/technology-202-sen-warren-calls-federal-probe-mask-sales-amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aclu.org/sites/all/modules/custom/aclu_metatags/images/default_fb_share.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-how-verizon-delivers-a-phygital-customer-experience-with-data-ai.md",
       "title": "How Verizon delivers a ‘phygital’ customer experience with data, AI",
       "excerpt": "Verizon relied on AI to provide employees who worked in the store and those from home with customer analytics to improve customer service.",
@@ -684,19 +727,19 @@
     {
       "path": "_news/2021-07-12-d2iq-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "D2iQ Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,",
+      "excerpt": "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-d2iq-now-available-the-microsoft-azure-marketplace-/2021/07/12/9406732.htm",
+      "webUrl": "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg",
-          "width": 400,
-          "height": 400,
+          "url": "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook",
+          "width": 2161,
+          "height": 1130,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -706,11 +749,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T06:07:00-07:00",
+      "publishedDateTime": "2021-07-12T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1151,49 +1194,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-iit-madras-develops-ai-based-algorithm-to-identify-cancer-causing-mutations.md",
-      "title": "IIT-Madras develops AI-based Algorithm to identify cancer-causing mutations",
-      "excerpt": "Chennai: The researchers in the Indian Institute of Technology-Madras have developed an Artificial Intelligence (AI)-based Mathematical Model to..|News Track",
-      "sourceUrl": null,
-      "webUrl": "https://english.newstracklive.com/news/iitmadras-develops-aibased-algorithm-to-identify-cancercausing-mutations-sc53-nu318-ta318-1170281-1.html",
-      "originalUrl": "https://english.newstracklive.com/news/iitmadras-develops-aibased-algorithm-to-identify-cancercausing-mutations-sc53-nu318-ta318-1170281-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.newstracklive.com/uploads/lifestyle-health/health-tips/Jul/12/big_thumb/IITMadras1_60ebf6f8200dc.jpg",
-          "width": 798,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/iitmadras-develops-aibased-algorithm-to-identify-cancercausing-mutations-sc53-nu318-ta318-1170281-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/iitmadras-develops-aibased-algorithm-to-identify-cancercausing-mutations-sc53-nu318-ta318-1170281-1.html",
-      "publishedDateTime": "2021-07-12T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

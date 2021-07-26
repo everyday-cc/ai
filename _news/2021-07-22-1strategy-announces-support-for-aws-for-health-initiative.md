@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS Announces the General Availability of Amazon HealthLake"
-    excerpt: "AWS announced the general availability of Amazon HealthLake, a fully-managed, HIPAA-eligible service. With the service, healthcare providers, health insurance-, and pharmaceutical companies can securely store,"
-    publishedDateTime: 2021-07-21T12:10:00Z
-    webUrl: "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2021/07/aws-amazon-healthlake-ga/en/headerimage/header+%286%29-1626678272811.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "1Strategy Announces Support for AWS for Health Initiative"
     excerpt: "Strategy, a TEKsystems Global Services company and Amazon Web Services (News - Alert) (AWS) Premier Partner, announced support for the AWS for Health initiative to help accelerate solutions in genomics research."
     publishedDateTime: 2021-07-21T15:16:00Z
