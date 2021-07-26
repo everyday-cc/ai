@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-you
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Should translators fear AI?"
-    excerpt: "The Briton thinks AI might be able to smoothly translate similar languages, such as English and Dutch, fairly soon — “but not Chinese and English, at least not in my working lifetime. And even when it can, we’ll still have a role in editing.”"
-    publishedDateTime: 2021-07-22T00:01:00Z
-    webUrl: "https://www.taipeitimes.com/News/feat/archives/2021/07/22/2003761253"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 39
-    images:
-      - url: "https://www.taipeitimes.com/images/2021/07/22/p13-210722-Chingli.jpg"
-        width: 800
-        height: 599
-        isCached: true
 
 secured: "5xczK7H2nLlTdPWcI/OQlP/SKDCOxyv5eODf37lCUohHJp8xYPmULsP4ljqcnxNH6rwYFYyUkqb1pAgvD7Rc57xk0gq7Oey7qWBJ2qk2x2hHhyshB8bXccyC2cAcdPRn26UgKHfPFamNKYHPzegzLrQrXK1/A8TO+TPo2z2D5t+jcxa1eIhebbJnuGTrvUU4WzkIm06WaGLdiFvAOm3tqZPwP7blYuAKHU7bKrWie9XejIhhA6afEnfKZasFZcfIgomqu/KLQe6MtwifeTUXLZQm/9Qzf3pdp4qv9adGrCqDB8IfP34IExQkGzTNMU3PnTSenR0HEV9cqvCE1ECur9QqmjpiIYflu9p8UwNfWEUDoCW6sTLMEs0D8I9ZQu3BqhqB/L8xEQYRNVPUGMeyVp5bRfHH5VKRjfsReJJASR1J2R4Jjhpo70Ggr4r4K1t7z6E97FJIlY07KMWB0V2iHEyCJZfiaFUS/HIZsRQBRjPO1W1K+sRNWYO4QjTHBk8vrpRw1QmSKxKSImUteADV9w==;yMytPpda3xiULnahJQ3EsQ=="
 ---

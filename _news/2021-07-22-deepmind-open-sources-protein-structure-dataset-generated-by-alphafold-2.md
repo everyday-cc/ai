@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/22/deepmind-open-sources-protein-str
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/deepmind-open-sources-protein-structure-dataset-generated-by-alphafold-2/amp/"
 type: article
 quality: 188
-heat: 348
+heat: 338
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/07/22155326/22-july_deepmind-proteome.jpg?width=600"
         width: 600
         height: 400
-        isCached: true
-  - title: "Putting the power of AlphaFold into the world’s hands"
-    excerpt: "In partnership with EMBL-EBI, were incredibly proud to be launching the AlphaFold Protein Structure Database."
-    publishedDateTime: 2021-07-22T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/putting-the-power-of-alphafold-into-the-worlds-hands"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 74
-    images:
-      - url: "https://lh3.googleusercontent.com/xO2hMz9D5OX79cyMiXdL5TwdYgL5xLhLv3NusiL81ioz9hs8xSGSXrtu_-xyFQ8s6GApnGY0KNc7x4YXFXL6pUe6CO_3-b5TXM2QFixhCv5jQjLAcFI3"
-        width: 512
-        height: 288
         isCached: true
   - title: "AlphaFold predicts structures for nearly every protein in the human body"
     excerpt: "DeepMind put forward a compelling a solution to a 50-year-old science problem, demonstrating how its AlphaFold AI could predict the 3D structures of unique proteins, laying the groundwork for a new era of biological discovery."

@@ -59,6 +59,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Lyft travels to the future with new self-driving cars coming to Austin"
+    excerpt: "The Lyft ride-hailing service is traveling into a new era in Austin. Starting next year, Lyft customers in certain parts of Austin will be able to hire a self-driving car"
+    publishedDateTime: 2021-07-26T17:25:00Z
+    webUrl: "https://austin.culturemap.com/news/innovation/07-26-21-austin-passengers-soon-will-be-able-to-get-a-lift-in-a-self-driving-car/"
+    type: article
+    provider:
+      name: Culture Map Dallas
+      domain: culturemap.com
+    quality: 24
+    images:
+      - url: "https://res.cloudinary.com/culturemap-com/image/upload/ar_7:4,c_fill,g_faces:center,w_980/v1627319208/photos/322516_original.jpg"
+        width: 980
+        height: 560
+        isCached: true
 
 secured: "/aTpXRXKfYZmniYdNEPYO50URZx8r8wwZ9THHylS9F5pVtT4j/KOoKYiOtL0r2w48JoSnavf/F38CI9YGdQKh30Nsq0XUc/fCnAf/lH6Nixc57ANXjloENbZYqK4dC8OgOmDB3LxRcuEb427cfWnI1As7fi5CkFkI/MN6wrXxZ8jjwep5sF2EGPaQfObNoVJLbuIPIYk/FI3yQljtXf7qxYV5akFl3Y96RfeCIwu2QwAA74LxBlCASxQCqREDKtkg6Qn7SPmPdTnscvavplr66mAl+0x2UhftO7Fpf7RrhMUzqFiHtH2qPN5w3rze0xus33UF36D+pITJIAlLq6ltEAL7XqtBcq2XTRbfDSBBYs5CghtMPtpbtTyoFsZ8S7ugISYl1fXMwruOFXgBDT/2uvBepSw+elgUPSLEjpsGs9vzmukvU54wC4Bdfpv42bnUKGEOUhjV15nCxKaZ9sN/0G6INd7lYPeC0oXczjisbWYahv6s1cQZcD57jnDTSecvMWv26cO5Y2FTg79o33SMQ==;1fIFpNodG8fBL10GQnthcg=="
 ---

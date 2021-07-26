@@ -63,6 +63,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Catching the artificial intelligence buzz"
+    excerpt: "The federal minister for the digital economy, Jane Hume, will deliver a speech on Tuesday setting out how the government is backing artificial intelligence."
+    publishedDateTime: 2021-07-26T17:33:00Z
+    webUrl: "https://thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264"
+    ampWebUrl: "https://thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 57
+    images:
+      - url: "https://images.thewest.com.au/publication/C-3515264/6bbe09f178da49e5451814198832feb73ebb286a-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why Artificial Intelligence Implementation is Lagging in International Shipping"
     excerpt: "The long-term benefits of including AI-powered systems in logistics and supply chain operations are well known."
     publishedDateTime: 2021-07-25T18:59:00Z
@@ -78,6 +94,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "9iy0+GaOOxLsaJkFCqDZ7OznQmj3eYGDfeEumETxsNLTGt9klnykmtol9nKWjnk/cD4rLgLH0PIiZqIBS0kaNSd4fJJFQBQDY+HgI1daTpRtmlKC8dkZW+Kdh07/KOE6XvuyN4H0AWao7Q+4xUWcwSMfcprHJDLHj3ToOmdWJJjNE6iI+DP2wzO+J9nORmDs9+pFKo8KuaJ9t11WiujZk95pE7YJ/PKGyOz/YrJtuhXl/Xql8oQanygatm6XfIU2f8Gy7SOTMk6u7CLjXyfH/Ra2mkStQlHOpw9R7Hq9IP7pWxCpMlCJSWSvcG8p9zOQO21/jvDiNk4P6uIKlWb2I/R/iRbkSpQxgfLI0la5n+o=;HWe+QFTOKrB+LZPK1vfvGQ=="
+secured: "QV3uxsxyrfkmOQ3hWOBDQhvpj4BxUt0zGt7TZGLCtfui090ysY7xSR8RJdbi6dSOVTF7KdembiWryjYAyBIk0lENBDv+NfQVsKQjpspqFXPGRV8ExJaijYmrMCBmmmHy2OzL/JTFp6K2DGqS5SZcM0f03Om0M/+LLWBFiw5zMmM0oTs8EiJRWl2r4RBnA8nF5yhWBbMEPFDPfqph3LS5ubzdvjlnGGbVQ3hxUmkrZxaBaq9ltcjclp+2mopJAVP/8zZEh1JeRY7jcaem37IS+iR6SzOsfmWVO5q4MgHLXce14o1E5KxgAZds8rEYcfqev3QvkyIVIwVcJ8G12XCXOMzh0WhSy5DUsdSZH/XzdmOOjgByw+2Egg2wFpK+HLdU6dljs5DJUFcRA8t2llOmFDE+ZIFm8c6GBkrQd/IVljoBaZ68W6zDPPG0PcusvtrimfyR2HlEFS12uY8V/P+r4xzviRhf0dU3qTNITsvUxvuEx7cl3Xz3fOlO6WYoq8xqCinhkzuIbPGwNUjNd+wKug==;gZf3F5WhxwyCtPPq55hHbQ=="
 ---
 

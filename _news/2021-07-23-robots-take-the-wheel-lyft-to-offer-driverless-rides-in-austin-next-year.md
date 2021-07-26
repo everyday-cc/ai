@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.statesman.com/amp/8058042002"
 cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8058042002"
 type: article
 quality: 75
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/98ebdbf/2147483647/strip/false/crop/5845x3290+0+134/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F07%2F21%2Fgettyimages-1233487514_custom-4f7df59bb5ba9e944cc8a6500693f2c9d6391187.jpg"
         width: 430
         height: 242
+        isCached: true
+  - title: "Lyft travels to the future with new self-driving cars coming to Austin"
+    excerpt: "The Lyft ride-hailing service is traveling into a new era in Austin. Starting next year, Lyft customers in certain parts of Austin will be able to hire a self-driving car"
+    publishedDateTime: 2021-07-26T17:25:00Z
+    webUrl: "https://austin.culturemap.com/news/innovation/07-26-21-austin-passengers-soon-will-be-able-to-get-a-lift-in-a-self-driving-car/"
+    type: article
+    provider:
+      name: Culture Map Dallas
+      domain: culturemap.com
+    quality: 24
+    images:
+      - url: "https://res.cloudinary.com/culturemap-com/image/upload/ar_7:4,c_fill,g_faces:center,w_980/v1627319208/photos/322516_original.jpg"
+        width: 980
+        height: 560
         isCached: true
 
 secured: "aQ1/lpAgDmlEzU1hhuF43sT/ugiUq9AbdY3KSrugiErZL08DiO1JBqJQSildYtlPA72bUESNEml8dI23txbqZM3F8jXXGy8inWNWmjk/iFITxnYMQ9V0V6aSI2aJe/zz5LRqwFioLhbpZzHS95ufMwjnsNqRDVVXaMPMW8wIyxPjBs8mWnm/wRYJk6KIfvJ5rZwXdiFnFP3VSyD/ctiq6kOE7hjinaKInU6iPkdihfWTFBAnUMwDPHPgpkpRhtSRwvvQqF1VUfYIMs+LGQDmgeCP3k1AWMIMlWDUVEHawBWIyu8nsj1AZ2GqMEZX+ZIPTTmaQRTXa0Eb001V5sIn3OWLqdXLJsgPP0Y56ksl7aU=;ORfh4275n1FVKjjHb83xFQ=="

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Catching the artificial intelligence buzz"
+    excerpt: "The federal minister for the digital economy, Jane Hume, will deliver a speech on Tuesday setting out how the government is backing artificial intelligence."
+    publishedDateTime: 2021-07-26T17:33:00Z
+    webUrl: "https://thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264"
+    ampWebUrl: "https://thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 57
+    images:
+      - url: "https://images.thewest.com.au/publication/C-3515264/6bbe09f178da49e5451814198832feb73ebb286a-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why Artificial Intelligence Implementation is Lagging in International Shipping"
     excerpt: "The long-term benefits of including AI-powered systems in logistics and supply chain operations are well known."
     publishedDateTime: 2021-07-25T18:59:00Z

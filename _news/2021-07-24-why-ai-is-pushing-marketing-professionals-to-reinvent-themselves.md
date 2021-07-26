@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.business2community.com/wp-content/uploads/2021/07/markus-winkler-tGBXiHcPKrM-unsplash-900x600.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Catching the artificial intelligence buzz"
+    excerpt: "The federal minister for the digital economy, Jane Hume, will deliver a speech on Tuesday setting out how the government is backing artificial intelligence."
+    publishedDateTime: 2021-07-26T17:33:00Z
+    webUrl: "https://thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264"
+    ampWebUrl: "https://thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 57
+    images:
+      - url: "https://images.thewest.com.au/publication/C-3515264/6bbe09f178da49e5451814198832feb73ebb286a-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Why Artificial Intelligence Implementation is Lagging in International Shipping"
     excerpt: "The long-term benefits of including AI-powered systems in logistics and supply chain operations are well known."

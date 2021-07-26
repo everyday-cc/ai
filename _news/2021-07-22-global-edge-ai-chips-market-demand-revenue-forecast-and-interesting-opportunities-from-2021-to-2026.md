@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Betting Market, Growth Analysis, Latest Trends and Forecast till 2027"
+    excerpt: "Machine learning is one of the smartest techniques for categorization and forecasting that has demonstrated promising outcomes Because of the enormous amount of money involved in betting sports prediction is one of the fastest growing industries needing excellent forecast accuracy"
+    publishedDateTime: 2021-07-26T16:14:00Z
+    webUrl: "https://www.openpr.com/news/2337464/artificial-intelligence-in-betting-market-growth-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2337464/artificial-intelligence-in-betting-market-growth-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337464/artificial-intelligence-in-betting-market-growth-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
 
 secured: "y1QpPvtDjAN5eH97OUmlAZ2vLnpwnk7QS01WR4jaw2b5Sc3UlUlFxjyu88hrt+1Mwi6cUSVgHemaPctI1DMPQaQ1VBgDKchiekGfBPdBhtkaj0/qUICrnB8LEP9iuCAIM+1g3zDLS5OFyXASToF9JWQlYa/wWXsZmty3oelIqF5yTvuKnR41aPC/qHwtmXZ/mYM+RhumSfqt+l4JBjKhIYJTRoYrInxyyfvRV4S8WkGRb6zHUHMY+xzfmvly1Vr+OIslMrLYacTM+KtrQIVI62o7FNts5JNNJb2smPKs6NG/VVfNgabsIAqU220Mi5UIzLReJU/habjQKZkheR7KoCB/GMa71ezCkvNCqq27eak=;QIqs52s00lrijHSk8kv5iQ=="
 ---

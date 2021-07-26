@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 11 Biggest Fintech Companies In America 2021"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-07-21T23:26:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/the-11-biggest-fintech-companies-in-america-2021/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 24
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1626910015_0x0.jpg"
-        width: 1200
-        height: 563
-        isCached: true
   - title: "Will A COVID-19 Vaccine Inoculate FinTech Startups Or Lead To Their Demise?"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-07-24T14:38:00Z
