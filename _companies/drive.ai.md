@@ -13,11 +13,6 @@ linkedin:
 crunchbase:
   url: "https://www.crunchbase.com/organization/drive-ai"
 
-twitter:
-  username: "driveai_"
-  url: "https://twitter.com/driveai_"
-  followers: 9056
-
 size: 51-200 employees
 yearFounded: 2015
 locations:
