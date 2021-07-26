@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-07-16-maine-enacts-toughest-facial-recognition-ban-in-us.md",
+      "title": "Maine Enacts Toughest Facial Recognition Ban in U.S.",
+      "excerpt": "Augusta, Maine — The Maine State Legislature has passed a bill that will prohibit the use of facial recognition surveillance by certain government employees and officials. While these bans have been popping up more and more over the country, Maine took ...",
+      "sourceUrl": null,
+      "webUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html",
+      "originalUrl": "https://www.campussafetymagazine.com/news/maine-enacts-toughest-facial-recognition-ban-in-u-s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://compote.slate.com/images/cfdef433-ca60-4077-8748-01acfcc00e80.jpeg?width=780&height=520&rect=3500x2333&offset=0x0",
+          "width": 780,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
+      "cdnAmpWebUrl": "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
+      "publishedDateTime": "2021-07-16T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campus Safety Magazine",
+        "domain": "campussafetymagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen.md",
       "title": "Speech neuroprosthesis turns brain signals into words on a screen",
       "excerpt": "Those findings are translated into speech recognition of words, and methods for real-time decoding of those patterns and statistical language models to improve accuracy were developed. The first patient in the trial was a man in his late 30s who suffered a ...",
@@ -1097,58 +1140,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-why-transformers-offer-more-than-meets-the-eye.md",
-      "title": "Why Transformers offer more than meets the eye",
-      "excerpt": "Transformers, a major innovation in AI and machine learning, have practical real-world applications -- and implications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/",
-      "originalUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/trust-2-e1611944466862.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/amp/",
-      "publishedDateTime": "2021-07-15T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

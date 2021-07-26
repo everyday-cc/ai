@@ -78,17 +78,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
-    excerpt: "Lyft will offer autonomous rides using Ford vehicles and a driving system developed by Argo AI starting in Miami this year, initially with human backup drivers."
-    publishedDateTime: 2021-07-22T01:47:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "Argo AI, Ford to launch self-driving vehicles on Lyft network by end of 2021"
     excerpt: "The initial deployments will start in Miami, followed by Austin, Texas, to lay the groundwork for future scaling."
     publishedDateTime: 2021-07-22T16:08:00Z

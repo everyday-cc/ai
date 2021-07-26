@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-07-13-ai-success-in-the-supply-chain-depends-on-human-augmentation.md",
+      "title": "AI Success In The Supply Chain Depends On Human Augmentation",
+      "excerpt": "It is only through human augmentation and understanding how everything works together that AI success in the supply chain will happen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/",
+      "originalUrl": "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60edae973c02fcc76f59d7ab%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1271%26cropY1%3D1%26cropY2%3D716",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2021/07/13/ai-success-in-the-supply-chain-depends-on-human-augmentation/amp/",
+      "publishedDateTime": "2021-07-13T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-how-healthcare-providers-are-embracing-a-digital-future.md",
       "title": "How Healthcare Providers Are Embracing A Digital Future",
       "excerpt": "Jump-started by the pandemic, healthcare providers’ digital agenda is finally falling into place, says Euan Davis, a futurist in Cognizant’s Center for the Future of Work.",
@@ -1107,49 +1159,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details.md",
-      "title": "Google Pixel 6 Whitechapel chip rumor just spilled key details",
-      "excerpt": "As we get closer to the Pixel 6 's launch, we're bound to get more information on the in-house Whitechapel system-on-chip likely to power Google's phone. And thanks to some new Product Validation Test (PVT) units,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/news/google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details",
-      "originalUrl": "https://www.tomsguide.com/news/google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Enmxw8Dv93De8sxHsCTQAj-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tomsguide.com/amp/news/google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details",
-      "cdnAmpWebUrl": "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/google-pixel-6-whitechapel-chip-rumor-just-spilled-key-details",
-      "publishedDateTime": "2021-07-12T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

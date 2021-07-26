@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-21-google-looker-gets-azure-support-api-explorer.md",
+      "title": "Google Looker gets Azure support, API explorer",
+      "excerpt": "As a part of Looker 21, the newest version of the Looker platform, Google launched new features including Microsoft Azure support.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/",
+      "originalUrl": "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Looker-Life-1-21.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/amp/",
+      "publishedDateTime": "2021-07-21T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-the-bourdain-ai-furore-shouldnt-overshadow-an-effective-complicated-film.md",
       "title": "The Bourdain AI furore shouldn’t overshadow an effective, complicated film",
       "excerpt": "Despite anger over a decision to deepfake the voice of the much-loved star in a new documentary it’s a haunting and difficult film that deserves to be seen",
@@ -1149,48 +1201,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-ai-powered-food-id-apps.md",
-      "title": "AI-Powered Food Id Apps",
-      "excerpt": "French Fry Identification App - This week Arby’s released an AI-powered french fry identification app for mobile devices. The quirky app utilizes users’ phone cameras",
-      "sourceUrl": null,
-      "webUrl": "https://www.trendhunter.com/trends/french-fry-identification-app",
-      "originalUrl": "https://www.trendhunter.com/trends/french-fry-identification-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.trendhunterstatic.com/thumbs/french-fry-identification-app.jpeg",
-          "width": 770,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.trendhunter.com/amp/trends/french-fry-identification-app",
-      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/french-fry-identification-app",
-      "publishedDateTime": "2021-07-20T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TrendHunter",
-        "domain": "trendhunter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

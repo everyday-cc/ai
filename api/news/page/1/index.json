@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-27-google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists.md",
+      "title": "Google testing Duplex feature that adds names to restaurant waitlists",
+      "excerpt": "Google appears to be testing a feature, powered by its Duplex technology, that can add a name to restaurant waitlists over the phone.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/",
+      "originalUrl": "https://venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/google-assistant-duplex.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/amp/",
+      "publishedDateTime": "2021-07-26T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-deepminds-epistemic-neural-networks-open-new-avenues-for-uncertainty-modelling-in-large-and-complex-dl-systems.md",
       "title": "DeepMind’s Epistemic Neural Networks Open New Avenues for Uncertainty Modelling in Large and Complex DL Systems",
       "excerpt": "Although effective uncertainty estimation can be a key consideration in the development of safe and fair artificial intelligence systems, most of today’s large-scale deep learning applications are lacking in this regard.",
@@ -158,7 +210,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management-1030644662",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -548,7 +600,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-latest-report-2021-with-size-status-value-sales-and-forecast-to-2027-2021-07-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -652,7 +704,7 @@
       "originalUrl": "https://www.reuters.com/breakingviews/gms-self-driving-skills-take-wrong-turn-2021-07-26/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1095,7 +1147,7 @@
       "originalUrl": "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1188,59 +1240,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation.md",
-      "title": "AI Weekly: OpenAI’s pivot from robotics acknowledges the power of simulation",
-      "excerpt": "OpenAI has shuttered its robotics research team. But that doesn't mean the firm won't create a system capable of controlling a machine.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/",
-      "originalUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/amp/",
-      "publishedDateTime": "2021-07-23T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

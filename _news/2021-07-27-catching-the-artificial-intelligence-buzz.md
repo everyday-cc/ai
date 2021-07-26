@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "6 Startups That Are Reinventing Markets with Artificial Intelligence in 2021"
+    excerpt: "With the evolution of technology, every business is now moving forward to incorporate artificial intelligence in a way that provides a seamless"
+    publishedDateTime: 2021-07-26T17:38:00Z
+    webUrl: "https://www.entrepreneur.com/article/378434"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/378434"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378434"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 86
+    images:
+      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-378434.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "The Changing Face of Marketing: How AI is Inventing the Future"
     excerpt: "Artificial intelligence is changing the way we do marketing, and it’s happening faster than we think. From voice assistants"
     publishedDateTime: 2021-07-23T20:00:00Z
@@ -89,6 +105,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "K+fx9RNExLzLoL+jGxjsjmHvegXuP85WsmV7dBSPE1+groQjv+2WCLvKhY6Pq7p6cvQegx+EksIMtEGwlrlebUbqpxhlLxrNuikaIRuYDFMJ9A8I8tIoVkpUVDnfnxuMdKq2qbZSgw5trOuuIjodDEipZ8vtqcMSouUi9iPSmkoNuS+uTqI7uu49B8LpIvyD20dKztTI6w8g2niFw7MNnmopCuxT66d4PtHQyfWPwQpcEwJFX7v7wXw5ristw3nq2pVsW632mumATRDyPekzCozDqBiYLTCtyydYU8EpAPxrf4jIPwW3eBrsEh82aiVK8G3p2S4mktjzjUnxsc6HhORxMbc5I3SSgELkk+n4tuY=;0in5rvavpINe8/NrX3BmFA=="
+secured: "iTjkEsJ3vX9OWgzGYDyi9UO8LgzcnNWnfBEHKJ/LCvBIO7ikOhacFf0YeAHaFBY48i+HlrrAbodf3zhiwNG68JhjLR/veVMiao5P+cSGmUzTBE/9pr/selMXq7QR+4KuIw5LsuN3v2xnp96R7XP40AlYF4X3Qy9oF0mgab/aaXhaujiGEZ2hUB1ffkFbslIX89vFh2LjUaugoKU84wRHpm91wC/IEoZVKYaLHoj89qtY6wCBFczjhqG8cULEOwiGKW+NwfclRoSOlNUuzWDqGp8C65QbeU/t8PdWzPgp3oS7x45/q3mTorsi9bhY71T1jsdMla4llIMql+mjYfdUuYG5VnQYAWmmhsjJ9B59TpIFfeNn+wmVjcbeuGEdIAv/3bgvicmcr+kajfCkVPieSI5M1zg8fyctCxbDlI1FMRK4JFwmJNdKNnJti4rcvpCI3gB+Zw0DKR+LKGF3WgFvVotmJm/QSH7RSmFFLKI4ZSKSK6L4nhaSkEF06ubkq3roLGswjzBMTXls+jTEuvYapw==;sYed1Ejv9VEXXW+5r4MNbg=="
 ---
 

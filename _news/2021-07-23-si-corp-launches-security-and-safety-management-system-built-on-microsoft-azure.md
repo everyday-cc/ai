@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
 type: article
 quality: 66
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Microsoft acquires CloudKnox Security to enhance unified privileged access management"
-    excerpt: "Following the purchase of RiskIQ and ReFirm Labs, Microsoft has now acquired CloudKnox Security to offer unified privileged access and entitlement management in multi-cloud and hybrid environments."
-    publishedDateTime: 2021-07-22T01:38:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-acquires-cloudknox-security-to-enhance-unified-privileged-access-management/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 79
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2017/03/1490748311_mscloudsecurity_story.jpg"
-        width: 760
-        height: 430
-        isCached: true
 
 secured: "FZnaxCG8GOnHMznNDoF2wAt25qHU/NAc7I1JWEplmAEr9jLsHhf/hQ8sNqFV4myCwfQZTO2n95eokghKXHPeECLqS2zwfcAPFoUzcnBvwvLKhUgNS/JCWnP2r0a3FKkDxYvxOnUoauTFGw0cHXuOqvD0G3hMBI6yuzKps5LF1hyLA1daSW13juFNPNylX6PgItaFSG+z1oUic0ja8MII6M20MbQAfcjKCDqz+y1UUgt29SD480lw551AGDAPKUDOZ9vsEq2TQl40fRwUxnvExur6ZsFKuBXHwVm4SZrlFRZiAongK2aSNSuRD/VS66p/yp10ajfcgwek/EdFyN3zbng45WtGG50plHx9UAJeu0A=;/rZbVhg3WsBjKJitlvm2qg=="
 ---

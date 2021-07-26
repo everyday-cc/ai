@@ -69,6 +69,17 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Fiserv vs. Rimini Street: Which Fintech Stock is a Better Buy?"
+    excerpt: "The prices of most fintech stocks have skyrocketed amid the pandemic thanks to a significant increase in remote transactions. This trend is expected to continue for the foreseeable future with rapid,"
+    publishedDateTime: 2021-07-26T19:49:00Z
+    webUrl: "https://stocknews.com/news/rmni-fisv-fiserv-vs-rimini-street-which-fintech-stock-is-a-better/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 24
   - title: "5 Overvalued Growth Stocks to Avoid as Market Conditions Get More Bearish | Fintech Zoom"
     excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
     publishedDateTime: 2021-07-24T05:39:00Z

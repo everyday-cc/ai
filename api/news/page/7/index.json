@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-20-google-unveils-self-driving-cloud-security-feature.md",
+      "title": "Google unveils ‘self-driving’ cloud security feature",
+      "excerpt": "At its Security Summit, Google Cloud announced Chronicle integrations, Cloud IDS, an autonomic security operations stack, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/",
+      "originalUrl": "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/04/cloud_security-shutterstock_238417594-e1626720984465.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/amp/",
+      "publishedDateTime": "2021-07-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-nvidia-releases-tensorrt-8-for-faster-ai-inference.md",
       "title": "Nvidia releases TensorRT 8 for faster AI inference",
       "excerpt": "The latest version of Nvidia's software development kit for AI inference speeds up inference performance with certain models.",
@@ -794,24 +847,15 @@
     {
       "path": "_news/2021-07-20-aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes.md",
       "title": "AWS Announces General Availability of Amazon EBS io2 Block Express Volumes",
-      "excerpt": "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time .",
+      "excerpt": "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time.",
       "sourceUrl": null,
-      "webUrl": "https://www.thedailytimes.com/business/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/article_beeecae8-75cf-5cb0-bb0e-8cf6f3340650.html",
-      "originalUrl": "https://www.thedailytimes.com/business/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/article_beeecae8-75cf-5cb0-bb0e-8cf6f3340650.html",
+      "webUrl": "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/",
+      "originalUrl": "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -819,8 +863,8 @@
       "publishedDateTime": "2021-07-19T14:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "thedailytimes.com",
-        "domain": "thedailytimes.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1125,57 +1169,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live.md",
-      "title": "Hear Startup Alley companies pitch expert VC judges in upcoming episodes of Extra Crunch Live",
-      "excerpt": "We know how much you love a good startup pitch-off. Who doesn’t? It combines the thrill of live, high-stakes entertainment with learning about the hottest new thing. Plus, you get to hear feedback from some of the smartest folks in the industry,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/",
-      "originalUrl": "https://techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/ECL-2021-july-21-startup-alley-1.jpg?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/amp/",
-      "publishedDateTime": "2021-07-19T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

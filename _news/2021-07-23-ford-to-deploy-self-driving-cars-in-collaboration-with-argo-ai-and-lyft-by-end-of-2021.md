@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ford-to-deploy-self-driv
 webUrl: "https://www.marketwatch.com/press-release/ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021-2021-07-23"
 type: article
 quality: 61
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -73,17 +73,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
-    excerpt: "Lyft will offer autonomous rides using Ford vehicles and a driving system developed by Argo AI starting in Miami this year, initially with human backup drivers."
-    publishedDateTime: 2021-07-22T01:47:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
     excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous"
     publishedDateTime: 2021-07-23T03:05:00Z

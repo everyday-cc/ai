@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/breakingviews/gms-self-driving-skills-take
 webUrl: "https://www.reuters.com/breakingviews/gms-self-driving-skills-take-wrong-turn-2021-07-26/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2018/11/General-Motors-770x433.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
+        isCached: true
+  - title: "GM Sues Ford in Fight Over Branding of Self-Driving Cars"
+    excerpt: "General Motors Co. is suing its competitor Ford Motor Co. for violating a trademarked driver-assist technology that’s used for hands-free features, according to a lawsuit."
+    publishedDateTime: 2021-07-26T14:45:00Z
+    webUrl: "https://www.ttnews.com/articles/gm-sues-ford-fight-over-branding-self-driving-cars"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-bb-1200.jpg?itok=JdoLkruE"
+        width: 470
+        height: 246
         isCached: true
 
 secured: "FTsuWL2tgB+9xiZttOBI48HWJvJDJLEUxR7/BtzApwPTSm6nQFTUanuvYV1k3C5ZOLeYgnzP/+Nxkh5S0aOtHXBYXbsvwje0i+XpZRa/eN4OQlMMjiX15t4fGB7snXAykjzgDU9jJB1VtD6EEDfWGwq+6rhjNdlwXraXHWILwjvsS185+YzwhKQ2RuqyDQ+3CF67hlEg8/EKrMf8Iy5io4I2fMOEdba2ng4R9EuusfeibbduSf3fXRbxeDnruLq4AJS7iN3AALuv7Eq4kFPyV3kMO+ZswwEnaluEERHEVyopqVEIVRe3Z+AV5nSvEDnl+wggFt4R2Wj+wkb3kAsTZr+Si+rojZ697+XejAYAwyZgoDzx4YYbK/CWBWzb9gEjXzYz5gwHM/W+/03loBLYMEGx7vrigCpbd47YqZltobVUiKT29c5OEqiA9JK7zmNe3cqypU6eUopJaMk6LQJ21rzROvxmTbbhE8DEIsGyNPlcPPbfFjJhSowfQ49+cOIj+lL4nOwTyuKiyHv4psxJ3w==;lZz2NOH843YXoWhAiNJObA=="

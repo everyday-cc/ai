@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Marketing Market 2021 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2026"
-    excerpt: "Global Artificial Intelligence in Marketing Market 2021 by Company, Regions, Type and Application, Forecast to"
-    publishedDateTime: 2021-07-22T02:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-marketing-market-2021-growth-drivers-regional-outlook-competitive-strategies-and-forecast-up-to-2026-2021-07-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Edge AI Chips Market Demand, Revenue Forecast and Interesting Opportunities from 2021 to 2026"
     excerpt: "Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 research report is the new statistical data source added by MarketsandResearch.biz that uses several approaches for analyzing the data of the target market such as primary and secondary research methodologies."
     publishedDateTime: 2021-07-22T09:31:00Z

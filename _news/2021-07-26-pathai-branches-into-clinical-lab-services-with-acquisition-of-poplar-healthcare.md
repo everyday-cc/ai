@@ -45,6 +45,15 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 50
+  - title: "Boston-based PathAI acquires Memphis' Poplar Healthcare"
+    excerpt: "Memphis-based Poplar Healthcare is joining forces with Boston’s @Path_AI, a provider of artificial intelligence-powered technology for pathology services."
+    publishedDateTime: 2021-07-26T19:33:00Z
+    webUrl: "https://www.bizjournals.com/memphis/news/2021/07/26/boston-based-pathai-acquires-poplar-healthcare.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "xNw019Pfu+XJyY9Vdq+4n1hNO+VlTW5PntO456MDwZTjJbDIdlr1Jk+eMd3PF1sMIKyVxc650jqrcSw0nNzMww+QvTx0OFp5YCd5XfblGkU6J2pNK80Ungv24CNK8CA1UuHSJ6PXmq8uNfuWrqU+n8q/X6ToG/re8DilREVoG5PrO795pzyeU4aM4t1cZqUaiSv3QoEuTX1wKe+2qAnVC32Yy1ZRxnAZwEYbIMYVPsKSTAYnMW2SNtgFXuKZMKBoE3GmQcjE1DGJIW3n2gETeUrnT1eTNbm1iWcdnYwdaap56wC2OV9q92N/ocDZuSts2NDozSW2CLJEoP5asv9v94EsqYbSU4vSUy/KQfz41O62Yu1+JKeYS+rbnIWutZFG/PQAx9hnI38zxaXjQocI+UD+gw5+cBZ/3e1DMRceSbIVxXOCeaMQimB4vD3aRMB+oefHC1b0YisGMAfSVZIpwXXD/g37qm3kWM+5PG1iAcgmR9xFpTpIlcqnuEul2MBgqom9BQFuW5vw5tW++G/fyA==;cUXLtzpOUQCq1qUpsi5JdA=="
 ---

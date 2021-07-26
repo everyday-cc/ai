@@ -2,6 +2,102 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-07-01-artificial-intelligence-advanced-machine-learning-market.md",
+      "title": "Artificial Intelligence & Advanced Machine Learning Market",
+      "excerpt": "product/service price, sales, and cost/profit. Demand & Supply and Effectiveness — Artificial Intelligence & Advanced Machine Learning report additionally provides distribution, Production ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2318749/artificial-intelligence-advanced-machine-learning-market",
+      "originalUrl": "https://www.openpr.com/news/2318749/artificial-intelligence-advanced-machine-learning-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U701766824_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2318749/artificial-intelligence-advanced-machine-learning-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2318749/artificial-intelligence-advanced-machine-learning-market",
+      "publishedDateTime": "2021-07-01T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams.md",
+      "title": "Microsoft Power Platform and low code/no code development: Getting the most out of Fusion Teams",
+      "excerpt": "Microsoft is starting to define a development philosophy for its Power Platform, and delivering the tools needed to back it up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/07/01/d61a2a58-69c0-4af9-9a85-3845fb7e8a0b/resize/1200x/816ad734b37107581dbb100ffae49100/power-platform.jpg",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams/",
+      "publishedDateTime": "2021-07-01T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher.md",
       "title": "Facebook wants to help train the robots that will take out your trash and unload your dishwasher",
       "excerpt": "The social media company released Habitat 2.0 to help researchers train household robots-to-be. By Daphne Leprince-Ringuet | July 1, 2021 -- 15:08 GMT (08:08 PDT) | Topic: Robotics Facebook has announced a new step in the company's journey towards achieving what it calls \"embodied AI\" – the technology that could one day enable robots to carry out tasks in mundane settings,",
@@ -1085,108 +1181,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-business-implications-of-ai-within-tax-accounting.md",
-      "title": "Business implications of AI within tax & accounting",
-      "excerpt": "With AI promising the greatest transformation in many industries, including tax & accounting, we need to begin asking what the implications of this will be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/transactional/business-implications-ai-within-tax-accounting-2021-06-30/",
-      "originalUrl": "https://www.reuters.com/legal/transactional/business-implications-ai-within-tax-accounting-2021-06-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/d_9infXWdH0ZCGL5iNfPeS_tdG0=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SYAAICV2MNP5XCQCEAKLU7LCQA.jpg",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-dells-199-ultrasharp-4k-webcam-has-ai-on-boardbut-no-microphone.md",
-      "title": "Dell’s $199 UltraSharp 4K webcam has AI on board—but no microphone",
-      "excerpt": "Dell's new UltraSharp camera takes aim at Logitech's high-end Brio with the same $199 price along with 4K resolution and Windows Hello-compatible infrared sensor. But despite sharing a price tag and many of the same specifications,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2021/06/dells-199-ultrasharp-4k-webcam-has-ai-onboard-but-no-microphone/",
-      "originalUrl": "https://arstechnica.com/gadgets/2021/06/dells-199-ultrasharp-4k-webcam-has-ai-onboard-but-no-microphone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/ultrasharp-on-monitor-760x380.png",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

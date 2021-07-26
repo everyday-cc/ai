@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-27-google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists.md",
+      "title": "Google testing Duplex feature that adds names to restaurant waitlists",
+      "excerpt": "Google appears to be testing a feature, powered by its Duplex technology, that can add a name to restaurant waitlists over the phone.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/",
+      "originalUrl": "https://venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/google-assistant-duplex.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/amp/",
+      "publishedDateTime": "2021-07-26T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-healthcare-natural-language-processing-nlp-market-including-top-key-players-nlp-technologies-nec-apple.md",
       "title": "Healthcare Natural Language Processing (NLP) Market including top key players NLP Technologies, NEC, Apple",
       "excerpt": "Los Angeles United States North America including Q1 2021 analysis The report named Global Healthcare Natural Language Processing NLP Market has been added to the archive of market research studies by JCMR The industry experts and researchers have offered reliable",
@@ -1407,24 +1459,33 @@
     {
       "path": "_news/2021-07-14-can-children-learn-to-read-online-experts-weigh-in-for-white-paper-exploring-the-risks-and-potential-of-speech-recognition-in-the-classroom.md",
       "title": "Can Children Learn to Read Online? Experts Weigh-in for White Paper Exploring the Risks and Potential of Speech Recognition in the Classroom",
-      "excerpt": "Dublin-based SoapBox Labs, pioneering developer of speech recognition for kids, today released a white paper exploring the applications, risks, and opportunities of speech recognition in the classroom.",
+      "excerpt": "DUBLIN, July 14, 2021 /PRNewswire/ -- Dublin-based SoapBox Labs, pioneering developer of speech recognition for kids, today released a white paper exploring the applications, risks, and opportunities of speech recognition in the classroom. The paper ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-children-learn-read-online-experts-weigh-for-white-/2021/07/14/9408989.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-children-learn-read-online-experts-weigh-for-white-/2021/07/14/9408989.htm",
+      "webUrl": "https://www.prnewswire.com/news-releases/can-children-learn-to-read-online-experts-weigh-in-for-white-paper-exploring-the-risks-and-potential-of-speech-recognition-in-the-classroom-301333738.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/can-children-learn-to-read-online-experts-weigh-in-for-white-paper-exploring-the-risks-and-potential-of-speech-recognition-in-the-classroom-301333738.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1517650/SoapBox_Labs_Logo.jpg?p=facebook",
+          "width": 2000,
+          "height": 1047,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T06:07:00-07:00",
+      "publishedDateTime": "2021-07-14T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1436,58 +1497,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-nordstrom-cto-on-ai-powered-analytics-and-consumer-insights.md",
-      "title": "Nordstrom CTO on AI-powered analytics and consumer insights",
-      "excerpt": "Reflecting on the start of this project ... is key to the platform architecture process. With more than 100 AI models leveraged daily at Nordstrom, an end user will indirectly see the benefit ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/",
-      "originalUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/09/nordstrom-mike-kalasnik-flickr.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/",
-      "publishedDateTime": "2021-07-13T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI That Bested Air Force Pilot In “Digital Dogfights” Headed For L-39 Jet Trainer"
+    excerpt: "The artificial intelligence software will be installed in an L-39 Albatros to kickstart DARPA’s live-flying trials."
+    publishedDateTime: 2021-07-26T19:23:00Z
+    webUrl: "https://www.thedrive.com/the-war-zone/41683/ai-that-bested-air-force-pilot-in-digital-dogfights-headed-for-l-39-jet-trainer"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 32
+    images:
+      - url: "https://www.thedrive.com/content/2021/07/CALSPAN_L-39_AI_TESTBED-scaled.jpg?quality=85"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Shield AI buys a local company whose tech outdueled an F-16 pilot"
     excerpt: "Unmanned aircraft software firm Shield AI is looking to expand its capabilities to larger aircraft, so it acquired the D.C. firm that beat a human pilot in a series of dogfights last year."
     publishedDateTime: 2021-07-22T19:07:00Z

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Can Children Learn to Read Online? Experts Weigh-in for White Paper Exploring the Risks and Potential of Speech Recognition in the Classroom"
-excerpt: "Dublin-based SoapBox Labs, pioneering developer of speech recognition for kids, today released a white paper exploring the applications, risks, and opportunities of speech recognition in the classroom."
-publishedDateTime: 2021-07-14T13:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-children-learn-read-online-experts-weigh-for-white-/2021/07/14/9408989.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-children-learn-read-online-experts-weigh-for-white-/2021/07/14/9408989.htm"
+excerpt: "DUBLIN, July 14, 2021 /PRNewswire/ -- Dublin-based SoapBox Labs, pioneering developer of speech recognition for kids, today released a white paper exploring the applications, risks, and opportunities of speech recognition in the classroom. The paper ..."
+publishedDateTime: 2021-07-14T13:03:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/can-children-learn-to-read-online-experts-weigh-in-for-white-paper-exploring-the-risks-and-potential-of-speech-recognition-in-the-classroom-301333738.html"
+webUrl: "https://www.prnewswire.com/news-releases/can-children-learn-to-read-online-experts-weigh-in-for-white-paper-exploring-the-risks-and-potential-of-speech-recognition-in-the-classroom-301333738.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "tqizIAAWhPfXS27q6LJB0SBrQRW4rTu8mN6Ezqg6Gfp+DMuxcqaxt8VUc7ZNLA664Nx+3uI2RhG+cWvG0OrHns/hFn8dC2EcOvU6skvHMBMqVndZ/miYNAHH7Qy36RlDT8G1IiuBW5mlX1gLp/emg00iPEMwOAfQcaHXGCKvjRvdN4e94aFSOyDrS7QuHVHBwn5ZkE2i6M9amFzQYvCsIv7fJOuDJw6Hj9FU0XQt+ff+b5vNavq0FY1sPpOAv+0NIfJXScBqwZLzwJlVzwkaHbfQPXmTtTgCXGutA8LxAvsbyOMtYUphhvvTtEfl2eXZvhTPy3l2dO+mw8XdqrnqTtPJ3GQ/CLDApAmSQNr843Q=;LVBKLba9gsxx1WagGXpYMw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1517650/SoapBox_Labs_Logo.jpg?p=facebook"
+    width: 2000
+    height: 1047
+    isCached: true
+
+secured: "RDq9faWxPnclDatUw6AFblR7PLUc2bfrpIO8tjPwcsEvfPYD0eVTbTMObe4A8+lcN9HHvGJIdohBlOapHqereY23IOlPgiIIip8xh65cO6+hbeYuU4Tu4AyLgJlrhDp1tYns6tTcd7hqbzomyBUo/KWeJGghWkK+a7u5PrzsMVVlt5gCOpeSzXInHPN+JG1jN9SHl9ceC9hHu1lkt3BTVXqC6J7O63jYVVvGmVjS2EQTSRS+nUG3qA5kbyVQYiK9jeisSFddhfLhmovNimU8Fw9T32wh6j9PG/31nATOCbyOeEuZ1XJsn1cDfFnSDDndjNGY39pECd8xVUbuLEYaLCaJTnUEhjYNgIAlGUmG7ks=;9ZuYAk8z8mPX6n9707xQlA=="
 ---
 

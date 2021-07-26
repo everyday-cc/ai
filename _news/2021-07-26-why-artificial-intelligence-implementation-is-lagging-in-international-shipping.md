@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "6 Startups That Are Reinventing Markets with Artificial Intelligence in 2021"
+    excerpt: "With the evolution of technology, every business is now moving forward to incorporate artificial intelligence in a way that provides a seamless"
+    publishedDateTime: 2021-07-26T17:38:00Z
+    webUrl: "https://www.entrepreneur.com/article/378434"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/378434"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378434"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 86
+    images:
+      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-378434.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "The Changing Face of Marketing: How AI is Inventing the Future"
     excerpt: "Artificial intelligence is changing the way we do marketing, and it’s happening faster than we think. From voice assistants"
     publishedDateTime: 2021-07-23T20:00:00Z

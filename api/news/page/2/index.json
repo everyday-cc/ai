@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-24-ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation.md",
+      "title": "AI Weekly: OpenAI’s pivot from robotics acknowledges the power of simulation",
+      "excerpt": "OpenAI has shuttered its robotics research team. But that doesn't mean the firm won't create a system capable of controlling a machine.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/",
+      "originalUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/amp/",
+      "publishedDateTime": "2021-07-23T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-researchers-demonstrate-that-malware-can-be-hidden-inside-ai-models.md",
       "title": "Researchers demonstrate that malware can be hidden inside AI models",
       "excerpt": "The three embedded 36.9MiB of malware into a 178MiB AlexNet model without significantly altering the function of the model itself. The malware-embedded model classified images with near-identical accuracy,",
@@ -1011,7 +1064,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021-2021-07-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1157,58 +1210,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-simplify-patient-care-with-a-custom-voice-assistant-using-amazon-lex-v2.md",
-      "title": "Simplify patient care with a custom voice assistant using Amazon Lex V2",
-      "excerpt": "For the past few decades, physician burnout has been a challenge in the healthcare industry. Although patient interaction and diagnosis are critical aspects of a physician’s job, administrative tasks are equally taxing and time-consuming. Physicians and clinicians must keep a detailed medical record",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-patient-care-with-a-custom-voice-assistant-using-amazon-lex-v2/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-patient-care-with-a-custom-voice-assistant-using-amazon-lex-v2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/09/ML1957-image001.png",
-          "width": 964,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T16:19:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

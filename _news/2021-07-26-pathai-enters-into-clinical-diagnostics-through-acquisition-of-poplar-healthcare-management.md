@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/pathai-enters-into
 webUrl: "https://markets.businessinsider.com/news/stocks/pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management-1030644662"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Boston-based PathAI acquires Memphis' Poplar Healthcare"
+    excerpt: "Memphis-based Poplar Healthcare is joining forces with Boston’s @Path_AI, a provider of artificial intelligence-powered technology for pathology services."
+    publishedDateTime: 2021-07-26T19:33:00Z
+    webUrl: "https://www.bizjournals.com/memphis/news/2021/07/26/boston-based-pathai-acquires-poplar-healthcare.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "DNxs/mTTooM8o762OxXeucgsG5ZBtXDiVM3FoJ9nsIw1pJzHCd1bBV+44SjPPpWEe7LvrzWv+deaqn+ReO45FZGm5nGdBGMzrtWV0KVz3XtqVADBaPk/uJyyuEb2pIHia4akOIWyt6CYmQ8BwtGNr86UimjCETcwYp2/5aAK5Fq7w9EQNSMk/w4faGviXS8CrIZa1NyVxNEdDT1TNWzBWgdQ6odwmbpH3egfwmIjJKPHaZi+ajBIxnIAawwAax0EJHHwciBler03Henl22lsCKmQx+2nwzugPLa7Me+hHYMiHIt/JKju6ZQNP0+OHyYt4ckrHggJ++kk6eQbyGUhojyNoj3+xQ6SQTjIs4lF0YCIQc7NQ8WZlbnWZVadmYchvXSgefbJ4+TQzvggLETcWuAjkvUa2JS512t306dE8o6i17BwoVSA3Jyzgg6mWDPbi6/0PQ2Ek8+u02BFr2raD1ZUo2LYJDFJryfbOSuzuCLS7DvHyj9mhY4bmqZ8nmU2hjftcGMJtoEKqaYfutGczw==;6cqhEW5l2lelS3YTVD5l5w=="
 ---

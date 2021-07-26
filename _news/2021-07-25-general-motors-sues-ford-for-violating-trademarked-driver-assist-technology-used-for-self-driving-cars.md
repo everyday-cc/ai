@@ -57,6 +57,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "GM Sues Ford in Fight Over Branding of Self-Driving Cars"
+    excerpt: "General Motors Co. is suing its competitor Ford Motor Co. for violating a trademarked driver-assist technology that’s used for hands-free features, according to a lawsuit."
+    publishedDateTime: 2021-07-26T14:45:00Z
+    webUrl: "https://www.ttnews.com/articles/gm-sues-ford-fight-over-branding-self-driving-cars"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-bb-1200.jpg?itok=JdoLkruE"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "FlWizfeds3WVHjmA+u+xL3XJ1hAi0hcvZDc58FGeBUmnFm9z7qNrN9yCzf04R36LYYcbNPtyuHt9d425PqC485KrssV5ivQj2NvN7XYa60eWmXiJnrOyFMv7jkUjSQY2re8CRLRcqHT5I2qvHiPErTMsD+2Uzad3Ana9Gf7yN/sOwnCXovEDtk/GDt8b2w/tpB5HsLfR+wNSb0M7dhnZnQup1PMDlIaqAevmFzxt1oR10iCY6Xqgv211cqHRwBv7erVkkaM3nNl/C4xWck2wZ9C5xFE+1Wtk18BIYDKxIJ64mK6N4Z+283EnM11AlNxaxACwZQs8A9dnWae0HNYFzrhDIDBwZ96mBZIKivwi6j8=;yVpA1PrpeYOILMo5umlcCw=="
 ---
