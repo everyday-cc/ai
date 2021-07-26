@@ -4,46 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_people/demis-hassabis.md",
-      "title": "Demis Hassabis",
-      "excerpt": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/demis-hassabis/index.json",
-      "webUrl": "https://everyday.cc/ai/people/demis-hassabis/",
-      "type": "profile",
-      "name": "Demis Hassabis",
-      "bio": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
-      "website": "http://t.co/8B3TFG0hNp",
-      "twitter": {
-        "username": "demishassabis",
-        "url": "https://twitter.com/demishassabis",
-        "followers": 233442
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
-        "citations": 58055
-      },
-      "affiliation": {
-        "path": "",
-        "name": "ac.uk - Homepage",
-        "domain": "ac.uk - Homepage"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 433,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Demis Hassabis",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/lex-fridman.md",
       "title": "Lex Fridman",
       "excerpt": "Research in machine learning, autonomous vehicles and human-centered AI at MIT and beyond. Host of the Artificial Intelligence podcast.",
@@ -57,7 +17,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 734132
+        "followers": 734161
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -81,13 +41,99 @@
         "Machine Learning",
         "AI in Autos"
       ],
-      "heat": 392,
+      "heat": 455,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Lex Fridman",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/demis-hassabis.md",
+      "title": "Demis Hassabis",
+      "excerpt": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/demis-hassabis/index.json",
+      "webUrl": "https://everyday.cc/ai/people/demis-hassabis/",
+      "type": "profile",
+      "name": "Demis Hassabis",
+      "bio": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
+      "website": "http://t.co/8B3TFG0hNp",
+      "twitter": {
+        "username": "demishassabis",
+        "url": "https://twitter.com/demishassabis",
+        "followers": 233447
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
+        "citations": 58055
+      },
+      "affiliation": {
+        "path": "",
+        "name": "ac.uk - Homepage",
+        "domain": "ac.uk - Homepage"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 308,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Demis Hassabis",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/yann-lecun.md",
+      "title": "Yann LeCun",
+      "excerpt": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/yann-lecun/index.json",
+      "webUrl": "https://everyday.cc/ai/people/yann-lecun/",
+      "type": "profile",
+      "name": "Yann LeCun",
+      "bio": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
+      "location": "New York",
+      "website": "http://yann.lecun.com/",
+      "twitter": {
+        "username": "ylecun",
+        "url": "https://twitter.com/ylecun",
+        "followers": 267391
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
+        "citations": 206246
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Yann_LeCun"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "New York University",
+        "domain": "nyu.edu"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Robotics"
+      ],
+      "heat": 297,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Yann LeCun",
           "isCached": true
         }
       ],
@@ -107,7 +153,7 @@
       "twitter": {
         "username": "AndrewYNg",
         "url": "https://twitter.com/AndrewYNg",
-        "followers": 600680
+        "followers": 600675
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrewyng/"
@@ -142,7 +188,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 319,
+      "heat": 293,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -155,88 +201,60 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/yann-lecun.md",
-      "title": "Yann LeCun",
-      "excerpt": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/yann-lecun/index.json",
-      "webUrl": "https://everyday.cc/ai/people/yann-lecun/",
+      "path": "_people/fei-fei-li.md",
+      "title": "Fei-Fei Li",
+      "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/fei-fei-li/index.json",
+      "webUrl": "https://everyday.cc/ai/people/fei-fei-li/",
       "type": "profile",
-      "name": "Yann LeCun",
-      "bio": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
-      "location": "New York",
-      "website": "http://yann.lecun.com/",
+      "name": "Fei-Fei Li",
+      "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
+      "location": "Stanford, CA, U.S.A.",
+      "website": "https://profiles.stanford.edu/fei-fei-li",
       "twitter": {
-        "username": "ylecun",
-        "url": "https://twitter.com/ylecun",
-        "followers": 267396
+        "username": "drfeifei",
+        "url": "https://twitter.com/drfeifei",
+        "followers": 385124
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
-        "citations": 206246
+        "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
+        "citations": 134515
       },
       "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Yann_LeCun"
+        "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
       },
       "affiliation": {
         "path": "",
-        "name": "New York University",
-        "domain": "nyu.edu"
+        "name": "Stanford",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "AI",
         "Machine Learning",
         "Computer Vision",
-        "AI in Robotics"
+        "AI in Healthcare"
       ],
-      "heat": 314,
+      "heat": 291,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
+          "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Yann LeCun",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/ilya-sutskever.md",
-      "title": "Ilya Sutskever",
-      "excerpt": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/ilya-sutskever/index.json",
-      "webUrl": "https://everyday.cc/ai/people/ilya-sutskever/",
-      "type": "profile",
-      "name": "Ilya Sutskever",
-      "bio": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
-      "twitter": {
-        "username": "ilyasut",
-        "url": "https://twitter.com/ilyasut",
-        "followers": 66568
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
-        "citations": 254582
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Ilya_Sutskever"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "openai.com",
-        "domain": "openai.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 302,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1374354193721491463/ehNHYiyy_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Ilya Sutskever",
+          "title": "Fei-Fei Li",
           "isCached": true
         }
       ],
@@ -267,7 +285,7 @@
         "Machine Learning",
         "TensorFlow"
       ],
-      "heat": 264,
+      "heat": 243,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1288330700752482304/BfXxtH9Q_400x400.jpg",
@@ -309,7 +327,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 238,
+      "heat": 223,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -369,7 +387,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 238,
+          "heat": 223,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -393,7 +411,7 @@
             "Computer Vision",
             "AI in Robotics"
           ],
-          "heat": 314,
+          "heat": 297,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
@@ -406,7 +424,7 @@
         }
       ],
       "size": 3,
-      "heat": 238,
+      "heat": 223,
       "images": [
         {
           "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
@@ -414,60 +432,6 @@
           "height": 128,
           "title": "Yoshua Bengio",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/jeff-dean.md",
-      "title": "Jeff Dean",
-      "excerpt": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jeff-dean/index.json",
-      "webUrl": "https://everyday.cc/ai/people/jeff-dean/",
-      "type": "profile",
-      "name": "Jeff Dean",
-      "bio": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
-      "website": "https://t.co/ajoSG5g4Rn",
-      "twitter": {
-        "username": "jeffdean",
-        "url": "https://twitter.com/jeffdean",
-        "followers": 192819
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
-        "citations": 184473
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Google",
-        "domain": "google.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/google.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/google.com-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 224,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jeff Dean",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -486,7 +450,7 @@
       "twitter": {
         "username": "chrmanning",
         "url": "https://twitter.com/chrmanning",
-        "followers": 82204
+        "followers": 82203
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
@@ -516,13 +480,55 @@
         "Natural Language Processing",
         "Machine Learning"
       ],
-      "heat": 191,
+      "heat": 156,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
           "width": 400,
           "height": 400,
           "title": "Christopher D Manning",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/ilya-sutskever.md",
+      "title": "Ilya Sutskever",
+      "excerpt": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/ilya-sutskever/index.json",
+      "webUrl": "https://everyday.cc/ai/people/ilya-sutskever/",
+      "type": "profile",
+      "name": "Ilya Sutskever",
+      "bio": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
+      "twitter": {
+        "username": "ilyasut",
+        "url": "https://twitter.com/ilyasut",
+        "followers": 66566
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
+        "citations": 254582
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Ilya_Sutskever"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "openai.com",
+        "domain": "openai.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 156,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1374354193721491463/ehNHYiyy_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Ilya Sutskever",
           "isCached": true
         }
       ],
@@ -557,13 +563,191 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 179,
+      "heat": 106,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1338407584370462720/WVbG5sqw_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Nando de Freitas",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/alexandr-wang.md",
+      "title": "Alexandr Wang",
+      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alexandr-wang/index.json",
+      "webUrl": "https://everyday.cc/ai/people/alexandr-wang/",
+      "type": "profile",
+      "name": "Alexandr Wang",
+      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
+      "location": "San Francisco, CA",
+      "website": "https://scale.com/",
+      "twitter": {
+        "username": "alexandr_wang",
+        "url": "https://twitter.com/alexandr_wang",
+        "followers": 14392
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/alexandrwang/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Scale",
+        "domain": "scale.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Autos"
+      ],
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Alexandr Wang",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/jeff-dean.md",
+      "title": "Jeff Dean",
+      "excerpt": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jeff-dean/index.json",
+      "webUrl": "https://everyday.cc/ai/people/jeff-dean/",
+      "type": "profile",
+      "name": "Jeff Dean",
+      "bio": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
+      "website": "https://t.co/ajoSG5g4Rn",
+      "twitter": {
+        "username": "jeffdean",
+        "url": "https://twitter.com/jeffdean",
+        "followers": 192820
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
+        "citations": 184473
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/google.com-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Jeff Dean",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/soumith-chintala.md",
+      "title": "Soumith Chintala",
+      "excerpt": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/soumith-chintala/index.json",
+      "webUrl": "https://everyday.cc/ai/people/soumith-chintala/",
+      "type": "profile",
+      "name": "Soumith Chintala",
+      "bio": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
+      "location": "New York, NY",
+      "website": "https://soumith.ch/",
+      "twitter": {
+        "username": "soumithchintala",
+        "url": "https://twitter.com/soumithchintala",
+        "followers": 89202
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/soumith"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Facebook",
+        "domain": "facebook.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI",
+        "PyTorch"
+      ],
+      "heat": 98,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Soumith Chintala",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/bernhard-scholkopf.md",
+      "title": "Bernhard Schölkopf",
+      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/bernhard-scholkopf/index.json",
+      "webUrl": "https://everyday.cc/ai/people/bernhard-scholkopf/",
+      "type": "profile",
+      "name": "Bernhard Schölkopf",
+      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "twitter": {
+        "username": "bschoelkopf",
+        "url": "https://twitter.com/bschoelkopf",
+        "followers": 7399
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
+        "citations": 174232
+      },
+      "affiliation": {
+        "path": "",
+        "name": "tuebingen.mpg.de",
+        "domain": "tuebingen.mpg.de"
+      },
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ],
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Bernhard Schölkopf",
           "isCached": true
         }
       ],
@@ -599,207 +783,13 @@
         "Math for AI",
         "Machine Learning"
       ],
-      "heat": 171,
+      "heat": 78,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_400x400.jpeg",
           "width": 400,
           "height": 400,
           "title": "Kyle Cranmer",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/soumith-chintala.md",
-      "title": "Soumith Chintala",
-      "excerpt": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/soumith-chintala/index.json",
-      "webUrl": "https://everyday.cc/ai/people/soumith-chintala/",
-      "type": "profile",
-      "name": "Soumith Chintala",
-      "bio": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
-      "location": "New York, NY",
-      "website": "https://soumith.ch/",
-      "twitter": {
-        "username": "soumithchintala",
-        "url": "https://twitter.com/soumithchintala",
-        "followers": 89200
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/soumith"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Facebook",
-        "domain": "facebook.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI",
-        "PyTorch"
-      ],
-      "heat": 138,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Soumith Chintala",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/alexandr-wang.md",
-      "title": "Alexandr Wang",
-      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alexandr-wang/index.json",
-      "webUrl": "https://everyday.cc/ai/people/alexandr-wang/",
-      "type": "profile",
-      "name": "Alexandr Wang",
-      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
-      "location": "San Francisco, CA",
-      "website": "https://scale.com/",
-      "twitter": {
-        "username": "alexandr_wang",
-        "url": "https://twitter.com/alexandr_wang",
-        "followers": 14395
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/alexandrwang/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Scale",
-        "domain": "scale.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Autos"
-      ],
-      "heat": 108,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Alexandr Wang",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/alex-smola.md",
-      "title": "Alex Smola",
-      "excerpt": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alex-smola/index.json",
-      "webUrl": "https://everyday.cc/ai/people/alex-smola/",
-      "type": "profile",
-      "name": "Alex Smola",
-      "bio": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
-      "location": "Palo Alto, CA",
-      "website": "http://alex.smola.org/",
-      "twitter": {
-        "username": "smolix",
-        "url": "https://twitter.com/smolix",
-        "followers": 17341
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
-        "citations": 146061
-      },
-      "affiliation": {
-        "path": "",
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ],
-      "heat": 105,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Alex Smola",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/rajat-monga.md",
-      "title": "Rajat Monga",
-      "excerpt": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rajat-monga/index.json",
-      "webUrl": "https://everyday.cc/ai/people/rajat-monga/",
-      "type": "profile",
-      "name": "Rajat Monga",
-      "bio": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
-      "location": "San Francisco Bay Area",
-      "website": "https://research.google/people/RajatMonga/",
-      "twitter": {
-        "username": "rajatmonga",
-        "url": "https://twitter.com/rajatmonga",
-        "followers": 14199
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/rajatmonga/"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
-        "citations": 40449
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Google",
-        "domain": "google.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning",
-        "TensorFlow"
-      ],
-      "heat": 101,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Rajat Monga",
           "isCached": true
         }
       ],
@@ -819,7 +809,7 @@
       "twitter": {
         "username": "etzioni",
         "url": "https://twitter.com/etzioni",
-        "followers": 26130
+        "followers": 26129
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
@@ -837,7 +827,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 96,
+      "heat": 78,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1196070309943627778/4C6ssaJN_400x400.jpg",
@@ -850,76 +840,39 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/andrew-moore.md",
-      "title": "Andrew Moore",
-      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrew-moore/index.json",
-      "webUrl": "https://everyday.cc/ai/people/andrew-moore/",
+      "path": "_people/daniele-bonacorsi.md",
+      "title": "Daniele Bonacorsi",
+      "excerpt": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/daniele-bonacorsi/index.json",
+      "webUrl": "https://everyday.cc/ai/people/daniele-bonacorsi/",
       "type": "profile",
-      "name": "Andrew Moore",
-      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "location": "Pittsburgh, PA",
-      "website": "http://www.cs.cmu.edu/~awm/",
+      "name": "Daniele Bonacorsi",
+      "bio": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
       "twitter": {
-        "username": "awmcmu",
-        "url": "https://twitter.com/awmcmu",
-        "followers": 6071
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
-      },
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Andrew Moore",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/bernhard-scholkopf.md",
-      "title": "Bernhard Schölkopf",
-      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/bernhard-scholkopf/index.json",
-      "webUrl": "https://everyday.cc/ai/people/bernhard-scholkopf/",
-      "type": "profile",
-      "name": "Bernhard Schölkopf",
-      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "twitter": {
-        "username": "bschoelkopf",
-        "url": "https://twitter.com/bschoelkopf",
-        "followers": 7400
+        "username": "DBonacorsi",
+        "url": "https://twitter.com/DBonacorsi",
+        "followers": 707
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 174232
+        "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
+        "citations": 151615
       },
       "affiliation": {
         "path": "",
-        "name": "tuebingen.mpg.de",
-        "domain": "tuebingen.mpg.de"
+        "name": "infn.it",
+        "domain": "infn.it"
       },
       "topics": [
         "AI",
-        "Math for AI",
         "Machine Learning"
       ],
-      "heat": 57,
+      "heat": 58,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1841900580/twitter_image_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Bernhard Schölkopf",
+          "title": "Daniele Bonacorsi",
           "isCached": true
         }
       ],
@@ -956,45 +909,6 @@
           "height": 121,
           "title": "Anil K. Jain",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/daniele-bonacorsi.md",
-      "title": "Daniele Bonacorsi",
-      "excerpt": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/daniele-bonacorsi/index.json",
-      "webUrl": "https://everyday.cc/ai/people/daniele-bonacorsi/",
-      "type": "profile",
-      "name": "Daniele Bonacorsi",
-      "bio": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
-      "twitter": {
-        "username": "DBonacorsi",
-        "url": "https://twitter.com/DBonacorsi",
-        "followers": 707
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
-        "citations": 151615
-      },
-      "affiliation": {
-        "path": "",
-        "name": "infn.it",
-        "domain": "infn.it"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1841900580/twitter_image_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Daniele Bonacorsi",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1337,6 +1251,78 @@
           "width": 116,
           "height": 127,
           "title": "Kalyanmoy Deb",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/leo-breiman.md",
+      "title": "Leo Breiman",
+      "excerpt": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/leo-breiman/index.json",
+      "webUrl": "https://everyday.cc/ai/people/leo-breiman/",
+      "type": "profile",
+      "name": "Leo Breiman",
+      "bio": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=mXSv_1UAAAAJ",
+        "citations": 181710
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Leo_Breiman"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "berkeley.edu",
+        "domain": "berkeley.edu"
+      },
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=mXSv_1UAAAAJ&citpid=2",
+          "width": 128,
+          "height": 89,
+          "title": "Leo Breiman",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/lev-dudko.md",
+      "title": "Lev Dudko",
+      "excerpt": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lev-dudko/index.json",
+      "webUrl": "https://everyday.cc/ai/people/lev-dudko/",
+      "type": "profile",
+      "name": "Lev Dudko",
+      "bio": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=zEQGLhoAAAAJ",
+        "citations": 183653
+      },
+      "affiliation": {
+        "path": "",
+        "name": "sinp.msu.ru",
+        "domain": "sinp.msu.ru"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+          "width": 128,
+          "height": 128,
+          "title": "Lev Dudko",
           "isCached": false
         }
       ],

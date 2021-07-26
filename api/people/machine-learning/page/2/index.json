@@ -4,78 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_people/leo-breiman.md",
-      "title": "Leo Breiman",
-      "excerpt": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/leo-breiman/index.json",
-      "webUrl": "https://everyday.cc/ai/people/leo-breiman/",
-      "type": "profile",
-      "name": "Leo Breiman",
-      "bio": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=mXSv_1UAAAAJ",
-        "citations": 181710
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Leo_Breiman"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "berkeley.edu",
-        "domain": "berkeley.edu"
-      },
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=view_photo&user=mXSv_1UAAAAJ&citpid=2",
-          "width": 128,
-          "height": 89,
-          "title": "Leo Breiman",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/lev-dudko.md",
-      "title": "Lev Dudko",
-      "excerpt": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lev-dudko/index.json",
-      "webUrl": "https://everyday.cc/ai/people/lev-dudko/",
-      "type": "profile",
-      "name": "Lev Dudko",
-      "bio": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=zEQGLhoAAAAJ",
-        "citations": 183653
-      },
-      "affiliation": {
-        "path": "",
-        "name": "sinp.msu.ru",
-        "domain": "sinp.msu.ru"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
-          "width": 128,
-          "height": 128,
-          "title": "Lev Dudko",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/lily-asquith.md",
       "title": "Lily Asquith",
       "excerpt": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
@@ -272,7 +200,7 @@
       "twitter": {
         "username": "chrisbishopmsft",
         "url": "https://twitter.com/chrisbishopmsft",
-        "followers": 5556
+        "followers": 5555
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
@@ -295,7 +223,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 32,
+      "heat": 41,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
@@ -308,41 +236,77 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/fei-fei-li.md",
-      "title": "Fei-Fei Li",
-      "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/fei-fei-li/index.json",
-      "webUrl": "https://everyday.cc/ai/people/fei-fei-li/",
+      "path": "_people/andrew-moore.md",
+      "title": "Andrew Moore",
+      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrew-moore/index.json",
+      "webUrl": "https://everyday.cc/ai/people/andrew-moore/",
       "type": "profile",
-      "name": "Fei-Fei Li",
-      "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-      "location": "Stanford, CA, U.S.A.",
-      "website": "https://profiles.stanford.edu/fei-fei-li",
+      "name": "Andrew Moore",
+      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
+      "location": "Pittsburgh, PA",
+      "website": "http://www.cs.cmu.edu/~awm/",
       "twitter": {
-        "username": "drfeifei",
-        "url": "https://twitter.com/drfeifei",
-        "followers": 385125
+        "username": "awmcmu",
+        "url": "https://twitter.com/awmcmu",
+        "followers": 6070
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
+      },
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ],
+      "heat": 18,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Andrew Moore",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/rajat-monga.md",
+      "title": "Rajat Monga",
+      "excerpt": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rajat-monga/index.json",
+      "webUrl": "https://everyday.cc/ai/people/rajat-monga/",
+      "type": "profile",
+      "name": "Rajat Monga",
+      "bio": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
+      "location": "San Francisco Bay Area",
+      "website": "https://research.google/people/RajatMonga/",
+      "twitter": {
+        "username": "rajatmonga",
+        "url": "https://twitter.com/rajatmonga",
+        "followers": 14198
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rajatmonga/"
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
-        "citations": 134515
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
+        "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
+        "citations": 40449
       },
       "affiliation": {
         "path": "",
-        "name": "Stanford",
-        "domain": "stanford.edu",
+        "name": "Google",
+        "domain": "google.com",
         "images": [
           {
-            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           },
           {
-            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-400x400.jpg",
             "width": 400,
             "height": 400,
             "isCached": false
@@ -351,17 +315,67 @@
       },
       "topics": [
         "AI",
+        "Google AI",
         "Machine Learning",
-        "Computer Vision",
-        "AI in Healthcare"
+        "TensorFlow"
+      ],
+      "heat": 18,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rajat Monga",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/alex-smola.md",
+      "title": "Alex Smola",
+      "excerpt": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alex-smola/index.json",
+      "webUrl": "https://everyday.cc/ai/people/alex-smola/",
+      "type": "profile",
+      "name": "Alex Smola",
+      "bio": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
+      "location": "Palo Alto, CA",
+      "website": "http://alex.smola.org/",
+      "twitter": {
+        "username": "smolix",
+        "url": "https://twitter.com/smolix",
+        "followers": 17340
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
+        "citations": 146061
+      },
+      "affiliation": {
+        "path": "",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
       ],
       "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Fei-Fei Li",
+          "title": "Alex Smola",
           "isCached": true
         }
       ],
@@ -381,7 +395,7 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1523214
+        "followers": 1523192
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",

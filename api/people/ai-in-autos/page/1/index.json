@@ -16,7 +16,7 @@
       "twitter": {
         "username": "elonmusk",
         "url": "https://twitter.com/elonmusk",
-        "followers": 58562171
+        "followers": 58558611
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Elon_Musk"
@@ -25,7 +25,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 682,
+      "heat": 677,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1416443682157473795/dGtFbtht_400x400.jpg",
@@ -51,7 +51,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 734132
+        "followers": 734161
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -75,51 +75,13 @@
         "Machine Learning",
         "AI in Autos"
       ],
-      "heat": 392,
+      "heat": 455,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Lex Fridman",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/john-krafcik.md",
-      "title": "John Krafcik",
-      "excerpt": "We're building the world's most experienced driver.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-krafcik/index.json",
-      "webUrl": "https://everyday.cc/ai/people/john-krafcik/",
-      "type": "profile",
-      "name": "John Krafcik",
-      "bio": "We're building the world's most experienced driver.",
-      "location": "Mountain View, CA",
-      "website": "https://t.co/i1uBCCpct5",
-      "twitter": {
-        "username": "johnkrafcik",
-        "url": "https://twitter.com/johnkrafcik",
-        "followers": 15978
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/johnkrafcik/"
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/John_Krafcik"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1161446779310632961/RGg-GhC6_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "John Krafcik",
           "isCached": true
         }
       ],
@@ -139,7 +101,7 @@
       "twitter": {
         "username": "alexandr_wang",
         "url": "https://twitter.com/alexandr_wang",
-        "followers": 14395
+        "followers": 14392
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/alexandrwang/"
@@ -155,7 +117,7 @@
         "Computer Vision",
         "AI in Autos"
       ],
-      "heat": 108,
+      "heat": 102,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
@@ -193,7 +155,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 87,
+      "heat": 89,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
@@ -235,6 +197,44 @@
           "height": 120,
           "title": "James Peng",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/john-krafcik.md",
+      "title": "John Krafcik",
+      "excerpt": "We're building the world's most experienced driver.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-krafcik/index.json",
+      "webUrl": "https://everyday.cc/ai/people/john-krafcik/",
+      "type": "profile",
+      "name": "John Krafcik",
+      "bio": "We're building the world's most experienced driver.",
+      "location": "Mountain View, CA",
+      "website": "https://t.co/i1uBCCpct5",
+      "twitter": {
+        "username": "johnkrafcik",
+        "url": "https://twitter.com/johnkrafcik",
+        "followers": 15976
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/johnkrafcik/"
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/John_Krafcik"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1161446779310632961/RGg-GhC6_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "John Krafcik",
+          "isCached": true
         }
       ],
       "content": "\r\n"
