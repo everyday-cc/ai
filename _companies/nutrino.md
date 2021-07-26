@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "NutrinoCo"
   url: "https://twitter.com/NutrinoCo"
-  followers: 7
+  followers: 6
 
 size: 11-50 employees
 yearFounded: 2011
