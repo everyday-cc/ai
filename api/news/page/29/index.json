@@ -2,6 +2,57 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-07-02-global-artificial-intelligence-market-size-share-to-be-appraised-at-usd-44178-million-by-2025.md",
+      "title": "Global Artificial Intelligence Market Size, Share to Be Appraised at USD 4417.8 million By 2025",
+      "excerpt": "Selbyville, Delaware. The report Artificial Intelligence Market Size and Analysis maintains enhanced dynamics and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-share-to-be-appraised-at-usd-44178-million-by-2025-2021-07-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-share-to-be-appraised-at-usd-44178-million-by-2025-2021-07-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-five-smart-marketing-use-cases-for-artificial-intelligence.md",
       "title": "Five Smart Marketing Use Cases For Artificial Intelligence",
       "excerpt": "Artificial Intelligence (AI) is transforming marketing. Here we look at the different ways companies of any size, and with any budget, can make use of this technology to improve marketing performance.",
@@ -1136,49 +1187,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-food-supply-chain-tyson-foods-invests-in-ai-robotics.md",
-      "title": "Food Supply Chain: Tyson Foods Invests in AI Robotics",
-      "excerpt": "Tyson Foods - among others - invests in Soft Robotics Series B extension, expanding the use of AI, robotics and automation in the food supply chain",
-      "sourceUrl": null,
-      "webUrl": "https://manufacturingglobal.com/ai-and-automation/food-supply-chain-tyson-foods-invests-ai-robotics",
-      "originalUrl": "https://manufacturingglobal.com/ai-and-automation/food-supply-chain-tyson-foods-invests-ai-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manufacturingglobal.com/sites/default/files/styles/ma/public/image/maxresdefault%20%282%29_0.jpg?itok=1Dv22rGS",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manufacturingglobal.com",
-        "domain": "manufacturingglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

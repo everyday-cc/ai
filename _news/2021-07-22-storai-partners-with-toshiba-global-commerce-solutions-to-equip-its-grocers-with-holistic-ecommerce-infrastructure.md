@@ -35,20 +35,6 @@ related:
         width: 457
         height: 305
         isCached: true
-  - title: "Stor.ai Partners with Toshiba Global Commerce Solutions to Equip Grocers with Digital Infrastructure"
-    excerpt: "As a Toshiba Global Commerce Solution Partner, stor.ai will provide a white-labelled, SaaS solution (via Microsoft Azure) to offer a robust online shopping experience for consumers across all devices. Toshiba Global Commerce Solution is working with stor ..."
-    publishedDateTime: 2021-07-21T17:21:00Z
-    webUrl: "https://www.dcvelocity.com/articles/51665-stor-ai-partners-with-toshiba-global-commerce-solutions-to-equip-grocers-with-digital-infrastructure"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 24
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/55bbb902-93d3-463a-9c1f-e61df8002a53.png?height=635&t=1626898725&width=1200"
-        width: 600
-        height: 248
-        isCached: true
 
 secured: "TP6CeIPUD1TPgf2kTM82CGtQH0pjP4CvP2aBN6Ck6WwEq+cQovKyioKyW8Ut1EQJIHxb968xq7+93And1XlRWQ8M54/rZSjYUncSM2m9CxyLusWzPXqHpuy+ivKvZpLQCEFMBtBaw7lbT4fw+bBYoT7+d08ftDA9Q5kYuPqE1FNfuRh7JSZrZddR0FxTvP8mTGw37RqIv+Ll4WOHh5CgPGJdKAh1CpIMsfyGrDlsvCRV4+M3Vo4U2LAEqnJe2dlnDKa53rHo+qk9ODWYNi/peXgB052W0uQ6lgzYjG/20onmCMs+DjVqZgYmH7VxhF7hXQnYcEBmsRp25TngX955sTHcAJJq0AOngcW/Q7yqRng=;OFSGRj75EfRr/ghAcY29OQ=="
 ---

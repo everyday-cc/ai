@@ -205,6 +205,20 @@ related:
         width: 685
         height: 385
         isCached: true
+  - title: "Google’s DeepMind opens ‘breakthrough’ protein database to the world"
+    excerpt: "London-headquartered artificial intelligence (AI) company DeepMind has opened a database to the world that maps 98.5% – approximately 20,000 – proteins in the human body, marking a ‘transformative’ moment for the scientific community."
+    publishedDateTime: 2021-07-26T11:51:00Z
+    webUrl: "https://www.pmlive.com/pharma_news/googles_deepmind_opens_breakthrough_protein_database_to_the_world_1373638"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 39
+    images:
+      - url: "https://www.pmlive.com/__data/assets/image/0012/1202124/Robot.JPG"
+        width: 500
+        height: 322
+        isCached: true
   - title: "DeepMind and EMBL release most complete database of predicted 3D structures of human proteins"
     excerpt: "DeepMind today announced its partnership with the European Molecular Biology Laboratory (EMBL), Europe's flagship laboratory for the life sciences,"
     publishedDateTime: 2021-07-23T13:35:00Z

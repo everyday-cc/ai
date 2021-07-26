@@ -52,6 +52,20 @@ related:
         width: 294
         height: 530
         isCached: true
+  - title: "Zone7 Raises $8M For AI-Driven Athlete Performance Platform"
+    excerpt: "Zone7 developed an AI-powered injury prediction solution for athletes and clients with physically demanding positions."
+    publishedDateTime: 2021-07-26T11:32:00Z
+    webUrl: "https://nocamels.com/2021/07/zone7-8m-ai-driven-athlete-performance-platform/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/07/braden-collum-9HI8UJMSdZA-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "xt+f5J4vSvq63pzc+hMM9x+ha2HYU4cK9dzKs9wHnT/SgEfj82AHBaTNkQBss5Q8zEIzwWVzrJDNxBN1l5RKA3ZJOY9o4lbw7fnF7EDxNza9k4sFwBryqe7sX83Rh2gHKeOKi37PXofPQBteBi9u6tkNjpAOYjvWyAhVTMsjyokDJ5A+HGi/A1WdrZrlnArwdf7I1d9IQDJ812CYXxrpTzsKyWMsbREo/kBM/Sq4yf442OpqFUiEEk7J5Zb2zuyf2CUfxJbSKb/oQx3cAhfLg1MLOsV3tIP5n/eWV/VRpTjkuPv4EcyNXRWSvngiyk0AcJJzEQfVGEkbFyjrTIdVF/E+zhU0dtffuJlVJ5KbfbXJVN5o13T9opTNVYN7S2iDWUqaNmJWBxhDAvPRs/VfCPxjQ/ZOruTGWkB4Qg0Phj1MDRIv9R30sdGcKwKZM3SvfZfv3m1QLABaCIuM4zY4sBai0pWAIxklN9nj2WSEpXOkeh5XCBnvjAEl6LQujAIb+0rh0nB+7w0Q7QWyV76i1w==;IAY+iD1xcZV81TeteO9EfQ=="
 ---

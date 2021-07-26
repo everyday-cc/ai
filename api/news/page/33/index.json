@@ -2,6 +2,57 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-06-30-indian-tech-startup-exposed-byjus-student-data.md",
+      "title": "Indian tech startup exposed Byju’s student data",
+      "excerpt": "India-based technology startup Salesken.ai has secured an exposed server that was spilling private and sensitive data on one of its customers, Byju’s, an education technology giant and India’s most valuable startup.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/29/india-startup-byju-student-data/",
+      "originalUrl": "https://techcrunch.com/2021/06/29/india-startup-byju-student-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1133907439.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/29/india-startup-byju-student-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/india-startup-byju-student-data/amp/",
+      "publishedDateTime": "2021-06-29T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-federal-agencies-use-facial-recognition-from-private-companies-but-almost-nobody-is-keeping-track.md",
       "title": "Federal agencies use facial recognition from private companies, but almost nobody is keeping track",
       "excerpt": "A new report from the Government Accountability Office (GAO) has revealed near-total lack of accountability from federal agencies using facial recognition built by private companies, like ...",
@@ -1137,49 +1188,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries.md",
-      "title": "'Edge of chaos' opens pathway to artificial intelligence discoveries",
-      "excerpt": "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/06/210629101157.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/06/210629101157.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

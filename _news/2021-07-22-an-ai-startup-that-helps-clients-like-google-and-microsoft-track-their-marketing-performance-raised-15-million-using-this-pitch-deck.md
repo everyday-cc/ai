@@ -46,6 +46,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "BeachBot, an AI-powered robot that cleans cigarette butts at the beach"
+    excerpt: "BeachBot — BB for short — the robot uses artificial intelligence to find the cigarette butts and to learn the best way to pick them up. the AI-based detection algorithm was created by TechTics (a consultancy based in the hague founded by bos and lukaart) and students from delft university of technology,"
+    publishedDateTime: 2021-07-26T10:30:00Z
+    webUrl: "https://www.designboom.com/technology/beachbot-robot-cleans-cigarette-butts-beach-07-26-2021/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 54
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2021/07/project-bb-cigarette-butt-cleaning-robot-beach-designboom-fb.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
     excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO). \"This is the perfect example of our client feedback loop in action,"
     publishedDateTime: 2021-07-22T16:57:00Z

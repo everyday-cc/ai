@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/retail/2021/stor-ai-teams-with-toshiba-g
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/stor-ai-teams-with-toshiba-global-to-advance-online-grocery-shopping/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: pymnts.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stor.ai Partners with Toshiba Global Commerce Solutions to Equip Grocers with Digital Infrastructure"
-    excerpt: "As a Toshiba Global Commerce Solution Partner, stor.ai will provide a white-labelled, SaaS solution (via Microsoft Azure) to offer a robust online shopping experience for consumers across all devices. Toshiba Global Commerce Solution is working with stor ..."
-    publishedDateTime: 2021-07-21T17:21:00Z
-    webUrl: "https://www.dcvelocity.com/articles/51665-stor-ai-partners-with-toshiba-global-commerce-solutions-to-equip-grocers-with-digital-infrastructure"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 24
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/55bbb902-93d3-463a-9c1f-e61df8002a53.png?height=635&t=1626898725&width=1200"
-        width: 600
-        height: 248
-        isCached: true
   - title: "Stor.ai Partners with Toshiba Global Commerce Solutions to Equip its Grocers with Holistic Ecommerce Infrastructure"
     excerpt: "Stor.ai, the end-to-end digital commerce solution for grocers, today announced a strengthened partnership with Toshiba Global"
     publishedDateTime: 2021-07-21T20:00:00Z

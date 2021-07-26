@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itnewsafrica.com/2021/07/using-ai-to-beat-cybercriminals
 cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/07/using-ai-to-beat-cybercriminals-at-their-own-game/?amp"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 800
     height: 520
     isCached: true
+
+related:
+  - title: "Cybercriminals use AI, your business should as well"
+    excerpt: "Just like we use AI to save ourselves some time, so do cybercriminals. “Hacking into a network used to take months. But with AI and machine learning (ML) technologies on their side, cybercriminals can see this time span reduced to a matter of days."
+    publishedDateTime: 2021-07-26T10:45:00Z
+    webUrl: "https://htxt.co.za/2021/07/cybercriminals-use-ai-your-business-should-as-well/"
+    ampWebUrl: "https://htxt.co.za/2021/07/cybercriminals-use-ai-your-business-should-as-well/?amp=1"
+    cdnAmpWebUrl: "https://htxt-co-za.cdn.ampproject.org/c/s/htxt.co.za/2021/07/cybercriminals-use-ai-your-business-should-as-well/?amp=1"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 57
+    images:
+      - url: "https://htxt.co.za/wp-content/uploads/2018/10/cybercrime-header.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "l6RaGZshp4QfTbZXOy4qJEkn7PnAIzfuFTqIyaZ3Fzts2VwOz4X0gHVSHZGySEITVysyN1NvlSmfWvW8kk9dJrKKf4Bb7qQACYKxO6u5yn4GeqLymOIFzfPJBgJtCjOMh/+zettA50lhAJ2YPhSvCR7By5rTVe/ms+gDvdwGuW1NY/DPqw9SZ+mPr0hstksVn0INhMVv4rA3EpZsKycuAFFYbKoh8JkBrUOsiqjv/8+1KCYKlYJh7v3i9qNvWjEnuSnNY6YNwniDyaCKQAj1q0li/7jZpUD/woKYySDV8OtjQiKNrbRXyVy42Nmf36foBJATmWJBIs4EkkuyoVLpkUeJ1RrXOVnazLSwAA3ziII=;I4n4gExw4CqYkiB/x9kyMQ=="
 ---

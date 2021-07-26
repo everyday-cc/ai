@@ -49,6 +49,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
+  - title: "Zone7 Raises $8M For AI-Driven Athlete Performance Platform"
+    excerpt: "Zone7 developed an AI-powered injury prediction solution for athletes and clients with physically demanding positions."
+    publishedDateTime: 2021-07-26T11:32:00Z
+    webUrl: "https://nocamels.com/2021/07/zone7-8m-ai-driven-athlete-performance-platform/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/07/braden-collum-9HI8UJMSdZA-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "m9bxzna8DydcpWLcsta0Tr5WoTkuUfp7GD9j0AU8fW4jiqIPwGDd8KoFw9MLF7mjvI2ER6S6XwrpKpCoQRZCqOWy+RZ8YCdr8nuzB6A8WtdQ5IqvAcoe6Kwc8MgRx3PSB+hbebjUGndPfroWkYyxlOOngfl/IK1S7wl8GK8/3t0D4h5nSuiqlC3Xm1ojbwUgyrYM7Rm62spxClITQLhUhW7JGXOP3X3ntMDC6t/W4b6/zqlLVtwNlbMF7VLp4Et5jRUBcsVqlycs2I6cy9PrZ/sQ5aSXhH6YNGrXivGqP5ls6ltk9HulPWWYiz2g6AmQadAphJj8Cp191flGM5Ny+ayrr+V0gd1EQf7Trj2PJq0=;Qg+sRkRJa2uU68fqyU54EQ=="
 ---

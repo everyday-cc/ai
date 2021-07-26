@@ -663,6 +663,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-21-meet-the-startups-that-participated-in-tmu-x-bes-latest-demo-day-in-taiwan.md",
+      "title": "Meet the startups that Participated in TMU x BE's Latest demo day in Taiwan",
+      "excerpt": "At Taiwan-based TMU x BE accelerator’s demo day on July 20, startups discussed their solutions, which tackle topics like Digital Health, Medical Devices and AI Healthcare. A series",
+      "sourceUrl": null,
+      "webUrl": "https://www.wicz.com/story/44344954/meet-the-startups-that-participated-in-tmu-x-bes-latest-demo-day-in-taiwan",
+      "originalUrl": "https://www.wicz.com/story/44344954/meet-the-startups-that-participated-in-tmu-x-bes-latest-demo-day-in-taiwan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://WICZ.images.worldnow.com/images/20397967_G.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 40 WICZ TV",
+        "domain": "wicz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-mind-and-matter-modeling-the-human-brain-with-machine-learning.md",
       "title": "Mind and matter: Modeling the human brain with machine learning",
       "excerpt": "We all like to think that we know ourselves best, but given that our brain activity is largely governed by our subconscious mind, it is probably our brain that knows us better. While this is only a hypothesis,",
@@ -1100,15 +1143,15 @@
       "title": "Toronto AI chip startup Untether gets backing from Intel and CPP Investment Board",
       "excerpt": "U.S. ($159-million Canadian) investment in Untether AI Corp., a Toronto-based startup that develops high-performance chips for artificial intelligence programs. Canada Pension Plan Investment Board, Canada’s largest pension fund,",
       "sourceUrl": null,
-      "webUrl": "https://www.thepeterboroughexaminer.com/ts/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html",
-      "originalUrl": "https://www.thepeterboroughexaminer.com/ts/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html",
+      "webUrl": "https://www.thestar.com/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html",
+      "originalUrl": "https://www.thestar.com/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.thestar.com/mDQ9CUDlOqrYINOQsPyHPn9COtY=/1200x799/smart/filters:cb(1626799604103)/https://www.thepeterboroughexaminer.com/content/dam/thestar/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board/intel_logo.jpg",
+          "url": "https://images.thestar.com/mHTO2t2r0_YS2tNTJrPGgvJ4BL0=/1200x799/smart/filters:cb(1626799604103)/https://www.thestar.com/content/dam/thestar/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board/intel_logo.jpg",
           "width": 1200,
           "height": 799,
           "title": null,
@@ -1123,8 +1166,8 @@
       "publishedDateTime": "2021-07-20T09:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Peterborough Examiner",
-        "domain": "thepeterboroughexaminer.com",
+        "name": "The Star",
+        "domain": "thestar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1135,57 +1178,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live.md",
-      "title": "Hear Startup Alley companies pitch expert VC judges in upcoming episodes of Extra Crunch Live",
-      "excerpt": "We know how much you love a good startup pitch-off. Who doesn’t? It combines the thrill of live, high-stakes entertainment with learning about the hottest new thing. Plus, you get to hear feedback from some of the smartest folks in the industry,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/20/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/",
-      "originalUrl": "https://techcrunch.com/2021/07/20/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/ECL-2021-july-21-startup-alley-1.jpg?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/20/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/amp/",
-      "publishedDateTime": "2021-07-20T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

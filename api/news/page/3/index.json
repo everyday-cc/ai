@@ -208,7 +208,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/22/deepmind-open-sources-protein-structure-dataset-generated-by-alphafold-2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 338,
+      "heat": 348,
       "tags": null,
       "images": [
         {
@@ -520,7 +520,7 @@
       "originalUrl": "https://www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -614,7 +614,7 @@
       "originalUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -742,6 +742,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-detecting-acute-stroke-early-with-artificial-intelligence-and-imaging.md",
+      "title": "Detecting Acute Stroke Early with Artificial Intelligence and Imaging",
+      "excerpt": "Scientists are using artificial intelligence (AI) to improve imaging techniques so that ischemic and hemorrhage strokes might be identified faster.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azooptics.com/Article.aspx?ArticleID=1976",
+      "originalUrl": "https://www.azooptics.com/Article.aspx?ArticleID=1976",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d36nqgmw98q4v5.cloudfront.net/images/Article_Images/ImageForArticle_1976_16269415644258204.jpg",
+          "width": 1000,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azooptics.com/amp/article.aspx?ArticleID=1976",
+      "cdnAmpWebUrl": "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/article.aspx?ArticleID=1976",
+      "publishedDateTime": "2021-07-22T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoOptics",
+        "domain": "azooptics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -878,49 +922,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-storai-teams-with-toshiba-global-to-advance-online-grocery-shopping.md",
-      "title": "stor.ai Teams With Toshiba Global To Advance Online Grocery Shopping",
-      "excerpt": "End-to-end digital grocery solution stor.ai is expanding its partnership with retail store technology firm Toshiba Global Commerce Solutions to offer an integrated tool to help eCommerce businesses. “With eCommerce growing at breakneck speeds,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/retail/2021/stor-ai-teams-with-toshiba-global-to-advance-online-grocery-shopping/",
-      "originalUrl": "https://www.pymnts.com/news/retail/2021/stor-ai-teams-with-toshiba-global-to-advance-online-grocery-shopping/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/shutterstock_1715821360-457x305.jpg",
-          "width": 457,
-          "height": 305,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/stor-ai-teams-with-toshiba-global-to-advance-online-grocery-shopping/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/stor-ai-teams-with-toshiba-global-to-advance-online-grocery-shopping/amp/",
-      "publishedDateTime": "2021-07-21T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1090,7 +1091,7 @@
       "originalUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 279,
+      "heat": 249,
       "tags": null,
       "images": [
         {

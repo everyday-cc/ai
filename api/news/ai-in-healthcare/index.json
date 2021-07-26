@@ -194,7 +194,7 @@
       "originalUrl": "https://www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -235,6 +235,50 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-detecting-acute-stroke-early-with-artificial-intelligence-and-imaging.md",
+      "title": "Detecting Acute Stroke Early with Artificial Intelligence and Imaging",
+      "excerpt": "Scientists are using artificial intelligence (AI) to improve imaging techniques so that ischemic and hemorrhage strokes might be identified faster.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azooptics.com/Article.aspx?ArticleID=1976",
+      "originalUrl": "https://www.azooptics.com/Article.aspx?ArticleID=1976",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d36nqgmw98q4v5.cloudfront.net/images/Article_Images/ImageForArticle_1976_16269415644258204.jpg",
+          "width": 1000,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azooptics.com/amp/article.aspx?ArticleID=1976",
+      "cdnAmpWebUrl": "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/article.aspx?ArticleID=1976",
+      "publishedDateTime": "2021-07-22T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoOptics",
+        "domain": "azooptics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -375,6 +419,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-meet-the-startups-that-participated-in-tmu-x-bes-latest-demo-day-in-taiwan.md",
+      "title": "Meet the startups that Participated in TMU x BE's Latest demo day in Taiwan",
+      "excerpt": "At Taiwan-based TMU x BE accelerator’s demo day on July 20, startups discussed their solutions, which tackle topics like Digital Health, Medical Devices and AI Healthcare. A series",
+      "sourceUrl": null,
+      "webUrl": "https://www.wicz.com/story/44344954/meet-the-startups-that-participated-in-tmu-x-bes-latest-demo-day-in-taiwan",
+      "originalUrl": "https://www.wicz.com/story/44344954/meet-the-startups-that-participated-in-tmu-x-bes-latest-demo-day-in-taiwan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://WICZ.images.worldnow.com/images/20397967_G.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 40 WICZ TV",
+        "domain": "wicz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1269,101 +1356,6 @@
         "AI in Healthcare",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-oxford-drugs-firm-gains-15m-gates-grant-for-covid-19-therapy.md",
-      "title": "Oxford drugs firm gains $1.5m Gates grant for Covid-19 therapy",
-      "excerpt": "It hopes the therapy will also be effective against new mutations ... This testing stage of drug development typically takes four to five years but artificial intelligence can speed it up considerably. The OCD drug and another neuroscience drug, for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/business/2021/jul/08/oxford-drugs-firm-gains-15m-gates-grant-for-covid-19-therapy",
-      "originalUrl": "https://www.theguardian.com/business/2021/jul/08/oxford-drugs-firm-gains-15m-gates-grant-for-covid-19-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0a448c8471cb63969b4590df3ffe313bb3de8d29/145_667_4968_2981/master/4968.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4a7fe2a628b2582ba0aa43dafcf59541",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/business/2021/jul/08/oxford-drugs-firm-gains-15m-gates-grant-for-covid-19-therapy",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/jul/08/oxford-drugs-firm-gains-15m-gates-grant-for-covid-19-therapy",
-      "publishedDateTime": "2021-07-07T22:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-artificial-intelligence-helps-to-discover-new-drugs.md",
-      "title": "Artificial Intelligence Helps to Discover New Drugs",
-      "excerpt": "In any case, the pharmaceutical industry will have to adapt its research approach to a new rulebook. Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. Drug ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/drug-6.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
-      "publishedDateTime": "2021-07-07T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

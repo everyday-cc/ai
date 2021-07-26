@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Fintech Stocks Wall Street Predicts Will Rally by More Than 40%"
-    excerpt: "As more advanced technologies and innovative solutions find application in the financial sector, the fintech market could keep growing quickly in the coming months thanks to increasing digital transactions."
-    publishedDateTime: 2021-07-21T17:31:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/3-fintech-stocks-wall-street-predicts-will-rally-by-more-than-40-2564349"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 24
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXNPEC0K0YG_L.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Fintech Market Forecast to Reach $161.2 Billion by 2026"
     excerpt: "Focus of Companies on Cost Reduction and Improving Efficiency driving the growth of Fintech Market The Fintech Market forecast to reach $161.2 billion by 2026, growing at a CAGR of 8.7% from 2021 to 2026."
     publishedDateTime: 2021-07-24T05:16:00Z
@@ -54,6 +40,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "India’s Fintech Market: Growth Outlook and Investment Opportunities"
+    excerpt: "India has the third largest fintech ecosystem globally and 67 percent of more than 2,100 fintech entities in operation have been set up since 2016."
+    publishedDateTime: 2021-07-26T10:26:00Z
+    webUrl: "https://www.india-briefing.com/news/indias-fintech-market-growth-outlook-and-investment-opportunities-22764.html/"
+    type: article
+    provider:
+      name: india-briefing.com
+      domain: india-briefing.com
+    quality: 24
+    images:
+      - url: "https://www.india-briefing.com/news/wp-content/uploads/2021/07/India’s-Fintech-Market-Growth-Outlook-and-Investment-Opportunities.jpg"
+        width: 900
+        height: 506
         isCached: true
   - title: "New FinTech Innovations that Will Change How Clients View Wealth Management"
     excerpt: "Innovations within FinTech are causing major changes to the dynamic between clients and wealth management providers. With technology as a driving force behind industry changes, understanding how client perspectives are shifting is crucial."

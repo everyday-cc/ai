@@ -2,6 +2,57 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-07-10-is-the-us-labor-shortage-the-big-break-ai-needs.md",
+      "title": "Is the US labor shortage the big break AI needs?",
+      "excerpt": "Misconceptions about AI in the workplace have long been a barrier to widespread adoption — but companies experiencing labor shortages should consider where it can make their employees' lives better.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/",
+      "originalUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-748338005-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/amp/",
+      "publishedDateTime": "2021-07-09T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance.md",
       "title": "AI Weekly: TikTok’s algorithm licensing signals China’s play for AI dominance",
       "excerpt": "Join AI & data leaders at Transform 2021 on July 12th for the AI/ML Automation Technology Summit. Register today. This week, TikTok parent company ByteDance began licensing parts of its AI technologies to third parties through a new division called BytePlus.",
@@ -1120,49 +1171,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-ai-gadgets-solutions-on-show-at-world-ai-conference-in-shanghai.md",
-      "title": "AI gadgets, solutions on show at World AI Conference in Shanghai",
-      "excerpt": "The AI+AR Minibus by SenseTime at the 2021 ... It also can support photo translation in 32 languages, simultaneous translation of 16 languages without the need to be connected to the internet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202107/09/WS60e81e4ea310efa1bd660ec1.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202107/09/WS60e81e4ea310efa1bd660ec1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202107/09/60e823e0a310efa1e3ad81b4.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

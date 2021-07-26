@@ -7,7 +7,7 @@ originalUrl: "https://techxplore.com/news/2021-07-bots-robots-problem.html"
 webUrl: "https://techxplore.com/news/2021-07-bots-robots-problem.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 920
     height: 518
     isCached: true
+
+related:
+  - title: "A Researcher Helps Robots To Solve Problems"
+    excerpt: "A researcher at the Australian National University is building software to help robots make better decisions and empathize."
+    publishedDateTime: 2021-07-26T10:47:00Z
+    webUrl: "https://www.electronicsforu.com/news/whats-new/a-researcher-helps-robots-to-solve-problems"
+    ampWebUrl: "https://www.electronicsforu.com/news/whats-new/a-researcher-helps-robots-to-solve-problems/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/a-researcher-helps-robots-to-solve-problems/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 59
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2021/07/better-behaving-bots.jpg"
+        width: 920
+        height: 518
+        isCached: true
 
 secured: "b4FyB+8YewETAAUhxrG0TwCm8ywJEVAtyB1kGavy6DTSet2g79UZgIEMQn0vct5ZVyrkk5/4JPznJ7s93Layar+Nnf+Dw6cUQkZJxl/n/Qm+bpDK0qIuWIaBvc4yt+2KpL3rnn1C0dqMY5DtrfYHhUPqBKt+RWmPVJ/oJYYNseO391dqRCyWRHVz6LyG88MFjR0efOXobJqfJwUlpByHVQ66W7ygG9B0jFcET0jo2OmumBtXthez+P3LbuhTYyNkOMBvUaIs2g7xPR0AjrIxQPCoUibFDzy2sudERqkV7tQyvi6tZr2zkGzUi0FxRKe0KjZxnnI4ytJ7DNDeYjGQ4xGTgP7pKRkMSDS4BLI5qyoC0TACEATqzZTbMqSagUCSRn0+JYTi+F5FS9YBeqaGqjOPn8bpbmDh5Y0vLRIMt/px2WoUr4hpruX6XfYNTKSaRzeKHtydSnQXdyGbSjjm9JstlJAIuB6YcD5yf2hgSfDcitWCJk2ml/KW+aSvXSeFtiekVVc/lnLWyTOJeXD2IA==;9Z6gL5ToE8rzz08hnR3fng=="
 ---

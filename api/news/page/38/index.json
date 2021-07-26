@@ -2,6 +2,49 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-06-27-machine-learning-identifies-new-brain-network-signature-of-major-depression.md",
+      "title": "Machine learning identifies new brain network signature of major depression",
+      "excerpt": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
+      "originalUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/06/26/brain-network-signature.jpg?itok=FT-QWUJF",
+          "width": 560,
+          "height": 292,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
+      "publishedDateTime": "2021-06-26T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-deepmind-agi-paper-adds-urgency-to-ethical-ai.md",
       "title": "DeepMind AGI paper adds urgency to ethical AI",
       "excerpt": "DeepMind expects reinforcement learning will lead to replicating human cognitive abilities, achieving artificial general intelligence (AGI).",
@@ -1162,58 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows.md",
-      "title": "Tesla Full Self-Driving v9 beta update slips to next week, monthly subscription model follows",
-      "excerpt": "Elon Musk is again updating the timeline for Tesla’s new Full Self-Driving v9 beta update, which is apparently now slipping to next week. Tesla’s new FSD subscription model should follow at the same time.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/",
-      "originalUrl": "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/",
-      "publishedDateTime": "2021-06-25T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

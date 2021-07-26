@@ -2,6 +2,57 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-06-10-the-bot-revolution-stalls-as-ai-is-difficult-to-scale.md",
+      "title": "The Bot Revolution Stalls As AI Is Difficult To Scale",
+      "excerpt": "When a company can evaluate and quantify the impact of automation, it can identify why the AI was or wasn’t successful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bfd681bb1be6b81e45c9fe%2F0x0.jpg",
+          "width": 1200,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/amp/",
+      "publishedDateTime": "2021-06-10T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-vivaldis-launching-an-email-client-rss-reader-and-translation-tool.md",
       "title": "Vivaldi’s launching an email client, RSS reader, and translation tool",
       "excerpt": "Vivaldi is launching new tools, including an email client, a calander app, a feed reader, and a translation tool with its browser update.",

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/22/deepmind-open-sources-protein-str
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/deepmind-open-sources-protein-structure-dataset-generated-by-alphafold-2/amp/"
 type: article
 quality: 188
-heat: 338
+heat: 348
 published: true
 
 provider:
@@ -194,6 +194,20 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb0859926-ebb8-11eb-baaa-861dba20d87a.jpg?crop=4167%2C2344%2C0%2C0&resize=685"
         width: 685
         height: 385
+        isCached: true
+  - title: "Google’s DeepMind opens ‘breakthrough’ protein database to the world"
+    excerpt: "London-headquartered artificial intelligence (AI) company DeepMind has opened a database to the world that maps 98.5% – approximately 20,000 – proteins in the human body, marking a ‘transformative’ moment for the scientific community."
+    publishedDateTime: 2021-07-26T11:51:00Z
+    webUrl: "https://www.pmlive.com/pharma_news/googles_deepmind_opens_breakthrough_protein_database_to_the_world_1373638"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 39
+    images:
+      - url: "https://www.pmlive.com/__data/assets/image/0012/1202124/Robot.JPG"
+        width: 500
+        height: 322
         isCached: true
   - title: "Alphabet firm DeepMind releases massive database of 3D protein structures"
     excerpt: "DeepMind has used its highly accurate deep learning model AlphaFold2 to predict the 3D structure of 350,000 proteins."

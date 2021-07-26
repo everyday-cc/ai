@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "BeachBot, an AI-powered robot that cleans cigarette butts at the beach"
+    excerpt: "BeachBot — BB for short — the robot uses artificial intelligence to find the cigarette butts and to learn the best way to pick them up. the AI-based detection algorithm was created by TechTics (a consultancy based in the hague founded by bos and lukaart) and students from delft university of technology,"
+    publishedDateTime: 2021-07-26T10:30:00Z
+    webUrl: "https://www.designboom.com/technology/beachbot-robot-cleans-cigarette-butts-beach-07-26-2021/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 54
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2021/07/project-bb-cigarette-butt-cleaning-robot-beach-designboom-fb.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Machine Learning Software Market to See Huge Growth by 2026: Microsoft,IBM, Google"
     excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/20/2021 — The Global Machine Learning Software Market has witnessed continuous growth in the past few years and may grow further during the forecast period (2021-2026)."
     publishedDateTime: 2021-07-23T01:12:00Z
