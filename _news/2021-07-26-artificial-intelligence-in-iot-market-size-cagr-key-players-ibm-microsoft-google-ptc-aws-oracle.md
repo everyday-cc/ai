@@ -34,48 +34,6 @@ related:
         width: 884
         height: 543
         isCached: true
-  - title: "KnowledgeLake Now Supports Microsoft Azure Government"
-    excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
-    publishedDateTime: 2021-07-21T15:34:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/KnowledgeLake-Now Supports-Microsoft-Azure-Government-148070.aspx"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 54
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
-  - title: "KnowledgeLake provides support for Microsoft Azure Government"
-    excerpt: "Public sector organizations can leverage the KnowledgeLake platform to manage content and data residing within the Microsoft Azure Government-dedicated cloud environment"
-    publishedDateTime: 2021-07-21T16:20:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148082"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 54
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-        width: 772
-        height: 594
-        isCached: true
-  - title: "KnowledgeLake Intelligent Document Processing Platform Supports Microsoft Azure Government"
-    excerpt: "KnowledgeLake, a leading provider of intelligent document capture and processing solutions, today announced the company's customers now have the ability to leverage"
-    publishedDateTime: 2021-07-21T13:00:00Z
-    webUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/knowledgelake-intelligent-document-processing-platform-supports-microsoft-azure-government/article_c87cc6a5-396b-59b5-b766-085c6709d81d.html"
-    type: article
-    provider:
-      name: Marietta Daily Journal
-      domain: mdjonline.com
-    quality: 44
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/8e14a090-8f54-11e7-9a2a-7f0e56ddb42e.jpg"
-        width: 1920
-        height: 1281
-        isCached: true
 
 secured: "TKuUYJSIA9djJgrGFdDSArGxDgNfV8ccBZV603jPctymtHjW/m9vD5dNcJZ1yzh55TySnBh5gZG+cG22u0Yh1VQwEYWIdbA4b7XPqZIbVP8pjUbCuHyuvM3jD9sfkHEuph0aXbovPRIQxhXdRvCsxWa1jdIjfIXmANx3TTw1r9o2XQcKfbg51AzN/WwlyY2ipoOkJLyg9LSS9QX/tYz0zAxtAytWhVUC5dnp8fl16bWE9TSlau53hRU6XYMIkajkIkfdY2y8qqf90KXS7WsPwFPD6AvZeBZVKvb1OLzZfzKCEPOxmsJOAdy8ARfkGyVY003L9cRfFlmPPA3ljkkVY0pNN64FSgm6WqBLC0ttbMXc/DPiZzhkf/+tTsVkz9YRzYBLBmbTZ13ggu3GGbJ6lOAdVhXR6rcqi2hLw44RlRVcxjE3ofT0dpLsSXZ36rtEXaJxIeHAEhJGIUcudDSMR6T+qce8J80tBzWtjQQkHddvtzl+IgQto/GRdfSPQ9htiRGhIJz0g8j29BYpE9fy1Q==;OxcGh7Z7maK9CPwAeDXuuQ=="
 ---

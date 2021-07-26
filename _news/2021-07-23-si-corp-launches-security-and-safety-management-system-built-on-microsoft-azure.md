@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 126
+published: true
 
 provider:
   name: Associated Press
@@ -26,19 +26,49 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure Sentinel vs Darktrace Enterprise Immune System: Who's on top in AI security?"
-    excerpt: "Microsoft uses AI to operate a traditional SIEM, but Darktrace takes a very different approach to threat hunting"
-    publishedDateTime: 2021-07-21T10:37:00Z
-    webUrl: "https://www.computing.co.uk/analysis/4034785/microsoft-vs-darktrace-ai-security"
+  - title: "Microsoft Buys CloudKnox To Boost Cybersecurity, Cloud Protection"
+    excerpt: "Microsoft has acquired CloudKnox Security, boosting its commitment to cybersecurity, the company announced in a Wednesday (July 21) blog post. CloudKnox has the ability to help companies right-size permissions,"
+    publishedDateTime: 2021-07-21T22:12:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
     type: article
     provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 75
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
     images:
-      - url: "https://www.computing.co.uk/api/v1/wps/535962a/99c600ff-a243-4757-83a2-08a8bf82b2f8/2/Darktrace-vs-Microsoft-370x229.png"
-        width: 370
-        height: 229
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/microsoft-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "KnowledgeLake Now Supports Microsoft Azure Government"
+    excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
+    publishedDateTime: 2021-07-21T15:34:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/KnowledgeLake-Now Supports-Microsoft-Azure-Government-148070.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 54
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
+  - title: "KnowledgeLake provides support for Microsoft Azure Government"
+    excerpt: "Public sector organizations can leverage the KnowledgeLake platform to manage content and data residing within the Microsoft Azure Government-dedicated cloud environment"
+    publishedDateTime: 2021-07-21T16:20:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148082"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 54
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
+        width: 772
+        height: 594
         isCached: true
   - title: "Vectra AI Partners with Microsoft on Zero Trust Security Framework"
     excerpt: "Vectra AI, a leader in threat detection and response, today announced that the Vectra Cognito platform delivers key Zero Trust capabilities for Microsoft 365 and Microsoft Azure customers. Vectra is uniquely positioned as an integral part of the model which assumes breaches by investigating the behavior of users,"
@@ -49,6 +79,29 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
+  - title: "KnowledgeLake Intelligent Document Processing Platform Supports Microsoft Azure Government"
+    excerpt: "KnowledgeLake, a leading provider of intelligent document capture and processing solutions, today announced the company's customers now have the ability to leverage"
+    publishedDateTime: 2021-07-21T13:00:00Z
+    webUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/knowledgelake-intelligent-document-processing-platform-supports-microsoft-azure-government/article_c87cc6a5-396b-59b5-b766-085c6709d81d.html"
+    type: article
+    provider:
+      name: Marietta Daily Journal
+      domain: mdjonline.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/8e14a090-8f54-11e7-9a2a-7f0e56ddb42e.jpg"
+        width: 1920
+        height: 1281
+        isCached: true
+  - title: "Microsoft acquires CloudKnox Security to offer unified privileged access and cloud entitlement management"
+    excerpt: "Helping organizations strengthen cloud security and Zero Trust. At Microsoft, we are committed to supporting organizations in their digital transformation and helping them to deli"
+    publishedDateTime: 2021-07-21T15:33:00Z
+    webUrl: "https://www.publicnow.com/view/5F7F1FD999BBB9434A26A6E22457EFC48F240BB2"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 19
 
 secured: "FZnaxCG8GOnHMznNDoF2wAt25qHU/NAc7I1JWEplmAEr9jLsHhf/hQ8sNqFV4myCwfQZTO2n95eokghKXHPeECLqS2zwfcAPFoUzcnBvwvLKhUgNS/JCWnP2r0a3FKkDxYvxOnUoauTFGw0cHXuOqvD0G3hMBI6yuzKps5LF1hyLA1daSW13juFNPNylX6PgItaFSG+z1oUic0ja8MII6M20MbQAfcjKCDqz+y1UUgt29SD480lw551AGDAPKUDOZ9vsEq2TQl40fRwUxnvExur6ZsFKuBXHwVm4SZrlFRZiAongK2aSNSuRD/VS66p/yp10ajfcgwek/EdFyN3zbng45WtGG50plHx9UAJeu0A=;/rZbVhg3WsBjKJitlvm2qg=="
 ---

@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-09-correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-713.md",
+      "title": "CORRECTING and REPLACING Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13",
+      "excerpt": "Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13 (instead of Artificial Intelligenc",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210708005816/en/CORRECTING and-REPLACING-Artificial-Intelligence-Leader-DataRobot-to-Host-Morgantown-Job-Fair-Tuesday-713",
+      "originalUrl": "https://www.businesswire.com/news/home/20210708005816/en/CORRECTING and-REPLACING-Artificial-Intelligence-Leader-DataRobot-to-Host-Morgantown-Job-Fair-Tuesday-713",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-recycling-using-artificial-intelligence-and-robotics.md",
       "title": "Recycling using artificial intelligence and robotics",
       "excerpt": "Abhijeet Ghosh, 6th Grade, Dodgen Middle School, Marietta, Georgia, student looks to recycle waste using artificial intelligence (AI) and robotics. Abhijeet is very keen on recycling. Recycling reduces waste,",
@@ -1380,49 +1414,6 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
-      "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
-      "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "originalUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/carlos-arturo_torres.png",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -29,8 +29,8 @@ images:
 related:
   - title: "Grieving man, 33, uses AI chatbot to bring girlfriend 'back from the dead'"
     excerpt: "Freelance writer Joshua Barbeau, 33, from Bradford in Canada, lost Jessica Pereira in 2012 when she succumbed to a rare liver disease."
-    publishedDateTime: 2021-07-25T21:10:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9824013/Grieving-man-33-uses-AI-chatbot-bring-girlfriend-dead.html?fbclid=IwAR3-bnkgs324QZiTUMVNgI6e0GTX59wzgaZv2-6M8xVmjkLAvsdGYzc-qnU"
+    publishedDateTime: 2021-07-25T23:21:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9824013/Grieving-man-33-uses-AI-chatbot-bring-girlfriend-dead.html"
     ampWebUrl: "https://www.dailymail.co.uk/news/article-9824013/amp/Grieving-man-33-uses-AI-chatbot-bring-girlfriend-dead.html"
     cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9824013/amp/Grieving-man-33-uses-AI-chatbot-bring-girlfriend-dead.html"
     type: article

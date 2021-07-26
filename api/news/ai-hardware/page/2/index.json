@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-08-qualcomm-technologies-vp-talks-about-ai-edge-solutions-that-are-galvanizing-the-market.md",
+      "title": "Qualcomm Technologies VP talks about AI edge solutions that are galvanizing the market",
+      "excerpt": "Qualcomm VP Mike Vildibill talks about about the explosive demand for AI inferencing in the cloud and innovative cloud-to-edge AI solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/",
+      "originalUrl": "https://venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Mike-Vildibill-Headshot1-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/amp/",
+      "publishedDateTime": "2021-07-07T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-anyvision-raises-235m-for-access-point-ai-based-physical-security.md",
       "title": "AnyVision Raises $235M for Access Point AI-Based Physical Security",
       "excerpt": "Access Point AI also helps with occupancy analytics ... software development kits and software onto edge-devices such as smart cameras, bodycams and chips, improving video analytics systems with respect to speed, security, affordability, flexibility ...",
@@ -1358,61 +1410,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-deepmind-agi-paper-adds-urgency-to-ethical-ai.md",
-      "title": "DeepMind AGI paper adds urgency to ethical AI",
-      "excerpt": "DeepMind expects reinforcement learning will lead to replicating human cognitive abilities, achieving artificial general intelligence (AGI).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/",
-      "publishedDateTime": "2021-06-26T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics",
-        "Google AI",
-        "AI Hardware"
       ]
     }
   ],

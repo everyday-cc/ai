@@ -105,7 +105,7 @@
       "originalUrl": "https://www.cnet.com/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -146,6 +146,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-robots-take-the-wheel-lyft-to-offer-driverless-rides-in-austin-next-year.md",
+      "title": "Robots take the wheel: Lyft to offer driverless rides in Austin next year",
+      "excerpt": "Austin will be one of the first markets to offer autonomous ride-hailing options through a partnership between Lyft, Ford and Argo AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statesman.com/story/business/2021/07/23/robots-take-wheel-lyft-offer-driverless-rides-austin-next-year/8058042002/",
+      "originalUrl": "https://www.statesman.com/story/business/2021/07/23/robots-take-wheel-lyft-offer-driverless-rides-austin-next-year/8058042002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/22/NAAS/def4af00-1044-45e0-8c46-e92a92bca497-Lyft-Argo-Ford_AV_Escape_Hybrid_02.jpg?auto=webp&crop=7359,4140,x0,y376&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.statesman.com/amp/8058042002",
+      "cdnAmpWebUrl": "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8058042002",
+      "publishedDateTime": "2021-07-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -254,19 +298,19 @@
       ]
     },
     {
-      "path": "_news/2021-07-21-self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws.md",
-      "title": "Self-Driving Cars That Snitch On Human Drivers For Bending Or Breaking Driving Laws",
-      "excerpt": "Self-driving cars are able to record the driving scene, of which they can detect when human drivers nearby violate the driving laws, and some say they will become snitches.",
+      "path": "_news/2021-07-22-ford-teams-with-lyft-argo-ai-for-self-driving-ride-shares-this-year.md",
+      "title": "Ford Teams With Lyft, Argo AI For Self-Driving Ride-Shares This Year",
+      "excerpt": "Ford Escape ride-share vehicles will launch this year in Miami. These self-drivers will still have \"safety drivers\" behind the wheel.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/",
+      "webUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/",
+      "originalUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 439,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b612298c27be03c873e4b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6030%26cropY1%3D478%26cropY2%3D3870",
+          "url": "https://www.forbes.com/wheels/wp-content/uploads/2021/07/Ford-Lyft-Argo-self-drive-1200px.jpg",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -276,9 +320,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/amp/",
-      "publishedDateTime": "2021-07-21T08:30:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp",
+      "publishedDateTime": "2021-07-21T15:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -301,8 +345,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1393,49 +1437,6 @@
       "provider": {
         "name": "Asia One",
         "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-infosys-ceo-vishal-sikka-unveils-first-indigenously-built-driverless-vehicle.md",
-      "title": "Infosys CEO Vishal Sikka Unveils First Indigenously-Built Driverless Vehicle",
-      "excerpt": "CEO & Managing Director of Infosys, Vishal Sikka showcased a futuristic driverless cart at a ... developments in emerging fields like artificial intelligence and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/infosys-driverless-vishal-sikka/",
-      "originalUrl": "https://inc42.com/buzz/infosys-driverless-vishal-sikka/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2017/07/DEq05w_VwAAli88.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/infosys-driverless-vishal-sikka/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/infosys-driverless-vishal-sikka/amp/",
-      "publishedDateTime": "2021-07-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
         "images": null,
         "publishers": null,
         "authors": null

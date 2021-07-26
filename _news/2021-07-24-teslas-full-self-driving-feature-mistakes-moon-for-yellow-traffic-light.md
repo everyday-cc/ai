@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla lowers the price of its 'Full Self-Driving' computer upgrade"
-    excerpt: "After criticism from owners, Tesla has reduced the price of a computer update required for its new \"Full Self-Driving\" (FSD) feature.."
-    publishedDateTime: 2021-07-21T09:44:00Z
-    webUrl: "https://www.engadget.com/tesla-reduces-the-price-of-its-full-self-driving-computer-upgrade-by-500-091157676.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-07/4f3f33d0-e9fa-11eb-bff7-1a51b889584d"
-        width: 1400
-        height: 800
-        isCached: true
   - title: "Tesla just lowered the price of the ‘Full Self Driving’ hardware upgrade"
     excerpt: "Tesla has reduced the price of the ‘Full Self Driving’ upgrade necessary for older Tesla models to use the new FSD subscription service. It’ll now cost $1,000, instead of $1,500. This is likely in response to criticism from Tesla owners who were asked to pay for the upgrade."
     publishedDateTime: 2021-07-22T07:00:00Z

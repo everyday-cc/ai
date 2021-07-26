@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-26-commercial-ai-powered-nlp-chatbot-by-cimb-now-available-to-malaysian-smes.md",
+      "title": "Commercial AI-powered NLP chatbot by CIMB now available to Malaysian SMEs",
+      "excerpt": "NLP, a sub-set of AI, has applications in many customer service-heavy sectors. Should SMEs consider using this technology?",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/07/commercial-ai-powered-nlp-chatbot-by-cimb-now-available-to-smes-in-malaysia/",
+      "originalUrl": "https://techwireasia.com/2021/07/commercial-ai-powered-nlp-chatbot-by-cimb-now-available-to-smes-in-malaysia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/07/000_1QA53U-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/07/commercial-ai-powered-nlp-chatbot-by-cimb-now-available-to-smes-in-malaysia/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/commercial-ai-powered-nlp-chatbot-by-cimb-now-available-to-smes-in-malaysia/",
+      "publishedDateTime": "2021-07-25T19:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-cloudmile-raised-us10-million-to-open-up-the-ai-and-cloud-market-in-malaysia.md",
       "title": "CloudMile raised US$10 million to open up the AI and cloud market in Malaysia",
       "excerpt": "CloudMile, Asia's leading cloud and AI company, announced today that it has successfully raised US$10 million in Series B funding to open up the AI and cloud market in Malaysia. Since CloudMile's establishment in 2017,",
@@ -201,7 +245,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-spot-sunken-ships-from-sky-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -347,7 +391,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/24/deadline-2024-why-you-only-have-3-years-left-to-adopt-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -555,7 +599,7 @@
       "originalUrl": "https://arstechnica.com/gadgets/2021/07/researches-demonstrate-that-malware-can-be-hidden-inside-ai-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -657,7 +701,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ai-can-add-bias-to-hiring-practices-one-company-found-another-way/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -950,7 +994,7 @@
       "originalUrl": "https://www.cnet.com/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1042,6 +1086,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-robots-take-the-wheel-lyft-to-offer-driverless-rides-in-austin-next-year.md",
+      "title": "Robots take the wheel: Lyft to offer driverless rides in Austin next year",
+      "excerpt": "Austin will be one of the first markets to offer autonomous ride-hailing options through a partnership between Lyft, Ford and Argo AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statesman.com/story/business/2021/07/23/robots-take-wheel-lyft-offer-driverless-rides-austin-next-year/8058042002/",
+      "originalUrl": "https://www.statesman.com/story/business/2021/07/23/robots-take-wheel-lyft-offer-driverless-rides-austin-next-year/8058042002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/22/NAAS/def4af00-1044-45e0-8c46-e92a92bca497-Lyft-Argo-Ford_AV_Escape_Hybrid_02.jpg?auto=webp&crop=7359,4140,x0,y376&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.statesman.com/amp/8058042002",
+      "cdnAmpWebUrl": "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8058042002",
+      "publishedDateTime": "2021-07-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1146,102 +1234,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-global-deep-learning-marketpotential-segments-their-contribution-to-market-size-amazon-web-services-aws-google-ibm.md",
-      "title": "Global Deep Learning market:Potential Segments & their Contribution to Market Size |Amazon Web Services (AWS), Google, IBM",
-      "excerpt": "Global Deep Learning Market Overview The latest report up for sale by QY Research demonstrates that the global Deep Learning market is likely to garner a great pace in the coming years Analysts have scrutinized the market drivers confinements risks",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2335814/global-deep-learning-market-potential-segments-their",
-      "originalUrl": "https://www.openpr.com/news/2335814/global-deep-learning-market-potential-segments-their",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U723273164_g.jpg",
-          "width": 800,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2335814/global-deep-learning-market-potential-segments-their",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2335814/global-deep-learning-market-potential-segments-their",
-      "publishedDateTime": "2021-07-23T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model.md",
-      "title": "Is Your AI Ethical? Three Ways To Bake Impact Into Your Business Model",
-      "excerpt": "By taking the necessary steps to establish standard practices for its creation and implementation now, we can ensure AI is developed safely and used for good for years to come.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e307158096349ee8effd21%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/amp/",
-      "publishedDateTime": "2021-07-23T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

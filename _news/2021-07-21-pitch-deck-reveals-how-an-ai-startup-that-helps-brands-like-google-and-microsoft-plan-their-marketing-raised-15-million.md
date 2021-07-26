@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-startup-blueocean-raised-15-mil
 webUrl: "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "SPIN Analytics and RISKROBOT, Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SPIN Analytics, today announced the availability of RISKROBOT ™ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2021-07-21T11:00:00Z
-    webUrl: "https://www.financialbuzz.com/spin-analytics-and-riskrobot-now-available-in-the-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 45
 
 secured: "EEHU3rcHsVD4BEfyjChmxK053XlQNNeb88TtwrWWio2TE1Sb7RrszNuIq61Obf2MqCUODauHvU0rtm0MCtWb4DTVm2uF0jZSWGJAK6wtp7nz95tLVP/XYDCeTBjXnpPysKv/pyJgCgWEmWX8pYkZO5AuAYO3QpSp+WgN66g/Yb+SKDgFoM3w7HFsE4hW9NwOECB+el8w+TCBUmb7jK6+4k/V8523y9izErBkYv1nrSMayoRYKSDEor8Al7FPsrO+gdCZZNl3nrlDOBbBKqDCZSortUziZJtW8LhsYeidwOxFmWwBleJBGFpD49xABZvRT3mLOs8qpHsKc8n7OnaRofY1imiVrzkT0AthC7cJoAF3N+hCg16purBG+RGTpu5LuViQoFphJa+iUo8eyDplVphNS2xhXjqt/+gapN3qPr+NTvqy0BLYxSoJkkisBJWz6t6iQCWI5h99BB/uP3CkwVCQjXo+K5tjUfqHeJ5PXoIH5x/VcgEfPbDnlHr7g8ixHv6j7MUP6la2mjI58jSXtg==;l4JLlXzE7YfYJqZr2JXdvw=="
 ---

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-23-si-corp-launches-security-and-safety-management-system-built-on-microsoft-azure.md",
+      "title": "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure",
+      "excerpt": "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-storai-teams-with-toshiba-global-to-advance-online-grocery-shopping.md",
       "title": "stor.ai Teams With Toshiba Global To Advance Online Grocery Shopping",
       "excerpt": "End-to-end digital grocery solution stor.ai is expanding its partnership with retail store technology firm Toshiba Global Commerce Solutions to offer an integrated tool to help eCommerce businesses. “With eCommerce growing at breakneck speeds,",
@@ -45,49 +89,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-22-microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection.md",
-      "title": "Microsoft Buys CloudKnox To Boost Cybersecurity, Cloud Protection",
-      "excerpt": "Microsoft has acquired CloudKnox Security, boosting its commitment to cybersecurity, the company announced in a Wednesday (July 21) blog post. CloudKnox has the ability to help companies right-size permissions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/",
-      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/microsoft-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/",
-      "publishedDateTime": "2021-07-21T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-21-pitch-deck-reveals-how-an-ai-startup-that-helps-brands-like-google-and-microsoft-plan-their-marketing-raised-15-million.md",
       "title": "Pitch deck reveals how an AI startup that helps brands like Google and Microsoft plan their marketing raised $15 million",
       "excerpt": "BlueOcean was founded by ad agency vets to automate and simplify market research.",
@@ -96,7 +97,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -254,7 +255,7 @@
       "originalUrl": "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 70,
       "tags": null,
       "images": [
         {

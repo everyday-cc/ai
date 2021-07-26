@@ -2,9 +2,9 @@
 category: news
 title: "Grieving man, 33, uses AI chatbot to bring girlfriend 'back from the dead'"
 excerpt: "Freelance writer Joshua Barbeau, 33, from Bradford in Canada, lost Jessica Pereira in 2012 when she succumbed to a rare liver disease."
-publishedDateTime: 2021-07-25T21:10:00Z
-originalUrl: "https://www.dailymail.co.uk/news/article-9824013/Grieving-man-33-uses-AI-chatbot-bring-girlfriend-dead.html?fbclid=IwAR3-bnkgs324QZiTUMVNgI6e0GTX59wzgaZv2-6M8xVmjkLAvsdGYzc-qnU"
-webUrl: "https://www.dailymail.co.uk/news/article-9824013/Grieving-man-33-uses-AI-chatbot-bring-girlfriend-dead.html?fbclid=IwAR3-bnkgs324QZiTUMVNgI6e0GTX59wzgaZv2-6M8xVmjkLAvsdGYzc-qnU"
+publishedDateTime: 2021-07-25T23:21:00Z
+originalUrl: "https://www.dailymail.co.uk/news/article-9824013/Grieving-man-33-uses-AI-chatbot-bring-girlfriend-dead.html"
+webUrl: "https://www.dailymail.co.uk/news/article-9824013/Grieving-man-33-uses-AI-chatbot-bring-girlfriend-dead.html"
 ampWebUrl: "https://www.dailymail.co.uk/news/article-9824013/amp/Grieving-man-33-uses-AI-chatbot-bring-girlfriend-dead.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9824013/amp/Grieving-man-33-uses-AI-chatbot-bring-girlfriend-dead.html"
 type: article
@@ -44,6 +44,6 @@ related:
         height: 382
         isCached: true
 
-secured: "nIqWaGq7+HOwVhZ82KI4kgdI1wHFRhNrSAt8ugklB7XEr9i+TeXSF7HJUaKl8G/Jk4sMEX2pXhAFroxYP/73dTPWfPR8ztLqjgQTRGzRy27sW7V3nCCmZQehVyu6CPShiu2Gi+OO+L6y/HhGRKc26jXKEjTPuvljaWfmKlJVk78kPTSzEe2lRCCnqydU4b7zX3s7Yr1oMmXo3P7lZzJ5UrjkM/+OHf7R1BARghOMhEQskhMxFpCUteOKvGibIcYy+k5mNTkTisUJ7s/8C98jMH0qZiP4QVhk8F/1VKJZF1ooK6q5K6qbXg/6h4QSScnNi5Gwoy8plDZuAGrDkxveP+7DZzhBHy51zWPHOVKMhhrkqaLgNlfNno/pDF/QSZ0nU8m5NwNd+B7klaaRD0aEy20KggPLCJlC24fjA/OJDIsDdVhbRdg0JHLZbF6SbLbA+/iCtIk9d7nfy2MWjyfWZLbRJoH5GK16xgGOzKPNYm5jrEmlEv0KMV3qVWLtYCraOFpWchw04itp3IavbDdh+g==;1xif8kIz1Yt3KH+b1BRaaQ=="
+secured: "BkdXLVwe5f6s0tyYflCl5kXVxBfsvbIYmdyMBusOBSsAd6og0k/XjJ6RDwJFnOCo6JW1lbjZDXfXCRYe9qq1n142rTTOurosH5by0zo5Z/H8Xhqqazb4tVQ3plhhR8L6fc92wGXle4FsmUVAvqhmc8rFve8olR58uhhQM+dwbeqXhsOk0E1VpxqcPa5H8fu1+mJvg1YonoOcPYxJQsZNUMqkyIaipe2sX3gWx+KHM1MuGiMLutBoOzpriDRt4qq+zx/BO4tB031zN4IlnG21YiqKik8vK3+JdtfR8R4wDVkiJFCwPUx85l+74tDkWNJTqmJd0ZaKIzfX9rJgX2/WjNTgC/4cYc9FFLZBGNOvqP8=;F/QakCHZyVls5ovQ5rgJ1w=="
 ---
 

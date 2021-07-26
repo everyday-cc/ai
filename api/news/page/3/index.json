@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-22-how-low-code-development-could-boost-ai-adoption.md",
+      "title": "How low-code development could boost AI adoption",
+      "excerpt": "Low-code options like Akkio aim to make AI much easier. Every company may want to put artificial intelligence to work, but most companies aren't blessed with the ability to hire battalions of data scientists –nor is that necessarily the right approach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-low-code-development-could-boost-ai-adoption/",
+      "originalUrl": "https://www.techrepublic.com/article/how-low-code-development-could-boost-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/12/31/cfe02e57-8256-4c99-8177-af9212d6cba4/resize/1200x/03b76fedaaaa195d3219d225e34f617f/istock-1000962622.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-low-code-development-could-boost-ai-adoption/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-low-code-development-could-boost-ai-adoption/",
+      "publishedDateTime": "2021-07-22T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-tc-energy-builds-an-intelligent-document-processing-workflow-to-process-over-20-million-images-with-amazon-ai.md",
+      "title": "TC Energy builds an intelligent document processing workflow to process over 20 million images with Amazon AI",
+      "excerpt": "This is a guest post authored by Paul Ngo, US Gas Technical and Operational Services Data Team Lead at TC Energy. TC Energy operates a network of pipelines, including 57,900 miles of natural gas and 3,000 miles of oil and liquid pipelines, throughout North America. TC Energy enables a stable network",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/tc-energy-builds-an-intelligent-document-processing-workflow-to-process-over-20-million-images-with-amazon-ai/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tc-energy-builds-an-intelligent-document-processing-workflow-to-process-over-20-million-images-with-amazon-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/21/TC-Energy.jpg",
+          "width": 800,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T08:06:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-ai-predicts-the-shapes-of-molecules-to-come.md",
+      "title": "A.I. Predicts the Shapes of Molecules to Come",
+      "excerpt": "DeepMind has given 3-D structure to 350,000 proteins, including every one made by humans, promising a boon for medicine and drug design.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/22/science/22SCI-PROTEINS1/22SCI-PROTEINS1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.amp.html",
+      "publishedDateTime": "2021-07-22T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-deepmind-open-sources-protein-structure-dataset-generated-by-alphafold-2.md",
       "title": "DeepMind open-sources protein structure dataset generated by AlphaFold 2",
       "excerpt": "DeepMind, in partnership with the European Bioinformatics Institute, has open-sourced a massive dataset of protein structure predictions.",
@@ -363,6 +518,48 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-prepare-for-ai-that-learns-to-code-your-enterprise-applications.md",
+      "title": "Prepare for AI that learns to code your enterprise applications",
+      "excerpt": "Today, about 70% of the work is all about the development of glue code and wiring things together. From the UI front end to the back end of apps, as well as in the integration layer, there are lots of repetitive tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/",
+      "originalUrl": "https://www.zdnet.com/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/",
+      "publishedDateTime": "2021-07-22T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -745,21 +942,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-22-microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection.md",
-      "title": "Microsoft Buys CloudKnox To Boost Cybersecurity, Cloud Protection",
-      "excerpt": "Microsoft has acquired CloudKnox Security, boosting its commitment to cybersecurity, the company announced in a Wednesday (July 21) blog post. CloudKnox has the ability to help companies right-size permissions,",
+      "path": "_news/2021-07-22-ford-teams-with-lyft-argo-ai-for-self-driving-ride-shares-this-year.md",
+      "title": "Ford Teams With Lyft, Argo AI For Self-Driving Ride-Shares This Year",
+      "excerpt": "Ford Escape ride-share vehicles will launch this year in Miami. These self-drivers will still have \"safety drivers\" behind the wheel.",
       "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/",
-      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/",
+      "webUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/",
+      "originalUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 439,
       "tags": null,
       "images": [
         {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/microsoft-457x274.jpg",
-          "width": 457,
-          "height": 274,
+          "url": "https://www.forbes.com/wheels/wp-content/uploads/2021/07/Ford-Lyft-Argo-self-drive-1200px.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -767,14 +964,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/",
-      "publishedDateTime": "2021-07-21T15:12:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp",
+      "publishedDateTime": "2021-07-21T15:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -783,8 +989,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1032,205 +1238,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-blueocean-raises-15m-to-measure-brand-sentiment-with-ai.md",
-      "title": "BlueOcean raises $15M to measure brand sentiment with AI",
-      "excerpt": "BlueOcean, a startup leveraging AI and machine learning to measure brand sentiment, has raised $15 million in capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/21/blueocean-raises-15m-to-measure-brand-sentiment-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/21/blueocean-raises-15m-to-measure-brand-sentiment-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/control.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/21/blueocean-raises-15m-to-measure-brand-sentiment-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/blueocean-raises-15m-to-measure-brand-sentiment-with-ai/amp/",
-      "publishedDateTime": "2021-07-21T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-pitch-deck-reveals-how-an-ai-startup-that-helps-brands-like-google-and-microsoft-plan-their-marketing-raised-15-million.md",
-      "title": "Pitch deck reveals how an AI startup that helps brands like Google and Microsoft plan their marketing raised $15 million",
-      "excerpt": "BlueOcean was founded by ad agency vets to automate and simplify market research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7",
-      "originalUrl": "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60f73547aa1f1f0012f687ce?width=700",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-re2-robotics-sapien-6m-arm-designed-for-outdoor-applications.md",
-      "title": "RE2 Robotics Sapien 6M arm designed for outdoor applications",
-      "excerpt": "The RE2 Sapien 6M robotic arm is being used by commercial and defense customers who require a mobile outdoor-rated arm for complex tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/re2-robotics-sapien-6m-arm-designed-outdoor-applications/",
-      "originalUrl": "https://www.therobotreport.com/re2-robotics-sapien-6m-arm-designed-outdoor-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/RE2Sapien6M-80lb-Lift.jpg",
-          "width": 600,
-          "height": 745,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws.md",
-      "title": "Self-Driving Cars That Snitch On Human Drivers For Bending Or Breaking Driving Laws",
-      "excerpt": "Self-driving cars are able to record the driving scene, of which they can detect when human drivers nearby violate the driving laws, and some say they will become snitches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b612298c27be03c873e4b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6030%26cropY1%3D478%26cropY2%3D3870",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/21/self-driving-cars-that-snitch-on-human-drivers-for-bending-or-breaking-driving-laws/amp/",
-      "publishedDateTime": "2021-07-21T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

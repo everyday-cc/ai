@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla lowers the price of its 'Full Self-Driving' computer upgrade"
-    excerpt: "After criticism from owners, Tesla has reduced the price of a computer update required for its new \"Full Self-Driving\" (FSD) feature.."
-    publishedDateTime: 2021-07-21T09:44:00Z
-    webUrl: "https://www.engadget.com/tesla-reduces-the-price-of-its-full-self-driving-computer-upgrade-by-500-091157676.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-07/4f3f33d0-e9fa-11eb-bff7-1a51b889584d"
-        width: 1400
-        height: 800
-        isCached: true
   - title: "Tesla's Full Self-Driving Feature Mistakes Moon For Yellow Traffic Light"
     excerpt: "We all know that werewolves and ocean tides are both impacted by the moon, but we can add another item to the list: Tesla’s Full Self-Driving feature, which is the company’s NHTSA Level 2 driver assistance feature."
     publishedDateTime: 2021-07-24T15:00:00Z

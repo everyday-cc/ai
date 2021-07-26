@@ -30,13 +30,13 @@ images:
 
 related:
   - title: "Lambda Raises $24.5M to Build GPU Cloud and Deep Learning Hardware"
-    excerpt: "Lambda, a leading provider of deep learning GPU cloud services and computing hardware, today announced that it has raised $24.5M in financing. Primary investors include 1517, Gradient Ventures, Bloomberg ( News - Alert) Beta,"
-    publishedDateTime: 2021-07-21T13:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-lambda-raises-245m-build-gpu-cloud-deep-learning-/2021/07/21/9414045.htm"
+    excerpt: "Lambda, a leading provider of deep learning GPU cloud services and computing hardware, today announced that it has raised $24.5M in financing. Primary investors include 1517, Gradient Ventures, Bloomberg Beta,"
+    publishedDateTime: 2021-07-21T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210721005232/en/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 51
   - title: "Enforcing Intelligent Learning-Based Security in the Internet of Everything"
     excerpt: "The exponential growth of the Internet of Everything (IoE), in recent times, has revealed many underlying security vulnerabilities of the nodes forming IoE networks. The extension of conventional security protocol to these devices has been greatly complicated by the prevalence of restricted computational hardware and limited battery life."

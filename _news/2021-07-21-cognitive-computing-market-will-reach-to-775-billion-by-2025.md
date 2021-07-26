@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2333993/cognitive-computing-market-will-r
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333993/cognitive-computing-market-will-reach-to-77-5-billion-by-2025"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,33 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
-    excerpt: "The global “Facial Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-07-21T09:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-21"
+  - title: "Fintech Market Forecast to Reach $161.2 Billion by 2026"
+    excerpt: "Focus of Companies on Cost Reduction and Improving Efficiency driving the growth of Fintech Market The Fintech Market forecast to reach $161.2 billion by 2026, growing at a CAGR of 8.7% from 2021 to 2026."
+    publishedDateTime: 2021-07-24T05:16:00Z
+    webUrl: "https://apnews.com/press-release/MarketersMEDIA/technology-business-data-privacy-98032e22e00cf8f3b6e6c872717bf5d7"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Analysis Shared In Comprehensive Survey Report With Forecast From 2021 Till 2027, Key Players -Keylemon NEC 3M IBM"
-    excerpt: "This global Facial Recognition Market study made available by Decisive Markets insights, looks both from the inside and from the outside, at the worldwide market, and aims to provide both an in-depth and broad picture of the market."
-    publishedDateTime: 2021-07-23T10:47:00Z
-    webUrl: "https://manometcurrent.com/facial-recognition-market-analysis-shared-in-comprehensive-survey-report-with-forecast-from-2021-till-2027-key-players-keylemon-nec-3m-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 4
-    images:
-      - url: "https://www.mccourier.com/wp-content/uploads/2021/06/300-x-300-pixel.jpg"
-        width: 300
-        height: 300
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "CzvpRtrUCwaSo9dJ3/VzdS8lHLyP9Id3fT1BdTwpBHbhkhQLEaiyL0m0imOjFCbmKz8Mg6OZ0xHBsnFzq5AFQr91emxRaFE9AXW8mMQD6w9Z72qeHPQbX7BAbspErDuEgHyd/Mz/1eEpnL/r7BZhmaUI7hsnPPPTfezlEdll1OSWGg9+qeR9MpGmdTxPx+u+Gh1muyid8ag8njl7bpLNkhsVqAJEL3cg4La+2/4IKBlIaUkdte37qD0BL7xyRMsfNez5prTAUeXVG7V5AasO30qwjmV+/aTEyvCg5foRjHsdJX13g3/WbXhTGFc1xL+uqXgIu7BVHCPJMUDneWYWNw//816lq40VRLmNtO9w8SuyJc4W3P2H7fJkBhmyXjB8kBV09f6eiuRPLnf3+6HfrRvfsUM4a50quv1jhBsTJUyQcTO1VAd+trxbg4gx9IPia5T9+9qUh6mxk1/NOAqJaYb0B2U7luqLAPsDAJXuIcR/sYhsVXfO/c6NZrDu9JyH7EGLaEgnKjxBDBG0RaAU3g==;0QkH/8taUvjeZ/jdbkK/iA=="

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-02-ajnifm-and-microsoft-are-collaborating-to-build-an-ai-coe.md",
+      "title": "AJNIFM and Microsoft are collaborating to build an AI CoE",
+      "excerpt": "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/",
+      "originalUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg",
+          "width": 736,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/",
+      "publishedDateTime": "2021-07-02T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-artificial-intelligence-advanced-machine-learning-market.md",
       "title": "Artificial Intelligence & Advanced Machine Learning Market",
       "excerpt": "product/service price, sales, and cost/profit. Demand & Supply and Effectiveness — Artificial Intelligence & Advanced Machine Learning report additionally provides distribution, Production ...",
@@ -1243,49 +1287,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-bme-and-bbf-fintech-to-stage-sustainable-finance-hackathon.md",
-      "title": "BME and BBF Fintech to stage sustainable finance hackathon",
-      "excerpt": "The first hackathon focused on the fintech and insurtech world at an international level, concentrating on sustainable finance, will be hosted in Bilbao. The ‘Hack & Disrupt!’ event will take place on 25,",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/technology-and-ai/bme-and-bbf-fintech-stage-sustainable-finance-hackathon",
-      "originalUrl": "https://fintechmagazine.com/technology-and-ai/bme-and-bbf-fintech-stage-sustainable-finance-hackathon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1205339069.jpg?itok=UKp6xhHf",
-          "width": 4096,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Lambda Raises $24.5M to Build GPU Cloud and Deep Learning Hardware"
-excerpt: "Lambda, a leading provider of deep learning GPU cloud services and computing hardware, today announced that it has raised $24.5M in financing. Primary investors include 1517, Gradient Ventures, Bloomberg ( News - Alert) Beta,"
-publishedDateTime: 2021-07-21T13:49:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-lambda-raises-245m-build-gpu-cloud-deep-learning-/2021/07/21/9414045.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-lambda-raises-245m-build-gpu-cloud-deep-learning-/2021/07/21/9414045.htm"
+excerpt: "Lambda, a leading provider of deep learning GPU cloud services and computing hardware, today announced that it has raised $24.5M in financing. Primary investors include 1517, Gradient Ventures, Bloomberg Beta,"
+publishedDateTime: 2021-07-21T13:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210721005232/en/"
+webUrl: "https://www.businesswire.com/news/home/20210721005232/en/"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI Hardware
+  - AI
+  - Machine Learning
 
 related:
   - title: "Fero Labs Raises $9 Million in Series A Financing to Bring Explainable Machine Learning to Industrial Manufacturing"
@@ -44,6 +44,6 @@ related:
       domain: ieee.org
     quality: 19
 
-secured: "/IbTVkOuEh9EoOK1cJ2vTz8dn7MI9zJCFJRP1rWvQkHwr8RNy5mETF+CY7+M69Gmpbv8b6CJSeS+PEgMg+NFEF5uwzemS/Q64zaN5AyVIHii1w+yEweDgkL+vDMp3zT4ebq9saHjKwGBNUtAYrNZQdCjux0zyjQHiqOzl5eFPVTnMjlm5O5+NY/gCtpuZP15dvsLHd4rxzF46W32B1cjd5ZRlSHmIjQz+kGsBuytXEaf9pNHE9gRsmIO5SeQ9wMh6skRcUPA6RiukZnqur/0eTIiJ4cgTOUrrwOmrel+UyFY7N22gVT275vftb6Q4QTnhsa505VTa3TBsnpsesoiaLPa26LJAE+f64WGy3BXg5A=;ylmaJHT2d92YIeBPar2yMQ=="
+secured: "WB7GQF43pMWX9/XAce2J3gAhdrxZbRZ6s2m4GoK7fNh5fMWfbw0qP+IIz3WrQdeKvfzDSkQebxie3yXRuECObWehtl9fDZ2lm8InS7Ly0WfDk1UFPt+wU2ESKRMRXbHGzUz4r+hfQiykQHnnEvqgLbvopp7neQEypnkU83tYHaebPBdaBf9TkUkFsBxoV0tZYugmWJ0Jz0zSvD4nPWyXetxSaLjdLQEESo+EoHi2yJBj+Y+hPagqeszJSBf6sUTFBR81rPSxdcpxr2ZnqMoYhiQGkCktffkT/+sH2qf9o95hzKECM0ZPZlBjfgs7ahWXCtbwzLeJAQNIkhJDxVYE1djGl3w+gS1kkHQpDwQHP+E=;9JFRrQO2CogKwATjfnIqZA=="
 ---
 

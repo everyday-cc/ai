@@ -82,20 +82,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Fintech Market Forecast to Reach $161.2 Billion by 2026"
-    excerpt: "Focus of Companies on Cost Reduction and Improving Efficiency driving the growth of Fintech Market The Fintech Market forecast to reach $161.2 billion by 2026, growing at a CAGR of 8.7% from 2021 to 2026."
-    publishedDateTime: 2021-07-24T05:16:00Z
-    webUrl: "https://apnews.com/press-release/MarketersMEDIA/technology-business-data-privacy-98032e22e00cf8f3b6e6c872717bf5d7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "New FinTech Innovations that Will Change How Clients View Wealth Management"
     excerpt: "Innovations within FinTech are causing major changes to the dynamic between clients and wealth management providers. With technology as a driving force behind industry changes, understanding how client perspectives are shifting is crucial."
     publishedDateTime: 2021-07-23T19:42:00Z

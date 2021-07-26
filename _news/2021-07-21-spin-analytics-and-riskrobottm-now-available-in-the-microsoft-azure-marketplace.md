@@ -62,15 +62,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "SPIN Analytics and RISKROBOT, Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SPIN Analytics, today announced the availability of RISKROBOT ™ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2021-07-21T11:00:00Z
-    webUrl: "https://www.financialbuzz.com/spin-analytics-and-riskrobot-now-available-in-the-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 45
 
 secured: "ygOch+BxVljyveNrNAwUS57PLOM27FX/qsZ/Rk/Yvg3bwsU/4ppLyKXoag+lEO4aW9XU9If/zrLUn1+7zH8oQ+qmVb9TFartBfXP33E2rAU68IAknt/l7tWjQ2Q+bHEcz1HjJEb0jed+GtOsUusxJKw1bEzePTa2OS+wCq3z0QYJhEN+fnqlH5GtlFZ4ueYzlOEMQJYwll+QaXTTu4kmA2tez9RYfijl348XzdxRag7NkcFdgAvrB7AXCtrHx5SUAwifoeZUQ/+Kz972Gq/zA6VRd1CJUQXcTsdCJ6NEICecIe0lJKITTznofY6B34iTa6rXHzJN6Ca/xC9KV5Wvwd/ygBXYp7G/FDl6qdAAvys=;OqR+WOjPQzrQuFRfWp7Hng=="
 ---

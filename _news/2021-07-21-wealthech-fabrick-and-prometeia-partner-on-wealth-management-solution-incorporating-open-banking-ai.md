@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-an
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Prometia and Fabrick apply Open banking and AI to launch new digital wealth platform"
-    excerpt: "Fabrick, a leading Italian fintech company which operates internationally to promote Open Finance, and Prometeia, a consulting, software and research company that is a market leader in solutions for risk and wealth management,"
-    publishedDateTime: 2021-07-21T10:50:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88644/prometia-and-fabrick-apply-open-banking-and-ai-to-launch-new-digital-wealth-platform"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 47
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Prometeia and Fabrick Partner to Launch New Digital Wealth Management Solution harnessing AI and Open Finance"
     excerpt: "Fabrick, a leading Italian fintech company which operates internationally to promote Open Finance, and Prometeia, a consulting, software and research company that is a market leader in solutions for risk and wealth management,"
     publishedDateTime: 2021-07-21T14:14:00Z

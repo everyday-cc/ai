@@ -82,20 +82,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Fintech Market Forecast to Reach $161.2 Billion by 2026"
-    excerpt: "Focus of Companies on Cost Reduction and Improving Efficiency driving the growth of Fintech Market The Fintech Market forecast to reach $161.2 billion by 2026, growing at a CAGR of 8.7% from 2021 to 2026."
-    publishedDateTime: 2021-07-24T05:16:00Z
-    webUrl: "https://apnews.com/press-release/MarketersMEDIA/technology-business-data-privacy-98032e22e00cf8f3b6e6c872717bf5d7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "5 Overvalued Growth Stocks to Avoid as Market Conditions Get More Bearish | Fintech Zoom"
     excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
     publishedDateTime: 2021-07-24T05:39:00Z
