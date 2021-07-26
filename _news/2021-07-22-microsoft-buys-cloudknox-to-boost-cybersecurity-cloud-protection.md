@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft acquires CloudKnox Security to enhance unified privileged access management"
+    excerpt: "Following the purchase of RiskIQ and ReFirm Labs, Microsoft has now acquired CloudKnox Security to offer unified privileged access and entitlement management in multi-cloud and hybrid environments."
+    publishedDateTime: 2021-07-22T01:38:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-acquires-cloudknox-security-to-enhance-unified-privileged-access-management/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 79
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2017/03/1490748311_mscloudsecurity_story.jpg"
+        width: 760
+        height: 430
+        isCached: true
   - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
     excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
     publishedDateTime: 2021-07-22T18:02:00Z
@@ -41,29 +55,20 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "KnowledgeLake provides support for Microsoft Azure Government"
-    excerpt: "Public sector organizations can leverage the KnowledgeLake platform to manage content and data residing within the Microsoft Azure Government-dedicated cloud environment"
-    publishedDateTime: 2021-07-21T16:20:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148082"
+  - title: "Microsoft acquires CIEM leader CloudKnox Security"
+    excerpt: "Microsoft is set to beef up its cloud security and entitlement management platform with the acquisition of CloudKnox."
+    publishedDateTime: 2021-07-21T22:03:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-acquires-cloudknox-security"
     type: article
     provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 54
+      name: On MSFT
+      domain: onmsft.com
+    quality: 56
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-        width: 772
-        height: 594
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/07/CloudKnox-Business-cropped.jpg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Microsoft acquires CloudKnox Security to offer unified privileged access and cloud entitlement management"
-    excerpt: "Helping organizations strengthen cloud security and Zero Trust. At Microsoft, we are committed to supporting organizations in their digital transformation and helping them to deli"
-    publishedDateTime: 2021-07-21T15:33:00Z
-    webUrl: "https://www.publicnow.com/view/5F7F1FD999BBB9434A26A6E22457EFC48F240BB2"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 19
 
 secured: "4eQJbDbdOvT9vS7vM+wzHcXq5nPMS8qutgOLWOhaM5cdAlfssmzIFGMVwDhMvEg148b/cnfHzqGgdW7ccyzI0AfqSgIQ0JhMcvfCLgQC0KicjHN4olaoTyb3EOZZjYEIgjfx8eGIZLRrB4xbG0q5bpDwbgKnhavECYmrUF5wYuDa1bM0CXUtEO9awWXKw1ipaaIA2iLEGsfB5Ejq6NsusstEoAPe6rlFON/IdgkHZhnRxxvhCH+hyQNvh3fSM0XZuquK4r7scO2VjUqr0OQtCQWwkcVL1UHdKAl8+oekAWrhLi7yDdhZjp1eAqwiMOmUw78rrmIvoM8IfYAtFgBXLO7A+NECjxt6GZxYWAEZyhfuz2amCEU2z9dguy7pIKWYHlg1FCK+jehzX6vl0+/Exo23GVAxHwcFz99MBznnMV4EnL4fendfxzLS8c+jzkcKbA31vNbo8BBiSI8J4DJDY8+BZZy1uzgkGF3p3xLW5vbsBvJcC6xB9SWgJyIZPbGzJtxJf/4jIsTlegxxOWGwbQ==;bFHNpSKXU+cVZwG9qRqdFw=="
 ---

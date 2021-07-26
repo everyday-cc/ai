@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft-powered autonomous beach-cleaning robot is here to clean our shores"
-    excerpt: "A Dutch startup aims to rid beaches of cigarette butts, and Microsoft's artificial intelligence is helping the robot learn how to do it."
-    publishedDateTime: 2021-07-21T15:15:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/microsoft-autonomous-beach-cleaning-robot/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 103
-    images:
-      - url: "https://www.cnet.com/a/img/uFEX43607aFPkDv2GM04zBfSj68=/2021/07/21/015fc565-b217-46b4-9eb8-1ec97c805fd1/ogi-tech.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "People suck, so a robot with Microsoft AI has to pick up cigarette butts"
-    excerpt: "A robot that utilizes Microsoft AI is being used to clean up beaches. It uses machine learning to identify cigarette butts in the sand and then picks up the waste."
-    publishedDateTime: 2021-07-22T11:14:00Z
-    webUrl: "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts"
-    ampWebUrl: "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 90
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/07/cigarette-robot-project-bb-4-3_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microsoft acquires CloudKnox Security to enhance unified privileged access management"
     excerpt: "Following the purchase of RiskIQ and ReFirm Labs, Microsoft has now acquired CloudKnox Security to offer unified privileged access and entitlement management in multi-cloud and hybrid environments."
     publishedDateTime: 2021-07-22T01:38:00Z
@@ -72,82 +40,36 @@ related:
         width: 760
         height: 430
         isCached: true
-  - title: "Microsoft Buys Privileged Access Startup CloudKnox Security"
-    excerpt: "Microsoft has purchased CloudKnox Security to give organizations visibility into privileged access, right-size permissions and consistently enforce least-privilege principles with the aim of reducing risk."
-    publishedDateTime: 2021-07-21T17:01:00Z
-    webUrl: "https://www.crn.com/news/security/microsoft-buys-privileged-access-startup-cloudknox-security"
+  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
+    excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
+    publishedDateTime: 2021-07-22T18:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 56
+      name: Associated Press
+      domain: apnews.com
+    quality: 66
     images:
-      - url: "https://www.crn.com/resources/026b-12cf5263678e-f93691a052ad-1000/microsoft_sign.jpg"
-        width: 1500
-        height: 1124
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Beach Bot Is An Autonomous Robot Combing The Beach To Collect Cigarette Butts"
-    excerpt: "Together with his fellow entrepreneur Martijn Lukaart, the boy’s father, Edwin Bos, created the Beach Bot, an autonomous robot that combs beaches looking for cigarette butts in the sand using artificial intelligence."
-    publishedDateTime: 2021-07-23T00:34:00Z
-    webUrl: "https://www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/"
-    ampWebUrl: "https://www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/amp/"
+  - title: "Microsoft Buys CloudKnox To Boost Cybersecurity, Cloud Protection"
+    excerpt: "Microsoft has acquired CloudKnox Security, boosting its commitment to cybersecurity, the company announced in a Wednesday (July 21) blog post. CloudKnox has the ability to help companies right-size permissions,"
+    publishedDateTime: 2021-07-21T22:12:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 56
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/07/Beachbot-1024x555.jpg"
-        width: 1024
-        height: 555
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/microsoft-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
-    excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO). \"This is the perfect example of our client feedback loop in action,"
-    publishedDateTime: 2021-07-22T16:57:00Z
-    webUrl: "https://www.lelezard.com/en/news-19916035.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 53
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Machine Learning Software Market to See Huge Growth by 2026: Microsoft,IBM, Google"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/20/2021 — The Global Machine Learning Software Market has witnessed continuous growth in the past few years and may grow further during the forecast period (2021-2026)."
-    publishedDateTime: 2021-07-23T01:12:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-software-market-to-see-huge-growth-by-2026-microsoftibm-google"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 50
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Freedom-Day-England-AFP-1K-03-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Microsoft acquires CloudKnox Security"
-    excerpt: "Microsoft has acquired CloudKnox Security, a specialist in Cloud Infrastructure Entitlement Management (CIEM). CloudKnox provides visibility into privileged access. It helps organisations right-size permissions and consistently enforce least-privilege principles to reduce risk,"
-    publishedDateTime: 2021-07-22T13:02:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-acquires-cloudknox-security--1391163"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 36
-  - title: "Cloud Market Soars as IBM, Microsoft Build Out Services"
-    excerpt: "The cloud market remains hot, and some of the top providers, including IBM and Microsoft, are looking to add to the capabilities and services in their cloud offerings to make further inroads into enterprises and government agencies."
-    publishedDateTime: 2021-07-22T21:41:00Z
-    webUrl: "https://www.internetnews.com/infra/cloud-market-soars-as-ibm-microsoft-build-services.html"
-    type: article
-    provider:
-      name: Internetnews
-      domain: internetnews.com
-    quality: 21
 
 secured: "X5II/3+bucmbzIpPGR7DmNLiXfqumrksYFQ4p7ZCWei2QOU3KDUP/Rb1vGYOt3R5YCxkTf5hYt5L5SYoGH2yHhoemZ76NRKAj5SDFlyvb+Ts5fzdLFZOWfdg1yYxSvyLZNY2H6yQSEOvfhys2VPIFXytz+shi5zUIP2H4z2jFfkcgBGcxWbUqFBu3plCB5qzi5HBZB/EtuMBi7ZX7Ft574LwhlF4unSw+04uQB+Z/KyH/zqooHzwsYak+Y39b8QvFCHHA/ugFo/ysZdK00EI4Qsf6zw/iF1LwTsiF1mHn7IqqEVVKpuRYKrRDvycLQMDN71r0/1YXazOAK4INjEfjBBQzLQlVc9LoyN6ygpH/qkvdpUHi3EBrbLucGCTQDAMTyCTTpd+LnhPoXoHIqlWgkzCqg3kWCBfMPAeri+r/ayBgU7K5I7tFCKvECE2ToDUhXLVQwu+j0HuGN5Lk9QuOizoUoaYag29JcJLE9cEOph4u9RZE823au63OojhgrVSfYYIq4GJ/R1GNEUWSEzWIg==;Fuo26qFbczqU/x0jBEmGDA=="
 ---

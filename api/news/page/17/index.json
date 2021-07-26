@@ -2,6 +2,100 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-13-could-your-next-rental-car-be-a-robotaxi-t-mobile-teams-with-startup-for-5g-driverless-electric-car-service.md",
+      "title": "Could your next rental car be a robotaxi? T-Mobile teams with startup for 5G driverless electric car service",
+      "excerpt": "Autonomous and driverless car technology company Halo ... Halo equips the vehicles with an artificial intelligence-driven \"Advanced Safe Stop mechanism\" that automatically brings the cars to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/2021/07/08/t-mobile-startup-plan-driverless-rental-car-service/7887811002/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2021/07/08/t-mobile-startup-plan-driverless-rental-car-service/7887811002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/07/USAT/edba4e94-13cc-4888-921c-7d88a12d4f5d-21CM0192-05_060221_1604m.jpg?auto=webp&crop=6719,3779,x0,y341&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7887811002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7887811002",
+      "publishedDateTime": "2021-07-12T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-how-mastercard-is-using-ai-to-address-cyber-risk.md",
+      "title": "How Mastercard is using AI to address cyber risk",
+      "excerpt": "Johan Gerber, executive VP for security and cyber innovation at Mastercard, discusses how it uses AI to understand and adapt to cyber risk.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/",
+      "originalUrl": "https://venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1232533853.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-mastercard-is-using-ai-to-address-cyber-risk/amp/",
+      "publishedDateTime": "2021-07-12T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-how-levi-strauss-is-upskilling-its-workforce-to-embrace-data-and-ai.md",
       "title": "How Levi Strauss is upskilling its workforce to embrace data and AI",
       "excerpt": "Levi's established AI boot camps to upskill employees and teach them how to work with data science in the modern era .",
@@ -1100,99 +1194,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops.md",
-      "title": "IIT Mandi develops AI-based model for disease detection in potato crops",
-      "excerpt": "Unsplash Researchers at the Indian Institute of Technology (IIT) Mandi, have developed a computational model based on Artificial Intelligence (AI) for automated disease detection in potato crops using photographs of its leaves. The research in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops",
-      "originalUrl": "https://www.freepressjournal.in/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2021-07/d00b7c82-7237-4819-a681-a87a33536ee9/potato_crops.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.freepressjournal.in/article/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops/c8993f12-5fd3-453b-9928-25e5ae267e51",
-      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops/c8993f12-5fd3-453b-9928-25e5ae267e51",
-      "publishedDateTime": "2021-07-12T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-10-things-in-tech-musk-visits-branson-ai-tiny-homes-gates-foundation-stress.md",
-      "title": "10 things in tech: Musk visits Branson — AI tiny homes — Gates Foundation stress",
-      "excerpt": "Musk visited Branson before his flight, AI powered tiny homes arrive in the UK, Gates Foundation staff stress out: 10 things in tech you need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7",
-      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60e9a2b5ca74780018ae8bec?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-musk-branson-tiny-homes-gates-foundation-2021-7?amp",
-      "publishedDateTime": "2021-07-12T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

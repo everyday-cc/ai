@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft-powered autonomous beach-cleaning robot is here to clean our shores"
-    excerpt: "A Dutch startup aims to rid beaches of cigarette butts, and Microsoft's artificial intelligence is helping the robot learn how to do it."
-    publishedDateTime: 2021-07-21T15:15:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/microsoft-autonomous-beach-cleaning-robot/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 103
-    images:
-      - url: "https://www.cnet.com/a/img/uFEX43607aFPkDv2GM04zBfSj68=/2021/07/21/015fc565-b217-46b4-9eb8-1ec97c805fd1/ogi-tech.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "People suck, so a robot with Microsoft AI has to pick up cigarette butts"
     excerpt: "A robot that utilizes Microsoft AI is being used to clean up beaches. It uses machine learning to identify cigarette butts in the sand and then picks up the waste."
     publishedDateTime: 2021-07-22T11:14:00Z
@@ -58,63 +42,19 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft acquires CloudKnox Security to enhance unified privileged access management"
-    excerpt: "Following the purchase of RiskIQ and ReFirm Labs, Microsoft has now acquired CloudKnox Security to offer unified privileged access and entitlement management in multi-cloud and hybrid environments."
-    publishedDateTime: 2021-07-22T01:38:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-acquires-cloudknox-security-to-enhance-unified-privileged-access-management/"
+  - title: "An AI startup that helps clients like Google and Microsoft track their marketing performance raised $15 million using this pitch deck"
+    excerpt: "BlueOcean was founded by ad agency vets to automate and simplify market research."
+    publishedDateTime: 2021-07-22T12:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 79
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2017/03/1490748311_mscloudsecurity_story.jpg"
-        width: 760
-        height: 430
-        isCached: true
-  - title: "Microsoft acquires CIEM leader CloudKnox Security"
-    excerpt: "Microsoft is set to beef up its cloud security and entitlement management platform with the acquisition of CloudKnox."
-    publishedDateTime: 2021-07-21T22:03:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-acquires-cloudknox-security"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 56
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/07/CloudKnox-Business-cropped.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Microsoft Buys Privileged Access Startup CloudKnox Security"
-    excerpt: "Microsoft has purchased CloudKnox Security to give organizations visibility into privileged access, right-size permissions and consistently enforce least-privilege principles with the aim of reducing risk."
-    publishedDateTime: 2021-07-21T17:01:00Z
-    webUrl: "https://www.crn.com/news/security/microsoft-buys-privileged-access-startup-cloudknox-security"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 56
-    images:
-      - url: "https://www.crn.com/resources/026b-12cf5263678e-f93691a052ad-1000/microsoft_sign.jpg"
-        width: 1500
-        height: 1124
-        isCached: true
-  - title: "Beach Bot Is An Autonomous Robot Combing The Beach To Collect Cigarette Butts"
-    excerpt: "Together with his fellow entrepreneur Martijn Lukaart, the boy’s father, Edwin Bos, created the Beach Bot, an autonomous robot that combs beaches looking for cigarette butts in the sand using artificial intelligence."
-    publishedDateTime: 2021-07-23T00:34:00Z
-    webUrl: "https://www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/"
-    ampWebUrl: "https://www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 56
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/07/Beachbot-1024x555.jpg"
-        width: 1024
-        height: 555
+      - url: "https://i.insider.com/60f7358baa1f1f0012f687ea?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
     excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO). \"This is the perfect example of our client feedback loop in action,"
@@ -139,6 +79,26 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 36
+  - title: "Artificial Intelligence in IoT Market Size, CAGR | Key Players – IBM, Microsoft, Google, PTC, AWS, Oracle"
+    excerpt: "The Artificial Intelligence in IoT Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market."
+    publishedDateTime: 2021-07-25T23:37:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-iot-market-size-cagr-key-players-ibm-microsoft-google-ptc-aws-oracle/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
+  - title: "AI In Platform As A Service Market to Eyewitness Massive Growth by 2026 | Google, Microsoft, Salesforce, SAS Institute"
+    excerpt: "AI In Platform As A Service refers to the third-party offering of artificial intelligence outsourcing. This allows the company to get the advantage of AI without spending lots of money. AI In Platform As A Service helps empower the sampling of multiple public cloud platforms to test different machine learning algorithms."
+    publishedDateTime: 2021-07-24T21:40:00Z
+    webUrl: "https://www.openpr.com/news/2336498/ai-in-platform-as-a-service-market-to-eyewitness-massive-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2336498/ai-in-platform-as-a-service-market-to-eyewitness-massive-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2336498/ai-in-platform-as-a-service-market-to-eyewitness-massive-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
   - title: "Cloud Market Soars as IBM, Microsoft Build Out Services"
     excerpt: "The cloud market remains hot, and some of the top providers, including IBM and Microsoft, are looking to add to the capabilities and services in their cloud offerings to make further inroads into enterprises and government agencies."
     publishedDateTime: 2021-07-22T21:41:00Z

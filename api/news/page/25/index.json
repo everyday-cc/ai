@@ -2,6 +2,92 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-07-06-sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit.md",
+      "title": "Sama Validates Its Ethical AI Supply Chain Through A Randomized Control Study With MIT",
+      "excerpt": "AIis an emerging force in the business world that has the potential to either replace humans or empower humans with better tools. Sama, believes AI can enhance how we work and is advocating for “human-in-the-loop,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christophermarquis/2021/07/06/sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit/",
+      "originalUrl": "https://www.forbes.com/sites/christophermarquis/2021/07/06/sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cb9c39ec66a9c0ee764dfa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D26%26cropY2%3D589",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-reply-shapes-the-future-of-autonomous-mobile-robots-with-the-power-of-microsoft-azure.md",
+      "title": "Reply Shapes the Future of Autonomous Mobile Robots with the Power of Microsoft Azure",
+      "excerpt": "The solution combines Microsoft Azure services ... Reply integrates Azure Cognitive Services, Machine Learning and DevOps as well as Power Apps and Power BI. Thanks to Azure's intelligent service ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure",
+      "originalUrl": "https://www.businesswire.com/news/home/20210706005133/en/Reply-Shapes-the-Future-of-Autonomous-Mobile-Robots-with-the-Power-of-Microsoft-Azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-abundant-robotics-shuts-down-fruit-harvesting-business.md",
       "title": "Abundant Robotics shuts down fruit harvesting business",
       "excerpt": "Abundant Robotics, which was developing a robot to pick apples, closed its business after spinning out of SRI International in 2016.",
@@ -1014,83 +1100,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare.md",
-      "title": "AIIMS Raipur organizes seminar on Artificial Intelligence in healthcare",
-      "excerpt": "Professor Nitin M Nagarkar, AIIMS Raipur director, termed Artificial Intelligence (AI) as a transformative technology for medical professionals, as well as a collaborative area for IT and",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
-      "originalUrl": "https://medicaldialogues.in/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medicaldialogues.in/h-upload/2020/12/02/143273-124747-aiims-raipur.jpg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
-      "publishedDateTime": "2021-07-05T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-houston-space-startup-tapped-for-aws-space-accelerator-onenexus-environmental-must-contend-with-upstream-apathy.md",
-      "title": "Houston space startup tapped for AWS Space Accelerator | OneNexus Environmental must contend with upstream apathy",
-      "excerpt": "Houston startup selected to Amazon Web Services Space Accelerator. Houston-based aerospace technology firm Cognitive Space was selected to participate in the new Amazon Web Servic",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/houston/inno/newsletter/24373854?limit=20&skip=0",
-      "originalUrl": "https://www.bizjournals.com/houston/inno/newsletter/24373854?limit=20&skip=0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

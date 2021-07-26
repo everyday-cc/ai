@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-07-22-bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns.md",
-      "title": "Bias in AI isn’t an enterprise priority, but it should be, survey warns",
-      "excerpt": "Bias in AI is the biggest enterprise challenge, according to a recent Anaconda survey, but few organizations are correcting it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/22/bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns/",
-      "originalUrl": "https://venturebeat.com/2021/07/22/bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Anaconda-Biggest-Problem-1200x600-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/22/bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns/amp/",
-      "publishedDateTime": "2021-07-22T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-22-getting-hadoop-to-jump-through-aiml-hoops.md",
       "title": "Getting Hadoop to Jump Through AI/ML Hoops",
       "excerpt": "Just a decade ago, the enterprise IT push was to make Hadoop the platform for storage and analytics. At that time, cloud hesitancy was still looming for",
@@ -364,7 +313,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -657,6 +606,50 @@
       ]
     },
     {
+      "path": "_news/2021-07-22-people-suck-so-a-robot-with-microsoft-ai-has-to-pick-up-cigarette-butts.md",
+      "title": "People suck, so a robot with Microsoft AI has to pick up cigarette butts",
+      "excerpt": "A robot that utilizes Microsoft AI is being used to clean up beaches. It uses machine learning to identify cigarette butts in the sand and then picks up the waste.",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts",
+      "originalUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/07/cigarette-robot-project-bb-4-3_0.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp",
+      "publishedDateTime": "2021-07-22T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-its-time-to-change-the-debate-around-ai-ethics-heres-how.md",
       "title": "It’s time to change the debate around AI ethics. Here’s how",
       "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial",
@@ -708,7 +701,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -760,7 +753,7 @@
       "originalUrl": "https://www.zawya.com/uae/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -932,6 +925,59 @@
       ]
     },
     {
+      "path": "_news/2021-07-22-microsoft-acquires-cloudknox-security-to-enhance-unified-privileged-access-management.md",
+      "title": "Microsoft acquires CloudKnox Security to enhance unified privileged access management",
+      "excerpt": "Following the purchase of RiskIQ and ReFirm Labs, Microsoft has now acquired CloudKnox Security to offer unified privileged access and entitlement management in multi-cloud and hybrid environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-acquires-cloudknox-security-to-enhance-unified-privileged-access-management/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-acquires-cloudknox-security-to-enhance-unified-privileged-access-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2017/03/1490748311_mscloudsecurity_story.jpg",
+          "width": 760,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-aizen-acquires-e-commerce-data-aggregation-platform-to-reinforce-ai-creditconnect-platform.md",
       "title": "AIZEN acquires e-commerce data aggregation platform to reinforce AI CreditConnect platform",
       "excerpt": "AIZEN, an AI-focused fintech company based in Singapore, today has announced that it has signed a definitive agreement to acquire an e-commerce merchant cash management platform in Korea as part of its vertical date economy integration strategy.",
@@ -1044,7 +1090,7 @@
       "originalUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 329,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -1085,6 +1131,58 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control.md",
+      "title": "5 ways driving is set to change in the near future: air-cleaning cars to mind control",
+      "excerpt": "basically – including wireless neuroheadsets that convert our electric brainwaves into communication with robotics. At Goodwood, Emotiv demonstrated its tech through the mind-controlled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "originalUrl": "https://www.techradar.com/in/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/QL6cCU9JaGStf4sqioWSJB-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "publishedDateTime": "2021-07-21T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1136,108 +1234,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-intuit-expanded-userbase-with-ai-assistants-and-virtual-human-experts.md",
-      "title": "Intuit expanded userbase with AI assistants and virtual human experts",
-      "excerpt": "CTO Marianna Tessel explains how Intuit combined AI assistants with virtual human experts and grew the TurboTax Live customer base 70%.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/21/intuit-expanded-userbase-with-ai-assistants-and-virtual-human-experts/",
-      "originalUrl": "https://venturebeat.com/2021/07/21/intuit-expanded-userbase-with-ai-assistants-and-virtual-human-experts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/intuit.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/21/intuit-expanded-userbase-with-ai-assistants-and-virtual-human-experts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/intuit-expanded-userbase-with-ai-assistants-and-virtual-human-experts/amp/",
-      "publishedDateTime": "2021-07-21T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-clearview-ai-raises-30-million-from-investors-despite-legal-troubles.md",
-      "title": "Clearview AI raises $30 million from investors despite legal troubles.",
-      "excerpt": "The facial-recognition start-up closed a Series B financing round. It faces multiple lawsuits challenging its business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/21/technology/clearview-ai-valuation.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/21/technology/clearview-ai-valuation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/21/technology/oakImage-1626890988521/oakImage-1626890988521-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/21/technology/clearview-ai-valuation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/21/technology/clearview-ai-valuation.amp.html",
-      "publishedDateTime": "2021-07-21T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

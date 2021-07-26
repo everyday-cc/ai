@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-26-face-id-for-apple-macs-to-arrive-in-a-couple-of-years-gurman.md",
+      "title": "Face ID for Apple Macs to arrive in a “couple of years”: Gurman",
+      "excerpt": "Apple might just be planning on bringing Face ID system to the Mac. Known Bloomberg journalist Mark Gurman believes that Face ID will be available in Macs within a “couple of years.” Gurman shared this news on the latest edition of his Power On newsletter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/07/26/face-id-apple-mac-arrive-in-couple-of-years/",
+      "originalUrl": "https://www.gizmochina.com/2021/07/26/face-id-apple-mac-arrive-in-couple-of-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-29-at-9.34.42-PM.png",
+          "width": 1053,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-galaxy-s10-5g-update-reportedly-breaks-face-recognition.md",
       "title": "Galaxy S10 5G update reportedly breaks face recognition",
       "excerpt": "Samsung has been making good in its promise to roll out Android updates more regularly, even if a bit belatedly. Part of that involves improving its process for integrating and testing those",
@@ -1380,50 +1432,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-festo-advances-robot-programming-with-ai.md",
-      "title": "Festo advances robot programming with AI",
-      "excerpt": "Festo partners with several international companies and universities to develop FLAIROP - Federated Learning for Robot Picking",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/festo-advances-robot-programming-with-ai/",
-      "originalUrl": "https://www.therobotreport.com/festo-advances-robot-programming-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/festo-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Computer Vision"
       ]
     }
   ],

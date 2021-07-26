@@ -117,6 +117,20 @@ related:
         width: 1416
         height: 829
         isCached: true
+  - title: "Google’s DeepMind puts human proteome online for free"
+    excerpt: "The most complete database of protein structures ever assembled, developed with the help of Google’s artificial intelligence unit"
+    publishedDateTime: 2021-07-26T09:27:00Z
+    webUrl: "https://pharmaphorum.com/news/googles-deepmind-puts-human-proteome-online-for-free/"
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 39
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2021/07/AlphaFold.jpg"
+        width: 840
+        height: 473
+        isCached: true
 
 secured: "Rn08yAkdkf302x4lJ0HhhQR83xG3OPXfXIUpI/SCQHk9QtnyWLEwNdeOVKq7p5eZAbRfLhZw2M6WCccJ4q8DeagAAzuysoprb6OTsTs/WVQLGUpFU0EwQHmfrnbAEiD+k+J/su1g0ToRrk4pEOs2vuK/ytVUDbnIsymWWUdaIX1c+hrdiNzoheuE0ZVlU2k2dZgOAWbsbEAqPqZAR6FluTP1cjGMXGZZ/AnaqA7EhiMae2ZisL7fvXJ1lKEY7Onwuq9l3BzdE7URZ8F32I7f2Wxr0eeSUDRigTwM+411PPC4+QxSbqCreCdc/3qxw76ENhMeleTzDNQkHcq+fY41GQ9XEvX9wKI7BbwH1T1xaSGoFT0OpSCe2QpBG3g+IlZ1xS6Bw7yh7LqqkMlyHbILcsDM9tK/ZueNBkITQW7nFJbY+PFOVbPEm5u0eFMB22yVAu9njUNV0HW4M/thTEZLu/+y3v18it2YXe4vdFvYRbyITTdNj+b/F7mdGSURk7TD1GVJcRB/I0FKll3OovbGUQ==;PshRBIThIB+37Lq+Vk6BaA=="
 ---

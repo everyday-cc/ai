@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-future",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -317,7 +317,7 @@
       "originalUrl": "https://www.lelezard.com/en/news-19916974.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -440,21 +440,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-23-robotics-and-ai-are-speeding-up-our-nuclear-clean-up-mission.md",
-      "title": "Robotics and AI are speeding up our nuclear clean up mission",
-      "excerpt": "West Cumbria is delivering the future of nuclear robotics and artificial intelligence technology. Every day the company in charge of the nationally important mission of decommissioning and cleaning up the UK’s largest nuclear site – Sellafield in West Cumbria - is facing new challenges.",
+      "path": "_news/2021-07-22-people-suck-so-a-robot-with-microsoft-ai-has-to-pick-up-cigarette-butts.md",
+      "title": "People suck, so a robot with Microsoft AI has to pick up cigarette butts",
+      "excerpt": "A robot that utilizes Microsoft AI is being used to clean up beaches. It uses machine learning to identify cigarette butts in the sand and then picks up the waste.",
       "sourceUrl": null,
-      "webUrl": "https://www.politicshome.com/members/article/robotics-ai-speed-up-nuclear-clean-up-mission",
-      "originalUrl": "https://www.politicshome.com/members/article/robotics-ai-speed-up-nuclear-clean-up-mission",
+      "webUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts",
+      "originalUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 160,
       "tags": null,
       "images": [
         {
-          "url": "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2021_07/DRONE_960X640_JAN21_002_xegibn.jpg",
-          "width": 1200,
-          "height": 642,
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/07/cigarette-robot-project-bb-4-3_0.jpg",
+          "width": 800,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -462,13 +462,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T00:03:00-07:00",
+      "ampWebUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp",
+      "publishedDateTime": "2021-07-22T04:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PoliticsHome",
-        "domain": "politicshome.com",
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -479,7 +479,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -491,7 +492,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -515,6 +516,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control.md",
+      "title": "5 ways driving is set to change in the near future: air-cleaning cars to mind control",
+      "excerpt": "basically – including wireless neuroheadsets that convert our electric brainwaves into communication with robotics. At Goodwood, Emotiv demonstrated its tech through the mind-controlled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "originalUrl": "https://www.techradar.com/in/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/QL6cCU9JaGStf4sqioWSJB-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "publishedDateTime": "2021-07-21T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1394,50 +1447,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-robot-training-on-famous-highland-estate-will-make-driverless-vehicles-more-reliable.md",
-      "title": "Robot ‘training’ on famous Highland estate will make driverless vehicles more reliable",
-      "excerpt": "The project will help make driverless vehicles of the future more reliable ... engineers and students dedicated to researching robotics, artificial intelligence, systems engineering, and other related fields. A crash scene for the new James Bond movie ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
-      "originalUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressandjournal.co.uk/wp-content/uploads/sites/2/2021/07/ORI_Scotland-3.jpg_39621277-scaled-e1625854534304.jpg",
-          "width": 2457,
-          "height": 1472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
-      "cdnAmpWebUrl": "https://www-pressandjournal-co-uk.cdn.ampproject.org/c/s/www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
-      "publishedDateTime": "2021-07-16T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Press and Journal",
-        "domain": "pressandjournal.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -53,6 +53,20 @@ related:
         width: 700
         height: 300
         isCached: true
+  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
+    excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at 9.4%, finds"
+    publishedDateTime: 2021-07-26T08:02:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on/article_b1453bb6-3534-55cd-8a49-645d7de5faaf.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/52/d522a53b-1a1b-53de-97fc-25ef892b8755/60fe6f920eec0.image.jpg?resize=1119%2C630"
+        width: 1119
+        height: 630
+        isCached: true
 
 secured: "DSKz6x2xi2GeaJox8/j0kExch1GkXxBiHFWHDRjLzJtf5oOp7TwM2QiAT9F6IbhrE+PbqC65WWgi44zHLncZgTotpom8iXDEJYc7ZqFzKe9X4cyUdhrwxzvyAgXujIMwuoihGtVVSrisxnbefFmOk/+eCf+24G0fJlSfdJGs4YRBr1BzKyRCjbjvabXy000FCshv/UObd7qCOD0QhpHxB1/UELmNYcNcjialmOz3xoYXxpatsm8wTYTTPaR5/k2afF3aLcbbk/hzgH7A34F+0+SC27IKpZMwbwJd3VhMSPUI61/mZlX/v5ExeekQXqDRaT9uXU1LEl5YyTo3gaeMu+J11Q3yywC2tKxhEy9Yb8E=;6fV9ZTLSXHNNu8qF/6HomA=="
 ---

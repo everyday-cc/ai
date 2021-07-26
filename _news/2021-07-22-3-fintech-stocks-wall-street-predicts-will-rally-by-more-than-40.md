@@ -41,17 +41,6 @@ related:
         width: 1199
         height: 801
         isCached: true
-  - title: "3 Fintech Stocks Wall Street Predicts Will Rally by More Than 40%"
-    excerpt: "As more advanced technologies and innovative solutions find application in the financial sector, the fintech market could keep growing quickly in the coming months thanks to increasing digital transactions."
-    publishedDateTime: 2021-07-21T15:59:00Z
-    webUrl: "https://stocknews.com/news/futu-sofi-psfe-3-fintech-stocks-wall-street-predicts-will-rally-by-more/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
   - title: "Fintech Market Forecast to Reach $161.2 Billion by 2026"
     excerpt: "Focus of Companies on Cost Reduction and Improving Efficiency driving the growth of Fintech Market The Fintech Market forecast to reach $161.2 billion by 2026, growing at a CAGR of 8.7% from 2021 to 2026."
     publishedDateTime: 2021-07-24T05:16:00Z

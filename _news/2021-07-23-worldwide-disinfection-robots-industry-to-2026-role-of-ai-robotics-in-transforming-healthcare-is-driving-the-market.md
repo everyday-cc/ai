@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19916974.html"
 webUrl: "https://www.lelezard.com/en/news-19916974.html"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.allaboutcircuits.com/uploads/thumbnails/mit_movement_aware_robotics_thumbnail.jpg"
         width: 700
         height: 300
+        isCached: true
+  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
+    excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at 9.4%, finds"
+    publishedDateTime: 2021-07-26T08:02:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on/article_b1453bb6-3534-55cd-8a49-645d7de5faaf.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/52/d522a53b-1a1b-53de-97fc-25ef892b8755/60fe6f920eec0.image.jpg?resize=1119%2C630"
+        width: 1119
+        height: 630
         isCached: true
   - title: "Worldwide 5G Business Services Industry to 2026 - Machine Learning and Cognitive Computing Will Be Leading AI Tools Supporting 5G"
     excerpt: "The \"5G Business Services Market by Enterprise, Industrial, and Government Segment Applications, Services, and Solutions 2021 - 2026\""

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.motortrend.com/news/beachbot-ai-robot-techtics-cleans-ci
 cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/beachbot-ai-robot-techtics-cleans-cigarette-butts-beach/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1360
     height: 765
     isCached: true
+
+related:
+  - title: "Beach Bot Is An Autonomous Robot Combing The Beach To Collect Cigarette Butts"
+    excerpt: "Together with his fellow entrepreneur Martijn Lukaart, the boy’s father, Edwin Bos, created the Beach Bot, an autonomous robot that combs beaches looking for cigarette butts in the sand using artificial intelligence."
+    publishedDateTime: 2021-07-23T00:34:00Z
+    webUrl: "https://www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/"
+    ampWebUrl: "https://www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 56
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/07/Beachbot-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
 
 secured: "k05nV/pW8pQIUXCUDEg2JePoyqXIkjBOTgJh91Nh/kB3XBRmpAYxhK8CaauRIEO2rqFZuOwiPdUDI31tYUhM9iojqyki/qEwqBzTG1t7e3XDh3XFL/CyWJ0CgexS7MW4PcSVcP8bxSNXbyuuuTx/DUb9h+GrS8Fke2O0iqSbdUiuxudjvdAzJrud1dzRpXRBiZiOoUANjU+9R/jMBHvNp2rpDu6KqMcen9UbXaEFODY7jclaH2VmDnF0U0PBcxXAwbSlGNmtCE+MMGbxfl+2iO+cPCf/G2HXOuDV5J72UxPd8IkX31uYcislGc724zAM1pr9FJVqJST9JE7u1ygQDNXnZntiwcrKIEF4RaxpxkfVnoEIvQPda3wa8xVJEbE4tbsmpi2ONZZr91RTCdQph0VE41gu5bpEPVRWIaD2EgVljLNbsWJHYUg/E3NPGlJE2tGx6YgccTy4Rifzi95zNl0hvxKvj2RxR9FotUPSxo1ziyZv2DoBKEeaxByjftwSWRwye1nX+VPG0Cw66zYGXw==;iKdUUPV9CGJknqvL5ewZWQ=="
 ---

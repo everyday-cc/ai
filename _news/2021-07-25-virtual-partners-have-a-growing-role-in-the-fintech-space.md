@@ -79,20 +79,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Fidelity International signs Fintech Pledge"
-    excerpt: "Fidelity International committed to a UK strategy, known as the fintech pledge, which is aimed at accelerating the growth of the country's fintech sector"
-    publishedDateTime: 2021-07-21T15:12:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fidelity-international-signs-fintech-pledge"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1202705835%20%282%29.jpg?itok=EbGxM7h-"
-        width: 2309
-        height: 1299
-        isCached: true
   - title: "4 Fintech Trends of 2020 Worth Watching Through 2021"
     excerpt: "As the COVID-19 pandemic turned 2020 into a historic year of global upheaval, the financial services industry and the tech companies that support it found themselves caught off guard. As in most other commercial fields,"
     publishedDateTime: 2021-07-23T09:43:00Z

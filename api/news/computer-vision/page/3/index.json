@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-05-analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia.md",
+      "title": "Analysis-'Racist' facial recognition sparks ethical concerns in Russia",
+      "excerpt": "From scanning residents’ faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC",
+      "originalUrl": "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2EB0BC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EB0BC",
+      "publishedDateTime": "2021-07-04T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-racist-facial-recognition-sparks-ethical-concerns-in-russia.md",
       "title": "'Racist' facial recognition sparks ethical concerns in Russia",
       "excerpt": "From scanning residents' faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical ...",
@@ -1361,50 +1405,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-anyvision-ai-facial-recognition-software-available-on-ambarella-chips.md",
-      "title": "AnyVision AI facial recognition software available on Ambarella chips",
-      "excerpt": "The software will help extract actionable data from video feeds for biometric identification capabilities such as facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202106/anyvision-ai-facial-recognition-software-available-on-ambarella-chips",
-      "originalUrl": "https://www.biometricupdate.com/202106/anyvision-ai-facial-recognition-software-available-on-ambarella-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/05/25183040/cctv-security-systems.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

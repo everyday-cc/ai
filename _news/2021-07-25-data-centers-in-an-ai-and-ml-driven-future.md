@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driv
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future"
 type: article
 quality: 106
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Do We Prepare for an AI Future?"
+    excerpt: "How on earth did we survive before this technology arrived in our lives? We survived, of course, but were quite literally lost some of the time. My reverie was interrupted by a toll booth. It was empty,"
+    publishedDateTime: 2021-07-26T09:00:00Z
+    webUrl: "https://www.thenation.com/article/society/ai-future/"
+    ampWebUrl: "https://www.thenation.com/article/society/ai-future/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/society/ai-future/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 57
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2019/11/worker-robot-AP-img.jpg"
+        width: 1440
+        height: 907
+        isCached: true
   - title: "How Artificial Intelligence Will Shape Our Future"
     excerpt: "The future of AI is both exciting and frightening, and our company is trying to democratize access to AI services and contribute to its safe development."
     publishedDateTime: 2021-07-24T00:44:00Z
@@ -47,6 +63,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "IvQi6ynNZ1x1KutQt1zdl4Oz9ZbzAg7pVKUGo+/0+WUaTloJaSC0OeZeLOjwqFzToIXNx50Kz4Ix/CO4WZiaSuEBwvkiM+LSf+0UwoFLTCBnIZw7GamIDWjny2fEo5kDPyIxCprCJYVdvydoPX3z5hDaNyTMxP8RSwsF1TLlza5wca8BGWeKmr1D6In4I7g3wSQICSkZ7eQmkwGziJpD5EteY5OKLaCT68h8WSB/QEM2dJt4QZ+uHJbS4w4SL1wNE+9l4hNbAhpQ5+w/PA8zPLjl1jU1oCUXZrcW1M3ddFwZUevR8nEFc6uYKZOh+x6sY5b5ts2/KdBuS1dLnlBdaGirkKpThQiuV6ZVYYcKllk=;6bwQBa/yR+tK5bnRbS12aQ=="
+secured: "VOqsZqtgphtDPDJKFwysHd5iTTBVmDzLWP/zL6Gzgif206SzoNdfSfOcnUmke4y/GTIwcp9ZaTpyD30qe+WtcvQ/eFUtd3IaEKFBoeVOUpJyZao520lFNkIZkV+hFF9/3uktfn6mKQfqoPbTQ4UMey1vzT2SxF8iFW25Kcbo2WP41qTJ7vDj0HY6+6l++7zX1C7284jjfuz+tPzMBVXiFK1453az91PP113pNIix1fcAGceO0NlrwCjabEqGQciqDZeBLyv1J/RRr9bevkqddocp+01ghNqxPZyAa3GsHw+Pmjy2AjeguCzpEIbhOYX8vcy1fXHOJmPQtkb+segXzhAqhkEnntSlWs4Q4/UFgGnhIvvn4UzwDYRTu7uKmg+Fk7hJ1mwucoMHTvBe/b6Eo0r1/eNr1QJJqDW59Ce+gBH39tBo/f0fgR54DnkDrlMuPv0Aym15PDW80MVd9X7yGKYjSZKfbzgPbxWT3/JKh/GNvNHHNIhRyZQKt6e2WXhMhgUArsJU1KBp61eQF8bYug==;DblYZjqTiCYL9dNZI+g8zg=="
 ---
 

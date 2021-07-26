@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zawya.com/uae/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -333,6 +333,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-16-private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms.md",
+      "title": "Private Cloud IaaS Offers Secure and Compliant Modernization for Financial Services Firms",
+      "excerpt": "Established financial services firms are facing unprecedented new challenges ... to agility by enabling firms to tap into technologies such as microservices, machine learning, cloud-native development platforms, and data lakes. These technologies can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/resources/221608/private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms",
+      "originalUrl": "https://www.computerworld.com/resources/221608/private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-16T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-why-fintech-struggles-to-combat-the-15-trillion-trade-finance-gap.md",
       "title": "Why FinTech Struggles To Combat The $1.5 Trillion Trade Finance Gap",
       "excerpt": "GUUD discusses why trade finance FinTech has been unable to put a dent in the trade finance gap or ease friction for banks and nonbank financiers.",
@@ -362,49 +405,6 @@
       "provider": {
         "name": "pymnts.com",
         "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms.md",
-      "title": "Private Cloud IaaS Offers Secure and Compliant Modernization for Financial Services Firms",
-      "excerpt": "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/resources/221608/private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms",
-      "originalUrl": "https://www.networkworld.com/resources/221608/private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/nww/nww_logo_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-16T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
         "images": null,
         "publishers": null,
         "authors": null

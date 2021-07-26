@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-key-players-industry-demand-overview-and-supply-chain-analysis-forecast-to-2030-2021-07-23"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 700
         height: 407
         isCached: true
-  - title: "Worldwide Machine Safety Industry to 2026 - Impact Analysis of COVID-19 on the Market"
-    excerpt: "The \"Machine Safety Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global market for machine safety was evaluated at US$1,204.949 million in the year 2019 and is anticipated to witness a CAGR of 6."
-    publishedDateTime: 2021-07-21T15:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-machine-safety-industry-to-2026-impact-analysis-of-covid-19-on-the-market-1030631271"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
   - title: "Global Edge AI Chips Market Demand, Revenue Forecast and Interesting Opportunities from 2021 to 2026"
     excerpt: "Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 research report is the new statistical data source added by MarketsandResearch.biz that uses several approaches for analyzing the data of the target market such as primary and secondary research methodologies."
     publishedDateTime: 2021-07-22T09:31:00Z

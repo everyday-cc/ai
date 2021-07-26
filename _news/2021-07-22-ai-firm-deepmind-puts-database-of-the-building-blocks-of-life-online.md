@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online"
 type: article
 quality: 78
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
         width: 1416
         height: 829
+        isCached: true
+  - title: "Google’s DeepMind puts human proteome online for free"
+    excerpt: "The most complete database of protein structures ever assembled, developed with the help of Google’s artificial intelligence unit"
+    publishedDateTime: 2021-07-26T09:27:00Z
+    webUrl: "https://pharmaphorum.com/news/googles-deepmind-puts-human-proteome-online-for-free/"
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 39
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2021/07/AlphaFold.jpg"
+        width: 840
+        height: 473
         isCached: true
 
 secured: "jg/2HI+mBFk0i43rG422+zsyDRvCWKDn0Zk/FaV6lhpAc1ywHQz7MzK7+BRhSydiICKj0IE8lNWtsiLQS2tFb4Lju90okUWnhn4zwxpaBiltnE258jdV8DYfHjVg3Rf4PJp9pJlHeQ/pJAiStzUj0KnH8ZqvyKxTc3G8B54Z4vccnufeOHr8cgbLZWiZe6CXeZCfwZS+zGvtJCGWkJzk28MNTElHppiku/k1ReXFIVfrCXxS8F+si9iEBB8BacygmImwO2uf/nYYoJlwqcymDoUXaUtXdF5fD5b61FnBTMUVqIuWy+3jtOsiBE6wtf8YistdHO86uzBV7G2rBNxnPkhQpmK2/ymswUtJYs3RPWCb0D+/S9xzEZ/HVqnv9TiyuH+c2t24WvMAjfjkFSer7MjxTy1m164FIs+IQ/m3e+fgGDKei+KfjhU4iCPFLj7ccq09V+mOI9rqpK3Q/7kqDT5Zc+G6scBBfWomqqc39dTvxccT3pj4VnPDcgy0pJRhyqw3fp701b+xRVnOQSjPhg==;RNFO/wKKqdeKKUhkMfwmtw=="

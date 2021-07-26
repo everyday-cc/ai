@@ -29,17 +29,6 @@ images:
 related:
   - title: "3 Fintech Stocks Wall Street Predicts Will Rally by More Than 40%"
     excerpt: "As more advanced technologies and innovative solutions find application in the financial sector, the fintech market could keep growing quickly in the coming months thanks to increasing digital transactions."
-    publishedDateTime: 2021-07-21T15:59:00Z
-    webUrl: "https://stocknews.com/news/futu-sofi-psfe-3-fintech-stocks-wall-street-predicts-will-rally-by-more/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
-  - title: "3 Fintech Stocks Wall Street Predicts Will Rally by More Than 40%"
-    excerpt: "As more advanced technologies and innovative solutions find application in the financial sector, the fintech market could keep growing quickly in the coming months thanks to increasing digital transactions."
     publishedDateTime: 2021-07-21T17:31:00Z
     webUrl: "https://www.investing.com/news/stock-market-news/3-fintech-stocks-wall-street-predicts-will-rally-by-more-than-40-2564349"
     type: article

@@ -77,15 +77,6 @@ related:
         width: 700
         height: 407
         isCached: true
-  - title: "Worldwide Machine Safety Industry to 2026 - Impact Analysis of COVID-19 on the Market"
-    excerpt: "The \"Machine Safety Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global market for machine safety was evaluated at US$1,204.949 million in the year 2019 and is anticipated to witness a CAGR of 6."
-    publishedDateTime: 2021-07-21T15:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-machine-safety-industry-to-2026-impact-analysis-of-covid-19-on-the-market-1030631271"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
   - title: "Global Artificial Intelligence Chatbots Market 2021 Industry Emerging Trend, Top Players, Revenue Insights to 2026"
     excerpt: "According to the latest report by MarketQuest.biz, titled Global Artificial Intelligence Chatbots Market 2021 by Company, Regions, Type and Application, Forecast to 2026, covers assimilates reliable and updated information,"
     publishedDateTime: 2021-07-23T10:01:00Z

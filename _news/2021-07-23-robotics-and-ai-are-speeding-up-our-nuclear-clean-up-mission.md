@@ -7,8 +7,8 @@ originalUrl: "https://www.politicshome.com/members/article/robotics-ai-speed-up-
 webUrl: "https://www.politicshome.com/members/article/robotics-ai-speed-up-nuclear-clean-up-mission"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: PoliticsHome
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 642
     isCached: true
-
-related:
-  - title: "Introducing echo - An Artificial Intelligence and Robotic Process Automation Platform"
-    excerpt: "Access Healthcare's proprietary robotic process automation (RPA) platform, echo, is a purpose-built suite of automation solutions that can automate processes across the revenue cycle continuum. By leveraging machine learning and artificial intelligence capabilities,"
-    publishedDateTime: 2021-07-21T16:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-echo-an-artificial-intelligence-and-robotic-process-automation-platform-1030631536"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://mma.prnewswire.com/media/1577163/Access_Healthcare_introduces_echo.jpg"
-        width: 400
-        height: 209
-        isCached: true
 
 secured: "ogZQxEpj2Mbl1aZnsSx5dKBtCyproruUM+vaJlp3zpx2aLSQ7B09FuGffF7IaS8AqVhyLDHjJu9epDTsIa6eJu4S2hpJvC57CvjtEATDDJ9GzUYqEMueU8VEs4j2ZPGNSzKPYZ7cWbGhN3LVws0kBFdqXnoUlQb5NgGF8D2jU2WTJHZvauMtu+a0l/d18nkBRSuH44MN/O50V+kGLmatlLa/JYWM3gbiPzVe0GDjfK9TAcPfKYLA4aBDweNVbTgcuDhjee/kN79VzrTPuTB50/rgwYIyUsh4CJzSGPfCPA6vNsBb0Fqa4c7D7H4Skv0hW7hvEJ/q9Hw51K+lPwj1FU7DVZW/EYetGZgvALFwdm8=;DNHg098ew8fkI+imHQvurg=="
 ---
