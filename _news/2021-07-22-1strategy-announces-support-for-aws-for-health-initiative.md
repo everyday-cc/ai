@@ -42,15 +42,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
-    excerpt: "Amazon HealthLake further structures the data and enables customers to easily use Amazon SageMaker machine learning ML models and Amazon QuickSight analytics, making it seamless for researchers ..."
-    publishedDateTime: 2021-07-21T07:48:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative/article_f90ee693-f4d4-51ce-8ed5-11223e69b746.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 7
 
 secured: "JWoDr1YNuI7eciSchaYEsPUT6TJ4su6yRq3/wCthLWp57UOFjQBXRnjFWr3UxJJzKGRkdvBwdqoeQNXqku4qO1MvzmwppGakGcPKkoWFq2HBKWHH06dA200vobx3jiOoqb3DFqQp/MCVcxjo1nzbyuDYfBbEN9FkaVCKIITCO5Tl/R//N78hXh/hTRfzskvrsCT+bMUaiQE1pAytlKu48wLAt74X6dGzGy3Y4je7cFLNESLLTbkWWxnD53BsJhHGtVYGftw8RLqTREI9o+SVxCsRxwBU5zyrUP4mMhpZpDMlPsM4urN15A8RTXI8JOHMxY/zE1RBZ5wGZWrGmL25u1kMiqX/xmhjYijfm8qdLOY=;EboM1gp0haBbWx9LMZP4bA=="
 ---

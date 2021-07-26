@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_226923548/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_226923548/"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "10 First-Class Fintech Stocks to Watch"
-    excerpt: "F intech stocks are housed under a wide umbrella on Wall Street. Some of the old guard focuses on the traditional payments aspect of financial technology. But the industry can also include real estate,"
-    publishedDateTime: 2021-07-21T08:13:00Z
-    webUrl: "https://www.nasdaq.com/articles/10-first-class-fintech-stocks-to-watch-2021-07-21"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Fidelity International signs Fintech Pledge"
     excerpt: "Fidelity International committed to a UK strategy, known as the fintech pledge, which is aimed at accelerating the growth of the country's fintech sector"
     publishedDateTime: 2021-07-21T15:12:00Z

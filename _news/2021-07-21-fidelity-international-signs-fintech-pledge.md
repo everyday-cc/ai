@@ -85,15 +85,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "10 First-Class Fintech Stocks to Watch"
-    excerpt: "F intech stocks are housed under a wide umbrella on Wall Street. Some of the old guard focuses on the traditional payments aspect of financial technology. But the industry can also include real estate,"
-    publishedDateTime: 2021-07-21T08:13:00Z
-    webUrl: "https://www.nasdaq.com/articles/10-first-class-fintech-stocks-to-watch-2021-07-21"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "4 Fintech Trends of 2020 Worth Watching Through 2021"
     excerpt: "As the COVID-19 pandemic turned 2020 into a historic year of global upheaval, the financial services industry and the tech companies that support it found themselves caught off guard. As in most other commercial fields,"
     publishedDateTime: 2021-07-23T09:43:00Z

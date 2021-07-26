@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Camera Market-Key Findings, COVID - 19 Impact Analysis, Business Trends,Emerging Technologies and Future Prospects 2027"
-    excerpt: "Market Research Future published a research report on \"AI Camera Market Research Report – Global Forecast till 2027\" -"
-    publishedDateTime: 2021-07-21T08:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-camera-market-key-findings-covid---19-impact-analysis-business-trendsemerging-technologies-and-future-prospects-2027-2021-07-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Neural Network Software Market Size, Competitive Landscape, Revenue Analysis, 2016–2026"
     excerpt: "The global neural network software market is forecast to reach USD 97.11 Billion by 2026, according to a new report by Reports and Data. The neural network software distinguish the subtle nonlinear interdependencies with individual patterns of data and self-learn to produce complex decisions without being programmed."
     publishedDateTime: 2021-07-21T11:11:00Z

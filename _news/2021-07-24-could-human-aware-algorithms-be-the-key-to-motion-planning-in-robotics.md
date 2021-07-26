@@ -39,20 +39,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Top 10 Artificial Intelligence Apps in the Market"
-    excerpt: "AI apps are being introduced on an everyay basis now in the market. Although only few of them have retained the mark of being the best. Here is the list."
-    publishedDateTime: 2021-07-23T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-apps-in-the-market/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-3.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Worldwide 5G Business Services Industry to 2026 - Machine Learning and Cognitive Computing Will Be Leading AI Tools Supporting 5G"
     excerpt: "The \"5G Business Services Market by Enterprise, Industrial, and Government Segment Applications, Services, and Solutions 2021 - 2026\""
     publishedDateTime: 2021-07-22T13:30:00Z

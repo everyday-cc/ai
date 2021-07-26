@@ -42,15 +42,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
-  - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
-    excerpt: "Amazon HealthLake further structures the data and enables customers to easily use Amazon SageMaker machine learning ML models and Amazon QuickSight analytics, making it seamless for researchers ..."
-    publishedDateTime: 2021-07-21T07:48:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative/article_f90ee693-f4d4-51ce-8ed5-11223e69b746.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 7
 
 secured: "kQkw2Dl7JRniGV3oWd2VDSvvGJjzNCzt8pU3JhRzNqBuARF4JYP5KjQ+v71HegblT+stly8N8pmfcGJn5QetHs+4CDtJYfSjNq+Om1Sa9l5hAQQOJizFoD1Sx7WTQ7o6KwVetMT/VT+r7YeZNS6NVQDUDq2b7YziPHRgzm4lkO72aq4LKE4BmxrnubrVJ0JDXkRaWvvn086cT2W403V5kQd/moUAuZI+5JYYPB9DRuhAGzBpE+SS5CfQVBX/VF2cWY3KQJPVBXe1GwrwMokCBZmPWuv0I+YYharW6O4iFys1psMJIYe/d0boMiaJiayY6e3AgbYuySJZ3FgJJ8maIhAKxcB+gin4DXyFr3N7I4s=;LDs5GolyQI5wqu25iyabqQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/"
 webUrl: "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
-  - title: "Redox Launches Amazon HealthLake Connector and Announces Support for AWS for Health Initiative"
-    excerpt: "Amazon HealthLake further structures the data and enables customers to easily use Amazon SageMaker machine learning ML models and Amazon QuickSight analytics, making it seamless for researchers ..."
-    publishedDateTime: 2021-07-21T07:48:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/redox-launches-amazon-healthlake-connector-and-announces-support-for-aws-for-health-initiative/article_f90ee693-f4d4-51ce-8ed5-11223e69b746.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 7
 
 secured: "XcAwuoB8X977K6sYYWM3d+B4JP7UxSpfRO/HNQJdMBxnC6nKdOC4KtM6apAzHBM4aZDYQkArdXcvyTPzojQ7eSNLdvOBfO6q5o4ge6wuaGq6M0zE7u3tvlqdKuYEWaKT5ew/tGXofFT3iKjtUuIcT4ZrztkaeEXIlw1lK9NliFInREXNVpieefuEcLRA1MIoP4SgWmay5UFtBSIL0ET29GhgLqXwCDlaI6+zyRv19tdXT0frrU7L+ceO9jbjhs+nDy+rRPBKEbFB3lMWhAwjo9KQe8QFNF0ci+FXlmU0ba9qJmI73tR6XLrVom913Q6x2fHdt++FllxmE6Q4RikHFHqxS1yomQm4sNFuO1xy7J0=;aZJ+adXLzBkPs8CzKoPD/g=="
 ---

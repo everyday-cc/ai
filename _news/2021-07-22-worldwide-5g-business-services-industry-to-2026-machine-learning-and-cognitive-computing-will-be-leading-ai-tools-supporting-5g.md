@@ -53,20 +53,6 @@ related:
         width: 700
         height: 300
         isCached: true
-  - title: "Top 10 Artificial Intelligence Apps in the Market"
-    excerpt: "AI apps are being introduced on an everyay basis now in the market. Although only few of them have retained the mark of being the best. Here is the list."
-    publishedDateTime: 2021-07-23T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-apps-in-the-market/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-3.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "DSKz6x2xi2GeaJox8/j0kExch1GkXxBiHFWHDRjLzJtf5oOp7TwM2QiAT9F6IbhrE+PbqC65WWgi44zHLncZgTotpom8iXDEJYc7ZqFzKe9X4cyUdhrwxzvyAgXujIMwuoihGtVVSrisxnbefFmOk/+eCf+24G0fJlSfdJGs4YRBr1BzKyRCjbjvabXy000FCshv/UObd7qCOD0QhpHxB1/UELmNYcNcjialmOz3xoYXxpatsm8wTYTTPaR5/k2afF3aLcbbk/hzgH7A34F+0+SC27IKpZMwbwJd3VhMSPUI61/mZlX/v5ExeekQXqDRaT9uXU1LEl5YyTo3gaeMu+J11Q3yywC2tKxhEy9Yb8E=;6fV9ZTLSXHNNu8qF/6HomA=="
 ---

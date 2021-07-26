@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-explain
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/"
 type: article
 quality: 98
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -149,17 +149,6 @@ related:
         width: 1199
         height: 674
         isCached: true
-  - title: "Consumer Reports Has Serious Safety Concerns With Tesla’s Full Self-Driving Beta"
-    excerpt: "Consumer Reports has raised serious safety concerns about Tesla’s Full Self-Driving beta that is currently being tested by owners on public roads. For quite some time, Tesla has allowed select owners to install and test its advanced driver-assistance system and recently,"
-    publishedDateTime: 2021-07-21T07:49:00Z
-    webUrl: "https://www.carscoops.com/2021/07/consumer-reports-has-serious-safety-concerns-with-teslas-full-self-driving-beta/"
-    ampWebUrl: "https://www.carscoops.com/2021/07/consumer-reports-has-serious-safety-concerns-with-teslas-full-self-driving-beta/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/consumer-reports-has-serious-safety-concerns-with-teslas-full-self-driving-beta/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 34
 
 secured: "+Puto3ShFZsIfm8ktOgciag/88HigLUXMeotYuA+Q9RSSD34DFLksfNfuAWjWrvYj54IRCxfraQVVl/gpJwp0EFNWQj5QIdYQ3Ks3ZPSIrhmeFFhbaZgqCi5U4sh6gOsQ9AQGtNr043JSlRbVR1b3wP0uhnNi6ZakmxuohafIcG5VJnLXZG/5qztazu5n5QaNb1skQK4wiAmck8ukWnWcBHTh4RarsAei1OOO59laIsV3ZMpLL+5bGcPOl6e+MKbSg+QF7CrGxHMDUL63/Dfa6MQ5bjsUXrB+YeX/6HpZJajAZ141glwNNzUb3OkNYMVdsTB4CGj2v5XMlqQ6eHxH2zFzqjG9yU6Izc+pBNNhD2GFmkCMs1MWgMQ2GkJXIKchIi/PoV3lgB38OUkF82KjHSsY95+vjCk/MEP1mmUnqwkMlx15yrpcSWlYQ1Zl8RIpsaO/3NTcH40BG6AQAyF1IYkfTUkkBOqKtdnn2BM3ER/gathade5o+ONKa7W6ioAps5g+4JzWJAoF255Rjzyiw==;Hq4JOf9Nw4b3ka5fX/wWdQ=="
 ---

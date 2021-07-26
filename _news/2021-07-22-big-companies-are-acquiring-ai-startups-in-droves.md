@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/big-companies-are-acquiring-ai-start
 webUrl: "https://analyticsindiamag.com/big-companies-are-acquiring-ai-startups-in-droves/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2240
     height: 1261
     isCached: true
-
-related:
-  - title: "How companies are leveraging AI to personalise experiences"
-    excerpt: "Could artificial intelligence (AI) be used to determine the right product mix for each of their 1,500 stores across India? “We fed them some data from our stores, and through Watson [IBM’s AI tool that processes insights across unstructured images ..."
-    publishedDateTime: 2021-07-21T08:38:00Z
-    webUrl: "https://www.forbesindia.com/article/take-one-big-story-of-the-day/how-companies-are-leveraging-ai-to-personalise-experiences/69277/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 39
-    images:
-      - url: "https://www.forbesindia.com/media/images/2021/Jul/img_164091_aiandpersonalisationsm.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "WYvFLZPZIXOMRkplz695gTPxYl2Xo51sTfl1LVtr3rX7Dj4y56bJlNbI1AUCPr41K0GLNvuGXA+TpBGf27dQOtF60C32bQ+c9gfQI1yOKZwIu8DkmeTBk+6270ZJ3MIssezbOPaM6E21NMlF6RJ03mRVPbwosuMPF3GXlwdQJ/soLKk6XxZ9oSUJkbdbMZEHX5vIrxCeEHNjkpopTvpxnc2Q6+8MrUb8JmODpShk1KC9KckKzD0IuMeKxHkkys9RyQvTenBANr7DOV5K3Ny38VCPpxZKXIe/wI90RKUMLwDnCK0dg7MUIY6uzDSY2IcpLyulEHs7k/ko2TBkHBa6wh8GEQu52ayKiRbHPX7DUow/haAaI9wDcYl9ASXmnBGbGtM7z6VUbNQfuhWUixNG9yu4c3u773t99TuJMaedxMRjLvQrSlsOtxh67DW9o4gfQKUwe76FS6Vz+T9jsWsPzlGDnBsf+dNIHfwKA8RvM1AQwGzXmd5X0PCNcNxnqsxNssL0yAkQmlvxkuRy3rBhdw==;LLV3E6nSysnk+KyEqkU8RQ=="
 ---
