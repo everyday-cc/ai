@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "OnePlus Nord 2 5G With Dimensity 1200 AI SoC Goes On Sale In India; Where To Buy?"
+    excerpt: "OnePlus Nord 2 has finally gone on sale in India. The handset was launched last week as the latest model in the Nord series. As of now, Amazon Prime members and OnePlus Red Cable users can purchase the smartphone from the respective websites."
+    publishedDateTime: 2021-07-26T06:30:00Z
+    webUrl: "https://www.gizbot.com/mobile/news/oneplus-nord-2-5g-with-dimensity-1200-ai-soc-goes-on-sale-in-india-where-to-buy-075657.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/mobile/news/oneplus-nord-2-5g-with-dimensity-1200-ai-soc-goes-on-sale-in-india-where-to-buy-075657.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/mobile/news/oneplus-nord-2-5g-with-dimensity-1200-ai-soc-goes-on-sale-in-india-where-to-buy-075657.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 52
+    images:
+      - url: "https://www.gizbot.com/img/2021/07/nord222-1627280936.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "OnePlus launches Nord 2 5G featuring Dimensity 1200-AI, 65W Warp Charge & more"
     excerpt: "OnePlus has added hands to the chip production giant MediaTek to produce the MediaTech Dimension 1200 AI, an unique AI processor. Now the Media Tek Dimension 1200 has previously been defined for high-perforation chips, but a connection to the OnePlus ..."
     publishedDateTime: 2021-07-22T17:52:00Z

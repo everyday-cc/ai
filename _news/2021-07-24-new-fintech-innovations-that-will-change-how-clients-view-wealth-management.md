@@ -41,22 +41,6 @@ related:
         width: 1199
         height: 801
         isCached: true
-  - title: "Major Challenges the Fintech Industry Faces Today and How to Overcome Them"
-    excerpt: "Fintech, although making a technological revolution, has some major issues and challenges ahead. what are these fintech challenges and how toi overcome them"
-    publishedDateTime: 2021-07-21T13:13:00Z
-    webUrl: "https://www.financemagnates.com/fintech/major-challenges-the-fintech-industry-faces-today-and-how-to-overcome-them/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/major-challenges-the-fintech-industry-faces-today-and-how-to-overcome-them/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/major-challenges-the-fintech-industry-faces-today-and-how-to-overcome-them/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 42
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
-        width: 880
-        height: 400
-        isCached: true
   - title: "3 Fintech Stocks Wall Street Predicts Will Rally by More Than 40%"
     excerpt: "As more advanced technologies and innovative solutions find application in the financial sector, the fintech market could keep growing quickly in the coming months thanks to increasing digital transactions."
     publishedDateTime: 2021-07-21T15:59:00Z
@@ -81,6 +65,20 @@ related:
       - url: "https://i-invdn-com.investing.com/news/LYNXNPEC0K0YG_L.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Fintech Market Forecast to Reach $161.2 Billion by 2026"
+    excerpt: "Focus of Companies on Cost Reduction and Improving Efficiency driving the growth of Fintech Market The Fintech Market forecast to reach $161.2 billion by 2026, growing at a CAGR of 8.7% from 2021 to 2026."
+    publishedDateTime: 2021-07-24T05:16:00Z
+    webUrl: "https://apnews.com/press-release/MarketersMEDIA/technology-business-data-privacy-98032e22e00cf8f3b6e6c872717bf5d7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "5 Overvalued Growth Stocks to Avoid as Market Conditions Get More Bearish | Fintech Zoom"
     excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"

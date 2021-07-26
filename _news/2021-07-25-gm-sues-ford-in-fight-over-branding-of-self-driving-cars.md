@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "General Motors sues Ford over its 'BlueCruise' self-driving branding, saying it's too similar to GM's 'Cruise' and 'Super Cruise'"
-    excerpt: "General Motors sued Ford over its \"BlueCruise\" self-driving vehicles, saying the branding was a \"brazen\" attempt to use GM's \"Cruise\" trademark."
-    publishedDateTime: 2021-07-25T09:27:00Z
-    webUrl: "https://www.businessinsider.com/gm-sues-ford-bluecruise-self-driving-vehicle-branding-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/gm-sues-ford-bluecruise-self-driving-vehicle-branding-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-sues-ford-bluecruise-self-driving-vehicle-branding-2021-7?amp"
+  - title: "GM’s self-driving skills take a wrong turn"
+    excerpt: "General Motors’ (GM.N) latest journey in autonomous driving has taken it to the courthouse. Late on Friday, the $80 billion carmaker filed a suit accusing Ford Motor (F.N) of trademark infringement after the latter renamed its new driver-assist technology BlueCruise."
+    publishedDateTime: 2021-07-26T04:49:00Z
+    webUrl: "https://www.reuters.com/breakingviews/gms-self-driving-skills-take-wrong-turn-2021-07-26/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: Reuters
+      domain: reuters.com
+    quality: 54
     images:
-      - url: "https://i.insider.com/60fd211928e2cf0018905f10?width=1200&format=jpeg"
+      - url: "https://www.reuters.com/resizer/9-MpALxsvP1nc9bOL6oy7Zunpzs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7J5WGYMFKBJ2TADPBKOO4FKOWM.jpg"
         width: 1200
-        height: 600
+        height: 628
         isCached: true
   - title: "General Motors sues Ford for violating trademarked driver-assist technology used for self-driving cars"
     excerpt: "The firm has taken the action to protect the Cruise and Super-Cruise brands following Ford Motors in April had renamed its Co-Pilot360 automated driving system as Blue Cruise. Despite the talks, consensus on the issue had been unsuccessful,"

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/microsoft-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "KnowledgeLake Now Supports Microsoft Azure Government"
-    excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
-    publishedDateTime: 2021-07-21T15:34:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/KnowledgeLake-Now Supports-Microsoft-Azure-Government-148070.aspx"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 54
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png"
-        width: 480
-        height: 610
         isCached: true
   - title: "KnowledgeLake provides support for Microsoft Azure Government"
     excerpt: "Public sector organizations can leverage the KnowledgeLake platform to manage content and data residing within the Microsoft Azure Government-dedicated cloud environment"

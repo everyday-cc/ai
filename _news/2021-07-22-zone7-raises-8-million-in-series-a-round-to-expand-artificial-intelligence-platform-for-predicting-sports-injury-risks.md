@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-mill
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
+  - title: "Numerade Labs Raises $26 Million for AI Ed Tech"
+    excerpt: "Santa Monica-based education technology platform Numerade Labs Inc. raised $26 million in Series A funding for its artificial intelligence-driven tutoring platform. The funding round, which was announced July 20,"
+    publishedDateTime: 2021-07-26T07:08:00Z
+    webUrl: "https://labusinessjournal.com/news/2021/jul/26/numerade-labs-raises-26-million-ai-ed-tech/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 37
+    images:
+      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/06/30/Marsh-Mc-CC-Tech-Firms-20210701.png"
+        width: 294
+        height: 530
+        isCached: true
 
 secured: "dGGyDuq3HYcRPncHdeuky8a1P5SUq6HwDen9ADu4w2f3lbQayB9sMWLwelgPblpOewiNXKDgl5liRamyHVERQyHt8dTqEElkmGsg1uApflFoJrbv51MqM/HmyVU9XOZ2l3t/teQ7i2TWvVshVtv96F09Kpx7vPAllvR/U+Nu15ZuoO6SUL2ufR08mfWHN50T4Y6snJLpMnW2MSm+DcBwbiIQ0qD5KbT4U8vwAGrwhm405XReE+rCMewh51Ik0Bbrrn/kiImXHeEXPcWqWwjbLahwLJTr0xqEKqARKhlaAlQEohI2S8kYX7fW2zeM7lc3Bmrx6ocXVlXOVfaQQNV8snJVlxtN4a6L0nBiwEr72lehSXWuGrtPAT8Ay4JxhUS7rRRKnk2ylO17C24EhtI7uudi/M+PuzjJ/518QwrfhJBQqBUmQ4I9G7gDrLozWHX3nMlM/iiqdV0wtTpfE+XhUwxhgRwOsEf+JDwRcuIECiln9uGmPSBUeA/a8Jtm3FnrqxLpo+f9WWigvRx2PNxusQ==;4/wzWq+CdEGwEgNG6Hke9w=="
 ---

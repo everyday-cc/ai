@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dim
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "OnePlus Nord 2 5G With Dimensity 1200 AI SoC Goes On Sale In India; Where To Buy?"
+    excerpt: "OnePlus Nord 2 has finally gone on sale in India. The handset was launched last week as the latest model in the Nord series. As of now, Amazon Prime members and OnePlus Red Cable users can purchase the smartphone from the respective websites."
+    publishedDateTime: 2021-07-26T06:30:00Z
+    webUrl: "https://www.gizbot.com/mobile/news/oneplus-nord-2-5g-with-dimensity-1200-ai-soc-goes-on-sale-in-india-where-to-buy-075657.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/mobile/news/oneplus-nord-2-5g-with-dimensity-1200-ai-soc-goes-on-sale-in-india-where-to-buy-075657.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/mobile/news/oneplus-nord-2-5g-with-dimensity-1200-ai-soc-goes-on-sale-in-india-where-to-buy-075657.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 52
+    images:
+      - url: "https://www.gizbot.com/img/2021/07/nord222-1627280936.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "OnePlus Nord 2 5G Featuring Dimensity 1200 AI Chip, 50MP Camera Launched in India"
     excerpt: "OnePlus has finally launched the much rumoured OnePlus Nord 2 5G in India on Thursday, with the device sporting multiple features that were upgraded in comparison to the original OnePlus Nord. The device was launched alongside the OnePlus Buds Pro,"
     publishedDateTime: 2021-07-22T14:48:00Z

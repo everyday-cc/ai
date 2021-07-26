@@ -42,20 +42,6 @@ related:
         height: 305
         isCached: true
   - title: "Stor.ai Partners with Toshiba Global Commerce Solutions to Equip its Grocers with Holistic Ecommerce Infrastructure"
-    excerpt: "Stor.ai, the end-to-end digital commerce solution for grocers, today announced a strengthened partnership with Toshiba Global Commerce Solutions, the global market share leader in retail store technology."
-    publishedDateTime: 2021-07-21T14:46:00Z
-    webUrl: "https://www.wboc.com/story/44347549/storai-partners-with-toshiba-global-commerce-solutions-to-equip-its-grocers-with-holistic-ecommerce-infrastructure"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 17
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Stor.ai Partners with Toshiba Global Commerce Solutions to Equip its Grocers with Holistic Ecommerce Infrastructure"
     excerpt: "Stor.ai, the end-to-end digital commerce solution for grocers, today announced a strengthened partnership with Toshiba Global"
     publishedDateTime: 2021-07-21T20:00:00Z
     webUrl: "https://www.prnewswire.com/il/news-releases/storai-partners-with-toshiba-global-commerce-solutions-to-equip-its-grocers-with-holistic-ecommerce-infrastructure-301338442.html"

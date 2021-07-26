@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 922
         height: 508
         isCached: true
-  - title: "Insights on the Face Recognition Using Edge Computing Global Market to 2025 - Featuring Apple, Horizon Robotics and Mediatek Among Others"
-    excerpt: "12.16 Cisco Systems, Inc. 12.17 Belden Inc. 12.18 IBM Corporation 12.19 Intel Corporation 12.20 Moxa Inc."
-    publishedDateTime: 2021-07-21T13:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/21/9413820.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
 
 secured: "NWzlBbI+qar//5yYNTuONSyPynhvH6qbHoxi4B0sb05PaMiMaE5Ov6rS7ekOTjIFb2VS8YIRlg2e4LHGeZawkkERR6Va78B1vu7d5tkyr/xjyobwNVhMfPtDOwnh5JItT9B86HQ+I9CE+lws+bcWiNhzy9hA4WwaPtAi9Sh7jI5Rp45FVO/L5OlsAV04De0VMYyUepp3FlltI8QIim7e6b1gaxPjfCZvVEKTuovPimHXOzcTIW9mJtK9Gh0j7DsIxBIVR0bs8ZIIidGyXQvGPf/UDaz0JmqU+Etp8/p38ybzhwkWskp5RfqZNkaV/zekcCZlPSWvvoEQqDUmCu0HQ0KVqgjdJYOw26TwGRtVLx1vhOCa1gZVtBIuKTRxyDZEjlMFwTYWaWC5u8UGFyZsq4kVN04XnkNjCSKQfQ0jV5sqjMVuECCFV3KHfhebb8nRPKiXuCw69pW8GqMZ4mauRfDSdDb4Gdayn/eBmPFO9kiWwQd5sgvAhf89js8IzqUKO1YvA7YnzljQHJ6hUcMgWA==;C8qL+d8+h7A9hGQkQB/9YQ=="
 ---

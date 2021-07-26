@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210723/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210723/New-machine-learning-based-model-predicts-mortality-risk-of-intensive-care-unit-patients.aspx"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "Enforcing Intelligent Learning-Based Security in the Internet of Everything"
+    excerpt: "The exponential growth of the Internet of Everything (IoE), in recent times, has revealed many underlying security vulnerabilities of the nodes forming IoE networks. The extension of conventional security protocol to these devices has been greatly complicated by the prevalence of restricted computational hardware and limited battery life."
+    publishedDateTime: 2021-07-23T05:49:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9490314"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 19
 
 secured: "FqoK43a+FUyIrHn2UA9FXjtd6m7hHn85oD/H7QqnFGvFIlTdNxJoRR3a6XQTBdeF+N7nbSiCfZDc923ANSq/6FByOzo6M6wxsyitt9Wre4/B2olMvTnkW3uIOu03kDIKU3C7yjIPcuWjjeN0vn59VHnO/BnFuk6tHTDNkIyp3IUWeXRf2Dd3ZEf2XQrVYUfqsjV+fWhHemvUze9l/yRYv9Lq7Q7Akg4tVjmOh60uqAtyZVDts3V4i5n8dugfMe9kKOuUxYIAnhDprxh5J280TmZ8iri/89VFwkgNPryksqjh89rKzFqJCRihl9JWNKHdDLC24NqtYolJYJfKSrdouutXO7pTQDWPCSy/8ShvkLk=;KDNz2UK0h/7hWrGkElu0/g=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-futu
 ampWebUrl: "https://www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future"
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future"
 type: article
-quality: 84
-heat: 97
+quality: 106
+heat: 119
 published: true
 
 provider:
@@ -23,6 +23,13 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Robotics
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/zzKWX9b7Dxhz2F7QRMVTMC-480-80.jpg"
+    width: 480
+    height: 270
+    isCached: true
 
 related:
   - title: "How Artificial Intelligence Will Shape Our Future"
@@ -40,6 +47,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "Q0G01jcIwrZ554UYEZMz1TQW+m0C2NmwDq01IUSVfU+uZZqBU0rhPRnswtBphocJySGXgzS7J0bYd7MXShA4qbXwzVOYK+lGv6sz5nP7ccmpMAxRzPLFph2X6p/cJqZ+rmf0jKWiQQbOYbBBxim0EJgoY8NTn5Xz+ibZA3YFLa5eSgwfJGnWhoxrzY1N7Ho2swOPI8yTqsuIHgo2M2rfJnbqwUYC3Kw8xYtQ0MuwazCNWOcQS+oiA48uVLghG5a8AD+YCTAkAXAEhYVDiuKTizuOpUIEq82RTujeYZTX0cpjyRtzX4GrHQbdy6EVrSMbdPBFeVMC1EoxYLFxSU88C6nJHoe108/KcGxPka9pIew=;NXHeKwiBvIrLmGtWBdi2WQ=="
+secured: "IvQi6ynNZ1x1KutQt1zdl4Oz9ZbzAg7pVKUGo+/0+WUaTloJaSC0OeZeLOjwqFzToIXNx50Kz4Ix/CO4WZiaSuEBwvkiM+LSf+0UwoFLTCBnIZw7GamIDWjny2fEo5kDPyIxCprCJYVdvydoPX3z5hDaNyTMxP8RSwsF1TLlza5wca8BGWeKmr1D6In4I7g3wSQICSkZ7eQmkwGziJpD5EteY5OKLaCT68h8WSB/QEM2dJt4QZ+uHJbS4w4SL1wNE+9l4hNbAhpQ5+w/PA8zPLjl1jU1oCUXZrcW1M3ddFwZUevR8nEFc6uYKZOh+x6sY5b5ts2/KdBuS1dLnlBdaGirkKpThQiuV6ZVYYcKllk=;6bwQBa/yR+tK5bnRbS12aQ=="
 ---
 

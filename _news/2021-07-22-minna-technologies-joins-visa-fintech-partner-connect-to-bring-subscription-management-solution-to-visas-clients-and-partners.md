@@ -25,47 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Wealthech: Fabrick and Prometeia Partner on Wealth Management Solution Incorporating Open Banking, AI"
-    excerpt: "Fabrick, an Open Banking Fintech and Prometia, a company offering wealth management solutions, have joined to launch the Global Investment Portfolio, a digital wealth management solution that utilizes artificial intelligence (AI) as well as Open Banking tech."
-    publishedDateTime: 2021-07-21T14:14:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/amp/"
+  - title: "Corporate Spend Management Opens B2B FinTech Floodgates"
+    excerpt: "This week's B2B FinTech funding roundup sees two corporate spend management companies each raising more than $100,000 to boost real-time expense visibility"
+    publishedDateTime: 2021-07-23T12:00:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/spend-expense-management-venture-capital/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/spend-expense-management-venture-capital/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/spend-expense-management-venture-capital/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Love-Digital-Euro-300x300.jpeg"
-        width: 300
-        height: 300
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/Proactis-Aurachain-expense-management-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "Prometeia and Fabrick Partner to Launch New Digital Wealth Management Solution harnessing AI and Open Finance"
-    excerpt: "Fabrick, a leading Italian fintech company which operates internationally to promote Open Finance, and Prometeia, a consulting, software and research company that is a market leader in solutions for risk and wealth management,"
-    publishedDateTime: 2021-07-21T14:14:00Z
-    webUrl: "https://financialit.net/news/wealth-management/prometeia-and-fabrick-partner-launch-new-digital-wealth-management-solution"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 35
-    images:
-      - url: "https://financialit.net/sites/default/files/vfvnyuegbcix.png"
-        width: 1474
-        height: 609
-        isCached: true
-  - title: "Prometeia and Fabrick partner to launch new digital wealth management solution harnessing AI and Open Finance"
-    excerpt: "The solution has been created through a new strategic partnership between the two companies that responds to the needs of modern customers and represents an evolution in the world of digital wealth management. The two companies, respectively leaders in ..."
-    publishedDateTime: 2021-07-22T05:37:00Z
-    webUrl: "https://www.finyear.com/Prometeia-and-Fabrick-partner-to-launch-new-digital-wealth-management-solution-harnessing-AI-and-Open-Finance_a45033.html"
-    ampWebUrl: "https://www.finyear.com/Prometeia-and-Fabrick-partner-to-launch-new-digital-wealth-management-solution-harnessing-AI-and-Open-Finance_a45033.amp.html"
-    cdnAmpWebUrl: "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/Prometeia-and-Fabrick-partner-to-launch-new-digital-wealth-management-solution-harnessing-AI-and-Open-Finance_a45033.amp.html"
-    type: article
-    provider:
-      name: FinYear
-      domain: finyear.com
-    quality: 35
 
 secured: "FDeYDIGu8Eh67T0ACnbTHM8TNw+6LblGTk5Sm4bnWpj5B4oOi+T1ZOtJbIJNDimR8AEGNLbcg84yCeledTvCc0VeV72E4a9oZAEMNFgxxiq+XRpp5+RYLh3+J/HZWQLZ8BFNCNm9CDAk1s8C56L/duGizpH6WxZwzBr8WJKyGm6+BT77YYW/azRM8jBZCLVgkV3Bb2CJ8Bq6JCFQHBjJDsH1Bm5Wops2de602eoWC4a84vMXL7QQjTKf+vB7cAe1nRI6SZl9mkbKdzzelDFqum07Y2U00ck5ZVxMBAvKvCmDM4EmgXccGb5SWOkvROGEb1hcYZCV85Vh4BSzgqtSHf4kOGnimQ7p28iN/EPmyrA=;lAz7GJVYE3le1tHy/+YVLw=="
 ---

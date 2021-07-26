@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Numerade Labs Raises $26 Million for AI Ed Tech"
+    excerpt: "Santa Monica-based education technology platform Numerade Labs Inc. raised $26 million in Series A funding for its artificial intelligence-driven tutoring platform. The funding round, which was announced July 20,"
+    publishedDateTime: 2021-07-26T07:08:00Z
+    webUrl: "https://labusinessjournal.com/news/2021/jul/26/numerade-labs-raises-26-million-ai-ed-tech/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 37
+    images:
+      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/06/30/Marsh-Mc-CC-Tech-Firms-20210701.png"
+        width: 294
+        height: 530
+        isCached: true
 
 secured: "xt+f5J4vSvq63pzc+hMM9x+ha2HYU4cK9dzKs9wHnT/SgEfj82AHBaTNkQBss5Q8zEIzwWVzrJDNxBN1l5RKA3ZJOY9o4lbw7fnF7EDxNza9k4sFwBryqe7sX83Rh2gHKeOKi37PXofPQBteBi9u6tkNjpAOYjvWyAhVTMsjyokDJ5A+HGi/A1WdrZrlnArwdf7I1d9IQDJ812CYXxrpTzsKyWMsbREo/kBM/Sq4yf442OpqFUiEEk7J5Zb2zuyf2CUfxJbSKb/oQx3cAhfLg1MLOsV3tIP5n/eWV/VRpTjkuPv4EcyNXRWSvngiyk0AcJJzEQfVGEkbFyjrTIdVF/E+zhU0dtffuJlVJ5KbfbXJVN5o13T9opTNVYN7S2iDWUqaNmJWBxhDAvPRs/VfCPxjQ/ZOruTGWkB4Qg0Phj1MDRIv9R30sdGcKwKZM3SvfZfv3m1QLABaCIuM4zY4sBai0pWAIxklN9nj2WSEpXOkeh5XCBnvjAEl6LQujAIb+0rh0nB+7w0Q7QWyV76i1w==;IAY+iD1xcZV81TeteO9EfQ=="
 ---

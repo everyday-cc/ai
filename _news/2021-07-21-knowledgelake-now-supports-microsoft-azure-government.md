@@ -2,13 +2,10 @@
 category: news
 title: "KnowledgeLake Now Supports Microsoft Azure Government"
 excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
-publishedDateTime: 2021-07-21T15:34:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/KnowledgeLake-Now Supports-Microsoft-Azure-Government-148070.aspx"
-webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/KnowledgeLake-Now Supports-Microsoft-Azure-Government-148070.aspx"
+publishedDateTime: 2021-07-21T04:00:00Z
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
   name: Destination CRM
@@ -24,61 +21,6 @@ images:
     height: 610
     isCached: true
 
-related:
-  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-    excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
-    publishedDateTime: 2021-07-22T18:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 66
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Microsoft Buys CloudKnox To Boost Cybersecurity, Cloud Protection"
-    excerpt: "Microsoft has acquired CloudKnox Security, boosting its commitment to cybersecurity, the company announced in a Wednesday (July 21) blog post. CloudKnox has the ability to help companies right-size permissions,"
-    publishedDateTime: 2021-07-21T22:12:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/microsoft-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "KnowledgeLake provides support for Microsoft Azure Government"
-    excerpt: "Public sector organizations can leverage the KnowledgeLake platform to manage content and data residing within the Microsoft Azure Government-dedicated cloud environment"
-    publishedDateTime: 2021-07-21T16:20:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148082"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 54
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-        width: 772
-        height: 594
-        isCached: true
-  - title: "Microsoft acquires CloudKnox Security to offer unified privileged access and cloud entitlement management"
-    excerpt: "Helping organizations strengthen cloud security and Zero Trust. At Microsoft, we are committed to supporting organizations in their digital transformation and helping them to deli"
-    publishedDateTime: 2021-07-21T15:33:00Z
-    webUrl: "https://www.publicnow.com/view/5F7F1FD999BBB9434A26A6E22457EFC48F240BB2"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 19
-
-secured: "wcJZBhz585Nz9Po3f/Yc3tUI0mYzTw4lBTnT7pA6SGi5/Hi0YmGrRd1QJO8ySnxvysw7XoPjS3T9jRRkQ1cLPVmLhj9+BwJGZt6vBCKlVmL9K2PiIfrVSEOJHhpq7/1P3wZKro0B+h1bi+Qv7Atro2UGqh3mpETfjFMS02aG4jWEBDULzO3mUsYgV6vOtcZv1zFBAiTJxrS9Kk65ujlFX7S97Qnt2fFtkExPr8kE1GBfSaHaKBCPkiTJHrrBo7hLvb2Adz58aiw96qbydO2Gs5sKvg7gC1Nny4a5RxVhk3DSTIv8Cqtvs3SBxvV09SaCuysuV2NDbLWsnU8dsESs71+1K6HbnLwr+xU5Ey4V0yc=;KTwx/GgZe8baWrtSXSNHUg=="
+secured: "OTNVpaZHSO/hDiccVHSB1ElnyulGYkQ0vkGZx3lBate4KHos+YozZ5+1BIvGEof+dpSoUnQr0TPwAjHauKIHNRoUV22Ct1MECDAtUfTSoUhLnoVA3n2rPmp+F8HGqIMoFsgamuyo3k5dGWjY2l2s8xqbhXTVNVP6m85tjcWrfrL/qedXtQpOhCWX8XInG9IxajQvbB1yEVNp41jfiDAQYwrxa1vFTZMevwUM62uM/2MH/TK0quneQatlHoM9mK0inZN9b0NHM7cy4AAPtcdHo2JtZVg1ci0qzA4oBjShbnAyJFm0dzBKrzbZS/xCPKH8x+mE8C6wLqITW9jF328qJAZcaafwksUpklqmnHThf3M=;KyICh9ovLLLMS+YZ1Txt+Q=="
 ---
 

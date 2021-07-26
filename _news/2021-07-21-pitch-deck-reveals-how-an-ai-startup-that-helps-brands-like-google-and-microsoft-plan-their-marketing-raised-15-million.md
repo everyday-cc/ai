@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-startup-blueocean-raised-15-mil
 webUrl: "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "RAIsonance, Inc. Joins Microsoft for Startups Program"
-    excerpt: "With support from the Microsoft for Startups program, SoundPass will be able to roll out the SoundPass Access technology rapidly to businesses, educational campuses, entertainment venues, houses of worship or any facility seeking to enable smarter in-person interactions."
-    publishedDateTime: 2021-07-21T14:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/raisonance-inc-joins-microsoft-for-startups-program-1030630919"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
 
 secured: "EEHU3rcHsVD4BEfyjChmxK053XlQNNeb88TtwrWWio2TE1Sb7RrszNuIq61Obf2MqCUODauHvU0rtm0MCtWb4DTVm2uF0jZSWGJAK6wtp7nz95tLVP/XYDCeTBjXnpPysKv/pyJgCgWEmWX8pYkZO5AuAYO3QpSp+WgN66g/Yb+SKDgFoM3w7HFsE4hW9NwOECB+el8w+TCBUmb7jK6+4k/V8523y9izErBkYv1nrSMayoRYKSDEor8Al7FPsrO+gdCZZNl3nrlDOBbBKqDCZSortUziZJtW8LhsYeidwOxFmWwBleJBGFpD49xABZvRT3mLOs8qpHsKc8n7OnaRofY1imiVrzkT0AthC7cJoAF3N+hCg16purBG+RGTpu5LuViQoFphJa+iUo8eyDplVphNS2xhXjqt/+gapN3qPr+NTvqy0BLYxSoJkkisBJWz6t6iQCWI5h99BB/uP3CkwVCQjXo+K5tjUfqHeJ5PXoIH5x/VcgEfPbDnlHr7g8ixHv6j7MUP6la2mjI58jSXtg==;l4JLlXzE7YfYJqZr2JXdvw=="
 ---

@@ -20,19 +20,21 @@ topics:
   - AI in Security
 
 related:
-  - title: "Fero Labs Raises $9 Million in Series A Financing to Bring Explainable Machine Learning to Industrial Manufacturing"
-    excerpt: "Fero Labs, the only Explainable Machine Learning software solely dedicated to the industrial sector, today announced the closing of a $9 million Series A round led by Innovation Endeavors, with participation from Deutsche Invest VC."
-    publishedDateTime: 2021-07-21T14:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fero-labs-raises-9-million-in-series-a-financing-to-bring-explainable-machine-learning-to-industrial-manufacturing-1030630818"
+  - title: "New machine learning-based model predicts mortality risk of intensive care unit patients"
+    excerpt: "A research team led by Dr Rosario Delgado from the UAB Department of Mathematics, in collaboration with the Hospital de Mataró, developed a new machine learning-based model that predicts the risk of mortality of intensive care unit patients according to their characteristics."
+    publishedDateTime: 2021-07-23T16:50:00Z
+    webUrl: "https://www.news-medical.net/news/20210723/New-machine-learning-based-model-predicts-mortality-risk-of-intensive-care-unit-patients.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210723/New-machine-learning-based-model-predicts-mortality-risk-of-intensive-care-unit-patients.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210723/New-machine-learning-based-model-predicts-mortality-risk-of-intensive-care-unit-patients.aspx"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
+      name: News Medical
+      domain: news-medical.net
+    quality: 50
     images:
-      - url: "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "/WKt4w6l0ySUIrGPrhI1Ofokfwx2lpiG+UQiJM1utt8He+lJ3VVq6JcM4pT0Sj7dkQkjN526pXfJ/dxCQ0uCBm63NP2LCK7dtgsaXj+eqvOJsy+bx2Ss7LZRIlUbBjMgz0/+kg4a0l7t+bWq8iptqNJfFp6+al2yWTYaS2v7i1DmCVLmzVEj2XWNZV6XaAd553by6I36GyMtG87ay9ApduQNxByL4IhfDo5fgCHmks5e/sbrAWc9n3dvfPqPwX0s9Yp6UKZ+JAADO7tpeHZgigAaCOITElbQGoclRuVeuhGXCqyYr3WCT6L70zEA0mjqYY3I5+fHDmm6fBmfhqdijj/6Wo597CoLyasBH/q2LKQ=;tUjSt5nG/3fs1iWE8fkgoA=="

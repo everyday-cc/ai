@@ -41,15 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Insights on the Face Recognition Using Edge Computing Global Market to 2025 - Featuring Apple, Horizon Robotics and Mediatek Among Others"
-    excerpt: "12.16 Cisco Systems, Inc. 12.17 Belden Inc. 12.18 IBM Corporation 12.19 Intel Corporation 12.20 Moxa Inc."
-    publishedDateTime: 2021-07-21T13:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/21/9413820.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
 
 secured: "Yon7Ij+Y8gh9buyqI2eHJg50TbOfZl2uuT9KjjQrPf4h+OjKGMEoDukRhhGfCsCDToll2cDpoPXnc84CVYwlB8bdAmOm23zFhgXx8Oj5N1RzChmCniAeuRTm5w4u/0/9wSdtKCYrNZff4KzH7U+tKHQ8lmI336J6N4T3WbfXiL94J82O5N/zLpVVhSi6jgNce7R38Su6AS5GwajHHU6nGmtBZW9pt6XnnJvhSr5tc7puPT24g4/HNDAZPOiBCxCv4R5JYsDO2ug1+qmpAJc2mhwRgIIl+OPxpgFFyEzQTaurgD9X8Cxf7P0TwYWrg19n/Zp97zb3q6/3Nu90fP35F3noyvd8IXTTK2NONCWwVaxuJ2Lpi+MEb78AbsS/y2+FBo6Or9Mpkr9+BK7EU96XZQWsUeQepvqu9wmE3jFYcd1CNoDP4HSJ+/ZhayrtMZp/jmqQaKciII65BLvwYmbyptqP+F69k/0wY443VZgD7mDLa+aZrtQABPCUiwiKnNKTubZbvZyojEgU9ZHOOIwMEw==;Dy9/a9Eeeennx4jUTIUdNA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.llnl.gov/news/registrations-ongoing-virtual-forum-indu
 webUrl: "https://www.llnl.gov/news/registrations-ongoing-virtual-forum-industrial-machine-learning-applications"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Zetane Systems Awarded Second Grant from Montreal Inc to Further Develop Software for Industrial Applications of AI"
-    excerpt: "The Montreal headquartered software technology company Zetane Systems announced today being one of 15 local start ups from diverse industries to receive the Revelations grant from Montreal Inc The 10 000 in funds will double"
-    publishedDateTime: 2021-07-21T14:06:00Z
-    webUrl: "https://www.openpr.com/news/2333941/zetane-systems-awarded-second-grant-from-montreal-inc-to-further"
-    ampWebUrl: "https://www.openpr.com/amp/2333941/zetane-systems-awarded-second-grant-from-montreal-inc-to-further"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333941/zetane-systems-awarded-second-grant-from-montreal-inc-to-further"
+  - title: "Reader Polls: What Roles Are Hardest to Fill in the Translation and Localization Industry?"
+    excerpt: "Slator readers weigh in on hiring for localization industry roles, recruiting salespeople, language learning, B2B video market potential."
+    publishedDateTime: 2021-07-22T07:20:00Z
+    webUrl: "https://slator.com/reader-polls-what-roles-are-hardest-to-fill-in-the-translation-and-localization-industry/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
+      name: Slator
+      domain: slator.com
+    quality: 14
     images:
-      - url: "https://cdn.openpr.com/U/7/U721650247_g.jpg"
-        width: 800
-        height: 718
+      - url: "https://slator.com/assets/2021/07/Translation-and-Localization-Industry-Survey-July-2021.png"
+        width: 600
+        height: 400
         isCached: true
-  - title: "SambaNova Systems and ScaleWorX Enter Historic Partnership to Drive Artificial Intelligence Adoption and Applications in Asia"
-    excerpt: "SambaNova Systems, the company building the industry's most advanced software, hardware and services to run AI applications, today announced it has entered a first-of-its-kind strategic partnership with ScaleWorX,"
-    publishedDateTime: 2021-07-21T13:50:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sambanova-systems-scaleworx-enter-historic-partnership-drive-artificial-/2021/07/21/9414044.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "ua+o8msJIVIhKOHwIcxeOrqNL6KEBxL4C8myS3oku1qinUI31Ech+hRX4sKfLGOfhmANd0CcofXmA6j4qoORWbvIDlPx2PeIVNZmGAEJB/05DtR+KV4ya1UN/dXOvvP+AgdL4sZFm2urR2kxb494rd2o1BfpPaPSWqZd/C0R4r9JhY+ThxlbS2xVsMs3MerAhWa9j2opi3ay0c+wfS3An9/qjCKNfEp5ICOKjSzrNoylxeXnzviiw3L+DjIrYqLn1rYnAtNo9+bk41ihPLF7hr/ez+bW1LRT1HZh+qXWKf7PY2SYRaDAr5/+H3cCWGTSONwT14g77nGJE1YZ0jsPK/mTdASJH5Jra9T+JyPSTyloiBwrHwNorF+EqxkFPJP9ncs7zk2Sr0waf3ihakcltSoxQ60EEdGjhQsy76TyqmRxCqrz/iiSw6wQU475jKvlpCe29zhAej9ZFfekbgybrl6YKaPVJ26UDVmNnoniMLxOqbWZOGOvVVqHpEnDH8KfOXaaW0sN/YEr8afgUBOiYA==;WMORLDwbw0v6+WHCW2Swug=="
 ---

@@ -44,15 +44,6 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "RAIsonance, Inc. Joins Microsoft for Startups Program"
-    excerpt: "With support from the Microsoft for Startups program, SoundPass will be able to roll out the SoundPass Access technology rapidly to businesses, educational campuses, entertainment venues, houses of worship or any facility seeking to enable smarter in-person interactions."
-    publishedDateTime: 2021-07-21T14:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/raisonance-inc-joins-microsoft-for-startups-program-1030630919"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
 
 secured: "1lfrf4RcIGl32kKprANomB8dQ6Keynsh4J5XCliDgPddMYJV8gnwCv8DLvbpvydd9r55T2gXqiz7z+ScleSlZeB4KIKk+Fmui4iJRSNhFHrD8d5nN1Jz8RAzk5gF3tckwlQzg+ppI1KrYmtva/0xOnJCfXkfVEoCN4H+/0+WYRYeISb8vzgNMgNEZKqHOTnKTilvFegaC7UoX5hNKwyxxmtsn+/qhXK9bQt8rfsU2ziH5hrTbyJxxdIr8GVBMh/A0sh7pVEcgo721dE1EDUsCMSWBEx94NksxjaYP+kwYmKq2a5Tx5UdFu/S5oJpgKjfCYY10fecFdk8KgLxRnWe+ASd6FccgDDpudG+u4ORcd/w1vJOig4sNZPLYFDJaUBMkV8+wWJQyA16JHMfdn465cRjaf3ZZSiLJbjApAvOKlmI8agZKRxlL0ldXXtCAf/3ancMdmPulVYLiCSoQuTowLUgTDlINlZULViOaL1zVPz0hshUYA2AM/wa5mbgxriOf+TW9Ts3LfpyWUCX7GEP9w==;lj2oTjTFW6MgLa8MjIvRMw=="
 ---
