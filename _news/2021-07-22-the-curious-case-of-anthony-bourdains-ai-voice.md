@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/the-curious-case-of-anthony-bourdain
 webUrl: "https://analyticsindiamag.com/the-curious-case-of-anthony-bourdains-ai-voice/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "'Roadrunner' uses AI for Bourdain soundalike"
-    excerpt: "In \"Roadrunner,\" Bourdain is seen and heard in decades' worth of video and cellphone footage in every imaginable geographical context. When we hear Bourdain speaking in voice-over, most of the words he's speaking come from a variety of podcasts,"
-    publishedDateTime: 2021-07-23T07:24:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/jul/23/roadrunner-uses-ai-for-bourdain-soundalike/"
+  - title: "AI deepfakes of Anthony Bourdain’s voice are only a taste of what’s coming"
+    excerpt: "AI tech used to re-create Anthony Bourdain's voice in a documentary is already stirring legal, labor and ethical issues — and making Hollywood production faster."
+    publishedDateTime: 2021-07-26T12:00:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/story/2021-07-26/la-et-anthony-bourdain-deepfake-ai-voice-documentary-audio-cgi"
+    ampWebUrl: "https://www.latimes.com/entertainment-arts/story/2021-07-26/la-et-anthony-bourdain-deepfake-ai-voice-documentary-audio-cgi?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/story/2021-07-26/la-et-anthony-bourdain-deepfake-ai-voice-documentary-audio-cgi?_amp=true"
     type: article
     provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 39
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 55
     images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/93aefab/2147483647/strip/true/crop/1616x1055+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9e%2F06%2F14b271e04eddab55e5c8b33440e3%2Flange-rovers-author-photo-cred-chris-pellegrino.jpeg"
+        width: 320
+        height: 209
         isCached: true
 
 secured: "UL7vZYcUbtuvixDGARdLOvyhp70PGVCG7+k/wuhN5A6h3ehMkbgN3D2kHr1dW/AiND25lOUuz0QlzEbBzZwkfLCGxZtW083TqPdj/lx2FaReHaWod/a9ZM4Bfq2uOXLYhDZy0ia4xWs8NGnFqT7+A1HMHqlqqGrbkLUpXIeRDkv//kSVIzd6V/ziEOc2A/gCNkXgx5MNH0p+Q8S6JSO2FHbMy+DUfuL80ytBhdyzx0GQpg3JqTtlfiYgujWhIiUX5icirWnaVWMSMw5Js4a4Xjt4ofudjZYS6BapKKVSUkQ6LRYMd2NMtI3HSOahdIEKm33NeZDKzx4+QJGqQtyt2LPvh43HHR3tnZ/K2XJWrc1UfRRueyEKWjMYKmIru6BYBOyYoO6GvOxrY2/ADx1x43+6EMmtluDwl6kB21WHfsDi7+rD1XRcE9lziEb6EMCEFDQWjYW1cpCv49DO3uMOyhNEwE35DCq8kCa+ACK62fyqalKUYpSI4aDivgb3vtY9qEi918VE2f+6pGEcMxhd8Q==;qvfrTNUZ5wrbRfiyWbYOhQ=="

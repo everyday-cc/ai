@@ -2,6 +2,75 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-02-4-top-fintech-stocks-to-watch-in-july-2021.md",
+      "title": "4 Top Fintech Stocks To Watch In July 2021",
+      "excerpt": "Do You Have These The Fintech Stocks On Your July Watchlist? Fintech stocks have been some of the most popular stocks in the stock market today. Fintech is growing and the growth",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02",
+      "originalUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp",
+      "publishedDateTime": "2021-07-02T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-legal-software-focus-on-machine-learning-market.md",
+      "title": "Legal Software Focus On Machine Learning Market",
+      "excerpt": "The legal software focus on machine learning market report describes ... of industries including manufacturing, healthcare, financial services, chemicals, and technology. The World’s Most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2320027/legal-software-focus-on-machine-learning-market-global",
+      "originalUrl": "https://www.openpr.com/news/2320027/legal-software-focus-on-machine-learning-market-global",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2320027/legal-software-focus-on-machine-learning-market-global",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2320027/legal-software-focus-on-machine-learning-market-global",
+      "publishedDateTime": "2021-07-02T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-ajnifm-and-microsoft-are-collaborating-to-build-an-ai-coe.md",
       "title": "AJNIFM and Microsoft are collaborating to build an AI CoE",
       "excerpt": "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning",
@@ -1209,84 +1278,6 @@
         "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services.md",
-      "title": "Tractable becomes world's first computer vision unicorn for financial services",
-      "excerpt": "The round doubles the total raised by Tractable from $55M to $115M and values the company at $1B – making it the world's first computer vision 'unicorn' for financial services. When drivers get into an accident,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-a-fintech-ipo-to-watch-and-a-very-complex-spac-deal.md",
-      "title": "A Fintech IPO to Watch and a Very Complex SPAC Deal",
-      "excerpt": "Financials, host Jason Moser and Fool.com contributor Matt Frankel, CFP, take a closer look at recent fintech IPO Flywire (NASDAQ:FLY",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
-      "publishedDateTime": "2021-06-16T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

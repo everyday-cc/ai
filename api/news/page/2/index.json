@@ -2,6 +2,402 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-24-ai-can-add-bias-to-hiring-practices-one-company-found-another-way.md",
+      "title": "AI can add bias to hiring practices: One company found another way",
+      "excerpt": "After anglicizing his name, the founder of Knockri got a job. So he created a solution to remove bias from artificial intelligence in hiring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-can-add-bias-to-hiring-practices-one-company-found-another-way/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-can-add-bias-to-hiring-practices-one-company-found-another-way/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/07/23/716e61a2-2ff8-4dcd-afe3-2a69cdab0504/resize/1200x/8d8200805da615fb588a80324881aeac/hiring-bias.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-can-add-bias-to-hiring-practices-one-company-found-another-way/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-can-add-bias-to-hiring-practices-one-company-found-another-way/",
+      "publishedDateTime": "2021-07-23T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices.md",
+      "title": "Xilinx Expands Vitis AI Development Platform To Support Latest Versal ACAP And Kria SOM Devices",
+      "excerpt": "Since its unveiling, the Vitis AI development environment has evolved and expanded in scope to incorporate more tools, example designs, libraries and models designed to best leverage Xilinx’s varied array of compute devices,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/",
+      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fb0fbc45d4d6d1fe8f0946%2F0x0.jpg",
+          "width": 1107,
+          "height": 813,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/amp/",
+      "publishedDateTime": "2021-07-23T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-ai-tool-shows-how-machine-learning-could-make-video-editing-more-efficient.md",
+      "title": "AI Tool Shows How Machine Learning Could Make Video Editing More Efficient",
+      "excerpt": "A new AI tool is attempting to harness some of the recent advancements made in machine learning’s video production capacities behind a sleek user interface. Patrick Kulp is an emerging tech reporter at Adweek.",
+      "sourceUrl": null,
+      "webUrl": "https://www.adweek.com/creativity/ai-tool-shows-how-machine-learning-could-make-video-editing-more-efficient/",
+      "originalUrl": "https://www.adweek.com/creativity/ai-tool-shows-how-machine-learning-could-make-video-editing-more-efficient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2019/07/adweek-collage-640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.adweek.com/creativity/ai-tool-shows-how-machine-learning-could-make-video-editing-more-efficient/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/creativity/ai-tool-shows-how-machine-learning-could-make-video-editing-more-efficient/amp/",
+      "publishedDateTime": "2021-07-23T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-want-your-unemployment-benefits-you-may-have-to-submit-to-facial-recognition-first.md",
+      "title": "Want your unemployment benefits? You may have to submit to facial recognition first",
+      "excerpt": "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he hasn't received a penny of the $6,490 he said he was eligible to receive and he's not sure when he will.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+      "originalUrl": "https://www.msn.com/en-us/money/smallbusiness/want-your-unemployment-benefits-you-may-have-to-submit-to-facial-recognition-first/ar-AAMtC1Y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200209224400-20200209-facial-recognition-gfx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+      "publishedDateTime": "2021-07-23T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+        "domain": "com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-25-states-are-forcing-face-recognition-on-people-filing-for-unemployment.md",
+      "title": "25 States Are Forcing Face Recognition on People Filing for Unemployment",
+      "excerpt": "State labor departments claim that they're using face recognition identity verification to prevent fraud, but you might want to check out the privacy policy.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707",
+      "originalUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/401a169d87d990b688a397d4df93cbd1.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp",
+      "publishedDateTime": "2021-07-23T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-alphabet-tackles-industrial-robot-software-market.md",
+      "title": "Alphabet tackles industrial robot software market",
+      "excerpt": "Google 's parent company Alphabet has launched a new company called Intrinsic to make industrial robots easier to program. Originally a project within Google's X research group, Intrinsic has graduated as an independent company within Alphabet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1620312937/itpro/2021/05/shutterstock_manufacturing_robot_AI.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market?amp",
+      "publishedDateTime": "2021-07-23T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise.md",
+      "title": "Tesla Full Self-Driving explained: Its capabilities, cost and puzzling over-promise",
+      "excerpt": "Perhaps the most overly optimistic technology in all of the auto industry is Tesla's Full Self-Driving package. No car for sale to the general public can do what that name says. Here's what it really does and how to get it on your Tesla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
+      "originalUrl": "https://www.cnet.com/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/hTc2mT4Ktz7OJaDFafDjDPV8KhE=/2016/10/20/2d92b545-6e58-409b-b494-76c8511dfc32/tesla-self-driving-hardware-4.jpg",
+          "width": 1590,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
+      "publishedDateTime": "2021-07-23T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation.md",
+      "title": "Is Artificial Intelligence The New Logistics Technology For Organ Transportation?",
+      "excerpt": "Twenty people die each day because they do not receive their lifesaving organs on time. Can AI and drones make a real change?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f9f44dc600c230ca922553%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation/amp/",
+      "publishedDateTime": "2021-07-23T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-robots-take-the-wheel-lyft-to-offer-driverless-rides-in-austin-next-year.md",
       "title": "Robots take the wheel: Lyft to offer driverless rides in Austin next year",
       "excerpt": "Austin will be one of the first markets to offer autonomous ride-hailing options through a partnership between Lyft, Ford and Argo AI.",
@@ -105,7 +501,7 @@
       "originalUrl": "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -158,7 +554,7 @@
       "originalUrl": "https://www.openpr.com/news/2335814/global-deep-learning-market-potential-segments-their",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -254,7 +650,7 @@
       "originalUrl": "https://www.lelezard.com/en/news-19916974.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -459,58 +855,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-global-artificial-intelligence-in-healthcare-market-key-players-industry-demand-overview-and-supply-chain-analysis-forecast-to-2030.md",
-      "title": "Global Artificial Intelligence in Healthcare Market Key Players, Industry Demand, Overview And Supply Chain Analysis, Forecast To 2030",
-      "excerpt": "In a recent published report, Kenneth Research has updated the Global Artificial Intelligence in Healthcare Market report for for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-key-players-industry-demand-overview-and-supply-chain-analysis-forecast-to-2030-2021-07-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-key-players-industry-demand-overview-and-supply-chain-analysis-forecast-to-2030-2021-07-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T21:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -859,348 +1203,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-vochi-raises-additional-24-million-for-its-computer-vision-powered-video-editing-app.md",
-      "title": "VOCHI raises additional $2.4 million for its computer vision-powered video editing app",
-      "excerpt": "VOCHI, a Belarus-based startup behind a clever computer vision-based video editing app used by online creators, has raised an additional $2.4 million in a “late-seed” round that follows the company’s initial $1.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/",
-      "originalUrl": "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/VOCHI-team.jpeg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/amp/",
-      "publishedDateTime": "2021-07-22T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more.md",
-      "title": "OnePlus Nord 2 unveiled with Dimensity 1200 AI, 50MP camera and more",
-      "excerpt": "OnePlus has announced the OnePlus Nord 2 with Dimensity 1200 AI SoC, 50MP camera with OIS, and 65W fast-charging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
-      "originalUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/07/OnePlus-NOrd2-2-1-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
-      "publishedDateTime": "2021-07-22T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-waymo-to-open-offices-in-pittsburgh-an-av-tech-hub.md",
-      "title": "Waymo to open offices in Pittsburgh, an AV tech hub",
-      "excerpt": "Waymo, Google’s former self-driving car project that’s now an independent business unit under Alphabet, is expanding its presence in the eastern U.S. The company said Thursday it would be opening offices in Pittsburgh,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/",
-      "originalUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/waymo.jpg?w=799",
-          "width": 799,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/",
-      "publishedDateTime": "2021-07-22T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-3-tech-stocks-using-artificial-intelligence-to-unlock-growth.md",
-      "title": "3 Tech Stocks Using Artificial Intelligence to Unlock Growth",
-      "excerpt": "Artificial intelligence is spreading across almost every industry in the world and helping businesses to build scale that was previously never thought possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
-      "originalUrl": "https://www.fool.com/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F634063%2Fa-person-in-a-car-signing-a-digital-tablet.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
-      "publishedDateTime": "2021-07-22T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-diverse-ai-teams-are-key-to-reducing-bias.md",
-      "title": "Diverse AI teams are key to reducing bias",
-      "excerpt": "But if you are on the receiving end of a decision [that] is being used by AI, that can be disastrous,” Huma Abidi, senior director of AI SW products and engineering at Intel, said during a ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/22/diverse-ai-teams-are-key-to-reducing-bias/",
-      "originalUrl": "https://venturebeat.com/2021/07/22/diverse-ai-teams-are-key-to-reducing-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/bipoc.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/22/diverse-ai-teams-are-key-to-reducing-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/diverse-ai-teams-are-key-to-reducing-bias/amp/",
-      "publishedDateTime": "2021-07-22T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-how-many-unicorn-companies-are-in-the-uk.md",
-      "title": "How many unicorn companies are in the UK?",
-      "excerpt": "Famous Unicorn companies include Reddit, Stripe and Elon Musk’s SpaceX. While the United States dominates the list of unicorn companies, Forbes reports that there are 91 unicorns in the UK.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbinsights.com/research-unicorn-companies",
-      "originalUrl": "https://www.fool.co.uk/mywallethero/share-dealing/learn/how-many-uk-unicorns-are-there/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://v.fastcdn.co/u/11443291/54389437-0-unicorn-list-2.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool UK",
-        "domain": "fool.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns.md",
-      "title": "Bias in AI isn’t an enterprise priority, but it should be, survey warns",
-      "excerpt": "Bias in AI is the biggest enterprise challenge, according to a recent Anaconda survey, but few organizations are correcting it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/22/bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns/",
-      "originalUrl": "https://venturebeat.com/2021/07/22/bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Anaconda-Biggest-Problem-1200x600-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/22/bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns/amp/",
-      "publishedDateTime": "2021-07-22T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

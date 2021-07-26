@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-26-does-your-project-need-artificial-intelligence.md",
+      "title": "Does Your Project Need Artificial Intelligence?",
+      "excerpt": "Implementing AI technologies can benefit your business so long as you clearly understand what values they bring and set realistic goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60facbc267f6107b328f0946%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-healthcare-natural-language-processing-nlp-market-including-top-key-players-nlp-technologies-nec-apple.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market including top key players NLP Technologies, NEC, Apple",
+      "excerpt": "Los Angeles United States North America including Q1 2021 analysis The report named Global Healthcare Natural Language Processing NLP Market has been added to the archive of market research studies by JCMR The industry experts and researchers have offered reliable",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2337136/healthcare-natural-language-processing-nlp-market-including",
+      "originalUrl": "https://www.openpr.com/news/2337136/healthcare-natural-language-processing-nlp-market-including",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U726100798_g.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2337136/healthcare-natural-language-processing-nlp-market-including",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337136/healthcare-natural-language-processing-nlp-market-including",
+      "publishedDateTime": "2021-07-26T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-whats-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare.md",
       "title": "What's Wrong with IBM Watson & Is Narrow AI Helpful in Healthcare?",
       "excerpt": "IBM poured millions of dollars to revolutionise healthcare, but the experiment turned out to be far more difficult and time-consuming than expected.",
@@ -54,7 +151,7 @@
       "originalUrl": "https://www.lelezard.com/en/news-19916974.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -87,58 +184,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-global-artificial-intelligence-in-healthcare-market-key-players-industry-demand-overview-and-supply-chain-analysis-forecast-to-2030.md",
-      "title": "Global Artificial Intelligence in Healthcare Market Key Players, Industry Demand, Overview And Supply Chain Analysis, Forecast To 2030",
-      "excerpt": "In a recent published report, Kenneth Research has updated the Global Artificial Intelligence in Healthcare Market report for for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-key-players-industry-demand-overview-and-supply-chain-analysis-forecast-to-2030-2021-07-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-key-players-industry-demand-overview-and-supply-chain-analysis-forecast-to-2030-2021-07-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T21:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -1321,41 +1366,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know.md",
-      "title": "Best Artificial Intelligence Stocks To Buy In July 2021? 3 Names To Know",
-      "excerpt": "Artificial intelligence (AI ... Notably, the Cambridge-1 will serve to enable top scientists and healthcare experts via a combination of AI and simulation. In turn, this will ideally accelerate the digital biology revolution and bolster the country ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08",
-      "originalUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08?amp",
-      "publishedDateTime": "2021-07-08T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zawya.com/uae/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -42,6 +42,58 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-global-artificial-intelligence-in-finance-market-2021-size-share-analysis-demand-growth-driver-and-industry-segments-by-2026.md",
+      "title": "Global Artificial Intelligence in Finance Market 2021 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2026",
+      "excerpt": "The multipurpose new research study on the Global Artificial Intelligence in Finance Market 2021 by Company, Regions, Type and Application, Forecast to 2026 aims to promise a unique approach to industry assessment of the market covering the most important factors driving industry growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-finance-market-2021-size-share-analysis-demand-growth-driver-and-industry-segments-by-2026-2021-07-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-finance-market-2021-size-share-analysis-demand-growth-driver-and-industry-segments-by-2026-2021-07-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T19:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -143,10 +195,10 @@
     {
       "path": "_news/2021-07-20-softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning.md",
       "title": "SoftServe Wins Google Cloud Specialization Partner of the Year Award for Machine Learning",
-      "excerpt": "SoftServe, a leading digital authority and consulting company and Google Cloud Premier Partner has won the 2020 Google Cloud Global Specialization Partner of the Year – Machine Learning award. “It’s an honor to receive this award from Google Cloud recognizing our machine learning innovation and experience helping businesses to understand and fully leverage the benefits of Google Cloud,",
+      "excerpt": "SoftServe, a leading digital authority and consulting company and Google Cloud Premier Partner has won the 2020 Google Cloud Global Specialization Partner of the Year – Machine Learning award. This press release features multimedia.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210720005035/en/SoftServe-Wins-Google-Cloud-Specialization-Partner-of-the-Year-Award-for-Machine-Learning",
-      "originalUrl": "https://www.businesswire.com/news/home/20210720005035/en/SoftServe-Wins-Google-Cloud-Specialization-Partner-of-the-Year-Award-for-Machine-Learning",
+      "webUrl": "https://www.financialbuzz.com/softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning/",
+      "originalUrl": "https://www.financialbuzz.com/softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -159,8 +211,8 @@
       "publishedDateTime": "2021-07-20T09:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -461,6 +513,50 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-unlocking-value-with-privacy-preserving-machine-learning.md",
+      "title": "Unlocking Value With Privacy-Preserving Machine Learning",
+      "excerpt": "To address this unprecedented need, machine learning (ML) is proving to be a powerful tool for uncovering the value locked within data. However, with power comes responsibility, and in order to leverage ML effectively,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpomagazine.com/insights/unlocking-value-with-privacy-preserving-machine-learning/",
+      "originalUrl": "https://www.cpomagazine.com/insights/unlocking-value-with-privacy-preserving-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/07/unlocking-value-with-privacy-preserving-machine-learning_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/unlocking-value-with-privacy-preserving-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unlocking-value-with-privacy-preserving-machine-learning/amp/",
+      "publishedDateTime": "2021-07-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1272,75 +1368,6 @@
       "provider": {
         "name": "Morningstar, Inc.",
         "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-4-top-fintech-stocks-to-watch-in-july-2021.md",
-      "title": "4 Top Fintech Stocks To Watch In July 2021",
-      "excerpt": "Do You Have These The Fintech Stocks On Your July Watchlist? Fintech stocks have been some of the most popular stocks in the stock market today. Fintech is growing and the growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02",
-      "originalUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp",
-      "publishedDateTime": "2021-07-02T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-legal-software-focus-on-machine-learning-market.md",
-      "title": "Legal Software Focus On Machine Learning Market",
-      "excerpt": "The legal software focus on machine learning market report describes ... of industries including manufacturing, healthcare, financial services, chemicals, and technology. The World’s Most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2320027/legal-software-focus-on-machine-learning-market-global",
-      "originalUrl": "https://www.openpr.com/news/2320027/legal-software-focus-on-machine-learning-market-global",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2320027/legal-software-focus-on-machine-learning-market-global",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2320027/legal-software-focus-on-machine-learning-market-global",
-      "publishedDateTime": "2021-07-02T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

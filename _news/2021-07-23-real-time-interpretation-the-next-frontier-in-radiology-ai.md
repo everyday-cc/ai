@@ -35,6 +35,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Global Artificial Intelligence in Energy Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "The Artificial Intelligence in Energy market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic and global ..."
+    publishedDateTime: 2021-07-22T14:18:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4684823-global-artificial-intelligence-in-energy-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "qDhEh10CxRGODkjs8ADFTfW2lsKvr3sUlbBJVLkSQaxUPD6HNuYenlG3Y6+6tGxnZjCG6p8M9Wkfkl29Ry6JjAALRmiU+ZBIyyApMdvkZfOzFwkGWoNq185at+/ZvGdi/JuUN8auUwDp8tVw+0Y6GKqMgaogIiKPb7WxR1y1/y32L0+ELFAF22okSAylLBTygug+C3N6B4oViax+JYBDSEt3BaQeaHqdaA8fKjJM6gnwf/k2LN68k6W1oMhISdxD1kQHXIh67c9SMCM/0JlbHFvPHHbKC2G1EuNQqNH0DZvPpAtviqrqRl8lc7Wbp7iBCXmNjN7PaCJcWXR9+hHjIHEr7T6r7iLcIyMULt0EcwY=;bvmRzNTuZzCTU1Qcak/Pkw=="
 ---

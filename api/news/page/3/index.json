@@ -2,6 +2,348 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-23-vochi-raises-additional-24-million-for-its-computer-vision-powered-video-editing-app.md",
+      "title": "VOCHI raises additional $2.4 million for its computer vision-powered video editing app",
+      "excerpt": "VOCHI, a Belarus-based startup behind a clever computer vision-based video editing app used by online creators, has raised an additional $2.4 million in a “late-seed” round that follows the company’s initial $1.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/",
+      "originalUrl": "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/VOCHI-team.jpeg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/amp/",
+      "publishedDateTime": "2021-07-22T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more.md",
+      "title": "OnePlus Nord 2 unveiled with Dimensity 1200 AI, 50MP camera and more",
+      "excerpt": "OnePlus has announced the OnePlus Nord 2 with Dimensity 1200 AI SoC, 50MP camera with OIS, and 65W fast-charging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
+      "originalUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/07/OnePlus-NOrd2-2-1-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
+      "publishedDateTime": "2021-07-22T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-waymo-to-open-offices-in-pittsburgh-an-av-tech-hub.md",
+      "title": "Waymo to open offices in Pittsburgh, an AV tech hub",
+      "excerpt": "Waymo, Google’s former self-driving car project that’s now an independent business unit under Alphabet, is expanding its presence in the eastern U.S. The company said Thursday it would be opening offices in Pittsburgh,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/",
+      "originalUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/waymo.jpg?w=799",
+          "width": 799,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/",
+      "publishedDateTime": "2021-07-22T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-3-tech-stocks-using-artificial-intelligence-to-unlock-growth.md",
+      "title": "3 Tech Stocks Using Artificial Intelligence to Unlock Growth",
+      "excerpt": "Artificial intelligence is spreading across almost every industry in the world and helping businesses to build scale that was previously never thought possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
+      "originalUrl": "https://www.fool.com/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F634063%2Fa-person-in-a-car-signing-a-digital-tablet.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/",
+      "publishedDateTime": "2021-07-22T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-diverse-ai-teams-are-key-to-reducing-bias.md",
+      "title": "Diverse AI teams are key to reducing bias",
+      "excerpt": "But if you are on the receiving end of a decision [that] is being used by AI, that can be disastrous,” Huma Abidi, senior director of AI SW products and engineering at Intel, said during a ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/22/diverse-ai-teams-are-key-to-reducing-bias/",
+      "originalUrl": "https://venturebeat.com/2021/07/22/diverse-ai-teams-are-key-to-reducing-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/bipoc.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/22/diverse-ai-teams-are-key-to-reducing-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/diverse-ai-teams-are-key-to-reducing-bias/amp/",
+      "publishedDateTime": "2021-07-22T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-how-many-unicorn-companies-are-in-the-uk.md",
+      "title": "How many unicorn companies are in the UK?",
+      "excerpt": "Famous Unicorn companies include Reddit, Stripe and Elon Musk’s SpaceX. While the United States dominates the list of unicorn companies, Forbes reports that there are 91 unicorns in the UK.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbinsights.com/research-unicorn-companies",
+      "originalUrl": "https://www.fool.co.uk/mywallethero/share-dealing/learn/how-many-uk-unicorns-are-there/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://v.fastcdn.co/u/11443291/54389437-0-unicorn-list-2.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool UK",
+        "domain": "fool.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns.md",
+      "title": "Bias in AI isn’t an enterprise priority, but it should be, survey warns",
+      "excerpt": "Bias in AI is the biggest enterprise challenge, according to a recent Anaconda survey, but few organizations are correcting it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/22/bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns/",
+      "originalUrl": "https://venturebeat.com/2021/07/22/bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Anaconda-Biggest-Problem-1200x600-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/22/bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns/amp/",
+      "publishedDateTime": "2021-07-22T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-getting-hadoop-to-jump-through-aiml-hoops.md",
       "title": "Getting Hadoop to Jump Through AI/ML Hoops",
       "excerpt": "Just a decade ago, the enterprise IT push was to make Hadoop the platform for storage and analytics. At that time, cloud hesitancy was still looming for",
@@ -156,7 +498,7 @@
       "originalUrl": "https://www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -418,7 +760,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/22/ai-startup-funding-remained-strong-in-q2-report-finds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -457,6 +799,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-artificial-intelligence-ai-in-automotive-market-industry-challenges-business-overview-and-forecast-research-study-by-2026.md",
+      "title": "Artificial Intelligence (AI) in Automotive Market Industry Challenges Business Overview and Forecast Research Study by 2026",
+      "excerpt": "Selbyville, Delaware Artificial Intelligence (AI) in Automotive Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which has been looked upon is done considering both,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-industry-challenges-business-overview-and-forecast-research-study-by-2026-2021-07-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-industry-challenges-business-overview-and-forecast-research-study-by-2026-2021-07-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -572,7 +966,7 @@
       "originalUrl": "https://www.zdnet.com/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -797,7 +1191,7 @@
       "originalUrl": "https://www.zawya.com/uae/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -828,413 +1222,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-move-to-data-now-thats-the-next-big-paradigm-mai-lan-bukovec-aws.md",
-      "title": "Move to Data – Now. That’s the next big paradigm: Mai-Lan Bukovec, AWS",
-      "excerpt": "How about having a storage area that is less of a dank-creepy basement and more of a colorful modular wardrobe? Here is all you need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/move-data-now-thats-next-big-paradigm/",
-      "originalUrl": "https://www.dqindia.com/move-data-now-thats-next-big-paradigm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/07/Mai-Lan-Bukovec1.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/move-data-now-thats-next-big-paradigm/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/move-data-now-thats-next-big-paradigm/amp/",
-      "publishedDateTime": "2021-07-21T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-warburg-pincus-backed-ai-drug-firm-insilico-weighs-us-ipo.md",
-      "title": "Warburg Pincus-Backed AI Drug Firm Insilico Weighs U.S. IPO",
-      "excerpt": "Insilico Medicine, a company that uses artificial intelligence to drive drug discovery, is considering a U.S. initial public offering that could raise about $300 million, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-07-22/warburg-backed-ai-drug-firm-insilico-is-said-to-weigh-u-s-ipo",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-07-22/warburg-backed-ai-drug-firm-insilico-is-said-to-weigh-u-s-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNA6kYWfuq2E/v0/1200x792.jpg",
-          "width": 1200,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-microsoft-acquires-cloudknox-security-to-enhance-unified-privileged-access-management.md",
-      "title": "Microsoft acquires CloudKnox Security to enhance unified privileged access management",
-      "excerpt": "Following the purchase of RiskIQ and ReFirm Labs, Microsoft has now acquired CloudKnox Security to offer unified privileged access and entitlement management in multi-cloud and hybrid environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-acquires-cloudknox-security-to-enhance-unified-privileged-access-management/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-acquires-cloudknox-security-to-enhance-unified-privileged-access-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2017/03/1490748311_mscloudsecurity_story.jpg",
-          "width": 760,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T18:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-aizen-acquires-e-commerce-data-aggregation-platform-to-reinforce-ai-creditconnect-platform.md",
-      "title": "AIZEN acquires e-commerce data aggregation platform to reinforce AI CreditConnect platform",
-      "excerpt": "AIZEN, an AI-focused fintech company based in Singapore, today has announced that it has signed a definitive agreement to acquire an e-commerce merchant cash management platform in Korea as part of its vertical date economy integration strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/aizen-acquires-e-commerce-data-aggregation-platform-to-reinforce-ai-creditconnect-platform-1030632543",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/aizen-acquires-e-commerce-data-aggregation-platform-to-reinforce-ai-creditconnect-platform-1030632543",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1574811/Aizen.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T17:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-how-pinterest-built-a-more-representative-shopping-experience-with-ai.md",
-      "title": "How Pinterest built a more representative shopping experience with AI",
-      "excerpt": "Pinterest combined artificial intelligence and augmented reality and the team diversity and inclusion, Pinterest said at Transform 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/21/how-pinterest-built-a-more-representative-shopping-experience-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/21/how-pinterest-built-a-more-representative-shopping-experience-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/pinterest.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/21/how-pinterest-built-a-more-representative-shopping-experience-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/how-pinterest-built-a-more-representative-shopping-experience-with-ai/amp/",
-      "publishedDateTime": "2021-07-21T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-ford-teams-with-lyft-argo-ai-for-self-driving-ride-shares-this-year.md",
-      "title": "Ford Teams With Lyft, Argo AI For Self-Driving Ride-Shares This Year",
-      "excerpt": "Ford Escape ride-share vehicles will launch this year in Miami. These self-drivers will still have \"safety drivers\" behind the wheel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/",
-      "originalUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbes.com/wheels/wp-content/uploads/2021/07/Ford-Lyft-Argo-self-drive-1200px.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp",
-      "publishedDateTime": "2021-07-21T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control.md",
-      "title": "5 ways driving is set to change in the near future: air-cleaning cars to mind control",
-      "excerpt": "basically – including wireless neuroheadsets that convert our electric brainwaves into communication with robotics. At Goodwood, Emotiv demonstrated its tech through the mind-controlled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
-      "originalUrl": "https://www.techradar.com/in/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/QL6cCU9JaGStf4sqioWSJB-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
-      "publishedDateTime": "2021-07-21T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-ai-image-recognition-market-to-see-huge-growth-by-2026.md",
-      "title": "AI Image Recognition Market to See Huge Growth by 2026",
-      "excerpt": "The latest study released on the Global AI Image Recognition Market by AMA Research evaluates market size, trend,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-to-see-huge-growth-by-2026-2021-07-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-to-see-huge-growth-by-2026-2021-07-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

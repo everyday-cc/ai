@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19916974.html"
 webUrl: "https://www.lelezard.com/en/news-19916974.html"
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Global Artificial Intelligence Chatbots Market 2021 Industry Emerging Trend, Top Players, Revenue Insights to 2026"
+    excerpt: "According to the latest report by MarketQuest.biz, titled Global Artificial Intelligence Chatbots Market 2021 by Company, Regions, Type and Application, Forecast to 2026, covers assimilates reliable and updated information,"
+    publishedDateTime: 2021-07-23T10:01:00Z
+    webUrl: "https://ipsnews.net/business/2021/07/23/global-artificial-intelligence-chatbots-market-2021-industry-emerging-trend-top-players-revenue-insights-to-2026/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "zg20zspSE2olYRQEsm8MKNSLEMmh2vA2kX82ePw4tv1ODBJEhX2dgZBNonWPc3njGDDGyYyexw8wgX4ECtdUKEBajQa6ODJ9E5L3PluFYNikRuE1/spjEqClz12zNEWgYjBINEeI3D5Y01AK3jaBFM4BC8TiydeuhaOgPBiEJCwINmGMaHu3JlHrK3cngwQ+/JrqBR1NDNhO27SusPtJSI3AnG/eEM5Lo5Hd8gelFge63hSaHItkKBCrSksW6rOkIoIYB3dpSO6obHJrBOvXgyPkyk2WlSqxmhS/GdkaXkvjV8bB8dKjBxHexU6AEktkHtAkE69WtgKRFCsahRfnMC3RedgI8ljtZobkS8o0drc=;JYzzUb4NfRKe7PWud3k6kw=="
 ---

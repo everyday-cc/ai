@@ -2,6 +2,354 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-26-how-will-robots-impact-warehouse-design.md",
+      "title": "How Will Robots Impact Warehouse Design?",
+      "excerpt": "JLL, a leader in real estate services, recently put out a research paper called “The future of global logistics real estate.” New warehouse designs need to incorporate features that take advantage of robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/",
+      "originalUrl": "https://www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60febb9b3be04e96ec8ea197%2F0x0.jpg",
+          "width": 958,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/amp/",
+      "publishedDateTime": "2021-07-26T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-mac-face-id-prediction-suggests-patience-will-be-required.md",
+      "title": "Mac Face ID prediction suggests patience will be required",
+      "excerpt": "Apple’s Face ID may have been logging us into iPhone and iPad for several years now, but the facial recognition tech looks set to finally be coming to Mac too. While recent Mac models have",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
+      "originalUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/iphone-face-id.jpg",
+          "width": 1440,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
+      "publishedDateTime": "2021-07-26T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-does-your-project-need-artificial-intelligence.md",
+      "title": "Does Your Project Need Artificial Intelligence?",
+      "excerpt": "Implementing AI technologies can benefit your business so long as you clearly understand what values they bring and set realistic goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60facbc267f6107b328f0946%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-everyone-in-your-organization-needs-to-understand-ai-ethics.md",
+      "title": "Everyone in Your Organization Needs to Understand AI Ethics",
+      "excerpt": "Many organizations have come around to seeing the business imperative of an AI ethical risk program. Countless news reports — from faulty and discriminatory facial recognition to privacy violations to black box algorithms with life-altering consequences — have put it on the agendas of boards,",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/07/everyone-in-your-organization-needs-to-understand-ai-ethics",
+      "originalUrl": "https://hbr.org/2021/07/everyone-in-your-organization-needs-to-understand-ai-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/07/Jul21_26_1256204321.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/07/everyone-in-your-organization-needs-to-understand-ai-ethics",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/07/everyone-in-your-organization-needs-to-understand-ai-ethics",
+      "publishedDateTime": "2021-07-26T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-in-corporate-transformation-learning-is-a-leadership-imperative.md",
+      "title": "In Corporate Transformation, Learning Is A Leadership Imperative",
+      "excerpt": "And how can they prioritize this learning and skills development for themselves and their teams, even as they manage the demands of their current strategies and operations? In 2020, Daimler Corporate Academy led a program team comprised of internal and external experts in executive education (including ESMT Berlin),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
+      "originalUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fe6f5725bfcd3f54d2cd70%2F0x0.jpg",
+          "width": 1187,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/",
+      "publishedDateTime": "2021-07-26T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-healthcare-natural-language-processing-nlp-market-including-top-key-players-nlp-technologies-nec-apple.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market including top key players NLP Technologies, NEC, Apple",
+      "excerpt": "Los Angeles United States North America including Q1 2021 analysis The report named Global Healthcare Natural Language Processing NLP Market has been added to the archive of market research studies by JCMR The industry experts and researchers have offered reliable",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2337136/healthcare-natural-language-processing-nlp-market-including",
+      "originalUrl": "https://www.openpr.com/news/2337136/healthcare-natural-language-processing-nlp-market-including",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U726100798_g.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2337136/healthcare-natural-language-processing-nlp-market-including",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337136/healthcare-natural-language-processing-nlp-market-including",
+      "publishedDateTime": "2021-07-26T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-despite-controversies-and-bans-facial-recognition-startups-are-flush-with-vc-cash.md",
+      "title": "Despite controversies and bans, facial recognition startups are flush with VC cash",
+      "excerpt": "If efforts by states and cities to pass privacy regulations curbing the use of facial recognition are anything to go by, you might fear the worst for the companies building the technology. But a recent influx of investor cash suggests the facial recognition startup sector is thriving,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/",
+      "originalUrl": "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition-tech.gif?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/",
+      "publishedDateTime": "2021-07-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-understanding-contextual-ai-in-the-modern-business-world.md",
       "title": "Understanding Contextual AI In The Modern Business World",
       "excerpt": "Exploring emerging technologies and those with features that can adapt will help meet this modern world head-on.",
@@ -102,6 +450,58 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-artificial-intelligence-in-drug-discovery-market-latest-report-2021-with-size-status-value-sales-and-forecast-to-2027.md",
+      "title": "Artificial Intelligence in Drug Discovery Market Latest Report 2021, with Size, Status, Value, Sales and Forecast to 2027",
+      "excerpt": "Artificial Intelligence in Drug Discovery Market” share is expected to develop speedily in all development areas over",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-latest-report-2021-with-size-status-value-sales-and-forecast-to-2027-2021-07-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-latest-report-2021-with-size-status-value-sales-and-forecast-to-2027-2021-07-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-25T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -840,402 +1240,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-ai-can-add-bias-to-hiring-practices-one-company-found-another-way.md",
-      "title": "AI can add bias to hiring practices: One company found another way",
-      "excerpt": "After anglicizing his name, the founder of Knockri got a job. So he created a solution to remove bias from artificial intelligence in hiring.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-can-add-bias-to-hiring-practices-one-company-found-another-way/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-can-add-bias-to-hiring-practices-one-company-found-another-way/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/07/23/716e61a2-2ff8-4dcd-afe3-2a69cdab0504/resize/1200x/8d8200805da615fb588a80324881aeac/hiring-bias.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-can-add-bias-to-hiring-practices-one-company-found-another-way/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-can-add-bias-to-hiring-practices-one-company-found-another-way/",
-      "publishedDateTime": "2021-07-23T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices.md",
-      "title": "Xilinx Expands Vitis AI Development Platform To Support Latest Versal ACAP And Kria SOM Devices",
-      "excerpt": "Since its unveiling, the Vitis AI development environment has evolved and expanded in scope to incorporate more tools, example designs, libraries and models designed to best leverage Xilinx’s varied array of compute devices,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fb0fbc45d4d6d1fe8f0946%2F0x0.jpg",
-          "width": 1107,
-          "height": 813,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2021/07/23/xilinx-expands-vitis-ai-development-platform-to-support-latest-versal-acap-and-kria-som-devices/amp/",
-      "publishedDateTime": "2021-07-23T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-ai-tool-shows-how-machine-learning-could-make-video-editing-more-efficient.md",
-      "title": "AI Tool Shows How Machine Learning Could Make Video Editing More Efficient",
-      "excerpt": "A new AI tool is attempting to harness some of the recent advancements made in machine learning’s video production capacities behind a sleek user interface. Patrick Kulp is an emerging tech reporter at Adweek.",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/creativity/ai-tool-shows-how-machine-learning-could-make-video-editing-more-efficient/",
-      "originalUrl": "https://www.adweek.com/creativity/ai-tool-shows-how-machine-learning-could-make-video-editing-more-efficient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2019/07/adweek-collage-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/creativity/ai-tool-shows-how-machine-learning-could-make-video-editing-more-efficient/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/creativity/ai-tool-shows-how-machine-learning-could-make-video-editing-more-efficient/amp/",
-      "publishedDateTime": "2021-07-23T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-want-your-unemployment-benefits-you-may-have-to-submit-to-facial-recognition-first.md",
-      "title": "Want your unemployment benefits? You may have to submit to facial recognition first",
-      "excerpt": "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he hasn't received a penny of the $6,490 he said he was eligible to receive and he's not sure when he will.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
-      "originalUrl": "https://www.msn.com/en-us/money/smallbusiness/want-your-unemployment-benefits-you-may-have-to-submit-to-facial-recognition-first/ar-AAMtC1Y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200209224400-20200209-facial-recognition-gfx-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
-      "publishedDateTime": "2021-07-23T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
-        "domain": "com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-25-states-are-forcing-face-recognition-on-people-filing-for-unemployment.md",
-      "title": "25 States Are Forcing Face Recognition on People Filing for Unemployment",
-      "excerpt": "State labor departments claim that they're using face recognition identity verification to prevent fraud, but you might want to check out the privacy policy.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707",
-      "originalUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/401a169d87d990b688a397d4df93cbd1.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp",
-      "publishedDateTime": "2021-07-23T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-alphabet-tackles-industrial-robot-software-market.md",
-      "title": "Alphabet tackles industrial robot software market",
-      "excerpt": "Google 's parent company Alphabet has launched a new company called Intrinsic to make industrial robots easier to program. Originally a project within Google's X research group, Intrinsic has graduated as an independent company within Alphabet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1620312937/itpro/2021/05/shutterstock_manufacturing_robot_AI.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market?amp",
-      "publishedDateTime": "2021-07-23T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise.md",
-      "title": "Tesla Full Self-Driving explained: Its capabilities, cost and puzzling over-promise",
-      "excerpt": "Perhaps the most overly optimistic technology in all of the auto industry is Tesla's Full Self-Driving package. No car for sale to the general public can do what that name says. Here's what it really does and how to get it on your Tesla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
-      "originalUrl": "https://www.cnet.com/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/hTc2mT4Ktz7OJaDFafDjDPV8KhE=/2016/10/20/2d92b545-6e58-409b-b494-76c8511dfc32/tesla-self-driving-hardware-4.jpg",
-          "width": 1590,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
-      "publishedDateTime": "2021-07-23T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation.md",
-      "title": "Is Artificial Intelligence The New Logistics Technology For Organ Transportation?",
-      "excerpt": "Twenty people die each day because they do not receive their lifesaving organs on time. Can AI and drones make a real change?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f9f44dc600c230ca922553%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation/amp/",
-      "publishedDateTime": "2021-07-23T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

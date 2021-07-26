@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2335814/global-deep-learning-market-poten
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2335814/global-deep-learning-market-potential-segments-their"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence as a Service Market to Identify Substantial Growth in Future Projection Year 2021-2030"
+    excerpt: "MarketResearch.Biz –:The latest research report that completely centers “Global Artificial Intelligence as a Service Market” is an intensive analysis of propulsive forces & risks, business opportunities,"
+    publishedDateTime: 2021-07-23T10:51:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-to-identify-substantial-growth-in-future-projection-year-2021-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Bezos-leaves-enduringlegacy-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Cognitive Analytics Solutions Market Size, CAGR | Key Players – IBM, Amazon Web Services, Google, Microsoft, Oracle, SAS Institute"
     excerpt: "The Cognitive Analytics Solutions Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market. Verified Market Report’s latest publication “Cognitive Analytics Solutions Market Research Report 2021-2028” provides an overview of the drivers and constraints that exist in the market."
     publishedDateTime: 2021-07-25T20:29:00Z

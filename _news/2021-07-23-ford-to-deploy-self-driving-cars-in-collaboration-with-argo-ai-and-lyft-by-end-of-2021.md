@@ -45,54 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Lyft Riders Will Be Able to Hail Argo AI's Self-Driving Ford Vehicles Later This Year"
-    excerpt: "Argo AI, Ford, and Lyft partnered to bring self-driving vehicles to the ride-sharing network in select US cities."
-    publishedDateTime: 2021-07-21T19:13:00Z
-    webUrl: "https://www.pcmag.com/news/lyft-riders-will-be-able-to-hail-argo-ais-self-driving-ford-vehicles-later"
-    ampWebUrl: "https://www.pcmag.com/news/lyft-riders-will-be-able-to-hail-argo-ais-self-driving-ford-vehicles-later?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/lyft-riders-will-be-able-to-hail-argo-ais-self-driving-ford-vehicles-later?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 82
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05H6ijajY6h7rmxSpwZynSX-1.1626894805.fit_lim.size_1200x630.jpg"
-        width: 1121
-        height: 630
-        isCached: true
-  - title: "Lyft will team up with Ford and a self-driving car start-up to offer rides in Miami."
-    excerpt: "The companies plan to begin offering the service this year, expanding later to Austin, Texas. A human will still be behind the wheel."
-    publishedDateTime: 2021-07-21T19:14:00Z
-    webUrl: "https://www.nytimes.com/2021/07/21/business/lyft-self-driving-cars.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/21/business/lyft-self-driving-cars.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/21/business/lyft-self-driving-cars.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 67
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/21/business/21economy-briefing-ford-argo/21economy-briefing-ford-argo-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Argo AI, Ford and Lyft to launch self-driving ride-hail service in Miami and Austin"
-    excerpt: "The service is expected to launch in Miami later this year and in Austin next year with a safety driver inside the Ford Escape hybrid vehicles. Over the next five years, the companies want to deploy at least 1,"
-    publishedDateTime: 2021-07-21T19:41:00Z
-    webUrl: "https://www.autoblog.com/2021/07/21/lyft-ford-argo-ai-autonomous-rides-miami-austin/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/07/21/lyft-ford-argo-ai-autonomous-rides-miami-austin/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/07/21/lyft-ford-argo-ai-autonomous-rides-miami-austin/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 51
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2021-07/41862a40-ea5a-11eb-9e77-7d41c940d0d1"
-        width: 1062
-        height: 597
-        isCached: true
   - title: "Self-driving leader Argo AI's CEO explains how his new deal with Lyft helps the startup clear a critical hurdle"
     excerpt: "\"We now get real customers in the car,\" Bryan Salesky said. Which means a big step toward making money."
     publishedDateTime: 2021-07-22T15:10:00Z
@@ -191,20 +143,6 @@ related:
       name: 7News Miami
       domain: wsvn.com
     quality: 37
-  - title: "Argo AI and Ford will make 1,000 self-driving taxis available via Lyft’s app"
-    excerpt: "Ford Motor Co. and autonomous vehicle startup Argo AI LLC plan to make 1,000 self-driving taxis available to consumers via Lyft Inc.’s ride-hailing app. The companies detailed the project today. The first self-driving taxis will roll out later this year in Miami with safety drivers aboard."
-    publishedDateTime: 2021-07-21T20:14:00Z
-    webUrl: "https://siliconangle.com/2021/07/21/argo-ai-ford-will-make-1000-self-driving-taxis-available-via-lyfts-app/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/press-release-hero-image-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Argo AI, Ford to launch self-driving vehicles on Lyft network by end of 2021"
     excerpt: "The initial deployments will start in Miami, followed by Austin, Texas, to lay the groundwork for future scaling."
     publishedDateTime: 2021-07-22T16:08:00Z

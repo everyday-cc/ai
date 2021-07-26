@@ -41,22 +41,6 @@ related:
         width: 1590
         height: 1200
         isCached: true
-  - title: "Tesla’s ‘Full Self Driving’ Push Is Okay In California—Because It’s Not Real Self-Driving"
-    excerpt: "The company's admission that FSD is a Level 2 ADAS system means it doesn't need special approval to sell the feature in its biggest U.S. market."
-    publishedDateTime: 2021-07-21T19:41:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/07/21/teslas-full-self-driving-push-is-okay-in-california-because-its-not-real-self-driving/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 95
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f87529c277c09b6a779b8d%2F0x0.jpg"
-        width: 1200
-        height: 614
-        isCached: true
   - title: "Tesla's Full Self-Driving Feature Mistakes Moon For Yellow Traffic Light"
     excerpt: "We all know that werewolves and ocean tides are both impacted by the moon, but we can add another item to the list: Tesla’s Full Self-Driving feature, which is the company’s NHTSA Level 2 driver assistance feature."
     publishedDateTime: 2021-07-24T15:00:00Z

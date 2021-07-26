@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-popl
 cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -21,20 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "Big Companies Are Acquiring AI Startups In Droves"
-    excerpt: "AI startups are a prime acquisition target for companies looking to leverage AI and ML technology, especially in the wake of the pandemic. Any startup developing an innovative product that grabs market share or creates a niche becomes a target of acquisition."
-    publishedDateTime: 2021-07-22T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/big-companies-are-acquiring-ai-startups-in-droves/"
+  - title: "PathAI enters into clinical diagnostics through acquisition of Poplar Healthcare Management"
+    excerpt: "PathAI, a global provider of artificial intelligence-powered technology for pathology, announced their acquisition of Poplar, the management service organization for Poplar Healthcare PLLC, an industry-leading independent anatomic pathology laboratory services provider."
+    publishedDateTime: 2021-07-26T12:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management-1030644662"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/AIM-Cover-Art3-2.jpg"
-        width: 2240
-        height: 1261
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
 
 secured: "vX/dF7OBpzV2ArseiprPh+GU3UKF4V6I2sXXc6q9GMVYGdehmtK/Bwg12hxXD0cQfHiRuhP3QYuaRAVzaWlyujoSZe9ouznOiQt30ioRYZj2EiHQkQeIeT+EzBnk+6P6SgNbOzhz6zwb2CyokNhTl3nGhWwWVEP+cr76m1Jl2/CqjVtLjKfkxmMQcrVNLAkaItEjtDwtvLkSxiViHM5RllnnNc25pedN4MhpkBjatBAJc/X+YZTMctp8aChr0kekimjGQ2FgDjLlkt/jVFF2xUcEXdnkpIigaZARBbUs/vGPZhcI3+z4IpWwuP3f68hTpV+/lO2U6ULvo6wHUgA+Yiy1S1MbVuAVvxQpsiy9cg4is3OLXQSybkepsedABPlFmuVGIHmSWDqpgmU/aKxL0yDZbCLETiQpTHGQ4YYHlM1gEolA831Ca55mKHZAM6L0UNSOBWP/iCv6VudlJg/nru4Jkb0eSaZwXiWwqGbMLkTfLnUnjZQVqdAY58yz5E7yOxLu+3O5UCDcGYoRJ6JmwA==;g+IOHwa+lCCJc0hRVlWW8A=="
 ---

@@ -99,6 +99,20 @@ related:
         width: 533
         height: 367
         isCached: true
+  - title: "Reasons to invest in fintech"
+    excerpt: "Fintech (financial technology) is a relatively new industry sector that has grown enormously in recent years but still has a huge amount of potential. Encompassing a full range of financial services from payment processing to banking and peer-to-peer (P2P) lending,"
+    publishedDateTime: 2021-07-26T13:24:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_buzz/reasons-to-invest-in-fintech/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/image1-1.jpg"
+        width: 1379
+        height: 920
+        isCached: true
   - title: "Virtual partners have a growing role in the fintech space"
     excerpt: "Future-proofing fintech? We caught up with Will Marwick, CEO of the global fintech company IFX Payments to find out more"
     publishedDateTime: 2021-07-25T13:25:00Z

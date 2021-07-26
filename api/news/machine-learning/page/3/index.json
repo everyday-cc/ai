@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-09-new-ml-based-console-cheat-puts-the-ai-in-aim-assist.md",
+      "title": "New ML-based console cheat puts the AI in ‘aim assist’",
+      "excerpt": "Cheaters, cheaters everywhere -- even on consoles. A new AI paradigm threatens the competitive gaming community. But how big is the threat really?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/new-ml-console-cheat-ai-aim-assist",
+      "originalUrl": "https://thenextweb.com/news/new-ml-console-cheat-ai-aim-assist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Faimbot.jpg&signature=84f5774ee0da6bc6b19da15606217097",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-new-machine-learning-based-cheating-may-threaten-competitive-play.md",
+      "title": "New machine learning-based cheating may threaten competitive play",
+      "excerpt": "Despite being illicit in games, and even illegal in some countries, the cheating industry has developed immensely, creating multi-million dollar businesses. You may think cheating is",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
+      "originalUrl": "https://www.techspot.com/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/07/2021-07-08-image-11.jpg",
+          "width": 1498,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
+      "publishedDateTime": "2021-07-08T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-learn-about-machine-learning-through-the-lens-of-a-hedge-fund.md",
       "title": "Learn About Machine Learning Through The Lens Of A Hedge Fund",
       "excerpt": "Artificial intelligence is widely discussed in CIO conversations down to IT resourcing meetings in companies today. There is a range of topics that enterprises are involved in from research to novel applications and enterprise product usage.",
@@ -1252,92 +1356,6 @@
       "provider": {
         "name": "Geeky Gadgets",
         "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-researchers-turn-to-machine-learning-to-predict-when-immunotherapy-will-be-effective.md",
-      "title": "Researchers turn to machine learning to predict when immunotherapy will be effective",
-      "excerpt": "When it comes to defense, the body relies on attack thanks to the lymphatic and immune systems. The immune system is like the body's own personal police force as it hunts down and eliminates pathogenic villains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210630/Researchers-turn-to-machine-learning-to-predict-when-immunotherapy-will-be-effective.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210630/Researchers-turn-to-machine-learning-to-predict-when-immunotherapy-will-be-effective.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210630/Researchers-turn-to-machine-learning-to-predict-when-immunotherapy-will-be-effective.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210630/Researchers-turn-to-machine-learning-to-predict-when-immunotherapy-will-be-effective.aspx",
-      "publishedDateTime": "2021-06-30T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-machine-learning-helps-in-predicting-when-immunotherapy-will-be-effective.md",
-      "title": "Machine learning helps in predicting when immunotherapy will be effective",
-      "excerpt": "When it comes to defense, the body relies on attack thanks to the lymphatic and immune systems. The immune system is like the body's own personal police force as it hunts down and eliminates pathogenic villains.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-tumor.jpg",
-          "width": 1920,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp",
-      "publishedDateTime": "2021-06-30T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

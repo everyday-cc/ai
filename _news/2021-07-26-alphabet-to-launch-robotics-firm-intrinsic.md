@@ -100,6 +100,20 @@ related:
         width: 955
         height: 630
         isCached: true
+  - title: "Alphabet has set up a new robotics subsidiary, Intrinsic"
+    excerpt: "Tech giant, Alphabet, also known as Google's parent company, has launched its latest robotics venture after limited success in the sector."
+    publishedDateTime: 2021-07-26T11:40:00Z
+    webUrl: "https://www.siliconrepublic.com/companies/alphabet-google-x-intrinsic"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/07/AdobeStock_233382425.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "MMu0rFH+lm+020cgtnC/Sl6eLx5U+Z1fQsLPYnJ8QRC5pvS2v0uQEAdaFWBjrr8agF/wcU3cuqS0Du15lnWf2gcGt9ksX6troUGH70XWjL6l61g4/GN9s3CeIA662Ll8pgmHvyyGJBltRqI7Vlh5bMHsXIR5uwCReXc017p03fdkKU8JZvtQuzVp6Tr12k1HXU/QGCk8Rj6k6FYPukqd8S4rS2Ebf0BFRmGAdcstcWl3rG6wnRAwaoGxS1QiL/o20gOBhtRMvDQOz0kGcsmpFfwWQEAEAQrB9vlYfmHh1iMbAVg17jHRzVNegsiwk18uCLGh/fvSd+1UjR8HS0/R9rWbamXhu6EP4ZcwKL83mTPZ1yPOi4HhMQVAicflYDLbEQFbGQFFbnKdIAvAhaB3FxytqZo94STOp6N74cTnvstipMz4zSZc8RvkFETp2PlJwg3LZHj4Hck8MOhhrGUIO689/ZfKsbfqr85MoeqRSHEBig9axLSnCULNt2pV+3QIA6z+JSykiIVrnnTItaAuOQ==;t1grt8PzTntJ45QXwG2TNQ=="
 ---

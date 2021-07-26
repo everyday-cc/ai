@@ -30,6 +30,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Super Cruise gets lane change, trailering functions as self-driving system added to more vehicles"
+    excerpt: "Cadillac's Super Cruise hands-free driver-assist system is being made smarter and available on more models in the lineup."
+    publishedDateTime: 2021-07-26T12:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1126890_super-cruise-gets-lane-change-trailering-functions-as-self-driving-system-added-to-more-vehicles"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 26
+    images:
+      - url: "https://images.hgmsites.net/hug/cadillac-super-cruise-with-automatic-lane-change_100733591_h.jpg"
+        width: 1920
+        height: 1287
+        isCached: true
+
 secured: "uA1k9rmDhaoDad3jn6ypXUPPAdEfbzomOieoZeQbvOis9q3Yg7Ch3MqokqVpjZgF687RfW0oQStd5Ru8A0zyOEJoGSEi9PugaNGOWPTkvIvROYxzd0NYHhvoIHJCMpjjhKSWPyDqiT2kRnysqfQ27geAQ7jyoEyCGApOm6iqefXOLeCx/niZcVT+JfwBUwlE1n/kOp3d7ErJeA4O/oA7CnESEIfj8zUv2L4GQLKj4q7BbShYKaMnzXRjfVhPVWpJLZpVY8vW6nNA6/FFZNNl4JNK0hdAb6pEm8kr7QAbKmn2XD1Sr37D+OtxyNN0hLeAsZCynrsmxCDXCZ1uNS8IWJ+iQgRx1zK6MsrN7xVF/Tm9jR18zuzfATvsEMeptNzv4XMhiTUg7nJQymOmDUPMikJOs0AvyPKefImtoUHqV5yYNOJSrmlpzqDx9NDTQctKKqTGf7Lhys56DUpt93xRKmT2eleH3gjyt+XIpMNTPYwEAvmh2W7PvtvgoqXOp7Jfg+UmZK30KkFsuZVKatCx5g==;gHbyLUWxUc4Tcy0j/uTg+A=="
 ---
 

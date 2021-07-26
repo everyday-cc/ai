@@ -7,7 +7,7 @@ originalUrl: "https://www.llnl.gov/news/registrations-ongoing-virtual-forum-indu
 webUrl: "https://www.llnl.gov/news/registrations-ongoing-virtual-forum-industrial-machine-learning-applications"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Reader Polls: What Roles Are Hardest to Fill in the Translation and Localization Industry?"
-    excerpt: "Slator readers weigh in on hiring for localization industry roles, recruiting salespeople, language learning, B2B video market potential."
-    publishedDateTime: 2021-07-22T07:20:00Z
-    webUrl: "https://slator.com/reader-polls-what-roles-are-hardest-to-fill-in-the-translation-and-localization-industry/"
+  - title: "In Corporate Transformation, Learning Is A Leadership Imperative"
+    excerpt: "And how can they prioritize this learning and skills development for themselves and their teams, even as they manage the demands of their current strategies and operations? In 2020, Daimler Corporate Academy led a program team comprised of internal and external experts in executive education (including ESMT Berlin),"
+    publishedDateTime: 2021-07-26T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/"
+    ampWebUrl: "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 14
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://slator.com/assets/2021/07/Translation-and-Localization-Industry-Survey-July-2021.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fe6f5725bfcd3f54d2cd70%2F0x0.jpg"
+        width: 1187
+        height: 788
+        isCached: true
+  - title: "How Deep Learning AI Can Transform Challenger Brands Into Cutting-Edge Leaders"
+    excerpt: "By investing in AI technology, brands can up their long-term customer acquisition game and target the “unusual suspects.\""
+    publishedDateTime: 2021-07-23T13:00:00Z
+    webUrl: "https://www.adweek.com/performance-marketing/how-deep-learning-ai-can-transform-challenger-brands-into-cutting-edge-leaders/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 50
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2021/07/deep-ai-brands.jog_-600x315.jpg"
         width: 600
-        height: 400
+        height: 315
         isCached: true
 
 secured: "ua+o8msJIVIhKOHwIcxeOrqNL6KEBxL4C8myS3oku1qinUI31Ech+hRX4sKfLGOfhmANd0CcofXmA6j4qoORWbvIDlPx2PeIVNZmGAEJB/05DtR+KV4ya1UN/dXOvvP+AgdL4sZFm2urR2kxb494rd2o1BfpPaPSWqZd/C0R4r9JhY+ThxlbS2xVsMs3MerAhWa9j2opi3ay0c+wfS3An9/qjCKNfEp5ICOKjSzrNoylxeXnzviiw3L+DjIrYqLn1rYnAtNo9+bk41ihPLF7hr/ez+bW1LRT1HZh+qXWKf7PY2SYRaDAr5/+H3cCWGTSONwT14g77nGJE1YZ0jsPK/mTdASJH5Jra9T+JyPSTyloiBwrHwNorF+EqxkFPJP9ncs7zk2Sr0waf3ihakcltSoxQ60EEdGjhQsy76TyqmRxCqrz/iiSw6wQU475jKvlpCe29zhAej9ZFfekbgybrl6YKaPVJ26UDVmNnoniMLxOqbWZOGOvVVqHpEnDH8KfOXaaW0sN/YEr8afgUBOiYA==;WMORLDwbw0v6+WHCW2Swug=="

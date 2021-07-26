@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-26-how-will-robots-impact-warehouse-design.md",
+      "title": "How Will Robots Impact Warehouse Design?",
+      "excerpt": "JLL, a leader in real estate services, recently put out a research paper called “The future of global logistics real estate.” New warehouse designs need to incorporate features that take advantage of robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/",
+      "originalUrl": "https://www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60febb9b3be04e96ec8ea197%2F0x0.jpg",
+          "width": 958,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/amp/",
+      "publishedDateTime": "2021-07-26T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-25-data-centers-in-an-ai-and-ml-driven-future.md",
       "title": "Data Centers in an AI and ML driven future",
       "excerpt": "Thank you for signing up to TechRadar. You will receive a verification email shortly. There was a problem. Please refresh the page and try again. No spam, we promise. You can unsubscribe at any time and we'll never share your details without your permission.",
@@ -264,7 +316,7 @@
       "originalUrl": "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -317,7 +369,7 @@
       "originalUrl": "https://www.lelezard.com/en/news-19916974.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1404,49 +1456,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-heres-what-you-need-to-know-about-singapores-food-delivery-robots.md",
-      "title": "Here's what you need to know about Singapore's food delivery robots",
-      "excerpt": "Singaporeans flocked to food delivery after it was announced that dining-in was prohibited during Circuit Breaker. Today, despite being allowed to dine-in at restaurants in larger groups, the habit of ordering food online and having it delivered",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots",
-      "originalUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/20210716_robot_unsplash.jpg?itok=EtsShVVZ",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots?amp",
-      "publishedDateTime": "2021-07-17T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

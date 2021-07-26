@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "PathAI acquires Poplar Healthcare, highlighting AI’s role in medical diagnoses"
-    excerpt: "PathAI, a Boston-based health technology startup, said on Monday that it has acquired Poplar Healthcare, one of the country’s largest pathology labs, as the company seeks to provide doctors a quicker way to diagnose medical ailments through use of its software."
-    publishedDateTime: 2021-07-26T11:00:00Z
-    webUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
+  - title: "Despite controversies and bans, facial recognition startups are flush with VC cash"
+    excerpt: "If efforts by states and cities to pass privacy regulations curbing the use of facial recognition are anything to go by, you might fear the worst for the companies building the technology. But a recent influx of investor cash suggests the facial recognition startup sector is thriving,"
+    publishedDateTime: 2021-07-26T12:00:00Z
+    webUrl: "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/"
+    ampWebUrl: "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 50
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition-tech.gif?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "WYvFLZPZIXOMRkplz695gTPxYl2Xo51sTfl1LVtr3rX7Dj4y56bJlNbI1AUCPr41K0GLNvuGXA+TpBGf27dQOtF60C32bQ+c9gfQI1yOKZwIu8DkmeTBk+6270ZJ3MIssezbOPaM6E21NMlF6RJ03mRVPbwosuMPF3GXlwdQJ/soLKk6XxZ9oSUJkbdbMZEHX5vIrxCeEHNjkpopTvpxnc2Q6+8MrUb8JmODpShk1KC9KckKzD0IuMeKxHkkys9RyQvTenBANr7DOV5K3Ny38VCPpxZKXIe/wI90RKUMLwDnCK0dg7MUIY6uzDSY2IcpLyulEHs7k/ko2TBkHBa6wh8GEQu52ayKiRbHPX7DUow/haAaI9wDcYl9ASXmnBGbGtM7z6VUbNQfuhWUixNG9yu4c3u773t99TuJMaedxMRjLvQrSlsOtxh67DW9o4gfQKUwe76FS6Vz+T9jsWsPzlGDnBsf+dNIHfwKA8RvM1AQwGzXmd5X0PCNcNxnqsxNssL0yAkQmlvxkuRy3rBhdw==;LLV3E6nSysnk+KyEqkU8RQ=="
 ---

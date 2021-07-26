@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/prepare-for-ai-that-learns-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/prepare-for-ai-that-learns-to-code-your-enterprise-applications/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
         width: 790
         height: 442
         isCached: true
+  - title: "Global Artificial Intelligence in Energy Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "The Artificial Intelligence in Energy market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic and global ..."
+    publishedDateTime: 2021-07-22T14:18:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4684823-global-artificial-intelligence-in-energy-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "IwmbR2FhuOnChBxL7RattN3Tkhv2K9C0hMg+FVsR7Ne763uojfx/Vr3/Axdr2wsT3eCw8vZazvbXKCrahWILhD+hmvgLsfKkOtBZ6vJR7Euk8n5lnx+eebeZOm5jnGn3giWr5fGkC9TGuCdiMNoC/0nAK85LqqE06EXlQjW8qSIQzKLoI3pZ7Cl0zHMUQfkPAZOBw3Fu5GvxqFrBTJGjfHy2byJJOOFvReYpkLBaatm/uocOeK1t2YzAfcG888RYZE5iWpaEkC4k8yLi+WXcvtBYilE4Hyyarp+jAF98yacuu0DvLMsOMWYMuLq2EiltN3CAPaQfb2N6+EGARd97ubnCZePAVX07ahBkatOiZ3l74MtS/v/7PHCDCDkPlJq73K3YRKJDkqUdJTjO4Eoz0fYhNamVyobDyaY5YDKOM4wB4YlowuEU4gHSMsCgZEfUt3nEprRn/ix30R7s5jyo/n5i/7ZjwMkD3Fqq8z58uThsr9lQiu8n4wwCvQiHsZSUZTN78v0cpBDBfLfnWLnJzg==;g1Ok4O7dnovQVGhLlx1jLA=="
 ---

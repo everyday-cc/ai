@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-07-ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere.md",
+      "title": "Ethical AI Is Easier Said Than Done, But We've Got to Start Somewhere",
+      "excerpt": "AI has run amok and been benched in multiple business deployments. In one instance, an AI had to be shut off after it spewed outrageously lewd and racist comments within 16 hours of being launched because of data poisoning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/",
+      "originalUrl": "https://www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/96574bf809c648ba956dd40cdb900183.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ethical-ai-is-easier-said-than-done-but-weve-got-to-start-somewhere/amp/",
+      "publishedDateTime": "2021-07-06T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit.md",
+      "title": "Sama Validates Its Ethical AI Supply Chain Through A Randomized Control Study With MIT",
+      "excerpt": "AIis an emerging force in the business world that has the potential to either replace humans or empower humans with better tools. Sama, believes AI can enhance how we work and is advocating for “human-in-the-loop,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christophermarquis/2021/07/06/sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit/",
+      "originalUrl": "https://www.forbes.com/sites/christophermarquis/2021/07/06/sama-validates-its-ethical-ai-supply-chain-through-a-randomized-control-study-with-mit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cb9c39ec66a9c0ee764dfa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D26%26cropY2%3D589",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia.md",
       "title": "Analysis - 'Racist' facial recognition sparks ethical concerns in Russia",
       "excerpt": "The rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology.",
@@ -1363,102 +1458,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems.md",
-      "title": "Adversa AI Red Team Invented Technology for Ethical Hacking of Facial Recognition Systems",
-      "excerpt": "Adversa AI, the leading Trusted AI Research startup, has demonstrated a new attack method on AI facial recognition applications. By making imperceptible",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems/article_accf6c97-9b11-5b02-9230-dca51727b07b.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems/article_accf6c97-9b11-5b02-9230-dca51727b07b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/ad/dad4680b-753f-50fd-9e08-d27135bf9c60/60d5cfe838e52.image.jpg?resize=800%2C400",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-state-of-ai-report-finds-ai-is-now-core-to-business-success.md",
-      "title": "State of AI report finds AI is now core to business success",
-      "excerpt": "Appen survey of business leaders and data scientists indicates that AI initiatives are delivering business value but challenges still exist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.html",
-      "originalUrl": "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/man_concerned_artificial_intelligence_ai_sign_by_dny59_gettyimages_959737582-100817807-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.amp.html",
-      "publishedDateTime": "2021-06-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

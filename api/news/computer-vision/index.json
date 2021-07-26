@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-26-mac-face-id-prediction-suggests-patience-will-be-required.md",
+      "title": "Mac Face ID prediction suggests patience will be required",
+      "excerpt": "Apple’s Face ID may have been logging us into iPhone and iPad for several years now, but the facial recognition tech looks set to finally be coming to Mac too. While recent Mac models have",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
+      "originalUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/iphone-face-id.jpg",
+          "width": 1440,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
+      "publishedDateTime": "2021-07-26T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-despite-controversies-and-bans-facial-recognition-startups-are-flush-with-vc-cash.md",
+      "title": "Despite controversies and bans, facial recognition startups are flush with VC cash",
+      "excerpt": "If efforts by states and cities to pass privacy regulations curbing the use of facial recognition are anything to go by, you might fear the worst for the companies building the technology. But a recent influx of investor cash suggests the facial recognition startup sector is thriving,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/",
+      "originalUrl": "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition-tech.gif?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/",
+      "publishedDateTime": "2021-07-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-face-id-for-apple-macs-to-arrive-in-a-couple-of-years-gurman.md",
       "title": "Face ID for Apple Macs to arrive in a “couple of years”: Gurman",
       "excerpt": "Apple might just be planning on bringing Face ID system to the Mac. Known Bloomberg journalist Mark Gurman believes that Face ID will be available in Macs within a “couple of years.” Gurman shared this news on the latest edition of his Power On newsletter.",
@@ -1327,101 +1431,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-port-of-seattle-bans-facial-recognition-tech-by-law-enforcement-some-private-use-remains-permitted.md",
-      "title": "Port of Seattle bans facial recognition tech by law enforcement; some private use remains permitted",
-      "excerpt": "The Port of Seattle Commission voted Tuesday to ban the use of biometric technology for surveillance and security purposes by government and law enforcement on all its",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/",
-      "originalUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/true-630x420.jpeg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/",
-      "publishedDateTime": "2021-07-13T18:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment.md",
-      "title": "Seedtag’s Computer Vision Capabilities Boost Olympics Brand Sponsorships Within Digital Environment",
-      "excerpt": "Seedtag, the leader in Contextual advertising in EMEA and LATAM, has today announced that it has developed specific computer vision capabilities to detect sports and help advertisers harness the power of visual media throughout the Tokyo 2020 Olympic Games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "originalUrl": "https://www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.exchangewire.com/wp-content/uploads/2021/04/seedtag-logo-2021.png",
-          "width": 271,
-          "height": 271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "cdnAmpWebUrl": "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "publishedDateTime": "2021-07-13T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "exchangewire.com",
-        "domain": "exchangewire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

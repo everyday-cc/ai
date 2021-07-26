@@ -36,6 +36,20 @@ related:
         width: 800
         height: 407
         isCached: true
+  - title: "Artificial Intelligence as a Service Market to Identify Substantial Growth in Future Projection Year 2021-2030"
+    excerpt: "MarketResearch.Biz –:The latest research report that completely centers “Global Artificial Intelligence as a Service Market” is an intensive analysis of propulsive forces & risks, business opportunities,"
+    publishedDateTime: 2021-07-23T10:51:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-to-identify-substantial-growth-in-future-projection-year-2021-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Bezos-leaves-enduringlegacy-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "uduzsdn3cnbgr+Td+anxaw6ILBiWa9FQDzLMV11NiLUaXc7ZQtt4FVWfTOdkhumkAuDrcoyd4uyQqFP3LGg7FDFGu6BA8JTT95fX0O2s/97OU7M6DeBIQtDB/tAAB+iRHo1rKr9vA00E+cEADp1qjP7s+u1tZpHkIScivwECXs+qMTYGawhG0pvTbJdXqPjtCKuO/SALEKVcGaNEFJX4ZzjzQdzUS4DdWouHHQoPkVTbCymQVUaca9DVnkeuXwoxQx24UUwSIZi0nIij/EN2RGn/eUoOyAxvFlgTrMC33x6UkidMMTH9ewywQjPr18p1Jcp3SQV3YPneTKlaObOLGp6rG6dDV2FwJXJmmwAC4qYPq8RNst8ZesLYHiuJoDS8S1iLyRVOzWlAsNZDIiM4mz3gCqq9imOdDDSWlxj9KNBkgVpY024Gm9v8lboo6p85WHScFnUZ8N1E2Tf6EOSRGJq2fiDqhL9MAWvTGrMVPVvpCKHRk2WC2c/gx0FMGgxbR1ZqEkGCrdCh7udZqLRNjA==;0T8yOQrZ1qjU8kksqbIf+A=="
 ---
