@@ -7,8 +7,8 @@ originalUrl: "https://www.politicshome.com/members/article/robotics-ai-speed-up-
 webUrl: "https://www.politicshome.com/members/article/robotics-ai-speed-up-nuclear-clean-up-mission"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: PoliticsHome
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 642
     isCached: true
+
+related:
+  - title: "Clearview AI Closes $30 Million Series B Funding Round"
+    excerpt: "Clearview AI, the leading facial recognition company, successfully closed a $30 million Series B funding round valuing the company at $130 million."
+    publishedDateTime: 2021-07-26T14:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210726005315/en/Clearview-AI-Closes-30-Million-Series-B-Funding-Round"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
 
 secured: "ogZQxEpj2Mbl1aZnsSx5dKBtCyproruUM+vaJlp3zpx2aLSQ7B09FuGffF7IaS8AqVhyLDHjJu9epDTsIa6eJu4S2hpJvC57CvjtEATDDJ9GzUYqEMueU8VEs4j2ZPGNSzKPYZ7cWbGhN3LVws0kBFdqXnoUlQb5NgGF8D2jU2WTJHZvauMtu+a0l/d18nkBRSuH44MN/O50V+kGLmatlLa/JYWM3gbiPzVe0GDjfK9TAcPfKYLA4aBDweNVbTgcuDhjee/kN79VzrTPuTB50/rgwYIyUsh4CJzSGPfCPA6vNsBb0Fqa4c7D7H4Skv0hW7hvEJ/q9Hw51K+lPwj1FU7DVZW/EYetGZgvALFwdm8=;DNHg098ew8fkI+imHQvurg=="
 ---

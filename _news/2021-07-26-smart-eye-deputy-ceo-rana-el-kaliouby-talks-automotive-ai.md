@@ -23,6 +23,22 @@ images:
     height: 2130
     isCached: true
 
-secured: "dyUvfy7pn2AaJnAhZPT2tCAM4CkZ6yIkJwgDiC3MWmQGVNEifsodq8SU2Se16y5TuHAN7ualRtB6yG2ql3cj48dMLEGsBSOlyeoprATJINwV/S1p0pjNaUEOHzaBI9+gPaRgQjhRtSSkA+7G8TpDx2t4bHz0kRz8+IATwtqYGLR7CJ2+nPtt8alAFlu7HgMcaJE9eBbE9FvgHN4T4s9kuhpYShyTMtRzmbzdvM7tw8jfGk1xR/WY645ZnefP5ggfyVrJTocgkJ5gUEYDN0CoKXu67voz+sgc3uoah3eD70Wph56yK1QkRcVylKG5FV61MeE6UMj8pLQO7Gi1dos3hVhNGlU0nEQOgLqXnsGLCFs=;b6u4bi3PBWtlWcPddRMqVQ=="
+related:
+  - title: "Smart Eye Deputy CEO Talks Automotive AI"
+    excerpt: "Carmakers are bracing for new safety rules and standards around the world that could require dashboard cameras to detect dangerous driver behavior."
+    publishedDateTime: 2021-07-26T13:42:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/21578252/smart-eye-deputy-ceo-talks-automotive-ai"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 37
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/07/16x9/Smart_AI_Emotion_Analysis_AP.60febb4b844ad.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1024
+        height: 575
+        isCached: true
+
+secured: "f5BOll15s5xF8XzNtWwNWZyhjvSY+8Hauoruqk6ThD0qccKCm1+7l0BjTWaFeQZMKyOb+huNBKsXSds7biFciSZgXFLQfQPzyf6FYq8NPtTO6JlAvf2Z1YFjNVGulIOvk0z9RTXXIGTDU5lzzSSco9rmpt6PuIo4tJG9AZtm+IFNd+vLen9GCgq4pFkGQ1v1Jo57hLiJR8jq+GR8JtuCJ0zFZEa/q4c30O8p/4DOQscAVoAaXcaZCjwYhpYdiOxkYrur79TA2Mj76JVt6f8bNO+2aFLDRb4SFKO4SmA81u7wOVmND3R3Y4w2Mp8pfv9juLW1eN8SLAUw3HedN8+B/lbQ/SNnSxk/AYZfPiD0OAk=;7nFf7tFu6y8tuXFWJZ5IvQ=="
 ---
 

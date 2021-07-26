@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "How AI Is Powering Modern Banking Transformation"
+    excerpt: "By John Ashley, General Manager, Financial Services and Technology, NVIDIA AI is enabling digital transformation across the financial services industry, from fintech and investment firms to commercial and retail banks."
+    publishedDateTime: 2021-07-26T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/"
+    ampWebUrl: "https://www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f9de4811cbbaa786e3911b%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Changing Face of Marketing: How AI is Inventing the Future"
     excerpt: "Artificial intelligence is changing the way we do marketing, and it’s happening faster than we think. From voice assistants"
     publishedDateTime: 2021-07-23T20:00:00Z

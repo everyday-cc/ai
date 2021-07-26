@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/microsoft-acquires-cloudknox-security-
 webUrl: "https://www.neowin.net/news/microsoft-acquires-cloudknox-security-to-enhance-unified-privileged-access-management/"
 type: article
 quality: 79
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -43,36 +43,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Microsoft Buys CloudKnox To Boost Cybersecurity, Cloud Protection"
-    excerpt: "Microsoft has acquired CloudKnox Security, boosting its commitment to cybersecurity, the company announced in a Wednesday (July 21) blog post. CloudKnox has the ability to help companies right-size permissions,"
-    publishedDateTime: 2021-07-21T22:12:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/microsoft-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Microsoft acquires CIEM leader CloudKnox Security"
-    excerpt: "Microsoft is set to beef up its cloud security and entitlement management platform with the acquisition of CloudKnox."
-    publishedDateTime: 2021-07-21T22:03:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-acquires-cloudknox-security"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 56
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/07/CloudKnox-Business-cropped.jpg"
-        width: 1024
-        height: 768
         isCached: true
 
 secured: "XTyGAsqgjV8eRUUi3UDohBCnc+cL6snlwKhB9J/tEUMOLNTowGtoCCVTHaS++F12O+PYpnJPwKqn4h9VF3reCLejPmZQWOuFNODxIMMjuK+sXlzNCcQ4QOjxiHvFFY/Pvn4WeFoFXrxe3Fn7n7vFlyNVAZ+YhPrETvwrmBng5o9DF2MOJxE1HWBq0fHyZbk8CJj6NjQaMo5G7iTeHsoG0+AHP3gpXy71yi/Qt65OWK6PegZ8Pw4a+de8Ai7RElcDEbrW4duMELxKakG6O8maTw8FZliez077D+yA/cAuXX5SXRjqYewM9eyRKURWm4/b8nynzUN6WCoV09NlOS3kyj4d6zJdvL0To8j3RGhmqsOdtYvgkEMw0PuabXWswRZLFBGUYmOBWafUeWmdqgHEpP1rjLc+checSFP2TKIM7+eMAu6BxVyyHeEy1q4BBUnAxrljynGd1Hy0XLXiLdovkkuTyxqwQ2+4O0HHYzoh3JsRuCOUYWGl/lu5XcCJYz/08eIgjPSnhD9B0V8TwFh9eg==;0RlYfjdB7GYfN1mlVRybNA=="

@@ -40,36 +40,6 @@ related:
         width: 760
         height: 430
         isCached: true
-  - title: "Microsoft Buys CloudKnox To Boost Cybersecurity, Cloud Protection"
-    excerpt: "Microsoft has acquired CloudKnox Security, boosting its commitment to cybersecurity, the company announced in a Wednesday (July 21) blog post. CloudKnox has the ability to help companies right-size permissions,"
-    publishedDateTime: 2021-07-21T22:12:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-buys-cloudknox-to-boost-cybersecurity-cloud-protection/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/07/microsoft-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Microsoft acquires CIEM leader CloudKnox Security"
-    excerpt: "Microsoft is set to beef up its cloud security and entitlement management platform with the acquisition of CloudKnox."
-    publishedDateTime: 2021-07-21T22:03:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-acquires-cloudknox-security"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 56
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/07/CloudKnox-Business-cropped.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "FZnaxCG8GOnHMznNDoF2wAt25qHU/NAc7I1JWEplmAEr9jLsHhf/hQ8sNqFV4myCwfQZTO2n95eokghKXHPeECLqS2zwfcAPFoUzcnBvwvLKhUgNS/JCWnP2r0a3FKkDxYvxOnUoauTFGw0cHXuOqvD0G3hMBI6yuzKps5LF1hyLA1daSW13juFNPNylX6PgItaFSG+z1oUic0ja8MII6M20MbQAfcjKCDqz+y1UUgt29SD480lw551AGDAPKUDOZ9vsEq2TQl40fRwUxnvExur6ZsFKuBXHwVm4SZrlFRZiAongK2aSNSuRD/VS66p/yp10ajfcgwek/EdFyN3zbng45WtGG50plHx9UAJeu0A=;/rZbVhg3WsBjKJitlvm2qg=="
 ---

@@ -35,7 +35,7 @@ related:
     provider:
       name: Los Angeles Times
       domain: latimes.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/93aefab/2147483647/strip/true/crop/1616x1055+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9e%2F06%2F14b271e04eddab55e5c8b33440e3%2Flange-rovers-author-photo-cred-chris-pellegrino.jpeg"
         width: 320

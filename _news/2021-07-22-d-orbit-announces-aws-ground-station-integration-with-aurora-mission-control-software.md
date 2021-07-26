@@ -33,20 +33,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Simplify data annotation and model training tasks with Amazon Rekognition Custom Labels"
-    excerpt: "For a supervised machine learning (ML) problem, labels are values expected to be learned and predicted by a model. To obtain accurate labels, ML practitioners can either record them in real time or conduct offline data annotation, which are activities that assign labels to the dataset based on human"
-    publishedDateTime: 2021-07-21T22:24:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplify-data-annotation-and-model-training-tasks-with-amazon-rekognition-custom-labels/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 113
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
   - title: "Detect defects and augment predictions using Amazon Lookout for Vision and Amazon A2I"
     excerpt: "With machine learning (ML), more powerful technologies have become available that can automate the task of detecting visual anomalies in a product. However, implementing such ML solutions is time-consuming and expensive because it involves managing and setting up complex infrastructure and having the"
     publishedDateTime: 2021-07-23T22:57:46Z

@@ -42,6 +42,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft Takes Sharper Aim at On-Prem HPC"
+    excerpt: "Microsoft is intent on bending the supercomputing set its direction. Instead of just focusing on competing with other public clouds, they’re aiming"
+    publishedDateTime: 2021-07-26T14:36:00Z
+    webUrl: "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/"
+    ampWebUrl: "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 74
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ab_arm-cloud-logo.jpg"
+        width: 595
+        height: 307
+        isCached: true
   - title: "An AI startup that helps clients like Google and Microsoft track their marketing performance raised $15 million using this pitch deck"
     excerpt: "BlueOcean was founded by ad agency vets to automate and simplify market research."
     publishedDateTime: 2021-07-22T12:00:00Z

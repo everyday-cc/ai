@@ -8,8 +8,8 @@ webUrl: "https://www.latimes.com/entertainment-arts/story/2021-07-26/la-et-antho
 ampWebUrl: "https://www.latimes.com/entertainment-arts/story/2021-07-26/la-et-anthony-bourdain-deepfake-ai-voice-documentary-audio-cgi?_amp=true"
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/story/2021-07-26/la-et-anthony-bourdain-deepfake-ai-voice-documentary-audio-cgi?_amp=true"
 type: article
-quality: 55
-heat: 65
+quality: 57
+heat: 67
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://ca-times.brightspotcdn.com/dims4/default/93aefab/2147483647/strip/true/crop/1616x1055+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9e%2F06%2F14b271e04eddab55e5c8b33440e3%2Flange-rovers-author-photo-cred-chris-pellegrino.jpeg"
@@ -41,6 +42,6 @@ related:
         height: 900
         isCached: true
 
-secured: "TxymrumzNPXqEZdhdhy7htn71GUjHwCVK8Hw1ZB62KL9WhMmavReYCJovkYA66ECj9OOhCPbQdrt1iGl7nYKiYajI1soLhiwhSzglD9D92o7c1q8nqDi3o4FCMhQQEO/xYDVIiH/QACFMAuVgSO9OIhwD7VhjMgJ/0gCdrZMnWJ+qayA0gjFs+m3iujnjkvb1OEVO4KdXTt08tXAZJ1i8SJVGJPqys4SzNORpI2rjgMzN1zR2mVfgVPaJF6XJ16Y5K2KFbYAwUt1alPvz/0CKAJhdj+GiaudIawg5pB9IGywHqejtyaPsVIZLWdqVoCD0zodVqSfAs0NGKjAdUSacoRooBqrsK3wtjkD6PeO+/M=;HLQaJn3D3wybu2wAlj45ew=="
+secured: "UjdqkCEEETnxfb5eAcbBQIkx1BSSqd3AEBjGvR1HfBMkZDFJODf005gCPQughXa6qoHfRE2MahT9izI27uzbF7aWrEqsE9abrfE5k/u1PxmgB5oJMzwFi4wCFdaAWPKERspzwUP34hY6pOLmUEeb+g+1I2AS3S1fBOYlg6SIf5pz+tfnbb3aGKk+uIoIQC4bZmeFLGmcyPbIR/6YkHjoNOldR+mSIqLgcJZcQh4irh49kD6DWU0cY17fcatVafPRHUrTy40sknrlvQGZSNWj82bb0HAhvvcK5L6d1IZ3CW17Kdu6DWTZPv8lPIUwxtjTz/HFD53mEQQjjgEt0IpbXppWiV9q43Pm+zYSd675DvVGbmLp4p6o9m7kQlZ7Q+IknjzOg/c70ALIqiFOctfKlPtqumWFueDCq1nwNLC7mIw3m9flMp77+JSOfkXyLU/r1cRMCdyDiofv07EExkbBwJsHkw979lhijW/dZMrUUu/ohgqI0P5aEizvv4SIQrTpiqOGAA5yIVV5ZDgw9DTsIA==;wwzfvbIYSzvgy8Qph4s1ww=="
 ---
 

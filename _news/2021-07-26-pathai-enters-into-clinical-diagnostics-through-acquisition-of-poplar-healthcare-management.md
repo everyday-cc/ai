@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/pathai-enters-into
 webUrl: "https://markets.businessinsider.com/news/stocks/pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management-1030644662"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Business Insider
@@ -34,6 +34,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 50
+  - title: "PathAI branches into clinical lab services with acquisition of Poplar Healthcare"
+    excerpt: "The pathway between testing for cancer and other diseases and reaching a diagnosis just got a lot shorter. With its recent acquisition of Poplar Healthcare Management, the management service organization for lab services provider Poplar Healthcare,"
+    publishedDateTime: 2021-07-26T15:30:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/pathai-branches-into-clinical-lab-services-acquisition-poplar-healthcare"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 49
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1627313607/science-1336663_1280.jpg/science-1336663_1280.jpg?ObPQPMER8q_fv7rJTNkYtD0sKtPbEFuu"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "jI2jgXa669LBsFZ5SAr2EuWR1L4sKwQCkSBiD7t62hZWKImQa9RxaQFbnYj3ITgvrcfynUXMd0wVt4kyvvf3a+BWD8t2LzU1G1WWKPgcX4q6AvaCxdy10N85BbBmv9B+cLctIOnlIvrmisTyR6rSQ4+JZdx0rbhF/ph1BvzjpNYstEF5UlXLp9Hmf1RZFxGBimAJkQP71lXFvIiUOlNK+0XmsSzmzepB3Y+nlvfJcpaTn9Gg4vpp/ux5Xeg+MIoeqQ/ixYKN54z5oCwxtlRvLWDSYZSrIjb/jk6DlV02OcA5/9venlnCQ0CRkGGX1vUomXOv7Nc/sq/zTcstlP6E3XFfgU+uRLjxnetmSV/q7DgiJbOYjAczJKvAULyQr25FI1uE0dvpNAQA5FakYtHZEOCNZus2L2v78xB0nhfMkCGCv4gKlYXmxEiovDZZ58QoEj0hIviIs/msmccDqFynYKAXMPljPwdJapzKcdtXjHUT39Mdxz+IOm/+diPOkqGAW/UYzL3HNIst8xD3nsMy5A==;j5zeipKcdM0nBDVLY//SqQ=="
 ---

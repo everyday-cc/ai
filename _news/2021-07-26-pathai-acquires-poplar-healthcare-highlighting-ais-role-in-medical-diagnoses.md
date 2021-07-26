@@ -30,6 +30,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "PathAI branches into clinical lab services with acquisition of Poplar Healthcare"
+    excerpt: "The pathway between testing for cancer and other diseases and reaching a diagnosis just got a lot shorter. With its recent acquisition of Poplar Healthcare Management, the management service organization for lab services provider Poplar Healthcare,"
+    publishedDateTime: 2021-07-26T15:30:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/pathai-branches-into-clinical-lab-services-acquisition-poplar-healthcare"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 49
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1627313607/science-1336663_1280.jpg/science-1336663_1280.jpg?ObPQPMER8q_fv7rJTNkYtD0sKtPbEFuu"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "vX/dF7OBpzV2ArseiprPh+GU3UKF4V6I2sXXc6q9GMVYGdehmtK/Bwg12hxXD0cQfHiRuhP3QYuaRAVzaWlyujoSZe9ouznOiQt30ioRYZj2EiHQkQeIeT+EzBnk+6P6SgNbOzhz6zwb2CyokNhTl3nGhWwWVEP+cr76m1Jl2/CqjVtLjKfkxmMQcrVNLAkaItEjtDwtvLkSxiViHM5RllnnNc25pedN4MhpkBjatBAJc/X+YZTMctp8aChr0kekimjGQ2FgDjLlkt/jVFF2xUcEXdnkpIigaZARBbUs/vGPZhcI3+z4IpWwuP3f68hTpV+/lO2U6ULvo6wHUgA+Yiy1S1MbVuAVvxQpsiy9cg4is3OLXQSybkepsedABPlFmuVGIHmSWDqpgmU/aKxL0yDZbCLETiQpTHGQ4YYHlM1gEolA831Ca55mKHZAM6L0UNSOBWP/iCv6VudlJg/nru4Jkb0eSaZwXiWwqGbMLkTfLnUnjZQVqdAY58yz5E7yOxLu+3O5UCDcGYoRJ6JmwA==;g+IOHwa+lCCJc0hRVlWW8A=="
 ---
