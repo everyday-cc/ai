@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-19-think-fight-feel-how-video-game-artificial-intelligence-is-evolving.md",
+      "title": "Think, fight, feel: how video game artificial intelligence is evolving",
+      "excerpt": "The post Think, fight, feel: how video game artificial intelligence is evolving appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/games/2021/jul/19/video-gaming-artificial-intelligence-ai-is-evolving",
+      "originalUrl": "https://www.theguardian.com/games/2021/jul/19/video-gaming-artificial-intelligence-ai-is-evolving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0e822f640d78954b850b7ac82256f9b1500c2c3d/257_0_3565_2139/master/3565.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2a5c08cff8260a846dfef66b954c66b8",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/games/2021/jul/19/video-gaming-artificial-intelligence-ai-is-evolving",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/games/2021/jul/19/video-gaming-artificial-intelligence-ai-is-evolving",
+      "publishedDateTime": "2021-07-19T08:28:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-scientists-adopt-deep-learning-for-multi-object-tracking.md",
       "title": "Scientists adopt deep learning for multi-object tracking",
       "excerpt": "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our daily lives. There are, however, some tasks in this field that are still extremely difficult for computers to perform with acceptable accuracy and speed.",
@@ -1177,49 +1229,6 @@
         "AI Ethics",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-president-bidens-recent-executive-order-on-promoting-competition-in-the-american-economy-highlights-the-healthcare-sector.md",
-      "title": "President Biden’s Recent Executive Order on Promoting Competition in the American Economy Highlights the Healthcare Sector",
-      "excerpt": "President Biden issued an “Executive Order on Promoting Competition in the American Economy,” (the “Order”) which aims to drive down prices for consumers, incr",
-      "sourceUrl": null,
-      "webUrl": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/",
-      "originalUrl": "https://www.natlawreview.com/article/president-biden-s-recent-executive-order-promoting-competition-american-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share-1100x740.png",
-          "width": 1100,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-18T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

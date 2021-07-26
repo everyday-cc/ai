@@ -67,6 +67,15 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Artificial Intelligence in IoT Market Size, CAGR | Key Players – IBM, Microsoft, Google, PTC, AWS, Oracle"
+    excerpt: "The Artificial Intelligence in IoT Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market."
+    publishedDateTime: 2021-07-25T23:37:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-iot-market-size-cagr-key-players-ibm-microsoft-google-ptc-aws-oracle/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
 
 secured: "Er1sbKaQsOHtTR9xogZFWmDb6xjwbDg5mwZSZ1PnWYlXQZcWOznzzygJfY3kHIDX/rLp3Taf3fOxri1Mg21iHNw7O8YZYD9Dw7468QNx7RdwrmorZVh1aE+dI+Cs02ReyN76FdVIgZjB6vo01YzQRupiSGe80W3TI4ARj+hJ6aZARyQZXqG2C/usSmiw2f+oJIPA66B40LeGQXUNfmDcf/EOyFjZ403C5kTSI7QeUKE47+OUn6yOxL7a4CJQoAJWBV6dKXRpGIFFf2iX+ed9hYEUXo9mMi2b2d6/HvizLJa9E/ZKD2yaqtdLjY7ypfT/S6L6PEfvgx58iRVVeZfjc0D9MPFHfGwoju7FunlSyuI=;LTaXw+lawixCqtR41P6JGA=="
 ---

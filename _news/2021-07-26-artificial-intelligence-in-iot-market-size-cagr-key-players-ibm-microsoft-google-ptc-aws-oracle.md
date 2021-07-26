@@ -1,28 +1,23 @@
 ---
 category: news
-title: "KnowledgeLake Now Supports Microsoft Azure Government"
-excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
-publishedDateTime: 2021-07-21T15:34:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/KnowledgeLake-Now Supports-Microsoft-Azure-Government-148070.aspx"
-webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/KnowledgeLake-Now Supports-Microsoft-Azure-Government-148070.aspx"
+title: "Artificial Intelligence in IoT Market Size, CAGR | Key Players – IBM, Microsoft, Google, PTC, AWS, Oracle"
+excerpt: "The Artificial Intelligence in IoT Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market."
+publishedDateTime: 2021-07-25T23:37:00Z
+originalUrl: "https://manometcurrent.com/artificial-intelligence-in-iot-market-size-cagr-key-players-ibm-microsoft-google-ptc-aws-oracle/"
+webUrl: "https://manometcurrent.com/artificial-intelligence-in-iot-market-size-cagr-key-players-ibm-microsoft-google-ptc-aws-oracle/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Destination CRM
-  domain: destinationcrm.com
+  name: manometcurrent.com
+  domain: manometcurrent.com
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
-
-images:
-  - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png"
-    width: 480
-    height: 610
-    isCached: true
+  - Microsoft AI
 
 related:
   - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
@@ -38,6 +33,20 @@ related:
       - url: "https://qtxasset.com/fiercebiotech/1626810252/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?3BYwK50kU2Wfn3vdn6f2lV_WiZXgn7hW"
         width: 884
         height: 543
+        isCached: true
+  - title: "KnowledgeLake Now Supports Microsoft Azure Government"
+    excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
+    publishedDateTime: 2021-07-21T15:34:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/KnowledgeLake-Now Supports-Microsoft-Azure-Government-148070.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 54
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png"
+        width: 480
+        height: 610
         isCached: true
   - title: "KnowledgeLake provides support for Microsoft Azure Government"
     excerpt: "Public sector organizations can leverage the KnowledgeLake platform to manage content and data residing within the Microsoft Azure Government-dedicated cloud environment"
@@ -67,16 +76,7 @@ related:
         width: 1920
         height: 1281
         isCached: true
-  - title: "Artificial Intelligence in IoT Market Size, CAGR | Key Players – IBM, Microsoft, Google, PTC, AWS, Oracle"
-    excerpt: "The Artificial Intelligence in IoT Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market."
-    publishedDateTime: 2021-07-25T23:37:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-iot-market-size-cagr-key-players-ibm-microsoft-google-ptc-aws-oracle/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
 
-secured: "wcJZBhz585Nz9Po3f/Yc3tUI0mYzTw4lBTnT7pA6SGi5/Hi0YmGrRd1QJO8ySnxvysw7XoPjS3T9jRRkQ1cLPVmLhj9+BwJGZt6vBCKlVmL9K2PiIfrVSEOJHhpq7/1P3wZKro0B+h1bi+Qv7Atro2UGqh3mpETfjFMS02aG4jWEBDULzO3mUsYgV6vOtcZv1zFBAiTJxrS9Kk65ujlFX7S97Qnt2fFtkExPr8kE1GBfSaHaKBCPkiTJHrrBo7hLvb2Adz58aiw96qbydO2Gs5sKvg7gC1Nny4a5RxVhk3DSTIv8Cqtvs3SBxvV09SaCuysuV2NDbLWsnU8dsESs71+1K6HbnLwr+xU5Ey4V0yc=;KTwx/GgZe8baWrtSXSNHUg=="
+secured: "TKuUYJSIA9djJgrGFdDSArGxDgNfV8ccBZV603jPctymtHjW/m9vD5dNcJZ1yzh55TySnBh5gZG+cG22u0Yh1VQwEYWIdbA4b7XPqZIbVP8pjUbCuHyuvM3jD9sfkHEuph0aXbovPRIQxhXdRvCsxWa1jdIjfIXmANx3TTw1r9o2XQcKfbg51AzN/WwlyY2ipoOkJLyg9LSS9QX/tYz0zAxtAytWhVUC5dnp8fl16bWE9TSlau53hRU6XYMIkajkIkfdY2y8qqf90KXS7WsPwFPD6AvZeBZVKvb1OLzZfzKCEPOxmsJOAdy8ARfkGyVY003L9cRfFlmPPA3ljkkVY0pNN64FSgm6WqBLC0ttbMXc/DPiZzhkf/+tTsVkz9YRzYBLBmbTZ13ggu3GGbJ6lOAdVhXR6rcqi2hLw44RlRVcxjE3ofT0dpLsSXZ36rtEXaJxIeHAEhJGIUcudDSMR6T+qce8J80tBzWtjQQkHddvtzl+IgQto/GRdfSPQ9htiRGhIJz0g8j29BYpE9fy1Q==;OxcGh7Z7maK9CPwAeDXuuQ=="
 ---
 

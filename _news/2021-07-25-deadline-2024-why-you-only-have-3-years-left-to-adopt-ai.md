@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/24/deadline-2024-why-you-only-have-3
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/24/deadline-2024-why-you-only-have-3-years-left-to-adopt-ai/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:

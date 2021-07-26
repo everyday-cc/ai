@@ -1,14 +1,14 @@
 ---
 category: news
-title: "AI-based Surgical Robots Market Size to Register 16% CAGR During 2021-2027"
-excerpt: "Selbyville, Delaware, Global AI-based Surgical Robots Market size to reach USD 13.2 billion by 2027 and is valued approximately USD 4.7 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 16% over the forecast period 2021-2027."
-publishedDateTime: 2021-07-22T08:55:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22"
-webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22"
+title: "Global AI In Telecommunication Market Size, Share to Be Appraised at USD 3880 million By 2024"
+excerpt: "Selbyville, Delaware. The report AI In Telecommunication Market Size and Analysis maintains enhanced dynamics and"
+publishedDateTime: 2021-07-23T04:52:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-size-share-to-be-appraised-at-usd-3880-million-by-2024-2021-07-23"
+webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-size-share-to-be-appraised-at-usd-3880-million-by-2024-2021-07-23"
 type: article
-quality: 82
-heat: 112
-published: true
+quality: 56
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -29,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI In Telecommunication Market Size, Share to Be Appraised at USD 3880 million By 2024"
-    excerpt: "Selbyville, Delaware. The report AI In Telecommunication Market Size and Analysis maintains enhanced dynamics and"
-    publishedDateTime: 2021-07-23T04:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-size-share-to-be-appraised-at-usd-3880-million-by-2024-2021-07-23"
+  - title: "AI-based Surgical Robots Market Size to Register 16% CAGR During 2021-2027"
+    excerpt: "Selbyville, Delaware, Global AI-based Surgical Robots Market size to reach USD 13.2 billion by 2027 and is valued approximately USD 4.7 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 16% over the forecast period 2021-2027."
+    publishedDateTime: 2021-07-22T08:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -74,6 +73,6 @@ related:
         height: 533
         isCached: true
 
-secured: "FM3ftvTrYcG8vHfLNdIVKMxSlz4stOlswcuOHcT9Eso4OHJO9qULK73ZwF+K5+miE8rlhmBrRZTUdr8sDJyBQqg0JIrwsTTFz7awdOe4n3LpD1Ag1NQ+GglylhBaC4n7Vs04Qor3h9Owu0mo60kuHVJI9G2Wic5Q8hOx79c+Oz5wA5ktmvdRdHDnkj+VoNX428o6c0aZrNFNIPDC8idBE8WvC4pE+sxvdOrEJfbcaVh85BcWi/DpW5D7oaHbA3SU5hXeurI0K1dKZRPtsDX9w95u3VdYhSgYY6Gj6s6kp3QwKpNX3+98+Oc0vfzRWmSmIW1r8Y4EWW01apgU/uGIEiCcOVjtyCNTGNRhIPfZVbs=;2rPbU0oyfzz/Y/S+3SGVyg=="
+secured: "+SQEUtnbzwT4g3TYscqHNKfoNERGUnucR7OmKKHJ3CuWRhC7Y80VXxpWMzUcOM1ixP785bZVS7F/qAsY7AAluzXztB3jkh75wnkt2ILSKgUwlRy8p58poEQ35qOu3IZpHDm1IHMfaX3a9TpYAbeLnrQeSc+DoDO1dJZpwM7y/kMMZDoS/Anh1Fqh8oNan7lwTh/zyYZ6WYIAeR7GogiLHRchzygNz3duYMJtBNVVfx16kHyp9lYLVuBOI2dNVVVX5A7t7mxrFsZwRN7ReE7SZSTaNfZwX52KUD9hN/nxlRmt7xlxqQdLCPwa/6kXuaTfVcow4XFq+0d+nWf4uwkOjRGJXOZEYXPIqwka28bMJas=;axt8JJ8+s5rvIz3PnAR60w=="
 ---
 

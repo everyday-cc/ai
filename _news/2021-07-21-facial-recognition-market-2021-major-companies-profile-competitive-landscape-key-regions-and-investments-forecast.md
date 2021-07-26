@@ -45,15 +45,6 @@ related:
         width: 650
         height: 437
         isCached: true
-  - title: "Global Face Recognition Ststems Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global Face Recognition Ststems Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Face Recognition Ststems Market"
-    publishedDateTime: 2021-07-21T06:38:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4680828-global-face-recognition-ststems-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 17
   - title: "Facial Recognition Market Analysis Shared In Comprehensive Survey Report With Forecast From 2021 Till 2027, Key Players -Keylemon NEC 3M IBM"
     excerpt: "This global Facial Recognition Market study made available by Decisive Markets insights, looks both from the inside and from the outside, at the worldwide market, and aims to provide both an in-depth and broad picture of the market."
     publishedDateTime: 2021-07-23T10:47:00Z

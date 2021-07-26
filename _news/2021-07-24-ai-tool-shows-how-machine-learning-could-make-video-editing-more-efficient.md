@@ -9,7 +9,7 @@ ampWebUrl: "https://www.adweek.com/creativity/ai-tool-shows-how-machine-learning
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/creativity/ai-tool-shows-how-machine-learning-could-make-video-editing-more-efficient/amp/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

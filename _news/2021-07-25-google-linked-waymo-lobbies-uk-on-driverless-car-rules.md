@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telegraph.co.uk/technology/2021/07/25/google-linked-waym
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/07/25/google-linked-waymo-lobbies-uk-driverless-car-rules/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Daily Telegraph
@@ -25,24 +25,6 @@ images:
     width: 683
     height: 427
     isCached: true
-
-related:
-  - title: "Chinese driverless car start-up WeRide makes first acquisition as competition ramps up"
-    excerpt: "Chinese driverless car start-up WeRide has made its first acquisition, an autonomous trucking firm called MoonX, as it looks to commercialize self-driving tech."
-    publishedDateTime: 2021-07-21T05:13:00Z
-    webUrl: "https://www.cnbc.com/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 181
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106913345-1626761042533-WeRide_robotaxi_.jpeg?v=1626761714"
-        width: 7952
-        height: 5304
-        isCached: true
 
 secured: "7HRCIE5kB8kmzuG7M52R+CMPOFtXoGVZjXDVnqSOB2HmoIuSNTS3AmFPizn4dr3OzRTftjICLTDFbkmt2jTVkFTxoGdb8+ZX2qBnFkeGedqVy/iKwioKmYGfrQGrARNsyOkcsd23ZdbWVvZfl4jrXzCOAfjIgSolt//WZ/DtKv7zvsI4cd2aquj+jIdFUUGz023YCTj+3yT+wq4IisyPvsK57Km4kNBhUpcl3B7LQvhh3Caf6EgXYyYI7VY2aYnHpXZr9H45vFxGI4wDudbYl0Lt0Ex8IH6QYxHqlWtcTNCsGcqtbe72RvKNjeK+TzA2ZCAAoAQVj8agkAFxp2BXPtBY01uXZr7r97J+Th/MuS9Hit/qyRzqLxVcPwRfc93ZoBtLG4GSYJxeze3LDGrYOaYWrnT3W/e7SXyzQGrQyVE7NT0oplDj+SEFcyn/tW69cLEYXJ+wOrjPjhZn/QEXHbP1+LeKBuUXYwhqJRNhaz+03Dy40rmudmYb6EvVkFnsJCBt3TSp1bWckEnc3SeFJw==;G8XTTZBIjrJDpBient5DMw=="
 ---

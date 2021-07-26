@@ -102,6 +102,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Artificial Intelligence as a Service Market to Identify Substantial Growth in Future Projection Year 2021-2030"
+    excerpt: "MarketResearch.Biz –:The latest research report that completely centers “Global Artificial Intelligence as a Service Market” is an intensive analysis of propulsive forces & risks, business opportunities,"
+    publishedDateTime: 2021-07-23T10:51:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-to-identify-substantial-growth-in-future-projection-year-2021-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Bezos-leaves-enduringlegacy-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Voice And Speech Recognition Software Market 2021: Can The Business Strategy Generate Sufficient Profits And Growth?"
     excerpt: "Stratagem Market Insights has recently published a research report titled, “Global Voice And Speech Recognition Software Market Insights, Size, Share, Growth, Opportunities, Emerging Trends, Forecast to 2028”."
     publishedDateTime: 2021-07-24T10:37:00Z

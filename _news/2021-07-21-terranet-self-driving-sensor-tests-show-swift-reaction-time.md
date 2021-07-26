@@ -22,17 +22,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Terranet Announces Industry Defining Latency Speeds at STARTUP AUTOBAHN"
-    excerpt: "Terranet AB (Terranet/the Company), (Nasdaq: TERRNT-B.ST), developers of Advanced Driver Assistance Systems, announced today at STARTUP AUTOBAHN that its 3D motion awareness technology, VoxelFlow™, has achieved latency numbers unprecedented within the industry."
-    publishedDateTime: 2021-07-21T06:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-terranet-announces-industry-defining-latency-speeds-startup-autobahn-/2021/07/21/9413483.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
-
 secured: "/Vtjr5w/fGPrQF9ErYtZqTyY6w51UC6XYPLz80G4K6WIZC9rf3HgMizpc8b+MS/sy05Mr/MHUBgTEpLv9ElE27W6wpOSv0TEjXBcTankumr/rIdJianiX3FQfir5f/Igeclxir1bVlvEXZE7hBasTKGE4DPcqnlexQ97hPjQY244jDMsojFjg9kOl4myvHUP1Csv6YrBf90FZaAIHrr35nzMko237NeIYPgeGOlywTyq2eRanqCVRCDWDE1Pq0ZOxX6IYNcda0fgb7FBgPz7D5NIj07LumbuIb3NE4ffqfhNcUkTDMFFIRWYyRi3a6LmIrccsNICiljmIN7FbzTedUaeogeE8bNiH+YA+4ny4V4=;JGfqT9HUpsZ1EzpXUWeNzg=="
 ---
 

@@ -138,17 +138,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Machine Learning Software Market 2020-2026 | Microsoft, Ibm, Scikit-Learn, Google Cloud Tpu, Figure Eight"
-    excerpt: "The research report of the global Machine Learning Software market has recently added by The Research Insights to its vast database Some of the recent advancements in technologies have been elaborated to get up to date knowledge of businesses There"
-    publishedDateTime: 2021-07-21T05:27:00Z
-    webUrl: "https://www.openpr.com/news/2333310/machine-learning-software-market-2020-2026-microsoft-ibm"
-    ampWebUrl: "https://www.openpr.com/amp/2333310/machine-learning-software-market-2020-2026-microsoft-ibm"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333310/machine-learning-software-market-2020-2026-microsoft-ibm"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
   - title: "Cloud Market Soars as IBM, Microsoft Build Out Services"
     excerpt: "The cloud market remains hot, and some of the top providers, including IBM and Microsoft, are looking to add to the capabilities and services in their cloud offerings to make further inroads into enterprises and government agencies."
     publishedDateTime: 2021-07-22T21:41:00Z

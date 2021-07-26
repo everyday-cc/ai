@@ -134,17 +134,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Machine Learning Software Market 2020-2026 | Microsoft, Ibm, Scikit-Learn, Google Cloud Tpu, Figure Eight"
-    excerpt: "The research report of the global Machine Learning Software market has recently added by The Research Insights to its vast database Some of the recent advancements in technologies have been elaborated to get up to date knowledge of businesses There"
-    publishedDateTime: 2021-07-21T05:27:00Z
-    webUrl: "https://www.openpr.com/news/2333310/machine-learning-software-market-2020-2026-microsoft-ibm"
-    ampWebUrl: "https://www.openpr.com/amp/2333310/machine-learning-software-market-2020-2026-microsoft-ibm"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333310/machine-learning-software-market-2020-2026-microsoft-ibm"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
   - title: "Microsoft acquires CloudKnox Security"
     excerpt: "Microsoft has acquired CloudKnox Security, a specialist in Cloud Infrastructure Entitlement Management (CIEM). CloudKnox provides visibility into privileged access. It helps organisations right-size permissions and consistently enforce least-privilege principles to reduce risk,"
     publishedDateTime: 2021-07-22T13:02:00Z

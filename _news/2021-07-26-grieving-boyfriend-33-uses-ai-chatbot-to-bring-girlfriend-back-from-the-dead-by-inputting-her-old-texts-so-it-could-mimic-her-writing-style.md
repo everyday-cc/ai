@@ -8,7 +8,7 @@ webUrl: "https://www.dailymail.co.uk/news/article-9824013/Grieving-man-33-uses-A
 ampWebUrl: "https://www.dailymail.co.uk/news/article-9824013/amp/Grieving-man-33-uses-AI-chatbot-bring-girlfriend-dead.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9824013/amp/Grieving-man-33-uses-AI-chatbot-bring-girlfriend-dead.html"
 type: article
-quality: 5
+quality: 7
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.dailymail.co.uk/1s/2021/07/25/20/45878161-0-image-a-38_1627242551791.jpg"
@@ -43,6 +44,6 @@ related:
         height: 382
         isCached: true
 
-secured: "lhcuNosa8K6QrmdXiTeTpwtkAqaD9XqHMttD3gMGDovKuInxaGgPNfxcLhOwrTRkF3mL/cEWbhvNxCW6Est2Poxi2frr2BEuCbGLyVcT0X9mMmCPnPMRSW0iuG53Wd7YLT9B3B70SeOD/GGNmBH2+s0znGjP2Cu83rjybXfKeDkrWKy5CovtrWQA7vk2ujC0IO6FVVO+E4tp9/Iv7mxT77H89zGH3JZVV04Q/pWtLKy+44DsiHhiIrkeTYiDpLyUTYiHZ3LImGa0OlytcZxmtZjl4o3xP/7r9UNlNLRwOGGEqb8UKRxDHkmM3hayAbJd7xLH9C6bdNlW1Oe1j8Iri+IM5H6ItthXJituBpPU2Ic=;Obb8+smBsFx30rfEvRvaAg=="
+secured: "YD0Ajg7IKtE6m3XTUl/m+OZfNCvW0n39rJE1iocTzPTxsU4uo2FUA94Xdj8vFZ2KcfHUq/Z6JhWILTPidZPSj9P25MjiuwMl+DCmligJ8qNpuAZPWHQVYsZxtY1H+ryUV19oX653/0AC5peCb2SRsNRrJRRspeSJW85wmTv4TkvhtdEIBZS3SsNz0n3qhe7HHjoQyU0ybAGDXwiJ0TkNFogtDgvgdYflLx21d1fwGkpA1/pCz5O/YEN3MUY3riK99FRG6Ftuj13oQuaGyk8twUv1IE2ImcTqrbgA0SKEs/VicpMAHHxTUciG11g/SFmjbD9ogtHT7B3ay1EhWEumghSitafw59Jnt8lBl4PJ9Cu9MAzD3As+DwSNqFW3FaUkHsfRBlrLhmmKWBXgy6Bp0gIpDdshRVaUXEz4jzDCYKzLYr10FfFCoH2FnFgB7G/FWnpRXwZyNRMdiDaDpgfdoUC7nYEZqCa733XVKE3LZP6RjYuXqfQ6TZkE3DLVWZ5gluVvk3J8x63cic4bD3RVxQ==;ppBA8M9Mv+7WQeENMWCT0Q=="
 ---
 

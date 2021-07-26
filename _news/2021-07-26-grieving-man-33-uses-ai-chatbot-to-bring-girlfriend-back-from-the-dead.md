@@ -37,13 +37,13 @@ related:
     provider:
       name: Daily Mail
       domain: dailymail.co.uk
-    quality: 5
+    quality: 7
     images:
       - url: "https://i.dailymail.co.uk/1s/2021/07/25/20/45878161-0-image-a-38_1627242551791.jpg"
         width: 636
         height: 382
         isCached: true
 
-secured: "Ls5kDqQt0rKEMvFrbF8eX99qYLLRhWpy8B0pPNVV/73Qa4Nx0C5VNt7S2+ICzyYXE7SObT9xPZxNP0CGeYZhbpr1K7UgQBCKCaQgMLBnyUU0yi3buHbh0gS/Nf3P0/wfTDAyE4KYr1renFeVEleh7jBlZEH0ZV92r/HYAd0PsT0aJzRsyY8b0p9xAi1Ab0CRftZ1qzEvFVZ6ibXxV4Ge6P20/DSs5I+ZpnNjx7i0azKK0DBJcKGrA3T1s0Vlzmrz0SYY5BZtCZeiTf9GO/PGlyYJvmTAvgof4PHoiHjrs3JcabIF+tLQBEmMPaYb7w/KL8EO83OV6AcEuB41iLZDGzDrDz+R/LQmCZij6tQaASU=;d1aFCaC8yv/TARBylmogCA=="
+secured: "nIqWaGq7+HOwVhZ82KI4kgdI1wHFRhNrSAt8ugklB7XEr9i+TeXSF7HJUaKl8G/Jk4sMEX2pXhAFroxYP/73dTPWfPR8ztLqjgQTRGzRy27sW7V3nCCmZQehVyu6CPShiu2Gi+OO+L6y/HhGRKc26jXKEjTPuvljaWfmKlJVk78kPTSzEe2lRCCnqydU4b7zX3s7Yr1oMmXo3P7lZzJ5UrjkM/+OHf7R1BARghOMhEQskhMxFpCUteOKvGibIcYy+k5mNTkTisUJ7s/8C98jMH0qZiP4QVhk8F/1VKJZF1ooK6q5K6qbXg/6h4QSScnNi5Gwoy8plDZuAGrDkxveP+7DZzhBHy51zWPHOVKMhhrkqaLgNlfNno/pDF/QSZ0nU8m5NwNd+B7klaaRD0aEy20KggPLCJlC24fjA/OJDIsDdVhbRdg0JHLZbF6SbLbA+/iCtIk9d7nfy2MWjyfWZLbRJoH5GK16xgGOzKPNYm5jrEmlEv0KMV3qVWLtYCraOFpWchw04itp3IavbDdh+g==;1xif8kIz1Yt3KH+b1BRaaQ=="
 ---
 

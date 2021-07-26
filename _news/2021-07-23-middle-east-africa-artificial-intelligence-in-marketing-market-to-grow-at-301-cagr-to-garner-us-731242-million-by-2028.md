@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI In Telecommunication Market Size, Share to Be Appraised at USD 3880 million By 2024"
+    excerpt: "Selbyville, Delaware. The report AI In Telecommunication Market Size and Analysis maintains enhanced dynamics and"
+    publishedDateTime: 2021-07-23T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-size-share-to-be-appraised-at-usd-3880-million-by-2024-2021-07-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Platform Market Size, Share Remuneration to Surge At 56.6% CAGR Through 2024"
     excerpt: "Selbyville, Delaware, The Artificial Intelligence Platform market study now available with Market Study Report,"
     publishedDateTime: 2021-07-22T04:42:00Z
