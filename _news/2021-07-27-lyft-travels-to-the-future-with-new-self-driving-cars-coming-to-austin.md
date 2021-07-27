@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Looking for a Lyft? Self-driving cars coming to Austin in 2022"
-    excerpt: "Self-driving cars, accompanied by safety drivers, will begin operations in Miami later this year and launch in Austin in 2022."
-    publishedDateTime: 2021-07-22T14:47:00Z
-    webUrl: "https://www.kxan.com/news/looking-for-a-lyft-self-driving-cars-coming-to-austin-in-2022/"
-    ampWebUrl: "https://www.kxan.com/news/looking-for-a-lyft-self-driving-cars-coming-to-austin-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/looking-for-a-lyft-self-driving-cars-coming-to-austin-in-2022/amp/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 44
-    images:
-      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2021/07/Lyft-Argo-Ford_03.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "w6NEGAvt6Nfhy54oXe6/tjg82dHNvOZZpXpqxrAVjh0mt3zuX+XW6yCFGo3xW2r1j2I6eRyFbPaTI5FUiViB2pH+ijpw7BG5Tr7enaHnxmOog6qvVVmfKFYJgY9omZAl2gSAjrroo0i5DzzMJ5F/MLIDSz3OYl4RTYWLbDUx6cNa++HUrhZcnRHOqnpSHCNtS2K7Tk8h2s13DBr/eLOtT8AZ9+JQo+yRxHsAVq+tRA+kZ6/8tjfq3wUYAicM/UE9XcF1CVK3d41iAajLuTmYY/1nkC+p5quQ1m91L+ESJfAUScO4+q9u2wU84BPRlRTgPF0E2TpaWPRdESaTOxctXfGqHSYE5VWaXFMb2y94yXf9N//fgLLt77MbaspQ7XVlCOUGdub6xtx/5AfyIqVWBN7DFAudEsRzzUnrC4l7ZvSGRAsLfxZqxqq7ud4PumwNonNLyutVUOdaqhch9yBTTRdDp5XBW05lgg65OGYoqnmX0WG1VTmuNgE/9getItC0sOL6KZYcX3HpYxUhz/ubFA==;ZrtTQFxscA3SiGrMKCuNSg=="
 ---

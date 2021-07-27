@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driv
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future"
 type: article
 quality: 106
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/07/27/PDTN/940dab9d-4acd-44fe-8917-8568d3dcf615-AP21200525050750.jpg?auto=webp&crop=1023,576,x0,y74&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Data driven by AI is making the difference in healthcare"
+    excerpt: "Of all industries, nowhere might data analysis, driven by artificial intelligence (AI) be more beneficial than in the healthcare and medical sector."
+    publishedDateTime: 2021-07-27T07:50:00Z
+    webUrl: "https://techhq.com/2021/07/data-driven-by-ai-is-making-the-difference-in-healthcare/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/07/000_1W37NC.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "How Artificial Intelligence Will Shape Our Future"
     excerpt: "The future of AI is both exciting and frightening, and our company is trying to democratize access to AI services and contribute to its safe development."

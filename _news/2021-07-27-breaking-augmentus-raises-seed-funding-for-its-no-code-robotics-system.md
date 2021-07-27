@@ -7,8 +7,8 @@ originalUrl: "https://agfundernews.com/augmentus-raises-seed-funding-for-its-no-
 webUrl: "https://agfundernews.com/augmentus-raises-seed-funding-for-its-no-code-robotics-system.html"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Ag Funder News
@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
-secured: "UGO1xcsr+dPzFjE6zImSARYO9DybRrCn1dz1j0PgGUVyoUlOr3ht0axwi+BHCxktsStih+7a2BxPKAT/Ca7OnkaZ5RheCbe090h09HSRvYGXsl6eoI5vPo6pN/gJ3KTvNXxiqVRNu3EqxX9Qa2j3ASSRMC0V0PwxioIRoLC2VMzWps2zrcSRhjpLAHlSxlnsyE4tGjQmifmejqoTR4G/zsM9evHg7TtEWA5ywTO3JE7UghxWQ9co+e3QE3YTsoWC/tW/HC9BEsFWBdnmKlT8nkE6sd+ihSYfCEjjw8NR6jfFPv0mhqnMf9EGsGdKpOsgClSS6i2ygNMsCV0NVCSlCYNDQLvdL/zu3cKRb+tc3wc=;futHqI8ZGRFcwNS0XGMc5g=="
+related:
+  - title: "AI robotics startup Augmentus secures seed funding and other SE Asia deals"
+    excerpt: "The funding in Augmentus, a no-code AI robotics programming startup, was led by early-stage venture capital firm Cocoon Capital."
+    publishedDateTime: 2021-07-27T06:21:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/sea-deal-monitor-26-30-july-252889/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 67
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2021/06/SE-Asia-Deal-Monitor.png"
+        width: 1024
+        height: 512
+        isCached: true
+
+secured: "nI2oEaGssOp/uH77KnvgxfiY/uvETbktBK1ZFdm0hhYZ7A5bINRv8kZMEZ2YLiFtDRqfxGVy3o4zLY90tqyrT1HfCpsiaAMhc62BwKMI/icD/34KfVLOUdivLBuCvYRy/6RQ7Gfta8IeV5MuIWlrVmN3SbiQnRvetOnOhhhJZPr6L/vh2Bn4lxoCPee2q96qoS4Nm7bQqXuSTRGigQoECjscf0hYe+W+XEL7rqxjaiT9O+rDrq6IteXKCUYIdVYV1HcxUMyc3cDseiHbs3i/hNJsjMTtkDBxTm4V5LuJ2QZx7wkUKiOSJGpKJh0eexAe4VyT9J0lIzQa8h3aDlY/NiTdxII+gxKkOF+x8NV4teKHTjTOsFnib6zSTlDIW2i8ypgA3lZEL1rUWG58ySRxU7V4zC+I4SqaMUiyWoBR73o7g+IMT4x2rk0IQTTGnLidyF3N+fL0szKCsGGJnjlgKW+0MGLCwX8/fsdDmlKQTy4zpp19T04Fr0D4tatNYhVqAAzD8uPmvYHtS66Dlt9Plg==;2/LqEz+ScOyGR/EM+9I9Zw=="
 ---
 

@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Data driven by AI is making the difference in healthcare"
+    excerpt: "Of all industries, nowhere might data analysis, driven by artificial intelligence (AI) be more beneficial than in the healthcare and medical sector."
+    publishedDateTime: 2021-07-27T07:50:00Z
+    webUrl: "https://techhq.com/2021/07/data-driven-by-ai-is-making-the-difference-in-healthcare/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/07/000_1W37NC.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "How Artificial Intelligence Will Shape Our Future"
     excerpt: "The future of AI is both exciting and frightening, and our company is trying to democratize access to AI services and contribute to its safe development."
     publishedDateTime: 2021-07-24T00:44:00Z

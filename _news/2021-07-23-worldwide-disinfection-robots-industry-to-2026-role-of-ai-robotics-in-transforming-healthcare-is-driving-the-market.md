@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19916974.html"
 webUrl: "https://www.lelezard.com/en/news-19916974.html"
 type: article
 quality: 62
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/52/d522a53b-1a1b-53de-97fc-25ef892b8755/60fe6f920eec0.image.jpg?resize=1119%2C630"
         width: 1119
         height: 630
-        isCached: true
-  - title: "Worldwide 5G Business Services Industry to 2026 - Machine Learning and Cognitive Computing Will Be Leading AI Tools Supporting 5G"
-    excerpt: "The \"5G Business Services Market by Enterprise, Industrial, and Government Segment Applications, Services, and Solutions 2021 - 2026\""
-    publishedDateTime: 2021-07-22T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-5g-business-services-industry-to-2026---machine-learning-and-cognitive-computing-will-be-leading-ai-tools-supporting-5g-301339413.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
         isCached: true
   - title: "Global Artificial Intelligence Chatbots Market 2021 Industry Emerging Trend, Top Players, Revenue Insights to 2026"
     excerpt: "According to the latest report by MarketQuest.biz, titled Global Artificial Intelligence Chatbots Market 2021 by Company, Regions, Type and Application, Forecast to 2026, covers assimilates reliable and updated information,"

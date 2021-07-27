@@ -43,20 +43,6 @@ related:
         width: 960
         height: 528
         isCached: true
-  - title: "The case for fintech in healthcare"
-    excerpt: "Over the past few years, the healthcare sector has undergone a similar technology upgrade. Investments in this sector tend to focus on bill accuracy and patient engagement, leaving the most pressing need untouched."
-    publishedDateTime: 2021-07-22T13:19:00Z
-    webUrl: "https://www.beckershospitalreview.com/finance/the-case-for-fintech-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 41
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/finance/2.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Win Fintech Customers with NLP"
     excerpt: "And we bet that FinTech will give us some of the brightest examples here – the financial services industry has always been an early adopter of new technologies. Thinking about NLP integration into your services?"
     publishedDateTime: 2021-07-23T09:30:00Z

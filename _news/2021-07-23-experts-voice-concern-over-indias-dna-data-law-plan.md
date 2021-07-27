@@ -24,6 +24,22 @@ images:
     height: 355
     isCached: true
 
+related:
+  - title: "Inside the world of DNA decoding in India"
+    excerpt: "Even as genetic-sequencing technology becomes cheaper and faster, the adoption of precision medicine, which decodes a patient's DNA to treat them in a more personalised, targeted way, remains limited in India."
+    publishedDateTime: 2021-07-27T07:30:00Z
+    webUrl: "https://www.forbesindia.com/article/healthtech-special/inside-the-world-of-dna-decoding-in-india/69401/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 24
+    images:
+      - url: "https://www.forbesindia.com/media/images/2021/Jul/img_164437_medgenome.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
 secured: "dirzIfxxbFXRjbpjF4rU+kOOOpcfjC2xpswHd6ItT14DhLAKkmi4yAYrDAWOD3rnGBPaNoWBlRZ9yrZ1j+loCtGPnn7nrAEqjoX143AjQBpd93HDRscjP8vlqnMniGK9zt/uqExZ1s/Bmtvb16Uh8lR/tXPTY07P1IkHLplTIqTsDmo1PATQJ32TVJBT9b34ybNpzZYC/bTQ/t58bWLB9UpjsoiMMcjB9jZ2Nn8d7U49SA3aOK5UQjOZo6ws3QE7OPwTZhMl/sStWbsasrzlzSlsxSw7XpZIJEUu7T6SChkLsM0nlF7uwZluacSXdgFWE3ANU8bLMpo/smrb1ZtsULlaCbLxk8br5afUTV+HNGIwotQUzYSRB0GiULtx2QNAqp9iGjXnDx6C1o2LpC4qU7sbBdegrCVTvt85Li9aVu23z6ipUUIaKfqeKrCUg3fON1C2rtveRrdJdIL68oii6Y8IZfav0KCdqd1b0wiGRLJrKGE1FVBWwu8FptCDWBhb4BUFfxSDs7YBCcQPYwmceQ==;l0qcr/pF3PaMv4CDUtSs4w=="
 ---
 

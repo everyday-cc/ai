@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/featured/ct-aud-nyt-artificial-intell
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/ct-aud-nyt-artificial-intelligence-molecules-20210726-yiby6yp6pvhs3bdchgshe4yvs4-story.html?outputType=amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "A.I. Predicts the Shapes of Molecules to Come"
-    excerpt: "DeepMind has given 3-D structure to 350,000 proteins, including every one made by humans, promising a boon for medicine and drug design."
-    publishedDateTime: 2021-07-22T15:01:00Z
-    webUrl: "https://www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/22/science/22SCI-PROTEINS1/22SCI-PROTEINS1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "UfghkbXIN8pUtm/x+U4CSAYheKTNBbf1/RNS8bWkffl1AExvV04M5RWAAogI80cVxnyGnuRcSqoGNspPfWHkGivRywTa0Dn3sBY0wDOOyo+W219JY+DTRLOeRfY5EbHNbaMqYh3xWslU9hm7aasxKZZLWLhM1P3TSR1Z491ePLsnVdyQY0LzGtHRUF+GFE076/bpWChN1/jswPuN7e8/XRJSF8sFUo+zhUIFZGsqFZ8kSLkZJ//IA0Th6R/AUFV2jhCzkMW5dRR0N7VimK12uztnIL0nWrFLkiTjBq8uI941YtH7AXzytXsJVR1ILtzRfUIg4F+I5jCh7jufCLP15shqH/qGfrdn2OTWUcS89rnhAm7TVBwBLxEFPjATKapOCM5YU5gPpcc5HaOw0D8inVRtv9L9HztwSL9w4bKWlHN341eZluA2h2dyytLp0HYmSWYtRaUlHqPQMXn+eQPGtaxncI2IlTZsj1wVSeFEoegribNtu1xGRBNl/+b5v/FPbR5+UsAH6EZgaRriU/b/Vg==;Hbp8nNSgSiNDWglbdlHRtA=="
 ---

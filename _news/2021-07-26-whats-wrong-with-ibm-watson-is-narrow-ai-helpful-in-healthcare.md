@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/science/what-s-wrong-with-ibm-watson-is-n
 webUrl: "https://www.bbntimes.com/science/what-s-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Watson In Demand"
-    excerpt: "Hire' service is posed to grow 30%, driven by Healthcare and Financial Services customers looking for real time data processing."
-    publishedDateTime: 2021-07-22T14:19:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/ibm-watson-in-demand-5765.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 39
-    images:
-      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ibm-watson-logo-ibm-watson-logo.png"
-        width: 820
-        height: 860
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market"
     excerpt: "The global AI in Healthcare Market size is expected to grow from USD XX billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period. At present,"
     publishedDateTime: 2021-07-23T17:20:00Z

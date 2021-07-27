@@ -58,20 +58,6 @@ related:
         width: 960
         height: 528
         isCached: true
-  - title: "The case for fintech in healthcare"
-    excerpt: "Over the past few years, the healthcare sector has undergone a similar technology upgrade. Investments in this sector tend to focus on bill accuracy and patient engagement, leaving the most pressing need untouched."
-    publishedDateTime: 2021-07-22T13:19:00Z
-    webUrl: "https://www.beckershospitalreview.com/finance/the-case-for-fintech-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 41
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/finance/2.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "India’s Fintech Market: Growth Outlook and Investment Opportunities"
     excerpt: "India has the third largest fintech ecosystem globally and 67 percent of more than 2,100 fintech entities in operation have been set up since 2016."
     publishedDateTime: 2021-07-26T10:26:00Z

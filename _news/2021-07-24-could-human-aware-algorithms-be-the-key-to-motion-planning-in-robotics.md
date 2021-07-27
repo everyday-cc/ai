@@ -81,20 +81,6 @@ related:
         width: 1119
         height: 630
         isCached: true
-  - title: "Worldwide 5G Business Services Industry to 2026 - Machine Learning and Cognitive Computing Will Be Leading AI Tools Supporting 5G"
-    excerpt: "The \"5G Business Services Market by Enterprise, Industrial, and Government Segment Applications, Services, and Solutions 2021 - 2026\""
-    publishedDateTime: 2021-07-22T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-5g-business-services-industry-to-2026---machine-learning-and-cognitive-computing-will-be-leading-ai-tools-supporting-5g-301339413.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Global Artificial Intelligence Chatbots Market 2021 Industry Emerging Trend, Top Players, Revenue Insights to 2026"
     excerpt: "According to the latest report by MarketQuest.biz, titled Global Artificial Intelligence Chatbots Market 2021 by Company, Regions, Type and Application, Forecast to 2026, covers assimilates reliable and updated information,"
     publishedDateTime: 2021-07-23T10:01:00Z

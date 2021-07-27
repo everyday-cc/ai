@@ -42,20 +42,15 @@ related:
         width: 405
         height: 226
         isCached: true
-  - title: "Analytics Insight Announces ‘Top Robotics Companies at the Forefront of Innovation’ in 2021"
-    excerpt: "Analytics Insight has announced ′ Top Robotics Companies at the Forefront of Innovation in 2021 ’ in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
-    publishedDateTime: 2021-07-26T14:11:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-robotics-4e6269bed50947458afeb281809f30a4"
+  - title: "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021"
+    excerpt: "Analytics Insight has announced 'Top Robotics Companies at the Forefront of Innovation in 2021' in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
+    publishedDateTime: 2021-07-26T14:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-analytics-insight-announces-top-robotics-companies-the-forefront-/2021/07/26/9416657.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 44
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
 
 secured: "k5QcMe/G11LRmo63iHdgWcZxU/V+RDw03GnDQffutg9kL1Sk59HgK+X027SMS+o5addPuHTbfemWm8aMZw38eQNUN6IphFYfv5wu+iNFpZwg78Xi0grRankz8H9SY3HPJRHTfouwCGKeACwFV676oUFCcraA42cjgkp+0/M4/WNgLmb0tKKO1zcKJDPqVkzBbriL32XOa6Vribq5McX5J6qlOpq51u0JK+VFcABRD/LiIJRH3hZGhADgnULF8IMtnc6pYb2MYzt54K56Aqqc8QFDaVi8EG3uNUjqXDoZiDYJObCwyV6BptJqGDEwz1iN+1Hc5INRNrh+M6EIVJGL0wRgWodeKoMdy/ZFCZ28NAPs4jsz3q8HaD1d3HtjQktLV3LZQqI83bX8pfS51VSKWMRcFuHjisWJdlZe+7HRud9NR4CKbqiP11WRm/+UGjgA4Ad3hWKX5XtuGaEgeBPjKYVNtdHn1bALqDQTMCMEjT2qNpTjn7FHKU3CdC9oQlrs8MFXwhKvK0xhFcdBwUKwIg==;SPxhMQkce4jLW5vJofDN4Q=="
 ---

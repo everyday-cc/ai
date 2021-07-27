@@ -87,20 +87,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Tesla Offers ‘Full Self-Driving’ Feature as a Monthly Subscription"
-    excerpt: "Consumer Reports takes a look at Tesla offering the ‘Full Self-Driving’ feature as a monthly subscription. CR recommends the subscription at $199 a month over buying it for $10,000."
-    publishedDateTime: 2021-07-22T13:17:00Z
-    webUrl: "https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-feature-monthly-subscription-a7568042991/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 39
-    images:
-      - url: "https://article.images.consumerreports.org/image/upload/v1626710364/prod/content/dam/CRO-Images-2021/Cars/07July/CR-Cars-InlineHero-Tesla-Model-3-gray-driving-7-21"
-        width: 1199
-        height: 674
-        isCached: true
 
 secured: "3K+IJty9vlLIfUbqCRL39tCrB1LzGvcQZGfBfJLe0x1u+RNvq/gy3xp5qndifvhsiQGcOH4rKqTKRFPtqNvYs8nST6qsBoEJsv0NHnXakZhmju+0k85ev3JqAwpZrzVt6EOXcSUSLSqLqoncUzvMA1tFp/uuaNmb4e/7rBTD/OGsWZ6SS6iZ169W3Fg4YnMhsKrArz/WdjYVLJb1OKCkBmLO1Bxpd+rWglTZ4aTWaJb977Db0wXaNwrm/fII4rJ82xxG3Q02mwIVDhoTgoSRBk9e9A0UqFqv6yJk6fB/Cqq1vwX5gW8/+FOgM8hvPi6pjx7Sr8EaUJPqkWMRnxcNHUikX+p8vqA5EO4HX4WCiAw=;9KC9a+K5njkvn8B2b4ZRKw=="
 ---

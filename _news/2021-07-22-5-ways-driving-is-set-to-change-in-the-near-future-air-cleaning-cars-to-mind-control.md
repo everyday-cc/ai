@@ -2,15 +2,12 @@
 category: news
 title: "5 ways driving is set to change in the near future: air-cleaning cars to mind control"
 excerpt: "basically – including wireless neuroheadsets that convert our electric brainwaves into communication with robotics. At Goodwood, Emotiv demonstrated its tech through the mind-controlled ..."
-publishedDateTime: 2021-07-21T20:51:00Z
-originalUrl: "https://www.techradar.com/in/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control"
-webUrl: "https://www.techradar.com/in/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control"
-ampWebUrl: "https://www.techradar.com/in/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control"
+publishedDateTime: 2021-07-21T18:08:00Z
+originalUrl: "https://www.techradar.com/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control"
+webUrl: "https://www.techradar.com/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control"
+ampWebUrl: "https://www.techradar.com/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control"
 type: article
-quality: 82
-heat: 82
-published: true
 
 provider:
   name: TechRadar
@@ -30,6 +27,6 @@ images:
     height: 270
     isCached: true
 
-secured: "JdGVQW3PT97aI5G+1r7VSSn84fNb2/Aeqq1mxGkPzIeLUVR6v5sTezs6ux3jPXcx16i2alX0hhHwXtY48YY2XNeRJB6TGD0o/pMSVFyyucwfOnvIIwoXQjLEGvfIGuefaM26mILdKVSBiyDsCNPWPDr40dB3R1/9vv2Vqk1titpvbOZ/ZE4073tYTvAh80wVQbEsrKmiz097wvx7jWhgMGUpQBRnoH7MnT81L2Ydf0XLtYZ8p8XM4aAM9lN149tP/ImdVSXsvydYe2uz9aHW9FmCgJcF+8FlTtXURn08CE3fPTy5RmeJuA/y5sPG4qkzIyiqIRxyRJmQKB6dDPUR+Mpf/fYERP+nDsk962IA5Pw=;YAXRX7qNOWV298UJo36/JA=="
+secured: "4Z0rOr3Bi6MPwi8N9mhxSjR4t2VfcI4kNbO51CM7D8G72nximVBuPqp7a3laKpAN0/yLnw/EZo+o4fjx2WtCREo2+kiDRIDmyg2jYG/hVHFZiThpcCzaYt0LZdIR4CGElh200EAr5pAXN5l6lfM1nxoNJm4qCbbe8mBWSgwE9wM4V3GWq2FF2LDbEwV+axyH9CvfdLv+CVLYeJvrCDNWGjlixFy4dLQv5ooRi6e01LDIMS9fetdmMPkKtdlYJPOuZjrT5D02UzlzGXS0yWwpckfPlGmmySIYpwxTa/e3q5POjkdEFiAk2Yio1sYOvdNWF3hk2IBKZ8DGx07S8z/uBcmjcmZRaOFC6uOZbUBm38Y=;rTBFE8bTJPPY/wqoY4+mBw=="
 ---
 

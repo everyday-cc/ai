@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/22/3-tech-stocks-using-ai-to-unlock-growth/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "3 Tech Stocks Using Artificial Intelligence to Unlock Growth"
-    excerpt: "The internet has opened up new opportunities to climb those hurdles, but artificial intelligence (AI) is proving to be the most valuable piece of the puzzle -- completing tasks that used to require many employees,"
-    publishedDateTime: 2021-07-22T13:48:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-tech-stocks-using-artificial-intelligence-to-unlock-growth-2021-07-22"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
 
 secured: "KiNPwzka2EqkbVwGK23qaAlurF1lQrpqEByBnH0jD1kOUS4Wi92fIcGJJGT9nQIjbGdN8EIn1tziaG6Hc3NdL6Wk6205Lx99QG+hpDAT7RTZZr2dyLCMxBhoYJ2ITU8XM9i5G6OsSUXBYzfj1LabHqMY8fhXPncnXlNhhJU79HSb8Kb7rOzxEKZTA9CUr2fape4NK+EE9QLoQ02OMJkvw5+KBjET/VU+s1AVv1sTBL8aPdHPygm9TDovGis8UwEMZC3OyJnNCBQQ4dqR5BPBJNs4PlwsMaEZM7qVqg/FmP0AuufxVJpBhsDcLJ6bKgDlErvxxXX6cN7tla+XSxleIiqbajvZgN1SvQSm6s5lD5+8EAMvhLYJpbtuBN8EbzAHII36JXHDuCLFP72XuTprw9Vtcb5G3DhguQV2RzAMM2OYTNJrR0L+S9OLaAEhS8nOxwirZh+RLNC09kmNzrORPiA5sd4+zwwAI8vkT4yB5PzoCPlBBvsGCqrVCjX+8Xt1SfBHB1ObVZPgEnYFgQBnPg==;geTuvRbv4QpWqnuUcnwAew=="
 ---

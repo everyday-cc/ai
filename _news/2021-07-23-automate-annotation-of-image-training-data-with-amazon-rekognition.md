@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automate-annotation-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-annotation-of-image-training-data-with-amazon-rekognition/"
 type: article
 quality: 121
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 593
         height: 397
         isCached: true
-  - title: "D-Orbit announces AWS Ground Station integration with AURORA mission control software"
-    excerpt: "and Amazon SageMaker for building custom machine learning models that can be applied to a wide variety of data sets. Maintaining independence and editorial freedom is essential to our mission of ..."
-    publishedDateTime: 2021-07-22T15:01:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8285207/d-orbit-announces-aws-ground-station-integration-with-aurora-mission-control-software"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 12
 
 secured: "g/SQZ/OXFOQ6xNqIWxlcDl/ekK86zxPBmci47MhHnih5il0hxLk6PmLlIsEVD2kGcAXxoW/gtBnp/TXuezUh8ksMu6fJDJJLFl+US0anJba2V9/LgdHCvHIfFBmu2xrkM3pBFabHf+IRSyaHjp5iedmdrszkgeXePeuEStNQFG9Zgclb+rmTkJItlc7G7Xe72z6RFsfabl/ZmK7zXOmgywJA0AUtFV20PPABG3FyxmPIMFtDU1PYSwnh62UBak18SsR6ytdak8v0AsewUj8m6fVnI2w8JiQRRtyP8h4k03OJu/5alloDh3TgYoUyHOh2zQk7a3eGJ3dMXs19Lj5F0TvpktOGIUMlYV2Yg9VOHBI=;FAGMy6y4oQSKdNwDDQxjxQ=="
 ---

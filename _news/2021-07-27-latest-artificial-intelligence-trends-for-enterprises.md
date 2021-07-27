@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-27T04:15:00Z
 originalUrl: "https://www.analyticsinsight.net/latest-artificial-intelligence-trends-for-enterprises/"
 webUrl: "https://www.analyticsinsight.net/latest-artificial-intelligence-trends-for-enterprises/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-4.jpg"
@@ -42,6 +43,6 @@ related:
         height: 600
         isCached: true
 
-secured: "HHpdIbtmqASfRkUo8UW67pdU2w1k7efks6knUmI+c1QKkzan0JFFJVns5Usuv2yTRnI3hDce7m3ehUK4az2dmbmXSDYrftzmf2joAoSb3gzIPUT97remVHwKNrOLb1ImUGyjOexmR3145WsWPCNtsDma+wHBRG7BXLf0Ro6s3suMjvPuOQFkGwWjbi7F5Dd1bSPsY+kJMtVS1MHS/DH7dQZ3X4BUYM7F2hhuJLcHc9QjvrufLk4ZnvMKt9L1g8MQmo/bGaLsQQSP85E1Qq1oPVfa9I4XqVtFif1rC2TlHkHZi4Z7cZXQfsOuQcLOfcambNrqzPzmwM90ktUThT0uEKKppOfZrKVyRX8ZkZpI/KQ=;3sE6AQ3RelLPdYyrJPxU1A=="
+secured: "muVxUMITmUjZjVCUYdXvozt29f1eShKAIaMPdXQ48gSraXUh8dyLt8FLNaqlmikSL/HnL5GBqTQRNPFb0By7p9AAwqqZpc33UiRcYxsteKs4gESjRWSYDc1//CBNw69cVkE1KvZCJeo0CBhy1Znl5ycqST4bUxFBuRei3Mz/5gRydHOwYLLUEVPx4LZ9ZSw40c+nlzwKAPascjd55xDjsSXbq/b3UW/ptXrCAhFrDOrxLbZTqFZVshvRd+Pt1Iz7ySdg7jBRJGpNh4Yvmfk8sAu5F2tLUHMXRRw05nNze9BjV58lZCyXjVXocJ05h0VUIaq0HHWDmcTH2Xwl0KfOkN8xougXKYT8qeN27SFsttBTwGBQ5+9ft9GE4jPISDdhiwZyoUUkOtruWG3/oRQpX1sNCpXpIiFAY/4hMtckHCjaYOW3YY9r6Wqj0xhUTINnT00CAdVBL5wqGQ4y191FT+ctkBsji3HR5Y+744ORqR2EdtizpITofz2DA3cWkkcfRWU/BqD6cuPn5YdUiCICEg==;cZN3wO4bPquirV1BXntzSw=="
 ---
 

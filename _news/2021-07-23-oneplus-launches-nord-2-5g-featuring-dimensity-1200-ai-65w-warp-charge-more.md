@@ -57,20 +57,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "OnePlus Nord 2 5G Featuring Dimensity 1200 AI Chip, 50MP Camera Launched in India"
-    excerpt: "OnePlus has finally launched the much rumoured OnePlus Nord 2 5G in India on Thursday, with the device sporting multiple features that were upgraded in comparison to the original OnePlus Nord. The device was launched alongside the OnePlus Buds Pro,"
-    publishedDateTime: 2021-07-22T14:48:00Z
-    webUrl: "https://telecomtalk.info/oneplus-nord-2-5g-launched-in-india/440159/"
-    type: article
-    provider:
-      name: Telecom TALK
-      domain: telecomtalk.info
-    quality: 49
-    images:
-      - url: "https://telecomtalk.info/wp-content/uploads/2021/07/oneplus-nord-2-5g-launched-in-india-3.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "OnePlus Nord 2 5G with MediaTek Dimensity 1200-AI Soc, 50MP Triple Rear Camera Launched, Starting at Rs. 27,999"
     excerpt: "OnePlus has expanded its portfolio of mid-range Nord series and launched today OnePlus Nord 2 5G smartphone. This is the first smartphone to be powered by"
     publishedDateTime: 2021-07-22T15:26:00Z

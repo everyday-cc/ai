@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.statesman.com/amp/8058042002"
 cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8058042002"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Looking for a Lyft? Self-driving cars coming to Austin in 2022"
-    excerpt: "Self-driving cars, accompanied by safety drivers, will begin operations in Miami later this year and launch in Austin in 2022."
-    publishedDateTime: 2021-07-22T14:47:00Z
-    webUrl: "https://www.kxan.com/news/looking-for-a-lyft-self-driving-cars-coming-to-austin-in-2022/"
-    ampWebUrl: "https://www.kxan.com/news/looking-for-a-lyft-self-driving-cars-coming-to-austin-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/looking-for-a-lyft-self-driving-cars-coming-to-austin-in-2022/amp/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 44
-    images:
-      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2021/07/Lyft-Argo-Ford_03.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Lyft travels to the future with new self-driving cars coming to Austin"
     excerpt: "The Lyft ride-hailing service is traveling into a new era in Austin. Starting next year, Lyft customers in certain parts of Austin will be able to hire a self-driving car"
     publishedDateTime: 2021-07-26T17:25:00Z
