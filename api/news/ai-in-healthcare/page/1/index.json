@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-26-pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management.md",
-      "title": "PathAI enters into clinical diagnostics through acquisition of Poplar Healthcare Management",
-      "excerpt": "PathAI, a global provider of artificial intelligence-powered technology for pathology, announced their acquisition of Poplar, the management service organization for Poplar Healthcare PLLC, an industry-leading independent anatomic pathology laboratory services provider.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management-1030644662",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management-1030644662",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-26-does-your-project-need-artificial-intelligence.md",
       "title": "Does Your Project Need Artificial Intelligence?",
       "excerpt": "Implementing AI technologies can benefit your business so long as you clearly understand what values they bring and set realistic goals.",
@@ -106,7 +63,7 @@
       "originalUrl": "https://www.openpr.com/news/2337136/healthcare-natural-language-processing-nlp-market-including",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -139,6 +96,40 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-pathai-acquires-poplar-healthcare-highlighting-ais-role-in-medical-diagnoses.md",
+      "title": "PathAI acquires Poplar Healthcare, highlighting AI’s role in medical diagnoses",
+      "excerpt": "PathAI, a Boston-based health technology startup, said on Monday that it has acquired Poplar Healthcare, one of the country’s largest pathology labs, as the company seeks to provide doctors a quicker way to diagnose medical ailments through use of its software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/",
+      "originalUrl": "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp",
+      "publishedDateTime": "2021-07-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -833,10 +824,10 @@
     {
       "path": "_news/2021-07-15-major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression.md",
       "title": "Major Study From Stanford University and Youper Finds Artificial Intelligence Therapy Effective at Reducing Anxiety and Depression",
-      "excerpt": "In the largest clinical study of its kind to date, a team of scientists at Stanford University confirmed a new model of mental health treatment that uses artificial intelligence therapy is significantly effective at reducing symptoms of depression and anxiety.",
+      "excerpt": "In the largest clinical study of its kind to date, a team of scientists at Stanford University confirmed a new model of mental health",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-major-study-from-stanford-university-youper-finds-artificial-/2021/07/15/9410138.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-major-study-from-stanford-university-youper-finds-artificial-/2021/07/15/9410138.htm",
+      "webUrl": "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -846,11 +837,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T06:10:00-07:00",
+      "publishedDateTime": "2021-07-15T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

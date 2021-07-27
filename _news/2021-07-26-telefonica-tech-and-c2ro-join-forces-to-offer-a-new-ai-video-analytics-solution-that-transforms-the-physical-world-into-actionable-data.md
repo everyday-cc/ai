@@ -3,8 +3,8 @@ category: news
 title: "Telefónica Tech and C2RO join forces to offer a new AI video analytics solution that transforms the physical world into actionable data"
 excerpt: "Telefónica Tech includes the C2RO PERCEIVE™ solution in its portfolio to complement the space analytics proposal and help companies improve"
 publishedDateTime: 2021-07-26T08:42:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/telefónica-tech-and-c2ro-join-forces-to-offer-a-new-ai-video-analytics-solution-that-transforms-the-physical-world-into-actionable-data-1030643690"
-webUrl: "https://markets.businessinsider.com/news/stocks/telefónica-tech-and-c2ro-join-forces-to-offer-a-new-ai-video-analytics-solution-that-transforms-the-physical-world-into-actionable-data-1030643690"
+originalUrl: "https://markets.businessinsider.com/news/stocks/telefónica-tech-and-c2ro-join-forces-to-offer-a-new-ai-video-analytics-solution-that-transforms-the-physical-world-into-actionable-data-1030643692"
+webUrl: "https://markets.businessinsider.com/news/stocks/telefónica-tech-and-c2ro-join-forces-to-offer-a-new-ai-video-analytics-solution-that-transforms-the-physical-world-into-actionable-data-1030643692"
 type: article
 quality: 35
 heat: 35
@@ -43,6 +43,6 @@ related:
         height: 720
         isCached: true
 
-secured: "3AfZSKTYaOEAJRl+tqnCtWfmGc7+vQCbqt9S8EeOcnQydkPwRDOgWAXOmwb3QD22liTi+OU4xeL2IL0mik5uEX/iZ7wSMg9pT8HFHUdjvj5AN8h2h+2+YggCDdYnCWiIhAptimk1+V8gxD19LmZn26auAyPNy78QcQHVc+OAcQil2iWKB1p0ugrZgpG3FOd13ogKL8Va52KIqXVg9FiaPpVwuOnOf35p9CP0XpMVO0HEItBYluJsufOpv2LLizxGG1lkKuznIhxRNSfZQNZH1UsewK4C2RKExeZGNDDgmdUHwgo6g0c1Z+FciVQ9Lr0XxqgV7xUdvI9q54TUxPlQ0INhgfogJM+HT4xT+MqYZEo=;svi+f9cowRk/LPhtmoSLXg=="
+secured: "r/ShC+eRaM6HBAOFfHAzoO1Xoc8VazMN/N8uWLPU9yN1HQi8Go9dRBzxawXzIoXOi6T6bwW9zIxk42BxXj92nHRshMcYFAuBljNRJiTLNuEerOiyuFm4MrhRtzVAVvCe4nVK/54kPLZZNLGO5uK2M3QagUeHKNFgnmWSPJStB9eQxsWkUsjfsJ3QMbFI6rqFSOhhvyjQ2jFasKCjZy6FpeJYYEgIOQQtY++A3oSG3ofgsnLLLRQQOt3YqH7/O7oxE7XVtXnxSU3RvJE2GQmr67CpPxQNNNc7uzhDLNDdkxckOr4jHgqi/JIHcAyDpwoubiFo31RSBcW2JnnIGCKPNudjSB6YKetkYAf+LgC3eV4=;rnv7B4pSpNHuVw1i8FXuLg=="
 ---
 

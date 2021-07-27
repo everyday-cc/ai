@@ -33,6 +33,20 @@ related:
         width: 600
         height: 335
         isCached: true
+  - title: "Rigging for AI: How the US Navy Embraces Digital and Masters AI with Brett Vaughan, CAIO at the US Navy"
+    excerpt: "Brett Vaughan, Chief AI Officer & ONR AI Portfolio Manager at the United States Navy! This month’s AI in Government featured guest speaker is Brett"
+    publishedDateTime: 2021-07-26T22:51:00Z
+    webUrl: "https://www.geekwire.com/calendar-event/rigging-ai-us-navy-embraces-digital-masters-ai-brett-vaughan-caio-us-navy/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 51
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/07/august-ai-in-gov.png"
+        width: 405
+        height: 226
+        isCached: true
 
 secured: "1f6ZvJQJaxo4nomiKnjbkpjBvTd5OY6gPJwCd+mj1YSLfkQ71wmOtMBdxU0pSIWI/VSzl+1wCErBEauC0qkJ9cb+VlUkVAw5KqVkYDTsUaFYQG6rAXo1CYC9lHqtQc4acxJBy9Y6+ai1T4xP9pE7dR4GQEMI7I5nUZDjHU75Md58xWTD9W40rnFgEdXZTkh+ozCIjmMQjQRck8rg9e+RO/vuqpugdTL0A8YyDbQO8DxJ2T5oEku28D9n6+98UbHoJOm9f44PVNAkGyiRSyWvVLmW9f9sJxEfUOKqtEtawoJg0GCERPu9TKRZkPrWhAm4VRGoyl/wpiPcM62lRo16WiPitq0KzJ2Qliw6XCZYuGM=;ZPox6+X6NznyKo0Vpt7yVQ=="
 ---

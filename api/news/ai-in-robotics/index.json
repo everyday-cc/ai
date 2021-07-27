@@ -62,7 +62,7 @@
       "originalUrl": "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-future",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -683,6 +683,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-21-5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control.md",
+      "title": "5 ways driving is set to change in the near future: air-cleaning cars to mind control",
+      "excerpt": "basically – including wireless neuroheadsets that convert our electric brainwaves into communication with robotics. At Goodwood, Emotiv demonstrated its tech through the mind-controlled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "originalUrl": "https://www.techradar.com/sg/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/QL6cCU9JaGStf4sqioWSJB-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "publishedDateTime": "2021-07-21T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-re2-robotics-sapien-6m-arm-designed-for-outdoor-applications.md",
       "title": "RE2 Robotics Sapien 6M arm designed for outdoor applications",
       "excerpt": "The RE2 Sapien 6M robotic arm is being used by commercial and defense customers who require a mobile outdoor-rated arm for complex tasks.",
@@ -713,58 +765,6 @@
         "name": "The Robot Report",
         "domain": "therobotreport.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control.md",
-      "title": "5 ways driving is set to change in the near future: air-cleaning cars to mind control",
-      "excerpt": "basically – including wireless neuroheadsets that convert our electric brainwaves into communication with robotics. At Goodwood, Emotiv demonstrated its tech through the mind-controlled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control/",
-      "originalUrl": "https://www.techradar.com/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/QL6cCU9JaGStf4sqioWSJB-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
-      "publishedDateTime": "2021-07-21T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

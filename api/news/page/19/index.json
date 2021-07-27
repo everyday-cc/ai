@@ -285,6 +285,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-12-alteryx-the-analytics-platform-landscape.md",
+      "title": "Alteryx: The Analytics Platform Landscape",
+      "excerpt": "Citizen data scientists are also more likely to rely on AutoML to guide them through the analysis process, although some expert data scientists may also prefer an augmented approach to increase ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4438734-alteryx-the-analytics-platform-landscape",
+      "originalUrl": "https://seekingalpha.com/article/4438734-alteryx-the-analytics-platform-landscape",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1280385511/medium_image_1280385511.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4438734-alteryx-the-analytics-platform-landscape",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4438734-alteryx-the-analytics-platform-landscape",
+      "publishedDateTime": "2021-07-12T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-iit-madras-develops-ai-based-algorithm-to-identify-cancer-causing-mutations.md",
       "title": "IIT-Madras develops AI-based Algorithm to identify cancer-causing mutations",
       "excerpt": "Chennai: The researchers in the Indian Institute of Technology-Madras have developed an Artificial Intelligence (AI)-based Mathematical Model to..|News Track",
@@ -453,6 +496,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-cognitive-spending-systems-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-to.md",
+      "title": "Cognitive Spending Systems Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News Forecast to 2021.",
+      "excerpt": "At the beginning of 2021, COVID-19 disease began to spread around the world, millions of people worldwide were infected",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-spending-systems-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-to-2021-2021-07-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-spending-systems-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-to-2021-2021-07-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-11T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1065,93 +1160,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-amazon-to-extend-ban-on-police-use-of-face-recognition-tech.md",
-      "title": "Amazon to Extend Ban on Police Use of Face Recognition Tech",
-      "excerpt": "Activists have targeted Amazon Web Services cloud computing unit's \"Rekognition\" facial recognition technology and Ring surveillance cameras used for home security. It was not clear the degree to which police have used the systems. Amazon last year called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
-      "originalUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://courthousenewswebsite.kinsta.cloud/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
-      "publishedDateTime": "2021-07-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-the-man-who-invented-the-self-driving-car-in-1986.md",
-      "title": "The man who invented the self-driving car (in 1986)",
-      "excerpt": "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "originalUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2018/07/ericPetersen_selfDrivingCars_RGB-e1532325107404-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "publishedDateTime": "2021-07-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

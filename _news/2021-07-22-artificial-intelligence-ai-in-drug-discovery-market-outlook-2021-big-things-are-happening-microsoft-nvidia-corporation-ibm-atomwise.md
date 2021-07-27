@@ -19,19 +19,6 @@ topics:
   - Microsoft AI
   - IBM AI
 
-related:
-  - title: "Automotive Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 Government regulations across the globe are getting stringent for the safety of driver without making them compromise on their comfort"
-    publishedDateTime: 2021-07-22T10:45:00Z
-    webUrl: "https://www.openpr.com/news/2334680/automotive-artificial-intelligence-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
-
 secured: "Yqd7b34uZCcu646P1zswn9I3Hxovt4ZsbXq2V5L2KH04p53VTwCSEmCJhDwgaWq6jOfZl2mC0yeB05j0ksC9Q2/xpEVj8SxH80JwRxUf0Flr2jFnEaR/vVcywr3P1xuVjfZp4iiVc+wkf5oDPYP6dCbyBa2bNR9i0swRF6ooS+SF7clLnkl0j28w03pB+Yx9zhZ1rbt5aSLBNFzyeA3OfG0tr5pmC11TUEpvBjvElf5ZxMFzEOHeCQt2iQ4oXlLqNHoKe/4z7TCUw/I6p/vfQp99laRMoWqNqZ/8xsGAaC6yW4Zxol0Yu7L3pMMwZ6RGvIML+SJJG6aAWQ/CF/H1MrdFNuYhMVpSKXYumCq7DXg=;keujbAAGRNJ+rINvZv1z9A=="
 ---
 

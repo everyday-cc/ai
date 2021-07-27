@@ -7,8 +7,8 @@ originalUrl: "https://www.geekwire.com/calendar-event/uspto-ai-innovation-journe
 webUrl: "https://www.geekwire.com/calendar-event/uspto-ai-innovation-journey-scott-beliveau-branch-chief-advanced-analytics-uspto/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: GeekWire
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Rigging for AI: How the US Navy Embraces Digital and Masters AI with Brett Vaughan, CAIO at the US Navy"
+    excerpt: "Brett Vaughan, Chief AI Officer & ONR AI Portfolio Manager at the United States Navy! This month’s AI in Government featured guest speaker is Brett"
+    publishedDateTime: 2021-07-26T22:51:00Z
+    webUrl: "https://www.geekwire.com/calendar-event/rigging-ai-us-navy-embraces-digital-masters-ai-brett-vaughan-caio-us-navy/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 51
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/07/august-ai-in-gov.png"
+        width: 405
+        height: 226
+        isCached: true
   - title: "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021"
     excerpt: "Analytics Insight has announced 'Top Robotics Companies at the Forefront of Innovation in 2021' in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
     publishedDateTime: 2021-07-26T14:16:00Z

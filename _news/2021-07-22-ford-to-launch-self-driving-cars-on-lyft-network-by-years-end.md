@@ -102,20 +102,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Argo AI and Ford to launch self-driving vehicles on Lyft network by end of 2021; targeting 1,000 over next 5 years"
-    excerpt: "Argo AI, Lyft and Ford Motor Company are collaborating to commercialize autonomous ride hailing at scale. The partnership brings together all of the pieces necessary to create a viable autonomous ride hailing service,"
-    publishedDateTime: 2021-07-22T10:10:00Z
-    webUrl: "https://www.greencarcongress.com/2021/07/20210722-fordargo.html"
-    type: article
-    provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
-    quality: 17
-    images:
-      - url: "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef0282e11251e5200b-600wi"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "YpWTGCnKpphSWFVbYUhIZc+43x7qSD7NSlyxxL/bm3XCKPQHCTqjTJ7L78ZoYH6NIUrxqoafk/nbMFBicoIEu/Ro1cBv82guRjUyZJr+kTnAI1ejYhXcaBHPlEG5g6ExtSosFddA91gBbVl28jA+4/SQMnqgD8APDFGOmLAll6o3yS0xPW/+/YV4E1Luf+gx1W15s+iQGdGteU2tBf7keuw9JHQnvclHs0AKyNC8zPOp4S0V3uSoXAebMdLkKeh/rL5We64a7OltNorRZ4Z/PdDt6b6u/YQ0Nkb3CShN4uvW+BR9xS24HJlNaurDCez4ZPBfymWP09uB/kExFBxrigCRpx1KXLd5BygAj4ij11wXmFEYxYfSYayvDGpSNUSKjN/BbIsiMCPJspv9+QLC+uRZehTlNOUdTJSVCVN1SibUM5Lbu/JRZ/9WP4wA5Z4DoKzWg8kwwJfAcBpXrJHDCD3IAla9M07YFezXNLGVcq5v3bKfykFCtLzVDPiO3ssrzYwjgFw2CbZ6VrQxoodVJQ==;DF9OeCPZJ01Fxl44WVrQrA=="
 ---

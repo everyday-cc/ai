@@ -1,26 +1,28 @@
 ---
 category: news
 title: "PathAI enters into clinical diagnostics through acquisition of Poplar Healthcare Management"
-excerpt: "PathAI, a global provider of artificial intelligence-powered technology for pathology, announced their acquisition of Poplar, the management service organization for Poplar Healthcare PLLC, an industry-leading independent anatomic pathology laboratory services provider."
-publishedDateTime: 2021-07-26T12:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management-1030644662"
-webUrl: "https://markets.businessinsider.com/news/stocks/pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management-1030644662"
+excerpt: "PathAI, a global provider of artificial intelligence-powered technology for pathology, announced their acquisition of Poplar, the management service organization for Poplar"
+publishedDateTime: 2021-07-26T12:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management/article_a50d7d05-2939-520e-bd7c-3beefc53f8d9.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management/article_a50d7d05-2939-520e-bd7c-3beefc53f8d9.html"
 type: article
-quality: 54
-heat: 94
-published: true
+quality: 44
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/24/124483c2-e86c-5c0e-9b65-99cd9472feff/60a3ad0055b0d.image.jpg?resize=1200%2C458"
+    width: 1200
+    height: 458
+    isCached: true
 
 related:
   - title: "PathAI acquires Poplar Healthcare, highlighting AI’s role in medical diagnoses"
@@ -67,6 +69,6 @@ related:
       domain: bizjournals.com
     quality: 34
 
-secured: "DNxs/mTTooM8o762OxXeucgsG5ZBtXDiVM3FoJ9nsIw1pJzHCd1bBV+44SjPPpWEe7LvrzWv+deaqn+ReO45FZGm5nGdBGMzrtWV0KVz3XtqVADBaPk/uJyyuEb2pIHia4akOIWyt6CYmQ8BwtGNr86UimjCETcwYp2/5aAK5Fq7w9EQNSMk/w4faGviXS8CrIZa1NyVxNEdDT1TNWzBWgdQ6odwmbpH3egfwmIjJKPHaZi+ajBIxnIAawwAax0EJHHwciBler03Henl22lsCKmQx+2nwzugPLa7Me+hHYMiHIt/JKju6ZQNP0+OHyYt4ckrHggJ++kk6eQbyGUhojyNoj3+xQ6SQTjIs4lF0YCIQc7NQ8WZlbnWZVadmYchvXSgefbJ4+TQzvggLETcWuAjkvUa2JS512t306dE8o6i17BwoVSA3Jyzgg6mWDPbi6/0PQ2Ek8+u02BFr2raD1ZUo2LYJDFJryfbOSuzuCLS7DvHyj9mhY4bmqZ8nmU2hjftcGMJtoEKqaYfutGczw==;6cqhEW5l2lelS3YTVD5l5w=="
+secured: "rjNyu7bSSpRN6CZedNOqzgxhkcYx15/7g1cw5EYyFZoR7tyA1v2bI6WjYafl/h7u/yI9vvqd1ZCwI9jem7pX0CglojqxDUo05utmnU8J2w8uxiM2xmeV0xLZA4UhsYS60SGUIYSKxqlJAscxPrlgbEq0yqi5CM4eDtDDAJ+Yws9ENTK5oYRoY9mcHr9PA89v9VFnccB4GKloTAoLjSU4NzWEJ95/2MITpGIWvOE49O/0RK6pf7NOe0EgZoIuahg2q+UwUV/4NeFC7uoj9D7z4Q+ytORib4X65ddU3LGT+0tCPGMccBOI4CqtRNH3E84r44u6II7BRSJ/AFewYCXvcJ0ucGE4QqVdny8hj+vmcWs=;GXEPw1Bl8iw2Kp8XuqDYVQ=="
 ---
 

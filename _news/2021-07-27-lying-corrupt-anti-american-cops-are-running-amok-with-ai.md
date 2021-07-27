@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/cops-are-running-amok-with-artificial-
 webUrl: "https://thenextweb.com/news/cops-are-running-amok-with-artificial-intelligence"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://cdn.openpr.com/U/7/U726975991_g.jpg"
         width: 800
         height: 494
+        isCached: true
+  - title: "VDO.AI Appoints Former FreeWheel Executive Sean Black as the Head of North America"
+    excerpt: "VDO.AI - the global advertising technology company, has recently appointed Sean Black as the Head of North America. He takes clients/brand strategies and objectives beyond paper and delivers first of its kind creative thinking - married with holistic,"
+    publishedDateTime: 2021-07-27T03:30:00Z
+    webUrl: "https://www.businesswireindia.com/vdo-ai-appoints-former-freewheel-executive-sean-black-as-the-head-of-north-america-74172.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 31
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/images/vdoai_74172.jpg"
+        width: 700
+        height: 466
         isCached: true
 
 secured: "zYuEOUWMpWnPXB9KQFqsFPL4GVxos5aCJXpYg6I7q1NLSy4IgaE8sZKywvfLx6rxJFsR/5wWrwFghdYa0VHrWXxHmJuRM6FqRIQnnDymzpSNUtQFfRk01JnwdXa3deDAnYOjpnEixhn0ZSG64mr1Cjlv/EubdOGTn19nsw8IG/71/wxadZ3HjrJs9NhgYf7qizseCNZ6ZhJTmWS4d+NgehH7j1EFUUfIZ/vP7KgsvtgsbGRGSWV7GJ+EVzcCZZGl+HW3R/OKw2Jt3FN2fowSYS7kYxUxDCveF28Pw7FjytddHj0gkdC4gTzujXv0QN9mLvSQFg4fpKFr9cWDUtrxJtUqt+DqJRtR1kEv+14R8PJ7fzUpAij33itr0iWNW9NlBmij3eHyS6tfNR05ch1/lt11sUauPPTKv3sVuIJEFcNkd3YLm7yaxjzfYupIiwFaiJdUsUED83foIeeaauSUp0OaUpSWyZ4qDrXzuMpq7bQMTvnZIt3TBILJaG8qcU+QqP0YmjS2YZ+HkM+jAffI2A==;zb96ZT7kuU1rr+wHKwk/Hw=="

@@ -53,6 +53,57 @@
       ]
     },
     {
+      "path": "_news/2021-07-27-the-uspto-ai-innovation-journey-with-scott-beliveau-branch-chief-of-advanced-analytics-at-the-uspto.md",
+      "title": "The USPTO AI Innovation Journey with Scott Beliveau, Branch Chief of Advanced Analytics at the USPTO",
+      "excerpt": "This month’s AI in Government presenter is Scott Beliveau, Branch Chief of Advanced Analytics from the United States Patent and Trademark office (USPTO)! In his interactive discussion '",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/calendar-event/uspto-ai-innovation-journey-scott-beliveau-branch-chief-advanced-analytics-uspto/",
+      "originalUrl": "https://www.geekwire.com/calendar-event/uspto-ai-innovation-journey-scott-beliveau-branch-chief-advanced-analytics-uspto/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/October-2021-AI-in-Government-Scott-Graphic-Updated.png",
+          "width": 600,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-ai-in-computer-vision-market-worth-513-billion-by-2026-at-a-cagr-of-263.md",
       "title": "AI in Computer Vision Market worth $51.3 billion by 2026, at a CAGR of 26.3%",
       "excerpt": "The report \" AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial), End-Use Industry (Security & Surveillance, Consumer Electronics) and Geography - Global Forecast to 2026\",",
@@ -113,7 +164,7 @@
       "originalUrl": "https://thenextweb.com/news/cops-are-running-amok-with-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -503,49 +554,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-26-pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management.md",
-      "title": "PathAI enters into clinical diagnostics through acquisition of Poplar Healthcare Management",
-      "excerpt": "PathAI, a global provider of artificial intelligence-powered technology for pathology, announced their acquisition of Poplar, the management service organization for Poplar Healthcare PLLC, an industry-leading independent anatomic pathology laboratory services provider.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management-1030644662",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management-1030644662",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-26-does-your-project-need-artificial-intelligence.md",
       "title": "Does Your Project Need Artificial Intelligence?",
       "excerpt": "Implementing AI technologies can benefit your business so long as you clearly understand what values they bring and set realistic goals.",
@@ -650,7 +658,7 @@
       "originalUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -702,7 +710,7 @@
       "originalUrl": "https://www.openpr.com/news/2337136/healthcare-natural-language-processing-nlp-market-including",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -746,7 +754,7 @@
       "originalUrl": "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -786,6 +794,40 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-pathai-acquires-poplar-healthcare-highlighting-ais-role-in-medical-diagnoses.md",
+      "title": "PathAI acquires Poplar Healthcare, highlighting AI’s role in medical diagnoses",
+      "excerpt": "PathAI, a Boston-based health technology startup, said on Monday that it has acquired Poplar Healthcare, one of the country’s largest pathology labs, as the company seeks to provide doctors a quicker way to diagnose medical ailments through use of its software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/",
+      "originalUrl": "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp",
+      "publishedDateTime": "2021-07-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -936,58 +978,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-26-artificial-intelligence-in-drug-discovery-market-latest-report-2021-with-size-status-value-sales-and-forecast-to-2027.md",
-      "title": "Artificial Intelligence in Drug Discovery Market Latest Report 2021, with Size, Status, Value, Sales and Forecast to 2027",
-      "excerpt": "Artificial Intelligence in Drug Discovery Market” share is expected to develop speedily in all development areas over",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-latest-report-2021-with-size-status-value-sales-and-forecast-to-2027-2021-07-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-latest-report-2021-with-size-status-value-sales-and-forecast-to-2027-2021-07-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-25T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2021-07-26-galaxy-s10-5g-update-reportedly-breaks-face-recognition.md",
       "title": "Galaxy S10 5G update reportedly breaks face recognition",
       "excerpt": "Samsung has been making good in its promise to roll out Android updates more regularly, even if a bit belatedly. Part of that involves improving its process for integrating and testing those",
@@ -996,7 +986,7 @@
       "originalUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 102,
       "tags": null,
       "images": [
         {

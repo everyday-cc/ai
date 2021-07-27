@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Edge AI Chips Market Demand, Revenue Forecast and Interesting Opportunities from 2021 to 2026"
-    excerpt: "Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 research report is the new statistical data source added by MarketsandResearch.biz that uses several approaches for analyzing the data of the target market such as primary and secondary research methodologies."
-    publishedDateTime: 2021-07-22T09:31:00Z
-    webUrl: "https://ipsnews.net/business/2021/07/22/global-edge-ai-chips-market-demand-revenue-forecast-and-interesting-opportunities-from-2021-to-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 19
 
 secured: "oBWPsJbndFGXF4mlH+kDQIvq+UfNkIJ/f8AKI4bU6mLEKRnR/YximYghPgN3YWC4KIU5DLHyKoou70NxudvR9eVTuH8R1QQXrJHCKjWow3lDHDlF9xZWDTIDvEfuGnnUPQo+3GSHubQwHFDQMnNYySxs7XnBrbf2U4bY8NOvYVtUjibPwWSJW3ZiV/guXCWia5/fdydVc31rpsQH7osKLoQv6Ke92WdGKCfSohbY0nGXHcRR8jkbJ2Lc8Ywt39pa3+5gMs1Ny9dOJoOHgkxyaoDfQfMiLmSJS3wNWdJmzGlswiCgwjWdx1muuRyg4tAVJuuLyvoPR0sbTxV22ckQw7jzvaxhPq5CioLYqLGV8So=;+U5xoti4LD7b2xd6sAK4YQ=="
 ---

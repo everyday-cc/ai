@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Peak Fintech Begins Acquisition Process of Banking AI Software Provider Zhongke with Transfer of IP Following Successful Pilot"
-excerpt: "PRNewswire/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
+excerpt: "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
 publishedDateTime: 2021-07-26T12:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644496"
-webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644496"
+originalUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644481"
+webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644481"
 type: article
-quality: 56
-heat: 56
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Finance
   - AI
 
 images:
@@ -28,6 +27,6 @@ images:
     height: 235
     isCached: true
 
-secured: "XWlT2titQBeXxdLGogi9Mu5JcWusXAI7Gz5PViGj1ZwcfKxA1JtbDLA8yNhEFwVsRiQG16M4z07b0dSFKg31ut/gYYSnJc+Ft8WkNHX1dihthUDfeI9YNXqeVIb/JoUy/p+mDu4bWICVf2gKtQp4GOkBn2PlbVd/aNmfixg92/xa7wa3mRZbTZdU4P1Cz3KChD21Fq7WHraVz2s7JXjiXS3H8eJeJYI8pO9uhNuL0wZ4RWM7Uj4fQAedaKoL3bGt/N+cEKSJmUK9HKiPKsz+ybUQBF8PKfS1SuOTMwjrTRXHhxOxLfCSEpqR+zC2O+G2i/5lvQou71wOXrB5x5XTuEaS77STqNb5OJrdUaWrrPet0Eed5AlxPf/g7NurS9DFyeXxrxgAXbFfuSW+1XhlWomPVxO0aufzKM3mj1TmqJkUMaKL4oiR7swOVRI8weC9wGEQMSFoBGZHth1cueTN2cX0E0FSd7SSu9chb01iy5dBd1bWFm2IPQIXpkfZuwSow8NuoZD1dcHCXxaQ5ZhrxQ==;6ShCfzzU68MwSVEcLVkjig=="
+secured: "1XdmU6igf742XpNPXD7X6Bgg+g/AUrZCwS2OO/RNZIzs2SQP0Jt1d+60M6KDl0KLCSY8Y3jQY+6HsfvZTjm/Xsh3VybUPLtT19HYTU81K4JaweILZBg5stBcaVYAcW3zdOMCpcIJimrtIrEOdPDhAZGsNmxR418hQskgM0hhRu05IazlzExeviCKxzes1m81wiAlTxSPSxw8ZJ8X2sImOaDeyEsQjrqwzB0y0G+qT/DFLOhC1nPyvZ4mCPMU19PLDgbWkDqGcbjUBmOxyC4m470lEtdrXI9WNr6SilhEoN9gncSsWtutdIUt9c8+QSx2Q1SDpBKx6lFUA0YD63oTwSrqXW/Q8tyaQQ43N7CCl3Y=;hZ2V6ZFPXT1CjODkFyBslw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driv
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future"
 type: article
 quality: 106
-heat: 139
+heat: 136
 published: true
 
 provider:
