@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recogni
 webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-future-prospects-2026-sensory-baidu-alphabet-ibm-nuance-2021-07-22"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: MarketWatch
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "An Outlook On The Technologies of Voice Recognition Market- Present And Future Prospects Of Growth For Global Giants"
-    excerpt: "Global Technologies of Voice Recognition Market Overview | Data and Analysis The Technologies of Voice Recognition Market is entering a period of intense change. Global disruption, technological advances,"
-    publishedDateTime: 2021-07-22T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/an-outlook-on-the-technologies-of-voice-recognition-market--present-and-future-prospects-of-growth-for-global-giants-2021-07-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Text-To Speech Market 2021 Long-term Outlook Remains Positive | Microsoft Corporation, IBM Corporation, Google, Sensory"
     excerpt: "The Text-To Speech Market was valued at USD XX billion in 2020 and is estimated to reach USD 5.0 billion by 2027, registering a CAGR of 14.6% during the forecast period. Latest added Text-To Speech Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
     publishedDateTime: 2021-07-26T16:50:00Z

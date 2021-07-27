@@ -62,7 +62,7 @@
       "originalUrl": "https://www.openpr.com/news/2337136/healthcare-natural-language-processing-nlp-market-including",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -150,7 +150,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -245,58 +245,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-speech-and-voice-recognition-technology-market-future-prospects-2026-sensory-baidu-alphabet-ibm-nuance.md",
-      "title": "Speech and Voice Recognition Technology Market Future Prospects 2026: Sensory, Baidu, Alphabet, IBM, Nuance",
-      "excerpt": "HTF MI added a new research study on COVID-19 Outbreak-Global Speech and Voice Recognition Technology Market in",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-future-prospects-2026-sensory-baidu-alphabet-ibm-nuance-2021-07-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-future-prospects-2026-sensory-baidu-alphabet-ibm-nuance-2021-07-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -972,19 +920,19 @@
     {
       "path": "_news/2021-07-16-ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize.md",
       "title": "AI-enabled sign language translator designed by teenagers wins £20,000 prize",
-      "excerpt": "A two-way AI-enabled sign language translator designed by teenagers has won a £20,000 technology prize. A team from St Paul’s Girls’ School in London came up with the idea for an intelligent ...",
+      "excerpt": "The prototype of the BSL: Educate-2-Translate app A two-way AI-enabled sign language translator designed by teenagers has won a £20,000 technology prize. A team from St Paul’s Girls’ School ...",
       "sourceUrl": null,
-      "webUrl": "https://www.itv.com/news/2021-07-15/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize",
-      "originalUrl": "https://www.itv.com/news/2021-07-15/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize",
+      "webUrl": "https://www.shropshirestar.com/news/uk-news/2021/07/16/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize/",
+      "originalUrl": "https://www.shropshirestar.com/news/uk-news/2021/07/16/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.ctfassets.net/pjshm78m9jt4/headerImage-24f4d169-e421-46b2-9053-b28f3f5b3593/b5bd05faffd7645a0174dc7356b8131c/headerImage-24f4d169-e421-46b2-9053-b28f3f5b3593",
-          "width": 1071,
-          "height": 756,
+          "url": "https://www.shropshirestar.com/resizer/9Te1NTF34Dkxnxb9vDfuc1Rpx1o=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/4YJSKDSIPNH3LILDOXUWZ7HB5A.jpg",
+          "width": 1200,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -994,11 +942,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T17:39:00-07:00",
+      "publishedDateTime": "2021-07-15T16:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ITV",
-        "domain": "itv.com",
+        "name": "Shropshire Star",
+        "domain": "shropshirestar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1488,6 +1436,58 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-nordstrom-cto-on-ai-powered-analytics-and-consumer-insights.md",
+      "title": "Nordstrom CTO on AI-powered analytics and consumer insights",
+      "excerpt": "Reflecting on the start of this project ... is key to the platform architecture process. With more than 100 AI models leveraged daily at Nordstrom, an end user will indirectly see the benefit ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/",
+      "originalUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/09/nordstrom-mike-kalasnik-flickr.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/",
+      "publishedDateTime": "2021-07-13T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

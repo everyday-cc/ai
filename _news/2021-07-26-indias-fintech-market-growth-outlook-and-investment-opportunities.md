@@ -85,20 +85,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "4 Fintech Trends of 2020 Worth Watching Through 2021"
-    excerpt: "As the COVID-19 pandemic turned 2020 into a historic year of global upheaval, the financial services industry and the tech companies that support it found themselves caught off guard. As in most other commercial fields,"
-    publishedDateTime: 2021-07-23T09:43:00Z
-    webUrl: "https://financialit.net/news/financial/4-fintech-trends-2020-worth-watching-through-2021"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2021-07-23_09-43-51.jpg"
-        width: 533
-        height: 367
-        isCached: true
   - title: "Reasons to invest in fintech"
     excerpt: "Fintech (financial technology) is a relatively new industry sector that has grown enormously in recent years but still has a huge amount of potential. Encompassing a full range of financial services from payment processing to banking and peer-to-peer (P2P) lending,"
     publishedDateTime: 2021-07-26T13:24:00Z
@@ -136,20 +122,6 @@ related:
       name: fintechmagazine
       domain: fintechmagazine.com
     quality: 4
-  - title: "Minna Technologies joins Visa Fintech Partner Connect to bring subscription management solution to Visa's clients and partners"
-    excerpt: "Minna Technologies, the Swedish tech company on a mission to help retail banks deliver powerful digital experiences within subscription management, today announced that it has joined Visa Fintech Partner Connect - a program designed to help"
-    publishedDateTime: 2021-07-22T11:43:00Z
-    webUrl: "https://www.lelezard.com/en/news-19914899.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 0
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "mRJOU/tWy4WUo5xQ5BZx+4FnNC0DpZF6KfaQbF0Ox5cd85rfxy0EqwOmQEeS5YeCHk5Y6tP3zY1T5OqWzyuoX/ew/FXoacruH5iV7SzsTtZgst7a9733Hgq/ZEFOPV3NTjdMJQ6Vu11Tak5FAoGMlia4Fh/XO7ILAzWvPkzA1ZwwYS2IQ2J0013zSXZndsm/j2cDFLGkHq1yUAX5/6kzpkHnu4s6/+kJ0BPruCMzAkE+Es+55BLDF/CXOY6QM3PKiiLRqWcRhF3CWe1lE34PJ8d3lPF3ifZRdAgEGEnl4LOvPbJScWkZ3nDzzGGsB0S58zrWGNOb90gpC12Q6tfnF5i55W1JN4xBsMVdQV3HEGY=;kWCuIOTSc5Rnclx8hF79uw=="
 ---

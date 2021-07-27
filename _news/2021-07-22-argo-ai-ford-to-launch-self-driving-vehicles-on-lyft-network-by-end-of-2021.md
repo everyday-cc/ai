@@ -94,15 +94,6 @@ related:
       name: 7News Miami
       domain: wsvn.com
     quality: 37
-  - title: "Ford to launch self-driving cars on Lyft network by year’s end"
-    excerpt: "Argo AI and Ford Motor Company are working together to bring autonomous ride hailing vehicles to the Lyft network. The companies said the collaboration will bring together all the necessary services to bring autonomous ride hailing service to the mainstream with self-driving technology,"
-    publishedDateTime: 2021-07-22T12:52:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16973/ford-to-launch-self-driving-cars-on-lyft-network-by-year-s-end"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "giyyaLX4RIml3Ap9y8rR4XuNwlyyianI5CBHTwhlW8e0v9JtuEO4CXtEjCmZhwb4Dbcp1NFbYSMXr6lYsFX458XoPCavqGvwQ208seF6FRn8aS+7R9+OEsmO+lVCXlL4ebc8+6H3iSZVZ56FXFA265pG49FK5nqfa54kA23GkTm5vYP894icuXrxByQwErTtV5g9IgzOh//c9cs6rKLfjnbt0ndmpy9G5yDTzRhBhdHt2D1toTfKakTkrIwl2vAFPXGeZQM24ft7TwSZM5FfkmXv9yESz50bPZcbamtJ+2l0vmFjNuWspPLm7Fibcaqz3rD6fdJ2YoyWbR7KOQDzhgMR5ZNpGMTWODPYbuVW3OuDQa57zDOA4LAQlH7G93T7BOXayoUxUecT83ifOwXP9Pnt4AF+/cQeddm9wZSLzoGFjf8hHNa43DgbdgvnuOKd7pGvwgU1zuEiX47NNTyN/bL5zzZRfl4ODsakw4pvGGctWcyoJyxdThqA4tOZ0gR6xvEqmKYCNTRUAEGwYB3kqg==;iRa9UeiBz/F3l9k7ixhDjQ=="
 ---

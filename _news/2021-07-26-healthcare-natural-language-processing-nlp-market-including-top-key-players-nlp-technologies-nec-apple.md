@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2337136/healthcare-natural-language-proce
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337136/healthcare-natural-language-processing-nlp-market-including"
 type: article
 quality: 73
-heat: 94
+heat: 93
 published: true
 
 provider:

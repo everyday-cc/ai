@@ -85,20 +85,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "4 Fintech Trends of 2020 Worth Watching Through 2021"
-    excerpt: "As the COVID-19 pandemic turned 2020 into a historic year of global upheaval, the financial services industry and the tech companies that support it found themselves caught off guard. As in most other commercial fields,"
-    publishedDateTime: 2021-07-23T09:43:00Z
-    webUrl: "https://financialit.net/news/financial/4-fintech-trends-2020-worth-watching-through-2021"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2021-07-23_09-43-51.jpg"
-        width: 533
-        height: 367
-        isCached: true
   - title: "India’s Fintech Market: Growth Outlook and Investment Opportunities"
     excerpt: "India has the third largest fintech ecosystem globally and 67 percent of more than 2,100 fintech entities in operation have been set up since 2016."
     publishedDateTime: 2021-07-26T10:26:00Z
@@ -136,20 +122,6 @@ related:
       name: fintechmagazine
       domain: fintechmagazine.com
     quality: 4
-  - title: "Minna Technologies joins Visa Fintech Partner Connect to bring subscription management solution to Visa's clients and partners"
-    excerpt: "Minna Technologies, the Swedish tech company on a mission to help retail banks deliver powerful digital experiences within subscription management, today announced that it has joined Visa Fintech Partner Connect - a program designed to help"
-    publishedDateTime: 2021-07-22T11:43:00Z
-    webUrl: "https://www.lelezard.com/en/news-19914899.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 0
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "O6TaZevVGqa5PVwkghYFG8FM6jMHLwysRi2onzCyfds7SsUqf18t6JW6Gr1eGZpl+UYMYX5lsunocqE32S1A8hC/IpURWpSw/4TSWDziOAHmxkE+jfiEFa1nkLxLVD1VwlbDKNeZ+UquWlNFGO2qAnbJmZd119MNz+lfqGInenun2H6VqZ0z9o+swQ/vR4tr0dboq59q2/R+mCHTK25d7sBx2ZQ+GgZaILjXSmfMhaTEayfp0+D5IXCGwJq3aG+zIw05vrhgdEiKbj+MsL5PHgQzeXGIfIhudro1GNHecHEkY9BC3Q4c5vzH8OQ5aBCCg+aJzD+gpZ59t0olXObGBo5tgppN9+E0kswPm1jEh6oQ8lNmP4LZ+1VMHyUrtLIctorDSe0On4yuKuvcGKPApmznd+kkzoeUwG8QZXTgacoZHuY/AiQ0tWs3eYXvZy1XfaDFzlASvztPon8gtugTqyQXsNDaBEMXqzTmS4nDQTx201+PNpkkNA7Md80rU8hIVjR71GlrFF+B7E8dK6fzdg==;9P/gZkYOm/BEawhXp/b0WA=="
 ---

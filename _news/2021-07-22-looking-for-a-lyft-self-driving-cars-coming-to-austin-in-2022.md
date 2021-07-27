@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Lyft To Offer Ford's Self-Driving Cars In Austin (With Humans As Backup)"
-    excerpt: "By this time next year, you might be able to order a self-driving Ford Escape Hybrid SUV with the Lyft app, but two humans will be seated in the front as safety drivers."
-    publishedDateTime: 2021-07-22T11:28:00Z
-    webUrl: "https://www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup"
-    ampWebUrl: "https://www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup?_amp=true"
-    cdnAmpWebUrl: "https://www-kut-org.cdn.ampproject.org/c/s/www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup?_amp=true"
-    type: article
-    provider:
-      name: KUT
-      domain: kut.org
-    quality: 43
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/98ebdbf/2147483647/strip/false/crop/5845x3290+0+134/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F07%2F21%2Fgettyimages-1233487514_custom-4f7df59bb5ba9e944cc8a6500693f2c9d6391187.jpg"
-        width: 430
-        height: 242
-        isCached: true
   - title: "Lyft travels to the future with new self-driving cars coming to Austin"
     excerpt: "The Lyft ride-hailing service is traveling into a new era in Austin. Starting next year, Lyft customers in certain parts of Austin will be able to hire a self-driving car"
     publishedDateTime: 2021-07-26T17:25:00Z

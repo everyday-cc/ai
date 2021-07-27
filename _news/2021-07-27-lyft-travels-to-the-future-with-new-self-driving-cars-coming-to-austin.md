@@ -57,22 +57,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Lyft To Offer Ford's Self-Driving Cars In Austin (With Humans As Backup)"
-    excerpt: "By this time next year, you might be able to order a self-driving Ford Escape Hybrid SUV with the Lyft app, but two humans will be seated in the front as safety drivers."
-    publishedDateTime: 2021-07-22T11:28:00Z
-    webUrl: "https://www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup"
-    ampWebUrl: "https://www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup?_amp=true"
-    cdnAmpWebUrl: "https://www-kut-org.cdn.ampproject.org/c/s/www.kut.org/transportation/2021-07-22/lyft-to-offer-fords-self-driving-cars-in-austin-with-humans-as-backup?_amp=true"
-    type: article
-    provider:
-      name: KUT
-      domain: kut.org
-    quality: 43
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/98ebdbf/2147483647/strip/false/crop/5845x3290+0+134/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F07%2F21%2Fgettyimages-1233487514_custom-4f7df59bb5ba9e944cc8a6500693f2c9d6391187.jpg"
-        width: 430
-        height: 242
-        isCached: true
 
 secured: "w6NEGAvt6Nfhy54oXe6/tjg82dHNvOZZpXpqxrAVjh0mt3zuX+XW6yCFGo3xW2r1j2I6eRyFbPaTI5FUiViB2pH+ijpw7BG5Tr7enaHnxmOog6qvVVmfKFYJgY9omZAl2gSAjrroo0i5DzzMJ5F/MLIDSz3OYl4RTYWLbDUx6cNa++HUrhZcnRHOqnpSHCNtS2K7Tk8h2s13DBr/eLOtT8AZ9+JQo+yRxHsAVq+tRA+kZ6/8tjfq3wUYAicM/UE9XcF1CVK3d41iAajLuTmYY/1nkC+p5quQ1m91L+ESJfAUScO4+q9u2wU84BPRlRTgPF0E2TpaWPRdESaTOxctXfGqHSYE5VWaXFMb2y94yXf9N//fgLLt77MbaspQ7XVlCOUGdub6xtx/5AfyIqVWBN7DFAudEsRzzUnrC4l7ZvSGRAsLfxZqxqq7ud4PumwNonNLyutVUOdaqhch9yBTTRdDp5XBW05lgg65OGYoqnmX0WG1VTmuNgE/9getItC0sOL6KZYcX3HpYxUhz/ubFA==;ZrtTQFxscA3SiGrMKCuNSg=="
 ---

@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ..."
-publishedDateTime: 2021-07-23T18:48:00Z
-originalUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
-webUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
+excerpt: "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ..."
+publishedDateTime: 2021-07-23T17:10:00Z
+originalUrl: "https://www.reuters.com/article/us-alphabet-other-bets-intrinsic-idUSKBN2ET1G0"
+webUrl: "https://www.reuters.com/article/us-alphabet-other-bets-intrinsic-idUSKBN2ET1G0"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ET1G0"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET1G0"
 type: article
-quality: 86
+quality: 106
 heat: -1
 published: false
 
@@ -24,9 +26,9 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://www.reuters.com/resizer/RkqwUqV_pSTg-8Gt3pKHghTeZuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2DMPV6O5NJERDO3F7MHS7QIA4.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -119,6 +121,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Hu0oigz3bnVSX/Vycr37XzJkiTsbStwAe7E/Bkl5FER0Ig5RQahnVGCuBg9DshnxuapwgxjEuYvIMXGbRkZL5jcbqQU1QBGXg8R7YtsyO2bYgdbei/wzmiVLMohIck9zMJCZ4arICWxpjLS56ZOUtnOO40fSRDvjyaHio4ib7cUsh3eUnJy6iV1W+Lbp8fLZgz43wLIw89IBrf1sRiDTc9DFQYNAedkK3bOS+ZqfBpXMwh2lRWe0G0DOQ47uuMa2rE5dQ5U0FQ5nVasXS/h1fQukuCNy/xRazfxrrRChC3Ts2XFnLu5yqmbe2tGKApfjf7nMaa6U9UHWepvKsbf7S4jnS0SqMktLhxtdsETUZ98=;6JKPGAC9tGoOC42VgzlpMg=="
+secured: "IBXg8oOnDIKQViIp8BcklQivvuHG84zHJEti2ym78YlQbdBFYplJgD3Z7oOtN1z8SLmhnmkjF1xhUu/3oNDbTHW949Q6ig+z5/ijdQAd44qEUjTiAzzn9BWAYOw9dSjK9Wh7JHGbT1Rvnvu4RB2Z6yeIEiIOtyi6TzWbz5r1fIxu5JLuvdLA99D2VljFBh8peBz/8s5sod/nT9v8LKfhF9LdbowOoNDqwPLRh0F4ro20yELB2OEF2Gac5zFBh/N3I/Uy3/R6BIiIH7UTnHKOwf7kxJGWRGIvKw0wUf8z79j3QLoJO14TxlmuTkBLrXF1pyQxTUZTcHEQBrJtuNwKLlVKMbQjAeE4HivNu+iUP68=;uPTJFFagBpPsU/PIdQkljA=="
 ---
 

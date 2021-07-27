@@ -664,6 +664,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-21-25-computer-vision-engineer-interview-questions-and-answers.md",
+      "title": "25 Computer Vision Engineer Interview Questions and Answers",
+      "excerpt": "Ace Your Next Computer Vision Engineer Job Interview with these exclusive interview questions on computer vision based on diverse skills and concepts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dezyre.com/article/computer-vision-engineer-interview-questions/450",
+      "originalUrl": "https://www.dezyre.com/article/computer-vision-engineer-interview-questions/450",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://daxg39y63pxwu.cloudfront.net/images/blog/computer-vision-engineer-interview-questions/Computer_Vision_Engineer_Interview_Questions.png",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeZyre",
+        "domain": "dezyre.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-plyable-harness-the-latest-in-ai-and-computer-vision-to-deliver-innovation.md",
       "title": "Plyable Harness The Latest In AI And Computer Vision To Deliver Innovation",
       "excerpt": "Plyable harness the latest in AI and computer vision to deliver innovation in the manufacturing space - read at TechRound >>",
@@ -1398,58 +1441,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future.md",
-      "title": "Report: Computer vision adoption expected to grow significantly in the near future",
-      "excerpt": "An overwhelming 96% of respondents believe that computer vision has the potential to boost revenue, while 97% said these technologies will save their organization time and money, according to a new IDG study commissioned by Insight. While only 10% of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
-      "originalUrl": "https://www.techrepublic.com/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/14/b386c617-f485-4ea6-a15a-15f8aa2df175/resize/1200x/2951e8519179825379ff08f6d3e1bc9f/metamorworks-2.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
-      "publishedDateTime": "2021-07-14T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

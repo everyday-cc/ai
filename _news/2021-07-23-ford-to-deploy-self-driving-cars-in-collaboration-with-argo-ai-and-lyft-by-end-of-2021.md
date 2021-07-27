@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ford-to-deploy-self-driv
 webUrl: "https://www.marketwatch.com/press-release/ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021-2021-07-23"
 type: article
 quality: 61
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -98,15 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ford to launch self-driving cars on Lyft network by year’s end"
-    excerpt: "Argo AI and Ford Motor Company are working together to bring autonomous ride hailing vehicles to the Lyft network. The companies said the collaboration will bring together all the necessary services to bring autonomous ride hailing service to the mainstream with self-driving technology,"
-    publishedDateTime: 2021-07-22T12:52:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16973/ford-to-launch-self-driving-cars-on-lyft-network-by-year-s-end"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "+hnpIidfjI01wUTvAk7Ge3dCqwveVSQ7ZCDeh4neJ2IGS3+k+zlCqZ0llVXcYEJR8x/hiIuBo+ir39Sp4+v50za9iMFtTtl76bUGY63vLhw1Q/nk+TRp+WM/myh260LZOceR3pBrSl1zMt9V/n1ZU/nP4DvdCD6L8Z1K4V7DRzLQaEKujUcsBtSI3v22S4evtZroMjSyJbvRt3mVXKDAKapsSUn8fmROqJBS7zDYODDgPqo50Q6w558FLhH4SJSbDQCE/ZZjcwzCXPMPZzAwRowYzPGJZ5Z2oH7moP4k/bjv5+KJhUy3I/cgnj50mKZ1lFWTSy74v2XhsW1eWG7uInwdmz+foC3JNgZShLweoOQ=;DnfD4QieqY7SNNv9sJ4PeA=="
 ---

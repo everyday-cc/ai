@@ -62,7 +62,7 @@
       "originalUrl": "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-future",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -159,6 +159,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-24-a-little-robot-that-cleans-the-beach-one-butt-at-a-time.md",
+      "title": "A Little Robot That Cleans the Beach, One Butt at a Time",
+      "excerpt": "But for now, BeachBot belongs by the sea, helping eliminate some of the 4.5 trillion cigarette butts improperly strewn about Mother Earth. Since cigarettes are harmful to humans, it's not surprising that the chemicals and microplastics are also harmful to sea critters,",
+      "sourceUrl": null,
+      "webUrl": "https://www.motortrend.com/news/beachbot-ai-robot-techtics-cleans-cigarette-butts-beach/",
+      "originalUrl": "https://www.motortrend.com/news/beachbot-ai-robot-techtics-cleans-cigarette-butts-beach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st.motortrend.com/uploads/sites/5/2021/07/beachbot-ai-robot-removes-cigarette-butts-6.jpg",
+          "width": 1360,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/news/beachbot-ai-robot-techtics-cleans-cigarette-butts-beach/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/beachbot-ai-robot-techtics-cleans-cigarette-butts-beach/amp/",
+      "publishedDateTime": "2021-07-23T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation.md",
       "title": "AI Weekly: OpenAI’s pivot from robotics acknowledges the power of simulation",
       "excerpt": "OpenAI has shuttered its robotics research team. But that doesn't mean the firm won't create a system capable of controlling a machine.",
@@ -167,7 +210,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -272,7 +315,7 @@
       "originalUrl": "https://www.statesman.com/story/business/2021/07/23/robots-take-wheel-lyft-offer-driverless-rides-austin-next-year/8058042002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1393,49 +1436,6 @@
       "provider": {
         "name": "Courthouse News Service",
         "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-18-how-artificial-intelligence-is-transforming-our-world.md",
-      "title": "How Artificial Intelligence is transforming our world",
-      "excerpt": "The impact of Artificial Intelligence continues to be felt across industries. A McKinsey report after analysing some AI use cases stated that ‘the impact of artificial intelligence will most likely be substantial in marketing and sales as well as supply-chain management and manufacturing’.",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/",
-      "originalUrl": "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2020/05/31173538/Chukwuemeka-Fred-Agbata1.jpg",
-          "width": 770,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp",
-      "publishedDateTime": "2021-07-17T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
         "images": null,
         "publishers": null,
         "authors": null

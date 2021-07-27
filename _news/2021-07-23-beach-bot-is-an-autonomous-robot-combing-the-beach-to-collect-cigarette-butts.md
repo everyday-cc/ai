@@ -43,6 +43,20 @@ related:
         width: 1360
         height: 765
         isCached: true
+  - title: "BeachBot, an AI-powered robot that cleans cigarette butts at the beach"
+    excerpt: "BeachBot — BB for short — the robot uses artificial intelligence to find the cigarette butts and to learn the best way to pick them up. the AI-based detection algorithm was created by TechTics (a consultancy based in the hague founded by bos and lukaart) and students from delft university of technology,"
+    publishedDateTime: 2021-07-26T10:30:00Z
+    webUrl: "https://www.designboom.com/technology/beachbot-robot-cleans-cigarette-butts-beach-07-26-2021/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 54
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2021/07/project-bb-cigarette-butt-cleaning-robot-beach-designboom-fb.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "mtGB7wGw31zjZvxXVnFiVHxOA7AehSuBsxMcAVOq6hsG9QxFdJEluftcjv/JZ5+DxEh9m5a5z7Bw+JVHZgrZJOVuvqCnflVePoe5QzUS5c30kYHr7CT1IdEdOqa9A5XrbvzzwSAsbOTKEaerjBRM8Fwa4I+wy8yd7Hsfq5R2uUPVl308uX5nxHUUsFaAI+o361YHSn7byykPdZF/0zXcpcz7luhd+NpBqURcicVu5u6Oo/8HDMw0ncp7UAUMHNsP+FjK+zhxXZibh2M7P712JDJKJpVzRfxey9oxxEtcwtWDIrRVC62oKZ9bJwfZzxQia0G2QFnaEN2c8LcVOudypFUvGirEPBtjCNvRiV/qzxB3hF6NryTG6DtZcYhySD4jfPi8ObfFh2Qac3Lr0ODJDIgFsB+n7VBSv18HZRhvPx9KBLHkKHA0bDLp8LL6jMFk2hy/iY+I5LCAWTA2zv/uC22uw628oNDNxM5SAnWyGvH4yfM+nKWVeREfgzH9xgO354I4YetrvuuYHzhXN8HaxA==;6RRSBJLTbDUGOz5aNQ+7Dg=="
 ---

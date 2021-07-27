@@ -94,15 +94,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ford to launch self-driving cars on Lyft network by year’s end"
-    excerpt: "Argo AI and Ford Motor Company are working together to bring autonomous ride hailing vehicles to the Lyft network. The companies said the collaboration will bring together all the necessary services to bring autonomous ride hailing service to the mainstream with self-driving technology,"
-    publishedDateTime: 2021-07-22T12:52:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16973/ford-to-launch-self-driving-cars-on-lyft-network-by-year-s-end"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "DPBVBhmZBfY1m0yitqjT0g8OoXJLwFpM/oFx/flQUS/jtgVg7l9SP5n0C/3hcDho7C089LXqzUk15IGOp4anamJRo2Yrdu/wiYt06V08j1njpxW34ONMCkX0ZY/YNa47qrCcebNSb799CA/Qx5O4Q0nMS+/V+lLhz2aPKdOBTsOP45O3PBt6jSYLBGMKc2pE4twY5H33TK1hf/yHaoBWMDQlhXqkfvpetHLWtmvowpqUUVGV4dKzEJDAVPJBzIsRZzIfSkdHqWq19I20Yino+Qe6YTv2vp3TNNfNDwrnr72xRkfNG8jkyM7heEZCGNgM8yx8a4ro/0DpBSLzQaDeAnGz1TNyhJ0RMn8Wr5/En8s=;AATZonyFlBhCJJRTvb68CQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/22/bias-in-ai-isnt-an-enterprise-pri
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/bias-in-ai-isnt-an-enterprise-priority-but-it-should-be-survey-warns/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Latest Artificial Intelligence Trends for Enterprises"
+    excerpt: "Artificial Intelligence technology is developing for better enterprise processes and user convenience. These latest AI trends are aligning AI into the right direction."
+    publishedDateTime: 2021-07-27T04:15:00Z
+    webUrl: "https://www.analyticsinsight.net/latest-artificial-intelligence-trends-for-enterprises/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-4.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "34NLjR+AGshBLbsbLOAFZD6whzGsoYtnhdR6vcDLgbr7NT7AeeA6kjolCxx8GqSM00VtbVnTpsc9ayTsl7eNxVyKQZhGViZsnPflisQLiaYdXHYXbrDD1XciM8lWHAPPCUBWyo7ox4QMAZZJNulu2E7xTMZ1DlM1C3E7uX9lOQcAuwOmiDScEsDa66a+Z4hhri3DmD2/EFYEPUZpIv5cWgJXgBxraCCE4GjKowrC84+1YfuYWOw1gF56WmnlmR/LVA/KQ1RBAz+hXs/l5li3FkeCGKt7DJ8dtHeBtr1oUrd9DnuJqrorJfBVAXJZOwxGwcmFTwAMUHspQBxxOrWORtQByzEd2G6n8WDskpkYRSPP4zP9vfYXq0eKjAf0eGQ1anmve4or75EVr7Xmfm14YcXsgVenSqxkNc5PhZeoVlrsN+hWtZf/z+jM1JZtUA0UjHAw9cVUfSo/HhKRbB8IGQ5hVrvPZJmYwY8+HHQ/OrAist2u3JcjY0U2uvJ/FgtD7vk02bZ/Lou9GcGHcMpp7A==;V9ehgQlM4iWOsjdjLnAsBw=="
 ---

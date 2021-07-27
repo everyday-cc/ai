@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "An Outlook On The Technologies of Voice Recognition Market- Present And Future Prospects Of Growth For Global Giants"
-    excerpt: "Global Technologies of Voice Recognition Market Overview | Data and Analysis The Technologies of Voice Recognition Market is entering a period of intense change. Global disruption, technological advances,"
-    publishedDateTime: 2021-07-22T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/an-outlook-on-the-technologies-of-voice-recognition-market--present-and-future-prospects-of-growth-for-global-giants-2021-07-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "0+WyjCNG0alqj3g2EjiBhxo/Wwiu99LzWRKW6/WRyKqUoTCPsD7p3wWA0YYKw5kBD8EP3Hot4EU66pG8k6pX6gR1IgcdWLwHdNBQs4MPvMqUhphgMfWnGOilI9/4M9sD32A7qWFt6WrEbEuKuNDpq/e2kwlcTjIzXegu+OvoYIBuVBYVUUB2zbaDJL7TB23GeORmw8j8gGJB3bhyg+R4UOP1tfGI8oAPRh1vYkWQxcztdHn2EcOEOcr7bYer1IMEo+Un95qk4ZPMXFfxyY+2jNc/fyhiIPxKL3p06NUYKgUAf3bUCNPWvlHqjGNq6A2n6+vYPDUq4BO8pElQVLnm7fvYR5OzbD0kg+loSufnxxY=;UdK8FW/u3PJSg0pou8sFHg=="
 ---

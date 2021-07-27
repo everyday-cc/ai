@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/zone7-secures-8-mi
 webUrl: "https://markets.businessinsider.com/news/stocks/zone7-secures-8-million-in-series-a-to-scale-ai-driven-human-performance-offering-1030635840"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -20,52 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Zone7 Raises $8 Million In Series A Round To Expand Artificial Intelligence Platform For Predicting Sports Injury Risks"
-    excerpt: "Zone7, an artificial intelligence platform, recently secured $8 million in a Series A funding round to help expand its reach in sports as well as other industries."
-    publishedDateTime: 2021-07-22T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks/"
-    ampWebUrl: "https://www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timcasey/2021/07/22/zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f8a10ed262ed39b756c1fd%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Numerade Labs Raises $26 Million for AI Ed Tech"
-    excerpt: "Santa Monica-based education technology platform Numerade Labs Inc. raised $26 million in Series A funding for its artificial intelligence-driven tutoring platform. The funding round, which was announced July 20,"
-    publishedDateTime: 2021-07-26T07:08:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/jul/26/numerade-labs-raises-26-million-ai-ed-tech/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
-    images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/06/30/Marsh-Mc-CC-Tech-Firms-20210701.png"
-        width: 294
-        height: 530
-        isCached: true
-  - title: "Zone7 Raises $8M For AI-Driven Athlete Performance Platform"
-    excerpt: "Zone7 developed an AI-powered injury prediction solution for athletes and clients with physically demanding positions."
-    publishedDateTime: 2021-07-26T11:32:00Z
-    webUrl: "https://nocamels.com/2021/07/zone7-8m-ai-driven-athlete-performance-platform/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/07/braden-collum-9HI8UJMSdZA-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "xt+f5J4vSvq63pzc+hMM9x+ha2HYU4cK9dzKs9wHnT/SgEfj82AHBaTNkQBss5Q8zEIzwWVzrJDNxBN1l5RKA3ZJOY9o4lbw7fnF7EDxNza9k4sFwBryqe7sX83Rh2gHKeOKi37PXofPQBteBi9u6tkNjpAOYjvWyAhVTMsjyokDJ5A+HGi/A1WdrZrlnArwdf7I1d9IQDJ812CYXxrpTzsKyWMsbREo/kBM/Sq4yf442OpqFUiEEk7J5Zb2zuyf2CUfxJbSKb/oQx3cAhfLg1MLOsV3tIP5n/eWV/VRpTjkuPv4EcyNXRWSvngiyk0AcJJzEQfVGEkbFyjrTIdVF/E+zhU0dtffuJlVJ5KbfbXJVN5o13T9opTNVYN7S2iDWUqaNmJWBxhDAvPRs/VfCPxjQ/ZOruTGWkB4Qg0Phj1MDRIv9R30sdGcKwKZM3SvfZfv3m1QLABaCIuM4zY4sBai0pWAIxklN9nj2WSEpXOkeh5XCBnvjAEl6LQujAIb+0rh0nB+7w0Q7QWyV76i1w==;IAY+iD1xcZV81TeteO9EfQ=="
 ---

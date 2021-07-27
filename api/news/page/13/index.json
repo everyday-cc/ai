@@ -2,6 +2,240 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-07-15-feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does.md",
+      "title": "Feeding the machine: We give an AI some headlines and see what it does",
+      "excerpt": "Initially, I saw two possible approaches to training an algorithm to get a probability of any given headline's success: Binary classification: We simply determine what the probability is of the headline falling into the \"win\" or \"lose\" column based on previous winners and losers.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2021/07/feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does/",
+      "originalUrl": "https://arstechnica.com/information-technology/2021/07/feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Machine-Learning-Feature-2-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-deep-learning-market-top-company-analysis-research-report-analysis-and-share-by-forecast-2027.md",
+      "title": "Deep Learning Market Top Company Analysis, Research Report Analysis and Share by Forecast 2027",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 15, 2021 (Market Insight Reports) -- Selbyville, Delaware, The Global Deep Learning Market 2021 Research Report investigates the industry thoroughly and offers a complete ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-top-company-analysis-research-report-analysis-and-share-by-forecast-2027-2021-07-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-top-company-analysis-research-report-analysis-and-share-by-forecast-2027-2021-07-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-black-teen-barred-from-skating-rink-after-facial-recognition-camera-misidentified-her.md",
+      "title": "Black Teen Barred From Skating Rink After Facial Recognition Camera Misidentified Her",
+      "excerpt": "A Black teenager's parents are considering taking legal action after she was barred from a skating rink because the venue's facial recognition technology misidentified her. Juliea Robinson dropped off her daughter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023",
+      "originalUrl": "https://www.msn.com/en-us/news/crime/black-teen-barred-from-skating-rink-after-facial-recognition-camera-misidentified-her/ar-AAMc9qg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 252,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1846724/facial-recognition-camera.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023?amp=1",
+      "publishedDateTime": "2021-07-15T07:15:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023",
+        "domain": "newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-wearable-robotics-startup-verve-motion-snags-15m-series-a.md",
+      "title": "Wearable robotics startup Verve Motion snags $15M Series A",
+      "excerpt": "Wearable robotics startup Verve Motion today announced it has raised $15 million in Series A funding, led by Construct Capital as well as follow-on investments from existing investors, Founder Collective,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-wearable-robotics-startup-verve-motion-snags-15m-series-/2021/07/15/9410288.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-wearable-robotics-startup-verve-motion-snags-15m-series-/2021/07/15/9410288.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1574447/Verve01.jpg",
+          "width": 291,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-in-major-step-toward-commercializing-self-driving-technology-aurora-to-become-a-public-company-by-merging-with-reinvent-technology-partners.md",
+      "title": "In Major Step Toward Commercializing Self-Driving Technology, Aurora to Become a Public Company by Merging with Reinvent Technology Partners Y",
+      "excerpt": "Aurora, the self-driving technology company, has entered into a definitive business combination agreement with Reinvent Technology Partners Y (“Reinvent”) (NASDAQ: RTPY), a special purpose acquisition company with the sponsor team that takes a “venture capital at scale” approach to investing.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-377c40cbf96544d2936dcc3c7d09d3b7",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-377c40cbf96544d2936dcc3c7d09d3b7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-china-grants-tax-breaks-policy-leeway-to-turn-shanghai-into-powerhouse-for-ai-chips-planes-and-pharmaceuticals.md",
       "title": "China grants tax breaks, policy leeway to turn Shanghai into powerhouse for AI, chips, planes and pharmaceuticals",
       "excerpt": "China’s central government has offered tax incentives, greater autonomy in local legislation and more administrative power to liberalise the capital markets in Shanghai, as Beijing envisions building Pudong into a ‘brilliant pearl’ of a strong socialist country.",
@@ -97,6 +331,40 @@
       ]
     },
     {
+      "path": "_news/2021-07-15-major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression.md",
+      "title": "Major Study From Stanford University and Youper Finds Artificial Intelligence Therapy Effective at Reducing Anxiety and Depression",
+      "excerpt": "In the largest clinical study of its kind to date, a team of scientists at Stanford University confirmed a new model of mental health treatment that uses artificial intelligence therapy is significantly effective at reducing symptoms of depression and anxiety.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-major-study-from-stanford-university-youper-finds-artificial-/2021/07/15/9410138.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-major-study-from-stanford-university-youper-finds-artificial-/2021/07/15/9410138.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-expertai-announces-winners-of-sentiment-opinion-mining-hackathon.md",
       "title": "Expert.ai Announces Winners of Sentiment & Opinion Mining Hackathon",
       "excerpt": "BOSTON, July 15, 2021 /PRNewswire/ -- Expert.ai announced today the winners of the \"Sentiment & Opinion Mining Natural Language API ... retrieval and machine translation, to make sure user ...",
@@ -136,40 +404,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression.md",
-      "title": "Major Study From Stanford University and Youper Finds Artificial Intelligence Therapy Effective at Reducing Anxiety and Depression",
-      "excerpt": "In the largest clinical study of its kind to date, a team of scientists at Stanford University confirmed a new model of mental health",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -940,212 +1174,6 @@
         "AI in Healthcare",
         "AWS AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-discord-steps-up-anti-harassment-efforts-with-new-ai-acquisition.md",
-      "title": "Discord steps up anti-harassment efforts with new AI acquisition",
-      "excerpt": "Discord, the online voice and text messaging platform, has purchased the AI anti-harassment company Sentropy in an effort to increase safety on its platform. READ MORE: ‘Sea Of",
-      "sourceUrl": null,
-      "webUrl": "https://www.nme.com/news/gaming-news/discord-steps-up-anti-harrassment-efforts-with-new-ai-acquisition-2993137",
-      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/discord-steps-up-anti-harrassment-efforts-with-new-ai-acquisition-2993660",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2021/01/discord.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nme.com/news/gaming-news/discord-steps-up-anti-harrassment-efforts-with-new-ai-acquisition-2993137?amp",
-      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/discord-steps-up-anti-harrassment-efforts-with-new-ai-acquisition-2993137?amp",
-      "publishedDateTime": "2021-07-14T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-infosys-ceo-vishal-sikka-unveils-first-indigenously-built-driverless-vehicle.md",
-      "title": "Infosys CEO Vishal Sikka Unveils First Indigenously-Built Driverless Vehicle",
-      "excerpt": "CEO & Managing Director of Infosys, Vishal Sikka showcased a futuristic driverless cart at a ... developments in emerging fields like artificial intelligence and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/infosys-driverless-vishal-sikka/",
-      "originalUrl": "https://inc42.com/buzz/infosys-driverless-vishal-sikka/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2017/07/DEq05w_VwAAli88.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/infosys-driverless-vishal-sikka/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/infosys-driverless-vishal-sikka/amp/",
-      "publishedDateTime": "2021-07-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-congress-asks-experts-for-guidance-on-facial-recognition.md",
-      "title": "Congress Asks Experts for Guidance on Facial Recognition",
-      "excerpt": "Law enforcement uses facial recognition systems with little oversight and, at times, disastrous impact. During a congressional hearing this week, members and experts talked through how new laws could head off greater harm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition",
-      "originalUrl": "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/9451d55/2147483647/strip/true/crop/1095x571+18+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F67%2F8b%2Fbf2467764012829abc8b9b917271%2Frw-better.png",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true",
-      "publishedDateTime": "2021-07-14T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-device-taps-brain-waves-to-help-paralyzed-man-communicate.md",
-      "title": "Device taps brain waves to help paralyzed man communicate",
-      "excerpt": "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
-      "originalUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg",
-          "width": 2500,
-          "height": 1669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna1424",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424",
-      "publishedDateTime": "2021-07-14T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform.md",
-      "title": "ON Semiconductor Intelligent Sensing Technologies Enable 360° Vision in AutoX Gen5 Self-Driving Platform",
-      "excerpt": "ON Semiconductor's image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210714005927/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210714005927/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

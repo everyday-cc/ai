@@ -3,8 +3,8 @@ category: news
 title: "Correlation does not imply causation: Getting this right in AI is key"
 excerpt: "Tonya Hall interviews Dr. Stefan Bauer, research group leader at Max Planck Institute for Intelligent Systems, about why is vital to have benchmarks for evaluating causal models in machine learning."
 publishedDateTime: 2021-07-26T08:38:00Z
-originalUrl: "https://www.zdnet.com/index.php/recent/index.php/video/correlation-does-not-imply-causation-getting-this-right-in-ai-is-key/"
-webUrl: "https://www.zdnet.com/index.php/recent/index.php/video/correlation-does-not-imply-causation-getting-this-right-in-ai-is-key/"
+originalUrl: "https://www.zdnet.com/index.php/video/correlation-does-not-imply-causation-getting-this-right-in-ai-is-key/"
+webUrl: "https://www.zdnet.com/index.php/video/correlation-does-not-imply-causation-getting-this-right-in-ai-is-key/"
 type: article
 quality: 67
 heat: 67
@@ -27,6 +27,6 @@ images:
     height: 578
     isCached: true
 
-secured: "amrsQr0N2KpDs6vKCi/F5IzJqpoa1SEA+WQxQggbeoIFXDahKpb7XRsb5VxDw9hBi0RqfjaPFa9VIOIbmDGjd4Yv2UMsSWReKQ2sGwQKIiD13zMAgxcWrBIQdyyy3YGRclB5w5LBTOQqHi+odvcN6Um7xTtNQfRZitAlDOCKo0ex3YTpwKTnhohWUpNK9PXtovyLvxK23JZALchyA86IObEW2vRjvuLrOLgEa/h7C4Dh5VjIaF2PyJ5YFmTho0pURwCgXA5EG/MtlUA68FQfWD9m4mlw9HVEd+RA/wWpO/1+uuF01EwpsOPYlehIJ9Y7pWjK3SpaOx+g5njJaC1yeuG3XYyjxPilK3/SGiZ5GPA=;UDYM3MzFcZUxpIJ4xXKc0Q=="
+secured: "YFOfTR5pKcBb2GQ7DwpUmj5NL4PUmtaN5puvptp6t9Bc0R4vUB0zuYyzwOwoCFRiIT9OiRs8PAAClfiQOW9r0BDDYMfUq2/hVPul/xH8v4ERLZv9Q0oQomTbTQ+tuFmgGTyY6A5Jk91Jfbzxvq15bKCojA/C8tlRINrv3sev+34+VsbVP75QwbTEyi4GQQYjM/yd1DL+aKYasa+0y/fT/DWMvoWiP6lc67RglpvT7AyGNM/WPTVtjZbihd8HvmATa7Q1umpAhwejqIcisHj9M8nupBCM5jpiO6hyrB9KLyMIQqw4rAfxlJ2eSz/LxjAtlO7XyyfzGlZP76VYDy/Hdq+Qq3gawmqJBXLFeBPsfEs=;plt9N+uEuL4Q73yS1D9dog=="
 ---
 

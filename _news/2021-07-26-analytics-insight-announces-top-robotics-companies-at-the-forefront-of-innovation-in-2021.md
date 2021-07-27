@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021"
-excerpt: "Analytics Insight has announced 'Top Robotics Companies at the Forefront of Innovation in 2021' in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
-publishedDateTime: 2021-07-26T14:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-analytics-insight-announces-top-robotics-companies-the-forefront-/2021/07/26/9416657.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-analytics-insight-announces-top-robotics-companies-the-forefront-/2021/07/26/9416657.htm"
+title: "Analytics Insight Announces ‘Top Robotics Companies at the Forefront of Innovation’ in 2021"
+excerpt: "Analytics Insight has announced ′ Top Robotics Companies at the Forefront of Innovation in 2021 ’ in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
+publishedDateTime: 2021-07-26T14:11:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-robotics-4e6269bed50947458afeb281809f30a4"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-robotics-4e6269bed50947458afeb281809f30a4"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "The USPTO AI Innovation Journey with Scott Beliveau, Branch Chief of Advanced Analytics at the USPTO"
@@ -48,6 +54,6 @@ related:
         height: 226
         isCached: true
 
-secured: "1f6ZvJQJaxo4nomiKnjbkpjBvTd5OY6gPJwCd+mj1YSLfkQ71wmOtMBdxU0pSIWI/VSzl+1wCErBEauC0qkJ9cb+VlUkVAw5KqVkYDTsUaFYQG6rAXo1CYC9lHqtQc4acxJBy9Y6+ai1T4xP9pE7dR4GQEMI7I5nUZDjHU75Md58xWTD9W40rnFgEdXZTkh+ozCIjmMQjQRck8rg9e+RO/vuqpugdTL0A8YyDbQO8DxJ2T5oEku28D9n6+98UbHoJOm9f44PVNAkGyiRSyWvVLmW9f9sJxEfUOKqtEtawoJg0GCERPu9TKRZkPrWhAm4VRGoyl/wpiPcM62lRo16WiPitq0KzJ2Qliw6XCZYuGM=;ZPox6+X6NznyKo0Vpt7yVQ=="
+secured: "QOEPRoHtlh8arO6sKy4v+StLxE0GyYc8cNVVOyrbZOuRPtRO6XSzX2AJ9ymjSWEdy9Ji9qPg6zbYkyYKmB10ROpOMggLh3GAIknQQf30ZiJbJRnT2bhkS8Zaa/s8yYeSzYJ5pz7arJuRuBfwHr9JY6PKIRtf/wJkTT4i6x10wedj/oiZSN0mIu+buwE1AZiLgDYT2uO2bftxwkArnwZawH+fJ3CtsPHvf9SXa6zqLW/GF5ijQYB6yvfQ5eY1NcwrCxHB+L3aD/kHFCtvZptzmYTn7wVe982bGrEMBb3LeHj0XsJZxAKEoy+p4CIOt95vnz0xT064qo6Xu36Y0F9NoqWA/B4FHdqifZNLIWcjkEk=;XyNsu10yavGzv1fC3pnV9A=="
 ---
 

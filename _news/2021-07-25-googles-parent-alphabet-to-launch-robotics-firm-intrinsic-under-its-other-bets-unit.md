@@ -45,18 +45,20 @@ related:
         height: 545
         isCached: true
   - title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-    excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ..."
-    publishedDateTime: 2021-07-23T18:48:00Z
-    webUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
+    excerpt: "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ..."
+    publishedDateTime: 2021-07-23T17:10:00Z
+    webUrl: "https://www.reuters.com/article/us-alphabet-other-bets-intrinsic-idUSKBN2ET1G0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ET1G0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET1G0"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 86
+    quality: 106
     images:
-      - url: "https://www.reuters.com/resizer/RkqwUqV_pSTg-8Gt3pKHghTeZuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2DMPV6O5NJERDO3F7MHS7QIA4.jpg"
-        width: 1200
-        height: 628
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ"
+        width: 817
+        height: 545
         isCached: true
   - title: "Alphabet launches robotics venture Intrinsic to train industrial robots with AI"
     excerpt: "Google LLC parent Alphabet Inc. today announced a new venture, Intrinsic, that will focus on making industrial robots easier and more affordable to use for companies such as manufacturers. Intrinsic is a spinoff from Alphabet’s X research lab."

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/amp/"
 type: article
 quality: 118
-heat: 118
+heat: 120
 published: true
 
 provider:
