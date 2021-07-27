@@ -739,12 +739,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/company/armorblox/</loc>
-    <lastmod>2021-07-26T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/company/activecampaign/</loc>
     <lastmod>2021-07-26T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -800,6 +794,12 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/apex.ai/</loc>
+    <lastmod>2021-07-26T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/company/armorblox/</loc>
     <lastmod>2021-07-26T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
