@@ -1,29 +1,32 @@
 ---
 category: news
 title: "Artificial Intelligence Could Dramatically Speed Up Climate Action"
-excerpt: "Artificial intelligence is one such horizontal technology that has big potential to help cut plenty of planet-warming emissions. The list of problems AI can solve is long, and the number of startups using AI to solve some of those problems is longer still."
-publishedDateTime: 2021-07-27T11:03:00Z
-originalUrl: "https://www.bloombergquint.com/business/can-ai-help-tackle-climate-change"
-webUrl: "https://www.bloombergquint.com/business/can-ai-help-tackle-climate-change"
+excerpt: "The list of applications for AI keeps on growing, but the industry needs guardrails to ensure solutions are climate aligned"
+publishedDateTime: 2021-07-27T10:48:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-07-27/can-ai-help-tackle-climate-change"
+webUrl: "https://www.bloomberg.com/news/articles/2021-07-27/can-ai-help-tackle-climate-change"
 type: article
-quality: 39
-heat: 39
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5iKrnHxGzA8/v1/1200x800.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
-secured: "ah0nMGm42k0fbMZToUCQABDZdBuyjZmZ9UoPh2z6Fb3YcuMPQ8E3KFELq8lzqPFZfsTeqscpJJhiZehCqc9rMsRosqUbsqdCLmXkNstZySy6a3uTYxcuQsaWQuJAULQlmbIIQkyMRPzNNs0ioMJQHZM8CMswrwQ4eydX7bISY2bDv4fubu2YhoJJ9D1vxTzDlEJWssjqakrjsAFKLSM7fBGhzcLKHBsk2HORwHDyxqb4gNoA3WA3N89V3OKdZuqk7oteY4G5k50lD3rON0+pO4MkR41HRymkiTObMd0yzaYutaSPp635+HGEq1vE/+FSdRYF911ZbOEJmoMg4iSitji601vfhXXE7BwhKZKfbSs=;6UzAZwxTJ1iM5wa+JCXuuw=="
+secured: "aW2iF9wvGEDQI7Zme0QCEAmTKCNsr5nRMSU+ckhwHRfGsoeHrY2+TzpvqQlHrUlc7leFZdkuGfrLu4cDT5Xf/5wTA/kfRQugqOYSKEfBYUqAFCVq2EIsYSWz9BAhv3qryRDX3kGXMwRdKZXeiWyeRhPw2xKoHYG6X8EBA8m0CmBRYuBkU5K6Urh+EBh74zxmGKWBnhsw3sKCDHpd8/oCMpAG+O65DBuVihHevAz7R1B2tcGAHeKkTsnctiFidJbLD7TNN3y27jF2BgQytZi3kSSLFI0+bvJcOFBtbF4SaRaSoHEHSBoFeyc7uI3s6662p+4n6DbUrkGw4o2sNa8WgeCozLl5lD89tRPE6+kfUvg=;0sw0xqIyqBQbk8FexST44Q=="
 ---
 

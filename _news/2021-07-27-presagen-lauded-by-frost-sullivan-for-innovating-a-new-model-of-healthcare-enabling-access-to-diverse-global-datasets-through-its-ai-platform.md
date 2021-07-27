@@ -1,32 +1,22 @@
 ---
 category: news
-title: "Presagen Lauded by Frost & Sullivan for Innovating a New Model of Healthcare, Enabling Access to Diverse Global Datasets through Its AI Platform"
-excerpt: "The platform leverages a large clinical network to obtain data for developing high-performing, globally accessible productsSANTA CLARA, Calif.,"
-publishedDateTime: 2021-07-27T15:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/presagen-lauded-by-frost-sullivan-for-innovating-a-new-model-of-healthcare-enabling-access-to-diverse-global-datasets-through-its-ai-platform-1030650913"
-webUrl: "https://markets.businessinsider.com/news/stocks/presagen-lauded-by-frost-sullivan-for-innovating-a-new-model-of-healthcare-enabling-access-to-diverse-global-datasets-through-its-ai-platform-1030650913"
+title: "Presagen Lauded by Frost & Sullivan for Innovating a New Model of Healthcare, Enabling Access to Diverse Global Datasets through its AI Platform"
+excerpt: "Based on its recent analysis of the global AI-enhanced healthcare market, Frost & Sullivan recognizes Presagen with the 2021 Global Product Leadership Award for leveraging its ima"
+publishedDateTime: 2021-07-27T15:47:00Z
+originalUrl: "https://www.newswiretoday.com/news/175889/"
+webUrl: "https://www.newswiretoday.com/news/175889/"
 type: article
-quality: 47
-heat: 47
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Newswire Today
+  domain: newswiretoday.com
 
 topics:
-  - AI
   - AI in Healthcare
-
-images:
-  - url: "https://mma.prnewswire.com/media/1581713/Presagen_Award.pdf"
-    width: 400
-    height: 366
-    isCached: true
+  - AI
 
 related:
   - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim Finds Frost & Sullivan"
@@ -39,6 +29,6 @@ related:
       domain: newswiretoday.com
     quality: 0
 
-secured: "wRzSCKN+i276AI0+kQbWS/DXI54lNbyWqP9GMSjTAUrKiAF89CdPP9tKPlxJbgX3rD7Cp54v9z2rgHBUpc6oIrZ+PZlIRGg8gc5tqcNcX437IT6aUH3o3oX3C5zeRreW6skGJ7ieoRt9+m5x0WrcS5+JVyp94QyMANsXFmUk93eNMGM2WSDEM+alP3Cn2D6UPY0ycdBQaS0YVmLMnna1ZnO7AiSFfVBlg5COjlfVenaCYa/xRh1WDOxdcU6vydZZL1uWiPaBzaw3AXg4TUO/rIEzYffWkzgCWZAnPmJq8PjUL2Lty5V5wUuKeKbTUicts/0xzhrS7w/mWOYcxIpg/LaFr68fOWe8TYkoFuZ0Hbs=;zwvoxw5aqBiuBhVb10qO6Q=="
+secured: "YM06pIsBjne8vcoQRUtG1paBRC6isLtyNxsK/jZMzDhKv7m/QVNi2GzdKkpbjNzkhooQO2omnlRK1YDw+CKjQcNLDuBEZHa2+gxi4kG39YgcDq/B2G2ibXRfecWXGpZFrMuRihmSXxDIzmngtqS/4uQnmvbdnWVMDs2LQVFmNvVij8ONISo3ByFWBDasrk/b6hr0ZIYox76jra6i3PKwWNJ8rpkRj4RsIEL+b+5dOx+C2w9BfuUqGaH51t/3R1ogWiSTW0QirD9kV63hpE0RjYvwyaI28MKvv8emhBbpkKERfZy7bR0PT1tgk82B21UrI5oE594ID2QH/NToD6lroFDX0MH1ZEuIMSJ9stugKwgZx4Q+ovvXnaV5SJX0S05LQ1c7rI2Z7GhnVtt+H6ZkxEt4LWeHGxPSN2S6VuXrQhvecD5HudjNg5pTJrZcy1hJLHsJmyFYg8NrSGrV6O/o8HcLVaJqfR3k416qLmlQfYgRvGwdU8t02EAukQbYCViPqfpf1Kj9oCp8QKsnBFL6xg==;EMH3Gteceg7VSdDGypi4wQ=="
 ---
 

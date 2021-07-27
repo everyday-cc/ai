@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-27T10:00:00Z
 originalUrl: "https://www.salon.com/2021/07/27/artificial-intelligence-wants-you-and-your-job_partner/"
 webUrl: "https://www.salon.com/2021/07/27/artificial-intelligence-wants-you-and-your-job_partner/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/09/robot-on-computer-0925201.jpg"
@@ -40,6 +41,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "FyO9GU1Ogvy+955+cpB5lLr5Yb22dSTsMqTnYw6EwQmnSnAc8hckmE1YOmCmWLy+5MUtwWYj408mDDeRMtEbkU5wqb2E77t8WF7TjhwYlX4zzDojY3UnF1VEA3m1oGCbOP/W8EdnXdxJMKIy7lddF/Oi3daWNIHqnUm9i78R27xaqLcSefObwFS9g0ZCJL/qG3ZEb/S1fcRnLTQdokY/YdmBeBHsLmMIAisbfEfDYlY4L2KnxEf0dG/dYgEsK3AVNXSeSzjDwviANmOYYsndsPzpZFoy6WdS7MjGoGHn1s5sWQTqcAj4CQMr23LvtpqsKOwwowfOG6AgsCNPT9R4t0wKylvzkdmeCXsjEos+MKw=;bq1GDHVJRwot1cMTBKORzw=="
+secured: "BaISReVdJQItcnlBw5XLK4J1jirKDzzbsyuUmoyFrapY1D/YpR8A7lhcG5IKxwUHa/Ouh7FpeYerB7PkjpewUlgIid+l5Jsrpaph/rd0TqkL0+/UMNEwb8x1hEKBc0GVjP0zfC5RkD5SLvGzut/BanpizbNE41CCzkzy2/gLS8UvnOOG3qEIPK6E6+PIbQ853ko3C4kHz06ksrn9nPn6tjlclD4bP6BYYuNS9SjxkDtgSNtmdvT+HSEKPzSbfyNDTTfWvMjRmSp5+zxYYT/emDXeo4HYL0XEu4DWS0MjCPTnC2H7BbnwaFDaWon06W+AniZ8gQRojI6X5Su1+7cmDrIE85/sRYYCFBUk24pzzVgVLosF8O0U7guXUid9SSSDK7p6e2gxUqc4/UMCJNRwlRHsLE/xPL3bYm2w4h7NDsG863j/rRzN5hX663S76CFu2hjYx7R+WTpqIRXklPGxyg3f9CwFnfjiVxMaMYyXVXHnj/okFMxDMlRwmztoFDVVsZW+1brfbqyEaOJXWoW6Ig==;Auy2DZgeoNJMMa1mrGYvgw=="
 ---
 

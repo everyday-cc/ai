@@ -9,8 +9,8 @@ ampWebUrl: "https://patch.com/california/longbeach-ca/amp/29713371/robbery-on-10
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/longbeach-ca/amp/29713371/robbery-on-10th-facial-recognition-tech-migrant-minors-moved"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: Patch
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Heritage Expert Testifies to Congress on Facial Recognition Technology"
+    excerpt: "In recent testimony before the U.S. House Subcommittee on Crime, Terrorism and Homeland Security, Heritage Foundation research fellow Kara Frederick warned lawmakers that facial recognition technology is vulnerable to misuse and portends a slippery slope to mass surveillance."
+    publishedDateTime: 2021-07-26T00:00:00Z
+    webUrl: "https://www.heritage.org/impact/heritage-expert-testifies-congress-facial-recognition-technology"
+    type: article
+    provider:
+      name: The Heritage Foundation
+      domain: heritage.org
+    quality: 39
+    images:
+      - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2021-07/2021_07_XXXX_FacialRecogFrederickImpactArticle_1219135449.jpg?itok=jz2wVVYi"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How facial recognition technology is used on farms of the future."
     excerpt: "Facial recognition technology .. you would expect it at airports or crowded events like football stadiums. It is now being used on farms, but not to count growers or grazier's.. not even sheep, this technology is used to count the heads on crops."
     publishedDateTime: 2021-07-27T04:25:00Z
@@ -40,6 +54,20 @@ related:
       - url: "https://www.abc.net.au/cm/rimage/13472084-16x9-large.jpg?v=2"
         width: 700
         height: 394
+        isCached: true
+  - title: "SIA blasts misrepresentation of facial recognition studies"
+    excerpt: "Face biometrics are in fact highly accurate, and the leading commercial algorithms do not deliver biased results, the SIA states."
+    publishedDateTime: 2021-07-27T16:32:00Z
+    webUrl: "https://www.biometricupdate.com/202107/sia-blasts-misrepresentation-of-facial-recognition-studies"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
         isCached: true
 
 secured: "SBRhcehMWa3PUd62rjMCDVZcqO+BRaJ8SNj4aGqMPLZcfarsk/l8YCig4Di4zQ8nkL6hYfvH3YIneCIbuvU6fgWqAa/qX0cERq9wEVrhwv/DsJK8GIYcVy0pYIokgonMI57Q1RrQxoa9jBPhtsWoR5HSKijR/PlqzirJV1D13e9cUcLV8ccVEzV/A2k5giLs4fXyQs1JZjHNYiXFUoD/iiZb3CZOzHI31YPUtm3gF6WLQKZcjRmx2IXLpqTZpieuhHMdZyrBlR9ik1XLcsWxfiCaLVPViMaVF0fPtn+lwula0y5jH8KtYuN134RZ2atJXBecg10Y/Z6mdFxLN2b/0C6NhHlRX0pjYYiDP7nmJGE=;PI0FY5fDV7CoHgz+GA4Pkg=="

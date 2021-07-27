@@ -41,6 +41,34 @@ related:
         width: 726
         height: 545
         isCached: true
+  - title: "Heritage Expert Testifies to Congress on Facial Recognition Technology"
+    excerpt: "In recent testimony before the U.S. House Subcommittee on Crime, Terrorism and Homeland Security, Heritage Foundation research fellow Kara Frederick warned lawmakers that facial recognition technology is vulnerable to misuse and portends a slippery slope to mass surveillance."
+    publishedDateTime: 2021-07-26T00:00:00Z
+    webUrl: "https://www.heritage.org/impact/heritage-expert-testifies-congress-facial-recognition-technology"
+    type: article
+    provider:
+      name: The Heritage Foundation
+      domain: heritage.org
+    quality: 39
+    images:
+      - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2021-07/2021_07_XXXX_FacialRecogFrederickImpactArticle_1219135449.jpg?itok=jz2wVVYi"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "SIA blasts misrepresentation of facial recognition studies"
+    excerpt: "Face biometrics are in fact highly accurate, and the leading commercial algorithms do not deliver biased results, the SIA states."
+    publishedDateTime: 2021-07-27T16:32:00Z
+    webUrl: "https://www.biometricupdate.com/202107/sia-blasts-misrepresentation-of-facial-recognition-studies"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
 
 secured: "D8RU/Bftq89c0x+meNcavJqQdNT039T6a2l+8Ji5FdObcdsk67rw4ZEEFiKb0NlJxhKtRmqvYVBF8yLcKSuvPFffaADFRthqOMEUdoUgWpeiFPXP3BJlFQO2F/zQBn0SMNEKIc+U00Valj6yg9ZVbp7VC1X4TI4s8yIyUFVMeZ0pwHUCoJir5+DjwVE9lLPtFU3nxRdLPjkDvsG4NdWPTrp1uGH8ygoYCH0Iw4K0pelx/IbGrlOJ9wlG8xjYn3AjAyzGLPlM2SCg1rm90MftVQjuaeQDVLd1CLr03hIBJTEZ2QOZ3AVO65SkDD9n2KOyyCLNPqXUZVEegTTOCeeIpiaUL3syAdbScusuauacw6w=;UVCbkWquEJpbDAG6sXR/IQ=="
 ---

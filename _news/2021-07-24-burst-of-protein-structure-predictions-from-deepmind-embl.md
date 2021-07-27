@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial intelligence can predict the structure of almost every protein made by body, study finds"
-    excerpt: "Sir Paul Nurse, director of the Francis Crick Institute, called the breakthrough a 'great leap for biological innovation'."
-    publishedDateTime: 2021-07-22T23:23:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9816457/Artificial-intelligence-predict-structure-protein-body-study-finds.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9816457/amp/Artificial-intelligence-predict-structure-protein-body-study-finds.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9816457/amp/Artificial-intelligence-predict-structure-protein-body-study-finds.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 43
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/07/23/00/36271238-0-image-a-12_1626996125212.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "seGtkh7ktNxsFI5gSqbg6Y9IZhjXqxc0xpyO4OY2U53XNfODqKgzFkn7wQbpgYsIkJsL+vGxg14V5Q42ntfR+xKlvrLrLnr/vJJEzMeh6b2i4guVVjP/+mJylJ4iJwCh4xMwg6ZM8uElDBEJvTDQVyzShKj4BU17EK68aaJf3kNY2fBi+P2ixaFyXb1Ie9C2OO5BrsVBtFgUpunbyYOeXkvoT7lvwypNWpGUkhcM8EJ7DrgQo7OyPOnTri0pl3Hf+9gg4rBCUL5iYIodl0Aoj5/D//db+KaTk0PqkBlkFQysqgSoK3i9R253D/VJY7RzUGp3Srji3QjLIv4FLASsji+3YhZ9KTWfLJnv4B/D9hk5sdggNcN/E1/yPsELXxO99rv2dxUOUtHBIZcuCaQ43ElFgZMAUGgawMga7liakDvhXQmYwVs51G+286pLlNOQPCMxnBN6C/w0CR7S1+o+OfNHetxCaldPkmKF562hxr1fwhffsBLysmsoPObLZLF2leSQXvNxZv9nRWKh5GF3WA==;aFMrC4/Sg71t4ViDjwNXfQ=="
 ---

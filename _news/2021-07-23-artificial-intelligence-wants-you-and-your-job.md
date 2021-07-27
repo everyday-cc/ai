@@ -34,7 +34,7 @@ related:
     provider:
       name: Salon
       domain: salon.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/09/robot-on-computer-0925201.jpg"
         width: 1200

@@ -41,22 +41,6 @@ related:
         width: 1360
         height: 765
         isCached: true
-  - title: "Beach Bot Is An Autonomous Robot Combing The Beach To Collect Cigarette Butts"
-    excerpt: "Together with his fellow entrepreneur Martijn Lukaart, the boy’s father, Edwin Bos, created the Beach Bot, an autonomous robot that combs beaches looking for cigarette butts in the sand using artificial intelligence."
-    publishedDateTime: 2021-07-23T00:34:00Z
-    webUrl: "https://www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/"
-    ampWebUrl: "https://www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/07/beach-bot-is-an-autonomous-robot-combing-the-beach-to-collect-cigarette-butts/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 56
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/07/Beachbot-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
 
 secured: "mr1GGHArSA0YTvFaxjy5tqNfmYmu2UCuJ6RuiHEnlnPSixTCmJPm/Ej20r1WnFe6Y0ZZLKYr1cGoul6vkjEKEJSgZSA1kzBpWGGJKExeGLBPoEMpsSkKD0LwAQo0XvHOlTl0G0QVZ4eUUv57NMWy7htBvfV6nVEiq/4WUVqhO3O2gkbMw0winRSr0rGWh+cOwlPmVuLr7Q5mhCkGc0QmNIyR3Up18JdrVLokvWRXn5TmtpsKFLYcqclMRVwzckX2CCdLk1cvoiEloV4HPy8D/u83nephguabvfR++dTbOUO1pfrROwfDiGGNOSq0AI6at9C/fQA8bp3/4SLwCjB01IRta+LpB34vbkwsXWNUudxp0Ouh4wUGvHPR8ATIbUqHdDXua6qcSP+pvQp6uP3HoDJOd0HC1MDiLZFnwT04maZRL4rOgTp3JBNJQwoZ9UViVpFDVGtkZx7LDtbWRr83zDCfA/1bgQNAfSiF+kcFIaqjiCXbosyrthrhOD2IhdEYLAEAnvw7VE4Wgwfhk9ET8g==;9yOF8F3EK4+CQ6Mpd7xgqw=="
 ---

@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Takes Sharper Aim at On-Prem HPC"
-    excerpt: "Microsoft is intent on bending the supercomputing set its direction. Instead of just focusing on competing with other public clouds, they’re aiming"
-    publishedDateTime: 2021-07-26T14:36:00Z
-    webUrl: "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/"
-    ampWebUrl: "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/amp/"
+  - title: "AI in Healthcare Market Is Booming Worldwide with Google, IBM, Microsoft, Sentrian"
+    excerpt: "The Global AI in Healthcare Market has witnessed continuous growth in the past few years and may grow further during the forecast period 2021 2026 A Latest intelligence report published by AMA Research with title AI in Healthcare Market Outlook"
+    publishedDateTime: 2021-07-27T16:41:00Z
+    webUrl: "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 74
+      name: openpr.com
+      domain: openpr.com
+    quality: 85
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ab_arm-cloud-logo.jpg"
-        width: 595
-        height: 307
-        isCached: true
-  - title: "Microsoft Releases Safe Links for Teams and Other Security Solutions"
-    excerpt: "Microsoft is continuing to advance its cloud-based security services with a couple of previews announced this week, plus a product release."
-    publishedDateTime: 2021-07-26T22:19:00Z
-    webUrl: "https://redmondmag.com/articles/2021/07/26/safe-links-for-teams.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 56
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/131025MackieLync.jpg"
-        width: 647
-        height: 450
+      - url: "https://cdn.openpr.com/U/7/U727806452_g.jpg"
+        width: 800
+        height: 426
         isCached: true
   - title: "Lanner Partners with Microsoft to Deliver Edge-to-Cloud AI Deployments"
     excerpt: "Lanner Electronics announced its partnership with Microsoft Azure to launch Edge-to-Cloud AI Solution, integrating Lanner AI accelerated intelligent edge appliance with Azure IoT edge module, runtime and cloud interface."
@@ -83,15 +69,62 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Wipro Recognized as 2021 Microsoft Modernizing Applications Partner of the Year"
-    excerpt: "Continued leadership in driving business transformation earns Wipro this prestigious distinction for the second consecutive year. NEW YORK& BANGALORE, India---- Wipro Limited, a leading global information technology,"
-    publishedDateTime: 2021-07-23T12:54:00Z
-    webUrl: "https://www.nasdaq.com/press-release/wipro-recognized-as-2021-microsoft-modernizing-applications-partner-of-the-year-2021"
+  - title: "Artificial Intelligence in Healthcare Market"
+    excerpt: "The global AI in Healthcare Market size is expected to grow from USD XX billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period. At present,"
+    publishedDateTime: 2021-07-23T17:20:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-global-size-share-statistics-historical-analysis-and-industry-growth-evolving-players-intel-ibm-google-microsoft-general-vision/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 45
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
+  - title: "Artificial Intelligence in IoT Market Size, CAGR | Key Players – IBM, Microsoft, Google, PTC, AWS, Oracle"
+    excerpt: "The Artificial Intelligence in IoT Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market."
+    publishedDateTime: 2021-07-25T23:37:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-iot-market-size-cagr-key-players-ibm-microsoft-google-ptc-aws-oracle/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
+  - title: "AI In Platform As A Service Market to Eyewitness Massive Growth by 2026 | Google, Microsoft, Salesforce, SAS Institute"
+    excerpt: "AI In Platform As A Service refers to the third-party offering of artificial intelligence outsourcing. This allows the company to get the advantage of AI without spending lots of money. AI In Platform As A Service helps empower the sampling of multiple public cloud platforms to test different machine learning algorithms."
+    publishedDateTime: 2021-07-24T21:40:00Z
+    webUrl: "https://www.openpr.com/news/2336498/ai-in-platform-as-a-service-market-to-eyewitness-massive-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2336498/ai-in-platform-as-a-service-market-to-eyewitness-massive-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2336498/ai-in-platform-as-a-service-market-to-eyewitness-massive-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
+  - title: "Cloud AI Market 2021-2027 is Outperforming | Evolving Players – Amazon Web Services, Microsoft, Google LLC, IBM, Intel, Nvidia"
+    excerpt: "The Cloud AI Market was valued at USD XX billion in 2020 and is expected to reach USD 13.1 billion by 2027, registering a CAGR of 20.3%, during the period of 2021-2027. At present, the market is sharping its presence and some of the key players in the study are Amazon Web Services Inc."
+    publishedDateTime: 2021-07-26T13:20:00Z
+    webUrl: "https://manometcurrent.com/cloud-ai-market-2021-2027-is-outperforming-evolving-players-amazon-web-services-microsoft-google-llc-ibm-intel-nvidia/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 23
+  - title: "Text-To Speech Market 2021 Long-term Outlook Remains Positive | Microsoft Corporation, IBM Corporation, Google, Sensory"
+    excerpt: "The Text-To Speech Market was valued at USD XX billion in 2020 and is estimated to reach USD 5.0 billion by 2027, registering a CAGR of 14.6% during the forecast period. Latest added Text-To Speech Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
+    publishedDateTime: 2021-07-26T16:50:00Z
+    webUrl: "https://manometcurrent.com/text-to-speech-market-2021-long-term-outlook-remains-positive-microsoft-corporation-ibm-corporation-google-sensory/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 12
+  - title: "Cognitive Analytics Solutions Market Size, CAGR | Key Players – IBM, Amazon Web Services, Google, Microsoft, Oracle, SAS Institute"
+    excerpt: "The Cognitive Analytics Solutions Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market. Verified Market Report’s latest publication “Cognitive Analytics Solutions Market Research Report 2021-2028” provides an overview of the drivers and constraints that exist in the market."
+    publishedDateTime: 2021-07-25T20:29:00Z
+    webUrl: "https://manometcurrent.com/cognitive-analytics-solutions-market-size-cagr-key-players-ibm-amazon-web-services-google-microsoft-oracle-sas-institute/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 6
 
 secured: "ElJWtZlud084iVvT3ze1zCndiakiUoypNxy/KZ/2i4BjyyFnLtk5Cl/dYfVeSDb/yoqfE4QTJj0ZQA3Jh3mImVrsx7LAqW69GyLlz4ECqpGRy1j0eKOFUL8SkNP/teLX7pwTA/D5ZSJHEdriOXSTCg93MhxywmR1uXesCE2E5QRmzY7sk+w2eVCc5gDHQkCEoIKopoRENX4/EJFUgF9o5NVZdUlcePJfxnwKAee21LIkNtNgP1KQdbxb6hwNSuVYjLR/en1WVUzASsnfr+AfAZnyC7FSZcRHDNCAFLqbYgxOjAl4akVK5voTHBmLZSRJPxGeCZDf39td6rmEgi7+cydd+8yMlytUvBsHc7J+2Mk=;Ba7wZWvp0nOQUsPGEQDVGg=="
 ---

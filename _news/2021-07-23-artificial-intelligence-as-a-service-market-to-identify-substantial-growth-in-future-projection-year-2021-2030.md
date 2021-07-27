@@ -41,15 +41,6 @@ related:
         width: 800
         height: 407
         isCached: true
-  - title: "Cognitive Analytics Solutions Market Size, CAGR | Key Players – IBM, Amazon Web Services, Google, Microsoft, Oracle, SAS Institute"
-    excerpt: "The Cognitive Analytics Solutions Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market. Verified Market Report’s latest publication “Cognitive Analytics Solutions Market Research Report 2021-2028” provides an overview of the drivers and constraints that exist in the market."
-    publishedDateTime: 2021-07-25T20:29:00Z
-    webUrl: "https://manometcurrent.com/cognitive-analytics-solutions-market-size-cagr-key-players-ibm-amazon-web-services-google-microsoft-oracle-sas-institute/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 6
 
 secured: "EFHUyjo3rlthElN6pJhdpsCiDkbtUw6NtICn54XyrEa5qCAdvtyWgnWCRnzHfTKOj4mXqSCyybdyCJksqZWjdz4I5Y+FSibuhacBzDIPykPLLP2JN50JiTx2xZLeeJlaETLVr/UzGfSnXlAKNOVEnixuqDVdw34tskO58b2LTCn6PoCCeoxIr2nOcwsHrc4RFfrOM5RtWTRLJ6qK+Nkn4Qj0FjFr16RaF5dkrDwlsAzm8LBGZ6PqAlhPdTs1Vh/k3l/GxSpPuGdX68cVyI00exb5NoeK0SOh0c2OB/1xSaxzL4mvYTppk77g53217mNE1Nhpww6b8Tu9w56rY0K7FgL6F8p6iVP9NjRQqH5sRu8=;Lv9wXfHZ5o4wRxM5inyKxg=="
 ---

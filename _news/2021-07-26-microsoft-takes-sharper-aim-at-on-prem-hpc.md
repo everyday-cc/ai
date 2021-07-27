@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -41,47 +41,19 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Lanner Partners with Microsoft to Deliver Edge-to-Cloud AI Deployments"
-    excerpt: "Lanner Electronics announced its partnership with Microsoft Azure to launch Edge-to-Cloud AI Solution, integrating Lanner AI accelerated intelligent edge appliance with Azure IoT edge module, runtime and cloud interface."
-    publishedDateTime: 2021-07-27T15:52:00Z
-    webUrl: "https://www.automation.com/en-us/articles/july-2021/lanner-partners-microsoft-deliver-edge-cloud-ai"
+  - title: "DoD Spikes JEDI Cloud Project, Lines Up AWS, Microsoft Behind New Initiative"
+    excerpt: "The Department of Defense’s controversial JEDI project – the $10 billion cloud computing initiative thats been the focus of vendor lawsuits and politics"
+    publishedDateTime: 2021-07-27T02:23:00Z
+    webUrl: "https://www.internetnews.com/news/dod-spikes-jedi-cloud-project-lines-up-aws-microsoft-behind-new-initiative/"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 54
+      name: Internetnews
+      domain: internetnews.com
+    quality: 53
     images:
-      - url: "https://www.automation.com/getmedia/6004257e-da72-452a-ba30-b0d426f4f6f8/Lanner-news-July-27-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
-  - title: "Verified AI-900 Dumps - Prepare Your Microsoft AI-900 Exam In Short Period"
-    excerpt: "Use ExamsSpy verified Microsoft AI-900 dumps and get AI-900 exam success in first attempt. IT Industry is developing and evolving leaps and bounds every single day. To keep up with the demands of the industry and to stay ahead of the competition,"
-    publishedDateTime: 2021-07-27T14:42:00Z
-    webUrl: "https://www.madinamerica.com/author/verified-ai-900-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 52
-    images:
-      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Machine Learning Software Market to See Huge Growth by 2026: Microsoft,IBM, Google"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/20/2021 — The Global Machine Learning Software Market has witnessed continuous growth in the past few years and may grow further during the forecast period (2021-2026)."
-    publishedDateTime: 2021-07-23T01:12:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-software-market-to-see-huge-growth-by-2026-microsoftibm-google"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 50
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Freedom-Day-England-AFP-1K-03-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.internetnews.com/wp-content/uploads/2021/07/dod-cloud.jpeg"
+        width: 590
+        height: 393
         isCached: true
   - title: "Wipro Recognized as 2021 Microsoft Modernizing Applications Partner of the Year"
     excerpt: "Continued leadership in driving business transformation earns Wipro this prestigious distinction for the second consecutive year. NEW YORK& BANGALORE, India---- Wipro Limited, a leading global information technology,"

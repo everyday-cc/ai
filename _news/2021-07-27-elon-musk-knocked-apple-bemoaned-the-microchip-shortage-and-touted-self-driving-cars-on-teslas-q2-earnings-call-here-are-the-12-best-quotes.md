@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-earnings-apple-micro
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-earnings-apple-microchip-shortage-self-driving-cars-2021-7?amp"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 599
     isCached: true
+
+related:
+  - title: "Elon Musk Slams Apple As Tech Giant’s Self-Driving Car Project Looms"
+    excerpt: "Elon Musk bashed Apple, not once, but twice, during an earnings call with investors, making it clear there is a rivalry with the companies."
+    publishedDateTime: 2021-07-27T16:24:00Z
+    webUrl: "https://www.ibtimes.com/elon-musk-slams-apple-tech-giants-self-driving-car-project-looms-3260742"
+    ampWebUrl: "https://www.ibtimes.com/elon-musk-slams-apple-tech-giants-self-driving-car-project-looms-3260742?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/elon-musk-slams-apple-tech-giants-self-driving-car-project-looms-3260742?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 44
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/02/19/gettyimages-477483954.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Vg9EMXGrQ/z9hlYpQM2kApUX4tkA39UBPenl4x0soObddkvJ7P5VeDoPy0YIX/YDYyKcLnKdvWhI5OR2jxS/bYQqSfgfqywYFScjXMaraWxUHJXnHuk7HiA2ejfZOPkpnkxRfvAlaHOc+36+xxixMBRSJu1U+ED+5+fRU+RQvDi/CyNDoKXMRgkf2qgXwZXd6minWCwPLqkujfMOAPkHwYt7XIs/f06nnKma0BAO4Kiqhn4EPDXjOYwhG/gNk26sQ97PiGxJK56oMF2PZ/A/QI/0CIToeyLokayx8F49pi5k9VUkkWyccNQCBja3CYTnY9rgqWra/StDnWSRGbDOdZG9+QE34RBaghg2fAHkNZQBJHoiWcwlcFjuIjWB9xK0KVx05SWsp8ySXF/6AMz/NTVqtrwvhfTAPh9pRPPMuSdzJYeFMmKT+gtI1LZwZR4C3wRJdXuX47o0gk/Abh7Je2qZ0S+F6jx9nlps9yFm2k1reZdxf8ZWoPHHO8rWI5tw9luy6OJbDPfF4hiJ/3VoRg==;9fkFBZ1c56ph0K8t+RtHDw=="
 ---

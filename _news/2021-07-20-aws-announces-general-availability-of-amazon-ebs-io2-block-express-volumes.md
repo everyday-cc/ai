@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon EBS io2 Block Express Volumes"
-excerpt: "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time."
+excerpt: "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time ."
 publishedDateTime: 2021-07-19T21:14:00Z
-originalUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/"
-webUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/"
+originalUrl: "https://www.thedailytimes.com/business/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/article_beeecae8-75cf-5cb0-bb0e-8cf6f3340650.html"
+webUrl: "https://www.thedailytimes.com/business/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/article_beeecae8-75cf-5cb0-bb0e-8cf6f3340650.html"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: thedailytimes.com
+  domain: thedailytimes.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "SbqaO/wqBr8Zlw0TaK5BEFMlL+cbSgAtx0seS6CpRFpTIkf5FjXa7vf2J8E4/C+YtuHtLWoSb87iO7AqQ+pH0fPJRupfLl+RC/vu0d7ciyxj3wgpFXOU49HOr6qlR+HMitO+fVkhUMJE17Af68vbCDuL0WoW7VKCUMOpux7qWZyURB4nzu68MLGnNbhPfVSmtQK9a6QYIDMwRdUsyJzKJr73F0OuVyn3Rmr7JkmTkd8KMLqnL/s86CjacgLPKcyI7s+qgFX2kOQpV3s0pBynznAfQXH7g0mnPMsFSDz32UVacLg9Xo3uunrVSNJIRlifJVzayIyHAvybp06jAtQ7v53tEx5xa/8fq1Con/kZgRw=;bb3KIm0biocyoWe/xMBkZA=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+    width: 600
+    height: 600
+    isCached: true
+
+secured: "ERLSoFP+hbdv0PDANVy+uh+MCR48vVg/uThXhVwu97FgOtwklN7aSjxcd5us1mCYJKCheEX37BvYKfnXE4w4IXY/urAOK/hBGiNwKxaQeo5J5AjXTN4eOt7EUG8k8di4q6XWQlPmmtr+jGPXqaaIZknaUxpdw3mGR0e30rm4XTmQPKHD/5HbvGW/oW0A5x9ltgGaji7IzmgRMJyEZahTfd6/Gz8g86E9iB/7yGplBohPytdjfL67zxYJCGT+PrirH4Rv1D4fn7NFqG2iAXzAxWYh4VEkhN7+sDA0kCF0e77H3t13B645EPFWICWGIEf7KjB7Ep0Eon6LQaHbwd81pOS2DOvVST8cTsVp17ny9OU=;bmDa5CB8rcwv15a8RmGq4Q=="
 ---
 

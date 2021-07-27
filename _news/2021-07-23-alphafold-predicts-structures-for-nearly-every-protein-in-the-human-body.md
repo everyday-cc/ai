@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/biology/alphafold-structures-every-protein-huma
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/biology/alphafold-structures-every-protein-human-body/?amp=true"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence can predict the structure of almost every protein made by body, study finds"
-    excerpt: "Sir Paul Nurse, director of the Francis Crick Institute, called the breakthrough a 'great leap for biological innovation'."
-    publishedDateTime: 2021-07-22T23:23:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9816457/Artificial-intelligence-predict-structure-protein-body-study-finds.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9816457/amp/Artificial-intelligence-predict-structure-protein-body-study-finds.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9816457/amp/Artificial-intelligence-predict-structure-protein-body-study-finds.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 43
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/07/23/00/36271238-0-image-a-12_1626996125212.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Burst of Protein Structure Predictions from DeepMind, EMBL"
     excerpt: "AlphaFold, an AI system for predicting protein structures, has enabled DeepMind and the EMBL to release more than 350,000 protein structure predictions, including predictions covering nearly the entire human proteome,"
     publishedDateTime: 2021-07-23T22:10:00Z
