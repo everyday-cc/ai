@@ -82,16 +82,16 @@ related:
   - title: "Catching the artificial intelligence buzz"
     excerpt: "The federal minister for the digital economy, Jane Hume, will deliver a speech on Tuesday setting out how the government is backing artificial intelligence."
     publishedDateTime: 2021-07-26T17:33:00Z
-    webUrl: "https://thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264"
-    ampWebUrl: "https://thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264.amp"
-    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264.amp"
+    webUrl: "https://www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265"
+    ampWebUrl: "https://www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265.amp"
+    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265.amp"
     type: article
     provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 57
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 59
     images:
-      - url: "https://images.thewest.com.au/publication/C-3515264/6bbe09f178da49e5451814198832feb73ebb286a-16x9-x0y0w1280h720.jpg?imwidth=1200"
+      - url: "https://images.perthnow.com.au/publication/C-3515265/6bbe09f178da49e5451814198832feb73ebb286a-16x9-x0y0w1280h720.jpg?imwidth=1200"
         width: 1200
         height: 675
         isCached: true

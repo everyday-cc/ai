@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Daily Crunch: Accused January 6 insurrectionist must use face to unlock laptop, orders judge"
+    excerpt: "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package."
+    publishedDateTime: 2021-07-26T22:10:00Z
+    webUrl: "https://techcrunch.com/2021/07/26/daily-crunch-34/"
+    ampWebUrl: "https://techcrunch.com/2021/07/26/daily-crunch-34/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/daily-crunch-34/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/07/reffitt-laptop.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Accused had to unlock laptop with face"
     excerpt: "A US federal judge last week granted a Department of Justice request to place an alleged US Capitol rioter in front of his laptop to unlock the device with facial recognition, according to a report in the ABA Journal."
     publishedDateTime: 2021-07-26T11:00:00Z

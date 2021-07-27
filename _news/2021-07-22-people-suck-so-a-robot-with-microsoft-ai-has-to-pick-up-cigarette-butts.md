@@ -9,7 +9,7 @@ ampWebUrl: "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp"
 type: article
 quality: 90
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://i.insider.com/60f7358baa1f1f0012f687ea?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Microsoft Releases Safe Links for Teams and Other Security Solutions"
+    excerpt: "Microsoft is continuing to advance its cloud-based security services with a couple of previews announced this week, plus a product release."
+    publishedDateTime: 2021-07-26T22:19:00Z
+    webUrl: "https://redmondmag.com/articles/2021/07/26/safe-links-for-teams.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 56
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/131025MackieLync.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "BeachBot, an AI-powered robot that cleans cigarette butts at the beach"
     excerpt: "BeachBot — BB for short — the robot uses artificial intelligence to find the cigarette butts and to learn the best way to pick them up. the AI-based detection algorithm was created by TechTics (a consultancy based in the hague founded by bos and lukaart) and students from delft university of technology,"

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-27-building-a-star-trek-ai-for-the-legal-industry-lexisnexis-says-make-it-so.md",
+      "title": "Building a Star Trek AI for the Legal Industry? LexisNexis says, “Make It So.”",
+      "excerpt": "Rick McFarland, Chief Data Officer at LexisNexis! This month's special featured guest is Rick McFarland, Chief Data Officer at LexisNexis! Star Trek’s technology seemed",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/calendar-event/building-star-trek-ai-legal-industry-lexisnexis-says-make/",
+      "originalUrl": "https://www.geekwire.com/calendar-event/building-star-trek-ai-legal-industry-lexisnexis-says-make/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/Data-for-AI-Speaker-RickMcFarland.png",
+          "width": 1030,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-lying-corrupt-anti-american-cops-are-running-amok-with-ai.md",
       "title": "Lying, corrupt, anti-American cops are running amok with AI",
       "excerpt": "Who watches the watchers? Law enforcement agencies around the US are heavily-invested in AI and nobody is holding them accountable.",
@@ -1179,57 +1230,6 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-this-ai-can-spot-sunken-ships-from-the-damn-sky.md",
-      "title": "This AI can spot sunken ships from the damn sky",
-      "excerpt": "Researcher Leila Character taught a computer how to recognize shipwrecks on the ocean floor from scans taken by aircraft and ships on the surface.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-spot-sunken-ships-from-sky-syndication",
-      "originalUrl": "https://thenextweb.com/news/ai-spot-sunken-ships-from-sky-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2F5885600509_26558161ef_k-Underwater-archaeology-shipwreck-hed.jpg&signature=1fe6ef71edd1239c56e48fd47a5b4d63",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

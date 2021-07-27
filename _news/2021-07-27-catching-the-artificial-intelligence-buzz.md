@@ -3,24 +3,25 @@ category: news
 title: "Catching the artificial intelligence buzz"
 excerpt: "The federal minister for the digital economy, Jane Hume, will deliver a speech on Tuesday setting out how the government is backing artificial intelligence."
 publishedDateTime: 2021-07-26T17:33:00Z
-originalUrl: "https://thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264"
-webUrl: "https://thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264"
-ampWebUrl: "https://thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264.amp"
-cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515264.amp"
+originalUrl: "https://www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265"
+webUrl: "https://www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265"
+ampWebUrl: "https://www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265.amp"
+cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265.amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The West Australian
-  domain: thewest.com.au
+  name: Perth Now
+  domain: perthnow.com.au
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://images.thewest.com.au/publication/C-3515264/6bbe09f178da49e5451814198832feb73ebb286a-16x9-x0y0w1280h720.jpg?imwidth=1200"
+  - url: "https://images.perthnow.com.au/publication/C-3515265/6bbe09f178da49e5451814198832feb73ebb286a-16x9-x0y0w1280h720.jpg?imwidth=1200"
     width: 1200
     height: 675
     isCached: true
@@ -119,6 +120,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "iTjkEsJ3vX9OWgzGYDyi9UO8LgzcnNWnfBEHKJ/LCvBIO7ikOhacFf0YeAHaFBY48i+HlrrAbodf3zhiwNG68JhjLR/veVMiao5P+cSGmUzTBE/9pr/selMXq7QR+4KuIw5LsuN3v2xnp96R7XP40AlYF4X3Qy9oF0mgab/aaXhaujiGEZ2hUB1ffkFbslIX89vFh2LjUaugoKU84wRHpm91wC/IEoZVKYaLHoj89qtY6wCBFczjhqG8cULEOwiGKW+NwfclRoSOlNUuzWDqGp8C65QbeU/t8PdWzPgp3oS7x45/q3mTorsi9bhY71T1jsdMla4llIMql+mjYfdUuYG5VnQYAWmmhsjJ9B59TpIFfeNn+wmVjcbeuGEdIAv/3bgvicmcr+kajfCkVPieSI5M1zg8fyctCxbDlI1FMRK4JFwmJNdKNnJti4rcvpCI3gB+Zw0DKR+LKGF3WgFvVotmJm/QSH7RSmFFLKI4ZSKSK6L4nhaSkEF06ubkq3roLGswjzBMTXls+jTEuvYapw==;sYed1Ejv9VEXXW+5r4MNbg=="
+secured: "4+rmJdR79D0Q3NG4AEDEc/jGvgSjf54lV4hkxC9vQwm0zhG3o7H+YwDm92DLITfhfjXF96ZwcptzWMdrst6lvHGoK32nrStXCjA+XnElvWDzlG1xaAfOqZGkaTLeoeBVm/w7lDaPrGLUj9C6OLmoytA+5Ate5Uu1OxMKj/a6gHAUida7Ceb1+Hf/ZBziBrT9ZLhFkBX5siMstdpYHl0cTWy80zR/et6m8TTkN4Fo7KWTu+mIGkVDtpF012AJ50IJMvnKDvlsTnAJRXwywYrQ7L25eqBAZsPO40Xy31kUUUhrAiyj8jaUz10ahu0Mxetz3gRBC0xj6CdEDR8PBb6H9Es0XI+Vf2bVSvafk+4BsoM=;muLRKBUMVKNI/0B0BxJEug=="
 ---
 

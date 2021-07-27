@@ -1,28 +1,20 @@
 ---
 category: news
 title: "ON Semiconductor Intelligent Sensing Technologies Enable 360° Vision in AutoX Gen5 Self-Driving Platform"
-excerpt: "Revealed at the World Artificial Intelligence Conference, the new Gen5 autonomous vehicle technology enables the first fully driverless RoboTaxi, designed to democratize autonomy and provide ..."
-publishedDateTime: 2021-07-14T23:51:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/07/b21989649/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-pla"
-webUrl: "https://www.benzinga.com/pressreleases/21/07/b21989649/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-pla"
-ampWebUrl: "https://www.benzinga.com/amp/content/21989649"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21989649"
+excerpt: "ON Semiconductor's image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform."
+publishedDateTime: 2021-07-14T23:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210714005927/en/"
+webUrl: "https://www.businesswire.com/news/home/20210714005927/en/"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png"
-    width: 1200
-    height: 600
-    isCached: true
-
-secured: "8ElTltV+tmV7RvzJZSEX7DNHcs3O+DNNK1L/c3CUdFycnx5d0sdVxXNZgqrO7ihuUYsEsNNTIFv4EaHdEQ85JGCcBGRrL71t7is19CpKek12plK4sFCgM6L9OhAWAZr2rvfEOEBA+X6B6ULBavc0eRyLHYBtfWclZTMBjH9IFdcsURcrCvxP83Rtgwb/CMi6MNee7FGAXqhW84PxOXNK1NAdE7g0NcPJr9C/PuP5r2IYmD6qIkmpCMJmqzt7U6wFyVPITIEdJyW+7iCQDxrSC3hLHEdAM5e/Em4T+bjAEM853DfLQy+64svkFRbg45+ESQuxvj7HlpXt9VLUIrfWEPm7tywPFiYbnEi9MjElIn0=;CZ9WlMW8kcFQps09G4OPkA=="
+secured: "WE3ibPHH+mpdjpHt6y5QnUf9dMOUfQhhplMJCoa0KOCtcRJ03selGVkLhcmwOcpCN/nn5Ff740gDlpRTAXPtkwFLAJJaCNl7Onjtd/GgK9Iu19IhsoUdlVB79mSLbfUTfi4KpvRdBj3jT5ET5InCoyPsEVFrVbFludXe7zsfeIPRdRHqiXiDDTmCPisF8gvrJITRcw7Xlj59G4pms8VPM1/KRe5Aa0+sKPslXkKm2bfTqPpZ4SkNXJEYwlc5aqpYZJD9+JPZzadEXn9IHXOdzhC3+xDvT7LR4tKGp/X/V0tF4pv8II1R0eyi4G/Ls/LEl8THsj3w86ayC3NY2pxJ+w0yPdFViU5mdLiLwT58l2k=;X2pfLfMWdV0J9PBErKyjvw=="
 ---
 

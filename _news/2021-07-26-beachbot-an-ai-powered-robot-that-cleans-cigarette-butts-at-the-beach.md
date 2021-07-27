@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Releases Safe Links for Teams and Other Security Solutions"
+    excerpt: "Microsoft is continuing to advance its cloud-based security services with a couple of previews announced this week, plus a product release."
+    publishedDateTime: 2021-07-26T22:19:00Z
+    webUrl: "https://redmondmag.com/articles/2021/07/26/safe-links-for-teams.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 56
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/131025MackieLync.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
     excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO). \"This is the perfect example of our client feedback loop in action,"
     publishedDateTime: 2021-07-22T16:57:00Z

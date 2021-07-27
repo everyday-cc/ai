@@ -25,20 +25,18 @@ images:
 
 related:
   - title: "Smart Eye Deputy CEO Rana el Kaliouby talks automotive AI"
-    excerpt: "Rana el Kaliouby co-founded and led Boston startup Affectiva, which uses artificial intelligence and computer vision to analyze mood and emotion"
-    publishedDateTime: 2021-07-26T13:12:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/smart-eye-deputy-ceo-rana-el-kaliouby-talks-79061997"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/smart-eye-deputy-ceo-rana-el-kaliouby-talks-79061997"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/smart-eye-deputy-ceo-rana-el-kaliouby-talks-79061997"
+    excerpt: "Rana el Kaliouby co-founded and led Boston startup Affectiva, which uses artificial intelligence and computer vision to analyze mood and emotion. Now she's got a new job as deputy CEO of Smart Eye, after the Swedish eye-tracking company bought Affectiva for $73."
+    publishedDateTime: 2021-07-26T13:10:00Z
+    webUrl: "https://apnews.com/04e14f50e1b6843af76cf00e0d23d38e"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_f947b76b376f46a49f8fe9372c8f28be_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://storage.googleapis.com/afs-prod/media/f947b76b376f46a49f8fe9372c8f28be/3000.jpeg"
+        width: 3000
+        height: 2130
         isCached: true
 
 secured: "FyhPgAXdzV29Cz2zCpM9SFp/VYdcabOT/V/M6ddVQeFbPV6oN4yQKK7B1p4Mpxwe1pQvNVw2rhQupuZynh1GgRt9zEOoU6AXLRXrn3qjlVbmZeJY0olxOCVXA4wgsLWZt9cVqVo0Ve+N0E9V76dDi0d2ohh+QxwNHHyKp3UZph7v7YwXC58QDM/uauXq0ZsPdgVFF7N45Az9Y+UtW5vq8oSL8KGYihvGlkZJ8cEJU78Ljb9WMUCoLkfOtifNibJynXTvIzVZ7ZYEBF5//UrGv649/MC/0as2bS6BZ605J6oSzL7vfmSdl+kUXwN7ZjqKp7LsjVipff6/6/fCj++R5zXSX6fSbPQVz0tDO1KZxcTKCWjVzdfw3B4CvicJQuLe/t1NYidrVl8cwLcs+a1nuAmRKWDbqJV4b+6Huk2+m6YrYlCo0Q7FukWR4m9s/8UIp/YhYaeqvtpRjVAu4F7QG5zknkQVXWyB3fDSlV4vIox1or5hnesYWz5RrDbqLwNhGPIoM9N35vBkuBstS3vnew==;p9F9uRfoxJOHfhyTJEIs/Q=="

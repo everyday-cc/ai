@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/24/china-roundup-kai-fu-lees-first-eu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/24/china-roundup-kai-fu-lees-first-europe-bet-weride-buys-a-truck-startup/amp/"
 type: article
 quality: 88
-heat: 90
+heat: 88
 published: true
 
 provider:

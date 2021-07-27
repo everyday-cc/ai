@@ -3,8 +3,8 @@ category: news
 title: "Telefónica Tech and C2RO join forces to offer a new AI video analytics solution that transforms the physical world into actionable data"
 excerpt: "Telefónica Tech includes the C2RO PERCEIVE™ solution in its portfolio to complement the space analytics proposal and help companies improve"
 publishedDateTime: 2021-07-26T08:42:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/telefónica-tech-and-c2ro-join-forces-to-offer-a-new-ai-video-analytics-solution-that-transforms-the-physical-world-into-actionable-data-1030643692"
-webUrl: "https://markets.businessinsider.com/news/stocks/telefónica-tech-and-c2ro-join-forces-to-offer-a-new-ai-video-analytics-solution-that-transforms-the-physical-world-into-actionable-data-1030643692"
+originalUrl: "https://markets.businessinsider.com/news/stocks/telefónica-tech-and-c2ro-join-forces-to-offer-a-new-ai-video-analytics-solution-that-transforms-the-physical-world-into-actionable-data-1030643690"
+webUrl: "https://markets.businessinsider.com/news/stocks/telefónica-tech-and-c2ro-join-forces-to-offer-a-new-ai-video-analytics-solution-that-transforms-the-physical-world-into-actionable-data-1030643690"
 type: article
 quality: 35
 heat: 35
@@ -43,6 +43,6 @@ related:
         height: 720
         isCached: true
 
-secured: "wqkwpOIJJVFqGpiff6ps00PljuZBPr920DnL6n4HnuITAM+CxACEx9fjegJdZjHBT1ZLRBBganJN38hveEMYOu0lHvCEyQ5EadjFerqCkeBuR/LKdLJsjOR873phRmgujQmsAU5sSd4v7nT61TDaEWJegfWS87N6OXJN/20keCemRNqWOUtggd+bcOq0xAY9C7Ui+NJIativuy10zClwYo8pS0+1MirgC7W2lt702HOpIUvVT4ZVNA5gDR8plirK/aXGS1q6i+d0jjuj+1qA6PuW9eFbw8mz1Kv3ken4ejEbBi36W+Im8I3iAcq9qkGh9ApqeTecvFmgMxZowYPwo/v4Df8OCw2c+COVDXjb4RY=;iWaI2eMkx1v/x6HwCEgC/w=="
+secured: "3AfZSKTYaOEAJRl+tqnCtWfmGc7+vQCbqt9S8EeOcnQydkPwRDOgWAXOmwb3QD22liTi+OU4xeL2IL0mik5uEX/iZ7wSMg9pT8HFHUdjvj5AN8h2h+2+YggCDdYnCWiIhAptimk1+V8gxD19LmZn26auAyPNy78QcQHVc+OAcQil2iWKB1p0ugrZgpG3FOd13ogKL8Va52KIqXVg9FiaPpVwuOnOf35p9CP0XpMVO0HEItBYluJsufOpv2LLizxGG1lkKuznIhxRNSfZQNZH1UsewK4C2RKExeZGNDDgmdUHwgo6g0c1Z+FciVQ9Lr0XxqgV7xUdvI9q54TUxPlQ0INhgfogJM+HT4xT+MqYZEo=;svi+f9cowRk/LPhtmoSLXg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-u
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314/amp"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Daily Crunch: Accused January 6 insurrectionist must use face to unlock laptop, orders judge"
+    excerpt: "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package."
+    publishedDateTime: 2021-07-26T22:10:00Z
+    webUrl: "https://techcrunch.com/2021/07/26/daily-crunch-34/"
+    ampWebUrl: "https://techcrunch.com/2021/07/26/daily-crunch-34/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/daily-crunch-34/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/07/reffitt-laptop.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Judge permits prosecutors to use facial recognition to open accused Capitol rioter's laptop"
     excerpt: "A federal judge in Washington, D.C., on Wednesday granted a Department of Justice request to place an accused U.S. Capitol rioter in front of his laptop to unlock the device with facial recognition."
     publishedDateTime: 2021-07-23T15:56:00Z

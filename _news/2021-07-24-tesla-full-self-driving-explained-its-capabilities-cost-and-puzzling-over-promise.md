@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-explain
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/"
 type: article
 quality: 98
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/4a926b63004284a3bcd53207f9206069.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Tesla just lowered the price of the ‘Full Self Driving’ hardware upgrade"
-    excerpt: "Tesla has reduced the price of the ‘Full Self Driving’ upgrade necessary for older Tesla models to use the new FSD subscription service. It’ll now cost $1,000, instead of $1,500. This is likely in response to criticism from Tesla owners who were asked to pay for the upgrade."
-    publishedDateTime: 2021-07-22T07:00:00Z
-    webUrl: "https://www.tomsguide.com/news/tesla-just-lowered-the-price-of-the-full-self-driving-hardware-upgrade"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 53
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/bkgdXULVBEKJ8JGU2FDv8b-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "The Moon Tricks Tesla's Full Self-Driving Feature Into Thinking It's a Yellow Light"
     excerpt: "Tesla recently announced that any Tesla user can subscribe to Autopilot’s Full Self-Driving feature for $99 to $199 per month, but it seems the new feature still comes with its fair share of kinks. Recently a Tesla driver took to Twitter to share an entertaining little problem with the system."

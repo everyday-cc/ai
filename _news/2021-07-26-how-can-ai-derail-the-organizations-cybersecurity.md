@@ -38,6 +38,20 @@ related:
         width: 1728
         height: 1080
         isCached: true
+  - title: "Artificial Intelligence: Next Frontier Is Cybersecurity"
+    excerpt: "Artificial intelligence (AI) and machine learning will play a role in protecting the United States from malicious cyber actors. NSA’s Jason Wang, technical director for the Computer and Analytic Sciences Research Group,"
+    publishedDateTime: 2021-07-26T22:56:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/artificial-intelligence-next-frontier-is-cybersecurity/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 37
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2018/09/digitization-3614386_1920.jpg"
+        width: 1920
+        height: 1078
+        isCached: true
 
 secured: "+IbylllILHEyhDA8O4UZLourm2/EWghx9oRtbRQ6UsT6L5YbXLxF5idbe63QHpG6dtLDAzcr4rSPV1eTdmKtgiFf4yzcqjUK9Mad2pc9Ci7bWdDvXXJrVWOj4TbwkMr/pkjB3cjqGDF6lMb5L9+N355huacf7bP67GI0z3zN5TpLI6zb+bAsX9iVyeU++WAPRS4T/MKFwAt2z2j6QqEiYLCX5WxdHJWSdaZ7PcN049LQBsO7BJ0ktm+wCeDvxeghp7MU6bA+U0EuB4MdkNhLx3zNNz78bRKBAilRJkUblo1nwX+QFx/Ix+QM914v62n3IobdGA+jI3XMrjMLq80KTg21nZZcrKZrZwkZgIqmCJs=;+tMYSqvfZF5L+CAxhfhKCw=="
 ---

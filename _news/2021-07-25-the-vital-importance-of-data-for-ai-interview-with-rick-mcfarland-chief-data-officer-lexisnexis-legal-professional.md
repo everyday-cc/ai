@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cognitiveworld/2021/07/25/the-vital-i
 webUrl: "https://www.forbes.com/sites/cognitiveworld/2021/07/25/the-vital-importance-of-data-for-ai-interview-with-rick-mcfarland-chief-data-officerlexisnexis-legal--professional/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 323
     height: 302
     isCached: true
+
+related:
+  - title: "Building a Star Trek AI for the Legal Industry? LexisNexis says, “Make It So.”"
+    excerpt: "Rick McFarland, Chief Data Officer at LexisNexis! This month's special featured guest is Rick McFarland, Chief Data Officer at LexisNexis! Star Trek’s technology seemed"
+    publishedDateTime: 2021-07-26T22:50:00Z
+    webUrl: "https://www.geekwire.com/calendar-event/building-star-trek-ai-legal-industry-lexisnexis-says-make/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 63
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/07/Data-for-AI-Speaker-RickMcFarland.png"
+        width: 1030
+        height: 530
+        isCached: true
 
 secured: "Hh+Lk3sZJDfLcIG3ld/AuSayzjIQgnmvWn8sAWfnyMc2PQIq4T0Zl2Tp8lPQOBvAL7xhp4KzbvEcymGe9i64oe2oqT5WE/dweJP8J9jb83+w/k2LK0/kXQ/rR8UWtjNQpN3QdXigSOBojxmaQkvb3u9VBFRqPjwI7/xiPq6jTqh7xEuNUR4THmFbCA0MbltS2gs0LvZ9vo3V1c+2ssu5P45l7Ltjd4hE4TDQEaLAHfXxa380QJ6/T3PLp6Tmx/sEwnq5672u7ie4SHrd2i2HXoYAKQIf1M9ql3xa80DvgPL7Rouv6O5J8XI7Ki37UG4AGvBDw/dlcThSEZsWIcvHgwkfMlkPkuG3tI6SJfeFEhHMf0RqRqegm3XTOP4IAr4doggR5LycBVx+MhrsaqkAPQMBJgBIfZ8VfTjIsVGc70ZEARqr6FmZv5OgWuQ9fhj5AQ735vDV3XHPkvfW47gNY26LfUMgWAHdGBZBSIHmcE+222mRmrvINdLercAd5pdgCTAt4Tkj6n6Oz/NUwXIGzQ==;qgpoeOXoU0zIS3IFxdrs/Q=="
 ---
