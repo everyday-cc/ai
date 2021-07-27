@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-24-want-your-unemployment-benefits-you-may-have-to-submit-to-facial-recognition-first.md",
+      "title": "Want your unemployment benefits? You may have to submit to facial recognition first",
+      "excerpt": "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he hasn't received a penny of the $6,490 he said he was eligible to receive and he's not sure when he will.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+      "originalUrl": "https://www.msn.com/en-us/money/smallbusiness/want-your-unemployment-benefits-you-may-have-to-submit-to-facial-recognition-first/ar-AAMtC1Y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200209224400-20200209-facial-recognition-gfx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+      "publishedDateTime": "2021-07-23T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+        "domain": "com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-25-states-are-forcing-face-recognition-on-people-filing-for-unemployment.md",
+      "title": "25 States Are Forcing Face Recognition on People Filing for Unemployment",
+      "excerpt": "State labor departments claim that they're using face recognition identity verification to prevent fraud, but you might want to check out the privacy policy.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707",
+      "originalUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/401a169d87d990b688a397d4df93cbd1.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp",
+      "publishedDateTime": "2021-07-23T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-alphabet-tackles-industrial-robot-software-market.md",
       "title": "Alphabet tackles industrial robot software market",
       "excerpt": "Google 's parent company Alphabet has launched a new company called Intrinsic to make industrial robots easier to program. Originally a project within Google's X research group, Intrinsic has graduated as an independent company within Alphabet.",
@@ -10,7 +105,7 @@
       "originalUrl": "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -252,6 +347,59 @@
       ]
     },
     {
+      "path": "_news/2021-07-23-alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit.md",
+      "title": "Alphabet to launch robotics firm Intrinsic under its other bets unit",
+      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and advertising business, Google in 2015 established Alphabet as ...",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212",
+      "originalUrl": "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL4N2OZ212",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL4N2OZ212",
+      "publishedDateTime": "2021-07-23T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-global-deep-learning-marketpotential-segments-their-contribution-to-market-size-amazon-web-services-aws-google-ibm.md",
       "title": "Global Deep Learning market:Potential Segments & their Contribution to Market Size |Amazon Web Services (AWS), Google, IBM",
       "excerpt": "Global Deep Learning Market Overview The latest report up for sale by QY Research demonstrates that the global Deep Learning market is likely to garner a great pace in the coming years Analysts have scrutinized the market drivers confinements risks",
@@ -399,7 +547,7 @@
       "originalUrl": "https://www.janes.com/defence-news/news-detail/artificial-intelligence-firms-shield-ai-heron-systems-join-forces",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -571,7 +719,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021-2021-07-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -623,7 +771,7 @@
       "originalUrl": "https://www.miragenews.com/enzyme-researchers-partner-with-pioneering-ai-601319/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1047,153 +1195,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-vochi-raises-additional-24-million-for-its-computer-vision-powered-video-editing-app.md",
-      "title": "VOCHI raises additional $2.4 million for its computer vision-powered video editing app",
-      "excerpt": "VOCHI, a Belarus-based startup behind a clever computer vision-based video editing app used by online creators, has raised an additional $2.4 million in a “late-seed” round that follows the company’s initial $1.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/",
-      "originalUrl": "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/VOCHI-team.jpeg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/amp/",
-      "publishedDateTime": "2021-07-22T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more.md",
-      "title": "OnePlus Nord 2 unveiled with Dimensity 1200 AI, 50MP camera and more",
-      "excerpt": "OnePlus has announced the OnePlus Nord 2 with Dimensity 1200 AI SoC, 50MP camera with OIS, and 65W fast-charging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
-      "originalUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/07/OnePlus-NOrd2-2-1-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/22/oneplus-nord-2-unveiled-with-dimensity-1200-ai-50mp-camera-and-more/amp/",
-      "publishedDateTime": "2021-07-22T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-deepmind-creates-transformative-map-of-human-proteins-drawn-by-artificial-intelligence.md",
-      "title": "DeepMind creates ‘transformative’ map of human proteins drawn by artificial intelligence",
-      "excerpt": "AI research lab DeepMind has created the most comprehensive map of human proteins to date using artificial intelligence. The company, a subsidiary of Google-parent Alphabet, is releasing the data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free",
-      "originalUrl": "https://www.theverge.com/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/FCzoEFavxHNtxLa16PQcFVi_oUc=/0x0:2130x1420/1400x933/filters:focal(895x540:1235x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69617097/VRG_ILLO_1777_AK_body_data.0.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free",
-      "publishedDateTime": "2021-07-22T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

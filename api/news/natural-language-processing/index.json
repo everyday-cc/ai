@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-28-qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box.md",
+      "title": "Qualcomm Stakes Beachhead In Artificial Intelligence With Foxconn Gloria AI Edge Box",
+      "excerpt": "Powered by Qualcomm’s Cloud AI 100 solution, the system is design to support up to 24 high-definition cameras for video analytics applications like traffic analysis, security monitoring and smart retail spaces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6100677707201bbe17a32370%2F0x0.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/amp/",
+      "publishedDateTime": "2021-07-27T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-announcing-specialized-support-for-extracting-data-from-invoices-and-receipts-using-amazon-textract.md",
       "title": "Announcing specialized support for extracting data from invoices and receipts using Amazon Textract",
       "excerpt": "Receipts and invoices are documents that are critical to small and medium businesses (SMBs), startups, and enterprises for managing their accounts payable processes. These types of documents are difficult to process at scale because they follow no set design rules, yet any individual customer encounters",
@@ -115,7 +168,7 @@
       "originalUrl": "https://www.openpr.com/news/2337136/healthcare-natural-language-processing-nlp-market-including",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -457,8 +510,8 @@
       "title": "Awesome! Did you know Khaya is Ghana’s first Translator App?",
       "excerpt": "It also allows one to translate the same from the four mentioned African languages to English. An interesting feature of this AI beauty is that it goes beyond the knowledge base of the creators.",
       "sourceUrl": null,
-      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
-      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
+      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/pressreleases/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
+      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/pressreleases/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -477,7 +530,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T09:52:00-07:00",
+      "publishedDateTime": "2021-07-19T07:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Ghanaweb.com",
@@ -1445,49 +1498,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video-events.md",
-      "title": "BxVideo's New EZLive Caption Offers Self-Service Transcription, Translation and Captioning for Live-Streaming Video Events",
-      "excerpt": "The service utilizes AI for machine transcription and translation from 30 different spoken languages and more than 50 text-based caption languages. For more information, please visit www.bxvideo.com.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video/article_fa4d16a5-d9bf-5873-8016-d935109d13f4.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video/article_fa4d16a5-d9bf-5873-8016-d935109d13f4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
-    excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous"
-    publishedDateTime: 2021-07-23T03:05:00Z
-    webUrl: "https://wsvn.com/news/us-world/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
-    ampWebUrl: "https://wsvn.com/news/us-world/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 37
 
 secured: "DPBVBhmZBfY1m0yitqjT0g8OoXJLwFpM/oFx/flQUS/jtgVg7l9SP5n0C/3hcDho7C089LXqzUk15IGOp4anamJRo2Yrdu/wiYt06V08j1njpxW34ONMCkX0ZY/YNa47qrCcebNSb799CA/Qx5O4Q0nMS+/V+lLhz2aPKdOBTsOP45O3PBt6jSYLBGMKc2pE4twY5H33TK1hf/yHaoBWMDQlhXqkfvpetHLWtmvowpqUUVGV4dKzEJDAVPJBzIsRZzIfSkdHqWq19I20Yino+Qe6YTv2vp3TNNfNDwrnr72xRkfNG8jkyM7heEZCGNgM8yx8a4ro/0DpBSLzQaDeAnGz1TNyhJ0RMn8Wr5/En8s=;AATZonyFlBhCJJRTvb68CQ=="
 ---

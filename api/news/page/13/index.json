@@ -2,6 +2,145 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-07-16-in-pursuit-of-a-career-in-healthcare-she-became-an-engineer.md",
+      "title": "In Pursuit of a Career in Healthcare, She Became an Engineer",
+      "excerpt": "From Connecticut, Gabriella Lanouette builds algorithms used by ophthalmologists in developing countries around the world",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200?mod=business_minor_pos1",
+      "originalUrl": "https://www.wsj.com/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200?mod=business_minor_pos1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-368920/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200",
+      "publishedDateTime": "2021-07-16T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-deep-learning-courses-for-nlp-market.md",
+      "title": "Deep Learning Courses for NLP Market",
+      "excerpt": "Global Deep Learning Courses for NLP Market is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
+      "originalUrl": "https://www.openpr.com/news/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U716847626_g.jpg",
+          "width": 800,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
+      "publishedDateTime": "2021-07-16T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market.md",
+      "title": "Worldwide Robotics Industry to 2025 - Co-Bots Drives Robotics Market",
+      "excerpt": "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/07/n22015462/worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/n22015462/worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22015462",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22015462",
+      "publishedDateTime": "2021-07-16T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-is-deep-learning-making-nlp-too-expensive.md",
       "title": "Is Deep Learning Making NLP Too Expensive?",
       "excerpt": "Deep learning has yielded some fantastic results for basic natural language processing (NLP) functions such as named entity recognition (NER), document classification and sentiment analysis — not to mention the abilities to generate everything from ...",
@@ -1001,153 +1140,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-powerful-vehicle-intelligence-with-virtually-unlimited-scalability.md",
-      "title": "Powerful Vehicle Intelligence with Virtually Unlimited Scalability",
-      "excerpt": "PlateSmart Technologies, the pioneers of software-only automatic license plate recognition (ALPR) technology, has introduced a new ALPR and vehicle intelligence platform with almost",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/powerful-vehicle-intelligence-with-virtually-unlimited-scalability/article_5b2ede59-8da3-5bf5-9e23-490c004922fb.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/powerful-vehicle-intelligence-with-virtually-unlimited-scalability/article_5b2ede59-8da3-5bf5-9e23-490c004922fb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-researchers-develop-deep-learning-method-for-translating-vocal-signals-from-the-brain-to-text.md",
-      "title": "Researchers develop deep-learning method for translating vocal signals from the brain to text",
-      "excerpt": "Researchers at the University of Califonia San Francisco developed a way to allow people with speech loss to communicate with their brains. The technology uses neural",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
-      "originalUrl": "https://www.techspot.com/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/02/2019-02-19-ts3_thumbs-9e6.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
-      "publishedDateTime": "2021-07-15T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-edge-ai-market-size-and-growth-prospects-2019-2027.md",
-      "title": "Edge AI Market Size and Growth Prospects 2019 – 2027",
-      "excerpt": "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-market-size-and-growth-prospects-2019-2027-2021-07-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-market-size-and-growth-prospects-2019-2027-2021-07-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

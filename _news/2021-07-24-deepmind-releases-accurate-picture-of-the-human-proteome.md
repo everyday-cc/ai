@@ -47,6 +47,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Burst of Protein Structure Predictions from DeepMind, EMBL"
+    excerpt: "AlphaFold, an AI system for predicting protein structures, has enabled DeepMind and the EMBL to release more than 350,000 protein structure predictions, including predictions covering nearly the entire human proteome,"
+    publishedDateTime: 2021-07-23T22:10:00Z
+    webUrl: "https://www.genengnews.com/news/burst-of-protein-structure-predictions-from-deepmind-embl/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/07/July23_2021_Karen-Arnott-EMBL-EBI_AlphaFold-Generates-Protein-Structures-from-Data.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "DeepMind unlocks the protein secrets of life"
     excerpt: "Demis Hassabis stunned the world of science this week when he and his research team opened a window into how life works.The British artificial intelligence pioneer, 44, revealed an AI system that had"
     publishedDateTime: 2021-07-23T23:01:00Z

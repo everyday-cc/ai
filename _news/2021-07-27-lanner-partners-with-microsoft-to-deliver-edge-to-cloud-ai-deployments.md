@@ -41,6 +41,36 @@ related:
         width: 800
         height: 426
         isCached: true
+  - title: "What Microsoft’s Nuance Acquisition Means for the Healthcare Industry"
+    excerpt: "The purchase gives the tech giant access to advanced speech recognition and artificial intelligence technology and expands its presence within the healthcare space."
+    publishedDateTime: 2021-07-27T20:18:00Z
+    webUrl: "https://healthtechmagazine.net/article/2021/07/what-microsofts-nuance-acquisition-means-healthcare-industry"
+    ampWebUrl: "https://healthtechmagazine.net/article/2021/07/what-microsofts-nuance-acquisition-means-healthcare-industry?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/07/what-microsofts-nuance-acquisition-means-healthcare-industry?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 76
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202107/microsoft-nuance.jpg?itok=VEp_fzYD"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "Lanner Partners with Microsoft to Deliver Edge-to-Cloud AI Deployments"
+    excerpt: "Lanner Electronics, a global leader in the design and manufacturing of intelligent edge computing appliances, announced today its partnership with Microsoft Azure to launch Edge-to-Cloud AI Solution,"
+    publishedDateTime: 2021-07-27T20:47:00Z
+    webUrl: "https://www.automationworld.com/supplier-news/news/21578545/lanner-electronics-lanner-partners-with-microsoft-to-deliver-edgetocloud-ai-deployments"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 54
+    images:
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/07/44019_Banner__1.610070cca981d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Verified AI-900 Dumps - Prepare Your Microsoft AI-900 Exam In Short Period"
     excerpt: "Use ExamsSpy verified Microsoft AI-900 dumps and get AI-900 exam success in first attempt. IT Industry is developing and evolving leaps and bounds every single day. To keep up with the demands of the industry and to stay ahead of the competition,"
     publishedDateTime: 2021-07-27T14:42:00Z

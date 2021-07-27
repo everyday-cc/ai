@@ -37,20 +37,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Global AI In Telecommunication Market Size, Share to Be Appraised at USD 3880 million By 2024"
-    excerpt: "Selbyville, Delaware. The report AI In Telecommunication Market Size and Analysis maintains enhanced dynamics and"
-    publishedDateTime: 2021-07-23T04:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-size-share-to-be-appraised-at-usd-3880-million-by-2024-2021-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fintech Market Forecast to Reach $161.2 Billion by 2026"
     excerpt: "Focus of Companies on Cost Reduction and Improving Efficiency driving the growth of Fintech Market The Fintech Market forecast to reach $161.2 billion by 2026, growing at a CAGR of 8.7% from 2021 to 2026."
     publishedDateTime: 2021-07-24T05:16:00Z

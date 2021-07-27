@@ -2,6 +2,91 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-20-threat-modeling-can-protect-data-used-by-ai-assistants.md",
+      "title": "Threat modeling can protect data used by AI assistants",
+      "excerpt": "Gusto's Jamie Tomasello explains how threat modeling can help protect AI assistants' data in an interview at Transform 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/",
+      "originalUrl": "https://venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/gusto.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/amp/",
+      "publishedDateTime": "2021-07-19T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-top-stocks-to-buy-this-week-4-av-stocks-to-know.md",
+      "title": "Top Stocks To Buy This Week? 4 AV Stocks To Know",
+      "excerpt": "The company is essentially an artificial intelligence computing company ... This project has since turned into Waymo. Starting from June, Waymo One, the ride-hailing service that uses driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/top-stocks-to-buy-this-week-4-av-stocks-to-know-2021-07-19",
+      "originalUrl": "https://www.nasdaq.com/articles/top-stocks-to-buy-this-week-4-av-stocks-to-know-2021-07-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-new-toolkit-aims-to-help-teams-create-responsible-human-ai-experiences.md",
       "title": "New toolkit aims to help teams create responsible human-AI experiences",
       "excerpt": "The post New toolkit aims to help teams create responsible human-AI experiences appeared first on The AI Blog.\n",
@@ -352,6 +437,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-awesome-did-you-know-khaya-is-ghanas-first-translator-app.md",
+      "title": "Awesome! Did you know Khaya is Ghana’s first Translator App?",
+      "excerpt": "It also allows one to translate the same from the four mentioned African languages to English. An interesting feature of this AI beauty is that it goes beyond the knowledge base of the creators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/pressreleases/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
+      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/pressreleases/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ghanaweb.com/imagelib/pics/689/68968036.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ghanaweb.com",
+        "domain": "ghanaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1106,154 +1234,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence.md",
-      "title": "AI Revolution in 2021: 5 Industries That Are Thriving With Artificial Intelligence",
-      "excerpt": "AI or Artificial Intelligence is a buzzword across the world these days. Several industries are prospering with AI implementation, and many others are gearing up to adopt this latest technology to start a journey of steady progress.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/",
-      "originalUrl": "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/07/5-Industries-That-Are-Thriving-With-Artificial-Intelligence-.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-07-19T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance.md",
-      "title": "Weighing cognitive biases and AI behavioral analytics in finance",
-      "excerpt": "As a species that relies heavily on cognitive ability for our evolutionary success, it’s no surprise that many of human’s adaptations have come in the form of psychological mechanisms. One evolutionary outcome of this is the prevalence of human cognitive biases that can negatively impact decision making.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ai-money_-shutterstock_592403636-e1626678216479.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/amp/",
-      "publishedDateTime": "2021-07-19T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous.md",
-      "title": "Edge Impulse Combines AutoML And TinyML To Make AI Ubiquitous",
-      "excerpt": "Edge Impulse has partnered with silicon companies and DIY electronic kit developers to accelerate building AI models for microcontrollers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f511be8b024b0aecbdea50%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/amp/",
-      "publishedDateTime": "2021-07-18T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

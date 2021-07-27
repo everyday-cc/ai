@@ -9,7 +9,7 @@ ampWebUrl: "https://www.janes.com/amp/artificial-intelligence-firms-shield-ai-he
 cdnAmpWebUrl: "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/artificial-intelligence-firms-shield-ai-heron-systems-join-forces/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI fighter pilot software firm Heron Systems acquired by Shield AI"
+    excerpt: "Heron Systems, the company behind the artificial intelligence software that beat a US Air Force (USAF) F-16 pilot 5-0 in the US Defense Advanced Research Projects Agency's (DARPA) AlphaDogfight trials last year,"
+    publishedDateTime: 2021-07-27T19:58:00Z
+    webUrl: "https://www.flightglobal.com/military-uavs/ai-fighter-pilot-software-firm-heron-systems-acquired-by-shield-ai/144786.article"
+    type: article
+    provider:
+      name: Flightglobal
+      domain: flightglobal.com
+    quality: 37
+    images:
+      - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/1024x536/7/1/2/80712_daraacescrimmage1cdarpavideoscreenshot_634151.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "Shield AI Buys Heron Systems in AI Engineering Capability Expansion Push; Brandon Tseng Quoted"
     excerpt: "Shield AI has acquired Heron Systems for an undisclosed sum to further expand its artificial intelligence engineering and reinforcement learning capabilities. Heron Systems is a software company founded in 1993 and is known for developing an AI pilot that emerged undefeated against a human Air Force F-16 fighter pilot in five rounds of simulated air combat during the Defense Advanced Research Projects Agency’s AlphaDogfight Trials,"
     publishedDateTime: 2021-07-23T10:07:00Z

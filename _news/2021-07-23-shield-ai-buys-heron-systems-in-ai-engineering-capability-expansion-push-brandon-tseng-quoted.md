@@ -40,6 +40,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI fighter pilot software firm Heron Systems acquired by Shield AI"
+    excerpt: "Heron Systems, the company behind the artificial intelligence software that beat a US Air Force (USAF) F-16 pilot 5-0 in the US Defense Advanced Research Projects Agency's (DARPA) AlphaDogfight trials last year,"
+    publishedDateTime: 2021-07-27T19:58:00Z
+    webUrl: "https://www.flightglobal.com/military-uavs/ai-fighter-pilot-software-firm-heron-systems-acquired-by-shield-ai/144786.article"
+    type: article
+    provider:
+      name: Flightglobal
+      domain: flightglobal.com
+    quality: 37
+    images:
+      - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/1024x536/7/1/2/80712_daraacescrimmage1cdarpavideoscreenshot_634151.jpg"
+        width: 1024
+        height: 536
+        isCached: true
 
 secured: "7NF3o4vzmP2/0BEj9S9c43VY6LALRS1bY2oMAByeJ6y0hQTeNwK1MicRv+dOp+HjNgynTm2nNtsS2NVvLatYV/b0TqCJ4/Cg56fH0MCJVjZgJNhNgHYTM8nCYLO4m4rdOwBo1NFxrwKlvCqCqkfVSlODyjq2m2cdDP8DSoMEDGdpS6ZB+jlyPERFnr8JFv2TERfzwsWPdkw+tAGSR+3X88D6YDsrVWEY1b6jswuYVv/wa9qOs3qx7pLIJKv4cdirfyBG5cyYTWbe3gdGlK5RDvROZ/RSpzmB53cAiSRmYR39pup0qQO7KJg3p7XT2+64pgAhujEDmI4tSJoVpMaXz9EfxR5xvQPIgqhcfA6qQa4=;H7wa9kjemFABIUllPTuS1g=="
 ---

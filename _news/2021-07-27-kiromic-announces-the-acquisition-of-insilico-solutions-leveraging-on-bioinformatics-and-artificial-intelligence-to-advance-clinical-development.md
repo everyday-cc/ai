@@ -28,6 +28,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
+  - title: "Shutterstock acquires three AI-based marketing platforms"
+    excerpt: "Shutterstock Inc., a provider of stock photos, videos and other media, has formed an artificial intelligence division and acquired AI marketing platforms Pattern89, Datasine and Shotzr for a total $35 million."
+    publishedDateTime: 2021-07-27T21:43:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2021/07/27/shutterstock-buys-three-ai-marketing-platforms.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "Uniphore to Acquire Jacada to Transform Customer Experience with Advanced AI and Low Code/No Code Automation"
     excerpt: "Uniphore, a leader in Conversational Service Automation (CSA), today announced its agreement to acquire Jacada (News - Alert), a customer experience pioneer with the industry's leading low code/no code platform for contact center automation."
     publishedDateTime: 2021-07-27T11:58:00Z

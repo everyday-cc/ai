@@ -2,6 +2,160 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-27-generally-capable-agents-emerge-from-open-ended-play.md",
+      "title": "Generally capable agents emerge from open-ended play",
+      "excerpt": "In new work, algorithmic advances and new training environments lead to agents which exhibit general heuristic behaviours.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play",
+      "originalUrl": "https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/Hxi_DzP2TkP8cH--3-gRNA1H6PToWpgO6Z-YpLyFLMTLfzwf5NcDzBm2ikfwi01HGlp1NQ3JdWZs9U75ySw5CUremqZzuKDm67C4MhB6ocRpuiL3A7g",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-building-a-star-trek-ai-for-the-legal-industry-lexisnexis-says-make-it-so.md",
+      "title": "Building a Star Trek AI for the Legal Industry? LexisNexis says, “Make It So.”",
+      "excerpt": "Rick McFarland, Chief Data Officer at LexisNexis! This month's special featured guest is Rick McFarland, Chief Data Officer at LexisNexis! Star Trek’s technology seemed",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/calendar-event/building-star-trek-ai-legal-industry-lexisnexis-says-make/",
+      "originalUrl": "https://www.geekwire.com/calendar-event/building-star-trek-ai-legal-industry-lexisnexis-says-make/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/Data-for-AI-Speaker-RickMcFarland.png",
+          "width": 1030,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-the-uspto-ai-innovation-journey-with-scott-beliveau-branch-chief-of-advanced-analytics-at-the-uspto.md",
+      "title": "The USPTO AI Innovation Journey with Scott Beliveau, Branch Chief of Advanced Analytics at the USPTO",
+      "excerpt": "This month’s AI in Government presenter is Scott Beliveau, Branch Chief of Advanced Analytics from the United States Patent and Trademark office (USPTO)! In his interactive discussion '",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/calendar-event/uspto-ai-innovation-journey-scott-beliveau-branch-chief-advanced-analytics-uspto/",
+      "originalUrl": "https://www.geekwire.com/calendar-event/uspto-ai-innovation-journey-scott-beliveau-branch-chief-advanced-analytics-uspto/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/October-2021-AI-in-Government-Scott-Graphic-Updated.png",
+          "width": 600,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-ai-in-computer-vision-market-worth-513-billion-by-2026-at-a-cagr-of-263.md",
       "title": "AI in Computer Vision Market worth $51.3 billion by 2026, at a CAGR of 26.3%",
       "excerpt": "The report \" AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial), End-Use Industry (Security & Surveillance, Consumer Electronics) and Geography - Global Forecast to 2026\",",
@@ -630,7 +784,7 @@
       "originalUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -872,7 +1026,7 @@
       "originalUrl": "https://www.openpr.com/news/2337136/healthcare-natural-language-processing-nlp-market-including",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1042,153 +1196,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-face-id-for-apple-macs-to-arrive-in-a-couple-of-years-gurman.md",
-      "title": "Face ID for Apple Macs to arrive in a “couple of years”: Gurman",
-      "excerpt": "Apple might just be planning on bringing Face ID system to the Mac. Known Bloomberg journalist Mark Gurman believes that Face ID will be available in Macs within a “couple of years.” Gurman shared this news on the latest edition of his Power On newsletter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/07/26/face-id-apple-mac-arrive-in-couple-of-years/",
-      "originalUrl": "https://www.gizmochina.com/2021/07/26/face-id-apple-mac-arrive-in-couple-of-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-29-at-9.34.42-PM.png",
-          "width": 1053,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-gpu-market-size-is-projected-to-reach-at-usd-20085-billion-by-2027.md",
-      "title": "GPU MARKET SIZE IS PROJECTED TO REACH AT USD 200.85 BILLION BY 2027",
-      "excerpt": "The global GPU market size was valued at 19 75 billion in 2019 and is projected to reach at 200 85 billion by 2027 growing at a CAGR of 33 6 from 2020 to 2027 Graphics processing unit which is",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027",
-      "originalUrl": "https://www.openpr.com/news/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U726795358_g.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027",
-      "publishedDateTime": "2021-07-26T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-artificial-intelligence-in-drug-discovery-market-latest-report-2021-with-size-status-value-sales-and-forecast-to-2027.md",
-      "title": "Artificial Intelligence in Drug Discovery Market Latest Report 2021, with Size, Status, Value, Sales and Forecast to 2027",
-      "excerpt": "Artificial Intelligence in Drug Discovery Market” share is expected to develop speedily in all development areas over",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-latest-report-2021-with-size-status-value-sales-and-forecast-to-2027-2021-07-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-latest-report-2021-with-size-status-value-sales-and-forecast-to-2027-2021-07-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-25T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

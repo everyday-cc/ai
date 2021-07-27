@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ford-to-deploy-self-driv
 webUrl: "https://www.marketwatch.com/press-release/ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021-2021-07-23"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
         width: 950
         height: 633
         isCached: true
-  - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
-    excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous"
-    publishedDateTime: 2021-07-23T03:05:00Z
-    webUrl: "https://wsvn.com/news/us-world/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/"
-    ampWebUrl: "https://wsvn.com/news/us-world/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/ford-argo-ai-to-deploy-autonomous-vehicles-on-lyft-network/amp/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 37
 
 secured: "+hnpIidfjI01wUTvAk7Ge3dCqwveVSQ7ZCDeh4neJ2IGS3+k+zlCqZ0llVXcYEJR8x/hiIuBo+ir39Sp4+v50za9iMFtTtl76bUGY63vLhw1Q/nk+TRp+WM/myh260LZOceR3pBrSl1zMt9V/n1ZU/nP4DvdCD6L8Z1K4V7DRzLQaEKujUcsBtSI3v22S4evtZroMjSyJbvRt3mVXKDAKapsSUn8fmROqJBS7zDYODDgPqo50Q6w558FLhH4SJSbDQCE/ZZjcwzCXPMPZzAwRowYzPGJZ5Z2oH7moP4k/bjv5+KJhUy3I/cgnj50mKZ1lFWTSy74v2XhsW1eWG7uInwdmz+foC3JNgZShLweoOQ=;DnfD4QieqY7SNNv9sJ4PeA=="
 ---

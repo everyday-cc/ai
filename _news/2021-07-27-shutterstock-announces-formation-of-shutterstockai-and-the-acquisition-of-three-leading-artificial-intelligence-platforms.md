@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Shutterstock acquires three AI-based marketing platforms"
+    excerpt: "Shutterstock Inc., a provider of stock photos, videos and other media, has formed an artificial intelligence division and acquired AI marketing platforms Pattern89, Datasine and Shotzr for a total $35 million."
+    publishedDateTime: 2021-07-27T21:43:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2021/07/27/shutterstock-buys-three-ai-marketing-platforms.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "Kiromic Announces the Acquisition of InSilico Solutions Leveraging on Bioinformatics and Artificial Intelligence to Advance Clinical Development on Its Outpatient Allogeneic ..."
     excerpt: "Kiromic announces the acquisition of InSilico Solutions leveraging on Bioinformatics and Artificial Intelligence to advance clinical development"
     publishedDateTime: 2021-07-26T22:55:00Z

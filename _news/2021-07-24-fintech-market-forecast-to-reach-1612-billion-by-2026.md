@@ -41,20 +41,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Global AI In Telecommunication Market Size, Share to Be Appraised at USD 3880 million By 2024"
-    excerpt: "Selbyville, Delaware. The report AI In Telecommunication Market Size and Analysis maintains enhanced dynamics and"
-    publishedDateTime: 2021-07-23T04:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-size-share-to-be-appraised-at-usd-3880-million-by-2024-2021-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Pharmaceutical Processing Seals Market Size To Reach USD 2.78 Billion By 2026 – Reports and Data"
     excerpt: "The growing healthcare sector and increasing consumption of pharmaceutical drugs are driving the demand for Pharmaceutical Processing Seals Market. The global pharmaceutical processing seals market is forecast to reach USD 2."
     publishedDateTime: 2021-07-27T09:52:00Z

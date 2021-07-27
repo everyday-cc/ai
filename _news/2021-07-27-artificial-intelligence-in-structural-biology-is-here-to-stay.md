@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-27T16:11:00Z
 originalUrl: "https://www.nature.com/articles/d41586-021-02037-0"
 webUrl: "https://www.nature.com/articles/d41586-021-02037-0"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02037-0/d41586-021-02037-0_19391872.jpg"

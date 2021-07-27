@@ -127,6 +127,20 @@ related:
         width: 802
         height: 537
         isCached: true
+  - title: "Fintech trade group taps chief executive"
+    excerpt: "The Financial Technology Association has tapped Penny Lee to become the newly formed lobbying group’s first chief executive. Lee most recently led the public affairs practice group at Invariant, and before that worked for the tech incubator 1776,"
+    publishedDateTime: 2021-07-27T21:50:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-influence/2021/07/27/fintech-trade-group-taps-chief-executive-796750"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 24
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Virtual partners have a growing role in the fintech space"
     excerpt: "Future-proofing fintech? We caught up with Will Marwick, CEO of the global fintech company IFX Payments to find out more"
     publishedDateTime: 2021-07-25T13:25:00Z

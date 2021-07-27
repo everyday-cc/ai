@@ -36,20 +36,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Global Artificial Intelligence in Healthcare Market Key Players, Industry Demand, Overview And Supply Chain Analysis, Forecast To 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the Global Artificial Intelligence in Healthcare Market report for for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-07-23T04:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-key-players-industry-demand-overview-and-supply-chain-analysis-forecast-to-2030-2021-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "nR9lo1eF/3ZeIXzoIuwAcZeSdKi3AIg3aT0lwUYaY33Wnqb1ZYiS4rpXfWR8vNVLBRuUCvNDLVxHKgpwdIhscFnv4arxoIx3mbh7unjEUwUIeuahardC8AurndJN1ipmMAnsWILBZIr/llfCIsGNuvfHzd36f5FcgoFj4HDLTyCB0rGANLf2e/dS+48LC+MFcIeD7wgzS3groiZRRRDAd/SHf0eA01koFpuCfAvRQvbrS3zkCyPZ2LL5sjKTiHhQPFObPJO+1Fn+xs+ZK9le2JCOz4YPYcNBeM4tdXoW0r6WIffiN9dN8el1qiMTqOyb2uC4oA6ga2We9mIuiXbm7ZUUCjfNogoadzg8uVNoV9A=;808sH1JFnaTBYABLnJtzGg=="
 ---

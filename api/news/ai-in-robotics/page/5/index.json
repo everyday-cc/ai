@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-24-fg-urges-schools-to-embrace-artificial-intelligence-robotics.md",
+      "title": "FG urges schools to embrace artificial intelligence, robotics",
+      "excerpt": "FG has urged schools in Nigeria to embrace the growth and development of artificial intelligence and robotics as this will strengthen",
+      "sourceUrl": null,
+      "webUrl": "https://tribuneonlineng.com/fg-urges-schools-to-embrace-artificial-intelligence-robotics/",
+      "originalUrl": "https://tribuneonlineng.com/fg-urges-schools-to-embrace-artificial-intelligence-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tribuneonlineng.com/wp-content/uploads/2019/10/chukwuemeka-nwajiuba3.jpg",
+          "width": 450,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribuneonlineng.com/fg-urges-schools-to-embrace-artificial-intelligence-robotics/amp/",
+      "cdnAmpWebUrl": "https://tribuneonlineng-com.cdn.ampproject.org/c/s/tribuneonlineng.com/fg-urges-schools-to-embrace-artificial-intelligence-robotics/amp/",
+      "publishedDateTime": "2021-06-23T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nigerian Tribune",
+        "domain": "tribuneonlineng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy.md",
       "title": "Investing in AI Healthcare; Analysts Offer 2 Stocks to Buy",
       "excerpt": "It’s estimated that AI as a whole will boost the global economy by more than $15 trillion by the year 2030, and a significant piece of that will emerge in the healthcare sector. By 2026, the midpoint of that forecast,",
@@ -1314,40 +1357,6 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-paraplegic-performs-world-cups-ceremonial-first-kick-in-mind-controlled-robotic-suit.md",
-      "title": "Paraplegic Performs World Cup's Ceremonial First Kick in Mind-Controlled Robotic Suit",
-      "excerpt": "Juliano Pinto, a 29-year old paraplegic, kicked the official game ball a short distance with the help of a robotic exoskeleton that he controlled with just his mind. The mind-controlled robotic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2014/06/paraplegic-performs-world-cups-ceremonial-first-kick-in-mind-controlled-robotic-suit.html",
-      "originalUrl": "https://www.medgadget.com/2014/06/paraplegic-performs-world-cups-ceremonial-first-kick-in-mind-controlled-robotic-suit.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
