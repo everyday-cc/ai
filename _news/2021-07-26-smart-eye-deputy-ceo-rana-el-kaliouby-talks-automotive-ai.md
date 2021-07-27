@@ -3,8 +3,8 @@ category: news
 title: "Smart Eye Deputy CEO Rana el Kaliouby talks automotive AI"
 excerpt: "Rana el Kaliouby co-founded and led Boston startup Affectiva, which uses artificial intelligence and computer vision to analyze mood and emotion. Now she's got a new job as deputy CEO of Smart Eye, after the Swedish eye-tracking company bought Affectiva for $73."
 publishedDateTime: 2021-07-26T13:10:00Z
-originalUrl: "https://apnews.com/04e14f50e1b6843af76cf00e0d23d38e"
-webUrl: "https://apnews.com/04e14f50e1b6843af76cf00e0d23d38e"
+originalUrl: "https://apnews.com/article/technology-business-04e14f50e1b6843af76cf00e0d23d38e"
+webUrl: "https://apnews.com/article/technology-business-04e14f50e1b6843af76cf00e0d23d38e"
 type: article
 quality: 37
 heat: 37
@@ -39,6 +39,6 @@ related:
         height: 575
         isCached: true
 
-secured: "E7eWqTjymjodh01ADCo9oSkb//kBuU/vbdC9Y44WsfgyBPXuFmMHrAOJoevD3qaudF+sWBvtCwEkhWZ4q/Q9nMR5dc2CQbcVYMyFMX4LWfjk+RoZlGirlDb1seth9hNDlI/Uc0D4f7BiCzPmgYS/MgldKblkcT9GM2W89+TBCo4gdaaOZdclQgrEaGZewjUE+D6HMvPDwsz60U+A21a1N4kC7Dtl9xuDTQESvceenBPUh+M8RF6g5phc/k3Uy+BJ3nfMXYYoqe48NH5mlIai3aYargfQDq7Yg6Mecf2geOiz5HOh9FV/UoE8mjQpGucV83xzFhR+u/HE7iJApZYss+zcwrAWNUAG6bV9FXza1Hs=;ScNwwPY44Y9l57omXlU1Bg=="
+secured: "KjZO50WCHZF57ThPFhV+1Lo6vLqjvLyHhhriELT5NCOfoaWG6otp/NquZnYvHGPItYXg9Ap5A0bFBeGiVHPE8HGjbvI7oqwA5fHwT06gMY5jC7UOr8/LzVi2ZfLPOurUfe3VTzgQKhECfRd07ZTJ6sWAVB8ewqqo+TW5QReGPd88m+C+eYv7fO7XaVZHIKJiAj/mWvb1rYp11vqN8A79xe4uF9KPmYNrtqjG3tTaTQN7aPu9U00jKLO3JAKJIGwrLXiRbmrgN68aUH1+RCxQKWyjQxNJeaeGzfMXwilj4LUceVcRSENBNo/y93Nm6ess+621oE7NmjpR9AN8iYd7c7X9uOGip8pdRJGym5GLg1s=;4uwthjcqUtfO6DrsVy8bjg=="
 ---
 

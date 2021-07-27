@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Detecting Acute Stroke Early with Artificial Intelligence and Imaging"
-    excerpt: "Scientists are using artificial intelligence (AI) to improve imaging techniques so that ischemic and hemorrhage strokes might be identified faster."
-    publishedDateTime: 2021-07-22T08:15:00Z
-    webUrl: "https://www.azooptics.com/Article.aspx?ArticleID=1976"
-    ampWebUrl: "https://www.azooptics.com/amp/article.aspx?ArticleID=1976"
-    cdnAmpWebUrl: "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/article.aspx?ArticleID=1976"
+  - title: "AI helping researchers improve solar data from the Sun"
+    excerpt: "It's also important for deep space missions, which won't have the option of sounding rocket calibration. We're tackling two problems at once."
+    publishedDateTime: 2021-07-25T14:49:00Z
+    webUrl: "https://www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html/amp"
     type: article
     provider:
-      name: AZoOptics
-      domain: azooptics.com
-    quality: 61
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 57
     images:
-      - url: "https://d36nqgmw98q4v5.cloudfront.net/images/Article_Images/ImageForArticle_1976_16269415644258204.jpg"
-        width: 1000
-        height: 661
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/07/AI-helping-researchers-improve-solar-data-from-the-Sun.jpg"
+        width: 777
+        height: 437
         isCached: true
 
 secured: "hIURPOXRvrcR4qDOGWMbnhzlxdDH+Rh2iRHkQl/wDbn3tyCdL/nYnGufXTzM23Lyzd3ScHqmIKdYHCuZgGd9utJe2Wl5Z9RjsoNXHjJEQiccoPx3WdXFhqcVfmkljHgnsKQw7XQa+TSd/qENr8nwZZ1JG6GjiIrLxpcKk0pwvgcVE6gabkre4tUJAjBFJ1a6VunBWZf+TybdLgf+5OJbTu7Qw3fZNeyMXB8yGXuQXZKMOZ69lVLdqjvswuNsEQ8qWZcZT5zxzfNHFVDgtM1g0GhQbSxR1twSmULJZXCt429GFz2ad1oI2K9RUtyOSbaS/kpTUEfgD15KaNHZokf0i0IR/lsxQNpBNn2ekbWAroY=;OKecJrcY0lTEiaj8ufwfCQ=="

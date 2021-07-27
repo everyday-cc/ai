@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI firm DeepMind puts database of the building blocks of life online"
-    excerpt: "AlphaFold program’s prediction of nearly 20,000 human protein structures now free for researchers"
-    publishedDateTime: 2021-07-22T14:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online"
+  - title: "DeepMind creates ‘transformative’ map of human proteins drawn by artificial intelligence"
+    excerpt: "AI research lab DeepMind has created the most comprehensive map of human proteins to date using artificial intelligence. The company, a subsidiary of Google-parent Alphabet, is releasing the data ..."
+    publishedDateTime: 2021-07-22T18:44:00Z
+    webUrl: "https://www.theverge.com/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 78
+      name: The Verge
+      domain: theverge.com
+    quality: 95
     images:
-      - url: "https://i.guim.co.uk/img/media/ef81acebb3a81125fb6fecdba6854aa2471d3975/0_0_2480_1488/master/2480.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b341a135256aaebd72cbd7d0e638659"
-        width: 600
-        height: 360
+      - url: "https://cdn.vox-cdn.com/thumbor/FCzoEFavxHNtxLa16PQcFVi_oUc=/0x0:2130x1420/1400x933/filters:focal(895x540:1235x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69617097/VRG_ILLO_1777_AK_body_data.0.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "DeepMind offers AI tool to predict shape of all human proteins"
     excerpt: "Artificial intelligence has solved one of the greatest puzzles in biology, by predicting the shape of every protein expressed in the human body. The research was carried out by London AI company DeepMind,"
@@ -73,20 +73,6 @@ related:
         width: 918
         height: 506
         isCached: true
-  - title: "DeepMind’s protein-mapping breakthrough is awesome, but it sure as heck isn’t free"
-    excerpt: "DeepMind just released a protein-mapping system to the general public that could be one of the biggest breakthroughs in decades. But at what cost?"
-    publishedDateTime: 2021-07-22T20:01:00Z
-    webUrl: "https://thenextweb.com/news/deepmind-protein-folding-breakthrough-ai-isnt-free"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 63
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Fpichaiscience.jpg&signature=38050f2f9369c452930e1b34c7d9a994"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Google's DeepMind creates ‘transformative’ map of human proteins drawn by Artificial Intelligence"
     excerpt: "Researchers at Google's DeepMind and the European Molecular Biology Laboratory (EMBL) have unveiled the most exhaustive database yet of the proteins that form the building blocks of life, The database of 20,"
     publishedDateTime: 2021-07-22T16:15:00Z
@@ -116,20 +102,6 @@ related:
       - url: "https://media.wired.co.uk/photos/60f84831cd5e8139e11332eb/16:9/w_1280,c_limit/2221-WIRED-Deepmind.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Enzyme researchers partner with pioneering AI company, DeepMind,"
-    excerpt: "University of Portsmouth joins leading AI researchers at DeepMind to help engineer faster acting enzymes for recycling some of the worlds most"
-    publishedDateTime: 2021-07-23T05:46:00Z
-    webUrl: "https://www.miragenews.com/enzyme-researchers-partner-with-pioneering-ai-601319/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 54
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
         isCached: true
 
 secured: "RiTw6rfyQ0L0cuBJ6QI8wLyUeVZUQF1gvrbuHadPPJJKNdohq13JcpC/h+xqU313J/wbAGOPoBNIY89kE4D34MKBEc6ZhfnR9tTXdGdfYsvTdXWK+xwHPxz2CsrgSYdhL4waHmb1luQa9kI7IDqwhcEJoFEtisoaXPBrnJ7eKRkUvi4TGfq5cOjSabreEHpdshoUy3bQFIQuzZV6q5OXyrHF1YPl6kasqfmAbww072TYh3kyxwL/LM6QyKoD+PXQEJMvfwm0ve+dBLhy5qsaDrkT440LdaBpkSUBOaaota1PP8a5eJ2B9VF2ZF22MX8BtseACb9JXm+wIEzPFEiPRo+ZRUkMzYGqaF7pM3ucfiWygiaXVNOIwrRs+em9woRgcLaSaY4338kdDSXkxXLKMOT6nI6+uhJhWywgPRr3aJOwIoczDcIlDeyJClSu+UJ46zICt4CuZrsn5Q56I34z3YfwgNUqIwTP92vSWlXXhigyERO4Fmk6BhYauKwy4tZMVKKcCT6ODj29H0qhzxxGEw==;3r5WV+Mxz2zdnzwD2sutUA=="

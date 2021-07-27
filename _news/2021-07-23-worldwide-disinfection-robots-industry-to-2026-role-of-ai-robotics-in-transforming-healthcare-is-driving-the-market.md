@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19916974.html"
 webUrl: "https://www.lelezard.com/en/news-19916974.html"
 type: article
 quality: 62
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.allaboutcircuits.com/uploads/thumbnails/mit_movement_aware_robotics_thumbnail.jpg"
         width: 700
         height: 300
+        isCached: true
+  - title: "Love robots + UI: The role of AI in the design industry"
+    excerpt: "Having AI tools at hand boosts engagement, leads to more conversions, and provides an overall meaningful experience."
+    publishedDateTime: 2021-07-26T22:40:00Z
+    webUrl: "https://uxdesign.cc/love-robots-ui-the-role-of-ai-in-the-design-industry-2e87bd8b25c2"
+    type: article
+    provider:
+      name: uxdesign.cc
+      domain: uxdesign.cc
+    quality: 54
+    images:
+      - url: "https://miro.medium.com/max/1200/1*0EOqrDcqzUQcoIuV08-a3A.png"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Construction Robot Market Set Witness an Uptick during size 2025"
     excerpt: "Construction industry is one of the few industries in the world that rely mainly on manual labor due to which the adoption of automation, including robotics is very less. However, this trend is expected to change due to the factors mentioned below: There is an increase in the number of start-ups and pure players focusing on 3D-printing of building over the last few years."

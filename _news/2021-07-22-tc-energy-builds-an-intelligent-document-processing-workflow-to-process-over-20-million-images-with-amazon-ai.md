@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/tc-energy-builds-an-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/tc-energy-builds-an-intelligent-document-processing-workflow-to-process-over-20-million-images-with-amazon-ai/"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 800
     height: 623
     isCached: true
-
-related:
-  - title: "Eight approaches to processing natural-language-enabled AI"
-    excerpt: "Conversational AI goes far beyond chatbots. AI systems that process natural language engage in humanlike dialog, understand context, and offer intelligent responses in milliseconds. Put simply, natural language processing is a computer program that understands human language the way it is spoken."
-    publishedDateTime: 2021-07-22T07:58:00Z
-    webUrl: "https://www.publicnow.com/view/B3E390D6B7EFF50A8099D494F48B05491A408D81"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 19
 
 secured: "aV9jZTYebOwx2MC4TE+Wwf+vXLGI4ZXE3qiunZshBXSMTSou/d56xg/kWGhFgqquD4JtPAuMqJXS0GbKRGuP9X70jSFUiSqVgeQj0fMHgVW2NAJdI4LODGyx6hSn20DW8nLRloEK33skdFNZEu5QuiftvOdJY40Ydx0NLC4rmhXlm0uVGvCsnOpZin6ZS4Wjw2MT4q88AErydt9JgDym2LLnwkpxOwwbpgYeOL7kAku0Aly5erODxpuf0psXxn37AZkIwOiWmjBfYb2fN8XdKxiTPeBxN3K++aBnhB9Pw8Eaxdsgx0yGU0Bxwx3QWxrAg3C2ejVNq1fT5z8C03030d77ivWgQR1J3SfSBy60TI8=;r4jq9z/b04FjQhbL+mGZLA=="
 ---

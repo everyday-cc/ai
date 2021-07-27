@@ -42,6 +42,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "AI driving the future of in-car systems"
+    excerpt: "Carmakers are bracing for new safety rules and standards around the world that could require dashboard cameras to detect dangerous driver behavior."
+    publishedDateTime: 2021-07-27T00:18:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/07/26/ai-driving-future-car-systems/5381767001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5381767001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5381767001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 57
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/27/PDTN/940dab9d-4acd-44fe-8917-8568d3dcf615-AP21200525050750.jpg?auto=webp&crop=1023,576,x0,y74&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "How Artificial Intelligence Will Shape Our Future"
     excerpt: "The future of AI is both exciting and frightening, and our company is trying to democratize access to AI services and contribute to its safe development."
     publishedDateTime: 2021-07-24T00:44:00Z

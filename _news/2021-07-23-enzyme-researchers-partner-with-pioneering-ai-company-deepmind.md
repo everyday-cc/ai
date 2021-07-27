@@ -41,38 +41,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "DeepMind offers AI tool to predict shape of all human proteins"
-    excerpt: "Artificial intelligence has solved one of the greatest puzzles in biology, by predicting the shape of every protein expressed in the human body. The research was carried out by London AI company DeepMind,"
-    publishedDateTime: 2021-07-22T15:00:00Z
-    webUrl: "https://www.ft.com/content/fbcc9af4-8dcd-4385-85d5-59c180175b67"
-    ampWebUrl: "https://amp.ft.com/content/fbcc9af4-8dcd-4385-85d5-59c180175b67"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/fbcc9af4-8dcd-4385-85d5-59c180175b67"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 74
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd7ee639-1315-4a0d-beca-bc49f924e65b.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Google's DeepMind creates ‘transformative’ map of human proteins drawn by AI"
-    excerpt: "Researchers at Google's DeepMind and the European Molecular Biology Laboratory (EMBL) have unveiled the most exhaustive database yet of the proteins that form the building blocks of life, The database of 20,"
-    publishedDateTime: 2021-07-22T16:15:00Z
-    webUrl: "https://www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-ai-399800"
-    ampWebUrl: "https://www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-ai-399800/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-ai-399800/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 71
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/07/22/203409-untitled-design-34.jpg"
-        width: 918
-        height: 506
-        isCached: true
   - title: "DeepMind’s protein-mapping breakthrough is awesome, but it sure as heck isn’t free"
     excerpt: "DeepMind just released a protein-mapping system to the general public that could be one of the biggest breakthroughs in decades. But at what cost?"
     publishedDateTime: 2021-07-22T20:01:00Z
@@ -86,50 +54,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Fpichaiscience.jpg&signature=38050f2f9369c452930e1b34c7d9a994"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Google's DeepMind creates ‘transformative’ map of human proteins drawn by Artificial Intelligence"
-    excerpt: "Researchers at Google's DeepMind and the European Molecular Biology Laboratory (EMBL) have unveiled the most exhaustive database yet of the proteins that form the building blocks of life, The database of 20,"
-    publishedDateTime: 2021-07-22T16:15:00Z
-    webUrl: "https://www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-artificial-intelligence-399800"
-    ampWebUrl: "https://www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-artificial-intelligence-399800/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-artificial-intelligence-399800/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 61
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/07/22/203409-untitled-design-34.jpg"
-        width: 918
-        height: 506
-        isCached: true
-  - title: "DeepMind’s AI has finally shown how useful it can be"
-    excerpt: "AlphaFold has provided the clearest picture yet of the human proteome. Now DeepMind is making its work available to the world"
-    publishedDateTime: 2021-07-22T15:00:00Z
-    webUrl: "https://www.wired.co.uk/article/deepmind-protein-folding-database"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 54
-    images:
-      - url: "https://media.wired.co.uk/photos/60f84831cd5e8139e11332eb/16:9/w_1280,c_limit/2221-WIRED-Deepmind.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Google’s DeepMind puts human proteome online for free"
-    excerpt: "The most complete database of protein structures ever assembled, developed with the help of Google’s artificial intelligence unit"
-    publishedDateTime: 2021-07-26T09:27:00Z
-    webUrl: "https://pharmaphorum.com/news/googles-deepmind-puts-human-proteome-online-for-free/"
-    type: article
-    provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
-    quality: 39
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2021/07/AlphaFold.jpg"
-        width: 840
-        height: 473
         isCached: true
 
 secured: "2kMgUOEqTdFKVRs+goFbOTS9En/wxbpA03f+t54kFviauw2fZYBqd7PoTfUMxjF4f7oo0DTQWmvIlAhGba5YvT81/ki9kITDghQmSsVe62KOpHSPQEkUmQ70tHBEIJTvvNktiBCQblHJTvrdjkW3rzUE4GYuozEc6EvnDDsgpbG4RRhQGAEb8oR9j/tgeYXHWp1tVpkHCUuwqWfAvy2vJEUO3pFNJiJSd8Y9ue+aGl9yGeuxWSeeFzqpdHIut9y1mvMwEg4j7/xGiI2sgv9QNxAniHt5m1yiTdNnluwbOcJc+UXTj5qTnUU50gaD1UMGC9iw/vCcVRO+mcCydd+s89aNj0A4UkRiKfoPSWneT+Q=;5o5B1aYFUSe/z/Amlj+2Pw=="

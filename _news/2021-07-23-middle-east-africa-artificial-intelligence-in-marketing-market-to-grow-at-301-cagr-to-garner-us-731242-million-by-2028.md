@@ -28,70 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based Surgical Robots Market Size to Register 16% CAGR During 2021-2027"
-    excerpt: "Selbyville, Delaware, Global AI-based Surgical Robots Market size to reach USD 13.2 billion by 2027 and is valued approximately USD 4.7 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 16% over the forecast period 2021-2027."
-    publishedDateTime: 2021-07-22T08:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22"
+  - title: "AI in Computer Vision Market worth $51.3 billion by 2026, at a CAGR of 26.3%"
+    excerpt: "The report \" AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial), End-Use Industry (Security & Surveillance, Consumer Electronics) and Geography - Global Forecast to 2026\","
+    publishedDateTime: 2021-07-26T22:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-513-billion-by-2026-at-a-cagr-of-263-2021-07-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 82
+    quality: 81
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "GPU MARKET SIZE IS PROJECTED TO REACH AT USD 200.85 BILLION BY 2027"
-    excerpt: "The global GPU market size was valued at 19 75 billion in 2019 and is projected to reach at 200 85 billion by 2027 growing at a CAGR of 33 6 from 2020 to 2027 Graphics processing unit which is"
-    publishedDateTime: 2021-07-26T08:00:00Z
-    webUrl: "https://www.openpr.com/news/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027"
-    ampWebUrl: "https://www.openpr.com/amp/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027"
+  - title: "Global Artificial Intelligence in Energy Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "The Artificial Intelligence in Energy market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic and global ..."
+    publishedDateTime: 2021-07-22T14:18:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4684823-global-artificial-intelligence-in-energy-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/7/U726795358_g.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Global AI In Telecommunication Market Size, Share to Be Appraised at USD 3880 million By 2024"
-    excerpt: "Selbyville, Delaware. The report AI In Telecommunication Market Size and Analysis maintains enhanced dynamics and"
-    publishedDateTime: 2021-07-23T04:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-size-share-to-be-appraised-at-usd-3880-million-by-2024-2021-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market"
-    excerpt: "The global AI in Healthcare Market size is expected to grow from USD XX billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period. At present,"
-    publishedDateTime: 2021-07-23T17:20:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-global-size-share-statistics-historical-analysis-and-industry-growth-evolving-players-intel-ibm-google-microsoft-general-vision/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 36
-  - title: "Automotive Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 Government regulations across the globe are getting stringent for the safety of driver without making them compromise on their comfort"
-    publishedDateTime: 2021-07-22T10:45:00Z
-    webUrl: "https://www.openpr.com/news/2334680/automotive-artificial-intelligence-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "ljtVbgOzAucLGNal2AV3BRW9mj5E0jhv0+WhBwfuPshksWi4B08nR5TJZ5acuMlAn10Wj6SRcR8bRkkD6rt2yKO9oOw3I2U1vjiwdJV/UfUpuxU5i5k/uvpGCNTTlzrJ4dZZ+Yeiz3Dc2JKXL++ooPJamJJVxyXlyCy19yOIwokyFkPlrgurNpZHmm3GY6Eq8e7YNID8kkSNHcJ3Ec0xzOrdWuz/Lohc28BCDXT5LeBcSDi8cL0yqZ92l7SHIOqPlZ/x5c+DJFl1WEj/SCvQZztWvFyenpDQF6gNwDGmOum3Lpd3ISuE7j+M+jFy7fJNVgz/CpYlgGdrSdnbj636LM27FhRZ6lkZRHnF50AasBatKGAh33RW2zh1BvSLpCuUOnWRiVftfunzwvWUoExv/upL1QuxT094bj/c+TyvYYC0JlVC2YCbRCPR4k1iM42cmTKDKt0S2RETJiNNvp0IoH4oRMKOr7/5IBltEHSz+zuYwDOmhM/L7+WJc0Z0k83VkwLKMNi6bNyNV9COjhSbDQ==;nCKchd94+SKFGfhFKkaBvg=="
 ---

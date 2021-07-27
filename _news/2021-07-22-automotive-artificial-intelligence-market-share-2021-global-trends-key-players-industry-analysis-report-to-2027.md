@@ -21,75 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "AI-based Surgical Robots Market Size to Register 16% CAGR During 2021-2027"
-    excerpt: "Selbyville, Delaware, Global AI-based Surgical Robots Market size to reach USD 13.2 billion by 2027 and is valued approximately USD 4.7 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 16% over the forecast period 2021-2027."
-    publishedDateTime: 2021-07-22T08:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "GPU MARKET SIZE IS PROJECTED TO REACH AT USD 200.85 BILLION BY 2027"
-    excerpt: "The global GPU market size was valued at 19 75 billion in 2019 and is projected to reach at 200 85 billion by 2027 growing at a CAGR of 33 6 from 2020 to 2027 Graphics processing unit which is"
-    publishedDateTime: 2021-07-26T08:00:00Z
-    webUrl: "https://www.openpr.com/news/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027"
-    ampWebUrl: "https://www.openpr.com/amp/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/7/U726795358_g.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Global AI In Telecommunication Market Size, Share to Be Appraised at USD 3880 million By 2024"
-    excerpt: "Selbyville, Delaware. The report AI In Telecommunication Market Size and Analysis maintains enhanced dynamics and"
-    publishedDateTime: 2021-07-23T04:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-size-share-to-be-appraised-at-usd-3880-million-by-2024-2021-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Middle East & Africa Artificial Intelligence in Marketing Market to Grow at 30.1% CAGR to Garner US$ 7,312.42 million by 2028"
-    excerpt: "The artificial intelligence in marketing market in MEA is expected to reach US 7 312 42 million by 2028 from US 1 159 26 million in 2021 The market is estimated to grow at a CAGR of 30 1 from"
-    publishedDateTime: 2021-07-23T09:18:00Z
-    webUrl: "https://www.openpr.com/news/2335658/middle-east-africa-artificial-intelligence-in-marketing"
-    ampWebUrl: "https://www.openpr.com/amp/2335658/middle-east-africa-artificial-intelligence-in-marketing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2335658/middle-east-africa-artificial-intelligence-in-marketing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
-    images:
-      - url: "https://cdn.openpr.com/U/7/U723557741_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market"
-    excerpt: "The global AI in Healthcare Market size is expected to grow from USD XX billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period. At present,"
-    publishedDateTime: 2021-07-23T17:20:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-global-size-share-statistics-historical-analysis-and-industry-growth-evolving-players-intel-ibm-google-microsoft-general-vision/"
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market Outlook 2021: Big Things are Happening | Microsoft, NVIDIA Corporation, IBM, Atomwise"
+    excerpt: "The global Artificial Intelligence (AI) in Drug Discovery Market is projected to reach USD 3,932.87 million by 2027 from USD XX million in 2020, at a CAGR of 40.8% during the forecast period (2021–2027)."
+    publishedDateTime: 2021-07-22T14:16:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-drug-discovery-market-outlook-2021-big-things-are-happening-microsoft-nvidia-corporation-ibm-atomwise/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 36
+    quality: 17
 
 secured: "8xaQRwEket2FgnqFgnA2C3+RLhePcwZ3eRYT4USMk7Roi63Yw7Vw8RD2033gqfFrSVscr1Fu6gVWpTLb4vQ9+mnHNv9blypNdUVDeDcB2MhK4Lln16C1dwVixDWc1r23pTL1ofXhn4FzkJ1sk6mSOnAIJU7PHC5jeeenpsPRizw1rzcVNqiDH5UHi0c/EqQ16QJ/ZM4NsTatCvResQGjDm+UlyCKS1ZXkDToIhscFaOCvf6rYzkyZW4YcSkCYrS9RDUKANHtxEMMeTudGFPv8x3ENmJK8L4+MEon0QolomGzv9pQMBJhvKakvg5KsJxLQgg4+kCDa8UxIj4JM+vGsJisMyaWI7sL/+U6h9GfUyQ=;T5KXClLlWyJmNcjiMGqkhQ=="
 ---

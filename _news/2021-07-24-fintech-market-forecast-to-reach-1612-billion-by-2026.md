@@ -25,74 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Buy This $10 Fintech Stock Before It Even Hits the Market"
-    excerpt: "But over the last decade or so, they've been increasingly feeling the heat as financial technology – fintech – disrupts more and more operations that were once the exclusive preserve of the banks. Personal finance,"
-    publishedDateTime: 2021-07-22T09:01:00Z
-    webUrl: "https://moneymorning.com/2021/07/22/buy-this-10-fintech-stock-before-it-even-hits-the-market/"
-    ampWebUrl: "https://moneymorning.com/2021/07/22/buy-this-10-fintech-stock-before-it-even-hits-the-market/amp/"
-    cdnAmpWebUrl: "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2021/07/22/buy-this-10-fintech-stock-before-it-even-hits-the-market/amp/"
+  - title: "GPU MARKET SIZE IS PROJECTED TO REACH AT USD 200.85 BILLION BY 2027"
+    excerpt: "The global GPU market size was valued at 19 75 billion in 2019 and is projected to reach at 200 85 billion by 2027 growing at a CAGR of 33 6 from 2020 to 2027 Graphics processing unit which is"
+    publishedDateTime: 2021-07-26T08:00:00Z
+    webUrl: "https://www.openpr.com/news/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027"
     type: article
     provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 44
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
     images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2021/07/Shah722-1.jpg"
-        width: 1199
-        height: 801
+      - url: "https://cdn.openpr.com/U/7/U726795358_g.jpg"
+        width: 600
+        height: 338
         isCached: true
-  - title: "India’s Fintech Market: Growth Outlook and Investment Opportunities"
-    excerpt: "India has the third largest fintech ecosystem globally and 67 percent of more than 2,100 fintech entities in operation have been set up since 2016."
-    publishedDateTime: 2021-07-26T10:26:00Z
-    webUrl: "https://www.india-briefing.com/news/indias-fintech-market-growth-outlook-and-investment-opportunities-22764.html/"
+  - title: "Global AI In Telecommunication Market Size, Share to Be Appraised at USD 3880 million By 2024"
+    excerpt: "Selbyville, Delaware. The report AI In Telecommunication Market Size and Analysis maintains enhanced dynamics and"
+    publishedDateTime: 2021-07-23T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-size-share-to-be-appraised-at-usd-3880-million-by-2024-2021-07-23"
     type: article
     provider:
-      name: india-briefing.com
-      domain: india-briefing.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: "https://www.india-briefing.com/news/wp-content/uploads/2021/07/India’s-Fintech-Market-Growth-Outlook-and-Investment-Opportunities.jpg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "Fiserv vs. Rimini Street: Which Fintech Stock is a Better Buy?"
-    excerpt: "The prices of most fintech stocks have skyrocketed amid the pandemic thanks to a significant increase in remote transactions. This trend is expected to continue for the foreseeable future with rapid,"
-    publishedDateTime: 2021-07-26T19:49:00Z
-    webUrl: "https://stocknews.com/news/rmni-fisv-fiserv-vs-rimini-street-which-fintech-stock-is-a-better/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
-  - title: "New FinTech Innovations that Will Change How Clients View Wealth Management"
-    excerpt: "Innovations within FinTech are causing major changes to the dynamic between clients and wealth management providers. With technology as a driving force behind industry changes, understanding how client perspectives are shifting is crucial."
-    publishedDateTime: 2021-07-23T19:42:00Z
-    webUrl: "https://finchannel.com/new-fintech-innovations-that-will-change-how-clients-view-wealth-management/"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 22
-    images:
-      - url: "https://finchannel.com/wp-content/uploads/2018/08/images_fintech.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "5 Overvalued Growth Stocks to Avoid as Market Conditions Get More Bearish | Fintech Zoom"
-    excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
-    publishedDateTime: 2021-07-24T05:39:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/5-overvalued-growth-stocks-to-avoid-as-market-conditions-get-more-bearish-fintech-zoom/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 15
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/shutterstock_590795564-scaled.jpg"
-        width: 2560
-        height: 1700
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "h5ALSWTRQ7jGvIY5KJQJ9CYsd3RdtfSjXqxOGMGns91kW1YnCbx+ax/WhVxruHYo5JS4gpOzEsjjDr2OXAu4Bu6WRt0mJzxExfMHtY8E3Cze4JUdISgd/sR0p+YOevt+OGT0Dv/0a54t4tQTo1kIrSPPnzVUmVNQTa5x4y6zcBgTH+cHbXkex8Ae48rfMQuRzo82QKLEIUISKeDbqQzYolgeJpi3zkuNK4Ohm1jufAguTHyNo/+5WRZDW7Hvnt7dMGtDllnBDyG5p7TbyFNzVUIugwaV1Bf66Kj3bpEvxEs24RivBTr751vjEzoHKH/hq3jn5yV+JhoOzagJxQQaxGZWhThDyiujyAXFHyRK87c=;XwGtQSLhbl+X82WWdFGc9g=="

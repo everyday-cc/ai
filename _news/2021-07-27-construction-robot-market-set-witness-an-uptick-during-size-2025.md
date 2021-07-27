@@ -53,6 +53,20 @@ related:
         width: 700
         height: 300
         isCached: true
+  - title: "Love robots + UI: The role of AI in the design industry"
+    excerpt: "Having AI tools at hand boosts engagement, leads to more conversions, and provides an overall meaningful experience."
+    publishedDateTime: 2021-07-26T22:40:00Z
+    webUrl: "https://uxdesign.cc/love-robots-ui-the-role-of-ai-in-the-design-industry-2e87bd8b25c2"
+    type: article
+    provider:
+      name: uxdesign.cc
+      domain: uxdesign.cc
+    quality: 54
+    images:
+      - url: "https://miro.medium.com/max/1200/1*0EOqrDcqzUQcoIuV08-a3A.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
     excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at 9.4%, finds"
     publishedDateTime: 2021-07-26T08:02:00Z

@@ -39,6 +39,15 @@ related:
         width: 1620
         height: 1080
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market"
+    excerpt: "The global AI in Healthcare Market size is expected to grow from USD XX billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period. At present,"
+    publishedDateTime: 2021-07-23T17:20:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-global-size-share-statistics-historical-analysis-and-industry-growth-evolving-players-intel-ibm-google-microsoft-general-vision/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
 
 secured: "E706Ubt3xxmyX7DPTg0NcVWanbZpFVk1gOnPPV51G+j3DIcA7hv5yZi4eVueXNoX9Ngfa39G4OAGfN60ybccwZBPELfJTvem0d4GbcVSoLeut8KFO3tDY4nRQA7tL31JZwO1ME4Nr1bhgtZZeoy7HyUinLa72fn6JtkTTtqiFniWfOPIaqPDcCK9joUF2oIl+l+THr/9LMJP6wiyvHkIpfEa5CYMrCvoZzQVn3/jXV8Zy4wQgArnxhah6XmFYxcthqDosIP7T1ho4zQXkdmV88QuwbzjxtVxPxiIgMLgPgYrbNzhuPbFZmL9fJBWllbGbZINFnKGJO/pYr6j0LA9qvwWG3OsJCNqEthpXjDVMQ0=;4Tk+epANwN5mAW3copr9Xg=="
 ---

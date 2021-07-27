@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "UK fintech Napier sets up office at Dubai’s leading financial center"
-    excerpt: "Napier already works on AI-led anti-financial crime solutions with many organizations across MEASA, including the Saudi Arabian Monetary Agency, Central Bank of UAE and directly with DIFC"
-    publishedDateTime: 2021-07-22T07:34:00Z
-    webUrl: "https://www.zawya.com/uae/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_226923548/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_226923548/"
+  - title: "Corporate Spend Management Opens B2B FinTech Floodgates"
+    excerpt: "This week's B2B FinTech funding roundup sees two corporate spend management companies each raising more than $100,000 to boost real-time expense visibility"
+    publishedDateTime: 2021-07-23T12:00:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/spend-expense-management-venture-capital/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/spend-expense-management-venture-capital/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/spend-expense-management-venture-capital/amp/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
     images:
-      - url: "https://images.zawya.com/images/cia/zAmp/210330032159USWL.jpeg"
-        width: 1200
-        height: 800
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/Proactis-Aurachain-expense-management-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "How Fintech Is Helping To Streamline Businesses Financial Operations"
     excerpt: "It is especially common when the economy is unstable. Fintech makes things better. It uses machine learning and AI algorithms to understand and detect your business finance patterns over time. If anything seems incorrect or unusual, it is flagged down for ..."
@@ -93,6 +93,20 @@ related:
         width: 533
         height: 367
         isCached: true
+  - title: "India’s Fintech Market: Growth Outlook and Investment Opportunities"
+    excerpt: "India has the third largest fintech ecosystem globally and 67 percent of more than 2,100 fintech entities in operation have been set up since 2016."
+    publishedDateTime: 2021-07-26T10:26:00Z
+    webUrl: "https://www.india-briefing.com/news/indias-fintech-market-growth-outlook-and-investment-opportunities-22764.html/"
+    type: article
+    provider:
+      name: india-briefing.com
+      domain: india-briefing.com
+    quality: 24
+    images:
+      - url: "https://www.india-briefing.com/news/wp-content/uploads/2021/07/India’s-Fintech-Market-Growth-Outlook-and-Investment-Opportunities.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Reasons to invest in fintech"
     excerpt: "Fintech (financial technology) is a relatively new industry sector that has grown enormously in recent years but still has a huge amount of potential. Encompassing a full range of financial services from payment processing to banking and peer-to-peer (P2P) lending,"
     publishedDateTime: 2021-07-26T13:24:00Z
@@ -107,19 +121,33 @@ related:
         width: 1379
         height: 920
         isCached: true
-  - title: "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-07-25T19:28:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/infobirds-successful-launch-of-intelligent-saas-for-a-leading-fintech-company-paves-the-way-for-further-expansion-in-financial-industry/"
+  - title: "New FinTech Innovations that Will Change How Clients View Wealth Management"
+    excerpt: "Innovations within FinTech are causing major changes to the dynamic between clients and wealth management providers. With technology as a driving force behind industry changes, understanding how client perspectives are shifting is crucial."
+    publishedDateTime: 2021-07-23T19:42:00Z
+    webUrl: "https://finchannel.com/new-fintech-innovations-that-will-change-how-clients-view-wealth-management/"
     type: article
     provider:
-      name: fintechzoom
-      domain: fintechzoom.com
+      name: The Financial
+      domain: finchannel.com
+    quality: 22
+    images:
+      - url: "https://finchannel.com/wp-content/uploads/2018/08/images_fintech.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Minna Technologies joins Visa Fintech Partner Connect to bring subscription management solution to Visa's clients and partners"
+    excerpt: "Minna Technologies, the Swedish tech company on a mission to help retail banks deliver powerful digital experiences within subscription management, today announced that it has joined Visa Fintech Partner Connect - a program designed to help"
+    publishedDateTime: 2021-07-22T11:43:00Z
+    webUrl: "https://www.lelezard.com/en/news-19914899.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
     quality: 0
     images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1627237893_yahoo_default_logo-1200x1200.png"
-        width: 1200
-        height: 1200
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "ZtIgERK0Q95WgkowX4J35WCRQTl/9JArV9J4Mt31Mu7/a3pKAVtLqz5XTwFSG4hwAk2i01I5yjtDCMIIw2AHsqr8xYhUZGJJTuu8BVxkwwOHa31F8W7ThycXW+xIx8f7wdSrBt3YoWsvz4jpQ9G2bpjJzgXAU08SJEIGOmHPoaJah6wq7pcrtp6GyrMR4Ld9MMmASnTl+pr27q1CqshJbp2st61jL1MSxXHUsME3Zph2VLAFQl20gXiIfavgAeTN5E1Ty7kr0CjJ203AKI9RAVW5BAejDj+AUZ/fe0vvFI4nGjHyBrghLnLGiiwQ0qHJ+MDLN7tTxfqLxSfeN97b/j9YwCh4HhOet8HJAK+6Pjg=;NZYkFuEnLZUtoETvJpqZGg=="

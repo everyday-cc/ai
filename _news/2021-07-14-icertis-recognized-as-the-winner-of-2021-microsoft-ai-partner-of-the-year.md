@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year"
-excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced today that it has won the Artificial Intelligence (AI) 2021 Microsoft Partner of the Year Award and been named a Finalist of the Global ISV Microsoft Partner of the Year Award for the fourth year in a row."
-publishedDateTime: 2021-07-14T02:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605019"
-webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605019"
+excerpt: "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the"
+publishedDateTime: 2021-07-14T08:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
+webUrl: "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 400
     isCached: true
 
-secured: "y4W/8k1x1KQ8nhomH7i1uXzRzZNgT9UdB+hGWlkaorroMqpq3NGWCm0Xs9UqmwbbGfc1hZ4QxvUP2KbD9caWIgrubHfCGCuLhyyttHBwshhZYYaR9z8MRc0Bw/GplGgJvNXcVa00kvHpU8ujVTg/DbuFjWLO9cRVva2A7oot9Rd6/PxCGMtPgBiNuqfgDHny74jJiCBHdzjJRVBQ22yKsp6IDgy5PAYVV7mAYr3JEzAZJ/ybI0V4XKHFPw+GAAcr+z7P8aIp1pA3wCVYao++1tKRWi3Ah4QczzHnvZI4Bziq/Nl9ge1DGMYE5NTNO78F+i8ra77Lx5wFNsQi++aGwdyIWFaOjG52oyy4RTRX9CKh89IV2t9dCPEh4bhyoNrLLpHcM1Coc8srNDbLBDLQyVhG077amufvmOEkgSlb5yIFI9dyYvMOEUwQ2g7GwAqiV1ZjBP9VvIAIPxTnbx2HqO6lLCyznPkR9lt0siILQpd4jrKBjr4okALzQJNpHYis0RvgwFd1SveEDVIptVdW5g==;UORy6Pn6dCpiyvfYzvlJaA=="
+secured: "Kjff/mK+FEbaP3aeICuzfu38pA99zgkR+B5Y0v7ZbAp20vfQQ2pfXjUyBFb92XU9/ttg4qg3gAxVRUGI6NxU9lGMXVhCApCjFJsgeFNfG2vjNR4qBRGWHWweZzMowO86dkRNZi7eMzh1EVZ2dL32GKA8Ft3Cf7YboOGrNfAWspVYoUuONZO4LeaMo6j5x6LovnGZ2b6khsXYDvCWCQ5s+EhZsLB9n/SQKIbkbM2NgrrRMqMOEN14B5YrDeUo1UuTGqQxysQ4yHwLAY2nZcQkYJnP1MGGn/2PHZRuVQvfyS+pBtxQDkN2MJ2Ew5x2EzoTJrc8ub0CLKo2g/AY65r/IX900sT7hd1a89MaylILsjM=;66KN5ny7irAb+gSbDyz9Uw=="
 ---
 

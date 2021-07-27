@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2336705/gpu-market-size-is-projected-to-r
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: openpr.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based Surgical Robots Market Size to Register 16% CAGR During 2021-2027"
-    excerpt: "Selbyville, Delaware, Global AI-based Surgical Robots Market size to reach USD 13.2 billion by 2027 and is valued approximately USD 4.7 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 16% over the forecast period 2021-2027."
-    publishedDateTime: 2021-07-22T08:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI In Telecommunication Market Size, Share to Be Appraised at USD 3880 million By 2024"
     excerpt: "Selbyville, Delaware. The report AI In Telecommunication Market Size and Analysis maintains enhanced dynamics and"
     publishedDateTime: 2021-07-23T04:52:00Z
@@ -55,42 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Middle East & Africa Artificial Intelligence in Marketing Market to Grow at 30.1% CAGR to Garner US$ 7,312.42 million by 2028"
-    excerpt: "The artificial intelligence in marketing market in MEA is expected to reach US 7 312 42 million by 2028 from US 1 159 26 million in 2021 The market is estimated to grow at a CAGR of 30 1 from"
-    publishedDateTime: 2021-07-23T09:18:00Z
-    webUrl: "https://www.openpr.com/news/2335658/middle-east-africa-artificial-intelligence-in-marketing"
-    ampWebUrl: "https://www.openpr.com/amp/2335658/middle-east-africa-artificial-intelligence-in-marketing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2335658/middle-east-africa-artificial-intelligence-in-marketing"
+  - title: "Fintech Market Forecast to Reach $161.2 Billion by 2026"
+    excerpt: "Focus of Companies on Cost Reduction and Improving Efficiency driving the growth of Fintech Market The Fintech Market forecast to reach $161.2 billion by 2026, growing at a CAGR of 8.7% from 2021 to 2026."
+    publishedDateTime: 2021-07-24T05:16:00Z
+    webUrl: "https://apnews.com/press-release/MarketersMEDIA/technology-business-data-privacy-98032e22e00cf8f3b6e6c872717bf5d7"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
     images:
-      - url: "https://cdn.openpr.com/U/7/U723557741_g.jpg"
-        width: 800
-        height: 533
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market"
-    excerpt: "The global AI in Healthcare Market size is expected to grow from USD XX billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period. At present,"
-    publishedDateTime: 2021-07-23T17:20:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-global-size-share-statistics-historical-analysis-and-industry-growth-evolving-players-intel-ibm-google-microsoft-general-vision/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 36
-  - title: "Automotive Artificial Intelligence Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a significant CAGR during the forecast period from 2021 to 2027 Government regulations across the globe are getting stringent for the safety of driver without making them compromise on their comfort"
-    publishedDateTime: 2021-07-22T10:45:00Z
-    webUrl: "https://www.openpr.com/news/2334680/automotive-artificial-intelligence-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2334680/automotive-artificial-intelligence-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
 
 secured: "9fTcUGT2kXHu6MUL6kyLYfhjScBugRluWlft2TMrpe+ZESnnGWr7p/9km8B5DjoaRFsnHj7c7gIveZkO3HUWRc7fEdUCNQ8xJK+GueMn3C3IZHCK/9gT2qs+OQv+kY1X/rjizPlYt8ol+nmfIxCFGh4H3jaW/R++3+5Xd8pHS2uqJuN7x/S/3kbTDNn1mr4E8zXAvPYOXABZAJEZ0luIGJPI50dzinUvPWR/nwqQDFdlwgIgMr9hvIZHgGQHh4QXYSU6JM1XomG2CWTXtNkhi2WM4f/FiyAhCRdYVs82jNGdw2rsaICMa/j5aivaIPCEP5hOS5R7h57HllI2UvoH/dPvq8+Zs5xBGzD185vsBl/2MW/kXBRkJ41gVRSWox+S5i/LyvutYM7YbCR1afyY8Yqr7ac2zrwWzUPUeRpwCHscz3rCF8eAf1QcHukdd4Wo6pQSvbtSAFOQO7UrRTfhjBDkRUzXmbKZhkyCkBRt1m8d1ZPs2oO+oOb9kBV4gJndOTGaDixeod+N33/9CLSJOQ==;GZ9lmkgvcdcww2ONvu0fQQ=="
 ---
