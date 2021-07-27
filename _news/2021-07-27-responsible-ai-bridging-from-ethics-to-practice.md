@@ -28,7 +28,7 @@ related:
   - title: "Everyone in Your Organization Needs to Understand AI Ethics"
     excerpt: "Many organizations have come around to seeing the business imperative of an AI ethical risk program. Countless news reports — from faulty and discriminatory facial recognition to privacy violations to black box algorithms with life-altering consequences — have put it on the agendas of boards,"
     publishedDateTime: 2021-07-26T12:40:00Z
-    webUrl: "https://hbr.org/2021/07/everyone-in-your-organization-needs-to-understand-ai-ethics?ab=hero-main-image"
+    webUrl: "https://hbr.org/2021/07/everyone-in-your-organization-needs-to-understand-ai-ethics"
     ampWebUrl: "https://hbr.org/amp/2021/07/everyone-in-your-organization-needs-to-understand-ai-ethics"
     cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/07/everyone-in-your-organization-needs-to-understand-ai-ethics"
     type: article

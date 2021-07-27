@@ -1,0 +1,46 @@
+---
+category: news
+title: "Farm tech firm Iron Ox hires director of robotics"
+excerpt: "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Director of Robotics this week as the company accelerates growth and expands its commercial footprint."
+publishedDateTime: 2021-07-27T12:52:00Z
+originalUrl: "https://www.producebluebook.com/2021/07/27/farm-tech-firm-iron-ox-hires-director-of-robotics/"
+webUrl: "https://www.producebluebook.com/2021/07/27/farm-tech-firm-iron-ox-hires-director-of-robotics/"
+type: article
+quality: 56
+heat: 66
+published: false
+
+provider:
+  name: Produce Blue Book
+  domain: producebluebook.com
+
+topics:
+  - AI in Autos
+  - AI
+  - AI in Robotics
+
+images:
+  - url: "https://www.producebluebook.com/wp-content/uploads/2021/06/iron-ox-logo.png"
+    width: 600
+    height: 337
+    isCached: true
+
+related:
+  - title: "Farm Tech Startup Iron Ox Hires David Silver, The Company's First Director of Robotics, as Company Prepares for Hypergrowth"
+    excerpt: "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Director of Robotics this week as the company accelerates growth and expands its commercial footprint."
+    publishedDateTime: 2021-07-27T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-david-silver-/2021/07/27/9417268.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1530162/IRON_OX_logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+
+secured: "qu/r4Xr7FTan+5xPj42yLf1IXtQYvLsi6ZcQCRzpZtRQQ5QU6jYGiyPg+uK74mdm+rvyqYa1W+e8Z6I+nSEixwjYqTBYqKll+9qWHu5chgDyltYhrXxWpxtNkR0ECizRzqdHJwq+zu7sPPaQgPLjBgmRW2V9J5P8EW5a2oaZj3aDr5J294tHcD/mWfZssLmeHgoSLGTJ8Kc9t2bUpJhyeElfwTD/nq5aq2raCaRJWENRPnBIdDce54TdAttCZBgfhKSG1gNbPvnJvWFIxWb8PEQP5PomUHpQ0oAX+S3ihch5Qyfoe2l8OjW0eVwbj7rWKzqXbtC9CE+iAz7eCZOojfZUBwOxk/SNoqOTdZqFLxo=;Qprt41yneCgbIuDQGIPoyg=="
+---
+

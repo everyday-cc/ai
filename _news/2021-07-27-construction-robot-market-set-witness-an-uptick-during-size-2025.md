@@ -39,6 +39,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
+    excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at"
+    publishedDateTime: 2021-07-26T10:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on-quadruple-aim-1030643638"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://mma.prnewswire.com/media/1580654/Frost__Sullivan_Radiology_Medical_Imaging_Informatics_Cloud_Healthcare.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Could Human-aware Algorithms Be the Key to Motion Planning in Robotics?"
     excerpt: "More human-like could be a necessary hurdle to cross, especially concerning motion control and planning. What are places like MIT and Mitsubishing accomplishing with the right algorithms?"
     publishedDateTime: 2021-07-24T15:00:00Z
@@ -80,20 +94,6 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/07//medical-health-market-10.jpg"
         width: 800
         height: 400
-        isCached: true
-  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
-    excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at 9.4%, finds"
-    publishedDateTime: 2021-07-26T08:02:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on/article_b1453bb6-3534-55cd-8a49-645d7de5faaf.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 32
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/52/d522a53b-1a1b-53de-97fc-25ef892b8755/60fe6f920eec0.image.jpg?resize=1119%2C630"
-        width: 1119
-        height: 630
         isCached: true
   - title: "Global Artificial Intelligence Chatbots Market 2021 Industry Emerging Trend, Top Players, Revenue Insights to 2026"
     excerpt: "According to the latest report by MarketQuest.biz, titled Global Artificial Intelligence Chatbots Market 2021 by Company, Regions, Type and Application, Forecast to 2026, covers assimilates reliable and updated information,"

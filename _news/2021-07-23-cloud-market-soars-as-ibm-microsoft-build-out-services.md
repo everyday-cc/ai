@@ -64,6 +64,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Wipro Recognized as 2021 Microsoft Modernizing Applications Partner of the Year"
+    excerpt: "Continued leadership in driving business transformation earns Wipro this prestigious distinction for the second consecutive year. NEW YORK& BANGALORE, India---- Wipro Limited, a leading global information technology,"
+    publishedDateTime: 2021-07-23T12:54:00Z
+    webUrl: "https://www.nasdaq.com/press-release/wipro-recognized-as-2021-microsoft-modernizing-applications-partner-of-the-year-2021"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 45
 
 secured: "f2rEv34+yqNHxF0xkhxZfGzNoKET+oTBdsOi91tIt1By8ff1DSD6c8h/AwiGb+XD6rsDiz+DVb+0H4K0OrxvB3vxHKdJJw08BvcgmeQyPn4i2xR6pTyQIcf2aUu69UV9Sc+7X/A2gkGF7ZjxgPgPgUZAC8/HBj+Zxye8TWW27xd+g7jPvPakgm3Hv3MYOGmKyFZfEgpVzBE56MPrkLy0gY2vpIYVe5kvNeyxYxyhC0RsxkYkvKznOGstc4baqJvDEoQxoWLG5jc+y0XE1itBmYzivFhycK2IfROcyK2hr31hrR7UL6HNWom0TV9i6zB0uR43J8k4OeQG7ehGZrnC5fLggx3uCRmHKWnrR/Bfi7w=;3HhYRaHHYxJe/l0c9vC9gg=="
 ---

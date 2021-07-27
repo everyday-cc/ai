@@ -20,19 +20,19 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Agricultural AI Market Tipped for Strong Growth Track || Top Players – IBM ,Deere & Company ,Intel"
-    excerpt: "The Agricultural AI Market report by A dvance Market Analytics gives an important source to figure out the market and other fundamental technicalities relating to it, covering market growth potentials that can benefit the stakeholders to understand growth opportunities,"
-    publishedDateTime: 2021-07-22T19:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/agricultural-ai-market-tipped-for-strong-growth-track-top-players-ibm-deere-company-intel-2021-07-22"
+  - title: "Deep Learning Market To See Unbelievable Development By 2028, Key Players – Amazon Web Services (AWS), Qualcomm, Intel, Google."
+    excerpt: "The report declared by DECISIVE MARKETS INSIGHTS disentangles an exhaustive outline of the different development openings, pieces of the pie, and key difficulties winning in the worldwide market over the anticipated time of 2020-2027."
+    publishedDateTime: 2021-07-23T11:39:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-market-to-see-unbelievable-development-by-2028-key-players-amazon-web-services-aws-qualcomm-intel-google/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 43
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.mccourier.com/wp-content/uploads/2021/06/300-x-300-pixel.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "yonZBq1AiXKWW5fGtHxuDLmmvqrCwtsBGMiq+MJlxY0pdKzo7MOA67OaB5RS3Ty06Z+W25hWACBg6f0oHUpuMakoJHQ76rWk5xqifXXjirm9c0iMLTOkPVlh1Kq0VdlTKxC3sc8RnP93pxu5uVfs+aomcAS3ZVpMlE7vSgV1z12zqKOJ8SfLNqp+AztRnIHrKrSMftag5LByEcYLPCcEStSwo8Zg0sTz9OLs2ve35iGT5iewJtfXrpt+XOVbuf4o7veWIOJofSAsq2TcOSK50ETXTxhGy0n9y3VSW58zQLtDDJX97gmr8H5d91gyltBION4tjqNF4a9lYBtEFFq4WaTSgydDct5nZBrNkfre+D0=;z0VcqSztgSdOTB+RmXB9sA=="

@@ -56,6 +56,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Wipro Recognized as 2021 Microsoft Modernizing Applications Partner of the Year"
+    excerpt: "Continued leadership in driving business transformation earns Wipro this prestigious distinction for the second consecutive year. NEW YORK& BANGALORE, India---- Wipro Limited, a leading global information technology,"
+    publishedDateTime: 2021-07-23T12:54:00Z
+    webUrl: "https://www.nasdaq.com/press-release/wipro-recognized-as-2021-microsoft-modernizing-applications-partner-of-the-year-2021"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 45
   - title: "Cloud Market Soars as IBM, Microsoft Build Out Services"
     excerpt: "The cloud market remains hot, and some of the top providers, including IBM and Microsoft, are looking to add to the capabilities and services in their cloud offerings to make further inroads into enterprises and government agencies."
     publishedDateTime: 2021-07-22T21:41:00Z

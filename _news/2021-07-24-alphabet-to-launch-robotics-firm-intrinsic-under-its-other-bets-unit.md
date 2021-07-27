@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-i
 webUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: Reuters
@@ -30,38 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-    excerpt: "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and advertising business, Google in 2015 established Alphabet as ..."
-    publishedDateTime: 2021-07-23T13:58:00Z
-    webUrl: "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL4N2OZ212"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL4N2OZ212"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 106
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Alphabet’s Intrinsic breaks cover to teach old robots new tricks"
-    excerpt: "Alphabet has started up a new robotics company, Intrinsic, with Google’s parent firm looking to make smarter industrial ‘bots. The announcement comes shortly after Alphabet sold Boston"
-    publishedDateTime: 2021-07-23T19:02:00Z
-    webUrl: "https://www.slashgear.com/alphabets-intrinsic-breaks-cover-to-teach-old-robots-new-tricks-23683695/"
-    ampWebUrl: "https://www.slashgear.com/alphabets-intrinsic-breaks-cover-to-teach-old-robots-new-tricks-23683695/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/alphabets-intrinsic-breaks-cover-to-teach-old-robots-new-tricks-23683695/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/industrial-robots.jpeg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Google’s Parent Alphabet to Launch Robotics Firm Intrinsic Under Its Other Bets Unit"
     excerpt: "Alphabet's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
     publishedDateTime: 2021-07-25T06:32:00Z
@@ -78,63 +46,16 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Alphabet launches robotics venture Intrinsic to train industrial robots with AI"
-    excerpt: "Google LLC parent Alphabet Inc. today announced a new venture, Intrinsic, that will focus on making industrial robots easier and more affordable to use for companies such as manufacturers. Intrinsic is a spinoff from Alphabet’s X research lab."
-    publishedDateTime: 2021-07-23T17:21:00Z
-    webUrl: "https://siliconangle.com/2021/07/23/alphabet-launches-robotics-venture-intrinsic-train-industrial-robots-ai/"
+  - title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
+    excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. July 23 (Reuters) - Alphabet Inc's ..."
+    publishedDateTime: 2021-07-23T13:58:00Z
+    webUrl: "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 67
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/image-1.png"
-        width: 837
-        height: 471
-        isCached: true
-  - title: "Alphabet to launch robotics firm Intrinsic"
-    excerpt: "Alphabet Inc's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic"
-    publishedDateTime: 2021-07-24T14:00:00Z
-    webUrl: "https://www.postguam.com/business/technology/alphabet-to-launch-robotics-firm-intrinsic/article_7fcaa630-ec32-11eb-bcf4-2fed448fc017.html"
-    type: article
-    provider:
-      name: The Guam Daily Post
-      domain: postguam.com
-    quality: 56
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/b/18/b1820ba0-ec32-11eb-8c4c-ef3221dca135/60fb8ed9820f4.image.png?resize=955%2C630"
-        width: 955
-        height: 630
-        isCached: true
-  - title: "Alphabet to launch robotics firm Intrinsic"
-    excerpt: "Alphabet's secretive research unit said it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
-    publishedDateTime: 2021-07-25T19:43:00Z
-    webUrl: "https://www.itnews.com.au/news/alphabet-to-launch-robotics-firm-intrinsic-567840"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 56
-    images:
-      - url: "https://i.nextmedia.com.au/News/CRN-690-alphabet-blocks-Google-iStock_000005540474_Medium.jpg"
-        width: 690
-        height: 428
-        isCached: true
-  - title: "Alphabet has set up a new robotics subsidiary, Intrinsic"
-    excerpt: "Tech giant, Alphabet, also known as Google's parent company, has launched its latest robotics venture after limited success in the sector."
-    publishedDateTime: 2021-07-26T11:40:00Z
-    webUrl: "https://www.siliconrepublic.com/companies/alphabet-google-x-intrinsic"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/07/AdobeStock_233382425.jpeg"
-        width: 800
-        height: 600
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
 
-secured: "42ZBJ6XiLu0/93jxkhzL7wmomUHmhxEw6aszkAPrS11e9GQGOXG8VqBZVCXufCqgVwe5QMRu3KEArDA2fQG2nrg4kiFdSbq/a5B/y6wSh64M9EN3AUAILTqPua7hZwRaRUhYIYS0rSMvux7xy7xZewvVf/wsJHfcNLaGyAlJ8bJM/b7wJbwnhrlVm3qIMwa2Bi5vlveaK41QKGyvEaMaKmGx046XqPDIf0JRIK8Lxo7YjPMBXb0JUNHFXuxKO2RCJvUvDfvafad0j+ZEg7uZeWrgCGq+XbxSZBRzrg0RKGcYxwIOy5Xc/nPGHIaI6hZXOdk1b5wn+cGw3PMsJlqAL5PomU9Jjg1X/ssbz9YSPmY=;DEWW1JjLuYJ1WE4IVY0gAw=="
+secured: "v2K7CbQkKiTw15X1nEOqlZ3YfvIGRHt1DeoILTNGWQP5dKz5VRjfMECOg1bw7R2CagsYDkmZUPKrLx13csR2AjTxa2T99Xkn4g7iMsjLfOXtfGZs6YkkxPFAfVIz6ywGKkBpvPA/B/UrXWRIVqRznn6TNawMJRKYJBWh7bSPzQ9xZi5/gWc6tWu10CRocr3a+eDI28lQF/3z67wt3biazrXy6Dj+SVwesF3PNpKr227FXBHWZVoiWl208zbI5xocN2tIB1jI4Z3bnnxUOpchI9Hl+ktZbBwbh1KoVbFi6x3+/FT1Oj+RKwPg4Aa3qjgexltDaHDNGIppiuiTbbvJpoH2ggSqs2BZDyCFEsmhkYs=;wbMJdpf1pYoKfwlzG1HTgg=="
 ---
 

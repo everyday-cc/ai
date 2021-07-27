@@ -31,6 +31,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 30
+  - title: "Text-To Speech Market 2021 Long-term Outlook Remains Positive | Microsoft Corporation, IBM Corporation, Google, Sensory"
+    excerpt: "The Text-To Speech Market was valued at USD XX billion in 2020 and is estimated to reach USD 5.0 billion by 2027, registering a CAGR of 14.6% during the forecast period. Latest added Text-To Speech Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
+    publishedDateTime: 2021-07-26T16:50:00Z
+    webUrl: "https://manometcurrent.com/text-to-speech-market-2021-long-term-outlook-remains-positive-microsoft-corporation-ibm-corporation-google-sensory/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 12
 
 secured: "TKuUYJSIA9djJgrGFdDSArGxDgNfV8ccBZV603jPctymtHjW/m9vD5dNcJZ1yzh55TySnBh5gZG+cG22u0Yh1VQwEYWIdbA4b7XPqZIbVP8pjUbCuHyuvM3jD9sfkHEuph0aXbovPRIQxhXdRvCsxWa1jdIjfIXmANx3TTw1r9o2XQcKfbg51AzN/WwlyY2ipoOkJLyg9LSS9QX/tYz0zAxtAytWhVUC5dnp8fl16bWE9TSlau53hRU6XYMIkajkIkfdY2y8qqf90KXS7WsPwFPD6AvZeBZVKvb1OLzZfzKCEPOxmsJOAdy8ARfkGyVY003L9cRfFlmPPA3ljkkVY0pNN64FSgm6WqBLC0ttbMXc/DPiZzhkf/+tTsVkz9YRzYBLBmbTZ13ggu3GGbJ6lOAdVhXR6rcqi2hLw44RlRVcxjE3ofT0dpLsSXZ36rtEXaJxIeHAEhJGIUcudDSMR6T+qce8J80tBzWtjQQkHddvtzl+IgQto/GRdfSPQ9htiRGhIJz0g8j29BYpE9fy1Q==;OxcGh7Z7maK9CPwAeDXuuQ=="
 ---

@@ -26,6 +26,22 @@ images:
     height: 1920
     isCached: true
 
-secured: "ZDpvatXqt1J750SAdOIgTVF1R8XILi0PHS3nMJJxlsdtnNK0zqCt4ihBzI/OVHeO/YQYj7KkexTuhnGEoDVY5suIseWgW5ftMh+RzRGKlQLFoPo5q0mf82VMow4D0HWF+3icLokP5017Poi5owBIesOl4gTyE+BcC+1XYBR8Wug7FCKAxbW4PRx/DwI1BewmTloPPdHri7jJtVICJjkuX/uUVlKoPTKYYp9Kmdu9VmftK6ZBldHTMx5fkL5hd/yMBfJdq2ioJtLlzT+Ekgf/okG+oSGGvBZ553r3T2H+xG3R064q8s0muX+Wfkg+37Pt8tWWEUlkSLDGZjUUxEEQNjHiSApB35UExgVOXgPrR9E=;5e8Go5E2qo/AjDyo8M0RMw=="
+related:
+  - title: "Study on machine learning for cardiovascular disease"
+    excerpt: "Machine learning can accurately predict cardiovascular disease and guide treatment but models that incorporate social determinants of health better capture risk"
+    publishedDateTime: 2021-07-27T13:45:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270467880/study-on-machine-learning-for-cardiovascular-disease"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1627393354.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
+secured: "IzjQJNF8JX2v7VwqFZmeH+wA6lbKHdA/U7OwPyoVQ3XyDLuqM5pqVuaUtAm0Ofu4OD9lcUD628bJzYnXCXfqDpleCAlUTw+1h4KRA+GziY+r6Jvsjrf7i6HCmYzcneCqgZZPz+NrVYWCXgwI7RIpAW8q3p/iQLsr59npm6tTGsa9upp0DkO1ESHORuza1z43KZZnGMvHncZO//YEDwScgo49ck4bhF122f5UckOHk+OBywaAZ1UF8NZGhuZDIBbbRT4ab534U8Br9ZTRTRPwolhf+lrf5WBmHfK7cG5d9HVgU+klHsWSpztTeTDxDNPQZxNYxokx6xHwuNeYlhQAvxqNlP3nIFcUA3QCjQxlnTh1/IYcQvVzg1m/V8tzt9z0RiqaDmS3g4NAZ6Hthr2ybjuqgmljh5Nyq56CVkvmm+X17dU7YWsznrLy6p7frLNFP7yqISycNXFuKTQSaOjbE2PZ7j5Zy0MrcpzOhhQCkE1SFte3hJHqIJPnuEqKgSK+b+2FPbVE1Mg32JZEqoZPzw==;xU1TnPuWcunxTdkokQeEQQ=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-anot
 ampWebUrl: "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 104
+heat: 124
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2021/07/2021_07_13_covarient_retouched-004.jpg?w=1024"
@@ -59,6 +60,6 @@ related:
         height: 700
         isCached: true
 
-secured: "DJt5pj0Nc/R+E951N+gAMp6BGAiVzJkBebs8BEpZUlxe4wHGuQ6FOeOmLJjThYXIwj5vvVLodpNxryO/fiQl8gDrbiYNsyrorbXN2XN8u12tT6ljPIIQgoP20L8D4KR3h+l3M2jd8diBOMw2Q/1g+Q8851azhGgQ0hAZ/VzvD4UBidJq8QHv16AQvX1501ajnidxGzyuhKY00epYhoxJcdWKxopRl/2Egx8IzxvtG0ZveBFzspRFbKZMLKhBIEttVXO+kFKPrpp+AXI7nz5JiPSNzqrbOdRWc07KTbwzyke/5gkdJGlO5/alCgo9Q5PgBGY+cZsUsYoUnnJ+6eVuUkejDfx06nuAqzgfYUz3368=;oWhjfpY4eNEkF0IA5v735A=="
+secured: "IuKREFZfeT/DuJnbUxHTvKvbusfXs6Oy/ItyAPcv+YiBrM93ny9MXD09qWfgmhSCnPZzw65X4MJRVXsv0Zuz+SawxNaNorTVV3fLNRVXFIPb4ejCad3M4mEJoIPbBLIRZOMZh+xSBVkAkMHPdfiCvwjkMpvCIwLMiW/4Tt7wkUXC/xbw2g856gbA7r4TgS1rBzjr6PYrMRbK7s1h5J2f5gxVEEvkzSvOp88351JnDY12vNffFJI2qIJpPEeTtL3PIMvY17sqhgimkGRFAmLYHMNyV7uZCkkxbEHWIUhQD/u6bTQWxQgZBiDIywYAvPz6MuJHwc1tM5UYSC+z2MPnQ4sTFF2L5goJ7IDZqJaV1/40rdEjoF+XJ8u3/uFvfP9ipD83VZchGsTIbFpQFg4p/TC1Ux5I8wNkho/oXIH49Ufsza5Ea8Hpqf46hLC8XR9vDZAhqo58Y/Z0fbmE9p1e+Bw3fbo5soFgRoWKXIMWmupMaYuFz8BvjYkMCD0UrFfescUvyVcH02TRTaiXb7dzGA==;8skIXgW8XWf4Uk1YN016ig=="
 ---
 

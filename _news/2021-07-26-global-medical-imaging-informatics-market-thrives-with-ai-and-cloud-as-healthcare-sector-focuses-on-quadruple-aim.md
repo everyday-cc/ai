@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
-excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at 9.4%, finds"
-publishedDateTime: 2021-07-26T08:02:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on/article_b1453bb6-3534-55cd-8a49-645d7de5faaf.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on/article_b1453bb6-3534-55cd-8a49-645d7de5faaf.html"
+excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at"
+publishedDateTime: 2021-07-26T10:02:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on-quadruple-aim-1030643638"
+webUrl: "https://markets.businessinsider.com/news/stocks/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on-quadruple-aim-1030643638"
 type: article
-quality: 32
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/52/d522a53b-1a1b-53de-97fc-25ef892b8755/60fe6f920eec0.image.jpg?resize=1119%2C630"
-    width: 1119
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1580654/Frost__Sullivan_Radiology_Medical_Imaging_Informatics_Cloud_Healthcare.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -105,6 +109,6 @@ related:
       domain: ipsnews.net
     quality: 0
 
-secured: "URaCaS3BV4iLnDQwE+Vyj8Xgp9n47MPLDWKeIjaP65VuyUtUY0Gbai/Lhx4l7NmArPFX8dANtbzfjIrJgSbOVy6wzU1fiHUxhnPl5ZdlAPq0CttMbKNJnVGYcU9ni33ZTOfxZAJduGY/iBVgbcbh9qq/so1n10xit6gohJ5H9gYmNlpjTZuwCy5BbMYbZ+3QcNFahKfp/a82rnwlCj3GSokyvEjM/8A21kUiCMCx+rBzG4DF8gvbSYhoagdG2L/5ctzbECBT17JGV+h/1YbJpPoUJrrVgO5okVyCi8UNdj60WdAeiUR8PjvqBH8wpIT/H6ABLwD5WanEXwel1gU80qc3RFez5BJGpTFr/q2b4sGsGV8Xm0Q64wpvqU4aS27AxhF7xoZdF0agzRTaVSCIJKOKz+54BP8mXRSPIv8nV5ewLih4V8cgMTb70sUbelND2ODAFtQ4oC3PIsTExzCadYnEY/p+LeVmv9bbRw2GaKp1FlK4iHebycgV00xGnoCVqK0GA57ZPMLhDW6+KwtzeQ==;SizYez0zaUirLlFg7JUt2Q=="
+secured: "Ineb9XGiGmteqKwLtiGcK1LuH65T3rczilR080+QzMEC6WwWKAwRq8yRAoV/flp8jL+mh8O3Okwh2vP3lmhZVd6NoSC0q2OwlR4I5LWD2t2fa8yz/qG7gaY0CVa5zfZYXvgJzAKawk9kVxa68r40SUaSTAwH3dVhiuNIOAxIMKITLJlPA2G0QPIjcH65FhJgY7ngDXSPBM8ZMPhWI+2D86R06q3vVCVhJP+DvxQouDSgTi44pNaQzClYzywtKjbt554tcTsbmcxu2+mBqNNjyNmicZUBKm6NW38PYVCJTmP+5V8MdgAZIcjFNzEucjLg5Hy3qdNYnwp9KbTLsDIerygeibsWAKv/5M/VU4u4QaA=;D12ttSPeu90FuTRCxPqFQA=="
 ---
 

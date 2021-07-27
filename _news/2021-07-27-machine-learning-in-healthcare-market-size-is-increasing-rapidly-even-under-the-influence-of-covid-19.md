@@ -40,6 +40,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
+    excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at"
+    publishedDateTime: 2021-07-26T10:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on-quadruple-aim-1030643638"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://mma.prnewswire.com/media/1580654/Frost__Sullivan_Radiology_Medical_Imaging_Informatics_Cloud_Healthcare.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Could Human-aware Algorithms Be the Key to Motion Planning in Robotics?"
     excerpt: "More human-like could be a necessary hurdle to cross, especially concerning motion control and planning. What are places like MIT and Mitsubishing accomplishing with the right algorithms?"
     publishedDateTime: 2021-07-24T15:00:00Z
@@ -82,20 +96,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
-    excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at 9.4%, finds"
-    publishedDateTime: 2021-07-26T08:02:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on/article_b1453bb6-3534-55cd-8a49-645d7de5faaf.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 32
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/52/d522a53b-1a1b-53de-97fc-25ef892b8755/60fe6f920eec0.image.jpg?resize=1119%2C630"
-        width: 1119
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Chatbots Market 2021 Industry Emerging Trend, Top Players, Revenue Insights to 2026"
     excerpt: "According to the latest report by MarketQuest.biz, titled Global Artificial Intelligence Chatbots Market 2021 by Company, Regions, Type and Application, Forecast to 2026, covers assimilates reliable and updated information,"
     publishedDateTime: 2021-07-23T10:01:00Z
@@ -106,6 +106,6 @@ related:
       domain: ipsnews.net
     quality: 0
 
-secured: "oalAyNOY04GC6BXqEIQ3sBP2moRuhYcgXbOjumPVHjugRh3sOxOUVt+Rp1YJ9gpYoAnRu4jrzQIzE5aC50+z/Yg9a9HAvGNmnTvBWvZ+iY/xDbQHFScq/U/rzAWuaytPTVPbZAjsVYx0sw3lq/xIT9qtIlMC7M8X1ERt+gUPhO/K01UE6va6Y23P0a7HMSu79o4rkIgCCrY/A7Ks/gqfKxOrTD2BrxzYFQzLk3OxEP7Wtn9QrbZ5lA2wwZ2/SnVawNTw/gYHOiujhHedJE4Op9HvG3AhXSM9Y7VU4fu7BsoIh8MrsO8Mr3ULLx9gzCkRchFULYTojDM9D2F2aEjE5i+RJWyoiqiPedkBQ2i0FRs=;lVCxgos0IKBdeIRJht1r1Q=="
+secured: "myqb4rEQc/UM0IVlMdtC41foBsPE33tHKSHxtyqMFNxJpBlLVJnXSODqsXIvEIriut+Dsg2UkXZmojhmVUyFyyhvA4vFk58V+YVftmRGG6aM02EhQn1CPZWWIuhzj2Cn3nor1Ph7kgh5D4nRV4ndqEnCtfKzUXWkicVHgTPgwTZ7XfOTeZTs9oo5Inp3HhF2CSs+uUmUqlRNP+8KnA4uTPxVGY2RcwAVm/7x4+e5juxWvqLW1bcyQJVKZMjBmUhYfgy4eQP4z8SGAbYLMwT48cgpKbOCc0X1WfrIBZqu4COEEga6L9QmqfdxHuSLLOF3DbIM4jDVKGwvif42v8pfYD6oqU/HZlXByYaj1Xpp7Tb8PYaCe/khEcJYxE12zoGBdyUnGV/fVsTB/yvRJr147gXzVxloqAp+ERfmERPYeT9HPEXrfwpFWOUurRPjSj3XX2nAizDSKggZ/c78E7wEzAiXtsU1dQXhUBYybkYcow5QwuCt495TysAEb70Z8qFgWhtsLnhsF3nEhlBeLEpVuA==;LuG4nCHvhS5jIopgz/9GXg=="
 ---
 

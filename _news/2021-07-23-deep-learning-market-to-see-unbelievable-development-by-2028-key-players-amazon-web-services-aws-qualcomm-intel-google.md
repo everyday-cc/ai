@@ -25,6 +25,17 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Cloud AI Market 2021-2027 is Outperforming | Evolving Players – Amazon Web Services, Microsoft, Google LLC, IBM, Intel, Nvidia"
+    excerpt: "The Cloud AI Market was valued at USD XX billion in 2020 and is expected to reach USD 13.1 billion by 2027, registering a CAGR of 20.3%, during the period of 2021-2027. At present, the market is sharping its presence and some of the key players in the study are Amazon Web Services Inc."
+    publishedDateTime: 2021-07-26T13:20:00Z
+    webUrl: "https://manometcurrent.com/cloud-ai-market-2021-2027-is-outperforming-evolving-players-amazon-web-services-microsoft-google-llc-ibm-intel-nvidia/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 23
+
 secured: "EECOYbcNCw6uAurYDiHq2g+upHeig1iOKYJsuikj58iRodOdiizba2ck3FuzXzZ1MzVvyAp223ucmLtfS+91XYgqcGt9l6+zU5RKMGZmT7aHb6emrpNj4a6z1b4PKrv0W/OMYVoFPgeBMqlIWteLjSOQ4Fh5jj8f7LCrEyTSCWevb1d1aHc9NMxAo/c76vn4FBGDL5iru/bISmd4n5Xuuvk9QQrIbDrwCq5zeFMMa1bsjsboFC1c9VEQmtqCC8TujqoN9sS+u3NDrcE34midJaMAvUl1AfIus1eQ4n47TdIRVTozH8JOGsjqGfNMmWDfiWciBH0NGSqRItOtff/odm1n02m39H+ADMd5NFG0/I3ji0Miuh3AxUefsyg+XTb2dzU/tP6fe6cod6UW1DzqLqqjZIu/YluoKelt3/EO88e5QD6D1yXEKkuCREjXU33KTWHNBhhYCwnBnAKkbny9SIYESEbLIdnGMr5mKjAmP7jSUgP8PXCZqaElgrVM2lX2bczFA5bpmlwh0t3tC7R3Cw==;JBzdg7HUAvYNrrjEZJPd5Q=="
 ---
 

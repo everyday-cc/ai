@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/deepmind-and-embl-release-most-complete
 webUrl: "https://www.miragenews.com/deepmind-and-embl-release-most-complete-601570/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 768
     height: 512
     isCached: true
+
+related:
+  - title: "Google’s DeepMind opens ‘breakthrough’ protein database to the world"
+    excerpt: "London-headquartered artificial intelligence (AI) company DeepMind has opened a database to the world that maps 98.5% – approximately 20,000 – proteins in the human body, marking a ‘transformative’ moment for the scientific community."
+    publishedDateTime: 2021-07-26T11:51:00Z
+    webUrl: "https://www.pmlive.com/pharma_news/googles_deepmind_opens_breakthrough_protein_database_to_the_world_1373638"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 39
+    images:
+      - url: "https://www.pmlive.com/__data/assets/image/0012/1202124/Robot.JPG"
+        width: 500
+        height: 322
+        isCached: true
 
 secured: "8lrAOR6jGdvGzlaAB2MvZ7IB2cyhdcQirwUHPUD+b8n6rIl7s1/MLYBZo9VHaY+HmlmCOq5I1KQuc2XN+Tfp9I6aX7xWX/bJQd8Af82vCQBkT3RCuYtoYzYR4OtJq3g2/wggn9yOewD1VK4TbYSBMzeB4MjWyGMHE3H4PSRcL4tmYGNhjv2DSgpzIUCfGE3xL/MO75qEbW/Julb5Jl/jFF2LOF+YupkGG1ZhebjJeSErlsvId58jGG7PB1DnkpVN9mJ10MaGDx3a144nxfoI7GfBKFv7om+q8bwI2kLKycWGZKXWRkCpGV5erCn5CEgYMnM17i02ulCAZycYX4W7ziJqfr9w725HNH3Ny7d7zVs=;9dB5rV5nn+u1o1ihYlSczQ=="
 ---

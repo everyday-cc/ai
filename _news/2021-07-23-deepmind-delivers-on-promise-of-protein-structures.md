@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind’s protein-mapping breakthrough is awesome, but it sure as heck isn’t free"
-    excerpt: "DeepMind just released a protein-mapping system to the general public that could be one of the biggest breakthroughs in decades. But at what cost?"
-    publishedDateTime: 2021-07-22T20:01:00Z
-    webUrl: "https://thenextweb.com/news/deepmind-protein-folding-breakthrough-ai-isnt-free"
+  - title: "Enzyme researchers partner with pioneering AI company, DeepMind,"
+    excerpt: "University of Portsmouth joins leading AI researchers at DeepMind to help engineer faster acting enzymes for recycling some of the worlds most"
+    publishedDateTime: 2021-07-23T05:46:00Z
+    webUrl: "https://www.miragenews.com/enzyme-researchers-partner-with-pioneering-ai-601319/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 63
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 54
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Fpichaiscience.jpg&signature=38050f2f9369c452930e1b34c7d9a994"
-        width: 1280
-        height: 640
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
+        width: 1416
+        height: 829
         isCached: true
   - title: "DeepMind unlocks the protein secrets of life"
     excerpt: "Demis Hassabis stunned the world of science this week when he and his research team opened a window into how life works.The British artificial intelligence pioneer, 44, revealed an AI system that had"
@@ -53,19 +53,19 @@ related:
         width: 685
         height: 385
         isCached: true
-  - title: "Google’s DeepMind opens ‘breakthrough’ protein database to the world"
-    excerpt: "London-headquartered artificial intelligence (AI) company DeepMind has opened a database to the world that maps 98.5% – approximately 20,000 – proteins in the human body, marking a ‘transformative’ moment for the scientific community."
-    publishedDateTime: 2021-07-26T11:51:00Z
-    webUrl: "https://www.pmlive.com/pharma_news/googles_deepmind_opens_breakthrough_protein_database_to_the_world_1373638"
+  - title: "The Times view on DeepMind’s scientific revolution: Protein Power"
+    excerpt: "The universe is vast yet it is comprehensible. The human mind is able to gain knowledge of it through science. A potentially historic example emerged this week with news that British researchers from"
+    publishedDateTime: 2021-07-23T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/the-times-view-on-a-deepmind-scientific-revolution-protein-power-sz8hv2lpk"
     type: article
     provider:
-      name: PMLiVE
-      domain: pmlive.com
+      name: The Times
+      domain: thetimes.co.uk
     quality: 39
     images:
-      - url: "https://www.pmlive.com/__data/assets/image/0012/1202124/Robot.JPG"
-        width: 500
-        height: 322
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F75b5f0a6-ebfa-11eb-baaa-861dba20d87a.jpg?crop=1520%2C855%2C120%2C192&resize=685"
+        width: 685
+        height: 385
         isCached: true
   - title: "Google’s DeepMind puts human proteome online for free"
     excerpt: "The most complete database of protein structures ever assembled, developed with the help of Google’s artificial intelligence unit"
@@ -80,6 +80,20 @@ related:
       - url: "https://pharmaphorum.com/wp-content/uploads/2021/07/AlphaFold.jpg"
         width: 840
         height: 473
+        isCached: true
+  - title: "DeepMind Launches Evaluation Suite For Multi-Agent Reinforcement Learning"
+    excerpt: "DeepMind has introduced a scalable evaluation suite for multi-agent reinforcement learning called Melting Pot."
+    publishedDateTime: 2021-07-27T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-launches-evaluation-suite-for-multi-agent-reinforcement-learning/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 38
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/DeepMind_AIM.gif"
+        width: 1600
+        height: 900
         isCached: true
   - title: "DeepMind Releases Accurate Picture of the Human Proteome"
     excerpt: "\"We believe this represents the most significant contribution AI has made to advancing scientific knowledge to date,\" said DeepMind founder and CEO Demis Hassabis."

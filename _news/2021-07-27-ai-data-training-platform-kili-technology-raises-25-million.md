@@ -34,7 +34,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 104
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2021/07/2021_07_13_covarient_retouched-004.jpg?w=1024"
         width: 1024

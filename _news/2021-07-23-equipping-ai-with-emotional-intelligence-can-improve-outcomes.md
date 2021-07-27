@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/22/equipping-ai-with-emotional-intel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/equipping-ai-with-emotional-intelligence-can-improve-outcomes/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 603
     isCached: true
-
-related:
-  - title: "Artificial Intelligence and the Intelligence Community"
-    excerpt: "The intelligence community's budget and acquisition processes rise to the top of the issues it must address before it can take full advantage of AI"
-    publishedDateTime: 2021-07-22T20:56:00Z
-    webUrl: "https://cacm.acm.org/opinion/articles/254212-artificial-intelligence-and-the-intelligence-community/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 17
 
 secured: "k7KMqSz2s4e5CXiBRxfMu83k0d54yrxsUDr3Spvaqc0NwAz8HOgIn6YKAEJNJMJWuPDezS/D40dGRnecIBTgX0BJxwAw9ogUfCTZUZb05KFUSsvH2ej7JjZLS6FjE/iqVVL3RWEWWL0B+MOa/IjmFh+CLbaD/s2IiJvkD2qnDtPoFm94r/Tiv3J1k8X8UAamcC9fuy2iXzMJUudSNP1jz4l6G3ev62A998DEalsSfu5G5Z74AhQu4rezcK0szNo1sLq0v4m9hpdnU/+RTQAuX99YDS7qLC0PJzpIUqa2zYdJx+1dhHFa2t/uXFVRMKCNH9DjtIjETTrng3D5daPadC7j1JNmk8StteySqSFj7xnc3WMJV9c5UljHsaoxiIVsddQfjR2y0aNQb1sd6KgkTNb5lYr1g2noMdWrfM7/rJLYhpBlguLlbCLQ6HdJ6E6CkAtE6md6a6UaEgWzMjaCkOZtXqbtvKgHiakogYDgiO4LfZTNmfNK63eTGtTM43oHtTuNnhydqqIq9eR1nYJJWg==;g2cQbZEP9PWlkoeuQgHGcA=="
 ---

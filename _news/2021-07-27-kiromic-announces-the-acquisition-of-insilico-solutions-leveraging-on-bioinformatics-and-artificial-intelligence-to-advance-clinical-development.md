@@ -20,19 +20,14 @@ topics:
 
 related:
   - title: "Shutterstock Announces Formation Of Shutterstock.AI And The Acquisition Of Three Leading Artificial Intelligence Platforms"
-    excerpt: "Shutterstock, Inc. (NYSE: SSTK), a leading global creative platform offering full-service solutions, high-quality content, and tools"
-    publishedDateTime: 2021-07-27T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/shutterstock-announces-formation-of-shutterstockai-and-the-acquisition-of-three-leading-artificial-intelligence-platforms-301341376.html"
+    excerpt: "Shutterstock.AI to offer computer vision and predictive performance solutions with the goal of enhancing creative performance NEW YORK, July 27,"
+    publishedDateTime: 2021-07-27T11:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-announces-formation-of-shutterstock-ai-and-the-acquisition-of-three-leading-artificial-intelligence-platforms-1030649499"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1075411/shutterstock_Logo.jpg?p=facebook"
-        width: 641
-        height: 339
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Uniphore to Acquire Jacada to Transform Customer Experience with Advanced AI and Low Code/No Code Automation"
     excerpt: "Uniphore, a leader in Conversational Service Automation (CSA), today announced its agreement to acquire Jacada (News - Alert), a customer experience pioneer with the industry's leading low code/no code platform for contact center automation."
     publishedDateTime: 2021-07-27T11:58:00Z

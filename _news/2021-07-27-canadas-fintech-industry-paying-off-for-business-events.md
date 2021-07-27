@@ -71,6 +71,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "4 Fintech Trends of 2020 Worth Watching Through 2021"
+    excerpt: "As the COVID-19 pandemic turned 2020 into a historic year of global upheaval, the financial services industry and the tech companies that support it found themselves caught off guard. As in most other commercial fields,"
+    publishedDateTime: 2021-07-23T09:43:00Z
+    webUrl: "https://financialit.net/news/financial/4-fintech-trends-2020-worth-watching-through-2021"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2021-07-23_09-43-51.jpg"
+        width: 533
+        height: 367
+        isCached: true
   - title: "India’s Fintech Market: Growth Outlook and Investment Opportunities"
     excerpt: "India has the third largest fintech ecosystem globally and 67 percent of more than 2,100 fintech entities in operation have been set up since 2016."
     publishedDateTime: 2021-07-26T10:26:00Z
@@ -123,6 +137,6 @@ related:
       domain: fintechmagazine.com
     quality: 4
 
-secured: "FmwbzC6V4eSPJbyLdDpZjbfYjRme5Xi6O5yvmP0POqh5Gf62nkYZdmwkTI7sp8yinOAI7ufGHmUwo0m3guSBdlKvSbs1dUWL/ktqfSycTbcR2qesAepGR3qC/TyvO5VZmTXyX04218ybn11R5cejAkTG9wURTxL3eFlWl2eRScomkMJYBg0S0j9+yYy7fcNAIzer9hw2Ecx1vDsWpH+9BaehxtI5kpjmsBtPlHSs6N/Se20FapwM795Ucwadj9humMHYywpnwLVabY/UoIbu5ZDNLATe95d1w/1Junj06cfWqzOAzVsz9wtOtATfhfNYR2wzAtgHvKMwrmfwv6QDP4APO876Dw7zx2NNqTfxNI8=;ZwzKHOTEfOE7jSiRoJ3YXw=="
+secured: "qOVvTJnrJQ7ufU601VQNS49FHsrn4LALLlvc6auwtmcHPsCzDcyVPmS3Jbv4nQjgMswSrcboL4j1noXPpDMoaoPcFIFCYh+hgrt003U69I6ZRiFAgYQ4y7H3EdTMP7EjsMbvSa0c1QHAHXXbYunQ2mTy0xzfcyHZVXstWuub3S6HM+EHau//l8IaGHVZemHwW9rAkB1zZGfWqkS2VCGmSGKOIoruxDqw3NfxnSVGsEoiSSdvadI0uUBZQl3IusJciq5XHgC3cZPGPkS+vl6cRLlv/svW7Ecpw8M0j4LwbCXD822ZgEmImZlSUrmJA/Veas04C3rtikHY3wZ0wrqFU8rif6vZ5EpfVzLGyd9cyKTcG1h0giWlHqtE2VRgE7FU+3/ySkzXIqPjWWLbpL72xd84wxe7Z+H0myCxxKAT930gpFQNPEm+q2rfieiFqls+KmKn5Aw8zys19xZ/wMnqH0ezvaPt+CTwAKkcIbwQjzUZzybG2lVUuxRZWbOdCK4FBZgNkGO2wC3H5oj4TAwzsA==;dpVz6xtIwsQbTO/9zRDMYQ=="
 ---
 

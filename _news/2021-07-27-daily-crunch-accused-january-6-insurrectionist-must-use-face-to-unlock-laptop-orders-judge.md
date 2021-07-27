@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/07/26/daily-crunch-34/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/daily-crunch-34/amp/"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: TechCrunch
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Federal Judge Forces Accused Capitol Rioter to Unlock Laptop With Face Recognition"
-    excerpt: "U.S. courts are split on whether forced device unlocks violate the Fifth Amendment, and the Supreme Court has yet to step in."
-    publishedDateTime: 2021-07-22T21:00:00Z
-    webUrl: "https://gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314"
-    ampWebUrl: "https://gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 85
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/cff617cd180a45a85c61699a0883cecd.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Judge permits prosecutors to use facial recognition to open accused Capitol rioter's laptop"
-    excerpt: "A federal judge in Washington, D.C., on Wednesday granted a Department of Justice request to place an accused U.S. Capitol rioter in front of his laptop to unlock the device with facial recognition."
-    publishedDateTime: 2021-07-23T15:56:00Z
-    webUrl: "https://www.abajournal.com/news/article/judge-permits-prosecutors-to-use-facial-recognition-to-open-accused-capitol-rioters-laptop"
-    type: article
-    provider:
-      name: ABA Journal
-      domain: abajournal.com
-    quality: 29
-    images:
-      - url: "https://www.abajournal.com/images/main_images/robot_typing_hands_laptop750px.png"
-        width: 750
-        height: 563
-        isCached: true
   - title: "Accused had to unlock laptop with face"
     excerpt: "A US federal judge last week granted a Department of Justice request to place an alleged US Capitol rioter in front of his laptop to unlock the device with facial recognition, according to a report in the ABA Journal."
     publishedDateTime: 2021-07-26T11:00:00Z

@@ -32,6 +32,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
+    excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at"
+    publishedDateTime: 2021-07-26T10:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on-quadruple-aim-1030643638"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://mma.prnewswire.com/media/1580654/Frost__Sullivan_Radiology_Medical_Imaging_Informatics_Cloud_Healthcare.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Could Human-aware Algorithms Be the Key to Motion Planning in Robotics?"
     excerpt: "More human-like could be a necessary hurdle to cross, especially concerning motion control and planning. What are places like MIT and Mitsubishing accomplishing with the right algorithms?"
     publishedDateTime: 2021-07-24T15:00:00Z
@@ -87,20 +101,6 @@ related:
       - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
-    excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at 9.4%, finds"
-    publishedDateTime: 2021-07-26T08:02:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on/article_b1453bb6-3534-55cd-8a49-645d7de5faaf.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 32
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/52/d522a53b-1a1b-53de-97fc-25ef892b8755/60fe6f920eec0.image.jpg?resize=1119%2C630"
-        width: 1119
-        height: 630
         isCached: true
 
 secured: "VALXsTsT2k6ggwGon4F6qdMLX21gFPugk+zpneK7rCBc77OFgB0s8aFXIw/h1dvoZJFMF8JdH/a6MwgjjFNxCZq07czVfgl1TEY0gq8kJVyRx0Jv9VHnSCsDz+oVQJqhDzq+iNbYhTIIJqDNCmj13/RBJlGr24Al9WlfEf5BA/0H7IJpGTZeSjMqa4JB7dKkNTGwxFlhX1fhCBRy5OOnuw1w0xMywU8RHxPFyFlSwO4BYs3oPmZwz4V/dmiCs1XPNOBvTKSoMt4Dwqz2BWaUC51No7uHKTQgNwbEeujtUxmWft1nAgT71D5Ce1U/u9A1sFU2nkeO6DH9NwLDNC7POL5jZRn8+A3/qu++R28fBh8=;lAIYY/Tac8r+j9JTiTngiw=="

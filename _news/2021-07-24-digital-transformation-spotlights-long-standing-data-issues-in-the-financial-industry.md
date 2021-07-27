@@ -21,19 +21,37 @@ topics:
   - AI
 
 related:
-  - title: "Israel pushes military digital transformation in the age of ‘artificial intelligence war’"
-    excerpt: "Like other militaries, the Israel Defense Forces for years looked like one organization from the outside, but its services were balkanized in using different networks and data services, an IDF digital leader said in an interview."
-    publishedDateTime: 2021-07-23T18:18:00Z
-    webUrl: "https://www.defensenews.com/battlefield-tech/it-networks/2021/07/23/israel-pushes-military-digital-transformation-in-the-age-of-artificial-intelligence-war/"
+  - title: "Tata Communications Launches IZO Financial Cloud Platform In India"
+    excerpt: "This platform aids in building an open banking ecosystem that offers BFSI and fintechs, the foundation to enable advanced digital services"
+    publishedDateTime: 2021-07-27T13:50:00Z
+    webUrl: "https://www.entrepreneur.com/article/378519"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/378519"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378519"
     type: article
     provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 28
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
     images:
-      - url: "https://www.armytimes.com/resizer/rvxmF1bYzSyFjOQcf4-9ct_4ZjA=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/K2GM3ADRIJD3XMEIN5CYRRI4VM.jpg"
-        width: 1200
-        height: 630
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1627393841-marvin-meyer-SYTO3xs06fU-unsplash2.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Tata Communications launches IZOTM Financial Cloud platform for BFSI sector"
+    excerpt: "Tata Communications on Tuesday announced the launch of 'IZOTM Financial Cloud', a community cloud platform customised to meet the stringent data privacy, protection compliance and security guidelines defined by India's regulators for the Banking,"
+    publishedDateTime: 2021-07-27T10:58:00Z
+    webUrl: "https://www.freepressjournal.in/business/tata-communications-launches-izotm-financial-cloud-platform-for-bfsi-sector"
+    ampWebUrl: "https://m.freepressjournal.in/article/business/tata-communications-launches-izotm-financial-cloud-platform-for-bfsi-sector/28ca24f8-1f59-4892-905a-2c05bc81baad"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/tata-communications-launches-izotm-financial-cloud-platform-for-bfsi-sector/28ca24f8-1f59-4892-905a-2c05bc81baad"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 42
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-07/5e78fc30-63da-411b-add3-6aff0b0b69ee/izo.PNG"
+        width: 1230
+        height: 689
         isCached: true
 
 secured: "CMoudOca15Kp/AmXk/LEQAldcuygGnShbt3PprTvcRCxPSHEgDM0euoSH+zz4rBZSlMgXRZER86huegpruEYXP7gCT/K6Ax/ZK8PZfXkB+c2dN6Gnc2wQIcDOE/qZLZIKXtUvAY4yRss23EheLlSzjFjWE4t1J+kKy2vdd+9U5sX3Wa/CESecsO5wPVX+hXvrcX/cCnW+gnQCLFd5mYWQvs3c2ItbpPjZTBfkBQ1WnpUze4DOfFAWjTU7w+zhIEgnFmlzkK3643NiCAdXIC+4mCJAsGdz8Z8A807Ih+lui0fC38bCpd594mus3jQcXRevQ+oOfoiLLwn5+jtzZROBZ2VQsP+Ejn44dLjzVmv8eLnwBYQkuePNf6u4rSaNUUAndBbaE0IQafIz3buAtxXNwoYFXEx8vRrkCBIYBoLGYaBc0Py48KuamiTx7lsC+mUkg27vD/J0qg0KdTlAj5Vh2fhbSf5YQXXOedBRlbxk1i9s20dUuaGH83Sv39M28/kdAcK3xj0F1ipq+n3Kiq5oQ==;dxqLWjHQdgJaQ/SShKkniA=="

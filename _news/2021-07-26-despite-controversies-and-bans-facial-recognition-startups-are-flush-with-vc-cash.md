@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/"
 ampWebUrl: "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/"
 type: article
-quality: 83
-heat: 83
+quality: 183
+heat: 183
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 682
     isCached: true
 
-secured: "ZeAR2exIRy6/QKIKmTW+37MrWNVxH3Os+CgQS1GFyKnN37d3jFkE9tJf35xRM8yAWvx8I5K07Ab6rIf9ErVdHxcwcRdNyCAbUtoYioV1vVqb5HdJgfiKtoAUK1FB1PK3Jy4hMtibVZxaVVB0tRH8OQc9FTLj9EPelZIQJDZ0gh1lizPF/56wwL012dhEO6UEKKmwbP06tr4fNDsFFpcfEdFwTfLs0ShsYCLluu8PfC58WCjmnIq7OAAcHYUY3xsOOzVdM07xwDxAG/KCHmcUklZLEqpIXPX5DjP9hNHomtl0aZF11KypOaz0gGHK84AwDbTzsL1mxRk4I3jyzmX7wrB7Yrl/3zIt9c8hBmNRQmo8pPEeN0anWQyk0prQEUqH1QVRpaD7uZ9/G0ilenfT+3ez3plpdZVwhN8RAfgVEx1RUYU2RjGZz6m/DgAQrxPy/SNVKrpuvla7JQneOkQODL7Lr++77HzFz1y7DxbTglLdiu0Qe4EEgNm7HmxNR6A+W8hzKJZSYHP+zNgkHIvY8Q==;8PnYwqqx2Rk8PEffwf+kHg=="
+secured: "M1e1QH92ToBvLS8K5d+LZEuz9QykHUb8uG/wp8zj4D04FL95lcd8HypJNxuy5Lp6UQChMrZCCFHPOvqujy5p+u8JrqLSdcUxfcMTzpH4xIvazznGsgyW0nIZ1sCzmc3RvN9cJU2XrMhwiuvYidNCWp8YuaPEMLXU1+xFsMlQRDGw7Rt40eZs3A3jHvgcTOzZFASejDabWkvflzrEhMCquvNakWyA9jlFbtQypYk4gY7SFtL1eTEQDiANOj0d9mRKI3pp0023QUEjwXOjouhN/FGtLzmgsauZB996GQiGgr0TDrUEuoIz6U1HNxKjH0ow26xxzK2EIr5HvCZ/A3xrJYXwU2AfhhCjTxwuYpe7ysWQkiBSWFSsoMBW+1RHzRXdwyO2CqPjeU+8vSg4S0Qn3Ors8NoyaCVFGji1KE1aBXwFSzSrzYyEoCou+SAyRgeDMemx4RQUJKxB3F/U6fJLdq5zFjQ27TSWrowJX1PSYRCJt8m8ZlCxC+yfRffs6eiOnt+POXhpFnfUSEjmB13PchmPEO7QLZmM8rPh06/x6WI=;1aJZIazEugRQcMKBTxiJUg=="
 ---
 

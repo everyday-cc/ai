@@ -19,19 +19,14 @@ topics:
 
 related:
   - title: "Shutterstock Announces Formation Of Shutterstock.AI And The Acquisition Of Three Leading Artificial Intelligence Platforms"
-    excerpt: "Shutterstock, Inc. (NYSE: SSTK), a leading global creative platform offering full-service solutions, high-quality content, and tools"
-    publishedDateTime: 2021-07-27T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/shutterstock-announces-formation-of-shutterstockai-and-the-acquisition-of-three-leading-artificial-intelligence-platforms-301341376.html"
+    excerpt: "Shutterstock.AI to offer computer vision and predictive performance solutions with the goal of enhancing creative performance NEW YORK, July 27,"
+    publishedDateTime: 2021-07-27T11:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-announces-formation-of-shutterstock-ai-and-the-acquisition-of-three-leading-artificial-intelligence-platforms-1030649499"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1075411/shutterstock_Logo.jpg?p=facebook"
-        width: 641
-        height: 339
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Kiromic Announces the Acquisition of InSilico Solutions Leveraging on Bioinformatics and Artificial Intelligence to Advance Clinical Development on Its Outpatient Allogeneic ..."
     excerpt: "Kiromic announces the acquisition of InSilico Solutions leveraging on Bioinformatics and Artificial Intelligence to advance clinical development"
     publishedDateTime: 2021-07-26T22:55:00Z
