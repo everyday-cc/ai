@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 458
         isCached: true
+  - title: "AI’s Role in Diverse Hiring"
+    excerpt: "Are our efforts towards diverse hiring successful? We’re not perfect; we're human. So what role can AI play in truly fostering diversity in recruitment?"
+    publishedDateTime: 2021-07-27T14:00:00Z
+    webUrl: "https://recruitingdaily.com/ais-role-in-diverse-hiring/"
+    type: article
+    provider:
+      name: Recruiting News and Views @ RecruitingDaily
+      domain: recruitingdaily.com
+    quality: 37
+    images:
+      - url: "https://recruitingdaily.com/wp-content/uploads/sites/6/2021/07/AIs-Role-in-Diverse-Hiring.jpg"
+        width: 800
+        height: 510
+        isCached: true
   - title: "PathAI acquires Memphis' Poplar Healthcare"
     excerpt: "Memphis-based Poplar Healthcare is joining forces with Boston’s PathAI, a provider of artificial intelligence-powered technology for pathology services."
     publishedDateTime: 2021-07-26T20:18:00Z

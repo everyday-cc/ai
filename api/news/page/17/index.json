@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-14-innovate-from-cloud-to-edge-on-your-terms-with-azure.md",
+      "title": "Innovate from cloud to edge on your terms with Azure",
+      "excerpt": "The challenges of the past year revealed that serving and making a difference for each other, our communities, and the world around us is more critical than ever. In order to persevere and drive business success, organizations must be future-ready, build on their terms, operate hybrid seamlessly, and",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/innovate-from-cloud-to-edge-on-your-terms-with-azure/",
+      "originalUrl": "https://azure.microsoft.com/blog/innovate-from-cloud-to-edge-on-your-terms-with-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7d530ede-a64e-4282-b82d-a8657faa18ed.png",
+          "width": 1024,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T01:00:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-microsoft-chatbot-spinoff-xiaoice-reaches-1-billion-valuation.md",
       "title": "Microsoft Chatbot Spinoff Xiaoice Reaches $1 Billion Valuation",
       "excerpt": "China-based AI chatbot developer Xiaoice increased its valuation to $1 billion in a funding round led by Hillhouse Capital Management, a boon for the provider of voice and text services used in digital assistants,",
@@ -1168,58 +1220,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-humanoid-robot-keeps-getting-fired-from-his-jobs.md",
-      "title": "Humanoid Robot Keeps Getting Fired From His Jobs",
-      "excerpt": "Pepper was fired. The company ended its lease of the robot and ... botched its job at a nursing home and gave baseball fans a creepy feeling, some people are saying the humanoid itself will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
-      "originalUrl": "https://www.wsj.com/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-367980/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
-      "publishedDateTime": "2021-07-13T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

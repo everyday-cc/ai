@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-27-healthcare-artificial-intelligence-market-future-challenges-industry-growth-outlook-by-2021-2026.md",
+      "title": "Healthcare Artificial Intelligence Market Future Challenges & Industry Growth Outlook By 2021-2026",
+      "excerpt": "Delaware, U.S. - The deployment of artificial intelligence in healthcare will be significantly bolstered by the influx of advanced and newer technologies. There is an increasing appeal to remotely render services with enhanced care to affected patients that are stationed across less-developed regions of the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-challenges-industry-growth-outlook-by-2021-2026-2021-07-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-challenges-industry-growth-outlook-by-2021-2026-2021-07-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-artificial-intelligence-ai-in-healthcare-market-in-india-market-segmentation-application-consumption-and-revenue-report-2021-2030.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market in India Market Segmentation, Application, Consumption and Revenue Report 2021-2030",
       "excerpt": "In a recent published report, Kenneth Research has updated the Artificial Intelligence (AI) in Healthcare Market report",
@@ -159,7 +211,7 @@
       "originalUrl": "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -224,50 +276,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-worldwide-disinfection-robots-industry-to-2026-role-of-ai-robotics-in-transforming-healthcare-is-driving-the-market.md",
-      "title": "Worldwide Disinfection Robots Industry to 2026 - Role of AI & Robotics in Transforming Healthcare is Driving the Market",
-      "excerpt": "especially during COVID-19 to provide cleaning robots. Players face more competitive challenges due to the rising entry of many start-ups which is likely to utilize technological advancements. For instance, the Xenex LightStrike pulsed xenon UV ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19916974.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19916974.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "AI in Healthcare"
       ]
@@ -911,10 +919,10 @@
     {
       "path": "_news/2021-07-15-major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression.md",
       "title": "Major Study From Stanford University and Youper Finds Artificial Intelligence Therapy Effective at Reducing Anxiety and Depression",
-      "excerpt": "In the largest clinical study of its kind to date, a team of scientists at Stanford University confirmed a new model of mental health treatment that uses artificial intelligence therapy is significantly effective at reducing symptoms of depression and anxiety.",
+      "excerpt": "In the largest clinical study of its kind to date, a team of scientists at Stanford University confirmed a new model of mental health",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-major-study-from-stanford-university-youper-finds-artificial-/2021/07/15/9410138.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-major-study-from-stanford-university-youper-finds-artificial-/2021/07/15/9410138.htm",
+      "webUrl": "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -924,11 +932,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T06:10:00-07:00",
+      "publishedDateTime": "2021-07-15T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

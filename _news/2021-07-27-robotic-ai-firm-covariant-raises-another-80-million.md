@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,34 @@ images:
     isCached: true
 
 related:
+  - title: "Covariant raises $80M to ‘universal AI’ for robotic manipulation"
+    excerpt: "Covariant raised $80 million for its \"universal AI\" for robotic manipulation. The company has now raised $147 million in just two years."
+    publishedDateTime: 2021-07-27T14:08:00Z
+    webUrl: "https://www.therobotreport.com/covariant-raises-80m-universal-ai-robotic-manipulation/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/07/covariant-pick-and-place-ai.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "AI robotics company Covariant raises $80 million in Series C funding"
+    excerpt: "Brings total capitalization to $147 million for the startup, whose AI-based solution powers a wide range of industrial robots to manage use cases including order picking, putwalls, and sorter inductio"
+    publishedDateTime: 2021-07-27T15:39:00Z
+    webUrl: "https://www.scmr.com/article/ai_robotics_company_covariant_raises_80_million_in_series_c_funding"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 69
+    images:
+      - url: "https://www.mmh.com/images/2021_article/Covariant_screen_shot.png"
+        width: 1506
+        height: 998
+        isCached: true
   - title: "Numerade Labs Raises $26 Million for AI Ed Tech"
     excerpt: "Santa Monica-based education technology platform Numerade Labs Inc. raised $26 million in Series A funding for its artificial intelligence-driven tutoring platform. The funding round, which was announced July 20,"
     publishedDateTime: 2021-07-26T07:08:00Z

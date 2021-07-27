@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-popl
 cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
 type: article
 quality: 50
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/24/124483c2-e86c-5c0e-9b65-99cd9472feff/60a3ad0055b0d.image.jpg?resize=1200%2C458"
         width: 1200
         height: 458
+        isCached: true
+  - title: "AI’s Role in Diverse Hiring"
+    excerpt: "Are our efforts towards diverse hiring successful? We’re not perfect; we're human. So what role can AI play in truly fostering diversity in recruitment?"
+    publishedDateTime: 2021-07-27T14:00:00Z
+    webUrl: "https://recruitingdaily.com/ais-role-in-diverse-hiring/"
+    type: article
+    provider:
+      name: Recruiting News and Views @ RecruitingDaily
+      domain: recruitingdaily.com
+    quality: 37
+    images:
+      - url: "https://recruitingdaily.com/wp-content/uploads/sites/6/2021/07/AIs-Role-in-Diverse-Hiring.jpg"
+        width: 800
+        height: 510
         isCached: true
   - title: "Boston-based PathAI acquires Memphis' Poplar Healthcare"
     excerpt: "Memphis-based Poplar Healthcare is joining forces with Boston’s @Path_AI, a provider of artificial intelligence-powered technology for pathology services."

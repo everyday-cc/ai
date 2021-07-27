@@ -1,22 +1,28 @@
 ---
 category: news
 title: "CIE at IIITH Conducts Survey on AI Startups in Hyderabad"
-excerpt: "Centre for Innovation and Entrepreneurship (CIE at IIITH) along with T-incubators Accelerator group conducted a survey to build a database of AI startups in Hyderabad. The data will enable an ecosystem where prospective investors,"
-publishedDateTime: 2021-07-27T06:31:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cie-iiith-conducts-survey-ai-startups-hyderabad-/2021/07/27/9417026.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cie-iiith-conducts-survey-ai-startups-hyderabad-/2021/07/27/9417026.htm"
+excerpt: "Centre for Innovation and Entrepreneurship (CIE at IIITH) along with T-incubators Accelerator group conducted a survey to build a database"
+publishedDateTime: 2021-07-27T15:52:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/cie-at-iiith-conducts-survey-on-ai-startups-in-hyderabad-812618154.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/cie-at-iiith-conducts-survey-on-ai-startups-in-hyderabad-812618154.html"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "Ev7A71A/bWOJmt7BoLbi1ORP1kmMDnwTQYJWKxfvNHihcdKLvq9kCGKHJuT6djGbJXkx0ZcH3tUXLfCo5tfdZXOFMOWt5pFbFbxwIGT9Wt6eB9JFti/MdSR1dl/CPIGUomCMcdXOVFuZFjgLqguYDVi0nA9du50y1GQERDc4uzN6F6XHABBfaGRttsJZ7QTkQ/YvE1i+LJcmpTxELPE05stttkoSNO2RDQv+NVihHwYYyvTs8zO29T0gpaVIseWywiIuZf5bnG3YouvSMSETx1HYN+X54VzZyEYPCqPhXN9rvEUJyntFTHjzcueaoBxWqeD2jcwta0LqP4dX3v5pGKy9SM23yey+6eUiGLoL+1tcKMP6jMb7h3POm6j6Asholy9GhuVSGWcGDqErGimQ9Bj8yVMG13khaXrURisJsgzJQsYNgttcj7mns00fBJ/g3i4M7vqbVvmNCGEL2xfGE6/Mk2vpMm+wnujnZvpb6xH0pQxWLC0Fi5nXaVvmdy6O4HKOqD7nspP2bosqPuwI/g==;kgpGEA9nNU2M2+SAlA515w=="
+images:
+  - url: "https://mma.prnewswire.com/media/600789/IIIT_Hyderabad_Logo.jpg?p=facebook"
+    width: 2398
+    height: 1257
+    isCached: true
+
+secured: "/GSblqlT6SWqrFhjTEqO5EvIexnzq3nVUcD8oLJOJ007iQOhkC/cZvLem2Nxue2FKla5o9i/2SYQ4IT45+pIedEl1rRf4ElDoEAqrFHETNtVYhbq4TgnLPnveMWu+FvKf5q3QfvTdqtJmjw6JWAsqf/WNk2r/YOBPTwH6P+/uQmAv3vJzNFACP1JlBtl4WfWIJRKjMkkH6kttHhGWVk86XDsVms5yTeVZGXaLSNjQTLz+48wg8YdEHAPr+sYN74VaCD2HMUCMkdhU+8m5/0AxBoKdr0u2EUTAwAwY+MJAuad2HjkdShhuvoM7xtpH9+uE176vQzTkBEcgFwtgSacpDEkAE/i7VJAFDpzc9K3Z5Q=;oi7ew9OAvlxxIFg6Lv1YAQ=="
 ---
 

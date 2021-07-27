@@ -1,30 +1,22 @@
 ---
 category: news
 title: "MediaTek launches new chip for next gen tablets"
-excerpt: "MediaTek on Tuesday announced the launch of Kompanio 1300T, a chip designed to enhance premium computing experience in tablets."
-publishedDateTime: 2021-07-27T12:46:00Z
-originalUrl: "https://www.indiatvnews.com/technology/news-mediatek-launches-new-chip-for-next-gen-tablets-722383"
-webUrl: "https://www.indiatvnews.com/technology/news-mediatek-launches-new-chip-for-next-gen-tablets-722383"
-ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-mediatek-launches-new-chip-for-next-gen-tablets-722383"
-cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-mediatek-launches-new-chip-for-next-gen-tablets-722383"
+excerpt: "Chip-maker MediaTek on Tuesday announced the launch of Kompanio 1300T, a chip designed to enhance premium computing experience in tablets. Built on the leading 6nm process technology, the chip will allow original equipment manufacturers (OEMs) to build powerful,"
+publishedDateTime: 2021-07-27T14:57:00Z
+originalUrl: "https://news.webindia123.com/news/articles/Science/20210727/3793585.html"
+webUrl: "https://news.webindia123.com/news/articles/Science/20210727/3793585.html"
 type: article
-quality: 59
-heat: 69
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: India TV
-  domain: indiatvnews.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/07/wp-1627370290944-1627389984.jpg"
-    width: 711
-    height: 400
-    isCached: true
 
 related:
   - title: "Merck Launches New Green Solvents for Photoresist Removal in Chip Production"
@@ -37,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 16
 
-secured: "msf5dQHK6CDLcmwuiOEnsDGsENbFpPX120NNsi1aov81GrG0Aree5uTD/BaXOsSDK5v/KlUW8UEAjepjZzJlo2nwsV6z2Tm5tmLKHzg8B74eP93Ep7FJHT4QdQgB8X1bOGxG5hYWbfX689rRtAzLUPEhUJg6k1lzdHhQJ70IYM3w3dxToCR2YCKPtclNSeR5W+fbRXxdfz/qnqOdj9/PvkGBDDMItc2hVwBzODMTwMUTwX0acSZwxLNQObywgtqj50wxBAgvVpq5wuxi8yfIyN7vdZr2K0DxN35fWPvqvfy5eCKYznhMKmoV/LA8b2ZGKnjPhn46Qv4E3hQAMIy1Vc4CgkWgGRBqWrOe0VzcCek=;iUtpXpU57QmaYDMI39ZdLQ=="
+secured: "t6Y3j0hO/v5TFsiGtCJfQqhEn7lMpP9f69noV7ADpztRNefxbjSknKfcphGjTxOXWTcjYKXA14Yd63dy9zF1ZaykrXbWwcqg7oHxjZH/fMukLCaDCQ/TDkVjblSk26SA1xwjQ3o5R6W/mchbG8dXdspgviy09k9i/w3Un8pwbYhTi1qEfqbDRUJTsd1iPdlP41q+xQqs/x1rqDu+WLa5OvNlGRBNlqod97GBl0NxK3DKehJU+x0JuKTfvfEGxq0qsaC62fbPvOj3Bngk1ThnQqMa31TCj837arbyErEajIDpLr3JUP4k7C9s4UteSln5CDT4xN2Lhtk9Krt6iNL9ykXzdAXcgO7+fcvUogj+/NQ=;GtuZsFgRamaBiMS3LErB8Q=="
 ---
 

@@ -56,6 +56,34 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Lanner Partners with Microsoft to Deliver Edge-to-Cloud AI Deployments"
+    excerpt: "Lanner Electronics announced its partnership with Microsoft Azure to launch Edge-to-Cloud AI Solution, integrating Lanner AI accelerated intelligent edge appliance with Azure IoT edge module, runtime and cloud interface."
+    publishedDateTime: 2021-07-27T15:52:00Z
+    webUrl: "https://www.automation.com/en-us/articles/july-2021/lanner-partners-microsoft-deliver-edge-cloud-ai"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 54
+    images:
+      - url: "https://www.automation.com/getmedia/6004257e-da72-452a-ba30-b0d426f4f6f8/Lanner-news-July-27-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "Verified AI-900 Dumps - Prepare Your Microsoft AI-900 Exam In Short Period"
+    excerpt: "Use ExamsSpy verified Microsoft AI-900 dumps and get AI-900 exam success in first attempt. IT Industry is developing and evolving leaps and bounds every single day. To keep up with the demands of the industry and to stay ahead of the competition,"
+    publishedDateTime: 2021-07-27T14:42:00Z
+    webUrl: "https://www.madinamerica.com/author/verified-ai-900-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 52
+    images:
+      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
   - title: "Wipro Recognized as 2021 Microsoft Modernizing Applications Partner of the Year"
     excerpt: "Continued leadership in driving business transformation earns Wipro this prestigious distinction for the second consecutive year. NEW YORK& BANGALORE, India---- Wipro Limited, a leading global information technology,"
     publishedDateTime: 2021-07-23T12:54:00Z
@@ -65,15 +93,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 45
-  - title: "Cloud Market Soars as IBM, Microsoft Build Out Services"
-    excerpt: "The cloud market remains hot, and some of the top providers, including IBM and Microsoft, are looking to add to the capabilities and services in their cloud offerings to make further inroads into enterprises and government agencies."
-    publishedDateTime: 2021-07-22T21:41:00Z
-    webUrl: "https://www.internetnews.com/infra/cloud-market-soars-as-ibm-microsoft-build-services.html"
-    type: article
-    provider:
-      name: Internetnews
-      domain: internetnews.com
-    quality: 21
 
 secured: "wRkv04dp03meptbuf+up4GHwDyk9Tfb2BDT1Z/gVtJZybJoV8LPfOh7lqfHcRa059NjXmFgVsRYgtzlwUzG39ncznU3AHWS8K3k2ghCEZTu0tiJ3/MrrlTq24coaGU4Dq4Ei9UNskWr+3kanPJgto/k3JDWA+Py81J7wdgVY1ArybEPgyEdGPbrY0FuHySRKg+cmmxbXnyM3d9CpTMZmuOeFh50YUcRCfIm42U3tYf53yhTzLNBqBNiwemr9sFxkjwmcMPpfQw1JuYw4x0DtwA0QqokKrM7gU3IFS0dHlKa/DIA059D7hgKTQZe52myl5VBZwDVnWpKIGRK5cbpPXO6fguVtDaGRX6dnGcrSCC//6Q5K+g/q7ZKezY7QFIIlbZxHOtslU1nzE0ssVz6V1JeXokHVZcRCtdXarPWfvMOMuleP4F1En8IQT6DeIbfgUNd1mqBdbv7GBEy1Pgx6KCX9X9N9W9V3vxxzl7z54eyJ9dey+1gRwZd365Klc3Cn224IgqZs9xU7t6ShEPPjwQ==;O8HUMRHpF3c8uOfEIRkgyw=="
 ---

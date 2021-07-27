@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-27T12:09:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-david-silver-/2021/07/27/9417268.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-david-silver-/2021/07/27/9417268.htm"
 type: article
-quality: 30
+quality: 28
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1530162/IRON_OX_logo.jpg"
@@ -41,6 +40,6 @@ related:
         height: 337
         isCached: true
 
-secured: "OfimhCpncY6PLOajccTk9zUfOKpzBuJo/GDLv5HsspYfcuDmoXRtOySrWd/dzZnHYIZm6r/MPwQ3O5Wg34558oCb48YIILhoCCymvAvdoxdo88SU0ZXbxOxFUbSOdhu6Of3sVU97ckJ/U9brJkenksRVvPco99hq5qQU38xIGKl97Yu2MITpW0L6OTWAeUzeaxQsMIopwIucapQsIPCKba/TLSapItJ+pD0oANJ1AmkFCIbipoaKWfJSpHDZSjrvp1ze4A4w7DiKuMgoipygOFNR0iKG0Ff/pAGXptP+25GJURZVnbGwNrb+kfzAfnQ6fXlRJh4Q5e1Ni9zgNmDYQGwrf/GeAajUOUwbPrKEFZU=;VqbXkW2xoALao7Tx2gZ1UQ=="
+secured: "jKcVXmnV03HTEi9GZ5IxDSU7Oude+LefxGKp2UX+rtr31y23mMVqA09+e9sOLK1/It3LpHk0q8WpUQRDCtMm7m0jlw+KmP3juSunMcQJt+QptMKnL4xLnxJ9enOjdORSCPvSAQvAUAlls38/wUEUpFnl5wLjT9Fx+Gbva01hIHoJFeeQEazODi/FdI4PiCSO0SnCHEW2grTljVTW8e00/Sx4AfwG2J8iZk6+iSpHbVCS5vZ1d8DdQDRwU5YDUNgUxZP7TjMPCRmWJtmoU+zgegvRM1lPQeJ6lpNb6cKLol2EQT43VA+H5id+OXmMfz2nEhwPpIXSAXxkVxOnOCcHnuo/Xhky9Y42xKGgG6pB2zg=;CTNci4FTguFnx0/Hrv1DNA=="
 ---
 

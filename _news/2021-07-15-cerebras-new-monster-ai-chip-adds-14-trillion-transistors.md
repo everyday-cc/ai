@@ -3,8 +3,8 @@ category: news
 title: "Cerebras’ New Monster AI Chip Adds 1.4 Trillion Transistors"
 excerpt: "Shift to 7-nanometer process boosts the second-generation chip's transistor count to a mind-boggling 2.6 trillion."
 publishedDateTime: 2021-07-15T16:35:00Z
-originalUrl: "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors"
-webUrl: "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors"
+originalUrl: "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors/fulltext"
+webUrl: "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors/fulltext"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "kQuu6Fn929pqfgQXLdpYbdAyYNaoLHasuCn9w+sVaStNjUqbx1Jc95Qrblb86qN2q1CiZfbBQWUdFEQ37DB01i6jLdS0FC/HrvmPxhPPP5gr8dC7uFlj0Pd+jxd2yoTCnxklmDIeE9+/CQPTBXiTsAh+PmA6wz+2BeuvgWshiQvjGB/ZKLJvpC7gV4JO9qZVyzi0x6vVru6NOI28PDuJIl4XfzFH68N24jX3iX5Wna+h8O4pJCFQj/OpqIxX7C3h85OPllmj2IF3Yy0QrWdfM2yj1yOfaTH+dNjnpGpLQuxWfVUk1XboOBlyTMHw+fNOfihdunEq/6pVJtHQ64bWLkvwLKq2tBx52wX1dqOtxpgeUdzjI+jfYIVDQGB78LQZKP2feTdMZ4+RY3alezGInpaXyx3JiVnQwXwxTDIrL76sZsZv1T1tINpaxdzVOvaHSuYtwFERqxJ8SmFptkzdfYKC2T11/X7NWSz5nk8OATFC0gEmrX1P3uThbPNWAZT2Tidz5SWNTqzBqgU0F75lkA==;HWximcCtlgWxtuFzY2ShNQ=="
+secured: "JPyk5FGqPU3Z3l354aQAW3SGtiRZUsiFEsHHj1XVzkDYacsIUyJmAPNZmdCxwhXGoqfhpPi9sRVajbhf4yVUlCloevbYJBqkvOuJlc+sLFMkem3kzAI5nEOYaiefrjIn0qS4d9P78A10KM28IVfepSpSTN0YEnRu6TfNtpsdt54d7w1xqepPMiBO6esmb+4YYZfO3tfj1k0MhC/16KFAfGJ91JsTzsdDhMiBGhrIRG8N1StX7GyVzx9gaIUG1NtfRLZxQf+n3+cFb07yYROjxKt0rCE1gDQsSztZBNo157HdcMNDx+ldPG3FfsXuGmOLRZrrU6dsl1KaXf/PiIlWcZBoO16DVUz4tBvsDSgqgYpRrXAm2+i3kjjMu8Zw0RmJHKwjgAWjUfUhm7XfImvuTnRkCJWPukybQnJjxdNjsla95TcD0RwW5uvjoIUb8aKsip/INRhEmHUdVwHZSN/0zMMvMSWjaadA8bqzmpzhWmxR5duUS2NrTN0zozD0APvVenFHFozNjIB+XNVxXrtsZA==;BOk1v2NS+ec8zGJajKPgcw=="
 ---
 

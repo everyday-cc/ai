@@ -34,7 +34,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 30
+    quality: 28
     images:
       - url: "https://mma.prnewswire.com/media/1530162/IRON_OX_logo.jpg"
         width: 400

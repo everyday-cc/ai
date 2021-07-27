@@ -7,8 +7,8 @@ originalUrl: "https://www.lelezard.com/en/news-19916974.html"
 webUrl: "https://www.lelezard.com/en/news-19916974.html"
 type: article
 quality: 62
-heat: 122
-published: true
+heat: -1
+published: false
 
 provider:
   name: Le Lézard
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare Artificial Intelligence Market Future Challenges & Industry Growth Outlook By 2021-2026"
+    excerpt: "Delaware, U.S. - The deployment of artificial intelligence in healthcare will be significantly bolstered by the influx of advanced and newer technologies. There is an increasing appeal to remotely render services with enhanced care to affected patients that are stationed across less-developed regions of the world."
+    publishedDateTime: 2021-07-27T09:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-challenges-industry-growth-outlook-by-2021-2026-2021-07-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
     excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at"
     publishedDateTime: 2021-07-26T10:02:00Z
@@ -40,71 +54,50 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Could Human-aware Algorithms Be the Key to Motion Planning in Robotics?"
-    excerpt: "More human-like could be a necessary hurdle to cross, especially concerning motion control and planning. What are places like MIT and Mitsubishing accomplishing with the right algorithms?"
-    publishedDateTime: 2021-07-24T15:00:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/could-human-aware-algorithms-be-the-key-to-motion-plannin-in-robotics/"
+  - title: "Artificial Intelligence (AI) in Automotive Market Industry Challenges Business Overview and Forecast Research Study by 2026"
+    excerpt: "Selbyville, Delaware Artificial Intelligence (AI) in Automotive Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which has been looked upon is done considering both,"
+    publishedDateTime: 2021-07-23T12:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-industry-challenges-business-overview-and-forecast-research-study-by-2026-2021-07-23"
     type: article
     provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/mit_movement_aware_robotics_thumbnail.jpg"
-        width: 700
-        height: 300
-        isCached: true
-  - title: "Love robots + UI: The role of AI in the design industry"
-    excerpt: "Having AI tools at hand boosts engagement, leads to more conversions, and provides an overall meaningful experience."
-    publishedDateTime: 2021-07-26T22:40:00Z
-    webUrl: "https://uxdesign.cc/love-robots-ui-the-role-of-ai-in-the-design-industry-2e87bd8b25c2"
-    type: article
-    provider:
-      name: uxdesign.cc
-      domain: uxdesign.cc
-    quality: 54
-    images:
-      - url: "https://miro.medium.com/max/1200/1*0EOqrDcqzUQcoIuV08-a3A.png"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Machine Learning in Healthcare Market Size Is Increasing Rapidly Even Under The Influence of COVID-19"
-    excerpt: "Machine Learning in Healthcare Market Insights, Regional Analysis, Market Share, and Competitive Analysis on a Global Scale. The latest report on the Machine Learning in Healthcar"
-    publishedDateTime: 2021-07-27T10:36:00Z
-    webUrl: "https://manometcurrent.com/machine-learning-in-healthcare-market-size-is-increasing-rapidly-even-under-the-influence-of-covid-19/"
+  - title: "Military Artificial Intelligence Market Outlook 2021: Big Things are Happening"
+    excerpt: "The latest research on Global Military Artificial Intelligence AI Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges"
+    publishedDateTime: 2021-07-27T14:37:00Z
+    webUrl: "https://www.openpr.com/news/2338746/military-artificial-intelligence-market-outlook-2021-big"
+    ampWebUrl: "https://www.openpr.com/amp/2338746/military-artificial-intelligence-market-outlook-2021-big"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338746/military-artificial-intelligence-market-outlook-2021-big"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 41
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07//medical-health-market-10.jpg"
-        width: 800
+      - url: "https://cdn.openpr.com/U/7/U727367941_g.jpg"
+        width: 600
         height: 400
         isCached: true
-  - title: "Construction Robot Market Set Witness an Uptick during size 2025"
-    excerpt: "Construction industry is one of the few industries in the world that rely mainly on manual labor due to which the adoption of automation, including robotics is very less. However, this trend is expected to change due to the factors mentioned below: There is an increase in the number of start-ups and pure players focusing on 3D-printing of building over the last few years."
-    publishedDateTime: 2021-07-26T20:14:00Z
-    webUrl: "https://www.pr-inside.com/construction-robot-market-set-witness-an-uptick-during-size-r4840492.htm"
+  - title: "Artificial Intelligence in Manufacturing Market 2021 Industry Size, Share, Growth, Outlook, Segmentation, Comprehensive Analysis by 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Manufacturing Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-07-27T05:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-2021-industry-size-share-growth-outlook-segmentation-comprehensive-analysis-by-2030-2021-07-27"
     type: article
     provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Chatbots Market 2021 Industry Emerging Trend, Top Players, Revenue Insights to 2026"
-    excerpt: "According to the latest report by MarketQuest.biz, titled Global Artificial Intelligence Chatbots Market 2021 by Company, Regions, Type and Application, Forecast to 2026, covers assimilates reliable and updated information,"
-    publishedDateTime: 2021-07-23T10:01:00Z
-    webUrl: "https://ipsnews.net/business/2021/07/23/global-artificial-intelligence-chatbots-market-2021-industry-emerging-trend-top-players-revenue-insights-to-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
 
 secured: "zg20zspSE2olYRQEsm8MKNSLEMmh2vA2kX82ePw4tv1ODBJEhX2dgZBNonWPc3njGDDGyYyexw8wgX4ECtdUKEBajQa6ODJ9E5L3PluFYNikRuE1/spjEqClz12zNEWgYjBINEeI3D5Y01AK3jaBFM4BC8TiydeuhaOgPBiEJCwINmGMaHu3JlHrK3cngwQ+/JrqBR1NDNhO27SusPtJSI3AnG/eEM5Lo5Hd8gelFge63hSaHItkKBCrSksW6rOkIoIYB3dpSO6obHJrBOvXgyPkyk2WlSqxmhS/GdkaXkvjV8bB8dKjBxHexU6AEktkHtAkE69WtgKRFCsahRfnMC3RedgI8ljtZobkS8o0drc=;JYzzUb4NfRKe7PWud3k6kw=="
 ---

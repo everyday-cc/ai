@@ -7,7 +7,7 @@ originalUrl: "https://uxdesign.cc/love-robots-ui-the-role-of-ai-in-the-design-in
 webUrl: "https://uxdesign.cc/love-robots-ui-the-role-of-ai-in-the-design-industry-2e87bd8b25c2"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,85 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide Disinfection Robots Industry to 2026 - Role of AI & Robotics in Transforming Healthcare is Driving the Market"
-    excerpt: "especially during COVID-19 to provide cleaning robots. Players face more competitive challenges due to the rising entry of many start-ups which is likely to utilize technological advancements. For instance, the Xenex LightStrike pulsed xenon UV ..."
-    publishedDateTime: 2021-07-23T11:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19916974.html"
+  - title: "The Impact Of Artificial Intelligence In Food Industry"
+    excerpt: "The work efficiency of food industries has changed after the adoption of Artificial Intelligence in the industry. In this blog, we will discuss how Artificial Intelligence has reshaped the food industry."
+    publishedDateTime: 2021-07-23T06:30:00Z
+    webUrl: "https://customerthink.com/the-impact-of-artificial-intelligence-in-food-industry/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 62
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
+      - url: "https://customerthink.com/wp-content/uploads/robot-507811.jpg"
+        width: 4961
+        height: 3508
         isCached: true
-  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
-    excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at"
-    publishedDateTime: 2021-07-26T10:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on-quadruple-aim-1030643638"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://mma.prnewswire.com/media/1580654/Frost__Sullivan_Radiology_Medical_Imaging_Informatics_Cloud_Healthcare.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Could Human-aware Algorithms Be the Key to Motion Planning in Robotics?"
-    excerpt: "More human-like could be a necessary hurdle to cross, especially concerning motion control and planning. What are places like MIT and Mitsubishing accomplishing with the right algorithms?"
-    publishedDateTime: 2021-07-24T15:00:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/could-human-aware-algorithms-be-the-key-to-motion-plannin-in-robotics/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 54
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/mit_movement_aware_robotics_thumbnail.jpg"
-        width: 700
-        height: 300
-        isCached: true
-  - title: "Machine Learning in Healthcare Market Size Is Increasing Rapidly Even Under The Influence of COVID-19"
-    excerpt: "Machine Learning in Healthcare Market Insights, Regional Analysis, Market Share, and Competitive Analysis on a Global Scale. The latest report on the Machine Learning in Healthcar"
-    publishedDateTime: 2021-07-27T10:36:00Z
-    webUrl: "https://manometcurrent.com/machine-learning-in-healthcare-market-size-is-increasing-rapidly-even-under-the-influence-of-covid-19/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 41
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07//medical-health-market-10.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Construction Robot Market Set Witness an Uptick during size 2025"
-    excerpt: "Construction industry is one of the few industries in the world that rely mainly on manual labor due to which the adoption of automation, including robotics is very less. However, this trend is expected to change due to the factors mentioned below: There is an increase in the number of start-ups and pure players focusing on 3D-printing of building over the last few years."
-    publishedDateTime: 2021-07-26T20:14:00Z
-    webUrl: "https://www.pr-inside.com/construction-robot-market-set-witness-an-uptick-during-size-r4840492.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 39
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Global Artificial Intelligence Chatbots Market 2021 Industry Emerging Trend, Top Players, Revenue Insights to 2026"
-    excerpt: "According to the latest report by MarketQuest.biz, titled Global Artificial Intelligence Chatbots Market 2021 by Company, Regions, Type and Application, Forecast to 2026, covers assimilates reliable and updated information,"
-    publishedDateTime: 2021-07-23T10:01:00Z
-    webUrl: "https://ipsnews.net/business/2021/07/23/global-artificial-intelligence-chatbots-market-2021-industry-emerging-trend-top-players-revenue-insights-to-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
 
 secured: "CbfL4rQPinr+uPOOCuRD4xj+j98uu8EXeJIwu25TbHnNsykyUW+w55vpE0qq9VWH2rqiLHae1L5ujCooPGJOmQ1wOVPh6qkgW76VWdthX3QOsXs8/A9lU6gfx+JWC1tYSZdxcuB4aRIdyMKhFUutRGBnFNKlbJLrLK3o07Dc5cX7kPZOeLTj7ddzuCUylit6Xkqi3Re3sHfKBSatzG9vR4giUOjHBJDt52I6E3Vew0i6GpoTjYZkdQE+2ZQcsmWce96K70dfbsjqSzb4tvC8gmXLoMRtI/YXpNcopQXT7FdtTlqcs0uYx7YyhLWi+BvmBtMuFZJdX0yyUAWZ/llVP0tsNLazFGuH/Wo75fF/+cpZEncblpatDCM2oMTnvCeB2K7ebdVAul5d/wPS4MJg1PE40jJQk4fD1UNRsCjHRGSJzVeuFyeoL+oWlFjXEe8gxn+GwHLOL45Rb5ZUlSfuUsW6E2F16cpGlPpP6fy557u/z7GxD3EHKw0IweBQFf/Zx8u9r7QSKmJtQ30ncbnaAA==;sbNh7urR4XIB05UHSufHHw=="
 ---

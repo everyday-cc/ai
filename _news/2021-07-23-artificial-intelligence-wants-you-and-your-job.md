@@ -25,6 +25,22 @@ images:
     height: 1333
     isCached: true
 
+related:
+  - title: "Artificial intelligence wants you (and your job)"
+    excerpt: "The creation of a machine with human-like intelligence that could someday fool us into believing it's one of us has often been described, with no small measure of trepidation, as the \"singularity.\" Respectable scientists like Stephen Hawking have argued that such a singularity will,"
+    publishedDateTime: 2021-07-27T10:00:00Z
+    webUrl: "https://www.salon.com/2021/07/27/artificial-intelligence-wants-you-and-your-job_partner/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 39
+    images:
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/09/robot-on-computer-0925201.jpg"
+        width: 1200
+        height: 810
+        isCached: true
+
 secured: "/7dRojjtoB2A4X538bDfP4HZB5K/wuI7LVi26Z9WUBCfBUCgJQAiYoVHkzyx2Gk3Prva/FcLHPcRc1yGocGu1sXhSeleV2/Ic7TlucdNiWOwX6ftZxtpwKXXXxaEtnEV88u1nBnqYTXL/3Md7OwpwIEjJ9nR2fDE8SD/gorT/N0eNvy4LXzm+Wet/vbeuauS1s6afJnh5X+7OfXruY4phMmyor4CrsRyzpvbpF/S8xCIiAEk/HuhlQY9s0dVB8kDINjl1q9PGC3u00rdhDtslMHf5M7wTJ9498Zia2Jv72MrB7XRWYHAC5L62G99ssj3J8YeJTYhsdHBxHMDPSF+NjRgRnRS+OceMu5Ham72NS4wPml/kuyo5HWMdOmzdN32bbEJnVP6cgNODx5hanUg51HJXdkZ4MtcmtmzK/G7huAcfEAsE6dP93UMq2ptq+R8Ua2NO8J/raxBp4t2boznNtEZtkdRuIamQET0ZZ8vrx8FQv3JuFsBf3Pas3IFj8XK/+z4E1UJqOWxirCB56jepA==;LWFT6tlF4bwNc8hBhUBUgg=="
 ---
 

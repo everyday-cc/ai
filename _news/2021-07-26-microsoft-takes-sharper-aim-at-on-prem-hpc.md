@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -41,6 +41,34 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Lanner Partners with Microsoft to Deliver Edge-to-Cloud AI Deployments"
+    excerpt: "Lanner Electronics announced its partnership with Microsoft Azure to launch Edge-to-Cloud AI Solution, integrating Lanner AI accelerated intelligent edge appliance with Azure IoT edge module, runtime and cloud interface."
+    publishedDateTime: 2021-07-27T15:52:00Z
+    webUrl: "https://www.automation.com/en-us/articles/july-2021/lanner-partners-microsoft-deliver-edge-cloud-ai"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 54
+    images:
+      - url: "https://www.automation.com/getmedia/6004257e-da72-452a-ba30-b0d426f4f6f8/Lanner-news-July-27-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "Verified AI-900 Dumps - Prepare Your Microsoft AI-900 Exam In Short Period"
+    excerpt: "Use ExamsSpy verified Microsoft AI-900 dumps and get AI-900 exam success in first attempt. IT Industry is developing and evolving leaps and bounds every single day. To keep up with the demands of the industry and to stay ahead of the competition,"
+    publishedDateTime: 2021-07-27T14:42:00Z
+    webUrl: "https://www.madinamerica.com/author/verified-ai-900-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 52
+    images:
+      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
   - title: "Machine Learning Software Market to See Huge Growth by 2026: Microsoft,IBM, Google"
     excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/20/2021 — The Global Machine Learning Software Market has witnessed continuous growth in the past few years and may grow further during the forecast period (2021-2026)."
     publishedDateTime: 2021-07-23T01:12:00Z
@@ -64,15 +92,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 45
-  - title: "Cloud Market Soars as IBM, Microsoft Build Out Services"
-    excerpt: "The cloud market remains hot, and some of the top providers, including IBM and Microsoft, are looking to add to the capabilities and services in their cloud offerings to make further inroads into enterprises and government agencies."
-    publishedDateTime: 2021-07-22T21:41:00Z
-    webUrl: "https://www.internetnews.com/infra/cloud-market-soars-as-ibm-microsoft-build-services.html"
-    type: article
-    provider:
-      name: Internetnews
-      domain: internetnews.com
-    quality: 21
 
 secured: "IlHDAGmN/TAefOLjGa/ozYhHyX2SCQK7F5LTU69yOk/uU9vzWhSfayVLrkbRIS69imkDwtvLc3J2/nB/Bg8+zhYU1o9YRKsCxVXtVdySv01sQ3aaL/Mfcuax9oK3ILZomiKFNwAwxYJucTor3Iz8bex8YkyFQu2kRuKVgf+iimrGr6PvlpykwRIDLdFJMt4ydAEMbezOmFFR8mFccqVDIJOdlKO4bx6dsNlSkaIQkKTRd+xT8YseNv5uV7eXszEEJrmcghKlGf9e4ZKDEle08zeQNxz98fr6sHahDbnBi50k3hb3KnNLx1QjZF4A8qNQAnwDselER+9qUcgssODYD30ppK6oyKrelKUios92a8MPxxpquM0DhKkeoDBrCkJNmghE/gMu7X84B5qk3m4HhT3vMVPhN3ncgR5RSvNZzUhv35aPhzOOPMpkEFP7w0kJ9dVqFjGN1mFyBsxSEWgExnzffqPyiGYfuVC9njMSqeoxdQJ+HtmxhuV/4WoHf6jgEZZoGLC8A9LM80MYlQYlTA==;geTRX2gox+RWL8OnEMAbfg=="
 ---

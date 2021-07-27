@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-earnings-apple-micro
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-earnings-apple-microchip-shortage-self-driving-cars-2021-7?amp"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -30,24 +30,6 @@ images:
     height: 599
     isCached: true
 
-related:
-  - title: "Tesla's Full Self-Driving Autopilot Feature Mistakes Moon For Yellow Traffic Light; WATCH"
-    excerpt: "Elon Musk-introduced cars are renowned for their advanced autopilot features that allow people to manoeuvre vehicles without being behind Tesla car's wheels."
-    publishedDateTime: 2021-07-25T17:24:00Z
-    webUrl: "https://www.republicworld.com/entertainment-news/whats-viral/teslas-full-self-driving-autopilot-feature-mistakes-moon-for-yellow-traffic-light-watch.html"
-    ampWebUrl: "https://www.republicworld.com/amp/entertainment-news/whats-viral/teslas-full-self-driving-autopilot-feature-mistakes-moon-for-yellow-traffic-light-watch.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/entertainment-news/whats-viral/teslas-full-self-driving-autopilot-feature-mistakes-moon-for-yellow-traffic-light-watch.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 50
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/p3icskzagaaoa6bv_1627229963.jpeg"
-        width: 768
-        height: 438
-        isCached: true
-
-secured: "wuozVVcIMxgssMuEKUGubBX87nr7+A0k8zF0E/j/oa+E+DW16INtlCMv2/hUIuPrKjrQS0ZyYum9RIzL6fzKz+CdOh8iv+qA6rm/FLieb89FxesqoH4zsMQJg9prMksJwnaSw7EZu+JcBoOKT8XouOBP5DA2nWo71invACq/wMzzOvNIv14CBvw3Tz98JfLKLUFrxgmBfeX9rxMUxV+SqD5egdFpU9HT2tCwmqrZZkhxiScWKjM29CtvIMGXpyFvrEf2JC4Fi9mDB2h80pBEgAwR1Azuq9q7yM0trq6tRSlpd1HCO6WBR3wzXOinspzF2JWP8E4eE8Ry1i3ppBp8WFk2pN6Ddo0WGjcMu0l6WEk=;kQciilzEg5Ph4e46XLd5nA=="
+secured: "Vg9EMXGrQ/z9hlYpQM2kApUX4tkA39UBPenl4x0soObddkvJ7P5VeDoPy0YIX/YDYyKcLnKdvWhI5OR2jxS/bYQqSfgfqywYFScjXMaraWxUHJXnHuk7HiA2ejfZOPkpnkxRfvAlaHOc+36+xxixMBRSJu1U+ED+5+fRU+RQvDi/CyNDoKXMRgkf2qgXwZXd6minWCwPLqkujfMOAPkHwYt7XIs/f06nnKma0BAO4Kiqhn4EPDXjOYwhG/gNk26sQ97PiGxJK56oMF2PZ/A/QI/0CIToeyLokayx8F49pi5k9VUkkWyccNQCBja3CYTnY9rgqWra/StDnWSRGbDOdZG9+QE34RBaghg2fAHkNZQBJHoiWcwlcFjuIjWB9xK0KVx05SWsp8ySXF/6AMz/NTVqtrwvhfTAPh9pRPPMuSdzJYeFMmKT+gtI1LZwZR4C3wRJdXuX47o0gk/Abh7Je2qZ0S+F6jx9nlps9yFm2k1reZdxf8ZWoPHHO8rWI5tw9luy6OJbDPfF4hiJ/3VoRg==;9fkFBZ1c56ph0K8t+RtHDw=="
 ---
 

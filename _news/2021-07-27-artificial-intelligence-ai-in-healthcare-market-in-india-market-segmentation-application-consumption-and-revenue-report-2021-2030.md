@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Manufacturing Market 2021 Industry Size, Share, Growth, Outlook, Segmentation, Comprehensive Analysis by 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Manufacturing Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-07-27T05:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-2021-industry-size-share-growth-outlook-segmentation-comprehensive-analysis-by-2030-2021-07-27"
+  - title: "Artificial Intelligence Market Size, Key Company, Recent Trends, Segmentation and Regional Forecast till 2027"
+    excerpt: "The Global Artificial Intelligence Market to Touch USD 25 Billion at a 48% CAGR by 2023 North America to Dominate the"
+    publishedDateTime: 2021-07-27T13:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-key-company-recent-trends-segmentation-and-regional-forecast-till-2027-2021-07-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
