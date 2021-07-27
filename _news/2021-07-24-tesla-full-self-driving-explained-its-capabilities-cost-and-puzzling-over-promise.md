@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-explain
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/"
 type: article
 quality: 98
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/M3OeNjerGN/sizes/yellow-moon_resize_md.jpg"
         width: 744
         height: 419
-        isCached: true
-  - title: "Lawsuit accusing Tesla of false advertising on its full-self driving technology"
-    excerpt: "Santa Barbara brothers accuse Tesla of false advertising of claiming that the Model S purchased in 2016 is fully autonomous."
-    publishedDateTime: 2021-07-23T01:45:00Z
-    webUrl: "https://techstory.in/lawsuit-accusing-tesla-of-false-advertising-on-its-full-self-driving-technology/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 50
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/07/tesla_autopilot.jpg"
-        width: 1200
-        height: 817
         isCached: true
 
 secured: "+Puto3ShFZsIfm8ktOgciag/88HigLUXMeotYuA+Q9RSSD34DFLksfNfuAWjWrvYj54IRCxfraQVVl/gpJwp0EFNWQj5QIdYQ3Ks3ZPSIrhmeFFhbaZgqCi5U4sh6gOsQ9AQGtNr043JSlRbVR1b3wP0uhnNi6ZakmxuohafIcG5VJnLXZG/5qztazu5n5QaNb1skQK4wiAmck8ukWnWcBHTh4RarsAei1OOO59laIsV3ZMpLL+5bGcPOl6e+MKbSg+QF7CrGxHMDUL63/Dfa6MQ5bjsUXrB+YeX/6HpZJajAZ141glwNNzUb3OkNYMVdsTB4CGj2v5XMlqQ6eHxH2zFzqjG9yU6Izc+pBNNhD2GFmkCMs1MWgMQ2GkJXIKchIi/PoV3lgB38OUkF82KjHSsY95+vjCk/MEP1mmUnqwkMlx15yrpcSWlYQ1Zl8RIpsaO/3NTcH40BG6AQAyF1IYkfTUkkBOqKtdnn2BM3ER/gathade5o+ONKa7W6ioAps5g+4JzWJAoF255Rjzyiw==;Hq4JOf9Nw4b3ka5fX/wWdQ=="

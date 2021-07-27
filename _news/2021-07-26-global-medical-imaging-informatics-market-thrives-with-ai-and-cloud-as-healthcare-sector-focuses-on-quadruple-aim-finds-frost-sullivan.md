@@ -7,7 +7,7 @@ originalUrl: "https://www.newswiretoday.com/news/175880/"
 webUrl: "https://www.newswiretoday.com/news/175880/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Presagen Lauded by Frost & Sullivan for Innovating a New Model of Healthcare, Enabling Access to Diverse Global Datasets through its AI Platform"
-    excerpt: "Based on its recent analysis of the global AI-enhanced healthcare market, Frost & Sullivan recognizes Presagen with the 2021 Global Product Leadership Award for leveraging its ima"
-    publishedDateTime: 2021-07-27T15:47:00Z
-    webUrl: "https://www.newswiretoday.com/news/175889/"
+  - title: "Presagen Lauded by Frost & Sullivan for Innovating a New Model of Healthcare, Enabling Access to Diverse Global Datasets through Its AI Platform"
+    excerpt: "The platform leverages a large clinical network to obtain data for developing high-performing, globally accessible productsSANTA CLARA, Calif.,"
+    publishedDateTime: 2021-07-27T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/presagen-lauded-by-frost-sullivan-for-innovating-a-new-model-of-healthcare-enabling-access-to-diverse-global-datasets-through-its-ai-platform-1030650928"
     type: article
     provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+    images:
+      - url: "https://mma.prnewswire.com/media/1581713/Presagen_Award.pdf"
+        width: 400
+        height: 366
+        isCached: true
 
 secured: "iguslQn6B4lXoP/8bjryaf1So22jPeMJSCL27YwUH8IvdGs75knfttHu+QU6/B1t1NYWhNlU9yt0TrOzEAMO4sHKX3I9l5RfbERF9fPhUqMBFTa37rPNHLVd0snvC5whMNxX65vU269c64u6v5llJQOtfj98uSQauNtTLyhkwmCZJfPIGAkIjJJ6/uM0UhG6UmQUa4+T3FmcrDmeChWJr405qkqKxrUKTziSjPIN/AVygwpLv/3LuLD7CAbhDwrLIusRjBQz30NKRqDSSRIKXq2Qk2bdrjC0ji1JQwrr06E13Ym+SgkyaPCtmavHgvvWfByP6ABTNqVXgQLcQqTciAfRmp/pGIUcJiOQ2cCFMiY=;8lut+C/hR/QhENpWE/jpVg=="
 ---

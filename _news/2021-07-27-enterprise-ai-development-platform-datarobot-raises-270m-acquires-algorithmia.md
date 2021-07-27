@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/27/enterprise-ai-development-platfor
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/27/enterprise-ai-development-platform-datarobot-raises-270m-acquires-algorithmia/amp/"
 type: article
 quality: 100
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI startup DataRobot reaches $6.3B valuation with late-stage $300M funding round"
+    excerpt: "DataRobot Inc., a startup whose software makes building artificial intelligence models easier, today said that it has raised $300 million in late-stage funding at a $6.3 billion valuation. Boston-based DataRobot is already putting the newly raised capital from the Series G round to use."
+    publishedDateTime: 2021-07-27T18:55:00Z
+    webUrl: "https://siliconangle.com/2021/07/27/ai-startup-datarobot-reaches-6-3b-valuation-latest-300m-funding-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/datarobot.png"
+        width: 930
+        height: 517
+        isCached: true
   - title: "DataRobot Nabs $300M, Algorithmia"
     excerpt: "In a move to solidify its position in the emerging market for enterprise AI platforms, DataRobot today announced the completion of a $300 million Series G"
     publishedDateTime: 2021-07-27T16:27:00Z

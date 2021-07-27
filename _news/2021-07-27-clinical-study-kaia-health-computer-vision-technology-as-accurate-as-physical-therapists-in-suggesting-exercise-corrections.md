@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/clinical-study-kai
 webUrl: "https://markets.businessinsider.com/news/stocks/clinical-study-kaia-health-computer-vision-technology-as-accurate-as-physical-therapists-in-suggesting-exercise-corrections-1030649848"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Kaia Health Computer Vision Technology vs Physical Therapists: Who Wins?"
+    excerpt: "A new clinical study published in the peer-reviewed Journal of Medical Internet Research demonstrates that the computer vision technology from Kaia Health is as accurate as a physical therapist in suggesting exercise corrections."
+    publishedDateTime: 2021-07-27T18:38:00Z
+    webUrl: "https://ptproductsonline.com/practice-management/telemedicine/kaia-health-computer-vision-technology-vs-physical-therapists-who-wins/"
+    type: article
+    provider:
+      name: Physical Therapy Products
+      domain: ptproductsonline.com
+    quality: 53
+    images:
+      - url: "https://ptproductsonline.com/wp-content/uploads/2021/03/MultipleSclerosisRibbon-440x264.jpg"
+        width: 440
+        height: 264
+        isCached: true
 
 secured: "v+R3ev5LgIgbcXCiJO0PtE4pKjGCrC1Ewily46n53Kn0spU7qb/ultwowLPdwS4TbXJeb/+69F9TdmjVCAN2xmQylX8pRB5c41gSdKSicmrV7dJtvQmbvdCW4+4j/2/s1stqUCV3FiVL0dakuOVc1Ti+8MDagT+nFzUqzXsAnH+5OwZMt1D0VdqMJKKlvMApfmcJXTzvVPCr3aFlvMkEPqcBWr2jFjcOybQsB7zMyFYoLaTfEIhibQ3bbVkPxA8MfjkccDc26oo7wcwICtAyldzJ2sGmc4YfQYZU19M+x0ZqeL9KP4nYHUuFabV7Q3LRd51r2us2dEGfTH2Q5clleqHdwulmeKNSxbt+wT1T9ZU=;p+lTk8NrJsNJ9ukaGMol3w=="
 ---

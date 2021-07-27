@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-latest-report-2021-with-size-status-value-sales-and-forecast-to-2027-2021-07-26"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -40,6 +40,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
+  - title: "Global Artificial Intelligence in Retail Market 2021 – Top Manufacturers, Latest Trends, Future Prospects and Forecast 2026"
+    excerpt: "Global Artificial Intelligence in Retail Market 2021 by Company, Regions, Type and Application, Forecast to 2026 announced by MarketQuest.biz gives a severe thought regarding the various factors and patterns influencing the improvement graph of the worldwide market."
+    publishedDateTime: 2021-07-27T13:12:00Z
+    webUrl: "https://ipsnews.net/business/2021/07/27/global-artificial-intelligence-in-retail-market-2021-top-manufacturers-latest-trends-future-prospects-and-forecast-2026/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 6
 
 secured: "RZ17qd6fMUUXXuO2rjWGPWt+E6kPch7gB5UDQbuY8vPVPQoV9WkghGW5DiGoIBY/oZeXKigam8WQqc5o4/YQgAlbdLXuBVMTNVavzlseye2VizUT2MJOG+Ou4UvWQrLGxBYEyml3isLybWBIWpaTJJukr1Is0Btwrdq9LEHkOpj/CkeHsc0l0vMOSepBZ/7wNIFj5PMQPCbSXqxGL5vg3ZfQ9UjZGowvZGPfjTYVIlA+A7RyU3C0BOjQLwx8WdV0Qm3BDcVhY/CuEY/TnNy6GeRIvr+sNcnROlBtlkCf4Zx8/YMAYLFODBJHGnahZ1AHO1fh7BORmnVpSpbfWsSE8or1ZJwwukKzEOSrBPmvMTw=;grgkfxOEIycmrgQxRCFoFg=="
 ---

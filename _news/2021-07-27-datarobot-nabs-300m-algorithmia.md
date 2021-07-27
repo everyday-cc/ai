@@ -41,7 +41,21 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "AI startup DataRobot reaches $6.3B valuation with late-stage $300M funding round"
+    excerpt: "DataRobot Inc., a startup whose software makes building artificial intelligence models easier, today said that it has raised $300 million in late-stage funding at a $6.3 billion valuation. Boston-based DataRobot is already putting the newly raised capital from the Series G round to use."
+    publishedDateTime: 2021-07-27T18:55:00Z
+    webUrl: "https://siliconangle.com/2021/07/27/ai-startup-datarobot-reaches-6-3b-valuation-latest-300m-funding-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/datarobot.png"
+        width: 930
+        height: 517
+        isCached: true
 
-secured: "Oc0AB4ScNhnRzS2+oxbq2+VhrgTAjg6ips4s5zYZNo7nk7MfZ3uRZznwl6OsKeMOBV62R6EGSvhE5JhJd6M1E7UgPbU8A3VWgU4geZPgkmOfX94JTeiVXHrF8T48SBG9EsRZW6aMvr5eRuN5p6wTO5LydrvF2yIWNtj9KfGBeDvk6L8YL3Xf872M6azIyDSTAVHxwTvuy/1MOnOyZu/Bf26pk3FQ1u2qYf4ibTNRhoER4az+T8vJ0VswuycBVbUwoNrV4JwpW0Y2Fa+UrSTApT9xSywSjX/LYztRzday0MhzAsND8jMw4FLNOqY9Z5nAIH2xBxQxnA2k8Vuxof5WU3VfOnPSUXftKFq4CILwOHw=;M28gxHr1PtHLk+SHLP6peA=="
+secured: "daQ8GDA7ClaNnpHDDO1hcqRiYtitkdy+aJHGF8EtjTlm40CJMw5PXeUiJK4HLJs1DGlDfWVptADjNtXt5dlYH8ntiZQLQGZpFVWXZe9cQAZppNO4hMqfSxMQzN3iRpZh800LVnAxbQgztL0fB4c6xaFdfVhByyh9lrPaBxg2pnFZSsPmSmqPbq4nfZQA/Ar+x9JIt+iBEDqOM223vZ0H+Xvt55OqJwbKnmyNByTtpybgL9kN8/hycJdTXQPvTkjz2C4/uCKX6dO8HAHb9Mugij0Sl+bc7tYw/3+lGm6M1JaPscmuIP1/4HmkgvduiwPuH03r1tClA3ke4Uyq9izwfXJ8FcqGj7X2b4cGa4thUtsNNr3h8k3uuVgQl/ML/0VUnMSakY4RCFfAHAyqkpDZOUbLvSt/vP7xzvAQkIAi3OFUa4O0lqUaC+L04C3efpwDtLpuQq6/6hO9cDOXKIQoqcsKY0sMMmvTdXCGVCptGw/kg/wq1reeuaubQrjgvaVoZaSlIrFxAIHCdUBMrWxUNg==;uUk5j4t61aU+i+6kk7weeQ=="
 ---
 

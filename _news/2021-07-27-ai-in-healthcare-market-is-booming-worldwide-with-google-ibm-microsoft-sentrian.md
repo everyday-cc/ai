@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2338927/ai-in-healthcare-market-is-boomin
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm"
 type: article
 quality: 85
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
         width: 300
         height: 285
-        isCached: true
-  - title: "Machine Learning Software Market to See Huge Growth by 2026: Microsoft,IBM, Google"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/20/2021 — The Global Machine Learning Software Market has witnessed continuous growth in the past few years and may grow further during the forecast period (2021-2026)."
-    publishedDateTime: 2021-07-23T01:12:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-software-market-to-see-huge-growth-by-2026-microsoftibm-google"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 50
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Freedom-Day-England-AFP-1K-03-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Artificial Intelligence in Healthcare Market"
     excerpt: "The global AI in Healthcare Market size is expected to grow from USD XX billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period. At present,"
@@ -127,6 +113,6 @@ related:
       domain: manometcurrent.com
     quality: 6
 
-secured: "rpYIovJELFJKhXsGxQtKyVU43vqgXpRxLxPuycfwYchcyjnvIC6/lQw6XbzJ0jMkJXtDrI8CSvUA9MvFqMtOZNexTmKn/mN2ma8QIS8evB8n6+5rZzX8fwdxMM96+obV43wudjQns7+Q4a0MHynuH8E5rvrTn4iIIEMNMxRNLyfk/mCyFKb6ekOUXag100SlPFgIP+4qLX4vpmrm94MMthPeB0mI65HELJxFaZMakZes2UloMNT3hEjKaE8jItUxeK68t0Hgwh0P50EBE7ME1ihAQVAfEMOy61ItAmyzYdgxN4wpHXhp8KyynotoUd6XRf1A9KlgtMmF9hNtm/+J35I2MotQRqHXojv6SB5mK0k=;JeDPyj1AB3uxsj4x3wc8MQ=="
+secured: "Z+TcfZYGwqfFJF3pzRsKezTFsiOTzG9QnVPrTOIVdB7HbGcL4bsx5r0BDYJfPgDvrVfIw4+phrXoAzYnh5kCl/L/XF6VYNcAZ8FCUwHz92CcxuJlt+EDLOmV5HeuJChYDupDhoLZhawsgu3mATw2czHuelDAkaQ7U5aB40+VXhfpSyoiBBVmPM+qepA+js+oMXPgBchuo7h6A07pDZSpmdIAOrCKMqrcpYVnC+pDBVVLkFfwoukwQcWfaVsiT2Mq6bjqd8slrOKfwtMzMW5e6Vte8QbTshadrpU8TDUCblCt5d43AakDIuUJeGRyO/ghslpjPEOypwofAkQ8f8qNjej/wPvXfOAL17d5+rBlrD9fLA8/7NM8SA0xYVNuaFt/whw7/gXS9MnMS9FsTiMXdDgzvvZWJ89jHomtFacV2U8IuVtKuzBocvbI4i95wwv9/rYOwbkVWDOm6C22PZDB/UMNTjmEBCi/RSWCD3wA5DCqYKhfa0Xl1zknUwLux8UGzx3so3H3TSTUEfEQzWGaXg==;ynfEEITQc5/22mZ7WV4EDA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-you
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/"
 type: article
 quality: 71
-heat: 71
+heat: 73
 published: true
 
 provider:

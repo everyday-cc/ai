@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "SIA blasts misrepresentation of facial recognition studies"
+    excerpt: "Face biometrics are in fact highly accurate, and the leading commercial algorithms do not deliver biased results, the SIA states."
+    publishedDateTime: 2021-07-27T16:32:00Z
+    webUrl: "https://www.biometricupdate.com/202107/sia-blasts-misrepresentation-of-facial-recognition-studies"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 41
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
   - title: "Heritage Expert Testifies to Congress on Facial Recognition Technology"
     excerpt: "In recent testimony before the U.S. House Subcommittee on Crime, Terrorism and Homeland Security, Heritage Foundation research fellow Kara Frederick warned lawmakers that facial recognition technology is vulnerable to misuse and portends a slippery slope to mass surveillance."
     publishedDateTime: 2021-07-26T00:00:00Z
@@ -54,20 +68,6 @@ related:
       - url: "https://www.abc.net.au/cm/rimage/13472084-16x9-large.jpg?v=2"
         width: 700
         height: 394
-        isCached: true
-  - title: "SIA blasts misrepresentation of facial recognition studies"
-    excerpt: "Face biometrics are in fact highly accurate, and the leading commercial algorithms do not deliver biased results, the SIA states."
-    publishedDateTime: 2021-07-27T16:32:00Z
-    webUrl: "https://www.biometricupdate.com/202107/sia-blasts-misrepresentation-of-facial-recognition-studies"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
         isCached: true
 
 secured: "SBRhcehMWa3PUd62rjMCDVZcqO+BRaJ8SNj4aGqMPLZcfarsk/l8YCig4Di4zQ8nkL6hYfvH3YIneCIbuvU6fgWqAa/qX0cERq9wEVrhwv/DsJK8GIYcVy0pYIokgonMI57Q1RrQxoa9jBPhtsWoR5HSKijR/PlqzirJV1D13e9cUcLV8ccVEzV/A2k5giLs4fXyQs1JZjHNYiXFUoD/iiZb3CZOzHI31YPUtm3gF6WLQKZcjRmx2IXLpqTZpieuhHMdZyrBlR9ik1XLcsWxfiCaLVPViMaVF0fPtn+lwula0y5jH8KtYuN134RZ2atJXBecg10Y/Z6mdFxLN2b/0C6NhHlRX0pjYYiDP7nmJGE=;PI0FY5fDV7CoHgz+GA4Pkg=="

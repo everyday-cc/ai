@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Patent: Display-Embedded Face ID, Touch ID Could Come To iPhone 14 And Beyond"
+    excerpt: "Touch ID in the display is probably the least surprising development for the iPhone, as Android phones have long included the ability to scan your fingerprint using this method."
+    publishedDateTime: 2021-07-27T18:50:00Z
+    webUrl: "https://hothardware.com/news/apple-patent-touch-id-face-id-iphone-14"
+    ampWebUrl: "https://amp.hothardware.com/news/apple-patent-touch-id-face-id-iphone-14"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/apple-patent-touch-id-face-id-iphone-14"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 38
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55810/content/iphone_12_hero.jpeg"
+        width: 708
+        height: 627
+        isCached: true
   - title: "Real-time text search technique wins patent for face images lacking tags"
     excerpt: "Among the proposed applications for the technique, according to the company, are useful face search engines and programmatic advertising."
     publishedDateTime: 2021-07-26T16:39:00Z

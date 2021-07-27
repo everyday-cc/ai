@@ -89,21 +89,7 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Lawsuit accusing Tesla of false advertising on its full-self driving technology"
-    excerpt: "Santa Barbara brothers accuse Tesla of false advertising of claiming that the Model S purchased in 2016 is fully autonomous."
-    publishedDateTime: 2021-07-23T01:45:00Z
-    webUrl: "https://techstory.in/lawsuit-accusing-tesla-of-false-advertising-on-its-full-self-driving-technology/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 50
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/07/tesla_autopilot.jpg"
-        width: 1200
-        height: 817
-        isCached: true
 
-secured: "lESEwMFBmzQjCEagcpQTOeHvkjdB3L1eHzs+UnW80s9QW59y/WhkR+WNEwaesirw4pCoaO7ljZ0uLQLJi4tz3KeKnmlUncYylcMrYInbE6kBOqD9f1ULOpB7AvIxxZYfxlgDAmZjilQWkodyYU0T2cU9toi0/Jv3lpxyj5hMFzBDQErbBXCOyrPBvGDbDgkrf9wDD7bZgv5t/Ani0LmKgr3KW5ap1tv2YmwgIrnB+/qzk+ulpm2ULLaAMUPb3q2zpTGeR9EQKKS1I1sGJ7Vhu1HOkysiVsU1A0NMFTAEOxWYB8JrJdplOa2fT1U3IfEGvHAlGm+Y7BJt7tXFhQjqjd5S5qpTmvuTUanrEHcVxbU=;eU7hJ9aMqORr1WkQ5wSlyA=="
+secured: "64AEZHPF8uG2CQMxzyKW+Ju6AEuojuZBC4sWOzyTJgWMtxVBWYxt95SupJo8AoM5cbYqojZzWZx35ba0Yqp4xJAK89P4tg6C+1g54uZ5/LlBfnxnK+upxOB9M00jm71kUe1GHE5Om+x96yu7z7pIzgh3sMqyfEcTk2PwUkJlYUVkVsGHvyEHFTf48Pcwl0TDnFrqQjCl5cgZQJtAynKMgNtZz2aG2n1qc0D68JEPBdlcqWC1PiSxW/1Leyzh42rAc9eBQ6PiFX/UwZI7L8Me+JQNeQuN44UElbEC45eEw9lE8evBwZJuA1ga1p49OEoMkeO6OcBn0dJ9eVaFIBrtw/8d3gi/QlQ3P9qI1D17zpwliNH3HUOJ0QA+rFZwHt+x7n6egtAoySUbqJ4Dcc7yZ6Qnsu8MtjCNl9zS1doIIaXaqFxW2RGH3f81rC+wOEWDRS5q6M5IiPd0XChi0zu8hFQsr6ck7EJfl6JHI23GCQfNohQuHThdFBtXAdiZW0dVeA4tHVJMer5stFdGpl2ajQ==;SEkHP1lFo2z4ZAO8nYBSqA=="
 ---
 

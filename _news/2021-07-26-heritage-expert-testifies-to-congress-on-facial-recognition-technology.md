@@ -41,6 +41,20 @@ related:
         width: 726
         height: 545
         isCached: true
+  - title: "SIA blasts misrepresentation of facial recognition studies"
+    excerpt: "Face biometrics are in fact highly accurate, and the leading commercial algorithms do not deliver biased results, the SIA states."
+    publishedDateTime: 2021-07-27T16:32:00Z
+    webUrl: "https://www.biometricupdate.com/202107/sia-blasts-misrepresentation-of-facial-recognition-studies"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 41
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
   - title: "How facial recognition technology is used on farms of the future."
     excerpt: "Facial recognition technology .. you would expect it at airports or crowded events like football stadiums. It is now being used on farms, but not to count growers or grazier's.. not even sheep, this technology is used to count the heads on crops."
     publishedDateTime: 2021-07-27T04:25:00Z
@@ -54,20 +68,6 @@ related:
       - url: "https://www.abc.net.au/cm/rimage/13472084-16x9-large.jpg?v=2"
         width: 700
         height: 394
-        isCached: true
-  - title: "SIA blasts misrepresentation of facial recognition studies"
-    excerpt: "Face biometrics are in fact highly accurate, and the leading commercial algorithms do not deliver biased results, the SIA states."
-    publishedDateTime: 2021-07-27T16:32:00Z
-    webUrl: "https://www.biometricupdate.com/202107/sia-blasts-misrepresentation-of-facial-recognition-studies"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
         isCached: true
 
 secured: "5XkSeYtjdYQbZ1g7dXlsoKS7bu8e8zhyZEoOzQsDy7Oihk8zaJokCuqxbfOqm5ILuGCUvyu4gWXm5PffwrGUUA1UZt2zf4Mw2nCVNoLKxGHiJKXcePGdhTkztqeITbnxDNvJSt5nqrXk6xxuHcJMCYY9u8LOyjm16zl4PKs5YfrUZIO2U2jd8YDdxjpNB3wS3FktVUM2Nmd1e5r+4DNstjDXQKKIpDU2kNsiiPbc1uYHSsQqbN0bKmzRkigG9iT7+uyyNFWSm8mUFmzx83/5bVrCFfGA4+G/yVc9pI/iJN/sqp8rWp6g2gFIV4IEPui0XdCVkApxX3F9KtLM6tvhfTNI9jaIJ2a4tY5bmY91sic=;c1YERNbGO/AyYaO5IZyIMw=="

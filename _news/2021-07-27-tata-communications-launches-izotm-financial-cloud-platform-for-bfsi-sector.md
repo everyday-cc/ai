@@ -43,6 +43,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Tata Communications unveils IZO financial cloud platform in India"
+    excerpt: "Tata Communications on Tuesday announced the launch of IZO financial cloud platform in India, that aims to enhance performance and security of organisations in the banking and financial services space."
+    publishedDateTime: 2021-07-27T11:58:00Z
+    webUrl: "https://mybigplunge.com/business/tata-communications-unveils-izo-financial-cloud-platform-in-india/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 24
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/07/Tata-Communications-unveils-IZO-financial-cloud-platform-in-India-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Digital Transformation Spotlights Long-Standing Data Issues in the Financial Industry"
     excerpt: "By Diane Robinette, CEO of Incisive Software A digital transformation is well underway in the banking industry as financial institutions further evolve their internet and mobile banking services. In the mid- and back-office,"
     publishedDateTime: 2021-07-23T19:13:00Z

@@ -64,20 +64,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Machine Learning Software Market to See Huge Growth by 2026: Microsoft,IBM, Google"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/20/2021 — The Global Machine Learning Software Market has witnessed continuous growth in the past few years and may grow further during the forecast period (2021-2026)."
-    publishedDateTime: 2021-07-23T01:12:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-software-market-to-see-huge-growth-by-2026-microsoftibm-google"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 50
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/Freedom-Day-England-AFP-1K-03-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market"
     excerpt: "The global AI in Healthcare Market size is expected to grow from USD XX billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period. At present,"
     publishedDateTime: 2021-07-23T17:20:00Z

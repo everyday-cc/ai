@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latin America Artificial Intelligence as a Service Market is projected to manifest the fastest CAGR of 36.92% through 2025"
+    excerpt: "Selbyville, Delaware. Latin America Artificial Intelligence as a Service Market report provides key statistics"
+    publishedDateTime: 2021-07-27T10:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-as-a-service-market-is-projected-to-manifest-the-fastest-cagr-of-3692-through-2025-2021-07-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Cmh1tm15+OwB+lQcRIFIxeZ1WE0cvHu1AW6YRsTxZm6W098JDbqMDUY/jnUtBbUkw91QTOPiQDfUfU8c+hMdmY7IGB6gmkG9tQ3yWm1zAMu9fAora/MVWusG+dbR8s83jUWDnqLkZ9PC8O4qSTwYwJ6T2iHEBnu4ZxDSWcRZ7tNf0+CSAEbkGqBRaeehNXmqoTyhIy8p7GxXDcaNCx/4iv0V1fX4yq6rLMiW6ICUfltzOM1nrsf1amDsk+lHqZ7keWB06wz+is+zdLne2HLbo3wPtcXWbuCWMrhdFk4hbAa8xfAZsKoPYFqeVJUFiQYfyr3AmUsYz39kiyGEaJwXEs2/x1izN1KA+4aZUtQ+0nQ=;r8gAdWWEONW4et5f7eUW2g=="
 ---

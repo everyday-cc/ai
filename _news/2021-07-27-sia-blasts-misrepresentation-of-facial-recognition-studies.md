@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-27T16:32:00Z
 originalUrl: "https://www.biometricupdate.com/202107/sia-blasts-misrepresentation-of-facial-recognition-studies"
 webUrl: "https://www.biometricupdate.com/202107/sia-blasts-misrepresentation-of-facial-recognition-studies"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
@@ -70,6 +71,6 @@ related:
         height: 394
         isCached: true
 
-secured: "BxvVSiBoiegH9nMfJJ3Bj7nQWDJ2K5CZaL7v0aL4ZggIbHE/FeEJAcC04SJGCFhqVapzile8HKOKpJcHB47URIFtTyKNa6KLnhocreos0ZemwR+ojYApBFt3Yl4+psElg1Fv0rWE4P1qjqDTfZBlDM2Z8KUDD91XkNJX1/uuykW2B1QKcHa7oG0QmturZAAeeIoiH0ElpqauFFbCF8/cYxvQhjNvKSBN18VT1uulkBwHXYrPhlNzo6cnzThso4x5zAGNZ3LvapcgG9zWO6ijSvGwupP4Clgpd1+aWhO4AB5VfP4Ml9PSx779BA64u1jevmMYmrKPm+EJR7FUFHHpCvTwWtC8Fu2/WcfGwcYG62A=;xWMnhT/vze0AFQmxCrmlDg=="
+secured: "7uYpXcb3p0Uikc1Aqnv7eU1y+GU2ulxTCigfBJaaLR7vxZz/NaJPaw09j525qU7CArY7OtJz722TCaLASx7lKTDvL88PwIbSCHmrahz6OyaC9Ni/AdoJkil5jH+bqs3gxfUC2MBMiO5oTAeKoNOZ0QC5GJ9gczw32Zb6RjPlqSWBxvIZRMj+RsT0ufVnjehIoOZeoZu7p8jTFV7jXScEbsZ2mzUiM1rHfvUvzKay6ezE0smjDZTBVpbyDHrVwDvR6QaGfJlwlG+vo5O5zl2UDA497h8CMlDnWw+ZqG1qsr3ojjbC2GIqPja37enJ5nE4+9cIirTL35hNjVXKpW2ev65hub6j/6qreX317DJm9vuSg9SAGuK5WYpIxLjvoET9cWHUzvT9TC6CJGlMdeY3Tng6RwpEQR5O9MYYVXdKkyLl4eakCw8JvdhaVyyw0pj5BgovXK2qtdmcNbq58AMwqfoF1s4CB/Q3VPOEJ9pIn/Ffs7+/k2UecG76RjxUNMuyjoscGTrrUlJV8uSb5432mg==;p6LN1yCDaNHWUbKaNhs6Gw=="
 ---
 
