@@ -9,7 +9,7 @@ ampWebUrl: "https://nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self
 cdnAmpWebUrl: "https://nextpittsburgh-com.cdn.ampproject.org/c/s/nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo to open offices in Pittsburgh, an AV tech hub"
-    excerpt: "Waymo, Google’s former self-driving car project that’s now an independent business unit under Alphabet, is expanding its presence in the eastern U.S. The company said Thursday it would be opening offices in Pittsburgh,"
-    publishedDateTime: 2021-07-22T18:30:00Z
-    webUrl: "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/"
-    ampWebUrl: "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 189
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/11/waymo.jpg?w=799"
-        width: 799
-        height: 432
-        isCached: true
   - title: "Anderson expected to start as Pittsburgh hosts Milwaukee"
     excerpt: "(lat strain), Ka'ai Tom: (back), Colin Moran: (wrist), Erik Gonzalez: (side). Brewers: Devin Williams: (elbow), Justin Topa: (elbow), Dylan File: (elbow), Lorenzo Cain: (hamstring), Daniel ..."
     publishedDateTime: 2021-07-27T07:58:00Z

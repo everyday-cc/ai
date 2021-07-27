@@ -1,29 +1,33 @@
 ---
 category: news
 title: "NCOA and Volkswagen Study: 70% of Older Drivers Embrace Self-Driving Vehicles and Ride-Hailing Services"
-excerpt: "Today, the National Council on Aging (NCOA), the national voice for every person's right to age well, and Volkswagen Group of America released the results of an online survey of older adults designed to better understand attitudes and"
-publishedDateTime: 2021-07-26T13:09:00Z
-originalUrl: "https://www.lelezard.com/en/news-19918810.html"
-webUrl: "https://www.lelezard.com/en/news-19918810.html"
+excerpt: "Today, the National Council on Aging (NCOA), the national voice for every person's right to age well, and Volkswagen Group of America released the results of an online survey of older adults designed to better understand attitudes and perceptions about self-driving and ride hailing (SDRH) services and their perceptions about alternative transportation options."
+publishedDateTime: 2021-07-26T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ncoa-and-volkswagen-study-70-of-older-drivers-embrace-self-driving-vehicles-and-ride-hailing-services-1030645196"
+webUrl: "https://markets.businessinsider.com/news/stocks/ncoa-and-volkswagen-study-70-of-older-drivers-embrace-self-driving-vehicles-and-ride-hailing-services-1030645196"
 type: article
-quality: 23
-heat: 23
+quality: 53
+heat: 53
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
-    width: 640
-    height: 480
+  - url: "https://mma.prnewswire.com/media/1580375/The_new_study_by_NCOA_and_VW_of_America_1.jpg"
+    width: 400
+    height: 264
     isCached: true
 
-secured: "kqv7nfck56yalaknsyyt5j9koCcR/yqzKnx89uA37ASV/DA/gBVlowsgD2grjVjiGlVkMYxXeKZH0ZboMW2XQaTpfghiYCJ6x7+ufD9W1R7YfiJFTJN+G83App00RSuVO6KDjGOZTsEnxFOa8IUfOpJAN4lXYkHE9+miw1+BbtVL0YN4rMePHqMSDk/XVBDxAO5wwPRkI644sqtsVlEiHfe8hlekckEncZ7mZsQ3isdC+9SCzfU12N80lQl7sM9+In7o6/7L6U+wvuNndiOBFLOBTaQwbKC9L1Lw/Y8b+yv/UPJA9pM6CLEMzDuSm4ddBnADPIJ1TFr6h6jdIrhogjCE3YoeG8CGDDeM4DrEy6s=;9iCFuLl5CI3x7c/Di9ivdg=="
+secured: "02/s67Dz2bO6Im1HgrIZiDHhsxrMlYCTHyuBr5+mKSYwX7k+FhK9kcEqGqyC/AOruMp8jn8JqtF0DmL3UK7/uKvBe9qKqyb1Xxt05OieJVncGFx/VNKr3oPYylsYu85S4b0AfwaQoyrFzdkB6jfV1vcp7arQ/mMEYKUbNudoUqOVjUiCD7sCP9Mms9eP91jRlUNXi50IjhDamYKVpJBBM97uRlX5XiHAcw3dm1cDGOoascZY6JjckiHRLrTzldUaFt03m5DPl9r5P0Bpk5pUK20GEFghygcqU7tVAfqNGOnx3gV1LUBnHyCmdXzSBcHrv40IAHLU7RQHnPwjZhW46OwSZ/rbGzauz6RyON9YpRs=;QFy0wWOP2MAlCIY3ew8xRg=="
 ---
 

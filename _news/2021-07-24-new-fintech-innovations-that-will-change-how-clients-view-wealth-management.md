@@ -99,6 +99,20 @@ related:
         width: 1379
         height: 920
         isCached: true
+  - title: "Canada’s Fintech industry paying off for business events"
+    excerpt: "There’s something about Canada that inspires images of size and grandeur; whether it’s the expanses of beautiful lakes, the vista of stunning mountain ranges, or the jaw-dropping emptiness of its national parks."
+    publishedDateTime: 2021-07-27T08:27:00Z
+    webUrl: "https://www.c-mw.net/canadas-fintech-industry-paying-off-for-business-events/"
+    type: article
+    provider:
+      name: CMW
+      domain: c-mw.net
+    quality: 24
+    images:
+      - url: "https://www.c-mw.net/wp-content/uploads/2021/07/RESEdmonton-Skyline.jpg"
+        width: 802
+        height: 537
+        isCached: true
   - title: "Virtual partners have a growing role in the fintech space"
     excerpt: "Future-proofing fintech? We caught up with Will Marwick, CEO of the global fintech company IFX Payments to find out more"
     publishedDateTime: 2021-07-25T13:25:00Z

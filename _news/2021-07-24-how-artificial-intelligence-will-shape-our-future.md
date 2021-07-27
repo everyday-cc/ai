@@ -40,6 +40,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "An AI Road Map Starts With Data"
+    excerpt: "AI should be a priority for businesses. However, this game-changing set of technologies requires a solid data foundation, and businesses need to bolster their data engineering capabilities before they take on AI initiatives."
+    publishedDateTime: 2021-07-27T11:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeee92c240fb26d335a07a%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Do We Prepare for an AI Future?"
     excerpt: "How on earth did we survive before this technology arrived in our lives? We survived, of course, but were quite literally lost some of the time. My reverie was interrupted by a toll booth. It was empty,"
     publishedDateTime: 2021-07-26T09:00:00Z
@@ -85,6 +101,20 @@ related:
       - url: "https://cdn.techhq.com/wp-content/uploads/2021/07/000_1W37NC.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "AI infrastructure solutions built for present and future success"
+    excerpt: "Simply put, the infrastructure that powers AI and deep learning applications is both fueling and limiting AI success, and organizations that manage to build enduring AI infrastructure are those that are destined for success."
+    publishedDateTime: 2021-07-27T10:28:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1623758832_993.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 37
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1623758832_993_lg.jpg"
+        width: 315
+        height: 408
         isCached: true
 
 secured: "ITxJ4pCg96n0+L3EPbCeomQpRfzMS9FXqliu8gQLUHCY9VZYElD6kUyZSGcaXk0FuanBsnw+sb25wt5Bh96qk5TcjasZ+PCFAqWnGnWVMXQZGozh62f9yTnCiYxMtD/DiOr6aQZk1VqUAb8kxyRbw0cINHJwFrogfY4pagvAcrv4ASqXlkBpywD5h+Tb9d4potQLzAL81jWekKa2L3ptliJnhoaUjRkv4kmBUlxOazoN7ibqwpAY2cUo/VImmyhCf4aTXrnVMaQHESIFQbg6ysAWuSqSGacjrVsfcX+tPQKpq13gCFv3qb6b+YGlA7UqRjoQn1GXc6Ja6vafQXD3nR2LPtO82d4p/6f8onigN94=;X24WtNHRaB72ldFVpasxtA=="

@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Diverse AI teams are key to reducing bias"
-    excerpt: "But if you are on the receiving end of a decision [that] is being used by AI, that can be disastrous,” Huma Abidi, senior director of AI SW products and engineering at Intel, said during a ..."
-    publishedDateTime: 2021-07-22T17:40:00Z
-    webUrl: "https://venturebeat.com/2021/07/22/diverse-ai-teams-are-key-to-reducing-bias/"
-    ampWebUrl: "https://venturebeat.com/2021/07/22/diverse-ai-teams-are-key-to-reducing-bias/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/diverse-ai-teams-are-key-to-reducing-bias/amp/"
+  - title: "AI can add bias to hiring practices: One company found another way"
+    excerpt: "After anglicizing his name, the founder of Knockri got a job. So he created a solution to remove bias from artificial intelligence in hiring."
+    publishedDateTime: 2021-07-23T19:05:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-can-add-bias-to-hiring-practices-one-company-found-another-way/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-can-add-bias-to-hiring-practices-one-company-found-another-way/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-can-add-bias-to-hiring-practices-one-company-found-another-way/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: TechRepublic
+      domain: techrepublic.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/bipoc.png?w=1200&strip=all"
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/07/23/716e61a2-2ff8-4dcd-afe3-2a69cdab0504/resize/1200x/8d8200805da615fb588a80324881aeac/hiring-bias.jpg"
         width: 1200
-        height: 604
+        height: 900
         isCached: true
 
 secured: "AjWT1qhGJ4o6X5EA/Gua+oLPKNoor7nbMSSONOz50z0G/Nb1B6//Z+4ks049I0l3mvVhWLsE1MKI9JlCrv6MvD8JYvNLvGCGoU2bms2wQH9sEJ7aKnc8ftowViSTaXplTSoMTO6xrAf+pUKIoxFenezKylCZz5zavfQve/pElERbZVA+Xv6SyOLxfDtxBuhqOoieXIoqqamADB1jzUGo+4w8ql+rbDPGaja/yIdVGDqDmKSBXnvRI9wqzouSLOwqsFfp4R23uN+8k3P8GOwXHgzCaGYzsx5J3i2gZN5fqE4Bk+RDTn0rofow2pB92O8U7j+y3XP90K/EEACpo+OU2OMXiD0X/W7JejvWRQVFTEY=;oI0IWqtHY2pOWXzrct/Myw=="

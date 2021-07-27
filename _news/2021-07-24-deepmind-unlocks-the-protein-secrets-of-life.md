@@ -25,83 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind creates ‘transformative’ map of human proteins drawn by artificial intelligence"
-    excerpt: "AI research lab DeepMind has created the most comprehensive map of human proteins to date using artificial intelligence. The company, a subsidiary of Google-parent Alphabet, is releasing the data ..."
-    publishedDateTime: 2021-07-22T18:44:00Z
-    webUrl: "https://www.theverge.com/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free"
+  - title: "DeepMind’s protein-mapping breakthrough is awesome, but it sure as heck isn’t free"
+    excerpt: "DeepMind just released a protein-mapping system to the general public that could be one of the biggest breakthroughs in decades. But at what cost?"
+    publishedDateTime: 2021-07-22T20:01:00Z
+    webUrl: "https://thenextweb.com/news/deepmind-protein-folding-breakthrough-ai-isnt-free"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 95
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/FCzoEFavxHNtxLa16PQcFVi_oUc=/0x0:2130x1420/1400x933/filters:focal(895x540:1235x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69617097/VRG_ILLO_1777_AK_body_data.0.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "DeepMind's AI uncovers structure of 98.5 per cent of human proteins"
-    excerpt: "Deepmind's AlphaFold can predict the shapes of nearly all proteins in the human body, paving the way for the development of new drugs, and the company aims to use this AI to publish the structures of"
-    publishedDateTime: 2021-07-22T16:05:00Z
-    webUrl: "https://www.newscientist.com/article/2284733-deepminds-ai-uncovers-structure-of-98-5-per-cent-of-human-proteins/"
-    ampWebUrl: "https://www.newscientist.com/article/2284733-deepminds-ai-uncovers-structure-of-98-5-per-cent-of-human-proteins/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2284733-deepminds-ai-uncovers-structure-of-98-5-per-cent-of-human-proteins/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 74
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/07/22155326/22-july_deepmind-proteome.jpg?width=600"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Google's DeepMind creates ‘transformative’ map of human proteins drawn by AI"
-    excerpt: "Researchers at Google's DeepMind and the European Molecular Biology Laboratory (EMBL) have unveiled the most exhaustive database yet of the proteins that form the building blocks of life, The database of 20,"
-    publishedDateTime: 2021-07-22T16:15:00Z
-    webUrl: "https://www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-ai-399800"
-    ampWebUrl: "https://www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-ai-399800/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-ai-399800/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 71
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/07/22/203409-untitled-design-34.jpg"
-        width: 918
-        height: 506
-        isCached: true
-  - title: "Google's DeepMind creates ‘transformative’ map of human proteins drawn by Artificial Intelligence"
-    excerpt: "Researchers at Google's DeepMind and the European Molecular Biology Laboratory (EMBL) have unveiled the most exhaustive database yet of the proteins that form the building blocks of life, The database of 20,"
-    publishedDateTime: 2021-07-22T16:15:00Z
-    webUrl: "https://www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-artificial-intelligence-399800"
-    ampWebUrl: "https://www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-artificial-intelligence-399800/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/googles-deepmind-creates-transformative-map-of-human-proteins-drawn-by-artificial-intelligence-399800/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 61
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/07/22/203409-untitled-design-34.jpg"
-        width: 918
-        height: 506
-        isCached: true
-  - title: "DeepMind’s AI predicts structures for a vast trove of proteins"
-    excerpt: "AlphaFold neural network produced a ‘totally transformative’ database of more than 350,000 structures from Homo sapiens and 20 model organisms."
-    publishedDateTime: 2021-07-22T15:33:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02025-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 54
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02025-4/d41586-021-02025-4_19383154.jpg"
-        width: 1024
-        height: 576
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Fpichaiscience.jpg&signature=38050f2f9369c452930e1b34c7d9a994"
+        width: 1280
+        height: 640
         isCached: true
   - title: "DeepMind delivers on promise of protein structures"
     excerpt: "DeepMind said its new protein database may be the ‘most significant contribution AI has made to advancing scientific knowledge to date’."
@@ -154,15 +90,6 @@ related:
       name: acm.org
       domain: acm.org
     quality: 19
-  - title: "DeepMind Releases Open Protein Structure Database Including Complete Human Proteome"
-    excerpt: "DeepMind and the European Molecular Biology Laboratory (EMBL) today unveiled the most complete and accurate database of predicted protein structure models for the human proteome. The database includes about 350,"
-    publishedDateTime: 2021-07-22T15:23:00Z
-    webUrl: "https://www.bio-itworld.com/news/2021/07/22/deepmind-releases-open-protein-structure-database-including-complete-human-proteome"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 13
 
 secured: "IfeNppdnY6gGIFM5FmAJBJYolCcHj71SZtLRb7yBi+Yad1nVWiEwkca1/BZysCsgvoyHT7mBJMEV6qxhL6t84HFt1mo33MkiR9ipq+2Szuhs1cuPKJF6u14Xc0JQT5CpG75X/D/bmUr4JzUDund3r9ldaR+/k60hE6L4nlGs5PloQOraL/e+tIUdnQaSH1NT/jOa4DOOG5N1ANdklHk7snCOcCVAZNhANE2XTASNFTbAS3Mqch2DRUJyhde4C1d0nlKm+nFZLoyXzqeSVBAqMQzAox7cLYFljPie52KmAf/CyXX8JVlqjzxgvDP9H+E9lD3ArY3LVnzUxSEh8rHqUf3qp/4JBzTQHG+SWdHlj5gxDGB29qH9Wu8RXPhSx9wGihajchLt7rQW9sjWAVAV3A8e3Et52U75U0ket0slOq+Ykt7fmGcKdeNHqVkqo0FHRoo0anhWgeR66Bf4h/vNh5B8uauKBOPDKWNwHukfwSk+Vx74tNhykuFfh5pS1vHbNq/41Ds5k/wYL76QAFhkPg==;Q2i3Mdn+NZgh/Q7ccKHR3w=="
 ---

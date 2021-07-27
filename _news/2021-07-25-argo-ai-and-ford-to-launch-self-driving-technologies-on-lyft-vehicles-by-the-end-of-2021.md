@@ -41,34 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving leader Argo AI's CEO explains how his new deal with Lyft helps the startup clear a critical hurdle"
-    excerpt: "\"We now get real customers in the car,\" Bryan Salesky said. Which means a big step toward making money."
-    publishedDateTime: 2021-07-22T15:10:00Z
-    webUrl: "https://www.businessinsider.com/argo-ai-ceo-explains-why-hes-launching-robotaxis-with-lyft-2021-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://i.insider.com/60f97ffc0729770012b943b8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Argo AI, Ford to launch self-driving Lyft vehicles by end of 2021"
-    excerpt: "Argo AI, Lyft, and Ford Motor Co. are collaborating to commercialize autonomous ride hailing at scale. Ford self-driving cars, with safety drivers, will be available on the Lyft network, with passenger rides beginning in Miami later this year and in Austin starting in 2022."
-    publishedDateTime: 2021-07-22T18:30:00Z
-    webUrl: "https://www.thefabricator.com/stampingjournal/news/electricvehicles/argo-ai-ford-to-launch-self-driving-lyft-vehicles-by-end-of-2021"
-    type: article
-    provider:
-      name: The Fabricator
-      domain: thefabricator.com
-    quality: 39
-    images:
-      - url: "https://cdn.thefabricator.com/eproduct/Finishline-Video.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Ford, Argo AI to deploy autonomous vehicles on Lyft network"
     excerpt: "Ford Motor Co. and a self-driving vehicle company it partly owns will join with the Lyft ride-hailing service to offer autonomous"
     publishedDateTime: 2021-07-23T03:05:00Z
@@ -80,20 +52,6 @@ related:
       name: 7News Miami
       domain: wsvn.com
     quality: 37
-  - title: "Argo AI, Ford to launch self-driving vehicles on Lyft network by end of 2021"
-    excerpt: "The initial deployments will start in Miami, followed by Austin, Texas, to lay the groundwork for future scaling."
-    publishedDateTime: 2021-07-22T16:08:00Z
-    webUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/press-release/21231445/lyft-argo-ai-ford-to-launch-selfdriving-vehicles-on-lyft-network-by-end-of-2021"
-    type: article
-    provider:
-      name: Mass Transit
-      domain: masstransitmag.com
-    quality: 36
-    images:
-      - url: "https://img.masstransitmag.com/files/base/cygnus/mass/image/2021/07/16x9/Lyft_Argo_Ford_AV_Escape_Hybrid_01.60f995c317488.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "DPBVBhmZBfY1m0yitqjT0g8OoXJLwFpM/oFx/flQUS/jtgVg7l9SP5n0C/3hcDho7C089LXqzUk15IGOp4anamJRo2Yrdu/wiYt06V08j1njpxW34ONMCkX0ZY/YNa47qrCcebNSb799CA/Qx5O4Q0nMS+/V+lLhz2aPKdOBTsOP45O3PBt6jSYLBGMKc2pE4twY5H33TK1hf/yHaoBWMDQlhXqkfvpetHLWtmvowpqUUVGV4dKzEJDAVPJBzIsRZzIfSkdHqWq19I20Yino+Qe6YTv2vp3TNNfNDwrnr72xRkfNG8jkyM7heEZCGNgM8yx8a4ro/0DpBSLzQaDeAnGz1TNyhJ0RMn8Wr5/En8s=;AATZonyFlBhCJJRTvb68CQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-can-add-bias-to-h
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-can-add-bias-to-hiring-practices-one-company-found-another-way/"
 type: article
 quality: 87
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Company creates a way to remove bias from AI hiring software"
+    excerpt: "AI can have serious bias in hiring. One company found a way to remove that bias to give everyone an equal chance at employment."
+    publishedDateTime: 2021-07-23T15:51:00Z
+    webUrl: "https://www.techrepublic.com/videos/company-creates-a-way-to-remove-bias-from-ai-hiring-software/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/07/23/a1996d07-bbe0-4461-ac34-5d47108fc63c/thumbnail/770x578/e3c0e7ee2d7a2ba9e9f6d2b8f522e05e/20210720-biasjobs-karen-1.jpg"
+        width: 770
+        height: 578
+        isCached: true
 
 secured: "lmwdxZsuS88PBk7wAIeHx/IUICXbuea0S4MzdapEfp6Z2l3iyMWHlbYKJVxfb8C85FxVlOs/Fs88XW6I50thurVWKghdmoglJOP887lgP0GXu/3DcN3RBzDq/GQ3C1Lroi/Q6GhApOGA0TBmFnYDo+JQLpCJQ8puNN2/EiFNfJCuteZfkROlgXxwDQ/Wgl3fcPdK+Iio0UURqbT8ToYnBke5tGr22yHwn+u/b9sBNDZ/RCaxPCqzKINoZ5fhoLejAmvr/rYAvuldUNewlk9llbqqBCPmCXr+ANZJebqS5pynTXWxCMbx1Kd0K8iHDn0VrNX8r5A03LSsW5pDFCyCoYUjmGTjjvRRbaxttktQ26Q=;bjnbubOSN4np0G1+RF/vwQ=="
 ---

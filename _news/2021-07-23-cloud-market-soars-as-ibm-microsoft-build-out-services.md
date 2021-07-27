@@ -36,20 +36,6 @@ related:
         width: 595
         height: 307
         isCached: true
-  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-    excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
-    publishedDateTime: 2021-07-22T18:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 66
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft Releases Safe Links for Teams and Other Security Solutions"
     excerpt: "Microsoft is continuing to advance its cloud-based security services with a couple of previews announced this week, plus a product release."
     publishedDateTime: 2021-07-26T22:19:00Z
@@ -63,20 +49,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/131025MackieLync.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
-    excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO). \"This is the perfect example of our client feedback loop in action,"
-    publishedDateTime: 2021-07-22T16:57:00Z
-    webUrl: "https://www.lelezard.com/en/news-19916035.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 53
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Machine Learning Software Market to See Huge Growth by 2026: Microsoft,IBM, Google"
     excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/20/2021 — The Global Machine Learning Software Market has witnessed continuous growth in the past few years and may grow further during the forecast period (2021-2026)."

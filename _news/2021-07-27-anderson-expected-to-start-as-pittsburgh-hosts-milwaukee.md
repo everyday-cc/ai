@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo to open offices in Pittsburgh, an AV tech hub"
-    excerpt: "Waymo, Google’s former self-driving car project that’s now an independent business unit under Alphabet, is expanding its presence in the eastern U.S. The company said Thursday it would be opening offices in Pittsburgh,"
-    publishedDateTime: 2021-07-22T18:30:00Z
-    webUrl: "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/"
-    ampWebUrl: "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 189
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/11/waymo.jpg?w=799"
-        width: 799
-        height: 432
-        isCached: true
   - title: "Pittsburgh’s expertise in self-driving tech attracts Waymo"
     excerpt: "Waymo, one of the industry’s leaders in self-driving tech, is opening an office in Pittsburgh at Bakery Square."
     publishedDateTime: 2021-07-26T18:27:00Z

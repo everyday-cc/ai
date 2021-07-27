@@ -42,6 +42,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "An AI Road Map Starts With Data"
+    excerpt: "AI should be a priority for businesses. However, this game-changing set of technologies requires a solid data foundation, and businesses need to bolster their data engineering capabilities before they take on AI initiatives."
+    publishedDateTime: 2021-07-27T11:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeee92c240fb26d335a07a%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI driving the future of in-car systems"
     excerpt: "Carmakers are bracing for new safety rules and standards around the world that could require dashboard cameras to detect dangerous driver behavior."
     publishedDateTime: 2021-07-27T00:18:00Z
@@ -85,6 +101,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/21/11/06/21270917/3/rawImage.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "AI infrastructure solutions built for present and future success"
+    excerpt: "Simply put, the infrastructure that powers AI and deep learning applications is both fueling and limiting AI success, and organizations that manage to build enduring AI infrastructure are those that are destined for success."
+    publishedDateTime: 2021-07-27T10:28:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1623758832_993.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 37
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1623758832_993_lg.jpg"
+        width: 315
+        height: 408
         isCached: true
 
 secured: "EtBkTEmqx2kjdbmtHbolTJc7waUC5gCw3N69OZQKlS5u+RP73PaPEdDBIa6ELaKfG3dg2DrPlbXC2F8G1Y3kqCQthVBWJVNvvrjXN3REqykFDTS0qdLfB/cGAyl7rty/GhupVvOda7eLp4B9WJ9ZuTnJSVvYnh/FkRb47VNfUTqkaFJma3clJiNwtmLLCGFdEHwvn6/woN2NaEKxBQuN/x2JVrzT9yWNOm3OORXOKxyu3xuX1vDDGHU8e2/Mw+xb9ljm7CTl1qaQPEyufaf0KGorXeQ1LnINokGRkFvVFSUNpANGPb90sOmZ/K9uNwE5/pi5fZ8XpwbDKk+B6UWoRSwlvfsGf6GB7iLSVVdczBY4AWFPa4wUdcx59Ztj3YgSRAJYhbUcc7KxWzhFeGkfl7J30AtC2pL9Jh+YG8hSuohL89z45DNdX14snK0QkbV3l9IE7duaKQ8HX1b8lAQ3fpfK3HfqsASPYAWy2MJH9Yawzg0y0gjIR01AcW7KNEZ0QQs0kTy7zvpay1t6JLCIAw==;etnzyX9UtUiFTi8/zuVulw=="

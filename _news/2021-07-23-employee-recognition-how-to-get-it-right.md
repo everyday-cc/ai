@@ -7,7 +7,7 @@ originalUrl: "https://www.hcamag.com/au/news/general/employee-recognition-how-to
 webUrl: "https://www.hcamag.com/au/news/general/employee-recognition-how-to-get-it-right/292293"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Serco looks to recognition awards to motivate employees"
-    excerpt: "Essential public services business Serco has a workforce of 35,000 employees in 542 locations across the world, with staff working in many environments."
-    publishedDateTime: 2021-07-27T05:00:00Z
-    webUrl: "https://employeebenefits.co.uk/serco-looks-to-recognition-awards-to-motivate-employees/"
+  - title: "Voice Recognition Market Size to Witness Huge Growth by 2026"
+    excerpt: "Selbyville, Delaware Global Voice Recognition Market Size Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Size Report also covers top key players,"
+    publishedDateTime: 2021-07-27T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-to-witness-huge-growth-by-2026-2021-07-27"
     type: article
     provider:
-      name: Employee Benefits
-      domain: employeebenefits.co.uk
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://employeebenefits.co.uk/content/uploads/2021/07/Serco.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice And Speech Recognition Software Market 2021: Can The Business Strategy Generate Sufficient Profits And Growth?"
+    excerpt: "Stratagem Market Insights has recently published a research report titled, “Global Voice And Speech Recognition Software Market Insights, Size, Share, Growth, Opportunities, Emerging Trends, Forecast to 2028”."
+    publishedDateTime: 2021-07-24T10:37:00Z
+    webUrl: "https://manometcurrent.com/voice-and-speech-recognition-software-market-2021-can-the-business-strategy-generate-sufficient-profits-and-growth/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 16
+    images:
+      - url: "https://marketnewstoday667356072.files.wordpress.com/2021/07/fdscx.gif"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "JsUYlOUnIYVQ82hcHpvm/q3xwFXjHBQXVkTAaSOB542r0AFOt8n0H9zv0vrHSiku1rGIwPEOKtPiUj9u/7bUExp8KqubSyFaHgO8GWUY4b+KkMsXUlmfJ687yy2l+eC7K+uTPmUUxVgPDFRBz176cNQrXhNZDzgkElIWduQX/jOiFpR63N4g+HDIqR4DG0Av4CBv5XkfEt/l5b8b2zqzoWaRKYD/yRNWXuP+zAjhlC/YW2nN0x/ZlTUAQT7sAf8Mhhez71pPxID7BUnh1GImIBmjiH+HBAA3sQrBOuCWtLFS0Pglw7GCPOz3AV9/oMQTnIApmRj3kuiSQ2+8b2tl6OybyMlDwP/ycwbaWWra9r4=;9e4uQkcPK9f0M50d9wyITA=="

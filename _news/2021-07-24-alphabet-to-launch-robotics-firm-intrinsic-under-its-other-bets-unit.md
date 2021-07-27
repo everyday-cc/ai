@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-excerpt: "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ..."
-publishedDateTime: 2021-07-23T17:10:00Z
-originalUrl: "https://www.reuters.com/article/us-alphabet-other-bets-intrinsic-idUSKBN2ET1G0"
-webUrl: "https://www.reuters.com/article/us-alphabet-other-bets-intrinsic-idUSKBN2ET1G0"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ET1G0"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET1G0"
+excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ..."
+publishedDateTime: 2021-07-23T18:48:00Z
+originalUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
+webUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
 type: article
-quality: 106
+quality: 86
 heat: -1
 published: false
 
@@ -26,9 +24,9 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ"
-    width: 817
-    height: 545
+  - url: "https://www.reuters.com/resizer/RkqwUqV_pSTg-8Gt3pKHghTeZuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2DMPV6O5NJERDO3F7MHS7QIA4.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -47,6 +45,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ"
         width: 817
         height: 545
+        isCached: true
+  - title: "Alphabet’s Intrinsic breaks cover to teach old robots new tricks"
+    excerpt: "Alphabet has started up a new robotics company, Intrinsic, with Google’s parent firm looking to make smarter industrial ‘bots. The announcement comes shortly after Alphabet sold Boston"
+    publishedDateTime: 2021-07-23T19:02:00Z
+    webUrl: "https://www.slashgear.com/alphabets-intrinsic-breaks-cover-to-teach-old-robots-new-tricks-23683695/"
+    ampWebUrl: "https://www.slashgear.com/alphabets-intrinsic-breaks-cover-to-teach-old-robots-new-tricks-23683695/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/alphabets-intrinsic-breaks-cover-to-teach-old-robots-new-tricks-23683695/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/industrial-robots.jpeg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Google’s Parent Alphabet to Launch Robotics Firm Intrinsic Under Its Other Bets Unit"
     excerpt: "Alphabet's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
@@ -121,6 +135,6 @@ related:
         height: 600
         isCached: true
 
-secured: "aXbawhQPH6Lh2OO4c4lS7e95LEIBk8WzZIv3kJBbNeK4HgZlUKfD7AP8V86LmUNJvjcf62B4v6DevyRV4su2/04pWHojfdaikIQvWweJ4EzbXBgHRhSmXZiSmY5I3YkDnDM+XFqHKul+bFe7rj3EhZDRdiukwlTKNRtcxPPPub60GkSTV34Cb6N0VD/L7zoYb7+c09UffLXfzbLGZutinui9MCY1o+U/qJD2wFrFJsOwujZJS6eUzRhE/vlF9e96pO5/L++XKi/imeHRsAXtl9o+SxAixmZDMx8Ltp/1OS1Go6/5x8CorQrCqEuPbr5zCkOLqKxbg0tpjTl16gtUGtF2kx1I+WQnfYz50Vvq2oA=;TZ9mYIhY3fmpeMX+oWUkLw=="
+secured: "42ZBJ6XiLu0/93jxkhzL7wmomUHmhxEw6aszkAPrS11e9GQGOXG8VqBZVCXufCqgVwe5QMRu3KEArDA2fQG2nrg4kiFdSbq/a5B/y6wSh64M9EN3AUAILTqPua7hZwRaRUhYIYS0rSMvux7xy7xZewvVf/wsJHfcNLaGyAlJ8bJM/b7wJbwnhrlVm3qIMwa2Bi5vlveaK41QKGyvEaMaKmGx046XqPDIf0JRIK8Lxo7YjPMBXb0JUNHFXuxKO2RCJvUvDfvafad0j+ZEg7uZeWrgCGq+XbxSZBRzrg0RKGcYxwIOy5Xc/nPGHIaI6hZXOdk1b5wn+cGw3PMsJlqAL5PomU9Jjg1X/ssbz9YSPmY=;DEWW1JjLuYJ1WE4IVY0gAw=="
 ---
 

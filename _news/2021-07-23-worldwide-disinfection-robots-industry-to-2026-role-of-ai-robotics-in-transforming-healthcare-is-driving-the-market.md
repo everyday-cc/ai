@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19916974.html"
 webUrl: "https://www.lelezard.com/en/news-19916974.html"
 type: article
 quality: 62
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://miro.medium.com/max/1200/1*0EOqrDcqzUQcoIuV08-a3A.png"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Machine Learning in Healthcare Market Size Is Increasing Rapidly Even Under The Influence of COVID-19"
+    excerpt: "Machine Learning in Healthcare Market Insights, Regional Analysis, Market Share, and Competitive Analysis on a Global Scale. The latest report on the Machine Learning in Healthcar"
+    publishedDateTime: 2021-07-27T10:36:00Z
+    webUrl: "https://manometcurrent.com/machine-learning-in-healthcare-market-size-is-increasing-rapidly-even-under-the-influence-of-covid-19/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 41
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07//medical-health-market-10.jpg"
+        width: 800
+        height: 400
         isCached: true
   - title: "Construction Robot Market Set Witness an Uptick during size 2025"
     excerpt: "Construction industry is one of the few industries in the world that rely mainly on manual labor due to which the adoption of automation, including robotics is very less. However, this trend is expected to change due to the factors mentioned below: There is an increase in the number of start-ups and pure players focusing on 3D-printing of building over the last few years."

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "DeepMind says it will release the structure of every protein known to science"
-    excerpt: "The company has already used its protein folding AI, AlphaFold, to generate structures for the human proteome, as well as yeast, fruit flies, mice and more."
-    publishedDateTime: 2021-07-22T15:07:00Z
-    webUrl: "https://www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome/"
-    ampWebUrl: "https://www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 56
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/07/Proteins-1.jpg?w=1920"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial intelligence can predict the structure of almost every protein made by body, study finds"
     excerpt: "Sir Paul Nurse, director of the Francis Crick Institute, called the breakthrough a 'great leap for biological innovation'."
     publishedDateTime: 2021-07-22T23:23:00Z

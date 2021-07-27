@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Machine Learning in Healthcare Market Size Is Increasing Rapidly Even Under The Influence of COVID-19"
+    excerpt: "Machine Learning in Healthcare Market Insights, Regional Analysis, Market Share, and Competitive Analysis on a Global Scale. The latest report on the Machine Learning in Healthcar"
+    publishedDateTime: 2021-07-27T10:36:00Z
+    webUrl: "https://manometcurrent.com/machine-learning-in-healthcare-market-size-is-increasing-rapidly-even-under-the-influence-of-covid-19/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 41
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07//medical-health-market-10.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
     excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at 9.4%, finds"
     publishedDateTime: 2021-07-26T08:02:00Z

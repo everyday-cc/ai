@@ -85,6 +85,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Canada’s Fintech industry paying off for business events"
+    excerpt: "There’s something about Canada that inspires images of size and grandeur; whether it’s the expanses of beautiful lakes, the vista of stunning mountain ranges, or the jaw-dropping emptiness of its national parks."
+    publishedDateTime: 2021-07-27T08:27:00Z
+    webUrl: "https://www.c-mw.net/canadas-fintech-industry-paying-off-for-business-events/"
+    type: article
+    provider:
+      name: CMW
+      domain: c-mw.net
+    quality: 24
+    images:
+      - url: "https://www.c-mw.net/wp-content/uploads/2021/07/RESEdmonton-Skyline.jpg"
+        width: 802
+        height: 537
+        isCached: true
   - title: "New FinTech Innovations that Will Change How Clients View Wealth Management"
     excerpt: "Innovations within FinTech are causing major changes to the dynamic between clients and wealth management providers. With technology as a driving force behind industry changes, understanding how client perspectives are shifting is crucial."
     publishedDateTime: 2021-07-23T19:42:00Z

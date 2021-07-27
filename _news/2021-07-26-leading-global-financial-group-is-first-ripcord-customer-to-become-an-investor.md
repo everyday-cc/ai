@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Leading Global Financial Group Is First Ripcord Customer to Become an Investor"
-excerpt: "With over 2,700 locations in 50 countries and more than 360 years of experience in Japan alone, MUFG first partnered with Ripcord in November 2019 to get a handle on its hundreds of millions of sheets of paper kept in a central location that wasn’t readily accessible to branch locations."
-publishedDateTime: 2021-07-26T16:01:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-628886ab231d46d58845ea3405a67b90"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-628886ab231d46d58845ea3405a67b90"
+excerpt: "(MUIP), a subsidiary of Mitsubishi UFJ Financial Group, Inc. (MUFG), the largest and oldest bank in Japan, invests in the company following partnership for company-wide digital transformation Ripcord,"
+publishedDateTime: 2021-07-26T11:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210726005199/leading-global-financial-group-is-first-ripcord-customer-to-become-an-investor"
+webUrl: "https://www.morningstar.com/news/business-wire/20210726005199/leading-global-financial-group-is-first-ripcord-customer-to-become-an-investor"
 type: article
-quality: 20
-heat: 20
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Robotics
+  - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "RHTdkp37BjNMw27ncLU5STz9Ik8m5I8xDyRzjoQOKshxZI3tZDCmjjb4bGqxjePglGKJYGz5Tb+4lMa4PuE2bJppRT4cADZFZHrU/0TVNbnBppQm3tqvUYc8LypBHF/DQiIIuSuSJgiNDcx84vuztKZCRc2uiCU4DmcxWllCdT+xMqK6bPGYQQ9jGrqnQ2q6tLCuqr+ZFHupSwfS3i/t0o5QKGzX4E+AluV2ek/YxwpXQN+/kMohvJrxsdL8Awi48UGLS+YvnWb4CMDwKmvqY7MvY6YJCTP9+jOoCEBZmsqH2luTJ0KOKa2k1SijqofInGS1VwRJkJCjfSOEZ0fDQypU10DarxPXACWAy/vr/nY=;TrpkzoC/BAYI1hBzPHLgBA=="
+secured: "wREyIy/lXK1rwMSHmVLCx4Eu7LbQBeiglGRx2XvWutnbDSdpLXPGcoaanTr5wsD/ciDYvGtmZB3AdHHRZCwOoRYgZ+Usr9y6S6ztdW7enXiY1hhfe/ADmdM1rTeoFiJ0zpX4bJqFP2bS33h+ryludjj7gDP7hhpXvqTW6uS8VB+q6735oH9kjYL34sbv9jyJp3peGiOOna8jMp6CT7JzFA/aloAeKMy3jzXpCdmdm/U56KIe7y2CW2ie5cwGqBCQgRvHSeTS6EYAhk23sMnOv4rxoPk52OQDxkOM6PGs/BiPzgzXjqan1PKxD4VyN6SIdF8ZUMW+GXhGiglgkmjOZM5pQig8bYNlnzcAw+v8WZM=;lEia0EQWQUES+VpOrB/H3A=="
 ---
 
