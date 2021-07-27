@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "asktetra"
   url: "https://twitter.com/asktetra"
-  followers: 71
+  followers: 72
 
 locations:
   - San Francisco, CA
