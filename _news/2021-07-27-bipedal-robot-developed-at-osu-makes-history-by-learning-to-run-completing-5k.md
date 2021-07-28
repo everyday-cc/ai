@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cassie the bipedal robot uses machine learning to complete a 5km jog"
+    excerpt: "Four years is a long time in robotics, especially so for a bipedal robot developed at Oregon State University (OSU) named Cassie. Dreamt up as an agile machine to carry packages from delivery vans to doorsteps,"
+    publishedDateTime: 2021-07-28T02:30:00Z
+    webUrl: "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/"
+    ampWebUrl: "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 106
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/b8df8e2/2147483647/strip/true/crop/2048x1365+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fac%2Fe3%2Fc5501d6e4aee82bae15cb06f67ed%2Fcassie-5k.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Bipedal robot makes history by learning to run, completing a 5K"
     excerpt: "Cassie the robot, invented at Oregon State University and produced by OSU spinout company Agility Robotics, has made history by traversing 5 kilometers, completing the route in just over 53 minutes."
     publishedDateTime: 2021-07-27T11:32:00Z

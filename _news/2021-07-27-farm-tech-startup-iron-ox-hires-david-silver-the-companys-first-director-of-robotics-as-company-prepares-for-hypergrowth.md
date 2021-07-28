@@ -6,9 +6,9 @@ publishedDateTime: 2021-07-27T12:47:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876"
 webUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876"
 type: article
-quality: 58
-heat: 68
-published: false
+quality: 60
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mma.prnewswire.com/media/1530162/IRON_OX_logo.jpg"
@@ -44,6 +45,6 @@ related:
         height: 337
         isCached: true
 
-secured: "u2n29+lAdVanoHQ5Xrolch1ptA3yjvawEKnNujlIp9klKym+kEsmGoMZZNH7dKX5BN6dmF9wRLtREH1RnNWWMbidi5d1yHTH3lbzFIqDPv+1ttvSWBZzlPBboEJbxU1DN7EVi9Bt69e5POswkrrkv1oIvKYd96SgwyDiHtnz+5WnOD7el7JGGzHGuwazn0MJ52nuMQxZogE/yvHYAaE/C9L5JopJunGWRG14Kl60rMK7VBwo/fiE8HJ2gLPBE+WyeQSlri42cO9WSWzXpgg6qUVadEDbGWeoiA4XBDp9yG78CNnyNSilsfySYM+g/QUJluiPRbVZTagKmjvCLdm96xOTRBHx1X5hEeYDHrQV5eI=;IwTucoS++BTfUL7vz1S9CQ=="
+secured: "sT4WiriKlTvmaNOAZgz/76shFywcMHmT58pzjojAw2k5GxbEnufWeN6YFx6AAFaAcTtai8qosE+zFptoPKw2uuRXoss0gSigYM5/LUx0nYLM2XszFo5ZmyAlhg28W7Peo1f7jBf3pDM2ShTy0kXcb5RetV+vCOGcXNOMOT9YTskZyw1bNF06N38hoopXtCXNokIDU19k5MRWZyojl/m5qMIsUiJzWi7OmFdHytyFbGW/hSLJAYotpMkNlTZm4y/XjWA6sDa7ry8zrzhdq0oauipwzVvbrUWxBlwfzWkUfq5uR+udq63n6xGlV0OUMJkAd52uKlmavPHERf9XAXTdK9FUz79xi/PzWc2CHRiS0+o80tSf25BeXWFNfs6xvKAuQu5fORyTN95Xjp046psVw+/AMk52urfZLct8b5opPQ/BAW5G4R1EL+NRAG70tkCv+o6oibKE5lN0VQDml49hgXVCNH9Avea7/SASXIyuQw2PprpnHtTgmFDzgWHbH3rHtkd1P2maG3Xlu1JkIEXRTw==;XAd4OGI1swY94pIdQLmFOg=="
 ---
 

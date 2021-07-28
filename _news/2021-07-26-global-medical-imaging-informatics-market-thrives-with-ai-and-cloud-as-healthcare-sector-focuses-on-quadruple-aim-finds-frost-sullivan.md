@@ -22,7 +22,7 @@ related:
   - title: "Presagen Lauded by Frost & Sullivan for Innovating a New Model of Healthcare, Enabling Access to Diverse Global Datasets through Its AI Platform"
     excerpt: "The platform leverages a large clinical network to obtain data for developing high-performing, globally accessible productsSANTA CLARA, Calif.,"
     publishedDateTime: 2021-07-27T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/presagen-lauded-by-frost-sullivan-for-innovating-a-new-model-of-healthcare-enabling-access-to-diverse-global-datasets-through-its-ai-platform-1030650928"
+    webUrl: "https://markets.businessinsider.com/news/stocks/presagen-lauded-by-frost-sullivan-for-innovating-a-new-model-of-healthcare-enabling-access-to-diverse-global-datasets-through-its-ai-platform-1030650964"
     type: article
     provider:
       name: Business Insider

@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Middle East & Africa Artificial Intelligence in Marketing Market to Grow at 30.1% CAGR to Garner US$ 7,312.42 million by 2028"
-    excerpt: "The artificial intelligence in marketing market in MEA is expected to reach US 7 312 42 million by 2028 from US 1 159 26 million in 2021 The market is estimated to grow at a CAGR of 30 1 from"
-    publishedDateTime: 2021-07-23T09:18:00Z
-    webUrl: "https://www.openpr.com/news/2335658/middle-east-africa-artificial-intelligence-in-marketing"
-    ampWebUrl: "https://www.openpr.com/amp/2335658/middle-east-africa-artificial-intelligence-in-marketing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2335658/middle-east-africa-artificial-intelligence-in-marketing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
-    images:
-      - url: "https://cdn.openpr.com/U/7/U723557741_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "F/540bGWeLC5yNsrrM2n/ibMo58l7AzcPWkkbuWwzacm8P0tf4pEAFqZczA0rCv09i7OCKLXdlAKEpZwBcVPYXiiZXHNH3p9Y3tjbM1nvCCy8sxrBPuq6ad+JoeZJn5Elh2Mf+7xG1JWQdEUA7mVEGFl4ylJlr3QJC1vYQjDrnWW5dWTbbULcarCeaEjMrCHwoZzvCPctQsMDz6/iNfWOP9eTcU2SSnrVUrqTOeWqsUpugrwjyQvNtBC0aFDspfFwHEe9ay0Yaq2RqEICKcRL5hxoyN5Lm0KXrQM668U/vrg4X/+UDhZ3hFxlZhLe2daHjdOGJJOG7g5K9MFk2c/LXak369aRPESqKTdGiSDr84=;EpjGJ3/PGu8LrLh5IaXAQg=="
 ---

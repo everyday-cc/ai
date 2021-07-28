@@ -43,34 +43,6 @@ related:
         width: 960
         height: 528
         isCached: true
-  - title: "Win Fintech Customers with NLP"
-    excerpt: "And we bet that FinTech will give us some of the brightest examples here – the financial services industry has always been an early adopter of new technologies. Thinking about NLP integration into your services?"
-    publishedDateTime: 2021-07-23T09:30:00Z
-    webUrl: "https://www.finextra.com/blogposting/20653/win-fintech-customers-with-nlp"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 41
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/fbae6445-44fe-4bf9-9471-761c456ad870.jpeg"
-        width: 500
-        height: 333
-        isCached: true
-  - title: "4 Fintech Trends of 2020 Worth Watching Through 2021"
-    excerpt: "As the COVID-19 pandemic turned 2020 into a historic year of global upheaval, the financial services industry and the tech companies that support it found themselves caught off guard. As in most other commercial fields,"
-    publishedDateTime: 2021-07-23T09:43:00Z
-    webUrl: "https://financialit.net/news/financial/4-fintech-trends-2020-worth-watching-through-2021"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2021-07-23_09-43-51.jpg"
-        width: 533
-        height: 367
-        isCached: true
   - title: "India’s Fintech Market: Growth Outlook and Investment Opportunities"
     excerpt: "India has the third largest fintech ecosystem globally and 67 percent of more than 2,100 fintech entities in operation have been set up since 2016."
     publishedDateTime: 2021-07-26T10:26:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Presagen Lauded by Frost & Sullivan for Innovating a New Model of Healthcare, Enabling Access to Diverse Global Datasets through Its AI Platform"
 excerpt: "The platform leverages a large clinical network to obtain data for developing high-performing, globally accessible productsSANTA CLARA, Calif.,"
 publishedDateTime: 2021-07-27T15:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/presagen-lauded-by-frost-sullivan-for-innovating-a-new-model-of-healthcare-enabling-access-to-diverse-global-datasets-through-its-ai-platform-1030650928"
-webUrl: "https://markets.businessinsider.com/news/stocks/presagen-lauded-by-frost-sullivan-for-innovating-a-new-model-of-healthcare-enabling-access-to-diverse-global-datasets-through-its-ai-platform-1030650928"
+originalUrl: "https://markets.businessinsider.com/news/stocks/presagen-lauded-by-frost-sullivan-for-innovating-a-new-model-of-healthcare-enabling-access-to-diverse-global-datasets-through-its-ai-platform-1030650964"
+webUrl: "https://markets.businessinsider.com/news/stocks/presagen-lauded-by-frost-sullivan-for-innovating-a-new-model-of-healthcare-enabling-access-to-diverse-global-datasets-through-its-ai-platform-1030650964"
 type: article
 quality: 47
 heat: 47
@@ -39,6 +39,6 @@ related:
       domain: newswiretoday.com
     quality: 0
 
-secured: "YIzQPwbK1ohrsAdomGkQWaI01udSQYoLCt09rDSs/30aR7OshPAaiiR+gtSkWacFRQQMzRtPnJdDJi2AnOyy8SRFGyFvJuX9n9UleyeTseFrN3j0MoDu5coBuVa3XzDVE4gbCFq5NCEXN0ajscrJrGS7YXoSvXxrycIMNiGaxy5hltBr23gNOniIzyDUW4PuHmQj8F/FX7lj7jItkqwAFEvc4LpUmw8+aw7tKxv/PXmwSzlaZNbOEM1W3hTMvL8n6nBkh6iZx0OtIkRzyfbe+GcxjQDCHss25NsAk4SgtM7RCQJ3d4EEKj0XAWBESObpRU/HGqCG74rttjkInAijXgffzM2Wqux/YQ5/peSdVXTqMdHbiqANnI8DinpoJ73OxtkFR/tbyQ4fu2+i8CPsxH3EqymkIe43NeDLDaMoSe0D8oRdsLbzApGxonpsnlHhFrHiK0zrNEoN28WEtI122aArS1+OxZVJE9VfS+0XpQyba7WYJFNKKJKfAFSRaucJ9duZilfF3VymlLWysxAhGQ==;pyD4k929FoFghVCTfk9rpw=="
+secured: "Q4lSniQjBjSwpq2URnT2ADS3dgFY0QGP4rGVLz3LuqdVo+a7WOe8dgSHkOaFYqG0LIpzAqIPLzknvXT1uKX9wZ/i6vALkIqpTuh2Nv8G06zuoKJrJZbwSizujHodDvClz9h7tQszoX65WZUvljKndXtNzmEBUVdYlQ094+9II3HyPLa94c6T8i2XzdP2opaSfW8LgDTEbdjcUr9X9UxLn8SgN8/4OiCJYYLRvFLR1VlMW+p74/tGL7vIYz0uChkrI9RxytLPis1/ez3zzbtuyX7u9bI0SE81/o9prpkgUxgjkOQQbGUm8xdLdOkbl96YvQQcdxU55l6YweILHA3v4In1YZ8DPh6qIbtQg9cXf7o=;DdUs7XLp3Mr9oke0R4fcyA=="
 ---
 

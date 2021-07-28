@@ -7,7 +7,7 @@ originalUrl: "https://www.flightglobal.com/military-uavs/ai-fighter-pilot-softwa
 webUrl: "https://www.flightglobal.com/military-uavs/ai-fighter-pilot-software-firm-heron-systems-acquired-by-shield-ai/144786.article"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 1024
     height: 536
     isCached: true
-
-related:
-  - title: "Artificial intelligence firms Shield AI, Heron Systems join forces"
-    excerpt: "Shield AI announced on 22 July that it has acquired Heron Systems, bringing together two US software companies that are developing artificial intelligence (AI)"
-    publishedDateTime: 2021-07-23T10:17:00Z
-    webUrl: "https://www.janes.com/defence-news/news-detail/artificial-intelligence-firms-shield-ai-heron-systems-join-forces"
-    ampWebUrl: "https://www.janes.com/amp/artificial-intelligence-firms-shield-ai-heron-systems-join-forces/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
-    cdnAmpWebUrl: "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/artificial-intelligence-firms-shield-ai-heron-systems-join-forces/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
-    type: article
-    provider:
-      name: Jane's Information Group
-      domain: janes.com
-    quality: 72
-    images:
-      - url: "https://www.janes.com/images/default-source/news-images/bsp_2315-jdin-13209.jpg?sfvrsn=60068c86_2"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Shield AI Buys Heron Systems in AI Engineering Capability Expansion Push; Brandon Tseng Quoted"
-    excerpt: "Shield AI has acquired Heron Systems for an undisclosed sum to further expand its artificial intelligence engineering and reinforcement learning capabilities. Heron Systems is a software company founded in 1993 and is known for developing an AI pilot that emerged undefeated against a human Air Force F-16 fighter pilot in five rounds of simulated air combat during the Defense Advanced Research Projects Agency’s AlphaDogfight Trials,"
-    publishedDateTime: 2021-07-23T10:07:00Z
-    webUrl: "https://www.govconwire.com/2021/07/shield-ai-buys-heron-systems-in-ai-engineering-capability-expansion-push/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 25
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2021/07/Shield-AI-Buys-Heron-Systems-in-AI-Engineering-Capability-Expansion-Push-Brandon-Tseng-Quoted.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "80UpNevEwBQbIkNXvuTd73UFYA7oBrUNtCebtZ0gbRezbVDfKA2i7PRmTN+dHJfMIAzFnzLGSHuXIr2JLn5V7Z1vHvAkAJ9RYy3d9gwkgT8qquKItzplSCPgOcHcDusPBlDzgz5P53nWJe2ljGzQNKIOLfcxcgQ8JWqSlJ+yljA2ny/ExdFGiSZZHf3RQvPB3iiGo+4d6BlPz8T0Q8/wbXDTgUsvnHB8ySERn82o8CGMe5lFUAg05zfJ1kbG+iIgD8Rs31Rwo6ylAqjQtingPpyzz7mOgCgUMN3nouMD8So+IdNY9JsInJVCG3I27mh3zjq4jzHEkibg9JUKS5Z2RsQRvHQ/qXFovkcHiKyMIhV5Qz0j0eK0wsB3TNfN05ul3YkseipWRsNUMmY6kDjJKixiyLkdkOBeJ1UqMg5zQrtl6AXklJhYxFWHZs90RRxArcIST+xbE58cC5GyIxY6D5cPgSe3rcQUBIaYDJpQbrEYK4pOBtjuidgtNYS6o03UbG4T71WTs8Si3k9mJsueDg==;2COXIz9+LSA3Gwu6VY1j1A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/27/enterprise-ai-development-platfor
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/27/enterprise-ai-development-platform-datarobot-raises-270m-acquires-algorithmia/amp/"
 type: article
 quality: 100
-heat: 120
+heat: 123
 published: true
 
 provider:

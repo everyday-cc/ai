@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-artificial-intelligence-44738909e45b4d91879522318763b432"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -27,13 +27,13 @@ images:
 related:
   - title: "At KindHealth, an Entrepreneurial Team Blends Health Insurance and AI Experience to Solve Coverage Crisis"
     excerpt: "When Albert Pomales and Andrew Tomasik teamed up with co-founders Mark Adams and John Constantine to start KindHealth, a company that would untangle the health insurance issue, they brought to the table 18 years in technology development,"
-    publishedDateTime: 2021-07-27T11:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kindhealth-an-entrepreneurial-team-blends-health-insurance-ai-/2021/07/27/9417164.htm"
+    publishedDateTime: 2021-07-27T11:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/at-kindhealth-an-entrepreneurial-team-blends-health-insurance-and-ai-experience-to-solve-coverage-crisis-1030649467"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
     images:
       - url: "https://mma.prnewswire.com/media/1581162/KindHealth.jpg"
         width: 400

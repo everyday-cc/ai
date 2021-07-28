@@ -2,17 +2,21 @@
 category: news
 title: "At KindHealth, an Entrepreneurial Team Blends Health Insurance and AI Experience to Solve Coverage Crisis"
 excerpt: "When Albert Pomales and Andrew Tomasik teamed up with co-founders Mark Adams and John Constantine to start KindHealth, a company that would untangle the health insurance issue, they brought to the table 18 years in technology development,"
-publishedDateTime: 2021-07-27T11:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kindhealth-an-entrepreneurial-team-blends-health-insurance-ai-/2021/07/27/9417164.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kindhealth-an-entrepreneurial-team-blends-health-insurance-ai-/2021/07/27/9417164.htm"
+publishedDateTime: 2021-07-27T11:19:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/at-kindhealth-an-entrepreneurial-team-blends-health-insurance-and-ai-experience-to-solve-coverage-crisis-1030649467"
+webUrl: "https://markets.businessinsider.com/news/stocks/at-kindhealth-an-entrepreneurial-team-blends-health-insurance-and-ai-experience-to-solve-coverage-crisis-1030649467"
 type: article
-quality: 20
-heat: -1
+quality: 50
+heat: 60
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -39,6 +43,6 @@ related:
         height: 450
         isCached: true
 
-secured: "VcdpwXHQ4wXU7Rr1ROFbEs+PfmwYZzFx+/fmiIGSVWiA6dwoot/KbDDhriB18dfwzd6YOVtWZrwf3Mv3odRBULNzIh52EvagavO86vqcewJD4sj+PBBqF6cbnsHsZ9gTERPnGydiKr2rkV5XxHjxMTKWsFV9myfnUwsp86su1Bv16ReKSWNck17WpCeXtcwCIsRpmd4/87gOgfDKlqcLkECEwYatknIGogoH23rdMJejboeq+zl2Z7YB2ErNs3xZFScM2oW5O7OlnTt3nJEcP3b53Fs4KhLlVhr6P/psmBfWnpa1OkzrCtgENnpupNYWgfZsNC7hLmYO3tZopmgJxxM7v+5ctL8Td6rS721fg64=;N9ts/IWSI+G0+flMVz9zqw=="
+secured: "r70dEScDpmNG4/cjY0RAO52f6pmG9kIbGL/BrWLH0AIjBSPEIQiB0ztVenNE5WlkgF8spG1HavkISnecAsp1I7AlP9gUgBnevzn9L9ussnKwhHUppxuQzK00Yi22N9R/YnTcBGCI5D0QEHbsvDEf0s0OE9Tq875ixzlWw2PN1jiKg2+1ui+qzdkfBzij46GJJjeWItCZvJMhSGD60655Lm2p9WudGhEK71PdL2Kgv0eFeYNed/a4/fERbgTMcFiCmaXdKOl0ST1nKzA4rBAbSsuEqQLpCONKbKjuwrIB46Gz2w0HEVCHApAPecKeucKPRtw5jXRS97JrG9XBJpzm3UcT1VSrW5pvk3AXrDONeX0=;0l+rchiyzgzO6iYt67yjAg=="
 ---
 

@@ -160,50 +160,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-23-global-deep-learning-marketpotential-segments-their-contribution-to-market-size-amazon-web-services-aws-google-ibm.md",
-      "title": "Global Deep Learning market:Potential Segments & their Contribution to Market Size |Amazon Web Services (AWS), Google, IBM",
-      "excerpt": "Global Deep Learning Market Overview The latest report up for sale by QY Research demonstrates that the global Deep Learning market is likely to garner a great pace in the coming years Analysts have scrutinized the market drivers confinements risks",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2335814/global-deep-learning-market-potential-segments-their",
-      "originalUrl": "https://www.openpr.com/news/2335814/global-deep-learning-market-potential-segments-their",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U723273164_g.jpg",
-          "width": 800,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2335814/global-deep-learning-market-potential-segments-their",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2335814/global-deep-learning-market-potential-segments-their",
-      "publishedDateTime": "2021-07-23T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-23-automate-annotation-of-image-training-data-with-amazon-rekognition.md",
       "title": "Automate annotation of image training data with Amazon Rekognition",
       "excerpt": "Every machine learning (ML) model demands data to train it. If your model isn’t predicting Titanic survival or iris species, then acquiring a dataset might be one of the most time-consuming parts of your model-building process—second only to data cleaning. What data cleaning looks like varies from dataset",
@@ -1055,8 +1011,8 @@
       "title": "Snowflake Stock – Even as COVID eases, cloud computing and AWS keep flying high",
       "excerpt": "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a",
       "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_snowflake-stock/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
+      "webUrl": "https://fintechzoom.com/fintech_news_nyse-snow/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_nyse-snow/snowflake-stock-even-as-covid-eases-cloud-computing-and-aws-keep-flying-high/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1424,6 +1380,50 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-jassy-takes-over-at-amazon-leading-to-new-ai-future.md",
+      "title": "Jassy Takes Over at Amazon, Leading to New AI Future",
+      "excerpt": "Andy Jassy took over from Jeff Bezos as CEO of Amazon on July 5, after serving as head of AWS, growing it into a $45 billion business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aitrends.com/ai-and-business-strategy/jassy-takes-over-at-amazon-leading-to-new-ai-future/",
+      "originalUrl": "https://www.aitrends.com/ai-and-business-strategy/jassy-takes-over-at-amazon-leading-to-new-ai-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aitrends.com/wp-content/uploads/2021/07/7-16AIatAmazon-2.jpeg",
+          "width": 550,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "aitrends",
+        "domain": "aitrends.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI",
         "AWS AI"
       ]

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/"
 type: article
 quality: 183
-heat: 183
+heat: 193
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "China's top court specifies rules for facial recognition"
+    excerpt: "China's Supreme People's Court on Wednesday specified a set of regulations for the use of facial recognition. The rules involve issues concerning the application of laws in the trial of civil cases related to the use of facial recognition technology in handling personal information."
+    publishedDateTime: 2021-07-28T02:44:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270478203/chinas-top-court-specifies-rules-for-facial-recognition"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1627364184066.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "M1e1QH92ToBvLS8K5d+LZEuz9QykHUb8uG/wp8zj4D04FL95lcd8HypJNxuy5Lp6UQChMrZCCFHPOvqujy5p+u8JrqLSdcUxfcMTzpH4xIvazznGsgyW0nIZ1sCzmc3RvN9cJU2XrMhwiuvYidNCWp8YuaPEMLXU1+xFsMlQRDGw7Rt40eZs3A3jHvgcTOzZFASejDabWkvflzrEhMCquvNakWyA9jlFbtQypYk4gY7SFtL1eTEQDiANOj0d9mRKI3pp0023QUEjwXOjouhN/FGtLzmgsauZB996GQiGgr0TDrUEuoIz6U1HNxKjH0ow26xxzK2EIr5HvCZ/A3xrJYXwU2AfhhCjTxwuYpe7ysWQkiBSWFSsoMBW+1RHzRXdwyO2CqPjeU+8vSg4S0Qn3Ors8NoyaCVFGji1KE1aBXwFSzSrzYyEoCou+SAyRgeDMemx4RQUJKxB3F/U6fJLdq5zFjQ27TSWrowJX1PSYRCJt8m8ZlCxC+yfRffs6eiOnt+POXhpFnfUSEjmB13PchmPEO7QLZmM8rPh06/x6WI=;1aJZIazEugRQcMKBTxiJUg=="
 ---
