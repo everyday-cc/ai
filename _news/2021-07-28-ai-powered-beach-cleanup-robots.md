@@ -9,7 +9,7 @@ ampWebUrl: "https://www.trendhunter.com/amp/trends/robotic-beach-cleaner"
 cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/robotic-beach-cleaner"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

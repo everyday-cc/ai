@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-28T16:12:00Z
 originalUrl: "https://techcrunch.com/2021/07/28/financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier/"
 webUrl: "https://techcrunch.com/2021/07/28/financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier/"
 type: article
-quality: 64
-heat: 64
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1263395015.jpg?w=711"
@@ -28,6 +29,6 @@ images:
     height: 400
     isCached: true
 
-secured: "26YsPfm36HWJ0rUymQc9ELSYIfsmCshHSFf0T0lDp21geGBQ7QhM03t/CPUYGX58EcxOigyWSauAaqVeaVf87ZnyOFR02ZUTBQc71NiLTVcWSjELdkn3WNNX8fKBioZ7Kjv2LU/bqIOHwPdP4P2f7pA+jE+4fEbpErRY1VwBulu+wNoL303VP7T6WJzWbGmTWBAX4CEAM3nfMLQs0iSLE9NLSfqdv141gXIN+K7FSt4N62sDuqe+Uya2ymUM7pJZIFjvNHv7rZzNZAzNonUhTVFSasD51f1tUuNoVtCTpLyhI9aFFnDX3PJyKI7GIKrGFqoZ4YUskKTDF8BTah1xEqN0COpLO87etuhAUa1lHY0=;vipraV4yUkjMJObDSWx7+A=="
+secured: "BohDsY0WWV+RF1BfarekYdU/82OmDc+zNMOpglWAkv/cUYFv+vQzmuwCJsRNwdsggVXsYP1ZPXZE5vW46H0pAXMfhULRA+UL8lIdbObthXDFRLeHPfBKD4ww8f6DtA2l0wg+7+c5+TuV9jZNCAZRcJMudBw39K0qcHGTjyUp+cvcWgCBU1mhLjMAmJxAmhdm2OXKTlXMf23f0SE88gFahbephrlK9dv6KBfjbY6Fw2XrvFhYx47AHRLTi4aAGVv9rQMzCaqkB9KnoYNEYA9ItIWskYQIKSEgi5/kRoaH2WXXTevSfGVlOGS0W7wKNCEjqJDx+p2TP8nCSHWGKfaowxsNfsY/Es+d62gQex21YSu1hi/kGSo3mnom6qGU7r9gJ41fX9v6vDT8q5/exhe8fXlQVq/GcTC1198sfvAwqQduXBI71c8WsIjfsX2BDXNTFgmVX0Ox4yGwRZnoKDAukx5b4cOEK5WmPXA3zQlek8SS9oDiQstCxVuTt9o8mOaM2936ZQU2S4wfUob0JMl6YQ==;5O8ASewwlUTippub7E6ozA=="
 ---
 

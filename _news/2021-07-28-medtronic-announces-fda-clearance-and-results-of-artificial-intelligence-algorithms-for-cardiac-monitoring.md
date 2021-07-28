@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-28T12:00:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-artificial-intelligence-b141602c5a3673193eda5ee0783cb277"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-artificial-intelligence-b141602c5a3673193eda5ee0783cb277"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

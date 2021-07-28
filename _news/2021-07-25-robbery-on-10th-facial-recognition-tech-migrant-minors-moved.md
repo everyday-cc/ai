@@ -9,7 +9,7 @@ ampWebUrl: "https://patch.com/california/longbeach-ca/amp/29713371/robbery-on-10
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/longbeach-ca/amp/29713371/robbery-on-10th-facial-recognition-tech-migrant-minors-moved"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://www.abc.net.au/cm/rimage/13472084-16x9-large.jpg?v=2"
         width: 700
         height: 394
+        isCached: true
+  - title: "China court interpretation to limit use of facial recognition"
+    excerpt: "The Supreme People’s Court has issued a judicial ruling to regulate the use of facial recognition in all settings from apps to shopping malls."
+    publishedDateTime: 2021-07-28T18:45:00Z
+    webUrl: "https://www.biometricupdate.com/202107/china-court-interpretation-to-limit-use-of-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/02085231/smile-to-pay-china-facial-recognition.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "SBRhcehMWa3PUd62rjMCDVZcqO+BRaJ8SNj4aGqMPLZcfarsk/l8YCig4Di4zQ8nkL6hYfvH3YIneCIbuvU6fgWqAa/qX0cERq9wEVrhwv/DsJK8GIYcVy0pYIokgonMI57Q1RrQxoa9jBPhtsWoR5HSKijR/PlqzirJV1D13e9cUcLV8ccVEzV/A2k5giLs4fXyQs1JZjHNYiXFUoD/iiZb3CZOzHI31YPUtm3gF6WLQKZcjRmx2IXLpqTZpieuhHMdZyrBlR9ik1XLcsWxfiCaLVPViMaVF0fPtn+lwula0y5jH8KtYuN134RZ2atJXBecg10Y/Z6mdFxLN2b/0C6NhHlRX0pjYYiDP7nmJGE=;PI0FY5fDV7CoHgz+GA4Pkg=="

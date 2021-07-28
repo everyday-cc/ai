@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market Trends and Forecast 2028"
+    excerpt: "The Global Artificial Intelligence in Medicine Market is estimated to value over USD 24.6 billion by 2028 finish"
+    publishedDateTime: 2021-07-28T14:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-and-forecast-2028-2021-07-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Trends and Forecast 2028"
     excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 58.6 billion by 2028 finish at a CAGR of over 44.8% throughout the forecast from 2021 to 2028. This rapid growth is largely driven by the increasing adoption of AI in hospitals and clinics,"
     publishedDateTime: 2021-07-28T12:59:00Z
@@ -201,6 +215,6 @@ related:
       domain: ipsnews.net
     quality: 6
 
-secured: "xoeUQZuLaF3x4fMbnWW/rEzdDTYrYEHaCoHCHn98l+ujyIuijJLzqBdywYikyfi+d4CFod9WQdYE/W/xa/OP69JVAosDU9So/zAXMSeZUkhiCrL3mFaVC4jtD8PdlEVsDDAAPnDdy+chilA0FknBKg5/yb8OIu5DwJjMKMyrmXqF2jfWApSx8oTdg2VIBOaA2qdBLe+lIvY/D54WTf2ElB8qujXraRtuK1xAEOSzRRoXU/Sqwc1DuAzOv4MvRmn0gn6FEyCtGqBUHiNwxb1I9Rv20Xx07N4IUizbkJykxJfVqNRA3vySWYrtwSB1AeNqS8sRUtOgwAxahWYWxJMFDW6d6DmWSTjsqljU6/b2qgA=;s/fLAIzOZUkwQSSCy/3k8Q=="
+secured: "v4ZiwiAKawtMMCjQhlgiAjOMvdXfvzr/7b6UGZi8lFodtvn6wvdH4o5/GyLbv2sDyp6bCgL6Ht3+QRIvFbC2Z5UsVa4AAkM8LmPUt5GfKi0qzIfvl4vsH8wc2/D2ZYW8VsVn7rnYOlDXJ7D1+SSvyebigGrkYnt4V4xAUtHG/J98hXptnOg7hGVfAd72/ngz69spBi0n7KFplPOl2gRPdtC/YCYKHXi8metGHAOzR99ZnpeCmAkuyFsB1C8WQCoDr6NxGE0C/jIXj34+vPq18RbGFpI2gj7pB6UX1oYaztkQf2w7VC0iuGunn6yybktpCIeqiTBoBoe+NsZwyXmBadk9jdVdRnoPfAU1qNxeGv3srxXbwbT8WSgIkNPJhMQ78TyX84R0UCtA4qIiUUMgXNn+m7+k3PK34FHzQSBiL+ih/gJjJUcJjnz3lW94vwMjc5eqYwGNodP9gDrMVAMS8D79L1Um/UHWYTzV/mUP9VsFtFDeuc0/YLOKK70dlB7PYWlvY0GW7JYZq6l5NycfrQ==;+m+nUZJFaQ33ivq/5Rytgg=="
 ---
 

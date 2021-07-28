@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market Trends and Forecast 2028"
+    excerpt: "The Global Artificial Intelligence in Medicine Market is estimated to value over USD 24.6 billion by 2028 finish"
+    publishedDateTime: 2021-07-28T14:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-and-forecast-2028-2021-07-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Trends and Forecast 2028"
     excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 58.6 billion by 2028 finish at a CAGR of over 44.8% throughout the forecast from 2021 to 2028. This rapid growth is largely driven by the increasing adoption of AI in hospitals and clinics,"
     publishedDateTime: 2021-07-28T12:59:00Z

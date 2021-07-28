@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Clinical Study: Kaia Health Computer Vision Technology as Accurate as Physical Therapists in Suggesting Exercise Corrections"
-excerpt: "In the study, patients with osteoarthritis of the knee or hip performed a series of exercises while being simultaneously evaluated by computer vision technology and physical therapists. The results showed that physical therapists agreed as much with the exercise corrections suggested by Kaia Health computer vision technology as they did with each other's exercise corrections."
-publishedDateTime: 2021-07-27T12:52:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/clinical-study-kaia-health-computer-vision-technology-as-accurate-as-physical-therapists-in-suggesting-exercise-corrections-1030649848"
-webUrl: "https://markets.businessinsider.com/news/stocks/clinical-study-kaia-health-computer-vision-technology-as-accurate-as-physical-therapists-in-suggesting-exercise-corrections-1030649848"
+excerpt: "Kaia Health, the world's most popular digital musculoskeletal (MSK) platform with 60 million lives covered worldwide, today announced that"
+publishedDateTime: 2021-07-27T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/clinical-study-kaia-health-computer-vision-technology-as-accurate-as-physical-therapists-in-suggesting-exercise-corrections-301339541.html"
+webUrl: "https://www.prnewswire.com/news-releases/clinical-study-kaia-health-computer-vision-technology-as-accurate-as-physical-therapists-in-suggesting-exercise-corrections-301339541.html"
 type: article
-quality: 37
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
@@ -38,6 +34,6 @@ related:
         height: 264
         isCached: true
 
-secured: "4MjbTIW1DjlmftG3+Ity3Cf+AnRC3EfBBEtKipUEDnTSw1wnp4bV5ZXwZp9lZpKBo3LrT3ZBVkFADdZEi/fKWXDW5wtlPs8pyAriyqOWKDDgyfBamy/WG+ejBf1Yt9bEHqYBaYvcH1erq0vTTgSu5p0darcU8hSGPC8dgzrrqOb1osXV5dOD4ujH4u9kkZxKW5mg4BQNiMGyhth/8I63oBHReqQ18JRpMA3Vae+hqkW7HU2Yf608QQ1/4lI/P3qokIOAgMJ9YGOB6c4R4fwbqPfs086+Xi/bVK6SKr2ng3mA2jlxY6stCj23I+xhdOyg2hvSK/JTWwGTqWxWtgV1AzRrTVI/4m3Ycgn2M4GmbN0=;KPGRPMyc0o+MLTpK6TslsA=="
+secured: "rDRoMrdoJf5c3c9rceOdRqy6q6m5lTivYXw9S/F/DtfuL13xX3vvVd+2N5e3wN5d0IBu0ZhdvN8JXedCOh8C8OGjd0NGGGAxGkd4aw91NqHb0Iw8kOLf9Vw+VpNVSLN0RZ2a11XBJks3gbJana5X+TBtULYyZX93kCSuj+NFfqpAi1o3qGuLYfFDf5DhUq1n7ykMLw4zZSKWYZ8i3pPal910/MXeitBCWJekgegxA1y/d/X4KKXjVGPONCyF+iWyWAsVXgWCgfUWdZztlg+smlYkcmJ1pt2njpcmgVWN23elQoiuG9qVOAdqCIZfoWtSSbj6leqhnzl/ECyZZ2X6I6O3d5iGasIG8CcBwH61vlA=;XxFiCZJAH2TtaN70bYEh3g=="
 ---
 

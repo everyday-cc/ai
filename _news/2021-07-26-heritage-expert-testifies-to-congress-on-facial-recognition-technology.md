@@ -69,6 +69,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "China court interpretation to limit use of facial recognition"
+    excerpt: "The Supreme People’s Court has issued a judicial ruling to regulate the use of facial recognition in all settings from apps to shopping malls."
+    publishedDateTime: 2021-07-28T18:45:00Z
+    webUrl: "https://www.biometricupdate.com/202107/china-court-interpretation-to-limit-use-of-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/02085231/smile-to-pay-china-facial-recognition.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5XkSeYtjdYQbZ1g7dXlsoKS7bu8e8zhyZEoOzQsDy7Oihk8zaJokCuqxbfOqm5ILuGCUvyu4gWXm5PffwrGUUA1UZt2zf4Mw2nCVNoLKxGHiJKXcePGdhTkztqeITbnxDNvJSt5nqrXk6xxuHcJMCYY9u8LOyjm16zl4PKs5YfrUZIO2U2jd8YDdxjpNB3wS3FktVUM2Nmd1e5r+4DNstjDXQKKIpDU2kNsiiPbc1uYHSsQqbN0bKmzRkigG9iT7+uyyNFWSm8mUFmzx83/5bVrCFfGA4+G/yVc9pI/iJN/sqp8rWp6g2gFIV4IEPui0XdCVkApxX3F9KtLM6tvhfTNI9jaIJ2a4tY5bmY91sic=;c1YERNbGO/AyYaO5IZyIMw=="
 ---

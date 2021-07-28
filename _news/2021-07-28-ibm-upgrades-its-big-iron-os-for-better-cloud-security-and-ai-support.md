@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3626486/ibm-upgrades-its-big-ir
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3626486/ibm-upgrades-its-big-iron-os-for-better-cloud-security-and-ai-support.amp.html"
 type: article
 quality: 78
-heat: 99
+heat: 98
 published: true
 
 provider:

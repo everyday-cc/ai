@@ -39,21 +39,7 @@ related:
         width: 708
         height: 800
         isCached: true
-  - title: "LBPD already uses facial recognition technology, but a fight’s brewing over whether it should"
-    excerpt: "Facial recognition technology has become a hot-button issue in Long Beach. Some city commissioners are arguing the LBPD should stop using it."
-    publishedDateTime: 2021-07-24T01:12:00Z
-    webUrl: "https://lbpost.com/news/facial-recognition-technology-long-beach-police"
-    type: article
-    provider:
-      name: Long Beach Post
-      domain: lbpost.com
-    quality: 28
-    images:
-      - url: "https://img.lbpost.com/wp-content/uploads/2021/07/02131248/0702-Conference-665.jpg"
-        width: 1800
-        height: 1314
-        isCached: true
 
-secured: "sPBygxyxxI0T+NM0lggUquSLqp/Z+SHaj8F1bkxYydFh8EkNLSUfH07N8xSAoOY+3l4pA2R9zlZDgCekEu83RkWZNRxZD5XxjpllusQFM/IjrFCwrvSSG3YWY9bRwRc89u/XwAK0xLkwRKzCVJGCxAbtLxfwEFTGoaM8hQNVa2jcbbXrMbmEfUZ0lI8YRNDF9Lqz/M2REA61/Nb0KEZD4D+lCwcOgofra5gylYYh1ydn7u+kwEkFyWJ7nalFvp8GNxMDpO6zLRhiadwLMbVC0aBKD63sxOIzXxjUdTxVJWGv/UZR22DqyjhUVsPF/OjSrl+IsG9XTqGVj7hqYpK0Lk1uHAb/q4AINMh9DYqZqlU=;1vvT5K2CvvXESQXq4uReMA=="
+secured: "MYMrF779gi+briQPM9lQHaCMMFi1CRTeuXs0AUWOg87054N0tfkl3EeX1BKIRssnXLu+l9qpI7Ha7Jxp6thMAAOcZmeyep0ZqAhR2AdDNzxxSolqa4Dwp/7Rf3YccBObOTprfrodiSjqvZUVwkBdcIcUjRu8vP30pvoyLbBLUaeEgAEcpctS7KROlTwfuAxRRxxPNIf94wsROLV6GKs3hE3uP8zl9pSSzqX7tIuGktoc5cReshzC7bQ5naxLkpkDN3stV61EHzxsoSdAqc1yGI4mwkr3shpC0gVDu0kEwIbEsIUFRMb8MXpoEXBH0W8Cr3Pzt0dw3VKnMPT7KR3/DY0dGdRLwuy6zmAPZgONH+AOqbYs+03X3VA2uKiXJO1iedKp2scx5z6o8m6ugjQf3DFqjeMpGDSopCZBg65T6X2AQsRyezW6sS6HgbU1bsaQtydyyerq7ep/BxStmAq3eQVvWzPfLPCa/ZR8NltKE8Q8HSvR9Ltj9icornueCmiOWQyXHP02Fq6MyUwVA3KkyA==;pkBJecoUM9jiFZzcQrAJ3w=="
 ---
 

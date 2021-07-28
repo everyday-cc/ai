@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-
 webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-from-riding-in-ai-self-driving-cars-for-the-rest-of-your-entire-life/"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://images.livemint.com/img/2021/07/24/600x338/968f78bb72fe47ebafe65fecc6da123c-968f78bb72fe47ebafe65fecc6da123c-0_1611854998352_1611855018494_1627148264064.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "Why self-driving cars could be going the way of the jetpack"
+    excerpt: "Driverless cars were supposed to be relieving us of the stresses of driving by now – but safety issues and technological shortcomings are keeping the brakes firmly on"
+    publishedDateTime: 2021-07-28T18:54:00Z
+    webUrl: "https://www.newscientist.com/article/mg25133452-400-why-self-driving-cars-could-be-going-the-way-of-the-jetpack/"
+    ampWebUrl: "https://www.newscientist.com/article/mg25133452-400-why-self-driving-cars-could-be-going-the-way-of-the-jetpack/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25133452-400-why-self-driving-cars-could-be-going-the-way-of-the-jetpack/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 44
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/07/28123136/art1.jpg?width=600"
+        width: 600
+        height: 400
         isCached: true
   - title: "General Motors sues Ford for violating trademarked driver-assist technology used for self-driving cars"
     excerpt: "The firm has taken the action to protect the Cruise and Super-Cruise brands following Ford Motors in April had renamed its Co-Pilot360 automated driving system as Blue Cruise. Despite the talks, consensus on the issue had been unsuccessful,"

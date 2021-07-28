@@ -35,6 +35,20 @@ related:
       name: RealClearMarkets
       domain: realclearmarkets.com
     quality: 39
+  - title: "Will Artificial Intelligence Be the End of Web Design & Development"
+    excerpt: "Using Artificial Intelligence for web design & development shouldn't be viewed as a binary “replacement” option to using UX experts. Instead, AI can be leveraged as a very powerful extension to the creative process."
+    publishedDateTime: 2021-07-28T18:47:00Z
+    webUrl: "https://mediatemple.net/blog/web-development-tech/will-artificial-intelligence-be-the-end-of-web-design-development/"
+    type: article
+    provider:
+      name: Media Temple
+      domain: mediatemple.net
+    quality: 37
+    images:
+      - url: "https://mediatemple.net/blog/wp-content/uploads/2021/07/AI-040721-Blog-Heroes-1665x705-1.jpg"
+        width: 1665
+        height: 705
+        isCached: true
 
 secured: "ABzxNXz2WCGII8S0+K1PF5qAFzZxeZubqnMjF153G/X43wB0APNQtlugU/ctEZ7LCBwZMF2wBcL/U5fMQIk/qPC9F8nmEEInPij3r5bLw1fsNhzNj8jv5/ClR1hNwM61GrLU0B6M+5FmFKB6XSWBcwwh+h6QJtAymb5oS08+wO+S9J3GpV+qvrzXoa9SnQXa2Wz88q73PIY00gTjaz/71sCW4ou+LUv1sYmZEYh4dNWapKxrykUgmzcL0E5QFLymHmiEudqYHl/S5h912RbjuounRdHEKV8iWwyHySsaBpV3ccd2SySkeZmOkRhm3ir6S2eZtoRfHIAW/lOCuId6DkkLeZA/+t0NoC7xEY2VPOc=;SHHeY0H3tOeI0hvMQKAKeQ=="
 ---

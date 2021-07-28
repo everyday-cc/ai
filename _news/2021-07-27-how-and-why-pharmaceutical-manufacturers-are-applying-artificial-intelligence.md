@@ -7,7 +7,7 @@ originalUrl: "https://www.automationworld.com/analytics/article/21578476/how-and
 webUrl: "https://www.automationworld.com/analytics/article/21578476/how-and-why-pharmaceutical-manufacturers-are-applying-artificial-intelligence"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 448
     isCached: true
-
-related:
-  - title: "How AI and Machine Learning Can Help Investors Achieve Alpha"
-    excerpt: "AI, machine learning, and other cloud-based innovations can deliver digital transformation, Sentieo's David Lichtblau writes."
-    publishedDateTime: 2021-07-28T04:30:00Z
-    webUrl: "https://www.tradersmagazine.com/am/how-ai-and-machine-learning-can-help-investors-achieve-alpha/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 56
-    images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2021/07/HBR-Analytic-Services-chart-556x1024.png"
-        width: 556
-        height: 1024
-        isCached: true
 
 secured: "YLi5kdMUa4rBx3qNM426Nr0AedeKLRZDBTn09Q1Xy8zgYApSUn7Y24WPaWBQjCB6P6Ir9bkCY6YB2cMtdvOap3XJJ/wfC3MwGXfgAnsjyUqUxXg1IGqy5OFaXpYww7ufoVlXBP8yi4QFyNQuMS9z3vyUbEpIEmBaikbUiHS/4fvpYRVa0KjUcTc3Lq5PntWa3VqtXW9WK38t2Busflp4RtQRg2d3H5IomzCWQ8mYd76s3P2zN2ob9QyW9PoWCZ2BQCY2ySbzwiU3yrQsgBeAK4XKv4vaNm5KzIXNUD27wurWatg58gYwU22qrUlN7+mUzfg7huRubOKMNIMLA63OzS7oTcqXW5HDilFUIdmxF1/ijTvYG5s+Y0q2AHkeWNVfpDtHeQfCcYiutefVL3Aw8ybb0F4pZl093UllghEmuj+C2JvrXzVidJZpFCvhPmF+u2/UqcMKMEBEa1YUT+eS02mQ5Rx/FCe4qj/5hfsb1a3ZYbAF+NqUGLB5a4ipe1lRBkapyfhuj087+fW2LwuHBA==;eUDfZS4rV80Y3scOZS/K6g=="
 ---

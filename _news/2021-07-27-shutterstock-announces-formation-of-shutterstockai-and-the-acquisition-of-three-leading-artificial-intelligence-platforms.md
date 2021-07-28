@@ -31,15 +31,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
-  - title: "Kiromic Announces the Acquisition of InSilico Solutions Leveraging on Bioinformatics and Artificial Intelligence to Advance Clinical Development on Its Outpatient Allogeneic ..."
-    excerpt: "Kiromic announces the acquisition of InSilico Solutions leveraging on Bioinformatics and Artificial Intelligence to advance clinical development"
-    publishedDateTime: 2021-07-26T22:55:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210726005822/en/Kiromic-Announces-the-Acquisition-of-InSilico-Solutions-Leveraging-on-Bioinformatics-and-Artificial-Intelligence-to-Advance-Clinical-Development-on-Its-Outpatient-Allogeneic-CAR-T-for-Solid-Tumors"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
   - title: "Uniphore to Acquire Jacada to Transform Customer Experience with Advanced AI and Low Code/No Code Automation"
     excerpt: "Uniphore, a leader in Conversational Service Automation (CSA), today announced its agreement to acquire Jacada (News - Alert), a customer experience pioneer with the industry's leading low code/no code platform for contact center automation."
     publishedDateTime: 2021-07-27T11:58:00Z

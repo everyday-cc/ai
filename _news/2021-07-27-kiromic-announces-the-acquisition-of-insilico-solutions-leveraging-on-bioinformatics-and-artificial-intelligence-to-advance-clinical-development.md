@@ -19,33 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Shutterstock Announces Formation Of Shutterstock.AI And The Acquisition Of Three Leading Artificial Intelligence Platforms"
-    excerpt: "Shutterstock.AI to offer computer vision and predictive performance solutions with the goal of enhancing creative performance NEW YORK, July 27,"
-    publishedDateTime: 2021-07-27T11:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-announces-formation-of-shutterstock-ai-and-the-acquisition-of-three-leading-artificial-intelligence-platforms-1030649499"
+  - title: "Leveraging Simulators and Robotics to Enhance Operations in the Education Sector"
+    excerpt: "Technological advancements are enhancing various industries like travel healthcare, education, and communication. The use of simulation and robotic technologies are proving to be excellent factors of existing educational resources."
+    publishedDateTime: 2021-07-28T18:17:00Z
+    webUrl: "https://www.mobilitytechzone.com/topics/4g-wirelessevolution/articles/2021/07/28/449577-leveraging-simulators-robotics-enhance-operations-the-education-sector.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-  - title: "Shutterstock acquires three AI-based marketing platforms"
-    excerpt: "Shutterstock Inc., a provider of stock photos, videos and other media, has formed an artificial intelligence division and acquired AI marketing platforms Pattern89, Datasine and Shotzr for a total $35 million."
-    publishedDateTime: 2021-07-27T21:43:00Z
-    webUrl: "https://www.bizjournals.com/newyork/news/2021/07/27/shutterstock-buys-three-ai-marketing-platforms.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
-  - title: "Uniphore to Acquire Jacada to Transform Customer Experience with Advanced AI and Low Code/No Code Automation"
-    excerpt: "Uniphore, a leader in Conversational Service Automation (CSA), today announced its agreement to acquire Jacada (News - Alert), a customer experience pioneer with the industry's leading low code/no code platform for contact center automation."
-    publishedDateTime: 2021-07-27T11:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-uniphore-acquire-jacada-transform-customer-experience-with-advanced-/2021/07/27/9417224.htm"
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 66
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-jul/4823494800-robot-2587571_960_720.jpg"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021"
+    excerpt: "Analytics Insight has announced 'Top Robotics Companies at the Forefront of Innovation in 2021' in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
+    publishedDateTime: 2021-07-26T14:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/26/9416657.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
+    quality: 24
 
 secured: "OIarn4EyxpLoHKdHofVpGdFYLmG9kFbjLto5knAO+FPr2dkIZ8UKceV9ExD5aKdP4HJASOWZ7FleiGOZkP5NMWTnb9PylUJt52OFi7L7AFITcbXW724xyO+xuqMglW7VFJtrOQmDIEJTXqLtfbfVSnIiTdoCORx7qozHeW6yPOxYDeDPYCB50iE1LiD+aDYwe7J4CRakjCrH2GJnec0XQAl1Mvs3+2DSYVuRRa/0V03eJaMBxGPEWDiY6Zu9JpXek5iSEGkIA6nDsgOVflm9gq4UKLsswsx2sRQfP3Z6dGML+eU6wXVhd6to1KbKCCarAhQP8fW+RWHFpoNGFdtMGJMm+c5W9QdgZBQBkRS/EuIWpkszklfk3gkZ48StArwle7AqtTRHjY7LAryCKmAk66VVi+HqL2Bd0ofFnV9rh93rDhcgvjoOQe8q8m389NuiAGT6hmIXbR2AoDNLnCfHFbYZCh3e/cEP3wTjB4AN4bHYqZjU8ZcQNhULgJd8fXMOwR79+OCgd0TzU0KRK0BBtQ==;bv9wwimTxlKWktB92YJdyg=="
 ---

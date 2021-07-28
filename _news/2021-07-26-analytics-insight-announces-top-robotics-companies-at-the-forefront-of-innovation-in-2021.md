@@ -19,43 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "The USPTO AI Innovation Journey with Scott Beliveau, Branch Chief of Advanced Analytics at the USPTO"
-    excerpt: "This month’s AI in Government presenter is Scott Beliveau, Branch Chief of Advanced Analytics from the United States Patent and Trademark office (USPTO)! In his interactive discussion '"
-    publishedDateTime: 2021-07-26T22:50:00Z
-    webUrl: "https://www.geekwire.com/calendar-event/uspto-ai-innovation-journey-scott-beliveau-branch-chief-advanced-analytics-uspto/"
+  - title: "Leveraging Simulators and Robotics to Enhance Operations in the Education Sector"
+    excerpt: "Technological advancements are enhancing various industries like travel healthcare, education, and communication. The use of simulation and robotic technologies are proving to be excellent factors of existing educational resources."
+    publishedDateTime: 2021-07-28T18:17:00Z
+    webUrl: "https://www.mobilitytechzone.com/topics/4g-wirelessevolution/articles/2021/07/28/449577-leveraging-simulators-robotics-enhance-operations-the-education-sector.htm"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 52
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 66
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/07/October-2021-AI-in-Government-Scott-Graphic-Updated.png"
-        width: 600
-        height: 335
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-jul/4823494800-robot-2587571_960_720.jpg"
+        width: 960
+        height: 640
         isCached: true
-  - title: "Rigging for AI: How the US Navy Embraces Digital and Masters AI with Brett Vaughan, CAIO at the US Navy"
-    excerpt: "Brett Vaughan, Chief AI Officer & ONR AI Portfolio Manager at the United States Navy! This month’s AI in Government featured guest speaker is Brett"
-    publishedDateTime: 2021-07-26T22:51:00Z
-    webUrl: "https://www.geekwire.com/calendar-event/rigging-ai-us-navy-embraces-digital-masters-ai-brett-vaughan-caio-us-navy/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 51
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/07/august-ai-in-gov.png"
-        width: 405
-        height: 226
-        isCached: true
-  - title: "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021"
-    excerpt: "Analytics Insight names 'Top Robotics Companies at the Forefront of Innovation in 2021’ in its July magazine issue."
-    publishedDateTime: 2021-07-26T18:11:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210726005529/en/Analytics-Insight-Announces-Top-Robotics-Companies-at-the-Forefront-of-Innovation-in-2021"
+  - title: "Kiromic Announces the Acquisition of InSilico Solutions Leveraging on Bioinformatics and Artificial Intelligence to Advance Clinical Development on Its Outpatient Allogeneic ..."
+    excerpt: "Kiromic announces the acquisition of InSilico Solutions leveraging on Bioinformatics and Artificial Intelligence to advance clinical development"
+    publishedDateTime: 2021-07-26T22:55:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210726005822/en/Kiromic-Announces-the-Acquisition-of-InSilico-Solutions-Leveraging-on-Bioinformatics-and-Artificial-Intelligence-to-Advance-Clinical-Development-on-Its-Outpatient-Allogeneic-CAR-T-for-Solid-Tumors"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 24
+    quality: 0
 
 secured: "eQ+VVTkBNbM/ssoiVm9+wKvlBtPS3CSlLGkLGpAsueKamrW/DcdaSHoPp8E6LJVeJtGjTTTg0H6NTRALz+9/3HEiS9GtZszgjkRG+MnZXX/e1mJstZGb2LckY9dDSxV4qtsH48dhSFVvxMmAzOl0qa61LZfkjE4KqoNNSFUhXLIvCKfnnlZxn53BgHupQ2IWap/p8hYf6yG3O6vAnEWiobDeJg3DTuiYubsjpYw7tv63wkRJQDSQCf6tvn1wuXlsho+f8TPGPhP6dHkqvJwxWtFbN1qkFdiXcu/WoPVvJsQrKK0wJUYOQiCwu3DXxDXaCJkHIY2CTuDqM4pspfVmuPbMsVnM9ZrkfYCmvW11SVo=;ucJw0GuxvlvCshKJTRHdtg=="
 ---

@@ -35,6 +35,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Will Artificial Intelligence Be the End of Web Design & Development"
+    excerpt: "Using Artificial Intelligence for web design & development shouldn't be viewed as a binary “replacement” option to using UX experts. Instead, AI can be leveraged as a very powerful extension to the creative process."
+    publishedDateTime: 2021-07-28T18:47:00Z
+    webUrl: "https://mediatemple.net/blog/web-development-tech/will-artificial-intelligence-be-the-end-of-web-design-development/"
+    type: article
+    provider:
+      name: Media Temple
+      domain: mediatemple.net
+    quality: 37
+    images:
+      - url: "https://mediatemple.net/blog/wp-content/uploads/2021/07/AI-040721-Blog-Heroes-1665x705-1.jpg"
+        width: 1665
+        height: 705
+        isCached: true
 
 secured: "DOUm8GdXOi4Ws1DOrlZTw2ouPAvBiDBTQLXiZ4o6F5g/JOP0ScOp1iK6GQrkrDLzqvjB4MDjXBs0oeqfjfQ5iadCtk3nsSCJQ/MQFDkUOczj3tDuf3tu8jTgLTVsiPT+8xXxnfvjchtsE5IclGbHZRO2AnmIuXq68hMqNSJpx1xoS+gE9Ikppfn6XvZhhj5BWBp6uGWoK+kS3psVrp/i5vLkbXU+cHEhJULT//jtdCcBWm75HUXwaJrUG6NgTRreVpSXv29hpCmSD0t5bDaSIq7OC5J4q+vCpJhIUzsQTeKiyJ78ne2kY9+xRlkphPadDkzez7ArJ5U7gmN7H9ItgnuJqWEgmpwHXrbrT0H5rXk=;vHuWdXRVWs6MMgSXXtRU+g=="
 ---

@@ -82,6 +82,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Artificial Intelligence in Education Market May See Big Move | Jenzabar, Microsoft, Century-Tech, Pearson"
+    excerpt: "COVID-19 Outbreak-Global Artificial Intelligence (AI) in Education Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market risk side analysis,"
+    publishedDateTime: 2021-07-28T14:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-education-market-may-see-big-move-jenzabar-microsoft-century-tech-pearson"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 56
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/DDD-3-2-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Lanner Partners with Microsoft to Deliver Edge-to-Cloud AI Deployments"
     excerpt: "Lanner Electronics announced its partnership with Microsoft Azure to launch Edge-to-Cloud AI Solution, integrating Lanner AI accelerated intelligent edge appliance with Azure IoT edge module, runtime and cloud interface."
     publishedDateTime: 2021-07-27T15:52:00Z

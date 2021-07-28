@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have-emotional-intelligence/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Harnessing machine learning to enhance Emotional Intelligence in healthcare"
+    excerpt: "Emotional AI has broad applications across mental health, remote monitoring (through voice and other biometrics e.g. blood pressure, heart beat) and telehealth."
+    publishedDateTime: 2021-07-28T18:00:00Z
+    webUrl: "https://medcitynews.com/2021/07/harnessing-machine-learning-to-enhance-emotional-intelligence-in-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 56
+    images:
+      - url: "https://medcitynews.com/uploads/2021/07/GettyImages-1010187562.jpg"
+        width: 591
+        height: 591
+        isCached: true
   - title: "Pentagon eyes artificial intelligence (AI) enable tactical network to speed flow of actionable intelligence"
     excerpt: "Merging these separate efforts into a high-speed multi-service war-machine is being a goal of the Joint Artificial Intelligence Center (JAIC)."
     publishedDateTime: 2021-07-27T06:35:00Z
@@ -46,6 +60,6 @@ related:
         height: 630
         isCached: true
 
-secured: "56Anex+0i6DKhMKeYRShD1EKrsaPxezCIyr+BEyOfKAGyYohmxnVq77HlTLHO3qL2WYP7boF4GHjWeCqSJZ3Sncx7Uw8ACm/iIJf8I8R6flVqP7eknMgA2nrF/e8YMmi8bGSVLQvpFtZGE2d+3/tN1SoMBeXq8t03x7WY4E8brFHQ65kCQtqPxDvOvKI8iD3FgYkx8Vfevp//Vhri2wGH9bYjwTkIplt7cKc2r7v0iOUSnUvCwbNzIHqackZjq2MWr8RJq5JgexWlf29Jkvv51swFo4v6y7tda0MUxZwQnEQtBEeELpj5UFWqbQusmqJoLOqH0LOE+bXkHFH4U72NasILYRQchAnK3/+8xSMikE=;3WbakaJw8nGqxb5nXIdNuQ=="
+secured: "6GDT6WiuhHhwJA6iLWG8IPLQQWACy6Ta/whgZPHcYFm+K70ssBn58eP/bvlF/eFBdrPsgqFHT5PQnkoqphreGy8VOkGvw1UBo5+cAvA13ylax+7IEPJWuRXIlJUt4UOG6Jfu+se44ebcjEdDmPzjQ4MS4Fm0WWw0USoAbJ6mnGH6cL+S/GVLNawe0oYCQvmQTUnisCv9K1EZvAU63D86b9mAth5ris2fRzN372BHV4QSgi8rRcFQN1kzTKDyDDolOWai29zm19uEqS/j5sFLgdMH+LniysQpc0ULEzQgKa1dQ61XCF39xdNWS0LHhqOnJOWAKZe/ale9rJGjm5A01X4HVL/fDZFAcALK3ihuYSfDkutMklnvrSYPmGWmxS2m+Pw7dlO5clph9D6WLV5IZJ8D6xHIWTT0s/ZsLuPYShbslPBlK/54q9M7ltLll7fU8Pt706cWmguVnAISxQzzvcMsxl7fGxMECh3HRDV+OP9hDYedxQHYM4Z2Qcnimw/z8xg1yonyvXgfo+tNe84wiA==;Drj/NTHchlIf/FFHba1y+g=="
 ---
 

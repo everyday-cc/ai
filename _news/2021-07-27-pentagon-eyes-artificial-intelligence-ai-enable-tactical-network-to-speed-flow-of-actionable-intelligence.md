@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Harnessing machine learning to enhance Emotional Intelligence in healthcare"
+    excerpt: "Emotional AI has broad applications across mental health, remote monitoring (through voice and other biometrics e.g. blood pressure, heart beat) and telehealth."
+    publishedDateTime: 2021-07-28T18:00:00Z
+    webUrl: "https://medcitynews.com/2021/07/harnessing-machine-learning-to-enhance-emotional-intelligence-in-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 56
+    images:
+      - url: "https://medcitynews.com/uploads/2021/07/GettyImages-1010187562.jpg"
+        width: 591
+        height: 591
+        isCached: true
 
 secured: "tHneBYEaP3DOZhTXP0INCjXJKOOXjW7Jb6MSf1T7VgWFDFEJYldkZnNBkO0EsJfpMExcivyxIchnQrVkJ5MPNhHWpD6m7724Dm1ORDIaaIU0+qG7JEa4TSsTcVE/l7biBDLXLXpC4XNXxkVlxTGWbSHIWv4qDaJu3Rxu7WgXVT6OuxbG1vfS7xajB6tguMsvFreAE0nAvqNwOQSFbSNZWAQppo6+0AAQg/TjRWUSRKzcexmbpjE+4u5c7gDL5+Q02yo8Y2mPESR1SaHTULfLuS6pitxa/Zdy15LohZtwxiQF0EXLL7VwORBuc4KfCfhbVI5r0lxh3S6h6b48E7GIhxdik/oj+0qFIveWdLQekCzjYaSNwq8nb1ZpDdZZ4n8rH0gnbQW8liPkBzLFtYEmpqhLTNoPQPwOjJt8moNFump4E2s9TJ7oQeW+p0dUSL3v2jzoRqdu4QCV/TlY7vwBL/0EseJrfpQ8D8F9WZkuHfo2wAPyIurB68dzdqKFEdKoWUl0nHwaJUTfnjdH6hKrIg==;zyCNgl4kMcfR4b8eJcU6wA=="
 ---

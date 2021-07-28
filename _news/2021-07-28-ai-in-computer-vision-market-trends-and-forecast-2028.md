@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-trends-and-forecast-2028-2021-07-28"
 type: article
 quality: 84
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
     excerpt: "The Global Artificial Intelligence in BFSI Market is estimated to value over USD 304.7 billion by 2028 finish at"
     publishedDateTime: 2021-07-28T14:57:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-trends-and-forecast-2028-2021-07-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Medicine Market Trends and Forecast 2028"
+    excerpt: "The Global Artificial Intelligence in Medicine Market is estimated to value over USD 24.6 billion by 2028 finish"
+    publishedDateTime: 2021-07-28T14:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-and-forecast-2028-2021-07-28"
     type: article
     provider:
       name: MarketWatch

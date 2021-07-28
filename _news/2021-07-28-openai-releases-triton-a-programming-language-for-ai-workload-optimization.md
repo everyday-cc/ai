@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/07/28/openai-releases-triton-a-programming
 ampWebUrl: "https://venturebeat.com/2021/07/28/openai-releases-triton-a-programming-language-for-ai-workload-optimization/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/28/openai-releases-triton-a-programming-language-for-ai-workload-optimization/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 100
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all"
@@ -30,6 +31,22 @@ images:
     height: 600
     isCached: true
 
-secured: "vbUK6mb395+f8rbuaI7js8pzhsENpHXRWLPY6CaXPi2zN87P42gpSMQC+gDwFUZ/kqL++Q7l+UDA0aizu6KFwPFCU+R4b/seD/iYmAZ7yHU+MDz6ZDRb6kvxkcwfuJ4B8dJ+ELhXP3a3+ZExYMcylh0FeCUEbYY6YREGmkhv4h715awTnKWBd8dUc5frBF7BCL7G6R4bJLYwTfweIGFiNy+G7hjmau4ptYONa8lSwdAK6WiZ7E5K2aIYQgNMjWxLWixBr2rGV/hkrdsJe/jSnvBxjEPpK4r7SlYEk6pFzxlZy5KSnohvjZ3R911Njvt/jCTRNrrBgO+C6mg/4hBp1x6OaVW22MJrP7eO49CIQog=;boZB4Ude+jvmnFjlvELc8g=="
+related:
+  - title: "OpenAI debuts new AI programming language for creating neural networks"
+    excerpt: "Prominent artificial intelligence research lab OpenAI LLC today released Triton, a specialized programming language that it says will enable developers to create high-speed machine learning algorithms more easily."
+    publishedDateTime: 2021-07-28T19:26:00Z
+    webUrl: "https://siliconangle.com/2021/07/28/openai-debuts-new-ai-programming-language-creating-neural-networks/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/openai.png"
+        width: 718
+        height: 400
+        isCached: true
+
+secured: "iueAh5wlcTOh3/2iDv5yq5NyMuW9dxCNdTTlrKIF0PJsHbgS939W0YjvGIcHOB1j/H8RGhSmNs8uZgY3CiVioxZoNg+QzQOBjgIO6ttGh/GHfcpCvpAgPk2EuDmeYF6zi+ZPbQDg/twlN8zRlvWVienqlSjIESUv1ybocQ4DdxjBGJcHFmyJaEkWrFw6k8WBYkvcEg/BwdBJi7qPJUEJWGXOJ5eKM/l6D/P+oL6SE6Y/Oyij6Q61OdooQ4mWqur8BrUvVthfAFAbXgKL42kr6lfNVqSbNnMpl07B4GhE1M7PTfRU6uScMqb8vNWZ+bUm2zNuKwdc4xH5bnl9Ew+x8L5dFTMKC+zjpAFYvxKyoLMJ69Ms828ljh2dKVgKZ1mAJKd0Rs9A2kG8qGr0VCAF/0skUbeovlj1e5t05s5lZfpA3zI9I/Lm3jmG26CDyHP4lM6OP9JYo1UK7xi11MFajdjEn3hekkRyxhaHcNxViBv62dkGYKOeRJm0I/3Glk8kDzAO7/UPbyX/j3UxSf0jHA==;nJQt4bxxxCICcIJ+dTsGUA=="
 ---
 
