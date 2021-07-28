@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Honor confirms its Honor Magic 3 will arrive with the Snapdragon 888 Plus, advanced facial recognition and more"
+    excerpt: "Everything indicates that the new Honor Magic 3 will be the company’s first flagship after its recent sale by Huawei. The Chinese firm is already warming up the engines with various announcements before its official launch,"
+    publishedDateTime: 2021-07-28T09:49:00Z
+    webUrl: "https://manometcurrent.com/honor-confirms-its-honor-magic-3-will-arrive-with-the-snapdragon-888-plus-advanced-facial-recognition-and-more/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 19
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/1627465765_840_560-780x470.png"
+        width: 780
+        height: 470
+        isCached: true
 
 secured: "JMDHUpCSELhu+OFDaVRczuKn0NC3344/f9FXhrcfFufkmSYGrom9fIAV2irk0DlxaEKCeuOJWoM3hRN4z6Nq4cbZNLXdrhDt417EftK41ZdlKwJ0nOZH6MUWzqKLcyTh6hxCMm6fEYrl0y9Q3JpPd8bb/hgEK3GjOV+x4F5Yn913hLoxMJjaqvfNlts73ib3ZbY7p60t1v8f4n1O2CIYbPkBSDK99+nwrZhI1lVwXj51vM9vMvtdpkpnm1MOFY0ul5g4hkSuC5RD6LeFvNcyO/ZMPE0/xyiLpSnBvuf4PyywUmWxlDi51st4OqhZn9PSiGETGREyhJUv9vwpTPLPdX162e85yZKCwoK6zd2iTE3kLaS6zx9QdgUWOK029Eb5hv0EYR8KDgfwHiG/cQNY17X/B5dExZFQIm5yVOY/4TVPgF9GiX6nM6FtZ5+kLBxWiKncx82rinr11Rv2zcqNQUlj3LC4j+3TmK4wjRHsQGRzE8NS8yASbn5EMkNk5h6ymxMzbsa/2UEyTp9mODUBgw==;veXyQXw68/bMeVgQHLrX2g=="
 ---

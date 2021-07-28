@@ -237,24 +237,33 @@
     {
       "path": "_news/2021-07-15-on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform.md",
       "title": "ON Semiconductor Intelligent Sensing Technologies Enable 360° Vision in AutoX Gen5 Self-Driving Platform",
-      "excerpt": "ON Semiconductor's image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform.",
+      "excerpt": "Revealed at the World Artificial Intelligence Conference, the new Gen5 autonomous vehicle technology enables the first fully driverless RoboTaxi, designed to democratize autonomy and provide ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210714005927/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210714005927/en/",
+      "webUrl": "https://tucson.com/business/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/article_905394e9-63c4-5ed0-98af-f06c42c229e4.html",
+      "originalUrl": "https://tucson.com/business/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/article_905394e9-63c4-5ed0-98af-f06c42c229e4.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png",
+          "width": 620,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T16:00:00-07:00",
+      "publishedDateTime": "2021-07-14T16:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Arizona Daily Star",
+        "domain": "tucson.com",
         "images": null,
         "publishers": null,
         "authors": null

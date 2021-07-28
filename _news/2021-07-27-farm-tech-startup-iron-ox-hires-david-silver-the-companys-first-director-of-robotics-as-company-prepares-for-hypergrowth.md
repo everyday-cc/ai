@@ -2,17 +2,21 @@
 category: news
 title: "Farm Tech Startup Iron Ox Hires David Silver, The Company's First Director of Robotics, as Company Prepares for Hypergrowth"
 excerpt: "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Director of Robotics this week as the company accelerates growth and expands its commercial footprint."
-publishedDateTime: 2021-07-27T12:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-david-silver-/2021/07/27/9417268.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-david-silver-/2021/07/27/9417268.htm"
+publishedDateTime: 2021-07-27T12:47:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876"
+webUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876"
 type: article
-quality: 28
-heat: -1
+quality: 58
+heat: 68
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -40,6 +44,6 @@ related:
         height: 337
         isCached: true
 
-secured: "mZdA6D+kJFQyQH/9XFpA3A30v/Pya4dfsHzGwLQ2n4MyEH+fm1sgwT6UO+cMG//N1DLhg+oXc2xBOX6/BEEirHw1D+Id+T6IZvjsHTq0C4RjGwBeMzRARDHUPrM9UrkXejE0h5qnxqQM54JKsq7mAnibcWxDZfsMp5BpwNIV5/rDlmrdc+4PqUY5JR096Q7QPcX3OL33lyVkzIOvHOa44dVo17lfXwjb1k7CrSUQZMKWgoFmcc7iacK0g8aC+L5jGqruQjd/KjZSmp/6DMmw5oC1uMjeLjEkruxhaR8k140Mjd3nrfNO+Os6NSnR7QBG1ICa19Q5d6Q73pv0izdvzPMKG9EWaCQLfNDXHKpE/Fk=;1QKglxnsIKW+Rq4hQN5Ylw=="
+secured: "mOuZXYY9XjYe2RIUC7yFo7yfYGsgfT/HmAdGWMu25YzIFXxzYUB1EjmE/1AR2jJDUmXFp6zp0QXfm18ZLAEFaBkRWDAlmiVQP8Z8Nigs1TKIN3rbCMzvzRFLtFlZr4yNqPMcveETaIL7uBWMjIy0b4HA7Oyjs3NM1NXlH/Y/+IKn2lL5TZXbK1QT27o5hF1cORXzfxWDKL+is1hU0An1I/b96VlK8SnehAsi+BYlMwcFmpw1AZQSkpJSIp9goK4hQObDwOCWCqfN9rhk6BDLoXjVEbNVlJwNtlJ9j18wi6f5VYHI0o/rC4WWc2X3bUlzdALjeeB0z+qpFi1mXFfA67ctRw6Znbi9IWhfljlsIeU=;JSJjgqedAEOMVq0WUY9aGQ=="
 ---
 

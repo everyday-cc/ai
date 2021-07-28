@@ -119,6 +119,20 @@ related:
         width: 800
         height: 452
         isCached: true
+  - title: "Artificial Intelligence in Precision Farming Market Giants Spending Is Going to Boom | Microsoft, IBM, Intel, SAP"
+    excerpt: "The report presents an in-depth assessment of the Artificial Intelligence (AI) in Precision Farming Market including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
+    publishedDateTime: 2021-07-28T09:37:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-precision-farming-market-giants-spending-is-going-to-boom-microsoft-ibm-intel-sap/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 33
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/PR-10-Agriculture.jpg"
+        width: 640
+        height: 400
+        isCached: true
 
 secured: "SfppKniUbD9OwKK4NTEmy9bBTI+WfLmEGsBYDF6FO+/AdlMnxKJWN0tKb6l58D+Kg217X9Ssu4GorS7H2I1PNpzRGiD9cwN9QiAaPf4ADlkdk1C73z3j+hujs6dDB/90uYfdmCDToWHPVSHA9ynjKjz0ahbLPnXIlDVa/QP9irbY20piwcueD9bU15X4MUweS+lJWGe5N4qyATJgudu6k6v9Q4iF+E3JnOwcLHGZmsGPQ5SCwS3eHRGWW6EaCBrker7Kwq8OE6LVwFI8FgnF9AP7FT+mFsA0+MrbvM0czmtT4T4QxnKA8f7hGSoUQUi1cLm0KUgpPHDMvajeRG9xRrVVe7WwRVkgQSXxG580/VdSvxoPQq90dZglytC4IgstxH+KaHifbCgdncoorcLzawMc2kn1Vb5RlZl/AeLXVkZ5t1O2scxMzAka+SnbCLU6zEAaBnKQxqVEiW6mEsbAt4ke4HTydL+L9k6YDOqs4ja4QvumqsBmT6njAtSG1MuR4Y1+sHmLyv1m7rGtGxSVgQ==;Echi+ZYDxdf4tUqGUOYtHQ=="
 ---

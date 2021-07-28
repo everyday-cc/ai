@@ -9,7 +9,7 @@ ampWebUrl: "https://www.adweek.com/creativity/ai-tool-shows-how-machine-learning
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/creativity/ai-tool-shows-how-machine-learning-could-make-video-editing-more-efficient/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 640
     height: 360
     isCached: true
+
+related:
+  - title: "How AI Is Expediting Medicine Development"
+    excerpt: "The world of big data in the healthcare sector is vast and growing exponentially. Tools that leverage artificial intelligence (AI) and machine learning (ML) are critical to organizing, correlatin"
+    publishedDateTime: 2021-07-28T05:00:00Z
+    webUrl: "https://www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.html"
+    ampWebUrl: "https://www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.amp.html"
+    cdnAmpWebUrl: "https://www-realclearmarkets-com.cdn.ampproject.org/c/s/www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.amp.html"
+    type: article
+    provider:
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 39
 
 secured: "eVX113P1X0EIdkP9sNZe4ukwipZs63hTmqJ399o5b95fQDKxy0qod+RzVx+Y3czwfFDZOoLd+z1oSC7Js1s6mAfaFDvuQMzv6gMlmODWV0A1hDLla/d+K40VWXIPNWPjD/CMAOPfntZejHkmi82AYphdjtsKtraMyNYHW+m7ciBHWe98/24sfjBf+TH2mZV4cWGwQCRKp18HsvyQRNnNUqaQhAP00Saw/CE2fd63nop/X7TsY3Ln47EmIhWSuolBMGi1B4BwMP0fe51bKB9jCCeZmkucLYAuKuv1PKd/Z1LV458WmOaGZlIsYPA+iCs4EsSGg5t8laUZt4rpyQ8FR+/pBJASfhXW60JESd9sUWgBJzKhoMS0tyfmQ5IyNGkd9euFgRgFvFRKtEXAl0jzcPNU0mLYRGA0Ry3E+3/3pa42SO3g2v27ThZL6cCwTJr4kYw/MWJ2av+jmvNitghuIau/Zt+5y0Gr1qj8s2uo2l0v7iZefXMqWEccEFvSrik7HGSj8u3vdpxOZ1SDSAemUQ==;nsljFvUgV3b7DzqNrzQx6A=="
 ---

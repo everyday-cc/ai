@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Speech & Voice Recognition Systems Market 2021 Business Outlook with COVID-19 Scenario to 2026"
+    excerpt: "The global research report titled Global Speech & Voice Recognition Systems Market 2021 by Company, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz is prepared with a nice combination of industry insight,"
+    publishedDateTime: 2021-07-26T03:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-systems-market-2021-business-outlook-with-covid-19-scenario-to-2026-2021-07-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "REwEfSr4uMVbE8zQMhYqP2o0gy/hGbb/gA1H+GZv1Jbiy4Q3f1imCDNoLKY0V/0nGS8A9n+MhveV8uYEnuF3H0R2O5qthZEQSHb9gUjb+TeVy0ogWOdBy2L7FVKX/8wH7rFdeVkKcpj8e8cOSsMfV5PvIikrqexFHqqXWncYBrNAcsN9WX6b3d8PNQWHicrSdGpUgtS+q+ssKc2W/7TmU6swtTaik562f5ohv649cajud5uIsuFcAMAr3CFMi8cPmLgWfwRxO8Q0AecITzfTbISPFhFY7rUx8iunP4CGDwNM3p071zzCQkWOegRmY3z1FN74prg2UATCnoUwh2XBfvqkh4gs+Am75L/F4JjO6FWkBTAnJHrrPNaf4l0+aYAWvILT7eAsKMu0CSL1VcLOOmOdDNUPhq5ZpgDD8tLZ65WD3Je1698g8HUVAqJfsFgmPRQSMA0f2VDeMAjbDXPMmshBM0xi92POfXamhQF7+z9qJ+ZGDKWIIvpDrguvaxny8INDRSsUgDzC8MMQjAm9Bg==;7aRz+vJRd3BEmMGQ7CdOFw=="
 ---

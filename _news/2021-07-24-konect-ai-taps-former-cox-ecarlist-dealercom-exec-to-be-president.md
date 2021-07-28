@@ -23,17 +23,6 @@ images:
     height: 495
     isCached: true
 
-related:
-  - title: "Konect Ai Expands within the Automotive Industry and Announces Jerry Salerno as President"
-    excerpt: "Konect Ai, a leader in automotive artificial intelligence, is thrilled to announce the addition of Jerry Salerno as President as they expand further into the North American automotive industry. The innovative technology company has increased their workforce in order to accommodate the demand for their superior and user-friendly artificial intelligence for dealer lead management and data reengagement."
-    publishedDateTime: 2021-07-23T16:12:00Z
-    webUrl: "https://www.financialbuzz.com/konect-ai-expands-within-the-automotive-industry-and-announces-jerry-salerno-as-president/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 8
-
 secured: "VIa/2OBZEVo/7reQGtdquZ9juqK11v2a2t4SfCtIV7wPMoJSgRDUDFpZEIwOKblNWdIp5xVHC/Ave9c2opDejx8NP5nrktSq01gWJ7rU3APY7wiLqDoCedWc5LeMbVj3P17UFXHzuJldrSZztD2g8MtGHp3s6dFeqWivQF4ntn27WPoIK8idYVoCAFddFAfZEW+kFt8PkVM2Hx8+Rxx9Or7hX7hza1qCL9kUwGLOnAYFFw/yp3Fy6f3bJxIYrrlese9a9ML+asr7IPWpDCiCyGOqwuTq+S7qm47GFc7kQvrp6p8RLhj7lS4/dHOQuN6bHbJ7Sy57lzedMgmr4y1UiKYrYImFgfn/hxSJQZVqBvaAYQCOEDWQJEWmkR44mcT5qo1BmUV/6qgtTS1vHcUWQZ+YPN2vHe58ql066wXul4Jwxm+78O2YY5xwf9eTbVt8V84vJzAQ1opq/BYd0uWQpX55YhbUelPyjbaZm0M7bsbp8CRgaHtdz91XAKWbx7f6lVGEkPWHSENgqJuAOdD7YA==;kppsl9HuDWhGDKWUMwiV+Q=="
 ---
 

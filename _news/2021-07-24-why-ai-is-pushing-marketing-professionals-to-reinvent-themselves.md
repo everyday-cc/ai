@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/Why_Artificial_Intelligence_Implementation_is_Lagging_in_International_Shipping.jpg"
         width: 1620
         height: 1080
+        isCached: true
+  - title: "Artificial Intelligence in Precision Farming Market Giants Spending Is Going to Boom | Microsoft, IBM, Intel, SAP"
+    excerpt: "The report presents an in-depth assessment of the Artificial Intelligence (AI) in Precision Farming Market including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
+    publishedDateTime: 2021-07-28T09:37:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-precision-farming-market-giants-spending-is-going-to-boom-microsoft-ibm-intel-sap/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 33
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/PR-10-Agriculture.jpg"
+        width: 640
+        height: 400
         isCached: true
 
 secured: "MqAz0naanuU3XuTljZp+exESdLKYQqkJCHpabstTF5f+IFQ1vJAYpguFU9r8v5j7xngIrlRPmZQHA8dpiU8A0IhkNr6h7LmGz8ZMiUVxXDVzSs7kOy0XjpkAONSkgpUo88i+aJ8KWytNSIZz9lr1F7cIRAW0/sqU4f+GDZo6kVXaHopUwruTdA+cr0PWX+9ntUUfrFPqwUXAyxoOok/qhYnxn06CT6FbqW1SYhKkmE3Ys4AjnIKEawsfua6u0nhh3mckjLL0RRpKRt1LiFZEHwr4zZKMKyJBud2kogj/NR5Let52v7VwwWBcD+ZsngEocLLbQpEvzPFAydXHZarusXRJfPxjeKV3C5wMm1qBzg5fX81zFAdVV69hQsZ9fXvlvBzQZHAP+fF6U9ZJaUkh0bNzFc5UwwoK5d0vHBgf+5/+/SFan5VHiiBsoGSlYjf+HvtDs/PqGsWuy2uBcKm8gJqJSKgVkGdZ6/aPb+nfmyS/cP0ALQPDdvl8krKKpB49JW5zVqHeEgqkKhbDGyEGPA==;YBCOoyT+QMfnV8je5p+5rg=="

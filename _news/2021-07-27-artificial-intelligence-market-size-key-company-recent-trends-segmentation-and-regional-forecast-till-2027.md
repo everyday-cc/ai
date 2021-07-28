@@ -69,6 +69,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 46
+  - title: "Global Speech & Voice Recognition Systems Market 2021 Business Outlook with COVID-19 Scenario to 2026"
+    excerpt: "The global research report titled Global Speech & Voice Recognition Systems Market 2021 by Company, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz is prepared with a nice combination of industry insight,"
+    publishedDateTime: 2021-07-26T03:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-systems-market-2021-business-outlook-with-covid-19-scenario-to-2026-2021-07-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "e8yQQW1rhp9nUMwUbM2hX1RIYGDoxIQm5Oasa+xxIYgUIF0vGzJ5he31aAxdZcJUt5oQvBQycRVCD9J8m5ose/7dGqeskeCQl6NcJbnBGa82cBhbdSCP2MSUzNQyECLJmH9RJqHEyFzU+uZvwU+0WDbsyPxuRbQP5jR781Srltx6L6fQodTmA/WBhZ3qwvoW5/FOhgqzfaXW0Vu9otfpJh4ahSvVD8VvzwWkRGl3SU63E15SsvBipkUaI43HUp5n2gxY7Ob9vzgv6u414axkPAo8jKisLXBTXcRRE2+zKeipVyDOrB6cXlihl7gAycBSwFTvabrHKkra+5BosSi7hswKMDIg4eDXh5JCl6lmv1w=;/NeVYEGHsyNnJNhd+CLVsw=="
 ---

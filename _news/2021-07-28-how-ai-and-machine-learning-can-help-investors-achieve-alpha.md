@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-28T04:30:00Z
 originalUrl: "https://www.tradersmagazine.com/am/how-ai-and-machine-learning-can-help-investors-achieve-alpha/"
 webUrl: "https://www.tradersmagazine.com/am/how-ai-and-machine-learning-can-help-investors-achieve-alpha/"
 type: article
-quality: 54
-heat: 64
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.tradersmagazine.com/wp-content/uploads/2021/07/HBR-Analytic-Services-chart-556x1024.png"

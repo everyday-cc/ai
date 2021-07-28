@@ -1,33 +1,23 @@
 ---
 category: news
 title: "GM’s self-driving skills take a wrong turn"
-excerpt: "General Motors’ (GM.N) latest journey in autonomous driving has taken it to the courthouse. Late on Friday, the $80 billion carmaker filed a suit accusing Ford Motor (F.N) of trademark infringement after the latter renamed its new driver-assist technology BlueCruise."
-publishedDateTime: 2021-07-26T04:49:00Z
-originalUrl: "https://www.reuters.com/breakingviews/gms-self-driving-skills-take-wrong-turn-2021-07-26/"
-webUrl: "https://www.reuters.com/breakingviews/gms-self-driving-skills-take-wrong-turn-2021-07-26/"
+excerpt: "GM has a similar system, in operation since 2017, dubbed Super Cruise, while its $30 billion self-driving division is called GM Cruise. The word has, of course, formed part of a generic industry term synonymous for decades with the beginnings of autonomous driving - “cruise control”."
+publishedDateTime: 2021-07-26T05:57:00Z
+originalUrl: "https://www.nasdaq.com/articles/gms-self-driving-skills-take-a-wrong-turn-2021-07-26"
+webUrl: "https://www.nasdaq.com/articles/gms-self-driving-skills-take-a-wrong-turn-2021-07-26"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.reuters.com/resizer/9-MpALxsvP1nc9bOL6oy7Zunpzs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7J5WGYMFKBJ2TADPBKOO4FKOWM.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "FTsuWL2tgB+9xiZttOBI48HWJvJDJLEUxR7/BtzApwPTSm6nQFTUanuvYV1k3C5ZOLeYgnzP/+Nxkh5S0aOtHXBYXbsvwje0i+XpZRa/eN4OQlMMjiX15t4fGB7snXAykjzgDU9jJB1VtD6EEDfWGwq+6rhjNdlwXraXHWILwjvsS185+YzwhKQ2RuqyDQ+3CF67hlEg8/EKrMf8Iy5io4I2fMOEdba2ng4R9EuusfeibbduSf3fXRbxeDnruLq4AJS7iN3AALuv7Eq4kFPyV3kMO+ZswwEnaluEERHEVyopqVEIVRe3Z+AV5nSvEDnl+wggFt4R2Wj+wkb3kAsTZr+Si+rojZ697+XejAYAwyZgoDzx4YYbK/CWBWzb9gEjXzYz5gwHM/W+/03loBLYMEGx7vrigCpbd47YqZltobVUiKT29c5OEqiA9JK7zmNe3cqypU6eUopJaMk6LQJ21rzROvxmTbbhE8DEIsGyNPlcPPbfFjJhSowfQ49+cOIj+lL4nOwTyuKiyHv4psxJ3w==;lZz2NOH843YXoWhAiNJObA=="
+secured: "D1gWAjLLv6A9r8CkYDg+kgs3I1wtmbiHFiPeuZu65tGUmS/dIv7Z6xv8I4NH2Gnq+HInx2m+MBUw8ujCb/kC32pJAnuO3mX686Cl+HFld2I3l/tupgHe4BC6D1IpTlTPLCdsKSf3TJVlUgVd/ZUgU4LWFs/BhoqwI1JKMNRgvbNmFHNMUam+BjSSr68G4uTqedbgfseLBKmHnX3D+5ZmMw5Gpbnsimo1dBOqtygitbhco/aCeLI/kucvyDPqtt64Xefo6C80zO/G95r1L+D+b9drSG8i+/JjbZpY5p50aDfBI3Jni3B0tzHiO0XbeubZIc+vjavuxdSAbKR4PChjY9gxjufREZcSzWfcTtRnfy0=;XRS3jcCvhQvJRZGduJNw/g=="
 ---
 

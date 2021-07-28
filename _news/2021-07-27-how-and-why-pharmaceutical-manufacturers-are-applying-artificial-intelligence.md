@@ -33,7 +33,7 @@ related:
     provider:
       name: Traders Magazine
       domain: tradersmagazine.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.tradersmagazine.com/wp-content/uploads/2021/07/HBR-Analytic-Services-chart-556x1024.png"
         width: 556

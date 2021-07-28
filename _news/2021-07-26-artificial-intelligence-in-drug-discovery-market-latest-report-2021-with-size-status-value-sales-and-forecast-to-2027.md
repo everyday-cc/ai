@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-latest-report-2021-with-size-status-value-sales-and-forecast-to-2027-2021-07-26"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Chip Market 2021 Size, Growth Analysis Report, Forecast to 2027"
+    excerpt: "The Global Deep Learning Chip Market size is expected to reach 24 5 billion by 2027 rising at a market growth of 37 CAGR during the forecast period 2021 2027 Deep learning is a subset of machine learning a subset"
+    publishedDateTime: 2021-07-28T08:24:00Z
+    webUrl: "https://www.openpr.com/news/2339349/deep-learning-chip-market-2021-size-growth-analysis-report"
+    ampWebUrl: "https://www.openpr.com/amp/2339349/deep-learning-chip-market-2021-size-growth-analysis-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339349/deep-learning-chip-market-2021-size-growth-analysis-report"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
   - title: "Artificial Intelligence In Betting Market, Growth Analysis, Latest Trends and Forecast till 2027"
     excerpt: "Machine learning is one of the smartest techniques for categorization and forecasting that has demonstrated promising outcomes Because of the enormous amount of money involved in betting sports prediction is one of the fastest growing industries needing excellent forecast accuracy"
     publishedDateTime: 2021-07-26T16:14:00Z

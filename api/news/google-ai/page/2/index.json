@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-27-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases.md",
+      "title": "DeepMind to use AI to tackle deadly parasitic diseases",
+      "excerpt": "DeepMind to work with Drugs for Neglected Diseases Initiative (DNDI) to treat deadly parasitic diseases The London based lab, DeepMind, is set to work with the Drugs for Neglected Diseases Initiative (DNDI) to tackle the deadliest parasitic diseases,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases",
+      "originalUrl": "https://www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases?amp",
+      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases?amp",
+      "publishedDateTime": "2021-06-27T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GDPR fines",
+        "domain": "itp.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-deepmind-agi-paper-adds-urgency-to-ethical-ai.md",
       "title": "DeepMind AGI paper adds urgency to ethical AI",
       "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
