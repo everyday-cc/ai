@@ -24,22 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use AI to predict risk of developing type 2 diabetes"
-    excerpt: "Artificial intelligence could be used to predict who is at risk of developing type 2 diabetes—information that could be used to improve the lives of millions of Canadians."
-    publishedDateTime: 2021-07-23T12:01:00Z
-    webUrl: "https://medicalxpress.com/news/2021-07-ai-diabetes.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-07-ai-diabetes.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-ai-diabetes.amp"
+  - title: "US firefighters turn to AI to battle the blazes"
+    excerpt: "As wildfires continue to burn across the Western United States, firefighters are using data analytics to aid in fighting the flames. Statistical models predict how fires spread, which helps make sure firefighters are deployed to where they are most needed."
+    publishedDateTime: 2021-07-23T15:36:00Z
+    webUrl: "https://www.csmonitor.com/Environment/2021/0723/US-firefighters-turn-to-AI-to-battle-the-blazes"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/Environment/2021/0723/US-firefighters-turn-to-AI-to-battle-the-blazes"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/Environment/2021/0723/US-firefighters-turn-to-AI-to-battle-the-blazes"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/researchers-use-ai-to-2.jpg"
-        width: 810
-        height: 475
-        isCached: true
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 37
 
 secured: "4eJlRjfRxmoxgZR6rkOxsTlrD1vMvaIFTuffiL/eMxGYvzdXm4CIbUM4kOMZLsJthjVt+r7JJScMrmnf1buUPevWUB63+ndCp2EeSUDVkTKL+Twp6VBzfRQH7o5UNjvSWGLUe0ze9kta2HVQywopfnstvqyQDghJmnwaUFa9dY4vCjw+yRmj8SXkF7LyzqFmUi1GN79rNrOtlCrHvcco2O+Em6x+25otat2/d/Hx5/jQSjMAPeLXblHDTr9+J5iQx6yQ3RQMS/hOdngK4piYqPkEo9Kc96ks200DNS5A12JzXlVoJcJ1mtTWdV2cQ77xaDSnj5fWuOQjaCqE/SGIRPO8zxelmP6g1QvowsNC1jo=;8QJ8qcU4gv8NVROLkFc0rA=="
 ---

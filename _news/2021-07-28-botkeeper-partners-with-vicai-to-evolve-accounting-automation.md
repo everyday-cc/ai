@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nintex launches AI-based capabilities and integrations within Nintex Workflow Cloud"
+    excerpt: "Nintex, the global standard for process management and automation, today announced the latest enhancements to its next generation Nintex Workflow Cloud, designed for ops, IT, process professionals and power users to improve the way people work by making it faster and easier to manage,"
+    publishedDateTime: 2021-07-28T04:43:00Z
+    webUrl: "https://itwire.com/cloud/nintex-launches-ai-based-capabilities-and-integrations-within-nintex-workflow-cloud.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 33
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/d5c046f2bd8e5857967d24b3bf3cbb2e_M.jpg"
+        width: 375
+        height: 375
+        isCached: true
 
 secured: "zkFN3lSo1YY248HsPqDJW9TVRALQQpz7Jb2qMqDQX0oSTYpItskwHpRYCngWmm4bflCH7EaEiU1rqIT/8N62ZIKTqMted2uhiJWe8k5zf3owzAz3jixveT3d0kJ77sj/uZCV6+nM8g0sIAxUI2byD4UudtVZ1BKhS3+WvLxRg1wFCoUKg4KjGlD5crtYSXeDqbHOtV3zJy7vfeWWAWtR7qFDKALh9QrB/HMiox+qFZWZTpsRCG55ILtE1jhHhapx2hcajnFzx+W6+TEnfleTUahentC8N7j3mGjnkYEUIDO5GUREiwTZDEh86d1jWNdOdLkeyz+YJ4ZoeBcN9suAWRf9ppn16Eefdsswg4nr1Wo=;je1UHgPCyF+k+ZBo9bwkjA=="
 ---

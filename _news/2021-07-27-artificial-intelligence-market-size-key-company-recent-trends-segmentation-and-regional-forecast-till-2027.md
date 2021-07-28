@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Indian AI-based fitness gamification startup raises $873k in seed funding"
+    excerpt: "Insane AI uses computer vision, AI, and augmented reality to let users use their body as a game controller and convert workouts into a multiplayer game."
+    publishedDateTime: 2021-07-28T04:56:00Z
+    webUrl: "https://www.techinasia.com/indian-aibased-fitness-gamification-startup-insane-ai-raises-873k-seed-funding"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 46
 
 secured: "e8yQQW1rhp9nUMwUbM2hX1RIYGDoxIQm5Oasa+xxIYgUIF0vGzJ5he31aAxdZcJUt5oQvBQycRVCD9J8m5ose/7dGqeskeCQl6NcJbnBGa82cBhbdSCP2MSUzNQyECLJmH9RJqHEyFzU+uZvwU+0WDbsyPxuRbQP5jR781Srltx6L6fQodTmA/WBhZ3qwvoW5/FOhgqzfaXW0Vu9otfpJh4ahSvVD8VvzwWkRGl3SU63E15SsvBipkUaI43HUp5n2gxY7Ob9vzgv6u414axkPAo8jKisLXBTXcRRE2+zKeipVyDOrB6cXlihl7gAycBSwFTvabrHKkra+5BosSi7hswKMDIg4eDXh5JCl6lmv1w=;/NeVYEGHsyNnJNhd+CLVsw=="
 ---

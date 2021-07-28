@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/3626931/abu-dhabi-terminals-boosts-autom
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3626931/abu-dhabi-terminals-boosts-automation-with-ai-based-container-tracking.amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CIO
@@ -41,7 +41,21 @@ related:
         width: 400
         height: 273
         isCached: true
+  - title: "Nintex launches AI-based capabilities and integrations within Nintex Workflow Cloud"
+    excerpt: "Nintex, the global standard for process management and automation, today announced the latest enhancements to its next generation Nintex Workflow Cloud, designed for ops, IT, process professionals and power users to improve the way people work by making it faster and easier to manage,"
+    publishedDateTime: 2021-07-28T04:43:00Z
+    webUrl: "https://itwire.com/cloud/nintex-launches-ai-based-capabilities-and-integrations-within-nintex-workflow-cloud.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 33
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/d5c046f2bd8e5857967d24b3bf3cbb2e_M.jpg"
+        width: 375
+        height: 375
+        isCached: true
 
-secured: "Z4JG8qI+XPxHwlKvOZLqi13Jt5V5dmTyGiTU+swGZlNTjkfa/FnUBM7IBnYLy06VNI1uLYZFMmJqUhrQzuiYda9qjAIUYcvorv10ySD/RJDAHUvkhTM0YWFW3cS7o1WBR3wN0Lf2E3HS/jcMmeqcH8kDkV7As4eDvmv4FCRHO/AHGQUX6YPUrf1KA8f+MO4j0BrgsDHwnoNxHgCe1pQgoS8L8R7hxfHa2RQPpx8Z0naYgWUsF2WGWE1RPVmJGuahzNCzHNu8NoQn/YmnbBZpvw6zaUGL3vyUkWNnQioxqEJWfcD6MFIpBDpMfq44Hw6CgG8X09k4jmdYVOWSrMzHYYh65226J0SLYVOA6CBaG1s=;yMlbOjDe7AKrY+DKQXyIHA=="
+secured: "fy7d8BK4W/1+7OOCdpuQifmT+Y61T9ufF/tFft1sPtB6T+XOUDvm3s70ud9z9NEN13V6yfNtnpiULLnVGH9rYsytoH9iJ8srygb08FQcdayVi3MUeg3me33SKbl/d5xfXhbjzVusQTkq3iv42Iz1PFtoE9HZ/JvZ1uAUTTjrn4kUqQgEGvMMjvjmMB/D9xZ/+G7GkhPFhjcfJ/aRqxVfOEhlBQtif/OrO6scRnyIH5qswnJdeWy6LxSwlmOgZqHvhXoKfqj+CqRrfIMcTMWCiKnFqOlUtGT+izaAzKkupq3lwgoE0n9APplCJXQOjmxDjQKRWv26YpkSPxmHS0uJdihdP980RYSZt4kslsq4Jg0MUkpIeKahgKJX3Mqo5vw2iQiUkf4Ln8ivXEKBr5FrOkCDNHhNLUHUHNZFxYNd/mb+JQ9kM8OVLUaIjKGChC9J+H1AeErcbkQruOR73wN/rLLWGyJNdAVVno9eSp1VyUX7sMCWEFsJX8Rn35Oyk//zG/47Z3z7O3KRkK/AqWIfVA==;n525O3qPnWRkBLVWo9dOJg=="
 ---
 

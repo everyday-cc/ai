@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Apple Could Be Looking To Use Face ID on All Products"
+    excerpt: "Gurman notes that the only reason why Apple hasn’t already rolled out Face ID for all of its products is a pricing issue and design limitations. But a “camera embedded in the screen would help differentiate Apple’s pricier devices by eliminating the notch at the top” could be how Apple pushes Face ID to all of its products."
+    publishedDateTime: 2021-07-28T04:28:00Z
+    webUrl: "https://hypebeast.com/2021/7/apple-use-face-id-all-products-rumor-next-few-years-info"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 24
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2Fapple-use-face-id-all-products-rumor-next-few-years-info-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
   - title: "Real-time text search technique wins patent for face images lacking tags"
     excerpt: "Among the proposed applications for the technique, according to the company, are useful face search engines and programmatic advertising."
     publishedDateTime: 2021-07-26T16:39:00Z

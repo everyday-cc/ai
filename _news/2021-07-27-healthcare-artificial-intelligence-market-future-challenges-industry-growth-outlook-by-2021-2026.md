@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-challenges-industry-growth-outlook-by-2021-2026-2021-07-27"
 type: article
 quality: 70
-heat: 120
+heat: 100
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide Disinfection Robots Industry to 2026 - Role of AI & Robotics in Transforming Healthcare is Driving the Market"
-    excerpt: "especially during COVID-19 to provide cleaning robots. Players face more competitive challenges due to the rising entry of many start-ups which is likely to utilize technological advancements. For instance, the Xenex LightStrike pulsed xenon UV ..."
-    publishedDateTime: 2021-07-23T11:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19916974.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 62
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
     excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at"
     publishedDateTime: 2021-07-26T10:02:00Z
@@ -56,20 +42,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1580654/Frost__Sullivan_Radiology_Medical_Imaging_Informatics_Cloud_Healthcare.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market Industry Challenges Business Overview and Forecast Research Study by 2026"
-    excerpt: "Selbyville, Delaware Artificial Intelligence (AI) in Automotive Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which has been looked upon is done considering both,"
-    publishedDateTime: 2021-07-23T12:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-industry-challenges-business-overview-and-forecast-research-study-by-2026-2021-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Military Artificial Intelligence Market Outlook 2021: Big Things are Happening"
     excerpt: "The latest research on Global Military Artificial Intelligence AI Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 590
         height: 393
         isCached: true
-  - title: "Wipro Recognized as 2021 Microsoft Modernizing Applications Partner of the Year"
-    excerpt: "Continued leadership in driving business transformation earns Wipro this prestigious distinction for the second consecutive year. NEW YORK& BANGALORE, India---- Wipro Limited, a leading global information technology,"
-    publishedDateTime: 2021-07-23T12:54:00Z
-    webUrl: "https://www.nasdaq.com/press-release/wipro-recognized-as-2021-microsoft-modernizing-applications-partner-of-the-year-2021"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 45
 
 secured: "IlHDAGmN/TAefOLjGa/ozYhHyX2SCQK7F5LTU69yOk/uU9vzWhSfayVLrkbRIS69imkDwtvLc3J2/nB/Bg8+zhYU1o9YRKsCxVXtVdySv01sQ3aaL/Mfcuax9oK3ILZomiKFNwAwxYJucTor3Iz8bex8YkyFQu2kRuKVgf+iimrGr6PvlpykwRIDLdFJMt4ydAEMbezOmFFR8mFccqVDIJOdlKO4bx6dsNlSkaIQkKTRd+xT8YseNv5uV7eXszEEJrmcghKlGf9e4ZKDEle08zeQNxz98fr6sHahDbnBi50k3hb3KnNLx1QjZF4A8qNQAnwDselER+9qUcgssODYD30ppK6oyKrelKUios92a8MPxxpquM0DhKkeoDBrCkJNmghE/gMu7X84B5qk3m4HhT3vMVPhN3ncgR5RSvNZzUhv35aPhzOOPMpkEFP7w0kJ9dVqFjGN1mFyBsxSEWgExnzffqPyiGYfuVC9njMSqeoxdQJ+HtmxhuV/4WoHf6jgEZZoGLC8A9LM80MYlQYlTA==;geTRX2gox+RWL8OnEMAbfg=="
 ---

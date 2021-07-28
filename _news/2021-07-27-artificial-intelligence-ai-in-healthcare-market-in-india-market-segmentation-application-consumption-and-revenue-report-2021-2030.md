@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-in-india-market-segmentation-application-consumption-and-revenue-report-2021-2030-2021-07-27"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Indian AI-based fitness gamification startup raises $873k in seed funding"
+    excerpt: "Insane AI uses computer vision, AI, and augmented reality to let users use their body as a game controller and convert workouts into a multiplayer game."
+    publishedDateTime: 2021-07-28T04:56:00Z
+    webUrl: "https://www.techinasia.com/indian-aibased-fitness-gamification-startup-insane-ai-raises-873k-seed-funding"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 46
 
 secured: "Lq3VfFXcC7Cbcf4RP3udN12FgcTLiU0W/R4+cWH+YwmQ1JkF8l3TFk0ELrjvQos+1hQU6bdNj+tT4pTyri2WDYc+ZTWTJiB3Xeo6Yl+ylZKqgwGeX2YO4Mu9jMk8Jg1BLfBVouBSooKBNjgwQ1cRo3Kw9ZfDYAG457RaCy6mh13hqYxpWqXnDGpTiNb43jtKM9QSVt1NO/vdLOo8vpQHRx8XqpxAs5SwnLInccokGDKAYHJofJxvqrHxan/3L93nDpmWu0wH/WfuV9jx/DzT1NhnvdypbaxudMq79jieI1V4xxn1zdri3RjTiUuFZxa/Rw66IUyf86cnfUlOfQWCU/SDtxaCsXXS8umysMQAr+o=;ldWnSNy47aVDsuR4NpxChw=="
 ---

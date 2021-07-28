@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "IBM upgrades Big Iron OS for better cloud, security and AI support"
+    excerpt: "IBM continues to fine-tune its mainframe​ to keep it attractive to enterprise users interested in keeping the Big Iron in cloud and AI development plans."
+    publishedDateTime: 2021-07-28T04:44:00Z
+    webUrl: "https://www.arnnet.com.au/article/690108/ibm-upgrades-big-iron-os-better-cloud-security-ai-support/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_204810889.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "LYbmYJMl2DE00wgYqP9wNoJo+6zDdS5E2De2wjGDv5MBh1RNkvp7hkLBFloRNo5fXLCJLk5VWB2OIqoPC7R2QEhfTa6ukp1+ksCEw4G08ro+ZZaqL82fVQyU17m/35N+BCnDexyN/X9179OMNrx5deBIR5Rcj9IFZGm/SQbK4gL93Ep64x1w44UucZRKY1dq8jxm77l0nbZA7LXqMDV1KAw2LW/qeoxbH5CehmL3d1PxDmMCWUA6dzxbAzAb0DjlIXxMxjmwNdglR6M1wSKBOQq423TxDWSYQ1C2yrtS6Zl43sdaHcoEfoKfHczhiw/zkyOQiWWrphwYmaI79p08g5C1WSFYQ4iRfbHH3lVjmicXAHB0a2VC18/M1KP+Ct+0lMml/YvAriARL1EqOBfcXeZxasr57B3Luf8JgXta5vSkpZMIrbZ4BckGlhK4Pgmufu8FoPzaOsPyzCou5wZrRNPFkzYR+gCJsplxrTxO+o2uP3mSvpXIKGU8ppuub1/BKDIeigC495sHhXixhev6KQ==;1tKn7eNekxhprxAIIt0++A=="
 ---

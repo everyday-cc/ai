@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/cops-are-running-amok-with-artificial-
 webUrl: "https://thenextweb.com/news/cops-are-running-amok-with-artificial-intelligence"
 type: article
 quality: 67
-heat: 88
+heat: 87
 published: true
 
 provider:

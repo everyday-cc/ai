@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-tran
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/"
 type: article
 quality: 74
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1187
     height: 788
     isCached: true
-
-related:
-  - title: "How Deep Learning AI Can Transform Challenger Brands Into Cutting-Edge Leaders"
-    excerpt: "By investing in AI technology, brands can up their long-term customer acquisition game and target the “unusual suspects.\""
-    publishedDateTime: 2021-07-23T13:00:00Z
-    webUrl: "https://www.adweek.com/performance-marketing/how-deep-learning-ai-can-transform-challenger-brands-into-cutting-edge-leaders/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 50
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2021/07/deep-ai-brands.jog_-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "aINH9xvSu16n7F+I0LFvyqb7vB9MvX56R9M/4W9IJ76rqrSq/02Eb6dOLzoES3ixIDjdUOx6RE+2CpF1IQK8jLabdiqV+PPtI7hkhWTUiQwEZYH2z8SHwJeh3xTCjcPwk0KzytWQbhB8LziOrYGgWnSGQCbh/O9lf5P696AZHYtW0PuyybkBbBovWSsPpHNiPwef0J1y17YcXFJLpX/qThGeGQp3RrJtfBOI7AZ8fT7QPg/m07vwRv1y0GkiSGywuzt2NzY6gLqE/WDswpzyfhBBUlmcWDzv+w+UcOECWg1GPYcqLoQUwNeQ+9RrU3xvKYQXDEy1lZtxiVdWKcKZJvznoNI9mP8sORNnVH8J5kM=;xFY0dN1q8XlVQMwdysPFJw=="
 ---

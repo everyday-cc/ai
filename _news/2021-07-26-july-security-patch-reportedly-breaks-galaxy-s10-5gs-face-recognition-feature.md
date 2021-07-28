@@ -42,6 +42,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Apple's iOS 15 to reportedly use facial recognition to validate ID card storage"
+    excerpt: "Code discovered in the latest iOS 15 beta reveals Apple is working on a security system for its upcoming digital ID card feature that relies on pictures of a user's face for identity verification."
+    publishedDateTime: 2021-07-28T04:02:00Z
+    webUrl: "https://appleinsider.com/articles/21/07/28/apples-ios-15-to-reportedly-use-facial-recognition-to-validate-id-card-storage"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 35
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/43447-84430-210727-IDCard-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Gh6m/Vt6oq+q+fx+OabvDETZrh2ND8okgnJQclhMfwGpm/duiq3OLtXNDG3YARB4cZXI2pK4vt34McYWrif0lF51od8xpKdyZqlNz+x0VVlkUIHAG0NfDOgIla2iqZIz7Numgan6LFTKGJxsFnby+trX7SgiJUi6SPLtpNPvex9c23/yxyZcLG132zvN/laiBm1Pp8N6AKzOP71YuZl0CcRt/xt4BiEkZPFkjCq62SYhi6DEPuoejSkoOVP8lc5gtKzLZFYyG3ymhhdMGswD0fE5DYN/c4AsBxEXKrMbeBIPuDkqhb5FsF3dSx3bBvO7JioVCmYE+3IFlN2ApdVmuSSf7Wn4x+j8WZadJqD3UeQ/C08tP73lgc/pqdOQWoPoJSlskhLok936/QWErQc4Er3z/o2cHkxhE7dG8Mo5xdod/UhaVgA/897aH7kticLa29xS3zGsuqUmTxdiLbuCvoXSc5BKMSNzK4Bv07aRndk3AEEcgvJ4C9DUaHIeD5+HFmcIisJFRqfjkoFO8bcFUQ==;Z8u2sP03F9ZCun0PLgVJyw=="
 ---

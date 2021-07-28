@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-28-abu-dhabi-terminals-boosts-automation-with-ai-based-container-tracking.md",
+      "title": "Abu Dhabi Terminals boosts automation with AI-based container tracking",
+      "excerpt": "Abu Dhabi Terminals has already invested heavily in automation, and is now further automating its port management capabilities by deploying AI for smart container tracking and autonomous shuttle capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3626931/abu-dhabi-terminals-boosts-automation-with-ai-based-container-tracking.html",
+      "originalUrl": "https://www.cio.com/article/3626931/abu-dhabi-terminals-boosts-automation-with-ai-based-container-tracking.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/07/abu-dhabi-terminals-100896923-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/3626931/abu-dhabi-terminals-boosts-automation-with-ai-based-container-tracking.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3626931/abu-dhabi-terminals-boosts-automation-with-ai-based-container-tracking.amp.html",
+      "publishedDateTime": "2021-07-27T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-ai-in-healthcare-market-is-booming-worldwide-with-google-ibm-microsoft-sentrian.md",
       "title": "AI in Healthcare Market Is Booming Worldwide with Google, IBM, Microsoft, Sentrian",
       "excerpt": "The Global AI in Healthcare Market has witnessed continuous growth in the past few years and may grow further during the forecast period 2021 2026 A Latest intelligence report published by AMA Research with title AI in Healthcare Market Outlook",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -158,7 +201,7 @@
       "originalUrl": "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -179,40 +222,6 @@
       "provider": {
         "name": "The Next Platform",
         "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-microsoft-msft-to-post-q4-earnings-azure-teams-in-focus.md",
-      "title": "Microsoft (MSFT) to Post Q4 Earnings: Azure & Teams in Focus",
-      "excerpt": "Microsoft MSFT is slated to report fourth-quarter fiscal 2021 results on Jul 27. The company has been focused on enhancing the capabilities of its cloud platform — Azure, which is expected to have boosted its adoption in the to-be-reported quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-to-post-q4-earnings%3A-azure-teams-in-focus-2021-07-26",
-      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-to-post-q4-earnings%3A-azure-teams-in-focus-2021-07-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

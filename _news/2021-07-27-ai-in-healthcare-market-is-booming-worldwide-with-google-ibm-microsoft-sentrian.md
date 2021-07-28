@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2338927/ai-in-healthcare-market-is-boomin
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm"
 type: article
 quality: 85
-heat: 185
+heat: 186
 published: true
 
 provider:

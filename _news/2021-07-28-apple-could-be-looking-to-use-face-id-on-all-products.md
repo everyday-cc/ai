@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Real-time text search technique wins patent for face images lacking tags"
-excerpt: "Among the proposed applications for the technique, according to the company, are useful face search engines and programmatic advertising."
-publishedDateTime: 2021-07-26T16:39:00Z
-originalUrl: "https://www.biometricupdate.com/202107/real-time-text-search-technique-wins-patent-for-face-images-lacking-tags"
-webUrl: "https://www.biometricupdate.com/202107/real-time-text-search-technique-wins-patent-for-face-images-lacking-tags"
+title: "Apple Could Be Looking To Use Face ID on All Products"
+excerpt: "Gurman notes that the only reason why Apple hasn’t already rolled out Face ID for all of its products is a pricing issue and design limitations. But a “camera embedded in the screen would help differentiate Apple’s pricier devices by eliminating the notch at the top” could be how Apple pushes Face ID to all of its products."
+publishedDateTime: 2021-07-28T04:28:00Z
+originalUrl: "https://hypebeast.com/2021/7/apple-use-face-id-all-products-rumor-next-few-years-info"
+webUrl: "https://hypebeast.com/2021/7/apple-use-face-id-all-products-rumor-next-few-years-info"
 type: article
-quality: 23
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: Hypebeast
+  domain: hypebeast.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-    width: 1050
-    height: 591
+  - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2Fapple-use-face-id-all-products-rumor-next-few-years-info-tw.jpg?w=960&cbr=1&q=90&fit=max"
+    width: 960
+    height: 480
     isCached: true
 
 related:
@@ -57,21 +57,21 @@ related:
         width: 708
         height: 627
         isCached: true
-  - title: "Apple Could Be Looking To Use Face ID on All Products"
-    excerpt: "Gurman notes that the only reason why Apple hasn’t already rolled out Face ID for all of its products is a pricing issue and design limitations. But a “camera embedded in the screen would help differentiate Apple’s pricier devices by eliminating the notch at the top” could be how Apple pushes Face ID to all of its products."
-    publishedDateTime: 2021-07-28T04:28:00Z
-    webUrl: "https://hypebeast.com/2021/7/apple-use-face-id-all-products-rumor-next-few-years-info"
+  - title: "Real-time text search technique wins patent for face images lacking tags"
+    excerpt: "Among the proposed applications for the technique, according to the company, are useful face search engines and programmatic advertising."
+    publishedDateTime: 2021-07-26T16:39:00Z
+    webUrl: "https://www.biometricupdate.com/202107/real-time-text-search-technique-wins-patent-for-face-images-lacking-tags"
     type: article
     provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 24
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
     images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F07%2Fapple-use-face-id-all-products-rumor-next-few-years-info-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
         isCached: true
 
-secured: "kdnkJ3cYpWRorwMLsHn2YX8+n6IC1nbZQgPq33eaKBF9V3JOXQ+0scNQ2tA7jVV8Q8zB+Mlc9zAwPJC2AbXDqF0+IYADfmKUHmc69GUU1ExSlqMPgs1aPWX/Nrtn27kROYCcp83xZTk2XaK6Cb2RfxO6EOEQs+JXOtUdLXJ9+ssUaRv0JxVz0Yf2MyQw/sKjpSOnl90tpQXvWKzGcUU89HmK6QqP88WH75j8e7SYz93w86wtCf38sxwCajBFsJLN/ypeLJBNe8F/O3HOBLvAEu/G0v+ilRiCo5fkodXUSFdAFopjAPfWrmUSNLXdO/yQNL8e2atTSne481UC68ZARBmD4Rn0JFFhyB7okbIWuv8=;72pXaArDTuvsvT3T6/QmtA=="
+secured: "2P1nol6IgrlCG7xdvpfM/ThjmvItEdkE74bPBoAJK1ckIsY5AmndLwYOyjRu+w/ljzXyeMbQEqBzQvRATjQiM2ik/fhYvh8V/y+2r4QHvZT25d9rKcYEKftJWROoeLUY4mqrj8xta3/ZbRMGyaNiixldI7xaEAA0PM7IB2TKtYQGCKVGNXobTOMSOxuqB2KMtTWa4dVyhKeBa36D3l/bK1DMOb2S+cezZx0icMKPVlQeMMBoREEaZHHX51P71N2wimK4pu/ViBNdilQDPGBkzuGwNEJBlRHUgS0YksFPP/zQoegvI46uWhY76bIGGkNPu6Kc4FKY8ThxA8kOItoqk/0tIS3xq1pf16Ic7ps4+Dc=;y+IMRhS1bi5eLPDnmE2p7A=="
 ---
 

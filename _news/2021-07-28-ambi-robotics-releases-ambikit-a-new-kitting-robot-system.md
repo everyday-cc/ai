@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/ambi-robotics-releases-ambikit-a-ne
 webUrl: "https://www.therobotreport.com/ambi-robotics-releases-ambikit-a-new-kitting-robot-system/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
