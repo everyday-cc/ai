@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Major Study From Stanford University and Youper Finds Artificial Intelligence Therapy Effective at Reducing Anxiety and Depression"
-excerpt: "In the largest clinical study of its kind to date, a team of scientists at Stanford University confirmed a new model of mental health"
-publishedDateTime: 2021-07-15T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html"
-webUrl: "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html"
+excerpt: "In the largest clinical study of its kind to date, a team of scientists at Stanford University confirmed a new model of mental health treatment that uses artificial intelligence therapy is significantly effective at reducing symptoms of depression and anxiety."
+publishedDateTime: 2021-07-15T13:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-major-study-from-stanford-university-youper-finds-artificial-/2021/07/15/9410138.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-major-study-from-stanford-university-youper-finds-artificial-/2021/07/15/9410138.htm"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "FnJTNO0IOw8DRufWgNpuhwWIUwS7gqX01/3MoyTYT0pDikDuHBS8xIGev3h3ESdBe0msCE0gcCW+lOJfZZAD3FvUEAEC8kEr+tgIVy4zCBQm+IDQjnXxuD3K7aVauWpa6bC6lPGB8GKJQlwemAc3AmoR40IcM3VVUP6gqqDuc/r/37Vj2kz10jFaO1mRgWghVI48IbOa2IOupuA0hPx/LZPmLqKGiuvDBEsl5nxwZTbgCzV4GdLk8/RhXbephDb5Rq+nB+o8FiWuaG+0eD1rDaNxxKvd4aqsaTJZJ1HKiW5qEQxV0gy6KlsTFmSUB87IicKvDpDaq3Y96loAOWOvuk8kH8/OFnTvMfz0B0CKrSM=;mIHZup4tNBu2zbsTLQ6/sA=="
+secured: "8y86IF97HqmO/R27rx7hQM0SHNCEUguTCLgyZMp7qe3k9cQ96NYMVg9RDy8Msbhvdqg8WqikfPF1IrfeVr3CAw2ARpmeE+2ElRcmW2fwmjQAaI8e8V60PsceMP49lWbH5DqOz/zgekw/F6vtn0LBAdg7Uh8MBJ2VkCPCqQuyejmwOsaByoODiEM8dYUk4oJJN6mBI4GeG1dKzrqVh+rbySknDOBezZwtCVd4sZjR8816LbuSAy50W1aF+rzbv5ad9c9cEeqKVs+oZYnMr5trQqAVXaOv+pD5kfFgd10JTBVBK+qLNhDRNG7fs4E5Lrl+XdXQ5VRVQfeImicXgAchVodpm2cFLfCA7XugeWuGHuc=;1qYiB3vql8oTGp8SC7YXVA=="
 ---
 

@@ -1,29 +1,24 @@
 ---
 category: news
 title: "Dalhousie University Robotics Team Becomes First Canadian Squad to Win 2021 National Robocup"
-excerpt: "CNW/ - The Dalhousie University robotics team, CYRUS, announces its victory against reigning world champions, Japan-based HELIOS2021, becoming the"
-publishedDateTime: 2021-07-28T13:00:00Z
-originalUrl: "https://www.newswire.ca/news-releases/dalhousie-university-robotics-team-becomes-first-canadian-squad-to-win-2021-national-robocup-893099554.html"
-webUrl: "https://www.newswire.ca/news-releases/dalhousie-university-robotics-team-becomes-first-canadian-squad-to-win-2021-national-robocup-893099554.html"
+excerpt: "A team of researchers from the Institute for Big Data Analytics at Dalhousie University has secured gold at the largest artificial intelligence"
+publishedDateTime: 2021-07-28T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/dalhousie-university-robotics-team-becomes-first-canadian-squad-to-win-2021-national-robocup-1030656921"
+webUrl: "https://markets.businessinsider.com/news/stocks/dalhousie-university-robotics-team-becomes-first-canadian-squad-to-win-2021-national-robocup-1030656921"
 type: article
-quality: 43
-heat: 43
-published: false
 
 provider:
-  name: Newswire
-  domain: newswire.ca
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1582607/CYRUS_Dalhousie_University_Robotics_Team_Becomes_First_Canadian.jpg?p=facebook"
-    width: 5157
-    height: 2700
-    isCached: true
-
-secured: "OGq01P/GQnRjYPiW3blx48UpwQqPvRR0YpJTd/AGCTnzrGcx9j6jBXVUVZBAENb+QD3FyeHlEWRER+aiMM9CvblxZCU1qeob0ClSUa2KFPoWRcIHxFa3UxkOKmkHlqQhTefHe0VDOnRS70dIoB8W4hg7z92jejfPBSnTvAd3/aajenQ1NQAfe4R4Yq+kR3y0fay9N26M6y/4S4cUX0FIhUYEHIbSZSKZbk73kCGkoKiZKaDYaii2LXm235NEFj1MSRhoIdJT5TXlHrhYCakUSwCS1/2qOs9BU7w6TkZ+1lqdF+vQ9QG6uy/g63gcvHRIsbc4asTlG3+QgY/3rFFzIp8jinymVJ4oC70SktMXipo=;pLAg5DYj+YG7kOYy+qozyw=="
+secured: "lp2GbkV9+daA+u3lfwBpnQfj4CkY8/Bz51e9TTYeHEsk2ar407AFX38jRuskAIGowUAE5zqDPpAbIhyuI1gzER0JqiPQLEKn03nJzhqUmoBXaD/wSoVeXD9oY2QzjH5CqCmND7fLrpFCrKp5DhMguHIYGs7nx5ozVILL7OnFTCatEmB4ZtLBj5Zh0yg7ZC8CTiAac15reI4gBwfrkcjLkHknJRMaFzJ/eXytLlQ3uRH25whMFu4+Cs5dhpZui5n44YXypAJeZsbdZ/7HNWpZNdOUXBaYWJ0FDoQ4G+3Plz7pY1LajzWGs8MZ/stY3s6nw/3MlVZtj3DLX8PvWq2ZytV8QU1oQjABpBYLhGdaK/RZoIsvA/Tz9MORwCFSySmlQEE2pZMXPsvRHeVgfG2MwoJFzp0hrlH37c4uVvjlm2x1lHp4d9LriytTyL+68dVLENs/MHzk4oI8jRxhYAsIPzswfKQJOo+m0b2NWC17cMmxVb/vGjr3coUi9xPhu3AnJ6VtAqh5fI6a5Lox+YSBVQ==;nVu5SC7DEnbQMokya6P7KA=="
 ---
 

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "ON Semiconductor Intelligent Sensing Technologies Enable 360° Vision in AutoX Gen5 Self-Driving Platform"
-excerpt: "ON Semiconductor's image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform."
-publishedDateTime: 2021-07-14T23:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210714005927/en/"
-webUrl: "https://www.businesswire.com/news/home/20210714005927/en/"
+excerpt: "Revealed at the World Artificial Intelligence Conference, the new Gen5 autonomous vehicle technology enables the first fully driverless RoboTaxi, designed to democratize autonomy and provide ..."
+publishedDateTime: 2021-07-14T23:06:00Z
+originalUrl: "https://tucson.com/business/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/article_905394e9-63c4-5ed0-98af-f06c42c229e4.html"
+webUrl: "https://tucson.com/business/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/article_905394e9-63c4-5ed0-98af-f06c42c229e4.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "C5YzoZnJlFwJUo9kHWvv2j+GBRNDNts57B3jyFngj7V/cLzdxN2dexhTYdFdHO/b79gePEol9s2fQdTpJJkVitS2SulX17S2zFQ3bHhbNEXjrFsYDuCU9gtd3eUq+3l3hvAxZsfNZz8eXF3nhA8ByHTTU+DMXmIqSePw/figU69XmDVC+7vKoPCvs3T4nTVSh+eITfJy6sIi9Pb1tuJR8HliOtI4W4sboyAcFoH5P/p7W65tcdk38k5QrDsqu4qgHi/71/ufb5Qn70FOzvfSxQKiUZX27YoMT5WW2RWXS4hYJ2W5t7DlzbgmbndwVg0Ab0Jv7vaOM5wIh57WWXvv3c9fd+6WiFyPwzvYAV/ueD8=;1p41v4H+5m1VGTK4AFHAoQ=="
+secured: "WXPRZRZSkhK8pFbQn8trVLHzAzQ0k2w7co0WSK66wsJNKKrVJUNE4jj5Lv19CToCorHVxHotiZH56ByBzvN45nlqUDMGkGez0k0nZpMs1/h+/Y/ZDzBBeXhbKWreCkjH9fIwg8urVPKndMo3Jjk7lXRRv4BtlGRDCQEbF+qBXE0irOx00l0QJcu4wYV2qrXQoEz2oCz2wkM1E0bWnSE/kBCDquKNaEOjvpty8DGHE2DxTO+PRDbMBVLA6k1oWBr9IJm664AzSNmXxfONeE9n/Qkt3cinLMEDeTkNgWyjXukOzgjQaLlz+wSRcJqpE8kfht8e6REWC6PfEQtJuLVGUeQhMJCFAkyBMjak9GQgogc=;b7D+ljkLNU9j3MTQdthHbw=="
 ---
 

@@ -2,15 +2,10 @@
 category: news
 title: "Australia's digital minister avoiding legislating AI ethics and will remain voluntary framework"
 excerpt: "Minister for Superannuation, Financial Services and the Digital Economy Jane Hume said she's reluctant for the country's AI ethics framework to be more than a voluntary program."
-publishedDateTime: 2021-07-28T01:18:00Z
-originalUrl: "https://www.zdnet.com/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/"
-webUrl: "https://www.zdnet.com/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/"
+publishedDateTime: 2021-07-28T08:15:00Z
+originalUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/"
+webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/"
 type: article
-quality: 72
-heat: 74
-published: true
 
 provider:
   name: ZDNet
@@ -24,6 +19,6 @@ topics:
   - AI
   - AI Ethics
 
-secured: "cXVkTFiUGFTy+p9LnmYgyAWS5bi5+Z46FD4Qcod9/qwM2JBcQOeavVGNAQKWnurqHuU3k5NPix0shiUzC1wcf2vlEzkmYFBxVCKsjnFwuIGCPsbLaxyW2Yl8JpOUxQIsluGnEWgHIv+0xtQFbfbF2xsivMS1mZEL1SwC0lKXt177FNv3EBXMqcFWIzKLHSk8W20h6yKS9flugeD6BVZVU/UtrwywMRltU1If9tHiMswsdefbYeWGbuPjvgTZo3VGlx1C5LPyN+AIbA+ZFcKVlMytLte/d5kWGwzeNzlN+eF/wXI5R89/h9Jdv58WJNwEdPlZmrD/kKAWMYtKSxvoZ2O65tfvXL/E048mIhF+FwIVkoCt5DZHoitJQWMEaKAahSs4HbNUFvKhALxpZRxQIVxCTlUJSaQkuiW4Ch7C60/8Pde2lN+jwl4JkYeWxdF8hnUGq+TRUHDnPxrOBdOygFLLG5gMkdXvllKMeSTJKGV/DltSPp96JRrN8HfBkxFXmkbX9Wt11lcDj/HAGOIniQ==;o8xXaVZfBmtTmtaUk3PMPQ=="
+secured: "z7zIzKiF86vfVUNMiBjcrwhtbE+Hdp8g/rD3ZLD2yjHKyIHfabHsDfNOT8d1dg3ZyZdjZc22/pW4ZxeCVI10Cq1pzJVCb4iPRmOdeFpDDe7b03JpxbjtvkZ+A3iUnW0uJA5OD/knvnqJpclNFNBb3xee9C3FmS9NbZayoVY8YZA7pWjI59LPjQABTUqsni95LPg2AQa0EuprpenT14dhY1vJSbR20nIkEAhsZktQjg29zrhCgWmxhHWJmzheTnQdJRgewKrPt+Y/mMUm1cF4YR0Tv/DWGzRgcVjinGlKFae4PhNswsLnpGR+2pbk1h9czifqrOoF1K3Oz2huYYzas/o6av/k8suQDhq9BSJGJhaDnELxQa5OOOBWuVKswFN4m48cHw6eaiqrNIamDsQ4MmRhhuJAbH5QI+pwupTytuMf9aOmlLwZlOcQ1w40nP54CqKzi0XbVgkyOly2c+DWlPisydtxVlHmA3i4HjqVpapNDKl6p4h31bCd7fBFKqGlmbaBvZfOxXiTj7aLaYZ2UQ==;Szuona0M+SifEd4dFvPo1Q=="
 ---
 
