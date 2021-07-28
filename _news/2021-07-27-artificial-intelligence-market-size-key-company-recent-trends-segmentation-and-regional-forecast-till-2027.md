@@ -30,58 +30,44 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market in India Market Segmentation, Application, Consumption and Revenue Report 2021-2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the Artificial Intelligence (AI) in Healthcare Market report"
-    publishedDateTime: 2021-07-27T05:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-in-india-market-segmentation-application-consumption-and-revenue-report-2021-2030-2021-07-27"
+  - title: "Deep Learning Market by Solutions & Services - Size, Share, Growth, Trends and Forecasts 2027"
+    excerpt: "Global Deep Learning Market Research Report- Forecast till 2027 The global deep learning market is growing at a rapid"
+    publishedDateTime: 2021-07-27T13:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-solutions-services---size-share-growth-trends-and-forecasts-2027-2021-07-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Digital Transformation In Healthcare Market Report Now Available with Deep Insight on Flat 2000 USD Discount"
-    excerpt: "Digital Transformation In Healthcare Market Perspective 2021 110 Pages Digital transformation in health care is the incorporation of digital technology into all aspects of the patient related health care sector health care providers and regulators It includes many technologies such"
-    publishedDateTime: 2021-07-28T06:11:00Z
-    webUrl: "https://www.openpr.com/news/2339188/digital-transformation-in-healthcare-market-report-now"
-    ampWebUrl: "https://www.openpr.com/amp/2339188/digital-transformation-in-healthcare-market-report-now"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339188/digital-transformation-in-healthcare-market-report-now"
+  - title: "Cognitive Media Market Trends, Revenue, Major Players, Share Analysis & Forecast Till 2026 | Top Key Players – Microsoft, Google, AWS, Adobe, etc"
+    excerpt: "The Global Cognitive Media Market is forecast to reach USD 3.31 Billion by 2026, according to a new report by Reports and Data. Cognitive media includes the usage of cognitive computing technologies for the media and entertainment enterprise."
+    publishedDateTime: 2021-07-27T14:17:00Z
+    webUrl: "https://www.globalbankingandfinance.com/cognitive-media-market-trends-revenue-major-players-share-analysis-forecast-till-2026-top-key-players-microsoft-google-aws-adobe-etc/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-media-market-trends-revenue-major-players-share-analysis-forecast-till-2026-top-key-players-microsoft-google-aws-adobe-etc/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-media-market-trends-revenue-major-players-share-analysis-forecast-till-2026-top-key-players-microsoft-google-aws-adobe-etc/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 19
+  - title: "Voice And Speech Recognition Software Market 2021: Can The Business Strategy Generate Sufficient Profits And Growth?"
+    excerpt: "Stratagem Market Insights has recently published a research report titled, “Global Voice And Speech Recognition Software Market Insights, Size, Share, Growth, Opportunities, Emerging Trends, Forecast to 2028”."
+    publishedDateTime: 2021-07-24T10:37:00Z
+    webUrl: "https://manometcurrent.com/voice-and-speech-recognition-software-market-2021-can-the-business-strategy-generate-sufficient-profits-and-growth/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 16
     images:
-      - url: "https://cdn.openpr.com/U/7/U728472472_g.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Indian AI-based fitness gamification startup raises $873k in seed funding"
-    excerpt: "Insane AI uses computer vision, AI, and augmented reality to let users use their body as a game controller and convert workouts into a multiplayer game."
-    publishedDateTime: 2021-07-28T04:56:00Z
-    webUrl: "https://www.techinasia.com/ola-enter-used-car-retailing-business/next"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 46
-  - title: "Global Speech & Voice Recognition Systems Market 2021 Business Outlook with COVID-19 Scenario to 2026"
-    excerpt: "The global research report titled Global Speech & Voice Recognition Systems Market 2021 by Company, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz is prepared with a nice combination of industry insight,"
-    publishedDateTime: 2021-07-26T03:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-systems-market-2021-business-outlook-with-covid-19-scenario-to-2026-2021-07-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://marketnewstoday667356072.files.wordpress.com/2021/07/fdscx.gif"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
 
 secured: "e8yQQW1rhp9nUMwUbM2hX1RIYGDoxIQm5Oasa+xxIYgUIF0vGzJ5he31aAxdZcJUt5oQvBQycRVCD9J8m5ose/7dGqeskeCQl6NcJbnBGa82cBhbdSCP2MSUzNQyECLJmH9RJqHEyFzU+uZvwU+0WDbsyPxuRbQP5jR781Srltx6L6fQodTmA/WBhZ3qwvoW5/FOhgqzfaXW0Vu9otfpJh4ahSvVD8VvzwWkRGl3SU63E15SsvBipkUaI43HUp5n2gxY7Ob9vzgv6u414axkPAo8jKisLXBTXcRRE2+zKeipVyDOrB6cXlihl7gAycBSwFTvabrHKkra+5BosSi7hswKMDIg4eDXh5JCl6lmv1w=;/NeVYEGHsyNnJNhd+CLVsw=="

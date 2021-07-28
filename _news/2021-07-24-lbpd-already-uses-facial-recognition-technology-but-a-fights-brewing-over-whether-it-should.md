@@ -7,7 +7,7 @@ originalUrl: "https://lbpost.com/news/facial-recognition-technology-long-beach-p
 webUrl: "https://lbpost.com/news/facial-recognition-technology-long-beach-police"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1800
     height: 1314
     isCached: true
-
-related:
-  - title: "USA: Facial recognition in use at major chains without customer knowledge"
-    excerpt: "From Macy’s to Ace Hardware, facial recognition is already everywhere”, 15 July 2021. Some of the US’s most popular stores — including Macy’s and Ace Hardware — are using facial recognition on their customers,"
-    publishedDateTime: 2021-07-23T21:39:00Z
-    webUrl: "https://www.business-humanrights.org/zh-hans/最新消息/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/"
-    type: article
-    provider:
-      name: 洗護用品和肥皂
-      domain: business-humanrights.org
-    quality: 33
 
 secured: "GFI56sNUmDBsNr6LYasoQQ/xR+e597bJQtWbeibSo4KHn4XzNKnEVuG0fcGrEjjZybZanm5LknTdDs6Ddjb3piyQqn2/yxPVpOKQqMbQxmVGYQE8ODXoO1UOrW3EnQ1Wyinta2GhlYrIyaJabOq7RKOpANDt0SqJTF1HHyOYnXIOkiT+DCZXRV1Ebxq6uIGtgXwawTB8fcAMWO3wQD+H3oSmEptgMpLlDnAZ8oTJyi7dkhRHGXHXXsvFHZXLJd0uvxtSQ9eUHObHynklpWVSkdYrYD3JH/KYV4nRibojB21He+lrPHKPXcGQx4f3xmQK1nnQRBY73XTjgJM5vkPX6W3SSSwJTMDnG36SxT3PV0I=;cU0k3fr03Qro51Bt9EqaaQ=="
 ---

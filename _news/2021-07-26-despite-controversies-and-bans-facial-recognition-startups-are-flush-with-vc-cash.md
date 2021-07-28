@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/"
 type: article
 quality: 183
-heat: 203
+heat: 213
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Oi Solucoes wins facial recognition contract in Bahia"
+    excerpt: "Brazilian company Oi Solucoes has won a contract to provide facial and number plate recognition services for the capital Salvador and 77 other cities in the state of Bahia, reports"
+    publishedDateTime: 2021-07-28T11:26:00Z
+    webUrl: "https://www.telecompaper.com/news/oi-solucoes-wins-facial-recognition-contract-in-bahia--1391753"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "M1e1QH92ToBvLS8K5d+LZEuz9QykHUb8uG/wp8zj4D04FL95lcd8HypJNxuy5Lp6UQChMrZCCFHPOvqujy5p+u8JrqLSdcUxfcMTzpH4xIvazznGsgyW0nIZ1sCzmc3RvN9cJU2XrMhwiuvYidNCWp8YuaPEMLXU1+xFsMlQRDGw7Rt40eZs3A3jHvgcTOzZFASejDabWkvflzrEhMCquvNakWyA9jlFbtQypYk4gY7SFtL1eTEQDiANOj0d9mRKI3pp0023QUEjwXOjouhN/FGtLzmgsauZB996GQiGgr0TDrUEuoIz6U1HNxKjH0ow26xxzK2EIr5HvCZ/A3xrJYXwU2AfhhCjTxwuYpe7ysWQkiBSWFSsoMBW+1RHzRXdwyO2CqPjeU+8vSg4S0Qn3Ors8NoyaCVFGji1KE1aBXwFSzSrzYyEoCou+SAyRgeDMemx4RQUJKxB3F/U6fJLdq5zFjQ27TSWrowJX1PSYRCJt8m8ZlCxC+yfRffs6eiOnt+POXhpFnfUSEjmB13PchmPEO7QLZmM8rPh06/x6WI=;1aJZIazEugRQcMKBTxiJUg=="
 ---

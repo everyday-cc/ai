@@ -25,33 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Canada’s Fintech industry paying off for business events"
-    excerpt: "There’s something about Canada that inspires images of size and grandeur; whether it’s the expanses of beautiful lakes, the vista of stunning mountain ranges, or the jaw-dropping emptiness of its national parks."
-    publishedDateTime: 2021-07-27T08:27:00Z
-    webUrl: "https://www.c-mw.net/canadas-fintech-industry-paying-off-for-business-events/"
+  - title: "Will A COVID-19 Vaccine Inoculate FinTech Startups Or Lead To Their Demise?"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-07-24T14:38:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise-2/"
     type: article
     provider:
-      name: CMW
-      domain: c-mw.net
-    quality: 24
-    images:
-      - url: "https://www.c-mw.net/wp-content/uploads/2021/07/RESEdmonton-Skyline.jpg"
-        width: 802
-        height: 537
-        isCached: true
-  - title: "Infobird Co., Ltd's (NASDAQ: IFBD) Successful Launch of Intelligent SaaS For A Leading Fintech Increases Presence In Financial Industry"
-    excerpt: "Infobird successfully launches Intelligent Quality Inspection SaaS for a leading fintech company Infobird's Intelligent Quality Inspection system will enhance the fintech company's management and customer service capabilities Infobird researched and analyzed the customer service business scenarios of its client,"
-    publishedDateTime: 2021-07-26T17:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/infobird-co-ltds-nasdaq-ifbd-successful-launch-of-intelligent-saas-for-a-leading-fintech-increases-presence-in-financial-industry-2021-07-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: fintechzoom
+      domain: fintechzoom.com
     quality: 22
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1627137499_0x0.jpg"
         width: 1200
-        height: 630
+        height: 800
+        isCached: true
+  - title: "PS5 Restock – PS5 Restock – Apple rumored to be working on a new external display with its own A13 chip | Fintech Zoom"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-07-26T04:57:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_ps5-restock/ps5-restock-ps5-restock-apple-rumored-to-be-working-on-a-new-external-display-with-its-own-a13-chip-fintech-zoom/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 17
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/yV9W9Gm6kNLUmpobpvp2ve.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "lhZB98lp6u84Rh00R6UtxSJt8JnVOfvozBg9DC+RhAaZ3qZVYchndJXQJpgr0ve78v2vk8UyohYvt90csSVLsfCnUoUpkjgbohihNzBGfU44AoXgU56NO2RNfQ61Ncm34t5pW8rUpMWcVdruQcdZr4Pcy7yGRw09qBGxRcXJZWQg2uvLUvI0opCjdzn7mFGQIZEMBo/GDnuyQHAWC99n0/lfMk3BYyB5AO+s1Yxuc+t2CdKPb13+SrSLwJ1jjjflXsEFueQhWmJs72iJQfXTHCZJw5YLm0fs6GYToVukytIjH5uUu4HK9u+Isjfn5g1SBswbCPQgEkF/v51pL9/XE/y2FD8XG+0ZdsVdJNE02Tg=;buRltfka88IllDR4hiLMdg=="

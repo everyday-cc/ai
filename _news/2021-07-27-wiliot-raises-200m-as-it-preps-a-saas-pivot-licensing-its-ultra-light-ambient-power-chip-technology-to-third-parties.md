@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/27/wiliot-raises-200m-as-it-preps-a-s
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/27/wiliot-raises-200m-as-it-preps-a-saas-pivot-licensing-its-ultra-light-ambient-power-chip-technology-to-third-parties/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 718
     isCached: true
+
+related:
+  - title: "SoftBank Leads $200M Investment Round In Fabless IoT Startup Wiliot"
+    excerpt: "Wiliot's vision is to expand IoT to include everyday products, adding intelligence to packaging, vials, and crates for better supply."
+    publishedDateTime: 2021-07-28T11:41:00Z
+    webUrl: "https://nocamels.com/2021/07/softbank-200m-round-fabless-iot-startup-wiliot/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 22
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/07/Wiliot_Pharma_Applications.jpg"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "VYPqQRVc3ckwx70YhtauvwRq3Qgddp1y7MTIc9qO/mddKtiLdmsBTSKJ0r/AA98zoDe7QBKq50k5pmZ9/KvAkLO2bmiFacnb5cnHasijyOcZSzumZAzO/BlTvexICnxT7bGXy8rJpL8AxkCbVXYYNP9mMt+uUdmmRL47yVV3PC5vwaqkbHTBmN1XBWboHrApVNFo8kbh9rQmCi5UTKlB15wnbJCZUh9mC8TLu5BZO96bP/Z6AqQRIhkkHWWJEvyTfEls3RieZ7FGNX1eVgW8n2bqV4e3Xc4+xVJa/7JG8C+XeX2Y8vZqunnpqkv9GgQTRZ/YfXqFHYS5QobD6itOBoVu/8nVAr8gSnfLmsjyZx9+7JEIaQYSlLHaa7hjCyBfvd3Aa03ZOsB5GSM/hBc+59er/6CCuQuIxh/N96SmZuGF9BWyAIlHU2MMggxSrO2uaPXAdUuIdZuDrkVtkJff/3pASkKhHcbt8G8tBiKU77iRl+/3FaHyiWX6hyGpTYRDPaI0Qhqpe79KQa/qHu24Ng==;47EoXXArtzwa6vxpvDI0hw=="
 ---

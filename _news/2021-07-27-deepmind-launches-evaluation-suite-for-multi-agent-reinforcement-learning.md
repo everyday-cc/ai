@@ -95,15 +95,6 @@ related:
         width: 840
         height: 473
         isCached: true
-  - title: "DeepMind Releases Accurate Picture of the Human Proteome"
-    excerpt: "\"We believe this represents the most significant contribution AI has made to advancing scientific knowledge to date,\" said DeepMind founder and CEO Demis Hassabis."
-    publishedDateTime: 2021-07-23T18:44:00Z
-    webUrl: "https://cacm.acm.org/news/254251-deepmind-releases-accurate-picture-of-the-human-proteome/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "MOcjh2ZWSsaDuwkfeqZYbiR42DrGNE59Mu+PKziafjiBe6aNDHb8m595DfnF+7mkGf/5oabvwf0hm1BLo17GYcA1DGRYWaoR1OZBJBXXsWjfmie9bo8+3Y8Y7ycWvabgsyWuG/D6kzniXj/IACfDC8mavDPEmslbNIxmpITFNEMZAlbTtwwswDJDvoF/AMRGCV2CxDhJrN+lwpm65mYgcp4ReDCD2godL1kIBjgA/h3TJDWpySY3+tdIIRkQYmpscpikRwrECcWf33+Rw+7iIe37ZXI28yDwqzIi+iogU8Ydj8ICkQdXkoqq+gZUYuUTHsAf+mPlGOVB4VQYyj+miy8Ff9bdlOIjF4A20S+8Bsr7dw43AKSxg5mY+cXY96Vu48Q/lmaiD+8PIY3mOASJiPL1o71a78HVX1NnkSqbzD56Q5PINNNNQOdA5dEXdTVLfg41loXEsHEwhtD+OQWDA3s4CPZalDOCFsrzXGeXMxSUxK2pq9jxMEWZ3gYpXZyIo7y7kl//VKDWX3wLKeN8Lw==;hmeBb+vyRxHkqjIfw0UWnw=="
 ---

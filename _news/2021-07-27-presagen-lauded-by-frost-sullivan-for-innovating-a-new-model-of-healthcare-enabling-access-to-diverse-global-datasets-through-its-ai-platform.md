@@ -28,17 +28,6 @@ images:
     height: 366
     isCached: true
 
-related:
-  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim Finds Frost & Sullivan"
-    excerpt: "Frost & Sullivan’s recent analysis, Global Medical Imaging & Informatics Outlook, 2021, finds that the market opportunity is estimated to hit $37.10 billion in 2021 from $33.90"
-    publishedDateTime: 2021-07-26T16:25:00Z
-    webUrl: "https://www.newswiretoday.com/news/175880/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
-
 secured: "Q4lSniQjBjSwpq2URnT2ADS3dgFY0QGP4rGVLz3LuqdVo+a7WOe8dgSHkOaFYqG0LIpzAqIPLzknvXT1uKX9wZ/i6vALkIqpTuh2Nv8G06zuoKJrJZbwSizujHodDvClz9h7tQszoX65WZUvljKndXtNzmEBUVdYlQ094+9II3HyPLa94c6T8i2XzdP2opaSfW8LgDTEbdjcUr9X9UxLn8SgN8/4OiCJYYLRvFLR1VlMW+p74/tGL7vIYz0uChkrI9RxytLPis1/ez3zzbtuyX7u9bI0SE81/o9prpkgUxgjkOQQbGUm8xdLdOkbl96YvQQcdxU55l6YweILHA3v4In1YZ8DPh6qIbtQg9cXf7o=;DdUs7XLp3Mr9oke0R4fcyA=="
 ---
 

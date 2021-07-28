@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Could Dramatically Speed Up Environmental Action"
+    excerpt: "The list of problems AI can solve is long, and the number of startups using AI to solve some of those problems is longer still. As with any new technology, there’s also a lot of hype. To cut through the noise,"
+    publishedDateTime: 2021-07-28T10:20:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/33463-ai-could-dramatically-speed-up-environmental-action"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 37
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2021/0728_OilPumping.jpg?height=635&t=1627452440&width=1200"
+        width: 847
+        height: 635
+        isCached: true
 
 secured: "ROnLOvfkdeeqh37HihuZkivy52JKs7RM5Y4YslkaEke+5m0nsWIklDuI5AWdwyZscremVnpSkG9iaeOPOiAwtDharuDh2+vWdmOWB65/hUvYan9SthNQTIIZjHZintGIgT44ZOE0f8esv5kckJG6g0z8q9AI9wc20QR1OkO1mvTKSERU7C/68CijTXK4B2hMjnwJ318xks5KPmeOkUJJz75DfE2ObcrgwwYo0iIhzogpGLs0itO0Zq0Oh+pQa4ZpX/QojBxF5weFezs4gT/l92MDZNiPl4BMkK8GhEZDb289iNWGb6kzvtB+YfJ+55g5lVqCgQw3ZW41M7YLHpAO8rNfYpvAJw/jory+vac9/uw=;3tnG2WExWiOsO2iJ5Ofe7A=="
 ---

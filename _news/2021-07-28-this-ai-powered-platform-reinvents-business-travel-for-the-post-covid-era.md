@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/ai-powered-platform-reinvents-business-trave
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ai-powered-platform-reinvents-business-travel-post-covid-era-3260814?amp=1"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1080
     height: 809
     isCached: true
-
-related:
-  - title: "These businesses reacted to covid with automation and AI, IT News, ET CIO"
-    excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
-    publishedDateTime: 2021-07-23T17:14:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/these-businesses-reacted-to-covid-with-automation-and-ai-it-news-et-cio/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 38
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/these-businesses-reacted-to-covid-with-automation-and-ai.jpg"
-        width: 800
-        height: 434
-        isCached: true
 
 secured: "+Em/un233P6XHc/9diSvEtpMrcB/1uuAoq/fqJ+OljHe0TN0UH93SygPVpy7pEhOy7zZD/T4vZu1d3hQ0QujRgOaJwO/J4mkwgDnlFl8xMBCqcpE0d31CUKFMbo7RS7DPebspwo/jBFnUuinPTashfhI2e8Q8FYS9HERei4PueAB4YcvuD4vUu4/dFH917BMutOBXw3GrEyEU+IzgOw0Fu476S7T6cgFylPWBnlOvcICNmaVkcnQqqwKLt/U9ih3WV7ShSc0B1GC2XhZgGtCyYG3j3lQODFFYWqoFfOSWpSIAS/9oo5FzhaEJ691TwGJgLOiUkSOJHrQ4w7mlB/Sz7JF/KYUxY/wsvMczDVSsBoUAb55qKPZv+xVQwzSU1gfP4vCDOzoH2QChbAIr+mjALj40SaxGFiQsQuG6eLQPS0xDX36O86aUMYvNh9ac0MRh/ZjbR790Yrgn8INddusEFlOnkjiU23Ol8z9XW3LUjUzeMmtLT47EUONj0NrYCRFRroO2+UImDXT+W1MvQ9jEg==;LNyXDgEIWWpuB8bHMymWPg=="
 ---

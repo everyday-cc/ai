@@ -27,6 +27,22 @@ images:
     height: 510
     isCached: true
 
+related:
+  - title: "French AI data training start-up Kili Technology raises $25m"
+    excerpt: "AI data training platform Kili Technology has raised $25m in Series A funding led by London-based VC firm Balderton Capital. Previous investors Serena Capital and Headline also participated in the round,"
+    publishedDateTime: 2021-07-28T10:23:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/kili-technology-french-ai-data-training"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/07/kilicofounders.jpeg"
+        width: 800
+        height: 600
+        isCached: true
+
 secured: "oenDPptL4MeYb3MLMXXqgmplFLoug9+wgrYMdjfMUFytEgFIoei+JBHPT9UhR63meR6nk1zuP+Jmjzmqw8UNzSt1hw81sYrEoWbxa7P0ufsOY3xgRYFgRsBdn1ORTGXN2ziylGxarvfSya7iL+w8RgpEeEeIgfqC+5Fi+FXolW27yUBNSK7yyOM1hehRAoAPwBypd5oxg+JCOzFbtrX4qjuqussLDW/l1KiU5foNEgbOsH+jqgW1ElqZSKB5wqyVGR4RbEou3Sk9bZ4O5QqXSckfXFkVojx0h3l3PqOXCwN9zfjaqTuzXPaWesX65GbYh/NLG/P2iBvTRFPHHd5zOhCKFZdYZABsWjmXWReoFtgs5oRw2oXI5UzhdLuHC6jd09mHrKo4rgL7w2LGCRQvgk6l26KqkYkPjQilNhluaCOkyzP0l4dJRqGO1p8Bud5usYDf+oyDvNUD2IO/MQr0P4yd3EnnlZ5zM2wj8M2YvIHSnA5Dh8S8787DCuxf3RhmFMeLtf5xxU7uP/cDsCifFQ==;/Mn43Dm9vn4+8BIYJnOfgA=="
 ---
 

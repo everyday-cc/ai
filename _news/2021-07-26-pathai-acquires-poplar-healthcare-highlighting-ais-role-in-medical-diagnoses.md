@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-popl
 cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
 type: article
 quality: 50
-heat: 100
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Boston Globe
@@ -21,66 +21,65 @@ topics:
   - AI
 
 related:
-  - title: "PathAI branches into clinical lab services with acquisition of Poplar Healthcare"
-    excerpt: "The pathway between testing for cancer and other diseases and reaching a diagnosis just got a lot shorter. With its recent acquisition of Poplar Healthcare Management, the management service organization for lab services provider Poplar Healthcare,"
-    publishedDateTime: 2021-07-26T15:30:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/pathai-branches-into-clinical-lab-services-acquisition-poplar-healthcare"
+  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
+    excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at"
+    publishedDateTime: 2021-07-26T10:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on-quadruple-aim-1030643646"
     type: article
     provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 49
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
     images:
-      - url: "https://qtxasset.com/fiercebiotech/1627313607/science-1336663_1280.jpg/science-1336663_1280.jpg?ObPQPMER8q_fv7rJTNkYtD0sKtPbEFuu"
-        width: 1280
-        height: 853
+      - url: "https://mma.prnewswire.com/media/1580654/Frost__Sullivan_Radiology_Medical_Imaging_Informatics_Cloud_Healthcare.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "PathAI enters into clinical diagnostics through acquisition of Poplar Healthcare Management"
-    excerpt: "PathAI, a global provider of artificial intelligence-powered technology for pathology, announced their acquisition of Poplar, the management service organization for Poplar"
-    publishedDateTime: 2021-07-26T12:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management/article_a50d7d05-2939-520e-bd7c-3beefc53f8d9.html"
+  - title: "Medical imaging AI market poised for strong growth"
+    excerpt: "The world market for medical imaging artificial intelligence (AI) applications is projected to reach almost $1.2 billion by 2025, with a compound annual growth rate of 26%, according to a new report from Signify Research."
+    publishedDateTime: 2021-07-28T07:32:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133055"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 44
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/24/124483c2-e86c-5c0e-9b65-99cd9472feff/60a3ad0055b0d.image.jpg?resize=1200%2C458"
-        width: 1200
-        height: 458
-        isCached: true
-  - title: "AI’s Role in Diverse Hiring"
-    excerpt: "Are our efforts towards diverse hiring successful? We’re not perfect; we're human. So what role can AI play in truly fostering diversity in recruitment?"
-    publishedDateTime: 2021-07-27T14:00:00Z
-    webUrl: "https://recruitingdaily.com/ais-role-in-diverse-hiring/"
-    type: article
-    provider:
-      name: Recruiting News and Views @ RecruitingDaily
-      domain: recruitingdaily.com
+      name: AuntMinnie
+      domain: auntminnie.com
     quality: 37
     images:
-      - url: "https://recruitingdaily.com/wp-content/uploads/sites/6/2021/07/AIs-Role-in-Diverse-Hiring.jpg"
-        width: 800
-        height: 510
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_27_23_07_2424_Parekh_Sanjay_20210727232720.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Boston-based PathAI acquires Memphis' Poplar Healthcare"
-    excerpt: "Memphis-based Poplar Healthcare is joining forces with Boston’s @Path_AI, a provider of artificial intelligence-powered technology for pathology services."
-    publishedDateTime: 2021-07-26T19:33:00Z
-    webUrl: "https://www.bizjournals.com/memphis/news/2021/07/26/boston-based-pathai-acquires-poplar-healthcare.html"
+  - title: "Global Artificial Intelligence In Healthcare Market 2021 Analytical Overview, Technological Innovations with Economic Indicators By 2028"
+    excerpt: "The primary sources employed while crafting Artificial Intelligence In Healthcare Marketing report include the industry experts from the industry comprising the management corporation processing organizations analytical service suppliers of the industry s value chain This market research report sheds light"
+    publishedDateTime: 2021-07-28T10:27:00Z
+    webUrl: "https://www.openpr.com/news/2339490/global-artificial-intelligence-in-healthcare-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2339490/global-artificial-intelligence-in-healthcare-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339490/global-artificial-intelligence-in-healthcare-market-2021"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
-  - title: "PathAI acquires Memphis' Poplar Healthcare"
-    excerpt: "Memphis-based Poplar Healthcare is joining forces with Boston’s PathAI, a provider of artificial intelligence-powered technology for pathology services."
-    publishedDateTime: 2021-07-26T20:18:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2021/07/26/boston-based-pathai-acquires-poplar-healthcare.html"
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
+  - title: "Global Artificial Intelligence In Medical Imaging Market Share, Manufacturers in Globe, Demands, Benefits, Opportunities to 2028"
+    excerpt: "Artificial Intelligence In Medical Imaging Market report pinpoints on the leading market competitors with explaining company profile depending on SWOT analysis to illustrate the competitive nature of the market internationally Even more the report consists of market evolution market shares"
+    publishedDateTime: 2021-07-28T10:10:00Z
+    webUrl: "https://www.openpr.com/news/2339491/global-artificial-intelligence-in-medical-imaging"
+    ampWebUrl: "https://www.openpr.com/amp/2339491/global-artificial-intelligence-in-medical-imaging"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339491/global-artificial-intelligence-in-medical-imaging"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
+  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim Finds Frost & Sullivan"
+    excerpt: "Frost & Sullivan’s recent analysis, Global Medical Imaging & Informatics Outlook, 2021, finds that the market opportunity is estimated to hit $37.10 billion in 2021 from $33.90"
+    publishedDateTime: 2021-07-26T16:25:00Z
+    webUrl: "https://www.newswiretoday.com/news/175880/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 0
 
 secured: "vX/dF7OBpzV2ArseiprPh+GU3UKF4V6I2sXXc6q9GMVYGdehmtK/Bwg12hxXD0cQfHiRuhP3QYuaRAVzaWlyujoSZe9ouznOiQt30ioRYZj2EiHQkQeIeT+EzBnk+6P6SgNbOzhz6zwb2CyokNhTl3nGhWwWVEP+cr76m1Jl2/CqjVtLjKfkxmMQcrVNLAkaItEjtDwtvLkSxiViHM5RllnnNc25pedN4MhpkBjatBAJc/X+YZTMctp8aChr0kekimjGQ2FgDjLlkt/jVFF2xUcEXdnkpIigaZARBbUs/vGPZhcI3+z4IpWwuP3f68hTpV+/lO2U6ULvo6wHUgA+Yiy1S1MbVuAVvxQpsiy9cg4is3OLXQSybkepsedABPlFmuVGIHmSWDqpgmU/aKxL0yDZbCLETiQpTHGQ4YYHlM1gEolA831Ca55mKHZAM6L0UNSOBWP/iCv6VudlJg/nru4Jkb0eSaZwXiWwqGbMLkTfLnUnjZQVqdAY58yz5E7yOxLu+3O5UCDcGYoRJ6JmwA==;g+IOHwa+lCCJc0hRVlWW8A=="
 ---

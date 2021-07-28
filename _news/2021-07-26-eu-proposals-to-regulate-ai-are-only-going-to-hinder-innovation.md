@@ -3,8 +3,8 @@ category: news
 title: "EU proposals to regulate AI are only going to hinder innovation"
 excerpt: "But EU proposals for regulating AI threaten the use of one of Duolingo’s niftiest innovations, the English Test, in its current form. They also make it less likely that the next round of similar innovations will be developed in the bloc."
 publishedDateTime: 2021-07-25T18:22:00Z
-originalUrl: "https://www.ft.com/content/a5970b6c-e731-45a7-b75b-721e90e32e1c"
-webUrl: "https://www.ft.com/content/a5970b6c-e731-45a7-b75b-721e90e32e1c"
+originalUrl: "https://www.ft.com/content/a5970b6c-e731-45a7-b75b-721e90e32e1c?shareType=nongift"
+webUrl: "https://www.ft.com/content/a5970b6c-e731-45a7-b75b-721e90e32e1c?shareType=nongift"
 ampWebUrl: "https://amp.ft.com/content/a5970b6c-e731-45a7-b75b-721e90e32e1c"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/a5970b6c-e731-45a7-b75b-721e90e32e1c"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 281
     isCached: true
 
-secured: "SuLmJvS6TL0Vkt8XVm+LwjaYg44cspr1Rxag4hrorkyea4uF9Yf+eZoHIW1F1LoioUyhzIGMApWgEWCiO2Qjx0NkvpR0C9ImHjTjuYbFPZlKzwyUG8wXgZTW1Bont2F0l4tUNUgo0YG65JTyuMv/JWaPdZPKzUSs19DhJSSQebNlp7Twm2wt1XopA0VAvi8rH/GJEm+o3PkXQDPovXdJhrP7hSIaKcc/8BFuBoYxRKoGKjomLqphTXKvxY3lf+lqbb1YGF08dA5K1khaQTbb9Fnkh/PFRsPFAPxV9fuje1ijrAtWSo464QgKgm18iWnJztaxL0B/EdGcduIhj4AwwMySec6KeZ9qyK596t+LEUslL8mhP8r32SCd/A4y4YRxBJEm+8JyQ4V+4oHLsCe4QU9KRjKqXl/ptuUFZo/tU4umtq9n5dAlxsVdn0pwziPtv9b6GOSYj6y3YhEPk+UZMeIvM0yiNUpf6VdIs3gJ/zgDRO3cZUnvMpBaP/8BKIGGJxV6oMCTCg3gIeJB6/dTGQ==;NyGdF7laOv6ocdcZ7LW5xg=="
+secured: "yCwlpImoCvdhtj2e0C/EaKD21haYZ4870+baHUMi/jVrEDeCZjb+SVJAMDIyAF9GBLp/QLEn/67bLG/wHqQQbWxQw/2O56hvHNcAYbYDZd+zqwxI2Ki+KWsmDWVkuAKzN6gQK/cIZogyrfgO5kIddz5gkiJ3ejls8swUKN5bXyQ+WduEdR5PPS20UNlcewEhNm04NxTTfpAGt054Wz56O70K/bjs4o3fp8WRZp28Aqos/PUqAmuldEEYGoR07fgJXHBKL5F7fMLtmvr275vtTBzx5fwRZdMK6U0Q/S0QYXfO6pFb7uWGm2vlG8FVQNpm1+c7aildFbZcM1WNsTnbdOXJKVGLQPdUWNKfhPMpZ+M=;CQrJvwyB/PKgEvFQUIn6xw=="
 ---
 

@@ -29,59 +29,38 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market in India Market Segmentation, Application, Consumption and Revenue Report 2021-2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the Artificial Intelligence (AI) in Healthcare Market report"
-    publishedDateTime: 2021-07-27T05:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-in-india-market-segmentation-application-consumption-and-revenue-report-2021-2030-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Digital Transformation In Healthcare Market Report Now Available with Deep Insight on Flat 2000 USD Discount"
-    excerpt: "Digital Transformation In Healthcare Market Perspective 2021 110 Pages Digital transformation in health care is the incorporation of digital technology into all aspects of the patient related health care sector health care providers and regulators It includes many technologies such"
-    publishedDateTime: 2021-07-28T06:11:00Z
-    webUrl: "https://www.openpr.com/news/2339188/digital-transformation-in-healthcare-market-report-now"
-    ampWebUrl: "https://www.openpr.com/amp/2339188/digital-transformation-in-healthcare-market-report-now"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339188/digital-transformation-in-healthcare-market-report-now"
+  - title: "Military Artificial Intelligence Market Outlook 2021: Big Things are Happening"
+    excerpt: "The latest research on Global Military Artificial Intelligence AI Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges"
+    publishedDateTime: 2021-07-27T14:37:00Z
+    webUrl: "https://www.openpr.com/news/2338746/military-artificial-intelligence-market-outlook-2021-big"
+    ampWebUrl: "https://www.openpr.com/amp/2338746/military-artificial-intelligence-market-outlook-2021-big"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338746/military-artificial-intelligence-market-outlook-2021-big"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
     quality: 55
     images:
-      - url: "https://cdn.openpr.com/U/7/U728472472_g.jpg"
-        width: 800
-        height: 600
+      - url: "https://cdn.openpr.com/U/7/U727367941_g.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Artificial Intelligence Market Size, Key Company, Recent Trends, Segmentation and Regional Forecast till 2027"
-    excerpt: "The Global Artificial Intelligence Market to Touch USD 25 Billion at a 48% CAGR by 2023 North America to Dominate the"
-    publishedDateTime: 2021-07-27T13:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-key-company-recent-trends-segmentation-and-regional-forecast-till-2027-2021-07-27"
+  - title: "Artificial Intelligence in Military Market Next Big Thing : Major Giants Boeing, BAE Systems, IBM"
+    excerpt: "The latest independent research document on Global Artificial Intelligence in Military examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Artificial Intelligence"
+    publishedDateTime: 2021-07-27T01:02:00Z
+    webUrl: "https://www.openpr.com/news/2337641/artificial-intelligence-in-military-market-next-big-thing"
+    ampWebUrl: "https://www.openpr.com/amp/2337641/artificial-intelligence-in-military-market-next-big-thing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337641/artificial-intelligence-in-military-market-next-big-thing"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/7/U727666550_g.jpg"
+        width: 400
+        height: 300
         isCached: true
-  - title: "Indian AI-based fitness gamification startup raises $873k in seed funding"
-    excerpt: "Insane AI uses computer vision, AI, and augmented reality to let users use their body as a game controller and convert workouts into a multiplayer game."
-    publishedDateTime: 2021-07-28T04:56:00Z
-    webUrl: "https://www.techinasia.com/ola-enter-used-car-retailing-business/next"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 46
 
 secured: "uGfqudlFkbUQ4QIi3HBWOV69PvKQ3bVEkM823UmP84KKXV9oYbbGld/bhC5yvC6a9kgffeiiCZS+YRxGK7tyI6J8pXA/TH2OWo9tQ2SfpqMS1LQTXB6KHxgExmuTEDkSEcN8TUxRgceX2pQ+aRIAuP2jRBzw/Hu8Y7dtZsw2FT4SnRYg70Dipj6COZL/0jZLSFmW4bkKzjfFITW14BSMKfy67wMluz+jZAhamh2n33VxzznCZ6lEnuiIwBmr1y13Fr4CqwMOOgevnsf1btzpTF2J6lU9a3BtJ8AfAcA4s3a2siqQBG9diyM3NiT+2kTTViHWvTCvxUWsZNBa5yY0Io57yI+UPPAWf2rJGzvzxIM=;bvQjzi7Kv4CNLL50qZybyQ=="
 ---

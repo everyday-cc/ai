@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-    excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ..."
-    publishedDateTime: 2021-07-23T18:48:00Z
-    webUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://www.reuters.com/resizer/RkqwUqV_pSTg-8Gt3pKHghTeZuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2DMPV6O5NJERDO3F7MHS7QIA4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google’s parent Alphabet to launch a new robotics and AI firm- Intrinsic"
     excerpt: "Intrinsic is a business of the future as it deals with advances in robotics and Artificial Intelligence. Alphabet’s Intrinsic is an attempt by Google to expand into future technology as it already is developing some advanced tech using complex machinery,"
     publishedDateTime: 2021-07-26T11:17:00Z
@@ -55,6 +41,48 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/07/intrinsic_green_purple_center.0.png"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Alphabet to launch robotics firm Intrinsic"
+    excerpt: "Alphabet Inc's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic"
+    publishedDateTime: 2021-07-24T14:00:00Z
+    webUrl: "https://www.postguam.com/business/technology/alphabet-to-launch-robotics-firm-intrinsic/article_7fcaa630-ec32-11eb-bcf4-2fed448fc017.html"
+    type: article
+    provider:
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 56
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/b/18/b1820ba0-ec32-11eb-8c4c-ef3221dca135/60fb8ed9820f4.image.png?resize=955%2C630"
+        width: 955
+        height: 630
+        isCached: true
+  - title: "Alphabet to launch robotics firm Intrinsic"
+    excerpt: "Alphabet's secretive research unit said it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
+    publishedDateTime: 2021-07-25T19:43:00Z
+    webUrl: "https://www.itnews.com.au/news/alphabet-to-launch-robotics-firm-intrinsic-567840"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 56
+    images:
+      - url: "https://i.nextmedia.com.au/News/CRN-690-alphabet-blocks-Google-iStock_000005540474_Medium.jpg"
+        width: 690
+        height: 428
+        isCached: true
+  - title: "Alphabet has set up a new robotics subsidiary, Intrinsic"
+    excerpt: "Tech giant, Alphabet, also known as Google's parent company, has launched its latest robotics venture after limited success in the sector."
+    publishedDateTime: 2021-07-26T11:40:00Z
+    webUrl: "https://www.siliconrepublic.com/companies/alphabet-google-x-intrinsic"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/07/AdobeStock_233382425.jpeg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "JC4uInjubIgu3QhfYSkIt71WF+yNAHmu4oaXf2I0naQfFWHcvKbEYxil0zvLSMLaf9TVhTPMwJQvP7Ome8LH3ThKF1jd2SH3WNISbyfLroOTe1/KJRbG3qmA8unv8oVqqTNQLUnYplWJGG/dyHOoiD36WGbQJD66pbZENoQLX5ZU0jvla2UHvyZJoKNtaJE8pehIY6Zkjt6ru++Pr5zb2qTPZc4VpSG62RDbsvg4/TGy4LUIicZupe07fgXs4eJfcYqZZznRWTtPr0QKtABnSh0AggziMiVVVx5Qb3Azk/2oc7VddRGQfK/yUKnClb2bVYAgdwzEwfr6RU/egYQMjuFJoa5dghOTiR6PWhwsR5XcotT5S9VSrP96x6qIQB7ku/wl3UPDC/ZD4JKOHoHaivBPhhAaWUUF0AjxfqERABsgPGhBR10V9TloJtTEcpyKXX40ejmWCnAiyoMhUOI1mKIkQ7sXRxdkqR+wHvzclcOF/a6wVOeTplL5ModDCd5pRt4Qa4Or+qX+4s78iIptcw==;D4bL4F9HMO+AH9TUfRWixg=="

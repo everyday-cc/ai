@@ -7,8 +7,8 @@ originalUrl: "https://mashable.com/article/tesla-full-self-driving-mode-subscrip
 webUrl: "https://mashable.com/article/tesla-full-self-driving-mode-subscription-warning"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 123
+published: true
 
 provider:
   name: Mashable
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Full Self-Driving explained: Its capabilities, cost and puzzling over-promise"
-    excerpt: "Perhaps the most overly optimistic technology in all of the auto industry is Tesla's Full Self-Driving package. No car for sale to the general public can do what that name says. Here's what it really does and how to get it on your Tesla."
-    publishedDateTime: 2021-07-23T17:06:00Z
-    webUrl: "https://www.cnet.com/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 98
-    images:
-      - url: "https://www.cnet.com/a/img/hTc2mT4Ktz7OJaDFafDjDPV8KhE=/2016/10/20/2d92b545-6e58-409b-b494-76c8511dfc32/tesla-self-driving-hardware-4.jpg"
-        width: 1590
-        height: 1200
-        isCached: true
   - title: "Elon Musk Sure Didn't Sound Certain About Full Self-Driving On Tesla's Earnings Call"
     excerpt: "We need to make full self-driving work in order for it to be a compelling value proposition. Tesla has been selling this service for years now, and Elon is saying that for it to be a “compelling value,"
     publishedDateTime: 2021-07-27T17:23:00Z
@@ -88,6 +72,22 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/M3OeNjerGN/sizes/yellow-moon_resize_md.jpg"
         width: 744
         height: 419
+        isCached: true
+  - title: "Tesla's Full Self-Driving Autopilot Feature Mistakes Moon For Yellow Traffic Light; WATCH"
+    excerpt: "Elon Musk-introduced cars are renowned for their advanced autopilot features that allow people to manoeuvre vehicles without being behind Tesla car's wheels."
+    publishedDateTime: 2021-07-25T17:24:00Z
+    webUrl: "https://www.republicworld.com/entertainment-news/whats-viral/teslas-full-self-driving-autopilot-feature-mistakes-moon-for-yellow-traffic-light-watch.html"
+    ampWebUrl: "https://www.republicworld.com/amp/entertainment-news/whats-viral/teslas-full-self-driving-autopilot-feature-mistakes-moon-for-yellow-traffic-light-watch.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/entertainment-news/whats-viral/teslas-full-self-driving-autopilot-feature-mistakes-moon-for-yellow-traffic-light-watch.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 50
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/p3icskzagaaoa6bv_1627229963.jpeg"
+        width: 768
+        height: 438
         isCached: true
 
 secured: "6NJiHYpjmXC9Iaqxnxed9WqeQpyIqHd7YcCFHu+Hjldd3ChlgRqZQ/UUYT6H+ot7AgqvVDGMAZlrhABbEYd3TuXj5X0zRsSrV47XUOevwPgXZn7dtqQ1jFwSgHH5t83LQJOtDtHuKxrn3hyhsHl3HUtN89WekRslIBAkhl1v3O7PhGYEnfw/ZuWadaXZOfzNV5UF13kK8Dokad1tcSHU5tR94Kuw+r1LrAFlUoTCD733HDPNsXIBZ8up0I1muqn0NIfcLWLLd9+LDvq5n5jfXlc0LPHmI65YzAZIqT9dAcKtrS+H3ig4OYkKN8/cAy5h3iqjq7C6n33+0087d2sdwP3uwbQLOykccKASVoL4fjfz/mowv+j2iU0+o7gXPpIg6w14C0MA3jijCC+wiI2OIuIyS7SXMMOPJY3opCPks4RD+tgai5vOlIt3/8CbiXELZhBcicPuv3+B2xX7MHHlBUL7lIudUJDx1U5z5ScmdXyPDEVoSSNBqhOZRBVEU1YtIquhIRytfmlJNb3M5MoE9g==;o08Zf9CUmWAtl/QPdxIJUg=="

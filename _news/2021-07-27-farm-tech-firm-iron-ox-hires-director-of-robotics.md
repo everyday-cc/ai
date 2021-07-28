@@ -34,7 +34,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://mma.prnewswire.com/media/1530162/IRON_OX_logo.jpg"
         width: 400

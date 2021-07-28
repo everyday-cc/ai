@@ -55,7 +55,16 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Oi Solucoes wins facial recognition contract in Bahia"
+    excerpt: "Brazilian company Oi Solucoes has won a contract to provide facial and number plate recognition services for the capital Salvador and 77 other cities in the state of Bahia, reports"
+    publishedDateTime: 2021-07-28T11:26:00Z
+    webUrl: "https://www.telecompaper.com/news/oi-solucoes-wins-facial-recognition-contract-in-bahia--1391753"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
-secured: "FpfzsGVtufqYFMQKvrQ2jntB2m18rSBlE/TTXunz5z42swgeFS9g3MGRlje2rw1uQ8YAx2gz62nCN36w246TJnKuMhxQ4Hn/bwhBLMkLaLNRWEYxQgsdnCDFUn8yuhAgBGyDk1PssRhevotSjuG6BNCfjPKRRBM2BoBlZ42lCWqa5oNgoMeY9AKRpD+fg/SxsOLsClYi5kvGdTCuetfLmVT3jN/liz8HD4qNctAffE5pLGD6mOFeMAPm1i3TBtSethtWPG3y4h1UVzDsZ2aBVxn7Y/jqe5jM6WFjTBZrycmzNheKzl3kLei5cqb6mxRCRbQ1V7u/uQV3o96a8o7nJAkUw8kdkT0x6m4lDs9c0SU=;aiu9Q5s8ZQbfmsEWtwXm0Q=="
+secured: "ZrcquWYMjom3YRDmAuiJl9t4v+xk3gD0JCFYgitiPyQqjV9bLH4R52jvCeZ1Hvf1P6RDGutXvscGonN+Ve6ipx1PH1MFZliEks9ixCDsI+TNeVyVHfyTSCQmEu1I2zgOnMVUv+jjR9LwxjpPH1lNNE+ZVE0PFfPhW4AAudS0uJdHves/+TA7UnrtLOhEhYsd2IzOapZj21b1PIqshDGLouroOSkenAL3YB/DYiuEClyIbAhz8fbJ6ANFyqWjLxrop+6MBKjOiIoQiTgghKpF3UTE4WjBhEsLnC493ID8VqBaavS9/J+o8IdKAWd8jAYqvQcrM+sbfUOx5jya8cDb6vFVJqi/BcgaHSRH3D9IP0trRfWABYXpeA/4fIYCPdeRIcl4DJO/qR1bdqxmfryDQvN9WztqC+NGZauSnx+PhOnAi+KHNWJ5NBHWXoILJqUOrIojhyt8Q1I7crY8To4ZdjtLokNCFs7ySNn8zbs/rktMtaH2/19XVv2iMVTZ5eQKe7tqnFcommoDpiTnh9sZEg==;Yo4kMezkeKBsE6anmiIsoQ=="
 ---
 

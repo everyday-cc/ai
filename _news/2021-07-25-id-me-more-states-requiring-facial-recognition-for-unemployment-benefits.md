@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wraltechwire.com/2021/07/25/id-me-more-states-requiring-
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/07/25/id-me-more-states-requiring-facial-recognition-for-unemployment-benefits/?amp=1"
 type: article
 quality: 58
-heat: -1
+heat: 68
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Want your unemployment benefits? You may have to submit to facial recognition first"
-    excerpt: "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he hasn't received a penny of the $6,490 he said he was eligible to receive and he's not sure when he will."
-    publishedDateTime: 2021-07-23T18:40:00Z
-    webUrl: "https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
-    type: article
-    provider:
-      name: com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html
-      domain: com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html
-    quality: 153
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200209224400-20200209-facial-recognition-gfx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Millions of Americans seeking unemployment benefits must submit to facial recognition software"
     excerpt: "Residents in 25 states have to register with ID.me's facial-recognition software to collect unemployment benefits, with more to come. But there are no federal laws governing biometrics."
     publishedDateTime: 2021-07-23T21:58:00Z
@@ -58,34 +42,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/07/23/22/45821447-0-image-a-2_1627076205152.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Here’s What You Need to Know About Recent Major Investments in Facial Recognition"
-    excerpt: "The biometrics industry has seen a huge amount of venture capital investment this year, particularly in the facial recognition arena."
-    publishedDateTime: 2021-07-26T20:06:00Z
-    webUrl: "https://mobileidworld.com/heres-what-you-need-know-about-recent-major-investments-facial-recognition-77202101/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 34
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/HiRes14-e1435871446756.jpg"
-        width: 708
-        height: 800
-        isCached: true
-  - title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
-    excerpt: "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he ha"
-    publishedDateTime: 2021-07-23T17:31:00Z
-    webUrl: "https://cbs58.com/news/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 31
-    images:
-      - url: "https://newscdn2.weigelbroadcasting.com/sLNI4-1627061814-202056-blog-hypatia-h_6ec8311a306d734cff37afecd9169c92-h_7a1db3a9aa71e5465eb58e7846f2ca95.jpg"
-        width: 2500
-        height: 1663
         isCached: true
 
 secured: "5n2aoGGZbPgwl4Mq9mWwX+/Wyg3Ct+OMNaORqRUx88Uvr28ZsLcUM7QFPR7SujAXD/J/nIHGI9KBIx07naudTLJUu2tKZY3dK5pdko8v2d7FWS8O85UHzIzbUMpn2VuawYOSrHnxEHxIufDo9MfhbiwJPqw4b53AA+ICAh12yJweH25S9vrZHUk5MbnY+OuvUMANr85ngVxOzLM2pmxVCcChy9cdiOM8Egi1cDCpDKlXuLP7R+OrKkdptiCfCZ3chvf7435aK/qyPVJgGlfjgvnkVNlb0lLErxXwKdOGt97ainOXjZZn5X9uSLOlOjdvmByj8SI3/SaVVuoosOFcw3yr4uIbOnkt9bAw8bPA0h3spGG/HSkdCdOizDxTE8qq2BWdIo4weq82g6oGvtyFY77/SbaqsSmNWaZea+qHl0kyZBFcjd2XpoDtoIN1Fx2418yWPMCJGooEucAKhvj8xG+XpdeLpdsNYP+euhfI63R1fWe4f4da4zD3T9BMWTV2zePt7KDODbyQwlcf5xrDZg==;P6kD8+weZo8PMmcRD51f6g=="

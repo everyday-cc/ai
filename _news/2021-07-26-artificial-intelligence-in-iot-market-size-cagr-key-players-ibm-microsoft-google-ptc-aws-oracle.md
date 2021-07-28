@@ -110,15 +110,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market"
-    excerpt: "The global AI in Healthcare Market size is expected to grow from USD XX billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period. At present,"
-    publishedDateTime: 2021-07-23T17:20:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-2021-global-size-share-statistics-historical-analysis-and-industry-growth-evolving-players-intel-ibm-google-microsoft-general-vision/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 36
   - title: "AI In Platform As A Service Market to Eyewitness Massive Growth by 2026 | Google, Microsoft, Salesforce, SAS Institute"
     excerpt: "AI In Platform As A Service refers to the third-party offering of artificial intelligence outsourcing. This allows the company to get the advantage of AI without spending lots of money. AI In Platform As A Service helps empower the sampling of multiple public cloud platforms to test different machine learning algorithms."
     publishedDateTime: 2021-07-24T21:40:00Z

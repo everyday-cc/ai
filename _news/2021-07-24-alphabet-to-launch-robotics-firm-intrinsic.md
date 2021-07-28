@@ -26,51 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet tackles industrial robot software market"
-    excerpt: "Google 's parent company Alphabet has launched a new company called Intrinsic to make industrial robots easier to program. Originally a project within Google's X research group, Intrinsic has graduated as an independent company within Alphabet."
-    publishedDateTime: 2021-07-23T17:06:00Z
-    webUrl: "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market"
-    ampWebUrl: "https://www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/automation/360345/alphabet-tackles-industrial-robot-software-market?amp"
+  - title: "Google’s parent Alphabet to launch a new robotics and AI firm- Intrinsic"
+    excerpt: "Intrinsic is a business of the future as it deals with advances in robotics and Artificial Intelligence. Alphabet’s Intrinsic is an attempt by Google to expand into future technology as it already is developing some advanced tech using complex machinery,"
+    publishedDateTime: 2021-07-26T11:17:00Z
+    webUrl: "https://techstory.in/googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
+      name: tech
+      domain: techstory.in
+    quality: 70
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1620312937/itpro/2021/05/shutterstock_manufacturing_robot_AI.jpg"
-        width: 1260
-        height: 710
+      - url: "https://techstory.in/wp-content/uploads/2021/07/intrinsic_green_purple_center.0.png"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Alphabet’s Intrinsic breaks cover to teach old robots new tricks"
-    excerpt: "Alphabet has started up a new robotics company, Intrinsic, with Google’s parent firm looking to make smarter industrial ‘bots. The announcement comes shortly after Alphabet sold Boston"
-    publishedDateTime: 2021-07-23T19:02:00Z
-    webUrl: "https://www.slashgear.com/alphabets-intrinsic-breaks-cover-to-teach-old-robots-new-tricks-23683695/"
-    ampWebUrl: "https://www.slashgear.com/alphabets-intrinsic-breaks-cover-to-teach-old-robots-new-tricks-23683695/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/alphabets-intrinsic-breaks-cover-to-teach-old-robots-new-tricks-23683695/amp/"
+  - title: "Google’s Parent Alphabet to Launch Robotics Firm Intrinsic Under Its Other Bets Unit"
+    excerpt: "Alphabet's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
+    publishedDateTime: 2021-07-25T06:32:00Z
+    webUrl: "https://www.news18.com/news/tech/googles-parent-alphabet-to-launch-robotics-firm-intrinsic-4004633.html"
+    ampWebUrl: "https://www.news18.com/amp/news/tech/googles-parent-alphabet-to-launch-robotics-firm-intrinsic-4004633.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/googles-parent-alphabet-to-launch-robotics-firm-intrinsic-4004633.html"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
+      name: CNN-News18
+      domain: news18.com
+    quality: 69
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/industrial-robots.jpeg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Alphabet launches robotics venture Intrinsic to train industrial robots with AI"
-    excerpt: "Google LLC parent Alphabet Inc. today announced a new venture, Intrinsic, that will focus on making industrial robots easier and more affordable to use for companies such as manufacturers. Intrinsic is a spinoff from Alphabet’s X research lab."
-    publishedDateTime: 2021-07-23T17:21:00Z
-    webUrl: "https://siliconangle.com/2021/07/23/alphabet-launches-robotics-venture-intrinsic-train-industrial-robots-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 67
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/image-1.png"
-        width: 837
-        height: 471
+      - url: "https://images.news18.com/ibnlive/uploads/2021/07/1627194566_google_reuters-1-1600x900.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Alphabet to launch robotics firm Intrinsic"
     excerpt: "Alphabet's secretive research unit said it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
