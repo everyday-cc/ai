@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "VianaiSystems"
   url: "https://twitter.com/VianaiSystems"
-  followers: 626
+  followers: 627
 
 size: 11-50 employees
 yearFounded: 2019
