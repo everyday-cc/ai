@@ -2,7 +2,7 @@
 category: news
 title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
 excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ..."
-publishedDateTime: 2021-07-23T18:48:00Z
+publishedDateTime: 2021-07-23T17:10:00Z
 originalUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
 webUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 628
     isCached: true
 
-secured: "gpzl4GEJuHlAt5fTATCz2pc0aL3+ca8sWPiyPSduOdBUPdC/QWg5svRwtxrr7X5KQKamlWWtt0Ret3xg3UQU8FMQsWT3YDWmfQpQygkeAjRLPF6UqHoYi8vb+LFQ7ulE7RloJ0E+eAm/NbQtAeQ5C+b+mIn/jmUZXbCMewS28blfxei+5NaWhLuK2A5EDrhxNVp9N5bu1uZ9HkoP5HRKJSTh7F3e7VRkCgFlsq8BXaw9ojygMAT+6PvBMqiQpVZrttV4ew1Jf3ulNsnldau1z9Mp8NdLkCLI3SeNPaADNOWHHvaAcTCP90N982THcm2j8LSqaW/8NRAYljTm35jRuNyzBv7vG9S6GUckkKoPmkA=;nvA1ennA0XXtSLtzr+zidw=="
+secured: "eHz7dMYY6AF7YCHssjUh343YurmSaRx5vBWYD7vjjqtLpk/dPNadZ5389Navxz+vzmnCZi++liZnM/3BS5Pk5zO8QztYET/aCpTHuewAWeXPDF9VJhd0S5ZnOL+LElz/S1FrxXww+cGSIm3oeQ95GVFvZYBMdEqlIDFcxb+eCrW8h3m6BUrZSFPQjPsm8IhRCot0SLsfhwK0TggoiSsqOvWczXAp4f9kP9Ku+8Sx52JRef+19TnHaDiGKj5sHNl9O7ACK3VlOduFQzQTMnRzwSi/hphkhaYai2b4eb+Gu3s1l2uZ1KaSK965sKitODLD3WZKAKJ3lNUV8QRfRSQ5eJapUb0ncDYf5eoYUD5toyY=;yu5K0EGpgiDqxMJQxOMyyQ=="
 ---
 

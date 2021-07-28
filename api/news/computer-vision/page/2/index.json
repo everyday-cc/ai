@@ -47,36 +47,27 @@
     {
       "path": "_news/2021-07-16-ebay-taps-computer-vision-to-transform-online-shopping.md",
       "title": "eBay taps computer vision to transform online shopping",
-      "excerpt": "Bay chief AI officer details how the shopping site's computer vision is driving customer satisfaction with image based search.",
+      "excerpt": "Bay chief AI officer details how the shopping site's computer vision is driving customer satisfaction with image based search.Read MoreRead",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
-      "originalUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ebay-taps-computer-vision-to-transform-online-shopping-10338013",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ebay-taps-computer-vision-to-transform-online-shopping-10338013",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ebay.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
-      "publishedDateTime": "2021-07-15T11:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T13:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

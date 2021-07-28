@@ -2,6 +2,143 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-07-11-sidekicksai-is-a-holographic-ai-assistant-that-will-revolutionize-education.md",
+      "title": "Sidekicks.ai Is A Holographic AI Assistant That Will Revolutionize Education",
+      "excerpt": "The startup’s team of mentors and experts comes from SVA, MIT, Colombia, and other prestigious places. Last month, Sidekicks launched a Kickstarter campaign that reached the goal in just thirty minutes and exceeded $300K in 10 days. The AI characters ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2021/07/11/sidekicks-ai-is-a-holographic-ai-assistant-that-will-revolutionize-education/",
+      "originalUrl": "https://www.gizchina.com/2021/07/11/sidekicks-ai-is-a-holographic-ai-assistant-that-will-revolutionize-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/07/Sidekicks.ai_Teaser3-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2021/07/11/sidekicks-ai-is-a-holographic-ai-assistant-that-will-revolutionize-education/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/11/sidekicks-ai-is-a-holographic-ai-assistant-that-will-revolutionize-education/amp/",
+      "publishedDateTime": "2021-07-10T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-07-11-big-data-and-global-trade-law.md",
+      "title": "Big Data and Global Trade Law",
+      "excerpt": "To send this chapter to your Kindle, first ensure no-reply@cambridge.org is added to your Approved Personal Document E-mail List under your Personal Document Settings on the Manage Your Content and Devices page of your Amazon account. Then enter the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lawfareblog.com/artificial-intelligence-act-what-european-approach-ai",
+      "originalUrl": "https://www.cambridge.org/core/books/big-data-and-global-trade-law/data-is-different-so-policymakers-should-pay-close-attention-to-its-governance/5B303D19BD81D08C52065A95A0CE73AF/core-reader",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lawfareblog.com/sites/default/files/2222375123_2361483d03_b.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-10T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-11-why-some-chip-companies-are-voicing-concern-and-others-support-for-nvidias-acquisition-of-arm.md",
+      "title": "Why Some Chip Companies Are Voicing Concern and Others Support for NVIDIA's Acquisition of ARM",
+      "excerpt": "NVIDIA acquiring ARM would shift the balance of power in the chip industry in a big way, and not just in favor of NVIDIA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/07/10/why-chip-cos-support-or-oppose-nvidia-arm-buyout/",
+      "originalUrl": "https://www.fool.com/investing/2021/07/10/why-chip-cos-support-or-oppose-nvidia-arm-buyout/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F633016%2Finvesting-trading-broker-computer.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/10/why-chip-cos-support-or-oppose-nvidia-arm-buyout/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/10/why-chip-cos-support-or-oppose-nvidia-arm-buyout/",
+      "publishedDateTime": "2021-07-10T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-11-exynos-flagship-chipsets-a-history-of-samsungs-homegrown-silicon.md",
       "title": "Exynos flagship chipsets: A history of Samsung's homegrown silicon",
       "excerpt": "Samsung has used Exynos flagship chips for a long, long time, so we thought it would be a good idea to chart its history.",
@@ -1018,143 +1155,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-fact-sheet-executive-order-on-promoting-competition-in-the-american-economy.md",
-      "title": "Fact sheet: Executive order on promoting competition in the American economy",
-      "excerpt": "News Release The White House The economy is booming under President Biden’s leadership. The economy has gained more than three million jobs since the",
-      "sourceUrl": null,
-      "webUrl": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/",
-      "originalUrl": "https://indiancountrytoday.com/the-press-pool/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share-1100x740.png",
-          "width": 1100,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indian Country Today",
-        "domain": "indiancountrytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments.md",
-      "title": "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments",
-      "excerpt": "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments-2021-07-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments-2021-07-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning.md",
-      "title": "Activision taking action against Call of Duty: Warzone cheat that uses machine learning",
-      "excerpt": "A new Call of Duty: Warzone and Black Ops Cold War cheat that uses machine learning is on the rise, but Activision might already be taking action against it. Earlier this week, Eurogamer first reported that a cheat using machine learning had made its way ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamesradar.com/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/",
-      "originalUrl": "https://www.gamesradar.com/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/U3nNDTXMTVRrdfff7fVNyk-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/amp/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/activision-taking-action-against-call-of-duty-warzone-cheat-that-uses-machine-learning/",
-      "publishedDateTime": "2021-07-09T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

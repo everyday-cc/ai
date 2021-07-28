@@ -43,7 +43,7 @@ related:
     provider:
       name: Media Temple
       domain: mediatemple.net
-    quality: 37
+    quality: 39
     images:
       - url: "https://mediatemple.net/blog/wp-content/uploads/2021/07/AI-040721-Blog-Heroes-1665x705-1.jpg"
         width: 1665

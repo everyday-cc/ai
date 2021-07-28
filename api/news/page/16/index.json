@@ -2,6 +2,144 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-07-15-wearable-robotics-startup-verve-motion-snags-15m-series-a.md",
+      "title": "Wearable robotics startup Verve Motion snags $15M Series A",
+      "excerpt": "Wearable robotics startup Verve Motion today announced it has raised $15 million in Series A funding, led by Construct Capital as well as follow-on investments from existing investors, Founder Collective,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-wearable-robotics-startup-verve-motion-snags-15m-series-/2021/07/15/9410288.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-wearable-robotics-startup-verve-motion-snags-15m-series-/2021/07/15/9410288.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1574447/Verve01.jpg",
+          "width": 291,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-in-major-step-toward-commercializing-self-driving-technology-aurora-to-become-a-public-company-by-merging-with-reinvent-technology-partners.md",
+      "title": "In Major Step Toward Commercializing Self-Driving Technology, Aurora to Become a Public Company by Merging with Reinvent Technology Partners Y",
+      "excerpt": "Aurora, the self-driving technology company, has entered into a definitive business combination agreement with Reinvent Technology Partners Y (“Reinvent”) (NASDAQ: RTPY), a special purpose acquisition company with the sponsor team that takes a “venture capital at scale” approach to investing.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-377c40cbf96544d2936dcc3c7d09d3b7",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-377c40cbf96544d2936dcc3c7d09d3b7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-china-grants-tax-breaks-policy-leeway-to-turn-shanghai-into-powerhouse-for-ai-chips-planes-and-pharmaceuticals.md",
+      "title": "China grants tax breaks, policy leeway to turn Shanghai into powerhouse for AI, chips, planes and pharmaceuticals",
+      "excerpt": "China’s central government has offered tax incentives, greater autonomy in local legislation and more administrative power to liberalise the capital markets in Shanghai, as Beijing envisions building Pudong into a ‘brilliant pearl’ of a strong socialist country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "originalUrl": "https://www.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/07/15/d8254c32-e551-11eb-9aba-1b7e08262541_image_hires_220157.jpeg?itok=fYw4eWfq&v=1626357723",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "publishedDateTime": "2021-07-15T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-opening-up-the-email-marketing-engine-to-artificial-intelligence.md",
       "title": "Opening Up the Email Marketing Engine to Artificial Intelligence",
       "excerpt": "With an average open email rate of 18.0% in 2020, it’s not like marketing teams are crushing this email thing. Wait, isn't 18% pretty good? We get that standards are low here, for sure. Bottom-line? Email remains a priority.",
@@ -976,122 +1114,26 @@
       ]
     },
     {
-      "path": "_news/2021-07-15-congress-asks-experts-for-guidance-on-facial-recognition.md",
-      "title": "Congress Asks Experts for Guidance on Facial Recognition",
-      "excerpt": "Law enforcement uses facial recognition systems with little oversight and, at times, disastrous impact. During a congressional hearing this week, members and experts talked through how new laws could head off greater harm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition",
-      "originalUrl": "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/9451d55/2147483647/strip/true/crop/1095x571+18+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F67%2F8b%2Fbf2467764012829abc8b9b917271%2Frw-better.png",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true",
-      "publishedDateTime": "2021-07-14T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-device-taps-brain-waves-to-help-paralyzed-man-communicate.md",
-      "title": "Device taps brain waves to help paralyzed man communicate",
-      "excerpt": "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
-      "originalUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg",
-          "width": 2500,
-          "height": 1669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna1424",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424",
-      "publishedDateTime": "2021-07-14T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-15-on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform.md",
       "title": "ON Semiconductor Intelligent Sensing Technologies Enable 360° Vision in AutoX Gen5 Self-Driving Platform",
       "excerpt": "Revealed at the World Artificial Intelligence Conference, the new Gen5 autonomous vehicle technology enables the first fully driverless RoboTaxi, designed to democratize autonomy and provide ...",
       "sourceUrl": null,
-      "webUrl": "https://tucson.com/business/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/article_905394e9-63c4-5ed0-98af-f06c42c229e4.html",
-      "originalUrl": "https://tucson.com/business/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/article_905394e9-63c4-5ed0-98af-f06c42c229e4.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/07/b21989649/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-pla",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/b21989649/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-pla",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png",
-          "width": 620,
-          "height": 290,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T16:06:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21989649",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21989649",
+      "publishedDateTime": "2021-07-14T16:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Arizona Daily Star",
-        "domain": "tucson.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1102,49 +1144,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-device-lets-paralyzed-man-communicate-with-brain-waves.md",
-      "title": "Device lets paralyzed man communicate with brain waves",
-      "excerpt": "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a computer screen.",
-      "sourceUrl": null,
-      "webUrl": "https://magicvalley.com/ap/national/device-lets-paralyzed-man-communicate-with-brain-waves/article_32393d27-9a1e-58fd-9747-d1e60c01a6b9.html",
-      "originalUrl": "https://magicvalley.com/ap/national/device-lets-paralyzed-man-communicate-with-brain-waves/article_32393d27-9a1e-58fd-9747-d1e60c01a6b9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/assets/v3/editorial/7/7f/77f36514-beca-575a-9807-fc0a4916bc0c/60efa0f25b388.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://magicvalley.com/ap/national/device-lets-paralyzed-man-communicate-with-brain-waves/article_32393d27-9a1e-58fd-9747-d1e60c01a6b9.amp.html",
-      "cdnAmpWebUrl": "https://magicvalley-com.cdn.ampproject.org/c/s/magicvalley.com/ap/national/device-lets-paralyzed-man-communicate-with-brain-waves/article_32393d27-9a1e-58fd-9747-d1e60c01a6b9.amp.html",
-      "publishedDateTime": "2021-07-14T15:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times-News",
-        "domain": "magicvalley.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

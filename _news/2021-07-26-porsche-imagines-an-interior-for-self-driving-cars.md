@@ -55,22 +55,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Why self-driving cars could be going the way of the jetpack"
-    excerpt: "Driverless cars were supposed to be relieving us of the stresses of driving by now – but safety issues and technological shortcomings are keeping the brakes firmly on"
-    publishedDateTime: 2021-07-28T18:54:00Z
-    webUrl: "https://www.newscientist.com/article/mg25133452-400-why-self-driving-cars-could-be-going-the-way-of-the-jetpack/"
-    ampWebUrl: "https://www.newscientist.com/article/mg25133452-400-why-self-driving-cars-could-be-going-the-way-of-the-jetpack/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25133452-400-why-self-driving-cars-could-be-going-the-way-of-the-jetpack/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 44
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/07/28123136/art1.jpg?width=600"
-        width: 600
-        height: 400
-        isCached: true
   - title: "General Motors sues Ford for violating trademarked driver-assist technology used for self-driving cars"
     excerpt: "The firm has taken the action to protect the Cruise and Super-Cruise brands following Ford Motors in April had renamed its Co-Pilot360 automated driving system as Blue Cruise. Despite the talks, consensus on the issue had been unsuccessful,"
     publishedDateTime: 2021-07-24T17:17:00Z
@@ -100,6 +84,20 @@ related:
       - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-bb-1200.jpg?itok=JdoLkruE"
         width: 470
         height: 246
+        isCached: true
+  - title: "Why self-driving trucks aren't putting drivers out of work yet"
+    excerpt: "Big tech firms have been promising an autonomous trucking revolution for years now, but even with billions poured into the industry, manned trucks still rule. Here's when, and how, that could change."
+    publishedDateTime: 2021-07-28T20:07:00Z
+    webUrl: "https://www.overdriveonline.com/equipment/article/15066699/why-selfdriving-trucks-arent-here-yet"
+    type: article
+    provider:
+      name: Overdrive
+      domain: overdriveonline.com
+    quality: 24
+    images:
+      - url: "https://img.overdriveonline.com/files/base/randallreilly/all/image/2021/07/mack_no_driver_backward.61007e987cbad.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 660
         isCached: true
 
 secured: "WnA1y5980DMjmRBq68oWCIF73+RgUJydTuf92ggvZJMDX9yO6koIIo+RLzd9mlhPLdJz75zVDkYtAPP6H3tV6Ws4C3PvQ6U1R+T78ztWEyBQJbobbHMYTJv+rlUcwXRbpPwVxMz3uiReH41XtZgGULwxMGbVMZW13XpuCADCmvtju9MXb6XEitijc7Jd5z3cCore9cMQ27ctmPyJtRVeBzmJz1h41VvXmOyRLC+wA7OUwS/mQNiQEpdJ33qQDMEasy03h/83F92hf/+y7GNCAYMgZKsfI8SjUru2KFJAjYR5vA+UlLuvJyYey9GPmq9uiAn7Gy9v9tvpw0ZMaC0Xlfd73wtM/rZZJGSlEI/XrRHiun7cXW/SYpnVR+iSCKIvBYv2gCR3rbQ9F6MTp6PfkWjSqMTiyLTwhX+GKW/9yvEpEfzZiNgnJBhRYlaKhHYysdFyegKADkvMBNYNFdQsKbePlMbCawS0fESNdkmL35zdZM9WzxmiR9Iu0ZwlKErYpLwOL775/UgGO9nUN+ZkrQ==;ZImRqgJGCIffSIDUNS0o5w=="

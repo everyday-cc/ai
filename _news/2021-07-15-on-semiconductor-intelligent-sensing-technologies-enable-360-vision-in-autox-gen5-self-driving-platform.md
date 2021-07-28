@@ -2,25 +2,21 @@
 category: news
 title: "ON Semiconductor Intelligent Sensing Technologies Enable 360° Vision in AutoX Gen5 Self-Driving Platform"
 excerpt: "Revealed at the World Artificial Intelligence Conference, the new Gen5 autonomous vehicle technology enables the first fully driverless RoboTaxi, designed to democratize autonomy and provide ..."
-publishedDateTime: 2021-07-14T23:06:00Z
-originalUrl: "https://tucson.com/business/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/article_905394e9-63c4-5ed0-98af-f06c42c229e4.html"
-webUrl: "https://tucson.com/business/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/article_905394e9-63c4-5ed0-98af-f06c42c229e4.html"
+publishedDateTime: 2021-07-14T23:51:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/b21989649/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-pla"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/b21989649/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-pla"
+ampWebUrl: "https://www.benzinga.com/amp/content/21989649"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21989649"
 type: article
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
-    width: 620
-    height: 290
-    isCached: true
-
-secured: "KnyqbSoQvyzo8Wlkjc4zzd8v46XYLTlVdvzmWjcKqr1WQFpH+kjtiukn5eO5u9C8Vxau9q1Mdt71hTx7PqbU7rLlIVy17wUF4Y+ya2766yJQ3BNBzHhB2rk3gWNu1ThU9CeZ5so6+pEeNfVNtLFj9WsgdhgzLu5fAb3jZ67AVdRfYSVkHdnC+YTRIbTx57J/0y6mFdvzi2wFoRCjuWJovzIVpA899V9eQ26MkE6Q1dT6wKLdf+uYYe45wwvureDTLDnvxWWhgqlW6BWOMKRRu5e3S2ki6CDFyZA9VqbizZltpgYZAHk3sPrPHIE6nxo81zaZrjVhze7CKOpOsBXgcKFgoepaBWsHLg5J5rl6ZJo=;S2lclhR/nfh1pYUE5vmi8w=="
+secured: "glALgp0DQMAeTpszWbUgeamaBDsfKak/LYTCt/UMOhc8fm+m586yFt6F0ycwWJL7cbU2xCpyGBMqWNkM14/qg8T//kU37UiSIE7gRwq9KSTRVT2g186BRQ+4bSr3xBvp6Z/Nu5vkI9s8iCzn1J2hlQoqjtRHqrZnrMYcVckSuM3gPBINXfv1k4/7M6Jhz9H5094GVAh5MymGAN4PbYbOMQ8z5S+DhEFiY+bw5J5CKUO7T2gtAhO6y8HoyMiuOF1cJ8v5O6L+RgHAUtkETe+ZBX7ByzYTrvBDqwii5Y79mtE0KeeXonlYPLM+yZIn9tGboUpiIFwnFj+6hathZbKJBsHIY63XAbRqRibFNzx2/6g=;7D4aNRFasofhfUY7RMa6Iw=="
 ---
 

@@ -20,16 +20,19 @@ topics:
 
 related:
   - title: "Global Artificial Intelligence Chips Market (2021 to 2025) - Featuring Alphabet, Broadcom and Intel Among Others - ResearchAndMarkets.com"
-    excerpt: "Chips Market 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The publisher has been monitoring"
+    excerpt: "Chips Market 2021-2025” report has been added to ResearchAndMarkets.com’s offering. The publisher has been monitoring the artificial intelligence (AI) chips market and it is poised to grow by $73.49 billion during 2021-2025,"
     publishedDateTime: 2021-07-27T16:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/b22177344/global-artificial-intelligence-chips-market-2021-to-2025-featuring-alphabet-broadcom-and-intel-amo"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22177344"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22177344"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-59c6907a27fe4562a46dcc86f950c22a"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "KgBzZPeffl+Cqx0MOwQSAcCiZXKWWeCWwGzLRoidDhiIeHqVZmk20zsweXFwyWyPBp5kxpj0OSe2j1XeI0HfmBWdt18uR6ECVePrLR6t0g6c98JAKElKiwdZyVE79QissE6TkAglH8RfupL6sGbbj6jofSFRWyDwWAKW9PfaetmtSrLJXhMuT2KcYEEAa7kwcmFvtiGr/CioasjL9yrKzmkFiK1WFytbaqzNLiRNujnWbBlbQeaNI3fI7sEZj5c3TOaAqB/0ZcyV9Zru5UL0C4PE2M2KLfXPd6dMZ/o7btwekExtn6NmKjBJCUD40InRurOuFuF7ODxwUCi58aauCduglzYx4EZlQKXINQPDVrg=;k+6ErX0qAC6tLTrm0ucUHQ=="
 ---

@@ -57,22 +57,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Why self-driving cars could be going the way of the jetpack"
-    excerpt: "Driverless cars were supposed to be relieving us of the stresses of driving by now – but safety issues and technological shortcomings are keeping the brakes firmly on"
-    publishedDateTime: 2021-07-28T18:54:00Z
-    webUrl: "https://www.newscientist.com/article/mg25133452-400-why-self-driving-cars-could-be-going-the-way-of-the-jetpack/"
-    ampWebUrl: "https://www.newscientist.com/article/mg25133452-400-why-self-driving-cars-could-be-going-the-way-of-the-jetpack/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25133452-400-why-self-driving-cars-could-be-going-the-way-of-the-jetpack/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 44
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/07/28123136/art1.jpg?width=600"
-        width: 600
-        height: 400
-        isCached: true
   - title: "GM Sues Ford in Fight Over Branding of Self-Driving Cars"
     excerpt: "General Motors Co. is suing its competitor Ford Motor Co. for violating a trademarked driver-assist technology that’s used for hands-free features, according to a lawsuit."
     publishedDateTime: 2021-07-26T14:45:00Z
@@ -100,6 +84,20 @@ related:
       - url: "https://images.hgmsites.net/hug/porsche-renndienst-study_100800578_h.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Why self-driving trucks aren't putting drivers out of work yet"
+    excerpt: "Big tech firms have been promising an autonomous trucking revolution for years now, but even with billions poured into the industry, manned trucks still rule. Here's when, and how, that could change."
+    publishedDateTime: 2021-07-28T20:07:00Z
+    webUrl: "https://www.overdriveonline.com/equipment/article/15066699/why-selfdriving-trucks-arent-here-yet"
+    type: article
+    provider:
+      name: Overdrive
+      domain: overdriveonline.com
+    quality: 24
+    images:
+      - url: "https://img.overdriveonline.com/files/base/randallreilly/all/image/2021/07/mack_no_driver_backward.61007e987cbad.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 660
         isCached: true
 
 secured: "FlWizfeds3WVHjmA+u+xL3XJ1hAi0hcvZDc58FGeBUmnFm9z7qNrN9yCzf04R36LYYcbNPtyuHt9d425PqC485KrssV5ivQj2NvN7XYa60eWmXiJnrOyFMv7jkUjSQY2re8CRLRcqHT5I2qvHiPErTMsD+2Uzad3Ana9Gf7yN/sOwnCXovEDtk/GDt8b2w/tpB5HsLfR+wNSb0M7dhnZnQup1PMDlIaqAevmFzxt1oR10iCY6Xqgv211cqHRwBv7erVkkaM3nNl/C4xWck2wZ9C5xFE+1Wtk18BIYDKxIJ64mK6N4Z+283EnM11AlNxaxACwZQs8A9dnWae0HNYFzrhDIDBwZ96mBZIKivwi6j8=;yVpA1PrpeYOILMo5umlcCw=="

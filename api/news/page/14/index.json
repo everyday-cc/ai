@@ -2,6 +2,162 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-07-16-sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech.md",
+      "title": "Sense Photonics Sees Flash LiDAR As Best Path To Full Self-Driving Tech",
+      "excerpt": "Sense Photonics is on a mission to make LiDAR, the core of self-driving technology, more affordable and less obtrusive. And it is leveraging two elements of the iPhone 12 to get there. Today, most autonomous vehicles in test fleets have a cumbersome ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/",
+      "originalUrl": "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f196f7d4f6705300ca741c%2F0x0.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/amp/",
+      "publishedDateTime": "2021-07-16T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-update-1-toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech.md",
+      "title": "UPDATE 1-Toyota buys U.S. mapping, road data firm to bulk up driverless tech",
+      "excerpt": "Woven Planet was established in January to invest in and develop mobility with artificial intelligence. It is building a prototype ... Moving into new and non-traditional car making such as driverless and electric technology, Toyota has increasingly ...",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/toyota-autonomous-acquisition-idCNL1N2OQ31A",
+      "originalUrl": "https://cn.reuters.com/article/toyota-autonomous-acquisition-idCNL1N2OQ31A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210714&t=2&i=1568899541&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6D1AY",
+          "width": 800,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2OQ31A",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2OQ31A",
+      "publishedDateTime": "2021-07-16T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-facebooks-blenderbot-20-bot-surfs-the-web-for-knowledge.md",
+      "title": "Facebook’s BlenderBot 2.0 bot surfs the web for knowledge",
+      "excerpt": "Facebook's BlenderBot 2.0 chatbot draws on the internet to build on its knowledge of sports, movies, TV shows, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/amp/",
+      "publishedDateTime": "2021-07-16T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-why-we-need-engineers-who-study-ethics-as-much-as-math.md",
       "title": "Why we need engineers who study ethics as much as math",
       "excerpt": "The recent apartment building collapse in Miami, Florida, is a tragic reminder of the huge impacts engineering can have on our lives. Disasters such as this force engineers to reflect on their practice and perhaps fundamentally change their approach.",
@@ -759,49 +915,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize.md",
-      "title": "AI-enabled sign language translator designed by teenagers wins £20,000 prize",
-      "excerpt": "A two-way AI-enabled sign language translator designed by teenagers has won a £20,000 technology prize. A team from St Paul’s Girls’ School in London came up with the idea for an intelligent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itv.com/news/2021-07-15/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize",
-      "originalUrl": "https://www.itv.com/news/2021-07-15/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ctfassets.net/pjshm78m9jt4/headerImage-24f4d169-e421-46b2-9053-b28f3f5b3593/b5bd05faffd7645a0174dc7356b8131c/headerImage-24f4d169-e421-46b2-9053-b28f3f5b3593",
-          "width": 1071,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITV",
-        "domain": "itv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-16-robotics-and-ai-will-reshape-the-life-sciences-buildings-of-the-future.md",
       "title": "Robotics And AI Will Reshape The Life Sciences Buildings Of The Future",
       "excerpt": "Robotics and AI are changing life sciences workspaces, challenging life sciences developers to adapt to these emerging technologies.",
@@ -922,6 +1035,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-16-ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize.md",
+      "title": "AI-enabled sign language translator designed by teenagers wins £20,000 prize",
+      "excerpt": "The prototype of the BSL: Educate-2-Translate app A two-way AI-enabled sign language translator designed by teenagers has won a £20,000 technology prize. A team from St Paul’s Girls’ School ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.shropshirestar.com/news/uk-news/2021/07/16/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize/",
+      "originalUrl": "https://www.shropshirestar.com/news/uk-news/2021/07/16/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.shropshirestar.com/resizer/9Te1NTF34Dkxnxb9vDfuc1Rpx1o=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/4YJSKDSIPNH3LILDOXUWZ7HB5A.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shropshire Star",
+        "domain": "shropshirestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-heartflow-charts-ipo-via-24b-spac-deal.md",
       "title": "Heartflow charts IPO via $2.4B SPAC deal",
       "excerpt": "Heartflow Holding Inc. is aiming to bring its noninvasive, artificial intelligence (AI)-based test for coronary heart disease to more doctors and patients via a merger with Longview Acquisition Corp.",
@@ -1011,128 +1167,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
-      "title": "AI & ML latest: Google disbands another AI ethics committee",
-      "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computing.co.uk/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-self-driving-startup-aurora-innovation-is-going-public-is-it-a-buy.md",
-      "title": "Self-Driving Startup Aurora Innovation Is Going Public: Is It a Buy?",
-      "excerpt": "Self-driving technology start-up Aurora Innovation said on July 15 that it has agreed to go public via a merger with Reinvent Technology Partners Y (NASDAQ: RTPY), a special-purpose acquisition company (SPAC),",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/self-driving-startup-aurora-innovation-is-going-public%3A-is-it-a-buy-2021-07-15?time=1626385802",
-      "originalUrl": "https://www.nasdaq.com/articles/self-driving-startup-aurora-innovation-is-going-public%3A-is-it-a-buy-2021-07-15?time=1626385802",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-facebook-twitter-and-other-social-media-companies-need-to-be-treated-like-big-tobacco.md",
-      "title": "Facebook, Twitter and other social media companies need to be treated like Big Tobacco",
-      "excerpt": "For the first time, the U.S. surgeon general has declared the barrage of misinformation spreading on social media a public health hazard. In an advisory, Surgeon General Dr. Vivek Murthy calls on technology companies to “take responsibility for addressing the harms” their social media products impose on consumers by prioritizing the early detection of misinformation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/facebook-twitter-other-social-media-companies-need-be-treated-big-ncna1274000",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/facebook-twitter-other-social-media-companies-need-be-treated-big-ncna1274000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_13/3346831/200512-twitter-office-shadow-ew-415p.jpg",
-          "width": 2500,
-          "height": 1473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1274000",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1274000",
-      "publishedDateTime": "2021-07-15T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

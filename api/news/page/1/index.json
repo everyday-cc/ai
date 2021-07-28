@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-29-artificial-intelligence-could-be-the-latest-tool-in-fighting-wildfires.md",
+      "title": "Artificial intelligence could be the latest tool in fighting wildfires",
+      "excerpt": "Tech companies in Silicon Valley are starting to use their resources to help combat wildfire season. As the U.S. sees record burning, the space-based technology, including drones and artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/artificial-intelligence-could-be-the-latest-tool-in-fighting-wildfires-117537861795",
+      "originalUrl": "https://www.nbcnews.com/now/video/artificial-intelligence-could-be-the-latest-tool-in-fighting-wildfires-117537861795",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1627502461610_ott_now_wildfires_ai_210728_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo117537861795",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo117537861795",
+      "publishedDateTime": "2021-07-28T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-how-ai-and-machine-learning-can-make-or-break-our-mobile-privacy.md",
       "title": "How AI and Machine Learning Can Make or Break Our Mobile Privacy",
       "excerpt": "Like many different technologies, Artificial Intelligence (AI) has been widely adopted and implemented in a variety of businesses and",
@@ -307,7 +349,7 @@
       "originalUrl": "https://thenextweb.com/news/gallileo-project-using-ai-to-search-for-alien-technology",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1178,49 +1220,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-ai-powered-beach-cleanup-robots.md",
-      "title": "AI-Powered Beach Cleanup Robots",
-      "excerpt": "It’s estimated that more than 4.5-trillion cigarette butts are littered across the environment around the world, which is something the",
-      "sourceUrl": null,
-      "webUrl": "https://www.trendhunter.com/trends/robotic-beach-cleaner",
-      "originalUrl": "https://www.trendhunter.com/trends/robotic-beach-cleaner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.trendhunterstatic.com/thumbs/robotic-beach-cleaner.jpeg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.trendhunter.com/amp/trends/robotic-beach-cleaner",
-      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/robotic-beach-cleaner",
-      "publishedDateTime": "2021-07-27T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TrendHunter",
-        "domain": "trendhunter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

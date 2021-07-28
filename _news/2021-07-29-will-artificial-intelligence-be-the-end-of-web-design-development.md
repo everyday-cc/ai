@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-28T18:47:00Z
 originalUrl: "https://mediatemple.net/blog/web-development-tech/will-artificial-intelligence-be-the-end-of-web-design-development/"
 webUrl: "https://mediatemple.net/blog/web-development-tech/will-artificial-intelligence-be-the-end-of-web-design-development/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mediatemple.net/blog/wp-content/uploads/2021/07/AI-040721-Blog-Heroes-1665x705-1.jpg"
@@ -50,6 +51,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "6J9LZSHpNadweVhqJ29rc9EJjYg5JanrVss/gRUNxNCTywQCF9Aqtrw4il1CAEDcTBSftywIemb1Xdt3qZSa4M4oGKT11D2i28uRssHUJ+95w3BB+NIyHdPMiAC1L1cF02+UE/eJDJ8gXm2Uzwx4K5gMEpSPdwzcKvD5/2MjVa/Cd0/8tZK3HAjVPcH1juLTWPxIU+wanTU3fjK8XgM4I/hkAuZJRR9biMaSDHPlVyn9JD3EkKp2W39hufgos43PI//zPCJSUx+jWifngb6ISjroIPGYgZr0Sof05nOHjGLgzOH1mZ24MLJx4MMLpn2jhmbQgiQgLYjat5+LeVRuB0oKnYULDUwRSn8Xp6lPvvI=;in4WtiFUCnfbi31EhP+o7A=="
+secured: "4VCj2U6gai7GyQGSopgNhMTGSm4GCkPZiNQwp5uvlljRJ53VoSheK4Oosfvhx1NmUiptzJMW9j1ShwHSoVT93HRR+TBEpXPj09UTlRyTjH0mMVF/bfp1CwJaOKr0P3ha2NZ6xDkiV0V/nnvv5yF7o2tP4GM2Fdmq2nNV9UQGNgw/+aUsYe4kBRj0Z6mDV8wq1c+BtiUw57hcN2O7kHeHdEVBhvP+JVRZyT0aHCJE6KfPy+ZiBouIs3ax0qvZQrQX42k7g7QAQaSOywaFeJidEeIX0py2cuz1XO/Zk4XhBUmNgcHjqHxRGjknrUk5/TCh75+pBBq29mt+WMzPsjwFnzNJFp78fbOhRSLddDOiYDeYFqX65ihvaH8QFb2bcXGkg/kKcdd52vEJ9oB/nye2rQUbkelxR+xBgdreRT0SerKxbrA3Oq0vvltWV1me2cT8ESGxhwVW4sVx9iDJKJrDI5kTB38TsdvR4EjSNBBA4HK2M1fE2OSK92iDzO5pz1Xtg0oz/AI8LjDhm11fqWZQtQ==;we6XAe7YjUKRmMvqJdxaVg=="
 ---
 
