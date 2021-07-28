@@ -39,20 +39,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "DeepMind unlocks the protein secrets of life"
-    excerpt: "Demis Hassabis stunned the world of science this week when he and his research team opened a window into how life works.The British artificial intelligence pioneer, 44, revealed an AI system that had"
-    publishedDateTime: 2021-07-23T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/3b2ffd68-ebe2-11eb-baaa-861dba20d87a?shareToken=309a4275db20223c3a288274449c8dbb"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb0859926-ebb8-11eb-baaa-861dba20d87a.jpg?crop=4167%2C2344%2C0%2C0&resize=685"
-        width: 685
-        height: 385
-        isCached: true
   - title: "The Times view on DeepMind’s scientific revolution: Protein Power"
     excerpt: "The universe is vast yet it is comprehensible. The human mind is able to gain knowledge of it through science. A potentially historic example emerged this week with news that British researchers from"
     publishedDateTime: 2021-07-23T23:01:00Z
@@ -80,20 +66,6 @@ related:
       - url: "https://pharmaphorum.com/wp-content/uploads/2021/07/AlphaFold.jpg"
         width: 840
         height: 473
-        isCached: true
-  - title: "DeepMind Launches Evaluation Suite For Multi-Agent Reinforcement Learning"
-    excerpt: "DeepMind has introduced a scalable evaluation suite for multi-agent reinforcement learning called Melting Pot."
-    publishedDateTime: 2021-07-27T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-launches-evaluation-suite-for-multi-agent-reinforcement-learning/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/DeepMind_AIM.gif"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "Rh14C61k3uXrN0KQe/CFB4jHfS9d6CchkdRoPPTozLdjGp97pZIP3RTPvwcN+L7CLRDmvaORN+/XeS+ugGJrGI6nwvxfim7GL8p8on8MysLX8v6aZi+3c5kQ+J2PnQczEntgUSEhNj/FJYspozpV6Koy+I7T0+K+L3mt4Bb7mfbJIYvnqh/rj3l2rtLbUofEJ3v1BtIHTTMg260Q/Inzq7xXVRlOEnf8L6NErXmgwwQs16L8WBWwFI01686j/kCT18HQ0ViBUg14sVz/bpwjPNYXpFlW3Y9cnTqC0N8TQhl/g8o41b5pSTPsi9iy9Ci7SxQyV6xfU5CQJy3yDdQYlV0ba5hldWBepDWeZc5tcrqZldusU6n6HtoJXNcBj3fwkd1FhhPstrfAn2rJ+dANOIQfHIvttNai3tBFVceG4o64tXiV6OIwyRXeKD/X/HS9vRGfFEpUN/vXIaoGP4MC2zytyS+v5UCx8m4dCtZpcPqAewC42wAbvXXYzqYogXyyDQzgU3YZab/FYvrLyK3taw==;3yzc0+CBQl996WrvA2Mxug=="

@@ -46,6 +46,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Mastering The Art Of Extracting Data From Invoices Using AI And ML"
+    excerpt: "At some point, all invoices will become digital. Until then, the need to handle paper-based invoices and extract data from both paper and digital invoices without human involvement is critical for enterprises to truly transform."
+    publishedDateTime: 2021-07-28T13:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6066004147c9e239227de9bc%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "How An Avalanche Of Data Led To New Trends In AI Software Modernization Approaches"
     excerpt: "In recent years, companies’ growing focus on big data has led to increased digitalization demands. The avalanche of data has forced businesses to reconsider software modernization approaches. With that in mind,"
     publishedDateTime: 2021-07-28T11:50:00Z

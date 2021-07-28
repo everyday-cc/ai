@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Changing Face of Marketing: How AI is Inventing the Future"
-    excerpt: "Artificial intelligence is changing the way we do marketing, and it’s happening faster than we think. From voice assistants"
-    publishedDateTime: 2021-07-23T20:00:00Z
-    webUrl: "https://www.business2community.com/marketing/the-changing-face-of-marketing-how-ai-is-inventing-the-future-02420818"
-    ampWebUrl: "https://www.business2community.com/marketing/the-changing-face-of-marketing-how-ai-is-inventing-the-future-02420818/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/marketing/the-changing-face-of-marketing-how-ai-is-inventing-the-future-02420818/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 74
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/07/markus-winkler-tGBXiHcPKrM-unsplash-900x600.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Catching the artificial intelligence buzz"
     excerpt: "The federal minister for the digital economy, Jane Hume, will deliver a speech on Tuesday setting out how the government is backing artificial intelligence."
     publishedDateTime: 2021-07-26T17:33:00Z

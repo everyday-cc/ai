@@ -3,8 +3,8 @@ category: news
 title: "Everyone in Your Organization Needs to Understand AI Ethics"
 excerpt: "Many organizations have come around to seeing the business imperative of an AI ethical risk program. Countless news reports — from faulty and discriminatory facial recognition to privacy violations to black box algorithms with life-altering consequences — have put it on the agendas of boards,"
 publishedDateTime: 2021-07-26T12:40:00Z
-originalUrl: "https://hbr.org/2021/07/everyone-in-your-organization-needs-to-understand-ai-ethics"
-webUrl: "https://hbr.org/2021/07/everyone-in-your-organization-needs-to-understand-ai-ethics"
+originalUrl: "https://hbr.org/2021/07/everyone-in-your-organization-needs-to-understand-ai-ethics?ab=hero-subleft-3"
+webUrl: "https://hbr.org/2021/07/everyone-in-your-organization-needs-to-understand-ai-ethics?ab=hero-subleft-3"
 ampWebUrl: "https://hbr.org/amp/2021/07/everyone-in-your-organization-needs-to-understand-ai-ethics"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/07/everyone-in-your-organization-needs-to-understand-ai-ethics"
 type: article
@@ -17,8 +17,8 @@ provider:
   domain: hbr.org
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2021/07/Jul21_26_1256204321.jpg"
@@ -42,6 +42,6 @@ related:
         height: 702
         isCached: true
 
-secured: "AL+EUX6vXH5mfpg0JesWisNyHfERehhfnpqvELTYTKIYaagwj/B7LjCnQcCh4LkM9IOrfRGbKFYO4AbQTQMAyzF1rjZCfWgl7I5iURU5vLv0QB0CnfhphyZP3TsPre3684ykGM8V4cJ7tQE2cgg6toBW1iKwu/84JWHj8V6gHyNnr962z2sxicjmlJ+hmr+zqmchipp7eCg7y3srYHn64AZHUXXym+I8SCb6ouZv469r++CmKNXm7jmcpFb86+2xX/3OJyV3myQ7kRDb6fzBH3huNNPVK/kOgeHprYF6My5num8mjvjNZL8K2TYZ4q9OP+XS2MuIP42/XcdPCba7Lyh7QQqT1RI9vcTPGxWCDBeVAdmNnEfnSMXuoVQeKF48TYLkBPgIrz2X1BV7Si/NJQ58qSVC+BbkOOycw1iUzj38612jN6+NJaRhVQEwE7ewmerZ9Pj8EEnqR7LNUgiFkZ1aK0gMFvpHMO9qSmUsdi7CPZzRQWrnrpTu1CiiLoxHANRK0abxlQJ8L+YOfylySg==;P3DScwFqw4cJGBn5p6EEUw=="
+secured: "D0bryjS01sSYjtmA2svk9KxkdgoqC2h2/SMi68tb6wVqA+hBlOKNRpIUGQYNh8M1oc/MxAW+j9HeDysVRe0HLKcHsIfjI+NIlSBHU8e91KbUs4NPvTKm8N5wlRR1hG+mmpgLe7WheVoBZ9r0EaB4pO6F29aT0WIa5fRFj1M9E4ld46ybe9Jzzxfx2t7V7nEMo/O89Qcpr7gX66bReR57pXnpgZpof/MfeMqOuxpNY6fKWUIKjRbJNIZFDoI5P8M8+dtj800wcr1prF/sOiaGPl2d67nYNkMw0hUs6ViYOVu2H25eu4ZY99cBjxXxpVoBXqO94vnF0Qot3zZXvi0proYnwB/sUY8XQomJ9q6ppTk=;Ee6Qu4vdT4oJSB586J8qxw=="
 ---
 

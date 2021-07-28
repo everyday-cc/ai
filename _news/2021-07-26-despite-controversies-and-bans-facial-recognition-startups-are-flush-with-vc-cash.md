@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/"
 type: article
 quality: 183
-heat: 213
+heat: 223
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1627364184066.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "China’s Top Court Rules Facial Recognition Without Consent Is Illegal in Civil Cases"
+    excerpt: "China’s Supreme People’s Court on Wednesday ruled in a judicial interpretation that using facial recognition technology without consent would violate law in civil cases, amid rising concerns about the technology’s misuse in public venues and residential compounds."
+    publishedDateTime: 2021-07-28T12:38:00Z
+    webUrl: "https://www.caixinglobal.com/2021-07-28/chinas-top-court-rules-facial-recognition-without-consent-is-illegal-in-civil-cases-101746900.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 32
+    images:
+      - url: "https://img.caixin.com/2021-07-28/1627455046564912_560_373.jpg"
+        width: 560
+        height: 373
         isCached: true
   - title: "Honor confirms its Honor Magic 3 will arrive with the Snapdragon 888 Plus, advanced facial recognition and more"
     excerpt: "Everything indicates that the new Honor Magic 3 will be the company’s first flagship after its recent sale by Huawei. The Chinese firm is already warming up the engines with various announcements before its official launch,"

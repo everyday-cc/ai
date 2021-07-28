@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-28T11:00:00Z
 originalUrl: "https://www.businessinsider.com/deep-genomics-pitchdeck-softbank-180-million-series-c-round-biotech-2021-7"
 webUrl: "https://www.businessinsider.com/deep-genomics-pitchdeck-softbank-180-million-series-c-round-biotech-2021-7"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/6100483ff350d50019593602?width=1200&format=jpeg"
@@ -60,6 +61,6 @@ related:
         height: 700
         isCached: true
 
-secured: "o3ou0cUkeK+/61gU9B8Qxar1CM7d5ECCsinUGUjuYn0EdPlsh9MgA3TlECnidDpU4DVycWCpMNhqO1HaZuBsEZx5Q5tpgZ7ZePJHg5I+ugAj97Oy3uu/JWsrrvsW93XncxGSzCLPMKJTohei1f1pbMqbj/uqLoe5+L/RiqsfXjxt/lerJvtCvHTTYG/zE7/IaXFjGq6ImGyEOsAlwT3WPepOmE0wpHLqMGpISWHJJiCZGyi8x9jXtOMxZINk046G3HP9C4ZsBKCmnp7XUD4YsvRqK6CWsGmFJZ/CV6xrE3grvtQcxwFU+smwZTqtovRfvZcGAikkzvzini5l0iExLWxM+qTkhIxyMSgG9TYQYzQ=;xTB68taubtV9jpxtGsX5IA=="
+secured: "+LXXDTP/b+jLgAsJ5EEsmysW9r4HEK+KbwG8pi3ZnHFTkW0nx3UZqX5wdDxxf2bsyZ2zfs1HkjurNceaiOgpwjnK6d/06XCTosXPVs1UjEWdgGADC7MvoR2T+7NswK06xXn9EIWIqVUj6vQsAcEiGvXb04/DFi957vPcC3T+UT2wOHjSqeNNJeLhovLKhdG09u32upJL1T0Htmn1+OtYAIFbCTS6z7cuC7H4Z4SkrImbO5hf4SWGKqLw2jl8+dAD8ppNJ0yrUxa7ywDqtUR8a7ZzDKmIZdwZiRnn+8m1y5kDKJTL2RogzOKxsch3Eyz+MKafnnL4T4YlP7prEtK5Ao2vzT+7twiQ/gXb9fMeMxa/SP3FmQhMzSspJYeIIYy0ZCyDk+zihdhgjITBa2SzHUuNSAww7Roe4MV9hKLOZ4i0fLCNQTMFITWsruj1TOc9niTiXVYtqA7oLG8RXMGVAr1DihqMa6yU83oJ3PImnyGNM428S2lOwvT7Q0cPrObW2h74YiguwIHkH4xnk7p1tg==;YY48b0EjRED19hPhbGNc5g=="
 ---
 

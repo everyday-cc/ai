@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "China's top court outlines facial recognition infringement"
+    excerpt: "ANN): China's top court issued a judicial interpretation on the handling of civil cases involving facial recognition on Wednesday (July 28), aiming to give stronger legal protection of personal information."
+    publishedDateTime: 2021-07-28T12:39:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/07/28/china039s-top-court-outlines-facial-recognition-infringement"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/07/28/1236614.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "6s8bWPl9HyQtDmsdhH60X9xUzlNVTobOYDmxN6nbNKYX9OvOWOB/xFslIrHlGVEzk1ARC333W6i1+642GjnePMa8DiFtJdRUTjDOQ+/4UCjrTnV9mpfdshmfzfHq9bcYcbB/T8f8ob6IMtkOQ0CPZFaN8vXPqSRyzXHJBGKvsaF/08vYOoAY4BVcQDhkZIxKp6IGgDM+st63Y8LTjnEm9sFvaJoiAcCeUWeNtEFBCFOwNseSnYfNEfuQ/ibIWgdy6iifhRKI0+hsieM1Hp0f1SBvI2qTR6wjNJ9ysbgG5wgw+5N74TxWkD4vGUpmPTVABmoi3pJ1q8/sdn4vZZ+rY+mKx3/8VizCfDpL9J5GNWw=;i3lJDTn2nRxYnHD8Y5snEQ=="
 ---

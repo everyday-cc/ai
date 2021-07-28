@@ -22,47 +22,19 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Deep Learning Market by Solutions & Services - Size, Share, Growth, Trends and Forecasts 2027"
-    excerpt: "Global Deep Learning Market Research Report- Forecast till 2027 The global deep learning market is growing at a rapid"
-    publishedDateTime: 2021-07-27T13:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-solutions-services---size-share-growth-trends-and-forecasts-2027-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Size, Key Company, Recent Trends, Segmentation and Regional Forecast till 2027"
-    excerpt: "The Global Artificial Intelligence Market to Touch USD 25 Billion at a 48% CAGR by 2023 North America to Dominate the"
-    publishedDateTime: 2021-07-27T13:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-key-company-recent-trends-segmentation-and-regional-forecast-till-2027-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice And Speech Recognition Software Market 2021: Can The Business Strategy Generate Sufficient Profits And Growth?"
-    excerpt: "Stratagem Market Insights has recently published a research report titled, “Global Voice And Speech Recognition Software Market Insights, Size, Share, Growth, Opportunities, Emerging Trends, Forecast to 2028”."
-    publishedDateTime: 2021-07-24T10:37:00Z
-    webUrl: "https://manometcurrent.com/voice-and-speech-recognition-software-market-2021-can-the-business-strategy-generate-sufficient-profits-and-growth/"
+  - title: "Machine Learning As A Service Market to Exhibit Promising Growth, Key Players – Amazon, Alibaba, Microsoftn."
+    excerpt: "Key Companies Operating in this Market Amazon Alibaba Microsoftn Oracle Tencent IBM Baidu Salesforce Google UCloud Heroku Rackspace Clustrix CSC (Computer Science Corporation) SAP AG Xeround Century Link Inc."
+    publishedDateTime: 2021-07-26T13:09:00Z
+    webUrl: "https://manometcurrent.com/machine-learning-as-a-service-market-to-exhibit-promising-growth-key-players-amazon-alibaba-microsoftn/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 16
+    quality: 20
     images:
-      - url: "https://marketnewstoday667356072.files.wordpress.com/2021/07/fdscx.gif"
-        width: 1200
-        height: 628
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/logo-1-300x225.jpg"
+        width: 300
+        height: 225
         isCached: true
 
 secured: "rNCdcoNg3rOXgsa2x3uQy6D+oD7XtzLdh7s/Ds8OfJgfKu12yq1DND/5G1UBMPUD7DvJkOP4DyLYRNFf7+sf1eMkYRZ0QK2hMpyDG7B+sUaZcF04Z5jTfeDABgiMPh3OP2SXF6WQIvLjt0iqwyrYX514ebI+6TQZ/MocdUPwmdKvL1c/va/hL8ouygrBLeMqayeMF098U+41pQW4+LSZDmVs1kXUcLnjl/oAz8VTgWlHtJTwlNU8V0sJPhF4VgMZ4fQ41Lwp6+9HmQmZpzPMey4E1b3XQ+kW3Umcza+vC4nY/p18Dm7XrvsBkAppE5C4j0rzmkZBZ66EspwfJB+LMz3M8VffGrqbgflWCij3xAw=;uhU+LHMhYRExeQHe4s+zFg=="

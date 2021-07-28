@@ -79,20 +79,6 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "New FinTech Innovations that Will Change How Clients View Wealth Management"
-    excerpt: "Innovations within FinTech are causing major changes to the dynamic between clients and wealth management providers. With technology as a driving force behind industry changes, understanding how client perspectives are shifting is crucial."
-    publishedDateTime: 2021-07-23T19:42:00Z
-    webUrl: "https://finchannel.com/new-fintech-innovations-that-will-change-how-clients-view-wealth-management/"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 22
-    images:
-      - url: "https://finchannel.com/wp-content/uploads/2018/08/images_fintech.jpg"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "ZtIgERK0Q95WgkowX4J35WCRQTl/9JArV9J4Mt31Mu7/a3pKAVtLqz5XTwFSG4hwAk2i01I5yjtDCMIIw2AHsqr8xYhUZGJJTuu8BVxkwwOHa31F8W7ThycXW+xIx8f7wdSrBt3YoWsvz4jpQ9G2bpjJzgXAU08SJEIGOmHPoaJah6wq7pcrtp6GyrMR4Ld9MMmASnTl+pr27q1CqshJbp2st61jL1MSxXHUsME3Zph2VLAFQl20gXiIfavgAeTN5E1Ty7kr0CjJ203AKI9RAVW5BAejDj+AUZ/fe0vvFI4nGjHyBrghLnLGiiwQ0qHJ+MDLN7tTxfqLxSfeN97b/j9YwCh4HhOet8HJAK+6Pjg=;NZYkFuEnLZUtoETvJpqZGg=="
 ---

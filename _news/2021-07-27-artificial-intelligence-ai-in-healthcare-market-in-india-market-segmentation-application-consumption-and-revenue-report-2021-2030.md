@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market 2021 Industry Size, Share, Growth, Outlook, Segmentation, Comprehensive Analysis by 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Manufacturing Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-07-27T05:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-2021-industry-size-share-growth-outlook-segmentation-comprehensive-analysis-by-2030-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Lq3VfFXcC7Cbcf4RP3udN12FgcTLiU0W/R4+cWH+YwmQ1JkF8l3TFk0ELrjvQos+1hQU6bdNj+tT4pTyri2WDYc+ZTWTJiB3Xeo6Yl+ylZKqgwGeX2YO4Mu9jMk8Jg1BLfBVouBSooKBNjgwQ1cRo3Kw9ZfDYAG457RaCy6mh13hqYxpWqXnDGpTiNb43jtKM9QSVt1NO/vdLOo8vpQHRx8XqpxAs5SwnLInccokGDKAYHJofJxvqrHxan/3L93nDpmWu0wH/WfuV9jx/DzT1NhnvdypbaxudMq79jieI1V4xxn1zdri3RjTiUuFZxa/Rw66IUyf86cnfUlOfQWCU/SDtxaCsXXS8umysMQAr+o=;ldWnSNy47aVDsuR4NpxChw=="
 ---

@@ -55,20 +55,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Faith in Self-Driving, Ride-Hailing Vehicles Depends on Age"
-    excerpt: "When self-driving cars first showed up, they were hailed as a way for seniors to remain active and independent without needed to be able to drive. After some initial skepticism by many, attitudes are changing,"
-    publishedDateTime: 2021-07-27T16:07:00Z
-    webUrl: "https://www.thedetroitbureau.com/2021/07/faith-in-self-driving-ride-hailing-vehicles-depends-on-age/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 39
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/07/NCOA-and-VW-study-graphic.jpg"
-        width: 1600
-        height: 1056
-        isCached: true
   - title: "General Motors sues Ford for violating trademarked driver-assist technology used for self-driving cars"
     excerpt: "The firm has taken the action to protect the Cruise and Super-Cruise brands following Ford Motors in April had renamed its Co-Pilot360 automated driving system as Blue Cruise. Despite the talks, consensus on the issue had been unsuccessful,"
     publishedDateTime: 2021-07-24T17:17:00Z
@@ -98,20 +84,6 @@ related:
       - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-bb-1200.jpg?itok=JdoLkruE"
         width: 470
         height: 246
-        isCached: true
-  - title: "Lyft travels to the future with new self-driving cars coming to Austin"
-    excerpt: "The Lyft ride-hailing service is traveling into a new era in Austin. Starting next year, Lyft customers in certain parts of Austin will be able to hire a self-driving car"
-    publishedDateTime: 2021-07-26T17:25:00Z
-    webUrl: "https://austin.culturemap.com/news/innovation/07-26-21-austin-passengers-soon-will-be-able-to-get-a-lift-in-a-self-driving-car/"
-    type: article
-    provider:
-      name: Culture Map Dallas
-      domain: culturemap.com
-    quality: 24
-    images:
-      - url: "https://res.cloudinary.com/culturemap-com/image/upload/ar_7:4,c_fill,g_faces:center,w_980/v1627319208/photos/322516_original.jpg"
-        width: 980
-        height: 560
         isCached: true
 
 secured: "WnA1y5980DMjmRBq68oWCIF73+RgUJydTuf92ggvZJMDX9yO6koIIo+RLzd9mlhPLdJz75zVDkYtAPP6H3tV6Ws4C3PvQ6U1R+T78ztWEyBQJbobbHMYTJv+rlUcwXRbpPwVxMz3uiReH41XtZgGULwxMGbVMZW13XpuCADCmvtju9MXb6XEitijc7Jd5z3cCore9cMQ27ctmPyJtRVeBzmJz1h41VvXmOyRLC+wA7OUwS/mQNiQEpdJ33qQDMEasy03h/83F92hf/+y7GNCAYMgZKsfI8SjUru2KFJAjYR5vA+UlLuvJyYey9GPmq9uiAn7Gy9v9tvpw0ZMaC0Xlfd73wtM/rZZJGSlEI/XrRHiun7cXW/SYpnVR+iSCKIvBYv2gCR3rbQ9F6MTp6PfkWjSqMTiyLTwhX+GKW/9yvEpEfzZiNgnJBhRYlaKhHYysdFyegKADkvMBNYNFdQsKbePlMbCawS0fESNdkmL35zdZM9WzxmiR9Iu0ZwlKErYpLwOL775/UgGO9nUN+ZkrQ==;ZImRqgJGCIffSIDUNS0o5w=="

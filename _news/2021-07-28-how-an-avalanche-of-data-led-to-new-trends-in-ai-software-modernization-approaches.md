@@ -46,6 +46,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Mastering The Art Of Extracting Data From Invoices Using AI And ML"
+    excerpt: "At some point, all invoices will become digital. Until then, the need to handle paper-based invoices and extract data from both paper and digital invoices without human involvement is critical for enterprises to truly transform."
+    publishedDateTime: 2021-07-28T13:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6066004147c9e239227de9bc%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "An AI Road Map Starts With Data"
     excerpt: "AI should be a priority for businesses. However, this game-changing set of technologies requires a solid data foundation, and businesses need to bolster their data engineering capabilities before they take on AI initiatives."
     publishedDateTime: 2021-07-27T11:20:00Z
@@ -137,6 +153,6 @@ related:
         height: 408
         isCached: true
 
-secured: "dY6OsAphyh7gsDsU6Iey3R9Wp3RpoteaICnWsd6ykan77gpDry06lggfc8GTO/MhrTBEVADYZHXcYBUOt2XAyFCvY+1cW0YdvpIL8eiSuFrO0hv3H/ZU8sv72kL+Svrb0h6eKZ8NhgNP46VSwQsmB9b5dIvDqrxIpwOD+7CpKU09om6qyZRSrRaM7zScNACWDL7wqu1bQOymybmL9hKnxVqVtu4ZcmPJzVflGKXgestUpr1kitD0E4h5f5HvN3Ut358Wzv3aiEJVAsZXtYYZncwLzdgHnf0/Rn9h5GkmvHsjIhbGyoyD/MJRYznjSUzRFeu8dOxhcvTbgqyc83QVEtLo+cdiEGWlbMIOoQiJNP4=;j3R5AW3WBGdNQA8m0W/VjA=="
+secured: "aCVl069EEMz6uY9nkd5kpimS2CHoWNX6nC9CYQomN120y/vSHuQZ3mutkG1yJgJIWA5JCHz0ch+MCv2ullLToWg6D+InJqCRzwlPMcazxLJHXzmltuqV6fU8o3aJ4GMDacle+Jd465n1tie+OadVDTWDEb2I9NNizQ55zH7+/hMD4DDG0hhOkwdLaclD+cc8S3vNBXcXnONbOIck33tA0LopntnXgMsk7SvY2DO1797ehUtxkwUuScajpryhamJc1PjoF0vL2/qoVtPKG1dwsqBL5zE3Mu5nlrzSZVAWpaY4fBu3ofCcmu9+Hr/uy047NMMSoiI2eL5gzGo+rL7E59vGXxBrXbmkwwwb8+XnGbT6eNT04EfEoC61EmaUlpQrGVnIG38EHAxN2yVIr+4NOM4gHM8kcvlSqKwrqAs0ihGrt9r3Iv2iy4xEqf8B/UlGIFG5cn023pJW/HVqsbTpCodKiRlPbFWZSVBAeDKLwDDe5O6YPvpdD0xZF7+60WbiW8j1SIHFeJjEngondSCdXg==;uIugI1RzObr21uP0QiCiBA=="
 ---
 

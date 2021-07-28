@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Renesas and Syntiant develop voice-controlled multimodal AI solution combining advanced vision and voice technologies"
-excerpt: "Renesas Electronics Corporation, a premier supplier of advanced semiconductor solutions, and Syntiant Corp., a deep learning chip technology company advancing low-power intelligent voice and sensor processing in edge devices,"
-publishedDateTime: 2021-07-28T11:46:00Z
-originalUrl: "https://www.iotglobalnetwork.com/iotdir/2021/07/28/renesas-and-syntiant-develop-voice-controlled-multimodal-ai-solution-combining-advanced-vision-and-voice-technologies-31956/"
-webUrl: "https://www.iotglobalnetwork.com/iotdir/2021/07/28/renesas-and-syntiant-develop-voice-controlled-multimodal-ai-solution-combining-advanced-vision-and-voice-technologies-31956/"
+title: "Renesas and Syntiant Develop Voice-Controlled Multimodal AI Solution Combining Advanced Vision and Voice Technologies"
+excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Syntiant Corp., a deep learning chip technology company advancing low-power intelligent voice and sensor processing in edge devices,"
+publishedDateTime: 2021-07-28T12:02:00Z
+originalUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-and-syntiant-develop-voice-controlled-multimodal-ai-solution-combining-advanced-vision-and-voice-technologies/article_4da26d15-32af-5419-b147-3c7fe0188f1b.html"
+webUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-and-syntiant-develop-voice-controlled-multimodal-ai-solution-combining-advanced-vision-and-voice-technologies/article_4da26d15-32af-5419-b147-3c7fe0188f1b.html"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: iotglobalnetwork.com
-  domain: iotglobalnetwork.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
-  - url: "https://www.iotglobalnetwork.com/public/img/product/9d909d7408ce0b8acfd785e84e26b096.jpg"
-    width: 750
-    height: 556
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/8d/28df0e71-89c1-591f-94f0-011a1d890d1d/61014a7f7341a.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -40,6 +41,6 @@ related:
         height: 303
         isCached: true
 
-secured: "mL/MU1kAQEOrKI9vGj8/9ryFglkSnxritnYAvpdCjugK31C7N7y1V+6Ywxz7koiEpvX0kP8OIkPBILbR2fIruxo0eToLC82HNty4qYQG25nuUJKIzOap2tNMRujJl+89MLLm0mNp/fXAamrDUzyTQp0VcnWf76LsPpuwpNZHqge89ig5hQX+S6GdtI4zhMHmoODZ51lH1BPbUWmJxsiKroly3XZ404J5mrJEoJuYkkw7xP83zi8r65m3Ey5p7D7kuPOQaik9Ui+W7k8qQM5G31W2O/EGs3vd4/AgMBv6cVmI4tCXLAaEI8jexzQFZ/R2uBWvm1mwHAVRZtcI87eETiWV34Ss5MZOMxpLILwhmMM=;NMvbKksu+0mVHyYXcQNwCA=="
+secured: "J45TyiO7mDy9Yst4mtBTKn4Ji8kR0LJ8WeQc0Q67Qs75Mw4ptPtTXo9TYRN/plNngABI+s2/qzeIDZ+jF35PNHl0MJawAOK/bnyPAZbGX7skko5HRPKmudWT6rKOZiEZJEkxeTGyzuxQ8fIW4LpxUNUgEpq80eED+OceOIAi6wI6mg7Lu9/MiQytMIAcJkvAsbezumSMB61BVzoEWzsk9Gs2eGNojqOKl4yBVgLZSxwC9VT8FeOuawAoYXgy5yM6R/wWMezFFbVU09ZIPRCDtSkVVx9qPxmsuQvf7aAZ9/c2mCL0Hz4B228GP10QCi4E5DNLgQ7I07J4+EATlk/6QlkjUYOkR5wdXA/fwJejYlM=;T4tOeJJQO1rcZIhvYbT4pw=="
 ---
 

@@ -55,20 +55,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Faith in Self-Driving, Ride-Hailing Vehicles Depends on Age"
-    excerpt: "When self-driving cars first showed up, they were hailed as a way for seniors to remain active and independent without needed to be able to drive. After some initial skepticism by many, attitudes are changing,"
-    publishedDateTime: 2021-07-27T16:07:00Z
-    webUrl: "https://www.thedetroitbureau.com/2021/07/faith-in-self-driving-ride-hailing-vehicles-depends-on-age/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 39
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/07/NCOA-and-VW-study-graphic.jpg"
-        width: 1600
-        height: 1056
-        isCached: true
   - title: "General Motors sues Ford for violating trademarked driver-assist technology used for self-driving cars"
     excerpt: "The firm has taken the action to protect the Cruise and Super-Cruise brands following Ford Motors in April had renamed its Co-Pilot360 automated driving system as Blue Cruise. Despite the talks, consensus on the issue had been unsuccessful,"
     publishedDateTime: 2021-07-24T17:17:00Z
@@ -98,20 +84,6 @@ related:
       - url: "https://images.hgmsites.net/hug/porsche-renndienst-study_100800578_h.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Lyft travels to the future with new self-driving cars coming to Austin"
-    excerpt: "The Lyft ride-hailing service is traveling into a new era in Austin. Starting next year, Lyft customers in certain parts of Austin will be able to hire a self-driving car"
-    publishedDateTime: 2021-07-26T17:25:00Z
-    webUrl: "https://austin.culturemap.com/news/innovation/07-26-21-austin-passengers-soon-will-be-able-to-get-a-lift-in-a-self-driving-car/"
-    type: article
-    provider:
-      name: Culture Map Dallas
-      domain: culturemap.com
-    quality: 24
-    images:
-      - url: "https://res.cloudinary.com/culturemap-com/image/upload/ar_7:4,c_fill,g_faces:center,w_980/v1627319208/photos/322516_original.jpg"
-        width: 980
-        height: 560
         isCached: true
 
 secured: "EzHmbF2fRX2jz8M94C/9kDmbhvpknEwapc2bOBeyZZT3XI750KobXFwG58GlwOq1zNmyDjQlc8DpOp0zNYfcIcqLgGeG0/HdHM4SlvwjInVkwK1YbtdCm3bgVlH2qTaS4ZZfjH/PcWUFVLsMwDYeRqxEhVVXiJarFfJRk/1kaj1B/kNyfciC65lJuEIslYy+ovuCNzXMRefZDBx0lAsT21qUyU3AI9NzryXO+AFSvU4hEgBnAs3gCdmZ2xpzCOgJqrt1NYs8ufz/mKWhSn2M7cQdBhWnq4jZv5/olDCbbahEzuOirJFGaQcO6KS+NZSAc8VXzVFafn+FnGKTMsgFfekQBI8hMBqnoF5/QcQ1LAx1DUYfivg7Ym4Vs0ODTEayNALoLO5OrwceDNmrgbuI9eQskDwdzZnLLVZzFG4Qs2WrEY1SIdeYEJ0sSsWpZcbuy+b3yETC7l6NjUwO5w28U3M4R4OmTylwyjOqr9H/CqiEh/37/I/U7fb2hMD9LJ1BUTXY4SyGp89E/m0EfiyTiA==;2SOAlA6Q9KKVG1icXL/K7Q=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-solutions-services---size-share-growth-trends-and-forecasts-2027-2021-07-27"
 type: article
 quality: 58
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,6 +29,45 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Computer Vision Market Trends and Forecast 2028"
+    excerpt: "The Global AI in Computer Vision Market is estimated to value over USD 72.5 billion by 2028 finish at a CAGR of"
+    publishedDateTime: 2021-07-28T12:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-trends-and-forecast-2028-2021-07-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market Latest Report 2021, with Size, Status, Value, Sales and Forecast to 2027"
+    excerpt: "Artificial Intelligence in Drug Discovery Market” share is expected to develop speedily in all development areas over"
+    publishedDateTime: 2021-07-26T06:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-latest-report-2021-with-size-status-value-sales-and-forecast-to-2027-2021-07-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Chip Market 2021 Size, Growth Analysis Report, Forecast to 2027"
+    excerpt: "The Global Deep Learning Chip Market size is expected to reach 24 5 billion by 2027 rising at a market growth of 37 CAGR during the forecast period 2021 2027 Deep learning is a subset of machine learning a subset"
+    publishedDateTime: 2021-07-28T08:24:00Z
+    webUrl: "https://www.openpr.com/news/2339349/deep-learning-chip-market-2021-size-growth-analysis-report"
+    ampWebUrl: "https://www.openpr.com/amp/2339349/deep-learning-chip-market-2021-size-growth-analysis-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339349/deep-learning-chip-market-2021-size-growth-analysis-report"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
   - title: "Artificial Intelligence Market Size, Key Company, Recent Trends, Segmentation and Regional Forecast till 2027"
     excerpt: "The Global Artificial Intelligence Market to Touch USD 25 Billion at a 48% CAGR by 2023 North America to Dominate the"
     publishedDateTime: 2021-07-27T13:24:00Z
@@ -43,31 +82,91 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Media Market Trends, Revenue, Major Players, Share Analysis & Forecast Till 2026 | Top Key Players – Microsoft, Google, AWS, Adobe, etc"
-    excerpt: "The Global Cognitive Media Market is forecast to reach USD 3.31 Billion by 2026, according to a new report by Reports and Data. Cognitive media includes the usage of cognitive computing technologies for the media and entertainment enterprise."
-    publishedDateTime: 2021-07-27T14:17:00Z
-    webUrl: "https://www.globalbankingandfinance.com/cognitive-media-market-trends-revenue-major-players-share-analysis-forecast-till-2026-top-key-players-microsoft-google-aws-adobe-etc/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-media-market-trends-revenue-major-players-share-analysis-forecast-till-2026-top-key-players-microsoft-google-aws-adobe-etc/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-media-market-trends-revenue-major-players-share-analysis-forecast-till-2026-top-key-players-microsoft-google-aws-adobe-etc/"
+  - title: "Latest Artificial Intelligence Trends for Enterprises"
+    excerpt: "Artificial Intelligence technology is developing for better enterprise processes and user convenience. These latest AI trends are aligning AI into the right direction."
+    publishedDateTime: 2021-07-27T04:15:00Z
+    webUrl: "https://www.analyticsinsight.net/latest-artificial-intelligence-trends-for-enterprises/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 19
-  - title: "Voice And Speech Recognition Software Market 2021: Can The Business Strategy Generate Sufficient Profits And Growth?"
-    excerpt: "Stratagem Market Insights has recently published a research report titled, “Global Voice And Speech Recognition Software Market Insights, Size, Share, Growth, Opportunities, Emerging Trends, Forecast to 2028”."
-    publishedDateTime: 2021-07-24T10:37:00Z
-    webUrl: "https://manometcurrent.com/voice-and-speech-recognition-software-market-2021-can-the-business-strategy-generate-sufficient-profits-and-growth/"
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 41
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-4.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market 2021 Industry Size, Share, Growth, Outlook, Segmentation, Comprehensive Analysis by 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Manufacturing Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-07-27T05:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-2021-industry-size-share-growth-outlook-segmentation-comprehensive-analysis-by-2030-2021-07-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market"
+    excerpt: "The Artificial Intelligence (AI) in Automotive Market is expected to be valued at USD XX Million in 2020 and is expected to reach USD 10,573.3 Million by 2027, at a CAGR of 38.46% during the forecast period."
+    publishedDateTime: 2021-07-26T17:55:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-automotive-market-2021-analysis-as-corona-virus-outbreak-disturbs-investment-plans-harman-international-industries-honda-motor-co-ltd-ibm-corporation/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 16
+    quality: 34
+  - title: "Cognitive Computing Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
+    excerpt: "The global “Cognitive Computing Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-07-28T08:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
-      - url: "https://marketnewstoday667356072.files.wordpress.com/2021/07/fdscx.gif"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Retail and e-Commerce Market : Information, Figures and Analytical Insights size 2025"
+    excerpt: "Report Pages] Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product. The retail sector has become much more diverse because every customer has different and customized needs,"
+    publishedDateTime: 2021-07-26T20:14:00Z
+    webUrl: "https://www.pr-inside.com/ai-in-retail-and-e-commerce-market-information-figures-and-analytical-insights-size-r4840488.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 29
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
         width: 1200
         height: 628
         isCached: true
+  - title: "Artificial Intelligence In Betting Market, Growth Analysis, Latest Trends and Forecast till 2027"
+    excerpt: "Machine learning is one of the smartest techniques for categorization and forecasting that has demonstrated promising outcomes Because of the enormous amount of money involved in betting sports prediction is one of the fastest growing industries needing excellent forecast accuracy"
+    publishedDateTime: 2021-07-26T16:14:00Z
+    webUrl: "https://www.openpr.com/news/2337464/artificial-intelligence-in-betting-market-growth-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2337464/artificial-intelligence-in-betting-market-growth-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337464/artificial-intelligence-in-betting-market-growth-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
+  - title: "Global Artificial Intelligence in Retail Market 2021 – Top Manufacturers, Latest Trends, Future Prospects and Forecast 2026"
+    excerpt: "Global Artificial Intelligence in Retail Market 2021 by Company, Regions, Type and Application, Forecast to 2026 announced by MarketQuest.biz gives a severe thought regarding the various factors and patterns influencing the improvement graph of the worldwide market."
+    publishedDateTime: 2021-07-27T13:12:00Z
+    webUrl: "https://ipsnews.net/business/2021/07/27/global-artificial-intelligence-in-retail-market-2021-top-manufacturers-latest-trends-future-prospects-and-forecast-2026/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 6
 
 secured: "Z6E/TtsGfo1ttcLN0G5EMbMrjwB9APEEMNsC3iQM/H+qNZf6VtkXvOzeb+1E37sWra7CgDpM878VKbHcb45OWC5iMN7uVcVmGZXBLwjPuBmDaTKYY052iquDiZrYMhmvh2o/BGLAO4uk57FgMOET4eTyy8SP7bUefwWYtimDiXJalxB3V6m6IwfvDV2ORjuunLk2qr0Y3aHGP5wSKLge/FHnxRlJuCv1siuRsi4CaE6hMxkCZ2o2Zb8yDFLTNtKfI/2TilreyEGZOS0pmgVEFxGrRMYdHlWuvzU0i6xYi/xElsyUowa+FWy1x2OMMgfNTS/4yqWWbqqj3tm1YF+X+Y6HZiLjdtrSRzeYqWyd04o=;Rr7EHkMw7q0CkX2un1u8YQ=="
 ---

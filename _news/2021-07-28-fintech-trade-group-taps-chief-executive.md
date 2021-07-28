@@ -71,20 +71,6 @@ related:
         width: 1379
         height: 920
         isCached: true
-  - title: "New FinTech Innovations that Will Change How Clients View Wealth Management"
-    excerpt: "Innovations within FinTech are causing major changes to the dynamic between clients and wealth management providers. With technology as a driving force behind industry changes, understanding how client perspectives are shifting is crucial."
-    publishedDateTime: 2021-07-23T19:42:00Z
-    webUrl: "https://finchannel.com/new-fintech-innovations-that-will-change-how-clients-view-wealth-management/"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 22
-    images:
-      - url: "https://finchannel.com/wp-content/uploads/2018/08/images_fintech.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Virtual partners have a growing role in the fintech space"
     excerpt: "Future-proofing fintech? We caught up with Will Marwick, CEO of the global fintech company IFX Payments to find out more"
     publishedDateTime: 2021-07-25T13:25:00Z

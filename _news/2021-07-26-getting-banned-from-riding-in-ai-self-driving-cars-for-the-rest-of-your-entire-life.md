@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-
 webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-from-riding-in-ai-self-driving-cars-for-the-rest-of-your-entire-life/"
 type: article
 quality: 63
-heat: 123
+heat: 103
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://images.livemint.com/img/2021/07/24/600x338/968f78bb72fe47ebafe65fecc6da123c-968f78bb72fe47ebafe65fecc6da123c-0_1611854998352_1611855018494_1627148264064.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Faith in Self-Driving, Ride-Hailing Vehicles Depends on Age"
-    excerpt: "When self-driving cars first showed up, they were hailed as a way for seniors to remain active and independent without needed to be able to drive. After some initial skepticism by many, attitudes are changing,"
-    publishedDateTime: 2021-07-27T16:07:00Z
-    webUrl: "https://www.thedetroitbureau.com/2021/07/faith-in-self-driving-ride-hailing-vehicles-depends-on-age/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 39
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/07/NCOA-and-VW-study-graphic.jpg"
-        width: 1600
-        height: 1056
         isCached: true
   - title: "General Motors sues Ford for violating trademarked driver-assist technology used for self-driving cars"
     excerpt: "The firm has taken the action to protect the Cruise and Super-Cruise brands following Ford Motors in April had renamed its Co-Pilot360 automated driving system as Blue Cruise. Despite the talks, consensus on the issue had been unsuccessful,"
@@ -102,20 +88,6 @@ related:
       - url: "https://images.hgmsites.net/hug/porsche-renndienst-study_100800578_h.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Lyft travels to the future with new self-driving cars coming to Austin"
-    excerpt: "The Lyft ride-hailing service is traveling into a new era in Austin. Starting next year, Lyft customers in certain parts of Austin will be able to hire a self-driving car"
-    publishedDateTime: 2021-07-26T17:25:00Z
-    webUrl: "https://austin.culturemap.com/news/innovation/07-26-21-austin-passengers-soon-will-be-able-to-get-a-lift-in-a-self-driving-car/"
-    type: article
-    provider:
-      name: Culture Map Dallas
-      domain: culturemap.com
-    quality: 24
-    images:
-      - url: "https://res.cloudinary.com/culturemap-com/image/upload/ar_7:4,c_fill,g_faces:center,w_980/v1627319208/photos/322516_original.jpg"
-        width: 980
-        height: 560
         isCached: true
 
 secured: "Lh0XbKMbpGH0/B/5xqxR7gVL+GD5m1stwMXtwzMGJMYEAnpxGx9CNaRTl42lWM9rZc8oizZ4WKulwBKMU+6hLBeS3GSs9XFyQOgztaRv+4vwgiSrzrJBS80hPpYQH3FJnxwLQ3ycDrplw71GjtaBrwbcJdZevx0YIA+NbmhcvA/R7wlpNvpNHNb0BHmxEAJVlQKftR/XPQrlzVNNRcKMyPigAHjV2aGtNcq7gXTIEm2veD7+cQqiFG4+Sid3bOA7JR4T5DmCqz0p61nmum+JP7YdvCTu8qCOsYVVxEMQaeUVbzS7OS82DzL0jeel91vE/mJnPzdrVOdd3RrXjf4OFz4SMqopRfbHKdsyLYqgmhxDsysdbRSXz0hHoltpVA9m3TuWqhKo2kzd2b82vWCrH5WA4h9Z5GPoWVxRRh7dkeZuWYUVphe5fkA/sNn0PgqVdBJnQ6OCBAs2D7cRl8j9Zt8ODXCLS/9vs1k2UjUl9wh8REQxEdlk/37jzSipgLJmlCHQF7aUy05OCgShDuTATg==;VXHiK6Z67Sho5b8S9FAlXQ=="

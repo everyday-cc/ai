@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind unlocks the protein secrets of life"
-    excerpt: "Demis Hassabis stunned the world of science this week when he and his research team opened a window into how life works.The British artificial intelligence pioneer, 44, revealed an AI system that had"
-    publishedDateTime: 2021-07-23T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/3b2ffd68-ebe2-11eb-baaa-861dba20d87a?shareToken=309a4275db20223c3a288274449c8dbb"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb0859926-ebb8-11eb-baaa-861dba20d87a.jpg?crop=4167%2C2344%2C0%2C0&resize=685"
-        width: 685
-        height: 385
-        isCached: true
   - title: "The Times view on DeepMind’s scientific revolution: Protein Power"
     excerpt: "The universe is vast yet it is comprehensible. The human mind is able to gain knowledge of it through science. A potentially historic example emerged this week with news that British researchers from"
     publishedDateTime: 2021-07-23T23:01:00Z
@@ -80,20 +66,6 @@ related:
       - url: "https://pharmaphorum.com/wp-content/uploads/2021/07/AlphaFold.jpg"
         width: 840
         height: 473
-        isCached: true
-  - title: "DeepMind Launches Evaluation Suite For Multi-Agent Reinforcement Learning"
-    excerpt: "DeepMind has introduced a scalable evaluation suite for multi-agent reinforcement learning called Melting Pot."
-    publishedDateTime: 2021-07-27T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-launches-evaluation-suite-for-multi-agent-reinforcement-learning/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/DeepMind_AIM.gif"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "seGtkh7ktNxsFI5gSqbg6Y9IZhjXqxc0xpyO4OY2U53XNfODqKgzFkn7wQbpgYsIkJsL+vGxg14V5Q42ntfR+xKlvrLrLnr/vJJEzMeh6b2i4guVVjP/+mJylJ4iJwCh4xMwg6ZM8uElDBEJvTDQVyzShKj4BU17EK68aaJf3kNY2fBi+P2ixaFyXb1Ie9C2OO5BrsVBtFgUpunbyYOeXkvoT7lvwypNWpGUkhcM8EJ7DrgQo7OyPOnTri0pl3Hf+9gg4rBCUL5iYIodl0Aoj5/D//db+KaTk0PqkBlkFQysqgSoK3i9R253D/VJY7RzUGp3Srji3QjLIv4FLASsji+3YhZ9KTWfLJnv4B/D9hk5sdggNcN/E1/yPsELXxO99rv2dxUOUtHBIZcuCaQ43ElFgZMAUGgawMga7liakDvhXQmYwVs51G+286pLlNOQPCMxnBN6C/w0CR7S1+o+OfNHetxCaldPkmKF562hxr1fwhffsBLysmsoPObLZLF2leSQXvNxZv9nRWKh5GF3WA==;aFMrC4/Sg71t4ViDjwNXfQ=="

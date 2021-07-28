@@ -25,35 +25,101 @@ images:
     isCached: true
 
 related:
-  - title: "Getting Banned From Riding In AI Self-Driving Cars For The Rest Of Your Entire Life"
-    excerpt: "Expect to see a ban or no-fly type of list being developed for unruly passengers that ride in self-driving cars. This can be stridently enforced, though might not pass muster judiciously or societally."
-    publishedDateTime: 2021-07-26T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-from-riding-in-ai-self-driving-cars-for-the-rest-of-your-entire-life/"
+  - title: "Elon Musk Sure Didn't Sound Certain About Full Self-Driving On Tesla's Earnings Call"
+    excerpt: "We need to make full self-driving work in order for it to be a compelling value proposition. Tesla has been selling this service for years now, and Elon is saying that for it to be a “compelling value,"
+    publishedDateTime: 2021-07-27T17:23:00Z
+    webUrl: "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575"
+    ampWebUrl: "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 67
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fcb2b2de2f157548bccd31%2F0x0.jpg%3FcropX1%3D107%26cropX2%3D3560%26cropY1%3D0%26cropY2%3D2301"
-        width: 1200
-        height: 800
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ee737fe843edf4adbb818837ad3846ca.png"
+        width: 800
+        height: 449
         isCached: true
-  - title: "GM sues Ford in fight over branding of self-driving cars"
-    excerpt: "The automaker’s taking action to protect the Cruise and Super-Cruise brands after Ford in April renamed its Co-Pilot360 automated driving system as Blue Cruise, GM said in court documents filed Friday."
-    publishedDateTime: 2021-07-24T17:39:00Z
-    webUrl: "https://www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars-11627148192240.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars/amp-11627148192240.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars/amp-11627148192240.html"
+  - title: "Tesla's Full Self-Driving Feature Mistakes Moon For Yellow Traffic Light"
+    excerpt: "We all know that werewolves and ocean tides are both impacted by the moon, but we can add another item to the list: Tesla’s Full Self-Driving feature, which is the company’s NHTSA Level 2 driver assistance feature."
+    publishedDateTime: 2021-07-24T15:00:00Z
+    webUrl: "https://jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050"
+    ampWebUrl: "https://jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050/amp"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 58
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/4a926b63004284a3bcd53207f9206069.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "The Moon Tricks Tesla's Full Self-Driving Feature Into Thinking It's a Yellow Light"
+    excerpt: "Tesla recently announced that any Tesla user can subscribe to Autopilot’s Full Self-Driving feature for $99 to $199 per month, but it seems the new feature still comes with its fair share of kinks. Recently a Tesla driver took to Twitter to share an entertaining little problem with the system."
+    publishedDateTime: 2021-07-25T13:41:00Z
+    webUrl: "https://interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
+    ampWebUrl: "https://amp.interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 53
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/M3OeNjerGN/sizes/yellow-moon_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
+  - title: "Elon Musk knocked Apple, bemoaned the microchip shortage, and touted self-driving cars on Tesla's Q2 earnings call. Here are the 12 best quotes."
+    excerpt: "Musk underscored the huge challenges of large-scale manufacturing, and suggested he might not feature on every Tesla earnings call in future."
+    publishedDateTime: 2021-07-27T12:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/elon-musk-tesla-earnings-apple-microchip-shortage-self-driving-cars-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-earnings-apple-microchip-shortage-self-driving-cars-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-earnings-apple-microchip-shortage-self-driving-cars-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/60b0d85b02ac410018f934fd?width=1200&format=jpeg"
+        width: 1200
+        height: 599
+        isCached: true
+  - title: "Tesla's Full Self-Driving Autopilot Feature Mistakes Moon For Yellow Traffic Light; WATCH"
+    excerpt: "Elon Musk-introduced cars are renowned for their advanced autopilot features that allow people to manoeuvre vehicles without being behind Tesla car's wheels."
+    publishedDateTime: 2021-07-25T17:24:00Z
+    webUrl: "https://www.republicworld.com/entertainment-news/whats-viral/teslas-full-self-driving-autopilot-feature-mistakes-moon-for-yellow-traffic-light-watch.html"
+    ampWebUrl: "https://www.republicworld.com/amp/entertainment-news/whats-viral/teslas-full-self-driving-autopilot-feature-mistakes-moon-for-yellow-traffic-light-watch.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/entertainment-news/whats-viral/teslas-full-self-driving-autopilot-feature-mistakes-moon-for-yellow-traffic-light-watch.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 50
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/p3icskzagaaoa6bv_1627229963.jpeg"
+        width: 768
+        height: 438
+        isCached: true
+  - title: "Elon Musk Slams Apple As Tech Giant’s Self-Driving Car Project Looms"
+    excerpt: "Elon Musk bashed Apple, not once, but twice, during an earnings call with investors, making it clear there is a rivalry with the companies."
+    publishedDateTime: 2021-07-27T16:24:00Z
+    webUrl: "https://www.ibtimes.com/elon-musk-slams-apple-tech-giants-self-driving-car-project-looms-3260742"
+    ampWebUrl: "https://www.ibtimes.com/elon-musk-slams-apple-tech-giants-self-driving-car-project-looms-3260742?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/elon-musk-slams-apple-tech-giants-self-driving-car-project-looms-3260742?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
     quality: 44
     images:
-      - url: "https://images.livemint.com/img/2021/07/24/600x338/968f78bb72fe47ebafe65fecc6da123c-968f78bb72fe47ebafe65fecc6da123c-0_1611854998352_1611855018494_1627148264064.jpg"
-        width: 600
-        height: 338
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/02/19/gettyimages-477483954.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Faith in Self-Driving, Ride-Hailing Vehicles Depends on Age"
     excerpt: "When self-driving cars first showed up, they were hailed as a way for seniors to remain active and independent without needed to be able to drive. After some initial skepticism by many, attitudes are changing,"
@@ -69,49 +135,19 @@ related:
         width: 1600
         height: 1056
         isCached: true
-  - title: "General Motors sues Ford for violating trademarked driver-assist technology used for self-driving cars"
-    excerpt: "The firm has taken the action to protect the Cruise and Super-Cruise brands following Ford Motors in April had renamed its Co-Pilot360 automated driving system as Blue Cruise. Despite the talks, consensus on the issue had been unsuccessful,"
-    publishedDateTime: 2021-07-24T17:17:00Z
-    webUrl: "https://www.moneycontrol.com/news/automobile/general-motors-sues-ford-for-violating-trademarked-driver-assist-technology-used-for-self-driving-cars-7218861.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/automobile/general-motors-sues-ford-for-violating-trademarked-driver-assist-technology-used-for-self-driving-cars-7218861.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/automobile/general-motors-sues-ford-for-violating-trademarked-driver-assist-technology-used-for-self-driving-cars-7218861.html/amp"
+  - title: "Elon Musk Just Now Realizing That Self-Driving Cars are a ‘Hard Problem’"
+    excerpt: "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say, “No duh."
+    publishedDateTime: 2021-07-28T13:10:00Z
+    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/elon-musk-just-now-realizing-that-self-driving-cars-are-a-hard-problem/12221/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 28
+      name: Predictive Analytics World
+      domain: predictiveanalyticsworld.com
+    quality: 23
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2018/11/General-Motors-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
-  - title: "GM Sues Ford in Fight Over Branding of Self-Driving Cars"
-    excerpt: "General Motors Co. is suing its competitor Ford Motor Co. for violating a trademarked driver-assist technology that’s used for hands-free features, according to a lawsuit."
-    publishedDateTime: 2021-07-26T14:45:00Z
-    webUrl: "https://www.ttnews.com/articles/gm-sues-ford-fight-over-branding-self-driving-cars"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-bb-1200.jpg?itok=JdoLkruE"
-        width: 470
-        height: 246
-        isCached: true
-  - title: "Porsche imagines an interior for self-driving cars"
-    excerpt: "Comment Now! Porsche on Monday unveiled a previously-hidden concept for the interior of a self-driving car. That futuristic interior is housed not"
-    publishedDateTime: 2021-07-26T15:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1133010_porsche-imagines-an-interior-for-self-driving-cars"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/porsche-renndienst-study_100800578_h.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/05/MSDS_270x270_LM.gif"
+        width: 270
+        height: 270
         isCached: true
 
 secured: "w6NEGAvt6Nfhy54oXe6/tjg82dHNvOZZpXpqxrAVjh0mt3zuX+XW6yCFGo3xW2r1j2I6eRyFbPaTI5FUiViB2pH+ijpw7BG5Tr7enaHnxmOog6qvVVmfKFYJgY9omZAl2gSAjrroo0i5DzzMJ5F/MLIDSz3OYl4RTYWLbDUx6cNa++HUrhZcnRHOqnpSHCNtS2K7Tk8h2s13DBr/eLOtT8AZ9+JQo+yRxHsAVq+tRA+kZ6/8tjfq3wUYAicM/UE9XcF1CVK3d41iAajLuTmYY/1nkC+p5quQ1m91L+ESJfAUScO4+q9u2wU84BPRlRTgPF0E2TpaWPRdESaTOxctXfGqHSYE5VWaXFMb2y94yXf9N//fgLLt77MbaspQ7XVlCOUGdub6xtx/5AfyIqVWBN7DFAudEsRzzUnrC4l7ZvSGRAsLfxZqxqq7ud4PumwNonNLyutVUOdaqhch9yBTTRdDp5XBW05lgg65OGYoqnmX0WG1VTmuNgE/9getItC0sOL6KZYcX3HpYxUhz/ubFA==;ZrtTQFxscA3SiGrMKCuNSg=="

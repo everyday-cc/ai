@@ -55,6 +55,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "China’s Top Court Rules Facial Recognition Without Consent Is Illegal in Civil Cases"
+    excerpt: "China’s Supreme People’s Court on Wednesday ruled in a judicial interpretation that using facial recognition technology without consent would violate law in civil cases, amid rising concerns about the technology’s misuse in public venues and residential compounds."
+    publishedDateTime: 2021-07-28T12:38:00Z
+    webUrl: "https://www.caixinglobal.com/2021-07-28/chinas-top-court-rules-facial-recognition-without-consent-is-illegal-in-civil-cases-101746900.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 32
+    images:
+      - url: "https://img.caixin.com/2021-07-28/1627455046564912_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
   - title: "Oi Solucoes wins facial recognition contract in Bahia"
     excerpt: "Brazilian company Oi Solucoes has won a contract to provide facial and number plate recognition services for the capital Salvador and 77 other cities in the state of Bahia, reports"
     publishedDateTime: 2021-07-28T11:26:00Z

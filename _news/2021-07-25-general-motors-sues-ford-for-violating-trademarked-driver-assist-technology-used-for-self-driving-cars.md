@@ -57,20 +57,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Faith in Self-Driving, Ride-Hailing Vehicles Depends on Age"
-    excerpt: "When self-driving cars first showed up, they were hailed as a way for seniors to remain active and independent without needed to be able to drive. After some initial skepticism by many, attitudes are changing,"
-    publishedDateTime: 2021-07-27T16:07:00Z
-    webUrl: "https://www.thedetroitbureau.com/2021/07/faith-in-self-driving-ride-hailing-vehicles-depends-on-age/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 39
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/07/NCOA-and-VW-study-graphic.jpg"
-        width: 1600
-        height: 1056
-        isCached: true
   - title: "GM Sues Ford in Fight Over Branding of Self-Driving Cars"
     excerpt: "General Motors Co. is suing its competitor Ford Motor Co. for violating a trademarked driver-assist technology that’s used for hands-free features, according to a lawsuit."
     publishedDateTime: 2021-07-26T14:45:00Z
@@ -98,20 +84,6 @@ related:
       - url: "https://images.hgmsites.net/hug/porsche-renndienst-study_100800578_h.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Lyft travels to the future with new self-driving cars coming to Austin"
-    excerpt: "The Lyft ride-hailing service is traveling into a new era in Austin. Starting next year, Lyft customers in certain parts of Austin will be able to hire a self-driving car"
-    publishedDateTime: 2021-07-26T17:25:00Z
-    webUrl: "https://austin.culturemap.com/news/innovation/07-26-21-austin-passengers-soon-will-be-able-to-get-a-lift-in-a-self-driving-car/"
-    type: article
-    provider:
-      name: Culture Map Dallas
-      domain: culturemap.com
-    quality: 24
-    images:
-      - url: "https://res.cloudinary.com/culturemap-com/image/upload/ar_7:4,c_fill,g_faces:center,w_980/v1627319208/photos/322516_original.jpg"
-        width: 980
-        height: 560
         isCached: true
 
 secured: "FlWizfeds3WVHjmA+u+xL3XJ1hAi0hcvZDc58FGeBUmnFm9z7qNrN9yCzf04R36LYYcbNPtyuHt9d425PqC485KrssV5ivQj2NvN7XYa60eWmXiJnrOyFMv7jkUjSQY2re8CRLRcqHT5I2qvHiPErTMsD+2Uzad3Ana9Gf7yN/sOwnCXovEDtk/GDt8b2w/tpB5HsLfR+wNSb0M7dhnZnQup1PMDlIaqAevmFzxt1oR10iCY6Xqgv211cqHRwBv7erVkkaM3nNl/C4xWck2wZ9C5xFE+1Wtk18BIYDKxIJ64mK6N4Z+283EnM11AlNxaxACwZQs8A9dnWae0HNYFzrhDIDBwZ96mBZIKivwi6j8=;yVpA1PrpeYOILMo5umlcCw=="
