@@ -7,7 +7,7 @@ originalUrl: "https://www.genengnews.com/news/burst-of-protein-structure-predict
 webUrl: "https://www.genengnews.com/news/burst-of-protein-structure-predictions-from-deepmind-embl/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind delivers on promise of protein structures"
-    excerpt: "DeepMind said its new protein database may be the ‘most significant contribution AI has made to advancing scientific knowledge to date’."
-    publishedDateTime: 2021-07-23T08:52:00Z
-    webUrl: "https://www.siliconrepublic.com/innovation/deepmind-alphafold-protein-folding-database"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/07/amino-acid-scaled-1.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "DeepMind unlocks the protein secrets of life"
     excerpt: "Demis Hassabis stunned the world of science this week when he and his research team opened a window into how life works.The British artificial intelligence pioneer, 44, revealed an AI system that had"
     publishedDateTime: 2021-07-23T23:01:00Z

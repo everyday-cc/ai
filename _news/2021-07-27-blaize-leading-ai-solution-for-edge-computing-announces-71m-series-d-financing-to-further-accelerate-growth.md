@@ -49,6 +49,20 @@ related:
         width: 858
         height: 497
         isCached: true
+  - title: "Automotive AI Startup Blaize Closes $71M Funding Round"
+    excerpt: "Blaize is one of the most mature AI chip startups. The company is targeting automotive applications as well as industrial, retail and beyond."
+    publishedDateTime: 2021-07-28T01:12:00Z
+    webUrl: "https://www.eetindia.co.in/automotive-ai-startup-blaize-closes-71m-funding-round/"
+    type: article
+    provider:
+      name: eetindia.co.in
+      domain: eetindia.co.in
+    quality: 37
+    images:
+      - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/07/P1600_S4_NS_Glam2.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Blaize, Leading AI Solution for Edge Computing, Announces $71M Series D Financing to Further Accelerate Growth"
     excerpt: "Franklin Templeton and Temasek lead Blaize $71m Series D funding aimed at acceleration of AI Edge Computing and Automotive/EV product roadmap."
     publishedDateTime: 2021-07-27T19:01:00Z

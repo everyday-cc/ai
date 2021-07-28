@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Edge AI chip startup Blaize bags $71M in late-stage funding"
-excerpt: "Artificial intelligence chip startup Blaize Inc. has gotten the funding it needs to support the growing industry demand for its platform after closing on a $71 million late-stage round of funding. Today’s Series D round was led by new investor Franklin Templeton and existing investor Temasek,"
-publishedDateTime: 2021-07-27T12:00:00Z
-originalUrl: "https://siliconangle.com/2021/07/27/edge-ai-chip-startup-blaize-bags-71m-series-d-funding/"
-webUrl: "https://siliconangle.com/2021/07/27/edge-ai-chip-startup-blaize-bags-71m-series-d-funding/"
+title: "Automotive AI Startup Blaize Closes $71M Funding Round"
+excerpt: "Blaize is one of the most mature AI chip startups. The company is targeting automotive applications as well as industrial, retail and beyond."
+publishedDateTime: 2021-07-28T01:12:00Z
+originalUrl: "https://www.eetindia.co.in/automotive-ai-startup-blaize-closes-71m-funding-round/"
+webUrl: "https://www.eetindia.co.in/automotive-ai-startup-blaize-closes-71m-funding-round/"
 type: article
-quality: 54
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: eetindia.co.in
+  domain: eetindia.co.in
 
 topics:
   - AI
-  - AI Hardware
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/Blaize.png"
-    width: 858
-    height: 497
+  - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/07/P1600_S4_NS_Glam2.jpg"
+    width: 600
+    height: 400
     isCached: true
 
 related:
@@ -41,19 +40,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Automotive AI Startup Blaize Closes $71M Funding Round"
-    excerpt: "Blaize is one of the most mature AI chip startups. The company is targeting automotive applications as well as industrial, retail and beyond."
-    publishedDateTime: 2021-07-28T01:12:00Z
-    webUrl: "https://www.eetindia.co.in/automotive-ai-startup-blaize-closes-71m-funding-round/"
+  - title: "Edge AI chip startup Blaize bags $71M in late-stage funding"
+    excerpt: "Artificial intelligence chip startup Blaize Inc. has gotten the funding it needs to support the growing industry demand for its platform after closing on a $71 million late-stage round of funding. Today’s Series D round was led by new investor Franklin Templeton and existing investor Temasek,"
+    publishedDateTime: 2021-07-27T12:00:00Z
+    webUrl: "https://siliconangle.com/2021/07/27/edge-ai-chip-startup-blaize-bags-71m-series-d-funding/"
     type: article
     provider:
-      name: eetindia.co.in
-      domain: eetindia.co.in
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/07/P1600_S4_NS_Glam2.jpg"
-        width: 600
-        height: 400
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/Blaize.png"
+        width: 858
+        height: 497
         isCached: true
   - title: "Blaize, Leading AI Solution for Edge Computing, Announces $71M Series D Financing to Further Accelerate Growth"
     excerpt: "Franklin Templeton and Temasek lead Blaize $71m Series D funding aimed at acceleration of AI Edge Computing and Automotive/EV product roadmap."
@@ -79,6 +78,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "5n/pkbAyrqK1cEQdwD+yGyLo/Td2AzSh56lr8etpkANw8uZKP9ypj59hYh8KKEkA69hc8YCU2QsCeJ+0cVRx/mwHexlge21SL7p8StVqxGi6ZzQXj7+R1/fNV5tEs1Dydpzz+Vgnuxk87llWxL+VJW3Vp2b0RyqG87UfaTECZbMIMndQ2A7G5lT3xuLwpADdz47ma6R8SsaeBsN1clg+5WbyWRokWNC7c4AIX0o8Y7d7vQuISeTwVpuiKYKnM4WcOrwxlRJk/ZxcP4aCjL9pWb+3HV0Av9I7JcgAAss0J4QbpeUo4Y8BfY5M9mlS6A+pXf6SmM1SmccBiqB1aygNm2QkNRBOzwVEFvI2AZk5vbwI+c0PiPYLaWYuEsKx+fYKi/EbLxgBsKpRnpDz8Ya3evdv3DYyOM7BPQCaX6v9sPdfC4hKu68dOG125xYCv5pft/d/LpxIzb9ET0ETXy3PqCZc+Hd7os/UQ2RCUmyDrKrP2A5vgPP73tGEptkL58FhW3NhKjliuyOtLaWwKBQOiA==;fuuBrlPmJIQpdXYqHIlUqQ=="
+secured: "oEazo4ZHX6YIKa2gUO1P2GiKVuYnxf1mfprGAkCjv+C8S2w0FLHW3QiqOsEC0K8/njQdO4PGQEKyy+kUsRi5nAUR0x4vkK/5GXu94pDoBhL/JYOhEyyCv/s0dbT2MeOOQqrvvyIQqr8jzMQdAJkctRhswViCbnXzXS94PnDldSrdYwrdWWJujtDgYqhak0KNG9l8mqM5VqkLIE378po5SpNZ1kE5De4v39fI47WdUvWxKJDJ1mljU1PhD9zvol0VFaWt0Ltb6Up9l47El1Ucwz6KAwLH381qu3vX0O4ioMWQk3GsITifcGY+L4b96eBBNMzq3fa0MucDMLjXyIbzdywcMYYuALp8Hh562JKzVIQ=;BlxsQSJEgk4IfEiHY0aqJA=="
 ---
 

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Powered Beach Cleanup Robots"
+    excerpt: "It’s estimated that more than 4.5-trillion cigarette butts are littered across the environment around the world, which is something the"
+    publishedDateTime: 2021-07-28T01:00:00Z
+    webUrl: "https://www.trendhunter.com/trends/robotic-beach-cleaner"
+    ampWebUrl: "https://www.trendhunter.com/amp/trends/robotic-beach-cleaner"
+    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/robotic-beach-cleaner"
+    type: article
+    provider:
+      name: TrendHunter
+      domain: trendhunter.com
+    quality: 74
+    images:
+      - url: "https://cdn.trendhunterstatic.com/thumbs/robotic-beach-cleaner.jpeg"
+        width: 800
+        height: 531
+        isCached: true
   - title: "A Little Robot That Cleans the Beach, One Butt at a Time"
     excerpt: "But for now, BeachBot belongs by the sea, helping eliminate some of the 4.5 trillion cigarette butts improperly strewn about Mother Earth. Since cigarettes are harmful to humans, it's not surprising that the chemicals and microplastics are also harmful to sea critters,"
     publishedDateTime: 2021-07-23T23:15:00Z

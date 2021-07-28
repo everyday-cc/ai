@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind delivers on promise of protein structures"
-    excerpt: "DeepMind said its new protein database may be the ‘most significant contribution AI has made to advancing scientific knowledge to date’."
-    publishedDateTime: 2021-07-23T08:52:00Z
-    webUrl: "https://www.siliconrepublic.com/innovation/deepmind-alphafold-protein-folding-database"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/07/amino-acid-scaled-1.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Burst of Protein Structure Predictions from DeepMind, EMBL"
     excerpt: "AlphaFold, an AI system for predicting protein structures, has enabled DeepMind and the EMBL to release more than 350,000 protein structure predictions, including predictions covering nearly the entire human proteome,"
     publishedDateTime: 2021-07-23T22:10:00Z

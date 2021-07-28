@@ -39,7 +39,7 @@ related:
     provider:
       name: MD&M East
       domain: mddionline.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-5291510_640-2_web.jpg"
         width: 770

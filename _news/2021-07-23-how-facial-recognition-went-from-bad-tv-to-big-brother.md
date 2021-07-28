@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Police remove 218,000 photos from facial recognition database"
-    excerpt: "Dutch police said on Friday they had removed 218,000 photos from their facial recognition database last year, although it is unclear how many separate people that figure involves. The police are supposed to remove the photos of people who are no longer considered suspects in a case or have been found not guilty by the courts."
-    publishedDateTime: 2021-07-23T08:40:00Z
-    webUrl: "https://www.dutchnews.nl/news/2021/07/police-remove-218000-photos-from-facial-recognition-database/"
-    type: article
-    provider:
-      name: DutchNews.NL
-      domain: dutchnews.nl
-    quality: 39
-    images:
-      - url: "https://www.dutchnews.nl/wpcms/wp-content/uploads/2021/07/Depositphotos_42356597_s-2019.jpg"
-        width: 1000
-        height: 687
-        isCached: true
   - title: "How facial recognition went from bad TV to Big Brother"
     excerpt: "You might not see it, but it sees you. CNN's Jon Sarlin explores the brave new world of facial recognition technology."
     publishedDateTime: 2021-07-23T18:40:00Z
