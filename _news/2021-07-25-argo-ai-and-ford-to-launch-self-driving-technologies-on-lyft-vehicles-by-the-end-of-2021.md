@@ -9,7 +9,7 @@ ampWebUrl: "https://syncedreview.com/2021/07/25/argo-ai-and-ford-to-launch-self-
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/07/25/argo-ai-and-ford-to-launch-self-driving-technologies-on-lyft-vehicles-by-the-end-of-2021/amp/"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 950
     height: 633
     isCached: true
-
-related:
-  - title: "Ford To Deploy Self-Driving Cars in Collaboration With Argo AI and Lyft By End of 2021"
-    excerpt: "Ford Motor Company (NYSE: F) plans to deploy the first self-driving cars with its partner Argo AI on ride-share service Lyft Inc’s (Nasdaq: LYFT) network by the end of 2021. In a press release on Wednesday,"
-    publishedDateTime: 2021-07-23T05:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021-2021-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "DPBVBhmZBfY1m0yitqjT0g8OoXJLwFpM/oFx/flQUS/jtgVg7l9SP5n0C/3hcDho7C089LXqzUk15IGOp4anamJRo2Yrdu/wiYt06V08j1njpxW34ONMCkX0ZY/YNa47qrCcebNSb799CA/Qx5O4Q0nMS+/V+lLhz2aPKdOBTsOP45O3PBt6jSYLBGMKc2pE4twY5H33TK1hf/yHaoBWMDQlhXqkfvpetHLWtmvowpqUUVGV4dKzEJDAVPJBzIsRZzIfSkdHqWq19I20Yino+Qe6YTv2vp3TNNfNDwrnr72xRkfNG8jkyM7heEZCGNgM8yx8a4ro/0DpBSLzQaDeAnGz1TNyhJ0RMn8Wr5/En8s=;AATZonyFlBhCJJRTvb68CQ=="
 ---

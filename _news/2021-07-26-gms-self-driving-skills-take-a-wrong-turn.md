@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/breakingviews/gms-self-driving-skills-take
 webUrl: "https://www.reuters.com/breakingviews/gms-self-driving-skills-take-wrong-turn-2021-07-26/"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: 54
+published: false
 
 provider:
   name: Reuters
@@ -27,54 +27,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "GM sues Ford in fight over branding of self-driving cars"
-    excerpt: "The automaker’s taking action to protect the Cruise and Super-Cruise brands after Ford in April renamed its Co-Pilot360 automated driving system as Blue Cruise, GM said in court documents filed Friday."
-    publishedDateTime: 2021-07-24T17:39:00Z
-    webUrl: "https://www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars-11627148192240.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars/amp-11627148192240.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/gm-sues-ford-in-fight-over-branding-of-self-driving-cars/amp-11627148192240.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2021/07/24/600x338/968f78bb72fe47ebafe65fecc6da123c-968f78bb72fe47ebafe65fecc6da123c-0_1611854998352_1611855018494_1627148264064.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "General Motors sues Ford for violating trademarked driver-assist technology used for self-driving cars"
-    excerpt: "The firm has taken the action to protect the Cruise and Super-Cruise brands following Ford Motors in April had renamed its Co-Pilot360 automated driving system as Blue Cruise. Despite the talks, consensus on the issue had been unsuccessful,"
-    publishedDateTime: 2021-07-24T17:17:00Z
-    webUrl: "https://www.moneycontrol.com/news/automobile/general-motors-sues-ford-for-violating-trademarked-driver-assist-technology-used-for-self-driving-cars-7218861.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/automobile/general-motors-sues-ford-for-violating-trademarked-driver-assist-technology-used-for-self-driving-cars-7218861.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/automobile/general-motors-sues-ford-for-violating-trademarked-driver-assist-technology-used-for-self-driving-cars-7218861.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 28
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2018/11/General-Motors-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
-  - title: "GM Sues Ford in Fight Over Branding of Self-Driving Cars"
-    excerpt: "General Motors Co. is suing its competitor Ford Motor Co. for violating a trademarked driver-assist technology that’s used for hands-free features, according to a lawsuit."
-    publishedDateTime: 2021-07-26T14:45:00Z
-    webUrl: "https://www.ttnews.com/articles/gm-sues-ford-fight-over-branding-self-driving-cars"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-bb-1200.jpg?itok=JdoLkruE"
-        width: 470
-        height: 246
-        isCached: true
 
 secured: "FTsuWL2tgB+9xiZttOBI48HWJvJDJLEUxR7/BtzApwPTSm6nQFTUanuvYV1k3C5ZOLeYgnzP/+Nxkh5S0aOtHXBYXbsvwje0i+XpZRa/eN4OQlMMjiX15t4fGB7snXAykjzgDU9jJB1VtD6EEDfWGwq+6rhjNdlwXraXHWILwjvsS185+YzwhKQ2RuqyDQ+3CF67hlEg8/EKrMf8Iy5io4I2fMOEdba2ng4R9EuusfeibbduSf3fXRbxeDnruLq4AJS7iN3AALuv7Eq4kFPyV3kMO+ZswwEnaluEERHEVyopqVEIVRe3Z+AV5nSvEDnl+wggFt4R2Wj+wkb3kAsTZr+Si+rojZ697+XejAYAwyZgoDzx4YYbK/CWBWzb9gEjXzYz5gwHM/W+/03loBLYMEGx7vrigCpbd47YqZltobVUiKT29c5OEqiA9JK7zmNe3cqypU6eUopJaMk6LQJ21rzROvxmTbbhE8DEIsGyNPlcPPbfFjJhSowfQ49+cOIj+lL4nOwTyuKiyHv4psxJ3w==;lZz2NOH843YXoWhAiNJObA=="
 ---

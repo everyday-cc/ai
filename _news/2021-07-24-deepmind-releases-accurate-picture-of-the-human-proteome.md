@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Enzyme researchers partner with pioneering AI company, DeepMind,"
-    excerpt: "University of Portsmouth joins leading AI researchers at DeepMind to help engineer faster acting enzymes for recycling some of the worlds most"
-    publishedDateTime: 2021-07-23T05:46:00Z
-    webUrl: "https://www.miragenews.com/enzyme-researchers-partner-with-pioneering-ai-601319/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 54
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
-        isCached: true
   - title: "DeepMind delivers on promise of protein structures"
     excerpt: "DeepMind said its new protein database may be the ‘most significant contribution AI has made to advancing scientific knowledge to date’."
     publishedDateTime: 2021-07-23T08:52:00Z
@@ -89,6 +75,20 @@ related:
         width: 685
         height: 385
         isCached: true
+  - title: "Google’s DeepMind opens ‘breakthrough’ protein database to the world"
+    excerpt: "London-headquartered artificial intelligence (AI) company DeepMind has opened a database to the world that maps 98.5% – approximately 20,000 – proteins in the human body, marking a ‘transformative’ moment for the scientific community."
+    publishedDateTime: 2021-07-26T11:51:00Z
+    webUrl: "https://www.pmlive.com/pharma_news/googles_deepmind_opens_breakthrough_protein_database_to_the_world_1373638"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 39
+    images:
+      - url: "https://www.pmlive.com/__data/assets/image/0012/1202124/Robot.JPG"
+        width: 500
+        height: 322
+        isCached: true
   - title: "Google’s DeepMind puts human proteome online for free"
     excerpt: "The most complete database of protein structures ever assembled, developed with the help of Google’s artificial intelligence unit"
     publishedDateTime: 2021-07-26T09:27:00Z
@@ -116,6 +116,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/DeepMind_AIM.gif"
         width: 1600
         height: 900
+        isCached: true
+  - title: "DeepMind and EMBL release most complete database of predicted 3D structures of human proteins"
+    excerpt: "DeepMind today announced its partnership with the European Molecular Biology Laboratory (EMBL), Europe's flagship laboratory for the life sciences,"
+    publishedDateTime: 2021-07-23T13:35:00Z
+    webUrl: "https://www.miragenews.com/deepmind-and-embl-release-most-complete-601570/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 28
+    images:
+      - url: "https://www.who.int/images/default-source/departments/blindness/250_who-peru_lima-march-2018_samir-gustavo-rosales-lopez-trying-his-new-glasses-at-his-school_photo-credit_who-sebastian-liste.tmb-768v.jpg?sfvrsn=89945b85_1"
+        width: 768
+        height: 512
         isCached: true
 
 secured: "RVZe3jP9XRR41Ijg8LTMsRQijtQg7270CkUKESHLdM58ZOMQIA0aclZaaUoYaNxEN9P3cvFglix1zIAUxMWRFLoO1Cj0LC2B4f0Gr6zXf2oQvLIBIuKGU+dKWLfaF8UUkvsI7GTarL+D3G1cIRCbg7fq1Icz0rveV05Isu50ch6UjMb1Wa1eWGEZPXLvkA8PXjPTNmUbKBxmtEaF58ie/ihXgwqOBgP7/uHCM4ANIxY9Ha/vkbdFSgODMmDc3dAS3hsbJtGadWikFXs+zzmbTXpxqB0b6FU0P3MsD1l9fGgiT47VKFU2bgBlRZa9G4Eg6Q2ELkNREGfxPjGJCLoL/8DH8DyWLMheetedJOMcXIc=;rJCPuRoNFaeBqAnPJd0R6w=="

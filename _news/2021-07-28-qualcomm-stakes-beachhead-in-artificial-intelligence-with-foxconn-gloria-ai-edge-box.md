@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-b
 ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/amp/"
 type: article
-quality: 99
-heat: 99
+quality: 101
+heat: 101
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Healthcare
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6100677707201bbe17a32370%2F0x0.jpg"
@@ -31,6 +32,6 @@ images:
     height: 563
     isCached: true
 
-secured: "Y6tjwlm3pGI1oak09zpB6vlDXIi5pJ4MopABWa4JcNKFNXU8u4pivCi71YxTSpDChcSalLDMVKGjTODEgMMRqNPMbQ848uVjLZke1d29Oof7apkL8dU1+66lboeKyyCzSrzy/ocrZQnNuE/x8kS652tM+744bOcL/jgK/M4PlVFVmZgZ4CLC79Fw0Pt+sdepwo1qFOo5GkNO1Co1/BCA6NVSCe2dl9UZ4rsKoA5+OiPRiknPR2GMquhnS3nUg1gErk6RrTCNnWmYPUYRLcYQmLFw6/zGD8pjvHNBWwZQxIVgUdQU+tNPgcVAoErIWgc37RJVQI5VFYq049NwJ/kRKSNNUUwocwll25iUq59jaPs=;mJQs5s31L94w5VcMAg21tQ=="
+secured: "lbluCm1al6Mor9ocv0IqhpeDuwr2QcCe+z7bWTYfhFsAVvkK8Ubz3srsoTxSi8KsSbrhThH91Knt5LhbOJ33ebweMLq1v5cEQIPCJ0DPRKdbGGmX2jLl76zaQtQ0XaAAJ6hQqgABixNqnPbOE6irt0m8wbPqvH/w8SOGmfUCWk9gXldpxwuWhazJhuD1yKsanDcxbDKuXQ2nT5CZ/oJcAfnxsRYmUe0jZwtRN/egmVUh+7G95KX3I88Djkpt1Ayr53ceAhBBm0/p13e8H+IJxwNi+P2moeFpj9AqR57jVoSZaecE8LO49Q+Tz4rh8qawo1aNnGpSlUi3HYCxnHBFsTMLMK0fSIUiEciCAIWd+iSC1tYRCvOwX2e2xrne4HC+mP4/Wt4zs18ThwKlcMwh7CSh0/pNeLsJuHh4IpU68dSDRA/0PV0amLpuEmKwBDV6+L50Fpeni53lxCIsD7UwdQ9vB333wSz/F7D+NQ5q5KZTK4tbqe7RxU/CM7IbCjSdvSZhTnwJSzzCyXzFJPfBUA==;SQ3VjBQEyaQ4Mg0+HzAhiA=="
 ---
 

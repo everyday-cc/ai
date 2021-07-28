@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-spot-sunken-ships-from-sky-syndicat
 webUrl: "https://thenextweb.com/news/ai-spot-sunken-ships-from-sky-syndication"
 type: article
 quality: 67
-heat: 82
+heat: 77
 published: true
 
 provider:

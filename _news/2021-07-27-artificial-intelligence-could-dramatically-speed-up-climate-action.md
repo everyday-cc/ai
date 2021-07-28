@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-07-27/can-ai-help-tac
 webUrl: "https://www.bloomberg.com/news/articles/2021-07-27/can-ai-help-tackle-climate-change"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Bloomberg
@@ -27,6 +27,22 @@ images:
     height: 800
     isCached: true
 
-secured: "o7y5h72/3aFsMA/IeAuYUJRWRLnwsRIpVsGsvyTxBPxC1z7qhQFfyfjpUtreJJFeVPj1d+sZuqEh9nO2sX4Yqbvu7k+5bF8GnF3RJq5VBWuvF/bOrxXZskrOHyCGMbB2mwB/Rqy7a61BHAMvXGV/nredppkZvsXrKtx9YSRj2lBk8WLq5iM9sUFWCGb+aFyfIgV42kJGJf6UX/vo61yYI8jy+ZZi0VW2Y784VLGGMob59AoHD3P8rdflm/pQsNu3/0hgjOoPJR4XkrD19SGeNGQ4G0bSPCd7/mMq9VwyLow3jStJ/KmN68pb45nIUQZKq8x/VABCqMoncigQfWT6t5N+atLVew7/puiqjIDzUp8=;zn1EgTEw+fUNKItYz/acrg=="
+related:
+  - title: "Artificial Intelligence Could Dramatically Speed Up Climate Action"
+    excerpt: "Artificial intelligence is one such horizontal technology that has big potential to help cut plenty of planet-warming emissions. The list of problems AI can solve is long, and the number of startups using AI to solve some of those problems is longer still."
+    publishedDateTime: 2021-07-27T22:48:00Z
+    webUrl: "https://www.bloombergquint.com/business/can-ai-help-tackle-climate-change"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "60d0o70rtRpKgWM5aic6aoBZxp69wRoAS7igVD/8wfbMUaRQqp2HTSoKtfT3eO5lf1XOb7Aw3VFNUFDmFAeDgI7Q47zSg2fX7llTjezncaHQT+XhWk2kp8YK2O48fOlT57LUvPCLGFWj7UaeHWLGNRvsPsKKPEAQLOTEE3eDh/zkGb/3mvPHalejUThjvxapeXtmn3jwa5I26+x5QyP4RnOOzvBNk9wRyu1mlhtVC3PC0nBRpZ3GP+0TPO5WrOVbD4o4ZlvFChP3p+Two+Zinz2YYmnuKe4+cjdwPBE93RSAbzytMU/Dlq+JNRfJjiwjkV8xVWIA72bsZ7lunEaUVY7epF2RhjK/ukSDyjcLi93DIQLR+Bz2EcIOuJGUCTIizKWAFxQ9Ts3j7dkL53/LXugJcArU+BkO4e5qu6WnylbW9yLI8tEmq/0ensuCNGfejIFfeGCVJ/ofpg369FIN90zhzEwUVjzGgE8cvcw2U1Di/gI6pfYRUI36KnzgOuHo+3sBU7hofumvq/GGaHIPYQ==;IokZZbnQpbcDriNiqwlVIQ=="
 ---
 

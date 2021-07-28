@@ -3,8 +3,8 @@ category: news
 title: "Telefónica Tech and C2RO join forces to offer a new AI video analytics solution that transforms the physical world into actionable data"
 excerpt: "Telefónica Tech includes the C2RO PERCEIVE™ solution in its portfolio to complement the space analytics proposal and help companies improve"
 publishedDateTime: 2021-07-26T08:42:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/telefónica-tech-and-c2ro-join-forces-to-offer-a-new-ai-video-analytics-solution-that-transforms-the-physical-world-into-actionable-data-1030643690"
-webUrl: "https://markets.businessinsider.com/news/stocks/telefónica-tech-and-c2ro-join-forces-to-offer-a-new-ai-video-analytics-solution-that-transforms-the-physical-world-into-actionable-data-1030643690"
+originalUrl: "https://markets.businessinsider.com/news/stocks/telefónica-tech-and-c2ro-join-forces-to-offer-a-new-ai-video-analytics-solution-that-transforms-the-physical-world-into-actionable-data-1030643692"
+webUrl: "https://markets.businessinsider.com/news/stocks/telefónica-tech-and-c2ro-join-forces-to-offer-a-new-ai-video-analytics-solution-that-transforms-the-physical-world-into-actionable-data-1030643692"
 type: article
 quality: 35
 heat: 35
@@ -43,6 +43,6 @@ related:
         height: 720
         isCached: true
 
-secured: "rNlAl4OYS5WqzeFkd9Z7rHK+gGzKT3omM/mQXWSZq5AgM/+DzDaYh0xHqM3kNCNhbc3Zw3/34Vodl0lwQkTO+wdzzXxVU3kHRqMmTqosasXSHlugraZWmEg7npVBqSqUFzSdWH4AKsZ92gVlJY/QEKfbMq+jLIN6lLbsiQmuOo+s5JZO5Nnx3MkuQoT9MNaA5S4gJgkbwVmODE+ZwyjWR2l80JucJkKFDbDmZgrRjTrXmr9kwzd7UeG0crX7j4oNJllO8YspdpZ+tI/MoWEGuwooz9UbSYmryp3ffsvY5VJTmI5yHb/rpryNkZTgQJvw8eNRbIr0DlLRlMomwZBxQ8rPz5fbjylkJ6m8DbVakcPgLFulVa/kQgvW4GBULAVT8gkR+ji7eDbsif/qemrMOc64y/THG68CNZRdWUF4AQatHrH2x3YAqiuagaCVSpE5PAcNTdOsn3hY3ui5x445o20fRtykZL/hKoZWZd8muVgOzl63KhyrXR3DZ3OQM17YSAPkOG4h4P1NDMNwj6fqFw==;qAtH8dxLBSCkyTso3bQsdw=="
+secured: "nsNkGaIVDn+IqL1Umf5PcjWimH8cWL1ecwwZ8XP1el0+nLvU6D4XBUBoy8zsZ734qKghY7edQ1KRwThEDjI56ciLa+j86Qi5XQBOJoW4rB5fVGbW69Xh4mgxODBB8AfB3EkkoqNaSg0g8Gb8CPU/RsKT4eM0ECXDRyq6tRWZztl8maVh2pU9KNwvVLBDTrzk9tl2+zlM64z0ILFVin9TvhuQPmInFduDCl8zXA83cEv4echMJ+j5rmHTvPHzdTzgF5BwjH0xMD+0sES1RhHIm3FuqRjOEBDOhBfOuJTLXUmFLSLOebfmvymytHaJyZX0gKUvENHpn0MSl6vguE8z3dsTy3PiRrC8ZjrHtZ2IV/E=;v4P0hfumZsjPf0//mKGXDA=="
 ---
 

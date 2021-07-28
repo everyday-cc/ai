@@ -7,7 +7,7 @@ originalUrl: "https://uxdesign.cc/love-robots-ui-the-role-of-ai-in-the-design-in
 webUrl: "https://uxdesign.cc/love-robots-ui-the-role-of-ai-in-the-design-industry-2e87bd8b25c2"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "The Impact Of Artificial Intelligence In Food Industry"
-    excerpt: "The work efficiency of food industries has changed after the adoption of Artificial Intelligence in the industry. In this blog, we will discuss how Artificial Intelligence has reshaped the food industry."
-    publishedDateTime: 2021-07-23T06:30:00Z
-    webUrl: "https://customerthink.com/the-impact-of-artificial-intelligence-in-food-industry/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/robot-507811.jpg"
-        width: 4961
-        height: 3508
-        isCached: true
 
 secured: "CbfL4rQPinr+uPOOCuRD4xj+j98uu8EXeJIwu25TbHnNsykyUW+w55vpE0qq9VWH2rqiLHae1L5ujCooPGJOmQ1wOVPh6qkgW76VWdthX3QOsXs8/A9lU6gfx+JWC1tYSZdxcuB4aRIdyMKhFUutRGBnFNKlbJLrLK3o07Dc5cX7kPZOeLTj7ddzuCUylit6Xkqi3Re3sHfKBSatzG9vR4giUOjHBJDt52I6E3Vew0i6GpoTjYZkdQE+2ZQcsmWce96K70dfbsjqSzb4tvC8gmXLoMRtI/YXpNcopQXT7FdtTlqcs0uYx7YyhLWi+BvmBtMuFZJdX0yyUAWZ/llVP0tsNLazFGuH/Wo75fF/+cpZEncblpatDCM2oMTnvCeB2K7ebdVAul5d/wPS4MJg1PE40jJQk4fD1UNRsCjHRGSJzVeuFyeoL+oWlFjXEe8gxn+GwHLOL45Rb5ZUlSfuUsW6E2F16cpGlPpP6fy557u/z7GxD3EHKw0IweBQFf/Zx8u9r7QSKmJtQ30ncbnaAA==;sbNh7urR4XIB05UHSufHHw=="
 ---

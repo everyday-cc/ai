@@ -27,19 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "GM’s self-driving skills take a wrong turn"
-    excerpt: "General Motors’ (GM.N) latest journey in autonomous driving has taken it to the courthouse. Late on Friday, the $80 billion carmaker filed a suit accusing Ford Motor (F.N) of trademark infringement after the latter renamed its new driver-assist technology BlueCruise."
-    publishedDateTime: 2021-07-26T04:49:00Z
-    webUrl: "https://www.reuters.com/breakingviews/gms-self-driving-skills-take-wrong-turn-2021-07-26/"
+  - title: "Getting Banned From Riding In AI Self-Driving Cars For The Rest Of Your Entire Life"
+    excerpt: "Expect to see a ban or no-fly type of list being developed for unruly passengers that ride in self-driving cars. This can be stridently enforced, though might not pass muster judiciously or societally."
+    publishedDateTime: 2021-07-26T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-from-riding-in-ai-self-driving-cars-for-the-rest-of-your-entire-life/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 63
     images:
-      - url: "https://www.reuters.com/resizer/9-MpALxsvP1nc9bOL6oy7Zunpzs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7J5WGYMFKBJ2TADPBKOO4FKOWM.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fcb2b2de2f157548bccd31%2F0x0.jpg%3FcropX1%3D107%26cropX2%3D3560%26cropY1%3D0%26cropY2%3D2301"
         width: 1200
-        height: 628
+        height: 800
+        isCached: true
+  - title: "Faith in Self-Driving, Ride-Hailing Vehicles Depends on Age"
+    excerpt: "When self-driving cars first showed up, they were hailed as a way for seniors to remain active and independent without needed to be able to drive. After some initial skepticism by many, attitudes are changing,"
+    publishedDateTime: 2021-07-27T16:07:00Z
+    webUrl: "https://www.thedetroitbureau.com/2021/07/faith-in-self-driving-ride-hailing-vehicles-depends-on-age/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 39
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/07/NCOA-and-VW-study-graphic.jpg"
+        width: 1600
+        height: 1056
         isCached: true
   - title: "General Motors sues Ford for violating trademarked driver-assist technology used for self-driving cars"
     excerpt: "The firm has taken the action to protect the Cruise and Super-Cruise brands following Ford Motors in April had renamed its Co-Pilot360 automated driving system as Blue Cruise. Despite the talks, consensus on the issue had been unsuccessful,"
@@ -70,6 +84,20 @@ related:
       - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-bb-1200.jpg?itok=JdoLkruE"
         width: 470
         height: 246
+        isCached: true
+  - title: "Porsche imagines an interior for self-driving cars"
+    excerpt: "Comment Now! Porsche on Monday unveiled a previously-hidden concept for the interior of a self-driving car. That futuristic interior is housed not"
+    publishedDateTime: 2021-07-26T15:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1133010_porsche-imagines-an-interior-for-self-driving-cars"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/porsche-renndienst-study_100800578_h.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "eNwAfdcuDGZAec2miX+yBqSl4GwKQgQkBuFpNj5H0foL8xP1YWbqoumjAsXP5kIrWD+0YrMvsXnZKDs4BmR6ilOwef7ya4LI0n2Pw7r+KCQ9vUYs9qXALhxPvRwBBM/hZXvHKloGekPnykc6iyCoVqM71whDDThT4xkQ1USxJiDOcFbRqhG7jzMEtqRrdkBlpJwwgkOJT5FIitC1MqaIhRL5U6xLaA66V6SkwIlaPEYDwOPAp+S4hjaIdjS37v2CBcFN+dxxOFgTvZZM5suT50RZ3qs/qxBZ7H0BETM0lW6lHEDj6M8+m5e18E+fj6P1Kuc5BfnScqqNGNDuk79DQ91seTzQKcP0drAtBqGs97lNN8XaOJdtCk5h1YiYiHbUHAuzXeTRkyxcSqwvoHPIww42sRMPncCXuXiQcdkWck9l58TLJzlBdNnv2zs89fRtvqQR8sZIndW0Anit9+bNA5fvxSSsQDF8jn+pXIuk0NNFVsUxIoODTgN6wfi5G0Z7k6vWgQrPYxxBFNp7nWSIrg==;zqYdA25OEwyxf1N9nERnbg=="

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Smart Eye Deputy CEO Rana el Kaliouby talks automotive AI"
-excerpt: "Rana el Kaliouby co-founded and led Boston startup Affectiva, which uses artificial intelligence and computer vision to analyze mood and emotion"
-publishedDateTime: 2021-07-26T13:12:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/smart-eye-deputy-ceo-rana-el-kaliouby-talks-79061997"
-webUrl: "https://abcnews.go.com/Technology/wireStory/smart-eye-deputy-ceo-rana-el-kaliouby-talks-79061997"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/smart-eye-deputy-ceo-rana-el-kaliouby-talks-79061997"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/smart-eye-deputy-ceo-rana-el-kaliouby-talks-79061997"
+excerpt: "Rana el Kaliouby co-founded and led Boston startup Affectiva, which uses artificial intelligence and computer vision to analyze mood and emotion. Now she's got a new job as deputy CEO of Smart Eye, after the Swedish eye-tracking company bought Affectiva for $73."
+publishedDateTime: 2021-07-26T13:10:00Z
+originalUrl: "https://apnews.com/04e14f50e1b6843af76cf00e0d23d38e"
+webUrl: "https://apnews.com/04e14f50e1b6843af76cf00e0d23d38e"
 type: article
-quality: 57
-heat: 77
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_f947b76b376f46a49f8fe9372c8f28be_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://storage.googleapis.com/afs-prod/media/f947b76b376f46a49f8fe9372c8f28be/3000.jpeg"
+    width: 3000
+    height: 2130
     isCached: true
 
 related:
@@ -57,6 +55,6 @@ related:
         height: 575
         isCached: true
 
-secured: "wTSUg3UKQ0wJEbvPV4XQcKkCrn07ZiBk5zk15PcqBOyxpNVU+KcxDIzHrm/+wfcMDzH4hvQnDWA+Z576FwF8sW4Ta8QlV10tOFEno3GWQGShFGQk9VBY4vGasfMimlw4eF/nYwzcCp3D+nQoM0nKOegP3lGiyz4M2KHST3k+uXv18p4PU+yq/DAZ07LbDjWPTVGIDWBd7gTju//QB3h8vd4UVlzTFY288+iRiGNyuKLIQ+yKtKJIPMz9UDNzGzbDJP89R5NCyYpAsyvoBAkQ7q+xCdx5qfVPw8xVKrVTLCzxKeoxxATjfwLSoM3NnXoi6VG8M8aAl6iT/hr1CFqsHNVwl5ftmHDFGbE0l+ufzn8=;oQGBWLMHeTzIoHwXhL4pBw=="
+secured: "xmCP2AP36Ao+o1aOuFWxDUb4JB2qZEkSJA2qJ56Y8PuRmaSrdwWUhuQB30U8CT80BAkfWzxn+hd/sm/CjxcWZy6k6JZ72ds6acIbvfrqjYSPJJba5G1Q25r2c3mogCVHBdKjfcV51mttkbYcB1wkXeOfjTRJJTGighm2rcm0Zf4D0Idvg8PNnskirPUzaauKQoM3Lrw9ihM8W+n2RUQgZ/VWsjwYaPzx1vFMDNmZX3GRY5s7OzFiCkk+pUkAMQgUEOAblmesXfEFgVGU3XfBXBwmcUMdzvW/jmbfkwwnb1MBrPFt/Ycje3zu73GBVEyHZtIzyQGii2U25Tqw/3YlXBlDRewGNHswfIZULlo9w4c=;WkyzpnTPvO2aZwVrc2sNOA=="
 ---
 

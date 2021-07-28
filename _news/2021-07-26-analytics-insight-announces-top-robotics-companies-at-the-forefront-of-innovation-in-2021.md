@@ -47,6 +47,15 @@ related:
         width: 405
         height: 226
         isCached: true
+  - title: "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021"
+    excerpt: "Analytics Insight names 'Top Robotics Companies at the Forefront of Innovation in 2021’ in its July magazine issue."
+    publishedDateTime: 2021-07-26T18:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210726005529/en/Analytics-Insight-Announces-Top-Robotics-Companies-at-the-Forefront-of-Innovation-in-2021"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 24
 
 secured: "U4jf0rgNH0kA+JloIe11whSvFz8RjTAbC5BleEr+ljsirwiH1jfvSMGWZAbmwVP6GzgX9GsFjbUVuFKlWG4UD/05vwU+fRv60a/uGP8jmIHmG2STMXy639e88zJoa3QfeJZTydivpBPp80ydj4wUg5Rx8OuHzT2Fq1PxzEq3u9itz0DBTSFfOqGpOTNrz49/zsC3YsOPtn5sJ+/J6nrbrFKai9gAABgTw6tSMLQ8UPvY1yAIRuZ9pwRzu6XJAWVgxGr5RHHq0qLtiw4/FUCU9MvEkyGeZ77ey9gQHuDhqainHepVC0SZPinZmF3r9VIlDMSbfc5c5vDgNnIP78mymJ+C52by3Dn79RTJ4ZCtdS0=;O94HqZpPgUkwGvmFTyAONQ=="
 ---

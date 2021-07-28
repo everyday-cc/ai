@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/calendar-event/uspto-ai-innovation-journe
 webUrl: "https://www.geekwire.com/calendar-event/uspto-ai-innovation-journey-scott-beliveau-branch-chief-advanced-analytics-uspto/"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 24
+  - title: "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021"
+    excerpt: "Analytics Insight names 'Top Robotics Companies at the Forefront of Innovation in 2021’ in its July magazine issue."
+    publishedDateTime: 2021-07-26T18:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210726005529/en/Analytics-Insight-Announces-Top-Robotics-Companies-at-the-Forefront-of-Innovation-in-2021"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 24
 
 secured: "k5QcMe/G11LRmo63iHdgWcZxU/V+RDw03GnDQffutg9kL1Sk59HgK+X027SMS+o5addPuHTbfemWm8aMZw38eQNUN6IphFYfv5wu+iNFpZwg78Xi0grRankz8H9SY3HPJRHTfouwCGKeACwFV676oUFCcraA42cjgkp+0/M4/WNgLmb0tKKO1zcKJDPqVkzBbriL32XOa6Vribq5McX5J6qlOpq51u0JK+VFcABRD/LiIJRH3hZGhADgnULF8IMtnc6pYb2MYzt54K56Aqqc8QFDaVi8EG3uNUjqXDoZiDYJObCwyV6BptJqGDEwz1iN+1Hc5INRNrh+M6EIVJGL0wRgWodeKoMdy/ZFCZ28NAPs4jsz3q8HaD1d3HtjQktLV3LZQqI83bX8pfS51VSKWMRcFuHjisWJdlZe+7HRud9NR4CKbqiP11WRm/+UGjgA4Ad3hWKX5XtuGaEgeBPjKYVNtdHn1bALqDQTMCMEjT2qNpTjn7FHKU3CdC9oQlrs8MFXwhKvK0xhFcdBwUKwIg==;SPxhMQkce4jLW5vJofDN4Q=="

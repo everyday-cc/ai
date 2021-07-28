@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/correction-insider-q
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/correction-insider-qa-smart-eye-story-79099115"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: ABC
@@ -27,20 +27,18 @@ images:
 
 related:
   - title: "Smart Eye Deputy CEO Rana el Kaliouby talks automotive AI"
-    excerpt: "Rana el Kaliouby co-founded and led Boston startup Affectiva, which uses artificial intelligence and computer vision to analyze mood and emotion"
-    publishedDateTime: 2021-07-26T13:12:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/smart-eye-deputy-ceo-rana-el-kaliouby-talks-79061997"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/smart-eye-deputy-ceo-rana-el-kaliouby-talks-79061997"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/smart-eye-deputy-ceo-rana-el-kaliouby-talks-79061997"
+    excerpt: "Rana el Kaliouby co-founded and led Boston startup Affectiva, which uses artificial intelligence and computer vision to analyze mood and emotion. Now she's got a new job as deputy CEO of Smart Eye, after the Swedish eye-tracking company bought Affectiva for $73."
+    publishedDateTime: 2021-07-26T13:10:00Z
+    webUrl: "https://apnews.com/04e14f50e1b6843af76cf00e0d23d38e"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_f947b76b376f46a49f8fe9372c8f28be_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://storage.googleapis.com/afs-prod/media/f947b76b376f46a49f8fe9372c8f28be/3000.jpeg"
+        width: 3000
+        height: 2130
         isCached: true
   - title: "Smart Eye Deputy CEO Talks Automotive AI"
     excerpt: "Carmakers are bracing for new safety rules and standards around the world that could require dashboard cameras to detect dangerous driver behavior."

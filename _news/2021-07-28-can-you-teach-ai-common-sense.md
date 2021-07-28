@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/07/27/can-you-teach-ai-common-sense/"
 ampWebUrl: "https://venturebeat.com/2021/07/27/can-you-teach-ai-common-sense/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/27/can-you-teach-ai-common-sense/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/07/AI-e1627397746652.jpg?w=1200&strip=all"
@@ -45,6 +46,6 @@ related:
         height: 900
         isCached: true
 
-secured: "OhhVUGoNEPcDEAujHx20+VcDnDfyhhIaK+msyXcRdj2JXolIvnLs2xweLZd00lY7/f1etEcMONVcy1kjewgeP3znb81bcxnCxpvMLmObpxFQpkFysC7aIqWdzXW2FtGOt9urWeUah+Zd36KjQh9dnXu17cq/AudBoCbPHBAl3HYArjXH4ULWcPdhhWYTA5PS/PGJrBQIeP/1gtJig/rtTqwJbexVnjP4iiXDMlyrYCYaw2BDE2whwz8YzgDLcvRTeSFBrABDJ6HHQZ4rCoA3brqLt84bB2t5Azggg7vowezYGU2qtIY/eWwcM1ABILsXjuLo2sD+iTrLBxOiHd2YvWjeq2jwEpGQUYveLDBywRA=;vlMHJAe84IVGTrJB2ebB8g=="
+secured: "TRTe5n89jbcvNE+KvuaTlslmJ+yOiz0zPEPsGGcG82wWr4boOnK0VExJJK9O8oy57jr/c11LDGviIvWiOh9gQ6yXx0AMIowf038JowqtfuH3LAWo1nCmwIsFyll/9s9hO6qJGoSXQKhYXa2x+Bv+EU70oSoaRkN2ZcJIQimYKh514q3BqgHjFahbzPV0A/PYH52rTpB2c6Abos2Nl9nA4MtxUMm/GxdQcqhNgeGTzdv8VsXPjySDb0E2pN6rxUgQE7I96y248rKjDZEJ7u0/aKyBHElrcP/wdErk1h2Ttkh9cAuq9p3Llj7RbQzsXp0sNjp1/lM50kQ5VcKqE/dJgTo2xGfdJnwPUq7ZQkZG7Y5w8wrA3oU/5O22gHXKjq5ducfrWT6WDTBo2Uwx36AWMe3VW33pMQ/deOIdhSYW+gmezUJj1njgYoGFPqMOW3wmgaxJYsNrweRe2Lm8G27cjSEoJamLk0Qp+sgVfPhTtQHNH6G8V++quIHhV9FdChHb2tzbm5fkU+zIcb4Ip8SibQ==;0ceHyDMZb5kEQWXQREILww=="
 ---
 

@@ -51,6 +51,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 24
+  - title: "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021"
+    excerpt: "Analytics Insight names 'Top Robotics Companies at the Forefront of Innovation in 2021’ in its July magazine issue."
+    publishedDateTime: 2021-07-26T18:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210726005529/en/Analytics-Insight-Announces-Top-Robotics-Companies-at-the-Forefront-of-Innovation-in-2021"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 24
 
 secured: "rabYoevXKA3MA8K+xcAUB0KZ1VzFT2XM2b8gPw+DiGjPrMWj+X7X1Wt5g8ceUKYD0FvxzMQuCaAYf6TevHH8+LYJVnHDC2AnoliTx9Wudqmkj5sbtcnK6wEH+0l+37qVrRnYqyd9BsngVLcdw9Bd5N7rQCasot2kxMpKYGNtqVzXI45ts1vIovgyF56Vi4vyOVdt2fFwn37hU5BvsFQUh6Gu70Sf8rPnYW/z2HaNlNRmaaaWsG06dNdJ5eZciwqxlR6zw1Npk4sZIKUPJuMr/lyadXaPCQtHB1qwxDLusR5ipyqQ0wvhOT4O75zXIWmPdW78RiM9aY7UWQ654bC6NIpIl43/ZEE128KYpTJ48FvmpHO4fX6kn02KdGiIiqiIGPTEel9hhAtXqu6JaGnLtIuQ08TDJcRuncb2cW9UCCxBXkuJ5RavY0k/V/ScVssWITIH4tEG7PkO1NpH9IsaZFwpeGMjHpfWpJbCY+TxA8Zh8s6qsjCYJNPoIETbbMHGoi7ezwPjcwGKtuJt2Ux0Pw==;xMaVd+rwixWAZZJlYhRHow=="
 ---
