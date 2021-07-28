@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "FDNA"
   url: "https://twitter.com/FDNA"
-  followers: 6373
+  followers: 6374
 
 size: 11-50 employees
 yearFounded: 2011
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=qUDQnRMJOcw"
 
-secured: "EzouSTD6eNNBCodbkRIDxv5MBU9ApM13jiLjcn3NETswzB6T1OPBjosCFGQojVgpPOq4rfKKO/2v5gwZVWqzEdPaIvKEvtrft8jjUIwe2jRrmGj5ejwUPFDZc9sN/zFVPzVTySxitRxCEPB1UqAOuVnFqPja9Vd1edTIRw8cwoMRSmFkAIlUinxXRdU+piGPbDNPAEs519G/RMgFGg0KKOqS6xki+jBkQ/8+DJzmBBYuONYfQ1JZc9ySFOxjsGVb7M+Aee5SsKRgPSMKrKEJmOGRBHy7ThTQctPuNcM+oxHvxIGN1xRNmt8wRdfk7EbAgmOYdbXpr3vnAoQ258f049o1htCcSqHOZnQ7YwAubu2VhLjLoMJSPQG+26MU0SMCny7ZdE0D/sebmY3itqjKDz4u5HdkKi3rXn3mWcch0lg=;2U+vP3pjd1Dib20GEYHJsw=="
+secured: "MeBC8tDzlfs6ADY8yP8StIPD+GglnLnSL9mkDISUowufOYDDoE/YpzzOPrM7w9QnfXQewQbBl3GQyF6R5UVJBqGS9YCecW3MWmHRRLvRiQHzY2DHHShVzXnS6tW4KRsDKfHyA5YFWK7LA3W0ObH7M/O52TTV4fMlh74qvrnv+ETE6jopohe689NacGTs/dPzVKH4LB1AZLyF2QxzLrbo/Y1vqy/lYY3o+9VE4Dxja8I9ZB2OSMM0igeJFXnGJjJyWJjJByKVkD7IEDT3v4U2WcoGKFvoUZKDw406f5wSmvKcgHnMpjh4QshUE7S0Eo2+yvD/pEdnjYwi1nkPMY4y758MT2myPd0ecojHRT20vJr5ftJWJ2ngvsntlTiW5W4wtAod00SPClAfxXOQfpV2Diqdfv+yP9sjYPC7ysrk6cw=;ntSLpgYaLvwmduQ988wL1g=="
 ---
 

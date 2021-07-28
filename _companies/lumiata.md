@@ -2,7 +2,7 @@
 name: "Lumiata"
 overview: "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital."
 type: "profile"
-heat: 42
+heat: 50
 
 website: http://www.lumiata.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=1uxjtyJdxbU"
 
-secured: "WiXPMYoxkHKm0x6sHPeH5vPCApPvSImbWKQviVWvdDWqYQoG34LX6aBdT3hTipMvs5jHLgAiB9zRdcoCUIV5laYf7+gO0lzESIjmMut43Zewno0TM3XnPpQdyCRouBOqIGLI458z7hezicsCgjr2UaRO4s0XHKpwsL/JNYmgS8hxyvhn+qCgRTXDO2rgKb+86tuEPdxykVDKAwiWAzegQw+wFWFU8LxLViPBxAJAc5mAne86KgFz8pvWbHC2ajsLZaQ8dhu1dQ6voH/S5BD9c2jlfjgdv6Zc8sJvzARRhWOtzheNk17vzU8mSO9G6Ss7iPzxap4wyRyCNjvJBE3DJpmJToHjGOm3iFgS/zLwxCdaUUOWES/sgeVpOLd0B9ObABrWgCvquGGkL+M9cAaM9c4vhGl8BYJLirqAWaD9k6s=;qZyzFRgxJ8E5dMYUwogDgg=="
+secured: "H3hcMcKSsQlk5FG6OMpIcS+rvPi6qRNvcYv/LaZfGees63AA5nUhnSH15IWcPoPxvJvCJzC6H4s7oTz0kOGBdTQANnkSj+Dmzeisbyq1Q6FjrJ+6J4nE1oeSVQepaanTHYB000PccRYcvR5HjfvjtfC60NH136ykKxlx23x9I8U2gfdiGnpAGuba7W5MD9uaqPNfNgfFfFNAheQxEwyaHdoKMnuip4sYHR7ua720MsEY+lLMFRN8btEF+NVv0CPkJe+GMYfuUJ/KnfQpKFw/bv4Dz4qcMv4GZ2La9n+VUdrt9+R3vV7c5Caf1E8lVlJv8ekxsXto/abYQfACslo45v//rrIiWu0bcvBYCeD+OmYL9iM3z1cxPXZCs1j3EDweDbEcqbdDOsEBqXE0fcQzCdV8LkPGn63oBbt4VsHhujc=;M9GE10iPn+drJAEZUr1QWQ=="
 ---
 
