@@ -32,7 +32,7 @@ related:
   - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
     excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at"
     publishedDateTime: 2021-07-26T10:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on-quadruple-aim-1030643638"
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on-quadruple-aim-1030643646"
     type: article
     provider:
       name: Business Insider

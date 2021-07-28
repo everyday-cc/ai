@@ -2,6 +2,143 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-07-18-device-taps-brain-waves-to-help-paralyzed-man-communicate.md",
+      "title": "Device Taps Brain Waves to Help Paralyzed Man Communicate",
+      "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are relayed through a computer to the artificial limb. Chang’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.courthousenews.com/device-taps-brain-waves-to-help-paralyzed-man-communicate/",
+      "originalUrl": "https://www.courthousenews.com/device-taps-brain-waves-to-help-paralyzed-man-communicate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://courthousenewswebsite.kinsta.cloud/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.courthousenews.com/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/device-taps-brain-waves-to-help-paralyzed-man-communicate/amp/",
+      "publishedDateTime": "2021-07-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-18-how-artificial-intelligence-is-transforming-our-world.md",
+      "title": "How Artificial Intelligence is transforming our world",
+      "excerpt": "The impact of Artificial Intelligence continues to be felt across industries. A McKinsey report after analysing some AI use cases stated that ‘the impact of artificial intelligence will most likely be substantial in marketing and sales as well as supply-chain management and manufacturing’.",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/",
+      "originalUrl": "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2020/05/31173538/Chukwuemeka-Fred-Agbata1.jpg",
+          "width": 770,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp",
+      "publishedDateTime": "2021-07-17T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-18-six-essential-artificial-intelligence-capabilities-leveraged-by-the-digital-giants.md",
+      "title": "Six essential artificial intelligence capabilities leveraged by the digital giants",
+      "excerpt": "Digital giants dominate the cloud and ecommerce markets, and part of the reason for their dominance is artificial intelligence and advanced analytics. The good news is that mainstream enterprises can learn from their experiences and employ cutting-edge technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "originalUrl": "https://www.zdnet.com/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/17/aa4d6e42-243c-4cc6-809e-4f5ac23e4f9a/building-6th-ave-nyc-photo-by-joe-mckendrick.jpg",
+          "width": 960,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "publishedDateTime": "2021-07-17T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-hungryroot-delivers-ai-powered-grocery-experience.md",
       "title": "Hungryroot delivers AI-powered grocery experience",
       "excerpt": "Hungryroot uses AI-powered grocery delivery, matching consumer preferences to the weekly boxes they receive through an AI-powered algorithm.",
@@ -1070,153 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-how-medhost-is-migrating-electronic-health-record-data-to-aws-for-compliance-and-gaining-valuable-insights.md",
-      "title": "How MEDHOST is migrating electronic health record data to AWS for compliance and gaining valuable insights",
-      "excerpt": "Healthcare technology companies often turn to AWS to help them accelerate their clinical and business objectives. MEDHOST has provided enterprise information technology and electronic health record (EHR) solutions to full-service community hospitals for more than 35 years. Today, more than 1,000 healthcare",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-medhost-is-migrating-electronic-health-record-data-to-aws-for-compliance-and-gaining-valuable-insights/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-medhost-is-migrating-electronic-health-record-data-to-aws-for-compliance-and-gaining-valuable-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-16T09:53:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-carnegie-melon-professor-develops-real-time-learning-four-legged-robot.md",
-      "title": "Carnegie Melon professor develops real-time learning four-legged robot",
-      "excerpt": "The artificial intelligence robot developed by Carnegie Melon University Professor Deepak Pathak can adapt in real-time and teach itself how to maneuver through rocks, sand, grass and oil-covered surfaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
-      "originalUrl": "https://www.upi.com/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/ph/st/th/7871626448726/2021/i/16264493693954/v1.5/Carnegie-Melon-professor-develops-real-time-learning-four-legged-robot.jpg?lg=2",
-          "width": 637,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
-      "publishedDateTime": "2021-07-16T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate.md",
-      "title": "Anthony Bourdain Documentary ‘Roadrunner’ Sparks A Strange Ethics Debate",
-      "excerpt": "Neville stated: “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know. We can have a documentary-ethics panel about it later.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/",
-      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 303,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f1a2151251a7c507b4358e%2F0x0.jpg",
-          "width": 1200,
-          "height": 824,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/",
-      "publishedDateTime": "2021-07-16T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

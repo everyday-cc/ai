@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-28-with-computer-vision-bzigo-creates-iron-dome-against-mosquitos.md",
+      "title": "With computer vision, Bzigo creates ‘Iron Dome’ against mosquitos",
+      "excerpt": "Israeli startup's tech doesn't kill the pests, just pinpoints them with laser light and alerts your smartphone",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/",
+      "originalUrl": "https://www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/07/Bzigo_From_Behind-e1627155186683-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/amp/",
+      "publishedDateTime": "2021-07-28T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels.md",
       "title": "Detect small shapes and objects within your images using Amazon Rekognition Custom Labels",
       "excerpt": "There are multiple scenarios in which you may want to use computer vision to detect small objects or symbols within a given image. Whether it’s detecting company logos on grocery store shelves to manage inventory, detecting informative symbols on documents, or evaluating survey or quiz documents that",
@@ -323,7 +366,7 @@
       "originalUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -418,7 +461,7 @@
       "originalUrl": "https://www.msn.com/en-us/money/smallbusiness/want-your-unemployment-benefits-you-may-have-to-submit-to-facial-recognition-first/ar-AAMtC1Y",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -1407,49 +1450,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-black-teen-barred-from-skating-rink-after-facial-recognition-camera-misidentified-her.md",
-      "title": "Black Teen Barred From Skating Rink After Facial Recognition Camera Misidentified Her",
-      "excerpt": "A Black teenager's parents are considering taking legal action after she was barred from a skating rink because the venue's facial recognition technology misidentified her. Juliea Robinson dropped off her daughter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023",
-      "originalUrl": "https://www.msn.com/en-us/news/crime/black-teen-barred-from-skating-rink-after-facial-recognition-camera-misidentified-her/ar-AAMc9qg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 252,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1846724/facial-recognition-camera.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023?amp=1",
-      "publishedDateTime": "2021-07-15T07:15:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023",
-        "domain": "newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

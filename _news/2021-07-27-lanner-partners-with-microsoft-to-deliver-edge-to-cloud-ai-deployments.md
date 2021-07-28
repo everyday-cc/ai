@@ -57,6 +57,22 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Voice And Speech Recognition Software Market is Booming Worldwide | Microsoft, Alphabet, Voicevault"
+    excerpt: "The latest study released on the Global Voice And Speech Recognition Software Market by AMA Research evaluates market size trend and forecast to 2026 The Voice And Speech Recognition Software Market study covers significant research data and proofs to be"
+    publishedDateTime: 2021-07-28T07:31:00Z
+    webUrl: "https://www.openpr.com/news/2339275/voice-and-speech-recognition-software-market-is-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2339275/voice-and-speech-recognition-software-market-is-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339275/voice-and-speech-recognition-software-market-is-booming"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 64
+    images:
+      - url: "https://cdn.openpr.com/U/7/U728879201_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Lanner Partners with Microsoft to Deliver Edge-to-Cloud AI Deployments"
     excerpt: "Lanner Electronics, a global leader in the design and manufacturing of intelligent edge computing appliances, announced today its partnership with Microsoft Azure to launch Edge-to-Cloud AI Solution,"
     publishedDateTime: 2021-07-27T20:47:00Z

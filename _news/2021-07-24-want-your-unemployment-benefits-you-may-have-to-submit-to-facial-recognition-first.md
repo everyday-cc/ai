@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-rec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/23/tech/idme-unemployment-facial-recognition/index.html"
 type: article
 quality: 153
-heat: 203
+heat: 193
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://mobileidworld.com/wp-content/uploads/HiRes14-e1435871446756.jpg"
         width: 708
         height: 800
-        isCached: true
-  - title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
-    excerpt: "By Rachel Metz, CNN Business After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he hasn’t received a penny of the $6,"
-    publishedDateTime: 2021-07-23T14:08:00Z
-    webUrl: "https://kyma.com/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 31
-    images:
-      - url: "https://kyma.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
-        width: 2500
-        height: 1663
         isCached: true
   - title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
     excerpt: "After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he ha"

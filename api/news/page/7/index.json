@@ -2,6 +2,146 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-21-pitch-deck-reveals-how-an-ai-startup-that-helps-brands-like-google-and-microsoft-plan-their-marketing-raised-15-million.md",
+      "title": "Pitch deck reveals how an AI startup that helps brands like Google and Microsoft plan their marketing raised $15 million",
+      "excerpt": "BlueOcean was founded by ad agency vets to automate and simplify market research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7",
+      "originalUrl": "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60f73547aa1f1f0012f687ce?width=700",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-re2-robotics-sapien-6m-arm-designed-for-outdoor-applications.md",
+      "title": "RE2 Robotics Sapien 6M arm designed for outdoor applications",
+      "excerpt": "The RE2 Sapien 6M robotic arm is being used by commercial and defense customers who require a mobile outdoor-rated arm for complex tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/re2-robotics-sapien-6m-arm-designed-outdoor-applications/",
+      "originalUrl": "https://www.therobotreport.com/re2-robotics-sapien-6m-arm-designed-outdoor-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/RE2Sapien6M-80lb-Lift.jpg",
+          "width": 600,
+          "height": 745,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-what-machine-learning-can-offer-nigerias-healthcare-system.md",
+      "title": "What machine learning can offer Nigeria's healthcare system",
+      "excerpt": "Imagine it's 2030—and a typical day in a Nigerian healthcare setting. In earlier decades, when a patient walked in, they could see piles of folders and a clutter of pens scattered all over the office.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/what-machine-learning.jpg",
+          "width": 926,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-machine-nigeria-healthcare.amp",
+      "publishedDateTime": "2021-07-21T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-tesla-knocked-500-off-a-hardware-upgrade-for-its-full-self-driving-subscription-after-customer-backlash.md",
       "title": "Tesla knocked $500 off a hardware upgrade for its Full Self Driving subscription after customer backlash",
       "excerpt": "Tesla offered customers with older cars a $1,500 Full Self-Driving hardware upgrade, provoking a backlash. Now, it's charging $1,000.",
@@ -1049,143 +1189,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-army-eyes-artificial-intelligence-ai-to-enable-armored-vehicles-to-attack-several-targets-in-seconds.md",
-      "title": "Army eyes artificial intelligence (AI) to enable armored vehicles to attack several targets in seconds",
-      "excerpt": "The kinds of initiatives are now taking on a newer, more advanced character as artificial intelligence (AI)-enabled ... such as those for driverless cars, have been advancing for quite some ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.militaryaerospace.com/computers/article/14179977/combat-vehicles-artificial-intelligence-ai-targets",
-      "originalUrl": "https://www.militaryaerospace.com/computers/article/14179977/combat-vehicles-artificial-intelligence-ai-targets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/07/Future_tank_21_July_2020.5f15bea095cd7.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Military",
-        "domain": "militaryaerospace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-medical-imaging-powered-by-ibm.md",
-      "title": "Medical Imaging, Powered by IBM",
-      "excerpt": "IBM Watson Health and Merge Healthcare are bringing new insights, made possible through artificial intelligence and cognitive computing, to medical imaging. Radiologists are about to get some help with their imaging workload. IBM Watson Health and Merge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/radiological/medical-imaging-powered-ibm",
-      "originalUrl": "https://www.mddionline.com/radiological/medical-imaging-powered-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-ai-is-not-going-to-replace-writers-anytime-soon-but-the-future-might-be-closer-than-you-think.md",
-      "title": "AI Is Not Going To Replace Writers Anytime Soon – But The Future Might Be Closer Than You Think",
-      "excerpt": "Is AI for content creation over-hyped or will all writers eventually be replaced by bots? Businesses don’t necessarily need more content, they need better content that actually performs. AI is doing a lot to help streamline content marketing and management for companies across the board.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/07/20/ai-is-not-going-to-replace-writers-anytime-soon--but-the-future-might-be-closer-than-you-think/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/07/20/ai-is-not-going-to-replace-writers-anytime-soon--but-the-future-might-be-closer-than-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60de2619877300216b7b14e8%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/07/20/ai-is-not-going-to-replace-writers-anytime-soon--but-the-future-might-be-closer-than-you-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/20/ai-is-not-going-to-replace-writers-anytime-soon--but-the-future-might-be-closer-than-you-think/amp/",
-      "publishedDateTime": "2021-07-20T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,162 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-14-report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future.md",
+      "title": "Report: Computer vision adoption expected to grow significantly in the near future",
+      "excerpt": "An overwhelming 96% of respondents believe that computer vision has the potential to boost revenue, while 97% said these technologies will save their organization time and money, according to a new IDG study commissioned by Insight. While only 10% of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
+      "originalUrl": "https://www.techrepublic.com/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/14/b386c617-f485-4ea6-a15a-15f8aa2df175/resize/1200x/2951e8519179825379ff08f6d3e1bc9f/metamorworks-2.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/report-computer-vision-adoption-expected-to-grow-significantly-in-the-near-future/",
+      "publishedDateTime": "2021-07-14T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions.md",
+      "title": "Facebook AI researchers create a robot able to adapt to rapidly changing conditions",
+      "excerpt": "Work is being performed all around the world to give robots more human-like abilities. One of the key human-like abilities that researchers want robots to have is the ability to react in real-time",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/",
+      "originalUrl": "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/ai-robot.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-ai-researchers-create-a-robot-able-to-adapt-to-rapidly-changing-conditions-14682330/amp/",
+      "publishedDateTime": "2021-07-14T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-cape-analytics-raises-44m-to-automate-property-inspections-with-ai.md",
+      "title": "Cape Analytics raises $44M to automate property inspections with AI",
+      "excerpt": "Cape Analytics, a company meshing AI with aerial imagery to power property insurance inspections, has raised $44 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ddd-e1626271091314.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/",
+      "publishedDateTime": "2021-07-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-microsoft-azure-receives-new-features-and-enhanced-migration-services.md",
       "title": "Microsoft Azure receives new features and enhanced migration services",
       "excerpt": "Microsoft announced a host of enhanced products across Azure, including the Azure Migration and Modernization Program.",
@@ -671,6 +827,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-14-baidu-and-on-semiconductor-team-up-with-eye-on-image-sensors-for-self-driving-cars.md",
+      "title": "Baidu and ON Semiconductor Team Up With Eye on Image Sensors for Self-Driving Cars",
+      "excerpt": "Baidu Apollo has partnered with Phoenix-headquartered semiconductor supplier ON Semiconductor to set up a joint studio to explore image sensor solutions for autonomous driving, a move that could give it an edge in developing driverless vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.caixinglobal.com/2021-07-14/baidu-and-on-semiconductor-team-up-with-eye-on-image-sensors-for-self-driving-cars-101740301.html",
+      "originalUrl": "https://www.caixinglobal.com/2021-07-14/baidu-and-on-semiconductor-team-up-with-eye-on-image-sensors-for-self-driving-cars-101740301.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.caixin.com/2021-07-14/1626239488908353_560_373.jpg",
+          "width": 560,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Caixin Global",
+        "domain": "caixinglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market.md",
       "title": "Compliance with Safety Regulations Becomes Key Proposition in Medical Robotics Market",
       "excerpt": "Robots have enormous potential in medical and healthcare applications, as is evident in the swift pace of penetration in the sector. Per a projection by the International Federation of Robots (IFR), the medical robotics spawn a multibillion dollars market.",
@@ -961,195 +1160,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-port-of-seattle-bans-facial-recognition-tech-by-law-enforcement-some-private-use-remains-permitted.md",
-      "title": "Port of Seattle bans facial recognition tech by law enforcement; some private use remains permitted",
-      "excerpt": "The Port of Seattle Commission voted Tuesday to ban the use of biometric technology for surveillance and security purposes by government and law enforcement on all its",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/",
-      "originalUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/true-630x420.jpeg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/",
-      "publishedDateTime": "2021-07-13T18:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-singapore-is-launching-a-50-million-program-to-advance-research-on-ai-and-cybersecurity.md",
-      "title": "Singapore is launching a $50 million program to advance research on AI and cybersecurity",
-      "excerpt": "The city-state will set up new communications testbeds in 5G and beyond-5G, support technology development and training, and build up a talent pool.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html",
-      "originalUrl": "https://www.cnbc.com/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 248,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106773377-1604299089782-gettyimages-1229319130-AFP_8TZ6T8.jpeg?v=1626150420",
-          "width": 5570,
-          "height": 3713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/13/singapore-to-launch-50-million-program-in-ai-cybersecurity-research-for-5g.html",
-      "publishedDateTime": "2021-07-13T17:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment.md",
-      "title": "Seedtag’s Computer Vision Capabilities Boost Olympics Brand Sponsorships Within Digital Environment",
-      "excerpt": "Seedtag, the leader in Contextual advertising in EMEA and LATAM, has today announced that it has developed specific computer vision capabilities to detect sports and help advertisers harness the power of visual media throughout the Tokyo 2020 Olympic Games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "originalUrl": "https://www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.exchangewire.com/wp-content/uploads/2021/04/seedtag-logo-2021.png",
-          "width": 271,
-          "height": 271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "cdnAmpWebUrl": "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "publishedDateTime": "2021-07-13T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "exchangewire.com",
-        "domain": "exchangewire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-secdef-austin-commits-us-to-responsible-ai.md",
-      "title": "SecDef Austin Commits US To ‘Responsible AI’",
-      "excerpt": "\"AI is going to change many things about military operations, but nothing is going to change America’s commitment to the laws of war and the principles of our democracy,\" the Defense Secretary said.",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/",
-      "originalUrl": "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2021/07/SecDef-Austin-speaks-on-Artificial-Intelligence.png.jpeg.png",
-          "width": 1346,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/07/secdef-austin-commits-us-to-responsible-ai/amp/",
-      "publishedDateTime": "2021-07-13T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

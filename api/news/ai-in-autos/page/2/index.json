@@ -407,6 +407,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-14-baidu-and-on-semiconductor-team-up-with-eye-on-image-sensors-for-self-driving-cars.md",
+      "title": "Baidu and ON Semiconductor Team Up With Eye on Image Sensors for Self-Driving Cars",
+      "excerpt": "Baidu Apollo has partnered with Phoenix-headquartered semiconductor supplier ON Semiconductor to set up a joint studio to explore image sensor solutions for autonomous driving, a move that could give it an edge in developing driverless vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.caixinglobal.com/2021-07-14/baidu-and-on-semiconductor-team-up-with-eye-on-image-sensors-for-self-driving-cars-101740301.html",
+      "originalUrl": "https://www.caixinglobal.com/2021-07-14/baidu-and-on-semiconductor-team-up-with-eye-on-image-sensors-for-self-driving-cars-101740301.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.caixin.com/2021-07-14/1626239488908353_560_373.jpg",
+          "width": 560,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Caixin Global",
+        "domain": "caixinglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year.md",
       "title": "SAIC Motor says it will put Robotaxis capable of L4 self-driving on roads in China this year",
       "excerpt": "Chinese automotive design and manufacturing company SAIC Motor says it will launch 40 to 60 Robotaxis capable of Level 4 self-driving throughout Shanghai and Suzhou before the end of 2021. The bold statement was made by Zu Sijie,",
@@ -1336,58 +1379,6 @@
         "name": "POLITICO",
         "domain": "politico.eu",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses.md",
-      "title": "Yandex Self-Driving Group partners with GrubHub to bring robotic delivery to college campuses",
-      "excerpt": "Yandex Self-Driving Group, a unit of Yandex, the publicly-traded Russian tech giant, has announced a partnership with food delivery service GrubHub to be its multi-year robotic delivery provider across American college campuses.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/",
-      "originalUrl": "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/YanexRoverDeliveryMI_2-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/06/yandex-self-driving-group-partners-with-grubhub-to-bring-robotic-delivery-to-college-campuses/amp/",
-      "publishedDateTime": "2021-07-06T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

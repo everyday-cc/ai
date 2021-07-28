@@ -95,20 +95,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "DeepMind and EMBL release most complete database of predicted 3D structures of human proteins"
-    excerpt: "DeepMind today announced its partnership with the European Molecular Biology Laboratory (EMBL), Europe's flagship laboratory for the life sciences,"
-    publishedDateTime: 2021-07-23T13:35:00Z
-    webUrl: "https://www.miragenews.com/deepmind-and-embl-release-most-complete-601570/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 28
-    images:
-      - url: "https://www.who.int/images/default-source/departments/blindness/250_who-peru_lima-march-2018_samir-gustavo-rosales-lopez-trying-his-new-glasses-at-his-school_photo-credit_who-sebastian-liste.tmb-768v.jpg?sfvrsn=89945b85_1"
-        width: 768
-        height: 512
-        isCached: true
   - title: "DeepMind Releases Accurate Picture of the Human Proteome"
     excerpt: "\"We believe this represents the most significant contribution AI has made to advancing scientific knowledge to date,\" said DeepMind founder and CEO Demis Hassabis."
     publishedDateTime: 2021-07-23T18:44:00Z

@@ -87,20 +87,6 @@ related:
         width: 708
         height: 800
         isCached: true
-  - title: "Half of US states are now using facial recognition software from this little-known company to vet unemployment claims"
-    excerpt: "By Rachel Metz, CNN Business After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he hasn’t received a penny of the $6,"
-    publishedDateTime: 2021-07-23T14:08:00Z
-    webUrl: "https://kyma.com/cnn-social-media-technology/2021/07/23/half-of-us-states-are-now-using-facial-recognition-software-from-this-little-known-company-to-vet-unemployment-claims/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 31
-    images:
-      - url: "https://kyma.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
 
 secured: "bmB+ekZcp5saQO1egRdVP6eSWMmH0YA3cuEkjVIkru36SHbjW1WvfS3hzqTVgkqoBpgnLZjX3ToGF5ZgL0Bf7ag50BVTmhDW4H+6Vsel8PWBpF0OKJrBOI8UJypj2+WsOfDW99jqdhZhj87y4TIsY7D+Bca8BC7m2C5ZH7OcayPNewoA1HxdNFRF8ghTwCRuMfK4uqnhYhZ17TeZkNKQvFEA1lbLwsO8JVIPFOb7THTC5/GyT+lUcGrsHtQy5xNhNOxzNAqBc3srIJlLrJwOAawpCmcHxbx3iMHWK4ls8EZtlw0WYnjDH0sI2pAb7GAlsEc3NWHQYOvMipCV0rNBxF0GIMRwp43E5ZU8NW8UmgkbKOJBdVMQCiurhC1mXAQKLiNQMqn20u2PhoS124Od4FRmDVy0M2k+20YVjbSz/Zo99mzzLolfxbeN4YK24+GdvOiH/EO9BPm73w7W67bDsR5HY1NlN2/uNPxGNnnzJzwff9uwCeWQtOl4Kp5TP7fpO1XDkOhyngfPUajLYDiWew==;n9XJ/PLCgDsCJ01qYjs4Fw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-in-india-market-segmentation-application-consumption-and-revenue-report-2021-2030-2021-07-27"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Digital Transformation In Healthcare Market Report Now Available with Deep Insight on Flat 2000 USD Discount"
+    excerpt: "Digital Transformation In Healthcare Market Perspective 2021 110 Pages Digital transformation in health care is the incorporation of digital technology into all aspects of the patient related health care sector health care providers and regulators It includes many technologies such"
+    publishedDateTime: 2021-07-28T06:11:00Z
+    webUrl: "https://www.openpr.com/news/2339188/digital-transformation-in-healthcare-market-report-now"
+    ampWebUrl: "https://www.openpr.com/amp/2339188/digital-transformation-in-healthcare-market-report-now"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339188/digital-transformation-in-healthcare-market-report-now"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
+    images:
+      - url: "https://cdn.openpr.com/U/7/U728472472_g.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence Market Size, Key Company, Recent Trends, Segmentation and Regional Forecast till 2027"
     excerpt: "The Global Artificial Intelligence Market to Touch USD 25 Billion at a 48% CAGR by 2023 North America to Dominate the"
     publishedDateTime: 2021-07-27T13:24:00Z
@@ -46,7 +62,7 @@ related:
   - title: "Indian AI-based fitness gamification startup raises $873k in seed funding"
     excerpt: "Insane AI uses computer vision, AI, and augmented reality to let users use their body as a game controller and convert workouts into a multiplayer game."
     publishedDateTime: 2021-07-28T04:56:00Z
-    webUrl: "https://www.techinasia.com/indian-aibased-fitness-gamification-startup-insane-ai-raises-873k-seed-funding"
+    webUrl: "https://www.techinasia.com/ola-enter-used-car-retailing-business/next"
     type: article
     provider:
       name: Techinasia

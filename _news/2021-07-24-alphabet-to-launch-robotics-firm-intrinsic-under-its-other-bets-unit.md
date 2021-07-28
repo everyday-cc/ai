@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-i
 webUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -60,16 +60,7 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-    excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. July 23 (Reuters) - Alphabet Inc's ..."
-    publishedDateTime: 2021-07-23T13:58:00Z
-    webUrl: "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
 
-secured: "OOVXC/q1GQ/rSm13mni2uBiDKh1x2oXiFZcVw7mlAFcB2A2inWQqtVDEXqBU+jxqjB7vSZEOAnq5o0ZQxiZ5fGntGdPIRIm1Jkq8pZ6EQa66SnAn1ZT5/REe5HNUcsHwwZSqIA5CmjAbE0P4g1/k0ZicWye3Z3bpMosFjPVur1VhvTyoCx3c2E615QOVrYPYKmuii92di3H8H9DQfbGilPrgs424ixbt0VV0QXp5hxVXJwOyWl1YW9cM1RZIk6sD659DYtWufBTXWXlQfs7Pi1bpY7jUvgF7z/D42tl1wcdUDi/8sWHvbOh6UnPC+IkzIT5qJQBy0mfBKVxyfyKZth/8KZHn08nj4hTa2daOskY=;ux/6uO2DAxwZJz8PNMYwjw=="
+secured: "8QhA8DYrzWbNWJsOmu1yFYK9GHP7O3EfV13CjTve1iKR036tEnAN3JQJpXBjuyEjaRLhT3pCyfTeJvV7BZYOyz4xEh0JJ3lGyEytOaEzVgFKHG+Bbfh+UkGxzD/GMmKI3pXQintEJjfCA4wdYb7c9Kc06MzaypoOAPrWsb+uOZbZm6JzBcp6XTBg+6kcxAk4U1/+elUSs+X9W7IQLhFT5xjXqr3qsNaF+MLzgTDyaPv9T3HZ7s52bE+NqZdyGoo5RhQ2VhOWdGIX3MUKPI7TKtu0DMOe6xcr4WfGfA2DMmN9Ei1FBuuFZsldrytES12UwVLXRY6jDxh7jzYXYhFl/my3JFFkdZuF5oK7tDNMIoc=;/UGoFAw+j5Gf24bAtDdLfQ=="
 ---
 

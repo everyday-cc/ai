@@ -21,12 +21,12 @@ topics:
 related:
   - title: "Blue Hexagon Augments AWS Network Firewall with AI-based Cloud-Native Threat Detection"
     excerpt: "Blue Hexagon, a leading agentless cloud-native AI security platform, announced the native integration of Blue Hexagon’s industry-leading real-time deep learning based threat detection with AWS Network Firewall for real-time protection."
-    publishedDateTime: 2021-07-26T10:00:00Z
-    webUrl: "https://www.financialbuzz.com/blue-hexagon-augments-aws-network-firewall-with-ai-based-cloud-native-threat-detection/"
+    publishedDateTime: 2021-07-26T05:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210726005094/blue-hexagon-augments-aws-network-firewall-with-ai-based-cloud-native-threat-detection"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 26
 
 secured: "RV94bCynBfl40E8Tf50t14xTx+pC8AW6pDBwo+v0ncO5eavsvi4lOHhcTnt4JCN8pGAKJ9QtBjQvNMBCdHhFQn2U9subWfPtF3TCecOETIfi7ymM39O5tR+BGli73ZPKDWVKa9rS74BErEPHh2j5WUqSU1jb1Fm5H8XLm28qnPE2ITMqM2UVaxUu598n2xQnk3Dms1iNuF96nf9V940H3/CiRwBoxVv/beVO2EKAlKHviD4c87nloy2rCwvd1slnBdPuZA/TbmCCUo+zoT9vi0RbKmoYtg5beRZj7+nizopXuBkBdh9vcxcOLM+TOpFHK3gCRiKzP9ZnOtS8V+IGpF2wGeB6cMpXsHOT3J7/zQQ=;Q9SB5Dv8iLrJwzf1sDGoKw=="
