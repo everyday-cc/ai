@@ -7,7 +7,7 @@ originalUrl: "https://www.pmlive.com/pharma_news/googles_deepmind_opens_breakthr
 webUrl: "https://www.pmlive.com/pharma_news/googles_deepmind_opens_breakthrough_protein_database_to_the_world_1373638"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Burst of Protein Structure Predictions from DeepMind, EMBL"
-    excerpt: "AlphaFold, an AI system for predicting protein structures, has enabled DeepMind and the EMBL to release more than 350,000 protein structure predictions, including predictions covering nearly the entire human proteome,"
-    publishedDateTime: 2021-07-23T22:10:00Z
-    webUrl: "https://www.genengnews.com/news/burst-of-protein-structure-predictions-from-deepmind-embl/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 39
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2021/07/July23_2021_Karen-Arnott-EMBL-EBI_AlphaFold-Generates-Protein-Structures-from-Data.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "The Times view on DeepMind’s scientific revolution: Protein Power"
-    excerpt: "The universe is vast yet it is comprehensible. The human mind is able to gain knowledge of it through science. A potentially historic example emerged this week with news that British researchers from"
-    publishedDateTime: 2021-07-23T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/the-times-view-on-a-deepmind-scientific-revolution-protein-power-sz8hv2lpk"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F75b5f0a6-ebfa-11eb-baaa-861dba20d87a.jpg?crop=1520%2C855%2C120%2C192&resize=685"
-        width: 685
-        height: 385
-        isCached: true
   - title: "Google’s DeepMind puts human proteome online for free"
     excerpt: "The most complete database of protein structures ever assembled, developed with the help of Google’s artificial intelligence unit"
     publishedDateTime: 2021-07-26T09:27:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T14:05:00Z
 originalUrl: "https://www.motortrend.com/news/commentary-there-are-no-self-driving-cars-on-sale-today/"
 webUrl: "https://www.motortrend.com/news/commentary-there-are-no-self-driving-cars-on-sale-today/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Motor Trend

@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T15:30:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/28/industrial-revolution-40-and-massively-distributed-manufacturing-will-be-driven-via-autonomous-vehicles-and-self-driving-cars/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/28/industrial-revolution-40-and-massively-distributed-manufacturing-will-be-driven-via-autonomous-vehicles-and-self-driving-cars/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Forbes

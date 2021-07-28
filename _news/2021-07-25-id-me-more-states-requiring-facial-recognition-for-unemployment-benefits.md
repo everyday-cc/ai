@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wraltechwire.com/2021/07/25/id-me-more-states-requiring-
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/07/25/id-me-more-states-requiring-facial-recognition-for-unemployment-benefits/?amp=1"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: WRAL TechWire
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Millions of Americans seeking unemployment benefits must submit to facial recognition software"
-    excerpt: "Residents in 25 states have to register with ID.me's facial-recognition software to collect unemployment benefits, with more to come. But there are no federal laws governing biometrics."
-    publishedDateTime: 2021-07-23T21:58:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9819499/Millions-Americans-seeking-unemployment-benefits-submit-facial-recognition-software.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9819499/amp/Millions-Americans-seeking-unemployment-benefits-submit-facial-recognition-software.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9819499/amp/Millions-Americans-seeking-unemployment-benefits-submit-facial-recognition-software.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 47
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/07/23/22/45821447-0-image-a-2_1627076205152.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "China's top court outlines facial recognition infringement"
     excerpt: "ANN): China's top court issued a judicial interpretation on the handling of civil cases involving facial recognition on Wednesday (July 28), aiming to give stronger legal protection of personal information."
     publishedDateTime: 2021-07-28T12:39:00Z

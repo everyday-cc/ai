@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) In Supply Chain Market anticipated to witness remarkable growth statistics during 2020-2026"
+    excerpt: "In Supply Chain Market anticipated to witness remarkable growth statistics during 2020-2026” A fundamental outline of the Artificial Intelligence (AI) In Supply Chain Market niche is presented by the Artificial Intelligence (AI) In Supply Chain Market report that entails definitions,"
+    publishedDateTime: 2021-07-28T10:35:00Z
+    webUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-in-supply-chain-market-anticipated-to-witness-remarkable-growth-statistics-during-2020-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 4
 
 secured: "sLojxy7IdkscVT57gcV4xb2hdibT1KI+e0BY+O2hlCgQW/7OEq5ccwyvCND8VGid/l2Ckyim21AKoJ5iTx/JLxQ3oX22j+tIp+bvWFFkLqfN6Zs5sfgjCeHB3CMl5RnkIXdNO1wxqOErFxMhl3hI7OnakQO/VzVzGbRGlL96nKamXs5Rr7k4VUic5fe0vMEdkLH7kO3FCOwNPfw+7WTmaHncpOzIrD8LIDgUMCY2Qfq7UoABbPAojqc4d/wKFXzdRvajrXuYCHeoxeZx4ViEQ8yTvOCtti6NPqYhqNn7zeC/TR8Kq3mQWWsoTy9kzewkXKbQuQejTzw1Ag5F22VmLYEHgMLo7li0ef5EIkyruxs=;kvlT0XnWHmMac5U+okaWOg=="
 ---

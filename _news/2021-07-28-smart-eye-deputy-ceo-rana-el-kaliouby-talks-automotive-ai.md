@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Smart Eye Deputy CEO Rana el Kaliouby talks automotive AI"
-    excerpt: "Rana el Kaliouby co-founded and led Boston startup Affectiva, which uses artificial intelligence and computer vision to analyze mood and emotion. Now she's got a new job as deputy CEO of Smart Eye, after the Swedish eye-tracking company bought Affectiva for $73."
-    publishedDateTime: 2021-07-26T13:10:00Z
-    webUrl: "https://apnews.com/04e14f50e1b6843af76cf00e0d23d38e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/f947b76b376f46a49f8fe9372c8f28be/3000.jpeg"
-        width: 3000
-        height: 2130
-        isCached: true
   - title: "Smart Eye Deputy CEO Talks Automotive AI"
     excerpt: "Carmakers are bracing for new safety rules and standards around the world that could require dashboard cameras to detect dangerous driver behavior."
     publishedDateTime: 2021-07-26T13:42:00Z
@@ -54,6 +40,15 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "Smart Eye Deputy CEO Rana el Kaliouby talks automotive AI"
+    excerpt: "Rana el Kaliouby co-founded and led Boston startup Affectiva, which uses artificial intelligence and computer vision to analyze mood and emotion"
+    publishedDateTime: 2021-07-26T13:12:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/smart-eye-deputy-ceo-rana-el-kaliouby-talks-79061997"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 17
 
 secured: "60rTnZqFHx6nRNbAoWA3n7Uw1onaYv5Q91W0AsAurvo2UJE1zYBSqVwRvq60u6atiSgKO91q7iJqgZcFowQLRxe3PND4d6hm5LC5f3k2kV5FyyGi0QYF2uyNUV0lahINDHccQLeHWcb1lZAt/TxSPr2P9s7SN0EjEdn+w1cJtn73k6WO1dNeiJbXq+mjW6dlmf+yf7AxCKW5vIBuE2yidB1CZQV7tCQ1ANBvRVxZX/RDi/4Y9dXzQaHWw957Zhh0lULWkRgjf0KV1ZGiwQZfd4Z/i/iFIwRW1ZNfCLa4I4WDbwE5dqiHITybUcAPMYgvkYYn/ypTpYmgQJ40lxPqjaIgq9MFJiYEzFc+/9uMfRwd5jhgZpyvFT8g2bZwRMion2ZeokRaYNdZTiHDpvC6GQWuUgJbUlnBi01eLO8YWJuKp3nks24w2/8mKHup4cagvpAjblk1X6rd41pgwlH7pO183SNXGIZi/+HEnlFNSFEp9n5YZimq+bwprKQvpzmk3ZgpFn+x4D7d196geesahg==;6SgNX49F7LmpPfWZlLLxxw=="
 ---

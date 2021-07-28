@@ -20,6 +20,12 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "BTRZD054RjTyVapnn0nsyIJjoc42nJAJiBHNkOC1T93klROCLDFFJN9s3ZVQ4CN4lRN0eCWWSvyT4pYDHey2ijqeKysajk0s/OoQvigqEelxPvdR+alNjFI5MGbHyLv0JMk4Q/fvvNEX3cuxCGMF8ljutrGjLXEyouzw3vL+af5EhaKxu0Qs9TkUicijPGdobocWNP5K2j9QF4RIlMlKUDvOCYIpJw6tYwa0kadY4Nhq50YUheNlffJRmY0oxOo3qXzYUyWvGdB8zdEivfYXEpQoH0My4gCwWbBEDjW7aGc5XHFHVdToA0EUtghYuDgBa0kVdz8aY3JJXuzHa8gmtAeUwT710z2QQ08JPjn6XtY=;bqfUtAy40XOGwNoSibxnKA=="
+images:
+  - url: "https://www.reuters.com/resizer/RkqwUqV_pSTg-8Gt3pKHghTeZuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2DMPV6O5NJERDO3F7MHS7QIA4.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "nKu8hR1SFCb1A4OQb599bm4YAA6kwOZeXx7lOmxlprmUmm1Gi0pKAh6tkkd1Z4bdUxWLimhh7l4AieFNPhG+pCGMa5GgBVWdWf/liIdGzd4N9zSsbVvogs+ESCBTjyrQfPioxESOJNF4SzbcEBDjjkc0IGsmxMziQ55v8pZcJo7aLUoiB0ngeurwvk8maNDA1OxzY+0wqHmpyWbEeGOu3UCpmLoZH7iUNJLaiMKQcjo9Sac0qun9QJfva1bFg2vbLlks9kMUzNAfwPlKdobO6cTT/V1DhtMOpjotu7j5CNvFRI00aICfiiZtk4k12aRsRZuStTqz3xlIDqmsILUAb1LXxkNqRQhbQ6m6M4E8pMo=;XlA/Is7uvdEaVXMFtF97YQ=="
 ---
 

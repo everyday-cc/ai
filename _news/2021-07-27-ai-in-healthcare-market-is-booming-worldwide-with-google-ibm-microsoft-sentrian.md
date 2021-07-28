@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2338927/ai-in-healthcare-market-is-boomin
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm"
 type: article
 quality: 85
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Design for responsible AI with Microsoft’s HAX"
+    excerpt: "At the heart of HAX is a set of guidelines built from 18 best practices that you can use to guide interactions between users and your systems. They’re presente"
+    publishedDateTime: 2021-07-28T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3626696/design-for-responsible-ai-with-microsoft-hax.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 64
   - title: "Voice And Speech Recognition Software Market is Booming Worldwide | Microsoft, Alphabet, Voicevault"
     excerpt: "The latest study released on the Global Voice And Speech Recognition Software Market by AMA Research evaluates market size trend and forecast to 2026 The Voice And Speech Recognition Software Market study covers significant research data and proofs to be"
     publishedDateTime: 2021-07-28T07:31:00Z

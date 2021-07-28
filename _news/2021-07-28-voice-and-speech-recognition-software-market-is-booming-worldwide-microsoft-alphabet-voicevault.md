@@ -61,6 +61,15 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Design for responsible AI with Microsoft’s HAX"
+    excerpt: "At the heart of HAX is a set of guidelines built from 18 best practices that you can use to guide interactions between users and your systems. They’re presente"
+    publishedDateTime: 2021-07-28T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3626696/design-for-responsible-ai-with-microsoft-hax.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 64
   - title: "Lanner Partners with Microsoft to Deliver Edge-to-Cloud AI Deployments"
     excerpt: "Lanner Electronics announced its partnership with Microsoft Azure to launch Edge-to-Cloud AI Solution, integrating Lanner AI accelerated intelligent edge appliance with Azure IoT edge module, runtime and cloud interface."
     publishedDateTime: 2021-07-27T15:52:00Z

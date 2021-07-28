@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-st
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "AI-enabled HCM systems in a post pandemic Africa"
-    excerpt: "Prior to the arrival of the pandemic, mid-size organizations in Africa were experiencing significant growth. However, under the wide ranging effects of the pandemic, the economic activity is projected to have declined by 3."
-    publishedDateTime: 2021-07-25T13:52:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/AI-enabled-HCM-systems-in-a-post-pandemic-Africa-1316998"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 37
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/src/implementing-artificial-intelligence-part-1-hero1212.jpg"
-        width: 600
-        height: 250
-        isCached: true
 
 secured: "+wyfbm3xgLOO1jJuCNQd4DlsYwFcy2XIkDvC4XtAROHsLLG4NBLE9YtsSMTLtTslGxlIXZ9lyWAQORymahPQad+gj6KBQKjw4G9QOSD1XAWRf8Q/7prr+RUuurxM4KVdDWDggNDhYOwLdJNxqtRdFfF0waBpKb93+PqzYYQ+IuHBqCrBQizV2r3OBwaau0Suq9QcoJjTmLxiotLk6i2Ha+SaLgXgU26Wkw8+Rm2M9wkH2C7ldJcI4CiDCSpSWx8s/WxcxklFgDeqTWujSfA8XOeOwHU2nvKzHVqsTJmg55T0CK6BtYcGGSUKXHz2DTn+S6sbGC6hyCQgJ58TEwZYg3GWD+c+QV0+Lv+HJ1YDtfkUfyqWyl+5vkfryCIK70Z3PxSQCZoX3gm0xtPuVMvWgyZXkZ1P4yJQkKa+ohKK7n/Tlj1Hw9oYnJkcv8kJgtSr8g1XqK11JUMAQEFGB8pUXMNVPqkdAtfGkkfSsQYDcTKZ/yg4JXweTDiVkD5M80jPPlqHU63mrZXUUlqLjZchgQ==;ZZHKE1Z6E3egpSTqNC/w7Q=="
 ---

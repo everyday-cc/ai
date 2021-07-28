@@ -50,7 +50,7 @@ related:
   - title: "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021"
     excerpt: "Analytics Insight has announced 'Top Robotics Companies at the Forefront of Innovation in 2021' in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
     publishedDateTime: 2021-07-26T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-analytics-insight-announces-top-robotics-companies-the-forefront-/2021/07/26/9416657.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/26/9416657.htm"
     type: article
     provider:
       name: TMCnet

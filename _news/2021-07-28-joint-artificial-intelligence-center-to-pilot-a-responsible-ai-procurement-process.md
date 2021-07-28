@@ -1,19 +1,26 @@
 ---
 category: news
 title: "Joint Artificial Intelligence Center to Pilot a Responsible AI Procurement Process"
-excerpt: "The Department of Defense Joint Artificial Intelligence Center (JAIC) is continuing to operationalize Responsible Artificial Intelligence with the announcement of a pilot of a"
-publishedDateTime: 2021-07-28T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/joint-artificial-intelligence-center-to-pilot-a-responsible-ai-procurement-process/article_26b0df77-1536-5495-8b8b-5cee70537fd1.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/joint-artificial-intelligence-center-to-pilot-a-responsible-ai-procurement-process/article_26b0df77-1536-5495-8b8b-5cee70537fd1.html"
+excerpt: "The Department of Defense Joint Artificial Intelligence Center (JAIC) is continuing to operationalize Responsible Artificial Intelligence with the announcement of a pilot of a procurement review process that will ensure AI acquired by the JAIC is aligned with DoD's AI Ethics Principles."
+publishedDateTime: 2021-07-28T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/joint-artificial-intelligence-center-to-pilot-a-responsible-ai-procurement-process-1030656855"
+webUrl: "https://markets.businessinsider.com/news/stocks/joint-artificial-intelligence-center-to-pilot-a-responsible-ai-procurement-process-1030656855"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "QRacx+nACjGQltDvfK4/I+Fe/5rDZHvaizuvXdVm2TFEPW27qO6fe4OMgn9EgoBvLIeL/hK0r537t7Yw8m24F2QDwo8iNun+Ph6mv5jF0LkjQopumSfYTpNiDq4ef3tPaqRyVUdCn2Ulow0WlAoNglz0alLkYjePX5pgmsHtagrvTqzVE6syFyIKgX/hoN7p2Tax5eTnjraWChkbMjTwaeHjVrymMqpyV1FSKeLcpL3SUAtlCuHG+FcsIwpij6XOAy7d9zr9iStNFrZDifxCKL3s/qloGBrw0jE38q3v33P+k6TzsQpY3SXFNc6ovc2Sl0A1rgAwAay+crp3mhcE8mntq8NuO8OC9qvJLb8vYyJfw1h3Xk1/sxFCBm+c26E8znDNhhB11ZBdinLtzVI3Ar2u4X15sbvgWOal+r4FugElW/mWxpqO9Y1wxJj0y/ZfTW5kVxy17lMBk4ftJoN23md1x485PUufQXR9rznXJidww0+Mztj19A3TSoeVcaRT0HH5PihJuPJ4jbQAVgBP8A==;UXapsmJrjOAv/U1E6Y+MlQ=="
+secured: "SGtUP7rRx5YW7ApgIJZWb/CJ1GDA2SdG1OnzNNpzKUC9iOO6bgONAg7vHkByswZCzwMrOPqlsS3yi2LDrR3g4D2EXL+7MXzbrgVArBvZsvNqocxhfqmJwMYrTit/IJvvi+FwUopPIl/XWrPG4erd737d33a0rEa1Y3aHVAe3sahDDeGXhqPneIa81mlwmk7UjHoLlLoC+gFjGiJv+TKwwZvJ7D7vZK7UAKWHHw9RhlqnhtyMQwLoeulruriN1RqDyFe8l4VDTpTJnlIPosGcK4uNEDPHs3KRpOUs/2mGPblxDcW4VW9Wt3BrsjLYGC+k2qmxt3+BBWvPm4Yj4irsiC6GlxhoNgloquAn+yinH44=;nYliSiki1c3EkopYKGqOiQ=="
 ---
 

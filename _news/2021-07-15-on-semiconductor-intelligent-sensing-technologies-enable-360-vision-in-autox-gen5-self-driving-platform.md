@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "WXPRZRZSkhK8pFbQn8trVLHzAzQ0k2w7co0WSK66wsJNKKrVJUNE4jj5Lv19CToCorHVxHotiZH56ByBzvN45nlqUDMGkGez0k0nZpMs1/h+/Y/ZDzBBeXhbKWreCkjH9fIwg8urVPKndMo3Jjk7lXRRv4BtlGRDCQEbF+qBXE0irOx00l0QJcu4wYV2qrXQoEz2oCz2wkM1E0bWnSE/kBCDquKNaEOjvpty8DGHE2DxTO+PRDbMBVLA6k1oWBr9IJm664AzSNmXxfONeE9n/Qkt3cinLMEDeTkNgWyjXukOzgjQaLlz+wSRcJqpE8kfht8e6REWC6PfEQtJuLVGUeQhMJCFAkyBMjak9GQgogc=;b7D+ljkLNU9j3MTQdthHbw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
+    width: 620
+    height: 290
+    isCached: true
+
+secured: "ZLaHtLWgO6tzNra7Cs/+MLVqDmXPhwmdL1RBceu+A+0XoT4A+k3fByYnYC8iJhm0TAPYgnut3IBBbCjf7ipPaKF6GTAohOiXPAH8Bo3H96/Mvibu/M0ca2uKFEhr+pNwUjTnNF1FbAWk1l7XnuzXTLLYCT4i05iCqyak7totKZxXouli1IrdYxRfSBZ3iDl3V/qE7id9zhT3A1JBMxNWTitvpeHeoTDVlua+RrME9QebrZGVGFtgj28n2jcaCsRG/oMjnaur0QztgG47gydFzjNZOhW1TzXy1aUJiPlqc+X2dl3/rZsZiMsr88HOR7ng0Ib21XyWJZP5sbvZOSCtJSMe3YEqY1GoQuzPo2i8E6I=;fm5oONCSZrVH/GLTTNyqNw=="
 ---
 

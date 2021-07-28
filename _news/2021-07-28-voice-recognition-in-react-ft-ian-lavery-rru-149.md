@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T14:09:00Z
 originalUrl: "https://devchat.tv/react-round-up/voice-recognition-in-react-ft-ian-lavery-rru-149/"
 webUrl: "https://devchat.tv/react-round-up/voice-recognition-in-react-ft-ian-lavery-rru-149/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: devchat.tv

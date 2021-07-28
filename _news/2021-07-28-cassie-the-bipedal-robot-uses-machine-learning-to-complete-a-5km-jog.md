@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/?amp=true"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 564
         isCached: true
+  - title: "Watch Cassie the bipedal robot complete a 5K run"
+    excerpt: "TechCrunch notes that Cassie is the basis of delivery bot Digit, created by Agility Robotics, a spin-off of Oregon State University. It started life as Cassie"
+    publishedDateTime: 2021-07-28T14:55:00Z
+    webUrl: "https://www.techspot.com/news/90581-watch-cassie-bipedal-robot-complete-5k-run.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
   - title: "Bipedal robot developed at OSU makes history by learning to run, completing 5K"
     excerpt: "Cassie the robot, invented at Oregon State University and produced by OSU spinout company Agility Robotics, has made history by traversing 5 kilometers, completing the route in just over 53 minutes."
     publishedDateTime: 2021-07-27T16:03:00Z

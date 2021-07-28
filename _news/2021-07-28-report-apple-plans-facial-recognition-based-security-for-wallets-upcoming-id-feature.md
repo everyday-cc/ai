@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T15:22:00Z
 originalUrl: "https://www.pcmag.com/news/report-apple-plans-facial-recognition-based-security-for-wallets-upcoming"
 webUrl: "https://www.pcmag.com/news/report-apple-plans-facial-recognition-based-security-for-wallets-upcoming"
 type: article
+quality: 58
+heat: 58
+published: false
 
 provider:
   name: PC Magazine

@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T15:30:00Z
 originalUrl: "https://www.analyticsinsight.net/overview-of-transformation-in-radiology-through-artificial-intelligence/"
 webUrl: "https://www.analyticsinsight.net/overview-of-transformation-in-radiology-through-artificial-intelligence/"
 type: article
+quality: 39
+heat: -1
+published: false
 
 provider:
   name: Analytics Insight
@@ -13,7 +16,32 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "ahDy10Fti2qYe1cw7I/F5wvjCoV5waONdefsuB4SY3nVJQhVXGcXxmiZPbQc1dzgCdKrhznZMHPlGfdJzAxvQrjZcUYgF4zxpu6etPGjQ5ZQ3GwGRfqNunCnpAwQA3iGMXEIXP5XMEo8D2ryTb7GcpB/WCs17vrUfIccZvuky57tag1gn9sNvtt21ThvM7r0PlT5gagxzpj312N5fAY3xTfANYn4T44qT+gj3QOuXc4HJrTLltpydHhaF6+mxPu+HZN88RwuV2RWTA7Ieqm8vJe87KMdz94OIgxbw9Wpkj4a8D8QC+qqyfQuB1Hm0MP5YwqUyVyLW01fIqR6L6sPmrfw2KEwoo1lEXcbZYn+GMnTmCcqx1SyqyjyZqbFWeJ7KTIT12m4dQb1sgLbbvUqW0X+y7er90+Nm7PINKgas0SnlST8NYot1ivkVLQh/8sLIshqZgg5lqZA4Ib+0epW0Fxy4KZvkPb+mvyzp8uB/sw/BCBc+12KX9KDl8Li7XAkiFeYJ7Ibz5Ek4fzBaDsWIQ==;eHGTOa9ZG6IWTZHwaMdKcg=="
+images:
+  - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Overview-on-Transformation-in-Radiology-through-Artificial-Intelligence.jpg"
+    width: 900
+    height: 500
+    isCached: true
+
+related:
+  - title: "Google’s AI unit makes a huge biology breakthrough"
+    excerpt: "Google’s DeepMind unit has predicted the shape of 350k+ proteins, which can have huge implications for health and medicine."
+    publishedDateTime: 2021-07-27T00:52:00Z
+    webUrl: "https://thehustle.co/07272021-deepmind-breakthrough/"
+    ampWebUrl: "https://thehustle.co/07272021-deepmind-breakthrough/"
+    cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/07272021-deepmind-breakthrough/"
+    type: article
+    provider:
+      name: The Hustle
+      domain: thehustle.co
+    quality: 57
+    images:
+      - url: "https://thehustle.co/wp-content/uploads/2021/07/News-Brief_2021-07-27T004855.571Z.png"
+        width: 750
+        height: 418
+        isCached: true
+
+secured: "g9L8JDc1uw0zF4WApi8D3J+sPv+CPJlPLQaHZaO2x8P/VL14gi1ytnHsBig/tdkvEBYeTe1uZEvIF9MZs+so0DCawxqxBWCZON9UsEz7rGK9SMVI7QUR2k0mFbiUgIObPHoTOBz9/xAGr2ANLH5fvOAmxF1zQmeZtx2WLvRK+dhcgKqt7bmpvPBCjo1hcnvR/PnH0AS1dZat8xbfJCrePL1dyK2RRKKw1kOuojqDzoNNXgCcJTu+lG92UeiXZKtfRHbgDS34PkIuTssWPjDLooBqvPxz+EQZnqkJgFDC5Ua+FfHXFdsD2sUcGkdp3mPWuwW91NpKF7QNsC70iC2/bBYWjXuhdttAunL08J0ysFY=;xbwZBsV+0vaeWky4FqaeKA=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T15:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/dalhousie-university-robotics-team-becomes-first-canadian-squad-to-win-2021-national-robocup-1030656921"
 webUrl: "https://markets.businessinsider.com/news/stocks/dalhousie-university-robotics-team-becomes-first-canadian-squad-to-win-2021-national-robocup-1030656921"
 type: article
+quality: 53
+heat: 53
+published: false
 
 provider:
   name: Business Insider

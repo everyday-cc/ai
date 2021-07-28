@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-26T04:49:00Z
 originalUrl: "https://www.reuters.com/breakingviews/gms-self-driving-skills-take-wrong-turn-2021-07-26/"
 webUrl: "https://www.reuters.com/breakingviews/gms-self-driving-skills-take-wrong-turn-2021-07-26/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Reuters

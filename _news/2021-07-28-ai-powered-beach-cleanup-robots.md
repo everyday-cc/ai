@@ -9,7 +9,7 @@ ampWebUrl: "https://www.trendhunter.com/amp/trends/robotic-beach-cleaner"
 cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/robotic-beach-cleaner"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Little Robot That Cleans the Beach, One Butt at a Time"
-    excerpt: "But for now, BeachBot belongs by the sea, helping eliminate some of the 4.5 trillion cigarette butts improperly strewn about Mother Earth. Since cigarettes are harmful to humans, it's not surprising that the chemicals and microplastics are also harmful to sea critters,"
-    publishedDateTime: 2021-07-23T23:15:00Z
-    webUrl: "https://www.motortrend.com/news/beachbot-ai-robot-techtics-cleans-cigarette-butts-beach/"
-    ampWebUrl: "https://www.motortrend.com/news/beachbot-ai-robot-techtics-cleans-cigarette-butts-beach/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/beachbot-ai-robot-techtics-cleans-cigarette-butts-beach/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 59
-    images:
-      - url: "https://st.motortrend.com/uploads/sites/5/2021/07/beachbot-ai-robot-removes-cigarette-butts-6.jpg"
-        width: 1360
-        height: 765
-        isCached: true
   - title: "BeachBot, an AI-powered robot that cleans cigarette butts at the beach"
     excerpt: "BeachBot — BB for short — the robot uses artificial intelligence to find the cigarette butts and to learn the best way to pick them up. the AI-based detection algorithm was created by TechTics (a consultancy based in the hague founded by bos and lukaart) and students from delft university of technology,"
     publishedDateTime: 2021-07-26T10:30:00Z

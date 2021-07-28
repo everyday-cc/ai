@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T15:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test-1030656854"
 webUrl: "https://markets.businessinsider.com/news/stocks/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test-1030656854"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Business Insider

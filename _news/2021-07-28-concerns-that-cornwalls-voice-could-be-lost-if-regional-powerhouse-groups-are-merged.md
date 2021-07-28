@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T15:00:00Z
 originalUrl: "https://www.cornwalllive.com/news/cornwall-news/concerns-cornwalls-voice-could-lost-5711042"
 webUrl: "https://www.cornwalllive.com/news/cornwall-news/concerns-cornwalls-voice-could-lost-5711042"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Cornwall Live

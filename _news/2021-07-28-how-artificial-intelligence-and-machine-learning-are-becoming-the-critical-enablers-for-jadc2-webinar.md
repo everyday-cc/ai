@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T14:01:00Z
 originalUrl: "https://www.shephardmedia.com/news/digital-battlespace/how-artificial-intelligence-and-machine-learning-a/"
 webUrl: "https://www.shephardmedia.com/news/digital-battlespace/how-artificial-intelligence-and-machine-learning-a/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Shephard Media

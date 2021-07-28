@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T14:21:00Z
 originalUrl: "https://phys.org/news/2021-07-ai-human-astronomers-stardust.html"
 webUrl: "https://phys.org/news/2021-07-ai-human-astronomers-stardust.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Phys.org

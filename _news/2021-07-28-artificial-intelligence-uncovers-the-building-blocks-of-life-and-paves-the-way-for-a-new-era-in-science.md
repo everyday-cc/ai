@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T15:35:00Z
 originalUrl: "https://english.elpais.com/usa/2021-07-28/artificial-intelligence-uncovers-the-building-blocks-of-life-and-paves-the-way-for-a-new-era-in-science.html"
 webUrl: "https://english.elpais.com/usa/2021-07-28/artificial-intelligence-uncovers-the-building-blocks-of-life-and-paves-the-way-for-a-new-era-in-science.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: EL PAÍS

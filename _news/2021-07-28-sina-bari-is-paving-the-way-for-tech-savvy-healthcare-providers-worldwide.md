@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T14:00:00Z
 originalUrl: "https://ipsnews.net/business/2021/07/28/sina-bari-is-paving-the-way-for-tech-savvy-healthcare-providers-worldwide/"
 webUrl: "https://ipsnews.net/business/2021/07/28/sina-bari-is-paving-the-way-for-tech-savvy-healthcare-providers-worldwide/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Inter Press Service

@@ -7,7 +7,7 @@ originalUrl: "https://www.militaryaerospace.com/computers/article/14207466/artif
 webUrl: "https://www.militaryaerospace.com/computers/article/14207466/artificial-intelligence-ai-tactical-network-actionable-intelligence"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Can AI Have Emotional Intelligence?"
+    excerpt: "Dr. Rana el Kaliouby is the author of Girl Decoded and a leading expert on technology and empathy and the ethics of AI."
+    publishedDateTime: 2021-07-28T16:26:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have-emotional-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have-emotional-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have-emotional-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610185027ed9e3b17ef2392c%2F0x0.png"
+        width: 1024
+        height: 536
+        isCached: true
 
 secured: "tHneBYEaP3DOZhTXP0INCjXJKOOXjW7Jb6MSf1T7VgWFDFEJYldkZnNBkO0EsJfpMExcivyxIchnQrVkJ5MPNhHWpD6m7724Dm1ORDIaaIU0+qG7JEa4TSsTcVE/l7biBDLXLXpC4XNXxkVlxTGWbSHIWv4qDaJu3Rxu7WgXVT6OuxbG1vfS7xajB6tguMsvFreAE0nAvqNwOQSFbSNZWAQppo6+0AAQg/TjRWUSRKzcexmbpjE+4u5c7gDL5+Q02yo8Y2mPESR1SaHTULfLuS6pitxa/Zdy15LohZtwxiQF0EXLL7VwORBuc4KfCfhbVI5r0lxh3S6h6b48E7GIhxdik/oj+0qFIveWdLQekCzjYaSNwq8nb1ZpDdZZ4n8rH0gnbQW8liPkBzLFtYEmpqhLTNoPQPwOjJt8moNFump4E2s9TJ7oQeW+p0dUSL3v2jzoRqdu4QCV/TlY7vwBL/0EseJrfpQ8D8F9WZkuHfo2wAPyIurB68dzdqKFEdKoWUl0nHwaJUTfnjdH6hKrIg==;zyCNgl4kMcfR4b8eJcU6wA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T14:22:00Z
 originalUrl: "https://phys.org/news/2021-07-machine-learning-method-optimal-solutions-extremely.html"
 webUrl: "https://phys.org/news/2021-07-machine-learning-method-optimal-solutions-extremely.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Phys.org

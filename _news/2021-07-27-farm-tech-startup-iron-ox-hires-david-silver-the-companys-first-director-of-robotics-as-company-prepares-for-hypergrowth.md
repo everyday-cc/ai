@@ -2,26 +2,21 @@
 category: news
 title: "Farm Tech Startup Iron Ox Hires David Silver, The Company's First Director of Robotics, as Company Prepares for Hypergrowth"
 excerpt: "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Director of Robotics this week as the company accelerates growth and expands its commercial footprint."
-publishedDateTime: 2021-07-27T12:47:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876"
-webUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876"
+publishedDateTime: 2021-07-27T12:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-david-silver-/2021/07/27/9417268.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-david-silver-/2021/07/27/9417268.htm"
 type: article
-quality: 60
-heat: 70
-published: true
+quality: 28
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
-  - AI in Autos
 
 images:
   - url: "https://mma.prnewswire.com/media/1530162/IRON_OX_logo.jpg"
@@ -45,6 +40,6 @@ related:
         height: 337
         isCached: true
 
-secured: "9ZzomSIQ2186kcbsXYs5CnChImoxq+JX+AijNQ66eJmCfmL9BzeoskqLb6jBt1yIdGuqLor8FV9+QaJz1rDiC+2JEyN9+HaGUVXU/G1PPml1MZbFdQ+LWqkKTJ/7SvDjdnJIrGISaTrlxcOteFgveAVS6LK76SrS8++LPYknAzYpO2yWnebJe2oypG67PH2x/BqYA13Wm0BTJW93k74uclm4QQXIUxWRiLDAqFMGqh6ZeKTv3UKWdse9gkydIjueUkKtTa0DF1CLmwYPyaXWlkgSOA8oT1/rCIWmaqwOgctk3Be6qiBsnv14fpV1YgIaV8u2vC2jnNkecvXJ4zxMIjAXudzrGvf3p8+i109/ewgw+GKecOmNRDFvyaf5p/BbNONGL/nIrDj9G3qjUQOMw9QDubT5oI+JgEn1+O88nH2BVD8cVjCGBaVch35ZlKBBnnpzbEza9moZxk0qTtu25OtXy5qOcZ6sQaaTmEqljxAZ2ggnVFYSp+w4V7APIzvHUsiGvHbegTm1xxe+yDYXxw==;pw4nY/fiuhCWvrC14vkxwA=="
+secured: "T9g/Z9wCI/a+ckz1qpcxdjDUm9cnE0QPr1mjclbmr5LNyworosfDjsflA8vAG0EE1KEEnWNUfBEHvoN47MuOR0Kax09rqYfC7txAVh6SnqUuYLNd+jWnbnbcHUz4TaQ+pRcjFF5mEVLIjfb+zHETTIKN0WzfAwXYWgfeTWPUH2BbKYKmN2NVcqzDp95RNmFw0T21ZOGOh6EyOZYv0M+2jxT2ldfKdX9Oj09q9s6gJMPZnMXJYHzF53DEn7x4ae/ruLvU3nh6q1gIscts7Zf0xk/ki3MX3mfQdQfuLodRr17qyo7Ud/vmCqL4vMUC9u6R5rDVJhCoBgSoOaYlT2onpsl5OSmAhaA/AXLtVVLWOYQ=;HbeZFrzPYzPdh09wegxFEw=="
 ---
 

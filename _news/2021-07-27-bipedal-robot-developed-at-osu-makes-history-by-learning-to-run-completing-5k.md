@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 564
         isCached: true
+  - title: "Watch Cassie the bipedal robot complete a 5K run"
+    excerpt: "TechCrunch notes that Cassie is the basis of delivery bot Digit, created by Agility Robotics, a spin-off of Oregon State University. It started life as Cassie"
+    publishedDateTime: 2021-07-28T14:55:00Z
+    webUrl: "https://www.techspot.com/news/90581-watch-cassie-bipedal-robot-complete-5k-run.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
 
 secured: "YUYGGf/o2hGPHi4EpEumkXRkO4CoyK9hiJI5OrmI1RQ+7LMO3xdeXHzsVB/lfFmFeDHMH1vhY6fmOZMes2TeLIFmjqs3inAVAF7OvTyJkxo/YBC3a3yHvIKlCI1bDVHpj+eI16olqNbfxvBqOuWlJshxFLCxZ/zmBYfhWham6D/Xwba2C5fu8vusHO89CNpdEXehY3TqvNNag3tNaaSRRCHnIUgC7bjfX2nXsG/yCXyMt/KTSJdi252pievmLOfMRfyMB2e95OR0n42hCB5Ny3Ibo46YVeR1EYAlvkCVI4bfZaM7i0oa9q7leYcmS0YPRhmOekp/DqHMOl9spJpgfEOXTO1NK/buEaKj/JDPTMs=;m97Fvb+t+dwC2982JDVx+g=="
 ---

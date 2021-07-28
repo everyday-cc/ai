@@ -7,7 +7,7 @@ originalUrl: "https://www.producebluebook.com/2021/07/27/farm-tech-firm-iron-ox-
 webUrl: "https://www.producebluebook.com/2021/07/27/farm-tech-firm-iron-ox-hires-director-of-robotics/"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -28,13 +28,13 @@ images:
 related:
   - title: "Farm Tech Startup Iron Ox Hires David Silver, The Company's First Director of Robotics, as Company Prepares for Hypergrowth"
     excerpt: "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Director of Robotics this week as the company accelerates growth and expands its commercial footprint."
-    publishedDateTime: 2021-07-27T12:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876"
+    publishedDateTime: 2021-07-27T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-david-silver-/2021/07/27/9417268.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
     images:
       - url: "https://mma.prnewswire.com/media/1530162/IRON_OX_logo.jpg"
         width: 400

@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T13:23:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/business-fbc34ff17768b1c1118fe5b2a6afb376"
 webUrl: "https://apnews.com/press-release/pr-newswire/business-fbc34ff17768b1c1118fe5b2a6afb376"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Associated Press

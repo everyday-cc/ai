@@ -3,8 +3,8 @@ category: news
 title: "Superficial Radiation Therapy System Market | Artificial Intelligence to Drive More Opportunities"
 excerpt: "Jul 14, 2021 (MARKITWIRED via COMTEX) -- Major superficial radiation therapy system market players are leveraging patient and healthcare professional bias towards minimally invasive therapies for ..."
 publishedDateTime: 2021-07-14T14:30:00Z
-originalUrl: "https://www.marketwatch.com/press-release/superficial-radiation-therapy-system-market-artificial-intelligence-to-drive-more-opportunities-2021-07-14?dist=bigcharts&tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/superficial-radiation-therapy-system-market-artificial-intelligence-to-drive-more-opportunities-2021-07-14?dist=bigcharts&tesla=y"
+originalUrl: "https://www.marketwatch.com/press-release/superficial-radiation-therapy-system-market-artificial-intelligence-to-drive-more-opportunities-2021-07-14"
+webUrl: "https://www.marketwatch.com/press-release/superficial-radiation-therapy-system-market-artificial-intelligence-to-drive-more-opportunities-2021-07-14"
 type: article
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "IatXQu9BQiliEeWIcTlwAUa/g+FEcOpegWBobeHKsIH0qO7MSE3DC6YgPm1YEAnYEo7QCTbFfuxr7yzv5votBfO5HL2FmOI0nfnUHRXZfekXUVmxae1nVtevwftsy5Tn4LVWg3l7AJtJ5r1ROcGuxx+KLPj/edRu8Bzr4JKM0RVSTL99FChnO0iTRyHR4NcURVRyBZikdSrQwgW2y/B16JO5v9Bjo8KQvm7wB1b9Sf7DsSMtYCCb5xMyWqERIi00lyV6l6s/B/a9BH9wzUBd8LDuap6d3VgSfFWBMrVY1dDudeijIv3d3e8oj7V/2J2GjaU2yUG7SxTksJRE2lrUOz8cEAh3eXOe/9jVxaaLqXg=;Cl4I+AAjfOcK8fPicm0EOQ=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "8hGG5RSAAMda9EePCbfhWbBUJD+JwelHzIAQjh9MdEKXd0daSgBGrfxP/y3tHDVIwXPoGYAGcYQrZCRdUrwPgroCoa2PcnejiPlGTKUzhl1kfU6/RcqaIrIQkIftykRQDi0LX7ncgtKN0hzFj24Mh6P6VVb4UtA77OTArMburodNOMlK+BuFFjZJ82bUd5OQD1W4uuufIpvdolbraffi33mb27W9M7h+EzRzVCVXQCEGFgbnWR0XWNJJe+G5+AeglHpbo4QnE7Fh40GGkwWOcGgy+4Q8+vZCSVKRvHYBfu2l7mnWHpbX3SReymkVWDnSt3wnj7z2DthzzYM0pbiSY82UW6MkqFIt1QQ8RxvyNeE=;BhzJQJV3wTujRsiOQiXtXQ=="
 ---
 

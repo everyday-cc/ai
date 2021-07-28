@@ -71,6 +71,20 @@ related:
         width: 1050
         height: 591
         isCached: true
+  - title: "Under-display camera for both Face ID and Touch ID biometrics patented by Apple"
+    excerpt: "The technology can be potentially utilized for a variety of purposes, including biometric imaging for fingerprints and irises, as well as facial recognition."
+    publishedDateTime: 2021-07-28T17:05:00Z
+    webUrl: "https://www.biometricupdate.com/202107/under-display-camera-for-both-face-id-and-touch-id-biometrics-patented-by-apple"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/07/17142139/apple-face-id.jpg"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "/AamzUWylFKLzwG1HohCciGe+1HUAn/wXWn9Pkm3uFP8Nu7QCCKTaRHYNIMDeyWevC8ITdJwxK+ECuzGOMoU6gzGtVEp/cKVMpZeMmJDSUwiHnkGMSKPqlaUkdfJWp2xIEKDP9D7XwTGIk9avsoY6WsyQdLH3y/bEP+11FXKplYEjcU6SgM4SQkkRiNiQTVhkPM+xmsEtdrycSqN0FoQkiPcIQ/vKrwT7RgBL46btPqOW2ataRRjtFBsTAS0gj8Aubg8uk9vrDdp6E+a2E5eve+4whPj+bPOKVKaccsRWq0E+T73UzMx1Jt1GuxRdR3Qy6SPTj1zL6IVwMSYVNSYMQRT5LnsCqW07LuEFEQz0PE=;NBhm/VLRqCjcHj9mDbTULA=="
 ---

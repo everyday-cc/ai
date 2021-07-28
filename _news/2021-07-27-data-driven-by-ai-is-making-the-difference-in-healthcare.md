@@ -121,20 +121,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "How Artificial Intelligence Will Shape Our Future"
-    excerpt: "The future of AI is both exciting and frightening, and our company is trying to democratize access to AI services and contribute to its safe development."
-    publishedDateTime: 2021-07-24T00:44:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/How-Artificial-Intelligence-Will-Shape-Our-Future-16335426.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/11/06/21270917/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "AI infrastructure solutions built for present and future success"
     excerpt: "Simply put, the infrastructure that powers AI and deep learning applications is both fueling and limiting AI success, and organizations that manage to build enduring AI infrastructure are those that are destined for success."
     publishedDateTime: 2021-07-27T10:28:00Z

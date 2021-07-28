@@ -38,6 +38,15 @@ related:
         width: 1920
         height: 1078
         isCached: true
+  - title: "As Facial Recognition Technology Surges, Organizations Face Privacy and Cybersecurity Concerns, and Fraud"
+    excerpt: "Facial recognition technology has become increasingly popular in recent years in the employment and consumer space (e.g. employee access, passport check-in systems, payments on smartphones), and in pa"
+    publishedDateTime: 2021-07-28T15:33:00Z
+    webUrl: "https://www.natlawreview.com/article/facial-recognition-technology-surges-organizations-face-privacy-and-cybersecurity"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 2
 
 secured: "+IbylllILHEyhDA8O4UZLourm2/EWghx9oRtbRQ6UsT6L5YbXLxF5idbe63QHpG6dtLDAzcr4rSPV1eTdmKtgiFf4yzcqjUK9Mad2pc9Ci7bWdDvXXJrVWOj4TbwkMr/pkjB3cjqGDF6lMb5L9+N355huacf7bP67GI0z3zN5TpLI6zb+bAsX9iVyeU++WAPRS4T/MKFwAt2z2j6QqEiYLCX5WxdHJWSdaZ7PcN049LQBsO7BJ0ktm+wCeDvxeghp7MU6bA+U0EuB4MdkNhLx3zNNz78bRKBAilRJkUblo1nwX+QFx/Ix+QM914v62n3IobdGA+jI3XMrjMLq80KTg21nZZcrKZrZwkZgIqmCJs=;+tMYSqvfZF5L+CAxhfhKCw=="
 ---

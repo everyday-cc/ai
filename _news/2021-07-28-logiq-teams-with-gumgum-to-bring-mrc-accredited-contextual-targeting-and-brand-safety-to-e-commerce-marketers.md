@@ -3,8 +3,8 @@ category: news
 title: "Logiq Teams with GumGum to Bring MRC-Accredited Contextual Targeting and Brand Safety to E-Commerce Marketers"
 excerpt: "(NEO: LGIQ) (OTCQX: LGIQ), a global provider of award-winning e-commerce and fintech solutions, has partnered with GumGum, a global media and contextual intelligence company, to provide e-commerce marketers a powerful targeting solution for their digital advertising campaigns."
 publishedDateTime: 2021-07-28T12:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-logiq-teams-with-gumgum-bring-mrc-accredited-contextual-/2021/07/28/9418688.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-logiq-teams-with-gumgum-bring-mrc-accredited-contextual-/2021/07/28/9418688.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/28/9418688.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/28/9418688.htm"
 type: article
 quality: 0
 heat: 0
@@ -18,6 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "Aed4Y3p27IViSR1FPyWx/NFVGAyqzWAu7e3Uk6ho707jOtjGhELMthWMCuXfDTXplyJvrFg3S4F9NHeh9r5HkMAbunCue0iME9F3EWDQH1OeK83KG4goyNhZCzXDXJN6/V1NYTLYPyl0tFHdylOE4HjwWu6Jo6lreuMkIRxwfphQOAc0XIYiYCjqoheOncAoCv3EGCrpuEJ9GWsvI+wOV98YqlzzESO6NISMbyV/s1pzQdRdr7OW4/bfspaXw7WlL5y9RkNNuPnJHoiPM/I8ujbeOmejMvflbHJBYUVCLBfSBskjwihGlWw6GeoXdbqIngj0tRoiokLc8vX1fjXqK6RkVZSf4lkKWIcPai8x6d8=;j7dYBKMRqxZmui7rcpu0yg=="
+secured: "aE/ifKPMEWBSnyy6wVpEvL/3qNw0Cib8ov5FL4Yh6yiCuFummDZtDQqFsF1stfifv/7ESGtjjp5Z9e+kUb2RcCtm2bF+tb4l6x+NkSpf28VU4stjQnLtMOy0TJpNpO1SFZWaxr7NVMCUgFsdFbBfv0Gj6DFjFsyxVfJu7eIWcpUmIBoCry6cbvUpldXkWWVMKOCtOtrWQhU7ih9tqYbA/r4uKC1Q1g+TzZpuuwPr6bTH9tUd9PsYEH2CFRL1Awua+nRW2vkaw74jZS6cWw2+N7+UHpFsBYL/UFA65Ot1HfwPv2l1U8gbN3wAvhaalIsXJTZ75EdOIEoxZRJiVUUt1TFhFPLIYZzgPm96zPuASpQ=;N6b7v2RI74hVHAKQMrAhzQ=="
 ---
 

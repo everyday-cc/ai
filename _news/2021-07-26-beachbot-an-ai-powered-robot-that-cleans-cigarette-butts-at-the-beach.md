@@ -41,22 +41,6 @@ related:
         width: 800
         height: 531
         isCached: true
-  - title: "A Little Robot That Cleans the Beach, One Butt at a Time"
-    excerpt: "But for now, BeachBot belongs by the sea, helping eliminate some of the 4.5 trillion cigarette butts improperly strewn about Mother Earth. Since cigarettes are harmful to humans, it's not surprising that the chemicals and microplastics are also harmful to sea critters,"
-    publishedDateTime: 2021-07-23T23:15:00Z
-    webUrl: "https://www.motortrend.com/news/beachbot-ai-robot-techtics-cleans-cigarette-butts-beach/"
-    ampWebUrl: "https://www.motortrend.com/news/beachbot-ai-robot-techtics-cleans-cigarette-butts-beach/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/beachbot-ai-robot-techtics-cleans-cigarette-butts-beach/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 59
-    images:
-      - url: "https://st.motortrend.com/uploads/sites/5/2021/07/beachbot-ai-robot-removes-cigarette-butts-6.jpg"
-        width: 1360
-        height: 765
-        isCached: true
 
 secured: "mr1GGHArSA0YTvFaxjy5tqNfmYmu2UCuJ6RuiHEnlnPSixTCmJPm/Ej20r1WnFe6Y0ZZLKYr1cGoul6vkjEKEJSgZSA1kzBpWGGJKExeGLBPoEMpsSkKD0LwAQo0XvHOlTl0G0QVZ4eUUv57NMWy7htBvfV6nVEiq/4WUVqhO3O2gkbMw0winRSr0rGWh+cOwlPmVuLr7Q5mhCkGc0QmNIyR3Up18JdrVLokvWRXn5TmtpsKFLYcqclMRVwzckX2CCdLk1cvoiEloV4HPy8D/u83nephguabvfR++dTbOUO1pfrROwfDiGGNOSq0AI6at9C/fQA8bp3/4SLwCjB01IRta+LpB34vbkwsXWNUudxp0Ouh4wUGvHPR8ATIbUqHdDXua6qcSP+pvQp6uP3HoDJOd0HC1MDiLZFnwT04maZRL4rOgTp3JBNJQwoZ9UViVpFDVGtkZx7LDtbWRr83zDCfA/1bgQNAfSiF+kcFIaqjiCXbosyrthrhOD2IhdEYLAEAnvw7VE4Wgwfhk9ET8g==;9yOF8F3EK4+CQ6Mpd7xgqw=="
 ---

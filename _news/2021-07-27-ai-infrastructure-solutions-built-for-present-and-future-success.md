@@ -134,20 +134,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "How Artificial Intelligence Will Shape Our Future"
-    excerpt: "The future of AI is both exciting and frightening, and our company is trying to democratize access to AI services and contribute to its safe development."
-    publishedDateTime: 2021-07-24T00:44:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/How-Artificial-Intelligence-Will-Shape-Our-Future-16335426.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/11/06/21270917/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "0/0Gs7WY/B3Hbr1FSZInCEzg7rpMKEU3OiQ+xcl9BkqLcGw//AfNQtBDs1wkhSOWzF6lVtm55XnGGQrECsnJWa65wrK/5AVXUknafURl6Q/eIuWTwCMC6MCqjfJd5bFCICMW5L+prNw/wk3i6FDX7v3PyAh7y7axaZvnTMvni6MBwnNcdvutpRQaio1qoU4+/+xaTmyzPZgJtflljUB5U3QWUqcHZ97/uUlSL1r99cVJJduNvtxRaCOFEB6kf8PhCNNhB9+/K5bb+JOsijePn21EGS/LjJnAnrMKYxfJ/jOlZGixN4j60EcGvzmFtaV7jszt/fU1CAS633s7AQ1itNrVvUF5WDUowO9L6j6eoUA=;VWlMAeZKNpBi1KHvAYIRZg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-future-scope-demands-and-projected-industry-growths-to-2025-2021-07-27"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) In Supply Chain Market anticipated to witness remarkable growth statistics during 2020-2026"
+    excerpt: "In Supply Chain Market anticipated to witness remarkable growth statistics during 2020-2026” A fundamental outline of the Artificial Intelligence (AI) In Supply Chain Market niche is presented by the Artificial Intelligence (AI) In Supply Chain Market report that entails definitions,"
+    publishedDateTime: 2021-07-28T10:35:00Z
+    webUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-in-supply-chain-market-anticipated-to-witness-remarkable-growth-statistics-during-2020-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 4
 
 secured: "2Sd1AUIkDzIR96PEYfCYzMwk6oahu3oIxLPlTBHtnqSq3Q9P9rDWYwFpRBERPi4bvk/s1jYQ8yFYbD+h8BIWm3hi5NLK5CEiENyGV4fV5Y29rHJtaJuGOXtfUR9pmXsduAqSvBvniI3CXv01mV1ThZaVg0EZqjV+ZqXdRhIO2LQ3gvMHCLKzFp/4pWyHD98GY00GKst4wYUN0JcpklBUgs6EYp8BGj8AhBhphIgifr4gZzsIp+M7sJn1EvpUZn0hIl3pIRS1dGxU6RxFp5hnA50WgiHHZZq1X1U0l5XN3wOez76oavHqitx/taeZ01k6V/alFh0N3jgyLmWn9Mz+yup/gNvP7dP9yjTVbZktNrQ=;/XKOQKvarka0+jaZbtHBlQ=="
 ---
