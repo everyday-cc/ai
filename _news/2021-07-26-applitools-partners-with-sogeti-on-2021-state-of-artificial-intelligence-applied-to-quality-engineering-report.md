@@ -3,8 +3,8 @@ category: news
 title: "Applitools Partners with Sogeti on '2021 State of Artificial Intelligence Applied to Quality Engineering Report'"
 excerpt: "Report provides insights from multiple vendors across the quality engineering industry on how AI is being concretely applied by top companies"
 publishedDateTime: 2021-07-26T13:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/applitools-partners-with-sogeti-on-2021-state-of-artificial-intelligence-applied-to-quality-engineering-report-1030645198"
-webUrl: "https://markets.businessinsider.com/news/stocks/applitools-partners-with-sogeti-on-2021-state-of-artificial-intelligence-applied-to-quality-engineering-report-1030645198"
+originalUrl: "https://markets.businessinsider.com/news/stocks/applitools-partners-with-sogeti-on-2021-state-of-artificial-intelligence-applied-to-quality-engineering-report-1030645188"
+webUrl: "https://markets.businessinsider.com/news/stocks/applitools-partners-with-sogeti-on-2021-state-of-artificial-intelligence-applied-to-quality-engineering-report-1030645188"
 type: article
 quality: 26
 heat: 26
@@ -21,6 +21,6 @@ provider:
 topics:
   - AI
 
-secured: "2Ii7LTa+2JohO7dSxQ5BlXwO89xDf2X319TkLNeJf80+CPtVcVKTCS5G5xPEbOptzB1OoiCR0YSqJYEQKU3/8naq0WjS/xacMgT3P9cmXPXG/PRWLlVAAjRMCwHlTqlpsUPsDtZ8AfPdQT9DIJomGBlVtDuU45iIL145i7145pRDH4bLM5i9p3RblMFqzIwwbBWTx+ijyfP3+NifRiphQLV2V36Vo608jBKfU3cbNXPM6HJUlcGx4mJzFzEB1E6y4HxwSXg1ZJtiEFADBzF56CbiiDbauvKLX4KWwAxOu5qTUd6eM5R3W5htTXgRJXe6ZxXBXDnaXN0Xvpd+WlKXQcQlMMNuy9b/WP9qGTCTz+pIT7yuMtf4gZ8xk+X1+69ytLrU4DCUcbiG4qur64ZgT+zQy/ZSBuew3b3p+UZdWzKlh5um6nxTTehoTupyyc3n10Lnb8xm3aUO/uEK74Tc0jqgAEdJ+jWeAa0F9vrH1ah1MHfLDqIAYpWqhRTw1z6bwlKuGYuuLPzS8X39mMQEMg==;lQqfGVRjXO7LEQWUQOik6Q=="
+secured: "/vlMq67p9iAi9fcpz6FdkRrLaTnruwjcuPqd15yRPk0Vqgsn35CJQ6eNrOrgwJIJ9GeprQT7VosApTzcFc8ddyJ+BtorT0VXerARoCGMgVW2tGTfqTwhqWY+yqShjqpQjmSp9vRO91vEc4bprLVjUtrbpO716WDtuOz6jhVuDhFgwaxlYpRMf9QaawJ25bjiB0bDTavvLAHdvcPoolcBLFmLxM8YnH4O31ifWScKp5C9L8v2aY2s+TMOpiP3kpYlZbHtRT2uNkBS95eLbUhrGD5x9fhzh0mwO71d64SfgPsjsoVsbreWtwlpMbp/zCYQbm9mlrC1FQDMx5PSfoCCmF5eD3xyHJ7LXQhSV9musaumYx/JWMMl4568lkJvNxpc7W2zBzgU/cDiYMguHwWrxMf7jdsPpXr6dv8HGzyk1kBbkEcCV86Q8urptb9wJ4abcZkLFdxNYLtGVmm6CaPAT7VtLQ+CLuhCdqfMeHW5dKG5ykPNw38/AChamboHwd35Qno4YJE7l6RjDeJa7tS1aA==;agbZ3NraaA5x3t8GO35jZw=="
 ---
 

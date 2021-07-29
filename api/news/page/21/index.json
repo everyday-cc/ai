@@ -2,6 +2,153 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-07-13-heres-how-developers-can-implement-the-google-translate-api-in-their-apps.md",
+      "title": "Here’s how developers can implement the Google Translate API in their apps",
+      "excerpt": "For the latter, you can just upload translated language pairs (a structured list of words/phrases with their translations) and AutoML Translation will train a custom translation model. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/developers-implement-google-translate-apps-syndication",
+      "originalUrl": "https://thenextweb.com/news/developers-implement-google-translate-apps-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FGoogleTranslateAI.jpg&signature=ec60a3389abb868bd3a35f69a793cbb2",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-global-underwater-computer-vision-market-2021-scope-of-current-and-future-industry-swot-analysis-and-investment-feasibility-2026.md",
+      "title": "Global Underwater Computer Vision Market 2021 Scope of Current and Future Industry, SWOT Analysis and Investment Feasibility 2026",
+      "excerpt": "According to MarketsandResearch.biz, the latest report titled Global Underwater Computer Vision Market 2021 by Company, Regions, Type and Application, Forecast to 2026 helps the firms in getting a comprehensive analysis of the industry which comprises an assessment of the parental market and gives forecast information on the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-underwater-computer-vision-market-2021-scope-of-current-and-future-industry-swot-analysis-and-investment-feasibility-2026-2021-07-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-underwater-computer-vision-market-2021-scope-of-current-and-future-industry-swot-analysis-and-investment-feasibility-2026-2021-07-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-cuban-embassy-attacks-and-the-microwave-auditory-effect.md",
+      "title": "Cuban Embassy Attacks And The Microwave Auditory Effect",
+      "excerpt": "They also have plenty of spill — operators standing behind the device always need ... Images from Frey’s paper Frey’s article describes how test subjects were able to hear buzzing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/behind-paper-led-google-researchers-firing/",
+      "originalUrl": "https://hackaday.com/2017/09/25/cuban-embassy-attacks-and-the-microwave-auditory-effect/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fce6e94b9624e586e3e9906/master/pass/Business-Timnit-Gebru-h_15454848.jpg",
+          "width": 2400,
+          "height": 1659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/behind-paper-led-google-researchers-firing/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/behind-paper-led-google-researchers-firing/amp",
+      "publishedDateTime": "2021-07-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce.md",
       "title": "Digital Transformation: Microsoft Azure Cloud Platform to be Used by Canadian Imperial Bank of Commerce",
       "excerpt": "The Canadian Imperial Bank of Commerce (CIBC) (TSE: CM), a multinational banking and financial services corporation headquartered in Toronto, Ontario, has entered a multi-year deal to use Microsoft Azure as its main Cloud platform.",
@@ -1014,145 +1161,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-how-google-used-machine-learning-to-dramatically-improve-chip-design.md",
-      "title": "How Google used machine learning to dramatically improve chip design",
-      "excerpt": "Commentary: To get the most out of machine learning, it pays to avoid overthinking AI. Find out how Google engineers' were able to make a ML process take less than six hours instead of weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
-      "originalUrl": "https://www.techrepublic.com/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/05/04/1ad0d474-bc24-4ef6-9f53-f1cf74fc2ae5/resize/1200x/0cf885e0a0ea9596a3cec44394fc14f7/ai.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-google-used-machine-learning-to-dramatically-improve-chip-design/",
-      "publishedDateTime": "2021-07-12T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search.md",
-      "title": "Sinequa Named a Leader in 2021 Analyst Report for Cognitive Search",
-      "excerpt": "Forrester identified the 13 most significant cognitive search providers Amazon Web Services, Coveo, Elastic, Google, Grazitti Interactive, IBM, IntraFind, Lucidworks, Micro Focus, Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-07/53386633-sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-07/53386633-sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search-004.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-artificial-intelligence-is-improving-energy-companies-not-replacing-workers.md",
-      "title": "Artificial Intelligence Is Improving Energy Companies — Not Replacing Workers",
-      "excerpt": "A power plant that will run on “artificial intelligence” is about to get underway in West Africa. The joint venture between Swiss-based Xcell Security House and Finance and U.S.-based Beyond Limits will embed intelligence and awareness into the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/",
-      "originalUrl": "https://www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e77cd540da575f48ca0980%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kensilverstein/2021/07/12/artificial-intelligence-is-improving-energy-companies---not-replacing-workers/amp/",
-      "publishedDateTime": "2021-07-12T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

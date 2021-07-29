@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek Dimensity 1300T Gaming Chip May Be Unveiled On July 26"
-    excerpt: "The Dimensity 1300T gaming chip should outrun the Snapdragon 870. Though there is nothing official yet, it should come on July 26."
-    publishedDateTime: 2021-07-24T09:27:00Z
-    webUrl: "https://www.gizchina.com/2021/07/24/mediatek-dimensity-1300t-gaming-chip-may-be-unveiled-on-july-26/"
-    ampWebUrl: "https://www.gizchina.com/2021/07/24/mediatek-dimensity-1300t-gaming-chip-may-be-unveiled-on-july-26/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/24/mediatek-dimensity-1300t-gaming-chip-may-be-unveiled-on-july-26/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/03/MediaTek-chipset-1024x622.jpg"
-        width: 1024
-        height: 622
-        isCached: true
   - title: "MediaTek Launched Kompanio 1300T Chip For Tablets And ChromeBooks"
     excerpt: "The new MediaTek Kompanio 1300T chip is already out. The first products powered by this chip will hit the market in the coming months."
     publishedDateTime: 2021-07-27T10:03:00Z
@@ -59,6 +43,15 @@ related:
         width: 1024
         height: 566
         isCached: true
+  - title: "MediaTek launches new chip for next gen tablets"
+    excerpt: "Chip-maker MediaTek on Tuesday announced the launch of Kompanio 1300T, a chip designed to enhance premium computing experience in tablets. Built on the leading 6nm process technology, the chip will allow original equipment manufacturers (OEMs) to build powerful,"
+    publishedDateTime: 2021-07-27T14:57:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20210727/3793585.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "NyDJGruZdica8AuMzFkJ5IiNN5FYm5lGHe3wb9FiavtcKwreyl1lyrhz/LHKwxBkdgXNZMeldPbOmqKzvy/CspfDrtfOVmyFq6r4Yq2VJOhfAiaXKPvdvNP9xB9xGSPY+QuIHptEIYtHTCRcMpeN8Ofjrd5I9yJHAu5K5yCzQIB/i8rMGhMCt/YyNWgxiSElIF9aEd4sGbjmQd3XZ0xJA3PkpLDSEc9dC/dzt4cpAfUN+7RRB4EyHxEg/QomT+v8ccUK3YUMd8tI/Iiw7cEZ8pi9w+T4fQP3C4zYdWeOiEI+KRtMgRPW+DBlySbmg1Jz8GhN+uajRl0zmTywRHw8nR721M1qTY+FZTvpEO2mMzA=;kZ47wJRIIiU3yS4Mksif9g=="
 ---

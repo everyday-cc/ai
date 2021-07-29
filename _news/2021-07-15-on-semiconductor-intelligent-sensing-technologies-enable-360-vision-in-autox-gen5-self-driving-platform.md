@@ -1,20 +1,20 @@
 ---
 category: news
-title: "ON Semiconductor Intelligent Sensing Technologies Enable 360° Vision in AutoX Gen5 Self-Driving Platform"
-excerpt: "ON Semiconductor's image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform."
+title: "ON Semiconductor Intelligent Sensing Technologies Enable 360 Vision in AutoX Gen5 Self-Driving Platform"
+excerpt: "ON Semiconductor (Nasdaq: ON), today announced that its image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform. Revealed at the World Artificial Intelligence Conference,"
 publishedDateTime: 2021-07-14T23:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210714005927/en/"
-webUrl: "https://www.businesswire.com/news/home/20210714005927/en/"
+originalUrl: "https://www.financialbuzz.com/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/"
+webUrl: "https://www.financialbuzz.com/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "dRSrWk02TVgSggQOdOcCdYfuNTWM/L5NOGYLwkeYJZJyORpO7ESLWxvNOLD6Eee6Y00ewr1tkJFI9ZlDUpLHg7WwgPk/EqVIXoDI3aGyPp3zR9q2+yTfKd+402Zx+GKKobSfnCHAG40HxKID89fB1QRuRLV5d97PPyXl66/Zz4MqYGIYkDh44PDyzyjJ+HT+sLyOj7wXHY6UIt9NXn0mX5jQ/NfU4QU4HosqPpiENVYbZ0VNdiHbt5O9kSqgUQLahTsx59AWUOsH5kU7v4g4TUSWs0jpM/oUSEI1+TS5YwyHgTvvzlyoA47nzn1VBdqENRgnWk3GlYdvnz9X7hnArRLd15DEqCQemIhvyjxcMRo=;QPg6YsL9SGTyoUAQtr5IgA=="
+secured: "JoN6zRg+/zmil2cFf7928DXH226HkaJoYfgHyZR+fAves/qxXSOaobpob5x9ht20D73vtfEIUzLq5Goz17IqiQvHwZwQbn3lNoJHOu5AOwp3bnumKMJPpYtgi9/LkiaRfXXA7tjRYKPVtXbbfFDq099JwsWZFl1795tZ1vmcmIYHwU37Q5vTpk+8hz5P2Z+nOOO8qSLrS44wT9d9V4dIMnnSsZByw7tkYcau2O6rwcK6p9iGxinPsGZuHqKnVAi5BtPTAF+BMEmL4uUv2stPY4WchA10dEB3gUQ/F6D0OX3647aS2KJdceNqqk/WcU9CW3JQy3kIqM2cGdVwHeEftx+po2Wr6BnrIE2YtiufhV0=;imHFPUZ3U7TumhPsCnL0QQ=="
 ---
 

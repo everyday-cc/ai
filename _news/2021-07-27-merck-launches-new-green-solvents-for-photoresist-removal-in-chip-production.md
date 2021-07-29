@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-merck-launches-new-green-solvents-
 webUrl: "https://www.tmcnet.com/usubmit/-merck-launches-new-green-solvents-photoresist-removal-chip-/2021/07/27/9417582.htm"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "MediaTek launches new chip for next gen tablets"
-    excerpt: "Chip-maker MediaTek on Tuesday announced the launch of Kompanio 1300T, a chip designed to enhance premium computing experience in tablets. Built on the leading 6nm process technology, the chip will allow original equipment manufacturers (OEMs) to build powerful,"
-    publishedDateTime: 2021-07-27T14:57:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20210727/3793585.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "H2XPTcsEGp1c8Q/JWw1fifP2i6HcG19+SZZgrmNjazDNwgKrne/j+dvvnV79Wbq65+cbBtAH5mIKDT4GAlPvVG/p8mTbaQhxiNbJ7e6UzRUmtDy/rIoomLT74R7vX79R3JU6Hrws0pFPYmrhRsogYHLkRcOir/zURoxk+qj3u7djF0+YhWtutpFFRwYnTiwE1kNR6QdJoPvVuErSsV4Wh/LxVTFKHFxv1hYck7H1Ajudic4qjsb11rvc2AmtGnKNEQ6fI0qY4nCQqHT5eSV4rQpYdBkCcxuR81ki1arv09bXtGYzhN33/O7ke3i+3MO9CvXLxSfYOpp+7qdtExo796cG0y9HcJkUuLJArpJ135EvycpCzyR9wLxOJn7FwpASp6AQzP4DvpItFUqqvBYIBssIf9BTdiOpfqPohkdJ1uG34ZVRa0LnKDhKaC6MRuxTq4mfbRjgCAN94DypdD7PKaW9+n4wL8mNLvbSu7aP5A/OsWfXpa1H2g/BBk9ukHZ9XCJivQ1ZO8caGUnKtqcguw==;t3qm4t75iSm0Fy0kW5tXcw=="
 ---

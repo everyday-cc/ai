@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-16-ebay-taps-computer-vision-to-transform-online-shopping.md",
+      "title": "eBay taps computer vision to transform online shopping",
+      "excerpt": "Bay chief AI officer details how the shopping site's computer vision is driving customer satisfaction with image-based search.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
+      "originalUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ebay.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
+      "publishedDateTime": "2021-07-15T18:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-partnership-of-the-caribbean-securing-the-west-indies.md",
       "title": "Partnership of the Caribbean: Securing the West Indies",
       "excerpt": "According to the Caribbean Tourism Organization, 2019 saw 32 million international tourists descend upon the region. Those millions of tourists bring with them",
@@ -170,6 +222,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-partnership-of-the-caribbean-securing-the-west-indies.md",
+      "title": "Partnership of the Caribbean: Securing the West Indies",
+      "excerpt": "In 2004, Cyclops Technologies, under the PlateSmart Technologies brand, introduced the first software-only, camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology and compatible with video ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.tmcnet.com/usubmit/2021/07/15/9410651.htm",
+      "originalUrl": "https://news.tmcnet.com/usubmit/2021/07/15/9410651.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1278,102 +1364,6 @@
         "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-softbank-leads-235m-round-in-anyvisions-ai-recognition-tech.md",
-      "title": "SoftBank leads $235M round in AnyVision's AI recognition tech",
-      "excerpt": "The Israeli company developing AI-driven facial recognition secures mega funding to help expand into new markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/",
-      "originalUrl": "https://www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geektime.com/content/images/2021/07/Screenshot_1-1560924163.jpg",
-          "width": 878,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/amp/",
-      "publishedDateTime": "2021-07-08T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-computer-vision-hasnt-passed-awareness-phase-survey-shows.md",
-      "title": "Computer vision hasn’t passed ‘awareness phase,’ survey shows",
-      "excerpt": "According to an IDG survey commissioned by Insight, companies understand the value of computer vision but aren't adopting it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/13/computer-vision-hasnt-passed-awareness-phase-survey-shows/",
-      "originalUrl": "https://venturebeat.com/2021/07/13/computer-vision-hasnt-passed-awareness-phase-survey-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/computer_vision.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/13/computer-vision-hasnt-passed-awareness-phase-survey-shows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/computer-vision-hasnt-passed-awareness-phase-survey-shows/amp/",
-      "publishedDateTime": "2021-07-07T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

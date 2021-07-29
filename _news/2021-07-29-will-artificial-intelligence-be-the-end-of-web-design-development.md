@@ -36,20 +36,6 @@ related:
       name: RealClearMarkets
       domain: realclearmarkets.com
     quality: 39
-  - title: "How Artificial Intelligence Is Driving Growth At H&M"
-    excerpt: "H&M Group is leveraging AI to achieve a climate positive value chain by 2040. The clothing retailer uses AI-driven demand prediction to optimise the supply chain, said Linda Leopold, head of AI at H&M."
-    publishedDateTime: 2021-07-24T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-artificial-intelligence-is-driving-growth-at-hm/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/hm-shop.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "4VCj2U6gai7GyQGSopgNhMTGSm4GCkPZiNQwp5uvlljRJ53VoSheK4Oosfvhx1NmUiptzJMW9j1ShwHSoVT93HRR+TBEpXPj09UTlRyTjH0mMVF/bfp1CwJaOKr0P3ha2NZ6xDkiV0V/nnvv5yF7o2tP4GM2Fdmq2nNV9UQGNgw/+aUsYe4kBRj0Z6mDV8wq1c+BtiUw57hcN2O7kHeHdEVBhvP+JVRZyT0aHCJE6KfPy+ZiBouIs3ax0qvZQrQX42k7g7QAQaSOywaFeJidEeIX0py2cuz1XO/Zk4XhBUmNgcHjqHxRGjknrUk5/TCh75+pBBq29mt+WMzPsjwFnzNJFp78fbOhRSLddDOiYDeYFqX65ihvaH8QFb2bcXGkg/kKcdd52vEJ9oB/nye2rQUbkelxR+xBgdreRT0SerKxbrA3Oq0vvltWV1me2cT8ESGxhwVW4sVx9iDJKJrDI5kTB38TsdvR4EjSNBBA4HK2M1fE2OSK92iDzO5pz1Xtg0oz/AI8LjDhm11fqWZQtQ==;we6XAe7YjUKRmMvqJdxaVg=="
 ---
