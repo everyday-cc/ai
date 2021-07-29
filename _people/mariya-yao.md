@@ -9,7 +9,7 @@ website: https://mariyayao.com/
 twitter:
   username: thinkmariya
   url: https://twitter.com/thinkmariya
-  followers: 27954
+  followers: 27953
 
 topics:
   - AI
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "Mariya Yao"
 
-secured: "OZbrVQXqS2r5se+M0sLlVVye5RuE4nyrv4eeflurYaHuDW4WM7/keKj++YGses/GYAVdRrNBJd8084rSo98+r2HF0fc1/in9iHYx9RoRCzjcSewOHC5m6ueSF1IUOEaPA2nh9sgZvwXI3EwixxxQKPehVfP+Rju9i9S9TEiHjMH3cclorT8uqWBmbGr/DXqXZug3FWydF1LQDtisQUkZ6vJpfoDr/mMDSW54RqTLxVyeKnwEyBf+oB7Iv14/SidXTwKBF8dxgpdrx9ryjYZhv3XUpa1FrfNtLBv84GBNCRD+vi7nHaE4LjwK3TSgfuzJZBEJIp/HdE/NWcDoJpJnBA+81OVA4LkeHKbrlZAMx8CARmmr+kTORVvnyBMuGl+RGWVLpOSGdo8tF9cTI6Ys25Cr1W+Rm0shDh+fXHsHxmI=;MA2nxV3DAvew6uaul1iPYA=="
+secured: "1uisi9PyjBH3FnyFbebWSJlW1VQN7JwkvOeb0GOXssOpzTuEd/TFRE/mXdi/6Wp6UjbddTdRK4meGRK5E3lZ8+N028ok2i/azDA4sbst/JlBNvTSbuJ6avxizJqI8boYqRumsyBcLlokdwUJ62YfFtwtUxmuR0UGr66BJm3X6gfPHktd8ti38JKMLaUpwIYFpOrfzE4DCFSVLS2P35t7Wcv0e5rLR4SUC15I8JvwPII53CResbfLAxkR+X8SLeCC7h2nFFeVR5Pzu/oZ8zwY5wgD8QUB+3srAZ8roAJMhPtg+0uJgHMuklqm0XL4i4qk7sWUi5oLWBNeuPUxQdv3Ywg9MXaW5RODbx5513krOzO2qgIb73HPHdpeJKqWRNQNz74sUKT9gXICDRxDaOeZw22kBBja1W5FbCaLReWdr4I=;C/ds45p6fKanaMOmYBHN5w=="
 ---
 
