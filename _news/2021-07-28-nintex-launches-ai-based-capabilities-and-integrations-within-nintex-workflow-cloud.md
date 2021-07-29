@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/cloud/nintex-launches-ai-based-capabilities-and
 webUrl: "https://itwire.com/cloud/nintex-launches-ai-based-capabilities-and-integrations-within-nintex-workflow-cloud.html"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bookkeeper360 introduces AI-powered marketplace and Brex integration"
+    excerpt: "Bookkeeper360 has announced the launch of its new Bookkeeper360 App Marketplace and Brex Integration for small businesses"
+    publishedDateTime: 2021-07-29T06:25:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/bookkeeper360-introduces-ai-powered-marketplace-and-brex-integration/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2021/07/Bookkeeper360.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Bookkeeper360 Launches AI-Powered Marketplace and Brex Integration to Help Small Businesses Grow Effectively"
     excerpt: "Bookkeeper360 has proudly announced the launch of its new Bookkeeper360 App Marketplace and Brex Integration. Bookkeeper360 is an emerging fintech accounting solution for small businesses. This all-new AI-powered marketplace is designed to help business owners access a wide range of financial and technological solutions such as capital,"
     publishedDateTime: 2021-07-28T13:34:00Z

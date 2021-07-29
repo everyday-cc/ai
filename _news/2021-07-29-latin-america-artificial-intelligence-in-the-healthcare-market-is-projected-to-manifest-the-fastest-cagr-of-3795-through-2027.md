@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Europe Artificial Intelligence as a Service Market is projected to manifest the fastest CAGR of 38.48% through 2027"
-excerpt: "Europe Artificial Intelligence as a Service market to show an upward trend in terms of revenue and grow at a CAGR of 38.48% in the forecasting years 2019-2027. The UK, France, Germany, Spain, Russia,"
-publishedDateTime: 2021-07-27T11:16:00Z
-originalUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-as-a-service-market-is-projected-to-manifest-the-fastest-cagr-of-3848-through-2027-2021-07-27"
-webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-as-a-service-market-is-projected-to-manifest-the-fastest-cagr-of-3848-through-2027-2021-07-27"
+title: "Latin America Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 37.95% through 2027"
+excerpt: "Request a sample Report of Latin America Artificial Intelligence in the Healthcare Market Analysis Report at:  The AI in healthcare market in Latin America has been projected to depict growth in terms of revenue and expand with a CAGR of 37."
+publishedDateTime: 2021-07-29T05:29:00Z
+originalUrl: "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-3795-through-2027-2021-07-29"
+webUrl: "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-3795-through-2027-2021-07-29"
 type: article
-quality: 45
+quality: 56
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -42,15 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latin America Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 37.95% through 2027"
-    excerpt: "Request a sample Report of Latin America Artificial Intelligence in the Healthcare Market Analysis Report at:  The AI in healthcare market in Latin America has been projected to depict growth in terms of revenue and expand with a CAGR of 37."
-    publishedDateTime: 2021-07-29T05:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-3795-through-2027-2021-07-29"
+  - title: "Europe Artificial Intelligence as a Service Market is projected to manifest the fastest CAGR of 38.48% through 2027"
+    excerpt: "Europe Artificial Intelligence as a Service market to show an upward trend in terms of revenue and grow at a CAGR of 38.48% in the forecasting years 2019-2027. The UK, France, Germany, Spain, Russia,"
+    publishedDateTime: 2021-07-27T11:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-as-a-service-market-is-projected-to-manifest-the-fastest-cagr-of-3848-through-2027-2021-07-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -85,6 +86,6 @@ related:
         height: 630
         isCached: true
 
-secured: "FSLrEttPfWBUoKrAO0vmSWsd+qANmCltY/vylokoP4Ehq5AkUUotEtieyXUAbWjlPqv7QUBpPt+7w9V9Nr3QbU3yuc4nw/BehZCrtSu77qU/WUn7xpv8OOo5+WB2UWB1FiZ+UYtooacTW2U8nVSYRbBorerBt/4cjYxxjqnfkO5GNDmpDnoTnCpGezO0ic+lFnqftKt8zTTtMVLGrQvzQcrERufHQ4qNLh1Ua39RA+6n7pPVi7GKqL/9zi1eo89U+VQYRw7TjKGlpLKlBzzZuF1TFa30ZXRGQjzcNqsR9XoYjZAGTnrXaBU5QT4ZuIyh+88a8JjjJIGhd00EGxr5rik4aKcJhP8tX2zWHYSUMMk=;ubVTvwqCsAiou0uM0EKLvg=="
+secured: "ze+/3dgrlubGj3g5nT09WMgm/Aqn5W5B6ufxQk021Y+UT1Yl8Hparj83xkIIJhhWyczTxXvIu/W1hrz5bdn2eS/cg3bhUZmTmD1GynIQsWaMiITxnU7GV4plwgwbZ3IHot4CwgqNPUtxoLFtgxIixOnwV1gHEp0uzq8Zd9jq7IMH0xPv8mrweyO3udV9U2SMKSUHUmYko5ZqlYXi673lrqSYn0sQ8c1FJN/yzRE7QLy2ct4V9aTMiNLnE2YbJyGm9LgEkLiVuMtnt6MDP5SmnOAMTIujbXdhPxC7KAX7hwzA0QgVdgXbg2KwQ3cn0Uk6Xslz9i+GpnD9deXSYAAgESHDb9T6QjKPk8kRSSTkpco=;A0tPet2HJ9/mt1nxWrLVEQ=="
 ---
 

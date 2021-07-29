@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latin America Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 37.95% through 2027"
+    excerpt: "Request a sample Report of Latin America Artificial Intelligence in the Healthcare Market Analysis Report at:  The AI in healthcare market in Latin America has been projected to depict growth in terms of revenue and expand with a CAGR of 37."
+    publishedDateTime: 2021-07-29T05:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-3795-through-2027-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Europe Artificial Intelligence as a Service Market is projected to manifest the fastest CAGR of 38.48% through 2027"
     excerpt: "Europe Artificial Intelligence as a Service market to show an upward trend in terms of revenue and grow at a CAGR of 38.48% in the forecasting years 2019-2027. The UK, France, Germany, Spain, Russia,"
     publishedDateTime: 2021-07-27T11:16:00Z

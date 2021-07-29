@@ -7,7 +7,7 @@ originalUrl: "https://techhq.com/2021/07/how-can-ai-derail-the-organizations-cyb
 webUrl: "https://techhq.com/2021/07/how-can-ai-derail-the-organizations-cybersecurity/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: Homeland Security Today
       domain: hstoday.us
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.hstoday.us/wp-content/uploads/2018/09/digitization-3614386_1920.jpg"
         width: 1920

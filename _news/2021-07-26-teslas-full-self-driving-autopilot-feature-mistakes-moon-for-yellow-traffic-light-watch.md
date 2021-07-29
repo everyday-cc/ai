@@ -43,22 +43,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Tesla's Full Self-Driving Feature Mistakes Moon For Yellow Traffic Light"
-    excerpt: "We all know that werewolves and ocean tides are both impacted by the moon, but we can add another item to the list: Tesla’s Full Self-Driving feature, which is the company’s NHTSA Level 2 driver assistance feature."
-    publishedDateTime: 2021-07-24T15:00:00Z
-    webUrl: "https://jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050"
-    ampWebUrl: "https://jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/teslas-full-self-driving-feature-mistakes-moon-for-yell-1847355050/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 58
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/4a926b63004284a3bcd53207f9206069.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "The Moon Tricks Tesla's Full Self-Driving Feature Into Thinking It's a Yellow Light"
     excerpt: "Tesla recently announced that any Tesla user can subscribe to Autopilot’s Full Self-Driving feature for $99 to $199 per month, but it seems the new feature still comes with its fair share of kinks. Recently a Tesla driver took to Twitter to share an entertaining little problem with the system."
     publishedDateTime: 2021-07-25T13:41:00Z

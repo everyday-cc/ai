@@ -2,6 +2,102 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-20-dotmatics-announces-support-for-the-aws-for-health-initiative.md",
+      "title": "Dotmatics Announces Support for the AWS for Health Initiative",
+      "excerpt": "Dotmatics has announced support for the AWS for Health initiative from Amazon Web Services (AWS) to improve laboratory efficiency and accelerate the pace of scientific innovation by facilitating more rapid data access,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/product-news/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
+      "originalUrl": "https://www.technologynetworks.com/informatics/product-news/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG",
+          "width": 389,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/informatics/product-news/amp/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/product-news/amp/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
+      "publishedDateTime": "2021-07-20T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-our-ai-headline-experiment-continues-did-we-break-the-machine.md",
+      "title": "Our AI headline experiment continues: Did we break the machine?",
+      "excerpt": "Is Our Machine Learning? Our AI headline experiment continues: Did we break the machine? Feeding the machine: We give an AI some headlines and see what it does; Is our machine lea",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2021/07/our-ai-experiment-continues-did-we-break-the-machine/",
+      "originalUrl": "https://arstechnica.com/information-technology/2021/07/our-ai-experiment-continues-did-we-break-the-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Machine-Learning-Feature-3-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-mobileye-tests-self-driving-cars-in-new-york-city.md",
       "title": "Mobileye tests self-driving cars in New York City",
       "excerpt": "Intel Corp (INTC.O) unit Mobileye on Tuesday said it was testing self-driving vehicles in New York City, including the bustling Manhattan borough, in an effort to prove its technology can handle jaywalkers,",
@@ -1078,100 +1174,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-ai-powered-deep-neural-nets-increase-accuracy-for-credit-score-predictions.md",
-      "title": "AI-powered deep neural nets increase accuracy for credit score predictions",
-      "excerpt": "Credit Karma's CTO discussed migrating to the cloud and adopting machine learning to improve personalized recommendations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/ai-powered-deep-neural-nets-increase-accuracy-for-credit-score-predictions/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/ai-powered-deep-neural-nets-increase-accuracy-for-credit-score-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/karma.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/ai-powered-deep-neural-nets-increase-accuracy-for-credit-score-predictions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/ai-powered-deep-neural-nets-increase-accuracy-for-credit-score-predictions/amp/",
-      "publishedDateTime": "2021-07-19T17:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-watson-as-a-warning-current-limits-and-promise-of-ai.md",
-      "title": "Watson as a Warning: Current Limits and Promise of AI",
-      "excerpt": "Last week the New York Times ran a cautionary tale about how IBM tried and failed to use its heavily branded AI solution called Watson to transform the business world and solidify IBM’s future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai",
-      "originalUrl": "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp",
-      "publishedDateTime": "2021-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

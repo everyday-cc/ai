@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Bookkeeper360 introduces AI-powered marketplace and Brex integration"
+    excerpt: "Bookkeeper360 has announced the launch of its new Bookkeeper360 App Marketplace and Brex Integration for small businesses"
+    publishedDateTime: 2021-07-29T06:25:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/bookkeeper360-introduces-ai-powered-marketplace-and-brex-integration/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2021/07/Bookkeeper360.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Nintex launches AI-based capabilities and integrations within Nintex Workflow Cloud"
     excerpt: "Nintex, the global standard for process management and automation, today announced the latest enhancements to its next generation Nintex Workflow Cloud, designed for ops, IT, process professionals and power users to improve the way people work by making it faster and easier to manage,"
     publishedDateTime: 2021-07-28T04:43:00Z

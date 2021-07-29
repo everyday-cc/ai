@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Logiq Teams with GumGum to Bring MRC-Accredited Contextual Targeting and Brand Safety to E-Commerce Marketers"
-excerpt: "(NEO: LGIQ) (OTCQX: LGIQ), a global provider of award-winning e-commerce and fintech solutions, has partnered with GumGum, a global media and contextual intelligence company, to provide e-commerce marketers a powerful targeting solution for their digital advertising campaigns."
-publishedDateTime: 2021-07-28T12:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/28/9418688.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/28/9418688.htm"
+excerpt: "Logiq Teams with GumGum to Bring MRC-Accredited Contextual Targeting and Brand Safety to E-Commerce Marketers. NEW YORK, July 28, 2021 (GLOBE NEWSWIRE) -- Logiq, Inc. (NEO: LGIQ)"
+publishedDateTime: 2021-07-28T13:55:00Z
+originalUrl: "https://www.mobilitytechzone.com/wimax/news/2021/07/28/9418688.htm"
+webUrl: "https://www.mobilitytechzone.com/wimax/news/2021/07/28/9418688.htm"
 type: article
-quality: 0
-heat: 0
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "4KWgL3qlJaX4R5ZCJBYiSyfEYIVOSpgo1atKyBFz0vBjezcdwsm8Qx6xWfhx0vY7M5BKEJhumoYPO+RiEwvVGYoYvtedbRGtPcnWiXF3O44R5hmO/W0h9R3cYRD6SNlBHFu3nUDN6sTBWRP0ZaPF1SbKT4c72eopPR9fJs30SiPgRBHsy/h8Li6MAXtyJU6oVSUiPF2sODhbJ7YPvI4ErHmLLLlOrMJbc54byUBs55Zn15EsDzS7ujZ7cR8Ibmg587qNrlBcgmSPVCg1r9GPU0aAEAeCt/deVDzdZ/Dtlx0ol4g8MF9bLqWsg4A1voFclg5OqA6WwmTtZevVsiB7M0RvuXlj/hNs/FRObNTrVcw=;gGQWFZJHfrKjUqEdH1jPUw=="
+images:
+  - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
+    width: 1577
+    height: 1050
+    isCached: true
+
+secured: "KqfqnBcTslg9mVHqT6nOPBLM7iJzYpAZay+2eGbIwIQoYr36xMttsy4BnIGWsnmzYD1+6sSwpCeIzLsWUTc/zGIkEPlGfafOBRS0xjCVsi+GsPYnZGbm2Ut9LNEBAcyi+SzZCidiIcjs0byzqCBkct98ycX90vzG4rfNeixnMyLTCmANybAhzQ3Kb6G6mcYwEm0qPe6EN4sCyvKEa/48A7rTGbeh2imqB1r0/OszEr+t+/kseOPRMihrmJRAi78fLNWYRRHJD2P7Ws8k8lCNmiFQvZgeKZgoF+TBjWJv94YGVF/tdmVc/4NbnJDyWRh3515gX/z4vsORsbz9E2J51M71+cuU4qS8Sgwiwc7yOHs=;bvBXUBflylyooXHe3FfZ8Q=="
 ---
 

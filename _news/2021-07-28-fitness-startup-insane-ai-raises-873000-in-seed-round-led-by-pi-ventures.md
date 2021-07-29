@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/378615"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378615"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -55,6 +55,22 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 46
+  - title: "Text-based voice-over startup Murf.ai raises $1.5 mn in seed funding led by Elevation Capital"
+    excerpt: "Murf.ai, an AI-enabled voice-over startup, has raised $1.5 million in seed funding led by Elevation Capital. Angel investors who participated in this funding round include Vidit Aatrey (CEO, Meesho),"
+    publishedDateTime: 2021-07-29T06:21:00Z
+    webUrl: "https://www.freepressjournal.in/business/text-based-voice-over-startup-murfai-raises-15-mn-in-seed-funding-led-by-elevation-capital"
+    ampWebUrl: "https://m.freepressjournal.in/article/business/text-based-voice-over-startup-murfai-raises-15-mn-in-seed-funding-led-by-elevation-capital/9b72281a-36f9-4904-973f-25a30840e184"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/text-based-voice-over-startup-murfai-raises-15-mn-in-seed-funding-led-by-elevation-capital/9b72281a-36f9-4904-973f-25a30840e184"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 46
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "xuXFhKleaLqE2Y2ptIoRX06CO6MsFhjyVwQbh8YmeBxdHONJEvr3fn3u6NEeMjmQme6BZlshan/5pFR2oAc+/Cy88ZSWzkj6ZU1uVC1z12b/lJDV9L9dkjR9+5+GTPtn4ssV71qNmfv+7PmmPoU8DtZso0CqpR2neyvvGWobcCd3kvgGNYM9yzEdY5ogKxb5S2mWQT3mNZ035vF8B0RLc78xDuvHrupwjvUpycVlM42BPHUy/I9Vj1M0XPZL3ZyvwrWSkgi55aid8sExZgXjQ7/HFpr0NkQ6Utw9tmIH1RHJPtiME2XoPCq5DJK4Yr6aY0aVtiNlRG8A1S6kHIoPcqNw0IUVj+LWRyvmHPBxvtbTV7xqPYXMwbXwVlBK0WNZtScoIHJ6eVhA6sZ8AcpeR8UihUYergV5Z7VUbx2TPyvAxmU6mcp4OH6auSc2STo5tyI2k68ufaOwsSS0zbqQW+YyucfKoP+kj400u/L+AY4KuBPMFoueYvDB3eoaSzlCH/HicNS78R/BoiOH6g+dpw==;Y1CaDqtMkUeEhyZ8724KYg=="
 ---

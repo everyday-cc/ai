@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-17-robot-training-on-famous-highland-estate-will-make-driverless-vehicles-more-reliable.md",
+      "title": "Robot ‘training’ on famous Highland estate will make driverless vehicles more reliable",
+      "excerpt": "The project will help make driverless vehicles of the future more reliable ... engineers and students dedicated to researching robotics, artificial intelligence, systems engineering, and other related fields. A crash scene for the new James Bond movie ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
+      "originalUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pressandjournal.co.uk/wp-content/uploads/sites/2/2021/07/ORI_Scotland-3.jpg_39621277-scaled-e1625854534304.jpg",
+          "width": 2457,
+          "height": 1472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
+      "cdnAmpWebUrl": "https://www-pressandjournal-co-uk.cdn.ampproject.org/c/s/www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
+      "publishedDateTime": "2021-07-16T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Press and Journal",
+        "domain": "pressandjournal.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech.md",
       "title": "Sense Photonics Sees Flash LiDAR As Best Path To Full Self-Driving Tech",
       "excerpt": "Sense Photonics is on a mission to make LiDAR, the core of self-driving technology, more affordable and less obtrusive. And it is leveraging two elements of the iPhone 12 to get there. Today, most autonomous vehicles in test fleets have a cumbersome ...",
@@ -512,11 +556,11 @@
     },
     {
       "path": "_news/2021-07-15-on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform.md",
-      "title": "ON Semiconductor Intelligent Sensing Technologies Enable 360 Vision in AutoX Gen5 Self-Driving Platform",
-      "excerpt": "ON Semiconductor (Nasdaq: ON), today announced that its image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform. Revealed at the World Artificial Intelligence Conference,",
+      "title": "ON Semiconductor Intelligent Sensing Technologies Enable 360° Vision in AutoX Gen5 Self-Driving Platform",
+      "excerpt": "ON Semiconductor's image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/",
-      "originalUrl": "https://www.financialbuzz.com/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/",
+      "webUrl": "https://www.businesswire.com/news/home/20210714005927/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210714005927/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -529,8 +573,8 @@
       "publishedDateTime": "2021-07-14T16:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1327,49 +1371,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-quotable-quotes-from-waic-2021.md",
-      "title": "Quotable quotes from WAIC 2021",
-      "excerpt": "Artificial intelligence has made life increasingly ... Baidu has just rolled out the latest driverless robotaxi service Apollo, which will be cheaper than the current ride-hailing services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202107/08/WS60e6db24a310efa1bd660a5c_1.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202107/08/WS60e6db24a310efa1bd660a5c_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202107/08/60e6ddd1a310efa1e3ad381b.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -10,7 +10,7 @@
       "originalUrl": "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -98,6 +98,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-27-pittsburghs-expertise-in-self-driving-tech-attracts-waymo.md",
+      "title": "Pittsburgh’s expertise in self-driving tech attracts Waymo",
+      "excerpt": "Waymo, one of the industry’s leaders in self-driving tech, is opening an office in Pittsburgh at Bakery Square.",
+      "sourceUrl": null,
+      "webUrl": "https://nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/",
+      "originalUrl": "https://nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextpittsburgh-images.s3.amazonaws.com/2021/07/23162123/Screen-Shot-2021-07-23-at-4.20.21-PM-e1627071756650.png",
+          "width": 750,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/amp/",
+      "cdnAmpWebUrl": "https://nextpittsburgh-com.cdn.ampproject.org/c/s/nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/amp/",
+      "publishedDateTime": "2021-07-26T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NEXTpittsburgh",
+        "domain": "nextpittsburgh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-getting-banned-from-riding-in-ai-self-driving-cars-for-the-rest-of-your-entire-life.md",
       "title": "Getting Banned From Riding In AI Self-Driving Cars For The Rest Of Your Entire Life",
       "excerpt": "Expect to see a ban or no-fly type of list being developed for unruly passengers that ride in self-driving cars. This can be stridently enforced, though might not pass muster judiciously or societally.",
@@ -158,7 +201,7 @@
       "originalUrl": "https://techstory.in/googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -483,43 +526,25 @@
     {
       "path": "_news/2021-07-23-alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit.md",
       "title": "Alphabet to launch robotics firm Intrinsic under its other bets unit",
-      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and advertising business, Google in 2015 established Alphabet as ...",
+      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. July 23 (Reuters) - Alphabet Inc's ...",
       "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212",
-      "originalUrl": "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212",
+      "webUrl": "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23",
+      "originalUrl": "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL4N2OZ212",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL4N2OZ212",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-07-23T06:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1389,50 +1414,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-robot-training-on-famous-highland-estate-will-make-driverless-vehicles-more-reliable.md",
-      "title": "Robot ‘training’ on famous Highland estate will make driverless vehicles more reliable",
-      "excerpt": "The project will help make driverless vehicles of the future more reliable ... engineers and students dedicated to researching robotics, artificial intelligence, systems engineering, and other related fields. A crash scene for the new James Bond movie ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
-      "originalUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressandjournal.co.uk/wp-content/uploads/sites/2/2021/07/ORI_Scotland-3.jpg_39621277-scaled-e1625854534304.jpg",
-          "width": 2457,
-          "height": 1472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
-      "cdnAmpWebUrl": "https://www-pressandjournal-co-uk.cdn.ampproject.org/c/s/www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
-      "publishedDateTime": "2021-07-16T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Press and Journal",
-        "domain": "pressandjournal.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

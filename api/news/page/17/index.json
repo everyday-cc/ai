@@ -2,6 +2,100 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-15-ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit.md",
+      "title": "IBM unveils first machine-learning end-to-end pipeline starter kit",
+      "excerpt": "IBM is announcing a new addition to its open source Cloud-Native Toolkit that will allow developers to integrate their AI and ML applications \"to cloud-native environments and optimize scalable, reliable deployments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit/",
+      "publishedDateTime": "2021-07-14T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations.md",
+      "title": "Easy Eat AI raises $5M to help Southeast Asian restaurants digitize their operations",
+      "excerpt": "Easy Eat AI, a Singapore-based startup that wants to “transform restaurants into technology companies,” announced today it has raised $5 million in funding. Easy Eat AI offers an operating system for restaurants that lets them digitize all parts of their business,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/14/easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations/",
+      "originalUrl": "https://techcrunch.com/2021/07/14/easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1271227743.jpg?w=1024",
+          "width": 1024,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/14/easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/14/easy-eat-ai-raises-5m-to-help-southeast-asian-restaurants-digitize-their-operations/amp/",
+      "publishedDateTime": "2021-07-14T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2027",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -264,11 +358,11 @@
     },
     {
       "path": "_news/2021-07-15-on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform.md",
-      "title": "ON Semiconductor Intelligent Sensing Technologies Enable 360 Vision in AutoX Gen5 Self-Driving Platform",
-      "excerpt": "ON Semiconductor (Nasdaq: ON), today announced that its image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform. Revealed at the World Artificial Intelligence Conference,",
+      "title": "ON Semiconductor Intelligent Sensing Technologies Enable 360° Vision in AutoX Gen5 Self-Driving Platform",
+      "excerpt": "ON Semiconductor's image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/",
-      "originalUrl": "https://www.financialbuzz.com/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/",
+      "webUrl": "https://www.businesswire.com/news/home/20210714005927/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210714005927/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -281,8 +375,8 @@
       "publishedDateTime": "2021-07-14T16:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1071,108 +1165,6 @@
         "AWS AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-car-insurance-and-more-could-get-cheaper-and-a-lot-fairer-thanks-to-artificial-intelligence.md",
-      "title": "Car insurance and more could get cheaper (and, a lot fairer) thanks to artificial intelligence",
-      "excerpt": "TomTom has partnered with AI insurance startup Loop to offer coverage that weighs driving habits over demographics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/car-insurance-and-more-could-get-cheaper-and-a-lot-fairer-thanks-to-artificial-intelligence/",
-      "originalUrl": "https://www.techrepublic.com/article/car-insurance-and-more-could-get-cheaper-and-a-lot-fairer-thanks-to-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/16/2dfc1eba-a99d-4fe3-9894-aba5f4c2ad06/resize/1200x/b2c0f59b9f7186d9c7f47b0b98f51e59/cyber-insurance.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/car-insurance-and-more-could-get-cheaper-and-a-lot-fairer-thanks-to-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/car-insurance-and-more-could-get-cheaper-and-a-lot-fairer-thanks-to-artificial-intelligence/",
-      "publishedDateTime": "2021-07-14T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-aidoc-raises-over-66m-for-ai-radiology-analysis-technology.md",
-      "title": "Aidoc raises over $66M for AI radiology analysis technology",
-      "excerpt": "The biggest question facing Aidoc, or any other startup in the field of artificial intelligence, though, is whether it can convince hospitals and clinics to adopt an AI strategy in the first place.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/14/aidoc-raises-over-66m-for-ai-radiology-analysis-technology/",
-      "originalUrl": "https://techcrunch.com/2021/07/14/aidoc-raises-over-66m-for-ai-radiology-analysis-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-493216371.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/14/aidoc-raises-over-66m-for-ai-radiology-analysis-technology/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/14/aidoc-raises-over-66m-for-ai-radiology-analysis-technology/amp/",
-      "publishedDateTime": "2021-07-14T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

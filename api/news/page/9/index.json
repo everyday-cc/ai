@@ -2,6 +2,92 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-07-21-army-eyes-artificial-intelligence-ai-to-enable-armored-vehicles-to-attack-several-targets-in-seconds.md",
+      "title": "Army eyes artificial intelligence (AI) to enable armored vehicles to attack several targets in seconds",
+      "excerpt": "The kinds of initiatives are now taking on a newer, more advanced character as artificial intelligence (AI)-enabled ... such as those for driverless cars, have been advancing for quite some ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.militaryaerospace.com/computers/article/14179977/combat-vehicles-artificial-intelligence-ai-targets",
+      "originalUrl": "https://www.militaryaerospace.com/computers/article/14179977/combat-vehicles-artificial-intelligence-ai-targets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/07/Future_tank_21_July_2020.5f15bea095cd7.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Military",
+        "domain": "militaryaerospace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-medical-imaging-powered-by-ibm.md",
+      "title": "Medical Imaging, Powered by IBM",
+      "excerpt": "IBM Watson Health and Merge Healthcare are bringing new insights, made possible through artificial intelligence and cognitive computing, to medical imaging. Radiologists are about to get some help with their imaging workload. IBM Watson Health and Merge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/radiological/medical-imaging-powered-ibm",
+      "originalUrl": "https://www.mddionline.com/radiological/medical-imaging-powered-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-ai-is-not-going-to-replace-writers-anytime-soon-but-the-future-might-be-closer-than-you-think.md",
       "title": "AI Is Not Going To Replace Writers Anytime Soon – But The Future Might Be Closer Than You Think",
       "excerpt": "Is AI for content creation over-hyped or will all writers eventually be replaced by bots? Businesses don’t necessarily need more content, they need better content that actually performs. AI is doing a lot to help streamline content marketing and management for companies across the board.",
@@ -1084,102 +1170,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-dotmatics-announces-support-for-the-aws-for-health-initiative.md",
-      "title": "Dotmatics Announces Support for the AWS for Health Initiative",
-      "excerpt": "Dotmatics has announced support for the AWS for Health initiative from Amazon Web Services (AWS) to improve laboratory efficiency and accelerate the pace of scientific innovation by facilitating more rapid data access,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/product-news/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
-      "originalUrl": "https://www.technologynetworks.com/informatics/product-news/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG",
-          "width": 389,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/product-news/amp/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/product-news/amp/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
-      "publishedDateTime": "2021-07-20T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-our-ai-headline-experiment-continues-did-we-break-the-machine.md",
-      "title": "Our AI headline experiment continues: Did we break the machine?",
-      "excerpt": "Is Our Machine Learning? Our AI headline experiment continues: Did we break the machine? Feeding the machine: We give an AI some headlines and see what it does; Is our machine lea",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2021/07/our-ai-experiment-continues-did-we-break-the-machine/",
-      "originalUrl": "https://arstechnica.com/information-technology/2021/07/our-ai-experiment-continues-did-we-break-the-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Machine-Learning-Feature-3-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

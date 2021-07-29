@@ -54,6 +54,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Text-based voice-over startup Murf.ai raises $1.5 mn in seed funding led by Elevation Capital"
+    excerpt: "Murf.ai, an AI-enabled voice-over startup, has raised $1.5 million in seed funding led by Elevation Capital. Angel investors who participated in this funding round include Vidit Aatrey (CEO, Meesho),"
+    publishedDateTime: 2021-07-29T06:21:00Z
+    webUrl: "https://www.freepressjournal.in/business/text-based-voice-over-startup-murfai-raises-15-mn-in-seed-funding-led-by-elevation-capital"
+    ampWebUrl: "https://m.freepressjournal.in/article/business/text-based-voice-over-startup-murfai-raises-15-mn-in-seed-funding-led-by-elevation-capital/9b72281a-36f9-4904-973f-25a30840e184"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/text-based-voice-over-startup-murfai-raises-15-mn-in-seed-funding-led-by-elevation-capital/9b72281a-36f9-4904-973f-25a30840e184"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 46
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "REwEfSr4uMVbE8zQMhYqP2o0gy/hGbb/gA1H+GZv1Jbiy4Q3f1imCDNoLKY0V/0nGS8A9n+MhveV8uYEnuF3H0R2O5qthZEQSHb9gUjb+TeVy0ogWOdBy2L7FVKX/8wH7rFdeVkKcpj8e8cOSsMfV5PvIikrqexFHqqXWncYBrNAcsN9WX6b3d8PNQWHicrSdGpUgtS+q+ssKc2W/7TmU6swtTaik562f5ohv649cajud5uIsuFcAMAr3CFMi8cPmLgWfwRxO8Q0AecITzfTbISPFhFY7rUx8iunP4CGDwNM3p071zzCQkWOegRmY3z1FN74prg2UATCnoUwh2XBfvqkh4gs+Am75L/F4JjO6FWkBTAnJHrrPNaf4l0+aYAWvILT7eAsKMu0CSL1VcLOOmOdDNUPhq5ZpgDD8tLZ65WD3Je1698g8HUVAqJfsFgmPRQSMA0f2VDeMAjbDXPMmshBM0xi92POfXamhQF7+z9qJ+ZGDKWIIvpDrguvaxny8INDRSsUgDzC8MMQjAm9Bg==;7aRz+vJRd3BEmMGQ7CdOFw=="
 ---

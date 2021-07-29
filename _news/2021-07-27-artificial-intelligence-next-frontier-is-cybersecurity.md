@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-26T22:56:00Z
 originalUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/artificial-intelligence-next-frontier-is-cybersecurity/"
 webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/artificial-intelligence-next-frontier-is-cybersecurity/"
 type: article
-quality: 37
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.hstoday.us/wp-content/uploads/2018/09/digitization-3614386_1920.jpg"
