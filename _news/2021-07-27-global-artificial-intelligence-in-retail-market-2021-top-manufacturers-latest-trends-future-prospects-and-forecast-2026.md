@@ -173,6 +173,20 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 34
+  - title: "Artificial Intelligence Market 2021 Recent Development and Trends, Expected Growth and its Factors, Business Prospects and Forecast 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence Market for"
+    publishedDateTime: 2021-07-29T07:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-recent-development-and-trends-expected-growth-and-its-factors-business-prospects-and-forecast-2030-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Computing Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
     excerpt: "The global “Cognitive Computing Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-07-28T08:23:00Z
@@ -226,6 +240,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
+  - title: "Machine learning as a Service Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Machine Learning as a Service MLaaS market was valued at 1 6 billion in 2020 and is projected to reach 12 1 billion by 2026 registering a CAGR of 39 between 2021 and 2027 Due to the COVID 19"
+    publishedDateTime: 2021-07-29T11:55:00Z
+    webUrl: "https://www.openpr.com/news/2340978/machine-learning-as-a-service-market-global-industry-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2340978/machine-learning-as-a-service-market-global-industry-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2340978/machine-learning-as-a-service-market-global-industry-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "uMmvD4WD9Wx+l5CwfXqm/KfJJ0o9bHyVCXTvF1ZH/ARy/RHtfQP9Sxsl/3uiMF6dqy/qKvc3VSRzbYFk+gT/cQJAokkWHYDS+lWyytLf6k8C5qhXfY/FW8ktRINiVk6N7XMvPbIYIWwldKvigfA/fuZz9SkPWq/ubZRzw6HzSvDhvlwPAsqPQzaGeqcyIOftYhcT12QYbpUVjapB/3IozGkS2BrVwEYhzMilRWKwNCzWwfujFjCRF2jBAUfZN+MV+T4scKacLUrZSn3GFf+SOXIx+SfBgKxTl6QRtSeaBQylhc/Hk6+N/a30fFccfYxlkwEsD4MbR3RThKlcLoBLhSb4x2VuUpKKbhW38Po6JXs=;0WF6Lsj7XSpfykLOYDCoSQ=="
 ---

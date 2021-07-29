@@ -19,6 +19,20 @@ topics:
   - AI in Marketing
 
 related:
+  - title: "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions"
+    excerpt: "The availability of Shutterstock.AI's data on AWS Data Exchange will allow customers, from tech startups to industrial giants, to train computer vision models at scale with precision, advancing their computer vision technology."
+    publishedDateTime: 2021-07-29T11:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Shutterstock Announces Formation Of Shutterstock.AI And The Acquisition Of Three Leading Artificial Intelligence Platforms"
     excerpt: "Shutterstock.AI to offer computer vision and predictive performance solutions with the goal of enhancing creative performance NEW YORK, July 27,"
     publishedDateTime: 2021-07-27T11:19:00Z
@@ -28,15 +42,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
-  - title: "Uniphore to Acquire Jacada to Transform Customer Experience with Advanced AI and Low Code/No Code Automation"
-    excerpt: "Uniphore, a leader in Conversational Service Automation (CSA), today announced its agreement to acquire Jacada (News - Alert), a customer experience pioneer with the industry's leading low code/no code platform for contact center automation."
-    publishedDateTime: 2021-07-27T11:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-uniphore-acquire-jacada-transform-customer-experience-with-advanced-/2021/07/27/9417224.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "LSyMhN5ZTeAncudYAPXAeHj6tSZZGoiblDy4gZmeDVLd6Mh6fESW0kl+jPIM+JmgfUWDao0x4DFkFtWirxv1pWvdian8CR+1JFG2M1m+Kmp2C0RLb7HdCAIaEFp4rQz4k4tpojuVl6WEYdhCnVumer7VEzNaVpbuvVdRXzqtfw9yQlXmNpGFDbnXEC+ArV9i2xgkVRuCgGoFlN8hJAiB7FbxVVdkJRlUQUMuxWPVNebClyTqVx2r8TXt8+NpNrwxcFcFno1Iq2PU7xsW++JEUI+x5JNf1kUmjkPVw1mcBeLBuEQSLLnVziXm07TsoaAQWKGLzQ7GAMscTcmJI70fmNVEZn61wh64/XrGGrybZ0gbj6N8czYUyhWwHEiArVD5yxmeVhiHsgnB6WW/GR5AVpVCUSKOOglUm+69Tu2uvRjS6dVzumP5souuT8p5QBESz2dWSBBibSru9Tqn42BNp+NYo+Nqq9JFPG1SW93PNEAXybfNPRheSlLI5EXf7HNUS9M2P4TpLU/hJSq7TMdAZQ==;T9opJ0BFIS6ZDSUyv5gVew=="
 ---

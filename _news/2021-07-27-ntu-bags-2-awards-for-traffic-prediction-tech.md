@@ -39,6 +39,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Xiaomi’s Self-Driving Division to Develop L4 Autonomous Driving Technologies"
+    excerpt: "The self-driving division of Chinese handset maker Xiaomi will recruit 500 staffers to develop Level-4 autonomous driving technologies, founder Lei Jun said in his Weibo account today. The recruitment website for Beijing-based Xiaomi said the company is urgently seeking data center architects,"
+    publishedDateTime: 2021-07-28T12:38:00Z
+    webUrl: "https://www.yicaiglobal.com/news/xiaomi-self-driving-division-to-develop-l4-autonomous-driving-technologies-"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 21
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/xiaomi-self-driving-division-to-develop-l4-autonomous-driving-technologies-/15096304359178240.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "ULpz0z70DD+W3Vhp7ABsubV9FgeHq6UgXKgZXnb05GojliRYQVG1dnt8y0cm7FUO8s1EY015Rk08JcxJVk4K96Kx1581dFYPcY6obKsHgMcWU1qQivRRYlU1dbgqJ4mHxf+wQ9PbKnBRCF77+fXekmR52aNik56uaUxj7Rk+ovkf0iTWXltrUYpskfFLBGlxucS87LNIAmOwbRE27myB9GQ3/4rEtKy4yVMiscXVmgAtZ6pA+LRPABOicF+S18eNoEOKFV3qbCwfDmPTe2zE/KoOwA+eTorq8G11Bo3kWbsMXlUvWy275tXOgdDbOxE3P6skKKrpaS2JVYm5hIub1fOK6w09Jjq9ncbiDE02ycF5+VJ26BzxS2HDwrjUPgTCpam8GetpvjjQoc/WTYSmkynFW3UUYTWaGDFdXfkgMHh2aJa9VRhMLuPc6a0MT4Axif5TlyNtgWPFxCrkUXJAudOEkdX9hH4G+V8aY1JJUkpBDMUqqlawj2d590gZkYp5iL/31OX9IWUdfsHr+iiAJg==;NxjSGh+QKN6vHrP/ROeY8g=="
 ---

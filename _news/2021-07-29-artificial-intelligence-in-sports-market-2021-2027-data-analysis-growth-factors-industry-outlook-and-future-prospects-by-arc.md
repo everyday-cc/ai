@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Car Market Size Future Scope, Demands and Projected Industry Growths to 2025"
+    excerpt: "Jul 28, 2021 (Market Insight Reports) -- Selbyville, Delaware Market Study Report LLC has added a new report on Self-Driving Car market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size."
+    publishedDateTime: 2021-07-28T15:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2021-07-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) In Supply Chain Market anticipated to witness remarkable growth statistics during 2020-2026"
     excerpt: "In Supply Chain Market anticipated to witness remarkable growth statistics during 2020-2026” A fundamental outline of the Artificial Intelligence (AI) In Supply Chain Market niche is presented by the Artificial Intelligence (AI) In Supply Chain Market report that entails definitions,"
     publishedDateTime: 2021-07-28T10:35:00Z

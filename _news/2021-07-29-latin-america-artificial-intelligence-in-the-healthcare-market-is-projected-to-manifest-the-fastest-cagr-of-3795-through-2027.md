@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Asia-Pacific Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 40.90% through 2027"
+    excerpt: "Request a sample Report of Asia-Pacific Artificial Intelligence in the Healthcare Market Analysis Report at:  The Asia-Pacific artificial intelligence in healthcare market is projected to progress at a CAGR of 40."
+    publishedDateTime: 2021-07-29T08:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4090-through-2027-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Europe Artificial Intelligence as a Service Market is projected to manifest the fastest CAGR of 38.48% through 2027"
     excerpt: "Europe Artificial Intelligence as a Service market to show an upward trend in terms of revenue and grow at a CAGR of 38.48% in the forecasting years 2019-2027. The UK, France, Germany, Spain, Russia,"
     publishedDateTime: 2021-07-27T11:16:00Z

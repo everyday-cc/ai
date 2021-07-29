@@ -42,6 +42,22 @@ related:
         width: 726
         height: 545
         isCached: true
+  - title: "China’s supreme court sets limits on facial recognition"
+    excerpt: "The interpretation by China’s highest court sets boundaries on how businesses in China can use facial recognition technology."
+    publishedDateTime: 2021-07-29T11:09:00Z
+    webUrl: "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/"
+    ampWebUrl: "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 59
+    images:
+      - url: "https://technode.com/wp-content/uploads/2018/10/court-sky-screengrab.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Heritage Expert Testifies to Congress on Facial Recognition Technology"
     excerpt: "In recent testimony before the U.S. House Subcommittee on Crime, Terrorism and Homeland Security, Heritage Foundation research fellow Kara Frederick warned lawmakers that facial recognition technology is vulnerable to misuse and portends a slippery slope to mass surveillance."
     publishedDateTime: 2021-07-26T00:00:00Z

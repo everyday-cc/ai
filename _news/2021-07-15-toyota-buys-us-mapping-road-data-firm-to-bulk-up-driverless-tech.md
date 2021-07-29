@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Toyota buys US mapping, road data firm to bulk up driverless tech"
-excerpt: "Buying US-based Carmera will give Toyota access to real-time, high-definition maps and crowdsourced inputs that are essential for autonomous vehicles..Toyota also has other self-driving partnerships,"
-publishedDateTime: 2021-07-15T16:53:00Z
-originalUrl: "https://auto.hindustantimes.com/auto/news/toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech-41626326106542.html"
-webUrl: "https://auto.hindustantimes.com/auto/news/toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech-41626326106542.html"
-ampWebUrl: "https://auto.hindustantimes.com/auto/news/toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech/amp-41626326106542.html"
-cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech/amp-41626326106542.html"
+title: "Toyota buys U.S. mapping, road data firm to bulk up driverless tech"
+excerpt: "Toyota’s research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles ... develop mobility with artificial intelligence."
+publishedDateTime: 2021-07-15T16:28:00Z
+originalUrl: "https://driving.ca/auto-news/industry/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech"
+webUrl: "https://driving.ca/auto-news/industry/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech"
+ampWebUrl: "https://driving.ca/auto-news/industry/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech/wcm/ade2859a-2c0c-4435-94d3-b46ec856232f/amp/"
+cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/industry/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech/wcm/ade2859a-2c0c-4435-94d3-b46ec856232f/amp/"
 type: article
 
 provider:
-  name: Hindustan Times
-  domain: hindustantimes.com
+  name: driving.ca
+  domain: driving.ca
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.hindustantimes.com/auto/img/2021/07/15/600x338/20210610_01_05_s_1623294421843_1626326358081.jpg"
-    width: 600
-    height: 337
+  - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2021/07/carmera-mapping-data-u.s.-toyota-autonomous-self-driving-camera-aid.png"
+    width: 1800
+    height: 1200
     isCached: true
 
-secured: "3kO9f01IBrpn/11KjlmXxS5jcdaLJEkiljekwpTnwwRYYfN+/OqZF/uWCzvcL0Nxz5QcsHpqWKEom3OHHnPocFvuDBy2qCdEX+5x7pyBjqV3TlHCyhczggZ1lvOK60f8C+iYzdBqrrKrFePw5ZYdTAuPYjovn9YsoCu9DkXBZ8c7qurllJsq/bZnIYHUFcqXL+s/GOoGgxYY7bz2mYKXPBa5z4uNSphuKHyAFXLspnJEkv2/Wo2gewJMt7T1RAnWXWbJHM4DhTI6Uuh7TJqh6g1jBfphan5JzROx9DHb/yNHihDqpX0W8gUyr3l6Gd+qDtSRPYBjQzvXYvmRwWFVUEdsUHEHviZzdy6eYeK+Q9Q=;dq6PzQfMq4OuFVXpvHAfTw=="
+secured: "n7BDuBhuSGl0XLqUpVZhEZSWDtQ4msyYCBEP4Lzj1s0zdqGIvCcorC3ztqoqjk71TGHyb7V5j9RYiWXOEUYu3uFPzwl4mvP4LVNm0BTUpPZ+hEf6ZWLxE22cuIfoEM22JIW4UGOLG3r/376vY5Vq9bLwUuZuGdk40QBzYKhuiRPffVeNPUxeQ7OWwU7nqxNxWQnjd70nsvH6RN/OemwlaIyXujOqiwvNPkuztGIu/IERhtOP89sMEQ2CSzR/s1qN6K9UTU5wpdj1PItPZX6QDxUhHRPrtknhDm18I84xmQvDkd/XxG/IBt8xhrjxCb5vKhVs33guJo3w4TjNkVHIqTFvH6innSHMkDT/ibiQngA=;NlMBFpmUqp1n6ePcKDPpAQ=="
 ---
 

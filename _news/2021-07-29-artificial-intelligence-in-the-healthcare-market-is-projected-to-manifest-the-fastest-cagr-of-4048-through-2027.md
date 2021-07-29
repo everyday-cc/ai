@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4048-through-2027-2021-07-29"
 type: article
 quality: 63
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Asia-Pacific Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 40.90% through 2027"
+    excerpt: "Request a sample Report of Asia-Pacific Artificial Intelligence in the Healthcare Market Analysis Report at:  The Asia-Pacific artificial intelligence in healthcare market is projected to progress at a CAGR of 40."
+    publishedDateTime: 2021-07-29T08:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4090-through-2027-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

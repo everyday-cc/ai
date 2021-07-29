@@ -9,7 +9,7 @@ ampWebUrl: "https://patch.com/california/longbeach-ca/amp/29713371/robbery-on-10
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/longbeach-ca/amp/29713371/robbery-on-10th-facial-recognition-tech-migrant-minors-moved"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "China’s supreme court sets limits on facial recognition"
+    excerpt: "The interpretation by China’s highest court sets boundaries on how businesses in China can use facial recognition technology."
+    publishedDateTime: 2021-07-29T11:09:00Z
+    webUrl: "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/"
+    ampWebUrl: "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 59
+    images:
+      - url: "https://technode.com/wp-content/uploads/2018/10/court-sky-screengrab.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "SIA blasts misrepresentation of facial recognition studies"
     excerpt: "Face biometrics are in fact highly accurate, and the leading commercial algorithms do not deliver biased results, the SIA states."
     publishedDateTime: 2021-07-27T16:32:00Z

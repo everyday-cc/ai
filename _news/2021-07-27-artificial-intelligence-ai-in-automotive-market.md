@@ -165,6 +165,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market 2021 Recent Development and Trends, Expected Growth and its Factors, Business Prospects and Forecast 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence Market for"
+    publishedDateTime: 2021-07-29T07:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-recent-development-and-trends-expected-growth-and-its-factors-business-prospects-and-forecast-2030-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Computing Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
     excerpt: "The global “Cognitive Computing Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-07-28T08:23:00Z
@@ -218,6 +232,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
+  - title: "Machine learning as a Service Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Machine Learning as a Service MLaaS market was valued at 1 6 billion in 2020 and is projected to reach 12 1 billion by 2026 registering a CAGR of 39 between 2021 and 2027 Due to the COVID 19"
+    publishedDateTime: 2021-07-29T11:55:00Z
+    webUrl: "https://www.openpr.com/news/2340978/machine-learning-as-a-service-market-global-industry-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2340978/machine-learning-as-a-service-market-global-industry-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2340978/machine-learning-as-a-service-market-global-industry-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
   - title: "Global Artificial Intelligence in Retail Market 2021 – Top Manufacturers, Latest Trends, Future Prospects and Forecast 2026"
     excerpt: "Global Artificial Intelligence in Retail Market 2021 by Company, Regions, Type and Application, Forecast to 2026 announced by MarketQuest.biz gives a severe thought regarding the various factors and patterns influencing the improvement graph of the worldwide market."
     publishedDateTime: 2021-07-27T13:12:00Z

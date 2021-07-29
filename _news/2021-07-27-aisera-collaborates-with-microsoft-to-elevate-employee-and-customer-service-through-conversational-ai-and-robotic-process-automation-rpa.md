@@ -22,6 +22,17 @@ topics:
   - AI
   - Microsoft AI
 
+related:
+  - title: "Uniphore to Acquire Jacada to Transform Customer Experience with Advanced AI and Low Code/No Code Automation"
+    excerpt: "Uniphore, a leader in Conversational Service Automation (CSA), today announced its agreement to acquire Jacada (News - Alert), a customer experience pioneer with the industry's leading low code/no code platform for contact center automation."
+    publishedDateTime: 2021-07-27T11:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-uniphore-acquire-jacada-transform-customer-experience-with-advanced-/2021/07/27/9417224.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "lt0/TsiLi9Jslgp6EWVIi0IKb0h0QHMMvrJP7Junw2euLw77IMHAfsjsYFBAvoG8U9LZxqOp46eEo5N1FE6hTQsPdzsKDqOyNQe4kMa5oK9JTdfg50OrZpqWD91m7IP6vdN+HAOiy5TN+M9E2jIv1OfhX9LafvR04LX53ngaHam/AiysPS7P2L+xIc9fqpdNL0+m/3SMYZX9H1UAeCvQ3quLNZIHUisQVEbURnKLDMRLn/Dy0H7fw6b7swdV4sLbY64BYTAcwBFaHGxi467p+yAs5qOiJGEHvEAnWJMi85HtPCrb923I0iA1PQci2puJFa7cFlu3S8/gZM6BbfJJz+CJqzAsqWhEyyhQHGTpaGY=;ZDAwwqhbL0GPBpFxtZ9XUw=="
 ---
 
