@@ -372,49 +372,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-19-awesome-did-you-know-khaya-is-ghanas-first-translator-app.md",
-      "title": "Awesome! Did you know Khaya is Ghana’s first Translator App?",
-      "excerpt": "It also allows one to translate the same from the four mentioned African languages to English. An interesting feature of this AI beauty is that it goes beyond the knowledge base of the creators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
-      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ghanaweb.com/imagelib/pics/689/68968036.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ghanaweb.com",
-        "domain": "ghanaweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-19-new-toolkit-aims-to-help-teams-create-responsible-human-ai-experiences.md",
       "title": "New toolkit aims to help teams create responsible human-AI experiences",
       "excerpt": "The post New toolkit aims to help teams create responsible human-AI experiences appeared first on The AI Blog.\n",
@@ -765,6 +722,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-awesome-did-you-know-khaya-is-ghanas-first-translator-app.md",
+      "title": "Awesome! Did you know Khaya is Ghana’s first Translator App?",
+      "excerpt": "It also allows one to translate the same from the four mentioned African languages to English. An interesting feature of this AI beauty is that it goes beyond the knowledge base of the creators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/pressreleases/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
+      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/pressreleases/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ghanaweb.com/imagelib/pics/689/68968036.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ghanaweb.com",
+        "domain": "ghanaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },

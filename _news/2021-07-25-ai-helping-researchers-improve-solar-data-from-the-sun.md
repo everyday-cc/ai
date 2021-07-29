@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestatesman.com/technology/ai-helping-researchers-impro
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html/amp"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -88,17 +88,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artificial intelligence helps improve NASA's eyes on the Sun"
-    excerpt: "A group of researchers is using artificial intelligence techniques to calibrate some of NASA's images of the Sun, helping improve the data that scientists use for solar research. The new technique was published in the journal Astronomy & Astrophysics on April 13,"
-    publishedDateTime: 2021-07-24T08:34:00Z
-    webUrl: "https://phys.org/news/2021-07-artificial-intelligence-nasa-eyes-sun.html"
-    ampWebUrl: "https://phys.org/news/2021-07-artificial-intelligence-nasa-eyes-sun.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-artificial-intelligence-nasa-eyes-sun.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 37
 
 secured: "xMNd41DJBa1cAW+dbe1a+z6I+J79Kvw+wKx1QVeZb3sxrjzL+kajx3F/QfOnElTa2gmgYUAwFkt6CgL0OHjYsYNohUPhyHoZfdpgJCih2dnELwoqxDz4DJkhg2tftks4AQIj28QoseGrjjYBOz7NUI2zcYjakiZ3B3/7H1kTAkMxRCT8EDfQkWn7wk40jwYy7dBGTmY4rwkjOnNYcP5V1MYcTlmmq5LL5f3b4OvSIYHVHB9U6Vn7bgP2c4zwXL7ts7psYFAJjlTHKey8K8Bk32FlsorCrx7YyXloHhA3beYAoTr9iUExyknXrehlV9XWsGqbzJAHMx6VqYqB2eLFHZosMltYILaL4g9xuYO4iNg=;rkPmy7AEDzdH1+NRnTR6Lg=="
 ---

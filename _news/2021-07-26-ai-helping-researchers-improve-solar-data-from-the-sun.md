@@ -88,17 +88,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artificial intelligence helps improve NASA's eyes on the Sun"
-    excerpt: "A group of researchers is using artificial intelligence techniques to calibrate some of NASA's images of the Sun, helping improve the data that scientists use for solar research. The new technique was published in the journal Astronomy & Astrophysics on April 13,"
-    publishedDateTime: 2021-07-24T08:34:00Z
-    webUrl: "https://phys.org/news/2021-07-artificial-intelligence-nasa-eyes-sun.html"
-    ampWebUrl: "https://phys.org/news/2021-07-artificial-intelligence-nasa-eyes-sun.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-artificial-intelligence-nasa-eyes-sun.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 37
 
 secured: "hIURPOXRvrcR4qDOGWMbnhzlxdDH+Rh2iRHkQl/wDbn3tyCdL/nYnGufXTzM23Lyzd3ScHqmIKdYHCuZgGd9utJe2Wl5Z9RjsoNXHjJEQiccoPx3WdXFhqcVfmkljHgnsKQw7XQa+TSd/qENr8nwZZ1JG6GjiIrLxpcKk0pwvgcVE6gabkre4tUJAjBFJ1a6VunBWZf+TybdLgf+5OJbTu7Qw3fZNeyMXB8yGXuQXZKMOZ69lVLdqjvswuNsEQ8qWZcZT5zxzfNHFVDgtM1g0GhQbSxR1twSmULJZXCt429GFz2ad1oI2K9RUtyOSbaS/kpTUEfgD15KaNHZokf0i0IR/lsxQNpBNn2ekbWAroY=;OKecJrcY0lTEiaj8ufwfCQ=="
 ---

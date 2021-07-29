@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2338927/ai-in-healthcare-market-is-boomin
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm"
 type: article
 quality: 85
-heat: 205
+heat: 215
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/07/44019_Banner__1.610070cca981d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Company-X wows Microsoft with AI-powered medical diagnostic app"
+    excerpt: "A prototype app using Microsoft Azure's artificial intelligence to diagnose pneumonia has won its developer an international award."
+    publishedDateTime: 2021-07-29T00:34:00Z
+    webUrl: "https://www.reseller.co.nz/article/690140/company-x-wows-microsoft-ai-powered-medical-diagnostic-app/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/jiadong_chen_1.jpg"
+        width: 800
+        height: 531
         isCached: true
   - title: "Verified AI-900 Dumps - Prepare Your Microsoft AI-900 Exam In Short Period"
     excerpt: "Use ExamsSpy verified Microsoft AI-900 dumps and get AI-900 exam success in first attempt. IT Industry is developing and evolving leaps and bounds every single day. To keep up with the demands of the industry and to stay ahead of the competition,"

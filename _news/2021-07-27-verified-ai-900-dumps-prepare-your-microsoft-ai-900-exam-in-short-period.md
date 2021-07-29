@@ -124,6 +124,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Company-X wows Microsoft with AI-powered medical diagnostic app"
+    excerpt: "A prototype app using Microsoft Azure's artificial intelligence to diagnose pneumonia has won its developer an international award."
+    publishedDateTime: 2021-07-29T00:34:00Z
+    webUrl: "https://www.reseller.co.nz/article/690140/company-x-wows-microsoft-ai-powered-medical-diagnostic-app/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/jiadong_chen_1.jpg"
+        width: 800
+        height: 531
+        isCached: true
   - title: "Artificial Intelligence in IoT Market Size, CAGR | Key Players – IBM, Microsoft, Google, PTC, AWS, Oracle"
     excerpt: "The Artificial Intelligence in IoT Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market."
     publishedDateTime: 2021-07-25T23:37:00Z

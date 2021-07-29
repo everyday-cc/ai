@@ -1,23 +1,28 @@
 ---
 category: news
-title: "Cloud AI Market 2021-2027 is Outperforming | Evolving Players – Amazon Web Services, Microsoft, Google LLC, IBM, Intel, Nvidia"
-excerpt: "The Cloud AI Market was valued at USD XX billion in 2020 and is expected to reach USD 13.1 billion by 2027, registering a CAGR of 20.3%, during the period of 2021-2027. At present, the market is sharping its presence and some of the key players in the study are Amazon Web Services Inc."
-publishedDateTime: 2021-07-26T13:20:00Z
-originalUrl: "https://manometcurrent.com/cloud-ai-market-2021-2027-is-outperforming-evolving-players-amazon-web-services-microsoft-google-llc-ibm-intel-nvidia/"
-webUrl: "https://manometcurrent.com/cloud-ai-market-2021-2027-is-outperforming-evolving-players-amazon-web-services-microsoft-google-llc-ibm-intel-nvidia/"
+title: "Company-X wows Microsoft with AI-powered medical diagnostic app"
+excerpt: "A prototype app using Microsoft Azure's artificial intelligence to diagnose pneumonia has won its developer an international award."
+publishedDateTime: 2021-07-29T00:34:00Z
+originalUrl: "https://www.reseller.co.nz/article/690140/company-x-wows-microsoft-ai-powered-medical-diagnostic-app/"
+webUrl: "https://www.reseller.co.nz/article/690140/company-x-wows-microsoft-ai-powered-medical-diagnostic-app/"
 type: article
-quality: 23
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: manometcurrent.com
-  domain: manometcurrent.com
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
-  - AI
-  - AWS AI
   - Microsoft AI
+  - AI
+
+images:
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/jiadong_chen_1.jpg"
+    width: 800
+    height: 531
+    isCached: true
 
 related:
   - title: "AI in Healthcare Market Is Booming Worldwide with Google, IBM, Microsoft, Sentrian"
@@ -119,20 +124,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Company-X wows Microsoft with AI-powered medical diagnostic app"
-    excerpt: "A prototype app using Microsoft Azure's artificial intelligence to diagnose pneumonia has won its developer an international award."
-    publishedDateTime: 2021-07-29T00:34:00Z
-    webUrl: "https://www.reseller.co.nz/article/690140/company-x-wows-microsoft-ai-powered-medical-diagnostic-app/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 54
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/jiadong_chen_1.jpg"
-        width: 800
-        height: 531
-        isCached: true
   - title: "Verified AI-900 Dumps - Prepare Your Microsoft AI-900 Exam In Short Period"
     excerpt: "Use ExamsSpy verified Microsoft AI-900 dumps and get AI-900 exam success in first attempt. IT Industry is developing and evolving leaps and bounds every single day. To keep up with the demands of the industry and to stay ahead of the competition,"
     publishedDateTime: 2021-07-27T14:42:00Z
@@ -167,6 +158,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 30
+  - title: "Cloud AI Market 2021-2027 is Outperforming | Evolving Players – Amazon Web Services, Microsoft, Google LLC, IBM, Intel, Nvidia"
+    excerpt: "The Cloud AI Market was valued at USD XX billion in 2020 and is expected to reach USD 13.1 billion by 2027, registering a CAGR of 20.3%, during the period of 2021-2027. At present, the market is sharping its presence and some of the key players in the study are Amazon Web Services Inc."
+    publishedDateTime: 2021-07-26T13:20:00Z
+    webUrl: "https://manometcurrent.com/cloud-ai-market-2021-2027-is-outperforming-evolving-players-amazon-web-services-microsoft-google-llc-ibm-intel-nvidia/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 23
   - title: "Text-To Speech Market 2021 Long-term Outlook Remains Positive | Microsoft Corporation, IBM Corporation, Google, Sensory"
     excerpt: "The Text-To Speech Market was valued at USD XX billion in 2020 and is estimated to reach USD 5.0 billion by 2027, registering a CAGR of 14.6% during the forecast period. Latest added Text-To Speech Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
     publishedDateTime: 2021-07-26T16:50:00Z
@@ -186,6 +186,6 @@ related:
       domain: manometcurrent.com
     quality: 6
 
-secured: "yonZBq1AiXKWW5fGtHxuDLmmvqrCwtsBGMiq+MJlxY0pdKzo7MOA67OaB5RS3Ty06Z+W25hWACBg6f0oHUpuMakoJHQ76rWk5xqifXXjirm9c0iMLTOkPVlh1Kq0VdlTKxC3sc8RnP93pxu5uVfs+aomcAS3ZVpMlE7vSgV1z12zqKOJ8SfLNqp+AztRnIHrKrSMftag5LByEcYLPCcEStSwo8Zg0sTz9OLs2ve35iGT5iewJtfXrpt+XOVbuf4o7veWIOJofSAsq2TcOSK50ETXTxhGy0n9y3VSW58zQLtDDJX97gmr8H5d91gyltBION4tjqNF4a9lYBtEFFq4WaTSgydDct5nZBrNkfre+D0=;z0VcqSztgSdOTB+RmXB9sA=="
+secured: "7nLSKjki4SRSJXIkBMZ++uDdcgp3ZqB1MsBE9LqZ0w4QODcVBEspgUseEtRDzVMC77dRMBEvjvvuilsXF2EqvFXeXVfAqUqnzHrTFzG6Al0tDUDguQiLjVyivu2Kx00h8uBJIRBijk/keBMfNWsadx/u/N+C/ScOBJgrU+OD1tBgQ0cWOKLQDt3AWLEjcV4oRZXwWuu3hpsCOPNzAllfaf94MyyLfO+gzGG4gNHIwRXP/mByvYLJUwzqe9SEOVBWXPIQ6BRm+EjAYDPmSzVrasqXrFMJpHMCEf2ZJLHsMy1JqDlg0gIqQlX7XNx32neAEqFzYx8nZZW/J6D56JmQUc8YWJ/6fIatJ5XFhXlaFyQ=;SpPyOrZzdqOCfpAH0v6NjA=="
 ---
 

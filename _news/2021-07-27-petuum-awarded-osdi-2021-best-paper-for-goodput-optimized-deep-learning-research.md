@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Petuum Awarded OSDI 2021 Best Paper for Goodput-Optimized Deep Learning Research"
-excerpt: "PITTSBURGH and SUNNYVALE, Calif., July 27, 2021 /PRNewswire/ -- Petuum’s CASL research and engineering team has won this year’s OSDI 2021 Best Paper Award. This effort is led by Dr. Aurick Qiao who heads the Composability,"
-publishedDateTime: 2021-07-27T15:22:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-abf69fb17e9b96a6c5d2b7c5a7b39e59"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-abf69fb17e9b96a6c5d2b7c5a7b39e59"
+excerpt: "PITTSBURGH and SUNNYVALE, Calif., July 27, 2021 /PRNewswire/ -- Petuum's CASL research and engineering team has won this year's OSDI 2021 Best"
+publishedDateTime: 2021-07-27T14:49:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/petuum-awarded-osdi-2021-best-paper-for-goodput-optimized-deep-learning-research-1030651392"
+webUrl: "https://markets.businessinsider.com/news/stocks/petuum-awarded-osdi-2021-best-paper-for-goodput-optimized-deep-learning-research-1030651392"
 type: article
-quality: 34
-heat: 34
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "BijKblN555DoAOrMwUtIxaJDgYM9BQGlwvSYSh5g54S5Uw6jFMNpis/VEgJA345ac/Tad5AhDMUFSokahcs/nimxLHw0fH4qY1yiHy/tgMZFc6/etBQk1iircJ+bQId5wyv/LARayDBwZMU9dDt3Fvld2s36Y+G9wBedtVkB2rPADXJYmHMYF0B4Kpa5yxW0DS98N3FtxOg8smQRGgMOY9WaSxzc0NhtwDwtNsSSGAqrlg/lp03+wXRpUjkbPik+aQpt9dRO4WQIJp4SY2Q0w7/6tFmfW4+A9cUG9a2vZZ+bCpp4IXqIBZ+vlAqmzooQslI0uC9GmPwNnFI1Ugoq6uJuedqWS9QMKFMrdAj7oes=;z1BvfmoxtjEDSkutaLONCg=="
+secured: "BPT1mepf/PAXiU6YwYm9U2nThtDvcqnm+UdMPQvpVkRI79kuvfVyvKMwT4nTANE8GXvD5/+g3++fLs5N99w4gq7tRnaLouw2RGPXkZQK3goxZ/Ha89F2ncQkARNaXrCpZIsc+HK7zefRssXDk1j21DjFgU1pP44VOuYTmIGf73rsMZTBwaBidAASaJu7epQFTdJRrjKBGeozsaDNditBvMM6KXsr59F9+UbCaADzYGLFS64AJDEpFezgYMwjBw2v8jzziZqWhlfTJlhGsBKI05YsvOTRkuh2bqN7yviUMzZlk4dR5tfBxBR5XmFCWgywHNAo212R+m5+RkvCRDtxRsqO8UX/OWOJa1P8hq7h33Q=;qyJltsB4/iI05yi9OyQOKw=="
 ---
 

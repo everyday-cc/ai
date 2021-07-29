@@ -73,6 +73,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Perfecting mapping with AI and machine learning"
+    excerpt: "Across the world, mapping technology with Artificial Intelligence (AI) and machine learning allow users to have a variety of choices on their travels. Be"
+    publishedDateTime: 2021-07-29T00:50:00Z
+    webUrl: "https://techwireasia.com/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 74
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/000_9DK4N2-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Catching the artificial intelligence buzz"
     excerpt: "The federal minister for the digital economy, Jane Hume, will deliver a speech on Tuesday setting out how the government is backing artificial intelligence."
     publishedDateTime: 2021-07-26T17:33:00Z

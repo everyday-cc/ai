@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Catching the artificial intelligence buzz"
-excerpt: "Backpacks to track bees, bushfire modelling and sensors to detect broken water pipes are some of the technologies being developed in Australia as part of an"
-publishedDateTime: 2021-07-26T16:00:00Z
-originalUrl: "https://www.canberratimes.com.au/story/7358148/catching-the-artificial-intelligence-buzz/"
-webUrl: "https://www.canberratimes.com.au/story/7358148/catching-the-artificial-intelligence-buzz/"
+title: "Perfecting mapping with AI and machine learning"
+excerpt: "Across the world, mapping technology with Artificial Intelligence (AI) and machine learning allow users to have a variety of choices on their travels. Be"
+publishedDateTime: 2021-07-29T00:50:00Z
+originalUrl: "https://techwireasia.com/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
+webUrl: "https://techwireasia.com/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
+ampWebUrl: "https://techwireasia.com/amp/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
+cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
 type: article
-quality: 39
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Canberra Times
-  domain: canberratimes.com.au
+  name: techwireasia.com
+  domain: techwireasia.com
 
 topics:
-  - AI Ethics
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/6f78c94e-5081-42b7-bc96-9cd824c8399d.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
-    width: 800
-    height: 452
+  - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/000_9DK4N2-450x300.jpg"
+    width: 450
+    height: 300
     isCached: true
 
 related:
@@ -73,22 +75,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Perfecting mapping with AI and machine learning"
-    excerpt: "Across the world, mapping technology with Artificial Intelligence (AI) and machine learning allow users to have a variety of choices on their travels. Be"
-    publishedDateTime: 2021-07-29T00:50:00Z
-    webUrl: "https://techwireasia.com/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 74
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/000_9DK4N2-450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "Catching the artificial intelligence buzz"
     excerpt: "The federal minister for the digital economy, Jane Hume, will deliver a speech on Tuesday setting out how the government is backing artificial intelligence."
     publishedDateTime: 2021-07-26T17:33:00Z
@@ -104,6 +90,20 @@ related:
       - url: "https://images.perthnow.com.au/publication/C-3515265/6bbe09f178da49e5451814198832feb73ebb286a-16x9-x0y0w1280h720.jpg?imwidth=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Catching the artificial intelligence buzz"
+    excerpt: "Backpacks to track bees, bushfire modelling and sensors to detect broken water pipes are some of the technologies being developed in Australia as part of an"
+    publishedDateTime: 2021-07-26T16:00:00Z
+    webUrl: "https://www.canberratimes.com.au/story/7358148/catching-the-artificial-intelligence-buzz/"
+    type: article
+    provider:
+      name: The Canberra Times
+      domain: canberratimes.com.au
+    quality: 39
+    images:
+      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/6f78c94e-5081-42b7-bc96-9cd824c8399d.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
+        width: 800
+        height: 452
         isCached: true
   - title: "Why Artificial Intelligence Implementation is Lagging in International Shipping"
     excerpt: "The long-term benefits of including AI-powered systems in logistics and supply chain operations are well known."
@@ -134,6 +134,6 @@ related:
         height: 400
         isCached: true
 
-secured: "+YXHfFSVzK9ECJnenKWNUy/aTs/li3feaVI7W+zDr88yT4f5+PRiBCh+dzRcqoWGmi9a3y5A71HBaUXENr2dnBv85H+Xin4OEIQEDd79+k6i/s/AbzgSRzIqs6jAHaBJx+WbaBRWHmdxFvC53/5g4STS/XweyHajBnGhOrx4N54PF7C8vov5tgqcBRO4Lj8+3PKtkgpf9R6zmR108d7VLGekQQhkUllSby1plZCgvbzRoKLoq4VyDHcJdTS6lZpqOjyTeFLavHviTEb2d/upwHLiO7AT1T1oxxZqdTTp6gHn0TXgcP2HjOoHSNHbRTlpQtvxEqZvf9HQGsqnQnFtpnhSbJo4FaZ+wPZtyFQ32fI=;rFzjFeyDDoDxtVmAAIsr3A=="
+secured: "zBI2JLcqGbB8o6aV9eDAFn4UfOFwEQ1TcLJGRGlpRN7vAQVSUgdQl3Q4Du8QY8EntzuvAU3P9fXVCat1DXojJY+PDrgKKWgMYxAn+tf3nloHkLB98PlA/UMc15xczTZUfYkmj4j0faIF3d0mSFD6DICBzSnJ//eDhui0JOM4yLGBiO1GezXJCnrqHFU9YM9KOHP56TnTqzK68dC/D/x1fMHW7NfDQwAUEKX8fTz5+rgKrKyDh3H7mrY42H7CoI2UTKqvnAS/xfT25MnUIarinMzwhepxkQIsLIa6RbLufEe6mRXGf443r/ha5zmfvOa74YIJdWPS1YUhjjNFNrhGxFuLmmOGqjlZSPdtscWkoK0=;JHTMNUwzxyjHZjq4CMC9Tw=="
 ---
 

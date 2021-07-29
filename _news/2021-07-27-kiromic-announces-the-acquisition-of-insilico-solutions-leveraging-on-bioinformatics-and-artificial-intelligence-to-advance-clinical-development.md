@@ -33,6 +33,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "New rules to curb misuse of facial recognition tech"
+    excerpt: "Shops installing face-scanning systems to gather consumers' data without getting their permission and software operators forcing users to give their facial information will be in violation of people's personality rights,"
+    publishedDateTime: 2021-07-28T23:36:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202107/29/WS6101e9fea310efa1bd6651ae.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202107/29/61020837a310efa1e3b24b66.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021"
     excerpt: "Analytics Insight has announced 'Top Robotics Companies at the Forefront of Innovation in 2021' in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
     publishedDateTime: 2021-07-26T14:16:00Z

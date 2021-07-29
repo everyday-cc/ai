@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AI-enabled sign language translator designed by teenagers wins £20,000 prize"
-excerpt: "A two-way AI-enabled sign language translator designed by teenagers has won a £20,000 technology prize. A team from St Paul’s Girls’ School in London came up with the idea for an intelligent ..."
-publishedDateTime: 2021-07-16T00:39:00Z
-originalUrl: "https://www.itv.com/news/2021-07-15/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize"
-webUrl: "https://www.itv.com/news/2021-07-15/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize"
+excerpt: "The prototype of the BSL: Educate-2-Translate app A two-way AI-enabled sign language translator designed by teenagers has won a £20,000 technology prize. A team from St Paul’s Girls’ School ..."
+publishedDateTime: 2021-07-15T23:09:00Z
+originalUrl: "https://www.shropshirestar.com/news/uk-news/2021/07/16/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize/"
+webUrl: "https://www.shropshirestar.com/news/uk-news/2021/07/16/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize/"
 type: article
 
 provider:
-  name: ITV
-  domain: itv.com
+  name: Shropshire Star
+  domain: shropshirestar.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.ctfassets.net/pjshm78m9jt4/headerImage-24f4d169-e421-46b2-9053-b28f3f5b3593/b5bd05faffd7645a0174dc7356b8131c/headerImage-24f4d169-e421-46b2-9053-b28f3f5b3593"
-    width: 1071
-    height: 756
+  - url: "https://www.shropshirestar.com/resizer/9Te1NTF34Dkxnxb9vDfuc1Rpx1o=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/4YJSKDSIPNH3LILDOXUWZ7HB5A.jpg"
+    width: 1200
+    height: 900
     isCached: true
 
-secured: "Ee4qy+WGpEWP8OtY3DQ5j/fYkfl67xZoAB7bed2CPUCa9eVgJMIwj+p8/f2PHQvC8h4xHg+dVBrW9cMyzl0JCgYJ9B39NkPKakjL4ctiK34rZpuEONO14t7Vv0QLz25K5b6IwofBKlbDIwjI+254Z18OFqeLvovLdShxC+wq6TG8snRhoXVz8kgqWQYII8Ea5o70r41S7ZIMg+z9XvvJXVZyoQ4MRYSRnuF7bZAnueoGQvGEpoZVuhiDUK+5Zp82t1DpfmHJqigUfG1L9p8ar/xV04v4V4RBhZCBD8AS9gqlBjh3OpgUocqbf38ZxNk2T1JKkEaFAdzBq3jLr1JCgyPElV9yKhJ8XNZCEmpjE3A=;BqGDWgaBamg5ddMC5Vm6rg=="
+secured: "FwQeeLfOWAa/79fDcmLBNFppzDv3T+UjslyIzomljASgsEqf+O96E4fIxDUuc3KDeogG06xuZQIcBj3lPsFUkT3qX3Xc5xhz8tl41MeeLilZABlquoYT6OizKNN74ngVVLpZFVSx8viDYUW3qTRbdvFanqoYzwRZRfIRzIi6oUfB7PciUn7kYyCUIKzsV/cPVt/oMf6MYK9ZsAqQEOGsCfLsa+EKbGwlYQbnJe7Qbe+ZUf+diFSLopHjg64ZEip4YDA74dQsQjZQMq2RFm8BC4jR3D5/WvsBCcIYL1glRNrwQHX5mlkAvc6j1w4PIYGfpeJHFnPJ3CcW22TKMJyrSzrtLcWGIdxm+GtoLKcZC+U=;VCu50OdsIPvuQ3oABX0uPw=="
 ---
 
