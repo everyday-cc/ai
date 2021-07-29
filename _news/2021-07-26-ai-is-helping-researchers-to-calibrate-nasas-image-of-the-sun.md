@@ -58,22 +58,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Solar Dynamics Observatory: Artificial Intelligence Helps Improve NASA’s Eyes on the Sun"
-    excerpt: "A group of researchers is using artificial intelligence techniques to calibrate some of NASA’s images of the Sun, helping improve the data that scientists use for solar research. The new technique was published in the journal Astronomy & Astrophysics on April 13,"
-    publishedDateTime: 2021-07-24T22:26:00Z
-    webUrl: "https://scitechdaily.com/solar-dynamics-observatory-artificial-intelligence-helps-improve-nasas-eyes-on-the-sun/"
-    ampWebUrl: "https://scitechdaily.com/solar-dynamics-observatory-artificial-intelligence-helps-improve-nasas-eyes-on-the-sun/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/solar-dynamics-observatory-artificial-intelligence-helps-improve-nasas-eyes-on-the-sun/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 48
-    images:
-      - url: "https://scitechdaily.com/images/Sun-AIA-2021-777x778.jpg"
-        width: 777
-        height: 778
-        isCached: true
   - title: "Space – AI is Helping Researchers to Calibrate NASA’s Image Of The Sun"
     excerpt: "Researchers are utilising artificial intelligence (AI) techniques to calibrate some of NASA’s images of the Sun, helping improve the data that scientists use for solar research. Launched in 2010, NASA’s Solar Dynamics Observatory (SDO) has provided high-definition images of the Sun for over a decade."
     publishedDateTime: 2021-07-26T05:00:00Z

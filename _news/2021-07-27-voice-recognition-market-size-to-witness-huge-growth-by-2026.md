@@ -123,7 +123,7 @@ related:
     provider:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
-    quality: 31
+    quality: 33
   - title: "Global Artificial Intelligence (AI) In Supply Chain Market anticipated to witness remarkable growth statistics during 2020-2026"
     excerpt: "In Supply Chain Market anticipated to witness remarkable growth statistics during 2020-2026” A fundamental outline of the Artificial Intelligence (AI) In Supply Chain Market niche is presented by the Artificial Intelligence (AI) In Supply Chain Market report that entails definitions,"
     publishedDateTime: 2021-07-28T10:35:00Z

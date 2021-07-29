@@ -39,6 +39,20 @@ related:
         width: 500
         height: 322
         isCached: true
+  - title: "DeepMind says it can predict the shape of every protein in the human body"
+    excerpt: "The artificial intelligence (A.I.) company DeepMind says it will soon release a database of the shape of every protein known to science — more than 100 million. That's every structured protein in the human body,"
+    publishedDateTime: 2021-07-29T14:35:00Z
+    webUrl: "https://www.livescience.com/deepmind-protein-folding.html"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 38
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/XJhLTc79NDS6HxfUCAGAge-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "RiTw6rfyQ0L0cuBJ6QI8wLyUeVZUQF1gvrbuHadPPJJKNdohq13JcpC/h+xqU313J/wbAGOPoBNIY89kE4D34MKBEc6ZhfnR9tTXdGdfYsvTdXWK+xwHPxz2CsrgSYdhL4waHmb1luQa9kI7IDqwhcEJoFEtisoaXPBrnJ7eKRkUvi4TGfq5cOjSabreEHpdshoUy3bQFIQuzZV6q5OXyrHF1YPl6kasqfmAbww072TYh3kyxwL/LM6QyKoD+PXQEJMvfwm0ve+dBLhy5qsaDrkT440LdaBpkSUBOaaota1PP8a5eJ2B9VF2ZF22MX8BtseACb9JXm+wIEzPFEiPRo+ZRUkMzYGqaF7pM3ucfiWygiaXVNOIwrRs+em9woRgcLaSaY4338kdDSXkxXLKMOT6nI6+uhJhWywgPRr3aJOwIoczDcIlDeyJClSu+UJ46zICt4CuZrsn5Q56I34z3YfwgNUqIwTP92vSWlXXhigyERO4Fmk6BhYauKwy4tZMVKKcCT6ODj29H0qhzxxGEw==;3r5WV+Mxz2zdnzwD2sutUA=="
 ---

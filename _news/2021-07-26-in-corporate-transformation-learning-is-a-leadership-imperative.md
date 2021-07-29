@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-tran
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1187
     height: 788
     isCached: true
+
+related:
+  - title: "Kicking Off Convention with Leadership Lessons and Recognition"
+    excerpt: "Former NFL coach Dick Vermeil took the main stage at the start of ACA’s Annual Convention & Expo in Las Vegas, as more than 700 attendees enjoyed the first in-person association event since the start of the pandemic."
+    publishedDateTime: 2021-07-29T14:11:00Z
+    webUrl: "https://www.acainternational.org/news/kicking-off-convention-with-leadership-lessons-and-recognition"
+    type: article
+    provider:
+      name: ACA International
+      domain: acainternational.org
+    quality: 24
+    images:
+      - url: "https://www.acainternational.org/assets/kicking-off-convention-with-leadership-lessons-and-recognition/dick-v-web-news.jpg"
+        width: 900
+        height: 601
+        isCached: true
 
 secured: "aINH9xvSu16n7F+I0LFvyqb7vB9MvX56R9M/4W9IJ76rqrSq/02Eb6dOLzoES3ixIDjdUOx6RE+2CpF1IQK8jLabdiqV+PPtI7hkhWTUiQwEZYH2z8SHwJeh3xTCjcPwk0KzytWQbhB8LziOrYGgWnSGQCbh/O9lf5P696AZHYtW0PuyybkBbBovWSsPpHNiPwef0J1y17YcXFJLpX/qThGeGQp3RrJtfBOI7AZ8fT7QPg/m07vwRv1y0GkiSGywuzt2NzY6gLqE/WDswpzyfhBBUlmcWDzv+w+UcOECWg1GPYcqLoQUwNeQ+9RrU3xvKYQXDEy1lZtxiVdWKcKZJvznoNI9mP8sORNnVH8J5kM=;xFY0dN1q8XlVQMwdysPFJw=="
 ---

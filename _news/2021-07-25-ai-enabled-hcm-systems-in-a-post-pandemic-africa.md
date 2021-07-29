@@ -54,6 +54,17 @@ related:
         width: 750
         height: 468
         isCached: true
+  - title: "South Africa first country to award patent to artificial intelligence inventor"
+    excerpt: "South Africa has awarded a patent to an artificial intelligence (AI) called Dabus — short for Device for the Autonomous Bootstrapping of Unified Sentience. Dabus received its patent for a food container based on fractal geometry,"
+    publishedDateTime: 2021-07-29T15:28:00Z
+    webUrl: "https://mybroadband.co.za/news/software/408038-south-africa-first-country-to-award-patent-to-artificial-intelligence-inventor.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/408038-south-africa-first-country-to-award-patent-to-artificial-intelligence-inventor.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/408038-south-africa-first-country-to-award-patent-to-artificial-intelligence-inventor.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 33
 
 secured: "3xp76mr67zQwjwyiTaPRRhAscd7l8/M74MgfEE+4/ItuA8Xh0+8fwhASo280w1RnTwDqkWAj/YVfgXhO/4Kt43t831Mdw6aUAPBCv7U+CNbTat99OVjRz/iuVo0sWhX0dXpUI6gi1WeKEtkWYObdYHzpyhCAoDd6IIpSkZaf/ccLR3L864Yz1o9kxKidlXqej6Ft4kTIYl21tDHttXF2BYYmgRQYfgCvwJnHUQzIV1KHfLkYpBIMv1/G0VGkdM/4g++3h/4jGpt14wHgNpuXy6PkyKLHTY2ucafBs+UC4oezE7QunbmEcpdI1/EFa+s/e9fytNRU1/E4JCJqFzUQAPcy/qVp2wl/YULZUnbCCys=;nLuArKRvDMtX9yFAKzts4A=="
 ---

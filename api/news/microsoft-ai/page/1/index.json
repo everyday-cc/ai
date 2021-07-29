@@ -114,7 +114,7 @@
       "originalUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1265,20 +1265,20 @@
     },
     {
       "path": "_news/2021-07-15-in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "IN-D Identity Verification now available in the Microsoft Azure marketplace",
-      "excerpt": "D.ai, a leading provider of intelligent document and image-processing solutions, today announced the availability of Identity Verification, a suite of",
+      "title": "IN-D Identity Verification Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "IN-D.ai customers will benefit from the scalability and reliability of the Azure cloud platform, with streamlined deployment and management. “Companies have found it tough to balance a seamless ...",
       "sourceUrl": null,
-      "webUrl": "https://theprint.in/ani-press-releases/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace/696630/",
-      "originalUrl": "https://theprint.in/ani-press-releases/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace/696630/",
+      "webUrl": "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html",
+      "originalUrl": "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.theprint.in/wp-content/uploads/2021/07/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace.gif",
-          "width": 600,
-          "height": 450,
+          "url": "https://cms.businesswireindia.com/Uploads/companyLogo/INDLogo_14634.jpg",
+          "width": 1892,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1286,13 +1286,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://theprint.in/ani-press-releases/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace/696630/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace/696630/?amp",
-      "publishedDateTime": "2021-07-14T23:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
+        "name": "Business Wire",
+        "domain": "businesswireindia.com",
         "images": null,
         "publishers": null,
         "authors": null

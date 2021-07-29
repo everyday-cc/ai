@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.statesman.com/amp/5381319001"
 cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5381319001"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook announces plans to make Instagram more private for teens"
+    excerpt: "The social network said new teen accounts will automatically be private and it will be harder for suspicious adults to find underage users."
+    publishedDateTime: 2021-07-29T14:29:00Z
+    webUrl: "https://www.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens"
+    ampWebUrl: "https://amp.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 74
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/methode/2021/07/29/a133b21e-f04a-11eb-b683-cf7af9070523_image_hires_170856.jpg?itok=WL96rcJo&v=1627549746"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook's new privacy changes for Instagram's teen users met with both praise, scrutiny"
     excerpt: "Facing an onslaught of ongoing criticism, Facebook said that it's taking several steps to make Instagram safer and private for teens."
     publishedDateTime: 2021-07-27T17:44:00Z

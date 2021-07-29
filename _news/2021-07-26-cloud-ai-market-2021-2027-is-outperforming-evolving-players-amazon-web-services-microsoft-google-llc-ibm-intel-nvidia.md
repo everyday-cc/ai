@@ -170,17 +170,6 @@ related:
         width: 640
         height: 400
         isCached: true
-  - title: "AI In Platform As A Service Market to Eyewitness Massive Growth by 2026 | Google, Microsoft, Salesforce, SAS Institute"
-    excerpt: "AI In Platform As A Service refers to the third-party offering of artificial intelligence outsourcing. This allows the company to get the advantage of AI without spending lots of money. AI In Platform As A Service helps empower the sampling of multiple public cloud platforms to test different machine learning algorithms."
-    publishedDateTime: 2021-07-24T21:40:00Z
-    webUrl: "https://www.openpr.com/news/2336498/ai-in-platform-as-a-service-market-to-eyewitness-massive-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2336498/ai-in-platform-as-a-service-market-to-eyewitness-massive-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2336498/ai-in-platform-as-a-service-market-to-eyewitness-massive-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
   - title: "Text-To Speech Market 2021 Long-term Outlook Remains Positive | Microsoft Corporation, IBM Corporation, Google, Sensory"
     excerpt: "The Text-To Speech Market was valued at USD XX billion in 2020 and is estimated to reach USD 5.0 billion by 2027, registering a CAGR of 14.6% during the forecast period. Latest added Text-To Speech Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
     publishedDateTime: 2021-07-26T16:50:00Z

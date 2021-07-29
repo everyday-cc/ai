@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/around-the-globe/google-africa/using-ai-to-map-a
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -59,6 +59,17 @@ related:
         width: 750
         height: 468
         isCached: true
+  - title: "South Africa first country to award patent to artificial intelligence inventor"
+    excerpt: "South Africa has awarded a patent to an artificial intelligence (AI) called Dabus — short for Device for the Autonomous Bootstrapping of Unified Sentience. Dabus received its patent for a food container based on fractal geometry,"
+    publishedDateTime: 2021-07-29T15:28:00Z
+    webUrl: "https://mybroadband.co.za/news/software/408038-south-africa-first-country-to-award-patent-to-artificial-intelligence-inventor.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/408038-south-africa-first-country-to-award-patent-to-artificial-intelligence-inventor.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/408038-south-africa-first-country-to-award-patent-to-artificial-intelligence-inventor.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 33
 
 secured: "0gd98reCyYEWwaBMmFgacXzyaUXbwW8v8A312MhzD2pr4bvi/QbkR6gIANH/pxgRtlWiWoPCbLNRpTGFPHKMM1U75gYCkXQ4fkyShibzcceB0slQdAi71s1yv85sbRIUSa7jCWFQ03aTPuBSnMG8z9gIJXR1b84pHj9tjkeIrSTVXsL1gweoeg9U9rm5ccEItJDrI7pqXRH1dfhLeYEgJ7PKcn59jAHSgn9Ysn5JnTDqqaRyt6xEEiYREWgew2V7mLUp9FC4+B9FkQCteC5YsDVKOlGYFGzdJEo0xsMf0kh06Vcwagi3VnGz3NMxIsuCg32FoK3oPXX+ET1GxESAqozdCdFJIYYRzXOVP5k/q2k=;O/YH0KQu2djAhPf6jhdATA=="
 ---
