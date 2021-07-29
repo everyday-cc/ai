@@ -21,65 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
-    excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at"
-    publishedDateTime: 2021-07-26T10:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on-quadruple-aim-1030643646"
+  - title: "Poplar Healthcare has been acquired by Boston-based artificial intelligence company"
+    excerpt: "Poplar Healthcare provides lab testing services to gastroenterologists, dermatologists, oncologists, urologists and gynecologists across the US."
+    publishedDateTime: 2021-07-26T18:42:00Z
+    webUrl: "https://www.commercialappeal.com/story/money/business/2021/07/26/aipath-acquires-memphis-lab-poplar-healthcare/8093766002/"
+    ampWebUrl: "https://amp.commercialappeal.com/amp/8093766002"
+    cdnAmpWebUrl: "https://amp-commercialappeal-com.cdn.ampproject.org/c/s/amp.commercialappeal.com/amp/8093766002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
+      name: Commercial Appeal
+      domain: commercialappeal.com
+    quality: 68
     images:
-      - url: "https://mma.prnewswire.com/media/1580654/Frost__Sullivan_Radiology_Medical_Imaging_Informatics_Cloud_Healthcare.jpg"
-        width: 400
-        height: 225
+      - url: "https://www.gannett-cdn.com/presto/2020/07/23/PMCA/aeb48d2d-8974-4a68-b274-cb8ffb7df18c-PR11_CovidTestingPoplarHealthcare_072320_MSG.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Medical imaging AI market poised for strong growth"
-    excerpt: "The world market for medical imaging artificial intelligence (AI) applications is projected to reach almost $1.2 billion by 2025, with a compound annual growth rate of 26%, according to a new report from Signify Research."
-    publishedDateTime: 2021-07-28T07:32:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133055"
+  - title: "Boston-based PathAI acquires Memphis' Poplar Healthcare"
+    excerpt: "Memphis-based Poplar Healthcare is joining forces with Boston’s @Path_AI, a provider of artificial intelligence-powered technology for pathology services."
+    publishedDateTime: 2021-07-26T19:33:00Z
+    webUrl: "https://www.bizjournals.com/memphis/news/2021/07/26/boston-based-pathai-acquires-poplar-healthcare.html"
     type: article
     provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_27_23_07_2424_Parekh_Sanjay_20210727232720.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Global Artificial Intelligence In Healthcare Market 2021 Analytical Overview, Technological Innovations with Economic Indicators By 2028"
-    excerpt: "The primary sources employed while crafting Artificial Intelligence In Healthcare Marketing report include the industry experts from the industry comprising the management corporation processing organizations analytical service suppliers of the industry s value chain This market research report sheds light"
-    publishedDateTime: 2021-07-28T10:27:00Z
-    webUrl: "https://www.openpr.com/news/2339490/global-artificial-intelligence-in-healthcare-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2339490/global-artificial-intelligence-in-healthcare-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339490/global-artificial-intelligence-in-healthcare-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
-  - title: "Global Artificial Intelligence In Medical Imaging Market Share, Manufacturers in Globe, Demands, Benefits, Opportunities to 2028"
-    excerpt: "Artificial Intelligence In Medical Imaging Market report pinpoints on the leading market competitors with explaining company profile depending on SWOT analysis to illustrate the competitive nature of the market internationally Even more the report consists of market evolution market shares"
-    publishedDateTime: 2021-07-28T10:10:00Z
-    webUrl: "https://www.openpr.com/news/2339491/global-artificial-intelligence-in-medical-imaging"
-    ampWebUrl: "https://www.openpr.com/amp/2339491/global-artificial-intelligence-in-medical-imaging"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339491/global-artificial-intelligence-in-medical-imaging"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
-  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim Finds Frost & Sullivan"
-    excerpt: "Frost & Sullivan’s recent analysis, Global Medical Imaging & Informatics Outlook, 2021, finds that the market opportunity is estimated to hit $37.10 billion in 2021 from $33.90"
-    publishedDateTime: 2021-07-26T16:25:00Z
-    webUrl: "https://www.newswiretoday.com/news/175880/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "vX/dF7OBpzV2ArseiprPh+GU3UKF4V6I2sXXc6q9GMVYGdehmtK/Bwg12hxXD0cQfHiRuhP3QYuaRAVzaWlyujoSZe9ouznOiQt30ioRYZj2EiHQkQeIeT+EzBnk+6P6SgNbOzhz6zwb2CyokNhTl3nGhWwWVEP+cr76m1Jl2/CqjVtLjKfkxmMQcrVNLAkaItEjtDwtvLkSxiViHM5RllnnNc25pedN4MhpkBjatBAJc/X+YZTMctp8aChr0kekimjGQ2FgDjLlkt/jVFF2xUcEXdnkpIigaZARBbUs/vGPZhcI3+z4IpWwuP3f68hTpV+/lO2U6ULvo6wHUgA+Yiy1S1MbVuAVvxQpsiy9cg4is3OLXQSybkepsedABPlFmuVGIHmSWDqpgmU/aKxL0yDZbCLETiQpTHGQ4YYHlM1gEolA831Ca55mKHZAM6L0UNSOBWP/iCv6VudlJg/nru4Jkb0eSaZwXiWwqGbMLkTfLnUnjZQVqdAY58yz5E7yOxLu+3O5UCDcGYoRJ6JmwA==;g+IOHwa+lCCJc0hRVlWW8A=="
 ---

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-29-progressing-personalized-medicine-with-machine-learning.md",
+      "title": "Progressing Personalized Medicine With Machine Learning",
+      "excerpt": "Researchers have developed a tool that can evaluate the potential contribution of all possible mutations in a gene in a given type of tumor to the development and progression of cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/cancer-research/news/progressing-personalized-medicine-with-machine-learning-351418",
+      "originalUrl": "https://www.technologynetworks.com/cancer-research/news/progressing-personalized-medicine-with-machine-learning-351418",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/progressing-personalized-medicine-with-machine-learning-351418.jpg?v=11347737",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/cancer-research/news/amp/progressing-personalized-medicine-with-machine-learning-351418",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/progressing-personalized-medicine-with-machine-learning-351418",
+      "publishedDateTime": "2021-07-29T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4048-through-2027.md",
       "title": "Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 40.48% through 2027",
       "excerpt": "Artificial intelligence in the healthcare market is projected to progress at 40.48% of CAGR during the forecasting period 2019-2027. The major factors driving the global AI in the healthcare market are the increasing usage of big data,",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4048-through-2027-2021-07-29",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -755,7 +798,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-trends-and-forecast-2028-2021-07-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -858,7 +901,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/378615",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1176,58 +1219,6 @@
         "AI Ethics",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-startups-combat-fintech-challenges-heres-how.md",
-      "title": "Startups Combat Fintech Challenges: Here's How",
-      "excerpt": "Fintech business model is facilitating a unique and seamless compliance management system that allows the business owners to go through the massive data and make better decisions in their business pro",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/378593",
-      "originalUrl": "https://www.entrepreneur.com/article/378593",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1627452044-mark-oflynn-bqjswIxbhEE-unsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/378593",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378593",
-      "publishedDateTime": "2021-07-27T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

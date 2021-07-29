@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/07/210728111304.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/07/210728111304.htm"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Progressing Personalized Medicine With Machine Learning"
+    excerpt: "Researchers have developed a tool that can evaluate the potential contribution of all possible mutations in a gene in a given type of tumor to the development and progression of cancer."
+    publishedDateTime: 2021-07-29T08:57:00Z
+    webUrl: "https://www.technologynetworks.com/cancer-research/news/progressing-personalized-medicine-with-machine-learning-351418"
+    ampWebUrl: "https://www.technologynetworks.com/cancer-research/news/amp/progressing-personalized-medicine-with-machine-learning-351418"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/progressing-personalized-medicine-with-machine-learning-351418"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/progressing-personalized-medicine-with-machine-learning-351418.jpg?v=11347737"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Machine learning fuels personalised cancer medicine"
     excerpt: "The Biomedical Genomics laboratory at IRB Barcelona has developed a computational tool that identifies cancer driver mutations for each tumour type. - This and other developments produced by the same lab seek to accelerate cancer research and provide tools to help oncologists choose the best treatment for each patient."
     publishedDateTime: 2021-07-28T15:04:00Z

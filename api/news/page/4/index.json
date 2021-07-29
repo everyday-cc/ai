@@ -2,6 +2,204 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-26-study-almost-half-of-dating-app-users-trust-ai-to-find-them-a-match.md",
+      "title": "Study: Almost half of dating app users trust AI to find them a match",
+      "excerpt": "Kaspersky researchers observed positive user perceptions of AI mathmaking, but also warned of privacy risks in dating apps.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/almost-half-dating-app-users-trust-ai-matchmaking-choices-kaspersky-research",
+      "originalUrl": "https://thenextweb.com/news/almost-half-dating-app-users-trust-ai-matchmaking-choices-kaspersky-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-5-3.jpg&signature=f0e8720bf54c33f33bce7f6190ecc647",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-getting-banned-from-riding-in-ai-self-driving-cars-for-the-rest-of-your-entire-life.md",
+      "title": "Getting Banned From Riding In AI Self-Driving Cars For The Rest Of Your Entire Life",
+      "excerpt": "Expect to see a ban or no-fly type of list being developed for unruly passengers that ride in self-driving cars. This can be stridently enforced, though might not pass muster judiciously or societally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-from-riding-in-ai-self-driving-cars-for-the-rest-of-your-entire-life/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-from-riding-in-ai-self-driving-cars-for-the-rest-of-your-entire-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fcb2b2de2f157548bccd31%2F0x0.jpg%3FcropX1%3D107%26cropX2%3D3560%26cropY1%3D0%26cropY2%3D2301",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-how-ai-is-powering-modern-banking-transformation.md",
+      "title": "How AI Is Powering Modern Banking Transformation",
+      "excerpt": "By John Ashley, General Manager, Financial Services and Technology, NVIDIA AI is enabling digital transformation across the financial services industry, from fintech and investment firms to commercial and retail banks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/",
+      "originalUrl": "https://www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f9de4811cbbaa786e3911b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/amp/",
+      "publishedDateTime": "2021-07-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-microsoft-takes-sharper-aim-at-on-prem-hpc.md",
+      "title": "Microsoft Takes Sharper Aim at On-Prem HPC",
+      "excerpt": "Microsoft is intent on bending the supercomputing set its direction. Instead of just focusing on competing with other public clouds, they’re aiming",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/",
+      "originalUrl": "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ab_arm-cloud-logo.jpg",
+          "width": 595,
+          "height": 307,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/amp/",
+      "publishedDateTime": "2021-07-26T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-deepminds-epistemic-neural-networks-open-new-avenues-for-uncertainty-modelling-in-large-and-complex-dl-systems.md",
       "title": "DeepMind’s Epistemic Neural Networks Open New Avenues for Uncertainty Modelling in Large and Complex DL Systems",
       "excerpt": "Although effective uncertainty estimation can be a key consideration in the development of safe and fair artificial intelligence systems, most of today’s large-scale deep learning applications are lacking in this regard.",
@@ -403,7 +601,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on-quadruple-aim-1030643646",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1015,204 +1213,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-deadline-2024-why-you-only-have-3-years-left-to-adopt-ai.md",
-      "title": "Deadline 2024: Why you only have 3 years left to adopt AI",
-      "excerpt": "If your company has yet to embrace AI, you’re in a race against the clock. And by my calculations, you have just three years left.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/24/deadline-2024-why-you-only-have-3-years-left-to-adopt-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/24/deadline-2024-why-you-only-have-3-years-left-to-adopt-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/2024.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/24/deadline-2024-why-you-only-have-3-years-left-to-adopt-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/24/deadline-2024-why-you-only-have-3-years-left-to-adopt-ai/amp/",
-      "publishedDateTime": "2021-07-24T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-why-ai-is-pushing-marketing-professionals-to-reinvent-themselves.md",
-      "title": "Why AI Is Pushing Marketing Professionals To Reinvent Themselves",
-      "excerpt": "A Five-Stage Road Map to Implementing Artificial Intelligence in Marketing,\" shares insight on how marketers must upskill to address the changing marketing landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/",
-      "originalUrl": "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f38130a051e8692ab4358e%2F0x0.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/amp/",
-      "publishedDateTime": "2021-07-24T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-china-roundup-kai-fu-lees-first-europe-bet-weride-buys-a-truck-startup.md",
-      "title": "China Roundup: Kai-Fu Lee’s first Europe bet, WeRide buys a truck startup",
-      "excerpt": "Hello and welcome back to TechCrunch’s China Roundup, a digest of recent events shaping the Chinese tech landscape and what they mean to people in the rest of the world. Despite the geopolitical headwinds for foreign tech firms to enter China,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/24/china-roundup-kai-fu-lees-first-europe-bet-weride-buys-a-truck-startup/",
-      "originalUrl": "https://techcrunch.com/2021/07/24/china-roundup-kai-fu-lees-first-europe-bet-weride-buys-a-truck-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/prophesee.jpeg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/24/china-roundup-kai-fu-lees-first-europe-bet-weride-buys-a-truck-startup/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/24/china-roundup-kai-fu-lees-first-europe-bet-weride-buys-a-truck-startup/amp/",
-      "publishedDateTime": "2021-07-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-mediatek-dimensity-1300t-gaming-chip-may-be-unveiled-on-july-26.md",
-      "title": "MediaTek Dimensity 1300T Gaming Chip May Be Unveiled On July 26",
-      "excerpt": "The Dimensity 1300T gaming chip should outrun the Snapdragon 870. Though there is nothing official yet, it should come on July 26.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/07/24/mediatek-dimensity-1300t-gaming-chip-may-be-unveiled-on-july-26/",
-      "originalUrl": "https://www.gizchina.com/2021/07/24/mediatek-dimensity-1300t-gaming-chip-may-be-unveiled-on-july-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/03/MediaTek-chipset-1024x622.jpg",
-          "width": 1024,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/07/24/mediatek-dimensity-1300t-gaming-chip-may-be-unveiled-on-july-26/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/24/mediatek-dimensity-1300t-gaming-chip-may-be-unveiled-on-july-26/amp/",
-      "publishedDateTime": "2021-07-24T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

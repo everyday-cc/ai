@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-29-progressing-personalized-medicine-with-machine-learning.md",
+      "title": "Progressing Personalized Medicine With Machine Learning",
+      "excerpt": "Researchers have developed a tool that can evaluate the potential contribution of all possible mutations in a gene in a given type of tumor to the development and progression of cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/cancer-research/news/progressing-personalized-medicine-with-machine-learning-351418",
+      "originalUrl": "https://www.technologynetworks.com/cancer-research/news/progressing-personalized-medicine-with-machine-learning-351418",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/progressing-personalized-medicine-with-machine-learning-351418.jpg?v=11347737",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/cancer-research/news/amp/progressing-personalized-medicine-with-machine-learning-351418",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/progressing-personalized-medicine-with-machine-learning-351418",
+      "publishedDateTime": "2021-07-29T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-how-ai-and-machine-learning-can-make-or-break-our-mobile-privacy.md",
       "title": "How AI and Machine Learning Can Make or Break Our Mobile Privacy",
       "excerpt": "Like many different technologies, Artificial Intelligence (AI) has been widely adopted and implemented in a variety of businesses and",
@@ -1351,49 +1394,6 @@
       "provider": {
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-scientists-adopt-deep-learning-for-multi-object-tracking.md",
-      "title": "Scientists adopt deep learning for multi-object tracking",
-      "excerpt": "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our daily lives. There are, however, some tasks in this field that are still extremely difficult for computers to perform with acceptable accuracy and speed.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.html",
-      "originalUrl": "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-adopt-deep.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp",
-      "publishedDateTime": "2021-07-19T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null

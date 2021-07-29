@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Fintech Is Helping To Streamline Businesses Financial Operations"
-    excerpt: "It is especially common when the economy is unstable. Fintech makes things better. It uses machine learning and AI algorithms to understand and detect your business finance patterns over time. If anything seems incorrect or unusual, it is flagged down for ..."
-    publishedDateTime: 2021-07-24T16:19:00Z
-    webUrl: "https://techbullion.com/how-fintech-is-helping-to-streamline-businesses-financial-operations/"
-    ampWebUrl: "https://techbullion.com/how-fintech-is-helping-to-streamline-businesses-financial-operations/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-fintech-is-helping-to-streamline-businesses-financial-operations/amp/"
+  - title: "6 Israeli startups storming the US FinTech sector"
+    excerpt: "Businesses have learned to embrace new financial technology and are increasingly convincing consumers to do the same"
+    publishedDateTime: 2021-07-29T08:19:00Z
+    webUrl: "https://www.geektime.com/6-israeli-startups-storming-the-us-fintech-sector/"
+    ampWebUrl: "https://www.geektime.com/6-israeli-startups-storming-the-us-fintech-sector/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/6-israeli-startups-storming-the-us-fintech-sector/amp/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: Geektime
+      domain: geektime.com
     quality: 44
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/07/Businesses-Financial-Operations.png"
-        width: 960
-        height: 528
+      - url: "https://lh4.googleusercontent.com/8tVKE1iWto9QaaAhuF_yF4D1Yrp5kHsTAryLiOiTdzggMIgNAmZSi5M6VsT7-Z5X-YjNlYzl0yjVkZhMniZxPkjbizyyK5vzAydYPHYDVl1ieGOL83XR9xbxor-4EP3gc92p_zzQ"
+        width: 1178
+        height: 797
         isCached: true
   - title: "Reasons to invest in fintech"
     excerpt: "Fintech (financial technology) is a relatively new industry sector that has grown enormously in recent years but still has a huge amount of potential. Encompassing a full range of financial services from payment processing to banking and peer-to-peer (P2P) lending,"

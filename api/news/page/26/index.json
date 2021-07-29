@@ -2,6 +2,222 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-07-08-openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias.md",
+      "title": "OpenAI warns AI behind GitHub’s Copilot may be susceptible to bias",
+      "excerpt": "Take our AI survey to find out ... While Codex was trained on Microsoft Azure, which OpenAI notes purchases carbon credits and sources “significant amounts of renewable energy,” the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/",
+      "originalUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/github-1-e1579720491957.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/amp/",
+      "publishedDateTime": "2021-07-08T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-aria-exchange-announces-exclusive-fan-engagement-nft-partnership-with-the-major-league-baseball-players-alumni-association.md",
+      "title": "ARIA Exchange Announces Exclusive Fan Engagement NFT Partnership with the Major League Baseball Players Alumni Association",
+      "excerpt": "ARIA Exchange is setting a new standard for NFTs by leveraging advanced augmented reality, triggered by patent-pending facial, image and object recognition that activates experiences from any ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210708005245/en/ARIA-Exchange-Announces-Exclusive-Fan-Engagement-NFT-Partnership-with-the-Major-League-Baseball-Players-Alumni-Association",
+      "originalUrl": "https://www.businesswire.com/news/home/20210708005245/en/ARIA-Exchange-Announces-Exclusive-Fan-Engagement-NFT-Partnership-with-the-Major-League-Baseball-Players-Alumni-Association",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-keysight-brings-keysight-open-ran-architect-kora-to-aws-outposts.md",
+      "title": "Keysight Brings Keysight Open RAN Architect (KORA) to AWS Outposts",
+      "excerpt": "Delivers a flexible 5G test environment that simplifies interoperability challenges and validates performance Keysight Technologies, Inc. (NYSE:KEYS), a leading",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/07/b21898997/keysight-brings-keysight-open-ran-architect-kora-to-aws-outposts",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/b21898997/keysight-brings-keysight-open-ran-architect-kora-to-aws-outposts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know.md",
+      "title": "Best Artificial Intelligence Stocks To Buy In July 2021? 3 Names To Know",
+      "excerpt": "Artificial intelligence (AI ... Notably, the Cambridge-1 will serve to enable top scientists and healthcare experts via a combination of AI and simulation. In turn, this will ideally accelerate the digital biology revolution and bolster the country ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08",
+      "originalUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-artificial-intelligence-stocks-to-buy-in-july-2021-3-names-to-know-2021-07-08?amp",
+      "publishedDateTime": "2021-07-08T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-naveen-jains-microbiome-startup-viome-splits-into-consumer-and-research-divisions.md",
+      "title": "Naveen Jain’s microbiome startup Viome splits into consumer and research divisions",
+      "excerpt": "The startup, which has backing from Salesforce CEO Marc Benioff ... though a recent study found limitations in the evaluation of AI-based devices. In contrast, supplements are not regulated by the FDA. “With many of these platforms you really have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/naveen-jains-microbiome-startup-viome-splits-consumer-research-divisions/",
+      "originalUrl": "https://www.geekwire.com/2021/naveen-jains-microbiome-startup-viome-splits-consumer-research-divisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2016/08/20160729_BlueDot_135-630x421.jpg",
+          "width": 630,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/naveen-jains-microbiome-startup-viome-splits-consumer-research-divisions/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/naveen-jains-microbiome-startup-viome-splits-consumer-research-divisions/amp/",
+      "publishedDateTime": "2021-07-08T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-halo-launches-driverless-car-service-in-las-vegas.md",
       "title": "Halo launches driverless car service in Las Vegas",
       "excerpt": "Though driverless, Halo's cars aren't autonomous ... While drivers are piloting the cars from afar, an artificial intelligence is learning from them. \"Full autonomy is a massive challenge from both a technical and social trust perspective that won't ...",
@@ -941,231 +1157,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-us-says-humans-will-always-be-in-control-of-ai-weapons-but-the-age-of-autonomous-war-is-already-here.md",
-      "title": "U.S. says humans will always be in control of AI weapons. But the age of autonomous war is already here.",
-      "excerpt": "Picture a desert battlefield, scarred by years of warfare. A retreating army scrambles to escape as its enemy advances. Dozens of small drones, indistinguishable from the quadcopters used by hobbyists and filmmakers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationthailand.com/tech/40002964",
-      "originalUrl": "https://www.nationthailand.com/tech/40002964",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nationthailand.com/uploads/images/md/2021/07/GBCGUdajO23IzhE5z1yP.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nationthailand",
-        "domain": "nationthailand.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g.md",
-      "title": "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G",
-      "excerpt": "G is beginning to power everything from connected farms to connected cars! Today, Halo launched one of the first commercial driverless car services in the U.S. running on the T-Mobile ( News - Alert) (NASDAQ: TMUS) 5G network in Las Vegas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/08/9405394.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/08/9405394.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-azure-arc-enabled-machine-learning-is-now-in-preview.md",
-      "title": "Azure Arc-Enabled Machine Learning Is Now in Preview",
-      "excerpt": "This year, during the virtual Ignite conference, the company announced the preview of Azure Arc-enabled machine learning, which extends Azure machine learning capabilities to hybrid and multi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/03/azure-arc-enabled-ml-preview/",
-      "originalUrl": "https://www.infoq.com/news/2021/03/azure-arc-enabled-ml-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/03/azure-arc-enabled-ml-preview/en/headerimage/header-1614789645289.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-ai-gives-software-development-tools-a-boost.md",
-      "title": "AI gives software development tools a boost",
-      "excerpt": "AI-assisted development tools can best be thought of as a pair ... Simon Bisson has worked in academic and telecoms research, been the CTO of a startup, run the technical side of UK Online, and done consultancy and technology strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.html",
-      "originalUrl": "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3623773/ai-gives-software-development-tools-a-boost.amp.html",
-      "publishedDateTime": "2021-07-07T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-qualcomm-technologies-vp-talks-about-ai-edge-solutions-that-are-galvanizing-the-market.md",
-      "title": "Qualcomm Technologies VP talks about AI edge solutions that are galvanizing the market",
-      "excerpt": "Qualcomm VP Mike Vildibill talks about about the explosive demand for AI inferencing in the cloud and innovative cloud-to-edge AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/",
-      "originalUrl": "https://venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Mike-Vildibill-Headshot1-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 735,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/qualcomm-technologies-vp-talks-about-the-ai-edge-solutions-that-are-galvanizing-the-market/amp/",
-      "publishedDateTime": "2021-07-07T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-future-scope-demands-and-projected-industry-growths-to-2025-2021-07-27"
 type: article
 quality: 80
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "North America Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 41.24% through 2027"
+    excerpt: "Jul 29, 2021 (Market Insight Reports) -- Selbyville, Delaware. North America Artificial Intelligence in the Healthcare Market report provides key statistics on the market status of the North America Artificial Intelligence in the Healthcare Industry and is ..."
+    publishedDateTime: 2021-07-29T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4124-through-2027-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

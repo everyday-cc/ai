@@ -85,6 +85,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Apple patent hints at under-display Touch ID and Face ID features on future iPhones"
+    excerpt: "Under-display or in-screen solutions for parts like selfie cameras and fingerprint scanners are becoming more common these days. And a recently granted patent suggests Apple has plans to improve this technology that"
+    publishedDateTime: 2021-07-29T09:51:00Z
+    webUrl: "https://www.econotimes.com/Apple-patent-hints-at-under-display-Touch-ID-and-Face-ID-features-on-future-iPhones-1613923"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 18
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210729d07378178bde5c5be_th_1024x0.jpg"
+        width: 900
+        height: 885
+        isCached: true
 
 secured: "p2KuEB+IN+A9ewPsaLdRr7i0xXQddDl1ny2y45/mW/iqA7/yI5r8Hpl8f9JtTYt3QuKTiuXBiIg6ro5M/DvA1dCmiQysORCrRfWhMyvIpBGYSt3/h0ZfwS7FEtUbpRvBP2NnIB9BcoDARHlUAwMMFtPLVtgMNIK+UngmFbWbJ/mOEuPZd3FPAuj8E+HMTj89/ScefDzvR9vG9EqLCt5DO3kyMviQleXHuglIMxNgnRJ1SF05CtHLLNCKweM4zagKYNbwTWe1mEcdHEKig8z38ZGwuWbHCwGHEMXwQ/O3flEbqZ8wo7xtRtOXmwsuQzDlSUR7qcZ7V1ri1q2vgCytIx+ahctBwAwCLIVByZ5ArzE=;SA3v9mVz+mGIkuY8Nam34w=="
 ---

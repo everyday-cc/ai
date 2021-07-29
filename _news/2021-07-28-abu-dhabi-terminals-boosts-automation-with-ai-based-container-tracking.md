@@ -41,6 +41,20 @@ related:
         width: 400
         height: 273
         isCached: true
+  - title: "Bic uses Azure and AI to create next generation shaving experiences"
+    excerpt: "Global manufacturer Bic is using the Microsoft Azure cloud and artificial intelligence (AI) to develop the next generation of smart shavers. In partnership with Satori Analytics, the firm invited its customers into the product innovation process."
+    publishedDateTime: 2021-07-28T10:25:00Z
+    webUrl: "https://www.technologyrecord.com/Article/bic-uses-azure-and-ai-to-create-next-generation-shaving-experiences-125106"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 54
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10433/img-Bic-razor_web.jpg"
+        width: 940
+        height: 443
+        isCached: true
 
 secured: "fy7d8BK4W/1+7OOCdpuQifmT+Y61T9ufF/tFft1sPtB6T+XOUDvm3s70ud9z9NEN13V6yfNtnpiULLnVGH9rYsytoH9iJ8srygb08FQcdayVi3MUeg3me33SKbl/d5xfXhbjzVusQTkq3iv42Iz1PFtoE9HZ/JvZ1uAUTTjrn4kUqQgEGvMMjvjmMB/D9xZ/+G7GkhPFhjcfJ/aRqxVfOEhlBQtif/OrO6scRnyIH5qswnJdeWy6LxSwlmOgZqHvhXoKfqj+CqRrfIMcTMWCiKnFqOlUtGT+izaAzKkupq3lwgoE0n9APplCJXQOjmxDjQKRWv26YpkSPxmHS0uJdihdP980RYSZt4kslsq4Jg0MUkpIeKahgKJX3Mqo5vw2iQiUkf4Ln8ivXEKBr5FrOkCDNHhNLUHUHNZFxYNd/mb+JQ9kM8OVLUaIjKGChC9J+H1AeErcbkQruOR73wN/rLLWGyJNdAVVno9eSp1VyUX7sMCWEFsJX8Rn35Oyk//zG/47Z3z7O3KRkK/AqWIfVA==;n525O3qPnWRkBLVWo9dOJg=="
 ---

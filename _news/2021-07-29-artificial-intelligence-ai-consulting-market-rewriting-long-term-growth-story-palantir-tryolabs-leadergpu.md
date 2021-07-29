@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/artificial-intelligence-ai-consulting-m
 webUrl: "https://manometcurrent.com/artificial-intelligence-ai-consulting-market-rewriting-long-term-growth-story-palantir-tryolabs-leadergpu/"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "AI in Banking Market May see a Big Move | Major Giants Ipsoft, Blue Frog Robotics, Digital Reasoning"
-    excerpt: "HTF MI added a new research study on Global AI in Banking Market in its repository, aims to offers a detailed overview of the factors influencing the worldwide business orientation and overall outlook."
-    publishedDateTime: 2021-07-24T15:05:00Z
-    webUrl: "https://manometcurrent.com/ai-in-banking-market-may-see-a-big-move-major-giants-ipsoft-blue-frog-robotics-digital-reasoning/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
 
 secured: "BPJzHruvaXHsImXV+fUCi2GnpKBl7Que6kuo2tHkbrtMVy56DipXPGasewnE3DB6SMKWBE6kqh5zyXjMKdRXmWa8Wmmu1Rs7CBrH/3D+dwvxx0lBbdGJs0V15kbxdAu/XkvJurLoeuBufrQZbaH5+YNG79YoA4DSgIZPY7uQbfy8G/yNuFTphpzqa5JfCJiJKDByUDBsyFr/GyGizXsY4fU7dsIijXNQgsSEUkXvgTw9ajmw9KmN/iM7sMZxv5IRIBBOiR3dplcG1evzk2E2Ro7lNOyVSlk6DWbhn6bWhzi8Hlkqrl9C+hwQT+CQQH5BMhu96RH7keJmHWt53rXU8xuQf+OTlcx0Njo4d+5akbc=;LrawSBtwowVpiEIEFlSVlw=="
 ---

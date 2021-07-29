@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-17-adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom.md",
+      "title": "Adorable Kitten Hiding Under An AI Self-Driving Car Provides Bright-Eyed Pearls Of Wisdom",
+      "excerpt": "Something adorable could have been a heap of unpleasant trouble. A kitten had decided to hide underneath a parked AI self-driving car. I’m sure that you’ve seen or even personally witnessed having a cat or dog that opted to sneak under your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c556e2c64f1f80827d3713%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3342%26cropY1%3D21%26cropY2%3D1900",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/amp/",
+      "publishedDateTime": "2021-07-17T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-07-17-robot-training-on-famous-highland-estate-will-make-driverless-vehicles-more-reliable.md",
       "title": "Robot ‘training’ on famous Highland estate will make driverless vehicles more reliable",
       "excerpt": "The project will help make driverless vehicles of the future more reliable ... engineers and students dedicated to researching robotics, artificial intelligence, systems engineering, and other related fields. A crash scene for the new James Bond movie ...",
@@ -280,20 +332,20 @@
     },
     {
       "path": "_news/2021-07-15-toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech.md",
-      "title": "Toyota buys U.S. mapping, road data firm to bulk up driverless tech",
-      "excerpt": "Toyota’s research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles ... develop mobility with artificial intelligence.",
+      "title": "Toyota buys US mapping, road data firm to bulk up driverless tech",
+      "excerpt": "Buying US-based Carmera will give Toyota access to real-time, high-definition maps and crowdsourced inputs that are essential for autonomous vehicles..Toyota also has other self-driving partnerships,",
       "sourceUrl": null,
-      "webUrl": "https://driving.ca/auto-news/industry/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech",
-      "originalUrl": "https://driving.ca/auto-news/industry/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech",
+      "webUrl": "https://auto.hindustantimes.com/auto/news/toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech-41626326106542.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/news/toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech-41626326106542.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2021/07/carmera-mapping-data-u.s.-toyota-autonomous-self-driving-camera-aid.png",
-          "width": 1800,
-          "height": 1200,
+          "url": "https://images.hindustantimes.com/auto/img/2021/07/15/600x338/20210610_01_05_s_1623294421843_1626326358081.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -301,13 +353,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://driving.ca/auto-news/industry/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech/wcm/ade2859a-2c0c-4435-94d3-b46ec856232f/amp/",
-      "cdnAmpWebUrl": "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/industry/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech/wcm/ade2859a-2c0c-4435-94d3-b46ec856232f/amp/",
-      "publishedDateTime": "2021-07-15T09:28:00-07:00",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech/amp-41626326106542.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech/amp-41626326106542.html",
+      "publishedDateTime": "2021-07-15T09:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "driving.ca",
-        "domain": "driving.ca",
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1312,58 +1364,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-ceo-robin-li-fast-tracks-smart-ev-development-to-harness-baidus-ai-tech-and-mount-a-challenge-to-tesla.md",
-      "title": "CEO Robin Li fast-tracks smart EV development to harness Baidu’s AI tech and mount a challenge to Tesla",
-      "excerpt": "The tech giant is hoping to harness its AI tech as it builds an EV presence, in a market where electrification and digitalisation are redrawing the landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/companies/article/3140367/ceo-robin-li-fast-tracks-smart-ev-development-harness-baidus-ai",
-      "originalUrl": "https://www.scmp.com/business/companies/article/3140367/ceo-robin-li-fast-tracks-smart-ev-development-harness-baidus-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/07/08/3caa1c62-dfd7-11eb-9efd-49da69ae692d_image_hires_193455.jpg?itok=z9_SvD0x&v=1625744102",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3140367/ceo-robin-li-fast-tracks-smart-ev-development-harness-baidus-ai",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3140367/ceo-robin-li-fast-tracks-smart-ev-development-harness-baidus-ai",
-      "publishedDateTime": "2021-07-08T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

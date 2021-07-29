@@ -42,6 +42,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Text-based Voiceover Startup Murf.ai Secures $1.5 Mn Seed Round Led By Elevation Capital"
+    excerpt: "AI-enabled voiceover startup Murf.ai on Thursday announced that it has raised $1.5 million in Seed funding led by Elevation Capital. Angel investors who participated in this funding round include Vidit Aatrey (Meesho),"
+    publishedDateTime: 2021-07-29T09:45:00Z
+    webUrl: "https://www.entrepreneur.com/article/378740"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/378740"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378740"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 78
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1627551904-christian-wiediger-GWkioAj5aB4-unsplash1.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Fitness tech startup Insane AI raises $873K seed round led by pi Ventures"
     excerpt: "Insane AI uses computer vision and artificial intelligence to create home workouts and personalised training plans. It studies the impact of exercise and functional movement on the user's body and per"
     publishedDateTime: 2021-07-28T12:32:00Z
@@ -68,6 +84,6 @@ related:
       domain: techinasia.com
     quality: 46
 
-secured: "olBU2Vd3nbIeIjUkFCdkOjEUTnVbyiZi7Q6Cdw745EWpiJyvPq2+GENwdOYjwYRJCBet75SpZ/Hz7TaUQBI2Hk3RmH3bTMQBIsb8BCd1Vw/fL8bhdwuxZFzA5EpeAittxhpkd427uoGAIFBCDtmiGhN/nfDVQk8vD1rADiuWfzbgLCrUJdf5TNTSDb/DfwGX7Ec44J2jIznYbTrf491kMopiUS4ApDofHwtBjpgCkn1Ya8CVmaJAXY8NgCjLX9DclCiN1NZNhhmJyhhV6wUZdwtll+9x1BZUI8Mw+kD8kMINjtfvqghO9yprKM5vxwYpCSzxciPjUvPnUyUYEVejNsGodVCz32eKKMUQ3M3bDaA=;/oEibE94MCvtGPVrnWVaTA=="
+secured: "zs4lFpBi3dHF+qux5RuceeWUQlNxEZsHdEpmyF5PLWLZK/yO/O/DxEUwV0GnxXJF7dwXY33cwU40bykWDH60wsBPZxSR1FnOy9bFOEVxiBpH/gNqnxTMtnib33t3K1eQq8wvpD9f7C221R1c9RKCH3BCPjLzeQjrKVjgJ6bBWv4+9fv1DdLeJVzBzCvQHEis0TrQOrSDyXh2X9QmvIsp27o80iI53RTiTdGDAySYLKkLUjMxcjOYPx+KYk+JdCtWokObRRUqROkzIGaF3+do2NOGWOlj+TUMDaCALeTuFXgT2GxyEMnge7Zb7LgZTj25NVfO1xKDXdnYAtoy8J9UXTmO6DNKDejhW4+lrrbKyv6+OAY7gcre4ZLcUda6VrgnTTyDwlNb/i+Ae2HeNzcad4QLBjr+8R/YOOi1oPadqMgGGpQ1JrEWU0yo0tbcTnkymYVarSa4Z6kAz8Rk8aMWCWPuFbb6sA75rikqiKOIMJ4sKz2L+lbZj8zEk5Ys0Ia4+eoZplX7t+XZIVBjxaZo+g==;tr2IaJURkZ4ScCIir/UycA=="
 ---
 

@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "NTU traffic prediction technology wins Waymo autonomous driving competition"
-    excerpt: "SINGAPORE - Roboticists from Nanyang Technological University (NTU), who developed an algorithm capable of predicting a vehicle's position eight seconds into the future, clinched two top awards at a competition organised by US autonomous driving technology development company Waymo."
-    publishedDateTime: 2021-07-26T08:21:00Z
-    webUrl: "https://www.straitstimes.com/singapore/ntu-traffic-prediction-technology-wins-waymo-autonomous-driving-competition"
+  - title: "GM’s self-driving skills take a wrong turn"
+    excerpt: "General Motors’ (GM.N) latest journey in autonomous driving has taken it to the courthouse. Late on Friday, the $80 billion carmaker filed a suit accusing Ford Motor (F.N) of trademark infringement after the latter renamed its new driver-assist technology BlueCruise."
+    publishedDateTime: 2021-07-26T04:49:00Z
+    webUrl: "https://www.reuters.com/breakingviews/gms-self-driving-skills-take-wrong-turn-2021-07-26/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 37
+      name: Reuters
+      domain: reuters.com
+    quality: 54
     images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/26/ak_lc_260721.jpg?itok=-ga0wIbh"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "NTU bags 2 awards for traffic prediction tech"
-    excerpt: "Roboticists from Nanyang Technological University (NTU) who developed an algorithm capable of predicting a vehicle's position eight seconds into the future clinched two awards at a competition organised by Waymo,"
-    publishedDateTime: 2021-07-26T21:00:00Z
-    webUrl: "https://www.straitstimes.com/singapore/ntu-bags-2-awards-for-traffic-prediction-tech"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 24
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/07/27/ST_20210727_FYDRIVE27_6723921.jpg?itok=cknx8cx-"
-        width: 763
-        height: 509
+      - url: "https://www.reuters.com/resizer/9-MpALxsvP1nc9bOL6oy7Zunpzs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7J5WGYMFKBJ2TADPBKOO4FKOWM.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "aAgW53O5TwHDhgxNzaM8CksD3Lf/o1S7GcrJ2ZBrB1jdNiXiThjwde4k4wUlP4LjARkRe9tKB2M5jWHINYm4XPJKFGgAUroMKjj/gbYNfhX74ANYhq+qnlHiTrvxxLBOqDvRy5LfF6Ku5NeJLnPhFSTkK8QEN7A47K00ENc0TdEbB7Oiv/cr/gOy0QdJz6dZmKc8mfzZpd+cfsZ4tftmb+i1hvwFkmAs1NoVPjaWkOLzbKOaulfPMv+fmT7Xo+Hx4QN+KSLkujxnDTmAg5J0oWdoHb11laio1K/XEdm/CkEeN19C2W1bj5dFEWHj4BxuqkQMNlbewhl0JKgo7WmxAJ3ra5sIJ5+HEVOyrD8HYGY=;yCA7WDyez5PIKenOADW1iA=="

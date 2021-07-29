@@ -197,6 +197,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Cognitive Computing Market by Top Leading Key Players, Growth Opportunities, Share, Trends, Outlook and Forecast to 2021-2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Cognitive Computing Market for 2021"
+    publishedDateTime: 2021-07-29T07:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-by-top-leading-key-players-growth-opportunities-share-trends-outlook-and-forecast-to-2021-2030-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Betting Market, Growth Analysis, Latest Trends and Forecast till 2027"
     excerpt: "Machine learning is one of the smartest techniques for categorization and forecasting that has demonstrated promising outcomes Because of the enormous amount of money involved in betting sports prediction is one of the fastest growing industries needing excellent forecast accuracy"
     publishedDateTime: 2021-07-26T16:14:00Z

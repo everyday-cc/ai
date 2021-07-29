@@ -149,6 +149,20 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 34
+  - title: "Artificial Intelligence in Precision Farming Market Giants Spending Is Going to Boom | Microsoft, IBM, Intel, SAP"
+    excerpt: "The report presents an in-depth assessment of the Artificial Intelligence (AI) in Precision Farming Market including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
+    publishedDateTime: 2021-07-28T09:37:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-precision-farming-market-giants-spending-is-going-to-boom-microsoft-ibm-intel-sap/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 33
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/PR-10-Agriculture.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "AI In Platform As A Service Market to Eyewitness Massive Growth by 2026 | Google, Microsoft, Salesforce, SAS Institute"
     excerpt: "AI In Platform As A Service refers to the third-party offering of artificial intelligence outsourcing. This allows the company to get the advantage of AI without spending lots of money. AI In Platform As A Service helps empower the sampling of multiple public cloud platforms to test different machine learning algorithms."
     publishedDateTime: 2021-07-24T21:40:00Z

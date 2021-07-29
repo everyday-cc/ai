@@ -9,7 +9,7 @@ ampWebUrl: "https://thehustle.co/07272021-deepmind-breakthrough/"
 cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/07272021-deepmind-breakthrough/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 750
     height: 418
     isCached: true
-
-related:
-  - title: "Overview of Transformation in Radiology Through Artificial Intelligence"
-    excerpt: "Multiple industries are harnessing Artificial Intelligence to boost productivity. This article lays an overview on how radiology departments in hospitals or clinics have started transforming with AI models and radiomics for radiologists."
-    publishedDateTime: 2021-07-28T15:30:00Z
-    webUrl: "https://www.analyticsinsight.net/overview-of-transformation-in-radiology-through-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Overview-on-Transformation-in-Radiology-through-Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "+Wvlw4mlOH3OwvFlcQX/TEcSZAhyc//BMoBl3xQFLWnaJSTaQgc0Ylkkbj8CHHJtNbUm52SzG0BOrJjfn+cGIx6HWmNmMrr8VI54MoZnkY5lPkdoCapMCFtL5+3dUc8mGDemB2AsqbvhsxU39kdE0de92Z+PApVkNMtu8Vs4PW1J1s+YTR5VawVhuE2SpmJscKw8eBbQGMSt942ZstSUwCLP0s45nPCWj0J7laH7f0KacD+9K8y7KnDCtE60/XgU4w1YNEfP5gJK3H5Xg2oUXwiSdfh90M8AGGXMuXQTPE5/iABzo85yckaFWa+jhz/cmtV+Xr+4VVn6UDgS2BOvr7qJaujuLnn8kb2WhP1jg6c8G6o2u1tJeoyAeaiJu7+KNf0IWJIbFusQfWhIQSG/AzHFmIVpVSxeLA1Pq7mIYPH9QVae2EJOT7gOnAzTbzI7/JBPm/C3ydTnpKxynfhaOqOcWPKErSY9P3oy7UYbqw9TmPuxlUamaUP+4dw9ldBYHIwUam52fpJCiinzyGpMyA==;p+F9R99nEhLYUGBYrbcddQ=="
 ---

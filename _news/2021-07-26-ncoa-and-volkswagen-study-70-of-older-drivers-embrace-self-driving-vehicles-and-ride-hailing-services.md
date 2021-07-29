@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19918810.html"
 webUrl: "https://www.lelezard.com/en/news-19918810.html"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 480
     isCached: true
+
+related:
+  - title: "NCOA and Volkswagen release results of self-driving study"
+    excerpt: "NCOA and Volkswagen announced the results of an online survey, to find out how older adults feel about self-driving technologies."
+    publishedDateTime: 2021-07-29T09:02:00Z
+    webUrl: "https://www.cbtnews.com/ncoa-and-volkswagen-release-results-of-self-driving-study/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 24
+    images:
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2021/07/shutterstock_734494405-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "qicGPelIRbP1xgGp0kDYQ6m3sLGQmVfIafzK5pjNkxBFGIENCvSjQ5Drmkh0QjfxKtZEFHId2VtgYrGNfcPm6fR69mGMcQWU2LRhpGYN1fb4zoWfGJbHCrhPMRQps7LzMX1g8hs1oJNQzYimomHQyffmToM3wtl6KDag5zZKta/AfORkqy7T16y+3pyupVv30ivWOZjpa/DeFLYP5KVUfnBuvtd1iddr9IkWqqgwvX27rgrD0qdWx+KJiJ9uH5KpsPumGz94c4S1KAlgnclZVowxxl7dyhb7JidQmCszhxCACUur0BLutEcJOE29I97lNMQuXEKaWgfo3C06Wujihaqt18CF+TMVzBWWVOiTZ9Q=;VTYVWBsMUysH6aO6EhYR7A=="
 ---

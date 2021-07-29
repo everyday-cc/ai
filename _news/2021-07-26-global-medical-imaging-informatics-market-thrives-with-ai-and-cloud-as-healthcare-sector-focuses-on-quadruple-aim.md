@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/global-medical-ima
 webUrl: "https://markets.businessinsider.com/news/stocks/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on-quadruple-aim-1030643646"
 type: article
 quality: 62
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "PathAI acquires Poplar Healthcare, highlighting AI’s role in medical diagnoses"
-    excerpt: "PathAI, a Boston-based health technology startup, said on Monday that it has acquired Poplar Healthcare, one of the country’s largest pathology labs, as the company seeks to provide doctors a quicker way to diagnose medical ailments through use of its software."
-    publishedDateTime: 2021-07-26T11:00:00Z
-    webUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 50
   - title: "Medical imaging AI market poised for strong growth"
     excerpt: "The world market for medical imaging artificial intelligence (AI) applications is projected to reach almost $1.2 billion by 2025, with a compound annual growth rate of 26%, according to a new report from Signify Research."
     publishedDateTime: 2021-07-28T07:32:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-mo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/amp/"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 184
+published: true
 
 provider:
   name: Forbes
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI Is Pushing Marketing Professionals To Reinvent Themselves"
-    excerpt: "A Five-Stage Road Map to Implementing Artificial Intelligence in Marketing,\" shares insight on how marketers must upskill to address the changing marketing landscape."
-    publishedDateTime: 2021-07-24T16:10:00Z
-    webUrl: "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/"
-    ampWebUrl: "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f38130a051e8692ab4358e%2F0x0.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "6 Startups That Are Reinventing Markets with Artificial Intelligence in 2021"
-    excerpt: "With the evolution of technology, every business is now moving forward to incorporate artificial intelligence in a way that provides a seamless"
-    publishedDateTime: 2021-07-26T17:38:00Z
-    webUrl: "https://www.entrepreneur.com/article/378434"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/378434"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378434"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 86
-    images:
-      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-378434.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Perfecting mapping with AI and machine learning"
     excerpt: "Across the world, mapping technology with Artificial Intelligence (AI) and machine learning allow users to have a variety of choices on their travels. Be"
     publishedDateTime: 2021-07-29T00:50:00Z
@@ -78,6 +46,20 @@ related:
       - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/000_9DK4N2-450x300.jpg"
         width: 450
         height: 300
+        isCached: true
+  - title: "Understanding Contextual AI In The Modern Business World"
+    excerpt: "Exploring emerging technologies and those with features that can adapt will help meet this modern world head-on."
+    publishedDateTime: 2021-07-26T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/07/26/understanding-contextual-ai-in-the-modern-business-world/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60facdc5d1bfbd82bc8f0946%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Catching the artificial intelligence buzz"
     excerpt: "The federal minister for the digital economy, Jane Hume, will deliver a speech on Tuesday setting out how the government is backing artificial intelligence."
@@ -109,6 +91,31 @@ related:
         width: 800
         height: 452
         isCached: true
+  - title: "How AI Is Expediting Medicine Development"
+    excerpt: "The world of big data in the healthcare sector is vast and growing exponentially. Tools that leverage artificial intelligence (AI) and machine learning (ML) are critical to organizing, correlatin"
+    publishedDateTime: 2021-07-28T05:00:00Z
+    webUrl: "https://www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.html"
+    ampWebUrl: "https://www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.amp.html"
+    cdnAmpWebUrl: "https://www-realclearmarkets-com.cdn.ampproject.org/c/s/www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.amp.html"
+    type: article
+    provider:
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 39
+  - title: "Overview of Transformation in Radiology Through Artificial Intelligence"
+    excerpt: "Multiple industries are harnessing Artificial Intelligence to boost productivity. This article lays an overview on how radiology departments in hospitals or clinics have started transforming with AI models and radiomics for radiologists."
+    publishedDateTime: 2021-07-28T15:30:00Z
+    webUrl: "https://www.analyticsinsight.net/overview-of-transformation-in-radiology-through-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Overview-on-Transformation-in-Radiology-through-Artificial-Intelligence.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Why Artificial Intelligence Implementation is Lagging in International Shipping"
     excerpt: "The long-term benefits of including AI-powered systems in logistics and supply chain operations are well known."
     publishedDateTime: 2021-07-25T18:59:00Z
@@ -123,19 +130,19 @@ related:
         width: 1620
         height: 1080
         isCached: true
-  - title: "Artificial Intelligence in Precision Farming Market Giants Spending Is Going to Boom | Microsoft, IBM, Intel, SAP"
-    excerpt: "The report presents an in-depth assessment of the Artificial Intelligence (AI) in Precision Farming Market including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
-    publishedDateTime: 2021-07-28T09:37:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-precision-farming-market-giants-spending-is-going-to-boom-microsoft-ibm-intel-sap/"
+  - title: "Action Mode: Now, an Artificial Intelligence model for disaster risk prediction"
+    excerpt: "A model solution has been developed under the Microsoft AI for Humanitarian Action programme to build disaster resilient communities in India"
+    publishedDateTime: 2021-07-27T13:43:00Z
+    webUrl: "https://www.financialexpress.com/industry/action-mode-now-an-artificial-intelligence-model-for-disaster-risk-prediction/2298871/"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
+      name: The Financial Express
+      domain: financialexpress.com
     quality: 33
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/PR-10-Agriculture.jpg"
-        width: 640
-        height: 400
+      - url: "https://images.financialexpress.com/2021/06/Artificial-intelligence.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "QV3uxsxyrfkmOQ3hWOBDQhvpj4BxUt0zGt7TZGLCtfui090ysY7xSR8RJdbi6dSOVTF7KdembiWryjYAyBIk0lENBDv+NfQVsKQjpspqFXPGRV8ExJaijYmrMCBmmmHy2OzL/JTFp6K2DGqS5SZcM0f03Om0M/+LLWBFiw5zMmM0oTs8EiJRWl2r4RBnA8nF5yhWBbMEPFDPfqph3LS5ubzdvjlnGGbVQ3hxUmkrZxaBaq9ltcjclp+2mopJAVP/8zZEh1JeRY7jcaem37IS+iR6SzOsfmWVO5q4MgHLXce14o1E5KxgAZds8rEYcfqev3QvkyIVIwVcJ8G12XCXOMzh0WhSy5DUsdSZH/XzdmOOjgByw+2Egg2wFpK+HLdU6dljs5DJUFcRA8t2llOmFDE+ZIFm8c6GBkrQd/IVljoBaZ68W6zDPPG0PcusvtrimfyR2HlEFS12uY8V/P+r4xzviRhf0dU3qTNITsvUxvuEx7cl3Xz3fOlO6WYoq8xqCinhkzuIbPGwNUjNd+wKug==;gZf3F5WhxwyCtPPq55hHbQ=="

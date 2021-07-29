@@ -157,6 +157,20 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 34
+  - title: "Artificial Intelligence in Precision Farming Market Giants Spending Is Going to Boom | Microsoft, IBM, Intel, SAP"
+    excerpt: "The report presents an in-depth assessment of the Artificial Intelligence (AI) in Precision Farming Market including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
+    publishedDateTime: 2021-07-28T09:37:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-precision-farming-market-giants-spending-is-going-to-boom-microsoft-ibm-intel-sap/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 33
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/PR-10-Agriculture.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "Cloud AI Market 2021-2027 is Outperforming | Evolving Players – Amazon Web Services, Microsoft, Google LLC, IBM, Intel, Nvidia"
     excerpt: "The Cloud AI Market was valued at USD XX billion in 2020 and is expected to reach USD 13.1 billion by 2027, registering a CAGR of 20.3%, during the period of 2021-2027. At present, the market is sharping its presence and some of the key players in the study are Amazon Web Services Inc."
     publishedDateTime: 2021-07-26T13:20:00Z

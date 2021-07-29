@@ -38,17 +38,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "PathAI acquires Poplar Healthcare, highlighting AI’s role in medical diagnoses"
-    excerpt: "PathAI, a Boston-based health technology startup, said on Monday that it has acquired Poplar Healthcare, one of the country’s largest pathology labs, as the company seeks to provide doctors a quicker way to diagnose medical ailments through use of its software."
-    publishedDateTime: 2021-07-26T11:00:00Z
-    webUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 50
   - title: "Global Artificial Intelligence In Healthcare Market 2021 Analytical Overview, Technological Innovations with Economic Indicators By 2028"
     excerpt: "The primary sources employed while crafting Artificial Intelligence In Healthcare Marketing report include the industry experts from the industry comprising the management corporation processing organizations analytical service suppliers of the industry s value chain This market research report sheds light"
     publishedDateTime: 2021-07-28T10:27:00Z

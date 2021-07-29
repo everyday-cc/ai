@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 458
         isCached: true
-  - title: "Boston-based PathAI acquires Memphis' Poplar Healthcare"
-    excerpt: "Memphis-based Poplar Healthcare is joining forces with Boston’s @Path_AI, a provider of artificial intelligence-powered technology for pathology services."
-    publishedDateTime: 2021-07-26T19:33:00Z
-    webUrl: "https://www.bizjournals.com/memphis/news/2021/07/26/boston-based-pathai-acquires-poplar-healthcare.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
 
 secured: "4BlpjlGNN/W1SrZUs5vfIYNhv+cW4ii0kc3TIt2hLA2gltyX+HcBFEp27VYmyJVdaaiuJMaTpBPJQRkgAkwD2M2Opw5PQW/24xgWyzUGUHQKndsXDkCUPi9zW72gTG7ZTRRBnIKy6F3Dl9oHinZqBGo77C++6DrOdE2sF7qXfrxWxwmNmzHYOwys0oFkTtTRI+glbBV6pZP78yilnlLYBIvOToz6X7Pc0VdxXXfJsyZxaJA9ecoXJPMV4a68gkdB/y7RlyIQcRc/Lshi3PaMahS5eOrPyko+lbqJVKcCPZj6khYkTFSwgWiB9NYe50hGu2x2gCtVbkEaCR2skbrd/AcjWh5MAqVs3dGSwLXWJ2SskLiZq2Jv/S6+iq3G4Ka1qydw+hrjWwMEAYAm64zK7gclumhlWNtMRrGkzXuRpsRhuMs7uIKJwfAgQtsnEj6++EZJPsyM+7lrf2QTBomLmNKnd9LFxTNGVsEPRMumhQZIhM2pEQHMuVQur9sVfPDqvaVwmeugZ8hlyFPfeEz0Rw==;vK4n8tZimAnCY1Nc82XWAw=="
 ---

@@ -203,6 +203,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Cognitive Computing Market by Top Leading Key Players, Growth Opportunities, Share, Trends, Outlook and Forecast to 2021-2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Cognitive Computing Market for 2021"
+    publishedDateTime: 2021-07-29T07:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-by-top-leading-key-players-growth-opportunities-share-trends-outlook-and-forecast-to-2021-2030-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence in Retail Market 2021 – Top Manufacturers, Latest Trends, Future Prospects and Forecast 2026"
     excerpt: "Global Artificial Intelligence in Retail Market 2021 by Company, Regions, Type and Application, Forecast to 2026 announced by MarketQuest.biz gives a severe thought regarding the various factors and patterns influencing the improvement graph of the worldwide market."
     publishedDateTime: 2021-07-27T13:12:00Z

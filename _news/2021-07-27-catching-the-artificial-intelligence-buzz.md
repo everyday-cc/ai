@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI Is Pushing Marketing Professionals To Reinvent Themselves"
-    excerpt: "A Five-Stage Road Map to Implementing Artificial Intelligence in Marketing,\" shares insight on how marketers must upskill to address the changing marketing landscape."
-    publishedDateTime: 2021-07-24T16:10:00Z
-    webUrl: "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/"
-    ampWebUrl: "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f38130a051e8692ab4358e%2F0x0.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "How AI Is Powering Modern Banking Transformation"
     excerpt: "By John Ashley, General Manager, Financial Services and Technology, NVIDIA AI is enabling digital transformation across the financial services industry, from fintech and investment firms to commercial and retail banks."
     publishedDateTime: 2021-07-26T15:00:00Z
@@ -58,22 +42,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f9de4811cbbaa786e3911b%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "6 Startups That Are Reinventing Markets with Artificial Intelligence in 2021"
-    excerpt: "With the evolution of technology, every business is now moving forward to incorporate artificial intelligence in a way that provides a seamless"
-    publishedDateTime: 2021-07-26T17:38:00Z
-    webUrl: "https://www.entrepreneur.com/article/378434"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/378434"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378434"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 86
-    images:
-      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-378434.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
         isCached: true
   - title: "Perfecting mapping with AI and machine learning"
     excerpt: "Across the world, mapping technology with Artificial Intelligence (AI) and machine learning allow users to have a variety of choices on their travels. Be"
@@ -91,6 +59,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Understanding Contextual AI In The Modern Business World"
+    excerpt: "Exploring emerging technologies and those with features that can adapt will help meet this modern world head-on."
+    publishedDateTime: 2021-07-26T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/07/26/understanding-contextual-ai-in-the-modern-business-world/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60facdc5d1bfbd82bc8f0946%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Catching the artificial intelligence buzz"
     excerpt: "Backpacks to track bees, bushfire modelling and sensors to detect broken water pipes are some of the technologies being developed in Australia as part of an"
     publishedDateTime: 2021-07-26T16:00:00Z
@@ -104,6 +86,31 @@ related:
       - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/6f78c94e-5081-42b7-bc96-9cd824c8399d.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
         width: 800
         height: 452
+        isCached: true
+  - title: "How AI Is Expediting Medicine Development"
+    excerpt: "The world of big data in the healthcare sector is vast and growing exponentially. Tools that leverage artificial intelligence (AI) and machine learning (ML) are critical to organizing, correlatin"
+    publishedDateTime: 2021-07-28T05:00:00Z
+    webUrl: "https://www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.html"
+    ampWebUrl: "https://www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.amp.html"
+    cdnAmpWebUrl: "https://www-realclearmarkets-com.cdn.ampproject.org/c/s/www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.amp.html"
+    type: article
+    provider:
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 39
+  - title: "Overview of Transformation in Radiology Through Artificial Intelligence"
+    excerpt: "Multiple industries are harnessing Artificial Intelligence to boost productivity. This article lays an overview on how radiology departments in hospitals or clinics have started transforming with AI models and radiomics for radiologists."
+    publishedDateTime: 2021-07-28T15:30:00Z
+    webUrl: "https://www.analyticsinsight.net/overview-of-transformation-in-radiology-through-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Overview-on-Transformation-in-Radiology-through-Artificial-Intelligence.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Why Artificial Intelligence Implementation is Lagging in International Shipping"
     excerpt: "The long-term benefits of including AI-powered systems in logistics and supply chain operations are well known."
@@ -119,19 +126,19 @@ related:
         width: 1620
         height: 1080
         isCached: true
-  - title: "Artificial Intelligence in Precision Farming Market Giants Spending Is Going to Boom | Microsoft, IBM, Intel, SAP"
-    excerpt: "The report presents an in-depth assessment of the Artificial Intelligence (AI) in Precision Farming Market including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
-    publishedDateTime: 2021-07-28T09:37:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-precision-farming-market-giants-spending-is-going-to-boom-microsoft-ibm-intel-sap/"
+  - title: "Action Mode: Now, an Artificial Intelligence model for disaster risk prediction"
+    excerpt: "A model solution has been developed under the Microsoft AI for Humanitarian Action programme to build disaster resilient communities in India"
+    publishedDateTime: 2021-07-27T13:43:00Z
+    webUrl: "https://www.financialexpress.com/industry/action-mode-now-an-artificial-intelligence-model-for-disaster-risk-prediction/2298871/"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
+      name: The Financial Express
+      domain: financialexpress.com
     quality: 33
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/PR-10-Agriculture.jpg"
-        width: 640
-        height: 400
+      - url: "https://images.financialexpress.com/2021/06/Artificial-intelligence.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "4+rmJdR79D0Q3NG4AEDEc/jGvgSjf54lV4hkxC9vQwm0zhG3o7H+YwDm92DLITfhfjXF96ZwcptzWMdrst6lvHGoK32nrStXCjA+XnElvWDzlG1xaAfOqZGkaTLeoeBVm/w7lDaPrGLUj9C6OLmoytA+5Ate5Uu1OxMKj/a6gHAUida7Ceb1+Hf/ZBziBrT9ZLhFkBX5siMstdpYHl0cTWy80zR/et6m8TTkN4Fo7KWTu+mIGkVDtpF012AJ50IJMvnKDvlsTnAJRXwywYrQ7L25eqBAZsPO40Xy31kUUUhrAiyj8jaUz10ahu0Mxetz3gRBC0xj6CdEDR8PBb6H9Es0XI+Vf2bVSvafk+4BsoM=;muLRKBUMVKNI/0B0BxJEug=="

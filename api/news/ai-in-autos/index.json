@@ -375,6 +375,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-24-self-driving-fords-set-for-lyft-off-in-miami-and-austin.md",
+      "title": "Self-Driving Fords Set for Lyft-off in Miami and Austin",
+      "excerpt": "Ford might have to adjust its slogan from \"Have you driven a Ford lately?\" to \"Has a Ford driven you lately?\" On Wednesday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/07/23/self-driving-fords-set-for-lyft-off-in-miami-and-a/",
+      "originalUrl": "https://www.fool.com/investing/2021/07/23/self-driving-fords-set-for-lyft-off-in-miami-and-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/23/self-driving-fords-set-for-lyft-off-in-miami-and-a/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/23/self-driving-fords-set-for-lyft-off-in-miami-and-a/",
+      "publishedDateTime": "2021-07-23T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit.md",
       "title": "Alphabet to launch robotics firm Intrinsic under its other bets unit",
       "excerpt": "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ...",
@@ -1362,58 +1405,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom.md",
-      "title": "Adorable Kitten Hiding Under An AI Self-Driving Car Provides Bright-Eyed Pearls Of Wisdom",
-      "excerpt": "Something adorable could have been a heap of unpleasant trouble. A kitten had decided to hide underneath a parked AI self-driving car. I’m sure that you’ve seen or even personally witnessed having a cat or dog that opted to sneak under your ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c556e2c64f1f80827d3713%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3342%26cropY1%3D21%26cropY2%3D1900",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/amp/",
-      "publishedDateTime": "2021-07-17T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

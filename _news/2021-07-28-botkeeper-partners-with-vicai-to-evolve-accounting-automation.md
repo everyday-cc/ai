@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/botkeeper-partners
 webUrl: "https://markets.businessinsider.com/news/stocks/botkeeper-partners-with-vic-ai-to-evolve-accounting-automation-1030652345"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2021/07/abu-dhabi-terminals-100896923-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Bic uses Azure and AI to create next generation shaving experiences"
+    excerpt: "Global manufacturer Bic is using the Microsoft Azure cloud and artificial intelligence (AI) to develop the next generation of smart shavers. In partnership with Satori Analytics, the firm invited its customers into the product innovation process."
+    publishedDateTime: 2021-07-28T10:25:00Z
+    webUrl: "https://www.technologyrecord.com/Article/bic-uses-azure-and-ai-to-create-next-generation-shaving-experiences-125106"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 54
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10433/img-Bic-razor_web.jpg"
+        width: 940
+        height: 443
         isCached: true
 
 secured: "XxlQPHRcIwU23cEL16kMLKSwvNVTqFMq4MCQmjxTLe9IxmZoxoE7X7XficVlniplJ52KrG5wefSxtEfWT82pKwMqeyI68xS2pPLcelPz6oCJ6UeOzR4sbSK0N4VFZyC+aW3jien2VhgF/UGcjyNxbg1i/VJqfcZqc8uLbfTFUnfN8nOrD/TayoEOm9unWu4fuByW7MD6OrvThApJZ52G9A3jp9XfaDlucaNJ76qnkPMzlp/AZWdEVr+P8xzZO4J0JLGbHNE8Ln2l5v1iHileFdqfq4MNmW0bccMHMzruTJm3X9GKCPSqPBryq2bc2tDTPFq1H1YSu9SUKp7U1NdRl+32uulinlsejflnSwjGQx0zP+UN+OQRR9+Kx2kRWgKqHjwfsgg0lMlbq/YhppJ1vHPNR/hWiBZIN0w1/m6APVm20YcZZBOnxl0ukcQ5KaQor0EPCxHTvTiaIqnCaiJjstjU9DCCuxDoBEtFQl21p7JQ8ciB5y9O/ZiGk5CvmRcdFSxa2rgz4f9GtGUZsmtnyw==;CFaTWFkNulHt8cES9LN5pQ=="
