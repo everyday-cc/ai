@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Voice Recognition Market Size to Witness Huge Growth by 2026"
-excerpt: "Selbyville, Delaware Global Voice Recognition Market Size Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Size Report also covers top key players,"
-publishedDateTime: 2021-07-27T05:01:00Z
-originalUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-to-witness-huge-growth-by-2026-2021-07-27"
-webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-to-witness-huge-growth-by-2026-2021-07-27"
+title: "Artificial Intelligence in Sports Market 2021-2027 - Data Analysis, Growth Factors, Industry Outlook And Future Prospects | By ARC"
+excerpt: "The market for artificial intelligence in sports is expected to grow at a CAGR of around 32.8% from 2020 to 2027 and expected to reach the market value of around US$ 3,555.9 Mn by 2027. The global Artificial Intelligence in Sports Market research report is inclusive of detailed and productive qualitative and quantitative information,"
+publishedDateTime: 2021-07-29T04:44:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-2021-2027---data-analysis-growth-factors-industry-outlook-and-future-prospects-by-arc-2021-07-29"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-2021-2027---data-analysis-growth-factors-industry-outlook-and-future-prospects-by-arc-2021-07-29"
 type: article
-quality: 54
+quality: 37
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
@@ -71,15 +70,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Sports Market 2021-2027 - Data Analysis, Growth Factors, Industry Outlook And Future Prospects | By ARC"
-    excerpt: "The market for artificial intelligence in sports is expected to grow at a CAGR of around 32.8% from 2020 to 2027 and expected to reach the market value of around US$ 3,555.9 Mn by 2027. The global Artificial Intelligence in Sports Market research report is inclusive of detailed and productive qualitative and quantitative information,"
-    publishedDateTime: 2021-07-29T04:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-2021-2027---data-analysis-growth-factors-industry-outlook-and-future-prospects-by-arc-2021-07-29"
+  - title: "Voice Recognition Market Size to Witness Huge Growth by 2026"
+    excerpt: "Selbyville, Delaware Global Voice Recognition Market Size Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Size Report also covers top key players,"
+    publishedDateTime: 2021-07-27T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-to-witness-huge-growth-by-2026-2021-07-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -95,6 +94,6 @@ related:
       domain: manometcurrent.com
     quality: 4
 
-secured: "sLojxy7IdkscVT57gcV4xb2hdibT1KI+e0BY+O2hlCgQW/7OEq5ccwyvCND8VGid/l2Ckyim21AKoJ5iTx/JLxQ3oX22j+tIp+bvWFFkLqfN6Zs5sfgjCeHB3CMl5RnkIXdNO1wxqOErFxMhl3hI7OnakQO/VzVzGbRGlL96nKamXs5Rr7k4VUic5fe0vMEdkLH7kO3FCOwNPfw+7WTmaHncpOzIrD8LIDgUMCY2Qfq7UoABbPAojqc4d/wKFXzdRvajrXuYCHeoxeZx4ViEQ8yTvOCtti6NPqYhqNn7zeC/TR8Kq3mQWWsoTy9kzewkXKbQuQejTzw1Ag5F22VmLYEHgMLo7li0ef5EIkyruxs=;kvlT0XnWHmMac5U+okaWOg=="
+secured: "cutwROsLIY5Ac9ywddg3mMUd5X0HjtT1ZTCVHWM+pAQpAaQmx/i3z2fqftdA+xE1jdTOJoCHehyUQI2Yp+eSfbqke+pN6ASNqLB2PblQ1Z8khZreaCzlH0wrDgDmALwoXeB0pU/NsrBq3qS4Hb+67VH4wy6PHb8er94JHGme17zPKOH93xAMTeMPOAVGSkKBNzB5J2Rw15O9dr6JE/i+WDl/MqkSLfc3qXynQ8UivhUOe2hK4RtYQU/3cs+J4rJ19SEr+PBagHAZuJQ98UzBdNleRArFakSTanA9GrRhlMvqiTtJhKGu/M+aNJC3nlZWXaMpX7BX0jvEcbImqjFomwHoNBHIgbYxhXvfYtFi710=;orm5CaLdQCzhnrEeFJ33RQ=="
 ---
 

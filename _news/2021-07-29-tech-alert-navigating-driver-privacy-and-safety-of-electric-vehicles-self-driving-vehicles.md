@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
-excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are"
-publishedDateTime: 2021-07-29T02:28:00Z
-originalUrl: "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/"
-webUrl: "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/"
-ampWebUrl: "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/amp/"
+excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
+publishedDateTime: 2021-07-28T19:14:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
+webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
 type: article
-quality: 33
-heat: 33
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
-    isCached: true
 
 related:
   - title: "Blueberry grower tests self-driving electric tractor"
@@ -41,21 +33,7 @@ related:
         width: 815
         height: 630
         isCached: true
-  - title: "NCOA and Volkswagen Study: 70% of Older Drivers Embrace Self-Driving Vehicles and Ride-Hailing Services"
-    excerpt: "Today, the National Council on Aging (NCOA), the national voice for every person's right to age well, and Volkswagen Group of America released the results of an online survey of older adults designed to better understand attitudes and"
-    publishedDateTime: 2021-07-26T13:09:00Z
-    webUrl: "https://www.lelezard.com/en/news-19918810.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 23
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
-secured: "VthpwMo6vaITnVI35tPYBAlqb6SSSWOJeAQ0jgCbN6kTHbCHldGLxaLBZ5W79q+jaSDgLYlSYnNapItsmrwmP5clbim8lXFViN/fjSIdN1AdLjqv8bjMCD6GtRJPoPuBSEue4vKLWC2MMntNMjGridvmeZDF36FiJ2EXl3LKOIU26DVsHOmYhpNZKc2qLACSAKjB+/U0FGFsB6aKjizyF98m1qZpUrN5zJhtGnWH1cGkskVud+DgFUaMsgFnMHDK0zlEKIs4ySs8PT8uRheif8gkcsrhWEGsZFaqeKqCUG7i/3YQanCXZuNHEkb+SNTR4UWehEzI6Vlrvpot2mDTb1ywdO3BczUuOA8f6jmqbTo=;l490yJwIrjSug0p8z9shHg=="
+secured: "Grw/VsopGcIcaaObmqkLPsIPWb0VdIbSSmHgnvHTUmuwlrrWOmcTcd+eRjgspkqD+1mNk9me30IM/zQarpPWmu6KO8J58SXLBhP95+vG74Hyz4C2ZoLAIfpkDdaYETGN1zWwOSqMDWjJPmbfjg1IL4+rGr9fQxBdpFCiCs9uY+7IOX44a84EeCU09jDDpqwMNN5oesQCHCbllIGrcDee9BQDzUg5TgUeHdHcs1tEBdN39Pzin8CPFnyMKqPMf9/hlFr/Nte1a3xiBV2Yf7onhRXfGv7/pxL4ILsGDowQWzkIKPQp+EMyz4FiPchFEnh8+7ARpx6G907/zB2UvkbR5R+rq+0d+sPPy7wTOAQppeo=;oMAQKXNuh7y1uDgBv94yCQ=="
 ---
 

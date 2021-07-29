@@ -7,7 +7,7 @@ originalUrl: "https://www.capitalpress.com/ag_sectors/research/blueberry-grower-
 webUrl: "https://www.capitalpress.com/ag_sectors/research/blueberry-grower-tests-self-driving-electric-tractor/article_7af61e0a-ee76-11eb-9e8c-bb610dd0ad0f.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -26,35 +26,14 @@ images:
 
 related:
   - title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
-    excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are"
-    publishedDateTime: 2021-07-29T02:28:00Z
-    webUrl: "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/"
-    ampWebUrl: "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/amp/"
+    excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
+    publishedDateTime: 2021-07-28T19:14:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 33
-    images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "NCOA and Volkswagen Study: 70% of Older Drivers Embrace Self-Driving Vehicles and Ride-Hailing Services"
-    excerpt: "Today, the National Council on Aging (NCOA), the national voice for every person's right to age well, and Volkswagen Group of America released the results of an online survey of older adults designed to better understand attitudes and"
-    publishedDateTime: 2021-07-26T13:09:00Z
-    webUrl: "https://www.lelezard.com/en/news-19918810.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 23
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "lD1suxStlrwdIz9Rq0MmBBp33N6ELauoiDN5twjVj3KGU7YoMFYOxoPzS0offzHPJt87kx1YBp4pAs4q5wo5v5OyG0XZ9qjQfJMBvTYmkaNjzT1weVes5W1E+AniyiVp6WKfkSPcA7cAUUvL4MJwdZCA/aOXMHpWGM0vii6A60sV2qdnuESqYKNY6+WIoVQKrCm/ooiUVs/ANen0UNvtieDnJNrS0PWJbrMu1ZpPFjm54FO5zCaL9Fm+ZNhCx9Q68k/hUkT5Cmfu5+SUpMU/YAkRvH01eeie3NKfIbIlGwcKRJ2H/6jSZ5kK4SpKMBidOGB00sEfRNS/IxQXqA9GtCQYWAhuYpsXnINCuibCnW4F8E2Ci96Xzzm4HpYxajEgEqtLQjU+kQGSkY2gpEJiS0s96lUu1x3R7egUkfX3YhNP3U69NjQ/s+3XHCITp1zph5YlG0N1JdGWtalLYC7dSlJmlmt/n1UGgNwYY23Ni9J+gUdeWpXxXUvoYFykgj3PPeIsDgPoo8EIjPDUTxdSBQ==;tu58e7apINt9Q5SFJsVPFQ=="
 ---

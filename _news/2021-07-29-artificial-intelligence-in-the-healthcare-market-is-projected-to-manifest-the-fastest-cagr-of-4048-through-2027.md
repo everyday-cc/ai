@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Europe Artificial Intelligence as a Service Market is projected to manifest the fastest CAGR of 38.48% through 2027"
-excerpt: "Europe Artificial Intelligence as a Service market to show an upward trend in terms of revenue and grow at a CAGR of 38.48% in the forecasting years 2019-2027. The UK, France, Germany, Spain, Russia,"
-publishedDateTime: 2021-07-27T11:16:00Z
-originalUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-as-a-service-market-is-projected-to-manifest-the-fastest-cagr-of-3848-through-2027-2021-07-27"
-webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-as-a-service-market-is-projected-to-manifest-the-fastest-cagr-of-3848-through-2027-2021-07-27"
+title: "Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 40.48% through 2027"
+excerpt: "Artificial intelligence in the healthcare market is projected to progress at 40.48% of CAGR during the forecasting period 2019-2027. The major factors driving the global AI in the healthcare market are the increasing usage of big data,"
+publishedDateTime: 2021-07-29T04:25:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4048-through-2027-2021-07-29"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4048-through-2027-2021-07-29"
 type: article
-quality: 45
-heat: -1
-published: false
+quality: 63
+heat: 93
+published: true
 
 provider:
   name: MarketWatch
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -28,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 40.48% through 2027"
-    excerpt: "Artificial intelligence in the healthcare market is projected to progress at 40.48% of CAGR during the forecasting period 2019-2027. The major factors driving the global AI in the healthcare market are the increasing usage of big data,"
-    publishedDateTime: 2021-07-29T04:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4048-through-2027-2021-07-29"
+  - title: "Europe Artificial Intelligence as a Service Market is projected to manifest the fastest CAGR of 38.48% through 2027"
+    excerpt: "Europe Artificial Intelligence as a Service market to show an upward trend in terms of revenue and grow at a CAGR of 38.48% in the forecasting years 2019-2027. The UK, France, Germany, Spain, Russia,"
+    publishedDateTime: 2021-07-27T11:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-as-a-service-market-is-projected-to-manifest-the-fastest-cagr-of-3848-through-2027-2021-07-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,6 +72,6 @@ related:
         height: 630
         isCached: true
 
-secured: "FSLrEttPfWBUoKrAO0vmSWsd+qANmCltY/vylokoP4Ehq5AkUUotEtieyXUAbWjlPqv7QUBpPt+7w9V9Nr3QbU3yuc4nw/BehZCrtSu77qU/WUn7xpv8OOo5+WB2UWB1FiZ+UYtooacTW2U8nVSYRbBorerBt/4cjYxxjqnfkO5GNDmpDnoTnCpGezO0ic+lFnqftKt8zTTtMVLGrQvzQcrERufHQ4qNLh1Ua39RA+6n7pPVi7GKqL/9zi1eo89U+VQYRw7TjKGlpLKlBzzZuF1TFa30ZXRGQjzcNqsR9XoYjZAGTnrXaBU5QT4ZuIyh+88a8JjjJIGhd00EGxr5rik4aKcJhP8tX2zWHYSUMMk=;ubVTvwqCsAiou0uM0EKLvg=="
+secured: "3cf1cuKiOt3Wn+bYojxZcd4HrKTUpO35UHSEMXQZK21wi3yggnqu9asGSSdhmB1G2Wb3+5QG8s++tF7dS3WT7oTiRg4I+zW+sxM3y+AmKad7pKY+vTMDGcVWG9Rh8L4Ow+c6qUw2dA6/CJ5maNlpPuBz4QkcJOmNhthHJVrp3+1CCd7nr/RPYpn6LEQOQYEgSywUnlWHil087EaGIwJPZ581ChTAafZA02xlIlecdlNQi+42nHSut2g49OfpE7ZGWqqeJ0OomtpZYvW4jdh6EH5FwsaHowOybk3NUqmf12cyNfFTV+53C7s5HUZnQAnSc3ZbwbDpoWR0V0nv6OezJev6xEblef0rzUNybvSmyHs=;6Ya2sGmEs8QHYWp/ZsmNZQ=="
 ---
 

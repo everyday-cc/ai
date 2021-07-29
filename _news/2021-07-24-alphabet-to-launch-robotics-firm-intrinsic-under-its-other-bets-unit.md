@@ -3,10 +3,8 @@ category: news
 title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
 excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ..."
 publishedDateTime: 2021-07-23T17:10:00Z
-originalUrl: "https://www.reuters.com/article/us-alphabet-other-bets-intrinsic-idUSKBN2ET1G0"
-webUrl: "https://www.reuters.com/article/us-alphabet-other-bets-intrinsic-idUSKBN2ET1G0"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2ET1G0"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET1G0"
+originalUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
+webUrl: "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/"
 type: article
 
 provider:
@@ -23,11 +21,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ"
-    width: 817
-    height: 545
+  - url: "https://www.reuters.com/resizer/RkqwUqV_pSTg-8Gt3pKHghTeZuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2DMPV6O5NJERDO3F7MHS7QIA4.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
-secured: "VshD14BuLOLxLeIyP2N8FfDZFkE9dnE2mLDasqxFw3Nn7Ts2+a/obZ19dKE07XXyyiHXm+e9MU4HkRz0gTpSMrCT28FgUl8kFZWHQagM75jIVbzwaGVOM6FVbKAoxPkpKmRLK8vqHZxV+IcaFjuP05ElHGaQZvPG3t2W32mdY1B2PDdoSH6KWCKt2H6j51F+eUCaLUgpcKCltmj3gBU4idP5WyIRKn+FihePoHbvbzKv4BtebVV3XsZ4dsq9nKBrltWWoCbtbK6+NhrUbXZJ0NBAheMvIii4h1F1wbhTaacaNcMGpd3IrTV1AQUvm35knXShOGKwipJlFOrnOQsy4Nf6ZBYPExeQHLIuZe3y+I4=;P2G9cw4nBngFinnWZpPDvQ=="
+secured: "eNFaG/QQxFMaAGLe1242ceuClKXpbTC3DgGDc2yriy4VAOI9Z5knVAGZPuY2GmfYsqWxtQg3BbMeTVb4XftmK+m7Y8Zv8jGLSEAUZf2q4oorDpXIoF3Cfi5xiqPuAClCBj5HTAaKluOUxDZ3hI2bDWlcqr0PIXIEJ929yTjnMp/v81SJfXBcBYHVJLhmj9ucHVFufqRKW04hl587sy+U2dfJMrNZTSoD0meqZLmM1cFhx2x2Z57I/BwoV16ayvvLgYF34mzbBJCb3+hOvWGAyZ/vkBI/r6oxeuZVan18fcVJe7qALg3rQ3+gP2MzDBwz7CuT9FklhPssIN+ZHx3vqt60na7mOaEcKQRoaDDk6Dc=;jsPG5N16cGo+DUH2NBiTsw=="
 ---
 

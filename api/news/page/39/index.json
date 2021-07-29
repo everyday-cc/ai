@@ -2,6 +2,40 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-06-29-wekaio-announces-support-of-nvidias-turbocharged-hgx-ai-supercomputing-platform.md",
+      "title": "WekaIO Announces Support of NVIDIA's Turbocharged HGX™ AI Supercomputing Platform",
+      "excerpt": "WekaIO™ (Weka), one of the fastest-growing data platforms for artificial intelligence/machine learning (AI/ML), life sciences research, and high-performance computing (HPC), today announced the WekaFS™ Limitless Data Platform's ability to leverage the newly-turbocharged NVIDIA HGX™ AI supercomputing platform to deliver the best performance and throughput required of today's most-demanding enterprise workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/29/9400007.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/29/9400007.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids.md",
       "title": "Amazon introduces Reading Sidekick, a kids reading companion for Alexa, and Voice Profiles for Kids",
       "excerpt": "Amazon today announced a new feature that will turn Alexa into a reading companion for children as well as new support for Alexa Voice Profiles for Kids, which personalize the child’s Alexa experience across all Echo devices in the household.",
@@ -1174,50 +1208,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who.md",
-      "title": "Artificial Intelligence Hold Potential for Improving Delivery of Healthcare Worldwide: WHO",
-      "excerpt": "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medcom.id/english/tech/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
-      "originalUrl": "https://www.medcom.id/english/tech/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.medcom.id/dynamic/content/2021/06/29/1293880/u0zwSUQsoA.jpg?w=640",
-          "width": 577,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.medcom.id/amp/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
-      "cdnAmpWebUrl": "https://m-medcom-id.cdn.ampproject.org/c/s/m.medcom.id/amp/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
-      "publishedDateTime": "2021-06-29T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "medcom",
-        "domain": "medcom.id",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

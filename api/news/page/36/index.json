@@ -2,6 +2,57 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-07-01-business-implications-of-ai-within-tax-accounting.md",
+      "title": "Business implications of AI within tax & accounting",
+      "excerpt": "With AI promising the greatest transformation in many industries, including tax & accounting, we need to begin asking what the implications of this will be.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/transactional/business-implications-ai-within-tax-accounting-2021-06-30/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/business-implications-ai-within-tax-accounting-2021-06-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/d_9infXWdH0ZCGL5iNfPeS_tdG0=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SYAAICV2MNP5XCQCEAKLU7LCQA.jpg",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-dells-199-ultrasharp-4k-webcam-has-ai-on-boardbut-no-microphone.md",
       "title": "Dell’s $199 UltraSharp 4K webcam has AI on board—but no microphone",
       "excerpt": "Dell's new UltraSharp camera takes aim at Logitech's high-end Brio with the same $199 price along with 4K resolution and Windows Hello-compatible infrared sensor. But despite sharing a price tag and many of the same specifications,",
@@ -1145,58 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper.md",
-      "title": "This AI Just Evolved From Companion Robot To Home-Based Physician Helper",
-      "excerpt": "The Israeli startup has developed the AI-based, award-winning proactive social robot ElliQ which has spent over 30,000 days in older adults’ homes over the past two years. Now ElliQ will help increase patient engagement while offering primary care providers continuous actionable data and insights for early detection and intervention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbe5bce16dc1909fa61bcd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3292%26cropY1%3D171%26cropY2%3D2022",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/amp/",
-      "publishedDateTime": "2021-06-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

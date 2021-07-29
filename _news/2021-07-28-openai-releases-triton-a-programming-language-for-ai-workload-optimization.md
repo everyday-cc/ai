@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/28/openai-releases-triton-a-programm
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/28/openai-releases-triton-a-programming-language-for-ai-workload-optimization/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 101
 published: true
 
 provider:

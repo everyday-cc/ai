@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-07-14-3-top-artificial-intelligence-stocks-to-buy-in-july.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in July",
+      "excerpt": "Artificial intelligence software can automate these new processes, and help companies keep up with the fast-changing world we live in. As a result, tech researcher Gartner expects global spending on \"hyperautomation\" (read: AI software and systems) to reach nearly $600 billion in 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
+      "originalUrl": "https://www.fool.com/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F633460%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
+      "publishedDateTime": "2021-07-14T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera.md",
       "title": "Toyota Self-Driving Car Unit Agrees to Buy Map-Maker Carmera",
       "excerpt": "Woven Planet Holdings, the Toyota subsidiary focused on autonomous technology, on Wednesday said it agreed to acquire Carmera Inc., a U.S.-based AI company that makes real-time high-definition maps. \"HD maps power a lot of advanced safety and automobile driving technology products that we'll see in the future,",
@@ -1099,58 +1150,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year.md",
-      "title": "Icertis Recognized as the Winner of 2021 Microsoft AI Partner of the Year",
-      "excerpt": "First and Only Contract Lifecycle Management Company Recognized by Microsoft  for AI Leadership and as a Global ISV Partner of the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/icertis-recognized-as-the-winner-of-2021-microsoft-ai-partner-of-the-year-1030605015",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1515204/icertis_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

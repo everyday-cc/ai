@@ -2,6 +2,61 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-15-artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2027",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-discord-steps-up-anti-harassment-efforts-with-new-ai-acquisition.md",
       "title": "Discord steps up anti-harassment efforts with new AI acquisition",
       "excerpt": "Discord, the online voice and text messaging platform, has purchased the AI anti-harassment company Sentropy in an effort to increase safety on its platform. READ MORE: ‘Sea Of",
@@ -1102,57 +1157,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-3-top-artificial-intelligence-stocks-to-buy-in-july.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in July",
-      "excerpt": "Artificial intelligence software can automate these new processes, and help companies keep up with the fast-changing world we live in. As a result, tech researcher Gartner expects global spending on \"hyperautomation\" (read: AI software and systems) to reach nearly $600 billion in 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
-      "originalUrl": "https://www.fool.com/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F633460%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/14/top-artificial-intelligence-stocks-to-buy-in-july/",
-      "publishedDateTime": "2021-07-14T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

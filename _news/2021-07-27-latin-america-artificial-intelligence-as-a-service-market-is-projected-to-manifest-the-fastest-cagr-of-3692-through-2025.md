@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 40.48% through 2027"
+    excerpt: "Artificial intelligence in the healthcare market is projected to progress at 40.48% of CAGR during the forecasting period 2019-2027. The major factors driving the global AI in the healthcare market are the increasing usage of big data,"
+    publishedDateTime: 2021-07-29T04:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4048-through-2027-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Europe Artificial Intelligence as a Service Market is projected to manifest the fastest CAGR of 38.48% through 2027"
     excerpt: "Europe Artificial Intelligence as a Service market to show an upward trend in terms of revenue and grow at a CAGR of 38.48% in the forecasting years 2019-2027. The UK, France, Germany, Spain, Russia,"
     publishedDateTime: 2021-07-27T11:16:00Z

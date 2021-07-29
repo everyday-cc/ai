@@ -140,6 +140,40 @@
       ]
     },
     {
+      "path": "_news/2021-07-16-learning-aids-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data.md",
+      "title": "Learning aids: Skoltech method helps train computer vision algorithms on limited data",
+      "excerpt": "Researchers from Skoltech have found a way to help computer vision algorithms process satellite images of the Earth more accurately, even with minimal data for training. This will make various remote sensing tasks easier for machines and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/470834",
+      "originalUrl": "https://www.eurekalert.org/news-releases/470834",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-black-teen-barred-from-skating-rink-after-facial-recognition-camera-misidentified-her.md",
       "title": "Black Teen Barred From Skating Rink After Facial Recognition Camera Misidentified Her",
       "excerpt": "A Black teenager's parents are considering taking legal action after she was barred from a skating rink because the venue's facial recognition technology misidentified her. Juliea Robinson dropped off her daughter,",
@@ -1329,40 +1363,6 @@
       "provider": {
         "name": "CPO Magazine",
         "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-aria-exchange-announces-exclusive-fan-engagement-nft-partnership-with-the-major-league-baseball-players-alumni-association.md",
-      "title": "ARIA Exchange Announces Exclusive Fan Engagement NFT Partnership with the Major League Baseball Players Alumni Association",
-      "excerpt": "ARIA Exchange is setting a new standard for NFTs by leveraging advanced augmented reality, triggered by patent-pending facial, image and object recognition that activates experiences from any ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210708005245/en/ARIA-Exchange-Announces-Exclusive-Fan-Engagement-NFT-Partnership-with-the-Major-League-Baseball-Players-Alumni-Association",
-      "originalUrl": "https://www.businesswire.com/news/home/20210708005245/en/ARIA-Exchange-Announces-Exclusive-Fan-Engagement-NFT-Partnership-with-the-Major-League-Baseball-Players-Alumni-Association",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

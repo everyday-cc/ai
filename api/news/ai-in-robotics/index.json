@@ -738,17 +738,17 @@
       "title": "Alphabet to launch robotics firm Intrinsic under its other bets unit",
       "excerpt": "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-alphabet-other-bets-intrinsic-idUSKBN2ET1G0",
-      "originalUrl": "https://www.reuters.com/article/us-alphabet-other-bets-intrinsic-idUSKBN2ET1G0",
+      "webUrl": "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/",
+      "originalUrl": "https://www.reuters.com/technology/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ",
-          "width": 817,
-          "height": 545,
+          "url": "https://www.reuters.com/resizer/RkqwUqV_pSTg-8Gt3pKHghTeZuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2DMPV6O5NJERDO3F7MHS7QIA4.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -756,8 +756,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2ET1G0",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2ET1G0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-07-23T10:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -885,25 +885,43 @@
     {
       "path": "_news/2021-07-23-alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit.md",
       "title": "Alphabet to launch robotics firm Intrinsic under its other bets unit",
-      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. July 23 (Reuters) - Alphabet Inc's ...",
+      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and advertising business, Google in 2015 established Alphabet as ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23",
-      "originalUrl": "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23",
+      "webUrl": "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212",
+      "originalUrl": "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL4N2OZ212",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL4N2OZ212",
       "publishedDateTime": "2021-07-23T06:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

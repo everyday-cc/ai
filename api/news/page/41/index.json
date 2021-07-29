@@ -2,6 +2,49 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-06-28-ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld.md",
+      "title": "IBM lands Verizon, Telefonica pacts as hybrid cloud, edge computing, 5G meld",
+      "excerpt": "IBM launches AutoSQL, Watson Orchestrate, CodeNet enterprise AI tools at Think IBM buys Turbonomic to build out AIOps tools IBM and Verizon already collaborating on 5G enterprise use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
+      "publishedDateTime": "2021-06-28T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-enterprise-ai-startup-beyondminds-certified-by-top-international-security-standard.md",
       "title": "Enterprise AI Startup BeyondMinds Certified by Top International Security Standard",
       "excerpt": "BeyondMinds, an enterprise AI software provider delivering fully managed, production-grade AI solutions on top of its turnkey AI platform, today announced it has earned ISO 27001:2013. The certification,",
@@ -1019,58 +1062,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028.md",
-      "title": "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2028",
-      "excerpt": "Selbyville, Delaware According to the research report titled 'GLOBAL Facial Recognition Market 2019-2028', available with Market Study Report LLC, global facial recognition market is projected to expand at 14.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028-2021-06-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028-2021-06-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 327,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-27T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

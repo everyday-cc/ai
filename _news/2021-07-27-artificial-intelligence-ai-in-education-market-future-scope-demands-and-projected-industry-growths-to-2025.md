@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-future-scope-demands-and-projected-industry-growths-to-2025-2021-07-27"
 type: article
 quality: 80
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Sports Market 2021-2027 - Data Analysis, Growth Factors, Industry Outlook And Future Prospects | By ARC"
+    excerpt: "The market for artificial intelligence in sports is expected to grow at a CAGR of around 32.8% from 2020 to 2027 and expected to reach the market value of around US$ 3,555.9 Mn by 2027. The global Artificial Intelligence in Sports Market research report is inclusive of detailed and productive qualitative and quantitative information,"
+    publishedDateTime: 2021-07-29T04:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-2021-2027---data-analysis-growth-factors-industry-outlook-and-future-prospects-by-arc-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
