@@ -1,17 +1,19 @@
 ---
 category: news
 title: "eBay taps computer vision to transform online shopping"
-excerpt: "Bay chief AI officer details how the shopping site's computer vision is driving customer satisfaction with image based search.Read MoreRead"
-publishedDateTime: 2021-07-15T20:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ebay-taps-computer-vision-to-transform-online-shopping-10338013"
-webUrl: "https://markets.businessinsider.com/news/stocks/ebay-taps-computer-vision-to-transform-online-shopping-10338013"
+excerpt: "Bay chief AI officer details how the shopping site's computer vision is driving customer satisfaction with image-based search."
+publishedDateTime: 2021-07-16T01:20:00Z
+originalUrl: "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/"
+webUrl: "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/"
+ampWebUrl: "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,6 +21,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "/lNBEP2zieZLkvh4O7nalKefBR4deUeAAFoD26CdT09/ODtk6zg3xYFHIJIvLVful3Ap6OCBI/aIlxOG02xA/iu16m+2NHfyTQOimxEmoNHDD3Vtuut4pk0nNcNvx+ZVs5Z3PeyZO3SC96n9/XTWbuM3MbikLrsFY0dxbMiGEFXvmGzm1Kn+rL4SDmzF+7raSyVLt8S7uTrEFJhhnZv8IyjugTito7SMXctwSnEwfjgXgmkwfH2DIJaV9ZCTnrXi3/xoj86NH66yPZZBYjDz1NS2BLtQW+0+evyM2Tsj0DRI7GTab69z6TdJJb7wRPXovI01/DM9N70RLf9tDx7uWQGV512U2txuPXYE0+2GRjA=;76Oh2ryE2pHfN1yujwp1iw=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/07/ebay.png?w=1200&strip=all"
+    width: 1200
+    height: 603
+    isCached: true
+
+secured: "e4wfex6GXbPd16ex/9HX62fIwUMhJmMquVRNT5xloTU/zACej3R/ZPkwh7plHaFWGFbGsVMv2zz3ot9pZZaKpy8XCnwfQ16EAaAMfLjV+UmQJ1ey7FaOsT2t+/QXLi/6F14d4wBopBGFTJNUpjjKXStmrn09de8kVr7ilBx3ij/vIHoTRhNd+EP7sCrCtf+TJZQTD8v1Z3RL8+FU0HtL6VWlT2zE8Q0InFpNZ/5cDlxvY51EVZHOARPPws4HqnEW2pcNrCfNO4FZwvJ9L8Dx6Pc+WtWIznDeyY7b+c4HpHAvkdY9cWSAp0yhmxuWZNuNIKvMpvXFSNlzhzYLUXApiz/8hYyHEOE4Q2eL+PS8hBw=;vaL0xpXAtxcUGbNrIh3iqQ=="
 ---
 

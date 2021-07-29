@@ -1127,6 +1127,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-28-chipmaker-ampere-to-acquire-ai-startup-onspecta.md",
+      "title": "Chipmaker Ampere to acquire AI startup OnSpecta",
+      "excerpt": "Chipmaker Ampere on Wednesday announced its plan to acquire OnSpecta, a startup whose software accelerates AI inference workloads in the cloud and the edge. The terms of the deal were not disclosed. OnSpecta,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2026/index.php/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2026/index.php/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2026/index.php/google-amp/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2026/index.php/google-amp/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
+      "publishedDateTime": "2021-07-27T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-data-brief-only-12-pct-of-healthcare-firms-use-ai-to-fight-fraud-waste-abuse.md",
       "title": "Data Brief: Only 12 Pct Of Healthcare Firms Use AI To Fight Fraud, Waste, Abuse",
       "excerpt": "More fraud and abuse in healthcare billing scams can fail thanks to artificial intelligence (AI) and its ability to see red flags and stop this activity.",
@@ -1167,59 +1210,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-cassie-the-bipedal-robot-uses-machine-learning-to-complete-a-5km-jog.md",
-      "title": "Cassie the bipedal robot uses machine learning to complete a 5km jog",
-      "excerpt": "Four years is a long time in robotics, especially so for a bipedal robot developed at Oregon State University (OSU) named Cassie. Dreamt up as an agile machine to carry packages from delivery vans to doorsteps,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/",
-      "originalUrl": "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/b8df8e2/2147483647/strip/true/crop/2048x1365+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fac%2Fe3%2Fc5501d6e4aee82bae15cb06f67ed%2Fcassie-5k.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/?amp=true",
-      "publishedDateTime": "2021-07-27T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

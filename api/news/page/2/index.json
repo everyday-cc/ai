@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-28-cassie-the-bipedal-robot-uses-machine-learning-to-complete-a-5km-jog.md",
+      "title": "Cassie the bipedal robot uses machine learning to complete a 5km jog",
+      "excerpt": "Four years is a long time in robotics, especially so for a bipedal robot developed at Oregon State University (OSU) named Cassie. Dreamt up as an agile machine to carry packages from delivery vans to doorsteps,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/",
+      "originalUrl": "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/b8df8e2/2147483647/strip/true/crop/2048x1365+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fac%2Fe3%2Fc5501d6e4aee82bae15cb06f67ed%2Fcassie-5k.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/?amp=true",
+      "publishedDateTime": "2021-07-27T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-ai-powered-beach-cleanup-robots.md",
       "title": "AI-Powered Beach Cleanup Robots",
       "excerpt": "It’s estimated that more than 4.5-trillion cigarette butts are littered across the environment around the world, which is something the",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.trendhunter.com/trends/robotic-beach-cleaner",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -96,7 +149,7 @@
       "originalUrl": "https://www.networkworld.com/article/3626486/ibm-upgrades-its-big-iron-os-for-better-cloud-security-and-ai-support.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -931,7 +984,7 @@
       "originalUrl": "https://techxplore.com/news/2021-07-malware-ai-neural-networks.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -968,7 +1021,7 @@
     {
       "path": "_news/2021-07-27-farm-tech-startup-iron-ox-hires-david-silver-the-companys-first-director-of-robotics-as-company-prepares-for-hypergrowth.md",
       "title": "Farm Tech Startup Iron Ox Hires David Silver, The Company's First Director of Robotics, as Company Prepares for Hypergrowth",
-      "excerpt": "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Director of Robotics this week as the company accelerates growth and expands its commercial footprint.",
+      "excerpt": "Building the bench Silver was most recently a Tech Lead & Manager at Waymo, the self-driving ... with deep expertise in robotics and artificial intelligence, and a vision to solve global ...",
       "sourceUrl": null,
       "webUrl": "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876",
       "originalUrl": "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876",
@@ -990,7 +1043,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T05:47:00-07:00",
+      "publishedDateTime": "2021-07-27T05:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1170,57 +1223,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-the-effects-of-ai-on-child-psychology.md",
-      "title": "The Effects Of AI On Child Psychology",
-      "excerpt": "AI enables us to connect to loved ones, near and far. And from this connection, we see how child psychology can be positively impacted by those interactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/the-effects-of-ai-on-child-psychology/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/the-effects-of-ai-on-child-psychology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60febacf0318c05ea992254d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/the-effects-of-ai-on-child-psychology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/27/the-effects-of-ai-on-child-psychology/amp/",
-      "publishedDateTime": "2021-07-27T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

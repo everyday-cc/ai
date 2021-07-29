@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-tran
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/"
 type: article
 quality: 74
-heat: 77
+heat: 74
 published: true
 
 provider:

@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-07-14-cape-analytics-raises-44m-to-automate-property-inspections-with-ai.md",
+      "title": "Cape Analytics raises $44M to automate property inspections with AI",
+      "excerpt": "Cape Analytics, a company meshing AI with aerial imagery to power property insurance inspections, has raised $44 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ddd-e1626271091314.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/",
+      "publishedDateTime": "2021-07-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-microsoft-azure-receives-new-features-and-enhanced-migration-services.md",
       "title": "Microsoft Azure receives new features and enhanced migration services",
       "excerpt": "Microsoft announced a host of enhanced products across Azure, including the Azure Migration and Modernization Program.",
@@ -58,8 +109,8 @@
       "title": "Superficial Radiation Therapy System Market | Artificial Intelligence to Drive More Opportunities",
       "excerpt": "Jul 14, 2021 (MARKITWIRED via COMTEX) -- Major superficial radiation therapy system market players are leveraging patient and healthcare professional bias towards minimally invasive therapies for ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/superficial-radiation-therapy-system-market-artificial-intelligence-to-drive-more-opportunities-2021-07-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/superficial-radiation-therapy-system-market-artificial-intelligence-to-drive-more-opportunities-2021-07-14",
+      "webUrl": "https://www.marketwatch.com/press-release/superficial-radiation-therapy-system-market-artificial-intelligence-to-drive-more-opportunities-2021-07-14?dist=bigcharts&tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/superficial-radiation-therapy-system-market-artificial-intelligence-to-drive-more-opportunities-2021-07-14?dist=bigcharts&tesla=y",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1106,49 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment.md",
-      "title": "Seedtag’s Computer Vision Capabilities Boost Olympics Brand Sponsorships Within Digital Environment",
-      "excerpt": "Seedtag, the leader in Contextual advertising in EMEA and LATAM, has today announced that it has developed specific computer vision capabilities to detect sports and help advertisers harness the power of visual media throughout the Tokyo 2020 Olympic Games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "originalUrl": "https://www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.exchangewire.com/wp-content/uploads/2021/04/seedtag-logo-2021.png",
-          "width": 271,
-          "height": 271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "cdnAmpWebUrl": "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
-      "publishedDateTime": "2021-07-13T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "exchangewire.com",
-        "domain": "exchangewire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

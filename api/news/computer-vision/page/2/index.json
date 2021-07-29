@@ -2,12 +2,12 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-07-16-powerful-vehicle-intelligence-with-virtually-unlimited-scalability.md",
-      "title": "Powerful Vehicle Intelligence with Virtually Unlimited Scalability",
-      "excerpt": "PlateSmart Technologies, the pioneers of software-only automatic license plate recognition (ALPR) technology, has introduced a new ALPR and vehicle intelligence platform with almost",
+      "path": "_news/2021-07-16-partnership-of-the-caribbean-securing-the-west-indies.md",
+      "title": "Partnership of the Caribbean: Securing the West Indies",
+      "excerpt": "According to the Caribbean Tourism Organization, 2019 saw 32 million international tourists descend upon the region. Those millions of tourists bring with them",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/powerful-vehicle-intelligence-with-virtually-unlimited-scalability/article_5b2ede59-8da3-5bf5-9e23-490c004922fb.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/powerful-vehicle-intelligence-with-virtually-unlimited-scalability/article_5b2ede59-8da3-5bf5-9e23-490c004922fb.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/partnership-of-the-caribbean-securing-the-west-indies/article_990f045c-1b28-5876-855a-a8f6e283d488.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/partnership-of-the-caribbean-securing-the-west-indies/article_990f045c-1b28-5876-855a-a8f6e283d488.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -45,36 +45,36 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-ebay-taps-computer-vision-to-transform-online-shopping.md",
-      "title": "eBay taps computer vision to transform online shopping",
-      "excerpt": "Bay chief AI officer details how the shopping site's computer vision is driving customer satisfaction with image based search.Read MoreRead",
+      "path": "_news/2021-07-16-powerful-vehicle-intelligence-with-virtually-unlimited-scalability.md",
+      "title": "Powerful Vehicle Intelligence with Virtually Unlimited Scalability",
+      "excerpt": "PlateSmart Technologies, the pioneers of software-only automatic license plate recognition (ALPR) technology, has introduced a new ALPR and vehicle intelligence platform with almost",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ebay-taps-computer-vision-to-transform-online-shopping-10338013",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ebay-taps-computer-vision-to-transform-online-shopping-10338013",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/powerful-vehicle-intelligence-with-virtually-unlimited-scalability/article_5b2ede59-8da3-5bf5-9e23-490c004922fb.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/powerful-vehicle-intelligence-with-virtually-unlimited-scalability/article_5b2ede59-8da3-5bf5-9e23-490c004922fb.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T13:20:00-07:00",
+      "publishedDateTime": "2021-07-15T13:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

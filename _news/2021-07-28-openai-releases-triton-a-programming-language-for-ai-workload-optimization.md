@@ -40,7 +40,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 39
+    quality: 56
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/openai.png"
         width: 718

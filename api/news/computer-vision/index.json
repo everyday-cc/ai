@@ -463,7 +463,7 @@
       "originalUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1412,21 +1412,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-partnership-of-the-caribbean-securing-the-west-indies.md",
-      "title": "Partnership of the Caribbean: Securing the West Indies",
-      "excerpt": "According to the Caribbean Tourism Organization, 2019 saw 32 million international tourists descend upon the region. Those millions of tourists bring with them",
+      "path": "_news/2021-07-16-ebay-taps-computer-vision-to-transform-online-shopping.md",
+      "title": "eBay taps computer vision to transform online shopping",
+      "excerpt": "Bay chief AI officer details how the shopping site's computer vision is driving customer satisfaction with image-based search.",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/partnership-of-the-caribbean-securing-the-west-indies/article_990f045c-1b28-5876-855a-a8f6e283d488.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/partnership-of-the-caribbean-securing-the-west-indies/article_990f045c-1b28-5876-855a-a8f6e283d488.html",
+      "webUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
+      "originalUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ebay.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1434,14 +1434,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T13:30:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
+      "publishedDateTime": "2021-07-15T18:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

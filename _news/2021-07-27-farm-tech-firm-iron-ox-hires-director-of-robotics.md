@@ -27,8 +27,8 @@ images:
 
 related:
   - title: "Farm Tech Startup Iron Ox Hires David Silver, The Company's First Director of Robotics, as Company Prepares for Hypergrowth"
-    excerpt: "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Director of Robotics this week as the company accelerates growth and expands its commercial footprint."
-    publishedDateTime: 2021-07-27T12:47:00Z
+    excerpt: "Building the bench Silver was most recently a Tech Lead & Manager at Waymo, the self-driving ... with deep expertise in robotics and artificial intelligence, and a vision to solve global ..."
+    publishedDateTime: 2021-07-27T12:46:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876"
     type: article
     provider:

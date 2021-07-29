@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-26-does-your-project-need-artificial-intelligence.md",
+      "title": "Does Your Project Need Artificial Intelligence?",
+      "excerpt": "Implementing AI technologies can benefit your business so long as you clearly understand what values they bring and set realistic goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60facbc267f6107b328f0946%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-in-corporate-transformation-learning-is-a-leadership-imperative.md",
       "title": "In Corporate Transformation, Learning Is A Leadership Imperative",
       "excerpt": "And how can they prioritize this learning and skills development for themselves and their teams, even as they manage the demands of their current strategies and operations? In 2020, Daimler Corporate Academy led a program team comprised of internal and external experts in executive education (including ESMT Berlin),",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -298,49 +351,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-26-gpu-market-size-is-projected-to-reach-at-usd-20085-billion-by-2027.md",
-      "title": "GPU MARKET SIZE IS PROJECTED TO REACH AT USD 200.85 BILLION BY 2027",
-      "excerpt": "The global GPU market size was valued at 19 75 billion in 2019 and is projected to reach at 200 85 billion by 2027 growing at a CAGR of 33 6 from 2020 to 2027 Graphics processing unit which is",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027",
-      "originalUrl": "https://www.openpr.com/news/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U726795358_g.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2336705/gpu-market-size-is-projected-to-reach-at-usd-200-85-billion-by-2027",
-      "publishedDateTime": "2021-07-26T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-26-galaxy-s10-5g-update-reportedly-breaks-face-recognition.md",
       "title": "Galaxy S10 5G update reportedly breaks face recognition",
       "excerpt": "Samsung has been making good in its promise to roll out Android updates more regularly, even if a bit belatedly. Part of that involves improving its process for integrating and testing those",
@@ -349,7 +359,7 @@
       "originalUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 109,
       "tags": null,
       "images": [
         {

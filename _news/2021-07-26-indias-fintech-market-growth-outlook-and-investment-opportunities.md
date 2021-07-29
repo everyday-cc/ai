@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Overvalued Growth Stocks to Avoid as Market Conditions Get More Bearish | Fintech Zoom"
-    excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
-    publishedDateTime: 2021-07-24T05:39:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/5-overvalued-growth-stocks-to-avoid-as-market-conditions-get-more-bearish-fintech-zoom/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 15
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/shutterstock_590795564-scaled.jpg"
-        width: 2560
-        height: 1700
-        isCached: true
   - title: "HKU FinTech Indices reveal businesses’ optimism on post-pandemic performance amid uncertainty on regulations and investment"
     excerpt: "The HKU FinTech Index Series Project published the third-year Hong Kong FinTech Growth Index (FGI) and the 2021Q1 Hong Kong FinTech Buzz Index (FBI) to gauge local FinTech companies’ outlook and the general sentiment on the sector as reported by the local press."
     publishedDateTime: 2021-07-27T05:01:00Z

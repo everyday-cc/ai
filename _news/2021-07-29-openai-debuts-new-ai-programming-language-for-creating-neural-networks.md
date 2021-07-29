@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-28T19:26:00Z
 originalUrl: "https://siliconangle.com/2021/07/28/openai-debuts-new-ai-programming-language-creating-neural-networks/"
 webUrl: "https://siliconangle.com/2021/07/28/openai-debuts-new-ai-programming-language-creating-neural-networks/"
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/openai.png"
