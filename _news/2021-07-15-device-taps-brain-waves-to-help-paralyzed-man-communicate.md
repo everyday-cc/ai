@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Device taps brain waves to help paralyzed man communicate"
-excerpt: "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a"
-publishedDateTime: 2021-07-14T23:13:00Z
-originalUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
-webUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1424"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424"
+title: "Device Taps Brain Waves to Help Paralyzed Man Communicate"
+excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
+publishedDateTime: 2021-07-14T21:29:00Z
+originalUrl: "https://www.usnews.com/news/health-news/articles/2021-07-14/device-taps-brain-waves-to-help-paralyzed-man-communicate"
+webUrl: "https://www.usnews.com/news/health-news/articles/2021-07-14/device-taps-brain-waves-to-help-paralyzed-man-communicate"
 type: article
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg"
-    width: 2500
-    height: 1669
-    isCached: true
-
-secured: "cDqWKCtkK6hHZw7ad+1lo3G55Rxsg80EsTFu9nKZDM3XqCHfBoU4vCuVoQulugk6Z73h1GNnUM36naKfISYXEWBJMj/wERpG8OKmBnEkdrwsqQ6e9zM5+lquIqebkr7Hz0J267ge0LbqCmCtWLkvCFtvnbh4C4dc27szLLkAD1+/k5bQhZKcolNRYwhbncvf+FRvyDwEilRoTMkj8rO0oA3VxaVYBfS+zL86H/9OdtAvgKqSRAsPjTB/iGKOwWBH0jeItNV1fieYoNWKcyVhfFg8zxGKQ8bRTWvNl00lqUI8vYE/bS8GCtU4/Lg9L4bDekCnyhNSghdvprWImb1kP8EwJtSze4O+UnSlW/x4SU2+jchmtpC7GL/MCCRaixlYtMBNMJMoD6yKqsaKHzbgfHhVSRzEoy5l/BSrqk4s5dT30MvBGyPILvfNEm7NaqM5747vPkOszuF6uvVs0mlkqGwH11Qr5mv+YV7vxqJvRNnagy8jOhBlUpsQkEwsCPYxsWN6tfdfYLdn9jhe5JBAqQ==;HvnoQoD0RqjOhsDScNOwkg=="
+secured: "vadbOKe4z+3BIY2/cai7/0as1hZtx0drr4ZZu2bP8gvfiDOnCEcZSFSfUJS8lAbEfeKlDQgVxuX/6IPiOdX9+PiOTx6A1uih8p4YdOUIm38Pd6au6zuKyW4bZhE0Ji4bbBm6ucFhDcwjp4oYZJCyS0O3h4xm889/xu/kANz7G7POVyyRjskUiTWsE2E9DJsCGCN3IV9ykHMax7FusnfzhgxkLyocOfo24aHFQW2d+hEPm4Qtb6cs/u7PhdHn7zQcph4vsWlUEHvGRFaXyjFJFSdD9DaDBv9RTnbA5Aa3qTDkJsnMQlm/Enb8iPmz7kLTishKZTPeygBVAKeLW/w5T5lT0izT2JUmCa87dteT6ow=;xJWllXHeXr9UllAn1hC7Cw=="
 ---
 

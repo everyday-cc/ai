@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 660
         isCached: true
+  - title: "Beijing permits self-driving vehicle testing on expressways"
+    excerpt: "Driverless cars will soon take to expressways for testing in the Chinese capital Beijing as the municipal authority has approved t"
+    publishedDateTime: 2021-07-29T20:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270498693/beijing-permits-self-driving-vehicle-testing-on-expressways"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "WnA1y5980DMjmRBq68oWCIF73+RgUJydTuf92ggvZJMDX9yO6koIIo+RLzd9mlhPLdJz75zVDkYtAPP6H3tV6Ws4C3PvQ6U1R+T78ztWEyBQJbobbHMYTJv+rlUcwXRbpPwVxMz3uiReH41XtZgGULwxMGbVMZW13XpuCADCmvtju9MXb6XEitijc7Jd5z3cCore9cMQ27ctmPyJtRVeBzmJz1h41VvXmOyRLC+wA7OUwS/mQNiQEpdJ33qQDMEasy03h/83F92hf/+y7GNCAYMgZKsfI8SjUru2KFJAjYR5vA+UlLuvJyYey9GPmq9uiAn7Gy9v9tvpw0ZMaC0Xlfd73wtM/rZZJGSlEI/XrRHiun7cXW/SYpnVR+iSCKIvBYv2gCR3rbQ9F6MTp6PfkWjSqMTiyLTwhX+GKW/9yvEpEfzZiNgnJBhRYlaKhHYysdFyegKADkvMBNYNFdQsKbePlMbCawS0fESNdkmL35zdZM9WzxmiR9Iu0ZwlKErYpLwOL775/UgGO9nUN+ZkrQ==;ZImRqgJGCIffSIDUNS0o5w=="
 ---

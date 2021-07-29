@@ -1,20 +1,20 @@
 ---
 category: news
-title: "ON Semiconductor Intelligent Sensing Technologies Enable 360 Vision in AutoX Gen5 Self-Driving Platform"
-excerpt: "ON Semiconductor (Nasdaq: ON), today announced that its image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform. Revealed at the World Artificial Intelligence Conference,"
+title: "ON Semiconductor Intelligent Sensing Technologies Enable 360° Vision in AutoX Gen5 Self-Driving Platform"
+excerpt: "ON Semiconductor's image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform."
 publishedDateTime: 2021-07-14T23:00:00Z
-originalUrl: "https://www.financialbuzz.com/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/"
-webUrl: "https://www.financialbuzz.com/on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform/"
+originalUrl: "https://www.businesswire.com/news/home/20210714005927/en/"
+webUrl: "https://www.businesswire.com/news/home/20210714005927/en/"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "5Oh5sbF2d4IG8pqR1C5x0XcDd4aibth8fRNz5zNTb9XfXZt1TWJRotbeiNwCDZH45QJFQB+ogCvUcpVctbHZIomUqSA9MCOiX76og3Cj7LU16/sHJ4xzdWZ1eb5tpPoB2+RibSetCK1tsMWNFTwGvT7Oyd/ecOvNoy5MgB6P06h1HMUPMm/c2Cbj88yBxtUcG1EMvIYb6Yn3l3VHWt52h5hL3dCjNEuPP2l8GxVlEBpI3rgtsU80IZffRUK42eRhs1JdCpcx+Ce99UiCC/iWzxa/zMu44AqAkEK3f9Wp7zBSXGyHFGxgtq2rldpG7zrIBMbUjkojUhUyTcDUt4lmd8kXURnqA166kOargof8g8M=;zrmzriUjUKyNU+vusgiDaA=="
+secured: "/reo0GH2kTXDu19pYlhVl4nhKRlkMnD0u4Guo8TpEaClxN6in/G1FS+vq+a/I/TncENhIfHrdcFf1ULf1vxI2nYrsfcj0kYqqgasyrY9OQFK23ZntzJb+Ou+o/dBrG6pkUnfenx66JB/oBnuDqHZdSVqW/UAFanVVGWH3GfP9wIueovxlMMc6ep8Zv8Mf9wPIstnnzYwprtogIqicLEcpLA1JbEu7/GqEAZQWd8nEEsU2ZzRfHsxSJc2tC1+azoG2OqYFlG8APTI35yhDyjXpqAyY1L+LIov5infGI+iTKzaF5hym10VCaZNzy+R6hYG4Chtfu40AY4TrLwK3AgvO2eJ5qn4zjaNbVpJGNyzLT8=;AqeNh5OzP2+8O9n7ylzccA=="
 ---
 

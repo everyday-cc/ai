@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-
 webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-from-riding-in-ai-self-driving-cars-for-the-rest-of-your-entire-life/"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://img.overdriveonline.com/files/base/randallreilly/all/image/2021/07/mack_no_driver_backward.61007e987cbad.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 660
+        isCached: true
+  - title: "Beijing permits self-driving vehicle testing on expressways"
+    excerpt: "Driverless cars will soon take to expressways for testing in the Chinese capital Beijing as the municipal authority has approved t"
+    publishedDateTime: 2021-07-29T20:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270498693/beijing-permits-self-driving-vehicle-testing-on-expressways"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "Lh0XbKMbpGH0/B/5xqxR7gVL+GD5m1stwMXtwzMGJMYEAnpxGx9CNaRTl42lWM9rZc8oizZ4WKulwBKMU+6hLBeS3GSs9XFyQOgztaRv+4vwgiSrzrJBS80hPpYQH3FJnxwLQ3ycDrplw71GjtaBrwbcJdZevx0YIA+NbmhcvA/R7wlpNvpNHNb0BHmxEAJVlQKftR/XPQrlzVNNRcKMyPigAHjV2aGtNcq7gXTIEm2veD7+cQqiFG4+Sid3bOA7JR4T5DmCqz0p61nmum+JP7YdvCTu8qCOsYVVxEMQaeUVbzS7OS82DzL0jeel91vE/mJnPzdrVOdd3RrXjf4OFz4SMqopRfbHKdsyLYqgmhxDsysdbRSXz0hHoltpVA9m3TuWqhKo2kzd2b82vWCrH5WA4h9Z5GPoWVxRRh7dkeZuWYUVphe5fkA/sNn0PgqVdBJnQ6OCBAs2D7cRl8j9Zt8ODXCLS/9vs1k2UjUl9wh8REQxEdlk/37jzSipgLJmlCHQF7aUy05OCgShDuTATg==;VXHiK6Z67Sho5b8S9FAlXQ=="

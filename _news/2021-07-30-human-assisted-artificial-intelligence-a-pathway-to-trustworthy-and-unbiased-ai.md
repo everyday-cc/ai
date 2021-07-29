@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-art
 ampWebUrl: "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/amp/"
 type: article
-quality: 97
-heat: 107
+quality: 101
+heat: 111
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102ef37f481281f327c9112%2F0x0.jpg"
@@ -45,6 +47,6 @@ related:
         height: 400
         isCached: true
 
-secured: "xMFfjbCpvIFet0/tuuwHCxzYltco1e0+YElnH5W5mBuM0/qmURIfKUW+PQZQaVs55dJrXPSQBCy6FAFot6l0PVlTHWYxWEpSn4o4+1EQUt9yUHLQxlXaO31YkTRyNG/SjM9QxVLZFkW7S9cNFADPgsJV8oVXt9Fy/K9pghG2TmmcIM+aBo/L3aYttKLCoDWEu8E0a/idUG2T2XoluAbxKHOqqIPKe1ohfqM27n2nwGKE2QlP3pbEagCrboG7JyQRBxFdQ/AdRzC4t7O9uW4s48X2u/OgBBx+7q9ISGKJ+JsHd5lALi/SiW8Xu2niko9vE3Mh1qZQbs9y2K0Rexaz60nD6Aq9rSmT6k2UzhaUs70=;zDRv1++a+ayDYlHK//AdYA=="
+secured: "nULrEo6kYNMjCLi3cKVKzO9bLYyJjhv8Q87NhBSgHYAb047Wypk17aqNUOwgq1PjuuRVMM6XtSuzgPZdYkSS9kLEakFpbaHTSn+Yo7qA7PDTNy/kJ1QApnR3YTTQ4k+JYD6+1pGsJTEAaU2IgNU5elS0sBtqyBwIjcs1x3DD3EBulzwV/LcKELPv5o3lbn9gagh6Z5tWAssNFYKTHYTGPR5udGjCny0DcSRXyw3AuT8zaT1DZmHXdKbMZGRWrw9tOe+7izzt/WsSltP7IpTuPPXm0FlJhfKNTFwX9YaNEoNQIGqq9P1gCMU+AvOqyLN/IjaloVTSxBu+HFv8Cw67AgVvCR/lcdfrB5B/CZqv/Bl2QgRt3aQZQRjwxeYG0EUp3oG6hZYHQUOwF3qoh6A767U6WbW373k+WPYvZ9rr9K3frrrWGT51FflKuFAJuJLm+UIGUZUAXxz6WjUZJb7eHf2lSlnyMDBSk8WwEXUCJrW0jQiRI25IFqZnpGPnMJtvYVC19CXHj3OSs26sFX3bGQ==;2SUIFvpIHoE4AxvLqjDFPw=="
 ---
 

@@ -99,6 +99,20 @@ related:
         width: 2280
         height: 1522
         isCached: true
+  - title: "National Artificial Intelligence Research Institutes"
+    excerpt: "Today, the U.S. National Science Foundation announced the establishment of 11 new NSF National Artificial Intelligence Research Institutes, building on the first round of seven institutes funded in 2020."
+    publishedDateTime: 2021-07-29T19:13:00Z
+    webUrl: "https://insidehpc.com/tag/national-artificial-intelligence-research-institutes/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 37
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/04/IHPCAdvantechWPCover2020-04-23_15-29-39.jpg"
+        width: 274
+        height: 350
+        isCached: true
   - title: "UW to lead new NSF institute for using artificial intelligence to understand dynamic systems"
     excerpt: "“Importantly, we will provide AI ethics training for all involved in the institute. We will also make this training available to the community at large, thus enforcing a disciplined approach to thinking about AI and its implications for our emerging ..."
     publishedDateTime: 2021-07-29T15:52:00Z
@@ -128,6 +142,6 @@ related:
         height: 326
         isCached: true
 
-secured: "GXsoSddOcAiFTCUhlV9qJ7xp/lhLfVkPUsFDyfDarsHsNLNPAddXZHUiW1tyLgSEIoSYTyZto4DefbGUPEozfZdT1tcBFzf/X5D7+lTPKcQkZun5rNe63pjuKWJcBzXpeBCxY9/bbFNpna0pLe7Hp9+92OdI/mYGWS1WvKHv96Vk7oL9Yv3ovb5WC0+2qbQ67J77jmmBnuhKiBw3mOIkMZ+wFpnMoF3ROnLhM85Zgdb/Blxjkpd9Vqu599d9KEAdnQw5f8XXM8qn8IwVhA2T8xkrSsSPmxedrgC5W8GQ1twp7jJEIv4yme0B4dXGAgPNNYyrDo247J4HWjxVsDajlVQGboU6dlMQyiSpOeTBVWM=;4f/ODhKPBKowC0mr0img+w=="
+secured: "/jHlS8ZkvZjgh5Z10iUt7VtJeGLwTFx3iV/mrs8qO5gPnDzM9PYe6lzlqRZumtQ57DIul302IMUiENdZ8ARKroff3AV/LbNIyPfDlH1Uisec9y4dbb6cCB5GTu8paYeQHl1+wW9rKO0Yre+yaEazuBsh9vpDQhQOYjrl633lXscvXNTha2R/K/6Q5DkYTyCCgMHyM10UspE6mJMtRvcoUs6eBkL6Z3SclbjDvsADNPC5o7tH0ofS74EkLruZc1P3T3lKcmwrgQHpm2YfiUOuvNy71uAdM3OCbJmytyjOuVVrlLYXBPIVszgJgX9oWtr0476koX3QWEPJnhXI63cKXTlexwK9XT8joYKHnL0lBU8B97om+uipooQE4aeUaS4NGmJRGYwtH+FTZpgtJr/6KEkPlX5TOxdeTjrKumv592KYCrwRGiiyxlQ/zrzzEecaUYXzcnyLU2kOPVwjpP2V/feLlKFX6JNStsZfdSIo2FISxzQMILYNly1tje8NWBcNMpV0o+uKeNRCIMwTUoUlSA==;rNWb8L3Oti+uOf3LMrjZZA=="
 ---
 

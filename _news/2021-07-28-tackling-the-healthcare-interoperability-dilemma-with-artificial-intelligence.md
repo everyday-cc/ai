@@ -39,6 +39,20 @@ related:
         width: 1620
         height: 1080
         isCached: true
+  - title: "Envision Healthcare deploys AI in radiology"
+    excerpt: "National medical group Envision Healthcare said that its radiologists have begun using artificial intelligence (AI) software for several clinical applications."
+    publishedDateTime: 2021-07-29T20:48:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133081"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 54
+    images:
+      - url: "https://www.auntminnie.com/images/logos/logo_400.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "TPe7myw6XmpyAyMlQz1dzgtZyCYtGOikQURHUPI2WBbfvxr2/VY3XNclqcfIoltN5K/CNw9gMrf7mmCKa8gvzoGKhX1VVf3Jq5MXPeN3QEcz9pUwI0rnrUeR/mKcVADFJy4Vh5lnFCc2lIsBN21x03sK/iuSIXuKySthMPlt4FcmcGCt4thmarfw7Ev/cpc1KDDGziout0i8j7FxjW2ghZET9JGXXykmjuVqUTr35stJI0W/QYROxvAcoyPRpt1qKTO1RO8BmTQYLWnWm/vXTV4n5ThElfP8JpJsN2LV//St+qY7atoD1LNuefSFzzp6/kt2IKbILykTgy0AygR91ZIqiu4wzFTjnZm9uHCI9/gFcNwGMinzxkF2pWMdMfGTtCC6AEbYnoVy5EHw6ebv3cU4JDdY65rFiLEjtYMdOotA2dM5XYn+LC2GcUccvL4tXzHFlA8H0xM2SzAxGXSPpyjADzxBcrJ6fMUnJI3+quhuIFCgICA767t8VyC01/1TLmXiT0pckA6s2BPfhm1DzA==;ZYNd1idBsPIb75cuV2Kg/g=="
 ---

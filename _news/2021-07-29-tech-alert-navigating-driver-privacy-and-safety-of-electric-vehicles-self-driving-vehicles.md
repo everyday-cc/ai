@@ -2,21 +2,27 @@
 category: news
 title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
 excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
-publishedDateTime: 2021-07-28T19:14:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
-webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
+publishedDateTime: 2021-07-29T00:14:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=507505"
+webUrl: "https://us.acrofan.com/detail.php?number=507505"
 type: article
-quality: 0
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
-  - Computer Vision
+  - AI in Autos
   - AI
+
+images:
+  - url: "http://us.acrofan.com/img/noImg.jpg"
+    width: 500
+    height: 324
+    isCached: true
 
 related:
   - title: "Blueberry grower tests self-driving electric tractor"
@@ -34,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Grw/VsopGcIcaaObmqkLPsIPWb0VdIbSSmHgnvHTUmuwlrrWOmcTcd+eRjgspkqD+1mNk9me30IM/zQarpPWmu6KO8J58SXLBhP95+vG74Hyz4C2ZoLAIfpkDdaYETGN1zWwOSqMDWjJPmbfjg1IL4+rGr9fQxBdpFCiCs9uY+7IOX44a84EeCU09jDDpqwMNN5oesQCHCbllIGrcDee9BQDzUg5TgUeHdHcs1tEBdN39Pzin8CPFnyMKqPMf9/hlFr/Nte1a3xiBV2Yf7onhRXfGv7/pxL4ILsGDowQWzkIKPQp+EMyz4FiPchFEnh8+7ARpx6G907/zB2UvkbR5R+rq+0d+sPPy7wTOAQppeo=;oMAQKXNuh7y1uDgBv94yCQ=="
+secured: "T3TsmGrgm8VX+YlL/GYXDeg7X+GuaDRs09ihzo0l+1BzgR52NLklLC3HxImARBQxSwFczVelIdgUNrEdtCd/4iT53tOG3KLVTfJ1pVf5sbFsMXlWRoPTtj5BB+tLmwLar48z0f/87OgHRq6Cq4pDiTHlYuPFmZmolnyxlfTbMA+D8XH1wUm2yIjcH0efO7uf3ODZZZNta4KaGqw6o9ACGftEYlWWxd2HuBdQTFBXPg6xAaMQLxYihWekQwjcM+BRljUW/rac+DIlGeUAfGIThpa8sDBzf0qDKvgE53rmbTK5AutLxsxEJtZ7DKF7bcJxCDq4OdEUQrY45PhbhAPbjn6Jk402EZVFCC0AdNdcSck=;hNZlafdVDrKZ0mrsJz9NiQ=="
 ---
 

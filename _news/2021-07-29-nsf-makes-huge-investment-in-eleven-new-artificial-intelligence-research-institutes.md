@@ -89,6 +89,20 @@ related:
         width: 2280
         height: 1522
         isCached: true
+  - title: "National Artificial Intelligence Research Institutes"
+    excerpt: "Today, the U.S. National Science Foundation announced the establishment of 11 new NSF National Artificial Intelligence Research Institutes, building on the first round of seven institutes funded in 2020."
+    publishedDateTime: 2021-07-29T19:13:00Z
+    webUrl: "https://insidehpc.com/tag/national-artificial-intelligence-research-institutes/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 37
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/04/IHPCAdvantechWPCover2020-04-23_15-29-39.jpg"
+        width: 274
+        height: 350
+        isCached: true
   - title: "UW to lead new NSF institute for using artificial intelligence to understand dynamic systems"
     excerpt: "“Importantly, we will provide AI ethics training for all involved in the institute. We will also make this training available to the community at large, thus enforcing a disciplined approach to thinking about AI and its implications for our emerging ..."
     publishedDateTime: 2021-07-29T15:52:00Z

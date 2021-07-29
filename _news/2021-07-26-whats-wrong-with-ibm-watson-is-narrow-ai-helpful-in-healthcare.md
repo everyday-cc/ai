@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/science/what-s-wrong-with-ibm-watson-is-n
 webUrl: "https://www.bbntimes.com/science/what-s-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Envision Healthcare deploys AI in radiology"
+    excerpt: "National medical group Envision Healthcare said that its radiologists have begun using artificial intelligence (AI) software for several clinical applications."
+    publishedDateTime: 2021-07-29T20:48:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133081"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 54
+    images:
+      - url: "https://www.auntminnie.com/images/logos/logo_400.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Tackling the healthcare interoperability dilemma with artificial intelligence"
     excerpt: "A recent survey of more than 1,300 hospitals and health systems found 61% said they still use paper-fax to send documents externally. This data suggests our industry needs to expand the understanding and use of technologies that can fuel more widespread adoption of secure,"
     publishedDateTime: 2021-07-27T19:15:00Z
