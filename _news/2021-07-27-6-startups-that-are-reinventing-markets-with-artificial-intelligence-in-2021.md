@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/378434"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378434"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Five AI-enhanced clinical trial start-ups to watch in 2021"
+    excerpt: "We look at some of the most exciting startups harnessing artificial intelligence to improve clinical trials. Artificial intelligence (AI) is increasingly being employed to improve the operational efficiency of clinical trials,"
+    publishedDateTime: 2021-07-29T16:32:00Z
+    webUrl: "https://www.clinicaltrialsarena.com/analysis/five-ai-enhanced-clinical-trial-start-ups-to-watch-in-2021/"
+    type: article
+    provider:
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
+    quality: 37
+    images:
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/07/shutterstock_655158958.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "RgpDIwDJN79hQpa7P4NvMle+e187H5C85pQfebq3egv2IeWliopQZzN8b+FP92+xUkSf7XaoHPc7+ulvNzEgAYBeQ/6V4H5tU24WS+9JigTEr5ploAVtorfEXhyZdrLHy5kCZ7+l995+UyjUCycbmwD9Fl55Qmi5dU1Hk5XcIbMUuHpn+zLyFXJ9v7ncKZUsV7dcLPFsTA5BrdxKIP+ZLAjHVR40Qd1nuRhygolAEXOriSE9n14eoow+4HRL/uqC79OAA1Rda+7R0LDMqcooTumf4fA8cj51Boh3GcW+VSJ+xiy1LlJZfGKKdzDP4f9KZF4sN+HaQNbDGLhYiLd4IrQyc+5ZAeDx+p4TC8ABeaC1vO52iyEGqbpih58IfANio1487JiMCrkUOG75ua9UMTBHEqrTHINZs7dtp73bMYNJl9OhAiTTiQQ0j2UV+X/DUJTnuTF1uKOIhsSqSSSM1Cvg/adaL/YOWxAEsTpxctly79WqMMtYYCeqxMZzx+DhaLBy53hXdQF03TbcZZeeCA==;ioEBnfoZgyGK1ikRAPEpEg=="
 ---

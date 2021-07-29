@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestatesman.com/technology/ai-helping-researchers-impro
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html/amp"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1627273455_sun-nasa-1600x900.png"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Researchers Working to Improve Autonomous Vehicle Driving Vision in the Rain"
+    excerpt: "Researchers are studying ways to improve the vision of autonomous cars operating in bad weather conditions of rain, snow and fog."
+    publishedDateTime: 2021-07-29T17:40:00Z
+    webUrl: "https://www.aitrends.com/selfdrivingcars/researchers-working-to-improve-autonomous-vehicle-driving-vision-in-the-rain/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 36
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/07/7-30BadWeatherDriving-2.jpeg"
+        width: 550
+        height: 366
         isCached: true
 
 secured: "xMNd41DJBa1cAW+dbe1a+z6I+J79Kvw+wKx1QVeZb3sxrjzL+kajx3F/QfOnElTa2gmgYUAwFkt6CgL0OHjYsYNohUPhyHoZfdpgJCih2dnELwoqxDz4DJkhg2tftks4AQIj28QoseGrjjYBOz7NUI2zcYjakiZ3B3/7H1kTAkMxRCT8EDfQkWn7wk40jwYy7dBGTmY4rwkjOnNYcP5V1MYcTlmmq5LL5f3b4OvSIYHVHB9U6Vn7bgP2c4zwXL7ts7psYFAJjlTHKey8K8Bk32FlsorCrx7YyXloHhA3beYAoTr9iUExyknXrehlV9XWsGqbzJAHMx6VqYqB2eLFHZosMltYILaL4g9xuYO4iNg=;rkPmy7AEDzdH1+NRnTR6Lg=="

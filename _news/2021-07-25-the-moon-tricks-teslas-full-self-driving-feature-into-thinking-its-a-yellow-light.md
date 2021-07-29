@@ -43,6 +43,20 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Older drivers like self driving cars, ride hailing"
+    excerpt: "A survey by the US National Council on Aging (NCOA) and Volkswagen Group of America  found that 70% of older...Read"
+    publishedDateTime: 2021-07-27T10:47:00Z
+    webUrl: "https://www.just-auto.com/news/older-drivers-like-self-driving-cars-ride-hailing/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 54
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/The_new_study_by_NCOA_and_VW_of_America_1.jpg"
+        width: 1500
+        height: 990
+        isCached: true
   - title: "Elon Musk knocked Apple, bemoaned the microchip shortage, and touted self-driving cars on Tesla's Q2 earnings call. Here are the 12 best quotes."
     excerpt: "Musk underscored the huge challenges of large-scale manufacturing, and suggested he might not feature on every Tesla earnings call in future."
     publishedDateTime: 2021-07-27T12:27:00Z

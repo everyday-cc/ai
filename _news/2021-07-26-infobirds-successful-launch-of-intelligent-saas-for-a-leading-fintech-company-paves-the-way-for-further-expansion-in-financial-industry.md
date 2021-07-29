@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Canada’s Fintech industry paying off for business events"
-    excerpt: "There’s something about Canada that inspires images of size and grandeur; whether it’s the expanses of beautiful lakes, the vista of stunning mountain ranges, or the jaw-dropping emptiness of its national parks."
-    publishedDateTime: 2021-07-27T08:27:00Z
-    webUrl: "https://www.c-mw.net/canadas-fintech-industry-paying-off-for-business-events/"
-    type: article
-    provider:
-      name: CMW
-      domain: c-mw.net
-    quality: 24
-    images:
-      - url: "https://www.c-mw.net/wp-content/uploads/2021/07/RESEdmonton-Skyline.jpg"
-        width: 802
-        height: 537
-        isCached: true
   - title: "Infobird Co., Ltd's (NASDAQ: IFBD) Successful Launch of Intelligent SaaS For A Leading Fintech Increases Presence In Financial Industry"
     excerpt: "Infobird successfully launches Intelligent Quality Inspection SaaS for a leading fintech company Infobird's Intelligent Quality Inspection system will enhance the fintech company's management and customer service capabilities Infobird researched and analyzed the customer service business scenarios of its client,"
     publishedDateTime: 2021-07-26T17:32:00Z

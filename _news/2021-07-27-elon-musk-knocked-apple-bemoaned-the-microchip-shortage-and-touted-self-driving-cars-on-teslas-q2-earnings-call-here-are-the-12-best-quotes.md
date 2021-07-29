@@ -47,6 +47,20 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Older drivers like self driving cars, ride hailing"
+    excerpt: "A survey by the US National Council on Aging (NCOA) and Volkswagen Group of America  found that 70% of older...Read"
+    publishedDateTime: 2021-07-27T10:47:00Z
+    webUrl: "https://www.just-auto.com/news/older-drivers-like-self-driving-cars-ride-hailing/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 54
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/The_new_study_by_NCOA_and_VW_of_America_1.jpg"
+        width: 1500
+        height: 990
+        isCached: true
   - title: "The Moon Tricks Tesla's Full Self-Driving Feature Into Thinking It's a Yellow Light"
     excerpt: "Tesla recently announced that any Tesla user can subscribe to Autopilot’s Full Self-Driving feature for $99 to $199 per month, but it seems the new feature still comes with its fair share of kinks. Recently a Tesla driver took to Twitter to share an entertaining little problem with the system."
     publishedDateTime: 2021-07-25T13:41:00Z

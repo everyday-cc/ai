@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsweekly.com/news/products/micros/voice-contr
 webUrl: "https://www.electronicsweekly.com/news/products/micros/voice-control-embedded-vision-ai-iot-edge-2021-07/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Renesas and Syntiant Develop Voice-Controlled Multimodal AI Solution Combining Advanced Vision and Voice Technologies"
-    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Syntiant Corp., a deep learning chip technology company advancing low-power intelligent voice and sensor processing in edge devices,"
-    publishedDateTime: 2021-07-28T12:02:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-and-syntiant-develop-voice-controlled-multimodal-ai-solution-combining-advanced-vision-and-voice-technologies/article_4da26d15-32af-5419-b147-3c7fe0188f1b.html"
+  - title: "Computer vision AI sees the way forward"
+    excerpt: "Salman Chaudhary, CEO at EmpiricAI, explains why computer vision AI offers a glimpse of the future of health & safety in the construction sector"
+    publishedDateTime: 2021-07-29T16:21:00Z
+    webUrl: "https://www.khl.com/news/Computer-vision-AI-sees-the-way-forward/8013866.article"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 18
+      name: KHL
+      domain: khl.com
+    quality: 54
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/8d/28df0e71-89c1-591f-94f0-011a1d890d1d/61014a7f7341a.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://www.khl.com/images/400xany/20201206-092002-EventsDiary.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "JO5iuh2kQRTDZtFsqvZ7Cyh27q2dVtUG3kCvX1m5Ba40hpEWNILtz8VAlTlnxZehF6qReo2ZEAql8XS0sZQD1ssYgrWV00w5x0Y6xybDortKAiUmoa2VPaqvPcTHR36SG1+30O6hIGAVHQRV1svhGNxUTVRUqocuL8VaLyvB8qymcnbW5bBvobcVoD6SiEiBeHSYVWbrBQO/ukstsq+73sufzJpLn2PcD+ZfQCxTCSdizW8PRIdCr8Xx2QLHU7meOWQUU0H06RSD9vQqBvpATKZ+chmZ/UcIxwTOC7OvQ7Np7T5X+im1S7/2w2BMYLcmVJXOxkfNRmS2gTSi3Vy3MOKH2UoEgAKizfMYwuhWe5A=;8osix/1h2D/ypiGxQYHshg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-
 webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-from-riding-in-ai-self-driving-cars-for-the-rest-of-your-entire-life/"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self Driving Cars And Some Of The Worst Vehicles Ever Made"
+    excerpt: "We are seeing advanced technology in every corner of our world and as A.I. continues to emerge everywhere self-driving cars are being tested as a possibly for future transportation."
+    publishedDateTime: 2021-07-29T12:52:00Z
+    webUrl: "https://wnbf.com/self-driving-cars-and-some-of-the-worst-vehicles-ever-made/"
+    type: article
+    provider:
+      name: WNBF
+      domain: wnbf.com
+    quality: 39
+    images:
+      - url: "https://townsquare.media/site/499/files/2021/07/attachment-GettyImages-51933806.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        width: 1199
+        height: 807
+        isCached: true
   - title: "GM Sues Ford in Fight Over Branding of Self-Driving Cars"
     excerpt: "General Motors Co. is suing its competitor Ford Motor Co. for violating a trademarked driver-assist technology that’s used for hands-free features, according to a lawsuit."
     publishedDateTime: 2021-07-26T14:45:00Z

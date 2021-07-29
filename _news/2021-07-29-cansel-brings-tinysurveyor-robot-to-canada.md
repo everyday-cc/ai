@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Cansel Brings TinySurveyor Robot to Canada"
-excerpt: "GPS-guided mobile robot will help surveying, civil engineering and infrastructure professionals increase quality, efficiency and above all,"
-publishedDateTime: 2021-07-29T15:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cansel-brings-tinysurveyor-robot-to-canada-1030663408"
-webUrl: "https://markets.businessinsider.com/news/stocks/cansel-brings-tinysurveyor-robot-to-canada-1030663408"
+excerpt: "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada."
+publishedDateTime: 2021-07-29T15:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -45,7 +41,21 @@ related:
         width: 760
         height: 508
         isCached: true
+  - title: "Canada’s Fintech industry paying off for business events"
+    excerpt: "There’s something about Canada that inspires images of size and grandeur; whether it’s the expanses of beautiful lakes, the vista of stunning mountain ranges, or the jaw-dropping emptiness of its national parks."
+    publishedDateTime: 2021-07-27T08:27:00Z
+    webUrl: "https://www.c-mw.net/canadas-fintech-industry-paying-off-for-business-events/"
+    type: article
+    provider:
+      name: CMW
+      domain: c-mw.net
+    quality: 24
+    images:
+      - url: "https://www.c-mw.net/wp-content/uploads/2021/07/RESEdmonton-Skyline.jpg"
+        width: 802
+        height: 537
+        isCached: true
 
-secured: "Saw/ii3Qqpm+NzvoSnU+YZ3R8rIoWMqv2MNzYx8DDhXmnvG3BeA8pfWOuuKiqpxQoWGTYVb6wXAsX4TUM0a4OT/CtLJbWE95u1G0omUHuPpAzdEFCp7HvAl7S9EQMG9HvQr2n7qR113KuWKQtP6S+v7CgkXTCEiIPuHMHH2ihmIw2qzYljyFbIRATSSmBBEtWTzWizWgGcTZpfpMJomANO0ZPct9U6TScUYMXLehQ86bLlaDEFU1htzCQU8Ko8IYN34i2JeUUMJ+DZcPXLKydLWtacVGS762G0rC8PEENT3vviXG/MuGNB9bsk+T5j2XKP9HoVGD0eOq4y2CMNSInsQ8pYr7HVqasQCoZ3IhBuw=;+c3hR5peTrOsyeBx0gBajA=="
+secured: "soP8Mpe8LunKzvH/02BJUgfgRWziwotuUnezzaRBVsBfwGcjwC9fXURhTdCMa+84Rb3L0d/JJuaxmMdtfnMfhK3sroRxIyc+xNTUrklwFM66FZUS8kG0Vlu986n4+IJEKx+w0K5zPIRH8o15899vQYstQheGOsqbAMwJzixWOr6iJJzuIo1GTaqVBt5iZ/p3X3tNHOXfslyeRccxCVUOoRNk9k30e828z+gPA09Gou5ZELmPUlNxAPdKc+uZM0M929S69vjhu1Mc1D1BFL0ghGhRHKHByc1EBF3v58nJag5M00k/chiSicydsGk0jofjq3a+b98CbThMv15OCcDUjwiLAYGWUBvnco/gu4hc+OA=;M6YlbjRwo0JGLobKYyNyIQ=="
 ---
 

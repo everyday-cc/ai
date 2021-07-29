@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/07/28/openai-releases-triton-a-programm
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/28/openai-releases-triton-a-programming-language-for-ai-workload-optimization/amp/"
 type: article
 quality: 89
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -32,6 +32,17 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI debuts Python-based Triton for GPU-powered machine learning"
+    excerpt: "Triton 1.0 uses Python (3.6 and up) as its base. The developer writes code in Python using Triton’s libraries, which are then JIT-compiled to run on the GPU. This allows integration with the rest of the Python ecosystem,"
+    publishedDateTime: 2021-07-29T14:52:00Z
+    webUrl: "https://www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.html"
+    ampWebUrl: "https://www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 101
   - title: "OpenAI debuts new AI programming language for creating neural networks"
     excerpt: "Prominent artificial intelligence research lab OpenAI LLC today released Triton, a specialized programming language that it says will enable developers to create high-speed machine learning algorithms more easily."
     publishedDateTime: 2021-07-28T19:26:00Z

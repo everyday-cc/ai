@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-29T14:23:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161"
 webUrl: "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Computer Vision
   - AI
   - AI in Healthcare
+  - Natural Language Processing
 
 images:
   - url: "https://mma.prnewswire.com/media/1160610/Parlance_speak_naturally.jpg"
@@ -29,6 +30,6 @@ images:
     height: 225
     isCached: true
 
-secured: "17UmmvDB6g3pDZMc5f2/9bCCBD14fo5r1E47H6hTkezBp8eDw4IhDkxfi6rx/LvKRjPk+BVWCu4sTwSH5hrAEEVK5IccyYMAwVljjdT6In98IEtwfmpVol1T0rMvX4SdqGndbGSItSghZ2Uu6RziJ5TWqMTF+w3p+80r84LarJxnbtAQTIr/IlofXPrnlhxEXoiBU+khAlbOQcj05eYuUWCfSGdQd5lk0hlsfFchPbotZ8WWOxXX5Iu2kveFl/bghhWHQh0ZN50gi4G1eF+OkbVSoDZPgkr7jUCaGO0hfXXv1zQnc49UZ2FZnrw3AIVDMsd4FfGM7y1N3+mfTTop4N5nZaAGjL/7qpli/vhujxI=;nbuz9ydf6c4HStbkxs6Yyg=="
+secured: "leA1EdscAfM0YQ/Bgiwt2nQohjMznVP3bIq8k6LUyVQVePjOE5zwvuYn8CX3X8cJFDI/kR3Um0pMAqr/YOWn0FbasCNbd3U8M25Y5BgEt/Htx6qBQ5c/TObJGPj+PHb3Z+8hqWed0Z4KJBYoMFsVkWwcQBkooV4c029jkGyGSLDQDxGR3JYisRmuPLTwQItLw/M52m2Z+n3fIwBYNHhJiTK9xJIxrVtGMd7VpzBKrWUEdVJsahVTvkrj9t1KTeIO5pVJTe7Mj89CC9wloaqZOT48fvO12dd5aAgTbsxs8tv0XUBpfZFU0neeKlcB7iWbp8T8D6QFdMFIZZgcYwkKsYRfIkrnTgt2cpkYByJqs5Cr6DXhgvyv3szFZ45ZDPGsPBKaez9up9jLxZOHaDuLRxU4iROrBlMABQeY4/RrczcnI3wFvX/oXRs1L0zrSBfugle+TOSQsRYtmOOihrN+B4Bbh5NGXxGL61UvnyZVcCziqni8bdIeMy+C0b0B6mDyeMURCeE52j6qYDFLrcnZgQ==;d3ONa8tSHIvXgw30dlVk5A=="
 ---
 

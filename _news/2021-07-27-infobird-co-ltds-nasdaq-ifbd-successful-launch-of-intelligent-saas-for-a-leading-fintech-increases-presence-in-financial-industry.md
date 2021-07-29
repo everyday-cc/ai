@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/infobird-co-ltds-nasdaq-
 webUrl: "https://www.marketwatch.com/press-release/infobird-co-ltds-nasdaq-ifbd-successful-launch-of-intelligent-saas-for-a-leading-fintech-increases-presence-in-financial-industry-2021-07-26"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Canada’s Fintech industry paying off for business events"
-    excerpt: "There’s something about Canada that inspires images of size and grandeur; whether it’s the expanses of beautiful lakes, the vista of stunning mountain ranges, or the jaw-dropping emptiness of its national parks."
-    publishedDateTime: 2021-07-27T08:27:00Z
-    webUrl: "https://www.c-mw.net/canadas-fintech-industry-paying-off-for-business-events/"
-    type: article
-    provider:
-      name: CMW
-      domain: c-mw.net
-    quality: 24
-    images:
-      - url: "https://www.c-mw.net/wp-content/uploads/2021/07/RESEdmonton-Skyline.jpg"
-        width: 802
-        height: 537
-        isCached: true
   - title: "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-07-25T19:28:00Z

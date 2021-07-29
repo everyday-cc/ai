@@ -25,49 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Aurora’s SPAC merger comes amid self-driving car delays"
-    excerpt: "Self-driving car startup Aurora is ready to go public in a reverse merger with SPAC Reinvent Technology Partners Y."
-    publishedDateTime: 2021-07-24T23:40:00Z
-    webUrl: "https://venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/"
-    ampWebUrl: "https://venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/amp/"
+  - title: "Getting Banned From Riding In AI Self-Driving Cars For The Rest Of Your Entire Life"
+    excerpt: "Expect to see a ban or no-fly type of list being developed for unruly passengers that ride in self-driving cars. This can be stridently enforced, though might not pass muster judiciously or societally."
+    publishedDateTime: 2021-07-26T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-from-riding-in-ai-self-driving-cars-for-the-rest-of-your-entire-life/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 63
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/01/intel-cars-2.jpg?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fcb2b2de2f157548bccd31%2F0x0.jpg%3FcropX1%3D107%26cropX2%3D3560%26cropY1%3D0%26cropY2%3D2301"
         width: 1200
-        height: 607
+        height: 800
         isCached: true
-  - title: "Older drivers like self driving cars, ride hailing"
-    excerpt: "A survey by the US National Council on Aging (NCOA) and Volkswagen Group of America  found that 70% of older...Read"
-    publishedDateTime: 2021-07-27T10:47:00Z
-    webUrl: "https://www.just-auto.com/news/older-drivers-like-self-driving-cars-ride-hailing/"
+  - title: "GM Sues Ford in Fight Over Branding of Self-Driving Cars"
+    excerpt: "General Motors Co. is suing its competitor Ford Motor Co. for violating a trademarked driver-assist technology that’s used for hands-free features, according to a lawsuit."
+    publishedDateTime: 2021-07-26T14:45:00Z
+    webUrl: "https://www.ttnews.com/articles/gm-sues-ford-fight-over-branding-self-driving-cars"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 54
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/The_new_study_by_NCOA_and_VW_of_America_1.jpg"
-        width: 1500
-        height: 990
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-bb-1200.jpg?itok=JdoLkruE"
+        width: 470
+        height: 246
         isCached: true
-  - title: "Is Aurora’s SPAC merger a genius idea or a cry for help?"
-    excerpt: "Aurora SPAC merger will turn out to be a huge business success or a last-ditch effort by the company initial and new investors to keep the company afloat."
-    publishedDateTime: 2021-07-29T12:46:00Z
-    webUrl: "https://thenextweb.com/news/aurora-spac-merger-genius-idea-or-a-cry-for-help-syndication/"
+  - title: "Porsche imagines an interior for self-driving cars"
+    excerpt: "Comment Now! Porsche on Monday unveiled a previously-hidden concept for the interior of a self-driving car. That futuristic interior is housed not"
+    publishedDateTime: 2021-07-26T15:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1133010_porsche-imagines-an-interior-for-self-driving-cars"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FAurorahed.jpg&signature=5d6b1eae12f67912da1925dfca054d8a"
-        width: 1280
-        height: 640
+      - url: "https://images.hgmsites.net/hug/porsche-renndienst-study_100800578_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Why self-driving trucks aren't putting drivers out of work yet"
+    excerpt: "Big tech firms have been promising an autonomous trucking revolution for years now, but even with billions poured into the industry, manned trucks still rule. Here's when, and how, that could change."
+    publishedDateTime: 2021-07-28T20:07:00Z
+    webUrl: "https://www.overdriveonline.com/equipment/article/15066699/why-selfdriving-trucks-arent-here-yet"
+    type: article
+    provider:
+      name: Overdrive
+      domain: overdriveonline.com
+    quality: 24
+    images:
+      - url: "https://img.overdriveonline.com/files/base/randallreilly/all/image/2021/07/mack_no_driver_backward.61007e987cbad.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 660
         isCached: true
 
 secured: "RtwksLFzr1HTEPl3nF2Fw+vEsAph4iS/+HyVS9wByVXqahpriZeGRZ1Mt6/0JxV6ocFnMBW0WW8OkL1uGmPA+lU8qXVhNTAQPVSOTdFpZVeC7Masrq7C8JLcMjUTr7erDcjTFHQjvZb/JWKZ7EjKEDOWiZfxWgnzbYZKNPQW2KNOwqepShzbZMGarnCG5VyRZVkxxRKntdDnOCp0v9aG6MsrzsHRT1yxyOM8vN8GTt2EiUCMWPxOJ9xOCWzNHjr698YuKG4tE222M5CdjCIwlw8EmE53GEsOlnkfBZ1D2RS+sR6+eYqyYCFAM5AnHP/DI9pl/wRH4PInhXJLnJyc1Dx0QGP0uSEv3BKqtT8RydA=;UJrlAb0zeXFZJIQiZRnuSg=="

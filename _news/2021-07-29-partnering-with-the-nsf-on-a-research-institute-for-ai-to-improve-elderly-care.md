@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/partnering-nsf-research-institute-
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnering-nsf-research-institute-ai-improve-elderly-care/amp/"
 type: article
 quality: 105
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "NSF Makes Huge Investment In Eleven New Artificial Intelligence Research Institutes."
+    excerpt: "NSF is spending $220 million to establish 11 new Artificial Intelligence Research Institutes, significantly boosting the network of these centers."
+    publishedDateTime: 2021-07-29T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/michaeltnietzel/2021/07/29/nsf-makes-huge-investment-in-eleven-new-artificial-intelligence-research-institutes/"
+    ampWebUrl: "https://www.forbes.com/sites/michaeltnietzel/2021/07/29/nsf-makes-huge-investment-in-eleven-new-artificial-intelligence-research-institutes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2021/07/29/nsf-makes-huge-investment-in-eleven-new-artificial-intelligence-research-institutes/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102d1d3cc6d3da87fbd41c4%2F0x0.jpg"
+        width: 1200
+        height: 653
+        isCached: true
   - title: "NC State, NSF Unveil Institute Focused on Artificial Intelligence and the Future of Education"
     excerpt: "The National Science Foundation (NSF) has announced that North Carolina State University will lead a new research initiative aimed at creating artificial intelligence (AI) tools to advance human learning and education for a wide variety of audiences."
     publishedDateTime: 2021-07-29T15:55:00Z
@@ -61,17 +77,31 @@ related:
         isCached: true
   - title: "NSF Launches Artificial Intelligence Research Center at Duke"
     excerpt: "The National Science Foundation today announced the creation of 11 new research institutes devoted to Artificial Intelligence, including one at Duke and one at NC State University. The $220 million total investment comes after a $140 million NSF investment created seven other AI institutes last year."
-    publishedDateTime: 2021-07-29T14:28:00Z
-    webUrl: "https://www.miragenews.com/nsf-launches-artificial-intelligence-research-604728/"
+    publishedDateTime: 2021-07-29T15:55:00Z
+    webUrl: "https://today.duke.edu/2021/07/nsf-launches-artificial-intelligence-research-center-duke"
+    type: article
+    provider:
+      name: Chronicle
+      domain: duke.edu
+    quality: 39
+    images:
+      - url: "https://today.duke.edu/sites/default/files/YiranChen_students.jpg"
+        width: 2280
+        height: 1522
+        isCached: true
+  - title: "UW to lead new NSF institute for using artificial intelligence to understand dynamic systems"
+    excerpt: "“Importantly, we will provide AI ethics training for all involved in the institute. We will also make this training available to the community at large, thus enforcing a disciplined approach to thinking about AI and its implications for our emerging ..."
+    publishedDateTime: 2021-07-29T15:52:00Z
+    webUrl: "https://www.miragenews.com/uw-to-lead-new-nsf-institute-for-using-604760/"
     type: article
     provider:
       name: Armed robbery in Revesby
       domain: miragenews.com
-    quality: 39
+    quality: 28
     images:
-      - url: "https://today.duke.edu/sites/default/files/styles/story_hero/public/YiranChen_students.jpg?itok=W15AcdFy"
-        width: 1140
-        height: 761
+      - url: "https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2021/07/27141149/FlowW-4sec-600x358.gif"
+        width: 600
+        height: 358
         isCached: true
 
 secured: "EK5OKMnx59Gk+gB8gnZ6fUBNgl0yKXYcP96q1ayZgUfTlxtPoPg4GaqLYe21NJZYhVuo7CrqAfVqWIQ9zT5hIUJKHu8p0hXV4lKDz9DGJMhW6I9wBofvOaUwC7HCoDQ6kexkyQgPWNpmNKCsHGRu+9l2Ck4F6bETMRGVPUGFwou7jjN+RmRtgkuM5l0SdzDtTrVGMOvF8uOPOzK5WKSlz95/KUQLRC6L3TlJtMrTD/Gwy+606qSlUJzQ5OuWkPKUc7/jxPeVnftVBSUIb8gZ3wy8dfx6/h3axBs8PXr6joDDM41IRGkMEZxgoXbElb8CXuyOimS6fMvKOKW9GJGQVgmhSxzkqhvxNk9JX9kNKrQ=;5hYPs6NlUmOX1XNBjMg65w=="

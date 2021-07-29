@@ -1,0 +1,105 @@
+---
+category: news
+title: "UW to lead new NSF institute for using artificial intelligence to understand dynamic systems"
+excerpt: "“Importantly, we will provide AI ethics training for all involved in the institute. We will also make this training available to the community at large, thus enforcing a disciplined approach to thinking about AI and its implications for our emerging ..."
+publishedDateTime: 2021-07-29T15:52:00Z
+originalUrl: "https://www.miragenews.com/uw-to-lead-new-nsf-institute-for-using-604760/"
+webUrl: "https://www.miragenews.com/uw-to-lead-new-nsf-institute-for-using-604760/"
+type: article
+quality: 28
+heat: -1
+published: false
+
+provider:
+  name: Armed robbery in Revesby
+  domain: miragenews.com
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2021/07/27141149/FlowW-4sec-600x358.gif"
+    width: 600
+    height: 358
+    isCached: true
+
+related:
+  - title: "Partnering with the NSF on a research institute for AI to improve elderly care"
+    excerpt: "From the early days of the internet to the development of the Human Genome Project, U.S. government-funded R&amp;D has yielded remarkable progress for society, and today it is an important engine for AI research. That’s why, last year, we were proud to announce our partnership with the U.S. National"
+    publishedDateTime: 2021-07-29T15:10:00Z
+    webUrl: "https://blog.google/technology/ai/partnering-nsf-research-institute-ai-improve-elderly-care/"
+    ampWebUrl: "https://blog.google/technology/ai/partnering-nsf-research-institute-ai-improve-elderly-care/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnering-nsf-research-institute-ai-improve-elderly-care/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_graphic_fallback_-_multicolor.max-1300x1300.png"
+        width: 1300
+        height: 729
+        isCached: true
+  - title: "NSF Makes Huge Investment In Eleven New Artificial Intelligence Research Institutes."
+    excerpt: "NSF is spending $220 million to establish 11 new Artificial Intelligence Research Institutes, significantly boosting the network of these centers."
+    publishedDateTime: 2021-07-29T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/michaeltnietzel/2021/07/29/nsf-makes-huge-investment-in-eleven-new-artificial-intelligence-research-institutes/"
+    ampWebUrl: "https://www.forbes.com/sites/michaeltnietzel/2021/07/29/nsf-makes-huge-investment-in-eleven-new-artificial-intelligence-research-institutes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2021/07/29/nsf-makes-huge-investment-in-eleven-new-artificial-intelligence-research-institutes/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102d1d3cc6d3da87fbd41c4%2F0x0.jpg"
+        width: 1200
+        height: 653
+        isCached: true
+  - title: "NC State, NSF Unveil Institute Focused on Artificial Intelligence and the Future of Education"
+    excerpt: "The National Science Foundation (NSF) has announced that North Carolina State University will lead a new research initiative aimed at creating artificial intelligence (AI) tools to advance human learning and education for a wide variety of audiences."
+    publishedDateTime: 2021-07-29T15:55:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/923836"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 45
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/224b369c-e6b8-4ac4-b757-7648ec3e912f/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "NSF partnerships expand National AI Research Institutes to 40 states"
+    excerpt: "Today, the U.S. National Science Foundation announced the establishment of 11 new NSF National Artificial Intelligence Research Institutes, building on the first round of seven institutes funded in 2020."
+    publishedDateTime: 2021-07-29T15:01:00Z
+    webUrl: "https://www.nsf.gov/news/news_summ.jsp?cntn_id=303176"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 41
+    images:
+      - url: "https://www.nsf.gov/news/mmg/media/images/AI_map_f.jpg"
+        width: 350
+        height: 220
+        isCached: true
+  - title: "NSF Launches Artificial Intelligence Research Center at Duke"
+    excerpt: "The National Science Foundation today announced the creation of 11 new research institutes devoted to Artificial Intelligence, including one at Duke and one at NC State University. The $220 million total investment comes after a $140 million NSF investment created seven other AI institutes last year."
+    publishedDateTime: 2021-07-29T15:55:00Z
+    webUrl: "https://today.duke.edu/2021/07/nsf-launches-artificial-intelligence-research-center-duke"
+    type: article
+    provider:
+      name: Chronicle
+      domain: duke.edu
+    quality: 39
+    images:
+      - url: "https://today.duke.edu/sites/default/files/YiranChen_students.jpg"
+        width: 2280
+        height: 1522
+        isCached: true
+
+secured: "DipF0MdRBmBc8r+Zu0dWYxpfH2LRoUqZ4g1Io3fUy/284gBAXpMFqGAaE9UY4lpEbGL7kiEBl2P7Rcv5wtgtVc/r7hzeme+6xXOs94caDjEOSJqiAduNgYyk+kc8wK6XGGU2zWIBn7kh2ulcZ1d7vypiq5zGK24qR2jD4Me8NJbyG9A4d6hMOCyyiwk7KBMqu8S1ed3J7WiMho8xqQNj0sWPeYKHIHx1giFHeBhXZh/6z/O2yNkLEV1e3xoocztpWixjflQPDzMWC+LuRAWEe2YzY451PLSjUGlmpYudSx9fnqOiXk4QivFYBee1jSjmmiPgSneCAIXEJCEOeK1LKxCvQPknmwIrfcYSc3qFTkI=;+7ozFYuSUR8WTG99BpjBvQ=="
+---
+

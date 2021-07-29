@@ -72,6 +72,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Researchers Working to Improve Autonomous Vehicle Driving Vision in the Rain"
+    excerpt: "Researchers are studying ways to improve the vision of autonomous cars operating in bad weather conditions of rain, snow and fog."
+    publishedDateTime: 2021-07-29T17:40:00Z
+    webUrl: "https://www.aitrends.com/selfdrivingcars/researchers-working-to-improve-autonomous-vehicle-driving-vision-in-the-rain/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 36
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/07/7-30BadWeatherDriving-2.jpeg"
+        width: 550
+        height: 366
+        isCached: true
 
 secured: "q3qtTzCVky8V5+MvAJ11z/DL99bjCFfx0crD3AlGpbJYAApUaP5a+K2pqBOKhV4v4qavOHPCPEcDV5biB1nvUczlbOZtv7cWhFwD7RaYFfGFOADKE8b2Zhhfc9Zj7WE1MiDeWCTSwTavyKu4zSL1EH9m9nuvyyMaS3pgdEYJcK6fX/Rof8E+p2dwXrVpORadcLVOPOfka7XYeJaCf/R2hM9G/kqP3mcCEnMw9weME6RIAs2wOGe4WkfkLfrXp3MGRZWR0wrixafX/dpK3HxQOutOonLTV6ZKh8/jjJPRwzEFRzV4yQJMybPrCXVN+vvtnDbktsyuhUzRTQccWuif/ZhDsGQ9uAEqypu7/5isoLA=;8+4DHz3fVgAU56d1b3iYxA=="
 ---

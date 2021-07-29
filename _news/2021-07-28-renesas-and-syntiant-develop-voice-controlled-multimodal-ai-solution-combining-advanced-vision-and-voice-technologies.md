@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-and-syntiant-deve
 webUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-and-syntiant-develop-voice-controlled-multimodal-ai-solution-combining-advanced-vision-and-voice-technologies/article_4da26d15-32af-5419-b147-3c7fe0188f1b.html"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1120
     height: 630
     isCached: true
-
-related:
-  - title: "Voice-control of embedded vision AI for IoT and the edge"
-    excerpt: "Renesas is developing voice-controlled AI for contactless image processing in IoT and edge systems, giving self-checkout machines, security cameras, video"
-    publishedDateTime: 2021-07-28T10:37:00Z
-    webUrl: "https://www.electronicsweekly.com/news/products/micros/voice-control-embedded-vision-ai-iot-edge-2021-07/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 41
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2021/07/28105914/renesas-syntiant-AI.jpg"
-        width: 441
-        height: 303
-        isCached: true
 
 secured: "2AvAam6/Ydk6q0mJhC44UpcngMmCEqVDvVyMmp9LhQDXB6YHk4sL2kBPr1HXqgmdLQhxEbLfs+fZztLhTSIlqJhW9eNE/GRBo97a5PvDKhVi7GFxu7TtOEXOY7tXrkvqWvA9+gkPRPcCN+P7lZGy934GEtvk1Yh0eCnVWiUDo9guNiyu2t+9JnWQmk/zM05DAN2DGSucICXc+wzS0qXwj1sHzgavNjxIWPoxxeDYEbirYT213vISYkLul8p/Iwa2yZZo55bUknKBJKUm3XRQ23azDX5bw2zy9iU0NpZEnwBzX2JtW5h76JrsB0KxIdrEZ2oIl2myKjtYNKaN3IXdH0PXhVug1dP0Ykygd+H3bUz0yYD/Ouf+EUkjk3KBOjNTPTE+yWmuIDsnEh7kucmHe5dDSXv2uqpbuuw1xY8TxcZzbtevkfYVL3FHnRxFQ+jCus/WP7rSehSmHVXkPbDbEK+FqYZRqjTWqauIjW86J5XfFPCq1p8H51LQo2/e+mvSDg0HMqjMbPHZpgSyQyBm8g==;nnw9KYWzsNz5LVN+7JgxCA=="
 ---

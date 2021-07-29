@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/aurora-spac-merger-genius-idea-or-a-cr
 webUrl: "https://thenextweb.com/news/aurora-spac-merger-genius-idea-or-a-cry-for-help-syndication/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -27,52 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Aurora’s SPAC merger comes amid self-driving car delays"
-    excerpt: "Self-driving car startup Aurora is ready to go public in a reverse merger with SPAC Reinvent Technology Partners Y."
-    publishedDateTime: 2021-07-24T23:40:00Z
-    webUrl: "https://venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/"
-    ampWebUrl: "https://venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/01/intel-cars-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 607
-        isCached: true
-  - title: "Older drivers like self driving cars, ride hailing"
-    excerpt: "A survey by the US National Council on Aging (NCOA) and Volkswagen Group of America  found that 70% of older...Read"
-    publishedDateTime: 2021-07-27T10:47:00Z
-    webUrl: "https://www.just-auto.com/news/older-drivers-like-self-driving-cars-ride-hailing/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 54
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/The_new_study_by_NCOA_and_VW_of_America_1.jpg"
-        width: 1500
-        height: 990
-        isCached: true
-  - title: "Self Driving Cars And Some Of The Worst Vehicles Ever Made"
-    excerpt: "We are seeing advanced technology in every corner of our world and as A.I. continues to emerge everywhere self-driving cars are being tested as a possibly for future transportation."
-    publishedDateTime: 2021-07-29T12:52:00Z
-    webUrl: "https://wnbf.com/self-driving-cars-and-some-of-the-worst-vehicles-ever-made/"
-    type: article
-    provider:
-      name: WNBF
-      domain: wnbf.com
-    quality: 39
-    images:
-      - url: "https://townsquare.media/site/499/files/2021/07/attachment-GettyImages-51933806.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        width: 1199
-        height: 807
-        isCached: true
 
 secured: "YkXvEpgYFDNMvm7j9F9ihrGL4EK3wIn2oLOx0FCuDEQ2gqxfmIsThK/dyAbaqhhDGjO/l+gdpLKMw/KptsHTNws4xo+f7hvSZHUuL6Cw84ZHM15N55kA6dO18435AOOaS6El+HJLu6B8l+5wo6WnDE9inslgUv4n6Mxo4Kc9GT8V6AaJQ0TYid3WU2zPK+5Q3w3IxvDCNZgZCaaTu5dMCt9bgaSfGvp8EdhAsL/RuGF342q0JxcItMiw9s7VIrwQsO5tLOpzVsrQTjXqNIXPwvdzWQ18fHgnYrm2Rsy0UtjHyfCZmyiFsPd3wNhDW0NRiLX6cJ6mwBiOpMtsDV00DNGU3HgfLIuy13BnUXBfBUKfy3m1p/+XJYAO4It3f40Wd4XX99IHqMLHi3bawkI4atlwLS0E/OqjLpFbPv4cwscRyTxzC1REwvak6f78KQA8fE3B9nyz0PML0bCBYaNbC0/qG7lf6gcxbyQOPhKRDfsLXSXt38M6WexiTqY30vCLXlwSZDOsXuDBGtQFlDY8JA==;MqSZMgVkNqSM+ebmPeALyg=="
 ---

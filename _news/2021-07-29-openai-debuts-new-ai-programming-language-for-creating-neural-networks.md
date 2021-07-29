@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI debuts Python-based Triton for GPU-powered machine learning"
+    excerpt: "Triton 1.0 uses Python (3.6 and up) as its base. The developer writes code in Python using Triton’s libraries, which are then JIT-compiled to run on the GPU. This allows integration with the rest of the Python ecosystem,"
+    publishedDateTime: 2021-07-29T14:52:00Z
+    webUrl: "https://www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.html"
+    ampWebUrl: "https://www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3627243/openai-debuts-python-based-triton-for-gpu-powered-machine-learning.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 101
   - title: "OpenAI releases Triton, a programming language for AI workload optimization"
     excerpt: "OpenAI has released Triton, a 'Python-like' programming language to optimize workloads for multicore processors such as GPUs."
     publishedDateTime: 2021-07-28T16:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Will Facial Recognition Limitations Hurt China’s New Retail?"
+    excerpt: "China’s highest court has established clear limitations on how businesses can use facial recognition technology, which could affect luxury sales."
+    publishedDateTime: 2021-07-29T17:14:00Z
+    webUrl: "https://jingdaily.com/facial-recognition-limitations-china-luxury/"
+    type: article
+    provider:
+      name: Ultra Rich Asian Girls
+      domain: jingdaily.com
+    quality: 54
+    images:
+      - url: "https://jingdaily.com/wp-content/uploads/2021/07/facial-recognition-china-business.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "SIA blasts misrepresentation of facial recognition studies"
     excerpt: "Face biometrics are in fact highly accurate, and the leading commercial algorithms do not deliver biased results, the SIA states."
     publishedDateTime: 2021-07-27T16:32:00Z
