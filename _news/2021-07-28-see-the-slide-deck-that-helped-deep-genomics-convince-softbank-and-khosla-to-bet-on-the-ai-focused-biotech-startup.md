@@ -46,20 +46,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Deep Genomics secures $226 million CAD led by SoftBank as it scales AI drug discovery platform"
-    excerpt: "Deep Genomics has secured $226 million CAD as the startup has increased the number of drug candidates it has discovered using AI and is eyeing clinic trials."
-    publishedDateTime: 2021-07-28T10:59:00Z
-    webUrl: "https://betakit.com/deep-genomics-secures-226-million-cad-led-by-softbank-as-it-scales-ai-drug-discovery-platform/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 27
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2021/07/20190718-JBS08231-1.jpg"
-        width: 1050
-        height: 700
-        isCached: true
 
 secured: "+LXXDTP/b+jLgAsJ5EEsmysW9r4HEK+KbwG8pi3ZnHFTkW0nx3UZqX5wdDxxf2bsyZ2zfs1HkjurNceaiOgpwjnK6d/06XCTosXPVs1UjEWdgGADC7MvoR2T+7NswK06xXn9EIWIqVUj6vQsAcEiGvXb04/DFi957vPcC3T+UT2wOHjSqeNNJeLhovLKhdG09u32upJL1T0Htmn1+OtYAIFbCTS6z7cuC7H4Z4SkrImbO5hf4SWGKqLw2jl8+dAD8ppNJ0yrUxa7ywDqtUR8a7ZzDKmIZdwZiRnn+8m1y5kDKJTL2RogzOKxsch3Eyz+MKafnnL4T4YlP7prEtK5Ao2vzT+7twiQ/gXb9fMeMxa/SP3FmQhMzSspJYeIIYy0ZCyDk+zihdhgjITBa2SzHUuNSAww7Roe4MV9hKLOZ4i0fLCNQTMFITWsruj1TOc9niTiXVYtqA7oLG8RXMGVAr1DihqMa6yU83oJ3PImnyGNM428S2lOwvT7Q0cPrObW2h74YiguwIHkH4xnk7p1tg==;YY48b0EjRED19hPhbGNc5g=="
 ---

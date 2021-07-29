@@ -6,9 +6,9 @@ publishedDateTime: 2021-07-28T18:14:00Z
 originalUrl: "https://medcitynews.com/2021/07/ai-driven-deep-genomics-gets-180m-to-turn-biology-into-informational-medicines/"
 webUrl: "https://medcitynews.com/2021/07/ai-driven-deep-genomics-gets-180m-to-turn-biology-into-informational-medicines/"
 type: article
-quality: 33
-heat: 33
-published: false
+quality: 133
+heat: 153
+published: true
 
 provider:
   name: MedCity News
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Genomics secures $226 million CAD led by SoftBank as it scales AI drug discovery platform"
+    excerpt: "Deep Genomics has secured $226 million CAD as the startup has increased the number of drug candidates it has discovered using AI and is eyeing clinic trials."
+    publishedDateTime: 2021-07-28T10:59:00Z
+    webUrl: "https://betakit.com/deep-genomics-secures-226-million-cad-led-by-softbank-as-it-scales-ai-drug-discovery-platform/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 27
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/07/20190718-JBS08231-1.jpg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Deep Genomics Raises $180M in Series C Financing"
     excerpt: "Deep Genomics, the leading artificial intelligence (AI) therapeutics company, announced today the closing of a $180 million Series C financing round. SoftBank Vision Fund 2* led the financing with participation from new investors,"
     publishedDateTime: 2021-07-28T11:05:00Z
@@ -34,6 +48,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "SIUkaMjzlcd7Untp0K63P9F7QzUeUmrHOqjUofJjpDEbWSKbXG1lDKKYToxZQEpIMSQmNlNyaul6d0m5pqaG+h+PoHFlqTrKcHodn8AsnX+mMqPbXwx0O/5U6Ol/gjG1x/vexnPt/jh7i238+95yIHvgkzLl6252wTrBTWwPzmcHyKgBxQ80wiDnlnm/1wPxj9WAYatPhrzNdHQ/vLzbLqygMnHDW80jF9ovDFDVwVB8SM/GSnlIkV6OWaIuX34GBXquZxBEoJH+Tk+kAx+kXVxcsZHJhefXuTZZmhjouEzTXyUHW1B628UHkl6Qk2TK+hSnMlcoufEuMdOQSLHuENbBqH8lVzZZEFwherRodTQ=;0PFTnJSr9b0MEbCiYbB4Gw=="
+secured: "E7aZvpQL3keeGkklVB6tJdv+mzNHy3SAgEXrNckpf9eBRjCVk31//h9zsG57C5AeBNnLxjnhvzYJSIVXNjfYCd38TojVZ4HzNWqVeo/42C4j/BavKS2WNc5KabonKeAOSv4cCuSD5D1UlGjXkNK7o2Y+YsKRSG4+FHTogHb4qbnFodK18o+ihO9+GmyaWTZ3mMtifvwjBKOtrp+SDhoJ2GO1UA65U4hUOxXL8cDmtCXT8hIrZ48k1/7Ol280oEUCC8Mxhhayb5ZLCj2GLf43CcXhYurpVRXHUWk43GjBAL5e21gMVB/5t26x2YsJ0jTEHkuS1aZI/WPJHqXN+Qh0RvkgeLzAe9SiiXFbZO2kcyxkFRE2Nh6eq9pV7rtOyKi1W+AyUVcmzl/OXkrnQgUoDOYnYoSi19MlXaQyFMOf2DpAGZIfksqKzzf1HYp+TtIhRqrBWvVG+zXzA+KjY7Te7isvUwe1wxGyo1+8XGpgFNiL7k0rgB67NwArvSzrzs1v9qCtW1ZKEJpgMf5ATIzLnpPz2zukjKaq1YxtTiLemJY=;izWSkdVY0u1dbqTDv7XMEQ=="
 ---
 

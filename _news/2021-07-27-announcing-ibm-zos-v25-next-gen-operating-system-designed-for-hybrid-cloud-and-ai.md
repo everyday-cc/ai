@@ -58,6 +58,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Baidu AI Cloud announces strategy upgrade to empower industries"
+    excerpt: "To support enterprises' digitalization and intellectualization, Baidu AI Cloud announced upgrade on its strategy and infrastructure to empower real economy for development with better quality, the tech company said in Beijing on Thursday."
+    publishedDateTime: 2021-07-29T13:16:00Z
+    webUrl: "https://news.cgtn.com/news/2021-07-29/Baidu-AI-Cloud-announces-strategy-upgrade-to-empower-industries--12igTcyo9Da/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 39
+    images:
+      - url: "https://news.cgtn.com/news/2021-07-29/Baidu-AI-Cloud-announces-strategy-upgrade-to-empower-industries--12igTcyo9Da/img/6c73a690fa0d4d54a692c68d0f4c4502/6c73a690fa0d4d54a692c68d0f4c4502-1920.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "LYbmYJMl2DE00wgYqP9wNoJo+6zDdS5E2De2wjGDv5MBh1RNkvp7hkLBFloRNo5fXLCJLk5VWB2OIqoPC7R2QEhfTa6ukp1+ksCEw4G08ro+ZZaqL82fVQyU17m/35N+BCnDexyN/X9179OMNrx5deBIR5Rcj9IFZGm/SQbK4gL93Ep64x1w44UucZRKY1dq8jxm77l0nbZA7LXqMDV1KAw2LW/qeoxbH5CehmL3d1PxDmMCWUA6dzxbAzAb0DjlIXxMxjmwNdglR6M1wSKBOQq423TxDWSYQ1C2yrtS6Zl43sdaHcoEfoKfHczhiw/zkyOQiWWrphwYmaI79p08g5C1WSFYQ4iRfbHH3lVjmicXAHB0a2VC18/M1KP+Ct+0lMml/YvAriARL1EqOBfcXeZxasr57B3Luf8JgXta5vSkpZMIrbZ4BckGlhK4Pgmufu8FoPzaOsPyzCou5wZrRNPFkzYR+gCJsplxrTxO+o2uP3mSvpXIKGU8ppuub1/BKDIeigC495sHhXixhev6KQ==;1tKn7eNekxhprxAIIt0++A=="
 ---

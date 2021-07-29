@@ -9,8 +9,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/378519"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378519"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -31,21 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Tata Communications launches IZOTM Financial Cloud platform for BFSI sector"
-    excerpt: "Tata Communications on Tuesday announced the launch of 'IZOTM Financial Cloud', a community cloud platform customised to meet the stringent data privacy, protection compliance and security guidelines defined by India's regulators for the Banking,"
-    publishedDateTime: 2021-07-27T10:58:00Z
-    webUrl: "https://www.freepressjournal.in/business/tata-communications-launches-izotm-financial-cloud-platform-for-bfsi-sector"
-    ampWebUrl: "https://m.freepressjournal.in/article/business/tata-communications-launches-izotm-financial-cloud-platform-for-bfsi-sector/28ca24f8-1f59-4892-905a-2c05bc81baad"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/tata-communications-launches-izotm-financial-cloud-platform-for-bfsi-sector/28ca24f8-1f59-4892-905a-2c05bc81baad"
+  - title: "Intel, Ministry of Education launch 'AI For All' in India"
+    excerpt: "Chip maker Intel on Thursday partnered with Central Board of School Education (CBSE), Ministry of Education to announce the launch of an initiative -- 'AI For All' -- that aims to create a basic understanding of Artificial Intelligence (AI) for everyone in India."
+    publishedDateTime: 2021-07-29T13:53:00Z
+    webUrl: "https://www.freepressjournal.in/business/intel-ministry-of-education-launch-ai-for-all-in-india"
+    ampWebUrl: "https://m.freepressjournal.in/article/business/intel-ministry-of-education-launch-ai-for-all-in-india/5afa6e56-6c30-4b0e-a0fa-9867d94a8a12"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/intel-ministry-of-education-launch-ai-for-all-in-india/5afa6e56-6c30-4b0e-a0fa-9867d94a8a12"
     type: article
     provider:
       name: The Free Press Journal
       domain: freepressjournal.in
-    quality: 42
+    quality: 76
     images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-07/5e78fc30-63da-411b-add3-6aff0b0b69ee/izo.PNG"
-        width: 1230
-        height: 689
+      - url: "https://gumlet.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "CBSE and Intel Launch Free Online Course on Artificial Intelligence in 11 Vernacular Languages"
+    excerpt: "CBSE and Intel launch a free online course on artificial intelligence available in 11 vernacular languages that anyone interested can sign up for"
+    publishedDateTime: 2021-07-29T13:15:00Z
+    webUrl: "https://www.dqindia.com/cbse-intel-launch-free-online-course-artificial-intelligence-11-vernacular-languages/"
+    ampWebUrl: "https://www.dqindia.com/cbse-intel-launch-free-online-course-artificial-intelligence-11-vernacular-languages/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/cbse-intel-launch-free-online-course-artificial-intelligence-11-vernacular-languages/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 45
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Inside the world of DNA decoding in India"
+    excerpt: "Even as genetic-sequencing technology becomes cheaper and faster, the adoption of precision medicine, which decodes a patient's DNA to treat them in a more personalised, targeted way, remains limited in India."
+    publishedDateTime: 2021-07-27T07:30:00Z
+    webUrl: "https://www.forbesindia.com/article/healthtech-special/inside-the-world-of-dna-decoding-in-india/69401/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 24
+    images:
+      - url: "https://www.forbesindia.com/media/images/2021/Jul/img_164437_medgenome.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Tata Communications unveils IZO financial cloud platform in India"
     excerpt: "Tata Communications on Tuesday announced the launch of IZO financial cloud platform in India, that aims to enhance performance and security of organisations in the banking and financial services space."

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Canadian Pipeline Company Adopts OneBridge's Machine Learning SaaS Solution"
-excerpt: "('OneBridge'), has entered into an agreement with a Canadian pipeline company (the 'Client') to integrate Cognitive Integrity Management TM ('CIM') software-as-a-service solution into its integrity management practices for its pipeline operations."
-publishedDateTime: 2021-07-29T11:09:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/270493698/canadian-pipeline-company-adopts-onebridges-machine-learning-saas-solution"
-webUrl: "https://www.bignewsnetwork.com/news/270493698/canadian-pipeline-company-adopts-onebridges-machine-learning-saas-solution"
+excerpt: "OneSoft Solutions Inc. (the \"Company\" or \"OneSoft\") is pleased to announce that its wholly owned subsidiary, OneBridge Solutions Inc. (\"OneBridge\"), has entered into an agreement with a Canadian pipeline company"
+publishedDateTime: 2021-07-29T11:08:00Z
+originalUrl: "https://www.lelezard.com/en/news-19925736.html"
+webUrl: "https://www.lelezard.com/en/news-19925736.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - Microsoft AI
+  - AI in Finance
   - AI
   - Machine Learning
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cus1627364805742.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+    width: 421
+    height: 421
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 628
         isCached: true
 
-secured: "skmFw/Rm2pTkp2H35KeoVPlup9/aWJv2PPUYsNAlZr92inVUggTXYPywD9VWry2VTU/4jalMpwPSz5+67ldj/T9il3q4M5uw5h8GRgFv3zIiqch1r6AFM4CP6Fb1jeSFZLyrxKvIH0Iy1ZTBdIZgMzsq7KbhPeu/ddPfpTUUmWwvx1D3mj9C92Q7K05pz4y6rH1OcY+ERXNwJHW/8APm4f4jtrKZSdEn/XlKs+vwnwIhzew6PJH3ZiaCnLdEzofwjHv1P9zXGLZ+K+MCqE5g1s9+paRSpKaB7evi26+H5JkUObqUrpvJfih64Bja+IcjkNpMFF7/DNWh7u8aHiXTtlubGSawJjJr/g3V896mP10=;z99WQFmEkyw/sKP6KousRg=="
+secured: "peEMQKItJ2sD9gOmsmYbcwYgTNRAyt4L1aqbngIvjiWtALnp9xPFDEQp02AE/9pQP/4/7N2ZkR/keNKbmu6j1VrdSYbQTeoCDanQhLCpjErT+fdAIZo4+ZrmaHnoiDHrZJWhWKe2wtQ9mAGg3r/5+n1c860J2yGU1sok4Q/hC8elgW9SONl4J9hm70qSIJeGxrfvvkdtscDe+Q4/00lH6IWxobc1Yex+lHctnlFaAZf7LwrwevGKYLo0XRdHq3XMsjTMbwG5FNnTAfP71UCxxXU4v0BACuecRijnu/+2mOVbBsgFzC02W9UR2XOeaA8A4A/L0W0VkOq35y1FX2QzgRuxkuUraFYfkBOf7MVfEc8=;T/lTc8xbF+/E5Kplhp8caQ=="
 ---
 

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Shield AI Signs Definitive Agreement to Acquire Martin UAV"
-excerpt: "Shield AI, a fast-growing technology company that develops artificial intelligence and self-driving car technologies for the defense industry, today announced that it has signed a definitive agreement to acquire Martin UAV,"
-publishedDateTime: 2021-07-28T17:18:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-spacex-59dd6011cdc485670075b7f65c46db8c"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-spacex-59dd6011cdc485670075b7f65c46db8c"
+excerpt: "Shield AI, a fast-growing technology company that develops artificial intelligence and self-driving car technologies for the defense industry, today announced that it has"
+publishedDateTime: 2021-07-28T18:27:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/shield-ai-signs-definitive-agreement-to-acquire-martin-uav/article_0bcb4aab-719a-5d1e-93e4-ae5b2af2f531.html"
+webUrl: "https://www.inforney.com/texas/shield-ai-signs-definitive-agreement-to-acquire-martin-uav/article_07ed6c15-cb30-5c1c-92b9-87cb579b01b2.html"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 117
+heat: 117
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "NZnWLG9olzARVXjoqZ6eVp313L8FewGCZEsrJFxfzgppKT9H/gmyYQCBT//i2CxMKe6Bpp+SOyRUNFeW/bIuIOcsp3EKjJ9bwRz5btAZPUSyjJmu4zEbV7Tb6ak/8JWzGBtxgfGXqxJFtGaQchQZMlJiux5QrWCy6gGkvz9gRf76OBUE2yosUwVe2C0NyLtpZY4wkhAIj+0apyFMz0gdu9thzNWHSOy95l9U0ixjMHvK/loJ7rDombxHA2ifhkII/2rLpRwOF06L+iEEfPn+cLr2wp505rDz0qOZfLFrtKcFdtBSSgj04OrrdPoNw6Ld6xIXJGObQplDUQJwbze9agj2BFOP6FMFuIgFwwmfNJs=;pHfzv1xVYR0kmWFuxrYPIw=="
+secured: "qmq4di2q1I/wc/SCWskRnc2NroD8cXTmCriYsx0OJ+xuFtW57zJutb5yggcgAhELyYlBO0bNPddxxd9wGxvT9D/fyj6ddmIqik6/0PeDDwz9Jp+qYCO7zo7j+gntr5LU4o8VdMRDFo0hkZFtPS75fFQ4ffi1YH3yReFCuLfZB2h3FaVSoVHpOg/ltHXkx1YRzTmR1zYERwAToOPmXUl59/SJRLTOahhnuLeNZGDSkQP5ZkJ5Q0WFEVKEFfDKEVbS2sGEnMOp+dcNrtHu8VpWkshGS6+dvb04c7ZP9Lu13m0IZ+XY93sM2s6QR+Le4/kwDp3ln846I3Yv0rfrPHEGA6L9Y1edhFrbxbszQJCY7Q4g02Wt6PqtNn57cRvGyFokC7VeA3NIDFX5RFtTUUVUQkwJ1p4SEEuM+FW0TfkQixYLZcEjTDZQG92fj5CxI4gk03jmccB3Gkxfj9RnBg+/UwT6MQ51TrIUgLIF6GGkdW+J3fZ+UWN6eVIIP33iivHWzTeL+71OFFJKecbC4q4PlCohjJirbQ5PA4cDLLSssLc=;SyxvPH7rwt+ltYC2J8up8Q=="
 ---
 

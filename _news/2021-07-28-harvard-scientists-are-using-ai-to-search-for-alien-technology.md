@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-28T16:05:00Z
 originalUrl: "https://thenextweb.com/news/gallileo-project-using-ai-to-search-for-alien-technology"
 webUrl: "https://thenextweb.com/news/gallileo-project-using-ai-to-search-for-alien-technology"
 type: article
-quality: 67
-heat: 88
+quality: 167
+heat: 189
 published: true
 
 provider:
@@ -57,6 +57,6 @@ related:
         height: 1133
         isCached: true
 
-secured: "uo7v6lCjR2LoKF/GhoBt+J1Ye6mcfIBOBtcdnOgebgQux767PRSF1c49v1pOLlPx5VNUfGDbJeTsvAgBrSnlKtLBSn17YIUXnqYOriTbZxc6ZGyNFZ3QCvV+yHIiwcxknt0eDkjkP86Al+Yw+VdgaysBW40J/ZZ2FMZOqmxdHoaW8vuLZArGW6buAjatwGzB1X7Mx6kqjd/3r2Luy1Wm0KFDzsmEPF5dPCg5eSnhFRtWOZpJAUXLxvdjPicEjj2xUdoDN9X9QLQoAPp0XFe5cAivAh46jKpa3/gs6J901sBKBYWlle53Koi71yQ18K1xEvTJWopNpfsGgfQ2uTzdAgoVEXgCgUmBs2olzIK6wUTA7mlgzkn4P0tK8VhTIybkbeuzE3jW9l2X6ks1pw4KtdrAT692ihlvgZ+dZxKlM50dYPUtDKN5k8pyTW/iFczVRCCGGcNiPu2x4OUh9uqlrYf2vV42jjJ+WuEbB3GDdn/sQg+nyzWLodWCY2esmXpbztBF55JTRAX8jCmu0rJE2Q==;G6Vdr4GFgUHjFy8xri2WxA=="
+secured: "OY6YPDepXzSt89O0BSmlfe438KpMPcUKINgfjfmeaBk0H0gQxgynagJEmc2WSelHrrjYk9b6m3a/jM25VQbD7mERNoX6dA5n2lbewsrNj5mSUCWBtZqpcZt/ormAInZoot1+a3XmmpOxw/RB87ld+uxli7YkgOcetTSnYKBWvoM1Sp99ZrmGpVA3hZtSrvDkKZSDfNtUoRfVtFhiRX7d9JKqT/0wGKuL2jP15EQMYUHtqHBmE08XH+HRVu9kxiXyzypR/YF4IIa/A8/Wewy8D2DykwUNZxe9DCzD/3aHVPCGjAgoBrRdm+VrmQOUNtKnFKwPfKUANTwFSngXr0w64O/q+6jMlbBJYBkjpEv64Oajsz3fiPCTxgBOlSzXk0ZDD5rGu/5As3v1pJjLw8UeaNqnDiE2RF2i52eJr1it0qz4SSv4aqoMvH6ciWzKoQARFcsTgK8BObJPj46R+4UcAI3L/2Rg05dibGibxvLS7K+/nB3HpiPZc6HUgLO68A47gaUrBWFNMhzHbuphtlRoE5j0O7qkHBVkqHP0hqKr+y0=;wIOoJqtYtK2uIvDXB01XpA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-future-scope-demands-and-projected-industry-growths-to-2025-2021-07-27"
 type: article
 quality: 80
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -113,6 +113,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Retail Market Size, Key Market Players, SWOT, Revenue Growth Analysis, 2016–2026"
+    excerpt: "The global Artificial Intelligence in the Retail Market is forecast to reach USD 18.74 Billion by 2026, according to a new report by Reports and Data. The retail industry has witnessed a surge in technological advances over the past decade."
+    publishedDateTime: 2021-07-29T12:52:00Z
+    webUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-ai-in-retail-market-size-key-market-players-swot-revenue-growth-analysis-2016-2026/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-ai-in-retail-market-size-key-market-players-swot-revenue-growth-analysis-2016-2026/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-ai-in-retail-market-size-key-market-players-swot-revenue-growth-analysis-2016-2026/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 31
   - title: "Global Artificial Intelligence (AI) In Supply Chain Market anticipated to witness remarkable growth statistics during 2020-2026"
     excerpt: "In Supply Chain Market anticipated to witness remarkable growth statistics during 2020-2026” A fundamental outline of the Artificial Intelligence (AI) In Supply Chain Market niche is presented by the Artificial Intelligence (AI) In Supply Chain Market report that entails definitions,"
     publishedDateTime: 2021-07-28T10:35:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-mo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/000_9DK4N2-450x300.jpg"
         width: 450
         height: 300
+        isCached: true
+  - title: "Pearson transforms language learning with Microsoft Azure AI"
+    excerpt: "Education publishing firm Pearson is transforming language learning with Microsoft Azure AI, helping students via interactive instructions, reducing tutoring costs for parents and enabling digital learning during the Covid-19 pandemic."
+    publishedDateTime: 2021-07-26T13:53:00Z
+    webUrl: "https://www.technologyrecord.com/Article/pearson-transforms-language-learning-with-microsoft-azure-ai-125061"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 69
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10428/img-Unsplash_Jerry-Wang_education_school_student_web.jpg"
+        width: 940
+        height: 443
         isCached: true
   - title: "Understanding Contextual AI In The Modern Business World"
     excerpt: "Exploring emerging technologies and those with features that can adapt will help meet this modern world head-on."

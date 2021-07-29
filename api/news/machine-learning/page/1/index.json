@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-29-progressing-personalized-medicine-with-machine-learning.md",
-      "title": "Progressing Personalized Medicine With Machine Learning",
-      "excerpt": "Researchers have developed a tool that can evaluate the potential contribution of all possible mutations in a gene in a given type of tumor to the development and progression of cancer.",
+      "path": "_news/2021-07-29-qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts.md",
+      "title": "Qubit Uses Deep Learning and AI to Help Retailers Perfect Personalization Efforts",
+      "excerpt": "Qubit has launched Qubit CommerceAI, a tool that leverages AI, deep learning and machine learning to deliver advanced 1:1 personalization techniques. The Qubit CommerceAI models are designed to understand and react instantly to customer context in order to unlock more value from retailers’ entire product catalog.",
       "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/cancer-research/news/progressing-personalized-medicine-with-machine-learning-351418",
-      "originalUrl": "https://www.technologynetworks.com/cancer-research/news/progressing-personalized-medicine-with-machine-learning-351418",
+      "webUrl": "https://retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts",
+      "originalUrl": "https://retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/progressing-personalized-medicine-with-machine-learning-351418.jpg?v=11347737",
-          "width": 640,
-          "height": 360,
+          "url": "https://retailtouchpoints.com/wp-content/uploads/2021/07/QubitGoogleRecAI-002.jpg",
+          "width": 512,
+          "height": 314,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/cancer-research/news/amp/progressing-personalized-medicine-with-machine-learning-351418",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/progressing-personalized-medicine-with-machine-learning-351418",
-      "publishedDateTime": "2021-07-29T01:57:00-07:00",
+      "ampWebUrl": "https://retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts/amp",
+      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts/amp",
+      "publishedDateTime": "2021-07-29T05:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
         "images": null,
         "publishers": null,
         "authors": null

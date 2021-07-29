@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robbery on 10th + Facial Recognition Tech + Migrant Minors Moved"
-    excerpt: "Also, the LB PD's use of facial recognition software is under fire. Finally, 1,538 migrant minors went through the Convention Center shelter before its closure. First, today's weather: Mostly cloudy throughout the day."
-    publishedDateTime: 2021-07-24T20:22:00Z
-    webUrl: "https://patch.com/california/longbeach-ca/robbery-10th-facial-recognition-tech-migrant-minors-moved"
-    ampWebUrl: "https://patch.com/california/longbeach-ca/amp/29713371/robbery-on-10th-facial-recognition-tech-migrant-minors-moved"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/longbeach-ca/amp/29713371/robbery-on-10th-facial-recognition-tech-migrant-minors-moved"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 59
-    images:
-      - url: "https://patch.com/img/cdn20/article-assets/daily-digest/patch-2___27133906517.png?width=984"
-        width: 726
-        height: 545
-        isCached: true
   - title: "China’s supreme court sets limits on facial recognition"
     excerpt: "The interpretation by China’s highest court sets boundaries on how businesses in China can use facial recognition technology."
     publishedDateTime: 2021-07-29T11:09:00Z
@@ -86,6 +70,34 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "China's top court outlines facial recognition infringement"
+    excerpt: "ANN): China's top court issued a judicial interpretation on the handling of civil cases involving facial recognition on Wednesday (July 28), aiming to give stronger legal protection of personal information."
+    publishedDateTime: 2021-07-28T12:39:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/07/28/china039s-top-court-outlines-facial-recognition-infringement"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/07/28/1236614.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Supreme court: Abuse of face recognition infringes legal rights"
+    excerpt: "All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC,"
+    publishedDateTime: 2021-07-28T02:40:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202107/28/WS6100c394a310efa1bd664f53.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202107/28/6100c8c1a310efa1e3b20c6d.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "China court interpretation to limit use of facial recognition"
     excerpt: "The Supreme People’s Court has issued a judicial ruling to regulate the use of facial recognition in all settings from apps to shopping malls."
     publishedDateTime: 2021-07-28T18:45:00Z
@@ -99,6 +111,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/02085231/smile-to-pay-china-facial-recognition.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Eight Things You Didn’t Know about Facial Recognition"
+    excerpt: "Facial recognition is a technology that has become common in recent years for a variety of uses, some as naive as unlocking your iPhone or Tesla car, and"
+    publishedDateTime: 2021-07-28T17:00:00Z
+    webUrl: "https://moneyinc.com/eight-things-you-didnt-know-about-facial-recognition/"
+    type: article
+    provider:
+      name: Money Inc
+      domain: moneyinc.com
+    quality: 39
+    images:
+      - url: "https://moneyinc.com/wp-content/uploads/2021/03/shutterstock_1108648043-e1614688904492.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "7uYpXcb3p0Uikc1Aqnv7eU1y+GU2ulxTCigfBJaaLR7vxZz/NaJPaw09j525qU7CArY7OtJz722TCaLASx7lKTDvL88PwIbSCHmrahz6OyaC9Ni/AdoJkil5jH+bqs3gxfUC2MBMiO5oTAeKoNOZ0QC5GJ9gczw32Zb6RjPlqSWBxvIZRMj+RsT0ufVnjehIoOZeoZu7p8jTFV7jXScEbsZ2mzUiM1rHfvUvzKay6ezE0smjDZTBVpbyDHrVwDvR6QaGfJlwlG+vo5O5zl2UDA497h8CMlDnWw+ZqG1qsr3ojjbC2GIqPja37enJ5nE4+9cIirTL35hNjVXKpW2ev65hub6j/6qreX317DJm9vuSg9SAGuK5WYpIxLjvoET9cWHUzvT9TC6CJGlMdeY3Tng6RwpEQR5O9MYYVXdKkyLl4eakCw8JvdhaVyyw0pj5BgovXK2qtdmcNbq58AMwqfoF1s4CB/Q3VPOEJ9pIn/Ffs7+/k2UecG76RjxUNMuyjoscGTrrUlJV8uSb5432mg==;p6LN1yCDaNHWUbKaNhs6Gw=="

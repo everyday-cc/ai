@@ -1,18 +1,18 @@
 ---
 category: news
 title: "DeepTarget Enhances Its Machine Learning Algorithms, Further Increasing Predictive Accuracy to Improve Consumer Experience and Engagement"
-excerpt: "DeepTarget Inc., a solution provider that utilizes data mining and machine learning to deliver targeted communications across digital channels for banks and credit unions, announced it has expanded its use of leading-edge machine learning"
-publishedDateTime: 2021-07-27T13:55:00Z
-originalUrl: "https://www.lelezard.com/en/news-19921428.html"
-webUrl: "https://www.lelezard.com/en/news-19921428.html"
+excerpt: "DeepTarget Inc., a solution provider that utilizes data mining and machine learning to deliver targeted communications across digital channels for banks and credit unions, announced it has expanded its use of leading-edge machine learning techniques to further help community financial institutions use predictive campaigns to present more relevant offers with virtual."
+publishedDateTime: 2021-07-27T13:25:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=506203"
+webUrl: "https://us.acrofan.com/detail.php?number=506203"
 type: article
 quality: 8
 heat: 8
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Finance
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
 related:
@@ -36,6 +36,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "hVPUolHoglERPb3LaEwBkZZBfQ/2ds3PxXpOYcPb0XzNXYKROUDqhDb2qaAgDZ+4HZYOFUJ/m/h39z/TrUGTS7RyWqo0B166yznmTZy1kodYIbGbaNjavI/CuMaq3rH8yA7+zVXezbs4ls7OXFUKyOvJeeD0AyNMeZcFY81UqdNXOH4gbJnJfpQ+GRK0jchSxrNtpR8DbM94TMIHrUgTUp3kk5lvRvxNRR4NgA8g1fqVJ+EIrscnvBQFhfoy9I1Tkt0qtCLOa/K6NqZ3jtesjN0XqsqFOAQnW9rNH7fko9II99Pw5f4jD4eRqnOccm7ZziHe5wniv3TLvAisMwcKj7RF7loYidpYIKNS/yzpSmE=;bd8mj3bTxvxSvdKThAhE+Q=="
+secured: "FwgV5KDqbj641sfoIJRlZQuXNF/qoBsTZzhePifHYMzK07eOLNYhCiGU+OMhPxRAA3E2udY2LUgO8WymM6DTZoGbhFnj83sgMv5XTONX9+8KYmlGtwHzDE1lbRutBPlf5ncbfWGxWQEaUFTZe/APy60VPhXBEhD8FAdvluQzjfIA6vtAzO3BCDjZSZKlrIww7fkWM/w9D7lQZdv0/39kcX5yN3ArmlQZL4O1z8XRRkvGqLYbqNZpxG2bU+Dnh1KNjRR+aB+I6jgQizJbHK6hW2eX2L9RVQD9fQYiQ3PMRUyvi8pNtJFCn4Jc5gNM4I7bWg7H0lqB7QNPv7rBXZcdR0z/bbMQa+EK5KgMCz2qs3s=;Y2VzUMug4EZdx81YGDowrA=="
 ---
 

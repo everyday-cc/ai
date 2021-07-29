@@ -19,31 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Progressing Personalized Medicine With Machine Learning"
-    excerpt: "Researchers have developed a tool that can evaluate the potential contribution of all possible mutations in a gene in a given type of tumor to the development and progression of cancer."
-    publishedDateTime: 2021-07-29T08:57:00Z
-    webUrl: "https://www.technologynetworks.com/cancer-research/news/progressing-personalized-medicine-with-machine-learning-351418"
-    ampWebUrl: "https://www.technologynetworks.com/cancer-research/news/amp/progressing-personalized-medicine-with-machine-learning-351418"
-    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/progressing-personalized-medicine-with-machine-learning-351418"
+  - title: "Qubit Uses Deep Learning and AI to Help Retailers Perfect Personalization Efforts"
+    excerpt: "Qubit has launched Qubit CommerceAI, a tool that leverages AI, deep learning and machine learning to deliver advanced 1:1 personalization techniques. The Qubit CommerceAI models are designed to understand and react instantly to customer context in order to unlock more value from retailers’ entire product catalog."
+    publishedDateTime: 2021-07-29T12:49:00Z
+    webUrl: "https://retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts"
+    ampWebUrl: "https://retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts/amp"
     type: article
     provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 59
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 69
     images:
-      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/progressing-personalized-medicine-with-machine-learning-351418.jpg?v=11347737"
-        width: 640
-        height: 360
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/07/QubitGoogleRecAI-002.jpg"
+        width: 512
+        height: 314
         isCached: true
-  - title: "Machine learning fuels personalized cancer medicine"
-    excerpt: "The Biomedical Genomics laboratory at IRB Barcelona has developed a computational tool that identifies cancer driver mutations for each tumour type. This and other developments produced by the same lab seek to accelerate cancer research and provide tools to help oncologists choose the best treatment for each patient."
-    publishedDateTime: 2021-07-28T22:21:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/07/210728111304.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "z2d+IhO3vdkinHR0QF7R/C3Rg+1mK8fcQluVwGXApPm/hXSW1vUsaRHZthtbu/kW0DC3v0mMhbR/9sSaSsIfa0hfns7A9hdV4Q2CxpLqeVA7W68MaNNzCz23VJ7DKQqLGo741KDMTayb/MDKuv8mWNFhtrXB66tBBbeLNfc9TrmKl9HpZpyqEzph0dHFjG98lelWF4Vxeyu9t0/9fdYEyXdsuZK78/YC+3mWNUeEi6Eo9tzEtoYeLGF7DvELTnDK0dLma7qFxOzydCi3rZ6HxNhsv5U6skwCjRHfIajwxcG9E7fgAoJsgonHsajKVaMkPyjgfWrAAng1xMmkj5V27Ux0CxhulLc0ZRZ9hybxbN2x0t8s2oj9GUksDkzz4C6ebXokJg6qVhH2anzX5R3mRhCT4VhjR+JnGqVshonld2Ab7EBiXPEIdTGBuWh/VCyl07HBX2ebCguebX3m9F5T2PfALfw7jdkY1AAAGsUQ48NscQvnuRsCnbmRKczBO7hPLqfCbpAjnUO8VpXObR9uGQ==;lOVMunGuhJsSHwEzBg0QAQ=="
 ---
