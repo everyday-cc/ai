@@ -442,6 +442,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-25-on-a-mission-to-hone-english-skills-of-tribal-students.md",
+      "title": "On a mission to hone English skills of tribal students",
+      "excerpt": "and they in turn help the students master the language,” says K. Srikanth Prabhakar, Secretary, APTWREI Society. The app, ‘EnglishBolo’, delivers online classes, including translation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
+      "originalUrl": "https://www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/em2ph2/article35517034.ece/ALTERNATES/LANDSCAPE_615/25vjpg4-tribal",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
+      "publishedDateTime": "2021-07-24T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation.md",
       "title": "AI Weekly: OpenAI’s pivot from robotics acknowledges the power of simulation",
       "excerpt": "OpenAI has shuttered its robotics research team. But that doesn't mean the firm won't create a system capable of controlling a machine.",
@@ -704,8 +747,8 @@
       "title": "Awesome! Did you know Khaya is Ghana’s first Translator App?",
       "excerpt": "It also allows one to translate the same from the four mentioned African languages to English. An interesting feature of this AI beauty is that it goes beyond the knowledge base of the creators.",
       "sourceUrl": null,
-      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
-      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
+      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/pressreleases/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
+      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/pressreleases/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -724,7 +767,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T09:52:00-07:00",
+      "publishedDateTime": "2021-07-19T07:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Ghanaweb.com",
@@ -1458,49 +1501,6 @@
         "Natural Language Processing",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-expertai-announces-winners-of-sentiment-opinion-mining-hackathon.md",
-      "title": "Expert.ai Announces Winners of Sentiment & Opinion Mining Hackathon",
-      "excerpt": "BOSTON, July 15, 2021 /PRNewswire/ -- Expert.ai announced today the winners of the \"Sentiment & Opinion Mining Natural Language API ... retrieval and machine translation, to make sure user ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/expertai-announces-winners-of-sentiment--opinion-mining-hackathon-301333647.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/expertai-announces-winners-of-sentiment--opinion-mining-hackathon-301333647.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook",
-          "width": 1500,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

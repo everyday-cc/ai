@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-hr-is-
 webUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-hr-is-balancing-tech-and-touch/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: aitrends
       domain: aitrends.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.aitrends.com/wp-content/uploads/2021/07/7-30VerticalFarming-2.jpeg"
         width: 550

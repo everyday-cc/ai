@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-mo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -158,6 +158,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Use of Artificial Intelligence in Banking World today"
+    excerpt: "But the development of the financial system didn’t stop here, as the digital age is opening up new opportunities — the use of Artificial Intelligence in banking and financial institutions. By 2023, banks are projected to save approximately $447 billion by developing and implementing AI applications."
+    publishedDateTime: 2021-07-29T18:28:00Z
+    webUrl: "https://www.finextra.com/blogposting/20688/use-of-artificial-intelligence-in-banking-world-today"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "QV3uxsxyrfkmOQ3hWOBDQhvpj4BxUt0zGt7TZGLCtfui090ysY7xSR8RJdbi6dSOVTF7KdembiWryjYAyBIk0lENBDv+NfQVsKQjpspqFXPGRV8ExJaijYmrMCBmmmHy2OzL/JTFp6K2DGqS5SZcM0f03Om0M/+LLWBFiw5zMmM0oTs8EiJRWl2r4RBnA8nF5yhWBbMEPFDPfqph3LS5ubzdvjlnGGbVQ3hxUmkrZxaBaq9ltcjclp+2mopJAVP/8zZEh1JeRY7jcaem37IS+iR6SzOsfmWVO5q4MgHLXce14o1E5KxgAZds8rEYcfqev3QvkyIVIwVcJ8G12XCXOMzh0WhSy5DUsdSZH/XzdmOOjgByw+2Egg2wFpK+HLdU6dljs5DJUFcRA8t2llOmFDE+ZIFm8c6GBkrQd/IVljoBaZ68W6zDPPG0PcusvtrimfyR2HlEFS12uY8V/P+r4xzviRhf0dU3qTNITsvUxvuEx7cl3Xz3fOlO6WYoq8xqCinhkzuIbPGwNUjNd+wKug==;gZf3F5WhxwyCtPPq55hHbQ=="
 ---

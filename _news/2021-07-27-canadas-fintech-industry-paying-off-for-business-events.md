@@ -7,7 +7,7 @@ originalUrl: "https://www.c-mw.net/canadas-fintech-industry-paying-off-for-busin
 webUrl: "https://www.c-mw.net/canadas-fintech-industry-paying-off-for-business-events/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,35 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "How robot carpenters could help solve Canada’s housing crisis"
-    excerpt: "The technology company, which also has operations in Edmonton, seeks to bring emerging technologies to the home building industry to address the industry’s biggest challenge: meeting the rising demand for housing amid a growing shortage of affordable homes."
-    publishedDateTime: 2021-07-28T10:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-how-robot-carpenters-could-help-solve-canadas-housing-crisis/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/business/article-how-robot-carpenters-could-help-solve-canadas-housing-crisis/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/article-how-robot-carpenters-could-help-solve-canadas-housing-crisis/"
+  - title: "Infobird Co., Ltd's (NASDAQ: IFBD) Successful Launch of Intelligent SaaS For A Leading Fintech Increases Presence In Financial Industry"
+    excerpt: "Infobird successfully launches Intelligent Quality Inspection SaaS for a leading fintech company Infobird's Intelligent Quality Inspection system will enhance the fintech company's management and customer service capabilities Infobird researched and analyzed the customer service business scenarios of its client,"
+    publishedDateTime: 2021-07-26T17:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/infobird-co-ltds-nasdaq-ifbd-successful-launch-of-intelligent-saas-for-a-leading-fintech-increases-presence-in-financial-industry-2021-07-26"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
     images:
-      - url: "https://www.theglobeandmail.com/resizer/QYqmQLQb3mxAy0abjvjiRL3n40E=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/QBCSBFC42BHSHPPCNPR3JIEEM4.jpg"
-        width: 760
-        height: 508
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Cansel Brings TinySurveyor Robot to Canada"
-    excerpt: "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada."
-    publishedDateTime: 2021-07-29T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm"
+  - title: "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-07-25T19:28:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/infobirds-successful-launch-of-intelligent-saas-for-a-leading-fintech-company-paves-the-way-for-further-expansion-in-financial-industry/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 0
     images:
-      - url: "https://mma.prnewswire.com/media/1583655/Cansel_Cansel_Brings_TinySurveyor_Robot_to_Canada.jpg"
-        width: 400
-        height: 317
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/1627237893_yahoo_default_logo-1200x1200.png"
+        width: 1200
+        height: 1200
         isCached: true
 
 secured: "qOVvTJnrJQ7ufU601VQNS49FHsrn4LALLlvc6auwtmcHPsCzDcyVPmS3Jbv4nQjgMswSrcboL4j1noXPpDMoaoPcFIFCYh+hgrt003U69I6ZRiFAgYQ4y7H3EdTMP7EjsMbvSa0c1QHAHXXbYunQ2mTy0xzfcyHZVXstWuub3S6HM+EHau//l8IaGHVZemHwW9rAkB1zZGfWqkS2VCGmSGKOIoruxDqw3NfxnSVGsEoiSSdvadI0uUBZQl3IusJciq5XHgC3cZPGPkS+vl6cRLlv/svW7Ecpw8M0j4LwbCXD822ZgEmImZlSUrmJA/Veas04C3rtikHY3wZ0wrqFU8rif6vZ5EpfVzLGyd9cyKTcG1h0giWlHqtE2VRgE7FU+3/ySkzXIqPjWWLbpL72xd84wxe7Z+H0myCxxKAT930gpFQNPEm+q2rfieiFqls+KmKn5Aw8zys19xZ/wMnqH0ezvaPt+CTwAKkcIbwQjzUZzybG2lVUuxRZWbOdCK4FBZgNkGO2wC3H5oj4TAwzsA==;dpVz6xtIwsQbTO/9zRDMYQ=="

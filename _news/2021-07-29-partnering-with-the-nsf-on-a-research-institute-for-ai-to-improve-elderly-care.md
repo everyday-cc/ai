@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/partnering-nsf-research-institute-
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnering-nsf-research-institute-ai-improve-elderly-care/amp/"
 type: article
 quality: 105
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -102,6 +102,34 @@ related:
       - url: "https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2021/07/27141149/FlowW-4sec-600x358.gif"
         width: 600
         height: 358
+        isCached: true
+  - title: "UW to lead new NSF institute for using artificial intelligence to understand dynamic systems"
+    excerpt: "The University of Washington will lead a new artificial intelligence research institute that will focus on fundamental AI and machine learning theory, algorithms and applications for real-time learning and control of complex dynamic systems,"
+    publishedDateTime: 2021-07-29T19:53:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/923902"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 28
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/66b3a8aa-c4f6-4053-ab7f-5dadff62251b/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Drexel Researchers Will Develop Artificial Intelligence Technologies for Adult Learning and Online Education as Part of $220 Million NSF Initiative"
+    excerpt: "Researchers in Drexel University’s College of Computing & Informatics, who are studying artificial intelligence as a tool for teaching, have been selected to join a $220 million National Science Foundation initiative to expand the use of AI technology in areas ranging from agriculture and food supply chains to adult and online learning."
+    publishedDateTime: 2021-07-29T18:00:00Z
+    webUrl: "https://drexel.edu/now/archive/2021/July/NSF-AI-online-adult-learning/"
+    type: article
+    provider:
+      name: Drexel University
+      domain: drexel.edu
+    quality: 16
+    images:
+      - url: "http://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx"
+        width: 315
+        height: 326
         isCached: true
 
 secured: "EK5OKMnx59Gk+gB8gnZ6fUBNgl0yKXYcP96q1ayZgUfTlxtPoPg4GaqLYe21NJZYhVuo7CrqAfVqWIQ9zT5hIUJKHu8p0hXV4lKDz9DGJMhW6I9wBofvOaUwC7HCoDQ6kexkyQgPWNpmNKCsHGRu+9l2Ck4F6bETMRGVPUGFwou7jjN+RmRtgkuM5l0SdzDtTrVGMOvF8uOPOzK5WKSlz95/KUQLRC6L3TlJtMrTD/Gwy+606qSlUJzQ5OuWkPKUc7/jxPeVnftVBSUIb8gZ3wy8dfx6/h3axBs8PXr6joDDM41IRGkMEZxgoXbElb8CXuyOimS6fMvKOKW9GJGQVgmhSxzkqhvxNk9JX9kNKrQ=;5hYPs6NlUmOX1XNBjMg65w=="

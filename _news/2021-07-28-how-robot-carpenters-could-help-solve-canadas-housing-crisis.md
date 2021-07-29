@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theglobeandmail.com/amp/business/article-how-robot-carpe
 cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/article-how-robot-carpenters-could-help-solve-canadas-housing-crisis/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Globe and Mail
@@ -28,32 +28,18 @@ images:
 
 related:
   - title: "Cansel Brings TinySurveyor Robot to Canada"
-    excerpt: "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada."
-    publishedDateTime: 2021-07-29T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm"
+    excerpt: "GPS-guided mobile robot will help surveying, civil engineering and infrastructure professionals increase quality, efficiency and above all,"
+    publishedDateTime: 2021-07-29T15:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cansel-brings-tinysurveyor-robot-to-canada-1030663408"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
       - url: "https://mma.prnewswire.com/media/1583655/Cansel_Cansel_Brings_TinySurveyor_Robot_to_Canada.jpg"
         width: 400
         height: 317
-        isCached: true
-  - title: "Canada’s Fintech industry paying off for business events"
-    excerpt: "There’s something about Canada that inspires images of size and grandeur; whether it’s the expanses of beautiful lakes, the vista of stunning mountain ranges, or the jaw-dropping emptiness of its national parks."
-    publishedDateTime: 2021-07-27T08:27:00Z
-    webUrl: "https://www.c-mw.net/canadas-fintech-industry-paying-off-for-business-events/"
-    type: article
-    provider:
-      name: CMW
-      domain: c-mw.net
-    quality: 24
-    images:
-      - url: "https://www.c-mw.net/wp-content/uploads/2021/07/RESEdmonton-Skyline.jpg"
-        width: 802
-        height: 537
         isCached: true
 
 secured: "+64RCVtxo7ynYReaOKLHadRLTtpgrB9/C75ZnfW99XkIcU5eieYj8vA+mVCcYHx+Xb/WmOOzWhAJEinh8FB0gt38FDsPDkdGQi6pNFpCPPf6yizXC7YUfuvESIVOwAhD2I5z8Rkd5abd8F3NIgUGQKf5zIbeCTm7Z8Tvz4FVt8rVSdos9Ps4FV8YC//xCgxyvQEfTp+1i7xlscgYzoBzW25DWeEvJ7ruIiM71c9tBKBbGBdj1DOcka76uKlAukxoDWFAe0MM9yc+2YtZtenvW+FXkJyk5TQ22iLaDOblroHtvl1Wf2R6+c93ohiegl7i7OKslfOtUxGS8ypOO2zpyOnAYoPpDY7ZIedZmhGibxw4xCRV7i0rNlLl+snyZIrDLCjJvs/yB5xEH5oz7X0O7agIkk8ndKhlyr4QlWRsSw0GKkPMsKibT//gd1Ds3eKNXdVacxjKxlrBfRiQzQKaDvdxKkKwd2wGFRQdTmUw90Mqak0HDvp7Gg/Sky5UCLzuxzk2BbEZ9yEA6sePn8quxw==;IEqqRpgV55rsvs+BYeCbww=="

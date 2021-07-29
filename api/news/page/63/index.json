@@ -2,6 +2,50 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-06-14-stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour.md",
+      "title": "STEM, Artificial Intelligence, robotics, and mechatronics high on education agenda – Ntim Fordjour",
+      "excerpt": "The Deputy Education Minister-designate, Rev John Ntim Fordjour, has reiterated the commitment of the government to invest in the learning of STEM, robotics, Artificial Intelligence Mechatronics, the Internet of Things etc. which are critical skills ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/",
+      "originalUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.myjoyonline.com/wp-content/uploads/2021/06/GH.jpeg",
+          "width": 960,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/amp/",
+      "cdnAmpWebUrl": "https://www-myjoyonline-com.cdn.ampproject.org/c/s/www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/amp/",
+      "publishedDateTime": "2021-06-14T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyJoyOnline",
+        "domain": "myjoyonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-the-station-robotaxi-apps-on-the-rise-an-ai-pioneers-new-startup-and-mobility-event-highlights.md",
       "title": "The Station: Robotaxi apps on the rise, an AI pioneer’s new startup and mobility event highlights",
       "excerpt": "Hello and welcome back to The Station, a weekly newsletter dedicated to all the ways people and packages move (today and in the future) from Point A to Point B. Welp, the mobility event is over and we had loads of interesting interviews and anyone with an Extra Crunch subscription can access the",
@@ -1099,49 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-aws-announces-the-general-availability-of-amazon-ecs-anywhere.md",
-      "title": "AWS Announces the General Availability of Amazon ECS Anywhere",
-      "excerpt": "Susie Xia discusses the video encoding system used by Netflix, and the tools and techniques used to analyze performance and to improve the system efficiency. Ann Lewis discusses how MoveOn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/06/amazon-ecs-anywhere-ga/?topicPageSponsorship=f8e43c6b-66c9-48f9-a4c6-0f0e1dc93f13",
-      "originalUrl": "https://www.infoq.com/news/2021/06/amazon-ecs-anywhere-ga/?topicPageSponsorship=f8e43c6b-66c9-48f9-a4c6-0f0e1dc93f13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/06/amazon-ecs-anywhere-ga/en/headerimage/header+%285%29-1623417711081.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-13T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

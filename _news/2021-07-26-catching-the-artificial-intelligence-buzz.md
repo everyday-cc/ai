@@ -154,6 +154,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Use of Artificial Intelligence in Banking World today"
+    excerpt: "But the development of the financial system didn’t stop here, as the digital age is opening up new opportunities — the use of Artificial Intelligence in banking and financial institutions. By 2023, banks are projected to save approximately $447 billion by developing and implementing AI applications."
+    publishedDateTime: 2021-07-29T18:28:00Z
+    webUrl: "https://www.finextra.com/blogposting/20688/use-of-artificial-intelligence-in-banking-world-today"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "+YXHfFSVzK9ECJnenKWNUy/aTs/li3feaVI7W+zDr88yT4f5+PRiBCh+dzRcqoWGmi9a3y5A71HBaUXENr2dnBv85H+Xin4OEIQEDd79+k6i/s/AbzgSRzIqs6jAHaBJx+WbaBRWHmdxFvC53/5g4STS/XweyHajBnGhOrx4N54PF7C8vov5tgqcBRO4Lj8+3PKtkgpf9R6zmR108d7VLGekQQhkUllSby1plZCgvbzRoKLoq4VyDHcJdTS6lZpqOjyTeFLavHviTEb2d/upwHLiO7AT1T1oxxZqdTTp6gHn0TXgcP2HjOoHSNHbRTlpQtvxEqZvf9HQGsqnQnFtpnhSbJo4FaZ+wPZtyFQ32fI=;rFzjFeyDDoDxtVmAAIsr3A=="
 ---

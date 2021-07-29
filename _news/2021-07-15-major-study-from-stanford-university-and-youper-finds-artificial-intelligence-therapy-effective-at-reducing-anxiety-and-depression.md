@@ -2,19 +2,23 @@
 category: news
 title: "Major Study From Stanford University and Youper Finds Artificial Intelligence Therapy Effective at Reducing Anxiety and Depression"
 excerpt: "a team of scientists at Stanford University confirmed a new model of mental health treatment that uses artificial intelligence therapy is significantly effective at reducing symptoms of depression ..."
-publishedDateTime: 2021-07-15T13:02:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html"
-webUrl: "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html"
+publishedDateTime: 2021-07-15T13:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-1030611413"
+webUrl: "https://markets.businessinsider.com/news/stocks/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-1030611413"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "IH3Mkxggbp1VHxtl/3uI8pAjB1RqBlaLejxgIqZNFoO9TUKJDmq0Wrm5Fd0/91T3AUdZxS/dKcJ8y0QzEIxu6F0HHbarjiwmahH21oCh281Vnsz72ekDSokWvgxkS4daP1u5Axk8DDZNNzFR27gRUINVVHeTU5xX0Yqz9obbdLgOAPxEqdv/i2uNdck9ne93XsjLOZ/y+zaIrzpVsIIbgdg4ATZ+PQse7wXNsoEaQfi7K0PeZ1JIlOf9mtuYTG2egQgjUibosMEv7Gyb0lfPqSNxCr4M3TwqanvW7uad8aqjIWCzUWBbMfc6e7OzKkbg4ZXkol+o+pjlmSOlC80wqG1mycxt9/XL2NGJZ/S6pSc=;qevMmtaXsVjLRfVgsiwk9A=="
+secured: "yLyEx4VjbBChZUmmAOD/fTGjow0tR/27ne9zeGO5ncB3ILKgx6uVE89jwtkk/4uws7qIz3XJpRk75FD90qwByvZGQd+7F83ZtXEEi3DrU7ySJOPsfceTM0pEWIwAwTEOA7FyX8mS5wLbVl9xRvNyrWSRUImiK9AMyTpgtVDrIrwp/MONW6xKWvoO/UH/vWHEuO/peKGLtXemLmZebizndq9quiQsmH34v5oH3gMW4l1DgObxovgz3RY5452B2jaK5SZI/x/yhfwR55Gl9hvFQ4CiLOJbZQj3ElZAr9X0ONuoY6Vwsuf7Kv0DuK3A0x7P/Tr6UdziQ3RSc7DsQrKu5C5p8TsyRiiLx0/9g/bHD2Y=;IYI+KTarXZFnjQWmoo8r3A=="
 ---
 

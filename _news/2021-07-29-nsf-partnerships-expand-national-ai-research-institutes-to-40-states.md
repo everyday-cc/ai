@@ -100,6 +100,34 @@ related:
         width: 600
         height: 358
         isCached: true
+  - title: "UW to lead new NSF institute for using artificial intelligence to understand dynamic systems"
+    excerpt: "The University of Washington will lead a new artificial intelligence research institute that will focus on fundamental AI and machine learning theory, algorithms and applications for real-time learning and control of complex dynamic systems,"
+    publishedDateTime: 2021-07-29T19:53:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/923902"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 28
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/66b3a8aa-c4f6-4053-ab7f-5dadff62251b/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Drexel Researchers Will Develop Artificial Intelligence Technologies for Adult Learning and Online Education as Part of $220 Million NSF Initiative"
+    excerpt: "Researchers in Drexel University’s College of Computing & Informatics, who are studying artificial intelligence as a tool for teaching, have been selected to join a $220 million National Science Foundation initiative to expand the use of AI technology in areas ranging from agriculture and food supply chains to adult and online learning."
+    publishedDateTime: 2021-07-29T18:00:00Z
+    webUrl: "https://drexel.edu/now/archive/2021/July/NSF-AI-online-adult-learning/"
+    type: article
+    provider:
+      name: Drexel University
+      domain: drexel.edu
+    quality: 16
+    images:
+      - url: "http://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx"
+        width: 315
+        height: 326
+        isCached: true
 
 secured: "jBN7Fe7EUupMfS5AWQMjbi8bIom3sijxDVdQht4Qpd4V/Am6c4yQTTayYpFp2wcXqrTRDrbQ3RLoAOuKKwqoRYvoA6dGznab7Mbz0HoJTx/KPZzJnsKxngzvtk0uP0jZboBguokqX/kc/FSgfjQ9d416enUP9rZ/bZQUonbY8vXDNU3ahM2Y/TxpGED4hEm9YOrvWyCR9oK4xB9sHC2CaPWRE63yhAk1MUWyX4mQl0PtiVaK+vMTQYEIKWy5hSb8kBVa6msqoXIy2OlBVQhzhALUdzD/xb7BM/UcwXrWKzU6D176lt2YQA+WrVLJ6cQ+i7ULfRZvYpyIbS5KYrPztW6CqlZI7S/ssQaYZKgOiQw5wwWp03F/2YVajrS0bGqDgy3RyuF8lwNmWo4zhtO6nerwilaZAcH5t0ULyxOc6auCuZel2IETFQ06dFF0SX9muDlrmHHuaLD3HgljFmyiqLAxq0ivQ2IvfaK1UYmEwDBujBA5bUOmCotS0qhg7LI2LdPZ4VlY4C/dCj5OvsDpiA==;wknW/Yowkh9Oy2Yi47e24Q=="
 ---

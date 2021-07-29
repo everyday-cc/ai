@@ -103,7 +103,35 @@ related:
         width: 600
         height: 358
         isCached: true
+  - title: "UW to lead new NSF institute for using artificial intelligence to understand dynamic systems"
+    excerpt: "The University of Washington will lead a new artificial intelligence research institute that will focus on fundamental AI and machine learning theory, algorithms and applications for real-time learning and control of complex dynamic systems,"
+    publishedDateTime: 2021-07-29T19:53:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/923902"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 28
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/66b3a8aa-c4f6-4053-ab7f-5dadff62251b/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Drexel Researchers Will Develop Artificial Intelligence Technologies for Adult Learning and Online Education as Part of $220 Million NSF Initiative"
+    excerpt: "Researchers in Drexel University’s College of Computing & Informatics, who are studying artificial intelligence as a tool for teaching, have been selected to join a $220 million National Science Foundation initiative to expand the use of AI technology in areas ranging from agriculture and food supply chains to adult and online learning."
+    publishedDateTime: 2021-07-29T18:00:00Z
+    webUrl: "https://drexel.edu/now/archive/2021/July/NSF-AI-online-adult-learning/"
+    type: article
+    provider:
+      name: Drexel University
+      domain: drexel.edu
+    quality: 16
+    images:
+      - url: "http://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx"
+        width: 315
+        height: 326
+        isCached: true
 
-secured: "3I0d3cAuL+FEyS8zUoFtwBcgh/pvZ2IQCMVfTR7Iym/9eQKmFgGGX7ZTXCmoIRTzwvecVmNww/FhnJ8iPdZrqHC7Nvv9dkGIntWOKYF82MEHYnc38FFzxtlVI+jg7B/d5zVVqQnn1j0pX1qyC0mUzc/GW31f58dTU1Uyf+LQTDumcheXxDULdQAgPTeoHkowyozDIbZw8z2RxIozNEbWAM6ZgfRNRB0GutHEckL7cQT06M1STZFaac8UbEXMJcsT4iijh70wvtWZbFLlMuj4cSXx4dflvjI2/hUoZiqyr+DMAmAqo2fUqOK9QcTnh5d6X8nRPtWo2tfFptKsB2OVCesIbNAuNmBOzVEcEPTtVLE=;JYYw3hacWjpHO3CrQqVVAw=="
+secured: "4hPiemdxNFpPphJkiInIdZUE0H6cV4q+vrNtuDAF1G0p2B/jby2OHltaa3cqImnmhC61AUgy8P3P4WJEjSgBOi3Dpnxq1mkbYrEXrXH0n17hkn0KVJ1IWIefBk4H+r4ZZgyv/pltzkBanF8OF/SNf+/o85waFVERcBrNpN3hmAP5hYQ4lTFSYY0QgwE65hF3O0LMp7HV0Qi6uHu+u8Mu6cOsTF9hWu9WVgINyGKLQHoW7Bd8XAbgMGj7RzsfpZRhiycCbHIiMntRV7+GuChUck6Lnx+N1dNs/xFiHoXfaGQ5UhrGAWsfxoSiqxm4eHSkpfCCd0fOnS1aeXWr5/WRIdB4PuGZ2zKsd18Dflexf//7dVQ/WxIW5R02SAtr5kza/StqKUy3FQZv8OxKfsoLA/yumpv4n15hBhLmZRb6lATDcgdb2VrC8mZIQMrde54MBlK71ejwO6zS3aPBuk61X9QWDxhGw0apf5LCQXwmy2BilcMPoir4qkxPwQS9hva6fg6ZEcTSCmQt/MA4n845lA==;C68s4xCRj3WaGxB/xONsfQ=="
 ---
 

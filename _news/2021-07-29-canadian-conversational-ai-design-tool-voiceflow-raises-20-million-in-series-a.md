@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/igorbosilkovski/2021/07/29/canadian-con
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2021/07/29/canadian-conversational-ai-design-tool-voiceflow-raises-20-million-in-series-a/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "NSF makes $20 Million investment in Optimization-focused AI Research Institute led by UC San Diego"
+    excerpt: "The National Science Foundation has invested $220 million to establish 11 artificial intelligence (AI) institutes, each receiving $20 million over five years. One of these, The Institute for Learning-enabled Optimization at Scale (TILOS),"
+    publishedDateTime: 2021-07-29T19:33:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/923893"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 25
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b221cba5-e877-4a14-ac15-0aa9b5713c0e/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "9md6h6rUPfU+guemIEKd4aF2BkXcpPH/ImefAAQ/vapokrDqykZZDAb5ezNSya7wc1ut7VmzfZ5VhVbWm+O+qYHox4jmwVd1vwawRcmPHGtQqclHgb22qcGoZtu6AcL0v/6hkfIOipCs7vFnyg64igIjesn1huZaejfPRA+ObVxMaKaVmuIBrvyiflsck34dl7I+xjLm6n+ptZhuiSRHf+jJqbV9YEjQULKjYYa0LLBlh6eo+GizOXMNLceF2mhTHm8s7SdRVq/mgvD+PG4LbSQHa3/Zkgb0a0ZEBainyz8f9zlNJYx2PV+gahHq0hbobi5fiZc2O3zBnokpdwsEBdjyjNXWDPLbU1IHCYkE4D8f5p+RcMBbUOnxcY8E/3uU1eM2Fs2EqRXJXgPbQVbcAzEPP5A3FdVanwtnYnTjCsYP3/1oGMmnLh834A3+TVzP+ab26UNP7wBy+gPkynkcHVbVZUdb2aNkXUXJY3Ob8dHqXpBZbeLQm9WC3g2k4uboF5BCM4Lzcds6mh/QxE0+oQ==;GRf8BRnBWZOOb8GYA6d/Xw=="
 ---

@@ -2,19 +2,19 @@
 category: news
 title: "Hosemann pushes health care, jobs in Neshoba Fair speech"
 excerpt: "The time for simply saying ‘no’ to our options for working Mississippians has passed,” Hosemann said in a speech prepared for delivery at the Neshoba County Fair. “When a cancer diagnosis can bankrupt a family,"
-publishedDateTime: 2021-07-28T19:37:00Z
-originalUrl: "https://www.registercitizen.com/news/article/Hosemann-pushes-health-care-jobs-in-Neshoba-Fair-16346647.php"
-webUrl: "https://www.registercitizen.com/news/article/Hosemann-pushes-health-care-jobs-in-Neshoba-Fair-16346647.php"
-ampWebUrl: "https://www.registercitizen.com/news/amp/Hosemann-pushes-health-care-jobs-in-Neshoba-Fair-16346647.php"
-cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/Hosemann-pushes-health-care-jobs-in-Neshoba-Fair-16346647.php"
+publishedDateTime: 2021-07-28T23:37:00Z
+originalUrl: "https://www.thehour.com/news/article/Hosemann-pushes-health-care-jobs-in-Neshoba-Fair-16346647.php"
+webUrl: "https://www.thehour.com/news/article/Hosemann-pushes-health-care-jobs-in-Neshoba-Fair-16346647.php"
+ampWebUrl: "https://www.thehour.com/news/amp/Hosemann-pushes-health-care-jobs-in-Neshoba-Fair-16346647.php"
+cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Hosemann-pushes-health-care-jobs-in-Neshoba-Fair-16346647.php"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: The Register Citizen
-  domain: registercitizen.com
+  name: The Hour
+  domain: thehour.com
 
 topics:
   - Natural Language Processing
@@ -26,6 +26,6 @@ images:
     height: 336
     isCached: true
 
-secured: "BT57VNQVpEUOBQX728n9ogBRXJFqw1ZtVw6GY6fvNY+CD1je6qLLKf7bwvMCWNjVildieluSTl1hsYHXXbFGxsDSgOV3N/+1G5PanZx3JPP6SRwuRxms3NBNM6+/jeOqvBvjGyDUKZ9RIeMu2PFkdLO9PC9hORO3lo0jx84dntC0FjPG37Xmg9evn3zKJg78cunIfUBmYlZWoHxYgHE4Ui4nDKFafoashluUkFZKGsOnIE+eJOG3b/VRCHWU7JyyNZ7WLdaURtcybXMhrS6b3N9VgL/jrpqv1vhGTHbbUjhWi0J0o9nJ/CwWqYRsedztGn4x02TTfhb7jPeta04HLhb8NHgACG/yzzEsnbzyopPLvQFupDB4jPV3ci2IfE7R5+juTZd3cGXnYQsKAdaE0giSZeqwfT0SXQ6c+FrOw4muuUBN9Fy24NzjctjzS9exIwXneOnJ/85DDuXdRrEkcClkjPyrBRqa042GDD5z7WD4Z1o+BLwQ8xUZjj8tuxNTEDxB4xamfHkUTsW87fzQ7Q==;dwSgA6FkkX/HQuMevZjk1g=="
+secured: "uzxi5tj+fMzh5NhlbZNgN8i/kRnwng6F0ruM/9gxXl5APGKFRItZpecYzbm4/o0FMod/WujE5vfffqluQ8Q/8KLD+7eEBZajx4ujeTaX+aSOuoDUVGLUFrPJwAY5Chjzzr5/N5kYOz/zNZHD64BtKyME0IA/CXCSoaIaW6uxKptSQqxr+PSyGhUyzYOFgGyG+jMOB/zypDEDZI8GJDtXWiP+8rczIk2fSwXUCyn65uPj4zlQFHwXbhqRuo45aQs9ZkC1yyCWQaf5vBvS47+bS3Nj1f314O0hVqta+fflGd7EuejlsezSPsEKA/K1FQ4Td3OytX3SkiV2kxIlHW68MX2G7GUUszmRDQ1dVY1Fo/g=;sd0MSc2fk370JgoWfjbyPA=="
 ---
 

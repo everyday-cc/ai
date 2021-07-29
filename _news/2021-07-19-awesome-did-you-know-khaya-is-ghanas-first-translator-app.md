@@ -2,9 +2,9 @@
 category: news
 title: "Awesome! Did you know Khaya is Ghana’s first Translator App?"
 excerpt: "It also allows one to translate the same from the four mentioned African languages to English. An interesting feature of this AI beauty is that it goes beyond the knowledge base of the creators."
-publishedDateTime: 2021-07-19T16:52:00Z
-originalUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792"
-webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792"
+publishedDateTime: 2021-07-19T14:24:00Z
+originalUrl: "https://www.ghanaweb.com/GhanaHomePage/pressreleases/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792"
+webUrl: "https://www.ghanaweb.com/GhanaHomePage/pressreleases/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 600
     isCached: true
 
-secured: "/8MvpnJvWbecKB8bMH51/xei1Qk8fnvo4ssxFiBX2TnutUekz3jky/CLjK2pH6JTze7b0Dk0c9ZH+YlJHba3xDBkbtCoanF2+mzAaMYUSV95XGZYHDpyzI3/EfWE8RopMHbmCKMNHZJN2wN18TNzDygp7eJ7qHLh5+piTQne/0XNNHSAwa4nhHM9d6ZxznAoQdwUGFEC/6GL74lIfv4T/pV67FC7NDt7lVV6FUprJjW9c76qWD19QntntX/PtiDs9Sm2jG/wCd8TYxSHgh5MMAFgyMTsmuuNGeuH1LCOqXjmeyVLSqHzM+NSHKgthP0JYBJ+7TSB3lkzuipnQjAQp7OoUkhjR+Eh7SB8xTyrZKU=;27TW3AZ505UVBHi1uOALcg=="
+secured: "1oGYYiUUtSQ5bchFUr0NejoAarzL+1hLn4hLR7bC3eRGE+AwdwquMPh0Pa/oAWKCe/6EQKK2J9/1rU+ccQD9g3V2I6Pw/jTp9+7/s4Wkrzey6GACa/nR5n/6XecFb4Nvfx84CaNaARKkE1YfewScPezKEjuvkdT93vMCQ2mW+K6IPBGYVNkrIGYhVf59JHr3UpbcLGnb4cL+akv+hqGck+wggT352CvRrk+Qpnx7hNtDAqC1CR9Etaj694Y99lpTSkQ7WmTdYxW1dTNY6LRKQIPTnsMdSqvYl+QY7U7ktYPjmTUj0Ot2i77GHmUSisKOp4LRvsr0PIFw2in3ICoBqv4Qi7XwdavYnErFG6zKn98=;uc1JhSVoQ0jAcE9kzZFRow=="
 ---
 

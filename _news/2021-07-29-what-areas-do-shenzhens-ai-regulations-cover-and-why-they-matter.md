@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-29T09:00:00Z
 originalUrl: "https://www.china-briefing.com/news/artificial-intelligence-china-shenzhen-first-local-ai-regulations-key-areas-coverage/"
 webUrl: "https://www.china-briefing.com/news/artificial-intelligence-china-shenzhen-first-local-ai-regulations-key-areas-coverage/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.china-briefing.com/news/wp-content/uploads/2021/07/Artificial-Intelligence-in-China-Shenzhen-Releases-First-Local-AI-Regulations.jpg"

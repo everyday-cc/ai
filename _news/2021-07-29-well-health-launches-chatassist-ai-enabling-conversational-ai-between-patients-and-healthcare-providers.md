@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/well-health-launch
 webUrl: "https://markets.businessinsider.com/news/stocks/well-health-launches-chatassist-ai-enabling-conversational-ai-between-patients-and-healthcare-providers-1030661696"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,35 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence tool could increase patient health literacy, study shows"
-    excerpt: "A federal rule that requires health care providers to offer patients free, convenient and secure electronic access to their personal medical records went into effect earlier this year. However, providing patients with access to clinician notes,"
-    publishedDateTime: 2021-07-26T13:55:00Z
-    webUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-tool-patient-health.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-07-artificial-intelligence-tool-patient-health.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-artificial-intelligence-tool-patient-health.amp"
+  - title: "Human Assisted Artificial Intelligence: A Pathway to Trustworthy And Unbiased AI"
+    excerpt: "Using AI for automating manufacturing and improving our work streams, such as providing robust CMMS (computerized maintenance management systems) is an excellent application for AI."
+    publishedDateTime: 2021-07-29T18:40:00Z
+    webUrl: "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/amp/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 97
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-23.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102ef37f481281f327c9112%2F0x0.jpg"
         width: 1200
-        height: 450
-        isCached: true
-  - title: "Abridge and Mila partner to apply advances in AI to medical conversations"
-    excerpt: "The healthcare AI startup that helps patients better stay on top of their health, Abridge, announced a partnership with the University of"
-    publishedDateTime: 2021-07-26T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/abridge-and-mila-partner-to-apply-advances-in-ai-to-medical-conversations/article_ab3a2c4b-cf49-53e1-afd6-0abf4d9f26f9.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+        height: 807
         isCached: true
 
 secured: "OKLosVd8BvDnCcG0Pm7ypp8bhcE4PoymxG+2ugONKdeTdsy0ZLI7EQNuEKP1hycqqqK6wK2qHE1aXigSm9K6vw1PTj7kyZEdJsMD9RGtwgV04ywOaWMOAgQLRJ0QSlCExDf1g3MfrHckcGIWaubrt7lOpEHTN7i4a4g2tdMX83r1fQi0wMa8IwB5HknT+9XLOoXtJ/0Y6fNvm8OEKuAaW3peUUNxtiquIujdFZeZhnfriaqQOHIzgpTUrz8fe4OXDRj7CKwBtrc9/rO9lsJE6qDkqC2ixupuA1mIhMym0n8SowT6JMknPLBS1dYd6TmoTJqqvu8nD94gcSqOspKEB7uTqVbYaMoDNWstuyvawbMmM0h5BSoyvm9h3X+bhi3UqQbsn4uuUDxclCuvHolQhpQYrApVzJwEk7v/j2oqUT6blGuXkgbKl6mzFmKReoAN6Op1XRVtH717Azk5lQScoNd96ELLPkm76o+9tVFeAuOEnNjXmxzEiVQIV/wNZwaChSNC09vmn+bf8hrOO0u47A==;KS0dZELshFgysXyWdP8b1Q=="

@@ -2,6 +2,39 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-29-shield-ai-signs-definitive-agreement-to-acquire-martin-uav.md",
+      "title": "Shield AI Signs Definitive Agreement to Acquire Martin UAV",
+      "excerpt": "Shield AI, a fast-growing technology company that develops artificial intelligence and self-driving car technologies for the defense industry, today announced that it has",
+      "sourceUrl": null,
+      "webUrl": "https://www.inforney.com/texas/shield-ai-signs-definitive-agreement-to-acquire-martin-uav/article_07ed6c15-cb30-5c1c-92b9-87cb579b01b2.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/shield-ai-signs-definitive-agreement-to-acquire-martin-uav/article_0bcb4aab-719a-5d1e-93e4-ae5b2af2f531.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-leveraging-simulators-and-robotics-to-enhance-operations-in-the-education-sector.md",
       "title": "Leveraging Simulators and Robotics to Enhance Operations in the Education Sector",
       "excerpt": "Technological advancements are enhancing various industries like travel healthcare, education, and communication. The use of simulation and robotic technologies are proving to be excellent factors of existing educational resources.",
@@ -696,49 +729,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-how-robot-carpenters-could-help-solve-canadas-housing-crisis.md",
-      "title": "How robot carpenters could help solve Canada’s housing crisis",
-      "excerpt": "The technology company, which also has operations in Edmonton, seeks to bring emerging technologies to the home building industry to address the industry’s biggest challenge: meeting the rising demand for housing amid a growing shortage of affordable homes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/business/article-how-robot-carpenters-could-help-solve-canadas-housing-crisis/",
-      "originalUrl": "https://www.theglobeandmail.com/business/article-how-robot-carpenters-could-help-solve-canadas-housing-crisis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/QYqmQLQb3mxAy0abjvjiRL3n40E=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/QBCSBFC42BHSHPPCNPR3JIEEM4.jpg",
-          "width": 760,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theglobeandmail.com/amp/business/article-how-robot-carpenters-could-help-solve-canadas-housing-crisis/",
-      "cdnAmpWebUrl": "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/article-how-robot-carpenters-could-help-solve-canadas-housing-crisis/",
-      "publishedDateTime": "2021-07-28T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
