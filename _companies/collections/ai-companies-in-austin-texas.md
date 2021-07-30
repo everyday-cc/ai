@@ -11,7 +11,7 @@ topics:
   - AI
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/834024692893773826/oJX5Bb_e_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1420880634181005314/IO46zK8o_400x400.png"
     width: 400
     height: 400
     isCached: true
