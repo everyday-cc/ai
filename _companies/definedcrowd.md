@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "definedcrowd"
   url: "https://www.twitter.com/definedcrowd"
-  followers: 1818
+  followers: 1819
 
 size: 51-200 employees
 yearFounded: 2015
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "H/uEM8d+nlzpZSUsrrHy9+EPvAQSiN6PLMvEvGs5uDIK4wTFjWdGk4w/mO4a+R9SWIIYsJTWcRA3PlS2ljnzEUqmLb9bgoxsr6P4R9IWyH92ca9FTJytSC73TN44ZL0RI97JqJ7bRCOY9bcUdsf+n2OeiSSjFoz2xZObaHpHVuliEnaM/WLSQ4cqxHLYa+2MaJRlTTYcj6SVwuRtF7uJqarj7yuV60VDE3V2mgF6Tnua8Y3Pb5stnBxIS+NjZ+nnmdvyD1GeOcrC+tIQ+2ngduS7nai6spKkBI2P6AMqnIRbR0AwcbXZyraOitjUz8ozagwIGn+GHnIwT54LoA/eaFtlDxPuEbR92qTA/FhH+9q7HmX/b3JpNgQ2xJZ+grVkgEMcplOGjkE30uzk1N0dtKEHjl4awEyuLrUyh6NO0Xc=;jRnil4RcqWEchxSZiXqvug=="
+secured: "78z77e5tXrm9vMbJeM/HASkLIGGuqcyHxi3WTz1WKj7h87sAT7qOUGIpjsz2Spqzep/5u1SSXNsH/2F3uQHVIBpscU89uy2oxevgq7xgiJOxp13y/6MjnI5X5rou2Ua1YId77SdjVkzUTSq4c9QidYeMJ/tPdZh3OxBiSQ12K8Y5f7chGWbbGcX+scWSWQt9wI7diVL4rVDZ1f7Nua2O03k1cmi8EZmiW0GUZwqYHkAvf9p77/IsqqW9jGOej/RjdjL7eq9IE+uEYu1wEPR8YqDCgE/thAzqG1JBd3m+CZB1zWfbGMrEZ/SKTEzegO22N9MFBdhb5vkKPyzkiGagGk0srjYOT2mKVF81pGC5GY/jQ6nXgPCOlbF209o8FzEMCiUpKxkwv6nCdmJUqyEgBLwyul37hu2Dqjj/xzHCtKM=;Z8AxjYhnPuzM0j8Se6sK4Q=="
 ---
 
