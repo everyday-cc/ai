@@ -481,49 +481,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-28-elon-musk-sure-didnt-sound-certain-about-full-self-driving-on-teslas-earnings-call.md",
-      "title": "Elon Musk Sure Didn't Sound Certain About Full Self-Driving On Tesla's Earnings Call",
-      "excerpt": "We need to make full self-driving work in order for it to be a compelling value proposition. Tesla has been selling this service for years now, and Elon is saying that for it to be a “compelling value,",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575",
-      "originalUrl": "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ee737fe843edf4adbb818837ad3846ca.png",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575/amp",
-      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575/amp",
-      "publishedDateTime": "2021-07-27T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-28-interview-robotics-and-ai-inspire-new-orchestral-piece.md",
       "title": "INTERVIEW: Robotics and AI inspire new orchestral piece",
       "excerpt": "It’s not everyday that a new orchestral piece comes around that has been inspired by robotics, artificial intelligence and the relationship between humans and inanimates, but that’s exactly what listeners can expect when taking in the sounds of Lim Fantasy of Companionship for Piano & Orchestra.",
@@ -712,6 +669,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-tesla-self-driving-car-confuses-moon-for-traffic-light-leaves-netizens-amused.md",
+      "title": "Tesla self-driving car ‘confuses moon for traffic light’, leaves netizens amused",
+      "excerpt": "Since being shared online, the clip has garnered multiple reactions, with many wondering whether the auto-pilot option is safe for drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/trending/trending-globally/tesla-self-driving-features-confuses-moon-for-traffic-light-7424808/",
+      "originalUrl": "https://indianexpress.com/article/trending/trending-globally/tesla-self-driving-features-confuses-moon-for-traffic-light-7424808/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/07/tesla-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/trending/trending-globally/tesla-self-driving-features-confuses-moon-for-traffic-light-7424808/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-globally/tesla-self-driving-features-confuses-moon-for-traffic-light-7424808/lite/",
+      "publishedDateTime": "2021-07-27T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },

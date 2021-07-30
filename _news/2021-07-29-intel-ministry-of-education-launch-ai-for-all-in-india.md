@@ -9,7 +9,7 @@ ampWebUrl: "https://m.freepressjournal.in/article/business/intel-ministry-of-edu
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/intel-ministry-of-education-launch-ai-for-all-in-india/5afa6e56-6c30-4b0e-a0fa-9867d94a8a12"
 type: article
 quality: 76
-heat: 117
+heat: 118
 published: true
 
 provider:

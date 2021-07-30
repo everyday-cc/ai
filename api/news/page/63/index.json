@@ -2,6 +2,58 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-06-14-event-based-fraud-detection-with-direct-customer-calls-using-amazon-connect.md",
+      "title": "Event-based fraud detection with direct customer calls using Amazon Connect",
+      "excerpt": "Several recent surveys show that more than 80% of consumers prefer spending with a credit card over cash. Thanks to advances in AI and machine learning (ML), credit card fraud can be detected quickly, which makes credit cards one of the safest and easiest payment methods to use. The challenge with cards,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/event-based-fraud-detection-with-direct-customer-calls-using-amazon-connect/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/event-based-fraud-detection-with-direct-customer-calls-using-amazon-connect/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/24/1-2205-Architecture.jpg",
+          "width": 800,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T12:35:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.md",
       "title": "Google team uses AI to create next-gen chips faster than humans",
       "excerpt": "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,",
@@ -1112,48 +1164,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-halo-infinite-who-is-the-new-cortana-like-ai.md",
-      "title": "Halo Infinite: Who Is the New Cortana-Like AI?",
-      "excerpt": "Meet The Weapon, Master Chief's new AI companion introduced in the Halo Infinite campaign trailer. Halo Infinite ‘s story and its connection to Halo 5: Guardians remains a closely guarded secret at 343 Industries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.denofgeek.com/games/halo-infinite-campaign-new-ai-cortana-the-weapon-story-spoilers/",
-      "originalUrl": "https://www.denofgeek.com/games/halo-infinite-campaign-new-ai-cortana-the-weapon-story-spoilers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.denofgeek.com/wp-content/uploads/2021/06/halo-infinite-weapon-cortana-story-spoilers.jpeg?fit=1920%2C1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.denofgeek.com/games/halo-infinite-campaign-new-ai-cortana-the-weapon-story-spoilers/?amp",
-      "cdnAmpWebUrl": "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/halo-infinite-campaign-new-ai-cortana-the-weapon-story-spoilers/?amp",
-      "publishedDateTime": "2021-06-13T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Den Of Geek",
-        "domain": "denofgeek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

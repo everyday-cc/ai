@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-29-tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.md",
-      "title": "Tesla AI Day August 19 – Expect Tesla AI to 2030 Vision",
-      "excerpt": "Elon Musk says that the Tesla AI day will be August 19. Tesla AI Day August 19th — Elon Musk (@elonmusk) . There is a version 9.1 beta FSD (Full self driving) updat",
+      "path": "_news/2021-07-30-tesla-ai-day-to-be-held-on-august-19-says-elon-musk.md",
+      "title": "Tesla AI Day To Be Held On August 19, says Elon Musk",
+      "excerpt": "Tesla is having an event called Tesla AI Day on August 19, company CEO Elon Musk has announced. Tesla had a Tesla Autonomy Day in 2019, and Tesla Battery Day in 2020, but it never had an event solely dedicated to artificial intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/07/tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/07/tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.html",
+      "webUrl": "https://in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk",
+      "originalUrl": "https://in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 154,
       "tags": null,
       "images": [
         {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/07/Screen-Shot-2021-07-29-at-9.51.28-AM.jpg",
-          "width": 1694,
-          "height": 1000,
+          "url": "https://sm.mashable.com/t/mashable_in/article/t/tesla-ai-d/tesla-ai-day-to-be-held-on-august-19-elon-musk-says_xxqe.620.jpg",
+          "width": 620,
+          "height": 377,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/07/tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/07/tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.html",
-      "publishedDateTime": "2021-07-29T09:29:00-07:00",
+      "ampWebUrl": "https://in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk?amp=1",
+      "publishedDateTime": "2021-07-29T20:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
+        "name": "Mashable",
+        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,27 +40,26 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-07-28-elon-musk-sure-didnt-sound-certain-about-full-self-driving-on-teslas-earnings-call.md",
-      "title": "Elon Musk Sure Didn't Sound Certain About Full Self-Driving On Tesla's Earnings Call",
-      "excerpt": "We need to make full self-driving work in order for it to be a compelling value proposition. Tesla has been selling this service for years now, and Elon is saying that for it to be a “compelling value,",
+      "path": "_news/2021-07-27-tesla-self-driving-car-confuses-moon-for-traffic-light-leaves-netizens-amused.md",
+      "title": "Tesla self-driving car ‘confuses moon for traffic light’, leaves netizens amused",
+      "excerpt": "Since being shared online, the clip has garnered multiple reactions, with many wondering whether the auto-pilot option is safe for drivers.",
       "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575",
-      "originalUrl": "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575",
+      "webUrl": "https://indianexpress.com/article/trending/trending-globally/tesla-self-driving-features-confuses-moon-for-traffic-light-7424808/",
+      "originalUrl": "https://indianexpress.com/article/trending/trending-globally/tesla-self-driving-features-confuses-moon-for-traffic-light-7424808/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ee737fe843edf4adbb818837ad3846ca.png",
-          "width": 800,
-          "height": 449,
+          "url": "https://images.indianexpress.com/2021/07/tesla-1.jpg",
+          "width": 1200,
+          "height": 667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -68,13 +67,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575/amp",
-      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575/amp",
-      "publishedDateTime": "2021-07-27T10:23:00-07:00",
+      "ampWebUrl": "https://indianexpress.com/article/trending/trending-globally/tesla-self-driving-features-confuses-moon-for-traffic-light-7424808/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-globally/tesla-self-driving-features-confuses-moon-for-traffic-light-7424808/lite/",
+      "publishedDateTime": "2021-07-27T08:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -139,6 +138,49 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-older-drivers-like-self-driving-cars-ride-hailing.md",
+      "title": "Older drivers like self driving cars, ride hailing",
+      "excerpt": "A survey by the US National Council on Aging (NCOA) and Volkswagen Group of America  found that 70% of older...Read",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/news/older-drivers-like-self-driving-cars-ride-hailing/",
+      "originalUrl": "https://www.just-auto.com/news/older-drivers-like-self-driving-cars-ride-hailing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/The_new_study_by_NCOA_and_VW_of_America_1.jpg",
+          "width": 1500,
+          "height": 990,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -226,49 +268,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-argo-ai-and-ford-to-launch-self-driving-technologies-on-lyft-vehicles-by-the-end-of-2021.md",
-      "title": "Argo AI and Ford to Launch Self-Driving Technologies on Lyft Vehicles By the End of 2021",
-      "excerpt": "Argo AI, Ford Motors and Lyft joined hands to launch L4-level autonomous driving services in Miami by the end of this year. Lyft users will be able to make reservations for Ford L4 autonomous vehicles in designated areas through the APP.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/07/25/argo-ai-and-ford-to-launch-self-driving-technologies-on-lyft-vehicles-by-the-end-of-2021/",
-      "originalUrl": "https://syncedreview.com/2021/07/25/argo-ai-and-ford-to-launch-self-driving-technologies-on-lyft-vehicles-by-the-end-of-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/07/IMG_20181114_084049.jpeg?fit=950%2C634&ssl=1",
-          "width": 950,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2021/07/25/argo-ai-and-ford-to-launch-self-driving-technologies-on-lyft-vehicles-by-the-end-of-2021/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/07/25/argo-ai-and-ford-to-launch-self-driving-technologies-on-lyft-vehicles-by-the-end-of-2021/amp/",
-      "publishedDateTime": "2021-07-25T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -604,19 +603,19 @@
     {
       "path": "_news/2021-07-23-alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit.md",
       "title": "Alphabet to launch robotics firm Intrinsic under its other bets unit",
-      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and advertising business, Google in 2015 established Alphabet as ...",
+      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. FILE PHOTO: A sign is seen at the ...",
       "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212",
-      "originalUrl": "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212",
+      "webUrl": "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056",
+      "originalUrl": "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ",
-          "width": 817,
-          "height": 545,
+          "url": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15280054/16x9/991/557/8aa600f18375888ddef8e65715e2d356/gZ/file-photo--a-sign-is-seen-at-the-entrance-to-the-google-retail-store-in-the-chelsea-neighborhood-of-new-york-city-2.jpg",
+          "width": 991,
+          "height": 557,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -624,23 +623,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL4N2OZ212",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL4N2OZ212",
-      "publishedDateTime": "2021-07-23T06:58:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T08:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

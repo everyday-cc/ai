@@ -2,28 +2,25 @@
 category: news
 title: "How facial recognition went from bad TV to Big Brother"
 excerpt: "You might not see it, but it sees you. CNN's Jon Sarlin explores the brave new world of facial recognition technology."
-publishedDateTime: 2021-07-23T18:40:00Z
-originalUrl: "https://kyma.com/videor/2021/07/23/how-facial-recognition-went-from-bad-tv-to-big-brother/"
-webUrl: "https://kyma.com/videor/2021/07/23/how-facial-recognition-went-from-bad-tv-to-big-brother/"
+publishedDateTime: 2021-07-23T17:11:00Z
+originalUrl: "https://www.waaytv.com/content/news/574905042.html"
+webUrl: "https://www.waaytv.com/content/news/574905042.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: KYMA
-  domain: kyma.com
+  name: WAAY-TV
+  domain: waaytv.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://kyma.b-cdn.net/2021/07/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_7a1db3a9aa71e5465eb58e7846f2ca95-300.jpg"
-    width: 2500
-    height: 1663
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200228162112-facial-recognition-sarlin-live-video.jpg"
+    width: 576
+    height: 324
     isCached: true
 
-secured: "uT2DDzBc5HM1gBc66mUfNRVQRPhqRv/G7lQl8N3s5vWua84oAKoz/wE7kofgy6TwEBJl7bZiWE+LEmMCaDklvTAI4f5F5g3aYrIoJY87jVpgoG3t7M8Sqyk391gJL1Z8u+q/rASvKTtrz/nzwPS6xWYwh8rKVlkPJ9KCrvgvz99BE4NGiQaED0DwRMAjQuyXBlKD5Ot7zfny0X2pXBUXLdu4REdU8gjxO+7EYi49S6rle0teBnxepI7KTom9tdSYeC3yz47iH++898kIyADvXIsvmgbRFPVbKpxhgja43mqEx3//5wW7dYrXFEVrCT1qpiqvAjwwlJLSNg4jYr/Goi93p4BNrgqN1T7enmPKO1azN8Uc9LmjfkgJnw47lca0ROrAkvROuwMPh0OvInfsN/Rggd5rD0xTYxMSwXsYFJe+4/l1rcaMMnNviJa4mIfEmjP5kCQgofDL5b4kNYe6mVi1usEjbkJ9NmQa2jQ7U5JIFTGpNnccxkikMew37f3wLD2M2z5e7DWyJhYJSzYU7Q==;9bKxxojXC/18hGSPDfxVhA=="
+secured: "VEguUFyWMwmyDfwzI5iwSsoFbffcuRTGrvrxxDOGV9tyLJ2QlVsuoBuUHIHBCejqYG2cf5RwgXwuaUO+SpdkFbeBvB9we8LDHc3KLIbJXsXub3gcZOlNV8uik1OvHIahescmvs0HRE5Ydp88JgYTpb0GlMNtCeqTIyMtj4RWn1VS89dRPrIA0NpBssKIc3TOB7qpMVMK2tZ5O46xGJVvX5+8ttSmFBt8hpErBvHDSzSbDm3AZokWX2oW1/GwhuZSdTplRubgD3zeU4ZMlU3CCvEDSQ2AoZ5HL6h8ZkyngM6vYabB9w7Xm2OZ4ctUikD730e7OgV+jwq+N1r6RxU+u4r62O2lspULHp+J2ZhA/Qo=;zcfhhjPq4vz5BREILvNBQA=="
 ---
 

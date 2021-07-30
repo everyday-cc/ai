@@ -47,6 +47,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Spatial Vision in Humans and Robots"
+    excerpt: "This collection will be of interest to biological researchers investigating how the brain solves spatial problems, as well as to researchers in robotics and computer vision systems."
+    publishedDateTime: 2021-07-26T19:11:00Z
+    webUrl: "https://www.cambridge.org/mc/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 4
   - title: "Kiromic Announces the Acquisition of InSilico Solutions Leveraging on Bioinformatics and Artificial Intelligence to Advance Clinical Development on Its Outpatient Allogeneic ..."
     excerpt: "Kiromic announces the acquisition of InSilico Solutions leveraging on Bioinformatics and Artificial Intelligence to advance clinical development"
     publishedDateTime: 2021-07-26T22:55:00Z

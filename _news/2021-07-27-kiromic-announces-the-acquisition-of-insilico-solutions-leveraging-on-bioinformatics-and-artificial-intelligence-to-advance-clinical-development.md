@@ -56,6 +56,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 24
+  - title: "Spatial Vision in Humans and Robots"
+    excerpt: "This collection will be of interest to biological researchers investigating how the brain solves spatial problems, as well as to researchers in robotics and computer vision systems."
+    publishedDateTime: 2021-07-26T19:11:00Z
+    webUrl: "https://www.cambridge.org/mc/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 4
 
 secured: "OIarn4EyxpLoHKdHofVpGdFYLmG9kFbjLto5knAO+FPr2dkIZ8UKceV9ExD5aKdP4HJASOWZ7FleiGOZkP5NMWTnb9PylUJt52OFi7L7AFITcbXW724xyO+xuqMglW7VFJtrOQmDIEJTXqLtfbfVSnIiTdoCORx7qozHeW6yPOxYDeDPYCB50iE1LiD+aDYwe7J4CRakjCrH2GJnec0XQAl1Mvs3+2DSYVuRRa/0V03eJaMBxGPEWDiY6Zu9JpXek5iSEGkIA6nDsgOVflm9gq4UKLsswsx2sRQfP3Z6dGML+eU6wXVhd6to1KbKCCarAhQP8fW+RWHFpoNGFdtMGJMm+c5W9QdgZBQBkRS/EuIWpkszklfk3gkZ48StArwle7AqtTRHjY7LAryCKmAk66VVi+HqL2Bd0ofFnV9rh93rDhcgvjoOQe8q8m389NuiAGT6hmIXbR2AoDNLnCfHFbYZCh3e/cEP3wTjB4AN4bHYqZjU8ZcQNhULgJd8fXMOwR79+OCgd0TzU0KRK0BBtQ==;bv9wwimTxlKWktB92YJdyg=="
 ---

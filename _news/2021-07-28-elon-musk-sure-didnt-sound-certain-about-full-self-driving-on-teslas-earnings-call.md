@@ -9,8 +9,8 @@ ampWebUrl: "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-s
 cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575/amp"
 type: article
 quality: 67
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: Jalopnik
@@ -27,35 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Older drivers like self driving cars, ride hailing"
-    excerpt: "A survey by the US National Council on Aging (NCOA) and Volkswagen Group of America  found that 70% of older...Read"
-    publishedDateTime: 2021-07-27T10:47:00Z
-    webUrl: "https://www.just-auto.com/news/older-drivers-like-self-driving-cars-ride-hailing/"
+  - title: "Tesla AI Day To Be Held On August 19, says Elon Musk"
+    excerpt: "Tesla is having an event called Tesla AI Day on August 19, company CEO Elon Musk has announced. Tesla had a Tesla Autonomy Day in 2019, and Tesla Battery Day in 2020, but it never had an event solely dedicated to artificial intelligence."
+    publishedDateTime: 2021-07-30T03:40:00Z
+    webUrl: "https://in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk"
+    ampWebUrl: "https://in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk?amp=1"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 54
+      name: Mashable
+      domain: mashable.com
+    quality: 104
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/The_new_study_by_NCOA_and_VW_of_America_1.jpg"
-        width: 1500
-        height: 990
+      - url: "https://sm.mashable.com/t/mashable_in/article/t/tesla-ai-d/tesla-ai-day-to-be-held-on-august-19-elon-musk-says_xxqe.620.jpg"
+        width: 620
+        height: 377
         isCached: true
-  - title: "The Moon Tricks Tesla's Full Self-Driving Feature Into Thinking It's a Yellow Light"
-    excerpt: "Tesla recently announced that any Tesla user can subscribe to Autopilot’s Full Self-Driving feature for $99 to $199 per month, but it seems the new feature still comes with its fair share of kinks. Recently a Tesla driver took to Twitter to share an entertaining little problem with the system."
-    publishedDateTime: 2021-07-25T13:41:00Z
-    webUrl: "https://interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
-    ampWebUrl: "https://amp.interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
+  - title: "Tesla AI Day August 19 – Expect Tesla AI to 2030 Vision"
+    excerpt: "Elon Musk says that the Tesla AI day will be August 19. Tesla AI Day August 19th — Elon Musk (@elonmusk) . There is a version 9.1 beta FSD (Full self driving) updat"
+    publishedDateTime: 2021-07-29T16:29:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/07/tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/07/tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/07/tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.html"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 53
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 76
     images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/M3OeNjerGN/sizes/yellow-moon_resize_md.jpg"
-        width: 744
-        height: 419
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/07/Screen-Shot-2021-07-29-at-9.51.28-AM.jpg"
+        width: 1694
+        height: 1000
+        isCached: true
+  - title: "Elon Musk seeks top talent, announces Tesla AI Day"
+    excerpt: "Elon Musk confirms \"AI Day\", to explain Tesla's plans and approaches to an autonomous driving future, but also to recruit top AI talent."
+    publishedDateTime: 2021-07-30T04:27:00Z
+    webUrl: "https://thedriven.io/2021/07/30/elon-musk-seeks-top-talent-announces-tesla-ai-day/"
+    ampWebUrl: "https://thedriven.io/2021/07/30/elon-musk-seeks-top-talent-announces-tesla-ai-day/amp/"
+    cdnAmpWebUrl: "https://thedriven-io.cdn.ampproject.org/c/s/thedriven.io/2021/07/30/elon-musk-seeks-top-talent-announces-tesla-ai-day/amp/"
+    type: article
+    provider:
+      name: thedriven
+      domain: thedriven.io
+    quality: 76
+    images:
+      - url: "https://thedriven.io/wp-content/uploads/2021/07/E58Je5fXEAElOQR.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Elon Musk knocked Apple, bemoaned the microchip shortage, and touted self-driving cars on Tesla's Q2 earnings call. Here are the 12 best quotes."
     excerpt: "Musk underscored the huge challenges of large-scale manufacturing, and suggested he might not feature on every Tesla earnings call in future."
@@ -73,79 +91,21 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "Tesla's Full Self-Driving Autopilot Feature Mistakes Moon For Yellow Traffic Light; WATCH"
-    excerpt: "Elon Musk-introduced cars are renowned for their advanced autopilot features that allow people to manoeuvre vehicles without being behind Tesla car's wheels."
-    publishedDateTime: 2021-07-25T17:24:00Z
-    webUrl: "https://www.republicworld.com/entertainment-news/whats-viral/teslas-full-self-driving-autopilot-feature-mistakes-moon-for-yellow-traffic-light-watch.html"
-    ampWebUrl: "https://www.republicworld.com/amp/entertainment-news/whats-viral/teslas-full-self-driving-autopilot-feature-mistakes-moon-for-yellow-traffic-light-watch.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/entertainment-news/whats-viral/teslas-full-self-driving-autopilot-feature-mistakes-moon-for-yellow-traffic-light-watch.html"
+  - title: "Elon Musk announces Tesla's AI day next month to reveal the electric car maker's advancements with artificial intelligence and to recruit worldwide talent"
+    excerpt: "Tesla CEO Elon Musk has confirmed Tesla will holds its AI day next month, on August 19. Musk said the event will focus on recruiting the best talent to work for Tesla."
+    publishedDateTime: 2021-07-29T16:25:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9840011/Elon-Musk-announces-Teslas-AI-day-set-August-recruit-talent.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9840011/amp/Elon-Musk-announces-Teslas-AI-day-set-August-recruit-talent.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9840011/amp/Elon-Musk-announces-Teslas-AI-day-set-August-recruit-talent.html"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 50
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 49
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/p3icskzagaaoa6bv_1627229963.jpeg"
-        width: 768
-        height: 438
-        isCached: true
-  - title: "Elon Musk Slams Apple As Tech Giant’s Self-Driving Car Project Looms"
-    excerpt: "Elon Musk bashed Apple, not once, but twice, during an earnings call with investors, making it clear there is a rivalry with the companies."
-    publishedDateTime: 2021-07-27T16:24:00Z
-    webUrl: "https://www.ibtimes.com/elon-musk-slams-apple-tech-giants-self-driving-car-project-looms-3260742"
-    ampWebUrl: "https://www.ibtimes.com/elon-musk-slams-apple-tech-giants-self-driving-car-project-looms-3260742?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/elon-musk-slams-apple-tech-giants-self-driving-car-project-looms-3260742?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 44
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/02/19/gettyimages-477483954.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Faith in Self-Driving, Ride-Hailing Vehicles Depends on Age"
-    excerpt: "When self-driving cars first showed up, they were hailed as a way for seniors to remain active and independent without needed to be able to drive. After some initial skepticism by many, attitudes are changing,"
-    publishedDateTime: 2021-07-27T16:07:00Z
-    webUrl: "https://www.thedetroitbureau.com/2021/07/faith-in-self-driving-ride-hailing-vehicles-depends-on-age/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 39
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/07/NCOA-and-VW-study-graphic.jpg"
-        width: 1600
-        height: 1056
-        isCached: true
-  - title: "Lyft travels to the future with new self-driving cars coming to Austin"
-    excerpt: "The Lyft ride-hailing service is traveling into a new era in Austin. Starting next year, Lyft customers in certain parts of Austin will be able to hire a self-driving car"
-    publishedDateTime: 2021-07-26T17:25:00Z
-    webUrl: "https://austin.culturemap.com/news/innovation/07-26-21-austin-passengers-soon-will-be-able-to-get-a-lift-in-a-self-driving-car/"
-    type: article
-    provider:
-      name: Culture Map Dallas
-      domain: culturemap.com
-    quality: 24
-    images:
-      - url: "https://res.cloudinary.com/culturemap-com/image/upload/ar_7:4,c_fill,g_faces:center,w_980/v1627319208/photos/322516_original.jpg"
-        width: 980
-        height: 560
-        isCached: true
-  - title: "Elon Musk Just Now Realizing That Self-Driving Cars are a ‘Hard Problem’"
-    excerpt: "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say, “No duh."
-    publishedDateTime: 2021-07-28T13:10:00Z
-    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/elon-musk-just-now-realizing-that-self-driving-cars-are-a-hard-problem/12221/"
-    type: article
-    provider:
-      name: Predictive Analytics World
-      domain: predictiveanalyticsworld.com
-    quality: 23
-    images:
-      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/05/MSDS_270x270_LM.gif"
-        width: 270
-        height: 270
+      - url: "https://i.dailymail.co.uk/1s/2021/07/29/15/46052797-0-image-a-17_1627570045296.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "64AEZHPF8uG2CQMxzyKW+Ju6AEuojuZBC4sWOzyTJgWMtxVBWYxt95SupJo8AoM5cbYqojZzWZx35ba0Yqp4xJAK89P4tg6C+1g54uZ5/LlBfnxnK+upxOB9M00jm71kUe1GHE5Om+x96yu7z7pIzgh3sMqyfEcTk2PwUkJlYUVkVsGHvyEHFTf48Pcwl0TDnFrqQjCl5cgZQJtAynKMgNtZz2aG2n1qc0D68JEPBdlcqWC1PiSxW/1Leyzh42rAc9eBQ6PiFX/UwZI7L8Me+JQNeQuN44UElbEC45eEw9lE8evBwZJuA1ga1p49OEoMkeO6OcBn0dJ9eVaFIBrtw/8d3gi/QlQ3P9qI1D17zpwliNH3HUOJ0QA+rFZwHt+x7n6egtAoySUbqJ4Dcc7yZ6Qnsu8MtjCNl9zS1doIIaXaqFxW2RGH3f81rC+wOEWDRS5q6M5IiPd0XChi0zu8hFQsr6ck7EJfl6JHI23GCQfNohQuHThdFBtXAdiZW0dVeA4tHVJMer5stFdGpl2ajQ==;SEkHP1lFo2z4ZAO8nYBSqA=="

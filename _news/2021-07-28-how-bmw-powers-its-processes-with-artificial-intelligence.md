@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "C3 AI Powers Next-Gen Apps With Its Innovative Enterprise AI Platform"
+    excerpt: "Executive Summary This report provides an overview of how the C3 AI platform enables enterprises to build next-generation AI applications. Some of the world’s largest companies in manufacturing, energy,"
+    publishedDateTime: 2021-07-29T23:59:00Z
+    webUrl: "https://www.constellationr.com/research/c3-ai-powers-next-gen-apps-its-innovative-enterprise-ai-platform"
+    type: article
+    provider:
+      name: Constellation Research
+      domain: constellationr.com
+    quality: 39
+    images:
+      - url: "http://www.constellationr.com/system/files/uploads/user-23065/20210727%20CR%20H%20Mueller%20Offering%20Overview%20C3%20AI%20Powers%20Next-Gen%20Apps%20With%20Its%20Innovative%20Enterprise%20AI%20Platform%20Front%20Page.png"
+        width: 1700
+        height: 2200
+        isCached: true
   - title: "How Coke Bottlers Save Millions with AI"
     excerpt: "Retailers around the country rely on a network of nearly 70 independent Coca-Cola bottlers to manufacture and ship cases of liquid refreshments. It’s a"
     publishedDateTime: 2021-07-26T20:06:00Z

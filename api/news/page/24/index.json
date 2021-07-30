@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-07-12-the-real-successes-of-ai.md",
+      "title": "The real successes of AI",
+      "excerpt": "Despite the hype, especially around self-driving cars, AI is writing code, designing Google chip floor plans, and telling us how much to trust it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/03/robot-arm-using-laptop-100714626-large.jpg",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624703/the-real-successes-of-ai.amp.html",
+      "publishedDateTime": "2021-07-12T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-iit-mandi-develops-ai-based-model-for-disease-detection-in-potato-crops.md",
       "title": "IIT Mandi develops AI-based model for disease detection in potato crops",
       "excerpt": "Unsplash Researchers at the Indian Institute of Technology (IIT) Mandi, have developed a computational model based on Artificial Intelligence (AI) for automated disease detection in potato crops using photographs of its leaves. The research in ...",
@@ -1097,50 +1149,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-machine-learning-in-identity-and-access-management.md",
-      "title": "Machine Learning in Identity and Access Management",
-      "excerpt": "Due to the challenges of identifying rapidly evolving threats, cybersecurity has come to rely on artificial intelligence and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://cloudsecurityalliance.org/articles/machine-learning-in-identity-and-access-management/",
-      "originalUrl": "https://cloudsecurityalliance.org/articles/machine-learning-in-identity-and-access-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudsecurityalliance.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjRTIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9f263b659c87472eac3e8132435d7b02d6033918/Machine-Learning-in-Identity-and-Access-Management.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Security Alliance",
-        "domain": "cloudsecurityalliance.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

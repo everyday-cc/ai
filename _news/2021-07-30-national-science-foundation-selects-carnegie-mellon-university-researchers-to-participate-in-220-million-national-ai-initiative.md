@@ -29,7 +29,7 @@ related:
     provider:
       name: San Diego Union-Tribune
       domain: sandiegouniontribune.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/7a09f51/2147483647/strip/true/crop/6970x4661+175+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4b%2Faf%2F7a43259e4f079815dc8ef2d48f15%2Fsd-photos-1staff-742689-sd-fi-qualcomm-ceo-ec-008.jpg"
         width: 320

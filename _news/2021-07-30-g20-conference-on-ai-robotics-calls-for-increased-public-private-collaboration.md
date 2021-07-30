@@ -1,29 +1,23 @@
 ---
 category: news
 title: "G20 conference on AI, robotics calls for increased public-private collaboration"
-excerpt: "The first-ever Group of 20 talks on the future of artificial intelligence (AI) and robotics wrapped up Thursday in the Italian port city of Genoa, with participants calling for increased collaboration between government policymakers and the private sector in high-tech areas."
-publishedDateTime: 2021-07-30T03:25:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202107/30/WS61036a06a310efa1bd66584a.html"
-webUrl: "https://global.chinadaily.com.cn/a/202107/30/WS61036a06a310efa1bd66584a.html"
+excerpt: "The first-ever Group of 20 talks on the future of artificial intelligence (AI) and robotics wrapped up Thursday in the Italian port city of Genoa"
+publishedDateTime: 2021-07-30T04:53:00Z
+originalUrl: "https://www.macaubusiness.com/g20-conference-on-ai-robotics-calls-for-increased-public-private-collaboration-2/"
+webUrl: "https://www.macaubusiness.com/g20-conference-on-ai-robotics-calls-for-increased-public-private-collaboration-2/"
 type: article
-quality: 65
-heat: 65
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: China Daily
-  domain: chinadaily.com.cn
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://img2.chinadaily.com.cn/images/202107/30/61036bc4a310efa1e3b2b4cb.jpeg"
-    width: 603
-    height: 401
-    isCached: true
-
-secured: "c5Z97JBlrtqc1pi4oBUmcsdLT6sjSuSyAdvwmumPka/vUbhfdJ8P3att/e3BmE59HbPsuH/4Z5sqQFePNXMMsIfk2qjepR/V8WWnauf+LrANZ+2+T/xKGzLvyzqVXih9NkRcLC+OZ1UhgVRkw92GIrZfo12xIvFHS6EJ86A/AMHzOqvhJCKhDInkH9R8Vp+lr/ZUvfvSdP9wLG6RZRq8oucgJjJgRDj0wHJdAzIndkNrVy7CGvUhTJJocl3nciGjHvavzsmDeZsBtoy5AGxMx4NkMtpxhlGsYuJ/DV96SstaRxy3f+b3bRivhVYifn+KXps3tr7obPdzpD7VmQHqUJyRdXna13UZy/y19id4DqE=;Ao8MSEyCXyK7FYgq0noDWA=="
+secured: "gXJODO1YHfQ0D5XnhCXtpminPNuQQ8fwMCpsYlRMM7s82Z36laLgWUOZQp94DKowm1xodQ/zQKXHmnQV3Re531qvTtXa2MWLCT0tuaMASgNGA8la6tBpMmL1SRGOEw8kuCUQ7Yq2FePOv6barAcWfXJkiY0f+fAA9u4UqETSjcEcrF/LcCzZztCt4mYtPfVcDmnEvxjWzDSS9bscqK3AGUtniQupAUfRQ85V/JTYw2kzgM1w9FoqSLYRp4RbymkDOtNjUn+WJ5W9piXMUOJA+JdsU1/v95zSSixxmjnNAmlI8/OCr5Q26yNNhZCxt1Y/q4bYqb9QUqd8r1VVYbZnkCdgaZtzbTEV09WMboSU+GY=;1LmLm6pephsnyKo/g4nNxg=="
 ---
 

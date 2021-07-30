@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-29-tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.md",
-      "title": "Tesla AI Day August 19 – Expect Tesla AI to 2030 Vision",
-      "excerpt": "Elon Musk says that the Tesla AI day will be August 19. Tesla AI Day August 19th — Elon Musk (@elonmusk) . There is a version 9.1 beta FSD (Full self driving) updat",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/07/tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/07/tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/07/Screen-Shot-2021-07-29-at-9.51.28-AM.jpg",
-          "width": 1694,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/07/tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/07/tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.html",
-      "publishedDateTime": "2021-07-29T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-07-29-openai-debuts-python-based-triton-for-gpu-powered-machine-learning.md",
       "title": "OpenAI debuts Python-based Triton for GPU-powered machine learning",
       "excerpt": "Triton 1.0 uses Python (3.6 and up) as its base. The developer writes code in Python using Triton’s libraries, which are then JIT-compiled to run on the GPU. This allows integration with the rest of the Python ecosystem,",
@@ -98,7 +54,7 @@
       "originalUrl": "https://www.freepressjournal.in/business/intel-ministry-of-education-launch-ai-for-all-in-india",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1452,6 +1408,49 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-active-witness-launches-ai-powered-access-control-solution.md",
+      "title": "Active Witness launches AI powered access control solution",
+      "excerpt": "Active Witness Corp., a provider of artificially intelligent, cloud-based visitor management solutions introduces its SIMA multi-factor access control system that stops unauthorised access",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/pipeline-security-920.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/active-witness-launches-ai-powered-access-co-1626253268-ga-npr.1626257154.html",
+      "publishedDateTime": "2021-07-14T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

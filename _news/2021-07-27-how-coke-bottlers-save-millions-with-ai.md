@@ -38,6 +38,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "C3 AI Powers Next-Gen Apps With Its Innovative Enterprise AI Platform"
+    excerpt: "Executive Summary This report provides an overview of how the C3 AI platform enables enterprises to build next-generation AI applications. Some of the world’s largest companies in manufacturing, energy,"
+    publishedDateTime: 2021-07-29T23:59:00Z
+    webUrl: "https://www.constellationr.com/research/c3-ai-powers-next-gen-apps-its-innovative-enterprise-ai-platform"
+    type: article
+    provider:
+      name: Constellation Research
+      domain: constellationr.com
+    quality: 39
+    images:
+      - url: "http://www.constellationr.com/system/files/uploads/user-23065/20210727%20CR%20H%20Mueller%20Offering%20Overview%20C3%20AI%20Powers%20Next-Gen%20Apps%20With%20Its%20Innovative%20Enterprise%20AI%20Platform%20Front%20Page.png"
+        width: 1700
+        height: 2200
+        isCached: true
 
 secured: "aGRIeWlk1IolivWfyz77TPtaHIavQnMeX7fLWhr0f/cckpvTujuTnCV4wX0F2PIDv4AA4yypDSbDUCPmj7LKta0mV+ek8OrV73yDqPvrAe1ecOuivlJXivYkohb2gKwUF+8pfshh/U4+JbkIjeWXGBG9XqQy2yPiLNmNOZWZsPbfE+Ytz4/W+iAxBSrKYLwxzX1I8xSo/ElfdwZWN6+y4Zu28JM/MlekgVGIbewiHEQsoM7y9Bb8a6UdCV2xmPPfykt5WU0DRvUmHYaoDESE05k52bnpiRYsDerbdV9MOlgo6nbKQ+PDP/gaHkIckTG7/G9zpBBiJxq3WmChvwKWGNzXMJksS7J15FiKo6ZnTSg=;xM8ywbUtdggMySoFppTnBg=="
 ---

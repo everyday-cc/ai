@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/yp/discover/news/article/3143011/facebook-annou
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens"
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:

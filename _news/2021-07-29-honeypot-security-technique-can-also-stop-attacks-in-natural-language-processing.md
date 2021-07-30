@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-07-honeypot-technique-natural-langu
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-honeypot-technique-natural-language.amp"
 type: article
 quality: 71
-heat: 72
+heat: 73
 published: true
 
 provider:

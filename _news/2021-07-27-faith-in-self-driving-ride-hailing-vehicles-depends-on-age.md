@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Sure Didn't Sound Certain About Full Self-Driving On Tesla's Earnings Call"
-    excerpt: "We need to make full self-driving work in order for it to be a compelling value proposition. Tesla has been selling this service for years now, and Elon is saying that for it to be a “compelling value,"
-    publishedDateTime: 2021-07-27T17:23:00Z
-    webUrl: "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575"
-    ampWebUrl: "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ee737fe843edf4adbb818837ad3846ca.png"
-        width: 800
-        height: 449
-        isCached: true
   - title: "Older drivers like self driving cars, ride hailing"
     excerpt: "A survey by the US National Council on Aging (NCOA) and Volkswagen Group of America  found that 70% of older...Read"
     publishedDateTime: 2021-07-27T10:47:00Z
@@ -55,69 +39,72 @@ related:
         width: 1500
         height: 990
         isCached: true
-  - title: "The Moon Tricks Tesla's Full Self-Driving Feature Into Thinking It's a Yellow Light"
-    excerpt: "Tesla recently announced that any Tesla user can subscribe to Autopilot’s Full Self-Driving feature for $99 to $199 per month, but it seems the new feature still comes with its fair share of kinks. Recently a Tesla driver took to Twitter to share an entertaining little problem with the system."
-    publishedDateTime: 2021-07-25T13:41:00Z
-    webUrl: "https://interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
-    ampWebUrl: "https://amp.interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
+  - title: "Who's at Fault When Self-Driving Cars Kill People?"
+    excerpt: "As more autonomous vehicles hit the road and inevitably cause crashes, courts will have to contend with a complex web of responsibility when ruling on wrongful death cases."
+    publishedDateTime: 2021-07-26T16:00:00Z
+    webUrl: "https://www.planetizen.com/news/2021/07/114119-whos-fault-when-self-driving-cars-kill-people"
+    ampWebUrl: "https://www.planetizen.com/news/2021/07/114119-whos-fault-when-self-driving-cars-kill-people?amp"
+    cdnAmpWebUrl: "https://www-planetizen-com.cdn.ampproject.org/c/s/www.planetizen.com/news/2021/07/114119-whos-fault-when-self-driving-cars-kill-people?amp"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 53
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/M3OeNjerGN/sizes/yellow-moon_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
-  - title: "Elon Musk knocked Apple, bemoaned the microchip shortage, and touted self-driving cars on Tesla's Q2 earnings call. Here are the 12 best quotes."
-    excerpt: "Musk underscored the huge challenges of large-scale manufacturing, and suggested he might not feature on every Tesla earnings call in future."
-    publishedDateTime: 2021-07-27T12:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/elon-musk-tesla-earnings-apple-microchip-shortage-self-driving-cars-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-earnings-apple-microchip-shortage-self-driving-cars-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-earnings-apple-microchip-shortage-self-driving-cars-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://i.insider.com/60b0d85b02ac410018f934fd?width=1200&format=jpeg"
-        width: 1200
-        height: 599
-        isCached: true
-  - title: "Tesla's Full Self-Driving Autopilot Feature Mistakes Moon For Yellow Traffic Light; WATCH"
-    excerpt: "Elon Musk-introduced cars are renowned for their advanced autopilot features that allow people to manoeuvre vehicles without being behind Tesla car's wheels."
-    publishedDateTime: 2021-07-25T17:24:00Z
-    webUrl: "https://www.republicworld.com/entertainment-news/whats-viral/teslas-full-self-driving-autopilot-feature-mistakes-moon-for-yellow-traffic-light-watch.html"
-    ampWebUrl: "https://www.republicworld.com/amp/entertainment-news/whats-viral/teslas-full-self-driving-autopilot-feature-mistakes-moon-for-yellow-traffic-light-watch.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/entertainment-news/whats-viral/teslas-full-self-driving-autopilot-feature-mistakes-moon-for-yellow-traffic-light-watch.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 50
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/p3icskzagaaoa6bv_1627229963.jpeg"
-        width: 768
-        height: 438
-        isCached: true
-  - title: "Elon Musk Slams Apple As Tech Giant’s Self-Driving Car Project Looms"
-    excerpt: "Elon Musk bashed Apple, not once, but twice, during an earnings call with investors, making it clear there is a rivalry with the companies."
-    publishedDateTime: 2021-07-27T16:24:00Z
-    webUrl: "https://www.ibtimes.com/elon-musk-slams-apple-tech-giants-self-driving-car-project-looms-3260742"
-    ampWebUrl: "https://www.ibtimes.com/elon-musk-slams-apple-tech-giants-self-driving-car-project-looms-3260742?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/elon-musk-slams-apple-tech-giants-self-driving-car-project-looms-3260742?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: PLANetizen
+      domain: planetizen.com
     quality: 44
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/02/19/gettyimages-477483954.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.planetizen.com/files/images/Self_driving_Uber_prototype_in_San_Francisco.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Self Driving Cars And Some Of The Worst Vehicles Ever Made"
+    excerpt: "We are seeing advanced technology in every corner of our world and as A.I. continues to emerge everywhere self-driving cars are being tested as a possibly for future transportation."
+    publishedDateTime: 2021-07-29T12:52:00Z
+    webUrl: "https://wnbf.com/self-driving-cars-and-some-of-the-worst-vehicles-ever-made/"
+    type: article
+    provider:
+      name: WNBF
+      domain: wnbf.com
+    quality: 39
+    images:
+      - url: "https://townsquare.media/site/499/files/2021/07/attachment-GettyImages-51933806.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        width: 1199
+        height: 807
+        isCached: true
+  - title: "GM’s self-driving skills take a wrong turn"
+    excerpt: "GM has a similar system, in operation since 2017, dubbed Super Cruise, while its $30 billion self-driving division is called GM Cruise. The word has, of course, formed part of a generic industry term synonymous for decades with the beginnings of autonomous driving - “cruise control”."
+    publishedDateTime: 2021-07-26T05:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/gms-self-driving-skills-take-a-wrong-turn-2021-07-26"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+  - title: "GM Sues Ford in Fight Over Branding of Self-Driving Cars"
+    excerpt: "General Motors Co. is suing its competitor Ford Motor Co. for violating a trademarked driver-assist technology that’s used for hands-free features, according to a lawsuit."
+    publishedDateTime: 2021-07-26T14:45:00Z
+    webUrl: "https://www.ttnews.com/articles/gm-sues-ford-fight-over-branding-self-driving-cars"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-bb-1200.jpg?itok=JdoLkruE"
+        width: 470
+        height: 246
+        isCached: true
+  - title: "Porsche imagines an interior for self-driving cars"
+    excerpt: "Comment Now! Porsche on Monday unveiled a previously-hidden concept for the interior of a self-driving car. That futuristic interior is housed not"
+    publishedDateTime: 2021-07-26T15:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1133010_porsche-imagines-an-interior-for-self-driving-cars"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/porsche-renndienst-study_100800578_h.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Lyft travels to the future with new self-driving cars coming to Austin"
     excerpt: "The Lyft ride-hailing service is traveling into a new era in Austin. Starting next year, Lyft customers in certain parts of Austin will be able to hire a self-driving car"
@@ -133,20 +120,80 @@ related:
         width: 980
         height: 560
         isCached: true
-  - title: "Elon Musk Just Now Realizing That Self-Driving Cars are a ‘Hard Problem’"
-    excerpt: "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say, “No duh."
-    publishedDateTime: 2021-07-28T13:10:00Z
-    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/elon-musk-just-now-realizing-that-self-driving-cars-are-a-hard-problem/12221/"
+  - title: "Why self-driving trucks aren't putting drivers out of work yet"
+    excerpt: "Big tech firms have been promising an autonomous trucking revolution for years now, but even with billions poured into the industry, manned trucks still rule. Here's when, and how, that could change."
+    publishedDateTime: 2021-07-28T20:07:00Z
+    webUrl: "https://www.overdriveonline.com/equipment/article/15066699/why-selfdriving-trucks-arent-here-yet"
     type: article
     provider:
-      name: Predictive Analytics World
-      domain: predictiveanalyticsworld.com
+      name: Overdrive
+      domain: overdriveonline.com
+    quality: 24
+    images:
+      - url: "https://img.overdriveonline.com/files/base/randallreilly/all/image/2021/07/mack_no_driver_backward.61007e987cbad.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 660
+        isCached: true
+  - title: "Beijing permits self-driving vehicle testing on expressways"
+    excerpt: "Driverless cars will soon hit expressways for testing in Chinese capital Beijing, as the municipal authority has approved the gradual opening of several expressway sections for unmanned vehicles."
+    publishedDateTime: 2021-07-30T04:22:00Z
+    webUrl: "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 24
+    images:
+      - url: "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/img/c4760435a17d4a8596f17f176fcff716/c4760435a17d4a8596f17f176fcff716-1920.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "NCOA and Volkswagen Study: 70% of Older Drivers Embrace Self-Driving Vehicles and Ride-Hailing Services"
+    excerpt: "Today, the National Council on Aging (NCOA), the national voice for every person's right to age well, and Volkswagen Group of America released the results of an online survey of older adults designed to better understand attitudes and"
+    publishedDateTime: 2021-07-26T13:09:00Z
+    webUrl: "https://www.lelezard.com/en/news-19918810.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
     quality: 23
     images:
-      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/05/MSDS_270x270_LM.gif"
-        width: 270
-        height: 270
+      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
+        width: 640
+        height: 480
         isCached: true
+  - title: "Xiaomi’s Self-Driving Division to Develop L4 Autonomous Driving Technologies"
+    excerpt: "The self-driving division of Chinese handset maker Xiaomi will recruit 500 staffers to develop Level-4 autonomous driving technologies, founder Lei Jun said in his Weibo account today. The recruitment website for Beijing-based Xiaomi said the company is urgently seeking data center architects,"
+    publishedDateTime: 2021-07-28T12:38:00Z
+    webUrl: "https://www.yicaiglobal.com/news/xiaomi-self-driving-division-to-develop-l4-autonomous-driving-technologies-"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 21
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/xiaomi-self-driving-division-to-develop-l4-autonomous-driving-technologies-/15096304359178240.jpg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Industrial Revolution 4.0 And Massively Distributed Manufacturing Will Be Driven Via Autonomous Vehicles And Self-Driving Cars"
+    excerpt: "The vaunted Fourth Industrial Revolution or Industry 4.0 will be aided via Massively Distributed Manufacturing, and the use of autonomous vehicles including self-driving cars will make it all come together."
+    publishedDateTime: 2021-07-28T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/28/industrial-revolution-40-and-massively-distributed-manufacturing-will-be-driven-via-autonomous-vehicles-and-self-driving-cars/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 6
+  - title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
+    excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
+    publishedDateTime: 2021-07-28T19:14:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "LxV4zI06bfN2iw0UbY22PAv0NQ7SZ6zfIa3w7EQWsibNCAFZKIVcO0FCFkSPdKg625TPf20HNLZ8N+//HLHMTnT8gM1hdi/jwYsXPMbKim+CwT+yu7pd7/2VJiESNW3MwrgfoekuHGAhgp3xqLyDzjpOWEQJ9bsPRJ+OadgV/t6qk6Agj1ubx8xJWzaDpdsqt560ZAsxpVKB+k0tLW8FNV6VQnxJFm6C3lQkPLu3sbYXivOHjmLGGOPlxp4yCCUMlc/w4APIot+HK95jGKG1bX+raGwi2FkiK7klld+Cp9gHIDqo7u+IfxY/mw6lIkLwGkpCwQlxxVb+dnHdFU3Ou3XtrYOzqN7eQokrwzmu8sRcEhVpzs5ntYO14zlw/fvsyVpXEGiVF/WzseWIoMaKNAEl4jnJOBUXFxDJOHkP+fUK+eP5wJbhsiVavEvq4W6C/hD5F7MrIrFKgZMmFFLP4QsI+KbthyyGppaMy3RSAQMZQwmZkrdMvqz0n1O8uVrxk22/VT81lQLMmtgpiiOMRg==;4p874CizoeA/ZSwNjkwkig=="
 ---
