@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/378593"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378593"
 type: article
 quality: 74
-heat: 114
+heat: 84
 published: true
 
 provider:
@@ -47,43 +47,6 @@ related:
         width: 1178
         height: 797
         isCached: true
-  - title: "Reasons to invest in fintech"
-    excerpt: "Fintech (financial technology) is a relatively new industry sector that has grown enormously in recent years but still has a huge amount of potential. Encompassing a full range of financial services from payment processing to banking and peer-to-peer (P2P) lending,"
-    publishedDateTime: 2021-07-26T13:24:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_buzz/reasons-to-invest-in-fintech/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 24
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/image1-1.jpg"
-        width: 1379
-        height: 920
-        isCached: true
-  - title: "Fintech trade group taps chief executive"
-    excerpt: "The Financial Technology Association has tapped Penny Lee to become the newly formed lobbying group’s first chief executive. Lee most recently led the public affairs practice group at Invariant, and before that worked for the tech incubator 1776,"
-    publishedDateTime: 2021-07-27T21:50:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-influence/2021/07/27/fintech-trade-group-taps-chief-executive-796750"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 24
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-  - title: "Virtual partners have a growing role in the fintech space"
-    excerpt: "Future-proofing fintech? We caught up with Will Marwick, CEO of the global fintech company IFX Payments to find out more"
-    publishedDateTime: 2021-07-25T13:25:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/virtual-partners-have-growing-role-fintech-space"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
 
 secured: "wvP4fwiRXipH1vPJCPbga0CnSbDVoefxuezzyutKn3YVdY/S85QcJsPH7V/enMzzWWxnEaOtT+IkMFez4eizQRHByOlf0E/dVDxLWGGo3xm78HULXY6OeMpnhFktC7kbbPQOPrKq3KrQv6nWNn/WKe4F6CtMp7y8t9nMYPfdbKlNTraM9uU/hxITugflWi5yhVgNe+4fVww6B4yVGg9AGpX74yKVy/i+qv8s82H/vxcOTMykjBQvsLq5OIeDmRw3v0QQ2RDjtiPBsmspypEK1OCnkUWk1BUk/KCxlsj+pT2ddYqDaFYfyO8ExB0Z/kyk44qleeQyq0Le9OIvbUOwzsMx4zpozseMC0SpAEaGOjSW81XiuzUIjp7OnIkvJ90Uc3OAu4jK3RpEvBuEPDSmqQ3DiLgfSZatvj0Piui/8NE+huPEysTHheexvwWrbjnahWvGDCZGjMw4Y3MUHzjv2UfGRdsz/WkiiVcT9dMSRGjQcW2nC7PLpkZCYwEbWhJKlfqNB3uMxuS5fqgbgYTDeQ==;CrJEWoCRw/9riiq09+XV7A=="
 ---

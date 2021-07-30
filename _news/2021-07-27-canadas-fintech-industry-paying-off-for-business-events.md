@@ -25,36 +25,68 @@ images:
     isCached: true
 
 related:
-  - title: "How robot carpenters could help solve Canada’s housing crisis"
-    excerpt: "The technology company, which also has operations in Edmonton, seeks to bring emerging technologies to the home building industry to address the industry’s biggest challenge: meeting the rising demand for housing amid a growing shortage of affordable homes."
-    publishedDateTime: 2021-07-28T10:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-how-robot-carpenters-could-help-solve-canadas-housing-crisis/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/business/article-how-robot-carpenters-could-help-solve-canadas-housing-crisis/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/article-how-robot-carpenters-could-help-solve-canadas-housing-crisis/"
+  - title: "How Fintech can harness the power of AWS AI/ML"
+    excerpt: "Arun Kumar Lokanatha, AI/ ML Specialist Solutions Architect, AISPL, will discuss different AWS services, such as Amazon Textract, Amazon Rekognition, Amazon Comprehend, Amazon Sagemaker and Amazon ..."
+    publishedDateTime: 2021-07-28T08:48:00Z
+    webUrl: "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
+    ampWebUrl: "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 59
+      name: Your Story
+      domain: yourstory.com
+    quality: 91
     images:
-      - url: "https://www.theglobeandmail.com/resizer/QYqmQLQb3mxAy0abjvjiRL3n40E=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/QBCSBFC42BHSHPPCNPR3JIEEM4.jpg"
-        width: 760
-        height: 508
+      - url: "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imagetht2-1627460868024.jpg "
+        width: 800
+        height: 400
         isCached: true
-  - title: "Cansel Brings TinySurveyor Robot to Canada"
-    excerpt: "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada."
-    publishedDateTime: 2021-07-29T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm"
+  - title: "Authors of AI/ML White Paper Win Annual Si2 Power of Partnerships Award"
+    excerpt: "Authors of a groundbreaking Silicon Integration Initiative white paper identifying a common data model as the most critical need to accelerate artificial intelligence and machine learning in semiconductor electronic design automation are winners of the 2021 Si2 Power of Partnerships Award."
+    publishedDateTime: 2021-07-28T18:48:00Z
+    webUrl: "https://insidehpc.com/2021/07/authors-of-ai-ml-white-paper-win-annual-si2-power-of-partnerships-award/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 36
+  - title: "Reasons to invest in fintech"
+    excerpt: "Fintech (financial technology) is a relatively new industry sector that has grown enormously in recent years but still has a huge amount of potential. Encompassing a full range of financial services from payment processing to banking and peer-to-peer (P2P) lending,"
+    publishedDateTime: 2021-07-26T13:24:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_buzz/reasons-to-invest-in-fintech/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/1583655/Cansel_Cansel_Brings_TinySurveyor_Robot_to_Canada.jpg"
-        width: 400
-        height: 317
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/image1-1.jpg"
+        width: 1379
+        height: 920
         isCached: true
+  - title: "Fintech trade group taps chief executive"
+    excerpt: "The Financial Technology Association has tapped Penny Lee to become the newly formed lobbying group’s first chief executive. Lee most recently led the public affairs practice group at Invariant, and before that worked for the tech incubator 1776,"
+    publishedDateTime: 2021-07-27T21:50:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-influence/2021/07/27/fintech-trade-group-taps-chief-executive-796750"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 24
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Virtual partners have a growing role in the fintech space"
+    excerpt: "Future-proofing fintech? We caught up with Will Marwick, CEO of the global fintech company IFX Payments to find out more"
+    publishedDateTime: 2021-07-25T13:25:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/virtual-partners-have-growing-role-fintech-space"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "qOVvTJnrJQ7ufU601VQNS49FHsrn4LALLlvc6auwtmcHPsCzDcyVPmS3Jbv4nQjgMswSrcboL4j1noXPpDMoaoPcFIFCYh+hgrt003U69I6ZRiFAgYQ4y7H3EdTMP7EjsMbvSa0c1QHAHXXbYunQ2mTy0xzfcyHZVXstWuub3S6HM+EHau//l8IaGHVZemHwW9rAkB1zZGfWqkS2VCGmSGKOIoruxDqw3NfxnSVGsEoiSSdvadI0uUBZQl3IusJciq5XHgC3cZPGPkS+vl6cRLlv/svW7Ecpw8M0j4LwbCXD822ZgEmImZlSUrmJA/Veas04C3rtikHY3wZ0wrqFU8rif6vZ5EpfVzLGyd9cyKTcG1h0giWlHqtE2VRgE7FU+3/ySkzXIqPjWWLbpL72xd84wxe7Z+H0myCxxKAT930gpFQNPEm+q2rfieiFqls+KmKn5Aw8zys19xZ/wMnqH0ezvaPt+CTwAKkcIbwQjzUZzybG2lVUuxRZWbOdCK4FBZgNkGO2wC3H5oj4TAwzsA==;dpVz6xtIwsQbTO/9zRDMYQ=="
 ---

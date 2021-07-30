@@ -41,20 +41,6 @@ related:
         width: 760
         height: 508
         isCached: true
-  - title: "Canada’s Fintech industry paying off for business events"
-    excerpt: "There’s something about Canada that inspires images of size and grandeur; whether it’s the expanses of beautiful lakes, the vista of stunning mountain ranges, or the jaw-dropping emptiness of its national parks."
-    publishedDateTime: 2021-07-27T08:27:00Z
-    webUrl: "https://www.c-mw.net/canadas-fintech-industry-paying-off-for-business-events/"
-    type: article
-    provider:
-      name: CMW
-      domain: c-mw.net
-    quality: 24
-    images:
-      - url: "https://www.c-mw.net/wp-content/uploads/2021/07/RESEdmonton-Skyline.jpg"
-        width: 802
-        height: 537
-        isCached: true
 
 secured: "T1ySfnNikBrUqVckvoI/2x1Phz0O4S0xW+VG8uZrBSXPZmO+Th/i7OZ2B60rpnqGX365OQIr2GviTSgdsljBzZugbGI72N5dIBHEjM/bkgXfCtrXW2G92Rln5iXpw335I8rooSaJW/u/LAl67ny3x3X04gJ7Bw+xzqM4VO7XNo1jh0nBaXflthobS0/2yym/tuAt8zAvFjuxIa+RjcYCOs+oBzx8fJMv9xIPkRwl+RbI+BOzHQXyOzgng9NqyhoPwaQxrzHbBfu2ZzF3mUm16HN/3ZlTFhBVJncAejmF3huJbepJ7SjdIb1nPDukHITTc3aM/u8H9kzTa7OQnCDxxYXJEiL3eYWpx8p8WvmTCe8=;lUMhJNJXEi8GI9nk2U8GWw=="
 ---

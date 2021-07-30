@@ -1,46 +1,33 @@
 ---
 category: news
-title: "Fintech trade group taps chief executive"
-excerpt: "The Financial Technology Association has tapped Penny Lee to become the newly formed lobbying group’s first chief executive. Lee most recently led the public affairs practice group at Invariant, and before that worked for the tech incubator 1776,"
-publishedDateTime: 2021-07-27T21:50:00Z
-originalUrl: "https://www.politico.com/newsletters/politico-influence/2021/07/27/fintech-trade-group-taps-chief-executive-796750"
-webUrl: "https://www.politico.com/newsletters/politico-influence/2021/07/27/fintech-trade-group-taps-chief-executive-796750"
+title: "How Fintech can harness the power of AWS AI/ML"
+excerpt: "Arun Kumar Lokanatha, AI/ ML Specialist Solutions Architect, AISPL, will discuss different AWS services, such as Amazon Textract, Amazon Rekognition, Amazon Comprehend, Amazon Sagemaker and Amazon ..."
+publishedDateTime: 2021-07-28T08:48:00Z
+originalUrl: "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
+webUrl: "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
+ampWebUrl: "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 91
+heat: 141
+published: true
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: Your Story
+  domain: yourstory.com
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-    width: 1120
-    height: 629
+  - url: "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imagetht2-1627460868024.jpg "
+    width: 800
+    height: 400
     isCached: true
 
 related:
-  - title: "How Fintech can harness the power of AWS AI/ML"
-    excerpt: "Arun Kumar Lokanatha, AI/ ML Specialist Solutions Architect, AISPL, will discuss different AWS services, such as Amazon Textract, Amazon Rekognition, Amazon Comprehend, Amazon Sagemaker and Amazon ..."
-    publishedDateTime: 2021-07-28T08:48:00Z
-    webUrl: "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
-    ampWebUrl: "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 91
-    images:
-      - url: "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imagetht2-1627460868024.jpg "
-        width: 800
-        height: 400
-        isCached: true
   - title: "Authors of AI/ML White Paper Win Annual Si2 Power of Partnerships Award"
     excerpt: "Authors of a groundbreaking Silicon Integration Initiative white paper identifying a common data model as the most critical need to accelerate artificial intelligence and machine learning in semiconductor electronic design automation are winners of the 2021 Si2 Power of Partnerships Award."
     publishedDateTime: 2021-07-28T18:48:00Z
@@ -78,6 +65,20 @@ related:
         width: 802
         height: 537
         isCached: true
+  - title: "Fintech trade group taps chief executive"
+    excerpt: "The Financial Technology Association has tapped Penny Lee to become the newly formed lobbying group’s first chief executive. Lee most recently led the public affairs practice group at Invariant, and before that worked for the tech incubator 1776,"
+    publishedDateTime: 2021-07-27T21:50:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-influence/2021/07/27/fintech-trade-group-taps-chief-executive-796750"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 24
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Virtual partners have a growing role in the fintech space"
     excerpt: "Future-proofing fintech? We caught up with Will Marwick, CEO of the global fintech company IFX Payments to find out more"
     publishedDateTime: 2021-07-25T13:25:00Z
@@ -88,6 +89,6 @@ related:
       domain: fintechmagazine.com
     quality: 4
 
-secured: "UME6zOWiOfrzvIED/V4E9p4+0GLZ3P3G0YSuwxuJmBT2e3g0LtQDfEP2PsEM7rwyNMh+qQEBMDrACojWELkq6VNu8EoNZgYorJw4LuH0rhsHsoLbqg6cnavHWI2deGvqwHRMUkAHoOo13vavvJSS4zsieqfhD9qrwYf8euC0BoudwETS6lY/rbZBTF1PusduFuHIf7xyN+wZWhXaGOg9QGnbz64LurkQdE8oDYVSCy+9zIUwAvWUkrsxGxvTX/PJXNOx5bdW/5s79oUvoTzF+rPvNkIKiXfYSDVwMOpICa4sr2cMqYvwHc8kTnv7Ls5oI4m0/Jc+KH2Nbw4elgPi/MWxKp26iYTwgf4V8MFQbhY=;SiYgONXISWnxh43NjrJs3g=="
+secured: "1DUsK7N7HseD+j6mEa0P7G6hkdp56Yw7HGitYJsIZyK/NMw5BY9bzpc/9erl+prapEat/AyqI8vh/oDXrusHeOyAVa2692iRB4ZQLU72jXX8tB1E/sFf8gJpCJumJ6JEhwftV8YPWKftkue0y72d6mz49YmTD2LdyXxtCM7gA4kohvs5WMMhfVgAnJc8KzfP9A6dcIIGJprkspuVarmG6OnsaHIA0yGKAdbxBJS8xZM0VXa5GgQF6158qCqXvJ+j0mRaZGUO5vbQxM2UmoOJN4JcD29bMJrFnjew8nF4lTNGc1qLSszUGuiNpBpKYD/UiBidl5quuA4t7FJe4qRDJQp86Ql9I5efQuSXrSQvvcM=;QeVscVY40YHglVA1z+zE6A=="
 ---
 

@@ -25,37 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Startups Combat Fintech Challenges: Here's How"
-    excerpt: "Fintech business model is facilitating a unique and seamless compliance management system that allows the business owners to go through the massive data and make better decisions in their business pro"
-    publishedDateTime: 2021-07-28T06:02:00Z
-    webUrl: "https://www.entrepreneur.com/article/378593"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/378593"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378593"
+  - title: "How Fintech can harness the power of AWS AI/ML"
+    excerpt: "Arun Kumar Lokanatha, AI/ ML Specialist Solutions Architect, AISPL, will discuss different AWS services, such as Amazon Textract, Amazon Rekognition, Amazon Comprehend, Amazon Sagemaker and Amazon ..."
+    publishedDateTime: 2021-07-28T08:48:00Z
+    webUrl: "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
+    ampWebUrl: "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
+      name: Your Story
+      domain: yourstory.com
+    quality: 91
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1627452044-mark-oflynn-bqjswIxbhEE-unsplash.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imagetht2-1627460868024.jpg "
+        width: 800
+        height: 400
         isCached: true
-  - title: "6 Israeli startups storming the US FinTech sector"
-    excerpt: "Businesses have learned to embrace new financial technology and are increasingly convincing consumers to do the same"
-    publishedDateTime: 2021-07-29T08:19:00Z
-    webUrl: "https://www.geektime.com/6-israeli-startups-storming-the-us-fintech-sector/"
-    ampWebUrl: "https://www.geektime.com/6-israeli-startups-storming-the-us-fintech-sector/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/6-israeli-startups-storming-the-us-fintech-sector/amp/"
+  - title: "Authors of AI/ML White Paper Win Annual Si2 Power of Partnerships Award"
+    excerpt: "Authors of a groundbreaking Silicon Integration Initiative white paper identifying a common data model as the most critical need to accelerate artificial intelligence and machine learning in semiconductor electronic design automation are winners of the 2021 Si2 Power of Partnerships Award."
+    publishedDateTime: 2021-07-28T18:48:00Z
+    webUrl: "https://insidehpc.com/2021/07/authors-of-ai-ml-white-paper-win-annual-si2-power-of-partnerships-award/"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 44
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 36
+  - title: "Canada’s Fintech industry paying off for business events"
+    excerpt: "There’s something about Canada that inspires images of size and grandeur; whether it’s the expanses of beautiful lakes, the vista of stunning mountain ranges, or the jaw-dropping emptiness of its national parks."
+    publishedDateTime: 2021-07-27T08:27:00Z
+    webUrl: "https://www.c-mw.net/canadas-fintech-industry-paying-off-for-business-events/"
+    type: article
+    provider:
+      name: CMW
+      domain: c-mw.net
+    quality: 24
     images:
-      - url: "https://lh4.googleusercontent.com/8tVKE1iWto9QaaAhuF_yF4D1Yrp5kHsTAryLiOiTdzggMIgNAmZSi5M6VsT7-Z5X-YjNlYzl0yjVkZhMniZxPkjbizyyK5vzAydYPHYDVl1ieGOL83XR9xbxor-4EP3gc92p_zzQ"
-        width: 1178
-        height: 797
+      - url: "https://www.c-mw.net/wp-content/uploads/2021/07/RESEdmonton-Skyline.jpg"
+        width: 802
+        height: 537
         isCached: true
   - title: "Fintech trade group taps chief executive"
     excerpt: "The Financial Technology Association has tapped Penny Lee to become the newly formed lobbying group’s first chief executive. Lee most recently led the public affairs practice group at Invariant, and before that worked for the tech incubator 1776,"

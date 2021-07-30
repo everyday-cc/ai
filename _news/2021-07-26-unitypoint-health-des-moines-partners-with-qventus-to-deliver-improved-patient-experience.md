@@ -3,8 +3,8 @@ category: news
 title: "UnityPoint Health -- Des Moines Partners with Qventus to Deliver Improved Patient Experience"
 excerpt: "DES MOINES, Iowa, and MOUNTAIN VIEW, Calif., July 26, 2021 /PRNewswire/ -- UnityPoint Health – Des Moines has partnered with Qventus, the first real-time clinical operations system for healthcare, to use innovations in artificial intelligence,"
 publishedDateTime: 2021-07-26T13:07:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d"
 type: article
 quality: 13
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 300
         isCached: true
 
-secured: "xR4YC8160bOdXtHAiLeE/dTx2PI49qeJjy95sZhGjFCA3UR4nupNjdfa2a1eLAWnHc0UDUahMPfqv2bgRJNjzqIvMjU4QFcQ/azqJR8+W8lOKhj1nNN0tjG2RgUnasFzEAwpMxGPRVkguAwqZxF1EQdfhwsyrk/ZLXG/3IbYcqnwwwbra6QIiyEjxxLz83I+nMD/vHyly1AcszTmmyN5gN8RMp6Cs4o9p4huAJmzN3Ki0bIdmDBVzkfqU12kHWHs/nCxujVg6T01cmFf49R4U8ciYRYSCVn97y85GikHXW9VJxN0gf9RtyAunH5ALdhRD0JtLUhjUXu6+VFuDYSmMbeW9fWjYzHwXowtsXp0LpI=;Rs8bJU/bQItrRWNpGVg4PA=="
+secured: "m6obMLsBaJyYsOv8xWomKQ+pIfNS7XC+q0wLPfEMNy2GjG0/3sS4dV/kGCQ+v24scGMQAZk7pUu81zBl+e7nn4IVZa7ERV269k9XEjwlxBRVRnnUY43gO7aIexRUZlSWNevGZAAouCyAQBQOaOaDu3EtPzCG7PUl7XXTjsCM7hnHZxDLH8X1Mjdr+JED6O7HoO43guZ1TNpuINPCrKyZwe9CgW5BhYooznjAZWhumYa+pZtK+M04w/QqJMK3Mmv7JyExMfF6tXNYFlFsD1p7WjkKA8wmzMSIO2vSkWzQRh1tYDwLaBuIpJIShNSfPtlFzNzFT4TSxII1lT5aXr2UcqIh0KuP+CK7NI3HA1dy/F4=;ZaCwUQhv8GuBOqs/yBcLcw=="
 ---
 

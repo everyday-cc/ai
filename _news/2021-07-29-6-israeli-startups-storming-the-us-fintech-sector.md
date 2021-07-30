@@ -43,43 +43,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Reasons to invest in fintech"
-    excerpt: "Fintech (financial technology) is a relatively new industry sector that has grown enormously in recent years but still has a huge amount of potential. Encompassing a full range of financial services from payment processing to banking and peer-to-peer (P2P) lending,"
-    publishedDateTime: 2021-07-26T13:24:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_buzz/reasons-to-invest-in-fintech/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 24
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/image1-1.jpg"
-        width: 1379
-        height: 920
-        isCached: true
-  - title: "Fintech trade group taps chief executive"
-    excerpt: "The Financial Technology Association has tapped Penny Lee to become the newly formed lobbying group’s first chief executive. Lee most recently led the public affairs practice group at Invariant, and before that worked for the tech incubator 1776,"
-    publishedDateTime: 2021-07-27T21:50:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-influence/2021/07/27/fintech-trade-group-taps-chief-executive-796750"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 24
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-  - title: "Virtual partners have a growing role in the fintech space"
-    excerpt: "Future-proofing fintech? We caught up with Will Marwick, CEO of the global fintech company IFX Payments to find out more"
-    publishedDateTime: 2021-07-25T13:25:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/virtual-partners-have-growing-role-fintech-space"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
 
 secured: "xxPu82jxj3JfZYFtUoXbMN9prVcTLV41aC4Oe7/Q0MRsxIC7tqQA94t1weRcRz/4fDLpas1c0Tyxr2UqySgMGY16OgvsNMukCH5eNRrGJ2bB6ORGHW1GAe0m/73u8vZMvYr5W7tkTzNp95GOUoKAvcpTe595AHeE3L5mUVwpqJcX5uUfTqBs/GCkl85KfKDYyQ0Zt3SDRVbzYAx47AyTnb5zHyTXTBt7mRsIei021I+3biPG3fvenlsuSGSvIA/cR8XMK9ZqoCrQm6/SRUPCW/HENjeOzByem9wwQqfX9zSZ5xTMvXiynD9xkhWAsajZQnfM7gzfSB0AOeNo2VV78CY21XL+hUClAlR4RiP+HG9EdkfwlNp99jxAc1H0xabaObw4fOpNx81aYsjR1ITeprMsL+8cBcpHg/it3sghhWfzofJ1in1R4p7YwxxAp8oTA3PpNiPegdKfbaNkv6jyA7bymf5mYnio+/T6S9a7DS+tt2Hc20kV+5BPhOqhYDC19D6expdIt5oW92VIf7NcEw==;ZcZdb36IljlBifvufJ5XTg=="
 ---
