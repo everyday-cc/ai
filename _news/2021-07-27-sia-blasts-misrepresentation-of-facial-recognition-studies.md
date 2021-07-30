@@ -56,20 +56,6 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "Heritage Expert Testifies to Congress on Facial Recognition Technology"
-    excerpt: "In recent testimony before the U.S. House Subcommittee on Crime, Terrorism and Homeland Security, Heritage Foundation research fellow Kara Frederick warned lawmakers that facial recognition technology is vulnerable to misuse and portends a slippery slope to mass surveillance."
-    publishedDateTime: 2021-07-26T00:00:00Z
-    webUrl: "https://www.heritage.org/impact/heritage-expert-testifies-congress-facial-recognition-technology"
-    type: article
-    provider:
-      name: The Heritage Foundation
-      domain: heritage.org
-    quality: 39
-    images:
-      - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2021-07/2021_07_XXXX_FacialRecogFrederickImpactArticle_1219135449.jpg?itok=jz2wVVYi"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How facial recognition technology is used on farms of the future."
     excerpt: "Facial recognition technology .. you would expect it at airports or crowded events like football stadiums. It is now being used on farms, but not to count growers or grazier's.. not even sheep, this technology is used to count the heads on crops."
     publishedDateTime: 2021-07-27T04:25:00Z

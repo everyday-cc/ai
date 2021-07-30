@@ -111,6 +111,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Elon Musk's New Tesla Recruiting Strategy: A Day to Show Off Artificial Intelligence"
+    excerpt: "Musk announced that Tesla's 'AI Day' will take place on August 19. Similar themed events in other industries could help companies recruit specialized talent."
+    publishedDateTime: 2021-07-30T16:06:00Z
+    webUrl: "https://www.inc.com/sophie-downes/tesla-elon-musk-artificial-intelligence-day-recruiting.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 47
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1233947582_474571_tddveh.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "Vg9EMXGrQ/z9hlYpQM2kApUX4tkA39UBPenl4x0soObddkvJ7P5VeDoPy0YIX/YDYyKcLnKdvWhI5OR2jxS/bYQqSfgfqywYFScjXMaraWxUHJXnHuk7HiA2ejfZOPkpnkxRfvAlaHOc+36+xxixMBRSJu1U+ED+5+fRU+RQvDi/CyNDoKXMRgkf2qgXwZXd6minWCwPLqkujfMOAPkHwYt7XIs/f06nnKma0BAO4Kiqhn4EPDXjOYwhG/gNk26sQ97PiGxJK56oMF2PZ/A/QI/0CIToeyLokayx8F49pi5k9VUkkWyccNQCBja3CYTnY9rgqWra/StDnWSRGbDOdZG9+QE34RBaghg2fAHkNZQBJHoiWcwlcFjuIjWB9xK0KVx05SWsp8ySXF/6AMz/NTVqtrwvhfTAPh9pRPPMuSdzJYeFMmKT+gtI1LZwZR4C3wRJdXuX47o0gk/Abh7Je2qZ0S+F6jx9nlps9yFm2k1reZdxf8ZWoPHHO8rWI5tw9luy6OJbDPfF4hiJ/3VoRg==;9fkFBZ1c56ph0K8t+RtHDw=="
 ---

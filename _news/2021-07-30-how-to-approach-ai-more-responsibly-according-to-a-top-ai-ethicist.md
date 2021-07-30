@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-
 ampWebUrl: "https://venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/07/Women-in-AI-Awards.png?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "IezoZiONyzpjca3CMiqADOZgjT/4jST61LWXOC/20fg+B5DGS4RRsSgAl6IwmfGCth25W77mNpHmAxQXD4wLpGuVbALC+7K2o901wmYJYyXJ9wow5J29JFE4Vl7T4VP3aU7TpO15rKKBMUfDzNgqV6/vpl9PaoYazrraN0rBocec73POrGgWS8LF4rdwdzb9cY5/je6EbtvXOnIqtbysn88UoPdEH6C9LccrFJstPPzXzpMpYscsWSkUyLvuWkmfOJkFlqVasuJ+ATJnsIf75Jh7JRtR1CxMEZHt+kva7wQR4BpA789q5Kr+OdyzvDoCGwP0FugaA/fDcqVQv82F3EGQh+Y0egriF5j5FGkBXls=;MrYBmim9EB7BhJ60QT7S4Q=="
+secured: "4pov+oiTtYXBd8qivJv6tNZdy+ZpMNaS6OILANhBfD+cdj5ROAUz1ScwqOEZR14dvqpNB+cPTcTaOe6Kunj9XrjthrKFUAC3ep23NUW03OvuUhEN7z3MUwXj5fLJ3oejxlmPNilgi4aMv1pQT3p1d2DmViq7BtVcM4lsBH73bomph04kpO++kqB+ZDadJo4tgvSlGjex6tjmR4pnqrIUpe2YNrORMdMHES8sgIiFUVR8P6Cx6zvVK5VL8KkXjsM1hY59j60vKj3pO2tZxG08IC02AbrrXCxVj8O/62U4yivm9Widxuqs540kjdjgjj5jokaD/ZcORgYk0Vitt5laBahhbYyUlRD5+m3NZr3SZ+XwLVItVCj2Hszp75pYVXadLu+I5fcdAWrmNQF1aEOKoHXKfWu/7uDNF2J08JeapPuRKLmLmF9sD6ss5S1lfoUhd3YvQQj36t9/UPlLAUBN8Q7X7bF+c4/R8rUg0dYQ+Ojc8UHf7dhBNe7tD9qA8NbtVkdBhwWEZ7yWsPhNJhGh9A==;u9dZ3GCVY9EzOOebcVR1lA=="
 ---
 

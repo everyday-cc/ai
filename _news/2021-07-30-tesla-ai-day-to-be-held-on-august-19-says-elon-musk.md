@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk?amp=1"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/07/29/15/46052797-0-image-a-17_1627570045296.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "Elon Musk's New Tesla Recruiting Strategy: A Day to Show Off Artificial Intelligence"
+    excerpt: "Musk announced that Tesla's 'AI Day' will take place on August 19. Similar themed events in other industries could help companies recruit specialized talent."
+    publishedDateTime: 2021-07-30T16:06:00Z
+    webUrl: "https://www.inc.com/sophie-downes/tesla-elon-musk-artificial-intelligence-day-recruiting.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 47
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1233947582_474571_tddveh.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "VsUBXf9TO6B5kP2NIMJhyZt0Xc9wE87zPWM9WZLo3ScyBS+2mup0+Fynj01IUWm9T8T3aO4qgJbYw2uG5HDGQbK6r3SJIbidgQfSpxUhFNMji2uD/7QhTosfOQ+hPVJiBcWSKhRdPz0Y5+aEZuL7rRgZ5uvhd6F+5wp1Fs4SaN+oewsoNYy7oNaxCFtbl3PFPfxqP5j32A6uSJHpiL2o3uPQdmcRdRYNyBvZj830p7E5fB1yiDhEoBM64LTZOZIuyFKiFyFfYWD7bOEWi1YSSwv5F7m6JiwpU2LpYDZLdekM7DEG36HIOPucUJO1szWKKzQjzAqiO8+v15EOemM+l4pEAqnEFLh6LTfpsmG3EvddPINy2ATbFk9UrKdnVYkaiAypBC/+kDS1J/emK+vgaDKBE9++k5R86L7v3yJJ/dH1QVkXes0cwzyXS1FEHSodelwWMiUgiYddjy/OZtHhEYIVf0kqpD+LIPTXk4SGZkvf1SRJ7mJK2qkN1GAhxY9OuRUlvPg3YdoMCLum/aqPhQ==;f3y+eO/PY7Bptl+9HdOvgA=="

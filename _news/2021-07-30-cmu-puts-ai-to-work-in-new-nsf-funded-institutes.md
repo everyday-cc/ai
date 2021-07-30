@@ -1,27 +1,27 @@
 ---
 category: news
 title: "CMU Puts AI To Work in New NSF-funded Institutes"
-excerpt: "CMU’s inclusion in these efforts to expand the use of AI underscores the university’s depth and breadth of expertise in the field, spanning deep learning, robotics, interaction, ethics and engineering. The university is one of the birthplaces of AI and ..."
-publishedDateTime: 2021-07-30T12:32:00Z
-originalUrl: "https://www.miragenews.com/cmu-puts-ai-to-work-in-new-nsf-funded-institutes-605512/"
-webUrl: "https://www.miragenews.com/cmu-puts-ai-to-work-in-new-nsf-funded-institutes-605512/"
+excerpt: "Carnegie Mellon University researchers will contribute to three new National AI Research Institutes announced today by the NSF."
+publishedDateTime: 2021-07-30T13:34:00Z
+originalUrl: "https://www.cmu.edu/news/stories/archives/2021/july/nsf-ai-institutes.html"
+webUrl: "https://www.cmu.edu/news/stories/archives/2021/july/nsf-ai-institutes.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: cmu.edu
+  domain: cmu.edu
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.cmu.edu/news/stories/archives/2021/july/images/nsf-ai-institutes-900x600-min.jpg"
-    width: 900
-    height: 600
+  - url: "https://www.cmu.edu/news/stories/archives/2021/july/images/yuan.jpeg"
+    width: 800
+    height: 1200
     isCached: true
 
 related:
@@ -172,6 +172,6 @@ related:
         height: 326
         isCached: true
 
-secured: "R9Ui6pvc5yI3a/Oj1MTXbi2YRps/gDl16pQW8zu7eYpK7bRbHmZnUYSrfI1XsTiTavHG4tvlacP9QERB0VZuSG9IVgREPrtgNLWehkIjEV7bcxMm587YGAAVcVgNYsiOieWKpr9DtieoamJPITH5Vjs43VGGvQKGKwFVKcVpQI/1Nst9qVCHUUtBsnfAs9kViSFzVj1SoqY5vhTAaFpuG/6rAJ/AqbK27wnW+lizN1syGoz6X8BDzcio3Vt6sn1oNCNhCvibzrllWX10VXfce+ZDjTWdLzs0oOjRCYFy4/61JcuP6seWPShpP3AVu2lRUmSlWAvl7nwrXRDJ85ulOvxJb1bC+HFxzOtfpDOmmxU=;xbzzqHevWDtz+x6MtrtuEA=="
+secured: "wsTqweg/xkL/4/cRELht/PZU8dvGC2BXsT79tE9Tz8Aeiku+yQQBfYjVR7ufbFx0u6AbW2JKeTKRBkY00svh3ZyAumc0Fc5QdPbHwn/KhdCPGVL0+cbRVeyk4eLVTmxKl60Zb+2y4UOeaF3sDkzP+OwtZeXZsd2v/EL0FjPB9+iwG2Dj76uZDC8o1HXBRPGQ5JaaZbBdVyVIHI4mug7sEST2/J1dVgMoCiV6B/2WzMTS/13bYs5sAwfSp7nKg/Aihgpo9U+2xvrfMHzL6WYoSFhO7Hdfn4vgojK9ShfP3RiPFNAxXnI3m+K6DawqsgaOoLbB0x2FldA+Zb5D16e9bzVpYL5vv7Rn0zF7N/MQ8l4=;D/+2W3q1qNVj/LceNwR/nw=="
 ---
 

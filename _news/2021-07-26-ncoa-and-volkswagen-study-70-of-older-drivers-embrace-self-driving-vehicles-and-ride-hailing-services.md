@@ -194,6 +194,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Algorithm could improve how self-driving cars take on narrow streets"
+    excerpt: "By modeling different levels of driver cooperation, researchers hope to help autonomous vehicles safely and efficiently navigate situations where a driver’s temperament figures into decision-making."
+    publishedDateTime: 2021-07-30T17:44:00Z
+    webUrl: "https://gcn.com/articles/2021/07/30/ai-automated-vehicles.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 24
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cities/street_parking.jpg"
+        width: 760
+        height: 368
+        isCached: true
   - title: "Xiaomi’s Self-Driving Division to Develop L4 Autonomous Driving Technologies"
     excerpt: "The self-driving division of Chinese handset maker Xiaomi will recruit 500 staffers to develop Level-4 autonomous driving technologies, founder Lei Jun said in his Weibo account today. The recruitment website for Beijing-based Xiaomi said the company is urgently seeking data center architects,"
     publishedDateTime: 2021-07-28T12:38:00Z

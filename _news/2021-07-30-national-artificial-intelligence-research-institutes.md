@@ -115,18 +115,18 @@ related:
         height: 1522
         isCached: true
   - title: "CMU Puts AI To Work in New NSF-funded Institutes"
-    excerpt: "CMU’s inclusion in these efforts to expand the use of AI underscores the university’s depth and breadth of expertise in the field, spanning deep learning, robotics, interaction, ethics and engineering. The university is one of the birthplaces of AI and ..."
-    publishedDateTime: 2021-07-30T12:32:00Z
-    webUrl: "https://www.miragenews.com/cmu-puts-ai-to-work-in-new-nsf-funded-institutes-605512/"
+    excerpt: "Carnegie Mellon University researchers will contribute to three new National AI Research Institutes announced today by the NSF."
+    publishedDateTime: 2021-07-30T13:34:00Z
+    webUrl: "https://www.cmu.edu/news/stories/archives/2021/july/nsf-ai-institutes.html"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
+      name: cmu.edu
+      domain: cmu.edu
     quality: 39
     images:
-      - url: "https://www.cmu.edu/news/stories/archives/2021/july/images/nsf-ai-institutes-900x600-min.jpg"
-        width: 900
-        height: 600
+      - url: "https://www.cmu.edu/news/stories/archives/2021/july/images/yuan.jpeg"
+        width: 800
+        height: 1200
         isCached: true
   - title: "UW to lead new NSF institute for using artificial intelligence to understand dynamic systems"
     excerpt: "“Importantly, we will provide AI ethics training for all involved in the institute. We will also make this training available to the community at large, thus enforcing a disciplined approach to thinking about AI and its implications for our emerging ..."

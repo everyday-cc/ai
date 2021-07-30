@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/"
 type: article
 quality: 59
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
         width: 1050
         height: 591
-        isCached: true
-  - title: "Heritage Expert Testifies to Congress on Facial Recognition Technology"
-    excerpt: "In recent testimony before the U.S. House Subcommittee on Crime, Terrorism and Homeland Security, Heritage Foundation research fellow Kara Frederick warned lawmakers that facial recognition technology is vulnerable to misuse and portends a slippery slope to mass surveillance."
-    publishedDateTime: 2021-07-26T00:00:00Z
-    webUrl: "https://www.heritage.org/impact/heritage-expert-testifies-congress-facial-recognition-technology"
-    type: article
-    provider:
-      name: The Heritage Foundation
-      domain: heritage.org
-    quality: 39
-    images:
-      - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2021-07/2021_07_XXXX_FacialRecogFrederickImpactArticle_1219135449.jpg?itok=jz2wVVYi"
-        width: 1200
-        height: 630
         isCached: true
   - title: "How facial recognition technology is used on farms of the future."
     excerpt: "Facial recognition technology .. you would expect it at airports or crowded events like football stadiums. It is now being used on farms, but not to count growers or grazier's.. not even sheep, this technology is used to count the heads on crops."

@@ -7,7 +7,7 @@ originalUrl: "https://www.just-auto.com/news/older-drivers-like-self-driving-car
 webUrl: "https://www.just-auto.com/news/older-drivers-like-self-driving-cars-ride-hailing/"
 type: article
 quality: 54
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -179,6 +179,20 @@ related:
       - url: "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/img/c4760435a17d4a8596f17f176fcff716/c4760435a17d4a8596f17f176fcff716-1920.jpeg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Algorithm could improve how self-driving cars take on narrow streets"
+    excerpt: "By modeling different levels of driver cooperation, researchers hope to help autonomous vehicles safely and efficiently navigate situations where a driver’s temperament figures into decision-making."
+    publishedDateTime: 2021-07-30T17:44:00Z
+    webUrl: "https://gcn.com/articles/2021/07/30/ai-automated-vehicles.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 24
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cities/street_parking.jpg"
+        width: 760
+        height: 368
         isCached: true
   - title: "NCOA and Volkswagen Study: 70% of Older Drivers Embrace Self-Driving Vehicles and Ride-Hailing Services"
     excerpt: "Today, the National Council on Aging (NCOA), the national voice for every person's right to age well, and Volkswagen Group of America released the results of an online survey of older adults designed to better understand attitudes and"

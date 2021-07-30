@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/gallileo-project-using-ai-to-search-fo
 webUrl: "https://thenextweb.com/news/gallileo-project-using-ai-to-search-for-alien-technology"
 type: article
 quality: 167
-heat: 189
+heat: 187
 published: true
 
 provider:

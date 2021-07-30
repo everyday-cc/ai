@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-28T18:47:00Z
 originalUrl: "https://mediatemple.net/blog/web-development-tech/will-artificial-intelligence-be-the-end-of-web-design-development/"
 webUrl: "https://mediatemple.net/blog/web-development-tech/will-artificial-intelligence-be-the-end-of-web-design-development/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AWS AI
 
 images:
   - url: "https://mediatemple.net/blog/wp-content/uploads/2021/07/AI-040721-Blog-Heroes-1665x705-1.jpg"

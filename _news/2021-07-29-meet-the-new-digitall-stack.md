@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognizant/2021/07/29/meet-the-new-digit
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognizant/2021/07/29/meet-the-new-digitall-stack/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 77
 published: true
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-30T14:28:00Z
 originalUrl: "https://siliconangle.com/2021/07/30/facebooks-modular-droidlet-platform-one-stop-shop-building-smarter-robots/"
 webUrl: "https://siliconangle.com/2021/07/30/facebooks-modular-droidlet-platform-one-stop-shop-building-smarter-robots/"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/Facebook-AI.png"
@@ -40,6 +41,6 @@ related:
         height: 560
         isCached: true
 
-secured: "O5Q8lyswhfxlkvO8C3ursb1lzUkChcTx18G4truuHPSbDadZq2jwGs0wEYgvXglP170GVZGphONIua0bhnYJrDlkYiDRixzAhKzh5zhJS+1pSM+jQj7uqRd1enShPlQqnFuTKY/dsiao4gWO0hw2C9Eq/BFUqseH8h9hY+pbRJCANhfMMATgExspvhWsiqwHPXnlIc77fBQaTlUwM0QE2nSXgfO6RyFu0EV4l8OJ4qiNKTMNBquH5/mzmS+eXZ2VGzJrN6dTvOkt0f7SJRiHcNrcwND8mBAQMluvwIZvEYOfuu7DvSa2Mo74OZQNagFL3zJ/TEKX/pj0H82Kkjge50IotexIaoDwSE9ITztyEFU=;OV9xQkHe6iz4ho/uoezjVQ=="
+secured: "JO3n8X9OIdsoEW2iuoJta4J9KEqbPpJQHo3mlFkvaad72n3J6Ev27shWgyiKZy16e6UCO0E1eSc9Wqvarq4REv8UTYQDkHjBseXOqbrhaq83PB8YnhsfSj3U59EXBCdQiJnG/oLWxazb/wBWMO5hv/P8BvFLjRBZRwHVW62WxCnsH0fgtEhOgEw1r+yLxIpAtUK8N1Z9Q+prqlM2YxBNvJqHDxhcJm5bhTwSfdGnl+GoABAnGCYIS/2ttKMnV1WFZbGoFMtCQgmWnZQHY2DklEe7kQIqfvjZl+/WEzpuG3niZHfy9L8kKUOq6pHU426EVJHrN8U9LPPBHb36jNtkhDmG7Op2+G8zJyOzRr82DwKFGY+apq7ch5gorFPYWwprfewgYsAbj3erSFn9o/TGTxC5mPFg2AWqH9UG9am0vzCZsZmOVn0gk5zuej3b94ocNPpoNm1uGRTPCodbM3/DU31lO4x5/rItbpOW66UxB4e3GeCMXToRGn65o1T5Io6Agko1NdnMJ7XNe2WBfStUoA==;tpn9PjFfMqOLbH17xr9Ipg=="
 ---
 

@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.safetyandhealthmagazine.com/ext/resources/images/2020/12-dec/dekraspeakerdec20768x492.jpg?height=635&t=1605538935&width=1200"
