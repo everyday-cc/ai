@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/27/enterprise-ai-development-platfor
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/27/enterprise-ai-development-platform-datarobot-raises-270m-acquires-algorithmia/amp/"
 type: article
 quality: 100
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 930
         height: 517
         isCached: true
+  - title: "With $300M raise, Boston AI unicorn DataRobot is now valued at $6.3B"
+    excerpt: "Boston AI unicorn DataRobot raised another massive round of late-stage financing months after its CEO said he plans to be the chief executive to take the company public."
+    publishedDateTime: 2021-07-27T16:30:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2021/07/27/datarobot-raises-300m.html?csrc=6398"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "DataRobot Nabs $300M, Algorithmia"
     excerpt: "In a move to solidify its position in the emerging market for enterprise AI platforms, DataRobot today announced the completion of a $300 million Series G"
     publishedDateTime: 2021-07-27T16:27:00Z

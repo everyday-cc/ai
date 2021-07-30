@@ -165,22 +165,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "AI helping researchers improve solar data from the Sun"
-    excerpt: "Researchers are utilising artificial intelligence (AI) techniques to calibrate some of NASA's images of the Sun, helping improve the data that scienti.."
-    publishedDateTime: 2021-07-26T05:00:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-84749369,imgsize-296866,width-800,height-434,overlay-etcio/ai-helping-researchers-improve-solar-data-from-the-sun.jpg"
-        width: 800
-        height: 434
-        isCached: true
   - title: "AI driving the future of in-car systems"
     excerpt: "Carmakers are bracing for new safety rules and standards around the world that could require dashboard cameras to detect dangerous driver behavior."
     publishedDateTime: 2021-07-27T00:18:00Z
@@ -226,6 +210,6 @@ related:
         height: 901
         isCached: true
 
-secured: "6mH4e9eR19nQqayKcv4rcBDg2z5VusRHznGGUNx+QbPBj/PPJZ1cGHXNcyzitZglkKNoP2v4dPc1oQAVG+esoPpdpHFdiriZrRyxlHvG8BszCwXJLTfkVHl1mboSXrGjO8QgYPYOoAt7JANclKh/UVDd4uPi+YRQblx43fFLSpSDg//fO6NbWf73T8UdYIDez8C48hvSsYAunf0AVBZkKk6PCt1ID9+4/7blYRTF2wEKGpswUhu905VrhsmmoP5JAaK4fd1U+IzWtVditTyeK1mmW5o9aHvz7Ekj3yuePzyh1wGGODHRRbsL6Z7Ydz8LRbNRl+yvOhtAHprhpBGPtp+kf6qIHDCEXwa9vVrzdKg=;GNj+u824MrV043cxlZSq3g=="
+secured: "WL1TjjQwSN/5WiH/gGqlDUYvtpl9mjhirOfH0q0DDQHswWWAepIbL+9Iu0XZ9b6yMtS5ycMNIC0eUXKqD7p+pGzKRjcl2UKjQ69fE89UJn/h8A1bDxbkCaXBhcO8buu1NV+Ze3vV4NcAjWQJsihd7rFh3AmEf7nUVHN9lS5DhOGt0pJdS4gmyCMOyLvB0sY6f4ea4D3O9LofvdH/xsqhMZRZGoIPqngVblan2W0veBWxS0yZSGO5ghSQmgXow9kUWFoOV5+uOLWKbHxfcGO0Mtk4x3WAx9Oti2jyr9ZHbHzE9MPB1LsBt9uk5DTVkf0HIFQnb0oMabfRHKXHoNMtW2STkUsy9/p+mwZK7/nK9uhL8uI6VEzdODS16vAsiLhUgWhIABdBx05B5aSKIsT/DOvKVElSHd/zl+xAKX+KJYk9SVRRZA2e4nrYvWZgwEmb1yIKKHoth2q5N1xUi4ti+YMWY2qdPRd9v1OxtfGAusX6oAF+X7mWIPtyuRbrzwY4Kn09Gf5z70EfbhG4sZMhQw==;I/6KYexHqslDMRf9tH11KQ=="
 ---
 

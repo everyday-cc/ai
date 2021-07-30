@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/cops-are-running-amok-with-artificial-
 webUrl: "https://thenextweb.com/news/cops-are-running-amok-with-artificial-intelligence"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Americans aren’t good at recycling. CleanRobotics wants to make it easier with AI"
+    excerpt: "TrashBots automate waste sorting so you don't need to worry about what's recyclable or not. The startup was a top-10 finalists in the 2021 IBM Watson AI XPrize competition."
+    publishedDateTime: 2021-07-30T19:57:00Z
+    webUrl: "https://technical.ly/pittsburgh/2021/07/30/cleanrobotics-recycling-ai/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 66
+    images:
+      - url: "https://technical.ly/pittsburgh/wp-content/uploads/sites/7/2021/07/UNCC_TrashBot-rotated-e1627582526138.jpg"
+        width: 885
+        height: 888
+        isCached: true
   - title: "Deep Learning Market to Witness Significant Growth in North America with Increasing Adoption of DL in Healthcare"
     excerpt: "As a technology leader there is no better time than now to discuss the prospects of a deep learning platform The technology was once just an idea Today it is considered to be the most important piece of the puzzle"
     publishedDateTime: 2021-07-26T18:53:00Z

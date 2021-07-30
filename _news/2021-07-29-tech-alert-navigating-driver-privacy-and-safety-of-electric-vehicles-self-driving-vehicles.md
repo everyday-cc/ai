@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
-excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
-publishedDateTime: 2021-07-28T19:14:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
-webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
+excerpt: "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with improved AI/ML operations and internal components ..."
+publishedDateTime: 2021-07-29T00:18:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/07/28/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self"
+webUrl: "https://stockhouse.com/news/press-releases/2021/07/28/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
-  - Computer Vision
+  - AI in Autos
   - AI
 
 related:
@@ -240,6 +240,6 @@ related:
       domain: forbes.com
     quality: 6
 
-secured: "BYMiSZJmReT6Ni918klWG5xm1pc44PNqtwWiwTooUXqODZ+wGcm3vsxo7DRxLwQBwxvfhOtGmhsGOYOI+C+eVEt0lBC7gPCUL8DbcubgKRDmwDqmRGv/Zqfi3Vf3AMzoSwNWYKqGMjRAqg+whX58bIxfRmXnOxIyGPDzy9RvL4JcC6szhvhDaS4T6uYNsWHrrCQLKlamBvKUfkZ4GzXEViUBXfKlGX/u/n5XhkG2xwISY2QBNsr89rM+q0qo4b2R/p/0pRqRsT9MRRTqO1imR2ZN6kRD0+AyPYrU3Y2NhHvY5kOEuDB4XhktD5KxZaQefA9V7SEarlDGetyRhwrWZm6yzcY61obCNf5VnnVG9sQ=;whnDXC3E0tlPksxX/tIjBA=="
+secured: "9LTJ3CQhsawXpRqMd0ennPJb9fbYDyNK4BCJcHdfPg8BysY53+XjgGT2OhFpYZ5AOr3bI7vLhIyzO1jp6rUkFsQAwX9TSbh6eiK6mQbNX4KNdEbGCifF6Wi1iMg2XfJAm0jlPwFD32vjgW8bF4+5KwGwsMipHyNSg1+4BuwAE24shBJUb5t2mZpO0HoyAAWpV0Jy5Cwf+NtwBSklMhq8eQeuHXLoLDPYx/4K6rY56aYjIkR+HcrrfQ0WDBxvWMcb/ZFnFsGNdk6ySGI2YEh+svEkAAOTVCjzSr8feaJ2uB82Veu21NqQSxyPVw08X8A2pCGr0RyjfelIKQjIDFjBuxWeJRozaW6Q49c7+pDXMyc=;QrJVdOpp2MdmNt+Vip0gBw=="
 ---
 

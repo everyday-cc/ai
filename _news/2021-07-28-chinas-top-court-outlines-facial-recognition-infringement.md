@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "New law leaves facial recognition debate unsettled"
+    excerpt: "President Biden’s nominee for U.S. attorney and advocates who voiced privacy concerns are pitching a state commission on a bill that would regulate government use of facial recognition"
+    publishedDateTime: 2021-07-30T19:24:00Z
+    webUrl: "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/"
+    ampWebUrl: "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/amp/"
+    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/amp/"
+    type: article
+    provider:
+      name: WWLP
+      domain: wwlp.com
+    quality: 59
+    images:
+      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2018/05/NC_facialrecognition0523_1920x1080_1527103738342_43280524_ver1.0.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Will Facial Recognition Limitations Hurt China’s New Retail?"
     excerpt: "China’s highest court has established clear limitations on how businesses can use facial recognition technology, which could affect luxury sales."
     publishedDateTime: 2021-07-29T17:14:00Z

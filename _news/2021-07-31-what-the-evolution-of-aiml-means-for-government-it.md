@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-30T18:10:00Z
 originalUrl: "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx"
 webUrl: "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Analytics_Data/GUI_data_access.jpg"
@@ -25,6 +26,6 @@ images:
     height: 368
     isCached: true
 
-secured: "thRIWr6/Vp8QitdmPDlSZVgULeWYxOUAGSFfvkc58xFYlD2lGtZoUMaDEKnHh5Fuulakmj8O3rprIVSkppg0yCrkmlEzmmVRgvgON/C/Y3nnbBHzIebQX+YHgjCgLYK4JvhFzjTZ8eI6tPHgwBIjL96V8nD2ax4PqS1vL8uIxXrRqDH0D+4ewAcqiGNng6kM1bDXIUFNftMVYCOVtW/Y/K3ygateornAbMSYHZxu1H10np37NiOwuBS4kJR1WyFHPPk1TnJ/LKo2BdS4TyN/xsniShpuS/oFI7BlSdDuA3C8BVsTaENmWIgeLgaK4RSQ4lRLm5FIareshWISsikn16B0t5oNtILvne3vI+xY+fc=;3q51lMBvDcItsN0z4QsFQQ=="
+secured: "li1r2nw162j2vNvVZvAnCphRXMweWnR0I99L86XkxBzkKyy2tt4ExuxVcUWbMo/58JsGnFmjmVdw32wT1RCpSIcbQQq3d5CkbDLgssJ2b+Jj031JKEN/YeJAzdc4PKVxVQMMtu11NOLCfnqwLB0UW5FUeFKysNHohSZQ6Omk6Ha8n22EfNkgE968Xiet2bT2KRC353O5P9VuNiIiCXtZ94qtfkyfYRzLO5zRx1ZNhEmKg8fSCI9uItSNtygHG56M6X3rH3LCxJWNnOCB0Ao4lAPTRf7I5qDtn+SemY3H8guOy2mXExuZDpYviHhaOnyXklRpDCkQDH5FaijcYWuff22BlUv0b1YJuVuGywpKQItnfQh5axnoD1j2PxqK7MusU0cze3HWpF6GPjUc2EwO/OLi9oE/qMCPqaV5WIVmGMr6BQZZbqb89LEnRc5OJF6kmfYW65kbOIdP8jwX5UzjRNgMxdbsUVO+CWDxDZfeYCoeEkTznNVQCAQkfUwP8EKE75SXUw9tcV/Gf8t+C54khA==;74ofQW22bGbIx3KeQhV9XA=="
 ---
 

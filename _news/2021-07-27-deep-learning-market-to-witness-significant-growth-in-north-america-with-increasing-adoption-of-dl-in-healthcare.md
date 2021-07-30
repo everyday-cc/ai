@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Americans aren’t good at recycling. CleanRobotics wants to make it easier with AI"
+    excerpt: "TrashBots automate waste sorting so you don't need to worry about what's recyclable or not. The startup was a top-10 finalists in the 2021 IBM Watson AI XPrize competition."
+    publishedDateTime: 2021-07-30T19:57:00Z
+    webUrl: "https://technical.ly/pittsburgh/2021/07/30/cleanrobotics-recycling-ai/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 66
+    images:
+      - url: "https://technical.ly/pittsburgh/wp-content/uploads/sites/7/2021/07/UNCC_TrashBot-rotated-e1627582526138.jpg"
+        width: 885
+        height: 888
+        isCached: true
   - title: "VDO.AI Appoints Former FreeWheel Executive Sean Black as the Head of North America"
     excerpt: "VDO.AI - the global advertising technology company, has recently appointed Sean Black as the Head of North America. He takes clients/brand strategies and objectives beyond paper and delivers first of its kind creative thinking - married with holistic,"
     publishedDateTime: 2021-07-27T03:30:00Z

@@ -1,23 +1,41 @@
 ---
 category: news
 title: "DeFinity adds deep-learning AI models to detect digital asset market anomalies"
-excerpt: "DeFinity, a DeFi marketplace for fiat foreign exchange, tokenised currencies, and central bank digital currencies (CBDC), partners with Axyon AI to enable the first ever use of Deep Learning-powered AI to detect market anomalies in the digital asset space."
-publishedDateTime: 2021-07-30T05:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-definity-adds-deep-learning-ai-models-detect-digital-/2021/07/30/9420503.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-definity-adds-deep-learning-ai-models-detect-digital-/2021/07/30/9420503.htm"
+excerpt: "Axyon AI is a leading European FinTech company with expertise in Deep Learning/AI for asset management and trading firms. Axyon AI has successful products in several financial use-cases, from security selection and asset allocation to anomaly detection in ..."
+publishedDateTime: 2021-07-30T04:59:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/n22241200/definity-adds-deep-learning-ai-models-to-detect-digital-asset-market-anomalies"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/n22241200/definity-adds-deep-learning-ai-models-to-detect-digital-asset-market-anomalies"
+ampWebUrl: "https://www.benzinga.com/amp/content/22241200"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22241200"
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
 
-secured: "DrngKaTlPHb2ZFEn87HGJtsMhnIAQ4l6TvU17q5UoiHjJSZHew+ntgKnkk80U0mQt7/62ggVAU2HBKsNCZF5X98niTLlfwLpgsLTS4W35+/iCRRq4+u6QDJlRCeb8mzn6uHOLO5AO80H5hSB0+jGVe/f7GpGXZGVWTifDYYtIVjJArSTP2yVuSdC6+18TwFUJjvUo4XlsJuY4rHoN21TAFuHl/Q9i6rZ8rPB9TooeGrQS/S55iWoHglFe+EMSh2bCICOVMJiB9YvYkQdPUnXoE8qsIV4K+xCMl2opUGegQ6O1hv9hp0CfuCxoqx0M2tGTImUamy4FOO+VAD4lvP9Fk7nikp8KGqKRt7iGXePkWE=;LZyxzWOZ/0X46u/2JoRhYw=="
+related:
+  - title: "Financial firms should leverage machine learning to make anomaly detection easier"
+    excerpt: "Anomaly detection is one of the more difficult and underserved operational areas in the asset-servicing sector of financial institutions."
+    publishedDateTime: 2021-07-28T16:12:00Z
+    webUrl: "https://techcrunch.com/2021/07/28/financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1263395015.jpg?w=711"
+        width: 711
+        height: 400
+        isCached: true
+
+secured: "utwLNRccHGAkiMFSIWWrlmqrvNwg+hJGTIPKf+LEn3sw/vkUaFHlZ/JAUKAqjptgPguYz53ykXYg9Lrl1/BvEBFnxHEXCBRuqJGfpN3OBjIsxIV7L9irDqLYklseXOAboIHWuOrMt+x/sM8IckKHisBc5NKi+Rnn2FsUowuJ+hoAkYh2Vjxhh2AGZbCuD0Eed44A90lJcGFTFnx/To5wvmWkV0BR+iayPt1yY+iwnlcc6lBkUEhMy9HAcKgKr0beqkZ9GJ3SJm/Kbm7c2R/iZoAsACUdoB3emuI8GDMsMIGzkD9gF3UVJo5xvvlPh+hoGE7gS5a4uJl1Q3AiGxztX6AhAoa/uWlMLHbC6FbLh44=;8TW7xAul0XPoKGr03lzxkw=="
 ---
 

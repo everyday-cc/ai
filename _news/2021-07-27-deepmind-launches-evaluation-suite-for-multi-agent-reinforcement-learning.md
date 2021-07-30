@@ -41,6 +41,15 @@ related:
         width: 1198
         height: 600
         isCached: true
+  - title: "DeepMind’s XLearn trains AI agents to complete complex tasks"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DeepMind designed a virtual environment called XLand to train systems to succeed at problems and ..."
+    publishedDateTime: 2021-07-29T04:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepminds-xlearn-trains-ai-agents-to-complete-complex-tasks-10381222"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "MOcjh2ZWSsaDuwkfeqZYbiR42DrGNE59Mu+PKziafjiBe6aNDHb8m595DfnF+7mkGf/5oabvwf0hm1BLo17GYcA1DGRYWaoR1OZBJBXXsWjfmie9bo8+3Y8Y7ycWvabgsyWuG/D6kzniXj/IACfDC8mavDPEmslbNIxmpITFNEMZAlbTtwwswDJDvoF/AMRGCV2CxDhJrN+lwpm65mYgcp4ReDCD2godL1kIBjgA/h3TJDWpySY3+tdIIRkQYmpscpikRwrECcWf33+Rw+7iIe37ZXI28yDwqzIi+iogU8Ydj8ICkQdXkoqq+gZUYuUTHsAf+mPlGOVB4VQYyj+miy8Ff9bdlOIjF4A20S+8Bsr7dw43AKSxg5mY+cXY96Vu48Q/lmaiD+8PIY3mOASJiPL1o71a78HVX1NnkSqbzD56Q5PINNNNQOdA5dEXdTVLfg41loXEsHEwhtD+OQWDA3s4CPZalDOCFsrzXGeXMxSUxK2pq9jxMEWZ3gYpXZyIo7y7kl//VKDWX3wLKeN8Lw==;hmeBb+vyRxHkqjIfw0UWnw=="
 ---

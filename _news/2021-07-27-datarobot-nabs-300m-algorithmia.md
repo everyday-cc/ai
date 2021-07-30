@@ -55,6 +55,15 @@ related:
         width: 930
         height: 517
         isCached: true
+  - title: "With $300M raise, Boston AI unicorn DataRobot is now valued at $6.3B"
+    excerpt: "Boston AI unicorn DataRobot raised another massive round of late-stage financing months after its CEO said he plans to be the chief executive to take the company public."
+    publishedDateTime: 2021-07-27T16:30:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2021/07/27/datarobot-raises-300m.html?csrc=6398"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "daQ8GDA7ClaNnpHDDO1hcqRiYtitkdy+aJHGF8EtjTlm40CJMw5PXeUiJK4HLJs1DGlDfWVptADjNtXt5dlYH8ntiZQLQGZpFVWXZe9cQAZppNO4hMqfSxMQzN3iRpZh800LVnAxbQgztL0fB4c6xaFdfVhByyh9lrPaBxg2pnFZSsPmSmqPbq4nfZQA/Ar+x9JIt+iBEDqOM223vZ0H+Xvt55OqJwbKnmyNByTtpybgL9kN8/hycJdTXQPvTkjz2C4/uCKX6dO8HAHb9Mugij0Sl+bc7tYw/3+lGm6M1JaPscmuIP1/4HmkgvduiwPuH03r1tClA3ke4Uyq9izwfXJ8FcqGj7X2b4cGa4thUtsNNr3h8k3uuVgQl/ML/0VUnMSakY4RCFfAHAyqkpDZOUbLvSt/vP7xzvAQkIAi3OFUa4O0lqUaC+L04C3efpwDtLpuQq6/6hO9cDOXKIQoqcsKY0sMMmvTdXCGVCptGw/kg/wq1reeuaubQrjgvaVoZaSlIrFxAIHCdUBMrWxUNg==;uUk5j4t61aU+i+6kk7weeQ=="
 ---

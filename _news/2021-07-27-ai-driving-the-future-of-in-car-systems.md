@@ -166,22 +166,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "AI helping researchers improve solar data from the Sun"
-    excerpt: "Researchers are utilising artificial intelligence (AI) techniques to calibrate some of NASA's images of the Sun, helping improve the data that scienti.."
-    publishedDateTime: 2021-07-26T05:00:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-84749369,imgsize-296866,width-800,height-434,overlay-etcio/ai-helping-researchers-improve-solar-data-from-the-sun.jpg"
-        width: 800
-        height: 434
-        isCached: true
   - title: "AI and ML for the Masses"
     excerpt: "Artificial intelligence is no longer the domain of Hollywood technothrillers, nor is it available only to the Fortune 500 or VC-backed startups. In fact,"
     publishedDateTime: 2021-07-30T19:48:00Z

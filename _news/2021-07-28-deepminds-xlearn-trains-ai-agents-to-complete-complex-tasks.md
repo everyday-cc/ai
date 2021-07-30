@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/28/deepminds-xlearn-trains-ai-agents
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/28/deepminds-xlearn-trains-ai-agents-to-complete-complex-tasks/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind’s XLearn trains AI agents to complete complex tasks"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DeepMind designed a virtual environment called XLand to train systems to succeed at problems and ..."
+    publishedDateTime: 2021-07-29T04:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepminds-xlearn-trains-ai-agents-to-complete-complex-tasks-10381222"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "DeepMind Launches Evaluation Suite For Multi-Agent Reinforcement Learning"
     excerpt: "DeepMind has introduced a scalable evaluation suite for multi-agent reinforcement learning called Melting Pot."
     publishedDateTime: 2021-07-27T12:30:00Z
