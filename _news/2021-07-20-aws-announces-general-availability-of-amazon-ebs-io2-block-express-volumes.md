@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon EBS io2 Block Express Volumes"
-excerpt: "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time."
+excerpt: "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time ."
 publishedDateTime: 2021-07-19T21:14:00Z
-originalUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/"
-webUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes/"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-17871d68d8fa4c54bb408e0e613abfdd"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-17871d68d8fa4c54bb408e0e613abfdd"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "7B86mowey/PB6OP3I76kLojhMBVjJtFsbCDd+IWpg7ixaD9yfD9f3b/fRIO5VvpfiVy9AEP4KfEEM2e4Y4RPFq8lEBFN5Feig5wU5uC+oaA7v9lqWsScv2LJCe+qvVnVlThDF+wa7lEAFnJKEXPb5ZExFqPafA8hd1FyStMJJQvq8fq6kz5z2dUEjYW4UynzHksl5fWur+kbSDaqIW5Pd41n9BhGIiPCuemkBKfo9ZK57qhE6eX3y2B9AEsb7Awx+ZQd9nnZjIhGW/Nm6wVW9iNTf06sf9uLD47xdH8+Nro7UKzgpLrMojwwtJm4/IQgQa2cKuM1W5AtoURzhR3J/EjM0mMNpHn0ivze+FfBdTw=;Beo5oC3ovNCJNWTeFGA1aQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "WFhUERQufZuvPPKHEG8rI3RD+51fZwrXeTsu1DDaN+DVLPEmKXlS7YD5ia7m3T8YZHBUL1XIopKTErfhrjPKUz91b4lm7yXKwd9UGZjeqNqfYdTQWaV8/YrfNQXLUJn+rbUka0I+H1HJDy7KJPS5YZPNSsnAznmhEwvpaKb5A8souMWxiXZU3N83Lk0cUeoTAcwNrMzK2WzpRrsZCQjo7cbasa5MBurka8qWKs6U0z09RmTgR/RrN410Z2fH5O3GIcAF4EUHA1WYj0g68OSWzs/LYu1SLVKqZpleKugf9Et2151ykXljndb9vZdgXr17ZHvjt4J+Tu0iU3QHZZxCV7krPEsxB5rzysLar+4G0Gk=;1ou4RUV2HkyShqVvTv+SLA=="
 ---
 

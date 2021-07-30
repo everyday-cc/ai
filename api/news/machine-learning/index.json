@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-29-machine-learning-fuels-personalized-cancer-medicine.md",
+      "title": "Machine learning fuels personalized cancer medicine",
+      "excerpt": "The Biomedical Genomics laboratory at IRB Barcelona has developed a computational tool that identifies cancer driver mutations for each tumor type.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-07-machine-fuels-personalized-cancer-medicine.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-07-machine-fuels-personalized-cancer-medicine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-fuels-1.jpg",
+          "width": 2880,
+          "height": 2037,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-07-machine-fuels-personalized-cancer-medicine.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-machine-fuels-personalized-cancer-medicine.amp",
+      "publishedDateTime": "2021-07-29T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-openai-debuts-python-based-triton-for-gpu-powered-machine-learning.md",
       "title": "OpenAI debuts Python-based Triton for GPU-powered machine learning",
       "excerpt": "Triton 1.0 uses Python (3.6 and up) as its base. The developer writes code in Python using Triton’s libraries, which are then JIT-compiled to run on the GPU. This allows integration with the rest of the Python ecosystem,",
@@ -43,49 +86,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts.md",
-      "title": "Qubit Uses Deep Learning and AI to Help Retailers Perfect Personalization Efforts",
-      "excerpt": "Qubit has launched Qubit CommerceAI, a tool that leverages AI, deep learning and machine learning to deliver advanced 1:1 personalization techniques. The Qubit CommerceAI models are designed to understand and react instantly to customer context in order to unlock more value from retailers’ entire product catalog.",
-      "sourceUrl": null,
-      "webUrl": "https://retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts",
-      "originalUrl": "https://retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://retailtouchpoints.com/wp-content/uploads/2021/07/QubitGoogleRecAI-002.jpg",
-          "width": 512,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts/amp",
-      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts/amp",
-      "publishedDateTime": "2021-07-29T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail TouchPoints",
-        "domain": "retailtouchpoints.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -236,7 +236,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 236,
       "tags": null,
       "images": [
         {

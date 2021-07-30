@@ -2,6 +2,57 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-06-26-a-beginners-guide-to-ai-policy.md",
+      "title": "A beginner’s guide to AI: Policy",
+      "excerpt": "Neural's long-running Begginer's Guide To Artificial Intelligence gets a modern update discussing policy and regulation around the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/beginners-guide-to-artificial-intelligence-policy",
+      "originalUrl": "https://thenextweb.com/news/beginners-guide-to-artificial-intelligence-policy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fpolicyrobot.jpg&signature=3570b3c012b72a0b33e2163995744feb",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-bill-to-use-ai-to-vet-consumer-product-safety-moves-to-senate.md",
       "title": "Bill to use AI to vet consumer product safety moves to Senate",
       "excerpt": "The U.S. House of Representatives this week approved and sent to the Senate a bill intended to form a pilot initiative to use ... AI is happening at the same time that the Consumer Product Safety ...",
@@ -1161,49 +1212,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-deepmind-uses-ai-to-tackle-neglected-deadly-diseases.md",
-      "title": "DeepMind uses AI to tackle neglected deadly diseases",
-      "excerpt": "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessghana.com/site/news/Technology/241004/DeepMind-uses-AI-to-tackle-neglected-deadly-diseases",
-      "originalUrl": "https://www.businessghana.com/site/news/Technology/241004/DeepMind-uses-AI-to-tackle-neglected-deadly-diseases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessghana.com/site/img/../../cms/img/news/2021-06-24-154800000.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BusinessGhana",
-        "domain": "businessghana.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

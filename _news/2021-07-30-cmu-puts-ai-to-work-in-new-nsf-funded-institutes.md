@@ -129,6 +129,17 @@ related:
         width: 274
         height: 350
         isCached: true
+  - title: "WSU to lead new research institute to apply AI innovations to farming"
+    excerpt: "Washington State University will lead a new federally funded research institute that will look at how artificial intelligence can help tackle farming challenges related to climate change, weather, water supply and labor."
+    publishedDateTime: 2021-07-30T18:34:00Z
+    webUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/"
+    ampWebUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "UW to lead new NSF institute for using artificial intelligence to understand dynamic systems"
     excerpt: "“Importantly, we will provide AI ethics training for all involved in the institute. We will also make this training available to the community at large, thus enforcing a disciplined approach to thinking about AI and its implications for our emerging ..."
     publishedDateTime: 2021-07-29T15:52:00Z
@@ -172,6 +183,6 @@ related:
         height: 326
         isCached: true
 
-secured: "wsTqweg/xkL/4/cRELht/PZU8dvGC2BXsT79tE9Tz8Aeiku+yQQBfYjVR7ufbFx0u6AbW2JKeTKRBkY00svh3ZyAumc0Fc5QdPbHwn/KhdCPGVL0+cbRVeyk4eLVTmxKl60Zb+2y4UOeaF3sDkzP+OwtZeXZsd2v/EL0FjPB9+iwG2Dj76uZDC8o1HXBRPGQ5JaaZbBdVyVIHI4mug7sEST2/J1dVgMoCiV6B/2WzMTS/13bYs5sAwfSp7nKg/Aihgpo9U+2xvrfMHzL6WYoSFhO7Hdfn4vgojK9ShfP3RiPFNAxXnI3m+K6DawqsgaOoLbB0x2FldA+Zb5D16e9bzVpYL5vv7Rn0zF7N/MQ8l4=;D/+2W3q1qNVj/LceNwR/nw=="
+secured: "Cg3rXLWLp+Lvzxv1cD7Q2T/HsSr+asirWjra00uqagoMOXZ9ZOjAkp2CfPfvoek7w5PdII0r7v/Z9yL7X6ClRPHU6Mr+ZnFc5MxpjYw+ND5zXebr402Me/hdoY9mongSSE14HnSZf41Iobsb+T2xTd1LrdAtXg+TQaE1hyrQHvAKO6WV5hJa7xxhjDimuNVq4xJL1CCw469SoTaxxOvqUTbaElOhUYPZCs7l17fc5JkhQ8znGUFMFIKQwIS2DlRU0uMKLSf0hqQzyYM7g8UFQhri+z6BLzyp0M15EXjlSHDGCIED7xzagwzw16WLsZRwS1Yvshcbgf2AgkvYvwXyIEARvA6S+7RzASH4i+/vN19lnQEaIEd5g2fJuqRrbH/9wYpkwqjhNxtzr2YToeVn9F22kSrlzEce+ddDKblsdNwvESPNmeBedOoW4qy53/kY5te6tCyQBC4Rbgv1N684W9Wgdb1CMxIHA6yKodwsszqcSpQQ4KWFIp6eaDpbknpcWD1JrxBzivTrZDDXvoldaA==;TuB1wICgjHgVXA2JZjIQKw=="
 ---
 

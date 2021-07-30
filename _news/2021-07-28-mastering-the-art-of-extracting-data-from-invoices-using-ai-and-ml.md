@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/"
 type: article
 quality: 106
-heat: 226
+heat: 236
 published: true
 
 provider:
@@ -187,6 +187,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/07/27/PDTN/940dab9d-4acd-44fe-8917-8568d3dcf615-AP21200525050750.jpg?auto=webp&crop=1023,576,x0,y74&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "AI and ML for the Masses"
+    excerpt: "Artificial intelligence is no longer the domain of Hollywood technothrillers, nor is it available only to the Fortune 500 or VC-backed startups. In fact,"
+    publishedDateTime: 2021-07-30T19:48:00Z
+    webUrl: "https://www.datanami.com/2021/07/30/ai-and-ml-for-the-masses/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/masses_shutterstock_-Ints-Vikmanis.jpg"
+        width: 629
+        height: 319
         isCached: true
   - title: "Catching the artificial intelligence buzz"
     excerpt: "Backpacks to track bees, bushfire modelling and sensors to detect broken water pipes are some of the technologies being developed in Australia as part of an"

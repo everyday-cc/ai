@@ -183,6 +183,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "AI and ML for the Masses"
+    excerpt: "Artificial intelligence is no longer the domain of Hollywood technothrillers, nor is it available only to the Fortune 500 or VC-backed startups. In fact,"
+    publishedDateTime: 2021-07-30T19:48:00Z
+    webUrl: "https://www.datanami.com/2021/07/30/ai-and-ml-for-the-masses/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/masses_shutterstock_-Ints-Vikmanis.jpg"
+        width: 629
+        height: 319
+        isCached: true
   - title: "Catching the artificial intelligence buzz"
     excerpt: "Backpacks to track bees, bushfire modelling and sensors to detect broken water pipes are some of the technologies being developed in Australia as part of an"
     publishedDateTime: 2021-07-26T16:00:00Z

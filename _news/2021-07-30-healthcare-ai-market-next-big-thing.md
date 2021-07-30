@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-nex
 webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
 type: article
 quality: 86
-heat: 246
+heat: 236
 published: true
 
 provider:
@@ -209,20 +209,6 @@ related:
       - url: "https://cdn.openpr.com/U/7/U727666550_g.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "Medical imaging AI market poised for strong growth"
-    excerpt: "The world market for medical imaging artificial intelligence (AI) applications is projected to reach almost $1.2 billion by 2025, with a compound annual growth rate of 26%, according to a new report from Signify Research."
-    publishedDateTime: 2021-07-28T07:32:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133055"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_27_23_07_2424_Parekh_Sanjay_20210727232720.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Global Artificial Intelligence In Healthcare Market 2021 Analytical Overview, Technological Innovations with Economic Indicators By 2028"
     excerpt: "The primary sources employed while crafting Artificial Intelligence In Healthcare Marketing report include the industry experts from the industry comprising the management corporation processing organizations analytical service suppliers of the industry s value chain This market research report sheds light"

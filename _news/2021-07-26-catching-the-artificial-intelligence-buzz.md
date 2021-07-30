@@ -197,6 +197,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "AI and ML for the Masses"
+    excerpt: "Artificial intelligence is no longer the domain of Hollywood technothrillers, nor is it available only to the Fortune 500 or VC-backed startups. In fact,"
+    publishedDateTime: 2021-07-30T19:48:00Z
+    webUrl: "https://www.datanami.com/2021/07/30/ai-and-ml-for-the-masses/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/masses_shutterstock_-Ints-Vikmanis.jpg"
+        width: 629
+        height: 319
+        isCached: true
   - title: "The Green way of defining AI in Mortgages"
     excerpt: "This article explains how Digilytics offers RevEI to implement AI in mortgage for reducing carbon footprints of lenders. The mortgage industry needs AI to enhance the mortgage lending experience of the customers worldwide."
     publishedDateTime: 2021-07-26T07:13:00Z

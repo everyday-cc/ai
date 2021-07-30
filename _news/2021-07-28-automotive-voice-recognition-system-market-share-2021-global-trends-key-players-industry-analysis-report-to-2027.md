@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Natural Language Processing in BFSI Market 2021 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2026"
-    excerpt: "Global Natural Language Processing in BFSI Market 2021 by Company, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz methodically compiles the principal components of the market study."
-    publishedDateTime: 2021-07-26T01:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-2021-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2026-2021-07-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice to Text on Mobile Devices Market Analysis by Competition, Performance, Sales and Consumption Status and Opportunities and Application till 2027"
     excerpt: "Voice to Text on Mobile Devices Market which enlighten the impact of COVID-19 by Business Insights, Top Players and Forecast to 2021-2027"
     publishedDateTime: 2021-07-29T17:54:00Z

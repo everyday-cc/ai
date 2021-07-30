@@ -215,20 +215,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Medical imaging AI market poised for strong growth"
-    excerpt: "The world market for medical imaging artificial intelligence (AI) applications is projected to reach almost $1.2 billion by 2025, with a compound annual growth rate of 26%, according to a new report from Signify Research."
-    publishedDateTime: 2021-07-28T07:32:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133055"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_27_23_07_2424_Parekh_Sanjay_20210727232720.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim Finds Frost & Sullivan"
     excerpt: "Frost & Sullivan’s recent analysis, Global Medical Imaging & Informatics Outlook, 2021, finds that the market opportunity is estimated to hit $37.10 billion in 2021 from $33.90"
     publishedDateTime: 2021-07-26T16:25:00Z

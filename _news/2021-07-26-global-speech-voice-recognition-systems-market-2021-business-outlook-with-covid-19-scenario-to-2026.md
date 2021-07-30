@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Natural Language Processing in BFSI Market 2021 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2026"
-    excerpt: "Global Natural Language Processing in BFSI Market 2021 by Company, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz methodically compiles the principal components of the market study."
-    publishedDateTime: 2021-07-26T01:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-2021-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2026-2021-07-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive voice recognition system Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Automotive voice recognition system market is expected to grow at a significant CAGR in the period from 2021 to 2027 The expanding trend of driverless vehicles OEM integration of many electronics functions in the central console of the car"
     publishedDateTime: 2021-07-28T13:04:00Z

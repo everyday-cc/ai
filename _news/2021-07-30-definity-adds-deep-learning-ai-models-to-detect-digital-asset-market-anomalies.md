@@ -1,25 +1,23 @@
 ---
 category: news
 title: "DeFinity adds deep-learning AI models to detect digital asset market anomalies"
-excerpt: "the firm is specifically geared towards the future support of central bank digital currencies and decentralised financial services for FX. Axyon AI is a leading player in deep learning, the newest area of machine learning artificial intelligence ..."
-publishedDateTime: 2021-07-30T04:59:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/07/n22241200/definity-adds-deep-learning-ai-models-to-detect-digital-asset-market-anomalies"
-webUrl: "https://www.benzinga.com/pressreleases/21/07/n22241200/definity-adds-deep-learning-ai-models-to-detect-digital-asset-market-anomalies"
-ampWebUrl: "https://www.benzinga.com/amp/content/22241200"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22241200"
+excerpt: "DeFinity, a DeFi marketplace for fiat foreign exchange, tokenised currencies, and central bank digital currencies (CBDC), partners with Axyon AI to enable the first ever use of Deep Learning-powered AI to detect market anomalies in the digital asset space."
+publishedDateTime: 2021-07-30T05:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-definity-adds-deep-learning-ai-models-detect-digital-/2021/07/30/9420503.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-definity-adds-deep-learning-ai-models-detect-digital-/2021/07/30/9420503.htm"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
+  - Machine Learning
   - AI
 
-secured: "p91hthcYxEzEDvg/4fA86Sd3qdpvvlp5IB3fHmXvgr59Qv2Tf7A80D91DsdOxEcgXvIwmv6H5vVOia2G93i0ZMwJWBLAEcYfEwcRTm7FK08pwrfMOVll4bLiFb8C1qS9AbYzTKD83UWPwJHpisqhYXJeOsQUqcMojuLmERRsTvZ6BxvCu5subDislX+2ZnvAalCVlMSi8eUNktWzKDxZMGhJ4EphsEKn57QP7y6g4IPR/URlAWPBADia66fdkOohASfzphtt3XxgYa+9M3IgoTVry3gDU2qa3nhi7M00CB63rqC36cqQX3WAGQiLw0f4JOX1ttdPvW1rYK17GY2ud31hOazrFGccSichs5aQZuw=;QBv11nhWGoDqtfciSG6NaQ=="
+secured: "DrngKaTlPHb2ZFEn87HGJtsMhnIAQ4l6TvU17q5UoiHjJSZHew+ntgKnkk80U0mQt7/62ggVAU2HBKsNCZF5X98niTLlfwLpgsLTS4W35+/iCRRq4+u6QDJlRCeb8mzn6uHOLO5AO80H5hSB0+jGVe/f7GpGXZGVWTifDYYtIVjJArSTP2yVuSdC6+18TwFUJjvUo4XlsJuY4rHoN21TAFuHl/Q9i6rZ8rPB9TooeGrQS/S55iWoHglFe+EMSh2bCICOVMJiB9YvYkQdPUnXoE8qsIV4K+xCMl2opUGegQ6O1hv9hp0CfuCxoqx0M2tGTImUamy4FOO+VAD4lvP9Fk7nikp8KGqKRt7iGXePkWE=;LZyxzWOZ/0X46u/2JoRhYw=="
 ---
 

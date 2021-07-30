@@ -43,6 +43,15 @@ related:
         width: 2880
         height: 2037
         isCached: true
+  - title: "Machine learning fuels personalised cancer medicine"
+    excerpt: "The Biomedical Genomics laboratory at IRB Barcelona has developed a computational tool that identifies cancer driver mutations for each tumour type. - This and other developments produced by the same lab seek to accelerate cancer research and provide tools to help oncologists choose the best treatment for each patient."
+    publishedDateTime: 2021-07-28T15:04:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/923491"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "VcRCr9Hab8x3v0FjnjWk1isciXNE0pHQs7blw+8rm26gZMRiUMFmggzmhQg0JvHoStqvZ6dn569t82a+TDem4d4mMGkqTRlqJqKqRvzATt4wUbU4u4NkTMfnsZYE9r01I8gfkBw9VYSsT6b0Vh2I9IuXauhjau0XxZ8lfdnFq3nf96XlrndtG1U5xRObMqw89yqSJlnvHJt9D+YIPyOtvqzLZ9IohTAUHkpc4eSqDZmGrV3tCMqYaaszLy23BYSJTqWhySTU7cqKUU+CTFKf6ltPX8q5n3gBJmnflIqQM5P/s+uhn7vy21u+0qrDpmUsnrmlcDOYuFLdF8zPey86c3CyqbOGVoggcnPrrgwK9sB64Y2TD6MAFkW2dj2vPwXgfiOkKVQUM+WC0c9RKlkitkUQhwJp24Ii2lgiRaUrI7gwNSgG6QCcrkyBgGpDpbY1n2hxZkoMIF3P/jnIQ+L/285gLviKFCfQF2rL+nsRRY+PB6bW/RrNvfpkm3dLV9k66XwwB9pvhwah7uKbN40t5g==;NAWGdjFew/+lrKMBbaKZSA=="
 ---

@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-21-three-reasons-to-use-ai-when-choosing-cre-locations-for-a-retail-business.md",
+      "title": "Three Reasons To Use AI When Choosing CRE Locations For A Retail Business",
+      "excerpt": "The placement of your commercial real estate locations can be the difference between patrons visiting your business or the competitor across the street.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f6ded2ce2922235c08e4ba%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/amp/",
+      "publishedDateTime": "2021-07-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-microsoft-azure-sentinel-vs-darktrace-enterprise-immune-system-whos-on-top-in-ai-security.md",
       "title": "Microsoft Azure Sentinel vs Darktrace Enterprise Immune System: Who's on top in AI security?",
       "excerpt": "Microsoft uses AI to operate a traditional SIEM, but Darktrace takes a very different approach to threat hunting",
@@ -1138,49 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-25-computer-vision-engineer-interview-questions-and-answers.md",
-      "title": "25 Computer Vision Engineer Interview Questions and Answers",
-      "excerpt": "Ace Your Next Computer Vision Engineer Job Interview with these exclusive interview questions on computer vision based on diverse skills and concepts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dezyre.com/article/computer-vision-engineer-interview-questions/450",
-      "originalUrl": "https://www.dezyre.com/article/computer-vision-engineer-interview-questions/450",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://daxg39y63pxwu.cloudfront.net/images/blog/computer-vision-engineer-interview-questions/Computer_Vision_Engineer_Interview_Questions.png",
-          "width": 500,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeZyre",
-        "domain": "dezyre.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
