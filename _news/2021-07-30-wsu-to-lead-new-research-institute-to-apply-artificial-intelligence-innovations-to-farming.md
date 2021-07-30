@@ -100,6 +100,20 @@ related:
         width: 2280
         height: 1522
         isCached: true
+  - title: "CMU Puts AI To Work in New NSF-funded Institutes"
+    excerpt: "CMU’s inclusion in these efforts to expand the use of AI underscores the university’s depth and breadth of expertise in the field, spanning deep learning, robotics, interaction, ethics and engineering. The university is one of the birthplaces of AI and ..."
+    publishedDateTime: 2021-07-30T12:32:00Z
+    webUrl: "https://www.miragenews.com/cmu-puts-ai-to-work-in-new-nsf-funded-institutes-605512/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://www.cmu.edu/news/stories/archives/2021/july/images/nsf-ai-institutes-900x600-min.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "National Artificial Intelligence Research Institutes"
     excerpt: "Today, the U.S. National Science Foundation announced the establishment of 11 new NSF National Artificial Intelligence Research Institutes, building on the first round of seven institutes funded in 2020."
     publishedDateTime: 2021-07-29T19:13:00Z
@@ -157,6 +171,6 @@ related:
         height: 326
         isCached: true
 
-secured: "Syx3dHIP97jOQN/CEYSOc0buJBWHQENIDn1J/CLBrdyhiOlcpy0OLUzZKrNycZT2kZs2iZCddnpxRJUkK3VOzeYY7RHgP69uy4gOhUVsMSez/QfLAnY6kfIJFKzk262c6WgS6ACyIdGoI7fCdzN3QL+a5OT3xvNT2twTLjqnjsojRtHO1Xwvvkp22jgNGgaNni6/9MvTtwkAIenKjC02Eet5dkgGaVi2Kk9cqsEp+QA6fEGr/PINiExbHuA1IpL99Y7wkpuZpkaXaOJteRE+K6o7YAtfJEaKotZcGfL8tB4y06xLE4YONW3DAMvLIJYN0+HKbjITyasmuB5qQcKgGbfP4ghSz8vnOF+uYxtQKaw=;rzCX45BnR8iHb1iZx6AvHQ=="
+secured: "rNDxCZw12o3LcaZ6pODU5q5in81iwpZ0OK6jeeC5C+zYDl7P8/LMpulMZOR490wEq/5gBgEuMnT5ETTGwhKguuHIcb0ytEJOpkp5tGMzVqUCpbdfEEIPfrmLFh0ztJMay4pGoTvpCUYW0QZrmGpKByXn+C/LuR0GY5oEMmb0JtELmwVyDdtyEAxyx6opK7xfB2D7FyGwGnWTaFi03e30AT+Zlp7sk5PK2Ol8PWCy7519PnUjNMzMpsK/3EkXMN+ck9HoHuO6eA1tJ6/Icmgqecs6GBdqTfENByIKOaB3XAyYBVYI0qcIooalXbkwqgqGAOBrwK5ANNdbmnkLG78PfPdeYbRQEGRYuP7rW4i7T6JUGKCvXJWta/osErmOZiqXw7kLx+NjMhGNGhZMq8IqRWsdrSOucqsYxHsrAYzenYbrbExYDpKfL5PoIS32tu1tNl3Q7TMVsQNbyZAD/GeOdN5oQEONDrf0213pNqxown4FRF3miiURo/TysTnX6cnUu9E+5wqlr67U49RJOklACw==;1cL9yhkDBBowYi2TK0EwOA=="
 ---
 

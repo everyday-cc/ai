@@ -78,6 +78,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Fintech Global News 29 July"
+    excerpt: "Switzerland’s long history as a banking center has pushed it to the forefront of fintech.Nick Broughton, a GoGlobal Partner based in Switzerland, said: “GoGlobal BEIJING, July 30, 2021 /PRNewswire/ — Pintec Technologies Holdings Ltd."
+    publishedDateTime: 2021-07-30T12:02:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_spotlight/fintech-global-news-29-july/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/fintech-disruption-of-the-banking-industry-innovation-vs-tradition.jpeg"
+        width: 1080
+        height: 608
+        isCached: true
 
 secured: "WVdSM62J0mnDuguixWpiJPWYLadH0v8idJqiKWcgxtNHiHkcz9wMPWlnotHKln8qodMl86XiCoOpksJaMc8djd2+2vJ4pLiuyiC9GAoyyIfo+ixD6hYhKFAcRc3cbkDDaA1Ln/5yTrJ0PDvStsjHRo6T7BnCggdCcxuA1hzxdmH5HhyHpBvFVmo9oU9E/6bFBdtJ+DVsmA55hshAHwsYbTycNzC4xBe7uCRoGedGuN9FL9tKFEz6MgHXdmCTGb8wc2s4h8mHNJx29xXANKSh+X1ZxWuJJdJEpvPRqhN6rkIMk6QM4AoArOgnuwcsIbKPO0/lHACnXElAJfRImwJBjZgUiKnwVw2Mcr5e3O89IMQ=;RQxS/x3A8qduOs8JzT7KGw=="
 ---

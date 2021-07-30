@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Alphabet to launch robotics firm Intrinsic"
-    excerpt: "Alphabet's secretive research unit said it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
-    publishedDateTime: 2021-07-25T19:43:00Z
-    webUrl: "https://www.itnews.com.au/news/alphabet-to-launch-robotics-firm-intrinsic-567840"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 56
-    images:
-      - url: "https://i.nextmedia.com.au/News/CRN-690-alphabet-blocks-Google-iStock_000005540474_Medium.jpg"
-        width: 690
-        height: 428
-        isCached: true
 
 secured: "W3omraDZ1dRYUrqYN+gnNN7MIC6sSPMm2jJyJz7qmVB0D6vaeoc2TfmtpDmm1OHzxJn1I0NB9HP4gcVhKix70ZE16PO6r79l4/QM9xcp/3HqS5uUIERq8S0ptvND7MxYCOP7ameCvDCEl5QBNm+XL/GXDtyDDeAI0EM3f3v30z1fYsaMz7/wpPS/MYt32r3Bi/Uu5hP+3+8gI9AvdU0aEuD6CyzUanmM7X72LGh5ZQhUWhIjwWDw3iHyjuSGTcPDHfuX88PkNicNqHpZAwOmteCZSpo53bhkipHSqHBik8ByxhJOnICKCkng+VOtPl5fZQ02MBWGmiEtSpiF649lf9Taw9ayvf3crN6lJC2H8xGiEgP7y7Ad8Fgm5Umzo8K6HZUkecu3B1o/lTiyYD9L/b1dpcWFR6RHHvnUb5I6N8fMb78Ew0IPSGX353FMwW2JSkdVyHEk7jzVm843h6h57f6Aa49MmwDq7rDEqCBAE2i5k5uQLN3RH+YQM1z6JL/fNxg9UtKCyjLllV+TLqPMDQ==;P0eYZq72d6il5gjqH6dC0A=="
 ---

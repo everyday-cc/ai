@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Self-Driving Cars Market is Set to Fly High in Years to Come"
+    excerpt: "Latest published market study on Global Self Driving Cars Market provides an overview of the current market dynamics in the Self Driving Cars space as well as what our survey respondents all outsourcing decision makers predict the market will look"
+    publishedDateTime: 2021-07-30T13:49:00Z
+    webUrl: "https://www.openpr.com/news/2342283/self-driving-cars-market-is-set-to-fly-high-in-years-to-come"
+    ampWebUrl: "https://www.openpr.com/amp/2342283/self-driving-cars-market-is-set-to-fly-high-in-years-to-come"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342283/self-driving-cars-market-is-set-to-fly-high-in-years-to-come"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/7/U730543665_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Faith in Self-Driving, Ride-Hailing Vehicles Depends on Age"
     excerpt: "When self-driving cars first showed up, they were hailed as a way for seniors to remain active and independent without needed to be able to drive. After some initial skepticism by many, attitudes are changing,"
     publishedDateTime: 2021-07-27T16:07:00Z
@@ -211,6 +227,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "dIvDAZudS2Xn98X94qPmI3njMhIJ5OGGWVHvcY2GgZmMhReiTybOxr/DvTBkKae/bJwHLCgi8ZhD8sS5JuqQdw0v30cTpFCw/870Hi4VNFuuUTiCN+hW1683p0UOHkFKRj3oIlyU/z3LLo1blpIdCIAyVc9QPnwij6M3bM1BUsq8IGobKHaRHPLniKEy4OQIaige6sA8LofRfxxOt+YgrHD0/w5WFkxrF3fBKwB1ciVCeC/QmrQxyy/QoAN9jz0vjoLASRbs0b7Ij3AMHDlawon0H4ygds3ohEic1HgZjzVnW0ozi/tUCh7X3+gmyxk0kVVEqd80cIL4x72/8ikdSjwYYruCQENa6JcHMHb3OKY=;xE5DUDxRouxNHT3Nljn/oQ=="
+secured: "th8kfi0YozAvaPCc9a1R4CoC6QMZQfdi3KIioiD+twu3pd1DlUOcc7rXZCipVRk9RYgseOo90LMzVpdnRyE9yn1kl952VtHN9Tr1DIII4QjIu5+4jeyM3Vd9QmE2gv2XumTc9XqvYuwZ5WbUzSWTxt+ijXihIYjERB84+TsBSwnlW6IfqPBB3uxVi88Lh6a4R/gZwFa2UlBVzHkWxre9p7HaqLZX9RxKBUhzYIoKA3NW3J14YSV8iYpkebDoLl3MT3EWhxXxWycNuQa6lL6drm7tB7B5inkCsmix0FHFMvrltAxHT1trI48r+yPgSDMMJGOtdngESilk/ATpSLummNzEDlD3cM8hXxXO9Xsh7XMBMOMjXIyGecPGzjxDXo2ZFASJVh7RqeBwrgVBVMp82Zb008Vz9nL/VS3rJ3JoKAqBHrpeY/4Qm30ITS6zglyISrsIr6iTSXRXVHxMpfmCBC2kNlE76juJg68T81vHiEd/ufVGnMWVGqXhjspUv9bUu6mkpNhn+6q0pzCFkNAxlg==;QApWpGx6y87m/BfHfOmaVA=="
 ---
 

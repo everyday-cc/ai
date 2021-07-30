@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2338927/ai-in-healthcare-market-is-boomin
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm"
 type: article
 quality: 85
-heat: 235
+heat: 225
 published: true
 
 provider:
@@ -203,15 +203,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 12
-  - title: "Cognitive Analytics Solutions Market Size, CAGR | Key Players – IBM, Amazon Web Services, Google, Microsoft, Oracle, SAS Institute"
-    excerpt: "The Cognitive Analytics Solutions Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market. Verified Market Report’s latest publication “Cognitive Analytics Solutions Market Research Report 2021-2028” provides an overview of the drivers and constraints that exist in the market."
-    publishedDateTime: 2021-07-25T20:29:00Z
-    webUrl: "https://manometcurrent.com/cognitive-analytics-solutions-market-size-cagr-key-players-ibm-amazon-web-services-google-microsoft-oracle-sas-institute/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 6
 
 secured: "Z+TcfZYGwqfFJF3pzRsKezTFsiOTzG9QnVPrTOIVdB7HbGcL4bsx5r0BDYJfPgDvrVfIw4+phrXoAzYnh5kCl/L/XF6VYNcAZ8FCUwHz92CcxuJlt+EDLOmV5HeuJChYDupDhoLZhawsgu3mATw2czHuelDAkaQ7U5aB40+VXhfpSyoiBBVmPM+qepA+js+oMXPgBchuo7h6A07pDZSpmdIAOrCKMqrcpYVnC+pDBVVLkFfwoukwQcWfaVsiT2Mq6bjqd8slrOKfwtMzMW5e6Vte8QbTshadrpU8TDUCblCt5d43AakDIuUJeGRyO/ghslpjPEOypwofAkQ8f8qNjej/wPvXfOAL17d5+rBlrD9fLA8/7NM8SA0xYVNuaFt/whw7/gXS9MnMS9FsTiMXdDgzvvZWJ89jHomtFacV2U8IuVtKuzBocvbI4i95wwv9/rYOwbkVWDOm6C22PZDB/UMNTjmEBCi/RSWCD3wA5DCqYKhfa0Xl1zknUwLux8UGzx3so3H3TSTUEfEQzWGaXg==;ynfEEITQc5/22mZ7WV4EDA=="
 ---

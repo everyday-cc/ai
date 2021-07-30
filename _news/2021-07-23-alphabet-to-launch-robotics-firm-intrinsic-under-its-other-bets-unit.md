@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. FILE PHOTO: A sign is seen at the ..."
-publishedDateTime: 2021-07-23T15:37:00Z
-originalUrl: "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056"
-webUrl: "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056"
+excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. July 23 (Reuters) - Alphabet Inc's ..."
+publishedDateTime: 2021-07-23T13:58:00Z
+originalUrl: "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23"
+webUrl: "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23"
 type: article
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15280054/16x9/991/557/8aa600f18375888ddef8e65715e2d356/gZ/file-photo--a-sign-is-seen-at-the-entrance-to-the-google-retail-store-in-the-chelsea-neighborhood-of-new-york-city-2.jpg"
-    width: 991
-    height: 557
-    isCached: true
-
-secured: "5MpvDNYjORdpJN6Y2T27ei6XY4bYCziWFhJm3vZG/y1eNaCqUDajDjQbEURiBErbs0t2eV6aZaQrGneQM9AV2xuxUG9oZrYoD128UAYPf2vMqcC8PoKGxliuHT5SMfRnzgFe/412xTdU3lefdZx0wyYcF4LVeAVa8YkAV3XxSVOpBDsvwrLpeR53tO6GiR5vQnnqbrM2mV+AIy/5IfeyZbnn/iyGp2iI/4NTuVaUWcfYKQksOWKa7j35w//E2C2vnNl1tKFkpYG/G23oohdRZWI4CIWUEK8ilacKapXeyXUw/EoSCUI9gkW84rTDs8HW+6tDbGCWCFff0iZypuhnl2wPNn4sOAduGvIVFDSNDDI=;TivMMn2qD1e45tV6Cw+xDA=="
+secured: "0FtdTaG8zMqxpy89UpwBnhjZ6mNXLsC/o5UwNGdb0eOqIGrAXB8Zd2GTc+czQLYO9bh3iBJpvpeKnUJrH88jvNGGAObHjGjvNM/hjVPXIduLh6unTEFaeYmi1K/ja1yWtxORGmq9C0va9NNEGk8ja/VwDfPRIaFV+AN5fH4p2jeNuGnnN7tty1e9sKR1U7urOUxtv7H4lTNXrgM94EgCABiqwAyZvbN1UXRbMFRxfTzBK6ni6iPNfM/coAy+sAr+jNm8VML8ZK9UnvlkwBCWbMZP0IOxaKyLCBlxuXRMySnTgMQe+6k3zFoG/ymsGSvp5ZMkb6DAvjgp/YNTYRRzXZ5kN3xLbFLfDAQwNxu+F8Y=;3HXi5yKiLy0FVtEcFGmQPg=="
 ---
 

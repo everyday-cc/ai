@@ -102,6 +102,20 @@ related:
         width: 2280
         height: 1522
         isCached: true
+  - title: "CMU Puts AI To Work in New NSF-funded Institutes"
+    excerpt: "CMU’s inclusion in these efforts to expand the use of AI underscores the university’s depth and breadth of expertise in the field, spanning deep learning, robotics, interaction, ethics and engineering. The university is one of the birthplaces of AI and ..."
+    publishedDateTime: 2021-07-30T12:32:00Z
+    webUrl: "https://www.miragenews.com/cmu-puts-ai-to-work-in-new-nsf-funded-institutes-605512/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://www.cmu.edu/news/stories/archives/2021/july/images/nsf-ai-institutes-900x600-min.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "National Artificial Intelligence Research Institutes"
     excerpt: "Today, the U.S. National Science Foundation announced the establishment of 11 new NSF National Artificial Intelligence Research Institutes, building on the first round of seven institutes funded in 2020."
     publishedDateTime: 2021-07-29T19:13:00Z

@@ -3,8 +3,8 @@ category: news
 title: "New Action Thriller by Alex Schuler Takes on the Controversial and Dramatic History of Self-Driving Cars"
 excerpt: "Author Alex Schuler captures intense determination and a clash of egos in his new action thriller, Faster. It follows a fictional engineer and computer scientist who helped pioneer the self-driving car industry while navigating their own tumultuous relationship."
 publishedDateTime: 2021-07-27T14:21:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-4d8725a2409bc70e6c533559361e174f"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-4d8725a2409bc70e6c533559361e174f"
+originalUrl: "https://apnews.com/article/technology-4d8725a2409bc70e6c533559361e174f"
+webUrl: "https://apnews.com/article/technology-4d8725a2409bc70e6c533559361e174f"
 type: article
 quality: 7
 heat: 7
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "W0lA6OWFS5c0w7fQIr4uzPRw2HmRr1tK40DwayOQLUc3oVaomVE3vKPWSiBkY7p8ULHRr369PQbDEjl4/2Ei9ESkOI/Y9NgWQ3dAypPDCiZ1iLXCUxYkd1tulCmdYb16CcygpUkwYzm+e3ZHMmyd5O8hOFsjQLi5KUjpMZHhg/ouU8t71hfCevL0XHeFlQYbHIISlxR0+ZprEove+BASflYgvp1gU31jx6hPkMCmn2S7zoQfr9GCCtnOVFxIWB6FK1yBlky6vsDjZTBqvKaipn1zZVqrBG37R//ZFwq3JVkcwpspgMHTCly9ADm0z57EgssFdvkoBRRZCc6mPZD55NWEjnkIBxweBd98oLseRXo=;HP1UvDIoXT1H8kTmdqhTIg=="
+secured: "cEi8UR8pBO2NJ3PKYZt0yds+1yClakx62th5tVuQnfiAbr1pCavsEnvvfmnQ4IHqL0IdIQ9cStC3xN+ttvbs37Xpem8i+BgOYfnfwxZXwMBed1iiqhB4iQmRf0i8ZDC70pq3onk88pH/abXhR/scF3guRxmuKDyLbug43dbp+NMtVIpsIXFudDZ0vuPZUu72jhxZa8kr5GU8+0I9+bZ5eERC3Qm32bvVmtJHg/C73r+SOgZWumYTb/OUx6xXzffrDWFMBijzdbcipVgfJDt1kIoHINU0TKe5TfwI7A1+WftqlUrLzJY6jCh0Q94EZmkQJrIX7joyMfOd81n7yVRh/vsClVBIHRvWNRs7w77zVXc=;skNLkpt8BZslVaUR1oDHqQ=="
 ---
 

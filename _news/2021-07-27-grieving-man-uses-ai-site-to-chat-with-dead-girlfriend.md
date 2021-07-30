@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/07/26/grieving-man-uses-ai-site-to-chat-with
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/26/grieving-man-uses-ai-site-to-chat-with-dead-girlfriend/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: New York Post
@@ -38,22 +38,6 @@ related:
       name: Daily Mail
       domain: dailymail.co.uk
     quality: 57
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/07/25/20/45878161-0-image-a-38_1627242551791.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Grieving boyfriend, 33, uses AI chatbot to bring girlfriend 'back from the dead' by inputting her old texts so it could mimic her writing style - eight years after she passed"
-    excerpt: "Freelance writer Joshua Barbeau, 33, from Bradford in Canada, lost Jessica Pereira in 2012 when she succumbed to a rare liver disease."
-    publishedDateTime: 2021-07-25T20:20:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9824013/Grieving-man-33-uses-AI-chatbot-bring-girlfriend-dead.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9824013/amp/Grieving-man-33-uses-AI-chatbot-bring-girlfriend-dead.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9824013/amp/Grieving-man-33-uses-AI-chatbot-bring-girlfriend-dead.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 7
     images:
       - url: "https://i.dailymail.co.uk/1s/2021/07/25/20/45878161-0-image-a-38_1627242551791.jpg"
         width: 636

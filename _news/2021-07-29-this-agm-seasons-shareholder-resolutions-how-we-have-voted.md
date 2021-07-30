@@ -2,9 +2,9 @@
 category: news
 title: "This AGM season's shareholder resolutions: how we have voted"
 excerpt: "From our voting on climate change, human rights and data privacy, this is how we've responded to shareholder resolutions this year."
-publishedDateTime: 2021-07-29T12:16:00Z
-originalUrl: "https://www.schroders.com/el/za/intermediary/insights/markets/this-agm-seasons-shareholder-resolutions-how-we-have-voted/"
-webUrl: "https://www.schroders.com/el/za/intermediary/insights/markets/this-agm-seasons-shareholder-resolutions-how-we-have-voted/"
+publishedDateTime: 2021-07-29T11:00:00Z
+originalUrl: "https://www.schroders.com/de/bm/asset-management/insights/equities/this-agm-seasons-shareholder-resolutions-how-we-have-voted/"
+webUrl: "https://www.schroders.com/de/bm/asset-management/insights/equities/this-agm-seasons-shareholder-resolutions-how-we-have-voted/"
 type: article
 quality: 24
 heat: 24
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.schroders.com/el/sysglobalassets/digital/insights/2021/07-july/this-agm-seasons-shareholder-resolutions-how-we-have-voted/this-agm-seasons-shareholders-resolutions.jpg"
+  - url: "https://www.schroders.com/de/sysglobalassets/digital/insights/2021/07-july/this-agm-seasons-shareholder-resolutions-how-we-have-voted/this-agm-seasons-shareholders-resolutions.jpg"
     width: 945
     height: 589
     isCached: true
 
-secured: "uawwT6ocNxinM9DtU7Vik9h2AVSAmz5Bfpo0ASs2hDD0hmHd2WQTTJAqFmkgKek8LElsDarEq2jPvMRngEGd28oEgUluMtVa+durHAHseFRNi8JlKJvTd1t/rN9t8hbgClZsb7ak6ePo3CqKTBSf7OAeuSjA172aoSWopjU7shUGHVcEzq678DsT1iASMe6y4V3daFMB1LhI7r19o4P/RXiQaXRRKm/B71U4DihcR12LuviBMCY+BkQ8dYI48oayYzyx+d5OK3U3Ds1HBr8TlgjSUe0+0lkPV9RT2QL/g7QGzW9ZAehVQlfUJcxUyx6NW0+WhuWMAQwq4T9dU7F3Yu1ozj4eL18Q49ME8QY4L/s=;H/1ms83ohdkABta2fjIYug=="
+secured: "BVNiWGwwyAp+QFiQPUEqKZ7v8g208SqxeN89+XMdhAqeJNvVPf1rpZB3jiYqWl3rHcE767NCdQ7cLKj3p/R+Wpaoqy0FJM24oiqG1wCnJyUj7NSWQufYy+Ou4Ti9ihZynMSi7Hlpzqo1NexnZWbZaNkfr4RjUn72ynUJFhvuvTcMpw4JrGYlDF+Uk/OqTozRkIb9C1ptjNbr9EplOgZy3X1OcL+ve5T9YUISmDaQe6TnL3aYfmcqU0P4pw6E/8JMSM2n7PWojhkuMeHp4OIILqAdKf6ym1w1Vdek7/l4xZOvnMw/QyfzCUPplTseQY9Pu6vYfI2AhVEoTu53YD1BZ9UEg0MqEdAaGv+qOYj3q20=;0IA/q8xPvbUH/qGEjo2dlw=="
 ---
 

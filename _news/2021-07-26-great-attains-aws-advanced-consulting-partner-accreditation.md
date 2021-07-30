@@ -1,34 +1,23 @@
 ---
 category: news
 title: "GREAT Attains AWS Advanced Consulting Partner Accreditation"
-excerpt: "GREAT, a leading independent AWS-focused cloud services company, has been recognized by Amazon Web Services (AWS) for its depth of capability and client satisfaction by being promoted to Advanced Consulting Partner in the AWS Partner Network (APN)."
-publishedDateTime: 2021-07-26T14:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-great-attains-aws-advanced-consulting-partner-accreditation-/2021/07/26/9416632.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-great-attains-aws-advanced-consulting-partner-accreditation-/2021/07/26/9416632.htm"
+excerpt: "GREAT, a leading independent AWS-focused cloud services company, has been recognized by Amazon Web Services (AWS) for its depth of capability and client"
+publishedDateTime: 2021-07-26T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/great-attains-aws-advanced-consulting-partner-accreditation/article_347f9066-5ba2-5e85-a40b-09276ba71705.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/great-attains-aws-advanced-consulting-partner-accreditation/article_347f9066-5ba2-5e85-a40b-09276ba71705.html"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "Blue Hexagon Augments AWS Network Firewall with AI-based Cloud-Native Threat Detection"
-    excerpt: "Blue Hexagon, a leading agentless cloud-native AI security platform, announced the native integration of Blue Hexagon’s industry-leading real-time deep learning based threat detection with AWS Network Firewall for real-time protection."
-    publishedDateTime: 2021-07-26T05:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210726005094/blue-hexagon-augments-aws-network-firewall-with-ai-based-cloud-native-threat-detection"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 26
-
-secured: "M3PcSMjqxKBNw5KT1r/DRkm6FxaxqUiz2cV+HWnes+1DLOeu5ocGswFqrYkneZm8vb+JoEEB+aRRKYwEqi5nZbD0dN7gawBC7dQlJPomhmlJDBljhVHbIFyem4drT+BcGnpvHfLFoiJW7jRxxruBCLpnXerwi/Gjx25MiIGrSkpwN8Ye/v1gts4TaeQXJZUrxFUZirqEdHR8suHuQwxMaitG42p+U/fWerWGMGdefKDp2lrbTEp3Z6eYBi5ScjZR8HtACQtrI61thKAQ6oLswGHoFXnCjZWY121hDLcBIrvnRNJgzF8Fp9uCQiT0XmVE66T4jDWRPG9WVPzbOo5NOJEW4lL7NQ2pBbKYL7fbGD8=;qojcwaFvscxYDcMFCg3UWQ=="
+secured: "D+3dtwpFKW51Yks0jP3euUqiIKQa9Gwm/CsEqPTOqZVySwuSOa6Sx670WVObdv0JmjLMdtOWl0luuIxAqTFTWIL9JU/NL16InziwBqwN0lL7Hyg3Gu2gIyHOHqYOSgAywPjkCBkQvbge4Kr1I1cRs/n3E6leEQGmeVKJdRZHIpYWdm+MibAbq0oRA0j/xLttBzpF+JDBOFdZ3BBltx2wwOitt5nS7xr3X7TwNKniHxsuNrVgoX9EYUtiz+ovT41Ya8XKUAEXvOQB7Hnk0QYDUdKpABEiMZANKm1NU10m2Tte2WnIg72/P7lh+E8B8eaA6kG2PA9i7uGXvOtiXMh7fYxkixMY0gaUL1dI+XKVUjoXZXOGFST38rdQZQGPKIp61zOicNkrjDd2zdjU8OM5a36Yq9cG2vgCq/ZvAsaD9A6HKjl+ffnVs+vn9d4vsN7hMptpFP6yzWBSE+ABQSNXb313gUXeza/PNxRvq4q2I8Abg/pAqA8YJ+MepGs00SLKfMHyd1QyqBuPJiQyeQqoEA==;jz6ebfQ9Tl52DHxFTqAaaw=="
 ---
 

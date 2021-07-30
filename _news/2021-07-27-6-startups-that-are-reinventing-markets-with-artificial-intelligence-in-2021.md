@@ -1,27 +1,33 @@
 ---
 category: news
 title: "6 Startups That Are Reinventing Markets with Artificial Intelligence in 2021"
-excerpt: "Here, we’ve mentioned 6 best startups that are reinventing markets with artificial intelligence. If you presume that all companies"
+excerpt: "With the evolution of technology, every business is now moving forward to incorporate artificial intelligence in a way that provides a seamless"
 publishedDateTime: 2021-07-26T17:38:00Z
-originalUrl: "https://www.valuewalk.com/6-startups-reinventing-markets-ai-2021/"
-webUrl: "https://www.valuewalk.com/6-startups-reinventing-markets-ai-2021/"
+originalUrl: "https://www.entrepreneur.com/article/378434"
+webUrl: "https://www.entrepreneur.com/article/378434"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/378434"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378434"
 type: article
-quality: 36
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: ValueWalk
-  domain: valuewalk.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.valuewalk.com/wp-content/uploads/2020/03/artificial_intelligence_1585667373.jpg"
-    width: 1280
-    height: 853
+  - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-378434.jpeg?width=600&crop=16:9"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -70,6 +76,6 @@ related:
         height: 628
         isCached: true
 
-secured: "6KWHLxHDhJFToc4ItGpndvK1wvOJUf/9tivb4p3eEKGaV/0tm+yzeh1u9yI9m/TlQT2rXyMbnWUbG/tTD3P/I42l8Jdpe6teNHA6GnyFAy7Ur0k6i1L2Gzuw9FBzBBfFEkwe0fl/qEo1dgoBKNdJwFMEQjrPR7PbCfOFFK6CZyjB5hx8sb6ERiINljtdU5XalOdJ/pveM1z5DRKZu44LktZd04uIM8Mguxjj+F45v6pWihaXN2PXtQhT5gbKvyQ4juAiE8mhuzWCLq+OT6KVNhAEQDf9J2QC6soua6GTnRZGSmFLluQZdSl3T7WP++vza+RlhZm3LDo5w0KzYpZePjs/rQ7ZG69OdY6CVYgdJwgz1es5shyOfgLiq+DMQFxM3e0Rj41EgwqppaA9vUE9tzQ0IW2OOuCARajGbm7/CcCt4vnyiyrk+tMCtHENphrq++4uB8RKFkAmT5O0vOISJQ14E6ecd0Cy0Csio56WFdTTd2rpw1C1S35YQ8UaUD1j7MEYP5jLXTFNYjieoYy9pQ==;OaX+bakFFlbqIlQ6RCe6oA=="
+secured: "3nIkXv+1BO8DuabPf0zDfAo0rVNgwq9m3J5rww5hxSqOKY2mHiSG5O8nQL0NDwecTk+TLt70sdi1JY0Cn1UeB4fUO1H+A4SaXcGUGjN2lfIuDxGjNkqbjovfHXxLUxZ7p0hjAl0pf/5LFbTJ9GqaI4oXdZD42lELSmJVDe5mWbsm/hikNCxht0o5a8LVmXfS29EyzJmcKY6Son/6XBtu8Sj/4Mf3PjXJSEZxY9dFa3r45YBidxyFnxnid062nEv2NRX9i+8z15yiVUVFn8Mr4H5Tufj/iUmEuWzDkqmyWMBXZvVNPCUBity1JAmsLeNTDBahTWc8KDX1Y/jlHlivuSzu726VZTR8qrhdAE2f3Kc=;6MPfzjN8CluN0DHwvwjm8A=="
 ---
 

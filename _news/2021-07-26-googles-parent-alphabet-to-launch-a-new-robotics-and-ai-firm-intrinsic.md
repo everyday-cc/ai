@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/googles-parent-alphabet-to-launch-a-new-robot
 webUrl: "https://techstory.in/googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic/"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet to launch robotics firm Intrinsic"
-    excerpt: "Alphabet's secretive research unit said it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
-    publishedDateTime: 2021-07-25T19:43:00Z
-    webUrl: "https://www.itnews.com.au/news/alphabet-to-launch-robotics-firm-intrinsic-567840"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 56
-    images:
-      - url: "https://i.nextmedia.com.au/News/CRN-690-alphabet-blocks-Google-iStock_000005540474_Medium.jpg"
-        width: 690
-        height: 428
-        isCached: true
   - title: "Alphabet has set up a new robotics subsidiary, Intrinsic"
     excerpt: "Tech giant, Alphabet, also known as Google's parent company, has launched its latest robotics venture after limited success in the sector."
     publishedDateTime: 2021-07-26T11:40:00Z
