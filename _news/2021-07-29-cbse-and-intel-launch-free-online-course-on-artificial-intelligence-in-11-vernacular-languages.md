@@ -58,6 +58,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI at the helm of India’s digital inclusion journey"
+    excerpt: "The Covid 19 pandemic has propelled the transition towards digital technologies and heightened use of the internet. According to the latest IAMAI-Kantar Cube report, the number of active internet users in India is likely"
+    publishedDateTime: 2021-07-30T09:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "Inside the world of DNA decoding in India"
     excerpt: "Even as genetic-sequencing technology becomes cheaper and faster, the adoption of precision medicine, which decodes a patient's DNA to treat them in a more personalised, targeted way, remains limited in India."
     publishedDateTime: 2021-07-27T07:30:00Z

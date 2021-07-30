@@ -176,20 +176,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
-    excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
-    publishedDateTime: 2021-07-29T00:14:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=507505"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 13
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "Industrial Revolution 4.0 And Massively Distributed Manufacturing Will Be Driven Via Autonomous Vehicles And Self-Driving Cars"
     excerpt: "The vaunted Fourth Industrial Revolution or Industry 4.0 will be aided via Massively Distributed Manufacturing, and the use of autonomous vehicles including self-driving cars will make it all come together."
     publishedDateTime: 2021-07-28T15:30:00Z
@@ -199,6 +185,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 6
+  - title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
+    excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
+    publishedDateTime: 2021-07-28T19:14:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "rfD8qWAbsQ4LIOkjA/1R+mNeKKw8UxJeG06w3BsnHZ62H9JHbwDVghInjO169i1X29r4H4iq8YB4b9meziLVS12S0gulTmkYAbB0E+7DMnSQTw4Jei6+sFcmn/ORHv9Y/MWzByc1utnEqbstqgRqHZn2mUtU2hSY5c+U8wnN/RC8zRITnhUbVc683yzIlHMRc/EQpDLkycLrc/ypj6/06/+AfzmIf1QmurEie3ZAQQiv5gCPngh5C9S7NsNL+NWqG5FiHyY1Xqb2GqCCmqEWPSqdAQUNJVoD7pYvapHzLF2MfOi7AqqOLhROoV7mYApHBMWfXPrJ0mata/8WLUaHCJWhlTDr+6udO4QeN2cPRJ+S2dwMr/VokZz88DCGVxm/mkBfntBpQBCqsKQgdSfj66xFqxfOKRMy8JFyC/gUo/vkas5HEQC8GgW7+cCoIWHSEN+Iz+emf/tVejfzvgkn28MCCwpAaeipJ6PhtAuSKaJ7K2pAs9yPTAgmjGgq4WJvnNmIH7/dESqx002V9+ifiw==;QtkujgRmzO+spHNZzz1rwQ=="
 ---

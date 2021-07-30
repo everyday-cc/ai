@@ -57,6 +57,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI at the helm of India’s digital inclusion journey"
+    excerpt: "The Covid 19 pandemic has propelled the transition towards digital technologies and heightened use of the internet. According to the latest IAMAI-Kantar Cube report, the number of active internet users in India is likely"
+    publishedDateTime: 2021-07-30T09:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "CBSE and Intel Launch Free Online Course on Artificial Intelligence in 11 Vernacular Languages"
     excerpt: "CBSE and Intel launch a free online course on artificial intelligence available in 11 vernacular languages that anyone interested can sign up for"
     publishedDateTime: 2021-07-29T13:15:00Z

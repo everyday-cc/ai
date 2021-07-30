@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Europe Artificial Intelligence as a Service Market is projected to manifest the fastest CAGR of 38.48% through 2027"
-    excerpt: "Europe Artificial Intelligence as a Service market to show an upward trend in terms of revenue and grow at a CAGR of 38.48% in the forecasting years 2019-2027. The UK, France, Germany, Spain, Russia,"
-    publishedDateTime: 2021-07-27T11:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-as-a-service-market-is-projected-to-manifest-the-fastest-cagr-of-3848-through-2027-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "North America Artificial Intelligence as a Service Market is projected to manifest the fastest CAGR of 40.68% through 2027"
     excerpt: "Selbyville, Delaware. North America Artificial Intelligence as a Service Market report provides key statistics"
     publishedDateTime: 2021-07-27T11:00:00Z

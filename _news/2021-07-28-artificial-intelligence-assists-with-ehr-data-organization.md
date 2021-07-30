@@ -41,21 +41,33 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "6 Startups That Are Reinventing Markets with Artificial Intelligence in 2021"
-    excerpt: "With the evolution of technology, every business is now moving forward to incorporate artificial intelligence in a way that provides a seamless"
-    publishedDateTime: 2021-07-26T17:38:00Z
-    webUrl: "https://www.entrepreneur.com/article/378434"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/378434"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378434"
+  - title: "NIST starts work on artificial intelligence risk management framework"
+    excerpt: "The US NIST has made a Request for Information (RFI) call, as it commences the development of a risk management framework for artificial intelligence. Through the RFI, which appears in the Federal Register,"
+    publishedDateTime: 2021-07-30T09:02:00Z
+    webUrl: "https://continuitycentral.com/index.php/news/erm-news/6511-nist-starts-work-on-artificial-intelligence-risk-management-framework"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 86
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 37
     images:
-      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-378434.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "6 Startups That Are Reinventing Markets with Artificial Intelligence in 2021"
+    excerpt: "Here, we’ve mentioned 6 best startups that are reinventing markets with artificial intelligence. If you presume that all companies"
+    publishedDateTime: 2021-07-26T17:38:00Z
+    webUrl: "https://www.valuewalk.com/6-startups-reinventing-markets-ai-2021/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 36
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2020/03/artificial_intelligence_1585667373.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "v4r0xZizU38p7rmNAQtVPAlbVPito+jYO2/4pi2WXg1WBlAD59dl6lgZz207RrU0of9jeAaA7V8IEIm3+02nHB5LOppTBjjeWssS02/88ZOoMWO/RmD4S2JSfLKul5dwwkmIehbixleVY7EVFqusuBQpeKH0f1gp7UTvW2ELLzAnVg0SFP0tSxIKP6ZJ58wdVSWF16kTM2sEnhvy7+Azjw0FX494HHheYj+5ZXxVhHQ1OQq6M1KXEHgjIbZnTFijasr/HGfflTQq9ufwPb/S73IVWKpjHrfgc9DV6mO4mU2YwTXO89kzqb134IxRQDRJkSZuREFkVSrRNEqzNYe6P9B6jjazXswC0ib7qzh6F5c9eVPbHEIEAgZdUBJbLJLeNUyUbhYlMTW/0GFrQXGl1Gh0hNfG+zrxTkffawiPmGpZEUgQ1hHJAP4rvXzZDimCuJjzMyWN00GWha618F3zE/38onFKnX5arYLYos3CD8mbcm9East2IynAkzfe6ahQOJIl1WkcPhO2M5APYcfFUQ==;lhmzd5lXPQRtFuSnrUyaVg=="

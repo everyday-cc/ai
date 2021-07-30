@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Woebot will see you now: how AI is helping in the fight against depression"
-    excerpt: "Bot therapy' engages a demographic that's traditionally reluctant to open up. Could the future of mental health care be algorithmic?"
-    publishedDateTime: 2021-07-25T16:00:00Z
-    webUrl: "https://www.telegraph.co.uk/health-fitness/mind/woebot-will-see-now-ai-helping-fight-against-depression/"
-    ampWebUrl: "https://www.telegraph.co.uk/health-fitness/mind/woebot-will-see-now-ai-helping-fight-against-depression/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/health-fitness/mind/woebot-will-see-now-ai-helping-fight-against-depression/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 53
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/health-fitness/2021/07/22/TELEMMGLPICT000265024181_trans_NvBQzQNjv4Bqvf93cyop1gpr4w56dB_PHOHO6xmcg-ORQ3PwU054mI8.jpeg"
-        width: 671
-        height: 419
-        isCached: true
   - title: "The robot will see you now: Health-care chatbots boom but still can’t replace doctors"
     excerpt: "Health-care chatbots have been used for years, but exploded in popularity over the past year as the system became overwhelmed with covid-related questions and treatment."
     publishedDateTime: 2021-07-26T14:17:00Z

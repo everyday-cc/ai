@@ -28,61 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Asia-Pacific Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 40.90% through 2027"
-    excerpt: "Request a sample Report of Asia-Pacific Artificial Intelligence in the Healthcare Market Analysis Report at:  The Asia-Pacific artificial intelligence in healthcare market is projected to progress at a CAGR of 40."
-    publishedDateTime: 2021-07-29T08:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4090-through-2027-2021-07-29"
+  - title: "What the U.S. Can Learn From Europe’s Approach to Artificial Intelligence"
+    excerpt: "Americans have good reason to be skeptical of artificial intelligence. Tesla crashes have dented the dream of self-driving cars. Mysterious algorithms predict job applicants’ performance based on little more than video interviews."
+    publishedDateTime: 2021-07-30T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.amp.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: New York Times
+      domain: nytimes.com
+    quality: 90
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latin America Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 37.95% through 2027"
-    excerpt: "Request a sample Report of Latin America Artificial Intelligence in the Healthcare Market Analysis Report at:  The AI in healthcare market in Latin America has been projected to depict growth in terms of revenue and expand with a CAGR of 37."
-    publishedDateTime: 2021-07-29T05:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-3795-through-2027-2021-07-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latin America Artificial Intelligence as a Service Market is projected to manifest the fastest CAGR of 36.92% through 2025"
-    excerpt: "Selbyville, Delaware. Latin America Artificial Intelligence as a Service Market report provides key statistics"
-    publishedDateTime: 2021-07-27T10:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-as-a-service-market-is-projected-to-manifest-the-fastest-cagr-of-3692-through-2025-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "North America Artificial Intelligence as a Service Market is projected to manifest the fastest CAGR of 40.68% through 2027"
-    excerpt: "Selbyville, Delaware. North America Artificial Intelligence as a Service Market report provides key statistics"
-    publishedDateTime: 2021-07-27T11:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-as-a-service-market-is-projected-to-manifest-the-fastest-cagr-of-4068-through-2027-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://static01.nyt.com/images/2021/07/30/opinion/30PasqualeMalgieri/30PasqualeMalgieri-facebookJumbo-v3.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "FSLrEttPfWBUoKrAO0vmSWsd+qANmCltY/vylokoP4Ehq5AkUUotEtieyXUAbWjlPqv7QUBpPt+7w9V9Nr3QbU3yuc4nw/BehZCrtSu77qU/WUn7xpv8OOo5+WB2UWB1FiZ+UYtooacTW2U8nVSYRbBorerBt/4cjYxxjqnfkO5GNDmpDnoTnCpGezO0ic+lFnqftKt8zTTtMVLGrQvzQcrERufHQ4qNLh1Ua39RA+6n7pPVi7GKqL/9zi1eo89U+VQYRw7TjKGlpLKlBzzZuF1TFa30ZXRGQjzcNqsR9XoYjZAGTnrXaBU5QT4ZuIyh+88a8JjjJIGhd00EGxr5rik4aKcJhP8tX2zWHYSUMMk=;ubVTvwqCsAiou0uM0EKLvg=="

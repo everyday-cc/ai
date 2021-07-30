@@ -1,33 +1,27 @@
 ---
 category: news
 title: "6 Startups That Are Reinventing Markets with Artificial Intelligence in 2021"
-excerpt: "With the evolution of technology, every business is now moving forward to incorporate artificial intelligence in a way that provides a seamless"
+excerpt: "Here, we’ve mentioned 6 best startups that are reinventing markets with artificial intelligence. If you presume that all companies"
 publishedDateTime: 2021-07-26T17:38:00Z
-originalUrl: "https://www.entrepreneur.com/article/378434"
-webUrl: "https://www.entrepreneur.com/article/378434"
-ampWebUrl: "https://www.entrepreneur.com/amphtml/378434"
-cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378434"
+originalUrl: "https://www.valuewalk.com/6-startups-reinventing-markets-ai-2021/"
+webUrl: "https://www.valuewalk.com/6-startups-reinventing-markets-ai-2021/"
 type: article
-quality: 86
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ValueWalk
+  domain: valuewalk.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-378434.jpeg?width=600&crop=16:9"
-    width: 600
-    height: 338
+  - url: "https://www.valuewalk.com/wp-content/uploads/2020/03/artificial_intelligence_1585667373.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -61,7 +55,21 @@ related:
         width: 690
         height: 397
         isCached: true
+  - title: "NIST starts work on artificial intelligence risk management framework"
+    excerpt: "The US NIST has made a Request for Information (RFI) call, as it commences the development of a risk management framework for artificial intelligence. Through the RFI, which appears in the Federal Register,"
+    publishedDateTime: 2021-07-30T09:02:00Z
+    webUrl: "https://continuitycentral.com/index.php/news/erm-news/6511-nist-starts-work-on-artificial-intelligence-risk-management-framework"
+    type: article
+    provider:
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 37
+    images:
+      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "RgpDIwDJN79hQpa7P4NvMle+e187H5C85pQfebq3egv2IeWliopQZzN8b+FP92+xUkSf7XaoHPc7+ulvNzEgAYBeQ/6V4H5tU24WS+9JigTEr5ploAVtorfEXhyZdrLHy5kCZ7+l995+UyjUCycbmwD9Fl55Qmi5dU1Hk5XcIbMUuHpn+zLyFXJ9v7ncKZUsV7dcLPFsTA5BrdxKIP+ZLAjHVR40Qd1nuRhygolAEXOriSE9n14eoow+4HRL/uqC79OAA1Rda+7R0LDMqcooTumf4fA8cj51Boh3GcW+VSJ+xiy1LlJZfGKKdzDP4f9KZF4sN+HaQNbDGLhYiLd4IrQyc+5ZAeDx+p4TC8ABeaC1vO52iyEGqbpih58IfANio1487JiMCrkUOG75ua9UMTBHEqrTHINZs7dtp73bMYNJl9OhAiTTiQQ0j2UV+X/DUJTnuTF1uKOIhsSqSSSM1Cvg/adaL/YOWxAEsTpxctly79WqMMtYYCeqxMZzx+DhaLBy53hXdQF03TbcZZeeCA==;ioEBnfoZgyGK1ikRAPEpEg=="
+secured: "C9l0MJJ/5Me/IxRC1J/30+daOUBYnEXkJy85w8XqR1zTFo0UGI6poKuQYKsZ0il/MR022aTIwJ2g09ki2hmn3VSHMDj+1SqfgbCJ77IJ668nEKbSHvafqWgYTl0QohptEq6i1708/EY1MRb1YwBganQmtLwsrzx+o1fbS5mduWM4mtg//6kL7nAwYNoYkrVOOucRQwqJEVn/spf6vAnGqPk2yj0wMigX9iXR3hlFJVBulpI88DGvU9VmQkSpNWZr4Nw6VOYvZi74Sgdd/wpwFVO3ynH+KadTs+nUii95al4qlEtYNbEHSSShaQKrELdfqpMhtM+raJ5QZsM5MEICEBik3uYvaLs/0FuEB7syis0=;6I2nFCuQ9HE+ScWJ9s4VRA=="
 ---
 

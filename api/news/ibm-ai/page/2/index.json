@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-28-ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld.md",
+      "title": "IBM lands Verizon, Telefonica pacts as hybrid cloud, edge computing, 5G meld",
+      "excerpt": "IBM launches AutoSQL, Watson Orchestrate, CodeNet enterprise AI tools at Think IBM buys Turbonomic to build out AIOps tools IBM and Verizon already collaborating on 5G enterprise use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
+      "publishedDateTime": "2021-06-28T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-meet-the-new-standard-in-risk-management.md",
       "title": "Meet the new standard in risk management",
       "excerpt": "Legacy assessment based third-party risk management (TPRM) practices have struggled for years to keep pace with business needs. During the COVID-19 crisis, these shortcomings became even more acute. Companies faced additional unanticipated challenges involving the rapid onboarding of new service providers,",
