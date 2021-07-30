@@ -185,6 +185,59 @@
       ]
     },
     {
+      "path": "_news/2021-07-28-financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier.md",
+      "title": "Financial firms should leverage machine learning to make anomaly detection easier",
+      "excerpt": "Anomaly detection is one of the more difficult and underserved operational areas in the asset-servicing sector of financial institutions.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/28/financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier/",
+      "originalUrl": "https://techcrunch.com/2021/07/28/financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1263395015.jpg?w=711",
+          "width": 711,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-mit-google-quantum-algorithm-trains-wide-and-deep-neural-networks.md",
       "title": "MIT & Google Quantum Algorithm Trains Wide and Deep Neural Networks",
       "excerpt": "Quantum algorithms for training wide and classical neural networks have become one of the most promising research areas for quantum computer applications. While neural networks have achieved state-of-the-art results across many benchmark tasks,",
@@ -236,7 +289,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -289,7 +342,7 @@
       "originalUrl": "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1370,41 +1423,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning.md",
-      "title": "SoftServe Wins Google Cloud Specialization Partner of the Year Award for Machine Learning",
-      "excerpt": "SoftServe, a leading digital authority and consulting company and Google Cloud Premier Partner has won the 2020 Google Cloud Global Specialization Partner of the Year – Machine Learning award. “It’s an honor to receive this award from Google Cloud recognizing our machine learning innovation and experience helping businesses to understand and fully leverage the benefits of Google Cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210720005035/en/SoftServe-Wins-Google-Cloud-Specialization-Partner-of-the-Year-Award-for-Machine-Learning",
-      "originalUrl": "https://www.businesswire.com/news/home/20210720005035/en/SoftServe-Wins-Google-Cloud-Specialization-Partner-of-the-Year-Award-for-Machine-Learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

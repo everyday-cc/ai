@@ -140,22 +140,6 @@ related:
         height: 675
         isCached: true
   - title: "AI helping researchers improve solar data from the Sun"
-    excerpt: "It's also important for deep space missions, which won't have the option of sounding rocket calibration. We're tackling two problems at once."
-    publishedDateTime: 2021-07-25T14:49:00Z
-    webUrl: "https://www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 57
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/07/AI-helping-researchers-improve-solar-data-from-the-Sun.jpg"
-        width: 777
-        height: 437
-        isCached: true
-  - title: "AI helping researchers improve solar data from the Sun"
     excerpt: "Researchers are utilising artificial intelligence (AI) techniques to calibrate some of NASA's images of the Sun, helping improve the data that scienti.."
     publishedDateTime: 2021-07-26T05:00:00Z
     webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"

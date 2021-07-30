@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Cansel Brings TinySurveyor Robot to Canada"
-excerpt: "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada."
-publishedDateTime: 2021-07-29T15:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm"
+excerpt: "GPS-guided mobile robot will help surveying, civil engineering and infrastructure professionals increase quality, efficiency and above all,"
+publishedDateTime: 2021-07-29T15:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cansel-brings-tinysurveyor-robot-to-canada-1030663408"
+webUrl: "https://markets.businessinsider.com/news/stocks/cansel-brings-tinysurveyor-robot-to-canada-1030663408"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -42,6 +46,6 @@ related:
         height: 508
         isCached: true
 
-secured: "ZtOcmIsfhy5fDAN8Np0A89jmliZm8IpfOTSb9/rQEwnGkkv8B+8BAyYomab5iyq125rYxArGBTtjF7nr4p/nyuV978ENYVthKd40yCEZ5PW26m0yg+m2dCY2ORhhn/jdaRgRmxvHPa+73GFX44xaV6n92fO68hVibnc7gz9N6/Vl0DeJhwMmCncis431IhJOh+5dPaRO11r/noGwMPn/wFYwpTDFPHx23avkIKYPVkGcRvKpadecaaKglzSahWkU4lvbF6r3ghMHIuFGZ1mqGIlJxCcVYCDZUSDFTN+24fwey2NPOkVvKGXQmNQ/1LbSyUovKhCVg/ZamVtdVeryaNJrDKy2M4OL4AG27+nzH5A=;DC61il0/im9jsZyudqVjEQ=="
+secured: "5B4QQdU2TMGcDChmmZ/bsCQ409IsxQdUVIxqkwGJ/YDXX7XrutaOlzoFRl9SuTfMzEzlnhV8nt53VfmA34vQyfCFo6JrBH+FLYvkWWACMpXBq56jY9zlf3YBdtVpueB120gzaFK18uWwBjPnqv0QjAZFVnsChz21zPbi5EuLDg80Fo9JFJGv+x6U8cYZ2e2BPX2bkPjfGesoOVzBPw2q5A8fMIdB7zHzGLqvOrAXnR3WVShGxXFDRaQyIneS5l/LbyJu+0TRq/82WaVvvjJa6PBZ7A1P4gryjUJq628FBV5jYF8Es093p6aduT2SW1qF2WqyvFBDR5wGA6Y0I2dqssW8iMAAWNi/Jv7aUjoAmXI=;+cN3INh5XjDOg3WRa+84Kg=="
 ---
 

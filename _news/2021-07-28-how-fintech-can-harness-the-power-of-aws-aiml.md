@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -79,15 +79,6 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "Virtual partners have a growing role in the fintech space"
-    excerpt: "Future-proofing fintech? We caught up with Will Marwick, CEO of the global fintech company IFX Payments to find out more"
-    publishedDateTime: 2021-07-25T13:25:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/virtual-partners-have-growing-role-fintech-space"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
 
 secured: "1DUsK7N7HseD+j6mEa0P7G6hkdp56Yw7HGitYJsIZyK/NMw5BY9bzpc/9erl+prapEat/AyqI8vh/oDXrusHeOyAVa2692iRB4ZQLU72jXX8tB1E/sFf8gJpCJumJ6JEhwftV8YPWKftkue0y72d6mz49YmTD2LdyXxtCM7gA4kohvs5WMMhfVgAnJc8KzfP9A6dcIIGJprkspuVarmG6OnsaHIA0yGKAdbxBJS8xZM0VXa5GgQF6158qCqXvJ+j0mRaZGUO5vbQxM2UmoOJN4JcD29bMJrFnjew8nF4lTNGc1qLSszUGuiNpBpKYD/UiBidl5quuA4t7FJe4qRDJQp86Ql9I5efQuSXrSQvvcM=;QeVscVY40YHglVA1z+zE6A=="
 ---

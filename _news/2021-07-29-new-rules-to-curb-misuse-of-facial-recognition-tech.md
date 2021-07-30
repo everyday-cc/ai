@@ -39,14 +39,14 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021"
-    excerpt: "Analytics Insight has announced 'Top Robotics Companies at the Forefront of Innovation in 2021' in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
-    publishedDateTime: 2021-07-26T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/26/9416657.htm"
+  - title: "Analytics Insight Announces ‘Top Robotics Companies at the Forefront of Innovation’ in 2021"
+    excerpt: "Analytics Insight has announced ‘Top Robotics Companies at the Forefront of Innovation in 2021’ in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
+    publishedDateTime: 2021-07-26T14:11:00Z
+    webUrl: "https://www.financialbuzz.com/analytics-insight-announces-top-robotics-companies-at-the-forefront-of-innovation-in-2021/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 24
   - title: "Spatial Vision in Humans and Robots"
     excerpt: "This collection will be of interest to biological researchers investigating how the brain solves spatial problems, as well as to researchers in robotics and computer vision systems."

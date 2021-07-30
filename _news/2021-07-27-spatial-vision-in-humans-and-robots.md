@@ -47,14 +47,14 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021"
-    excerpt: "Analytics Insight has announced 'Top Robotics Companies at the Forefront of Innovation in 2021' in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
-    publishedDateTime: 2021-07-26T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/07/26/9416657.htm"
+  - title: "Analytics Insight Announces ‘Top Robotics Companies at the Forefront of Innovation’ in 2021"
+    excerpt: "Analytics Insight has announced ‘Top Robotics Companies at the Forefront of Innovation in 2021’ in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
+    publishedDateTime: 2021-07-26T14:11:00Z
+    webUrl: "https://www.financialbuzz.com/analytics-insight-announces-top-robotics-companies-at-the-forefront-of-innovation-in-2021/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 24
   - title: "Kiromic Announces the Acquisition of InSilico Solutions Leveraging on Bioinformatics and Artificial Intelligence to Advance Clinical Development on Its Outpatient Allogeneic ..."
     excerpt: "Kiromic announces the acquisition of InSilico Solutions leveraging on Bioinformatics and Artificial Intelligence to advance clinical development"

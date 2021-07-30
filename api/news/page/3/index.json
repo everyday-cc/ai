@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-28-why-we-need-engineers-who-study-ethics-as-much-as-maths.md",
+      "title": "Why we need engineers who study ethics as much as maths",
+      "excerpt": "The Miami apartment collapse is a grim reminder of why engineering matters, and why engineering trainees should study ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.studyinternational.com/news/study-ethics/",
+      "originalUrl": "https://www.studyinternational.com/news/study-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.studyinternational.com/wp-content/uploads/2021/07/000_9EU6FK-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Study International",
+        "domain": "studyinternational.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-startups-combat-fintech-challenges-heres-how.md",
+      "title": "Startups Combat Fintech Challenges: Here's How",
+      "excerpt": "Fintech business model is facilitating a unique and seamless compliance management system that allows the business owners to go through the massive data and make better decisions in their business pro",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/378593",
+      "originalUrl": "https://www.entrepreneur.com/article/378593",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1627452044-mark-oflynn-bqjswIxbhEE-unsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/378593",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378593",
+      "publishedDateTime": "2021-07-27T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-chipmaker-ampere-to-acquire-ai-startup-onspecta.md",
       "title": "Chipmaker Ampere to acquire AI startup OnSpecta",
       "excerpt": "Chipmaker Ampere on Wednesday announced its plan to acquire OnSpecta, a startup whose software accelerates AI inference workloads in the cloud and the edge. The terms of the deal were not disclosed. OnSpecta,",
@@ -673,49 +769,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-27-tesla-self-driving-car-confuses-moon-for-traffic-light-leaves-netizens-amused.md",
-      "title": "Tesla self-driving car ‘confuses moon for traffic light’, leaves netizens amused",
-      "excerpt": "Since being shared online, the clip has garnered multiple reactions, with many wondering whether the auto-pilot option is safe for drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/trending/trending-globally/tesla-self-driving-features-confuses-moon-for-traffic-light-7424808/",
-      "originalUrl": "https://indianexpress.com/article/trending/trending-globally/tesla-self-driving-features-confuses-moon-for-traffic-light-7424808/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/07/tesla-1.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/trending/trending-globally/tesla-self-driving-features-confuses-moon-for-traffic-light-7424808/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-globally/tesla-self-driving-features-confuses-moon-for-traffic-light-7424808/lite/",
-      "publishedDateTime": "2021-07-27T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-27-employment-for-adults-with-severe-disabilities.md",
       "title": "Employment For Adults With Severe Disabilities",
       "excerpt": "Last week's \"60 Minutes\" report, like most media reports on employment for adults with disabilities, gives little attention to the severely impacted--those with little language or severe cognitive deficits.",
@@ -1156,57 +1209,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/the-effects-of-ai-on-child-psychology/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/27/the-effects-of-ai-on-child-psychology/amp/",
       "publishedDateTime": "2021-07-27T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-an-ai-road-map-starts-with-data.md",
-      "title": "An AI Road Map Starts With Data",
-      "excerpt": "AI should be a priority for businesses. However, this game-changing set of technologies requires a solid data foundation, and businesses need to bolster their data engineering capabilities before they take on AI initiatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeee92c240fb26d335a07a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/",
-      "publishedDateTime": "2021-07-27T04:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

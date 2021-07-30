@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. FILE PHOTO: A sign is seen at the ..."
-publishedDateTime: 2021-07-23T15:37:00Z
-originalUrl: "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056"
-webUrl: "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056"
+excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. July 23 (Reuters) - Alphabet Inc's ..."
+publishedDateTime: 2021-07-23T13:58:00Z
+originalUrl: "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23"
+webUrl: "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23"
 type: article
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15280054/16x9/991/557/8aa600f18375888ddef8e65715e2d356/gZ/file-photo--a-sign-is-seen-at-the-entrance-to-the-google-retail-store-in-the-chelsea-neighborhood-of-new-york-city-2.jpg"
-    width: 991
-    height: 557
-    isCached: true
-
-secured: "h9fLUjzSMasOD8HOO9TtEVvrgIV0Wax+G46jdoXvgHMnioGTzhXQrNX0Zs5krr3qlpf2OlCIIk2JeV7xtfUEl2ajlbW1306oBxSNGdJH9eAlbuWouXohX59oX0Ydu2ncOnaavPvHreTtpjfnpgBdCCDyRWHwwDnwIngpxBxKFRMNcU0xgt/a9ERtZl9ozZxoD+aSbk9IbAMzHkDLPcDQhetlts9tUWLX1SrURwYRZ25JNcvCTXd9uIonc4JtcdDNm/E73mXnDVF3bkUvHpkF3wq0/8rJ9WLjQ1Ay7J9L5TCMQXVfkam2NaC6ZxGyFWJ68Dd6fmYpdDYQMTZNxVdQlc99Lk8tGGKABskaWUhL+gQ=;mN8FdIjfOjh7CQErWezG/g=="
+secured: "Cb//tFok9sNIMtwHOSJykoPT/EPLTYtOn7wpX5G/f+i8AHSanjB8v3SDBdpTWABRuFSPhAlf5klkqGl9UD6yHD/WWKEb6oeZGpK73e0yLAX5VdMY1k2+qjCqVy5ZMRfx5PmZRwNmtmdnYQdXcvom3kuaiuOHYu/FXL6pK0wAeybJK79Jy7V5Hcafig+Xr2L96AuxOfK99jT8kawDNw1wYbunUG1lIftMxDBLQ3QEgjT7AXrFH6VQM/sVIhJP7VXjTLFqqptIcCAozWLRNS4Jvm5pPwTQ3qzMshYAear2izWNEZd/bdj3jwr6DYAJCeu2P4fWrCRGhHIj8RgVg5nyJsB5+euI6OBxgQYgL9aLe7Y=;crtEtMKytk/2AQKcHR3aog=="
 ---
 

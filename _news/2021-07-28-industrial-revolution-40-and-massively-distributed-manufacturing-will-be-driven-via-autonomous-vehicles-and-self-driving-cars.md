@@ -190,13 +190,18 @@ related:
         isCached: true
   - title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
     excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
-    publishedDateTime: 2021-07-28T19:14:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
+    publishedDateTime: 2021-07-29T00:14:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=507505"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 13
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
 secured: "jg+qr4uqcFLSU+AZFS9kBaa6b3ckbNzQUE2+WIUUxNDEruz0/bbqQp5JvJX0hCOI63YaWguOkfTcZ0rOQezJT1bnB7LiCkU2Fn1l7Hoh1h03d39SZmh+whOozfVMBUmdPOVEMvxkNtFyYivTlvaHm30NX9x5UafZbkXUDxt/t23UL5hTpQ+vtGZKhi+f6x9/v5SDno0sVJW0HqgenED8jjqIBoERyZo2z1MZK+6MoRO5gvfuC+DoRhHwiV/1+7/PXz+V7OZuOYwdVTU8tPBlf+v7TIuOu+XpuuffYOim72B+sjgCPHKjzfEKAXXsD8nia35MryeD04SKItBSaLZWtonsZn7FVn2cFJYwCeZBX5We4Nw83QJM86I58aFYCuyKbdjPGU1ZZ+cQYaWKeK2Q4DP17nbK4z9HX+YW8j0qUXIgC/oNzl409I4p6S0nh8oFaoaPU2uLytlvTkUNLbfUjrVGWopR5RuM10DgB8qBvqq0pBbQy+nTtNn+/668XSlZcwQ9lLWw71cUkzr6PSVmBw==;lrwypCGEBpaWRCIVJrHEjg=="
 ---

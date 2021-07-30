@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-06-19-self-driving-cars-are-a-no-go-so-lets-all-pretend-flying-cars-are-coming.md",
-      "title": "Self-driving cars are a no-go, so let’s all pretend flying cars are coming",
-      "excerpt": "The Airspeeder MK3 is the world's first electric flying car, but it actually looks like a reinvented helicopter or just a massive drone.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/self-driving-cars-are-no-go-lets-all-pretend-flying-cars-are-coming",
-      "originalUrl": "https://thenextweb.com/news/self-driving-cars-are-no-go-lets-all-pretend-flying-cars-are-coming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FUntitled-design-76.jpg&signature=3e00f7e4ef86c60bfa22e525a485b2e2",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-19-tesla-rival-xpeng-gets-self-driving-parking-assist-but-it-needs-to-be-trained-for-specific-parking-spots.md",
       "title": "Tesla rival Xpeng gets self-driving parking assist, but it needs to be trained for specific parking spots",
       "excerpt": "Xpeng’s P7 is getting a software update with Valet Parking Assist as it tries to catch up with rivals like Tesla, whose autonomous summon feature has received regulatory scrutiny.",
@@ -1378,6 +1326,49 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-12-how-to-use-voila-app-that-has-gone-viral.md",
+      "title": "How to use Voila app that has gone viral",
+      "excerpt": "Voila is an app that uses artificial intelligence to turn your photo into ... MOUNTAIN VIEW, Calif. (AP) — Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent ...",
+      "sourceUrl": null,
+      "webUrl": "https://kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/",
+      "originalUrl": "https://kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kdvr.com/wp-content/uploads/sites/11/2021/06/Untitled-design-2.png?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/amp/",
+      "cdnAmpWebUrl": "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/amp/",
+      "publishedDateTime": "2021-06-11T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX31 Denver",
+        "domain": "kdvr.com",
         "images": null,
         "publishers": null,
         "authors": null

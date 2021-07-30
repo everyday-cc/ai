@@ -150,22 +150,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI helping researchers improve solar data from the Sun"
-    excerpt: "It's also important for deep space missions, which won't have the option of sounding rocket calibration. We're tackling two problems at once."
-    publishedDateTime: 2021-07-25T14:49:00Z
-    webUrl: "https://www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 57
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/07/AI-helping-researchers-improve-solar-data-from-the-Sun.jpg"
-        width: 777
-        height: 437
-        isCached: true
   - title: "AI driving the future of in-car systems"
     excerpt: "Carmakers are bracing for new safety rules and standards around the world that could require dashboard cameras to detect dangerous driver behavior."
     publishedDateTime: 2021-07-27T00:18:00Z

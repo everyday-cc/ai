@@ -2,21 +2,27 @@
 category: news
 title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
 excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
-publishedDateTime: 2021-07-28T19:14:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
-webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
+publishedDateTime: 2021-07-29T00:14:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=507505"
+webUrl: "https://us.acrofan.com/detail.php?number=507505"
 type: article
-quality: 0
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
-  - Computer Vision
+  - AI in Autos
   - AI
+
+images:
+  - url: "http://us.acrofan.com/img/noImg.jpg"
+    width: 500
+    height: 324
+    isCached: true
 
 related:
   - title: "Older drivers like self driving cars, ride hailing"
@@ -194,6 +200,6 @@ related:
       domain: forbes.com
     quality: 6
 
-secured: "eThq76JHLgYWZ7qyqjvHKlkuI6OMC203otj1WZKIKWTbXdzdh7g80FQGnLyg4/Y+nvxuT+uFtKcDPwVqMc/c4Zr09o2OGFAu0RYUpBdYVCUXc2JvZ4hLup/w19RsT5I3wNnolcaBErG+jXUTWwAYJNpvSeFDFh1BgvsUzrjrOt5UCXxOuVGS4Bly96OPPquHL7m65wBrS9q2V5WDpnY8Y7yRqxI4zYj2Afgjjd9E1oqLCzi+sA5JpDutd/D/8QWNBKeOiNdSwOAXk9hH6E3C0JHkR7HQz2CDXBnnOqWO1X/sxmwMdAljsGdQWf62IEzbzKrYNimkmn2/MBUq3TojqbsGOAfrC12mwmEJ8B2sixA=;kYGoqePE5Q4wBEG0FF5jUQ=="
+secured: "G45sAkXk9XGNNxxQn5wFYWcbI61738PXPECKguOUq5cfLuuOPK7M+ySsTnTE8KpOCPRunkz+ZdHPvUscjwjl66VRzu5diBaYUzFF9dYIUeF5H06PczhoiXfNQuTOIFnoPWosHLFE6X1HTRNVEsKg8VvnPJsygmjtVSnJZbJoNNE7ahuU3CnSkwiGQCfkzvqu+mncNzzRwbKGVtpmTdO4UYHLbP26oVFMc3e3cRkdO7pSAAPomDqJoTQDUF/iII0eMZG/rWnW1H6KhlcZTxiEvZiPOqt6noCJ9NqisQEB/xVKQo8qjalx0vCLPRfvGuvCFayGP005zo8AEL8hadjMRudKSMycUHyy9mnm/DQNhh0=;jI4q0txKCkkKQAG3L4ojQA=="
 ---
 

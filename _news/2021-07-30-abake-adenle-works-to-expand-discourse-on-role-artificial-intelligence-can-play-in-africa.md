@@ -40,20 +40,6 @@ related:
         width: 1300
         height: 733
         isCached: true
-  - title: "AI-enabled HCM systems in a post pandemic Africa"
-    excerpt: "Prior to the arrival of the pandemic, mid-size organizations in Africa were experiencing significant growth. However, under the wide ranging effects of the pandemic, the economic activity is projected to have declined by 3."
-    publishedDateTime: 2021-07-25T13:52:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/AI-enabled-HCM-systems-in-a-post-pandemic-Africa-1316998"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 37
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/src/implementing-artificial-intelligence-part-1-hero1212.jpg"
-        width: 600
-        height: 250
-        isCached: true
   - title: "Reasons why funding into African AI startups remains poor despite a global boom"
     excerpt: "AI has advanced considerably over the past decades permeating every stratum of the digital experience. As the industry grew, so did fundimg in AI startups"
     publishedDateTime: 2021-07-26T13:29:00Z

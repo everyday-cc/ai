@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-29-how-ai-and-machine-learning-can-make-or-break-our-mobile-privacy.md",
+      "title": "How AI and Machine Learning Can Make or Break Our Mobile Privacy",
+      "excerpt": "Like many different technologies, Artificial Intelligence (AI) has been widely adopted and implemented in a variety of businesses and",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/tech-gadgets/how-ai-and-machine-learning-can-make-or-break-our-mobile-privacy-02421949",
+      "originalUrl": "https://www.business2community.com/tech-gadgets/how-ai-and-machine-learning-can-make-or-break-our-mobile-privacy-02421949",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/07/AI-1-900x506.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/tech-gadgets/how-ai-and-machine-learning-can-make-or-break-our-mobile-privacy-02421949/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/tech-gadgets/how-ai-and-machine-learning-can-make-or-break-our-mobile-privacy-02421949/amp",
+      "publishedDateTime": "2021-07-28T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies.md",
       "title": "Here Is A Fully Autonomous AI-Powered Beehive That Could Save Bee Colonies",
       "excerpt": "More than 30 percent of the world's honeybee colonies are vanishing each year. This company created the first fully autonomous beehive that can rescue and protect the bee colony 24/7.",
@@ -278,6 +321,59 @@
       ]
     },
     {
+      "path": "_news/2021-07-28-financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier.md",
+      "title": "Financial firms should leverage machine learning to make anomaly detection easier",
+      "excerpt": "Anomaly detection is one of the more difficult and underserved operational areas in the asset-servicing sector of financial institutions.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/28/financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier/",
+      "originalUrl": "https://techcrunch.com/2021/07/28/financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1263395015.jpg?w=711",
+          "width": 711,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-harvard-scientists-are-using-ai-to-search-for-alien-technology.md",
       "title": "Harvard scientists are using AI to search for alien technology",
       "excerpt": "The Galileo Project will use AI, a network of telescopes, and astronomical surveys to hunt for tech created by aliens.",
@@ -337,7 +433,7 @@
       "originalUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -484,7 +580,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -942,7 +1038,7 @@
       "originalUrl": "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1112,102 +1208,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-why-we-need-engineers-who-study-ethics-as-much-as-maths.md",
-      "title": "Why we need engineers who study ethics as much as maths",
-      "excerpt": "The Miami apartment collapse is a grim reminder of why engineering matters, and why engineering trainees should study ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.studyinternational.com/news/study-ethics/",
-      "originalUrl": "https://www.studyinternational.com/news/study-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.studyinternational.com/wp-content/uploads/2021/07/000_9EU6FK-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Study International",
-        "domain": "studyinternational.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-startups-combat-fintech-challenges-heres-how.md",
-      "title": "Startups Combat Fintech Challenges: Here's How",
-      "excerpt": "Fintech business model is facilitating a unique and seamless compliance management system that allows the business owners to go through the massive data and make better decisions in their business pro",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/378593",
-      "originalUrl": "https://www.entrepreneur.com/article/378593",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1627452044-mark-oflynn-bqjswIxbhEE-unsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/378593",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378593",
-      "publishedDateTime": "2021-07-27T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

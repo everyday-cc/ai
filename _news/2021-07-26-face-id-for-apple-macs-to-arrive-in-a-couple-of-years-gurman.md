@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2021/07/26/face-id-apple-mac-arrive-in-
 webUrl: "https://www.gizmochina.com/2021/07/26/face-id-apple-mac-arrive-in-couple-of-years/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Gizmochina
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gurman: Face ID coming to Macs, all iPhones and iPads within a ‘couple of years’"
-    excerpt: "In his newsletter, Gurman believes Apple will bring Face ID to the Mac within a 'couple of years' as well as extend the technology to all iPhones and iPads too."
-    publishedDateTime: 2021-07-25T14:47:00Z
-    webUrl: "https://9to5mac.com/2021/07/25/gurman-face-id-coming-to-macs-all-iphones-and-ipads-within-a-couple-of-years/"
-    ampWebUrl: "https://9to5mac.com/2021/07/25/gurman-face-id-coming-to-macs-all-iphones-and-ipads-within-a-couple-of-years/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/07/25/gurman-face-id-coming-to-macs-all-iphones-and-ipads-within-a-couple-of-years/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/07/Face-ID-Mac.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Apple Mac devices with Face ID could launch ‘within a couple of years’"
     excerpt: "Apples facial recognition technology called Face ID is currently limited to the premium iPhones and iPad Pro, but that may not be the case in the coming years. The use of Face ID is expected to expand to Mac devices,"
     publishedDateTime: 2021-07-26T09:19:00Z

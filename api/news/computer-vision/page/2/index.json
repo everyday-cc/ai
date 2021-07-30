@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-07-16-maine-enacts-toughest-facial-recognition-ban-in-us.md",
-      "title": "Maine Enacts Toughest Facial Recognition Ban in U.S.",
-      "excerpt": "Augusta, Maine — The Maine State Legislature has passed a bill that will prohibit the use of facial recognition surveillance by certain government employees and officials. While these bans have been popping up more and more over the country, Maine took ...",
-      "sourceUrl": null,
-      "webUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html",
-      "originalUrl": "https://www.campussafetymagazine.com/news/maine-enacts-toughest-facial-recognition-ban-in-u-s/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://compote.slate.com/images/cfdef433-ca60-4077-8748-01acfcc00e80.jpeg?width=780&height=520&rect=3500x2333&offset=0x0",
-          "width": 780,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
-      "cdnAmpWebUrl": "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
-      "publishedDateTime": "2021-07-16T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Safety Magazine",
-        "domain": "campussafetymagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-07-16-backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-unfairly-kicked-out-of-skating-rink.md",
       "title": "Backlash to retail use of facial recognition grows after Michigan teen unfairly kicked out of skating rink",
       "excerpt": "Apple, Macy's, Albertsons, Lowes and Ace Hardware all use facial recognition software in their stores. Multiple civil rights groups banded together this week to end the use of facial recognition tools by large retailers.",
@@ -1383,6 +1340,40 @@
         "AI",
         "AWS AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-using-video-feeds-from-public-traffic-cameras-and-computer-vision-to-analyze-social-distancing-and-travel-patterns-during-the-covid-19-pandemic.md",
+      "title": "Using Video Feeds from Public Traffic Cameras and Computer Vision to Analyze Social Distancing and Travel Patterns during the COVID-19 Pandemic",
+      "excerpt": "For USDOT specific COVID-19 resources, please visit our page. Researchers at the Connected Cities for Smart Mobility towards Accessible and Reliable Transportation (C2SMART) University Transportation Center (UTC),",
+      "sourceUrl": null,
+      "webUrl": "https://www.transportation.gov/utc/using-video-feeds-public-traffic-cameras-and-computer-vision-analyze-social-distancing-and",
+      "originalUrl": "https://www.transportation.gov/utc/using-video-feeds-public-traffic-cameras-and-computer-vision-analyze-social-distancing-and",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. Department of Transportation",
+        "domain": "transportation.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

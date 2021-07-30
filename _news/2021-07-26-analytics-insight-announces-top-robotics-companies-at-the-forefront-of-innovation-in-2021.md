@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021"
-excerpt: "Analytics Insight has announced 'Top Robotics Companies at the Forefront of Innovation in 2021' in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
-publishedDateTime: 2021-07-26T14:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/07/26/9416657.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/07/26/9416657.htm"
+title: "Analytics Insight Announces ‘Top Robotics Companies at the Forefront of Innovation’ in 2021"
+excerpt: "Analytics Insight has announced ‘Top Robotics Companies at the Forefront of Innovation in 2021’ in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
+publishedDateTime: 2021-07-26T14:11:00Z
+originalUrl: "https://www.financialbuzz.com/analytics-insight-announces-top-robotics-companies-at-the-forefront-of-innovation-in-2021/"
+webUrl: "https://www.financialbuzz.com/analytics-insight-announces-top-robotics-companies-at-the-forefront-of-innovation-in-2021/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Robotics
@@ -66,6 +66,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "eQ+VVTkBNbM/ssoiVm9+wKvlBtPS3CSlLGkLGpAsueKamrW/DcdaSHoPp8E6LJVeJtGjTTTg0H6NTRALz+9/3HEiS9GtZszgjkRG+MnZXX/e1mJstZGb2LckY9dDSxV4qtsH48dhSFVvxMmAzOl0qa61LZfkjE4KqoNNSFUhXLIvCKfnnlZxn53BgHupQ2IWap/p8hYf6yG3O6vAnEWiobDeJg3DTuiYubsjpYw7tv63wkRJQDSQCf6tvn1wuXlsho+f8TPGPhP6dHkqvJwxWtFbN1qkFdiXcu/WoPVvJsQrKK0wJUYOQiCwu3DXxDXaCJkHIY2CTuDqM4pspfVmuPbMsVnM9ZrkfYCmvW11SVo=;ucJw0GuxvlvCshKJTRHdtg=="
+secured: "63cunImTES8xyYBroQrtHL+upl7dkDsF24pCOblcQsRAYZLcKTMPxxfvAazCRoIXb12m4eJgiNuA0d/moYw6XRrbVN7aGo5qRc6CFNfdtOtQ1fqIq9CiNxmKSc3UbBRU67yVU5PxErT1/d2PFibisWy0GVw5+QImDzV4AqRp2G7c/Ji4npduTohVoaagrB71J1/LYTlV25pgVVwMHdgY+gjPbbG6rMBXrEksDuR81IlkF8tG8nwnag36lwR+S5ZYECR3EUN6Dg9eH9POh5i02+8YfafJd4iS0tFv3BmbEzEwXJyEztO3LXG/vK+7yOeiunhKl/PkiFrSW2s4DtZhHw8uNRbmWWJC8lOBibSLH5g=;1qu0cy0Pjt6XSUhwII7OBg=="
 ---
 

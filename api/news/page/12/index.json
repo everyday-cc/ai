@@ -2,59 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-07-20-artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026.md",
-      "title": "Artificial Intelligence (AI) in Education Market Report 2021, Industry Size, Outlook, Production, Revenue, Gross Margin and Forecast to 2026",
-      "excerpt": "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Artificial Intelligence (AI)",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026-2021-07-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026-2021-07-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-20-far-reaching-impact-of-microsofts-entry-into-rpa.md",
       "title": "Far-Reaching Impact of Microsoft’s Entry into RPA",
       "excerpt": "Microsoft has officially entered the robotic process automation (RPA) marketplace with some major changes to its Power Platform. Learn about the far-reaching impact of Microsoft’s entry into RPA.",
@@ -452,19 +399,19 @@
     {
       "path": "_news/2021-07-20-ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round.md",
       "title": "AI Startup Lunit Secures Investment from Guardant Health in a Strategic Funding Round",
-      "excerpt": "Lunit, a leading AI startup in AI-powered cancer solutions, today announced a strategic investment of $26 million from Guardant Health, Inc. (Nasdaq:",
+      "excerpt": "Lunit, a leading AI startup in AI-powered cancer solutions, today announced a strategic investment of $26 million from Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company. The deal,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round/article_7e7e3703-e91a-5ce2-b0c9-669d388bd261.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round/article_7e7e3703-e91a-5ce2-b0c9-669d388bd261.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-ccab9c3ab8adb05489bd687255293d68",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-ccab9c3ab8adb05489bd687255293d68",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e4/ce457a5f-490b-582e-83af-d4d14f85bf28/60f57ed1f041a.image.jpg?resize=805%2C380",
-          "width": 805,
-          "height": 380,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -474,11 +421,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T15:38:00-07:00",
+      "publishedDateTime": "2021-07-19T15:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1170,6 +1117,49 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-scientists-adopt-deep-learning-for-multi-object-tracking.md",
+      "title": "Scientists adopt deep learning for multi-object tracking",
+      "excerpt": "Computer vision has progressed much over the past decade and made its way into all sorts of relevant applications, both in academia and in our daily lives. There are, however, some tasks in this field that are still extremely difficult for computers to perform with acceptable accuracy and speed.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.html",
+      "originalUrl": "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-adopt-deep.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-scientists-deep-multi-object-tracking.amp",
+      "publishedDateTime": "2021-07-19T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],
