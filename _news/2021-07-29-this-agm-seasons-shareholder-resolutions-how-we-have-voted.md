@@ -2,9 +2,9 @@
 category: news
 title: "This AGM season's shareholder resolutions: how we have voted"
 excerpt: "From our voting on climate change, human rights and data privacy, this is how we've responded to shareholder resolutions this year."
-publishedDateTime: 2021-07-29T11:00:00Z
-originalUrl: "https://www.schroders.com/de/bm/asset-management/insights/equities/this-agm-seasons-shareholder-resolutions-how-we-have-voted/"
-webUrl: "https://www.schroders.com/de/bm/asset-management/insights/equities/this-agm-seasons-shareholder-resolutions-how-we-have-voted/"
+publishedDateTime: 2021-07-29T12:16:00Z
+originalUrl: "https://www.schroders.com/el/za/intermediary/insights/markets/this-agm-seasons-shareholder-resolutions-how-we-have-voted/"
+webUrl: "https://www.schroders.com/el/za/intermediary/insights/markets/this-agm-seasons-shareholder-resolutions-how-we-have-voted/"
 type: article
 quality: 24
 heat: 24
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.schroders.com/de/sysglobalassets/digital/insights/2021/07-july/this-agm-seasons-shareholder-resolutions-how-we-have-voted/this-agm-seasons-shareholders-resolutions.jpg"
+  - url: "https://www.schroders.com/el/sysglobalassets/digital/insights/2021/07-july/this-agm-seasons-shareholder-resolutions-how-we-have-voted/this-agm-seasons-shareholders-resolutions.jpg"
     width: 945
     height: 589
     isCached: true
 
-secured: "ilrXJ/0PBkY0aDHjNYNnzan8uqT4ZHiCadKnyeRgm4ytyApeUM0OERLU/J2uJ3fC+H4KHqfCTg8YR64DaikUrEczaKIwWAIaMyT8/7plQL1rA2JuyZYYQl11Cmuv3Zupjo54Ia6lsFW7ajnfFay/KNmSl8PWmxaTDNIxhBz7ftHBB1vT+S0Pd0S0hybDvMsqfwyeUGpcE31aXDgKN59L3XtLop90qVwPuoaf8Pe2BFk9y6AvdievFiSGhmp+HGsJz3GYnq2mOCR14K+rw7pOdUcEN8dczqqV5QT7PjEb1bWJMON/+XhygD+4OEG20ks9nJyEhIntXFa527MuX459okVNb67ZKE6RcspZmF3D9ciifqvF3s1RJ2cPCq3IJQBeUbx2/uMqM6C/j7ArbWf0krJKrwMbQEMkk81s8FwcQcFncDupt24yeiL03g2+NglA4rKbzB2NGd+RixRQCoHo8od4kH6Y8PUcNU9wtmgFAgcPak+1pGOjWQB2R/WaXyr5BWtLhmGH+oIT0upjorlciA==;Uf54oaDZCFUQqlRzo8P/MQ=="
+secured: "uawwT6ocNxinM9DtU7Vik9h2AVSAmz5Bfpo0ASs2hDD0hmHd2WQTTJAqFmkgKek8LElsDarEq2jPvMRngEGd28oEgUluMtVa+durHAHseFRNi8JlKJvTd1t/rN9t8hbgClZsb7ak6ePo3CqKTBSf7OAeuSjA172aoSWopjU7shUGHVcEzq678DsT1iASMe6y4V3daFMB1LhI7r19o4P/RXiQaXRRKm/B71U4DihcR12LuviBMCY+BkQ8dYI48oayYzyx+d5OK3U3Ds1HBr8TlgjSUe0+0lkPV9RT2QL/g7QGzW9ZAehVQlfUJcxUyx6NW0+WhuWMAQwq4T9dU7F3Yu1ozj4eL18Q49ME8QY4L/s=;H/1ms83ohdkABta2fjIYug=="
 ---
 

@@ -185,6 +185,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 23
+  - title: "Conversational AI Market Review: Big, Bright and Booming | Microsoft, Oracle, IBM, Google LLC, SAP ERP, Baidu"
+    excerpt: "The global Conversational AI Market size is expected to grow from USD XX billion in 2020 to USD 13.9 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 21.9% during the forecast period. Latest added Conversational AI Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
+    publishedDateTime: 2021-07-30T10:35:00Z
+    webUrl: "https://manometcurrent.com/conversational-ai-market-review-big-bright-and-booming-microsoft-oracle-ibm-google-llc-sap-erp-baidu/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 15
   - title: "Text-To Speech Market 2021 Long-term Outlook Remains Positive | Microsoft Corporation, IBM Corporation, Google, Sensory"
     excerpt: "The Text-To Speech Market was valued at USD XX billion in 2020 and is estimated to reach USD 5.0 billion by 2027, registering a CAGR of 14.6% during the forecast period. Latest added Text-To Speech Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
     publishedDateTime: 2021-07-26T16:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/partnering-nsf-research-institute-
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnering-nsf-research-institute-ai-improve-elderly-care/amp/"
 type: article
 quality: 105
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102d1d3cc6d3da87fbd41c4%2F0x0.jpg"
         width: 1200
         height: 653
+        isCached: true
+  - title: "WSU to lead new research institute to apply artificial intelligence innovations to farming"
+    excerpt: "Washington State University will lead a new federally funded research institute to take the agriculture industry further into the future via artificial intelligence."
+    publishedDateTime: 2021-07-30T10:39:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/30/agriculture-40-wsu-to-lead-new-research-institute-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/30/agriculture-40-wsu-to-lead-new-research-institute-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/30/agriculture-40-wsu-to-lead-new-research-institute-/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 47
+    images:
+      - url: "https://thumb.spokesman.com/KvtfYaeH_EDClo6tOPko2Piz5bU=/480x0/media.spokesman.com/photos/2021/07/29/6103494adfe80.image.jpg"
+        width: 480
+        height: 320
         isCached: true
   - title: "NC State, NSF Unveil Institute Focused on Artificial Intelligence and the Future of Education"
     excerpt: "The National Science Foundation (NSF) has announced that North Carolina State University will lead a new research initiative aimed at creating artificial intelligence (AI) tools to advance human learning and education for a wide variety of audiences."

@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Cansel Brings TinySurveyor Robot to Canada"
-excerpt: "GPS-guided mobile robot will help surveying, civil engineering and infrastructure professionals increase quality, efficiency and above all,"
-publishedDateTime: 2021-07-29T15:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cansel-brings-tinysurveyor-robot-to-canada-1030663408"
-webUrl: "https://markets.businessinsider.com/news/stocks/cansel-brings-tinysurveyor-robot-to-canada-1030663408"
+excerpt: "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada."
+publishedDateTime: 2021-07-29T15:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -46,6 +42,6 @@ related:
         height: 508
         isCached: true
 
-secured: "5B4QQdU2TMGcDChmmZ/bsCQ409IsxQdUVIxqkwGJ/YDXX7XrutaOlzoFRl9SuTfMzEzlnhV8nt53VfmA34vQyfCFo6JrBH+FLYvkWWACMpXBq56jY9zlf3YBdtVpueB120gzaFK18uWwBjPnqv0QjAZFVnsChz21zPbi5EuLDg80Fo9JFJGv+x6U8cYZ2e2BPX2bkPjfGesoOVzBPw2q5A8fMIdB7zHzGLqvOrAXnR3WVShGxXFDRaQyIneS5l/LbyJu+0TRq/82WaVvvjJa6PBZ7A1P4gryjUJq628FBV5jYF8Es093p6aduT2SW1qF2WqyvFBDR5wGA6Y0I2dqssW8iMAAWNi/Jv7aUjoAmXI=;+cN3INh5XjDOg3WRa+84Kg=="
+secured: "WtmVqKe/CEr3cLfGkNUHsMlFdcSH3d9vlV/qM3DCZaNSZ1bbnhHarq761XEFh12tYMKTVVJK0ujz1PWA9TJJPwPO0Ya1kGviOAeBRvzxw39S7SKgI0plK4okyVorveizDpvw1kjFpb9jneUD4JVlcneb9L0k5Hws02gtOj+/KMkuhiuT0xsMnK/8+bU4QxpY44jeL+jptD3iGOHkp8QQOUKZeh3lVzGvLj61ZzDJsAkByly9ZyPwmsnjPx32o+UDEQgZYJ9Pn6G/vxB8mBIAwUQbh7tvCLHj43diydLj7mtNJzlphrwFlBPGpcxmbtv9udNmDO6npNuM8On9jYTpJx/o/elqGFypgS7IMCKHAf4=;R+0XAd1983mUME244F+MEQ=="
 ---
 

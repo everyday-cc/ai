@@ -193,6 +193,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 23
+  - title: "Conversational AI Market Review: Big, Bright and Booming | Microsoft, Oracle, IBM, Google LLC, SAP ERP, Baidu"
+    excerpt: "The global Conversational AI Market size is expected to grow from USD XX billion in 2020 to USD 13.9 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 21.9% during the forecast period. Latest added Conversational AI Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
+    publishedDateTime: 2021-07-30T10:35:00Z
+    webUrl: "https://manometcurrent.com/conversational-ai-market-review-big-bright-and-booming-microsoft-oracle-ibm-google-llc-sap-erp-baidu/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 15
   - title: "Cognitive Analytics Solutions Market Size, CAGR | Key Players – IBM, Amazon Web Services, Google, Microsoft, Oracle, SAS Institute"
     excerpt: "The Cognitive Analytics Solutions Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market. Verified Market Report’s latest publication “Cognitive Analytics Solutions Market Research Report 2021-2028” provides an overview of the drivers and constraints that exist in the market."
     publishedDateTime: 2021-07-25T20:29:00Z

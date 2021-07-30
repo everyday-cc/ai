@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theglobeandmail.com/amp/business/article-how-robot-carpe
 cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/article-how-robot-carpenters-could-help-solve-canadas-housing-crisis/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -28,14 +28,14 @@ images:
 
 related:
   - title: "Cansel Brings TinySurveyor Robot to Canada"
-    excerpt: "GPS-guided mobile robot will help surveying, civil engineering and infrastructure professionals increase quality, efficiency and above all,"
-    publishedDateTime: 2021-07-29T15:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cansel-brings-tinysurveyor-robot-to-canada-1030663408"
+    excerpt: "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada."
+    publishedDateTime: 2021-07-29T15:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/1583655/Cansel_Cansel_Brings_TinySurveyor_Robot_to_Canada.jpg"
         width: 400

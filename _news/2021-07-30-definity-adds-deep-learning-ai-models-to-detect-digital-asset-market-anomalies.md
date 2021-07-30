@@ -1,29 +1,25 @@
 ---
 category: news
 title: "DeFinity adds deep-learning AI models to detect digital asset market anomalies"
-excerpt: "DeFinity, a DeFi marketplace for fiat foreign exchange, tokenised currencies, and central bank digital currencies (CBDC), partners with Axyon AI to enable the first ever use of Deep Learning-powered AI to detect market anomalies in the digital"
-publishedDateTime: 2021-07-30T05:34:00Z
-originalUrl: "https://www.lelezard.com/en/news-19927983.html"
-webUrl: "https://www.lelezard.com/en/news-19927983.html"
+excerpt: "the firm is specifically geared towards the future support of central bank digital currencies and decentralised financial services for FX. Axyon AI is a leading player in deep learning, the newest area of machine learning artificial intelligence ..."
+publishedDateTime: 2021-07-30T04:59:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/n22241200/definity-adds-deep-learning-ai-models-to-detect-digital-asset-market-anomalies"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/n22241200/definity-adds-deep-learning-ai-models-to-detect-digital-asset-market-anomalies"
+ampWebUrl: "https://www.benzinga.com/amp/content/22241200"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22241200"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Microsoft AI
+  - AI in Finance
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "JPnYvEtXOCfa8KeBqSuPIy18F6zwgKXYikbZP/izXnGU0Vzm1ui4+ouMHjXvPjVtkGrY9QLfNFhZv5f+ikPYeThmaY/FKNRAE0m+oawZJxPLWRko32Q3EaVi9BwNlVtzkBIpOisOfaeuOV6bUoGRqgz8h0XUvNBMkF4c/3A0X3nH22D4kMKRnJU3GTmtaPETKaYSUFQiFs8+hm8uubwe2vL/guknnfm6UAyU8aaNCRP+diKmcEkFdj2EJsefUcjqFkNt/e5hkxfppipP0r/zAZ5GmbAcHWsggE5CghcHuNii09PnIbuXFzt3W5QajMUVdHMaKGP90mDQydP7gtIcg013cXLVbBy+Ay8AP/dODDQ=;4L+BseT/xZ0ga4PIMFxxyA=="
+secured: "0bO4NwcvZo4tHQk3/eLK/EQtAcopfnVN8kp6nQTG2UhWG4j+0poEK23BO2v6khy6mXBhmZf15uEe9jER+YGuODhEOehwft86L8phcMhKQp3TTTJq6LNVLyMCF9g6I4hzEe588yEUXDy85IaagHHM0MwT7tRkizKQJV5MCqQ78PqW2aFPXZzWIub33u5sSwJzW19SqJgmed+Q8YtUc5tQTGmBMqjdLPMf2ANKXFoTs3tBscYEB94jI15M/WToHAiRa075pDGNtj70lNBfSDq1c9XngFw/9pPgh2RQ+EzTuS4U9/pirqdJHzHJ/Y6dgiA7pEvMCg2Z1NI31gwUcy/lKrLdc7CUDCBkQW7kuIg0dqI=;aPNgEtIpYv+oay8lYf97Ig=="
 ---
 

@@ -2,49 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2021-07-13-gm-ventures-increases-funding-in-ai-vision-software-company-algolux.md",
-      "title": "GM Ventures Increases Funding In AI Vision Software Company Algolux",
-      "excerpt": "Algolux, an AI software company based out of Quebec, has announced the closure of series B funding, raising $18.4 million to help accelerate market adoption of the company’s scalable computer vision and image optimization solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/",
-      "originalUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gmauthority.com/blog/wp-content/uploads/2021/01/Cruise-Origin-Honda-Japan-autonomous-vehicle-mobility-service-MaaS-announcement-002-e1611168765981-1024x553.jpg",
-          "width": 1024,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/",
-      "cdnAmpWebUrl": "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/",
-      "publishedDateTime": "2021-07-12T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GM Authority",
-        "domain": "gmauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-global-automatic-voice-speech-recognition-software-market-2021-segmentation-statistics-top-manufacturers-regional-analysis-and-forecast.md",
       "title": "Global Automatic Voice & Speech Recognition Software Market 2021 Segmentation, Statistics, Top Manufacturers, Regional Analysis and Forecast to 2026",
       "excerpt": "The latest market research report titled Global Automatic Voice & Speech Recognition Software Market 2021 by Company, Regions, Type and Application, Forecast to 2026 enfolds expansive evaluation of the market offering an analysis of the market revenue,",
@@ -1167,6 +1124,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-the-self-driving-race-between-elon-musks-tesla-and-dominos-pizza-robots.md",
+      "title": "The self-driving race between Elon Musk's Tesla and Domino's pizza robots",
+      "excerpt": "Elon Musk has talked up full self-driving for years, but missed many deadlines. Some are betting the big progress in autonomous vehicles: delivering pizza.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
+      "originalUrl": "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106907169-1625602487443-rev1.jpg?v=1625667387",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
+      "publishedDateTime": "2021-07-12T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

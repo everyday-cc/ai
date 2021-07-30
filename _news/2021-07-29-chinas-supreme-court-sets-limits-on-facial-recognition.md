@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://moneyinc.com/wp-content/uploads/2021/03/shutterstock_1108648043-e1614688904492.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "China built the world’s largest facial recognition system. Now, it’s getting camera shy."
+    excerpt: "Now, China is putting its freewheeling facial recognition industry on notice. Citing Guo’s case, China’s top court announced this week that consumers’ privacy must be protected from unwarranted face tracking."
+    publishedDateTime: 2021-07-30T10:56:00Z
+    webUrl: "https://www.washingtonpost.com/world/facial-recognition-china-tech-data/2021/07/30/404c2e96-f049-11eb-81b2-9b7061a582d8_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 32
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SEBGM2XRAMI6XJCSJWS74SCYFU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "V34gY0XcrwaoWTWyH8lZy3rBJZV029hjwE183KWdDGDVK0eEmELDDphMKZniR+o1Mpg/rjKLu3Qr5+VeTFBd2GKiAkHYSKvsf8MG0tvnUguelMQ4Md+9c3aZVLar7q24WETEhGfMyp+4Bkm2qLKpQQf0j93+fuSnKlgcim27mKBL7s8d4/0zhZrsWTCvfwrWglgXDzGFrGxDAdS5Yek4dJL0q+YhE1ThFEiGFRsigOgzO/JTvEE5K7uhATUyiUGqbok815OxRqdVvB9G3YDbwTCgq54f3Ql8Ap9FXLZ2YOw+asMOuxzVO7yBpVltRMggnjhrh5dQjhgYhlOMp82Ta9xI+4IBqUJSZy1GTzfrOooLkZ0h6M9g3LfjoDHXBU6+0fvGkewkO4tsCdlaX5JUGCWzkY+EfA+cv9DfrewHtFitYMJnAu99Nm4e1B6ylDoK7xpXHVM4mjyidVCMjDn7t662JMx3gmkAqn7meUQFYBXYXO4JGmsz3ERt3c5PXjJ7q0TIx3y6sVirHEL6QLKYvg==;WA51QDh1MdwXZwjri9TpAg=="

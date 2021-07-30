@@ -55,6 +55,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Self-driving cars deliver food from Chandler nonprofit to Gilbert seniors"
+    excerpt: "A fleet of bright blue wrapped autonomous vehicles are hitting the streets in the East Valley to help a nonprofit deliver meals to seniors."
+    publishedDateTime: 2021-07-30T11:05:00Z
+    webUrl: "https://ktar.com/story/4595022/self-driving-cars-deliver-food-from-chandler-nonprofit-to-gilbert-seniors/"
+    ampWebUrl: "https://ktar.com/story/4595022/self-driving-cars-deliver-food-from-chandler-nonprofit-to-gilbert-seniors/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4595022/self-driving-cars-deliver-food-from-chandler-nonprofit-to-gilbert-seniors/amp/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 43
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2021/07/Photo-1.jpg"
+        width: 620
+        height: 370
+        isCached: true
   - title: "Faith in Self-Driving, Ride-Hailing Vehicles Depends on Age"
     excerpt: "When self-driving cars first showed up, they were hailed as a way for seniors to remain active and independent without needed to be able to drive. After some initial skepticism by many, attitudes are changing,"
     publishedDateTime: 2021-07-27T16:07:00Z

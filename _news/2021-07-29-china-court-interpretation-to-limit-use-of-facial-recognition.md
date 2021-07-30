@@ -139,6 +139,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "China built the world’s largest facial recognition system. Now, it’s getting camera shy."
+    excerpt: "Now, China is putting its freewheeling facial recognition industry on notice. Citing Guo’s case, China’s top court announced this week that consumers’ privacy must be protected from unwarranted face tracking."
+    publishedDateTime: 2021-07-30T10:56:00Z
+    webUrl: "https://www.washingtonpost.com/world/facial-recognition-china-tech-data/2021/07/30/404c2e96-f049-11eb-81b2-9b7061a582d8_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 32
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SEBGM2XRAMI6XJCSJWS74SCYFU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "oaBlIhLZcnOm/ktA2E1+8i7vJesabz57Nil8GljnuhiIJEqAN1dNDA8aYxZg3ek9hpeubhs3yD22FL/VC4XuW/0ybwgACYmLiNpSIQQKzNd9AVoRts84tD/9TA+7rdRokZ2RGJxbxy0cSuaO8NGUFqh/NfIfvl4Fq0gPf0lMU9mex3rUPydVospUWflpKb2/EPvotVe5f3dHtgcWGdZJ6xDGZtTmMNRW6Jhp9TdGGl3h+AmvdQvFg5ayuCHUQmxPbBdxEbn925bIc6KMx5DWR9N1ZsajB28J/KbAwElwpS5WU2SMESYR4ppB4hscDrU9ZkrjLVOqyzf5laqmorfqy5CGPVxtyhsDBqoJB2DoXJGUMAEjb2/W6hT/UYyldn16RcIbNJycjotCFHib3Orr1FrArvWbDK4sq+OGky1orUimlqfGYb67SVGN7l21JS/n0oUNObSlIwEPI98fAs2cK5EllVEL2gXbaBCKs7oUUTX1tpB2Xlm47KPTxBv+g47W1jepK9qIyEEUUORv6n2yXw==;hC7QOGWGosp+jg/xF0pk/A=="
 ---
