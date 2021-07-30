@@ -121,6 +121,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Computer Vision Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "The Global Artificial Intelligence AI in Computer Market Vision estimated at US 7 3 Billion in the year 2020 is projected to reach a revised size of US 84 4 Billion by 2027 growing at a CAGR of 41 over"
+    publishedDateTime: 2021-07-30T14:59:00Z
+    webUrl: "https://www.openpr.com/news/2342371/ai-in-computer-vision-market-2021-growth-covid-impact-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2342371/ai-in-computer-vision-market-2021-growth-covid-impact-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342371/ai-in-computer-vision-market-2021-growth-covid-impact-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 48
   - title: "Robot as a Service Market to Reach US$ 41.3 Billion by 2028"
     excerpt: "The global Robot as a Service market was valued at US$ 12.6 billion in 2020 and is expected to surpass US$ 41.3 billion by 2028, registering a CAGR of 15.9% during the forecast period (2021-2028), as highlighted in a report published by Coherent Market Insights."
     publishedDateTime: 2021-07-28T16:07:00Z

@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "TuSimple's self-driving trucks to use Ryder sites as terminals"
-    excerpt: "Ryder's network will enable TuSimple to rapidly scale up its freight system without having to invest heavily in its own terminals."
-    publishedDateTime: 2021-07-29T13:07:00Z
-    webUrl: "https://www.autonews.com/mobility-report/tusimples-self-driving-trucks-use-ryder-sites-terminals"
+  - title: "Huawei removes self-driving car chief after remarks about Tesla 'killing' people go viral on social media"
+    excerpt: "Chinese telecoms giant Huawei Technologies Co has removed the executive in charge of its smart driving unit after he sparked controversy by telling a conference audience that the self-driving technology used by Tesla was “killing” people."
+    publishedDateTime: 2021-07-30T04:57:00Z
+    webUrl: "https://www.asiaone.com/digital/huawei-removes-self-driving-car-chief-after-remarks-about-tesla-killing-people-go-viral"
+    ampWebUrl: "https://www.asiaone.com/digital/huawei-removes-self-driving-car-chief-after-remarks-about-tesla-killing-people-go-viral?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/huawei-removes-self-driving-car-chief-after-remarks-about-tesla-killing-people-go-viral?amp"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Asia One
+      domain: asiaone.com
+    quality: 42
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TUSIMPLE-MAIN_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/20210730_tesla_reuters.jpg?itok=Y6aNnute"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "nSSo4sbsEuq0Xr8mzOm1RS7BKo24gySOteL7+rgSXTu86JOqGIfjxFtEm3H6h+jIbU1laikncwsKomYEJEVVHn3xCw6WZ9dvlGjudmqcnDd5aqxO99kSKKoYfZraEgtJxjT4ur0V0n5Rd3gk7cpfuOanIwgskeTjCMXpn8HZGd5FcMwGvbf9cXLL0/Em1/K+G0JBbEFh4XAbjMKyVuAUTeZAhwX+KKhPMo9Gl5KLq0FBSlT57lsXqlgGED+MDZyCD+pCgtEgMdjFvTeiN4x3DXno7yEVc9xy+Zo/EYMUMIU1JrnRPCsrn7E24ruGoM8lx8KEvKJ0XKHm5Fy3Q0iVg/FYkIZJ65LeiLBCGT0uAV4=;jg3CxeiUY+boDZ+8EHj+Dg=="

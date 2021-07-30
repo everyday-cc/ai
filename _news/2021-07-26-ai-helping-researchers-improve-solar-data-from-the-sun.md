@@ -150,6 +150,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "SA first to award patent recognising artificial intelligence as inventor"
+    excerpt: "An artificial intelligence has invented a food container with a practical adaption for the transfer of heat into and out of the container."
+    publishedDateTime: 2021-07-30T14:18:00Z
+    webUrl: "https://www.timeslive.co.za/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 58
+    images:
+      - url: "https://lh3.googleusercontent.com/CS1UTZk59JN31DyaVgUuAi6XLPrzfb_ppy-GcAyEjcetYRarjZc_cwAS1LmVVSMOWcJETzDKnK3oizDBZyBtLb5AtpVORRbL=s1000"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "AI driving the future of in-car systems"
     excerpt: "Carmakers are bracing for new safety rules and standards around the world that could require dashboard cameras to detect dangerous driver behavior."
     publishedDateTime: 2021-07-27T00:18:00Z

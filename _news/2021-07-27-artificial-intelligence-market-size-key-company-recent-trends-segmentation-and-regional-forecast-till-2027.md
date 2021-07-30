@@ -111,6 +111,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 53
+  - title: "AI In Computer Vision Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "The Global Artificial Intelligence AI in Computer Market Vision estimated at US 7 3 Billion in the year 2020 is projected to reach a revised size of US 84 4 Billion by 2027 growing at a CAGR of 41 over"
+    publishedDateTime: 2021-07-30T14:59:00Z
+    webUrl: "https://www.openpr.com/news/2342371/ai-in-computer-vision-market-2021-growth-covid-impact-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2342371/ai-in-computer-vision-market-2021-growth-covid-impact-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342371/ai-in-computer-vision-market-2021-growth-covid-impact-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 48
   - title: "Latest Artificial Intelligence Trends for Enterprises"
     excerpt: "Artificial Intelligence technology is developing for better enterprise processes and user convenience. These latest AI trends are aligning AI into the right direction."
     publishedDateTime: 2021-07-27T04:15:00Z

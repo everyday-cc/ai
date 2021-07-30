@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/"
 type: article
 quality: 106
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -139,6 +139,22 @@ related:
       - url: "https://images.perthnow.com.au/publication/C-3515265/6bbe09f178da49e5451814198832feb73ebb286a-16x9-x0y0w1280h720.jpg?imwidth=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "SA first to award patent recognising artificial intelligence as inventor"
+    excerpt: "An artificial intelligence has invented a food container with a practical adaption for the transfer of heat into and out of the container."
+    publishedDateTime: 2021-07-30T14:18:00Z
+    webUrl: "https://www.timeslive.co.za/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 58
+    images:
+      - url: "https://lh3.googleusercontent.com/CS1UTZk59JN31DyaVgUuAi6XLPrzfb_ppy-GcAyEjcetYRarjZc_cwAS1LmVVSMOWcJETzDKnK3oizDBZyBtLb5AtpVORRbL=s1000"
+        width: 1000
+        height: 667
         isCached: true
   - title: "AI helping researchers improve solar data from the Sun"
     excerpt: "Researchers are utilising artificial intelligence (AI) techniques to calibrate some of NASA's images of the Sun, helping improve the data that scienti.."
