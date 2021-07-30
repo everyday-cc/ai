@@ -4,6 +4,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_people/jean-liu.md",
+      "title": "Jean Liu",
+      "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jean-liu/index.json",
+      "webUrl": "https://everyday.cc/ai/people/jean-liu/",
+      "type": "profile",
+      "name": "Jean Liu",
+      "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+      "location": "Beijing, China",
+      "twitter": {
+        "username": "jeanliuqing",
+        "url": "https://twitter.com/jeanliuqing",
+        "followers": 1348
+      },
+      "weibo": {
+        "url": "https://www.weibo.com/u/2209030102",
+        "followers": 1906714
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Liu_Qing_(businesswoman)"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Jean Liu",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/john-krafcik.md",
       "title": "John Krafcik",
       "excerpt": "We're building the world's most experienced driver.",
@@ -55,7 +93,7 @@
       "twitter": {
         "username": "rajatmonga",
         "url": "https://twitter.com/rajatmonga",
-        "followers": 14209
+        "followers": 14208
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rajatmonga/"
@@ -393,7 +431,7 @@
       "twitter": {
         "username": "smolix",
         "url": "https://twitter.com/smolix",
-        "followers": 17349
+        "followers": 17348
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
@@ -460,50 +498,6 @@
           "width": 400,
           "height": 400,
           "title": "Andrew Moore",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/clement-farabet.md",
-      "title": "Clément Farabet",
-      "excerpt": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/clement-farabet/index.json",
-      "webUrl": "https://everyday.cc/ai/people/clement-farabet/",
-      "type": "profile",
-      "name": "Clément Farabet",
-      "bio": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "location": "San Francisco, CA",
-      "website": "http://www.clement.farabet.net/",
-      "twitter": {
-        "username": "clmt",
-        "url": "https://twitter.com/clmt",
-        "followers": 11010
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/clementfarabet"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
-        "citations": 9035
-      },
-      "affiliation": {
-        "path": "",
-        "name": "nyu.edu - Homepage",
-        "domain": "nyu.edu - Homepage"
-      },
-      "topics": [
-        "AI",
-        "AI in Hardware"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/953003983307550720/GhDHdn42_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Clément Farabet",
           "isCached": true
         }
       ],
@@ -1030,7 +1024,7 @@
       "twitter": {
         "username": "huahaiy",
         "url": "https://twitter.com/huahaiy",
-        "followers": 973
+        "followers": 971
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/huahaiyang/"
