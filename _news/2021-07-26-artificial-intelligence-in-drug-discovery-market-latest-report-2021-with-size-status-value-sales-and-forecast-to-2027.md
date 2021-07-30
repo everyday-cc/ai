@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Trends and Forecast 2028"
-    excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 58.6 billion by 2028 finish at a CAGR of over 44.8% throughout the forecast from 2021 to 2028. This rapid growth is largely driven by the increasing adoption of AI in hospitals and clinics,"
-    publishedDateTime: 2021-07-28T12:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-and-forecast-2028-2021-07-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
   - title: "Deep Learning Market by Solutions & Services - Size, Share, Growth, Trends and Forecasts 2027"
     excerpt: "Global Deep Learning Market Research Report- Forecast till 2027 The global deep learning market is growing at a rapid"
     publishedDateTime: 2021-07-27T13:12:00Z

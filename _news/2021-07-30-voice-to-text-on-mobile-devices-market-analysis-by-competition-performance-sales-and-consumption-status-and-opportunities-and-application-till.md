@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Speech & Voice Recognition Systems Market 2021 Business Outlook with COVID-19 Scenario to 2026"
+    excerpt: "The global research report titled Global Speech & Voice Recognition Systems Market 2021 by Company, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz is prepared with a nice combination of industry insight,"
+    publishedDateTime: 2021-07-26T03:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-systems-market-2021-business-outlook-with-covid-19-scenario-to-2026-2021-07-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Natural Language Processing in BFSI Market 2021 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2026"
     excerpt: "Global Natural Language Processing in BFSI Market 2021 by Company, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz methodically compiles the principal components of the market study."
     publishedDateTime: 2021-07-26T01:56:00Z

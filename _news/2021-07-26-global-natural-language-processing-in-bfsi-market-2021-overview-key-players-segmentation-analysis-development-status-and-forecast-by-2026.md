@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-2021-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2026-2021-07-25"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Speech & Voice Recognition Systems Market 2021 Business Outlook with COVID-19 Scenario to 2026"
+    excerpt: "The global research report titled Global Speech & Voice Recognition Systems Market 2021 by Company, Regions, Type and Application, Forecast to 2026, recently published by MarketsandResearch.biz is prepared with a nice combination of industry insight,"
+    publishedDateTime: 2021-07-26T03:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-systems-market-2021-business-outlook-with-covid-19-scenario-to-2026-2021-07-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive voice recognition system Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Automotive voice recognition system market is expected to grow at a significant CAGR in the period from 2021 to 2027 The expanding trend of driverless vehicles OEM integration of many electronics functions in the central console of the car"
     publishedDateTime: 2021-07-28T13:04:00Z

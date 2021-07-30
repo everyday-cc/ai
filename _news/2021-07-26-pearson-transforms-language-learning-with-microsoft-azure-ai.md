@@ -25,158 +25,183 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Powering Modern Banking Transformation"
-    excerpt: "By John Ashley, General Manager, Financial Services and Technology, NVIDIA AI is enabling digital transformation across the financial services industry, from fintech and investment firms to commercial and retail banks."
-    publishedDateTime: 2021-07-26T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/"
-    ampWebUrl: "https://www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/amp/"
+  - title: "AI in Healthcare Market Is Booming Worldwide with Google, IBM, Microsoft, Sentrian"
+    excerpt: "The Global AI in Healthcare Market has witnessed continuous growth in the past few years and may grow further during the forecast period 2021 2026 A Latest intelligence report published by AMA Research with title AI in Healthcare Market Outlook"
+    publishedDateTime: 2021-07-27T16:41:00Z
+    webUrl: "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: openpr.com
+      domain: openpr.com
+    quality: 85
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f9de4811cbbaa786e3911b%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.openpr.com/U/7/U727806452_g.jpg"
+        width: 800
+        height: 426
         isCached: true
-  - title: "Perfecting mapping with AI and machine learning"
-    excerpt: "Across the world, mapping technology with Artificial Intelligence (AI) and machine learning allow users to have a variety of choices on their travels. Be"
-    publishedDateTime: 2021-07-29T00:50:00Z
-    webUrl: "https://techwireasia.com/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
+  - title: "What Microsoft’s Nuance Acquisition Means for the Healthcare Industry"
+    excerpt: "The purchase gives the tech giant access to advanced speech recognition and artificial intelligence technology and expands its presence within the healthcare space."
+    publishedDateTime: 2021-07-27T20:18:00Z
+    webUrl: "https://healthtechmagazine.net/article/2021/07/what-microsofts-nuance-acquisition-means-healthcare-industry"
+    ampWebUrl: "https://healthtechmagazine.net/article/2021/07/what-microsofts-nuance-acquisition-means-healthcare-industry?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/07/what-microsofts-nuance-acquisition-means-healthcare-industry?amp"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 74
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 76
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/000_9DK4N2-450x300.jpg"
-        width: 450
-        height: 300
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202107/microsoft-nuance.jpg?itok=VEp_fzYD"
+        width: 1440
+        height: 500
         isCached: true
-  - title: "Understanding Contextual AI In The Modern Business World"
-    excerpt: "Exploring emerging technologies and those with features that can adapt will help meet this modern world head-on."
-    publishedDateTime: 2021-07-26T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/07/26/understanding-contextual-ai-in-the-modern-business-world/"
+  - title: "Design for responsible AI with Microsoft’s HAX"
+    excerpt: "At the heart of HAX is a set of guidelines built from 18 best practices that you can use to guide interactions between users and your systems. They’re presente"
+    publishedDateTime: 2021-07-28T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3626696/design-for-responsible-ai-with-microsoft-hax.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 64
+  - title: "Voice And Speech Recognition Software Market is Booming Worldwide | Microsoft, Alphabet, Voicevault"
+    excerpt: "The latest study released on the Global Voice And Speech Recognition Software Market by AMA Research evaluates market size trend and forecast to 2026 The Voice And Speech Recognition Software Market study covers significant research data and proofs to be"
+    publishedDateTime: 2021-07-28T07:31:00Z
+    webUrl: "https://www.openpr.com/news/2339275/voice-and-speech-recognition-software-market-is-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2339275/voice-and-speech-recognition-software-market-is-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339275/voice-and-speech-recognition-software-market-is-booming"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 64
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60facdc5d1bfbd82bc8f0946%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.openpr.com/U/7/U728879201_g.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Catching the artificial intelligence buzz"
-    excerpt: "The federal minister for the digital economy, Jane Hume, will deliver a speech on Tuesday setting out how the government is backing artificial intelligence."
-    publishedDateTime: 2021-07-26T17:33:00Z
-    webUrl: "https://www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265"
-    ampWebUrl: "https://www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265.amp"
-    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265.amp"
+  - title: "Artificial Intelligence in Education Market May See Big Move | Jenzabar, Microsoft, Century-Tech, Pearson"
+    excerpt: "COVID-19 Outbreak-Global Artificial Intelligence (AI) in Education Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market risk side analysis,"
+    publishedDateTime: 2021-07-28T14:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-education-market-may-see-big-move-jenzabar-microsoft-century-tech-pearson"
     type: article
     provider:
-      name: Perth Now
-      domain: perthnow.com.au
-    quality: 59
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 56
     images:
-      - url: "https://images.perthnow.com.au/publication/C-3515265/6bbe09f178da49e5451814198832feb73ebb286a-16x9-x0y0w1280h720.jpg?imwidth=1200"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/DDD-3-2-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Lanner Partners with Microsoft to Deliver Edge-to-Cloud AI Deployments"
+    excerpt: "Lanner Electronics announced its partnership with Microsoft Azure to launch Edge-to-Cloud AI Solution, integrating Lanner AI accelerated intelligent edge appliance with Azure IoT edge module, runtime and cloud interface."
+    publishedDateTime: 2021-07-27T15:52:00Z
+    webUrl: "https://www.automation.com/en-us/articles/july-2021/lanner-partners-microsoft-deliver-edge-cloud-ai"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 54
+    images:
+      - url: "https://www.automation.com/getmedia/6004257e-da72-452a-ba30-b0d426f4f6f8/Lanner-news-July-27-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "Lanner Partners with Microsoft to Deliver Edge-to-Cloud AI Deployments"
+    excerpt: "Lanner Electronics, a global leader in the design and manufacturing of intelligent edge computing appliances, announced today its partnership with Microsoft Azure to launch Edge-to-Cloud AI Solution,"
+    publishedDateTime: 2021-07-27T20:47:00Z
+    webUrl: "https://www.automationworld.com/supplier-news/news/21578545/lanner-electronics-lanner-partners-with-microsoft-to-deliver-edgetocloud-ai-deployments"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 54
+    images:
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/07/44019_Banner__1.610070cca981d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Catching the artificial intelligence buzz"
-    excerpt: "Backpacks to track bees, bushfire modelling and sensors to detect broken water pipes are some of the technologies being developed in Australia as part of an"
-    publishedDateTime: 2021-07-26T16:00:00Z
-    webUrl: "https://www.canberratimes.com.au/story/7358148/catching-the-artificial-intelligence-buzz/"
+  - title: "Company-X wows Microsoft with AI-powered medical diagnostic app"
+    excerpt: "A prototype app using Microsoft Azure's artificial intelligence to diagnose pneumonia has won its developer an international award."
+    publishedDateTime: 2021-07-29T00:34:00Z
+    webUrl: "https://www.reseller.co.nz/article/690140/company-x-wows-microsoft-ai-powered-medical-diagnostic-app/"
     type: article
     provider:
-      name: The Canberra Times
-      domain: canberratimes.com.au
-    quality: 39
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
     images:
-      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/6f78c94e-5081-42b7-bc96-9cd824c8399d.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/jiadong_chen_1.jpg"
         width: 800
-        height: 452
+        height: 531
         isCached: true
-  - title: "How AI Is Expediting Medicine Development"
-    excerpt: "The world of big data in the healthcare sector is vast and growing exponentially. Tools that leverage artificial intelligence (AI) and machine learning (ML) are critical to organizing, correlatin"
-    publishedDateTime: 2021-07-28T05:00:00Z
-    webUrl: "https://www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.html"
-    ampWebUrl: "https://www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.amp.html"
-    cdnAmpWebUrl: "https://www-realclearmarkets-com.cdn.ampproject.org/c/s/www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.amp.html"
+  - title: "Verified AI-900 Dumps - Prepare Your Microsoft AI-900 Exam In Short Period"
+    excerpt: "Use ExamsSpy verified Microsoft AI-900 dumps and get AI-900 exam success in first attempt. IT Industry is developing and evolving leaps and bounds every single day. To keep up with the demands of the industry and to stay ahead of the competition,"
+    publishedDateTime: 2021-07-27T14:42:00Z
+    webUrl: "https://www.madinamerica.com/author/verified-ai-900-dumps/"
     type: article
     provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 39
-  - title: "Overview of Transformation in Radiology Through Artificial Intelligence"
-    excerpt: "Multiple industries are harnessing Artificial Intelligence to boost productivity. This article lays an overview on how radiology departments in hospitals or clinics have started transforming with AI models and radiomics for radiologists."
-    publishedDateTime: 2021-07-28T15:30:00Z
-    webUrl: "https://www.analyticsinsight.net/overview-of-transformation-in-radiology-through-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 52
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Overview-on-Transformation-in-Radiology-through-Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
+      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
         isCached: true
-  - title: "Baidu head predicts transformation in AI tech"
-    excerpt: "In the next decade, eight key technologies in the field of artificial intelligence will undergo a \"quantitative to qualitative transformation\" and thus profoundly change society, said Robin Li, co-founder and CEO of internet search giant Baidu Inc."
-    publishedDateTime: 2021-07-29T09:21:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202107/29/WS61027330a310efa1bd66555c.html"
+  - title: "Artificial Intelligence in IoT Market Size, CAGR | Key Players – IBM, Microsoft, Google, PTC, AWS, Oracle"
+    excerpt: "The Artificial Intelligence in IoT Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market."
+    publishedDateTime: 2021-07-25T23:37:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-iot-market-size-cagr-key-players-ibm-microsoft-google-ptc-aws-oracle/"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202107/29/61027330a310efa1e3b2807e.jpeg"
-        width: 440
-        height: 293
-        isCached: true
-  - title: "Why Artificial Intelligence Implementation is Lagging in International Shipping"
-    excerpt: "The long-term benefits of including AI-powered systems in logistics and supply chain operations are well known."
-    publishedDateTime: 2021-07-25T18:59:00Z
-    webUrl: "https://www.bbntimes.com/technology/why-artificial-intelligence-implementation-is-lagging-in-international-shipping"
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
+  - title: "Artificial Intelligence in Precision Farming Market Giants Spending Is Going to Boom | Microsoft, IBM, Intel, SAP"
+    excerpt: "The report presents an in-depth assessment of the Artificial Intelligence (AI) in Precision Farming Market including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
+    publishedDateTime: 2021-07-28T09:37:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-precision-farming-market-giants-spending-is-going-to-boom-microsoft-ibm-intel-sap/"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 35
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Why_Artificial_Intelligence_Implementation_is_Lagging_in_International_Shipping.jpg"
-        width: 1620
-        height: 1080
-        isCached: true
-  - title: "Action Mode: Now, an Artificial Intelligence model for disaster risk prediction"
-    excerpt: "A model solution has been developed under the Microsoft AI for Humanitarian Action programme to build disaster resilient communities in India"
-    publishedDateTime: 2021-07-27T13:43:00Z
-    webUrl: "https://www.financialexpress.com/industry/action-mode-now-an-artificial-intelligence-model-for-disaster-risk-prediction/2298871/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
+      name: manometcurrent.com
+      domain: manometcurrent.com
     quality: 33
     images:
-      - url: "https://images.financialexpress.com/2021/06/Artificial-intelligence.jpg"
-        width: 1200
-        height: 800
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/PR-10-Agriculture.jpg"
+        width: 640
+        height: 400
         isCached: true
-  - title: "Use of Artificial Intelligence in Banking World today"
-    excerpt: "But the development of the financial system didn’t stop here, as the digital age is opening up new opportunities — the use of Artificial Intelligence in banking and financial institutions. By 2023, banks are projected to save approximately $447 billion by developing and implementing AI applications."
-    publishedDateTime: 2021-07-29T18:28:00Z
-    webUrl: "https://www.finextra.com/blogposting/20688/use-of-artificial-intelligence-in-banking-world-today"
+  - title: "Cloud AI Market 2021-2027 is Outperforming | Evolving Players – Amazon Web Services, Microsoft, Google LLC, IBM, Intel, Nvidia"
+    excerpt: "The Cloud AI Market was valued at USD XX billion in 2020 and is expected to reach USD 13.1 billion by 2027, registering a CAGR of 20.3%, during the period of 2021-2027. At present, the market is sharping its presence and some of the key players in the study are Amazon Web Services Inc."
+    publishedDateTime: 2021-07-26T13:20:00Z
+    webUrl: "https://manometcurrent.com/cloud-ai-market-2021-2027-is-outperforming-evolving-players-amazon-web-services-microsoft-google-llc-ibm-intel-nvidia/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 23
+  - title: "Text-To Speech Market 2021 Long-term Outlook Remains Positive | Microsoft Corporation, IBM Corporation, Google, Sensory"
+    excerpt: "The Text-To Speech Market was valued at USD XX billion in 2020 and is estimated to reach USD 5.0 billion by 2027, registering a CAGR of 14.6% during the forecast period. Latest added Text-To Speech Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
+    publishedDateTime: 2021-07-26T16:50:00Z
+    webUrl: "https://manometcurrent.com/text-to-speech-market-2021-long-term-outlook-remains-positive-microsoft-corporation-ibm-corporation-google-sensory/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 12
+  - title: "Cognitive Analytics Solutions Market Size, CAGR | Key Players – IBM, Amazon Web Services, Google, Microsoft, Oracle, SAS Institute"
+    excerpt: "The Cognitive Analytics Solutions Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market. Verified Market Report’s latest publication “Cognitive Analytics Solutions Market Research Report 2021-2028” provides an overview of the drivers and constraints that exist in the market."
+    publishedDateTime: 2021-07-25T20:29:00Z
+    webUrl: "https://manometcurrent.com/cognitive-analytics-solutions-market-size-cagr-key-players-ibm-amazon-web-services-google-microsoft-oracle-sas-institute/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 6
 
 secured: "TmFeeL3NbbDqdMm10ROptnrYuiVXh0QI7fCBUS/wy5fiKOYGpLPwX2pahIVbRBip+8qE6CFBRhMmnjNdpYpWaffBIL9PXsewU5ejebTYmieex+v7IOkEJqhLRSlA0bg82vKWZ3GRSt/fX8lCYjO6SxTL05tDjNgU/vibCAMiSgOXQX15gUkSg5EJgM4QLijf60bCCSvj4tM7Wbxb2Qiqrao0QXCvFQtxurlS2lDVpAEORmCgEsCx8Vw7XPom5IXze+qtlgzezhqLGPgpNnlVtbNz5NVcMtT8LL6I7I1jWMf6gIvOMeLu/2mZoi9mLuvZvHVNxzZECteBpq0tHoPeFOQRBnopVqDDKZIP4IWDyVJZBdmAmRDEs+Dmg28wN19QB1qdsxVGiHe9zzYZavVdfQjpdMpO04aUOQg1G/aAImz1v6DMmYDgO9KiFIl2rTz5wP58OpeVrSDnve+io2ljdsdegXaoWlzgE6Nu5r0EGCxTNeG56WOX8ilcucBtCWPXHRxw+XeVgVZKW9KdsciyFg==;cWc3IeU8xpzzHKVM9FoFsA=="
 ---

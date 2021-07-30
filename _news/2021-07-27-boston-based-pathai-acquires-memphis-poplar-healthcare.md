@@ -35,17 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "PathAI acquires Poplar Healthcare, highlighting AI’s role in medical diagnoses"
-    excerpt: "PathAI, a Boston-based health technology startup, said on Monday that it has acquired Poplar Healthcare, one of the country’s largest pathology labs, as the company seeks to provide doctors a quicker way to diagnose medical ailments through use of its software."
-    publishedDateTime: 2021-07-26T11:00:00Z
-    webUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 50
 
 secured: "oIjzqDx3QhlHzAD3tW6Ztvgf4VjaDgfygz4HVWBhfvHzn/CdE5x6AsaxRvgf5++n7Y6Bx/pwJGcUfOVS9GKan+JcDkRGvveqwXil0XLcjsLtZIAijy4vKXEj/9/6V69zP2183+teLbtNJ7Uuztq1fZaYCtkaYBgQ4ph3+GsKMoqOa6rQ2TThlHrLwRwvQUw6FRf6gwtLZ0KCt1/E2f5Iu2n3egIrOTIRCo3lYOhMe9c9o/Zzq8boNlZGqZV8DYHZHl/bJNnlA+xvGttRad8r9lCnhrI+8S50CuCPjaRcKbtKQJMNfztTcBM/5BeI1WtjMbybrctaoKOuKLG0qtY1ypG59u2IX9c/tAl2vFG2TSJdiuqiBJlK6p97ctFe5GHNDdOBccUDQHqryzrUl1w+W9feXtU3BfHx8L2eF8U2qjQUzcWTLRvEFh2/jSb/iWsaafrHH1S3V+ywGhBcegN+JcGwOYtsl9ykwy2IsAOMO8BmBkGkUsYoRYoCf1QtiSaaZp8Ve3E/HzmBWcCgPv++6A==;QphVwKI9K/IotHnhHk785g=="
 ---

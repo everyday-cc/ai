@@ -23,52 +23,96 @@ topics:
   - AI
 
 related:
-  - title: "AI in Computer Vision Market Trends and Forecast 2028"
-    excerpt: "The Global AI in Computer Vision Market is estimated to value over USD 72.5 billion by 2028 finish at a CAGR of"
-    publishedDateTime: 2021-07-28T12:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-trends-and-forecast-2028-2021-07-28"
+  - title: "Healthcare AI Market Next Big Thing"
+    excerpt: "Latest released Global Healthcare AI Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price, and sales revenue to better derive market size estimation."
+    publishedDateTime: 2021-07-29T22:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in BFSI Market Trends and Forecast 2028"
-    excerpt: "The Global Artificial Intelligence in BFSI Market is estimated to value over USD 304.7 billion by 2028 finish at"
-    publishedDateTime: 2021-07-28T14:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-trends-and-forecast-2028-2021-07-28"
+  - title: "Computer Vision in Artificial Intelligence (AI) Market Next Big Thing : Major Giants Apple, NVIDIA, Facebook, Cognex"
+    excerpt: "The \" Computer Vision in Artificial Intelligence (AI) – Market Development Scenario \" Study has been added to HTF"
+    publishedDateTime: 2021-07-29T02:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-next-big-thing-major-giants-apple-nvidia-facebook-cognex-2021-07-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 76
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Medicine Market Trends and Forecast 2028"
-    excerpt: "The Global Artificial Intelligence in Medicine Market is estimated to value over USD 24.6 billion by 2028 finish"
-    publishedDateTime: 2021-07-28T14:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-and-forecast-2028-2021-07-28"
+  - title: "Hiding malware inside AI neural networks"
+    excerpt: "A trio of researchers at Cornell University has found that it is possible to hide malware code inside of AI neural networks. Zhi Wang, Chaoge Liu and Xiang Cui have posted a paper describing their experiments with injecting code into neural networks on the arXiv preprint server."
+    publishedDateTime: 2021-07-27T12:56:00Z
+    webUrl: "https://techxplore.com/news/2021-07-malware-ai-neural-networks.html"
+    ampWebUrl: "https://techxplore.com/news/2021-07-malware-ai-neural-networks.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-malware-ai-neural-networks.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/malware.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Healthcare Artificial Intelligence Market Future Challenges & Industry Growth Outlook By 2021-2026"
+    excerpt: "Delaware, U.S. - The deployment of artificial intelligence in healthcare will be significantly bolstered by the influx of advanced and newer technologies. There is an increasing appeal to remotely render services with enhanced care to affected patients that are stationed across less-developed regions of the world."
+    publishedDateTime: 2021-07-27T09:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-challenges-industry-growth-outlook-by-2021-2026-2021-07-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Latest Report 2021, with Size, Status, Value, Sales and Forecast to 2027"
-    excerpt: "Artificial Intelligence in Drug Discovery Market” share is expected to develop speedily in all development areas over"
-    publishedDateTime: 2021-07-26T06:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-latest-report-2021-with-size-status-value-sales-and-forecast-to-2027-2021-07-26"
+  - title: "Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 40.48% through 2027"
+    excerpt: "Artificial intelligence in the healthcare market is projected to progress at 40.48% of CAGR during the forecasting period 2019-2027. The major factors driving the global AI in the healthcare market are the increasing usage of big data,"
+    publishedDateTime: 2021-07-29T04:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4048-through-2027-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
+    excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at"
+    publishedDateTime: 2021-07-26T10:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on-quadruple-aim-1030643646"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://mma.prnewswire.com/media/1580654/Frost__Sullivan_Radiology_Medical_Imaging_Informatics_Cloud_Healthcare.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Europe Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 39.59% through 2027"
+    excerpt: "Selbyville, Delaware. Europe Artificial Intelligence in the Healthcare Market report provides key statistics on"
+    publishedDateTime: 2021-07-29T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-3959-through-2027-2021-07-29"
     type: article
     provider:
       name: MarketWatch
@@ -79,183 +123,125 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market by Solutions & Services - Size, Share, Growth, Trends and Forecasts 2027"
-    excerpt: "Global Deep Learning Market Research Report- Forecast till 2027 The global deep learning market is growing at a rapid"
-    publishedDateTime: 2021-07-27T13:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-solutions-services---size-share-growth-trends-and-forecasts-2027-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Chip Market 2021 Size, Growth Analysis Report, Forecast to 2027"
-    excerpt: "The Global Deep Learning Chip Market size is expected to reach 24 5 billion by 2027 rising at a market growth of 37 CAGR during the forecast period 2021 2027 Deep learning is a subset of machine learning a subset"
-    publishedDateTime: 2021-07-28T08:24:00Z
-    webUrl: "https://www.openpr.com/news/2339349/deep-learning-chip-market-2021-size-growth-analysis-report"
-    ampWebUrl: "https://www.openpr.com/amp/2339349/deep-learning-chip-market-2021-size-growth-analysis-report"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339349/deep-learning-chip-market-2021-size-growth-analysis-report"
+  - title: "Military Artificial Intelligence Market Outlook 2021: Big Things are Happening"
+    excerpt: "The latest research on Global Military Artificial Intelligence AI Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges"
+    publishedDateTime: 2021-07-27T14:37:00Z
+    webUrl: "https://www.openpr.com/news/2338746/military-artificial-intelligence-market-outlook-2021-big"
+    ampWebUrl: "https://www.openpr.com/amp/2338746/military-artificial-intelligence-market-outlook-2021-big"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338746/military-artificial-intelligence-market-outlook-2021-big"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 53
-  - title: "Artificial Intelligence Market Size, Key Company, Recent Trends, Segmentation and Regional Forecast till 2027"
-    excerpt: "The Global Artificial Intelligence Market to Touch USD 25 Billion at a 48% CAGR by 2023 North America to Dominate the"
-    publishedDateTime: 2021-07-27T13:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-key-company-recent-trends-segmentation-and-regional-forecast-till-2027-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+    quality: 55
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/7/U727367941_g.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Latest Artificial Intelligence Trends for Enterprises"
-    excerpt: "Artificial Intelligence technology is developing for better enterprise processes and user convenience. These latest AI trends are aligning AI into the right direction."
-    publishedDateTime: 2021-07-27T04:15:00Z
-    webUrl: "https://www.analyticsinsight.net/latest-artificial-intelligence-trends-for-enterprises/"
+  - title: "Data driven by AI is making the difference in healthcare"
+    excerpt: "Of all industries, nowhere might data analysis, driven by artificial intelligence (AI) be more beneficial than in the healthcare and medical sector."
+    publishedDateTime: 2021-07-27T07:50:00Z
+    webUrl: "https://techhq.com/2021/07/data-driven-by-ai-is-making-the-difference-in-healthcare/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-4.jpg"
-        width: 900
-        height: 500
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/07/000_1W37NC.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Robot as a Service Market to Reach US$ 41.3 Billion by 2028"
-    excerpt: "The global Robot as a Service market was valued at US$ 12.6 billion in 2020 and is expected to surpass US$ 41.3 billion by 2028, registering a CAGR of 15.9% during the forecast period (2021-2028), as highlighted in a report published by Coherent Market Insights."
-    publishedDateTime: 2021-07-28T16:07:00Z
-    webUrl: "https://www.automation.com/en-us/articles/july-2021/robot-as-a-service-market-reach-billion-2028"
+  - title: "Envision Healthcare deploys AI in radiology"
+    excerpt: "National medical group Envision Healthcare said that its radiologists have begun using artificial intelligence (AI) software for several clinical applications."
+    publishedDateTime: 2021-07-29T20:48:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133081"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 39
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 54
     images:
-      - url: "https://www.automation.com/getmedia/94957922-95f0-4081-9052-8c66554dfd52/robots-service-news-July-28-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://www.auntminnie.com/images/logos/logo_400.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market 2021 Industry Size, Share, Growth, Outlook, Segmentation, Comprehensive Analysis by 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Manufacturing Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-07-27T05:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-2021-industry-size-share-growth-outlook-segmentation-comprehensive-analysis-by-2030-2021-07-27"
+  - title: "Tackling the healthcare interoperability dilemma with artificial intelligence"
+    excerpt: "A recent survey of more than 1,300 hospitals and health systems found 61% said they still use paper-fax to send documents externally. This data suggests our industry needs to expand the understanding and use of technologies that can fuel more widespread adoption of secure,"
+    publishedDateTime: 2021-07-27T19:15:00Z
+    webUrl: "https://www.modernhealthcare.com/information-technology/tackling-healthcare-interoperability-dilemma-artificial-intelligence"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 51
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/John-Nebergall.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market"
-    excerpt: "The Artificial Intelligence (AI) in Automotive Market is expected to be valued at USD XX Million in 2020 and is expected to reach USD 10,573.3 Million by 2027, at a CAGR of 38.46% during the forecast period."
-    publishedDateTime: 2021-07-26T17:55:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-automotive-market-2021-analysis-as-corona-virus-outbreak-disturbs-investment-plans-harman-international-industries-honda-motor-co-ltd-ibm-corporation/"
+  - title: "PathAI acquires Poplar Healthcare, highlighting AI’s role in medical diagnoses"
+    excerpt: "PathAI, a Boston-based health technology startup, said on Monday that it has acquired Poplar Healthcare, one of the country’s largest pathology labs, as the company seeks to provide doctors a quicker way to diagnose medical ailments through use of its software."
+    publishedDateTime: 2021-07-26T11:00:00Z
+    webUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-  - title: "Artificial Intelligence Market 2021 Recent Development and Trends, Expected Growth and its Factors, Business Prospects and Forecast 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence Market for"
-    publishedDateTime: 2021-07-29T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-recent-development-and-trends-expected-growth-and-its-factors-business-prospects-and-forecast-2030-2021-07-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Computing Market 2021 Major Companies Profile, Competitive Landscape, Key Regions and Investments Forecast"
-    excerpt: "The global “Cognitive Computing Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-07-28T08:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-2021-major-companies-profile-competitive-landscape-key-regions-and-investments-forecast-2021-07-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Retail and e-Commerce Market : Information, Figures and Analytical Insights size 2025"
-    excerpt: "Report Pages] Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product. The retail sector has become much more diverse because every customer has different and customized needs,"
-    publishedDateTime: 2021-07-26T20:14:00Z
-    webUrl: "https://www.pr-inside.com/ai-in-retail-and-e-commerce-market-information-figures-and-analytical-insights-size-r4840488.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 29
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Cognitive Computing Market by Top Leading Key Players, Growth Opportunities, Share, Trends, Outlook and Forecast to 2021-2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Cognitive Computing Market for 2021"
-    publishedDateTime: 2021-07-29T07:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-by-top-leading-key-players-growth-opportunities-share-trends-outlook-and-forecast-to-2021-2030-2021-07-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Betting Market, Growth Analysis, Latest Trends and Forecast till 2027"
-    excerpt: "Machine learning is one of the smartest techniques for categorization and forecasting that has demonstrated promising outcomes Because of the enormous amount of money involved in betting sports prediction is one of the fastest growing industries needing excellent forecast accuracy"
-    publishedDateTime: 2021-07-26T16:14:00Z
-    webUrl: "https://www.openpr.com/news/2337464/artificial-intelligence-in-betting-market-growth-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2337464/artificial-intelligence-in-betting-market-growth-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337464/artificial-intelligence-in-betting-market-growth-analysis"
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 50
+  - title: "Artificial Intelligence in Military Market Next Big Thing : Major Giants Boeing, BAE Systems, IBM"
+    excerpt: "The latest independent research document on Global Artificial Intelligence in Military examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Artificial Intelligence"
+    publishedDateTime: 2021-07-27T01:02:00Z
+    webUrl: "https://www.openpr.com/news/2337641/artificial-intelligence-in-military-market-next-big-thing"
+    ampWebUrl: "https://www.openpr.com/amp/2337641/artificial-intelligence-in-military-market-next-big-thing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337641/artificial-intelligence-in-military-market-next-big-thing"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 24
-  - title: "Machine learning as a Service Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Machine Learning as a Service MLaaS market was valued at 1 6 billion in 2020 and is projected to reach 12 1 billion by 2026 registering a CAGR of 39 between 2021 and 2027 Due to the COVID 19"
-    publishedDateTime: 2021-07-29T11:55:00Z
-    webUrl: "https://www.openpr.com/news/2340978/machine-learning-as-a-service-market-global-industry-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2340978/machine-learning-as-a-service-market-global-industry-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2340978/machine-learning-as-a-service-market-global-industry-analysis"
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/7/U727666550_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Medical imaging AI market poised for strong growth"
+    excerpt: "The world market for medical imaging artificial intelligence (AI) applications is projected to reach almost $1.2 billion by 2025, with a compound annual growth rate of 26%, according to a new report from Signify Research."
+    publishedDateTime: 2021-07-28T07:32:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133055"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 37
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_27_23_07_2424_Parekh_Sanjay_20210727232720.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Global Artificial Intelligence In Healthcare Market 2021 Analytical Overview, Technological Innovations with Economic Indicators By 2028"
+    excerpt: "The primary sources employed while crafting Artificial Intelligence In Healthcare Marketing report include the industry experts from the industry comprising the management corporation processing organizations analytical service suppliers of the industry s value chain This market research report sheds light"
+    publishedDateTime: 2021-07-28T10:27:00Z
+    webUrl: "https://www.openpr.com/news/2339490/global-artificial-intelligence-in-healthcare-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2339490/global-artificial-intelligence-in-healthcare-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339490/global-artificial-intelligence-in-healthcare-market-2021"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 17
-  - title: "Global Artificial Intelligence in Retail Market 2021 – Top Manufacturers, Latest Trends, Future Prospects and Forecast 2026"
-    excerpt: "Global Artificial Intelligence in Retail Market 2021 by Company, Regions, Type and Application, Forecast to 2026 announced by MarketQuest.biz gives a severe thought regarding the various factors and patterns influencing the improvement graph of the worldwide market."
-    publishedDateTime: 2021-07-27T13:12:00Z
-    webUrl: "https://ipsnews.net/business/2021/07/27/global-artificial-intelligence-in-retail-market-2021-top-manufacturers-latest-trends-future-prospects-and-forecast-2026/"
+    quality: 21
+  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim Finds Frost & Sullivan"
+    excerpt: "Frost & Sullivan’s recent analysis, Global Medical Imaging & Informatics Outlook, 2021, finds that the market opportunity is estimated to hit $37.10 billion in 2021 from $33.90"
+    publishedDateTime: 2021-07-26T16:25:00Z
+    webUrl: "https://www.newswiretoday.com/news/175880/"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 6
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 0
 
 secured: "J3Wrzon/RzahGEJFRysr+QcpStVwDApP4j9r0v/bXFM9XtTvl2rYZBMiBlz5bgQfJ7g/ret3HgYcPHP9Jvgby2ONZasmFjxqVSp5BfiSK6BegapI5owc2hbgS1kxBV+Y4baJlq0ow2jBGDDnut9+h3kyE7Nx1Cl/JXPnZ70X1HsWtuvxKVIYNwTKCMPJSBoSdLsNcYYf5oW4vJgwWaJSBbW9blniSnrszfweAxzAVLK3uLC99z700uPKy8L6C6QPqU7XdJOCKzeiQzMI5o57idZlBaDC6dPQrzRp5/fdOdTNrhhypHHgm4qjra7jzn0pcglwywPqpaOplBPjSw/tRFDo/7kMVLPb0/PFG56CQUM=;DhehasB8zUYty1XbH577Yg=="
 ---

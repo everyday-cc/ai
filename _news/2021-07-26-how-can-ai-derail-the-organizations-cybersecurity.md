@@ -38,6 +38,15 @@ related:
         width: 1920
         height: 1078
         isCached: true
+  - title: "New project uses empathy to teach students about cybersecurity and AI ethics"
+    excerpt: "While empathy is important in almost every aspect of daily life, it is not always a priority in the development of technology, especially technology using artificial intelligence (AI). iSchool researchers are working to address this gap by using empathy to teach high school students about cybersecurity and AI ethics issues."
+    publishedDateTime: 2021-07-29T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/923937"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
   - title: "As Facial Recognition Technology Surges, Organizations Face Privacy and Cybersecurity Concerns, and Fraud"
     excerpt: "Facial recognition technology has become increasingly popular in recent years in the employment and consumer space (e.g. employee access, passport check-in systems, payments on smartphones), and in pa"
     publishedDateTime: 2021-07-28T15:33:00Z

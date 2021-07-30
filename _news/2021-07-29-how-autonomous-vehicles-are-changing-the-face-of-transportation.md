@@ -7,7 +7,7 @@ originalUrl: "https://www.wipro.com/business-process/how-autonomous-vehicles-are
 webUrl: "https://www.wipro.com/business-process/how-autonomous-vehicles-are-changing-the-face-of-transportation/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,48 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers Working to Improve Autonomous Vehicle Driving Vision in the Rain"
+    excerpt: "Researchers are studying ways to improve the vision of autonomous cars operating in bad weather conditions of rain, snow and fog."
+    publishedDateTime: 2021-07-29T17:40:00Z
+    webUrl: "https://www.aitrends.com/selfdrivingcars/researchers-working-to-improve-autonomous-vehicle-driving-vision-in-the-rain/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 36
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/07/7-30BadWeatherDriving-2.jpeg"
+        width: 550
+        height: 366
+        isCached: true
+  - title: "Why self-driving trucks aren't putting drivers out of work yet"
+    excerpt: "Big tech firms have been promising an autonomous trucking revolution for years now, but even with billions poured into the industry, manned trucks still rule. Here's when, and how, that could change."
+    publishedDateTime: 2021-07-28T20:07:00Z
+    webUrl: "https://www.overdriveonline.com/equipment/article/15066699/why-selfdriving-trucks-arent-here-yet"
+    type: article
+    provider:
+      name: Overdrive
+      domain: overdriveonline.com
+    quality: 24
+    images:
+      - url: "https://img.overdriveonline.com/files/base/randallreilly/all/image/2021/07/mack_no_driver_backward.61007e987cbad.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 660
+        isCached: true
+  - title: "Beijing permits self-driving vehicle testing on expressways"
+    excerpt: "Driverless cars will soon take to expressways for testing in the Chinese capital Beijing as the municipal authority has approved t"
+    publishedDateTime: 2021-07-29T20:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270498693/beijing-permits-self-driving-vehicle-testing-on-expressways"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "How the commercial vehicle sector is preparing for autonomous driving"
     excerpt: "In many ways, trucks are a more viable focal point for the development of the artificial intelligence. More on CCJ."
     publishedDateTime: 2021-07-29T17:18:00Z
@@ -39,6 +81,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Industrial Revolution 4.0 And Massively Distributed Manufacturing Will Be Driven Via Autonomous Vehicles And Self-Driving Cars"
+    excerpt: "The vaunted Fourth Industrial Revolution or Industry 4.0 will be aided via Massively Distributed Manufacturing, and the use of autonomous vehicles including self-driving cars will make it all come together."
+    publishedDateTime: 2021-07-28T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/28/industrial-revolution-40-and-massively-distributed-manufacturing-will-be-driven-via-autonomous-vehicles-and-self-driving-cars/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 6
 
 secured: "6ygnq6frk4CPKY32kzHgG4ILXNFs5LVmIf8WSW+1G6JdJR/ulLJeWv8sdK1aN/G8kokUilkTL0eV7zlv/JajP6dxEuc5lvvoKZ4C26vFYPXyBI0NiwFhrMUWvnWUKrArVODx4mxbgkbSaRz1bzLYKRQjdf+5XBfD4Riwr31t1mtG7H1E/Lbulq4UusoV9FwTCNTB8zjdH6D1PurXNNnpT8cWcUoaJS2p5X41WsSdbkbyPsogonQAt58Bek8YiuaZNn1L/K0RJ37Q8UL7PD4J8D6dpsAGQWscMXZoTZYnO8owxphLYLS1dMDDDdwEnzeSuQUZ4aRbCApMfHbXugaISmakYPUrHJBz5b6slUUOlZ02rHOC3MUBcOW9LJv50rOp7CKc+rirzYIKqpS7mypMBZSc5yahhcqx25a5XW8md0/k5SE00Lc7FTlegfBMIqGLQBuQawk3LdN4TTSzXNmGLLF7qucRiPOPOmX9/1hlGaI3fmY9YXMasG0OVkomKKrvQZsWeJTaFjov7HkNpB9HRw==;qbgkhkB4THMryizkDCcl2A=="
 ---

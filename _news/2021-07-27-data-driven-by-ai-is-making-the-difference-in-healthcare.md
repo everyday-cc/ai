@@ -25,116 +25,220 @@ images:
     isCached: true
 
 related:
-  - title: "Data Centers in an AI and ML driven future"
-    excerpt: "Thank you for signing up to TechRadar. You will receive a verification email shortly. There was a problem. Please refresh the page and try again. No spam, we promise. You can unsubscribe at any time and we'll never share your details without your permission."
-    publishedDateTime: 2021-07-25T10:24:00Z
-    webUrl: "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-future"
-    ampWebUrl: "https://www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future"
+  - title: "Healthcare AI Market Next Big Thing"
+    excerpt: "Latest released Global Healthcare AI Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price, and sales revenue to better derive market size estimation."
+    publishedDateTime: 2021-07-29T22:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 106
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/zzKWX9b7Dxhz2F7QRMVTMC-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Mastering The Art Of Extracting Data From Invoices Using AI And ML"
-    excerpt: "At some point, all invoices will become digital. Until then, the need to handle paper-based invoices and extract data from both paper and digital invoices without human involvement is critical for enterprises to truly transform."
-    publishedDateTime: 2021-07-28T13:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6066004147c9e239227de9bc%2F0x0.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 900
+        height: 630
         isCached: true
-  - title: "An AI Road Map Starts With Data"
-    excerpt: "AI should be a priority for businesses. However, this game-changing set of technologies requires a solid data foundation, and businesses need to bolster their data engineering capabilities before they take on AI initiatives."
-    publishedDateTime: 2021-07-27T11:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/"
+  - title: "Computer Vision in Artificial Intelligence (AI) Market Next Big Thing : Major Giants Apple, NVIDIA, Facebook, Cognex"
+    excerpt: "The \" Computer Vision in Artificial Intelligence (AI) – Market Development Scenario \" Study has been added to HTF"
+    publishedDateTime: 2021-07-29T02:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-next-big-thing-major-giants-apple-nvidia-facebook-cognex-2021-07-28"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeee92c240fb26d335a07a%2F0x0.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "How An Avalanche Of Data Led To New Trends In AI Software Modernization Approaches"
-    excerpt: "In recent years, companies’ growing focus on big data has led to increased digitalization demands. The avalanche of data has forced businesses to reconsider software modernization approaches. With that in mind,"
-    publishedDateTime: 2021-07-28T11:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/amp/"
+  - title: "Hiding malware inside AI neural networks"
+    excerpt: "A trio of researchers at Cornell University has found that it is possible to hide malware code inside of AI neural networks. Zhi Wang, Chaoge Liu and Xiang Cui have posted a paper describing their experiments with injecting code into neural networks on the arXiv preprint server."
+    publishedDateTime: 2021-07-27T12:56:00Z
+    webUrl: "https://techxplore.com/news/2021-07-malware-ai-neural-networks.html"
+    ampWebUrl: "https://techxplore.com/news/2021-07-malware-ai-neural-networks.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-malware-ai-neural-networks.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe33d661ff84a5b5e2d9ed9%2F0x0.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/malware.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Healthcare Artificial Intelligence Market Future Challenges & Industry Growth Outlook By 2021-2026"
+    excerpt: "Delaware, U.S. - The deployment of artificial intelligence in healthcare will be significantly bolstered by the influx of advanced and newer technologies. There is an increasing appeal to remotely render services with enhanced care to affected patients that are stationed across less-developed regions of the world."
+    publishedDateTime: 2021-07-27T09:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-challenges-industry-growth-outlook-by-2021-2026-2021-07-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "How Do We Prepare for an AI Future?"
-    excerpt: "How on earth did we survive before this technology arrived in our lives? We survived, of course, but were quite literally lost some of the time. My reverie was interrupted by a toll booth. It was empty,"
-    publishedDateTime: 2021-07-26T09:00:00Z
-    webUrl: "https://www.thenation.com/article/society/ai-future/"
-    ampWebUrl: "https://www.thenation.com/article/society/ai-future/tnamp/"
-    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/society/ai-future/tnamp/"
+  - title: "Artificial Intelligence in Healthcare Market Trends and Forecast 2028"
+    excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 58.6 billion by 2028 finish at a CAGR of over 44.8% throughout the forecast from 2021 to 2028. This rapid growth is largely driven by the increasing adoption of AI in hospitals and clinics,"
+    publishedDateTime: 2021-07-28T12:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-and-forecast-2028-2021-07-28"
     type: article
     provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 57
-    images:
-      - url: "https://www.thenation.com/wp-content/uploads/2019/11/worker-robot-AP-img.jpg"
-        width: 1440
-        height: 907
-        isCached: true
-  - title: "AI driving the future of in-car systems"
-    excerpt: "Carmakers are bracing for new safety rules and standards around the world that could require dashboard cameras to detect dangerous driver behavior."
-    publishedDateTime: 2021-07-27T00:18:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/07/26/ai-driving-future-car-systems/5381767001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5381767001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5381767001"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+  - title: "Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 40.48% through 2027"
+    excerpt: "Artificial intelligence in the healthcare market is projected to progress at 40.48% of CAGR during the forecasting period 2019-2027. The major factors driving the global AI in the healthcare market are the increasing usage of big data,"
+    publishedDateTime: 2021-07-29T04:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4048-through-2027-2021-07-29"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 57
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/27/PDTN/940dab9d-4acd-44fe-8917-8568d3dcf615-AP21200525050750.jpg?auto=webp&crop=1023,576,x0,y74&format=pjpg&width=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 676
+        height: 630
         isCached: true
-  - title: "AI infrastructure solutions built for present and future success"
-    excerpt: "Simply put, the infrastructure that powers AI and deep learning applications is both fueling and limiting AI success, and organizations that manage to build enduring AI infrastructure are those that are destined for success."
-    publishedDateTime: 2021-07-27T10:28:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1623758832_993.html"
+  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
+    excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at"
+    publishedDateTime: 2021-07-26T10:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on-quadruple-aim-1030643646"
     type: article
     provider:
-      name: Bitpipe
-      domain: bitpipe.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://mma.prnewswire.com/media/1580654/Frost__Sullivan_Radiology_Medical_Imaging_Informatics_Cloud_Healthcare.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Europe Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 39.59% through 2027"
+    excerpt: "Selbyville, Delaware. Europe Artificial Intelligence in the Healthcare Market report provides key statistics on"
+    publishedDateTime: 2021-07-29T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-3959-through-2027-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Military Artificial Intelligence Market Outlook 2021: Big Things are Happening"
+    excerpt: "The latest research on Global Military Artificial Intelligence AI Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges"
+    publishedDateTime: 2021-07-27T14:37:00Z
+    webUrl: "https://www.openpr.com/news/2338746/military-artificial-intelligence-market-outlook-2021-big"
+    ampWebUrl: "https://www.openpr.com/amp/2338746/military-artificial-intelligence-market-outlook-2021-big"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338746/military-artificial-intelligence-market-outlook-2021-big"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
+    images:
+      - url: "https://cdn.openpr.com/U/7/U727367941_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Envision Healthcare deploys AI in radiology"
+    excerpt: "National medical group Envision Healthcare said that its radiologists have begun using artificial intelligence (AI) software for several clinical applications."
+    publishedDateTime: 2021-07-29T20:48:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133081"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 54
+    images:
+      - url: "https://www.auntminnie.com/images/logos/logo_400.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Tackling the healthcare interoperability dilemma with artificial intelligence"
+    excerpt: "A recent survey of more than 1,300 hospitals and health systems found 61% said they still use paper-fax to send documents externally. This data suggests our industry needs to expand the understanding and use of technologies that can fuel more widespread adoption of secure,"
+    publishedDateTime: 2021-07-27T19:15:00Z
+    webUrl: "https://www.modernhealthcare.com/information-technology/tackling-healthcare-interoperability-dilemma-artificial-intelligence"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 51
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/John-Nebergall.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "PathAI acquires Poplar Healthcare, highlighting AI’s role in medical diagnoses"
+    excerpt: "PathAI, a Boston-based health technology startup, said on Monday that it has acquired Poplar Healthcare, one of the country’s largest pathology labs, as the company seeks to provide doctors a quicker way to diagnose medical ailments through use of its software."
+    publishedDateTime: 2021-07-26T11:00:00Z
+    webUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 50
+  - title: "Artificial Intelligence in Military Market Next Big Thing : Major Giants Boeing, BAE Systems, IBM"
+    excerpt: "The latest independent research document on Global Artificial Intelligence in Military examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Artificial Intelligence"
+    publishedDateTime: 2021-07-27T01:02:00Z
+    webUrl: "https://www.openpr.com/news/2337641/artificial-intelligence-in-military-market-next-big-thing"
+    ampWebUrl: "https://www.openpr.com/amp/2337641/artificial-intelligence-in-military-market-next-big-thing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337641/artificial-intelligence-in-military-market-next-big-thing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/7/U727666550_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Medical imaging AI market poised for strong growth"
+    excerpt: "The world market for medical imaging artificial intelligence (AI) applications is projected to reach almost $1.2 billion by 2025, with a compound annual growth rate of 26%, according to a new report from Signify Research."
+    publishedDateTime: 2021-07-28T07:32:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133055"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
     quality: 37
     images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1623758832_993_lg.jpg"
-        width: 315
-        height: 408
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_27_23_07_2424_Parekh_Sanjay_20210727232720.jpg"
+        width: 400
+        height: 400
         isCached: true
+  - title: "Global Artificial Intelligence In Healthcare Market 2021 Analytical Overview, Technological Innovations with Economic Indicators By 2028"
+    excerpt: "The primary sources employed while crafting Artificial Intelligence In Healthcare Marketing report include the industry experts from the industry comprising the management corporation processing organizations analytical service suppliers of the industry s value chain This market research report sheds light"
+    publishedDateTime: 2021-07-28T10:27:00Z
+    webUrl: "https://www.openpr.com/news/2339490/global-artificial-intelligence-in-healthcare-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2339490/global-artificial-intelligence-in-healthcare-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339490/global-artificial-intelligence-in-healthcare-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
+  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim Finds Frost & Sullivan"
+    excerpt: "Frost & Sullivan’s recent analysis, Global Medical Imaging & Informatics Outlook, 2021, finds that the market opportunity is estimated to hit $37.10 billion in 2021 from $33.90"
+    publishedDateTime: 2021-07-26T16:25:00Z
+    webUrl: "https://www.newswiretoday.com/news/175880/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 0
 
 secured: "1xkoAnvc+S3iL5H6qT2uY9y7kHHBN1z38BgMoSln3P77uIpTKA6HiV4V9vuKewvbH3dwcMuc9pam9pKlBQVfvhM03ogXeI8+FoyNJtNG/MHEogz5FRtsmjfUZRNSrL0dD4f4zxfLU/G9MzuqCi1tR3LBtcRPELvJ/jUKp+IrBQJWIl31IWIlY4oW9sqt4bd/OI4O5Ptg5vtgTsX+iNK4LaEeKJ1zypevz/vmoiypIjHFNATXd3PUGtFa6E2Tnb557Xx+g6uGtPTWpbvWWH38uk6cPVK60UHlCgcAM0/wVj/cXOOdVgX8uoWmjvbzDau2KQNH+sSnun1rAKfz0LqMwZr0MaE3PNePO9GkU664fnZqirnTJyRxY0MiyuCT74gPxWSq2sndB55TDB7z/IoeZCgeHoqszr5ft9VTgyaT5gd5czsLLzkC7M7PZNuYJQscrlWd7q7q6KxzwFqmOH/r9A0lnF2QwQ6mowCvR91/Zh0MT0SI+EyPGtWzGCJ+3w61yxcAuy6wXfv71GLwxu8IoQ==;5L1S4WUfh39GS+gCQzd8dA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://syncedreview.com/2021/07/25/argo-ai-and-ford-to-launch-self-
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/07/25/argo-ai-and-ford-to-launch-self-driving-technologies-on-lyft-vehicles-by-the-end-of-2021/amp/"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: syncedreview
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self Driving Cars And Some Of The Worst Vehicles Ever Made"
+    excerpt: "We are seeing advanced technology in every corner of our world and as A.I. continues to emerge everywhere self-driving cars are being tested as a possibly for future transportation."
+    publishedDateTime: 2021-07-29T12:52:00Z
+    webUrl: "https://wnbf.com/self-driving-cars-and-some-of-the-worst-vehicles-ever-made/"
+    type: article
+    provider:
+      name: WNBF
+      domain: wnbf.com
+    quality: 39
+    images:
+      - url: "https://townsquare.media/site/499/files/2021/07/attachment-GettyImages-51933806.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        width: 1199
+        height: 807
+        isCached: true
   - title: "Self-driving leader Argo AI's CEO explains how his new deal with Lyft helps the startup clear a critical hurdle: getting real customers into cars"
     excerpt: "\"We now get real customers in the car,\" Bryan Salesky said. Which means a big step toward making money."
     publishedDateTime: 2021-07-26T13:11:00Z
@@ -35,7 +49,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://i.insider.com/60f97ffc0729770012b943b8?width=1200&format=jpeg"
         width: 1200

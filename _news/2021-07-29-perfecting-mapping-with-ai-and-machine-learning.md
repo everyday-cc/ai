@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mastering The Art Of Extracting Data From Invoices Using AI And ML"
+    excerpt: "At some point, all invoices will become digital. Until then, the need to handle paper-based invoices and extract data from both paper and digital invoices without human involvement is critical for enterprises to truly transform."
+    publishedDateTime: 2021-07-28T13:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6066004147c9e239227de9bc%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "How AI Is Powering Modern Banking Transformation"
     excerpt: "By John Ashley, General Manager, Financial Services and Technology, NVIDIA AI is enabling digital transformation across the financial services industry, from fintech and investment firms to commercial and retail banks."
     publishedDateTime: 2021-07-26T15:00:00Z
@@ -43,31 +59,63 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Pearson transforms language learning with Microsoft Azure AI"
-    excerpt: "Education publishing firm Pearson is transforming language learning with Microsoft Azure AI, helping students via interactive instructions, reducing tutoring costs for parents and enabling digital learning during the Covid-19 pandemic."
-    publishedDateTime: 2021-07-26T13:53:00Z
-    webUrl: "https://www.technologyrecord.com/Article/pearson-transforms-language-learning-with-microsoft-azure-ai-125061"
+  - title: "Announcing specialized support for extracting data from invoices and receipts using Amazon Textract"
+    excerpt: "Receipts and invoices are documents that are critical to small and medium businesses (SMBs), startups, and enterprises for managing their accounts payable processes. These types of documents are difficult to process at scale because they follow no set design rules, yet any individual customer encounters"
+    publishedDateTime: 2021-07-27T16:31:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-expanded-support-for-extracting-data-from-invoices-and-receipts-using-amazon-textract/"
     type: article
     provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 69
+      name: AWS
+      domain: aws.amazon.com
+    quality: 92
     images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10428/img-Unsplash_Jerry-Wang_education_school_student_web.jpg"
-        width: 940
-        height: 443
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/22/ml3911-img11.jpg"
+        width: 400
+        height: 600
         isCached: true
-  - title: "Understanding Contextual AI In The Modern Business World"
-    excerpt: "Exploring emerging technologies and those with features that can adapt will help meet this modern world head-on."
-    publishedDateTime: 2021-07-26T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/07/26/understanding-contextual-ai-in-the-modern-business-world/"
+  - title: "AI use cases are expanding and evolving in healthcare"
+    excerpt: "The world is increasingly seeing tangible impacts of AI across various industries, including healthcare.  Using AI, healthcare providers can analyze and"
+    publishedDateTime: 2021-07-30T02:50:00Z
+    webUrl: "https://techwireasia.com/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 76
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/editedGettyImages-1035331882-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
+  - title: "Understanding The AI Warfare And Ethics"
+    excerpt: "The world’s superpowers are building new super-fast, super-lethal armies powered by artificial intelligence. It’s a pretty unsettling future, and it’s around the corner."
+    publishedDateTime: 2021-07-29T04:19:00Z
+    webUrl: "https://www.wbur.org/onpoint/2021/07/29/understanding-the-ai-warfare-and-ethics"
+    ampWebUrl: "https://amp.wbur.org/onpoint/2021/07/29/understanding-the-ai-warfare-and-ethics"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2021/07/29/understanding-the-ai-warfare-and-ethics"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 74
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2021/07/GettyImages-503831286-RESIZED.jpg"
+        width: 3000
+        height: 1912
+        isCached: true
+  - title: "Getting Banned From Riding In AI Self-Driving Cars For The Rest Of Your Entire Life"
+    excerpt: "Expect to see a ban or no-fly type of list being developed for unruly passengers that ride in self-driving cars. This can be stridently enforced, though might not pass muster judiciously or societally."
+    publishedDateTime: 2021-07-26T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-from-riding-in-ai-self-driving-cars-for-the-rest-of-your-entire-life/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
+    quality: 63
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60facdc5d1bfbd82bc8f0946%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fcb2b2de2f157548bccd31%2F0x0.jpg%3FcropX1%3D107%26cropX2%3D3560%26cropY1%3D0%26cropY2%3D2301"
         width: 1200
         height: 800
         isCached: true
@@ -87,6 +135,54 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI helping researchers improve solar data from the Sun"
+    excerpt: "It's also important for deep space missions, which won't have the option of sounding rocket calibration. We're tackling two problems at once."
+    publishedDateTime: 2021-07-25T14:49:00Z
+    webUrl: "https://www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 57
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/07/AI-helping-researchers-improve-solar-data-from-the-Sun.jpg"
+        width: 777
+        height: 437
+        isCached: true
+  - title: "AI helping researchers improve solar data from the Sun"
+    excerpt: "Researchers are utilising artificial intelligence (AI) techniques to calibrate some of NASA's images of the Sun, helping improve the data that scienti.."
+    publishedDateTime: 2021-07-26T05:00:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-84749369,imgsize-296866,width-800,height-434,overlay-etcio/ai-helping-researchers-improve-solar-data-from-the-sun.jpg"
+        width: 800
+        height: 434
+        isCached: true
+  - title: "AI driving the future of in-car systems"
+    excerpt: "Carmakers are bracing for new safety rules and standards around the world that could require dashboard cameras to detect dangerous driver behavior."
+    publishedDateTime: 2021-07-27T00:18:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/07/26/ai-driving-future-car-systems/5381767001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5381767001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5381767001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 57
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/27/PDTN/940dab9d-4acd-44fe-8917-8568d3dcf615-AP21200525050750.jpg?auto=webp&crop=1023,576,x0,y74&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Catching the artificial intelligence buzz"
     excerpt: "Backpacks to track bees, bushfire modelling and sensors to detect broken water pipes are some of the technologies being developed in Australia as part of an"
     publishedDateTime: 2021-07-26T16:00:00Z
@@ -101,82 +197,20 @@ related:
         width: 800
         height: 452
         isCached: true
-  - title: "How AI Is Expediting Medicine Development"
-    excerpt: "The world of big data in the healthcare sector is vast and growing exponentially. Tools that leverage artificial intelligence (AI) and machine learning (ML) are critical to organizing, correlatin"
-    publishedDateTime: 2021-07-28T05:00:00Z
-    webUrl: "https://www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.html"
-    ampWebUrl: "https://www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.amp.html"
-    cdnAmpWebUrl: "https://www-realclearmarkets-com.cdn.ampproject.org/c/s/www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.amp.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 39
-  - title: "Overview of Transformation in Radiology Through Artificial Intelligence"
-    excerpt: "Multiple industries are harnessing Artificial Intelligence to boost productivity. This article lays an overview on how radiology departments in hospitals or clinics have started transforming with AI models and radiomics for radiologists."
-    publishedDateTime: 2021-07-28T15:30:00Z
-    webUrl: "https://www.analyticsinsight.net/overview-of-transformation-in-radiology-through-artificial-intelligence/"
+  - title: "The Green way of defining AI in Mortgages"
+    excerpt: "This article explains how Digilytics offers RevEI to implement AI in mortgage for reducing carbon footprints of lenders. The mortgage industry needs AI to enhance the mortgage lending experience of the customers worldwide."
+    publishedDateTime: 2021-07-26T07:13:00Z
+    webUrl: "https://www.analyticsinsight.net/the-green-way-of-defining-ai-in-mortgages/"
     type: article
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 39
+    quality: 37
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Overview-on-Transformation-in-Radiology-through-Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/AI.png"
+        width: 1600
+        height: 901
         isCached: true
-  - title: "Baidu head predicts transformation in AI tech"
-    excerpt: "In the next decade, eight key technologies in the field of artificial intelligence will undergo a \"quantitative to qualitative transformation\" and thus profoundly change society, said Robin Li, co-founder and CEO of internet search giant Baidu Inc."
-    publishedDateTime: 2021-07-29T09:21:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202107/29/WS61027330a310efa1bd66555c.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202107/29/61027330a310efa1e3b2807e.jpeg"
-        width: 440
-        height: 293
-        isCached: true
-  - title: "Why Artificial Intelligence Implementation is Lagging in International Shipping"
-    excerpt: "The long-term benefits of including AI-powered systems in logistics and supply chain operations are well known."
-    publishedDateTime: 2021-07-25T18:59:00Z
-    webUrl: "https://www.bbntimes.com/technology/why-artificial-intelligence-implementation-is-lagging-in-international-shipping"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 35
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Why_Artificial_Intelligence_Implementation_is_Lagging_in_International_Shipping.jpg"
-        width: 1620
-        height: 1080
-        isCached: true
-  - title: "Action Mode: Now, an Artificial Intelligence model for disaster risk prediction"
-    excerpt: "A model solution has been developed under the Microsoft AI for Humanitarian Action programme to build disaster resilient communities in India"
-    publishedDateTime: 2021-07-27T13:43:00Z
-    webUrl: "https://www.financialexpress.com/industry/action-mode-now-an-artificial-intelligence-model-for-disaster-risk-prediction/2298871/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 33
-    images:
-      - url: "https://images.financialexpress.com/2021/06/Artificial-intelligence.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Use of Artificial Intelligence in Banking World today"
-    excerpt: "But the development of the financial system didn’t stop here, as the digital age is opening up new opportunities — the use of Artificial Intelligence in banking and financial institutions. By 2023, banks are projected to save approximately $447 billion by developing and implementing AI applications."
-    publishedDateTime: 2021-07-29T18:28:00Z
-    webUrl: "https://www.finextra.com/blogposting/20688/use-of-artificial-intelligence-in-banking-world-today"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "zBI2JLcqGbB8o6aV9eDAFn4UfOFwEQ1TcLJGRGlpRN7vAQVSUgdQl3Q4Du8QY8EntzuvAU3P9fXVCat1DXojJY+PDrgKKWgMYxAn+tf3nloHkLB98PlA/UMc15xczTZUfYkmj4j0faIF3d0mSFD6DICBzSnJ//eDhui0JOM4yLGBiO1GezXJCnrqHFU9YM9KOHP56TnTqzK68dC/D/x1fMHW7NfDQwAUEKX8fTz5+rgKrKyDh3H7mrY42H7CoI2UTKqvnAS/xfT25MnUIarinMzwhepxkQIsLIa6RbLufEe6mRXGf443r/ha5zmfvOa74YIJdWPS1YUhjjNFNrhGxFuLmmOGqjlZSPdtscWkoK0=;JHTMNUwzxyjHZjq4CMC9Tw=="
 ---

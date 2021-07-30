@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-26T13:11:00Z
 originalUrl: "https://www.businessinsider.com/argo-ai-ceo-explains-why-hes-launching-robotaxis-with-lyft-2021-7"
 webUrl: "https://www.businessinsider.com/argo-ai-ceo-explains-why-hes-launching-robotaxis-with-lyft-2021-7"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/60f97ffc0729770012b943b8?width=1200&format=jpeg"
@@ -44,6 +45,20 @@ related:
       - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/07/IMG_20181114_084049.jpeg?fit=950%2C634&ssl=1"
         width: 950
         height: 633
+        isCached: true
+  - title: "Self Driving Cars And Some Of The Worst Vehicles Ever Made"
+    excerpt: "We are seeing advanced technology in every corner of our world and as A.I. continues to emerge everywhere self-driving cars are being tested as a possibly for future transportation."
+    publishedDateTime: 2021-07-29T12:52:00Z
+    webUrl: "https://wnbf.com/self-driving-cars-and-some-of-the-worst-vehicles-ever-made/"
+    type: article
+    provider:
+      name: WNBF
+      domain: wnbf.com
+    quality: 39
+    images:
+      - url: "https://townsquare.media/site/499/files/2021/07/attachment-GettyImages-51933806.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        width: 1199
+        height: 807
         isCached: true
 
 secured: "gNXRfSkQZ93/PeynS5oEXrwVNxrV5ZB5Yjj4Rdj//F+97/HcWJ/RsXnmUsIEwiXnv+Cirlxrn/y/zBiyxuJ2V4uz0jYBLGGrVBNwpvmeu84mmiXTuAmPa/J67sXUcQ+NA6Y8WBgfsgbTQ2t1iyk2bYmm482s7aeWfzls8bdR+whJx3IHJ3fEUgc512lxj6p38Sof1EPXbfaKWw9ce6QA8eoaIC7oVIERUMEr71qszzhlVFJj3cCp//IM9P+yCdhh5kAhs6DlZ6Kemt3ol9a1C1CzD2vfdSoHWsH31Wq7GdZWYwM5BqF6WNvtXBjhNNhUlyEeka6a9ESHAstpyqxDzC64gbkbsvJQUWkmH2O2kbDvRVGZulMhuibCwYlnoUSatGP9LQirp31kVsyKO4Wpa6SBBkOn6WQgbcGusLxLrV+/V7L8KWDV21vpkvgVB6RnAXKB1q5QKIZX2tfCO/4tLEMX04Oc0uUyMlDl6UqLp6o+TNxvzG/DDFe5WX18s35lxiv7iwooyMFV21xc7Xv7Hw==;k/XkL1zaxDgGK27xB4bOQw=="

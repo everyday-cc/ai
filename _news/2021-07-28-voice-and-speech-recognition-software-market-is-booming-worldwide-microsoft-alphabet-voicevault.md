@@ -61,6 +61,20 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Pearson transforms language learning with Microsoft Azure AI"
+    excerpt: "Education publishing firm Pearson is transforming language learning with Microsoft Azure AI, helping students via interactive instructions, reducing tutoring costs for parents and enabling digital learning during the Covid-19 pandemic."
+    publishedDateTime: 2021-07-26T13:53:00Z
+    webUrl: "https://www.technologyrecord.com/Article/pearson-transforms-language-learning-with-microsoft-azure-ai-125061"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 69
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10428/img-Unsplash_Jerry-Wang_education_school_student_web.jpg"
+        width: 940
+        height: 443
+        isCached: true
   - title: "Design for responsible AI with Microsoft’s HAX"
     excerpt: "At the heart of HAX is a set of guidelines built from 18 best practices that you can use to guide interactions between users and your systems. They’re presente"
     publishedDateTime: 2021-07-28T10:00:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 226
+published: true
 
 provider:
   name: Forbes
@@ -32,69 +32,145 @@ images:
     isCached: true
 
 related:
-  - title: "Data Centers in an AI and ML driven future"
-    excerpt: "Thank you for signing up to TechRadar. You will receive a verification email shortly. There was a problem. Please refresh the page and try again. No spam, we promise. You can unsubscribe at any time and we'll never share your details without your permission."
-    publishedDateTime: 2021-07-25T10:24:00Z
-    webUrl: "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-future"
-    ampWebUrl: "https://www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 106
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/zzKWX9b7Dxhz2F7QRMVTMC-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "An AI Road Map Starts With Data"
-    excerpt: "AI should be a priority for businesses. However, this game-changing set of technologies requires a solid data foundation, and businesses need to bolster their data engineering capabilities before they take on AI initiatives."
-    publishedDateTime: 2021-07-27T11:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/"
+  - title: "How AI Is Powering Modern Banking Transformation"
+    excerpt: "By John Ashley, General Manager, Financial Services and Technology, NVIDIA AI is enabling digital transformation across the financial services industry, from fintech and investment firms to commercial and retail banks."
+    publishedDateTime: 2021-07-26T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/"
+    ampWebUrl: "https://www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 104
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeee92c240fb26d335a07a%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How An Avalanche Of Data Led To New Trends In AI Software Modernization Approaches"
-    excerpt: "In recent years, companies’ growing focus on big data has led to increased digitalization demands. The avalanche of data has forced businesses to reconsider software modernization approaches. With that in mind,"
-    publishedDateTime: 2021-07-28T11:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe33d661ff84a5b5e2d9ed9%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f9de4811cbbaa786e3911b%2F0x0.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "How Do We Prepare for an AI Future?"
-    excerpt: "How on earth did we survive before this technology arrived in our lives? We survived, of course, but were quite literally lost some of the time. My reverie was interrupted by a toll booth. It was empty,"
-    publishedDateTime: 2021-07-26T09:00:00Z
-    webUrl: "https://www.thenation.com/article/society/ai-future/"
-    ampWebUrl: "https://www.thenation.com/article/society/ai-future/tnamp/"
-    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/society/ai-future/tnamp/"
+  - title: "Announcing specialized support for extracting data from invoices and receipts using Amazon Textract"
+    excerpt: "Receipts and invoices are documents that are critical to small and medium businesses (SMBs), startups, and enterprises for managing their accounts payable processes. These types of documents are difficult to process at scale because they follow no set design rules, yet any individual customer encounters"
+    publishedDateTime: 2021-07-27T16:31:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-expanded-support-for-extracting-data-from-invoices-and-receipts-using-amazon-textract/"
     type: article
     provider:
-      name: The Nation
-      domain: thenation.com
+      name: AWS
+      domain: aws.amazon.com
+    quality: 92
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/22/ml3911-img11.jpg"
+        width: 400
+        height: 600
+        isCached: true
+  - title: "AI use cases are expanding and evolving in healthcare"
+    excerpt: "The world is increasingly seeing tangible impacts of AI across various industries, including healthcare.  Using AI, healthcare providers can analyze and"
+    publishedDateTime: 2021-07-30T02:50:00Z
+    webUrl: "https://techwireasia.com/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 76
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/editedGettyImages-1035331882-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
+  - title: "Perfecting mapping with AI and machine learning"
+    excerpt: "Across the world, mapping technology with Artificial Intelligence (AI) and machine learning allow users to have a variety of choices on their travels. Be"
+    publishedDateTime: 2021-07-29T00:50:00Z
+    webUrl: "https://techwireasia.com/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 74
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/000_9DK4N2-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
+  - title: "Understanding The AI Warfare And Ethics"
+    excerpt: "The world’s superpowers are building new super-fast, super-lethal armies powered by artificial intelligence. It’s a pretty unsettling future, and it’s around the corner."
+    publishedDateTime: 2021-07-29T04:19:00Z
+    webUrl: "https://www.wbur.org/onpoint/2021/07/29/understanding-the-ai-warfare-and-ethics"
+    ampWebUrl: "https://amp.wbur.org/onpoint/2021/07/29/understanding-the-ai-warfare-and-ethics"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2021/07/29/understanding-the-ai-warfare-and-ethics"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 74
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2021/07/GettyImages-503831286-RESIZED.jpg"
+        width: 3000
+        height: 1912
+        isCached: true
+  - title: "Getting Banned From Riding In AI Self-Driving Cars For The Rest Of Your Entire Life"
+    excerpt: "Expect to see a ban or no-fly type of list being developed for unruly passengers that ride in self-driving cars. This can be stridently enforced, though might not pass muster judiciously or societally."
+    publishedDateTime: 2021-07-26T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-from-riding-in-ai-self-driving-cars-for-the-rest-of-your-entire-life/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fcb2b2de2f157548bccd31%2F0x0.jpg%3FcropX1%3D107%26cropX2%3D3560%26cropY1%3D0%26cropY2%3D2301"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Catching the artificial intelligence buzz"
+    excerpt: "The federal minister for the digital economy, Jane Hume, will deliver a speech on Tuesday setting out how the government is backing artificial intelligence."
+    publishedDateTime: 2021-07-26T17:33:00Z
+    webUrl: "https://www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265"
+    ampWebUrl: "https://www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265.amp"
+    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265.amp"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 59
+    images:
+      - url: "https://images.perthnow.com.au/publication/C-3515265/6bbe09f178da49e5451814198832feb73ebb286a-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI helping researchers improve solar data from the Sun"
+    excerpt: "It's also important for deep space missions, which won't have the option of sounding rocket calibration. We're tackling two problems at once."
+    publishedDateTime: 2021-07-25T14:49:00Z
+    webUrl: "https://www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/ai-helping-researchers-improve-solar-data-sun-1502986170.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
     quality: 57
     images:
-      - url: "https://www.thenation.com/wp-content/uploads/2019/11/worker-robot-AP-img.jpg"
-        width: 1440
-        height: 907
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/07/AI-helping-researchers-improve-solar-data-from-the-Sun.jpg"
+        width: 777
+        height: 437
+        isCached: true
+  - title: "AI helping researchers improve solar data from the Sun"
+    excerpt: "Researchers are utilising artificial intelligence (AI) techniques to calibrate some of NASA's images of the Sun, helping improve the data that scienti.."
+    publishedDateTime: 2021-07-26T05:00:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-helping-researchers-improve-solar-data-from-the-sun/84749369"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-84749369,imgsize-296866,width-800,height-434,overlay-etcio/ai-helping-researchers-improve-solar-data-from-the-sun.jpg"
+        width: 800
+        height: 434
         isCached: true
   - title: "AI driving the future of in-car systems"
     excerpt: "Carmakers are bracing for new safety rules and standards around the world that could require dashboard cameras to detect dangerous driver behavior."
@@ -112,33 +188,33 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Data driven by AI is making the difference in healthcare"
-    excerpt: "Of all industries, nowhere might data analysis, driven by artificial intelligence (AI) be more beneficial than in the healthcare and medical sector."
-    publishedDateTime: 2021-07-27T07:50:00Z
-    webUrl: "https://techhq.com/2021/07/data-driven-by-ai-is-making-the-difference-in-healthcare/"
+  - title: "Catching the artificial intelligence buzz"
+    excerpt: "Backpacks to track bees, bushfire modelling and sensors to detect broken water pipes are some of the technologies being developed in Australia as part of an"
+    publishedDateTime: 2021-07-26T16:00:00Z
+    webUrl: "https://www.canberratimes.com.au/story/7358148/catching-the-artificial-intelligence-buzz/"
     type: article
     provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
+      name: The Canberra Times
+      domain: canberratimes.com.au
+    quality: 39
     images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/07/000_1W37NC.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/6f78c94e-5081-42b7-bc96-9cd824c8399d.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
+        width: 800
+        height: 452
         isCached: true
-  - title: "AI infrastructure solutions built for present and future success"
-    excerpt: "Simply put, the infrastructure that powers AI and deep learning applications is both fueling and limiting AI success, and organizations that manage to build enduring AI infrastructure are those that are destined for success."
-    publishedDateTime: 2021-07-27T10:28:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1623758832_993.html"
+  - title: "The Green way of defining AI in Mortgages"
+    excerpt: "This article explains how Digilytics offers RevEI to implement AI in mortgage for reducing carbon footprints of lenders. The mortgage industry needs AI to enhance the mortgage lending experience of the customers worldwide."
+    publishedDateTime: 2021-07-26T07:13:00Z
+    webUrl: "https://www.analyticsinsight.net/the-green-way-of-defining-ai-in-mortgages/"
     type: article
     provider:
-      name: Bitpipe
-      domain: bitpipe.com
+      name: Analytics Insight
+      domain: analyticsinsight.net
     quality: 37
     images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1623758832_993_lg.jpg"
-        width: 315
-        height: 408
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/AI.png"
+        width: 1600
+        height: 901
         isCached: true
 
 secured: "GDLfQ+jaxJXGdjLoHLe2zdOcdHEI+D5meF7ooxY5J0o2IJ1bDsla+YS/Sm1cZTniE/paq1dcDnnSC56wJUQQkjmlVYvq96ycItNIjokuZJGWkk6pKzpX6VkPpvsJKnYxfIKE1XOU0LskepR5wrQ9BW5/F6xpZ1js0vqK1bFRXsMiPJo9vFAqKhP62T9kb9fsdebUUxqAaX/hm5NA/N5TC9P53WUV99c97VSt03pYVnShpzUsO/wHNYY195hajYler8Mb68deaH4IMAKKBfMh236fkHpbjej6wqk5nhM5jOo0WNMVwFE14OfxIc2ProFNOjNmlXHeD+fSYej03OLT7fmmBzHLVWfyheJJ/u17D5A9O17emf8L5FrvTKx72/WyG0SbeGyFGNsrjng4et4Q1EzoibXgoQ2kJN+j88+Lk+wwgPWV4dBjXeiulBR4qCEB7hgkTGubBsbmc+yrwLVUok/5C/Hxv706eccgeqz9CR3n3jjbzE1wVoxkgXNX1HM/aEnOgW/yp2DxHVg2U5cYmg==;SBLBzYHgtqb7Zyebe8U5BA=="

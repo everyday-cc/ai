@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Blueberry grower tests self-driving electric tractor"
-    excerpt: "CLACKSANIE, Ore. — California-based Monarch Tractor will begin field trials in Oregon this year of its new electric, driver-optional \"smart\" tractor."
-    publishedDateTime: 2021-07-27T15:15:00Z
-    webUrl: "https://www.capitalpress.com/ag_sectors/research/blueberry-grower-tests-self-driving-electric-tractor/article_7af61e0a-ee76-11eb-9e8c-bb610dd0ad0f.html"
+  - title: "Super Cruise gets lane change, trailering functions as self-driving system added to more vehicles"
+    excerpt: "Cadillac's Super Cruise hands-free driver-assist system is being made smarter and available on more models in the lineup."
+    publishedDateTime: 2021-07-26T12:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1126890_super-cruise-gets-lane-change-trailering-functions-as-self-driving-system-added-to-more-vehicles"
     type: article
     provider:
-      name: Capital Press
-      domain: capitalpress.com
-    quality: 24
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 26
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/capitalpress.com/content/tncms/assets/v3/editorial/e/89/e894f018-eeed-11eb-a50f-fbdeaa298e92/610023ca2a8fa.image.jpg?resize=815%2C630"
-        width: 815
-        height: 630
+      - url: "https://images.hgmsites.net/hug/cadillac-super-cruise-with-automatic-lane-change_100733591_h.jpg"
+        width: 1920
+        height: 1287
         isCached: true
 
 secured: "eThq76JHLgYWZ7qyqjvHKlkuI6OMC203otj1WZKIKWTbXdzdh7g80FQGnLyg4/Y+nvxuT+uFtKcDPwVqMc/c4Zr09o2OGFAu0RYUpBdYVCUXc2JvZ4hLup/w19RsT5I3wNnolcaBErG+jXUTWwAYJNpvSeFDFh1BgvsUzrjrOt5UCXxOuVGS4Bly96OPPquHL7m65wBrS9q2V5WDpnY8Y7yRqxI4zYj2Afgjjd9E1oqLCzi+sA5JpDutd/D/8QWNBKeOiNdSwOAXk9hH6E3C0JHkR7HQz2CDXBnnOqWO1X/sxmwMdAljsGdQWf62IEzbzKrYNimkmn2/MBUq3TojqbsGOAfrC12mwmEJ8B2sixA=;kYGoqePE5Q4wBEG0FF5jUQ=="

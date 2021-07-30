@@ -55,6 +55,20 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Pearson transforms language learning with Microsoft Azure AI"
+    excerpt: "Education publishing firm Pearson is transforming language learning with Microsoft Azure AI, helping students via interactive instructions, reducing tutoring costs for parents and enabling digital learning during the Covid-19 pandemic."
+    publishedDateTime: 2021-07-26T13:53:00Z
+    webUrl: "https://www.technologyrecord.com/Article/pearson-transforms-language-learning-with-microsoft-azure-ai-125061"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 69
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10428/img-Unsplash_Jerry-Wang_education_school_student_web.jpg"
+        width: 940
+        height: 443
+        isCached: true
   - title: "Voice And Speech Recognition Software Market is Booming Worldwide | Microsoft, Alphabet, Voicevault"
     excerpt: "The latest study released on the Global Voice And Speech Recognition Software Market by AMA Research evaluates market size trend and forecast to 2026 The Voice And Speech Recognition Software Market study covers significant research data and proofs to be"
     publishedDateTime: 2021-07-28T07:31:00Z

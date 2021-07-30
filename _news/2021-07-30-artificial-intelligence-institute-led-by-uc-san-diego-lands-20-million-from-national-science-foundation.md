@@ -8,8 +8,8 @@ webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-07-
 ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant?_amp=true"
 cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant?_amp=true"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://ca-times.brightspotcdn.com/dims4/default/7a09f51/2147483647/strip/true/crop/6970x4661+175+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4b%2Faf%2F7a43259e4f079815dc8ef2d48f15%2Fsd-photos-1staff-742689-sd-fi-qualcomm-ceo-ec-008.jpg"
@@ -37,6 +38,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "a1ZwFIi5tHOn6H99fooMf3ZNPCjaOdK6+OsCBoufCDofF6AGvWp878G0xw1LVl6MnWSYrWZ+eyPLl4SCk0EtQU0rM7CYP+UW/gb2IvRWgAHilYhXxOhdpBJJtou0ccPtLdNtY8FPXOKG5LT9d5u6PJZdU9ftlWecVBMtpem4VoNzmZzwsd93tT3UIDZ/VzgEW/9Euq6OUuSMkEBJhnsShsBk+uJgXS+u+4TzyxHs2v7YHXoEebxdxp7GxXfF/4WdjPu69+XMWWRISlZopfZw8GNm9evmOhtPeWrm3UCH+rYbnaEE3zngVKWmh7NHs77Rk0xJnWDJxRRnNn0PLDVr0kx7qppeoZJ649fw369lKWw=;swNswNEwj7RNZxoGv8zxIg=="
+secured: "ZsB1TaTytKCn73PnIeDggN7bxqGXOGWdi0rSN5zQXvzo6iASP7UYWTLDbbLThwxSi9JzexuhKCVa+1iM3gxFcQO1sFwHSP/M/zkAG+iaKcF7cUyq5FP3DTEPyzqdUNvvZBKTXvYD+fibs0w532PtUHd9ENUwzzHblle4hm5/1uW7x8S6uDgEa0tzIA49yUV/YQfj7913kUekmNlfRzWgQD4caDE8c9lyncA3SHF72NmeG8VqkFH+yhVDackR/SYFDcnI05FxZQdsrjdpqYOlWnEuyR9UDBSjjy6oRKnnTWxNLPR0krNCDyMQL5g1w/QO5qfy41EHa8Byz0lKgcR9c66iTG/hidPFPpsbTD9gICLZaiy34gz5Qq0agYwvVHA6aNbtybN8U4NpZ72uvJj79fbfdblfhte1KBZkC6AhrSJqTX44PiqsLubRaD73q60mnHPFIWHsqiRh67WkwJE55M0u6n71dZHae4nEW476kTJ0mGKvG5E+CycmKyAXxq4gSVCrMABr17tYrIaMN9O5XQ==;4wNacWK3/rOTTrOtvT1niw=="
 ---
 

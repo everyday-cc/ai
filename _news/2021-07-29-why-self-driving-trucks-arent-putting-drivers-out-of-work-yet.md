@@ -25,61 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Getting Banned From Riding In AI Self-Driving Cars For The Rest Of Your Entire Life"
-    excerpt: "Expect to see a ban or no-fly type of list being developed for unruly passengers that ride in self-driving cars. This can be stridently enforced, though might not pass muster judiciously or societally."
-    publishedDateTime: 2021-07-26T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/26/getting-banned-from-riding-in-ai-self-driving-cars-for-the-rest-of-your-entire-life/"
+  - title: "Researchers Working to Improve Autonomous Vehicle Driving Vision in the Rain"
+    excerpt: "Researchers are studying ways to improve the vision of autonomous cars operating in bad weather conditions of rain, snow and fog."
+    publishedDateTime: 2021-07-29T17:40:00Z
+    webUrl: "https://www.aitrends.com/selfdrivingcars/researchers-working-to-improve-autonomous-vehicle-driving-vision-in-the-rain/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
+      name: aitrends
+      domain: aitrends.com
+    quality: 36
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fcb2b2de2f157548bccd31%2F0x0.jpg%3FcropX1%3D107%26cropX2%3D3560%26cropY1%3D0%26cropY2%3D2301"
-        width: 1200
-        height: 800
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/07/7-30BadWeatherDriving-2.jpeg"
+        width: 550
+        height: 366
         isCached: true
-  - title: "Self Driving Cars And Some Of The Worst Vehicles Ever Made"
-    excerpt: "We are seeing advanced technology in every corner of our world and as A.I. continues to emerge everywhere self-driving cars are being tested as a possibly for future transportation."
-    publishedDateTime: 2021-07-29T12:52:00Z
-    webUrl: "https://wnbf.com/self-driving-cars-and-some-of-the-worst-vehicles-ever-made/"
+  - title: "How autonomous vehicles are changing the face of transportation"
+    excerpt: "Autonomous vehicles (AVs) technology is implemented in several types of vehicles fulfilling both commercial and personal transportation needs globally. They rely on AI and ML to increase the level of intelligence used by understanding human participation."
+    publishedDateTime: 2021-07-29T10:42:00Z
+    webUrl: "https://www.wipro.com/business-process/how-autonomous-vehicles-are-changing-the-face-of-transportation/"
     type: article
     provider:
-      name: WNBF
-      domain: wnbf.com
-    quality: 39
-    images:
-      - url: "https://townsquare.media/site/499/files/2021/07/attachment-GettyImages-51933806.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        width: 1199
-        height: 807
-        isCached: true
-  - title: "GM Sues Ford in Fight Over Branding of Self-Driving Cars"
-    excerpt: "General Motors Co. is suing its competitor Ford Motor Co. for violating a trademarked driver-assist technology that’s used for hands-free features, according to a lawsuit."
-    publishedDateTime: 2021-07-26T14:45:00Z
-    webUrl: "https://www.ttnews.com/articles/gm-sues-ford-fight-over-branding-self-driving-cars"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
+      name: Wipro
+      domain: wipro.com
     quality: 24
     images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-bb-1200.jpg?itok=JdoLkruE"
-        width: 470
-        height: 246
-        isCached: true
-  - title: "Porsche imagines an interior for self-driving cars"
-    excerpt: "Comment Now! Porsche on Monday unveiled a previously-hidden concept for the interior of a self-driving car. That futuristic interior is housed not"
-    publishedDateTime: 2021-07-26T15:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1133010_porsche-imagines-an-interior-for-self-driving-cars"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/porsche-renndienst-study_100800578_h.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.wipro.com/content/dam/nexus/en/service-lines/business-process/latest-thinking/og-how-autonomous-vehicles-are-changing-the-face-of-transportation-i-486694971-502x263.png"
+        width: 502
+        height: 263
         isCached: true
   - title: "Beijing permits self-driving vehicle testing on expressways"
     excerpt: "Driverless cars will soon take to expressways for testing in the Chinese capital Beijing as the municipal authority has approved t"
@@ -95,6 +67,29 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "How the commercial vehicle sector is preparing for autonomous driving"
+    excerpt: "In many ways, trucks are a more viable focal point for the development of the artificial intelligence. More on CCJ."
+    publishedDateTime: 2021-07-29T17:18:00Z
+    webUrl: "https://www.ccjdigital.com/equipment-controls/article/15066682/how-the-trucking-industry-is-preparing-for-autonomous-driving"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 24
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/07/GettyImages_1130685915.60feb530e2e4d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Industrial Revolution 4.0 And Massively Distributed Manufacturing Will Be Driven Via Autonomous Vehicles And Self-Driving Cars"
+    excerpt: "The vaunted Fourth Industrial Revolution or Industry 4.0 will be aided via Massively Distributed Manufacturing, and the use of autonomous vehicles including self-driving cars will make it all come together."
+    publishedDateTime: 2021-07-28T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/28/industrial-revolution-40-and-massively-distributed-manufacturing-will-be-driven-via-autonomous-vehicles-and-self-driving-cars/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 6
 
 secured: "oMPIjPGORaxeuMoJbsv+oRNiHC8lwNJns2Cvn995fGx3OIt0E7VXPSEJCm0ZwfVx3I/pNgt7XIgTjTPZ/WbvUDlRDEz73G2VQG1xKIJtJO6zGYh8Ne0xOMkkrw9qI/t6KiGLWFiCtAxoNqUJ2P0ebFYmVAaS52yBMzulq6d2n87jOvcxgEdSlO/LHIoBly8MQRRNrtcLJz8z5apFj6QkjsHdNP+/wGpaYlRJevg1JOvEhFd4GGSJC6i2lBIa4eFdG5IvgJ+j57+Z0P2f+QDfYaBGM5609jPgOykQkdSYXJ9ARHMiS6sZAsfbfUNV3cwdyW2E6wRHCgus4i1nWgljBHUMEGZvw5lBvI/a7ZH68Q3cK6mvkII3WtZHwd5SJIAOJ7aEAQa97f/Hxksik5hOmiQQCOhRR9/78I2F7amuIaZe/XNZkUB3AaRQFjYbyf+qC1NVlxbtdPlySIICFWaiuMsBTBFNEEcOtwgCO3iQ7Q/zSCKaTqm5/F04n4HCoojbgZAYdh8SCJSEU2/Vh42+hw==;SqSYXKCPzR2103G7VQ0DgA=="
 ---

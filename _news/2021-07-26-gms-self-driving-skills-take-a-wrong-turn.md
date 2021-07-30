@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Industrial Revolution 4.0 And Massively Distributed Manufacturing Will Be Driven Via Autonomous Vehicles And Self-Driving Cars"
-    excerpt: "The vaunted Fourth Industrial Revolution or Industry 4.0 will be aided via Massively Distributed Manufacturing, and the use of autonomous vehicles including self-driving cars will make it all come together."
-    publishedDateTime: 2021-07-28T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/28/industrial-revolution-40-and-massively-distributed-manufacturing-will-be-driven-via-autonomous-vehicles-and-self-driving-cars/"
+  - title: "GM Sues Ford in Fight Over Branding of Self-Driving Cars"
+    excerpt: "General Motors Co. is suing its competitor Ford Motor Co. for violating a trademarked driver-assist technology that’s used for hands-free features, according to a lawsuit."
+    publishedDateTime: 2021-07-26T14:45:00Z
+    webUrl: "https://www.ttnews.com/articles/gm-sues-ford-fight-over-branding-self-driving-cars"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 6
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-bb-1200.jpg?itok=JdoLkruE"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "O7QcTjV9T9dydJfB8IsoBU7Spqsvq+GnJUcRow8VUFXR24X+8tBvyfjNVKcMvmyRpxuKtRcU0i3S9vpEk3j0+x3CpW96SBR9Zz8N1lNw+Z4BFwJIRp/tTg8UGxTpHCuAT7oSR6BAgbBGFl2H7D+moOoWNZFmMrNCefaLHyu0FSlJZ7+Tr+4wrhCU39kz5/IYAR+zRpA1FSLThWe/whsbl0peltTROSmgMPvxBg4OOgQfpNohXxOWvIeTU8I17WiitvgB5r+428x/dnnOGF/l8ghj3iDZyYP12Xcg5wz4KKoPjcaoAPCN2woFZuNGpxS08A5pLLXoAXkzTMNokY79RSFT9y9lFnAzO2ZqQ3d9kiY=;ZMsmlaoiagHCgOlupxbdcw=="
 ---

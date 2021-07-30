@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1126890_super-cruise-gets-lane
 webUrl: "https://www.motorauthority.com/news/1126890_super-cruise-gets-lane-change-trailering-functions-as-self-driving-system-added-to-more-vehicles"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "General Motors sues Ford over its 'BlueCruise' self-driving branding, saying it's too similar to GM's 'Cruise' and 'Super Cruise'"
-    excerpt: "General Motors sued Ford over its \"BlueCruise\" self-driving vehicles, saying the branding was a \"brazen\" attempt to use GM's \"Cruise\" trademark."
-    publishedDateTime: 2021-07-25T09:27:00Z
-    webUrl: "https://www.businessinsider.com/gm-sues-ford-bluecruise-self-driving-vehicle-branding-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/gm-sues-ford-bluecruise-self-driving-vehicle-branding-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-sues-ford-bluecruise-self-driving-vehicle-branding-2021-7?amp"
+  - title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
+    excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
+    publishedDateTime: 2021-07-28T19:14:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://i.insider.com/60fd211928e2cf0018905f10?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "quaguKebSRpAEmaaU6Vcc3lrV/bFr/zR5JXFKKyp+N7TtCT33cOqZYqjeIgx+8JIDgjEwVHwSBJxKMlJfjkVensAUDNCYK3u8vMlNLEbsDaiM1egJF0JKIykwRaWedKqjUOmI3bqUb2eM0wFaLEZhKrIuicVQi3+cWoxR3yjHG9hlSmEHphNcbzjsEUKW8LbO9Iz9oam5GTH4u7AwZW1c6NclmoMAAivMCs5w2/q2LbcGZNho+e2zqcnkMRmaGOKwPf4kQm27EsxVr7ho1SUOz/laEBa19QIpiIKq+WuEjY4ubwB26tlwloN+mbngoxqN86EpFxz8TPvdgtZXrU0jgM0Wn/Y9Ypizphxs59Lr/OzJPIO8SAG1J0lA3fQnGrr5NcfKalE3PYFsTtpoxsSZpeS7Wti3XwcD+XZ++HTQoDT7m99KWd160CMjvW+K2Ttw+Y5rZjDTqad2T5yhRqtP9S29ScZh/lfIbUJI0E7zcg3sUOpWh9iHqQNyF2yVOfb9j4fXdVJBIX/T97i/0GXVQ==;huexpXSr2WMG37L3eTxFbA=="
 ---
