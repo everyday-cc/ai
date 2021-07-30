@@ -21,8 +21,8 @@ topics:
 related:
   - title: "Deep Learning in Science"
     excerpt: "This is the first rigorous, self-contained treatment of the theory of deep learning. Starting with the foundations of the theory and building it up, this is essential reading for any scientists, instructors, and students interested in artificial ..."
-    publishedDateTime: 2021-07-27T17:56:00Z
-    webUrl: "https://www.cambridge.org/nz/academic/subjects/computer-science/pattern-recognition-and-machine-learning/deep-learning-science?format=HB&isbn=9781108845359"
+    publishedDateTime: 2021-07-27T17:31:00Z
+    webUrl: "https://www.cambridge.org/rs/academic/subjects/computer-science/pattern-recognition-and-machine-learning/deep-learning-science?format=HB&isbn=9781108845359"
     type: article
     provider:
       name: Cambridge University Press

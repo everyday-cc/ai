@@ -65,6 +65,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 33
+  - title: "Abake Adenle Works to Expand Discourse on Role Artificial Intelligence Can Play in Africa"
+    excerpt: "While data privacy is a hot topic in the United States, Abake Adenle says in many ways, it’s even more concerning in African countries. Safeguarding data privacy is more complex because foreign entities are the ones collecting most user data."
+    publishedDateTime: 2021-07-29T23:06:00Z
+    webUrl: "https://www.aaas.org/news/abake-adenle-works-expand-discourse-role-artificial-intelligence-can-play-africa"
+    type: article
+    provider:
+      name: AAAS
+      domain: aaas.org
+    quality: 28
+    images:
+      - url: "https://www.aaas.org/sites/default/files/styles/large/public/2021-07/Adenle_Abake_440x440.jpg?itok=XuEMjtI8"
+        width: 440
+        height: 440
+        isCached: true
 
 secured: "3xp76mr67zQwjwyiTaPRRhAscd7l8/M74MgfEE+4/ItuA8Xh0+8fwhASo280w1RnTwDqkWAj/YVfgXhO/4Kt43t831Mdw6aUAPBCv7U+CNbTat99OVjRz/iuVo0sWhX0dXpUI6gi1WeKEtkWYObdYHzpyhCAoDd6IIpSkZaf/ccLR3L864Yz1o9kxKidlXqej6Ft4kTIYl21tDHttXF2BYYmgRQYfgCvwJnHUQzIV1KHfLkYpBIMv1/G0VGkdM/4g++3h/4jGpt14wHgNpuXy6PkyKLHTY2ucafBs+UC4oezE7QunbmEcpdI1/EFa+s/e9fytNRU1/E4JCJqFzUQAPcy/qVp2wl/YULZUnbCCys=;nLuArKRvDMtX9yFAKzts4A=="
 ---

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Catching the artificial intelligence buzz"
-excerpt: "The federal minister for the digital economy, Jane Hume, will deliver a speech on Tuesday setting out how the government is backing artificial intelligence."
-publishedDateTime: 2021-07-26T17:33:00Z
-originalUrl: "https://www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265"
-webUrl: "https://www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265"
-ampWebUrl: "https://www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265.amp"
-cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265.amp"
+title: "Baidu head predicts transformation in AI tech"
+excerpt: "In the next decade, eight key technologies in the field of artificial intelligence will undergo a \"quantitative to qualitative transformation\" and thus profoundly change society, said Robin Li, co-founder and CEO of internet search giant Baidu Inc."
+publishedDateTime: 2021-07-29T09:21:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202107/29/WS61027330a310efa1bd66555c.html"
+webUrl: "https://www.chinadaily.com.cn/a/202107/29/WS61027330a310efa1bd66555c.html"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Perth Now
-  domain: perthnow.com.au
+  name: China Daily
+  domain: chinadaily.com.cn
 
 topics:
-  - AI Ethics
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://images.perthnow.com.au/publication/C-3515265/6bbe09f178da49e5451814198832feb73ebb286a-16x9-x0y0w1280h720.jpg?imwidth=1200"
-    width: 1200
-    height: 675
+  - url: "http://img2.chinadaily.com.cn/images/202107/29/61027330a310efa1e3b2807e.jpeg"
+    width: 440
+    height: 293
     isCached: true
 
 related:
@@ -88,6 +86,22 @@ related:
         height: 800
         isCached: true
   - title: "Catching the artificial intelligence buzz"
+    excerpt: "The federal minister for the digital economy, Jane Hume, will deliver a speech on Tuesday setting out how the government is backing artificial intelligence."
+    publishedDateTime: 2021-07-26T17:33:00Z
+    webUrl: "https://www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265"
+    ampWebUrl: "https://www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265.amp"
+    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/politics/catching-the-artificial-intelligence-buzz-c-3515265.amp"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 59
+    images:
+      - url: "https://images.perthnow.com.au/publication/C-3515265/6bbe09f178da49e5451814198832feb73ebb286a-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Catching the artificial intelligence buzz"
     excerpt: "Backpacks to track bees, bushfire modelling and sensors to detect broken water pipes are some of the technologies being developed in Australia as part of an"
     publishedDateTime: 2021-07-26T16:00:00Z
     webUrl: "https://www.canberratimes.com.au/story/7358148/catching-the-artificial-intelligence-buzz/"
@@ -125,20 +139,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Overview-on-Transformation-in-Radiology-through-Artificial-Intelligence.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "Baidu head predicts transformation in AI tech"
-    excerpt: "In the next decade, eight key technologies in the field of artificial intelligence will undergo a \"quantitative to qualitative transformation\" and thus profoundly change society, said Robin Li, co-founder and CEO of internet search giant Baidu Inc."
-    publishedDateTime: 2021-07-29T09:21:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202107/29/WS61027330a310efa1bd66555c.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202107/29/61027330a310efa1e3b2807e.jpeg"
-        width: 440
-        height: 293
         isCached: true
   - title: "Why Artificial Intelligence Implementation is Lagging in International Shipping"
     excerpt: "The long-term benefits of including AI-powered systems in logistics and supply chain operations are well known."
@@ -178,6 +178,6 @@ related:
       domain: finextra.com
     quality: 19
 
-secured: "4+rmJdR79D0Q3NG4AEDEc/jGvgSjf54lV4hkxC9vQwm0zhG3o7H+YwDm92DLITfhfjXF96ZwcptzWMdrst6lvHGoK32nrStXCjA+XnElvWDzlG1xaAfOqZGkaTLeoeBVm/w7lDaPrGLUj9C6OLmoytA+5Ate5Uu1OxMKj/a6gHAUida7Ceb1+Hf/ZBziBrT9ZLhFkBX5siMstdpYHl0cTWy80zR/et6m8TTkN4Fo7KWTu+mIGkVDtpF012AJ50IJMvnKDvlsTnAJRXwywYrQ7L25eqBAZsPO40Xy31kUUUhrAiyj8jaUz10ahu0Mxetz3gRBC0xj6CdEDR8PBb6H9Es0XI+Vf2bVSvafk+4BsoM=;muLRKBUMVKNI/0B0BxJEug=="
+secured: "IW/Q9wnP9GLLvQjOaEwvLiKVo38+mrFA2fWrImvYmOssgQ864UFeQlBeIbu5v3B2+m9Kf0qzHIgkF5PNL24SI//obfeaUaij7zrrf/fu2vmebf9CQ9Gf+jylutiB24WiLiwl7K3nw3lVVQfWjeW98gJ2sc7VmPydnmygqorxdWZIIzU6aVFBNztJi1jrmiVAVgqhlw17quWgiUiUuZ7bvndT8kLhshlVabJbFIEbRF2AmwOTUl7hnAKWP5IziTFBOpH+sLeKhq95EhkIUttg5FAuE5khAUPiNLu1btNxxyKBarJYCwneEUTyGFjpi5NYFfhtFaRXQS2uJG37l/GK/GOhrhaLtCBLDFpTYHxFNVM=;LYDBklKTl0AUP/jES2wAJQ=="
 ---
 

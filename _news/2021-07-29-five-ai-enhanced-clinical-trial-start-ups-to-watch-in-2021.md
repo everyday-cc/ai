@@ -40,6 +40,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Healthcare AI Market Next Big Thing"
+    excerpt: "Latest released Global Healthcare AI Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price, and sales revenue to better derive market size estimation."
+    publishedDateTime: 2021-07-29T22:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Y6G1CBFx94bd6mx9czB7YxlfGRH1Xyum8XSxqV/EXndOTH4EP4u22ZVM3FaD7Rq5mr3lRW+wXbecinDnTWSYoghPKPInix0UIoTkmz7Ry+/ghGDHWQo3USfDwC0Z/orM92JocDzicHCFAknz+Gpny3vOp7NYgEbPlU9UMenynOuNMckI4LOIAWz/fcGxiYORasl0xvhAujGYQC3aJUDN9cfI8QJhnxrFGi2B9n9/f8k+RtaPyy13jq4LsRrshKlwW7xW020XvDgWfdQve0H/8t494mukPGh4WJeZggter++3W8RwoYGeH0wbxcpekzyazAC1nSVhJmhlcXhjRBmSOHkK9pLcizYK8KZG+b9intFponugEiOg0JWnzWNs8eL4siloknDpGWzvMhSIkh508pF3RUzDrEQDSWx6uRZjHGJ3X182YgnA+21VHeDiRm+DwBYHXKkslp02DcF+N5Jg0AdKWWRdOTEUph3pHECVtnmF/+JOwN7RMAbJ+22b3wqqTPpO7W5sZ8Z//M+cH3/05A==;OQRfE5dqx+LIE+ufKwFFtg=="
 ---

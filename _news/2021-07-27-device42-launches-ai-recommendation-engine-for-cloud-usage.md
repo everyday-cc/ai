@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/26/device42-launches-ai-recommendati
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/26/device42-launches-ai-recommendation-engine-for-cloud-usage/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/tech-gadgets/how-ai-and-machine-l
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/tech-gadgets/how-ai-and-machine-learning-can-make-or-break-our-mobile-privacy-02421949/amp"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

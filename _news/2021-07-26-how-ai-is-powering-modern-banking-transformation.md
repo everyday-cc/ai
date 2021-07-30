@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-mo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vmware/2021/07/26/how-ai-is-powering-modern-banking-transformation/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -129,6 +129,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Overview-on-Transformation-in-Radiology-through-Artificial-Intelligence.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Baidu head predicts transformation in AI tech"
+    excerpt: "In the next decade, eight key technologies in the field of artificial intelligence will undergo a \"quantitative to qualitative transformation\" and thus profoundly change society, said Robin Li, co-founder and CEO of internet search giant Baidu Inc."
+    publishedDateTime: 2021-07-29T09:21:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202107/29/WS61027330a310efa1bd66555c.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202107/29/61027330a310efa1e3b2807e.jpeg"
+        width: 440
+        height: 293
         isCached: true
   - title: "Why Artificial Intelligence Implementation is Lagging in International Shipping"
     excerpt: "The long-term benefits of including AI-powered systems in logistics and supply chain operations are well known."

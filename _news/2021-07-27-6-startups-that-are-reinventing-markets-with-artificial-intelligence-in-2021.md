@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/378434"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378434"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare AI Market Next Big Thing"
+    excerpt: "Latest released Global Healthcare AI Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price, and sales revenue to better derive market size estimation."
+    publishedDateTime: 2021-07-29T22:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Five AI-enhanced clinical trial start-ups to watch in 2021"
     excerpt: "We look at some of the most exciting startups harnessing artificial intelligence to improve clinical trials. Artificial intelligence (AI) is increasingly being employed to improve the operational efficiency of clinical trials,"
     publishedDateTime: 2021-07-29T16:32:00Z

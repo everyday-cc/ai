@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Device Taps Brain Waves to Help Paralyzed Man Communicate"
+title: "Device taps brain waves to help paralyzed man communicate"
 excerpt: "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ..."
-publishedDateTime: 2021-07-14T21:29:00Z
-originalUrl: "https://www.usnews.com/news/health-news/articles/2021-07-14/device-taps-brain-waves-to-help-paralyzed-man-communicate"
-webUrl: "https://www.usnews.com/news/health-news/articles/2021-07-14/device-taps-brain-waves-to-help-paralyzed-man-communicate"
+publishedDateTime: 2021-07-15T03:19:00Z
+originalUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
+webUrl: "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1424"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "vadbOKe4z+3BIY2/cai7/0as1hZtx0drr4ZZu2bP8gvfiDOnCEcZSFSfUJS8lAbEfeKlDQgVxuX/6IPiOdX9+PiOTx6A1uih8p4YdOUIm38Pd6au6zuKyW4bZhE0Ji4bbBm6ucFhDcwjp4oYZJCyS0O3h4xm889/xu/kANz7G7POVyyRjskUiTWsE2E9DJsCGCN3IV9ykHMax7FusnfzhgxkLyocOfo24aHFQW2d+hEPm4Qtb6cs/u7PhdHn7zQcph4vsWlUEHvGRFaXyjFJFSdD9DaDBv9RTnbA5Aa3qTDkJsnMQlm/Enb8iPmz7kLTishKZTPeygBVAKeLW/w5T5lT0izT2JUmCa87dteT6ow=;xJWllXHeXr9UllAn1hC7Cw=="
+images:
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg"
+    width: 2500
+    height: 1669
+    isCached: true
+
+secured: "W9+uH/++QN2cKzNLlAS1rINhFnCgyXUhYGJgpS5upftwo6bVM01zTxQJzs33ZWHpTKXabuwIaYJAPTBJSxMKkiHaennJj/8TgmWEIpSt0QPSoADzjbSLYN6022Xusrx2bdc8xRLlYVxk2kvKlDWbayz6own35xGhzTtsiHk55KnX6Ft8cHy84doDvM39By56jEWeSqrybhIy0oHEzWelRH+RhafKHBXKhqlUfZZOptSHbY4BnjC6f/l382MmT9crh630UQy3pNVQ6g9qx9IFGfnK4MEttIPkH5e//gbZm+5P+m+JKftrtTPgPVYuVcjFXJZLwUVSd1+1Kuj2fCk0knpoqd/feXimDQXSP+Pda+o=;3YbbMFYl3K1U4V6nwjzNcg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/28/deepminds-xlearn-trains-ai-agents
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/28/deepminds-xlearn-trains-ai-agents-to-complete-complex-tasks/amp/"
 type: article
 quality: 104
-heat: 115
+heat: 114
 published: true
 
 provider:

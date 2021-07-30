@@ -140,6 +140,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Baidu head predicts transformation in AI tech"
+    excerpt: "In the next decade, eight key technologies in the field of artificial intelligence will undergo a \"quantitative to qualitative transformation\" and thus profoundly change society, said Robin Li, co-founder and CEO of internet search giant Baidu Inc."
+    publishedDateTime: 2021-07-29T09:21:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202107/29/WS61027330a310efa1bd66555c.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202107/29/61027330a310efa1e3b2807e.jpeg"
+        width: 440
+        height: 293
+        isCached: true
   - title: "Action Mode: Now, an Artificial Intelligence model for disaster risk prediction"
     excerpt: "A model solution has been developed under the Microsoft AI for Humanitarian Action programme to build disaster resilient communities in India"
     publishedDateTime: 2021-07-27T13:43:00Z

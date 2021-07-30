@@ -34,7 +34,7 @@ related:
     provider:
       name: KTVZ
       domain: ktvz.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://ktvz.com/wp-content/uploads/2019/10/OSU20logo20new201018_1541011752853-2.jpg_16252532_ver1.0-2.jpg"
         width: 700

@@ -1,36 +1,45 @@
 ---
 category: news
-title: "Using AI to map Africa’s buildings"
-excerpt: "Between 2020 and 2050, Africa’s population is expected to double, adding 950 million more people to its urban areas alone. However, according to 2018 figures, a scarcity of affordable housing in many African cities has forced over half of the city dwellers in Sub-Saharan Africa to live in informal settlements."
-publishedDateTime: 2021-07-28T16:00:00Z
-originalUrl: "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/"
-webUrl: "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/"
-ampWebUrl: "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/"
-cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/"
+title: "Abake Adenle Works to Expand Discourse on Role Artificial Intelligence Can Play in Africa"
+excerpt: "While data privacy is a hot topic in the United States, Abake Adenle says in many ways, it’s even more concerning in African countries. Safeguarding data privacy is more complex because foreign entities are the ones collecting most user data."
+publishedDateTime: 2021-07-29T23:06:00Z
+originalUrl: "https://www.aaas.org/news/abake-adenle-works-expand-discourse-role-artificial-intelligence-can-play-africa"
+webUrl: "https://www.aaas.org/news/abake-adenle-works-expand-discourse-role-artificial-intelligence-can-play-africa"
 type: article
-quality: 109
-heat: 149
-published: true
+quality: 28
+heat: -1
+published: false
 
 provider:
-  name: Google
-  domain: blog.google
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg"
-      width: 50
-      height: 50
+  name: AAAS
+  domain: aaas.org
 
 topics:
   - AI
-  - Google AI
 
 images:
-  - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BINK_GoogleHero_Open-Buildings_V2b_2096x11.max-1300x1300.jpg"
-    width: 1300
-    height: 733
+  - url: "https://www.aaas.org/sites/default/files/styles/large/public/2021-07/Adenle_Abake_440x440.jpg?itok=XuEMjtI8"
+    width: 440
+    height: 440
     isCached: true
 
 related:
+  - title: "Using AI to map Africa’s buildings"
+    excerpt: "Between 2020 and 2050, Africa’s population is expected to double, adding 950 million more people to its urban areas alone. However, according to 2018 figures, a scarcity of affordable housing in many African cities has forced over half of the city dwellers in Sub-Saharan Africa to live in informal settlements."
+    publishedDateTime: 2021-07-28T16:00:00Z
+    webUrl: "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/"
+    ampWebUrl: "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BINK_GoogleHero_Open-Buildings_V2b_2096x11.max-1300x1300.jpg"
+        width: 1300
+        height: 733
+        isCached: true
   - title: "AI-enabled HCM systems in a post pandemic Africa"
     excerpt: "Prior to the arrival of the pandemic, mid-size organizations in Africa were experiencing significant growth. However, under the wide ranging effects of the pandemic, the economic activity is projected to have declined by 3."
     publishedDateTime: 2021-07-25T13:52:00Z
@@ -70,21 +79,7 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 33
-  - title: "Abake Adenle Works to Expand Discourse on Role Artificial Intelligence Can Play in Africa"
-    excerpt: "While data privacy is a hot topic in the United States, Abake Adenle says in many ways, it’s even more concerning in African countries. Safeguarding data privacy is more complex because foreign entities are the ones collecting most user data."
-    publishedDateTime: 2021-07-29T23:06:00Z
-    webUrl: "https://www.aaas.org/news/abake-adenle-works-expand-discourse-role-artificial-intelligence-can-play-africa"
-    type: article
-    provider:
-      name: AAAS
-      domain: aaas.org
-    quality: 28
-    images:
-      - url: "https://www.aaas.org/sites/default/files/styles/large/public/2021-07/Adenle_Abake_440x440.jpg?itok=XuEMjtI8"
-        width: 440
-        height: 440
-        isCached: true
 
-secured: "0gd98reCyYEWwaBMmFgacXzyaUXbwW8v8A312MhzD2pr4bvi/QbkR6gIANH/pxgRtlWiWoPCbLNRpTGFPHKMM1U75gYCkXQ4fkyShibzcceB0slQdAi71s1yv85sbRIUSa7jCWFQ03aTPuBSnMG8z9gIJXR1b84pHj9tjkeIrSTVXsL1gweoeg9U9rm5ccEItJDrI7pqXRH1dfhLeYEgJ7PKcn59jAHSgn9Ysn5JnTDqqaRyt6xEEiYREWgew2V7mLUp9FC4+B9FkQCteC5YsDVKOlGYFGzdJEo0xsMf0kh06Vcwagi3VnGz3NMxIsuCg32FoK3oPXX+ET1GxESAqozdCdFJIYYRzXOVP5k/q2k=;O/YH0KQu2djAhPf6jhdATA=="
+secured: "kImS47upKax7ULg+MuJfRj2gs0UBhMaHWm5D1H3Ap3JRWt1XOMpwOaZdSxJ2McDwbIn+oeOAHpo7WDB66+auhs95R96UekkZTWCjXTWCkkEFf0jVxbrZNsi7m6+VG6Vv+eJzCZK1hqw8+PFLrwd4sayLJt4NSXHgl7v8o9RCwxEImX1kWGygRSzAK1D/eaMcXLC38PVO8c6Ynlzhxq2R3lDKoEaoWhgloSWAqH2mrGpy/nEMiYGeOBV/HgSgCsp3ABdWrKdcJHuwtEwuAp5elr1b6aslMofptN05MItpW4zOEJnsmcRcys2jRx83rsZhUJjSSDQAyIT9GP7ereP6ErlNnvtlOZAGIku+a7YeTZc=;j4mFFspmAJRuZ0j6XNlw7g=="
 ---
 

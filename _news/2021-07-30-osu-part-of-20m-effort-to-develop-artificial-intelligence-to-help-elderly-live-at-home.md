@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-29T21:53:00Z
 originalUrl: "https://ktvz.com/news/oregon-northwest/2021/07/29/osu-part-of-20m-effort-to-develop-artificial-intelligence-to-help-elderly-live-at-home/"
 webUrl: "https://ktvz.com/news/oregon-northwest/2021/07/29/osu-part-of-20m-effort-to-develop-artificial-intelligence-to-help-elderly-live-at-home/"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://ktvz.com/wp-content/uploads/2019/10/OSU20logo20new201018_1541011752853-2.jpg_16252532_ver1.0-2.jpg"
@@ -42,6 +43,6 @@ related:
         height: 434
         isCached: true
 
-secured: "+1rFI2CvycdFH3pkJfwC9fnlEILff1XECn25uLv76TXL6TLx1DhefZ8Vzn70lou3d94KMYiGm2PXd9wa8dJRICz917ILXGkcc71KQKZHRb12NGz0t8Vh6/zovKtoKlSY/OJQdN7N9R7gwar7vee2ua6sjM4BBvBxH8dkk+GLt/3QNwyPFHrDHa+f0XncZHy/MQGEb279sidfU0/V50tWadAeaCr1jFKEo8wkT8x1vl5UgznE3G3NXMCYAMgpSnh9axws6mUj+ubVQskf2oETLOqvU5ddpZ/B/o45PkF8z2sNoYehwFkjTbOfuDilQDhc4ZidphWim9CNJ/3cY6e++WpszTtH1pK9nzh91BoSDeE=;Z/qUjw9aCn3uTyzBv8xs+A=="
+secured: "khiW2q4v4zl24L15KiqiBflCvs2REA78wt8PFrOAJaGIb5U25U+YJ/UfvnqqN3JDOetMinq5qvaVamvPxnlnx3nDzzkKPyQEHTcLZv85JqeaVDCI2CcHTMFc7RrrftIxkj76oFE46m+8LxzAWnZAPEIVp83u0x3wb1oBbrYbkrs1ZLPAif2V/EIgqPaoEjTX91OEtKjOGLQJZZqk+8Xw4SgoqXuaEMYwF7bsCNjJEIK6t08xiJqaOAW0W0tWz0giic0J4CrCOWoR3w1OBClf+e7apejWUbYNSzRhBMO/B+73vSzI7eoWR9/aWI8iYIRXodp8nWF00S+HaMrZTXTe8IyHX6VqUO23jSJslN94+TyRcgx62Yi6wHsHKqS5YIkxB7M3GHBWJxe+jvV8cAPpxSzVe+P/gTK5TpnaQsejf2a0mu3gPvA9U3mBZc3stkuPo1sUb+Wk+nHV76Ue2PjLzZcYEvzetz6SsaNTy3Nnxn0v7Vk0fyjdllnRsk+q8UuVKYViriD9j+me8/6ZkvkU8A==;22TgeCQ5PYA5DKhctG+pWA=="
 ---
 

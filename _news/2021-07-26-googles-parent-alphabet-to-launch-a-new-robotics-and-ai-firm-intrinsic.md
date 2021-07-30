@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/googles-parent-alphabet-to-launch-a-new-robot
 webUrl: "https://techstory.in/googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic/"
 type: article
 quality: 70
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s Parent Alphabet to Launch Robotics Firm Intrinsic Under Its Other Bets Unit"
-    excerpt: "Alphabet's secretive research unit said on Friday it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
-    publishedDateTime: 2021-07-25T06:32:00Z
-    webUrl: "https://www.news18.com/news/tech/googles-parent-alphabet-to-launch-robotics-firm-intrinsic-4004633.html"
-    ampWebUrl: "https://www.news18.com/amp/news/tech/googles-parent-alphabet-to-launch-robotics-firm-intrinsic-4004633.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/googles-parent-alphabet-to-launch-robotics-firm-intrinsic-4004633.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 69
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/07/1627194566_google_reuters-1-1600x900.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Alphabet to launch robotics firm Intrinsic"
     excerpt: "Alphabet's secretive research unit said it will launch Intrinsic, its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo."
     publishedDateTime: 2021-07-25T19:43:00Z
