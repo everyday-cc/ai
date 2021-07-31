@@ -1,65 +1,20 @@
 ---
 category: news
 title: "Facebook's new privacy changes for Instagram's teen users met with both praise, scrutiny"
-excerpt: "Facing an onslaught of ongoing criticism, Facebook said that it's taking several steps to make Instagram safer and private for teens."
-publishedDateTime: 2021-07-27T17:44:00Z
-originalUrl: "https://techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.html"
-webUrl: "https://techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.html"
-ampWebUrl: "https://techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.amp"
+excerpt: "Facebook introduces a slew of privacy changes for Instagram's teen users. While praised by some experts, others wonder will the changes actually work?"
+publishedDateTime: 2021-07-27T19:35:00Z
+originalUrl: "https://www.azcentral.com/story/tech/2021/07/27/instagram-teen-safety-update-facebook-mark-zuckerberg/5381319001/"
+webUrl: "https://www.azcentral.com/story/tech/2021/07/27/instagram-teen-safety-update-facebook-mark-zuckerberg/5381319001/"
 type: article
-quality: 50
-heat: -1
-published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/4-facebook.jpg"
-    width: 1920
-    height: 1280
-    isCached: true
-
-related:
-  - title: "Facebook announces plans to make Instagram more private for teens"
-    excerpt: "The social network said new teen accounts will automatically be private and it will be harder for suspicious adults to find underage users."
-    publishedDateTime: 2021-07-29T14:29:00Z
-    webUrl: "https://www.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens"
-    ampWebUrl: "https://amp.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 74
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/methode/2021/07/29/a133b21e-f04a-11eb-b683-cf7af9070523_image_hires_170856.jpg?itok=WL96rcJo&v=1627549746"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facebook's new privacy changes for Instagram's teen users met with both praise, scrutiny"
-    excerpt: "Facebook introduces a slew of privacy changes for Instagram's teen users. While praised by some experts, others wonder will the changes actually work?"
-    publishedDateTime: 2021-07-27T13:54:00Z
-    webUrl: "https://www.statesman.com/story/tech/2021/07/27/instagram-teen-safety-update-facebook-mark-zuckerberg/5381319001/"
-    ampWebUrl: "https://amp.statesman.com/amp/5381319001"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5381319001"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 50
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/07/19/USAT/bd70cf9d-21ae-4a27-af30-bced9016eb48-GTY_586113554.JPG?auto=webp&crop=2999,1687,x0,y180&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-
-secured: "7Wndoq/qM64fo+f96xAEVhrKLzM68vjDBTUdi2hyEhYXsAvghhnIfqGi8ihMLBt8PtDp6q+P/0RVmGvP9bXau7iHx8P5VuLmUv57ziiIsqNuzc0MxMK2y8SQnG/KImXZarBmeNo+LQ8tGCHQg5IcG63ULsJZMyaSgDWnph7Ty0aBywQiWZuvnX5aN4Od1Wn+GDkLlPGtoRlBAKSDSJs9r48xrpaOBoDVteOF11Iq37qDkqNptsoiE0dTk1A0SENAfBNhF7Jsf8+7tr0zz5kRI2kZcYypkIp0n0VRcAlNpxa60BfKdZpd85arrtuPKu+p/Wvg198jDbseYTjbqXeqw0SZHsBTWuQdFpzCUw9gaXeGBKJ8+s6pQWu/hqyS4jUBfhgcO8y8Xc6WAokhXRN+LKVw5XuLYukeC5fI5L7vqVsr29KWLFxuTbceZzMIIHFyDrxj/UcQNZXUFFLBB5qbU2UmCNnV4QpB8BC+RTq9yJPFlmrB+T+rHZJl1P7gMHk4mek8OqC3fprbppxbaVhpUw==;7WCtb27F1uV8298AbjSSjA=="
+secured: "Iqh3y8Zf+RlmyJ2RhdDIrZMS0pggCzv6T6xWLkPX5C9LI/U1QAvawUcUu1SpcWDjxBLOffxvch+B25nt1bNlcI10EXNg7xwsETMXciqNnYtUu0228ZHNeUygWrhUNGp9kpaatrBjCAAkU8neXwi23PqL1qdpIjh+sBngJc8dpD0+QR4DL+eT+Q8VklJ0cx59Xd96ri+Bctx+RQGEPrOw5g2OjWP+4Un4sP362qSg1Y0ArakRk6TdfJb7dm4TPzdI4bK5CvdhcuO1Rk3eIR/0myFzPv86ddAklpfx3YkTAVFquknJuL0BqI3+9ShSkNZNa/TpnPPe/tz88DTKN8VG6qFDMkBsPzkBWOG+PEMLn6fPK7iT821jTSQ3a1zT5e09rzwOZF0gyn8x5w263eK4KfN50tejyog6hxadf9mFR1cTxiKafix/hSkb8AC3M4gCLx3ffCieMglWu17/jt4yst39LC9ynSdWgLNkPdByFGk27j5d0gKsrgnx61o2edeHzAMypv42Ukp94g3L/029AA==;uu+8NAaF5eBUUB4qsvKO8Q=="
 ---
 

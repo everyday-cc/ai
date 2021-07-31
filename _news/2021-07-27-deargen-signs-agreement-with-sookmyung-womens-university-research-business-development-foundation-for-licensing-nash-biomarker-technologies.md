@@ -1,29 +1,20 @@
 ---
 category: news
-title: "Deargen Signs Agreement With Sookmyung Women’s University Research & Business Development Foundation for Licensing ‘NASH Biomarker’ Technologies"
-excerpt: "Deargen (President: Kilsoo Kang), an artificial intelligence (AI)-powered drug discovery and development company, announced on July 27 that it signed an agreement with Sookmyung Women’s University Research & Business Development Foundation for licensing biomarker technologies for determining the progression stage of NASH (non-alcoholic steatohepatitis) patients."
-publishedDateTime: 2021-07-27T12:02:00Z
-originalUrl: "https://www.cadillacnews.com/ap/business/deargen-signs-agreement-with-sookmyung-women-s-university-research-business-development-foundation-for-licensing-nash/article_c7517cda-62b6-5852-9fdb-cb79935f2286.html"
-webUrl: "https://www.cadillacnews.com/ap/business/deargen-signs-agreement-with-sookmyung-women-s-university-research-business-development-foundation-for-licensing-nash/article_c7517cda-62b6-5852-9fdb-cb79935f2286.html"
+title: "Deargen Signs Agreement With Sookmyung Women's University Research & Business Development Foundation for Licensing 'NASH Biomarker' Technologies"
+excerpt: "Deargen, an AI-powered drug discovery and development company, signed an agreement with Sookmyung Women's University Research & Business Development Foundation for licensing bioma"
+publishedDateTime: 2021-07-27T12:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-deargen-signs-agreement-with-sookmyung-womens-university-research-/2021/07/27/9417362.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-deargen-signs-agreement-with-sookmyung-womens-university-research-/2021/07/27/9417362.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Cadillac Evening News
-  domain: cadillacnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/assets/v3/editorial/9/9c/99cbdf74-f10f-5862-8632-2169689ed864/60fff9a210107.image.jpg?resize=1016%2C630"
-    width: 1016
-    height: 630
-    isCached: true
-
-secured: "IVTeMQDgkBRubHzKM+ja82xUk2/5/2ZWluU/ckpDSbO0mwJH6X6bv6Yp12jy36Za+tPAVChsN9WZVFxfXqG6IpWZfdIGaIp1EJ+qWq7hfWceJHsrlm1nWsajwZP4npj6SqOC8skgVBzGwTyoJiOMidg2lPmUvEvsqBSY1mI+jw7hwk9AaDQOGgRFwzqh/BDI1M2gK6jqXyQ19LUgORP+C5cZjxMZVNf53K+sPQrZpaN4uv9Cvek7ukhQsaiV1DPmxgHmr9m/snlBFPCBZ4na5R2aPFdePqg4lEBsXABpBgrbI57NpiTBoHpU5D8JxqFCRNh6EwHwzwpX4N1+Uu2KT79Lm5Q+pu7WmfI+VPwB+ig=;EezoBzt4JWWl3aLqTgUosQ=="
+secured: "TxLCkOyQAgg2VZoZtD+hPkHbHULGVBmCSgOoSsyNTd76sC5vO3VsCUvPwTFJJUAmkXzOfHwav+izlFPuoVTWfYGNkJLnRMC5+A7DYCP2D3TZsJNTYzHJ+j20bUEdO3qsBNadw7nrOyqNWpzPDAwbx/vVz8Qo/QiAzacMh8gchfHcr2aABVFLUfTy9Qqv33O8K+T3SrEg08ZeHI8/ws4ozlukBzdz8pfZ2s1iPQ2pd552eG/FQbXfJr8kbzrflq3aeE0RwejZakcCliuyo3fJdDcb2NefesI0CjfdzoCXh4eBE99uKCmRpcIKFwxCI+qPhLTv46hptcMHbXx3ie9HpBeO34ZFCVCubmSwA34LvzA=;4fh+Io5dljkOfYwvtkzb5A=="
 ---
 
