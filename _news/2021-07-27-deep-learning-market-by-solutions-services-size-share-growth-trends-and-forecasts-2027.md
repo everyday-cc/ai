@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Latest Report 2021, with Size, Status, Value, Sales and Forecast to 2027"
-    excerpt: "Artificial Intelligence in Drug Discovery Market” share is expected to develop speedily in all development areas over"
-    publishedDateTime: 2021-07-26T06:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-latest-report-2021-with-size-status-value-sales-and-forecast-to-2027-2021-07-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Chip Market 2021 Size, Growth Analysis Report, Forecast to 2027"
     excerpt: "The Global Deep Learning Chip Market size is expected to reach 24 5 billion by 2027 rising at a market growth of 37 CAGR during the forecast period 2021 2027 Deep learning is a subset of machine learning a subset"
     publishedDateTime: 2021-07-28T08:24:00Z

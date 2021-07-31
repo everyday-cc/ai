@@ -6,8 +6,8 @@ publishedDateTime: 2021-07-30T19:57:00Z
 originalUrl: "https://www.securityinfowatch.com/video-surveillance/news/21232554/memoori-promise-of-ai-cloud-tech-drives-large-investments-in-video-surveillance-market"
 webUrl: "https://www.securityinfowatch.com/video-surveillance/news/21232554/memoori-promise-of-ai-cloud-tech-drives-large-investments-in-video-surveillance-market"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/07/bigstock_Surveillance_Street_Camera_In__316381252.6104401f16f2e.png?auto=format&fit=max&w=1200"

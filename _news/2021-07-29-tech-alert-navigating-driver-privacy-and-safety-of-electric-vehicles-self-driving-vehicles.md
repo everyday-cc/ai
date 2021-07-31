@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
-excerpt: "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with improved AI/ML operations and internal components ..."
-publishedDateTime: 2021-07-29T00:18:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/07/28/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self"
-webUrl: "https://stockhouse.com/news/press-releases/2021/07/28/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self"
+excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
+publishedDateTime: 2021-07-28T19:14:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
+webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Autos
+  - Computer Vision
   - AI
 
 related:
@@ -109,15 +109,6 @@ related:
         width: 1199
         height: 807
         isCached: true
-  - title: "GM’s self-driving skills take a wrong turn"
-    excerpt: "GM has a similar system, in operation since 2017, dubbed Super Cruise, while its $30 billion self-driving division is called GM Cruise. The word has, of course, formed part of a generic industry term synonymous for decades with the beginnings of autonomous driving - “cruise control”."
-    publishedDateTime: 2021-07-26T05:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/gms-self-driving-skills-take-a-wrong-turn-2021-07-26"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "GM Sues Ford in Fight Over Branding of Self-Driving Cars"
     excerpt: "General Motors Co. is suing its competitor Ford Motor Co. for violating a trademarked driver-assist technology that’s used for hands-free features, according to a lawsuit."
     publishedDateTime: 2021-07-26T14:45:00Z
@@ -240,6 +231,6 @@ related:
       domain: forbes.com
     quality: 6
 
-secured: "9LTJ3CQhsawXpRqMd0ennPJb9fbYDyNK4BCJcHdfPg8BysY53+XjgGT2OhFpYZ5AOr3bI7vLhIyzO1jp6rUkFsQAwX9TSbh6eiK6mQbNX4KNdEbGCifF6Wi1iMg2XfJAm0jlPwFD32vjgW8bF4+5KwGwsMipHyNSg1+4BuwAE24shBJUb5t2mZpO0HoyAAWpV0Jy5Cwf+NtwBSklMhq8eQeuHXLoLDPYx/4K6rY56aYjIkR+HcrrfQ0WDBxvWMcb/ZFnFsGNdk6ySGI2YEh+svEkAAOTVCjzSr8feaJ2uB82Veu21NqQSxyPVw08X8A2pCGr0RyjfelIKQjIDFjBuxWeJRozaW6Q49c7+pDXMyc=;QrJVdOpp2MdmNt+Vip0gBw=="
+secured: "VILZwETs5iQomYqdoZoLo0CpmLhPM73ACgRn6EC8jUfpTfkBEa/IkL608QupTP+N/c3zjxU8j0kcp9NImaOjsGFjcwUX9rzCaWWEGgQI6JeiPC7nPRAxM5Bjit4eLcq0HuGzIwMXhzSj4bRSG7wyGcKw8ui+FOYnhA3Z2DnQl7w5H09Lk3d1DnnUa1+b+zatl6mpCj/rUw1lvDe7v0GrawP+7zY9KEZDs5ImJP4VgkmJ7+5furB+BaIjABkbOAv6cJ+jANC/Bpng6KGNwVkVNUkM9qeoSeblc2JY5+zB2HaRKVNRIc4Jylb5tKK5RYBwWwQCce1dlwejFe+6SZ377g1DW8rDl2H0SodPQD4ftQI=;5Rql+4ZwbePeHd4u6R0ZQQ=="
 ---
 

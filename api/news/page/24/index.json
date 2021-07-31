@@ -2,6 +2,109 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-07-13-how-procter-gamble-is-leveraging-ai-to-constructively-disrupt-supply-chain-and-retail-execution.md",
+      "title": "How Procter & Gamble is leveraging AI to constructively disrupt supply chain and retail execution",
+      "excerpt": "Guy Peri tells Transform 2021 how AI is helping Procter & Gamble manufacture its consumer goods while minimizing waste.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/12/how-procter-gamble-is-leveraging-ai-to-constructively-disrupt-supply-chain-and-retail-execution/",
+      "originalUrl": "https://venturebeat.com/2021/07/12/how-procter-gamble-is-leveraging-ai-to-constructively-disrupt-supply-chain-and-retail-execution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-1133924836-e1616331482245.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/12/how-procter-gamble-is-leveraging-ai-to-constructively-disrupt-supply-chain-and-retail-execution/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-procter-gamble-is-leveraging-ai-to-constructively-disrupt-supply-chain-and-retail-execution/amp/",
+      "publishedDateTime": "2021-07-12T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-ibm-launches-first-ai-incubator-for-social-impact.md",
+      "title": "IBM launches first AI incubator for social impact",
+      "excerpt": "We are proud to announce the launch of IBM’s first AI incubator for social impact organizations, empowering nonprofit organizations to explore and use high-impact data science and AI projects to advance their mission. The incubator, which will run from September 20 through December 10 2021, offers selected",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/07/ibm-ai-incubator-for-social-impact/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/07/ibm-ai-incubator-for-social-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/07/IBM-AI-for-social-good-incubator.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T09:33:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-superannotate-raises-145-million-to-help-automate-the-computer-vision-pipeline.md",
       "title": "SuperAnnotate Raises $14.5 Million To Help Automate The Computer Vision Pipeline",
       "excerpt": "The company looks to democratize the budding machine learning field by offering automation software and experts companies can tap.",
@@ -1074,110 +1177,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-computer-vision-system-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-to-2021.md",
-      "title": "Computer Vision System Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News Forecast to 2021.",
-      "excerpt": "At the beginning of 2021, COVID-19 disease began to spread around the world, millions of people worldwide were infected",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-to-2021-2021-07-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-to-2021-2021-07-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-11T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-cognitive-spending-systems-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-to.md",
-      "title": "Cognitive Spending Systems Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News Forecast to 2021.",
-      "excerpt": "At the beginning of 2021, COVID-19 disease began to spread around the world, millions of people worldwide were infected",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-spending-systems-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-to-2021-2021-07-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-spending-systems-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-to-2021-2021-07-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-11T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

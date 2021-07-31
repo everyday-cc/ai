@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Galaxy S10 5G update reportedly breaks face recognition"
-    excerpt: "Samsung has been making good in its promise to roll out Android updates more regularly, even if a bit belatedly. Part of that involves improving its process for integrating and testing those"
-    publishedDateTime: 2021-07-26T05:33:00Z
-    webUrl: "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/"
-    ampWebUrl: "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/amp/"
+  - title: "Report: Apple Plans Facial Recognition-Based Security for Wallet's Upcoming ID Feature"
+    excerpt: "Apple will reportedly use on-device facial recognition to make sure government-issued IDs can only be added to its Wallet app by their rightful owners."
+    publishedDateTime: 2021-07-28T15:22:00Z
+    webUrl: "https://www.pcmag.com/news/report-apple-plans-facial-recognition-based-security-for-wallets-upcoming"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/07/samsung-galaxy-s10-sg-30.jpg"
-        width: 1440
-        height: 810
-        isCached: true
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 58
   - title: "July security patch reportedly breaks Galaxy S10 5G's face recognition feature"
     excerpt: "Some users have been experiencing issues with the face recognition on their S10 5G when they installed the latest update. A Samsung forum moderator has acknowledged the issue, but so far, there hasn't been a solution or a fix."
     publishedDateTime: 2021-07-26T07:32:00Z

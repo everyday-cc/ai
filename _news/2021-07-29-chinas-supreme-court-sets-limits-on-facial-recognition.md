@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/"
 type: article
 quality: 59
-heat: 149
+heat: 150
 published: true
 
 provider:

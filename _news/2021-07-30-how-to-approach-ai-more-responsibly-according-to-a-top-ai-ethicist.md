@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/30/how-to-approach-ai-more-responsib
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

@@ -33,20 +33,6 @@ related:
         width: 1024
         height: 585
         isCached: true
-  - title: "Voice Recognition Biometrics Market 2021 with a CAGR 19 %,Top manufacturers Records, Size, Market Share & Trends Analysis"
-    excerpt: "Voice Recognition Biometrics Market watch out for new highest revenue Study Reports 2021 with Top Countries Data 2021, para1 with YoY (Year over Year) 0.159 , Current Trends 2021,"
-    publishedDateTime: 2021-07-27T06:14:00Z
-    webUrl: "https://www.wicz.com/story/44382574/voice-recognition-biometrics-market-2021-with-a-cagr-19-top-manufacturers-records-size-market-share-amp-trends-analysis"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 0
-    images:
-      - url: "https://ABSOLUTEREPORTS.images.worldnow.com/images/21103222_G.jpg?lastEditedDate=1627352097000"
-        width: 6688
-        height: 2338
-        isCached: true
 
 secured: "/VCIcqJFiw5n8nPEnKb+3QyP/1oPXTkCs2Ow/5pQUiThZakcPk+LT1jpIFVOwJU1PoShH2PeBozmaxJ1KPvyPbFpaax0jNlLQObLrm54KtaHI6TSxhJcnIOuQ9+Pkys2g6qZNZenLcNm0Sfp1Rlqj7OKGbEAu42XoKJGF2697CGsKFLdHjVH/H1tqxB/nRXX+9eKBJuJmWKX6D6jzZkqgEvyT3P5/G0Guh8QDXRJPYDPMIb6TGjClrma2D/X/+WA7lOjRlq9n0FsYxcqvbNmQhMFVIH176FvKuHGvz0K1cz3D9w9PHm8YMAsNKyLXfa++49A3wKmETEAVaec6GFcvaotbjg0+N9bX3V3jwERyEL3SIdTmCKGscyzafksKXHb4oOVjdDP0PJeULDwrGkzIzXAb05iN6McaJ9DsYHKsc3vQOEVUv7leV+KbENXwfCV9R4EqynnBiTwA0nj2l7KQB/5+wv6/jUfSKHJjKLFbHwfMnPLJJn2Yei5Kt+L/w37i2j+rDbuTTe6y0LiI5Sv/w==;9fRAuURLwTNxeC9rHqFYmw=="
 ---

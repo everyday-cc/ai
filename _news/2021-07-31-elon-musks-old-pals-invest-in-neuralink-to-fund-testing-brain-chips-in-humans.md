@@ -9,7 +9,7 @@ ampWebUrl: "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-th
 cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 81
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 2344
     isCached: true
 
-secured: "8zl2myAmmADbWkcMUqDx5w8DjTMtEyAD3F3Kjjj/9gI2BglRDnNaTPDSTfS7hUtrmQGGEfslWQ3R8vJGgVaZxUeuxOwa1FAEKupYqwFG6OpTkW4IB8oI4TzGFtOjQScgMQeXp5T1RsIiaaDTcrA1K1Mu99ivMggLlf/s/qOXbO1W27xU1KXbbNth5eTaFW25x5RmgIsEEJnBCGg/8UhfvtPhpM4pOn8MdI8fxeUJKVEWla9pLWJPKprFwQd4R8e0rsy3cFji6lI4LtkOutAzFoq1L1e0BQlPL5mWIgD/o0px3T1s0lyilWSNmnPKbcYp3biyHKoQwta8n8jjYEphKmfvtQMRT6j21IV5VXiEr5c=;Zo23Z6V5iiJ4Nn+z2X3ViA=="
+related:
+  - title: "Google Ventures, Others Back Elon Musk's Neuralink Startup With $205 Million"
+    excerpt: "Elon Musk’s Neuralink startup raised $205 million in a series C round from investors like Google Ventures, DFJ Growth, Founders Fund, and OPEN AI CEO Sam Altman. Musk’s project aims to develop brain implants that will be able to communicate with devices."
+    publishedDateTime: 2021-07-30T22:51:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/Google-Ventures-Others-Back-Elon-Musk-s-16352345.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 19
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/17/74/21298958/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+
+secured: "gAZiM1n1kX7/a3xxTDwRUbjZIP0qBvM8kydjOBbXTuRE+yGi28/HNwNg0Z8W6AkPqhc3rjtFbS41Oqd5jQA7W61cNs47pLke9iGDuFBufMcnhT3N1CJ5fWeZHjNLg0a4XNTghV4RqWuQUUQ1ZW5tIORJanAP0pdYbIMTBs/7kNYini93RsNBBMoZTRoR9EjC9Pl/xoqWqKkntvYSJHEiKyzUMT06wKJbsMJFePTsw0JUT81cvtaiXOH7QCjb5SHjVOkCjeCKlRTUp0bGDDevAXGR79WEu34+lqreX/TBWKfISdeZumI7wdY22YEobyFLRhy7L1uIBTmgzqe+Jn1vlzm5qdDYoQkLcheMuc8HlXuQZoj3kOHcVwFqbB1pOWWff4yOgQ34ieQx6dRvpRLot9xGM+S7M9TeGxijugOjv/wZT1AkNtwrIQRj6GAqt45SJIU2U4q/Jt83f6FGA0jkPTOPmMlHXvEFgfJRIGiDkyiFFaUNl3AM1l7zqcTwpHDlrjPeZNva7gB0e7tggUnS5A==;xIkiWQ+VBanHMB8rSxSh8g=="
 ---
 

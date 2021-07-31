@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-ride
 ampWebUrl: "https://techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/amp/"
 type: article
-quality: 83
-heat: 93
+quality: 85
+heat: 95
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/10/1_QTFqvEO6Ycqd6nqk9Cd-vA.jpeg?w=1024"
@@ -47,6 +48,6 @@ related:
         height: 665
         isCached: true
 
-secured: "e2UuKH32QzO1qzko2yygP+vwVBQIhbpqjW9IQFBnsA7p5A/BSjrmZ+mEXTqs6GlIgWe3LwtrwxO0dCk7PkF9ZIUENc9aocGU/T4fbs59X1R7ZgSVaaREYD892B58hDwTEyNvd+kbe1IV/IA56lHHMHMwzfPlrgFve7VQ78xXkFKUCcW4buRwM6z6Nzjk2K+YC+reWFv0gAKOw8tGmrKTsig+1aoAFLBU+N7pMkKq2YENLLotAXcGEfU/emLojROf/F9XzHs+wXOe67Hz1rKdR2xSUX+6NY2D/CZbLUezThb59SsaYZvkfFZdnEH81NJevuCxhyPdZ9rEjHjiKOCWuUsidEwpYJfEnO8cugnYhX8=;FCA4OSuvwEcfmYJ1/y4I5w=="
+secured: "IPphMqGdtBm8hbGYuOOz0kAfCrhGKKN01JuECH4xoaQ0BXvOEWi+5pl/5X6G1TFdY42ylTPmBYxoAoOnpx0H2gnhR576rinMXCLG/AKFueDWcm7e0btDf1RrqdMTJG05ZmU/eHECId8q/tAyQUN+Lr0SY/6381H7ys5bgI90FG0x23YpLzqM61KRIPKLy88oVkR9v4Rv5wpKfzO7KSxT1sOP4pwc06GYXPdyENqD5qdb/iv4kttzD41j5+NKbnyEYVNd0Yt1D/BRjhLqhHURxJh3UGMHo8WJSMO/fEfVUEJl+3XVsdZlHgjgYCzDTyJxiJ0x05ac0nRUYdCZRJ6UKaC/bgElYKxh2lDi5xM+Ok7x6YYFi++rYknpCZdJCLQrcJO5f8i5gyYHV1X6M3/Vd+xEENjVWllNjRdRJL8Msucj/s+z5s1BbuJbVq4ZS6MFKrVKj4Ll4dn+46RsvGvYDSGwd3BijnAgvT3YqKcyQaszjogXmQiw1R0OLIke9QNQxFlaTtzYSWGd0LDfLX1esA==;gQ8zWJTxDYMbpwG98C4yfw=="
 ---
 

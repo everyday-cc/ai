@@ -115,15 +115,6 @@ related:
         width: 1199
         height: 807
         isCached: true
-  - title: "GM’s self-driving skills take a wrong turn"
-    excerpt: "GM has a similar system, in operation since 2017, dubbed Super Cruise, while its $30 billion self-driving division is called GM Cruise. The word has, of course, formed part of a generic industry term synonymous for decades with the beginnings of autonomous driving - “cruise control”."
-    publishedDateTime: 2021-07-26T05:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/gms-self-driving-skills-take-a-wrong-turn-2021-07-26"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "GM Sues Ford in Fight Over Branding of Self-Driving Cars"
     excerpt: "General Motors Co. is suing its competitor Ford Motor Co. for violating a trademarked driver-assist technology that’s used for hands-free features, according to a lawsuit."
     publishedDateTime: 2021-07-26T14:45:00Z
@@ -232,13 +223,13 @@ related:
       domain: forbes.com
     quality: 6
   - title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
-    excerpt: "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with improved AI/ML operations and internal components ..."
-    publishedDateTime: 2021-07-29T00:18:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/07/28/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self"
+    excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
+    publishedDateTime: 2021-07-28T19:14:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 0
 
 secured: "CopIvAA3jm55Ay1Z74QIhg8qbdKKbeshM6EMfgZ1+w8wmuWjee3Efc10QW0SPG6LzloApi1fSakHhvhxoygAngFmZx9Mo9qi3t3fPbGX52kbt1oium55a0r62989H19t589hgKlVAeWy3GXD1yQzdf+kxWrQPa6v/zRqAzocBeUQGL1Yw3iZFG82sLAtLB1VsCLJWn4bpS6iPKA6kg0Z4LS/lWH1mbNKOhhKfgV0f3K9pOwdag6YMBGU4C2tUoBvXQu1uQCbcV5O32ktIaBGf6v7DegAQde2UQm8Ux9P24ErxQztTQUrtMPaa+doNZ2XnQjKEAZKG6dRDmmUJp9QXM+VbISkrpyLiL1IIAxo3P64dLIIgQEy3uzui1bmP0oj2lK0omfh/k5oyTIb+x8X/mwL6LGod/xkFr0q5qViVdCpnRq1G54o2+lJoQWwwISnL4rcV6XaQEwmjygYNMMhbUTegP94TQeuhN4jX9swtJ6MqzrJmo592HmycT7Jk0l7Sw4K42eiIDVnXVBNBwilwA==;Q7SpPy8IcGYe8QjphxktMQ=="

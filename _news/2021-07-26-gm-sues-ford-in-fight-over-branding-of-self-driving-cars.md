@@ -115,15 +115,6 @@ related:
         width: 1199
         height: 807
         isCached: true
-  - title: "GM’s self-driving skills take a wrong turn"
-    excerpt: "GM has a similar system, in operation since 2017, dubbed Super Cruise, while its $30 billion self-driving division is called GM Cruise. The word has, of course, formed part of a generic industry term synonymous for decades with the beginnings of autonomous driving - “cruise control”."
-    publishedDateTime: 2021-07-26T05:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/gms-self-driving-skills-take-a-wrong-turn-2021-07-26"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Porsche imagines an interior for self-driving cars"
     excerpt: "Comment Now! Porsche on Monday unveiled a previously-hidden concept for the interior of a self-driving car. That futuristic interior is housed not"
     publishedDateTime: 2021-07-26T15:45:00Z
@@ -232,13 +223,13 @@ related:
       domain: forbes.com
     quality: 6
   - title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
-    excerpt: "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with improved AI/ML operations and internal components ..."
-    publishedDateTime: 2021-07-29T00:18:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/07/28/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self"
+    excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
+    publishedDateTime: 2021-07-28T19:14:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 0
 
 secured: "EzHmbF2fRX2jz8M94C/9kDmbhvpknEwapc2bOBeyZZT3XI750KobXFwG58GlwOq1zNmyDjQlc8DpOp0zNYfcIcqLgGeG0/HdHM4SlvwjInVkwK1YbtdCm3bgVlH2qTaS4ZZfjH/PcWUFVLsMwDYeRqxEhVVXiJarFfJRk/1kaj1B/kNyfciC65lJuEIslYy+ovuCNzXMRefZDBx0lAsT21qUyU3AI9NzryXO+AFSvU4hEgBnAs3gCdmZ2xpzCOgJqrt1NYs8ufz/mKWhSn2M7cQdBhWnq4jZv5/olDCbbahEzuOirJFGaQcO6KS+NZSAc8VXzVFafn+FnGKTMsgFfekQBI8hMBqnoF5/QcQ1LAx1DUYfivg7Ym4Vs0ODTEayNALoLO5OrwceDNmrgbuI9eQskDwdzZnLLVZzFG4Qs2WrEY1SIdeYEJ0sSsWpZcbuy+b3yETC7l6NjUwO5w28U3M4R4OmTylwyjOqr9H/CqiEh/37/I/U7fb2hMD9LJ1BUTXY4SyGp89E/m0EfiyTiA==;2SOAlA6Q9KKVG1icXL/K7Q=="
