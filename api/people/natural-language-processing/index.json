@@ -17,11 +17,11 @@
       "twitter": {
         "username": "chrmanning",
         "url": "https://twitter.com/chrmanning",
-        "followers": 82280
+        "followers": 82281
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
-        "citations": 167845
+        "citations": 168306
       },
       "affiliation": {
         "path": "",
@@ -47,7 +47,7 @@
         "Natural Language Processing",
         "Machine Learning"
       ],
-      "heat": 161,
+      "heat": 124,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
@@ -80,7 +80,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
-        "citations": 263545
+        "citations": 263897
       },
       "affiliation": {
         "path": "",
