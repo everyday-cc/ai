@@ -1,24 +1,20 @@
 ---
 category: news
-title: "What Ever Happened to IBM’s Watson?"
-excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net IBM’s artificial intelligence ... on a humbler vision for Watson. SHARE THIS POST Find News ..."
-publishedDateTime: 2021-07-19T07:31:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/what-ever-happened-to-ibms-watson-10340508"
-webUrl: "https://markets.businessinsider.com/news/stocks/what-ever-happened-to-ibms-watson-10340508"
+title: "What ever happened to IBM’s Watson?"
+excerpt: "IBM’s public confidence was unmistakable. Its Watson supercomputer had just trounced Ken Jennings, the best human “Jeopardy!” player ever, showcasing the power of artificial intelligence."
+publishedDateTime: 2021-07-19T06:01:00Z
+originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/what-ever-happened-to-ibms-watson-7411513/"
+webUrl: "https://indianexpress.com/article/technology/tech-news-technology/what-ever-happened-to-ibms-watson-7411513/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "E9kBe7nxfkgrHiFe1jvXlUWjSzmWXtM12wuHWAOHY9qqnTs+KJTax2qrpWYU/UdWUU0IlaqQgHY89W8DMoYngTc8DlrYm6v5AjD+oHlvUFN31EiLGDv6dBzRAWJ0AqtFsMAmZOmVSbi0Ia13iuobMODzk3UaImUGTdJHpzDJDtS5k9WqI0isQv3h8Ia232in9CJEhARb22gfgJRGL28gXdCiREjIyu5zyJT6N68wUSL8dQMPpISdRrazCjIGjzNmOstSWzfCzxHxlyQ8V17EXiqEepp/pc1CCYgfg/6qFGKDN9+RRSCS2sw8G2Xa9FppHm7sdO7tLkgaEpDIf5K7HWRGFfRTOu5+0su7YO87c1k=;GnB3V26h62ephyh077daAA=="
+secured: "CM5WhXXy8PQBB7puZHrojADeym1zJAqu2fgU8eC32Eq7S2K2lX17ldjqtGPcU1MpuZbVGb8170Za7Goaq6rfRoSn63VkknoTi5ggTPq7g18sIoMul8neBY95lbY1S/g/delJphp+2+27zAQIqkLbP7n0osWVQ+it9eceO8xYYQZmBvNEyW9044Gll7YAdDbSmx2yt0OeJaQhABUOwziRHb4zkSx9Fz1Ch1g4mtGGr3DZguiYrfx3ANsv1tf4FjSUR+e0wNLI+zRxkYO/xW3PDrD6NJ87fm9YNFaCSTHOxeYBdGwTLwuvyJf6WHwFgHjB9oBOChK4aCNMg6S3skn8akWZfpWAwmfSBi+1ZdaVXt5Bc/llao8XCisGJfS2fJL74u2hACCnDHG/HIoB1G3Z8dDgUxk6sCt8jcctSCjYFDDnvhmbJHCzW5qDhh2K3Ul4XkRH6jalYpBezjdVjHHBuwTFfiVToa4Ip02hgg69+MsUBdCekUM4xkhQwJFkqdjHIYp6TulNBVDjHgVJVq4bsQ==;ZPk1zTXVhKPPmlaRNbqEig=="
 ---
 
