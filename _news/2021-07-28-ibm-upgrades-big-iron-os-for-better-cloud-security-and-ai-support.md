@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Announcing IBM z/OS V2.5, Next-Gen Operating System Designed for Hybrid Cloud and AI"
-    excerpt: "IBM (NYSE: IBM) today announced IBM z/OS V2.5, the next-generation operating system (OS) for IBM Z, designed to accelerate client adoption of hybrid cloud and AI and drive application modernization projects."
-    publishedDateTime: 2021-07-27T04:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/announcing-ibm-z-os-v2-5-next-gen-operating-system-designed-for-hybrid-cloud-and-ai-1030647117"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "Baidu AI Cloud announces strategy upgrade to empower industries"
     excerpt: "To support enterprises' digitalization and intellectualization, Baidu AI Cloud announced upgrade on its strategy and infrastructure to empower real economy for development with better quality, the tech company said in Beijing on Thursday."
     publishedDateTime: 2021-07-29T13:16:00Z

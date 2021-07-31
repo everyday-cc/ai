@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theglobeandmail.com/amp/business/article-how-robot-carpe
 cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/article-how-robot-carpenters-could-help-solve-canadas-housing-crisis/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -28,14 +28,19 @@ images:
 
 related:
   - title: "Cansel Brings TinySurveyor Robot to Canada"
-    excerpt: "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada."
-    publishedDateTime: 2021-07-29T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm"
+    excerpt: "GPS-guided mobile robot will help surveying, civil engineering and infrastructure professionals increase quality, efficiency and above all,"
+    publishedDateTime: 2021-07-29T15:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cansel-brings-tinysurveyor-robot-to-canada-1030663408"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/1583655/Cansel_Cansel_Brings_TinySurveyor_Robot_to_Canada.jpg"
+        width: 400
+        height: 317
+        isCached: true
 
 secured: "+64RCVtxo7ynYReaOKLHadRLTtpgrB9/C75ZnfW99XkIcU5eieYj8vA+mVCcYHx+Xb/WmOOzWhAJEinh8FB0gt38FDsPDkdGQi6pNFpCPPf6yizXC7YUfuvESIVOwAhD2I5z8Rkd5abd8F3NIgUGQKf5zIbeCTm7Z8Tvz4FVt8rVSdos9Ps4FV8YC//xCgxyvQEfTp+1i7xlscgYzoBzW25DWeEvJ7ruIiM71c9tBKBbGBdj1DOcka76uKlAukxoDWFAe0MM9yc+2YtZtenvW+FXkJyk5TQ22iLaDOblroHtvl1Wf2R6+c93ohiegl7i7OKslfOtUxGS8ypOO2zpyOnAYoPpDY7ZIedZmhGibxw4xCRV7i0rNlLl+snyZIrDLCjJvs/yB5xEH5oz7X0O7agIkk8ndKhlyr4QlWRsSw0GKkPMsKibT//gd1Ds3eKNXdVacxjKxlrBfRiQzQKaDvdxKkKwd2wGFRQdTmUw90Mqak0HDvp7Gg/Sky5UCLzuxzk2BbEZ9yEA6sePn8quxw==;IEqqRpgV55rsvs+BYeCbww=="
 ---

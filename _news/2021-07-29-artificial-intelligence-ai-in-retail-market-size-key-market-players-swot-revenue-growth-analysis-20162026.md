@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market in India Market Segmentation, Application, Consumption and Revenue Report 2021-2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the Artificial Intelligence (AI) in Healthcare Market report"
-    publishedDateTime: 2021-07-27T05:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-in-india-market-segmentation-application-consumption-and-revenue-report-2021-2030-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "North America Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 41.24% through 2027"
     excerpt: "Jul 29, 2021 (Market Insight Reports) -- Selbyville, Delaware. North America Artificial Intelligence in the Healthcare Market report provides key statistics on the market status of the North America Artificial Intelligence in the Healthcare Industry and is ..."
     publishedDateTime: 2021-07-29T08:01:00Z
@@ -72,20 +58,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market Size to Witness Huge Growth by 2026"
-    excerpt: "Selbyville, Delaware Global Voice Recognition Market Size Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Size Report also covers top key players,"
-    publishedDateTime: 2021-07-27T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-to-witness-huge-growth-by-2026-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

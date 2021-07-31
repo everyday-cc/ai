@@ -165,13 +165,13 @@ related:
       domain: forbes.com
     quality: 6
   - title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
-    excerpt: "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with improved AI/ML operations and internal components ..."
-    publishedDateTime: 2021-07-29T00:18:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/07/28/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self"
+    excerpt: "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with ..."
+    publishedDateTime: 2021-07-29T01:45:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
     quality: 0
 
 secured: "aAgW53O5TwHDhgxNzaM8CksD3Lf/o1S7GcrJ2ZBrB1jdNiXiThjwde4k4wUlP4LjARkRe9tKB2M5jWHINYm4XPJKFGgAUroMKjj/gbYNfhX74ANYhq+qnlHiTrvxxLBOqDvRy5LfF6Ku5NeJLnPhFSTkK8QEN7A47K00ENc0TdEbB7Oiv/cr/gOy0QdJz6dZmKc8mfzZpd+cfsZ4tftmb+i1hvwFkmAs1NoVPjaWkOLzbKOaulfPMv+fmT7Xo+Hx4QN+KSLkujxnDTmAg5J0oWdoHb11laio1K/XEdm/CkEeN19C2W1bj5dFEWHj4BxuqkQMNlbewhl0JKgo7WmxAJ3ra5sIJ5+HEVOyrD8HYGY=;yCA7WDyez5PIKenOADW1iA=="

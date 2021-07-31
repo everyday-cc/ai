@@ -7,7 +7,7 @@ originalUrl: "https://www.dealstreetasia.com/stories/sea-deal-monitor-26-30-july
 webUrl: "https://www.dealstreetasia.com/stories/sea-deal-monitor-26-30-july-252889/"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "BREAKING: Augmentus raises seed funding for its ‘no-code’ robotics system"
-    excerpt: "Augmentus is deploying its robotics platform across multiple industries - including indoor ag, where it streamlines crop inspection and harvesting."
-    publishedDateTime: 2021-07-27T04:52:00Z
-    webUrl: "https://agfundernews.com/augmentus-raises-seed-funding-for-its-no-code-robotics-system.html"
-    type: article
-    provider:
-      name: Ag Funder News
-      domain: agfundernews.com
-    quality: 68
-    images:
-      - url: "https://agfundernews.com/wp-content/uploads/2021/07/Augmentus-team-e1627361455990.jpeg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "bxcC/nkFb0DCxSo28upQrTJtJqkkoxtrnb7u/wGjTylIw3J079caUDBtELTBck4lv6lOGCizrueq6lkJ3L85lxrn+8PV1bPDjtTw5w1RqlcaxzeZkDP+4Mibp3DJ3hfp2dlkMJ62RSncIxib2OGcOOinQ/7MIonOFJ1DEFpMTATAly7voxxYZkNz4Jo4tqVR2Eh7bBscRzHc+qLO/rHZRLlC40P1XN/+9Jq1CWw2YcQrDGbLakpXJkuyXBkjVQXE445NeGglK4aenpSfX3w0vSKReH1d0CslU7fN9gQIMk5mxLmY3QXRdlkcoqddwMOvc4PvopDTZhUo9M1p85mpTkqGGr/U4BlIISzsZ+FinK2IpmYUa3KYXT0q9TDC4c2LnowIgkxbVT6iG8Ia4gghZcq072MF5Z7lzGptbdsfgZDDc6x0NWQjFcQS+QjHY1vJGZNtquWJIlgtZ8eoNYGt3CWQmp3kk93MBeZRNiIM+e6MIKZiz6Ry4f/RO2Uc6ksdOkeikYERwm1tjDtnzIsrtw==;Ag5xb4vvnFmC8P+xz0O2SA=="
 ---

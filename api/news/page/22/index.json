@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-07-14-facial-recognition-tech-gets-bipartisan-call-for-more-regulation.md",
+      "title": "Facial-Recognition Tech Gets Bipartisan Call for More Regulation",
+      "excerpt": "Some, such as Customs and Border Protection, have their own in-house facial recognition technology. Others use products from companies including Clearview AI Inc. and Vigilant Solutions Inc. “To ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/facial-recognition-local-police-clearview-ai-table",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/2/15/enhanced/2a50fc7f1020/original-1498-1617378524-16.jpg?crop=1600:837;0,132",
+          "width": 1600,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-nordstrom-cto-on-ai-powered-analytics-and-consumer-insights.md",
       "title": "Nordstrom CTO on AI-powered analytics and consumer insights",
       "excerpt": "Reflecting on the start of this project ... is key to the platform architecture process. With more than 100 AI models leveraged daily at Nordstrom, an end user will indirectly see the benefit ...",
@@ -1129,49 +1181,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-ai-to-have-biggest-impact-on-fintech-development-over-next-five-years.md",
-      "title": "AI to have biggest impact on fintech development over next five years",
-      "excerpt": "Artificial intelligence will become the most influential technology in the fintech sector over the next five years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years",
-      "originalUrl": "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503927/AI-to-have-biggest-impact-on-fintech-development-over-next-five-years?amp=1",
-      "publishedDateTime": "2021-07-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

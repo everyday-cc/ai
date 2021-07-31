@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "NIST Works to Create AI Risk Management Framework"
+    excerpt: "Citing a need to secure artificial intelligence technologies, NIST is working to create risk management guidance around the usage of AI and machine learning, the"
+    publishedDateTime: 2021-07-31T20:00:00Z
+    webUrl: "https://www.healthcareinfosecurity.com/nist-works-to-create-ai-risk-management-framework-a-17193"
+    type: article
+    provider:
+      name: healthcareinfosecurity.com
+      domain: healthcareinfosecurity.com
+    quality: 37
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/nist-working-to-create-ai-risk-management-framework-showcase_image-1-a-17193.jpg"
+        width: 860
+        height: 520
+        isCached: true
 
 secured: "nechPjNBxsvfE1RkaQ37AASRNYKJfhELQrCYVLka5IsKMfl8xBG5WrA8CPBxtx7Jc9ejBcZ91Hi6MSHrMthuF1sdFbVWHHO6Oi4QKPvv6XEDTNbJDQGSlYlXx12t2qX3jV8y4SEgN926Vex4cO0VAUDv+zwvKbl5Lt2B1q5UJT1wRxP8iq/ZdBPDhEDGq+XDGQWlqDQlnBRJ+I/yWmK99vFF340inMCd7jQBSVbKvGdSIRKWKzf9LyLxydeyqE3gvJ5pFAz1q6ONcxkElYzEGq800QnHS/5keJXDPjOK3dXx6IRFpyeEykHIufVIEP5EsNI5uP8d7mF5Ly6owHPp1k6lVylOpLpwPoZ3meKpr72VAyjlcKD6bYCMsuCI+V0YSAPEtsl0EQNrvEsE+bCXTSPBf8Sp4LZ4bTdH1Vanpvsgco7m0fhOhs/ZG3QXE3W0I+LpjMDET8cTP1YDRIBzcHMN5l/ug+1gti48+5lLmAMl1QM8HkBUgBmWORN9agAiWuqNwaJOgizOIYLlNcKZ4A==;OvPMJtU3rLp9E9n1pFEyrg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk?amp=1"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ee737fe843edf4adbb818837ad3846ca.png"
         width: 800
         height: 449
+        isCached: true
+  - title: "Royal Commission says artificial intelligence won't be used on abuse testimony"
+    excerpt: "The Royal Commission into historic abuse in care says artificial intelligence used to analyse documents will not review survivors' written submissions."
+    publishedDateTime: 2021-07-31T21:55:00Z
+    webUrl: "https://www.rnz.co.nz/news/national/448194/royal-commission-says-artificial-intelligence-won-t-be-used-on-abuse-testimony"
+    ampWebUrl: "https://amp.rnz.co.nz/article/da01faaa-e0d3-47c2-9263-a856a245a052"
+    cdnAmpWebUrl: "https://amp-rnz-co-nz.cdn.ampproject.org/c/s/amp.rnz.co.nz/article/da01faaa-e0d3-47c2-9263-a856a245a052"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 53
+    images:
+      - url: "https://www.rnz.co.nz/assets/news_crops/90569/eight_col_ABUSE_SIGN_2.jpg?1572414403"
+        width: 720
+        height: 450
         isCached: true
   - title: "Elon Musk knocked Apple, bemoaned the microchip shortage, and touted self-driving cars on Tesla's Q2 earnings call. Here are the 12 best quotes."
     excerpt: "Musk underscored the huge challenges of large-scale manufacturing, and suggested he might not feature on every Tesla earnings call in future."

@@ -1,22 +1,32 @@
 ---
 category: news
 title: "Cansel Brings TinySurveyor Robot to Canada"
-excerpt: "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada."
-publishedDateTime: 2021-07-29T15:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm"
+excerpt: "GPS-guided mobile robot will help surveying, civil engineering and infrastructure professionals increase quality, efficiency and above all,"
+publishedDateTime: 2021-07-29T15:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cansel-brings-tinysurveyor-robot-to-canada-1030663408"
+webUrl: "https://markets.businessinsider.com/news/stocks/cansel-brings-tinysurveyor-robot-to-canada-1030663408"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1583655/Cansel_Cansel_Brings_TinySurveyor_Robot_to_Canada.jpg"
+    width: 400
+    height: 317
+    isCached: true
 
 related:
   - title: "How robot carpenters could help solve Canada’s housing crisis"
@@ -36,6 +46,6 @@ related:
         height: 508
         isCached: true
 
-secured: "KLytwsJoImBG3FKjTooU891fn1yncWDonCvKHg2tlvhAbHuo006H20j/56SK0UDG0IKNV9JKQrrsmY5TVWEBKKxgy/Sy3AQijKxtku4fdn9ImPezyUFOjXfoFyYwMb5WhJevn8X0R68KFXXTDMbQi3Ks2NiPIGsDCfq+dQDrK4jGwINGLL34v9GnL9uIwE4N25Euc/eB/oFepQSugkE01uc5CQnfHdiEy6lMQ8qHTMFWuih9RTzp8NQcwnPjuLVHdHhtyWxvAkOAqf/xpIwHBDLcyOKOClTsd8cWy7SX/ZIoDNXlGgChuV96nVXkcEzWVmrvbjDGmywkbCRgLE5PACDqm2Id8AaA/V37TuqdOdk=;QDjYzI5xWqNoTmhIObX1+A=="
+secured: "Pdrk3UAh3DRkEq+Bi1MklamhTklnuzJfYp5fz+TtCJiG9WsMijVhR1/gqCzLaPZ9UHJaXmcEkIPMiJDNGhkXqSk9bg+O9a8CZ2n2DFBcZEWZM4oYWzRYekK9w6hKen4UMSPmczR/uDf+YMG7Wp3EIEeHaE/j71UDFlC9Vq6XGIc+pgjg7vLyWYtwSIxGrTeiSplGvs0LKj5gMgDe1w80GyIFMdm+ScrdFrrKqsEFOtV3IGlZqsR5ji89TyLcwMAIo4LXZ8cmBFjII6vwy9QNmxqyJVgpx2lLj+rI4Y0j7VLUKZ9em7Ox+DI3+oeXJQI7M37gydCL0efCkvwK7iDbBXyRxBjmFLawBERKb7YzBlQ=;ovX9h442UAmt0wf2S7iNfQ=="
 ---
 

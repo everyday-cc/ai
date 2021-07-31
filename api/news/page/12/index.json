@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-07-20-oxya-wins-google-clouds-2020-global-partner-of-the-year-award-sap-specialization-on-google-cloud.md",
+      "title": "oXya Wins Google Cloud's 2020 Global Partner of the Year Award - SAP Specialization on Google Cloud",
+      "excerpt": "JERSEY CITY, N.J., July 20, 2021 /PRNewswire/ -- oXya, a Hitachi Group Company, announces today that it has received the 2020 Google Cloud Global SAP Specialization Partner of the Year",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/oxya-wins-google-clouds-2020-global-partner-of-the-year-award---sap-specialization/article_90220219-b28d-5a77-b73e-9bcb4ecf6e53.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/oxya-wins-google-clouds-2020-global-partner-of-the-year-award---sap-specialization/article_90220219-b28d-5a77-b73e-9bcb4ecf6e53.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning.md",
       "title": "SoftServe Wins Google Cloud Specialization Partner of the Year Award for Machine Learning",
       "excerpt": "SoftServe, a leading digital authority and consulting company and Google Cloud Premier Partner has won the 2020 Google Cloud Global Specialization Partner of the Year – Machine Learning award. “It’s an honor to receive this award from Google Cloud recognizing our machine learning innovation and experience helping businesses to understand and fully leverage the benefits of Google Cloud,",
@@ -1123,51 +1166,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-ibm-q2-sales-fueled-by-red-hat-credibility-working-with-aws-microsoft.md",
-      "title": "IBM Q2 Sales Fueled By Red Hat, ‘Credibility’ Working With AWS, Microsoft",
-      "excerpt": "By Wade Tyler Millward July 19, 2021, 09:51 PM EDT Red Hat, Cloud Paks, Global Business Services and IBM’s “credibility” working with rivals Amazon Web Services and Microsoft were some of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/ibm-q2-sales-fueled-by-red-hat-credibility-working-with-aws-microsoft",
-      "originalUrl": "https://www.crn.com/news/cloud/ibm-q2-sales-fueled-by-red-hat-credibility-working-with-aws-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0268-11f890a4ddc4-41317a2fa81c-1000/ibm-campus-1.jpg",
-          "width": 1500,
-          "height": 1126,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T20:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales",
-        "AWS AI"
       ]
     }
   ],

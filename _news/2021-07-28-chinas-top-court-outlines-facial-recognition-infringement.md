@@ -85,20 +85,6 @@ related:
         width: 1050
         height: 591
         isCached: true
-  - title: "How facial recognition technology is used on farms of the future."
-    excerpt: "Facial recognition technology .. you would expect it at airports or crowded events like football stadiums. It is now being used on farms, but not to count growers or grazier's.. not even sheep, this technology is used to count the heads on crops."
-    publishedDateTime: 2021-07-27T04:25:00Z
-    webUrl: "https://www.abc.net.au/radio/southqld/programs/mornings/technology-future-on-farms/13471926"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 39
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/13472084-16x9-large.jpg?v=2"
-        width: 700
-        height: 394
-        isCached: true
   - title: "China's top court specifies rules for facial recognition"
     excerpt: "China's Supreme People's Court on Wednesday specified a set of regulations for the use of facial recognition. The rules involve issues concerning the application of laws in the trial of civil cases related to the use of facial recognition technology in handling personal information."
     publishedDateTime: 2021-07-28T02:44:00Z

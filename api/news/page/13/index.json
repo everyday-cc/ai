@@ -2,6 +2,51 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-07-20-ibm-q2-sales-fueled-by-red-hat-credibility-working-with-aws-microsoft.md",
+      "title": "IBM Q2 Sales Fueled By Red Hat, ‘Credibility’ Working With AWS, Microsoft",
+      "excerpt": "By Wade Tyler Millward July 19, 2021, 09:51 PM EDT Red Hat, Cloud Paks, Global Business Services and IBM’s “credibility” working with rivals Amazon Web Services and Microsoft were some of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/ibm-q2-sales-fueled-by-red-hat-credibility-working-with-aws-microsoft",
+      "originalUrl": "https://www.crn.com/news/cloud/ibm-q2-sales-fueled-by-red-hat-credibility-working-with-aws-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0268-11f890a4ddc4-41317a2fa81c-1000/ibm-campus-1.jpg",
+          "width": 1500,
+          "height": 1126,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-how-the-dynamics-of-artificial-intelligence-chipsets-market-have-changed.md",
       "title": "How the dynamics of Artificial Intelligence Chipsets market have changed?",
       "excerpt": "Artificial Intelligence Chipsets Market Overview. Global Artificial Intelligence Chipsets Market size, and focuses on the leading players in the market. Moreover, the report highl",
@@ -1133,57 +1178,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-three-ways-edtech-platforms-can-use-ai-to-deliver-effective-learning-experiences.md",
-      "title": "Three Ways Edtech Platforms Can Use AI To Deliver Effective Learning Experiences",
-      "excerpt": "With the right kind of AI, edtech enterprises can not only shape the future of curriculum, but also the very culture of education and learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/19/three-ways-edtech-platforms-can-use-ai-to-deliver-effective-learning-experiences/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/19/three-ways-edtech-platforms-can-use-ai-to-deliver-effective-learning-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f1796292341577adb4358e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/19/three-ways-edtech-platforms-can-use-ai-to-deliver-effective-learning-experiences/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/19/three-ways-edtech-platforms-can-use-ai-to-deliver-effective-learning-experiences/amp/",
-      "publishedDateTime": "2021-07-19T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

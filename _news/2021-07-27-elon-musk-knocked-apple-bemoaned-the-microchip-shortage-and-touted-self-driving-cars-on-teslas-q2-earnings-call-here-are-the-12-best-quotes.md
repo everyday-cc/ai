@@ -95,6 +95,22 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Royal Commission says artificial intelligence won't be used on abuse testimony"
+    excerpt: "The Royal Commission into historic abuse in care says artificial intelligence used to analyse documents will not review survivors' written submissions."
+    publishedDateTime: 2021-07-31T21:55:00Z
+    webUrl: "https://www.rnz.co.nz/news/national/448194/royal-commission-says-artificial-intelligence-won-t-be-used-on-abuse-testimony"
+    ampWebUrl: "https://amp.rnz.co.nz/article/da01faaa-e0d3-47c2-9263-a856a245a052"
+    cdnAmpWebUrl: "https://amp-rnz-co-nz.cdn.ampproject.org/c/s/amp.rnz.co.nz/article/da01faaa-e0d3-47c2-9263-a856a245a052"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 53
+    images:
+      - url: "https://www.rnz.co.nz/assets/news_crops/90569/eight_col_ABUSE_SIGN_2.jpg?1572414403"
+        width: 720
+        height: 450
+        isCached: true
   - title: "Elon Musk announces Tesla's AI day next month to reveal the electric car maker's advancements with artificial intelligence and to recruit worldwide talent"
     excerpt: "Tesla CEO Elon Musk has confirmed Tesla will holds its AI day next month, on August 19. Musk said the event will focus on recruiting the best talent to work for Tesla."
     publishedDateTime: 2021-07-29T16:25:00Z

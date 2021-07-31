@@ -2,6 +2,50 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-07-10-machine-learning-in-identity-and-access-management.md",
+      "title": "Machine Learning in Identity and Access Management",
+      "excerpt": "Due to the challenges of identifying rapidly evolving threats, cybersecurity has come to rely on artificial intelligence and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://cloudsecurityalliance.org/articles/machine-learning-in-identity-and-access-management/",
+      "originalUrl": "https://cloudsecurityalliance.org/articles/machine-learning-in-identity-and-access-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudsecurityalliance.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjRTIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9f263b659c87472eac3e8132435d7b02d6033918/Machine-Learning-in-Identity-and-Access-Management.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T17:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Security Alliance",
+        "domain": "cloudsecurityalliance.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-amazon-to-extend-ban-on-police-use-of-face-recognition-tech.md",
       "title": "Amazon to Extend Ban on Police Use of Face Recognition Tech",
       "excerpt": "Activists have targeted Amazon Web Services cloud computing unit's \"Rekognition\" facial recognition technology and Ring surveillance cameras used for home security. It was not clear the degree to which police have used the systems. Amazon last year called ...",
@@ -1121,58 +1165,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-halo-brings-driverless-car-rental-to-las-vegas.md",
-      "title": "Halo Brings Driverless Car Rental to Las Vegas",
-      "excerpt": "All-electric rental car startup Halo this week announced plans for an autonomous vehicle service in Las Vegas, powered by T-Mobile 5G. Halo, which has been test driving on Las Vegas public streets for months,",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/cars-auto/134405/halo-brings-driverless-car-rental-to-las-vegas",
-      "originalUrl": "https://uk.pcmag.com/cars-auto/134405/halo-brings-driverless-car-rental-to-las-vegas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/h/halo-bring/halo-brings-driverless-car-rental-to-las-vegas_w7ty.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

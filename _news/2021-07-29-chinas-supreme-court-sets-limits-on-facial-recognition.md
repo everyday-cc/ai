@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/"
 type: article
 quality: 59
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
         width: 1050
         height: 591
-        isCached: true
-  - title: "How facial recognition technology is used on farms of the future."
-    excerpt: "Facial recognition technology .. you would expect it at airports or crowded events like football stadiums. It is now being used on farms, but not to count growers or grazier's.. not even sheep, this technology is used to count the heads on crops."
-    publishedDateTime: 2021-07-27T04:25:00Z
-    webUrl: "https://www.abc.net.au/radio/southqld/programs/mornings/technology-future-on-farms/13471926"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 39
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/13472084-16x9-large.jpg?v=2"
-        width: 700
-        height: 394
         isCached: true
   - title: "China's top court outlines facial recognition infringement"
     excerpt: "ANN): China's top court issued a judicial interpretation on the handling of civil cases involving facial recognition on Wednesday (July 28), aiming to give stronger legal protection of personal information."
