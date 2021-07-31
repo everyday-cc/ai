@@ -113,6 +113,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "China's top court specifies rules for facial recognition"
+    excerpt: "China's Supreme People's Court on Wednesday specified a set of regulations for the use of facial recognition. The rules involve issues concerning the application of laws in the trial of civil cases related to the use of facial recognition technology in handling personal information."
+    publishedDateTime: 2021-07-28T02:44:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270478203/chinas-top-court-specifies-rules-for-facial-recognition"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1627364184066.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "China court interpretation to limit use of facial recognition"
     excerpt: "The Supreme People’s Court has issued a judicial ruling to regulate the use of facial recognition in all settings from apps to shopping malls."
     publishedDateTime: 2021-07-28T18:45:00Z

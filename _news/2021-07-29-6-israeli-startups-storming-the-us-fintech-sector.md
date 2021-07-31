@@ -43,6 +43,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Borrowing from loan apps – Know how to identify genuine fintech lenders"
+    excerpt: "With so many fintech companies ready to offer small loans, borrowers are likely to get confused and may fall into the trap of fraud lending apps offering instant credit online."
+    publishedDateTime: 2021-07-31T05:22:00Z
+    webUrl: "https://www.financialexpress.com/money/borrowing-from-loan-apps-know-how-to-identify-genuine-fintech-lenders/2301414/"
+    ampWebUrl: "https://www.financialexpress.com/money/borrowing-from-loan-apps-know-how-to-identify-genuine-fintech-lenders/2301414/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/borrowing-from-loan-apps-know-how-to-identify-genuine-fintech-lenders/2301414/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
+    images:
+      - url: "https://images.financialexpress.com/2021/07/FRAUD.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "xxPu82jxj3JfZYFtUoXbMN9prVcTLV41aC4Oe7/Q0MRsxIC7tqQA94t1weRcRz/4fDLpas1c0Tyxr2UqySgMGY16OgvsNMukCH5eNRrGJ2bB6ORGHW1GAe0m/73u8vZMvYr5W7tkTzNp95GOUoKAvcpTe595AHeE3L5mUVwpqJcX5uUfTqBs/GCkl85KfKDYyQ0Zt3SDRVbzYAx47AyTnb5zHyTXTBt7mRsIei021I+3biPG3fvenlsuSGSvIA/cR8XMK9ZqoCrQm6/SRUPCW/HENjeOzByem9wwQqfX9zSZ5xTMvXiynD9xkhWAsajZQnfM7gzfSB0AOeNo2VV78CY21XL+hUClAlR4RiP+HG9EdkfwlNp99jxAc1H0xabaObw4fOpNx81aYsjR1ITeprMsL+8cBcpHg/it3sghhWfzofJ1in1R4p7YwxxAp8oTA3PpNiPegdKfbaNkv6jyA7bymf5mYnio+/T6S9a7DS+tt2Hc20kV+5BPhOqhYDC19D6expdIt5oW92VIf7NcEw==;ZcZdb36IljlBifvufJ5XTg=="
 ---

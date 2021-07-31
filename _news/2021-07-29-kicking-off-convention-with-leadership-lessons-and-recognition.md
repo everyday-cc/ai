@@ -7,7 +7,7 @@ originalUrl: "https://www.acainternational.org/news/kicking-off-convention-with-
 webUrl: "https://www.acainternational.org/news/kicking-off-convention-with-leadership-lessons-and-recognition"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 900
     height: 601
     isCached: true
-
-related:
-  - title: "In Corporate Transformation, Learning Is A Leadership Imperative"
-    excerpt: "And how can they prioritize this learning and skills development for themselves and their teams, even as they manage the demands of their current strategies and operations? In 2020, Daimler Corporate Academy led a program team comprised of internal and external experts in executive education (including ESMT Berlin),"
-    publishedDateTime: 2021-07-26T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/"
-    ampWebUrl: "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fe6f5725bfcd3f54d2cd70%2F0x0.jpg"
-        width: 1187
-        height: 788
-        isCached: true
 
 secured: "GY+tF00VgftoYOjlvhP9Sg4QBUvASo5HGhRdbWecYGCVP8Y2ZtoJt0o2cD3hwamiFgWTfgZ8Uk29wMyZEzTQz5leg0LVKlrMHWsaYrV/pxQ2ogRUSfeYtPYvCC4LhKu/gyu9MTiZdwqMIgx67TwHzBAplGDrxwmNHTC4x+tm5t88b2b1X70Jfrdls6Yu8T6ACmmmBcfNwZ9GxDw0tk3U1ayqLDFahyMcEds1fgsc7njetIPsCzHZXsaI7/c/i3dRh/Zl5NQazRr7/ajQe13yTZWn3BEsxzlFsCBZLV51jB3TgbbFskF96XXY9/NCObOMiwQ2oJNQxe4/XugzWFejDuj0H+phZ5DrGnGrEEh1goHXMjg0VDAOd6QVgUlDntN1NX341yvLz9TJDhyqn0ywgtAxtkx8KuKvqozbowcXwlFuMK8dh04uocT7g0rjo3yzEggpE3QP+GVy/XkghHgt6rG1Gj9NrKqW/lHsuIrGFEEA15mGfiOZccw2lyBe13w7hLBrkkYQdyJeLEUFNWXJRg==;57t2x1faSoZoGsYc4kYIdQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.just-auto.com/news/older-drivers-like-self-driving-car
 webUrl: "https://www.just-auto.com/news/older-drivers-like-self-driving-cars-ride-hailing/"
 type: article
 quality: 54
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -184,20 +184,6 @@ related:
       - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cities/street_parking.jpg"
         width: 760
         height: 368
-        isCached: true
-  - title: "NCOA and Volkswagen Study: 70% of Older Drivers Embrace Self-Driving Vehicles and Ride-Hailing Services"
-    excerpt: "Today, the National Council on Aging (NCOA), the national voice for every person's right to age well, and Volkswagen Group of America released the results of an online survey of older adults designed to better understand attitudes and"
-    publishedDateTime: 2021-07-26T13:09:00Z
-    webUrl: "https://www.lelezard.com/en/news-19918810.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 23
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Xiaomi’s Self-Driving Division to Develop L4 Autonomous Driving Technologies"
     excerpt: "The self-driving division of Chinese handset maker Xiaomi will recruit 500 staffers to develop Level-4 autonomous driving technologies, founder Lei Jun said in his Weibo account today. The recruitment website for Beijing-based Xiaomi said the company is urgently seeking data center architects,"

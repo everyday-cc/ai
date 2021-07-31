@@ -1,35 +1,39 @@
 ---
 category: news
-title: "Healthcare AI Market Next Big Thing"
-excerpt: "Latest released Global Healthcare AI Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price, and sales revenue to better derive market size estimation."
-publishedDateTime: 2021-07-29T22:21:00Z
-originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
-webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
+title: "Global Artificial Intelligence in Livestock Farming Market"
+excerpt: "According to a new market research report published by Global Market Estimates, the Global Artificial Intelligence"
+publishedDateTime: 2021-07-30T14:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/g22249357/global-artificial-intelligence-in-livestock-farming-market"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/g22249357/global-artificial-intelligence-in-livestock-farming-market"
+ampWebUrl: "https://www.benzinga.com/amp/content/22249357"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22249357"
 type: article
-quality: 86
-heat: 226
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - IBM AI
   - AI
-  - AI in Healthcare
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
+  - title: "Healthcare AI Market Next Big Thing"
+    excerpt: "Latest released Global Healthcare AI Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price, and sales revenue to better derive market size estimation."
+    publishedDateTime: 2021-07-29T22:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision in Artificial Intelligence (AI) Market Next Big Thing : Major Giants Apple, NVIDIA, Facebook, Cognex"
     excerpt: "The \" Computer Vision in Artificial Intelligence (AI) – Market Development Scenario \" Study has been added to HTF"
     publishedDateTime: 2021-07-29T02:27:00Z
@@ -185,17 +189,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Global Artificial Intelligence in Livestock Farming Market"
-    excerpt: "According to a new market research report published by Global Market Estimates, the Global Artificial Intelligence"
-    publishedDateTime: 2021-07-30T14:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/g22249357/global-artificial-intelligence-in-livestock-farming-market"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22249357"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22249357"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
   - title: "Global Artificial Intelligence In Healthcare Market 2021 Analytical Overview, Technological Innovations with Economic Indicators By 2028"
     excerpt: "The primary sources employed while crafting Artificial Intelligence In Healthcare Marketing report include the industry experts from the industry comprising the management corporation processing organizations analytical service suppliers of the industry s value chain This market research report sheds light"
     publishedDateTime: 2021-07-28T10:27:00Z
@@ -217,6 +210,6 @@ related:
       domain: newswiretoday.com
     quality: 0
 
-secured: "Q2FVXViiEEm5mjI37lFVz3yI9BSwS2FO5bqtFfjl/dzZtA2HWFqdHAqplAvnRDIxsuXbKsSWZwDFR+XnVF4u8bWi21YxA3ZMEN2ykjRwIBPGdKkChATkuuJzD+ACUppE3Drn8V6PkvFwCUmNQPjGAEQhKqFjSuqYX9iLgm3FjPU8h82kNAlQ3C+fUn1gsY5coWxasW/0YzFciuKYO7WJr553QVHm5g1DpHhKqTWizyQBH2FxK1rLUmQrMCE06zjglIouOl1mEAsafylWdD/2V83bZEM2Znim+g1zXDdE+3Td4q7Hw0uZrt0dG2wJK6/5FeiNGp/QFhpayFEHeFykgH1aPdCFohrh3E0qlcmVAKU=;Zs7IIukFfTKON3HinPr5gA=="
+secured: "+hg53WQaxLsFLPPwAkKolWcmz9FqeGfjyGdVJ7fx/FSivj0ppOgZfH7jPXaJkXLBnyGyclaUUnS2M0EVJj+ZcYYlRvjTmocwcGf1PfMuSA6AfS4x2BS1KJBhMqDLLnrOQ7r45pvnh7A16xfKtBOJxtuUyo8E1KdZDZsv4ObIJTHa1cLRKnTcSwOmPCSTUL3szUN1m3j3BEOc6m0nR48cJBZ0XvxhTarYSY0gdq1pKeSlB6s9dq6QqcCfQy5Yg6z4MWLGMsZ2x/hFohWU6UZs4iMmtLT2RWU11Ih5z49QtvFm7oyZ40Mhf/TNBP0+GgCcHOasUlkv+OWjBAe0bvlTFgU0GG9bqihf9GLDa7W5WPY=;Ht6MGP3Pnbo/WaqIjWuP/Q=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Why Artificial Intelligence Isn’t Intelligent"
+    excerpt: "Some AI experts think that the name itself is fueling the kind of hype and confusion that have led to ‘AI winters’ in the past"
+    publishedDateTime: 2021-07-31T03:00:00Z
+    webUrl: "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050"
+    ampWebUrl: "https://www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-376905/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Pentagon eyes artificial intelligence (AI) enable tactical network to speed flow of actionable intelligence"
     excerpt: "Merging these separate efforts into a high-speed multi-service war-machine is being a goal of the Joint Artificial Intelligence Center (JAIC)."
     publishedDateTime: 2021-07-27T06:35:00Z

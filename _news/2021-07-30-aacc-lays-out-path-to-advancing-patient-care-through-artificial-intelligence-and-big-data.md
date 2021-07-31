@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-29T18:13:00Z
 originalUrl: "https://apnews.com/press-release/PRNewswire/technology-health-coronavirus-pandemic-artificial-intelligence-0688832fdfc4b469cc32d46dced17e03"
 webUrl: "https://apnews.com/press-release/PRNewswire/technology-health-coronavirus-pandemic-artificial-intelligence-0688832fdfc4b469cc32d46dced17e03"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Associated Press

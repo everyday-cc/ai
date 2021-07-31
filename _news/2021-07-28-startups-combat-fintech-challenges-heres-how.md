@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/378593"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378593"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://lh4.googleusercontent.com/8tVKE1iWto9QaaAhuF_yF4D1Yrp5kHsTAryLiOiTdzggMIgNAmZSi5M6VsT7-Z5X-YjNlYzl0yjVkZhMniZxPkjbizyyK5vzAydYPHYDVl1ieGOL83XR9xbxor-4EP3gc92p_zzQ"
         width: 1178
         height: 797
+        isCached: true
+  - title: "Borrowing from loan apps – Know how to identify genuine fintech lenders"
+    excerpt: "With so many fintech companies ready to offer small loans, borrowers are likely to get confused and may fall into the trap of fraud lending apps offering instant credit online."
+    publishedDateTime: 2021-07-31T05:22:00Z
+    webUrl: "https://www.financialexpress.com/money/borrowing-from-loan-apps-know-how-to-identify-genuine-fintech-lenders/2301414/"
+    ampWebUrl: "https://www.financialexpress.com/money/borrowing-from-loan-apps-know-how-to-identify-genuine-fintech-lenders/2301414/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/borrowing-from-loan-apps-know-how-to-identify-genuine-fintech-lenders/2301414/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
+    images:
+      - url: "https://images.financialexpress.com/2021/07/FRAUD.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "wvP4fwiRXipH1vPJCPbga0CnSbDVoefxuezzyutKn3YVdY/S85QcJsPH7V/enMzzWWxnEaOtT+IkMFez4eizQRHByOlf0E/dVDxLWGGo3xm78HULXY6OeMpnhFktC7kbbPQOPrKq3KrQv6nWNn/WKe4F6CtMp7y8t9nMYPfdbKlNTraM9uU/hxITugflWi5yhVgNe+4fVww6B4yVGg9AGpX74yKVy/i+qv8s82H/vxcOTMykjBQvsLq5OIeDmRw3v0QQ2RDjtiPBsmspypEK1OCnkUWk1BUk/KCxlsj+pT2ddYqDaFYfyO8ExB0Z/kyk44qleeQyq0Le9OIvbUOwzsMx4zpozseMC0SpAEaGOjSW81XiuzUIjp7OnIkvJ90Uc3OAu4jK3RpEvBuEPDSmqQ3DiLgfSZatvj0Piui/8NE+huPEysTHheexvwWrbjnahWvGDCZGjMw4Y3MUHzjv2UfGRdsz/WkiiVcT9dMSRGjQcW2nC7PLpkZCYwEbWhJKlfqNB3uMxuS5fqgbgYTDeQ==;CrJEWoCRw/9riiq09+XV7A=="

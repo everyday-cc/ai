@@ -25,59 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Despite controversies and bans, facial recognition startups are flush with VC cash"
-    excerpt: "If efforts by states and cities to pass privacy regulations curbing the use of facial recognition are anything to go by, you might fear the worst for the companies building the technology. But a recent influx of investor cash suggests the facial recognition startup sector is thriving,"
-    publishedDateTime: 2021-07-26T12:00:00Z
-    webUrl: "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/"
-    ampWebUrl: "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/"
+  - title: "Remark AI Finishes in Top 5 in Recent NIST Computer Vision Test"
+    excerpt: "Remark Holdings, Inc. (NASDAQ: MARK), a diversified global technology company with leading artificial intelligence (\"AI\") solutions and digital media properties, today announced that the latest software from its Remark AI business achieved a top-five ranking in a recent computer-vision test (the Face Recognition Vendor Test,"
+    publishedDateTime: 2021-07-28T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test-1030656854"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 183
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition-tech.gif?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "China's top court specifies rules for facial recognition"
-    excerpt: "China's Supreme People's Court on Wednesday specified a set of regulations for the use of facial recognition. The rules involve issues concerning the application of laws in the trial of civil cases related to the use of facial recognition technology in handling personal information."
-    publishedDateTime: 2021-07-28T02:44:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270478203/chinas-top-court-specifies-rules-for-facial-recognition"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1627364184066.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Honor confirms its Honor Magic 3 will arrive with the Snapdragon 888 Plus, advanced facial recognition and more"
-    excerpt: "Everything indicates that the new Honor Magic 3 will be the company’s first flagship after its recent sale by Huawei. The Chinese firm is already warming up the engines with various announcements before its official launch,"
-    publishedDateTime: 2021-07-28T09:49:00Z
-    webUrl: "https://manometcurrent.com/honor-confirms-its-honor-magic-3-will-arrive-with-the-snapdragon-888-plus-advanced-facial-recognition-and-more/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 19
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/1627465765_840_560-780x470.png"
-        width: 780
-        height: 470
-        isCached: true
-  - title: "Oi Solucoes wins facial recognition contract in Bahia"
-    excerpt: "Brazilian company Oi Solucoes has won a contract to provide facial and number plate recognition services for the capital Salvador and 77 other cities in the state of Bahia, reports"
-    publishedDateTime: 2021-07-28T11:26:00Z
-    webUrl: "https://www.telecompaper.com/news/oi-solucoes-wins-facial-recognition-contract-in-bahia--1391753"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "nechPjNBxsvfE1RkaQ37AASRNYKJfhELQrCYVLka5IsKMfl8xBG5WrA8CPBxtx7Jc9ejBcZ91Hi6MSHrMthuF1sdFbVWHHO6Oi4QKPvv6XEDTNbJDQGSlYlXx12t2qX3jV8y4SEgN926Vex4cO0VAUDv+zwvKbl5Lt2B1q5UJT1wRxP8iq/ZdBPDhEDGq+XDGQWlqDQlnBRJ+I/yWmK99vFF340inMCd7jQBSVbKvGdSIRKWKzf9LyLxydeyqE3gvJ5pFAz1q6ONcxkElYzEGq800QnHS/5keJXDPjOK3dXx6IRFpyeEykHIufVIEP5EsNI5uP8d7mF5Ly6owHPp1k6lVylOpLpwPoZ3meKpr72VAyjlcKD6bYCMsuCI+V0YSAPEtsl0EQNrvEsE+bCXTSPBf8Sp4LZ4bTdH1Vanpvsgco7m0fhOhs/ZG3QXE3W0I+LpjMDET8cTP1YDRIBzcHMN5l/ug+1gti48+5lLmAMl1QM8HkBUgBmWORN9agAiWuqNwaJOgizOIYLlNcKZ4A==;OvPMJtU3rLp9E9n1pFEyrg=="
 ---

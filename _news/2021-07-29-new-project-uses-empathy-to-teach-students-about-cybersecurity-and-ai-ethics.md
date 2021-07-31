@@ -33,20 +33,6 @@ related:
         width: 1920
         height: 1078
         isCached: true
-  - title: "How can AI derail the organization’s cybersecurity?"
-    excerpt: "When it comes to a heightened period of cyber risks, AI can be a double-edged sword that can be used by cybersecurity researchers and cybercriminals alike."
-    publishedDateTime: 2021-07-26T11:22:00Z
-    webUrl: "https://techhq.com/2021/07/how-can-ai-derail-the-organizations-cybersecurity/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 37
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/07/000_Nic6259690-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "As Facial Recognition Technology Surges, Organizations Face Privacy and Cybersecurity Concerns, and Fraud"
     excerpt: "Facial recognition technology has become increasingly popular in recent years in the employment and consumer space (e.g. employee access, passport check-in systems, payments on smartphones), and in pa"
     publishedDateTime: 2021-07-28T15:33:00Z

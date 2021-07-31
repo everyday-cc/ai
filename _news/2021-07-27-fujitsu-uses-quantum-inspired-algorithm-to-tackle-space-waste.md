@@ -7,7 +7,7 @@ originalUrl: "https://cacm.acm.org/news/254289-fujitsu-uses-quantum-inspired-alg
 webUrl: "https://cacm.acm.org/news/254289-fujitsu-uses-quantum-inspired-algorithm-to-tackle-space-waste/fulltext"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "Fujitsu’s Take on Space Debris Removal"
-    excerpt: "Finding the optimal route to collect the space debris will save significant time and cost during the mission planning phase."
-    publishedDateTime: 2021-07-26T13:00:00Z
-    webUrl: "https://worldindustrialreporter.com/fujitsus-take-on-space-debris-removal/"
-    ampWebUrl: "https://worldindustrialreporter.com/fujitsus-take-on-space-debris-removal/amp/"
-    cdnAmpWebUrl: "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/fujitsus-take-on-space-debris-removal/amp/"
-    type: article
-    provider:
-      name: worldindustrialreporter.com
-      domain: worldindustrialreporter.com
-    quality: 44
-    images:
-      - url: "https://worldindustrialreporter.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
 
 secured: "kP5LgBCmDPUvfuF/TgJ31smzqjCD8N25Sovu5HfhvkvSWEpmujLj7rhLjec9gJSJLx0w4Ml6op6XA2IO5eImH3f7045xqpmsZpTJCabiAhYi5651qUl6CLoC6JnlkQ1yQsjiAbA20VJkXuzfvE/CTRcfNV52wy8lH23vriTYUXfkZXUhGKu2gnu7ArKf9Htr7fL8326cUMbTf83nA3pXQW8+uDHe+CjgTtIMwRDq9BY1079OwkjrGtEZPJYM5SgYcImtbR0HAl/WxdRmsNgqmcGMpGMh+8TaFIKu/7awsDllbH/kMqN67EG+GaQ/y+EsD707KYwRFrsFc82XO9YXCPh9kh18aL1sDgk8/dUi+uk=;ls9QyENQ6493wHCETctu5Q=="
 ---

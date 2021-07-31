@@ -19,63 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Despite controversies and bans, facial recognition startups are flush with VC cash"
-    excerpt: "If efforts by states and cities to pass privacy regulations curbing the use of facial recognition are anything to go by, you might fear the worst for the companies building the technology. But a recent influx of investor cash suggests the facial recognition startup sector is thriving,"
-    publishedDateTime: 2021-07-26T12:00:00Z
-    webUrl: "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/"
-    ampWebUrl: "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/"
+  - title: "Brazil’s Bahia State contracts $131M facial recognition system to tackle criminality"
+    excerpt: "A trial of the facial recognition solution in the State capital enabled the arrest of some 200 suspected criminals. Deployment begins this year."
+    publishedDateTime: 2021-07-29T21:37:00Z
+    webUrl: "https://www.biometricupdate.com/202107/brazils-bahia-state-contracts-131m-facial-recognition-system-to-tackle-criminality"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 183
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition-tech.gif?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "China's top court specifies rules for facial recognition"
-    excerpt: "China's Supreme People's Court on Wednesday specified a set of regulations for the use of facial recognition. The rules involve issues concerning the application of laws in the trial of civil cases related to the use of facial recognition technology in handling personal information."
-    publishedDateTime: 2021-07-28T02:44:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270478203/chinas-top-court-specifies-rules-for-facial-recognition"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1627364184066.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "China’s Top Court Rules Facial Recognition Without Consent Is Illegal in Civil Cases"
-    excerpt: "China’s Supreme People’s Court on Wednesday ruled in a judicial interpretation that using facial recognition technology without consent would violate law in civil cases, amid rising concerns about the technology’s misuse in public venues and residential compounds."
-    publishedDateTime: 2021-07-28T12:38:00Z
-    webUrl: "https://www.caixinglobal.com/2021-07-28/chinas-top-court-rules-facial-recognition-without-consent-is-illegal-in-civil-cases-101746900.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 32
     images:
-      - url: "https://img.caixin.com/2021-07-28/1627455046564912_560_373.jpg"
-        width: 560
-        height: 373
-        isCached: true
-  - title: "Honor confirms its Honor Magic 3 will arrive with the Snapdragon 888 Plus, advanced facial recognition and more"
-    excerpt: "Everything indicates that the new Honor Magic 3 will be the company’s first flagship after its recent sale by Huawei. The Chinese firm is already warming up the engines with various announcements before its official launch,"
-    publishedDateTime: 2021-07-28T09:49:00Z
-    webUrl: "https://manometcurrent.com/honor-confirms-its-honor-magic-3-will-arrive-with-the-snapdragon-888-plus-advanced-facial-recognition-and-more/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 19
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/1627465765_840_560-780x470.png"
-        width: 780
-        height: 470
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/28165245/facial-recognition-surveillance-crowds-scaled.jpeg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "ljKTVBHCFN8qVf1oeeLba3frAVFnwEuFy8cOAzfUCL62hSB9V8kGu/S76Uf/Uo+TrhAJ/P30afyTrUunpy/L0IcCDkvYDm4VPcW5nhDIYjC0C8ZrA0NDmIWkUps115lCjt2Kjf5Kt6iA1GJfWkYK0MHWn8Osbkt3EcHyUn//nIyhBboYz/tVe/0DDKG6YTT7T9Uu/GkOVAD7CUrI+6Cn+fqoTe+NG6P3QG/MmrTMF6jUJH5lMReZpXhonoZSmIIH7nML8QyWnDIGenUbwCbry2x1IMdOoLq4SaJTEzDOltjdrEV747uNmCDwcpuO411DVCZ7USpWP7bLDC2KiqgadLHD1Yf3ZQKqs5H/C2JUKa4=;sZeSkpV0NnLS2qHahkdl8w=="

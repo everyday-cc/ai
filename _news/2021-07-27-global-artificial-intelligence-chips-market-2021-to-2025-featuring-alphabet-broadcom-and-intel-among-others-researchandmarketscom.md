@@ -24,17 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "HD Map for Autonomous Vehicles Market worth $16.9 Billion by 2030 - Exclusive Report by MarketsandMarkets"
-    excerpt: "The promising market for self-driving car renting services and increased ... Technologies (the Netherlands), Waymo (US), NVIDIA (US), Baidu (China), Dynamic Map Platform (Japan), NavInfo (China ..."
-    publishedDateTime: 2021-07-26T11:34:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-07/53503485-hd-map-for-autonomous-vehicles-market-worth-dollar-16-9-billion-by-2030-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
-
 secured: "divufqcT0QUeoBQpY8FPBevzjc+kGRqsqq7PLAFws7sEBehz0Vt+LGBGPJxRF3pa8N8VlqQc8QxRog23QZn9OCkajDoTdn6eQa7Wl+eh7G764oCKoOcibEDvFivvxA1HgUgPWTL7yWPnu1MrlG2RKRZj+3ButDklxlt9i6acSiDoS+QqpEkIoiRSfGQf1mm/WxkD2G00Nsrqkae9ETD6xsOqOyk5FPitB8vEi8QQb8ObEuVTJSBixpQAmN5qScZBOlclWpN0ojb/GSckThcGO++RCOx6T6f+O94rC+MJXiPFDPe4Uq94MnY/bdwBvq0hSGPb8Rwg0062fti+3+iOLbB0V+z/tczHcrzUgl74iEc=;5gdK4jqAcF371iPwEfpurw=="
 ---
 

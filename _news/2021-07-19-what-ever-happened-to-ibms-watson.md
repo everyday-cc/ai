@@ -1,28 +1,24 @@
 ---
 category: news
-title: "What ever happened to IBM’s Watson?"
-excerpt: "IBM’s public confidence was unmistakable. Its Watson supercomputer had just trounced Ken Jennings, the best human “Jeopardy!” player ever, showcasing the power of artificial intelligence."
-publishedDateTime: 2021-07-19T06:01:00Z
-originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/what-ever-happened-to-ibms-watson-7411513/"
-webUrl: "https://indianexpress.com/article/technology/tech-news-technology/what-ever-happened-to-ibms-watson-7411513/"
-ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/what-ever-happened-to-ibms-watson-7411513/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/what-ever-happened-to-ibms-watson-7411513/lite/"
+title: "What Ever Happened to IBM’s Watson?"
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net IBM’s artificial intelligence ... on a humbler vision for Watson. SHARE THIS POST Find News ..."
+publishedDateTime: 2021-07-19T07:31:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/what-ever-happened-to-ibms-watson-10340508"
+webUrl: "https://markets.businessinsider.com/news/stocks/what-ever-happened-to-ibms-watson-10340508"
 type: article
 
 provider:
-  name: The Indian Express
-  domain: indianexpress.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://images.indianexpress.com/2021/07/IBM-AI-WATSON-ADV18-3-1.jpg"
-    width: 1200
-    height: 667
-    isCached: true
-
-secured: "KUsBH1fRBVGFshxuiHq1U+J3kI4qwpeFZTEeDwHc9i1/nUBYH8F9/8IWK/sSXVkGTD4w38Txa9VrCCNfa1Ml/83J5daMdj6sSyHcjuL1txmrnli7MRU/VMkl3Gf0oY7+1ItgXthFfY6bL5ZUFkaveAjV/1qzpLWQ6u/cDeAAmc8flnO1RqXRY3a6zCdPtXVkkW+BTSp3GcD5kacpXJUaNT0niw1J319uz2d591oZ2x3L/eBfhD8vKV9Oluv8x0cCkn9ap0j5gLZgp1zO/2v6z/+q3l3k9YshLhzyb5Gz15m9mYN4dvfUoja0CN8T2mLCeeMWFkzmV2lHaaf8Ka4fqwDlqlu7Zygoo7/9F/mjJ5zmJsivnEuWCTmjw5ncEv3qO52D+4VirB6Yq9eumS9TIAYdqFemfUWyO9bTYE5v7ULaBTLwpS/v2LMQbA2cOnyU2/w95Ul70K4THw7At3qhkEhvyMLxOmHPvo4elOtpkm40dSRQjlXglB5VlZdBzhK4dvALUTyUgNKhfIs68qF5CA==;Ps2SzqOCBt4sVK5lhRsngQ=="
+secured: "E9kBe7nxfkgrHiFe1jvXlUWjSzmWXtM12wuHWAOHY9qqnTs+KJTax2qrpWYU/UdWUU0IlaqQgHY89W8DMoYngTc8DlrYm6v5AjD+oHlvUFN31EiLGDv6dBzRAWJ0AqtFsMAmZOmVSbi0Ia13iuobMODzk3UaImUGTdJHpzDJDtS5k9WqI0isQv3h8Ia232in9CJEhARb22gfgJRGL28gXdCiREjIyu5zyJT6N68wUSL8dQMPpISdRrazCjIGjzNmOstSWzfCzxHxlyQ8V17EXiqEepp/pc1CCYgfg/6qFGKDN9+RRSCS2sw8G2Xa9FppHm7sdO7tLkgaEpDIf5K7HWRGFfRTOu5+0su7YO87c1k=;GnB3V26h62ephyh077daAA=="
 ---
 

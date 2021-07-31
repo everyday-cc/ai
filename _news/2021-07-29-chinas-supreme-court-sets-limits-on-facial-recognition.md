@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/"
 type: article
 quality: 59
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/07/28/1236614.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "China's top court specifies rules for facial recognition"
+    excerpt: "China's Supreme People's Court on Wednesday specified a set of regulations for the use of facial recognition. The rules involve issues concerning the application of laws in the trial of civil cases related to the use of facial recognition technology in handling personal information."
+    publishedDateTime: 2021-07-28T02:44:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270478203/chinas-top-court-specifies-rules-for-facial-recognition"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1627364184066.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Supreme court: Abuse of face recognition infringes legal rights"
     excerpt: "All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC,"

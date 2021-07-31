@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding Contextual AI In The Modern Business World"
-    excerpt: "Exploring emerging technologies and those with features that can adapt will help meet this modern world head-on."
-    publishedDateTime: 2021-07-26T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/07/26/understanding-contextual-ai-in-the-modern-business-world/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60facdc5d1bfbd82bc8f0946%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "6 Groundbreaking Ways Artificial Intelligence is Changing 21st-Century Finance"
     excerpt: "Finance is undergoing a distinct change after the application of artificial intelligence. Effects of AI in finance basically bring automation in the process of personalized banking, taking loans and other payments."
     publishedDateTime: 2021-07-29T11:35:00Z

@@ -33,20 +33,6 @@ related:
         width: 1920
         height: 1078
         isCached: true
-  - title: "How can AI derail the organization’s cybersecurity?"
-    excerpt: "When it comes to a heightened period of cyber risks, AI can be a double-edged sword that can be used by cybersecurity researchers and cybercriminals alike."
-    publishedDateTime: 2021-07-26T11:22:00Z
-    webUrl: "https://techhq.com/2021/07/how-can-ai-derail-the-organizations-cybersecurity/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 37
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/07/000_Nic6259690-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "New project uses empathy to teach students about cybersecurity and AI ethics"
     excerpt: "While empathy is important in almost every aspect of daily life, it is not always a priority in the development of technology, especially technology using artificial intelligence (AI). iSchool researchers are working to address this gap by using empathy to teach high school students about cybersecurity and AI ethics issues."
     publishedDateTime: 2021-07-29T00:00:00Z

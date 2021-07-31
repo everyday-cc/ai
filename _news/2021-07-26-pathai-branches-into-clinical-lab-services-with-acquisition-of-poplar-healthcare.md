@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "PathAI enters into clinical diagnostics through acquisition of Poplar Healthcare Management"
-    excerpt: "PathAI, a global provider of artificial intelligence-powered technology for pathology, announced their acquisition of Poplar, the management service organization for Poplar"
-    publishedDateTime: 2021-07-26T12:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/pathai-enters-into-clinical-diagnostics-through-acquisition-of-poplar-healthcare-management/article_a50d7d05-2939-520e-bd7c-3beefc53f8d9.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 44
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/24/124483c2-e86c-5c0e-9b65-99cd9472feff/60a3ad0055b0d.image.jpg?resize=1200%2C458"
-        width: 1200
-        height: 458
-        isCached: true
   - title: "PathAI acquires Memphis' Poplar Healthcare"
     excerpt: "Memphis-based Poplar Healthcare is joining forces with Boston’s PathAI, a provider of artificial intelligence-powered technology for pathology services."
     publishedDateTime: 2021-07-26T20:18:00Z

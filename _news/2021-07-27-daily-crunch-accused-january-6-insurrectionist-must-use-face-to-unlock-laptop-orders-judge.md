@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/26/daily-crunch-34/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/daily-crunch-34/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1024
     height: 768
     isCached: true
-
-related:
-  - title: "Accused had to unlock laptop with face"
-    excerpt: "A US federal judge last week granted a Department of Justice request to place an alleged US Capitol rioter in front of his laptop to unlock the device with facial recognition, according to a report in the ABA Journal."
-    publishedDateTime: 2021-07-26T11:00:00Z
-    webUrl: "https://www.lawsociety.ie/gazette/top-stories/accused-had-to-unlock-laptop-with-face/"
-    type: article
-    provider:
-      name: Law Society of Ireland
-      domain: lawsociety.ie
-    quality: 24
-    images:
-      - url: "https://www.lawsociety.ie/globalassets/1-gazette-home2/gazette-images/international-202021/capitol-main.jpg"
-        width: 778
-        height: 297
-        isCached: true
 
 secured: "gA6LjSatFa/A29sqE8AyNuPfQ4VyP3FcwlSJx9B/d8wyTGnDQDwrW8jeKLvM3VF1BKxb8DaByWCV0jzLE2pm5dNK8RHEhQXe97+jb4vFZf4Zn37GLe2MeUYpn7LXCVqNe4mNRmM0EapBny/n9/UBWo9pBNaEjNIwBMmdTxO9jtESF7Ld/EYPxaDtpPLsnmZAeqSFJa3CaKNmBV8WvV5B4DJxX/Hzusnz9pKngdf+Gj5xMYVlomEuU9CD/cFrEza1FgK77WCV+5qFRH9txpjfglxUFo8qAU6IufuYmr5+GEbFvg4kZ+NaBRSN6MzBI0H1r09brtL8k6pmzpn4DhRkXCau7lp/Usb9OAFwWNg4SP0=;C24bWywaZkfHisiGxS7UNg=="
 ---

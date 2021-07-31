@@ -106,20 +106,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim"
-    excerpt: "The global medical imaging and informatics market is estimated to hit $37.10 billion in 2021 from $33.90 billion in 2020, registering growth at"
-    publishedDateTime: 2021-07-26T10:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-medical-imaging-informatics-market-thrives-with-ai-and-cloud-as-healthcare-sector-focuses-on-quadruple-aim-1030643646"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://mma.prnewswire.com/media/1580654/Frost__Sullivan_Radiology_Medical_Imaging_Informatics_Cloud_Healthcare.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Europe Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 39.59% through 2027"
     excerpt: "Selbyville, Delaware. Europe Artificial Intelligence in the Healthcare Market report provides key statistics on"
     publishedDateTime: 2021-07-29T08:05:00Z
@@ -178,17 +164,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "PathAI acquires Poplar Healthcare, highlighting AI’s role in medical diagnoses"
-    excerpt: "PathAI, a Boston-based health technology startup, said on Monday that it has acquired Poplar Healthcare, one of the country’s largest pathology labs, as the company seeks to provide doctors a quicker way to diagnose medical ailments through use of its software."
-    publishedDateTime: 2021-07-26T11:00:00Z
-    webUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/07/26/business/pathai-acquires-poplar-healthcare-highlighting-ais-role-medical-diagnoses/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 50
   - title: "Artificial Intelligence in Military Market Next Big Thing : Major Giants Boeing, BAE Systems, IBM"
     excerpt: "The latest independent research document on Global Artificial Intelligence in Military examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Artificial Intelligence"
     publishedDateTime: 2021-07-27T01:02:00Z
@@ -205,6 +180,17 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Global Artificial Intelligence in Livestock Farming Market"
+    excerpt: "According to a new market research report published by Global Market Estimates, the Global Artificial Intelligence"
+    publishedDateTime: 2021-07-30T14:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/g22249357/global-artificial-intelligence-in-livestock-farming-market"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22249357"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22249357"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
   - title: "Global Artificial Intelligence In Healthcare Market 2021 Analytical Overview, Technological Innovations with Economic Indicators By 2028"
     excerpt: "The primary sources employed while crafting Artificial Intelligence In Healthcare Marketing report include the industry experts from the industry comprising the management corporation processing organizations analytical service suppliers of the industry s value chain This market research report sheds light"
     publishedDateTime: 2021-07-28T10:27:00Z

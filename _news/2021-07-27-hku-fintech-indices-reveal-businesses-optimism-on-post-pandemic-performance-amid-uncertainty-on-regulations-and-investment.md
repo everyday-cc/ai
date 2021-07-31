@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/hku-fintech-indices-reveal-businesses-o
 webUrl: "https://www.miragenews.com/hku-fintech-indices-reveal-businesses-optimism-602890/"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "India’s Fintech Market: Growth Outlook and Investment Opportunities"
-    excerpt: "India has the third largest fintech ecosystem globally and 67 percent of more than 2,100 fintech entities in operation have been set up since 2016."
-    publishedDateTime: 2021-07-26T10:26:00Z
-    webUrl: "https://www.india-briefing.com/news/indias-fintech-market-growth-outlook-and-investment-opportunities-22764.html/"
+  - title: "Amadeus and Hopper expand relationship to stimulate a return to travel with fintech"
+    excerpt: "Companies focus on rebuilding traveler confidence by enhancing Amadeus’ insurance portfolio with data-driven solutions and adding more car rental options for Hopper customers"
+    publishedDateTime: 2021-07-27T13:14:00Z
+    webUrl: "https://amadeus.com/en/insights/press-release/amadeus-hopper-expand-relationship-to-stimulate-return-to-travel-with-fintech"
     type: article
     provider:
-      name: india-briefing.com
-      domain: india-briefing.com
-    quality: 24
-    images:
-      - url: "https://www.india-briefing.com/news/wp-content/uploads/2021/07/India’s-Fintech-Market-Growth-Outlook-and-Investment-Opportunities.jpg"
-        width: 900
-        height: 506
-        isCached: true
+      name: Amadeus
+      domain: amadeus.com
+    quality: 0
 
 secured: "bCq0irRNXRrW6iI9qt3+4hpN/R4NK1ccGrrNanURJJm/UQl0QMnqJBskWknpmXjYor15lTAk7WyE7CKSe6pNb2G6ViPYu9WuFMpbUQMJXvRgE2avAboZndxdIrMIpjJfkz2CK/9pGVyjZxk2fdQJmGFr8FFcsRn9D6U6M7gf3B2GAjRJz6QW8SU3bbcqU7hzaNyuu48c6LE1pshHMjvsrjYLaZE8k0bnyo4g4k8I6D0FdDaTAi0KmYmngDuiMSesLwEpl5WXnLhjvH32OGh1UEJdHhFs6UOrd6EmtKxa0xmnuei/trnZDAGvUqltZx8qZtoKKGrywyPhUeNHZUgwXAi1vmDb3+rCuPcCKafUL7Q=;kwnpIykZE1C1KY1+e0n+Fw=="
 ---

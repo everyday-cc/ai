@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have-emotional-intelligence/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Artificial Intelligence Isn’t Intelligent"
+    excerpt: "Some AI experts think that the name itself is fueling the kind of hype and confusion that have led to ‘AI winters’ in the past"
+    publishedDateTime: 2021-07-31T03:00:00Z
+    webUrl: "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050"
+    ampWebUrl: "https://www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-376905/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Harnessing machine learning to enhance Emotional Intelligence in healthcare"
     excerpt: "Emotional AI has broad applications across mental health, remote monitoring (through voice and other biometrics e.g. blood pressure, heart beat) and telehealth."
     publishedDateTime: 2021-07-28T18:00:00Z
