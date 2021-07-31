@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
-excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
-publishedDateTime: 2021-07-28T19:14:00Z
+excerpt: "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with ..."
+publishedDateTime: 2021-07-29T01:45:00Z
 originalUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
 webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
 type: article
@@ -11,11 +11,11 @@ heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
+  name: Morningstar%2c Inc.
   domain: morningstar.com
 
 topics:
-  - Computer Vision
+  - AI in Autos
   - AI
 
 related:
@@ -231,6 +231,6 @@ related:
       domain: forbes.com
     quality: 6
 
-secured: "VILZwETs5iQomYqdoZoLo0CpmLhPM73ACgRn6EC8jUfpTfkBEa/IkL608QupTP+N/c3zjxU8j0kcp9NImaOjsGFjcwUX9rzCaWWEGgQI6JeiPC7nPRAxM5Bjit4eLcq0HuGzIwMXhzSj4bRSG7wyGcKw8ui+FOYnhA3Z2DnQl7w5H09Lk3d1DnnUa1+b+zatl6mpCj/rUw1lvDe7v0GrawP+7zY9KEZDs5ImJP4VgkmJ7+5furB+BaIjABkbOAv6cJ+jANC/Bpng6KGNwVkVNUkM9qeoSeblc2JY5+zB2HaRKVNRIc4Jylb5tKK5RYBwWwQCce1dlwejFe+6SZ377g1DW8rDl2H0SodPQD4ftQI=;5Rql+4ZwbePeHd4u6R0ZQQ=="
+secured: "/Lap7ZUPFtEiB8u+uq862M/Q7e2JURny/kL11EKjCwgm9dScyMeBTo80aGek8WTNW8JbvwOrNm//wd+OywcXjmJ8xqNtPGG4OzrwKhSJmcEWxJ17MzTGHyGZIMtDy2pxKZ7bVceFCktS8rWcNc/wS0RavDWXwCgrVBnUF2KaJ/+iXq3/5U7dz9RfZRHqojkrm9Iv6xoCA8ezxI2ilr/Nz726saBceXvDxbt3Wm15LIztkiLWAfZhWiEZ+bkGrExOIuNep6ifqyQp8MWPJWQLbDXced40EymN/UtYT6u37KBDCx3q6NPsKobr+kz3Burwb7nbpn4HxzcsZ0EjnXuk8EXl2hvq2K9TFHD9FDk3YKQ=;X1r6j5vccMzDHRGkk4w5Gg=="
 ---
 

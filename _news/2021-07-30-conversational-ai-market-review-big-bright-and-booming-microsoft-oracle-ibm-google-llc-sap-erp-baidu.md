@@ -183,6 +183,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 23
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market 2021 Profitable Segments Breakdown | Microsoft, NVIDIA Corporation, IBM, Atomwise"
+    excerpt: "Latest added Artificial Intelligence (AI) in Drug Discovery Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
+    publishedDateTime: 2021-07-28T13:42:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-drug-discovery-market-2021-profitable-segments-breakdown-microsoft-nvidia-corporation-ibm-atomwise/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 19
   - title: "Text-To Speech Market 2021 Long-term Outlook Remains Positive | Microsoft Corporation, IBM Corporation, Google, Sensory"
     excerpt: "The Text-To Speech Market was valued at USD XX billion in 2020 and is estimated to reach USD 5.0 billion by 2027, registering a CAGR of 14.6% during the forecast period. Latest added Text-To Speech Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
     publishedDateTime: 2021-07-26T16:50:00Z

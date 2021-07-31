@@ -195,20 +195,6 @@ related:
         width: 800
         height: 452
         isCached: true
-  - title: "The Green way of defining AI in Mortgages"
-    excerpt: "This article explains how Digilytics offers RevEI to implement AI in mortgage for reducing carbon footprints of lenders. The mortgage industry needs AI to enhance the mortgage lending experience of the customers worldwide."
-    publishedDateTime: 2021-07-26T07:13:00Z
-    webUrl: "https://www.analyticsinsight.net/the-green-way-of-defining-ai-in-mortgages/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/AI.png"
-        width: 1600
-        height: 901
-        isCached: true
 
 secured: "3DE4a1e5qfgxvPIMURY782fYImIIdpglzHjK24Ri5O7jFsThkwqwEMNSJDljr/013vdhOpwLGDjzBhZ786kJYDPiZeIkZbmn/0rNP/JgeuPp39GcSUly4CVoOxNKRjvfzTUZOvhmQbcXiUuA4S7YjObZe3by4lkif8qiYbyyUYhTVc1JrKbEk9WxkWp/eSHPTOmnMo6ZsffXziT3cjZXnbNNTNWTbS3XB+kmj7rmwsFKPKl+F82DzXRLkaTpUuVbFftEVoMfEzmLfiI8LizfDJejBuNpP+yXgUCbs5cjUg/czbWtgTNMNeeryKcNGwBTmFZPJrSnCGJlbAab8ggIx5xeEaYDFwo+V1sskBXcJ7k=;yPwIqTBdlSz4XDCcRYUurg=="
 ---

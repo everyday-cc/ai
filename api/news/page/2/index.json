@@ -391,6 +391,51 @@
       ]
     },
     {
+      "path": "_news/2021-07-29-pm-modi-launches-academic-credits-bank-other-education-initiatives-on-one-year-of-nep-2020.md",
+      "title": "PM Modi launches Academic Credits Bank, other education initiatives on one year of NEP 2020",
+      "excerpt": "The projects launched today include Academic Bank of Credits, AI-based translation of first-year engineering curriculum in 11 regional languages, internationalisation of higher education ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/pm-modi-launches-academic-credits-bank-other-education-initiatives-on-one-year-of-nep-2020-11627558320738.html",
+      "originalUrl": "https://www.livemint.com/news/india/pm-modi-launches-academic-credits-bank-other-education-initiatives-on-one-year-of-nep-2020-11627558320738.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/07/29/600x338/b5af6ee0-ed4d-11eb-a043-f8aaa01a1d1e_1627242083337_1627558441877.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/pm-modi-launches-academic-credits-bank-other-education-initiatives-on-one-year-of-nep-2020/amp-11627558320738.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/pm-modi-launches-academic-credits-bank-other-education-initiatives-on-one-year-of-nep-2020/amp-11627558320738.html",
+      "publishedDateTime": "2021-07-29T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-chinas-supreme-court-sets-limits-on-facial-recognition.md",
       "title": "China’s supreme court sets limits on facial recognition",
       "excerpt": "The interpretation by China’s highest court sets boundaries on how businesses in China can use facial recognition technology.",
@@ -1147,58 +1192,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-using-ai-to-map-africas-buildings.md",
-      "title": "Using AI to map Africa’s buildings",
-      "excerpt": "Between 2020 and 2050, Africa’s population is expected to double, adding 950 million more people to its urban areas alone. However, according to 2018 figures, a scarcity of affordable housing in many African cities has forced over half of the city dwellers in Sub-Saharan Africa to live in informal settlements.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/",
-      "originalUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BINK_GoogleHero_Open-Buildings_V2b_2096x11.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/",
-      "publishedDateTime": "2021-07-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

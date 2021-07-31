@@ -40,20 +40,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Epic’s AI algorithms, shielded from scrutiny by a corporate firewall, are delivering inaccurate information on seriously ill patients"
-    excerpt: "A STAT investigation found several AI algorithms developed by Epic are delivering inaccurate information on seriously ill patients."
-    publishedDateTime: 2021-07-26T08:30:00Z
-    webUrl: "https://www.statnews.com/2021/07/26/epic-hospital-algorithms-sepsis-investigation/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 6
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/07/stat_epic_alarm_ink_1st_2000x1125_flat-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "PpH3wa1MYF6UOkf1vkd9XCKvcnTL7w9/D/nCzENitYw3zaaVgbrphrQdCojRG6v9tX9CD25z3aGCwQMX8Li0iiwykAOSNE7iG+T/66DkxwWa70k6tbh50Uoc0wu/hM9n2DMn18KcxUE3Q/c0mOVxXH1gmfYMH5jBiVx/1aSBHeppjmqTctXjViP1owGuZxdR4rEPeROFYkPwohYgy5lI3LrPFcMcvkm8CWH8FVZgsHiRItEWz8/00/HTiJXNyRuf9XbrKPltrlNTNEzpGUhsFnmB61cu4r8WHDaRtVCgXG8znRL9yehlXnkh1NLi9+yQXHTalDGV46lw+Nsgtlwb8uO5SppkL187pcL+Qu8o1oI=;sFERsavg72wMDJYvxjlbmQ=="
 ---

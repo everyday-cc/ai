@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-07-20-ai-adoption-and-analytics-are-rising-survey-finds.md",
+      "title": "AI adoption and analytics are rising, survey finds",
+      "excerpt": "Businesses are accelerating their adoption of analytics, according to a new survey from Zoho-owned ManageEngine.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/",
+      "originalUrl": "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/",
+      "publishedDateTime": "2021-07-20T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-untether-ai-nabs-125m-for-ai-acceleration-chips.md",
       "title": "Untether AI nabs $125M for AI acceleration chips",
       "excerpt": "Untether AI, a startup developing custom-built chips for AI inferencing workloads, today announced that it raised $125 million from Tracker Capital. The round, which was oversubscribed and had participation from Canada Pension Plan Investment Board and Radical Ventures,",
@@ -1091,58 +1142,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-supply-chain-threats-demand-industrywide-approach-to-ai.md",
-      "title": "Supply chain threats demand industrywide approach to AI",
-      "excerpt": "As supply chain threats get more complex, organizations need to adopt an industrywide approach to creating open standards.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/supply-chain-threats-demand-industrywide-approach-to-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/supply-chain-threats-demand-industrywide-approach-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/amdgoldman.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/supply-chain-threats-demand-industrywide-approach-to-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/supply-chain-threats-demand-industrywide-approach-to-ai/amp/",
-      "publishedDateTime": "2021-07-19T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

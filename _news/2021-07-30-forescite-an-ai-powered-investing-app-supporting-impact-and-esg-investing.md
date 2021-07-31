@@ -1,29 +1,25 @@
 ---
 category: news
 title: "ForeSCITE, an AI-Powered Investing App Supporting Impact and ESG Investing"
-excerpt: "ForeSCITE, LLC a New York based Fintech and data science company, officially launched ForeSCITE ESG Dashboard earlier this month, the ForeSCITE application gauges companies' ESG scores based on the same AI technology that ForeSCITE provides major financial ..."
+excerpt: "ForeSCITE, an AI-powered investing platform, has launched an investing trading assistant mobile application that reads company"
 publishedDateTime: 2021-07-30T16:35:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/forescite-an-ai-powered-investing-app-supporting-impact-and-esg-investing/article_111c4192-263a-5d02-85d1-827ba1703d23.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/forescite-an-ai-powered-investing-app-supporting-impact-and-esg-investing/article_111c4192-263a-5d02-85d1-827ba1703d23.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/07/n22252732/forescite-an-ai-powered-investing-app-supporting-impact-and-esg-investing"
+webUrl: "https://www.benzinga.com/pressreleases/21/07/n22252732/forescite-an-ai-powered-investing-app-supporting-impact-and-esg-investing"
+ampWebUrl: "https://www.benzinga.com/amp/content/22252732"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22252732"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "apufgOiXMbpkTP6Tk+3+tkPCAR1O8l9U7+r3PK3YEs5T7flaS+ZdxG16wtdEF0rwbQ45ISgaCUjyVnL5KNgKlBekRp2VkeOjDmgbec7lJ8IqfBMGM6jZhDAu9C2+HeNBWEUEAg1Xlq52m719CluKLf/1vy8vxhH6gswOsN6WqqgvBnkHF5pc3VpLJ8gxjVwW7S65TY9Ijq4DwbnsIFcH8CLpVgLEpY3AYU4zzAggvvaQNnD9s9A2kgDjaosMqM0ykL5TOALPMr0fEQv0ecO/D3N5+Mk0yFL+G+MCWSoCq/ZihfzgvYtwhRVrsQVUrAVlkWwnf/00ICAVMa6ZLHRL3iRNqvfmTOH+Gpme7FyJ6KM=;M8SKQWzoiFFjdej9tedFEQ=="
+secured: "F4CNSfne5k5bwX8RM7R4DeyzAoEt7ql7y+Tl0BB2WdIC79DaF6KfIPO7UivygM4K2o7bP1tVmI2ArLbs1puecPippzdX9KXCpNpIWf+DPJkfDE3T4naPP6pCJdqzdwwaSc15UtY1mmFGAokb2vpI/rblplzP7zPqkD9rgsT1GBcRX9mI6TiNdRWesjlMaW4hrkDD069HRf01/20Ot601AtsgEnVfngErJA6aPiP+JMbfp7fKV4cSXapZfpD2oYgM3VNFOo8t4fVuixC5qfVeDK6ueIUda16BCf1ACbVWa3LexwdaLyfJslCWEoNj152D0wBwYw4sncS1gmqW7wDh7Cusn8JDa6p+XTOLSl4xvGQ=;EvLG8qK773+0H3nAciPBrw=="
 ---
 

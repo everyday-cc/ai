@@ -168,6 +168,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "NSF Partnerships Expand National AI Research Institutes to 40 states"
+    excerpt: "Today, the U.S. National Science Foundation announced the establishment of 11 new NSF National Artificial Intelligence Research Institutes, building on the first round of seven institutes funded in 2020."
+    publishedDateTime: 2021-07-29T19:13:00Z
+    webUrl: "https://insidehpc.com/2021/07/nsf-partnerships-expand-national-ai-research-institutes-to-40-states/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
   - title: "Drexel Researchers Will Develop Artificial Intelligence Technologies for Adult Learning and Online Education as Part of $220 Million NSF Initiative"
     excerpt: "Researchers in Drexel University’s College of Computing & Informatics, who are studying artificial intelligence as a tool for teaching, have been selected to join a $220 million National Science Foundation initiative to expand the use of AI technology in areas ranging from agriculture and food supply chains to adult and online learning."
     publishedDateTime: 2021-07-29T18:00:00Z

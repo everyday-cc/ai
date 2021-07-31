@@ -7,7 +7,7 @@ originalUrl: "https://www.bitpipe.com/detail/RES/1623758832_993.html"
 webUrl: "https://www.bitpipe.com/detail/RES/1623758832_993.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "How Do We Prepare for an AI Future?"
-    excerpt: "How on earth did we survive before this technology arrived in our lives? We survived, of course, but were quite literally lost some of the time. My reverie was interrupted by a toll booth. It was empty,"
-    publishedDateTime: 2021-07-26T09:00:00Z
-    webUrl: "https://www.thenation.com/article/society/ai-future/"
-    ampWebUrl: "https://www.thenation.com/article/society/ai-future/tnamp/"
-    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/society/ai-future/tnamp/"
+  - title: "For leading manufacturers, a more resilient and sustainable future starts with Azure"
+    excerpt: "With technologies like open industrial IoT, advanced analytics and AI, Azure is empowering organizations to unlock their greatest potential. Whether applications for manufacturing use cases are built in house,"
+    publishedDateTime: 2021-07-29T16:21:00Z
+    webUrl: "https://www.publicnow.com/view/13A7F18AAE80AC24BFB7DB7D4E1CD5CB5B870205"
     type: article
     provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 57
-    images:
-      - url: "https://www.thenation.com/wp-content/uploads/2019/11/worker-robot-AP-img.jpg"
-        width: 1440
-        height: 907
-        isCached: true
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 27
 
 secured: "0/0Gs7WY/B3Hbr1FSZInCEzg7rpMKEU3OiQ+xcl9BkqLcGw//AfNQtBDs1wkhSOWzF6lVtm55XnGGQrECsnJWa65wrK/5AVXUknafURl6Q/eIuWTwCMC6MCqjfJd5bFCICMW5L+prNw/wk3i6FDX7v3PyAh7y7axaZvnTMvni6MBwnNcdvutpRQaio1qoU4+/+xaTmyzPZgJtflljUB5U3QWUqcHZ97/uUlSL1r99cVJJduNvtxRaCOFEB6kf8PhCNNhB9+/K5bb+JOsijePn21EGS/LjJnAnrMKYxfJ/jOlZGixN4j60EcGvzmFtaV7jszt/fU1CAS633s7AQ1itNrVvUF5WDUowO9L6j6eoUA=;VWlMAeZKNpBi1KHvAYIRZg=="
 ---

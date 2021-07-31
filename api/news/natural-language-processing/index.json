@@ -98,6 +98,51 @@
       ]
     },
     {
+      "path": "_news/2021-07-29-pm-modi-launches-academic-credits-bank-other-education-initiatives-on-one-year-of-nep-2020.md",
+      "title": "PM Modi launches Academic Credits Bank, other education initiatives on one year of NEP 2020",
+      "excerpt": "The projects launched today include Academic Bank of Credits, AI-based translation of first-year engineering curriculum in 11 regional languages, internationalisation of higher education ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/pm-modi-launches-academic-credits-bank-other-education-initiatives-on-one-year-of-nep-2020-11627558320738.html",
+      "originalUrl": "https://www.livemint.com/news/india/pm-modi-launches-academic-credits-bank-other-education-initiatives-on-one-year-of-nep-2020-11627558320738.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/07/29/600x338/b5af6ee0-ed4d-11eb-a043-f8aaa01a1d1e_1627242083337_1627558441877.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/pm-modi-launches-academic-credits-bank-other-education-initiatives-on-one-year-of-nep-2020/amp-11627558320738.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/pm-modi-launches-academic-credits-bank-other-education-initiatives-on-one-year-of-nep-2020/amp-11627558320738.html",
+      "publishedDateTime": "2021-07-29T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml.md",
       "title": "Mastering The Art Of Extracting Data From Invoices Using AI And ML",
       "excerpt": "At some point, all invoices will become digital. Until then, the need to handle paper-based invoices and extract data from both paper and digital invoices without human involvement is critical for enterprises to truly transform.",
@@ -106,7 +151,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -308,7 +353,7 @@
       "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -783,6 +828,49 @@
         "Machine Learning",
         "Natural Language Processing",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-aicte-translating-engineering-coursework-using-ai-tool-finding-word-equivalent-of-tech-terms-a-task.md",
+      "title": "AICTE Translating Engineering Coursework Using AI Tool, Finding Word Equivalent of Tech Terms a Task",
+      "excerpt": "A many as 3,000 translators along with young interns in their 20s set their eyes to the AI tool on their screen to translate course materials from English to regional languages at the AICTE headquarters in New Delhi,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
+      "originalUrl": "https://www.news18.com/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/07/1626756615_aicte.jpg?im=FitAndFill,width=1200,height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
+      "publishedDateTime": "2021-07-20T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1397,101 +1485,6 @@
         "AI",
         "Natural Language Processing",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize.md",
-      "title": "AI-enabled sign language translator designed by teenagers wins £20,000 prize",
-      "excerpt": "The prototype of the BSL: Educate-2-Translate app A two-way AI-enabled sign language translator designed by teenagers has won a £20,000 technology prize. A team from St Paul’s Girls’ School ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.shropshirestar.com/news/uk-news/2021/07/16/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize/",
-      "originalUrl": "https://www.shropshirestar.com/news/uk-news/2021/07/16/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.shropshirestar.com/resizer/9Te1NTF34Dkxnxb9vDfuc1Rpx1o=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/4YJSKDSIPNH3LILDOXUWZ7HB5A.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shropshire Star",
-        "domain": "shropshirestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-native-voice-nabs-14m-to-convert-devices-into-branded-voice-assistants.md",
-      "title": "Native Voice nabs $14M to convert devices into branded voice assistants",
-      "excerpt": "Native Voice, a company developing an SDK that allows companies to bring branded voice assistants to devices, has raised $14 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ScreenShot2021-01-03at10.04.26AM.png?w=1200&strip=all",
-          "width": 1000,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/amp/",
-      "publishedDateTime": "2021-07-15T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

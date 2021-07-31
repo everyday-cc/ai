@@ -178,6 +178,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 23
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market 2021 Profitable Segments Breakdown | Microsoft, NVIDIA Corporation, IBM, Atomwise"
+    excerpt: "Latest added Artificial Intelligence (AI) in Drug Discovery Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
+    publishedDateTime: 2021-07-28T13:42:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-drug-discovery-market-2021-profitable-segments-breakdown-microsoft-nvidia-corporation-ibm-atomwise/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 19
   - title: "Conversational AI Market Review: Big, Bright and Booming | Microsoft, Oracle, IBM, Google LLC, SAP ERP, Baidu"
     excerpt: "The global Conversational AI Market size is expected to grow from USD XX billion in 2020 to USD 13.9 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 21.9% during the forecast period. Latest added Conversational AI Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
     publishedDateTime: 2021-07-30T10:35:00Z

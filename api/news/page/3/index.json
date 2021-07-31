@@ -2,29 +2,38 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-07-28-report-apple-plans-facial-recognition-based-security-for-wallets-upcoming-id-feature.md",
-      "title": "Report: Apple Plans Facial Recognition-Based Security for Wallet's Upcoming ID Feature",
-      "excerpt": "Apple will reportedly use on-device facial recognition to make sure government-issued IDs can only be added to its Wallet app by their rightful owners.",
+      "path": "_news/2021-07-28-using-ai-to-map-africas-buildings.md",
+      "title": "Using AI to map Africa’s buildings",
+      "excerpt": "Between 2020 and 2050, Africa’s population is expected to double, adding 950 million more people to its urban areas alone. However, according to 2018 figures, a scarcity of affordable housing in many African cities has forced over half of the city dwellers in Sub-Saharan Africa to live in informal settlements.",
       "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/report-apple-plans-facial-recognition-based-security-for-wallets-upcoming",
-      "originalUrl": "https://www.pcmag.com/news/report-apple-plans-facial-recognition-based-security-for-wallets-upcoming",
+      "webUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/",
+      "originalUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 139,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BINK_GoogleHero_Open-Buildings_V2b_2096x11.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T08:22:00-07:00",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/",
+      "publishedDateTime": "2021-07-28T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
+        "name": "Google",
+        "domain": "blog.google",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -40,9 +49,8 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI",
-        "AI in Security"
+        "Google AI"
       ]
     },
     {
@@ -149,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 216,
       "tags": null,
       "images": [
         {

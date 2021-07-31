@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/"
 type: article
 quality: 106
-heat: 226
+heat: 216
 published: true
 
 provider:
@@ -199,20 +199,6 @@ related:
       - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/6f78c94e-5081-42b7-bc96-9cd824c8399d.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
         width: 800
         height: 452
-        isCached: true
-  - title: "The Green way of defining AI in Mortgages"
-    excerpt: "This article explains how Digilytics offers RevEI to implement AI in mortgage for reducing carbon footprints of lenders. The mortgage industry needs AI to enhance the mortgage lending experience of the customers worldwide."
-    publishedDateTime: 2021-07-26T07:13:00Z
-    webUrl: "https://www.analyticsinsight.net/the-green-way-of-defining-ai-in-mortgages/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/AI.png"
-        width: 1600
-        height: 901
         isCached: true
 
 secured: "GDLfQ+jaxJXGdjLoHLe2zdOcdHEI+D5meF7ooxY5J0o2IJ1bDsla+YS/Sm1cZTniE/paq1dcDnnSC56wJUQQkjmlVYvq96ycItNIjokuZJGWkk6pKzpX6VkPpvsJKnYxfIKE1XOU0LskepR5wrQ9BW5/F6xpZ1js0vqK1bFRXsMiPJo9vFAqKhP62T9kb9fsdebUUxqAaX/hm5NA/N5TC9P53WUV99c97VSt03pYVnShpzUsO/wHNYY195hajYler8Mb68deaH4IMAKKBfMh236fkHpbjej6wqk5nhM5jOo0WNMVwFE14OfxIc2ProFNOjNmlXHeD+fSYej03OLT7fmmBzHLVWfyheJJ/u17D5A9O17emf8L5FrvTKx72/WyG0SbeGyFGNsrjng4et4Q1EzoibXgoQ2kJN+j88+Lk+wwgPWV4dBjXeiulBR4qCEB7hgkTGubBsbmc+yrwLVUok/5C/Hxv706eccgeqz9CR3n3jjbzE1wVoxkgXNX1HM/aEnOgW/yp2DxHVg2U5cYmg==;SBLBzYHgtqb7Zyebe8U5BA=="

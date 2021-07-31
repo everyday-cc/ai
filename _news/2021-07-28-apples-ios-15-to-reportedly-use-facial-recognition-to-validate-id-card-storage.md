@@ -34,20 +34,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 58
-  - title: "July security patch reportedly breaks Galaxy S10 5G's face recognition feature"
-    excerpt: "Some users have been experiencing issues with the face recognition on their S10 5G when they installed the latest update. A Samsung forum moderator has acknowledged the issue, but so far, there hasn't been a solution or a fix."
-    publishedDateTime: 2021-07-26T07:32:00Z
-    webUrl: "https://www.phonearena.com/news/samsung-galaxy-s10-5g-face-recognition-bug_id133870"
-    type: article
-    provider:
-      name: Phone Arena
-      domain: phonearena.com
-    quality: 52
-    images:
-      - url: "https://m-cdn.phonearena.com/images/article/133870-wide-two_1200/July-security-patch-reportedly-breaks-Galaxy-S10-5Gs-face-recognition-feature.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "BGsQ8vDgXwZ4Cvx4TwyZ36/5nrrg06vi71xlJ2ksnbiUElBmo3lR0Xng3G3m864cVrOD5YFcum5623lcU0dKayQUR3bnOJ9N6Qs9Xcz0R7+8d0yVL2duUPpF0+8jll3iUmIVoXIBnPXKTZDBy00Mon4clXEI+wCW/CiTPUww9DeFO3Du/qYIYquYe6hz13WmZ7QawGjKHoXm7kWtBQbv+tEEMif5fnrNY+kFc3xF8jbPEv97Pvo8KHavNUqpJHPrqCFA4ZuhdnP0kyl+Yyo3l86I4pkyEp7bxJLRMbsQq2+Xw/M06Mj8krAmS9a6CIKX8SKL4jsUuMOfN6jAlbF2HVK/66vDb9vSd1YYogj7UmNEuTmFaaZFDKtnGKYEtybLNjYKmAU23UPJaQD6XA9ejKWtj1h79q/kkR0ltK4JlPVLCxx09rj+bsFUEmPgw1zyz/EbFtObSWWBHEOPN5mrxi3uK0DVDnhIQmmQuv8bLEAMIBhQ7cPRT7AJ/RKHfTTSxY65LwdbZzvlkCU7gR4P1Q==;UNyNdmVYR5oXiMR97oGiIA=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Epic’s AI algorithms, shielded from scrutiny by a corporate firewall, are delivering inaccurate information on seriously ill patients"
-    excerpt: "A STAT investigation found several AI algorithms developed by Epic are delivering inaccurate information on seriously ill patients."
-    publishedDateTime: 2021-07-26T08:30:00Z
-    webUrl: "https://www.statnews.com/2021/07/26/epic-hospital-algorithms-sepsis-investigation/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 6
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/07/stat_epic_alarm_ink_1st_2000x1125_flat-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Voice to Text on Mobile Devices Market Analysis by Competition, Performance, Sales and Consumption Status and Opportunities and Application till 2027"
     excerpt: "Voice to Text on Mobile Devices Market which enlighten the impact of COVID-19 by Business Insights, Top Players and Forecast to 2021-2027"
     publishedDateTime: 2021-07-29T17:54:00Z

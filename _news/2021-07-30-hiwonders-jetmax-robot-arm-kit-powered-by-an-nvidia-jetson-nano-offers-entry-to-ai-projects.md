@@ -24,6 +24,22 @@ images:
     height: 382
     isCached: true
 
+related:
+  - title: "JetMax AI vision robotic arm powered by Jetson Nano"
+    excerpt: "The true AI vision open-source robotic arm powered by Jetson Nano, making your AI creativity into reality. By Hammer X Hiwonder, David Hiwonder, and Lucas Hiwonder."
+    publishedDateTime: 2021-07-29T00:00:00Z
+    webUrl: "https://www.hackster.io/hiwonder-technology/jetmax-ai-vision-robotic-arm-powered-by-jetson-nano-62b1f6"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 39
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1330092/_bf68z3T5Ns.blob?auto=compress&w=1600&h=1200&fit=min&fm=jpg"
+        width: 1163
+        height: 872
+        isCached: true
+
 secured: "Qqgsf/H4VvD5l8M4dquvexpyfJ3FwdnINrEJd6cEa+rzSTD6BdhTefFfubF9wyMUv/8YEcG8o8Ff7a4fAHBDJ/FPC63fumIkffbcE4gULWlZgF78hVSM5BfBEKOlZZuZrCkeFko32MzVYwWAHiD4seTmZLL//w+O8tBod+1HWNlqhDLZLrNXwaUdQ2Q8bv+RP8M9Q1kosyOAv3UhdAkvoj0xa3+fXZFDrYqm4PqsFcnlCImjE6g5VkCVdezybYDYvbTTfjiCzTibRhtMCl90hcdkNAbiGWY6nckACfRYOxeWdFK3enSl/Pr7AmIcvGBtaXKsRBDnxF/LtD+itxFEFU4FXxrfrRi/zKR4nZi4MkMDeE8XYr7u7SQVNVKMKJG5JuaLHQD65Gk6+joj1z3p0+3VR+KZ6SPjUt6Yzmzlnwlh+T5SX6bxbSVvyZ5inU6OGXFKvj4nuHj+qpIcVPn9PGNFxDDw9Tu3o1kepo3me8UwuUWwXDtysRkB0X5V0+KKSLoXbAIrdmrQAZeoOOxKJg==;9xa6EdDxx4jdBLCiWYu+8g=="
 ---
 

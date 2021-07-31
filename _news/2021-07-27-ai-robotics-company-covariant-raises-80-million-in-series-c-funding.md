@@ -55,20 +55,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Numerade Labs Raises $26 Million for AI Ed Tech"
-    excerpt: "Santa Monica-based education technology platform Numerade Labs Inc. raised $26 million in Series A funding for its artificial intelligence-driven tutoring platform. The funding round, which was announced July 20,"
-    publishedDateTime: 2021-07-26T07:08:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/jul/26/numerade-labs-raises-26-million-ai-ed-tech/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
-    images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/06/30/Marsh-Mc-CC-Tech-Firms-20210701.png"
-        width: 294
-        height: 530
-        isCached: true
   - title: "AI data training platform Kili Technology raises $25 million"
     excerpt: "AI data training platform Kili Technology has raised $25 million in a new funding round. This is just six months after a seed investment of $7 million. The Paris-based startup helps companies transform raw data into high-quality,"
     publishedDateTime: 2021-07-27T08:00:00Z

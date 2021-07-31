@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-29-the-journey-to-fairness-in-ai-qa-with-new-york-times-best-selling-author-abigail-hing-wen.md",
+      "title": "The Journey To Fairness In AI -- Q&A With New York Times Best Selling Author Abigail Hing Wen",
+      "excerpt": "Abigail Hing Wen has a knack for trying and succeeding at new things. A lawyer by trade, Abigail worked in Washington D.C. for the Senate and as a law clerk for a federal judge before moving to Silicon Valley and charting a new course in venture capital and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb603b47a36ecf5f70e1141%2F960x0.jpg%3FcropX1%3D318%26cropX2%3D2612%26cropY1%3D675%26cropY2%3D2969",
+          "width": 400,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/amp/",
+      "publishedDateTime": "2021-06-28T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-deepmind-agi-paper-adds-urgency-to-ethical-ai.md",
       "title": "DeepMind AGI paper adds urgency to ethical AI",
       "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
@@ -1400,60 +1452,7 @@
         "AI Ethics",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-06-11-how-ai-could-radically-change-education-and-standardized-testing.md",
-      "title": "How AI could radically change education and standardized testing",
-      "excerpt": "Commentary: Find out how artificial intelligence could help shape new, game-changing forms of student assessment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/09/22/b6251c91-0aad-4704-ac28-978f08b1ebf5/resize/1200x/cb27a2c72afe520ecccde860b8b38bad/maksym-belchenko.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "publishedDateTime": "2021-06-10T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 4
 }
