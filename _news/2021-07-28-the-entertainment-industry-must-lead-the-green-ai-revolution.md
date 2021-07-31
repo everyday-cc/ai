@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/07/28/the-ente
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/07/28/the-entertainment-industry-must-lead-the-green-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 813
     isCached: true
+
+related:
+  - title: "Infographic: The Rise of AI in the Call Center Industry"
+    excerpt: "Artificial intelligence will soon break into the call center industry even more to complement the work of human agents, and its wide potential applications are promising. The infographic below courtesy of our friends over at Executive Boutique will show you some statistics about artificial intelligence and how call centers can integrate AI into their existing business processes."
+    publishedDateTime: 2021-07-31T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/07/31/infographic-the-rise-of-ai-in-the-call-center-industry/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "5uI1ifNRgOLsSt4vLKcMOSmchPt5YGXmzVlKJAkNy3xpRT/zAGrOxbEupsAL/f7cKUIfEVFKRDZGQvcLG75n6PHIzzDya9dT1GrDJtiQJpVeWVb5NgztTtqhJt/7M/yOK9vGqiIUO7TgK17xnv4V1CozreQmvmbyl8QB5Pj3z7kPlQ1RN2dKyyXe9IP3RiVQTzyxi9yitdc5QMBUjOdnel84UYn71l2wuOLm087gsRgVNW4lyJKLQnHS9oKGWzF5LBsK2htUYQC3M/HZAEDurM9BRkU7MM+mDFoCJ4mHkzyahKRZqDZN7Mr/P959XSwEbwokiImRq8/jfOwE5rdZlf4m+TP1NxLc9anEQ6llMZpEu3tEO1AsjDe+41DRPhGTQUonN1HCEO8s3SxYc0+SVr/FfV99ABqB7wpj4uhEB4ehPwZMCXT5169NYSXRwQ03xvAAXL28dHDg482/pKBQ4lp8GddF/UQvDxRykr2KJERF/QGAeznxfVZ7V2QtXGBqSs6uud1sSAz57qyhboUL0A==;j9sqMq96sxcvI4p68bTbKA=="
 ---

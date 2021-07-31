@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/923937"
 webUrl: "https://www.eurekalert.org/news-releases/923937"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence: Next Frontier Is Cybersecurity"
-    excerpt: "Artificial intelligence (AI) and machine learning will play a role in protecting the United States from malicious cyber actors. NSA’s Jason Wang, technical director for the Computer and Analytic Sciences Research Group,"
-    publishedDateTime: 2021-07-26T22:56:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/artificial-intelligence-next-frontier-is-cybersecurity/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2018/09/digitization-3614386_1920.jpg"
-        width: 1920
-        height: 1078
-        isCached: true
   - title: "As Facial Recognition Technology Surges, Organizations Face Privacy and Cybersecurity Concerns, and Fraud"
     excerpt: "Facial recognition technology has become increasingly popular in recent years in the employment and consumer space (e.g. employee access, passport check-in systems, payments on smartphones), and in pa"
     publishedDateTime: 2021-07-28T15:33:00Z

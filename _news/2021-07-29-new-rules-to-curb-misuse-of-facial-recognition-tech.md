@@ -39,33 +39,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "Analytics Insight Announces ‘Top Robotics Companies at the Forefront of Innovation’ in 2021"
-    excerpt: "Analytics Insight has announced ‘Top Robotics Companies at the Forefront of Innovation in 2021’ in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
-    publishedDateTime: 2021-07-26T14:11:00Z
-    webUrl: "https://www.financialbuzz.com/analytics-insight-announces-top-robotics-companies-at-the-forefront-of-innovation-in-2021/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 24
-  - title: "Spatial Vision in Humans and Robots"
-    excerpt: "This collection will be of interest to biological researchers investigating how the brain solves spatial problems, as well as to researchers in robotics and computer vision systems."
-    publishedDateTime: 2021-07-26T19:11:00Z
-    webUrl: "https://www.cambridge.org/mc/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 4
-  - title: "Kiromic Announces the Acquisition of InSilico Solutions Leveraging on Bioinformatics and Artificial Intelligence to Advance Clinical Development on Its Outpatient Allogeneic ..."
-    excerpt: "Kiromic announces the acquisition of InSilico Solutions leveraging on Bioinformatics and Artificial Intelligence to advance clinical development"
-    publishedDateTime: 2021-07-26T22:55:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210726005822/en/Kiromic-Announces-the-Acquisition-of-InSilico-Solutions-Leveraging-on-Bioinformatics-and-Artificial-Intelligence-to-Advance-Clinical-Development-on-Its-Outpatient-Allogeneic-CAR-T-for-Solid-Tumors"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "u5FwWcCVSvUaAhODm24vNDZhHPkkGBog3m+9/wQa2v+AFFpPmtsof/1G+6MupGtfVqJ3cErWLerYD3MZQ8gw0KRKG4cyBknkYCQSS/zpaFBveb++tu4DkIkB1lV8iO4W1xAm/zjRRWRBU2Y79cxjuBSrZmyaWZ4z2ou3HY4fuKcFY/2zf/3AJ9zZSQWIZvA+u+cB4K/y8GfGV56vPimedyzzGJdvmnDI8CrG6G9O2+Raba9TKILM+0cQxz9gyIbTcopWjs7LGSeVRRlhu4oZt2KjkUYIq1eK2yi9xRnAqi+DURmLgWw0xKV1g/aQbRnEX22uJdr4zuquH84EHruMbDsEBeW9bQq8TjLOEMEyibR0xcMkIP701lUIV1fhD3sr0gcKkdooBgdfyttQSM4kMKt0pUxEee6ZWZ7u99cinBx4XggMz4uPv+clTerwGJaEb2kaUXzi3egY7ArGvtW7QtkBkTXHxrwAqrF9gv8jlkCqP+VM/uIxpgPpgdy457q5mmKkAFOoYM5vbhSHhw5/cA==;KurFIdzIRmk5jf/dgoB4Ng=="
 ---

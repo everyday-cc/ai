@@ -9,7 +9,7 @@ ampWebUrl: "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-th
 cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/amp/"
 type: article
 quality: 70
-heat: 81
+heat: 82
 published: true
 
 provider:

@@ -8,6 +8,9 @@ webUrl: "https://www.gizchina.com/2021/07/30/top-5-flagship-smartphones-in-terms
 ampWebUrl: "https://www.gizchina.com/2021/07/30/top-5-flagship-smartphones-in-terms-of-ai-algorithm/amp/"
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/30/top-5-flagship-smartphones-in-terms-of-ai-algorithm/amp/"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: GizChina

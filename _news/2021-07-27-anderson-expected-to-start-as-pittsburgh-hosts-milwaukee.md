@@ -7,7 +7,7 @@ originalUrl: "https://lacrossetribune.com/sports/baseball/anderson-expected-to-s
 webUrl: "https://lacrossetribune.com/sports/baseball/anderson-expected-to-start-as-pittsburgh-hosts-milwaukee/article_2dc59463-44fd-56f4-a571-1087e22cdfca.html"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pittsburgh’s expertise in self-driving tech attracts Waymo"
-    excerpt: "Waymo, one of the industry’s leaders in self-driving tech, is opening an office in Pittsburgh at Bakery Square."
-    publishedDateTime: 2021-07-26T18:27:00Z
-    webUrl: "https://nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/"
-    ampWebUrl: "https://nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/amp/"
-    cdnAmpWebUrl: "https://nextpittsburgh-com.cdn.ampproject.org/c/s/nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/amp/"
-    type: article
-    provider:
-      name: NEXTpittsburgh
-      domain: nextpittsburgh.com
-    quality: 59
-    images:
-      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2021/07/23162123/Screen-Shot-2021-07-23-at-4.20.21-PM-e1627071756650.png"
-        width: 750
-        height: 503
-        isCached: true
   - title: "Kuhl scheduled to start as Pittsburgh hosts Milwaukee"
     excerpt: "277 batting average, 2.15 ERA, outscored opponents by 32 runs INJURIES: Pirates: Jose Soriano: (elbow), Sam Howard: (oblique), Chase De Jong: (knee), Blake Cederlind: (elbow), Trevor Cahill: (calf), Steven Brault: (lat), Ka'ai Tom: (back), Colin Moran ..."
     publishedDateTime: 2021-07-29T07:58:00Z

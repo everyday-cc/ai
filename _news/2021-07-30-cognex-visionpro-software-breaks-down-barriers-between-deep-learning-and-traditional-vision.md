@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-30T00:00:00Z
 originalUrl: "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision"
 webUrl: "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Automation

@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-31T15:53:00Z
 originalUrl: "https://www.bukedde.co.ug/education/110585/is-artificial-intelligence-taking-manufacturi"
 webUrl: "https://www.bukedde.co.ug/education/110585/is-artificial-intelligence-taking-manufacturi"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Bukedde

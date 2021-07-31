@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision in Artificial Intelligence (AI) Market to Witness Excellent Revenue Growth Owing to Rapid Increase in Demand"
+    excerpt: "A Latest intelligence report published by AMA Research with title \"Computer Vision in Artificial Intelligence (AI)"
+    publishedDateTime: 2021-07-30T21:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-to-witness-excellent-revenue-growth-owing-to-rapid-increase-in-demand-2021-07-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "North America Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 41.24% through 2027"
     excerpt: "Jul 29, 2021 (Market Insight Reports) -- Selbyville, Delaware. North America Artificial Intelligence in the Healthcare Market report provides key statistics on the market status of the North America Artificial Intelligence in the Healthcare Industry and is ..."
     publishedDateTime: 2021-07-29T08:01:00Z
@@ -110,6 +124,17 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 33
+  - title: "Computer Vision System Market Size, Industry & Landscape Outlook, Revenue Growth Analysis to 2028"
+    excerpt: "The Global Computer Vision System market is forecast to reach USD 25.69 Billion by 2028, according to a new report by Reports and Data. The Computer Vision System market is witnessing continuous growth in the recent year that has been primarily driven by significant advancements in the information and communication technology sector."
+    publishedDateTime: 2021-07-31T10:57:00Z
+    webUrl: "https://www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 26
   - title: "Global Artificial Intelligence (AI) In Supply Chain Market anticipated to witness remarkable growth statistics during 2020-2026"
     excerpt: "In Supply Chain Market anticipated to witness remarkable growth statistics during 2020-2026” A fundamental outline of the Artificial Intelligence (AI) In Supply Chain Market niche is presented by the Artificial Intelligence (AI) In Supply Chain Market report that entails definitions,"
     publishedDateTime: 2021-07-28T10:35:00Z

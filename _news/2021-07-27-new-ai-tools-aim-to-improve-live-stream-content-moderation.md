@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 783
         isCached: true
-  - title: "AR overtakes AI to become most disruptive emerging technology"
-    excerpt: "(AR) has replaced artificial intelligence (AI) as the most disruptive emerging technology, according to a survey by GlobalData, a leading data and analytics company. GlobalData’s latest report, ‘ Emerging Technology Sentiment Analysis Q2 2021 ’,"
-    publishedDateTime: 2021-07-26T13:54:00Z
-    webUrl: "https://www.techdigest.tv/2021/07/ar-overtakes-ai-to-become-most-disruptive-emerging-technology.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 37
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2021/07/210510_augmented-reality-1-1024x683-1.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "sKkKrbMpD5pFhnjL/BCfaRrYLcS8OlaE4PMKWf+b5EAuFIa75UYCSV7asdkhvRGgqId96mVl3Nq+LeuXYhNaMHX3ugrE7p5mKv2tNEZZW8o/a4R4S0iFkCZe8MXOeAEkqtgBh5s/tMIz7+zjL+b3kyuv142SOK0tJQMUC/TFaqbIv7zuQqvEVFjDBO8N4VVkJD6PdwvRn30TWsn7PcJUcTBQaBJ5Nh91vnFUp0iAPxbbzsVYZpNijZ15Xb1puQAv+H7MTKjQ0rdcIw8c0bI4sWtQbGqof2LR2JKotTxXzJeQk1P2+qaJB9u9CzMuotdKOI7w1ZM7ucm8GE+lMwT0zYQtv1+er0xd8yWpKUm6m1zcow0nniKdXfV797PwguOFhmTHbxva/zQs0P2NjDeFyA8lZhZCB7nNgo+G4+DapHFkOS9zCL+yrZKnJqH5Pprgsm9urFSPxqjSXxLSREzh5KlqMyCXBIL3qzwTnJ5bLyT5xASWjVE0SFtTuc6PtaKqjl9vlqZdUkf7G/NsB8gNGA==;XXb8AuRTuyAarI9SSIVwTQ=="
 ---

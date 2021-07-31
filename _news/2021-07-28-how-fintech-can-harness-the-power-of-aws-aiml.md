@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 36
-  - title: "Reasons to invest in fintech"
-    excerpt: "Fintech (financial technology) is a relatively new industry sector that has grown enormously in recent years but still has a huge amount of potential. Encompassing a full range of financial services from payment processing to banking and peer-to-peer (P2P) lending,"
-    publishedDateTime: 2021-07-26T13:24:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_buzz/reasons-to-invest-in-fintech/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 24
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/image1-1.jpg"
-        width: 1379
-        height: 920
-        isCached: true
   - title: "Canada’s Fintech industry paying off for business events"
     excerpt: "There’s something about Canada that inspires images of size and grandeur; whether it’s the expanses of beautiful lakes, the vista of stunning mountain ranges, or the jaw-dropping emptiness of its national parks."
     publishedDateTime: 2021-07-27T08:27:00Z

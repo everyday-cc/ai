@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-07-27/can-ai-help-tac
 webUrl: "https://www.bloomberg.com/news/articles/2021-07-27/can-ai-help-tackle-climate-change"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 847
         height: 635
         isCached: true
+  - title: "Artificial intelligence could dramatically speed up climate action"
+    excerpt: "Technological solutions to climate change can be put into two categories. Vertical solutions that tackle pollution in one sector, say low-carbon fertilizers that help reduce emissions in agriculture."
+    publishedDateTime: 2021-07-31T16:00:00Z
+    webUrl: "https://businessmirror.com.ph/2021/08/01/artificial-intelligence-could-dramatically-speed-up-climate-action/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 19
 
 secured: "60d0o70rtRpKgWM5aic6aoBZxp69wRoAS7igVD/8wfbMUaRQqp2HTSoKtfT3eO5lf1XOb7Aw3VFNUFDmFAeDgI7Q47zSg2fX7llTjezncaHQT+XhWk2kp8YK2O48fOlT57LUvPCLGFWj7UaeHWLGNRvsPsKKPEAQLOTEE3eDh/zkGb/3mvPHalejUThjvxapeXtmn3jwa5I26+x5QyP4RnOOzvBNk9wRyu1mlhtVC3PC0nBRpZ3GP+0TPO5WrOVbD4o4ZlvFChP3p+Two+Zinz2YYmnuKe4+cjdwPBE93RSAbzytMU/Dlq+JNRfJjiwjkV8xVWIA72bsZ7lunEaUVY7epF2RhjK/ukSDyjcLi93DIQLR+Bz2EcIOuJGUCTIizKWAFxQ9Ts3j7dkL53/LXugJcArU+BkO4e5qu6WnylbW9yLI8tEmq/0ensuCNGfejIFfeGCVJ/ofpg369FIN90zhzEwUVjzGgE8cvcw2U1Di/gI6pfYRUI36KnzgOuHo+3sBU7hofumvq/GGaHIPYQ==;IokZZbnQpbcDriNiqwlVIQ=="
 ---

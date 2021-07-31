@@ -5,6 +5,8 @@ excerpt: "its new robotics software and artificial intelligence project, under t
 publishedDateTime: 2021-07-23T13:58:00Z
 originalUrl: "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212"
 webUrl: "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL4N2OZ212"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL4N2OZ212"
 type: article
 
 provider:
@@ -20,6 +22,12 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "Je11SGJGsA0WTChBWPOR7JLhyOiTUwBsnruiXiRUyoCoYuZ1M1AHCY2dun1k+vzNakDoxBZV9LvvaQXjUKk20jwuhMq8V4Oyh5qhBmVDs2E2Yc/rhPEoS5Ga9US+JmJyn3VLCjPaw/X5+Mm675IZfGEr3NazfqwLJ8V++6FKV6eQA6RtOcNN6lpNRTreW/WQf8JYbKun9G6air2LkVN34vN1Xkq0K1Zudcp5f2pNcxn4a25pp0CCRg0x1PJZUshmgve+/OodP1bzS6EIboyYzWT2RvrfhHnhl+hZygn8zPYlZDKmQ8oOIQTZtiXlvkvA2yiZn6HqZ8hl3j+2T301BN18WnElgDlDTsNKpkg9pe4=;F32feg7dnHVGmYWFtvMZaQ=="
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ"
+    width: 817
+    height: 545
+    isCached: true
+
+secured: "G/rSKBlpDYw207b15dPGgHeHl4/eI7yAKnYJ9tD8V1UGMNHB0bnsRDLEzu/imODTZPhV6JSpJCxJyUiuK+AjGoI3mXu1vnFVyyum6nZTwEQZ4zAvF7B7QsWcgHAEHd9YdckEP+7Avn8vYosoDjhlqtc82VU0XNZ/NAgs064m4WIZCcUWZtbvOamDswmIXylrdGiAPaD2pyy+mNQfzlpQc/E7BPv6LivvF2hIPhYpiZ2DldlOmq1nFS1VPx3dyqrkpu6y1LkynioLFnBnr88tCnKM+krrfK6yUf2M1Ch7HqQbjJg9IU1inbl0HIe9wsAz6rkNLcqYgVdzm/d5qgVuA8wiRtFJ5ctaPgreM1+eMpc=;ENF818eK3i9uRIh0dtK6rA=="
 ---
 

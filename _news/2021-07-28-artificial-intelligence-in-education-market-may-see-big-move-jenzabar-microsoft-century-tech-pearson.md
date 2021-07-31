@@ -59,20 +59,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "Pearson transforms language learning with Microsoft Azure AI"
-    excerpt: "Education publishing firm Pearson is transforming language learning with Microsoft Azure AI, helping students via interactive instructions, reducing tutoring costs for parents and enabling digital learning during the Covid-19 pandemic."
-    publishedDateTime: 2021-07-26T13:53:00Z
-    webUrl: "https://www.technologyrecord.com/Article/pearson-transforms-language-learning-with-microsoft-azure-ai-125061"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 69
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10428/img-Unsplash_Jerry-Wang_education_school_student_web.jpg"
-        width: 940
-        height: 443
-        isCached: true
   - title: "Design for responsible AI with Microsoft’s HAX"
     excerpt: "At the heart of HAX is a set of guidelines built from 18 best practices that you can use to guide interactions between users and your systems. They’re presente"
     publishedDateTime: 2021-07-28T10:00:00Z
@@ -168,15 +154,15 @@ related:
         width: 640
         height: 400
         isCached: true
-  - title: "Cloud AI Market 2021-2027 is Outperforming | Evolving Players – Amazon Web Services, Microsoft, Google LLC, IBM, Intel, Nvidia"
-    excerpt: "The Cloud AI Market was valued at USD XX billion in 2020 and is expected to reach USD 13.1 billion by 2027, registering a CAGR of 20.3%, during the period of 2021-2027. At present, the market is sharping its presence and some of the key players in the study are Amazon Web Services Inc."
-    publishedDateTime: 2021-07-26T13:20:00Z
-    webUrl: "https://manometcurrent.com/cloud-ai-market-2021-2027-is-outperforming-evolving-players-amazon-web-services-microsoft-google-llc-ibm-intel-nvidia/"
+  - title: "How Microsoft’s AI For Accessibility Is Addressing The Issue Of Data Desert"
+    excerpt: "AI-based technology has been very generalised and hence very exclusionary in catering to persons with disabilities."
+    publishedDateTime: 2021-07-31T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-microsofts-ai-for-accessibility-is-addressing-the-issue-of-data-desert/"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 23
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 32
   - title: "Artificial Intelligence (AI) in Drug Discovery Market 2021 Profitable Segments Breakdown | Microsoft, NVIDIA Corporation, IBM, Atomwise"
     excerpt: "Latest added Artificial Intelligence (AI) in Drug Discovery Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
     publishedDateTime: 2021-07-28T13:42:00Z
@@ -195,15 +181,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 15
-  - title: "Text-To Speech Market 2021 Long-term Outlook Remains Positive | Microsoft Corporation, IBM Corporation, Google, Sensory"
-    excerpt: "The Text-To Speech Market was valued at USD XX billion in 2020 and is estimated to reach USD 5.0 billion by 2027, registering a CAGR of 14.6% during the forecast period. Latest added Text-To Speech Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
-    publishedDateTime: 2021-07-26T16:50:00Z
-    webUrl: "https://manometcurrent.com/text-to-speech-market-2021-long-term-outlook-remains-positive-microsoft-corporation-ibm-corporation-google-sensory/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 12
 
 secured: "rjjxw+UUwda5MHK0A/qbnYvzhvmkg44pNSqFKk7SuzZxLla2wQ6tqXeIrJzWbpy7g50OBckjmSPL4NLwdaJ6uAyI9IH5GKsbmBtkD5MwuSvtQBARntSoTwsHNIRHf8j7C9Lb5S1WFa3vi54pSdUrA/fvprqb8H4E539zT+e8WxSi2IHPOfD2AkBBYzi5C/GuL9R2ETts7Af+zOQlKNpBI8dmlhSjC/Io2ExwUsFI3AEg/TdGjxnaeOzy2nJltCmdVG/0323XZIqzAPeYfUhYUavZU9c/bFxUBNvDKLSaV4A3OREDS/1Q+/TkhmYaLiIt4nWoznGlV/ukt1SlEIN7qf+zLJPqLjt+pA1kIUMuEDw=;fl7zF6/1l/5W45nCWEPHfw=="
 ---

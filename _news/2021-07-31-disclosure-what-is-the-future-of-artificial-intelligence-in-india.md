@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-31T09:30:00Z
 originalUrl: "https://www.analyticsinsight.net/disclosure-what-is-the-future-of-artificial-intelligence-in-india/"
 webUrl: "https://www.analyticsinsight.net/disclosure-what-is-the-future-of-artificial-intelligence-in-india/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Analytics Insight

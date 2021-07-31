@@ -164,22 +164,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Artificial Intelligence in Military Market Next Big Thing : Major Giants Boeing, BAE Systems, IBM"
-    excerpt: "The latest independent research document on Global Artificial Intelligence in Military examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Artificial Intelligence"
-    publishedDateTime: 2021-07-27T01:02:00Z
-    webUrl: "https://www.openpr.com/news/2337641/artificial-intelligence-in-military-market-next-big-thing"
-    ampWebUrl: "https://www.openpr.com/amp/2337641/artificial-intelligence-in-military-market-next-big-thing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337641/artificial-intelligence-in-military-market-next-big-thing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/7/U727666550_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Global Artificial Intelligence in Livestock Farming Market"
     excerpt: "According to a new market research report published by Global Market Estimates, the Global Artificial Intelligence"
     publishedDateTime: 2021-07-30T14:30:00Z
@@ -202,15 +186,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 21
-  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim Finds Frost & Sullivan"
-    excerpt: "Frost & Sullivan’s recent analysis, Global Medical Imaging & Informatics Outlook, 2021, finds that the market opportunity is estimated to hit $37.10 billion in 2021 from $33.90"
-    publishedDateTime: 2021-07-26T16:25:00Z
-    webUrl: "https://www.newswiretoday.com/news/175880/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
 
 secured: "1xkoAnvc+S3iL5H6qT2uY9y7kHHBN1z38BgMoSln3P77uIpTKA6HiV4V9vuKewvbH3dwcMuc9pam9pKlBQVfvhM03ogXeI8+FoyNJtNG/MHEogz5FRtsmjfUZRNSrL0dD4f4zxfLU/G9MzuqCi1tR3LBtcRPELvJ/jUKp+IrBQJWIl31IWIlY4oW9sqt4bd/OI4O5Ptg5vtgTsX+iNK4LaEeKJ1zypevz/vmoiypIjHFNATXd3PUGtFa6E2Tnb557Xx+g6uGtPTWpbvWWH38uk6cPVK60UHlCgcAM0/wVj/cXOOdVgX8uoWmjvbzDau2KQNH+sSnun1rAKfz0LqMwZr0MaE3PNePO9GkU664fnZqirnTJyRxY0MiyuCT74gPxWSq2sndB55TDB7z/IoeZCgeHoqszr5ft9VTgyaT5gd5czsLLzkC7M7PZNuYJQscrlWd7q7q6KxzwFqmOH/r9A0lnF2QwQ6mowCvR91/Zh0MT0SI+EyPGtWzGCJ+3w61yxcAuy6wXfv71GLwxu8IoQ==;5L1S4WUfh39GS+gCQzd8dA=="
 ---

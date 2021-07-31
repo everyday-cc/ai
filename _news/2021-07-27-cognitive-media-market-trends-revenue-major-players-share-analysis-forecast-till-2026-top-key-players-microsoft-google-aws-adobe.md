@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-media-market-trend
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-media-market-trends-revenue-major-players-share-analysis-forecast-till-2026-top-key-players-microsoft-google-aws-adobe-etc/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Facial Recognition Market Size 2021 CAGR Value, Analysis by Size, Share, Major Key Players, Growth, Future Trends with Covid-19 Impact till 2024"
-    excerpt: "Our analyst has been monitoring the facial recognition market and it is poised to grow by USD 3.35 bn during 2020-2024 progressing at a CAGR of 12% during the forecast period. Our reports on facial recognition market provides a holistic analysis,"
-    publishedDateTime: 2021-07-30T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2021-cagr-value-analysis-by-size-share-major-key-players-growth-future-trends-with-covid-19-impact-till-2024-2021-07-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive voice recognition system Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Automotive voice recognition system market is expected to grow at a significant CAGR in the period from 2021 to 2027 The expanding trend of driverless vehicles OEM integration of many electronics functions in the central console of the car"
     publishedDateTime: 2021-07-28T13:04:00Z

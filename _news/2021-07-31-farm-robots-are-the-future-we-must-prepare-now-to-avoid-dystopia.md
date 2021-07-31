@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-31T11:45:00Z
 originalUrl: "https://scitechdaily.com/farm-robots-are-the-future-we-must-prepare-now-to-avoid-dystopia/"
 webUrl: "https://scitechdaily.com/farm-robots-are-the-future-we-must-prepare-now-to-avoid-dystopia/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: SciTech Daily

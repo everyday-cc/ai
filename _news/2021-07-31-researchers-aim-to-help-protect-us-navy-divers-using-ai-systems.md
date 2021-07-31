@@ -8,6 +8,9 @@ webUrl: "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-diver
 ampWebUrl: "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/"
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: SlashGear

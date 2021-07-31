@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-infrastructure-market
 webUrl: "https://www.marketwatch.com/press-release/ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273-2021-07-27"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: MarketWatch
@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Computer Vision Market worth $51.3 billion by 2026, at a CAGR of 26.3%"
-    excerpt: "The report \" AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial), End-Use Industry (Security & Surveillance, Consumer Electronics) and Geography - Global Forecast to 2026\","
-    publishedDateTime: 2021-07-26T22:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-513-billion-by-2026-at-a-cagr-of-263-2021-07-26"
+  - title: "Facial Recognition Market Size 2021 CAGR Value, Analysis by Size, Share, Major Key Players, Growth, Future Trends with Covid-19 Impact till 2024"
+    excerpt: "Our analyst has been monitoring the facial recognition market and it is poised to grow by USD 3.35 bn during 2020-2024 progressing at a CAGR of 12% during the forecast period. Our reports on facial recognition market provides a holistic analysis,"
+    publishedDateTime: 2021-07-30T08:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2021-cagr-value-analysis-by-size-share-major-key-players-growth-future-trends-with-covid-19-impact-till-2024-2021-07-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 81
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

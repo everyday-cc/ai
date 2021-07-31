@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pittsburgh’s expertise in self-driving tech attracts Waymo"
-    excerpt: "Waymo, one of the industry’s leaders in self-driving tech, is opening an office in Pittsburgh at Bakery Square."
-    publishedDateTime: 2021-07-26T18:27:00Z
-    webUrl: "https://nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/"
-    ampWebUrl: "https://nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/amp/"
-    cdnAmpWebUrl: "https://nextpittsburgh-com.cdn.ampproject.org/c/s/nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/amp/"
-    type: article
-    provider:
-      name: NEXTpittsburgh
-      domain: nextpittsburgh.com
-    quality: 59
-    images:
-      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2021/07/23162123/Screen-Shot-2021-07-23-at-4.20.21-PM-e1627071756650.png"
-        width: 750
-        height: 503
-        isCached: true
   - title: "Anderson expected to start as Pittsburgh hosts Milwaukee"
     excerpt: "(lat strain), Ka'ai Tom: (back), Colin Moran: (wrist), Erik Gonzalez: (side). Brewers: Devin Williams: (elbow), Justin Topa: (elbow), Dylan File: (elbow), Lorenzo Cain: (hamstring), Daniel ..."
     publishedDateTime: 2021-07-27T07:58:00Z

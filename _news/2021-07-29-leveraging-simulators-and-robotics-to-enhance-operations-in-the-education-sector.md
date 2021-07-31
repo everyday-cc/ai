@@ -7,7 +7,7 @@ originalUrl: "https://www.mobilitytechzone.com/topics/4g-wirelessevolution/artic
 webUrl: "https://www.mobilitytechzone.com/topics/4g-wirelessevolution/articles/2021/07/28/449577-leveraging-simulators-robotics-enhance-operations-the-education-sector.htm"
 type: article
 quality: 66
-heat: 106
+heat: 76
 published: true
 
 provider:
@@ -40,33 +40,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Analytics Insight Announces ‘Top Robotics Companies at the Forefront of Innovation’ in 2021"
-    excerpt: "Analytics Insight has announced ‘Top Robotics Companies at the Forefront of Innovation in 2021’ in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education."
-    publishedDateTime: 2021-07-26T14:11:00Z
-    webUrl: "https://www.financialbuzz.com/analytics-insight-announces-top-robotics-companies-at-the-forefront-of-innovation-in-2021/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 24
-  - title: "Spatial Vision in Humans and Robots"
-    excerpt: "This collection will be of interest to biological researchers investigating how the brain solves spatial problems, as well as to researchers in robotics and computer vision systems."
-    publishedDateTime: 2021-07-26T19:11:00Z
-    webUrl: "https://www.cambridge.org/mc/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 4
-  - title: "Kiromic Announces the Acquisition of InSilico Solutions Leveraging on Bioinformatics and Artificial Intelligence to Advance Clinical Development on Its Outpatient Allogeneic ..."
-    excerpt: "Kiromic announces the acquisition of InSilico Solutions leveraging on Bioinformatics and Artificial Intelligence to advance clinical development"
-    publishedDateTime: 2021-07-26T22:55:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210726005822/en/Kiromic-Announces-the-Acquisition-of-InSilico-Solutions-Leveraging-on-Bioinformatics-and-Artificial-Intelligence-to-Advance-Clinical-Development-on-Its-Outpatient-Allogeneic-CAR-T-for-Solid-Tumors"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "B16BbaAIIKu/s034Da6HLqyiLYaRDNYEpdkPFan8+7Wqgj3H0KkgUDptgN0iLAycMG6dZJ4Z12f+eMPnakle4HCAl8RX69YrK1qeIoU8TUxETXPRb3Ibi2DOSbOf9pnOqerG8k2CytaG4dv3LFxOkxlczqkJxCUOfgkZMEMmmUe5+wEqlgLHILR6EosFQPkgMoQO1cJRuDCK/gjiHfqYv88yGDj4N0DlqHy4KHo8GbMSIe+4VJBJxk/3YlTY2aO41vh0W8baTECxElizB1t3LFpS8iy0Bam6Sh2rG2vU5rucPaiPHAuTwu+g9BfY2Rfeaxd2IuBQ8ZDDuNzAqBeZ+l4zFiImZ+mX8SJ4OZi6r8yItHUnp3PQqOubKgOzVMM4y1hDOfxvpB+65v57SYEfpaAvzViaM+sAWSAG+MR+14jPve0jvRvTVEPqnD3jBGLnnEj7xONfItWPu6LgQUWfF92JGUQz3FqS/uCouXR8AigG1ZlAWaniCImIEP4Lu+NEuECLynw5IChrpi0/D6CSJg==;v8bFjCMt2hB3gRdfEz3Ktg=="
 ---

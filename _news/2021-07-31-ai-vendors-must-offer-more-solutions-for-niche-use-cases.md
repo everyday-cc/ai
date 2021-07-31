@@ -8,6 +8,9 @@ webUrl: "https://venturebeat.com/2021/07/31/ai-vendors-must-offer-more-solutions
 ampWebUrl: "https://venturebeat.com/2021/07/31/ai-vendors-must-offer-more-solutions-for-niche-use-cases/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/31/ai-vendors-must-offer-more-solutions-for-niche-use-cases/amp/"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: VentureBeat
@@ -26,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "+6B5SqM0cJBqQEWzyeeVA2xvyQbWQcxjHTODRxSux4eu6nNZlwR1u3KDmqZc1m7Cx1SJQpwp4BipplUjOtZrxrud0b2rM0Tv4iqOLiDFLCrpskZ71jH9aIyWPsGDRJf79xFQ9aSMNsLpOXYW7yqEu9MojyMQRtbX51LNzH+dUENPZVl/mnMXSWQztGdjDxDpHyoZn0WwHARsuKtjEMIGjs72gIL0wb8QICYTo+RDNBYWWxe3dyGZHOzGhkSZke8O6PG1pclW+oTaPSEhkc5kR8p6omyoPBj0/IPS+yFqEy7AGRhPDPF/V2YiMMwvq5Rht0QQ4E7Bg2P4tMurPCw53RtdfZb2joiEP1fz1AbZYy0=;KHfbYfo1/pmttP92qOB9vg=="
+secured: "U1sOGh6A3QdOrrHQtvFzvOMF58ixbEoERp9RGFoTnbMfq9mAUIyqIIB15A9W2e0XsYAZcDzLPFBBSs0xpHS1jFpExTcf5wSsmpTZxKqYaliYaBpaalSww3UD9NoxTWhLoaeyXv+z6Ux4r09svBJzlZTfCyfDUfvtX0NIhycAfIptLlFrnWVtd11LEUd9hrUSZoZdnTPP1+lrv+oZTBpq+ebqPS8u3KLH4HnjlkpcwGqBYpjqX/ytQACOwakfCcpsaw5PyQUAsHCQaDXqyu4JoJ16e8DQfQm2VwDQtRF6T5KT+H778bFQihs+nAIOARh1UdYGwKEsvdxH9T8s4IFt/GqMvC8HI/NDie2RW7gG08Kw0xphiGuqfouo52ZQ7a2pBX1mNQ0eHankhL9blVwHEZpZOlsZjTY9/pHn3mzQC097iNc9enUKsJJpdM/k4oaqjlHxQM4xa7YpP9P3u/Rwh7IRxx0o5k1nnbxWqMG9z3XoCSJmtbct9VkaR8O7m9PHczk2Gbr6lVMdkxEyl0DMfg==;k9110e7aJ9C+dCdenyFRpA=="
 ---
 

@@ -50,20 +50,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 36
-  - title: "Reasons to invest in fintech"
-    excerpt: "Fintech (financial technology) is a relatively new industry sector that has grown enormously in recent years but still has a huge amount of potential. Encompassing a full range of financial services from payment processing to banking and peer-to-peer (P2P) lending,"
-    publishedDateTime: 2021-07-26T13:24:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_buzz/reasons-to-invest-in-fintech/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 24
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/image1-1.jpg"
-        width: 1379
-        height: 920
-        isCached: true
   - title: "Fintech trade group taps chief executive"
     excerpt: "The Financial Technology Association has tapped Penny Lee to become the newly formed lobbying group’s first chief executive. Lee most recently led the public affairs practice group at Invariant, and before that worked for the tech incubator 1776,"
     publishedDateTime: 2021-07-27T21:50:00Z

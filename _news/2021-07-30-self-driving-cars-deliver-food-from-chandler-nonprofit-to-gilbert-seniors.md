@@ -41,22 +41,6 @@ related:
         width: 1500
         height: 990
         isCached: true
-  - title: "Who's at Fault When Self-Driving Cars Kill People?"
-    excerpt: "As more autonomous vehicles hit the road and inevitably cause crashes, courts will have to contend with a complex web of responsibility when ruling on wrongful death cases."
-    publishedDateTime: 2021-07-26T16:00:00Z
-    webUrl: "https://www.planetizen.com/news/2021/07/114119-whos-fault-when-self-driving-cars-kill-people"
-    ampWebUrl: "https://www.planetizen.com/news/2021/07/114119-whos-fault-when-self-driving-cars-kill-people?amp"
-    cdnAmpWebUrl: "https://www-planetizen-com.cdn.ampproject.org/c/s/www.planetizen.com/news/2021/07/114119-whos-fault-when-self-driving-cars-kill-people?amp"
-    type: article
-    provider:
-      name: PLANetizen
-      domain: planetizen.com
-    quality: 44
-    images:
-      - url: "https://www.planetizen.com/files/images/Self_driving_Uber_prototype_in_San_Francisco.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Self-Driving Cars Market is Set to Fly High in Years to Come"
     excerpt: "Latest published market study on Global Self Driving Cars Market provides an overview of the current market dynamics in the Self Driving Cars space as well as what our survey respondents all outsourcing decision makers predict the market will look"
     publishedDateTime: 2021-07-30T13:49:00Z
@@ -101,48 +85,6 @@ related:
         width: 1199
         height: 807
         isCached: true
-  - title: "GM Sues Ford in Fight Over Branding of Self-Driving Cars"
-    excerpt: "General Motors Co. is suing its competitor Ford Motor Co. for violating a trademarked driver-assist technology that’s used for hands-free features, according to a lawsuit."
-    publishedDateTime: 2021-07-26T14:45:00Z
-    webUrl: "https://www.ttnews.com/articles/gm-sues-ford-fight-over-branding-self-driving-cars"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-bb-1200.jpg?itok=JdoLkruE"
-        width: 470
-        height: 246
-        isCached: true
-  - title: "Porsche imagines an interior for self-driving cars"
-    excerpt: "Comment Now! Porsche on Monday unveiled a previously-hidden concept for the interior of a self-driving car. That futuristic interior is housed not"
-    publishedDateTime: 2021-07-26T15:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1133010_porsche-imagines-an-interior-for-self-driving-cars"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/porsche-renndienst-study_100800578_h.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Lyft travels to the future with new self-driving cars coming to Austin"
-    excerpt: "The Lyft ride-hailing service is traveling into a new era in Austin. Starting next year, Lyft customers in certain parts of Austin will be able to hire a self-driving car"
-    publishedDateTime: 2021-07-26T17:25:00Z
-    webUrl: "https://austin.culturemap.com/news/innovation/07-26-21-austin-passengers-soon-will-be-able-to-get-a-lift-in-a-self-driving-car/"
-    type: article
-    provider:
-      name: Culture Map Dallas
-      domain: culturemap.com
-    quality: 24
-    images:
-      - url: "https://res.cloudinary.com/culturemap-com/image/upload/ar_7:4,c_fill,g_faces:center,w_980/v1627319208/photos/322516_original.jpg"
-        width: 980
-        height: 560
-        isCached: true
   - title: "Why self-driving trucks aren't putting drivers out of work yet"
     excerpt: "Big tech firms have been promising an autonomous trucking revolution for years now, but even with billions poured into the industry, manned trucks still rule. Here's when, and how, that could change."
     publishedDateTime: 2021-07-28T20:07:00Z
@@ -185,6 +127,20 @@ related:
         width: 760
         height: 368
         isCached: true
+  - title: "Protecting self-driving cars from cosmic rays, size limits for wind farms"
+    excerpt: "Latest Explore all the latest news and information on Physics World; Research updates Keep track of the most exciting research breakthroughs and technology innov"
+    publishedDateTime: 2021-07-29T15:24:00Z
+    webUrl: "https://physicsworld.com/a/protecting-self-driving-cars-from-cosmic-rays-size-limits-for-wind-farms/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 23
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2021/07/Autonomous-vehicle-1168362632-iStock_metamorworks.jpg"
+        width: 1200
+        height: 662
+        isCached: true
   - title: "Xiaomi’s Self-Driving Division to Develop L4 Autonomous Driving Technologies"
     excerpt: "The self-driving division of Chinese handset maker Xiaomi will recruit 500 staffers to develop Level-4 autonomous driving technologies, founder Lei Jun said in his Weibo account today. The recruitment website for Beijing-based Xiaomi said the company is urgently seeking data center architects,"
     publishedDateTime: 2021-07-28T12:38:00Z
@@ -209,13 +165,13 @@ related:
       domain: forbes.com
     quality: 6
   - title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
-    excerpt: "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with ..."
-    publishedDateTime: 2021-07-29T01:45:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
+    excerpt: "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with improved AI/ML operations and internal components ..."
+    publishedDateTime: 2021-07-29T00:18:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/07/28/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 0
 
 secured: "th8kfi0YozAvaPCc9a1R4CoC6QMZQfdi3KIioiD+twu3pd1DlUOcc7rXZCipVRk9RYgseOo90LMzVpdnRyE9yn1kl952VtHN9Tr1DIII4QjIu5+4jeyM3Vd9QmE2gv2XumTc9XqvYuwZ5WbUzSWTxt+ijXihIYjERB84+TsBSwnlW6IfqPBB3uxVi88Lh6a4R/gZwFa2UlBVzHkWxre9p7HaqLZX9RxKBUhzYIoKA3NW3J14YSV8iYpkebDoLl3MT3EWhxXxWycNuQa6lL6drm7tB7B5inkCsmix0FHFMvrltAxHT1trI48r+yPgSDMMJGOtdngESilk/ATpSLummNzEDlD3cM8hXxXO9Xsh7XMBMOMjXIyGecPGzjxDXo2ZFASJVh7RqeBwrgVBVMp82Zb008Vz9nL/VS3rJ3JoKAqBHrpeY/4Qm30ITS6zglyISrsIr6iTSXRXVHxMpfmCBC2kNlE76juJg68T81vHiEd/ufVGnMWVGqXhjspUv9bUu6mkpNhn+6q0pzCFkNAxlg==;QApWpGx6y87m/BfHfOmaVA=="

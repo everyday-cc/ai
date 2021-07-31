@@ -174,22 +174,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Artificial Intelligence in Military Market Next Big Thing : Major Giants Boeing, BAE Systems, IBM"
-    excerpt: "The latest independent research document on Global Artificial Intelligence in Military examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Artificial Intelligence"
-    publishedDateTime: 2021-07-27T01:02:00Z
-    webUrl: "https://www.openpr.com/news/2337641/artificial-intelligence-in-military-market-next-big-thing"
-    ampWebUrl: "https://www.openpr.com/amp/2337641/artificial-intelligence-in-military-market-next-big-thing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337641/artificial-intelligence-in-military-market-next-big-thing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/7/U727666550_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Global Artificial Intelligence in Livestock Farming Market"
     excerpt: "According to a new market research report published by Global Market Estimates, the Global Artificial Intelligence"
     publishedDateTime: 2021-07-30T14:30:00Z
@@ -201,15 +185,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
-  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim Finds Frost & Sullivan"
-    excerpt: "Frost & Sullivan’s recent analysis, Global Medical Imaging & Informatics Outlook, 2021, finds that the market opportunity is estimated to hit $37.10 billion in 2021 from $33.90"
-    publishedDateTime: 2021-07-26T16:25:00Z
-    webUrl: "https://www.newswiretoday.com/news/175880/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
 
 secured: "7NFoK1My4SAl1tTDueGrbnCmY5D3+Lc4F0eU2uVc7A2igF2HyI6BRpMYSgcIwLZnRJYXMuKhVY+bQ81/jEDpLqEYOzQGjAD7jNWHG5ynJOio50mucT8U1wL/A5HFlko96KasRDJzBHDBS1Cwiggx96uByiKXQkm1W0R7IQp83h7LMgP32DSjgfWveGXylGNcm70bnVorIz7dumGXxrNOfV8NfoHFklIMKG1+pcUvcxNvtSpByav9/VJmgW/wi+SaeHr9/UcEXlV4fNy3vtRMtkZM+Dvp19eJfYDro0nTTv/aDcTYO2Q8rkmso4aGqQBHyURFPKW6wwtd15bclfz2wmG2Hvr8UC+98prVgUJvIoQ=;t+fjT14zwc1NlTJ7OO5dyg=="
 ---

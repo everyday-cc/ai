@@ -71,20 +71,6 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "Real-time text search technique wins patent for face images lacking tags"
-    excerpt: "Among the proposed applications for the technique, according to the company, are useful face search engines and programmatic advertising."
-    publishedDateTime: 2021-07-26T16:39:00Z
-    webUrl: "https://www.biometricupdate.com/202107/real-time-text-search-technique-wins-patent-for-face-images-lacking-tags"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 23
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
   - title: "Apple patent hints at under-display Touch ID and Face ID features on future iPhones"
     excerpt: "Under-display or in-screen solutions for parts like selfie cameras and fingerprint scanners are becoming more common these days. And a recently granted patent suggests Apple has plans to improve this technology that"
     publishedDateTime: 2021-07-29T09:51:00Z

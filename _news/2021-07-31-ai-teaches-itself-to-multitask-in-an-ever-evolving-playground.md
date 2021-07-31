@@ -8,6 +8,9 @@ webUrl: "https://interestingengineering.com/ai-teaches-itself-to-multitask-in-ev
 ampWebUrl: "https://amp.interestingengineering.com/ai-teaches-itself-to-multitask-in-ever-evolving-playground"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-teaches-itself-to-multitask-in-ever-evolving-playground"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: Interesting Engineering
@@ -22,6 +25,6 @@ images:
     height: 419
     isCached: true
 
-secured: "eG7IHRgVSSY+E2A9PbhLze3p+zidZMfyUDpYz6EtpZ6Y8hBTwmL74/ElhJ9PvcPVEOnT8hbwXXAR0ct6F2ATY9t/NomSiOe6SwXhnluDgCn8JSzoy/th/OPMshczGphK6DsbTO/4hkgzKulbhiGY60yH5jYRogc8AG2bGlDzZ4L7K3C/fTAqmsQu84nYCHNDRza+3NCe+yR6b5u5vKmDoOxf1yO7NxckUCva+Lc9GChNxvHYDJmH7DcnTg4KwszxtEmUO46WoGz5N4VZvnVdwHH7GvBZuyQ8EkLFUfxVVxz/dJCen03IEORtKVQRxfE08rOqtmKYuDDVmdk6doA120xKt53hkFrk5oXk4N8w7y0=;5VL3S5wSLhL7Hda/8EUDCA=="
+secured: "W/tICOyXRDZarobcEmOqtOzj5zBZTw+yUagNIzb7oT0p8TSsRw1yf70tOhY5jMXMKhI8oqk0YNZFtRN6RBtouD+pG1P1X+qS8SggEO6qC88+DbZO5MT/G+17AHG6oeEpljKkWRmojITQBo8o+egxiHX/BR5dZKIs5SdYcXeM5i0LVO3scWXJxqyc27YucX7+URaMaTUPvOBh6ui42cosjMdHEFBKhEATHF6dUCsRMHBv+3dUjQR5iBEBunbIYCt9Q3yQPFEKiN2bHApSOGXrIUerw+toorHSLCKIECTVxGlG047c4ggVsUIzYvbUjW1MRy2XU4ItY6lERlbDOI2lr86F2htTuefUvmP0VSWpEjEGeomoDbznCdtk3F6Mwm3IYzkHsGmfuztQ7tTDut7Wy97p37gLOgprSzGs1uT2aw3tVgBMLB7o0ay04QY9mLERVfvwXAYXsuZCTh97vT0NGlE2ouBURZLAFPgsW9rifv40jdBFiMbEUyuBHqNmjkWZezprYakR4BDxs34pyiU+/Q==;2yrjw9EhFfeijDUkxG9R+Q=="
 ---
 

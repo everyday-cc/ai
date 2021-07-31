@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-31T06:03:00Z
 originalUrl: "https://inews.co.uk/news/technology/uk-police-testing-retrospective-facial-recognition-identify-criminals-1128711"
 webUrl: "https://inews.co.uk/news/technology/uk-police-testing-retrospective-facial-recognition-identify-criminals-1128711"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: i

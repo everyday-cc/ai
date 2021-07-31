@@ -39,20 +39,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "How Coke Bottlers Save Millions with AI"
-    excerpt: "Retailers around the country rely on a network of nearly 70 independent Coca-Cola bottlers to manufacture and ship cases of liquid refreshments. It’s a"
-    publishedDateTime: 2021-07-26T20:06:00Z
-    webUrl: "https://www.datanami.com/2021/07/26/how-coke-bottlers-save-millions-with-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/coke_bottles_shutterstock_MAHATHIR-MOHD-YASIN.jpg"
-        width: 1000
-        height: 698
-        isCached: true
 
 secured: "LEa44vestpfFj5GsL/hT8ppF3uhsE9rLg3xCd+wDjG+XNzEktPgFxPMeCA7GeFTdyiH8ATItnyZEiMOTC7S7ez+x3JlL8RHdm5KOmsWXAf9NnMvY4sccY+sLDZJnw3ngW28ZjQdp98KjBnQHs2fcjzb3ak5fbnCBBXukzLMQn16PcgZTICWzyHP9FeoYhRBXBlF0kY5X0yO+cr9cvXjHvS5Lu+g7zumGx6m/+mIGp23grkNtXLucbgPO4OLh9h1LEhaqROJMCFHGL4HorPmiU4n9xy9ls3jxQ0AjAtHGgSRRJkemDw3IE6ICytStb33TWry2BrutySKbhKQ7OruOUOY3QsAnbsOlKeGMCcz/1yTjMYsgbpkTQ76syd9RoXfnE04VDvoSEuo/oq/mMVa4VRHa555pAgdAnn8lVZ8hifV38+3IfvO1z2H5uP68FrzI+43bXzE/OH7vx1V8LMJkX1mG+l9c/G9UK2tzjlKh7VU2hugDxgs5Z6rAJLPXCdKMeIruRuzlqBpqV8XllSMoMQ==;LGLkbp8hS4c/oP7x74vvZQ=="
 ---

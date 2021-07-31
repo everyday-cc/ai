@@ -35,12 +35,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1583655/Cansel_Cansel_Brings_TinySurveyor_Robot_to_Canada.jpg"
-        width: 400
-        height: 317
-        isCached: true
+    quality: 19
 
 secured: "+64RCVtxo7ynYReaOKLHadRLTtpgrB9/C75ZnfW99XkIcU5eieYj8vA+mVCcYHx+Xb/WmOOzWhAJEinh8FB0gt38FDsPDkdGQi6pNFpCPPf6yizXC7YUfuvESIVOwAhD2I5z8Rkd5abd8F3NIgUGQKf5zIbeCTm7Z8Tvz4FVt8rVSdos9Ps4FV8YC//xCgxyvQEfTp+1i7xlscgYzoBzW25DWeEvJ7ruIiM71c9tBKBbGBdj1DOcka76uKlAukxoDWFAe0MM9yc+2YtZtenvW+FXkJyk5TQ22iLaDOblroHtvl1Wf2R6+c93ohiegl7i7OKslfOtUxGS8ypOO2zpyOnAYoPpDY7ZIedZmhGibxw4xCRV7i0rNlLl+snyZIrDLCjJvs/yB5xEH5oz7X0O7agIkk8ndKhlyr4QlWRsSw0GKkPMsKibT//gd1Ds3eKNXdVacxjKxlrBfRiQzQKaDvdxKkKwd2wGFRQdTmUw90Mqak0HDvp7Gg/Sky5UCLzuxzk2BbEZ9yEA6sePn8quxw==;IEqqRpgV55rsvs+BYeCbww=="
 ---

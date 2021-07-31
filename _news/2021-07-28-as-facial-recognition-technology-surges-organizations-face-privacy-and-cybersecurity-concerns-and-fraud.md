@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence: Next Frontier Is Cybersecurity"
-    excerpt: "Artificial intelligence (AI) and machine learning will play a role in protecting the United States from malicious cyber actors. NSA’s Jason Wang, technical director for the Computer and Analytic Sciences Research Group,"
-    publishedDateTime: 2021-07-26T22:56:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/artificial-intelligence-next-frontier-is-cybersecurity/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2018/09/digitization-3614386_1920.jpg"
-        width: 1920
-        height: 1078
-        isCached: true
   - title: "New project uses empathy to teach students about cybersecurity and AI ethics"
     excerpt: "While empathy is important in almost every aspect of daily life, it is not always a priority in the development of technology, especially technology using artificial intelligence (AI). iSchool researchers are working to address this gap by using empathy to teach high school students about cybersecurity and AI ethics issues."
     publishedDateTime: 2021-07-29T00:00:00Z

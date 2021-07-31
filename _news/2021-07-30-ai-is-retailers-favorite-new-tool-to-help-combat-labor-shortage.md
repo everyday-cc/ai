@@ -8,6 +8,9 @@ webUrl: "https://www.pymnts.com/news/retail/2021/ai-tool-to-help-combat-labor-sh
 ampWebUrl: "https://www.pymnts.com/news/retail/2021/ai-tool-to-help-combat-labor-shortage/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/ai-tool-to-help-combat-labor-shortage/amp/"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: pymnts.com
@@ -22,6 +25,6 @@ images:
     height: 274
     isCached: true
 
-secured: "txEjnelDLZlLKWG5gOFnK1hN99ij2au5FwxK7sLHJtPzh0g/i0XclmkIF6jh4hgb9Ma7W6eBCFcgfdd+K6x122rnluiq0h2rID3cP0iKPoWMg2oZ0sw+uOwPJunb45s5umJA0D10LJnmhPnKSNx3xqqDg2sutzYg6MKG2qN2zANnmMvS1Pq/7h0Vk+KbzFWDxKd5WwKEpvRgCKxDPlYKiSAO6RR2O/nImva0VNAPtM47SAPkkFBr30zfW9adpMpA9AOBbpluU+0vU62D9ImjlnHk2LtT/CjZ34UCMiRfT7Rg3GB/WgyAdYyyIbt4/1DqoBhSqjd1hIfSku9C3gIXtTr2Dg2P1oCPdzZ2p1ww2UQ=;zhshg/a+LCifvSLP3v0zwQ=="
+secured: "9CYkOPTDC0/f/V2uMdrwq9jRc98wPdqdUFfPsAZSTRvTq/u6e7qSqp2LaxFPTc6urx8oYLFD7Sut+wGZCWE85PCG9xfQR6o2PBcc9wIp4ozaLQcee1gD76779iCd0bq7KqDCcb6KT9r7o+/D1iqd/afcuORBvTj8kHSZb7Yg92oobsOItNWVeiiCLcX9O0qS3wMnvBcix4XOOwfaAnsJ/Z189DNUJrrdoF10TtZvn1Ua+y3yTK39Tu3Y1QDSHg1t+h2EgxLNYKRVM1ykJxbn8t1aZKDHVBCCrb2JzI7O3r2C8dyS/ul3R/VIywNKurws0fjbXqcrHUGwwGpsrJX8h8KaWe0nEInEesCYu38JPGGvlSe7sW7Dt0KfYGHgDoz5JDiUj4C8IAjCal6HbsEEVdBDxgwMXqrxOqfuIL6ZFnrmy73/v7i5xjZC+jZM5fK2PirjTutCMzdEZcbKFOJHIdEWxbrtC2187mOeKnRKll8GBH9LDHLXzbOqPbK7G/Wv62VKysQqai8X1p2AfMzrAA==;x675FR+iSw1mMNQUJjfoAQ=="
 ---
 

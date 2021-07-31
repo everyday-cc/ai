@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-31T17:31:00Z
 originalUrl: "https://www.bizjournals.com/pittsburgh/news/2021/07/31/jeremy-searock-wants-to-get-last-10-out-of-robots.html"
 webUrl: "https://www.bizjournals.com/pittsburgh/news/2021/07/31/jeremy-searock-wants-to-get-last-10-out-of-robots.html"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: The Business Journals

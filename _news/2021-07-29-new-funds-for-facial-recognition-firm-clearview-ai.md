@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Clearview AI Closes $30 Million Series B Funding Round"
-    excerpt: "Clearview AI, the leading facial recognition company, successfully closed a $30 million Series B funding round valuing the company at $130 million."
-    publishedDateTime: 2021-07-26T14:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210726005315/en/Clearview-AI-Closes-30-Million-Series-B-Funding-Round"
+  - title: "New police reform law leaves facial recognition debate unsettled"
+    excerpt: "State legislators last year approved a ban on almost all law enforcement use of facial recognition systems, with exception in only certain situations."
+    publishedDateTime: 2021-07-31T08:00:00Z
+    webUrl: "https://www.capecodtimes.com/story/news/2021/07/31/massachusetts-police-reform-bill-ban-facial-recognition-use/5434850001/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
+      name: Cape Cod Times
+      domain: capecodtimes.com
+    quality: 19
 
 secured: "c+lwIENDtkyVmDmhvfLFwchyjF1+jfU9TGOnLWxhmim53Ak6qj4BOcm+Ah4zj285QdUVolksVodiFIOQRGKAlZgsAUCG7lnhgYmpsVy7omVl6DUj2uQz78LiCzx/pmQCvSdIBxmTBCrs8kxtBN+18RB3FsPi2Vp+4VRH6gfB4P1UBFNFtDzyu3r8a3LHPokDKxly+ktKs9KpvE8byWn2JytFhPnNOMPVnKPKYUzPHUPkpiCKed2h19CcygqbLEpoeRzGl6tFFlSgDCreRJ6mdFOL6MNQmeRTD0UTmhyEpHtrNQmhuYu7X9PhCEP8jrErICKdOjJcKuL8fQnRZVgRLyyWLU9rR+V9xkFsRPKybmRXqsKrWbUW5277qYy0XLnMEXtPVtn92r9b+9BoYrFXnP+bO0VreBPAqo5hQL5WuHNDbt3a4UYBfOJT1b5PUmQ5LF3B9+PHJMu7tTblZBGYktKh9pCLrSyD3na0UWWPijbvfk9b4QF9otkX+UCnd4r346tciz4xV02jDyP733ic0A==;hmNcKk8ZxGm/tlK1zGh24Q=="
 ---

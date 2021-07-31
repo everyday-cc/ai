@@ -132,6 +132,17 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "Artificial Intelligence (AI) In Finetech Market 2021 Analysis May Set New Growth Story, Forecast to 2027"
+    excerpt: "Artificial Intelligence AI in Fintech Market was valued at 6 33 billion in 2019 and is projected to reach 31 billion by 2027 growing at a CAGR of 21 from 2021 to 2027 Increasing availability of data sources driving the"
+    publishedDateTime: 2021-07-31T13:28:00Z
+    webUrl: "https://www.openpr.com/news/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
   - title: "Artificial Intelligence in Manufacturing Market 2021 Industry Size, Share, Growth, Outlook, Segmentation, Comprehensive Analysis by 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Manufacturing Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
     publishedDateTime: 2021-07-27T05:29:00Z
@@ -146,15 +157,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market"
-    excerpt: "The Artificial Intelligence (AI) in Automotive Market is expected to be valued at USD XX Million in 2020 and is expected to reach USD 10,573.3 Million by 2027, at a CAGR of 38.46% during the forecast period."
-    publishedDateTime: 2021-07-26T17:55:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-automotive-market-2021-analysis-as-corona-virus-outbreak-disturbs-investment-plans-harman-international-industries-honda-motor-co-ltd-ibm-corporation/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
   - title: "Artificial Intelligence Market 2021 Recent Development and Trends, Expected Growth and its Factors, Business Prospects and Forecast 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence Market for"
     publishedDateTime: 2021-07-29T07:56:00Z
@@ -183,20 +185,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Retail and e-Commerce Market : Information, Figures and Analytical Insights size 2025"
-    excerpt: "Report Pages] Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product. The retail sector has become much more diverse because every customer has different and customized needs,"
-    publishedDateTime: 2021-07-26T20:14:00Z
-    webUrl: "https://www.pr-inside.com/ai-in-retail-and-e-commerce-market-information-figures-and-analytical-insights-size-r4840488.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 29
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Cognitive Computing Market by Top Leading Key Players, Growth Opportunities, Share, Trends, Outlook and Forecast to 2021-2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Cognitive Computing Market for 2021"
     publishedDateTime: 2021-07-29T07:23:00Z
@@ -211,17 +199,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Betting Market, Growth Analysis, Latest Trends and Forecast till 2027"
-    excerpt: "Machine learning is one of the smartest techniques for categorization and forecasting that has demonstrated promising outcomes Because of the enormous amount of money involved in betting sports prediction is one of the fastest growing industries needing excellent forecast accuracy"
-    publishedDateTime: 2021-07-26T16:14:00Z
-    webUrl: "https://www.openpr.com/news/2337464/artificial-intelligence-in-betting-market-growth-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2337464/artificial-intelligence-in-betting-market-growth-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337464/artificial-intelligence-in-betting-market-growth-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
   - title: "Machine learning as a Service Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Machine Learning as a Service MLaaS market was valued at 1 6 billion in 2020 and is projected to reach 12 1 billion by 2026 registering a CAGR of 39 between 2021 and 2027 Due to the COVID 19"
     publishedDateTime: 2021-07-29T11:55:00Z

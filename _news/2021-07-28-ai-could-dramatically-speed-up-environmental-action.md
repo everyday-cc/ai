@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence could dramatically speed up climate action"
+    excerpt: "Technological solutions to climate change can be put into two categories. Vertical solutions that tackle pollution in one sector, say low-carbon fertilizers that help reduce emissions in agriculture."
+    publishedDateTime: 2021-07-31T16:00:00Z
+    webUrl: "https://businessmirror.com.ph/2021/08/01/artificial-intelligence-could-dramatically-speed-up-climate-action/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 19
 
 secured: "/0/jdQAUblOxp9uyl1+mw8NFt06XzHiuzPmjmeVwDlWSPpATACsrfjZUZGAYkPRKc045MLP80IvLdL4VHtbYEqQd9QVujLpla9WabVudhFsHT3dtbXpjoP31AWHjNQWWvyA5aZte2i/raEgV/Erggx6VK+1SH3TYdV88tOdTKEb/I1Q8VLg4NdfisSel62Nc+5FOFKlkLB8D0aurlMbbluS4XJfq+hqZReQxtEyfsMJtAq2MO8KWy1DaEfcQR905O8ib+6tiV8PtohWsoG537u8pxjQKmLWybHKvEGPMg/vcvXv9Qj2AVMvraKG1/UD//GiQ9vHoWT2Z8prnDDd5smBMqjpBTDCXbZHNUKcy2Ew=;0gh7J502x2kSero1eRgFZg=="
 ---

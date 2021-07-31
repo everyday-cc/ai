@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Now in 3D: Deep learning techniques help visualize X-ray data in three dimensions"
-    excerpt: "Computers have been able to quickly process 2D images for some time. Your cell phone can snap digital photographs and manipulate them in a number of ways. Much more difficult, however, is processing an image in three dimensions,"
-    publishedDateTime: 2021-07-26T18:13:00Z
-    webUrl: "https://phys.org/news/2021-07-3d-deep-techniques-visualize-x-ray.html"
-    ampWebUrl: "https://phys.org/news/2021-07-3d-deep-techniques-visualize-x-ray.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-07-3d-deep-techniques-visualize-x-ray.amp"
+  - title: "Detailed, 3D map created from piece of visual cortex of mouse brain to support machine learning"
+    excerpt: "A 3D wiring diagram, the largest of its kind, containing hundreds of thousands of cells and nearly half a billion connections of a mouse brain has"
+    publishedDateTime: 2021-07-29T16:07:00Z
+    webUrl: "https://www.bcm.edu/news/detailed-3d-map-created-from-piece-of-visual-cortex-of-mouse-brain-to-support-machine-learning"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
+      name: Baylor College of Medicine
+      domain: bcm.edu
+    quality: 42
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/xray.jpg"
-        width: 1440
-        height: 1920
+      - url: "https://cdn.bcm.edu/sites/default/files/2021-07/mammalian-brain-circuitry_1.png"
+        width: 1920
+        height: 818
         isCached: true
 
 secured: "1zT7ak4uln7UnE2bXNQIQL7rtSk17BaOh5J5cn0qVV2aBjazxuHEp0ca3CEkGYO/mOv4bD/DYcaeZbmy4GxRD00kAJD8T/5tMWrpWu0IMzfpRKabgdAafkxQmjQeJrQA4hIWxU6mWg5+38FkrNDGYR0ONtN/KQerAji+9NBuaylGBavmFbU84ZtUCKtW+cXeU0Z/Hw6rrdVUUNALMOetqQpQkTyW8CoEapkFSxwqli6AueA+kp4gETbGCg6bM/PjtPR0oxcaq5u/FsgObqG3WEq7fUH1p3rKqX6u4isjkozANgPJYXfvu94k37lFLiZz5x8xmw9paffr4PK+M508ub+RNr6jDkqUFS0EBnFP0ew=;ol7v6PlxYOENJ7l1cWssFg=="

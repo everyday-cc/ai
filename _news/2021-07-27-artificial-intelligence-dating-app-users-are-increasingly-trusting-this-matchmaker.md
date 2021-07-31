@@ -7,7 +7,7 @@ originalUrl: "https://www.forbesindia.com/article/forbes-lifes/artificial-intell
 webUrl: "https://www.forbesindia.com/article/forbes-lifes/artificial-intelligence-dating-app-users-are-increasingly-trusting-this-matchmaker/69413/1"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "Study: Almost half of dating app users trust AI to find them a match"
-    excerpt: "Kaspersky researchers observed positive user perceptions of AI mathmaking, but also warned of privacy risks in dating apps."
-    publishedDateTime: 2021-07-26T16:49:00Z
-    webUrl: "https://thenextweb.com/news/almost-half-dating-app-users-trust-ai-matchmaking-choices-kaspersky-research"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-5-3.jpg&signature=f0e8720bf54c33f33bce7f6190ecc647"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "9O4kTIIty/MvHmHZNNQyEeLy6tcs7mv/B1xDUeqRQiucyEGLzn4duV0zxQtXWrzLPGvI7PByutfaHB8j0HQ5HOLVNiBtOLCErSdeAKECKkhvzl+ZN4f2tLchC9+sO6l5NLAJeDmfh3fBCQuIsdu1ZDJpggJq0qiOm+M1E4l3odI/bPhZb/dRaGLtyoipcRnC8wuJDrH+cgjdRG4c63CPIzoK578mgiunb0lFwrLbMYx8+Y9e4ZFwoSr3ilSOdzyVF8GjNYjF72mAQ7I3wi4pJmeVA5vaFWshsa1rqiULLsXAQxIuhtVgB2gRgSp4BIJ0yx6Sj9m9b5ARFmsvqKj1GrVtgBmT8zrwFHICStblCEo=;KYCQeWRK6e39i2aMS4aChg=="
 ---

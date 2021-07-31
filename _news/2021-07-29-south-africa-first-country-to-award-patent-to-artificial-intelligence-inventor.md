@@ -36,20 +36,6 @@ related:
         width: 1300
         height: 733
         isCached: true
-  - title: "Reasons why funding into African AI startups remains poor despite a global boom"
-    excerpt: "AI has advanced considerably over the past decades permeating every stratum of the digital experience. As the industry grew, so did fundimg in AI startups"
-    publishedDateTime: 2021-07-26T13:29:00Z
-    webUrl: "https://technext.ng/2021/07/26/reasons-why-funding-into-african-ai-startups-remains-poor-despite-a-global-boom/"
-    type: article
-    provider:
-      name: technext
-      domain: technext.ng
-    quality: 33
-    images:
-      - url: "https://technext.ng/wp-content/uploads/2021/07/artificial_intelligence_phd-scholorship.png"
-        width: 750
-        height: 468
-        isCached: true
   - title: "Abake Adenle Works to Expand Discourse on Role Artificial Intelligence Can Play in Africa"
     excerpt: "While data privacy is a hot topic in the United States, Abake Adenle says in many ways, it’s even more concerning in African countries. Safeguarding data privacy is more complex because foreign entities are the ones collecting most user data."
     publishedDateTime: 2021-07-29T23:06:00Z

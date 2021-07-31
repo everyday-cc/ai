@@ -30,13 +30,13 @@ related:
   - title: "German court faults Facebook's past handling of hate speech"
     excerpt: "A German federal court on Thursday faulted aspects of Facebook's handling of “hate speech,\" at least in the past. It ruled that the social network giant can't delete posts without at least informing users afterward,"
     publishedDateTime: 2021-07-29T17:00:00Z
-    webUrl: "https://www.newstimes.com/news/article/German-court-faults-Facebook-s-past-handling-of-16348525.php"
-    ampWebUrl: "https://www.newstimes.com/news/amp/German-court-faults-Facebook-s-past-handling-of-16348525.php"
-    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/German-court-faults-Facebook-s-past-handling-of-16348525.php"
+    webUrl: "https://www.thehour.com/news/article/German-court-faults-Facebook-s-past-handling-of-16348525.php"
+    ampWebUrl: "https://www.thehour.com/news/amp/German-court-faults-Facebook-s-past-handling-of-16348525.php"
+    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/German-court-faults-Facebook-s-past-handling-of-16348525.php"
     type: article
     provider:
-      name: NewsTimes Danbury
-      domain: newstimes.com
+      name: The Hour
+      domain: thehour.com
     quality: 44
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-31T15:36:00Z
 originalUrl: "https://www.biometricupdate.com/202107/prominent-biometrics-firm-reborn-as-a-startup-as-established-players-lock-in-gains"
 webUrl: "https://www.biometricupdate.com/202107/prominent-biometrics-firm-reborn-as-a-startup-as-established-players-lock-in-gains"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Biometric Companies

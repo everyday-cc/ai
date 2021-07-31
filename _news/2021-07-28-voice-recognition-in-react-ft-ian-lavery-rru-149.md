@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T00:00:00Z
 originalUrl: "https://www.audible.com/pd/Voice-Recognition-in-React-ft-Ian-Lavery-RRU-149-Podcast/B09BD5P6PV"
 webUrl: "https://www.audible.com/pd/Voice-Recognition-in-React-ft-Ian-Lavery-RRU-149-Podcast/B09BD5P6PV"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Audible

@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-31T08:49:00Z
 originalUrl: "https://www.livemint.com/technology/tech-news/twitter-announces-bug-bounty-program-to-find-biases-in-ai-algorithms-11627720750479.html"
 webUrl: "https://www.livemint.com/technology/tech-news/twitter-announces-bug-bounty-program-to-find-biases-in-ai-algorithms-11627720750479.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Mint

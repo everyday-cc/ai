@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-29T12:46:00Z
 originalUrl: "https://thenextweb.com/news/aurora-spac-merger-genius-idea-or-a-cry-for-help-syndication"
 webUrl: "https://thenextweb.com/news/aurora-spac-merger-genius-idea-or-a-cry-for-help-syndication"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: The Next Web

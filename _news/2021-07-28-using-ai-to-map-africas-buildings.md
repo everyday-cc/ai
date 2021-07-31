@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/around-the-globe/google-africa/using-ai-to-map-a
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/"
 type: article
 quality: 109
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Reasons why funding into African AI startups remains poor despite a global boom"
-    excerpt: "AI has advanced considerably over the past decades permeating every stratum of the digital experience. As the industry grew, so did fundimg in AI startups"
-    publishedDateTime: 2021-07-26T13:29:00Z
-    webUrl: "https://technext.ng/2021/07/26/reasons-why-funding-into-african-ai-startups-remains-poor-despite-a-global-boom/"
-    type: article
-    provider:
-      name: technext
-      domain: technext.ng
-    quality: 33
-    images:
-      - url: "https://technext.ng/wp-content/uploads/2021/07/artificial_intelligence_phd-scholorship.png"
-        width: 750
-        height: 468
-        isCached: true
   - title: "South Africa first country to award patent to artificial intelligence inventor"
     excerpt: "South Africa has awarded a patent to an artificial intelligence (AI) called Dabus — short for Device for the Autonomous Bootstrapping of Unified Sentience. Dabus received its patent for a food container based on fractal geometry,"
     publishedDateTime: 2021-07-29T15:28:00Z

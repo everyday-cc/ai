@@ -173,22 +173,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Artificial Intelligence in Military Market Next Big Thing : Major Giants Boeing, BAE Systems, IBM"
-    excerpt: "The latest independent research document on Global Artificial Intelligence in Military examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Artificial Intelligence"
-    publishedDateTime: 2021-07-27T01:02:00Z
-    webUrl: "https://www.openpr.com/news/2337641/artificial-intelligence-in-military-market-next-big-thing"
-    ampWebUrl: "https://www.openpr.com/amp/2337641/artificial-intelligence-in-military-market-next-big-thing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337641/artificial-intelligence-in-military-market-next-big-thing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/7/U727666550_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Global Artificial Intelligence In Healthcare Market 2021 Analytical Overview, Technological Innovations with Economic Indicators By 2028"
     excerpt: "The primary sources employed while crafting Artificial Intelligence In Healthcare Marketing report include the industry experts from the industry comprising the management corporation processing organizations analytical service suppliers of the industry s value chain This market research report sheds light"
     publishedDateTime: 2021-07-28T10:27:00Z
@@ -200,15 +184,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 21
-  - title: "Global Medical Imaging & Informatics Market Thrives with AI and Cloud as Healthcare Sector Focuses on Quadruple Aim Finds Frost & Sullivan"
-    excerpt: "Frost & Sullivan’s recent analysis, Global Medical Imaging & Informatics Outlook, 2021, finds that the market opportunity is estimated to hit $37.10 billion in 2021 from $33.90"
-    publishedDateTime: 2021-07-26T16:25:00Z
-    webUrl: "https://www.newswiretoday.com/news/175880/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
 
 secured: "+hg53WQaxLsFLPPwAkKolWcmz9FqeGfjyGdVJ7fx/FSivj0ppOgZfH7jPXaJkXLBnyGyclaUUnS2M0EVJj+ZcYYlRvjTmocwcGf1PfMuSA6AfS4x2BS1KJBhMqDLLnrOQ7r45pvnh7A16xfKtBOJxtuUyo8E1KdZDZsv4ObIJTHa1cLRKnTcSwOmPCSTUL3szUN1m3j3BEOc6m0nR48cJBZ0XvxhTarYSY0gdq1pKeSlB6s9dq6QqcCfQy5Yg6z4MWLGMsZ2x/hFohWU6UZs4iMmtLT2RWU11Ih5z49QtvFm7oyZ40Mhf/TNBP0+GgCcHOasUlkv+OWjBAe0bvlTFgU0GG9bqihf9GLDa7W5WPY=;Ht6MGP3Pnbo/WaqIjWuP/Q=="
 ---

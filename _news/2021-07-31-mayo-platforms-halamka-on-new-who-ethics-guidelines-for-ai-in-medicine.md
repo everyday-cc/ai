@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mprnews.org/amp/story/2021/07/30/mayo-platforms-halamka-
 cdnAmpWebUrl: "https://www-mprnews-org.cdn.ampproject.org/c/s/www.mprnews.org/amp/story/2021/07/30/mayo-platforms-halamka-on-new-who-ethics-guidelines-for-ai-in-medicine"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

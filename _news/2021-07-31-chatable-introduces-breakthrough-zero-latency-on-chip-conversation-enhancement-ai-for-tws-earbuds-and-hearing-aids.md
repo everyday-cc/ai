@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-31T08:51:00Z
 originalUrl: "https://www.financialbuzz.com/chatable-introduces-breakthrough-zero-latency-on-chip-conversation-enhancement-ai-for-tws-earbuds-and-hearing-aids/"
 webUrl: "https://www.financialbuzz.com/chatable-introduces-breakthrough-zero-latency-on-chip-conversation-enhancement-ai-for-tws-earbuds-and-hearing-aids/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Financial Buzz

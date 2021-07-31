@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-31T13:00:00Z
 originalUrl: "https://socialnomics.net/2021/07/31/discord-and-sentropy-the-social-platform-and-its-new-ai-service/"
 webUrl: "https://socialnomics.net/2021/07/31/discord-and-sentropy-the-social-platform-and-its-new-ai-service/"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Socialnomics

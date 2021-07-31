@@ -1,21 +1,54 @@
 ---
 category: news
 title: "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions"
-excerpt: "PRNewswire/ -- (NYSE: SSTK), a leading global creative platform offering full-service solutions, high-quality content, and tools for brands, businesses and media companies, today"
-publishedDateTime: 2021-07-29T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions/article_31d7e0e3-2c2f-55cf-8c77-21f2734b7df4.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions/article_31d7e0e3-2c2f-55cf-8c77-21f2734b7df4.html"
+excerpt: "The availability of Shutterstock.AI's data on AWS Data Exchange will allow customers, from tech startups to industrial giants, to train computer vision models at scale with precision, advancing their computer vision technology."
+publishedDateTime: 2021-07-29T11:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
+webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
 type: article
+quality: 93
+heat: 113
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
   - AWS AI
 
-secured: "5Xo/szW5LIOGw/34o008UiMpbXeAJXMMd9ALmFsr9XlyY4+vj72FNlt/0V6duGMK99E6+p+zcC9UeAOrPkNoMPyGyR9nzYrmpAYWgRX0rniDS0eOwLrug+gjd3lTVHZsqhqvDFyxuYSC1FGP5CAx1PsElJqcjKMMx4ySwM86FFfm6+TnsYuRm9fKSXy7PMBx5DCS9lxAtx5jI4n+gWWl258b2Qkkh4pbOn3s2N/mERvyLUQ4/Fa2mYdavV9Za7mqu5ESpX1rgH49IJhkzLQzoGbQA7iHh6JEdgjlPPugavmywV2UZBZ95jUCU2FCIjcr+Z3reYehRr9nqNkieDcrZDbYOEnYy//3BpQ6rw6oYX5VowpEL2AH5Fp5BwpPEjvb0zEZ6Nm6JOWlBYzx/uoELBJ1MHjSLKUVEj2nWCq7OyR7TbXxYZVtLnFo/bQRc9FqpBbFBrOPzWQiPZlNd/7OkI+CjOTRKEA+RTk7oMCyiWkFDxFjLIvhdz+aOjllJ7AFtXuq0WspDqzV6IxLci8jEw==;daX5JdpssBSqRyl3ODF+Vg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+related:
+  - title: "Shutterstock Announces Formation Of Shutterstock.AI And The Acquisition Of Three Leading Artificial Intelligence Platforms"
+    excerpt: "Shutterstock.AI to offer computer vision and predictive performance solutions with the goal of enhancing creative performance NEW YORK, July 27,"
+    publishedDateTime: 2021-07-27T11:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-announces-formation-of-shutterstock-ai-and-the-acquisition-of-three-leading-artificial-intelligence-platforms-1030649499"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+  - title: "Shutterstock acquires three AI-based marketing platforms"
+    excerpt: "Shutterstock Inc., a provider of stock photos, videos and other media, has formed an artificial intelligence division and acquired AI marketing platforms Pattern89, Datasine and Shotzr for a total $35 million."
+    publishedDateTime: 2021-07-27T21:43:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2021/07/27/shutterstock-buys-three-ai-marketing-platforms.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
+
+secured: "lMgGYnftljDDy/t1256zClumXjOVApoPDXmTRDxFFqSMf+DIstThc/E2XlgotFmWJuMm3ZXMtATMN1G09PcvUNh6/YKE6x26bgp6Fu/zNEaWb5DjuQhYKnMpI8kONjoioh9yqrybFA2wybU6Twr+dIECNG63OhFwYR2bIxywKsmIXkPWYHl7EEcfwu6PiItGyc8maZoQBm7pq6P7xHR+0dcM57C0lm6878dTvDvvfEF3V50LhB92WUML/cCUezeFgXM4f2L8pNJeY6p/ygWJq7MHj8eMuXiQsZsWAzudVjzGeI7osAzUmh8VLPRPOBe7MpUBLyz/BBMa0jXIr+B0k6LOthjoSr+aEGgS7iy98vA=;cpma1IHWoqQLsoejdh8+uQ=="
 ---
 
