@@ -3,8 +3,8 @@ category: news
 title: "DeepMind’s AI has finally shown how useful it can be"
 excerpt: "AlphaFold has provided the clearest picture yet of the human proteome. Now DeepMind is making its work available to the world"
 publishedDateTime: 2021-07-22T15:00:00Z
-originalUrl: "https://www.wired.co.uk/article/deepmind-protein-folding-database"
-webUrl: "https://www.wired.co.uk/article/deepmind-protein-folding-database"
+originalUrl: "https://www.wired.co.uk/article/deepmind-protein-folding-database?mbid=social_twitter"
+webUrl: "https://www.wired.co.uk/article/deepmind-protein-folding-database?mbid=social_twitter"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://media.wired.co.uk/photos/60f84831cd5e8139e11332eb/16:9/w_1280,c_limit/2221-WIRED-Deepmind.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "YAUO80avr+nxGsm05VO1PFDFnH5cRFx75dWCzYv0T3mObqI+5f+PCxd12JvwhLGXKOyTtA2tjcS44WzvQEBhiRQ2G7EB/scjJwUf7nmAx1yHExuzdIWAkrjb4t2yGD4Ywv7nERE8jvYCwgZb2Aa/nPoMWlZt1YQf6uTebiOVt5z1KuNPhUiLs6Jbh7cXc+Wn3QoEp8pt+Q/giGF9vyiBW57OXDTonIlG329XV5e2TAX8iaWVmWM8m3QL5bx3TSJuLwJ10yj8Boig2HLiBxEkyE4VDYzEYWTbqlzT9Zuu9fzC/nhkgdvUFtpfG4MCMIw1NDdO2f68YlXEy6KFd40QrfdhzuOAGKpU7UZSg28rMnk=;zUv0O2mQps8wfbVj/wej7Q=="
+secured: "hE/vO/2ZQ/7EjZZDV5tWx3zPns3CA8l69ViQvsftxGcPPOSg+Zkbhxj9/oqY9TFioNYGAuiobyJ6tF5PbGA4vdYZeMiVIAUUMxiTe1j4OJ5Q+1tsO8U/T+seHEqGT3r/nwwPnOxU3wziyGgcl8jIJo4UZbTcI0ysGIbGf7i5IBAsKUCxKNJDDbl/X7rjLt3VS+1NByG6jcaqoIsu1B0AdtF+cC1q9ko3EEemc4XIoudFZfeHZmWC7qIZCnGVqhQEFdaElpRVVr96RNcoCyu3i5GZhfqPTlpIjHcJ+P73meJqfNQY4FxHUJoUpYIHiqm+8IKbAXnMYF4D/1Ui3+uSbDuptEcbn1cD506LLdO0JBx0JevK7Cf9xBCO2u7UvZ1jCdrkUbin1qUBy+6oYeg9mCkO+p7klYtf3lkXOiamndWJhJ6i+HiuPI5pHz8tLAXvMHMLav7AMGrBUr/61UpfAqmg5pujpKYUIVCsCxXXh48FgfTbNPsYMqVzXWXr1rfj7AwjZ9ddN8Xs/qUJ4OHbZw==;M2DeFEBaRRhb9PxZeM+trQ=="
 ---
 
