@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://pcdn.columbian.com/wp-content/uploads/2021/07/0802_met_BIZ-CPT-DEEPFAKES-BOURDAIN-GET2.jpg"
@@ -23,6 +24,6 @@ images:
     height: 732
     isCached: true
 
-secured: "9kxk+7Yp/qHVf+tHrkuWA2ttFGyEYIo93hWIMz9ODYSbbcysdr5A7XNJyFk2Nj+qYLk3q9s/Ix//PJkI/b+WI1vp8n0yPKCw0S2SAo/C7nMtibpyVcpmqKcr86QmVTzdMIchpgRkaROFCX7D9fuYHZsXB4JOO1q5MR+2y/xWP9emrGpinI5p491TdECVCLl3FGt/g5TVnSk8QcC/+IJL1M8zVmv4PbeT4Xgm5szxd5pO+N5HlTRuxy4n4kwWxKi1jnzSH5RiyylDdvSfqnXcfLWmPPvYguD6Kg0LEn2S+lpCZPYGgWe69jwl9cNDy7m++8XSBPnVp5dMmkIsf66oyaCI9QCIqnSHtu4L09tgFLU=;9Q8/2MtiGqR0e1x9QqAAsA=="
+secured: "fEez+0P/XC4oAdO9Yxg1ZDiS3klIDXAnyqLX9ukdK/HMr0Ep7ELb4pmBVXbrojeT8TJWCEbp45yRO2bzJbET7vmwcz1C2eMjKKWjSqwX0FJHtNEJm1vAwvMU2l6pX9YWysbCIU1aQOZuuJ46unXYkW4f7VW7VwIRuf8rPHJ9QjPSPx3jAS+ginQhXGp7Zij85nniFvBvsxhn4AbZ//ubtkxdzLn/l0zJgLz8iBt5mhHzxXIJwMQlZUZKmQi9ruDDnUkBo73jXUwbgKvtebj+/3BL9QDHXebLvHbkxWbQlNv2XbLdGLsKH9NzNsQlubE6vfMVHN8zUrrtmz4LUQNDmIn5LFvOhToXMME+T2vsARd4gXcg2aP4Qoh3C7CIn0kNrBXMlNHU7VO5hwN6YPb8SuOWOn2OI+YntCpilkC+xXVcZww6wc55G5FFOGJLjSoR3kCHXbaftVi6pC7Q2ARmAoIXSgqxTnh4n/IwWcLooDDhkWg5wIU18BggJG5EnWsStKJB6iyFH1AoNSnfY6X4DA==;/dg2a6WtnTIFNyN32XrkTQ=="
 ---
 

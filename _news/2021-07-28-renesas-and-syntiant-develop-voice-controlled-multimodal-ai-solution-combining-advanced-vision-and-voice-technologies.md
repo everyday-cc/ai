@@ -1,30 +1,20 @@
 ---
 category: news
 title: "Renesas and Syntiant Develop Voice-Controlled Multimodal AI Solution Combining Advanced Vision and Voice Technologies"
-excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Syntiant Corp., a deep learning chip technology company advancing low-power intelligent voice and sensor processing in edge devices,"
-publishedDateTime: 2021-07-28T12:02:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-and-syntiant-develop-voice-controlled-multimodal-ai-solution-combining-advanced-vision-and-voice-technologies/article_4da26d15-32af-5419-b147-3c7fe0188f1b.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/renesas-and-syntiant-develop-voice-controlled-multimodal-ai-solution-combining-advanced-vision-and-voice-technologies/article_4da26d15-32af-5419-b147-3c7fe0188f1b.html"
+excerpt: "Renesas and Syntiant Corp. announced the joint development of a voice-controlled multimodal AI solution for vision AI-based IoT and edge systems"
+publishedDateTime: 2021-07-28T12:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210728005284/en/Renesas-and-Syntiant-Develop-Voice-Controlled-Multimodal-AI-Solution-Combining-Advanced-Vision-and-Voice-Technologies/"
+webUrl: "https://www.businesswire.com/news/home/20210728005284/en/Renesas-and-Syntiant-Develop-Voice-Controlled-Multimodal-AI-Solution-Combining-Advanced-Vision-and-Voice-Technologies/"
 type: article
-quality: 18
-heat: 18
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI Hardware
-  - AI
   - Natural Language Processing
+  - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/8d/28df0e71-89c1-591f-94f0-011a1d890d1d/61014a7f7341a.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
-    isCached: true
-
-secured: "2AvAam6/Ydk6q0mJhC44UpcngMmCEqVDvVyMmp9LhQDXB6YHk4sL2kBPr1HXqgmdLQhxEbLfs+fZztLhTSIlqJhW9eNE/GRBo97a5PvDKhVi7GFxu7TtOEXOY7tXrkvqWvA9+gkPRPcCN+P7lZGy934GEtvk1Yh0eCnVWiUDo9guNiyu2t+9JnWQmk/zM05DAN2DGSucICXc+wzS0qXwj1sHzgavNjxIWPoxxeDYEbirYT213vISYkLul8p/Iwa2yZZo55bUknKBJKUm3XRQ23azDX5bw2zy9iU0NpZEnwBzX2JtW5h76JrsB0KxIdrEZ2oIl2myKjtYNKaN3IXdH0PXhVug1dP0Ykygd+H3bUz0yYD/Ouf+EUkjk3KBOjNTPTE+yWmuIDsnEh7kucmHe5dDSXv2uqpbuuw1xY8TxcZzbtevkfYVL3FHnRxFQ+jCus/WP7rSehSmHVXkPbDbEK+FqYZRqjTWqauIjW86J5XfFPCq1p8H51LQo2/e+mvSDg0HMqjMbPHZpgSyQyBm8g==;nnw9KYWzsNz5LVN+7JgxCA=="
+secured: "SairEkoU5tEgSCqE7Tw5Hs0I6J6HHcmBk5zjNUGXZLpjWmFYDFtqMCIlxOyjfT+ZOEgtL182KTAp9prXdImNdpmnSVqGBbOqEcWqobDFemGJmxxkO5Wovq2V/ZI1tC7GVsKdXo1g7MoRJnf7XBaISYlK5v6bnlGKWugX89+uNdroNvjhDbU1vF4eI9RCjv9ZPgrpGRmdAUMqGt5nLxonqlu5k7HNtUZeLIsTVz4GqYSBAOREyKuDudmc/ddQyJju8DqWeKVElyH4dHBpHriJ5SAUJrw8LRmACLNwAJKGBqf65mcNEHG4z3l7f0NQ93hrO3/TaW7nv9ST2XtIKOJL3lYxj1vDtamlil9i1Y4dezk=;IZ2QD7MV9RU0nRD73MyW3g=="
 ---
 
