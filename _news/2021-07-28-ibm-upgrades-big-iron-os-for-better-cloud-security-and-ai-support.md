@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/article/690108/ibm-upgrades-big-iron-os-
 webUrl: "https://www.arnnet.com.au/article/690108/ibm-upgrades-big-iron-os-better-cloud-security-ai-support/"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM upgrades its Big Iron OS for better cloud, security, and AI support"
-    excerpt: "IBM continues to fine-tune its mainframe to keep it attractive to enterprise users interested in keeping the Big Iron in their cloud and AI-application development plans. The company released a new version of the mainframe operating system— z/OS V2."
-    publishedDateTime: 2021-07-27T22:16:00Z
-    webUrl: "https://www.networkworld.com/article/3626486/ibm-upgrades-its-big-iron-os-for-better-cloud-security-and-ai-support.html"
-    ampWebUrl: "https://www.networkworld.com/article/3626486/ibm-upgrades-its-big-iron-os-for-better-cloud-security-and-ai-support.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3626486/ibm-upgrades-its-big-iron-os-for-better-cloud-security-and-ai-support.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 78
-    images:
-      - url: "https://images.techhive.com/images/article/2015/08/thinkstockphotos-528443527-100610461-large.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Baidu AI Cloud announces strategy upgrade to empower industries"
     excerpt: "To support enterprises' digitalization and intellectualization, Baidu AI Cloud announced upgrade on its strategy and infrastructure to empower real economy for development with better quality, the tech company said in Beijing on Thursday."
     publishedDateTime: 2021-07-29T13:16:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-nex
 webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
 type: article
 quality: 86
-heat: 177
+heat: 166
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Size, Share, Trends, Analysis and Forecast 2027"
+    excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end"
+    publishedDateTime: 2021-07-29T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-and-forecast-2027-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -81,22 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Military Artificial Intelligence Market Outlook 2021: Big Things are Happening"
-    excerpt: "The latest research on Global Military Artificial Intelligence AI Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges"
-    publishedDateTime: 2021-07-27T14:37:00Z
-    webUrl: "https://www.openpr.com/news/2338746/military-artificial-intelligence-market-outlook-2021-big"
-    ampWebUrl: "https://www.openpr.com/amp/2338746/military-artificial-intelligence-market-outlook-2021-big"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338746/military-artificial-intelligence-market-outlook-2021-big"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
-    images:
-      - url: "https://cdn.openpr.com/U/7/U727367941_g.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Envision Healthcare deploys AI in radiology"
     excerpt: "National medical group Envision Healthcare said that its radiologists have begun using artificial intelligence (AI) software for several clinical applications."
     publishedDateTime: 2021-07-29T20:48:00Z
@@ -110,20 +108,6 @@ related:
       - url: "https://www.auntminnie.com/images/logos/logo_400.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Tackling the healthcare interoperability dilemma with artificial intelligence"
-    excerpt: "A recent survey of more than 1,300 hospitals and health systems found 61% said they still use paper-fax to send documents externally. This data suggests our industry needs to expand the understanding and use of technologies that can fuel more widespread adoption of secure,"
-    publishedDateTime: 2021-07-27T19:15:00Z
-    webUrl: "https://www.modernhealthcare.com/information-technology/tackling-healthcare-interoperability-dilemma-artificial-intelligence"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 51
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/John-Nebergall.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Global Artificial Intelligence in Livestock Farming Market"
     excerpt: "According to a new market research report published by Global Market Estimates, the Global Artificial Intelligence"

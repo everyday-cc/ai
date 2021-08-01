@@ -54,15 +54,6 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 26
-  - title: "Industrial Revolution 4.0 And Massively Distributed Manufacturing Will Be Driven Via Autonomous Vehicles And Self-Driving Cars"
-    excerpt: "The vaunted Fourth Industrial Revolution or Industry 4.0 will be aided via Massively Distributed Manufacturing, and the use of autonomous vehicles including self-driving cars will make it all come together."
-    publishedDateTime: 2021-07-28T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/28/industrial-revolution-40-and-massively-distributed-manufacturing-will-be-driven-via-autonomous-vehicles-and-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 6
 
 secured: "QXLPms7sdmVQLaZS/RROwXoNTxifsU8kAgbwQ8JrgaHvWMEbc9IbMw/AmsEqQNfLJKCFc/Y+SHk32r5l3L+9cXzhO3xd9ew1yzbeJNzG+Ph+p20mif/uY9RlwMpbO325uAdCM4O53JbNC0g2mVabjf0O/cQnsqBpb+rxtEmJwURMrtEcoXgBcoXmWz6EkfSCn6pINBNRKHw2lkrR1tHu/GbcQHMNOIIBS5DQfwM6SEWzUtjii3s7s9I+jceq2Scj9fEgTVguOgkX2RpQXtnfl03yKuWp2WNR9dQEnSoAex1/QBjQUmuDLBpBtjXrNJ0ff0qLU5nSkwfBmUM1DXRhZXqBpyss+mb+Eyw8eFToKRM=;2CMZFfvb2aqLq/Zahipg4w=="
 ---

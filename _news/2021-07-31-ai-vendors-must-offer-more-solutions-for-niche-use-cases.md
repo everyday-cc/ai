@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/31/ai-vendors-must-offer-more-soluti
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/31/ai-vendors-must-offer-more-solutions-for-niche-use-cases/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

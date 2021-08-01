@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 687
         isCached: true
-  - title: "AI’s Role in Diverse Hiring"
-    excerpt: "Are our efforts towards diverse hiring successful? We’re not perfect; we're human. So what role can AI play in truly fostering diversity in recruitment?"
-    publishedDateTime: 2021-07-27T14:00:00Z
-    webUrl: "https://recruitingdaily.com/ais-role-in-diverse-hiring/"
-    type: article
-    provider:
-      name: Recruiting News and Views @ RecruitingDaily
-      domain: recruitingdaily.com
-    quality: 37
-    images:
-      - url: "https://recruitingdaily.com/wp-content/uploads/sites/6/2021/07/AIs-Role-in-Diverse-Hiring.jpg"
-        width: 800
-        height: 510
-        isCached: true
 
 secured: "gXiq7XPVPXxCh/Y5e5DJdGp8TUOfvuX1EF1BsNoqokh2/bkTpsKGLAZaO8F041RerDrtj7k8gHuJLsSmZgB6vya6AueYU05wuQQV/1wft7oi3jC7zxP1sAPwnz3U4pvuvmCPG2V3xafKmkJ6rxBBjcpUCZYR+qhc468oDxsMRmaIY85aspzAcMwwj/wW+ug5zhVjDq58Kh/i69t6zy/7UaEZv8goYIertnOBwUhgIjhTXChGciV3SY26hYaO5Xmrw1sCRaQcliQKiODT5H8fh92UZtG5+QYz70QE5kgPjGEFx2w/3BGsDBsa3LzWGvGcfP1+oKqPZdccJ/dpFHm8v3muWSRpKisDGnnnbZYBnjM=;e2vPcuyD4JYeQ4Et4cYuvA=="
 ---

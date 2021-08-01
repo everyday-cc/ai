@@ -37,20 +37,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Blaize, Leading AI Solution for Edge Computing, Announces $71M Series D Financing to Further Accelerate Growth"
-    excerpt: "Franklin Templeton and Temasek lead Blaize $71m Series D funding aimed at acceleration of AI Edge Computing and Automotive/EV product roadmap."
-    publishedDateTime: 2021-07-27T19:01:00Z
-    webUrl: "https://www.automation.com/en-us/articles/july-2021/blaize-ai-edge-computing-series-d-financing"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 19
-    images:
-      - url: "https://www.automation.com/getmedia/d623eb60-2d83-42b2-a5aa-8a77b470b990/Financing-news-July-27-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "N2SntYgfxjrNxqBcClzdxdYj7Xn7yA837bopUxMaWF7dsD2tT8CK5aQ+DMcjRxs6xu9m9frHAnh4fd55lVU/LMGUyl+L7yjVgrDyi5nnUR0yEU5rEwhA0+bcn2AIGy9J7MBkLR7YptFLK7Mjb4VETJbn18k6b7aAAEFwgB13SZrohvwQFC/4OjcxyCFmKwVPFsUpoX3kbT585unVHYvRbrNE0BGGNpGY+V9dnOimb3KXhzPzDOK+nmtb2fBhh4Q9Ab90bweUBGI/y8pXDvwkv37EKriPqgUoQAucicf9hThFGYZWaJ84q42t8Wemq0owAj9aWV519+C8Z4S5hDY+KBMX6vQGaa+eXLoF0kqHsDSGE0MZEFG+Vmd3S195aeDI6AV/pR6Mv8rFXgMCfmfWVNchdSp3Fx6lNgfLrsVIZW+zW1bwxi0TzTwAQ72/q9sQaSNbbd2umNhtKU0QEneOndKCehAFXQMd8rjNZsZVpaSHSTVrVtw0YxcEuylWqTPMC9KJoivpMQcMtoso2Es1vw==;xP8S+LVTmcDDoI5UcYlJfw=="
 ---

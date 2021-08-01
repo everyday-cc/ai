@@ -34,14 +34,14 @@ related:
   - title: "Why Artificial Intelligence Isn’t Intelligent"
     excerpt: "Some AI experts think that the name itself is fueling the kind of hype and confusion that have led to ‘AI winters’ in the past"
     publishedDateTime: 2021-07-31T03:00:00Z
-    webUrl: "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050"
+    webUrl: "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050?mod=tech_lead_pos10"
     ampWebUrl: "https://www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 89
+    quality: 87
     images:
       - url: "https://images.wsj.net/im-376905/social"
         width: 1280

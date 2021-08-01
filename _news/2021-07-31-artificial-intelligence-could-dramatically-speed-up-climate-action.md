@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Could Dramatically Speed Up Climate Action"
-    excerpt: "Artificial intelligence is one such horizontal technology that has big potential to help cut plenty of planet-warming emissions. The list of problems AI can solve is long, and the number of startups using AI to solve some of those problems is longer still."
-    publishedDateTime: 2021-07-27T22:48:00Z
-    webUrl: "https://www.bloombergquint.com/business/can-ai-help-tackle-climate-change"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Could Dramatically Speed Up Environmental Action"
     excerpt: "The list of problems AI can solve is long, and the number of startups using AI to solve some of those problems is longer still. As with any new technology, there’s also a lot of hype. To cut through the noise,"
     publishedDateTime: 2021-07-28T10:20:00Z

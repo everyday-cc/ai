@@ -29,29 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI Infrastructure Market worth $79.3 billion by 2026, at a CAGR of 27.3%"
-    excerpt: "Browse 169 market data Tables and 60 Figres spread through 238 Pages and in-depth TOC on \"AI Infrastructure Market with COVID-19 Impact Analysis and Region - Global Forecast to 2026\" View detailed Table of Content here -  Hardware to account for the largest share of AI infrastructure market in 2021 The hardware segment is sub-segmented into a processor,"
-    publishedDateTime: 2021-07-27T17:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273-2021-07-27"
+  - title: "Asia-Pacific Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 40.90% through 2027"
+    excerpt: "Request a sample Report of Asia-Pacific Artificial Intelligence in the Healthcare Market Analysis Report at:  The Asia-Pacific artificial intelligence in healthcare market is projected to progress at a CAGR of 40."
+    publishedDateTime: 2021-07-29T08:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4090-through-2027-2021-07-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Size 2021 CAGR Value, Analysis by Size, Share, Major Key Players, Growth, Future Trends with Covid-19 Impact till 2024"
-    excerpt: "Our analyst has been monitoring the facial recognition market and it is poised to grow by USD 3.35 bn during 2020-2024 progressing at a CAGR of 12% during the forecast period. Our reports on facial recognition market provides a holistic analysis,"
-    publishedDateTime: 2021-07-30T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2021-cagr-value-analysis-by-size-share-major-key-players-growth-future-trends-with-covid-19-impact-till-2024-2021-07-30"
+  - title: "Latin America Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 37.95% through 2027"
+    excerpt: "Request a sample Report of Latin America Artificial Intelligence in the Healthcare Market Analysis Report at:  The AI in healthcare market in Latin America has been projected to depict growth in terms of revenue and expand with a CAGR of 37."
+    publishedDateTime: 2021-07-29T05:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-3795-through-2027-2021-07-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

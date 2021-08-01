@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Bipedal robot developed at OSU makes history by learning to run, completing 5K"
-    excerpt: "Cassie the robot, invented at Oregon State University and produced by OSU spinout company Agility Robotics, has made history by traversing 5 kilometers, completing the route in just over 53 minutes."
-    publishedDateTime: 2021-07-27T16:03:00Z
-    webUrl: "https://ktvz.com/news/education/2021/07/27/bipedal-robot-developed-at-osu-makes-history-by-learning-to-run-completing-5k/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 37
-    images:
-      - url: "https://ktvz.b-cdn.net/2021/07/Cassie-OSU-robot-running.jpg"
-        width: 799
-        height: 533
-        isCached: true
 
 secured: "fk9DbhjAMm3VU6fjBqmTNA6J8INQKdn02Y1ILu1VsYN7h2JfXDYNf7a7DOhFdHLC/SzJz/lc5zMMiac0MxW4WY03hTTWwOPZvzp8gIcozDNsNTKt3vqJeVftLh+8cw1qPS+B+yJ7PCJ4HZ5sW+vUCqmVhbB+wlcqpBRG5kqAZ2XtjuPa/fHamq3v1ZTjUZwB709nxYfV378BeijOobWqL5JF99o5fy9LPqAc9KOYSQc/WDtRgtZK2GNieCsjJwY8tjNlPlvvPaEGxuF44omIQDVhpfFM8p2++QGV8kFRDw8lNAtamSfznTn9Y130OyZagp5PgVCuVTeUcXuGIJ3GZYs0ApFF2YkH4KcZkNghX1oMPsgE3M6alQP9LDbApaouThI9uqvOKTtRF5dcrIvvJnoIbI8tneVnVOUvVHMAh/w289HVdc/tC+Wyjp23bBlTrYmzK2YnRuAP7UwAGfH/GQZWQFTaUNEYuZ4un/jp1K3QLwECLMXfH2DDBfTepagriCVNNkeycZSkt4IbGaMMcw==;uWKW6RpYmBvBGz/AyPysjg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/cvedia-joins-the-nvidia-m
 webUrl: "https://www.prnewswire.com/news-releases/cvedia-joins-the-nvidia-metropolis-program-focusing-on-synthetic-data-to-accelerate-edge-ai-applications-301344741.html"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2286
     height: 1197
     isCached: true
-
-related:
-  - title: "Accelerate Artificial Intelligence Initiatives with DDN and NVIDIA at Any Scale"
-    excerpt: "In this whitepaper, DDN and NVIDIA invited ESG to interview several of their joint customers that have been running production AI environments to better understand their needs and to confirm the value that DDN and NVIDIA are providing."
-    publishedDateTime: 2021-07-28T22:56:00Z
-    webUrl: "https://insidehpc.com/white-paper/accelerate-artificial-intelligence-initiatives-with-ddn-and-nvidia-at-any-scale/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 33
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/07/DDN-Accelerate-Artificial-Intelligence-WP-Cover.png"
-        width: 455
-        height: 600
-        isCached: true
 
 secured: "MORzuXoW/80YUOaqA6qbVi+GBE+oEuiZpIbVocXMJb3uz40oAEzVitutRa/qyJ3vkfU3FqTiCW+Z2ax19MPdeVsmC1Gg8PsVEMX0nfFRn9T0JFxWorsjVLcsBp3ROqS/PfzI66dioCc48bPxQ/ld7IBkVzBMNELkPZ6541JUAvshxOvOIrIOaCGeVJfmE0OYo+q1drqQQVuc0WplzyVBR4B9RlNgrGjdNggZkPWWKAiLH/5WEDpQr+UGF4ZYd9Thx6mI3KWsRSrcEJaXvnbBYIYck5XXT75GTvhVx7tFSWW/h+h/Qve0FpvbMEfODiG1MTCOnQnJxFfZ2usDklIvvAY75bFuk/YSNlEDRsbH/y6yxThESPss64fuqhpmmJeKi6bfNb+emoEWXG0hIh/MVVxh0stGhHvBFues9bEeeces0uaA41EfZy2ItkIooDIlXAXGVNv0T2HV67A/aCedatJZ8Qt/hVLNL4juZykZ6nc+Qw5gl70hIFH/kKRKcRfoVH2+KlWkq0vwfbODO8gl0g==;mdi30SF3w9Yr3JdMs7huZg=="
 ---

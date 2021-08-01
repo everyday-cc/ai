@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Announcing specialized support for extracting data from invoices and receipts using Amazon Textract"
-    excerpt: "Receipts and invoices are documents that are critical to small and medium businesses (SMBs), startups, and enterprises for managing their accounts payable processes. These types of documents are difficult to process at scale because they follow no set design rules, yet any individual customer encounters"
-    publishedDateTime: 2021-07-27T16:31:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-expanded-support-for-extracting-data-from-invoices-and-receipts-using-amazon-textract/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 92
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/22/ml3911-img11.jpg"
-        width: 400
-        height: 600
-        isCached: true
   - title: "Perfecting mapping with AI and machine learning"
     excerpt: "Across the world, mapping technology with Artificial Intelligence (AI) and machine learning allow users to have a variety of choices on their travels. Be"
     publishedDateTime: 2021-07-29T00:50:00Z

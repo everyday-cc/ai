@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/29/capital-one-exec-shares-why-build
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/29/capital-one-exec-shares-why-building-diverse-teams-in-ai-and-finance-is-so-crucial/amp/"
 type: article
 quality: 98
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/07/TeutaMercado_Headshot-1.png"
         width: 1200
         height: 687
-        isCached: true
-  - title: "AI’s Role in Diverse Hiring"
-    excerpt: "Are our efforts towards diverse hiring successful? We’re not perfect; we're human. So what role can AI play in truly fostering diversity in recruitment?"
-    publishedDateTime: 2021-07-27T14:00:00Z
-    webUrl: "https://recruitingdaily.com/ais-role-in-diverse-hiring/"
-    type: article
-    provider:
-      name: Recruiting News and Views @ RecruitingDaily
-      domain: recruitingdaily.com
-    quality: 37
-    images:
-      - url: "https://recruitingdaily.com/wp-content/uploads/sites/6/2021/07/AIs-Role-in-Diverse-Hiring.jpg"
-        width: 800
-        height: 510
         isCached: true
 
 secured: "RKuorGKKB8ubJ4c306aWh5krkeqhSS+AsyKiw4RQ7gATdkyGRO7hEjRYQmfHP4lRGeYilVS/IVo7PoEBfqjrXNoegPb8gLj9FfiP/iz1iUrS6yZK400j8sjYjkXHHuQInfZCQG5emrsRWvvQ2DSKtxM/ki9i2acGwnO6rKj7sNH9gOL7FvRTpZguXzkhPlahW7RTk4xrpdnidAp2O4Jouzl9H95PSIdmNWUxS18vj00Gsg0QQzn5dhWDxzIQ6UbM3eI2mqf+euRecaLxRgqvRoA6CHneLUHD1J2s24m8nyog3NCSRtYf9KuIPVdCWqa8qqcj0mH6T2HsAtMg0N61oTtfgVZ8cMXqXZHaOrpOOXJ/MUYI1J5/Z6RBADwBF0TJp3tHBeYMXMQ2Q/Vmz5xNrbSC92QUCyqRI/glnBPwkVJruOlhgvMP0yyVN0YeLOlgF2fKPOgExgUrQ6CWySUIUBZ7ArCK1/T9xudR6z54QabE4lrIJE0RwC0ooIzUih91K+zmtwtSDiquOgjFjBGOaw==;HoHsE4UYfffW3CBqZojHUA=="

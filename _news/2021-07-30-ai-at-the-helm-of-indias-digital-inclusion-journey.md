@@ -43,22 +43,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Tata Communications Launches IZO Financial Cloud Platform In India"
-    excerpt: "This platform aids in building an open banking ecosystem that offers BFSI and fintechs, the foundation to enable advanced digital services"
-    publishedDateTime: 2021-07-27T13:50:00Z
-    webUrl: "https://www.entrepreneur.com/article/378519"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/378519"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378519"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1627393841-marvin-meyer-SYTO3xs06fU-unsplash2.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "CBSE and Intel Launch Free Online Course on Artificial Intelligence in 11 Vernacular Languages"
     excerpt: "CBSE and Intel launch a free online course on artificial intelligence available in 11 vernacular languages that anyone interested can sign up for"
     publishedDateTime: 2021-07-29T13:15:00Z

@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk Sure Didn't Sound Certain About Full Self-Driving On Tesla's Earnings Call"
-    excerpt: "We need to make full self-driving work in order for it to be a compelling value proposition. Tesla has been selling this service for years now, and Elon is saying that for it to be a “compelling value,"
-    publishedDateTime: 2021-07-27T17:23:00Z
-    webUrl: "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575"
-    ampWebUrl: "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ee737fe843edf4adbb818837ad3846ca.png"
-        width: 800
-        height: 449
-        isCached: true
   - title: "Elon Musk announces Tesla's AI day next month to reveal the electric car maker's advancements with artificial intelligence and to recruit worldwide talent"
     excerpt: "Tesla CEO Elon Musk has confirmed Tesla will holds its AI day next month, on August 19. Musk said the event will focus on recruiting the best talent to work for Tesla."
     publishedDateTime: 2021-07-29T16:25:00Z

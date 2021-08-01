@@ -43,22 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How AI may be a game changer in fighting wildfires before they start"
-    excerpt: "Fire departments rely on the human eye or airplane flyovers to look for wildfires in hot zones. But AI could spot potential trouble before a fire even starts."
-    publishedDateTime: 2021-07-27T15:49:00Z
-    webUrl: "https://www.theweathernetwork.com/ca/news/article/how-ai-may-be-a-game-changer-in-fighting-wildfires-before-they-start-british-columbia-california"
-    ampWebUrl: "https://www.theweathernetwork.com/ca/amp/news/article/how-ai-may-be-a-game-changer-in-fighting-wildfires-before-they-start-british-columbia-california"
-    cdnAmpWebUrl: "https://www-theweathernetwork-com.cdn.ampproject.org/c/s/www.theweathernetwork.com/ca/amp/news/article/how-ai-may-be-a-game-changer-in-fighting-wildfires-before-they-start-british-columbia-california"
-    type: article
-    provider:
-      name: The Weather Network
-      domain: theweathernetwork.com
-    quality: 57
-    images:
-      - url: "https://images.twnmm.com/c55i45ef3o2a/bmO5O96zUwju5WRdS1OS7/a2d531eba8b999f5d7169b85f69ec3d1/Wildfire.jpg?fit=scale&w=600&q=80&fm=jpg&h=400"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "l4ZPhjom3SN6phHSoH6bH+GT0dxH9tbIFo0wfckTI4xes3BbBogvdXV2i5l6Pat5wFCiISdE7JKLvLfbwHtxCpsjavsERQ2+6y2ar/eF42kz+a3etR86m0RlC28VWDO35YFBZybf+UHa2qrVqiuP+R3s32KbM3L48tvlDRsZJpZYpsG8Tn4nKLhQp/YJRTJcnDV6vv+GyykYrGHySOwu82iALER4jJETZppWDdy67Ar4lLJnOdWg7KLJ41h8aXkNTYG7nWBpNU7SQ/zkimiPZTbH6ApJ3/YanPSfCZPEMIFxjErMqVhyfc/ze5UesQvRC3QVcSQxjLIbNf8rCFGD8M25IXy95vRDYpJ2BrdHwOWhuWtoZEEW21+W81wGtBWudknaV378C7roJE4K9CJKNTs8i0V76r8lVpyM59B481IW1/jbMqCMorsOqbYUAIcobT2xV8eferzDLNcCKFHxVc1yoPpX/DhI6BNLvUt+RTR0sxu4DsJCMjfOEMi92XFn8eJRH79OsL2FhQDYVaM4nw==;/j2+voIkNR+ehM0rXaMgcQ=="
 ---

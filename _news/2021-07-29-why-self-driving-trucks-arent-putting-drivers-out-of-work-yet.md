@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Faith in Self-Driving, Ride-Hailing Vehicles Depends on Age"
-    excerpt: "When self-driving cars first showed up, they were hailed as a way for seniors to remain active and independent without needed to be able to drive. After some initial skepticism by many, attitudes are changing,"
-    publishedDateTime: 2021-07-27T16:07:00Z
-    webUrl: "https://www.thedetroitbureau.com/2021/07/faith-in-self-driving-ride-hailing-vehicles-depends-on-age/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 39
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/07/NCOA-and-VW-study-graphic.jpg"
-        width: 1600
-        height: 1056
-        isCached: true
   - title: "Researchers Working to Improve Autonomous Vehicle Driving Vision in the Rain"
     excerpt: "Researchers are studying ways to improve the vision of autonomous cars operating in bad weather conditions of rain, snow and fog."
     publishedDateTime: 2021-07-29T17:40:00Z
@@ -52,6 +38,20 @@ related:
       - url: "https://www.aitrends.com/wp-content/uploads/2021/07/7-30BadWeatherDriving-2.jpeg"
         width: 550
         height: 366
+        isCached: true
+  - title: "How autonomous vehicles are changing the face of transportation"
+    excerpt: "Autonomous vehicles (AVs) technology is implemented in several types of vehicles fulfilling both commercial and personal transportation needs globally. They rely on AI and ML to increase the level of intelligence used by understanding human participation."
+    publishedDateTime: 2021-07-29T10:42:00Z
+    webUrl: "https://www.wipro.com/business-process/how-autonomous-vehicles-are-changing-the-face-of-transportation/"
+    type: article
+    provider:
+      name: Wipro
+      domain: wipro.com
+    quality: 24
+    images:
+      - url: "https://www.wipro.com/content/dam/nexus/en/service-lines/business-process/latest-thinking/og-how-autonomous-vehicles-are-changing-the-face-of-transportation-i-486694971-502x263.png"
+        width: 502
+        height: 263
         isCached: true
   - title: "Beijing permits self-driving vehicle testing on expressways"
     excerpt: "Driverless cars will soon hit expressways for testing in Chinese capital Beijing, as the municipal authority has approved the gradual opening of several expressway sections for unmanned vehicles."
@@ -67,24 +67,48 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trying out a self-driving robotaxi in China"
-    excerpt: "China has sped up efforts to develop self-driving cars, with domestic tech companies testing autonomous vehicles in recent years. Since 2019, tech giant Baidu has opened its robotaxi service to the general public in several cities in the country,"
-    publishedDateTime: 2021-07-30T15:58:00Z
-    webUrl: "https://news.cgtn.com/news/2021-07-31/Trying-out-a-self-driving-robotaxi-in-China-12l7RGMMNWM/index.html"
+  - title: "How the commercial vehicle sector is preparing for autonomous driving"
+    excerpt: "In many ways, trucks are a more viable focal point for the development of the artificial intelligence. More on CCJ."
+    publishedDateTime: 2021-07-29T17:18:00Z
+    webUrl: "https://www.ccjdigital.com/equipment-controls/article/15066682/how-the-trucking-industry-is-preparing-for-autonomous-driving"
     type: article
     provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 4
-  - title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
-    excerpt: "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with ..."
-    publishedDateTime: 2021-07-29T01:45:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 24
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/07/GettyImages_1130685915.60feb530e2e4d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Algorithm could improve how self-driving cars take on narrow streets"
+    excerpt: "By modeling different levels of driver cooperation, researchers hope to help autonomous vehicles safely and efficiently navigate situations where a driver’s temperament figures into decision-making."
+    publishedDateTime: 2021-07-30T17:44:00Z
+    webUrl: "https://gcn.com/articles/2021/07/30/ai-automated-vehicles.aspx"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 0
+      name: GCN
+      domain: gcn.com
+    quality: 24
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cities/street_parking.jpg"
+        width: 760
+        height: 368
+        isCached: true
+  - title: "Xiaomi’s Self-Driving Division to Develop L4 Autonomous Driving Technologies"
+    excerpt: "The self-driving division of Chinese handset maker Xiaomi will recruit 500 staffers to develop Level-4 autonomous driving technologies, founder Lei Jun said in his Weibo account today. The recruitment website for Beijing-based Xiaomi said the company is urgently seeking data center architects,"
+    publishedDateTime: 2021-07-28T12:38:00Z
+    webUrl: "https://www.yicaiglobal.com/news/xiaomi-self-driving-division-to-develop-l4-autonomous-driving-technologies-"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 21
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/xiaomi-self-driving-division-to-develop-l4-autonomous-driving-technologies-/15096304359178240.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "oMPIjPGORaxeuMoJbsv+oRNiHC8lwNJns2Cvn995fGx3OIt0E7VXPSEJCm0ZwfVx3I/pNgt7XIgTjTPZ/WbvUDlRDEz73G2VQG1xKIJtJO6zGYh8Ne0xOMkkrw9qI/t6KiGLWFiCtAxoNqUJ2P0ebFYmVAaS52yBMzulq6d2n87jOvcxgEdSlO/LHIoBly8MQRRNrtcLJz8z5apFj6QkjsHdNP+/wGpaYlRJevg1JOvEhFd4GGSJC6i2lBIa4eFdG5IvgJ+j57+Z0P2f+QDfYaBGM5609jPgOykQkdSYXJ9ARHMiS6sZAsfbfUNV3cwdyW2E6wRHCgus4i1nWgljBHUMEGZvw5lBvI/a7ZH68Q3cK6mvkII3WtZHwd5SJIAOJ7aEAQa97f/Hxksik5hOmiQQCOhRR9/78I2F7amuIaZe/XNZkUB3AaRQFjYbyf+qC1NVlxbtdPlySIICFWaiuMsBTBFNEEcOtwgCO3iQ7Q/zSCKaTqm5/F04n4HCoojbgZAYdh8SCJSEU2/Vh42+hw==;SqSYXKCPzR2103G7VQ0DgA=="
 ---

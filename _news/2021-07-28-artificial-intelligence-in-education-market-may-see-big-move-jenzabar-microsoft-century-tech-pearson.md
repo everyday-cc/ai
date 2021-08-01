@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Healthcare Market Is Booming Worldwide with Google, IBM, Microsoft, Sentrian"
-    excerpt: "The Global AI in Healthcare Market has witnessed continuous growth in the past few years and may grow further during the forecast period 2021 2026 A Latest intelligence report published by AMA Research with title AI in Healthcare Market Outlook"
-    publishedDateTime: 2021-07-27T16:41:00Z
-    webUrl: "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm"
-    ampWebUrl: "https://www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 85
-    images:
-      - url: "https://cdn.openpr.com/U/7/U727806452_g.jpg"
-        width: 800
-        height: 426
-        isCached: true
-  - title: "What Microsoft’s Nuance Acquisition Means for the Healthcare Industry"
-    excerpt: "The purchase gives the tech giant access to advanced speech recognition and artificial intelligence technology and expands its presence within the healthcare space."
-    publishedDateTime: 2021-07-27T20:18:00Z
-    webUrl: "https://healthtechmagazine.net/article/2021/07/what-microsofts-nuance-acquisition-means-healthcare-industry"
-    ampWebUrl: "https://healthtechmagazine.net/article/2021/07/what-microsofts-nuance-acquisition-means-healthcare-industry?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/07/what-microsofts-nuance-acquisition-means-healthcare-industry?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 76
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202107/microsoft-nuance.jpg?itok=VEp_fzYD"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "Design for responsible AI with Microsoft’s HAX"
     excerpt: "At the heart of HAX is a set of guidelines built from 18 best practices that you can use to guide interactions between users and your systems. They’re presente"
     publishedDateTime: 2021-07-28T10:00:00Z
@@ -84,34 +52,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Lanner Partners with Microsoft to Deliver Edge-to-Cloud AI Deployments"
-    excerpt: "Lanner Electronics announced its partnership with Microsoft Azure to launch Edge-to-Cloud AI Solution, integrating Lanner AI accelerated intelligent edge appliance with Azure IoT edge module, runtime and cloud interface."
-    publishedDateTime: 2021-07-27T15:52:00Z
-    webUrl: "https://www.automation.com/en-us/articles/july-2021/lanner-partners-microsoft-deliver-edge-cloud-ai"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 54
-    images:
-      - url: "https://www.automation.com/getmedia/6004257e-da72-452a-ba30-b0d426f4f6f8/Lanner-news-July-27-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
-  - title: "Lanner Partners with Microsoft to Deliver Edge-to-Cloud AI Deployments"
-    excerpt: "Lanner Electronics, a global leader in the design and manufacturing of intelligent edge computing appliances, announced today its partnership with Microsoft Azure to launch Edge-to-Cloud AI Solution,"
-    publishedDateTime: 2021-07-27T20:47:00Z
-    webUrl: "https://www.automationworld.com/supplier-news/news/21578545/lanner-electronics-lanner-partners-with-microsoft-to-deliver-edgetocloud-ai-deployments"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 54
-    images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/07/44019_Banner__1.610070cca981d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Company-X wows Microsoft with AI-powered medical diagnostic app"
     excerpt: "A prototype app using Microsoft Azure's artificial intelligence to diagnose pneumonia has won its developer an international award."
     publishedDateTime: 2021-07-29T00:34:00Z
@@ -126,19 +66,33 @@ related:
         width: 800
         height: 531
         isCached: true
-  - title: "Verified AI-900 Dumps - Prepare Your Microsoft AI-900 Exam In Short Period"
-    excerpt: "Use ExamsSpy verified Microsoft AI-900 dumps and get AI-900 exam success in first attempt. IT Industry is developing and evolving leaps and bounds every single day. To keep up with the demands of the industry and to stay ahead of the competition,"
-    publishedDateTime: 2021-07-27T14:42:00Z
-    webUrl: "https://www.madinamerica.com/author/verified-ai-900-dumps/"
+  - title: "Microsoft acquires AI business analytics start-up Suplari"
+    excerpt: "The software giant will add the Spend Intelligence Cloud from Suplari to its Dynamics 365 suite of business tools."
+    publishedDateTime: 2021-07-29T10:04:00Z
+    webUrl: "https://www.siliconrepublic.com/companies/microsoft-acquires-suplari"
     type: article
     provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 52
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
     images:
-      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/07/Founders-Picture-3-2018-1024x576-1.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Redapt, Inc Has Earned the Analytics on Advanced Specialization from Microsoft Azure"
+    excerpt: "Redapt, Inc today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and"
+    publishedDateTime: 2021-07-28T18:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/redapt-inc-has-earned-the-analytics-on-advanced-specialization-from-microsoft-azure/article_311cc286-1c9d-5ce5-b365-81655b95c021.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 47
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Artificial Intelligence in Precision Farming Market Giants Spending Is Going to Boom | Microsoft, IBM, Intel, SAP"
     excerpt: "The report presents an in-depth assessment of the Artificial Intelligence (AI) in Precision Farming Market including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
@@ -163,15 +117,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 32
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market 2021 Profitable Segments Breakdown | Microsoft, NVIDIA Corporation, IBM, Atomwise"
-    excerpt: "Latest added Artificial Intelligence (AI) in Drug Discovery Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
-    publishedDateTime: 2021-07-28T13:42:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-drug-discovery-market-2021-profitable-segments-breakdown-microsoft-nvidia-corporation-ibm-atomwise/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 19
   - title: "Conversational AI Market Review: Big, Bright and Booming | Microsoft, Oracle, IBM, Google LLC, SAP ERP, Baidu"
     excerpt: "The global Conversational AI Market size is expected to grow from USD XX billion in 2020 to USD 13.9 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 21.9% during the forecast period. Latest added Conversational AI Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027."
     publishedDateTime: 2021-07-30T10:35:00Z

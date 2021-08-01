@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo117537861795"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo117537861795"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI may be a game changer in fighting wildfires before they start"
-    excerpt: "Fire departments rely on the human eye or airplane flyovers to look for wildfires in hot zones. But AI could spot potential trouble before a fire even starts."
-    publishedDateTime: 2021-07-27T15:49:00Z
-    webUrl: "https://www.theweathernetwork.com/ca/news/article/how-ai-may-be-a-game-changer-in-fighting-wildfires-before-they-start-british-columbia-california"
-    ampWebUrl: "https://www.theweathernetwork.com/ca/amp/news/article/how-ai-may-be-a-game-changer-in-fighting-wildfires-before-they-start-british-columbia-california"
-    cdnAmpWebUrl: "https://www-theweathernetwork-com.cdn.ampproject.org/c/s/www.theweathernetwork.com/ca/amp/news/article/how-ai-may-be-a-game-changer-in-fighting-wildfires-before-they-start-british-columbia-california"
-    type: article
-    provider:
-      name: The Weather Network
-      domain: theweathernetwork.com
-    quality: 57
-    images:
-      - url: "https://images.twnmm.com/c55i45ef3o2a/bmO5O96zUwju5WRdS1OS7/a2d531eba8b999f5d7169b85f69ec3d1/Wildfire.jpg?fit=scale&w=600&q=80&fm=jpg&h=400"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Why self-driving cars could be going the way of the jetpack"
     excerpt: "Driverless cars were supposed to be relieving us of the stresses of driving by now – but safety issues and technological shortcomings are keeping the brakes firmly on"
     publishedDateTime: 2021-07-28T18:54:00Z

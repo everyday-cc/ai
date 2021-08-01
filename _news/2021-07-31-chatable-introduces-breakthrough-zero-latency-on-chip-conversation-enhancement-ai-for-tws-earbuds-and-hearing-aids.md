@@ -1,24 +1,23 @@
 ---
 category: news
 title: "Chatable Introduces Breakthrough Zero-Latency On-Chip Conversation Enhancement AI for TWS Earbuds and Hearing Aids"
-excerpt: "Chatable (H.A.A.C Ltd), an industry leading AI Start-up, announced today in a whitepaper – “Breaking Through the 6ms Latency Barrier” – a dramatic fundamental breakthrough in Artificial Intelligence (AI) for Conversation Enhancement."
-publishedDateTime: 2021-07-31T08:51:00Z
-originalUrl: "https://www.financialbuzz.com/chatable-introduces-breakthrough-zero-latency-on-chip-conversation-enhancement-ai-for-tws-earbuds-and-hearing-aids/"
-webUrl: "https://www.financialbuzz.com/chatable-introduces-breakthrough-zero-latency-on-chip-conversation-enhancement-ai-for-tws-earbuds-and-hearing-aids/"
+excerpt: "Chatable Introduces Breakthrough Zero-Latency On-Chip Conversation Enhancement AI for TWS Earbuds and Hearing Aids."
+publishedDateTime: 2021-07-30T17:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210730005011/en/Chatable-Introduces-Breakthrough-Zero-Latency-On-Chip-Conversation-Enhancement-AI-for-TWS-Earbuds-and-Hearing-Aids"
+webUrl: "https://www.businesswire.com/news/home/20210730005011/en/Chatable-Introduces-Breakthrough-Zero-Latency-On-Chip-Conversation-Enhancement-AI-for-TWS-Earbuds-and-Hearing-Aids"
 type: article
-quality: 14
-heat: 14
+quality: 12
+heat: 12
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI Hardware
+  - AI
 
-secured: "MmHJ8c4g22poeYDrD9XxKir725Hc62Ni0q5kwDh/kRokHwDvY7jvUKpKUKMdxFy/ysqwqsYMfqihRmbZ1gdw1gEQybv4OJLpgNemeheRTcvBnxh1Ogvw9Vxu6R9SH8SW0vlWG3/AVPkkAHNkx2rDCyPfQdDFpWlMHCz+2K6dCW6DQgxmoguoje4Lu7+X5+vw1G57ManETEg9ug+3gB9vq0Ru95kGcpLE6nmcHzPhwY4P6Mw5P1Tw2vYke4kc4ZLtMNdDsicyKnJzQAVk/tEeOBMhOnlb5UThvAbLMyywHyIm0WdbpLHkI1Iu1cz7JOI24a/szAIDHHJqi3PNtd/+5MCXzetfqvg9j+hHrUKDk8s=;/Vtmev5dqULD8tcUdEiu6Q=="
+secured: "8QjJqQ4qbXQ6t1rg+BUFtJp9JyoXPKMlmHAckuOTWnIs1w/MSOJ6Ynwi7akOfmNPT4xJvbTZcg0L6dCk0JMNNEjCCtoeT/h05V9skEusPKNI4+OKsho2IvUnv0XdeTGVCttHrqB6NgETR/qZPjGCDmV8JoiAmlBr4Jhq30oSRjPV5UUcvcouAHFyLGID5PrbKkhFdSRliFNpSFnV1RxxA8fLmHSh7KeGFhj3ZPaZSDu+0rHxLiUJQtjqwO63QfA2Ey7UN2NeXV5mf0Gv0t/NPcwx3ySmnvNdG7wf+9WbuGFgRl2CXtT/hAYRbnqdmyXDEBccUKQuMwfyMfzHl+JE+Nn8ikVi5h4EVHC5H1ivb9k=;KTxcdHf38FfxwFMPWtD1XQ=="
 ---
 

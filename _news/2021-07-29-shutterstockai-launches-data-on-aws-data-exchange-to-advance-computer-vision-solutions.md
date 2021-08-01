@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-la
 webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
 type: article
 quality: 93
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     height: 267
     isCached: true
 
-related:
-  - title: "Shutterstock acquires three AI-based marketing platforms"
-    excerpt: "Shutterstock Inc., a provider of stock photos, videos and other media, has formed an artificial intelligence division and acquired AI marketing platforms Pattern89, Datasine and Shotzr for a total $35 million."
-    publishedDateTime: 2021-07-27T21:43:00Z
-    webUrl: "https://www.bizjournals.com/newyork/news/2021/07/27/shutterstock-buys-three-ai-marketing-platforms.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
-
-secured: "b3ntXdQvWcAGD7dnpY/PB8Zu51gqrO7kKUeQiSSSX+mC+A2KAhZfS3ShK64OlcLclY4dyaWcdSkK3lGG9/Eg3ln3LK/+U485j8YTxeA8ZHbsvhRd8bIF87dzpJghQSA53pqbxWcAnghGiEu2Mj26/JbDItP2cPZ1CYxXH5FLFT4ow1kASFqw0g5g2r0Mr+t9gyUTQj4P7H1A1/fUXHRWWypKHRs6z6tJsGvl4njy6VvJYB3egt04Mu6yFFB72dr7JHiw1GQ+i9YPURle9Vcj63sl9whE1gPg5Cf5HblLhfm/KbHoNms6+iZZLQ6BNIYFQ4IjVOIXVeocCLXmD0Q5ye8TquZyr9wKan4+QxplT3U=;JISEy7mv3HLf615JwqehCA=="
+secured: "rSkWPOZ86qdO2O1U7LP2dB9bzxXIWmGywam5oXgGIvAYcJ9m/su2SQ44RHrCw6COV1E9hnzNnDoeNSaMuqzYNSwFM/vcBJ6myI+fwhxhGoYm7wjohsGnqzW9CMx52Kz0pMmYeaguux2O1yIvLa07xqoGKEJS303tEavBMdsBsA7ePVUPRfZdOGFPTqjd/j4R5n8B+vsQYjGZu0bxwykAO4420J4joUmXUs/FOetzhbP4kXhTtv+QMt63Ewy4hshamktcxBSzlO0ZimWQ/cWWpmYwwSfkQ2d+HPkkYuwJFStlzubT9TaimXPRNOjkc69gXYF8yRos0vne0OmpetFaJYvTOYHOqyQV5jIPSBdyYVs=;N/l2VsB+XZgbUq0euRR7Nw=="
 ---
 

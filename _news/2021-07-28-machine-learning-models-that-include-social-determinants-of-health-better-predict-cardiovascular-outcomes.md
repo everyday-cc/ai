@@ -26,22 +26,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Study on machine learning for cardiovascular disease"
-    excerpt: "Machine learning can accurately predict cardiovascular disease and guide treatment but models that incorporate social determinants of health better capture risk"
-    publishedDateTime: 2021-07-27T13:45:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270467880/study-on-machine-learning-for-cardiovascular-disease"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1627393354.jpg"
-        width: 630
-        height: 420
-        isCached: true
-
 secured: "r/+Kb9pYQj1N2Rr7hEJutBXZ0xrBSjVy//xq6KaPJC7xpduBV53UvXQU2SIDLkFhxZsaTk+/VudIBymjWFS4HuT47ld0DWWiSU8gI9qV8AQ6CFEhlf1cnMB/8elq1X2Za2O00gMBCwuWgmub76wrVmlDdJ/kwGgMu90T1x6aUH/xP29qs326aYGbJhFaP1lDDlKr23GTrDFC3pKD0/9J9spRtL/OTbCt8in7lzFeSTQ6Lf/0gplsZ2a4iFduKwQBcL+GA3ICVhE0GGqZRcOtgP4HJidWXHr944dkgU/IPeNBs4Pw62Sypph+1Y9M6vX6Zv5hs0OjUCtkHxmG6Zbfu3yUnO8TWgFI2UIOxn2HCQ8=;+sZY+Ohf2YkuSv5bfhx9yg=="
 ---
 

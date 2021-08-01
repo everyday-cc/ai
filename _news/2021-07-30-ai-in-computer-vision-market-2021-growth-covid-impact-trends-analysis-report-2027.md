@@ -74,20 +74,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 53
-  - title: "Artificial Intelligence Market Size, Key Company, Recent Trends, Segmentation and Regional Forecast till 2027"
-    excerpt: "The Global Artificial Intelligence Market to Touch USD 25 Billion at a 48% CAGR by 2023 North America to Dominate the"
-    publishedDateTime: 2021-07-27T13:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-key-company-recent-trends-segmentation-and-regional-forecast-till-2027-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Robot as a Service Market to Reach US$ 41.3 Billion by 2028"
     excerpt: "The global Robot as a Service market was valued at US$ 12.6 billion in 2020 and is expected to surpass US$ 41.3 billion by 2028, registering a CAGR of 15.9% during the forecast period (2021-2028), as highlighted in a report published by Coherent Market Insights."
     publishedDateTime: 2021-07-28T16:07:00Z

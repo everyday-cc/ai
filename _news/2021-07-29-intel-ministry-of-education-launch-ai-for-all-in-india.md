@@ -9,7 +9,7 @@ ampWebUrl: "https://m.freepressjournal.in/article/business/intel-ministry-of-edu
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/intel-ministry-of-education-launch-ai-for-all-in-india/5afa6e56-6c30-4b0e-a0fa-9867d94a8a12"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tata Communications Launches IZO Financial Cloud Platform In India"
-    excerpt: "This platform aids in building an open banking ecosystem that offers BFSI and fintechs, the foundation to enable advanced digital services"
-    publishedDateTime: 2021-07-27T13:50:00Z
-    webUrl: "https://www.entrepreneur.com/article/378519"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/378519"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378519"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1627393841-marvin-meyer-SYTO3xs06fU-unsplash2.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "AI at the helm of India’s digital inclusion journey"
     excerpt: "The Covid 19 pandemic has propelled the transition towards digital technologies and heightened use of the internet. According to the latest IAMAI-Kantar Cube report, the number of active internet users in India is likely"
     publishedDateTime: 2021-07-30T09:49:00Z

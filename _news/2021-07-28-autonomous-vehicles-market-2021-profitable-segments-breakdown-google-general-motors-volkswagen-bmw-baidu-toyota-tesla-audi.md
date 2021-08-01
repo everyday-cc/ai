@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/autonomous-vehicles-market-2021-profita
 webUrl: "https://manometcurrent.com/autonomous-vehicles-market-2021-profitable-segments-breakdown-google-general-motors-volkswagen-bmw-baidu-toyota-tesla-audi/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market 2021 Profitable Segments Breakdown | Microsoft, NVIDIA Corporation, IBM, Atomwise"
+    excerpt: "Latest added Artificial Intelligence (AI) in Drug Discovery Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
+    publishedDateTime: 2021-07-28T13:42:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-drug-discovery-market-2021-profitable-segments-breakdown-microsoft-nvidia-corporation-ibm-atomwise/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 19
 
 secured: "sNJC/4SvwAqLyT00wG4r1E5Phnamz2wvX0U/CwZJr1xZvZCqgae8HQLcg2pOvUXXZUw2H455saB9UdlLyfsutBx/UvRwJS6mWTsyBcYX1sLFnWk5Ce1xYv0WQVqYyH7EmNJnruTpA9ZQqhufThMkYTaroq8dRN7AxSkVwm1e4nn9zwCTlEX6upMYQBocsafDo+fO4Gr2tYEZFl9/90csik+lcReexkaK/JzYuuvxNboNvj2tv5DMg4n95Gux89tEeeJ5SXzO7IHLyHHr0DbDZ8OpfhhcSsKL8zPk+3s/4St924qxnA+ewo2eMoLBdQWjz01Rx7bA1T9w1bE0h+OY8t/5zF+erMr+wCj3CdJuoU8=;A04paITx2ZHtr/Egt6rEYg=="
 ---

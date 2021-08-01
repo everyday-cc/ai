@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/?amp=true"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "Bipedal robot developed at OSU makes history by learning to run, completing 5K"
-    excerpt: "Cassie the robot, invented at Oregon State University and produced by OSU spinout company Agility Robotics, has made history by traversing 5 kilometers, completing the route in just over 53 minutes."
-    publishedDateTime: 2021-07-27T16:03:00Z
-    webUrl: "https://ktvz.com/news/education/2021/07/27/bipedal-robot-developed-at-osu-makes-history-by-learning-to-run-completing-5k/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 37
-    images:
-      - url: "https://ktvz.b-cdn.net/2021/07/Cassie-OSU-robot-running.jpg"
-        width: 799
-        height: 533
-        isCached: true
 
 secured: "v/eufG4/CH9kUsWKFKFvPgpTDf/n3MwWoNnDVPZapYwrzqPke66XdC6UzPKA43Lh8wauUm7gElvT4eXiFWiEn/37kUcje6HVzkjHamGOU61mxoF+Ee0P9HCb3TNVYHk30AsoJRAxgDB9PWBsh1tWZM1MAyJMQJ8eAjXretBjJpRndeC4I6E/sUaW8IeyEhUX23ud8umnO6XR36x5kX6gx+/rAS/21xRzmPcbalR4eMukKYAWb5fG7vX77SqHpxOIza1WlwRkAub+GyMk+ZPyrzjluijL4i8BXHAFJUp3ETQsZzJrGP2QIItjpdV+RJs51IlCeDe4qDgG5v+z4BOQg06jdoovFisDpY6stjKH1JwcJzV7KcO48Qa7tanD/Zglj2XyxMAtrkrBDnR2NNd53+Q7fLoqShZQn9LYENnxLoPTyHPPPsLWEdwzWVSxLc1yxQ7QF0ceuTJU31eCj3I7keEWvQ+oc5N9xYgs+WrDKlnZxiw7I8+q7REkVDfG5d6+fuwRJ66NR28pmyjVd+ysog==;KT/XeE6brfI/0W8r4m4rnQ=="
 ---

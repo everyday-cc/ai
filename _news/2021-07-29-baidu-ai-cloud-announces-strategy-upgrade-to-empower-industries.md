@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM upgrades its Big Iron OS for better cloud, security, and AI support"
-    excerpt: "IBM continues to fine-tune its mainframe to keep it attractive to enterprise users interested in keeping the Big Iron in their cloud and AI-application development plans. The company released a new version of the mainframe operating system— z/OS V2."
-    publishedDateTime: 2021-07-27T22:16:00Z
-    webUrl: "https://www.networkworld.com/article/3626486/ibm-upgrades-its-big-iron-os-for-better-cloud-security-and-ai-support.html"
-    ampWebUrl: "https://www.networkworld.com/article/3626486/ibm-upgrades-its-big-iron-os-for-better-cloud-security-and-ai-support.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3626486/ibm-upgrades-its-big-iron-os-for-better-cloud-security-and-ai-support.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 78
-    images:
-      - url: "https://images.techhive.com/images/article/2015/08/thinkstockphotos-528443527-100610461-large.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "IBM upgrades Big Iron OS for better cloud, security and AI support"
     excerpt: "IBM continues to fine-tune its mainframe​ to keep it attractive to enterprise users interested in keeping the Big Iron in cloud and AI development plans."
     publishedDateTime: 2021-07-28T04:44:00Z

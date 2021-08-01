@@ -57,19 +57,19 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "SIA blasts misrepresentation of facial recognition studies"
-    excerpt: "Face biometrics are in fact highly accurate, and the leading commercial algorithms do not deliver biased results, the SIA states."
-    publishedDateTime: 2021-07-27T16:32:00Z
-    webUrl: "https://www.biometricupdate.com/202107/sia-blasts-misrepresentation-of-facial-recognition-studies"
+  - title: "China Supreme Court issues regulations against misuse of facial recognition technology"
+    excerpt: "The Supreme People's Court of China issued regulations Wednesday for use of facial recognition technology by private businesses. The guidelines require private businesses to receive consent from"
+    publishedDateTime: 2021-08-01T03:08:00Z
+    webUrl: "https://www.jurist.org/news/2021/08/china-supreme-court-issues-regulations-against-misuse-of-facial-recognition-technology/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
+      name: Jurist
+      domain: jurist.org
+    quality: 46
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2019/11/communications_technology_1574868315.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "China's top court outlines facial recognition infringement"
     excerpt: "ANN): China's top court issued a judicial interpretation on the handling of civil cases involving facial recognition on Wednesday (July 28), aiming to give stronger legal protection of personal information."

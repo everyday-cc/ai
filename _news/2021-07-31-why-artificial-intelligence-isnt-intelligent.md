@@ -3,12 +3,12 @@ category: news
 title: "Why Artificial Intelligence Isn’t Intelligent"
 excerpt: "Some AI experts think that the name itself is fueling the kind of hype and confusion that have led to ‘AI winters’ in the past"
 publishedDateTime: 2021-07-31T03:00:00Z
-originalUrl: "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050"
-webUrl: "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050"
+originalUrl: "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050?mod=tech_lead_pos10"
+webUrl: "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050?mod=tech_lead_pos10"
 ampWebUrl: "https://www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050"
 type: article
-quality: 89
+quality: 87
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -62,6 +61,6 @@ related:
         height: 591
         isCached: true
 
-secured: "TmqQZfZp8ubAoMb3YdP37DrURJE8GVj6PBuKRjoHdQZxWpeRlpqNfyxaidiHZzHko4dcGcnjj8kHh4zGbSFbZIRQHWt5J9wFPxN38+3xkHmaQi5mi5czXJ0SQmG7KZPwE4X9N72i5VlfWAUPTu5cHEx9YdcvKuk5UQYM77xeUieOD1p/myjnkZ6o+Vmtrc4w2MRtDb1BQT4c4IQPSh1OwMH4fiDuj6wH7Hjh1QtQXiSXLn22iTIQQFgOo6XsYsUlvhiLsRaGbCaEe0ewk6ayFtyhKpWZ5Hbph3BtIrMalNMRpoUxQvE0Rq7oqG0LVVIGHBZK5wV4VH13Yocu85AkWK2mdlX6zukSP1swzHJffPBAD0GJWsWigb7f/tdToBUHQAewb+y2HFFBAsDl40UzdR57/ynEjJOx3N/D9wcU+ek/lwM2XdrvylvFP4KWaNAsQAEn46MSryuaJeGU0LZKeA79xnAG0+XJpUXQLg/nbjpp8XU58TzaYQu71LrxzlezfE2b3DUh5/k5Q/4l6j9l5w==;gHPpicLCJM3LIl0ZZB49xA=="
+secured: "mw8zOfwl76/MUMUW6oMA1LVQ7aQBNYZlWr9bCxTz5Pe3b53ZXdpQ7d7TMRIdxZSEOLBK2mgCg7wlv7C9WKe948krXWc6O8JNNGD+jZSgwk5iLNg9XAVbmIHgtC2kzcxE3zH/Muo4+PV1S2ss/IwhGUVFzIik7zZzOiUvhCRsQaBcpuNNtZcNms5sZ7Amw0PP1Hr6dS4Y0N9cV5shQBcrluhMzSvOElLV4cLvAIW0LKFY6usCz1ggqNYUSUXAq9FyylErNKJ2mqTDfewaDCdjoO8lKCf3P0k+NaDFisUkDhGLrtZgCwIj+xAtaM/5OYsznIONH9aV4pdfe2hPo4KOLZ0nGe4Cq30qflf7mkEppyw=;5CsPSyTa8OsqkBbNgOeOKQ=="
 ---
 

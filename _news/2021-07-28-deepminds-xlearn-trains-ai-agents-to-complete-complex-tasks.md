@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/28/deepminds-xlearn-trains-ai-agents
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/28/deepminds-xlearn-trains-ai-agents-to-complete-complex-tasks/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind’s Vibrant New Virtual World Trains Flexible AI With Endless Play"
+    excerpt: "Algorithms played around 700,000 games in 4,000 worlds. Notably, they developed a general skillset not related to any one game, but useful in all of them."
+    publishedDateTime: 2021-08-01T14:00:00Z
+    webUrl: "https://singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/"
+    ampWebUrl: "https://singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 73
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/07/deepmind-xland-artificial-intelligence-ai-training-virtual-world.jpeg"
+        width: 1408
+        height: 792
+        isCached: true
   - title: "DeepMind’s XLearn trains AI agents to complete complex tasks"
     excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DeepMind designed a virtual environment called XLand to train systems to succeed at problems and ..."
     publishedDateTime: 2021-07-29T04:26:00Z

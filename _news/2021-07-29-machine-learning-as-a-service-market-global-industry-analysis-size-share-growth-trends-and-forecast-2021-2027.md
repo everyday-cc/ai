@@ -74,20 +74,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 53
-  - title: "Artificial Intelligence Market Size, Key Company, Recent Trends, Segmentation and Regional Forecast till 2027"
-    excerpt: "The Global Artificial Intelligence Market to Touch USD 25 Billion at a 48% CAGR by 2023 North America to Dominate the"
-    publishedDateTime: 2021-07-27T13:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-key-company-recent-trends-segmentation-and-regional-forecast-till-2027-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI In Computer Vision Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "The Global Artificial Intelligence AI in Computer Market Vision estimated at US 7 3 Billion in the year 2020 is projected to reach a revised size of US 84 4 Billion by 2027 growing at a CAGR of 41 over"
     publishedDateTime: 2021-07-30T14:59:00Z

@@ -50,20 +50,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 36
-  - title: "Fintech trade group taps chief executive"
-    excerpt: "The Financial Technology Association has tapped Penny Lee to become the newly formed lobbying group’s first chief executive. Lee most recently led the public affairs practice group at Invariant, and before that worked for the tech incubator 1776,"
-    publishedDateTime: 2021-07-27T21:50:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-influence/2021/07/27/fintech-trade-group-taps-chief-executive-796750"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 24
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
 secured: "IXQ7ZnCiLStjNPa5VYfYfuK3IuJB7TDiZT04PCZTyR7G6Cj7cmk+qOzaVZUhHTj1aNmvFp3O+YEJjJGZQXzqjoiMeg4ZmeuTIuWj+U1aLXPGrrOhiUfL3Mv+HKcTDhLYF2FViipw0p+J1uKUZBC/Ma/NIYllLMx8yHi0J6KjN2yqx+Ub5+tlHUMOQd0ellWn70jeR/wnE0LJm6KqasEGwYie+4ipRXpg5OiLbqyQ+tzJHb4DjPAMBDN4bTbKQBvh8zAIMp+TF6vz5WEeMympPWy2mnfqp252Te659QQBy7l1H4eTwhi6GUeFjMQ9uhvw+0ugOh7lWdunfHKNiN2mdcw8DZsuKh1xqhyyyd+DoV8ZR9WzeK/u/YxHgG/UfnJIx2lhPHBxnAlg6bvNuyzKVDtPSvppUCkoqV+SBZPEnQwNtyunVMhCqaPo7htJ3hvA9Sr3yqcwGBRnPzlsPK2ax1eoQVxVUoC/6tmZG3Wp0kvccw30neJqOEFbk/zo1W5eBBIDX6ZcveQkw3lq2T3dRg==;4yvsCX7s2vu+c9lhSjIYmA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/3626931/abu-dhabi-terminals-boosts-autom
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3626931/abu-dhabi-terminals-boosts-automation-with-ai-based-container-tracking.amp.html"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,33 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Botkeeper Partners with Vic.ai to Evolve Accounting Automation"
-    excerpt: "Integrating Vic.ai into the Botkeeper Operating System provides accountants with enhanced autonomous invoice processing and real-time insights. The combination of Botkeeper and Vic.ai will bring the largest source of data together in a progressively smarter platform,"
-    publishedDateTime: 2021-07-27T20:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/botkeeper-partners-with-vic-ai-to-evolve-accounting-automation-1030652345"
+  - title: "Nintex launches AI-based capabilities and integrations within Nintex Workflow Cloud"
+    excerpt: "Nintex, the global standard for process management and automation, today announced the latest enhancements to its next generation Nintex Workflow Cloud, designed for ops, IT, process professionals and power users to improve the way people work by making it faster and easier to manage,"
+    publishedDateTime: 2021-07-28T04:43:00Z
+    webUrl: "https://itwire.com/cloud/nintex-launches-ai-based-capabilities-and-integrations-within-nintex-workflow-cloud.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: ITWire
+      domain: itwire.com
+    quality: 33
     images:
-      - url: "https://mma.prnewswire.com/media/1581808/Vic_Ai__type__Color.jpg"
-        width: 400
-        height: 273
-        isCached: true
-  - title: "Bic uses Azure and AI to create next generation shaving experiences"
-    excerpt: "Global manufacturer Bic is using the Microsoft Azure cloud and artificial intelligence (AI) to develop the next generation of smart shavers. In partnership with Satori Analytics, the firm invited its customers into the product innovation process."
-    publishedDateTime: 2021-07-28T10:25:00Z
-    webUrl: "https://www.technologyrecord.com/Article/bic-uses-azure-and-ai-to-create-next-generation-shaving-experiences-125106"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 54
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10433/img-Bic-razor_web.jpg"
-        width: 940
-        height: 443
+      - url: "https://itwire.com/media/k2/items/cache/d5c046f2bd8e5857967d24b3bf3cbb2e_M.jpg"
+        width: 375
+        height: 375
         isCached: true
 
 secured: "fy7d8BK4W/1+7OOCdpuQifmT+Y61T9ufF/tFft1sPtB6T+XOUDvm3s70ud9z9NEN13V6yfNtnpiULLnVGH9rYsytoH9iJ8srygb08FQcdayVi3MUeg3me33SKbl/d5xfXhbjzVusQTkq3iv42Iz1PFtoE9HZ/JvZ1uAUTTjrn4kUqQgEGvMMjvjmMB/D9xZ/+G7GkhPFhjcfJ/aRqxVfOEhlBQtif/OrO6scRnyIH5qswnJdeWy6LxSwlmOgZqHvhXoKfqj+CqRrfIMcTMWCiKnFqOlUtGT+izaAzKkupq3lwgoE0n9APplCJXQOjmxDjQKRWv26YpkSPxmHS0uJdihdP980RYSZt4kslsq4Jg0MUkpIeKahgKJX3Mqo5vw2iQiUkf4Ln8ivXEKBr5FrOkCDNHhNLUHUHNZFxYNd/mb+JQ9kM8OVLUaIjKGChC9J+H1AeErcbkQruOR73wN/rLLWGyJNdAVVno9eSp1VyUX7sMCWEFsJX8Rn35Oyk//zG/47Z3z7O3KRkK/AqWIfVA==;n525O3qPnWRkBLVWo9dOJg=="

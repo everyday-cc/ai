@@ -1,81 +1,26 @@
 ---
 category: news
 title: "6 Startups That Are Reinventing Markets with Artificial Intelligence in 2021"
-excerpt: "With the evolution of technology, every business is now moving forward to incorporate artificial intelligence in a way that provides a seamless"
+excerpt: "Here, we’ve mentioned 6 best startups that are reinventing markets with artificial intelligence. If you presume that all companies"
 publishedDateTime: 2021-07-26T17:38:00Z
-originalUrl: "https://www.entrepreneur.com/article/378434"
-webUrl: "https://www.entrepreneur.com/article/378434"
-ampWebUrl: "https://www.entrepreneur.com/amphtml/378434"
-cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378434"
+originalUrl: "https://www.valuewalk.com/6-startups-reinventing-markets-ai-2021/"
+webUrl: "https://www.valuewalk.com/6-startups-reinventing-markets-ai-2021/"
 type: article
-quality: 86
-heat: -1
-published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ValueWalk
+  domain: valuewalk.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-378434.jpeg?width=600&crop=16:9"
-    width: 600
-    height: 338
+  - url: "https://www.valuewalk.com/wp-content/uploads/2020/03/artificial_intelligence_1585667373.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
-related:
-  - title: "An AI Road Map Starts With Data"
-    excerpt: "AI should be a priority for businesses. However, this game-changing set of technologies requires a solid data foundation, and businesses need to bolster their data engineering capabilities before they take on AI initiatives."
-    publishedDateTime: 2021-07-27T11:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeee92c240fb26d335a07a%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Artificial Intelligence Assists with EHR Data Organization"
-    excerpt: "Researchers are developing a method of artificial intelligence to help physicians efficiently and effectively sort through electronic health records."
-    publishedDateTime: 2021-07-27T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-assists-with-ehr-data-organization"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-538998185.jpg"
-        width: 690
-        height: 397
-        isCached: true
-  - title: "NIST starts work on artificial intelligence risk management framework"
-    excerpt: "The US NIST has made a Request for Information (RFI) call, as it commences the development of a risk management framework for artificial intelligence. Through the RFI, which appears in the Federal Register,"
-    publishedDateTime: 2021-07-30T09:02:00Z
-    webUrl: "https://continuitycentral.com/index.php/news/erm-news/6511-nist-starts-work-on-artificial-intelligence-risk-management-framework"
-    type: article
-    provider:
-      name: continuitycentral.com
-      domain: continuitycentral.com
-    quality: 37
-    images:
-      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-
-secured: "0yw8bk7NDI7AdOgcE5pI/uQ0H2CWoa3R1wdmVFFlMnCtuWoWIZiYZ0mV3YokaQJXzS29y50cZKl3Qt2wFLHN+C30Ex/DjQMJiIwvINboEaS/3NWf3ouBQuyMeGJuqlaQz1+440MeylJykO7CzfWWUFa2CGNe9h8vTuSLcOqO9ZqlnjqnpJwqofetCKjtEx1egozu/5hTKh2AQd0dOw7vsc7cl1OBiDbzfcuMsTivI3N8w9PD4FsgU2l+G7N6JkLqPk7guVgoMICFHAX90jKMS2QbhlZK92OpQTnW59lKScq+ULWbHtnBm5ZXxm4sVGGhYWRSwfdlJJV1ZyTbbiei+AYcwiLCB7mRQymhno2T/iBNe+qAW6Urk+B10EnNznsF450zoSifkmUTjy8scX57ZzkyluHZ5nf3wf+IOJEMi6548I8Hmcg4+cAoPGcsfXjUr6uh4jG5kJvVzbw7phHnqbqo4c4nTriREMt4LhPMC7G0be0XujTdagV/MapJL1rxVvJPBswBSGF/ueNhLcoWfg==;IS4tKOTIYg3DbUnFixLKRQ=="
+secured: "Z6mvrw3IAHidnH+Kyz2mCO5bgHFJYzERL55MtBQaBU0K7Hz3yeHO67addObFOKB3yt0wjVHQsncK2K7PH3Hv2LKBdVImljGZ/NN+LQ4oYeluhxD5u6eRh9DQr9wX0ExWSz27F3+ePkgpRCGuiNFYDvTTiLi9V6bk7hA+7KIpN4uMG+A+NwGjxgfhOFqmOmOzkmjEDMgyVVYEs0yaHMDj9Qd8XbnINc4nCLg3FjDgA6/ZgYt5cW/WiHQ96Go39N8PU9C52WbrqE88wkua60JQtUPSFMkoQmm31nYUghVooOc9Z8UZd3AiXqpzOFTdRUmMXffaWXQMPz9rCVfbxvrdA2Axm1uC5Iw51PRmVTzqvdw=;9bRQfMMvqSUqKk38d98LXQ=="
 ---
 

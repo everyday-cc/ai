@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-ava
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Action Mode: Now, an Artificial Intelligence model for disaster risk prediction"
-    excerpt: "A model solution has been developed under the Microsoft AI for Humanitarian Action programme to build disaster resilient communities in India"
-    publishedDateTime: 2021-07-27T13:43:00Z
-    webUrl: "https://www.financialexpress.com/industry/action-mode-now-an-artificial-intelligence-model-for-disaster-risk-prediction/2298871/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 33
-    images:
-      - url: "https://images.financialexpress.com/2021/06/Artificial-intelligence.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "aCVl069EEMz6uY9nkd5kpimS2CHoWNX6nC9CYQomN120y/vSHuQZ3mutkG1yJgJIWA5JCHz0ch+MCv2ullLToWg6D+InJqCRzwlPMcazxLJHXzmltuqV6fU8o3aJ4GMDacle+Jd465n1tie+OadVDTWDEb2I9NNizQ55zH7+/hMD4DDG0hhOkwdLaclD+cc8S3vNBXcXnONbOIck33tA0LopntnXgMsk7SvY2DO1797ehUtxkwUuScajpryhamJc1PjoF0vL2/qoVtPKG1dwsqBL5zE3Mu5nlrzSZVAWpaY4fBu3ofCcmu9+Hr/uy047NMMSoiI2eL5gzGo+rL7E59vGXxBrXbmkwwwb8+XnGbT6eNT04EfEoC61EmaUlpQrGVnIG38EHAxN2yVIr+4NOM4gHM8kcvlSqKwrqAs0ihGrt9r3Iv2iy4xEqf8B/UlGIFG5cn023pJW/HVqsbTpCodKiRlPbFWZSVBAeDKLwDDe5O6YPvpdD0xZF7+60WbiW8j1SIHFeJjEngondSCdXg==;uIugI1RzObr21uP0QiCiBA=="
 ---

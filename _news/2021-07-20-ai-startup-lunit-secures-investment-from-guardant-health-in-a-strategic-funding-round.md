@@ -1,25 +1,25 @@
 ---
 category: news
 title: "AI Startup Lunit Secures Investment from Guardant Health in a Strategic Funding Round"
-excerpt: "Lunit, a leading AI startup in AI-powered cancer solutions, today announced a strategic investment of $26 million from Guardant Health, Inc. (Nasdaq:"
-publishedDateTime: 2021-07-19T22:38:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round/article_7e7e3703-e91a-5ce2-b0c9-669d388bd261.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round/article_7e7e3703-e91a-5ce2-b0c9-669d388bd261.html"
+excerpt: "Lunit, a leading AI startup in AI-powered cancer solutions, today announced a strategic investment of $26 million from Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company. The deal,"
+publishedDateTime: 2021-07-19T22:39:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-ccab9c3ab8adb05489bd687255293d68"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-ccab9c3ab8adb05489bd687255293d68"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e4/ce457a5f-490b-582e-83af-d4d14f85bf28/60f57ed1f041a.image.jpg?resize=805%2C380"
-    width: 805
-    height: 380
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "jtGt+RMKYPLJMs93TGVnClEyIdFFoxuMckcv4Bi+AhhIAG4y/jpPJwJwIqaH4Kolx0y6y0Ai8VxqMU4RTFUmhsdpGybneOJMxU8Wim9RhdFJJThoi2uYV4NBZSAsYEkqavbJr0PwLBduAvVdUR+BJH04govoeb55pvvAaWVtsKbowwCV11M9wi0C0PylGmvWFL5FSC3xStOwV5iX1fwCywsp2pvJ6AUCAqRkvRQX6vueLdTfAoVNEhGslT1Eu9psSuQgwSW5AR1IYwJEguw9H4QtzFH+QkYBPQjNJdiJ5OC/ugfZYfHiQ5zRWwDiUeTod8z16iVZDmvpUZ/VUCnV+/0TIWuti9M52j4B8zW/9UY=;yDY5bwtOLv2DUKxm4xObmw=="
+secured: "7qXPlZy8O629CmD8nphr4Yb6nnpBibKFfWGEWKNsRRj8N9QOUJQcSD5swY5zXBLTFEcUo/MV/rK7JlwH2xJ4pvhD1i20QbmX3qWJl2cDBXqt8TJO6uXd9pcf5249cEh+LKgzbiZZIvyn6V6fpriX6H3Rk9IDRZC4RtYBO7sXNzsAbgQbWnmU3Yr9u7iRfsYHdDrgRH9/8TOw5PUYo0RzxoGqD84yHZ5fxvM56rKtZ+NWfcDpM0S4S2fkiWJAqm/qhEw2XLFHhJ3kAxUdLuT38AOm5uOQrmPoT8HZJPoa6D3ZypOnQnya47VaW/z7+qquTJrySEZ5Lur/9gTzU6BCPA5EHUcXZ81io6s/B5zBItk=;3d2bQKVIbZhUaeEYeVQrqA=="
 ---
 

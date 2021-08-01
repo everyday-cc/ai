@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk?amp=1"
 type: article
 quality: 104
-heat: 164
+heat: 155
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://thedriven.io/wp-content/uploads/2021/07/E58Je5fXEAElOQR.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Elon Musk Sure Didn't Sound Certain About Full Self-Driving On Tesla's Earnings Call"
-    excerpt: "We need to make full self-driving work in order for it to be a compelling value proposition. Tesla has been selling this service for years now, and Elon is saying that for it to be a “compelling value,"
-    publishedDateTime: 2021-07-27T17:23:00Z
-    webUrl: "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575"
-    ampWebUrl: "https://jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-sure-didnt-sound-certain-about-full-self-driv-1847370575/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ee737fe843edf4adbb818837ad3846ca.png"
-        width: 800
-        height: 449
         isCached: true
   - title: "Royal Commission says artificial intelligence won't be used on abuse testimony"
     excerpt: "The Royal Commission into historic abuse in care says artificial intelligence used to analyse documents will not review survivors' written submissions."

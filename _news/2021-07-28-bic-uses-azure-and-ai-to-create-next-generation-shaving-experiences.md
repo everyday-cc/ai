@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyrecord.com/Article/bic-uses-azure-and-ai-to-
 webUrl: "https://www.technologyrecord.com/Article/bic-uses-azure-and-ai-to-create-next-generation-shaving-experiences-125106"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Botkeeper Partners with Vic.ai to Evolve Accounting Automation"
-    excerpt: "Integrating Vic.ai into the Botkeeper Operating System provides accountants with enhanced autonomous invoice processing and real-time insights. The combination of Botkeeper and Vic.ai will bring the largest source of data together in a progressively smarter platform,"
-    publishedDateTime: 2021-07-27T20:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/botkeeper-partners-with-vic-ai-to-evolve-accounting-automation-1030652345"
+  - title: "Accelerate Artificial Intelligence Initiatives with DDN and NVIDIA at Any Scale"
+    excerpt: "In this whitepaper, DDN and NVIDIA invited ESG to interview several of their joint customers that have been running production AI environments to better understand their needs and to confirm the value that DDN and NVIDIA are providing."
+    publishedDateTime: 2021-07-28T22:56:00Z
+    webUrl: "https://insidehpc.com/white-paper/accelerate-artificial-intelligence-initiatives-with-ddn-and-nvidia-at-any-scale/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 33
     images:
-      - url: "https://mma.prnewswire.com/media/1581808/Vic_Ai__type__Color.jpg"
-        width: 400
-        height: 273
-        isCached: true
-  - title: "Abu Dhabi Terminals boosts automation with AI-based container tracking"
-    excerpt: "Abu Dhabi Terminals has already invested heavily in automation, and is now further automating its port management capabilities by deploying AI for smart container tracking and autonomous shuttle capabilities."
-    publishedDateTime: 2021-07-28T02:00:00Z
-    webUrl: "https://www.cio.com/article/3626931/abu-dhabi-terminals-boosts-automation-with-ai-based-container-tracking.html"
-    ampWebUrl: "https://www.cio.com/article/3626931/abu-dhabi-terminals-boosts-automation-with-ai-based-container-tracking.amp.html"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3626931/abu-dhabi-terminals-boosts-automation-with-ai-based-container-tracking.amp.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/07/abu-dhabi-terminals-100896923-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://insidehpc.com/wp-content/uploads/2021/07/DDN-Accelerate-Artificial-Intelligence-WP-Cover.png"
+        width: 455
+        height: 600
         isCached: true
 
 secured: "QDHK3ZZSZWfDV6I57MvRUQNdev3RUZGfe1QkfeuzybNO14R0S20/gvGhAmHT5IziLRN4VqSUwMG1EtpVPgxfqZyOmMBijVOdaiKtaeTEqfNjmSmszU3Omrprx86oy9BjTGEJqGqB5TxYHc189kBqXPIPEvWv2MJc8VAMa86upZzEKOz9eHiyVMIvt2G+6gxrT7OFAw0glgYaHhoHlqHuwxJp+Ba3ObJU1S6Wd2yOqwLRF8nRN1Xm9DGiRbnL2uTpme88QhAlLq54J5yfouZYPXgWVeURCtePwcbQDkFg1dHuoS2ysgixRSbjMqdaw12VfzEdqWSuT9vE91xtzsYGnaLhVMgpjrz4C3/j7rmppMfFeDI4GyDHko4X03PeOnYQ/plBmxgja4aetxLgvCOvRoNDBRMMdbevxeBPY999IBhRODAfkoXvn+Ev/Ne1PGtLF+VAfqro0StarMPA4WyCcQKVBb4xVcTH8An0GUhhVglmdILcGsWjdqHAi+uU8kTAT2QIRiW1TXeMChhOFvDC/g==;X1lvU4zeSOqmQix3X/N4KA=="
