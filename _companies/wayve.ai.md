@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "wayve_ai"
   url: "https://twitter.com/wayve_ai"
-  followers: 2476
+  followers: 2477
 
 size: 11-50 employees
 yearFounded: 2017
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "DokHlF+QMB1wrOtIqUKwc+F49G33PgM2iwlMyAF5qjkX/Vk6nwlPSooFPcs7vmvSQybCMVvJwIVWd9hKj26/dL06ckSIhrDB2QW8XJvnBRT8heCnlAzbwhBBV4RBWDUbvzcrApJJqD0qFu3M1VckIcvn5yPu/unkDxF+5yzW8+p64LoHaF5f4uimP1VCYBZoUrRv2M2u7JDR1ryZGvKru02VhE4bVqIYwv0Fz+cUDK36sdhzkcy+GurGrSjMM11EBJDSv7JRA/7tRFXpD25blASZIAd7aXcxcdW7VFTUolL5diV6/bb7HUp7NMKOSBVYfHJIe0fXZc9RBGydjCJRd4C+13HcIm1uxZV00l2dy7BQL9S4S4vwGFIeqUHoh86AGSKazctvSUqgjMokhF5zTjGtiwqy6Dcc6sDKePI3Xlk=;Gglk1oQ4htQWvDGjEzrm8Q=="
+secured: "OxbZkfcjm+EYgbG1LpWvpjiuCsCAAMLFC0cGqqzXCcGBp2g0qhyYTSwSOtwTX+6my9EJo2ErMO7zaYxnj0l5/fUCHumux4iXg1Y0fnt9H9agEuxNHH90eBRVgPxMUPZ04cOGboB3Qd0D/3TlPMjDNUqRyQJ42vUCOv/Fo/JFItqj9JXyxJI01pRJ+9LYUVxswHSFh6NctUx9ROriOXWq/qc/u4Ot+la1cDjQMIvUxgAdTNDHHtyYGcIbL/Vy3wAsQX/bnKhicxDY/2/ed+SphPgG88G/x9warmXV7Qbk2YWyBVdJncWN+UgM/CcM/ooT5yL1Mbey3V9PwnT4mZpA9QnZgA6g7C07DY5MfQagq81uqnA/4hqI644Gi90ha0ZHzwiRvf02JdDDCty3FC5aSNrwwayaPeG0lSazT/GE0II=;6PHJ+HcD0Eycw+GFwfDBgw=="
 ---
 

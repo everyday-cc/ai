@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Prophesee_ai"
   url: "https://twitter.com/Prophesee_ai"
-  followers: 1334
+  followers: 1335
 
 size: 51-200 employees
 yearFounded: 2014
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=L7DsXXUyRis"
 
-secured: "G+Un6JiQLBPuhbIJ39uGtlUtPumL1mZXQFl1L4hbS1nFLsnM9Ey26FHSPV1yrwsAeihRtXkQtSZ/K85treZatkKTDfTdEnE/ty2XaJ7dF+pDL9TJB1qy6XE8JekHvSBPGz753Y+0USZDaA6EcCLvyZoroY3FGtTEbgPJfI5EMAaO9GrvnQ+gIW7mawqQ8b0nPi4Sbg1Reg+fIsycL0KW51mZFs0UlFeh/ohWzcZ+YW+7+s+MlCkEwZlKg/FlflqThSxsYq2+F3v5WN/BPNi0aBFsgEAutUN68sVSbRiyufsHIRupeW4F8Srvt7o0Vay6eDi8QHchGO7pgfTz7F1PHgNAKVipskKmJtAp2FTUuDli+NNlHRjLvrswik8roRNU0fttjZAS7Bdwhl19mbgVBlDXHedPjqqWzLvThTM40Pw=;xlr8RawoSHgGrNAwBxMzkg=="
+secured: "FCoowEyuTwGQ4uwQe3qrP4DoEHVElUng9GqbNGjvSlR0XRpozkA9wbSXWpUm7q+aXA7NDfgmzyRMF8rBsYQuYBTM8iLBG/aMVt8/3JKoIv7e2c3a7/8XJ0VU4uyQI8jasl6zXf6Gb9VhtCEmP4ZC+hqPTNNmftxoV4HFQ3llgeYQ6Hfx4ekLJE/gX96hAemGiScLMBJJOSa1J6gIToqsUMJFXb3/8TwrT2mZqTGqOrCbATaE20Her2d+OHQCltkfZM0Y5iOep0flmPZYNwPYSxGYynf/gVTIpZxlwX8rdgJjCrvtirRngmafnoGnkgHWzdBOJNJ1fhUZ6Y6OnoqeJnhXEd8XTVIvstVgpjd1NAQp5yrSmCVxAi/cJcb6XpkhmWoTNwcLO6kr90fudW3EJi9GrWnyuUw8UFwAQZStS5Y=;eV3wJ0Y76fAD7n8G2ygqRA=="
 ---
 

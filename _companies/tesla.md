@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 570
+heat: 575
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 10652031
+  followers: 10652758
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "kOvXYPAz2snlPRmOui7Z1JdHlBpRISmj/e/EykVKSIrzts0PehVR2XMnzws6PDPOefhhTuQEUixzzk04zfQxvqXpeqPpCEEKEBykQ9utknNTZxmtoeWGjqIuJIy4/9B1zXqAeoPg6YOfdqNHdGfmMP/MtY6bz8R18JsfQvAoOCa5pNDQia5x9Q5KeUHrtmpLE1K1upLhKEv9zHOk/iPbO/JM0Q6JAuYvB5+9xFk6bpmp9rf8HkCHN3Q/0r3zw6G8l6vjLYMIR1gJ2w5R7mLkHr2QnxAG4BDlUXsxVzcR/biOYeZtCHs+z/oBDcmqgsZNqOX0vigVoOHorTAvaVVvwB2KJrVH29+rFWUpNt3OtOqCBb7RY6ANrRhsJus2lY6q60zYXLl4lYTLoAZgTev02F7s1OHiJ5qVFgN5NDwcRyE=;m9ZR77uCPZe6oHjgEV9yUQ=="
+secured: "G6EdE/zE8y5o/4GSX9W5Oi4lBubJX5ss7XFzNRA0/11ZT6J5f3sScIwCwCI5O17Hpariu+oCMMKUorSSIFFATj303kfP/fRjj+X5kL34HApVGU2JV4Aro/N22/mRFlm0PpYfVFcz1Adgr00Ga50d+CXa0zQIYJauht6aZxe1Rf0E10wBP+Ba/6OjBawBEDn9MfXayDdZUfc9vYS8FXzFmhdspy4+ssqoZ88b2Vks1gZCaCfqooLB7lErz1lGuFqpUkM39YsnuvmM9GYktO0utjuw7YIsiebRMffjIqFvivvRJ5EVvPDxm+4PQic4iqaEMQIu7+cgcSlu1TgpyEGrcZ/53zlVzviCovtlNyfBO8CK1ve3d0c+Pto+YRjOsIyIViu7Sx4B94YFBKIg2SFkSwshKi3uF4As4y8LMNP9ghQ=;Qpcp5+HM/ObIN/dUtrZSog=="
 ---
 
