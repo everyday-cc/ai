@@ -14,7 +14,8 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Computer Vision
 
-secured: "fIg6bqBePBaxxrELJGKvti9V0oD+03cqD3DxUOWh2ugzgIsanvVTj+W7EIl4cjGGleUf71PvtjF+ddzFjEWagVMPQN4gijwo//VM5eZtqDkZ35Jq0n2qtbwqnRhMHl04BdOkaYVh5mHHzSYWbt69mks5KxkxLni/l3HcBwJt97tdWOkBdEzwnKfUeb44zLxHyaw7mADvjYN3cP47B3PjY2wUkgjVAoA3UhJZOfTz7Rlmu/HwoNX50F+IA0DHlza5aeW9WYwapsIcRt5FAyJ3qqxMSVaZ2uWXhQoo9BXqZE8WeAWeLCjI+Zg5+OGqPLmZxdWngvgpJCPYfPNNlL8TkzbX5AjFNJNtY9JuM7iE6Fs=;TiZGCApZV3DkBPRsR9xRpg=="
+secured: "wRrDI3mIG6Hq79ALG6qBzsKQlhVoKbeBU8wtNL+rP1Tv7BLJEXnMc+2AgjaMQ0bpQ+LoYRHFOZ7IRUVhMaqJMKB2XMyy0zoz5Mvp9ilI3SmjrXdrlmvQA+j754tZbFul9q0aqma/0p+JNNP+JoHgsnaLoeI9rVDKXoBEuRn2SrOGkdvcC/JOZrK3EsHG3uC4pp5oAt1on47PEPnGW5qA/5KScbX6K7AU5IN/fpnvAGOG3/HTFoJif1axG1GP7vuI3HFGluUNps85Q9T2rtXZUlNUp+gE7EKkdT4Q7/YC3NfWZZhhoJ+qTQm+0II3uZfCuMI8PrcpL3lVpaTnMFKLBo58dUAvvizBAfrewC1X+cU=;+suYSiDNcgrtmM8DcCYgOw=="
 ---
 

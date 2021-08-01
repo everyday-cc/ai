@@ -1,21 +1,25 @@
 ---
 category: news
 title: "Becker's Hospital Review Spotlights Parlance for using Voice Recognition Technology to Improve Caller Experience in Healthcare"
-excerpt: "Becker's Hospital Review has spotlighted Parlance and CEO Joseph Maxwell's work in improving patient caller experience with speech-enabled"
-publishedDateTime: 2021-07-29T14:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-301343890.html"
-webUrl: "https://www.prnewswire.com/news-releases/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-301343890.html"
+excerpt: "Becker's Hospital Review has spotlighted Parlance and CEO Joseph Maxwell's work in improving patient caller experience with speech-enabled IVR. Becker's Hospital Review, the nation's leading publication that offers up-to-date healthcare business and legal news and analysis,"
+publishedDateTime: 2021-07-29T14:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161"
+webUrl: "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Healthcare
 
-secured: "Ggn5w45oGsht8cn9a8/BfSBSP1LcHfRVjyaeBdorQC8OmOSic3touBDuHcEuIbKH4CAamkPqGnTeRpV5ztSc7neRioMLVgtrzuYLfRQz3e2yxvli3ZV1WGtkw4STEWS80J4mwF8Pvckh50xh+yHdb3z4jcxxPARkd3SBojOpw1wPu1TZD/tVCD5STRqPBiulj9sg8G1OPGIzKJLGrpqGcJYeCOLS4Mx0uuo6lB8tA+Hx7o6KFNDxyrpISPyikhJD682N9rKpNShKGv0389ZqtGlxKXtY025ImdQ/cxReg4qJPYVvqVJ9t2xaj1DsMse++MXq77FGKkvQyW8Tn2mjPitCphDmoFwmASEmYJjg01B4EQPWewYjASeG1Xs0sp+FO5AIpOSEenlqmlEfma3B1uRUQZI6YSGEDrZ+q0g6DON5LzS8rD9pOPz8yNCNLpU+fvlX15gWk+/Ac+lZ5+NuvV/s5XUEOsNuLNb7WlS2IlGlViIA5DcFQp88Lm1cYU9yIV6T1ZBbTl8D+3831ejRSA==;iGi03y0EA1LjuTkTjTh2AQ=="
+secured: "cXysyDovLV2dmbcg/U/oSZn7jqAm6FkSznt0glAZgtMDbymj4XLZA5RDfmJb8KA+czTVWaigUfbc2bVQMZlKF3mqV/qcaKILTP+aLLYyguF8e3OVpJPgovUXj78UTs5wrD+1PhPJbXH4uCurmYJSPApmrIRqc+sKjhS1pc+eSQMhaEa1vVXIl0HRkgmeVEDvKTTqboGUT0s71JYenDzr4PH1sXuk9PL8tcX/WH0Dtsml2SSi4lA780GdS/qEPCVHUk613NpXDLX8m5xvXbIr21sXNM+++6esFkjrdCy14TLmFm+vfoh43/v7H2VUEAzksHm2AhFtogGDmnoJIbW6qOr2UNo49XQtL8sjWUaO5/g8AW0L8l4MmDjuWcf1wZiiVlwfL9kTijoedBvhV//zB5TzsKl3gypQ668feCU/7OUQSNtG06cuq4L9G32VaQjCzVQW2sdDzTnzyZgYzCgFP1ItaBKUy0V7+2eXkZ0+6S4z3lhA6u2Nb4eUNNnspbKd7JPGyH+ox7N0G4bRY5ZpVQ==;ILtw2n6fs9uQqm7hYVBdZQ=="
 ---
 
