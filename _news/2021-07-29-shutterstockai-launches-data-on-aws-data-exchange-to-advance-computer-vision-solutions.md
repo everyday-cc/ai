@@ -1,44 +1,25 @@
 ---
 category: news
 title: "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions"
-excerpt: "including Amazon Rekognition, a solution that simplifies adding image and video analysis to applications using proven, highly scalable, deep learning technology that requires no prior machine ..."
-publishedDateTime: 2021-07-29T16:16:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-301343857.html"
-webUrl: "https://www.prnewswire.com/news-releases/shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-301343857.html"
+excerpt: "The availability of Shutterstock.AI's data on AWS Data Exchange will allow customers, from tech startups to industrial giants, to train computer vision models at scale with precision, advancing their computer vision technology."
+publishedDateTime: 2021-07-29T11:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
+webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
 type: article
-quality: 43
-heat: 43
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
-  - AI
   - Computer Vision
+  - AI
+  - AWS AI
 
-related:
-  - title: "Shutterstock Announces Formation Of Shutterstock.AI And The Acquisition Of Three Leading Artificial Intelligence Platforms"
-    excerpt: "Shutterstock.AI to offer computer vision and predictive performance solutions with the goal of enhancing creative performance NEW YORK, July 27,"
-    publishedDateTime: 2021-07-27T11:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-announces-formation-of-shutterstock-ai-and-the-acquisition-of-three-leading-artificial-intelligence-platforms-1030649499"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-  - title: "Shutterstock acquires three AI-based marketing platforms"
-    excerpt: "Shutterstock Inc., a provider of stock photos, videos and other media, has formed an artificial intelligence division and acquired AI marketing platforms Pattern89, Datasine and Shotzr for a total $35 million."
-    publishedDateTime: 2021-07-27T21:43:00Z
-    webUrl: "https://www.bizjournals.com/newyork/news/2021/07/27/shutterstock-buys-three-ai-marketing-platforms.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
-
-secured: "3N3ZtQyGo9aaQ20Sv1uyfdz3JUjhHnsfqyTvKcSyWrCzbm1A8xZb6IA18VJewS9SAi/zu4fmQ7u9v178YhRTSgPe8X0+HhVZIVSbsR59VqMSxBVXWUOXnIBMiZCU3ePVx50ZVbihdwHFnHejOguoFphQv9kkOod5VKchBqonSIX2fGkHUqrVbPEkt6aBNZBGvf6/Dt88A8miROnXaWFGDnCflMFPChQh5UqT5h4JSNqIvGqI54cIH4MdfKocv7B2Vwy5cybDSmPyK4LAD2ZTHUbLWGPXpzDn3FlCheRu5T5BJUfqOmE7Tcs5Hc//dQze+MOTAkirdlyZQ3sQmFkfO79O+ZljUh74mFLBoCNqpnQ=;APateBzX8PZen6yzGCM41w=="
+secured: "2uU/7myJ2M13vnQigAu9SMbJ244GREcHqvnmNMOvEuRJgQs6x2Cz1Z00VYOWyYqTi5iyreP6CxPuCbWQ8GGTnpYPZQoFeNtq/JeD3alpJV5BFav4ZObNqWuTmEGs2GVr7iF/WfZU54ldYutz8j4zT/IVCvLsiTS6aJPJKl7T2CiGkkgopsIdKEovm6wH+e4dgGrrMvZZMZqZQ8uGOpT7iObAxfoue+N3WN5xdHxAo/fYasr1Om4RW2WAXdcfNEzpy4RHIMG3wEkP+VM68fo3FdtelNz3JYeaATY/MG0yBvdfnbQ1vthvie1LclJp9XnsdPFLkc6vt7JhvNtuVAZoIjzzloUMcGEJhcfJ8bHMMMxjgk3rYJxkgriTsUrRiFtBnr83xj56wPNwK7RGbD1kHPpmBZZCuhJEhhzamoEDk8qrt4/r6ZJDJYh/t6YwvCmBa8kTFHly8fwGkXebyU4Fwi/QpR32EpL7KSdbuYjc+vL14M3Egip4KmSxKnSnussR59Sq8d3c/BieNhgNP+rD0w==;hGcpYaSvU4xcMOjRMPOlvA=="
 ---
 
