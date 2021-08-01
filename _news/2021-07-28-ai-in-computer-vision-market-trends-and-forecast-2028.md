@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-trends-and-forecast-2028-2021-07-28"
 type: article
 quality: 84
-heat: 214
+heat: 194
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market by Solutions & Services - Size, Share, Growth, Trends and Forecasts 2027"
-    excerpt: "Global Deep Learning Market Research Report- Forecast till 2027 The global deep learning market is growing at a rapid"
-    publishedDateTime: 2021-07-27T13:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-solutions-services---size-share-growth-trends-and-forecasts-2027-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -185,15 +171,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
-  - title: "Global Artificial Intelligence in Retail Market 2021 – Top Manufacturers, Latest Trends, Future Prospects and Forecast 2026"
-    excerpt: "Global Artificial Intelligence in Retail Market 2021 by Company, Regions, Type and Application, Forecast to 2026 announced by MarketQuest.biz gives a severe thought regarding the various factors and patterns influencing the improvement graph of the worldwide market."
-    publishedDateTime: 2021-07-27T13:12:00Z
-    webUrl: "https://ipsnews.net/business/2021/07/27/global-artificial-intelligence-in-retail-market-2021-top-manufacturers-latest-trends-future-prospects-and-forecast-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 6
 
 secured: "VyZSEkE+bpXL2nmeJKZfeRBEvKpkTWFx6eTJAJB6H43HpVIcW7CKWjKFWnxTDJ4gaHB/keLsfG23MvEUe6ZWYrZwagktLhdHhvVy2uVwgJX+TduHSpIvZSvVKxY/DPCTmP46qin7ug/RrctFVf+PLDaeG3rbB5d2BlEi0eBEJ4t2ntn21x4Pd7HOWXo10sk5BwVpxQHQHt9qL8uJ9nFFP7sxIiQNnNvW7zCtVzX6YP01bzmkT4oeNwt3vZfBZ0qqW/nn2RfbfsT5mlFHuGWUno+LE//vJmeGYttFJLcym5yTo7vBEOOqduxWByKgz2ZNCfM1SQxDmdw3bG1VGvqyWiOum6uSB8ohQ4E/42pWEto=;09KDO1xcebclDuR3/oBlmw=="
 ---

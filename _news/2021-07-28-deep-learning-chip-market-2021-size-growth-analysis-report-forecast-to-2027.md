@@ -64,20 +64,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market by Solutions & Services - Size, Share, Growth, Trends and Forecasts 2027"
-    excerpt: "Global Deep Learning Market Research Report- Forecast till 2027 The global deep learning market is growing at a rapid"
-    publishedDateTime: 2021-07-27T13:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-solutions-services---size-share-growth-trends-and-forecasts-2027-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Size, Key Company, Recent Trends, Segmentation and Regional Forecast till 2027"
     excerpt: "The Global Artificial Intelligence Market to Touch USD 25 Billion at a 48% CAGR by 2023 North America to Dominate the"
     publishedDateTime: 2021-07-27T13:24:00Z
@@ -181,15 +167,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
-  - title: "Global Artificial Intelligence in Retail Market 2021 – Top Manufacturers, Latest Trends, Future Prospects and Forecast 2026"
-    excerpt: "Global Artificial Intelligence in Retail Market 2021 by Company, Regions, Type and Application, Forecast to 2026 announced by MarketQuest.biz gives a severe thought regarding the various factors and patterns influencing the improvement graph of the worldwide market."
-    publishedDateTime: 2021-07-27T13:12:00Z
-    webUrl: "https://ipsnews.net/business/2021/07/27/global-artificial-intelligence-in-retail-market-2021-top-manufacturers-latest-trends-future-prospects-and-forecast-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 6
 
 secured: "cez3JxPvdeSBH2uk7Ps9L8EI6iwFZi9ORNA+D83IfldHHo/3un2aPZ48jYOogS9GpH9liywcO6R02emxYP3/Z7m0+1JQc75aZeDcNGRnHOQFmNq64DLbVqKG7/csAIBgKsbULQUaiZ5KriB/KwQ/gvgLuxxKz/ILC9Ly+4N+EK5PxqXR9s5MPqvZ7zuEouTmgPn3vtxbTSPljw6ib37MKUL6VCKhPwmsf8dHMoh8/cfHQNCOlkrdYRahIjsC0Qtvp3fi3HaMoKfE6r7PEDcZK2ubD4akH29LMZUFFkol/3FDRRcokzST9EuJJvOimBanis9FF8sfJrEdI4WvULO5pc7FuS373Xw+jJ2MzW5cfOo=;xD4D/38ANDYia+16nBH9dQ=="
 ---

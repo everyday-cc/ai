@@ -9,7 +9,7 @@ ampWebUrl: "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-th
 cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/amp/"
 type: article
 quality: 70
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Musk’s Neuralink Raises Money, India’s AI for All And More In This Week’s Top News"
+    excerpt: "NEP 2020 event major announcements include the AI for All initiative by the CBSE, SAFAL assessment framework and more"
+    publishedDateTime: 2021-08-01T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/elon-musk-neuralink-funding-modi-india-ai-for-all/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/1627764287424_open-ai-copy.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Google Ventures, Others Back Elon Musk's Neuralink Startup With $205 Million"
     excerpt: "Elon Musk’s Neuralink startup raised $205 million in a series C round from investors like Google Ventures, DFJ Growth, Founders Fund, and OPEN AI CEO Sam Altman. Musk’s project aims to develop brain implants that will be able to communicate with devices."
     publishedDateTime: 2021-07-30T22:51:00Z

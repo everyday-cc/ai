@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market by Solutions & Services - Size, Share, Growth, Trends and Forecasts 2027"
-    excerpt: "Global Deep Learning Market Research Report- Forecast till 2027 The global deep learning market is growing at a rapid"
-    publishedDateTime: 2021-07-27T13:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-by-solutions-services---size-share-growth-trends-and-forecasts-2027-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Chip Market 2021 Size, Growth Analysis Report, Forecast to 2027"
     excerpt: "The Global Deep Learning Chip Market size is expected to reach 24 5 billion by 2027 rising at a market growth of 37 CAGR during the forecast period 2021 2027 Deep learning is a subset of machine learning a subset"
     publishedDateTime: 2021-07-28T08:24:00Z
@@ -184,15 +170,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
-  - title: "Global Artificial Intelligence in Retail Market 2021 – Top Manufacturers, Latest Trends, Future Prospects and Forecast 2026"
-    excerpt: "Global Artificial Intelligence in Retail Market 2021 by Company, Regions, Type and Application, Forecast to 2026 announced by MarketQuest.biz gives a severe thought regarding the various factors and patterns influencing the improvement graph of the worldwide market."
-    publishedDateTime: 2021-07-27T13:12:00Z
-    webUrl: "https://ipsnews.net/business/2021/07/27/global-artificial-intelligence-in-retail-market-2021-top-manufacturers-latest-trends-future-prospects-and-forecast-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 6
 
 secured: "CwAuZcvt0IAEjHe6g8t8bUaJ2EVEq70+O+YTCTEAeaJiAC5ApVeYimxKZ+Br0qVNFiV37AMsAPzejXnnyPwTsYL4QlFKmBMXmJB0qjeIcdaWis/9i0FGkEZMgptkFxq7/rMR3lKmZptxu43FqznQ/+T671p7zhJp8OcX/m3wEEJNBuDGKfDG8HHUpqiJxKK+UaJaioBmzfyf/oSJ1ZWqNJJRHl0Pn7G4KI9pqXkjL6cs8+xkPAw8YCyZSsSiUS9lRAYGOZYBy/eyr5QzNMYxh+KXqP17eAHWLtDGDHaGeeqmiMkhpCGuBPiM1psbBuh8xN20h+lyIAvUNCOJeIH6vSAn1NvGyugSB66fsBmOgEo=;AGOOy1BgmVKvDeyuNQ2SmA=="
 ---

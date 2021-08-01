@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fairobserver.com/region/north_america/john-feffer-artifi
 cdnAmpWebUrl: "https://www-fairobserver-com.cdn.ampproject.org/c/s/www.fairobserver.com/region/north_america/john-feffer-artificial-intelligence-ai-news-technology-tech-world-news-32892/amp/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Fair Observer
@@ -26,22 +26,6 @@ images:
     width: 1800
     height: 1200
     isCached: true
-
-related:
-  - title: "Artificial intelligence wants you (and your job)"
-    excerpt: "The creation of a machine with human-like intelligence that could someday fool us into believing it's one of us has often been described, with no small measure of trepidation, as the \"singularity.\" Respectable scientists like Stephen Hawking have argued that such a singularity will,"
-    publishedDateTime: 2021-07-27T10:00:00Z
-    webUrl: "https://www.salon.com/2021/07/27/artificial-intelligence-wants-you-and-your-job_partner/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 41
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/09/robot-on-computer-0925201.jpg"
-        width: 1200
-        height: 810
-        isCached: true
 
 secured: "dyPXphsP8Nk+/5CfMgHNvuHxCKsSV5xwto/iMKrzW1PFhWB/aTAafpkbf5Gt4zJxqFvUilSKlYcID9xo0KuLPK+uI59vIosq7pXMhDhjt7ucNjot3O3WbRiACCcy3jDCyHIPtnT1LLc2fXFe2lc09rs8wOcuiMX1uDcUDe3i0H93JdlfEkz7Y6juuREpnWA3j9zzFZO9GKBUUsJW62IVTMxIIZ6haqrTL6gZqp/PLv07LtT4A2W0t/NZlltj6PRQuJJgcBKGvoucnFge39anDndyeveeDc11TFVH6rXzY35U7rwHEapjdZ/x7m6iT+1pM8x7CPyt71H7vcnScjkEFzxEXf1VYCCEOblBcgbjzjwYu8YqVg252PL451Vi1swSRUL0OSZB0YWgdG34knsqnP8EKh329uEboinZpwIFBHTYXXkCvKf26ypU4AGnWbdu0E87KZmB/6maltPppzMwVGUDPKb0d825/f8VDoQ4LBJurGBCN9+C5HkBhtwNU20+bE6LVkqbgt6UOrGDFHrnSg==;GfY+5ZmBg75cNZnlV36LUA=="
 ---

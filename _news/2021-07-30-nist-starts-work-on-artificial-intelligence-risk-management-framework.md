@@ -24,35 +24,42 @@ images:
     isCached: true
 
 related:
-  - title: "An AI Road Map Starts With Data"
-    excerpt: "AI should be a priority for businesses. However, this game-changing set of technologies requires a solid data foundation, and businesses need to bolster their data engineering capabilities before they take on AI initiatives."
-    publishedDateTime: 2021-07-27T11:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/"
+  - title: "Remark AI Finishes in Top 5 in Recent NIST Computer Vision Test"
+    excerpt: "Remark Holdings, Inc. (NASDAQ: MARK), a diversified global technology company with leading artificial intelligence (\"AI\") solutions and digital media properties, today announced that the latest software from its Remark AI business achieved a top-five ranking in a recent computer-vision test (the Face Recognition Vendor Test,"
+    publishedDateTime: 2021-07-28T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test-1030656854"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "NIST Works to Create AI Risk Management Framework"
+    excerpt: "Citing a need to secure artificial intelligence technologies, NIST is working to create risk management guidance around the usage of AI and machine learning, the"
+    publishedDateTime: 2021-07-31T20:00:00Z
+    webUrl: "https://www.healthcareinfosecurity.com/nist-works-to-create-ai-risk-management-framework-a-17193"
+    type: article
+    provider:
+      name: healthcareinfosecurity.com
+      domain: healthcareinfosecurity.com
+    quality: 37
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeee92c240fb26d335a07a%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/nist-working-to-create-ai-risk-management-framework-showcase_image-1-a-17193.jpg"
+        width: 860
+        height: 520
         isCached: true
-  - title: "Artificial Intelligence Assists with EHR Data Organization"
-    excerpt: "Researchers are developing a method of artificial intelligence to help physicians efficiently and effectively sort through electronic health records."
-    publishedDateTime: 2021-07-27T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-assists-with-ehr-data-organization"
+  - title: "China’s Top Court Rules Facial Recognition Without Consent Is Illegal in Civil Cases"
+    excerpt: "China’s Supreme People’s Court on Wednesday ruled in a judicial interpretation that using facial recognition technology without consent would violate law in civil cases, amid rising concerns about the technology’s misuse in public venues and residential compounds."
+    publishedDateTime: 2021-07-28T12:38:00Z
+    webUrl: "https://www.caixinglobal.com/2021-07-28/chinas-top-court-rules-facial-recognition-without-consent-is-illegal-in-civil-cases-101746900.html"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 32
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-538998185.jpg"
-        width: 690
-        height: 397
+      - url: "https://img.caixin.com/2021-07-28/1627455046564912_560_373.jpg"
+        width: 560
+        height: 373
         isCached: true
 
 secured: "zzrBv0ygCTYwP0CPGhzsQ7Ex48tkgL89SVczfK8hYvw86HpDyUzbEwtK9aid7ZlU3690FG6EJEfhQrcpeBmLHC/C+t5JtbbSIWVcKpn+7U6WlJfbVULdpf9AKnwkVkJlH/g4tEQP48PgREvRF9YyYAgtnQowB5C/2HAYsvqbONvEy0BZ6mGBN3c8b3iX6KnRQeTye6U5Zf+wRf4hTVFT+ac68Tlg+JgamCCWIWeb6vmcKn9qwxAygXWsQIPiPz2MBECKwzYB4EwIbi5lVxi2e4+1nPEk9frmFz5f/H8jf0RoK/rYTJcaXcdw6f/KBY8OjP0bg4QtTR5ZX86In2JK7VV2ngGoKNhCf22iC87l2Zg=;iEeT4AuBrD4VfRBSKb8XYw=="

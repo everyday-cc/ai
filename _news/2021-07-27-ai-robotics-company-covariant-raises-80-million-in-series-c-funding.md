@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotic AI firm Covariant raises another $80 million"
-    excerpt: "Covariant announced that it had raised a $40 million Series B. It was a health sum of money for the young company, bringing its total funding up to $67 million. Just a little over a year later, the Berkeley-based AI startup is adding another $80 million to its coffers,"
-    publishedDateTime: 2021-07-27T11:00:00Z
-    webUrl: "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/"
-    ampWebUrl: "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/07/2021_07_13_covarient_retouched-004.jpg?w=1024"
-        width: 1024
-        height: 686
-        isCached: true
   - title: "Covariant raises $80M to ‘universal AI’ for robotic manipulation"
     excerpt: "Covariant raised $80 million for its \"universal AI\" for robotic manipulation. The company has now raised $147 million in just two years."
     publishedDateTime: 2021-07-27T14:08:00Z

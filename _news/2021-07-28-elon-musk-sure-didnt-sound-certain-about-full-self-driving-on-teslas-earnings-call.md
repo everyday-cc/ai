@@ -91,22 +91,6 @@ related:
         width: 720
         height: 450
         isCached: true
-  - title: "Elon Musk knocked Apple, bemoaned the microchip shortage, and touted self-driving cars on Tesla's Q2 earnings call. Here are the 12 best quotes."
-    excerpt: "Musk underscored the huge challenges of large-scale manufacturing, and suggested he might not feature on every Tesla earnings call in future."
-    publishedDateTime: 2021-07-27T12:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/elon-musk-tesla-earnings-apple-microchip-shortage-self-driving-cars-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-earnings-apple-microchip-shortage-self-driving-cars-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-earnings-apple-microchip-shortage-self-driving-cars-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://i.insider.com/60b0d85b02ac410018f934fd?width=1200&format=jpeg"
-        width: 1200
-        height: 599
-        isCached: true
   - title: "Elon Musk announces Tesla's AI day next month to reveal the electric car maker's advancements with artificial intelligence and to recruit worldwide talent"
     excerpt: "Tesla CEO Elon Musk has confirmed Tesla will holds its AI day next month, on August 19. Musk said the event will focus on recruiting the best talent to work for Tesla."
     publishedDateTime: 2021-07-29T16:25:00Z

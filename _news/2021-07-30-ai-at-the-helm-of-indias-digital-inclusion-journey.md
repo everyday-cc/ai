@@ -75,20 +75,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Tata Communications unveils IZO financial cloud platform in India"
-    excerpt: "Tata Communications on Tuesday announced the launch of IZO financial cloud platform in India, that aims to enhance performance and security of organisations in the banking and financial services space."
-    publishedDateTime: 2021-07-27T11:58:00Z
-    webUrl: "https://mybigplunge.com/business/tata-communications-unveils-izo-financial-cloud-platform-in-india/"
-    type: article
-    provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 24
-    images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/07/Tata-Communications-unveils-IZO-financial-cloud-platform-in-India-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "StHd+xVMHerF1FTROCiyVdF87c454WhgBiL3YKU4U1Tm0j6XQtn4IN4w3DAIJs46cxg1NrVqeLj3s772Du3zokaYbhO/rNDufXRn8n+cfqJkc8ilHa65mA/RDUMJMgdyf8l8rvmDoc6U9JzjW0oYro/ANMKzamGFyngnwbpvB2pgSuX5uczJ+ehGjt1OXe0fNztjGn6y7Xvzhnx10iyufwF5dOR/wmiDNePNuoKVRZHXFCE6+NrH50Fhk8u4TXhvQfawLcZOduF0buj6ciIYXIFfYyv1jNDZbStLFpTSub6Oqz4m72BRX1PwEJlbc62d4c8nF8dWLQ7lpgNvQQpY9coRQ/s6sgCDttXyw9Df1tg=;k9ORdHxOZ56K9HjdKEoWqA=="
 ---

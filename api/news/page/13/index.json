@@ -2,6 +2,101 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-07-20-far-reaching-impact-of-microsofts-entry-into-rpa.md",
+      "title": "Far-Reaching Impact of Microsoft’s Entry into RPA",
+      "excerpt": "Microsoft has officially entered the robotic process automation (RPA) marketplace with some major changes to its Power Platform. Learn about the far-reaching impact of Microsoft’s entry into RPA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/far-reaching-impact-of-microsofts-entry-into-rpa/",
+      "originalUrl": "https://www.analyticsinsight.net/far-reaching-impact-of-microsofts-entry-into-rpa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/RPA.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-shenzhen-emerges-as-chinas-robotaxi-capital-as-deeprouteai-opens-public-trials-in-tech-hub.md",
+      "title": "Shenzhen emerges as China’s robotaxi capital as DeepRoute.ai opens public trials in tech hub",
+      "excerpt": "The local legislature in Shenzhen is currently reviewing a draft of regulations on intelligent and connected vehicles, likely to be a guide for country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "originalUrl": "https://www.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/07/19/83671b14-e883-11eb-b928-713afa0cd390_image_hires_192708.jpg?itok=y-seTOmz&v=1626694036",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3141701/shenzhen-emerges-chinas-robotaxi-capital-deeprouteai-opens-public",
+      "publishedDateTime": "2021-07-19T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-artificial-intelligence-in-aviation-market-size-share-and-top-firms-intel-micron-boeing.md",
       "title": "Artificial Intelligence in Aviation Market Size, Share and Top Firms – Intel, Micron, Boeing,",
       "excerpt": "The Artificial Intelligence in Aviation market research report assesses the global Artificial Intelligence in Aviation Market industry market and includes sales and capacity forecasts for the anticipated period 2021-2028.",
@@ -304,19 +399,19 @@
     {
       "path": "_news/2021-07-20-ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round.md",
       "title": "AI Startup Lunit Secures Investment from Guardant Health in a Strategic Funding Round",
-      "excerpt": "Lunit, a leading AI startup in AI-powered cancer solutions, today announced a strategic investment of $26 million from Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company. The deal,",
+      "excerpt": "Lunit, a leading AI startup in AI-powered cancer solutions, today announced a strategic investment of $26 million from Guardant Health, Inc. (Nasdaq:",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-ccab9c3ab8adb05489bd687255293d68",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-ccab9c3ab8adb05489bd687255293d68",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round/article_7e7e3703-e91a-5ce2-b0c9-669d388bd261.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round/article_7e7e3703-e91a-5ce2-b0c9-669d388bd261.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e4/ce457a5f-490b-582e-83af-d4d14f85bf28/60f57ed1f041a.image.jpg?resize=805%2C380",
+          "width": 805,
+          "height": 380,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -326,11 +421,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T15:39:00-07:00",
+      "publishedDateTime": "2021-07-19T15:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1064,110 +1159,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-artificial-intelligence-ai-chips-market-size-soaring-at-35-cagr-to-reach-19080-million-usd-by-2025.md",
-      "title": "Artificial Intelligence (AI) Chips Market Size Soaring at 35% CAGR to Reach 19080 million USD by 2025",
-      "excerpt": "Selbyville, Delaware Market Study Report LLC adds new research on Artificial Intelligence (AI) Chips market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-soaring-at-35-cagr-to-reach-19080-million-usd-by-2025-2021-07-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-soaring-at-35-cagr-to-reach-19080-million-usd-by-2025-2021-07-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-researchers-disclose-vulnerability-in-windows-hello-facial-recognition.md",
-      "title": "Researchers disclose vulnerability in Windows Hello facial recognition",
-      "excerpt": "A new research report shows that hackers can get around Windows Hello by using a certain type of hardware and eventually gain access to your PC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/",
-      "originalUrl": "https://www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/mouse-computers-windows-hello-2.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/?amp",
-      "publishedDateTime": "2021-07-19T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

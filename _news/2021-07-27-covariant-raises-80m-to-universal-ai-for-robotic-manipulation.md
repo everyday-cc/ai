@@ -7,8 +7,8 @@ originalUrl: "https://www.therobotreport.com/covariant-raises-80m-universal-ai-r
 webUrl: "https://www.therobotreport.com/covariant-raises-80m-universal-ai-robotic-manipulation/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: The Robot Report
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotic AI firm Covariant raises another $80 million"
-    excerpt: "Covariant announced that it had raised a $40 million Series B. It was a health sum of money for the young company, bringing its total funding up to $67 million. Just a little over a year later, the Berkeley-based AI startup is adding another $80 million to its coffers,"
-    publishedDateTime: 2021-07-27T11:00:00Z
-    webUrl: "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/"
-    ampWebUrl: "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/07/2021_07_13_covarient_retouched-004.jpg?w=1024"
-        width: 1024
-        height: 686
-        isCached: true
   - title: "AI robotics company Covariant raises $80 million in Series C funding"
     excerpt: "Brings total capitalization to $147 million for the startup, whose AI-based solution powers a wide range of industrial robots to manage use cases including order picking, putwalls, and sorter inductio"
     publishedDateTime: 2021-07-27T15:39:00Z

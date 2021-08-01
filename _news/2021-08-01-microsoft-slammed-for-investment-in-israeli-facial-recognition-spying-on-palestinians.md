@@ -6,6 +6,9 @@ publishedDateTime: 2021-08-01T02:00:00Z
 originalUrl: "https://www.business-humanrights.org/zh-hant/最新消息/microsoft-slammed-for-investment-in-israeli-facial-recognition-spying-on-palestinians/"
 webUrl: "https://www.business-humanrights.org/zh-hant/最新消息/microsoft-slammed-for-investment-in-israeli-facial-recognition-spying-on-palestinians/"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: 洗護用品和肥皂

@@ -7,7 +7,7 @@ originalUrl: "https://www.wipro.com/business-process/how-autonomous-vehicles-are
 webUrl: "https://www.wipro.com/business-process/how-autonomous-vehicles-are-changing-the-face-of-transportation/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers Working to Improve Autonomous Vehicle Driving Vision in the Rain"
-    excerpt: "Researchers are studying ways to improve the vision of autonomous cars operating in bad weather conditions of rain, snow and fog."
-    publishedDateTime: 2021-07-29T17:40:00Z
-    webUrl: "https://www.aitrends.com/selfdrivingcars/researchers-working-to-improve-autonomous-vehicle-driving-vision-in-the-rain/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 36
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/07/7-30BadWeatherDriving-2.jpeg"
-        width: 550
-        height: 366
-        isCached: true
   - title: "How the commercial vehicle sector is preparing for autonomous driving"
     excerpt: "In many ways, trucks are a more viable focal point for the development of the artificial intelligence. More on CCJ."
     publishedDateTime: 2021-07-29T17:18:00Z

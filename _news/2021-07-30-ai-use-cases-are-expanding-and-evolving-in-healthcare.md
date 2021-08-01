@@ -120,6 +120,20 @@ related:
         width: 629
         height: 319
         isCached: true
+  - title: "Don’t Lose the Human Touch When Using AI and Big Data for Marketing"
+    excerpt: "Bots, machine learning, predictive models, and big data all impact businesses daily. But are these technological advancements making brands appear less caring? Less real? Less human? It’s a valid concern,"
+    publishedDateTime: 2021-08-01T04:11:00Z
+    webUrl: "https://customerthink.com/dont-lose-the-human-touch-when-using-ai-and-big-data-for-marketing/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 54
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
+        width: 3608
+        height: 2336
+        isCached: true
 
 secured: "NiSv7k4wJ01k/obfe5c8ESXQ+NwRzWScQVXq2eLnVEZW1RRD/ct8L37VX3qGIjh53p9Aq63CNrx3xQfUUPj5mZ4VuqQmbv1Ox06wpxvXVpsRpbmbB1cKHovsLK7FtgZfnWad39hj9a8PpMRZmMHwLFvmxl2BU6iFtGKDvIhu04anVPRQigmDKSO8Ra7Y36qWx0tis6XQiTte/i6oL2UQ5dDk/GZjSIatK4wi5DcEkaA4CCVbBOUiLk+nF1jrPDL66Rz2vaeZXfQYsGhjVJNwuqONCkLqR4lAAZ5+WUYZdSkCu68bDwVQzIBd+hGY3zREIyPWBNe1YJQ9v9M2O/gSsHKNa2vRR+ATDHzC/8P9gWYaNAbHjfwYs7ucjA0GRiZkPLy3lUdgY+ozp5GxvNPMQzSTTHs0ex3RfnA6tOCx3iMESYWXnDbcLvBK2zIz2nbztSP2+bS1Mx3i2RhraR2Bia79EV5T2mS0e7LyzDXRKvK/xRdn4YHYdvHUleDW2jrlWMB3fdwauqdn/mkEVbf+kg==;iSHl0H2V6/CO74v2QipEkw=="
 ---

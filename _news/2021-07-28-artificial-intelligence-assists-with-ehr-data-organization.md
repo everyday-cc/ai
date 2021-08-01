@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/artificial-intelligence-assists
 webUrl: "https://healthitanalytics.com/news/artificial-intelligence-assists-with-ehr-data-organization"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 690
     height: 397
     isCached: true
-
-related:
-  - title: "An AI Road Map Starts With Data"
-    excerpt: "AI should be a priority for businesses. However, this game-changing set of technologies requires a solid data foundation, and businesses need to bolster their data engineering capabilities before they take on AI initiatives."
-    publishedDateTime: 2021-07-27T11:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeee92c240fb26d335a07a%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "NIST starts work on artificial intelligence risk management framework"
-    excerpt: "The US NIST has made a Request for Information (RFI) call, as it commences the development of a risk management framework for artificial intelligence. Through the RFI, which appears in the Federal Register,"
-    publishedDateTime: 2021-07-30T09:02:00Z
-    webUrl: "https://continuitycentral.com/index.php/news/erm-news/6511-nist-starts-work-on-artificial-intelligence-risk-management-framework"
-    type: article
-    provider:
-      name: continuitycentral.com
-      domain: continuitycentral.com
-    quality: 37
-    images:
-      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "v4r0xZizU38p7rmNAQtVPAlbVPito+jYO2/4pi2WXg1WBlAD59dl6lgZz207RrU0of9jeAaA7V8IEIm3+02nHB5LOppTBjjeWssS02/88ZOoMWO/RmD4S2JSfLKul5dwwkmIehbixleVY7EVFqusuBQpeKH0f1gp7UTvW2ELLzAnVg0SFP0tSxIKP6ZJ58wdVSWF16kTM2sEnhvy7+Azjw0FX494HHheYj+5ZXxVhHQ1OQq6M1KXEHgjIbZnTFijasr/HGfflTQq9ufwPb/S73IVWKpjHrfgc9DV6mO4mU2YwTXO89kzqb134IxRQDRJkSZuREFkVSrRNEqzNYe6P9B6jjazXswC0ib7qzh6F5c9eVPbHEIEAgZdUBJbLJLeNUyUbhYlMTW/0GFrQXGl1Gh0hNfG+zrxTkffawiPmGpZEUgQ1hHJAP4rvXzZDimCuJjzMyWN00GWha618F3zE/38onFKnX5arYLYos3CD8mbcm9East2IynAkzfe6ahQOJIl1WkcPhO2M5APYcfFUQ==;lhmzd5lXPQRtFuSnrUyaVg=="
 ---

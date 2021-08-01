@@ -24,17 +24,6 @@ images:
     height: 575
     isCached: true
 
-related:
-  - title: "Trying out a self-driving robotaxi in China"
-    excerpt: "China has sped up efforts to develop self-driving cars, with domestic tech companies testing autonomous vehicles in recent years. Since 2019, tech giant Baidu has opened its robotaxi service to the general public in several cities in the country,"
-    publishedDateTime: 2021-07-30T15:58:00Z
-    webUrl: "https://news.cgtn.com/news/2021-07-31/Trying-out-a-self-driving-robotaxi-in-China-12l7RGMMNWM/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 4
-
 secured: "gRG70Rc+f/6mgS4lSA4+gSyLM7HgqIDojOVU9IbSf7hBuwvFk811qCfVVlIZydwFwvjAOk4X+P4pLvmxBfzEuGrYGjIf4UF/81hDDtDchnsm5kV5isTDWs1MOZ2NLL8eZtA/1SKhIG4MdYIZoceKgh6/4I9THPa5aELkwjTouqtb7Xj5Xpm6KGbiWVLrwO8CjQp0NvqYenhOkPOjDqSywHxmlATnnX1JljY/RpPzWhVrOQXkfeLFGkaLAukPfjSxynY65FSo6WBZHZnzRiaqqjCoa0xW7JYXMvcKWGDtOJyBasU/ndw70JSPN8IbCdQiDs+q5SC8edLKTszKITNdXFhT3Ug4vpITTt9vILXJOyh08nX1vaFBzlSHbX3PlnqWvy6ZzJwgC9IRLH1yRI3TtZY/hAnl9XxXMBwSGgasanAgOYFivOZNj9SjCHTjq/27hXOZVz1LAJJCo6wNPy/iH4bM9URrPAL85M14e9Ju/kflk3bGqVLRjTZgRR+sq86Z9Z41RSwGefoal000JZ4EbA==;212xFTXinkXWpy5KUygGtA=="
 ---
 

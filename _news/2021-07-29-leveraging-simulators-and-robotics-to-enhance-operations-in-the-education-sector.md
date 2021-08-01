@@ -7,7 +7,7 @@ originalUrl: "https://www.mobilitytechzone.com/topics/4g-wirelessevolution/artic
 webUrl: "https://www.mobilitytechzone.com/topics/4g-wirelessevolution/articles/2021/07/28/449577-leveraging-simulators-robotics-enhance-operations-the-education-sector.htm"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Spatial Vision in Humans and Robots"
-    excerpt: "This collection will be of interest to biological researchers investigating how the brain solves spatial problems, as well as to researchers in robotics and computer vision systems."
-    publishedDateTime: 2021-07-27T13:06:00Z
-    webUrl: "https://www.cambridge.org/tc/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 4
 
 secured: "B16BbaAIIKu/s034Da6HLqyiLYaRDNYEpdkPFan8+7Wqgj3H0KkgUDptgN0iLAycMG6dZJ4Z12f+eMPnakle4HCAl8RX69YrK1qeIoU8TUxETXPRb3Ibi2DOSbOf9pnOqerG8k2CytaG4dv3LFxOkxlczqkJxCUOfgkZMEMmmUe5+wEqlgLHILR6EosFQPkgMoQO1cJRuDCK/gjiHfqYv88yGDj4N0DlqHy4KHo8GbMSIe+4VJBJxk/3YlTY2aO41vh0W8baTECxElizB1t3LFpS8iy0Bam6Sh2rG2vU5rucPaiPHAuTwu+g9BfY2Rfeaxd2IuBQ8ZDDuNzAqBeZ+l4zFiImZ+mX8SJ4OZi6r8yItHUnp3PQqOubKgOzVMM4y1hDOfxvpB+65v57SYEfpaAvzViaM+sAWSAG+MR+14jPve0jvRvTVEPqnD3jBGLnnEj7xONfItWPu6LgQUWfF92JGUQz3FqS/uCouXR8AigG1ZlAWaniCImIEP4Lu+NEuECLynw5IChrpi0/D6CSJg==;v8bFjCMt2hB3gRdfEz3Ktg=="
 ---

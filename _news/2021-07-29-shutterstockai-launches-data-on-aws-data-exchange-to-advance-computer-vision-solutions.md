@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-29T11:20:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
 webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
 type: article
+quality: 93
+heat: 103
+published: true
 
 provider:
   name: Business Insider
@@ -20,6 +23,23 @@ topics:
   - AI
   - AWS AI
 
-secured: "2uU/7myJ2M13vnQigAu9SMbJ244GREcHqvnmNMOvEuRJgQs6x2Cz1Z00VYOWyYqTi5iyreP6CxPuCbWQ8GGTnpYPZQoFeNtq/JeD3alpJV5BFav4ZObNqWuTmEGs2GVr7iF/WfZU54ldYutz8j4zT/IVCvLsiTS6aJPJKl7T2CiGkkgopsIdKEovm6wH+e4dgGrrMvZZMZqZQ8uGOpT7iObAxfoue+N3WN5xdHxAo/fYasr1Om4RW2WAXdcfNEzpy4RHIMG3wEkP+VM68fo3FdtelNz3JYeaATY/MG0yBvdfnbQ1vthvie1LclJp9XnsdPFLkc6vt7JhvNtuVAZoIjzzloUMcGEJhcfJ8bHMMMxjgk3rYJxkgriTsUrRiFtBnr83xj56wPNwK7RGbD1kHPpmBZZCuhJEhhzamoEDk8qrt4/r6ZJDJYh/t6YwvCmBa8kTFHly8fwGkXebyU4Fwi/QpR32EpL7KSdbuYjc+vL14M3Egip4KmSxKnSnussR59Sq8d3c/BieNhgNP+rD0w==;hGcpYaSvU4xcMOjRMPOlvA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+related:
+  - title: "Shutterstock acquires three AI-based marketing platforms"
+    excerpt: "Shutterstock Inc., a provider of stock photos, videos and other media, has formed an artificial intelligence division and acquired AI marketing platforms Pattern89, Datasine and Shotzr for a total $35 million."
+    publishedDateTime: 2021-07-27T21:43:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2021/07/27/shutterstock-buys-three-ai-marketing-platforms.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
+
+secured: "b3ntXdQvWcAGD7dnpY/PB8Zu51gqrO7kKUeQiSSSX+mC+A2KAhZfS3ShK64OlcLclY4dyaWcdSkK3lGG9/Eg3ln3LK/+U485j8YTxeA8ZHbsvhRd8bIF87dzpJghQSA53pqbxWcAnghGiEu2Mj26/JbDItP2cPZ1CYxXH5FLFT4ow1kASFqw0g5g2r0Mr+t9gyUTQj4P7H1A1/fUXHRWWypKHRs6z6tJsGvl4njy6VvJYB3egt04Mu6yFFB72dr7JHiw1GQ+i9YPURle9Vcj63sl9whE1gPg5Cf5HblLhfm/KbHoNms6+iZZLQ6BNIYFQ4IjVOIXVeocCLXmD0Q5ye8TquZyr9wKan4+QxplT3U=;JISEy7mv3HLf615JwqehCA=="
 ---
 

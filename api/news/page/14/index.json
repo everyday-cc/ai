@@ -2,6 +2,110 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-07-19-artificial-intelligence-ai-chips-market-size-soaring-at-35-cagr-to-reach-19080-million-usd-by-2025.md",
+      "title": "Artificial Intelligence (AI) Chips Market Size Soaring at 35% CAGR to Reach 19080 million USD by 2025",
+      "excerpt": "Selbyville, Delaware Market Study Report LLC adds new research on Artificial Intelligence (AI) Chips market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-soaring-at-35-cagr-to-reach-19080-million-usd-by-2025-2021-07-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-soaring-at-35-cagr-to-reach-19080-million-usd-by-2025-2021-07-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-researchers-disclose-vulnerability-in-windows-hello-facial-recognition.md",
+      "title": "Researchers disclose vulnerability in Windows Hello facial recognition",
+      "excerpt": "A new research report shows that hackers can get around Windows Hello by using a certain type of hardware and eventually gain access to your PC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/",
+      "originalUrl": "https://www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/mouse-computers-windows-hello-2.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/researchers-find-security-flaw-windows-hello/?amp",
+      "publishedDateTime": "2021-07-19T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-volleys-magic-word-is-a-voice-based-puzzle-game-on-google-assistant.md",
       "title": "Volley’s Magic Word is a voice-based puzzle game on Google Assistant",
       "excerpt": "Volley has embraced the new kind of gameplay possible with voice-based games, and today it is introducing Magic Word, an immersive puzzle game on Google Assistant. That means you can play it on devices that support Google Assistant’s voice recognition technology,",
@@ -1107,110 +1211,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-openai-codex-shows-the-limits-of-large-language-models.md",
-      "title": "OpenAI Codex shows the limits of large language models",
-      "excerpt": "A new paper reveals significant issues with OpenAI Codex and its handling of large language models, particularly in deep learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/",
-      "originalUrl": "https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/software-engineer.computer-code.GettyImages-1000820778.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models/amp/",
-      "publishedDateTime": "2021-07-18T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-natural-language-understanding-tough-for-neural-networks.md",
-      "title": "Natural language understanding tough for neural networks",
-      "excerpt": "The shortcomings of natural language understanding can make or break your AI and neural machine learning strategy. Here's how to deal.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/?via=indexdotco",
-      "originalUrl": "https://venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/nlp.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/amp/",
-      "publishedDateTime": "2021-07-18T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

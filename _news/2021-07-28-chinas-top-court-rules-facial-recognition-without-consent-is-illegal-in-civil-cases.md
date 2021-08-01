@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "NIST starts work on artificial intelligence risk management framework"
+    excerpt: "The US NIST has made a Request for Information (RFI) call, as it commences the development of a risk management framework for artificial intelligence. Through the RFI, which appears in the Federal Register,"
+    publishedDateTime: 2021-07-30T09:02:00Z
+    webUrl: "https://continuitycentral.com/index.php/news/erm-news/6511-nist-starts-work-on-artificial-intelligence-risk-management-framework"
+    type: article
+    provider:
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 37
+    images:
+      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "NIST Works to Create AI Risk Management Framework"
     excerpt: "Citing a need to secure artificial intelligence technologies, NIST is working to create risk management guidance around the usage of AI and machine learning, the"
     publishedDateTime: 2021-07-31T20:00:00Z

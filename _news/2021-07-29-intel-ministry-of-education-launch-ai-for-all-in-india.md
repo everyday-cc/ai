@@ -9,7 +9,7 @@ ampWebUrl: "https://m.freepressjournal.in/article/business/intel-ministry-of-edu
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/intel-ministry-of-education-launch-ai-for-all-in-india/5afa6e56-6c30-4b0e-a0fa-9867d94a8a12"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Tata Communications unveils IZO financial cloud platform in India"
-    excerpt: "Tata Communications on Tuesday announced the launch of IZO financial cloud platform in India, that aims to enhance performance and security of organisations in the banking and financial services space."
-    publishedDateTime: 2021-07-27T11:58:00Z
-    webUrl: "https://mybigplunge.com/business/tata-communications-unveils-izo-financial-cloud-platform-in-india/"
-    type: article
-    provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 24
-    images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/07/Tata-Communications-unveils-IZO-financial-cloud-platform-in-India-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "1Jta/DPxrcFLxENaG+9hX5M9wI/HyiFDeZ98NI+cFClr0asM3clRkAjHQS1KIkDCKBhauhoAjFeOqD2ihbZJUokjAxI3ASAvzm4o4FFk1ycpUYg6w8SLhZEUjdvZcv4t1i3KBX9EQC3weHHFmiW1pTyoMudNCi834thR8cTqh/Q0dMpfoZPPYshpXH8Ko0Ei7dIXHLyBjMk/csy+SXzSkMGCs+fS6cGchKPpjqmd6bA9ZMH+PqF770Ez1DCaQz5Rnqz6j7TllqJ23zOV4rG4MrLRMIroOPDEyiUcDR9BhUkZqYYCgJgEhnYzGVzn64/S1Hj+XtL8tzNq/uRD3WMbOgZo1eeR/VevHreyEKvlMmc=;RHjYlX5BAIftKhmV1iJC5A=="

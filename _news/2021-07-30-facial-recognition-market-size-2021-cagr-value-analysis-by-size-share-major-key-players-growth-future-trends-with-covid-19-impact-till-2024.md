@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "North America Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 41.24% through 2027"
+    excerpt: "Jul 29, 2021 (Market Insight Reports) -- Selbyville, Delaware. North America Artificial Intelligence in the Healthcare Market report provides key statistics on the market status of the North America Artificial Intelligence in the Healthcare Industry and is ..."
+    publishedDateTime: 2021-07-29T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4124-through-2027-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8CSLrDuZfJNQWOd7FOafrKkd3njePohCrsoNeBE8p7RU93K0ntMus0E2KX1QhCmd51qzORe8hLsJBC8h/UTVbIGe9DEaJELVjdjP71R2sOyydRKPqGNZRWwBfmyfTcxBCMXvpoyldBVOg0nMuqqY5SZwXahZOrecSf7mh/055F1EItJZBjOb8J7kU0dFmQvl2NEQOwPATTykOrOBwUz/W2TJ0fDzt/oHPZXxpOhDv5vtWBTFPM4MBbuhqe8VBI6mCLrK3d0H9aTSfxlFCs0mPCb13wnFsqg1i4X+MuMNP159rjmLAEKXIhqydkLSjsYivImjQHJHN5Uu13vQhKZvycsijMfTQln9KONWVRTYxXI=;+Csdr0yWcT5PETicB+pYaw=="
 ---

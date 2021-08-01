@@ -53,50 +53,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-31-artificial-intelligence-wants-you-and-your-job.md",
-      "title": "Artificial Intelligence Wants You and Your Job",
-      "excerpt": "The artificial intelligence (AI) behind the soothing voice telling us where to turn has replaced passenger-seat navigators, maps, even traffic updates on the radio. How on earth did we survive before this technology arrived in our lives?",
-      "sourceUrl": null,
-      "webUrl": "https://www.fairobserver.com/region/north_america/john-feffer-artificial-intelligence-ai-news-technology-tech-world-news-32892/",
-      "originalUrl": "https://www.fairobserver.com/region/north_america/john-feffer-artificial-intelligence-ai-news-technology-tech-world-news-32892/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fairobserver.com/wp-content/uploads/2021/07/Artificial-intelligence-news-1.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fairobserver.com/region/north_america/john-feffer-artificial-intelligence-ai-news-technology-tech-world-news-32892/amp/",
-      "cdnAmpWebUrl": "https://www-fairobserver-com.cdn.ampproject.org/c/s/www.fairobserver.com/region/north_america/john-feffer-artificial-intelligence-ai-news-technology-tech-world-news-32892/amp/",
-      "publishedDateTime": "2021-07-31T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fair Observer",
-        "domain": "fairobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-07-31-mayo-platforms-halamka-on-new-who-ethics-guidelines-for-ai-in-medicine.md",
       "title": "Mayo Platform’s Halamka on new WHO ethics guidelines for AI in medicine",
       "excerpt": "The guidelines say humans — not machines — should remain the decision-makers, the technology must do no harm and doctors must be transparent to help patients understand how it's being used.",
@@ -243,6 +199,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-31-computer-vision-in-artificial-intelligence-ai-market-to-witness-excellent-revenue-growth-owing-to-rapid-increase-in-demand.md",
+      "title": "Computer Vision in Artificial Intelligence (AI) Market to Witness Excellent Revenue Growth Owing to Rapid Increase in Demand",
+      "excerpt": "A Latest intelligence report published by AMA Research with title \"Computer Vision in Artificial Intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-to-witness-excellent-revenue-growth-owing-to-rapid-increase-in-demand-2021-07-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-to-witness-excellent-revenue-growth-owing-to-rapid-increase-in-demand-2021-07-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-ai-weekly-ai-adoption-is-driving-cloud-growth.md",
       "title": "AI Weekly: AI adoption is driving cloud growth",
       "excerpt": "As enterprises embrace AI technologies, they're increasingly turning to the cloud to meet key infrastructural needs.",
@@ -303,7 +311,7 @@
       "originalUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -691,6 +699,59 @@
       ]
     },
     {
+      "path": "_news/2021-07-30-aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases.md",
+      "title": "AWS Neptune update: Machine learning, data science, and the future of graph databases",
+      "excerpt": "Neptune ML is powered by Amazon SageMaker and the open source Deep Graph Library (DGL), to which Amazon contributes. GNNs is a relatively new branch of Deep Learning, with the interesting feature ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "originalUrl": "https://www.zdnet.com/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/14/dab15c07-8cf8-4f40-9413-97eff4356f4f/awsneptunearchitecture.png",
+          "width": 1435,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "publishedDateTime": "2021-07-30T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-how-no-code-ai-is-changing-business.md",
       "title": "How No-Code AI Is Changing Business",
       "excerpt": "According to a 2017 survey by Deloitte, 47% of businesses complained of difficulties integrating AI projects into their current systems. Meanwhile, 40% noted cost as a significant inhibiting factor. And 37% said managers simply don’t have enough expertise to implement AI successfully,",
@@ -941,7 +1002,7 @@
       "originalUrl": "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1097,7 +1158,7 @@
       "originalUrl": "https://in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1140,7 +1201,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -1182,58 +1243,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-get-started-with-the-amazon-kendra-amazon-workdocs-connector.md",
-      "title": "Get started with the Amazon Kendra Amazon WorkDocs connector",
-      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-amazon-kendra-amazon-workdocs-connector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-amazon-kendra-amazon-workdocs-connector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

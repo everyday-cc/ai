@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers Working to Improve Autonomous Vehicle Driving Vision in the Rain"
-    excerpt: "Researchers are studying ways to improve the vision of autonomous cars operating in bad weather conditions of rain, snow and fog."
-    publishedDateTime: 2021-07-29T17:40:00Z
-    webUrl: "https://www.aitrends.com/selfdrivingcars/researchers-working-to-improve-autonomous-vehicle-driving-vision-in-the-rain/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 36
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/07/7-30BadWeatherDriving-2.jpeg"
-        width: 550
-        height: 366
-        isCached: true
   - title: "How autonomous vehicles are changing the face of transportation"
     excerpt: "Autonomous vehicles (AVs) technology is implemented in several types of vehicles fulfilling both commercial and personal transportation needs globally. They rely on AI and ML to increase the level of intelligence used by understanding human participation."
     publishedDateTime: 2021-07-29T10:42:00Z

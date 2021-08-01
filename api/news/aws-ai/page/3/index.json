@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-03-facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows.md",
+      "title": "Facial recognition tech has been widely used across the US government for years, a new report shows",
+      "excerpt": "The use of an assortment of other companies’ facial-recognition products was also reported in that same timeframe, such as Amazon’s Rekognition software. Ten agencies told the GAO that it used ...",
+      "sourceUrl": null,
+      "webUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2021/06/30/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows-2/",
+      "originalUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2021/06/30/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kvia.b-cdn.net/2021/07/hypatia-h_23d667f55b4c015e1415b2e40186c54d-h_18bcfaf1b7723aeabe16bdb83b9561b0-300-scaled.jpg",
+          "width": 2560,
+          "height": 1654,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-03T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVIA",
+        "domain": "kvia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision.md",
+      "title": "Detect manufacturing defects in real time using Amazon Lookout for Vision",
+      "excerpt": "In this post, we look at how we can automate the detection of anomalies in a manufactured product using Amazon Lookout for Vision. Using Amazon Lookout for Vision, you can notify operators in real time when defects are detected, provide dashboards for monitoring the workload, and get visual insights",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/29/1-2693-Architecture.jpg",
+          "width": 800,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-02T10:28:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Latest Industry Trends, Industry Size, Key Drivers and Future Demand Forecast",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -1264,92 +1360,6 @@
       "provider": {
         "name": "The Bakersfield Californian",
         "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio.md",
-      "title": "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio",
-      "excerpt": "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence-based cybersecurity market in optimistic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-heres-why-you-shouldnt-miss-the-aws-summit-india-online-2021.md",
-      "title": "Here’s why you shouldn’t miss the AWS Summit India Online 2021",
-      "excerpt": "Cloud is the new normal. We are witnessing an interesting shift in the technological landscape, where the speed of digitization is much faster than ever before. Irrespective of the business size ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/06/shouldnt-miss-aws-summit-india-online-2021/amp",
-      "originalUrl": "https://yourstory.com/2021/06/shouldnt-miss-aws-summit-india-online-2021/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Image4hey-1624267905932.jpg ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/06/shouldnt-miss-aws-summit-india-online-2021/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/06/shouldnt-miss-aws-summit-india-online-2021/amp",
-      "publishedDateTime": "2021-06-21T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -39,15 +39,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "Spatial Vision in Humans and Robots"
-    excerpt: "This collection will be of interest to biological researchers investigating how the brain solves spatial problems, as well as to researchers in robotics and computer vision systems."
-    publishedDateTime: 2021-07-27T13:06:00Z
-    webUrl: "https://www.cambridge.org/tc/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 4
 
 secured: "u5FwWcCVSvUaAhODm24vNDZhHPkkGBog3m+9/wQa2v+AFFpPmtsof/1G+6MupGtfVqJ3cErWLerYD3MZQ8gw0KRKG4cyBknkYCQSS/zpaFBveb++tu4DkIkB1lV8iO4W1xAm/zjRRWRBU2Y79cxjuBSrZmyaWZ4z2ou3HY4fuKcFY/2zf/3AJ9zZSQWIZvA+u+cB4K/y8GfGV56vPimedyzzGJdvmnDI8CrG6G9O2+Raba9TKILM+0cQxz9gyIbTcopWjs7LGSeVRRlhu4oZt2KjkUYIq1eK2yi9xRnAqi+DURmLgWw0xKV1g/aQbRnEX22uJdr4zuquH84EHruMbDsEBeW9bQq8TjLOEMEyibR0xcMkIP701lUIV1fhD3sr0gcKkdooBgdfyttQSM4kMKt0pUxEee6ZWZ7u99cinBx4XggMz4uPv+clTerwGJaEb2kaUXzi3egY7ArGvtW7QtkBkTXHxrwAqrF9gv8jlkCqP+VM/uIxpgPpgdy457q5mmKkAFOoYM5vbhSHhw5/cA==;KurFIdzIRmk5jf/dgoB4Ng=="
 ---

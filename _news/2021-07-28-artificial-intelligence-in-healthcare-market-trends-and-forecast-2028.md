@@ -51,36 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Hiding malware inside AI neural networks"
-    excerpt: "A trio of researchers at Cornell University has found that it is possible to hide malware code inside of AI neural networks. Zhi Wang, Chaoge Liu and Xiang Cui have posted a paper describing their experiments with injecting code into neural networks on the arXiv preprint server."
-    publishedDateTime: 2021-07-27T12:56:00Z
-    webUrl: "https://techxplore.com/news/2021-07-malware-ai-neural-networks.html"
-    ampWebUrl: "https://techxplore.com/news/2021-07-malware-ai-neural-networks.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-malware-ai-neural-networks.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/malware.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Healthcare Artificial Intelligence Market Future Challenges & Industry Growth Outlook By 2021-2026"
-    excerpt: "Delaware, U.S. - The deployment of artificial intelligence in healthcare will be significantly bolstered by the influx of advanced and newer technologies. There is an increasing appeal to remotely render services with enhanced care to affected patients that are stationed across less-developed regions of the world."
-    publishedDateTime: 2021-07-27T09:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-challenges-industry-growth-outlook-by-2021-2026-2021-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 40.48% through 2027"
     excerpt: "Artificial intelligence in the healthcare market is projected to progress at 40.48% of CAGR during the forecasting period 2019-2027. The major factors driving the global AI in the healthcare market are the increasing usage of big data,"
     publishedDateTime: 2021-07-29T04:25:00Z

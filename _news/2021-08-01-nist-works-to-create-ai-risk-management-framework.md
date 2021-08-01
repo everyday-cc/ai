@@ -33,6 +33,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "NIST starts work on artificial intelligence risk management framework"
+    excerpt: "The US NIST has made a Request for Information (RFI) call, as it commences the development of a risk management framework for artificial intelligence. Through the RFI, which appears in the Federal Register,"
+    publishedDateTime: 2021-07-30T09:02:00Z
+    webUrl: "https://continuitycentral.com/index.php/news/erm-news/6511-nist-starts-work-on-artificial-intelligence-risk-management-framework"
+    type: article
+    provider:
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 37
+    images:
+      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "China’s Top Court Rules Facial Recognition Without Consent Is Illegal in Civil Cases"
     excerpt: "China’s Supreme People’s Court on Wednesday ruled in a judicial interpretation that using facial recognition technology without consent would violate law in civil cases, amid rising concerns about the technology’s misuse in public venues and residential compounds."
     publishedDateTime: 2021-07-28T12:38:00Z

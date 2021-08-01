@@ -23,159 +23,45 @@ topics:
   - AI
 
 related:
-  - title: "Older drivers like self driving cars, ride hailing"
-    excerpt: "A survey by the US National Council on Aging (NCOA) and Volkswagen Group of America  found that 70% of older...Read"
-    publishedDateTime: 2021-07-27T10:47:00Z
-    webUrl: "https://www.just-auto.com/news/older-drivers-like-self-driving-cars-ride-hailing/"
+  - title: "Self-Driving Car Market Size Future Scope, Demands and Projected Industry Growths to 2025"
+    excerpt: "Jul 28, 2021 (Market Insight Reports) -- Selbyville, Delaware Market Study Report LLC has added a new report on Self-Driving Car market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size."
+    publishedDateTime: 2021-07-28T15:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2021-07-28"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/The_new_study_by_NCOA_and_VW_of_America_1.jpg"
-        width: 1500
-        height: 990
-        isCached: true
-  - title: "Self-Driving Cars Market is Set to Fly High in Years to Come"
-    excerpt: "Latest published market study on Global Self Driving Cars Market provides an overview of the current market dynamics in the Self Driving Cars space as well as what our survey respondents all outsourcing decision makers predict the market will look"
-    publishedDateTime: 2021-07-30T13:49:00Z
-    webUrl: "https://www.openpr.com/news/2342283/self-driving-cars-market-is-set-to-fly-high-in-years-to-come"
-    ampWebUrl: "https://www.openpr.com/amp/2342283/self-driving-cars-market-is-set-to-fly-high-in-years-to-come"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342283/self-driving-cars-market-is-set-to-fly-high-in-years-to-come"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/7/U730543665_g.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Self-driving cars deliver food from Chandler nonprofit to Gilbert seniors"
-    excerpt: "A fleet of bright blue wrapped autonomous vehicles are hitting the streets in the East Valley to help a nonprofit deliver meals to seniors."
-    publishedDateTime: 2021-07-30T11:05:00Z
-    webUrl: "https://ktar.com/story/4595022/self-driving-cars-deliver-food-from-chandler-nonprofit-to-gilbert-seniors/"
-    ampWebUrl: "https://ktar.com/story/4595022/self-driving-cars-deliver-food-from-chandler-nonprofit-to-gilbert-seniors/amp/"
-    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4595022/self-driving-cars-deliver-food-from-chandler-nonprofit-to-gilbert-seniors/amp/"
-    type: article
-    provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 43
-    images:
-      - url: "https://ktar.com/wp-content/uploads/2021/07/Photo-1.jpg"
-        width: 620
-        height: 370
-        isCached: true
-  - title: "Faith in Self-Driving, Ride-Hailing Vehicles Depends on Age"
-    excerpt: "When self-driving cars first showed up, they were hailed as a way for seniors to remain active and independent without needed to be able to drive. After some initial skepticism by many, attitudes are changing,"
-    publishedDateTime: 2021-07-27T16:07:00Z
-    webUrl: "https://www.thedetroitbureau.com/2021/07/faith-in-self-driving-ride-hailing-vehicles-depends-on-age/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 39
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/07/NCOA-and-VW-study-graphic.jpg"
-        width: 1600
-        height: 1056
-        isCached: true
-  - title: "Self Driving Cars And Some Of The Worst Vehicles Ever Made"
-    excerpt: "We are seeing advanced technology in every corner of our world and as A.I. continues to emerge everywhere self-driving cars are being tested as a possibly for future transportation."
-    publishedDateTime: 2021-07-29T12:52:00Z
-    webUrl: "https://wnbf.com/self-driving-cars-and-some-of-the-worst-vehicles-ever-made/"
-    type: article
-    provider:
-      name: WNBF
-      domain: wnbf.com
-    quality: 39
-    images:
-      - url: "https://townsquare.media/site/499/files/2021/07/attachment-GettyImages-51933806.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        width: 1199
-        height: 807
-        isCached: true
-  - title: "Why self-driving trucks aren't putting drivers out of work yet"
-    excerpt: "Big tech firms have been promising an autonomous trucking revolution for years now, but even with billions poured into the industry, manned trucks still rule. Here's when, and how, that could change."
-    publishedDateTime: 2021-07-28T20:07:00Z
-    webUrl: "https://www.overdriveonline.com/equipment/article/15066699/why-selfdriving-trucks-arent-here-yet"
-    type: article
-    provider:
-      name: Overdrive
-      domain: overdriveonline.com
-    quality: 24
-    images:
-      - url: "https://img.overdriveonline.com/files/base/randallreilly/all/image/2021/07/mack_no_driver_backward.61007e987cbad.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 660
+        height: 630
         isCached: true
-  - title: "Beijing permits self-driving vehicle testing on expressways"
-    excerpt: "Driverless cars will soon hit expressways for testing in Chinese capital Beijing, as the municipal authority has approved the gradual opening of several expressway sections for unmanned vehicles."
-    publishedDateTime: 2021-07-30T04:22:00Z
-    webUrl: "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/index.html"
+  - title: "Artificial Intelligence in Sports Market 2021-2027 - Data Analysis, Growth Factors, Industry Outlook And Future Prospects | By ARC"
+    excerpt: "The market for artificial intelligence in sports is expected to grow at a CAGR of around 32.8% from 2020 to 2027 and expected to reach the market value of around US$ 3,555.9 Mn by 2027. The global Artificial Intelligence in Sports Market research report is inclusive of detailed and productive qualitative and quantitative information,"
+    publishedDateTime: 2021-07-29T04:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-2021-2027---data-analysis-growth-factors-industry-outlook-and-future-prospects-by-arc-2021-07-29"
     type: article
     provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
-      - url: "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/img/c4760435a17d4a8596f17f176fcff716/c4760435a17d4a8596f17f176fcff716-1920.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Algorithm could improve how self-driving cars take on narrow streets"
-    excerpt: "By modeling different levels of driver cooperation, researchers hope to help autonomous vehicles safely and efficiently navigate situations where a driver’s temperament figures into decision-making."
-    publishedDateTime: 2021-07-30T17:44:00Z
-    webUrl: "https://gcn.com/articles/2021/07/30/ai-automated-vehicles.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 24
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cities/street_parking.jpg"
-        width: 760
-        height: 368
-        isCached: true
-  - title: "Protecting self-driving cars from cosmic rays, size limits for wind farms"
-    excerpt: "Latest Explore all the latest news and information on Physics World; Research updates Keep track of the most exciting research breakthroughs and technology innov"
-    publishedDateTime: 2021-07-29T15:24:00Z
-    webUrl: "https://physicsworld.com/a/protecting-self-driving-cars-from-cosmic-rays-size-limits-for-wind-farms/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 23
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2021/07/Autonomous-vehicle-1168362632-iStock_metamorworks.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 662
+        height: 630
         isCached: true
-  - title: "Xiaomi’s Self-Driving Division to Develop L4 Autonomous Driving Technologies"
-    excerpt: "The self-driving division of Chinese handset maker Xiaomi will recruit 500 staffers to develop Level-4 autonomous driving technologies, founder Lei Jun said in his Weibo account today. The recruitment website for Beijing-based Xiaomi said the company is urgently seeking data center architects,"
-    publishedDateTime: 2021-07-28T12:38:00Z
-    webUrl: "https://www.yicaiglobal.com/news/xiaomi-self-driving-division-to-develop-l4-autonomous-driving-technologies-"
+  - title: "Computer Vision System Market Size, Industry & Landscape Outlook, Revenue Growth Analysis to 2028"
+    excerpt: "The Global Computer Vision System market is forecast to reach USD 25.69 Billion by 2028, according to a new report by Reports and Data. The Computer Vision System market is witnessing continuous growth in the recent year that has been primarily driven by significant advancements in the information and communication technology sector."
+    publishedDateTime: 2021-07-31T10:57:00Z
+    webUrl: "https://www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 21
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/xiaomi-self-driving-division-to-develop-l4-autonomous-driving-technologies-/15096304359178240.jpg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
-    excerpt: "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with improved AI/ML operations and internal components ..."
-    publishedDateTime: 2021-07-29T00:18:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/07/28/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 26
 
 secured: "jg+qr4uqcFLSU+AZFS9kBaa6b3ckbNzQUE2+WIUUxNDEruz0/bbqQp5JvJX0hCOI63YaWguOkfTcZ0rOQezJT1bnB7LiCkU2Fn1l7Hoh1h03d39SZmh+whOozfVMBUmdPOVEMvxkNtFyYivTlvaHm30NX9x5UafZbkXUDxt/t23UL5hTpQ+vtGZKhi+f6x9/v5SDno0sVJW0HqgenED8jjqIBoERyZo2z1MZK+6MoRO5gvfuC+DoRhHwiV/1+7/PXz+V7OZuOYwdVTU8tPBlf+v7TIuOu+XpuuffYOim72B+sjgCPHKjzfEKAXXsD8nia35MryeD04SKItBSaLZWtonsZn7FVn2cFJYwCeZBX5We4Nw83QJM86I58aFYCuyKbdjPGU1ZZ+cQYaWKeK2Q4DP17nbK4z9HX+YW8j0qUXIgC/oNzl409I4p6S0nh8oFaoaPU2uLytlvTkUNLbfUjrVGWopR5RuM10DgB8qBvqq0pBbQy+nTtNn+/668XSlZcwQ9lLWw71cUkzr6PSVmBw==;lrwypCGEBpaWRCIVJrHEjg=="
 ---

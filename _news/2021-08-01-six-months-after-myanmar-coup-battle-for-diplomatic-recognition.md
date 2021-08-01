@@ -6,6 +6,9 @@ publishedDateTime: 2021-08-01T02:05:00Z
 originalUrl: "https://www.aljazeera.com/news/2021/8/1/six-months-after-myanmar-coup-battle-for-diplomatic-recognition"
 webUrl: "https://www.aljazeera.com/news/2021/8/1/six-months-after-myanmar-coup-battle-for-diplomatic-recognition"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Al Jazeera English

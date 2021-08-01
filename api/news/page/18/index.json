@@ -2,6 +2,110 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-07-16-facebook-robots-are-getting-smarter-watch-them-go-wild-video.md",
+      "title": "Facebook Robots Are Getting Smarter, Watch Them Go Wild (Video)",
+      "excerpt": "Facebook has been training robots to think for themselves. Its chief AI scientist Yann LeCun explains why with a video that shows what robots can do when left to their own devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e79dd602c7bff56bca0980%2F0x0.jpg%3FcropX1%3D202%26cropX2%3D958%26cropY1%3D0%26cropY2%3D426",
+          "width": 756,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/amp/",
+      "publishedDateTime": "2021-07-15T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-why-transformers-offer-more-than-meets-the-eye.md",
+      "title": "Why Transformers offer more than meets the eye",
+      "excerpt": "Transformers, a major innovation in AI and machine learning, have practical real-world applications -- and implications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/",
+      "originalUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/trust-2-e1611944466862.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/amp/",
+      "publishedDateTime": "2021-07-15T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-why-we-need-engineers-who-study-ethics-as-much-as-maths.md",
       "title": "Why we need engineers who study ethics as much as maths",
       "excerpt": "The Miami apartment collapse is a grim reminder of why engineering matters, and why comprehensive education in ethics should be embedded in the training of engineers.",
@@ -1054,99 +1158,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-an-algorithm-found-you-how-data-determines-price-tags-for-films-and-finds-new-talent.md",
-      "title": "‘An Algorithm Found You’: How Data Determines Price Tags for Films and Finds New Talent",
-      "excerpt": "Like every production company, Jumpcut wants to discover new talent. As a data-driven startup, it leans on machine-learning algorithms to analyze content on YouTube and Reddit — everything from production value to the emotional response of commenters — and spits out a list of prospective content creators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/04/26/ai-50-americas-most-promising-artificial-intelligence-companies/?sh=5718e24b77cf",
-      "originalUrl": "https://www.msn.com/en-us/finance/other/e2-80-98an-algorithm-found-you-e2-80-99-how-data-determines-price-tags-for-films-and-finds-new-talent/ar-AAMbWx8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608360b00a7f489ff308c3f2%2F0x0.png%3FcropX1%3D58%26cropX2%3D1928%26cropY1%3D40%26cropY2%3D1092",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T05:30:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "forbes.com/sites/alanohnsman/2021/04/26/ai-50-americas-most-promising-artificial-intelligence-companies/?sh=5718e24b77cf",
-        "domain": "forbes.com/sites/alanohnsman/2021/04/26/ai-50-americas-most-promising-artificial-intelligence-companies/?sh=5718e24b77cf",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-ai-based-chatbots-speed-up-intelligent-talent-recruitment.md",
-      "title": "AI-Based Chatbots Speed Up Intelligent Talent Recruitment",
-      "excerpt": "Intelligent chatbots are proving that there’s no talent shortage when you know how to personalize employee recruitment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d9c7f4d73f511129de383c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/07/15/ai-based-chatbots-speed-up-intelligent-talent-recruitment/amp/",
-      "publishedDateTime": "2021-07-15T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

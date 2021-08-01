@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-infrastructure-market
 webUrl: "https://www.marketwatch.com/press-release/ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273-2021-07-27"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "North America Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 41.24% through 2027"
+    excerpt: "Jul 29, 2021 (Market Insight Reports) -- Selbyville, Delaware. North America Artificial Intelligence in the Healthcare Market report provides key statistics on the market status of the North America Artificial Intelligence in the Healthcare Industry and is ..."
+    publishedDateTime: 2021-07-29T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4124-through-2027-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Size 2021 CAGR Value, Analysis by Size, Share, Major Key Players, Growth, Future Trends with Covid-19 Impact till 2024"
     excerpt: "Our analyst has been monitoring the facial recognition market and it is poised to grow by USD 3.35 bn during 2020-2024 progressing at a CAGR of 12% during the forecast period. Our reports on facial recognition market provides a holistic analysis,"
     publishedDateTime: 2021-07-30T08:44:00Z

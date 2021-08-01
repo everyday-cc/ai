@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -123,6 +123,20 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/masses_shutterstock_-Ints-Vikmanis.jpg"
         width: 629
         height: 319
+        isCached: true
+  - title: "Don’t Lose the Human Touch When Using AI and Big Data for Marketing"
+    excerpt: "Bots, machine learning, predictive models, and big data all impact businesses daily. But are these technological advancements making brands appear less caring? Less real? Less human? It’s a valid concern,"
+    publishedDateTime: 2021-08-01T04:11:00Z
+    webUrl: "https://customerthink.com/dont-lose-the-human-touch-when-using-ai-and-big-data-for-marketing/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 54
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
+        width: 3608
+        height: 2336
         isCached: true
 
 secured: "GDLfQ+jaxJXGdjLoHLe2zdOcdHEI+D5meF7ooxY5J0o2IJ1bDsla+YS/Sm1cZTniE/paq1dcDnnSC56wJUQQkjmlVYvq96ycItNIjokuZJGWkk6pKzpX6VkPpvsJKnYxfIKE1XOU0LskepR5wrQ9BW5/F6xpZ1js0vqK1bFRXsMiPJo9vFAqKhP62T9kb9fsdebUUxqAaX/hm5NA/N5TC9P53WUV99c97VSt03pYVnShpzUsO/wHNYY195hajYler8Mb68deaH4IMAKKBfMh236fkHpbjej6wqk5nhM5jOo0WNMVwFE14OfxIc2ProFNOjNmlXHeD+fSYej03OLT7fmmBzHLVWfyheJJ/u17D5A9O17emf8L5FrvTKx72/WyG0SbeGyFGNsrjng4et4Q1EzoibXgoQ2kJN+j88+Lk+wwgPWV4dBjXeiulBR4qCEB7hgkTGubBsbmc+yrwLVUok/5C/Hxv706eccgeqz9CR3n3jjbzE1wVoxkgXNX1HM/aEnOgW/yp2DxHVg2U5cYmg==;SBLBzYHgtqb7Zyebe8U5BA=="

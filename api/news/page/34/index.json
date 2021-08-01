@@ -2,6 +2,91 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-07-05-the-role-of-enterprises-is-artificial-intelligence-ai-taking-away-jobs.md",
+      "title": "The Role of Enterprises: Is Artificial Intelligence (AI) Taking Away Jobs?",
+      "excerpt": "It has been the rule of nature and society that when the application of technologies like Artificial Intelligence in the workforce or daily lifestyle",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/",
+      "originalUrl": "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2021/07/ai-taking-over-more-jobs-in-us-2019.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/",
+      "publishedDateTime": "2021-07-05T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-facial-recognition-used-to-verify-vaccine-beneficiaries-govt.md",
+      "title": "Facial recognition used to verify vaccine beneficiaries: govt.",
+      "excerpt": "Even though the Ministry of Health and Family Welfare (MoHFW) has admitted in a recent RTI query response to the use of facial recognition technology (FRT) for online verification of beneficiaries at vaccination centres,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/news/national/gl2d2b/article35152785.ece/ALTERNATES/LANDSCAPE_615/Facialrecognition",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece/amp/",
+      "publishedDateTime": "2021-07-05T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-ai-legislation-must-address-bias-in-algorithmic-decision-making-systems.md",
       "title": "AI legislation must address bias in algorithmic decision-making systems",
       "excerpt": "One promising bill proposes a cross-government investigation into discriminatory algorithmic processes throughout the economy.",
@@ -1056,111 +1141,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar.md",
-      "title": "Tesla AI chief explains why self-driving cars don’t need lidar",
-      "excerpt": "Tesla also owns and builds the AI chips installed inside its cars. “These chips are specifically designed for the neural networks we want to run for [full self-driving] applications,” Karpathy ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/",
-      "originalUrl": "https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/tesla-model-3-silver-prototype-promo-shot-headlands-e1625177292725.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/amp/",
-      "publishedDateTime": "2021-07-03T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-pruning-preserving-quantization-aware-training-pqat-keras-example.md",
-      "title": "Pruning preserving quantization aware training (PQAT) Keras example",
-      "excerpt": "This is an end to end example showing the usage of the pruning preserving quantization aware training (PQAT) API, part of the TensorFlow Model Optimization Toolkit's collaborative optimization pipeline. _, baseline_model_accuracy = model.evaluate( test ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/model_optimization/guide/combine/pqat_example",
-      "originalUrl": "https://www.tensorflow.org/model_optimization/guide/combine/pqat_example",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-03T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

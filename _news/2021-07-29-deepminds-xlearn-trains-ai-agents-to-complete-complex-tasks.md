@@ -39,20 +39,6 @@ related:
         width: 1198
         height: 600
         isCached: true
-  - title: "DeepMind Launches Evaluation Suite For Multi-Agent Reinforcement Learning"
-    excerpt: "DeepMind has introduced a scalable evaluation suite for multi-agent reinforcement learning called Melting Pot."
-    publishedDateTime: 2021-07-27T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-launches-evaluation-suite-for-multi-agent-reinforcement-learning/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/DeepMind_AIM.gif"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "bgn8te7r2JRWk9jJBPiocfscp/8Iy0xMlkBPMXd8Fego+ejw/g6S3vEZ1oKCG0+e9eKcZAbow6xWyWfmt/A6QSW491BAAiiEsIda9SkjLHMbSttPAIG3UbatcnYhtYZMlU+wiT+xSG/UxqlpMcxOlJx8al4r0qCQsXHvhHoApnbCpN/hNZhDhAlx5LV6bQ2B9A6IsWuyXk+JLFAy4poPNXFfOCywYVgRfwhFqHYOwKDaHuLZeaiNGFi3khBK9U/AHFIyb0CvvKaaCtTEtSaexdcsp3PA8PNJ3VxEUHtI6X/qwCyeukIpxh/SHfcPDNbEidmyiakc/2r2b3GHO+8ywt4rmLnp85gzwsXF3ljGDmo=;vRk09R1ry2JZtrx3P1Wgbw=="
 ---

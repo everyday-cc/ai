@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/28/deepminds-xlearn-trains-ai-agents
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/28/deepminds-xlearn-trains-ai-agents-to-complete-complex-tasks/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "DeepMind Launches Evaluation Suite For Multi-Agent Reinforcement Learning"
-    excerpt: "DeepMind has introduced a scalable evaluation suite for multi-agent reinforcement learning called Melting Pot."
-    publishedDateTime: 2021-07-27T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-launches-evaluation-suite-for-multi-agent-reinforcement-learning/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/07/DeepMind_AIM.gif"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "XP3vAPVFFZ1uLrfJ1yMCK0EaJA+D7DOJet6wzbo0kuNQDfibQTqr8kKh16GZ8jSN/4d9QthktmHmPNR4lX5Df+iZD4H7NsMQAbZfx3qTOPmzNSLTTiv7AM6DnIokOX0dVfWFSQeD34E31KN7mxoFxX/9hrbJv/QIb+b7G6Ku8DS+J1JAIl1PNyjs+oReHwwafjjbySTnOe8giJsCsYz0R52Y3SJN5SdHA/3le+y/ZQQkkDZWpddUrzWU/r+40tZg1TkaPvOMYtOE+ZrGHt7Vid+ZencPxSROJs5rW2K59uLcVi/vFUOY+qH4lFKeC8v+E+oCHy3y2lBuGTLfnNcpYuLVI0d2iJ0Rg/z2ZBqGD7SvPujUJ6NIlU/4Rzr6V+qykpBuR4oHV4aiUahJMhMkcOZh4lC8qe8REKIpj+tPy8WCv4CZ93Bdtzn0frCctgR6rq+Tct41bxSz4RqA7wlkyr1F6RbvO2sy/LmaYyUBNVpJf19FcglKSrZEZN+a2bzLq7P21j0xfHrziPAl+Zyhog==;oAtfxgNPwRWJn7KSzrdP0g=="
 ---

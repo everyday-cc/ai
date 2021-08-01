@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/business/can-ai-help-tackle-climate
 webUrl: "https://www.bloombergquint.com/business/can-ai-help-tackle-climate-change"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Could Dramatically Speed Up Climate Action"
-    excerpt: "The list of applications for AI keeps on growing, but the industry needs guardrails to ensure solutions are climate aligned"
-    publishedDateTime: 2021-07-27T10:48:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-07-27/can-ai-help-tackle-climate-change"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5iKrnHxGzA8/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI Could Dramatically Speed Up Environmental Action"
     excerpt: "The list of problems AI can solve is long, and the number of startups using AI to solve some of those problems is longer still. As with any new technology, there’s also a lot of hype. To cut through the noise,"
     publishedDateTime: 2021-07-28T10:20:00Z
