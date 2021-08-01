@@ -1,21 +1,23 @@
 ---
 category: news
 title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
-excerpt: "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with ..."
-publishedDateTime: 2021-07-29T01:45:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
-webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
+excerpt: "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with improved AI/ML operations and internal components ..."
+publishedDateTime: 2021-07-29T00:18:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/07/28/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self"
+webUrl: "https://stockhouse.com/news/press-releases/2021/07/28/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI in Autos
   - AI
-  - Computer Vision
 
-secured: "wRrDI3mIG6Hq79ALG6qBzsKQlhVoKbeBU8wtNL+rP1Tv7BLJEXnMc+2AgjaMQ0bpQ+LoYRHFOZ7IRUVhMaqJMKB2XMyy0zoz5Mvp9ilI3SmjrXdrlmvQA+j754tZbFul9q0aqma/0p+JNNP+JoHgsnaLoeI9rVDKXoBEuRn2SrOGkdvcC/JOZrK3EsHG3uC4pp5oAt1on47PEPnGW5qA/5KScbX6K7AU5IN/fpnvAGOG3/HTFoJif1axG1GP7vuI3HFGluUNps85Q9T2rtXZUlNUp+gE7EKkdT4Q7/YC3NfWZZhhoJ+qTQm+0II3uZfCuMI8PrcpL3lVpaTnMFKLBo58dUAvvizBAfrewC1X+cU=;+suYSiDNcgrtmM8DcCYgOw=="
+secured: "zvCGdGAEwXQ09c16FgI8pEF/PDKMwgavslkTpO5CFjUUS4J/r8cvCfuk2N9jqd4XBQXXY+QALRNhYuUlRPqhSx6xZzT7eUc664oV0wn1tqaWXnJIs15cJFwX8+ielv0FMGDStPFZ0nyp1bpqSKBlw8IXc2Tq/XOXjaba2mAc0mxBDMCZQeYQiR9MnJqX1ZutlQYN2bm5et1RCsyOb3IRUWQGhzyNDg6thbVSrpjW+xvQGj8/7A83LM7vBKmSmJeaiiCzQqsV5IaTddxtkLt34XQ7QPi/NGM4pZ6C/2TbFGXUWJtwTLCkPZPIWTpUXt5GJt63ZNd5XGC2Pvmc8jr59a2t2fFmP40gRo0+XXkFDcc=;peR3Ed+cUws3g8hHEkVbkA=="
 ---
 

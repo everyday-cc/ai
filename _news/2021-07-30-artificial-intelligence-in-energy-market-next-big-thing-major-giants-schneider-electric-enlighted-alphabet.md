@@ -1,35 +1,43 @@
 ---
 category: news
-title: "Healthcare AI Market Next Big Thing"
-excerpt: "Latest released Global Healthcare AI Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price, and sales revenue to better derive market size estimation."
-publishedDateTime: 2021-07-29T22:21:00Z
-originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
-webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
+title: "Artificial Intelligence in Energy Market Next Big Thing : Major Giants Schneider Electric, Enlighted, Alphabet"
+excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/29/2021 — The latest independent research document on Global Artificial Intelligence in Energy examine investment in Market."
+publishedDateTime: 2021-07-29T21:42:00Z
+originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-energy-market-next-big-thing-major-giants-schneider-electric-enlighted-alphabet"
+webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-energy-market-next-big-thing-major-giants-schneider-electric-enlighted-alphabet"
 type: article
-quality: 86
-heat: 186
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - IBM AI
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
+  - title: "Healthcare AI Market Next Big Thing"
+    excerpt: "Latest released Global Healthcare AI Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price, and sales revenue to better derive market size estimation."
+    publishedDateTime: 2021-07-29T22:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision in Artificial Intelligence (AI) Market Next Big Thing : Major Giants Apple, NVIDIA, Facebook, Cognex"
     excerpt: "The \" Computer Vision in Artificial Intelligence (AI) – Market Development Scenario \" Study has been added to HTF"
     publishedDateTime: 2021-07-29T02:27:00Z
@@ -140,21 +148,7 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 21
-  - title: "Artificial Intelligence in Energy Market Next Big Thing : Major Giants Schneider Electric, Enlighted, Alphabet"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/29/2021 — The latest independent research document on Global Artificial Intelligence in Energy examine investment in Market."
-    publishedDateTime: 2021-07-29T21:42:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-energy-market-next-big-thing-major-giants-schneider-electric-enlighted-alphabet"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 17
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
-secured: "Q2FVXViiEEm5mjI37lFVz3yI9BSwS2FO5bqtFfjl/dzZtA2HWFqdHAqplAvnRDIxsuXbKsSWZwDFR+XnVF4u8bWi21YxA3ZMEN2ykjRwIBPGdKkChATkuuJzD+ACUppE3Drn8V6PkvFwCUmNQPjGAEQhKqFjSuqYX9iLgm3FjPU8h82kNAlQ3C+fUn1gsY5coWxasW/0YzFciuKYO7WJr553QVHm5g1DpHhKqTWizyQBH2FxK1rLUmQrMCE06zjglIouOl1mEAsafylWdD/2V83bZEM2Znim+g1zXDdE+3Td4q7Hw0uZrt0dG2wJK6/5FeiNGp/QFhpayFEHeFykgH1aPdCFohrh3E0qlcmVAKU=;Zs7IIukFfTKON3HinPr5gA=="
+secured: "+0EJ5B+Y2JOhjgb7b8hiJfs9SfTyh9SH2FdcvJWCpNP52IUdIx1mATFzp1Nc9U4ODaKjHE9oMn4bptn3xw3LwHRcSXl6a87yuRsemcTw6Oa/HVSoDeCNIa7o6VwcyReQxzFohE44NI9H8T4ZhdZ2qusS08ioq1c/wjDpt2Z0m2KdVIOZfh2aycEe2nHeVifrPtGBQs/smyMr/P9Z8BWb0snqsK5sUPvLcwqUJpAi4doiA4Wx7oxe0f5+NKKnLpNf03y12wz9BFlEQ45hMdYbHkkYxqT2F0qh9F/edm/OjWeBT8+Avbs54fTdGoDzGhEYFiQViHpGeXwv5QSYoXKUZGBWAcyCAl0v+8RiDe0mP/g=;XNiFNlspiF4O2ax3EYVflA=="
 ---
 

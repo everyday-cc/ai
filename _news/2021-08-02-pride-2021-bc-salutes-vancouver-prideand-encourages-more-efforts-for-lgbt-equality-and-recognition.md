@@ -6,6 +6,9 @@ publishedDateTime: 2021-08-01T18:38:00Z
 originalUrl: "https://www.straight.com/living/pride-2021-bc-salutes-vancouver-pride-and-encourages-more-efforts-for-lgbt-equality-and"
 webUrl: "https://www.straight.com/living/pride-2021-bc-salutes-vancouver-pride-and-encourages-more-efforts-for-lgbt-equality-and"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Georgia Straight

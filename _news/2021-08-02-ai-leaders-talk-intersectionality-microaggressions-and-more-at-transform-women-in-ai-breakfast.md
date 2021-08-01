@@ -6,6 +6,9 @@ publishedDateTime: 2021-08-01T17:20:00Z
 originalUrl: "https://venturebeat.com/2021/08/01/ai-leaders-talk-intersectionality-microaggressions-and-more-at-transform-women-in-ai-breakfast-2/"
 webUrl: "https://venturebeat.com/2021/08/01/ai-leaders-talk-intersectionality-microaggressions-and-more-at-transform-women-in-ai-breakfast-2/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: VentureBeat

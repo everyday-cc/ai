@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T12:00:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210728005284/en/Renesas-and-Syntiant-Develop-Voice-Controlled-Multimodal-AI-Solution-Combining-Advanced-Vision-and-Voice-Technologies/"
 webUrl: "https://www.businesswire.com/news/home/20210728005284/en/Renesas-and-Syntiant-Develop-Voice-Controlled-Multimodal-AI-Solution-Combining-Advanced-Vision-and-Voice-Technologies/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Business Wire

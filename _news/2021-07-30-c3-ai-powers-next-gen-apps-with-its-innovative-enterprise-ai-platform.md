@@ -7,7 +7,7 @@ originalUrl: "https://www.constellationr.com/research/c3-ai-powers-next-gen-apps
 webUrl: "https://www.constellationr.com/research/c3-ai-powers-next-gen-apps-its-innovative-enterprise-ai-platform"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1700
     height: 2200
     isCached: true
-
-related:
-  - title: "How BMW Powers its Processes with Artificial Intelligence"
-    excerpt: "Artificial intelligence is powering several industries, including the automobile industry. This is how BMW is powering its operations with AI technology."
-    publishedDateTime: 2021-07-28T04:27:00Z
-    webUrl: "https://www.analyticsinsight.net/how-bmw-powers-its-processes-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Artificial-Intelligence-5.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "LEa44vestpfFj5GsL/hT8ppF3uhsE9rLg3xCd+wDjG+XNzEktPgFxPMeCA7GeFTdyiH8ATItnyZEiMOTC7S7ez+x3JlL8RHdm5KOmsWXAf9NnMvY4sccY+sLDZJnw3ngW28ZjQdp98KjBnQHs2fcjzb3ak5fbnCBBXukzLMQn16PcgZTICWzyHP9FeoYhRBXBlF0kY5X0yO+cr9cvXjHvS5Lu+g7zumGx6m/+mIGp23grkNtXLucbgPO4OLh9h1LEhaqROJMCFHGL4HorPmiU4n9xy9ls3jxQ0AjAtHGgSRRJkemDw3IE6ICytStb33TWry2BrutySKbhKQ7OruOUOY3QsAnbsOlKeGMCcz/1yTjMYsgbpkTQ76syd9RoXfnE04VDvoSEuo/oq/mMVa4VRHa555pAgdAnn8lVZ8hifV38+3IfvO1z2H5uP68FrzI+43bXzE/OH7vx1V8LMJkX1mG+l9c/G9UK2tzjlKh7VU2hugDxgs5Z6rAJLPXCdKMeIruRuzlqBpqV8XllSMoMQ==;LGLkbp8hS4c/oP7x74vvZQ=="
 ---

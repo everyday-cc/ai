@@ -125,6 +125,29 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "Artificial Intelligence on the rise in UAE's healthcare sector"
+    excerpt: "The UAE is one of the biggest adopters of AI in the region and has invested a total of $2.15 billion in the sector over the last decade. Artificial intelligence (AI) is transforming the healthcare industry - along with several other industries in the country and has augmented efficiency and productivity during the pandemic."
+    publishedDateTime: 2021-08-01T19:50:00Z
+    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Artificial_Intelligence_on_the_rise_in_UAEs_healthcare_sector-ZAWYA20210801121423/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 34
+  - title: "Artificial Intelligence in Energy Market Next Big Thing : Major Giants Schneider Electric, Enlighted, Alphabet"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/29/2021 — The latest independent research document on Global Artificial Intelligence in Energy examine investment in Market."
+    publishedDateTime: 2021-07-29T21:42:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-energy-market-next-big-thing-major-giants-schneider-electric-enlighted-alphabet"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "7NFoK1My4SAl1tTDueGrbnCmY5D3+Lc4F0eU2uVc7A2igF2HyI6BRpMYSgcIwLZnRJYXMuKhVY+bQ81/jEDpLqEYOzQGjAD7jNWHG5ynJOio50mucT8U1wL/A5HFlko96KasRDJzBHDBS1Cwiggx96uByiKXQkm1W0R7IQp83h7LMgP32DSjgfWveGXylGNcm70bnVorIz7dumGXxrNOfV8NfoHFklIMKG1+pcUvcxNvtSpByav9/VJmgW/wi+SaeHr9/UcEXlV4fNy3vtRMtkZM+Dvp19eJfYDro0nTTv/aDcTYO2Q8rkmso4aGqQBHyURFPKW6wwtd15bclfz2wmG2Hvr8UC+98prVgUJvIoQ=;t+fjT14zwc1NlTJ7OO5dyg=="
 ---

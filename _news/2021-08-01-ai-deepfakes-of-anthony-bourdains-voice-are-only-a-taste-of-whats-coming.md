@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-01T13:00:00Z
 originalUrl: "https://www.columbian.com/news/2021/aug/01/ai-deepfakes-of-anthony-bourdains-voice-are-only-a-taste-of-whats-coming/"
 webUrl: "https://www.columbian.com/news/2021/aug/01/ai-deepfakes-of-anthony-bourdains-voice-are-only-a-taste-of-whats-coming/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:

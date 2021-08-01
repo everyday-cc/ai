@@ -74,15 +74,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Indian AI-based fitness gamification startup raises $873k in seed funding"
-    excerpt: "Insane AI uses computer vision, AI, and augmented reality to let users use their body as a game controller and convert workouts into a multiplayer game."
-    publishedDateTime: 2021-07-28T04:56:00Z
-    webUrl: "https://www.techinasia.com/ola-enter-used-car-retailing-business/next"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 46
 
 secured: "zs4lFpBi3dHF+qux5RuceeWUQlNxEZsHdEpmyF5PLWLZK/yO/O/DxEUwV0GnxXJF7dwXY33cwU40bykWDH60wsBPZxSR1FnOy9bFOEVxiBpH/gNqnxTMtnib33t3K1eQq8wvpD9f7C221R1c9RKCH3BCPjLzeQjrKVjgJ6bBWv4+9fv1DdLeJVzBzCvQHEis0TrQOrSDyXh2X9QmvIsp27o80iI53RTiTdGDAySYLKkLUjMxcjOYPx+KYk+JdCtWokObRRUqROkzIGaF3+do2NOGWOlj+TUMDaCALeTuFXgT2GxyEMnge7Zb7LgZTj25NVfO1xKDXdnYAtoy8J9UXTmO6DNKDejhW4+lrrbKyv6+OAY7gcre4ZLcUda6VrgnTTyDwlNb/i+Ae2HeNzcad4QLBjr+8R/YOOi1oPadqMgGGpQ1JrEWU0yo0tbcTnkymYVarSa4Z6kAz8Rk8aMWCWPuFbb6sA75rikqiKOIMJ4sKz2L+lbZj8zEk5Ys0Ia4+eoZplX7t+XZIVBjxaZo+g==;tr2IaJURkZ4ScCIir/UycA=="
 ---

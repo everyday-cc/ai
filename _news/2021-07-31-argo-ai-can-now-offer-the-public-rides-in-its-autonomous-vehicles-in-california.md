@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 592
     isCached: true
+
+related:
+  - title: "Argo AI will now provide free rides in California in its autonomous vehicles"
+    excerpt: "Argo AI has secured the Drivered Autonomous Vehicle Passenger Service Pilot program which allows companies to operate a ride-hailing service using autonomous vehicles while adhering to specific rules."
+    publishedDateTime: 2021-08-01T17:10:00Z
+    webUrl: "https://www.neowin.net/news/argo-ai-will-now-provide-free-rides-in-california-in-its-autonomous-vehicles/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 64
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2015/12/ford-fusion_story.jpg"
+        width: 760
+        height: 570
+        isCached: true
 
 secured: "IPphMqGdtBm8hbGYuOOz0kAfCrhGKKN01JuECH4xoaQ0BXvOEWi+5pl/5X6G1TFdY42ylTPmBYxoAoOnpx0H2gnhR576rinMXCLG/AKFueDWcm7e0btDf1RrqdMTJG05ZmU/eHECId8q/tAyQUN+Lr0SY/6381H7ys5bgI90FG0x23YpLzqM61KRIPKLy88oVkR9v4Rv5wpKfzO7KSxT1sOP4pwc06GYXPdyENqD5qdb/iv4kttzD41j5+NKbnyEYVNd0Yt1D/BRjhLqhHURxJh3UGMHo8WJSMO/fEfVUEJl+3XVsdZlHgjgYCzDTyJxiJ0x05ac0nRUYdCZRJ6UKaC/bgElYKxh2lDi5xM+Ok7x6YYFi++rYknpCZdJCLQrcJO5f8i5gyYHV1X6M3/Vd+xEENjVWllNjRdRJL8Msucj/s+z5s1BbuJbVq4ZS6MFKrVKj4Ll4dn+46RsvGvYDSGwd3BijnAgvT3YqKcyQaszjogXmQiw1R0OLIke9QNQxFlaTtzYSWGd0LDfLX1esA==;gQ8zWJTxDYMbpwG98C4yfw=="
 ---

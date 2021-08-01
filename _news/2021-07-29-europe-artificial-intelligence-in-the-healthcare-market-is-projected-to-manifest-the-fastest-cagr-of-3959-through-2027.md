@@ -119,6 +119,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "Artificial Intelligence on the rise in UAE's healthcare sector"
+    excerpt: "The UAE is one of the biggest adopters of AI in the region and has invested a total of $2.15 billion in the sector over the last decade. Artificial intelligence (AI) is transforming the healthcare industry - along with several other industries in the country and has augmented efficiency and productivity during the pandemic."
+    publishedDateTime: 2021-08-01T19:50:00Z
+    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Artificial_Intelligence_on_the_rise_in_UAEs_healthcare_sector-ZAWYA20210801121423/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 34
   - title: "Global Artificial Intelligence In Healthcare Market 2021 Analytical Overview, Technological Innovations with Economic Indicators By 2028"
     excerpt: "The primary sources employed while crafting Artificial Intelligence In Healthcare Marketing report include the industry experts from the industry comprising the management corporation processing organizations analytical service suppliers of the industry s value chain This market research report sheds light"
     publishedDateTime: 2021-07-28T10:27:00Z
@@ -130,6 +139,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 21
+  - title: "Artificial Intelligence in Energy Market Next Big Thing : Major Giants Schneider Electric, Enlighted, Alphabet"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/29/2021 — The latest independent research document on Global Artificial Intelligence in Energy examine investment in Market."
+    publishedDateTime: 2021-07-29T21:42:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-energy-market-next-big-thing-major-giants-schneider-electric-enlighted-alphabet"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "qwZEPPLdXHk1RvOarSn5msqLeym9quQicOl8RGnlIgN17b/hwkbUf5a70cdBUkjKHymH+FVXL85nDNGZ1STL055Vs5voL5KwWdV5VzeoZPEbOv18mUyxmysVkHGLtVbOzN8wR72O31hsWQYqzW8gXSpZe2vbdbmD4XY5FteceDdw1Pc20Cu28VUV8qGCpVZ8094kizGh0ojbblKWf34cDRYq8L65LtT+AXpMP/kTbf2BK3koO4RvlYqaCDAlCqSi2xsUj24CJE+G/xFhYc8B6j6eUfvzVZNb/U/+mF0aV54Pmj2QrkXbvhj+NElheypu5oTtkipNKQkrZ/3StlCfaa382jWdhCKyYSkt7s9m8Tw=;89qwLaSotfqTuSV1o+2rnw=="
 ---

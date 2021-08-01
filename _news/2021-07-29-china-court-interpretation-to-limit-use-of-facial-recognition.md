@@ -99,34 +99,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "China's top court specifies rules for facial recognition"
-    excerpt: "China's Supreme People's Court on Wednesday specified a set of regulations for the use of facial recognition. The rules involve issues concerning the application of laws in the trial of civil cases related to the use of facial recognition technology in handling personal information."
-    publishedDateTime: 2021-07-28T02:44:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270478203/chinas-top-court-specifies-rules-for-facial-recognition"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1627364184066.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Supreme court: Abuse of face recognition infringes legal rights"
-    excerpt: "All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC,"
-    publishedDateTime: 2021-07-28T02:40:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202107/28/WS6100c394a310efa1bd664f53.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202107/28/6100c8c1a310efa1e3b20c6d.jpeg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Eight Things You Didn’t Know about Facial Recognition"
     excerpt: "Facial recognition is a technology that has become common in recent years for a variety of uses, some as naive as unlocking your iPhone or Tesla car, and"
     publishedDateTime: 2021-07-28T17:00:00Z

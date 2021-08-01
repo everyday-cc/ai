@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-30T10:27:00Z
 originalUrl: "https://www.slashgear.com/new-ai-tool-helps-researchers-predict-the-progress-of-parkinsons-disease-30684654/"
 webUrl: "https://www.slashgear.com/new-ai-tool-helps-researchers-predict-the-progress-of-parkinsons-disease-30684654/"
 type: article
+quality: 46
+heat: -1
+published: false
 
 provider:
   name: SlashGear
@@ -17,6 +20,19 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Researchers aim to help protect US Navy divers using AI systems"
+    excerpt: "A group of researchers, including scientists from the University of Illinois Chicago, were given $725,000 from the US Office of Naval Research to develop an AI system to help protect divers from"
+    publishedDateTime: 2021-07-31T13:18:00Z
+    webUrl: "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/"
+    ampWebUrl: "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 67
 
 secured: "TJzPvRoxiVQEwHkyB2SW8iEmv7TpwMbMXCIaDWWNBZHyk4l8FSrakBIo6zughHt9AKoOH2E826Dp1/oETorpfaxx6DkxFSptLwGbdZZY/qRP+AZ/CGL+CZVCwfnWh9oZoQ1DQZmAlUIZqrq32Te/hjkx5RyvkYqLNSvA3GObjUlBci3fMHPnngBwHdfOgPIzWsOrJbjPLjScYcVvIgndvMupgzKXhfDeKV/tK7q97B+EJQt9EANws8pU2tFgCEfYUQ5AHQN+AhkRKI0sYHi6N/uF3vUjEy3a81JbNW1OTAR6Qg4bbsU417l9fqkvdNhClDnUCt4TUZnAt9VUK6WiCc+5zf+34II2oXYM6OTIhz4UJDZgSlYEYf0dw2Rz2grTfYn4/hC272dToU2aVFl+5tEEISkn/bHlGtNU84Csuafa1YuyXrQA0VziSAQcrUbe/XQxmUm/HIn2Evhtt/GtS8Y4kO3VNrBA9t4lisOWFoofxIlt8IV32aYqCrpZsYlBClOHk3eib2sI64o79Pgnbg==;J82zYsN53CrSidoQy28GFw=="
 ---

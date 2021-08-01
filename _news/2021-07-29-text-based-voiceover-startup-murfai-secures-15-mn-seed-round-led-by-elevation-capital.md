@@ -62,15 +62,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Indian AI-based fitness gamification startup raises $873k in seed funding"
-    excerpt: "Insane AI uses computer vision, AI, and augmented reality to let users use their body as a game controller and convert workouts into a multiplayer game."
-    publishedDateTime: 2021-07-28T04:56:00Z
-    webUrl: "https://www.techinasia.com/ola-enter-used-car-retailing-business/next"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 46
   - title: "Text-based voice-over startup Murf.ai raises $1.5 mn in seed funding led by Elevation Capital"
     excerpt: "Murf.ai, an AI-enabled voice-over startup, has raised $1.5 million in seed funding led by Elevation Capital. Angel investors who participated in this funding round include Vidit Aatrey (CEO, Meesho),"
     publishedDateTime: 2021-07-29T06:21:00Z

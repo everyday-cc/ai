@@ -7,7 +7,7 @@ originalUrl: "https://news.cgtn.com/news/2021-07-29/Baidu-AI-Cloud-announces-str
 webUrl: "https://news.cgtn.com/news/2021-07-29/Baidu-AI-Cloud-announces-strategy-upgrade-to-empower-industries--12igTcyo9Da/index.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "IBM upgrades Big Iron OS for better cloud, security and AI support"
-    excerpt: "IBM continues to fine-tune its mainframe​ to keep it attractive to enterprise users interested in keeping the Big Iron in cloud and AI development plans."
-    publishedDateTime: 2021-07-28T04:44:00Z
-    webUrl: "https://www.arnnet.com.au/article/690108/ibm-upgrades-big-iron-os-better-cloud-security-ai-support/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 56
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_204810889.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "AzdN3o2+5pG5oLxes/FmU0am15YTFjkP5Gow+AUku8EruCqGxTK+baEHH/liTVKYXxLu5rDndYllpa227jZxxVkWSCuUva4eUpBr8K6Owz0CSeqUy4EEp5peAi2mFihOftCoUGjCuWaPxe+hYLkQL8kvGnW5W77sQlmpoNiXdP2Adh98tS1SXLhdoYW7oF9R5ntKm9FjPQ0hwg2phg/XxhO7zHvJF2KG3nQZhOp8IG8BJXRzi1xf6GvLLT6jI0kIJeQXi8NUuIFUkmytNx8zk3SDXcIQzSPm+06N8FN5Wadc4PXfkM0OYcMPUQPg4hYXO0smoNTZaTgcEhKhdkQ3FbsLY934XwT7mRGIMKYryBU=;8RwOnbpI3Dsq40xgZOxa2w=="
 ---

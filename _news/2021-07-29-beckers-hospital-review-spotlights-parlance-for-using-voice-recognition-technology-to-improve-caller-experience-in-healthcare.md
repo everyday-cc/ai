@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-29T14:23:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161"
 webUrl: "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Business Insider

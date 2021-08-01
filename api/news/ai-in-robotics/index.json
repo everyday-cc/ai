@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-02-cassie-oregon-state-universitys-bipedal-robot-makes-historic-5k-run-using-machine-learning.md",
+      "title": "Cassie, Oregon State University's bipedal robot, makes historic 5K run using machine learning",
+      "excerpt": "The project with the OSU engineering department is funded by a $1 million grant from the Department of Defense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.registerguard.com/story/news/2021/08/01/bipedal-robot-oregon-state-university-5-k-run-machine-learning/5437748001/",
+      "originalUrl": "https://www.registerguard.com/story/news/2021/08/01/bipedal-robot-oregon-state-university-5-k-run-machine-learning/5437748001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/30/NREG/c353a51e-4ad2-46c1-b301-0d7a4eb4e028-51313532646_a80e1016fc_o.jpg?auto=webp&crop=6719,3779,x0,y701&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.registerguard.com/amp/5437748001",
+      "cdnAmpWebUrl": "https://amp-registerguard-com.cdn.ampproject.org/c/s/amp.registerguard.com/amp/5437748001",
+      "publishedDateTime": "2021-08-01T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register-Guard",
+        "domain": "registerguard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-facebook-open-sources-droidlet-robotics-development-platform.md",
       "title": "Facebook open-sources Droidlet robotics development platform",
       "excerpt": "Facebook researchers wrote in a blog today that Droidlet ... but we believe that by sharing our research work with the AI community, all of us will get there faster.” You can read more about Droidlet here or check out the platform’s GitHub page.",
@@ -1376,50 +1420,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-people-suck-so-a-robot-with-microsoft-ai-has-to-pick-up-cigarette-butts.md",
-      "title": "People suck, so a robot with Microsoft AI has to pick up cigarette butts",
-      "excerpt": "A robot that utilizes Microsoft AI is being used to clean up beaches. It uses machine learning to identify cigarette butts in the sand and then picks up the waste.",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts",
-      "originalUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/07/cigarette-robot-project-bb-4-3_0.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp",
-      "publishedDateTime": "2021-07-22T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

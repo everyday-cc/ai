@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-28T19:54:00Z
 originalUrl: "https://www.bbntimes.com/financial/understanding-the-role-of-artificial-intelligence-in-the-spac-bubble"
 webUrl: "https://www.bbntimes.com/financial/understanding-the-role-of-artificial-intelligence-in-the-spac-bubble"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: bbntimes

@@ -6,6 +6,9 @@ publishedDateTime: 2021-08-01T18:00:00Z
 originalUrl: "https://dailynexus.com/2021-08-01/artificial-intelligence-the-terminator-of-truth/"
 webUrl: "https://dailynexus.com/2021-08-01/artificial-intelligence-the-terminator-of-truth/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Daily Nexus

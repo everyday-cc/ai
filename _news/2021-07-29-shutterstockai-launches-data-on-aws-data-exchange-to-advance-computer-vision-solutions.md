@@ -1,21 +1,34 @@
 ---
 category: news
 title: "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions"
-excerpt: "PRNewswire/ -- (NYSE: SSTK), a leading global creative platform offering full-service solutions, high-quality content, and tools for brands, businesses and media companies, today"
-publishedDateTime: 2021-07-29T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions/article_31d7e0e3-2c2f-55cf-8c77-21f2734b7df4.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions/article_31d7e0e3-2c2f-55cf-8c77-21f2734b7df4.html"
+excerpt: "The availability of Shutterstock.AI's data on AWS Data Exchange will allow customers, from tech startups to industrial giants, to train computer vision models at scale with precision, advancing their computer vision technology."
+publishedDateTime: 2021-07-29T11:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
+webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
 type: article
+quality: 93
+heat: 93
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
   - AWS AI
 
-secured: "FXv8nqlmzcnXDU2I6Pn9Ag0wYz+qeHbLPio7JkKC6cHBgOfOhe3OSs+a/IZph3yajz3kjmc50c3R6Me2z+exdYO5Hs+RrGD4eeTT3BcgyNS8oobHtkcLSIosKdiudCOrf+2K/iH2xhkhvtDaRrL7cxqRRcr0CEBRF/RHV6TnOjlhMgkcpNR8wNCguY11B0/laTK04CgO4QHoUeHJdaUJ0iHqwvw1TA4cA0Z2GcjkfCAn+sO927HU6hxL87KxqTCGu/6YcZQ7R8OliUAiqATVM1aq4NczAKnbgwvczLRWVYhsbWSI/lMDwjwXZ32BUE99a/vkots1vLuMK3EFO335pdbhdg9KJtN+pMopg0B0LmPev0pTH4WBnPVlzMtBlbaODNk73+qTgLA4+Co97gXGrUa8BpjqaF9LXX5MRLZcWXj220YvZ7MEWQhwI7yDutP4jXPa2zb5wLf1z+Fs2OpCLGhgKfn/Q0lb+MD95+5eqBIErFdMroPm9s6daLPXctuYLzjXYMQyKZQR/05phdmUBA==;COAoYsZ85KoVTee1SaVOPA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "GMbIyThXrK65ojuPAmgf5JiHmL264Ac5kdd5PySD1bbxhRD8zXUhcNrG48AjbjV4vOOcegZ04XONr6Htn8qG3yfbn9d+IUEQeLGOxvcQSxWPDhIKaD1Xma8D6FfntqpdHTIskeK9gTZJXxwIcnax199/PrJPS2EOhT0NpINd6Ue/dGn4eVLXc63pJ/Zb0dYdsGBpKGPYGOkowK9ervCnDGUcXzOUmTPiB34bqU26RNX5NFXXSypsy/dWHVRr+Cy/n319oFJ+dgRX2mu8KwubRoM2iQbZAlPvR0MTcCjdUXYrzsfk+vTKus7cTQUWrx1ARd28YSnQnd/LCLiOKr9gwvUNeYmBim74vKlBx4oN8Uk=;2Z+tfv58RjkLP/r50HHMSg=="
 ---
 

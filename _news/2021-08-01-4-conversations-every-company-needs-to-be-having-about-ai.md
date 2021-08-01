@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2021/08/01/4-conversations-every-company-needs-
 ampWebUrl: "https://venturebeat.com/2021/08/01/4-conversations-every-company-needs-to-be-having-about-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/01/4-conversations-every-company-needs-to-be-having-about-ai/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 

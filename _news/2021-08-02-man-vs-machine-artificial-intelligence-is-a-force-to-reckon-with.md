@@ -6,6 +6,9 @@ publishedDateTime: 2021-08-01T18:15:00Z
 originalUrl: "https://www.financialexpress.com/industry/technology/man-vs-machine-artificial-intelligence-is-a-force-to-reckon-with/2301191/"
 webUrl: "https://www.financialexpress.com/industry/technology/man-vs-machine-artificial-intelligence-is-a-force-to-reckon-with/2301191/"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: The Financial Express

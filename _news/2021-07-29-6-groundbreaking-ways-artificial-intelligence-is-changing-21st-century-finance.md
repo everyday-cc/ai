@@ -41,17 +41,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI Is Expediting Medicine Development"
-    excerpt: "The world of big data in the healthcare sector is vast and growing exponentially. Tools that leverage artificial intelligence (AI) and machine learning (ML) are critical to organizing, correlatin"
-    publishedDateTime: 2021-07-28T05:00:00Z
-    webUrl: "https://www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.html"
-    ampWebUrl: "https://www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.amp.html"
-    cdnAmpWebUrl: "https://www-realclearmarkets-com.cdn.ampproject.org/c/s/www.realclearmarkets.com/articles/2021/07/28/how_ai_is_expediting_medicine_development_787407.amp.html"
+  - title: "Upping Your New Business Game with AI"
+    excerpt: "With demand for technology innovation and efficiency at an all-time high, we can look to Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP) to help streamline and automate proposal and RFP management,"
+    publishedDateTime: 2021-07-30T18:30:00Z
+    webUrl: "https://www.law.com/2021/07/30/upping-your-new-business-game-with-ai/"
     type: article
     provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 39
+      name: Law
+      domain: law.com
+    quality: 17
 
 secured: "FuYf5rxMcG3dX2D+vgFSjk29zs6EeA/Vz5ixfHdZ+1vZEPadH4im7yi4x1vaeM9N2mzLXtFCOP8rdIrY1+qOjIRIkLVM3glAlSmhmgQsTIeh1EPH62nEFIvkmWHKF9OHALkbesm/vzDMxugt2wJ4F/QFSDl67OwEwpEgRw4ZOATsWwL16g775eZ1XPDny01NWBSrht8L3sPBQDNd5UaLfKzgqyM2m4rM7nGQ0o4WVM4glCHo5OE/DoGDHxkQERNsj/vjJsceymMlAueg0oQECmq7GSkt2JKedieS/3OQCw7a6wTBN8lQDWvv3s3FlK/PQL9qiImmd7PSulBw3uQv0fvDqaFPq1+T4AfJMr2i098=;4jxgF+Xm0fCGXwCL5Fd9Pw=="
 ---
