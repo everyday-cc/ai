@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.mmh.com/images/2021_article/Covariant_screen_shot.png"
         width: 1506
         height: 998
-        isCached: true
-  - title: "AI data training platform Kili Technology raises $25 million"
-    excerpt: "AI data training platform Kili Technology has raised $25 million in a new funding round. This is just six months after a seed investment of $7 million. The Paris-based startup helps companies transform raw data into high-quality,"
-    publishedDateTime: 2021-07-27T08:00:00Z
-    webUrl: "https://tech.eu/brief/ai-data-training-platform-kili-technology-raises-25-million/"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 37
-    images:
-      - url: "https://tech.eu/wp-content/uploads/2021/07/kili-1.jpg"
-        width: 1600
-        height: 700
         isCached: true
 
 secured: "IuKREFZfeT/DuJnbUxHTvKvbusfXs6Oy/ItyAPcv+YiBrM93ny9MXD09qWfgmhSCnPZzw65X4MJRVXsv0Zuz+SawxNaNorTVV3fLNRVXFIPb4ejCad3M4mEJoIPbBLIRZOMZh+xSBVkAkMHPdfiCvwjkMpvCIwLMiW/4Tt7wkUXC/xbw2g856gbA7r4TgS1rBzjr6PYrMRbK7s1h5J2f5gxVEEvkzSvOp88351JnDY12vNffFJI2qIJpPEeTtL3PIMvY17sqhgimkGRFAmLYHMNyV7uZCkkxbEHWIUhQD/u6bTQWxQgZBiDIywYAvPz6MuJHwc1tM5UYSC+z2MPnQ4sTFF2L5goJ7IDZqJaV1/40rdEjoF+XJ8u3/uFvfP9ipD83VZchGsTIbFpQFg4p/TC1Ux5I8wNkho/oXIH49Ufsza5Ea8Hpqf46hLC8XR9vDZAhqo58Y/Z0fbmE9p1e+Bw3fbo5soFgRoWKXIMWmupMaYuFz8BvjYkMCD0UrFfescUvyVcH02TRTaiXb7dzGA==;8skIXgW8XWf4Uk1YN016ig=="

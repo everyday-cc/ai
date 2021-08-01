@@ -32,20 +32,6 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 19
-  - title: "Voice Recognition Biometrics Market 2021 with a CAGR 19 %,Top manufacturers Records, Size, Market Share & Trends Analysis"
-    excerpt: "Voice Recognition Biometrics Market watch out for new highest revenue Study Reports 2021 with Top Countries Data 2021, para1 with YoY (Year over Year) 0.159 , Current Trends 2021,"
-    publishedDateTime: 2021-07-27T06:14:00Z
-    webUrl: "https://www.wicz.com/story/44382574/voice-recognition-biometrics-market-2021-with-a-cagr-19-top-manufacturers-records-size-market-share-amp-trends-analysis"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 0
-    images:
-      - url: "https://ABSOLUTEREPORTS.images.worldnow.com/images/21103222_G.jpg?lastEditedDate=1627352097000"
-        width: 6688
-        height: 2338
-        isCached: true
 
 secured: "7GU82Pe41r6AyLiNdCFYThedNrRXI1PASkiYgGO24Cl9L4T6F81EgF/fJtoVIbj2x4YPj9IEd+QGVyloreqCOjYEKfmJ89O5lgT5r+v2GNoRFOuLMpug9hpKfp1paAPNuToI1RlfYPE2le/i+WPcTuwXJWatcH7CIVOKr4yq6fC7mCNwG4tPaszaqj/wqoTZaL6P3bNE3HV2X9TB6P/g1bguAk9CztF7ebL77tFZiD6eqGdzRGO0/SBuSRC68+K7VvGbAqCvVZqNdJWjDeP1IxKNRwQ8HXfKbf6fQwe62N55kz86ZAKNOuXo7B44wHMA0cfj0ujHwozmMi/15in4H+OvoYxjMjLdgMcHL1YAYD8=;pYqGJOeqTyaJlGMxnFR8Zw=="
 ---

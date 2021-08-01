@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-31T19:52:00Z
 originalUrl: "https://www.crowdfundinsider.com/2021/07/178541-ai-conversational-chatbot-creator-kasisto-secures-15-5m-via-series-c-led-by-naples-technology-ventures-ncr-corporation/"
 webUrl: "https://www.crowdfundinsider.com/2021/07/178541-ai-conversational-chatbot-creator-kasisto-secures-15-5m-via-series-c-led-by-naples-technology-ventures-ncr-corporation/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Crowdfund Insider

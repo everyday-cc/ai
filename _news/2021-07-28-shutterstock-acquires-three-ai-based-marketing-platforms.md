@@ -20,19 +20,14 @@ topics:
 
 related:
   - title: "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions"
-    excerpt: "The availability of Shutterstock.AI's data on AWS Data Exchange will allow customers, from tech startups to industrial giants, to train computer vision models at scale with precision, advancing their computer vision technology."
-    publishedDateTime: 2021-07-29T11:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
+    excerpt: "including Amazon Rekognition, a solution that simplifies adding image and video analysis to applications using proven, highly scalable, deep learning technology that requires no prior machine ..."
+    publishedDateTime: 2021-07-29T16:16:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-301343857.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
-    images:
-      - url: "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg"
-        width: 400
-        height: 267
-        isCached: true
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 43
   - title: "Shutterstock Announces Formation Of Shutterstock.AI And The Acquisition Of Three Leading Artificial Intelligence Platforms"
     excerpt: "Shutterstock.AI to offer computer vision and predictive performance solutions with the goal of enhancing creative performance NEW YORK, July 27,"
     publishedDateTime: 2021-07-27T11:19:00Z

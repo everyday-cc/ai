@@ -55,20 +55,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "AI data training platform Kili Technology raises $25 million"
-    excerpt: "AI data training platform Kili Technology has raised $25 million in a new funding round. This is just six months after a seed investment of $7 million. The Paris-based startup helps companies transform raw data into high-quality,"
-    publishedDateTime: 2021-07-27T08:00:00Z
-    webUrl: "https://tech.eu/brief/ai-data-training-platform-kili-technology-raises-25-million/"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 37
-    images:
-      - url: "https://tech.eu/wp-content/uploads/2021/07/kili-1.jpg"
-        width: 1600
-        height: 700
-        isCached: true
 
 secured: "DJ81yN0oW+OcOjOMSq3ABrehGcr7c+f/ram6fuMY12CNfiOcpAqFz2FTcoONezrgYQx0YCHfW+Wz9iV+6fEF23QSuYiPlbVVjO0XwsJ2QCgPpGg17Dz0vaCYWSWUeEal+HqTfXynmCMxLOXC9IW9ZXt0XllgmlpH23SZriqRpVCTRFwI1bH2b6NTA2/OP3lstZGYb8o/xjq66m4pgkd8g1z/Qd8sbXmsrA5TNnI5beNPkRExWR2sPRFvrK9zsdQEV4ZAkUpBv7q+Ro2nj8vWXD12H1R2GB3+hi2nIoeXNIgxd+VRz3+aZKYiJ9hv1KQO11v+a+Fsxb1UlGR2mlWT8B1sLK0jS0F+Y/6+xN26i10=;3FZjWk/StWb9Eq/QlJMoKg=="
 ---

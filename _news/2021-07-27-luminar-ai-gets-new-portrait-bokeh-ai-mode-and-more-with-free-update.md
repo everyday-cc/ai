@@ -9,7 +9,7 @@ ampWebUrl: "https://m.dpreview.com/news/2638683344/luminar-ai-update-4-available
 cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/2638683344/luminar-ai-update-4-available-now-adds-portrait-bokeh-ai-and-more.amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 590
     height: 380
     isCached: true
-
-related:
-  - title: "Add \"Portrait Bokeh\" to your photographs with new Luminar AI update"
-    excerpt: "Skylum is set to improve its Lumiar AI photo-editing software with the fourth round of updates next week – and this one will bring Portrait Bokeh mode. Luminar AI, for those who don’t know, is an impressive piece of photo editing software with a focus on using AI-driven effects and templates to automatically analyze images and offer the best editing suggestions."
-    publishedDateTime: 2021-07-27T07:41:00Z
-    webUrl: "https://www.digitalcameraworld.com/news/add-portrait-bokeh-to-your-photographs-with-new-luminar-ai-update"
-    type: article
-    provider:
-      name: digitalcameraworld.com
-      domain: digitalcameraworld.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/SAkz4BNGVadK9r7mjpC9MX-1200-80.jpg"
-        width: 1067
-        height: 600
-        isCached: true
 
 secured: "TYq/kHP7w55/Xyj/WkczIhp43v7UPcEThnz6Zus/8fJxX6U/lEMIGlDYEyHp7Stf52/yzFlf5uc/YX2tsh6PVAsL+3+EgDZ/HF+Rri8tdNEc4F7JhHSIw77RdiwX+21tySwNiAYZJEtA7FGWbMMEbCF6AATGY6TpOsEA73EhgHPG9FwOOaQBHe8ObocvPgGZjbTfO1PsPMyLzqpexMzPW1cUVuI/NsWQvJeEo0cxqZkuexmgA49krEbp8QVSA+UCRzrLQ2BMo6ntAWxWIEayrJ9nMOsE8PeDmKeqcwZ15Vkof5SnIm5YhGTbC6u+dgxT97D9PI3Q1JqmwKvGQHtAkYtEuzV89vr9quoIlFZnaDKx0L34TmuTLpwioZICWWb4+gZS8yGmY1Mzzu5CANYokpYz28VAgyIy3DjEbPAitdFsY4jGhuSa2io0+CDPG42qJnBOM4BNLHR40YjgUeEzFqNAmjxMCmI0vn52g5VDaOzb1rT4YRMQCZi4bQkuRTbzxKx1KRlpzVK+pW6yqs1NEQ==;kGBuRVfjLsMPdVhJ5Z3gLQ=="
 ---

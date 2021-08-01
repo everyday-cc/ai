@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-nex
 webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
 type: article
 quality: 86
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       - url: "https://cdn.openpr.com/U/7/U727367941_g.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Data driven by AI is making the difference in healthcare"
-    excerpt: "Of all industries, nowhere might data analysis, driven by artificial intelligence (AI) be more beneficial than in the healthcare and medical sector."
-    publishedDateTime: 2021-07-27T07:50:00Z
-    webUrl: "https://techhq.com/2021/07/data-driven-by-ai-is-making-the-difference-in-healthcare/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/07/000_1W37NC.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Envision Healthcare deploys AI in radiology"
     excerpt: "National medical group Envision Healthcare said that its radiologists have begun using artificial intelligence (AI) software for several clinical applications."

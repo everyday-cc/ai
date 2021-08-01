@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have-emotional-intelligence/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://medcitynews.com/uploads/2021/07/GettyImages-1010187562.jpg"
         width: 591
         height: 591
-        isCached: true
-  - title: "Pentagon eyes artificial intelligence (AI) enable tactical network to speed flow of actionable intelligence"
-    excerpt: "Merging these separate efforts into a high-speed multi-service war-machine is being a goal of the Joint Artificial Intelligence Center (JAIC)."
-    publishedDateTime: 2021-07-27T06:35:00Z
-    webUrl: "https://www.militaryaerospace.com/computers/article/14207466/artificial-intelligence-ai-tactical-network-actionable-intelligence"
-    type: article
-    provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 34
-    images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/07/AI_networking_27_July_2021.60fe9dca3b4d0.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "6GDT6WiuhHhwJA6iLWG8IPLQQWACy6Ta/whgZPHcYFm+K70ssBn58eP/bvlF/eFBdrPsgqFHT5PQnkoqphreGy8VOkGvw1UBo5+cAvA13ylax+7IEPJWuRXIlJUt4UOG6Jfu+se44ebcjEdDmPzjQ4MS4Fm0WWw0USoAbJ6mnGH6cL+S/GVLNawe0oYCQvmQTUnisCv9K1EZvAU63D86b9mAth5ris2fRzN372BHV4QSgi8rRcFQN1kzTKDyDDolOWai29zm19uEqS/j5sFLgdMH+LniysQpc0ULEzQgKa1dQ61XCF39xdNWS0LHhqOnJOWAKZe/ale9rJGjm5A01X4HVL/fDZFAcALK3ihuYSfDkutMklnvrSYPmGWmxS2m+Pw7dlO5clph9D6WLV5IZJ8D6xHIWTT0s/ZsLuPYShbslPBlK/54q9M7ltLll7fU8Pt706cWmguVnAISxQzzvcMsxl7fGxMECh3HRDV+OP9hDYedxQHYM4Z2Qcnimw/z8xg1yonyvXgfo+tNe84wiA==;Drj/NTHchlIf/FFHba1y+g=="

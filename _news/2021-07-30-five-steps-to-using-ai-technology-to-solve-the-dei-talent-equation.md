@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/07/30/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/07/30/five-steps-to-using-ai-technology-to-solve-the-dei-talent-equation/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 783
     isCached: true
-
-related:
-  - title: "New AI tools aim to improve live-stream content moderation"
-    excerpt: "Expanded partnership between The Meet Group and Spectrum Labs also includes new applications of algorithmic content moderation across live streams and private chats."
-    publishedDateTime: 2021-07-27T06:45:00Z
-    webUrl: "https://www.zdnet.com/article/new-ai-tools-aim-to-improve-live-stream-content-moderation/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/new-ai-tools-aim-to-improve-live-stream-content-moderation/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-ai-tools-aim-to-improve-live-stream-content-moderation/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
 
 secured: "dhRt9gQzVomujeDRQy61yxz3CXVT43c6QQMJjVM2dvJmGFk+Pu6Z030ktSQAIAHwb529WGTtjcdoXLKa8Ykd4cLu36/JOYENYozpechwCP4rNhAORyfapEaxbwrp3pYcR01zS26CUyCxH0QBVpacTpY0YBFb6A2OLPwGRouo5TgoRWt+Bgu8aOiGCrm2YOP3Op+jjrDAdYAnwtsJDhwaqTtuJc6NyvgDVUvhNsUAOXfx30z2qIHHO3WADXhvIPiMp+xdOtW8lp9MTwZBBNC2QMeGQlpO+43uD01K8kffcrNlgu1PJjcpeH4H7bjMXo1nuPTc3VbXQJNXv5y6UKxqLNsvXBpZG650Nr9WlkcprNuTUVKvHvZybXreUX3KDAvXA+ljRl0ecUA1D/cfK/0/O4QhueeGyq573+0Yvp6fqFXFSeht9oGpHYJJurCY3H9qetnFSTEyeCRhfd9ejYXbDOQEU3OtuzYIRgpSKh1+ZyztvuZsiRcUjzORxaJ3xpqLPl2X0NYChw8hAg3sz3weEA==;9d680ZgSwg66G0EhQZ75Dw=="
 ---

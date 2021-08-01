@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 36
-  - title: "Canada’s Fintech industry paying off for business events"
-    excerpt: "There’s something about Canada that inspires images of size and grandeur; whether it’s the expanses of beautiful lakes, the vista of stunning mountain ranges, or the jaw-dropping emptiness of its national parks."
-    publishedDateTime: 2021-07-27T08:27:00Z
-    webUrl: "https://www.c-mw.net/canadas-fintech-industry-paying-off-for-business-events/"
-    type: article
-    provider:
-      name: CMW
-      domain: c-mw.net
-    quality: 24
-    images:
-      - url: "https://www.c-mw.net/wp-content/uploads/2021/07/RESEdmonton-Skyline.jpg"
-        width: 802
-        height: 537
-        isCached: true
   - title: "Fintech trade group taps chief executive"
     excerpt: "The Financial Technology Association has tapped Penny Lee to become the newly formed lobbying group’s first chief executive. Lee most recently led the public affairs practice group at Invariant, and before that worked for the tech incubator 1776,"
     publishedDateTime: 2021-07-27T21:50:00Z

@@ -50,20 +50,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 36
-  - title: "Canada’s Fintech industry paying off for business events"
-    excerpt: "There’s something about Canada that inspires images of size and grandeur; whether it’s the expanses of beautiful lakes, the vista of stunning mountain ranges, or the jaw-dropping emptiness of its national parks."
-    publishedDateTime: 2021-07-27T08:27:00Z
-    webUrl: "https://www.c-mw.net/canadas-fintech-industry-paying-off-for-business-events/"
-    type: article
-    provider:
-      name: CMW
-      domain: c-mw.net
-    quality: 24
-    images:
-      - url: "https://www.c-mw.net/wp-content/uploads/2021/07/RESEdmonton-Skyline.jpg"
-        width: 802
-        height: 537
-        isCached: true
   - title: "Fintech Global News 29 July"
     excerpt: "Switzerland’s long history as a banking center has pushed it to the forefront of fintech.Nick Broughton, a GoGlobal Partner based in Switzerland, said: “GoGlobal BEIJING, July 30, 2021 /PRNewswire/ — Pintec Technologies Holdings Ltd."
     publishedDateTime: 2021-07-30T12:02:00Z

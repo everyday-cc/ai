@@ -8,9 +8,9 @@ webUrl: "https://www.fairobserver.com/region/north_america/john-feffer-artificia
 ampWebUrl: "https://www.fairobserver.com/region/north_america/john-feffer-artificial-intelligence-ai-news-technology-tech-world-news-32892/amp/"
 cdnAmpWebUrl: "https://www-fairobserver-com.cdn.ampproject.org/c/s/www.fairobserver.com/region/north_america/john-feffer-artificial-intelligence-ai-news-technology-tech-world-news-32892/amp/"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Fair Observer

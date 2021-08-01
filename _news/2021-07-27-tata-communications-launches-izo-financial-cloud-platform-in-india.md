@@ -79,20 +79,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Inside the world of DNA decoding in India"
-    excerpt: "Even as genetic-sequencing technology becomes cheaper and faster, the adoption of precision medicine, which decodes a patient's DNA to treat them in a more personalised, targeted way, remains limited in India."
-    publishedDateTime: 2021-07-27T07:30:00Z
-    webUrl: "https://www.forbesindia.com/article/healthtech-special/inside-the-world-of-dna-decoding-in-india/69401/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 24
-    images:
-      - url: "https://www.forbesindia.com/media/images/2021/Jul/img_164437_medgenome.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Tata Communications unveils IZO financial cloud platform in India"
     excerpt: "Tata Communications on Tuesday announced the launch of IZO financial cloud platform in India, that aims to enhance performance and security of organisations in the banking and financial services space."
     publishedDateTime: 2021-07-27T11:58:00Z

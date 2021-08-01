@@ -39,7 +39,12 @@ related:
     provider:
       name: PR-Inside
       domain: pr-inside.com
-    quality: 25
+    quality: 47
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "zb+mxWDA2DScRIgIT6/33BTglM7CA6qTG2eilXAdjZAJkLPR/I2poX8bx8kLjjwh7+SO6w5sfp3X7WNhASNvyUmXr/eahVxZ2r21rzRoK2Ym+ru6T09CNIvarO4SAYnA9pkhO7d2NiZxbRovDUowGhvorGsIaBV0fLRx+k8Nnc6GOX9o7n76f1qnR8CEOFk6yVX7zNaldqej7XzrwSIeuVEkwTRgTI0gv/KFEtH1gq5GKfc0Qwa4nHkJt1psbsvOXnnm7Q0BjDallb+BbS3P7a/PGINJA6lqf0LIvlRQ35pvPrlbaJqZvoVnlCXO8+KSXPY3R1o77QLETXMb0ihy6n5zKHSDMJeWijwvWkTEZEY=;l+19Sk4MFCLR1iJNNoWlLA=="
 ---

@@ -33,20 +33,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 2
-  - title: "Voice Recognition Biometrics Market 2021 with a CAGR 19 %,Top manufacturers Records, Size, Market Share & Trends Analysis"
-    excerpt: "Voice Recognition Biometrics Market watch out for new highest revenue Study Reports 2021 with Top Countries Data 2021, para1 with YoY (Year over Year) 0.159 , Current Trends 2021,"
-    publishedDateTime: 2021-07-27T06:14:00Z
-    webUrl: "https://www.wicz.com/story/44382574/voice-recognition-biometrics-market-2021-with-a-cagr-19-top-manufacturers-records-size-market-share-amp-trends-analysis"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 0
-    images:
-      - url: "https://ABSOLUTEREPORTS.images.worldnow.com/images/21103222_G.jpg?lastEditedDate=1627352097000"
-        width: 6688
-        height: 2338
-        isCached: true
 
 secured: "rNCdcoNg3rOXgsa2x3uQy6D+oD7XtzLdh7s/Ds8OfJgfKu12yq1DND/5G1UBMPUD7DvJkOP4DyLYRNFf7+sf1eMkYRZ0QK2hMpyDG7B+sUaZcF04Z5jTfeDABgiMPh3OP2SXF6WQIvLjt0iqwyrYX514ebI+6TQZ/MocdUPwmdKvL1c/va/hL8ouygrBLeMqayeMF098U+41pQW4+LSZDmVs1kXUcLnjl/oAz8VTgWlHtJTwlNU8V0sJPhF4VgMZ4fQ41Lwp6+9HmQmZpzPMey4E1b3XQ+kW3Umcza+vC4nY/p18Dm7XrvsBkAppE5C4j0rzmkZBZ66EspwfJB+LMz3M8VffGrqbgflWCij3xAw=;uhU+LHMhYRExeQHe4s+zFg=="
 ---

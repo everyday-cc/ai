@@ -59,20 +59,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Pentagon eyes artificial intelligence (AI) enable tactical network to speed flow of actionable intelligence"
-    excerpt: "Merging these separate efforts into a high-speed multi-service war-machine is being a goal of the Joint Artificial Intelligence Center (JAIC)."
-    publishedDateTime: 2021-07-27T06:35:00Z
-    webUrl: "https://www.militaryaerospace.com/computers/article/14207466/artificial-intelligence-ai-tactical-network-actionable-intelligence"
-    type: article
-    provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 34
-    images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/07/AI_networking_27_July_2021.60fe9dca3b4d0.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "A0Qmw91DVIYvaHrfwA1gIR5wzXPNaQk8JvnyiIM9CaJL2LAYvA3NFlhh4pgD5mKQQaCZ8/b/38QlZHMoNWw/6I2NxIZwTlNrBXgvsqu0qZA38+NNgDCLaaxdqo5cPR591hTDn7FTg1wfHKNQsDIXg6sYfQitftQZhrBqMhEspq+zC4nkDn1gQ9M3xsQOIZqHn2DTaKdo/4JAFCqJF+Vu6LciG+9d89ZxsxLxCOQeGGkYFo+lLdwEDgFd244RLcqL285N8LMKONcFKUMhJJl5Vw9ksLm//ObMkC1aw86VpvKPBn1wJNTfJoGxxJU1j/yphMLRNClH2mn2Wb7wPWUPIpe/QaFHwCnzYbImB+RuZ2K6nVWx3DljtUzVIEsUbBaXonIzW24l/LuE/ojgGnXBKey2JVEFceWMDpKys4y47JoFgEhUgRd4GBfkGi3FlwpuPhGnrF9/Nb8rbp/MEEWGU7lj2T39gHR/5nVZb0U4QtKZyMT0fRsbClsA+iwIoNbxlWHCR4veMpvpTDZ6ust9Mg==;OM6srOrZPgixp0kPHhpF4g=="
 ---

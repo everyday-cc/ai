@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-31T17:47:00Z
 originalUrl: "https://www.pr-inside.com/enterprise-artificial-intelligence-ai-market-playing-significant-growth-during-r4841322.htm"
 webUrl: "https://www.pr-inside.com/enterprise-artificial-intelligence-ai-market-playing-significant-growth-during-r4841322.htm"
 type: article
-quality: 25
+quality: 47
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) Chipsets Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2027"

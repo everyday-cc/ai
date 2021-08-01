@@ -136,20 +136,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Data driven by AI is making the difference in healthcare"
-    excerpt: "Of all industries, nowhere might data analysis, driven by artificial intelligence (AI) be more beneficial than in the healthcare and medical sector."
-    publishedDateTime: 2021-07-27T07:50:00Z
-    webUrl: "https://techhq.com/2021/07/data-driven-by-ai-is-making-the-difference-in-healthcare/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/07/000_1W37NC.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Tackling the healthcare interoperability dilemma with artificial intelligence"
     excerpt: "A recent survey of more than 1,300 hospitals and health systems found 61% said they still use paper-fax to send documents externally. This data suggests our industry needs to expand the understanding and use of technologies that can fuel more widespread adoption of secure,"
     publishedDateTime: 2021-07-27T19:15:00Z

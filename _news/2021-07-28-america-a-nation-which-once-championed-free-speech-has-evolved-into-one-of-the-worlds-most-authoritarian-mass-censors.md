@@ -26,6 +26,22 @@ images:
     height: 697
     isCached: true
 
+related:
+  - title: "OHIO alumna recognized nationally by the American Speech-Language-Hearing Association"
+    excerpt: "Ohio University alumna Dr. Georgia Malandraki has been recognized as a Fellow of the American Speech-Language-Hearing Association (2021). This honor is in recognition of her many significant contributions to the field of Swallowing and Swallowing Disorders."
+    publishedDateTime: 2021-07-30T00:00:00Z
+    webUrl: "https://www.ohio.edu/chsp/news/ohio-alumna-recognized-nationally-american-speech-language-hearing-association"
+    type: article
+    provider:
+      name: Ohio University
+      domain: ohio.edu
+    quality: 17
+    images:
+      - url: "https://www.ohio.edu/chsp/sites/ohio.edu.chsp/files/2021-07/DSC_3262.jpg"
+        width: 717
+        height: 476
+        isCached: true
+
 secured: "YQfM4Z2sNRMf0IvP45BJWSp1mSRzwYtgrRaAhTZWm699UhALTO1IfPMFgEzeYAFdrJ2xbLtvJob9tHTXg2RnoKi8xCivWEAW8mvNUmuS+J6k58RLF7QlPZt+fWH3LSszBb+eQgs2LZwMke6nc4YvritYGpy/etF/1CQ5VJMZcPrfJsCHa/iOzE3H6fPlRvVeV05/xAOO0OeHzpn0vmvkADgtHy64EAOB7sgGAnjgS8ClhTIsO/SkhLinp5cEr3eT/ysSrqlYDpaYTLL2q8t2n6KfiilN5lbSREsIvOGtxxCYQ2XvnpuEBYMlzq7AKmEax+CMHYz2alVcT3y7Qac4HrTn/+OTSqIIB7aZJr4mdbV/MV+VaaVCemUWRrH7GTkQ4xZ91kLs7MAH5uegTN8xRGQTiKik6scL4FHztmeMT83/w9suiFP/41XCU2ksTC5rdhEAIvj897Af6INJ12l/dUcYUKo+fDMxfzr/KFkZQc9/ii29EYdo8ICj0eR3/rYvqvBg6+sfU1zBs4px/k0tDw==;nCm7abtExuV/DFi7RAONLA=="
 ---
 

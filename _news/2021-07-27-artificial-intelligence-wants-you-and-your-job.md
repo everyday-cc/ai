@@ -36,7 +36,7 @@ related:
     provider:
       name: Fair Observer
       domain: fairobserver.com
-    quality: 57
+    quality: 61
     images:
       - url: "https://www.fairobserver.com/wp-content/uploads/2021/07/Artificial-intelligence-news-1.jpg"
         width: 1800
