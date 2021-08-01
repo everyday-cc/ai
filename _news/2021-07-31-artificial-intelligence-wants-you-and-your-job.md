@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://www.fairobserver.com/wp-content/uploads/2021/07/Artificial-intelligence-news-1.jpg"
@@ -41,6 +43,6 @@ related:
         height: 810
         isCached: true
 
-secured: "5zUsFi65CEp8e/9NsMGpw4ctJWPSjBs2i1Op8pEyJzBPK9JWv1kClFaEIs6rV5MZNl/G3HRewy9bxNTWYVJaML03SRWbRd6i4gwbhhmxTJyQPO1SuOjkMfnMvgWNBRtG/1IxKQbYq6VW+weugyeRJKmRnWEsUqGdRPGI9ta8KhCE3BcJN9l6k5WYz0SQTlWiByTXIzLv59T9s/xzSPD9ah1Ur3uPX0HM/r7PetzMOcLNpDLPMafpG1Yco6dtUoA3ts1OO62MKYbFxZpQF1c6C5pLDVZCe0eNf4HxESoJzU9jK2bcY19Q64ybE+9iUzx/OiBxV8u85rVzVRPXc4ck7zmkdjYAk40xdK/1vf6l9TU=;rd6SxUUbztIUM7IXSRAgng=="
+secured: "dyPXphsP8Nk+/5CfMgHNvuHxCKsSV5xwto/iMKrzW1PFhWB/aTAafpkbf5Gt4zJxqFvUilSKlYcID9xo0KuLPK+uI59vIosq7pXMhDhjt7ucNjot3O3WbRiACCcy3jDCyHIPtnT1LLc2fXFe2lc09rs8wOcuiMX1uDcUDe3i0H93JdlfEkz7Y6juuREpnWA3j9zzFZO9GKBUUsJW62IVTMxIIZ6haqrTL6gZqp/PLv07LtT4A2W0t/NZlltj6PRQuJJgcBKGvoucnFge39anDndyeveeDc11TFVH6rXzY35U7rwHEapjdZ/x7m6iT+1pM8x7CPyt71H7vcnScjkEFzxEXf1VYCCEOblBcgbjzjwYu8YqVg252PL451Vi1swSRUL0OSZB0YWgdG34knsqnP8EKh329uEboinZpwIFBHTYXXkCvKf26ypU4AGnWbdu0E87KZmB/6maltPppzMwVGUDPKb0d825/f8VDoQ4LBJurGBCN9+C5HkBhtwNU20+bE6LVkqbgt6UOrGDFHrnSg==;GfY+5ZmBg75cNZnlV36LUA=="
 ---
 
