@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning in Healthcare Market"
+    excerpt: "A new intelligence report released by HTF MI with title \"Global Deep Learning in Healthcare Market Survey & Outlook\" is designed covering micro level of analysis by Insurers and key business ..."
+    publishedDateTime: 2021-07-31T10:25:00Z
+    webUrl: "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
+    ampWebUrl: "https://www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 76
+    images:
+      - url: "https://cdn.openpr.com/U/7/U731952845_g.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size, Share, Trends, Analysis and Forecast 2027"
     excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end"
     publishedDateTime: 2021-07-29T10:15:00Z
@@ -52,6 +68,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026"
+    excerpt: "The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,"
+    publishedDateTime: 2021-07-30T13:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

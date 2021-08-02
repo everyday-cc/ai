@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "S. Korea to allow test-run of self-driving robots on sidewalks"
-    excerpt: "South Korea's industry ministry said Wednesday it has given the go-ahead to a set of regulated projects, including allowing businesses to test self-driving robots equipped with cameras on sidewalks, in line with its efforts to lift excessive barriers and foster new growth engines."
-    publishedDateTime: 2021-07-28T05:47:00Z
-    webUrl: "https://koreaherald.com/view.php?ud=20210728000803"
+  - title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
+    excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
+    publishedDateTime: 2021-07-28T19:14:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
     type: article
     provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 4
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "y3JdJ3fNaC/2PCFGMsMtsmzjeSktT3V0aGzhVxg3gunpo5I2tluGv+veyeAYySyL55bG+Trp2hvUs28Z/NDvprwdunefft4xIUEh2Gox23YE4OC2iljv0x1+UKT0NtkT5JQBs5aLPR9HqiRoMSFw0Ajl2dbTeMIld35m9DBWuTHSybBUhv1Dt6bSWsJJdZFF4Ov6u48NexXqzejgD+eo+0vBl1LCdboeDtkCKnj60jzBf8PWa8tQ9FnQ5D0jQpnd8cuMejV5ctQShdbvyL08FQjfThRcxkbTqo8RyqTRwv28U8mEJQMvNqVqF9h2X2HmRJnTjzkGSxTF83kUxzI5+HIrWZUmBwLNtkNlz4l62yCaHvpPokAXcsexr/a7ifNyzT/YGMsKV3afprsyo2/9Hf1yklk1XPdTDKL6FKC0CmhH5YDHixUgNiQH1qquyuNgIcFFda1O3fjqWpVlLy2DyP4QDlu7ktibFABCs+TDzY2gd0hzZDaiGAY4gageSxv7GmIceTeskvLpFZ8a9/AySw==;46vtfDKP+sypCwyI/5gMlg=="
 ---

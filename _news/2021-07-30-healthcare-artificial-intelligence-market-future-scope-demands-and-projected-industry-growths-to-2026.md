@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Artificial Intelligence in Healthcare Market Size, Share, Trends, Analysis and Forecast 2027"
-excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end"
-publishedDateTime: 2021-07-29T10:15:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-and-forecast-2027-2021-07-29"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-and-forecast-2027-2021-07-29"
+title: "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026"
+excerpt: "The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,"
+publishedDateTime: 2021-07-30T13:53:00Z
+originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30"
+webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30"
 type: article
-quality: 73
+quality: 68
 heat: -1
 published: false
 
@@ -73,15 +73,15 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026"
-    excerpt: "The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,"
-    publishedDateTime: 2021-07-30T13:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30"
+  - title: "Artificial Intelligence in Healthcare Market Size, Share, Trends, Analysis and Forecast 2027"
+    excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end"
+    publishedDateTime: 2021-07-29T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-and-forecast-2027-2021-07-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 73
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -184,6 +184,6 @@ related:
         height: 337
         isCached: true
 
-secured: "1JT6ckU/UR0d3jiFseHLT7et6BRDyploiLAAoBw3Iaf+DahfaRaVsp8avujGasvsAqQVj8ca0MpXJ97AGNVw8lmL4B5eJMk6XMTVqmcLqCBGdzLzcPEeyQQUPvTbJUcrLDXYRr2LKeFvGbQAGO9hk1QviRXrj+lyH+SCqI34PT5lgWS+ZyqhKKpkALX0vErqPmpN4TpWs2oUIbfALgoVUvGlUvfAqtJENR49RmcJGuGg4nET3+tPZz2IuQ7jsZR9uQjckc5LgqFiFshTGUKa5y4aME+RuOVsNmkSgLEJcFj9q1uN23I1epiBbjjQofcuQqE6kE3hux985PPOlAnEy6uOkJXM46wYYeUf29d3KJg=;ruomJa9lMn3JOPUvmg1UmA=="
+secured: "8FHBfK6Xee1H63/2GWKYzBtv+SWHtD51BTHb26GDQkAeMPrpWOPcRybn1aA29p+XeUZoyqb5kNAfVoWN5P7i2qlYpV1Hw+zvQ8BgBRmRyTocVeNtqO30RyBnpstzWOi+duXVdp40W4s83rYqiX2q4yv+Bm3leU+uN3hsSGIbcoreArqrLdrVmAYJEVtQWr5dVopanGigbJFuPEdECZT10JkxNpSeMaCAQZQqk9077ZUNEfIfJgl+8Liy6tJKYAGPfMWh1e5G6BVtO1yTcM2nj7w5uYKMMvIobM8VaClJQv0lgwQKMnwkO2C/evUrbDLzRxoY5Pj/4MWYcVbeuTz3tMpQbNK1GChcKm0IuN6gy3w=;OBx4DZoPPhwd3+nAyaGsZg=="
 ---
 

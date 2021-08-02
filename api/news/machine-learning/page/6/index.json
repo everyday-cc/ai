@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-22-hpe-acquires-determined-ai-to-ramp-up-machine-learning-development.md",
+      "title": "HPE acquires Determined AI to ramp up machine learning development",
+      "excerpt": "The deal will see HPE merge Determined AI’s machine learning platform with its high-performance computing services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine-learning",
+      "originalUrl": "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconrepublic.com/wp-content/uploads/2020/07/HPE-Interxion.jpeg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-learning-workloads-in-the-cloud.md",
       "title": "NetApp Acquires Data Mechanics to Accelerate Spot Roadmap and Optimize Data Analytics and Machine Learning Workloads in the Cloud",
       "excerpt": "Financial details of the transaction were not disclosed. At a time when on-premises and cloud enterprise data and application growth is exploding, use of analytics and machine learning to identify ... NetApp’s Public Cloud Services business unit.",

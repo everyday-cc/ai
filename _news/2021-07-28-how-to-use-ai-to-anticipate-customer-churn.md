@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI teaching would aid social mobility"
+    excerpt: "The prime minister has rightly put levelling up at the heart of his government’s agenda. Yet if this is to succeed, then we must also focus on restoring social"
+    publishedDateTime: 2021-08-01T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/ai-teaching-would-aid-social-mobility-sj9dxs6qd"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 37
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffc67d762-f308-11eb-8f01-2c678acbb979.jpg?crop=1500%2C844%2C0%2C78&resize=685"
+        width: 685
+        height: 385
+        isCached: true
 
 secured: "ylkwYzd7kllTHjPcLpA6pxibXfND6aphMIhvHS7ig8HVu4aC/S8DQ/iLaA91aktnf6Q6vBr1RAy0T5AuhlJPcIOvG4+2WMRAb+nkedeuDdYbMY4BvGcTAQquXr+wbpb58GmO5zZStujK88Zz9qajBtn5XgTq3knl5VOoD9yGm5rJYHl/cQFtgwNbeUc8LMAekrx6OZtJzs00LKh1BIpsDekVFzlsvNrRXekarMb4RcceSmMuVKDUhmt6oGq+F8hLNFtqTeACY0UGW/U+c6JVIHjDFGejx3X51YdhWtQ7JVweV9OZmtwxPMORu9dQS1d+VkAi0hrY8zY6Ezur8sOPR9FMvziVkbi+yP4PWR6EMHGr9JS9xpei/KuRpS/zCbW69a4dcr75U0qmggVAHflWAT05bD7RTkHNRHVdv6Bderlyo3fgq+UNRWHKdY492x2Zt/kBvQ2rY8IrLLXSySj49C91ZlZ9haA9pQzOeCqwvHSJRO6LnrcJkGaO+peM3iqM5WGGnhX4t3pmOOwRKbe1qw==;gyoLOtOzurf6HnAHzkbNtw=="
 ---

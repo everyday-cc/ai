@@ -1,31 +1,30 @@
 ---
 category: news
-title: "Artificial Intelligence in Healthcare Market Size, Share, Trends, Analysis and Forecast 2027"
-excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end"
-publishedDateTime: 2021-07-29T10:15:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-and-forecast-2027-2021-07-29"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-and-forecast-2027-2021-07-29"
+title: "Deep Learning in Healthcare Market"
+excerpt: "A new intelligence report released by HTF MI with title \"Global Deep Learning in Healthcare Market Survey & Outlook\" is designed covering micro level of analysis by Insurers and key business ..."
+publishedDateTime: 2021-07-31T10:25:00Z
+originalUrl: "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
+webUrl: "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
+ampWebUrl: "https://www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
 type: article
-quality: 73
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: openpr.com
+  domain: openpr.com
 
 topics:
-  - AI in Healthcare
+  - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://cdn.openpr.com/U/7/U731952845_g.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -57,21 +56,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning in Healthcare Market"
-    excerpt: "A new intelligence report released by HTF MI with title \"Global Deep Learning in Healthcare Market Survey & Outlook\" is designed covering micro level of analysis by Insurers and key business ..."
-    publishedDateTime: 2021-07-31T10:25:00Z
-    webUrl: "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
-    ampWebUrl: "https://www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
+  - title: "Artificial Intelligence in Healthcare Market Size, Share, Trends, Analysis and Forecast 2027"
+    excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end"
+    publishedDateTime: 2021-07-29T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-and-forecast-2027-2021-07-29"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 76
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
     images:
-      - url: "https://cdn.openpr.com/U/7/U731952845_g.jpg"
-        width: 750
-        height: 500
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026"
     excerpt: "The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,"
@@ -184,6 +181,6 @@ related:
         height: 337
         isCached: true
 
-secured: "1JT6ckU/UR0d3jiFseHLT7et6BRDyploiLAAoBw3Iaf+DahfaRaVsp8avujGasvsAqQVj8ca0MpXJ97AGNVw8lmL4B5eJMk6XMTVqmcLqCBGdzLzcPEeyQQUPvTbJUcrLDXYRr2LKeFvGbQAGO9hk1QviRXrj+lyH+SCqI34PT5lgWS+ZyqhKKpkALX0vErqPmpN4TpWs2oUIbfALgoVUvGlUvfAqtJENR49RmcJGuGg4nET3+tPZz2IuQ7jsZR9uQjckc5LgqFiFshTGUKa5y4aME+RuOVsNmkSgLEJcFj9q1uN23I1epiBbjjQofcuQqE6kE3hux985PPOlAnEy6uOkJXM46wYYeUf29d3KJg=;ruomJa9lMn3JOPUvmg1UmA=="
+secured: "qc4Znw9AGlGDWKSZyQejOEB8iVyyqP2nT15h3xx1UXNFpozRkRjvGpTo+RStKQkzb/rVucIxU4scZEKIMG/CSgRccW7gOmU9HiukBPpnnGOsLGcuFlQ/gf5zj5Wb0zD1y9rLrzeehOL7y7RMpQnT1LcCYMYBtI/5CDWm2Ma4va//ZDAZ3CDQKCD2gAPsnsShoOExZC969F8HHSOYlc4DXPoPAZwm3QisvmgxK5hLUzO2cOt2kJhwZH15BciXseVh0t4k0nKJpfUkg8iLh0dOOKrX6H4q4LpHJ2k5sfcz/pUSquDRgKUH+dhRmASVBEYwl/0Z/kLBbWKQHbpRsGxXUVPW/+66YNuflF0n9ynLLsc=;S8JecP5CYWWimXGw1eljaw=="
 ---
 

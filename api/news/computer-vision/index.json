@@ -54,59 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-29-shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions.md",
-      "title": "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions",
-      "excerpt": "The availability of Shutterstock.AI's data on AWS Data Exchange will allow customers, from tech startups to industrial giants, to train computer vision models at scale with precision, advancing their computer vision technology.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-29-chinas-supreme-court-sets-limits-on-facial-recognition.md",
       "title": "China’s supreme court sets limits on facial recognition",
       "excerpt": "The interpretation by China’s highest court sets boundaries on how businesses in China can use facial recognition technology.",
@@ -1453,6 +1400,58 @@
         "AWS AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-black-teen-kicked-out-of-skating-rink-after-facial-recognition-error.md",
+      "title": "Black teen kicked out of skating rink after facial recognition error",
+      "excerpt": "Misidentified, accused of brawling and then kicked out of a roller-skating rink -- the case of a young Detroit girl is the latest facial recognition controversy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/",
+      "originalUrl": "https://www.cnet.com/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/qIZq1J7Enc-wxvQGg_DySF8SrQk=/1200x630/2020/06/23/bd9975d1-9066-4f4d-8556-e4458dfb957c/gettyimages-1239553143.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/",
+      "publishedDateTime": "2021-07-16T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

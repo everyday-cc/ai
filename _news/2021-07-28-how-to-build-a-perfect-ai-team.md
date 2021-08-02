@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-bui
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c81bd414055084d92c711%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "AI teaching would aid social mobility"
+    excerpt: "The prime minister has rightly put levelling up at the heart of his government’s agenda. Yet if this is to succeed, then we must also focus on restoring social"
+    publishedDateTime: 2021-08-01T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/ai-teaching-would-aid-social-mobility-sj9dxs6qd"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 37
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffc67d762-f308-11eb-8f01-2c678acbb979.jpg?crop=1500%2C844%2C0%2C78&resize=685"
+        width: 685
+        height: 385
         isCached: true
 
 secured: "2qnYSuWVgs8S7khwFbmDnWmIodZRsFxFBamoNptwRTFgCT0yeDKVflffJkzfnJ6NYG1yQ/qNDTq33rQVTs47z7K87UNA83tHYgKb5g6Ih70ZIZILh1ZlBNwpDOG1izmN35wCPb39Tu5Gn8DZh5PPVSbKsb7hoa2aZx1kFBTtARkWrpK8UOndEZlVSMonIF23O31xTWtceFhnYw1RSLw8rkclLUOYiBUlAiOYGHY1QP2w/MSUKE726JN8XwwMn3Nh98BsL1oXINOnON4b8dEUtPecR0B7OoHeMtBH6PhJ3rrD6gfu7aDKnLpKH//B6P5IH6ZRRlVBhe+gqbS+7V90TBJ38wnLFyryaf6YLlhDEzERYA3nm/jK8OV/NockBX8jXWTaQMCRCz/BmGheA+1FHj0oHzDeKyXmwYawNeiWH6qcHPjKZtlDJH23sHOSaOPMUFIJ6TE10zIKOwvaWbxaINI7hnC4zG++muTgIDpdCPbuCNZ6UZfUtFCedvDJk7XvkgUvFktBq4iXxu9Fpz5Rjw==;5/sm9LClEC4PGDiuBBq+5g=="

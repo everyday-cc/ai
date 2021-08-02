@@ -2,6 +2,92 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-07-20-infobirds-successful-launch-of-intelligent-saas-for-a-leading-fintech-company-paves-the-way-for-further-expansion-in-financial-industry.md",
+      "title": "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry",
+      "excerpt": "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (“Infobird” or the “Company”),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-business-2fcaf5aa6c7c11c5451b9eb175c3f3ef",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-business-2fcaf5aa6c7c11c5451b9eb175c3f3ef",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-dotdata-announces-automated-feature-engineering-on-the-databricks-platform.md",
+      "title": "dotData Announces Automated Feature Engineering On The Databricks Platform",
+      "excerpt": "SAN MATEO, Calif., July 20, 2021 /PRNewswire/ -- dotData, a leader in full-cycle enterprise AI automation solutions, today announced that its award-winning Automated Feature Engineering (AutoFE) technology is now fully integrated with and available on the Databricks Platform.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-2b8e81c84c9e9caba301f51646db817a",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-2b8e81c84c9e9caba301f51646db817a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-why-are-there-so-few-direct-to-consumer-ai-startups.md",
       "title": "Why Are There So Few Direct-To-Consumer AI Startups?",
       "excerpt": "Jensen Huang, CEO of Nvidia, famously said, “Software is eating the world, but AI is going to eat software.” Somehow, most of the events in the artificial intelligence world are still happening behind the scenes.",
@@ -1057,109 +1143,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist.md",
-      "title": "Edge AI’s benefits bring ‘much higher’ security risks, says McAfee data scientist",
-      "excerpt": "Weighing the pros and cons of edge AI and the cloud can be difficult, McAfee's chief data scientist explained at Transform 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/mcafee.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/amp/",
-      "publishedDateTime": "2021-07-19T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-threat-modeling-can-protect-data-used-by-ai-assistants.md",
-      "title": "Threat modeling can protect data used by AI assistants",
-      "excerpt": "Gusto's Jamie Tomasello explains how threat modeling can help protect AI assistants' data in an interview at Transform 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/gusto.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/amp/",
-      "publishedDateTime": "2021-07-19T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
