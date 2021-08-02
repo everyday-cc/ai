@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai
 ampWebUrl: "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 122
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/08/nvidia-inception-2-1.jpg?w=1200&strip=all"
@@ -74,6 +75,6 @@ related:
         height: 900
         isCached: true
 
-secured: "2PVcnFqgrKsjwofQ8Fg4aynv9AKc1cRUTF06ZSZ9DgVSgzVNwFeGtmhEc4TSpb2K2MznnZcA1ZSIVgL12HEzY4wzbCF03mk/F92Ci04tivKgNS9lCF+RTwwxTT+HgEhuE3lPW0XzIsf8Bp0Ylp6TYBz/z7jhYXgBaDwOoD5EMPFMIMF9zeZpJlKAVPPttC0Uy5pkN7ILKIUnI7ciItip0itFrS9Z31osgUl5zivDErxZzxh0HVtdBY1OQj3Wo1B58AyhHxxtxZUZ7RDFdsnt1U7MbuXrHBBJTee7ukuYRcdk85S4eu8pk2jA6AOn5DRPRzSaMjd6XFM3PGOEVcj3w4wc+CisfWiMr9R1nmkOM/E=;TlQKYkHOt8tQXBvwbdFgWA=="
+secured: "aY+yGOWrbFvD3y8aSMhAw2adCQk+INKfmgGoNjF6CDFGgluEjrpI1+Kdnz4vNLTdBn6K4AAbi3IHmgldGWh55LdG5p2tGOtRyUKjS7sjyPgIxpfBHxHKEVpc3cogcDdBNFQV/HLyCT0VOxH9S9BPRCNukCphIgyRrS9UXOBGIGZ9wMJAeOaEm390QtebEAN8abSm+xrwa/9OTqjzPiAiFV3JyNffkc7eC68Jst0WcjY40pDGLcWJbfmqJDsMagX5rGg+EsonWPaBU0PkhIgl61AnTGiZP9xvDsR2LqSnEti+gk7x1/8ibcImaBgkKwTt89fUU0rf/NuPiwQeSIMjntUWBm4dEQhBvnST0awqwkX/BuGmUhG+76PbaEUXKkI7f6hRZtcNC9a9atfg3397VUBrPl3dRNhtjqlp9QzzY/jfZy55BCYL5KAJh4MAbTR5VQyrg83feDt7pQMOCrjzrjhIUQHX7kqwyqfnK5R33K8wD12SihxDvyGxlOw9aQVBrkHCE1c777uoTvUBbzUflQ==;tXeBnaryweEWFLwA9XGcnw=="
 ---
 

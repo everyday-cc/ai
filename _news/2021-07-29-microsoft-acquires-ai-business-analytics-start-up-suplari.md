@@ -39,20 +39,6 @@ related:
         width: 2560
         height: 1493
         isCached: true
-  - title: "Company-X wows Microsoft with AI-powered medical diagnostic app"
-    excerpt: "A prototype app using Microsoft Azure's artificial intelligence to diagnose pneumonia has won its developer an international award."
-    publishedDateTime: 2021-07-29T00:34:00Z
-    webUrl: "https://www.reseller.co.nz/article/690140/company-x-wows-microsoft-ai-powered-medical-diagnostic-app/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 54
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/jiadong_chen_1.jpg"
-        width: 800
-        height: 531
-        isCached: true
   - title: "Microsoft Discover AI Upskilling Journey"
     excerpt: "From January to June 2021, students and young professionals from around the world took on Microsoft’s Discover AI Upskilling Journey to acquire or improve their AI skills. The bottom line? No technical skills needed,"
     publishedDateTime: 2021-08-02T12:56:00Z

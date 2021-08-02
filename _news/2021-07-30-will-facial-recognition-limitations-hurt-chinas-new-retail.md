@@ -71,20 +71,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "New rules to curb misuse of facial recognition tech"
-    excerpt: "Shops installing face-scanning systems to gather consumers' data without getting their permission and software operators forcing users to give their facial information will be in violation of people's personality rights,"
-    publishedDateTime: 2021-07-28T23:36:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202107/29/WS6101e9fea310efa1bd6651ae.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202107/29/61020837a310efa1e3b24b66.jpeg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Four Japan firms to tie up in facial recognition for payment"
     excerpt: "Panasonic Corp., Resona Holdings Inc., JCB Co. and Dai Nippon Printing Co. aim to introduce a payment platform using facial recognition technology."
     publishedDateTime: 2021-08-02T13:00:00Z

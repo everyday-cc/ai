@@ -87,22 +87,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Perfecting mapping with AI and machine learning"
-    excerpt: "Across the world, mapping technology with Artificial Intelligence (AI) and machine learning allow users to have a variety of choices on their travels. Be"
-    publishedDateTime: 2021-07-29T00:50:00Z
-    webUrl: "https://techwireasia.com/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 74
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/000_9DK4N2-450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size, Share, Trends, Analysis and Forecast 2027"
     excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end"
     publishedDateTime: 2021-07-29T10:15:00Z

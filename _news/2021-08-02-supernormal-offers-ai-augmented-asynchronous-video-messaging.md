@@ -2,21 +2,28 @@
 category: news
 title: "Supernormal Offers AI-Augmented Asynchronous Video Messaging"
 excerpt: "Concept: Sweden-based startup SuperNormal has rolled out an AI-powered asynchronous communication tool to improve remote team engagements. The startup integrating video texting with AI implementations to bring in more engagement and utility functionalities to make day-to-day video conferences intuitive."
-publishedDateTime: 2021-08-02T11:34:00Z
-originalUrl: "https://www.retail-insight-network.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging-3/"
-webUrl: "https://www.retail-insight-network.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging-3/"
+publishedDateTime: 2021-08-02T10:37:00Z
+originalUrl: "https://www.pharmaceutical-technology.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging/"
+webUrl: "https://www.pharmaceutical-technology.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging/"
 type: article
-quality: 17
-heat: 17
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Verdict Retail
-  domain: retail-insight-network.com
+  name: Pharmaceutical Technology
+  domain: pharmaceutical-technology.com
 
 topics:
+  - Natural Language Processing
   - AI
 
-secured: "nj1ZtQ/EzZ3A1wbn2RoQKHpoQztb+7zmlPS4lCl2tTCtQuuv3GFi5Vnwht80kQ+mr8vNubTfZs9Bp+gDz5CHAbgcmsxRe6MudiKmhseeFJZ4qVqy56x0R3kOa+seFA9frrlWZpmxhxacU3QfbWi2b3a9itS3epiBYpaPEnh07hScXFMBT8fJhPRwbcZqpD3Vgw54oUmmKEt8R55zHQlR9XSH5j7//l+KEZA+Ta/RekqRaxzG1KUEzNqzI9xhL4/6BgZzuXAoC+JKdEBdv1UBUacRmDT+DEOJcRA7qaiJLAwq6BfsVzTajFMfa3E3fjU+D0Tr7TmzwqUFa5+7bqAn550taQFWQCAQ2wSTGnj+HpLgTDjmq1CHkX0H4y8CyCpdlDNfANBI5IMCb6CwHhg7doIVvxwiehl22hZd55folzVf3z72Zx0OcnWG4zj9K17VZ/1YY4mIUFfyc0RYC8Bo3GiSNq9yMPIq9RBSQicc+kpTSXnlWiREJvx1eLAHTwQEKX1HDaVhRhC7Pk9cmnRrSA==;aXzuNfyksuNulnH01y3QeQ=="
+images:
+  - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/08/virus-4999857_1280.png"
+    width: 1280
+    height: 905
+    isCached: true
+
+secured: "Ld2tgs/Sp2qp0q8h0AkdtZbNS8rgPDGfoF4PzFO0H4jX6bCBcvQY+pA4GEII1RrjeAvcrfakMW3eiNSZPX28FHdMW0NVs3S25PtTNjxVM906fjektRJDGxktDPeQhXNYHoebCM/KfkBdhuD91gVkVJNqZ5ekbEDSt/g9lsOVlS5y7Oae4CQlgCjEx0xZ2YqFfLzEJjOTX32ogf+jAYTS3V10aRk0+W1NX3j48i+sTNX7+i1Uiemrj5FYMojFDZmzDskxVdAprDyGYbObdbl/r5smQ33kavoDkJUikJAscoi4pUDg/Kr8Hku9Le1WSnZ+al+wmBOe9zYS463UsM14vx+2zJZgFqcOBJELTEFl6+Y=;EvuOcfrXjbzttII4bdNShQ=="
 ---
 

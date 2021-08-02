@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open
 cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Abu Dhabi Islamic Bank becomes the first UAE bank to use facial recognition for instant and secure account opening"
+    excerpt: "ADIB becomes the first UAE bank to use facial recognition for instant and secure account opening The service enhances security against fraud and other forms of identity theft Abu Dhabi: . Through secure access to the Ministry's Facial Recognition verification system,"
+    publishedDateTime: 2021-08-02T16:43:00Z
+    webUrl: "https://gulfnews.com/business/company-releases/abu-dhabi-islamic-bank-becomes-the-first-uae-bank-to-use-facial-recognition-for-instant-and-secure-account-opening-1.1627922633204"
+    ampWebUrl: "https://gulfnews.com/amp/business/company-releases/abu-dhabi-islamic-bank-becomes-the-first-uae-bank-to-use-facial-recognition-for-instant-and-secure-account-opening-1.1627922633204"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/abu-dhabi-islamic-bank-becomes-the-first-uae-bank-to-use-facial-recognition-for-instant-and-secure-account-opening-1.1627922633204"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 54
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/05/19/ADIB-HQ_179839c740b_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "ADIB becomes first UAE bank to use facial recognition for account opening"
     excerpt: "Facial recognition system, provided by the UAE's Ministry of Interior, allows for instant identity verification for new account opening"
     publishedDateTime: 2021-08-02T13:13:00Z

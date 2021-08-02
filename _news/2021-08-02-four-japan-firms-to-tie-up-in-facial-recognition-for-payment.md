@@ -85,20 +85,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "New rules to curb misuse of facial recognition tech"
-    excerpt: "Shops installing face-scanning systems to gather consumers' data without getting their permission and software operators forcing users to give their facial information will be in violation of people's personality rights,"
-    publishedDateTime: 2021-07-28T23:36:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202107/29/WS6101e9fea310efa1bd6651ae.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202107/29/61020837a310efa1e3b24b66.jpeg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Moscow Metro tests fare payments by facial recognition"
     excerpt: "Moscow Metro has begun testing a pay by face system with 1000 commuters. Initially operating on Line 4 of the transit network, the tests will ultimately be expanded to all the lines as more passengers sign up."
     publishedDateTime: 2021-08-02T09:31:00Z
@@ -137,6 +123,6 @@ related:
       domain: chinalawandpractice.com
     quality: 28
 
-secured: "hIdgPLZvAGGMHSxquIUm6EcZJVMq/6L6iMIT7oJiugzuhosDyOWNq2TqLn28pcAfhaYdJlyq0AEE3eVZX1vdIgxR+MEfeO9JSYcD68wymaAUUk8zkUaot3/a3DKVpXPqSQjsGisXJCguwlJF3loprHhz4icjtUBjTVAKt7xwkTeIBQ36EBd/6JXjq+xzw4Jv/RXjCJWgDLsxw7lILrGcVnipwKbeHTD8IcSApnlk4dezJ/lyPyFsrPnRgFuicHJS+qqoqahn+Clw8Z3yM5t6B3BP11Gex5TNI4WWx3pZ6poshX8GPkSAym2qRhwooTzmFza0t2+Ee5uenB5P3peBb2BStfJmWuD3+A8nOlqdLao=;AcVO0DaZbK8YbYOgX174hA=="
+secured: "ryhPD/JUK1AviV7/zJFrN0r9iyEPB7BlwUNe/KvMhbS3HOc8dQURDaYQuFwpV1ts3/+XsiLByV2dwCuQgOhtlWZ+eZOR2gEgcKYTeQheY0H1QpsSt2bhuDRT99urCyT+NkKEb1QK/n0dWD5v/fKSYeWG5cWf9/lW4Bwl0UTDASyoQqyeueIxIh3PNcx3zYoIAMnbViWH7pwiYs30cr0QZH2lgigpFAd39ofCUaQwcTOTDJw0dCij6+5X5U36TY2zHdus2Z06eO0OG9MCJsBm37NIM3deRLYAMECSWdlllHbwpuv9m+oqaSCvjlD2X+viHhE9DkI6F2LZLCpjJl/rTQCa2OUHp5ljxBVgRihqhVPZoCsq4lE3JGHAk1bbLRaXpL8ao9g10VYGENQAS5X0FjuanKoIU9I48QPtjwO983tMECGrMvHn4xAhIjqIppTBDS/8/6AuLAiOg5UsnIE5Vo49euVfEWBYmW/9HdZ7NTnAI/23bGbYcbC7+eSss2u+SPUY1ddAs0twwgavrYYDGg==;0b4X2jaGJD2eUagO2N9T4Q=="
 ---
 

@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Becker's Hospital Review Spotlights Parlance for using Voice Recognition Technology to Improve Caller Experience in Healthcare"
-excerpt: "Becker's Hospital Review has spotlighted Parlance and CEO Joseph Maxwell's work in improving patient caller experience with speech-enabled IVR. Becker's Hospital Review, the nation's leading publication that offers up-to-date healthcare business and legal news and analysis,"
-publishedDateTime: 2021-07-29T14:23:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161"
-webUrl: "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161"
+excerpt: "Becker's Hospital Review has spotlighted Parlance and CEO Joseph Maxwell's work in improving patient caller experience with speech-enabled"
+publishedDateTime: 2021-07-29T14:15:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-301343890.html"
+webUrl: "https://www.prnewswire.com/news-releases/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-301343890.html"
 type: article
-quality: 43
-heat: 43
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
@@ -24,11 +20,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/1160610/Parlance_speak_naturally.jpg"
-    width: 400
-    height: 225
+  - url: "https://mma.prnewswire.com/media/1583761/Parlance_and_Beckers_logos.jpg?p=facebook"
+    width: 766
+    height: 401
     isCached: true
 
-secured: "Ry4hkoPcWzW1OZjYxVGBuVz+KlWmJ4+Vyn4g50sm0gOzdp2sjfA7J8GsqkfZunFR9ITAWuyy3boXE/yb1ub+kl5V92/VRtiCYwRYcBGoGVsfeNyT7SVPJO5HijmeTtrhaIcFXi862JjH+CpLqUXnLDLL+xtNqm/UeHjSBk+HYrg1mrvibMrrCi57XGISTAfbFy8qFEOEP7NHzkfEy/vNDn5uLKvxxO5wJXHNbO+ExW0UTwas1mjTPacar8V/dBbIjuPPhsDL0jqz/S0QM1Z/gffv65wvf12XD1cvD7zH8W/hPtO7z3CZX/vF8bFDt7IOlSUlwHlipwll668tlBsc1+fSB13qIJrQ+890dJtAUrk=;RspL+Hx9W+ECq/EfCmkH/Q=="
+secured: "MyDSLRIRvVEOzyt6/wk64mbLHcwoqUh4TnrroEu4LLds75HvEks5DtB3saR14Xx9IL3jdQgFEWkUR7XVZd/nLL4/TolKEN3Prv2Kd1VpEvJ6dZDqgqLTxC8BjMo/WXaZDTtVlln0ewwE8MtSuGEaXUDVqmy5OO4peGPUxtp0GYtFfgnMlp49m981MqXsJxKepViPpnedhXcvUTJrtkXD3VPg8grjQ+fU/TdpwiUQvE5LK5P9pRq9HlKxAQx9Tjb3qFvgIZtrcrWnesjCDaMUJjHa0HnjWCX+B2QYS/kbpzZg6XrwJlPSbq47YvWFnCuirPMraG4Vz3toddQET69bL1HWSSzknrUNaKFr+PH6qOw=;0nySfyHhI+hJaVg9bDBM9w=="
 ---
 
