@@ -61,6 +61,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft Discover AI Upskilling Journey"
+    excerpt: "From January to June 2021, students and young professionals from around the world took on Microsoft’s Discover AI Upskilling Journey to acquire or improve their AI skills. The bottom line? No technical skills needed,"
+    publishedDateTime: 2021-08-02T12:56:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-discover-ai-upskilling-journey/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 36
   - title: "Microsoft Releases Toolkit on Designing AI for Humans"
     excerpt: "Microsoft is offering guidance to companies to develop human-centered artificial intelligence (AI) technologies. Microsoft released the Human-AI eXperience (HAX) Toolkit or a set of tools to create and implement best practices when creating AI that interacts with people,"
     publishedDateTime: 2021-08-02T04:50:00Z

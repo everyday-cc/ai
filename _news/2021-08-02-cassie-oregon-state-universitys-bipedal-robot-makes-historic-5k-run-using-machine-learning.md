@@ -2,19 +2,19 @@
 category: news
 title: "Cassie, Oregon State University's bipedal robot, makes historic 5K run using machine learning"
 excerpt: "The project with the OSU engineering department is funded by a $1 million grant from the Department of Defense."
-publishedDateTime: 2021-08-01T21:20:00Z
-originalUrl: "https://www.registerguard.com/story/news/2021/08/01/bipedal-robot-oregon-state-university-5-k-run-machine-learning/5437748001/"
-webUrl: "https://www.registerguard.com/story/news/2021/08/01/bipedal-robot-oregon-state-university-5-k-run-machine-learning/5437748001/"
-ampWebUrl: "https://amp.registerguard.com/amp/5437748001"
-cdnAmpWebUrl: "https://amp-registerguard-com.cdn.ampproject.org/c/s/amp.registerguard.com/amp/5437748001"
+publishedDateTime: 2021-08-01T21:22:00Z
+originalUrl: "https://www.usatoday.com/story/news/2021/08/01/bipedal-robot-oregon-state-university-5-k-run-machine-learning/5437748001/"
+webUrl: "https://www.usatoday.com/story/news/2021/08/01/bipedal-robot-oregon-state-university-5-k-run-machine-learning/5437748001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5437748001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5437748001"
 type: article
 quality: 65
 heat: 75
 published: true
 
 provider:
-  name: The Register-Guard
-  domain: registerguard.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - Machine Learning
@@ -38,6 +38,6 @@ related:
       domain: hackaday.com
     quality: 21
 
-secured: "8eY8OEzyIyTXztcIPO7cvcvMKpxE0HNOXMQuP1lN/YKASPUOs/MUafjI2jjCtb8Uv3Us3TfbvqBU+hmWOptYvaLfgd6iJqtfDK0gEoDpz3cd3EZvxF2ekRPvYW0NxlGbf8ucYHIE/XcIaQp6bKhw3zCIEydRzXwPuDdu6WfCKQ2WC7v2PjpxqCgneNQ/sW7/34fQdCOImnFk5+g/HgZHmWOYrYUnHOunOIBKRa1VhSDxgYnek2pY0eD2NU7dmlE8jxKtl8VCv5gPuNBDwFjAPGBsKyGe5jszWbTqhSOFVoBp+0DXcP5LfiRhmdBuPbb4eIvTjAAaH9h14iE5pns+15GSrC4dxmRmBsYzgpTlMAc=;e0gDf1TMPYODK/f9CZduLA=="
+secured: "Gch4UR4+zTRu7vhqXG9pUrCYLNQZnI8HC/hh86c8tFu2mpC6gfLHht/oGYFaHR3F4yEGd7Wd0RbgTV4dYfSde6R/H43/f75avdJ9OQWt2lUUVAWgD+kt8aMpfAlXqTRdfQ6VRhYudSncsgAA6wLg6+8mDnLuNwHTLkb76o57mX8QLzUblgQiNBmDV5c2B7fG+RHlhcy1hdPsqtvZ7sBFskQmkymp2KY80FnYuvzvhIg3zux+jU7S0Ebu6S1RUtoqAKGFoaX+22bC9E299ofMVGUTC/38BQg2hsjxP9z7bcJEYG6yvG64vW/tn6qik8sy+88c8murSAFIoubqHK5Au8se/zAt0B3ipksWwgBgPxQ=;4bC0jQsT1ACstEKRz4BoHA=="
 ---
 

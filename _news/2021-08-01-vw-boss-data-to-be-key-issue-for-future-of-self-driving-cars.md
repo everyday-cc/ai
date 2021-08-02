@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Musing On That Rising Gossip About Wanting To Ditch The Vaunted Topmost Level 5 Of The Self-Driving Cars Autonomous Rating Scale"
+    excerpt: "The topmost level of the autonomy scale for self-driving cars is known as Level 5, which some insiders are now murmuring ought to be removed. Here's what the ruckus is all about."
+    publishedDateTime: 2021-08-02T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/02/musing-on-that-rising-gossip-about-wanting-to-ditch-the-vaunted-topmost-level-5-of-the-self-driving-cars-autonomous-rating-scale/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/02/musing-on-that-rising-gossip-about-wanting-to-ditch-the-vaunted-topmost-level-5-of-the-self-driving-cars-autonomous-rating-scale/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/02/musing-on-that-rising-gossip-about-wanting-to-ditch-the-vaunted-topmost-level-5-of-the-self-driving-cars-autonomous-rating-scale/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 45
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61022d632ca733a2009b3e41%2F0x0.jpg%3FcropX1%3D107%26cropX2%3D3870%26cropY1%3D354%26cropY2%3D2472"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self Driving Cars And Some Of The Worst Vehicles Ever Made"
     excerpt: "We are seeing advanced technology in every corner of our world and as A.I. continues to emerge everywhere self-driving cars are being tested as a possibly for future transportation."
     publishedDateTime: 2021-07-29T12:52:00Z

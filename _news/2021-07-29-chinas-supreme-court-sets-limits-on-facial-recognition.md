@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "http://img2.chinadaily.com.cn/images/202107/29/61020837a310efa1e3b24b66.jpeg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Four Japan firms to tie up in facial recognition for payment"
+    excerpt: "Panasonic Corp., Resona Holdings Inc., JCB Co. and Dai Nippon Printing Co. aim to introduce a payment platform using facial recognition technology."
+    publishedDateTime: 2021-08-02T13:00:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2021/08/02/business/tech/facial-recognition-tie-up/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/08/np_file_103429-870x489.jpeg"
+        width: 870
+        height: 489
         isCached: true
   - title: "Moscow Metro tests fare payments by facial recognition"
     excerpt: "Moscow Metro has begun testing a pay by face system with 1000 commuters. Initially operating on Line 4 of the transit network, the tests will ultimately be expanded to all the lines as more passengers sign up."

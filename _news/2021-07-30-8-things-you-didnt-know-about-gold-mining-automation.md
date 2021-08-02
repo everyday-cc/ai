@@ -7,7 +7,7 @@ originalUrl: "https://www.automation.com/en-us/articles/july-2021/8-things-you-d
 webUrl: "https://www.automation.com/en-us/articles/july-2021/8-things-you-didnt-know-gold-mining-automation"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 500
     height: 313
     isCached: true
+
+related:
+  - title: "Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry"
+    excerpt: "Learn more about Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry at Automation.com"
+    publishedDateTime: 2021-08-02T14:25:00Z
+    webUrl: "https://www.automation.com/en-us/articles/august-2021/artificial-intelligence-machine-learning-film"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 45
+    images:
+      - url: "https://www.automation.com/getmedia/38598196-fdf2-480b-b9a6-ab388bd2b7af/Tom-and-jacob-feature-aug-2-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "hj1xHwHkn2ZNwLf9mRQwpZ3zjCSB6waHwH+dnUcl8XyJHmxAc+rldlPuEVRqQkGOtFCmD+7cKEaqBacjgsrU1j7WCT+7pGqKFfFo1F+zOMIOL6EnYphRgl+zug81aWv0gLjH+iuHkxl+w2UR08GHz09reYl37w3BoQ4O2uLpVM8NQL1+5jTZ4JjmgbYRsLc3R92t9Y6NVu1LZ7xCd0Y4o48TvLG3Rk5Mr/gsnhix8Gz6pLVv76CYlnIKY+ad+g+Y5QDZqhDgmQzb2lI6d73GJap3f9aDlsVbZoNSUvrxAlRjlSw7rNC4oAfCK7meMwwFQG+fJYHgbJiSB5YDK5ClHpybdsJI91E2MHtJmDam4ZhXWMG/XNmIR62MAz37vmwmlzizPmriBH4zQ9QOCKO62K/lwroL8pFh6h57oVrbh6DTxoAGjKJtDuZ1L/VU7mjcXGDZ0w6rjs7FPKMM3nUDd2NBitMMTuQM9pBBtdCk6kyNtlqm4T47AhtIUtVa0Z/lUL18ma4TVuP4ECQNQyeXnw==;LAnRWIETtZ57xGesbCyu8A=="
 ---

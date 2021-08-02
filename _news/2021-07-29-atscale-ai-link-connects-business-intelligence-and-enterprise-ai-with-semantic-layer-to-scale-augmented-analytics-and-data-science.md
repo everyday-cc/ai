@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-bcae3472538a475eaee0e189f76177c8"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "How and When to Use AI to Augment Traditional Analytics"
+    excerpt: "The cloud has given data practitioners immense power to leverage AI, but it needs to be applied thoughtfully and deliberately."
+    publishedDateTime: 2021-08-02T14:57:00Z
+    webUrl: "https://thenewstack.io/how-and-when-to-use-ai-to-augment-traditional-analytics/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 37
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/07/dd235f55-abstract-6133076_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "g90ixcg3YnuoOSxaXEiVFfqBxY5GBF6RoJVx1+XZtm/6th/D/q0OoTIBdjDoAJtl7oSaS8sRX0IcwiVVI7l5F5beYl3lwjhNXfsx3zoSuVjR15Hnbr8V/Ipgj4uxBIF7pdzYTEIT3tT7XPUW5nCwxbpuqmyXXQTm80zXNsr8s7RWXVT0Fu5zJzMxZvc5LhfYdvDV1IYZh0+2xx3nwE/8HC+UHdi6OfBCtafmqsx0pHlo49UnvFhamYMNptzxyep0clTLDKs0b2mB/EDCMRVGj+gqWguhHfAmIqj4pdHF6QPXfQ3isgT+pkJH3LUGdtq8DV+d6PV8nrHnC+aRxTEFq+TMhcWxhS51gNDelOanQjU=;P0izC6IZ2QClxJc97i0hKw=="
 ---

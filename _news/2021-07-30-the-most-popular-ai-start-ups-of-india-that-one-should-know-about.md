@@ -24,19 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "India’s top 10 Cheapest Humanoid Robots are Competing in AI Race"
-    excerpt: "Humanoid Robots have been gaining popularity in India and are competing in the Artificial Intelligence race. The robots are based on New-Age Technology and Machine Learning."
-    publishedDateTime: 2021-08-02T09:16:00Z
-    webUrl: "https://www.analyticsinsight.net/indias-top-10-cheapest-humanoid-robots-are-competing-in-ai-race/"
+  - title: "Nvidia is tracking more than 8,500 AI startups with $60B in funding"
+    excerpt: "Nvidia is tracking more than 8,500 AI startups through its Inception AI startup program. Those companies have raised more than $60 billion."
+    publishedDateTime: 2021-08-02T15:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/"
+    ampWebUrl: "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Humanoid-Robots.jpg"
-        width: 900
-        height: 500
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/nvidia-inception-2-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 624
+        isCached: true
+  - title: "CVEDIA Joins the NVIDIA Metropolis Program, Focusing on Synthetic Data to Accelerate Edge AI Applications"
+    excerpt: "Computer vision solutions provider CVEDIA announces today that it has joined NVIDIA Metropolis, a program designed to nurture and bring"
+    publishedDateTime: 2021-07-29T21:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cvedia-joins-the-nvidia-metropolis-program-focusing-on-synthetic-data-to-accelerate-edge-ai-applications-301344741.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/1584618/CVEDIA_Logo.jpg?p=facebook"
+        width: 2286
+        height: 1197
+        isCached: true
+  - title: "Nvidia’s Base Command Platform launches today, providing cloud access to accelerated AI computing resources"
+    excerpt: "Nvidia's Base Command Platform launches today, providing cloud access to accelerated AI computing resources - SiliconANGLE"
+    publishedDateTime: 2021-08-02T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/02/nvidias-base-command-platform-launches-today-providing-cloud-access-accelerated-ai-computing-resources/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/NVIDIA-Base-Command-Platform-August-2021.jpeg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "K//7a8QqK29BSM+Cidtcqw4nKteD2Vl7YKV9r3FW1sdaWpBZQFYvRAoxX9UqGYH/IFRn8qAwjJfUs047+h/tEyTCDSjuy/ctlZ0sI1lI8FpT8ckrHj/8Mqz8iv7aRmCfaBhdmOzqjckf/kt9KdMX/43ts1bKhjT3BQwkCCpDn7/XZpkoog+Wx0eAqx2mhcwcfm0bPPbeM2QyHph8MhVj7K2+NRbeg2TJwwiFBSixvkFtvOAVjj5kQ9vfaHYXTrNnzB1+m0NQ+HMO6DyaiUhdbab253TPoNuVsxvlgBTaa5WwygBWSghN8M1C/NB0vEbd5wmNfB4ev64Nipeca5Y5w/8nfnoq+WMy6O+IsiO2vpWtyzYjBnSkbQqnWevP+VtoNNncg/Qnolcm80dTTmwrOP2IFloNSzh2Y6QaisAM/+2QnOxwCyzOXUtIy94+T91vuH3znwuMqKXHa6MK5XpWHNcy2HaI0X/7ubtZYMfKZUvM+6k7Tw6D8jsD6uu3PIv6RYBaiS3nS0+paWqtleZpRA==;ZBmWxZEiARUyCrONlrmECQ=="

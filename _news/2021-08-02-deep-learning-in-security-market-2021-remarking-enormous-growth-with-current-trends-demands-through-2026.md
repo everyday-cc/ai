@@ -90,7 +90,18 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 26
+  - title: "Cognitive Computing Market Size, Share Analysis, Key Companies, and Forecast To 2026 | Reports And Data"
+    excerpt: "The global Cognitive Computing Market is forecast to reach USD 475.24 Billion by 2026, according to a new report by Reports and Data. The cognitive computing technology derives the answers and works like the human brains."
+    publishedDateTime: 2021-08-02T14:32:00Z
+    webUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-size-share-analysis-key-companies-and-forecast-to-2026-reports-and-data/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-size-share-analysis-key-companies-and-forecast-to-2026-reports-and-data/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-computing-market-size-share-analysis-key-companies-and-forecast-to-2026-reports-and-data/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 8
 
-secured: "kZ1a/iuqWstrRLVj+geWsyEiUS5+4Mgy1UyYyMe8eu0ogfwXKr43F8JC57kMP4Y+ZzNXbIjPS8pl7KwyORct+qt8n4bj6FQtCBXNC2q0osJz6QTs4k8GNkcTg1XWgVNlAopl1zRmPuHEq9PZ+ftU/z7MRjVtuvThkXnoTwTtCrQ0ErVXQfY3cURwYQFdlYmy4CvIRuFJ1yB2jVtiagBZrvzzMTPylAR3LEZaIJFxbrP8N55PwZc/EceCdovd+f4/v/qq9zuidMHwHIAoVz/YWtw5OVor3+QiqgvLqBM6qw4zyDAxbwvLTPh+0QZNhQ7zmNM3mQzFjQH6juXG7mo54kfN8TafW8A79RlWbwzN4c0=;CkKFlX39TXnuQaMTjSXU5Q=="
+secured: "pSEUXlgMrrtpvqIwACmfNihoF/kfteOmA2Qxz+d2a+OoscXQXomDxmRdOzaT9wW1vK0WeMHqYpklvfq+zuRaeVUXS0BHHqxIw0qNl3cqgRFjaOOdP9POQ3xnMPx3OkQROsn4J0fdUlVyKfEUlcFtMsuCOopMRFe0e2ui7imitAwYiKmVEcbx6xPFrPzC99Pp51Mfhj7fjUS/Dc7BvQQsbsau9O0UKG6T2IJKUD9PupNzO8CzS9RLJlCP7BolfwE4Nt12P4WBnlGb8O2YBaQPK2hbpKxZ3PcxQkeAFc2nqsixQeM/tKlLjZavyfVbi+3kowL10UO8vrvxid8BsNzcsLeQxGepOzhI7Htae85+/M/TeJKnBoZ+7tQ5U5h8CdElVsncvbqREkR+ni41xNXqbG+S4NNR3UrBGgrTFbACk6yjVMa4BZibD3tcW+1B1bcmi5Ud/xQEtxcqYhimtO/Z3wmbPGl6Ed1j37CEg4/t4G26tGhtrpuZOS4aJCgrTaVDouP0VRGZaLQAjdfRrFyB3A==;5Ad5n1gclvwjbyhhmqXlRg=="
 ---
 

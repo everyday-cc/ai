@@ -1,28 +1,32 @@
 ---
 category: news
 title: "RealVR.ai introduces Villa - Immersive Team Collaboration Platform"
-excerpt: "COVID-19 suddenly made remote work the \"new normal\" for millions of businesses. And there's no going back: According"
-publishedDateTime: 2021-08-02T13:47:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/realvrai-introduces-villa--immersive-team-collaboration-platform-301345443.html"
-webUrl: "https://www.prnewswire.com/news-releases/realvrai-introduces-villa--immersive-team-collaboration-platform-301345443.html"
+excerpt: "Villa is an immersive total workforce collaboration platform by RealVR.ai, where professionals meet virtually in photorealistic settings to: \"Inspired by Westworld, Villa brings 2030 technologies right into 2021,"
+publishedDateTime: 2021-08-02T13:56:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/realvr-ai-introduces-villa-immersive-team-collaboration-platform-1030676863"
+webUrl: "https://markets.businessinsider.com/news/stocks/realvr-ai-introduces-villa-immersive-team-collaboration-platform-1030676863"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://i1.ytimg.com/vi/gmbFO7Qes84/hqdefault.jpg"
-    width: 480
-    height: 360
+  - url: "https://mma.prnewswire.com/media/1585515/Villa_Logo.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "q8yRRp//wNjJqgGeUE4OfZJtG33/5df0zwQiyJYUj6aTgDY6IEcPZ1wuM+gSOer++8LTtbUnGAtG2fVzUMPwmFG8euMQD529NhaHYij1niAHUr0Di2elsK2dzSRvigrwVd1N8KGKk6kOL2VpTNGDSerU4O6iihT4wzvMqzwf1BS9cJkSySi24cimyx2wbbhUiLJyUKo/3UtJkpdUj6KglEj9KHIMx0lwYlmb10UlMc8VpuFTd+41TCFlqCNe2KvSC6i9ylOcaMpUhNJe16DgD+GGpG1anBLYN0fqJRDfo1ae2rjPjp1Kp1n2VA8YmquChuC/G7WD8h1QqHEeo95zdutw/EMIcQ4PhcorGtZsO6o=;T71EUmKe3U3LQZLxp7do1g=="
+secured: "DXIROi/8fUSG+NZX6vfNBXorxp44vMDNjuxR8o8AcjnzXCloTTUYLUwTaV7QddjLvkwoozaVcB2nniaJm5fM3GaIk+SEDnTUL5iGBlbLICe9srb2Mpjpa3ftrvb6Wu/uv0rNQjuEBEBNlyH78YohwdWFM5R0Olyt/r8cJSvfjFSxKDoSIAORpW97Q080QvSrpSS3On5raDYI/5Ob7PTFCrmMQr5qK0IfD3SvQdrlt6414OfgxYBUiVIRwAiD1anChz/+c8/TvVotX+BIgMZONer1b0jeLBTrltHz8+r6mTZrmr2GqTdMuUMDeFR0TwO4og92vSxLmJtEtEwezZeFNbJBv9XPFMjn1Ed0PxvEHJs=;yf/Rt2J2T48NUVj/aDEZ7A=="
 ---
 

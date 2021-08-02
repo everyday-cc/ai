@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 800
     isCached: true
 
-secured: "A1x11ZFjQETuu4W+FrJ7mTYQ3JDy470X8yCr6P9vW1aEzcz4TUQdFRuGFFDhI5/zYRIQS1ya7oX/8uWiNpW9KyjaVRqnKCX0SNsT8+HBg1gJ0ctQJ9/FUh0Sw1QQGqQexhOxVcXnxRDjO7qp9IwnniySM32s4daLDxW0EV8Jg+vPIiH5JHd3X68/QAKjV68X6u9v4nF7BkG3mUfhPFD0xrieQ2tPMKmd6E3/qqvyXxiWmUX4Ei3aqc89RMEfIX3Xg6j2nSXRBuk5KSA/EdDJgPNVX4Y6H9vDLkCPEUdksC8pESDYyyCN/JZJpaGZipWDamo7qRjWp9TjwkDpF8gfO0eOiCtibaiF/LsM2IzY3Yg=;O8Ntgw5fQbqzKUcZz+xiJQ=="
+related:
+  - title: "What Are the Benefits of Predictive Analytics in Healthcare?"
+    excerpt: "How predictive analytics can improve patient outcomes, assist in the decision making process, and provider relief for healthcare workers."
+    publishedDateTime: 2021-08-02T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/what-are-the-benefits-of-predictive-analytics-in-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
+        width: 690
+        height: 400
+        isCached: true
+
+secured: "MoEsuQv0a+nWkSDeDBGQIA2H7fKsy1d48Wn4toqkeFH/343r0oYuGEWKVlEuJItzj0QJHnvlFAwd5sB14YqMN3So0VAL2czcgZqDnHoGlIhvDrPxRNDCtdMdZcJ0lcR/Clh4qiC+kMFw14O+f1/6rCB1xpBMdCVusbh3UAhGLr1A9X5W/fGI32uR2q93+BUouQAjVBgzNv1D8UmOu6NtBpGBMu0nITu/FNYf/HohO7AfW8aiqxT6coHFMXPQKx3xHsMXKIGdCLh07rh33nZ20VBPKP1DaIyGESlQACazDaz8uES+vbWpgOK2lpqozu+NllJMz64s8THyIVR/HmIzEBR3hTUDly4RWunBxl/8N/fhO9AVw+s/Lavy2LlxVa2ORH+sfDOpW5blqayp0ilC4MZX2i8cLzRFP0+A0PysMqDxVui0klFWX3IN4mkYnaQyo6KSAWcPTmL6/6zW9kkxbyISC62/t/XnwyAQtdqAjk6WPsyscKmXSYOKBX7MH7qqeqBhSnzAJfU8gPJytEjgjg==;vNq6bmMTj92hbTeQossivg=="
 ---
 

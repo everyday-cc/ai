@@ -93,6 +93,17 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 26
+  - title: "Cognitive Computing Market Size, Share Analysis, Key Companies, and Forecast To 2026 | Reports And Data"
+    excerpt: "The global Cognitive Computing Market is forecast to reach USD 475.24 Billion by 2026, according to a new report by Reports and Data. The cognitive computing technology derives the answers and works like the human brains."
+    publishedDateTime: 2021-08-02T14:32:00Z
+    webUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-size-share-analysis-key-companies-and-forecast-to-2026-reports-and-data/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-size-share-analysis-key-companies-and-forecast-to-2026-reports-and-data/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-computing-market-size-share-analysis-key-companies-and-forecast-to-2026-reports-and-data/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 8
 
 secured: "8CSLrDuZfJNQWOd7FOafrKkd3njePohCrsoNeBE8p7RU93K0ntMus0E2KX1QhCmd51qzORe8hLsJBC8h/UTVbIGe9DEaJELVjdjP71R2sOyydRKPqGNZRWwBfmyfTcxBCMXvpoyldBVOg0nMuqqY5SZwXahZOrecSf7mh/055F1EItJZBjOb8J7kU0dFmQvl2NEQOwPATTykOrOBwUz/W2TJ0fDzt/oHPZXxpOhDv5vtWBTFPM4MBbuhqe8VBI6mCLrK3d0H9aTSfxlFCs0mPCb13wnFsqg1i4X+MuMNP159rjmLAEKXIhqydkLSjsYivImjQHJHN5Uu13vQhKZvycsijMfTQln9KONWVRTYxXI=;+Csdr0yWcT5PETicB+pYaw=="
 ---

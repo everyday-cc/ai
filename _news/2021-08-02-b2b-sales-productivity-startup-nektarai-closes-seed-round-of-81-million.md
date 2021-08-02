@@ -1,29 +1,29 @@
 ---
 category: news
 title: "B2B sales productivity startup Nektar.ai closes seed round of $8.1 million"
-excerpt: "B Capital Group, 3One4 Capital and Nexus Venture Partners; Ritesh Agarwal of OYO Hotels, Deep Nishar of Softbank among clutch of angel investors"
-publishedDateTime: 2021-08-02T12:30:00Z
-originalUrl: "https://www.business-standard.com/article/companies/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million-121080201140_1.html"
-webUrl: "https://www.business-standard.com/article/companies/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million-121080201140_1.html"
-ampWebUrl: "https://wap.business-standard.com/article-amp/companies/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million-121080201140_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million-121080201140_1.html"
+excerpt: "The company intends to use the funding to accelerate product development and hire talent for its core team across product, engineering, and GTM functions"
+publishedDateTime: 2021-08-02T15:14:00Z
+originalUrl: "https://www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million-11627917081210.html"
+webUrl: "https://www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million-11627917081210.html"
+ampWebUrl: "https://www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million/amp-11627917081210.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million/amp-11627917081210.html"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: Mint
+  domain: livemint.com
 
 topics:
   - AI
   - AI in Sales
 
 images:
-  - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/02/full/1627907421-0939.jpg&width=1200"
-    width: 1200
-    height: 900
+  - url: "https://images.livemint.com/img/2021/08/02/600x338/startup-kElG--621x414@LiveMint_1627917168314.jpg"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
         height: 1938
         isCached: true
 
-secured: "360uwwAJ5Xc6TzIyC/EkW96d+cgqA7S0De2yxbdKgjCRNDSq0n4cFBuh4Org8lLgZdWbhVvi7svdRu8vETWE9/BjTIcqp9CntySmijE0UsFgQ7B4a2ZDXLlM1pQmHiOCw9ueIXwzUfguwTWAdyOPDJh+8JqEuvI2O740pZqUye9GeLTlQu7NK8gLFdyFwoF5XV5cIiOJYgqNRllOyawvXmbPk7I6ZkkdMnGueRDDeF79f7LVtyNHJMNtnSNYM1pTQMQwOVBzFYqQF8YeRxBIm+xGa0JPjQYqTxYTUoEl2HcORv+EviTE9BrNvYh/THsmWZdUsbLgB4qAAelk89/pfrUdP1pbJtv+/wSRx/zr/j8=;zHrp/XKRt9LRjapE+ZOz1w=="
+secured: "mdo5IhzdK16b0C+prXrd6toBcKxjsIlk1hPO0dQmJ277s23jtU52UxYokXrZcrn70EPdVvkozJYnRhvzsOmjkSxBCjSYSqNUyJlki+V/t/OAvbvsCBjIjafk6MSjEoTOomreE2aGvCA9ImEQ5w3dwEP/p4Dmtphg5MPQLWLBvfNTCkE2IsG9wnq5F7a1QRKAdAJwXWD8xMN6kEz182PF8WhKzfiYBZhTpaX2RAXtxP9DX++QztYXOd9N3Fvwb516RbZwGWQwJ2NRc1qjXXL/P1sGH9jW2AJ3L6YK9kOrSkWmUr4mdUxmh5hmZNG/nEGRPfT2Tu/LxufCnuGmzCiQaNPF7JqslnDIgCfrpIbvPIY=;E8GZ+UGPJ98aTCxU8yXdSQ=="
 ---
 
