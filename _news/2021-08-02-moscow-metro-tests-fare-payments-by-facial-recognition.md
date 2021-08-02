@@ -85,19 +85,19 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "China court interpretation to limit use of facial recognition"
-    excerpt: "The Supreme People’s Court has issued a judicial ruling to regulate the use of facial recognition in all settings from apps to shopping malls."
-    publishedDateTime: 2021-07-28T18:45:00Z
-    webUrl: "https://www.biometricupdate.com/202107/china-court-interpretation-to-limit-use-of-facial-recognition"
+  - title: "New rules to curb misuse of facial recognition tech"
+    excerpt: "Shops installing face-scanning systems to gather consumers' data without getting their permission and software operators forcing users to give their facial information will be in violation of people's personality rights,"
+    publishedDateTime: 2021-07-28T23:36:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202107/29/WS6101e9fea310efa1bd6651ae.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: China Daily
+      domain: chinadaily.com.cn
     quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/02085231/smile-to-pay-china-facial-recognition.jpg"
-        width: 1200
-        height: 630
+      - url: "http://img2.chinadaily.com.cn/images/202107/29/61020837a310efa1e3b24b66.jpeg"
+        width: 720
+        height: 480
         isCached: true
   - title: "China built the world’s largest facial recognition system. Now, it’s getting camera shy."
     excerpt: "Now, China is putting its freewheeling facial recognition industry on notice. Citing Guo’s case, China’s top court announced this week that consumers’ privacy must be protected from unwarranted face tracking."
@@ -114,6 +114,6 @@ related:
         height: 960
         isCached: true
 
-secured: "sOpSnWPiuUXPwUsuFelH9YV3va7Tv9UaNLFAqHfBYVeqmkXPCd7fAx2a+YQOXiMa869+5BkOHCzedM1KA9qJNfwM8KXdeMBXwFa813kh+1cmAyX3td974Y1siLFAtQDqSnWrdpyMtUlTgjmOxCqhWb78WpFyDDnnSMVr6Z7NSq2zmlHhnipezQV0ZcK/2nXC47BL8dXvK2puZJkx2gc2ng02zApiBVcxzdpVTvQcRUAiJwZGdSCmHzhAVkauqYok1Wks4/hZZClqho9ieH5d1wdRuOzlWVFrnFPFbbKXxALoBOlrtv9rkjrlELEadQyG+jjKn1QqW/zZD+0bKbleYbEaujdj+93V3YNDrZQ2KBE=;6Aac6Yx7PjQLCIPJ6raBYg=="
+secured: "F3EtN6ief6Sn55Z8AKBI8Pe/JxSi12J+BaRDwug0FOQ9y3bug/XKJG3dLD6TyRJB83mq0g6LiVDlEoOGxmeVvJF545NCqgh6TJpNW7D9pzIq+G33pvqji+2IRcnZoiPkep4JRCayx/yEQWInCoajrt5QuGQ5IRo5PS07lWZ/76X07CADW//YP0mIWR0joJzskEwhCq1SxjOob242nHVYRZZoTK9Owq7vuGIRhBN1wLXl6K9lWzO84NdAUPgtd7R/wYkGz0m9OyT2mJGSfpl3SxoO+Rzh/r4DfC8t4uOAEMNgDOJEZbBP9JL6BQ439XWmBKoQ5og8WRiVIvgRetvldX/HnKP0y+EeUqhggrsq58/Mp8EUJwoiB2YLsC0XAL/kudubi5q1mU7hbpVrvdQ4QGZ924zW5NGQaDmGbMEGXZcbX9qLfvwgLCWOZXhT9zjuI4w6amV03+oMW90eWQg7jjckEP9YBGtbI6P2bKBqvmmjzUUL0FAqxOOYNrRpdW5E5Ah9yjkIuRlrIgtR6PUSPw==;X66tUDIJEFG7RjKnFaZoHA=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.albawaba.com/business/pr/adu-prepares-its-students-future-a
 ampWebUrl: "https://www.albawaba.com/amp/business/pr/adu-prepares-its-students-future-artificial-intelligence-1440815"
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/adu-prepares-its-students-future-artificial-intelligence-1440815"
 type: article
-quality: 59
-heat: 59
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-08/Photo%202.jpeg?itok=960EgyHy"
@@ -26,6 +28,6 @@ images:
     height: 853
     isCached: true
 
-secured: "+bpddTBLwyx/LAmi7DR4uYbMWRD27CZsveq+TcCvCj0JO8Pb3lYSUC2u6rb7SMRa65Ag+BZVxRwJGInDx9KQqMRSSfyeVOC02JdxrIFCW3MtKicoNoSyiw/btE9Zh3+D0Dm87Jgne29VeuAFWN0WMkbSL5krx2KxOhfUwWU4OF3f02o1v0DTcCa0/GB54OPJRdSVZZL7pIxJ8saaucwWLH9xMOoxcZvqSpJHGRfmMJnL20VguO0QPg8CFODeowmcxKxpItbVuqdmfljodlHxhrFfYDL9JYIl7Omi9h0upx5nGOojUYNJtiXvsd25sl6R4DK2Rd7V4sCd8aYTZDCM1Sas6l/FrXpL9tX9h8lH+W0=;09e2K7eaSjr86orA22FD+A=="
+secured: "ly7R1SkKFdW1Tywh/5XWbNfXVczFKeOW1xDsBUokiIxtQhrlXOXXpxxS54XO413h0tJVZQcWlTCXgT+zdArK/A4QCiFUt/wS8dTU3hv7lEQ1080tItguxh1qIbi84J6fUVTAukLc/iuVGjQJEh/cnciCCaV/QABXTroS1QQ2Bvfe4R5PuUmy4ppo2lohM6LpDQhGF9V3wWc+NryKZquq4Jk03f9wSYnHXob9F0zsbuchUPOOO1RJTJxQzVLAI1g/ZFJ3WnJEuD6BIVZL7eoAnMqjH+xyUUNR0+KcvcLLkLoh9C/UFF+PZKeTdgjsv54TBX0ni5eh5uA/KJLB+zjTohiy8ZBtliLHrg+gTaz86wcyagzy2VexNCPXX+8Gy0uhUwpmKIqgvC/G9Firx9t+0wP3Eafa2rPt4R1k7v08RtPBej4IEm7zOeI3y4ZXE98cqe7VanRhRuT9QW016uFNsJsu+CREU/tgDBgYKcH9+JWN3UdJpYrN3hbUVWrzZk4qqX0+aR6GKmlS1jGg1cPBdA==;BLzjJPFpVOKKwHWGjpiBKg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitalspy.com/movies/trailers/a37154238/dan-stevens-i
 webUrl: "https://www.digitalspy.com/movies/trailers/a37154238/dan-stevens-im-your-man-trailer/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 603
     isCached: true
-
-related:
-  - title: "Official UK Trailer for Robot Romance 'I'm Your Man' with Dan Stevens"
-    excerpt: "You may not realise, but you treat Tom like a machine. Curzon has revealed an official UK trailer for the acclaimed sci-fi romance indie film I'm Your"
-    publishedDateTime: 2021-07-28T18:47:00Z
-    webUrl: "https://www.firstshowing.net/2021/official-uk-trailer-for-robot-romance-im-your-man-with-dan-stevens/"
-    type: article
-    provider:
-      name: FirstShowing.net
-      domain: firstshowing.net
-    quality: 54
-    images:
-      - url: "https://media2.firstshowing.net/firstshowing/img12/ImYourManPosterartmainimgbig5991.jpg"
-        width: 1400
-        height: 1036
-        isCached: true
 
 secured: "7A5IcnGtkiTr+2r2FJMx5IqdzNA4NvtkBzcxCCPq7GgJRa/SLEm6SVXTAvKs5iVScIx0miW15XN/4xfxI0raqHjzyxnpmdokuhqRTKxWltKRgIiHpAieiP5t9/9gx23CsH44Pdcfh3iWGu1vZjv5yD9i0MrUDcuTsL1G2gKmtP1xAKf4DTBFbSqNA2jzfKqQnDljhxwhi/iSpyS1aVBxyDV2NFUWWV0t39XPdc7YldylMV7EuLB+zsq81oOcmaiJP1SCYyvREzWdVNIy199xG3wbimQ7mzFynw8Vp5Pw/+YmGvYGCqsLmTr9kKSRtT5oMZDH7NvxHbUbxcVrmP78zc/BtgOdo2xRkoseCEOZeAoirwyiOwTV7Op+fObKRXehbcBtoZuTigAzUU3JmvBPOXYWbTOF3UCFHKSyD5fvjo7BdaY+5NcsJzSWKI8PPMZaZd2bGXWWvYMSzueiHWAbdg6srNAq/TUPoFNIUF89OoWifL/kjW873n4m/G1flVImURFd+OjDYM6ojW+lvqxY6w==;w1FzjRH40K//04gQFXaa6g=="
 ---
