@@ -49,15 +49,6 @@ related:
         width: 1199
         height: 807
         isCached: true
-  - title: "Industrial Revolution 4.0 And Massively Distributed Manufacturing Will Be Driven Via Autonomous Vehicles And Self-Driving Cars"
-    excerpt: "The vaunted Fourth Industrial Revolution or Industry 4.0 will be aided via Massively Distributed Manufacturing, and the use of autonomous vehicles including self-driving cars will make it all come together."
-    publishedDateTime: 2021-07-28T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/28/industrial-revolution-40-and-massively-distributed-manufacturing-will-be-driven-via-autonomous-vehicles-and-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 6
 
 secured: "POz+G4nzZeigUuGJ5nfnI2QM96bDLaLdxL7+HhGt+48gFxovnWARbb0vWwkd3F4GvEmNNWEf7InImJhV8kBS/5A5mqhme8QkHkjydl00Tm1GT5N+GDgY5XfIfoguFdvd23pPS4OPW5TLOpqAxGX2rvZg9rjL/dc+spWIqC3fDGDgn8GEckoHWviLpGanXZXQ4E5A4GgFjsYizOtLmOObzVXOkgZjwWNOKFjMjBZOdIxP07vhj+ETkTaBUU79VATQ9HKpg/t0P7F/ksxSui3x4/kza9JNEbNhm29XMH06lsPGqhlrNVBE7uqRlQ/DWqqagp5Luum0dXiJhSqyZ1+OFLzAkVj1TZpKaraaXkYj3gxEhumuHRgQ74X8oGN61LxD/ujGzNgQRVwrG57PVPWreelMfiLjCzIKIAYY+gdcJ8NXpQuij3kaK6XYNDtCf6LviHdlDCz7CK08PrLTimQCJwJ7dPss+1c3Y4vVtFIsefZWY1AuBUCFeOGr7WICDJepPtiOZ2Umm0QfXXt3h6pPdw==;pHqRGVKXsdzndIpebLR+vQ=="
 ---

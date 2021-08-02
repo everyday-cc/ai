@@ -1,23 +1,23 @@
 ---
 category: news
-title: "Lantheus Announces the First and Only FDA Cleared AI-Enabled PSMA Digital Application, aPROMISE, Strengthening Lantheus Leadership in Prostate Cancer"
-excerpt: "Lantheus Holdings, Inc. (NASDAQ: LNTH) (Lantheus) announced today that its subsidiary, EXINI Diagnostics AB, was granted 510(k) clearance by the U.S. Food and Drug Administration (FDA) for its digital application,"
-publishedDateTime: 2021-07-29T22:25:00Z
-originalUrl: "https://www.financialbuzz.com/lantheus-announces-the-first-and-only-fda-cleared-ai-enabled-psma-digital-application-apromise-strengthening-lantheus-leadership-in-prostate-cancer/"
-webUrl: "https://www.financialbuzz.com/lantheus-announces-the-first-and-only-fda-cleared-ai-enabled-psma-digital-application-apromise-strengthening-lantheus-leadership-in-prostate-cancer/"
+title: "Lantheus Announces the First and Only FDA Cleared AI-Enabled PSMA Digital Application, aPROMISE™, Strengthening Lantheus’ Leadership in Prostate Cancer"
+excerpt: "Lantheus Holdings, Inc. (NASDAQ: LNTH) (Lantheus) announced today that its subsidiary, EXINI Diagnostics AB, was granted 510(k) clearance by the U.S."
+publishedDateTime: 2021-07-30T02:25:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210729006210/en/Lantheus-Announces-the-First-and-Only-FDA-Cleared-AI-Enabled-PSMA-Digital-Application-aPROMISE™-Strengthening-Lantheus’-Leadership-in-Prostate-Cancer"
+webUrl: "https://www.businesswire.com/news/home/20210729006210/en/Lantheus-Announces-the-First-and-Only-FDA-Cleared-AI-Enabled-PSMA-Digital-Application-aPROMISE™-Strengthening-Lantheus’-Leadership-in-Prostate-Cancer"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "Ljdjej/n3PRowXaDQnukHFDOQxNLBVt8Vm/vqT50pNNxZPfM9na4+5LUq67vEXm6h5lIqym5KW/SWTAlSrEm2MaUQSYM0LQB6ypBuT9WJQmLUlpSRd2NR5y26Q51zzLSn0PH52Qtcv5PbG6uI+UWGVtMA+FFBHvZMqPouJK7d9WrRJwovQvdjPf7EEsE2mhvImaPTHPhxDgeH3Agv8HwkRhX1x2ndIHVW068A2SOIVR3qJ0zMtwt2ESkgYUvxy1ordJVmqbfdD3lRtqLLMDreT3AhvIZmnpbk0efuLBvj1G23bvyR2ZXGGdtexxGdEQUIHiK+EiH6rgIx+4Sl/RuArYFrogANS5W7KNvRmgqA5c=;zwz3n33UHRU9/1nCLA8BoQ=="
+secured: "eywC47oYaXxUBIuYMCjo3PFXWvYUh+eNyULWLmmfX0YjBsVQbywno6W0QvMrIIV9xhoXQLT+jyg1uLHw0CyzHEhutspGlYzVz3A/wdLzHiBLropKD0v6XnVTxV6M9BlTgzeQazMSw7l/8FHG9dxWMEpG/jBiV6ntD9t/NwVbw9co+WaErCOLY7Ab9Q8NLywhFEl6gBJ4nGAMkEBTzve36nPJWMgzAqK9vAyt2+vqO3EhSMc4Tz49LJ12WTblcDr5R1Luxy+A8n4sGXOa1pB63YPLLZ2T1LdPq5IFCgbI42zevyird0ctADK8mCVGsYGTl/Mc4mD5i9hsqtnIlndM+X7qLhBoL45F15VEH/X0+FA=;jHzFd5vSgvyMwmv4JHdK/g=="
 ---
 

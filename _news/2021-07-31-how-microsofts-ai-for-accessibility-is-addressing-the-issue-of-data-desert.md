@@ -62,19 +62,14 @@ related:
         height: 600
         isCached: true
   - title: "Microsoft Releases Toolkit on Designing AI for Humans"
-    excerpt: "Microsoft is offering guidance to companies to develop human-centered artificial intelligence (AI) technologies:"
-    publishedDateTime: 2021-08-02T04:47:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/microsoft-human-ai-experience-toolkit/"
+    excerpt: "Microsoft is offering guidance to companies to develop human-centered artificial intelligence (AI) technologies. Microsoft released the Human-AI eXperience (HAX) Toolkit or a set of tools to create and implement best practices when creating AI that interacts with people,"
+    publishedDateTime: 2021-08-02T04:50:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-releases-toolkit-on-designing-ai-for-humans/"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 54
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
-        width: 1024
-        height: 389
-        isCached: true
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 36
 
 secured: "5hcEyTbbT/T/w6qLvvja5JUf2CfKhLOkaMuoz2nM2VYDsfVWGBB/kwLBKHJy96P02Z17qlmYM2wMGIiRSa3S1UmsmRwdTcpdq9gcmU5kbCinP/fZx/1EaYvy/Nugvc31VEo7izd1VTuNLe/PdixyrUg47Ael2iVotEuOGFzDTzsLvMLB/Ljl8MN50DkIsVk1HPYchpY0nviXDztvroN+/UqSMaJjzWlfqGzdEOygv16+GIVV0F11BHx4b+IxjeQyHRR/DlQyxyRcC+xg4Pmx74jflPhGjgL6KXY2ZpTyZZanMphFYWROXGE7o1ijkZGmZKqCzCKrTGU6Uqee5kQVunkjL/J8hE/Lbd3fM5SRkqiQHU9Tpl5N2yEz8KVjvZjl5tPpvFJffRhEtVd+U+mcMx8sq6TzHuzatQygz6noJkE2usf6jY0fAa4zs2sW6Xy844q2MYdzPwZ9Wf3dSRg9j0ew1d3wbBq9uQsh2RNIDCHzv/IAknpCDwCYpTIwN1EvqR70h8piHTcHMAs4yBeJsA==;gaTKHqQ2kJrbqc0DLxOhNQ=="
 ---

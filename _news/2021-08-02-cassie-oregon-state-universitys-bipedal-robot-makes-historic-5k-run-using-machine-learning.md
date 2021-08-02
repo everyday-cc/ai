@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.registerguard.com/amp/5437748001"
 cdnAmpWebUrl: "https://amp-registerguard-com.cdn.ampproject.org/c/s/amp.registerguard.com/amp/5437748001"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Cassie the bipedal robot complete a 5K run"
-    excerpt: "TechCrunch notes that Cassie is the basis of delivery bot Digit, created by Agility Robotics, a spin-off of Oregon State University. It started life as Cassie"
-    publishedDateTime: 2021-07-28T14:55:00Z
-    webUrl: "https://www.techspot.com/news/90581-watch-cassie-bipedal-robot-complete-5k-run.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 49
   - title: "Ostrich Robot Machine-Learns Itself To 5K"
     excerpt: "Ever since humanity has grasped the idea of a robot, we’ve wanted to imagine them into walking humanoid form. But making a robot walk like a human is not an easy task, and even the best of"
     publishedDateTime: 2021-08-01T17:00:00Z

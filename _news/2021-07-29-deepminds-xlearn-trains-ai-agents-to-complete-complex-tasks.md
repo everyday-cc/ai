@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "DeepMind’s XLearn trains AI agents to complete complex tasks"
-    excerpt: "DeepMind designed a virtual environment called XLand to train systems to succeed at problems and games, even those they haven't encountered."
-    publishedDateTime: 2021-07-28T13:30:00Z
-    webUrl: "https://venturebeat.com/2021/07/28/deepminds-xlearn-trains-ai-agents-to-complete-complex-tasks/"
-    ampWebUrl: "https://venturebeat.com/2021/07/28/deepminds-xlearn-trains-ai-agents-to-complete-complex-tasks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/28/deepminds-xlearn-trains-ai-agents-to-complete-complex-tasks/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all"
-        width: 1198
-        height: 600
-        isCached: true
   - title: "DeepMind’s Vibrant New Virtual World Trains Flexible AI With Endless Play"
     excerpt: "Algorithms played around 700,000 games in 4,000 worlds. Notably, they developed a general skillset not related to any one game, but useful in all of them."
     publishedDateTime: 2021-08-01T14:00:00Z

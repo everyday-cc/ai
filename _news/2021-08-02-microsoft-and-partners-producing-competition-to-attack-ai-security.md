@@ -55,19 +55,14 @@ related:
         height: 600
         isCached: true
   - title: "Microsoft Releases Toolkit on Designing AI for Humans"
-    excerpt: "Microsoft is offering guidance to companies to develop human-centered artificial intelligence (AI) technologies:"
-    publishedDateTime: 2021-08-02T04:47:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/microsoft-human-ai-experience-toolkit/"
+    excerpt: "Microsoft is offering guidance to companies to develop human-centered artificial intelligence (AI) technologies. Microsoft released the Human-AI eXperience (HAX) Toolkit or a set of tools to create and implement best practices when creating AI that interacts with people,"
+    publishedDateTime: 2021-08-02T04:50:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-releases-toolkit-on-designing-ai-for-humans/"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 54
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
-        width: 1024
-        height: 389
-        isCached: true
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 36
   - title: "How Microsoft’s AI For Accessibility Is Addressing The Issue Of Data Desert"
     excerpt: "AI-based technology has been very generalised and hence very exclusionary in catering to persons with disabilities."
     publishedDateTime: 2021-07-31T07:30:00Z
@@ -78,6 +73,6 @@ related:
       domain: analyticsindiamag.com
     quality: 32
 
-secured: "d2vy0kGe58xb+uJ1pQajLpgPK+QPJXAYN3AFS8cjls/8RxYgMqwuRKMFDE8syYipSldB+npbMng/M6uL5NO/6WsTqqLSknLWUeMYVgSNA3/oHaUd5LY+6BOhc2QAiNbmJUG/uvMXWFUKHq1DajtrSvJgtu/K10dQNihJpZoZ6e/URElQk16y2XGq4noLKWpHS4fU6Xna/093VMAA1YKgiH7EvFIvpgc75gc5GpRSgOwRfvdOis9tAeJ0gYCPP3F3xIiDBJj2DSsCznXsGoTgJXMvdVP6LxZdWckJePz21MDbTtMNEGAurqpV9pO8+YiNxWhwTn8vaQvVtBqsI+YtJ0OfP2sLdVsxrqCpvuR8v9I=;dPkhmt+wJeV5wwUAUoqajg=="
+secured: "1FGjx1DNLHJ89KW4OnKMkHc7D4TcDsuNlJUjb29xCozpO1xVQqnMHx4UQWqeZo0rek28ZjTrs5aoIXQpCwPifn/sGV1VrqlsyJ69dcStzHJk9EDfI3uQQ7D7YpRLJeosfRFDqNr08cuAXRUIojEC/u9ywsR73PRvfCrEWqGuonSlwFk6nVWjJ8uGggM4zgN6tHLx9t2g+CGdXzW5pJYbc6fbbuu13hmnM79yaDI567gf4hApx8esYIIJjt3LdyDVZUYmT9EqYC8vCGdI+88/Qic0JdUcCf3e21N74utYP7j6prlUxwQPgQuwdWNvG8KudU09PhsRk6fEeNKt7JwARCC3JlWKgyhAfUGXdBH2LbM=;tyVZdjo8lG9hfePK47SE3w=="
 ---
 

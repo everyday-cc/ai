@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Remark AI Finishes in Top 5 in Recent NIST Computer Vision Test"
-    excerpt: "Remark Holdings, Inc. (NASDAQ: MARK), a diversified global technology company with leading artificial intelligence (\"AI\") solutions and digital media properties, today announced that the latest software from its Remark AI business achieved a top-five ranking in a recent computer-vision test (the Face Recognition Vendor Test,"
-    publishedDateTime: 2021-07-28T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test-1030656854"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "NIST starts work on artificial intelligence risk management framework"
     excerpt: "The US NIST has made a Request for Information (RFI) call, as it commences the development of a risk management framework for artificial intelligence. Through the RFI, which appears in the Federal Register,"
     publishedDateTime: 2021-07-30T09:02:00Z

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Ampere to Acquire OnSpecta to Accelerate AI Inference on Cloud-Native Applications"
-    excerpt: "Ampere® Computing today announced it has agreed to acquire AI technology startup OnSpecta, strengthening Ampere® Altra® performance with AI inference applications. The OnSpecta Deep Learning Software (DLS) AI optimization engine can deliver significant performance enhancements over commonly used CPU-based machine learning (ML) frameworks."
-    publishedDateTime: 2021-07-28T13:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ampere-to-acquire-onspecta-to-accelerate-ai-inference-on-cloud-native-applications-1030656835"
+  - title: "Accelerate Artificial Intelligence Initiatives with DDN and NVIDIA at Any Scale"
+    excerpt: "In this whitepaper, DDN and NVIDIA invited ESG to interview several of their joint customers that have been running production AI environments to better understand their needs and to confirm the value that DDN and NVIDIA are providing."
+    publishedDateTime: 2021-07-28T22:56:00Z
+    webUrl: "https://insidehpc.com/white-paper/accelerate-artificial-intelligence-initiatives-with-ddn-and-nvidia-at-any-scale/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 33
     images:
-      - url: "https://mma.prnewswire.com/media/637526/Ampere_Logo.jpg"
-        width: 400
-        height: 204
+      - url: "https://insidehpc.com/wp-content/uploads/2021/07/DDN-Accelerate-Artificial-Intelligence-WP-Cover.png"
+        width: 455
+        height: 600
         isCached: true
 
 secured: "MORzuXoW/80YUOaqA6qbVi+GBE+oEuiZpIbVocXMJb3uz40oAEzVitutRa/qyJ3vkfU3FqTiCW+Z2ax19MPdeVsmC1Gg8PsVEMX0nfFRn9T0JFxWorsjVLcsBp3ROqS/PfzI66dioCc48bPxQ/ld7IBkVzBMNELkPZ6541JUAvshxOvOIrIOaCGeVJfmE0OYo+q1drqQQVuc0WplzyVBR4B9RlNgrGjdNggZkPWWKAiLH/5WEDpQr+UGF4ZYd9Thx6mI3KWsRSrcEJaXvnbBYIYck5XXT75GTvhVx7tFSWW/h+h/Qve0FpvbMEfODiG1MTCOnQnJxFfZ2usDklIvvAY75bFuk/YSNlEDRsbH/y6yxThESPss64fuqhpmmJeKi6bfNb+emoEWXG0hIh/MVVxh0stGhHvBFues9bEeeces0uaA41EfZy2ItkIooDIlXAXGVNv0T2HV67A/aCedatJZ8Qt/hVLNL4juZykZ6nc+Qw5gl70hIFH/kKRKcRfoVH2+KlWkq0vwfbODO8gl0g==;mdi30SF3w9Yr3JdMs7huZg=="

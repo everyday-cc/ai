@@ -7,7 +7,7 @@ originalUrl: "https://www.aaas.org/news/abake-adenle-works-expand-discourse-role
 webUrl: "https://www.aaas.org/news/abake-adenle-works-expand-discourse-role-artificial-intelligence-can-play-africa"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -22,35 +22,6 @@ images:
     width: 440
     height: 440
     isCached: true
-
-related:
-  - title: "Using AI to map Africa’s buildings"
-    excerpt: "Between 2020 and 2050, Africa’s population is expected to double, adding 950 million more people to its urban areas alone. However, according to 2018 figures, a scarcity of affordable housing in many African cities has forced over half of the city dwellers in Sub-Saharan Africa to live in informal settlements."
-    publishedDateTime: 2021-07-28T16:00:00Z
-    webUrl: "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/"
-    ampWebUrl: "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BINK_GoogleHero_Open-Buildings_V2b_2096x11.max-1300x1300.jpg"
-        width: 1300
-        height: 733
-        isCached: true
-  - title: "South Africa first country to award patent to artificial intelligence inventor"
-    excerpt: "South Africa has awarded a patent to an artificial intelligence (AI) called Dabus — short for Device for the Autonomous Bootstrapping of Unified Sentience. Dabus received its patent for a food container based on fractal geometry,"
-    publishedDateTime: 2021-07-29T15:28:00Z
-    webUrl: "https://mybroadband.co.za/news/software/408038-south-africa-first-country-to-award-patent-to-artificial-intelligence-inventor.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/408038-south-africa-first-country-to-award-patent-to-artificial-intelligence-inventor.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/408038-south-africa-first-country-to-award-patent-to-artificial-intelligence-inventor.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 33
 
 secured: "oQgVrOtuSFG4kR06zVb8b+1K1Flg3MZcl8uJ3ZZri8OUENTiZRYF8yX+AIc4jWuxwj4Ol+krE+RlPorh3du+JLOVQucnivJZba7VrsAu7V0r7CY3bnWeX7RgmKuH67QqDpsL5iW1/kFvtBgI0j2sL9c6VZnTCZqCXeWM3AH9LwDU65ZfGufD+1gKxU9krbvgXC5sR55S5kHYa/W0MPEzUMSL0l8HhIRKIprpzTK/J3339sMKah+5IC2ClzfXZGn81mqNJQl60E1nuDqaOo1JB8tO6bFv5NM37pDJxNIlIH215m5lMOaRhW7iFHo8qwXWGG3sQJR2a9/rMUA7+EnTOhMkD/jw6Z9HVMoJAz3mEOwMt8pU8t3W6FTn3DqkkO9O+zHrolIYuFKX5kqG/K0fmKQCB3LBYe3vkH7zhVVx9NtdcXbAU0wlKhrwAM84unwBvIBGhl/mGEEnLjgYkyweRNXA5jHbGdM2Qsu0rZDDo5ZsX1N9CCEDw6ZTlSROoKoDSKtq14MfgsG2coFd21d6IA==;8x0wWddTfNsXaNpTkI1vzw=="
 ---

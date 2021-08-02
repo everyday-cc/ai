@@ -1,28 +1,23 @@
 ---
 category: news
 title: "Microsoft Releases Toolkit on Designing AI for Humans"
-excerpt: "Microsoft is offering guidance to companies to develop human-centered artificial intelligence (AI) technologies:"
-publishedDateTime: 2021-08-02T04:47:00Z
-originalUrl: "https://www.datamation.com/artificial-intelligence/microsoft-human-ai-experience-toolkit/"
-webUrl: "https://www.datamation.com/artificial-intelligence/microsoft-human-ai-experience-toolkit/"
+excerpt: "Microsoft is offering guidance to companies to develop human-centered artificial intelligence (AI) technologies. Microsoft released the Human-AI eXperience (HAX) Toolkit or a set of tools to create and implement best practices when creating AI that interacts with people,"
+publishedDateTime: 2021-08-02T04:50:00Z
+originalUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-releases-toolkit-on-designing-ai-for-humans/"
+webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-releases-toolkit-on-designing-ai-for-humans/"
 type: article
-quality: 54
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Datamation
-  domain: datamation.com
+  name: fintechzoom
+  domain: fintechzoom.com
 
 topics:
+  - AI in Finance
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
-    width: 1024
-    height: 389
-    isCached: true
 
 related:
   - title: "Microsoft and Partners Producing Competition to ‘Attack’ AI Security"
@@ -77,6 +72,6 @@ related:
       domain: analyticsindiamag.com
     quality: 32
 
-secured: "ioZTvPFGcpqNJ3QscIR2mEMecb31O4oD5l73/Qu7bUDmX+B3p5il0l1rvA9NwpPREttH8mAiMy6UPNFpbVHb2MlFHXMv6XO0CfHGNgZCI+AamaZQyngEOk+ybng0sHuQkBa0QcxJnI1V33iVGEfE8zYo2xrbDrISaytEDctMyCBZTJWznaikI4nHQfHu4HlOUvTigs8G/7vQf9Ex8PNPGMzmi/ymSyTJZFUEC5bjOdFV9//7l6wzf0ptbmoWZRBr91fyNYvrh/C5pYpEEwQN5jkwYYF1y+Feb9+meajTWx2rhv6GOIAFB4LNl/T0KjS5RA6uPgs47/LxN7ftyup0n5oiHhAmcfgFgKnw6cDq1QY=;oqSoH/xFHu+WFRDxJUrrpQ=="
+secured: "OIWVEc609lHUlqitNXL82qcsntdfBQktkalTaYOwpo8C0QzpIOc5XdTMVf9Sn/D0fgg2B/SDCjrzywLvjcE8MRtHFf8qRYVL6s2Nl8mAljhpGN+r5GWSYeE4eReS3xuCcwyYjQN3LaE6NqYPgCdcTw3nXwjJiX77rEzUf6ZbMEc8nZNEsrCN6bYwg5VNczRn2W51PJluDnJNU6Cd8+dhZ/aJpGGAumEqTN2vWpPd7Hj5xi/PShPgKs5KmBtWsy7CCLCB4l+X7n2E9UADWdPV1KzzbYedUoDd0k5FYSYiPSkWnAvMqQGnGKnXDqLpIAm76A/FZXi5nTZhr8dtPl3mOMbwNPew+3TrS3fJooreQUk=;zKXds4Wfk7jVy9VdNSYwKQ=="
 ---
 

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Overview of Transformation in Radiology Through Artificial Intelligence"
-    excerpt: "Multiple industries are harnessing Artificial Intelligence to boost productivity. This article lays an overview on how radiology departments in hospitals or clinics have started transforming with AI models and radiomics for radiologists."
-    publishedDateTime: 2021-07-28T15:30:00Z
-    webUrl: "https://www.analyticsinsight.net/overview-of-transformation-in-radiology-through-artificial-intelligence/"
+  - title: "Baidu AI Cloud announces strategy upgrade to empower industries"
+    excerpt: "To support enterprises' digitalization and intellectualization, Baidu AI Cloud announced upgrade on its strategy and infrastructure to empower real economy for development with better quality, the tech company said in Beijing on Thursday."
+    publishedDateTime: 2021-07-29T13:16:00Z
+    webUrl: "https://news.cgtn.com/news/2021-07-29/Baidu-AI-Cloud-announces-strategy-upgrade-to-empower-industries--12igTcyo9Da/index.html"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
+      name: CGTN
+      domain: cgtn.com
     quality: 39
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Overview-on-Transformation-in-Radiology-through-Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
+      - url: "https://news.cgtn.com/news/2021-07-29/Baidu-AI-Cloud-announces-strategy-upgrade-to-empower-industries--12igTcyo9Da/img/6c73a690fa0d4d54a692c68d0f4c4502/6c73a690fa0d4d54a692c68d0f4c4502-1920.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Baidu head predicts transformation in AI tech"
     excerpt: "In the next decade, eight key technologies in the field of artificial intelligence will undergo a \"quantitative to qualitative transformation\" and thus profoundly change society, said Robin Li, co-founder and CEO of internet search giant Baidu Inc."

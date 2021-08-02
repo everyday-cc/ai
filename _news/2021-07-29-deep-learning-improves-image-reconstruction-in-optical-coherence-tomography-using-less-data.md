@@ -26,22 +26,6 @@ images:
     height: 759
     isCached: true
 
-related:
-  - title: "Using SDOH Data in Machine Learning to Improve Predictive Models"
-    excerpt: "A machine learning algorithm can use predicative analytics to determine cardiovascular disease better for diverse populations when social determinants of health are incorporated."
-    publishedDateTime: 2021-07-28T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/using-sdoh-data-in-machine-learning-to-improve-predictive-models"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Data_funnel.jpg"
-        width: 690
-        height: 400
-        isCached: true
-
 secured: "7ryPVxQyEyiirvGEBbe6QObZy3ihn0MN7cXDMkjxdF7MsO7AOrOCYmNiyIc28+wHXlbAJLO+i9NvlamunmM2LXPlE+T8w5PNah3tfVVJ2sWdir+i8AUQW90zDHreyLv5Uk2wCCnb9Ftxv92KnDsnnsooiK7sg6ZY6laAlfIdCe7n7odncxSIjssAiqNROdU+UL3o3aJGl4N5bemR5c4nLf/nCuBR2jIhNkf/YlTH84J8VuIMmM+SPqY+MXTm9MS4mjt+11ZPYhomUN2TSnn0O+jBb6QveDxHAnp5Pf/+0hgCcNxlOmXdDCd896pYjcDI+7qTUhpgpIkE6Ss5GFZOGvdX5KkXHglOc9u+08QL2MQ=;g/y+iw+9eWrNtoQ0mxr4qQ=="
 ---
 

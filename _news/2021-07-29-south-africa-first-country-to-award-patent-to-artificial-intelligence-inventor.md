@@ -20,36 +20,40 @@ topics:
   - AI
 
 related:
-  - title: "Using AI to map Africa’s buildings"
-    excerpt: "Between 2020 and 2050, Africa’s population is expected to double, adding 950 million more people to its urban areas alone. However, according to 2018 figures, a scarcity of affordable housing in many African cities has forced over half of the city dwellers in Sub-Saharan Africa to live in informal settlements."
-    publishedDateTime: 2021-07-28T16:00:00Z
-    webUrl: "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/"
-    ampWebUrl: "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/"
+  - title: "SA first to award patent recognising artificial intelligence as inventor"
+    excerpt: "An artificial intelligence has invented a food container with a practical adaption for the transfer of heat into and out of the container."
+    publishedDateTime: 2021-07-30T14:18:00Z
+    webUrl: "https://www.timeslive.co.za/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 58
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BINK_GoogleHero_Open-Buildings_V2b_2096x11.max-1300x1300.jpg"
-        width: 1300
-        height: 733
+      - url: "https://lh3.googleusercontent.com/CS1UTZk59JN31DyaVgUuAi6XLPrzfb_ppy-GcAyEjcetYRarjZc_cwAS1LmVVSMOWcJETzDKnK3oizDBZyBtLb5AtpVORRbL=s1000"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "Abake Adenle Works to Expand Discourse on Role Artificial Intelligence Can Play in Africa"
-    excerpt: "While data privacy is a hot topic in the United States, Abake Adenle says in many ways, it’s even more concerning in African countries. Safeguarding data privacy is more complex because foreign entities are the ones collecting most user data."
-    publishedDateTime: 2021-07-29T23:06:00Z
-    webUrl: "https://www.aaas.org/news/abake-adenle-works-expand-discourse-role-artificial-intelligence-can-play-africa"
+  - title: "I’m sorry Dave I’m afraid I invented that: Australian court finds AI systems can be recognised under patent law"
+    excerpt: "Federal court judge says allowing artificial intelligence systems, as well as humans, to be inventors is ‘consistent with promoting innovation’"
+    publishedDateTime: 2021-07-30T07:47:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/jul/30/im-sorry-dave-im-afraid-i-invented-that-australian-court-finds-ai-systems-can-be-recognised-under-patent-law?via=indexdotco"
     type: article
     provider:
-      name: AAAS
-      domain: aaas.org
-    quality: 28
-    images:
-      - url: "https://www.aaas.org/sites/default/files/styles/large/public/2021-07/Adenle_Abake_440x440.jpg?itok=XuEMjtI8"
-        width: 440
-        height: 440
-        isCached: true
+      name: The Guardian
+      domain: theguardian.com
+    quality: 0
+  - title: "Op-Ed: AI legally recognized as a patent inventor -Emerging status as a legal, real person is now in view"
+    excerpt: "Recognition of AI entity DABUS as an inventor is a gigantic, unsure, step into the legal status of artificial intelligence, and it’s a major future issue for the law."
+    publishedDateTime: 2021-08-02T01:50:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/op-ed-ai-legally-recognized-as-a-patent-inventor-emerging-status-as-a-legal-real-person-is-now-in-view/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "gb/cTEdvfTv2GwakeUcElcL8eoNMh3cTJDx9QYljHAU0puFfyX4GG0ZVHof8RHDLC6U3f5QRV7BD2yQD9XZDJvCWoQBfnYEDSKIjwTEGauGidD3Mllp/nqEw/IxyLyKXOJBilhWKlKLfRu8pkOVF/WtHes3w2ILR8cO77HRUUTOI5f0Qs2OjpCin39Ot6kTPbxA6+yOisHNJPBhJDPYOikR5zL/x0xsYX993LzVSyL903Q25qDDhppsEpKKlnk1FOj1qIYAX861oacu2s4VOl6swstUcUTQxyyWmyARVc78S0N3rXS7WFcN10qsf8FaQLGZlhi9oQ/cf8Em5hC0ZzMEOWAVJuLBa9dTG16c83eg=;GEs+Ln3G3lwloeU2HM1Bzw=="
 ---

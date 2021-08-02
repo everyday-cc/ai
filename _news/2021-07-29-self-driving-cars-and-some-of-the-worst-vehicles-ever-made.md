@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Industrial Revolution 4.0 And Massively Distributed Manufacturing Will Be Driven Via Autonomous Vehicles And Self-Driving Cars"
-    excerpt: "The vaunted Fourth Industrial Revolution or Industry 4.0 will be aided via Massively Distributed Manufacturing, and the use of autonomous vehicles including self-driving cars will make it all come together."
-    publishedDateTime: 2021-07-28T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/28/industrial-revolution-40-and-massively-distributed-manufacturing-will-be-driven-via-autonomous-vehicles-and-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 6
   - title: "VW boss: Data to be key issue for future of self-driving cars"
     excerpt: "WOLFSBURG: Data that are crucial for the safety of self-driving cars, and the way they are handled, will be important issues that the technology will have to deal with at some point down the line, predicts Volkswagen Group chief executive Herbert Diess."
     publishedDateTime: 2021-08-01T11:11:00Z

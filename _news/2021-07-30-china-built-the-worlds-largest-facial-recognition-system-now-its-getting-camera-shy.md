@@ -100,19 +100,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Eight Things You Didn’t Know about Facial Recognition"
-    excerpt: "Facial recognition is a technology that has become common in recent years for a variety of uses, some as naive as unlocking your iPhone or Tesla car, and"
-    publishedDateTime: 2021-07-28T17:00:00Z
-    webUrl: "https://moneyinc.com/eight-things-you-didnt-know-about-facial-recognition/"
+  - title: "Moscow Metro tests fare payments by facial recognition"
+    excerpt: "Moscow Metro has begun testing a pay by face system with 1000 commuters. Initially operating on Line 4 of the transit network, the tests will ultimately be expanded to all the lines as more passengers sign up."
+    publishedDateTime: 2021-08-02T09:31:00Z
+    webUrl: "https://www.finextra.com/newsarticle/38571/moscow-metro-tests-fare-payments-by-facial-recognition"
     type: article
     provider:
-      name: Money Inc
-      domain: moneyinc.com
+      name: Finextra
+      domain: finextra.com
     quality: 39
     images:
-      - url: "https://moneyinc.com/wp-content/uploads/2021/03/shutterstock_1108648043-e1614688904492.jpg"
-        width: 750
-        height: 500
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/moscow-metro.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "t0xvmeYZcKKfCLDhXcgnNWFiqrI6a4EwvteU1D2rWdd84MnwBrGblvmsSGwtLlqEL4CM5DJRc+dEFuT9JK11NnhWyTJmSU1e8v3SszNrgjPIQpME4zn/c3grroPpdE4IbTAUqri3tLdVDRTYEdUcle/KKi95ZVPaOVRg4vrxxcfuy0saQVVDKz7CluomTjGT/d3qUDBbouOB1J3HyI9NyzmBylWZc3lG806giDqzU2EyGmcedFW362qr6Vc+UMSyTI80R+XfgZsHBbOKh8HqhvEzFl9wYcVKlJ7XBSBSClIUuqCHbY7vLN8ACYv5HBIZ0EG1u8YHFhiyhPmPwcPr/V0e+oBnp0fZKi9stmkbVms=;0MAUHZb06cYH0YpBX4aS0Q=="
